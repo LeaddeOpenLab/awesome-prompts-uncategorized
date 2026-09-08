@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T10:46:43.068Z",
+  "model": "unknown-image",
+  "prompt": "Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.",
+  "summary": "Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.",
+  "summaryEn": "Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096832293138726943",
+    "canonicalUrl": "https://x.com/MohdAdnanA86218/status/2096832293138726943",
+    "author": {
+      "username": "MohdAdnanA86218",
+      "displayName": "HeisenLegacy",
+      "profileUrl": "https://x.com/MohdAdnanA86218"
+    },
+    "publishedAt": "2026-09-07T05:25:50.000Z",
+    "collectedAt": "2026-09-08T10:41:21.753Z",
+    "language": "en",
+    "originalText": "Image created on Gpt 2 \n\nPrompt:\nUltra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRlx2l7awAAA25M.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRlx2l7awAAA25M.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 100,
+      "repostCount": 10,
+      "replyCount": 40,
+      "quoteCount": 0,
+      "viewCount": 1802
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"gemini\",\"seedance\",\"grok\",\"gpt\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MohdAdnanA86218/status/2096832293138726943",
+  "coverUrl": "https://pbs.twimg.com/media/HRlx2l7awAAA25M.jpg",
+  "coverPath": "images/2096832293138726943-1.jpg",
+  "imagePaths": [
+    "images/2096832293138726943-1.jpg"
+  ],
+  "distribution": {
+    "status": "pending_push"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRlx2l7awAAA25M",
+    "x-post:2096832293138726943"
+  ],
+  "analysis": {
+    "summary": "Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.",
+    "summaryEn": "Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt details accurately match the man's appearance, clothing, and the coastal overcast environment."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.",
+    "sourceRange": {
+      "start": 33,
+      "end": 1086
+    },
+    "translations": {
+      "zh": "超写实电影感时尚编辑摄影：一名二十出头英俊男子赤脚站在阴云密布的寂静海滩上。他留着微风拂过的黑色卷发，眉眼深邃，下颌硬朗，带有淡淡胡茬。身穿宽大白色棉质衬衫与宽松大地色长裤，衬衫随海风微扬。海浪轻拂脚边湿沙。米灰浅白色调，柔和阴天光线，空旷静谧忧郁氛围，细腻皮肤与织物纹理，85毫米镜头景深，超精细8K。",
+      "en": "Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion editorial portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 1,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
