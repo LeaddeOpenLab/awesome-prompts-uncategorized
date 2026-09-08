@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-08T07:52:50.758Z",
+  "model": "uncategorized",
+  "prompt": "You say it like it worked for days on this video project. Someone as bored as you typed the prompt and it just spat it out. Its fine to use genAI for timekiller stuff like this, but its the same as watching the NPC trend with the \"Ice cream so good, gang gang\" girl.",
+  "post": {
+    "id": "2097228807790838076",
+    "canonicalUrl": "https://x.com/Yande_X/status/2097228807790838076",
+    "author": {
+      "username": "Yande_X",
+      "displayName": "Ｙａｎ",
+      "profileUrl": "https://x.com/Yande_X"
+    },
+    "publishedAt": "2026-09-08T07:41:27.000Z",
+    "collectedAt": "2026-09-08T07:45:38.443Z",
+    "language": "en",
+    "originalText": "You say it like it worked for days on this video project. Someone as bored as you typed the prompt and it just spat it out. Its fine to use genAI for timekiller stuff like this, but its the same as watching the NPC trend with the \"Ice cream so good, gang gang\" girl.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Yande_X/status/2097228807790838076",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096164845150412800/img/gUg5xqiHCfAlt4Li.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 8
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"prompt\",\"nano banana\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Yande_X/status/2097228807790838076",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096164845150412800/img/gUg5xqiHCfAlt4Li.jpg",
+  "coverPath": "covers/2097228807790838076.jpg",
+  "distribution": {
+    "status": "pending_push"
+  }
+}
