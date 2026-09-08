@@ -29,7 +29,7 @@
 
 分类：美食与饮品 · 状态：待人工复核 · 暂停推流
 
-**概括：** 对生成式 AI 视频的制作门槛和低趣味现象提出批评。
+**Summary (English):** Criticizes the low effort and entertainment value of AI-generated videos, comparing them to the NPC livestream trend.
 
 <img src="covers/2097228807790838076.jpg" alt="封面" width="480" />
 
