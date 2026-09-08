@@ -30,20 +30,20 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### 在阴天海滩上赤脚漫步的年轻男子的电影感时尚编辑人像。
 
 作者：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [查看 X 原帖](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 电影 / 电影剧照 · 人像 / 自拍 · 角色 · 时尚单品 · 待推流
 
-**Summary (English):** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**概括:** 在阴天海滩上赤脚漫步的年轻男子的电影感时尚编辑人像。
 
 <img src="images/2096832293138726943-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+超逼真的电影时尚编辑摄影，拍摄了一位20岁出头、相貌英俊出众的年轻男子，赤脚站在阴云密布的戏剧性天空下的僻静空旷海滩上。他拥有浓密、自然微卷的乌黑头发，被海风轻拂得微微凌乱，眉形立体鲜明，深邃而富有表现力的深褐色眼睛，高挺雕塑般的鼻梁，突出的颧骨，线条分明的男性化下颌线，以及若隐若现的自然胡茬。他穿着一件宽松、挺括的白色纯棉衬衫，袖口随性，领口微敞，在海风中自然飘逸，搭配宽松的中性色长裤。当细小的浪花向他涌来时，他的双脚轻踩在潮湿的沙滩上。柔和的米色、灰色和灰白色调调色板，柔和漫射的阴天光线，薄雾缭绕的地平线，平静的海洋，极简空旷的四周环境，宁静忧郁的氛围，精致奢华的时尚编辑大片美学，自然的皮肤纹理，逼真的织物细节，微妙的胶片颗粒感，浅景深，电影感构图，85mm镜头，逼真，超精细，8K。
 ```
 
 [↑ 返回分类目录](#catalog)

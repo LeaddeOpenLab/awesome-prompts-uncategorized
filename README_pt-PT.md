@@ -30,20 +30,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### Retrato editorial cinematográfico de moda de um jovem a caminhar descalço numa praia nublada.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · Distribuição pendente
 
-**Resumo:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**Resumo:** Retrato editorial cinematográfico de moda de um jovem a caminhar descalço numa praia nublada.
 
 <img src="images/2096832293138726943-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente atraente no início dos seus 20 anos, descalço numa praia deserta e isolada sob um céu nublado dramático. Ele tem cabelo espesso e naturalmente ondulado de tom preto-azeviche, ligeiramente despenteado pela brisa marítima, sobrancelhas fortes e bem definidas, olhos castanho-escuros profundos e expressivos, um nariz reto e esculpido, maçãs do rosto proeminentes, uma linha do maxilar masculina e vincada, e uma barba rala subtil e natural. Ele veste uma camisa oversized de algodão branco imaculado com mangas relaxadas, ligeiramente desabotoada no colarinho, a ondular suavemente com a brisa do mar, combinada com calças largas em tons neutros. Os seus pés tocam suavemente a areia molhada enquanto pequenas ondas avançam na sua direção. Paleta de cores discretas em bege, cinzento e branco sujo, iluminação suave e difusa de dia nublado, horizonte enevoado, oceano calmo, envolvente minimalista e vazia, atmosfera tranquila e melancólica, estética sofisticada de editorial de moda de luxo, textura de pele natural, detalhes de tecido realistas, grão subtil de película, profundidade de campo reduzida, composição cinematográfica, objetiva de 85 mm, fotorrealista, ultradetalhado, 8K.
 ```
 
 [↑ Voltar às categorias](#catalog)

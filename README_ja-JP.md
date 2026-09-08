@@ -30,20 +30,20 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### 曇り空のビーチを裸足で歩く青年の映画のようなファッションエディトリアルポートレート。
 
 作者：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [元の投稿](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信待ち
 
-**概要:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**概要:** 曇り空のビーチを裸足で歩く青年の映画のようなファッションエディトリアルポートレート。
 
 <img src="images/2096832293138726943-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+劇的な曇り空の下、人里離れた誰もいないビーチに裸足で佇む、20代前半の驚くほど端正な顔立ちの青年の超リアルなシネマティック・エディトリアル写真。海風に少し乱された濃く自然なウェーブがかかった漆黒の髪、整った力強い眉、深みのある表情豊かなダークブラウンの瞳、彫刻のようにまっすぐな鼻、高い頬骨、シャープで男性的な顎のライン、うっすらとした自然な無精ひげ。リラックスした袖で襟元が少し開いた、海風になびくオーバーサイズのパリッとした白いコットンシャツに、ゆったりとしたニュートラルトーンのトラウザーを着用している。寄せては返す小さな波に、彼の足は濡れた砂を優しく踏みしめている。落ち着いたベージュ、グレー、オフホワイトのカラーパレット、柔らかく拡散した曇天の光、霞んだ地平線、穏やかな海、ミニマルで何もない周囲、静かでメランコリックな雰囲気、洗練されたラグジュアリーファッションのエディトリアル美学、自然な肌の質感、リアルな生地の質感、繊細なフィルムグレイン、浅い被写界深度、映画的な構図、85mmレンズ、写実的、超詳細、8K。
 ```
 
 [↑ カテゴリに戻る](#catalog)

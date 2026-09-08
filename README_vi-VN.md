@@ -30,20 +30,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### Chân dung biên tập thời trang đậm chất điện ảnh về một chàng trai trẻ đi chân trần trên bãi biển u ám.
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Chờ phân phối
 
-**Tóm tắt:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**Tóm tắt:** Chân dung biên tập thời trang đậm chất điện ảnh về một chàng trai trẻ đi chân trần trên bãi biển u ám.
 
 <img src="images/2096832293138726943-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ đầu độ tuổi 20 vô cùng điển trai đang đứng chân trần trên bãi biển vắng vẻ, biệt lập dưới bầu trời mây đầy kịch tính. Anh có mái tóc đen tuyền dày, xoăn nhẹ tự nhiên, hơi rối nhẹ trước gió biển, đôi lông mày sắc nét rõ ràng, đôi mắt màu nâu sẫm sâu thẳm đầy biểu cảm, sống mũi thẳng tắp như tạc, gò má nổi bật, đường quai hàm nam tính sắc sảo và râu lún phún tự nhiên nhẹ nhàng. Anh mặc một chiếc áo sơ mi cotton trắng tinh khôi phom rộng với tay áo thoải mái, hơi mở cúc ở cổ, tung bay tự nhiên trong gió biển, kết hợp với quần ống rộng tông màu trung tính. Đôi chân anh chạm nhẹ vào cát ướt khi những con sóng nhỏ lăn tăn xô về phía anh. Bảng màu be, xám và trắng ngà nhẹ nhàng, ánh sáng khuếch tán êm dịu của bầu trời u ám, đường chân trời mờ sương, đại dương phẳng lặng, không gian xung quanh tối giản vắng người, bầu không khí trầm lắng tĩnh lặng, thẩm mỹ biên tập thời trang xa xỉ tinh tế, kết cấu da tự nhiên, chi tiết vải chân thực, hạt phim tinh tế, độ sâu trường ảnh nông, bố cục điện ảnh, ống kính 85mm, chân thực như ảnh chụp, siêu chi tiết, 8K.
 ```
 
 [↑ Về danh mục](#catalog)

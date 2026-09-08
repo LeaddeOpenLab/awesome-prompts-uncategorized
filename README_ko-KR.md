@@ -30,20 +30,20 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### 흐린 해변을 맨발로 걷는 젊은 남성의 시네마틱 패션 에디토리얼 인물 사진.
 
 작성자：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [원본 게시물](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 대기
 
-**요약:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**요약:** 흐린 해변을 맨발로 걷는 젊은 남성의 시네마틱 패션 에디토리얼 인물 사진.
 
 <img src="images/2096832293138726943-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+드라마틱한 흐린 하늘 아래 한적하고 외딴 해변에 맨발로 서 있는 20대 초반의 눈부시게 잘생긴 젊은 남성의 초현실적인 시네마틱 에디토리얼 사진. 바닷바람에 자연스럽게 헝클어진 굵고 웨이브 진 흑발, 뚜렷하고 강인한 눈썹, 깊고 표현력 있는 짙은 갈색 눈, 곧고 조각 같은 코, 도드라진 광대뼈, 날렵하고 남성적인 턱선, 은은하고 자연스러운 턱수염. 소매가 자연스럽고 깃이 살짝 열려 바닷바람에 부드럽게 흩날리는 오버사이즈의 산뜻한 화이트 코튼 셔츠와 헐렁한 뉴트럴 톤의 바지를 입고 있다. 잔잔한 파도가 밀려오며 그의 발은 젖은 모래를 부드럽게 딛고 있다. 차분한 베이지, 그레이, 오프화이트 컬러 팔레트, 부드럽게 분산된 흐린 조명, 안개 낀 수평선, 고요한 바다, 미니멀하고 텅 빈 주변, 조용하고 우울한 분위기, 세련된 럭셔리 패션 에디토리얼 미학, 자연스러운 피부 질감, 사실적인 직물 디테일, 미세한 필름 그레인, 얕은 심도, 시네마틱 구도, 85mm 렌즈, 포토리얼리스틱, 극도로 디테일함, 8K.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

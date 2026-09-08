@@ -30,20 +30,20 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### बादल छाए समुद्र तट पर नंगे पैर चलते एक युवक का सिनेमाई फैशन संपादकीय चित्र।
 
 लेखक：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [मूल पोस्ट](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 सिनेमैटिक / फ़िल्म स्टिल · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · फ़ैशन आइटम · प्रकाशन लंबित
 
-**सारांश:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**सारांश:** बादल छाए समुद्र तट पर नंगे पैर चलते एक युवक का सिनेमाई फैशन संपादकीय चित्र।
 
 <img src="images/2096832293138726943-1.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+नाटकीय बादलों से भरे आसमान के नीचे एक सुनसान, एकांत समुद्र तट पर नंगे पैर खड़े 20 के दशक की शुरुआत के एक आकर्षक युवा व्यक्ति की अति-यथार्थवादी सिनेमाई संपादकीय तस्वीर। उसके घने, प्राकृतिक रूप से घुंघराले काले बाल हैं जो समुद्री हवा से थोड़े बिखरे हुए हैं, मजबूत सुडौल भौहें, गहरी भावपूर्ण गहरी-भूरी आंखें, एक सीधी तराशी हुई नाक, उभरी हुई गाल की हड्डियां, एक तीखी मर्दाना जबड़े की रेखा, और हल्की प्राकृतिक दाढ़ी। उसने एक ओवरसाइज़्ड, कुरकुरी सफेद सूती शर्ट पहनी हुई है, जिसकी आस्तीन ढीली है, कॉलर थोड़ा खुला है, जो समुद्री हवा में स्वाभाविक रूप से लहरा रही है, और साथ में ढीले तटस्थ-रंग के पतलून हैं। जब छोटी लहरें उसकी ओर बढ़ती हैं तो उसके पैर धीरे से गीली रेत को छू रहे होते हैं। म्यूट बेज, ग्रे और ऑफ-व्हाइट रंग पट्टिका, नरम विसरित धुंधला प्रकाश, धुंधला क्षितिज, शांत महासागर, न्यूनतम खाली परिवेश, शांत उदास वातावरण, परिष्कृत लक्जरी फैशन संपादकीय सौंदर्य, प्राकृतिक त्वचा की बनावट, यथार्थवादी कपड़े का विवरण, सूक्ष्म फिल्म ग्रेन, उथली क्षेत्र गहराई, सिनेमाई रचना, 85 मिमी लेंस, फोटोरियलिस्टिक, अत्यधिक विस्तृत, 8K।
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

@@ -30,20 +30,20 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### 在陰天海灘上赤腳漫步的年輕男子的電影感時尚編輯肖像。
 
 作者：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [查看 X 原帖](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 電影感 / 電影劇照 · 人像 / 自拍 · 角色 · 時尚單品 · 待推送
 
-**概括:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**概括:** 在陰天海灘上赤腳漫步的年輕男子的電影感時尚編輯肖像。
 
 <img src="images/2096832293138726943-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+超逼真的電影時尚編輯攝影，捕捉了一位20歲出頭、英俊非凡的年輕男子，赤腳佇立在戲劇性多雲天空下的偏僻空曠海灘上。他有著濃密、自然微捲的烏黑頭髮，在海風中略顯凌亂，眉形立體清晰，深邃且富有表現力的深褐色雙眼，筆直如雕刻般的鼻樑，立體的顴骨，俐落的陽剛下顎線，以及隱約可見的自然鬍渣。他身穿寬鬆、挺括的白色純棉襯衫，衣袖隨性，領口微敞，在海風中自然飄拂，搭配寬鬆的中性色長褲。微浪輕湧而來，他的雙腳輕踏在濕潤的沙灘上。柔和的米色、灰色與灰白色調，柔和漫射的陰天光線，薄霧濛濛的地平線，平靜的大海，極簡空曠的周圍環境，安靜沉鬱的氛圍，精緻奢華的時尚大片美學，自然的肌膚質感，真實的布料細節，微妙的膠卷顆粒，淺景深，電影級構圖，85mm鏡頭，逼真寫實，極致細節，8K。
 ```
 
 [↑ 返回分類目錄](#catalog)

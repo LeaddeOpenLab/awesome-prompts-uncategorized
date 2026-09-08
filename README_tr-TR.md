@@ -30,20 +30,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### Bulutlu bir kumsalda çıplak ayakla yürüyen genç bir adamın sinematik moda editoryal portresi.
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Dağıtım bekliyor
 
-**Özet:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**Özet:** Bulutlu bir kumsalda çıplak ayakla yürüyen genç bir adamın sinematik moda editoryal portresi.
 
 <img src="images/2096832293138726943-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çıplak ayakla duran, 20'li yaşlarının başında, son derece yakışıklı genç bir adamın ultra gerçekçi sinematik editoryal fotoğrafı. Okyanus esintisiyle hafifçe dağılmış kalın, doğal dalgalı simsiyah saçları, belirgin ve güçlü kaşları, derin, anlamlı koyu kahverengi gözleri, düz ve biçimli bir burnu, çıkık elmacık kemikleri, keskin maskülen bir çene hattı ve hafif, doğal bir kirli sakalı var. Rahat kollu, yakası hafifçe açık, deniz melteminde doğal olarak dalgalanan, salaş ve bembeyaz pamuklu bir gömlek giyiyor ve altında nötr tonlarda dökümlü bir pantolon bulunuyor. Küçük dalgalar ona doğru yaklaşırken ayakları ıslak kuma usulca temas ediyor. Bej, gri ve kırık beyaz tonlarında yumuşak renk paleti, bulutlu havanın yumuşak ve dağılmış ışığı, sisli ufuk çizgisi, sakin okyanus, minimalist ve boş çevre, sessiz ve melankolik bir atmosfer, sofistike lüks moda editoryal estetiği, doğal cilt dokusu, gerçekçi kumaş detayları, hafif film greni, sığ alan derinliği, sinematik kompozisyon, 85mm lens, fotogerçekçi, ultra detaylı, 8K.
 ```
 
 [↑ Kategorilere dön](#catalog)

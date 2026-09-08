@@ -30,20 +30,20 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 <a name="prompt-2096832293138726943"></a>
 
-### Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+### ภาพถ่ายพอร์ตเทรตแฟชั่นแนวภาพยนตร์ของชายหนุ่มเดินเท้าเปล่าบนชายหาดในวันที่มีเมฆครึ้ม
 
 ผู้เขียน：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [โพสต์ต้นฉบับ](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
 ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพบุคคล / เซลฟี่ · ตัวละคร · ไอเทมแฟชั่น · รอเผยแพร่
 
-**สรุป:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
+**สรุป:** ภาพถ่ายพอร์ตเทรตแฟชั่นแนวภาพยนตร์ของชายหนุ่มเดินเท้าเปล่าบนชายหาดในวันที่มีเมฆครึ้ม
 
 <img src="images/2096832293138726943-1.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+ภาพถ่ายแฟชั่นเชิงบรรณาธิการแนวภาพยนตร์ที่สมจริงอย่างยิ่งของชายหนุ่มรูปงามสะดุดตาวัย 20 ต้นๆ ยืนเท้าเปล่าบนชายหาดอันเงียบสงบและไร้ผู้คนใต้ท้องฟ้าที่มีเมฆมากอันน่าทึ่ง เขามีผมสีดำสนิทดกหนาเป็นลอนธรรมชาติที่ยุ่งเล็กน้อยจากลมทะเล คิ้วคมเข้มได้รูป ดวงตาสีน้ำตาลเข้มลึกซึ้งสื่ออารมณ์ จมูกโด่งเป็นสันคม โหนกแก้มเด่นชัด แนวกรามคมเข้มแบบบุรุษเพศ และตอเคราธรรมชาติบางเบา เขาสวมเสื้อเชิ้ตผ้าฝ้ายสีขาวสะอาดตาตัวใหญ่หลวมๆ ที่มีแขนเสื้อสบายๆ ปลดกระดุมคอเล็กน้อย พลิ้วไหวอย่างเป็นธรรมชาติในสายลมทะเล จับคู่กับกางเกงขายาวทรงหลวมโทนสีธรรมชาติ เท้าของเขาสัมผัสกับทรายเปียกอย่างอ่อนโยนขณะที่คลื่นเล็กๆ ซัดเข้ามาหา โทนสีเบจ เทา และขาวนวลที่ดูสุขุม แสงสลัวนุ่มนวลจากท้องฟ้ามีเมฆหมอก ขอบฟ้าที่มีหมอกจางๆ ทะเลสงบ สภาพแวดล้อมที่ว่างเปล่าแบบมินิมอล บรรยากาศเงียบสงบแฝงความหม่นหมอง สุนทรียภาพแฟชั่นชั้นสูงที่หรูหราและประณีต ผิวสัมผัสธรรมชาติ รายละเอียดเนื้อผ้าที่สมจริง เกรนฟิล์มบางเบา ระยะชัดตื้น การจัดองค์ประกอบแบบภาพยนตร์ เลนส์ 85 มม. สมจริงดั่งภาพถ่าย รายละเอียดระดับอัลตรา 8K
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)
