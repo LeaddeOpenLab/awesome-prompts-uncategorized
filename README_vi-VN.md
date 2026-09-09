@@ -234,13 +234,13 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2096970899622948972"></a>
 
-### Đang dịch
+### Phong cách tranh biếm họa màu gouache vẽ tay trên giấy cotton với tông màu xanh lục, hồng và kem.
 
 Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x.com/MissDelulu9/status/2096970899622948972)
 
 Minh họa · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Phong cách tranh biếm họa màu gouache vẽ tay trên giấy cotton với tông màu xanh lục, hồng và kem.
 
 <img src="images/2096970899622948972-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -249,7 +249,7 @@ Minh họa · Chân dung / Ảnh tự chụp · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouache trên giấy cotton màu kem. Giữ nguyên danh tính chính xác của nhân vật, sự bất đối xứng tự nhiên, các đường nét khuôn mặt chính, kiểu tóc, vóc dáng và trang phục gốc. Sử dụng các mảng phẳng táo bạo, đường viền dứt khoát, vân giấy rõ ràng và kết cấu hạt màu tinh tế. Tỷ lệ cách điệu với thần thái biểu cảm, đôi mắt đồ họa phóng to và tư thế từ thắt lưng trở lên đầy năng động. Bảng màu: tỉ lệ đồng đều giữa xanh xô thơm/ô liu, hồng hoa hồng và kem ấm. Không theo chủ nghĩa hiện thực, không mặt anime, không làm đẹp, không làm mịn da, không đổ bóng 3D, không chữ viết, logo hay lộn xộn. Rõ ràng là cùng một người, rõ ràng là một bức vẽ.
 ```
 
 [↑ Về danh mục](#catalog)
