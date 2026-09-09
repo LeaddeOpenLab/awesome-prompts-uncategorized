@@ -4,10 +4,26 @@
   "model": "unknown-video",
   "prompt": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
   "promptTranslations": {
-    "en": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design."
+    "en": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
+    "zh": "为我设计一个可容纳 6 台 Nvidia Spark 的服务器机架，设计需兼具高效率与美观。",
+    "zh-TW": "為我設計一個可容納 6 台 Nvidia Spark 的伺服器機架，設計需兼具高效率與美觀。",
+    "ja-JP": "効率的で美しいデザインを備えた、6台のNvidia Spark用サーバーラックを作成してください。",
+    "ko-KR": "효율적이고 미적으로 보기 좋은 디자인을 갖춘 6대의 Nvidia Spark용 서버 랙을 만들어 주세요.",
+    "th-TH": "สร้างแร็กเซิร์ฟเวอร์สำหรับ Nvidia Spark จำนวน 6 เครื่องที่มีดีไซน์สวยงามและเปี่ยมด้วยประสิทธิภาพให้ฉัน",
+    "vi-VN": "Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark với thiết kế hiệu quả và đẹp mắt về mặt thẩm mỹ.",
+    "hi-IN": "मेरे लिए 6 Nvidia Sparks के लिए एक सर्वर रैक बनाएं जो एक कुशल और सौंदर्यपूर्ण रूप से मनभावन डिज़ाइन हो।",
+    "es-ES": "Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable."
   },
   "summaryTranslations": {
-    "en": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design."
+    "en": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
+    "zh": "为我设计一个可容纳 6 台 Nvidia Spark 的服务器机架，设计需兼具高效率与美观。",
+    "zh-TW": "為我設計一個可容納 6 台 Nvidia Spark 的伺服器機架，設計需兼具高效率與美觀。",
+    "ja-JP": "効率的で美しいデザインを備えた、6台のNvidia Spark用サーバーラックを作成してください。",
+    "ko-KR": "효율적이고 미적으로 보기 좋은 디자인을 갖춘 6대의 Nvidia Spark용 서버 랙을 만들어 주세요.",
+    "th-TH": "สร้างแร็กเซิร์ฟเวอร์สำหรับ Nvidia Spark จำนวน 6 เครื่องที่มีดีไซน์สวยงามและเปี่ยมด้วยประสิทธิภาพให้ฉัน",
+    "vi-VN": "Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark với thiết kế hiệu quả và đẹp mắt về mặt thẩm mỹ.",
+    "hi-IN": "मेरे लिए 6 Nvidia Sparks के लिए एक सर्वर रैक बनाएं जो एक कुशल और सौंदर्यपूर्ण रूप से मनभावन डिज़ाइन हो।",
+    "es-ES": "Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable."
   },
   "translationVersion": 2,
   "summary": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
