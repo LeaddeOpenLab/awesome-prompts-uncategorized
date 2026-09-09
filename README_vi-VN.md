@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**14** Prompt · Bổ sung mới nhất: **2026-09-09**
+**15** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,32 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2097519361909199023"></a>
+
+### Đang dịch
+
+Tác giả：[@punkhuri1](https://x.com/punkhuri1) · [Bài gốc](https://x.com/punkhuri1/status/2097519361909199023)
+
+Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097519361909199023-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097519361909199023-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097519361909199023-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097217893767303361"></a>
 

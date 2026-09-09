@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**14** Prompt · Son eklenen: **2026-09-09**
+**15** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,32 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2097519361909199023"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@punkhuri1](https://x.com/punkhuri1) · [Orijinal gönderi](https://x.com/punkhuri1/status/2097519361909199023)
+
+Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097519361909199023-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097519361909199023-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097519361909199023-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097217893767303361"></a>
 

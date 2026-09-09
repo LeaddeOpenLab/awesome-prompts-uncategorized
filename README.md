@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**14** Prompts · Latest addition: **2026-09-09**
+**15** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,44 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097519361909199023"></a>
+
+### Photorealistic medium close-up of a woman floating on her back in crystal-clear water during sunset.
+
+Author：[@punkhuri1](https://x.com/punkhuri1) · [Source](https://x.com/punkhuri1/status/2097519361909199023)
+
+Photography · Character · Landscape / Nature · Published
+
+**Summary:** Photorealistic medium close-up of a woman floating on her back in crystal-clear water during sunset.
+
+<img src="images/2097519361909199023-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097519361909199023-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097519361909199023-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Medium close-up, photorealistic fine-art photograph of an adult woman floating peacefully on her back in calm, crystal-clear water at sunset.
+
+She wears a light-blue bikini top and white bottoms. Her eyes are gently closed, her face tilted upward toward the evening sky, conveying complete relaxation. Her wet brown hair spreads naturally through the water around her head. One arm extends naturally outward across the surface, while her legs are softly visible beneath the clear water.
+
+The water is exceptionally clear, with beautiful swirling reflections of deep blue, turquoise, teal, and warm gold created by the setting sun. Gentle ripples and subtle refraction surround her body, creating an authentic natural-water appearance.
+
+The upper portion of the composition contains a luminous sunset sky in warm orange, amber, and soft yellow tones, transitioning naturally into the cooler blue and turquoise water below. Golden-hour sunlight creates a warm glow across the scene and realistic highlights on the water surface.
+
+Natural skin texture, realistic wet hair, physically accurate water reflections and refraction, subtle ripples, lifelike lighting and shadows, realistic photographic depth, authentic skin and fabric detail.
+
+Composition: medium close-up with the woman’s face and upper body as the primary focal point, while enough of her body remains visible to establish the floating pose. Maintain a balanced relationship between the warm sunset sky and colorful water reflections. Natural perspective, cinematic framing, shallow-to-moderate photographic depth, no artificial studio appearance.
+
+Style: high-detail professional fine-art photography, photorealistic live-action appearance, natural color rendering, cinematic realism, authentic golden-hour atmosphere, realistic water surface, physically accurate lighting, fine photographic detail, subtle film grain, masterwork quality.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097217893767303361"></a>
 

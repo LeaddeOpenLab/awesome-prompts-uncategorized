@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**14** Prompts · Última incorporación: **2026-09-09**
+**15** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,32 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2097519361909199023"></a>
+
+### Traducción en curso
+
+Autor：[@punkhuri1](https://x.com/punkhuri1) · [Publicación original](https://x.com/punkhuri1/status/2097519361909199023)
+
+Fotografía · Personaje · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097519361909199023-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097519361909199023-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097519361909199023-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097217893767303361"></a>
 

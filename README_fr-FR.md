@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**14** Prompts · Dernier ajout: **2026-09-09**
+**15** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,32 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2097519361909199023"></a>
+
+### Traduction en cours
+
+Auteur：[@punkhuri1](https://x.com/punkhuri1) · [Publication originale](https://x.com/punkhuri1/status/2097519361909199023)
+
+Photographie · Personnage · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097519361909199023-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097519361909199023-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097519361909199023-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097217893767303361"></a>
 

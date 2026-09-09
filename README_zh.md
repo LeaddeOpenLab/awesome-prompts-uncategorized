@@ -14,7 +14,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**14** 条内容 · 最新收录: **2026-09-09**
+**15** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,32 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2097519361909199023"></a>
+
+### 翻译中
+
+作者：[@punkhuri1](https://x.com/punkhuri1) · [查看 X 原帖](https://x.com/punkhuri1/status/2097519361909199023)
+
+摄影 · 角色 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097519361909199023-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097519361909199023-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097519361909199023-3.jpg" alt="图片 3" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097217893767303361"></a>
 

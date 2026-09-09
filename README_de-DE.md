@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**14** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**15** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,32 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2097519361909199023"></a>
+
+### Übersetzung läuft
+
+Autor：[@punkhuri1](https://x.com/punkhuri1) · [Originalbeitrag](https://x.com/punkhuri1/status/2097519361909199023)
+
+Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097519361909199023-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097519361909199023-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097519361909199023-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097217893767303361"></a>
 

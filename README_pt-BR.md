@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**14** Prompts · Última adição: **2026-09-09**
+**15** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,32 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2097519361909199023"></a>
+
+### Tradução em andamento
+
+Autor：[@punkhuri1](https://x.com/punkhuri1) · [Publicação original](https://x.com/punkhuri1/status/2097519361909199023)
+
+Fotografia · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097519361909199023-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097519361909199023-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097519361909199023-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097217893767303361"></a>
 
