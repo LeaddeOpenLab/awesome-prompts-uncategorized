@@ -14,13 +14,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**3** Prompt · Ultima aggiunta: **2026-09-09**
+**4** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Rendering 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -92,6 +92,32 @@ Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Perso
 
 ```text
 Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straordinariamente attraente sui vent'anni, a piedi nudi su una spiaggia deserta e appartata sotto un drammatico cielo nuvoloso. Ha capelli nero corvino folti e naturalmente mossi, leggermente scompigliati dalla brezza oceanica, sopracciglia marcate e ben delineate, occhi castano scuro profondi ed espressivi, naso dritto e scolpito, zigomi pronunciati, una mascella maschile e affilata, e una barba incolta, sottile e naturale. Indossa una camicia oversize in fresco cotone bianco con maniche morbide, leggermente sbottonata sul colletto, che ondeggia naturalmente con la brezza marina, abbinata a pantaloni morbidi dai toni neutri. I suoi piedi toccano delicatamente la sabbia bagnata mentre piccole onde avanzano verso di lui. Palette di colori tenui composta da beige, grigio e bianco sporco, luce soffusa e diffusa da cielo coperto, orizzonte nebbioso, oceano calmo, ambiente minimale e vuoto, atmosfera tranquilla e malinconica, estetica editoriale di moda di lusso sofisticata, texture della pelle naturale, dettagli realistici del tessuto, grana della pellicola sottile, profondità di campo ridotta, composizione cinematografica, obiettivo da 85 mm, fotorealistico, ultra-dettagliato, 8K.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Rendering 3D
+
+<a name="prompt-2097514564875104516"></a>
+
+### Traduzione in corso
+
+Autore：[@VKs\_Host](https://x.com/VKs_Host) · [Post originale](https://x.com/VKs_Host/status/2097514564875104516)
+
+Rendering 3D · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097514564875104516.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

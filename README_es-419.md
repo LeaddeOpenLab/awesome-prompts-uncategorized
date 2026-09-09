@@ -14,13 +14,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**3** Prompts · Última incorporación: **2026-09-09**
+**4** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Renderizado 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -92,6 +92,32 @@ Cine / Fotograma · Retrato / Selfie · Personaje · Artículo de moda · Public
 
 ```text
 Fotografía editorial cinematográfica y ultrarrealista de un joven increíblemente atractivo de unos 20 años recién cumplidos, descalzo en una playa vacía y solitaria bajo un cielo nublado y dramático. Tiene cabello negro azabache, grueso y naturalmente ondulado, ligeramente alborotado por la brisa marina, cejas marcadas y bien definidas, ojos castaño oscuro profundos y expresivos, nariz recta y esculpida, pómulos prominentes, mandíbula masculina y afilada, y una barba incipiente sutil y natural. Viste una camisa holgada de algodón blanco impecable con mangas relajadas, ligeramente desabotonada en el cuello, ondeando de manera natural con la brisa del mar, combinada con pantalones holgados en tonos neutros. Sus pies tocan suavemente la arena húmeda mientras pequeñas olas ruedan hacia él. Paleta de colores tenues en beige, gris y blanco hueso, iluminación difusa y suave de día nublado, horizonte brumoso, océano en calma, entorno minimalista y despejado, atmósfera tranquila y melancólica, estética sofisticada de editorial de moda de lujo, textura de piel natural, detalles de tela realistas, grano de película sutil, profundidad de campo reducida, composición cinematográfica, lente de 85 mm, fotorrealista, ultradetallada, 8K.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Renderizado 3D
+
+<a name="prompt-2097514564875104516"></a>
+
+### Traducción en curso
+
+Autor：[@VKs\_Host](https://x.com/VKs_Host) · [Publicación original](https://x.com/VKs_Host/status/2097514564875104516)
+
+Renderizado 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097514564875104516.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

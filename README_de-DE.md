@@ -14,13 +14,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**3** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**4** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -92,6 +92,32 @@ Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Ver�
 
 ```text
 Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden jungen Mannes Anfang 20, der barfuß an einem leeren, abgelegenen Strand unter einem dramatischen, bewölkten Himmel steht. Er hat dichtes, natürlich gewelltes pechschwarzes Haar, das von der Meeresbrise leicht zerzaust ist, kräftige, wohlgeformte Augenbrauen, tiefe, ausdrucksstarke dunkelbraune Augen, eine gerade, markante Nase, prominente Wangenknochen, eine kantige, maskuline Kinnlinie und einen dezenten, natürlichen Dreitagebart. Er trägt ein makelloses weißes Oversize-Baumwollhemd mit lockeren Ärmeln, das am Kragen leicht geöffnet ist und sanft im Wind weht, kombiniert mit einer weiten Hose in neutralen Farbtönen. Seine Füße berühren sanft den nassen Sand, während kleine Wellen auf ihn zurollen. Gedämpfte Farbpalette aus Beige, Grau und Off-White, weiches, diffuses Licht bei bedecktem Himmel, diesiger Horizont, ruhiger Ozean, minimalistische, leere Umgebung, ruhige, melancholische Atmosphäre, anspruchsvolle Luxusmode-Editorial-Ästhetik, natürliche Hauttextur, realistische Stoffdetails, feines Filmkorn, geringe Schärfentiefe, filmische Bildkomposition, 85-mm-Objektiv, fotorealistisch, extrem detailliert, 8K.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D-Rendering
+
+<a name="prompt-2097514564875104516"></a>
+
+### Übersetzung läuft
+
+Autor：[@VKs\_Host](https://x.com/VKs_Host) · [Originalbeitrag](https://x.com/VKs_Host/status/2097514564875104516)
+
+3D-Rendering · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097514564875104516.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

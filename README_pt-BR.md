@@ -14,13 +14,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**3** Prompts · Última adição: **2026-09-09**
+**4** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -92,6 +92,32 @@ Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Item de 
 
 ```text
 Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente bonito no início dos seus 20 anos, em pé e descalço em uma praia deserta e isolada sob um céu nublado dramático. Ele tem cabelos grossos e naturalmente ondulados na cor preto-ébano, levemente despenteados pela brisa do oceano, sobrancelhas marcantes e bem delineadas, olhos castanho-escuros profundos e expressivos, nariz reto e esculpido, maçãs do rosto proeminentes, mandíbula masculina e definida, e uma barba por fazer suave e natural. Ele veste uma camisa oversized de algodão branco impecável com mangas relaxadas, levemente aberta no colarinho, balançando suavemente com a brisa do mar, combinada com calças folgadas em tons neutros. Seus pés tocam suavemente a areia molhada enquanto pequenas ondas se aproximam dele. Paleta de cores suaves em bege, cinza e off-white, iluminação difusa e suave de dia nublado, horizonte enevoado, oceano calmo, cenário minimalista e vazio, atmosfera calma e melancólica, estética sofisticada de editorial de moda de luxo, textura de pele natural, detalhes realistas no tecido, granulação sutil de filme, profundidade de campo reduzida, composição cinematográfica, lente de 85 mm, fotorrealista, ultradetalhado, 8K.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Renderização 3D
+
+<a name="prompt-2097514564875104516"></a>
+
+### Tradução em andamento
+
+Autor：[@VKs\_Host](https://x.com/VKs_Host) · [Publicação original](https://x.com/VKs_Host/status/2097514564875104516)
+
+Renderização 3D · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097514564875104516.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

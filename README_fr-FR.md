@@ -14,13 +14,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**3** Prompts · Dernier ajout: **2026-09-09**
+**4** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -92,6 +92,32 @@ Image cinématographique / Photogramme de film · Portrait / Selfie · Personnag
 
 ```text
 Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme remarquablement beau au début de la vingtaine, debout pieds nus sur une plage déserte et isolée sous un ciel nuageux spectaculaire. Il a des cheveux noir de jais, épais et naturellement ondulés, légèrement décoiffés par la brise marine, des sourcils marqués et bien dessinés, des yeux marron foncé profonds et expressifs, un nez droit et sculpté, des pommettes saillantes, une mâchoire masculine bien définie et une barbe naissante subtile et naturelle. Il porte une chemise en coton blanc immaculé oversize aux manches décontractées, légèrement déboutonnée au col, flottant naturellement au gré de la brise marine, associée à un pantalon ample aux tons neutres. Ses pieds touchent délicatement le sable humide tandis que de petites vagues se dirigent vers lui. Palette de couleurs douces de beige, gris et blanc cassé, éclairage diffus et doux par temps couvert, horizon brumeux, océan calme, environnement épuré et désert, atmosphère calme et mélancolique, esthétique éditoriale de mode luxueuse et sophistiquée, texture de peau naturelle, détails réalistes des tissus, subtil grain argentique, faible profondeur de champ, composition cinématographique, objectif 85 mm, photoréaliste, ultra-détaillé, 8K.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## Rendu 3D
+
+<a name="prompt-2097514564875104516"></a>
+
+### Traduction en cours
+
+Auteur：[@VKs\_Host](https://x.com/VKs_Host) · [Publication originale](https://x.com/VKs_Host/status/2097514564875104516)
+
+Rendu 3D · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097514564875104516.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

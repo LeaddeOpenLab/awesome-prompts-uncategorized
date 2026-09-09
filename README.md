@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**3** Prompts · Latest addition: **2026-09-09**
+**4** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render)
 
 <a name="all-prompts"></a>
 
@@ -104,6 +104,32 @@ Cinematic / Film Still · Portrait / Selfie · Character · Fashion Item · Publ
 
 ```text
 Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-3d-render"></a>
+
+## 3D Render
+
+<a name="prompt-2097514564875104516"></a>
+
+### Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.
+
+Author：[@VKs\_Host](https://x.com/VKs_Host) · [Source](https://x.com/VKs_Host/status/2097514564875104516)
+
+3D Render · Published
+
+**Summary:** Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.
+
+<img src="covers/2097514564875104516.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.
 ```
 
 [↑ Back to categories](#catalog)
