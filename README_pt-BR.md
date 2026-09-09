@@ -35,13 +35,13 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097562587437342750"></a>
 
-### Tradução em andamento
+### Prompt mestre desenvolvido para moldar sutilmente nuvens existentes em fotos de referência em sósias de animais usando pareidolia, mantendo texturas realistas de fotografia móvel.
 
 Autor：[@er1029iu](https://x.com/er1029iu) · [Publicação original](https://x.com/er1029iu/status/2097562587437342750)
 
 Fotografia · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt mestre desenvolvido para moldar sutilmente nuvens existentes em fotos de referência em sósias de animais usando pareidolia, mantendo texturas realistas de fotografia móvel.
 
 <img src="images/2097562587437342750-1.jpg" alt="Imagem 1" width="480" />
 
@@ -52,7 +52,158 @@ Fotografia · Animal / Criatura · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+SÓSIA DE NUVEM — PROMPT MESTRE DE FOTO REAL
+
+Use a fotografia original anexada como a imagem de referência fixa.
+
+BLOQUEIO DE REFERÊNCIA — MUITO IMPORTANTE
+
+A fotografia original deve permanecer reconhecível e visualmente consistente.
+
+Preserve:
+- o céu azul original
+- a distribuição real das nuvens
+- o ângulo original da câmera
+- os fios elétricos diagonais suspensos
+- os reflexos da janela
+- a iluminação natural existente
+- a qualidade fotográfica imperfeita do mundo real
+- a perspectiva e composição originais
+
+Não substitua o céu inteiro.
+Não redesenhe a cena.
+Não crie um fundo completamente novo.
+
+--------------------------------------------------
+PASSO 1 — ANALISAR A NUVEM ORIGINAL
+--------------------------------------------------
+
+Primeiro, analise cuidadosamente a nuvem principal na fotografia anexada.
+
+Estude sua(s):
+
+- silhueta externa
+- massas arredondadas
+- áreas salientes
+- seções estreitas
+- espaços vazios
+- realces e sombras naturais
+- densidade da nuvem
+- direção
+- impressão visual geral
+
+Em seguida, determine com qual animal real ou criatura viva familiar
+a nuvem existente naturalmente mais se parece.
+
+A semelhança deve vir DA FORMA DA NUVEM EXISTENTE.
+
+Não force um animal não relacionado na nuvem.
+
+--------------------------------------------------
+PASSO 2 — INTERPRETAÇÃO NATURAL DE SÓSIA
+--------------------------------------------------
+
+Transforme apenas a percepção do espectador sobre a nuvem.
+
+A própria nuvem ainda deve parecer uma NUVEM REAL.
+
+Use as massas de nuvens existentes como a estrutura natural de:
+
+cabeça,
+corpo,
+orelhas,
+focinho,
+pernas,
+cauda,
+ou outras características reconhecíveis.
+
+Enfatize apenas características que já pareçam naturalmente possíveis
+a partir da silhueta original da nuvem.
+
+A reação do espectador deve ser:
+
+"Espere... aquela nuvem se parece com um animal."
+
+NÃO:
+
+"Alguém colou um animal no céu."
+
+--------------------------------------------------
+NUVEM REAL EM PRIMEIRO LUGAR
+--------------------------------------------------
+
+Equilíbrio visual alvo:
+
+90–95% nuvem real
+5–10% semelhança imaginativa
+
+A nuvem deve permanecer feita inteiramente de:
+
+vapor de água realista,
+partículas suaves de nuvem,
+difusão atmosférica natural,
+bordas irregulares de nuvem,
+luz solar real,
+profundidade volumétrica sutil.
+
+NÃO crie:
+
+um animal peludo flutuando no céu,
+um rosto de animal realista colado em uma nuvem,
+olhos de desenho animado,
+olhos parecidos com humanos,
+características faciais perfeitamente simétricas,
+pelos em CGI,
+texturas plásticas,
+aparência de mascote 3D.
+
+--------------------------------------------------
+DETALHES DE ROSTO / PERSONAGEM
+--------------------------------------------------
+
+Se detalhes faciais forem necessários,
+eles devem ser extremamente sutis.
+
+Os olhos devem ser sugeridos principalmente por meio de
+sombras naturais de nuvem e pequenas diferenças de tonalidade.
+
+Um nariz ou boca só pode aparecer como
+variações muito tênues de densidade de nuvem.
+
+Sem olhos pretos evidentes como botões.
+Sem sorriso exagerado.
+Sem língua de desenho animado.
+Sem contorno facial artificial.
+
+A semelhança do animal deve emergir por meio da pareidolia.
+
+--------------------------------------------------
+QUALIDADE DE FOTO REAL
+--------------------------------------------------
+
+O resultado final deve se parecer com
+uma fotografia real espontânea capturada através de uma janela.
+
+Fotografia natural de iPhone.
+
+Realismo de câmera de smartphone de qualidade média,
+não um anúncio publicitário,
+não uma fotografia de estúdio.
+
+Mantenha:
+
+leve reflexo da janela,
+pequenos reflexos,
+imperfeições menores de exposição,
+névoa atmosférica natural,
+nitidez ligeiramente irregular,
+alcance dinâmico realista,
+ruído de sensor sutil,
+variação natural de cor.
+
+Evite HDR excessivo.
+Evite nitidez excessiva.
+Evite saturação artificial.
 ```
 
 [↑ Voltar às categorias](#catalog)

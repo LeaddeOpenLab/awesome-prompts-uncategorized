@@ -35,13 +35,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097562587437342750"></a>
 
-### Çeviri sürüyor
+### Referans fotoğraflardaki mevcut bulutları, gerçekçi mobil fotoğraf dokularını korurken pareidolia kullanarak hayvan benzerlerine ince bir şekilde dönüştürmek için tasarlanmış ana prompt.
 
 Yazar：[@er1029iu](https://x.com/er1029iu) · [Orijinal gönderi](https://x.com/er1029iu/status/2097562587437342750)
 
 Fotoğrafçılık · Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans fotoğraflardaki mevcut bulutları, gerçekçi mobil fotoğraf dokularını korurken pareidolia kullanarak hayvan benzerlerine ince bir şekilde dönüştürmek için tasarlanmış ana prompt.
 
 <img src="images/2097562587437342750-1.jpg" alt="Görsel 1" width="480" />
 
@@ -52,7 +52,158 @@ Fotoğrafçılık · Hayvan / Yaratık · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+BULUT ÇİFTİ / BENZERİ — GERÇEK FOTOĞRAF ANA PROMPT'U
+
+Ekli orijinal fotoğrafı sabit referans görsel olarak kullanın.
+
+REFERANS KİLİDİ — ÇOK ÖNEMLİ
+
+Orijinal fotoğraf tanınabilir ve görsel olarak tutarlı kalmalıdır.
+
+Şunları koruyun:
+- orijinal mavi gökyüzünü
+- gerçek bulut dağılımını
+- orijinal kamera açısını
+- çapraz geçen havai telleri
+- pencere yansımalarını
+- mevcut doğal aydınlatmayı
+- gerçek dünyanın kusurlu fotoğraf kalitesini
+- orijinal perspektifi ve kompozisyonu
+
+Tüm gökyüzünü değiştirmeyin.
+Sahneyi yeniden tasarlamayın.
+Tamamen yeni bir arka plan oluşturmayın.
+
+--------------------------------------------------
+1. ADIM — ORİJİNAL BULUTU ANALİZ EDİN
+--------------------------------------------------
+
+Önce ekli fotoğraftaki ana bulutu dikkatlice analiz edin.
+
+Şunlarını inceleyin:
+
+- dış siluetini
+- yuvarlak kütlelerini
+- çıkıntılı alanlarını
+- dar bölümlerini
+- boş alanlarını
+- doğal parlak noktalarını ve gölgelerini
+- bulut yoğunluğunu
+- yönünü
+- genel görsel izlenimini
+
+Ardından, mevcut bulutun doğal olarak en çok hangi gerçek hayvana veya tanıdık canlıya
+benzediğini belirleyin.
+
+Benzerlik MEVCUT BULUT ŞEKLİNDEN gelmelidir.
+
+Bulutun içine alakasız bir hayvanı zorla yerleştirmeyin.
+
+--------------------------------------------------
+2. ADIM — DOĞAL ÇİFT / BENZER YORUMLAMASI
+--------------------------------------------------
+
+Yalnızca izleyicinin bulutu algılama biçimini dönüştürün.
+
+Bulutun kendisi yine de GERÇEK BİR BULUT gibi görünmelidir.
+
+Mevcut bulut kütlelerini şunların doğal yapısı olarak kullanın:
+
+baş,
+gövde,
+kulaklar,
+burun/ağız kısmı,
+bacaklar,
+kuyruk,
+veya diğer tanınabilir özellikler.
+
+Yalnızca orijinal bulut siluetinden zaten doğal olarak mümkün
+görünen özellikleri vurgulayın.
+
+İzleyicinin tepkisi şu olmalıdır:
+
+"Bir dakika... şu bulut bir hayvana benziyor."
+
+ŞU OLMAMALIDIR:
+
+"Biri gökyüzüne bir hayvan yapıştırmış."
+
+--------------------------------------------------
+ÖNCE GERÇEK BULUT
+--------------------------------------------------
+
+Hedef görsel denge:
+
+%90–95 gerçek bulut
+%5–10 hayal gücüne dayalı benzerlik
+
+Bulut tamamen şunlardan oluşmaya devam etmelidir:
+
+gerçekçi su buharı,
+yumuşak bulut partikülleri,
+doğal atmosferik difüzyon,
+düzensiz bulut kenarları,
+gerçek güneş ışığı,
+ince hacimsel derinlik.
+
+Şunları OLUŞTURMAYIN:
+
+gökyüzünde süzülen tüylü bir hayvan,
+bulutun içine yapıştırılmış gerçekçi bir hayvan yüzü,
+çizgi film gözleri,
+insansı gözler,
+mükemmel simetrik yüz hatları,
+CGI kürk/tüy,
+plastik dokular,
+3D maskot görünümü.
+
+--------------------------------------------------
+YÜZ / KARAKTER DETAYLARI
+--------------------------------------------------
+
+Yüz detayları gerekliyse,
+son derece belirsiz ve ince olmalıdır.
+
+Gözler esas olarak doğal bulut gölgeleri ve
+küçük ton farklılıkları ile ima edilmelidir.
+
+Bir burun veya ağız yalnızca çok hafif
+bulut yoğunluğu varyasyonları olarak belirebilir.
+
+Belirgin siyah düğme gözler olmamalıdır.
+Abartılı bir gülümseme olmamalıdır.
+Çizgi film dili olmamalıdır.
+Yapay yüz hatları olmamalıdır.
+
+Hayvan benzerliği pareidolia yoluyla ortaya çıkmalıdır.
+
+--------------------------------------------------
+GERÇEK FOTOĞRAF KALİTESİ
+--------------------------------------------------
+
+Nihai sonuç, pencereden çekilmiş
+spontan, gerçek bir fotoğraf gibi görünmelidir.
+
+Doğal iPhone fotoğrafı.
+
+Orta kalite akıllı telefon kamerası gerçekçiliği,
+bir reklam değil,
+bir stüdyo fotoğrafı değil.
+
+Şunları koruyun:
+
+hafif cam parlaması,
+küçük yansımalar,
+küçük pozlama kusurları,
+doğal atmosferik pus,
+hafif dengesiz keskinlik,
+gerçekçi dinamik aralık,
+hafif sensör gürültüsü,
+doğal renk değişimi.
+
+Aşırı HDR'den kaçının.
+Aşırı keskinleştirmeden kaçının.
+Yapay doygunluktan kaçının.
 ```
 
 [↑ Kategorilere dön](#catalog)
