@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:45:00.512Z",
+  "model": "unknown-image",
+  "prompt": "Transform the photo into a hand-painted gouache caricature on cream cotton paper. Preserve the person’s exact identity, natural asymmetry, key facial traits, hair, build, and original outfit. Use bold flat shapes, confident contours, visible paper grain, and subtle pigment texture. Stylised proportions with an expressive attitude, enlarged graphic eyes, and a dynamic waist-up pose. Palette: equal-weight sage/olive green, rose pink, and warm cream. No realism, anime face, beautifying, smoothing, 3D shading, text, logos, or clutter. Clearly the same person, clearly a drawing.",
+  "promptTranslations": {
+    "en": "Transform the photo into a hand-painted gouache caricature on cream cotton paper. Preserve the person’s exact identity, natural asymmetry, key facial traits, hair, build, and original outfit. Use bold flat shapes, confident contours, visible paper grain, and subtle pigment texture. Stylised proportions with an expressive attitude, enlarged graphic eyes, and a dynamic waist-up pose. Palette: equal-weight sage/olive green, rose pink, and warm cream. No realism, anime face, beautifying, smoothing, 3D shading, text, logos, or clutter. Clearly the same person, clearly a drawing."
+  },
+  "summaryTranslations": {
+    "en": "Hand-painted gouache caricature style on cotton paper with green, pink, and cream tones."
+  },
+  "translationVersion": 2,
+  "summary": "Hand-painted gouache caricature style on cotton paper with green, pink, and cream tones.",
+  "summaryEn": "Hand-painted gouache caricature style on cotton paper with green, pink, and cream tones.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096970899622948972",
+    "canonicalUrl": "https://x.com/MissDelulu9/status/2096970899622948972",
+    "author": {
+      "username": "MissDelulu9",
+      "displayName": "Eesha",
+      "profileUrl": "https://x.com/MissDelulu9"
+    },
+    "publishedAt": "2026-09-07T14:36:36.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "Created with ChatGPT \n\nPrompt:\n\nTransform the photo into a hand-painted gouache caricature on cream cotton paper. Preserve the person’s exact identity, natural asymmetry, key facial traits, hair, build, and original outfit. Use bold flat shapes, confident contours, visible paper grain, and subtle pigment texture. Stylised proportions with an expressive attitude, enlarged graphic eyes, and a dynamic waist-up pose. Palette: equal-weight sage/olive green, rose pink, and warm cream. No realism, anime face, beautifying, smoothing, 3D shading, text, logos, or clutter. Clearly the same person, clearly a drawing.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRnvxbzbAAEK2ak.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRnvxbzbAAEK2ak.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRnv2lTb0AAZixj.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRnv2lTb0AAZixj.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 141,
+      "repostCount": 12,
+      "replyCount": 57,
+      "quoteCount": 0,
+      "viewCount": 4033
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MissDelulu9/status/2096970899622948972",
+  "coverUrl": "https://pbs.twimg.com/media/HRnvxbzbAAEK2ak.jpg",
+  "coverPath": "images/2096970899622948972-1.jpg",
+  "imagePaths": [
+    "images/2096970899622948972-1.jpg",
+    "images/2096970899622948972-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRnvxbzbAAEK2ak",
+    "x-image:/media/HRnv2lTb0AAZixj",
+    "x-post:2096970899622948972"
+  ],
+  "analysis": {
+    "summary": "Hand-painted gouache caricature style on cotton paper with green, pink, and cream tones.",
+    "summaryEn": "Hand-painted gouache caricature style on cotton paper with green, pink, and cream tones.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images reflect gouache texture, cream cotton paper feel, specified color palette, and stylized facial traits matching the prompt instructions."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Transform the photo into a hand-painted gouache caricature on cream cotton paper. Preserve the person’s exact identity, natural asymmetry, key facial traits, hair, build, and original outfit. Use bold flat shapes, confident contours, visible paper grain, and subtle pigment texture. Stylised proportions with an expressive attitude, enlarged graphic eyes, and a dynamic waist-up pose. Palette: equal-weight sage/olive green, rose pink, and warm cream. No realism, anime face, beautifying, smoothing, 3D shading, text, logos, or clutter. Clearly the same person, clearly a drawing.",
+    "sourceRange": {
+      "start": 32,
+      "end": 612
+    },
+    "translations": {
+      "zh": "将照片转换为米色棉纸上的手绘水粉讽刺画风格肖像。保留人物的精确特征、自然不对称性、面部特征、发型、体态和服装。采用大胆扁平色块、利落轮廓、可见纸张纹理和水粉质感。比例风格化并具表现力，放大图形化眼睛，半身构图。调色板以鼠尾草/橄榄绿、玫瑰粉和暖米色为主。避免写实、动漫脸、磨皮美化、3D阴影、文字或杂乱元素。确保既像本人又带有明显手绘感。",
+      "en": "Transform the photo into a hand-painted gouache caricature on cream cotton paper. Preserve the person’s exact identity, natural asymmetry, key facial traits, hair, build, and original outfit. Use bold flat shapes, confident contours, visible paper grain, and subtle pigment texture. Stylised proportions with an expressive attitude, enlarged graphic eyes, and a dynamic waist-up pose. Palette: equal-weight sage/olive green, rose pink, and warm cream. No realism, anime face, beautifying, smoothing, 3D shading, text, logos, or clutter. Clearly the same person, clearly a drawing."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "Portrait stylization into gouache illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
