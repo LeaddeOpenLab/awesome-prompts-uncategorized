@@ -35,13 +35,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097562587437342750"></a>
 
-### Traduction en cours
+### Prompt maître conçu pour façonner subtilement les nuages existants de photos de référence en sosies d'animaux par paréidolie, tout en conservant les textures réalistes d'une photographie mobile.
 
 Auteur：[@er1029iu](https://x.com/er1029iu) · [Publication originale](https://x.com/er1029iu/status/2097562587437342750)
 
 Photographie · Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt maître conçu pour façonner subtilement les nuages existants de photos de référence en sosies d'animaux par paréidolie, tout en conservant les textures réalistes d'une photographie mobile.
 
 <img src="images/2097562587437342750-1.jpg" alt="Image 1" width="480" />
 
@@ -52,7 +52,158 @@ Photographie · Animal / Créature · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+SOSIE DE NUAGE — PROMPT MAÎTRE POUR PHOTO RÉELLE
+
+Utilisez la photographie originale ci-jointe comme image de référence fixe.
+
+VERROUILLAGE DE LA RÉFÉRENCE — TRÈS IMPORTANT
+
+La photographie originale doit rester reconnaissable et visuellement cohérente.
+
+Conservez :
+- le ciel bleu d'origine
+- la distribution réelle des nuages
+- l'angle de vue d'origine de la caméra
+- les câbles aériens en diagonale
+- les reflets de la vitre
+- l'éclairage naturel existant
+- la qualité photographique imparfaite du monde réel
+- la perspective et la composition d'origine
+
+Ne remplacez pas la totalité du ciel.
+Ne redessinez pas la scène.
+Ne créez pas un arrière-plan entièrement nouveau.
+
+--------------------------------------------------
+ÉTAPE 1 — ANALYSER LE NUAGE D'ORIGINE
+--------------------------------------------------
+
+Analysez d'abord attentivement le nuage principal sur la photographie ci-jointe.
+
+Étudiez :
+
+- sa silhouette extérieure
+- ses masses arrondies
+- ses zones saillantes
+- ses parties étroites
+- ses espaces vides
+- ses ombres et lumières naturelles
+- sa densité nuageuse
+- sa direction
+- son impression visuelle globale
+
+Déterminez ensuite à quel animal réel ou créature vivante familière
+le nuage existant ressemble le plus naturellement.
+
+La ressemblance doit provenir DE LA FORME EXISTANTE DU NUAGE.
+
+Ne forcez pas la présence d'un animal sans rapport dans le nuage.
+
+--------------------------------------------------
+ÉTAPE 2 — INTERPRÉTATION NATURELLE DU SOSIE
+--------------------------------------------------
+
+Transformez uniquement la perception que le spectateur a du nuage.
+
+Le nuage lui-même doit toujours ressembler à un VRAI NUAGE.
+
+Utilisez les masses nuageuses existantes comme structure naturelle pour :
+
+la tête,
+le corps,
+les oreilles,
+le museau,
+les pattes,
+la queue,
+ou d'autres caractéristiques reconnaissables.
+
+Ne mettez en valeur que les traits qui paraissent déjà naturellement possibles
+à partir de la silhouette originale du nuage.
+
+La réaction du spectateur doit être :
+
+« Attends... ce nuage ressemble à un animal. »
+
+ET NON :
+
+« Quelqu'un a collé un animal dans le ciel. »
+
+--------------------------------------------------
+LE VRAI NUAGE D'ABORD
+--------------------------------------------------
+
+Équilibre visuel visé :
+
+90–95 % vrai nuage
+5–10 % ressemblance imaginative
+
+Le nuage doit rester entièrement constitué de :
+
+vapeur d'eau réaliste,
+particules nuageuses douces,
+diffusion atmosphérique naturelle,
+bords de nuage irréguliers,
+vraie lumière du soleil,
+profondeur volumétrique subtile.
+
+Ne créez PAS :
+
+un animal à fourrure flottant dans le ciel,
+un visage d'animal réaliste collé dans un nuage,
+des yeux de dessin animé,
+des yeux d'apparence humaine,
+des traits faciaux parfaitement symétriques,
+de la fourrure en images de synthèse (CGI),
+des textures plastiques,
+un aspect de mascotte 3D.
+
+--------------------------------------------------
+DÉTAILS DU VISAGE / DU PERSONNAGE
+--------------------------------------------------
+
+Si des détails faciaux sont nécessaires,
+ils doivent être extrêmement subtils.
+
+Les yeux doivent être suggérés principalement par
+des ombres naturelles du nuage et de minuscules différences de tons.
+
+Un museau ou une bouche ne peut apparaître que sous la forme
+de très légères variations de densité du nuage.
+
+Pas d'yeux noirs en boutons évidents.
+Pas de sourire exagéré.
+Pas de langue de dessin animé.
+Pas de contour facial artificiel.
+
+La ressemblance animale doit émerger par paréidolie.
+
+--------------------------------------------------
+QUALITÉ PHOTO RÉELLE
+--------------------------------------------------
+
+Le résultat final doit ressembler à
+une photographie réelle spontanée prise à travers une fenêtre.
+
+Photo naturelle d'iPhone.
+
+Réalisme d'un appareil photo de smartphone de qualité moyenne,
+pas une publicité,
+pas une photo de studio.
+
+Gardez :
+
+un léger reflet de vitre,
+de petits reflets,
+de légères imperfections d'exposition,
+une brume atmosphérique naturelle,
+un piqué légèrement irrégulier,
+une plage dynamique réaliste,
+un bruit de capteur subtil,
+une variation naturelle des couleurs.
+
+Évitez le HDR excessif.
+Évitez l'accentuation excessive de la netteté.
+Évitez la saturation artificielle.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -35,13 +35,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097562587437342750"></a>
 
-### Übersetzung läuft
+### Master-Prompt, der dafür entwickelt wurde, bestehende Wolken in Referenzfotos durch Pareidolie subtil in Tiergestalten zu formen, während realistische Texturen von Smartphone-Fotografie beibehalten werden.
 
 Autor：[@er1029iu](https://x.com/er1029iu) · [Originalbeitrag](https://x.com/er1029iu/status/2097562587437342750)
 
 Fotografie · Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Master-Prompt, der dafür entwickelt wurde, bestehende Wolken in Referenzfotos durch Pareidolie subtil in Tiergestalten zu formen, während realistische Texturen von Smartphone-Fotografie beibehalten werden.
 
 <img src="images/2097562587437342750-1.jpg" alt="Bild 1" width="480" />
 
@@ -52,7 +52,158 @@ Fotografie · Tier / Kreatur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+WOLKEN-DOPPELGÄNGER — REALFOTO MASTER-PROMPT
+
+Verwende das beigefügte Originalfoto als feste Referenzabbildung.
+
+REFERENZ-SPERRE — SEHR WICHTIG
+
+Das Originalfoto muss erkennbar und visuell konsistent bleiben.
+
+Erhalte:
+- den originalen blauen Himmel
+- die reale Wolkenverteilung
+- den originalen Kamerawinkel
+- die diagonalen Oberleitungen
+- die Fensterspiegelungen
+- die vorhandene natürliche Beleuchtung
+- die unvollkommene fotografische Qualität der realen Welt
+- die originale Perspektive und Bildkomposition
+
+Ersetze nicht den gesamten Himmel.
+Gestalte die Szene nicht neu.
+Erstelle keinen völlig neuen Hintergrund.
+
+--------------------------------------------------
+SCHRITT 1 — ANALYSE DER ORIGINALWOLKE
+--------------------------------------------------
+
+Analysiere zuerst sorgfältig die Hauptwolke auf dem beigefügten Foto.
+
+Untersuche ihre:
+
+- äußere Silhouette
+- abgerundeten Massen
+- hervorstehenden Bereiche
+- engen Abschnitte
+- Leerräume
+- natürlichen Lichter und Schatten
+- Wolkendichte
+- Richtung
+- visuellen Gesamteindruck
+
+Bestimme dann, welchem realen Tier oder bekannten Lebewesen
+die vorhandene Wolke von Natur aus am ähnlichsten sieht.
+
+Die Ähnlichkeit muss AUS DER BESTEHENDEN WOLKENFORM hervorgehen.
+
+Zwinge kein unpassendes Tier in die Wolke hinein.
+
+--------------------------------------------------
+SCHRITT 2 — NATÜRLICHE DOPPELGÄNGER-INTERPRETATION
+--------------------------------------------------
+
+Verändere nur die Wahrnehmung des Betrachters bezüglich der Wolke.
+
+Die Wolke selbst muss weiterhin wie eine ECHTE WOLKE aussehen.
+
+Nutze die vorhandenen Wolkenmassen als natürliche Struktur von:
+
+Kopf,
+Körper,
+Ohren,
+Schnauze,
+Beinen,
+Schwanz
+oder anderen erkennbaren Merkmalen.
+
+Betone nur Merkmale, die aus der ursprünglichen Wolkensilhouette
+bereits natürlich möglich erscheinen.
+
+Die Reaktion des Betrachters sollte sein:
+
+"Moment mal... diese Wolke sieht aus wie ein Tier."
+
+NICHT:
+
+"Jemand hat ein Tier in den Himmel eingefügt."
+
+--------------------------------------------------
+ECHTE WOLKE ZUERST
+--------------------------------------------------
+
+Visuelle Zielbalance:
+
+90–95 % echte Wolke
+5–10 % imaginative Ähnlichkeit
+
+Die Wolke muss vollständig bestehen aus:
+
+realistischem Wasserdampf,
+weichen Wolkenpartikeln,
+natürlicher atmosphärischer Diffusion,
+unregelmäßigen Wolkenrändern,
+echtem Sonnenlicht,
+subtiler volumetrischer Tiefe.
+
+Erstelle KEINESFALLS:
+
+ein pelziges Tier, das am Himmel schwebt,
+ein realistisches Tiergesicht, das in eine Wolke eingefügt wurde,
+Cartoon-Augen,
+menschenähnliche Augen,
+perfekt symmetrische Gesichtszüge,
+CGI-Fell,
+plastische Texturen,
+3D-Maskottchen-Optik.
+
+--------------------------------------------------
+GESICHTS- / CHARAKTERDETAILS
+--------------------------------------------------
+
+Falls Gesichtsdetails notwendig sind,
+müssen sie extrem subtil sein.
+
+Augen sollten hauptsächlich durch
+natürliche Wolkenschatten und winzige Tonwertunterschiede angedeutet werden.
+
+Eine Nase oder ein Maul darf sich nur als
+sehr schwache Variation der Wolkendichte abzeichnen.
+
+Keine auffälligen schwarzen Knopfaugen.
+Kein übertriebenes Lächeln.
+Keine Cartoon-Zunge.
+Keine künstlichen Gesichtskonturen.
+
+Die Tierähnlichkeit soll durch Pareidolie entstehen.
+
+--------------------------------------------------
+ECHTE FOTOQUALITÄT
+--------------------------------------------------
+
+Das Endergebnis muss wie
+ein spontanes, echtes Foto wirken, das durch ein Fenster aufgenommen wurde.
+
+Natürliches iPhone-Foto.
+
+Realismus einer Smartphone-Kamera mittlerer Qualität,
+keine Werbung,
+kein Studiofoto.
+
+Behalte bei:
+
+leichte Fensterspiegelung,
+kleine Reflexionen,
+geringfügige Belichtungsfehler,
+natürlichen atmosphärischen Dunst,
+leicht ungleichmäßige Schärfe,
+realistischen Dynamikumfang,
+subtiles Sensorrauschen,
+natürliche Farbvariationen.
+
+Vermeide übermäßiges HDR.
+Vermeide übermäßiges Nachschärfen.
+Vermeide künstliche Sättigung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

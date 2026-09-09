@@ -35,13 +35,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097562587437342750"></a>
 
-### Traduzione in corso
+### Master prompt progettato per modellare sottilmente le nuvole esistenti nelle foto di riferimento in sosia di animali tramite pareidolia, mantenendo realistiche le texture della fotografia da smartphone.
 
 Autore：[@er1029iu](https://x.com/er1029iu) · [Post originale](https://x.com/er1029iu/status/2097562587437342750)
 
 Fotografia · Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Master prompt progettato per modellare sottilmente le nuvole esistenti nelle foto di riferimento in sosia di animali tramite pareidolia, mantenendo realistiche le texture della fotografia da smartphone.
 
 <img src="images/2097562587437342750-1.jpg" alt="Immagine 1" width="480" />
 
@@ -52,7 +52,158 @@ Fotografia · Animale / Creatura · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+SOSIA DI NUVOLA — MASTER PROMPT PER FOTO REALE
+
+Usa la fotografia originale allegata come immagine di riferimento fissa.
+
+BLOCCO DEL RIFERIMENTO — MOLTO IMPORTANTE
+
+La fotografia originale deve rimanere riconoscibile e visivamente coerente.
+
+Conserva:
+- il cielo blu originale
+- la reale distribuzione delle nuvole
+- l'angolazione originale della fotocamera
+- i cavi aerei diagonali
+- i riflessi sulla finestra
+- l'illuminazione naturale esistente
+- l'imperfetta qualità fotografica del mondo reale
+- la prospettiva e la composizione originali
+
+Non sostituire l'intero cielo.
+Non riprogettare la scena.
+Non creare uno sfondo completamente nuovo.
+
+--------------------------------------------------
+PASSO 1 — ANALIZZARE LA NUVOLA ORIGINALE
+--------------------------------------------------
+
+Per prima cosa analizza attentamente la nuvola principale nella fotografia allegata.
+
+Studia i suoi:
+
+- sagoma esterna
+- masse arrotondate
+- aree sporgenti
+- sezioni strette
+- spazi vuoti
+- luci e ombre naturali
+- densità della nuvola
+- direzione
+- impressione visiva complessiva
+
+Poi determina a quale animale reale o creatura vivente familiare
+la nuvola esistente somigli di più naturalmente.
+
+La somiglianza deve derivare DALLA FORMA ESISTENTE DELLA NUVOLA.
+
+Non forzare un animale non correlato all'interno della nuvola.
+
+--------------------------------------------------
+PASSO 2 — INTERPRETAZIONE NATURALE DEL SOSIA
+--------------------------------------------------
+
+Trasforma soltanto la percezione che l'osservatore ha della nuvola.
+
+La nuvola stessa deve comunque apparire come una VERA NUVOLA.
+
+Usa le masse nuvolose esistenti come struttura naturale per:
+
+testa,
+corpo,
+orecchie,
+muso,
+zampe,
+coda,
+o altre caratteristiche riconoscibili.
+
+Enfatizza solo le caratteristiche che appaiono già naturalmente possibili
+dalla sagoma originale della nuvola.
+
+La reazione dell'osservatore dovrebbe essere:
+
+"Aspetta... quella nuvola sembra un animale."
+
+NON:
+
+"Qualcuno ha incollato un animale nel cielo."
+
+--------------------------------------------------
+PRIMA LA VERA NUVOLA
+--------------------------------------------------
+
+Equilibrio visivo prefissato:
+
+90–95% nuvola reale
+5–10% somiglianza immaginativa
+
+La nuvola deve rimanere fatta interamente di:
+
+vapore acqueo realistico,
+morbide particelle nuvolose,
+diffusione atmosferica naturale,
+bordi frastagliati della nuvola,
+luce solare reale,
+sottile profondità volumetrica.
+
+NON creare:
+
+un animale peloso che fluttua nel cielo,
+un muso realistico di animale incollato in una nuvola,
+occhi da cartone animato,
+occhi dall'aspetto umano,
+tratti facciali perfettamente simmetrici,
+pelliccia in CGI,
+texture plastiche,
+aspetto da mascotte 3D.
+
+--------------------------------------------------
+DETTAGLI DEL VISO / DEL PERSONAGGIO
+--------------------------------------------------
+
+Se i dettagli del volto sono necessari,
+devono essere estremamente sottili.
+
+Gli occhi dovrebbero essere suggeriti principalmente attraverso
+ombre naturali della nuvola e minime differenze di tonalità.
+
+Un naso o una bocca possono comparire solo come
+lievissime variazioni di densità della nuvola.
+
+Niente evidenti occhi a bottone neri.
+Nessun sorriso esagerato.
+Nessuna lingua da cartone animato.
+Nessun contorno facciale artificiale.
+
+La somiglianza animale deve emergere attraverso la pareidolia.
+
+--------------------------------------------------
+QUALITÀ DA FOTO REALE
+--------------------------------------------------
+
+Il risultato finale deve sembrare
+una vera fotografia spontanea catturata attraverso una finestra.
+
+Fotografia naturale da iPhone.
+
+Realismo da fotocamera di smartphone di media qualità,
+non una pubblicità,
+non una foto da studio.
+
+Mantieni:
+
+leggero bagliore del vetro,
+piccoli riflessi,
+lievi imperfezioni di esposizione,
+foschia atmosferica naturale,
+nitidezza leggermente irregolare,
+gamma dinamica realistica,
+sottile rumore del sensore,
+variazione naturale del colore.
+
+Evita un HDR eccessivo.
+Evita una nitidezza eccessiva.
+Evita una saturazione artificiale.
 ```
 
 [↑ Torna alle categorie](#catalog)
