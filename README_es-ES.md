@@ -396,20 +396,20 @@ Traducción en curso
 
 <a name="prompt-2097475914124967955"></a>
 
-### Traducción en curso
+### Foto de referencia para stop-motion en plastilina de una flor rosa coral en la tierra.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publicación original](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto de referencia para stop-motion en plastilina de una flor rosa coral en la tierra.
 
 <img src="covers/2097475914124967955.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una foto de referencia cuadrada para stop-motion, no un guion gráfico: una flor de cosmos de arcilla mate artesanal de color rosa coral en tierra marrón oscura sobre un fondo crema cálido. Cámara baja bloqueada de frente, macro de 70 mm, sensación ortográfica. La tierra llena el 22% inferior, alcanzando su punto máximo en (50%,79%); el tallo centrado va desde (50%,80%) hasta el centro de la flor en (50%,33%). Añade exactamente dos hojas verdes y una cabeza de flor del 35% de ancho con exactamente 10 pétalos de color coral y un centro dorado texturizado. Incluye huellas dactilares sutiles, migas de tierra y algunos guijarros. Utiliza iluminación suave desde la parte superior izquierda y sombras fijas. Mantén la flor completa visible, con la cámara y la tierra inmóviles para la animación. Sin maceta, plantas adicionales, personajes, insectos, manos, texto, marca de agua, borde ni cuadrícula.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -396,20 +396,20 @@ Nhân vật · Văn bản / Kiểu chữ · Tóm tắt / Bối cảnh · Đã xu
 
 <a name="prompt-2097475914124967955"></a>
 
-### Đang dịch
+### Ảnh tham chiếu stop-motion bằng đất sét của một bông hoa màu hồng san hô trong đất.
 
 Tác giả：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Bài gốc](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh tham chiếu stop-motion bằng đất sét của một bông hoa màu hồng san hô trong đất.
 
 <img src="covers/2097475914124967955.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một ảnh tham chiếu stop-motion hình vuông, không phải storyboard: một bông hoa cánh bướm màu hồng san hô bằng đất sét mờ thủ công cắm trong đất màu nâu sẫm trên nền màu kem ấm áp. Góc máy thấp chụp thẳng cố định, macro 70mm, cảm giác trực giao. Đất lấp đầy 22% phía dưới, đạt đỉnh tại (50%,79%); thân cây ở giữa chạy từ (50%,80%) đến tâm hoa tại (50%,33%). Thêm chính xác hai chiếc lá xanh và một đầu hoa rộng 35% với đúng 10 cánh hoa màu san hô và phần tâm màu vàng có vân nổi. Bao gồm các dấu vân tay tinh tế, vụn đất và vài viên sỏi. Sử dụng ánh sáng dịu từ phía trên bên trái và bóng đổ cố định. Giữ cho toàn bộ bông hoa hiển thị rõ ràng, máy ảnh và đất đứng yên để phục vụ diễn hoạt. Không chậu, không thêm cây cối khác, không nhân vật, không côn trùng, không bàn tay, không chữ, không hình mờ, không viền hoặc lưới.
 ```
 
 [↑ Về danh mục](#catalog)
