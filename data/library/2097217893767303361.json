@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:41:47.754Z",
+  "model": "grok",
+  "prompt": "短いレイヤーカットのアッシュブラウンヘアの若い日本人女性が、下を見つめている。首元が大き開いたタイプのオーバーサイズなTシャツを着て、デニムジーンズを履いている。女性の前にはテーブルがあり、テーブルの上には白いコピー用紙が1枚ある。彼女は右手でペンを持っていて、立っている状態から深い前かがみになって紙に書こうとしている。左手はテーブルの上。背景は屋内のイベント会場。自然なライティング、自然な肌。服の自然な布感。肌の質感まで細かく描写されたリアルな写真スタイル、高解像度。",
+  "promptTranslations": {
+    "en": "A young Japanese woman with short layered ash-brown hair looking down. She is wearing an oversized T-shirt with a wide neckline and denim jeans. In front of the woman is a table, and on the table is a single sheet of white copy paper. She is holding a pen in her right hand and is deeply leaning forward from a standing position, attempting to write on the paper. Her left hand is on the table. The background is an indoor event venue. Natural lighting, natural skin. Natural cloth texture of the clothing. Realistic photographic style finely depicting even skin textures, high resolution."
+  },
+  "summaryTranslations": {
+    "en": "Realistic photo prompt of a young Japanese woman with ash-brown hair in a wide-neck oversized T-shirt leaning deeply forward to write on paper on a table with a pen at an indoor event venue."
+  },
+  "translationVersion": 2,
+  "summary": "屋内のイベント会場で、襟ぐりの広いオーバーサイズTシャツを着たアッシュブラウンヘアの若い日本人女性が深く前かがみになりテーブルの上の紙にペンで書くリアルな写真プロンプト。",
+  "summaryEn": "A realistic photo prompt depicting a young Japanese woman with ash brown hair in an oversized wide-neck T-shirt, leaning deeply over a table to write on paper at an indoor event venue.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097217893767303361",
+    "canonicalUrl": "https://x.com/kamakirin13993/status/2097217893767303361",
+    "author": {
+      "username": "kamakirin13993",
+      "displayName": "Rin Kamaki",
+      "profileUrl": "https://x.com/kamakirin13993"
+    },
+    "publishedAt": "2026-09-08T06:58:04.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "ja",
+    "originalText": "今までGrokが大人の対応だったので気づかなかったのですが、ChatGPTがずいぶんと大人の階段を登りましたね😄Google Flowは真面目だよって感じでいい子ぶってる😁\n同じプロンプトで、左からGrok imagine, ChatGPT, Google Flow\n\nGrokは胸元のプロンプトいろいろ入れたらちゃんとポロリンしてくれる😊GPTは頑張ると怒ってくる😆\n\nプロンプト\n短いレイヤーカットのアッシュブラウンヘアの若い日本人女性が、下を見つめている。首元が大き開いたタイプのオーバーサイズなTシャツを着て、デニムジーンズを履いている。女性の前にはテーブルがあり、テーブルの上には白いコピー用紙が1枚ある。彼女は右手でペンを持っていて、立っている状態から深い前かがみになって紙に書こうとしている。左手はテーブルの上。背景は屋内のイベント会場。自然なライティング、自然な肌。服の自然な布感。肌の質感まで細かく描写されたリアルな写真スタイル、高解像度。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrLtqWbAAAwdoE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrLtqWbAAAwdoE.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrLu4yagAA2_tQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrLu4yagAA2_tQ.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRrLwVwaYAAvHGU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRrLwVwaYAAvHGU.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 402,
+      "repostCount": 3,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 28939
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/kamakirin13993/status/2097217893767303361",
+  "coverUrl": "https://pbs.twimg.com/media/HRrLtqWbAAAwdoE.jpg",
+  "coverPath": "images/2097217893767303361-1.jpg",
+  "imagePaths": [
+    "images/2097217893767303361-1.jpg",
+    "images/2097217893767303361-2.jpg",
+    "images/2097217893767303361-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRrLtqWbAAAwdoE",
+    "x-image:/media/HRrLu4yagAA2_tQ",
+    "x-image:/media/HRrLwVwaYAAvHGU",
+    "x-post:2097217893767303361"
+  ],
+  "analysis": {
+    "summary": "屋内のイベント会場で、襟ぐりの広いオーバーサイズTシャツを着たアッシュブラウンヘアの若い日本人女性が深く前かがみになりテーブルの上の紙にペンで書くリアルな写真プロンプト。",
+    "summaryEn": "A realistic photo prompt depicting a young Japanese woman with ash brown hair in an oversized wide-neck T-shirt, leaning deeply over a table to write on paper at an indoor event venue.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付の3枚の画像はすべてプロンプトに記載された「短いアッシュブラウンヘアの若い日本人女性」「首元の開いたTシャツとデニムジーンズ」「テーブル上の紙に右手でペンを持って深く前かがみで書く姿勢」「左手はテーブルの上」「屋内のイベント会場」と完全に一致している。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "短いレイヤーカットのアッシュブラウンヘアの若い日本人女性が、下を見つめている。首元が大き開いたタイプのオーバーサイズなTシャツを着て、デニムジーンズを履いている。女性の前にはテーブルがあり、テーブルの上には白いコピー用紙が1枚ある。彼女は右手でペンを持っていて、立っている状態から深い前かがみになって紙に書こうとしている。左手はテーブルの上。背景は屋内のイベント会場。自然なライティング、自然な肌。服の自然な布感。肌の質感まで細かく描写されたリアルな写真スタイル、高解像度。",
+    "sourceRange": {
+      "start": 192,
+      "end": 429
+    },
+    "translations": {
+      "zh": "一名留着短层次亚麻棕色头发的年轻日本女性正凝视着下方。她穿着一件领口大开的宽松T恤，搭配牛仔裤。女性面前有一张桌子，桌上放着一张白色复印纸。她右手握着一支笔，从站立姿势深度前倾正要在纸上写字。左手放在桌上。背景是室内活动会场。自然的光影，自然的皮肤。衣服自然的布料质感。逼真的摄影风格，细致入微地刻画出皮肤质感，高分辨率。",
+      "en": "A young Japanese woman with short layered ash brown hair looking down. She is wearing an oversized T-shirt with a wide, deep-cut neckline and denim jeans. In front of her is a table with a single sheet of white copy paper on it. Holding a pen in her right hand, she leans deeply forward from a standing position, attempting to write on the paper. Her left hand is resting on the table. The background is an indoor event venue. Natural lighting, natural skin. Natural fabric texture on the clothing. Realistic photographic style depicting fine skin textures in high resolution."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "realistic photo generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "suggestive_cleavage"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
