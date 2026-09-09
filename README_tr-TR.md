@@ -174,20 +174,32 @@ Hazır eriştelerin dinamik 3D sinematik reklam çekimi. Havada süzülen çiğ 
 
 <a name="prompt-2097188060098101543"></a>
 
-### Çeviri sürüyor
+### Kavanoza yaklaşmadan ekmeğe sürmeye ve ana çekime kadar plan plan dökümüyle, 10 saniyelik sinematik dikey Nutella reklamı istemi.
 
 Yazar：[@Urwa\_345](https://x.com/Urwa_345) · [Orijinal gönderi](https://x.com/Urwa_345/status/2097188060098101543)
 
 Ürün Pazarlaması · Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kavanoza yaklaşmadan ekmeğe sürmeye ve ana çekime kadar plan plan dökümüyle, 10 saniyelik sinematik dikey Nutella reklamı istemi.
 
 <img src="covers/2097188060098101543.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey 9:16 formatında, Nutella için 10 saniyelik birinci sınıf sinematik bir reklam filmi oluşturun.
+
+0–2 sn: Güzel bir kahvaltı masası üzerindeki Nutella kavanozuna doğru yavaş ve sinematik yaklaşma (push-in).
+
+2–4 sn: Sıcak bir kızarmış ekmek dilimine pürüzsüzce sürülen kremsi Nutella'nın makro çekimi.
+
+4–6 sn: Kavanozdan parlak bir Nutella kıvrımını kaldıran kaşığın yakın çekimi, yavaş ve tatmin edici bir hareket.
+
+6–8 sn: Kahvaltı masasına yerleştirilen hazır bir Nutella'lı kızarmış ekmeğe hızlı ve zarif bir geçiş.
+
+8–10 sn: Etrafında kızarmış ekmekler ve fındıklar bulunan Nutella kavanozunun nihai ana çekimi (hero shot), sıcak sabah güneş ışığı ve ince kamera hareketi.
+
+Fotogerçekçi yiyecek reklamı, birinci sınıf reklam kalitesi, gerçekçi dokular, akıcı geçişler, sığ alan derinliği, sinematik aydınlatma, iştah açıcı doğal sunum, orijinal ambalaj, metin bindirmesi yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

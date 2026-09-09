@@ -174,20 +174,32 @@ Tomada comercial cinematográfica dinâmica em 3D de macarrão instantâneo. Mac
 
 <a name="prompt-2097188060098101543"></a>
 
-### Tradução em andamento
+### Um prompt para comercial cinematográfico vertical de 10 segundos da Nutella com detalhamento cena a cena, desde o push-in no pote até o ato de espalhar na torrada e o hero shot.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicação original](https://x.com/Urwa_345/status/2097188060098101543)
 
 Marketing de Produto · Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt para comercial cinematográfico vertical de 10 segundos da Nutella com detalhamento cena a cena, desde o push-in no pote até o ato de espalhar na torrada e o hero shot.
 
 <img src="covers/2097188060098101543.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um comercial cinematográfico premium de 10 segundos da Nutella no formato vertical 9:16.
+
+0–2 seg: Push-in cinematográfico lento em direção ao pote de Nutella em uma linda mesa de café da manhã.
+
+2–4 seg: Tomada macro de Nutella cremosa sendo espalhada suavemente sobre uma torrada quente.
+
+4–6 seg: Close-up de uma colher levantando um redemoinho brilhante de Nutella do pote, movimento lento e satisfatório.
+
+6–8 seg: Transição rápida e elegante para uma torrada com Nutella finalizada colocada na mesa de café da manhã.
+
+8–10 seg: Tomada heroica final (hero shot) do pote de Nutella com torradas e avelãs ao redor, luz solar matinal quente e movimento de câmera sutil.
+
+Comercial de comida fotorrealista, qualidade publicitária premium, texturas realistas, transições suaves, profundidade de campo rasa, iluminação cinematográfica, apresentação natural apetitosa, embalagem autêntica, sem sobreposições de texto, sem marca d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

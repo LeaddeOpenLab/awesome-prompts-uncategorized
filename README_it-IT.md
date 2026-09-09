@@ -174,20 +174,32 @@ Inquadratura commerciale cinematografica dinamica in 3D di noodles istantanei. M
 
 <a name="prompt-2097188060098101543"></a>
 
-### Traduzione in corso
+### Un prompt per uno spot cinematografico verticale di 10 secondi per Nutella con scomposizione scena per scena, dal push-in sul barattolo alla spalmatura sul toast fino all'hero shot finale.
 
 Autore：[@Urwa\_345](https://x.com/Urwa_345) · [Post originale](https://x.com/Urwa_345/status/2097188060098101543)
 
 Marketing di Prodotto · Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per uno spot cinematografico verticale di 10 secondi per Nutella con scomposizione scena per scena, dal push-in sul barattolo alla spalmatura sul toast fino all'hero shot finale.
 
 <img src="covers/2097188060098101543.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una pubblicità cinematografica premium di 10 secondi per Nutella in formato verticale 9:16.
+
+0–2 sec: Lento push-in cinematografico verso il barattolo di Nutella su una splendida tavola per la colazione.
+
+2–4 sec: Ripresa macro di cremosa Nutella spalmata delicatamente su un toast caldo.
+
+4–6 sec: Primo piano di un cucchiaio che solleva un vortice lucido di Nutella dal barattolo, movimento lento e appagante.
+
+6–8 sec: Transizione rapida ed elegante verso un toast con Nutella pronto, posato sulla tavola della colazione.
+
+8–10 sec: Hero shot finale del barattolo di Nutella circondato da toast e nocciole, calda luce del sole mattutino e sottile movimento di camera.
+
+Spot pubblicitario food fotorealistico, qualità pubblicitaria premium, texture realistiche, transizioni fluide, profondità di campo ridotta, illuminazione cinematografica, presentazione naturale e appetitosa, confezione autentica, nessuna sovrapposizione di testo, nessun watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

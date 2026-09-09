@@ -174,20 +174,32 @@ Plan publicitaire cinématographique dynamique en 3D de nouilles instantanées. 
 
 <a name="prompt-2097188060098101543"></a>
 
-### Traduction en cours
+### Un prompt pour un spot publicitaire cinématographique vertical de 10 secondes pour Nutella avec un découpage plan par plan, du travelling avant sur le pot jusqu'à la tartine de toast et au plan héroïque final.
 
 Auteur：[@Urwa\_345](https://x.com/Urwa_345) · [Publication originale](https://x.com/Urwa_345/status/2097188060098101543)
 
 Marketing produit · Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt pour un spot publicitaire cinématographique vertical de 10 secondes pour Nutella avec un découpage plan par plan, du travelling avant sur le pot jusqu'à la tartine de toast et au plan héroïque final.
 
 <img src="covers/2097188060098101543.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une publicité cinématographique haut de gamme de 10 secondes pour Nutella au format vertical 9:16.
+
+0–2 s : Travelling avant cinématographique lent vers le pot de Nutella sur une magnifique table de petit-déjeuner.
+
+2–4 s : Plan macro de Nutella crémeux étalé délicatement sur un toast chaud.
+
+4–6 s : Gros plan d'une cuillère soulevant un tourbillon brillant de Nutella hors du pot, mouvement lent et satisfaisant.
+
+6–8 s : Transition rapide et élégante vers un toast au Nutella prêt, posé sur la table du petit-déjeuner.
+
+8–10 s : Plan héroïque final (hero shot) du pot de Nutella entouré de toasts et de noisettes, lumière chaude du soleil matinal et mouvement de caméra subtil.
+
+Publicité alimentaire photoréaliste, qualité publicitaire haut de gamme, textures réalistes, transitions fluides, faible profondeur de champ, éclairage cinématographique, présentation naturelle et appétissante, emballage authentique, aucune incrustation de texte, aucun filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

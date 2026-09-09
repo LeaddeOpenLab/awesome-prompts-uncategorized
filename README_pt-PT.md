@@ -174,20 +174,32 @@ Plano comercial cinematográfico dinâmico em 3D de massa instantânea. Macro em
 
 <a name="prompt-2097188060098101543"></a>
 
-### Tradução em curso
+### Um prompt para um anúncio cinematográfico vertical de 10 segundos da Nutella com discriminação plano a plano, desde o push-in no frasco até ao barrar na torrada e ao plano heroico final.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicação original](https://x.com/Urwa_345/status/2097188060098101543)
 
 Marketing de Produto · Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt para um anúncio cinematográfico vertical de 10 segundos da Nutella com discriminação plano a plano, desde o push-in no frasco até ao barrar na torrada e ao plano heroico final.
 
 <img src="covers/2097188060098101543.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um anúncio cinematográfico premium de 10 segundos da Nutella no formato vertical 9:16.
+
+0–2 seg: Push-in cinematográfico lento em direção ao frasco de Nutella numa bonita mesa de pequeno-almoço.
+
+2–4 seg: Plano macro de Nutella cremosa a ser barrada suavemente numa torrada quente.
+
+4–6 seg: Grande plano de uma colher a levantar um redemoinho brilhante de Nutella do frasco, movimento lento e satisfatório.
+
+6–8 seg: Transição rápida e elegante para uma torrada com Nutella pronta, pousada na mesa de pequeno-almoço.
+
+8–10 seg: Plano heroico final (hero shot) do frasco de Nutella com torradas e avelãs à volta, luz solar matinal quente e movimento de câmara subtil.
+
+Anúncio alimentar fotorrealista, qualidade publicitária premium, texturas realistas, transições suaves, profundidade de campo reduzida, iluminação cinematográfica, apresentação natural e apetitosa, embalagem autêntica, sem sobreposições de texto, sem marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

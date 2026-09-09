@@ -174,20 +174,32 @@ Dynamische, filmische 3D-Werbeaufnahme von Instantnudeln. Extreme Makro-Zeitlupe
 
 <a name="prompt-2097188060098101543"></a>
 
-### Übersetzung läuft
+### Ein Prompt für einen 10-sekündigen cineastischen, vertikalen Nutella-Werbespot mit Shot-by-Shot-Aufschlüsselung vom Kamera-Push-in auf das Glas über das Verstreichen auf Toast bis hin zum Hero-Shot.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Originalbeitrag](https://x.com/Urwa_345/status/2097188060098101543)
 
 Produktmarketing · Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt für einen 10-sekündigen cineastischen, vertikalen Nutella-Werbespot mit Shot-by-Shot-Aufschlüsselung vom Kamera-Push-in auf das Glas über das Verstreichen auf Toast bis hin zum Hero-Shot.
 
 <img src="covers/2097188060098101543.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen erstklassigen, 10-sekündigen cineastischen Nutella-Werbespot im vertikalen 9:16-Format.
+
+0–2 Sek.: Langsamer cineastischer Push-in auf das Nutella-Glas auf einem wunderschönen Frühstuckstisch.
+
+2–4 Sek.: Makroaufnahme, wie cremige Nutella geschmeidig auf einem warmen Toast verstrichen wird.
+
+4–6 Sek.: Nahaufnahme eines Löffels, der einen glänzenden Strudel Nutella langsam und befriedigend aus dem Glas hebt.
+
+6–8 Sek.: Schneller, eleganter Übergang zu einem fertigen Nutella-Toast, der auf dem Frühstückstisch platziert wird.
+
+8–10 Sek.: Finaler Hero-Shot des Nutella-Glases, umgeben von Toast und Haselnüssen, warmes morgendliches Sonnenlicht und subtile Kamerabewegung.
+
+Fotorealistischer Lebensmittel-Werbespot, erstklassige Werbequalität, realistische Texturen, sanfte Übergänge, geringe Schärfentiefe, cineastische Beleuchtung, appetitliche natürliche Präsentation, authentische Verpackung, keine Texteinblendungen, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
