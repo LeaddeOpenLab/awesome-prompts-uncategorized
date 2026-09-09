@@ -142,20 +142,32 @@ Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim ·
 
 <a name="prompt-2096829877987291200"></a>
 
-### Đang dịch
+### Chuỗi phân cảnh quảng cáo 3D phong cách điện ảnh cho thấy vắt mì ăn liền sống bay lơ lửng cùng nguyên liệu, rơi vào nước sôi và phần trình bày thành phẩm trên bát.
 
 Tác giả：[@1H77k](https://x.com/1H77k) · [Bài gốc](https://x.com/1H77k/status/2096829877987291200)
 
 Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuỗi phân cảnh quảng cáo 3D phong cách điện ảnh cho thấy vắt mì ăn liền sống bay lơ lửng cùng nguyên liệu, rơi vào nước sôi và phần trình bày thành phẩm trên bát.
 
 <img src="covers/2096829877987291200.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh quay quảng cáo điện ảnh 3D sống động về mì ăn liền. Cảnh quay macro chuyển động cực chậm cận cảnh vắt mì ramen sống trôi nổi lơ lửng giữa không trung, xung quanh là các nguyên liệu tươi ngon đang bay lượn như cà chua bi thái lát, ngô ngọt, lá húng quế, quả ô liu đen và ớt mảnh. Ánh nắng thể tích tự nhiên rực rỡ chiếu qua nền bếp mộc mạc. Chuyển cảnh mượt mà khi vắt mì rơi vào nồi nước sôi sùng sục bốc khói nghi ngút, biến thành một tô mì thơm ngon nóng hổi. Máy quay thu nhỏ dần để lộ khung cảnh gian bếp ấm cúng với gói mì ăn liền màu vàng ở hậu cảnh. Nhiếp ảnh ẩm thực siêu thực, độ phân giải 8k, ánh sáng điện ảnh, màu sắc hấp dẫn kích thích vị giác, định dạng dọc 1080x1920.
+
+​Nguyên liệu và vắt mì lơ lửng:
+
+​Nhiếp ảnh ẩm thực điện ảnh, cảnh quay macro vắt mì ăn liền sống lơ lửng giữa không trung cùng cà chua thái lát, ô liu đen, lá húng quế, ngô và các loại gia vị bay trong chuyển động chậm, ánh nắng ấm áp, phông nền nhà bếp, độ sâu trường ảnh, 8k --ar 9:16
+
+​Chuyển cảnh nước sôi:
+
+​Cảnh cận cảnh vắt mì ăn liền nhúng vào nước sôi sùng sục trong nồi inox, những làn khói hơi nước dày đặc bốc lên, tia lửa rực rỡ kịch tính ở đáy nồi, năng lượng cao, độ nét sắc sảo, siêu thực --ar 9:16
+
+​Trình bày tô mì hoàn thiện:
+
+​Tô mì ăn liền đã nấu chín nóng hổi bốc khói phục vụ cùng các loại rau thơm tươi, cà chua bi và ô liu, một chiếc dĩa đang gắp những sợi mì dài, gói mì ăn liền kiểu Maggi màu vàng mờ ảo ở hậu cảnh, ánh sáng ấm cúng dễ chịu, phong cách quảng cáo món ăn chuyên nghiệp --ar 9:16
 ```
 
 [↑ Về danh mục](#catalog)

@@ -142,20 +142,32 @@ Traducción en curso
 
 <a name="prompt-2096829877987291200"></a>
 
-### Traducción en curso
+### Secuencia publicitaria cinematográfica en 3D que muestra fideos instantáneos crudos flotando con ingredientes, cayendo en agua hirviendo y la presentación final servida.
 
 Autor：[@1H77k](https://x.com/1H77k) · [Publicación original](https://x.com/1H77k/status/2096829877987291200)
 
 Cine / Fotograma de película · Render 3D · Comida / Bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia publicitaria cinematográfica en 3D que muestra fideos instantáneos crudos flotando con ingredientes, cayendo en agua hirviendo y la presentación final servida.
 
 <img src="covers/2096829877987291200.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Toma comercial cinematográfica dinámica en 3D de fideos instantáneos. Macro extremadamente ralentizado de un bloque de fideos ramen crudos flotando en el aire, rodeado de ingredientes frescos que vuelan, como tomates cherry en rodajas, maíz dulce, hojas de albahaca, aceitunas negras y copos de chile. Luz solar volumétrica brillante y natural entrando a través del fondo de una cocina rústica. Transición suave mientras los fideos caen en una olla de agua hirviendo con vapor ascendente, transformándose en un delicioso tazón de fideos humeantes. La cámara se aleja para revelar una acogedora cocina con un paquete amarillo de fideos instantáneos en el fondo. Fotografía gastronómica ultrarrealista, resolución 8k, iluminación cinematográfica, colores apetitosos, formato vertical de 1080x1920.
+
+​Ingredientes flotantes y fideos:
+
+​Fotografía gastronómica cinematográfica, macro de un bloque de fideos instantáneos crudos flotando en el aire con tomates en rodajas, aceitunas negras, hojas de albahaca, maíz y especias volando en cámara lenta, luz solar cálida, fondo de cocina, profundidad de campo, 8k --ar 9:16
+
+​Transición de agua hirviendo:
+
+​Plano en primer plano del bloque de fideos instantáneos sumergiéndose en agua hirviendo dentro de una olla de acero, densas nubes de vapor ascendente, dramático destello de llamas en la parte inferior, alta energía, enfoque nítido, hiperrealista --ar 9:16
+
+​Presentación final del tazón:
+
+​Un tazón humeante de fideos instantáneos cocidos servidos con hierbas frescas, tomates cherry y aceitunas, un tenedor levantando largas hebras de fideos, un paquete amarillo de fideos instantáneos estilo Maggi en el fondo desenfocado, iluminación cálida y acogedora, estilo publicitario gastronómico profesional --ar 9:16
 ```
 
 [↑ Volver a categorías](#catalog)
