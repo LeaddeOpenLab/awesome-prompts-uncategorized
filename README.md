@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**5** Prompts · Latest addition: **2026-09-09**
+**6** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -27,6 +27,32 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097217893767303361"></a>
+
+### Realistic photo prompt of a young Japanese woman with ash-brown hair in a wide-neck oversized T-shirt leaning deeply forward to write on paper on a table with a pen at an indoor event venue.
+
+Author：[@kamakirin13993](https://x.com/kamakirin13993) · [Source](https://x.com/kamakirin13993/status/2097217893767303361)
+
+Photography · Character · Published
+
+**Summary:** Realistic photo prompt of a young Japanese woman with ash-brown hair in a wide-neck oversized T-shirt leaning deeply forward to write on paper on a table with a pen at an indoor event venue.
+
+<img src="images/2097217893767303361-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097217893767303361-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097217893767303361-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+A young Japanese woman with short layered ash-brown hair looking down. She is wearing an oversized T-shirt with a wide neckline and denim jeans. In front of the woman is a table, and on the table is a single sheet of white copy paper. She is holding a pen in her right hand and is deeply leaning forward from a standing position, attempting to write on the paper. Her left hand is on the table. The background is an indoor event venue. Natural lighting, natural skin. Natural cloth texture of the clothing. Realistic photographic style finely depicting even skin textures, high resolution.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097223313592316111"></a>
 
