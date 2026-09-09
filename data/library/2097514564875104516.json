@@ -12,7 +12,14 @@
     "th-TH": "สร้างแร็กเซิร์ฟเวอร์สำหรับ Nvidia Spark จำนวน 6 เครื่องที่มีดีไซน์สวยงามและเปี่ยมด้วยประสิทธิภาพให้ฉัน",
     "vi-VN": "Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark với thiết kế hiệu quả và đẹp mắt về mặt thẩm mỹ.",
     "hi-IN": "मेरे लिए 6 Nvidia Sparks के लिए एक सर्वर रैक बनाएं जो एक कुशल और सौंदर्यपूर्ण रूप से मनभावन डिज़ाइन हो।",
-    "es-ES": "Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable."
+    "es-ES": "Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable.",
+    "es-419": "Crea para mí un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable.",
+    "de-DE": "Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhetisch ansprechenden Design.",
+    "fr-FR": "Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et esthétiquement agréable.",
+    "it-IT": "Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticamente gradevole.",
+    "pt-BR": "Crie para mim um rack de servidores para 6 Nvidia Sparks com um design eficiente e esteticamente agradável.",
+    "pt-PT": "Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e esteticamente agradável.",
+    "tr-TR": "Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip bir sunucu kabini oluştur."
   },
   "summaryTranslations": {
     "en": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
@@ -23,7 +30,14 @@
     "th-TH": "สร้างแร็กเซิร์ฟเวอร์สำหรับ Nvidia Spark จำนวน 6 เครื่องที่มีดีไซน์สวยงามและเปี่ยมด้วยประสิทธิภาพให้ฉัน",
     "vi-VN": "Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark với thiết kế hiệu quả và đẹp mắt về mặt thẩm mỹ.",
     "hi-IN": "मेरे लिए 6 Nvidia Sparks के लिए एक सर्वर रैक बनाएं जो एक कुशल और सौंदर्यपूर्ण रूप से मनभावन डिज़ाइन हो।",
-    "es-ES": "Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable."
+    "es-ES": "Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable.",
+    "es-419": "Crea para mí un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable.",
+    "de-DE": "Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhetisch ansprechenden Design.",
+    "fr-FR": "Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et esthétiquement agréable.",
+    "it-IT": "Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticamente gradevole.",
+    "pt-BR": "Crie para mim um rack de servidores para 6 Nvidia Sparks com um design eficiente e esteticamente agradável.",
+    "pt-PT": "Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e esteticamente agradável.",
+    "tr-TR": "Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip bir sunucu kabini oluştur."
   },
   "translationVersion": 2,
   "summary": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
