@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**8** Prompt · Son eklenen: **2026-09-09**
+**9** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -79,6 +79,28 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2096832231071519193"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Urwa\_345](https://x.com/Urwa_345) · [Orijinal gönderi](https://x.com/Urwa_345/status/2096832231071519193)
+
+Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Ürün · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2096832231071519193.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096829877987291200"></a>
 

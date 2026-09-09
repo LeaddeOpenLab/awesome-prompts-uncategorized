@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**8** Prompts · Latest addition: **2026-09-09**
+**9** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -91,6 +91,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2096832231071519193"></a>
+
+### 10-second 9:16 cinematic commercial storyboard for LEGO Botanical Collection featuring push-in, macro details, hand assembly, and a rotating final showcase.
+
+Author：[@Urwa\_345](https://x.com/Urwa_345) · [Source](https://x.com/Urwa_345/status/2096832231071519193)
+
+Comic / Storyboard · Cinematic / Film Still · Product · Published
+
+**Summary:** 10-second 9:16 cinematic commercial storyboard for LEGO Botanical Collection featuring push-in, macro details, hand assembly, and a rotating final showcase.
+
+<img src="covers/2096832231071519193.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a cinematic 10-second premium product advertisement for LEGO Botanical Collection in vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the beautifully arranged LEGO botanical set on a wooden table, soft cinematic lighting.\n\n2–4 sec: Smooth macro transition to the detailed LEGO flower pieces, focusing on texture and craftsmanship.\n\n4–7 sec: Show hands naturally assembling the flower arrangement, quick satisfying movements, shallow depth of field, elegant lifestyle atmosphere.\n\n7–10 sec: Reveal the completed botanical arrangement in a modern room. Camera slowly rotates around the finished product while warm light creates a premium cozy atmosphere.\n\nSmooth transitions, realistic motion, commercial advertising quality, cinematic depth of field, subtle camera movement, highly detailed, premium product photography style, no text overlays, no watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096829877987291200"></a>
 

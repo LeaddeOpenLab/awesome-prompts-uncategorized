@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**8** Prompt · Bổ sung mới nhất: **2026-09-09**
+**9** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -79,6 +79,28 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2096832231071519193"></a>
+
+### Đang dịch
+
+Tác giả：[@Urwa\_345](https://x.com/Urwa_345) · [Bài gốc](https://x.com/Urwa_345/status/2096832231071519193)
+
+Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Sản phẩm · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2096832231071519193.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2096829877987291200"></a>
 
