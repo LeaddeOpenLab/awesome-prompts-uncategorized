@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**15** Prompt · Bổ sung mới nhất: **2026-09-09**
+**16** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2097562587437342750"></a>
+
+### Đang dịch
+
+Tác giả：[@er1029iu](https://x.com/er1029iu) · [Bài gốc](https://x.com/er1029iu/status/2097562587437342750)
+
+Nhiếp ảnh · Động vật / Sinh vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097562587437342750-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097562587437342750-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097562587437342750-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097519361909199023"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**15** Prompts · Última adição: **2026-09-09**
+**16** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2097562587437342750"></a>
+
+### Tradução em andamento
+
+Autor：[@er1029iu](https://x.com/er1029iu) · [Publicação original](https://x.com/er1029iu/status/2097562587437342750)
+
+Fotografia · Animal / Criatura · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097562587437342750-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097562587437342750-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097562587437342750-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097519361909199023"></a>
 

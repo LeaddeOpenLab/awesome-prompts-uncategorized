@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**15** Prompts · Última incorporación: **2026-09-09**
+**16** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,32 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2097562587437342750"></a>
+
+### Traducción en curso
+
+Autor：[@er1029iu](https://x.com/er1029iu) · [Publicación original](https://x.com/er1029iu/status/2097562587437342750)
+
+Fotografía · Animal / Criatura · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097562587437342750-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097562587437342750-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097562587437342750-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097519361909199023"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**15** Prompts · Latest addition: **2026-09-09**
+**16** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,183 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097562587437342750"></a>
+
+### Master prompt designed to subtly shape existing clouds in reference photos into animal lookalikes using pareidolia while keeping realistic mobile photography textures.
+
+Author：[@er1029iu](https://x.com/er1029iu) · [Source](https://x.com/er1029iu/status/2097562587437342750)
+
+Photography · Animal / Creature · Published
+
+**Summary:** Master prompt designed to subtly shape existing clouds in reference photos into animal lookalikes using pareidolia while keeping realistic mobile photography textures.
+
+<img src="images/2097562587437342750-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097562587437342750-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097562587437342750-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+CLOUD DOPPELGÄNGER — REAL PHOTO MASTER PROMPT
+
+Use the attached original photograph as the fixed reference image.
+
+REFERENCE LOCK — VERY IMPORTANT
+
+The original photograph must remain recognizable and visually consistent.
+
+Preserve:
+- the original blue sky
+- the real cloud distribution
+- the original camera angle
+- the diagonal overhead wires
+- the window reflections
+- the existing natural lighting
+- the imperfect real-world photographic quality
+- the original perspective and composition
+
+Do not replace the entire sky.
+Do not redesign the scene.
+Do not create a completely new background.
+
+--------------------------------------------------
+STEP 1 — ANALYZE THE ORIGINAL CLOUD
+--------------------------------------------------
+
+First carefully analyze the main cloud in the attached photograph.
+
+Study its:
+
+- outer silhouette
+- rounded masses
+- protruding areas
+- narrow sections
+- empty spaces
+- natural highlights and shadows
+- cloud density
+- direction
+- overall visual impression
+
+Then determine what real animal or familiar living creature
+the existing cloud naturally resembles the most.
+
+The resemblance must come FROM THE EXISTING CLOUD SHAPE.
+
+Do not force an unrelated animal into the cloud.
+
+--------------------------------------------------
+STEP 2 — NATURAL DOPPELGÄNGER INTERPRETATION
+--------------------------------------------------
+
+Transform only the viewer's perception of the cloud.
+
+The cloud itself must still look like a REAL CLOUD.
+
+Use the existing cloud masses as the natural structure of:
+
+head,
+body,
+ears,
+snout,
+legs,
+tail,
+or other recognizable features.
+
+Only emphasize features that already appear naturally possible
+from the original cloud silhouette.
+
+The viewer's reaction should be:
+
+"Wait... that cloud looks like an animal."
+
+NOT:
+
+"Someone pasted an animal into the sky."
+
+--------------------------------------------------
+REAL CLOUD FIRST
+--------------------------------------------------
+
+Target visual balance:
+
+90–95% real cloud
+5–10% imaginative resemblance
+
+The cloud must remain made entirely from:
+
+realistic water vapor,
+soft cloud particles,
+natural atmospheric diffusion,
+irregular cloud edges,
+real sunlight,
+subtle volumetric depth.
+
+Do NOT create:
+
+a furry animal floating in the sky,
+a realistic animal face pasted into a cloud,
+cartoon eyes,
+human-like eyes,
+perfect symmetrical facial features,
+CGI fur,
+plastic textures,
+3D mascot appearance.
+
+--------------------------------------------------
+FACE / CHARACTER DETAILS
+--------------------------------------------------
+
+If facial details are necessary,
+they must be extremely subtle.
+
+Eyes should be suggested mainly through
+natural cloud shadows and tiny tonal differences.
+
+A nose or mouth may only appear as
+very faint cloud-density variations.
+
+No obvious black button eyes.
+No exaggerated smile.
+No cartoon tongue.
+No artificial facial outline.
+
+The animal resemblance should emerge through pareidolia.
+
+--------------------------------------------------
+REAL PHOTO QUALITY
+--------------------------------------------------
+
+The final result must look like
+a spontaneous real photograph captured through a window.
+
+Natural iPhone photograph.
+
+Medium-quality smartphone camera realism,
+not an advertisement,
+not a studio photograph.
+
+Keep:
+
+slight window glare,
+small reflections,
+minor exposure imperfections,
+natural atmospheric haze,
+slightly uneven sharpness,
+realistic dynamic range,
+subtle sensor noise,
+natural color variation.
+
+Avoid excessive HDR.
+Avoid excessive sharpening.
+Avoid artificial saturation.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097519361909199023"></a>
 
