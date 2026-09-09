@@ -298,13 +298,13 @@ Autor：[@VKs\_Host](https://x.com/VKs_Host) · [Originalbeitrag](https://x.com/
 
 <a name="prompt-2096936643173216486"></a>
 
-### Übersetzung läuft
+### Prompt zur Umwandlung eines Referenzfotos in ein fotorealistisches Retro-Porträt von 1985 mit authentischer 80er-Jahre-Mode, toupiertem Haar und 35-mm-Film-Ästhetik.
 
 Autor：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Originalbeitrag](https://x.com/SalaheldinNehal/status/2096936643173216486)
 
 Fotografie · Retro / Vintage · Porträt / Selfie · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Umwandlung eines Referenzfotos in ein fotorealistisches Retro-Porträt von 1985 mit authentischer 80er-Jahre-Mode, toupiertem Haar und 35-mm-Film-Ästhetik.
 
 <img src="images/2096936643173216486-1.jpg" alt="Bild 1" width="480" />
 
@@ -315,7 +315,7 @@ Fotografie · Retro / Vintage · Porträt / Selfie · Modeartikel · Veröffentl
 **Prompt**
 
 ```text
-Übersetzung läuft
+Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto als Referenz. Behalte meine genauen Gesichtszüge, mein Lächeln, meinen Hautton, meine Augenform und meine gesamte Identität bei. Style mich so um, als würde ich im Jahr 1985 leben, mit authentischen Mode- und Beauty-Trends der 1980er-Jahre: voluminöses, toupiertes Haar, markantes Augen-Make-up, rosiges Rouge, matter Lippenstift, große Creolen, eine Acid-Wash-Jeansjacke, ein leuchtendes Neon-Top, Jeans mit hoher Taille und klassische Accessoires der 1980er-Jahre. Platziere mich in einer realistischen Kulisse der 1980er-Jahre mit Retro-Postern, einem Kassettenspieler, Schallplatten und warmer Beleuchtung im Filmstil. Lass es wie ein echtes, hochwertiges 35-mm-Foto aus der Mitte der 1980er-Jahre mit feinem Filmkorn und Vintage-Farbtönen wirken. Das Bild sollte fotorealistisch sein und eine starke Ähnlichkeit mit mir aufweisen – keine generische Person der 1980er-Jahre.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

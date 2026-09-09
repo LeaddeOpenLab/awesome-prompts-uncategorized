@@ -298,13 +298,13 @@ Traduction en cours
 
 <a name="prompt-2096936643173216486"></a>
 
-### Traduction en cours
+### Prompt pour transformer une photo de référence en un portrait rétro photoréaliste de 1985 avec une mode authentique des années 80, des cheveux crêpés et une esthétique de film 35 mm.
 
 Auteur：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Publication originale](https://x.com/SalaheldinNehal/status/2096936643173216486)
 
 Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour transformer une photo de référence en un portrait rétro photoréaliste de 1985 avec une mode authentique des années 80, des cheveux crêpés et une esthétique de film 35 mm.
 
 <img src="images/2096936643173216486-1.jpg" alt="Image 1" width="480" />
 
@@ -315,7 +315,7 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 **Consigne**
 
 ```text
-Traduction en cours
+À quoi aurais-je ressemblé dans les années 1980 ? Utilise la photo ci-jointe comme référence. Préserve fidèlement les traits de mon visage, mon sourire, mon teint, la forme de mes yeux et mon identité globale. Relooke-moi comme si je vivais en 1985 avec les tendances de mode et de beauté authentiques des années 1980 : cheveux crêpés et volumineux, maquillage des yeux audacieux, fard à joues rosé, rouge à lèvres mat, grandes boucles d'oreilles créoles, veste en jean délavé à l'acide, haut néon éclatant, jean taille haute et accessoires classiques des années 1980. Place-moi dans un décor réaliste des années 1980 avec des affiches rétro, un lecteur de cassettes, des disques vinyles et un éclairage chaleureux de style argentique. Fais en sorte que cela ressemble à une véritable photographie 35 mm de haute qualité du milieu des années 1980, avec un grain de film subtil et des tons de couleur vintage. L'image doit être photoréaliste et conserver une forte ressemblance avec moi, sans être une personne générique des années 1980.
 ```
 
 [↑ Retour aux catégories](#catalog)

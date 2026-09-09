@@ -298,13 +298,13 @@ Yazar：[@VKs\_Host](https://x.com/VKs_Host) · [Orijinal gönderi](https://x.co
 
 <a name="prompt-2096936643173216486"></a>
 
-### Çeviri sürüyor
+### Bir referans fotoğrafını, 80'lerin özgün modasını, krepeli saçları ve 35 mm film estetiğini içeren, 1985 yılına ait fotogerçekçi bir retro portreye dönüştürme promptu.
 
 Yazar：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Orijinal gönderi](https://x.com/SalaheldinNehal/status/2096936643173216486)
 
 Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir referans fotoğrafını, 80'lerin özgün modasını, krepeli saçları ve 35 mm film estetiğini içeren, 1985 yılına ait fotogerçekçi bir retro portreye dönüştürme promptu.
 
 <img src="images/2096936643173216486-1.jpg" alt="Görsel 1" width="480" />
 
@@ -315,7 +315,7 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 **İstem**
 
 ```text
-Çeviri sürüyor
+1980'lerde nasıl görünürdüm? Ekli fotoğrafı referans olarak kullanın. Yüz hatlarımı, gülümsememi, ten rengimi, göz yapımı ve genel kimliğimi birebir koruyun. 1980'lerin özgün moda ve güzellik trendleriyle 1985 yılında yaşıyormuşum gibi beni yeniden şekillendirin: hacimli krepe saçlar, iddialı göz makyajı, pembe allık, mat ruj, büyük halka küpeler, asit yıkama kot ceket, canlı neon bir üst, yüksek belli kot pantolon ve klasik 1980'ler aksesuarları. Beni retro posterler, bir kasetçalar, vinil plaklar ve sıcak film tarzı aydınlatmaya sahip gerçekçi bir 1980'ler ortamına yerleştirin. İnce film greni ve nostaljik renk tonlarıyla 1980'lerin ortalarından kalma gerçek ve yüksek kaliteli bir 35 mm fotoğraf gibi görünmesini sağlayın. Görsel fotogerçekçi olmalı ve bana güçlü bir benzerlik taşımalıdır; sıradan bir 1980'ler kişisi olmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

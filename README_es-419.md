@@ -298,13 +298,13 @@ Traducción en curso
 
 <a name="prompt-2096936643173216486"></a>
 
-### Traducción en curso
+### Prompt para transformar una foto de referencia en un retrato retro fotorrealista de 1985 con auténtica moda de los 80, cabello cardado y estética de película de 35 mm.
 
 Autor：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Publicación original](https://x.com/SalaheldinNehal/status/2096936643173216486)
 
 Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para transformar una foto de referencia en un retrato retro fotorrealista de 1985 con auténtica moda de los 80, cabello cardado y estética de película de 35 mm.
 
 <img src="images/2096936643173216486-1.jpg" alt="Imagen 1" width="480" />
 
@@ -315,7 +315,7 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 **Prompt**
 
 ```text
-Traducción en curso
+¿Cómo me habría visto en la década de 1980? Usa la foto adjunta como referencia. Conserva mis rasgos faciales exactos, sonrisa, tono de piel, forma de los ojos e identidad general. Rediséñame como si viviera en 1985 con auténticas tendencias de moda y belleza de los años 80: cabello cardado y voluminoso, maquillaje de ojos llamativo, rubor rosado, lápiz labial mate, aretes de aro grandes, una chaqueta de mezclilla deslavada con ácido, una blusa de neón vibrante, jeans de tiro alto y accesorios clásicos de los años 80. Colócame en un entorno realista de los años 80 con pósteres retro, un reproductor de casetes, discos de vinilo y una iluminación cálida estilo película. Haz que parezca una fotografía genuina de 35 mm de alta calidad de mediados de los años 80 con grano de película sutil y tonos de color vintage. La imagen debe ser fotorrealista y mantener un gran parecido conmigo, no con una persona genérica de los años 80.
 ```
 
 [↑ Volver a categorías](#catalog)

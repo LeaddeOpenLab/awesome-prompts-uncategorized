@@ -298,13 +298,13 @@ Traduzione in corso
 
 <a name="prompt-2096936643173216486"></a>
 
-### Traduzione in corso
+### Prompt per trasformare una foto di riferimento in un ritratto rétro fotorealistico del 1985 con autentica moda anni '80, capelli cotonati ed estetica da pellicola a 35 mm.
 
 Autore：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Post originale](https://x.com/SalaheldinNehal/status/2096936643173216486)
 
 Fotografia · Retro / Vintage · Ritratto / Selfie · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per trasformare una foto di riferimento in un ritratto rétro fotorealistico del 1985 con autentica moda anni '80, capelli cotonati ed estetica da pellicola a 35 mm.
 
 <img src="images/2096936643173216486-1.jpg" alt="Immagine 1" width="480" />
 
@@ -315,7 +315,7 @@ Fotografia · Retro / Vintage · Ritratto / Selfie · Articolo di moda · Pubbli
 **Prompt**
 
 ```text
-Traduzione in corso
+Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantieni i miei esatti tratti del viso, il sorriso, la tonalità della pelle, la forma degli occhi e l'identità generale. Rimodellami come se vivessi nel 1985 con le autentiche tendenze di moda e bellezza degli anni '80: capelli cotonati voluminosi, trucco occhi audace, blush rosato, rossetto opaco, grandi orecchini a cerchio, giacca di jeans slavata all'acido, top neon vivace, jeans a vita alta e accessori classici degli anni '80. Ambientami in uno scenario realistico degli anni '80 con poster rétro, un lettore di cassette, dischi in vinile e un'illuminazione calda in stile pellicola. Fai in modo che sembri un'autentica fotografia a 35 mm di alta qualità della metà degli anni '80, con una grana della pellicola sottile e tonalità di colore vintage. L'immagine deve essere fotorealistica e mantenere una forte somiglianza con me, non con una persona generica degli anni '80.
 ```
 
 [↑ Torna alle categorie](#catalog)
