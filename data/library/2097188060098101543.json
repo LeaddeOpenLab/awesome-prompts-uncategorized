@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:15:59.879Z",
+  "model": "unknown-video",
+  "prompt": "Create a premium 10-second cinematic Nutella advertisement in vertical 9:16 format.\n\n0–2 sec: Slow cinematic push-in toward the Nutella jar on a beautiful breakfast table.\n\n2–4 sec: Macro shot of creamy Nutella being spread smoothly across warm toast.\n\n4–6 sec: Close-up of a spoon lifting a glossy swirl of Nutella from the jar, slow satisfying motion.\n\n6–8 sec: Quick elegant transition to a finished Nutella toast placed on the breakfast table.\n\n8–10 sec: Final hero shot of the Nutella jar with toast and hazelnuts around it, warm morning sunlight and subtle camera movement.\n\nPhotorealistic food commercial, premium advertising quality, realistic textures, smooth transitions, shallow depth of field, cinematic lighting, appetizing natural presentation, authentic packaging, no text overlays, no watermark.",
+  "promptTranslations": {
+    "en": "Create a premium 10-second cinematic Nutella advertisement in vertical 9:16 format.\\n\\n0–2 sec: Slow cinematic push-in toward the Nutella jar on a beautiful breakfast table.\\n\\n2–4 sec: Macro shot of creamy Nutella being spread smoothly across warm toast.\\n\\n4–6 sec: Close-up of a spoon lifting a glossy swirl of Nutella from the jar, slow satisfying motion.\\n\\n6–8 sec: Quick elegant transition to a finished Nutella toast placed on the breakfast table.\\n\\n8–10 sec: Final hero shot of the Nutella jar with toast and hazelnuts around it, warm morning sunlight and subtle camera movement.\\n\\nPhotorealistic food commercial, premium advertising quality, realistic textures, smooth transitions, shallow depth of field, cinematic lighting, appetizing natural presentation, authentic packaging, no text overlays, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "A 10-second cinematic vertical Nutella commercial prompt with shot-by-shot breakdown from jar push-in to spreading on toast and hero shot."
+  },
+  "translationVersion": 2,
+  "summary": "A 10-second cinematic vertical Nutella commercial prompt with shot-by-shot breakdown from jar push-in to spreading on toast and hero shot.",
+  "summaryEn": "A 10-second cinematic vertical Nutella commercial prompt with shot-by-shot breakdown from jar push-in to spreading on toast and hero shot.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097188060098101543",
+    "canonicalUrl": "https://x.com/Urwa_345/status/2097188060098101543",
+    "author": {
+      "username": "Urwa_345",
+      "displayName": "𝐔𝐫𝐰𝐚 𝐀𝐈",
+      "profileUrl": "https://x.com/Urwa_345"
+    },
+    "publishedAt": "2026-09-08T04:59:32.000Z",
+    "collectedAt": "2026-09-09T02:40:21.975Z",
+    "language": "en",
+    "originalText": "**“One spoonful, and breakfast just got better. 🍫✨\n\nPrompt 👇 \n\nCreate a premium 10-second cinematic Nutella advertisement in vertical 9:16 format.\n\n0–2 sec: Slow cinematic push-in toward the Nutella jar on a beautiful breakfast table.\n\n2–4 sec: Macro shot of creamy Nutella being spread smoothly across warm toast.\n\n4–6 sec: Close-up of a spoon lifting a glossy swirl of Nutella from the jar, slow satisfying motion.\n\n6–8 sec: Quick elegant transition to a finished Nutella toast placed on the breakfast table.\n\n8–10 sec: Final hero shot of the Nutella jar with toast and hazelnuts around it, warm morning sunlight and subtle camera movement.\n\nPhotorealistic food commercial, premium advertising quality, realistic textures, smooth transitions, shallow depth of field, cinematic lighting, appetizing natural presentation, authentic packaging, no text overlays, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Urwa_345/status/2097188060098101543",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097187807982977024/img/ON4xX2P3uqJsz2wM.jpg",
+        "analysisUrl": "https://x.com/Urwa_345/status/2097188060098101543"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRq1XmjaYAAhKo1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRq1XmjaYAAhKo1.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 217,
+      "repostCount": 26,
+      "replyCount": 26,
+      "quoteCount": 3,
+      "viewCount": 74666
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solidworks\",\"cad\",\"image\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Urwa_345/status/2097188060098101543",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097187807982977024/img/ON4xX2P3uqJsz2wM.jpg",
+  "coverPath": "covers/2097188060098101543.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097187807982977024",
+    "x-image:/media/HRq1XmjaYAAhKo1",
+    "x-post:2097188060098101543"
+  ],
+  "analysis": {
+    "summary": "A 10-second cinematic vertical Nutella commercial prompt with shot-by-shot breakdown from jar push-in to spreading on toast and hero shot.",
+    "summaryEn": "A 10-second cinematic vertical Nutella commercial prompt with shot-by-shot breakdown from jar push-in to spreading on toast and hero shot.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a premium 10-second cinematic Nutella advertisement in vertical 9:16 format.\n\n0–2 sec: Slow cinematic push-in toward the Nutella jar on a beautiful breakfast table.\n\n2–4 sec: Macro shot of creamy Nutella being spread smoothly across warm toast.\n\n4–6 sec: Close-up of a spoon lifting a glossy swirl of Nutella from the jar, slow satisfying motion.\n\n6–8 sec: Quick elegant transition to a finished Nutella toast placed on the breakfast table.\n\n8–10 sec: Final hero shot of the Nutella jar with toast and hazelnuts around it, warm morning sunlight and subtle camera movement.\n\nPhotorealistic food commercial, premium advertising quality, realistic textures, smooth transitions, shallow depth of field, cinematic lighting, appetizing natural presentation, authentic packaging, no text overlays, no watermark.",
+    "sourceRange": {
+      "start": 63,
+      "end": 874
+    },
+    "translations": {
+      "zh": "创建一条9:16竖版格式的高端10秒电影感Nutella广告。\n\n0–2秒：镜头缓慢推进，推向精致早餐桌上的Nutella罐装瓶。\n\n2–4秒：微距镜头拍摄顺滑浓郁的Nutella被平整抹在温热烤面包片上。\n\n4–6秒：特写镜头展示勺子从罐中舀起一勺带有光泽漩涡的Nutella，动作缓慢治愈。\n\n6–8秒：快速优雅转场至摆放在早餐桌上的成品Nutella吐司。\n\n8–10秒：最终定格大片镜头，展现Nutella罐装瓶及其周围的吐司与榛子，温暖晨光搭配微妙镜头移动。\n\n逼真食品商业广告，高级广告画质，逼真纹理，流畅转场，浅景深，电影级光影，诱人自然呈现，真实包装，无文字覆盖，无水印。",
+      "en": "Create a premium 10-second cinematic Nutella advertisement in vertical 9:16 format.\n\n0–2 sec: Slow cinematic push-in toward the Nutella jar on a beautiful breakfast table.\n\n2–4 sec: Macro shot of creamy Nutella being spread smoothly across warm toast.\n\n4–6 sec: Close-up of a spoon lifting a glossy swirl of Nutella from the jar, slow satisfying motion.\n\n6–8 sec: Quick elegant transition to a finished Nutella toast placed on the breakfast table.\n\n8–10 sec: Final hero shot of the Nutella jar with toast and hazelnuts around it, warm morning sunlight and subtle camera movement.\n\nPhotorealistic food commercial, premium advertising quality, realistic textures, smooth transitions, shallow depth of field, cinematic lighting, appetizing natural presentation, authentic packaging, no text overlays, no watermark."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Nutella"
+      ]
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
