@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**10** Prompt · Son eklenen: **2026-09-09**
+**11** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -255,6 +255,28 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097475914124967955"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2097475914124967955)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097475914124967955.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096817125864484954"></a>
 

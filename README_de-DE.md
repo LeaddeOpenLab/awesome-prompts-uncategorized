@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**10** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**11** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -255,6 +255,28 @@ Fotografie · Retro / Vintage · Porträt / Selfie · Modeartikel · Veröffentl
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097475914124967955"></a>
+
+### Übersetzung läuft
+
+Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Originalbeitrag](https://x.com/higgsfield_ai/status/2097475914124967955)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097475914124967955.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2096817125864484954"></a>
 
