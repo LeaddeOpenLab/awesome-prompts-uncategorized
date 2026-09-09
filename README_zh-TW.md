@@ -2,6 +2,11 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-brightgreen)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
+**Best for:** Emerging visual AI prompts awaiting model verification, preserved with source attribution for early research.
+
+For PDF, PPT, SOP, training, and multilingual video workflows:
+[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
+
 > **每日更新，精選高品質提示詞**
 
 探索用於 AI 圖像、影片與 3D 創作的完整提示詞。依風格瀏覽、切換多語言版本，查看原作者與作品來源。
@@ -30,13 +35,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 <a name="prompt-2097562587437342750"></a>
 
-### 翻譯中
+### 旨在利用空想性錯視將參考照片中現有的雲朵微妙地塑造成動物外型、同時保持逼真手機攝影質感的Master Prompt。
 
 作者：[@er1029iu](https://x.com/er1029iu) · [查看 X 原帖](https://x.com/er1029iu/status/2097562587437342750)
 
 攝影 · 動物 / 生物 · 已推流
 
-**概括:** 翻譯中
+**概括:** 旨在利用空想性錯視將參考照片中現有的雲朵微妙地塑造成動物外型、同時保持逼真手機攝影質感的Master Prompt。
 
 <img src="images/2097562587437342750-1.jpg" alt="圖片 1" width="480" />
 
@@ -47,7 +52,153 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 **提示詞**
 
 ```text
-翻譯中
+雲朵替身（CLOUD DOPPELGÄNGER）— 真實照片大師級提示詞
+
+使用所附的原始照片作為固定參考圖像。
+
+參考鎖定 — 非常重要
+
+原始照片必須保持可辨識且在視覺上具有一致性。
+
+保留：
+- 原始的藍天
+- 真正的雲層分布
+- 原始的拍攝角度
+- 對角穿過的架空電線
+- 窗戶上的倒影
+- 現有的自然光線
+- 不完美的現實世界攝影畫質
+- 原始的透視與構圖
+
+請勿替換整個天空。
+請勿重新設計場景。
+請勿創建全新的背景。
+
+--------------------------------------------------
+步驟 1 — 分析原始雲朵
+--------------------------------------------------
+
+首先仔細分析所附照片中的主雲朵。
+
+研究其：
+
+- 外部輪廓
+- 團狀雲塊
+- 突出區域
+- 狹窄部分
+- 空白區域
+- 自然的高光與陰影
+- 雲層密度
+- 方向
+- 整體視覺印象
+
+然後確定這朵現有的雲自然狀態下最像什麼真實的動物或熟悉的生物。
+
+這種相似性必須源自「現有的雲朵形狀」。
+
+切勿將毫不相關的動物強加到雲朵中。
+
+--------------------------------------------------
+步驟 2 — 自然的替身演繹
+--------------------------------------------------
+
+僅改變觀看者對雲朵的感知。
+
+雲朵本身必須看起來仍然像「真正的雲」。
+
+利用現有的雲塊作為以下部位的自然結構：
+
+頭部、
+身體、
+耳朵、
+口鼻部、
+腿、
+尾巴、
+或其他可辨識的特徵。
+
+僅強化那些基於原始雲朵輪廓已經顯得自然可行的特徵。
+
+觀看者的反應應該是：
+
+「等等……那朵雲看起來像一隻動物。」
+
+而不是：
+
+「有人把一隻動物貼到了天上。」
+
+--------------------------------------------------
+真實雲朵優先
+--------------------------------------------------
+
+目標視覺平衡：
+
+90–95% 的真實雲朵
+5–10% 的想像相似感
+
+雲朵必須完全由以下成分構成：
+
+逼真的水蒸氣、
+柔軟的雲粒子、
+自然的大氣漫射、
+不規則的雲層邊緣、
+真實的陽光、
+微妙的體積深度。
+
+切勿生成：
+
+漂浮在空中的毛茸茸動物、
+直接貼在雲上的逼真動物臉孔、
+卡通眼睛、
+類似人類的眼睛、
+完美對稱的面部特徵、
+CGI毛髮、
+塑膠質感、
+3D吉祥物外觀。
+
+--------------------------------------------------
+臉部 / 角色細節
+--------------------------------------------------
+
+如果需要臉部細節，
+它們必須極其微妙。
+
+眼睛應主要透過自然的雲層陰影和微小的色調差異來暗示。
+
+鼻子或嘴巴只能表現為極微弱的雲密度變化。
+
+不得有明顯的黑色鈕扣眼。
+不得有誇張的微笑。
+不得有卡通舌頭。
+不得有人工面部輪廓。
+
+動物的相似感應透過空想性錯視（幻想性錯覺）自然顯現。
+
+--------------------------------------------------
+真實照片畫質
+--------------------------------------------------
+
+最終結果必須看起來像是一張隔著窗戶隨手抓拍的真實照片。
+
+自然的 iPhone 照片風格。
+
+中等畫質的智慧型手機攝影真實感，
+非廣告大片，
+非攝影棚作品。
+
+保留：
+
+輕微的窗戶眩光、
+微小的反光、
+輕微的曝光瑕疵、
+自然的大氣薄霧、
+略微不均的清晰度、
+逼真的動態範圍、
+細微的感光元件噪點、
+自然的色彩差異。
+
+避免過度的 HDR。
+避免過度的銳化。
+避免人造的飽和度。
 ```
 
 [↑ 返回分類目錄](#catalog)

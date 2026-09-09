@@ -2,6 +2,11 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-brightgreen)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-lightgrey)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
+**Best for:** Emerging visual AI prompts awaiting model verification, preserved with source attribution for early research.
+
+For PDF, PPT, SOP, training, and multilingual video workflows:
+[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
+
 > **每日更新，精选高质量提示词**
 
 发现用于 AI 图像、视频与 3D 创作的完整提示词。按风格浏览，切换多语言版本，查看原作者与作品来源。
@@ -30,13 +35,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 <a name="prompt-2097562587437342750"></a>
 
-### 翻译中
+### 旨在利用空想性错视将参考照片中现有的云朵微妙地塑造成动物外形、同时保持逼真手机摄影质感的大师级提示词。
 
 作者：[@er1029iu](https://x.com/er1029iu) · [查看 X 原帖](https://x.com/er1029iu/status/2097562587437342750)
 
 摄影 · 动物 / 生物 · 已推流
 
-**概括:** 翻译中
+**概括:** 旨在利用空想性错视将参考照片中现有的云朵微妙地塑造成动物外形、同时保持逼真手机摄影质感的大师级提示词。
 
 <img src="images/2097562587437342750-1.jpg" alt="图片 1" width="480" />
 
@@ -47,7 +52,153 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 **提示词**
 
 ```text
-翻译中
+云朵替身（CLOUD DOPPELGÄNGER）— 真实照片大师级提示词
+
+使用所附的原始照片作为固定参考图像。
+
+参考锁定 — 非常重要
+
+原始照片必须保持可识别且在视觉上具有一致性。
+
+保留：
+- 原始的蓝天
+- 真实的云层分布
+- 原始的拍摄角度
+- 对角穿过的架空电线
+- 窗户上的倒影
+- 现有的自然光线
+- 不完美的现实世界摄影画质
+- 原始的透视与构图
+
+请勿替换整个天空。
+请勿重新设计场景。
+请勿创建全新的背景。
+
+--------------------------------------------------
+步骤 1 — 分析原始云朵
+--------------------------------------------------
+
+首先仔细分析所附照片中的主云朵。
+
+研究其：
+
+- 外部轮廓
+- 团状云块
+- 突出区域
+- 狭窄部分
+- 空白区域
+- 自然的高光与阴影
+- 云层密度
+- 方向
+- 整体视觉印象
+
+然后确定这朵现有的云自然状态下最像什么真实的动物或熟悉的活物。
+
+这种相似性必须源自“现有的云朵形状”。
+
+切勿将毫不相关的动物强加到云朵中。
+
+--------------------------------------------------
+步骤 2 — 自然的替身演绎
+--------------------------------------------------
+
+仅改变观看者对云朵的感知。
+
+云朵本身必须看起来仍然像“真实的云”。
+
+利用现有的云块作为以下部位的自然结构：
+
+头部、
+身体、
+耳朵、
+口鼻部、
+腿、
+尾巴、
+或其他可辨识的特征。
+
+仅强化那些基于原始云朵轮廓已经显得自然可行的特征。
+
+观看者的反应应该是：
+
+“等等……那朵云看起来像一只动物。”
+
+而不是：
+
+“有人把一只动物贴到了天上。”
+
+--------------------------------------------------
+真实云朵优先
+--------------------------------------------------
+
+目标视觉平衡：
+
+90–95% 的真实云朵
+5–10% 的想象相似感
+
+云朵必须完全由以下成分构成：
+
+逼真的水蒸气、
+柔软的云粒子、
+自然的大气漫射、
+不规则的云层边缘、
+真实的阳光、
+微妙的体积深度。
+
+切勿生成：
+
+漂浮在空中的毛茸茸动物、
+直接贴在云上的逼真动物面部、
+卡通眼睛、
+类似人类的眼睛、
+完美对称的面部特征、
+CGI毛发、
+塑料质感、
+3D吉祥物外观。
+
+--------------------------------------------------
+面部 / 角色细节
+--------------------------------------------------
+
+如果需要面部细节，
+它们必须极其微妙。
+
+眼睛应主要通过自然的云层阴影和微小的色调差异来暗示。
+
+鼻子或嘴巴只能表现为极微弱的云密度变化。
+
+不得有明显的黑色纽扣眼。
+不得有夸张的微笑。
+不得有卡通舌头。
+不得有人工面部轮廓。
+
+动物的相似感应通过空想性错视（空想发见）自然显现。
+
+--------------------------------------------------
+真实照片画质
+--------------------------------------------------
+
+最终结果必须看起来像是一张隔着窗户随手抓拍的真实照片。
+
+自然的 iPhone 照片风格。
+
+中等画质的智能手机摄影真实感，
+非广告大片，
+非影棚摄影。
+
+保留：
+
+轻微的窗户眩光、
+微小的反光、
+轻微的曝光瑕疵、
+自然的大气薄雾、
+略微不均的清晰度、
+逼真的动态范围、
+细微的传感器噪点、
+自然的色彩差异。
+
+避免过度的 HDR。
+避免过度的锐化。
+避免人造的饱和度。
 ```
 
 [↑ 返回分类目录](#catalog)

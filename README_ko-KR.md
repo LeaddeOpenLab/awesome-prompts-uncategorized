@@ -2,6 +2,11 @@
 
 [![English](https://img.shields.io/badge/English-lightgrey)](README.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-lightgrey)](README_zh.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-lightgrey)](README_zh-TW.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-lightgrey)](README_ja-JP.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-brightgreen)](README_ko-KR.md) [![ไทย](https://img.shields.io/badge/%E0%B9%84%E0%B8%97%E0%B8%A2-lightgrey)](README_th-TH.md) [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-lightgrey)](README_vi-VN.md) [![हिन्दी](https://img.shields.io/badge/%E0%A4%B9%E0%A4%BF%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A5%80-lightgrey)](README_hi-IN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-lightgrey)](README_es-ES.md) [![Español (Latinoamérica)](https://img.shields.io/badge/Espa%C3%B1ol%20(Latinoam%C3%A9rica)-lightgrey)](README_es-419.md) [![Deutsch](https://img.shields.io/badge/Deutsch-lightgrey)](README_de-DE.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-lightgrey)](README_fr-FR.md) [![Italiano](https://img.shields.io/badge/Italiano-lightgrey)](README_it-IT.md) [![Português (Brasil)](https://img.shields.io/badge/Portugu%C3%AAs%20(Brasil)-lightgrey)](README_pt-BR.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-lightgrey)](README_pt-PT.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-lightgrey)](README_tr-TR.md)
 
+**Best for:** Emerging visual AI prompts awaiting model verification, preserved with source attribution for early research.
+
+For PDF, PPT, SOP, training, and multilingual video workflows:
+[Awesome Document-to-Video](https://github.com/LeaddeOpenLab/awesome-document-to-video)
+
 > **매일 엄선하는 고품질 프롬프트**
 
 AI 이미지, 영상, 3D 제작을 위한 완전한 프롬프트를 찾아보세요. 스타일별 분류, 다국어 버전, 원작자와 출처를 제공합니다.
@@ -30,13 +35,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2097562587437342750"></a>
 
-### 번역 중
+### 파레이돌리아를 활용하여 사실적인 모바일 사진 질감을 유지하면서 참조 사진 속 기존 구름을 동물 모양으로 미묘하게 형상화하도록 설계된 마스터 프롬프트.
 
 작성자：[@er1029iu](https://x.com/er1029iu) · [원본 게시물](https://x.com/er1029iu/status/2097562587437342750)
 
 사진술 · 동물 / 생명체 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 파레이돌리아를 활용하여 사실적인 모바일 사진 질감을 유지하면서 참조 사진 속 기존 구름을 동물 모양으로 미묘하게 형상화하도록 설계된 마스터 프롬프트.
 
 <img src="images/2097562587437342750-1.jpg" alt="이미지 1" width="480" />
 
@@ -47,7 +52,152 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 **프롬프트**
 
 ```text
-번역 중
+구름 도플갱어(CLOUD DOPPELGÄNGER) — 실제 사진 마스터 프롬프트
+
+첨부된 원본 사진을 고정 참조 이미지로 사용하십시오.
+
+참조 고정 — 매우 중요
+
+원본 사진은 알아볼 수 있어야 하며 시각적으로 일관성을 유지해야 합니다.
+
+유지할 사항:
+- 원본의 푸른 하늘
+- 실제 구름 분포
+- 원본 카메라 앵글
+- 대각선으로 지나가는 공중 전선
+- 창문의 반사광
+- 기존의 자연광
+- 완벽하지 않은 실제 세상의 사진 품질
+- 원본의 원근감 및 구도
+
+하늘 전체를 교체하지 마십시오.
+장면을 재설계하지 마십시오.
+완전히 새로운 배경을 만들지 마십시오.
+
+--------------------------------------------------
+1단계 — 원본 구름 분석
+--------------------------------------------------
+
+먼저 첨부된 사진 속 주요 구름을 신중하게 분석하십시오.
+
+다음을 조사합니다:
+
+- 외곽 실루엣
+- 둥근 덩어리
+- 돌출된 영역
+- 좁은 구간
+- 빈 공간
+- 자연스러운 하이라이트와 그림자
+- 구름 밀도
+- 방향
+- 전반적인 시각적 인상
+
+그런 다음 기존 구름이 자연스럽게 가장 닮아 있는 실제 동물이나 친숙한 생물이 무엇인지 결정하십시오.
+
+그 유사성은 반드시 '기존 구름 모양'에서 비롯되어야 합니다.
+
+구름과 전혀 관련 없는 동물을 억지로 끼워 넣지 마십시오.
+
+--------------------------------------------------
+2단계 — 자연스러운 도플갱어 해석
+--------------------------------------------------
+
+구름에 대한 관찰자의 인식만을 변화시키십시오.
+
+구름 자체는 여전히 '진짜 구름'처럼 보여야 합니다.
+
+기존 구름 덩어리를 다음 부위의 자연스러운 구조로 활용하십시오:
+
+머리,
+몸통,
+귀,
+주둥이,
+다리,
+꼬리,
+또는 기타 알아볼 수 있는 특징들.
+
+원본 구름 실루엣에서 이미 자연스럽게 가능해 보이는 특징만을 강조하십시오.
+
+관찰자의 반응은 다음과 같아야 합니다:
+
+"잠깐... 저 구름 동물처럼 생겼네."
+
+다음과 같아서는 안 됩니다:
+
+"누가 하늘에 동물 이미지를 붙여 넣었네."
+
+--------------------------------------------------
+진짜 구름이 최우선
+--------------------------------------------------
+
+목표 시각적 균형:
+
+90–95% 진짜 구름
+5–10% 상상에 의한 닮음
+
+구름은 전적으로 다음 요소로만 이루어져야 합니다:
+
+사실적인 수증기,
+부드러운 구름 입자,
+자연스러운 대기 확산,
+불규칙한 구름 가장자리,
+실제 햇빛,
+미묘한 입체적 깊이감.
+
+다음을 생성하지 마십시오:
+
+하늘에 떠 있는 털 달린 동물,
+구름에 붙여 넣은 사실적인 동물 얼굴,
+만화 같은 눈,
+사람 같은 눈,
+완벽하게 대칭적인 얼굴 특징,
+CGI 털,
+플라스틱 질감,
+3D 마스코트 외형.
+
+--------------------------------------------------
+얼굴 / 캐릭터 세부 사항
+--------------------------------------------------
+
+얼굴의 세부 묘사가 필요한 경우,
+그것은 극도로 미묘해야 합니다.
+
+눈은 주로 자연스러운 구름 그림자와 아주 미세한 톤 차이로만 암시되어야 합니다.
+
+코나 입은 아주 희미한 구름 밀도의 변화로만 나타날 수 있습니다.
+
+뚜렷한 검은 단추 눈 금지.
+과장된 미소 금지.
+만화 같은 혀 금지.
+인위적인 얼굴 윤곽선 금지.
+
+동물의 닮은 모습은 파레이돌리아(변상증)를 통해 자연스럽게 떠올라야 합니다.
+
+--------------------------------------------------
+실제 사진 품질
+--------------------------------------------------
+
+최종 결과물은 창문을 통해 무심코 촬영된 실제 사진처럼 보여야 합니다.
+
+자연스러운 iPhone 사진 스타일.
+
+광고나 스튜디오 사진이 아닌,
+중간 화질의 스마트폰 카메라 특유의 사실감.
+
+유지할 사항:
+
+약간의 창문 눈부심,
+작은 반사광,
+사소한 노출 결함,
+자연스러운 대기 연무,
+약간 고르지 않은 선명도,
+현실적인 다이내믹 레인지,
+미세한 센서 노이즈,
+자연스러운 색상 변화.
+
+과도한 HDR을 피하십시오.
+과도한 샤프닝을 피하십시오.
+인위적인 채도를 피하십시오.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
