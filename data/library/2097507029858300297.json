@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:47:11.872Z",
+  "model": "grok",
+  "prompt": "Whimsical 3D CGI fantasy illustration of an adorable baby fox cub and gentle baby fawn standing together on a cracked stone path in a misty rocky landscape. The fluffy fox cub has vibrant orange fur with white accents, bushy tail, huge sparkling emerald eyes, golden spiky head tufts, and ornate embroidered golden vest. It looks up at the fawn, which has soft light brown fur with white spots, large expressive eyes, and a sweet expression. Misty fog, dark rocky cliffs, gnarled trees, and lush purple lavender flowers surround them. Soft volumetric lighting, detailed fur textures, rich earthy tones with vivid purples, cinematic depth, enchanting heartwarming atmosphere.",
+  "promptTranslations": {
+    "en": "Whimsical 3D CGI fantasy illustration of an adorable baby fox cub and gentle baby fawn standing together on a cracked stone path in a misty rocky landscape. The fluffy fox cub has vibrant orange fur with white accents, bushy tail, huge sparkling emerald eyes, golden spiky head tufts, and ornate embroidered golden vest. It looks up at the fawn, which has soft light brown fur with white spots, large expressive eyes, and a sweet expression. Misty fog, dark rocky cliffs, gnarled trees, and lush purple lavender flowers surround them. Soft volumetric lighting, detailed fur textures, rich earthy tones with vivid purples, cinematic depth, enchanting heartwarming atmosphere."
+  },
+  "summaryTranslations": {
+    "en": "Whimsical 3D CGI fantasy illustration of a baby fox cub in a golden vest and a baby fawn on a misty stone path."
+  },
+  "translationVersion": 2,
+  "summary": "Whimsical 3D CGI fantasy illustration of a baby fox cub in a golden vest and a baby fawn on a misty stone path.",
+  "summaryEn": "Whimsical 3D CGI fantasy illustration of a baby fox cub in a golden vest and a baby fawn on a misty stone path.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097507029858300297",
+    "canonicalUrl": "https://x.com/RockGrokAI/status/2097507029858300297",
+    "author": {
+      "username": "RockGrokAI",
+      "displayName": "AI Aimee",
+      "profileUrl": "https://x.com/RockGrokAI"
+    },
+    "publishedAt": "2026-09-09T02:07:00.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "#Promptshare Whimsical 3D CGI fantasy illustration of an adorable baby fox cub and gentle baby fawn standing together on a cracked stone path in a misty rocky landscape. The fluffy fox cub has vibrant orange fur with white accents, bushy tail, huge sparkling emerald eyes, golden spiky head tufts, and ornate embroidered golden vest. It looks up at the fawn, which has soft light brown fur with white spots, large expressive eyes, and a sweet expression. Misty fog, dark rocky cliffs, gnarled trees, and lush purple lavender flowers surround them. Soft volumetric lighting, detailed fur textures, rich earthy tones with vivid purples, cinematic depth, enchanting heartwarming atmosphere.  \n\nThe prompt is for the image. Grok Imagine did the video with no prompt.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RockGrokAI/status/2097507029858300297",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2063246459495923712/img/FzJns5aOrWyOjNH3.jpg",
+        "analysisUrl": "https://x.com/RockGrokAI/status/2097507029858300297"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 132
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RockGrokAI/status/2097507029858300297",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2063246459495923712/img/FzJns5aOrWyOjNH3.jpg",
+  "coverPath": "covers/2097507029858300297.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2063246459495923712",
+    "x-post:2097507029858300297"
+  ],
+  "analysis": {
+    "summary": "Whimsical 3D CGI fantasy illustration of a baby fox cub in a golden vest and a baby fawn on a misty stone path.",
+    "summaryEn": "Whimsical 3D CGI fantasy illustration of a baby fox cub in a golden vest and a baby fawn on a misty stone path.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频起始帧与画面完全符合提示词中穿马甲的幼狐、斑点小鹿、石板小径及两旁紫色薰衣草花丛的描述。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Whimsical 3D CGI fantasy illustration of an adorable baby fox cub and gentle baby fawn standing together on a cracked stone path in a misty rocky landscape. The fluffy fox cub has vibrant orange fur with white accents, bushy tail, huge sparkling emerald eyes, golden spiky head tufts, and ornate embroidered golden vest. It looks up at the fawn, which has soft light brown fur with white spots, large expressive eyes, and a sweet expression. Misty fog, dark rocky cliffs, gnarled trees, and lush purple lavender flowers surround them. Soft volumetric lighting, detailed fur textures, rich earthy tones with vivid purples, cinematic depth, enchanting heartwarming atmosphere.",
+    "sourceRange": {
+      "start": 13,
+      "end": 687
+    },
+    "translations": {
+      "zh": "可爱的幼狐与温柔的小鹿在薄雾石径上同行的异想天开 3D CGI 奇幻插画。蓬松的幼狐有着鲜艳的橙色毛发与白色点缀、浓密尾巴、闪烁的翠绿大眼、金色发簇与绣金马甲。它抬头看着浅棕色带白斑的小鹿。四周环绕着薄雾、暗色岩壁、扭曲树木与紫色薰衣草。柔和体积光，逼真毛发质感，温馨氛围。",
+      "en": "Whimsical 3D CGI fantasy illustration of an adorable baby fox cub and gentle baby fawn standing together on a cracked stone path in a misty rocky landscape. The fluffy fox cub has vibrant orange fur with white accents, bushy tail, huge sparkling emerald eyes, golden spiky head tufts, and ornate embroidered golden vest. It looks up at the fawn, which has soft light brown fur with white spots, large expressive eyes, and a sweet expression. Misty fog, dark rocky cliffs, gnarled trees, and lush purple lavender flowers surround them. Soft volumetric lighting, detailed fur textures, rich earthy tones with vivid purples, cinematic depth, enchanting heartwarming atmosphere."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI 奇幻童话角色与场景艺术创作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
