@@ -130,20 +130,32 @@ Yazar：[@Urwa\_345](https://x.com/Urwa_345) · [Orijinal gönderi](https://x.co
 
 <a name="prompt-2096829877987291200"></a>
 
-### Çeviri sürüyor
+### Çiğ hazır eriştelerin malzemelerle havada süzülüşünü, kaynar suya düşüşünü ve kasedeki son sunumunu gösteren sinematik 3D reklam sekansı.
 
 Yazar：[@1H77k](https://x.com/1H77k) · [Orijinal gönderi](https://x.com/1H77k/status/2096829877987291200)
 
 Sinematik / Film Karesi · 3D Modelleme · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çiğ hazır eriştelerin malzemelerle havada süzülüşünü, kaynar suya düşüşünü ve kasedeki son sunumunu gösteren sinematik 3D reklam sekansı.
 
 <img src="covers/2096829877987291200.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Hazır eriştelerin dinamik 3D sinematik reklam çekimi. Havada süzülen çiğ ramen erişte bloğunun dilimlenmiş çeri domatesler, tatlı mısır, fesleğen yaprakları, siyah zeytinler ve pul biber gibi uçuşan taze malzemelerle çevrelendiği aşırı ağır çekim makro çekim. Rustik bir mutfak arka planından süzülen parlak, doğal, hacimsel güneş ışığı. Erişteler yükselen buharlarla kaynayan sıcak su dolu bir tencereye düşerken ve tüten, lezzetli bir kase erişteye dönüşürken gerçekleşen pürüzsüz geçiş. Kamera, arka planda sarı bir hazır erişte paketi bulunan sıcak bir mutfak ortamını ortaya çıkarmak için uzaklaşır. Ultra gerçekçi yemek fotoğrafçılığı, 8k çözünürlük, sinematik aydınlatma, iştah açıcı renkler, 1080x1920 dikey format.
+
+​Floating Ingredients & Noodles:
+
+​Sinematik yemek fotoğrafçılığı, havada süzülen çiğ hazır erişte kalıbının dilimlenmiş domatesler, siyah zeytinler, fesleğen yaprakları, mısır ve ağır çekimde uçuşan baharatlar eşliğinde makro çekimi, sıcak güneş ışığı, mutfak arka planı, alan derinliği, 8k --ar 9:16
+
+​Boiling Water Transition:
+
+​Çelik bir tenceredeki kaynar sıcak suya dalan hazır erişte bloğunun yakın çekimi, yükselen yoğun buhar bulutları, altta dramatik alev parlaması, yüksek enerji, keskin odak, hiper-gerçekçi --ar 9:16
+
+​Final Bowl Presentation:
+
+​Taze otlar, çeri domatesler ve zeytinlerle servis edilen dumanı üstünde sıcak pişmiş hazır erişte kasesi, uzun erişte tellerini kaldıran bir çatal, bulanık arka planda sarı Maggi tarzı hazır erişte paketi, sıcak ve samimi aydınlatma, profesyonel gıda reklamı tarzı --ar 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -130,20 +130,32 @@ Comic / Storyboard · Kinematisch / Filmstill · Produkt · Veröffentlicht
 
 <a name="prompt-2096829877987291200"></a>
 
-### Übersetzung läuft
+### Filmische 3D-Werbesequenz, die rohe Instantnudeln zeigt, die mit Zutaten schweben, in kochendes Wasser fallen, sowie die finale servierte Präsentation.
 
 Autor：[@1H77k](https://x.com/1H77k) · [Originalbeitrag](https://x.com/1H77k/status/2096829877987291200)
 
 Kinematisch / Filmstill · 3D-Rendering · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische 3D-Werbesequenz, die rohe Instantnudeln zeigt, die mit Zutaten schweben, in kochendes Wasser fallen, sowie die finale servierte Präsentation.
 
 <img src="covers/2096829877987291200.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Dynamische, filmische 3D-Werbeaufnahme von Instantnudeln. Extreme Makro-Zeitlupenaufnahme eines ungekochten Ramen-Nudelblocks, der in der Luft schwebt, umgeben von frischen, fliegenden Zutaten wie geschnittenen Kirschtomaten, Zuckermais, Basilikumblättern, schwarzen Oliven und Chiliflocken. Helles, natürliches, volumetrisches Sonnenlicht strömt durch den Hintergrund einer rustikalen Küche. Sanfter Übergang, während die Nudeln in einen Topf mit kochend heißem Wasser und aufsteigendem Dampf fallen und sich in eine dampfende, köstliche Schüssel Nudeln verwandeln. Die Kamera zoomt heraus und enthüllt eine warme Küchenkulisse mit einer gelben Instantnudel-Packung im Hintergrund. Ultrarealistische Food-Fotografie, 8k-Auflösung, filmische Beleuchtung, appetitanregende Farben, vertikales Format 1080x1920.
+
+​Floating Ingredients & Noodles:
+
+​Filmische Food-Fotografie, Makroaufnahme eines rohen Instantnudelblocks, der in der Luft schwebt, mit geschnittenen Tomaten, schwarzen Oliven, Basilikumblättern, Mais und Gewürzen, die in Zeitlupe fliegen, warmes Sonnenlicht, Küchenhintergrund, Tiefenschärfe, 8k --ar 9:16
+
+​Boiling Water Transition:
+
+​Nahaufnahme eines Instantnudelblocks, der in kochend heißes Wasser in einem Stahltopf eintaucht, dichte aufsteigende Dampfwolken, dramatischer Flammenspritzer am Boden, hochenergetisch, gestochen scharfer Fokus, hyperrealistisch --ar 9:16
+
+​Final Bowl Presentation:
+
+​Eine dampfend heiße Schüssel gekochter Instantnudeln, serviert mit frischen Kräutern, Kirschtomaten und Oliven, eine Gabel hebt lange Nudelfäden an, gelbe Instantnudel-Packung im Maggi-Stil im unscharfen Hintergrund, warme, gemütliche Beleuchtung, professioneller Stil für Lebensmittelwerbung --ar 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

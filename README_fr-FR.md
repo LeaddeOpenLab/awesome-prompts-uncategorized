@@ -130,20 +130,32 @@ Traduction en cours
 
 <a name="prompt-2096829877987291200"></a>
 
-### Traduction en cours
+### Séquence publicitaire cinématographique en 3D montrant des nouilles instantanées crues flottant avec des ingrédients, plongeant dans l'eau bouillante, et la présentation finale servie dans un bol.
 
 Auteur：[@1H77k](https://x.com/1H77k) · [Publication originale](https://x.com/1H77k/status/2096829877987291200)
 
 Image cinématographique / Photogramme de film · Rendu 3D · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence publicitaire cinématographique en 3D montrant des nouilles instantanées crues flottant avec des ingrédients, plongeant dans l'eau bouillante, et la présentation finale servie dans un bol.
 
 <img src="covers/2096829877987291200.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Plan publicitaire cinématographique dynamique en 3D de nouilles instantanées. Plan macro au ralenti extrême d'un bloc de nouilles ramen crues flottant dans les airs, entouré d'ingrédients frais en plein vol tels que des tomates cerises tranchées, du maïs doux, des feuilles de basilic, des olives noires et des flocons de piment. Lumière naturelle volumétrique et éclatante du soleil traversant l'arrière-plan d'une cuisine rustique. Transition fluide alors que les nouilles tombent dans une casserole d'eau bouillante avec de la vapeur montante, se transformant en un délicieux bol de nouilles fumant. La caméra effectue un zoom arrière pour révéler un décor de cuisine chaleureux avec un paquet jaune de nouilles instantanées en arrière-plan. Photographie culinaire ultra-réaliste, résolution 8k, éclairage cinématographique, couleurs appétissantes, format vertical 1080x1920.
+
+​Floating Ingredients & Noodles:
+
+​Photographie culinaire cinématographique, plan macro d'un bloc de nouilles instantanées crues flottant dans les airs avec des tomates tranchées, des olives noires, des feuilles de basilic, du maïs et des épices volant au ralenti, lumière chaude du soleil, arrière-plan de cuisine, profondeur de champ, 8k --ar 9:16
+
+​Boiling Water Transition:
+
+​Gros plan d'un bloc de nouilles instantanées plongeant dans de l'eau bouillante dans une casserole en acier, d'épais nuages de vapeur montante, éclaboussure spectaculaire de flammes au fond, haute énergie, mise au point nette, hyperréaliste --ar 9:16
+
+​Final Bowl Presentation:
+
+​Un bol fumant de nouilles instantanées cuites, servi avec des herbes fraîches, des tomates cerises et des olives, une fourchette soulevant de longs brins de nouilles, paquet jaune de nouilles instantanées façon Maggi en arrière-plan flou, éclairage chaleureux et douillet, style publicitaire culinaire professionnel --ar 9:16
 ```
 
 [↑ Retour aux catégories](#catalog)

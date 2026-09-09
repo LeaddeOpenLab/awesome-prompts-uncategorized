@@ -130,20 +130,32 @@ Tradução em curso
 
 <a name="prompt-2096829877987291200"></a>
 
-### Tradução em curso
+### Sequência comercial cinematográfica em 3D mostrando massa instantânea crua a flutuar com ingredientes, a cair em água a ferver e a apresentação final empratada.
 
 Autor：[@1H77k](https://x.com/1H77k) · [Publicação original](https://x.com/1H77k/status/2096829877987291200)
 
 Cena de Cinema / Fotograma · Renderização 3D · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Sequência comercial cinematográfica em 3D mostrando massa instantânea crua a flutuar com ingredientes, a cair em água a ferver e a apresentação final empratada.
 
 <img src="covers/2096829877987291200.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Plano comercial cinematográfico dinâmico em 3D de massa instantânea. Macro em câmara lenta extrema de um bloco de massa ramen crua a flutuar no ar, rodeado por ingredientes frescos a voar, como tomates-cereja fatiados, milho-doce, folhas de manjericão, azeitonas pretas e flocos de piripiri. Luz solar volumétrica natural e brilhante a atravessar o fundo de uma cozinha rústica. Transição suave enquanto a massa cai numa panela de água a ferver com vapor a subir, transformando-se numa deliciosa taça de massa a fumegar. A câmara afasta-se para revelar uma cozinha acolhedora com um pacote amarelo de massa instantânea ao fundo. Fotografia gastronómica ultrarrealista, resolução 8k, iluminação cinematográfica, cores apetitosas, formato vertical de 1080x1920.
+
+​Floating Ingredients & Noodles:
+
+​Fotografia gastronómica cinematográfica, macro de um bloco cru de massa instantânea a flutuar no ar com tomates fatiados, azeitonas pretas, folhas de manjericão, milho e especiarias a voar em câmara lenta, luz solar quente, fundo de cozinha, profundidade de campo, 8k --ar 9:16
+
+​Boiling Water Transition:
+
+​Grande plano de um bloco de massa instantânea a mergulhar em água a ferver numa panela de aço, nuvens densas de vapor a subir, salpico dramático de chamas na parte inferior, alta energia, foco nítido, hiper-realista --ar 9:16
+
+​Final Bowl Presentation:
+
+​Uma taça a fumegar de massa instantânea cozinhada servida com ervas frescas, tomates-cereja e azeitonas, um garfo a erguer fios longos de massa, pacote amarelo de massa instantânea estilo Maggi no fundo desfocado, iluminação quente e acolhedora, estilo publicitário alimentar profissional --ar 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)

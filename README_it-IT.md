@@ -130,20 +130,32 @@ Traduzione in corso
 
 <a name="prompt-2096829877987291200"></a>
 
-### Traduzione in corso
+### Sequenza commerciale cinematografica in 3D che mostra noodles istantanei crudi fluttuanti con ingredienti, che cadono nell'acqua bollente, e la presentazione finale impiattata.
 
 Autore：[@1H77k](https://x.com/1H77k) · [Post originale](https://x.com/1H77k/status/2096829877987291200)
 
 Fermo immagine cinematografico / Still fotografico · Rendering 3D · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza commerciale cinematografica in 3D che mostra noodles istantanei crudi fluttuanti con ingredienti, che cadono nell'acqua bollente, e la presentazione finale impiattata.
 
 <img src="covers/2096829877987291200.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Inquadratura commerciale cinematografica dinamica in 3D di noodles istantanei. Macro inquadratura in slow-motion estremo di un blocco di noodle ramen crudo che fluttua a mezz'aria, circondato da ingredienti freschi volanti come pomodorini a fette, mais dolce, foglie di basilico, olive nere e fiocchi di peperoncino. Luce solare volumetrica naturale e brillante che filtra attraverso lo sfondo di una cucina rustica. Transizione fluida mentre i noodles cadono in una pentola di acqua bollente con vapore che sale, trasformandosi in una deliziosa ciotola di noodles fumanti. La telecamera si allontana per rivelare una calda ambientazione da cucina con una confezione gialla di noodles istantanei sullo sfondo. Fotografia gastronomica ultra-realistica, risoluzione 8k, illuminazione cinematografica, colori appetitosi, formato verticale 1080x1920.
+
+​Floating Ingredients & Noodles:
+
+​Fotografia gastronomica cinematografica, macro inquadratura di un panetto di noodles istantanei crudo che fluttua a mezz'aria con pomodori a fette, olive nere, foglie di basilico, mais e spezie che volano al rallentatore, calda luce solare, sfondo di cucina, profondità di campo, 8k --ar 9:16
+
+​Boiling Water Transition:
+
+​Primo piano di un blocco di noodles istantanei che si immerge nell'acqua bollente in una pentola d'acciaio, dense nuvole di vapore che si alzano, drammatico bagliore di fiamme sul fondo, alta energia, messa a fuoco nitida, iper-realistico --ar 9:16
+
+​Final Bowl Presentation:
+
+​Una ciotola fumante di noodles istantanei cotti serviti con erbe fresche, pomodorini e olive, una forchetta che solleva lunghi fili di noodles, confezione gialla di noodles istantanei in stile Maggi sullo sfondo sfocato, illuminazione calda e accogliente, stile pubblicitario alimentare professionale --ar 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)

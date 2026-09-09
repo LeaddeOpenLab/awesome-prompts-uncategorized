@@ -130,20 +130,32 @@ Tradução em andamento
 
 <a name="prompt-2096829877987291200"></a>
 
-### Tradução em andamento
+### Sequência comercial cinematográfica em 3D mostrando macarrão instantâneo cru flutuando com ingredientes, caindo em água fervente e apresentação final empratada.
 
 Autor：[@1H77k](https://x.com/1H77k) · [Publicação original](https://x.com/1H77k/status/2096829877987291200)
 
 Cinematográfico / Imagem de Filme · Renderização 3D · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Sequência comercial cinematográfica em 3D mostrando macarrão instantâneo cru flutuando com ingredientes, caindo em água fervente e apresentação final empratada.
 
 <img src="covers/2096829877987291200.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Tomada comercial cinematográfica dinâmica em 3D de macarrão instantâneo. Macro em câmera lenta extrema de um bloco de macarrão ramen cru flutuando no ar, cercado por ingredientes frescos voando, como tomates-cereja fatiados, milho-verde, folhas de manjericão, azeitonas pretas e flocos de pimenta. Luz solar volumétrica natural e brilhante atravessando o fundo de uma cozinha rústica. Transição suave enquanto o macarrão cai em uma panela com água fervente e vapor subindo, transformando-se em uma deliciosa tigela de macarrão fumegante. A câmera se afasta para revelar uma cozinha aconchegante com um pacote amarelo de macarrão instantâneo ao fundo. Fotografia culinária ultrarrealista, resolução 8k, iluminação cinematográfica, cores apetitosas, formato vertical de 1080x1920.
+
+​Floating Ingredients & Noodles:
+
+​Fotografia culinária cinematográfica, macro de um bloco cru de macarrão instantâneo flutuando no ar com tomates fatiados, azeitonas pretas, folhas de manjericão, milho e temperos voando em câmera lenta, luz solar quente, fundo de cozinha, profundidade de campo, 8k --ar 9:16
+
+​Boiling Water Transition:
+
+​Close-up de um bloco de macarrão instantâneo mergulhando em água fervente em uma panela de aço, nuvens densas de vapor subindo, respingo dramático de chamas na parte inferior, alta energia, foco nítido, hiper-realista --ar 9:16
+
+​Final Bowl Presentation:
+
+​Uma tigela fumegante de macarrão instantâneo cozido servido com ervas frescas, tomates-cereja e azeitonas, um garfo levantando fios longos de macarrão, pacote amarelo de macarrão instantâneo estilo Maggi no fundo desfocado, iluminação quente e acolhedora, estilo de publicidade culinária profissional --ar 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)
