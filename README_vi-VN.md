@@ -30,13 +30,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097519361909199023"></a>
 
-### Đang dịch
+### Ảnh chụp cận cảnh vừa siêu thực về một người phụ nữ nổi ngửa trên làn nước trong vắt lúc hoàng hôn.
 
 Tác giả：[@punkhuri1](https://x.com/punkhuri1) · [Bài gốc](https://x.com/punkhuri1/status/2097519361909199023)
 
 Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chụp cận cảnh vừa siêu thực về một người phụ nữ nổi ngửa trên làn nước trong vắt lúc hoàng hôn.
 
 <img src="images/2097519361909199023-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -47,7 +47,19 @@ Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bả
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh nghệ thuật chụp cận cảnh vừa (medium close-up), chân thực như ảnh chụp của một người phụ nữ trưởng thành đang thả mình nổi ngửa bình yên trên làn nước trong vắt, tĩnh lặng lúc hoàng hôn.
+
+Cô mặc áo bikini màu xanh lam nhạt và quần bơi màu trắng. Mắt cô khẽ nhắm, khuôn mặt ngửa lên bầu trời chiều, toát lên sự thư thái tuyệt đối. Mái tóc nâu ướt nước xõa tự nhiên trong làn nước quanh đầu cô. Một cánh tay duỗi tự nhiên ra ngoài trên mặt nước, trong khi đôi chân cô ẩn hiện nhẹ nhàng dưới làn nước trong suốt.
+
+Nước trong vắt một cách đặc biệt, với những vệt phản chiếu xoáy tuyệt đẹp của sắc xanh lam đậm, ngọc lam, xanh mòng két và ánh vàng ấm áp do mặt trời lặn tạo ra. Những gợn sóng lăn tăn nhẹ nhàng và sự khúc xạ tinh tế bao quanh cơ thể cô, tạo nên diện mạo làn nước tự nhiên đích thực.
+
+Phần trên của bố cục là bầu trời hoàng hôn rực rỡ với các tông màu cam ấm, hổ phách và vàng nhạt, chuyển tiếp tự nhiên sang làn nước mát màu xanh lam và ngọc lam bên dưới. Ánh sáng giờ vàng tạo nên ánh hào quang ấm áp khắp khung cảnh cùng những điểm sáng chân thực trên bề mặt nước.
+
+Kết cấu da tự nhiên, tóc ướt chân thực, phản chiếu và khúc xạ nước chính xác về mặt vật lý, gợn sóng tinh tế, ánh sáng và bóng đổ sống động, độ sâu nhiếp ảnh chân thực, chi tiết da và vải chân thực.
+
+Bố cục: cận cảnh vừa (medium close-up) với khuôn mặt và phần thân trên của người phụ nữ là tâm điểm chính, trong khi phần còn lại của cơ thể vẫn đủ nhìn thấy để thể hiện tư thế nổi. Duy trì mối quan hệ cân bằng giữa bầu trời hoàng hôn ấm áp và hình ảnh phản chiếu đầy màu sắc trên mặt nước. Góc nhìn tự nhiên, góc máy điện ảnh, độ sâu trường ảnh từ nông đến vừa phải, không có vẻ nhân tạo như trong studio.
+
+Phong cách: nhiếp ảnh nghệ thuật chuyên nghiệp độ chi tiết cao, vẻ ngoài live-action siêu thực, kết xuất màu sắc tự nhiên, chủ nghĩa hiện thực điện ảnh, không khí giờ vàng đích thực, bề mặt nước chân thực, ánh sáng chính xác về mặt vật lý, chi tiết nhiếp ảnh tinh xảo, hạt phim tinh tế, chất lượng kiệt tác.
 ```
 
 [↑ Về danh mục](#catalog)

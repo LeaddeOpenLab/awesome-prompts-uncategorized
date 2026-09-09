@@ -30,13 +30,13 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2097519361909199023"></a>
 
-### Traducción en curso
+### Primer plano medio fotorrealista de una mujer flotando de espaldas en aguas cristalinas durante el atardecer.
 
 Autor：[@punkhuri1](https://x.com/punkhuri1) · [Publicación original](https://x.com/punkhuri1/status/2097519361909199023)
 
 Fotografía · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Primer plano medio fotorrealista de una mujer flotando de espaldas en aguas cristalinas durante el atardecer.
 
 <img src="images/2097519361909199023-1.jpg" alt="Imagen 1" width="480" />
 
@@ -47,7 +47,19 @@ Fotografía · Personaje · Paisaje / Naturaleza · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Fotografía artística fotorrealista en plano medio corto de una mujer adulta flotando plácidamente boca arriba en aguas tranquilas y cristalinas al atardecer.
+
+Viste una parte superior de bikini azul claro y una parte inferior blanca. Sus ojos están suavemente cerrados, su rostro inclinado hacia arriba mirando al cielo vespertino, transmitiendo una relajación absoluta. Su cabello castaño y mojado se esparce de forma natural por el agua alrededor de su cabeza. Un brazo se extiende de manera natural hacia afuera sobre la superficie, mientras que sus piernas son suavemente visibles bajo el agua transparente.
+
+El agua es excepcionalmente transparente, con hermosos reflejos arremolinados de azul profundo, turquesa, verde azulado y oro cálido creados por el sol poniente. Suaves ondas y una sutil refracción rodean su cuerpo, creando una auténtica apariencia de agua natural.
+
+La parte superior de la composición contiene un cielo luminoso de atardecer en tonos cálidos de naranja, ámbar y amarillo suave, que hace una transición natural hacia el agua más fría en tonos azules y turquesas de abajo. La luz del sol de la hora dorada genera un resplandor cálido a lo largo de toda la escena y reflejos realistas sobre la superficie del agua.
+
+Textura natural de la piel, cabello mojado realista, reflejos y refracción del agua físicamente precisos, ondas sutiles, iluminación y sombras realistas, profundidad fotográfica auténtica, detalles fieles de la piel y de la tela.
+
+Composición: plano medio corto con el rostro y la parte superior del cuerpo de la mujer como punto focal principal, manteniendo visible suficiente parte de su cuerpo para establecer la postura de flotación. Mantener una relación equilibrada entre el cálido cielo del atardecer y los coloridos reflejos del agua. Perspectiva natural, encuadre cinematográfico, profundidad de campo fotográfica de superficial a moderada, sin aspecto artificial de estudio.
+
+Estilo: fotografía artística profesional de alto nivel de detalle, aspecto fotorrealista de acción real, reproducción natural del color, realismo cinematográfico, auténtica atmósfera de hora dorada, superficie del agua realista, iluminación físicamente precisa, fino detalle fotográfico, sutil grano de película, calidad de obra maestra.
 ```
 
 [↑ Volver a categorías](#catalog)
