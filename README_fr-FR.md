@@ -108,20 +108,30 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2096832231071519193"></a>
 
-### Traduction en cours
+### Storyboard de spot publicitaire cinématographique de 10 secondes en 9:16 pour la LEGO Botanical Collection avec travelling avant, détails macro, assemblage manuel et présentation finale en rotation.
 
 Auteur：[@Urwa\_345](https://x.com/Urwa_345) · [Publication originale](https://x.com/Urwa_345/status/2096832231071519193)
 
 Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Storyboard de spot publicitaire cinématographique de 10 secondes en 9:16 pour la LEGO Botanical Collection avec travelling avant, détails macro, assemblage manuel et présentation finale en rotation.
 
 <img src="covers/2096832231071519193.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une publicité cinématographique de 10 secondes pour un produit haut de gamme pour la collection LEGO Botanical au format vertical 9:16.
+
+0–2 sec : Lent travelling avant de la caméra vers l'ensemble botanique LEGO magnifiquement disposé sur une table en bois, éclairage cinématographique doux.
+
+2–4 sec : Transition macro fluide vers les détails des pièces florales LEGO, en mettant l'accent sur la texture et le savoir-faire artisanal.
+
+4–7 sec : Montrez des mains assemblant naturellement la composition florale, mouvements rapides et satisfaisants, faible profondeur de champ, atmosphère lifestyle élégante.
+
+7–10 sec : Révélez la composition botanique terminée dans une pièce moderne. La caméra tourne lentement autour du produit fini tandis qu'une lumière chaude crée une atmosphère chaleureuse et haut de gamme.
+
+Transitions fluides, mouvement réaliste, qualité de publicité commerciale, profondeur de champ cinématographique, mouvement de caméra subtil, extrêmement détaillé, style de photographie de produit haut de gamme, sans superposition de texte, sans filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -108,20 +108,30 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2096832231071519193"></a>
 
-### Çeviri sürüyor
+### Kamera yaklaşması, makro ayrıntılar, elle montaj ve dönen bir son sergileme içeren LEGO Botanical Collection için 10 saniyelik 9:16 sinematik reklam storyboard'u.
 
 Yazar：[@Urwa\_345](https://x.com/Urwa_345) · [Orijinal gönderi](https://x.com/Urwa_345/status/2096832231071519193)
 
 Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kamera yaklaşması, makro ayrıntılar, elle montaj ve dönen bir son sergileme içeren LEGO Botanical Collection için 10 saniyelik 9:16 sinematik reklam storyboard'u.
 
 <img src="covers/2096832231071519193.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+LEGO Botanical Collection için dikey 9:16 formatında 10 saniyelik sinematik bir premium ürün reklamı oluşturun.
+
+0–2 sn: Ahşap bir masa üzerinde güzelce düzenlenmiş LEGO botanik setine doğru yavaş kamera yaklaşması (push-in), yumuşak sinematik aydınlatma.
+
+2–4 sn: Doku ve işçiliğe odaklanan, ayrıntılı LEGO çiçek parçalarına yumuşak makro geçiş.
+
+4–7 sn: Çiçek aranjmanını doğal bir şekilde birleştiren eller, hızlı ve tatmin edici hareketler, sığ alan derinliği, zarif yaşam tarzı atmosferi gösterin.
+
+7–10 sn: Modern bir odada tamamlanmış botanik aranjmanı gözler önüne serin. Sıcak ışık birinci sınıf, samimi bir atmosfer yaratırken kamera bitmiş ürünün etrafında yavaşça döner.
+
+Pürüzsüz geçişler, gerçekçi hareket, ticari reklam kalitesi, sinematik alan derinliği, zarif kamera hareketi, son derece detaylı, birinci sınıf ürün fotoğrafçılığı tarzı, metin katmanı yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -108,20 +108,30 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2096832231071519193"></a>
 
-### Traduzione in corso
+### Storyboard per spot cinematografico di 10 secondi in 9:16 per la LEGO Botanical Collection con avvicinamento, dettagli macro, assemblaggio a mano e presentazione finale rotante.
 
 Autore：[@Urwa\_345](https://x.com/Urwa_345) · [Post originale](https://x.com/Urwa_345/status/2096832231071519193)
 
 Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Storyboard per spot cinematografico di 10 secondi in 9:16 per la LEGO Botanical Collection con avvicinamento, dettagli macro, assemblaggio a mano e presentazione finale rotante.
 
 <img src="covers/2096832231071519193.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea uno spot cinematografico di 10 secondi per un prodotto premium dedicato alla LEGO Botanical Collection in formato verticale 9:16.
+
+0–2 sec: Lento avvicinamento della telecamera (push-in) verso il set botanico LEGO magnificamente disposto su un tavolo di legno, illuminazione cinematografica morbida.
+
+2–4 sec: Transizione macro fluida verso i dettagliati pezzi floreali LEGO, concentrandosi sulla consistenza e sulla maestria artigianale.
+
+4–7 sec: Mostra mani che assemblano con naturalezza la composizione floreale, movimenti rapidi e appaganti, profondità di campo ridotta, elegante atmosfera lifestyle.
+
+7–10 sec: Mostra la composizione botanica completata in una stanza moderna. La telecamera ruota lentamente attorno al prodotto finito mentre una luce calda crea un'atmosfera accogliente e premium.
+
+Transizioni fluide, movimento realistico, qualità da spot pubblicitario, profondità di campo cinematografica, movimento di macchina sottile, altamente dettagliato, stile fotografico di prodotto premium, nessuna sovrapposizione di testo, nessun watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

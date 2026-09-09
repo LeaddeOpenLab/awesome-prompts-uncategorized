@@ -108,20 +108,30 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2096832231071519193"></a>
 
-### Übersetzung läuft
+### 10-sekündiges 9:16 filmisches Werbespot-Storyboard für die LEGO Botanical Collection mit Kamera-Push-in, Makrodetails, Handmontage und einer rotierenden finalen Präsentation.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Originalbeitrag](https://x.com/Urwa_345/status/2096832231071519193)
 
 Comic / Storyboard · Kinematisch / Filmstill · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 10-sekündiges 9:16 filmisches Werbespot-Storyboard für die LEGO Botanical Collection mit Kamera-Push-in, Makrodetails, Handmontage und einer rotierenden finalen Präsentation.
 
 <img src="covers/2096832231071519193.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine filmische 10-sekündige Premium-Produktwerbung für die LEGO Botanical Collection im vertikalen 9:16-Format.
+
+0–2 Sek.: Langsame Kamerafahrt (Push-in) auf das wunderschön arrangierte LEGO-Botanical-Set auf einem Holztisch, sanfte filmische Beleuchtung.
+
+2–4 Sek.: Nahtloser Makro-Übergang zu den detaillierten LEGO-Blumenelementen, mit Fokus auf Textur und Handwerkskunst.
+
+4–7 Sek.: Zeige Hände, die das Blumenarrangement natürlich zusammenbauen, schnelle befriedigende Bewegungen, geringe Schärfentiefe, elegante Lifestyle-Atmosphäre.
+
+7–10 Sek.: Enthülle das fertige botanische Arrangement in einem modernen Raum. Die Kamera dreht sich langsam um das fertige Produkt, während warmes Licht eine hochwertige, gemütliche Atmosphäre schafft.
+
+Nahtlose Übergänge, realistische Bewegungen, Qualität von Werbespots, filmische Schärfentiefe, subtile Kamerabewegungen, hochdetailliert, Stil von Premium-Produktfotografie, keine Texteinblendungen, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

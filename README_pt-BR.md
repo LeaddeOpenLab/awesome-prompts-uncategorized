@@ -108,20 +108,30 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2096832231071519193"></a>
 
-### Tradução em andamento
+### Storyboard de comercial cinematográfico de 10 segundos em 9:16 para a LEGO Botanical Collection com aproximação, detalhes em macro, montagem manual e apresentação final rotativa.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicação original](https://x.com/Urwa_345/status/2096832231071519193)
 
 Quadrinhos / Storyboard · Cinematográfico / Imagem de Filme · Produto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Storyboard de comercial cinematográfico de 10 segundos em 9:16 para a LEGO Botanical Collection com aproximação, detalhes em macro, montagem manual e apresentação final rotativa.
 
 <img src="covers/2096832231071519193.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um anúncio cinematográfico de 10 segundos de produto premium para a LEGO Botanical Collection no formato vertical 9:16.
+
+0–2 seg: Lento avanço de câmera (push-in) em direção ao conjunto botânico LEGO lindamente organizado sobre uma mesa de madeira, iluminação cinematográfica suave.
+
+2–4 seg: Transição macro suave para as peças detalhadas das flores LEGO, com foco na textura e no acabamento artesanal.
+
+4–7 seg: Mostre mãos montando o arranjo de flores de forma natural, movimentos rápidos e satisfatórios, profundidade de campo rasa, atmosfera elegante de estilo de vida.
+
+7–10 seg: Revele o arranjo botânico concluído em um cômodo moderno. A câmera gira lentamente ao redor do produto finalizado enquanto uma luz quente cria uma atmosfera acolhedora e premium.
+
+Transições suaves, movimento realista, qualidade de comercial publicitário, profundidade de campo cinematográfica, movimento sutil de câmera, altamente detalhado, estilo de fotografia de produto premium, sem sobreposições de texto, sem marca d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)
