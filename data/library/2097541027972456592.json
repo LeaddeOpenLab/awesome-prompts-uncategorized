@@ -4,10 +4,26 @@
   "model": "unknown-video",
   "prompt": "A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame.",
   "promptTranslations": {
-    "en": "A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame."
+    "en": "A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame.",
+    "zh": "专业的8格分镜信息图布局，标题为“AVOCADO TRANSFORMATION”，专为高能的15秒竖屏广告（9:16宽高比）设计。干净的深色背景、充满活力的绿色点缀、现代字体排版，以及高端商业美食摄影与每一帧干净的技术分镜素描的完美搭配。",
+    "zh-TW": "專業的8格分鏡資訊圖版面，標題為「AVOCADO TRANSFORMATION」，專為高節奏的15秒直式廣告（9:16寬高比）設計。乾淨的深色背景、充滿活力的綠色點綴、現代排版風格，以及高端商業美食攝影搭配每一格乾淨俐落的技術分鏡素描。",
+    "ja-JP": "エネルギッシュな15秒の縦型コマーシャル（アスペクト比9:16）向けに作成された、「AVOCADO TRANSFORMATION」というタイトルのプロフェッショナルな8コマ絵コンテ・インフォグラフィックレイアウト。すっきりとしたダークトーンの背景、鮮やかなグリーンのアクセント、現代的なタイポグラフィ、そして各フレームのクリーンなテクニカル絵コンテスケッチと組み合わされたハイエンドな商業フードフォトグラフィ。",
+    "ko-KR": "에너지 넘치는 15초 세로형 광고(9:16 화면비)를 위한 'AVOCADO TRANSFORMATION'이라는 제목의 전문적인 8패널 스토리보드 인포그래픽 레이아웃. 깔끔한 다크 배경, 생생한 그린 포인트, 현대적인 타이포그래피, 각 프레임마다 깔끔한 기술적 스토리보드 스케치와 어우러진 최고급 상업 음식 사진.",
+    "th-TH": "เลย์เอาต์อินโฟกราฟิกสตอรี่บอร์ด 8 ช่องแบบมืออาชีพในชื่อ 'AVOCADO TRANSFORMATION' สำหรับโฆษณาแนวตั้งความยาว 15 วินาทีที่เปี่ยมด้วยพลัง (อัตราส่วนภาพ 9:16) พื้นหลังสีเข้มสะอาดตา แต่งแต้มด้วยสีเขียวสดใส ตัวพิมพ์ทันสมัย และการถ่ายภาพอาหารเชิงพาณิชย์ระดับไฮเอนด์จับคู่กับภาพร่างสตอรี่บอร์ดเชิงเทคนิคที่ดูสะอาดตาในแต่ละเฟรม",
+    "vi-VN": "Bố cục infographic kịch bản phân cảnh 8 khung hình chuyên nghiệp có tiêu đề 'AVOCADO TRANSFORMATION' dành cho video quảng cáo dọc 15 giây tràn đầy năng lượng (tỷ lệ khung hình 9:16). Nền tối sạch sẽ, điểm nhấn màu xanh lá cây rực rỡ, kiểu chữ hiện đại và nhiếp ảnh ẩm thực thương mại cao cấp kết hợp với các bản phác thảo kịch bản kỹ thuật rõ ràng cho từng khung hình.",
+    "hi-IN": "एक ऊर्जावान 15-सेकंड के वर्टिकल विज्ञापन (9:16 आस्पेक्ट रेशियो) के लिए 'AVOCADO TRANSFORMATION' शीर्षक वाला एक पेशेवर 8-पैनल स्टोरीबोर्ड इन्फोग्राफिक लेआउट। साफ-सुथरी गहरी पृष्ठभूमि, जीवंत हरे रंग के एक्सेंट, आधुनिक टाइपोग्राफी, और प्रत्येक फ्रेम के लिए साफ-सुथरे तकनीकी स्टोरीबोर्ड स्केच के साथ प्रस्तुत उच्च स्तरीय व्यावसायिक खाद्य फोटोग्राफी।",
+    "es-ES": "Un diseño infográfico profesional de guion gráfico de 8 paneles titulado 'AVOCADO TRANSFORMATION' para un anuncio publicitario vertical de 15 segundos de alta energía (relación de aspecto 9:16). Fondo oscuro y limpio, vibrantes detalles en verde, tipografía moderna y fotografía gastronómica comercial de alta gama combinada con bocetos técnicos de guion gráfico limpios para cada fotograma."
   },
   "summaryTranslations": {
-    "en": "8-panel vertical storyboard infographic layout for an avocado commercial."
+    "en": "8-panel vertical storyboard infographic layout for an avocado commercial.",
+    "zh": "牛油果广告的8格竖屏分镜信息图布局。",
+    "zh-TW": "酪梨廣告的8格直式分鏡資訊圖版面。",
+    "ja-JP": "アボカドのコマーシャル向け8コマ縦型絵コンテ・インフォグラフィックレイアウト。",
+    "ko-KR": "아보카도 광고를 위한 8패널 세로형 스토리보드 인포그래픽 레이아웃.",
+    "th-TH": "เลย์เอาต์อินโฟกราฟิกสตอรี่บอร์ดแนวตั้ง 8 ช่องสำหรับโฆษณาอะโวคาโด",
+    "vi-VN": "Bố cục infographic kịch bản phân cảnh dạng dọc 8 khung hình cho quảng cáo quả bơ.",
+    "hi-IN": "एवोकैडो विज्ञापन के लिए 8-पैनल वर्टिकल स्टोरीबोर्ड इन्फोग्राफिक लेआउट।",
+    "es-ES": "Diseño infográfico de guion gráfico vertical de 8 paneles para un anuncio de aguacate."
   },
   "translationVersion": 2,
   "summary": "8-panel vertical storyboard infographic layout for an avocado commercial.",
