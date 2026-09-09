@@ -34,7 +34,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 作者：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [查看 X 原帖](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-电影 / 电影剧照 · 人像 / 自拍 · 角色 · 时尚单品 · 待推流
+电影 / 电影剧照 · 人像 / 自拍 · 角色 · 时尚单品 · 已推流
 
 **概括:** 在阴天海滩上赤脚漫步的年轻男子的电影感时尚编辑人像。
 
@@ -51,5 +51,3 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-目录参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

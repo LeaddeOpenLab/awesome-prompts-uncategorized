@@ -34,7 +34,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Article de mode · Diffusion en attente
+Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Article de mode · Publié
 
 **Résumé:** Portrait éditorial de mode cinématographique d'un jeune homme marchant pieds nus sur une plage par temps couvert.
 
@@ -51,5 +51,3 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 ---
 
 [Explorer Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-Référence de navigation: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

@@ -34,7 +34,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Dağıtım bekliyor
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 **Özet:** Bulutlu bir kumsalda çıplak ayakla yürüyen genç bir adamın sinematik moda editoryal portresi.
 
@@ -51,5 +51,3 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 ---
 
 [Leadde.ai’yi keşfedin →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-Gezinme kaynağı: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

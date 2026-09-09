@@ -34,7 +34,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Verteilung ausstehend
+Kinematisch / Filmstill · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 **Zusammenfassung:** Filmreifes Mode-Editorial-Porträt eines jungen Mannes, der barfuß an einem bewölkten Strand spaziert.
 
@@ -51,5 +51,3 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 ---
 
 [Leadde.ai entdecken →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-Navigationsvorlage: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

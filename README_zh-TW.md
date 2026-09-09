@@ -34,7 +34,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 作者：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [查看 X 原帖](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-電影感 / 電影劇照 · 人像 / 自拍 · 角色 · 時尚單品 · 待推送
+電影感 / 電影劇照 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
 
 **概括:** 在陰天海灘上赤腳漫步的年輕男子的電影感時尚編輯肖像。
 
@@ -51,5 +51,3 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 ---
 
 [探索 Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-目錄參考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

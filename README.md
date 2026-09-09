@@ -34,7 +34,7 @@ Star this repository to follow our daily prompt curation and find fresh creative
 
 Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-Cinematic / Film Still · Portrait / Selfie · Character · Fashion Item · Pending distribution
+Cinematic / Film Still · Portrait / Selfie · Character · Fashion Item · Published
 
 **Summary:** Cinematic fashion editorial portrait of a young man walking barefoot on an overcast beach.
 
@@ -51,5 +51,3 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 ---
 
 [Explore Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-Navigation reference: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

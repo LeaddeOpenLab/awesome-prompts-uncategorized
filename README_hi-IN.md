@@ -34,7 +34,7 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 लेखक：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [मूल पोस्ट](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-सिनेमैटिक / फ़िल्म स्टिल · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · फ़ैशन आइटम · प्रकाशन लंबित
+सिनेमैटिक / फ़िल्म स्टिल · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · फ़ैशन आइटम · प्रकाशित
 
 **सारांश:** बादल छाए समुद्र तट पर नंगे पैर चलते एक युवक का सिनेमाई फैशन संपादकीय चित्र।
 
@@ -51,5 +51,3 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 ---
 
 [Leadde.ai देखें →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-नेविगेशन संदर्भ: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

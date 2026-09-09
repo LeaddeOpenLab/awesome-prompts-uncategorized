@@ -34,7 +34,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 作者：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [元の投稿](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信待ち
+シネマティック / フィルムスチル · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
 
 **概要:** 曇り空のビーチを裸足で歩く青年の映画のようなファッションエディトリアルポートレート。
 
@@ -51,5 +51,3 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 ---
 
 [Leadde.ai を見る →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-ナビゲーション参考: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

@@ -34,7 +34,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 작성자：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [원본 게시물](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 대기
+시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
 
 **요약:** 흐린 해변을 맨발로 걷는 젊은 남성의 시네마틱 패션 에디토리얼 인물 사진.
 
@@ -51,5 +51,3 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 ---
 
 [Leadde.ai 살펴보기 →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-탐색 참고: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

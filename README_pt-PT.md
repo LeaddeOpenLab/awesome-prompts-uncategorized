@@ -34,7 +34,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · Distribuição pendente
+Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
 **Resumo:** Retrato editorial cinematográfico de moda de um jovem a caminhar descalço numa praia nublada.
 
@@ -51,5 +51,3 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 ---
 
 [Explore a Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-Referência de navegação: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

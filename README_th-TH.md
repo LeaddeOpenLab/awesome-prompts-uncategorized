@@ -34,7 +34,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 ผู้เขียน：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [โพสต์ต้นฉบับ](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพบุคคล / เซลฟี่ · ตัวละคร · ไอเทมแฟชั่น · รอเผยแพร่
+ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ภาพบุคคล / เซลฟี่ · ตัวละคร · ไอเทมแฟชั่น · เผยแพร่แล้ว
 
 **สรุป:** ภาพถ่ายพอร์ตเทรตแฟชั่นแนวภาพยนตร์ของชายหนุ่มเดินเท้าเปล่าบนชายหาดในวันที่มีเมฆครึ้ม
 
@@ -51,5 +51,3 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 ---
 
 [สำรวจ Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-แหล่งอ้างอิงการนำทาง: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).

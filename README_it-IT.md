@@ -34,7 +34,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2096832293138726943)
 
-Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Articolo di moda · Distribuzione in attesa
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
 **Riepilogo:** Ritratto editoriale di moda cinematografico di un giovane uomo che cammina a piedi nudi su una spiaggia dal cielo coperto.
 
@@ -51,5 +51,3 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 ---
 
 [Esplora Leadde.ai →](https://leadde.ai/?utm_source=github&utm_medium=readme&utm_campaign=prompt-library&utm_content=uncategorized)
-
-Riferimento di navigazione: [YouMind OpenLab](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
