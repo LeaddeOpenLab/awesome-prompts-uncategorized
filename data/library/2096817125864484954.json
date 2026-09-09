@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:20:42.167Z",
+  "model": "hailuo",
+  "prompt": "A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics.",
+  "promptTranslations": {
+    "en": "A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics."
+  },
+  "summaryTranslations": {
+    "en": "A continuous 4K travel vlog video prompt depicting a young East Asian woman exploring various iconic locations in Istanbul."
+  },
+  "translationVersion": 2,
+  "summary": "A continuous 4K travel vlog video prompt depicting a young East Asian woman exploring various iconic locations in Istanbul.",
+  "summaryEn": "A continuous 4K travel vlog video prompt depicting a young East Asian woman exploring various iconic locations in Istanbul.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096817125864484954",
+    "canonicalUrl": "https://x.com/Zyrellix/status/2096817125864484954",
+    "author": {
+      "username": "Zyrellix",
+      "displayName": "Zyrella",
+      "profileUrl": "https://x.com/Zyrellix"
+    },
+    "publishedAt": "2026-09-07T04:25:34.000Z",
+    "collectedAt": "2026-09-09T02:40:21.975Z",
+    "language": "en",
+    "originalText": "Exploring Istanbul one beautiful moment at a time From historic streets to peaceful Bosphorus views this city feels like a movie.\n\nMade with MiniMax H3\n\nPrompt:\n\nA continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Zyrellix/status/2096817125864484954",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096816674007863297/img/vgUoXnscXSt2KZyO.jpg",
+        "analysisUrl": "https://x.com/Zyrellix/status/2096817125864484954"
+      }
+    ],
+    "metrics": {
+      "likeCount": 206,
+      "repostCount": 9,
+      "replyCount": 61,
+      "quoteCount": 1,
+      "viewCount": 10334
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solidworks\",\"cad\",\"image\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Zyrellix/status/2096817125864484954",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096816674007863297/img/vgUoXnscXSt2KZyO.jpg",
+  "coverPath": "covers/2096817125864484954.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096816674007863297",
+    "x-post:2096817125864484954"
+  ],
+  "analysis": {
+    "summary": "A continuous 4K travel vlog video prompt depicting a young East Asian woman exploring various iconic locations in Istanbul.",
+    "summaryEn": "A continuous 4K travel vlog video prompt depicting a young East Asian woman exploring various iconic locations in Istanbul.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics.",
+    "sourceRange": {
+      "start": 162,
+      "end": 1211
+    },
+    "translations": {
+      "zh": "一段连续的4K旅行vlog视频，主角是一位留着深色长发、身穿白色短款上衣、开衫白衬衫和米色短裤的年轻东亚女性，正在游览伊斯坦布尔。视频通过动感的旅行瞬间无缝串联：开篇在圣索菲亚大教堂附近低语对着麦克风做近景ASMR开场，随后切换到手持自拍镜头在挤满游客的阳光广场上旋转。切至一座历史悠久的清真寺内的低角度镜头，仰望宏伟的穹顶和奥斯曼式拱门，接着是在加拉塔塔附近的黄金时刻屋顶镜头，微风轻拂着她的头发。随后她站在博斯普鲁斯海峡轮渡栏杆边对着镜头微笑，走在两旁林立着露天咖啡馆的狭窄鹅卵石小巷中，在温馨的咖啡馆里向镜头端上一杯土耳其咖啡，最后以隔水远眺伊斯坦布尔灯火辉煌的天际线的电影感黄昏全景镜头结束。超细节，逼真，8k分辨率，电影质感光影，鲜明自然色彩，流畅动作，逼真的面部与物理效果。",
+      "en": "A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics."
+    },
+    "targetModels": [
+      "hailuo"
+    ],
+    "category": "text-to-video",
+    "useCase": "travel vlog video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
