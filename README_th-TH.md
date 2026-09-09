@@ -14,13 +14,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**6** รายการ · เพิ่มล่าสุด: **2026-09-09**
+**7** รายการ · เพิ่มล่าสุด: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -139,6 +139,36 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 **สรุป:** กำลังแปล
 
 <img src="covers/2097514564875104516.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## ย้อนยุค / วินเทจ
+
+<a name="prompt-2096936643173216486"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [โพสต์ต้นฉบับ](https://x.com/SalaheldinNehal/status/2096936643173216486)
+
+การถ่ายภาพ · ย้อนยุค / วินเทจ · ภาพบุคคล / เซลฟี่ · ไอเทมแฟชั่น · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2096936643173216486-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2096936643173216486-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2096936643173216486-3.jpg" alt="รูปภาพ 3" width="480" />
 
 **พรอมต์**
 

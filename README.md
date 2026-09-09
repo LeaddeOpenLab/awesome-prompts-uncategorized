@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**6** Prompts · Latest addition: **2026-09-09**
+**7** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -156,6 +156,36 @@ Author：[@VKs\_Host](https://x.com/VKs_Host) · [Source](https://x.com/VKs_Host
 
 ```text
 Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Retro / Vintage
+
+<a name="prompt-2096936643173216486"></a>
+
+### Prompt to transform a reference photo into a photorealistic 1985 retro portrait featuring authentic 80s fashion, teased hair, and 35mm film aesthetics.
+
+Author：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Source](https://x.com/SalaheldinNehal/status/2096936643173216486)
+
+Photography · Retro / Vintage · Portrait / Selfie · Fashion Item · Published
+
+**Summary:** Prompt to transform a reference photo into a photorealistic 1985 retro portrait featuring authentic 80s fashion, teased hair, and 35mm film aesthetics.
+
+<img src="images/2096936643173216486-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096936643173216486-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2096936643173216486-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+What would I have looked like in the 1980s? Use the attached photo as the reference. Preserve my exact facial features, smile, skin tone, eye shape, and overall identity. Restyle me as if I were living in 1985 with authentic 1980s fashion and beauty trends: voluminous teased hair, bold eye makeup, rosy blush, matte lipstick, large hoop earrings, an acid-wash denim jacket, a vibrant neon top, high-waisted jeans, and classic 1980s accessories. Place me in a realistic 1980s setting with retro posters, a cassette player, vinyl records, and warm film-style lighting. Make it look like a genuine high-quality 35mm photograph from the mid-1980s with subtle film grain and vintage color tones. The image should be photorealistic and maintain a strong resemblance to me—not a generic 1980s person.
 ```
 
 [↑ Back to categories](#catalog)

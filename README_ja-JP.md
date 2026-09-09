@@ -14,13 +14,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**6** 件 · 最新の追加: **2026-09-09**
+**7** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -139,6 +139,36 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 **概要:** 翻訳中
 
 <img src="covers/2097514564875104516.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## レトロ / ヴィンテージ
+
+<a name="prompt-2096936643173216486"></a>
+
+### 翻訳中
+
+作者：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [元の投稿](https://x.com/SalaheldinNehal/status/2096936643173216486)
+
+写真撮影 · レトロ / ヴィンテージ · ポートレート / セルフィー · ファッションアイテム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2096936643173216486-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2096936643173216486-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2096936643173216486-3.jpg" alt="画像 3" width="480" />
 
 **プロンプト**
 

@@ -14,13 +14,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**6** Prompts · Dernier ajout: **2026-09-09**
+**7** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Rendu 3D](#category-3d-render) · [Rétro / Vintage](#category-retro-vintage) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -139,6 +139,36 @@ Rendu 3D · Publié
 **Résumé:** Traduction en cours
 
 <img src="covers/2097514564875104516.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Rétro / Vintage
+
+<a name="prompt-2096936643173216486"></a>
+
+### Traduction en cours
+
+Auteur：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Publication originale](https://x.com/SalaheldinNehal/status/2096936643173216486)
+
+Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2096936643173216486-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096936643173216486-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2096936643173216486-3.jpg" alt="Image 3" width="480" />
 
 **Consigne**
 

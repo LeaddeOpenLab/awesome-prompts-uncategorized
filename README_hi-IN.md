@@ -14,13 +14,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**6** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
+**7** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [3D रेंडर](#category-3d-render) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [3D रेंडर](#category-3d-render) · [रेट्रो / विंटेज](#category-retro-vintage) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -139,6 +139,36 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 **सारांश:** अनुवाद जारी है
 
 <img src="covers/2097514564875104516.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## रेट्रो / विंटेज
+
+<a name="prompt-2096936643173216486"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [मूल पोस्ट](https://x.com/SalaheldinNehal/status/2096936643173216486)
+
+फोटोग्राफी · रेट्रो / विंटेज · पोर्ट्रेट / सेल्फ़ी · फ़ैशन आइटम · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2096936643173216486-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2096936643173216486-2.jpg" alt="चित्र 2" width="480" />
+
+<img src="images/2096936643173216486-3.jpg" alt="चित्र 3" width="480" />
 
 **प्रॉम्प्ट**
 

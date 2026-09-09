@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**6** Prompt · Son eklenen: **2026-09-09**
+**7** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -139,6 +139,36 @@ Yazar：[@VKs\_Host](https://x.com/VKs_Host) · [Orijinal gönderi](https://x.co
 **Özet:** Çeviri sürüyor
 
 <img src="covers/2097514564875104516.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Retro / Vintage
+
+<a name="prompt-2096936643173216486"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Orijinal gönderi](https://x.com/SalaheldinNehal/status/2096936643173216486)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2096936643173216486-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2096936643173216486-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2096936643173216486-3.jpg" alt="Görsel 3" width="480" />
 
 **İstem**
 

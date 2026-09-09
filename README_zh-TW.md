@@ -14,13 +14,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**6** 筆內容 · 最新收錄: **2026-09-09**
+**7** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [復古 / 懷舊](#category-retro-vintage) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -139,6 +139,36 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 **概括:** 翻譯中
 
 <img src="covers/2097514564875104516.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## 復古 / 懷舊
+
+<a name="prompt-2096936643173216486"></a>
+
+### 翻譯中
+
+作者：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [查看 X 原帖](https://x.com/SalaheldinNehal/status/2096936643173216486)
+
+攝影 · 復古 / 懷舊 · 人像 / 自拍 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2096936643173216486-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2096936643173216486-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2096936643173216486-3.jpg" alt="圖片 3" width="480" />
 
 **提示詞**
 

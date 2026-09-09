@@ -14,13 +14,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**6** Prompt · Bổ sung mới nhất: **2026-09-09**
+**7** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -139,6 +139,36 @@ Kết xuất 3D · Đã xuất bản
 **Tóm tắt:** Đang dịch
 
 <img src="covers/2097514564875104516.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-retro-vintage"></a>
+
+## Cổ điển / Cổ điển
+
+<a name="prompt-2096936643173216486"></a>
+
+### Đang dịch
+
+Tác giả：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Bài gốc](https://x.com/SalaheldinNehal/status/2096936643173216486)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2096936643173216486-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2096936643173216486-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2096936643173216486-3.jpg" alt="Hình ảnh 3" width="480" />
 
 **Câu lệnh**
 
