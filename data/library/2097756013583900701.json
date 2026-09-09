@@ -12,7 +12,14 @@
     "th-TH": "สร้างภาพช็อตต่างๆ จาก MV โวคาลอยด์ของตัวละครนี้ในรูปแบบ 3x3 16:9",
     "vi-VN": "Xuất các cảnh cắt khác nhau từ MV Vocaloid của nhân vật này dưới dạng 3x3 16:9",
     "hi-IN": "इस पात्र के वोकलॉइड एमवी के विभिन्न कट्स को 3x3 में आउटपुट करें 16:9",
-    "es-ES": "Genera varias tomas del MV de Vocaloid de este personaje en una cuadrícula de 3x3 16:9"
+    "es-ES": "Genera varias tomas del MV de Vocaloid de este personaje en una cuadrícula de 3x3 16:9",
+    "es-419": "Genera varios cortes del video musical de Vocaloid de este personaje en una cuadrícula de 3x3, 16:9",
+    "de-DE": "Gib verschiedene Aufnahmen aus dem Vocaloid-Musikvideo dieser Figur in einem 3x3-Raster aus, 16:9",
+    "fr-FR": "Génère différents plans du clip musical Vocaloid de ce personnage sous forme de grille 3x3, 16:9",
+    "it-IT": "Genera varie inquadrature del video musicale Vocaloid di questo personaggio in una griglia 3x3, 16:9",
+    "pt-BR": "Gere vários cortes do clipe musical de Vocaloid deste personagem em uma grade 3x3, 16:9",
+    "pt-PT": "Gera vários cortes do videoclipe de Vocaloid desta personagem numa grelha 3x3, 16:9",
+    "tr-TR": "Bu karakterin Vocaloid müzik videosundan çeşitli sahneleri 3x3 ızgara formatında oluştur, 16:9"
   },
   "summaryTranslations": {
     "en": "A prompt that uses character reference images to generate diverse Vocaloid MV-style composition cuts as a 3x3 16:9 grid image.",
@@ -23,7 +30,14 @@
     "th-TH": "พรอมต์สำหรับสร้างภาพกริด 3x3 ขนาด 16:9 ซึ่งรวมช็อตมุมมองหลากหลายในสไตล์ MV โวคาลอยด์ โดยใช้ภาพอ้างอิงตัวละคร",
     "vi-VN": "Lời nhắc để tạo hình ảnh dạng lưới 3x3 tỷ lệ 16:9 với các góc bố cục đa dạng theo phong cách MV Vocaloid bằng cách sử dụng hình ảnh tham chiếu nhân vật.",
     "hi-IN": "पात्र संदर्भ छवि का उपयोग करके, वोकलॉइड एमवी शैली के विभिन्न संरचना कट्स को 3x3 के 16:9 ग्रिड छवि के रूप में उत्पन्न करने वाला प्रॉम्प्ट।",
-    "es-ES": "Un prompt para generar una imagen en cuadrícula de 3x3 con relación de aspecto 16:9 que muestra varios cortes de composición al estilo de MV de Vocaloid, utilizando una imagen de referencia del personaje."
+    "es-ES": "Un prompt para generar una imagen en cuadrícula de 3x3 con relación de aspecto 16:9 que muestra varios cortes de composición al estilo de MV de Vocaloid, utilizando una imagen de referencia del personaje.",
+    "es-419": "Prompt para generar diversas tomas de composición al estilo de un video musical de Vocaloid como una imagen en cuadrícula de 3x3 y 16:9, utilizando una imagen de referencia de personaje.",
+    "de-DE": "Ein Prompt zur Erstellung verschiedener Kompositionseinstellungen im Stil eines Vocaloid-Musikvideos als 3x3-Rasterbild im Format 16:9 unter Verwendung eines Charakter-Referenzbildes.",
+    "fr-FR": "Un prompt pour générer divers plans de composition dans le style d'un clip Vocaloid sous forme d'image en grille 3x3 en 16:9, en utilisant une image de référence du personnage.",
+    "it-IT": "Un prompt per generare varie inquadrature di composizione in stile video musicale Vocaloid come un'immagine a griglia 3x3 in formato 16:9, utilizzando un'immagine di riferimento del personaggio.",
+    "pt-BR": "Um prompt para gerar diversos cortes de composição no estilo de videoclipe de Vocaloid como uma imagem em grade 3x3 na proporção 16:9, usando uma imagem de referência de personagem.",
+    "pt-PT": "Um prompt para gerar diversos cortes de composição no estilo de videoclipe de Vocaloid como uma imagem em grelha 3x3 no formato 16:9, usando uma imagem de referência de personagem.",
+    "tr-TR": "Bir karakter referans görseli kullanarak Vocaloid müzik videosu tarzında çeşitli kompozisyon sahnelerini 3x3 16:9 ızgara görseli olarak üreten bir komut istemi."
   },
   "translationVersion": 2,
   "summary": "キャラクター参照画像を用い、ボカロMV風の多様な構図カットを3x3の16:9グリッド画像として生成するプロンプト。",
