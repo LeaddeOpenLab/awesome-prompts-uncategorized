@@ -30,13 +30,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2097519361909199023"></a>
 
-### Traduction en cours
+### Plan moyen rapproché photoréaliste d'une femme flottant sur le dos dans une eau cristalline au coucher du soleil.
 
 Auteur：[@punkhuri1](https://x.com/punkhuri1) · [Publication originale](https://x.com/punkhuri1/status/2097519361909199023)
 
 Photographie · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Plan moyen rapproché photoréaliste d'une femme flottant sur le dos dans une eau cristalline au coucher du soleil.
 
 <img src="images/2097519361909199023-1.jpg" alt="Image 1" width="480" />
 
@@ -47,7 +47,19 @@ Photographie · Personnage · Paysage / Nature · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Plan moyen rapproché, photographie d'art photoréaliste d'une femme adulte flottant paisiblement sur le dos dans une eau calme et cristalline au coucher du soleil.
+
+Elle porte un haut de bikini bleu clair et un bas blanc. Ses yeux sont délicatement fermés, son visage est tourné vers le ciel du soir, exprimant une détente totale. Ses cheveux bruns mouillés s'étalent naturellement dans l'eau autour de sa tête. Un bras est naturellement étendu à la surface, tandis que ses jambes sont doucement visibles sous l'eau claire.
+
+L'eau est exceptionnellement limpide, avec de magnifiques reflets tourbillonnants de bleu profond, de turquoise, de sarcelle et d'or chaud créés par le soleil couchant. De légères ondulations et une réfraction subtile entourent son corps, créant une apparence d'eau naturelle authentique.
+
+La partie supérieure de la composition présente un ciel lumineux de coucher de soleil dans des tons chauds d'orange, d'ambre et de jaune doux, effectuant une transition naturelle vers l'eau plus fraîche, bleue et turquoise, en dessous. La lumière de l'heure dorée diffuse une lueur chaleureuse sur toute la scène et des reflets réalistes sur la surface de l'eau.
+
+Texture naturelle de la peau, cheveux mouillés réalistes, reflets et réfraction de l'eau physiquement précis, légères ondulations, éclairage et ombres réalistes, profondeur photographique authentique, détails réalistes de la peau et du tissu.
+
+Composition : plan moyen rapproché avec le visage et le haut du corps de la femme comme point focal principal, tout en laissant une partie suffisante de son corps visible pour marquer la posture de flottaison. Maintenir un équilibre harmonieux entre le ciel chaud du coucher de soleil et les reflets colorés de l'eau. Perspective naturelle, cadrage cinématographique, profondeur de champ photographique faible à modérée, aucun aspect artificiel de studio.
+
+Style : photographie d'art professionnelle très détaillée, rendu photoréaliste de prise de vue réelle, rendu naturel des couleurs, réalisme cinématographique, atmosphère authentique de l'heure dorée, surface de l'eau réaliste, éclairage physiquement précis, détails photographiques fins, grain de film subtil, qualité de chef-d'œuvre.
 ```
 
 [↑ Retour aux catégories](#catalog)

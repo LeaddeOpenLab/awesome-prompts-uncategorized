@@ -30,13 +30,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2097519361909199023"></a>
 
-### Übersetzung läuft
+### Fotorealistische Halbnahaufnahme einer Frau, die während des Sonnenuntergangs auf dem Rücken in kristallklarem Wasser treibt.
 
 Autor：[@punkhuri1](https://x.com/punkhuri1) · [Originalbeitrag](https://x.com/punkhuri1/status/2097519361909199023)
 
 Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistische Halbnahaufnahme einer Frau, die während des Sonnenuntergangs auf dem Rücken in kristallklarem Wasser treibt.
 
 <img src="images/2097519361909199023-1.jpg" alt="Bild 1" width="480" />
 
@@ -47,7 +47,19 @@ Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Halbnahaufnahme, fotorealistische Kunstfotografie einer erwachsenen Frau, die bei Sonnenuntergang friedlich auf dem Rücken in ruhigem, kristallklarem Wasser treibt.
+
+Sie trägt ein hellblaues Bikini-Oberteil und ein weißes Bikini-Höschen. Ihre Augen sind sanft geschlossen, ihr Gesicht ist nach oben zum Abendhimmel gerichtet und strahlt vollkommene Entspannung aus. Ihr nasses braunes Haar breitet sich natürlich im Wasser um ihren Kopf herum aus. Ein Arm ist natürlich über die Oberfläche ausgestreckt, während ihre Beine unter dem klaren Wasser sanft sichtbar sind.
+
+Das Wasser ist außergewöhnlich klar, mit wunderschönen, wirbelnden Reflexionen von tiefem Blau, Türkis, Blaugrün und warmem Gold, die durch die untergehende Sonne entstehen. Sanfte Wellen und eine subtile Lichtbrechung umgeben ihren Körper und erzeugen das authentische Erscheinungsbild natürlichen Wassers.
+
+Der obere Teil der Bildkomposition zeigt einen leuchtenden Sonnenuntergangshimmel in warmen Orange-, Bernstein- und sanften Gelbtönen, der natürlich in das kühlere blaue und türkisfarbene Wasser darunter übergeht. Das Sonnenlicht der goldenen Stunde erzeugt ein warmes Leuchten in der gesamten Szene und realistische Glanzlichter auf der Wasseroberfläche.
+
+Natürliche Hautstruktur, realistisches nasses Haar, physikalisch akkurate Wasserreflexionen und -brechung, subtile Kräuselungen, lebensechte Beleuchtung und Schatten, realistische fotografische Tiefe, authentische Haut- und Stoffdetails.
+
+Komposition: Halbnahaufnahme mit dem Gesicht und dem Oberkörper der Frau als primärem Fokuspunkt, während genug von ihrem Körper sichtbar bleibt, um die schwebende Haltung erkennbar zu machen. Ausgewogenes Verhältnis zwischen dem warmen Sonnenuntergangshimmel und den farbenfrohen Wasserreflexionen bewahren. Natürliche Perspektive, filmisches Framing, geringe bis mäßige fotografische Schärfentiefe, kein künstlicher Studio-Look.
+
+Stil: detailreiche professionelle Kunstfotografie, fotorealistisches Live-Action-Erscheinungsbild, natürliche Farbwiedergabe, filmischer Realismus, authentische Atmosphäre der goldenen Stunde, realistische Wasseroberfläche, physikalisch akkurate Beleuchtung, feine fotografische Details, subtiles Filmkorn, meisterhafte Qualität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

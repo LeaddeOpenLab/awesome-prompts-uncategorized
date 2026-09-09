@@ -30,13 +30,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2097519361909199023"></a>
 
-### Traduzione in corso
+### Mezzo primo piano fotorealistico di una donna che galleggia sulla schiena in un'acqua cristallina durante il tramonto.
 
 Autore：[@punkhuri1](https://x.com/punkhuri1) · [Post originale](https://x.com/punkhuri1/status/2097519361909199023)
 
 Fotografia · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Mezzo primo piano fotorealistico di una donna che galleggia sulla schiena in un'acqua cristallina durante il tramonto.
 
 <img src="images/2097519361909199023-1.jpg" alt="Immagine 1" width="480" />
 
@@ -47,7 +47,19 @@ Fotografia · Personaggio · Paesaggio / Natura · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Mezzo primo piano, fotografia artistica fotorealistica di una donna adulta che galleggia pacificamente sulla schiena in un'acqua calma e cristallina al tramonto.
+
+Indossa la parte superiore di un bikini azzurro e lo slip bianco. I suoi occhi sono delicatamente chiusi, il viso è rivolto verso l'alto verso il cielo serale, comunicando un rilassamento totale. I suoi capelli castani bagnati si distendono naturalmente nell'acqua attorno alla testa. Un braccio si estende con naturalezza lungo la superficie, mentre le gambe sono visibili con morbidezza sotto l'acqua limpida.
+
+L'acqua è eccezionalmente trasparente, con splendidi riflessi vorticosi di blu profondo, turchese, ottanio e oro caldo generati dal sole al tramonto. Onde delicate e una sottile rifrazione circondano il suo corpo, creando un autentico aspetto d'acqua naturale.
+
+La parte superiore della composizione racchiude un luminoso cielo al tramonto dai toni caldi di arancione, ambra e giallo tenue, che sfuma con naturalezza nell'acqua più fredda blu e turchese sottostante. La luce del sole dell'ora d'oro crea un caldo bagliore attraverso l'intera scena e riflessi realistici sulla superficie dell'acqua.
+
+Texture naturale della pelle, capelli bagnati realistici, riflessi e rifrazione dell'acqua fisicamente accurati, sottili increspature, luci e ombre realistiche, autentica profondità fotografica, dettagli realistici della pelle e del tessuto.
+
+Composizione: mezzo primo piano con il viso e la parte superiore del corpo della donna come punto focale primario, mentre una parte sufficiente del corpo rimane visibile per delineare la posa galleggiante. Mantenere una relazione equilibrata tra il caldo cielo del tramonto e i riflessi colorati dell'acqua. Prospettiva naturale, inquadratura cinematografica, profondità di campo fotografica da ridotta a moderata, nessun aspetto artificiale da studio.
+
+Stile: fotografia artistica professionale altamente dettagliata, aspetto fotorealistico dal vivo, resa cromatica naturale, realismo cinematografico, atmosfera autentica dell'ora d'oro, superficie dell'acqua realistica, illuminazione fisicamente accurata, dettagli fotografici fini, sottile grana della pellicola, qualità da capolavoro.
 ```
 
 [↑ Torna alle categorie](#catalog)
