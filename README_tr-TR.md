@@ -30,13 +30,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2097519361909199023"></a>
 
-### Çeviri sürüyor
+### Gün batımında berrak suda sırtüstü yüzen bir kadının fotogerçekçi orta yakın çekimi.
 
 Yazar：[@punkhuri1](https://x.com/punkhuri1) · [Orijinal gönderi](https://x.com/punkhuri1/status/2097519361909199023)
 
 Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gün batımında berrak suda sırtüstü yüzen bir kadının fotogerçekçi orta yakın çekimi.
 
 <img src="images/2097519361909199023-1.jpg" alt="Görsel 1" width="480" />
 
@@ -47,7 +47,19 @@ Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gün batımında sakin ve berrak sularda huzur içinde sırtüstü yüzen yetişkin bir kadının orta yakın çekim, fotogerçekçi güzel sanatlar fotoğrafı.
+
+Açık mavi bikini üstü ve beyaz bikini altı giyiyor. Gözleri nazikçe kapalı, yüzü akşam gökyüzüne doğru yukarı kalkık, tam bir rahatlama hissi veriyor. Islak kahverengi saçları başının etrafında suyun içinde doğal bir şekilde dağılıyor. Bir kolu yüzey boyunca doğal olarak dışarı doğru uzanırken, bacakları berrak suyun altından yumuşak bir şekilde seçiliyor.
+
+Su son derece berrak olup batan güneşin yarattığı koyu mavi, turkuaz, camgöbeği ve sıcak altın tonlarında güzel, dönen yansımalara sahip. Vücudunu saran hafif dalgacıklar ve ince kırılmalar, otantik bir doğal su görünümü oluşturuyor.
+
+Kompozisyonun üst kısmı sıcak turuncu, kehribar ve yumuşak sarı tonlarında ışıldayan bir gün batımı gökyüzü içeriyor; bu gökyüzü alt kısımdaki daha serin mavi ve turkuaz suya doğal bir geçiş yapıyor. Altın saat güneş ışığı tüm sahnede sıcak bir ışıltı ve su yüzeyinde gerçekçi parıltılar yaratıyor.
+
+Doğal cilt dokusu, gerçekçi ıslak saçlar, fiziksel olarak doğru su yansımaları ve kırılmaları, ince dalgalanmalar, gerçeğe yakın ışık ve gölgeler, gerçekçi fotoğrafik derinlik, otantik cilt ve kumaş detayları.
+
+Kompozisyon: Kadının yüzü ve üst gövdesi ana odak noktası olan, ancak suda süzülme pozunu belli etmeye yetecek kadar vücudunun göründüğü orta yakın çekim. Sıcak gün batımı gökyüzü ile renkli su yansımaları arasında dengeli bir ilişki koruyun. Doğal perspektif, sinematik kadraj, sığ ila orta fotoğrafik derinlik, yapay stüdyo görünümü yok.
+
+Tarz: yüksek detaylı profesyonel güzel sanatlar fotoğrafçılığı, fotogerçekçi canlı çekim görünümü, doğal renk sunumu, sinematik realizm, otantik altın saat atmosferi, gerçekçi su yüzeyi, fiziksel olarak doğru aydınlatma, ince fotoğrafik detay, zarif film greni, şaheser kalitesi.
 ```
 
 [↑ Kategorilere dön](#catalog)

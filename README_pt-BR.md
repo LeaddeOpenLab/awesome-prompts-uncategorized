@@ -30,13 +30,13 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2097519361909199023"></a>
 
-### Tradução em andamento
+### Plano médio-fechado fotorrealista de uma mulher flutuando de costas em água cristalina durante o pôr do sol.
 
 Autor：[@punkhuri1](https://x.com/punkhuri1) · [Publicação original](https://x.com/punkhuri1/status/2097519361909199023)
 
 Fotografia · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Plano médio-fechado fotorrealista de uma mulher flutuando de costas em água cristalina durante o pôr do sol.
 
 <img src="images/2097519361909199023-1.jpg" alt="Imagem 1" width="480" />
 
@@ -47,7 +47,19 @@ Fotografia · Personagem · Paisagem / Natureza · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Plano médio-fechado, fotografia fine-art fotorrealista de uma mulher adulta flutuando pacificamente de costas em água calma e cristalina ao pôr do sol.
+
+Ela veste a parte de cima de um biquíni azul-claro e a parte de baixo branca. Seus olhos estão suavemente fechados, o rosto inclinado para cima em direção ao céu do entardecer, transmitindo relaxamento completo. Seus cabelos castanhos e molhados se espalham naturalmente pela água ao redor de sua cabeça. Um braço se estende naturalmente para fora através da superfície, enquanto suas pernas são suavemente visíveis sob a água límpida.
+
+A água é excepcionalmente clara, com belos reflexos rodopiantes em azul-escuro, turquesa, cerceta e dourado quente criados pelo sol poente. Ondulações suaves e refração sutil envolvem seu corpo, criando uma aparência autêntica de água natural.
+
+A parte superior da composição contém um céu luminoso de pôr do sol em tons de laranja quente, âmbar e amarelo suave, transicionando naturalmente para a água mais fria em tons de azul e turquesa abaixo. A luz solar da hora dourada cria um brilho quente por toda a cena e realces realistas na superfície da água.
+
+Textura natural de pele, cabelo molhado realista, reflexos e refração de água fisicamente precisos, ondulações sutis, iluminação e sombras realistas, profundidade fotográfica realista, detalhes autênticos de pele e tecido.
+
+Composição: plano médio-fechado com o rosto e a parte superior do corpo da mulher como ponto focal principal, enquanto uma parte suficiente de seu corpo permanece visível para estabelecer a pose de flutuação. Mantenha uma relação equilibrada entre o céu quente do pôr do sol e os reflexos coloridos na água. Perspectiva natural, enquadramento cinematográfico, profundidade de campo fotográfica rasa a moderada, sem aparência artificial de estúdio.
+
+Estilo: fotografia fine-art profissional de alto nível de detalhe, aparência fotorrealista de ação ao vivo, renderização de cores naturais, realismo cinematográfico, atmosfera autêntica de hora dourada, superfície de água realista, iluminação fisicamente precisa, detalhes fotográficos refinados, granulação sutil de filme, qualidade de obra-prima.
 ```
 
 [↑ Voltar às categorias](#catalog)
