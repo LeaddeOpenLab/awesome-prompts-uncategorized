@@ -296,20 +296,20 @@ Ilustración fantástica y caprichosa en CGI 3D de un adorable zorrillo bebé y 
 
 <a name="prompt-2097514564875104516"></a>
 
-### Traducción en curso
+### Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable.
 
 Autor：[@VKs\_Host](https://x.com/VKs_Host) · [Publicación original](https://x.com/VKs_Host/status/2097514564875104516)
 
 Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable.
 
 <img src="covers/2097514564875104516.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficiente y estéticamente agradable.
 ```
 
 [↑ Volver a categorías](#catalog)

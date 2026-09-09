@@ -296,20 +296,20 @@ Minh họa kỳ ảo 3D CGI đầy mê hoặc về một chú cáo con đáng y�
 
 <a name="prompt-2097514564875104516"></a>
 
-### Đang dịch
+### Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark với thiết kế hiệu quả và đẹp mắt về mặt thẩm mỹ.
 
 Tác giả：[@VKs\_Host](https://x.com/VKs_Host) · [Bài gốc](https://x.com/VKs_Host/status/2097514564875104516)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark với thiết kế hiệu quả và đẹp mắt về mặt thẩm mỹ.
 
 <img src="covers/2097514564875104516.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark với thiết kế hiệu quả và đẹp mắt về mặt thẩm mỹ.
 ```
 
 [↑ Về danh mục](#catalog)
