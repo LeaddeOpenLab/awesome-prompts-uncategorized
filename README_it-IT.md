@@ -14,15 +14,41 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**1** Prompt · Ultima aggiunta: **2026-09-08**
+**2** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Fotografia
+
+<a name="prompt-2097223313592316111"></a>
+
+### Traduzione in corso
+
+Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2097223313592316111)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097223313592316111-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

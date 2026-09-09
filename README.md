@@ -14,15 +14,53 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**1** Prompts · Latest addition: **2026-09-08**
+**2** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Cinematic / Film Still](#category-cinematic-film-still)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Photography
+
+<a name="prompt-2097223313592316111"></a>
+
+### Ultra-realistic studio portrait of a man in black turtleneck and transparent glasses with magenta and cyan dual lighting.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2097223313592316111)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Ultra-realistic studio portrait of a man in black turtleneck and transparent glasses with magenta and cyan dual lighting.
+
+<img src="images/2097223313592316111-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra-realistic close-up studio portrait of an adult man with a confident, thoughtful expression, photographed from the chest upward in a premium modern editorial style.
+
+Give him  neatly short black hair. He is wearing transparent rectangular eyeglasses with subtle reflections from the studio lights.
+
+Dress him in a fitted black turtleneck sweater layered underneath a sophisticated black tailored blazer with structured lapels. Keep the outfit completely minimal and monochrome with no visible jewelry or unnecessary accessories.
+
+Pose him facing slightly away from the camera, with his head gently tilted upward and his eyes looking toward the upper-right side of the frame, creating a calm, intelligent, aspirational mood.
+
+Use dramatic dual-tone studio lighting: vivid magenta/purple rim light illuminating the left side of his hair and face, and vibrant electric-blue/cyan light illuminating the right side. Keep soft neutral frontal lighting on the face so the skin remains realistic, detailed, and properly exposed.
+
+Create a blurred futuristic studio background with a rich gradient transitioning from deep purple and magenta on the left to electric blue on the right. Add a glowing diagonal neon-magenta light bar in the lower-left background for extra visual depth.
+
+Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeglass reflections, crisp fabric texture, cinematic contrast, shallow depth of field, smooth colorful bokeh, premium personal-branding photography, high-end corporate editorial aesthetic, ultra-photorealistic, 85mm portrait lens look, f/1.8, 8K detail, vertical 4:5 composition.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

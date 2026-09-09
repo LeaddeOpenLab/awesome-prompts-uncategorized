@@ -14,15 +14,41 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**1** 件 · 最新の追加: **2026-09-08**
+**2** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[シネマティック / フィルムスチル](#category-cinematic-film-still)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## 写真撮影
+
+<a name="prompt-2097223313592316111"></a>
+
+### 翻訳中
+
+作者：[@abs\_uiux](https://x.com/abs_uiux) · [元の投稿](https://x.com/abs_uiux/status/2097223313592316111)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097223313592316111-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

@@ -14,15 +14,41 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**1** Prompts · Dernier ajout: **2026-09-08**
+**2** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Image cinématographique / Photogramme de film](#category-cinematic-film-still)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## Photographie
+
+<a name="prompt-2097223313592316111"></a>
+
+### Traduction en cours
+
+Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2097223313592316111)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097223313592316111-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 

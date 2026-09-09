@@ -14,15 +14,41 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**1** 개 · 최근 추가: **2026-09-08**
+**2** 개 · 최근 추가: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still)
 
 <a name="all-prompts"></a>
+
+<a name="category-photography"></a>
+
+## 사진술
+
+<a name="prompt-2097223313592316111"></a>
+
+### 번역 중
+
+작성자：[@abs\_uiux](https://x.com/abs_uiux) · [원본 게시물](https://x.com/abs_uiux/status/2097223313592316111)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097223313592316111-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="category-cinematic-film-still"></a>
 
