@@ -186,20 +186,32 @@ Cảnh quay quảng cáo điện ảnh 3D sống động về mì ăn liền. C�
 
 <a name="prompt-2097188060098101543"></a>
 
-### Đang dịch
+### Lời nhắc quảng cáo Nutella dạng dọc đậm chất điện ảnh dài 10 giây với phân cảnh chi tiết từng shot từ cú đẩy máy tới hũ, phết bánh mì đến cảnh quay tâm điểm.
 
 Tác giả：[@Urwa\_345](https://x.com/Urwa_345) · [Bài gốc](https://x.com/Urwa_345/status/2097188060098101543)
 
 Tiếp thị sản phẩm · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quảng cáo Nutella dạng dọc đậm chất điện ảnh dài 10 giây với phân cảnh chi tiết từng shot từ cú đẩy máy tới hũ, phết bánh mì đến cảnh quay tâm điểm.
 
 <img src="covers/2097188060098101543.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video quảng cáo Nutella đậm chất điện ảnh, cao cấp dài 10 giây ở định dạng dọc 9:16.
+
+0–2 giây: Cú đẩy máy (push-in) điện ảnh chậm rãi hướng về hũ Nutella trên một bàn ăn sáng đẹp mắt.
+
+2–4 giây: Cận cảnh macro lớp Nutella béo ngậy được phết mượt mà trên lát bánh mì nướng ấm nóng.
+
+4–6 giây: Cận cảnh chiếc thìa múc một xoáy Nutella bóng bẩy ra khỏi hũ, chuyển động chậm rãi và đầy thỏa mãn.
+
+6–8 giây: Chuyển cảnh nhanh chóng và thanh lịch sang lát bánh mì nướng Nutella hoàn chỉnh được đặt trên bàn ăn sáng.
+
+8–10 giây: Cảnh quay tâm điểm (hero shot) cuối cùng của hũ Nutella với bánh mì nướng và hạt phỉ xung quanh, ánh nắng ban mai ấm áp cùng chuyển động máy quay tinh tế.
+
+Quảng cáo ẩm thực chân thực như ảnh chụp, chất lượng quảng cáo cao cấp, kết cấu chân thực, chuyển cảnh mượt mà, độ sâu trường ảnh nông, ánh sáng điện ảnh, cách trình bày tự nhiên ngon mắt, bao bì chính xác nguyên bản, không chèn chữ, không có hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

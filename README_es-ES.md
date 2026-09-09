@@ -186,20 +186,32 @@ Toma comercial cinematográfica dinámica en 3D de fideos instantáneos. Macro e
 
 <a name="prompt-2097188060098101543"></a>
 
-### Traducción en curso
+### Un prompt para comercial cinematográfico vertical de Nutella de 10 segundos con desglose plano a plano, desde el push-in al tarro hasta el untado en tostada y el hero shot.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicación original](https://x.com/Urwa_345/status/2097188060098101543)
 
 Marketing de producto · Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt para comercial cinematográfico vertical de Nutella de 10 segundos con desglose plano a plano, desde el push-in al tarro hasta el untado en tostada y el hero shot.
 
 <img src="covers/2097188060098101543.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio cinematográfico premium de Nutella de 10 segundos en formato vertical 9:16.
+
+0–2 s: Lento push-in cinematográfico hacia el tarro de Nutella en una hermosa mesa de desayuno.
+
+2–4 s: Toma macro de la cremosa Nutella untándose suavemente sobre una tostada caliente.
+
+4–6 s: Primer plano de una cuchara levantando un remolino brillante de Nutella del tarro, en un movimiento lento y satisfactorio.
+
+6–8 s: Transición rápida y elegante a una tostada con Nutella terminada colocada sobre la mesa del desayuno.
+
+8–10 s: Toma hero shot final del tarro de Nutella con tostadas y avellanas alrededor, cálida luz matutina y sutil movimiento de cámara.
+
+Comercial de comida fotorrealista, calidad publicitaria premium, texturas realistas, transiciones suaves, profundidad de campo reducida, iluminación cinematográfica, presentación natural y apetitosa, empaque auténtico, sin superposiciones de texto, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)
