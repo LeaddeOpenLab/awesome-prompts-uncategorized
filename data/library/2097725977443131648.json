@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T20:25:46.009Z",
+  "model": "unknown-image",
+  "prompt": "將這張照片轉換成收藏版行動公仔。保留人物可辨識的臉部特徵與髮型。將公仔放入高級零售商品包裝中，並加入與人物興趣相關的迷你配件。採用專業商品攝影風格、真實材質、有趣細節，以及精緻的 3D 渲染效果。",
+  "promptTranslations": {
+    "en": "Convert this photo into a collectible action figure. Retain the person's recognizable facial features and hairstyle. Place the figure inside premium retail product packaging and include miniature accessories related to the person's interests. Employ a professional product photography style, realistic textures, fun details, and refined 3D rendering effects."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for transforming a photo into a collectible action figure inside premium retail packaging, featuring the person's likeness, related miniature accessories, 3D rendering, and product photography style."
+  },
+  "translationVersion": 2,
+  "summary": "將照片轉換為裝在高級商品包裝盒內的收藏版行動公仔，包含人物特徵及相關迷你配件的 3D 渲染與商品攝影風格提示詞。",
+  "summaryEn": "A prompt for transforming a photo into a collectible action figure packaged in retail box, featuring recognizable personal traits and themed miniature accessories in a 3D rendered commercial photography style.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097725977443131648",
+    "canonicalUrl": "https://x.com/SylviaTiongX/status/2097725977443131648",
+    "author": {
+      "username": "SylviaTiongX",
+      "displayName": "Sylvia Tiong",
+      "profileUrl": "https://x.com/SylviaTiongX"
+    },
+    "publishedAt": "2026-09-09T16:37:01.000Z",
+    "collectedAt": "2026-09-09T20:16:32.197Z",
+    "language": "zh",
+    "originalText": "星期三｜提示詞實驗室\n一張照片．無限創意世界 ✨\n\nAI 圖像創作最好玩的地方之一，就是看著同一張照片，透過不同的想法，變成完全不同的作品。\n\n今天我做了一個有趣的實驗：把自己的照片變成一個收藏版行動公仔（Collectible Action Figure），放進精緻的商品包裝中，再加入一些代表我的興趣、生活與價值觀的小配件。😊\n\n好玩之餘，其實也藏著一個很實用的提示詞技巧：\n\n📸 上傳照片\n✨ 告訴 AI 想轉換成什麼\n🎯 描述需要保留或加入的關鍵細節\n🌎 加入場景、氛圍與視覺風格\n➡️ 讓 AI 開始創作！\n\n這是我今天使用的提示詞：\n\n“將這張照片轉換成收藏版行動公仔。保留人物可辨識的臉部特徵與髮型。將公仔放入高級零售商品包裝中，並加入與人物興趣相關的迷你配件。採用專業商品攝影風格、真實材質、有趣細節，以及精緻的 3D 渲染效果。”\n\n接下來才是最好玩的部分——只要改變其中一個創意，就可以繼續探索。\n\n你可以把「行動公仔」換成迷你人物、積木世界、80 年代復古肖像、奇幻冒險家、動畫電影場景……甚至創造一個完全屬於自己的新世界。\n\n💡 Prompt Lab 小技巧：\n好的提示詞不一定要很複雜。先把想法說清楚，再加入真正重要的細節，最後透過一次次嘗試來改進。\n\n一張照片．一個想法．無限創意可能 ❤️\n\n如果是你，你最想把自己的照片變成什麼？\n\nSylvia AI 學習日記\n保持好奇心．持續學習．與 AI 一起成長 ❤️\n2026 年 9 月 9 日｜星期三\n\n#SylviaAI學習日記 #提示詞實驗室 #AI提示詞 #AI圖像生成 #AI創作 #生成式AI #AI藝術 #PromptLab #AICreativity #學習AI #保持好奇心 #持續學習 #與AI一起成長",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyeqIzbIAAD-OM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyeqIzbIAAD-OM.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRyeqI5aUAAO2uv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRyeqI5aUAAO2uv.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 59
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SylviaTiongX/status/2097725977443131648",
+  "coverUrl": "https://pbs.twimg.com/media/HRyeqIzbIAAD-OM.jpg",
+  "coverPath": "images/2097725977443131648-1.jpg",
+  "imagePaths": [
+    "images/2097725977443131648-1.jpg",
+    "images/2097725977443131648-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRyeqIzbIAAD-OM",
+    "x-image:/media/HRyeqI5aUAAO2uv",
+    "x-post:2097725977443131648"
+  ],
+  "analysis": {
+    "summary": "將照片轉換為裝在高級商品包裝盒內的收藏版行動公仔，包含人物特徵及相關迷你配件的 3D 渲染與商品攝影風格提示詞。",
+    "summaryEn": "A prompt for transforming a photo into a collectible action figure packaged in retail box, featuring recognizable personal traits and themed miniature accessories in a 3D rendered commercial photography style.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "附带的图片展示了一个以真人照片转换而来的玩偶行动公仔，置于高档零售吸塑盒包装中，右侧配有手机、笔电、书籍、小狗、地球仪等兴趣迷你配件，具有极佳的3D渲染和商品摄影质感，与提示词描述高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "將這張照片轉換成收藏版行動公仔。保留人物可辨識的臉部特徵與髮型。將公仔放入高級零售商品包裝中，並加入與人物興趣相關的迷你配件。採用專業商品攝影風格、真實材質、有趣細節，以及精緻的 3D 渲染效果。",
+    "sourceRange": {
+      "start": 275,
+      "end": 373
+    },
+    "translations": {
+      "zh": "將這張照片轉換成收藏版行動公仔。保留人物可辨識的臉部特徵與髮型。將公仔放入高級零售商品包裝中，並加入與人物興趣相關的迷你配件。採用專業商品攝影風格、真實材質、有趣細節，以及精緻的 3D 渲染效果。",
+      "en": "Transform this photo into a collectible action figure. Retain identifiable facial features and hairstyle of the person. Place the figure in high-end retail merchandise packaging, and include miniature accessories related to the person's interests. Adopt a professional commercial product photography style, realistic textures, fun details, and an exquisite 3D rendering effect."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "把个人照片转换成装在零售包装盒里的收藏版行动公仔及专属迷你配件玩具风格商品图",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
