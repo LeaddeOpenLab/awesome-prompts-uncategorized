@@ -222,13 +222,13 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2096970899622948972"></a>
 
-### Übersetzung läuft
+### Handgemalter Gouache-Karikaturstil auf Baumwollpapier mit Grün-, Rosa- und Cremetönen.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Originalbeitrag](https://x.com/MissDelulu9/status/2096970899622948972)
 
 Illustration · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Handgemalter Gouache-Karikaturstil auf Baumwollpapier mit Grün-, Rosa- und Cremetönen.
 
 <img src="images/2096970899622948972-1.jpg" alt="Bild 1" width="480" />
 
@@ -237,7 +237,7 @@ Illustration · Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumwollpapier. Bewahre die exakte Identität der Person, die natürliche Asymmetrie, die wichtigsten Gesichtszüge, das Haar, den Körperbau und das Originaloutfit. Verwende kühne, flächige Formen, selbstbewusste Konturen, sichtbare Papierkörnung und subtile Pigmenttextur. Stilisierte Proportionen mit ausdrucksstarker Haltung, vergrößerten grafischen Augen und einer dynamischen Pose von der Taille aufwärts. Farbpalette: zu gleichen Teilen Salbei-/Olivgrün, Rosapink und warmes Creme. Kein Realismus, kein Anime-Gesicht, kein Verschönern, Glätten, 3D-Schattierungen, Text, Logos oder Unordnung. Eindeutig dieselbe Person, eindeutig eine Zeichnung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

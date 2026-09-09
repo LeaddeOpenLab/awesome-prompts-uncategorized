@@ -222,13 +222,13 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2096970899622948972"></a>
 
-### Traduction en cours
+### Style de caricature à la gouache peinte à la main sur papier de coton avec des tons verts, roses et crème.
 
 Auteur：[@MissDelulu9](https://x.com/MissDelulu9) · [Publication originale](https://x.com/MissDelulu9/status/2096970899622948972)
 
 Illustration · Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Style de caricature à la gouache peinte à la main sur papier de coton avec des tons verts, roses et crème.
 
 <img src="images/2096970899622948972-1.jpg" alt="Image 1" width="480" />
 
@@ -237,7 +237,7 @@ Illustration · Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Transformez la photo en une caricature à la gouache peinte à la main sur du papier de coton crème. Préservez l'identité exacte de la personne, son asymétrie naturelle, les traits clés du visage, les cheveux, la silhouette et la tenue originale. Utilisez des formes plates et audacieuses, des contours assurés, un grain de papier visible et une texture de pigment subtile. Proportions stylisées avec une attitude expressive, de grands yeux graphiques agrandis et une pose dynamique à partir de la taille. Palette : vert sauge/olive, rose et crème chaud à parts égales. Aucun réalisme, visage d'anime, embellissement, lissage, ombrage 3D, texte, logos ou encombrement. Clairement la même personne, clairement un dessin.
 ```
 
 [↑ Retour aux catégories](#catalog)

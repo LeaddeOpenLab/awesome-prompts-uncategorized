@@ -222,13 +222,13 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2096970899622948972"></a>
 
-### Tradução em andamento
+### Estilo de caricatura em guache pintada à mão em papel de algodão com tons de verde, rosa e creme.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2096970899622948972)
 
 Ilustração · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Estilo de caricatura em guache pintada à mão em papel de algodão com tons de verde, rosa e creme.
 
 <img src="images/2096970899622948972-1.jpg" alt="Imagem 1" width="480" />
 
@@ -237,7 +237,7 @@ Ilustração · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Transforme a foto em uma caricatura em guache pintada à mão sobre papel de algodão creme. Preserve a identidade exata da pessoa, a assimetria natural, os traços faciais essenciais, o cabelo, o porte físico e o traje original. Use formas planas e marcantes, contornos firmes, textura visível do papel e uma sutil textura de pigmento. Proporções estilizadas com uma atitude expressiva, olhos gráficos ampliados e uma pose dinâmica da cintura para cima. Paleta: verde-oliva/sálvia, rosa e creme quente em proporções iguais. Sem realismo, rosto de anime, embelezamento, suavização, sombreamento 3D, texto, logotipos ou excesso de elementos. Claramente a mesma pessoa, claramente um desenho.
 ```
 
 [↑ Voltar às categorias](#catalog)

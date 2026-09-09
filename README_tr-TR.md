@@ -222,13 +222,13 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2096970899622948972"></a>
 
-### Çeviri sürüyor
+### Yeşil, pembe ve krem tonlarında pamuklu kağıt üzerinde el yapımı guaj karikatür tarzı.
 
 Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https://x.com/MissDelulu9/status/2096970899622948972)
 
 İllüstrasyon · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yeşil, pembe ve krem tonlarında pamuklu kağıt üzerinde el yapımı guaj karikatür tarzı.
 
 <img src="images/2096970899622948972-1.jpg" alt="Görsel 1" width="480" />
 
@@ -237,7 +237,7 @@ Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https:/
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre dönüştürün. Kişinin birebir kimliğini, doğal asimetrisini, temel yüz hatlarını, saçını, yapısını ve orijinal kıyafetini koruyun. Belirgin düz şekiller, kendinden emin konturlar, görünür kağıt dokusu ve hafif pigment dokusu kullanın. Etkileyici bir tavır, büyütülmüş grafik gözler ve dinamik belden yukarı bir pozla stilize edilmiş oranlar. Renk paleti: eşit ağırlıkta adaçayı/zeytin yeşili, gül pembesi ve sıcak krem. Gerçekçilik, anime yüzü, güzelleştirme, pürüzsüzleştirme, 3D gölgelendirme, metin, logolar veya karmaşa olmasın. Açıkça aynı kişi, açıkça bir çizim.
 ```
 
 [↑ Kategorilere dön](#catalog)

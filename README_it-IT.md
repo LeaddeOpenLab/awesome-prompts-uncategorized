@@ -222,13 +222,13 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2096970899622948972"></a>
 
-### Traduzione in corso
+### Stile caricatura a guazzo dipinta a mano su carta di cotone nei toni del verde, rosa e crema.
 
 Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2096970899622948972)
 
 Illustrazione · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Stile caricatura a guazzo dipinta a mano su carta di cotone nei toni del verde, rosa e crema.
 
 <img src="images/2096970899622948972-1.jpg" alt="Immagine 1" width="480" />
 
@@ -237,7 +237,7 @@ Illustrazione · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone color crema. Preserva l'esatta identità della persona, la naturale asimmetria, i tratti salienti del viso, i capelli, la corporatura e l'abbigliamento originale. Usa forme piatte e audaci, contorni decisi, grana della carta visibile e una sottile texture di pigmento. Proporzioni stilizzate con un atteggiamento espressivo, occhi grafici ingranditi e una posa dinamica dalla vita in su. Tavolozza: verde salvia/oliva, rosa tenue e crema caldo in parti uguali. Niente realismo, volti anime, abbellimenti, levigature, ombreggiature 3D, testi, loghi o disordine. Chiaramente la stessa persona, chiaramente un disegno.
 ```
 
 [↑ Torna alle categorie](#catalog)
