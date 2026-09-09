@@ -274,20 +274,20 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 
 <a name="prompt-2097507029858300297"></a>
 
-### Đang dịch
+### Minh họa kỳ ảo 3D CGI đầy mê hoặc về chú cáo con mặc áo gi-lê vàng và chú nai con trên lối đi lát đá mờ sương.
 
 Tác giả：[@RockGrokAI](https://x.com/RockGrokAI) · [Bài gốc](https://x.com/RockGrokAI/status/2097507029858300297)
 
 Minh họa · Kết xuất 3D · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Minh họa kỳ ảo 3D CGI đầy mê hoặc về chú cáo con mặc áo gi-lê vàng và chú nai con trên lối đi lát đá mờ sương.
 
 <img src="covers/2097507029858300297.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Minh họa kỳ ảo 3D CGI đầy mê hoặc về một chú cáo con đáng yêu và một chú nai con hiền lành cùng đứng trên con đường đá nứt nẻ giữa khung cảnh núi đá mờ sương. Chú cáo con lông xù có bộ lông màu cam rực rỡ điểm xuyết sắc trắng, chiếc đuôi rậm rạp, đôi mắt ngọc lục bảo to tròn lấp lánh, túm lông dựng đứng màu vàng kim trên đỉnh đầu và mặc một chiếc áo gi-lê thêu vàng lộng lẫy. Chú đang ngước nhìn chú nai con có bộ lông mềm mại màu nâu nhạt điểm đốm trắng, đôi mắt to giàu biểu cảm và vẻ mặt ngọt ngào. Bao quanh chúng là màn sương mờ ảo, vách đá tối màu, những thân cây gồ ghề vặn vẹo và những bông hoa oải hương màu tím tươi tốt. Ánh sáng thể tích mềm mại, kết cấu lông chi tiết, tông màu đất phong phú kết hợp với sắc tím sống động, chiều sâu điện ảnh, bầu không khí mê hoặc và ấm áp.
 ```
 
 [↑ Về danh mục](#catalog)

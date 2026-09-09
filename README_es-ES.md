@@ -274,20 +274,20 @@ Transforma la foto en una caricatura al gouache pintada a mano sobre papel de al
 
 <a name="prompt-2097507029858300297"></a>
 
-### Traducción en curso
+### Ilustración fantástica y caprichosa en CGI 3D de un zorrillo bebé con chaleco dorado y un cervatillo en un camino de piedra brumoso.
 
 Autor：[@RockGrokAI](https://x.com/RockGrokAI) · [Publicación original](https://x.com/RockGrokAI/status/2097507029858300297)
 
 Ilustración · Render 3D · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Ilustración fantástica y caprichosa en CGI 3D de un zorrillo bebé con chaleco dorado y un cervatillo en un camino de piedra brumoso.
 
 <img src="covers/2097507029858300297.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Ilustración fantástica y caprichosa en CGI 3D de un adorable zorrillo bebé y un tierno cervatillo juntos en un camino de piedra agrietada dentro de un paisaje rocoso y brumoso. El esponjoso zorro tiene un pelaje naranja vibrante con detalles blancos, una cola tupida, enormes ojos esmeralda brillantes, mechones dorados puntiagudos en la cabeza y un chaleco dorado ricamente bordado. Mira hacia arriba al cervatillo, que tiene un suave pelaje marrón claro con motas blancas, grandes ojos expresivos y un gesto dulce. Rodeados de densa niebla, oscuros acantilados rocosos, árboles retorcidos y exuberantes flores de lavanda púrpura. Iluminación volumétrica suave, texturas detalladas del pelaje, ricos tonos tierra con morados vivos, profundidad cinematográfica y una atmósfera encantadora y conmovedora.
 ```
 
 [↑ Volver a categorías](#catalog)
