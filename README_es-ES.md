@@ -56,13 +56,13 @@ Traducción en curso
 
 <a name="prompt-2097217893767303361"></a>
 
-### Traducción en curso
+### Prompt de fotografía realista de una joven japonesa de cabello castaño ceniza con una camiseta oversize de cuello ancho que se inclina profundamente hacia adelante para escribir con un bolígrafo en un papel sobre una mesa en un recinto de eventos interior.
 
 Autor：[@kamakirin13993](https://x.com/kamakirin13993) · [Publicación original](https://x.com/kamakirin13993/status/2097217893767303361)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía realista de una joven japonesa de cabello castaño ceniza con una camiseta oversize de cuello ancho que se inclina profundamente hacia adelante para escribir con un bolígrafo en un papel sobre una mesa en un recinto de eventos interior.
 
 <img src="images/2097217893767303361-1.jpg" alt="Imagen 1" width="480" />
 
@@ -73,7 +73,7 @@ Fotografía · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Una joven japonesa con cabello castaño ceniza cortado en capas cortas, mirando hacia abajo. Viste una camiseta oversize con un cuello amplio y abierto y vaqueros de mezclilla. Frente a ella hay una mesa, y sobre la mesa hay una hoja de papel blanco para fotocopias. Sostiene un bolígrafo con la mano derecha y, desde una posición de pie, se inclina profundamente hacia adelante intentando escribir en el papel. Su mano izquierda está sobre la mesa. El fondo es un recinto de eventos en interiores. Iluminación natural, piel natural. Textura de tela natural en la ropa. Estilo de fotografía realista con detalles minuciosos hasta la textura de la piel, alta resolución.
 ```
 
 [↑ Volver a categorías](#catalog)

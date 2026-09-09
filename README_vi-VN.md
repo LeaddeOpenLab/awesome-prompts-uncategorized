@@ -56,13 +56,13 @@ Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bả
 
 <a name="prompt-2097217893767303361"></a>
 
-### Đang dịch
+### Prompt ảnh chụp chân thực về một người phụ nữ trẻ Nhật Bản tóc nâu tro mặc áo thun oversize cổ rộng, cúi gập người sâu để viết bút lên tờ giấy trên bàn tại một hội trường sự kiện trong nhà.
 
 Tác giả：[@kamakirin13993](https://x.com/kamakirin13993) · [Bài gốc](https://x.com/kamakirin13993/status/2097217893767303361)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chụp chân thực về một người phụ nữ trẻ Nhật Bản tóc nâu tro mặc áo thun oversize cổ rộng, cúi gập người sâu để viết bút lên tờ giấy trên bàn tại một hội trường sự kiện trong nhà.
 
 <img src="images/2097217893767303361-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -73,7 +73,7 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một người phụ nữ trẻ người Nhật Bản với mái tóc màu nâu tro cắt tỉa layer ngắn, đang nhìn xuống dưới. Cô ấy mặc một chiếc áo phông oversize cổ khoét rộng và quần jeans denim. Trước mặt cô ấy là một chiếc bàn, trên bàn có một tờ giấy in màu trắng. Cô cầm một cây bút bằng tay phải, từ tư thế đứng cúi gập người sâu về phía trước để chuẩn bị viết lên tờ giấy. Tay trái đặt trên bàn. Bối cảnh là một hội trường sự kiện trong nhà. Ánh sáng tự nhiên, làn da tự nhiên. Chất liệu vải tự nhiên của trang phục. Phong cách ảnh chụp thực tế mô tả chi tiết đến từng kết cấu của làn da, độ phân giải cao.
 ```
 
 [↑ Về danh mục](#catalog)
