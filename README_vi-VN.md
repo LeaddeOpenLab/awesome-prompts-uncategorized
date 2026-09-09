@@ -310,13 +310,13 @@ Kết xuất 3D · Đã xuất bản
 
 <a name="prompt-2096936643173216486"></a>
 
-### Đang dịch
+### Lời nhắc để chuyển đổi ảnh tham khảo thành chân dung retro năm 1985 chân thực như ảnh chụp, mang phong cách thời trang thập niên 80 đích thực, tóc đánh phồng và tính thẩm mỹ của phim 35mm.
 
 Tác giả：[@SalaheldinNehal](https://x.com/SalaheldinNehal) · [Bài gốc](https://x.com/SalaheldinNehal/status/2096936643173216486)
 
 Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc để chuyển đổi ảnh tham khảo thành chân dung retro năm 1985 chân thực như ảnh chụp, mang phong cách thời trang thập niên 80 đích thực, tóc đánh phồng và tính thẩm mỹ của phim 35mm.
 
 <img src="images/2096936643173216486-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -327,7 +327,7 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức ảnh đính kèm làm tài liệu tham khảo. Giữ nguyên các đường nét khuôn mặt, nụ cười, màu da, dáng mắt và nhận diện tổng thể của tôi. Hãy tạo hình lại cho tôi như thể tôi đang sống vào năm 1985 với các xu hướng thời trang và làm đẹp đích thực của thập niên 1980: mái tóc đánh phồng bồng bềnh, trang điểm mắt đậm, má hồng màu hoa hồng, son môi lì, khuyên tai tròn lớn, áo khoác denim mài acid-wash, áo neon rực rỡ, quần jean cạp cao và các phụ kiện cổ điển của thập niên 1980. Đặt tôi trong một bối cảnh thập niên 1980 chân thực với những tấm áp phích cổ điển, máy phát băng cassette, đĩa than và ánh sáng ấm áp kiểu phim nhựa. Hãy làm cho nó giống như một bức ảnh chụp phim 35mm chất lượng cao thực thụ từ giữa những năm 1980 với hạt phim tinh tế và tông màu hoài cổ. Hình ảnh phải mang tính chân thực như ảnh chụp và giữ được nét giống tôi một cách rõ rệt—chứ không phải một nhân vật thập niên 1980 chung chung.
 ```
 
 [↑ Về danh mục](#catalog)
