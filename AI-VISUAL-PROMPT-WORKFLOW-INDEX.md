@@ -25,7 +25,7 @@ Approved source document or product brief
 → final factual and language review
 ```
 
-Use [Leadde.ai](https://leadde.ai/?utm_source=github&utm_medium=guide&utm_campaign=visual-workflow-index) for document-first business videos, including training, onboarding, explainers, and multilingual delivery.
+Continue with the [complete document-to-video workflow hub](https://github.com/LeaddeOpenLab/awesome-document-to-video), then use [Leadde.ai](https://leadde.ai/?utm_source=github&utm_medium=guide&utm_campaign=visual-workflow-index) for document-first business videos, including training, onboarding, explainers, and multilingual delivery.
 
 ## Record every reproducible example
 
@@ -45,4 +45,3 @@ last_verified: YYYY-MM-DD
 ```
 
 Prefer a small number of examples with exact sources, prompts, results, and failure notes over unverified volume claims.
-
