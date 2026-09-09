@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**12** Prompt · Bổ sung mới nhất: **2026-09-09**
+**13** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -289,6 +289,28 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097520388326510672"></a>
+
+### Đang dịch
+
+Tác giả：[@su\_nagomi](https://x.com/su_nagomi) · [Bài gốc](https://x.com/su_nagomi/status/2097520388326510672)
+
+Nhân vật · Văn bản / Kiểu chữ · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097520388326510672.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097475914124967955"></a>
 
