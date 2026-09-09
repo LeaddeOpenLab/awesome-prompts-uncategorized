@@ -558,7 +558,7 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 
 <a name="prompt-2097756013583900701"></a>
 
-### Traduzione in corso
+### Un prompt per generare varie inquadrature di composizione in stile video musicale Vocaloid come un'immagine a griglia 3x3 in formato 16:9, utilizzando un'immagine di riferimento del personaggio.
 
 Autore：[@tetumemo](https://x.com/tetumemo) · [Post originale](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -566,7 +566,7 @@ Fumetto / Storyboard · Personaggio · Pubblicato
 
 Post originale：[@8co28](https://x.com/8co28) · [Post originale](https://x.com/8co28/status/2097412340274934097)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per generare varie inquadrature di composizione in stile video musicale Vocaloid come un'immagine a griglia 3x3 in formato 16:9, utilizzando un'immagine di riferimento del personaggio.
 
 <img src="images/2097756013583900701-1.jpg" alt="Immagine 1" width="480" />
 
@@ -583,7 +583,7 @@ Post originale：[@8co28](https://x.com/8co28) · [Post originale](https://x.com
 **Prompt**
 
 ```text
-Traduzione in corso
+Genera varie inquadrature del video musicale Vocaloid di questo personaggio in una griglia 3x3, 16:9
 ```
 
 [↑ Torna alle categorie](#catalog)

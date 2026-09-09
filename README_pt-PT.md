@@ -558,7 +558,7 @@ Como teria sido o meu aspeto nos anos 1980? Usa a fotografia em anexo como refer
 
 <a name="prompt-2097756013583900701"></a>
 
-### Tradução em curso
+### Um prompt para gerar diversos cortes de composição no estilo de videoclipe de Vocaloid como uma imagem em grelha 3x3 no formato 16:9, usando uma imagem de referência de personagem.
 
 Autor：[@tetumemo](https://x.com/tetumemo) · [Publicação original](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -566,7 +566,7 @@ Banda desenhada / Storyboard · Personagem · Publicado
 
 Publicação original：[@8co28](https://x.com/8co28) · [Publicação original](https://x.com/8co28/status/2097412340274934097)
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt para gerar diversos cortes de composição no estilo de videoclipe de Vocaloid como uma imagem em grelha 3x3 no formato 16:9, usando uma imagem de referência de personagem.
 
 <img src="images/2097756013583900701-1.jpg" alt="Imagem 1" width="480" />
 
@@ -583,7 +583,7 @@ Publicação original：[@8co28](https://x.com/8co28) · [Publicação original]
 **Prompt**
 
 ```text
-Tradução em curso
+Gera vários cortes do videoclipe de Vocaloid desta personagem numa grelha 3x3, 16:9
 ```
 
 [↑ Voltar às categorias](#catalog)

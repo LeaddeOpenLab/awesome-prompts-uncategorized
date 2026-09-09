@@ -558,7 +558,7 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 
 <a name="prompt-2097756013583900701"></a>
 
-### Traducción en curso
+### Prompt para generar diversas tomas de composición al estilo de un video musical de Vocaloid como una imagen en cuadrícula de 3x3 y 16:9, utilizando una imagen de referencia de personaje.
 
 Autor：[@tetumemo](https://x.com/tetumemo) · [Publicación original](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -566,7 +566,7 @@ Cómic / Guion gráfico · Personaje · Publicado
 
 Publicación original：[@8co28](https://x.com/8co28) · [Publicación original](https://x.com/8co28/status/2097412340274934097)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar diversas tomas de composición al estilo de un video musical de Vocaloid como una imagen en cuadrícula de 3x3 y 16:9, utilizando una imagen de referencia de personaje.
 
 <img src="images/2097756013583900701-1.jpg" alt="Imagen 1" width="480" />
 
@@ -583,7 +583,7 @@ Publicación original：[@8co28](https://x.com/8co28) · [Publicación original]
 **Prompt**
 
 ```text
-Traducción en curso
+Genera varios cortes del video musical de Vocaloid de este personaje en una cuadrícula de 3x3, 16:9
 ```
 
 [↑ Volver a categorías](#catalog)

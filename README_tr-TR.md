@@ -558,7 +558,7 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 
 <a name="prompt-2097756013583900701"></a>
 
-### Çeviri sürüyor
+### Bir karakter referans görseli kullanarak Vocaloid müzik videosu tarzında çeşitli kompozisyon sahnelerini 3x3 16:9 ızgara görseli olarak üreten bir komut istemi.
 
 Yazar：[@tetumemo](https://x.com/tetumemo) · [Orijinal gönderi](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -566,7 +566,7 @@ Yazar：[@tetumemo](https://x.com/tetumemo) · [Orijinal gönderi](https://x.com
 
 Orijinal gönderi：[@8co28](https://x.com/8co28) · [Orijinal gönderi](https://x.com/8co28/status/2097412340274934097)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir karakter referans görseli kullanarak Vocaloid müzik videosu tarzında çeşitli kompozisyon sahnelerini 3x3 16:9 ızgara görseli olarak üreten bir komut istemi.
 
 <img src="images/2097756013583900701-1.jpg" alt="Görsel 1" width="480" />
 
@@ -583,7 +583,7 @@ Orijinal gönderi：[@8co28](https://x.com/8co28) · [Orijinal gönderi](https:/
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu karakterin Vocaloid müzik videosundan çeşitli sahneleri 3x3 ızgara formatında oluştur, 16:9
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -558,7 +558,7 @@ Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto al
 
 <a name="prompt-2097756013583900701"></a>
 
-### Übersetzung läuft
+### Ein Prompt zur Erstellung verschiedener Kompositionseinstellungen im Stil eines Vocaloid-Musikvideos als 3x3-Rasterbild im Format 16:9 unter Verwendung eines Charakter-Referenzbildes.
 
 Autor：[@tetumemo](https://x.com/tetumemo) · [Originalbeitrag](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -566,7 +566,7 @@ Comic / Storyboard · Charakter · Veröffentlicht
 
 Originalbeitrag：[@8co28](https://x.com/8co28) · [Originalbeitrag](https://x.com/8co28/status/2097412340274934097)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt zur Erstellung verschiedener Kompositionseinstellungen im Stil eines Vocaloid-Musikvideos als 3x3-Rasterbild im Format 16:9 unter Verwendung eines Charakter-Referenzbildes.
 
 <img src="images/2097756013583900701-1.jpg" alt="Bild 1" width="480" />
 
@@ -583,7 +583,7 @@ Originalbeitrag：[@8co28](https://x.com/8co28) · [Originalbeitrag](https://x.c
 **Prompt**
 
 ```text
-Übersetzung läuft
+Gib verschiedene Aufnahmen aus dem Vocaloid-Musikvideo dieser Figur in einem 3x3-Raster aus, 16:9
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

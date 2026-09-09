@@ -558,7 +558,7 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 
 <a name="prompt-2097756013583900701"></a>
 
-### Traduction en cours
+### Un prompt pour générer divers plans de composition dans le style d'un clip Vocaloid sous forme d'image en grille 3x3 en 16:9, en utilisant une image de référence du personnage.
 
 Auteur：[@tetumemo](https://x.com/tetumemo) · [Publication originale](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -566,7 +566,7 @@ Bande dessinée / Storyboard · Personnage · Publié
 
 Publication originale：[@8co28](https://x.com/8co28) · [Publication originale](https://x.com/8co28/status/2097412340274934097)
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt pour générer divers plans de composition dans le style d'un clip Vocaloid sous forme d'image en grille 3x3 en 16:9, en utilisant une image de référence du personnage.
 
 <img src="images/2097756013583900701-1.jpg" alt="Image 1" width="480" />
 
@@ -583,7 +583,7 @@ Publication originale：[@8co28](https://x.com/8co28) · [Publication originale]
 **Consigne**
 
 ```text
-Traduction en cours
+Génère différents plans du clip musical Vocaloid de ce personnage sous forme de grille 3x3, 16:9
 ```
 
 [↑ Retour aux catégories](#catalog)
