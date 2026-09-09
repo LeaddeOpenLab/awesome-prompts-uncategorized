@@ -35,13 +35,13 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2097562587437342750"></a>
 
-### Traducción en curso
+### Prompt maestro diseñado para dar sutilmente forma de animales a las nubes existentes en fotos de referencia mediante pareidolia, manteniendo texturas realistas de fotografía móvil.
 
 Autor：[@er1029iu](https://x.com/er1029iu) · [Publicación original](https://x.com/er1029iu/status/2097562587437342750)
 
 Fotografía · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt maestro diseñado para dar sutilmente forma de animales a las nubes existentes en fotos de referencia mediante pareidolia, manteniendo texturas realistas de fotografía móvil.
 
 <img src="images/2097562587437342750-1.jpg" alt="Imagen 1" width="480" />
 
@@ -52,7 +52,158 @@ Fotografía · Animal / Criatura · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+CLOUD DOPPELGÄNGER — PROMPT MAESTRO PARA FOTO REAL
+
+Utiliza la fotografía original adjunta como imagen de referencia fija.
+
+BLOQUEO DE REFERENCIA — MUY IMPORTANTE
+
+La fotografía original debe seguir siendo reconocible y visualmente coherente.
+
+Conservar:
+- el cielo azul original
+- la distribución real de las nubes
+- el ángulo de cámara original
+- los cables aéreos diagonales
+- los reflejos de la ventana
+- la iluminación natural existente
+- la calidad fotográfica imperfecta del mundo real
+- la perspectiva y composición originales
+
+No reemplaces todo el cielo.
+No rediseñes la escena.
+No crees un fondo completamente nuevo.
+
+--------------------------------------------------
+PASO 1 — ANALIZAR LA NUBE ORIGINAL
+--------------------------------------------------
+
+Primero, analiza detenidamente la nube principal en la fotografía adjunta.
+
+Estudia sus:
+
+- silueta exterior
+- masas redondeadas
+- zonas salientes
+- secciones estrechas
+- espacios vacíos
+- luces y sombras naturales
+- densidad de la nube
+- dirección
+- impresión visual general
+
+Luego, determina a qué animal real o criatura viviente familiar
+se asemeja más de forma natural la nube existente.
+
+El parecido debe provenir DE LA FORMA DE LA NUBE EXISTENTE.
+
+No fuerces un animal no relacionado dentro de la nube.
+
+--------------------------------------------------
+PASO 2 — INTERPRETACIÓN NATURAL DEL DOPPELGÄNGER
+--------------------------------------------------
+
+Transforma únicamente la percepción que el espectador tiene de la nube.
+
+La nube en sí debe seguir pareciendo una NUBE REAL.
+
+Utiliza las masas de nubes existentes como la estructura natural de:
+
+cabeza,
+cuerpo,
+orejas,
+hocico,
+patas,
+cola,
+u otros rasgos reconocibles.
+
+Enfatiza únicamente los rasgos que ya parezcan naturalmente posibles
+a partir de la silueta de la nube original.
+
+La reacción del espectador debe ser:
+
+"Espera... esa nube parece un animal".
+
+NO:
+
+"Alguien pegó un animal en el cielo".
+
+--------------------------------------------------
+LA NUBE REAL ES LO PRIMERO
+--------------------------------------------------
+
+Equilibrio visual objetivo:
+
+90–95% nube real
+5–10% parecido imaginativo
+
+La nube debe seguir estando hecha enteramente de:
+
+vapor de agua realista,
+partículas de nube suaves,
+difusión atmosférica natural,
+bordes de nube irregulares,
+luz solar real,
+profundidad volumétrica sutil.
+
+NO crees:
+
+un animal peludo flotando en el cielo,
+una cara de animal realista pegada en una nube,
+ojos de dibujos animados,
+ojos de aspecto humano,
+rasgos faciales perfectamente simétricos,
+pelaje CGI,
+texturas plásticas,
+apariencia de mascota 3D.
+
+--------------------------------------------------
+DETALLES FACIALES / DEL PERSONAJE
+--------------------------------------------------
+
+Si los detalles faciales son necesarios,
+deben ser extremadamente sutiles.
+
+Los ojos deben sugerirse principalmente mediante
+sombras naturales de las nubes y diminutas diferencias tonales.
+
+La nariz o la boca solo pueden aparecer como
+variaciones muy tenues en la densidad de la nube.
+
+Nada de ojos negros evidentes tipo botón.
+Nada de sonrisas exageradas.
+Nada de lenguas de dibujos animados.
+Nada de contornos faciales artificiales.
+
+El parecido con el animal debe surgir a través de la pareidolia.
+
+--------------------------------------------------
+CALIDAD DE FOTO REAL
+--------------------------------------------------
+
+El resultado final debe parecer
+una fotografía real espontánea capturada a través de una ventana.
+
+Fotografía natural de iPhone.
+
+Realismo de cámara de smartphone de calidad media,
+no un anuncio publicitario,
+no una fotografía de estudio.
+
+Mantén:
+
+un ligero resplandor de la ventana,
+pequeños reflejos,
+imperfecciones menores de exposición,
+neblina atmosférica natural,
+nitidez ligeramente desigual,
+rango dinámico realista,
+ruido de sensor sutil,
+variación de color natural.
+
+Evita el HDR excesivo.
+Evita el enfoque/nitidez excesivo.
+Evita la saturación artificial.
 ```
 
 [↑ Volver a categorías](#catalog)

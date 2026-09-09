@@ -35,13 +35,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2097562587437342750"></a>
 
-### Đang dịch
+### Prompt chính được thiết kế để tinh chỉnh khéo léo các đám mây hiện có trong ảnh tham chiếu thành hình dáng giống động vật thông qua hiện tượng pareidolia, đồng thời vẫn giữ được chất lượng ảnh chụp chân thực từ điện thoại di động.
 
 Tác giả：[@er1029iu](https://x.com/er1029iu) · [Bài gốc](https://x.com/er1029iu/status/2097562587437342750)
 
 Nhiếp ảnh · Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chính được thiết kế để tinh chỉnh khéo léo các đám mây hiện có trong ảnh tham chiếu thành hình dáng giống động vật thông qua hiện tượng pareidolia, đồng thời vẫn giữ được chất lượng ảnh chụp chân thực từ điện thoại di động.
 
 <img src="images/2097562587437342750-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -52,7 +52,158 @@ Nhiếp ảnh · Động vật / Sinh vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+CLOUD DOPPELGÄNGER — PROMPT CHÍNH CHO ẢNH CHỤP THỰC TẾ
+
+Sử dụng bức ảnh gốc đính kèm làm hình ảnh tham chiếu cố định.
+
+KHÓA THAM CHIẾU — RẤT QUAN TRỌNG
+
+Bức ảnh gốc phải giữ được khả năng nhận diện và tính nhất quán về mặt hình ảnh.
+
+Bảo toàn:
+- bầu trời xanh nguyên bản
+- sự phân bố mây thực tế
+- góc chụp máy ảnh ban đầu
+- các đường dây điện chéo phía trên
+- các hình ảnh phản chiếu trên cửa sổ
+- ánh sáng tự nhiên hiện có
+- chất lượng ảnh chụp không hoàn hảo ngoài đời thực
+- phối cảnh và bố cục gốc
+
+Không thay thế toàn bộ bầu trời.
+Không thiết kế lại khung cảnh.
+Không tạo một nền hoàn toàn mới.
+
+--------------------------------------------------
+BƯỚC 1 — PHÂN TÍCH ĐÁM MÂY GỐC
+--------------------------------------------------
+
+Đầu tiên, hãy phân tích kỹ lưỡng đám mây chính trong bức ảnh đính kèm.
+
+Nghiên cứu:
+
+- hình bóng đường viền bên ngoài
+- các khối bo tròn
+- các vùng nhô ra
+- các phần hẹp
+- các khoảng trống
+- vùng sáng và vùng tối tự nhiên
+- mật độ mây
+- hướng chuyển động
+- ấn tượng thị giác tổng thể
+
+Sau đó xác định xem con vật có thật hoặc sinh vật sống quen thuộc nào
+mà đám mây hiện có tự nhiên trông giống nhất.
+
+Sự tương đồng phải đến TỪ HÌNH DÁNG ĐÁM MÂY HIỆN CÓ.
+
+Không ép buộc một con vật không liên quan vào đám mây.
+
+--------------------------------------------------
+BƯỚC 2 — DIỄN GIẢI BẢN SAO TỰ NHIÊN
+--------------------------------------------------
+
+Chỉ biến đổi nhận thức của người xem về đám mây.
+
+Bản thân đám mây vẫn phải trông như một ĐÁM MÂY THẬT.
+
+Sử dụng các khối mây hiện có làm cấu trúc tự nhiên của:
+
+đầu,
+thân,
+tai,
+mõm,
+chân,
+đuôi,
+hoặc các đặc điểm nhận dạng khác.
+
+Chỉ nhấn mạnh các đặc điểm đã xuất hiện một cách khả thi tự nhiên
+từ hình bóng đám mây gốc.
+
+Phản ứng của người xem nên là:
+
+"Khoan đã... đám mây đó trông giống một con vật."
+
+KHÔNG PHẢI LÀ:
+
+"Ai đó đã dán một con vật lên bầu trời."
+
+--------------------------------------------------
+ƯU TIÊN MÂY THỰC TẾ
+--------------------------------------------------
+
+Cân bằng thị giác mục tiêu:
+
+90–95% mây thật
+5–10% sự giống nhau do tưởng tượng
+
+Đám mây phải tiếp tục được tạo thành hoàn toàn từ:
+
+hơi nước chân thực,
+các hạt mây mềm mại,
+sự khuếch tán khí quyển tự nhiên,
+các mép mây không đều,
+ánh sáng mặt trời thực tế,
+độ sâu thể tích tinh tế.
+
+KHÔNG tạo:
+
+một con vật đầy lông trôi nổi trên bầu trời,
+mặt con vật thực tế được dán vào đám mây,
+mắt hoạt hình,
+mắt giống người,
+các đường nét khuôn mặt đối xứng hoàn hảo,
+lông CGI,
+kết cấu nhựa,
+diện mạo linh vật 3D.
+
+--------------------------------------------------
+CHI TIẾT KHUÔN MẶT / NHÂN VẬT
+--------------------------------------------------
+
+Nếu các chi tiết khuôn mặt là cần thiết,
+chúng phải cực kỳ tinh tế.
+
+Mắt nên được gợi ý chủ yếu thông qua
+bóng đổ tự nhiên của mây và những khác biệt sắc độ rất nhỏ.
+
+Mũi hoặc miệng chỉ có thể xuất hiện dưới dạng
+những biến đổi mật độ mây rất mờ nhạt.
+
+Không có mắt cúc màu đen rõ rệt.
+Không có nụ cười cường điệu.
+Không có lưỡi hoạt hình.
+Không có đường viền khuôn mặt nhân tạo.
+
+Sự giống con vật phải xuất hiện thông qua hiện tượng pareidolia (ảo giác khuôn mặt).
+
+--------------------------------------------------
+CHẤT LƯỢNG ẢNH CHỤP THẬT
+--------------------------------------------------
+
+Kết quả cuối cùng phải trông giống như
+một bức ảnh chụp ngẫu hứng thực tế qua cửa sổ.
+
+Ảnh chụp tự nhiên bằng iPhone.
+
+Độ chân thực của camera điện thoại thông minh chất lượng trung bình,
+không phải quảng cáo,
+không phải ảnh chụp trong studio.
+
+Giữ lại:
+
+độ chói nhẹ trên cửa sổ,
+những hình phản chiếu nhỏ,
+những khiếm khuyết phơi sáng nhỏ,
+sương mù khí quyển tự nhiên,
+độ sắc nét hơi không đồng đều,
+dải tương phản động thực tế,
+độ nhiễu hạt cảm biến tinh tế,
+sự biến đổi màu sắc tự nhiên.
+
+Tránh HDR quá mức.
+Tránh làm nét quá mức.
+Tránh độ bão hòa màu nhân tạo.
 ```
 
 [↑ Về danh mục](#catalog)
