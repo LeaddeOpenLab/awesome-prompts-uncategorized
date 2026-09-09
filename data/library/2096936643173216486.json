@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:42:42.534Z",
+  "model": "unknown-image",
+  "prompt": "What would I have looked like in the 1980s? Use the attached photo as the reference. Preserve my exact facial features, smile, skin tone, eye shape, and overall identity. Restyle me as if I were living in 1985 with authentic 1980s fashion and beauty trends: voluminous teased hair, bold eye makeup, rosy blush, matte lipstick, large hoop earrings, an acid-wash denim jacket, a vibrant neon top, high-waisted jeans, and classic 1980s accessories. Place me in a realistic 1980s setting with retro posters, a cassette player, vinyl records, and warm film-style lighting. Make it look like a genuine high-quality 35mm photograph from the mid-1980s with subtle film grain and vintage color tones. The image should be photorealistic and maintain a strong resemblance to me—not a generic 1980s person.",
+  "promptTranslations": {
+    "en": "What would I have looked like in the 1980s? Use the attached photo as the reference. Preserve my exact facial features, smile, skin tone, eye shape, and overall identity. Restyle me as if I were living in 1985 with authentic 1980s fashion and beauty trends: voluminous teased hair, bold eye makeup, rosy blush, matte lipstick, large hoop earrings, an acid-wash denim jacket, a vibrant neon top, high-waisted jeans, and classic 1980s accessories. Place me in a realistic 1980s setting with retro posters, a cassette player, vinyl records, and warm film-style lighting. Make it look like a genuine high-quality 35mm photograph from the mid-1980s with subtle film grain and vintage color tones. The image should be photorealistic and maintain a strong resemblance to me—not a generic 1980s person."
+  },
+  "summaryTranslations": {
+    "en": "Prompt to transform a reference photo into a photorealistic 1985 retro portrait featuring authentic 80s fashion, teased hair, and 35mm film aesthetics."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt to transform a reference photo into a photorealistic 1985 retro portrait featuring authentic 80s fashion, teased hair, and 35mm film aesthetics.",
+  "summaryEn": "Prompt to transform a reference photo into a photorealistic 1985 retro portrait featuring authentic 80s fashion, teased hair, and 35mm film aesthetics.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096936643173216486",
+    "canonicalUrl": "https://x.com/SalaheldinNehal/status/2096936643173216486",
+    "author": {
+      "username": "SalaheldinNehal",
+      "displayName": "NoshyyBNB🐈😺",
+      "profileUrl": "https://x.com/SalaheldinNehal"
+    },
+    "publishedAt": "2026-09-07T12:20:29.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "My 80s Looks ✨️✨️\n\nPrompt: What would I have looked like in the 1980s? Use the attached photo as the reference. Preserve my exact facial features, smile, skin tone, eye shape, and overall identity. Restyle me as if I were living in 1985 with authentic 1980s fashion and beauty trends: voluminous teased hair, bold eye makeup, rosy blush, matte lipstick, large hoop earrings, an acid-wash denim jacket, a vibrant neon top, high-waisted jeans, and classic 1980s accessories. Place me in a realistic 1980s setting with retro posters, a cassette player, vinyl records, and warm film-style lighting. Make it look like a genuine high-quality 35mm photograph from the mid-1980s with subtle film grain and vintage color tones. The image should be photorealistic and maintain a strong resemblance to me—not a generic 1980s person.\n\nSend this prompt to ChatGPT with one of your recent pictures and share the results!",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRnQvdDaEAAEPKT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRnQvdDaEAAEPKT.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRnQv-AXQAAoXAS.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRnQv-AXQAAoXAS.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRnQwjeWcAADWof.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRnQwjeWcAADWof.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 304,
+      "repostCount": 9,
+      "replyCount": 15,
+      "quoteCount": 5,
+      "viewCount": 175934
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SalaheldinNehal/status/2096936643173216486",
+  "coverUrl": "https://pbs.twimg.com/media/HRnQvdDaEAAEPKT.jpg",
+  "coverPath": "images/2096936643173216486-1.jpg",
+  "imagePaths": [
+    "images/2096936643173216486-1.jpg",
+    "images/2096936643173216486-2.jpg",
+    "images/2096936643173216486-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRnQvdDaEAAEPKT",
+    "x-image:/media/HRnQv-AXQAAoXAS",
+    "x-image:/media/HRnQwjeWcAADWof",
+    "x-post:2096936643173216486"
+  ],
+  "analysis": {
+    "summary": "Prompt to transform a reference photo into a photorealistic 1985 retro portrait featuring authentic 80s fashion, teased hair, and 35mm film aesthetics.",
+    "summaryEn": "Prompt to transform a reference photo into a photorealistic 1985 retro portrait featuring authentic 80s fashion, teased hair, and 35mm film aesthetics.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images faithfully reproduce the 1980s teased hairstyle, hoop earrings, vintage neon/retro clothing, retro posters, and warm 35mm film look described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "What would I have looked like in the 1980s? Use the attached photo as the reference. Preserve my exact facial features, smile, skin tone, eye shape, and overall identity. Restyle me as if I were living in 1985 with authentic 1980s fashion and beauty trends: voluminous teased hair, bold eye makeup, rosy blush, matte lipstick, large hoop earrings, an acid-wash denim jacket, a vibrant neon top, high-waisted jeans, and classic 1980s accessories. Place me in a realistic 1980s setting with retro posters, a cassette player, vinyl records, and warm film-style lighting. Make it look like a genuine high-quality 35mm photograph from the mid-1980s with subtle film grain and vintage color tones. The image should be photorealistic and maintain a strong resemblance to me—not a generic 1980s person.",
+    "sourceRange": {
+      "start": 27,
+      "end": 821
+    },
+    "translations": {
+      "zh": "将参考照片转换为真实的1985年代复古肖像：保留原面部特征与微笑，添加大卷蓬松发型、浓眼妆、粉色腮红、大圆圈耳环、霓虹色上衣及高腰牛仔裤，置于带有复古海报、磁带播放机及35mm胶片质感的1980年代真实场景中。",
+      "en": "What would I have looked like in the 1980s? Use the attached photo as the reference. Preserve my exact facial features, smile, skin tone, eye shape, and overall identity. Restyle me as if I were living in 1985 with authentic 1980s fashion and beauty trends: voluminous teased hair, bold eye makeup, rosy blush, matte lipstick, large hoop earrings, an acid-wash denim jacket, a vibrant neon top, high-waisted jeans, and classic 1980s accessories. Place me in a realistic 1980s setting with retro posters, a cassette player, vinyl records, and warm film-style lighting. Make it look like a genuine high-quality 35mm photograph from the mid-1980s with subtle film grain and vintage color tones. The image should be photorealistic and maintain a strong resemblance to me—not a generic 1980s person."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait_restyling",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
