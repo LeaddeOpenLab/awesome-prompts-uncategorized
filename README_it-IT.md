@@ -14,13 +14,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**4** Prompt · Ultima aggiunta: **2026-09-09**
+**5** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Rendering 3D](#category-3d-render)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Rendering 3D](#category-3d-render) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Rendering 3D · Pubblicato
 **Riepilogo:** Traduzione in corso
 
 <img src="covers/2097514564875104516.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Altro
+
+<a name="prompt-2096817125864484954"></a>
+
+### Traduzione in corso
+
+Autore：[@Zyrellix](https://x.com/Zyrellix) · [Post originale](https://x.com/Zyrellix/status/2096817125864484954)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2096817125864484954.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 

@@ -14,13 +14,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**4** 筆內容 · 最新收錄: **2026-09-09**
+**5** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 **概括:** 翻譯中
 
 <img src="covers/2097514564875104516.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## 其他
+
+<a name="prompt-2096817125864484954"></a>
+
+### 翻譯中
+
+作者：[@Zyrellix](https://x.com/Zyrellix) · [查看 X 原帖](https://x.com/Zyrellix/status/2096817125864484954)
+
+角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2096817125864484954.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 

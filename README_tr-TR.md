@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**4** Prompt · Son eklenen: **2026-09-09**
+**5** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Yazar：[@VKs\_Host](https://x.com/VKs_Host) · [Orijinal gönderi](https://x.co
 **Özet:** Çeviri sürüyor
 
 <img src="covers/2097514564875104516.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Diğer
+
+<a name="prompt-2096817125864484954"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Zyrellix](https://x.com/Zyrellix) · [Orijinal gönderi](https://x.com/Zyrellix/status/2096817125864484954)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2096817125864484954.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 

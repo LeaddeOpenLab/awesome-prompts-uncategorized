@@ -14,13 +14,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**4** Prompts · Adição mais recente: **2026-09-09**
+**5** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Renderização 3D · Publicado
 **Resumo:** Tradução em curso
 
 <img src="covers/2097514564875104516.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Outros
+
+<a name="prompt-2096817125864484954"></a>
+
+### Tradução em curso
+
+Autor：[@Zyrellix](https://x.com/Zyrellix) · [Publicação original](https://x.com/Zyrellix/status/2096817125864484954)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2096817125864484954.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 

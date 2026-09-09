@@ -14,13 +14,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**4** Prompt · Bổ sung mới nhất: **2026-09-09**
+**5** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Kết xuất 3D · Đã xuất bản
 **Tóm tắt:** Đang dịch
 
 <img src="covers/2097514564875104516.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Khác
+
+<a name="prompt-2096817125864484954"></a>
+
+### Đang dịch
+
+Tác giả：[@Zyrellix](https://x.com/Zyrellix) · [Bài gốc](https://x.com/Zyrellix/status/2096817125864484954)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2096817125864484954.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 

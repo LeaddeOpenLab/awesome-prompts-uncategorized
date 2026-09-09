@@ -14,13 +14,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**4** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**5** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [3D-Rendering](#category-3d-render) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Autor：[@VKs\_Host](https://x.com/VKs_Host) · [Originalbeitrag](https://x.com/
 **Zusammenfassung:** Übersetzung läuft
 
 <img src="covers/2097514564875104516.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Sonstige
+
+<a name="prompt-2096817125864484954"></a>
+
+### Übersetzung läuft
+
+Autor：[@Zyrellix](https://x.com/Zyrellix) · [Originalbeitrag](https://x.com/Zyrellix/status/2096817125864484954)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2096817125864484954.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 

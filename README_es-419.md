@@ -14,13 +14,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**4** Prompts · Última incorporación: **2026-09-09**
+**5** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Renderizado 3D](#category-3d-render)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Renderizado 3D](#category-3d-render) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Renderizado 3D · Publicado
 **Resumen:** Traducción en curso
 
 <img src="covers/2097514564875104516.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Otros
+
+<a name="prompt-2096817125864484954"></a>
+
+### Traducción en curso
+
+Autor：[@Zyrellix](https://x.com/Zyrellix) · [Publicación original](https://x.com/Zyrellix/status/2096817125864484954)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2096817125864484954.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 

@@ -14,13 +14,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**4** 件 · 最新の追加: **2026-09-09**
+**5** 件 · 最新の追加: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [3D レンダリング](#category-3d-render) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -113,6 +113,32 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 **概要:** 翻訳中
 
 <img src="covers/2097514564875104516.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## その他
+
+<a name="prompt-2096817125864484954"></a>
+
+### 翻訳中
+
+作者：[@Zyrellix](https://x.com/Zyrellix) · [元の投稿](https://x.com/Zyrellix/status/2096817125864484954)
+
+キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2096817125864484954.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 

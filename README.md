@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**4** Prompts · Latest addition: **2026-09-09**
+**5** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -130,6 +130,32 @@ Author：[@VKs\_Host](https://x.com/VKs_Host) · [Source](https://x.com/VKs_Host
 
 ```text
 Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-other"></a>
+
+## Other
+
+<a name="prompt-2096817125864484954"></a>
+
+### A continuous 4K travel vlog video prompt depicting a young East Asian woman exploring various iconic locations in Istanbul.
+
+Author：[@Zyrellix](https://x.com/Zyrellix) · [Source](https://x.com/Zyrellix/status/2096817125864484954)
+
+Character · Published
+
+**Summary:** A continuous 4K travel vlog video prompt depicting a young East Asian woman exploring various iconic locations in Istanbul.
+
+<img src="covers/2096817125864484954.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A continuous 4K travel vlog video featuring a young East Asian woman with long dark hair, wearing a white crop top, open white shirt, and beige shorts, exploring Istanbul. The video seamlessly sequences through dynamic travel moments: starting with a close-up ASMR intro whispering into a mic near Hagia Sophia, transitioning to a handheld selfie camera spinning through a sunny square filled with tourists. Cut to a low-angle shot inside a historic mosque gazing up at grand domed ceilings and Ottoman arches, followed by a golden-hour rooftop moment near Galata Tower with her hair blowing softly in the breeze. She then stands on a Bosphorus ferry railing smiling at the camera, walks down a narrow cobblestone alley lined with outdoor cafes, offers a cup of Turkish coffee close to the lens in a cozy cafe, and ends with a wide cinematic twilight shot of the illuminated Istanbul skyline across the water. Hyper-detailed, photorealistic, 8k resolution, cinematic lighting, vibrant natural colors, fluid movement, photorealistic face and physics.
 ```
 
 [↑ Back to categories](#catalog)
