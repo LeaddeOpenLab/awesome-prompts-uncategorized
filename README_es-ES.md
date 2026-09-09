@@ -384,20 +384,20 @@ Traducción en curso
 
 <a name="prompt-2096817125864484954"></a>
 
-### Traducción en curso
+### Un prompt de vídeo continuo de vlog de viajes en 4K que muestra a una joven mujer de Asia oriental explorando varios lugares emblemáticos de Estambul.
 
 Autor：[@Zyrellix](https://x.com/Zyrellix) · [Publicación original](https://x.com/Zyrellix/status/2096817125864484954)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt de vídeo continuo de vlog de viajes en 4K que muestra a una joven mujer de Asia oriental explorando varios lugares emblemáticos de Estambul.
 
 <img src="covers/2096817125864484954.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un vídeo continuo de vlog de viajes en 4K protagonizado por una joven mujer de Asia oriental con pelo largo y oscuro, que viste un crop top blanco, camisa blanca abierta y pantalones cortos beige, explorando Estambul. El vídeo se encadena fluidamente a través de momentos dinámicos de viaje: comienza con una introducción ASMR en primer plano susurrando a un micrófono cerca de Santa Sofía, pasando a una cámara selfie en mano que gira en una plaza soleada llena de turistas. Se corta a un plano contrapicado dentro de una mezquita histórica contemplando grandiosos techos abovedados y arcos otomanos, seguido de un momento en una azotea a la hora dorada cerca de la Torre de Gálata con su cabello ondeando suavemente con la brisa. Luego se encuentra apoyada en la barandilla de un ferry del Bósforo sonriendo a la cámara, camina por un estrecho callejón empedrado flanqueado por cafeterías al aire libre, ofrece una taza de café turco cerca de la lente en una acogedora cafetería y finaliza con un plano cinematográfico amplio y crepuscular del iluminado horizonte de Estambul sobre el agua. Hiperdetallado, fotorrealista, resolución 8k, iluminación cinematográfica, colores naturales vibrantes, movimiento fluido, rostro y físicas fotorrealistas.
 ```
 
 [↑ Volver a categorías](#catalog)

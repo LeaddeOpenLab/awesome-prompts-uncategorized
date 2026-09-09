@@ -384,20 +384,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2096817125864484954"></a>
 
-### Đang dịch
+### Lời nhắc video vlog du lịch 4K liền mạch mô tả một phụ nữ trẻ Đông Á đang khám phá nhiều địa danh mang tính biểu tượng ở Istanbul.
 
 Tác giả：[@Zyrellix](https://x.com/Zyrellix) · [Bài gốc](https://x.com/Zyrellix/status/2096817125864484954)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video vlog du lịch 4K liền mạch mô tả một phụ nữ trẻ Đông Á đang khám phá nhiều địa danh mang tính biểu tượng ở Istanbul.
 
 <img src="covers/2096817125864484954.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một video vlog du lịch 4K liền mạch với nhân vật chính là một phụ nữ trẻ Đông Á có mái tóc đen dài, mặc áo crop top trắng, áo sơ mi trắng mở cúc và quần short màu be, đang khám phá Istanbul. Video chuyển tiếp mượt mà qua các khoảnh khắc du lịch sống động: bắt đầu bằng phần mở đầu ASMR cận cảnh thì thầm vào micro gần Hagia Sophia, chuyển sang camera selfie cầm tay xoay vòng trên một quảng trường đầy nắng tấp nập khách du lịch. Cắt sang góc quay thấp bên trong một nhà thờ Hồi giáo lịch sử ngước nhìn lên trần nhà vòm tráng lệ và các vòm kiến trúc Ottoman, tiếp theo là khoảnh khắc giờ vàng trên sân thượng gần Tháp Galata với mái tóc cô khẽ bay trong gió. Sau đó, cô đứng bên lan can phà Bosphorus mỉm cười trước ống kính, đi dạo qua con ngõ lát đá cuội hẹp với các quán cà phê ngoài trời, đưa một tách cà phê Thổ Nhĩ Kỳ lại gần ống kính trong một quán cà phê ấm cúng, và kết thúc bằng một cảnh quay hoàng hôn rộng đậm chất điện ảnh về đường chân trời Istanbul rực rỡ ánh đèn bên kia mặt nước. Siêu chi tiết, chân thực như ảnh chụp, độ phân giải 8k, ánh sáng điện ảnh, màu sắc tự nhiên rực rỡ, chuyển động mượt mà, khuôn mặt và vật lý chân thực.
 ```
 
 [↑ Về danh mục](#catalog)
