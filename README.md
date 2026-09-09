@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**2** Prompts · Latest addition: **2026-09-09**
+**3** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -65,6 +65,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097188060098101543"></a>
+
+### A 10-second cinematic vertical Nutella commercial prompt with shot-by-shot breakdown from jar push-in to spreading on toast and hero shot.
+
+Author：[@Urwa\_345](https://x.com/Urwa_345) · [Source](https://x.com/Urwa_345/status/2097188060098101543)
+
+Product Marketing · Cinematic / Film Still · Published
+
+**Summary:** A 10-second cinematic vertical Nutella commercial prompt with shot-by-shot breakdown from jar push-in to spreading on toast and hero shot.
+
+<img src="covers/2097188060098101543.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a premium 10-second cinematic Nutella advertisement in vertical 9:16 format.\n\n0–2 sec: Slow cinematic push-in toward the Nutella jar on a beautiful breakfast table.\n\n2–4 sec: Macro shot of creamy Nutella being spread smoothly across warm toast.\n\n4–6 sec: Close-up of a spoon lifting a glossy swirl of Nutella from the jar, slow satisfying motion.\n\n6–8 sec: Quick elegant transition to a finished Nutella toast placed on the breakfast table.\n\n8–10 sec: Final hero shot of the Nutella jar with toast and hazelnuts around it, warm morning sunlight and subtle camera movement.\n\nPhotorealistic food commercial, premium advertising quality, realistic textures, smooth transitions, shallow depth of field, cinematic lighting, appetizing natural presentation, authentic packaging, no text overlays, no watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096832293138726943"></a>
 

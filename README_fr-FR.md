@@ -14,7 +14,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**2** Prompts · Dernier ajout: **2026-09-09**
+**3** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -53,6 +53,28 @@ Traduction en cours
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2097188060098101543"></a>
+
+### Traduction en cours
+
+Auteur：[@Urwa\_345](https://x.com/Urwa_345) · [Publication originale](https://x.com/Urwa_345/status/2097188060098101543)
+
+Marketing produit · Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097188060098101543.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2096832293138726943"></a>
 

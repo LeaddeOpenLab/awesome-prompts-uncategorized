@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**2** Prompts · Última incorporación: **2026-09-09**
+**3** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -53,6 +53,28 @@ Traducción en curso
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2097188060098101543"></a>
+
+### Traducción en curso
+
+Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicación original](https://x.com/Urwa_345/status/2097188060098101543)
+
+Marketing de producto · Cine / Fotograma de película · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097188060098101543.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2096832293138726943"></a>
 
