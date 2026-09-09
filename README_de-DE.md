@@ -284,20 +284,20 @@ Zauberhafte 3D-CGI-Fantasy-Illustration eines bezaubernden Fuchswelpen und eines
 
 <a name="prompt-2097514564875104516"></a>
 
-### Übersetzung läuft
+### Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhetisch ansprechenden Design.
 
 Autor：[@VKs\_Host](https://x.com/VKs_Host) · [Originalbeitrag](https://x.com/VKs_Host/status/2097514564875104516)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhetisch ansprechenden Design.
 
 <img src="covers/2097514564875104516.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhetisch ansprechenden Design.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

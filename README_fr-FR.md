@@ -284,20 +284,20 @@ Illustration fantastique féerique en 3D CGI d'un adorable renardeau et d'un dou
 
 <a name="prompt-2097514564875104516"></a>
 
-### Traduction en cours
+### Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et esthétiquement agréable.
 
 Auteur：[@VKs\_Host](https://x.com/VKs_Host) · [Publication originale](https://x.com/VKs_Host/status/2097514564875104516)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et esthétiquement agréable.
 
 <img src="covers/2097514564875104516.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et esthétiquement agréable.
 ```
 
 [↑ Retour aux catégories](#catalog)

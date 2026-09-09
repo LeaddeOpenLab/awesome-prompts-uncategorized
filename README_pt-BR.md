@@ -284,20 +284,20 @@ Ilustração fantástica caprichosa em CGI 3D de um adorável filhote de raposa 
 
 <a name="prompt-2097514564875104516"></a>
 
-### Tradução em andamento
+### Crie para mim um rack de servidores para 6 Nvidia Sparks com um design eficiente e esteticamente agradável.
 
 Autor：[@VKs\_Host](https://x.com/VKs_Host) · [Publicação original](https://x.com/VKs_Host/status/2097514564875104516)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie para mim um rack de servidores para 6 Nvidia Sparks com um design eficiente e esteticamente agradável.
 
 <img src="covers/2097514564875104516.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie para mim um rack de servidores para 6 Nvidia Sparks com um design eficiente e esteticamente agradável.
 ```
 
 [↑ Voltar às categorias](#catalog)

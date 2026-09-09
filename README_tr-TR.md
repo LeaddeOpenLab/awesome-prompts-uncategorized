@@ -284,20 +284,20 @@ Sisli, kayalık bir manzarada çatlamış taş bir patikada birlikte duran sevim
 
 <a name="prompt-2097514564875104516"></a>
 
-### Çeviri sürüyor
+### Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip bir sunucu kabini oluştur.
 
 Yazar：[@VKs\_Host](https://x.com/VKs_Host) · [Orijinal gönderi](https://x.com/VKs_Host/status/2097514564875104516)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip bir sunucu kabini oluştur.
 
 <img src="covers/2097514564875104516.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip bir sunucu kabini oluştur.
 ```
 
 [↑ Kategorilere dön](#catalog)
