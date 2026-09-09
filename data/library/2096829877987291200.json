@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:43:05.159Z",
+  "model": "unknown-video",
+  "prompt": "Dynamic 3D cinematic commercial shot of instant noodles. Extreme slow-motion macro shot of raw ramen noodle block floating in mid-air surrounded by fresh flying ingredients like sliced cherry tomatoes, sweet corn, basil leaves, black olives, and chili flakes. Bright natural volumetric sunlight streaming through a rustic kitchen background. Smooth transition as the noodles drop into a pot of boiling hot water with rising steam, transforming into a steaming delicious bowl of noodles. The camera zooms out to reveal a warm kitchen setup with a yellow instant noodle packet in the background. Ultra-realistic food photography, 8k resolution, cinematic lighting, appetizing colors, 1080x1920 vertical format.\n\n​Floating Ingredients & Noodles:\n\n​Cinematic food photography, macro shot of raw instant noodle cake floating in mid-air with sliced tomatoes, black olives, basil leaves, corn, and spices flying in slow motion, warm sunlight, kitchen background, depth of field, 8k --ar 9:16\n\n​Boiling Water Transition:\n\n​Close-up shot of instant noodle block dipping into boiling hot water in a steel pot, thick rising steam clouds, dramatic flame splash at the bottom, high energy, crisp focus, hyper-realistic --ar 9:16\n\n​Final Bowl Presentation:\n\n​A steaming hot bowl of cooked instant noodles served with fresh herbs, cherry tomatoes, and olives, a fork lifting long noodle strands, yellow Maggi-style instant noodle packet in the blurred background, warm cozy lighting, professional food advertisement style --ar 9:16",
+  "promptTranslations": {
+    "en": "Dynamic 3D cinematic commercial shot of instant noodles. Extreme slow-motion macro shot of raw ramen noodle block floating in mid-air surrounded by fresh flying ingredients like sliced cherry tomatoes, sweet corn, basil leaves, black olives, and chili flakes. Bright natural volumetric sunlight streaming through a rustic kitchen background. Smooth transition as the noodles drop into a pot of boiling hot water with rising steam, transforming into a steaming delicious bowl of noodles. The camera zooms out to reveal a warm kitchen setup with a yellow instant noodle packet in the background. Ultra-realistic food photography, 8k resolution, cinematic lighting, appetizing colors, 1080x1920 vertical format.\n\nFloating Ingredients & Noodles:\n\nCinematic food photography, macro shot of raw instant noodle cake floating in mid-air with sliced tomatoes, black olives, basil leaves, corn, and spices flying in slow motion, warm sunlight, kitchen background, depth of field, 8k --ar 9:16\n\nBoiling Water Transition:\n\nClose-up shot of instant noodle block dipping into boiling hot water in a steel pot, thick rising steam clouds, dramatic flame splash at the bottom, high energy, crisp focus, hyper-realistic --ar 9:16\n\nFinal Bowl Presentation:\n\nA steaming hot bowl of cooked instant noodles served with fresh herbs, cherry tomatoes, and olives, a fork lifting long noodle strands, yellow Maggi-style instant noodle packet in the blurred background, warm cozy lighting, professional food advertisement style --ar 9:16"
+  },
+  "summaryTranslations": {
+    "en": "Cinematic 3D commercial sequence showing raw instant noodles floating with ingredients, dropping into boiling water, and final plated presentation."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic 3D commercial sequence showing raw instant noodles floating with ingredients, dropping into boiling water, and final plated presentation.",
+  "summaryEn": "Cinematic 3D commercial sequence showing raw instant noodles floating with ingredients, dropping into boiling water, and final plated presentation.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096829877987291200",
+    "canonicalUrl": "https://x.com/1H77k/status/2096829877987291200",
+    "author": {
+      "username": "1H77k",
+      "displayName": "Huma Ai",
+      "profileUrl": "https://x.com/1H77k"
+    },
+    "publishedAt": "2026-09-07T05:16:14.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "Prompt: \n\nDynamic 3D cinematic commercial shot of instant noodles. Extreme slow-motion macro shot of raw ramen noodle block floating in mid-air surrounded by fresh flying ingredients like sliced cherry tomatoes, sweet corn, basil leaves, black olives, and chili flakes. Bright natural volumetric sunlight streaming through a rustic kitchen background. Smooth transition as the noodles drop into a pot of boiling hot water with rising steam, transforming into a steaming delicious bowl of noodles. The camera zooms out to reveal a warm kitchen setup with a yellow instant noodle packet in the background. Ultra-realistic food photography, 8k resolution, cinematic lighting, appetizing colors, 1080x1920 vertical format.\n\n​Floating Ingredients & Noodles:\n\n​Cinematic food photography, macro shot of raw instant noodle cake floating in mid-air with sliced tomatoes, black olives, basil leaves, corn, and spices flying in slow motion, warm sunlight, kitchen background, depth of field, 8k --ar 9:16\n\n​Boiling Water Transition:\n\n​Close-up shot of instant noodle block dipping into boiling hot water in a steel pot, thick rising steam clouds, dramatic flame splash at the bottom, high energy, crisp focus, hyper-realistic --ar 9:16\n\n​Final Bowl Presentation:\n\n​A steaming hot bowl of cooked instant noodles served with fresh herbs, cherry tomatoes, and olives, a fork lifting long noodle strands, yellow Maggi-style instant noodle packet in the blurred background, warm cozy lighting, professional food advertisement style --ar 9:16",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/1H77k/status/2096829877987291200",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096829826955145216/img/GIrHeP8YQABakOiV.jpg",
+        "analysisUrl": "https://x.com/1H77k/status/2096829877987291200"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRlvp3_akAAX0JR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRlvp3_akAAX0JR.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 270,
+      "repostCount": 34,
+      "replyCount": 55,
+      "quoteCount": 1,
+      "viewCount": 56779
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/1H77k/status/2096829877987291200",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096829826955145216/img/GIrHeP8YQABakOiV.jpg",
+  "coverPath": "covers/2096829877987291200.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096829826955145216",
+    "x-image:/media/HRlvp3_akAAX0JR",
+    "x-post:2096829877987291200"
+  ],
+  "analysis": {
+    "summary": "Cinematic 3D commercial sequence showing raw instant noodles floating with ingredients, dropping into boiling water, and final plated presentation.",
+    "summaryEn": "Cinematic 3D commercial sequence showing raw instant noodles floating with ingredients, dropping into boiling water, and final plated presentation.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The media showcases the floating noodle block with flying ingredients, the boiling pot transition, and the final served bowl with the yellow Maggi pack."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Dynamic 3D cinematic commercial shot of instant noodles. Extreme slow-motion macro shot of raw ramen noodle block floating in mid-air surrounded by fresh flying ingredients like sliced cherry tomatoes, sweet corn, basil leaves, black olives, and chili flakes. Bright natural volumetric sunlight streaming through a rustic kitchen background. Smooth transition as the noodles drop into a pot of boiling hot water with rising steam, transforming into a steaming delicious bowl of noodles. The camera zooms out to reveal a warm kitchen setup with a yellow instant noodle packet in the background. Ultra-realistic food photography, 8k resolution, cinematic lighting, appetizing colors, 1080x1920 vertical format.\n\n​Floating Ingredients & Noodles:\n\n​Cinematic food photography, macro shot of raw instant noodle cake floating in mid-air with sliced tomatoes, black olives, basil leaves, corn, and spices flying in slow motion, warm sunlight, kitchen background, depth of field, 8k --ar 9:16\n\n​Boiling Water Transition:\n\n​Close-up shot of instant noodle block dipping into boiling hot water in a steel pot, thick rising steam clouds, dramatic flame splash at the bottom, high energy, crisp focus, hyper-realistic --ar 9:16\n\n​Final Bowl Presentation:\n\n​A steaming hot bowl of cooked instant noodles served with fresh herbs, cherry tomatoes, and olives, a fork lifting long noodle strands, yellow Maggi-style instant noodle packet in the blurred background, warm cozy lighting, professional food advertisement style --ar 9:16",
+    "sourceRange": {
+      "start": 10,
+      "end": 1526
+    },
+    "translations": {
+      "zh": "泡面动态3D电影级商业镜头。超慢动作微距拍摄生拉面块悬浮空中，周围环绕番茄、甜玉米、罗勒叶和橄榄等飞行食材。自然光穿透乡村厨房背景。随后平滑过渡至面块落入沸腾锅中并化为一碗热气腾腾的面条，镜头拉远展现温馨厨房与背景中的黄色面袋。超写实食品摄影，8k分辨率，电影灯光，竖屏格式。",
+      "en": "Dynamic 3D cinematic commercial shot of instant noodles. Extreme slow-motion macro shot of raw ramen noodle block floating in mid-air surrounded by fresh flying ingredients like sliced cherry tomatoes, sweet corn, basil leaves, black olives, and chili flakes. Bright natural volumetric sunlight streaming through a rustic kitchen background. Smooth transition as the noodles drop into a pot of boiling hot water with rising steam, transforming into a steaming delicious bowl of noodles. The camera zooms out to reveal a warm kitchen setup with a yellow instant noodle packet in the background. Ultra-realistic food photography, 8k resolution, cinematic lighting, appetizing colors, 1080x1920 vertical format."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "商业广告制作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Maggi"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
