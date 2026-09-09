@@ -546,7 +546,7 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 
 <a name="prompt-2097756013583900701"></a>
 
-### Traducción en curso
+### Un prompt para generar una imagen en cuadrícula de 3x3 con relación de aspecto 16:9 que muestra varios cortes de composición al estilo de MV de Vocaloid, utilizando una imagen de referencia del personaje.
 
 Autor：[@tetumemo](https://x.com/tetumemo) · [Publicación original](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -554,7 +554,7 @@ Cómic / Guion gráfico · Personaje · Publicado
 
 Publicación original：[@8co28](https://x.com/8co28) · [Publicación original](https://x.com/8co28/status/2097412340274934097)
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt para generar una imagen en cuadrícula de 3x3 con relación de aspecto 16:9 que muestra varios cortes de composición al estilo de MV de Vocaloid, utilizando una imagen de referencia del personaje.
 
 <img src="images/2097756013583900701-1.jpg" alt="Imagen 1" width="480" />
 
@@ -571,7 +571,7 @@ Publicación original：[@8co28](https://x.com/8co28) · [Publicación original]
 **Prompt**
 
 ```text
-Traducción en curso
+Genera varias tomas del MV de Vocaloid de este personaje en una cuadrícula de 3x3 16:9
 ```
 
 [↑ Volver a categorías](#catalog)

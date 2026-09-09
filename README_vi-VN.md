@@ -546,7 +546,7 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 
 <a name="prompt-2097756013583900701"></a>
 
-### Đang dịch
+### Lời nhắc để tạo hình ảnh dạng lưới 3x3 tỷ lệ 16:9 với các góc bố cục đa dạng theo phong cách MV Vocaloid bằng cách sử dụng hình ảnh tham chiếu nhân vật.
 
 Tác giả：[@tetumemo](https://x.com/tetumemo) · [Bài gốc](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -554,7 +554,7 @@ Truyện tranh / Bảng phân cảnh · Nhân vật · Đã xuất bản
 
 Bài gốc：[@8co28](https://x.com/8co28) · [Bài gốc](https://x.com/8co28/status/2097412340274934097)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc để tạo hình ảnh dạng lưới 3x3 tỷ lệ 16:9 với các góc bố cục đa dạng theo phong cách MV Vocaloid bằng cách sử dụng hình ảnh tham chiếu nhân vật.
 
 <img src="images/2097756013583900701-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -571,7 +571,7 @@ Bài gốc：[@8co28](https://x.com/8co28) · [Bài gốc](https://x.com/8co28/s
 **Câu lệnh**
 
 ```text
-Đang dịch
+Xuất các cảnh cắt khác nhau từ MV Vocaloid của nhân vật này dưới dạng 3x3 16:9
 ```
 
 [↑ Về danh mục](#catalog)

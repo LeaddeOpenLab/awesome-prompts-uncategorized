@@ -541,7 +541,7 @@ CGI毛髮、
 
 <a name="prompt-2097756013583900701"></a>
 
-### 翻譯中
+### 利用角色參考圖，生成Vocaloid MV風格多樣構圖鏡頭的3x3、16:9網格圖像提示詞。
 
 作者：[@tetumemo](https://x.com/tetumemo) · [查看 X 原帖](https://x.com/tetumemo/status/2097756013583900701)
 
@@ -549,7 +549,7 @@ CGI毛髮、
 
 查看 X 原帖：[@8co28](https://x.com/8co28) · [查看 X 原帖](https://x.com/8co28/status/2097412340274934097)
 
-**概括:** 翻譯中
+**概括:** 利用角色參考圖，生成Vocaloid MV風格多樣構圖鏡頭的3x3、16:9網格圖像提示詞。
 
 <img src="images/2097756013583900701-1.jpg" alt="圖片 1" width="480" />
 
@@ -566,7 +566,7 @@ CGI毛髮、
 **提示詞**
 
 ```text
-翻譯中
+輸出該角色的Vocaloid MV各種鏡頭的3x3網格圖 16:9
 ```
 
 [↑ 返回分類目錄](#catalog)
