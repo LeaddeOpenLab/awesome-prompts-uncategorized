@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**16** Prompt · Bổ sung mới nhất: **2026-09-09**
+**17** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -543,6 +543,40 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097756013583900701"></a>
+
+### Đang dịch
+
+Tác giả：[@tetumemo](https://x.com/tetumemo) · [Bài gốc](https://x.com/tetumemo/status/2097756013583900701)
+
+Truyện tranh / Bảng phân cảnh · Nhân vật · Đã xuất bản
+
+Bài gốc：[@8co28](https://x.com/8co28) · [Bài gốc](https://x.com/8co28/status/2097412340274934097)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097756013583900701-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="Hình ảnh 6" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

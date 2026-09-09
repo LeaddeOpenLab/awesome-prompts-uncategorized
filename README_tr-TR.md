@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**16** Prompt · Son eklenen: **2026-09-09**
+**17** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -531,6 +531,40 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097756013583900701"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@tetumemo](https://x.com/tetumemo) · [Orijinal gönderi](https://x.com/tetumemo/status/2097756013583900701)
+
+Çizgi Roman / Hikaye Taslağı · Karakter · Yayımlandı
+
+Orijinal gönderi：[@8co28](https://x.com/8co28) · [Orijinal gönderi](https://x.com/8co28/status/2097412340274934097)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097756013583900701-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="Görsel 6" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

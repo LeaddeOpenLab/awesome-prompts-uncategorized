@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**16** Prompts · Adição mais recente: **2026-09-09**
+**17** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -531,6 +531,40 @@ Como teria sido o meu aspeto nos anos 1980? Usa a fotografia em anexo como refer
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097756013583900701"></a>
+
+### Tradução em curso
+
+Autor：[@tetumemo](https://x.com/tetumemo) · [Publicação original](https://x.com/tetumemo/status/2097756013583900701)
+
+Banda desenhada / Storyboard · Personagem · Publicado
+
+Publicação original：[@8co28](https://x.com/8co28) · [Publicação original](https://x.com/8co28/status/2097412340274934097)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097756013583900701-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="Imagem 6" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

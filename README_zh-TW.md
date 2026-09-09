@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**16** 筆內容 · 最新收錄: **2026-09-09**
+**17** 筆內容 · 最新收錄: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -538,6 +538,40 @@ CGI毛髮、
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2097756013583900701"></a>
+
+### 翻譯中
+
+作者：[@tetumemo](https://x.com/tetumemo) · [查看 X 原帖](https://x.com/tetumemo/status/2097756013583900701)
+
+漫畫 / 分鏡腳本 · 角色 · 已推流
+
+查看 X 原帖：[@8co28](https://x.com/8co28) · [查看 X 原帖](https://x.com/8co28/status/2097412340274934097)
+
+**概括:** 翻譯中
+
+<img src="images/2097756013583900701-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="圖片 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="圖片 6" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

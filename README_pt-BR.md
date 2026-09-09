@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**16** Prompts · Última adição: **2026-09-09**
+**17** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -531,6 +531,40 @@ Como eu teria parecido nos anos 1980? Use a foto anexada como referência. Prese
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097756013583900701"></a>
+
+### Tradução em andamento
+
+Autor：[@tetumemo](https://x.com/tetumemo) · [Publicação original](https://x.com/tetumemo/status/2097756013583900701)
+
+Quadrinhos / Storyboard · Personagem · Publicado
+
+Publicação original：[@8co28](https://x.com/8co28) · [Publicação original](https://x.com/8co28/status/2097412340274934097)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097756013583900701-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="Imagem 6" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

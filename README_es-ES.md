@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**16** Prompts · Última incorporación: **2026-09-09**
+**17** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -543,6 +543,40 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2097756013583900701"></a>
+
+### Traducción en curso
+
+Autor：[@tetumemo](https://x.com/tetumemo) · [Publicación original](https://x.com/tetumemo/status/2097756013583900701)
+
+Cómic / Guion gráfico · Personaje · Publicado
+
+Publicación original：[@8co28](https://x.com/8co28) · [Publicación original](https://x.com/8co28/status/2097412340274934097)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097756013583900701-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="Imagen 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="Imagen 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="Imagen 6" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

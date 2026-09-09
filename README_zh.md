@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**16** 条内容 · 最新收录: **2026-09-09**
+**17** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -538,6 +538,40 @@ CGI毛发、
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2097756013583900701"></a>
+
+### 翻译中
+
+作者：[@tetumemo](https://x.com/tetumemo) · [查看 X 原帖](https://x.com/tetumemo/status/2097756013583900701)
+
+漫画 / 故事板 · 角色 · 已推流
+
+查看 X 原帖：[@8co28](https://x.com/8co28) · [查看 X 原帖](https://x.com/8co28/status/2097412340274934097)
+
+**概括:** 翻译中
+
+<img src="images/2097756013583900701-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="图片 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="图片 6" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

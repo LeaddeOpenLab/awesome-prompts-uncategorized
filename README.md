@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**16** Prompts · Latest addition: **2026-09-09**
+**17** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -521,6 +521,40 @@ What would I have looked like in the 1980s? Use the attached photo as the refere
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097756013583900701"></a>
+
+### A prompt that uses character reference images to generate diverse Vocaloid MV-style composition cuts as a 3x3 16:9 grid image.
+
+Author：[@tetumemo](https://x.com/tetumemo) · [Source](https://x.com/tetumemo/status/2097756013583900701)
+
+Comic / Storyboard · Character · Published
+
+Source：[@8co28](https://x.com/8co28) · [Source](https://x.com/8co28/status/2097412340274934097)
+
+**Summary:** A prompt that uses character reference images to generate diverse Vocaloid MV-style composition cuts as a 3x3 16:9 grid image.
+
+<img src="images/2097756013583900701-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="Image 6" width="480" />
+
+**Prompt**
+
+```text
+Output various cuts from this character's Vocaloid MV in a 3x3 grid, 16:9
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

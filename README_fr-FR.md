@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**16** Prompts · Dernier ajout: **2026-09-09**
+**17** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -531,6 +531,40 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097756013583900701"></a>
+
+### Traduction en cours
+
+Auteur：[@tetumemo](https://x.com/tetumemo) · [Publication originale](https://x.com/tetumemo/status/2097756013583900701)
+
+Bande dessinée / Storyboard · Personnage · Publié
+
+Publication originale：[@8co28](https://x.com/8co28) · [Publication originale](https://x.com/8co28/status/2097412340274934097)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097756013583900701-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="Image 6" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 

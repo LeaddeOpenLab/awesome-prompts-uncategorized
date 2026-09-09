@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**16** Prompt · Ultima aggiunta: **2026-09-09**
+**17** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -531,6 +531,40 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2097756013583900701"></a>
+
+### Traduzione in corso
+
+Autore：[@tetumemo](https://x.com/tetumemo) · [Post originale](https://x.com/tetumemo/status/2097756013583900701)
+
+Fumetto / Storyboard · Personaggio · Pubblicato
+
+Post originale：[@8co28](https://x.com/8co28) · [Post originale](https://x.com/8co28/status/2097412340274934097)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097756013583900701-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097756013583900701-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097756013583900701-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2097756013583900701-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2097756013583900701-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2097756013583900701-6.jpg" alt="Immagine 6" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097541027972456592"></a>
 
