@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T06:15:28.137Z",
+  "model": "unknown-video",
+  "prompt": "A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame.",
+  "promptTranslations": {
+    "en": "A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame."
+  },
+  "summaryTranslations": {
+    "en": "8-panel vertical storyboard infographic layout for an avocado commercial."
+  },
+  "translationVersion": 2,
+  "summary": "8-panel vertical storyboard infographic layout for an avocado commercial.",
+  "summaryEn": "8-panel vertical storyboard infographic layout for an avocado commercial.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097541027972456592",
+    "canonicalUrl": "https://x.com/1H77k/status/2097541027972456592",
+    "author": {
+      "username": "1H77k",
+      "displayName": "Huma Ai",
+      "profileUrl": "https://x.com/1H77k"
+    },
+    "publishedAt": "2026-09-09T04:22:06.000Z",
+    "collectedAt": "2026-09-09T05:40:40.438Z",
+    "language": "en",
+    "originalText": "Prompt:\n\n​\"A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame.\"\n\nDetailed Scene Prompts for AI Video Generation\n\n​Scene 01: The Cut (00:00 - 00:01.5)\n\n​Prompt: Extreme macro close-up shot of a sharp knife slicing through a fresh, textured green avocado. Dramatic natural lighting, 100mm lens, fast knife cut tracking movement, high resolution, dynamic action shot.\n\n​Scene 02: The Reveal (00:01.5 - 00:03)\n\n​Prompt: Close-up shot of two halves of a fresh avocado opening up, revealing the smooth flesh and brown seed inside. Bright fresh studio lighting, 100mm lens, smooth pushing-in camera motion.\n\n​Scene 03: The Scoop (00:03 - 00:04.5)\n\n​Prompt: Macro slow-motion shot of a metal spoon smoothly scooping out bright green avocado flesh. Natural fresh lighting, 100mm lens, detailed texture of rich creamy avocado.\n\n​Scene 04: The Drop (00:04.5 - 00:06)\n\n​Prompt: Low-angle shot from inside a glass blender, slow-motion capture of fresh avocado chunks dropping in. Bright clean lighting, 50mm lens, dynamic upward perspective.\n\n​Scene 05: The Collision (00:06 - 00:08)\n\n​Prompt: Dynamic close-up of splash action as ice cubes and splash of fresh milk collide inside a glass blender container. Bright commercial studio lighting, high-speed camera, 50mm lens.\n\n​Scene 06: The Vortex (00:08 - 00:10)\n\n​Prompt: Top-down overhead shot inside a blender creating a swirling high-speed vortex of rich green avocado smoothie. Glossy, vibrant, bright lighting, 100mm macro lens, smooth 360^\\circ orbital camera movement.\n\n​Scene 07: The Transformation (00:10 - 00:12.5)\n\n​Prompt: Extreme close-up shot of thick, creamy, velvety avocado smoothie texture being lifted with a spoon. Soft premium studio lighting, rich green colors, 100mm lens, smooth push-in slow motion.\n\n​Scene 08: The Perfect Pour (00:12.5 - 00:15)\n\n​Prompt: Hero commercial shot of a thick green avocado smoothie pouring smoothly into a tall clear glass, garnished with fresh mint on top. Warm appetizing commercial lighting, 85mm lens, 180^\\circ slow orbit camera view.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRv2aEbbEAAvEVH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRv2aEbbEAAvEVH.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/1H77k/status/2097541027972456592",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097540994434756609/img/db5JyAhaYDwJXHuA.jpg",
+        "analysisUrl": "https://x.com/1H77k/status/2097541027972456592"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 6,
+      "replyCount": 20,
+      "quoteCount": 0,
+      "viewCount": 360
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/1H77k/status/2097541027972456592",
+  "coverUrl": "https://pbs.twimg.com/media/HRv2aEbbEAAvEVH.jpg",
+  "coverPath": "covers/2097541027972456592.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HRv2aEbbEAAvEVH",
+    "x-video:2097540994434756609",
+    "x-post:2097541027972456592"
+  ],
+  "analysis": {
+    "summary": "8-panel vertical storyboard infographic layout for an avocado commercial.",
+    "summaryEn": "8-panel vertical storyboard infographic layout for an avocado commercial.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the attached 8-panel commercial storyboard layout, style, and typography."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame.",
+    "sourceRange": {
+      "start": 11,
+      "end": 334
+    },
+    "translations": {
+      "zh": "专业8格分镜信息图布局，标题为“AVOCADO TRANSFORMATION”，适用于15秒高能竖版广告（9:16）。深色纯净背景，亮绿点缀，现代排版，高端商业美食摄影搭配简洁的技术分镜草图。",
+      "en": "A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "storyboard",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.98,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
