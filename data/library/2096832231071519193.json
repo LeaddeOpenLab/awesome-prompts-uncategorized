@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:43:22.505Z",
+  "model": "unknown-video",
+  "prompt": "Create a cinematic 10-second premium product advertisement for LEGO Botanical Collection in vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the beautifully arranged LEGO botanical set on a wooden table, soft cinematic lighting.\n\n2–4 sec: Smooth macro transition to the detailed LEGO flower pieces, focusing on texture and craftsmanship.\n\n4–7 sec: Show hands naturally assembling the flower arrangement, quick satisfying movements, shallow depth of field, elegant lifestyle atmosphere.\n\n7–10 sec: Reveal the completed botanical arrangement in a modern room. Camera slowly rotates around the finished product while warm light creates a premium cozy atmosphere.\n\nSmooth transitions, realistic motion, commercial advertising quality, cinematic depth of field, subtle camera movement, highly detailed, premium product photography style, no text overlays, no watermark.",
+  "promptTranslations": {
+    "en": "Create a cinematic 10-second premium product advertisement for LEGO Botanical Collection in vertical 9:16 format.\\n\\n0–2 sec: Slow camera push-in toward the beautifully arranged LEGO botanical set on a wooden table, soft cinematic lighting.\\n\\n2–4 sec: Smooth macro transition to the detailed LEGO flower pieces, focusing on texture and craftsmanship.\\n\\n4–7 sec: Show hands naturally assembling the flower arrangement, quick satisfying movements, shallow depth of field, elegant lifestyle atmosphere.\\n\\n7–10 sec: Reveal the completed botanical arrangement in a modern room. Camera slowly rotates around the finished product while warm light creates a premium cozy atmosphere.\\n\\nSmooth transitions, realistic motion, commercial advertising quality, cinematic depth of field, subtle camera movement, highly detailed, premium product photography style, no text overlays, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "10-second 9:16 cinematic commercial storyboard for LEGO Botanical Collection featuring push-in, macro details, hand assembly, and a rotating final showcase."
+  },
+  "translationVersion": 2,
+  "summary": "10-second 9:16 cinematic commercial storyboard for LEGO Botanical Collection featuring push-in, macro details, hand assembly, and a rotating final showcase.",
+  "summaryEn": "10-second 9:16 cinematic commercial storyboard for LEGO Botanical Collection featuring push-in, macro details, hand assembly, and a rotating final showcase.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2096832231071519193",
+    "canonicalUrl": "https://x.com/Urwa_345/status/2096832231071519193",
+    "author": {
+      "username": "Urwa_345",
+      "displayName": "𝐔𝐫𝐰𝐚 𝐀𝐈",
+      "profileUrl": "https://x.com/Urwa_345"
+    },
+    "publishedAt": "2026-09-07T05:25:35.000Z",
+    "collectedAt": "2026-09-09T03:22:23.362Z",
+    "language": "en",
+    "originalText": "“Not just flowers. Build a little beauty that never fades. 🌿✨”\n\nPrompt 👇 \n\nCreate a cinematic 10-second premium product advertisement for LEGO Botanical Collection in vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the beautifully arranged LEGO botanical set on a wooden table, soft cinematic lighting.\n\n2–4 sec: Smooth macro transition to the detailed LEGO flower pieces, focusing on texture and craftsmanship.\n\n4–7 sec: Show hands naturally assembling the flower arrangement, quick satisfying movements, shallow depth of field, elegant lifestyle atmosphere.\n\n7–10 sec: Reveal the completed botanical arrangement in a modern room. Camera slowly rotates around the finished product while warm light creates a premium cozy atmosphere.\n\nSmooth transitions, realistic motion, commercial advertising quality, cinematic depth of field, subtle camera movement, highly detailed, premium product photography style, no text overlays, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Urwa_345/status/2096832231071519193",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2096832064494678016/img/SfcMmOYpXxu5wbx9.jpg",
+        "analysisUrl": "https://x.com/Urwa_345/status/2096832231071519193"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRlxytpa8AAuiFq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRlxytpa8AAuiFq.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 221,
+      "repostCount": 71,
+      "replyCount": 66,
+      "quoteCount": 2,
+      "viewCount": 25499
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Urwa_345/status/2096832231071519193",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2096832064494678016/img/SfcMmOYpXxu5wbx9.jpg",
+  "coverPath": "covers/2096832231071519193.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2096832064494678016",
+    "x-image:/media/HRlxytpa8AAuiFq",
+    "x-post:2096832231071519193"
+  ],
+  "analysis": {
+    "summary": "10-second 9:16 cinematic commercial storyboard for LEGO Botanical Collection featuring push-in, macro details, hand assembly, and a rotating final showcase.",
+    "summaryEn": "10-second 9:16 cinematic commercial storyboard for LEGO Botanical Collection featuring push-in, macro details, hand assembly, and a rotating final showcase.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video matches the exact sequence specified in the prompt: opening with table display push-in, transitioning to macro details, showing hands assembling a flower stem, and concluding with a rotating reveal near a warm lamp."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a cinematic 10-second premium product advertisement for LEGO Botanical Collection in vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the beautifully arranged LEGO botanical set on a wooden table, soft cinematic lighting.\n\n2–4 sec: Smooth macro transition to the detailed LEGO flower pieces, focusing on texture and craftsmanship.\n\n4–7 sec: Show hands naturally assembling the flower arrangement, quick satisfying movements, shallow depth of field, elegant lifestyle atmosphere.\n\n7–10 sec: Reveal the completed botanical arrangement in a modern room. Camera slowly rotates around the finished product while warm light creates a premium cozy atmosphere.\n\nSmooth transitions, realistic motion, commercial advertising quality, cinematic depth of field, subtle camera movement, highly detailed, premium product photography style, no text overlays, no watermark.",
+    "sourceRange": {
+      "start": 75,
+      "end": 949
+    },
+    "translations": {
+      "zh": "为乐高植物收藏系列创作一段电影质感的10秒高端竖屏（9:16）产品广告。\n\n0–2秒：镜头缓慢推向木桌上精美摆放的乐高植物套装，柔和电影打光。\n2–4秒：平滑微距过渡到精致的乐高花朵细节，展现材质与工艺。\n4–7秒：展示双手自然组装花束的过程，动作流畅利落，浅景深，优雅居家氛围。\n7–10秒：现代房间中完整呈现花束。镜头缓慢环绕旋转，暖光营造温馨质感。\n\n平滑过渡，逼真动态，商业广告品质，电影感浅景深，细腻运镜，超精细细节，高端产品摄影风格，无文字层，无水印。",
+      "en": "Create a cinematic 10-second premium product advertisement for LEGO Botanical Collection in vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the beautifully arranged LEGO botanical set on a wooden table, soft cinematic lighting.\n\n2–4 sec: Smooth macro transition to the detailed LEGO flower pieces, focusing on texture and craftsmanship.\n\n4–7 sec: Show hands naturally assembling the flower arrangement, quick satisfying movements, shallow depth of field, elegant lifestyle atmosphere.\n\n7–10 sec: Reveal the completed botanical arrangement in a modern room. Camera slowly rotates around the finished product while warm light creates a premium cozy atmosphere.\n\nSmooth transitions, realistic motion, commercial advertising quality, cinematic depth of field, subtle camera movement, highly detailed, premium product photography style, no text overlays, no watermark."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial_product_ad",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "LEGO"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
