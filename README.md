@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**7** Prompts · Latest addition: **2026-09-09**
+**8** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -91,6 +91,40 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2096829877987291200"></a>
+
+### Cinematic 3D commercial sequence showing raw instant noodles floating with ingredients, dropping into boiling water, and final plated presentation.
+
+Author：[@1H77k](https://x.com/1H77k) · [Source](https://x.com/1H77k/status/2096829877987291200)
+
+Cinematic / Film Still · 3D Render · Food / Drink · Published
+
+**Summary:** Cinematic 3D commercial sequence showing raw instant noodles floating with ingredients, dropping into boiling water, and final plated presentation.
+
+<img src="covers/2096829877987291200.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Dynamic 3D cinematic commercial shot of instant noodles. Extreme slow-motion macro shot of raw ramen noodle block floating in mid-air surrounded by fresh flying ingredients like sliced cherry tomatoes, sweet corn, basil leaves, black olives, and chili flakes. Bright natural volumetric sunlight streaming through a rustic kitchen background. Smooth transition as the noodles drop into a pot of boiling hot water with rising steam, transforming into a steaming delicious bowl of noodles. The camera zooms out to reveal a warm kitchen setup with a yellow instant noodle packet in the background. Ultra-realistic food photography, 8k resolution, cinematic lighting, appetizing colors, 1080x1920 vertical format.
+
+Floating Ingredients & Noodles:
+
+Cinematic food photography, macro shot of raw instant noodle cake floating in mid-air with sliced tomatoes, black olives, basil leaves, corn, and spices flying in slow motion, warm sunlight, kitchen background, depth of field, 8k --ar 9:16
+
+Boiling Water Transition:
+
+Close-up shot of instant noodle block dipping into boiling hot water in a steel pot, thick rising steam clouds, dramatic flame splash at the bottom, high energy, crisp focus, hyper-realistic --ar 9:16
+
+Final Bowl Presentation:
+
+A steaming hot bowl of cooked instant noodles served with fresh herbs, cherry tomatoes, and olives, a fork lifting long noodle strands, yellow Maggi-style instant noodle packet in the blurred background, warm cozy lighting, professional food advertisement style --ar 9:16
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097188060098101543"></a>
 

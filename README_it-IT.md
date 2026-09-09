@@ -14,7 +14,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**7** Prompt · Ultima aggiunta: **2026-09-09**
+**8** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -79,6 +79,28 @@ Traduzione in corso
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2096829877987291200"></a>
+
+### Traduzione in corso
+
+Autore：[@1H77k](https://x.com/1H77k) · [Post originale](https://x.com/1H77k/status/2096829877987291200)
+
+Fermo immagine cinematografico / Still fotografico · Rendering 3D · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2096829877987291200.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097188060098101543"></a>
 

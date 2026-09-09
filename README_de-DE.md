@@ -14,7 +14,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**7** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**8** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -79,6 +79,28 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2096829877987291200"></a>
+
+### Übersetzung läuft
+
+Autor：[@1H77k](https://x.com/1H77k) · [Originalbeitrag](https://x.com/1H77k/status/2096829877987291200)
+
+Kinematisch / Filmstill · 3D-Rendering · Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2096829877987291200.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097188060098101543"></a>
 
