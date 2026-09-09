@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T20:23:29.995Z",
+  "model": "unknown-image",
+  "prompt": "このキャラクターのボカロmvの様々なカットを3x3で出力して　16:9",
+  "promptTranslations": {
+    "en": "Output various cuts from this character's Vocaloid MV in a 3x3 grid, 16:9"
+  },
+  "summaryTranslations": {
+    "en": "A prompt that uses character reference images to generate diverse Vocaloid MV-style composition cuts as a 3x3 16:9 grid image."
+  },
+  "translationVersion": 2,
+  "summary": "キャラクター参照画像を用い、ボカロMV風の多様な構図カットを3x3の16:9グリッド画像として生成するプロンプト。",
+  "summaryEn": "Prompt to generate a 3x3 16:9 grid of diverse Vocaloid MV storyboard cuts based on a reference character image.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097412340274934097",
+      "canonicalUrl": "https://x.com/8co28/status/2097412340274934097",
+      "author": {
+        "username": "8co28",
+        "displayName": "852話(hakoniwa)",
+        "profileUrl": "https://x.com/8co28"
+      },
+      "originalText": "GPT Image 2.5、順当に強い https://t.co/PYOvFVAF4P"
+    },
+    "id": "2097756013583900701",
+    "canonicalUrl": "https://x.com/tetumemo/status/2097756013583900701",
+    "author": {
+      "username": "tetumemo",
+      "displayName": "テツメモ｜AI図解×検証｜Newsletter",
+      "profileUrl": "https://x.com/tetumemo"
+    },
+    "publishedAt": "2026-09-09T18:36:22.000Z",
+    "collectedAt": "2026-09-09T20:16:32.197Z",
+    "language": "ja",
+    "originalText": "📝GPT Images 2.5が楽しすぎて寝れないな、、\nポン出しクオリティがレベチすぎる\n\n■プロンプト\nこのキャラクターのボカロmvの様々なカットを3x3で出力して　16:9 https://t.co/tAtFuQ50lL",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRy5gxUaIAAZEBv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRy5gxUaIAAZEBv.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRy5jsabAAA7NGh.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRy5jsabAAA7NGh.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRy5mvEa8AA-Xct.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRy5mvEa8AA-Xct.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRuBZxXbwAAnMZ6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRuBZxXbwAAnMZ6.jpg",
+        "sourcePostId": "2097412340274934097"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRuBZxQaMAA7nUY.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRuBZxQaMAA7nUY.jpg",
+        "sourcePostId": "2097412340274934097"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRuBZxZagAAZ5IL.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRuBZxZagAAZ5IL.jpg",
+        "sourcePostId": "2097412340274934097"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 2,
+      "viewCount": 1319
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/tetumemo/status/2097756013583900701",
+  "coverUrl": "https://pbs.twimg.com/media/HRy5gxUaIAAZEBv.jpg",
+  "coverPath": "images/2097756013583900701-1.jpg",
+  "imagePaths": [
+    "images/2097756013583900701-1.jpg",
+    "images/2097756013583900701-2.jpg",
+    "images/2097756013583900701-3.jpg",
+    "images/2097756013583900701-4.jpg",
+    "images/2097756013583900701-5.jpg",
+    "images/2097756013583900701-6.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRy5gxUaIAAZEBv",
+    "x-image:/media/HRy5jsabAAA7NGh",
+    "x-image:/media/HRy5mvEa8AA-Xct",
+    "x-image:/media/HRuBZxXbwAAnMZ6",
+    "x-image:/media/HRuBZxQaMAA7nUY",
+    "x-image:/media/HRuBZxZagAAZ5IL",
+    "x-post:2097756013583900701",
+    "x-post:2097412340274934097"
+  ],
+  "analysis": {
+    "summary": "キャラクター参照画像を用い、ボカロMV風の多様な構図カットを3x3の16:9グリッド画像として生成するプロンプト。",
+    "summaryEn": "Prompt to generate a 3x3 16:9 grid of diverse Vocaloid MV storyboard cuts based on a reference character image.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "プロンプト「このキャラクターのボカロmvの様々なカットを3x3で出力して 16:9」と添付の立ち絵を参照し、生成結果画像は指示通り3x3のMV風カット割りグリッド（16:9）になっている。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "このキャラクターのボカロmvの様々なカットを3x3で出力して　16:9",
+    "sourceRange": {
+      "start": 54,
+      "end": 89
+    },
+    "translations": {
+      "zh": "将该角色的Vocaloid MV各种镜头以3x3宫格输出 16:9",
+      "en": "Output various cuts of this character's Vocaloid MV in a 3x3 grid, 16:9"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "キャラクター参照からボカロMV風3x3カット割り画像の生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
