@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**18** Prompts · Dernier ajout: **2026-09-09**
+**19** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,34 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097779128275788112"></a>
+
+### Traduction en cours
+
+Auteur：[@MoodLock\_JP](https://x.com/MoodLock_JP) · [Publication originale](https://x.com/MoodLock_JP/status/2097779128275788112)
+
+Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097779128275788112-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097779128275788112-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097779128275788112-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097779128275788112-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097756013583900701"></a>
 

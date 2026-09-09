@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**18** Prompts · Última incorporación: **2026-09-09**
+**19** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,34 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2097779128275788112"></a>
+
+### Traducción en curso
+
+Autor：[@MoodLock\_JP](https://x.com/MoodLock_JP) · [Publicación original](https://x.com/MoodLock_JP/status/2097779128275788112)
+
+Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097779128275788112-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097779128275788112-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097779128275788112-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097779128275788112-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097756013583900701"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**18** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**19** Prompts · Zuletzt hinzugefügt: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,34 @@ Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto al
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097779128275788112"></a>
+
+### Übersetzung läuft
+
+Autor：[@MoodLock\_JP](https://x.com/MoodLock_JP) · [Originalbeitrag](https://x.com/MoodLock_JP/status/2097779128275788112)
+
+Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097779128275788112-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097779128275788112-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097779128275788112-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097779128275788112-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097756013583900701"></a>
 

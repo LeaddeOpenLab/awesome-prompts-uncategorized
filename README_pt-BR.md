@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**18** Prompts · Última adição: **2026-09-09**
+**19** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,34 @@ Como eu teria parecido nos anos 1980? Use a foto anexada como referência. Prese
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097779128275788112"></a>
+
+### Tradução em andamento
+
+Autor：[@MoodLock\_JP](https://x.com/MoodLock_JP) · [Publicação original](https://x.com/MoodLock_JP/status/2097779128275788112)
+
+Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097779128275788112-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097779128275788112-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097779128275788112-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097779128275788112-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097756013583900701"></a>
 

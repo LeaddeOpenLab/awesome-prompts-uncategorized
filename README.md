@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**18** Prompts · Latest addition: **2026-09-09**
+**19** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -545,6 +545,69 @@ What would I have looked like in the 1980s? Use the attached photo as the refere
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097779128275788112"></a>
+
+### A comprehensive structured prompt for generating a futuristic fox-themed mecha cosplay outfit, including material and assembly rules for all accessories such as bustier, hot pants, printed overskirt, shin guards, fox ears, and fox tail.
+
+Author：[@MoodLock\_JP](https://x.com/MoodLock_JP) · [Source](https://x.com/MoodLock_JP/status/2097779128275788112)
+
+Character · Fashion Item · Published
+
+**Summary:** A comprehensive structured prompt for generating a futuristic fox-themed mecha cosplay outfit, including material and assembly rules for all accessories such as bustier, hot pants, printed overskirt, shin guards, fox ears, and fox tail.
+
+<img src="images/2097779128275788112-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097779128275788112-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097779128275788112-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097779128275788112-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+PROTECTED WARDROBE RULE — HIGHEST PRIORITY: Treat each garment description below as its immutable final product identity. Preserve construction, parts, hardware, material, pattern, and every registered graphic or marking—its surface, side, orientation, scale, colors, content, spelling, and count. FINAL WORN STATE overrides only the scoped item's use, position, side, orientation, fastening, layering, folds, tucks, knots, and drape. A SOURCE GARMENT label describes the unstyled item, never the completed silhouette. Do not redesign, add, remove, mirror, duplicate, relocate, or redraw protected details.
+
+Wardrobe:
+
+Dress / all-in-one: A fitted futuristic harness bustier in glossy pearl white and black with fine rose-gold edging. Rounded sculpted white cups have curved panel seams, black lower cradles and a deep black-edged plunge between them; a rose-gold ring-pull zipper descends from the cup junction along the long, tapered white abdominal panel. Angular black side panels narrow into pointed ends around large open waist cutouts. A split white stand collar with black inset tabs connects to black straps framing the open upper chest, centered by a small angular gold fox-head ornament. The largely open back has narrow crossing straps converging on a pointed black-and-gold spine plate above a narrow white lower-back panel and black side wings. A flexible black foundation, adjustable rear straps and concealed collar clasp support the shaped panels.
+
+Bottom:
+
+Low-rise, close-fitting black hot pants in glossy stretch faux leather, with a smooth contoured waistband, shaped front and back panels, a fitted crotch and very short legs. Narrow stitched hems curve upward at the outer hips and beneath the seat, while subtle seam lines shape the opaque body. A concealed side zipper closes the waistband, keeping the exterior clean and unembellished.
+
+An asymmetric open overskirt suspended from a broad white-and-blush-pink hip belt with black backing, rose-gold rectangular buckles, eyelets and angular fittings. A diagonal pearl-white front overlap leads into layered translucent pink-lilac hip panels, short on the wearer's right and longer across the left upper thigh, with pink bound edges and fine intersecting gold geometric lines. Two long rear-side panels taper to sharp lower-calf points, leaving the center open; their translucent lilac-pink ground carries scattered branching sprays of pink five-petal blossoms, with larger open flowers about 40% of the local panel width, smaller buds and clear gaps between clusters, all enclosed by narrow gold borders. Pink tassels hang from decorative gold fittings at the hips. A black adjustable suspender runs from the right hip to a gold ring joining a narrow black thigh band, while a separate long black belt end hangs at the left front with eyelets and small pale-gold uppercase lettering reading "MOON FOX" along its length.
+
+Final worn state:
+For the second item description above only:
+VIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and wearer-right is image-left; back view — wearer-left is image-left and wearer-right is image-right. In profiles, crossed limbs, or ambiguity, trace the named anatomical side continuously from its corresponding shoulder, hip, eye, or ear landmark as applicable. Apply the state only to the named anatomical side; never mirror, swap, or duplicate it.
+- Layering: Layer this lower-body garment outside the first selected Bottom item. Preserve both garments' selected waist heights, waistbands, closure states, separate wearer-left and wearer-right leg paths where present, and complete hems, changing only their inside-outside order. Do not merge the garments into one design, omit the inner garment, or invent a slit, opening, fastening, or shared waistband. Only layer order, contact, occlusion, and optical transmission change. Every visible garment boundary follows the outer item's source geometry or separately selected fold-return line; inner contours remain optically behind it. Keep panel contact shallow. Crisp handling within this same operation: Use even local pressure and minimal material-correct ease.
+
+Legwear: A matched pair of articulated costume knee-and-shin guards extending from just above the knees to the ankles. Tall pearl-white front shields have faceted surfaces, raised outer tips, small gold outline fox-face emblems near the tops and long downward points overlapping the shin sections. Slender white shin plates taper toward the ankles between glossy black curved calf shells, with polished rose-gold borders emphasizing the long angular contours. Black diamond-like side links and round metallic joint fittings connect the knee and calf sections; white rear upper plates and adjustable black buckle straps retain open spaces around the knee sides. Padded interiors and concealed calf fasteners secure the shells, whose lower ends finish above the feet.
+
+Footwear: A pair of armored platform ankle boots in glossy pearl white, black and polished rose gold. Faceted white front shafts and vamps descend to black closed almond-shaped toe caps, with a pointed white central overlap and gold edging. Thick black forefoot platforms are wrapped along the upper rim by angular rose-gold bands forming a central front chevron, while steep arches rise to very tall slender rose-gold stiletto heels with black tips. Black inset side panels carry diamond-shaped seams; overlapping white ankle tabs, round black-and-gold lateral fittings and layered rearward-pointing metallic-edged fins frame the cuffs. White sculpted heel counters carry small dark diamond insets. Concealed medial zippers sit beneath overlapping side panels, with smooth linings and black rubber outsoles.
+
+Belt: An oversized single fox-tail costume accessory extending from the rear waist to near ankle level, with a narrow root, a full sweeping middle and a long curved, finely tapered tip. Dense long-pile white faux fur flows lengthwise in layered wisps, interwoven with soft blush-pink streaks that become more prominent toward the lower half without forming a hard color boundary. A lightweight stuffed curved core supports the backward-and-downward sweep. The root is covered by a faceted pearl-white shield with pointed side flares, fine rose-gold edging and a raised angular gold fox face; a concealed detachable belt mount sits behind the shield.
+
+Hair accessories: A slim transparent headband bearing a matched pair of tall, slightly outward-splayed mechanical fox ears. Each narrow triangular ear rises to a sharp point, with faceted pearl-white plates inset into a polished rose-gold framework, recessed glossy black triangular facets, and overlapping white polygonal plates at the base secured with tiny gold-tone studs. Dark inner shells give the ears shallow three-dimensional depth, while the slender band connects their bases discreetly.
+
+Gloves: A pair of fitted full-finger black costume gloves with glossy pearl-white armor panels over the backs of the hands and thumbs. The dorsal plates taper from the wrists and divide into rounded pointed lobes above the knuckles, accented by fine rose-gold borders, tiny studs and a central downward V-shaped metallic detail. Long glossy black fingers remain articulated and taper to subtly pointed tips; supple black palms and finger gussets allow movement. Short black slip-on cuffs finish the wrists.
+
+Arm guards / bracers: A matched pair of detachable armored long sleeves combining raised pointed shoulder fins, fluffy long-pile white shoulder rims and glossy black upper-arm shells. Each upper-arm shell carries a sculpted pearl-white fox face with pink lateral flares and fine rose-gold borders, with a pink looped cord and long silky tassel below it. A short pearl-white flared sleeve section sits beneath the shell, accented by a black-and-gold band and a translucent blush-pink pointed side tab. Flexible fitted black elbow sections join long tapered white forearm plates with angular black insets and rose-gold seams, ending in narrow black wrist cuffs with metallic fittings. Adjustable inner upper-arm supports and discreet shoulder anchor tabs hold the lined sleeves in place.
+
+Face masks / coverings:
+
+A sculpted costume half-mask covering the nose, mouth and chin, with a raised faceted nose bridge, high sweeping cheek edges and a pointed central chin. Glossy pearl-white angular plates form the broad front, bordered on both lower cheeks by recessed black panels with polished rose-gold edging and small metallic junction studs. A small triangular metallic inlay accents the nose bridge; the cheek panels taper back toward the ears. Soft black lining and a narrow adjustable rear elastic strap support the rigid shell.
+
+Final worn state:
+VIEW-CONDITIONAL BODY-SIDE MAP: front view — wearer-left is image-right and wearer-right is image-left; back view — wearer-left is image-left and wearer-right is image-right. In profiles, crossed limbs, or ambiguity, trace the named anatomical side continuously from its corresponding shoulder, hip, eye, or ear landmark as applicable. Apply the state only to the named anatomical side; never mirror, swap, or duplicate it.
+- Face mask wearing: Wear the complete face mask centered over the lower face, placing its upper edge across the nose bridge and its lower edge beneath the chin so both nose and mouth are covered. Attach each original wearer-left and wearer-right support to its corresponding ear or head anchor. Do not rotate, offset, duplicate, omit, or redesign the mask. Change only the selected registered state and leave every unselected component and connection unchanged.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097756013583900701"></a>
 

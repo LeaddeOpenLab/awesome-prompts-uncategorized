@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**18** Prompt · Bổ sung mới nhất: **2026-09-09**
+**19** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -567,6 +567,34 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097779128275788112"></a>
+
+### Đang dịch
+
+Tác giả：[@MoodLock\_JP](https://x.com/MoodLock_JP) · [Bài gốc](https://x.com/MoodLock_JP/status/2097779128275788112)
+
+Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097779128275788112-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097779128275788112-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097779128275788112-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097779128275788112-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097756013583900701"></a>
 

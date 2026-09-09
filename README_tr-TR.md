@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**18** Prompt · Son eklenen: **2026-09-09**
+**19** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,34 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097779128275788112"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MoodLock\_JP](https://x.com/MoodLock_JP) · [Orijinal gönderi](https://x.com/MoodLock_JP/status/2097779128275788112)
+
+Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097779128275788112-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097779128275788112-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097779128275788112-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097779128275788112-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097756013583900701"></a>
 
