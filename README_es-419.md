@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**17** Prompts · Última incorporación: **2026-09-09**
+**18** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,30 @@ Transforma la foto en una caricatura al gouache pintada a mano sobre papel de al
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
+
+<a name="prompt-2097725977443131648"></a>
+
+### Traducción en curso
+
+Autor：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Publicación original](https://x.com/SylviaTiongX/status/2097725977443131648)
+
+Fotografía · Renderizado 3D · Personaje · Producto · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097725977443131648-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097725977443131648-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097507029858300297"></a>
 

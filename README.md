@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**17** Prompts · Latest addition: **2026-09-09**
+**18** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -443,6 +443,30 @@ Transform the photo into a hand-painted gouache caricature on cream cotton paper
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2097725977443131648"></a>
+
+### Prompt for transforming a photo into a collectible action figure inside premium retail packaging, featuring the person's likeness, related miniature accessories, 3D rendering, and product photography style.
+
+Author：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Source](https://x.com/SylviaTiongX/status/2097725977443131648)
+
+Photography · 3D Render · Character · Product · Published
+
+**Summary:** Prompt for transforming a photo into a collectible action figure inside premium retail packaging, featuring the person's likeness, related miniature accessories, 3D rendering, and product photography style.
+
+<img src="images/2097725977443131648-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097725977443131648-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Convert this photo into a collectible action figure. Retain the person's recognizable facial features and hairstyle. Place the figure inside premium retail product packaging and include miniature accessories related to the person's interests. Employ a professional product photography style, realistic textures, fun details, and refined 3D rendering effects.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097507029858300297"></a>
 

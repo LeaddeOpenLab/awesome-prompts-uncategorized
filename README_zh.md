@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**17** 条内容 · 最新收录: **2026-09-09**
+**18** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -460,6 +460,30 @@ CGI毛发、
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2097725977443131648"></a>
+
+### 翻译中
+
+作者：[@SylviaTiongX](https://x.com/SylviaTiongX) · [查看 X 原帖](https://x.com/SylviaTiongX/status/2097725977443131648)
+
+摄影 · 3D 渲染 · 角色 · 产品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2097725977443131648-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097725977443131648-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097507029858300297"></a>
 

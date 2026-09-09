@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**17** Prompt · Bổ sung mới nhất: **2026-09-09**
+**18** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -465,6 +465,30 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2097725977443131648"></a>
+
+### Đang dịch
+
+Tác giả：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Bài gốc](https://x.com/SylviaTiongX/status/2097725977443131648)
+
+Nhiếp ảnh · Kết xuất 3D · Nhân vật · Sản phẩm · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097725977443131648-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097725977443131648-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097507029858300297"></a>
 

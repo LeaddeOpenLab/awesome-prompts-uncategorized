@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**17** Prompts · Dernier ajout: **2026-09-09**
+**18** Prompts · Dernier ajout: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,30 @@ Transformez la photo en une caricature à la gouache peinte à la main sur du pa
 <a name="category-3d-render"></a>
 
 ## Rendu 3D
+
+<a name="prompt-2097725977443131648"></a>
+
+### Traduction en cours
+
+Auteur：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Publication originale](https://x.com/SylviaTiongX/status/2097725977443131648)
+
+Photographie · Rendu 3D · Personnage · Produit · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097725977443131648-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097725977443131648-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097507029858300297"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**17** Prompt · Ultima aggiunta: **2026-09-09**
+**18** Prompt · Ultima aggiunta: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,30 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2097725977443131648"></a>
+
+### Traduzione in corso
+
+Autore：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Post originale](https://x.com/SylviaTiongX/status/2097725977443131648)
+
+Fotografia · Rendering 3D · Personaggio · Prodotto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097725977443131648-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097725977443131648-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097507029858300297"></a>
 

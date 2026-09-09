@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**17** Prompts · Última adição: **2026-09-09**
+**18** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,30 @@ Transforme a foto em uma caricatura em guache pintada à mão sobre papel de alg
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2097725977443131648"></a>
+
+### Tradução em andamento
+
+Autor：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Publicação original](https://x.com/SylviaTiongX/status/2097725977443131648)
+
+Fotografia · Renderização 3D · Personagem · Produto · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097725977443131648-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097725977443131648-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097507029858300297"></a>
 

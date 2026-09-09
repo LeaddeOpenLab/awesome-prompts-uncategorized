@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**17** Prompt · Son eklenen: **2026-09-09**
+**18** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -453,6 +453,30 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2097725977443131648"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Orijinal gönderi](https://x.com/SylviaTiongX/status/2097725977443131648)
+
+Fotoğrafçılık · 3D Modelleme · Karakter · Ürün · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097725977443131648-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097725977443131648-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097507029858300297"></a>
 
