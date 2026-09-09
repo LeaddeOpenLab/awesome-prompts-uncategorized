@@ -14,13 +14,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**9** Prompts · Adição mais recente: **2026-09-09**
+**10** Prompts · Adição mais recente: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -162,6 +162,34 @@ Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Item de Moda · 
 
 ```text
 Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente atraente no início dos seus 20 anos, descalço numa praia deserta e isolada sob um céu nublado dramático. Ele tem cabelo espesso e naturalmente ondulado de tom preto-azeviche, ligeiramente despenteado pela brisa marítima, sobrancelhas fortes e bem definidas, olhos castanho-escuros profundos e expressivos, um nariz reto e esculpido, maçãs do rosto proeminentes, uma linha do maxilar masculina e vincada, e uma barba rala subtil e natural. Ele veste uma camisa oversized de algodão branco imaculado com mangas relaxadas, ligeiramente desabotoada no colarinho, a ondular suavemente com a brisa do mar, combinada com calças largas em tons neutros. Os seus pés tocam suavemente a areia molhada enquanto pequenas ondas avançam na sua direção. Paleta de cores discretas em bege, cinzento e branco sujo, iluminação suave e difusa de dia nublado, horizonte enevoado, oceano calmo, envolvente minimalista e vazia, atmosfera tranquila e melancólica, estética sofisticada de editorial de moda de luxo, textura de pele natural, detalhes de tecido realistas, grão subtil de película, profundidade de campo reduzida, composição cinematográfica, objetiva de 85 mm, fotorrealista, ultradetalhado, 8K.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Ilustração
+
+<a name="prompt-2096970899622948972"></a>
+
+### Tradução em curso
+
+Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2096970899622948972)
+
+Ilustração · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2096970899622948972-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2096970899622948972-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -14,13 +14,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**9** 条内容 · 最新收录: **2026-09-09**
+**10** 条内容 · 最新收录: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [3D 渲染](#category-3d-render) · [复古 / 怀旧](#category-retro-vintage) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [插画](#category-illustration) · [3D 渲染](#category-3d-render) · [复古 / 怀旧](#category-retro-vintage) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -162,6 +162,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 ```text
 超逼真的电影时尚编辑摄影，拍摄了一位20岁出头、相貌英俊出众的年轻男子，赤脚站在阴云密布的戏剧性天空下的僻静空旷海滩上。他拥有浓密、自然微卷的乌黑头发，被海风轻拂得微微凌乱，眉形立体鲜明，深邃而富有表现力的深褐色眼睛，高挺雕塑般的鼻梁，突出的颧骨，线条分明的男性化下颌线，以及若隐若现的自然胡茬。他穿着一件宽松、挺括的白色纯棉衬衫，袖口随性，领口微敞，在海风中自然飘逸，搭配宽松的中性色长裤。当细小的浪花向他涌来时，他的双脚轻踩在潮湿的沙滩上。柔和的米色、灰色和灰白色调调色板，柔和漫射的阴天光线，薄雾缭绕的地平线，平静的海洋，极简空旷的四周环境，宁静忧郁的氛围，精致奢华的时尚编辑大片美学，自然的皮肤纹理，逼真的织物细节，微妙的胶片颗粒感，浅景深，电影感构图，85mm镜头，逼真，超精细，8K。
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## 插画
+
+<a name="prompt-2096970899622948972"></a>
+
+### 翻译中
+
+作者：[@MissDelulu9](https://x.com/MissDelulu9) · [查看 X 原帖](https://x.com/MissDelulu9/status/2096970899622948972)
+
+插画 · 人像 / 自拍 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2096970899622948972-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2096970899622948972-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

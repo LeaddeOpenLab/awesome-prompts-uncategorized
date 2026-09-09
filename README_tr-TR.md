@@ -14,13 +14,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**9** Prompt · Son eklenen: **2026-09-09**
+**10** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -162,6 +162,34 @@ Sinematik / Film Karesi · Portre / Selfie · Karakter · Moda Ürünü · Yayı
 
 ```text
 Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çıplak ayakla duran, 20'li yaşlarının başında, son derece yakışıklı genç bir adamın ultra gerçekçi sinematik editoryal fotoğrafı. Okyanus esintisiyle hafifçe dağılmış kalın, doğal dalgalı simsiyah saçları, belirgin ve güçlü kaşları, derin, anlamlı koyu kahverengi gözleri, düz ve biçimli bir burnu, çıkık elmacık kemikleri, keskin maskülen bir çene hattı ve hafif, doğal bir kirli sakalı var. Rahat kollu, yakası hafifçe açık, deniz melteminde doğal olarak dalgalanan, salaş ve bembeyaz pamuklu bir gömlek giyiyor ve altında nötr tonlarda dökümlü bir pantolon bulunuyor. Küçük dalgalar ona doğru yaklaşırken ayakları ıslak kuma usulca temas ediyor. Bej, gri ve kırık beyaz tonlarında yumuşak renk paleti, bulutlu havanın yumuşak ve dağılmış ışığı, sisli ufuk çizgisi, sakin okyanus, minimalist ve boş çevre, sessiz ve melankolik bir atmosfer, sofistike lüks moda editoryal estetiği, doğal cilt dokusu, gerçekçi kumaş detayları, hafif film greni, sığ alan derinliği, sinematik kompozisyon, 85mm lens, fotogerçekçi, ultra detaylı, 8K.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## İllüstrasyon
+
+<a name="prompt-2096970899622948972"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https://x.com/MissDelulu9/status/2096970899622948972)
+
+İllüstrasyon · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2096970899622948972-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2096970899622948972-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

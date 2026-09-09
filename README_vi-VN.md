@@ -14,13 +14,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**9** Prompt · Bổ sung mới nhất: **2026-09-09**
+**10** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -162,6 +162,34 @@ Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](h
 
 ```text
 Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ đầu độ tuổi 20 vô cùng điển trai đang đứng chân trần trên bãi biển vắng vẻ, biệt lập dưới bầu trời mây đầy kịch tính. Anh có mái tóc đen tuyền dày, xoăn nhẹ tự nhiên, hơi rối nhẹ trước gió biển, đôi lông mày sắc nét rõ ràng, đôi mắt màu nâu sẫm sâu thẳm đầy biểu cảm, sống mũi thẳng tắp như tạc, gò má nổi bật, đường quai hàm nam tính sắc sảo và râu lún phún tự nhiên nhẹ nhàng. Anh mặc một chiếc áo sơ mi cotton trắng tinh khôi phom rộng với tay áo thoải mái, hơi mở cúc ở cổ, tung bay tự nhiên trong gió biển, kết hợp với quần ống rộng tông màu trung tính. Đôi chân anh chạm nhẹ vào cát ướt khi những con sóng nhỏ lăn tăn xô về phía anh. Bảng màu be, xám và trắng ngà nhẹ nhàng, ánh sáng khuếch tán êm dịu của bầu trời u ám, đường chân trời mờ sương, đại dương phẳng lặng, không gian xung quanh tối giản vắng người, bầu không khí trầm lắng tĩnh lặng, thẩm mỹ biên tập thời trang xa xỉ tinh tế, kết cấu da tự nhiên, chi tiết vải chân thực, hạt phim tinh tế, độ sâu trường ảnh nông, bố cục điện ảnh, ống kính 85mm, chân thực như ảnh chụp, siêu chi tiết, 8K.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Minh họa
+
+<a name="prompt-2096970899622948972"></a>
+
+### Đang dịch
+
+Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x.com/MissDelulu9/status/2096970899622948972)
+
+Minh họa · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2096970899622948972-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2096970899622948972-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

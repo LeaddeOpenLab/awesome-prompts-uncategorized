@@ -14,13 +14,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**9** Prompts · Latest addition: **2026-09-09**
+**10** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -186,6 +186,34 @@ Cinematic / Film Still · Portrait / Selfie · Character · Fashion Item · Publ
 
 ```text
 Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-illustration"></a>
+
+## Illustration
+
+<a name="prompt-2096970899622948972"></a>
+
+### Hand-painted gouache caricature style on cotton paper with green, pink, and cream tones.
+
+Author：[@MissDelulu9](https://x.com/MissDelulu9) · [Source](https://x.com/MissDelulu9/status/2096970899622948972)
+
+Illustration · Portrait / Selfie · Published
+
+**Summary:** Hand-painted gouache caricature style on cotton paper with green, pink, and cream tones.
+
+<img src="images/2096970899622948972-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2096970899622948972-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Transform the photo into a hand-painted gouache caricature on cream cotton paper. Preserve the person’s exact identity, natural asymmetry, key facial traits, hair, build, and original outfit. Use bold flat shapes, confident contours, visible paper grain, and subtle pigment texture. Stylised proportions with an expressive attitude, enlarged graphic eyes, and a dynamic waist-up pose. Palette: equal-weight sage/olive green, rose pink, and warm cream. No realism, anime face, beautifying, smoothing, 3D shading, text, logos, or clutter. Clearly the same person, clearly a drawing.
 ```
 
 [↑ Back to categories](#catalog)
