@@ -56,13 +56,13 @@ Tradução em andamento
 
 <a name="prompt-2097217893767303361"></a>
 
-### Tradução em andamento
+### Prompt de foto realista de uma jovem mulher japonesa com cabelo castanho-acinzentado usando uma camiseta oversized de decote largo, inclinando-se profundamente para a frente para escrever com uma caneta em um papel sobre a mesa em um local de eventos coberto.
 
 Autor：[@kamakirin13993](https://x.com/kamakirin13993) · [Publicação original](https://x.com/kamakirin13993/status/2097217893767303361)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de foto realista de uma jovem mulher japonesa com cabelo castanho-acinzentado usando uma camiseta oversized de decote largo, inclinando-se profundamente para a frente para escrever com uma caneta em um papel sobre a mesa em um local de eventos coberto.
 
 <img src="images/2097217893767303361-1.jpg" alt="Imagem 1" width="480" />
 
@@ -73,7 +73,7 @@ Fotografia · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma jovem mulher japonesa com cabelo castanho-acinzentado curto e em camadas, olhando para baixo. Ela veste uma camiseta oversized com decote amplo e calça jeans. À frente da mulher há uma mesa, e sobre a mesa há uma única folha de papel sulfite branco. Ela segura uma caneta com a mão direita e, de pé, inclina-se profundamente para a frente tentando escrever no papel. A mão esquerda está apoiada sobre a mesa. O fundo é um espaço de eventos coberto. Iluminação natural, pele natural. Textura de tecido natural nas roupas. Estilo de fotografia realista com textura de pele finamente detalhada, alta resolução.
 ```
 
 [↑ Voltar às categorias](#catalog)

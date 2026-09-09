@@ -56,13 +56,13 @@ Traduction en cours
 
 <a name="prompt-2097217893767303361"></a>
 
-### Traduction en cours
+### Prompt photographique réaliste d'une jeune femme japonaise aux cheveux châtain cendré vêtue d'un t-shirt oversize à large encolure, se penchant profondément en avant pour écrire avec un stylo sur une feuille posée sur une table dans une salle d'événements intérieure.
 
 Auteur：[@kamakirin13993](https://x.com/kamakirin13993) · [Publication originale](https://x.com/kamakirin13993/status/2097217893767303361)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt photographique réaliste d'une jeune femme japonaise aux cheveux châtain cendré vêtue d'un t-shirt oversize à large encolure, se penchant profondément en avant pour écrire avec un stylo sur une feuille posée sur une table dans une salle d'événements intérieure.
 
 <img src="images/2097217893767303361-1.jpg" alt="Image 1" width="480" />
 
@@ -73,7 +73,7 @@ Photographie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Une jeune femme japonaise aux cheveux châtain cendré courts et dégradés, regardant vers le bas. Elle porte un t-shirt oversize à large décolleté et un jean en denim. Devant la femme se trouve une table sur laquelle repose une seule feuille de papier blanc pour photocopie. Elle tient un stylo dans sa main droite et, debout, se penche profondément en avant pour écrire sur le papier. Sa main gauche est posée sur la table. L'arrière-plan est une salle d'événements intérieure. Éclairage naturel, peau naturelle. Texture de tissu naturelle sur les vêtements. Style photographique réaliste avec des détails fins de la texture de la peau, haute résolution.
 ```
 
 [↑ Retour aux catégories](#catalog)

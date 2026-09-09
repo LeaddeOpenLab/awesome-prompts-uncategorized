@@ -56,13 +56,13 @@ Traduzione in corso
 
 <a name="prompt-2097217893767303361"></a>
 
-### Traduzione in corso
+### Prompt fotografico realistico di una giovane donna giapponese con capelli castano cenere in una maglietta oversize con ampia scollatura, che si china profondamente in avanti per scrivere con una penna su un foglio sopra un tavolo in una sede per eventi al chiuso.
 
 Autore：[@kamakirin13993](https://x.com/kamakirin13993) · [Post originale](https://x.com/kamakirin13993/status/2097217893767303361)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotografico realistico di una giovane donna giapponese con capelli castano cenere in una maglietta oversize con ampia scollatura, che si china profondamente in avanti per scrivere con una penna su un foglio sopra un tavolo in una sede per eventi al chiuso.
 
 <img src="images/2097217893767303361-1.jpg" alt="Immagine 1" width="480" />
 
@@ -73,7 +73,7 @@ Fotografia · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Una giovane donna giapponese con capelli castano cenere corti e scalati, che guarda verso il basso. Indossa una maglietta oversize con una scollatura ampia e jeans in denim. Davanti alla donna c'è un tavolo, e sopra il tavolo c'è un singolo foglio di carta bianca per fotocopie. Tiene una penna nella mano destra e, stando in piedi, si china profondamente in avanti cercando di scrivere sulla carta. La sua mano sinistra è sul tavolo. Lo sfondo è una sede per eventi al coperto. Illuminazione naturale, pelle naturale. Trama naturale del tessuto dei vestiti. Stile fotografico realistico con texture della pelle finemente dettagliata, alta risoluzione.
 ```
 
 [↑ Torna alle categorie](#catalog)

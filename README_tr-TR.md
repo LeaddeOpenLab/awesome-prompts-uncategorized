@@ -56,13 +56,13 @@ Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2097217893767303361"></a>
 
-### Çeviri sürüyor
+### Kapalı bir etkinlik alanında, geniş yakalı oversize tişört giymiş kül kahvesi saçlı genç bir Japon kadının masadaki kâğıda kalemle yazmak için derin bir şekilde öne doğru eğildiği gerçekçi fotoğraf promptu.
 
 Yazar：[@kamakirin13993](https://x.com/kamakirin13993) · [Orijinal gönderi](https://x.com/kamakirin13993/status/2097217893767303361)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kapalı bir etkinlik alanında, geniş yakalı oversize tişört giymiş kül kahvesi saçlı genç bir Japon kadının masadaki kâğıda kalemle yazmak için derin bir şekilde öne doğru eğildiği gerçekçi fotoğraf promptu.
 
 <img src="images/2097217893767303361-1.jpg" alt="Görsel 1" width="480" />
 
@@ -73,7 +73,7 @@ Fotoğrafçılık · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kısa katlı kesim kül kahvesi saçlı, aşağıya bakan genç bir Japon kadın. Geniş yakalı, bol kesim oversize bir tişört ve kot pantolon giyiyor. Kadının önünde bir masa var ve masanın üzerinde tek bir beyaz fotokopi kâğıdı duruyor. Sağ elinde bir kalem tutuyor ve ayaktayken kâğıda yazı yazmak için derin bir şekilde öne doğru eğiliyor. Sol eli masanın üzerinde. Arka plan kapalı bir etkinlik alanı. Doğal aydınlatma, doğal cilt. Giysilerin doğal kumaş dokusu. İnce ayrıntılı cilt dokusuyla gerçekçi fotoğraf tarzı, yüksek çözünürlük.
 ```
 
 [↑ Kategorilere dön](#catalog)

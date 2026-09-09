@@ -56,13 +56,13 @@ Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2097217893767303361"></a>
 
-### Übersetzung läuft
+### Realistischer Foto-Prompt einer jungen japanischen Frau mit aschbraunem Haar in einem Oversize-T-Shirt mit weitem Ausschnitt, die sich in einem Innenveranstaltungsort tief nach vorne beugt, um mit einem Stift auf ein Blatt Papier auf einem Tisch zu schreiben.
 
 Autor：[@kamakirin13993](https://x.com/kamakirin13993) · [Originalbeitrag](https://x.com/kamakirin13993/status/2097217893767303361)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistischer Foto-Prompt einer jungen japanischen Frau mit aschbraunem Haar in einem Oversize-T-Shirt mit weitem Ausschnitt, die sich in einem Innenveranstaltungsort tief nach vorne beugt, um mit einem Stift auf ein Blatt Papier auf einem Tisch zu schreiben.
 
 <img src="images/2097217893767303361-1.jpg" alt="Bild 1" width="480" />
 
@@ -73,7 +73,7 @@ Fotografie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine junge japanische Frau mit kurzen, gestuften aschbraunen Haaren, die nach unten blickt. Sie trägt ein übergroßes Oversize-T-Shirt mit weitem Halsausschnitt und Jeans. Vor der Frau steht ein Tisch, auf dem ein einzelnes Blatt weißes Kopierpapier liegt. Sie hält einen Stift in der rechten Hand und beugt sich aus dem Stand tief nach vorne, um auf das Papier zu schreiben. Ihre linke Hand liegt auf dem Tisch. Der Hintergrund ist ein Veranstaltungsort im Innenbereich. Natürliche Beleuchtung, natürliche Haut. Natürliche Stofftextur der Kleidung. Realistischer Fotostil mit fein detaillierter Hauttextur, hohe Auflösung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
