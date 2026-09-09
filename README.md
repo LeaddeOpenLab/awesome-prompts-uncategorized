@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**13** Prompts · Latest addition: **2026-09-09**
+**14** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -301,6 +301,28 @@ What would I have looked like in the 1980s? Use the attached photo as the refere
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097541027972456592"></a>
+
+### 8-panel vertical storyboard infographic layout for an avocado commercial.
+
+Author：[@1H77k](https://x.com/1H77k) · [Source](https://x.com/1H77k/status/2097541027972456592)
+
+Infographic / Edu Visual · Comic / Storyboard · Published
+
+**Summary:** 8-panel vertical storyboard infographic layout for an avocado commercial.
+
+<img src="covers/2097541027972456592.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A professional 8-panel storyboard infographic layout titled 'AVOCADO TRANSFORMATION' for a high-energy 15-second vertical commercial (9:16 aspect ratio). Clean dark background, vibrant green accents, modern typography, and high-end commercial food photography paired with clean technical storyboard sketches for each frame.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097520388326510672"></a>
 

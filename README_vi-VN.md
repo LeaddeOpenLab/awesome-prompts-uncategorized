@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**13** Prompt · Bổ sung mới nhất: **2026-09-09**
+**14** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -289,6 +289,28 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097541027972456592"></a>
+
+### Đang dịch
+
+Tác giả：[@1H77k](https://x.com/1H77k) · [Bài gốc](https://x.com/1H77k/status/2097541027972456592)
+
+Infographic / Hình ảnh giáo dục · Truyện tranh / Bảng phân cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097541027972456592.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097520388326510672"></a>
 

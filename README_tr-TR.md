@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**13** Prompt · Son eklenen: **2026-09-09**
+**14** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -277,6 +277,28 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097541027972456592"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@1H77k](https://x.com/1H77k) · [Orijinal gönderi](https://x.com/1H77k/status/2097541027972456592)
+
+İnfografik / Eğitici Görsel · Çizgi Roman / Hikaye Taslağı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097541027972456592.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097520388326510672"></a>
 
