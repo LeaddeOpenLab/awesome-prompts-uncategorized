@@ -262,20 +262,20 @@ Transforma la foto en una caricatura al gouache pintada a mano sobre papel de al
 
 <a name="prompt-2097507029858300297"></a>
 
-### Traducción en curso
+### Ilustración de fantasía en CGI 3D mágica y caprichosa de un cachorro de zorro con chaleco dorado y un cervatillo en un camino de piedra brumoso.
 
 Autor：[@RockGrokAI](https://x.com/RockGrokAI) · [Publicación original](https://x.com/RockGrokAI/status/2097507029858300297)
 
 Ilustración · Renderizado 3D · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Ilustración de fantasía en CGI 3D mágica y caprichosa de un cachorro de zorro con chaleco dorado y un cervatillo en un camino de piedra brumoso.
 
 <img src="covers/2097507029858300297.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Ilustración de fantasía en CGI 3D mágica y caprichosa de un adorable cachorro de zorro y un tierno cervatillo parados juntos en un camino de piedra agrietada en un paisaje rocoso y brumoso. El esponjoso cachorro de zorro tiene un pelaje naranja vibrante con detalles blancos, una cola tupida, enormes ojos esmeralda brillantes, mechones dorados y puntiagudos en la cabeza y un chaleco dorado con bordados ornamentados. Mira hacia arriba al cervatillo, que tiene un suave pelaje marrón claro con manchas blancas, grandes ojos expresivos y una dulce expresión. Una niebla brumosa, oscuros acantilados rocosos, árboles retorcidos y frondosas flores de lavanda púrpura los rodean. Iluminación volumétrica suave, texturas detalladas en el pelaje, ricos tonos tierra con morados vivos, profundidad cinematográfica y una atmósfera encantadora y conmovedora.
 ```
 
 [↑ Volver a categorías](#catalog)

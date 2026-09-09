@@ -262,20 +262,20 @@ Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumw
 
 <a name="prompt-2097507029858300297"></a>
 
-### Übersetzung läuft
+### Zauberhafte 3D-CGI-Fantasy-Illustration eines Fuchswelpen in einer goldenen Weste und eines Rehkitzes auf einem nebligen Steinpfad.
 
 Autor：[@RockGrokAI](https://x.com/RockGrokAI) · [Originalbeitrag](https://x.com/RockGrokAI/status/2097507029858300297)
 
 Illustration · 3D-Rendering · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Zauberhafte 3D-CGI-Fantasy-Illustration eines Fuchswelpen in einer goldenen Weste und eines Rehkitzes auf einem nebligen Steinpfad.
 
 <img src="covers/2097507029858300297.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Zauberhafte 3D-CGI-Fantasy-Illustration eines bezaubernden Fuchswelpen und eines sanften Rehkitzes, die zusammen auf einem rissigen Steinpfad in einer nebligen Felslandschaft stehen. Der flauschige Fuchswelpe hat leuchtend orangefarbenes Fell mit weißen Akzenten, einen buschigen Schwanz, riesige funkelnde smaragdgrüne Augen, goldene stachelige Haarbüschel auf dem Kopf und eine kunstvoll bestickte goldene Weste. Er blickt zu dem Rehkitz auf, das weiches hellbraunes Fell mit weißen Punkten, große ausdrucksstarke Augen und einen süßen Ausdruck hat. Dichter Nebel, dunkle Felsklippen, knorrige Bäume und üppige lila Lavendelblüten umgeben sie. Weiche volumetrische Beleuchtung, detaillierte Felltexturen, satte Erdtöne mit lebendigen Lilatönen, filmische Tiefe, bezaubernde herzerwärmende Atmosphäre.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

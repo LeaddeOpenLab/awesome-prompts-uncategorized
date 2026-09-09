@@ -262,20 +262,20 @@ Transforme a foto em uma caricatura em guache pintada à mão sobre papel de alg
 
 <a name="prompt-2097507029858300297"></a>
 
-### Tradução em andamento
+### Ilustração fantástica caprichosa em CGI 3D de um filhote de raposa em um colete dourado e um filhote de cervo em um caminho de pedra enevoado.
 
 Autor：[@RockGrokAI](https://x.com/RockGrokAI) · [Publicação original](https://x.com/RockGrokAI/status/2097507029858300297)
 
 Ilustração · Renderização 3D · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Ilustração fantástica caprichosa em CGI 3D de um filhote de raposa em um colete dourado e um filhote de cervo em um caminho de pedra enevoado.
 
 <img src="covers/2097507029858300297.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Ilustração fantástica caprichosa em CGI 3D de um adorável filhote de raposa e um doce cervozinho juntos em um caminho de pedra rachada em uma paisagem rochosa e enevoada. O felpudo filhote de raposa tem pelos alaranjados vibrantes com detalhes brancos, cauda espessa, enormes olhos esmeralda cintilantes, tufos dourados pontiagudos na cabeça e um colete dourado bordado ornamentado. Ele olha para o cervo, que tem pelos castanho-claros suaves com manchas brancas, olhos grandes e expressivos e uma expressão doce. Névoa espessa, penhascos rochosos escuros, árvores retorcidas e exuberantes flores roxas de lavanda os cercam. Iluminação volumétrica suave, texturas de pelos detalhadas, ricos tons terrosos com roxos vívidos, profundidade cinematográfica e uma atmosfera encantadora e reconfortante.
 ```
 
 [↑ Voltar às categorias](#catalog)

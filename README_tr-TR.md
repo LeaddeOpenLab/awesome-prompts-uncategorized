@@ -262,20 +262,20 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 
 <a name="prompt-2097507029858300297"></a>
 
-### Çeviri sürüyor
+### Sisli taş bir patikada altın yelekli bir yavru tilki ve bir yavru geyiğin masalsı 3D CGI fantezi illüstrasyonu.
 
 Yazar：[@RockGrokAI](https://x.com/RockGrokAI) · [Orijinal gönderi](https://x.com/RockGrokAI/status/2097507029858300297)
 
 İllüstrasyon · 3D Modelleme · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sisli taş bir patikada altın yelekli bir yavru tilki ve bir yavru geyiğin masalsı 3D CGI fantezi illüstrasyonu.
 
 <img src="covers/2097507029858300297.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sisli, kayalık bir manzarada çatlamış taş bir patikada birlikte duran sevimli bir yavru tilki ve nazik bir yavru geyiğin masalsı 3D CGI fantezi illüstrasyonu. Kabarık yavru tilki, beyaz vurgulara sahip canlı turuncu kürke, gür bir kuyruğa, kocaman parıldayan zümrüt gözlere, altın sarısı dikenli baş tutamlarına ve süslü işlemeli altın bir yeleğe sahiptir. Yumuşak açık kahverengi kürkü beyaz benekli, iri etkileyici gözleri ve tatlı bir ifadesi olan yavru geyiğe yukarı doğru bakar. Sisli pus, karanlık kayalık uçurumlar, budaklı ağaçlar ve gür mor lavanta çiçekleri onları çevreler. Yumuşak hacimsel aydınlatma, ayrıntılı kürk dokuları, canlı morlarla zengin toprak tonları, sinematik derinlik, büyüleyici ve iç ısıtan bir atmosfer.
 ```
 
 [↑ Kategorilere dön](#catalog)

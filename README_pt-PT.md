@@ -262,20 +262,20 @@ Transforme a foto numa caricatura a guache pintada à mão sobre papel de algod�
 
 <a name="prompt-2097507029858300297"></a>
 
-### Tradução em curso
+### Ilustração fantástica e caprichosa em CGI 3D de uma cria de raposa com um colete dourado e uma cria de veado num caminho de pedra nevoento.
 
 Autor：[@RockGrokAI](https://x.com/RockGrokAI) · [Publicação original](https://x.com/RockGrokAI/status/2097507029858300297)
 
 Ilustração · Renderização 3D · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Ilustração fantástica e caprichosa em CGI 3D de uma cria de raposa com um colete dourado e uma cria de veado num caminho de pedra nevoento.
 
 <img src="covers/2097507029858300297.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Ilustração fantástica e caprichosa em CGI 3D de uma adorável cria de raposa e uma dócil cria de veado juntas num caminho de pedra rachada numa paisagem rochosa e nevoenta. A fofa cria de raposa tem uma pelagem laranja vibrante com detalhes brancos, cauda espessa, enormes olhos esmeralda brilhantes, tufos dourados espetados na cabeça e um colete dourado com bordados ornamentados. Olha para o pequeno veado, que tem uma pelagem castanha-clara suave com manchas brancas, grandes olhos expressivos e uma expressão doce. Um nevoeiro denso, escarpas rochosas escuras, árvores nodosas e exuberantes flores de alfazema roxa rodeiam-nos. Iluminação volumétrica suave, texturas detalhadas de pelagem, ricos tons de terra com roxos vívidos, profundidade cinematográfica e uma atmosfera encantadora e calorosa.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -262,20 +262,20 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 
 <a name="prompt-2097507029858300297"></a>
 
-### Traduzione in corso
+### Stravagante illustrazione fantasy in CGI 3D di un cucciolo di volpe con un gilet dorato e un cerbiatto su un sentiero di pietra nebbioso.
 
 Autore：[@RockGrokAI](https://x.com/RockGrokAI) · [Post originale](https://x.com/RockGrokAI/status/2097507029858300297)
 
 Illustrazione · Rendering 3D · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Stravagante illustrazione fantasy in CGI 3D di un cucciolo di volpe con un gilet dorato e un cerbiatto su un sentiero di pietra nebbioso.
 
 <img src="covers/2097507029858300297.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Stravagante illustrazione fantasy in CGI 3D di un adorabile cucciolo di volpe e un dolce cerbiatto in piedi insieme su un sentiero di pietra fessurata in un paesaggio roccioso e nebbioso. Il soffice cucciolo di volpe ha una pelliccia arancione brillante con accenti bianchi, una coda folta, enormi occhi smeraldo scintillanti, ciuffi dorati e appuntiti sulla testa e un gilet dorato finemente ricamato. Guarda verso l'alto il cerbiatto, che ha una morbida pelliccia marrone chiaro con macchie bianche, grandi occhi espressivi e un'espressione dolce. Nebbia densa, scogliere rocciose scure, alberi nodosi e rigogliosi fiori di lavanda viola li circondano. Luce volumetrica soffusa, dettagliate texture della pelliccia, ricche tonalità della terra con vivaci sfumature di viola, profondità cinematografica, atmosfera incantevole e commovente.
 ```
 
 [↑ Torna alle categorie](#catalog)
