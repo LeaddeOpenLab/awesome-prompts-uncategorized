@@ -456,13 +456,13 @@ Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumw
 
 <a name="prompt-2097725977443131648"></a>
 
-### Übersetzung läuft
+### Verwandlung eines Fotos in eine Sammler-Actionfigur in einer hochwertigen Verpackung, inklusive Personenmerkmalen und Miniaturzubehör im Stil von 3D-Rendering und Produktfotografie.
 
 Autor：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Originalbeitrag](https://x.com/SylviaTiongX/status/2097725977443131648)
 
 Fotografie · 3D-Rendering · Charakter · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Verwandlung eines Fotos in eine Sammler-Actionfigur in einer hochwertigen Verpackung, inklusive Personenmerkmalen und Miniaturzubehör im Stil von 3D-Rendering und Produktfotografie.
 
 <img src="images/2097725977443131648-1.jpg" alt="Bild 1" width="480" />
 
@@ -471,7 +471,7 @@ Fotografie · 3D-Rendering · Charakter · Produkt · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandle dieses Foto in eine Sammler-Actionfigur. Behalte die wiedererkennbaren Gesichtszüge und die Frisur der Person bei. Platziere die Figur in einer hochwertigen Einzelhandelsverpackung und füge Miniaturzubehör hinzu, das zu den Interessen der Person passt. Verwende einen professionellen Produktfotografie-Stil, realistische Texturen, verspielte Details und ein verfeinertes 3D-Rendering.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

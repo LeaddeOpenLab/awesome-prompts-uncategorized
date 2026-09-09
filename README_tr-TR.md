@@ -456,13 +456,13 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 
 <a name="prompt-2097725977443131648"></a>
 
-### Çeviri sürüyor
+### Fotoğrafı, 3D işleme ve ürün fotoğrafçılığı tarzında karakter özellikleri ve minyatür aksesuarlar içeren, birinci sınıf ambalaj kutusunda koleksiyonluk bir aksiyon figürüne dönüştürme istemi.
 
 Yazar：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Orijinal gönderi](https://x.com/SylviaTiongX/status/2097725977443131648)
 
 Fotoğrafçılık · 3D Modelleme · Karakter · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fotoğrafı, 3D işleme ve ürün fotoğrafçılığı tarzında karakter özellikleri ve minyatür aksesuarlar içeren, birinci sınıf ambalaj kutusunda koleksiyonluk bir aksiyon figürüne dönüştürme istemi.
 
 <img src="images/2097725977443131648-1.jpg" alt="Görsel 1" width="480" />
 
@@ -471,7 +471,7 @@ Fotoğrafçılık · 3D Modelleme · Karakter · Ürün · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu fotoğrafı koleksiyonluk bir aksiyon figürüne dönüştürün. Kişinin ayırt edilebilir yüz hatlarını ve saç modelini koruyun. Figürü birinci sınıf bir perakende ürün ambalajına yerleştirin ve kişinin ilgi alanlarıyla ilgili minyatür aksesuarlar ekleyin. Profesyonel ürün fotoğrafçılığı tarzı, gerçekçi dokular, eğlenceli detaylar ve incelikli 3D işleme efektleri kullanın.
 ```
 
 [↑ Kategorilere dön](#catalog)

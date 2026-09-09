@@ -456,13 +456,13 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 
 <a name="prompt-2097725977443131648"></a>
 
-### Traduzione in corso
+### Trasformazione di una foto in un'action figure da collezione in una confezione premium, con tratti distintivi e accessori in miniatura correlati in stile rendering 3D e fotografia di prodotto.
 
 Autore：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Post originale](https://x.com/SylviaTiongX/status/2097725977443131648)
 
 Fotografia · Rendering 3D · Personaggio · Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Trasformazione di una foto in un'action figure da collezione in una confezione premium, con tratti distintivi e accessori in miniatura correlati in stile rendering 3D e fotografia di prodotto.
 
 <img src="images/2097725977443131648-1.jpg" alt="Immagine 1" width="480" />
 
@@ -471,7 +471,7 @@ Fotografia · Rendering 3D · Personaggio · Prodotto · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma questa foto in un'action figure da collezione. Mantieni i tratti distintivi del viso e l'acconciatura del personaggio. Inserisci la figure in una confezione di vendita al dettaglio di alta qualità e aggiungi accessori in miniatura legati agli interessi della persona. Utilizza uno stile da fotografia di prodotto professionale, texture realistiche, dettagli accattivanti e un raffinato rendering 3D.
 ```
 
 [↑ Torna alle categorie](#catalog)

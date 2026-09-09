@@ -468,13 +468,13 @@ Transforma la foto en una caricatura al gouache pintada a mano sobre papel de al
 
 <a name="prompt-2097725977443131648"></a>
 
-### Traducción en curso
+### Convierte una foto en una figura de acción de coleccionista en una caja de producto prémium, con rasgos del personaje y accesorios en miniatura con estilo de fotografía de producto y renderizado 3D.
 
 Autor：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Publicación original](https://x.com/SylviaTiongX/status/2097725977443131648)
 
 Fotografía · Render 3D · Personaje · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Convierte una foto en una figura de acción de coleccionista en una caja de producto prémium, con rasgos del personaje y accesorios en miniatura con estilo de fotografía de producto y renderizado 3D.
 
 <img src="images/2097725977443131648-1.jpg" alt="Imagen 1" width="480" />
 
@@ -483,7 +483,7 @@ Fotografía · Render 3D · Personaje · Producto · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Convierte esta foto en una figura de acción de coleccionista. Mantén los rasgos faciales reconocibles y el peinado del personaje. Coloca la figura en un embalaje minorista de gama alta e incluye accesorios en miniatura relacionados con los intereses de la persona. Aplica un estilo de fotografía de producto profesional, texturas realistas, detalles interesantes y un renderizado 3D refinado.
 ```
 
 [↑ Volver a categorías](#catalog)

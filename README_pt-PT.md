@@ -456,13 +456,13 @@ Transforme a foto numa caricatura a guache pintada à mão sobre papel de algod�
 
 <a name="prompt-2097725977443131648"></a>
 
-### Tradução em curso
+### Transformação de uma fotografia numa figura de ação colecionável dentro de uma caixa premium, incluindo características da personagem e acessórios miniatura em estilo de renderização 3D e fotografia de produto.
 
 Autor：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Publicação original](https://x.com/SylviaTiongX/status/2097725977443131648)
 
 Fotografia · Renderização 3D · Personagem · Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Transformação de uma fotografia numa figura de ação colecionável dentro de uma caixa premium, incluindo características da personagem e acessórios miniatura em estilo de renderização 3D e fotografia de produto.
 
 <img src="images/2097725977443131648-1.jpg" alt="Imagem 1" width="480" />
 
@@ -471,7 +471,7 @@ Fotografia · Renderização 3D · Personagem · Produto · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Transforma esta foto numa figura de ação de coleção. Mantém os traços faciais reconhecíveis e o penteado da personagem. Coloca a figura numa embalagem de retalho de alta qualidade e inclui acessórios em miniatura relacionados com os interesses da pessoa. Utiliza um estilo de fotografia de produto profissional, texturas realistas, detalhes engraçados e uma renderização 3D refinada.
 ```
 
 [↑ Voltar às categorias](#catalog)

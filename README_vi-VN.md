@@ -468,13 +468,13 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 
 <a name="prompt-2097725977443131648"></a>
 
-### Đang dịch
+### Chuyển đổi ảnh thành mô hình hành động phiên bản sưu tầm trong hộp bao bì cao cấp, gồm đặc điểm nhận dạng cùng phụ kiện thu nhỏ liên quan theo phong cách kết xuất 3D và chụp ảnh sản phẩm.
 
 Tác giả：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Bài gốc](https://x.com/SylviaTiongX/status/2097725977443131648)
 
 Nhiếp ảnh · Kết xuất 3D · Nhân vật · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuyển đổi ảnh thành mô hình hành động phiên bản sưu tầm trong hộp bao bì cao cấp, gồm đặc điểm nhận dạng cùng phụ kiện thu nhỏ liên quan theo phong cách kết xuất 3D và chụp ảnh sản phẩm.
 
 <img src="images/2097725977443131648-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -483,7 +483,7 @@ Nhiếp ảnh · Kết xuất 3D · Nhân vật · Sản phẩm · Đã xuất b
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chuyển đổi bức ảnh này thành một mô hình hành động phiên bản sưu tầm. Giữ lại các đặc điểm khuôn mặt và kiểu tóc dễ nhận biết của nhân vật. Đặt mô hình vào trong bao bì bán lẻ cao cấp, kèm theo các phụ kiện thu nhỏ liên quan đến sở thích của nhân vật. Áp dụng phong cách chụp ảnh sản phẩm chuyên nghiệp, chất liệu chân thực, chi tiết thú vị và hiệu ứng kết xuất 3D tinh tế.
 ```
 
 [↑ Về danh mục](#catalog)

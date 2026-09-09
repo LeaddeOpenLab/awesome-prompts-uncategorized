@@ -456,13 +456,13 @@ Transformez la photo en une caricature à la gouache peinte à la main sur du pa
 
 <a name="prompt-2097725977443131648"></a>
 
-### Traduction en cours
+### Conversion d'une photo en figurine d'action de collection dans un emballage haut de gamme, avec traits du personnage et accessoires miniatures, style rendu 3D et photographie de produit.
 
 Auteur：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Publication originale](https://x.com/SylviaTiongX/status/2097725977443131648)
 
 Photographie · Rendu 3D · Personnage · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Conversion d'une photo en figurine d'action de collection dans un emballage haut de gamme, avec traits du personnage et accessoires miniatures, style rendu 3D et photographie de produit.
 
 <img src="images/2097725977443131648-1.jpg" alt="Image 1" width="480" />
 
@@ -471,7 +471,7 @@ Photographie · Rendu 3D · Personnage · Produit · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Transformez cette photo en une figurine d'action de collection. Conservez les traits reconnaissables du visage et la coiffure du personnage. Placez la figurine dans un emballage de produit haut de gamme et ajoutez des accessoires miniatures liés aux centres d'intérêt de la personne. Utilisez un style de photographie de produit professionnelle, des textures réalistes, des détails amusants et un rendu 3D raffiné.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -456,13 +456,13 @@ Transforme a foto em uma caricatura em guache pintada à mão sobre papel de alg
 
 <a name="prompt-2097725977443131648"></a>
 
-### Tradução em andamento
+### Transforme uma foto em um boneco de ação colecionável dentro de uma embalagem de produto premium, com traços do personagem e acessórios em miniatura no estilo de renderização 3D e foto de produto.
 
 Autor：[@SylviaTiongX](https://x.com/SylviaTiongX) · [Publicação original](https://x.com/SylviaTiongX/status/2097725977443131648)
 
 Fotografia · Renderização 3D · Personagem · Produto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Transforme uma foto em um boneco de ação colecionável dentro de uma embalagem de produto premium, com traços do personagem e acessórios em miniatura no estilo de renderização 3D e foto de produto.
 
 <img src="images/2097725977443131648-1.jpg" alt="Imagem 1" width="480" />
 
@@ -471,7 +471,7 @@ Fotografia · Renderização 3D · Personagem · Produto · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Transforme esta foto em um boneco de ação colecionável. Mantenha os traços faciais reconhecíveis e o penteado da pessoa. Coloque a figura em uma embalagem de varejo premium e adicione acessórios em miniatura relacionados aos interesses dela. Utilize um estilo de fotografia de produto profissional, texturas realistas, detalhes divertidos e uma renderização 3D refinada.
 ```
 
 [↑ Voltar às categorias](#catalog)
