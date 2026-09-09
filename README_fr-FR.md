@@ -372,20 +372,20 @@ Traduction en cours
 
 <a name="prompt-2096817125864484954"></a>
 
-### Traduction en cours
+### Un prompt de vidéo de vlog de voyage continu en 4K représentant une jeune femme est-asiatique explorant divers lieux emblématiques d'Istanbul.
 
 Auteur：[@Zyrellix](https://x.com/Zyrellix) · [Publication originale](https://x.com/Zyrellix/status/2096817125864484954)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt de vidéo de vlog de voyage continu en 4K représentant une jeune femme est-asiatique explorant divers lieux emblématiques d'Istanbul.
 
 <img src="covers/2096817125864484954.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une vidéo continue de vlog de voyage en 4K mettant en scène une jeune femme est-asiatique aux longs cheveux noirs, vêtue d'un crop top blanc, d'une chemise blanche ouverte et d'un short beige, explorant Istanbul. La vidéo s'enchaîne de manière fluide à travers des moments de voyage dynamiques : débutant par une intro ASMR en gros plan chuchotant dans un micro près de Sainte-Sophie, transitionnant vers une caméra selfie à la main tournoyant sur une place ensoleillée bondée de touristes. Coupe vers une prise de vue en contre-plongée à l'intérieur d'une mosquée historique admirant de grandioses plafonds en dôme et des arches ottomanes, suivie d'un instant à l'heure dorée sur un toit-terrasse près de la tour de Galata avec ses cheveux flottant doucement dans la brise. Elle se tient ensuite près du garde-corps d'un ferry sur le Bosphore en souriant à la caméra, marche dans une ruelle pavée étroite bordée de cafés en terrasse, tend une tasse de café turc près de l'objectif dans un café chaleureux, et se termine par un large plan cinématographique au crépuscule sur la ligne d'horizon illuminée d'Istanbul à travers l'eau. Hyper détaillé, photoréaliste, résolution 8k, éclairage cinématographique, couleurs naturelles éclatantes, mouvement fluide, visage et physique photoréalistes.
 ```
 
 [↑ Retour aux catégories](#catalog)

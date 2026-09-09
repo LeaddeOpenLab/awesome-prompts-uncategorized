@@ -372,20 +372,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2096817125864484954"></a>
 
-### Çeviri sürüyor
+### Genç bir Doğu Asyalı kadının İstanbul'daki çeşitli ikonik yerleri keşfetmesini betimleyen kesintisiz bir 4K seyahat vogu videosu istemi.
 
 Yazar：[@Zyrellix](https://x.com/Zyrellix) · [Orijinal gönderi](https://x.com/Zyrellix/status/2096817125864484954)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Genç bir Doğu Asyalı kadının İstanbul'daki çeşitli ikonik yerleri keşfetmesini betimleyen kesintisiz bir 4K seyahat vogu videosu istemi.
 
 <img src="covers/2096817125864484954.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Uzun koyu saçlı, beyaz büstiyer, açık beyaz gömlek ve bej şort giyen genç bir Doğu Asyalı kadının İstanbul'u keşfettiği kesintisiz bir 4K seyahat vogu videosu. Video, dinamik seyahat anları arasında kusursuz bir şekilde geçiş yapıyor: Ayasofya yakınlarında mikrofona fısıldayan bir yakın çekim ASMR girişiyle başlıyor, ardından turistlerle dolu güneşli bir meydanda kendi etrafında dönen elde tutulan bir selfie kamerasına geçiyor. Tarihi bir caminin içinde görkemli kubbeli tavanlara ve Osmanlı kemerlerine bakan alt açı çekimine kesiliyor, ardından Galata Kulesi yakınlarında saçlarının rüzgarda hafifçe dalgalandığı bir altın saat çatı katı anı geliyor. Daha sonra Boğaz vapurunun korkuluğunda kameraya gülümseyerek duruyor, açık hava kafeleriyle çevrili dar bir arnavut kaldırımlı sokakta yürüyor, sıcak bir kafede objektife yakın bir fincan Türk kahvesi uzatıyor ve suyun karşısındaki aydınlatılmış İstanbul silüetinin geniş, sinematik bir alacakaranlık çekimiyle sona eriyor. Aşırı ayrıntılı, fotogerçekçi, 8k çözünürlük, sinematik aydınlatma, canlı doğal renkler, akıcı hareket, fotogerçekçi yüz ve fizik.
 ```
 
 [↑ Kategorilere dön](#catalog)

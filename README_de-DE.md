@@ -372,20 +372,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2096817125864484954"></a>
 
-### Übersetzung läuft
+### Ein Video-Prompt für einen durchgehenden 4K-Reise-Vlog, der eine junge ostasiatische Frau zeigt, die verschiedene ikonische Orte in Istanbul erkundet.
 
 Autor：[@Zyrellix](https://x.com/Zyrellix) · [Originalbeitrag](https://x.com/Zyrellix/status/2096817125864484954)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Video-Prompt für einen durchgehenden 4K-Reise-Vlog, der eine junge ostasiatische Frau zeigt, die verschiedene ikonische Orte in Istanbul erkundet.
 
 <img src="covers/2096817125864484954.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein durchgehendes 4K-Reise-Vlog-Video mit einer jungen ostasiatischen Frau mit langen dunklen Haaren, die ein weißes Crop-Top, ein offenes weißes Hemd und beigefarbene Shorts trägt und Istanbul erkundet. Das Video geht nahtlos durch dynamische Reisemomente: beginnend mit einem Nahaufnahme-ASMR-Intro, in dem sie in der Nähe der Hagia Sophia in ein Mikrofon flüstert, übergehend zu einer Handheld-Selfie-Kamera, die sich über einen sonnigen, von Touristen belebten Platz dreht. Schnitt zu einer Froschperspektive im Inneren einer historischen Moschee mit Blick auf prächtige Kuppeldecken und osmanische Bögen, gefolgt von einem Moment zur goldenen Stunde auf einer Dachterrasse in der Nähe des Galataturms, während ihr Haar sanft im Wind weht. Dann steht sie lächelnd an der Reling einer Bosporus-Fähre in die Kamera, geht durch eine schmale, von Straßencafés gesäumte Kopfsteinpflastergasse, hält in einem gemütlichen Café eine Tasse türkischen Kaffee nah an das Objektiv und endet mit einer weiten, filmischen Dämmerungsaufnahme der erleuchteten Skyline von Istanbul über dem Wasser. Hyperdetailliert, fotorealistisch, 8k-Auflösung, filmische Beleuchtung, lebendige natürliche Farben, flüssige Bewegung, fotorealistisches Gesicht und Physik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

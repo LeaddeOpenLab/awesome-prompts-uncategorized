@@ -372,20 +372,20 @@ Traduzione in corso
 
 <a name="prompt-2096817125864484954"></a>
 
-### Traduzione in corso
+### Un prompt video per un travel vlog continuo in 4K che ritrae una giovane donna dell'Asia orientale mentre esplora vari luoghi iconici di Istanbul.
 
 Autore：[@Zyrellix](https://x.com/Zyrellix) · [Post originale](https://x.com/Zyrellix/status/2096817125864484954)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt video per un travel vlog continuo in 4K che ritrae una giovane donna dell'Asia orientale mentre esplora vari luoghi iconici di Istanbul.
 
 <img src="covers/2096817125864484954.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un video continuo di travel vlog in 4K con protagonista una giovane donna dell'Asia orientale con lunghi capelli scuri, che indossa un crop top bianco, una camicia bianca aperta e pantaloncini beige, mentre esplora Istanbul. Il video si sussegue senza interruzioni attraverso dinamici momenti di viaggio: iniziando con un'intro ASMR in primo piano sussurrando a un microfono vicino a Santa Sofia, passando a una fotocamera selfie a mano che gira su una piazza soleggiata piena di turisti. Stacco su un'inquadratura dal basso all'interno di una moschea storica contemplando maestosi soffitti a cupola e archi ottomani, seguita da un momento dell'ora d'oro su una terrazza vicino alla Torre di Galata con i capelli che svolazzano dolcemente nella brezza. Poi si trova vicino alla ringhiera di un traghetto sul Bosforo sorridendo alla telecamera, cammina lungo uno stretto vicolo acciottolato costeggiato da caffè all'aperto, porge una tazza di caffè turco vicino all'obiettivo in un caffè accogliente e termina con un'ampia inquadratura cinematografica al crepuscolo dello skyline illuminato di Istanbul attraverso l'acqua. Iper-dettagliato, fotorealistico, risoluzione 8k, illuminazione cinematografica, colori naturali vivaci, movimento fluido, volto e fisica fotorealistici.
 ```
 
 [↑ Torna alle categorie](#catalog)
