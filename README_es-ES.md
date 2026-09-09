@@ -120,20 +120,30 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2096832231071519193"></a>
 
-### Traducción en curso
+### Guion gráfico para un anuncio cinematográfico de 10 segundos en 9:16 para LEGO Botanical Collection, con acercamiento, detalles macro, ensamblaje a mano y una muestra final con giro de cámara.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicación original](https://x.com/Urwa_345/status/2096832231071519193)
 
 Cómic / Guion gráfico · Cine / Fotograma de película · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Guion gráfico para un anuncio cinematográfico de 10 segundos en 9:16 para LEGO Botanical Collection, con acercamiento, detalles macro, ensamblaje a mano y una muestra final con giro de cámara.
 
 <img src="covers/2096832231071519193.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio cinematográfico de 10 segundos de producto prémium para LEGO Botanical Collection en formato vertical 9:16.
+
+0–2 s: Lento acercamiento de cámara (push-in) hacia el set botánico de LEGO bellamente dispuesto sobre una mesa de madera, iluminación cinematográfica suave.
+
+2–4 s: Transición macro fluida hacia las detalladas piezas de flores de LEGO, enfocándose en la textura y la artesanía.
+
+4–7 s: Muestra manos ensamblando de forma natural el arreglo floral, movimientos rápidos y satisfactorios, profundidad de campo reducida, ambiente de estilo de vida elegante.
+
+7–10 s: Revela el arreglo botánico completo en una habitación moderna. La cámara gira lentamente alrededor del producto terminado mientras una luz cálida crea una atmósfera acogedora y prémium.
+
+Transiciones fluidas, movimiento realista, calidad de anuncio publicitario comercial, profundidad de campo cinematográfica, movimiento sutil de cámara, gran nivel de detalle, estilo de fotografía de producto prémium, sin superposiciones de texto, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

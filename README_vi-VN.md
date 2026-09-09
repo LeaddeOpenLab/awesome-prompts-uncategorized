@@ -120,20 +120,30 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2096832231071519193"></a>
 
-### Đang dịch
+### Bảng phân cảnh quảng cáo thương mại điện ảnh dài 10 giây tỷ lệ 9:16 cho LEGO Botanical Collection với các cảnh đẩy máy quay, chi tiết macro, lắp ráp bằng tay và cảnh quay xoay quanh trưng bày tác phẩm hoàn thiện.
 
 Tác giả：[@Urwa\_345](https://x.com/Urwa_345) · [Bài gốc](https://x.com/Urwa_345/status/2096832231071519193)
 
 Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bảng phân cảnh quảng cáo thương mại điện ảnh dài 10 giây tỷ lệ 9:16 cho LEGO Botanical Collection với các cảnh đẩy máy quay, chi tiết macro, lắp ráp bằng tay và cảnh quay xoay quanh trưng bày tác phẩm hoàn thiện.
 
 <img src="covers/2096832231071519193.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một quảng cáo sản phẩm cao cấp đậm chất điện ảnh dài 10 giây cho LEGO Botanical Collection ở định dạng dọc 9:16.
+
+0–2 giây: Máy quay từ từ đẩy tới (push-in) hướng về bộ sản phẩm thực vật LEGO được sắp đặt đẹp mắt trên bàn gỗ, ánh sáng điện ảnh dịu nhẹ.
+
+2–4 giây: Chuyển cảnh macro mượt mà đến các chi tiết hoa LEGO tinh xảo, tập trung vào kết cấu và độ hoàn thiện thủ công.
+
+4–7 giây: Cận cảnh đôi bàn tay đang lắp ráp cành hoa một cách tự nhiên, chuyển động nhanh gọn đem lại cảm giác thỏa mãn, độ sâu trường ảnh nông, bầu không khí phong cách sống thanh lịch.
+
+7–10 giây: Hé lộ bình hoa thực vật hoàn thiện trong một căn phòng hiện đại. Máy quay từ từ xoay quanh sản phẩm đã hoàn chỉnh trong khi ánh sáng ấm áp tạo nên bầu không khí cao cấp, ấm cúng.
+
+Chuyển cảnh mượt mà, chuyển động chân thực, chất lượng quảng cáo thương mại, độ sâu trường ảnh chuẩn điện ảnh, chuyển động máy quay tinh tế, chi tiết cao, phong cách nhiếp ảnh sản phẩm cao cấp, không có văn bản đè lên, không có hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
