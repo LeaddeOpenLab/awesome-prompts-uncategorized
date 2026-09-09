@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-09T03:17:40.159Z",
+  "model": "unknown-video",
+  "prompt": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
+  "promptTranslations": {
+    "en": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design."
+  },
+  "summaryTranslations": {
+    "en": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design."
+  },
+  "translationVersion": 2,
+  "summary": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
+  "summaryEn": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097514564875104516",
+    "canonicalUrl": "https://x.com/VKs_Host/status/2097514564875104516",
+    "author": {
+      "username": "VKs_Host",
+      "displayName": "Z®",
+      "profileUrl": "https://x.com/VKs_Host"
+    },
+    "publishedAt": "2026-09-09T02:36:56.000Z",
+    "collectedAt": "2026-09-09T02:40:21.975Z",
+    "language": "en",
+    "originalText": "Prompt: Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design. https://t.co/EAzaQYImsb",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/VKs_Host/status/2097514564875104516",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097512235665129473/img/Di9N1hFsT55FGEeG.jpg",
+        "analysisUrl": "https://x.com/VKs_Host/status/2097514564875104516"
+      }
+    ],
+    "metrics": {
+      "likeCount": 51,
+      "repostCount": 7,
+      "replyCount": 10,
+      "quoteCount": 0,
+      "viewCount": 1433
+    },
+    "matchedRuleIds": [
+      "custom:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solidworks\",\"cad\",\"image\"]"
+    ]
+  },
+  "xUrl": "https://x.com/VKs_Host/status/2097514564875104516",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097512235665129473/img/Di9N1hFsT55FGEeG.jpg",
+  "coverPath": "covers/2097514564875104516.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097512235665129473",
+    "x-post:2097514564875104516"
+  ],
+  "analysis": {
+    "summary": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
+    "summaryEn": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": false,
+      "missingElements": [],
+      "evidence": "仅审核正文 Prompt；媒体效果与一致性待人工核对。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design.",
+    "sourceRange": {
+      "start": 8,
+      "end": 101
+    },
+    "translations": {
+      "zh": "为 6 台 Nvidia Spark 创建一个服务器机架，具有高效且美观的设计。",
+      "en": "Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically pleasing design."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-3d",
+    "useCase": "工业设计与3D硬件建模",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Nvidia"
+      ]
+    },
+    "mediaReview": "manual",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
