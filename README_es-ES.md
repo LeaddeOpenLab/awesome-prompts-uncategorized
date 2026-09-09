@@ -14,7 +14,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**11** Prompts · Última incorporación: **2026-09-09**
+**12** Prompts · Última incorporación: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -199,6 +199,28 @@ Traducción en curso
 <a name="category-3d-render"></a>
 
 ## Render 3D
+
+<a name="prompt-2097507029858300297"></a>
+
+### Traducción en curso
+
+Autor：[@RockGrokAI](https://x.com/RockGrokAI) · [Publicación original](https://x.com/RockGrokAI/status/2097507029858300297)
+
+Ilustración · Render 3D · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097507029858300297.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097514564875104516"></a>
 

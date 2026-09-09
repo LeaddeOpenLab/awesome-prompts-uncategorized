@@ -14,7 +14,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**11** Prompt · Bổ sung mới nhất: **2026-09-09**
+**12** Prompt · Bổ sung mới nhất: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -199,6 +199,28 @@ Minh họa · Chân dung / Ảnh tự chụp · Đã xuất bản
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2097507029858300297"></a>
+
+### Đang dịch
+
+Tác giả：[@RockGrokAI](https://x.com/RockGrokAI) · [Bài gốc](https://x.com/RockGrokAI/status/2097507029858300297)
+
+Minh họa · Kết xuất 3D · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097507029858300297.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097514564875104516"></a>
 

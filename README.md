@@ -14,7 +14,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**11** Prompts · Latest addition: **2026-09-09**
+**12** Prompts · Latest addition: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -223,6 +223,28 @@ Transform the photo into a hand-painted gouache caricature on cream cotton paper
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2097507029858300297"></a>
+
+### Whimsical 3D CGI fantasy illustration of a baby fox cub in a golden vest and a baby fawn on a misty stone path.
+
+Author：[@RockGrokAI](https://x.com/RockGrokAI) · [Source](https://x.com/RockGrokAI/status/2097507029858300297)
+
+Illustration · 3D Render · Character · Published
+
+**Summary:** Whimsical 3D CGI fantasy illustration of a baby fox cub in a golden vest and a baby fawn on a misty stone path.
+
+<img src="covers/2097507029858300297.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Whimsical 3D CGI fantasy illustration of an adorable baby fox cub and gentle baby fawn standing together on a cracked stone path in a misty rocky landscape. The fluffy fox cub has vibrant orange fur with white accents, bushy tail, huge sparkling emerald eyes, golden spiky head tufts, and ornate embroidered golden vest. It looks up at the fawn, which has soft light brown fur with white spots, large expressive eyes, and a sweet expression. Misty fog, dark rocky cliffs, gnarled trees, and lush purple lavender flowers surround them. Soft volumetric lighting, detailed fur textures, rich earthy tones with vivid purples, cinematic depth, enchanting heartwarming atmosphere.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097514564875104516"></a>
 

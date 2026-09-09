@@ -14,7 +14,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**11** Prompts · Última adição: **2026-09-09**
+**12** Prompts · Última adição: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -199,6 +199,28 @@ Tradução em andamento
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2097507029858300297"></a>
+
+### Tradução em andamento
+
+Autor：[@RockGrokAI](https://x.com/RockGrokAI) · [Publicação original](https://x.com/RockGrokAI/status/2097507029858300297)
+
+Ilustração · Renderização 3D · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2097507029858300297.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097514564875104516"></a>
 

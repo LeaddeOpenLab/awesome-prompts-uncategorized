@@ -14,7 +14,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**11** Prompt · Son eklenen: **2026-09-09**
+**12** Prompt · Son eklenen: **2026-09-09**
 
 <a name="catalog"></a>
 
@@ -199,6 +199,28 @@ Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https:/
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2097507029858300297"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RockGrokAI](https://x.com/RockGrokAI) · [Orijinal gönderi](https://x.com/RockGrokAI/status/2097507029858300297)
+
+İllüstrasyon · 3D Modelleme · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097507029858300297.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097514564875104516"></a>
 
