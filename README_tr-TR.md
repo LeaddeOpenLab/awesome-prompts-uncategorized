@@ -56,20 +56,20 @@ Fotoğrafçılık · Karakter · Yayımlandı
 
 <a name="prompt-2097223313592316111"></a>
 
-### Çeviri sürüyor
+### Siyah balıkçı yaka kazaklı ve şeffaf gözlüklü bir adamın macenta ve camgöbeği ikili aydınlatmalı ultra gerçekçi stüdyo portresi.
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2097223313592316111)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Siyah balıkçı yaka kazaklı ve şeffaf gözlüklü bir adamın macenta ve camgöbeği ikili aydınlatmalı ultra gerçekçi stüdyo portresi.
 
 <img src="images/2097223313592316111-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğraflanmış, kendinden emin ve düşünceli bir ifadeye sahip yetişkin bir erkeğin ultra gerçekçi bir yakın çekim stüdyo portresini oluşturun. Ona düzgün, kısa siyah saçlar verin. Stüdyo ışıklarından hafif yansımalar taşıyan şeffaf dikdörtgen gözlükler takıyor. Onu, yapılandırılmış klapalara sahip sofistike siyah özel dikim bir ceketin altına katmanlanmış dar kesim siyah bir balıkçı yaka kazakla giydirin. Görünürde hiçbir takı veya gereksiz aksesuar olmadan kıyafeti tamamen minimalist ve monokrom tutun. Başını hafifçe yukarı kaldırarak ve gözleri karenin sağ üst tarafına bakarak kameradan biraz öteye dönük bir poz verdirin; sakin, zeki ve ilham verici bir hava yaratın. Çarpıcı iki tonlu stüdyo aydınlatması kullanın: saçının ve yüzünün sol tarafını aydınlatan canlı macenta/mor kenar ışığı ve sağ tarafı aydınlatan dinamik elektrik mavisi/camgöbeği ışık. Cildin gerçekçi, ayrıntılı ve doğru pozlanmış kalması için yüz üzerinde yumuşak, nötr bir ön aydınlatma uygulayın. Solda koyu mor ve macentadan sağda elektrik mavisine geçiş yapan zengin bir degradeye sahip bulanık, fütüristik bir stüdyo arka planı oluşturun. Fazladan görsel derinlik için sol alt arka plana parlayan çapraz bir neon-macenta ışık çubuğu ekleyin. Gerçekçi cilt dokusunu, ayrıntılı sakal kıllarını, keskin gözleri, doğal gözlük yansımalarını, net kumaş dokusunu, sinematik kontrastı, sığ alan derinliğini, yumuşak renkli bokeh efektini, birinci sınıf kişisel marka fotoğrafçılığını, üst düzey kurumsal editoryal estetiği, ultra fotogerçekçiliği, 85 mm portre lensi görünümünü, f/1.8, 8K ayrıntıyı ve 4:5 dikey kompozisyonu vurgulayın.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -56,20 +56,20 @@ Tradução em curso
 
 <a name="prompt-2097223313592316111"></a>
 
-### Tradução em curso
+### Retrato de estúdio ultrarrealista de um homem com camisola de gola alta preta e óculos transparentes com iluminação dupla magenta e ciano.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2097223313592316111)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de estúdio ultrarrealista de um homem com camisola de gola alta preta e óculos transparentes com iluminação dupla magenta e ciano.
 
 <img src="images/2097223313592316111-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto com uma expressão confiante e reflexiva, fotografado do peito para cima num estilo editorial moderno e sofisticado. Dê-lhe cabelo preto curto e cuidado. Ele usa óculos retangulares transparentes com reflexos subtis das luzes do estúdio. Vista-o com uma camisola preta justa de gola alta sob um sofisticado blazer preto por medida com lapelas estruturadas. Mantenha o visual completamente minimalista e monocromático, sem joias visíveis ou acessórios desnecessários. Posicione-o virado ligeiramente de lado em relação à câmara, com a cabeça suavemente inclinada para cima e o olhar direcionado para o canto superior direito do enquadramento, criando um ambiente calmo, inteligente e inspirador. Utilize uma iluminação de estúdio dramática em dois tons: luz de contorno vívida em magenta/púrpura a iluminar o lado esquerdo do cabelo e do rosto, e uma luz vibrante em azul-elétrico/ciano a iluminar o lado direito. Mantenha uma iluminação frontal neutra e suave no rosto para que a pele permaneça realista, detalhada e devidamente exposta. Crie um fundo de estúdio futurista e desfocado com um gradiente rico que transita de púrpura profundo e magenta à esquerda para azul-elétrico à direita. Adicione uma barra de luz néon magenta diagonal e brilhante no fundo inferior esquerdo para maior profundidade visual. Destaque a textura realista da pele, pelos detalhados da barba, olhos nítidos, reflexos naturais nos óculos, textura nítida do tecido, contraste cinematográfico, profundidade de campo reduzida, bokeh suave e colorido, fotografia de marca pessoal de prestígio, estética editorial corporativa topo de gama, ultrafotorrealista, aspeto de lente de retrato de 85 mm, f/1.8, detalhe em 8K, composição vertical 4:5.
 ```
 
 [↑ Voltar às categorias](#catalog)

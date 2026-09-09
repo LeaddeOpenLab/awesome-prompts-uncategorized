@@ -56,20 +56,20 @@ Traduzione in corso
 
 <a name="prompt-2097223313592316111"></a>
 
-### Traduzione in corso
+### Ritratto in studio ultra-realistico di un uomo con dolcevita nero e occhiali trasparenti con doppia illuminazione magenta e ciano.
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2097223313592316111)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto in studio ultra-realistico di un uomo con dolcevita nero e occhiali trasparenti con doppia illuminazione magenta e ciano.
 
 <img src="images/2097223313592316111-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un'espressione sicura e riflessiva, fotografato dal petto in su in uno stile editoriale moderno di alto livello. Dagli capelli neri corti e curati. Indossa occhiali rettangolari trasparenti con sottili riflessi delle luci dello studio. Vestilo con un maglione dolcevita nero aderente sotto un sofisticato blazer nero sartoriale con rever strutturati. Mantieni l'outfit completamente minimale e monocromatico, senza gioielli visibili o accessori non necessari. Mettilo in posa rivolto leggermente lontano dalla fotocamera, con la testa delicatamente inclinata verso l'alto e gli occhi rivolti verso la parte superiore destra dell'inquadratura, creando un'atmosfera calma, intelligente e ambiziosa. Usa una drammatica illuminazione da studio bicolore: una vivida luce d'accento magenta/viola che illumina il lato sinistro dei capelli e del viso, e una vibrante luce blu elettrico/ciano che illumina il lato destro. Mantieni una morbida illuminazione frontale neutra sul viso in modo che la pelle rimanga realistica, dettagliata e correttamente esposta. Crea uno sfondo da studio futuristico sfocato con una ricca sfumatura che passa dal viola intenso e magenta a sinistra al blu elettrico a destra. Aggiungi una barra luminosa al neon magenta diagonale brillante in basso a sinistra sullo sfondo per una maggiore profondità visiva. Enfatizza la texture realistica della pelle, i peli dettagliati della barba, occhi nitidi, riflessi naturali degli occhiali, trama del tessuto definita, contrasto cinematografico, profondità di campo ridotta, bokeh morbido e colorato, fotografia di personal branding di livello superiore, estetica editoriale aziendale di fascia alta, ultra-fotorealistico, look da obiettivo per ritratti da 85 mm, f/1.8, dettaglio 8K, composizione verticale 4:5.
 ```
 
 [↑ Torna alle categorie](#catalog)

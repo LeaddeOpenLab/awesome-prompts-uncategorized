@@ -56,20 +56,32 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 
 <a name="prompt-2097223313592316111"></a>
 
-### Đang dịch
+### Chân dung studio siêu thực của người đàn ông mặc áo cổ lọ đen đeo kính trong suốt với ánh sáng kép đỏ tươi và xanh lơ.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2097223313592316111)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung studio siêu thực của người đàn ông mặc áo cổ lọ đen đeo kính trong suốt với ánh sáng kép đỏ tươi và xanh lơ.
 
 <img src="images/2097223313592316111-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh chân dung studio cận cảnh siêu thực của một người đàn ông trưởng thành với vẻ mặt tự tin, trầm tư, được chụp từ ngực trở lên theo phong cách biên tập hiện đại cao cấp.
+
+Cho anh ấy mái tóc đen ngắn gọn gàng. Anh ấy đeo kính mắt hình chữ nhật trong suốt với ánh phản chiếu tinh tế từ đèn studio.
+
+Mặc cho anh ấy chiếc áo len cổ lọ màu đen ôm vừa vặn, khoác bên ngoài chiếc áo blazer may đo màu đen tinh tế với ve áo có cấu trúc rõ nét. Giữ trang phục hoàn toàn tối giản và đơn sắc, không có trang sức lộ rõ hay phụ kiện thừa thãi.
+
+Tạo dáng anh ấy hơi quay mặt ra xa máy ảnh, đầu hơi ngẩng lên và mắt nhìn về phía trên bên phải của khung hình, tạo nên một tâm trạng điềm tĩnh, thông minh và đầy khát vọng.
+
+Sử dụng ánh sáng studio hai tông màu đầy kịch tính: ánh sáng viền màu đỏ tươi/tím rực rỡ chiếu sáng phần bên trái mái tóc và khuôn mặt, cùng ánh sáng màu xanh lam điện/xanh lơ rực rỡ chiếu sáng phần bên phải. Giữ ánh sáng phía trước dịu nhẹ, trung tính chiếu vào khuôn mặt để làn da vẫn chân thực, chi tiết và có độ phơi sáng chuẩn xác.
+
+Tạo phông nền studio mờ ảo mang hơi hướng tương lai với hiệu ứng chuyển màu phong phú từ tím sẫm và đỏ tươi ở bên trái sang xanh lam điện ở bên phải. Thêm một thanh đèn neon màu đỏ tươi phát sáng theo đường chéo ở hậu cảnh phía dưới bên trái để tạo thêm chiều sâu thị giác.
+
+Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi mắt sắc nét, ánh phản chiếu tự nhiên trên mắt kính, kết cấu vải sắc nét, độ tương phản đậm chất điện ảnh, độ sâu trường ảnh nông, hiệu ứng bokeh rực rỡ mượt mà, nhiếp ảnh thương hiệu cá nhân cao cấp, thẩm mỹ biên tập doanh nghiệp đẳng cấp, siêu chân thực, phong cách ống kính chân dung 85mm, f/1.8, chi tiết 8K, bố cục dọc 4:5.
 ```
 
 [↑ Về danh mục](#catalog)

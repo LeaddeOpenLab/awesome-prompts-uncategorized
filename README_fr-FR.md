@@ -56,20 +56,20 @@ Traduction en cours
 
 <a name="prompt-2097223313592316111"></a>
 
-### Traduction en cours
+### Portrait de studio ultraréaliste d'un homme en col roulé noir et lunettes transparentes avec un double éclairage magenta et cyan.
 
 Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2097223313592316111)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de studio ultraréaliste d'un homme en col roulé noir et lunettes transparentes avec un double éclairage magenta et cyan.
 
 <img src="images/2097223313592316111-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec une expression confiante et pensive, photographié à partir de la poitrine dans un style éditorial moderne haut de gamme. Donnez-lui des cheveux noirs courts et soignés. Il porte des lunettes rectangulaires transparentes avec de subtils reflets des lumières du studio. Habillez-le d'un pull à col roulé noir ajusté sous un blazer noir ajusté et sophistiqué avec des revers structurés. Gardez la tenue complètement minimale et monochrome, sans bijoux visibles ni accessoires superflus. Faites-le poser le visage légèrement détourné de l'appareil photo, la tête délicatement inclinée vers le haut et les yeux tournés vers le coin supérieur droit du cadre, créant une ambiance calme, intelligente et inspirante. Utilisez un éclairage de studio bicolore spectaculaire : une lumière de contour magenta/violette vive illuminant le côté gauche de ses cheveux et de son visage, et une lumière bleu électrique/cyan éclatante illuminant le côté droit. Conservez un éclairage frontal doux et neutre sur le visage pour que la peau reste réaliste, détaillée et correctement exposée. Créez un arrière-plan de studio futuriste flou avec un dégradé riche passant d'un violet profond et magenta sur la gauche à un bleu électrique sur la droite. Ajoutez une barre lumineuse néon magenta diagonale brillante en bas à gauche de l'arrière-plan pour plus de profondeur visuelle. Mettez l'accent sur la texture réaliste de la peau, les poils détaillés de la barbe, les yeux perçants, les reflets naturels des lunettes, la texture nette du tissu, le contraste cinématographique, la faible profondeur de champ, un bokeh fluide et coloré, une photographie de marque personnelle haut de gamme, une esthétique éditoriale d'entreprise soignée, ultra-photoréaliste, aspect d'objectif portrait 85 mm, f/1.8, détails 8K, composition verticale 4:5.
 ```
 
 [↑ Retour aux catégories](#catalog)

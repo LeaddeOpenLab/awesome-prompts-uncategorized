@@ -56,20 +56,20 @@ Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2097223313592316111"></a>
 
-### Übersetzung läuft
+### Ultrarealistisches Studioporträt eines Mannes im schwarzen Rollkragenpullover und transparenter Brille mit dualer Beleuchtung in Magenta und Cyan.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2097223313592316111)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultrarealistisches Studioporträt eines Mannes im schwarzen Rollkragenpullover und transparenter Brille mit dualer Beleuchtung in Magenta und Cyan.
 
 <img src="images/2097223313592316111-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Mannes mit einem selbstbewussten, nachdenklichen Ausdruck, fotografiert von der Brust aufwärts in einem modernen, erstklassigen Editorial-Stil. Gib ihm gepflegtes, kurzes schwarzes Haar. Er trägt eine transparente rechteckige Brille mit dezenten Reflexionen der Studiolichter. Kleide ihn in einen anliegenden schwarzen Rollkragenpullover unter einem raffinierten schwarzen Maßsakko mit strukturiertem Revers. Halte das Outfit vollständig minimalistisch und monochrom ohne sichtbaren Schmuck oder unnötige Accessoires. Positioniere ihn leicht von der Kamera abgewandt, mit sanft nach oben geneigtem Kopf und den Augen zum oberen rechten Bildrand gerichtet, um eine ruhige, intelligente und inspirierende Stimmung zu erzeugen. Verwende eine dramatische zweifarbige Studiobeleuchtung: lebendiges Magenta-/Lila-Streiflicht, das die linke Seite seiner Haare und seines Gesichts beleuchtet, und dynamisches elektrisches Blau-/Cyan-Licht, das die rechte Seite beleuchtet. Behalte eine weiche neutrale Frontalbeleuchtung auf dem Gesicht bei, damit die Haut realistisch, detailliert und korrekt belichtet bleibt. Erstelle einen verschwommenen futuristischen Studiohintergrund mit einem satten Farbverlauf, der von tiefem Lila und Magenta links zu elektrischem Blau rechts übergeht. Füge unten links im Hintergrund einen leuchtenden diagonalen Neon-Magenta-Lichtbalken für zusätzliche visuelle Tiefe hinzu. Betone realistische Hautstruktur, detaillierte Barthaare, scharfe Augen, natürliche Brillenreflexionen, klare Stofftextur, filmischen Kontrast, geringe Schärfentiefe, sanftes farbenfrohes Bokeh, erstklassige Personal-Branding-Fotografie, hochwertige Corporate-Editorial-Ästhetik, ultrafotorealistisch, 85-mm-Porträtobjektiv-Look, f/1.8, 8K-Details, vertikale 4:5-Komposition.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

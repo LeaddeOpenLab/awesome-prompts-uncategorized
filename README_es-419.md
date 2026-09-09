@@ -56,20 +56,20 @@ Traducción en curso
 
 <a name="prompt-2097223313592316111"></a>
 
-### Traducción en curso
+### Retrato de estudio ultrarrealista de un hombre con suéter de cuello alto negro y lentes transparentes con iluminación dual magenta y cian.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2097223313592316111)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de estudio ultrarrealista de un hombre con suéter de cuello alto negro y lentes transparentes con iluminación dual magenta y cian.
 
 <img src="images/2097223313592316111-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto con una expresión segura y reflexiva, fotografiado desde el pecho hacia arriba en un estilo editorial moderno de primera calidad. Dale cabello negro corto y prolijo. Lleva anteojos rectangulares transparentes con reflejos sutiles de las luces del estudio. Vístelo con un suéter negro ajustado de cuello alto debajo de un sofisticado saco sastre negro con solapas estructuradas. Mantén el atuendo completamente minimalista y monocromático, sin joyas visibles ni accesorios innecesarios. Colócalo posando ligeramente en dirección opuesta a la cámara, con la cabeza suavemente inclinada hacia arriba y la mirada dirigida hacia la parte superior derecha del encuadre, creando un ambiente tranquilo, inteligente y aspiracional. Utiliza una dramática iluminación de estudio de dos tonos: una intensa luz de contorno magenta/púrpura que ilumine el lado izquierdo de su cabello y rostro, y una vibrante luz azul eléctrico/cian que ilumine el lado derecho. Mantén una suave iluminación frontal neutra en el rostro para que la piel se mantenga realista, detallada y debidamente expuesta. Crea un fondo de estudio futurista y difuminado con un rico degradado que pase de púrpura profundo y magenta a la izquierda a azul eléctrico a la derecha. Añade una barra de luz de neón magenta diagonal brillante en el fondo inferior izquierdo para mayor profundidad visual. Enfatiza la textura realista de la piel, los vellos detallados de la barba, ojos nítidos, reflejos naturales en los anteojos, textura nítida de la tela, contraste cinematográfico, poca profundidad de campo, efecto bokeh colorido y suave, fotografía de marca personal de primer nivel, estética editorial corporativa de alta gama, ultrafotorrealista, aspecto de lente de retrato de 85 mm, f/1.8, detalle 8K, composición vertical 4:5.
 ```
 
 [↑ Volver a categorías](#catalog)

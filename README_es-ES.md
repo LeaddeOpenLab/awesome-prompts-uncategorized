@@ -56,20 +56,32 @@ Traducción en curso
 
 <a name="prompt-2097223313592316111"></a>
 
-### Traducción en curso
+### Retrato de estudio ultrarrealista de un hombre con cuello alto negro y gafas transparentes con iluminación dual magenta y cian.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2097223313592316111)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de estudio ultrarrealista de un hombre con cuello alto negro y gafas transparentes con iluminación dual magenta y cian.
 
 <img src="images/2097223313592316111-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato de estudio en primer plano y ultrarrealista de un hombre adulto con una expresión confiada y reflexiva, fotografiado desde el pecho hacia arriba con un estilo editorial moderno de primera calidad.
+
+Dale un cabello negro, corto y prolijo. Lleva unas gafas rectangulares transparentes con sutiles reflejos de las luces del estudio.
+
+Vístelo con un jersey de cuello alto negro ajustado debajo de un sofisticado blazer entallado negro con solapas estructuradas. Mantén el atuendo completamente minimalista y monocromático, sin joyas visibles ni accesorios innecesarios.
+
+Colócalo posando ligeramente orientado lejos de la cámara, con la cabeza suavemente inclinada hacia arriba y los ojos mirando hacia la parte superior derecha del encuadre, creando un ambiente sereno, inteligente y aspiracional.
+
+Utiliza una iluminación de estudio dramática de dos tonos: una intensa luz de contorno magenta/púrpura que ilumina el lado izquierdo de su cabello y rostro, y una vibrante luz azul eléctrico/cian que ilumina el lado derecho. Mantén una iluminación frontal neutra y suave en el rostro para que la piel se mantenga realista, detallada y adecuadamente expuesta.
+
+Crea un fondo de estudio futurista y desenfocado con un rico degradado que transicione de púrpura intenso y magenta a la izquierda a azul eléctrico a la derecha. Añade una barra de luz de neón magenta brillante en diagonal en el fondo inferior izquierdo para aportar mayor profundidad visual.
+
+Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítidos, reflejos naturales en las gafas, textura definida en la tela, contraste cinematográfico, poca profundidad de campo, bokeh suave y colorido, fotografía de marca personal premium, estética editorial corporativa de alta gama, ultrafotorrealista, aspecto de lente de retrato de 85 mm, f/1.8, detalle en 8K, composición vertical 4:5.
 ```
 
 [↑ Volver a categorías](#catalog)
