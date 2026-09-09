@@ -384,20 +384,20 @@ Traducción en curso
 
 <a name="prompt-2097475914124967955"></a>
 
-### Traducción en curso
+### Foto de referencia de stop-motion de arcilla de una flor rosa coral en la tierra.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publicación original](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto de referencia de stop-motion de arcilla de una flor rosa coral en la tierra.
 
 <img src="covers/2097475914124967955.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una sola foto de referencia cuadrada de stop-motion, no un guion gráfico: una flor de cosmos de color rosa coral hecha a mano con arcilla mate en tierra marrón oscura sobre un fondo crema cálido. Cámara baja fija frontal, macro de 70 mm, sensación ortográfica. La tierra ocupa el 22% inferior, con su punto más alto en (50%,79%); el tallo centrado va desde (50%,80%) hasta el centro de la flor en (50%,33%). Añade exactamente dos hojas verdes y una cabeza floral de un ancho del 35% con exactamente 10 pétalos de color coral y un centro dorado texturizado. Incluye huellas dactilares sutiles, migajas de tierra y unos pocos guijarros. Utiliza una iluminación suave desde la parte superior izquierda y sombras fijas. Mantén la flor completa visible, con la cámara y la tierra fijas para animación. Sin maceta, plantas adicionales, personajes, insectos, manos, texto, marca de agua, borde ni cuadrícula.
 ```
 
 [↑ Volver a categorías](#catalog)

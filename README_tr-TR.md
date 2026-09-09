@@ -384,20 +384,20 @@ Karakter · Metin / Tipografi · Özet / Arka Plan · Yayımlandı
 
 <a name="prompt-2097475914124967955"></a>
 
-### Çeviri sürüyor
+### Toprakta mercan pembesi bir çiçeğin kilden stop-motion referans fotoğrafı.
 
 Yazar：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Orijinal gönderi](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Toprakta mercan pembesi bir çiçeğin kilden stop-motion referans fotoğrafı.
 
 <img src="covers/2097475914124967955.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tek bir kare stop-motion referans fotoğrafı oluşturun, bir görsel taslak değil: sıcak krem rengi bir arka plan önünde, koyu kahverengi toprakta el yapımı mat kilden mercan pembesi bir kozmos çiçeği. Sabitlenmiş tam karşıdan alçak kamera, 70 mm makro, ortografik his. Toprak alt kısımdaki %22'lik alanı doldurur, en tepe noktası (50%,%79); ortalanmış gövde (50%,%80)'den çiçek merkezine (50%,%33) uzanır. Tam olarak iki yeşil yaprak ve tam olarak 10 mercan yaprağı ile dokulu altın sarısı bir merkeze sahip %35 genişliğinde bir çiçek başı ekleyin. İnce parmak izleri, toprak kırıntıları ve birkaç küçük çakıl taşı ekleyin. Sol üstten yumuşak aydınlatma ve sabit gölgeler kullanın. Animasyon için kamera ve toprak sabit kalacak şekilde çiçeğin tamamını görünür tutun. Saksı, ekstra bitki, karakter, böcek, el, metin, filigran, kenarlık veya ızgara olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -384,20 +384,20 @@ Traduction en cours
 
 <a name="prompt-2097475914124967955"></a>
 
-### Traduction en cours
+### Photo de référence stop-motion en pâte à modeler d'une fleur rose corail dans la terre.
 
 Auteur：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publication originale](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo de référence stop-motion en pâte à modeler d'une fleur rose corail dans la terre.
 
 <img src="covers/2097475914124967955.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une seule photo de référence carrée en stop-motion, pas un storyboard : une fleur de cosmos rose corail faite main en pâte à modeler mate dans de la terre brun foncé sur un fond crème chaleureux. Caméra basse verrouillée de face, macro 70 mm, impression orthographique. La terre remplit les 22 % inférieurs, culminant à (50%,79%) ; la tige centrée part de (50%,80%) jusqu'au centre de la fleur à (50%,33%). Ajoutez exactement deux feuilles vertes et une tête de fleur d'une largeur de 35 % avec exactement 10 pétales corail et un centre doré texturé. Incluez de subtiles empreintes digitales, des miettes de terre et quelques cailloux. Utilisez un éclairage doux venant du coin supérieur gauche et des ombres fixes. Gardez la fleur entière visible, avec la caméra et la terre immobiles pour l'animation. Pas de pot, pas de plantes supplémentaires, de personnages, d'insectes, de mains, de texte, de filigrane, de bordure ni de grille.
 ```
 
 [↑ Retour aux catégories](#catalog)

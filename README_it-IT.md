@@ -384,20 +384,20 @@ Traduzione in corso
 
 <a name="prompt-2097475914124967955"></a>
 
-### Traduzione in corso
+### Foto di riferimento stop-motion in plastilina di un fiore rosa corallo nella terra.
 
 Autore：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Post originale](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Foto di riferimento stop-motion in plastilina di un fiore rosa corallo nella terra.
 
 <img src="covers/2097475914124967955.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una singola foto di riferimento quadrata per stop-motion, non uno storyboard: un fiore di cosmea rosa corallo fatto a mano in argilla opaca su terra marrone scuro contro uno sfondo crema caldo. Telecamera bassa fissa frontale, macro da 70 mm, resa ortografica. La terra riempie il 22% inferiore, con il punto più alto a (50%,79%); lo stelo centrato va da (50%,80%) al centro del fiore a (50%,33%). Aggiungi esattamente due foglie verdi e una testa del fiore larga il 35% con esattamente 10 petali corallo e un centro dorato materico. Includi impronte digitali sottili, briciole di terra e qualche sassolino. Usa un'illuminazione morbida dall'alto a sinistra e ombre fisse. Mantieni il fiore interamente visibile, con fotocamera e terra immobili per l'animazione. Nessun vaso, piante extra, personaggi, insetti, mani, testo, filigrana, bordo o griglia.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -384,20 +384,20 @@ Charakter · Text / Typografie · Zusammenfassung / Hintergrund · Veröffentlic
 
 <a name="prompt-2097475914124967955"></a>
 
-### Übersetzung läuft
+### Stop-Motion-Referenzfoto aus Knete einer korallenrosa Blume in Erde.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Originalbeitrag](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Stop-Motion-Referenzfoto aus Knete einer korallenrosa Blume in Erde.
 
 <img src="covers/2097475914124967955.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein einzelnes quadratisches Stop-Motion-Referenzfoto, kein Storyboard: eine handgefertigte matt-tonige korallenrosa Kosmee-Blume in dunkelbrauner Erde vor einem warmen cremefarbenen Hintergrund. Fixierte, frontale niedrige Kamera, 70mm-Makro, orthografische Anmutung. Erde füllt die unteren 22% aus, mit dem Höchststand bei (50%,79%); der zentrierte Stiel verläuft von (50%,80%) bis zur Blütenmitte bei (50%,33%). Füge genau zwei grüne Blätter und einen 35% breiten Blütenkopf mit genau 10 korallenfarbenen Blütenblättern und einer texturierten goldenen Mitte hinzu. Binde subtile Fingerabdrücke, Erdkrümel und ein paar Kieselsteine ein. Verwende sanftes Licht von oben links und feste Schatten. Halte die gesamte Blume sichtbar, wobei Kamera und Erde für die Animation stationär bleiben. Kein Topf, keine zusätzlichen Pflanzen, Charaktere, Insekten, Hände, Text, Wasserzeichen, Rahmen oder Raster.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

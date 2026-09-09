@@ -384,20 +384,20 @@ Tradução em andamento
 
 <a name="prompt-2097475914124967955"></a>
 
-### Tradução em andamento
+### Foto de referência em stop-motion de argila de uma flor rosa-coral na terra.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publicação original](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Foto de referência em stop-motion de argila de uma flor rosa-coral na terra.
 
 <img src="covers/2097475914124967955.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma única foto de referência quadrada em stop-motion, não um storyboard: uma flor de cosmos rosa-coral feita à mão em argila fosca em solo marrom-escuro contra um fundo creme quente. Câmera baixa fixa e frontal, macro de 70 mm, sensação ortográfica. O solo preenche os 22% inferiores, atingindo o pico em (50%,79%); o caule centralizado vai de (50%,80%) até o centro da flor em (50%,33%). Adicione exatamente duas folhas verdes e uma cabeça de flor de 35% de largura com exatamente 10 pétalas corais e um centro dourado texturizado. Inclua impressões digitais sutis, pedaços de terra e algumas pedrinhas. Use iluminação suave vinda do canto superior esquerdo e sombras fixas. Mantenha a flor completa visível, com a câmera e o solo estacionários para animação. Sem vaso, plantas adicionais, personagens, insetos, mãos, texto, marca d'água, borda ou grade.
 ```
 
 [↑ Voltar às categorias](#catalog)

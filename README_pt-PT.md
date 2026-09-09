@@ -384,20 +384,20 @@ Tradução em curso
 
 <a name="prompt-2097475914124967955"></a>
 
-### Tradução em curso
+### Foto de referência em stop-motion de plasticina de uma flor cor-de-rosa coral na terra.
 
 Autor：[@higgsfield\_ai](https://x.com/higgsfield_ai) · [Publicação original](https://x.com/higgsfield_ai/status/2097475914124967955)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Foto de referência em stop-motion de plasticina de uma flor cor-de-rosa coral na terra.
 
 <img src="covers/2097475914124967955.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma única foto de referência quadrada em stop-motion, não um storyboard: uma flor de cosmos cor-de-rosa coral feita à mão em plasticina mate em terra castanho-escura contra um fundo creme quente. Câmara baixa fixa e frontal, macro de 70 mm, sensação ortográfica. A terra preenche os 22% inferiores, atingindo o pico a (50%,79%); o caule centrado vai de (50%,80%) até ao centro da flor a (50%,33%). Adicione exatamente duas folhas verdes e uma cabeça de flor com 35% de largura com exatamente 10 pétalas cor de coral e um centro dourado texturado. Inclua impressões digitais subtis, migalhas de terra e algumas pedrinhas. Use iluminação suave do canto superior esquerdo e sombras fixas. Mantenha a flor inteira visível, com a câmara e a terra estacionárias para animação. Sem vaso, plantas adicionais, personagens, insetos, mãos, texto, marca de água, moldura ou grelha.
 ```
 
 [↑ Voltar às categorias](#catalog)
