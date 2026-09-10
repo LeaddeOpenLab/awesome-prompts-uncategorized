@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**41** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**42** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -403,6 +403,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2097951331667357808"></a>
+
+### Übersetzung läuft
+
+Autor：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Originalbeitrag](https://x.com/ByronRexMatthe1/status/2097951331667357808)
+
+Fotografie · Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097951331667357808.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097920763529711752"></a>
 

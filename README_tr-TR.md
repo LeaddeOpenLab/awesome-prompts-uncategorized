@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**41** Prompt · Son eklenen: **2026-09-10**
+**42** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -403,6 +403,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2097951331667357808"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Orijinal gönderi](https://x.com/ByronRexMatthe1/status/2097951331667357808)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097951331667357808.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097920763529711752"></a>
 

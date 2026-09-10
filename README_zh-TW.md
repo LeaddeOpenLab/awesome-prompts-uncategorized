@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**41** 筆內容 · 最新收錄: **2026-09-10**
+**42** 筆內容 · 最新收錄: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -410,6 +410,28 @@ CGI毛髮、
 <a name="category-cinematic-film-still"></a>
 
 ## 電影感 / 電影劇照
+
+<a name="prompt-2097951331667357808"></a>
+
+### 翻譯中
+
+作者：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [查看 X 原帖](https://x.com/ByronRexMatthe1/status/2097951331667357808)
+
+攝影 · 電影感 / 電影劇照 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2097951331667357808.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097920763529711752"></a>
 

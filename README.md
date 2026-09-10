@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**41** Prompts · Latest addition: **2026-09-10**
+**42** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -459,6 +459,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097951331667357808"></a>
+
+### A kid riding a giant single jet engine through a narrow sandstone slot canyon at high speed with photorealistic chase cinematography.
+
+Author：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Source](https://x.com/ByronRexMatthe1/status/2097951331667357808)
+
+Photography · Cinematic / Film Still · Published
+
+**Summary:** A kid riding a giant single jet engine through a narrow sandstone slot canyon at high speed with photorealistic chase cinematography.
+
+<img src="covers/2097951331667357808.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A kid is already carving a tight S-turn through a deep slot canyon from frame one, riding a huge single jet engine like a saddle, both hands on the cowling, body tucked, the fat metal turbine filling most of the wash. One giant round intake up front, one roaring nozzle behind, no extra thrusters, no second engine. Narrow Navajo sandstone walls rise on both sides, striated orange, rust, cream, and burnt sienna, undercut and polished smooth where floods have run, dark desert varnish streaks, wind-pitted pockets, hanging juniper roots, a thin ribbon of sky far overhead. Sun slashes in from a high gap, hard noon light, long blue shadows in the slot, heat shimmer over the wash, alkali dust, cracked mud, scattered cobbles, bleached driftwood, a trickle of green where a seep wets the rock. The single nozzle dumps crazy electric-blue afterburner flames and thick rolling white-and-soot smoke the whole time, never a single puff that dies, blue glow licking the canyon walls and lighting the kid’s dusty visor. Full live-action photoreal: sandblasted turbine casing, rivets, heat-stained metal, dented intake lip, imperfect kid skin, sunburn, sweat, worn gloves, handheld chase cam, film grain, motion blur, lens flare through dust. Camera tracks behind and beside through the slot, walls ripping past, the engine banking hard, sand roost and blue fire filling the canyon. Diegetic audio only: one massive jet scream, afterburner roar, sand hitting metal, canyon echo, wind through the slot, no music, no song, no on-screen text. Twenty seconds, one continuous take, never leaves the canyon. Never cartoon, never CGI plastic.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097920763529711752"></a>
 
