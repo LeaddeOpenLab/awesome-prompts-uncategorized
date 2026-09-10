@@ -832,20 +832,29 @@ Tradução em curso
 
 <a name="prompt-2097852564029272236"></a>
 
-### Tradução em curso
+### Retrato editorial de moda de uma jovem mulher japonesa numa camisola curta champanhe a segurar um café numa chaise bege numa cobertura moderna.
 
 Autor：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Publicação original](https://x.com/CityCatch_Show/status/2097852564029272236)
 
 Retrato / Selfie · Personagem · Comida / Bebida · Item de Moda · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato editorial de moda de uma jovem mulher japonesa numa camisola curta champanhe a segurar um café numa chaise bege numa cobertura moderna.
 
 <img src="images/2097852564029272236-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+1. Sujeito e Ação
+Uma deslumbrante mulher japonesa de 20 anos com pele luminosa e clara como porcelana, traços faciais delicados e refinados, olhos cinzento-azulados claros naturais, maquilhagem de alta-costura com acabamento orvalhado (dewy) e cabelos longos e escuros com uma beleza desgrenhada de quem acabou de acordar: despenteados pelo sono, com algumas madeixas a cair naturalmente sobre o rosto e ombros. Ela tem seios copa G extremamente voluptuosos e uma cintura impossivelmente minúscula e esbelta. Ela senta-se de pernas cruzadas numa chaise longue bege luxuosa. Veste uma camisola curta (crop camisole) de alças finas em tom champanhe, leve, sem forro e ligeiramente transparente, sem soutien e sem almofadado; o tecido assenta de forma lisa e plana sobre o peito, não apertado o suficiente para criar saliências evidentes. Através do tecido levemente translúcido, há apenas uma nuance tonal muito suave dos mamilos, um contorno subtil percecionado como uma sombra suave, nunca saliente. O top curto expõe completamente a sua cintura fina. Veste uma tanga a condizer de tiras finas. Uma mão segura uma chávena de café em cerâmica, a outra pousa na coxa. Expressão: contacto visual direto tímido e reservado com a câmara, boca suavemente fechada, elegância de topo e serenidade contida.
+2. Cenário e Hora
+Interior de uma cobertura moderna e luxuosa no início da manhã. Janelas grandes do chão ao teto com a linha do horizonte da cidade com desfoque suave. Chaise estofada bege, cortinas discretas, atmosfera requintada de suite de hotel.
+3. Composição e Câmara
+Orientação vertical, plano médio-longo (medium-full shot) a partir de um ângulo três quartos ligeiramente baixo. Ênfase no contraste entre o peito farto, a cintura minúscula exposta e as pernas cruzadas. Profundidade de campo reduzida, sujeito nítido, fundo suavemente desfocado.
+4. Iluminação e Estilo
+Luz natural da manhã vinda da janela: luz lateral suave e difusa com reflexos de sol realistas e brilhos quentes suaves na pele, no cabelo e no tecido ligeiramente transparente, para que o subtil contorno tonal se leia como uma sombra suave e não como uma saliência. Sem raios volumétricos artificiais, sem feixes densos de poeira em CGI. Editorial de alta-costura fotorrealista, ambiente requintado ao estilo de Ellen von Unwerth. Grão de película subtil e realista, paleta neutra e quente sofisticada.
+5. Restrições
+O tecido deve permanecer apenas ligeiramente transparente, não translúcido em excesso. Sem pele exposta do mamilo. Sem aréola claramente visível. Sem protuberâncias salientes, sem marcar a parte de cima, sem tecido de efeito molhado. O mamilo deve aparecer apenas como um contorno plano subtil ou sombra suave. Ambiente elegante de alta-costura, nunca vulgar. Qualidade fotorrealista de alta resolução.
 ```
 
 [↑ Voltar às categorias](#catalog)

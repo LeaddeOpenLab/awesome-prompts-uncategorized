@@ -832,20 +832,29 @@ Traduction en cours
 
 <a name="prompt-2097852564029272236"></a>
 
-### Traduction en cours
+### Portrait éditorial de mode d'une jeune femme japonaise en caraco court champagne tenant un café sur une méridienne beige dans un penthouse moderne.
 
 Auteur：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Publication originale](https://x.com/CityCatch_Show/status/2097852564029272236)
 
 Portrait / Selfie · Personnage · Alimentation / Boissons · Article de mode · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait éditorial de mode d'une jeune femme japonaise en caraco court champagne tenant un café sur une méridienne beige dans un penthouse moderne.
 
 <img src="images/2097852564029272236-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+1. Sujet et Action
+Une magnifique femme japonaise de 20 ans à la peau lumineuse et claire comme de la porcelaine, aux traits fins et délicats, aux yeux naturellement gris-bleu pâle, au maquillage haute couture frais et lumineux, et aux longs cheveux foncés d'une beauté décoiffée au réveil : ébouriffés par le sommeil, avec quelques mèches tombant naturellement sur son visage et ses épaules. Elle a une poitrine extrêmement voluptueuse (bonnet G) et une taille incroyablement fine et menue. Elle est assise en tailleur sur une luxueuse méridienne beige. Elle porte un caraco court à fines bretelles champagne, légèrement transparent, non doublé et léger, sans soutien-gorge ni rembourrage ; le tissu repose à plat et lisse sur la poitrine, pas assez serré pour créer des reliefs marqués. À travers le tissu subtilement translucide, on ne devine qu'une nuance tonale très douce des mamelons, un contour subtil perçu comme une ombre légère, ne faisant jamais saillie. Le haut court expose entièrement sa taille fine. Elle porte un string assorti à fines lanières. Une main tient une tasse de café en céramique, l'autre repose sur sa cuisse. Expression : regard direct timide et réservé vers l'objectif, bouche doucement fermée, élégance haut de gamme et calme retenue.
+2. Cadre et Moment
+Intérieur d'un penthouse moderne et luxueux au petit matin. Grandes baies vitrées du sol au plafond avec la silhouette floutée de la ville. Méridienne tapissée de beige, rideaux aux tons neutres, atmosphère raffinée digne d'une suite d'hôtel.
+3. Composition et Cadrage
+Orientation portrait, plan moyen-large sous un angle trois-quarts légèrement en contre-plongée. Accent mis sur le contraste entre la poitrine généreuse, la taille fine dénudée et les jambes croisées. Faible profondeur de champ, sujet net, arrière-plan doucement flouté.
+4. Lumière et Style
+Lumière naturelle matinale venant de la fenêtre : éclairage latéral doux et diffus avec des taches de soleil réalistes et de légers reflets chauds sur la peau, les cheveux et le tissu légèrement transparent, de sorte que le faible contour tonal apparaisse comme une ombre douce plutôt que comme un relief. Pas de faux rayons de lumière volumétriques divins, pas de faisceaux de poussière CGI lourds. Éditorial de mode haut de gamme photoréaliste, ambiance raffinée à la Ellen von Unwerth. Grain de film réaliste et délicat, palette chaleureuse et neutre sophistiquée.
+5. Contraintes
+Le tissu doit rester uniquement légèrement transparent, pas complètement transparent. Pas de peau de mamelon visible. Pas d'aréole clairement visible. Pas de pointes proéminentes, pas de marques pointant à travers le vêtement, pas de tissu à effet mouillé. Le mamelon ne doit apparaître que sous la forme d'un contour discret ou d'une ombre douce. Ambiance élégante et haute couture, jamais vulgaire. Qualité photoréaliste et haute résolution.
 ```
 
 [↑ Retour aux catégories](#catalog)

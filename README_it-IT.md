@@ -832,20 +832,29 @@ Traduzione in corso
 
 <a name="prompt-2097852564029272236"></a>
 
-### Traduzione in corso
+### Ritratto editoriale di moda di una giovane donna giapponese in top crop champagne con un caffè su una chaise longue beige in un attico moderno.
 
 Autore：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Post originale](https://x.com/CityCatch_Show/status/2097852564029272236)
 
 Ritratto / Selfie · Personaggio · Cibo / Bevande · Articolo di moda · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto editoriale di moda di una giovane donna giapponese in top crop champagne con un caffè su una chaise longue beige in un attico moderno.
 
 <img src="images/2097852564029272236-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+1. Soggetto e Azione
+Una splendida donna giapponese di 20 anni con pelle luminosa e chiara come la porcellana, lineamenti del viso delicati e raffinati, occhi naturali grigio-azzurri pallidi, trucco alla moda fresco e luminoso in stile alta moda, e lunghi capelli scuri con una bellezza spettinata appena sveglia: arruffati dal sonno, con alcune ciocche che ricadono naturalmente sul viso e sulle spalle. Ha un seno estremamente voluttuoso con coppa G e una vita incredibilmente sottile e minuta. È seduta a gambe incrociate su una lussuosa chaise longue beige. Indossa un top a canotta crop color champagne con spalline sottili, leggermente velato, sfoderato e leggero, senza reggiseno e senza imbottitura; il tessuto si adagia piatto e liscio sul petto, non abbastanza stretto da creare rilievi evidenti. Attraverso il tessuto appena traslucido c'è solo un leggerissimo accenno tonale dei capezzoli, un contorno sottile visibile come una morbida ombra, mai sporgente. Il top corto lascia interamente scoperta la vita sottile. Indossa un perizoma coordinato con laccetti sottili. Una mano tiene una tazza di caffè in ceramica, l'altra è appoggiata sulla coscia. Espressione: contatto visivo diretto timido e riservato con la fotocamera, bocca delicatamente chiusa, eleganza esclusiva e calma compostezza.
+2. Ambientazione e Momento
+Interno di un lussuoso attico moderno al mattino presto. Grandi finestre a tutta altezza con lo skyline cittadino sfocato. Chaise longue rivestita in beige, tende dai toni tenui, raffinata atmosfera da suite d'hotel.
+3. Composizione e Fotocamera
+Orientamento verticale, inquadratura a figura intera/media da un'angolazione a tre quarti leggermente dal basso. Enfasi sul contrasto tra il seno prosperoso, la vita minuscola scoperta e le gambe incrociate. Profondità di campo ridotta, soggetto a fuoco nitido, sfondo delicatamente sfocato.
+4. Illuminazione e Stile
+Luce naturale mattutina della finestra: luce laterale morbida e diffusa con macchie di sole realistiche e riflessi caldi e delicati su pelle, capelli e sul tessuto leggermente trasparente, in modo che il debole contorno tonale sia percepito come una morbida ombra anziché come un rilievo. Niente raggi di luce volumetrici finti, niente pesanti fasci di polvere CGI. Editoriale di moda fotorealistico di alta classe, atmosfera raffinata in stile Ellen von Unwerth. Grana della pellicola morbida e realistica, palette sofisticata e caldo-neutra.
+5. Vincoli
+Il tessuto deve rimanere solo leggermente velato, non trasparente. Niente pelle del capezzolo scoperta. Nessuna areola chiaramente visibile. Niente sporgenze in rilievo, nessun capo che punge attraverso il tessuto, nessun effetto bagnato. Il capezzolo deve apparire solo come un debole contorno piatto o una morbida ombra. Atmosfera elegante da alta moda, mai volgare. Qualità fotorealistica e ad alta risoluzione.
 ```
 
 [↑ Torna alle categorie](#catalog)

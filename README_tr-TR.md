@@ -832,20 +832,29 @@ Diğer · Yayımlandı
 
 <a name="prompt-2097852564029272236"></a>
 
-### Çeviri sürüyor
+### Modern bir çatı katında bej bir şezlongda kahve tutan, şampanya rengi kısa kombinezonlu genç bir Japon kadının moda editoryal portresi.
 
 Yazar：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Orijinal gönderi](https://x.com/CityCatch_Show/status/2097852564029272236)
 
 Portre / Selfie · Karakter · Yiyecek / İçecek · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Modern bir çatı katında bej bir şezlongda kahve tutan, şampanya rengi kısa kombinezonlu genç bir Japon kadının moda editoryal portresi.
 
 <img src="images/2097852564029272236-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+1. Özne ve Eylem
+Porselen beyazı parlak bir tene, narin ve zarif yüz hatlarına, doğal soluk gri-mavi gözlere, modaya uygun ıslak bitişli (dewy) yüksek moda makyajına ve yeni uyanmışçasına doğal ve dağınık bir güzelliğe sahip uzun koyu saçlara sahip, 20 yaşında çarpıcı bir Japon kadın: uykudan dağılmış, birkaç tutam saç doğal olarak yüzüne ve omuzlarına dökülüyor. Son derece dolgun G-cup göğüslere ve inanılmaz derecede incecik bir bele sahip. Lüks bej bir şezlong üzerinde bağdaş kurmuş oturuyor. Sütyensiz ve dolgusuz, hafif transparan, astarsız, hafif şampanya rengi ince askılı kısa bir kombinezon giyiyor; kumaş göğüs üzerinde düz ve pürüzsüz duruyor, belirgin kabartılar oluşturacak kadar sıkı değil. Hafif yarı saydam kumaşın ardından meme uçlarının yalnızca çok yumuşak bir ton farkı seziliyor; asla dışarı çıkıntı yapmayan, nazik bir gölge olarak görünen ince bir hat. Kısa üst, ince belini tamamen açıkta bırakıyor. İnce askılı uyumlu bir tanga giyiyor. Bir eli seramik bir kahve fincanı tutarken, diğer eli uyluğunda duruyor. İfade: kamerayla utangaç, çekingen ve doğrudan göz teması, hafifçe kapalı dudaklar, üst düzey bir zarafet ve sakin bir duruş.
+2. Mekân ve Zaman
+Sabahın erken saatlerinde lüks ve modern bir çatı katı dairesi içi. Şehrin silüetini yumuşak odakla gösteren tabandan tavana geniş pencereler. Bej döşemeli şezlong, mat tonlarda perdeler, zarif bir otel süiti atmosferi.
+3. Kompozisyon ve Kamera
+Dikey yönlendirme, hafifçe alt açıdan üç çeyrek görünümde orta-geniş çekim (medium-full shot). Dolgun göğüs, açıkta kalan ince bel ve çapraz bacaklar arasındaki kontrasta vurgu. Sığ alan derinliği, özne net, arka plan yumuşak bir şekilde bulanık.
+4. Işıklandırma ve Tarz
+Doğal sabah pencere ışığı: tene, saça ve hafif transparan kumaşa vuran gerçekçi güneş lekeleri ve nazik sıcak parıltılarla yumuşak dağınık yan ışık; böylece belirsiz ton konturu bir çıkıntıdan ziyade yumuşak bir gölge gibi algılanır. Sahte hacimsel tanrısal ışık huzmeleri yok, ağır CGI toz ışık huzmeleri yok. Fotogerçekçi yüksek moda editoryali, rafine bir Ellen von Unwerth havası. Yumuşak gerçekçi film greni, sofistike sıcak-nötr palet.
+5. Kısıtlamalar
+Kumaş yalnızca hafif transparan kalmalı, tamamen iç göstermemelidir. Çıplak meme ucu teni olmamalıdır. Net bir şekilde görünen areola olmamalıdır. Belirgin uçlar, üstten dışarı fırlama, ıslak görünümlü kumaş olmamalıdır. Meme ucu yalnızca belirsiz, düz bir hat veya yumuşak bir gölge olarak görünmelidir. Asla kaba veya bayağı olmayan, zarif yüksek moda havası. Fotogerçekçi, yüksek çözünürlüklü kalite.
 ```
 
 [↑ Kategorilere dön](#catalog)

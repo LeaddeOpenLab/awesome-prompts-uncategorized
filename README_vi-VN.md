@@ -844,20 +844,29 @@ Khác · Đã xuất bản
 
 <a name="prompt-2097852564029272236"></a>
 
-### Đang dịch
+### Chân dung biên tập thời trang của một phụ nữ trẻ người Nhật trong chiếc áo hai dây lửng màu sâm-panh cầm cà phê trên chiếc ghế dài màu be trong một căn penthouse hiện đại.
 
 Tác giả：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Bài gốc](https://x.com/CityCatch_Show/status/2097852564029272236)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung biên tập thời trang của một phụ nữ trẻ người Nhật trong chiếc áo hai dây lửng màu sâm-panh cầm cà phê trên chiếc ghế dài màu be trong một căn penthouse hiện đại.
 
 <img src="images/2097852564029272236-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+1. Chủ thể & Hành động
+Một phụ nữ Nhật Bản 20 tuổi tuyệt đẹp với làn da trắng sứ rạng rỡ, các đường nét trên khuôn mặt thanh tú tinh xảo, đôi mắt màu xám xanh nhạt tự nhiên, phong cách trang điểm thời trang cao cấp căng bóng thời thượng, và mái tóc sẫm màu dài với nét đẹp bù xù tự nhiên khi vừa thức dậy: rối bù vì giấc ngủ, vài lọn tóc buông xõa tự nhiên trên khuôn mặt và bờ vai. Cô có khuôn ngực cúp G vô cùng đầy đặn và vòng eo thon thả nhỏ nhắn đến khó tin. Cô ngồi khoanh chân trên chiếc ghế dài (chaise lounge) màu be sang trọng. Cô mặc một chiếc áo hai dây dáng lửng màu sâm-panh nhẹ nhàng, hơi mỏng nhẹ, không lót và không có mút đệm; chất vải phẳng mịn trên ngực, không quá chật để tạo thành các nốt nhô lên. Xuyên qua lớp vải hơi mờ chỉ có một gợi ý tông màu rất nhẹ về nhũ hoa, một đường nét tinh tế được nhìn thấy như một bóng mờ nhẹ nhàng, không bao giờ nhô ra ngoài. Chiếc áo ngắn để lộ hoàn toàn vòng eo thon gọn của cô. Cô mặc một chiếc quần lót lọt khe dây mảnh đồng bộ. Một tay cầm tách cà phê bằng gốm, tay kia đặt trên đùi. Biểu cảm: e ấp, nhìn thẳng vào ống kính một cách kín đáo, môi khép nhẹ nhàng, vẻ thanh lịch cao cấp và sự đĩnh đạc thầm lặng.
+2. Bối cảnh & Thời gian
+Nội thất căn hộ penthouse hiện đại sang trọng vào sáng sớm. Cửa sổ lớn từ sàn đến trần nhìn ra đường chân trời thành phố mờ ảo dịu dàng. Ghế bọc đệm màu be, rèm cửa màu trầm, không khí phòng suite khách sạn tinh tế.
+3. Bố cục & Máy ảnh
+Khung hình dọc, góc chụp trung-toàn cảnh từ góc ba phần tư hơi thấp. Nhấn mạnh sự tương phản giữa khuôn ngực đầy đặn, vòng eo nhỏ nhắn lộ ra và đôi chân khoanh lại. Độ sâu trường ảnh nông, chủ thể sắc nét, hậu cảnh mờ nhẹ.
+4. Ánh sáng & Phong cách
+Ánh sáng tự nhiên buổi sáng từ cửa sổ: ánh sáng bên khuếch tán mềm mại với các mảng nắng chân thực và các điểm sáng ấm áp nhẹ nhàng trên da, tóc và chất vải hơi mỏng, để đường viền tông màu mờ ảo hiện ra như một bóng đổ mềm thay vì một nốt nhô. Không có hiệu ứng tia sáng god rays giả tạo, không có chùm bụi CGI nặng nề. Ảnh chụp chân thực chuẩn phong cách biên tập thời trang cao cấp, mang hơi hướng tinh tế của Ellen von Unwerth. Hạt phim chân thực mềm mại, bảng màu ấm áp-trung tính tinh tế.
+5. Ràng buộc
+Vải chỉ được hơi mỏng nhẹ, không nhìn xuyên thấu. Không lộ da nhũ hoa. Không thấy rõ quầng vú. Không có nốt nhô cao, không đâm xuyên qua áo, không có chất vải dạng ướt. Nhũ hoa chỉ được xuất hiện như một đường nét phẳng mờ nhạt hoặc bóng mềm. Khí chất thời trang cao cấp trang nhã, tuyệt đối không thô tục. Chất lượng ảnh chụp chân thực, độ phân giải cao.
 ```
 
 [↑ Về danh mục](#catalog)

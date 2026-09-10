@@ -832,20 +832,29 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2097852564029272236"></a>
 
-### Übersetzung läuft
+### Fashion-Editorial-Porträt einer jungen Japanerin im champagnerfarbenen Crop-Camisole mit Kaffee auf einer beigen Chaiselongue in einem modernen Penthouse.
 
 Autor：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Originalbeitrag](https://x.com/CityCatch_Show/status/2097852564029272236)
 
 Porträt / Selfie · Charakter · Essen / Trinken · Modeartikel · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fashion-Editorial-Porträt einer jungen Japanerin im champagnerfarbenen Crop-Camisole mit Kaffee auf einer beigen Chaiselongue in einem modernen Penthouse.
 
 <img src="images/2097852564029272236-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+1. Motiv & Handlung
+Eine atemberaubende 20-jährige Japanerin mit porzellanheller, leuchtender Haut, zarten, feinen Gesichtszügen, natürlichen blass graublauen Augen, modischem, taufrischem High-Fashion-Make-up und langem, dunklem Haar mit frisch erwachter, unordentlicher Schönheit: vom Schlaf zerzaust, mit ein paar Strähnen, die natürlich über ihr Gesicht und ihre Schultern fallen. Sie hat extrem üppige Brüste mit Körbchengröße G und eine unmöglich schmale, zierliche Taille. Sie sitzt im Schneidersitz auf einer luxuriösen beigen Chaiselongue. Sie trägt ein leicht durchscheinendes, ungefüttertes, leichtes champagnerfarbenes Spaghettiträger-Crop-Camisole ohne BH und ohne Polsterung; der Stoff liegt flach und glatt über der Brust, nicht eng genug, um erhabene Wölbungen zu erzeugen. Durch den dezent durchscheinenden Stoff ist nur eine sehr sanfte tonale Andeutung der Brustwarzen zu sehen, eine subtile Kontur als sanfter Schatten, niemals hervorstehend. Das kurze Oberteil lässt ihre schlanke Taille vollständig frei. Sie trägt einen passenden Tanga mit dünnen Trägern. Eine Hand hält eine Kaffeetasse aus Keramik, die andere ruht auf ihrem Oberschenkel. Ausdruck: schüchterner, zurückhaltender direkter Blickkontakt zur Kamera, sanft geschlossener Mund, hochkarätige Eleganz und ruhige Haltung.
+2. Umgebung & Zeit
+Luxuriöses, modernes Penthouse-Interieur am frühen Morgen. Große, bodentiefe Fenster mit einer weichgezeichneten Skyline der Stadt. Beige gepolsterte Chaiselongue, dezente Vorhänge, raffinierte Hotelsuiten-Atmosphäre.
+3. Komposition & Kamera
+Porträtformat, Halbtotale aus einem leicht tiefen Dreiviertelwinkel. Betonung des Kontrasts zwischen der vollen Brust, der entblößten schmalen Taille und den gekreuzten Beinen. Geringe Schärfentiefe, Motiv scharf, Hintergrund sanft unscharf.
+4. Beleuchtung & Stil
+Natürliches Morgenlicht durchs Fenster: weiches, diffuses Seitenlicht mit realistischen Sonnenflecken und sanften, warmen Glanzlichtern auf Haut, Haar und dem leicht durchscheinenden Stoff, sodass die dezente tonale Kontur eher wie ein weicher Schatten als wie eine Wölbung wirkt. Keine künstlichen volumetrischen Lichtstrahlen, keine schweren CGI-Staubstreifen. Fotorealistisches High-End-Modeeditorial, raffinierte Ellen-von-Unwerth-Stimmung. Sanfte, realistische Filmkörnung, anspruchsvolle warm-neutrale Farbpalette.
+5. Einschränkungen
+Der Stoff darf nur leicht durchscheinend sein, nicht durchsichtig. Keine nackte Brustwarzenhaut. Keine deutlich sichtbare Areola. Keine erhabenen Erhebungen, kein Durchdrücken durch das Oberteil, kein Nass-Look-Stoff. Die Brustwarze sollte nur als dezente flache Kontur oder weicher Schatten erscheinen. Elegante High-Fashion-Stimmung, niemals vulgär. Fotorealistische, hochauflösende Qualität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

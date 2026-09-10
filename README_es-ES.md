@@ -844,20 +844,29 @@ Traducción en curso
 
 <a name="prompt-2097852564029272236"></a>
 
-### Traducción en curso
+### Retrato editorial de moda de una joven japonesa con una camiseta corta de tirantes color champán sosteniendo un café en una chaise longue beige en un ático moderno.
 
 Autor：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Publicación original](https://x.com/CityCatch_Show/status/2097852564029272236)
 
 Retrato / Selfie · Personaje · Comida / Bebida · Artículo de moda · Arquitectura / Interiorismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato editorial de moda de una joven japonesa con una camiseta corta de tirantes color champán sosteniendo un café en una chaise longue beige en un ático moderno.
 
 <img src="images/2097852564029272236-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+1. Sujeto y acción
+Una impresionante mujer japonesa de 20 años con piel luminosa y clara como la porcelana, rasgos faciales delicados y refinados, ojos naturales de color gris azulado pálido, maquillaje de alta costura fresco y moderno con efecto rocío, y cabello largo y oscuro con una belleza despeinada de recién levantada: alborotado por el sueño, con algunos mechones cayendo de forma natural sobre su rostro y hombros. Tiene pechos sumamente voluptuosos de copa G y una cintura imposiblemente pequeña y delgada. Está sentada con las piernas cruzadas en una lujosa chaise longue beige. Viste una camiseta corta de tirantes finos (crop camisole) de color champán, ligera, sin forro y ligeramente traslúcida, sin sostén y sin relleno; la tela queda plana y suave sobre el pecho, no lo suficientemente ajustada como para crear relieves pronunciados. A través de la tela tenuemente traslúcida sólo se aprecia una insinuación tonal muy suave de los pezones, un contorno sutil visto como una sombra suave, nunca sobresaliendo. La parte superior corta deja al descubierto por completo su delgada cintura. Lleva un tanga a juego de tiras finas. Una mano sostiene una taza de café de cerámica, la otra descansa sobre su muslo. Expresión: tímida, contacto visual directo y reservado con la cámara, boca suavemente cerrada, elegancia de alta gama y aplomo sereno.
+2. Entorno y hora
+Interior de un ático moderno de lujo a primera hora de la mañana. Grandes ventanales de suelo a techo con vistas a la silueta de la ciudad en desenfoque suave. Chaise longue tapizada en beige, cortinas apagadas, atmósfera refinada de suite de hotel.
+3. Composición y cámara
+Orientación vertical, plano medio-entero desde un ángulo de tres cuartos ligeramente bajo. Énfasis en el contraste entre el pecho voluminoso, la diminuta cintura descubierta y las piernas cruzadas. Profundidad de campo reducida, sujeto nítido, fondo suavemente desenfocado.
+4. Iluminación y estilo
+Luz matutina natural de ventana: luz lateral suave y difusa con zonas de sol realistas y reflejos cálidos y suaves en la piel, el cabello y la tela ligeramente traslúcida, de modo que el tenue contorno tonal se interprete como una sombra suave en lugar de un relieve. Sin rayos de luz volumétricos artificiales, sin densos haces de polvo CGI. Editorial de moda de alta gama fotorrealista, ambiente refinado al estilo de Ellen von Unwerth. Grano de película suave y realista, paleta sofisticada de tonos neutros cálidos.
+5. Restricciones
+La tela debe ser sólo ligeramente traslúcida, no transparente. Sin piel desnuda del pezón. Sin areola claramente visible. Sin protuberancias pronunciadas, sin asomar a través de la prenda, sin tela con efecto mojado. El pezón debe aparecer únicamente como un contorno plano tenue o una sombra suave. Ambiente elegante de alta costura, nunca vulgar. Calidad fotorrealista de alta resolución.
 ```
 
 [↑ Volver a categorías](#catalog)
