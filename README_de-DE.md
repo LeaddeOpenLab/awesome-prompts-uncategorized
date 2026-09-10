@@ -428,20 +428,32 @@ Fotografie · Kinematisch / Filmstill · Veröffentlicht
 
 <a name="prompt-2097920763529711752"></a>
 
-### Übersetzung läuft
+### 10-sekündiger filmischer vertikaler Werbespot-Prompt für die tragbare Tischleuchte Philips Hue Go in verschiedenen Stimmungen und Umgebungen.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Originalbeitrag](https://x.com/Urwa_345/status/2097920763529711752)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 10-sekündiger filmischer vertikaler Werbespot-Prompt für die tragbare Tischleuchte Philips Hue Go in verschiedenen Stimmungen und Umgebungen.
 
 <img src="covers/2097920763529711752.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen filmischen 10-sekündigen Premium-Werbespot für die authentische tragbare Tischleuchte Philips Hue Go, vertikal 9:16.
+
+0–2 Sek.: Dunkler moderner Raum, die Kamera fährt langsam auf die Lampe zu, während sie sanft aufleuchtet.
+
+2–4 Sek.: Makro-Nahaufnahme des leuchtenden Randes der Lampe, mit fließenden Übergängen durch verschiedene Umgebungsfarben.
+
+4–6 Sek.: Die Kamera folgt der Lampe, wie sie bei Sonnenuntergang auf einen eleganten Tisch im Freien gestellt wird.
+
+6–8 Sek.: Nahtloser Übergang zu einem modernen Schlafzimmer, in dem die Lampe eine gemütliche Atmosphäre schafft.
+
+8–10 Sek.: Abschließender Hero-Shot, langsame 360-Grad-Kamerabewegung um die Philips Hue Go mit wunderschöner filmischer Beleuchtung.
+
+Fotorealistischer Werbespot, Premium-Markenwerbung, realistische Lichteffekte, flüssige Kamerabewegung, filmische Tiefenschärfe, authentisches Produktdesign, hochglänzende professionelle Kampagne, keine Texteinblendungen, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

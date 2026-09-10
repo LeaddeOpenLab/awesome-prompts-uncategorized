@@ -428,20 +428,32 @@ Traducción en curso
 
 <a name="prompt-2097920763529711752"></a>
 
-### Traducción en curso
+### Prompt de comercial vertical cinematográfico de 10 segundos para la lámpara de mesa portátil Philips Hue Go en múltiples estados de ánimo y entornos.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicación original](https://x.com/Urwa_345/status/2097920763529711752)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de comercial vertical cinematográfico de 10 segundos para la lámpara de mesa portátil Philips Hue Go en múltiples estados de ánimo y entornos.
 
 <img src="covers/2097920763529711752.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio publicitario cinematográfico prémium de 10 segundos para la auténtica lámpara de mesa portátil Philips Hue Go, vertical 9:16.
+
+0–2 s: Habitación moderna y oscura, la cámara avanza lentamente hacia la lámpara mientras esta se ilumina suavemente.
+
+2–4 s: Primer plano macro del borde brillante de la lámpara, haciendo una transición fluida a través de diferentes colores ambientales.
+
+4–6 s: La cámara sigue a la lámpara mientras se coloca sobre una elegante mesa al aire libre durante el atardecer.
+
+6–8 s: Transición suave a un dormitorio moderno donde la lámpara crea una atmósfera ambiental acogedora.
+
+8–10 s: Toma heroica final, movimiento lento de cámara en 360 grados alrededor de la Philips Hue Go con una hermosa iluminación cinematográfica.
+
+Comercial fotorrealista, anuncio de marca prémium, efectos de iluminación realistas, movimiento de cámara suave, profundidad de campo cinematográfica, diseño de producto auténtico, campaña profesional impecable, sin superposiciones de texto, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

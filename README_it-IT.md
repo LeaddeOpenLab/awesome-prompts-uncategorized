@@ -428,20 +428,32 @@ Traduzione in corso
 
 <a name="prompt-2097920763529711752"></a>
 
-### Traduzione in corso
+### Prompt per spot pubblicitario verticale cinematografico di 10 secondi per la lampada da tavolo portatile Philips Hue Go attraverso molteplici atmosfere e ambientazioni.
 
 Autore：[@Urwa\_345](https://x.com/Urwa_345) · [Post originale](https://x.com/Urwa_345/status/2097920763529711752)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per spot pubblicitario verticale cinematografico di 10 secondi per la lampada da tavolo portatile Philips Hue Go attraverso molteplici atmosfere e ambientazioni.
 
 <img src="covers/2097920763529711752.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea uno spot cinematografico premium di 10 secondi per l'autentica lampada da tavolo portatile Philips Hue Go, verticale 9:16.
+
+0–2 sec: Stanza moderna buia, la telecamera avanza lentamente verso la lampada mentre si illumina dolcemente.
+
+2–4 sec: Primo piano macro del bordo luminoso della lampada, con una transizione fluida attraverso diversi colori ambientali.
+
+4–6 sec: La telecamera segue la lampada che viene posizionata su un elegante tavolo all'aperto durante il tramonto.
+
+6–8 sec: Fluida transizione verso una moderna camera da letto dove la lampada crea un'atmosfera d'ambiente accogliente.
+
+8–10 sec: Hero shot finale, lento movimento di telecamera a 360 gradi attorno alla Philips Hue Go con una splendida illuminazione cinematografica.
+
+Spot pubblicitario fotorealistico, pubblicità per brand premium, effetti di luce realistici, movimento fluido della telecamera, profondità di campo cinematografica, design del prodotto autentico, campagna professionale curata, nessuna sovrapposizione di testo, nessun watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

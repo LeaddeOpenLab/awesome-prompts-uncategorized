@@ -440,20 +440,32 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
 <a name="prompt-2097920763529711752"></a>
 
-### Đang dịch
+### Lời nhắc quảng cáo dọc phong cách điện ảnh dài 10 giây cho đèn bàn di động Philips Hue Go qua nhiều tâm trạng và bối cảnh khác nhau.
 
 Tác giả：[@Urwa\_345](https://x.com/Urwa_345) · [Bài gốc](https://x.com/Urwa_345/status/2097920763529711752)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quảng cáo dọc phong cách điện ảnh dài 10 giây cho đèn bàn di động Philips Hue Go qua nhiều tâm trạng và bối cảnh khác nhau.
 
 <img src="covers/2097920763529711752.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một quảng cáo cao cấp mang phong cách điện ảnh dài 10 giây cho đèn bàn di động Philips Hue Go chính hãng, tỷ lệ dọc 9:16.
+
+0–2 giây: Căn phòng hiện đại tối tăm, máy quay từ từ tiến lại gần chiếc đèn khi nó nhẹ nhàng bừng sáng.
+
+2–4 giây: Cận cảnh macro phần viền phát sáng của đèn, chuyển đổi mượt mà qua các màu sắc không gian khác nhau.
+
+4–6 giây: Máy quay dõi theo chiếc đèn được đặt trên chiếc bàn ngoài trời thanh lịch vào lúc hoàng hôn.
+
+6–8 giây: Chuyển cảnh mượt mà sang phòng ngủ hiện đại, nơi chiếc đèn tạo nên bầu không khí ấm cúng dễ chịu.
+
+8–10 giây: Cảnh quay tôn vinh sản phẩm cuối cùng, chuyển động máy quay 360 độ chậm rãi quanh Philips Hue Go với ánh sáng điện ảnh tuyệt đẹp.
+
+Quảng cáo chân thực như ảnh chụp, quảng cáo thương hiệu cao cấp, hiệu ứng ánh sáng chân thực, chuyển động máy quay mượt mà, độ sâu trường ảnh chuẩn điện ảnh, thiết kế sản phẩm chính hãng, chiến dịch chuyên nghiệp trau chuốt, không chèn chữ, không có hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

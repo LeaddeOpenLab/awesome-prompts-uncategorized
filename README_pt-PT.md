@@ -428,20 +428,32 @@ Tradução em curso
 
 <a name="prompt-2097920763529711752"></a>
 
-### Tradução em curso
+### Prompt de anúncio vertical cinematográfico de 10 segundos para o candeeiro de mesa portátil Philips Hue Go em múltiplos ambientes e cenários.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicação original](https://x.com/Urwa_345/status/2097920763529711752)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de anúncio vertical cinematográfico de 10 segundos para o candeeiro de mesa portátil Philips Hue Go em múltiplos ambientes e cenários.
 
 <img src="covers/2097920763529711752.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um anúncio cinematográfico premium de 10 segundos para o autêntico candeeiro de mesa portátil Philips Hue Go, vertical 9:16.
+
+0–2 seg: Quarto moderno e escuro, a câmara avança lentamente em direção ao candeeiro enquanto este se ilumina suavemente.
+
+2–4 seg: Grande plano macro do rebordo brilhante do candeeiro, com uma transição suave através de diferentes cores ambientes.
+
+4–6 seg: A câmara acompanha o candeeiro a ser colocado numa elegante mesa de exterior durante o pôr do sol.
+
+6–8 seg: Transição suave para um quarto moderno onde o candeeiro cria uma atmosfera ambiente acolhedora.
+
+8–10 seg: Plano heroico final, movimento lento de câmara em 360 graus em torno do Philips Hue Go com uma bela iluminação cinematográfica.
+
+Anúncio fotorrealista, publicidade de marca premium, efeitos de iluminação realistas, movimento de câmara suave, profundidade de campo cinematográfica, design de produto autêntico, campanha profissional impecável, sem sobreposições de texto, sem marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

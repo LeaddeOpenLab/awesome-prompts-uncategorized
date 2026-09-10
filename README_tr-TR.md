@@ -428,20 +428,32 @@ Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
 
 <a name="prompt-2097920763529711752"></a>
 
-### Çeviri sürüyor
+### Farklı ruh halleri ve ortamlarda Philips Hue Go taşınabilir masa lambası için 10 saniyelik sinematik dikey reklam istemi.
 
 Yazar：[@Urwa\_345](https://x.com/Urwa_345) · [Orijinal gönderi](https://x.com/Urwa_345/status/2097920763529711752)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Farklı ruh halleri ve ortamlarda Philips Hue Go taşınabilir masa lambası için 10 saniyelik sinematik dikey reklam istemi.
 
 <img src="covers/2097920763529711752.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Orijinal Philips Hue Go Taşınabilir Masa Lambası için dikey 9:16 formatında, 10 saniyelik sinematik ve birinci sınıf bir reklam filmi oluşturun.
+
+0–2 sn: Karanlık, modern bir oda; lamba yumuşak bir şekilde aydınlanırken kamera yavaşça lambaya doğru ilerler.
+
+2–4 sn: Lambanın parlayan kenarının makro yakın çekimi, farklı ortam renkleri arasında akıcı bir şekilde geçiş yapar.
+
+4–6 sn: Kamera, gün batımında şık bir dış mekan masasına yerleştirilen lambayı takip eder.
+
+6–8 sn: Lambanın sıcak ve samimi bir ortam atmosferi yarattığı modern bir yatak odasına akıcı geçiş.
+
+8–10 sn: Son ana çekim (hero shot), güzel bir sinematik aydınlatma eşliğinde Philips Hue Go etrafında yavaş 360 derecelik kamera hareketi.
+
+Fotogerçekçi reklam, birinci sınıf marka reklamı, gerçekçi aydınlatma efektleri, akıcı kamera hareketi, sinematik alan derinliği, orijinal ürün tasarımı, kusursuz profesyonel kampanya, metin katmanı yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
