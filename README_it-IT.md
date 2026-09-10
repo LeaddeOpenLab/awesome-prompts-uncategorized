@@ -406,20 +406,20 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2097951331667357808"></a>
 
-### Traduzione in corso
+### Un ragazzino che cavalca un gigantesco motore a reazione singolo attraverso uno stretto slot canyon di arenaria ad alta velocità con cinematografia di inseguimento fotorealistica.
 
 Autore：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Post originale](https://x.com/ByronRexMatthe1/status/2097951331667357808)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un ragazzino che cavalca un gigantesco motore a reazione singolo attraverso uno stretto slot canyon di arenaria ad alta velocità con cinematografia di inseguimento fotorealistica.
 
 <img src="covers/2097951331667357808.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ragazzino sta già disegnando una stretta curva a S attraverso uno stretto slot canyon fin dal primo fotogramma, cavalcando un enorme motore a reazione singolo come fosse una sella, entrambe le mani sulla cappottatura, corpo rannicchiato, con la spessa turbina di metallo che riempie gran parte dell'alveo asciutto. Una gigantesca presa d'aria rotonda davanti, un ugello ruggente dietro, nessun propulsore aggiuntivo, nessun secondo motore. Strette pareti di arenaria Navajo si ergono su entrambi i lati, striate di arancione, ruggine, crema e terra di Siena bruciata, scavate alla base e levigate dove sono passate le inondazioni, striature scure di vernice del deserto, cavità scavate dal vento, radici di ginepro pendenti, un sottile nastro di cielo in alto. Il sole penetra da una fessura in alto, luce dura di mezzogiorno, lunghe ombre blu nella fessura, miraggio di calore sull'alveo, polvere alcalina, fango crepato, ciottoli sparsi, legni sbiancati, un filo di verde dove uno sgorgo bagna la roccia. L'ugello singolo scarica fiamme di postbruciatore di un pazzesco blu elettrico e un denso fumo vorticoso bianco e fuligginoso per tutto il tempo, mai un singolo sbuffo che svanisce, con il bagliore blu che lambisce le pareti del canyon e illumina la visiera impolverata del ragazzino. Azione dal vivo fotorealistica a tutto tondo: involucro della turbina sabbiato, rivetti, metallo macchiato dal calore, bordo della presa d'aria ammaccato, pelle imperfetta del ragazzino, scottatura solare, sudore, guanti consumati, camera a spalla di inseguimento, grana della pellicola, sfocatura da movimento, riflesso lente attraverso la polvere. La telecamera segue da dietro e di lato attraverso la fessura, le pareti che sfrecciano via, il motore che piega bruscamente, una scia di sabbia e fuoco blu che riempiono il canyon. Solo audio diegetico: un imponente urlo di reattore, ruggito del postbruciatore, sabbia che colpisce il metallo, eco del canyon, vento attraverso la fessura, niente musica, nessuna canzone, nessun testo sullo schermo. Venti secondi, un'unica ripresa continua, non lascia mai il canyon. Mai cartone animato, mai plastica da CGI.
 ```
 
 [↑ Torna alle categorie](#catalog)

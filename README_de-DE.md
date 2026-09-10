@@ -406,20 +406,20 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2097951331667357808"></a>
 
-### Übersetzung läuft
+### Ein Kind, das auf einem riesigen einzelnen Strahltriebwerk mit hoher Geschwindigkeit durch einen engen Sandstein-Slot-Canyon reitet, mit fotorealistischer Verfolgungskinematografie.
 
 Autor：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Originalbeitrag](https://x.com/ByronRexMatthe1/status/2097951331667357808)
 
 Fotografie · Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Kind, das auf einem riesigen einzelnen Strahltriebwerk mit hoher Geschwindigkeit durch einen engen Sandstein-Slot-Canyon reitet, mit fotorealistischer Verfolgungskinematografie.
 
 <img src="covers/2097951331667357808.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein Kind schneidet bereits ab dem ersten Frame eine enge S-Kurve durch einen tiefen Slot Canyon, reitet auf einem riesigen einzelnen Strahltriebwerk wie auf einem Sattel, beide Hände auf der Triebwerksverkleidung, der Körper geduckt, wobei die dicke Metallturbine den Großteil des Bachbetts ausfüllt. Ein riesiger runder Lufteinlass vorne, eine brüllende Düse hinten, keine zusätzlichen Schubdüsen, kein zweites Triebwerk. Schmale Wände aus Navajo-Sandstein ragen auf beiden Seiten empor, gestreift in Orange, Rost, Creme und gebranntem Sienna, unterspült und glatt poliert, wo Fluten geflossen sind, dunkle Wüstenlackstreifen, windzerfressene Vertiefungen, herabhängende Wacholderwurzeln, ein dünnes Band Himmel hoch oben. Die Sonne bricht durch eine hohe Lücke herein, hartes Mittagslicht, lange blaue Schatten im Slot, Hitzeflimmern über dem Bachbett, Alkalistaub, rissiger Schlamm, verstreute Kieselsteine, gebleichtes Treibholz, ein Hauch von Grün, wo eine Sickerstelle den Fels befeuchtet. Die einzelne Düse stößt die ganze Zeit über wahnwitzige elektrisch-blaue Nachbrennerflammen und dicken, quellenden weiß-rußigen Rauch aus, niemals nur ein kleiner verpuffender Stoß, wobei der blaue Schein die Canyonwände leckt und das staubige Visier des Kindes erleuchtet. Vollständig fotorealistische Live-Action: sandgestrahltes Turbinengehäuse, Nieten, hitzeverfärbtes Metall, verbeulte Einlasslippe, unvollkommene Kinderhaut, Sonnenbrand, Schweiß, abgenutzte Handschuhe, Handheld-Verfolgungskamera, Filmkorn, Bewegungsunschärfe, Blendenflecke durch Staub. Die Kamera verfolgt von hinten und von der Seite durch den Slot, während die Wände vorbeirasen, das Triebwerk sich stark in die Kurve legt, aufgewirbelter Sand und blaues Feuer den Canyon füllen. Nur diegetischer Ton: ein gewaltiges Triebwerkskreischen, Nachbrennerbrüllen, auf Metall treffender Sand, Canyonecho, Wind durch den Slot, keine Musik, kein Lied, kein Text auf dem Bildschirm. Zwanzig Sekunden, eine ununterbrochene Einstellung, verlässt niemals den Canyon. Niemals Cartoon, niemals CGI-Plastik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

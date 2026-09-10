@@ -406,20 +406,20 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2097951331667357808"></a>
 
-### Çeviri sürüyor
+### Fotogerçekçi takip sinematografisiyle, dar bir kumtaşı yarık kanyonunda devasa tek bir jet motorunu yüksek hızda süren bir çocuk.
 
 Yazar：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Orijinal gönderi](https://x.com/ByronRexMatthe1/status/2097951331667357808)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fotogerçekçi takip sinematografisiyle, dar bir kumtaşı yarık kanyonunda devasa tek bir jet motorunu yüksek hızda süren bir çocuk.
 
 <img src="covers/2097951331667357808.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir çocuk ilk kareden itibaren derin bir yarık kanyonda dar bir S virajı çiziyor, devasa tek bir jet motoruna eyer gibi binmiş, iki eli kaportada, gövdesi büzülmüş, kalın metal türbin sel yatağının çoğunu dolduruyor. Önde tek bir dev yuvarlak hava girişi, arkada kükreyen tek bir nozül, fazladan itici yok, ikinci bir motor yok. Her iki tarafta turuncu, pas rengi, krem ve yanık sienna çizgili, sellerin aktığı yerlerde altı oyulmuş ve pürüzsüzce cilalanmış, koyu çöl verniği izleri, rüzgârın aşındırdığı oyuklar, sarkan ardıç kökleri, çok yukarılarda ince bir gökyüzü şeridi olan dar Navajo kumtaşı duvarları yükseliyor. Yüksek bir yarıktan sızan güneş ışığı, sert öğle güneşi, yarık içinde uzun mavi gölgeler, sel yatağında ısı pırıltısı, alkali tozu, çatlamış çamur, saçılmış çakıl taşları, ağarmış kuru odunlar, sızıntının kayayı ıslattığı yerde incecik bir yeşillik. Tek nozül tüm süre boyunca çılgın elektrik mavisi art yakıcı alevleri ve beyazlı isli kalın dalgalanan dumanlar püskürtüyor, asla sönüp giden tek bir duman pufu yok, mavi ışıltı kanyon duvarlarını yalıyor ve çocuğun tozlu vizörünü aydınlatıyor. Tamamen canlı çekim fotogerçekçi: kumlanmış türbin gövdesi, perçinler, ısı lekeli metal, ezik giriş dudağı, kusurlu çocuk teni, güneş yanığı, ter, yıpranmış eldivenler, elde taşınan takip kamerası, film greni, hareket bulanıklığı, tozun arasından mercek parlaması. Kamera yarığın içinden arkadan ve yandan takip ediyor, duvarlar hızla geçiyor, motor sertçe yatıyor, kanyonu kum fışkırması ve mavi ateş dolduruyor. Yalnızca diejetik ses: tek bir devasa jet çığlığı, art yakıcı kükremesi, metale çarpan kum, kanyon yankısı, yarıktan geçen rüzgâr, müzik yok, şarkı yok, ekranda metin yok. Yirmi saniye, tek bir kesintisiz plan, asla kanyondan çıkmıyor. Asla çizgi film değil, asla CGI plastiği değil.
 ```
 
 [↑ Kategorilere dön](#catalog)

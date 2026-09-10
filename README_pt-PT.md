@@ -406,20 +406,20 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2097951331667357808"></a>
 
-### Tradução em curso
+### Um miúdo a montar num gigantesco motor a jato único através de um estreito desfiladeiro de arenito a alta velocidade com cinematografia de perseguição fotorrealista.
 
 Autor：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Publicação original](https://x.com/ByronRexMatthe1/status/2097951331667357808)
 
 Fotografia · Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um miúdo a montar num gigantesco motor a jato único através de um estreito desfiladeiro de arenito a alta velocidade com cinematografia de perseguição fotorrealista.
 
 <img src="covers/2097951331667357808.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um miúdo já está a desenhar uma curva em S apertada através de um desfiladeiro estreito desde o primeiro fotograma, montado num enorme motor a jato único como se fosse uma sela, ambas as mãos na carenagem, o corpo agachado, a espessa turbina metálica a preencher a maior parte do leito seco. Uma entrada de ar redonda gigante à frente, um bocal ruidoso atrás, sem propulsores adicionais, sem segundo motor. Estreitas paredes de arenito Navajo erguem-se de ambos os lados, estriadas em laranja, ferrugem, creme e siena queimada, desgastadas e polidas onde as cheias correram, estrias escuras de verniz do deserto, cavidades picadas pelo vento, raízes pendentes de zimbro, uma fina fita de céu bem lá no alto. O sol rasga através de uma abertura superior, luz dura de meio-dia, sombras longas e azuis na fenda, ondulação de calor sobre o leito seco, poeira alcalina, lama rachada, calhaus dispersos, madeira flutuante branqueada, um fio de verde onde uma infiltração molha a rocha. O bocal único liberta intensas chamas de pós-combustão azul-elétrico e um fumo espesso e ondulante branco e de fuligem a todo o momento, nunca uma baforada isolada que esmorece, o brilho azul a lamber as paredes do desfiladeiro e a iluminar a viseira poeirenta do miúdo. Imagem real fotorrealista completa: carcaça da turbina decapada pela areia, rebites, metal manchado pelo calor, rebordo da entrada de ar amolgado, pele imperfeita de miúdo, queimadura solar, suor, luvas gastas, câmara de perseguição à mão, grão de película, desfoque de movimento, reflexo na lente através da poeira. A câmara segue atrás e ao lado pela fenda, paredes a passar a voar, o motor a inclinar-se fortemente, rasto de areia e fogo azul a preencher o desfiladeiro. Apenas áudio diegético: um estrondoso grito de jato, rugido da pós-combustão, areia a bater no metal, eco do desfiladeiro, vento através da fenda, sem música, sem canção, sem texto no ecrã. Vinte segundos, um único plano contínuo, nunca sai do desfiladeiro. Nunca desenho animado, nunca plástico CGI.
 ```
 
 [↑ Voltar às categorias](#catalog)

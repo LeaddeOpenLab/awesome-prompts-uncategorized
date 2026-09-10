@@ -406,20 +406,20 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2097951331667357808"></a>
 
-### Traduction en cours
+### Un enfant chevauchant un réacteur unique géant à travers un étroit canyon en fente de grès à grande vitesse avec une cinématographie de poursuite photoréaliste.
 
 Auteur：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Publication originale](https://x.com/ByronRexMatthe1/status/2097951331667357808)
 
 Photographie · Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un enfant chevauchant un réacteur unique géant à travers un étroit canyon en fente de grès à grande vitesse avec une cinématographie de poursuite photoréaliste.
 
 <img src="covers/2097951331667357808.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un enfant négocie déjà un virage en S serré à travers un profond canyon en fente dès la première image, chevauchant un énorme réacteur unique comme une selle, les deux mains sur le capot, le corps replié, la grosse turbine métallique occupant la majeure partie de la gorge asséchée. Une prise d'air ronde géante à l'avant, une tuyère rugissante à l'arrière, aucun propulseur supplémentaire, aucun deuxième moteur. D'étroites parois de grès Navajo s'élèvent de chaque côté, striées d'orange, de rouille, de crème et de terre de Sienne brûlée, affouillées et polies par le passage des crues, zébrures sombres de vernis du désert, alvéoles creusées par le vent, racines de genévrier suspendues, un mince ruban de ciel bien au-dessus. Le soleil pénètre par une brèche en hauteur, lumière crue de midi, longues ombres bleues dans la fente, miroitement de chaleur sur le lit asséché, poussière alcaline, boue craquelée, galets épars, bois flotté blanchi, un filet de verdure là où un suintement humidifie la roche. L'unique tuyère crache follement et en permanence des flammes de postcombustion bleu électrique et une épaisse fumée tourbillonnante blanche et de suie, jamais une simple bouffée qui s'éteint, la lueur bleue léchant les parois du canyon et illuminant la visière poussiéreuse de l'enfant. Prise de vue réelle photoréaliste intégrale : carter de turbine sablé, rivets, métal teinté par la chaleur, lèvre d'admission bosselée, peau d'enfant imparfaite, coup de soleil, sueur, gants usés, caméra portée de poursuite, grain de film, flou de mouvement, reflets de lentille à travers la poussière. La caméra fait un travelling derrière et à côté à travers la fente, les parois défilant à toute vitesse, le moteur s'inclinant fortement, gerbe de sable et feu bleu remplissant le canyon. Audio diégétique uniquement : un hurlement massif de réacteur, rugissement de postcombustion, sable frappant le métal, écho du canyon, vent à travers la fente, pas de musique, pas de chanson, pas de texte à l'écran. Vingt secondes, un seul plan continu, ne quitte jamais le canyon. Jamais de dessin animé, jamais de plastique CGI.
 ```
 
 [↑ Retour aux catégories](#catalog)

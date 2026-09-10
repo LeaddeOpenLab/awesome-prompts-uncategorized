@@ -406,20 +406,20 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2097951331667357808"></a>
 
-### Tradução em andamento
+### Um garoto montando um gigantesco motor a jato único através de um estreito desfiladeiro de arenito em alta velocidade com cinematografia de perseguição fotorrealista.
 
 Autor：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Publicação original](https://x.com/ByronRexMatthe1/status/2097951331667357808)
 
 Fotografia · Cinematográfico / Imagem de Filme · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um garoto montando um gigantesco motor a jato único através de um estreito desfiladeiro de arenito em alta velocidade com cinematografia de perseguição fotorrealista.
 
 <img src="covers/2097951331667357808.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um garoto já está fazendo uma curva em S fechada através de um desfiladeiro estreito desde o primeiro quadro, montando em uma enorme turbina a jato única como se fosse uma sela, ambas as mãos na carenagem, o corpo encolhido, a turbina grossa de metal preenchendo a maior parte do leito seco. Uma entrada de ar redonda gigante na frente, um bocal rugindo atrás, sem propulsores extras, sem um segundo motor. Paredes estreitas de arenito Navajo se erguem de ambos os lados, estriadas em laranja, ferrugem, creme e siena queimada, solapadas e polidas com suavidade por onde as enchentes passaram, faixas escuras de verniz do deserto, bolsões erodidos pelo vento, raízes de zimbro penduradas, uma fina fita de céu bem no alto. O sol rasga através de uma fenda no alto, luz dura de meio-dia, sombras azuis longas no desfiladeiro, tremeluzir de calor sobre o leito, poeira alcalina, lama rachada, seixos espalhados, troncos de madeira branqueada, um filete de verde onde uma infiltração molha a rocha. O bocal único despeja chamas alucinantes de pós-combustão em azul-elétrico e uma fumaça espessa e revolta de fuligem branca o tempo todo, nunca uma única baforada que morre, o brilho azul lambendo as paredes do desfiladeiro e iluminando a viseira empoeirada do garoto. Live-action fotorrealista completo: carcaça da turbina jateada com areia, rebites, metal manchado pelo calor, borda da entrada de ar amassada, pele imperfeita de criança, queimadura de sol, suor, luvas desgastadas, câmera de perseguição na mão, granulação de filme, desfoque de movimento, reflexo de lente através da poeira. A câmera segue atrás e ao lado pelo desfiladeiro, paredes passando em disparada, o motor inclinando com força, rastro de areia e fogo azul preenchendo o cânion. Apenas áudio diegético: um grito estrondoso de jato, o rugido da pós-combustão, areia atingindo o metal, eco do cânion, vento passando pela fenda, sem música, sem canção, sem texto na tela. Vinte segundos, uma única tomada contínua, nunca sai do desfiladeiro. Nunca desenho animado, nunca plástico CGI.
 ```
 
 [↑ Voltar às categorias](#catalog)

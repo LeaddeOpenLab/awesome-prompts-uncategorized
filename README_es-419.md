@@ -406,20 +406,20 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2097951331667357808"></a>
 
-### Traducción en curso
+### Un niño montando un gigantesco motor a reacción único a través de un estrecho cañón de ranura de arenisca a alta velocidad con cinematografía de persecución fotorrealista.
 
 Autor：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Publicación original](https://x.com/ByronRexMatthe1/status/2097951331667357808)
 
 Fotografía · Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un niño montando un gigantesco motor a reacción único a través de un estrecho cañón de ranura de arenisca a alta velocidad con cinematografía de persecución fotorrealista.
 
 <img src="covers/2097951331667357808.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un niño ya está trazando una cerrada curva en S a través de un profundo cañón de ranura desde el primer fotograma, montando un enorme motor a reacción único como si fuera una silla de montar, ambas manos sobre la cubierta, el cuerpo encogido, la gruesa turbina de metal llenando la mayor parte del cauce seco. Una entrada de aire redonda y gigante al frente, una tobera rugiente atrás, sin propulsores adicionales, sin un segundo motor. Estrechas paredes de arenisca Navajo se elevan a ambos lados, estriadas de naranja, óxido, crema y siena tostada, socavadas y pulidas suavemente donde han corrido las inundaciones, vetas oscuras de barniz del desierto, cavidades carcomidas por el viento, raíces colgantes de enebro, una fina cinta de cielo muy arriba. El sol se cuela desde una brecha alta, luz dura de mediodía, largas sombras azules en la ranura, reverberación de calor sobre el cauce, polvo alcalino, barro agrietado, guijarros dispersos, madera a la deriva blanqueada por el sol, un hilillo de verde donde una filtración humedece la roca. La tobera única expulsa locas llamas de postcombustión de color azul eléctrico y un humo espeso y ondulante de color blanco y hollín todo el tiempo, nunca una sola bocanada que se apague, con el brillo azul lamiendo las paredes del cañón e iluminando el visor polvoriento del niño. Fotorrealismo de acción real completo: carcasa de turbina arenada, remaches, metal manchado por el calor, borde de entrada abollado, piel imperfecta del niño, quemaduras de sol, sudor, guantes desgastados, cámara de persecución en mano, grano de película, desenfoque de movimiento, destello de lente a través del polvo. La cámara sigue por detrás y por el costado a través de la ranura, las paredes pasando a toda velocidad, el motor inclinándose con fuerza, la estela de arena y el fuego azul llenando el cañón. Solo audio diegético: un alarido ensordecedor de reactor, el rugido de la postcombustión, arena golpeando el metal, eco del cañón, viento a través de la ranura, sin música, sin canciones, sin texto en pantalla. Veinte segundos, una sola toma continua, nunca sale del cañón. Nunca dibujo animado, nunca plástico CGI.
 ```
 
 [↑ Volver a categorías](#catalog)

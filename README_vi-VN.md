@@ -418,20 +418,20 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2097951331667357808"></a>
 
-### Đang dịch
+### Một đứa trẻ cưỡi một động cơ phản lực đơn khổng lồ lao vun vút qua hẻm núi sa thạch khe hẹp với tốc độ cao dưới góc quay rượt đuổi chân thực như ảnh chụp.
 
 Tác giả：[@ByronRexMatthe1](https://x.com/ByronRexMatthe1) · [Bài gốc](https://x.com/ByronRexMatthe1/status/2097951331667357808)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một đứa trẻ cưỡi một động cơ phản lực đơn khổng lồ lao vun vút qua hẻm núi sa thạch khe hẹp với tốc độ cao dưới góc quay rượt đuổi chân thực như ảnh chụp.
 
 <img src="covers/2097951331667357808.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ngay từ khung hình đầu tiên, một đứa trẻ đang lượn khúc cua chữ S gắt qua một hẻm núi khe hẹp sâu thẳm, cưỡi trên một động cơ phản lực đơn khổng lồ như yên ngựa, hai tay bám chặt vào vỏ động cơ, người cúi rạp, tuabin kim loại đồ sộ choán gần hết lòng suối cạn. Một cửa hút gió tròn khổng lồ phía trước, một ống xả gầm rú phía sau, không có ống đẩy phụ, không có động cơ thứ hai. Các vách đá sa thạch Navajo hẹp vươn cao ở cả hai bên, có vân sọc màu cam, rỉ sét, kem và màu nâu sienna cháy, bị khoét lồi và mài nhẵn thín nơi từng có lũ quét tràn qua, các vệt véc-ni sa mạc sẫm màu, các hốc đá bị gió bào mòn, rễ cây bách xù rủ xuống, một dải trời mỏng manh tít trên cao. Ánh nắng rọi xuyên qua khe hẹp trên cao, ánh sáng ban trưa gay gắt, bóng tối xanh thẳm kéo dài trong khe nứt, làn nhiệt lung linh bốc lên trên lòng suối cạn, bụi kiềm, bùn nứt nẻ, sỏi đá rải rác, gỗ trôi dạt bạc màu, một vệt xanh mướt nơi mạch nước ngầm làm ướt đá. Ống xả duy nhất liên tục phun ra những ngọn lửa tăng lực sau màu xanh điện hoang dại và làn khói trắng quyện muội than cuồn cuộn dày đặc suốt toàn bộ thời gian, không một tích tắc nào tắt lịm, ánh sáng xanh liếm láp các vách hẻm núi và hắt sáng lên tấm kính chắn bụi bặm của đứa trẻ. Đậm chất ảnh thực người đóng hoàn toàn: vỏ tuabin bị cát thổi mòn, đinh tán, kim loại ố màu vì nhiệt, vành cửa hút gió móp méo, làn da trẻ con không hoàn hảo, cháy nắng, mồ hôi, găng tay sờn rách, góc máy rượt đuổi cầm tay, hạt phim, vệt mờ chuyển động, lóe sáng ống kính xuyên qua bụi. Máy quay bám theo phía sau và bên cạnh dọc theo khe hẹp, những vách đá vút qua vun vút, động cơ nghiêng ngoạn mục, cát tung mù mịt và lửa xanh bao trùm hẻm núi. Chỉ có âm thanh nội cảnh: một tiếng rít phản lực đinh tai nhức óc, tiếng gầm của bộ tăng lực sau, cát va vào kim loại, tiếng vang hẻm núi, gió rít qua khe hẹp, không âm nhạc, không bài hát, không phụ đề trên màn hình. Hai mươi giây, một cảnh quay duy nhất không ngắt quãng, không bao giờ rời khỏi hẻm núi. Tuyệt đối không hoạt hình, không kỹ xảo CGI bóng bẩy nhựa giả.
 ```
 
 [↑ Về danh mục](#catalog)
