@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**34** Prompts · Latest addition: **2026-09-10**
+**35** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -459,6 +459,52 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097883008233865405"></a>
+
+### Ultra-realistic cinematic fashion portrait of a young adult man lounging inside the front seat of a vintage olive-green car, captured from a low, wide-angle angle.
+
+Author：[@CliQi\_AI](https://x.com/CliQi_AI) · [Source](https://x.com/CliQi_AI/status/2097883008233865405)
+
+Cinematic / Film Still · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Vehicle · Published
+
+**Summary:** Ultra-realistic cinematic fashion portrait of a young adult man lounging inside the front seat of a vintage olive-green car, captured from a low, wide-angle angle.
+
+<img src="images/2097883008233865405-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097883008233865405-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic fashion portrait of a young adult man lounging inside the front seat of a vintage olive-green car, photographed from a low, wide-angle perspective from the passenger-side footwell. The image should feel masculine, relaxed, slightly rebellious, and nostalgic—like a 1970s road-trip editorial reinterpreted through a modern fashion lens.
+
+He has short-to-medium dark brown hair styled in loose natural curls, slightly messy and sun-tousled. Strong brows, defined cheekbones, clean-shaven face, and a calm, intense expression. His gaze is directed straight toward the camera with a slightly tired, self-assured look.
+
+Body: lean athletic build with naturally defined chest, abdomen, shoulders, and arms. Realistic proportions, subtle skin texture, faint body hair, and a warm sun-kissed complexion. The physique should feel fit and effortless rather than bodybuilder-like.
+
+Outfit: a dark navy or almost-black lightweight button-up shirt worn completely open through the front, exposing the bare chest and abdomen. The shirt has short or casually rolled sleeves and slightly wrinkled fabric, giving it a lived-in summer feel.
+
+Pair it with relaxed dark indigo-blue jeans, slightly flared or straight through the legs, with a low-rise vintage cut and subtle faded texture. He is barefoot, reinforcing the casual road-trip atmosphere.
+
+Pose: sprawled casually across the wide front bench seat of the vintage car. His legs are spread naturally toward the camera, with one bare foot extending very close to the lens in the lower foreground, creating dramatic perspective distortion. One arm stretches toward the steering wheel, wrist hanging loosely over it, while the other arm rests across the top of the bench seat. Torso reclined slightly backward, shoulders open, posture completely relaxed.
+
+Vehicle interior: authentic vintage car cabin in muted avocado or sage green, including a large thin-rim steering wheel, old analog dashboard, green vinyl bench seats, matching door panels, aged roof lining, chrome details, manual handles, and slightly worn upholstery. The car should feel genuinely old and imperfect rather than restored to showroom condition.
+
+Environment: parked somewhere rural or semi-tropical, with leafy trees, pale trunks, and bright diffused daylight visible through the windows. The exterior landscape should remain secondary and softly visible through slightly dusty glass.
+
+Lighting: warm natural daylight entering from the windshield and side windows, illuminating the face, chest, and arms while leaving parts of the interior in soft green-tinted shadow. Add subtle reflections across the windows and dashboard. No hard studio lighting.
+
+Photography: intimate vintage fashion photography, 24–28mm wide-angle lens, camera placed very low and close to the passenger-side seat or floor, strong foreground perspective, slight lens distortion, subtle analog grain, natural skin texture, warm-green color cast, mild softness, cinematic but unpolished, photorealistic, high resolution.
+
+Composition: vertical 3:4 frame, man centered across the bench seat, steering wheel occupying the upper-left foreground, one bare foot large and out-of-focus near the bottom-right edge, green seat lines guiding toward his torso, windshield and windows framing the background.
+
+Negative prompt: modern luxury car, sports car interior, clean white leather, formal clothing, shirt fully buttoned, sneakers, sunglasses, exaggerated bodybuilding physique, dramatic flexing, bright studio backdrop, neon lighting, harsh flash, plastic skin, distorted hands, extra fingers, malformed feet, duplicated limbs, warped steering wheel, cartoon, anime, illustration, CGI.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096832231071519193"></a>
 
