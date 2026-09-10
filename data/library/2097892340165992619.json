@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T04:22:27.891Z",
+  "model": "unknown-image",
+  "prompt": "Transform my photo into an authentic 1980s retro Indian fashion portrait, inspired by the reference image.\n\nKeep the exact face, facial features, face structure, skin tone, identity, and natural proportions unchanged. Do not alter or beautify the face.\n\nDress her in a full-sleeve pink shirt tucked neatly into a black high-waisted skirt with a stylish belt. Remove the scarf completely. Add simple 1980s-inspired accessories. Give her bouncy, voluminous retro hair styled with a cute ribbon.\n\nCreate an authentic 1980s background and atmosphere. Use a Kodak film-camera look with warm faded colors, subtle film grain, soft analog texture, gentle vintage lighting, and natural skin texture. Make it look like a genuine photograph taken in the 1980s, not a modern photo with a vintage filter. No watermark, no text, no distortion.",
+  "promptTranslations": {
+    "en": "Transform my photo into an authentic 1980s retro Indian fashion portrait, inspired by the reference image.\n\nKeep the exact face, facial features, face structure, skin tone, identity, and natural proportions unchanged. Do not alter or beautify the face.\n\nDress her in a full-sleeve pink shirt tucked neatly into a black high-waisted skirt with a stylish belt. Remove the scarf completely. Add simple 1980s-inspired accessories. Give her bouncy, voluminous retro hair styled with a cute ribbon.\n\nCreate an authentic 1980s background and atmosphere. Use a Kodak film-camera look with warm faded colors, subtle film grain, soft analog texture, gentle vintage lighting, and natural skin texture. Make it look like a genuine photograph taken in the 1980s, not a modern photo with a vintage filter. No watermark, no text, no distortion."
+  },
+  "summaryTranslations": {
+    "en": "1980s retro Kodak film style portrait prompt, featuring a pink shirt, black high-waisted skirt, retro curls, and room setting."
+  },
+  "translationVersion": 2,
+  "summary": "1980年代复古柯达胶片风格肖像指令，包含粉色衬衫、黑色高腰裙及复古卷发与房间布景。",
+  "summaryEn": "1980s retro Kodak film portrait prompt featuring a pink shirt, high-waisted skirt, vintage hair, and period room.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097892340165992619",
+    "canonicalUrl": "https://x.com/MissDelulu9/status/2097892340165992619",
+    "author": {
+      "username": "MissDelulu9",
+      "displayName": "Eesha",
+      "profileUrl": "https://x.com/MissDelulu9"
+    },
+    "publishedAt": "2026-09-10T03:38:05.000Z",
+    "collectedAt": "2026-09-10T04:17:05.195Z",
+    "language": "en",
+    "originalText": "Let’s join the trend 😀\n\nPrompt:\n\nTransform my photo into an authentic 1980s retro Indian fashion portrait, inspired by the reference image.\n\nKeep the exact face, facial features, face structure, skin tone, identity, and natural proportions unchanged. Do not alter or beautify the face.\n\nDress her in a full-sleeve pink shirt tucked neatly into a black high-waisted skirt with a stylish belt. Remove the scarf completely. Add simple 1980s-inspired accessories. Give her bouncy, voluminous retro hair styled with a cute ribbon.\n\nCreate an authentic 1980s background and atmosphere. Use a Kodak film-camera look with warm faded colors, subtle film grain, soft analog texture, gentle vintage lighting, and natural skin texture. Make it look like a genuine photograph taken in the 1980s, not a modern photo with a vintage filter. No watermark, no text, no distortion.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR017zDb0AArnRi.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR017zDb0AArnRi.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0188VaQAAnyAj.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0188VaQAAnyAj.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 25,
+      "repostCount": 1,
+      "replyCount": 22,
+      "quoteCount": 0,
+      "viewCount": 528
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MissDelulu9/status/2097892340165992619",
+  "coverUrl": "https://pbs.twimg.com/media/HR017zDb0AArnRi.jpg",
+  "coverPath": "images/2097892340165992619-1.jpg",
+  "imagePaths": [
+    "images/2097892340165992619-1.jpg",
+    "images/2097892340165992619-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR017zDb0AArnRi",
+    "x-image:/media/HR0188VaQAAnyAj",
+    "x-post:2097892340165992619"
+  ],
+  "analysis": {
+    "summary": "1980年代复古柯达胶片风格肖像指令，包含粉色衬衫、黑色高腰裙及复古卷发与房间布景。",
+    "summaryEn": "1980s retro Kodak film portrait prompt featuring a pink shirt, high-waisted skirt, vintage hair, and period room.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the specified pink shirt, black skirt, hair ribbon, and 80s film aesthetic."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Transform my photo into an authentic 1980s retro Indian fashion portrait, inspired by the reference image.\n\nKeep the exact face, facial features, face structure, skin tone, identity, and natural proportions unchanged. Do not alter or beautify the face.\n\nDress her in a full-sleeve pink shirt tucked neatly into a black high-waisted skirt with a stylish belt. Remove the scarf completely. Add simple 1980s-inspired accessories. Give her bouncy, voluminous retro hair styled with a cute ribbon.\n\nCreate an authentic 1980s background and atmosphere. Use a Kodak film-camera look with warm faded colors, subtle film grain, soft analog texture, gentle vintage lighting, and natural skin texture. Make it look like a genuine photograph taken in the 1980s, not a modern photo with a vintage filter. No watermark, no text, no distortion.",
+    "sourceRange": {
+      "start": 33,
+      "end": 862
+    },
+    "translations": {
+      "zh": "将我的照片转为地道的1980年代复古印度风时尚肖像，参考示例图片。\n\n保持面部特征、轮廓、肤色与自然比例不变，勿修饰面容。\n\n换穿粉色长袖衬衫，扎入配有腰带的黑色高腰裙中。完全移除围巾，添加简约80年代饰品与蓬松带粉色发带的复古发型。\n\n打造真实80年代背景与胶片质感，具备柯达胶片色调与柔和颗粒光影，无水印杂质。",
+      "en": "Transform my photo into an authentic 1980s retro Indian fashion portrait, inspired by the reference image.\n\nKeep the exact face, facial features, face structure, skin tone, identity, and natural proportions unchanged. Do not alter or beautify the face.\n\nDress her in a full-sleeve pink shirt tucked neatly into a black high-waisted skirt with a stylish belt. Remove the scarf completely. Add simple 1980s-inspired accessories. Give her bouncy, voluminous retro hair styled with a cute ribbon.\n\nCreate an authentic 1980s background and atmosphere. Use a Kodak film-camera look with warm faded colors, subtle film grain, soft analog texture, gentle vintage lighting, and natural skin texture. Make it look like a genuine photograph taken in the 1980s, not a modern photo with a vintage filter. No watermark, no text, no distortion."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "1980s retro portrait styling",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
