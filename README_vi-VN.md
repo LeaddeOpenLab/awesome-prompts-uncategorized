@@ -570,7 +570,7 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 
 <a name="prompt-2097844559959245230"></a>
 
-### Đang dịch
+### Lời nhắc video thay đổi trang phục cục bộ liên tục trong vũ đạo nhóm nữ, chuyển đổi mượt mà áo, váy, bốt và phụ kiện theo dòng thời gian tại các điểm cực đỉnh của động tác.
 
 Tác giả：[@Adam38363368936](https://x.com/Adam38363368936) · [Bài gốc](https://x.com/Adam38363368936/status/2097844559959245230)
 
@@ -578,14 +578,71 @@ Mặt hàng thời trang · Đã xuất bản
 
 Bài gốc：[@Adam38363368936](https://x.com/Adam38363368936) · [Bài gốc](https://x.com/Adam38363368936/status/2097483614011486260)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video thay đổi trang phục cục bộ liên tục trong vũ đạo nhóm nữ, chuyển đổi mượt mà áo, váy, bốt và phụ kiện theo dòng thời gian tại các điểm cực đỉnh của động tác.
 
 <img src="covers/2097844559959245230.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Lấy người phụ nữ trong ảnh tham chiếu làm nhân vật chính cố định, duy trì nghiêm ngặt và nhất quán hình dáng khuôn mặt, ngũ quan, kiểu tóc, màu da và tỷ lệ cơ thể của nhân vật.
+
+Khung hình dọc 9:16, thời lượng 10 giây. Một phụ nữ trẻ châu Á đứng ở trung tâm sân khấu tối giản nhưng cao cấp, thực hiện một đoạn vũ đạo nhóm nữ mượt mà, giàu nhịp điệu. Khung hình chủ yếu là toàn thân (full shot), bám theo chuyển động của nhân vật một cách nhẹ nhàng, nhân vật luôn giữ ở trung tâm khung hình.
+
+Hiệu ứng cốt lõi: Nhân vật vừa nhảy liên tục, vừa từng bước thay đổi từng phần trang phục thông qua các động tác vũ đạo khác nhau. Toàn bộ quá trình nhảy luôn liền mạch, không dừng lại, không dịch chuyển tức thời, không cắt cảnh.
+
+Bắt đầu: Nhân vật mặc áo ba lỗ trắng đơn giản, váy ngắn sáng màu, giày thể thao trắng, tổng thể tạo hình đơn giản và sạch sẽ.
+
+0–2 giây:
+Nhân vật thực hiện một động tác vung tay rõ ràng.
+Cánh tay quét nhanh qua phần thân trên từ phía trước cơ thể, vào khoảnh khắc cánh tay che khuất và hiện tượng mờ chuyển động (motion blur) rõ rệt nhất, áo trên tự nhiên biến thành áo diễn croptop ôm sát màu đen.
+
+Giai đoạn này chỉ thay áo trên.
+Trang phục dưới, giày, kiểu tóc và các phần khác giữ nguyên hoàn toàn.
+
+2–4 giây:
+Nhân vật tiếp tục nhảy, các động tác kết nối tự nhiên, thực hiện động tác lắc hông và nghiêng người rõ rệt.
+Vào khoảnh khắc cơ thể xoay nghiêng nhanh chóng, phần thân dưới tự nhiên biến thành chân váy xếp ly ngắn màu đen.
+
+Giai đoạn này chỉ thay trang phục dưới.
+Chiếc áo đen đã biến đổi giữ nguyên, giày vẫn duy trì là giày thể thao trắng.
+
+4–6 giây:
+Nhân vật tiếp tục nhảy, hoàn thành một động tác đá chân rõ ràng, dứt khoát và nhẹ nhàng.
+Bàn chân nhanh chóng nâng lên tạo ra hiện tượng mờ chuyển động tự nhiên, vào khoảnh khắc chân chạm đất, giày thể thao trắng tự nhiên biến thành đôi bốt cao cổ màu đen.
+
+Giai đoạn này chỉ thay giày.
+Áo và váy giữ nguyên tạo hình của giai đoạn trước.
+
+6–8 giây:
+Nhân vật tiếp tục nhảy, hoàn thành động tác hất đầu và giơ tay rõ rệt.
+Tóc bay lên tự nhiên, vào khoảnh khắc chuyển động của tóc và động tác tay che khuất, xuất hiện thêm khuyên tai bạc, vòng cổ, dây xích thắt lưng và một ít phụ kiện sân khấu.
+
+Trang phục chính giữ nguyên, chỉ thêm phụ kiện và một ít chi tiết nhỏ.
+
+8–10 giây:
+Nhân vật hoàn thành một cú xoay người mượt mà, tà váy tung bay tự nhiên.
+Trong quá trình xoay người, toàn bộ tạo hình thực hiện lần nâng cấp hoàn chỉnh cuối cùng.
+
+Khi nhân vật quay trở lại mặt trước, trang phục hoàn thiện thành một set đồ sân khấu cao cấp màu đen - bạc, các chi tiết trang phục tinh tế hơn, thêm một lượng nhỏ kim loại, sequin lấp lánh và các yếu tố sân khấu sang trọng.
+
+Nhân vật tiếp tục hoàn thành động tác nhảy cuối cùng và kết thúc một cách tự nhiên.
+
+Tất cả các lần đổi trang phục đều phải diễn ra vào khoảnh khắc biên độ động tác lớn nhất, cơ thể xoay nhanh nhất, cánh tay che khuất, tóc bay hoặc mờ chuyển động rõ nét nhất.
+
+Trước và sau khi đổi trang phục, vị trí cơ thể, hướng động tác, vị trí cánh tay, chân và quỹ đạo chuyển động của nhân vật phải tự nhiên và liên tục.
+
+Trọng tâm thể hiện hiệu ứng 'vừa nhảy múa vừa từng bước thay đổi trang phục'.
+
+Không phải cắt chuyển tức thời giữa các video khác nhau, không phải biến mất rồi xuất hiện lại, cũng không phải mỗi động tác đều đổi toàn bộ trang phục cùng lúc.
+
+Mỗi lần chỉ thay đổi phần trang phục được chỉ định, các phần còn lại giữ nguyên.
+
+Không chớp sáng nổ tung, không hạt ma thuật, không khói che khuất, không màn hình đen, không cắt cảnh đột ngột.
+
+Phong cách nhiếp ảnh người thật chân thực, chất lượng sân khấu K-pop, ánh sáng sân khấu cao cấp, kết cấu vải chân thực, mờ chuyển động tự nhiên, chi tiết da độ nét cao, động tác mượt mà, nhịp điệu rõ ràng.
+
+Cấm đổi mặt, cấm ngũ quan bị biến dạng hay trôi lệch, cấm đổi danh tính nhân vật, cấm vóc dáng lúc béo lúc gầy, cấm thừa tay chân, cấm dị tật tay chân, cấm quần áo tan chảy, cấm lỗi xuyên thấu trang phục (clipping), cấm nhân vật nhảy vị trí đột ngột, cấm thay đổi nền ngẫu nhiên.
 ```
 
 [↑ Về danh mục](#catalog)

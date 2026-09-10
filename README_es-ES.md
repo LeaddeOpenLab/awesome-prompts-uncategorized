@@ -570,7 +570,7 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 
 <a name="prompt-2097844559959245230"></a>
 
-### Traducción en curso
+### Prompt de video para cambio progresivo de vestuario durante un baile de grupo femenino, transformando sin cortes top, falda, botas y accesorios según la línea de tiempo en los momentos culminantes del movimiento.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2097844559959245230)
 
@@ -578,14 +578,71 @@ Artículo de moda · Publicado
 
 Publicación original：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2097483614011486260)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video para cambio progresivo de vestuario durante un baile de grupo femenino, transformando sin cortes top, falda, botas y accesorios según la línea de tiempo en los momentos culminantes del movimiento.
 
 <img src="covers/2097844559959245230.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Utilice a la mujer de la imagen de referencia como protagonista fija, manteniendo estrictamente consistentes la forma del rostro, los rasgos faciales, el peinado, el tono de piel y las proporciones corporales.
+
+Formato vertical 9:16, 10 segundos. Una joven mujer asiática está en el centro de un escenario minimalista y elegante, realizando una coreografía fluida y rítmica de grupo femenino de K-pop. El encuadre es principalmente de cuerpo entero, siguiendo suavemente los movimientos del personaje, manteniéndolo siempre en el centro de la pantalla.
+
+Efecto principal: El personaje baila de forma continua mientras cambia gradualmente partes de su vestuario a través de diferentes movimientos de baile. Todo el proceso de baile es continuo, sin pausas, sin teletransportaciones y sin cortes de cámara.
+
+Al inicio, el personaje viste una camiseta sin mangas blanca sencilla, una minifalda de color claro y zapatillas deportivas blancas; un estilo general simple y limpio.
+
+De 0 a 2 segundos:
+El personaje realiza un movimiento claro de balanceo de brazos.
+El brazo pasa rápidamente por delante del torso, y en el instante exacto en que la oclusión del brazo y el desenfoque de movimiento son más evidentes, la parte superior cambia de forma natural a un top de escenario negro, entallado y corto.
+
+En esta etapa solo se cambia la prenda superior.
+La prenda inferior, el calzado, el peinado y el resto de las partes se mantienen completamente sin cambios.
+
+De 2 a 4 segundos:
+El personaje continúa bailando, encadenando los movimientos con naturalidad, y realiza un movimiento pronunciado de caderas y giro lateral.
+En el instante en que el cuerpo gira rápidamente de lado, la parte inferior cambia de forma natural a una minifalda plisada negra.
+
+En esta etapa solo se cambia la prenda inferior.
+El top negro ya transformado permanece igual, y el calzado sigue siendo las zapatillas blancas.
+
+De 4 a 6 segundos:
+El personaje continúa bailando y realiza una patada clara y ágil.
+El pie se eleva rápidamente generando un desenfoque de movimiento natural, y en el instante en que el pie toca el suelo, las zapatillas blancas se transforman de forma natural en botas altas negras.
+
+En esta etapa solo se cambia el calzado.
+El top y la falda mantienen el diseño de la etapa anterior.
+
+De 6 a 8 segundos:
+El personaje sigue bailando, realizando un movimiento pronunciado de movimiento de cabeza y elevación de brazos.
+El cabello vuela de forma natural, y en el instante en que el movimiento del cabello y los gestos de las manos cubren la vista, se añaden pendientes plateados, collar, cadena a la cintura y algunos accesorios de escenario.
+
+La ropa principal se mantiene sin cambios, solo se agregan accesorios y detalles sutiles.
+
+De 8 a 10 segundos:
+El personaje completa un giro fluido sobre sí mismo, haciendo que la falda vuele de manera natural.
+Durante el giro, todo el atuendo realiza una última mejora completa.
+
+Cuando el personaje vuelve a colocarse de frente, se transforma finalmente en un look completo de escenario prémium en tonos negro y plateado, con detalles más refinados en la ropa, añadiendo toques metálicos, lentejuelas y elementos sofisticados de escenario.
+
+El personaje realiza el último paso de baile y finaliza con una pose natural.
+
+Todos los cambios de vestuario deben ocurrir en los momentos en que la amplitud del movimiento sea mayor, el giro del cuerpo sea más rápido, haya oclusión por los brazos, el cabello vuele o el desenfoque de movimiento sea más pronunciado.
+
+Antes y después de cada cambio de ropa, la posición corporal, la dirección del movimiento, la posición de brazos y piernas y la trayectoria del movimiento del personaje deben ser naturales y continuas.
+
+Enfocarse en resaltar el efecto de 'cambiarse de ropa gradualmente mientras se baila'.
+
+No se trata de cortes abruptos entre diferentes tomas, ni de que el personaje desaparezca y vuelva a aparecer, ni de cambiar todo el conjunto a la vez en cada movimiento.
+
+Cada vez solo se cambia la parte designada del vestuario, manteniendo el resto intacto.
+
+Sin destellos explosivos, sin partículas mágicas, sin humo que oculte la escena, sin pantalla negra, sin cortes duros de cámara.
+
+Estilo de fotografía real de acción en vivo, textura de escenario de K-pop, iluminación escénica prémium, textura realista de telas, desenfoque de movimiento natural, detalles de piel en alta definición, movimientos fluidos y ritmo marcado.
+
+Prohibido cambiar de rostro, prohibido el desplazamiento de rasgos faciales, prohibido alterar la identidad del personaje, prohibidos cambios repentinos de complexión corporal, prohibidas extremidades adicionales, prohibidas deformaciones en manos y pies, prohibido que la ropa se derrita o atraviese el cuerpo (clipping), prohibidos saltos repentinos de posición del personaje, prohibidos cambios aleatorios en el fondo.
 ```
 
 [↑ Volver a categorías](#catalog)
