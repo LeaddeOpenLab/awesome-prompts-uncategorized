@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**38** Prompts · Adição mais recente: **2026-09-10**
+**39** Prompts · Adição mais recente: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -855,6 +855,32 @@ Fotografia · Retrô / Vintage · Retrato / Selfie · Item de Moda · Publicado
 
 ```text
 Como teria sido o meu aspeto nos anos 1980? Usa a fotografia em anexo como referência. Preserva os meus traços faciais exatos, sorriso, tom de pele, formato dos olhos e identidade geral. Muda o meu estilo como se vivesse em 1985, com tendências autênticas de moda e beleza dos anos 1980: cabelo ripado e volumoso, maquilhagem arrojada nos olhos, blush rosado, batom mate, brincos de argola grandes, um casaco de ganga acid-wash, um top néon vibrante, calças de ganga de cintura subida e acessórios clássicos dos anos 1980. Coloca-me num cenário realista dos anos 1980 com pósteres retro, um leitor de cassetes, discos de vinil e uma iluminação quente estilo película. Faz com que pareça uma fotografia autêntica de 35 mm de alta qualidade de meados dos anos 1980, com grão de filme subtil e tons de cor vintage. A imagem deve ser fotorrealista e manter uma forte semelhança comigo — não uma pessoa genérica dos anos 1980.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Ficção Científica
+
+<a name="prompt-2097951816675639459"></a>
+
+### Tradução em curso
+
+Autor：[@DtheW1995](https://x.com/DtheW1995) · [Publicação original](https://x.com/DtheW1995/status/2097951816675639459)
+
+Cyberpunk / Ficção Científica · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2097951816675639459.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

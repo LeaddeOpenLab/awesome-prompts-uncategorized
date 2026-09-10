@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**38** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**39** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [3D-Rendering](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [3D-Rendering](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -855,6 +855,32 @@ Fotografie · Retro / Vintage · Porträt / Selfie · Modeartikel · Veröffentl
 
 ```text
 Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto als Referenz. Behalte meine genauen Gesichtszüge, mein Lächeln, meinen Hautton, meine Augenform und meine gesamte Identität bei. Style mich so um, als würde ich im Jahr 1985 leben, mit authentischen Mode- und Beauty-Trends der 1980er-Jahre: voluminöses, toupiertes Haar, markantes Augen-Make-up, rosiges Rouge, matter Lippenstift, große Creolen, eine Acid-Wash-Jeansjacke, ein leuchtendes Neon-Top, Jeans mit hoher Taille und klassische Accessoires der 1980er-Jahre. Platziere mich in einer realistischen Kulisse der 1980er-Jahre mit Retro-Postern, einem Kassettenspieler, Schallplatten und warmer Beleuchtung im Filmstil. Lass es wie ein echtes, hochwertiges 35-mm-Foto aus der Mitte der 1980er-Jahre mit feinem Filmkorn und Vintage-Farbtönen wirken. Das Bild sollte fotorealistisch sein und eine starke Ähnlichkeit mit mir aufweisen – keine generische Person der 1980er-Jahre.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Sci-Fi
+
+<a name="prompt-2097951816675639459"></a>
+
+### Übersetzung läuft
+
+Autor：[@DtheW1995](https://x.com/DtheW1995) · [Originalbeitrag](https://x.com/DtheW1995/status/2097951816675639459)
+
+Cyberpunk / Sci-Fi · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097951816675639459.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

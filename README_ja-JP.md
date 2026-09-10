@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**38** 件 · 最新の追加: **2026-09-10**
+**39** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -861,6 +861,32 @@ CGI毛皮、
 
 ```text
 1980年代の私ならどんな姿をしていたでしょうか？添付の写真を参考にしてください。私の顔の特徴、笑顔、肌のトーン、目の形、そして全体的なアイデンティティを正確に維持してください。本格的な1980年代のファッションとビューティートレンドを取り入れ、まるで1985年に生きているかのようにスタイリングしてください：ボリュームのある逆毛ヘア、大胆なアイメイク、バラ色のチーク、マットリップ、大きなフープピアス、ケミカルウォッシュのデニムジャケット、鮮やかなネオンカラーのトップス、ハイウエストジーンズ、そしてクラシックな1980年代のアクセサリー。レトロなポスター、カセットプレーヤー、アナログレコード、そして温かみのあるフィルム調の照明があるリアルな1980年代の空間に私を配置してください。繊細なフィルム粒子とヴィンテージな色調を備えた、1980年代半ばの本物の高品質35mm写真のように仕上げてください。画像はフォトリアリスティックであり、一般的な1980年代の人物ではなく、私自身と極めて高い類似性を維持している必要があります。
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## サイバーパンク / SF
+
+<a name="prompt-2097951816675639459"></a>
+
+### 翻訳中
+
+作者：[@DtheW1995](https://x.com/DtheW1995) · [元の投稿](https://x.com/DtheW1995/status/2097951816675639459)
+
+サイバーパンク / SF · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2097951816675639459.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

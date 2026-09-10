@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**38** 条内容 · 最新收录: **2026-09-10**
+**39** 条内容 · 最新收录: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [复古 / 怀旧](#category-retro-vintage) · [极简主义](#category-minimalism) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [复古 / 怀旧](#category-retro-vintage) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [极简主义](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -862,6 +862,32 @@ CGI毛发、
 
 ```text
 我在20世纪80年代会是什么样子？以附带的照片作为参考。保持我完全相同的面部特征、微笑、肤色、眼形以及整体身份标识。重新为我造型，仿佛我生活在1985年，带有纯正的80年代时尚与美容潮流：蓬松的大波浪打毛卷发、鲜艳大胆的眼妆、玫瑰色腮红、哑光唇膏、大圈形耳环、雪花石洗牛仔夹克、鲜艳的霓虹色上衣、高腰牛仔裤以及经典的80年代配饰。将我置身于逼真的80年代环境中，周围有复古海报、盒式磁带录音机、黑胶唱片以及胶片风格的温暖光线。使其看起来像一张拍摄于80年代中期的真正高品质35毫米照片，带有细腻的胶片颗粒和复古色调。图像应具备逼真的摄影质感，并与我保持极高的相似度——而不是一个泛化的80年代人物。
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## 赛博朋克 / 科幻
+
+<a name="prompt-2097951816675639459"></a>
+
+### 翻译中
+
+作者：[@DtheW1995](https://x.com/DtheW1995) · [查看 X 原帖](https://x.com/DtheW1995/status/2097951816675639459)
+
+赛博朋克 / 科幻 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2097951816675639459.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
 ```
 
 [↑ 返回分类目录](#catalog)

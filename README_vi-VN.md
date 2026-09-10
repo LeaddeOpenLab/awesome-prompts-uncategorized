@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**38** Prompt · Bổ sung mới nhất: **2026-09-10**
+**39** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -867,6 +867,32 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 
 ```text
 Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức ảnh đính kèm làm tài liệu tham khảo. Giữ nguyên các đường nét khuôn mặt, nụ cười, màu da, dáng mắt và nhận diện tổng thể của tôi. Hãy tạo hình lại cho tôi như thể tôi đang sống vào năm 1985 với các xu hướng thời trang và làm đẹp đích thực của thập niên 1980: mái tóc đánh phồng bồng bềnh, trang điểm mắt đậm, má hồng màu hoa hồng, son môi lì, khuyên tai tròn lớn, áo khoác denim mài acid-wash, áo neon rực rỡ, quần jean cạp cao và các phụ kiện cổ điển của thập niên 1980. Đặt tôi trong một bối cảnh thập niên 1980 chân thực với những tấm áp phích cổ điển, máy phát băng cassette, đĩa than và ánh sáng ấm áp kiểu phim nhựa. Hãy làm cho nó giống như một bức ảnh chụp phim 35mm chất lượng cao thực thụ từ giữa những năm 1980 với hạt phim tinh tế và tông màu hoài cổ. Hình ảnh phải mang tính chân thực như ảnh chụp và giữ được nét giống tôi một cách rõ rệt—chứ không phải một nhân vật thập niên 1980 chung chung.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Khoa học viễn tưởng
+
+<a name="prompt-2097951816675639459"></a>
+
+### Đang dịch
+
+Tác giả：[@DtheW1995](https://x.com/DtheW1995) · [Bài gốc](https://x.com/DtheW1995/status/2097951816675639459)
+
+Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097951816675639459.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

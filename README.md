@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**38** Prompts · Latest addition: **2026-09-10**
+**39** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -990,6 +990,32 @@ Photography · Retro / Vintage · Portrait / Selfie · Fashion Item · Published
 
 ```text
 What would I have looked like in the 1980s? Use the attached photo as the reference. Preserve my exact facial features, smile, skin tone, eye shape, and overall identity. Restyle me as if I were living in 1985 with authentic 1980s fashion and beauty trends: voluminous teased hair, bold eye makeup, rosy blush, matte lipstick, large hoop earrings, an acid-wash denim jacket, a vibrant neon top, high-waisted jeans, and classic 1980s accessories. Place me in a realistic 1980s setting with retro posters, a cassette player, vinyl records, and warm film-style lighting. Make it look like a genuine high-quality 35mm photograph from the mid-1980s with subtle film grain and vintage color tones. The image should be photorealistic and maintain a strong resemblance to me—not a generic 1980s person.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-cyberpunk-sci-fi"></a>
+
+## Cyberpunk / Sci-Fi
+
+<a name="prompt-2097951816675639459"></a>
+
+### A 15-second early-2000s documentary scene where a reporter interviews an alien near a landed spaceship, and the alien reveals it came to Earth to redeem a McDonald's coupon.
+
+Author：[@DtheW1995](https://x.com/DtheW1995) · [Source](https://x.com/DtheW1995/status/2097951816675639459)
+
+Cyberpunk / Sci-Fi · Published
+
+**Summary:** A 15-second early-2000s documentary scene where a reporter interviews an alien near a landed spaceship, and the alien reveals it came to Earth to redeem a McDonald's coupon.
+
+<img src="covers/2097951816675639459.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+15-second ultra-realistic early-2000s television documentary footage, filmed on a consumer MiniDV camera by one physically present cameraman. Nighttime in a damp field outside a small American town. A large authentic metallic alien spacecraft has just landed behind the subjects, resting heavily in flattened wet grass; its ramp is open, pale interior light spills into the fog, condensation drips from the hull and a low mechanical hum is audible. No cinematic polish: shaky shoulder-held framing, imperfect zoom, slow autofocus, exposure pumping around bright lights, washed-out colors, interlaced DV motion, mild tape noise and compression artifacts.    0.0–2.0s — HOOK: Begin already in the middle of the extraordinary interview. A nervous male TV reporter stands beside a tall, thin but biologically believable alien directly in front of the spacecraft. The reporter holds a wired news microphone toward it while the camera quickly zooms from the glowing ship to the alien’s detailed face. The alien has moist textured grey skin, subtle breathing, blinking black eyes and natural weight; it is not a costume and not cartoonish.    2.0–5.5s: In one continuous handheld take, the reporter looks up at the alien and asks seriously in English: “Why did you come to Earth? What are you looking for?” His delivery is cautious and professional. The cameraman briefly loses focus while reframing both faces, then corrects it. The alien silently considers the question for one awkward second while the ship hums behind them.    5.5–11.5s — DEADPAN PAYOFF: The alien slowly reaches into a small metallic pouch attached to its body and removes a slightly crumpled paper coupon. It holds the coupon up between two long fingers and answers in calm, perfectly understandable English with a strange dry voice: “I came to redeem this coupon. Twenty-piece Chicken McNuggets, with sweet-and-sour sauce. At McDonald’s.” Its face remains completely serious. The mouth movement matches only the alien’s dialogue.    11.5–15.0s — AFTERMATH: The reporter lowers the microphone slightly and stares at the alien in total disbelief. The camera performs an awkward accidental zoom onto the coupon, then back to the reporter’s confused face. The alien points matter-of-factly toward the distant town as if asking for directions. The cameraman tries to suppress a quiet laugh. The reporter finally mutters: “Right … okay.” Abrupt authentic tape-style cut.    AUDIO: clean English location dialogue but imperfect early-2000s microphone quality, light wind, wet grass under shoes, distant insects, spacecraft ventilation and electrical hum. No music, narration, trailer sound effects or laugh track. The humor comes entirely from the serious documentary tone and absurdly mundane answer.    CONTINUITY / NEGATIVES: one reporter, one alien, one cameraman and one spacecraft only; continuous reachable camera position; no impossible camera angles, duplicated people or aliens, morphing, floating, teleportation, cartoon CGI, glowing magical eyes, aggression, weapons, crowds, subtitles, on-screen text, changing coupon or changing microphone.
 ```
 
 [↑ Back to categories](#catalog)
