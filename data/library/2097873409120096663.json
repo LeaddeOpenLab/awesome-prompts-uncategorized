@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T04:19:23.758Z",
+  "model": "unknown-image",
+  "prompt": "An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail.",
+  "promptTranslations": {
+    "en": "An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail."
+  },
+  "summaryTranslations": {
+    "en": "Origami-folded surreal futuristic city and a magnificent sunset architectural panorama."
+  },
+  "translationVersion": 2,
+  "summary": "折纸般折叠弯曲的超现实未来城市与绚烂日落建筑全景。",
+  "summaryEn": "Origami-folded futuristic city with bending skyscrapers and vibrant sunset lighting.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097866046187467111",
+      "canonicalUrl": "https://x.com/Gigi214TX/status/2097866046187467111",
+      "author": {
+        "username": "Gigi214TX",
+        "displayName": "Gi😘💞🇺🇸",
+        "profileUrl": "https://x.com/Gigi214TX"
+      },
+      "originalText": "Prompt Share….Twist it your way! \n\nThanks  @CoopandKCmom \n\nAn entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail."
+    },
+    "id": "2097873409120096663",
+    "canonicalUrl": "https://x.com/bama_angel4life/status/2097873409120096663",
+    "author": {
+      "username": "bama_angel4life",
+      "displayName": "Katie🅱️🅰️Ⓜ️🅰️🇺🇸Patriot🇺🇸",
+      "profileUrl": "https://x.com/bama_angel4life"
+    },
+    "publishedAt": "2026-09-10T02:22:51.000Z",
+    "collectedAt": "2026-09-10T04:17:05.195Z",
+    "language": "en",
+    "originalText": "Prompt Share….Twist it your way! \n\nThanks  @CoopandKCmom \n\nAn entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0kvmtaoAAb1ln.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0kvmtaoAAb1ln.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0eDFMbQAAw3c5.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0eDFMbQAAw3c5.jpg",
+        "sourcePostId": "2097866046187467111"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 159
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/bama_angel4life/status/2097873409120096663",
+  "coverUrl": "https://pbs.twimg.com/media/HR0kvmtaoAAb1ln.jpg",
+  "coverPath": "images/2097873409120096663-1.jpg",
+  "imagePaths": [
+    "images/2097873409120096663-1.jpg",
+    "images/2097873409120096663-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR0kvmtaoAAb1ln",
+    "x-image:/media/HR0eDFMbQAAw3c5",
+    "x-post:2097873409120096663",
+    "x-post:2097866046187467111"
+  ],
+  "analysis": {
+    "summary": "折纸般折叠弯曲的超现实未来城市与绚烂日落建筑全景。",
+    "summaryEn": "Origami-folded futuristic city with bending skyscrapers and vibrant sunset lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt describes an origami-folded futuristic city with vibrant sunset and neon colors, matching the architecture and color scheme in the media."
+    },
+    "videoQuality": null,
+    "originalPrompt": "An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail.",
+    "sourceRange": {
+      "start": 59,
+      "end": 488
+    },
+    "translations": {
+      "zh": "一座如折纸般折叠的未来城市，摩天大楼向上弯曲后向下方折叠，街道垂直延伸至墙面，桥梁扭曲成环状，建筑以不可思议的角度从其他建筑中生长出来。电光洋红、青色、橙色、青柠绿、钴蓝和金属金色，发光的窗户，反光表面，绚烂的日落，超现实建筑杰作，极致景深与细节。",
+      "en": "An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept-art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.65,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
