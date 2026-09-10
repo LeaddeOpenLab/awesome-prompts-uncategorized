@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**36** 条内容 · 最新收录: **2026-09-10**
+**37** 条内容 · 最新收录: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -410,6 +410,30 @@ CGI毛发、
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2097904155801325715"></a>
+
+### 翻译中
+
+作者：[@PixelAigc](https://x.com/PixelAigc) · [查看 X 原帖](https://x.com/PixelAigc/status/2097904155801325715)
+
+电影 / 电影剧照 · 角色 · 城市风光 / 街道 · 已推流
+
+查看 X 原帖：[@PixelAigc](https://x.com/PixelAigc) · [查看 X 原帖](https://x.com/PixelAigc/status/2097690833684410515)
+
+**概括:** 翻译中
+
+<img src="covers/2097904155801325715.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097883008233865405"></a>
 

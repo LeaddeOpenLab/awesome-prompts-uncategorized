@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**36** 件 · 最新の追加: **2026-09-10**
+**37** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -409,6 +409,30 @@ CGI毛皮、
 <a name="category-cinematic-film-still"></a>
 
 ## シネマティック / フィルムスチル
+
+<a name="prompt-2097904155801325715"></a>
+
+### 翻訳中
+
+作者：[@PixelAigc](https://x.com/PixelAigc) · [元の投稿](https://x.com/PixelAigc/status/2097904155801325715)
+
+シネマティック / フィルムスチル · キャラクター · 街並み / ストリート · 配信済み
+
+元の投稿：[@PixelAigc](https://x.com/PixelAigc) · [元の投稿](https://x.com/PixelAigc/status/2097690833684410515)
+
+**概要:** 翻訳中
+
+<img src="covers/2097904155801325715.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097883008233865405"></a>
 

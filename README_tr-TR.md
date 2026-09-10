@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**36** Prompt · Son eklenen: **2026-09-10**
+**37** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -403,6 +403,30 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2097904155801325715"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2097904155801325715)
+
+Sinematik / Film Karesi · Karakter · Şehir Manzarası / Sokak · Yayımlandı
+
+Orijinal gönderi：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2097690833684410515)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097904155801325715.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097883008233865405"></a>
 

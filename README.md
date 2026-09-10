@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**36** Prompts · Latest addition: **2026-09-10**
+**37** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -459,6 +459,30 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097904155801325715"></a>
+
+### Close-up shot and internal monologue of an East Asian beauty with short hair in a white shirt walking and contemplating on the street
+
+Author：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2097904155801325715)
+
+Cinematic / Film Still · Character · Cityscape / Street · Published
+
+Source：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2097690833684410515)
+
+**Summary:** Close-up shot and internal monologue of an East Asian beauty with short hair in a white shirt walking and contemplating on the street
+
+<img src="covers/2097904155801325715.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A 20-year-old young East Asian beauty with shoulder-length short hair, cool fair skin, wearing a white shirt and a black leather skirt, walking on the street, front half-body close-up, large aperture blurred background, camera slowly pushing in, she is lost in thought as she walks, voice-over internal monologue: "How should I ask my boss for leave today?" No text, no subtitles, no watermarks
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097883008233865405"></a>
 
