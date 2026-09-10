@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**24** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**25** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -557,6 +557,28 @@ Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhet
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097886466710085695"></a>
+
+### Übersetzung läuft
+
+Autor：[@oneviske](https://x.com/oneviske) · [Originalbeitrag](https://x.com/oneviske/status/2097886466710085695)
+
+Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097886466710085695-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2096936643173216486"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**24** Prompts · Latest addition: **2026-09-10**
+**25** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -567,6 +567,70 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097886466710085695"></a>
+
+### Fashion street photography prompt featuring an East Asian woman in a vintage industrial corridor, detailing clothing, pose, and lighting.
+
+Author：[@oneviske](https://x.com/oneviske) · [Source](https://x.com/oneviske/status/2097886466710085695)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Cityscape / Street · Published
+
+**Summary:** Fashion street photography prompt featuring an East Asian woman in a vintage industrial corridor, detailing clothing, pose, and lighting.
+
+<img src="images/2097886466710085695-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic vintage fashion street photography, vertical orientation approximately 16:9, a young adult East Asian woman seated on a gray metal bench in a semi-outdoor industrial building corridor, with a large expanse of off-white aged brick wall, exposed concrete structural beams, and gray drainage pipes in the background. The overall aesthetic presents a 90s–2000s Japanese magazine fashion editorial style combined with a modern minimalist industrial space and a candid snapshot feel—quiet, restrained, with a touch of retro urban sensibility.
+
+The photographer is positioned directly in front of the subject, slightly to the left, approximately 2–2.5 meters away, using an equivalent 35–50mm focal length lens, with the camera placed slightly below chest level and tilted gently upward. The subject is located in the center-right of the frame, occupying approximately 75–80% of the frame height, captured completely from the crown of her head to both feet; the left side retains a spacious, open corridor, pillars, and floor, while the right side retains the bench and her personal belongings. Avoid tight cropping, avoid excessive background blur, and ensure the industrial environment is clearly defined.
+
+The subject is a young adult East Asian woman with a small-to-medium bone structure, slightly narrow shoulders, a naturally slender upper body, a short and distinctly nipped waist, naturally wider pelvis and hips, long thighs with soft, realistic volume, and calves that taper down smoothly. The overall silhouette is a natural, elegant, mild hourglass figure; do not generate an exaggerated voluptuous physique, athletic muscular legs, or paper-thin proportions.
+
+The subject sits sideways on the bench, her body angled roughly 30–40° toward the front-left of the frame, hips resting on the right side of the bench, her torso leaning distinctly toward the front-left, with one shoulder higher than the other to form a gentle diagonal line. Her head tilts along with her body toward her left side, face turned toward the camera, eyes gazing directly at the photographer with a calm, slightly languid, and aloof expression, lips naturally parted slightly without showing teeth in a smile.
+
+Her left hand extends downward on her left side, fingers holding a folded English/financial newspaper that drapes naturally toward the ground; the layout shows black-and-white text, grayscale images, and bold headlines, but the text remains blurred and illegible. Her left wrist wears a bracelet made of small deep-red beads.
+
+Her right hand hangs naturally along the right side of her body, holding a red translucent/glossy low-heeled shoe by the heel or counter, letting it dangle in front of the bench. On her right wrist, she wears a vintage watch with a gold case and a green rectangular dial, and a few silver/gold rings on her fingers.
+
+The legs are the focal point of the composition: she is wearing sheer black pantyhose / black lace stockings that cover completely from thighs to toes; the color is distinctly noticeable yet allows natural skin tone to show through. The material has a lightweight nylon/hosiery texture, approximately 15–25D, with a smooth surface and subtle sheen, avoiding a thick cotton tight appearance.
+
+One leg extends boldly forward and down toward the lower-left from the bench, knee slightly bent, the stocking-clad foot stretched forward and slightly pointed downward, positioned closest to the lens to produce a natural perspective foreshortening; the other leg is bent and tucked close beneath the bench, with the foot resting on or lightly hovering above the floor. Neither foot is wearing shoes, only black stockings.
+
+On the floor in the lower part of the frame rests a black low-heeled ballet flat / kitten heel pump matching the one in her hand. The shoe features a round or soft squarish-round toe, a translucent or mesh upper with thin red piping and a small bow, and a very low, delicate heel around 3–4 cm. Her right hand holds the other shoe of the same pair, creating a clear relationship of "one on the ground, one held in hand."
+
+On top, she wears a cream-white / ivory fitted long-sleeved knit top made of thin, soft fabric that is slightly sheer while maintaining complete coverage. The neckline is a wide, shallow U-neck / boat neck, revealing the collarbone and neck lines. The bodice fits snugly around the waist, forming natural fabric creases.
+
+The sleeves are long with a slightly translucent quality, finished near the wrists with delicate white ruffled/lace trim, adding a touch of vintage feminine detail. Do not generate a generic white T-shirt or thick sweater.
+
+On the bottom, she wears a high-saturation true red / deep red micro-mini knit skirt that fits cleanly over her hips, ending just below the upper thighs, featuring a fine vertical knit texture or subtle ribbing. The waistband sits near her natural waistline; no pleats, no plaid, no leather.
+
+She wears a short white pearl necklace with medium-to-small pearls resting close to the base of her neck, enhancing the vintage elegance. Jewelry is minimal and refined; do not add exaggerated earrings or large statement necklaces.
+
+Her hair is deep black-brown, ultra-long with loose waves, reaching down to near her waist, naturally thick and voluminous. It is softly side-parted at the crown without heavy straight bangs, featuring long loose strands framing her face. The hair falls past both shoulders, forming prominent large S-waves across her chest and left side, with soft, naturally airy ends. Avoid short hair, high ponytails, or overly styled perms.
+
+Her face is delicate and softly oval, with a gentle jawline and fair, warm-toned skin. Naturally fine brows, deep brown almond-shaped eyes with subtle double eyelids, extremely thin eyeliner, a small straight nose, and low-saturation dusty rose lips. The makeup is clean, resembling vintage Japanese fashion magazines, preserving real skin texture without influencer-style beauty airbrushing.
+
+The setting is a semi-outdoor industrial building corridor / parking garage / museum back-of-house passageway. On the right background is an expansive off-white painted brick wall, with brick contours, mortar joints, wear, and uneven coating clearly visible, showing subtle aged texture.
+
+At the upper left, exposed concrete ceiling beams, rectangular structural beams, gray drainage pipes, and connecting elbows are visible. Toward the left rear stands a massive light-gray cylindrical load-bearing pillar running from floor to ceiling. A small electrical junction box or sensor may be on the wall, but without prominent text.
+
+The subject is seated on a minimalist gray metal bench composed of multiple horizontal metal slats supported by slender gray metal legs, giving an industrial design feel. On the right side of the bench sits a high-gloss red small square handbag / vanity bag made of patent leather or shiny PVC.
+
+Resting atop the red bag is a soft pale-yellow / cream-yellow beret or plush cap, slightly slouchy and softly colored. Beside it, an open newspaper/magazine lies naturally spread across the bench surface.
+
+The floor is coarse-grained gray concrete / cement with fine pebbles, scuffs, and several light water stains / damp patches. The subject's extended red stocking-clad foot creates a striking color contrast against the gray floor.
+
+Lighting is soft natural daylight streaming from the open area on the left, characterized by overcast or large-window diffused illumination. The left side of the subject's face, chest, white top, and forward leg are softly illuminated; the right side of her body, the brick wall, and the bench recede into deeper gray shadows, forming natural tonal depth.
+
+No harsh flash, no studio softboxes. The white brick wall appears warm gray and ivory gray rather than pure white; the red skirt, stockings, shoes, and handbag serve as the primary color focal points of the entire scene.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096936643173216486"></a>
 

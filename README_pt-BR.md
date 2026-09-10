@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**24** Prompts · Última adição: **2026-09-10**
+**25** Prompts · Última adição: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -557,6 +557,28 @@ Crie para mim um rack de servidores para 6 Nvidia Sparks com um design eficiente
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2097886466710085695"></a>
+
+### Tradução em andamento
+
+Autor：[@oneviske](https://x.com/oneviske) · [Publicação original](https://x.com/oneviske/status/2097886466710085695)
+
+Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097886466710085695-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2096936643173216486"></a>
 
