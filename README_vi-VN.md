@@ -852,20 +852,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2097896913269854538"></a>
 
-### Đang dịch
+### Những con rồng mặt trăng đỏ thẫm trong thành phố thiên giới
 
 Tác giả：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Bài gốc](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Những con rồng mặt trăng đỏ thẫm trong thành phố thiên giới
 
 <img src="images/2097896913269854538-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Những con rồng mặt trăng đỏ thẫm trong thành phố thiên giới
 ```
 
 [↑ Về danh mục](#catalog)

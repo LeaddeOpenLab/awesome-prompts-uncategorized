@@ -840,20 +840,20 @@ Traduction en cours
 
 <a name="prompt-2097896913269854538"></a>
 
-### Traduction en cours
+### Dragons de la lune carmin dans une cité céleste
 
 Auteur：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publication originale](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Dragons de la lune carmin dans une cité céleste
 
 <img src="images/2097896913269854538-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Dragons de la lune carmin dans une cité céleste
 ```
 
 [↑ Retour aux catégories](#catalog)

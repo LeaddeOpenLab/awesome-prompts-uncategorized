@@ -852,20 +852,20 @@ Traducción en curso
 
 <a name="prompt-2097896913269854538"></a>
 
-### Traducción en curso
+### Dragones de la luna carmesí en una ciudad celestial
 
 Autor：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publicación original](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Dragones de la luna carmesí en una ciudad celestial
 
 <img src="images/2097896913269854538-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Dragones de la luna carmesí en una ciudad celestial
 ```
 
 [↑ Volver a categorías](#catalog)

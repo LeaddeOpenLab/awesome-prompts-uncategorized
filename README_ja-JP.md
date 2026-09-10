@@ -846,20 +846,20 @@ CGI毛皮、
 
 <a name="prompt-2097896913269854538"></a>
 
-### 翻訳中
+### 天空の都市における深紅の月のドラゴン
 
 作者：[@TheEerieHollows](https://x.com/TheEerieHollows) · [元の投稿](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 その他 · 配信済み
 
-**概要:** 翻訳中
+**概要:** 天空の都市における深紅の月のドラゴン
 
 <img src="images/2097896913269854538-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+天空の都市における深紅の月のドラゴン
 ```
 
 [↑ カテゴリに戻る](#catalog)

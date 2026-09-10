@@ -840,20 +840,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2097896913269854538"></a>
 
-### Çeviri sürüyor
+### Göksel Bir Şehirde Kızıl Ay Ejderhaları
 
 Yazar：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Orijinal gönderi](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Göksel Bir Şehirde Kızıl Ay Ejderhaları
 
 <img src="images/2097896913269854538-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Göksel Bir Şehirde Kızıl Ay Ejderhaları
 ```
 
 [↑ Kategorilere dön](#catalog)

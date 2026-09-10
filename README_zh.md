@@ -847,20 +847,20 @@ CGI毛发、
 
 <a name="prompt-2097896913269854538"></a>
 
-### 翻译中
+### 天界之城中的绯红之月巨龙
 
 作者：[@TheEerieHollows](https://x.com/TheEerieHollows) · [查看 X 原帖](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 其他 · 已推流
 
-**概括:** 翻译中
+**概括:** 天界之城中的绯红之月巨龙
 
 <img src="images/2097896913269854538-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+天界之城中的绯红之月巨龙
 ```
 
 [↑ 返回分类目录](#catalog)

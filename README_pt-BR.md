@@ -840,20 +840,20 @@ Tradução em andamento
 
 <a name="prompt-2097896913269854538"></a>
 
-### Tradução em andamento
+### Dragões da lua carmesim em uma cidade celestial
 
 Autor：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publicação original](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Dragões da lua carmesim em uma cidade celestial
 
 <img src="images/2097896913269854538-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Dragões da lua carmesim em uma cidade celestial
 ```
 
 [↑ Voltar às categorias](#catalog)

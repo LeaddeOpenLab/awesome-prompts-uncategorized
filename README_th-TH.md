@@ -852,20 +852,20 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 
 <a name="prompt-2097896913269854538"></a>
 
-### กำลังแปล
+### มังกรจันทร์สีชาดในเมืองสวรรค์
 
 ผู้เขียน：[@TheEerieHollows](https://x.com/TheEerieHollows) · [โพสต์ต้นฉบับ](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 อื่น ๆ · เผยแพร่แล้ว
 
-**สรุป:** กำลังแปล
+**สรุป:** มังกรจันทร์สีชาดในเมืองสวรรค์
 
 <img src="images/2097896913269854538-1.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-กำลังแปล
+มังกรจันทร์สีชาดในเมืองสวรรค์
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

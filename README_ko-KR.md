@@ -846,20 +846,20 @@ CGI 털,
 
 <a name="prompt-2097896913269854538"></a>
 
-### 번역 중
+### 천상 도시의 진홍빛 달 드래곤
 
 작성자：[@TheEerieHollows](https://x.com/TheEerieHollows) · [원본 게시물](https://x.com/TheEerieHollows/status/2097896913269854538)
 
 기타 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 천상 도시의 진홍빛 달 드래곤
 
 <img src="images/2097896913269854538-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+천상 도시의 진홍빛 달 드래곤
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
