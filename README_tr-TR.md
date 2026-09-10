@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**26** Prompt · Son eklenen: **2026-09-10**
+**27** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -579,6 +579,28 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097852814341128610"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2097852814341128610)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097852814341128610-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097886466710085695"></a>
 
