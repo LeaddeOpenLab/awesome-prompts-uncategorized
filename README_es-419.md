@@ -708,13 +708,13 @@ Crea para mí un rack de servidores para 6 Nvidia Sparks que tenga un diseño ef
 
 <a name="prompt-2097892340165992619"></a>
 
-### Traducción en curso
+### Instrucción para retrato retro estilo película Kodak de los años 80, que incluye camisa rosa, falda negra de talle alto, cabello ondulado retro y ambientación de habitación.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicación original](https://x.com/MissDelulu9/status/2097892340165992619)
 
 Retro / Vintage · Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción para retrato retro estilo película Kodak de los años 80, que incluye camisa rosa, falda negra de talle alto, cabello ondulado retro y ambientación de habitación.
 
 <img src="images/2097892340165992619-1.jpg" alt="Imagen 1" width="480" />
 
@@ -723,7 +723,13 @@ Retro / Vintage · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Transforma mi foto en un auténtico retrato de moda india retro de la década de 1980, inspirado en la imagen de referencia.
+
+Mantén exactamente el mismo rostro, rasgos faciales, estructura facial, tono de piel, identidad y proporciones naturales sin cambios. No alteres ni embellezcas el rostro.
+
+Vístela con una camisa rosa de manga larga metida prolijamente dentro de una falda negra de talle alto con un cinturón elegante. Quita la bufanda por completo. Añade accesorios sencillos inspirados en los años 80. Dale un cabello retro con volumen y movimiento, estilizado con un lindo lazo.
+
+Crea un fondo y una atmósfera auténticos de los años 80. Utiliza un aspecto de cámara de película Kodak con colores cálidos y desvaídos, grano de película sutil, textura analógica suave, iluminación vintage tenue y textura natural de la piel. Haz que parezca una fotografía genuina tomada en la década de 1980, no una foto moderna con un filtro vintage. Sin marcas de agua, sin texto, sin distorsiones.
 ```
 
 [↑ Volver a categorías](#catalog)

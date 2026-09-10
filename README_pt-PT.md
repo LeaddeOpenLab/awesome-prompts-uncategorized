@@ -708,13 +708,13 @@ Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e
 
 <a name="prompt-2097892340165992619"></a>
 
-### Tradução em curso
+### Instrução para retrato retro em estilo de película Kodak dos anos 1980, incluindo camisa cor-de-rosa, saia preta de cintura subida, caracóis retro e cenário de quarto.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Publicação original](https://x.com/MissDelulu9/status/2097892340165992619)
 
 Retrô / Vintage · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instrução para retrato retro em estilo de película Kodak dos anos 1980, incluindo camisa cor-de-rosa, saia preta de cintura subida, caracóis retro e cenário de quarto.
 
 <img src="images/2097892340165992619-1.jpg" alt="Imagem 1" width="480" />
 
@@ -723,7 +723,13 @@ Retrô / Vintage · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Transforme a minha foto num autêntico retrato de moda indiana retro dos anos 1980, inspirado na imagem de referência.
+
+Mantenha o rosto exato, os traços faciais, a estrutura do rosto, o tom de pele, a identidade e as proporções naturais inalterados. Não altere nem embeleze o rosto.
+
+Vista-a com uma camisa cor-de-rosa de mangas compridas cuidadosamente metida numa saia preta de cintura subida com um cinto elegante. Remova o lenço por completo. Adicione acessórios simples inspirados nos anos 1980. Dê-lhe um cabelo retro volumoso e solto, penteado com um laço bonito.
+
+Crie um fundo e uma atmosfera autênticos dos anos 1980. Use um aspeto de câmara de filme Kodak com cores quentes e desbotadas, grão de filme subtil, textura analógica suave, iluminação vintage suave e textura de pele natural. Faça com que pareça uma fotografia genuína tirada nos anos 1980, e não uma foto moderna com um filtro vintage. Sem marcas de água, sem texto, sem distorção.
 ```
 
 [↑ Voltar às categorias](#catalog)

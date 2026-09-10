@@ -708,13 +708,13 @@ Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhet
 
 <a name="prompt-2097892340165992619"></a>
 
-### Übersetzung läuft
+### Prompt für ein Retro-Porträt im Kodak-Filmstil der 1980er Jahre mit rosa Hemd, schwarzem High-Waist-Rock, Retro-Locken und Raumkulisse.
 
 Autor：[@MissDelulu9](https://x.com/MissDelulu9) · [Originalbeitrag](https://x.com/MissDelulu9/status/2097892340165992619)
 
 Retro / Vintage · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein Retro-Porträt im Kodak-Filmstil der 1980er Jahre mit rosa Hemd, schwarzem High-Waist-Rock, Retro-Locken und Raumkulisse.
 
 <img src="images/2097892340165992619-1.jpg" alt="Bild 1" width="480" />
 
@@ -723,7 +723,13 @@ Retro / Vintage · Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandle mein Foto in ein authentisches indisches Retro-Modeporträt aus den 1980er Jahren, inspiriert vom Referenzbild.
+
+Behalte das exakte Gesicht, die Gesichtszüge, die Gesichtsstruktur, den Hautton, die Identität und die natürlichen Proportionen unverändert bei. Das Gesicht nicht verändern oder verschönern.
+
+Kleide sie in ein langärmeliges rosa Hemd, das ordentlich in einen schwarzen Rock mit hoher Taille und einem stilvollen Gürtel gesteckt ist. Entferne den Schal vollständig. Füge schlichte, von den 1980er Jahren inspirierte Accessoires hinzu. Gib ihr schwungvolles, voluminöses Retro-Haar, das mit einer hübschen Schleife gestylt ist.
+
+Schaffe einen authentischen Hintergrund und eine Atmosphäre der 1980er Jahre. Verwende einen Kodak-Filmkamera-Look mit warmen, verblassten Farben, subtiler Filmkörnung, weicher analoger Textur, sanfter Vintage-Beleuchtung und natürlicher Hauttextur. Lass es wie ein echtes Foto aus den 1980er Jahren wirken, nicht wie ein modernes Foto mit einem Vintage-Filter. Kein Wasserzeichen, kein Text, keine Verzerrung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

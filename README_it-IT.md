@@ -708,13 +708,13 @@ Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticame
 
 <a name="prompt-2097892340165992619"></a>
 
-### Traduzione in corso
+### Istruzione per ritratto vintage in stile pellicola Kodak anni '80, con camicia rosa, gonna nera a vita alta, ricci rétro e ambientazione interna.
 
 Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2097892340165992619)
 
 Retro / Vintage · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzione per ritratto vintage in stile pellicola Kodak anni '80, con camicia rosa, gonna nera a vita alta, ricci rétro e ambientazione interna.
 
 <img src="images/2097892340165992619-1.jpg" alt="Immagine 1" width="480" />
 
@@ -723,7 +723,13 @@ Retro / Vintage · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma la mia foto in un autentico ritratto di moda indiana rétro degli anni '80, ispirato all'immagine di riferimento.
+
+Mantieni inalterati il viso esatto, i lineamenti del viso, la struttura facciale, la tonalità della pelle, l'identità e le proporzioni naturali. Non alterare né abbellire il viso.
+
+Vestila con una camicia rosa a maniche lunghe infilata con cura in una gonna nera a vita alta con un'elegante cintura. Rimuovi completamente la sciarpa. Aggiungi semplici accessori ispirati agli anni '80. Falle un'acconciatura rétro vaporosa e voluminosa, impreziosita da un grazioso fiocco.
+
+Crea uno sfondo e un'atmosfera autentici degli anni '80. Usa un look da fotocamera a pellicola Kodak con colori caldi e sbiaditi, una grana sottile della pellicola, una morbida texture analogica, un'illuminazione vintage delicata e una texture naturale della pelle. Fai in modo che sembri un'autentica fotografia scattata negli anni '80, non una foto moderna con un filtro vintage. Nessuna filigrana, nessun testo, nessuna distorsione.
 ```
 
 [↑ Torna alle categorie](#catalog)

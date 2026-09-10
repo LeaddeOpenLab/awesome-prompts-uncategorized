@@ -720,13 +720,13 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 
 <a name="prompt-2097892340165992619"></a>
 
-### Đang dịch
+### Lời nhắc chân dung phong cách phim Kodak cổ điển thập niên 1980 với áo sơ mi hồng, chân váy cạp cao màu đen, tóc xoăn retro và bối cảnh phòng.
 
 Tác giả：[@MissDelulu9](https://x.com/MissDelulu9) · [Bài gốc](https://x.com/MissDelulu9/status/2097892340165992619)
 
 Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung phong cách phim Kodak cổ điển thập niên 1980 với áo sơ mi hồng, chân váy cạp cao màu đen, tóc xoăn retro và bối cảnh phòng.
 
 <img src="images/2097892340165992619-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -735,7 +735,13 @@ Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Đã xuất b�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Biến đổi bức ảnh của tôi thành một bức chân dung thời trang Ấn Độ cổ điển chuẩn xác thập niên 1980, lấy cảm hứng từ hình ảnh tham chiếu.
+
+Giữ nguyên vẹn khuôn mặt, các đường nét, cấu trúc khuôn mặt, màu da, danh tính và tỷ lệ tự nhiên. Không thay đổi hoặc làm đẹp khuôn mặt.
+
+Cho cô ấy mặc một chiếc áo sơ mi dài tay màu hồng được sơ vin gọn gàng trong chiếc váy cạp cao màu đen có thắt lưng sành điệu. Bỏ hoàn toàn khăn quàng cổ. Thêm các phụ kiện đơn giản lấy cảm hứng từ thập niên 1980. Tạo cho cô ấy mái tóc bồng bềnh, dày dặn kiểu retro được cài một chiếc nơ dễ thương.
+
+Tạo bối cảnh và bầu không khí chân thực của thập niên 1980. Sử dụng phong cách máy ảnh phim Kodak với màu sắc ấm áp ngả màu, hạt phim tinh tế, kết cấu analog mềm mại, ánh sáng cổ điển dịu nhẹ và kết cấu da tự nhiên. Làm cho bức ảnh trông giống như một bức ảnh thực sự được chụp vào những năm 1980, chứ không phải một bức ảnh hiện đại dùng bộ lọc cổ điển. Không có hình mờ, không có chữ, không biến dạng.
 ```
 
 [↑ Về danh mục](#catalog)

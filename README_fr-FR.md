@@ -708,13 +708,13 @@ Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et e
 
 <a name="prompt-2097892340165992619"></a>
 
-### Traduction en cours
+### Instruction de portrait rétro style pellicule Kodak des années 1980, comprenant une chemise rose, une jupe noire taille haute, des boucles rétro et un décor de pièce.
 
 Auteur：[@MissDelulu9](https://x.com/MissDelulu9) · [Publication originale](https://x.com/MissDelulu9/status/2097892340165992619)
 
 Rétro / Vintage · Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instruction de portrait rétro style pellicule Kodak des années 1980, comprenant une chemise rose, une jupe noire taille haute, des boucles rétro et un décor de pièce.
 
 <img src="images/2097892340165992619-1.jpg" alt="Image 1" width="480" />
 
@@ -723,7 +723,13 @@ Rétro / Vintage · Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Transformez ma photo en un portrait de mode indienne rétro authentique des années 1980, inspiré de l'image de référence.
+
+Conservez le visage exact, les traits du visage, la structure faciale, le teint de la peau, l'identité et les proportions naturelles sans modification. Ne modifiez pas et n'embellissez pas le visage.
+
+Habillez-la d'une chemise rose à manches longues soigneusement rentrée dans une jupe noire taille haute avec une ceinture élégante. Retirez complètement l'écharpe. Ajoutez des accessoires simples inspirés des années 1980. Donnez-lui des cheveux rétro volumineux et souples, coiffés avec un joli ruban.
+
+Créez un arrière-plan et une ambiance authentiques des années 1980. Utilisez un rendu d'appareil photo argentique Kodak avec des couleurs chaudes et délavées, un grain de film subtil, une texture argentique douce, un éclairage vintage délicat et une texture de peau naturelle. Faites en sorte que cela ressemble à une véritable photographie prise dans les années 1980, et non à une photo moderne avec un filtre vintage. Sans filigrane, sans texte, sans distorsion.
 ```
 
 [↑ Retour aux catégories](#catalog)

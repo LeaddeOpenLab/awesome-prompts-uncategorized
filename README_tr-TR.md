@@ -708,13 +708,13 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 
 <a name="prompt-2097892340165992619"></a>
 
-### Çeviri sürüyor
+### Pembe gömlek, siyah yüksek bel etek, retro bukleler ve oda dekoru içeren, 1980'ler retro Kodak film tarzı portre komutu.
 
 Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https://x.com/MissDelulu9/status/2097892340165992619)
 
 Retro / Vintage · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pembe gömlek, siyah yüksek bel etek, retro bukleler ve oda dekoru içeren, 1980'ler retro Kodak film tarzı portre komutu.
 
 <img src="images/2097892340165992619-1.jpg" alt="Görsel 1" width="480" />
 
@@ -723,7 +723,13 @@ Retro / Vintage · Portre / Selfie · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fotoğrafımı, referans görselden esinlenerek 1980'lerin özgün bir retro Hint modası portresine dönüştür.
+
+Birebir aynı yüzü, yüz hatlarını, yüz yapısını, cilt tonunu, kimliği ve doğal oranları değiştirmeden koru. Yüzü değiştirme veya güzelleştirme.
+
+Ona, şık bir kemerle birlikte siyah yüksek belli bir eteğin içine düzgünce sokulmuş uzun kollu pembe bir gömlek giydir. Atkıyı tamamen kaldır. 1980'lerden esinlenen sade aksesuarlar ekle. Sevimli bir kurdeleyle şekillendirilmiş, dolgun ve hacimli retro saçlar ver.
+
+Otantik bir 1980'ler arka planı ve atmosferi oluştur. Sıcak soluk renkler, ince film greni, yumuşak analog doku, narin vintage aydınlatma ve doğal cilt dokusu ile Kodak film kamerası görünümü kullan. Vintage filtreli modern bir fotoğraf gibi değil, 1980'lerde çekilmiş gerçek bir fotoğraf gibi görünmesini sağla. Filigran yok, metin yok, bozulma yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
