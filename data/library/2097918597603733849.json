@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T08:25:34.063Z",
+  "model": "grok",
+  "prompt": "10–15 秒｜道具爆發：Rakhi 自己飛起來纏上手腕\n金色絲帶自動纏上魯夫手腕，保護光罩展開，Anya 眼睛變星星。\n15–20 秒｜情緒高潮：大哥哥摸頭＋擁抱\n魯夫認真摸 Anya 的頭，Anya 撲進懷裡，金色愛心光包圍。",
+  "promptTranslations": {
+    "en": "10–15 seconds | Prop burst: Rakhi flies up by itself and wraps around the wrist\\nGolden ribbon automatically wraps around Luffy's wrist, protective light shield expands, Anya's eyes turn into stars.\\n15–20 seconds | Emotional climax: Big brother head pat + hug\\nLuffy earnestly pats Anya's head, Anya throws herself into his arms, surrounded by golden heart-shaped light."
+  },
+  "summaryTranslations": {
+    "en": "Anime storyboard prompt of Luffy and Anya interacting, featuring a golden ribbon protective light shield and a head pat with a hug."
+  },
+  "translationVersion": 2,
+  "summary": "魯夫與安妮亞互動的動漫分鏡提示詞，包含金色絲帶防護光罩與摸頭擁抱動作。",
+  "summaryEn": "Anime video prompt depicting Luffy and Anya with a floating magic ribbon, protective shield, and an affectionate hug.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097918597603733849",
+    "canonicalUrl": "https://x.com/Gopphybjwo/status/2097918597603733849",
+    "author": {
+      "username": "Gopphybjwo",
+      "displayName": "思考小朋友的未來",
+      "profileUrl": "https://x.com/Gopphybjwo"
+    },
+    "publishedAt": "2026-09-10T05:22:25.000Z",
+    "collectedAt": "2026-09-10T08:16:56.591Z",
+    "language": "zh",
+    "originalText": "Grok Imagine prompt:\n\n10–15 秒｜道具爆發：Rakhi 自己飛起來纏上手腕\n金色絲帶自動纏上魯夫手腕，保護光罩展開，Anya 眼睛變星星。\n15–20 秒｜情緒高潮：大哥哥摸頭＋擁抱\n魯夫認真摸 Anya 的頭，Anya 撲進懷裡，金色愛心光包圍。 https://t.co/fsBc9HZ5jl",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Gopphybjwo/status/2097918597603733849",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg",
+        "analysisUrl": "https://x.com/Gopphybjwo/status/2097918597603733849"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 26
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Gopphybjwo/status/2097918597603733849",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097918547813175296/img/9s_uDQjaXgjU2a1N.jpg",
+  "coverPath": "covers/2097918597603733849.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097918547813175296",
+    "x-post:2097918597603733849"
+  ],
+  "analysis": {
+    "summary": "魯夫與安妮亞互動的動漫分鏡提示詞，包含金色絲帶防護光罩與摸頭擁抱動作。",
+    "summaryEn": "Anime video prompt depicting Luffy and Anya with a floating magic ribbon, protective shield, and an affectionate hug.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "影片 10 秒至結尾完整重現了絲帶纏繞魯夫手腕、安妮亞星星眼以及摸頭擁抱的情節。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "10–15 秒｜道具爆發：Rakhi 自己飛起來纏上手腕\n金色絲帶自動纏上魯夫手腕，保護光罩展開，Anya 眼睛變星星。\n15–20 秒｜情緒高潮：大哥哥摸頭＋擁抱\n魯夫認真摸 Anya 的頭，Anya 撲進懷裡，金色愛心光包圍。",
+    "sourceRange": {
+      "start": 22,
+      "end": 137
+    },
+    "translations": {
+      "zh": "10–15 秒｜道具爆發：Rakhi 自己飛起來纏上手腕\n金色絲帶自動纏上魯夫手腕，保護光罩展開，Anya 眼睛變星星。\n15–20 秒｜情緒高潮：大哥哥摸頭＋擁抱\n魯夫認真摸 Anya 的頭，Anya 撲進懷裡，金色愛心光包圍。",
+      "en": "10–15s | Prop event: Rakhi flies and wraps around wrist. Golden ribbon wraps around Luffy's wrist, protective shield expands, Anya gets starry eyes.\n15–20s | Climax: Head pat and hug. Luffy pats Anya's head, Anya jumps into his hug, surrounded by glowing golden hearts."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "anime-animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "One Piece",
+        "Spy x Family",
+        "Doraemon"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
