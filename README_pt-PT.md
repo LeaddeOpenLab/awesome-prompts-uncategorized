@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**19** Prompts · Adição mais recente: **2026-09-09**
+**20** Prompts · Adição mais recente: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,30 @@ Como teria sido o meu aspeto nos anos 1980? Usa a fotografia em anexo como refer
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097844559959245230"></a>
+
+### Tradução em curso
+
+Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2097844559959245230)
+
+Item de Moda · Publicado
+
+Publicação original：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2097483614011486260)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2097844559959245230.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097779128275788112"></a>
 

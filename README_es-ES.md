@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**19** Prompts · Última incorporación: **2026-09-09**
+**20** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -567,6 +567,30 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2097844559959245230"></a>
+
+### Traducción en curso
+
+Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2097844559959245230)
+
+Artículo de moda · Publicado
+
+Publicación original：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicación original](https://x.com/Adam38363368936/status/2097483614011486260)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2097844559959245230.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097779128275788112"></a>
 

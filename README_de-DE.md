@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**19** Prompts · Zuletzt hinzugefügt: **2026-09-09**
+**20** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,30 @@ Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto al
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097844559959245230"></a>
+
+### Übersetzung läuft
+
+Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2097844559959245230)
+
+Modeartikel · Veröffentlicht
+
+Originalbeitrag：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2097483614011486260)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2097844559959245230.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097779128275788112"></a>
 

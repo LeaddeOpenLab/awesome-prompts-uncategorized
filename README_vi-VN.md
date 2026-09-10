@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**19** Prompt · Bổ sung mới nhất: **2026-09-09**
+**20** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -567,6 +567,30 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097844559959245230"></a>
+
+### Đang dịch
+
+Tác giả：[@Adam38363368936](https://x.com/Adam38363368936) · [Bài gốc](https://x.com/Adam38363368936/status/2097844559959245230)
+
+Mặt hàng thời trang · Đã xuất bản
+
+Bài gốc：[@Adam38363368936](https://x.com/Adam38363368936) · [Bài gốc](https://x.com/Adam38363368936/status/2097483614011486260)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097844559959245230.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097779128275788112"></a>
 

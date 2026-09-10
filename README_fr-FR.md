@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**19** Prompts · Dernier ajout: **2026-09-09**
+**20** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,30 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097844559959245230"></a>
+
+### Traduction en cours
+
+Auteur：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2097844559959245230)
+
+Article de mode · Publié
+
+Publication originale：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2097483614011486260)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097844559959245230.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097779128275788112"></a>
 

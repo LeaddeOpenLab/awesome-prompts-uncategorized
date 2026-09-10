@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**19** Prompt · Ultima aggiunta: **2026-09-09**
+**20** Prompt · Ultima aggiunta: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -555,6 +555,30 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2097844559959245230"></a>
+
+### Traduzione in corso
+
+Autore：[@Adam38363368936](https://x.com/Adam38363368936) · [Post originale](https://x.com/Adam38363368936/status/2097844559959245230)
+
+Articolo di moda · Pubblicato
+
+Post originale：[@Adam38363368936](https://x.com/Adam38363368936) · [Post originale](https://x.com/Adam38363368936/status/2097483614011486260)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2097844559959245230.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097779128275788112"></a>
 

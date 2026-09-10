@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**19** Prompts · Latest addition: **2026-09-09**
+**20** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -545,6 +545,30 @@ What would I have looked like in the 1980s? Use the attached photo as the refere
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097844559959245230"></a>
+
+### A video prompt for a continuous partial outfit change during a girl group dance, seamlessly swapping top, skirt, boots, and accessories in sequence at movement peaks along a timeline.
+
+Author：[@Adam38363368936](https://x.com/Adam38363368936) · [Source](https://x.com/Adam38363368936/status/2097844559959245230)
+
+Fashion Item · Published
+
+Source：[@Adam38363368936](https://x.com/Adam38363368936) · [Source](https://x.com/Adam38363368936/status/2097483614011486260)
+
+**Summary:** A video prompt for a continuous partial outfit change during a girl group dance, seamlessly swapping top, skirt, boots, and accessories in sequence at movement peaks along a timeline.
+
+<img src="covers/2097844559959245230.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+With the female in the reference image as the fixed protagonist, strictly maintain consistent facial shape, facial features, hairstyle, skin tone, and body proportions.\n\nVertical 9:16 aspect ratio, 10 seconds. A young Asian woman stands at the center of a sleek, high-end stage, performing a fluid, rhythmic K-pop girl group dance. The camera maintains a full-body shot, subtly tracking her movements while keeping her centered in the frame.\n\nCore effect: While dancing continuously, the character progressively completes localized outfit changes through different dance movements. The entire dance routine remains continuous throughout, without pauses, teleportation, or camera cuts.\n\nInitial state: The character wears a simple white tank top, a light-colored miniskirt, and white sneakers, presenting a clean and minimalist look.\n\n0–2 seconds:\nThe character performs a distinct arm-swing motion.\nHer arm sweeps swiftly across the upper body; at the exact moment of peak arm occlusion and motion blur, the top naturally transforms into a black form-fitting cropped stage top.\n\nOnly the top changes during this phase.\nThe bottom, shoes, hairstyle, and all other parts remain completely unchanged.\n\n2–4 seconds:\nThe character continues dancing with seamless transitions, executing an expressive side-profile hip-swivel movement.\nAt the exact instant the body rapidly pivots sideways, the bottom naturally transforms into a black pleated miniskirt.\n\nOnly the bottom changes during this phase.\nThe previously transformed black top remains unchanged, and the footwear remains white sneakers.\n\n4–6 seconds:\nThe character continues dancing, performing a crisp, light kick.\nThe foot lifts quickly with natural motion blur; at the exact moment the foot touches down, the white sneakers naturally transform into black knee-high boots.\n\nOnly the footwear changes during this phase.\nThe top and bottom remain identical to the previous phase.\n\n6–8 seconds:\nThe character continues dancing, executing an emphatic head whip and arm-raising motion.\nHer hair tosses naturally; at the moment of flying hair and hand occlusion, silver earrings, a necklace, a waist chain, and subtle stage accessories appear.\n\nThe main outfit remains unchanged, adding only accessories and refined details.\n\n8–10 seconds:\nThe character executes a smooth spin, the skirt hem naturally swirling outward.\nDuring the spin, the entire ensemble undergoes a final comprehensive upgrade.\n\nAs the character turns back to face front, she is transformed into a complete, sophisticated black-and-silver stage outfit with enhanced garment craftsmanship, subtle metallic accents, sequins, and premium stage styling elements.\n\nThe character transitions into the final dance pose and finishes naturally.\n\nAll outfit changes must occur precisely at the moments of widest movement amplitude, fastest body rotation, arm occlusion, tossing hair, or most pronounced motion blur.\n\nBefore and after each change, the character's body position, movement trajectory, arm positioning, and leg placement must remain naturally continuous.\n\nEmphasize the visual effect of \"progressively changing clothes piece by piece while continuously dancing\".\n\nNot instantaneous cuts between different clips, not vanishing and reappearing, and not swapping the entire outfit all at once with every movement.\n\nEach step alters only the designated clothing component, leaving the rest completely unchanged.\n\nNo flash explosions, no magical particle effects, no obscuring smoke, no black frames, no hard camera cuts.\n\nPhotorealistic live-action photography style, authentic K-pop stage aesthetic, high-end stage lighting, realistic fabric textures, natural motion blur, high-definition skin details, fluid choreography, sharp rhythm.\n\nNo face changes, no drifting facial features, no alteration of character identity, no fluctuating body proportions, no extra limbs, no deformed hands or feet, no melting fabrics, no clothing clipping, no sudden position snapping, no random background shifts.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097779128275788112"></a>
 
