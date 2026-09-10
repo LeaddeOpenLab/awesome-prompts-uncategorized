@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T02:29:22.648Z",
+  "model": "unknown-video",
+  "prompt": "以参考图中的女性为固定主角，严格保持人物脸型、五官、发型、肤色和身材比例一致。\n\n竖屏9:16，10秒。年轻亚洲女性站在简洁高级的舞台中央，进行一段流畅、有节奏感的女团舞蹈。镜头以全身景为主，轻微跟随人物移动，人物始终保持在画面中央。\n\n核心效果：人物一边连续跳舞，一边通过不同舞蹈动作逐步完成局部换装。整个舞蹈过程始终连续，不停顿、不瞬移、不切镜头。\n\n开始时人物穿简洁白色背心、浅色短裙、白色运动鞋，整体造型简单干净。\n\n0–2秒：\n人物做一个明显的摆臂动作。\n手臂快速从身体前方扫过上半身，在手臂遮挡和运动模糊最明显的一瞬间，上衣自然变化成黑色修身短款舞台上衣。\n\n这一阶段只更换上衣。\n下装、鞋子、发型和其他部分保持完全不变。\n\n2–4秒：\n人物继续跳舞，动作自然衔接，做明显的侧身扭胯动作。\n身体快速侧转的一瞬间，下装自然变化成黑色百褶短裙。\n\n这一阶段只更换下装。\n已经变化后的黑色上衣保持不变，鞋子仍然保持白色运动鞋。\n\n4–6秒：\n人物继续舞蹈，完成一个清晰、轻快的踢腿动作。\n脚部快速抬起并产生自然运动模糊，在脚落地的瞬间，白色运动鞋自然变化成黑色长靴。\n\n这一阶段只更换鞋子。\n上衣和下装保持上一阶段的造型。\n\n6–8秒：\n人物继续跳舞，完成明显的甩头和抬手动作。\n头发自然飞起，在头发运动和手部动作遮挡的瞬间，增加银色耳饰、项链、腰链和少量舞台配饰。\n\n服装主体保持不变，只增加配饰和少量细节。\n\n8–10秒：\n人物完成一次流畅转身，裙摆自然扬起。\n在转身过程中，整套造型进行最后一次完整升级。\n\n人物重新转回正面时，最终变成完整的黑银色高级舞台造型，服装细节更加精致，增加少量金属、亮片和高级舞台元素。\n\n人物继续完成最后一个舞蹈动作，自然收尾。\n\n所有换装都必须发生在人物动作幅度最大、身体转动最快、手臂遮挡、头发飞起或运动模糊最明显的瞬间。\n\n换装前后，人物的身体位置、动作方向、手臂位置、腿部位置和运动轨迹必须自然连续。\n\n重点表现“一边跳舞，一边逐步换衣服”的效果。\n\n不是瞬间切换不同视频，不是整个人消失后重新出现，也不是每次动作都整套衣服一起变化。\n\n每一次只改变指定的服装部位，其余部分保持不变。\n\n不要闪光爆炸，不要魔法粒子，不要烟雾遮挡，不要黑屏，不要镜头硬切。\n\n真实真人摄影风格，K-pop舞台质感，高级舞台灯光，真实衣料纹理，自然运动模糊，高清皮肤细节，动作流畅，节奏明确。\n\n禁止换脸，禁止五官漂移，禁止人物身份变化，禁止身材忽胖忽瘦，禁止多余手臂和腿，禁止手脚变形，禁止衣服融化，禁止服装穿模，禁止人物突然跳位，禁止背景随机变化。",
+  "promptTranslations": {
+    "en": "With the female in the reference image as the fixed protagonist, strictly maintain consistent facial shape, facial features, hairstyle, skin tone, and body proportions.\\n\\nVertical 9:16 aspect ratio, 10 seconds. A young Asian woman stands at the center of a sleek, high-end stage, performing a fluid, rhythmic K-pop girl group dance. The camera maintains a full-body shot, subtly tracking her movements while keeping her centered in the frame.\\n\\nCore effect: While dancing continuously, the character progressively completes localized outfit changes through different dance movements. The entire dance routine remains continuous throughout, without pauses, teleportation, or camera cuts.\\n\\nInitial state: The character wears a simple white tank top, a light-colored miniskirt, and white sneakers, presenting a clean and minimalist look.\\n\\n0–2 seconds:\\nThe character performs a distinct arm-swing motion.\\nHer arm sweeps swiftly across the upper body; at the exact moment of peak arm occlusion and motion blur, the top naturally transforms into a black form-fitting cropped stage top.\\n\\nOnly the top changes during this phase.\\nThe bottom, shoes, hairstyle, and all other parts remain completely unchanged.\\n\\n2–4 seconds:\\nThe character continues dancing with seamless transitions, executing an expressive side-profile hip-swivel movement.\\nAt the exact instant the body rapidly pivots sideways, the bottom naturally transforms into a black pleated miniskirt.\\n\\nOnly the bottom changes during this phase.\\nThe previously transformed black top remains unchanged, and the footwear remains white sneakers.\\n\\n4–6 seconds:\\nThe character continues dancing, performing a crisp, light kick.\\nThe foot lifts quickly with natural motion blur; at the exact moment the foot touches down, the white sneakers naturally transform into black knee-high boots.\\n\\nOnly the footwear changes during this phase.\\nThe top and bottom remain identical to the previous phase.\\n\\n6–8 seconds:\\nThe character continues dancing, executing an emphatic head whip and arm-raising motion.\\nHer hair tosses naturally; at the moment of flying hair and hand occlusion, silver earrings, a necklace, a waist chain, and subtle stage accessories appear.\\n\\nThe main outfit remains unchanged, adding only accessories and refined details.\\n\\n8–10 seconds:\\nThe character executes a smooth spin, the skirt hem naturally swirling outward.\\nDuring the spin, the entire ensemble undergoes a final comprehensive upgrade.\\n\\nAs the character turns back to face front, she is transformed into a complete, sophisticated black-and-silver stage outfit with enhanced garment craftsmanship, subtle metallic accents, sequins, and premium stage styling elements.\\n\\nThe character transitions into the final dance pose and finishes naturally.\\n\\nAll outfit changes must occur precisely at the moments of widest movement amplitude, fastest body rotation, arm occlusion, tossing hair, or most pronounced motion blur.\\n\\nBefore and after each change, the character's body position, movement trajectory, arm positioning, and leg placement must remain naturally continuous.\\n\\nEmphasize the visual effect of \\\"progressively changing clothes piece by piece while continuously dancing\\\".\\n\\nNot instantaneous cuts between different clips, not vanishing and reappearing, and not swapping the entire outfit all at once with every movement.\\n\\nEach step alters only the designated clothing component, leaving the rest completely unchanged.\\n\\nNo flash explosions, no magical particle effects, no obscuring smoke, no black frames, no hard camera cuts.\\n\\nPhotorealistic live-action photography style, authentic K-pop stage aesthetic, high-end stage lighting, realistic fabric textures, natural motion blur, high-definition skin details, fluid choreography, sharp rhythm.\\n\\nNo face changes, no drifting facial features, no alteration of character identity, no fluctuating body proportions, no extra limbs, no deformed hands or feet, no melting fabrics, no clothing clipping, no sudden position snapping, no random background shifts."
+  },
+  "summaryTranslations": {
+    "en": "A video prompt for a continuous partial outfit change during a girl group dance, seamlessly swapping top, skirt, boots, and accessories in sequence at movement peaks along a timeline."
+  },
+  "translationVersion": 2,
+  "summary": "女团舞蹈中的连贯局部换装视频提示词，按时间轴在动作峰值依次无缝更换上衣、裙子、长靴与配饰。",
+  "summaryEn": "Prompt for a continuous K-pop dance video featuring seamless step-by-step outfit changes during peak body movements.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2097483614011486260",
+      "canonicalUrl": "https://x.com/Adam38363368936/status/2097483614011486260",
+      "author": {
+        "username": "Adam38363368936",
+        "displayName": "Adam也叫吉米",
+        "profileUrl": "https://x.com/Adam38363368936"
+      },
+      "originalText": "这种丝滑换装，其实有个很简单的技巧：\n\n别在人物静止的时候换，在动作最大的时候换。\n\n转身、甩头、摆臂这些瞬间切换衣服和场景，再把前后动作对齐，效果就会自然很多。\n\n我复刻了一遍，确实好用。\n\n提示词：\n参考上传人物图片，人物身份、脸型、五官、发型始终保持完全一致。\n一名年轻女生站在舞台中央进行流畅、有节奏感的女团舞蹈，镜头始终以中景和全身景跟随人物。\n\n整段视频是一条连续舞蹈镜头，人物动作不能中断，也不能瞬移。\n\n在舞蹈过程中进行 5 次极其丝滑的服装变化：\n\n第1套：黑色修身舞台套装\n第2套：蓝白色短袖上衣搭配亮蓝色短裙\n第3套：白色上衣搭配粉色百褶短裙\n第4套：白色短款舞台上衣搭配银白色裙装\n第5套：绿色白色舞台服装\n\n每一次换装都发生在人物快速转身、甩头、摆臂、身体快速晃动或者头发飞起的一瞬间。\n\n换装瞬间不要停顿，不出现闪光爆炸特效，不使用魔法粒子，不出现人物消失再出现。\n\n利用人物高速运动形成自然运动模糊，衣服在运动模糊中无缝变化，下一帧人物继续完成原来的舞蹈动作。\n\n最重要：换装前后人物身体姿势、手臂位置、腿部位置、头部方向尽量完全衔接，使观众感觉衣服是在舞蹈过程中瞬间改变。\n\n人物面部身份全程一致，禁止换脸，禁止五官漂移，禁止身材改变，禁止多余手臂和手指，禁止人物突然跳位。\n\nK-pop live stage aesthetic，真实舞台摄影，动态灯光，真实运动模糊，高清皮肤细节，流畅连贯，强节奏感，10秒，竖屏9:16。"
+    },
+    "id": "2097844559959245230",
+    "canonicalUrl": "https://x.com/Adam38363368936/status/2097844559959245230",
+    "author": {
+      "username": "Adam38363368936",
+      "displayName": "Adam也叫吉米",
+      "profileUrl": "https://x.com/Adam38363368936"
+    },
+    "publishedAt": "2026-09-10T00:28:13.000Z",
+    "collectedAt": "2026-09-10T02:27:36.189Z",
+    "language": "zh",
+    "originalText": "AI 换装最适合拿来干嘛？\n\n我觉得可能真的是卖衣服。\n\n一边跳舞，一边把上衣、裙子、鞋和配饰依次换掉，动作还不断。\n\n拿来做穿搭展示、服装广告、Lookbook，比站着一套套切有意思多了。\n\n提示词：\n以参考图中的女性为固定主角，严格保持人物脸型、五官、发型、肤色和身材比例一致。\n\n竖屏9:16，10秒。年轻亚洲女性站在简洁高级的舞台中央，进行一段流畅、有节奏感的女团舞蹈。镜头以全身景为主，轻微跟随人物移动，人物始终保持在画面中央。\n\n核心效果：人物一边连续跳舞，一边通过不同舞蹈动作逐步完成局部换装。整个舞蹈过程始终连续，不停顿、不瞬移、不切镜头。\n\n开始时人物穿简洁白色背心、浅色短裙、白色运动鞋，整体造型简单干净。\n\n0–2秒：\n人物做一个明显的摆臂动作。\n手臂快速从身体前方扫过上半身，在手臂遮挡和运动模糊最明显的一瞬间，上衣自然变化成黑色修身短款舞台上衣。\n\n这一阶段只更换上衣。\n下装、鞋子、发型和其他部分保持完全不变。\n\n2–4秒：\n人物继续跳舞，动作自然衔接，做明显的侧身扭胯动作。\n身体快速侧转的一瞬间，下装自然变化成黑色百褶短裙。\n\n这一阶段只更换下装。\n已经变化后的黑色上衣保持不变，鞋子仍然保持白色运动鞋。\n\n4–6秒：\n人物继续舞蹈，完成一个清晰、轻快的踢腿动作。\n脚部快速抬起并产生自然运动模糊，在脚落地的瞬间，白色运动鞋自然变化成黑色长靴。\n\n这一阶段只更换鞋子。\n上衣和下装保持上一阶段的造型。\n\n6–8秒：\n人物继续跳舞，完成明显的甩头和抬手动作。\n头发自然飞起，在头发运动和手部动作遮挡的瞬间，增加银色耳饰、项链、腰链和少量舞台配饰。\n\n服装主体保持不变，只增加配饰和少量细节。\n\n8–10秒：\n人物完成一次流畅转身，裙摆自然扬起。\n在转身过程中，整套造型进行最后一次完整升级。\n\n人物重新转回正面时，最终变成完整的黑银色高级舞台造型，服装细节更加精致，增加少量金属、亮片和高级舞台元素。\n\n人物继续完成最后一个舞蹈动作，自然收尾。\n\n所有换装都必须发生在人物动作幅度最大、身体转动最快、手臂遮挡、头发飞起或运动模糊最明显的瞬间。\n\n换装前后，人物的身体位置、动作方向、手臂位置、腿部位置和运动轨迹必须自然连续。\n\n重点表现“一边跳舞，一边逐步换衣服”的效果。\n\n不是瞬间切换不同视频，不是整个人消失后重新出现，也不是每次动作都整套衣服一起变化。\n\n每一次只改变指定的服装部位，其余部分保持不变。\n\n不要闪光爆炸，不要魔法粒子，不要烟雾遮挡，不要黑屏，不要镜头硬切。\n\n真实真人摄影风格，K-pop舞台质感，高级舞台灯光，真实衣料纹理，自然运动模糊，高清皮肤细节，动作流畅，节奏明确。\n\n禁止换脸，禁止五官漂移，禁止人物身份变化，禁止身材忽胖忽瘦，禁止多余手臂和腿，禁止手脚变形，禁止衣服融化，禁止服装穿模，禁止人物突然跳位，禁止背景随机变化。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Adam38363368936/status/2097844559959245230",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097844414953689089/img/5xu9hX4rbtGd-zOj.jpg",
+        "analysisUrl": "https://x.com/Adam38363368936/status/2097844559959245230"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/Adam38363368936/status/2097844559959245230",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097483359937232896/img/APOCnW2Q7URz4FXQ.jpg",
+        "analysisUrl": "https://x.com/Adam38363368936/status/2097844559959245230",
+        "sourcePostId": "2097483614011486260"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 763
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"astra\",\"image2.5\",\"video\",\"3d\",\"blender\",\"solid works\",\"cad\",\"image\",\"gpt\",\"gemini\",\"nano banana\",\"grok\",\"mid journey\",\"image2\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Adam38363368936/status/2097844559959245230",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097844414953689089/img/5xu9hX4rbtGd-zOj.jpg",
+  "coverPath": "covers/2097844559959245230.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097844414953689089",
+    "x-video:2097483359937232896",
+    "x-post:2097844559959245230",
+    "x-post:2097483614011486260"
+  ],
+  "analysis": {
+    "summary": "女团舞蹈中的连贯局部换装视频提示词，按时间轴在动作峰值依次无缝更换上衣、裙子、长靴与配饰。",
+    "summaryEn": "Prompt for a continuous K-pop dance video featuring seamless step-by-step outfit changes during peak body movements.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频中女性在跳舞过程中利用摆臂、转体等动作依次将白色背心套装更换为黑上衣、黑裙、长靴及最终舞台装，与提示词分秒动作与服装设定精确吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "以参考图中的女性为固定主角，严格保持人物脸型、五官、发型、肤色和身材比例一致。\n\n竖屏9:16，10秒。年轻亚洲女性站在简洁高级的舞台中央，进行一段流畅、有节奏感的女团舞蹈。镜头以全身景为主，轻微跟随人物移动，人物始终保持在画面中央。\n\n核心效果：人物一边连续跳舞，一边通过不同舞蹈动作逐步完成局部换装。整个舞蹈过程始终连续，不停顿、不瞬移、不切镜头。\n\n开始时人物穿简洁白色背心、浅色短裙、白色运动鞋，整体造型简单干净。\n\n0–2秒：\n人物做一个明显的摆臂动作。\n手臂快速从身体前方扫过上半身，在手臂遮挡和运动模糊最明显的一瞬间，上衣自然变化成黑色修身短款舞台上衣。\n\n这一阶段只更换上衣。\n下装、鞋子、发型和其他部分保持完全不变。\n\n2–4秒：\n人物继续跳舞，动作自然衔接，做明显的侧身扭胯动作。\n身体快速侧转的一瞬间，下装自然变化成黑色百褶短裙。\n\n这一阶段只更换下装。\n已经变化后的黑色上衣保持不变，鞋子仍然保持白色运动鞋。\n\n4–6秒：\n人物继续舞蹈，完成一个清晰、轻快的踢腿动作。\n脚部快速抬起并产生自然运动模糊，在脚落地的瞬间，白色运动鞋自然变化成黑色长靴。\n\n这一阶段只更换鞋子。\n上衣和下装保持上一阶段的造型。\n\n6–8秒：\n人物继续跳舞，完成明显的甩头和抬手动作。\n头发自然飞起，在头发运动和手部动作遮挡的瞬间，增加银色耳饰、项链、腰链和少量舞台配饰。\n\n服装主体保持不变，只增加配饰和少量细节。\n\n8–10秒：\n人物完成一次流畅转身，裙摆自然扬起。\n在转身过程中，整套造型进行最后一次完整升级。\n\n人物重新转回正面时，最终变成完整的黑银色高级舞台造型，服装细节更加精致，增加少量金属、亮片和高级舞台元素。\n\n人物继续完成最后一个舞蹈动作，自然收尾。\n\n所有换装都必须发生在人物动作幅度最大、身体转动最快、手臂遮挡、头发飞起或运动模糊最明显的瞬间。\n\n换装前后，人物的身体位置、动作方向、手臂位置、腿部位置和运动轨迹必须自然连续。\n\n重点表现“一边跳舞，一边逐步换衣服”的效果。\n\n不是瞬间切换不同视频，不是整个人消失后重新出现，也不是每次动作都整套衣服一起变化。\n\n每一次只改变指定的服装部位，其余部分保持不变。\n\n不要闪光爆炸，不要魔法粒子，不要烟雾遮挡，不要黑屏，不要镜头硬切。\n\n真实真人摄影风格，K-pop舞台质感，高级舞台灯光，真实衣料纹理，自然运动模糊，高清皮肤细节，动作流畅，节奏明确。\n\n禁止换脸，禁止五官漂移，禁止人物身份变化，禁止身材忽胖忽瘦，禁止多余手臂和腿，禁止手脚变形，禁止衣服融化，禁止服装穿模，禁止人物突然跳位，禁止背景随机变化。",
+    "sourceRange": {
+      "start": 102,
+      "end": 1193
+    },
+    "translations": {
+      "zh": "以参考图中的女性为固定主角，严格保持人物脸型、五官、发型、肤色和身材比例一致。\n\n竖屏9:16，10秒。年轻亚洲女性站在简洁高级的舞台中央，进行一段流畅、有节奏感的女团舞蹈。镜头以全身景为主，轻微跟随人物移动，人物始终保持在画面中央。\n\n核心效果：人物一边连续跳舞，一边通过不同舞蹈动作逐步完成局部换装。整个舞蹈过程始终连续，不停顿、不瞬移、不切镜头。\n\n开始时人物穿简洁白色背心、浅色短裙、白色运动鞋，整体造型简单干净。\n\n0–2秒：\n人物做一个明显的摆臂动作。\n手臂快速从身体前方扫过上半身，在手臂遮挡和运动模糊最明显的一瞬间，上衣自然变化成黑色修身短款舞台上衣。\n\n这一阶段只更换上衣。\n下装、鞋子、发型和其他部分保持完全不变。\n\n2–4秒：\n人物继续跳舞，动作自然衔接，做明显的侧身扭胯动作。\n身体快速侧转的一瞬间，下装自然变化成黑色百褶短裙。\n\n这一阶段只更换下装。\n已经变化后的黑色上衣保持不变，鞋子仍然保持白色运动鞋。\n\n4–6秒：\n人物继续舞蹈，完成一个清晰、轻快的踢腿动作。\n脚部快速抬起并产生自然运动模糊，在脚落地的瞬间，白色运动鞋自然变化成黑色长靴。\n\n这一阶段只更换鞋子。\n上衣和下装保持上一阶段的造型。\n\n6–8秒：\n人物继续跳舞，完成明显的甩头和抬手动作。\n头发自然飞起，在头发运动和手部动作遮挡的瞬间，增加银色耳饰、项链、腰链和少量舞台配饰。\n\n服装主体保持不变，只增加配饰和少量细节。\n\n8–10秒：\n人物完成一次流畅转身，裙摆自然扬起。\n在转身过程中，整套造型进行最后一次完整升级。\n\n人物重新转回正面时，最终变成完整的黑银色高级舞台造型，服装细节更加精致，增加少量金属、亮片和高级舞台元素。\n\n人物继续完成最后一个舞蹈动作，自然收尾。\n\n所有换装都必须发生在人物动作幅度最大、身体转动最快、手臂遮挡、头发飞起或运动模糊最明显的瞬间。\n\n换装前后，人物的身体位置、动作方向、手臂位置、腿部位置和运动轨迹必须自然连续。\n\n重点表现“一边跳舞，一边逐步换衣服”的效果。\n\n不是瞬间切换不同视频，不是整个人消失后重新出现，也不是每次动作都整套衣服一起变化。\n\n每一次只改变指定的服装部位，其余部分保持不变。\n\n不要闪光爆炸，不要魔法粒子，不要烟雾遮挡，不要黑屏，不要镜头硬切。\n\n真实真人摄影风格，K-pop舞台质感，高级舞台灯光，真实衣料纹理，自然运动模糊，高清皮肤细节，动作流畅，节奏明确。\n\n禁止换脸，禁止五官漂移，禁止人物身份变化，禁止身材忽胖忽瘦，禁止多余手臂和腿，禁止手脚变形，禁止衣服融化，禁止服装穿模，禁止人物突然跳位，禁止背景随机变化。",
+      "en": "Use the female in the reference image as the fixed protagonist, strictly maintaining face shape, facial features, hairstyle, skin tone, and body proportions. Vertical 9:16, 10s. A young Asian woman stands at center stage performing a rhythmic K-pop dance. Full shot tracking, kept in center. Core effect: continuous dance with seamless partial outfit changes at peak motion moments (top, skirt, boots, accessories, full stage outfit) without pauses, cuts, or magic effects. Photorealistic K-pop stage aesthetic."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "image-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
