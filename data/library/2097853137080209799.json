@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T04:18:29.713Z",
+  "model": "unknown-image",
+  "prompt": "An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail.",
+  "promptTranslations": {
+    "en": "An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail."
+  },
+  "summaryTranslations": {
+    "en": "A futuristic city twisted and folded like origami, featuring curving skyscrapers, vibrant colors, and a sunset."
+  },
+  "translationVersion": 2,
+  "summary": "折纸般扭曲折叠的未来城市，包含弯曲大楼与鲜艳色彩及夕阳。",
+  "summaryEn": "A futuristic city folded like origami with twisting skyscrapers, vibrant neon colors, and a brilliant sunset.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097853137080209799",
+    "canonicalUrl": "https://x.com/CoopandKCmom/status/2097853137080209799",
+    "author": {
+      "username": "CoopandKCmom",
+      "displayName": "Liz Roberts",
+      "profileUrl": "https://x.com/CoopandKCmom"
+    },
+    "publishedAt": "2026-09-10T01:02:18.000Z",
+    "collectedAt": "2026-09-10T04:17:05.195Z",
+    "language": "en",
+    "originalText": "Prompt Share….Twist it your way!  Created with @SocialSight \n\nAn entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0STx_akAAVBtC.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0STx_akAAVBtC.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 20,
+      "replyCount": 3,
+      "quoteCount": 4,
+      "viewCount": 2335
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/CoopandKCmom/status/2097853137080209799",
+  "coverUrl": "https://pbs.twimg.com/media/HR0STx_akAAVBtC.jpg",
+  "coverPath": "images/2097853137080209799-1.jpg",
+  "imagePaths": [
+    "images/2097853137080209799-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR0STx_akAAVBtC",
+    "x-post:2097853137080209799"
+  ],
+  "analysis": {
+    "summary": "折纸般扭曲折叠的未来城市，包含弯曲大楼与鲜艳色彩及夕阳。",
+    "summaryEn": "A futuristic city folded like origami with twisting skyscrapers, vibrant neon colors, and a brilliant sunset.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面呈现了如折纸般立体弯曲扭转的摩天楼、穿插的立交桥、鲜明的多色调以及夕阳背景，与提示词描述完全契合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail.",
+    "sourceRange": {
+      "start": 62,
+      "end": 491
+    },
+    "translations": {
+      "zh": "一座如折纸般折叠的完整未来城市，摩天大楼向上弯曲并在其下方反向弯折，街道沿着墙壁垂直延伸，桥梁扭曲成环状，建筑以不可思议的角度从其他建筑中生长出来。电光洋红、青色、橙色、青柠绿、钴蓝和金属金，发光的窗户，反光表面，绚烂的日落，超现实主义建筑杰作，极致的深度与细节。",
+      "en": "An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "超现实未来城市概念艺术设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
