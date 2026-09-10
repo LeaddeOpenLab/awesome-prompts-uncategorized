@@ -418,7 +418,7 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2097904155801325715"></a>
 
-### Đang dịch
+### Cảnh quay cận cảnh mỹ nhân Đông Á tóc ngắn áo sơ mi trắng đi dạo trên phố suy tư cùng lời độc thoại nội tâm
 
 Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2097904155801325715)
 
@@ -426,14 +426,14 @@ Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com
 
 Bài gốc：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2097690833684410515)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh quay cận cảnh mỹ nhân Đông Á tóc ngắn áo sơ mi trắng đi dạo trên phố suy tư cùng lời độc thoại nội tâm
 
 <img src="covers/2097904155801325715.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Mỹ nhân Đông Á 20 tuổi với mái tóc ngắn ngang vai, làn da trắng tông lạnh, cô mặc áo sơ mi trắng và váy da màu đen, đang bước đi trên đường phố, cận cảnh nửa thân chính diện, khẩu độ lớn làm mờ hậu cảnh, máy quay từ từ tiến lại gần, cô vừa đi vừa trầm ngâm suy nghĩ, giọng độc thoại nội tâm lồng tiếng ngoài hình: "Hôm nay mình nên xin sếp nghỉ phép thế nào nhỉ?" Không có chữ, không có phụ đề, không có hình mờ
 ```
 
 [↑ Về danh mục](#catalog)

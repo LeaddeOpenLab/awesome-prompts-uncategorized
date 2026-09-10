@@ -406,7 +406,7 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2097904155801325715"></a>
 
-### Traduzione in corso
+### Primo piano e monologo interiore di una bellezza dell'Asia orientale con capelli corti e camicia bianca che cammina pensierosa per strada
 
 Autore：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2097904155801325715)
 
@@ -414,14 +414,14 @@ Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio u
 
 Post originale：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2097690833684410515)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Primo piano e monologo interiore di una bellezza dell'Asia orientale con capelli corti e camicia bianca che cammina pensierosa per strada
 
 <img src="covers/2097904155801325715.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una splendida giovane donna dell'Asia orientale di 20 anni con capelli corti fino alle spalle e carnagione chiara e fredda. Indossa una camicia bianca e una gonna di pelle nera, cammina per strada, primo piano frontale a mezzo busto, sfondo sfocato con ampia apertura, la telecamera si avvicina lentamente, cammina assorta nei suoi pensieri, con voce fuori campo di un monologo interiore: "Come dovrei chiedere le ferie al capo oggi?" Senza testo, senza sottotitoli, senza filigrane
 ```
 
 [↑ Torna alle categorie](#catalog)

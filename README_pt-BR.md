@@ -406,7 +406,7 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2097904155801325715"></a>
 
-### Tradução em andamento
+### Close-up e monólogo interior de uma bela mulher do leste asiático de cabelo curto e camisa branca caminhando pensativa pela rua
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2097904155801325715)
 
@@ -414,14 +414,14 @@ Cinematográfico / Imagem de Filme · Personagem · Paisagem Urbana / Rua · Pub
 
 Publicação original：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2097690833684410515)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Close-up e monólogo interior de uma bela mulher do leste asiático de cabelo curto e camisa branca caminhando pensativa pela rua
 
 <img src="covers/2097904155801325715.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Linda jovem mulher do leste asiático de 20 anos com cabelo curto até os ombros e pele clara em tom frio. Ela veste uma camisa branca e saia de couro preta, caminhando pela rua, close-up frontal de meio corpo, fundo desfocado com grande abertura, a câmera se aproxima lentamente enquanto ela caminha pensativa, com voz em off de monólogo interior: "Como devo pedir folga ao meu chefe hoje?" Sem texto, sem legendas, sem marca d'água
 ```
 
 [↑ Voltar às categorias](#catalog)

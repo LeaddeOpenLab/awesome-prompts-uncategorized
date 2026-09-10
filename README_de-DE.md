@@ -406,7 +406,7 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2097904155801325715"></a>
 
-### Übersetzung läuft
+### Nahaufnahme und innerer Monolog einer ostasiatischen Schönheit mit kurzen Haaren und weißem Hemd, die nachdenklich die Straße entlanggeht
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2097904155801325715)
 
@@ -414,14 +414,14 @@ Kinematisch / Filmstill · Charakter · Stadtbild / Straße · Veröffentlicht
 
 Originalbeitrag：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2097690833684410515)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Nahaufnahme und innerer Monolog einer ostasiatischen Schönheit mit kurzen Haaren und weißem Hemd, die nachdenklich die Straße entlanggeht
 
 <img src="covers/2097904155801325715.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine 20-jährige, wunderschöne junge ostasiatische Frau mit schulterlangem kurzem Haar und kühler, heller Haut. Sie trägt ein weißes Hemd und einen schwarzen Lederrock, geht die Straße entlang, frontale Nahaufnahme des Oberkörpers, unscharfer Hintergrund durch große Blendenöffnung, die Kamera fährt langsam näher heran, während sie nachdenklich dahingeht, mit einer Voice-Over-Stimme des inneren Monologs: „Wie soll ich heute meinen Chef um Urlaub bitten?“ Kein Text, keine Untertitel, kein Wasserzeichen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

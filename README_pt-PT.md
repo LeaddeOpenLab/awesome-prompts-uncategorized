@@ -406,7 +406,7 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2097904155801325715"></a>
 
-### Tradução em curso
+### Grande plano e monólogo interior de uma bela mulher do leste asiático de cabelo curto e camisa branca a caminhar pensativa pela rua
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2097904155801325715)
 
@@ -414,14 +414,14 @@ Cena de Cinema / Fotograma · Personagem · Paisagem urbana / Rua · Publicado
 
 Publicação original：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2097690833684410515)
 
-**Resumo:** Tradução em curso
+**Resumo:** Grande plano e monólogo interior de uma bela mulher do leste asiático de cabelo curto e camisa branca a caminhar pensativa pela rua
 
 <img src="covers/2097904155801325715.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Linda jovem mulher do leste asiático de 20 anos com cabelo curto até aos ombros e pele clara em tom frio. Ela veste uma camisa branca e saia de cabedal preta, a caminhar pela rua, grande plano frontal de meio corpo, fundo desfocado com grande abertura, a câmara aproxima-se lentamente enquanto ela caminha pensativa, com voz off de monólogo interior: «Como devo pedir dispensa ao meu chefe hoje?» Sem texto, sem legendas, sem marcas de água
 ```
 
 [↑ Voltar às categorias](#catalog)

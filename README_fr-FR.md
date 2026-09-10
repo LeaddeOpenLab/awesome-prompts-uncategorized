@@ -406,7 +406,7 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2097904155801325715"></a>
 
-### Traduction en cours
+### Gros plan et monologue intérieur d'une beauté est-asiatique aux cheveux courts en chemise blanche marchant pensivement dans la rue
 
 Auteur：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2097904155801325715)
 
@@ -414,14 +414,14 @@ Image cinématographique / Photogramme de film · Personnage · Paysage urbain /
 
 Publication originale：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2097690833684410515)
 
-**Résumé:** Traduction en cours
+**Résumé:** Gros plan et monologue intérieur d'une beauté est-asiatique aux cheveux courts en chemise blanche marchant pensivement dans la rue
 
 <img src="covers/2097904155801325715.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une belle jeune femme est-asiatique de 20 ans avec des cheveux courts tombant aux épaules et un teint de peau pâle et froid. Elle porte une chemise blanche et une jupe en cuir noir, marchant dans la rue, gros plan frontal sur le buste, arrière-plan flouté avec une grande ouverture, la caméra avançant lentement en travelling avant, elle marche l'air pensive, voix off d'un monologue intérieur : « Comment devrais-je demander un congé à mon patron aujourd'hui ? » Sans texte, sans sous-titres, sans filigrane
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -418,7 +418,7 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2097904155801325715"></a>
 
-### Traducción en curso
+### Primer plano y monólogo interior de una hermosa mujer de Asia oriental con pelo corto y camisa blanca caminando y reflexionando por la calle
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2097904155801325715)
 
@@ -426,14 +426,14 @@ Cine / Fotograma de película · Personaje · Paisaje urbano / Calle · Publicad
 
 Publicación original：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2097690833684410515)
 
-**Resumen:** Traducción en curso
+**Resumen:** Primer plano y monólogo interior de una hermosa mujer de Asia oriental con pelo corto y camisa blanca caminando y reflexionando por la calle
 
 <img src="covers/2097904155801325715.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Joven y hermosa mujer de Asia oriental de 20 años con cabello corto hasta los hombros y piel blanca de tono frío. Viste una camisa blanca y una falda de cuero negro, caminando por la calle, primer plano de medio cuerpo frontal, fondo desenfocado con gran apertura, la cámara avanza lentamente hacia ella mientras camina pensativa, con voz en off de un monólogo interior: «¿Cómo debería pedirle el día libre a mi jefe hoy?». Sin texto, sin subtítulos, sin marcas de agua
 ```
 
 [↑ Volver a categorías](#catalog)

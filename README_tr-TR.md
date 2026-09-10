@@ -406,7 +406,7 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2097904155801325715"></a>
 
-### Çeviri sürüyor
+### Sokakta yürürken düşünen kısa saçlı, beyaz gömlekli Doğu Asyalı güzelin yakın çekimi ve iç monoloğu
 
 Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2097904155801325715)
 
@@ -414,14 +414,14 @@ Sinematik / Film Karesi · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
 Orijinal gönderi：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2097690833684410515)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sokakta yürürken düşünen kısa saçlı, beyaz gömlekli Doğu Asyalı güzelin yakın çekimi ve iç monoloğu
 
 <img src="covers/2097904155801325715.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Omuz hizasında kısa saçlı ve soğuk beyaz tenli, 20 yaşında Doğu Asyalı genç ve güzel bir kadın. Beyaz bir gömlek ve siyah deri etek giymiş, sokakta yürüyor, önden yarım boy yakın çekim, geniş diyafram açıklığıyla bulanıklaştırılmış arka plan, kamera yavaşça yaklaşıyor, düşünceli bir şekilde yürürken dış ses iç monoloğu: "Bugün patronumdan nasıl izin istemeliyim?" Metin yok, altyazı yok, filigran yok
 ```
 
 [↑ Kategorilere dön](#catalog)
