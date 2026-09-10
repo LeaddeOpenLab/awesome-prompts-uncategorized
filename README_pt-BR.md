@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**20** Prompts · Última adição: **2026-09-10**
+**21** Prompts · Última adição: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -546,6 +546,32 @@ Fotografia · Retrô / Vintage · Retrato / Selfie · Item de Moda · Publicado
 
 ```text
 Como eu teria parecido nos anos 1980? Use a foto anexada como referência. Preserve meus traços faciais exatos, sorriso, tom de pele, formato dos olhos e identidade geral. Mude meu estilo como se eu vivesse em 1985, com tendências autênticas de moda e beleza dos anos 1980: cabelo desfiado e volumoso, maquiagem marcante nos olhos, blush rosado, batom fosco, brincos de argola grandes, jaqueta jeans acid-wash, uma blusa neon vibrante, jeans de cintura alta e acessórios clássicos dos anos 1980. Coloque-me em um cenário realista dos anos 1980 com pôsteres retrô, um tocador de fita cassete, discos de vinil e iluminação quente no estilo filme. Faça com que pareça uma fotografia autêntica de alta qualidade em 35 mm de meados dos anos 1980, com granulado sutil de filme e tons de cores vintage. A imagem deve ser fotorrealista e manter uma forte semelhança comigo — não uma pessoa genérica dos anos 1980.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## Minimalismo
+
+<a name="prompt-2097872057157783561"></a>
+
+### Tradução em andamento
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2097872057157783561)
+
+Fotografia · Minimalismo · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2097872057157783561-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
 ```
 
 [↑ Voltar às categorias](#catalog)

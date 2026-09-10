@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**20** 개 · 최근 추가: **2026-09-10**
+**21** 개 · 최근 추가: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -552,6 +552,32 @@ CGI 털,
 
 ```text
 1980년대의 저는 어떤 모습이었을까요? 첨부된 사진을 참고 자료로 사용해 주세요. 제 이목구비, 미소, 피부 톤, 눈 모양 및 전반적인 정체성을 그대로 유지해 주세요. 마치 1985년에 살고 있는 것처럼 정통 1980년대 패션과 뷰티 트렌드로 저를 다시 스타일링해 주세요: 풍성한 티징 헤어(부풀린 머리), 과감한 아이 메이크업, 장미빛 블러셔, 매트 립스틱, 커다란 링 귀걸이, 애시드 워싱 데님 재킷, 화려한 네온 탑, 하이웨이스트 청바지, 클래식한 1980년대 액세서리. 레트로 포스터, 카세트 플레이어, 바이닐 레코드, 따뜻한 필름 스타일 조명이 있는 사실적인 1980년대 배경에 저를 배치해 주세요. 미세한 필름 입자와 빈티지한 색감을 갖춘 1980년대 중반의 실제 고품질 35mm 사진처럼 보이게 해 주세요. 이미지는 사실적이어야 하며, 평범하고 일반적인 1980년대 사람이 아닌 저와 매우 흡사해야 합니다.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## 미니멀리즘
+
+<a name="prompt-2097872057157783561"></a>
+
+### 번역 중
+
+작성자：[@DDJCXX](https://x.com/DDJCXX) · [원본 게시물](https://x.com/DDJCXX/status/2097872057157783561)
+
+사진술 · 미니멀리즘 · 캐릭터 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097872057157783561-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

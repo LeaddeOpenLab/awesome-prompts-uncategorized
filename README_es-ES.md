@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**20** Prompts · Última incorporación: **2026-09-10**
+**21** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Render 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Render 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -558,6 +558,32 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 
 ```text
 ¿Cómo me habría visto en la década de 1980? Utiliza la foto adjunta como referencia. Conserva exactamente mis rasgos faciales, sonrisa, tono de piel, forma de los ojos e identidad general. Modifica mi estilo como si viviera en 1985 con la moda y las tendencias de belleza auténticas de los años 80: cabello cardado y voluminoso, maquillaje de ojos llamativo, rubor rosado, lápiz labial mate, aretes de aro grandes, una chaqueta de mezclilla con lavado ácido, una blusa de neón vibrante, jeans de tiro alto y accesorios clásicos de los años 80. Sitúame en un entorno realista de los años 80 con pósteres retro, un reproductor de casetes, discos de vinilo e iluminación cálida de estilo cinematográfico. Haz que parezca una fotografía genuina de 35 mm de alta calidad de mediados de los años 80, con grano de película sutil y tonos de color vintage. La imagen debe ser fotorrealista y mantener un gran parecido conmigo, no con una persona genérica de los años 80.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## Minimalismo
+
+<a name="prompt-2097872057157783561"></a>
+
+### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2097872057157783561)
+
+Fotografía · Minimalismo · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097872057157783561-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**20** Prompts · Dernier ajout: **2026-09-10**
+**21** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Rendu 3D](#category-3d-render) · [Rétro / Vintage](#category-retro-vintage) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Rendu 3D](#category-3d-render) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -546,6 +546,32 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 
 ```text
 À quoi aurais-je ressemblé dans les années 1980 ? Utilise la photo ci-jointe comme référence. Préserve fidèlement les traits de mon visage, mon sourire, mon teint, la forme de mes yeux et mon identité globale. Relooke-moi comme si je vivais en 1985 avec les tendances de mode et de beauté authentiques des années 1980 : cheveux crêpés et volumineux, maquillage des yeux audacieux, fard à joues rosé, rouge à lèvres mat, grandes boucles d'oreilles créoles, veste en jean délavé à l'acide, haut néon éclatant, jean taille haute et accessoires classiques des années 1980. Place-moi dans un décor réaliste des années 1980 avec des affiches rétro, un lecteur de cassettes, des disques vinyles et un éclairage chaleureux de style argentique. Fais en sorte que cela ressemble à une véritable photographie 35 mm de haute qualité du milieu des années 1980, avec un grain de film subtil et des tons de couleur vintage. L'image doit être photoréaliste et conserver une forte ressemblance avec moi, sans être une personne générique des années 1980.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## Minimalisme
+
+<a name="prompt-2097872057157783561"></a>
+
+### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2097872057157783561)
+
+Photographie · Minimalisme · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097872057157783561-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

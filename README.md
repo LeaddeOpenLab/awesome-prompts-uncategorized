@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**20** Prompts · Latest addition: **2026-09-10**
+**21** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -536,6 +536,70 @@ Photography · Retro / Vintage · Portrait / Selfie · Fashion Item · Published
 
 ```text
 What would I have looked like in the 1980s? Use the attached photo as the reference. Preserve my exact facial features, smile, skin tone, eye shape, and overall identity. Restyle me as if I were living in 1985 with authentic 1980s fashion and beauty trends: voluminous teased hair, bold eye makeup, rosy blush, matte lipstick, large hoop earrings, an acid-wash denim jacket, a vibrant neon top, high-waisted jeans, and classic 1980s accessories. Place me in a realistic 1980s setting with retro posters, a cassette player, vinyl records, and warm film-style lighting. Make it look like a genuine high-quality 35mm photograph from the mid-1980s with subtle film grain and vintage color tones. The image should be photorealistic and maintain a strong resemblance to me—not a generic 1980s person.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-minimalism"></a>
+
+## Minimalism
+
+<a name="prompt-2097872057157783561"></a>
+
+### A prompt for a Japanese uniform-style young woman photoshoot shot from a low angle in a minimalist stairwell, emphasizing the foreshortened pose of a lifted foot with the shoe removed and the textures of the apparel.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2097872057157783561)
+
+Photography · Minimalism · Character · Fashion Item · Published
+
+**Summary:** A prompt for a Japanese uniform-style young woman photoshoot shot from a low angle in a minimalist stairwell, emphasizing the foreshortened pose of a lifted foot with the shoe removed and the textures of the apparel.
+
+<img src="images/2097872057157783561-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic indoor staircase low-angle fashion snapshot photography, vertical aspect ratio approximately 3:4, a young adult East Asian female, unmistakably an adult, standing on the steps of a minimalist off-white and grey staircase, her back leaning against the white wall on the right. The photographer is positioned below the stairs, shooting from a distinct low-angle upward perspective diagonally in front of and beneath the subject. The overall aesthetic presents a Japanese uniform-style fashion photoshoot combined with a casual snapshot in an ordinary building staircase and an intimate smartphone wide-angle feel; no studio shoot, no luxurious setting.
+
+Shot with an equivalent 28–35mm lens, the photographer is approximately 1.5–2 meters away from the subject, camera positioned lower than the subject's knees, lens tilted distinctly upward. The subject is positioned center-right in the frame, fully captured from head to feet; grey stairs ascend from the lower left to behind the subject, with the white wall on the right occupying a large area of the background, creating a strong diagonal perspective. Due to the low angle and closer proximity, the subject's legs are visually more prominent than the upper body, but without fisheye distortion.
+
+The subject is a young adult East Asian woman with a medium build, moderately narrow shoulders, a short and naturally nipped waist, naturally wider hips, noticeably full and thick thighs, and knees and calves that taper gradually. The overall silhouette is a compact, natural mild pear/hourglass ratio: narrow shoulders + short waist + naturally wide hips + full thighs. No towering stick-thin figure, no extreme exaggerated hips, no bodybuilder muscular legs.
+
+The subject stands in a three-quarters back-turned stance, her back and right shoulder lightly leaning against the white wall, upper body slightly turned back toward the camera to her left. Shoulders are slightly raised in a gentle hunch/shrug. Head turned to the left, eyes looking down at the camera from above, chin slightly raised, with a calm, aloof, slightly impatient or detached facial expression, not smiling.
+
+The right hand hangs naturally along the outer side of the subject's right thigh, palm near the bottom hem of the skirt, fingers naturally relaxed; the other hand is partially obscured by the body and the wall, with no complex gesture.
+
+The leg poses must be strictly locked: one leg serves as the supporting leg planted on a lower step, essentially straight; the other leg is deeply bent backward from the knee and lifted, the calf folded back and upward, with the sole of the foot facing the camera. The lifted foot is closer to the camera, creating a distinct foreshortening perspective of near-large and far-small, with clear contours of the sole.
+
+The subject wears pure white over-the-knee socks / thigh-high stockings, with the top cuffs resting on the upper-middle thigh, not far from the hem of the skirt. The socks are semi-sheer yet essentially opaque white nylon/fine knit material, with an extremely smooth surface and only microscopic fiber texture; not thick cotton athletic socks, nor noticeably ribbed socks. The white sock on the supporting leg extends completely to the foot; the sock on the lifted leg likewise fully encloses the foot and toes. The sole area appears light cream-white due to its proximity to the lens, showing subtle fabric texture stretched flat by the tension of the foot's sole along with the contours of the toes.
+
+Wears a pair of glossy black low-heeled loafers / student-style leather shoes on her feet. The supporting foot wears one of the black loafers; the other shoe has been taken off and rests on a stair step near the subject's feet. The lifted foot wears only the white thigh-high sock without a shoe, with the sole fully facing the camera. The other empty black shoe from the pair can be seen sitting on the step, opening facing up, black patent leather with subtle sheen. Do not generate shoes on both feet.
+
+On top, wears a cream-white/ivory short-sleeved sailor-collar uniform-style top, clearly adult fashion/uniform-inspired styling. Form-fitting cut, hem reaching near the natural waist, with a light grey-blue sailor collar and fine pinstripe detailing on the chest. The cuffs feature dual grey-blue pinstripe piping, and short sleeves gently hug the upper arms. The top fabric is soft uniform cloth or dense fine knit, completely non-sheer.
+
+The neckline structure is a shallow V/sailor collar, with an optional light grey-blue scarf tie/thin ribbon at the chest, but without an exaggerated bow. The garment forms gentle natural creases around the chest and waist, with an overall warm white hue rather than pure cold white.
+
+On the bottom, wears a medium-grey short pleated miniskirt, sitting at the natural waistline, with medium-width, crisply defined pleats made of grey uniform suiting fabric. Due to the body leaning against the wall and the leg motion, the skirt hem is slightly raised and turned outward on the subject's right side, creating a natural asymmetrical layering; the left side of the skirt hangs relatively flat. Maintain normal, full garment coverage, do not generate transparent skirts or exaggerated wardrobe malfunctions.
+
+The subject has deep black extra-long wavy hair reaching near the waist, thick and voluminous. Across the forehead are relatively thick, textured straight bangs falling near the upper lash line, partially obscuring the eyebrows. Strands frame the sides along the shoulders and chest, while the long hair at the back rests against the white wall in natural loose waves. No short hair, high ponytails, or updos.
+
+Small, slightly oval face with a soft jawline and natural warm-fair skin tone. Deep brown almond-shaped eyes with subtle yet defined eye makeup: slender eyeliner winged slightly upward, soft brownish-red smudging around the eye contour; naturally thin eyebrows. Neat small nose bridge, lips in a low-saturation nude brownish-red / bean paste shade, naturally closed. The makeup carries a retro Japanese editorial fashion vibe, avoid heavy Western-style glam.
+
+The setting is a minimalist indoor fire stairwell / industrial staircase. On the right is a full wall of slightly textured, warm-white concrete/stucco, showing minute coating textures, localized patch marks, and uneven reflections.
+
+To the left and behind the subject are dark grey metal or painted concrete stairs, steps in cool grey and graphite tones with fine anti-slip grooves along the edges and slight wear. The staircase extends from the lower left to the upper left of the frame, generating deep perspective.
+
+A grey metal handrail is mounted on the right wall, extending diagonally from the lower right behind the subject; another handrail segment extends toward the upper flight of stairs above and behind her. The handrails are matte grey metal with a square or rectangular cross-section and a clean, utilitarian design.
+
+A small section of grey metal railing / glass balustrade framing may appear at the left edge of the frame, without distracting from the main subject.
+
+Lighting consists of overhead cool white LED/fluorescent lighting from the stairwell ceiling plus a modest amount of ambient diffused light. The subject's face, white uniform, and white socks are evenly illuminated, while the grey skirt and stairs form low-saturation neutral grey gradations. The wall is overall warm white, with soft yet distinct shadows.
+
+Do not use harsh direct flash. Natural shadows fall along the right side of the subject's body and beneath the skirt hem, while the sole of the raised white-socked foot appears slightly brighter due to its proximity to the lens. Overall natural exposure, resembling a direct smartphone snapshot taken in a stairwell.
+
+The overall visual exhibits the quality of a high-end smartphone/mirrorless camera candid fashion snapshot: natural digital sharpness, subtle JPEG compression artifacts, authentic skin texture, and a largely sharp background without aggressive depth-of-field blur. Color palette dominated by warm white walls + cool grey stairs + ivory sailor top + medium grey pleated skirt + pure white over-the-knee socks + black loafers + deep black long hair; clean, restrained, with an underground fashion editorial vibe.
 ```
 
 [↑ Back to categories](#catalog)
