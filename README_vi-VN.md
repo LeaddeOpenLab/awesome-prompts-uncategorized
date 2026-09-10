@@ -416,13 +416,13 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2097883008233865405"></a>
 
-### Đang dịch
+### Chân dung thời trang điện ảnh siêu thực của một chàng trai trẻ đang ngả người thư giãn trên băng ghế trước của một chiếc xe cổ màu xanh ô liu, được chụp từ góc thấp, góc rộng.
 
 Tác giả：[@CliQi\_AI](https://x.com/CliQi_AI) · [Bài gốc](https://x.com/CliQi_AI/status/2097883008233865405)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung thời trang điện ảnh siêu thực của một chàng trai trẻ đang ngả người thư giãn trên băng ghế trước của một chiếc xe cổ màu xanh ô liu, được chụp từ góc thấp, góc rộng.
 
 <img src="images/2097883008233865405-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -431,7 +431,29 @@ Tác giả：[@CliQi\_AI](https://x.com/CliQi_AI) · [Bài gốc](https://x.com/
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung thời trang điện ảnh siêu thực của một chàng trai trẻ đang ngả người thư giãn trên băng ghế trước của một chiếc xe cổ màu xanh ô liu, được chụp từ góc nhìn rộng, góc thấp từ chỗ để chân phía hành khách. Hình ảnh phải mang lại cảm giác nam tính, thư thái, hơi nổi loạn và hoài cổ—giống như một bài phóng sự thời trang về chuyến đi đường dài những năm 1970 được diễn giải lại qua lăng kính thời trang hiện đại.
+
+Anh ấy có mái tóc ngắn đến trung bình màu nâu sẫm được tạo kiểu xoăn tự nhiên buông lơi, hơi rối nhẹ và vương chút nắng. Đôi lông mày rậm, xương gò má rõ nét, gương mặt cạo sạch râu và biểu cảm điềm tĩnh, cuốn hút. Ánh mắt anh nhìn thẳng vào máy ảnh với vẻ hơi mệt mỏi nhưng đầy tự tin.
+
+Cơ thể: vóc dáng thể thao săn chắc, thon gọn với cơ ngực, cơ bụng, vai và cánh tay lộ rõ tự nhiên. Tỷ lệ thực tế, kết cấu da tinh tế, lông tơ mờ trên cơ thể và làn da ấm áp rám nắng. Thể hình mang lại cảm giác cân đối, khỏe khoắn tự nhiên thay vì cơ bắp cuồn cuộn như vận động viên thể hình.
+
+Trang phục: một chiếc áo sơ mi cài khuy mỏng nhẹ màu xanh navy đậm hoặc gần như đen được mở toang hoàn toàn phía trước, để lộ ngực và bụng trần. Chiếc áo sơ mi có tay ngắn hoặc xắn hờ hững cùng chất vải hơi nhăn, tạo cảm giác mùa hè mộc mạc, gần gũi.
+
+Kết hợp với quần jean màu xanh chàm đậm dáng thoải mái, hơi loe nhẹ hoặc ống suông thẳng, cạp trễ kiểu cổ điển với kết cấu bạc màu tinh tế. Anh ấy đi chân trần, củng cố thêm bầu không khí phóng khoáng của chuyến đi đường dài.
+
+Tư thế: ngả người thoải mái trên băng ghế trước rộng rãi của chiếc xe cổ. Hai chân dang rộng tự nhiên về phía máy ảnh, một bàn chân trần vươn tới rất gần ống kính ở tiền cảnh phía dưới, tạo ra hiệu ứng biến dạng phối cảnh đầy kịch tính. Một cánh tay vươn về phía vô lăng, cổ tay buông lỏng trên đó, trong khi cánh tay kia đặt ngang qua thành ghế băng. Thân trên hơi ngả về phía sau, vai mở rộng, tư thế hoàn toàn thư thái.
+
+Nội thất xe: khoang lái xe hơi cổ điển đích thực với tông màu xanh bơ hoặc xanh xô thơm trầm, bao gồm vô lăng lớn vành mỏng, bảng điều khiển kim đồng hồ analog cũ, ghế băng bọc vinyl màu xanh lá cây, ốp cửa đồng bộ, trần xe nhuốm màu thời gian, các chi tiết mạ chrome, tay nắm cửa cơ học và lớp đệm bọc hơi sờn rách. Chiếc xe phải mang lại cảm giác cổ xưa và có tì vết chân thực chứ không phải được phục chế bóng bẩy như trong phòng trưng bày.
+
+Môi trường: đỗ ở một vùng nông thôn hoặc bán nhiệt đới, với những tán cây rậm rạp, thân cây màu nhạt và ánh sáng ban ngày khuếch tán rực rỡ nhìn thấy qua các ô cửa sổ. Cảnh quan bên ngoài chỉ là yếu tố phụ và hiện lên mờ ảo qua lớp kính hơi bám bụi.
+
+Ánh sáng: ánh sáng ban ngày tự nhiên ấm áp chiếu qua kính chắn gió và cửa sổ bên, làm sáng khuôn mặt, ngực và cánh tay trong khi để lại các phần của nội thất trong bóng râm màu xanh dịu nhẹ. Thêm các hình phản chiếu tinh tế trên cửa sổ và bảng điều khiển. Không có ánh sáng studio gắt gỏng.
+
+Nhiếp ảnh: phong cách nhiếp ảnh thời trang cổ điển thân mật, ống kính góc rộng 24–28mm, máy ảnh đặt rất thấp và gần sàn hoặc ghế phía hành khách, phối cảnh tiền cảnh mạnh mẽ, ống kính hơi méo nhẹ, hạt nhiễu analog tinh tế, kết cấu da tự nhiên, ám sắc xanh lá ấm áp, độ mềm mại nhẹ nhàng, đậm chất điện ảnh nhưng mộc mạc, chân thực như ảnh chụp, độ phân giải cao.
+
+Bố cục: khung hình dọc tỷ lệ 3:4, chàng trai nằm ở vị trí trung tâm trên băng ghế, vô lăng chiếm tiền cảnh phía trên bên trái, một bàn chân trần to lớn và mất nét ở gần mép dưới bên phải, các đường nét của băng ghế xanh dẫn hướng về phía thân người, kính chắn gió và cửa sổ đóng khung hậu cảnh.
+
+Negative prompt: modern luxury car, sports car interior, clean white leather, formal clothing, shirt fully buttoned, sneakers, sunglasses, exaggerated bodybuilding physique, dramatic flexing, bright studio backdrop, neon lighting, harsh flash, plastic skin, distorted hands, extra fingers, malformed feet, duplicated limbs, warped steering wheel, cartoon, anime, illustration, CGI.
 ```
 
 [↑ Về danh mục](#catalog)

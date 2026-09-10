@@ -404,13 +404,13 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2097883008233865405"></a>
 
-### Tradução em curso
+### Retrato de moda cinematográfico ultrarrealista de um jovem adulto a relaxar no banco dianteiro de um carro vintage verde-azeitona, capturado a partir de um ângulo baixo e de grande angular.
 
 Autor：[@CliQi\_AI](https://x.com/CliQi_AI) · [Publicação original](https://x.com/CliQi_AI/status/2097883008233865405)
 
 Cena de Cinema / Fotograma · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda · Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de moda cinematográfico ultrarrealista de um jovem adulto a relaxar no banco dianteiro de um carro vintage verde-azeitona, capturado a partir de um ângulo baixo e de grande angular.
 
 <img src="images/2097883008233865405-1.jpg" alt="Imagem 1" width="480" />
 
@@ -419,7 +419,29 @@ Cena de Cinema / Fotograma · Retrô / Vintage · Retrato / Selfie · Personagem
 **Prompt**
 
 ```text
-Tradução em curso
+Retrato de moda cinematográfico ultrarrealista de um jovem adulto a relaxar no banco dianteiro de um carro vintage verde-azeitona, fotografado a partir de uma perspetiva de grande angular baixa a partir da zona dos pés do lado do passageiro. A imagem deve transmitir uma sensação masculina, descontraída, ligeiramente rebelde e nostálgica — como um editorial de viagem de carro dos anos 1970 reinterpretado sob uma perspetiva de moda moderna.
+
+Ele tem cabelo castanho-escuro de comprimento curto a médio com caracóis naturais soltos, ligeiramente desgrenhado e desalinhado pelo sol. Sobrancelhas marcadas, maçãs do rosto definidas, rosto escanhoado e uma expressão calma e intensa. O seu olhar está voltado diretamente para a câmara, com um aspeto ligeiramente cansado e seguro de si.
+
+Corpo: compleição física atlética e esguia com peito, abdómen, ombros e braços naturalmente definidos. Proporções realistas, textura de pele subtil, pelos corporais ténues e uma tez quente beijada pelo sol. O físico deve parecer em forma e natural, em vez de volumoso como o de um culturista.
+
+Vestuário: uma camisa de botões leve azul-escura ou quase preta usada totalmente aberta à frente, expondo o peito e o abdómen nus. A camisa tem mangas curtas ou casualmente arregaçadas e tecido ligeiramente amarrotado, conferindo uma sensação estival de peça já usada.
+
+Combinada com calças de ganga azul-índigo escuras e descontraídas, ligeiramente à boca-de-sino ou retas nas pernas, com corte vintage de cintura descida e textura subtilmente desbotada. Ele está descalço, reforçando o ambiente informal de viagem de carro.
+
+Pose: refastelado casualmente no amplo banco corrido dianteiro do carro vintage. As suas pernas estão naturalmente afastadas em direção à câmara, com um pé descalço a estender-se muito perto da objetiva no primeiro plano inferior, criando uma distorção dramática de perspetiva. Um braço estende-se em direção ao volante, com o pulso pousado frouxamente sobre ele, enquanto o outro braço repousa no topo das costas do banco. Tronco ligeiramente reclinado para trás, ombros abertos, postura completamente relaxada.
+
+Interior do veículo: habitáculo autêntico de carro vintage em verde-abacate ou salva esbatido, incluindo um volante grande de aro fino, painel analógico antigo, bancos corridos em vinil verde, painéis de portas a condizer, forro de tejadilho envelhecido, pormenores cromados, manivelas manuais e estofos ligeiramente gastos. O carro deve parecer genuinamente antigo e imperfeito, em vez de restaurado em estado de exposição.
+
+Ambiente: estacionado num local rural ou semitropical, com árvores frondosas, troncos claros e luz natural brilhante e difusa visível através dos vidros. A paisagem exterior deve permanecer secundária e suavemente visível através do vidro ligeiramente empoeirado.
+
+Iluminação: luz do dia natural e quente a entrar pelo para-brisas e pelas janelas laterais, iluminando o rosto, o peito e os braços, deixando partes do interior numa suave sombra de tom esverdeado. Adicionar reflexos subtis nas janelas e no painel. Sem iluminação rígida de estúdio.
+
+Fotografia: fotografia de moda vintage intimista, objetiva grande angular de 24–28mm, câmara colocada muito em baixo e perto do assento ou do chão do lado do passageiro, forte perspetiva de primeiro plano, ligeira distorção de lente, grão analógico subtil, textura de pele natural, tonalidade verde-quente, suavidade ligeira, cinematográfica mas não polida, fotorrealista, alta resolução.
+
+Composição: enquadramento vertical 3:4, homem centrado ao longo do banco corrido, volante a ocupar o primeiro plano superior esquerdo, um pé descalço grande e desfocado junto ao canto inferior direito, linhas dos bancos verdes a guiar o olhar em direção ao seu tronco, para-brisas e janelas a emoldurar o fundo.
+
+Prompt negativo: modern luxury car, sports car interior, clean white leather, formal clothing, shirt fully buttoned, sneakers, sunglasses, exaggerated bodybuilding physique, dramatic flexing, bright studio backdrop, neon lighting, harsh flash, plastic skin, distorted hands, extra fingers, malformed feet, duplicated limbs, warped steering wheel, cartoon, anime, illustration, CGI.
 ```
 
 [↑ Voltar às categorias](#catalog)

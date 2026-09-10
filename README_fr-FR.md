@@ -404,13 +404,13 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2097883008233865405"></a>
 
-### Traduction en cours
+### Portrait de mode cinématographique et ultra-réaliste d'un jeune homme adulte prélassé sur la banquette avant d'une voiture vintage vert olive, capturé sous un angle en contre-plongée et grand-angle.
 
 Auteur：[@CliQi\_AI](https://x.com/CliQi_AI) · [Publication originale](https://x.com/CliQi_AI/status/2097883008233865405)
 
 Image cinématographique / Photogramme de film · Rétro / Vintage · Portrait / Selfie · Personnage · Article de mode · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de mode cinématographique et ultra-réaliste d'un jeune homme adulte prélassé sur la banquette avant d'une voiture vintage vert olive, capturé sous un angle en contre-plongée et grand-angle.
 
 <img src="images/2097883008233865405-1.jpg" alt="Image 1" width="480" />
 
@@ -419,7 +419,29 @@ Image cinématographique / Photogramme de film · Rétro / Vintage · Portrait /
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait de mode cinématographique et ultra-réaliste d'un jeune homme adulte prélassé sur la banquette avant d'une voiture vintage vert olive, photographié selon une perspective en contre-plongée et grand-angle depuis le plancher côté passager. L'image doit évoquer la masculinité, la détente, une légère rébellion et la nostalgie — comme un éditorial de road-trip des années 1970 réinterprété à travers l'objectif de la mode contemporaine.
+
+Il a des cheveux châtain foncé de longueur courte à moyenne, coiffés en boucles naturelles et lâches, légèrement ébouriffés et décoiffés par le soleil. Des sourcils marqués, des pommettes définies, un visage rasé de près et une expression calme et intense. Son regard est dirigé droit vers l'objectif avec un air légèrement fatigué et sûr de lui.
+
+Corps : silhouette athlétique et élancée avec torse, abdomen, épaules et bras naturellement définis. Proportions réalistes, grain de peau subtil, léger duvet corporel et teint chaud hâlé par le soleil. La musculature doit paraître tonique et naturelle plutôt que sculptée comme celle d'un bodybuilder.
+
+Tenue : une chemise boutonnée légère bleu marine foncé ou presque noire, portée entièrement ouverte sur le devant, exposant le torse et l'abdomen nus. La chemise a des manches courtes ou nonchalamment retroussées et un tissu légèrement froissé, lui donnant une allure estivale vécue.
+
+Associe-la à un jean décontracté bleu indigo foncé, légèrement évasé ou droit le long des jambes, avec une coupe vintage taille basse et une texture subtilement délavée. Il est pieds nus, renforçant l'atmosphère décontractée du road-trip.
+
+Pose : affalé avec nonchalance sur la large banquette avant de la voiture classique. Ses jambes sont naturellement écartées en direction de l'appareil photo, avec un pied nu s'étendant très près de l'objectif au premier plan inférieur, créant une distorsion de perspective spectaculaire. Un bras s'étend vers le volant, le poignet pendant mollement dessus, tandis que l'autre bras repose sur le haut de la banquette. Torse légèrement incliné vers l'arrière, épaules ouvertes, posture complètement relâchée.
+
+Intérieur du véhicule : habitacle authentique de voiture rétro dans des tons doux vert avocat ou sauge, comprenant un grand volant à jante fine, un vieux tableau de bord analogique, des banquettes en vinyle vert, des panneaux de porte assortis, un ciel de toit vieilli, des détails chromés, des poignées manuelles et une sellerie légèrement usée. La voiture doit paraître véritablement ancienne et imparfaite plutôt que restaurée dans un état neuf d'exposition.
+
+Environnement : garé dans un endroit rural ou semi-tropical, avec des arbres feuillus, des troncs clairs et une lumière du jour vive et diffuse visible à travers les vitres. Le paysage extérieur doit rester secondaire et doucement visible à travers le verre légèrement poussiéreux.
+
+Éclairage : lumière du jour naturelle et chaude entrant par le pare-brise et les vitres latérales, illuminant le visage, le torse et les bras tout en laissant des parties de l'intérieur dans une ombre douce teintée de vert. Ajoutez de subtils reflets sur les vitres et le tableau de bord. Aucun éclairage de studio agressif.
+
+Photographie : photographie de mode vintage intime, objectif grand-angle 24–28 mm, appareil photo placé très bas et près du siège ou du sol côté passager, forte perspective de premier plan, légère distorsion optique, grain argentique subtil, texture naturelle de la peau, dominante de couleur vert chaud, légère douceur, cinématographique mais brut, photoréaliste, haute résolution.
+
+Composition : cadrage vertical 3:4, homme centré sur la banquette, le volant occupant le premier plan supérieur gauche, un grand pied nu flou près du bord inférieur droit, les lignes des sièges verts guidant vers son torse, le pare-brise et les vitres encadrant l'arrière-plan.
+
+Prompt négatif : voiture de luxe moderne, intérieur de voiture de sport, cuir blanc impeccable, vêtements formels, chemise entièrement boutonnée, baskets, lunettes de soleil, musculature exagérée de culturiste, contraction musculaire dramatique, fond de studio lumineux, éclairage au néon, flash agressif, peau plastique, mains déformées, doigts supplémentaires, pieds malformés, membres dupliqués, volant voilé, dessin animé, anime, illustration, CGI.
 ```
 
 [↑ Retour aux catégories](#catalog)

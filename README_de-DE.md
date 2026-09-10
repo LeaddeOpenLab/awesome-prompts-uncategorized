@@ -404,13 +404,13 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2097883008233865405"></a>
 
-### Übersetzung läuft
+### Ultra-realistisches, filmisches Modeporträt eines jungen erwachsenen Mannes, der auf dem Vordersitz eines olivgrünen Oldtimers lümmelt, aufgenommen aus einem tiefen Weitwinkel.
 
 Autor：[@CliQi\_AI](https://x.com/CliQi_AI) · [Originalbeitrag](https://x.com/CliQi_AI/status/2097883008233865405)
 
 Kinematisch / Filmstill · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultra-realistisches, filmisches Modeporträt eines jungen erwachsenen Mannes, der auf dem Vordersitz eines olivgrünen Oldtimers lümmelt, aufgenommen aus einem tiefen Weitwinkel.
 
 <img src="images/2097883008233865405-1.jpg" alt="Bild 1" width="480" />
 
@@ -419,7 +419,29 @@ Kinematisch / Filmstill · Retro / Vintage · Porträt / Selfie · Charakter · 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultra-realistisches, filmisches Modeporträt eines jungen erwachsenen Mannes, der auf dem Vordersitz eines olivgrünen Oldtimers lümmelt, fotografiert aus einer tiefen Weitwinkelperspektive aus dem Fußraum der Beifahrerseite. Das Bild sollte maskulin, entspannt, leicht rebellisch und nostalgisch wirken – wie ein Roadtrip-Editorial der 1970er-Jahre, neu interpretiert durch eine moderne Modelinse.
+
+Er hat kurzes bis mittellanges dunkelbraunes Haar, das in lockeren, natürlichen Locken gestylt ist, leicht unordentlich und sonnenverweht. Kräftige Brauen, definierte Wangenknochen, ein glattrasiertes Gesicht und ein ruhiger, intensiver Ausdruck. Sein Blick ist direkt in die Kamera gerichtet, mit einem leicht müden, selbstsicheren Aussehen.
+
+Körper: schlanker, athletischer Körperbau mit natürlich definierter Brust, Bauch, Schultern und Armen. Realistische Proportionen, subtile Hauttextur, feine Körperbehaarung und ein warmer, sonnengeküsster Teint. Der Körperbau sollte fit und mühelos wirken, keineswegs wie der eines Bodybuilders.
+
+Outfit: ein dunkelmarineblaues oder fast schwarzes, leichtes Button-down-Hemd, das vorne komplett offen getragen wird und die nackte Brust und den Bauch entblößt. Das Hemd hat kurze oder lässig hochgekrempelte Ärmel und einen leicht zerknitterten Stoff, was ihm ein eingetragenes Sommer-Gefühl verleiht.
+
+Dazu eine entspannte dunkelindigoblaue Jeans, an den Beinen leicht ausgestellt oder gerade geschnitten, mit einem tief sitzenden Vintage-Schnitt und einer dezent verwaschenen Textur. Er ist barfuß, was die ungezwungene Roadtrip-Atmosphäre unterstreicht.
+
+Pose: lässig über die breite vordere Sitzbank des Oldtimers ausgestreckt. Seine Beine sind natürlich in Richtung Kamera gespreizt, wobei ein nackter Fuß im unteren Vordergrund sehr nah an das Objektiv heranreicht, was eine dramatische Perspektivverzerrung erzeugt. Ein Arm streckt sich zum Lenkrad, das Handgelenk hängt locker darüber, während der andere Arm auf der Oberseite der Sitzbank ruht. Der Oberkörper ist leicht nach hinten gelehnt, die Schultern geöffnet, die Haltung vollkommen entspannt.
+
+Fahrzeuginnenraum: authentischer Vintage-Autoinnenraum in gedecktem Avocado- oder Salbeigrün, einschließlich eines großen Lenkrads mit dünnem Rand, eines alten analogen Armaturenbretts, grüner Vinyl-Sitzbänke, passender Türverkleidungen, eines gealterten Dachhimmels, Chromdetails, manueller Griffe und leicht abgenutzter Polsterung. Das Auto sollte sich unverfälscht alt und unvollkommen anfühlen, nicht wie in den Showroom-Zustand restauriert.
+
+Umgebung: irgendwo ländlich oder subtropisch geparkt, mit belaubten Bäumen, hellen Stämmen und hellem, diffusem Tageslicht, das durch die Fenster sichtbar ist. Die Außenlandschaft sollte zweitrangig bleiben und sanft durch leicht staubiges Glas sichtbar sein.
+
+Beleuchtung: warmes natürliches Tageslicht, das durch die Windschutzscheibe und die Seitenfenster einfällt und Gesicht, Brust und Arme beleuchtet, während Teile des Innenraums in weichen, grün getönten Schatten liegen. Fügen Sie dezente Reflexionen auf den Fenstern und dem Armaturenbrett hinzu. Kein hartes Studiolicht.
+
+Fotografie: intime Vintage-Modefotografie, 24–28-mm-Weitwinkelobjektiv, Kamera sehr tief und nah am Beifahrersitz oder Boden platziert, starke Vordergrundperspektive, leichte Objektivverzerrung, dezente analoge Körnung, natürliche Hauttextur, warm-grüner Farbstich, milde Weichheit, filmisch, aber ungekünstelt, fotorealistisch, hohe Auflösung.
+
+Komposition: vertikales 3:4-Format, der Mann zentriert über die Sitzbank liegend, das Lenkrad nimmt den oberen linken Vordergrund ein, ein nackter Fuß groß und unscharf nahe der unteren rechten Kante, grüne Sitzlinien leiten zum Oberkörper, Windschutzscheibe und Fenster rahmen den Hintergrund ein.
+
+Negativer Prompt: modernes Luxusauto, Sportwagen-Innenraum, sauberes weißes Leder, formelle Kleidung, voll zugeknöpftes Hemd, Sneaker, Sonnenbrille, übertriebener Bodybuilder-Körperbau, dramatisches Muskelanspannen, heller Studiohintergrund, Neonbeleuchtung, greller Blitz, plastische Haut, verzerrte Hände, zusätzliche Finger, missgebildete Füße, duplizierte Gliedmaßen, verzogenes Lenkrad, Cartoon, Anime, Illustration, CGI.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

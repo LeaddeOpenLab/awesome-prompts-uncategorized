@@ -404,13 +404,13 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2097883008233865405"></a>
 
-### Çeviri sürüyor
+### Klasik zeytin yeşili bir arabanın ön koltuğunda uzanan genç bir yetişkin erkeğin, düşük ve geniş bir açıdan çekilmiş, ultra gerçekçi sinematik moda portresi.
 
 Yazar：[@CliQi\_AI](https://x.com/CliQi_AI) · [Orijinal gönderi](https://x.com/CliQi_AI/status/2097883008233865405)
 
 Sinematik / Film Karesi · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Klasik zeytin yeşili bir arabanın ön koltuğunda uzanan genç bir yetişkin erkeğin, düşük ve geniş bir açıdan çekilmiş, ultra gerçekçi sinematik moda portresi.
 
 <img src="images/2097883008233865405-1.jpg" alt="Görsel 1" width="480" />
 
@@ -419,7 +419,29 @@ Sinematik / Film Karesi · Retro / Vintage · Portre / Selfie · Karakter · Mod
 **İstem**
 
 ```text
-Çeviri sürüyor
+Klasik zeytin yeşili bir arabanın ön koltuğunda uzanan genç bir yetişkin erkeğin, yolcu tarafı ayak boşluğundan düşük ve geniş açılı bir perspektifle çekilmiş, ultra gerçekçi sinematik moda portresi. Görüntü erkeksi, rahat, hafif asi ve nostaljik hissettirmeli; modern bir moda merceğinden yeniden yorumlanmış bir 1970'ler yolculuk başyazısı gibi olmalıdır.
+
+Doğal gevşek bukleler halinde şekillendirilmiş, hafif dağınık ve güneşten darmadağın olmuş kısa-orta uzunlukta koyu kahverengi saçlara sahip. Güçlü kaşlar, belirgin elmacık kemikleri, sinekkaydı tıraşlı bir yüz ve sakin, yoğun bir ifade. Bakışları, hafif yorgun ve kendinden emin bir ifadeyle doğrudan kameraya yöneliktir.
+
+Vücut: göğsü, karnı, omuzları ve kolları doğal olarak belirgin, zayıf ve atletik bir yapı. Gerçekçi oranlar, zarif cilt dokusu, belli belirsiz vücut kılları ve sıcak, güneşten yanmış bir ten rengi. Fizik, bir vücut geliştiriciden ziyade formda ve zahmetsizce fit hissettirmelidir.
+
+Kıyafet: çıplak göğsü ve karnı açıkta bırakacak şekilde önü tamamen açık bırakılmış, koyu lacivert veya neredeyse siyah, hafif düğmeli bir gömlek. Gömleğin kısa veya gelişigüzel kıvrılmış kolları ve hafif kırışık kumaşı, ona yaşanmış bir yaz havası vermektedir.
+
+Düşük belli vintage kesimli ve zarif soluk dokulu, bacakları hafif ispanyol paça veya düz kesim, rahat koyu çivit mavisi bir kot pantolonla kombinlenmiştir. Rahat yolculuk atmosferini pekiştirecek şekilde yalınayaktır.
+
+Poz: klasik arabanın geniş ön koltuğuna gelişigüzel yayılmış. Bacakları kameraya doğru doğal bir şekilde uzanmış, çıplak bir ayağı alt ön planda lense çok yakın uzanarak dramatik bir perspektif bozulması yaratıyor. Bir kol direksiyona doğru uzanmış, bileği direksiyonun üzerine gevşekçe sarkmış, diğer kol ise koltuğun üst kısmına yaslanmış. Gövde hafifçe arkaya yaslanmış, omuzlar açık, duruş tamamen rahat.
+
+Araç içi: geniş ve ince kenarlı bir direksiyon simidi, eski analog gösterge paneli, yeşil vinil koltuklar, uyumlu kapı panelleri, eskimiş tavan döşemesi, krom detaylar, manuel kollar ve hafif aşınmış döşemeler dahil olmak üzere mat avokado veya adaçayı yeşili tonlarında otantik klasik araba kabini. Araba, showroom durumuna getirilmiş gibi değil, gerçekten eski ve kusurlu hissettirmelidir.
+
+Ortam: yapraklı ağaçların, soluk gövdelerin ve pencerelerden görünen parlak dağınık gün ışığının olduğu kırsal veya yarı tropikal bir yere park edilmiş. Dış manzara ikincil kalmalı ve hafif tozlu camın ardından yumuşak bir şekilde görünmelidir.
+
+Aydınlatma: ön camdan ve yan camlardan içeri giren sıcak doğal gün ışığı, yüzü, göğsü ve kolları aydınlatırken iç mekanın bazı kısımlarını yumuşak yeşil tonlu gölgede bırakıyor. Camlar ve gösterge paneli boyunca zarif yansımalar ekleyin. Sert stüdyo aydınlatması yok.
+
+Fotoğraf: samimi vintage moda fotoğrafçılığı, 24–28mm geniş açılı lens, yolcu tarafı koltuğuna veya tabana çok alçak ve yakın yerleştirilmiş kamera, güçlü ön plan perspektifi, hafif lens bozulması, zarif analog gren, doğal cilt dokusu, sıcak-yeşil renk tonu, hafif yumuşaklık, sinematik ama cilalanmamış, fotogerçekçi, yüksek çözünürlük.
+
+Kompozisyon: dikey 3:4 kadraj, adam koltuğun üzerinde merkezlenmiş, direksiyon simidi sol üst ön planı kaplıyor, büyük ve odak dışı bir çıplak ayak sağ alt kenara yakın, yeşil koltuk çizgileri gövdesine doğru yönlendiriyor, ön cam ve pencereler arka planı çerçeveliyor.
+
+Negatif komut: modern luxury car, sports car interior, clean white leather, formal clothing, shirt fully buttoned, sneakers, sunglasses, exaggerated bodybuilding physique, dramatic flexing, bright studio backdrop, neon lighting, harsh flash, plastic skin, distorted hands, extra fingers, malformed feet, duplicated limbs, warped steering wheel, cartoon, anime, illustration, CGI.
 ```
 
 [↑ Kategorilere dön](#catalog)

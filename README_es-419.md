@@ -404,13 +404,13 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2097883008233865405"></a>
 
-### Traducción en curso
+### Retrato de moda cinematográfico y ultrarrealista de un hombre adulto joven descansando en el asiento delantero de un auto clásico verde oliva, capturado desde un ángulo bajo y de gran angular.
 
 Autor：[@CliQi\_AI](https://x.com/CliQi_AI) · [Publicación original](https://x.com/CliQi_AI/status/2097883008233865405)
 
 Cine / Fotograma · Retro / Vintage · Retrato / Selfie · Personaje · Artículo de moda · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de moda cinematográfico y ultrarrealista de un hombre adulto joven descansando en el asiento delantero de un auto clásico verde oliva, capturado desde un ángulo bajo y de gran angular.
 
 <img src="images/2097883008233865405-1.jpg" alt="Imagen 1" width="480" />
 
@@ -419,7 +419,29 @@ Cine / Fotograma · Retro / Vintage · Retrato / Selfie · Personaje · Artícul
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato de moda cinematográfico y ultrarrealista de un hombre adulto joven descansando en el asiento delantero de un auto clásico verde oliva, fotografiado desde una perspectiva baja y de gran angular desde el espacio para los pies del lado del copiloto. La imagen debe sentirse masculina, relajada, ligeramente rebelde y nostálgica, como un editorial de viaje por carretera de los años 70 reinterpretado a través de una lente de moda moderna.
+
+Tiene cabello castaño oscuro, de longitud corta a media, peinado en rizos naturales y sueltos, ligeramente despeinado y revuelto por el sol. Cejas marcadas, pómulos definidos, rostro afeitado al ras y una expresión tranquila e intensa. Su mirada se dirige directamente hacia la cámara con un aspecto ligeramente cansado y seguro de sí mismo.
+
+Cuerpo: complexión atlética y esbelta con pecho, abdomen, hombros y brazos naturalmente definidos. Proporciones realistas, textura de piel sutil, vello corporal tenue y una tez cálida besada por el sol. El físico debe sentirse en forma y natural en lugar de parecer de fisicoculturista.
+
+Atuendo: una camisa abotonada ligera de color azul marino oscuro o casi negro, llevada completamente abierta al frente, exponiendo el pecho y abdomen descubiertos. La camisa tiene mangas cortas o casualmente arremangadas y tela ligeramente arrugada, lo que le da una sensación veraniega de uso diario.
+
+Combinada con jeans relajados de color azul índigo oscuro, ligeramente acampanados o rectos en las piernas, con un corte vintage de tiro bajo y una textura sutilmente deslavada. Está descalzo, reforzando la atmósfera casual de viaje por carretera.
+
+Pose: recostado casualmente a lo largo del amplio asiento corrido delantero del auto clásico. Sus piernas están abiertas de forma natural hacia la cámara, con un pie descalzo extendiéndose muy cerca del lente en el primer plano inferior, creando una dramática distorsión de perspectiva. Un brazo se estira hacia el volante, con la muñeca colgando floja sobre él, mientras el otro brazo descansa sobre la parte superior del asiento corrido. Torso ligeramente reclinado hacia atrás, hombros abiertos, postura completamente relajada.
+
+Interior del vehículo: cabina auténtica de auto clásico en verde aguacate o salvia apagado, que incluye un volante grande de aro delgado, un viejo tablero analógico, asientos corridos de vinilo verde, paneles de puertas a juego, revestimiento de techo envejecido, detalles cromados, manijas manuales y tapicería ligeramente desgastada. El auto debe sentirse genuinamente viejo e imperfecto en lugar de restaurado a condición de exhibición.
+
+Entorno: estacionado en algún lugar rural o semitropical, con árboles frondosos, troncos pálidos y una luz diurna brillante y difusa visible a través de las ventanas. El paisaje exterior debe permanecer secundario y suavemente visible a través de los cristales ligeramente polvorientos.
+
+Iluminación: luz diurna natural y cálida que entra por el parabrisas y las ventanas laterales, iluminando el rostro, el pecho y los brazos mientras deja partes del interior en una suave sombra con tintes verdes. Agregue reflejos sutiles a través de las ventanas y el tablero. Sin iluminación dura de estudio.
+
+Fotografía: fotografía de moda vintage e íntima, lente gran angular de 24–28 mm, cámara ubicada muy baja y cerca del asiento o piso del lado del pasajero, fuerte perspectiva en primer plano, ligera distorsión de lente, grano analógico sutil, textura de piel natural, tinte de color verde cálido, suavidad leve, cinematográfica pero sin pulir, fotorrealista, alta resolución.
+
+Composición: encuadre vertical de 3:4, hombre centrado a lo largo del asiento corrido, el volante ocupando el primer plano superior izquierdo, un pie descalzo grande y desenfocado cerca del borde inferior derecho, líneas del asiento verde guiando hacia su torso, el parabrisas y las ventanas enmarcando el fondo.
+
+Prompt negativo: auto de lujo moderno, interior de auto deportivo, cuero blanco limpio, ropa formal, camisa totalmente abotonada, tenis, gafas de sol, físico exagerado de fisicoculturismo, flexión muscular dramática, fondo de estudio brillante, iluminación de neón, flash duro, piel plástica, manos distorsionadas, dedos adicionales, pies malformados, extremidades duplicadas, volante deformado, caricatura, anime, ilustración, CGI.
 ```
 
 [↑ Volver a categorías](#catalog)

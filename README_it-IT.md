@@ -404,13 +404,13 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2097883008233865405"></a>
 
-### Traduzione in corso
+### Ritratto di moda cinematografico e ultra-realistico di un giovane uomo adulto rilassato sul sedile anteriore di un'auto d'epoca verde oliva, ripreso da un angolo basso e grandangolare.
 
 Autore：[@CliQi\_AI](https://x.com/CliQi_AI) · [Post originale](https://x.com/CliQi_AI/status/2097883008233865405)
 
 Fermo immagine cinematografico / Still fotografico · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto di moda cinematografico e ultra-realistico di un giovane uomo adulto rilassato sul sedile anteriore di un'auto d'epoca verde oliva, ripreso da un angolo basso e grandangolare.
 
 <img src="images/2097883008233865405-1.jpg" alt="Immagine 1" width="480" />
 
@@ -419,7 +419,29 @@ Fermo immagine cinematografico / Still fotografico · Retro / Vintage · Ritratt
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto di moda cinematografico e ultra-realistico di un giovane uomo adulto rilassato sul sedile anteriore di un'auto d'epoca verde oliva, fotografato da una prospettiva dal basso e grandangolare dal vano piedi del lato passeggero. L'immagine deve trasmettere mascolinità, relax, una punta di ribellione e nostalgia, come un editoriale di viaggio su strada degli anni '70 reinterpretato attraverso una lente di moda contemporanea.
+
+Ha capelli castano scuro di lunghezza medio-corta acconciati in riccioli naturali e morbidi, leggermente scompigliati e spettinati dal sole. Sopracciglia marcate, zigomi definiti, viso rasato di fresco e un'espressione calma e intensa. Il suo sguardo è rivolto dritto verso la fotocamera con un'aria leggermente stanca e sicura di sé.
+
+Corpo: corporatura atletica e snella con petto, addome, spalle e braccia naturalmente definiti. Proporzioni realistiche, texture sottile della pelle, leggera peluria corporea e una carnagione calda baciata dal sole. Il fisico deve sembrare tonico e naturale piuttosto che da culturista.
+
+Outfit: una camicia leggera button-up blu scuro o quasi nera, portata completamente aperta sul davanti, esponendo il petto e l'addome nudi. La camicia ha maniche corte o arrotolate con disinvoltura e tessuto leggermente sgualcito, che le conferisce un aspetto estivo vissuto.
+
+Abbinata a jeans comodi blu indaco scuro, leggermente a zampa o dritti sulla gamba, con taglio vintage a vita bassa e una leggera texture sbiadita. È a piedi nudi, rafforzando l'atmosfera informale del viaggio on the road.
+
+Posa: sdraiato con noncuranza sull'ampio sedile a panca anteriore dell'auto d'epoca. Le sue gambe sono divaricate in modo naturale verso la fotocamera, con un piede nudo che si protende molto vicino all'obiettivo nel primo piano inferiore, creando una drammatica distorsione prospettica. Un braccio si allunga verso il volante, con il polso morbidamente appoggiato su di esso, mentre l'altro braccio riposa lungo la parte superiore del sedile a panca. Busto leggermente reclinato all'indietro, spalle aperte, postura completamente rilassata.
+
+Interni del veicolo: autentico abitacolo di auto vintage in una tonalità attenuata di verde avocado o salvia, con un grande volante dalla corona sottile, vecchio cruscotto analogico, sedili a panca in vinile verde, pannelli delle portiere coordinati, rivestimento del tetto invecchiato, dettagli cromati, maniglie manuali e tappezzeria leggermente usurata. L'auto deve apparire genuinamente vissuta e imperfetta piuttosto che restaurata a nuovo da salone.
+
+Ambiente: parcheggiata in una zona rurale o semitropicale, con alberi frondosi, tronchi chiari e una luce diurna diffusa e brillante visibile dai finestrini. Il paesaggio esterno deve rimanere secondario e morbidamente visibile attraverso i vetri leggermente impolverati.
+
+Illuminazione: luce diurna naturale e calda che entra dal parabrezza e dai finestrini laterali, illuminando il viso, il petto e le braccia mentre lascia parti dell'interno in una morbida ombra dalle sfumature verdi. Aggiungere riflessi sottili sui finestrini e sul cruscotto. Nessuna illuminazione rigida da studio.
+
+Fotografia: fotografia di moda intima e vintage, obiettivo grandangolare da 24–28 mm, fotocamera posizionata molto in basso e vicina al sedile o al pavimento del lato passeggero, forte prospettiva in primo piano, leggera distorsione dell'obiettivo, sottile grana analogica, naturale texture della pelle, dominante di colore verde caldo, lieve morbidezza, cinematografica ma non patinata, fotorealistica, ad alta risoluzione.
+
+Composizione: inquadratura verticale in 3:4, uomo centrato sulla panca, volante che occupa il primo piano in alto a sinistra, un grande piede nudo fuori fuoco vicino al bordo inferiore destro, linee verdi del sedile che guidano lo sguardo verso il busto, parabrezza e finestrini che incorniciano lo sfondo.
+
+Prompt negativo: auto di lusso moderna, interni di auto sportiva, pelle bianca immacolata, abbigliamento formale, camicia completamente abbottonata, scarpe da ginnastica, occhiali da sole, fisico da bodybuilder esagerato, muscoli in tensione drammatica, sfondo da studio luminoso, luci al neon, flash duro, pelle di plastica, mani distorte, dita extra, piedi deformi, arti duplicati, volante deformato, cartone animato, anime, illustrazione, CGI.
 ```
 
 [↑ Torna alle categorie](#catalog)
