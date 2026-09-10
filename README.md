@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**21** Prompts · Latest addition: **2026-09-10**
+**22** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -609,6 +609,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097853137080209799"></a>
+
+### A futuristic city twisted and folded like origami, featuring curving skyscrapers, vibrant colors, and a sunset.
+
+Author：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Source](https://x.com/CoopandKCmom/status/2097853137080209799)
+
+Landscape / Nature · Cityscape / Street · Published
+
+**Summary:** A futuristic city twisted and folded like origami, featuring curving skyscrapers, vibrant colors, and a sunset.
+
+<img src="images/2097853137080209799-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097844559959245230"></a>
 

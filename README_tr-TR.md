@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**21** Prompt · Son eklenen: **2026-09-10**
+**22** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -581,6 +581,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097853137080209799"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Orijinal gönderi](https://x.com/CoopandKCmom/status/2097853137080209799)
+
+Manzara / Doğa · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097853137080209799-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097844559959245230"></a>
 

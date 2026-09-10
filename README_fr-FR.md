@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**21** Prompts · Dernier ajout: **2026-09-10**
+**22** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -581,6 +581,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097853137080209799"></a>
+
+### Traduction en cours
+
+Auteur：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Publication originale](https://x.com/CoopandKCmom/status/2097853137080209799)
+
+Paysage / Nature · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097853137080209799-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097844559959245230"></a>
 
