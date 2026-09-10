@@ -876,7 +876,7 @@ Traducción en curso
 
 <a name="prompt-2097873409120096663"></a>
 
-### Traducción en curso
+### Panorámica arquitectónica de una ciudad futurista surrealista plegada y curvada como origami con una puesta de sol resplandeciente.
 
 Autor：[@bama\_angel4life](https://x.com/bama_angel4life) · [Publicación original](https://x.com/bama_angel4life/status/2097873409120096663)
 
@@ -884,7 +884,7 @@ Arquitectura / Interiores · Paisaje / Naturaleza · Paisaje urbano / Calle · P
 
 Publicación original：[@Gigi214TX](https://x.com/Gigi214TX) · [Publicación original](https://x.com/Gigi214TX/status/2097866046187467111)
 
-**Resumen:** Traducción en curso
+**Resumen:** Panorámica arquitectónica de una ciudad futurista surrealista plegada y curvada como origami con una puesta de sol resplandeciente.
 
 <img src="images/2097873409120096663-1.jpg" alt="Imagen 1" width="480" />
 
@@ -893,7 +893,7 @@ Publicación original：[@Gigi214TX](https://x.com/Gigi214TX) · [Publicación o
 **Prompt**
 
 ```text
-Traducción en curso
+Toda una ciudad futurista plegada como un origami, rascacielos que se curvan hacia arriba y luego se doblan hacia atrás por debajo de sí mismos, calles que continúan verticalmente por las paredes, puentes que se retuercen en bucles, edificios que crecen a partir de otros edificios en ángulos imposibles. Magenta eléctrico, cian, naranja, lima, cobalto y oro metálico, ventanas brillantes, superficies reflectantes, brillante puesta de sol, obra maestra arquitectónica surrealista, extrema profundidad y detalle.
 ```
 
 [↑ Volver a categorías](#catalog)

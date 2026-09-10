@@ -876,7 +876,7 @@ Tradução em curso
 
 <a name="prompt-2097873409120096663"></a>
 
-### Tradução em curso
+### Panorama arquitetónico de uma cidade futurista surrealista dobrada e curvada como origami com um pôr do sol esplêndido.
 
 Autor：[@bama\_angel4life](https://x.com/bama_angel4life) · [Publicação original](https://x.com/bama_angel4life/status/2097873409120096663)
 
@@ -884,7 +884,7 @@ Arquitetura / Interiores · Paisagem / Natureza · Paisagem urbana / Rua · Publ
 
 Publicação original：[@Gigi214TX](https://x.com/Gigi214TX) · [Publicação original](https://x.com/Gigi214TX/status/2097866046187467111)
 
-**Resumo:** Tradução em curso
+**Resumo:** Panorama arquitetónico de uma cidade futurista surrealista dobrada e curvada como origami com um pôr do sol esplêndido.
 
 <img src="images/2097873409120096663-1.jpg" alt="Imagem 1" width="480" />
 
@@ -893,7 +893,7 @@ Publicação original：[@Gigi214TX](https://x.com/Gigi214TX) · [Publicação o
 **Prompt**
 
 ```text
-Tradução em curso
+Uma cidade futurista inteira dobrada como origami, arranha-céus curvando-se para cima e depois dobrando-se para trás sob si mesmos, ruas continuando verticalmente pelas paredes, pontes retorcendo-se em laços, edifícios crescendo a partir de outros edifícios em ângulos impossíveis. Magenta elétrico, ciano, laranja, lima, cobalto e ouro metálico, janelas brilhantes, superfícies refletoras, pôr do sol brilhante, obra-prima arquitetónica surrealista, extrema profundidade e detalhe.
 ```
 
 [↑ Voltar às categorias](#catalog)

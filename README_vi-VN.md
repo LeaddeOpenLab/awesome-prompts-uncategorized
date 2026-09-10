@@ -888,7 +888,7 @@ Truyện tranh / Bảng phân cảnh · Sản phẩm · Đã xuất bản
 
 <a name="prompt-2097873409120096663"></a>
 
-### Đang dịch
+### Toàn cảnh kiến trúc thành phố tương lai siêu thực gấp khúc và uốn lượn như origami cùng hoàng hôn rực rỡ.
 
 Tác giả：[@bama\_angel4life](https://x.com/bama_angel4life) · [Bài gốc](https://x.com/bama_angel4life/status/2097873409120096663)
 
@@ -896,7 +896,7 @@ Kiến trúc / Nội thất · Phong cảnh / Thiên nhiên · Quang cảnh thà
 
 Bài gốc：[@Gigi214TX](https://x.com/Gigi214TX) · [Bài gốc](https://x.com/Gigi214TX/status/2097866046187467111)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Toàn cảnh kiến trúc thành phố tương lai siêu thực gấp khúc và uốn lượn như origami cùng hoàng hôn rực rỡ.
 
 <img src="images/2097873409120096663-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -905,7 +905,7 @@ Bài gốc：[@Gigi214TX](https://x.com/Gigi214TX) · [Bài gốc](https://x.com
 **Câu lệnh**
 
 ```text
-Đang dịch
+Toàn bộ thành phố tương lai được gấp lại như nghệ thuật origami, những tòa nhà chọc trời uốn cong lên trên rồi gập ngược lại bên dưới chính chúng, những con đường tiếp tục chạy thẳng đứng lên các bức tường, những cây cầu xoắn thành các vòng lặp, các tòa nhà mọc ra từ các tòa nhà khác ở những góc độ không tưởng. Sắc đỏ tươi electric magenta, lục lam cyan, cam, xanh chanh lime, xanh coban và vàng ánh kim metallic gold, những ô cửa sổ phát sáng, bề mặt phản chiếu, hoàng hôn rực rỡ, kiệt tác kiến trúc siêu thực, chiều sâu và chi tiết tột bậc.
 ```
 
 [↑ Về danh mục](#catalog)

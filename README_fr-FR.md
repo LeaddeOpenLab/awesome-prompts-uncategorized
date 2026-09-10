@@ -876,7 +876,7 @@ Traduction en cours
 
 <a name="prompt-2097873409120096663"></a>
 
-### Traduction en cours
+### Panorama architectural d'une ville futuriste surréaliste pliée et courbée comme un origami avec un splendide coucher de soleil.
 
 Auteur：[@bama\_angel4life](https://x.com/bama_angel4life) · [Publication originale](https://x.com/bama_angel4life/status/2097873409120096663)
 
@@ -884,7 +884,7 @@ Architecture / Intérieur · Paysage / Nature · Paysage urbain / Rue · Publié
 
 Publication originale：[@Gigi214TX](https://x.com/Gigi214TX) · [Publication originale](https://x.com/Gigi214TX/status/2097866046187467111)
 
-**Résumé:** Traduction en cours
+**Résumé:** Panorama architectural d'une ville futuriste surréaliste pliée et courbée comme un origami avec un splendide coucher de soleil.
 
 <img src="images/2097873409120096663-1.jpg" alt="Image 1" width="480" />
 
@@ -893,7 +893,7 @@ Publication originale：[@Gigi214TX](https://x.com/Gigi214TX) · [Publication or
 **Consigne**
 
 ```text
-Traduction en cours
+Une ville futuriste entière pliée comme un origami, des gratte-ciel s'incurvant vers le haut puis se repliant sous eux-mêmes, des rues se prolongeant verticalement le long des murs, des ponts se tordant en boucles, des bâtiments émergeant d'autres bâtiments à des angles impossibles. Magenta électrique, cyan, orange, citron vert, cobalt et or métallique, fenêtres lumineuses, surfaces réfléchissantes, coucher de soleil éclatant, chef-d'œuvre architectural surréaliste, profondeur et détails extrêmes.
 ```
 
 [↑ Retour aux catégories](#catalog)

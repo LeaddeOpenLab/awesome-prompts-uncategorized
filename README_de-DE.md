@@ -876,7 +876,7 @@ Comic / Storyboard · Produkt · Veröffentlicht
 
 <a name="prompt-2097873409120096663"></a>
 
-### Übersetzung läuft
+### Architektonisches Panorama einer surrealen futuristischen Stadt, die wie Origami gefaltet und gebogen ist, mit prachtvollem Sonnenuntergang.
 
 Autor：[@bama\_angel4life](https://x.com/bama_angel4life) · [Originalbeitrag](https://x.com/bama_angel4life/status/2097873409120096663)
 
@@ -884,7 +884,7 @@ Architektur / Interieur · Landschaft / Natur · Stadtbild / Straße · Veröffe
 
 Originalbeitrag：[@Gigi214TX](https://x.com/Gigi214TX) · [Originalbeitrag](https://x.com/Gigi214TX/status/2097866046187467111)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Architektonisches Panorama einer surrealen futuristischen Stadt, die wie Origami gefaltet und gebogen ist, mit prachtvollem Sonnenuntergang.
 
 <img src="images/2097873409120096663-1.jpg" alt="Bild 1" width="480" />
 
@@ -893,7 +893,7 @@ Originalbeitrag：[@Gigi214TX](https://x.com/Gigi214TX) · [Originalbeitrag](htt
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine gesamte futuristische Stadt, gefaltet wie Origami, Wolkenkratzer, die sich nach oben wölben und sich dann unter sich selbst zurückbiegen, Straßen, die sich vertikal an Wänden nach oben fortsetzen, Brücken, die sich zu Schleifen verdrehen, Gebäude, die in unmöglichen Winkeln aus anderen Gebäuden herauswachsen. Elektrisches Magenta, Cyan, Orange, Limette, Kobalt und metallisches Gold, leuchtende Fenster, reflektierende Oberflächen, strahlender Sonnenuntergang, surrealistisches architektonisches Meisterwerk, extreme Tiefe und Detailtreue.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

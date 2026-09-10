@@ -876,7 +876,7 @@ Yazar：[@yourPlugAI](https://x.com/yourPlugAI) · [Orijinal gönderi](https://x
 
 <a name="prompt-2097873409120096663"></a>
 
-### Çeviri sürüyor
+### Origami gibi katlanıp bükülmüş gerçeküstü fütüristik şehir ve muhteşem gün batımı mimari panoraması.
 
 Yazar：[@bama\_angel4life](https://x.com/bama_angel4life) · [Orijinal gönderi](https://x.com/bama_angel4life/status/2097873409120096663)
 
@@ -884,7 +884,7 @@ Mimari / İç Mekan · Manzara / Doğa · Şehir Manzarası / Sokak · Yayımlan
 
 Orijinal gönderi：[@Gigi214TX](https://x.com/Gigi214TX) · [Orijinal gönderi](https://x.com/Gigi214TX/status/2097866046187467111)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Origami gibi katlanıp bükülmüş gerçeküstü fütüristik şehir ve muhteşem gün batımı mimari panoraması.
 
 <img src="images/2097873409120096663-1.jpg" alt="Görsel 1" width="480" />
 
@@ -893,7 +893,7 @@ Orijinal gönderi：[@Gigi214TX](https://x.com/Gigi214TX) · [Orijinal gönderi]
 **İstem**
 
 ```text
-Çeviri sürüyor
+Origami gibi katlanmış fütüristik bir şehrin tamamı, yukarı doğru kıvrılan ve ardından kendi altlarına doğru bükülen gökdelenler, duvarlar boyunca dikey olarak devam eden sokaklar, ilmekler halinde bükülen köprüler, imkansız açılarla diğer binalardan fışkıran binalar. Elektrik macenta, camgöbeği, turuncu, misket limonu, kobalt ve metalik altın, parıldayan pencereler, yansıtıcı yüzeyler, görkemli gün batımı, gerçeküstü mimari şaheser, aşırı derinlik ve detay.
 ```
 
 [↑ Kategorilere dön](#catalog)

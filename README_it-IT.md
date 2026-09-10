@@ -876,7 +876,7 @@ Traduzione in corso
 
 <a name="prompt-2097873409120096663"></a>
 
-### Traduzione in corso
+### Panorama architettonico di una città futuristica surrealista piegata e curvata come un origami con un tramonto splendido.
 
 Autore：[@bama\_angel4life](https://x.com/bama_angel4life) · [Post originale](https://x.com/bama_angel4life/status/2097873409120096663)
 
@@ -884,7 +884,7 @@ Architettura / Interni · Paesaggio / Natura · Paesaggio urbano / Strada · Pub
 
 Post originale：[@Gigi214TX](https://x.com/Gigi214TX) · [Post originale](https://x.com/Gigi214TX/status/2097866046187467111)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Panorama architettonico di una città futuristica surrealista piegata e curvata come un origami con un tramonto splendido.
 
 <img src="images/2097873409120096663-1.jpg" alt="Immagine 1" width="480" />
 
@@ -893,7 +893,7 @@ Post originale：[@Gigi214TX](https://x.com/Gigi214TX) · [Post originale](https
 **Prompt**
 
 ```text
-Traduzione in corso
+Un'intera città futuristica piegata come un origami, grattacieli che si curvano verso l'alto e poi si ripiegano sotto se stessi, strade che continuano verticalmente sulle pareti, ponti che si attorcigliano in anelli, edifici che crescono da altri edifici ad angoli impossibili. Magenta elettrico, ciano, arancione, lime, cobalto e oro metallico, finestre luminose, superfici riflettenti, tramonto brillante, capolavoro architettonico surrealista, profondità e dettagli estremi.
 ```
 
 [↑ Torna alle categorie](#catalog)
