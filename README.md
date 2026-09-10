@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**28** Prompts · Latest addition: **2026-09-10**
+**29** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097892780052013289"></a>
+
+### Realistic studio portrait of a young woman with hazel-green eyes, an updo hairstyle, and a ruffled white dress.
+
+Author：[@oju689](https://x.com/oju689) · [Source](https://x.com/oju689/status/2097892780052013289)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Realistic studio portrait of a young woman with hazel-green eyes, an updo hairstyle, and a ruffled white dress.
+
+<img src="images/2097892780052013289-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic close-up portrait of a beautiful young woman with natural, delicate features, soft fair skin with subtle freckles and realistic skin texture, expressive hazel-green eyes looking slightly to the side, naturally defined eyebrows, soft pink lips, and a gentle confident expression. Her dark brown hair is styled in a loose, elegant messy updo with natural flyaway strands framing her face. She wears a romantic white textured dress with delicate ruffled short sleeves and a softly gathered neckline, paired with layered fine gold necklaces featuring tiny pearl details and small pendants, plus elegant dangling earrings.
+
+Soft warm natural studio lighting, neutral beige background, subtle shadows, realistic facial proportions, detailed hair strands, authentic skin pores and texture, natural makeup, soft blush, cinematic photography, shallow depth of field, 85mm portrait lens, f/1.8, high dynamic range, professional editorial photography, photorealistic, ultra-detailed, 8K quality, no CGI or artificial appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097851840532783565"></a>
 

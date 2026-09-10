@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**28** Prompt · Son eklenen: **2026-09-10**
+**29** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2097892780052013289"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@oju689](https://x.com/oju689) · [Orijinal gönderi](https://x.com/oju689/status/2097892780052013289)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097892780052013289-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097851840532783565"></a>
 
