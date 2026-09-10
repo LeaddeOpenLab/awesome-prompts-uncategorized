@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T08:29:23.666Z",
+  "model": "unknown-video",
+  "prompt": "A kid is already carving a tight S-turn through a deep slot canyon from frame one, riding a huge single jet engine like a saddle, both hands on the cowling, body tucked, the fat metal turbine filling most of the wash. One giant round intake up front, one roaring nozzle behind, no extra thrusters, no second engine. Narrow Navajo sandstone walls rise on both sides, striated orange, rust, cream, and burnt sienna, undercut and polished smooth where floods have run, dark desert varnish streaks, wind-pitted pockets, hanging juniper roots, a thin ribbon of sky far overhead. Sun slashes in from a high gap, hard noon light, long blue shadows in the slot, heat shimmer over the wash, alkali dust, cracked mud, scattered cobbles, bleached driftwood, a trickle of green where a seep wets the rock. The single nozzle dumps crazy electric-blue afterburner flames and thick rolling white-and-soot smoke the whole time, never a single puff that dies, blue glow licking the canyon walls and lighting the kid’s dusty visor. Full live-action photoreal: sandblasted turbine casing, rivets, heat-stained metal, dented intake lip, imperfect kid skin, sunburn, sweat, worn gloves, handheld chase cam, film grain, motion blur, lens flare through dust. Camera tracks behind and beside through the slot, walls ripping past, the engine banking hard, sand roost and blue fire filling the canyon. Diegetic audio only: one massive jet scream, afterburner roar, sand hitting metal, canyon echo, wind through the slot, no music, no song, no on-screen text. Twenty seconds, one continuous take, never leaves the canyon. Never cartoon, never CGI plastic.",
+  "promptTranslations": {
+    "en": "A kid is already carving a tight S-turn through a deep slot canyon from frame one, riding a huge single jet engine like a saddle, both hands on the cowling, body tucked, the fat metal turbine filling most of the wash. One giant round intake up front, one roaring nozzle behind, no extra thrusters, no second engine. Narrow Navajo sandstone walls rise on both sides, striated orange, rust, cream, and burnt sienna, undercut and polished smooth where floods have run, dark desert varnish streaks, wind-pitted pockets, hanging juniper roots, a thin ribbon of sky far overhead. Sun slashes in from a high gap, hard noon light, long blue shadows in the slot, heat shimmer over the wash, alkali dust, cracked mud, scattered cobbles, bleached driftwood, a trickle of green where a seep wets the rock. The single nozzle dumps crazy electric-blue afterburner flames and thick rolling white-and-soot smoke the whole time, never a single puff that dies, blue glow licking the canyon walls and lighting the kid’s dusty visor. Full live-action photoreal: sandblasted turbine casing, rivets, heat-stained metal, dented intake lip, imperfect kid skin, sunburn, sweat, worn gloves, handheld chase cam, film grain, motion blur, lens flare through dust. Camera tracks behind and beside through the slot, walls ripping past, the engine banking hard, sand roost and blue fire filling the canyon. Diegetic audio only: one massive jet scream, afterburner roar, sand hitting metal, canyon echo, wind through the slot, no music, no song, no on-screen text. Twenty seconds, one continuous take, never leaves the canyon. Never cartoon, never CGI plastic."
+  },
+  "summaryTranslations": {
+    "en": "A kid riding a giant single jet engine through a narrow sandstone slot canyon at high speed with photorealistic chase cinematography."
+  },
+  "translationVersion": 2,
+  "summary": "A kid riding a giant single jet engine through a narrow sandstone slot canyon at high speed with photorealistic chase cinematography.",
+  "summaryEn": "A kid riding a giant single jet engine through a narrow sandstone slot canyon at high speed with photorealistic chase cinematography.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097951331667357808",
+    "canonicalUrl": "https://x.com/ByronRexMatthe1/status/2097951331667357808",
+    "author": {
+      "username": "ByronRexMatthe1",
+      "displayName": "PolyMath",
+      "profileUrl": "https://x.com/ByronRexMatthe1"
+    },
+    "publishedAt": "2026-09-10T07:32:30.000Z",
+    "collectedAt": "2026-09-10T08:16:56.591Z",
+    "language": "en",
+    "originalText": "Imagine being a kid\n\nPrompt: \nA kid is already carving a tight S-turn through a deep slot canyon from frame one, riding a huge single jet engine like a saddle, both hands on the cowling, body tucked, the fat metal turbine filling most of the wash. One giant round intake up front, one roaring nozzle behind, no extra thrusters, no second engine. Narrow Navajo sandstone walls rise on both sides, striated orange, rust, cream, and burnt sienna, undercut and polished smooth where floods have run, dark desert varnish streaks, wind-pitted pockets, hanging juniper roots, a thin ribbon of sky far overhead. Sun slashes in from a high gap, hard noon light, long blue shadows in the slot, heat shimmer over the wash, alkali dust, cracked mud, scattered cobbles, bleached driftwood, a trickle of green where a seep wets the rock. The single nozzle dumps crazy electric-blue afterburner flames and thick rolling white-and-soot smoke the whole time, never a single puff that dies, blue glow licking the canyon walls and lighting the kid’s dusty visor. Full live-action photoreal: sandblasted turbine casing, rivets, heat-stained metal, dented intake lip, imperfect kid skin, sunburn, sweat, worn gloves, handheld chase cam, film grain, motion blur, lens flare through dust. Camera tracks behind and beside through the slot, walls ripping past, the engine banking hard, sand roost and blue fire filling the canyon. Diegetic audio only: one massive jet scream, afterburner roar, sand hitting metal, canyon echo, wind through the slot, no music, no song, no on-screen text. Twenty seconds, one continuous take, never leaves the canyon. Never cartoon, never CGI plastic.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ByronRexMatthe1/status/2097951331667357808",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097951174502813697/img/CHSHBViYPouA-5MJ.jpg",
+        "analysisUrl": "https://x.com/ByronRexMatthe1/status/2097951331667357808"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 28
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ByronRexMatthe1/status/2097951331667357808",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097951174502813697/img/CHSHBViYPouA-5MJ.jpg",
+  "coverPath": "covers/2097951331667357808.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097951174502813697",
+    "x-post:2097951331667357808"
+  ],
+  "analysis": {
+    "summary": "A kid riding a giant single jet engine through a narrow sandstone slot canyon at high speed with photorealistic chase cinematography.",
+    "summaryEn": "A kid riding a giant single jet engine through a narrow sandstone slot canyon at high speed with photorealistic chase cinematography.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows a boy riding atop a large jet turbine intake navigating through a sandstone desert slot canyon with dust and high-speed motion."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A kid is already carving a tight S-turn through a deep slot canyon from frame one, riding a huge single jet engine like a saddle, both hands on the cowling, body tucked, the fat metal turbine filling most of the wash. One giant round intake up front, one roaring nozzle behind, no extra thrusters, no second engine. Narrow Navajo sandstone walls rise on both sides, striated orange, rust, cream, and burnt sienna, undercut and polished smooth where floods have run, dark desert varnish streaks, wind-pitted pockets, hanging juniper roots, a thin ribbon of sky far overhead. Sun slashes in from a high gap, hard noon light, long blue shadows in the slot, heat shimmer over the wash, alkali dust, cracked mud, scattered cobbles, bleached driftwood, a trickle of green where a seep wets the rock. The single nozzle dumps crazy electric-blue afterburner flames and thick rolling white-and-soot smoke the whole time, never a single puff that dies, blue glow licking the canyon walls and lighting the kid’s dusty visor. Full live-action photoreal: sandblasted turbine casing, rivets, heat-stained metal, dented intake lip, imperfect kid skin, sunburn, sweat, worn gloves, handheld chase cam, film grain, motion blur, lens flare through dust. Camera tracks behind and beside through the slot, walls ripping past, the engine banking hard, sand roost and blue fire filling the canyon. Diegetic audio only: one massive jet scream, afterburner roar, sand hitting metal, canyon echo, wind through the slot, no music, no song, no on-screen text. Twenty seconds, one continuous take, never leaves the canyon. Never cartoon, never CGI plastic.",
+    "sourceRange": {
+      "start": 30,
+      "end": 1658
+    },
+    "translations": {
+      "zh": "从第一帧起，一个孩子正骑着巨大的单喷气发动机如鞍座般在狭窄幽深的峡谷中进行急剧S弯漂移，双手紧握整流罩，身体蜷缩。前方有一个巨大的圆形进气道，后方为轰鸣的喷管。两侧耸立着狭窄的纳瓦霍砂岩峭壁，露出橙色、铁锈色和赭色的条纹。强烈的正午阳光穿透缝隙，伴随长长的阴影与热浪沙尘。发动机喷管持续喷出耀眼的电蓝色加力火焰与滚滚烟雾。完全实拍照片级逼真感：涡轮外壳铆钉磨损、微汗晒伤的皮肤、手持跟随镜头、胶片颗粒与动态模糊。二十秒一镜到底。",
+      "en": "A kid is already carving a tight S-turn through a deep slot canyon from frame one, riding a huge single jet engine like a saddle, both hands on the cowling, body tucked, the fat metal turbine filling most of the wash. One giant round intake up front, one roaring nozzle behind, no extra thrusters, no second engine. Narrow Navajo sandstone walls rise on both sides, striated orange, rust, cream, and burnt sienna, undercut and polished smooth where floods have run, dark desert varnish streaks, wind-pitted pockets, hanging juniper roots, a thin ribbon of sky far overhead. Sun slashes in from a high gap, hard noon light, long blue shadows in the slot, heat shimmer over the wash, alkali dust, cracked mud, scattered cobbles, bleached driftwood, a trickle of green where a seep wets the rock. The single nozzle dumps crazy electric-blue afterburner flames and thick rolling white-and-soot smoke the whole time, never a single puff that dies, blue glow licking the canyon walls and lighting the kid’s dusty visor. Full live-action photoreal: sandblasted turbine casing, rivets, heat-stained metal, dented intake lip, imperfect kid skin, sunburn, sweat, worn gloves, handheld chase cam, film grain, motion blur, lens flare through dust. Camera tracks behind and beside through the slot, walls ripping past, the engine banking hard, sand roost and blue fire filling the canyon. Diegetic audio only: one massive jet scream, afterburner roar, sand hitting metal, canyon echo, wind through the slot, no music, no song, no on-screen text. Twenty seconds, one continuous take, never leaves the canyon. Never cartoon, never CGI plastic."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic action video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
