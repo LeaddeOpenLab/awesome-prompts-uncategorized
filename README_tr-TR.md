@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**25** Prompt · Son eklenen: **2026-09-10**
+**26** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2097851840532783565"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Live\_life\_style](https://x.com/Live_life_style) · [Orijinal gönderi](https://x.com/Live_life_style/status/2097851840532783565)
+
+Fotoğrafçılık · Karakter · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097851840532783565-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097562587437342750"></a>
 

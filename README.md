@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**25** Prompts · Latest addition: **2026-09-10**
+**26** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,58 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097851840532783565"></a>
+
+### A structured prompt for generating a realistic, candid everyday snapshot that appears to have been taken accidentally by a friend's smartphone inside a crowded train.
+
+Author：[@Live\_life\_style](https://x.com/Live_life_style) · [Source](https://x.com/Live_life_style/status/2097851840532783565)
+
+Photography · Character · Vehicle · Published
+
+**Summary:** A structured prompt for generating a realistic, candid everyday snapshot that appears to have been taken accidentally by a friend's smartphone inside a crowded train.
+
+<img src="images/2097851840532783565-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+{
+"direction": "A 'poorly taken yet strangely unforgettable miracle snapshot' unintentionally left on a friend's smartphone. Capture a fictional 21-year-old adult Japanese woman at the exact moment the shutter accidentally went off in the crowd of a packed commuter train. Not a glamorous portrait; prioritize a mysterious snapshot that makes one think upon reviewing it later, 'Why on earth did I take this photo?', complete with overly close proximity, tilt, partial obstruction, mid-motion capture, and the surrounding crowd density.",
+"mood": "Cute yet uncrafted. The subject is barely aware she is being photographed, showing a natural expression while enduring the crowd. No horror, no unsettling vibe, no depictions of fear; merely a strange coincidence that occurred purely within daily life. Emphasize memorability over beauty.",
+"model": "A 21-year-old fictional adult Japanese woman. Do not resemble real celebrities, influencers, or private individuals. Possessing a relatable, everyday ambiance, not overly model-like.",
+"face": "Soft, approachable facial features. A subtle, somewhat troubled look due to the crowd, yet not severe. The mouth is not fully smiling, but slightly relaxed; her gaze is not toward the camera, but diverted diagonally sideways toward an in-car display or toward her friend. Do not make the face completely symmetrical.",
+"hair": "A chin-length short bob. The tips of the hair are slightly disheveled from the train's movement and the motion of people, with a few strands falling over one cheek. Not styled too neatly, with a slight clumping texture caused by humidity.",
+"body": "A natural adult female build. Possessing considerable volume in the bust, yet this area is not highlighted as the main focus; it is portrayed naturally through the tension of the tank top fabric and the silhouette shaped by gravity. Due to the crowding, the shoulders and torso are slightly twisted, creating an asymmetrical center of gravity.",
+"skin": "Natural Japanese female skin. Retain visible pores, subtle uneven skin tone, slight redness on the cheeks, and natural shading on the neck and arms. No excessive beauty filters or porcelain skin. A slight greenish highlight from the interior lighting mixes with the natural daylight coming from the window.",
+"outfit": "As everyday midsummer casual wear, a simple tank top with thin spaghetti straps and a short cut revealing the navel. Bottoms are very short white low-rise shorts worn low around the hip bones. Treated not as a fashion shoot showcasing the outfit itself, but as an ordinary commuter traveling on a packed train. Introduce realistic wear to the fabric, such as creases from sitting, small wrinkles, and slight asymmetry at the hem.",
+"accessories": "A small shoulder bag, a thin simple wristwatch, or just a hair tie. Accessories are understated. The bag strap has slipped slightly due to the crowd, and she is in the middle of unconsciously fixing it.",
+"scene_objects": "Hanging straps, stainless steel handrails, warning stickers beside the doors, train route maps, advertisements, hanging flyers, passengers' bags and smartphones, folding umbrellas. At the edges of the frame, other passengers' shoulders, arms, and bags intrude heavily, partially obscuring the subject.",
+"pose": "Pushed by the surrounding crowd on a packed train, leaning slightly diagonally with weight shifted to one leg. One hand lightly grips a hanging strap or handrail, while the other is in the middle of adjusting her bag. Her shoulders are slightly hunched, and the alignment of her hips and upper torso do not match. Deliberate posing is strictly forbidden; capture a mid-movement moment where 'in the next 0.2 seconds she would be in a different posture.'",
+"crowd_behavior": "A heavily congested train during morning rush hour. Extremely close distance to surrounding adult passengers, reflecting realistic crowding where shoulders and bags make contact. However, do not depict groping, sexual contact, violence, or expressions of distress. Depict only the physical compression of the jostling crowd.",
+"lighting": "White ceiling LED lighting serves as the primary light source, mixed with a small amount of daylight coming in through the windows. Only a part of the face is slightly bright, with soft shadows cast by surrounding passengers on the opposite side. Parts of the ceiling lights blow out, leaving an unevenness as if the smartphone's auto-exposure briefly lagged behind.",
+"effect": "Because the train and people moved simultaneously at the moment of the shutter, light motion blur appears only on the hair ends, the bag strap, and the passengers at the edge of the frame. The subject's face is just clear enough to remain recognizable. Slightly retain JPEG compression artifacts and subtle noise in shadow areas.",
+"camera": "The wide-angle main camera of an ordinary smartphone held with one hand by a friend. The distance to the subject is overly close, about 45 to 65 cm. Around 24 to 26mm in 35mm equivalent, leaning toward smartphone-like deep pan-focus. Do not use portrait mode or artificial background bokeh. Auto ISO, auto shutter, and auto white balance, as if the photographer was entirely unconcerned with settings.",
+"imperfections": "Tilted horizontally by about 4 to 7 degrees. Too little headroom, and other passengers are awkwardly cropped at the frame edges. A tiny fraction of a finger or the edge of a smartphone case may slightly creep into a corner. Focus on the face is not perfect, yet not excessively missed. Leave behind messy hair, small wrinkles in clothes, uneven lighting colors, shadow noise, and slight lens distortion.",
+"background": "A realistic commuter train in an urban Japanese area. Advertisements and route guides exist naturally to the point of being nearly legible yet unreadable; background passengers are not posing, engaging in separate actions such as checking phones, holding hanging straps, or looking toward the doors. Do not overly blur the background, preserving information density.",
+"atmosphere": "An ambiance where the slight stuffiness of the crowd, human movement, and the swaying of the train can be imagined from the photograph. Not a perfect moment, but creating convincing authenticity as if the shutter tripped accidentally right when the photographer shifted their grip on the phone.",
+"composition": "A 9:16 vertical smartphone photo. The subject is slightly off-center, and being too close causes her head, shoulders, and surrounding passengers to overlap tightly within the frame. A slightly tilted composition with hanging straps, reflective windows, route maps, and other passengers layered in the background, revealing more micro-details the more one looks back at it. The reason one feels compelled to 'zoom in and look' is not physical emphasis, but the coincidences within the snapshot: window reflections, an accidentally overlapping advertisement, hair frozen in an odd position, and background details.",
+"story_reason": "A friend raised their phone near chest height in the crowd and accidentally snapped a photo right as they were trying to check the screen. Therefore, the overly close distance, the tilt, the mid-action capture, and the surrounding occlusions all arise naturally from the exact same cause.",
+"negative": "Perfect commercial photo composition, overly beautified skin, plastic-like skin, doll-like face, extreme body proportions, compositions emphasizing only one specific body part, deliberate provocative poses, groping or sexual contact, expressions of distress, horror, unsettling individuals, excessively strong background blur, studio lighting, extreme retouching, face resembling real people or celebrities"
+}{
+"watermark_direction": "Blend the watermark '@Live_life_style' not as an overlaid text added later, but as an accidental environmental element that was present in the train carriage during the shot.",
+"integration_method": "Faint reflections on the train window, combined with fingerprints and wipe marks, accidentally connect into an alphabet shape, forming a barely legible '@Live_life_style'. Do not make it a perfectly rendered digital font; let it materialize as part of the reflections and smudges.",
+"subtle_visibility": "Inconspicuous when looking at the photo normally, discernible only upon zooming in to realize 'oh, it was right here.' The contrast of the letters should be only marginally higher than the background.",
+"placement": "On the window or stainless-steel surface in the lower-right to mid-right area of the frame, slightly separated from the subject. Do not superimpose directly over the person's face or body.",
+"material_behavior": "Parts of the letters fade or darken in accordance with the fine condensation on the glass surface, fingerprints, reflections of the LED lights, and external light entering from outside the train.",
+"lighting_interaction": "Reflections from the interior LEDs momentarily brighten just a few letters, while the other parts dissolve into the dark reflections on the window. Naturally influenced by the smartphone's exposure and motion blur.",
+"avoid": "Overly crisp logos, floating subtitles on screen, perfect fonts, neon lettering, direct placement on human skin, unnaturally high contrast"
+}
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097562587437342750"></a>
 
