@@ -71,20 +71,20 @@ Traducción en curso
 
 <a name="prompt-2097888970994495736"></a>
 
-### Traducción en curso
+### genérame incorporándome de espaldas a la cámara, luego levantándome y dándome la vuelta para hacer unas cuantas flexiones
 
 Autor：[@RSOXART](https://x.com/RSOXART) · [Publicación original](https://x.com/RSOXART/status/2097888970994495736)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** genérame incorporándome de espaldas a la cámara, luego levantándome y dándome la vuelta para hacer unas cuantas flexiones
 
 <img src="covers/2097888970994495736.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+genérame incorporándome de espaldas a la cámara, luego levantándome y dándome la vuelta para hacer unas cuantas flexiones
 ```
 
 [↑ Volver a categorías](#catalog)

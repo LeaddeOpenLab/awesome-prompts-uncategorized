@@ -71,20 +71,20 @@ Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](h
 
 <a name="prompt-2097888970994495736"></a>
 
-### Çeviri sürüyor
+### kameraya arkam dönük şekilde doğrulup oturduğum, ardından ayağa kalkıp dönerek birkaç şınav çektiğim bir video oluştur
 
 Yazar：[@RSOXART](https://x.com/RSOXART) · [Orijinal gönderi](https://x.com/RSOXART/status/2097888970994495736)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** kameraya arkam dönük şekilde doğrulup oturduğum, ardından ayağa kalkıp dönerek birkaç şınav çektiğim bir video oluştur
 
 <img src="covers/2097888970994495736.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+kameraya arkam dönük şekilde doğrulup oturduğum, ardından ayağa kalkıp dönerek birkaç şınav çektiğim bir video oluştur
 ```
 
 [↑ Kategorilere dön](#catalog)

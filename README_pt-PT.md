@@ -71,20 +71,20 @@ Tradução em curso
 
 <a name="prompt-2097888970994495736"></a>
 
-### Tradução em curso
+### gera-me a sentar-me de costas para a câmara, depois a levantar-me e a virar-me para fazer algumas flexões
 
 Autor：[@RSOXART](https://x.com/RSOXART) · [Publicação original](https://x.com/RSOXART/status/2097888970994495736)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** gera-me a sentar-me de costas para a câmara, depois a levantar-me e a virar-me para fazer algumas flexões
 
 <img src="covers/2097888970994495736.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+gera-me a sentar-me de costas para a câmara, depois a levantar-me e a virar-me para fazer algumas flexões
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -71,20 +71,20 @@ Traduction en cours
 
 <a name="prompt-2097888970994495736"></a>
 
-### Traduction en cours
+### génère-moi en train de m'asseoir en tournant le dos à la caméra, puis je me lève et je me retourne pour faire quelques pompes
 
 Auteur：[@RSOXART](https://x.com/RSOXART) · [Publication originale](https://x.com/RSOXART/status/2097888970994495736)
 
 Photographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** génère-moi en train de m'asseoir en tournant le dos à la caméra, puis je me lève et je me retourne pour faire quelques pompes
 
 <img src="covers/2097888970994495736.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+génère-moi en train de m'asseoir en tournant le dos à la caméra, puis je me lève et je me retourne pour faire quelques pompes
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -71,20 +71,20 @@ Tradução em andamento
 
 <a name="prompt-2097888970994495736"></a>
 
-### Tradução em andamento
+### gerar eu me sentando de costas para a câmera, depois me levantando e me virando para fazer algumas flexões
 
 Autor：[@RSOXART](https://x.com/RSOXART) · [Publicação original](https://x.com/RSOXART/status/2097888970994495736)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** gerar eu me sentando de costas para a câmera, depois me levantando e me virando para fazer algumas flexões
 
 <img src="covers/2097888970994495736.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+gerar eu me sentando de costas para a câmera, depois me levantando e me virando para fazer algumas flexões
 ```
 
 [↑ Voltar às categorias](#catalog)

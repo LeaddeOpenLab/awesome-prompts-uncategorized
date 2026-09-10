@@ -71,20 +71,20 @@ Bài gốc：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/S
 
 <a name="prompt-2097888970994495736"></a>
 
-### Đang dịch
+### tạo hình ảnh tôi đang ngồi dậy quay lưng về phía máy ảnh, sau đó tôi đứng dậy và quay người lại để thực hiện vài cái chống đẩy
 
 Tác giả：[@RSOXART](https://x.com/RSOXART) · [Bài gốc](https://x.com/RSOXART/status/2097888970994495736)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** tạo hình ảnh tôi đang ngồi dậy quay lưng về phía máy ảnh, sau đó tôi đứng dậy và quay người lại để thực hiện vài cái chống đẩy
 
 <img src="covers/2097888970994495736.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+tạo hình ảnh tôi đang ngồi dậy quay lưng về phía máy ảnh, sau đó tôi đứng dậy và quay người lại để thực hiện vài cái chống đẩy
 ```
 
 [↑ Về danh mục](#catalog)

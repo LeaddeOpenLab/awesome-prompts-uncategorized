@@ -71,20 +71,20 @@ Traduzione in corso
 
 <a name="prompt-2097888970994495736"></a>
 
-### Traduzione in corso
+### generami mentre mi metto a sedere dando le spalle alla telecamera, poi mi alzo in piedi e mi giro per fare qualche flessione
 
 Autore：[@RSOXART](https://x.com/RSOXART) · [Post originale](https://x.com/RSOXART/status/2097888970994495736)
 
 Fotografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** generami mentre mi metto a sedere dando le spalle alla telecamera, poi mi alzo in piedi e mi giro per fare qualche flessione
 
 <img src="covers/2097888970994495736.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+generami mentre mi metto a sedere dando le spalle alla telecamera, poi mi alzo in piedi e mi giro per fare qualche flessione
 ```
 
 [↑ Torna alle categorie](#catalog)

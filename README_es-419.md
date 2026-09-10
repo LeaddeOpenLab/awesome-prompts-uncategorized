@@ -71,20 +71,20 @@ Traducción en curso
 
 <a name="prompt-2097888970994495736"></a>
 
-### Traducción en curso
+### genérame sentándome de espaldas a la cámara, luego me pongo de pie y me doy la vuelta para hacer unas cuantas lagartijas
 
 Autor：[@RSOXART](https://x.com/RSOXART) · [Publicación original](https://x.com/RSOXART/status/2097888970994495736)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** genérame sentándome de espaldas a la cámara, luego me pongo de pie y me doy la vuelta para hacer unas cuantas lagartijas
 
 <img src="covers/2097888970994495736.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+genérame sentándome de espaldas a la cámara, luego me pongo de pie y me doy la vuelta para hacer unas cuantas lagartijas
 ```
 
 [↑ Volver a categorías](#catalog)

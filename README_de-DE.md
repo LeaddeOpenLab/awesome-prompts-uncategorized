@@ -71,20 +71,20 @@ Originalbeitrag：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https
 
 <a name="prompt-2097888970994495736"></a>
 
-### Übersetzung läuft
+### Generiere mich, wie ich mich mit dem Rücken zur Kamera aufsetze, dann aufstehe und mich umdrehe, um ein paar Liegestütze zu machen
 
 Autor：[@RSOXART](https://x.com/RSOXART) · [Originalbeitrag](https://x.com/RSOXART/status/2097888970994495736)
 
 Fotografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generiere mich, wie ich mich mit dem Rücken zur Kamera aufsetze, dann aufstehe und mich umdrehe, um ein paar Liegestütze zu machen
 
 <img src="covers/2097888970994495736.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Generiere mich, wie ich mich mit dem Rücken zur Kamera aufsetze, dann aufstehe und mich umdrehe, um ein paar Liegestütze zu machen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
