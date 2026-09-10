@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T04:22:49.423Z",
+  "model": "unknown-image",
+  "prompt": "Ultra-realistic close-up portrait of a beautiful young woman with natural, delicate features, soft fair skin with subtle freckles and realistic skin texture, expressive hazel-green eyes looking slightly to the side, naturally defined eyebrows, soft pink lips, and a gentle confident expression. Her dark brown hair is styled in a loose, elegant messy updo with natural flyaway strands framing her face. She wears a romantic white textured dress with delicate ruffled short sleeves and a softly gathered neckline, paired with layered fine gold necklaces featuring tiny pearl details and small pendants, plus elegant dangling earrings.\n\nSoft warm natural studio lighting, neutral beige background, subtle shadows, realistic facial proportions, detailed hair strands, authentic skin pores and texture, natural makeup, soft blush, cinematic photography, shallow depth of field, 85mm portrait lens, f/1.8, high dynamic range, professional editorial photography, photorealistic, ultra-detailed, 8K quality, no CGI or artificial appearance.",
+  "promptTranslations": {
+    "en": "Ultra-realistic close-up portrait of a beautiful young woman with natural, delicate features, soft fair skin with subtle freckles and realistic skin texture, expressive hazel-green eyes looking slightly to the side, naturally defined eyebrows, soft pink lips, and a gentle confident expression. Her dark brown hair is styled in a loose, elegant messy updo with natural flyaway strands framing her face. She wears a romantic white textured dress with delicate ruffled short sleeves and a softly gathered neckline, paired with layered fine gold necklaces featuring tiny pearl details and small pendants, plus elegant dangling earrings.\n\nSoft warm natural studio lighting, neutral beige background, subtle shadows, realistic facial proportions, detailed hair strands, authentic skin pores and texture, natural makeup, soft blush, cinematic photography, shallow depth of field, 85mm portrait lens, f/1.8, high dynamic range, professional editorial photography, photorealistic, ultra-detailed, 8K quality, no CGI or artificial appearance."
+  },
+  "summaryTranslations": {
+    "en": "Realistic studio portrait of a young woman with hazel-green eyes, an updo hairstyle, and a ruffled white dress."
+  },
+  "translationVersion": 2,
+  "summary": "Realistic studio portrait of a young woman with hazel-green eyes, an updo hairstyle, and a ruffled white dress.",
+  "summaryEn": "Realistic studio portrait of a young woman with hazel-green eyes, an updo hairstyle, and a ruffled white dress.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097892780052013289",
+    "canonicalUrl": "https://x.com/oju689/status/2097892780052013289",
+    "author": {
+      "username": "oju689",
+      "displayName": "strike",
+      "profileUrl": "https://x.com/oju689"
+    },
+    "publishedAt": "2026-09-10T03:39:50.000Z",
+    "collectedAt": "2026-09-10T04:17:05.195Z",
+    "language": "en",
+    "originalText": "Prompt\n\nUltra-realistic close-up portrait of a beautiful young woman with natural, delicate features, soft fair skin with subtle freckles and realistic skin texture, expressive hazel-green eyes looking slightly to the side, naturally defined eyebrows, soft pink lips, and a gentle confident expression. Her dark brown hair is styled in a loose, elegant messy updo with natural flyaway strands framing her face. She wears a romantic white textured dress with delicate ruffled short sleeves and a softly gathered neckline, paired with layered fine gold necklaces featuring tiny pearl details and small pendants, plus elegant dangling earrings.\n\nSoft warm natural studio lighting, neutral beige background, subtle shadows, realistic facial proportions, detailed hair strands, authentic skin pores and texture, natural makeup, soft blush, cinematic photography, shallow depth of field, 85mm portrait lens, f/1.8, high dynamic range, professional editorial photography, photorealistic, ultra-detailed, 8K quality, no CGI or artificial appearance.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR02W8aakAAEKbm.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR02W8aakAAEKbm.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 1,
+      "replyCount": 10,
+      "quoteCount": 0,
+      "viewCount": 534
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/oju689/status/2097892780052013289",
+  "coverUrl": "https://pbs.twimg.com/media/HR02W8aakAAEKbm.jpg",
+  "coverPath": "images/2097892780052013289-1.jpg",
+  "imagePaths": [
+    "images/2097892780052013289-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR02W8aakAAEKbm",
+    "x-post:2097892780052013289"
+  ],
+  "analysis": {
+    "summary": "Realistic studio portrait of a young woman with hazel-green eyes, an updo hairstyle, and a ruffled white dress.",
+    "summaryEn": "Realistic studio portrait of a young woman with hazel-green eyes, an updo hairstyle, and a ruffled white dress.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image exactly depicts the woman, clothing, jewelry, lighting, and neutral backdrop described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic close-up portrait of a beautiful young woman with natural, delicate features, soft fair skin with subtle freckles and realistic skin texture, expressive hazel-green eyes looking slightly to the side, naturally defined eyebrows, soft pink lips, and a gentle confident expression. Her dark brown hair is styled in a loose, elegant messy updo with natural flyaway strands framing her face. She wears a romantic white textured dress with delicate ruffled short sleeves and a softly gathered neckline, paired with layered fine gold necklaces featuring tiny pearl details and small pendants, plus elegant dangling earrings.\n\nSoft warm natural studio lighting, neutral beige background, subtle shadows, realistic facial proportions, detailed hair strands, authentic skin pores and texture, natural makeup, soft blush, cinematic photography, shallow depth of field, 85mm portrait lens, f/1.8, high dynamic range, professional editorial photography, photorealistic, ultra-detailed, 8K quality, no CGI or artificial appearance.",
+    "sourceRange": {
+      "start": 8,
+      "end": 1041
+    },
+    "translations": {
+      "zh": "极写实特写肖像：面容精致美丽的年轻女子，浅色柔嫩肌肤略带雀斑与逼真纹理，浅褐绿色眼睛微向一侧看，自然眉形、淡粉色双唇与温和自信神态。深棕发挽成优雅微乱发髻伴有散碎发丝。身穿浪漫白色带褶皱短袖和抽褶领口连衣裙，佩戴叠搭精致珍珠坠金项链与垂坠耳环。\n\n柔和自然工作室光线，米色中性背景，逼真面部比例与发丝细节，真实毛孔，淡妆微腮红，浅景深85mm f/1.8人像摄影，高动态范围，专业时尚编辑摄影质感，8K超清逼真。",
+      "en": "Ultra-realistic close-up portrait of a beautiful young woman with natural, delicate features, soft fair skin with subtle freckles and realistic skin texture, expressive hazel-green eyes looking slightly to the side, naturally defined eyebrows, soft pink lips, and a gentle confident expression. Her dark brown hair is styled in a loose, elegant messy updo with natural flyaway strands framing her face. She wears a romantic white textured dress with delicate ruffled short sleeves and a softly gathered neckline, paired with layered fine gold necklaces featuring tiny pearl details and small pendants, plus elegant dangling earrings.\n\nSoft warm natural studio lighting, neutral beige background, subtle shadows, realistic facial proportions, detailed hair strands, authentic skin pores and texture, natural makeup, soft blush, cinematic photography, shallow depth of field, 85mm portrait lens, f/1.8, high dynamic range, professional editorial photography, photorealistic, ultra-detailed, 8K quality, no CGI or artificial appearance."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
