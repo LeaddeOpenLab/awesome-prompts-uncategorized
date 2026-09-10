@@ -975,20 +975,25 @@ Traduzione in corso
 
 <a name="prompt-2097915123516215548"></a>
 
-### Traduzione in corso
+### Sequenza video macro tilt-shift in miniatura che mostra minuscoli contadini aiutati da una mano umana gigante in quattro scene agricole.
 
 Autore：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Post originale](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sequenza video macro tilt-shift in miniatura che mostra minuscoli contadini aiutati da una mano umana gigante in quattro scene agricole.
 
 <img src="covers/2097915123516215548.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una sequenza video macro tilt-shift iperrealistica di un minuscolo mondo in miniatura. Il video mostra piccoli contadini in miniatura con abiti da lavoro tradizionali asiatici che interagiscono con elementi giganti della natura. 
+Scena 1: Minuscoli contadini lavorano vicino a un ruscello in miniatura con ninfee; una mano umana gigante si immerge, sollevando una ninfea con radici gocciolanti mentre l'acqua scorre dolcemente. 
+Scena 2: Contadini in miniatura faticano attorno a una pompa dell'acqua vintage arrugginita in un giardino; una mano umana gigante spinge la leva, facendo sgorgare l'acqua in un minuscolo secchio mentre loro esultano. 
+Scena 3: Contadini in miniatura con cappelli conici di paglia selezionano chicchi dorati in un campo sotto un cielo scuro e tempestoso mentre inizia a piovere; una mano umana gigante posiziona rapidamente una minuscola tenda di tela sopra di loro per proteggere il raccolto. 
+Scena 4: Minuscoli contadini lavorano con attrezzi da giardinaggio in miniatura su una foglia gigante di verdura con una grande chiocciola da giardino; una mano umana gigante solleva delicatamente la chiocciola e posiziona una minuscola staccionata di legno attorno alle coltivazioni. 
+Profondità di campo cinematografica, risoluzione 8k, estetica stop-motion combinata con uno stile di diorama in miniatura fotorealistico, movimento fluido e scorrevole --ar 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)

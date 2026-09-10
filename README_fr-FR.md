@@ -975,20 +975,25 @@ Traduction en cours
 
 <a name="prompt-2097915123516215548"></a>
 
-### Traduction en cours
+### Séquence vidéo miniature macro tilt-shift montrant de minuscules fermiers aidés par une main humaine géante à travers quatre scènes agricoles.
 
 Auteur：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Publication originale](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Séquence vidéo miniature macro tilt-shift montrant de minuscules fermiers aidés par une main humaine géante à travers quatre scènes agricoles.
 
 <img src="covers/2097915123516215548.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une séquence vidéo macro tilt-shift hyperréaliste d'un monde miniature minuscule. La vidéo met en scène de petits fermiers miniatures vêtus d'habits de travail traditionnels asiatiques, interagissant avec des éléments géants de la nature. 
+Scène 1 : De minuscules fermiers travaillent au bord d'un ruisseau miniature avec des nénuphars ; une main humaine géante plonge, soulevant un nénuphar aux racines ruisselantes tandis que l'eau s'écoule avec fluidité. 
+Scène 2 : Des fermiers miniatures peinent devant une pompe à eau vintage rouillée dans un jardin ; une main humaine géante abaisse le levier, faisant jaillir l'eau dans un minuscule seau alors qu'ils jubilent. 
+Scène 3 : Des fermiers miniatures coiffés de chapeaux de paille coniques trient des grains dorés dans un champ sous un ciel d'orage sombre alors que la pluie commence à tomber ; une main humaine géante place rapidement une minuscule tente en toile sur eux pour protéger la récolte. 
+Scène 4 : De minuscules fermiers travaillent avec des outils de jardinage miniatures sur une feuille de légume verte géante en présence d'un gros escargot de jardin ; une main humaine géante soulève délicatement l'escargot et installe une minuscule clôture en bois autour des cultures. 
+Profondeur de champ cinématographique, résolution 8k, esthétique stop-motion combinée à un style de diorama miniature photoréaliste, mouvement fluide et sans à-coups --ar 9:16
 ```
 
 [↑ Retour aux catégories](#catalog)

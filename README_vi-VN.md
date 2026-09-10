@@ -987,20 +987,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2097915123516215548"></a>
 
-### Đang dịch
+### Chuỗi video thu nhỏ macro tilt-shift cho thấy những người nông dân tí hon được trợ giúp bởi bàn tay người khổng lồ qua bốn cảnh làm nông.
 
 Tác giả：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Bài gốc](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuỗi video thu nhỏ macro tilt-shift cho thấy những người nông dân tí hon được trợ giúp bởi bàn tay người khổng lồ qua bốn cảnh làm nông.
 
 <img src="covers/2097915123516215548.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chuỗi video nhiếp ảnh macro tilt-shift siêu thực về một thế giới thu nhỏ tí hon. Video khắc họa những người nông dân tí hon trong trang phục lao động truyền thống châu Á đang tương tác với các yếu tố khổng lồ của thiên nhiên. Cảnh 1: Những người nông dân nhỏ bé đang làm việc bên dòng suối thu nhỏ có lá hoa súng; một bàn tay người khổng lồ nhúng xuống, nhấc một chiếc lá hoa súng với những chiếc rễ đang nhỏ nước trong khi dòng nước chảy êm đềm. Cảnh 2: Những người nông dân tí hon đang vất vả bên chiếc máy bơm nước cổ điển gỉ sét trong vườn; bàn tay người khổng lồ ấn cần gạt, khiến nước phun trào vào một chiếc xô tí hon trong sự reo hò của họ. Cảnh 3: Những người nông dân tí hon đội nón lá đang phân loại những hạt lúa vàng trên cánh đồng dưới bầu trời giông bão tối sầm khi mưa bắt đầu rơi; một bàn tay người khổng lồ nhanh chóng đặt một chiếc lều bạt nhỏ xíu che lên họ để bảo vệ mùa màng. Cảnh 4: Những người nông dân nhỏ bé sử dụng các dụng cụ làm vườn thu nhỏ trên một chiếc lá rau xanh khổng lồ có một con ốc sên lớn; một bàn tay người khổng lồ nhẹ nhàng nhấc con ốc sên đi và đặt một hàng rào gỗ tí hon xung quanh hoa màu. Độ sâu trường ảnh điện ảnh, độ phân giải 8k, tính thẩm mỹ tĩnh vật stop-motion kết hợp với phong cách sa bàn thu nhỏ chân thực như ảnh chụp, chuyển động mượt mà uyển chuyển --ar 9:16
 ```
 
 [↑ Về danh mục](#catalog)

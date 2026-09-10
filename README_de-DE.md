@@ -975,20 +975,25 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2097915123516215548"></a>
 
-### Übersetzung läuft
+### Tilt-Shift-Makro-Miniatur-Videosequenz, die winzige Bauern zeigt, denen eine riesige menschliche Hand in vier landwirtschaftlichen Szenen hilft.
 
 Autor：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Originalbeitrag](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Tilt-Shift-Makro-Miniatur-Videosequenz, die winzige Bauern zeigt, denen eine riesige menschliche Hand in vier landwirtschaftlichen Szenen hilft.
 
 <img src="covers/2097915123516215548.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine hyperrealistische Tilt-Shift-Makrofotografie-Videosequenz einer winzigen Miniaturwelt. Das Video zeigt kleine Miniaturbauern in traditioneller asiatischer Arbeitskleidung, die mit riesigen Elementen der Natur interagieren. 
+Szene 1: Winzige Bauern arbeiten an einem Miniaturbach mit Seerosenblättern; eine riesige menschliche Hand taucht ein und hebt ein Seerosenblatt mit tropfenden Wurzeln an, während das Wasser sanft fließt. 
+Szene 2: Miniaturbauern mühen sich an einer rostigen Vintage-Wasserpumpe in einem Garten ab; eine riesige menschliche Hand drückt den Hebel, sodass Wasser in einen winzigen Eimer strömt, während sie jubeln. 
+Szene 3: Miniaturbauern mit kegelförmigen Strohhüten sortieren goldene Körner auf einem Feld unter einem stürmischen, dunklen Himmel, als Regen einsetzt; eine riesige menschliche Hand platziert schnell ein winziges Segeltuchzelt über ihnen, um die Ernte zu schützen. 
+Szene 4: Winzige Bauern arbeiten mit Miniatur-Gartengeräten auf einem riesigen grünen Gemüseblatt mit einer großen Gartenschnecke; eine riesige menschliche Hand hebt die Schnecke sanft weg und platziert einen winzigen Holzzaun um die Feldfrüchte. 
+Kinematografische Schärfentiefe, 8k-Auflösung, Stop-Motion-Ästhetik kombiniert mit fotorealistischem Miniatur-Diorama-Stil, weiche, flüssige Bewegung --ar 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

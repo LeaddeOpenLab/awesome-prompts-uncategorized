@@ -975,20 +975,25 @@ Tradução em andamento
 
 <a name="prompt-2097915123516215548"></a>
 
-### Tradução em andamento
+### Sequência de vídeo macro tilt-shift em miniatura mostrando minúsculos agricultores auxiliados por uma mão humana gigante em quatro cenas agrícolas.
 
 Autor：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Publicação original](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Sequência de vídeo macro tilt-shift em miniatura mostrando minúsculos agricultores auxiliados por uma mão humana gigante em quatro cenas agrícolas.
 
 <img src="covers/2097915123516215548.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma sequência de vídeo de fotografia macro tilt-shift hiper-realista de um minúsculo mundo em miniatura. O vídeo apresenta pequenos fazendeiros em miniatura em roupas de trabalho tradicionais asiáticas interagindo com elementos gigantes da natureza. 
+Cena 1: Minúsculos fazendeiros trabalhando perto de um riacho em miniatura com folhas de vitória-régia; uma mão humana gigante mergulha, levantando uma folha com raízes gotejantes enquanto a água flui suavemente. 
+Cena 2: Fazendeiros em miniatura com dificuldades em uma bomba de água vintage enferrujada em um jardim; uma mão humana gigante empurra a alavanca, fazendo a água jorrar em um balde minúsculo enquanto eles comemoram. 
+Cena 3: Fazendeiros em miniatura com chapéus de palha cônicos separando grãos dourados em um campo sob um céu escuro e tempestuoso enquanto a chuva começa a cair; uma mão humana gigante posiciona rapidamente uma pequena tenda de lona sobre eles para proteger a colheita. 
+Cena 4: Minúsculos fazendeiros trabalhando com ferramentas de jardinagem em miniatura em uma folha de vegetal verde gigante com um grande caracol de jardim; uma mão humana gigante levanta delicadamente o caracol e coloca uma cerca de madeira minúscula ao redor das plantações. 
+Profundidade de campo cinematográfica, resolução 8k, estética stop-motion combinada com estilo de diorama fotorrealista em miniatura, movimento suave e fluido --ar 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)

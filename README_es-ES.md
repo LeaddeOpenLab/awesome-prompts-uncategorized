@@ -987,20 +987,20 @@ Traducción en curso
 
 <a name="prompt-2097915123516215548"></a>
 
-### Traducción en curso
+### Secuencia de video macro tilt-shift en miniatura que muestra a pequeños granjeros asistidos por una mano humana gigante en cuatro escenas agrícolas.
 
 Autor：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Publicación original](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia de video macro tilt-shift en miniatura que muestra a pequeños granjeros asistidos por una mano humana gigante en cuatro escenas agrícolas.
 
 <img src="covers/2097915123516215548.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una secuencia de video de fotografía macro tilt-shift hiperrealista de un diminuto mundo en miniatura. El video presenta a pequeños granjeros en miniatura con ropas de trabajo tradicionales asiáticas interactuando con elementos gigantescos de la naturaleza. Escena 1: Pequeños granjeros trabajando junto a un arroyo en miniatura con hojas de nenúfar; una mano humana gigante se sumerge, levantando una hoja de nenúfar con raíces goteantes mientras el agua fluye suavemente. Escena 2: Granjeros en miniatura esforzándose en una bomba de agua antigua y oxidada en un jardín; una mano humana gigante empuja la palanca, haciendo que el agua brote hacia un diminuto cubo mientras ellos vitorean. Escena 3: Granjeros en miniatura con sombreros cónicos de paja seleccionando granos dorados en un campo bajo un cielo oscuro de tormenta mientras comienza a llover; una mano humana gigante coloca rápidamente una diminuta tienda de lona sobre ellos para proteger la cosecha. Escena 4: Pequeños granjeros trabajando con herramientas de jardinería en miniatura sobre una hoja gigante de verdura con un caracol de jardín grande; una mano humana gigante levanta suavemente el caracol para apartarlo y coloca una diminuta valla de madera alrededor de los cultivos. Profundidad de campo cinematográfica, resolución 8k, estética de stop-motion combinada con un estilo de diorama en miniatura fotorrealista, movimiento fluido y suave --ar 9:16
 ```
 
 [↑ Volver a categorías](#catalog)

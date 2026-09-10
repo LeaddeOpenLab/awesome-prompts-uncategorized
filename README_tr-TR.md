@@ -975,20 +975,25 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2097915123516215548"></a>
 
-### Çeviri sürüyor
+### Dört çiftçilik sahnesinde dev bir insan eli tarafından yardım edilen minik çiftçileri gösteren tilt-shift makro minyatür video sekansı.
 
 Yazar：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Orijinal gönderi](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dört çiftçilik sahnesinde dev bir insan eli tarafından yardım edilen minik çiftçileri gösteren tilt-shift makro minyatür video sekansı.
 
 <img src="covers/2097915123516215548.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Küçücük bir minyatür dünyanın hiper gerçekçi tilt-shift makro fotoğrafçılığı video sekansı. Video, geleneksel Asya iş kıyafetleri giymiş küçük minyatür çiftçilerin doğanın devasa unsurlarıyla etkileşimini içeriyor. 
+1. Sahne: Minik çiftçiler, nilüfer yapraklarıyla dolu minyatür bir derenin kenarında çalışıyor; dev bir insan eli suya dalarak köklerinden sular damlayan bir nilüfer yaprağını kaldırırken su akıcı bir şekilde akıyor. 
+2. Sahne: Minyatür çiftçiler, bir bahçedeki paslı eski bir su pompasında zorlanıyor; dev bir insan eli kolu bastırarak minik bir kovaya su fışkırtıyor ve onlar tezahürat yapıyor. 
+3. Sahne: Konik hasır şapkalı minyatür çiftçiler, fırtınalı karanlık bir gökyüzü altında yağmur yağmaya başlarken bir tarlada altın sarısı taneleri ayırıyor; dev bir insan eli hasadı korumak için hızla üzerlerine minik bir branda çadır yerleştiriyor. 
+4. Sahne: Minik çiftçiler, büyük bir bahçe salyangozunun bulunduğu devasa yeşil bir sebze yaprağı üzerinde minyatür bahçe aletleriyle çalışıyor; dev bir insan eli salyangozu nazikçe uzaklaştırıyor ve ekinlerin etrafına minik ahşap bir çit yerleştiriyor. 
+Sinematik alan derinliği, 8k çözünürlük, fotogerçekçi minyatür diorama stiliyle birleştirilmiş stop-motion estetiği, pürüzsüz akıcı hareket --ar 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)

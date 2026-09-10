@@ -975,20 +975,25 @@ Traducción en curso
 
 <a name="prompt-2097915123516215548"></a>
 
-### Traducción en curso
+### Secuencia de video macro tilt-shift en miniatura que muestra a diminutos granjeros asistidos por una mano humana gigante en cuatro escenas agrícolas.
 
 Autor：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Publicación original](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Secuencia de video macro tilt-shift en miniatura que muestra a diminutos granjeros asistidos por una mano humana gigante en cuatro escenas agrícolas.
 
 <img src="covers/2097915123516215548.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una secuencia de video de fotografía macro tilt-shift hiperrealista de un diminuto mundo en miniatura. El video presenta a pequeños granjeros en miniatura con ropa de trabajo tradicional asiática interactuando con elementos gigantes de la naturaleza. 
+Escena 1: Diminutos granjeros trabajando junto a un arroyo en miniatura con nenúfares; una mano humana gigante se sumerge, levantando un nenúfar con raíces que gotean mientras el agua fluye suavemente. 
+Escena 2: Granjeros en miniatura batallando con una bomba de agua vintage oxidada en un jardín; una mano humana gigante empuja la palanca, haciendo que el agua brote a chorros en una pequeña cubeta mientras ellos vitorean. 
+Escena 3: Granjeros en miniatura con sombreros cónicos de paja seleccionando granos dorados en un campo bajo un cielo oscuro de tormenta mientras empieza a llover; una mano humana gigante coloca rápidamente una pequeña tienda de lona sobre ellos para proteger la cosecha. 
+Escena 4: Diminutos granjeros trabajando con herramientas de jardinería en miniatura sobre una hoja gigante de verdura con un gran caracol de jardín; una mano humana gigante levanta suavemente al caracol y coloca una pequeña cerca de madera alrededor de los cultivos. 
+Profundidad de campo cinematográfica, resolución 8k, estética stop-motion combinada con estilo de diorama en miniatura fotorrealista, movimiento fluido y suave --ar 9:16
 ```
 
 [↑ Volver a categorías](#catalog)

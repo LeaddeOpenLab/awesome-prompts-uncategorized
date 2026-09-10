@@ -975,20 +975,25 @@ Tradução em curso
 
 <a name="prompt-2097915123516215548"></a>
 
-### Tradução em curso
+### Sequência de vídeo macro tilt-shift em miniatura que mostra minúsculos agricultores auxiliados por uma mão humana gigante em quatro cenas agrícolas.
 
 Autor：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Publicação original](https://x.com/EthanAIBuilder/status/2097915123516215548)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Sequência de vídeo macro tilt-shift em miniatura que mostra minúsculos agricultores auxiliados por uma mão humana gigante em quatro cenas agrícolas.
 
 <img src="covers/2097915123516215548.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma sequência de vídeo de fotografia macro tilt-shift hiper-realista de um minúsculo mundo em miniatura. O vídeo apresenta pequenos agricultores em miniatura com roupas de trabalho tradicionais asiáticas a interagir com elementos gigantes da natureza. 
+Cena 1: Minúsculos agricultores a trabalhar junto a um ribeiro em miniatura com nenúfares; uma mão humana gigante mergulha, erguendo um nenúfar com raízes a gotejar enquanto a água corre suavemente. 
+Cena 2: Agricultores em miniatura com dificuldades numa bomba de água vintage enferrujada num jardim; uma mão humana gigante empurra a alavanca, fazendo a água jorrar para um balde minúsculo enquanto eles festejam. 
+Cena 3: Agricultores em miniatura com chapéus de palha cónicos a selecionar grãos dourados num campo sob um céu escuro de tempestade quando começa a chover; uma mão humana gigante coloca rapidamente uma minúscula tenda de lona sobre eles para proteger a colheita. 
+Cena 4: Minúsculos agricultores a trabalhar com ferramentas de jardinagem em miniatura numa folha gigante de vegetal verde com um grande caracol de jardim; uma mão humana gigante levanta delicadamente o caracol e coloca uma cerca de madeira minúscula em redor das colheitas. 
+Profundidade de campo cinematográfica, resolução 8k, estética stop-motion combinada com estilo de diorama fotorrealista em miniatura, movimento suave e fluido --ar 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)
