@@ -923,20 +923,20 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 
 <a name="prompt-2097951816675639459"></a>
 
-### Traduzione in corso
+### Una scena documentaristica di 15 secondi dei primi anni 2000 in cui un reporter intervista un alieno vicino a un'astronave atterrata, e l'alieno rivela di essere venuto sulla Terra per riscattare un coupon di McDonald's.
 
 Autore：[@DtheW1995](https://x.com/DtheW1995) · [Post originale](https://x.com/DtheW1995/status/2097951816675639459)
 
 Cyberpunk / Sci-Fi · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una scena documentaristica di 15 secondi dei primi anni 2000 in cui un reporter intervista un alieno vicino a un'astronave atterrata, e l'alieno rivela di essere venuto sulla Terra per riscattare un coupon di McDonald's.
 
 <img src="covers/2097951816675639459.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Filmato documentaristico televisivo ultra-realistico di 15 secondi dei primi anni 2000, girato con una videocamera MiniDV consumer da un solo operatore fisicamente presente. Di notte in un campo umido fuori da una cittadina americana. Una grande e autentica astronave aliena metallica è appena atterrata dietro ai soggetti, posandosi pesantemente nell'erba bagnata e schiacciata; la sua rampa è aperta, una debole luce interna filtra nella nebbia, la condensa gocciola dallo scafo ed è udibile un basso ronzio meccanico. Nessuna ricercatezza cinematografica: inquadratura traballante a spalla, zoom imperfetto, messa a fuoco automatica lenta, sbalzi di esposizione attorno alle luci intense, colori sbiaditi, movimento DV interlacciato, lieve rumore di nastro e artefatti di compressione.    0.0–2.0s — GANCIO: Inizia già nel bel mezzo della straordinaria intervista. Un nervoso reporter televisivo uomo si trova accanto a un alieno alto, magro ma biologicamente credibile, proprio di fronte all'astronave. Il reporter tiene un microfono per notiziari con filo verso di lui mentre la telecamera zooma rapidamente dall'astronave luminosa al volto dettagliato dell'alieno. L'alieno ha una pelle grigia umida e testurizzata, respirazione sottile, occhi neri che sbattono le palpebre e peso naturale; non è un costume e non è cartoonesco.    2.0–5.5s: In un unico piano sequenza a mano libera, il reporter guarda l'alieno e chiede seriamente in inglese: “Why did you come to Earth? What are you looking for?” Il suo modo di fare è cauto e professionale. L'operatore perde brevemente la messa a fuoco mentre reinquadra entrambi i volti, poi la corregge. L'alieno riflette silenziosamente sulla domanda per un secondo imbarazzante mentre la nave ronza dietro di loro.    5.5–11.5s — RISVOLTO IMPASSIBILE: L'alieno allunga lentamente la mano in una piccola custodia metallica fissata al suo corpo ed estrae un coupon di carta leggermente sgualcito. Solleva il coupon tra due dita lunghe e risponde con calma, in un inglese perfettamente comprensibile con una strana voce asciutta: “I came to redeem this coupon. Twenty-piece Chicken McNuggets, with sweet-and-sour sauce. At McDonald’s.” Il suo volto rimane del tutto serio. Il movimento della bocca corrisponde esclusivamente al dialogo dell'alieno.    11.5–15.0s — DOPO IL FATTO: Il reporter abbassa leggermente il microfono e fissa l'alieno con totale incredulità. La telecamera esegue un goffo zoom involontario sul coupon, per poi tornare sul volto confuso del reporter. L'alieno indica con fare pragmatico verso la cittadina lontana, come a chiedere indicazioni stradali. L'operatore cerca di reprimere una risata sommessa. Il reporter infine borbotta: “Right … okay.” Stacco netto e autentico in stile nastro.    AUDIO: dialogo in loco chiaro in inglese ma con l'imperfetta qualità dei microfoni dei primi anni 2000, vento leggero, erba bagnata sotto le scarpe, insetti in lontananza, ventilazione dell'astronave e ronzio elettrico. Niente musica, narrazione, effetti sonori da trailer o risate registrate. L'umorismo scaturisce interamente dal tono serio del documentario e dalla risposta assurdamente banale.    CONTINUITÀ / NEGATIVI: un solo reporter, un solo alieno, un solo operatore e una sola astronave; posizione della telecamera continua e fisicamente raggiungibile; nessun angolo di ripresa impossibile, persone o alieni duplicati, morphing, fluttuazione, teletrasporto, CGI cartoonesca, occhi magici luminosi, aggressività, armi, folla, sottotitoli, testo sullo schermo, coupon che cambia o microfono che cambia.
 ```
 
 [↑ Torna alle categorie](#catalog)

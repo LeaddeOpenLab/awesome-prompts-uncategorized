@@ -923,20 +923,20 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 
 <a name="prompt-2097951816675639459"></a>
 
-### Çeviri sürüyor
+### 2000'lerin başlarına ait, bir muhabirin iniş yapmış bir uzay gemisinin yanında bir uzaylıyla röportaj yaptığı ve uzaylının Dünya'ya bir McDonald's kuponunu kullanmak için geldiğini açıkladığı 15 saniyelik bir belgesel sahnesi.
 
 Yazar：[@DtheW1995](https://x.com/DtheW1995) · [Orijinal gönderi](https://x.com/DtheW1995/status/2097951816675639459)
 
 Siberpunk / Bilim Kurgu · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 2000'lerin başlarına ait, bir muhabirin iniş yapmış bir uzay gemisinin yanında bir uzaylıyla röportaj yaptığı ve uzaylının Dünya'ya bir McDonald's kuponunu kullanmak için geldiğini açıkladığı 15 saniyelik bir belgesel sahnesi.
 
 <img src="covers/2097951816675639459.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Fiziksel olarak alanda bulunan tek bir kameraman tarafından tüketici tipi bir MiniDV kamerayla çekilmiş, 15 saniyelik ultra gerçekçi 2000'lerin başı televizyon belgeseli görüntüleri. Küçük bir Amerikan kasabasının dışındaki nemli bir arazide gece vakti. Kişilerin hemen arkasına yeni iniş yapmış, ezilmiş ıslak çimlerin üzerinde ağır bir şekilde duran büyük ve otantik metalik bir uzaylı uzay gemisi; iniş rampası açık, soluk iç aydınlatma sise doğru yayılıyor, gövdeden yoğuşma suları damlıyor ve derinden gelen mekanik bir uğultu duyuluyor. Sinematik cila yok: omuzda taşınan sarsıntılı kadraj, kusurlu zoom, yavaş otomatik odaklama, parlak ışıkların etrafında pozlama dalgalanması, soluk renkler, titreşimli geçmeli DV hareketi, hafif kaset gürültüsü ve sıkıştırma piksellenmeleri. 0.0–2.0sn — KANCA: Sıra dışı röportajın doğrudan ortasında başlayın. Tedirgin bir erkek televizyon muhabiri, uzay gemisinin hemen önünde uzun, zayıf ancak biyolojik olarak inandırıcı bir uzaylının yanında duruyor. Kamera parıldayan gemiden uzaylının ayrıntılı yüzüne hızla yaklaşırken muhabir kablolu bir haber mikrofonunu ona doğru tutuyor. Uzaylı nemli, dokulu gri bir tene, hafif bir solunuma, kırpışan siyah gözlere ve doğal bir ağırlığa sahip; bir kostüm değil ve çizgi film gibi durmuyor. 2.0–5.5sn: Tek ve kesintisiz bir el kamerası planında muhabir uzaylıya doğru yukarı bakar ve İngilizce olarak ciddi bir ifadeyle sorar: “Why did you come to Earth? What are you looking for?” İfadesi temkinli ve profesyoneldir. Kameraman her iki yüzü yeniden kadraja alırken kısa süreliğine odağı kaybeder, ardından düzeltir. Arkalarında gemi uğuldarken uzaylı bir saniyelik tuhaf bir duraksamayla soruyu sessizce değerlendirir. 5.5–11.5sn — TEPKİSİZ (DEADPAN) ÇÖZÜM: Uzaylı yavaşça gövdesine iliştirilmiş küçük metalik bir keseye uzanır ve hafifçe buruşmuş bir kâğıt kupon çıkarır. Kuponu iki uzun parmağı arasında yukarı kaldırır ve garip, kuru bir sesle, sakin ve mükemmel anlaşılır bir İngilizceyle yanıt verir: “I came to redeem this coupon. Twenty-piece Chicken McNuggets, with sweet-and-sour sauce. At McDonald’s.” Yüzü tamamen ciddi kalır. Ağız hareketi yalnızca uzaylının diyaloğuyla eşleşir. 11.5–15.0sn — SONRASI: Muhabir mikrofonu hafifçe indirir ve tam bir şaşkınlıkla uzaylıya bakakalır. Kamera kupona doğru sakar, kazara bir zoom yapar ve ardından muhabirin kafası karışmış yüzüne geri döner. Uzaylı yol tarifi soruyormuşçasına uzaktaki kasabayı doğal bir tavırla işaret eder. Kameraman sessiz bir kıkırdamayı bastırmaya çalışır. Muhabir sonunda mırıldanır: “Right … okay.” Kaset tarzında ani ve otantik bir kesme. SES: temiz İngilizce mekân diyaloğu ancak kusurlu 2000'lerin başı mikrofon kalitesi, hafif rüzgâr, ayakkabıların altındaki ıslak çim sesleri, uzaktaki böcekler, uzay gemisi havalandırması ve elektriksel uğultu. Müzik, dış ses, fragman ses efektleri veya kahkaha efekti yok. Mizah tamamen belgeselin ciddi tonundan ve absürt derecede sıradan yanıttan kaynaklanmaktadır. DEVAMLILIK / NEGATİF UNSURLAR: yalnızca bir muhabir, bir uzaylı, bir kameraman ve bir uzay gemisi; kesintisiz ve fiziksel olarak ulaşılabilir kamera pozisyonu; imkânsız kamera açıları, mükerrer insanlar veya uzaylılar, biçim değiştirme (morphing), havada süzülme, ışınlanma, çizgi film CGI'ı, parlayan büyülü gözler, saldırganlık, silahlar, kalabalıklar, altyazılar, ekranda beliren metinler, değişen kupon veya değişen mikrofon olmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

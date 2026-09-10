@@ -935,20 +935,32 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 
 <a name="prompt-2097951816675639459"></a>
 
-### Traducción en curso
+### Una escena documental de 15 segundos de principios de los años 2000 en la que un reportero entrevista a un alienígena cerca de una nave espacial aterrizada, y el alienígena revela que vino a la Tierra para canjear un cupón de McDonald's.
 
 Autor：[@DtheW1995](https://x.com/DtheW1995) · [Publicación original](https://x.com/DtheW1995/status/2097951816675639459)
 
 Ciberpunk / Ciencia ficción · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una escena documental de 15 segundos de principios de los años 2000 en la que un reportero entrevista a un alienígena cerca de una nave espacial aterrizada, y el alienígena revela que vino a la Tierra para canjear un cupón de McDonald's.
 
 <img src="covers/2097951816675639459.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Metraje de documental televisivo ultrarrealista de principios de los años 2000 de 15 segundos de duración, grabado con una cámara MiniDV de consumo por un único camarógrafo físicamente presente. De noche en un campo húmedo a las afueras de un pequeño pueblo estadounidense. Una gran y auténtica nave espacial alienígena metálica acaba de aterrizar detrás de los sujetos, posándose pesadamente sobre la hierba húmeda y aplastada; su rampa está abierta, una pálida luz interior se proyecta en la niebla, la condensación gotea desde el casco y se oye un zumbido mecánico grave. Sin retoques cinematográficos: encuadre tembloroso cámara en hombro, zoom imperfecto, autoenfoque lento, fluctuaciones de exposición alrededor de las luces brillantes, colores deslavados, movimiento de vídeo entrelazado (DV), leve ruido de cinta y artefactos de compresión.
+
+0.0–2.0s — GANCHO: Comienza ya en mitad de la extraordinaria entrevista. Un nervioso reportero de televisión masculino está de pie junto a un alienígena alto, delgado pero biológicamente creíble, justo enfrente de la nave espacial. El reportero sostiene un micrófono de noticias con cable hacia él mientras la cámara hace un rápido zoom desde la nave resplandeciente hasta el detallado rostro del extraterrestre. El alienígena tiene una piel gris húmeda y texturizada, una respiración sutil, ojos negros que parpadean y un peso natural; no es un disfraz ni tiene aspecto de dibujo animado.
+
+2.0–5.5s: En una sola toma continua cámara en mano, el reportero mira al alienígena y le pregunta con seriedad en inglés: “Why did you come to Earth? What are you looking for?”. Su tono es cauto y profesional. El camarógrafo pierde el foco brevemente al reencuadrar ambos rostros y luego lo corrige. El alienígena reflexiona en silencio sobre la pregunta durante un segundo incómodo mientras la nave zumba a sus espaldas.
+
+5.5–11.5s — REMATE IMPASIBLE: El alienígena mete lentamente la mano en una pequeña bolsa metálica sujeta a su cuerpo y saca un cupón de papel ligeramente arrugado. Sostiene el cupón entre dos dedos largos y responde en un inglés tranquilo y perfectamente comprensible con una extraña voz seca: “I came to redeem this coupon. Twenty-piece Chicken McNuggets, with sweet-and-sour sauce. At McDonald’s.”. Su rostro permanece completamente serio. El movimiento de la boca coincide únicamente con el diálogo del alienígena.
+
+11.5–15.0s — DESENLACE: El reportero baja ligeramente el micrófono y mira al alienígena con total incredulidad. La cámara hace un torpe zoom accidental hacia el cupón y luego regresa a la cara de desconcierto del reportero. El alienígena señala con naturalidad hacia el pueblo distante como pidiendo indicaciones. El camarógrafo intenta contener una risa sorda. El reportero finalmente murmura: “Right … okay.”. Corte abrupto y auténtico estilo cinta de vídeo.
+
+AUDIO: diálogo limpio en directo en inglés, pero con la calidad imperfecta de los micrófonos de principios de los años 2000, viento ligero, hierba húmeda bajo los zapatos, insectos a lo lejos, ventilación de la nave espacial y zumbido eléctrico. Sin música, narración, efectos de sonido de tráiler ni risas enlatadas. El humor proviene enteramente del tono documental serio y de una respuesta absurdamente cotidiana.
+
+CONTINUIDAD / NEGATIVOS: un solo reportero, un solo alienígena, un solo camarógrafo y una sola nave espacial; posición de cámara continua y verosímil; sin ángulos de cámara imposibles, sin duplicación de personas o alienígenas, sin metamorfosis, levitación, teletransportación, CGI de dibujos animados, ojos mágicos brillantes, agresividad, armas, multitudes, subtítulos, texto en pantalla, cupones que cambian o micrófonos que cambian.
 ```
 
 [↑ Volver a categorías](#catalog)

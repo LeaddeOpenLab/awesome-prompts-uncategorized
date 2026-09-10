@@ -935,20 +935,32 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 
 <a name="prompt-2097951816675639459"></a>
 
-### Đang dịch
+### Một cảnh tài liệu dài 15 giây đầu những năm 2000, trong đó một phóng viên phỏng vấn một người ngoài hành tinh gần phi thuyền vừa hạ cánh, và người ngoài hành tinh tiết lộ rằng nó đến Trái Đất để đổi phiếu giảm giá McDonald's.
 
 Tác giả：[@DtheW1995](https://x.com/DtheW1995) · [Bài gốc](https://x.com/DtheW1995/status/2097951816675639459)
 
 Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một cảnh tài liệu dài 15 giây đầu những năm 2000, trong đó một phóng viên phỏng vấn một người ngoài hành tinh gần phi thuyền vừa hạ cánh, và người ngoài hành tinh tiết lộ rằng nó đến Trái Đất để đổi phiếu giảm giá McDonald's.
 
 <img src="covers/2097951816675639459.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh quay phim tài liệu truyền hình đầu những năm 2000 siêu thực tế dài 15 giây, được quay bằng máy quay MiniDV dân dụng bởi một người quay phim có mặt trực tiếp tại hiện trường. Ban đêm trên một cánh đồng ẩm ướt ngoài thị trấn nhỏ của Mỹ. Một phi thuyền người ngoài hành tinh bằng kim loại kích thước lớn vừa đáp xuống phía sau các nhân vật, đè nặng lên bãi cỏ ướt rạp xuống; cửa dốc của nó mở ra, ánh sáng mờ nhạt bên trong tràn vào sương mù, hơi nước ngưng tụ nhỏ giọt từ thân tàu và có thể nghe thấy tiếng vo ve cơ học trầm thấp. Không có sự trau chuốt kiểu điện ảnh: khung hình cầm trên vai rung lắc, thu phóng chưa hoàn hảo, tự động lấy nét chậm, độ phơi sáng dao động quanh các nguồn sáng chói, màu sắc bạc màu, chuyển động DV quét xen kẽ (interlaced), nhiễu băng nhẹ và các vết nén kỹ thuật số.
+
+0.0–2.0 giây — ĐOẠN MỞ ĐẦU HẤP DẪN: Bắt đầu ngay giữa cuộc phỏng vấn phi thường. Một nam phóng viên truyền hình đầy lo lắng đứng cạnh một người ngoài hành tinh cao, gầy nhưng hợp lý về mặt sinh học ngay trước phi thuyền. Phóng viên cầm micro tin tức có dây hướng về phía nó trong khi máy quay nhanh chóng phóng to từ con tàu phát sáng sang khuôn mặt chi tiết của người ngoài hành tinh. Người ngoài hành tinh có làn da xám ẩm ướt với kết cấu gồ ghề, hơi thở nhẹ nhàng, đôi mắt đen chớp chớp và trọng lượng tự nhiên; đó không phải là trang phục hóa trang và không mang tính hoạt hình.
+
+2.0–5.5 giây: Trong một cảnh quay cầm tay liền mạch, phóng viên ngước nhìn người ngoài hành tinh và hỏi một cách nghiêm túc bằng tiếng Anh: “Why did you come to Earth? What are you looking for?” Giọng điệu của anh ấy thận trọng và chuyên nghiệp. Người quay phim thoáng mất nét khi định khung lại cả hai khuôn mặt, sau đó chỉnh nét lại. Người ngoài hành tinh im lặng suy nghĩ về câu hỏi trong một giây ngượng ngùng trong khi con tàu vo ve phía sau họ.
+
+5.5–11.5 giây — CAO TRÀO TỈNH BƠ: Người ngoài hành tinh từ từ thò tay vào một chiếc túi nhỏ bằng kim loại gắn trên cơ thể và lấy ra một phiếu giảm giá bằng giấy hơi nhàu nát. Nó giơ phiếu giảm giá lên giữa hai ngón tay dài và trả lời bằng giọng khô khốc kỳ lạ nhưng bằng tiếng Anh điềm tĩnh, hoàn toàn dễ hiểu: “I came to redeem this coupon. Twenty-piece Chicken McNuggets, with sweet-and-sour sauce. At McDonald’s.” Khuôn mặt nó vẫn hoàn toàn nghiêm túc. Cử động miệng chỉ khớp với lời thoại của người ngoài hành tinh.
+
+11.5–15.0 giây — DƯ ÂM: Phóng viên hơi hạ micro xuống và nhìn chằm chằm vào người ngoài hành tinh với vẻ hoàn toàn không thể tin được. Máy quay vô tình phóng to một cách lúng túng vào phiếu giảm giá, sau đó quay lại khuôn mặt bối rối của phóng viên. Người ngoài hành tinh chỉ tay một cách bình thản về phía thị trấn xa xăm như thể đang hỏi đường. Người quay phim cố nén một tiếng cười khẽ. Phóng viên cuối cùng lẩm bẩm: “Right … okay.” Cắt cảnh đột ngột, chân thực đúng kiểu băng từ.
+
+ÂM THANH: Thoại hiện trường bằng tiếng Anh rõ ràng nhưng chất lượng micro đầu những năm 2000 không hoàn hảo, tiếng gió nhẹ, tiếng cỏ ướt dưới giày, tiếng côn trùng từ xa, tiếng thông gió và tiếng vo ve điện từ của phi thuyền. Không có âm nhạc, lời tường thuật, hiệu ứng âm thanh trailer hay tiếng cười đệm. Sự hài hước hoàn toàn đến từ giọng điệu tài liệu nghiêm túc và câu trả lời tầm thường đến mức phi lý.
+
+LIÊN TỤC / CÁC YẾU TỐ PHỦ ĐỊNH: Chỉ có một phóng viên, một người ngoài hành tinh, một người quay phim và một phi thuyền; vị trí máy quay liên tục, có thể với tới; không có góc máy quay bất khả thi, người hoặc người ngoài hành tinh bị trùng lặp, biến hình, lơ lửng, dịch chuyển tức thời, CGI kiểu hoạt hình, đôi mắt ma thuật phát sáng, hung hăng, vũ khí, đám đông, phụ đề, chữ trên màn hình, đổi phiếu giảm giá hoặc đổi micro.
 ```
 
 [↑ Về danh mục](#catalog)

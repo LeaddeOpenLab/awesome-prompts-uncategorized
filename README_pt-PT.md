@@ -923,20 +923,20 @@ Como teria sido o meu aspeto nos anos 1980? Usa a fotografia em anexo como refer
 
 <a name="prompt-2097951816675639459"></a>
 
-### Tradução em curso
+### Uma cena de documentário de 15 segundos do início dos anos 2000 em que um repórter entrevista um extraterrestre perto de uma nave espacial aterrada, e o extraterrestre revela que veio à Terra para utilizar um cupão da McDonald's.
 
 Autor：[@DtheW1995](https://x.com/DtheW1995) · [Publicação original](https://x.com/DtheW1995/status/2097951816675639459)
 
 Cyberpunk / Ficção Científica · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma cena de documentário de 15 segundos do início dos anos 2000 em que um repórter entrevista um extraterrestre perto de uma nave espacial aterrada, e o extraterrestre revela que veio à Terra para utilizar um cupão da McDonald's.
 
 <img src="covers/2097951816675639459.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Imagens de documentário de televisão ultrarrealistas de 15 segundos do início dos anos 2000, filmadas com uma câmara MiniDV de consumo por um operador de câmara fisicamente presente. Noite num campo húmido nos arredores de uma pequena localidade norte-americana. Uma grande nave espacial alienígena metálica e autêntica acabou de aterrar atrás dos sujeitos, assentando pesadamente na relva molhada e achatada; a sua rampa está aberta, uma luz interior ténue espalha-se pelo nevoeiro, a condensação escorre do casco e ouve-se um zumbido mecânico grave. Sem qualquer polimento cinematográfico: enquadramento trémulo ao ombro, zoom imperfeito, focagem automática lenta, oscilação de exposição perto de luzes brilhantes, cores desbotadas, movimento entrelaçado típico de DV, ligeiro ruído de fita e artefactos de compressão. 0.0–2.0s — GANCHO: Começa já a meio da extraordinária entrevista. Um repórter de televisão nervoso está ao lado de um extraterrestre alto, magro, mas biologicamente credível, diretamente em frente à nave espacial. O repórter estende um microfone de reportagem com fios na direção dele, enquanto a câmara faz um zoom rápido da nave brilhante para o rosto detalhado do extraterrestre. O extraterrestre tem pele cinzenta húmida e texturada, respiração subtil, olhos negros que piscam e peso natural; não é um fato nem é caricatural. 2.0–5.5s: Num único plano-sequência com câmara à mão, o repórter olha para o extraterrestre e pergunta com seriedade em inglês: “Why did you come to Earth? What are you looking for?” A sua entoação é cautelosa e profissional. O operador de câmara perde brevemente a focagem ao reenquadrar ambos os rostos, corrigindo-a de seguida. O extraterrestre reflete silenciosamente sobre a pergunta durante um segundo constrangedor enquanto a nave zumbe atrás de si. 5.5–11.5s — REMATE SÉRIO (DEADPAN): O extraterrestre enfia lentamente a mão numa pequena bolsa metálica presa ao corpo e retira um cupão de papel ligeiramente amarrotado. Segura o cupão entre dois dedos longos e responde num inglês calmo e perfeitamente inteligível, com uma voz estranha e seca: “I came to redeem this coupon. Twenty-piece Chicken McNuggets, with sweet-and-sour sauce. At McDonald’s.” O seu rosto permanece completamente sério. O movimento da boca corresponde exclusivamente ao diálogo do extraterrestre. 11.5–15.0s — DESFECHO: O repórter baixa ligeiramente o microfone e olha fixamente para o extraterrestre em total incredulidade. A câmara efetua um zoom acidental e desajeitado sobre o cupão, regressando depois ao rosto confuso do repórter. O extraterrestre aponta com naturalidade na direção da localidade distante como quem pede direções. O operador de câmara tenta suprimir um riso abafado. O repórter finalmente murmura: “Right … okay.” Corte abrupto e autêntico em estilo de fita magnética. ÁUDIO: diálogo de estúdio exterior limpo em inglês, mas com qualidade imperfeita de microfone do início dos anos 2000, vento fraco, relva molhada sob os sapatos, insetos distantes, ventilação da nave espacial e zumbido elétrico. Sem música, narração, efeitos sonoros de trailer ou risos gravados. O humor provém inteiramente do tom sério documental e da resposta absurdamente banal. CONTINUIDADE / NEGATIVOS: apenas um repórter, um extraterrestre, um operador de câmara e uma nave espacial; posição de câmara contínua e exequível; sem ângulos de câmara impossíveis, pessoas ou extraterrestres duplicados, morphing, flutuação, teletransporte, CGI estilo desenho animado, olhos mágicos brilhantes, agressividade, armas, multidões, legendas, texto no ecrã, alteração do cupão ou alteração do microfone.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -923,20 +923,20 @@ Como eu teria parecido nos anos 1980? Use a foto anexada como referência. Prese
 
 <a name="prompt-2097951816675639459"></a>
 
-### Tradução em andamento
+### Uma cena de documentário de 15 segundos do início dos anos 2000 em que um repórter entrevista um alienígena perto de uma nave espacial pousada, e o alienígena revela que veio à Terra para resgatar um cupom do McDonald's.
 
 Autor：[@DtheW1995](https://x.com/DtheW1995) · [Publicação original](https://x.com/DtheW1995/status/2097951816675639459)
 
 Cyberpunk / Ficção Científica · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma cena de documentário de 15 segundos do início dos anos 2000 em que um repórter entrevista um alienígena perto de uma nave espacial pousada, e o alienígena revela que veio à Terra para resgatar um cupom do McDonald's.
 
 <img src="covers/2097951816675639459.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Filmagem de documentário de televisão ultrarrealista de 15 segundos do início dos anos 2000, gravada em uma câmera MiniDV doméstica por um único operador de câmera fisicamente presente. Noite em um campo úmido nos arredores de uma pequena cidade americana. Uma grande nave espacial alienígena metálica autêntica acabou de pousar atrás das pessoas em cena, descansando pesadamente sobre a grama molhada e amassada; sua rampa está aberta, uma luz interior pálida transborda pela névoa, a condensação escorre do casco e um zumbido mecânico baixo é audível. Sem refinamento cinematográfico: enquadramento tremido na altura dos ombros, zoom imperfeito, foco automático lento, oscilação de exposição perto de luzes brilhantes, cores desbotadas, movimento entrelaçado de fita DV, ruído suave de fita e artefatos de compressão. 0.0–2.0s — GANCHO: Comece já no meio da entrevista extraordinária. Um repórter de TV nervoso está ao lado de um alienígena alto, magro, mas biologicamente crível, diretamente na frente da espaçonave. O repórter aponta um microfone de reportagem com fio em direção a ele, enquanto a câmera rapidamente dá zoom da nave brilhante para o rosto detalhado do alienígena. O alienígena tem pele cinza úmida e texturizada, respiração sutil, olhos pretos que piscam e peso natural; não é uma fantasia e não é caricato. 2.0–5.5s: Em um plano contínuo em câmera na mão, o repórter olha para o alienígena e pergunta seriamente em inglês: “Why did you come to Earth? What are you looking for?” Sua fala é cautelosa e profissional. O cinegrafista perde brevemente o foco ao reenquadrar os dois rostos e depois o corrige. O alienígena pondera silenciosamente sobre a pergunta por um segundo constrangedor enquanto a nave zumbe atrás deles. 5.5–11.5s — DESFECHO CÔMICO INEXPRESSIVO (DEADPAN): O alienígena estende lentamente a mão até uma pequena bolsa metálica presa ao seu corpo e remove um cupom de papel ligeiramente amassado. Ele ergue o cupom entre dois dedos longos e responde em um inglês calmo e perfeitamente compreensível, com uma voz estranha e seca: “I came to redeem this coupon. Twenty-piece Chicken McNuggets, with sweet-and-sour sauce. At McDonald’s.” Seu rosto permanece completamente sério. O movimento da boca corresponde unicamente ao diálogo do alienígena. 11.5–15.0s — CONSEQUÊNCIA: O repórter abaixa ligeiramente o microfone e encara o alienígena com total descrença. A câmera faz um zoom acidental e desajeitado no cupom e depois volta para o rosto confuso do repórter. O alienígena aponta com naturalidade para a cidade distante como se estivesse pedindo informações de caminho. O cinegrafista tenta abafar uma risada baixa. O repórter finalmente murmura: “Right … okay.” Corte abrupto e autêntico no estilo de fita de vídeo. ÁUDIO: diálogo de locação em inglês limpo, mas com qualidade de microfone imperfeita do início dos anos 2000, vento leve, grama molhada sob os sapatos, insetos distantes, ventilação da espaçonave e zumbido elétrico. Sem música, sem narração, sem efeitos sonoros de trailer ou claque de risadas. O humor vem inteiramente do tom sério de documentário e da resposta absurdamente mundana. CONTINUIDADE / NEGATIVOS: apenas um repórter, um alienígena, um operador de câmera e uma espaçonave; posição contínua e viável de câmera; sem ângulos de câmera impossíveis, pessoas ou alienígenas duplicados, morphing, flutuação, teletransporte, CGI cartunesco, olhos mágicos brilhantes, agressão, armas, multidões, legendas, texto na tela, cupom mutável ou microfone mutável.
 ```
 
 [↑ Voltar às categorias](#catalog)
