@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**23** Prompt · Bổ sung mới nhất: **2026-09-10**
+**24** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -625,6 +625,32 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097873409120096663"></a>
+
+### Đang dịch
+
+Tác giả：[@bama\_angel4life](https://x.com/bama_angel4life) · [Bài gốc](https://x.com/bama_angel4life/status/2097873409120096663)
+
+Kiến trúc / Nội thất · Phong cảnh / Thiên nhiên · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+Bài gốc：[@Gigi214TX](https://x.com/Gigi214TX) · [Bài gốc](https://x.com/Gigi214TX/status/2097866046187467111)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097873409120096663-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097873409120096663-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097853137080209799"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**23** Prompts · Latest addition: **2026-09-10**
+**24** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -661,6 +661,32 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097873409120096663"></a>
+
+### Origami-folded surreal futuristic city and a magnificent sunset architectural panorama.
+
+Author：[@bama\_angel4life](https://x.com/bama_angel4life) · [Source](https://x.com/bama_angel4life/status/2097873409120096663)
+
+Architecture / Interior · Landscape / Nature · Cityscape / Street · Published
+
+Source：[@Gigi214TX](https://x.com/Gigi214TX) · [Source](https://x.com/Gigi214TX/status/2097866046187467111)
+
+**Summary:** Origami-folded surreal futuristic city and a magnificent sunset architectural panorama.
+
+<img src="images/2097873409120096663-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097873409120096663-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+An entire futuristic city folded like origami, skyscrapers curving upward and then bending back underneath themselves, streets continuing vertically up walls, bridges twisting into loops, buildings growing from other buildings at impossible angles. Electric magenta, cyan, orange, lime, cobalt and metallic gold, glowing windows, reflective surfaces, brilliant sunset, surreal architectural masterpiece, extreme depth and detail.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097853137080209799"></a>
 

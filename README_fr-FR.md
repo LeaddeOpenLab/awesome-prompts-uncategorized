@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**23** Prompts · Dernier ajout: **2026-09-10**
+**24** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -613,6 +613,32 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097873409120096663"></a>
+
+### Traduction en cours
+
+Auteur：[@bama\_angel4life](https://x.com/bama_angel4life) · [Publication originale](https://x.com/bama_angel4life/status/2097873409120096663)
+
+Architecture / Intérieur · Paysage / Nature · Paysage urbain / Rue · Publié
+
+Publication originale：[@Gigi214TX](https://x.com/Gigi214TX) · [Publication originale](https://x.com/Gigi214TX/status/2097866046187467111)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097873409120096663-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097873409120096663-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097853137080209799"></a>
 

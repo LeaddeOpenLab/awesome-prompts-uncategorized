@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**23** Prompt · Son eklenen: **2026-09-10**
+**24** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -613,6 +613,32 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097873409120096663"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@bama\_angel4life](https://x.com/bama_angel4life) · [Orijinal gönderi](https://x.com/bama_angel4life/status/2097873409120096663)
+
+Mimari / İç Mekan · Manzara / Doğa · Şehir Manzarası / Sokak · Yayımlandı
+
+Orijinal gönderi：[@Gigi214TX](https://x.com/Gigi214TX) · [Orijinal gönderi](https://x.com/Gigi214TX/status/2097866046187467111)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097873409120096663-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097873409120096663-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097853137080209799"></a>
 

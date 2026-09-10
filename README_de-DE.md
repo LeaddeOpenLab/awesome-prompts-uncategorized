@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**23** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**24** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -613,6 +613,32 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097873409120096663"></a>
+
+### Übersetzung läuft
+
+Autor：[@bama\_angel4life](https://x.com/bama_angel4life) · [Originalbeitrag](https://x.com/bama_angel4life/status/2097873409120096663)
+
+Architektur / Interieur · Landschaft / Natur · Stadtbild / Straße · Veröffentlicht
+
+Originalbeitrag：[@Gigi214TX](https://x.com/Gigi214TX) · [Originalbeitrag](https://x.com/Gigi214TX/status/2097866046187467111)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097873409120096663-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097873409120096663-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097853137080209799"></a>
 

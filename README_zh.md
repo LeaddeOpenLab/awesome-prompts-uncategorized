@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**23** 条内容 · 最新收录: **2026-09-10**
+**24** 条内容 · 最新收录: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -620,6 +620,32 @@ CGI毛发、
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2097873409120096663"></a>
+
+### 翻译中
+
+作者：[@bama\_angel4life](https://x.com/bama_angel4life) · [查看 X 原帖](https://x.com/bama_angel4life/status/2097873409120096663)
+
+建筑 / 室内设计 · 风景 / 自然 · 城市风光 / 街道 · 已推流
+
+查看 X 原帖：[@Gigi214TX](https://x.com/Gigi214TX) · [查看 X 原帖](https://x.com/Gigi214TX/status/2097866046187467111)
+
+**概括:** 翻译中
+
+<img src="images/2097873409120096663-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2097873409120096663-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097853137080209799"></a>
 
