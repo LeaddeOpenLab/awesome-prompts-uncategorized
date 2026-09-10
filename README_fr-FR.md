@@ -864,13 +864,13 @@ Traduction en cours
 
 <a name="prompt-2097935645037793537"></a>
 
-### Traduction en cours
+### Prompt de portrait automnal en pied en sous-bois avec verrouillage du visage, pose accroupie détaillée, veste en cuir, béret et contre-jour chaud.
 
 Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2097935645037793537)
 
 Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait automnal en pied en sous-bois avec verrouillage du visage, pose accroupie détaillée, veste en cuir, béret et contre-jour chaud.
 
 <img src="images/2097935645037793537-1.jpg" alt="Image 1" width="480" />
 
@@ -879,7 +879,21 @@ Portrait / Selfie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+**Référence d'IDENTITÉ DU VISAGE. PRIORITÉ ABSOLUE — VERROUILLAGE D'IDENTITÉ FACIALE 1:1.** Préserver la personne réelle EXACTE de l'image dans son ensemble : identité exacte, âge réel, géométrie faciale, proportions, asymétrie naturelle, forme/couleur exactes des yeux et couleur de BASE exacte des cheveux DE L'image. ZÉRO reconstruction faciale, embellissement, amincissement, correction de symétrie ou visage IA générique.
+
+**SCÈNE — VERROUILLAGE STRICT.** Portrait automnal vertical en pied dans un parc boisé au sol couvert de feuilles et feuilles d'érable virevoltantes. Une femme est accroupie bas au centre-droit, large sourire naturel, regard levé vers la GAUCHE DE L'IMAGE. Bokeh de forêt ambré ; soleil bas en haut à DROITE DE L'IMAGE.
+
+**CAMÉRA —** du béret aux bottes ; genou relevé imposant au premier plan inférieur, tête dans le tiers supérieur. Caméra à hauteur de taille assise, légèrement sur la GAUCHE DE L'IMAGE, distance proche-moyenne, orientée doucement vers le haut ; perspective naturelle 50–70 mm. Genou proche/main avant modérément plus grands ; visage non déformé.
+
+**POSE —** torse droit, bassin bas/en arrière, épaules aux 3/4 vers la GAUCHE DE L'IMAGE, menton levé. Épaule DROITE → coude plié → poignet détendu → paume ouverte vers le haut vers la GAUCHE DE L'IMAGE, 5 doigts. Épaule GAUCHE → coude plié → poignet → paume ouverte vers le haut face à la caméra à hauteur de poitrine, 5 doigts. Genou DROIT au plus près de l'objectif, pied droit posé en bas au centre. Jambe GAUCHE repliée plus bas/plus en arrière, appui principal. Mains sur des plans de profondeur distincts.
+
+**CHEVEUX/PEAU/MAQUILLAGE —** longues ondulations lâches sous le béret, plus volumineuses, denses, soyeuses, dimensionnelles, racines aérées ; couleur de BASE exacte de l'image, ~10 % plus froide. Peau HUMAINE RÉELLE nettement hâlée et dorée par le soleil, éclat satiné, reflets délicats, pores, microtexture, duvet, rehauts irréguliers. Yeux vivants, humides, lumineux, HUMAINS ; iris réaliste, ligne d'eau humide, petits reflets de lumière. Sourcils soignés, fard fumé cuivre-bordeaux, trait de liner net, cils séparés pelucheux TRÈS LONGS TRÈS DENSES, modelage/bronzer, enlumineur maîtrisé, lèvres texturées nude-rosé, finition satinée raffinée.
+
+**TENUE —** béret en laine de qualité supérieure rouge rouille profond ; veste motarde ajustée en cuir véritable noir, grain/coutures/fermetures éclair visibles, reflets maîtrisés ; minijupe lourde bordeaux foncé ; collants noirs transparents ; bottines à lacets et talon bloc en cuir noir. Matériaux tactiles haut de gamme.
+
+**LUMIÈRE/PROFONDEUR —** contre-jour doré et chaud en haut à DROITE DE L'IMAGE, doux débouchage frontal, débouchage négatif à GAUCHE DE L'IMAGE, liseré lumineux sur les cheveux/béret. Feuilles au premier plan → sujet → troncs flous/bokeh ambré ; profondeur de champ réaliste, séparation atmosphérique, grain organique fin ; capturé, non rendu.
+
+**PAS DE** dérive d'identité, yeux sans vie, cheveux plats, peau plastique, mains cassées, doigts/membres supplémentaires, accroupissement incorrect, lumière plate, CGI.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -876,13 +876,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2097935645037793537"></a>
 
-### Đang dịch
+### Lời nhắc chân dung toàn thân trong rừng mùa thu với khóa khuôn mặt, tư thế ngồi xổm chi tiết, áo khoác da, mũ nồi và ánh sáng ngược ấm áp.
 
 Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2097935645037793537)
 
 Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung toàn thân trong rừng mùa thu với khóa khuôn mặt, tư thế ngồi xổm chi tiết, áo khoác da, mũ nồi và ánh sáng ngược ấm áp.
 
 <img src="images/2097935645037793537-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -891,7 +891,7 @@ Chân dung / Ảnh tự chụp · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+**Tham chiếu NHẬN DIỆN KHUÔN MẶT. ƯU TIÊN TUYỆT ĐỐI — KHÓA NHẬN DIỆN KHUÔN MẶT 1:1.** Giữ lại CHÍNH XÁC người thật từ hình ảnh một cách toàn diện: nhận diện chính xác, tuổi thật, hình học khuôn mặt, tỷ lệ, sự bất đối xứng tự nhiên, hình dạng/màu mắt chính xác và màu tóc GỐC chính xác TỪ Hình ảnh. KHÔNG tái tạo khuôn mặt, làm đẹp, làm thon gọn, chỉnh sửa đối xứng hoặc khuôn mặt AI chung chung. **BỐI CẢNH — KHÓA NGHIÊM NGẶT.** Chân dung toàn thân theo chiều dọc mùa thu trong công viên nhiều cây cối với mặt đất phủ đầy lá và lá phong rơi lơ lửng. Người phụ nữ ngồi xổm thấp ở giữa bên phải, nụ cười tự nhiên rạng rỡ, ánh mắt ngước nhìn về PHÍA TRÁI HÌNH ẢNH. Hiệu ứng bokeh rừng màu hổ phách; mặt trời thấp ở góc TRÊN BÊN PHẢI HÌNH ẢNH. **MÁY ẢNH —** từ mũ nồi đến ủng; đầu gối nâng cao chiếm diện tích lớn ở tiền cảnh bên dưới, đầu ở một phần ba phía trên. Máy ảnh ở độ cao ngang eo khi ngồi, hơi lệch về PHÍA TRÁI HÌNH ẢNH, khoảng cách gần-trung bình, hơi hướng lên trên; góc nhìn 50–70mm tự nhiên. Đầu gối gần/bàn tay đưa về phía trước lớn hơn vừa phải; khuôn mặt không bị biến dạng. **TƯ THẾ —** thân trên thẳng đứng, xương chậu thấp/về phía sau, vai chếch 3/4 về PHÍA TRÁI HÌNH ẢNH, cằm nâng lên. Vai PHẢI → khuỷu tay gập → cổ tay thư giãn → lòng bàn tay mở ngửa hướng về PHÍA TRÁI HÌNH ẢNH, 5 ngón tay. Vai TRÁI → khuỷu tay gập → cổ tay → lòng bàn tay mở ngửa hướng về phía máy ảnh ở ngang ngực, 5 ngón tay. Đầu gối PHẢI gần ống kính nhất, bàn chân phải đặt vững ở giữa phía dưới. Chân TRÁI gập thấp hơn/lùi xa hơn về phía sau, là điểm tựa chính. Hai bàn tay ở các mặt phẳng độ sâu riêng biệt. **TÓC/DA/TRANG ĐIỂM —** sóng tóc dài buông xõa dưới mũ nồi, dày dặn hơn, mượt mà, đa chiều, chân tóc bồng bềnh; màu GỐC chính xác từ Hình ảnh, lạnh hơn khoảng 10%. Làn da NGƯỜI THẬT rám nắng vàng óng rõ rệt như được hôn bởi ánh nắng, độ sáng bóng mịn như lụa, ánh nhũ tinh tế, lỗ chân lông, kết cấu vi mô, lông tơ mịn, các điểm sáng không đều. Đôi mắt sống động, ẩm ướt, sáng ngời, ĐẬM CHẤT CON NGƯỜI; mống mắt chân thực, đường viền ướt, đốm sáng phản chiếu nhỏ. Lông mày được tỉa tót, bóng mắt khói màu đồng-đỏ burgundy, đường kẻ mắt sắc nét, lông mi CỰC DÀI CỰC DÀY tơi xốp tách sợi, tạo khối/bronzer, phấn bắt sáng có kiểm soát, đôi môi vân màu hồng nude, lớp hoàn thiện satin tinh tế. **TRANG PHỤC —** mũ nồi len cao cấp màu đỏ gỉ sắt đậm; áo khoác da thật kiểu biker ôm vừa vặn màu đen, thấy rõ vân da/đường may/khóa kéo, độ phản chiếu được kiểm soát; chân váy ngắn dày dặn màu đỏ burgundy sẫm; quần tất đen mỏng xuyên thấu; bốt cổ chân gót vuông buộc dây bằng da màu đen. Chất liệu cao cấp cho cảm giác xúc giác rõ rệt. **ÁNH SÁNG/ĐỘ SÂU —** ánh sáng ngược màu vàng ấm áp ở góc TRÊN BÊN PHẢI HÌNH ẢNH, ánh sáng lấp đầy phía trước nhẹ nhàng, ánh sáng lấp âm ở PHÍA TRÁI HÌNH ẢNH, viền sáng trên tóc/mũ nồi. Lá tiền cảnh → chủ thể → thân cây mờ/bokeh hổ phách; DOF thực tế, sự tách biệt không gian khí quyển, hạt nhiễu hữu cơ mịn; được chụp lại, không phải kết xuất đồ họa 3D. **KHÔNG** trôi dạt nhận diện, mắt vô hồn, tóc bẹp xẹp, da nhựa, bàn tay biến dạng, thừa ngón/chi, ngồi xổm sai tư thế, ánh sáng phẳng lì, CGI.
 ```
 
 [↑ Về danh mục](#catalog)

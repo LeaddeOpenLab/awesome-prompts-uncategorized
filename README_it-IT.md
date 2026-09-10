@@ -864,13 +864,13 @@ Traduzione in corso
 
 <a name="prompt-2097935645037793537"></a>
 
-### Traduzione in corso
+### Prompt per ritratto autunnale a figura intera nel bosco con blocco del volto, dettagliata posa accovacciata, giacca di pelle, berretto e calda controluce.
 
 Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2097935645037793537)
 
 Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto autunnale a figura intera nel bosco con blocco del volto, dettagliata posa accovacciata, giacca di pelle, berretto e calda controluce.
 
 <img src="images/2097935645037793537-1.jpg" alt="Immagine 1" width="480" />
 
@@ -879,7 +879,21 @@ Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+**Riferimento IDENTITÀ DEL VOLTO. PRIORITÀ ASSOLUTA — BLOCCO DELL'IDENTITÀ FACCIALE 1:1.** Preservare l'ESATTA persona reale dall'immagine nel suo insieme: identità esatta, età reale, geometria facciale, proporzioni, asimmetria naturale, forma/colore esatti degli occhi ed esatto colore BASE dei capelli DALL'immagine. ZERO ricostruzione facciale, abbellimento, snellimento, correzione della simmetria o volto generico da IA.
+
+**SCENA — BLOCCO RIGIDO.** Ritratto autunnale verticale a figura intera in un parco boschivo con terreno coperto di foglie e foglie d'acero fluttuanti. La donna è accovacciata in basso a centro-destra, ampio sorriso naturale, sguardo sollevato verso SINISTRA DELL'IMMAGINE. Bokeh forestale ambrato; sole basso in alto a DESTRA DELL'IMMAGINE.
+
+**FOTOCAMERA —** dal berretto agli stivali; ginocchio sollevato grande in primo piano in basso, testa nel terzo superiore. Fotocamera ad altezza vita da seduta, leggermente a SINISTRA DELL'IMMAGINE, distanza medio-ravvicinata, dolcemente verso l'alto; prospettiva naturale a 50–70 mm. Ginocchio vicino/mano in avanti moderatamente più grandi; volto non distorto.
+
+**POSA —** busto eretto, bacino basso/indietro, spalle a 3/4 verso SINISTRA DELL'IMMAGINE, mento sollevato. Spalla DESTRA → gomito piegato → polso rilassato → palmo aperto verso l'alto verso SINISTRA DELL'IMMAGINE, 5 dita. Spalla SINISTRA → gomito piegato → polso → palmo aperto verso l'alto verso la fotocamera ad altezza petto, 5 dita. Ginocchio DESTRO più vicino all'obiettivo, piede destro piantato in basso al centro. Gamba SINISTRA piegata più in basso/più indietro, sostegno principale. Mani su piani di profondità separati.
+
+**CAPELLI/PELLE/TRUCCO —** lunghe onde sciolte sotto il berretto, più piene, dense, setose, dimensionali, radici ariose; colore BASE esatto dall'immagine, ~10% più freddo. Pelle UMANA REALE visibilmente dorata-abbronzata baciata dal sole, luminosità satinata, delicata lucentezza, pori, microtrama, peluria fine, riflessi irregolari. Occhi vivi, umidi, luminosi, UMANI; iride realistica, rima palpebrale umida, piccoli punti luce. Sopracciglia curate, ombretto smokey rame-bordeaux, eyeliner netto, ciglia separate vaporose MOLTO LUNGHE MOLTO DENSE, contouring/terra, illuminante controllato, labbra texturizzate nude-rosate, finitura satinata raffinata.
+
+**OUTFIT —** berretto in lana pregiata rosso ruggine intenso; giacca biker aderente in vera pelle nera, grana/cuciture/cerniere visibili, riflessi controllati; minigonna pesante bordeaux scuro; collant neri velati; stivaletti stringati in pelle nera con tacco a blocco. Materiali tattili di prima qualità.
+
+**LUCE/PROFONDITÀ —** calda controluce dorata in alto a DESTRA DELL'IMMAGINE, morbido riempimento frontale, riempimento negativo a SINISTRA DELL'IMMAGINE, luce radente su capelli/berretto. Foglie in primo piano → soggetto → tronchi sfocati/bokeh ambrato; profondità di campo realistica, separazione atmosferica, grana organica fine; scattato, non renderizzato.
+
+**NESSUNA** perdita di identità, occhi spenti, capelli piatti, pelle di plastica, mani deformate, dita/arti extra, accovacciamento errato, luce piatta, CGI.
 ```
 
 [↑ Torna alle categorie](#catalog)

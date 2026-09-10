@@ -864,13 +864,13 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2097935645037793537"></a>
 
-### Übersetzung läuft
+### Herbstliches Ganzkörper-Waldporträt-Prompt mit Gesichtssperre, detaillierter Hocke-Pose, Lederjacke, Barett und warmem Gegenlicht.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2097935645037793537)
 
 Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Herbstliches Ganzkörper-Waldporträt-Prompt mit Gesichtssperre, detaillierter Hocke-Pose, Lederjacke, Barett und warmem Gegenlicht.
 
 <img src="images/2097935645037793537-1.jpg" alt="Bild 1" width="480" />
 
@@ -879,7 +879,21 @@ Porträt / Selfie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+**GESICHTSIDENTITÄT-Referenz. ABSOLUTE PRIORITÄT — GESICHTSIDENTITÄTS-SPERRE 1:1.** Die EXAKTE reale Person aus dem Bild als Ganzes bewahren: exakte Identität, reales Alter, Gesichtsgeometrie, Proportionen, natürliche Asymmetrie, exakte Augenform/-farbe und exakte BASIS-Haarfarbe AUS dem Bild. NULL Gesichtsrekonstruktion, Verschönerung, Verschlankung, Symmetriekorrektur oder generisches KI-Gesicht.
+
+**SZENE — STRIKTE SPERRE.** Vertikales Ganzkörper-Herbstporträt in einem waldreichen Park mit laubbedecktem Boden und herabsegelnden Ahornblättern. Frau hockt tief mittig-rechts, breites natürliches Lächeln, Blick gehoben nach BILD-LINKS. Bernsteinfarbenes Wald-Bokeh; tiefstehende Sonne oben BILD-RECHTS.
+
+**KAMERA —** Barett bis Stiefel; angehobenes Knie groß im unteren Vordergrund, Kopf im oberen Drittel. Kamera auf Sitz-Taillenhöhe, leicht BILD-LINKS, Nah-Mittel-Distanz, sanft nach oben gerichtet; natürliche 50–70mm-Perspektive. Nahes Knie/vordere Hand mäßig größer; Gesicht unverzerrt.
+
+**POSE —** Oberkörper aufrecht, Becken tief/hinten, Schultern 3/4 BILD-LINKS, Kinn gehoben. RECHTE Schulter → gebeugter Ellbogen → entspanntes Handgelenk → offene Handfläche nach oben BILD-LINKS, 5 Finger. LINKE Schulter → gebeugter Ellbogen → Handgelenk → offene Handfläche nach oben zur Kamera auf Brusthöhe, 5 Finger. RECHTES Knie am nächsten zum Objektiv, rechter Fuß unten mittig aufgestellt. LINKES Bein tiefer/weiter hinten angewinkelt, Hauptstütze. Hände auf getrennten Tiefenebenen.
+
+**HAARE/HAUT/MAKE-UP —** lange lockere Wellen unter dem Barett, fülliger, dicht, seidig, dimensional, luftige Ansätze; exakte BASIS-Farbe aus dem Bild, ~10 % kühler. Spürbar goldbraun gebräunte, sonnengeküsste ECHTE MENSCHLICHE Haut, seidenmatte Leuchtkraft, zarter Schimmer, Poren, Mikrotextur, feiner Flaum, unregelmäßige Glanzlichter. Augen lebendig, feucht, leuchtend, MENSCHLICH; realistische Iris, feuchte Wasserlinie, kleine Glanzpunkte. Gepflegte Brauen, kupfer-bordeauxfarbener Smokey-Lidschatten, sauberer Lidstrich, SEHR LANGE SEHR DICHTE flauschig getrennte Wimpern, Konturierung/Bronzer, kontrollierter Highlighter, rosig-nude strukturierte Lippen, edles Satin-Finish.
+
+**OUTFIT —** tief rostartig-rotes Premium-Wollbarett; taillierte schwarze Bikerjacke aus echtem Leder, sichtbare Narbung/Nähte/Reißverschlüsse, kontrollierte Reflexionen; schwerer Minirad in dunklem Bordeaux; transparente schwarze Strumpfhose; schwarze Schnürstiefeletten aus Leder mit Blockabsatz. Hochwertige, fühlbare Materialien.
+
+**LICHT/TIEFE —** warmes goldenes Gegenlicht oben BILD-RECHTS, weiche frontale Aufhellung, Negativ-Aufhellung BILD-LINKS, Kantenlicht auf Haar/Barett. Vordergrund-Blätter → Motiv → unscharfe Stämme/bernsteinfarbenes Bokeh; realistische Tiefenschärfe, atmosphärische Trennung, feine organische Körnung; fotografiert, nicht gerendert.
+
+**KEINE** Identitätsdrift, toten Augen, flaches Haar, Plastikhaut, deformierten Hände, zusätzlichen Finger/Gliedmaßen, falsche Hocke, flaches Licht, CGI.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

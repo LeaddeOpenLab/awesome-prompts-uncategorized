@@ -864,13 +864,13 @@ Tradução em andamento
 
 <a name="prompt-2097935645037793537"></a>
 
-### Tradução em andamento
+### Prompt de retrato de outono de corpo inteiro em bosque com bloqueio de rosto, pose agachada detalhada, jaqueta de couro, boina e luz de fundo quente.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2097935645037793537)
 
 Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato de outono de corpo inteiro em bosque com bloqueio de rosto, pose agachada detalhada, jaqueta de couro, boina e luz de fundo quente.
 
 <img src="images/2097935645037793537-1.jpg" alt="Imagem 1" width="480" />
 
@@ -879,7 +879,21 @@ Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+**Referência de IDENTIDADE FACIAL. PRIORIDADE ABSOLUTA — BLOQUEIO DE IDENTIDADE FACIAL 1:1.** Preservar a pessoa real EXATA da imagem como um todo: identidade exata, idade real, geometria facial, proporções, assimetria natural, formato/cor exatos dos olhos e cor BASE exata do cabelo DA Imagem. ZERO reconstrução facial, embelezamento, afinamento, correção de simetria ou rosto genérico de IA.
+
+**CENA — BLOQUEIO ESTRITO.** Retrato vertical de corpo inteiro no outono em um parque arborizado com chão coberto de folhas e folhas de bordo flutuando. Mulher agachada no centro-direita baixo, sorriso amplo e natural, olhar elevado para a ESQUERDA DA IMAGEM. Bokeh âmbar da floresta; sol baixo na parte superior DIREITA DA IMAGEM.
+
+**CÂMERA —** da boina às botas; joelho levantado grande no primeiro plano inferior, cabeça no terço superior. Câmera na altura da cintura sentada, ligeiramente à ESQUERDA DA IMAGEM, distância média-próxima, suavemente para cima; perspectiva natural de 50–70mm. Joelho próximo/mão frontal moderadamente maiores; rosto sem distorções.
+
+**POSE —** tronco ereto, quadril baixo/atrás, ombros 3/4 para a ESQUERDA DA IMAGEM, queixo erguido. Ombro DIREITO → cotovelo dobrado → pulso relaxado → palma aberta voltada para cima para a ESQUERDA DA IMAGEM, 5 dedos. Ombro ESQUERDO → cotovelo dobrado → pulso → palma aberta voltada para cima em direção à câmera na altura do peito, 5 dedos. Joelho DIREITO mais próximo da lente, pé direito apoiado no centro inferior. Perna ESQUERDA dobrada mais abaixo/mais atrás, apoio principal. Mãos em planos de profundidade distintos.
+
+**CABELO/PELE/MAQUIAGEM —** ondas longas e soltas sob a boina, mais cheias, densas, sedosas, dimensionais, raízes volumosas; cor BASE exata da Imagem, ~10% mais fria. Pele HUMANA REAL visivelmente bronzeada de sol/dourada, luminosidade acetinada, brilho delicado, poros, microtextura, penugem, reflexos irregulares. Olhos vivos, úmidos, luminosos, HUMANOS; íris realista, linha d'água, pequenos brilhos nos olhos (catchlights). Sobrancelhas arrumadas, sombra esfumada cobre-borgonha, delineador limpo, cílios MUITO LONGOS, MUITO DENSOS, volumosos e separados, contorno/bronzer, iluminador controlado, lábios nude-rosados texturizados, acabamento acetinado refinado.
+
+**ROUPA —** boina de lã premium vermelho-ferrugem escuro; jaqueta perfecto de couro legítimo preto ajustada, granulação/costuras/zíperes visíveis, reflexos controlados; minissaia encorpada bordô escuro; meia-calça preta fina; botas de cano curto de couro preto com cadarço e salto bloco. Materiais táteis premium.
+
+**LUZ/PROFUNDIDADE —** contraluz dourada quente no canto superior DIREITO DA IMAGEM, preenchimento frontal suave, preenchimento negativo à ESQUERDA DA IMAGEM, luz de contorno (rim light) no cabelo/boina. Folhas no primeiro plano → modelo → troncos desfocados/bokeh âmbar; profundidade de campo (DOF) realista, separação atmosférica, granulação orgânica fina; fotografado, não renderizado.
+
+**SEM** desvio de identidade, olhos mortos, cabelo sem volume, pele plástica, mãos quebradas, dedos/membros extras, agachamento incorreto, luz plana, CGI.
 ```
 
 [↑ Voltar às categorias](#catalog)

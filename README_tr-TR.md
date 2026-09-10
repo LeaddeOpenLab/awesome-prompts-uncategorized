@@ -864,13 +864,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2097935645037793537"></a>
 
-### Çeviri sürüyor
+### Yüz kilidi, ayrıntılı çömelme pozu, deri ceket, bere ve sıcak arka ışık içeren tam boy sonbahar ormanı portresi istemi.
 
 Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2097935645037793537)
 
 Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yüz kilidi, ayrıntılı çömelme pozu, deri ceket, bere ve sıcak arka ışık içeren tam boy sonbahar ormanı portresi istemi.
 
 <img src="images/2097935645037793537-1.jpg" alt="Görsel 1" width="480" />
 
@@ -879,7 +879,21 @@ Portre / Selfie · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+**YÜZ KİMLİĞİ referansı. MUTLAK ÖNCELİK — 1:1 YÜZ KİMLİĞİ KİLİDİ.** Görseldeki GERÇEK kişiyi bir bütün olarak KESİNLİKLE koruyun: Görseldeki tam kimlik, gerçek yaş, yüz geometrisi, oranlar, doğal asimetri, tam göz şekli/rengi ve tam TEMEL saç rengi. SIFIR yüz rekonstrüksiyonu, güzelleştirme, inceltme, simetri düzeltmesi veya jenerik yapay zeka yüzü.
+
+**SAHNE — KATI KİLİT.** Yapraklarla kaplı zemin ve süzülen akçaağaç yaprakları eşliğinde ağaçlık bir parkta dikey, tam boy sonbahar portresi. Kadın sağ-alt merkezde alçakça çömelmiş, geniş doğal bir gülümseme, bakışlar GÖRSEL-SOLUNA doğru yukarı kaldırılmış. Kehribar rengi orman bokehi; sol alçakta GÖRSEL-SAĞ ÜSTTE.
+
+**KAMERA —** bereden botlara kadar; kalkık diz alt ön planda büyük, baş üst üçte birlik kısımda. Kamera oturan bel hizasında, hafifçe GÖRSEL-SOLUNDA, yakın-orta mesafede, nazikçe yukarı doğru açılı; doğal 50–70mm perspektif. Yakındaki diz/öndeki el orta derecede daha büyük; yüz bozulmamış.
+
+**POZ —** gövde dik, pelvis alçakta/arkada, omuzlar 3/4 GÖRSEL-SOLUNA dönük, çene kalkık. SAĞ omuz → bükülü dirsek → rahat bilek → açık avuç içi yukarı doğru GÖRSEL-SOLUNA, 5 parmak. SOL omuz → bükülü dirsek → bilek → göğüs hizasında kameraya doğru açık avuç içi yukarı, 5 parmak. SAĞ diz lense en yakın konumda, sağ ayak alt merkeze basmış. SOL bacak daha altta/daha geride katlanmış, ana destek. Eller ayrı derinlik düzlemlerinde.
+
+**SAÇ/CİLT/MAKYAJ —** bere altında uzun gevşek dalgalar, daha dolgun, yoğun, ipeksi, boyutlu, havadar kökler; Görseldeki tam TEMEL renk, ~%10 daha soğuk. Gözle görülür şekilde altın-bronz güneşte yanmış GERÇEK İNSAN cildi, saten ışıltı, narin parıltı, gözenekler, mikro doku, ayva tüyleri, düzensiz parlamalar. Gözler canlı, nemli, ışıltılı, İNSAN; gerçekçi iris, göz pınarı/su hattı, küçük ışık yansımaları. Düzgün kaşlar, bakır-bordo buğulu far, temiz eyeliner, ÇOK UZUN ÇOK YOĞUN kabarık ayrık kirpikler, kontür/bronzer, kontrollü aydınlatıcı, dokulu gül-nude dudaklar, rafine saten bitiş.
+
+**KIYAFET —** koyu pas kırmızısı birinci sınıf yün bere; vücuda oturan siyah gerçek deri motorcu ceketi, görünür doku/dikişler/fermuarlar, kontrollü yansımalar; koyu bordo tok dökümlü mini etek; ince siyah çorap; siyah deri bağcıklı kalın topuklu bilekte botlar. Birinci sınıf dokunsal malzemeler.
+
+**IŞIK/DERİNLİK —** GÖRSEL-SAĞ ÜSTTE sıcak altın rengi arka ışık, yumuşak ön dolgu, GÖRSEL-SOLUNDA negatif dolgu, saçta/berede kenar ışığı (rim light). Ön plandaki yapraklar → özne → bulanık gövdeler/kehribar rengi bokeh; gerçekçi alan derinliği (DOF), atmosferik ayrım, ince organik gren; render edilmiş değil, çekilmiş gibi.
+
+**HAYIR / İSTEMEYENLER —** kimlik sapması, cansız gözler, sönük saçlar, plastik cilt, bozuk eller, fazladan parmaklar/uzuvlar, yanlış çömelme, düz ışık, CGI.
 ```
 
 [↑ Kategorilere dön](#catalog)
