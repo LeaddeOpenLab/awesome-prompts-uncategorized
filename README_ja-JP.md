@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**37** 件 · 最新の追加: **2026-09-10**
+**38** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -596,6 +596,32 @@ CGI毛皮、
 
 ```text
 劇的な曇り空の下、人里離れた誰もいないビーチに裸足で佇む、20代前半の驚くほど端正な顔立ちの青年の超リアルなシネマティック・エディトリアル写真。海風に少し乱された濃く自然なウェーブがかかった漆黒の髪、整った力強い眉、深みのある表情豊かなダークブラウンの瞳、彫刻のようにまっすぐな鼻、高い頬骨、シャープで男性的な顎のライン、うっすらとした自然な無精ひげ。リラックスした袖で襟元が少し開いた、海風になびくオーバーサイズのパリッとした白いコットンシャツに、ゆったりとしたニュートラルトーンのトラウザーを着用している。寄せては返す小さな波に、彼の足は濡れた砂を優しく踏みしめている。落ち着いたベージュ、グレー、オフホワイトのカラーパレット、柔らかく拡散した曇天の光、霞んだ地平線、穏やかな海、ミニマルで何もない周囲、静かでメランコリックな雰囲気、洗練されたラグジュアリーファッションのエディトリアル美学、自然な肌の質感、リアルな生地の質感、繊細なフィルムグレイン、浅い被写界深度、映画的な構図、85mmレンズ、写実的、超詳細、8K。
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## アニメ / 漫画
+
+<a name="prompt-2097918597603733849"></a>
+
+### 翻訳中
+
+作者：[@Gopphybjwo](https://x.com/Gopphybjwo) · [元の投稿](https://x.com/Gopphybjwo/status/2097918597603733849)
+
+コミック / ストーリーボード · アニメ / 漫画 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2097918597603733849.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**37** Prompts · Latest addition: **2026-09-10**
+**38** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -624,6 +624,32 @@ Cinematic / Film Still · Portrait / Selfie · Character · Fashion Item · Publ
 
 ```text
 Ultra-realistic cinematic editorial photograph of a strikingly handsome young man in his early 20s standing barefoot on an empty, secluded beach beneath a dramatic cloudy sky. He has thick, naturally wavy jet-black hair, slightly tousled by the ocean breeze, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears an oversized, crisp white cotton shirt with relaxed sleeves, slightly open at the collar, naturally flowing in the sea breeze, paired with loose neutral-toned trousers. His feet are gently touching the wet sand as small waves roll toward him. Muted beige, grey, and off-white color palette, soft diffused overcast lighting, misty horizon, calm ocean, minimal empty surroundings, quiet melancholic atmosphere, sophisticated luxury fashion editorial aesthetic, natural skin texture, realistic fabric details, subtle film grain, shallow depth of field, cinematic composition, 85mm lens, photorealistic, ultra-detailed, 8K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## Anime / Manga
+
+<a name="prompt-2097918597603733849"></a>
+
+### Anime storyboard prompt of Luffy and Anya interacting, featuring a golden ribbon protective light shield and a head pat with a hug.
+
+Author：[@Gopphybjwo](https://x.com/Gopphybjwo) · [Source](https://x.com/Gopphybjwo/status/2097918597603733849)
+
+Comic / Storyboard · Anime / Manga · Published
+
+**Summary:** Anime storyboard prompt of Luffy and Anya interacting, featuring a golden ribbon protective light shield and a head pat with a hug.
+
+<img src="covers/2097918597603733849.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+10–15 seconds | Prop burst: Rakhi flies up by itself and wraps around the wrist\nGolden ribbon automatically wraps around Luffy's wrist, protective light shield expands, Anya's eyes turn into stars.\n15–20 seconds | Emotional climax: Big brother head pat + hug\nLuffy earnestly pats Anya's head, Anya throws herself into his arms, surrounded by golden heart-shaped light.
 ```
 
 [↑ Back to categories](#catalog)

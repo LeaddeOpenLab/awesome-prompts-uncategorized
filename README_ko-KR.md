@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**37** 개 · 최근 추가: **2026-09-10**
+**38** 개 · 최근 추가: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -596,6 +596,32 @@ CGI 털,
 
 ```text
 드라마틱한 흐린 하늘 아래 한적하고 외딴 해변에 맨발로 서 있는 20대 초반의 눈부시게 잘생긴 젊은 남성의 초현실적인 시네마틱 에디토리얼 사진. 바닷바람에 자연스럽게 헝클어진 굵고 웨이브 진 흑발, 뚜렷하고 강인한 눈썹, 깊고 표현력 있는 짙은 갈색 눈, 곧고 조각 같은 코, 도드라진 광대뼈, 날렵하고 남성적인 턱선, 은은하고 자연스러운 턱수염. 소매가 자연스럽고 깃이 살짝 열려 바닷바람에 부드럽게 흩날리는 오버사이즈의 산뜻한 화이트 코튼 셔츠와 헐렁한 뉴트럴 톤의 바지를 입고 있다. 잔잔한 파도가 밀려오며 그의 발은 젖은 모래를 부드럽게 딛고 있다. 차분한 베이지, 그레이, 오프화이트 컬러 팔레트, 부드럽게 분산된 흐린 조명, 안개 낀 수평선, 고요한 바다, 미니멀하고 텅 빈 주변, 조용하고 우울한 분위기, 세련된 럭셔리 패션 에디토리얼 미학, 자연스러운 피부 질감, 사실적인 직물 디테일, 미세한 필름 그레인, 얕은 심도, 시네마틱 구도, 85mm 렌즈, 포토리얼리스틱, 극도로 디테일함, 8K.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-anime-manga"></a>
+
+## 애니메이션 / 만화
+
+<a name="prompt-2097918597603733849"></a>
+
+### 번역 중
+
+작성자：[@Gopphybjwo](https://x.com/Gopphybjwo) · [원본 게시물](https://x.com/Gopphybjwo/status/2097918597603733849)
+
+만화 / 스토리보드 · 애니메이션 / 만화 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2097918597603733849.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
