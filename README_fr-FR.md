@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**29** Prompts · Dernier ajout: **2026-09-10**
+**30** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -725,6 +725,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2097899194086297845"></a>
+
+### Traduction en cours
+
+Auteur：[@yourPlugAI](https://x.com/yourPlugAI) · [Publication originale](https://x.com/yourPlugAI/status/2097899194086297845)
+
+Bande dessinée / Storyboard · Produit · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2097899194086297845.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097873409120096663"></a>
 

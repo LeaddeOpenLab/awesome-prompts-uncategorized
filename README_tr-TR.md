@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**29** Prompt · Son eklenen: **2026-09-10**
+**30** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -725,6 +725,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097899194086297845"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@yourPlugAI](https://x.com/yourPlugAI) · [Orijinal gönderi](https://x.com/yourPlugAI/status/2097899194086297845)
+
+Çizgi Roman / Hikaye Taslağı · Ürün · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097899194086297845.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097873409120096663"></a>
 

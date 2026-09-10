@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**29** Prompts · Latest addition: **2026-09-10**
+**30** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -895,6 +895,53 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097899194086297845"></a>
+
+### A 15-second sequential storyboard prompt for a luxury perfume commercial featuring a Paris night alley, macro product shot, dialogue, and gold effects.
+
+Author：[@yourPlugAI](https://x.com/yourPlugAI) · [Source](https://x.com/yourPlugAI/status/2097899194086297845)
+
+Comic / Storyboard · Product · Published
+
+**Summary:** A 15-second sequential storyboard prompt for a luxury perfume commercial featuring a Paris night alley, macro product shot, dialogue, and gold effects.
+
+<img src="covers/2097899194086297845.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+15-Second Sequential Video Prompt
+
+0 to 3 Seconds (The Hook)
+Visual: Low-angle cinematic tracking shot following the luxury ambassador walking through a dimly lit midnight alleyway in Paris. Her black silk gown sways gracefully as ambient city streetlights reflect off wet pavement.
+Action: She turns her head fluidly toward the camera, making intense, confident eye contact with a subtle, alluring smile.
+Sound: Deep, resonant sub-bass swelling into slow-tempo atmospheric synth chords, accompanied by the crisp echo of heels stepping on pavement.
+
+3 to 6 Seconds (The Product Reveal)
+Visual: Extreme macro close-up of a sleek, dark obsidian perfume bottle standing upright. Gold foil accents shine on the glass, clearly displaying the brand mark "GILBERTO" and "EST. 2026".
+Action: Fine volumetric fragrance mist spray bursts smoothly from the side nozzle, dispersing into golden dust particles that swirl dramatically through the air in ultra-clear motion.
+Sound: Sharp, hyper-crisp metallic click of the atomizer nozzle spraying, followed by a soft, silky air hiss and an echoing chime.
+
+6 to 9 Seconds (The Character Dialogue)
+Visual: Medium close-up of the woman bringing her wrist up toward her collarbone, gently glancing down at the fragrance mist settling on her skin before looking directly into the lens.
+Action: Her facial expression shifts into effortless confidence as her lips move to speak, keeping her face perfectly steady and expressive without distortion.
+Sound: Clear, warm, velvet-toned voiceover: "Own the night." Smooth ambient bassline continues under the spoken dialogue.
+
+9 to 12 Seconds (The Sensory Surge)
+Visual: High-speed transitional shot where midnight darkness transforms into liquid gold ripples swirling around the obsidian bottle in mid-air.
+Action: Fine golden light rays pierce through the darkness, illuminating silk fabric fluttering gently around the perfume bottle.
+Sound: Rich musical riser blending orchestral strings with a deep bass pulse, creating an opulent and surreal atmosphere.
+
+12 to 15 Seconds (The Brand Outro)
+Visual: Beautiful hero shot of the perfume bottle standing perfectly upright on a dark marble pedestal with liquid reflections. The typography "GILBERTO" shines clearly under a focused warm spotlight.
+Action: The camera slowly pulls back as subtle, elegant golden mist floats gently around the base of the bottle.
+Sound: Deep, warm musical chord fading out smoothly, leaving a soft lingering acoustic resonance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097873409120096663"></a>
 
