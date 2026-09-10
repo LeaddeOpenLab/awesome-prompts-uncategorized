@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**40** Prompts · Latest addition: **2026-09-10**
+**41** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1111,6 +1111,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097915123516215548"></a>
+
+### Tilt-shift macro miniature video sequence showing tiny farmers assisted by a giant human hand across four farming scenes.
+
+Author：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Source](https://x.com/EthanAIBuilder/status/2097915123516215548)
+
+Other · Published
+
+**Summary:** Tilt-shift macro miniature video sequence showing tiny farmers assisted by a giant human hand across four farming scenes.
+
+<img src="covers/2097915123516215548.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A hyper-realistic tilt-shift macro photography video sequence of a tiny miniature world. The video features small miniature farmers in traditional Asian work clothes interacting with giant elements of nature. \nScene 1: Tiny farmers working by a miniature stream with lily pads; a giant human hand dips in, lifting a lily pad with dripping roots while water flows smoothly. \nScene 2: Miniature farmers struggling at a rusty vintage water pump in a garden; a giant human hand pushes the lever, causing water to gush into a tiny bucket as they cheer. \nScene 3: Miniature farmers in conical straw hats sorting golden grains in a field under a stormy dark sky as rain starts to fall; a giant human hand quickly places a tiny canvas tent over them to protect the harvest. \nScene 4: Tiny farmers working with miniature gardening tools on a giant green vegetable leaf with a large garden snail; a giant human hand gently lifts the snail away and places a tiny wooden fence around the crops. \nCinematic depth of field, 8k resolution, stop-motion aesthetic combined with photorealistic miniature diorama style, smooth fluid motion --ar 9:16
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097935645037793537"></a>
 
