@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**35** Prompt · Bổ sung mới nhất: **2026-09-10**
+**36** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -849,6 +849,30 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097935645037793537"></a>
+
+### Đang dịch
+
+Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2097935645037793537)
+
+Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097935645037793537-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097935645037793537-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097896913269854538"></a>
 

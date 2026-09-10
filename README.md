@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**35** Prompts · Latest addition: **2026-09-10**
+**36** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -1013,6 +1013,30 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097935645037793537"></a>
+
+### Full-body autumn woodland portrait prompt with face lock, detailed crouching pose, leather jacket, beret, and warm backlight.
+
+Author：[@oye\_samia](https://x.com/oye_samia) · [Source](https://x.com/oye_samia/status/2097935645037793537)
+
+Portrait / Selfie · Published
+
+**Summary:** Full-body autumn woodland portrait prompt with face lock, detailed crouching pose, leather jacket, beret, and warm backlight.
+
+<img src="images/2097935645037793537-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097935645037793537-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+**FACE IDENTITY reference. ABSOLUTE PRIORITY — FACE IDENTITY LOCK 1:1.** Preserve the EXACT real person from image as a whole: exact identity, real age, facial geometry, proportions, natural asymmetry, exact eye shape/color and exact BASE hair color FROM Image . ZERO facial reconstruction, beautification, slimming, symmetry correction or generic AI face. **SCENE — STRICT LOCK.** Vertical full-body autumn portrait in a wooded park with leaf-covered ground and drifting maple leaves. Woman crouches low center-right, broad natural smile, gaze lifted IMAGE-LEFT. Amber forest bokeh; low sun upper IMAGE-RIGHT. **CAMERA —** beret to boots; raised knee large in lower foreground, head upper third. Camera at seated-waist height, slightly IMAGE-LEFT, close-medium distance, gently upward; natural 50–70mm perspective. Near knee/forward hand moderately larger; face undistorted. **POSE —** torso upright, pelvis low/back, shoulders 3/4 IMAGE-LEFT, chin lifted. RIGHT shoulder → bent elbow → relaxed wrist → open palm up IMAGE-LEFT, 5 fingers. LEFT shoulder → bent elbow → wrist → open palm up toward camera at chest height, 5 fingers. RIGHT knee nearest lens, right foot planted lower center. LEFT leg folded lower/farther back, primary support. Hands on separate depth planes. **HAIR/SKIN/MAKEUP —** long loose waves under beret, fuller, dense, silky, dimensional, airy roots; exact BASE color from Image, ~10% cooler. Noticeably golden-tanned sun-kissed REAL HUMAN skin, satin luminosity, delicate shimmer, pores, microtexture, peach fuzz, irregular highlights. Eyes alive, moist, luminous, HUMAN; realistic iris, wetline, small catchlights. Groomed brows, copper-burgundy smoky shadow, clean liner, VERY LONG VERY DENSE fluffy separated lashes, sculpting/bronzer, controlled highlighter, rose-nude textured lips, refined satin finish. **OUTFIT —** deep rust-red premium wool beret; fitted black real-leather biker jacket, visible grain/seams/zippers, controlled reflections; dark burgundy weighted mini skirt; sheer black tights; black leather lace-up block-heel ankle boots. Premium tactile materials. **LIGHT/DEPTH —** warm golden backlight upper IMAGE-RIGHT, soft frontal fill, negative fill IMAGE-LEFT, rim on hair/beret. Foreground leaves → subject → blurred trunks/amber bokeh; realistic DOF, atmospheric separation, fine organic grain; captured, not rendered. **NO** identity drift, dead eyes, flat hair, plastic skin, broken hands, extra fingers/limbs, wrong crouch, flat light, CGI.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097896913269854538"></a>
 
