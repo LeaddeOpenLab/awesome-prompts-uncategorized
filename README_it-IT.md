@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**31** Prompt · Ultima aggiunta: **2026-09-10**
+**33** Prompt · Ultima aggiunta: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2097889772899639317"></a>
+
+### Traduzione in corso
+
+Autore：[@Soranlan](https://x.com/Soranlan) · [Post originale](https://x.com/Soranlan/status/2097889772899639317)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+Post originale：[@Soranlan](https://x.com/Soranlan) · [Post originale](https://x.com/Soranlan/status/2081181748478562704)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097889772899639317-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="Immagine 7" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -747,6 +783,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2097852564029272236"></a>
+
+### Traduzione in corso
+
+Autore：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Post originale](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+Ritratto / Selfie · Personaggio · Cibo / Bevande · Articolo di moda · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097852564029272236-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**31** 개 · 최근 추가: **2026-09-10**
+**33** 개 · 최근 추가: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <a name="category-photography"></a>
 
 ## 사진술
+
+<a name="prompt-2097889772899639317"></a>
+
+### 번역 중
+
+작성자：[@Soranlan](https://x.com/Soranlan) · [원본 게시물](https://x.com/Soranlan/status/2097889772899639317)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
+
+원본 게시물：[@Soranlan](https://x.com/Soranlan) · [원본 게시물](https://x.com/Soranlan/status/2081181748478562704)
+
+**요약:** 번역 중
+
+<img src="images/2097889772899639317-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="이미지 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="이미지 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="이미지 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="이미지 7" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -753,6 +789,28 @@ CGI 털,
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2097852564029272236"></a>
+
+### 번역 중
+
+작성자：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [원본 게시물](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+인물 사진 / 셀카 · 캐릭터 · 음식 / 음료 · 패션 아이템 · 건축 / 인테리어 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097852564029272236-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 

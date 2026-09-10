@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**31** Prompts · Latest addition: **2026-09-10**
+**33** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,56 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097889772899639317"></a>
+
+### Realistic East Asian female portrait in cool nighttime blue lighting, featuring close-range hard flash, voluminous black hair, an off-the-shoulder black dress, and metal chain elements.
+
+Author：[@Soranlan](https://x.com/Soranlan) · [Source](https://x.com/Soranlan/status/2097889772899639317)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+Source：[@Soranlan](https://x.com/Soranlan) · [Source](https://x.com/Soranlan/status/2081181748478562704)
+
+**Summary:** Realistic East Asian female portrait in cool nighttime blue lighting, featuring close-range hard flash, voluminous black hair, an off-the-shoulder black dress, and metal chain elements.
+
+<img src="images/2097889772899639317-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="Image 7" width="480" />
+
+**Prompt**
+
+```text
+2:3 vertical aspect ratio, realistic nighttime fashion portrait of a real person, an adult East Asian woman positioned extremely close to the camera lens. Her upper body is visibly pitched forward and pressing downwards, head slightly lowered, eyes naturally looking upward at the camera from this lowered-head posture. One hand lightly touches her cheek, while the other forearm crosses diagonally across the front of her body with shoulders pushed forward, forming a tight, close-up triangular structure between face, hands, shoulders, and forearm. The direct gaze into the lens must originate from the organic kinetic relationship of "head down, eyes looking up," avoiding standard model-style eye-level staring.
+
+Voluminous long black curly hair falls loosely and frames her face—messy, voluminous, and irregular, with natural flyaways across the forehead and sides of the face, partially obscuring the cheeks and eye contours. The hair must not be styled too neatly. The subject wears off-the-shoulder clothing in black or cyan-black, with localized teal-green fabric subtly echoing the cold blue ambient environment; several genuine metal bangles are worn on her wrist. On the right side, a thick metal chain runs vertically from the top of the frame, establishing a clear spatial boundary and environmental reference.
+
+The background is a deep blue nighttime environment with genuine spatial depth, composed predominantly of deep cyan-blue, blue-black, and a small amount of bright specular cyan-blue, strictly avoiding a flat solid-color studio backdrop. The subject is very close to the lens while the background recedes quickly; the foreground subject exhibits a subtle wide-angle close-up perspective, yet without exaggerated fisheye distortion.
+
+Cool cyan-blue ambient light covers the background, hair edges, clothing, and metallic reflections, while the subject's face, shoulders, and arms are illuminated by close-up, semi-frontal hard bright lighting. The primary skin tone remains genuinely warm or neutral, catching only minimal blue ambient reflection. Natural exposure transitions and slight highlight blowouts appear on the forehead, bridge of the nose, cheeks, and shoulders, with the background distinctly darker to create strong subject separation. Retain a minor presence of low-light grain, slight halation, and the raw imperfections of authentic digital photography.
+
+Skin retains genuine pores, subtle skin tone variations, minor facial asymmetry, and natural structures beneath the eyes and around the nostrils; no airbrushing, no porcelain-doll skin, no striving for perfect symmetry. Eye makeup is understated, dominated by low-saturation dusty red and brownish-red; lip color leans towards muted dusty red, kept restrained. Eyes maintain realistic proportions and authentic sclera ratios, without exaggerated iris catchlights, glass-marble eyes, or instantly recognizable AI portrait faces. The overall aesthetic resembles an unretouched candid on-location shot captured by an authentic photographer getting close to the subject in a low-light blue environment, with a slightly spontaneous composition, avoiding cinematic poster-style perfection in lighting or standard glamour photoshoot posing.
+
+Color proportion balance: approximately 28% deep blue dark tones, 25% deep cyan-blue environment, 17% bright specular cyan-blue, 14% warm neutral skin highlights, 7% muted pinkish-red accents on lips and eye contours, 9% dark metallic tones on chains and jewelry. Cyan-blue must only dominate the environment and localized reflections, never acting as a uniform cyan color filter over the subject's skin.
+
+**Soran Three-Tier Natural Watermark:** A clearly legible "Soran" is naturally embroidered with fine cool-silver thread or appears as a small metal fabric tag subtly embedded on the shoulder strap near the face, the collar edge, or the cyan-black garment hem, clearly readable to the naked eye while adapting organically to fabric curvature, folds, body perspective, and blue ambient light; a concealed "Soran" blends into the worn engraved scratches of the metal chain on the right, localized specular highlights of the black curls, and fabric weave textures; a microscopic "Soran" is co-formed by tiny micro-scratches on bangles, chain link abrasions, intersecting hair strands, and subtle fabric sheen patterns. All instances of "Soran" belong organically to genuine apparel branding, metal engravings, or material surface textures, never appearing as floating text overlays.
+
+**Negative Prompts:** standard model eye-level gaze into lens, stiff direct stare, subject standing upright, body positioned far from camera, standard seated pose, standard studio photography pose, neat symmetrical hairstyle, plastic skin, porcelain-white airbrushed skin, perfectly symmetrical facial features, AI beauty face, anime face, oversized eyes, glass marble eyes, excessive iris detailing, overdone eye catchlights, commercial beauty retouching, HDR, over-sharpening, fake 8K-style micro-details, uniform softbox diffusion, movie poster lighting, full-face blue tint, uniform cyan filter, solid blue studio backdrop, completely blurred flat background, fisheye distortion, overly provocative pin-up posing, extra people, redundant limbs, malformed fingers, floating chains, external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -917,6 +967,37 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2097852564029272236"></a>
+
+### Fashion editorial portrait of a young Japanese woman in a champagne crop camisole holding coffee on a beige chaise in a modern penthouse.
+
+Author：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Source](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+Portrait / Selfie · Character · Food / Drink · Fashion Item · Architecture / Interior · Published
+
+**Summary:** Fashion editorial portrait of a young Japanese woman in a champagne crop camisole holding coffee on a beige chaise in a modern penthouse.
+
+<img src="images/2097852564029272236-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+1. Subject & Action
+A stunning 20-year-old Japanese woman with porcelain-fair luminous skin, delicate refined facial features, natural pale grey-blue eyes, fashionable dewy high-fashion makeup, and long dark hair with just-woke-up messy beauty: sleep-tousled, a few strands falling naturally across her face and shoulders. She has extremely voluptuous G-cup breasts and an impossibly tiny slender waist. She sits cross-legged on a luxury beige chaise lounge. She wears a slightly sheer, unlined, lightweight champagne spaghetti-strap crop camisole with no bra and no padding; the fabric lies flat and smooth over the chest, not tight enough to create raised bumps. Through the faintly translucent cloth there is only a very soft tonal hint of the nipples, a subtle contour seen as a gentle shadow, never protruding. The short top fully exposes her slim waist. She wears a thin-strapped matching thong. One hand holds a ceramic coffee cup, the other rests on her thigh. Expression: shy, reserved direct eye contact with the camera, soft closed mouth, high-end elegance and quiet poise.
+2. Setting & Time
+Luxury modern penthouse interior in the early morning. Large floor-to-ceiling windows with a soft-focus city skyline. Beige upholstered chaise, muted curtains, refined hotel-suite atmosphere.
+3. Composition & Camera
+Portrait orientation, medium-full shot from a slightly low three-quarter angle. Emphasis on the contrast between the full chest, exposed tiny waist, and crossed legs. Shallow depth of field, subject sharp, background gently blurred.
+4. Lighting & Style
+Natural morning window light: soft diffused sidelight with realistic sun patches and gentle warm highlights on skin, hair, and the slightly sheer fabric, so the faint tonal contour reads as a soft shadow rather than a bump. No fake volumetric god rays, no heavy CGI dust shafts. Photorealistic high-end fashion editorial, refined Ellen von Unwerth mood. Soft realistic film grain, sophisticated warm-neutral palette.
+5. Constraints
+Fabric must stay only slightly sheer, not see-through. No bare nipple skin. No clearly visible areola. No raised nubs, no poking through the top, no wet-look fabric. The nipple should appear only as a faint flat contour or soft shadow. Elegant high-fashion mood, never vulgar. Photorealistic, high-resolution quality.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**31** Prompt · Son eklenen: **2026-09-10**
+**33** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2097889772899639317"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2097889772899639317)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2081181748478562704)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097889772899639317-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="Görsel 7" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -747,6 +783,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097852564029272236"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Orijinal gönderi](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+Portre / Selfie · Karakter · Yiyecek / İçecek · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097852564029272236-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 

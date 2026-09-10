@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**31** 筆內容 · 最新收錄: **2026-09-10**
+**33** 筆內容 · 最新收錄: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2097889772899639317"></a>
+
+### 翻譯中
+
+作者：[@Soranlan](https://x.com/Soranlan) · [查看 X 原帖](https://x.com/Soranlan/status/2097889772899639317)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+查看 X 原帖：[@Soranlan](https://x.com/Soranlan) · [查看 X 原帖](https://x.com/Soranlan/status/2081181748478562704)
+
+**概括:** 翻譯中
+
+<img src="images/2097889772899639317-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="圖片 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="圖片 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="圖片 7" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -754,6 +790,28 @@ CGI毛髮、
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2097852564029272236"></a>
+
+### 翻譯中
+
+作者：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [查看 X 原帖](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+人像 / 自拍 · 角色 · 食物 / 飲品 · 時尚單品 · 建築 / 室內設計 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2097852564029272236-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 

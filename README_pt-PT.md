@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**31** Prompts · Adição mais recente: **2026-09-10**
+**33** Prompts · Adição mais recente: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2097889772899639317"></a>
+
+### Tradução em curso
+
+Autor：[@Soranlan](https://x.com/Soranlan) · [Publicação original](https://x.com/Soranlan/status/2097889772899639317)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+Publicação original：[@Soranlan](https://x.com/Soranlan) · [Publicação original](https://x.com/Soranlan/status/2081181748478562704)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097889772899639317-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="Imagem 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="Imagem 7" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -747,6 +783,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2097852564029272236"></a>
+
+### Tradução em curso
+
+Autor：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Publicação original](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+Retrato / Selfie · Personagem · Comida / Bebida · Item de Moda · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097852564029272236-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 

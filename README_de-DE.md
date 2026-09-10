@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**31** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**33** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2097889772899639317"></a>
+
+### Übersetzung läuft
+
+Autor：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2097889772899639317)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+Originalbeitrag：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2081181748478562704)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097889772899639317-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="Bild 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="Bild 7" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -747,6 +783,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2097852564029272236"></a>
+
+### Übersetzung läuft
+
+Autor：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Originalbeitrag](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+Porträt / Selfie · Charakter · Essen / Trinken · Modeartikel · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097852564029272236-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 

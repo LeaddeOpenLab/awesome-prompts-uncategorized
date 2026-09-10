@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**31** 件 · 最新の追加: **2026-09-10**
+**33** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-photography"></a>
 
 ## 写真撮影
+
+<a name="prompt-2097889772899639317"></a>
+
+### 翻訳中
+
+作者：[@Soranlan](https://x.com/Soranlan) · [元の投稿](https://x.com/Soranlan/status/2097889772899639317)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
+
+元の投稿：[@Soranlan](https://x.com/Soranlan) · [元の投稿](https://x.com/Soranlan/status/2081181748478562704)
+
+**概要:** 翻訳中
+
+<img src="images/2097889772899639317-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="画像 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="画像 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="画像 7" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -753,6 +789,28 @@ CGI毛皮、
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2097852564029272236"></a>
+
+### 翻訳中
+
+作者：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [元の投稿](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+ポートレート / セルフィー · キャラクター · 食品・飲料 · ファッションアイテム · 建築 / インテリア · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097852564029272236-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 

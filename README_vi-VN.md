@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**31** Prompt · Bổ sung mới nhất: **2026-09-10**
+**33** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2097889772899639317"></a>
+
+### Đang dịch
+
+Tác giả：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/Soranlan/status/2097889772899639317)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+Bài gốc：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/Soranlan/status/2081181748478562704)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097889772899639317-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097889772899639317-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097889772899639317-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097889772899639317-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2097889772899639317-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2097889772899639317-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2097889772899639317-7.jpg" alt="Hình ảnh 7" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097888970994495736"></a>
 
@@ -759,6 +795,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2097852564029272236"></a>
+
+### Đang dịch
+
+Tác giả：[@CityCatch\_Show](https://x.com/CityCatch_Show) · [Bài gốc](https://x.com/CityCatch_Show/status/2097852564029272236)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097852564029272236-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097899194086297845"></a>
 
