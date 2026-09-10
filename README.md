@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**30** Prompts · Latest addition: **2026-09-10**
+**31** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2097888970994495736"></a>
+
+### generate me sitting up facing away from the camera then I stand up and turn around to do a few push ups
+
+Author：[@RSOXART](https://x.com/RSOXART) · [Source](https://x.com/RSOXART/status/2097888970994495736)
+
+Photography · Published
+
+**Summary:** generate me sitting up facing away from the camera then I stand up and turn around to do a few push ups
+
+<img src="covers/2097888970994495736.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+generate me sitting up facing away from the camera then I stand up and turn around to do a few push ups
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097892780052013289"></a>
 

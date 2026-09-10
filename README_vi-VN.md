@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**30** Prompt · Bổ sung mới nhất: **2026-09-10**
+**31** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2097888970994495736"></a>
+
+### Đang dịch
+
+Tác giả：[@RSOXART](https://x.com/RSOXART) · [Bài gốc](https://x.com/RSOXART/status/2097888970994495736)
+
+Nhiếp ảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2097888970994495736.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097892780052013289"></a>
 

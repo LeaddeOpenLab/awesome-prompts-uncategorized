@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**30** Prompt · Son eklenen: **2026-09-10**
+**31** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2097888970994495736"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RSOXART](https://x.com/RSOXART) · [Orijinal gönderi](https://x.com/RSOXART/status/2097888970994495736)
+
+Fotoğrafçılık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2097888970994495736.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097892780052013289"></a>
 

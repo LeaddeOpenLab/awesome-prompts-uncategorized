@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**30** Prompts · Adição mais recente: **2026-09-10**
+**31** Prompts · Adição mais recente: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2097888970994495736"></a>
+
+### Tradução em curso
+
+Autor：[@RSOXART](https://x.com/RSOXART) · [Publicação original](https://x.com/RSOXART/status/2097888970994495736)
+
+Fotografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2097888970994495736.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097892780052013289"></a>
 
