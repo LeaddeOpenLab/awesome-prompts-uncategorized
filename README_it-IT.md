@@ -602,20 +602,23 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2097918597603733849"></a>
 
-### Traduzione in corso
+### Prompt per storyboard anime con l'interazione tra Luffy e Anya, inclusi uno scudo protettivo di nastro dorato e gesti di carezza sulla testa e abbraccio.
 
 Autore：[@Gopphybjwo](https://x.com/Gopphybjwo) · [Post originale](https://x.com/Gopphybjwo/status/2097918597603733849)
 
 Fumetto / Storyboard · Anime / Manga · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per storyboard anime con l'interazione tra Luffy e Anya, inclusi uno scudo protettivo di nastro dorato e gesti di carezza sulla testa e abbraccio.
 
 <img src="covers/2097918597603733849.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+10–15 secondi｜Esplosione dell'oggetto di scena: Il Rakhi vola da solo e si avvolge intorno al polso
+Il nastro dorato si avvolge automaticamente attorno al polso di Luffy, si apre uno scudo protettivo, gli occhi di Anya diventano a stella.
+15–20 secondi｜Climax emotivo: Carezza sulla testa come un fratello maggiore＋abbraccio
+Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia, circondati da una luce dorata a forma di cuore.
 ```
 
 [↑ Torna alle categorie](#catalog)

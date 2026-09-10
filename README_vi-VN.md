@@ -614,20 +614,23 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2097918597603733849"></a>
 
-### Đang dịch
+### Lời nhắc phân cảnh hoạt hình tương tác giữa Luffy và Anya, bao gồm màn chắn bảo vệ ruy băng vàng và hành động xoa đầu ôm ấp.
 
 Tác giả：[@Gopphybjwo](https://x.com/Gopphybjwo) · [Bài gốc](https://x.com/Gopphybjwo/status/2097918597603733849)
 
 Truyện tranh / Bảng phân cảnh · Anime / Manga · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc phân cảnh hoạt hình tương tác giữa Luffy và Anya, bao gồm màn chắn bảo vệ ruy băng vàng và hành động xoa đầu ôm ấp.
 
 <img src="covers/2097918597603733849.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+10–15 giây｜Đạo cụ bùng nổ: Rakhi tự bay lên quấn lấy cổ tay
+Dải ruy băng vàng tự động quấn vào cổ tay Luffy, màn chắn bảo vệ mở ra, mắt Anya hóa thành ngôi sao.
+15–20 giây｜Cao trào cảm xúc: Anh trai xoa đầu＋ôm
+Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng trái tim màu vàng bao bọc xung quanh.
 ```
 
 [↑ Về danh mục](#catalog)

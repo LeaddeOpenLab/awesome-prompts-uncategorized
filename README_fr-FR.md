@@ -602,20 +602,23 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2097918597603733849"></a>
 
-### Traduction en cours
+### Prompt de storyboard anime montrant l'interaction entre Luffy et Anya, comprenant un bouclier protecteur de ruban doré et des gestes de caresse sur la tête et d'étreinte.
 
 Auteur：[@Gopphybjwo](https://x.com/Gopphybjwo) · [Publication originale](https://x.com/Gopphybjwo/status/2097918597603733849)
 
 Bande dessinée / Storyboard · Anime / Manga · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de storyboard anime montrant l'interaction entre Luffy et Anya, comprenant un bouclier protecteur de ruban doré et des gestes de caresse sur la tête et d'étreinte.
 
 <img src="covers/2097918597603733849.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+10–15 secondes｜Effet d'accessoire : Le Rakhi s'envole tout seul et s'enroule autour du poignet
+Le ruban doré s'enroule automatiquement autour du poignet de Luffy, un bouclier protecteur se déploie, les yeux d'Anya se transforment en étoiles.
+15–20 secondes｜Climax émotionnel : Caresse sur la tête par le grand frère＋étreinte
+Luffy caresse tendrement la tête d'Anya, Anya se jette dans ses bras, entourés d'une lumière dorée en forme de cœur.
 ```
 
 [↑ Retour aux catégories](#catalog)

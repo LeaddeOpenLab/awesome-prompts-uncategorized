@@ -602,20 +602,23 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2097918597603733849"></a>
 
-### Çeviri sürüyor
+### Luffy ile Anya arasındaki etkileşimi anlatan, altın şerit koruma kalkanı ile baş okşama ve kucaklaşma hareketlerini içeren anime görsel taslak \(storyboard\) istemi.
 
 Yazar：[@Gopphybjwo](https://x.com/Gopphybjwo) · [Orijinal gönderi](https://x.com/Gopphybjwo/status/2097918597603733849)
 
 Çizgi Roman / Hikaye Taslağı · Anime / Manga · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Luffy ile Anya arasındaki etkileşimi anlatan, altın şerit koruma kalkanı ile baş okşama ve kucaklaşma hareketlerini içeren anime görsel taslak \(storyboard\) istemi.
 
 <img src="covers/2097918597603733849.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+10–15 saniye｜Aksesuar Patlaması: Rakhi kendi kendine havalanıp bileğe sarılıyor
+Altın şerit Luffy'nin bileğine kendiliğinden sarılıyor, koruyucu bir kalkan açılıyor, Anya'nın gözleri yıldızlara dönüşüyor.
+15–20 saniye｜Duygusal Doruk Noktası: Abi şefkatiyle baş okşama＋kucaklaşma
+Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, etraflarını altın renkli kalp şeklinde bir ışık sarıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

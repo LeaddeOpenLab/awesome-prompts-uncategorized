@@ -602,20 +602,23 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2097918597603733849"></a>
 
-### Übersetzung läuft
+### Anime-Storyboard-Prompt für die Interaktion zwischen Luffy und Anya, einschließlich eines goldenen Bändchen-Schutzschilds sowie Kopfstreicheln und Umarmung.
 
 Autor：[@Gopphybjwo](https://x.com/Gopphybjwo) · [Originalbeitrag](https://x.com/Gopphybjwo/status/2097918597603733849)
 
 Comic / Storyboard · Anime / Manga · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anime-Storyboard-Prompt für die Interaktion zwischen Luffy und Anya, einschließlich eines goldenen Bändchen-Schutzschilds sowie Kopfstreicheln und Umarmung.
 
 <img src="covers/2097918597603733849.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+10–15 Sekunden｜Requisiten-Burst: Rakhi fliegt von selbst hoch und wickelt sich ums Handgelenk
+Das goldene Band wickelt sich automatisch um Luffys Handgelenk, ein Schutzschild breitet sich aus, Anyas Augen werden zu Sternen.
+15–20 Sekunden｜Emotionaler Höhepunkt: Streicheln des Kopfes wie ein großer Bruder＋Umarmung
+Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben von goldenem herzförmigem Licht.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

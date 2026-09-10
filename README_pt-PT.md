@@ -602,20 +602,23 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2097918597603733849"></a>
 
-### Tradução em curso
+### Prompt de storyboard de anime com a interação entre Luffy e Anya, incluindo escudo protetor de fita dourada e gestos de afago na cabeça e abraço.
 
 Autor：[@Gopphybjwo](https://x.com/Gopphybjwo) · [Publicação original](https://x.com/Gopphybjwo/status/2097918597603733849)
 
 Banda desenhada / Storyboard · Anime / Mangá · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de storyboard de anime com a interação entre Luffy e Anya, incluindo escudo protetor de fita dourada e gestos de afago na cabeça e abraço.
 
 <img src="covers/2097918597603733849.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+10–15 segundos｜Explosão do adereço: O Rakhi voa sozinho e enrola-se no pulso
+A fita dourada enrola-se automaticamente no pulso de Luffy, um escudo protetor expande-se, os olhos de Anya transformam-se em estrelas.
+15–20 segundos｜Clímax emocional: Festinha na cabeça como um irmão mais velho＋abraço
+Luffy afaga com ternura a cabeça de Anya, Anya atira-se para os seus braços, envolvidos por uma luz dourada em forma de coração.
 ```
 
 [↑ Voltar às categorias](#catalog)

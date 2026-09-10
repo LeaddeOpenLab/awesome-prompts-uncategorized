@@ -614,20 +614,23 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2097918597603733849"></a>
 
-### Traducción en curso
+### Prompt de guion gráfico de anime que muestra la interacción entre Luffy y Anya, con un escudo protector de cinta dorada y gestos de acariciar la cabeza y abrazar.
 
 Autor：[@Gopphybjwo](https://x.com/Gopphybjwo) · [Publicación original](https://x.com/Gopphybjwo/status/2097918597603733849)
 
 Cómic / Guion gráfico · Anime / Manga · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de guion gráfico de anime que muestra la interacción entre Luffy y Anya, con un escudo protector de cinta dorada y gestos de acariciar la cabeza y abrazar.
 
 <img src="covers/2097918597603733849.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+10–15 segundos｜Activación de accesorio: El Rakhi vuela solo y se enrolla en la muñeca
+La cinta dorada se enrolla automáticamente en la muñeca de Luffy, se despliega un escudo protector, los ojos de Anya se convierten en estrellas.
+15–20 segundos｜Clímax emocional: Acariciar la cabeza como un hermano mayor＋abrazo
+Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodeados por una luz dorada en forma de corazón.
 ```
 
 [↑ Volver a categorías](#catalog)
