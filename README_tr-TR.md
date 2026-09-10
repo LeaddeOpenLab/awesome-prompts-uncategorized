@@ -93,20 +93,22 @@ kameraya arkam dönük şekilde doğrulup oturduğum, ardından ayağa kalkıp d
 
 <a name="prompt-2097892780052013289"></a>
 
-### Çeviri sürüyor
+### Ela-yeşil gözlü, saçları topuz yapılmış ve fırfırlı beyaz elbiseli genç bir kadının gerçekçi stüdyo portresi.
 
 Yazar：[@oju689](https://x.com/oju689) · [Orijinal gönderi](https://x.com/oju689/status/2097892780052013289)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ela-yeşil gözlü, saçları topuz yapılmış ve fırfırlı beyaz elbiseli genç bir kadının gerçekçi stüdyo portresi.
 
 <img src="images/2097892780052013289-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Doğal ve narin yüz hatlarına, hafif çillere ve gerçekçi cilt dokusuna sahip yumuşak açık renk tenine, hafifçe yana doğru bakan anlamlı ela-yeşil gözlere, doğal olarak belirgin kaşlara, yumuşak pembe dudaklara ve nazik, kendinden emin bir ifadeye sahip güzel bir genç kadının ultra gerçekçi yakın çekim portresi. Koyu kahverengi saçları, yüzünü çerçeveleyen doğal, dökümlü tellerle gevşek, zarif ve dağınık bir topuz şeklinde toplanmıştır. Üzerinde narin fırfırlı kısa kolları ve yumuşak büzgülü yaka kısmı olan romantik, beyaz dokulu bir elbise vardır; küçük inci detayları ve minik kolyeler içeren katmanlı ince altın kolyeler ile zarif sallantılı küpelerle tamamlanmıştır.
+
+Yumuşak, sıcak ve doğal stüdyo aydınlatması, nötr bej arka plan, hafif gölgeler, gerçekçi yüz oranları, detaylı saç telleri, otantik cilt gözenekleri ve dokusu, doğal makyaj, hafif allık, sinematik fotoğrafçılık, sığ alan derinliği, 85 mm portre lensi, f/1.8, yüksek dinamik aralık, profesyonel editoryal fotoğrafçılık, fotogerçekçi, ultra detaylı, 8K kalitesi, CGI veya yapay görünüm içermez.
 ```
 
 [↑ Kategorilere dön](#catalog)

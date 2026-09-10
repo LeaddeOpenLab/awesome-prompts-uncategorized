@@ -93,20 +93,22 @@ génère-moi en train de m'asseoir en tournant le dos à la caméra, puis je me 
 
 <a name="prompt-2097892780052013289"></a>
 
-### Traduction en cours
+### Portrait réaliste en studio d'une jeune femme aux yeux vert noisette, chignon et robe blanche à volants.
 
 Auteur：[@oju689](https://x.com/oju689) · [Publication originale](https://x.com/oju689/status/2097892780052013289)
 
 Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait réaliste en studio d'une jeune femme aux yeux vert noisette, chignon et robe blanche à volants.
 
 <img src="images/2097892780052013289-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait en gros plan ultra-réaliste d'une belle jeune femme aux traits naturels et délicats, à la peau claire et douce avec de subtiles taches de rousseur et un grain de peau réaliste, des yeux vert noisette expressifs regardant légèrement sur le côté, des sourcils naturellement définis, des lèvres rose tendre et une expression douce et confiante. Ses cheveux châtain foncé sont coiffés en un chignon flou élégant et décontracté, avec des mèches rebelles naturelles encadrant son visage. Elle porte une robe texturée blanche romantique avec de délicates manches courtes à volants et un décolleté doucement froncé, associée à de fines chaînes dorées superposées ornées de minuscules perles et de petits pendentifs, ainsi que d'élégantes boucles d'oreilles pendantes.
+
+Éclairage de studio naturel, doux et chaud, arrière-plan beige neutre, ombres subtiles, proportions faciales réalistes, mèches de cheveux détaillées, pores et texture de peau authentiques, maquillage naturel, fard à joues doux, photographie cinématographique, faible profondeur de champ, objectif portrait 85 mm, f/1.8, plage dynamique élevée, photographie éditoriale professionnelle, photoréaliste, ultra-détaillée, qualité 8K, sans CGI ni aspect artificiel.
 ```
 
 [↑ Retour aux catégories](#catalog)

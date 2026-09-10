@@ -93,20 +93,22 @@ gera-me a sentar-me de costas para a câmara, depois a levantar-me e a virar-me 
 
 <a name="prompt-2097892780052013289"></a>
 
-### Tradução em curso
+### Retrato realista de estúdio de uma jovem com olhos verde-avelã, cabelo apanhado e vestido branco com folhos.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicação original](https://x.com/oju689/status/2097892780052013289)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato realista de estúdio de uma jovem com olhos verde-avelã, cabelo apanhado e vestido branco com folhos.
 
 <img src="images/2097892780052013289-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Retrato em grande plano ultrarrealista de uma bela jovem com traços naturais e delicados, pele clara e suave com sardas subtis e textura de pele realista, expressivos olhos verde-avelã a olhar ligeiramente para o lado, sobrancelhas naturalmente definidas, lábios cor-de-rosa suave e uma expressão meiga e confiante. O seu cabelo castanho-escuro está apanhado num penteado solto, elegante e despenteado, com mechas rebeldes naturais a emoldurar o rosto. Veste um romântico vestido texturado branco com mangas curtas delicadas com folhos e um decote suavemente franzido, combinado com fios finos de ouro sobrepostos com minúsculos detalhes de pérolas e pequenos pendentes, além de elegantes brincos compridos.
+
+Iluminação de estúdio natural, suave e quente, fundo bege neutro, sombras subtis, proporções faciais realistas, mechas de cabelo detalhadas, poros e textura de pele autênticos, maquilhagem natural, blush suave, fotografia cinematográfica, profundidade de campo reduzida, objetiva de retrato de 85 mm, f/1.8, elevada gama dinâmica, fotografia editorial profissional, fotorrealista, ultradetalhada, qualidade 8K, sem CGI ou aparência artificial.
 ```
 
 [↑ Voltar às categorias](#catalog)

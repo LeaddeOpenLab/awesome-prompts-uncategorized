@@ -93,20 +93,22 @@ generami mentre mi metto a sedere dando le spalle alla telecamera, poi mi alzo i
 
 <a name="prompt-2097892780052013289"></a>
 
-### Traduzione in corso
+### Ritratto fotografico realistico in studio di una giovane donna con occhi verde nocciola, acconciatura raccolta e abito bianco a balze.
 
 Autore：[@oju689](https://x.com/oju689) · [Post originale](https://x.com/oju689/status/2097892780052013289)
 
 Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto fotografico realistico in studio di una giovane donna con occhi verde nocciola, acconciatura raccolta e abito bianco a balze.
 
 <img src="images/2097892780052013289-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto ravvicinato ultra-realistico di una splendida giovane donna dai lineamenti naturali e delicati, pelle chiara e morbida con sottili lentiggini e grana della pelle realistica, espressivi occhi verde nocciola che guardano leggermente di lato, sopracciglia naturalmente definite, labbra rosa tenue e un'espressione dolce e sicura. I suoi capelli castano scuro sono raccolti in un'acconciatura morbida ed elegante in stile spettinato, con ciocche ribelli naturali che le incorniciano il viso. Indossa un romantico abito bianco testurizzato con delicate maniche corte a balze e una scollatura leggermente arricciata, abbinato a sottili collane d'oro a strati con minuscoli dettagli di perle e piccoli ciondoli, oltre a eleganti orecchini pendenti.
+
+Illuminazione da studio naturale calda e morbida, sfondo beige neutro, ombre tenui, proporzioni del viso realistiche, ciocche di capelli dettagliate, pori e texture della pelle autentici, trucco naturale, blush delicato, fotografia cinematografica, profondità di campo ridotta, obiettivo per ritratti da 85 mm, f/1.8, alta gamma dinamica, fotografia editoriale professionale, fotorealistica, ultra-dettagliata, qualità 8K, nessun CGI o aspetto artificiale.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -93,20 +93,22 @@ genérame incorporándome de espaldas a la cámara, luego levantándome y dándo
 
 <a name="prompt-2097892780052013289"></a>
 
-### Traducción en curso
+### Retrato de estudio realista de una mujer joven con ojos verde avellana, un peinado recogido y un vestido blanco con volantes.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicación original](https://x.com/oju689/status/2097892780052013289)
 
 Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de estudio realista de una mujer joven con ojos verde avellana, un peinado recogido y un vestido blanco con volantes.
 
 <img src="images/2097892780052013289-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato en primer plano ultrarrealista de una hermosa mujer joven con rasgos delicados y naturales, piel clara y suave con sutiles pecas y textura de piel realista, expresivos ojos verde avellana que miran ligeramente hacia un lado, cejas definidas de forma natural, labios suaves y rosados, y una expresión dulce y segura. Su cabello castaño oscuro está recogido en un peinado alto desenfadado, elegante y suelto, con mechones sueltos naturales que enmarcan su rostro. Lleva un romántico vestido blanco con textura, delicadas mangas cortas con volantes y un escote suavemente fruncido, combinado con finos collares dorados superpuestos con diminutos detalles de perlas y pequeños colgantes, además de elegantes pendientes colgantes.
+
+Iluminación de estudio suave, cálida y natural, fondo beige neutro, sombras sutiles, proporciones faciales realistas, mechones de cabello detallados, textura y poros de piel auténticos, maquillaje natural, rubor suave, fotografía cinematográfica, profundidad de campo reducida, lente de retrato de 85 mm, f/1.8, alto rango dinámico, fotografía editorial profesional, fotorrealista, ultradetallada, calidad 8K, sin CGI ni apariencia artificial.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -93,20 +93,22 @@ tạo hình ảnh tôi đang ngồi dậy quay lưng về phía máy ảnh, sau 
 
 <a name="prompt-2097892780052013289"></a>
 
-### Đang dịch
+### Chân dung studio chân thực của một phụ nữ trẻ với đôi mắt màu xanh lục hạt dẻ, mái tóc búi cao và chiếc váy trắng xếp bèo.
 
 Tác giả：[@oju689](https://x.com/oju689) · [Bài gốc](https://x.com/oju689/status/2097892780052013289)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung studio chân thực của một phụ nữ trẻ với đôi mắt màu xanh lục hạt dẻ, mái tóc búi cao và chiếc váy trắng xếp bèo.
 
 <img src="images/2097892780052013289-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức chân dung cận cảnh siêu thực của một phụ nữ trẻ xinh đẹp với những đường nét tự nhiên, thanh tú, làn da trắng mịn màng với những đốm tàn nhang nhẹ và kết cấu da chân thực, đôi mắt màu xanh lục hạt dẻ đầy biểu cảm nhìn hơi chếch sang một bên, lông mày sắc nét tự nhiên, đôi môi màu hồng mềm mại cùng biểu cảm dịu dàng, tự tin. Mái tóc màu nâu sẫm của cô được tạo kiểu búi rối lỏng lẻo, thanh lịch với những lọn tóc con buông xõa tự nhiên ôm lấy khuôn mặt. Cô diện một chiếc váy trắng có bề mặt dệt lãng mạn với tay áo ngắn xếp bèo tinh tế cùng phần cổ áo nhún nhẹ nhàng, kết hợp cùng dây chuyền vàng mảnh nhiều tầng đính chi tiết ngọc trai nhỏ và mặt dây chuyền bé, cùng đôi hoa tai dáng dài thanh lịch.
+
+Ánh sáng studio tự nhiên ấm áp và dịu nhẹ, phông nền màu be trung tính, bóng mờ tinh tế, tỷ lệ khuôn mặt chân thực, từng sợi tóc chi tiết, lỗ chân lông và kết cấu da chân thực, trang điểm tự nhiên, má hồng nhẹ nhàng, nhiếp ảnh phong cách điện ảnh, độ sâu trường ảnh nông, ống kính chân dung 85mm, f/1.8, dải tương phản động cao (HDR), ảnh chụp biên tập chuyên nghiệp, chân thực như ảnh chụp, siêu chi tiết, chất lượng 8K, không có hiệu ứng CGI hay vẻ ngoài nhân tạo.
 ```
 
 [↑ Về danh mục](#catalog)

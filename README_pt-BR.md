@@ -93,20 +93,22 @@ gerar eu me sentando de costas para a câmera, depois me levantando e me virando
 
 <a name="prompt-2097892780052013289"></a>
 
-### Tradução em andamento
+### Retrato realista de estúdio de uma jovem com olhos verde-avelã, penteado preso e vestido branco com babados.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicação original](https://x.com/oju689/status/2097892780052013289)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato realista de estúdio de uma jovem com olhos verde-avelã, penteado preso e vestido branco com babados.
 
 <img src="images/2097892780052013289-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Retrato em close-up ultrarrealista de uma linda jovem com traços naturais e delicados, pele clara e macia com sardas sutis e textura de pele realista, expressivos olhos verde-avelã olhando suavemente para o lado, sobrancelhas naturalmente definidas, lábios rosa-suave e uma expressão gentil e confiante. Seu cabelo castanho-escuro está preso em um coque despojado, solto e elegante, com mechas rebeldes naturais emoldurando seu rosto. Ela veste um vestido texturizado branco romântico com delicadas mangas curtas franzidas e um decote suavemente drapeado, combinado com camadas de colares finos de ouro com pequenos detalhes de pérolas e pingentes delicados, além de elegantes brincos compridos.
+
+Iluminação de estúdio natural, quente e suave, fundo bege neutro, sombras sutis, proporções faciais realistas, mechas de cabelo detalhadas, poros e textura de pele autênticos, maquiagem natural, blush suave, fotografia cinematográfica, profundidade de campo rasa, lente de retrato de 85 mm, f/1.8, alta faixa dinâmica, fotografia editorial profissional, fotorrealista, ultradetalhada, qualidade 8K, sem CGI ou aparência artificial.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -93,20 +93,22 @@ Generiere mich, wie ich mich mit dem Rücken zur Kamera aufsetze, dann aufstehe 
 
 <a name="prompt-2097892780052013289"></a>
 
-### Übersetzung läuft
+### Realistisches Studioporträt einer jungen Frau mit haselnussgrünen Augen, Hochsteckfrisur und weißem Rüschenkleid.
 
 Autor：[@oju689](https://x.com/oju689) · [Originalbeitrag](https://x.com/oju689/status/2097892780052013289)
 
 Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistisches Studioporträt einer jungen Frau mit haselnussgrünen Augen, Hochsteckfrisur und weißem Rüschenkleid.
 
 <img src="images/2097892780052013289-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistisches Nahaufnahme-Porträt einer wunderschönen jungen Frau mit natürlichen, zarten Gesichtszügen, weicher, heller Haut mit dezenten Sommersprossen und realistischer Hautstruktur, ausdrucksstarken haselnussgrünen Augen, die leicht zur Seite blicken, natürlich definierten Augenbrauen, sanften rosa Lippen und einem sanften, selbstbewussten Ausdruck. Ihr dunkelbraunes Haar ist zu einer lockeren, eleganten Hochsteckfrisur im Messy-Look gestylt, wobei natürliche, fliegende Strähnen ihr Gesicht umrahmen. Sie trägt ein romantisches, weißes, strukturiertes Kleid mit zarten Rüschen-Kurzärmeln und einem weich gerafften Ausschnitt, kombiniert mit mehrlagigen feinen Goldketten mit winzigen Perlendetails und kleinen Anhängern sowie eleganten Hängeohrringen.
+
+Sanfte, warme, natürliche Studiobeleuchtung, neutraler beiger Hintergrund, dezente Schatten, realistische Gesichtsproportionen, detaillierte Haarsträhnen, authentische Hautporen und Textur, natürliches Make-up, sanftes Rouge, filmische Fotografie, geringe Schärfentiefe, 85-mm-Porträtobjektiv, f/1.8, hoher Dynamikumfang, professionelle redaktionelle Fotografie, fotorealistisch, extrem detailliert, 8K-Qualität, kein CGI oder künstliches Erscheinungsbild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
