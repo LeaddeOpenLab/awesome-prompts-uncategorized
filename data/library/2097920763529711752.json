@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T08:28:10.910Z",
+  "model": "unknown-video",
+  "prompt": "Create a cinematic 10-second premium advertisement for the authentic Philips Hue Go Portable Table Lamp, vertical 9:16.\n\n0–2 sec: Dark modern room, camera slowly pushes toward the lamp as it softly illuminates.\n\n2–4 sec: Macro close-up of the lamp's glowing edge, smoothly transitioning through different ambient colors.\n\n4–6 sec: Camera follows the lamp being placed on an elegant outdoor table during sunset.\n\n6–8 sec: Smooth transition to a modern bedroom where the lamp creates a cozy ambient atmosphere.\n\n8–10 sec: Final hero shot, slow 360-degree camera movement around the Philips Hue Go with beautiful cinematic lighting.\n\nPhotorealistic commercial, premium brand advertisement, realistic lighting effects, smooth camera movement, cinematic depth of field, authentic product design, polished professional campaign, no text overlays, no watermark.",
+  "promptTranslations": {
+    "en": "Create a cinematic 10-second premium advertisement for the authentic Philips Hue Go Portable Table Lamp, vertical 9:16.\\n\\n0–2 sec: Dark modern room, camera slowly pushes toward the lamp as it softly illuminates.\\n\\n2–4 sec: Macro close-up of the lamp's glowing edge, smoothly transitioning through different ambient colors.\\n\\n4–6 sec: Camera follows the lamp being placed on an elegant outdoor table during sunset.\\n\\n6–8 sec: Smooth transition to a modern bedroom where the lamp creates a cozy ambient atmosphere.\\n\\n8–10 sec: Final hero shot, slow 360-degree camera movement around the Philips Hue Go with beautiful cinematic lighting.\\n\\nPhotorealistic commercial, premium brand advertisement, realistic lighting effects, smooth camera movement, cinematic depth of field, authentic product design, polished professional campaign, no text overlays, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "10-second cinematic vertical commercial prompt for Philips Hue Go portable table lamp across multiple moods and settings."
+  },
+  "translationVersion": 2,
+  "summary": "10-second cinematic vertical commercial prompt for Philips Hue Go portable table lamp across multiple moods and settings.",
+  "summaryEn": "10-second cinematic vertical commercial prompt for Philips Hue Go portable table lamp across multiple moods and settings.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097920763529711752",
+    "canonicalUrl": "https://x.com/Urwa_345/status/2097920763529711752",
+    "author": {
+      "username": "Urwa_345",
+      "displayName": "𝐔𝐫𝐰𝐚 𝐀𝐈",
+      "profileUrl": "https://x.com/Urwa_345"
+    },
+    "publishedAt": "2026-09-10T05:31:02.000Z",
+    "collectedAt": "2026-09-10T08:16:56.591Z",
+    "language": "en",
+    "originalText": "**“One lamp. Every mood. ✨💡\n\nPrompt 👇 \n\nCreate a cinematic 10-second premium advertisement for the authentic Philips Hue Go Portable Table Lamp, vertical 9:16.\n\n0–2 sec: Dark modern room, camera slowly pushes toward the lamp as it softly illuminates.\n\n2–4 sec: Macro close-up of the lamp's glowing edge, smoothly transitioning through different ambient colors.\n\n4–6 sec: Camera follows the lamp being placed on an elegant outdoor table during sunset.\n\n6–8 sec: Smooth transition to a modern bedroom where the lamp creates a cozy ambient atmosphere.\n\n8–10 sec: Final hero shot, slow 360-degree camera movement around the Philips Hue Go with beautiful cinematic lighting.\n\nPhotorealistic commercial, premium brand advertisement, realistic lighting effects, smooth camera movement, cinematic depth of field, authentic product design, polished professional campaign, no text overlays, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Urwa_345/status/2097920763529711752",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2097920142319755264/img/C4ArXVCa_2D1cdO1.jpg",
+        "analysisUrl": "https://x.com/Urwa_345/status/2097920763529711752"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR1PzfzasAAyjv-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR1PzfzasAAyjv-.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 101,
+      "repostCount": 11,
+      "replyCount": 8,
+      "quoteCount": 25,
+      "viewCount": 52641
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Urwa_345/status/2097920763529711752",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2097920142319755264/img/C4ArXVCa_2D1cdO1.jpg",
+  "coverPath": "covers/2097920763529711752.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2097920142319755264",
+    "x-image:/media/HR1PzfzasAAyjv-",
+    "x-post:2097920763529711752"
+  ],
+  "analysis": {
+    "summary": "10-second cinematic vertical commercial prompt for Philips Hue Go portable table lamp across multiple moods and settings.",
+    "summaryEn": "10-second cinematic vertical commercial prompt for Philips Hue Go portable table lamp across multiple moods and settings.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video faithfully reproduces the specified shot sequence: indoor push-in, macro color shift, outdoor sunset placement, bedroom ambient lighting, and hero 360 rotation."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a cinematic 10-second premium advertisement for the authentic Philips Hue Go Portable Table Lamp, vertical 9:16.\n\n0–2 sec: Dark modern room, camera slowly pushes toward the lamp as it softly illuminates.\n\n2–4 sec: Macro close-up of the lamp's glowing edge, smoothly transitioning through different ambient colors.\n\n4–6 sec: Camera follows the lamp being placed on an elegant outdoor table during sunset.\n\n6–8 sec: Smooth transition to a modern bedroom where the lamp creates a cozy ambient atmosphere.\n\n8–10 sec: Final hero shot, slow 360-degree camera movement around the Philips Hue Go with beautiful cinematic lighting.\n\nPhotorealistic commercial, premium brand advertisement, realistic lighting effects, smooth camera movement, cinematic depth of field, authentic product design, polished professional campaign, no text overlays, no watermark.",
+    "sourceRange": {
+      "start": 40,
+      "end": 894
+    },
+    "translations": {
+      "zh": "为飞利浦 Hue Go 便携式台灯制作一段 10 秒电影级高质感垂直画幅（9:16）广告。\n\n0–2 秒：昏暗现代房间，摄像机缓缓推向轻柔亮起的台灯。\n\n2–4 秒：台灯发光边缘的微距特写，平滑变换不同环境色彩。\n\n4–6 秒：镜头跟随台灯在日落时分被放置于户外雅致餐桌上。\n\n6–8 秒：平滑过渡至现代卧室，台灯营造温馨氛围。\n\n8–10 秒：最终主角镜头，镜头围绕飞利浦 Hue Go 缓慢 360 度环绕，配以优美电影级光影。\n\n逼真商业广告，高端品牌质感，真实光效，平滑运镜，电影景深，真实产品外观，无文字与水印。",
+      "en": "Create a cinematic 10-second premium advertisement for the authentic Philips Hue Go Portable Table Lamp, vertical 9:16.\n\n0–2 sec: Dark modern room, camera slowly pushes toward the lamp as it softly illuminates.\n\n2–4 sec: Macro close-up of the lamp's glowing edge, smoothly transitioning through different ambient colors.\n\n4–6 sec: Camera follows the lamp being placed on an elegant outdoor table during sunset.\n\n6–8 sec: Smooth transition to a modern bedroom where the lamp creates a cozy ambient atmosphere.\n\n8–10 sec: Final hero shot, slow 360-degree camera movement around the Philips Hue Go with beautiful cinematic lighting.\n\nPhotorealistic commercial, premium brand advertisement, realistic lighting effects, smooth camera movement, cinematic depth of field, authentic product design, polished professional campaign, no text overlays, no watermark."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Philips Hue"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
