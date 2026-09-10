@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**27** Prompts · Latest addition: **2026-09-10**
+**28** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -619,6 +619,36 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097892340165992619"></a>
+
+### 1980s retro Kodak film style portrait prompt, featuring a pink shirt, black high-waisted skirt, retro curls, and room setting.
+
+Author：[@MissDelulu9](https://x.com/MissDelulu9) · [Source](https://x.com/MissDelulu9/status/2097892340165992619)
+
+Retro / Vintage · Portrait / Selfie · Published
+
+**Summary:** 1980s retro Kodak film style portrait prompt, featuring a pink shirt, black high-waisted skirt, retro curls, and room setting.
+
+<img src="images/2097892340165992619-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097892340165992619-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Transform my photo into an authentic 1980s retro Indian fashion portrait, inspired by the reference image.
+
+Keep the exact face, facial features, face structure, skin tone, identity, and natural proportions unchanged. Do not alter or beautify the face.
+
+Dress her in a full-sleeve pink shirt tucked neatly into a black high-waisted skirt with a stylish belt. Remove the scarf completely. Add simple 1980s-inspired accessories. Give her bouncy, voluminous retro hair styled with a cute ribbon.
+
+Create an authentic 1980s background and atmosphere. Use a Kodak film-camera look with warm faded colors, subtle film grain, soft analog texture, gentle vintage lighting, and natural skin texture. Make it look like a genuine photograph taken in the 1980s, not a modern photo with a vintage filter. No watermark, no text, no distortion.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097852814341128610"></a>
 

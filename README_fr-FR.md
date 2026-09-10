@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**27** Prompts · Dernier ajout: **2026-09-10**
+**28** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -579,6 +579,30 @@ Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et e
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2097892340165992619"></a>
+
+### Traduction en cours
+
+Auteur：[@MissDelulu9](https://x.com/MissDelulu9) · [Publication originale](https://x.com/MissDelulu9/status/2097892340165992619)
+
+Rétro / Vintage · Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097892340165992619-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097892340165992619-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097852814341128610"></a>
 

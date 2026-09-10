@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**27** Prompt · Ultima aggiunta: **2026-09-10**
+**28** Prompt · Ultima aggiunta: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -579,6 +579,30 @@ Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticame
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2097892340165992619"></a>
+
+### Traduzione in corso
+
+Autore：[@MissDelulu9](https://x.com/MissDelulu9) · [Post originale](https://x.com/MissDelulu9/status/2097892340165992619)
+
+Retro / Vintage · Ritratto / Selfie · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097892340165992619-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097892340165992619-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097852814341128610"></a>
 
