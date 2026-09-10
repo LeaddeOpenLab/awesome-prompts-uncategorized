@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**33** Prompt · Son eklenen: **2026-09-10**
+**34** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -783,6 +783,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2097896913269854538"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Orijinal gönderi](https://x.com/TheEerieHollows/status/2097896913269854538)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097896913269854538-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097852564029272236"></a>
 
