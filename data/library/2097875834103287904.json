@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T04:18:57.370Z",
+  "model": "unknown-image",
+  "prompt": "将上传的旅行照片制作成一张 3:4 竖版实体书本静物摄影。\n\n最重要的是：画面是一本文艺旅行速写本真正摊开在桌面上。左右两页通过中间清晰可见的书脊连接，页面具有自然的翻页弧度、纸张厚度、页边层次和柔和投影。不是上下分屏，不是左右两张独立海报，不是平面拼贴。\n\n左页：\n完整保留上传照片中的主要场景、主体、透视、光线和色彩，作为贴合在纸页上的真实旅行照片。照片边缘随书页略微弯曲，但仍保持清晰摄影质感。\n\n右页：\n将同一地点、同一主体重绘成水彩旅行随笔。保留最有辨识度的轮廓、空间关系和主要色块，使用透明叠染、干湿交替、自然晕染、颗粒感和可见纸白表现。不要画满，不要做成照片滤镜，不要改变地点或添加不存在的主体。\n\n书本放在浅色真实桌面或纯净中性背景上，避免多余道具。右页下方保留一块安静留白，加入少量真实旅行记录：\n\n“[地点或主题标题]”\n“[一句简短、具体、与现场景物有关的观察]”\n“PAGE [编号]”\n\n文字像旅行者用细笔写下，略带手写的不规则感，清楚但克制。不要出现作者名、品牌、Logo、网址、水印、乱码或额外文字。\n\n整体应像真实书本与旅行摄影、手绘水彩共同组成的纪念页面：纸张可触摸，书脊真实，左右页彼此呼应，照片与水彩之间有明确的记忆转换。\n\n避免：上下对比、左右硬切割、普通相框、手账贴纸堆满、胶带过多、票卡、邮票齿孔、数字矢量线、厚重油画、完全抹平的白底、额外人物或不属于原图的地标。",
+  "promptTranslations": {
+    "en": "Convert the uploaded travel photo into a 3:4 vertical still life photograph of a physical book.\n\nMost importantly: The composition shows an artistic travel sketchbook genuinely laid open on a tabletop. The left and right pages are connected by a clearly visible spine in the center; the pages feature a natural curved contour from opening, visible paper thickness, layered page edges, and soft drop shadows. It is not an upper-and-lower split screen, not two independent side-by-side posters, and not a flat collage.\n\nLeft page:\nFully preserve the main scene, subject, perspective, lighting, and colors from the uploaded photo, presented as a genuine travel photograph adhered to the paper page. The edges of the photograph curve slightly along with the book page, while maintaining a crisp photographic quality.\n\nRight page:\nRecreate the exact same location and subject as a watercolor travel sketch. Retain the most recognizable silhouettes, spatial relationships, and primary color blocks, expressed through transparent washes, alternating wet-on-dry and wet-on-wet techniques, natural bleeding, granulation, and visible untouched paper white. Do not paint edge-to-edge, do not render it as a photo filter, and do not alter the location or add subjects that are not present in the original.\n\nThe book rests on a light-toned authentic tabletop or a clean, neutral background, avoiding superfluous props. Preserve a tranquil area of negative space beneath the right page's illustration, featuring minimal genuine travel notes:\n\n\"[Location or Theme Title]\"\n\"[A brief, specific observation related to the on-site scenery]\"\n\"PAGE [Number]\"\n\nThe text appears as though penned by a traveler with a fine-nib pen, carrying subtle handwritten irregularities, legible yet restrained. Do not include author names, brands, logos, URLs, watermarks, garbled characters, or extraneous text.\n\nThe overall aesthetic should evoke a commemorative keepsake spread composed of an authentic book, travel photography, and hand-painted watercolor: tactile paper texture, a realistic book spine, harmonious correspondence between left and right pages, and a clear transition of memory between photograph and watercolor.\n\nAvoid: top-and-bottom comparisons, hard left-right split cuts, conventional picture frames, overcrowded journal stickers, excessive washi tape, ticket stubs, postage stamp perforations, digital vector lines, thick impasto oil paint, completely flat white cutouts, extra people, or landmarks that do not belong to the original image."
+  },
+  "summaryTranslations": {
+    "en": "Transform a travel photo into an open sketchbook layout, featuring the original photograph on the left page and a corresponding watercolor sketch with handwritten notes on the right page."
+  },
+  "translationVersion": 2,
+  "summary": "将旅行照片转为摊开速写本效果，左页为原照片，右页为对应水彩画及手写文字。",
+  "summaryEn": "Converts travel photos into an open sketchbook layout with original photo on left and watercolor on right.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2097875834103287904",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2097875834103287904",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-10T02:32:30.000Z",
+    "collectedAt": "2026-09-10T04:17:05.195Z",
+    "language": "zh",
+    "originalText": "【摊页水彩旅行札记｜OPEN-BOOK WATERCOLOR TRAVEL JOURNAL】\n\n像一本被摊开的旅行本：左页还保留着相机拍下的现场，右页已经变成记忆里的水彩。\n\nprompt：\n将上传的旅行照片制作成一张 3:4 竖版实体书本静物摄影。\n\n最重要的是：画面是一本文艺旅行速写本真正摊开在桌面上。左右两页通过中间清晰可见的书脊连接，页面具有自然的翻页弧度、纸张厚度、页边层次和柔和投影。不是上下分屏，不是左右两张独立海报，不是平面拼贴。\n\n左页：\n完整保留上传照片中的主要场景、主体、透视、光线和色彩，作为贴合在纸页上的真实旅行照片。照片边缘随书页略微弯曲，但仍保持清晰摄影质感。\n\n右页：\n将同一地点、同一主体重绘成水彩旅行随笔。保留最有辨识度的轮廓、空间关系和主要色块，使用透明叠染、干湿交替、自然晕染、颗粒感和可见纸白表现。不要画满，不要做成照片滤镜，不要改变地点或添加不存在的主体。\n\n书本放在浅色真实桌面或纯净中性背景上，避免多余道具。右页下方保留一块安静留白，加入少量真实旅行记录：\n\n“[地点或主题标题]”\n“[一句简短、具体、与现场景物有关的观察]”\n“PAGE [编号]”\n\n文字像旅行者用细笔写下，略带手写的不规则感，清楚但克制。不要出现作者名、品牌、Logo、网址、水印、乱码或额外文字。\n\n整体应像真实书本与旅行摄影、手绘水彩共同组成的纪念页面：纸张可触摸，书脊真实，左右页彼此呼应，照片与水彩之间有明确的记忆转换。\n\n避免：上下对比、左右硬切割、普通相框、手账贴纸堆满、胶带过多、票卡、邮票齿孔、数字矢量线、厚重油画、完全抹平的白底、额外人物或不属于原图的地标。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0m8dGboAAWS0a.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0m8dGboAAWS0a.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0m8dGbsAAT0MC.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0m8dGbsAAT0MC.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0m8dJbYAATvA0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0m8dJbYAATvA0.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0m8dRaMAAR1Zb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0m8dRaMAAR1Zb.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 476
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2097875834103287904",
+  "coverUrl": "https://pbs.twimg.com/media/HR0m8dGboAAWS0a.jpg",
+  "coverPath": "images/2097875834103287904-1.jpg",
+  "imagePaths": [
+    "images/2097875834103287904-1.jpg",
+    "images/2097875834103287904-2.jpg",
+    "images/2097875834103287904-3.jpg",
+    "images/2097875834103287904-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR0m8dGboAAWS0a",
+    "x-image:/media/HR0m8dGbsAAT0MC",
+    "x-image:/media/HR0m8dJbYAATvA0",
+    "x-image:/media/HR0m8dRaMAAR1Zb",
+    "x-post:2097875834103287904"
+  ],
+  "analysis": {
+    "summary": "将旅行照片转为摊开速写本效果，左页为原照片，右页为对应水彩画及手写文字。",
+    "summaryEn": "Converts travel photos into an open sketchbook layout with original photo on left and watercolor on right.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均为摊开的速写本静物，左页为真实照片，右页为同一景色的手绘水彩及旅行笔记，与提示词要求高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "将上传的旅行照片制作成一张 3:4 竖版实体书本静物摄影。\n\n最重要的是：画面是一本文艺旅行速写本真正摊开在桌面上。左右两页通过中间清晰可见的书脊连接，页面具有自然的翻页弧度、纸张厚度、页边层次和柔和投影。不是上下分屏，不是左右两张独立海报，不是平面拼贴。\n\n左页：\n完整保留上传照片中的主要场景、主体、透视、光线和色彩，作为贴合在纸页上的真实旅行照片。照片边缘随书页略微弯曲，但仍保持清晰摄影质感。\n\n右页：\n将同一地点、同一主体重绘成水彩旅行随笔。保留最有辨识度的轮廓、空间关系和主要色块，使用透明叠染、干湿交替、自然晕染、颗粒感和可见纸白表现。不要画满，不要做成照片滤镜，不要改变地点或添加不存在的主体。\n\n书本放在浅色真实桌面或纯净中性背景上，避免多余道具。右页下方保留一块安静留白，加入少量真实旅行记录：\n\n“[地点或主题标题]”\n“[一句简短、具体、与现场景物有关的观察]”\n“PAGE [编号]”\n\n文字像旅行者用细笔写下，略带手写的不规则感，清楚但克制。不要出现作者名、品牌、Logo、网址、水印、乱码或额外文字。\n\n整体应像真实书本与旅行摄影、手绘水彩共同组成的纪念页面：纸张可触摸，书脊真实，左右页彼此呼应，照片与水彩之间有明确的记忆转换。\n\n避免：上下对比、左右硬切割、普通相框、手账贴纸堆满、胶带过多、票卡、邮票齿孔、数字矢量线、厚重油画、完全抹平的白底、额外人物或不属于原图的地标。",
+    "sourceRange": {
+      "start": 96,
+      "end": 700
+    },
+    "translations": {
+      "zh": "将上传的旅行照片制作成一张 3:4 竖版实体书本静物摄影。文艺旅行速写本摊开在桌面上，书脊清晰相连。左页呈现原始旅行照片质感，右页为同场景的水彩手绘速写，保留纸白与留白，右下附手写感旅行记录与页码。",
+      "en": "Create a 3:4 vertical still-life photo of an open travel journal. The sketchbook rests flat on a desk showing the spine. The left page holds the original travel photograph, while the right page features a watercolor rendition of the same scene with handwritten notes and page number."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
