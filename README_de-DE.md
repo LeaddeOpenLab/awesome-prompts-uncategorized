@@ -642,20 +642,20 @@ Originalbeitrag：[@Gigi214TX](https://x.com/Gigi214TX) · [Originalbeitrag](htt
 
 <a name="prompt-2097853137080209799"></a>
 
-### Übersetzung läuft
+### Wie Origami verdrehte und gefaltete futuristische Stadt mit geschwungenen Gebäuden, leuchtenden Farben und Sonnenuntergang.
 
 Autor：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Originalbeitrag](https://x.com/CoopandKCmom/status/2097853137080209799)
 
 Landschaft / Natur · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Wie Origami verdrehte und gefaltete futuristische Stadt mit geschwungenen Gebäuden, leuchtenden Farben und Sonnenuntergang.
 
 <img src="images/2097853137080209799-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine ganze futuristische Stadt, gefaltet wie Origami, Wolkenkratzer, die sich nach oben biegen und dann unter sich selbst zurückkrümmen, Straßen, die sich vertikal an Wänden fortsetzen, Brücken, die sich zu Schleifen winden, Gebäude, die in unmöglichen Winkeln aus anderen Gebäuden wachsen. Elektrisches Magenta, Cyan, Orange, Limette, Kobalt und metallisches Gold, leuchtende Fenster, reflektierende Oberflächen, strahlender Sonnenuntergang, surrealistisches architektonisches Meisterwerk, extreme Tiefe und Detailtreue.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -642,20 +642,20 @@ Traduzione in corso
 
 <a name="prompt-2097853137080209799"></a>
 
-### Traduzione in corso
+### Città futuristica contorta e piegata come un origami, contenente edifici curvi, colori vivaci e un tramonto.
 
 Autore：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Post originale](https://x.com/CoopandKCmom/status/2097853137080209799)
 
 Paesaggio / Natura · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Città futuristica contorta e piegata come un origami, contenente edifici curvi, colori vivaci e un tramonto.
 
 <img src="images/2097853137080209799-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un'intera città futuristica piegata come un origami, grattacieli che si curvano verso l'alto per poi ripiegarsi sotto se stessi, strade che continuano verticalmente lungo i muri, ponti che si attorcigliano in anelli, edifici che crescono da altri edifici con angolazioni impossibili. Magenta elettrico, ciano, arancione, lime, cobalto e oro metallico, finestre luminose, superfici riflettenti, brillante tramonto, capolavoro architettonico surreale, estrema profondità e dettaglio.
 ```
 
 [↑ Torna alle categorie](#catalog)

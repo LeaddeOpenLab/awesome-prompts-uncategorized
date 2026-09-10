@@ -642,20 +642,20 @@ Traducción en curso
 
 <a name="prompt-2097853137080209799"></a>
 
-### Traducción en curso
+### Ciudad futurista doblada y retorcida como origami, con edificios curvados, colores vivos y atardecer.
 
 Autor：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Publicación original](https://x.com/CoopandKCmom/status/2097853137080209799)
 
 Paisaje / Naturaleza · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Ciudad futurista doblada y retorcida como origami, con edificios curvados, colores vivos y atardecer.
 
 <img src="images/2097853137080209799-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Toda una ciudad futurista plegada como origami, rascacielos que se curvan hacia arriba y luego se doblan hacia atrás por debajo de sí mismos, calles que continúan verticalmente por las paredes, puentes que se retuercen en bucles, edificios que crecen desde otros edificios en ángulos imposibles. Magenta eléctrico, cian, naranja, lima, cobalto y oro metálico, ventanas brillantes, superficies reflectantes, atardecer brillante, obra maestra arquitectónica surrealista, extrema profundidad y detalle.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -642,20 +642,20 @@ Tradução em curso
 
 <a name="prompt-2097853137080209799"></a>
 
-### Tradução em curso
+### Cidade futurista torcida e dobrada como origami, contendo edifícios curvos, cores vibrantes e pôr do sol.
 
 Autor：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Publicação original](https://x.com/CoopandKCmom/status/2097853137080209799)
 
 Paisagem / Natureza · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cidade futurista torcida e dobrada como origami, contendo edifícios curvos, cores vibrantes e pôr do sol.
 
 <img src="images/2097853137080209799-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma cidade futurista inteira dobrada como origami, arranha-céus a curvar-se para cima e depois a dobrar-se para trás sob si mesmos, ruas a continuar verticalmente pelas paredes, pontes a torcer-se em laços, edifícios a crescer a partir de outros edifícios em ângulos impossíveis. Magenta elétrico, ciano, laranja, lima, cobalto e ouro metálico, janelas brilhantes, superfícies refletoras, pôr do sol brilhante, obra-prima arquitetónica surreal, extrema profundidade e detalhe.
 ```
 
 [↑ Voltar às categorias](#catalog)

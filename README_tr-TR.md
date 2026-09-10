@@ -642,20 +642,20 @@ Orijinal gönderi：[@Gigi214TX](https://x.com/Gigi214TX) · [Orijinal gönderi]
 
 <a name="prompt-2097853137080209799"></a>
 
-### Çeviri sürüyor
+### Origami gibi bükülüp katlanmış, kavisli binalar, canlı renkler ve gün batımı içeren fütüristik şehir.
 
 Yazar：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Orijinal gönderi](https://x.com/CoopandKCmom/status/2097853137080209799)
 
 Manzara / Doğa · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Origami gibi bükülüp katlanmış, kavisli binalar, canlı renkler ve gün batımı içeren fütüristik şehir.
 
 <img src="images/2097853137080209799-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Origami gibi katlanmış fütüristik bir şehrin tamamı, yukarı doğru kıvrılıp ardından kendi altlarına doğru bükülen gökdelenler, duvarlar boyunca dikey olarak devam eden sokaklar, ilmekler halinde bükülen köprüler, imkansız açılarla diğer binalardan büyüyen binalar. Elektrik macenta, camgöbeği, turuncu, misket limonu, kobalt ve metalik altın, parlayan pencereler, yansıtıcı yüzeyler, görkemli gün batımı, gerçeküstü mimari başyapıt, aşırı derinlik ve detay.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -642,20 +642,20 @@ Traduction en cours
 
 <a name="prompt-2097853137080209799"></a>
 
-### Traduction en cours
+### Ville futuriste tordue et pliée comme un origami, comprenant des gratte-ciel courbés, des couleurs éclatantes et un coucher de soleil.
 
 Auteur：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Publication originale](https://x.com/CoopandKCmom/status/2097853137080209799)
 
 Paysage / Nature · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Ville futuriste tordue et pliée comme un origami, comprenant des gratte-ciel courbés, des couleurs éclatantes et un coucher de soleil.
 
 <img src="images/2097853137080209799-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une ville futuriste entière pliée comme un origami, des gratte-ciel s'incurvant vers le haut puis se repliant sous eux-mêmes, des rues se prolongeant verticalement sur les murs, des ponts se tordant en boucles, des bâtiments émergeant d'autres bâtiments sous des angles impossibles. Magenta électrique, cyan, orange, citron vert, cobalt et or métallique, fenêtres lumineuses, surfaces réfléchissantes, coucher de soleil éclatant, chef-d'œuvre architectural surréaliste, profondeur et détails extrêmes.
 ```
 
 [↑ Retour aux catégories](#catalog)

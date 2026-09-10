@@ -654,20 +654,20 @@ Bài gốc：[@Gigi214TX](https://x.com/Gigi214TX) · [Bài gốc](https://x.com
 
 <a name="prompt-2097853137080209799"></a>
 
-### Đang dịch
+### Thành phố tương lai xoắn và gấp lại như origami, bao gồm các tòa nhà uốn cong cùng màu sắc rực rỡ và hoàng hôn.
 
 Tác giả：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Bài gốc](https://x.com/CoopandKCmom/status/2097853137080209799)
 
 Phong cảnh / Thiên nhiên · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Thành phố tương lai xoắn và gấp lại như origami, bao gồm các tòa nhà uốn cong cùng màu sắc rực rỡ và hoàng hôn.
 
 <img src="images/2097853137080209799-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Toàn bộ một thành phố tương lai được gấp lại như nghệ thuật origami, những tòa nhà chọc trời uốn cong lên trên rồi gập ngược lại bên dưới chính chúng, những con đường tiếp tục chạy thẳng đứng lên các bức tường, những cây cầu xoắn thành các vòng lặp, các tòa nhà mọc ra từ các tòa nhà khác ở những góc không tưởng. Màu đỏ tươi electric, lục lam, cam, chanh, cô-ban và vàng kim loại, những ô cửa sổ phát sáng, bề mặt phản chiếu, hoàng hôn rực rỡ, kiệt tác kiến trúc siêu thực, chiều sâu và chi tiết tột bậc.
 ```
 
 [↑ Về danh mục](#catalog)

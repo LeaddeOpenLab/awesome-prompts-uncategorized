@@ -642,20 +642,20 @@ Tradução em andamento
 
 <a name="prompt-2097853137080209799"></a>
 
-### Tradução em andamento
+### Cidade futurista retorcida e dobrada como origami, contendo edifícios curvos, cores vibrantes e pôr do sol.
 
 Autor：[@CoopandKCmom](https://x.com/CoopandKCmom) · [Publicação original](https://x.com/CoopandKCmom/status/2097853137080209799)
 
 Paisagem / Natureza · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cidade futurista retorcida e dobrada como origami, contendo edifícios curvos, cores vibrantes e pôr do sol.
 
 <img src="images/2097853137080209799-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma cidade futurista inteira dobrada como origami, arranha-céus curvando-se para cima e depois dobrando-se para trás sob si mesmos, ruas continuando verticalmente pelas paredes, pontes retorcendo-se em laços, edifícios crescendo a partir de outros edifícios em ângulos impossíveis. Magenta elétrico, ciano, laranja, lima, cobalto e ouro metálico, janelas brilhantes, superfícies reflexivas, pôr do sol brilhante, obra-prima arquitetônica surreal, extrema profundidade e detalhamento.
 ```
 
 [↑ Voltar às categorias](#catalog)
