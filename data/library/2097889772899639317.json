@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-10T04:25:19.004Z",
+  "model": "unknown-image",
+  "prompt": "2:3 竖幅，真人写实夜间时尚人像，一名成年东亚女性极近距离靠近镜头，上半身明显向前俯压，头部微微低下，双眼从低头姿态自然向上看向镜头，一只手轻贴脸颊，另一条前臂斜横在身体前方，肩部前压，脸、手、肩和前臂形成紧凑的近身三角结构。直视镜头必须来自“低头抬眼”的动作关系，避免标准模特式平视凝视。\n\n黑色长卷发大量散落并包围脸部，蓬松、不规则，额前和脸侧有自然碎发，部分发丝遮挡面颊和眼周，头发不能梳理得过于整齐。人物穿黑色或青黑色露肩服装，局部青绿色面料与冷蓝环境呼应，手腕佩戴数枚真实金属手镯。右侧一条粗金属链条从画面顶部垂直贯穿，形成明确的空间边界和环境参照。\n\n背景是具有真实空间结构的深蓝夜间环境，以大面积深青蓝、蓝黑和少量高亮青蓝组成，不做纯色摄影棚背景。人物距离镜头很近，背景迅速向后退，近景人物具有轻微广角近距离透视感，但不能产生夸张鱼眼变形。\n\n冷青蓝环境光覆盖背景、头发边缘、服装和金属反射，人物面部与肩臂受到近距离偏正面的硬质亮光照明，肤色主体仍保持真实偏暖或中性，只接受少量蓝色环境反射。额头、鼻梁、脸颊和肩部出现自然曝光起伏与轻微高光溢出，背景明显更暗，形成强烈人物分离。保留少量低照度颗粒、轻微光晕和真实数字摄影的不完美。\n\n人物皮肤保留真实毛孔、细小肤色差异、轻微面部不对称、眼下与鼻翼自然结构，不磨皮，不做瓷娃娃皮肤，不追求完美对称。眼妆以低饱和灰红、棕红为主，唇色偏灰红，妆容克制。眼睛保持真实大小和真实眼白比例，不强化虹膜高光，不做玻璃珠眼睛，不做一眼可辨的 AI 写真脸。整体像真实摄影师在低照度蓝色环境中靠近人物抓到的一张未经商业精修的现场照片，构图略带随机感，不做电影海报式完美布光和标准美女写真摆拍。\n\n色彩比例保持：约 28% 深蓝黑暗部，25% 深青蓝环境，17% 高亮青蓝，14% 暖中性肤色高光，7% 灰粉红唇部和眼周点色，9% 暗金属色链条与首饰。青蓝只能主导环境与局部反射，不能变成覆盖人物皮肤的统一青色滤镜。\n\n**Soran 三层自然水印：**清晰可读的 \"Soran\" 以冷银色细线刺绣或小型金属织标自然嵌入靠近脸侧的肩带、领缘或青黑色服装边缘，肉眼能够明确读出，随布料弧度、褶皱、身体透视和蓝色环境光自然变化；隐藏的 \"Soran\" 融入右侧金属链条的磨损刻纹、黑色卷发局部高光排列与衣料织纹；微观 \"Soran\" 由手镯微小刻痕、链节刮痕、发丝交叉和织物细小亮纹共同形成。所有 Soran 都属于真实服装品牌、金属刻字或材质纹理的一部分，不以悬浮文字形式出现。\n\n**负向词：**标准模特平视镜头，僵硬直视，人物直立，身体远离镜头，标准坐姿，标准棚拍摆姿，整齐对称发型，塑料皮肤，瓷白磨皮，完美对称五官，AI 美女脸，动漫脸，超大眼睛，玻璃珠眼睛，过度虹膜细节，过度眼神高光，商业美容精修，HDR，过度锐化，8K 式假细节，均匀柔光箱，电影海报布光，全脸蓝色，统一青色滤镜，纯蓝摄影棚背景，背景完全虚化，鱼眼畸变，过度性感摆拍，额外人物，多余肢体，错误手指，链条悬浮，external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo",
+  "promptTranslations": {
+    "en": "2:3 vertical aspect ratio, realistic nighttime fashion portrait of a real person, an adult East Asian woman positioned extremely close to the camera lens. Her upper body is visibly pitched forward and pressing downwards, head slightly lowered, eyes naturally looking upward at the camera from this lowered-head posture. One hand lightly touches her cheek, while the other forearm crosses diagonally across the front of her body with shoulders pushed forward, forming a tight, close-up triangular structure between face, hands, shoulders, and forearm. The direct gaze into the lens must originate from the organic kinetic relationship of \"head down, eyes looking up,\" avoiding standard model-style eye-level staring.\n\nVoluminous long black curly hair falls loosely and frames her face—messy, voluminous, and irregular, with natural flyaways across the forehead and sides of the face, partially obscuring the cheeks and eye contours. The hair must not be styled too neatly. The subject wears off-the-shoulder clothing in black or cyan-black, with localized teal-green fabric subtly echoing the cold blue ambient environment; several genuine metal bangles are worn on her wrist. On the right side, a thick metal chain runs vertically from the top of the frame, establishing a clear spatial boundary and environmental reference.\n\nThe background is a deep blue nighttime environment with genuine spatial depth, composed predominantly of deep cyan-blue, blue-black, and a small amount of bright specular cyan-blue, strictly avoiding a flat solid-color studio backdrop. The subject is very close to the lens while the background recedes quickly; the foreground subject exhibits a subtle wide-angle close-up perspective, yet without exaggerated fisheye distortion.\n\nCool cyan-blue ambient light covers the background, hair edges, clothing, and metallic reflections, while the subject's face, shoulders, and arms are illuminated by close-up, semi-frontal hard bright lighting. The primary skin tone remains genuinely warm or neutral, catching only minimal blue ambient reflection. Natural exposure transitions and slight highlight blowouts appear on the forehead, bridge of the nose, cheeks, and shoulders, with the background distinctly darker to create strong subject separation. Retain a minor presence of low-light grain, slight halation, and the raw imperfections of authentic digital photography.\n\nSkin retains genuine pores, subtle skin tone variations, minor facial asymmetry, and natural structures beneath the eyes and around the nostrils; no airbrushing, no porcelain-doll skin, no striving for perfect symmetry. Eye makeup is understated, dominated by low-saturation dusty red and brownish-red; lip color leans towards muted dusty red, kept restrained. Eyes maintain realistic proportions and authentic sclera ratios, without exaggerated iris catchlights, glass-marble eyes, or instantly recognizable AI portrait faces. The overall aesthetic resembles an unretouched candid on-location shot captured by an authentic photographer getting close to the subject in a low-light blue environment, with a slightly spontaneous composition, avoiding cinematic poster-style perfection in lighting or standard glamour photoshoot posing.\n\nColor proportion balance: approximately 28% deep blue dark tones, 25% deep cyan-blue environment, 17% bright specular cyan-blue, 14% warm neutral skin highlights, 7% muted pinkish-red accents on lips and eye contours, 9% dark metallic tones on chains and jewelry. Cyan-blue must only dominate the environment and localized reflections, never acting as a uniform cyan color filter over the subject's skin.\n\n**Soran Three-Tier Natural Watermark:** A clearly legible \"Soran\" is naturally embroidered with fine cool-silver thread or appears as a small metal fabric tag subtly embedded on the shoulder strap near the face, the collar edge, or the cyan-black garment hem, clearly readable to the naked eye while adapting organically to fabric curvature, folds, body perspective, and blue ambient light; a concealed \"Soran\" blends into the worn engraved scratches of the metal chain on the right, localized specular highlights of the black curls, and fabric weave textures; a microscopic \"Soran\" is co-formed by tiny micro-scratches on bangles, chain link abrasions, intersecting hair strands, and subtle fabric sheen patterns. All instances of \"Soran\" belong organically to genuine apparel branding, metal engravings, or material surface textures, never appearing as floating text overlays.\n\n**Negative Prompts:** standard model eye-level gaze into lens, stiff direct stare, subject standing upright, body positioned far from camera, standard seated pose, standard studio photography pose, neat symmetrical hairstyle, plastic skin, porcelain-white airbrushed skin, perfectly symmetrical facial features, AI beauty face, anime face, oversized eyes, glass marble eyes, excessive iris detailing, overdone eye catchlights, commercial beauty retouching, HDR, over-sharpening, fake 8K-style micro-details, uniform softbox diffusion, movie poster lighting, full-face blue tint, uniform cyan filter, solid blue studio backdrop, completely blurred flat background, fisheye distortion, overly provocative pin-up posing, extra people, redundant limbs, malformed fingers, floating chains, external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo"
+  },
+  "summaryTranslations": {
+    "en": "Realistic East Asian female portrait in cool nighttime blue lighting, featuring close-range hard flash, voluminous black hair, an off-the-shoulder black dress, and metal chain elements."
+  },
+  "translationVersion": 2,
+  "summary": "夜间冷调蓝光下的写实东亚女性人像，带有近身硬闪光、蓬松黑发、露肩黑裙与铁链元素。",
+  "summaryEn": "Realistic cold-toned night portrait of an East Asian woman with direct flash, messy curls, black off-shoulder dress, and chains.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2081181748478562704",
+      "canonicalUrl": "https://x.com/Soranlan/status/2081181748478562704",
+      "author": {
+        "username": "Soranlan",
+        "displayName": "Soran",
+        "profileUrl": "https://x.com/Soranlan"
+      },
+      "originalText": "P站素材吃透，来做一版，质量感觉比酒店那个好\n\n这条是暗场贝斯手\n\n侧光、黑幕，还有一把蓝色贝斯。\n\n今晚先让低音开口。\n\nprompt：\n一位年轻成年感女性形象站在昏暗的音乐排练室或后台器材空间中，人物位于窄竖幅画面的中下部，上方保留大面积黑色幕布和暗色留白。她的身体大致朝向镜头，头部轻微侧倾，目光看向画面右侧而不是直视镜头，表情平静，像处在演奏间隙或试音停顿中。\n\n她留有暖棕色中长卷发，发丝自然落在肩前，并受到右侧暖光照亮。穿贴身黑色长袖上衣、宽松浅灰色旧化破损牛仔裤、黑色金属装饰腰带，胸前佩戴细长十字吊坠。黑色上衣部分融入暗背景，浅色牛仔裤承担下半身明度。\n\n一把青蓝色电贝司斜跨身体，琴身位于左下方，琴颈向右上方延伸并部分伸出画面。左手自然握住琴颈，右手停在琴弦和琴桥附近，动作像短暂暂停而非夸张演奏。浅色背带从肩部连接到琴身。\n\n背景以黑色幕布为主，右后方保留扩音箱、机架设备和器材箱，但细节对比低于人物。画面最右侧有一道强烈竖向高亮区域，像舞台侧光、门口或大型灯面，具体来源不需明确。它从右前方照亮人物脸部、头发和肩部边缘，并形成“右亮左暗”的方向关系。\n\n采用窄竖幅膝上环境人像，人物位置偏低，头顶留白明显，轻微近距离广角透视。眼睛、发丝、琴弦和牛仔布细节清楚，皮肤柔和但保留自然纹理；暗部允许出现轻微噪点和手机拍摄式压缩感，不使用塑料化磨皮。"
+    },
+    "id": "2097889772899639317",
+    "canonicalUrl": "https://x.com/Soranlan/status/2097889772899639317",
+    "author": {
+      "username": "Soranlan",
+      "displayName": "Soran",
+      "profileUrl": "https://x.com/Soranlan"
+    },
+    "publishedAt": "2026-09-10T03:27:53.000Z",
+    "collectedAt": "2026-09-10T04:17:05.195Z",
+    "language": "zh",
+    "originalText": "冷蓝的灯压下来，雨后的地面还在反光。\n\n她靠着生锈的铁链，黑裙、湿发和金属一起陷进深蓝夜色里。近距离闪光把脸突然拉到眼前，背景却仍旧冷得像没人经过。\nprompt：\n2:3 竖幅，真人写实夜间时尚人像，一名成年东亚女性极近距离靠近镜头，上半身明显向前俯压，头部微微低下，双眼从低头姿态自然向上看向镜头，一只手轻贴脸颊，另一条前臂斜横在身体前方，肩部前压，脸、手、肩和前臂形成紧凑的近身三角结构。直视镜头必须来自“低头抬眼”的动作关系，避免标准模特式平视凝视。\n\n黑色长卷发大量散落并包围脸部，蓬松、不规则，额前和脸侧有自然碎发，部分发丝遮挡面颊和眼周，头发不能梳理得过于整齐。人物穿黑色或青黑色露肩服装，局部青绿色面料与冷蓝环境呼应，手腕佩戴数枚真实金属手镯。右侧一条粗金属链条从画面顶部垂直贯穿，形成明确的空间边界和环境参照。\n\n背景是具有真实空间结构的深蓝夜间环境，以大面积深青蓝、蓝黑和少量高亮青蓝组成，不做纯色摄影棚背景。人物距离镜头很近，背景迅速向后退，近景人物具有轻微广角近距离透视感，但不能产生夸张鱼眼变形。\n\n冷青蓝环境光覆盖背景、头发边缘、服装和金属反射，人物面部与肩臂受到近距离偏正面的硬质亮光照明，肤色主体仍保持真实偏暖或中性，只接受少量蓝色环境反射。额头、鼻梁、脸颊和肩部出现自然曝光起伏与轻微高光溢出，背景明显更暗，形成强烈人物分离。保留少量低照度颗粒、轻微光晕和真实数字摄影的不完美。\n\n人物皮肤保留真实毛孔、细小肤色差异、轻微面部不对称、眼下与鼻翼自然结构，不磨皮，不做瓷娃娃皮肤，不追求完美对称。眼妆以低饱和灰红、棕红为主，唇色偏灰红，妆容克制。眼睛保持真实大小和真实眼白比例，不强化虹膜高光，不做玻璃珠眼睛，不做一眼可辨的 AI 写真脸。整体像真实摄影师在低照度蓝色环境中靠近人物抓到的一张未经商业精修的现场照片，构图略带随机感，不做电影海报式完美布光和标准美女写真摆拍。\n\n色彩比例保持：约 28% 深蓝黑暗部，25% 深青蓝环境，17% 高亮青蓝，14% 暖中性肤色高光，7% 灰粉红唇部和眼周点色，9% 暗金属色链条与首饰。青蓝只能主导环境与局部反射，不能变成覆盖人物皮肤的统一青色滤镜。\n\n**Soran 三层自然水印：**清晰可读的 \"Soran\" 以冷银色细线刺绣或小型金属织标自然嵌入靠近脸侧的肩带、领缘或青黑色服装边缘，肉眼能够明确读出，随布料弧度、褶皱、身体透视和蓝色环境光自然变化；隐藏的 \"Soran\" 融入右侧金属链条的磨损刻纹、黑色卷发局部高光排列与衣料织纹；微观 \"Soran\" 由手镯微小刻痕、链节刮痕、发丝交叉和织物细小亮纹共同形成。所有 Soran 都属于真实服装品牌、金属刻字或材质纹理的一部分，不以悬浮文字形式出现。\n\n**负向词：**标准模特平视镜头，僵硬直视，人物直立，身体远离镜头，标准坐姿，标准棚拍摆姿，整齐对称发型，塑料皮肤，瓷白磨皮，完美对称五官，AI 美女脸，动漫脸，超大眼睛，玻璃珠眼睛，过度虹膜细节，过度眼神高光，商业美容精修，HDR，过度锐化，8K 式假细节，均匀柔光箱，电影海报布光，全脸蓝色，统一青色滤镜，纯蓝摄影棚背景，背景完全虚化，鱼眼畸变，过度性感摆拍，额外人物，多余肢体，错误手指，链条悬浮，external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0w_9TbYAAsCb_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0w_9TbYAAsCb_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0xBD0aAAA0q8z.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0xBD0aAAA0q8z.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR0xCMlakAAnoW9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR0xCMlakAAnoW9.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HOHXLTDWsAANOIW.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HOHXLTDWsAANOIW.jpg",
+        "sourcePostId": "2081181748478562704"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HOHXUHsWkAADIWN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HOHXUHsWkAADIWN.jpg",
+        "sourcePostId": "2081181748478562704"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HOHXWThXgAAQiWr.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HOHXWThXgAAQiWr.jpg",
+        "sourcePostId": "2081181748478562704"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HOHXbanWoAAJ8Xp.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HOHXbanWoAAJ8Xp.jpg",
+        "sourcePostId": "2081181748478562704"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 230
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Soranlan/status/2097889772899639317",
+  "coverUrl": "https://pbs.twimg.com/media/HR0w_9TbYAAsCb_.jpg",
+  "coverPath": "images/2097889772899639317-1.jpg",
+  "imagePaths": [
+    "images/2097889772899639317-1.jpg",
+    "images/2097889772899639317-2.jpg",
+    "images/2097889772899639317-3.jpg",
+    "images/2097889772899639317-4.jpg",
+    "images/2097889772899639317-5.jpg",
+    "images/2097889772899639317-6.jpg",
+    "images/2097889772899639317-7.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR0w_9TbYAAsCb_",
+    "x-image:/media/HR0xBD0aAAA0q8z",
+    "x-image:/media/HR0xCMlakAAnoW9",
+    "x-image:/media/HOHXLTDWsAANOIW",
+    "x-image:/media/HOHXUHsWkAADIWN",
+    "x-image:/media/HOHXWThXgAAQiWr",
+    "x-image:/media/HOHXbanWoAAJ8Xp",
+    "x-post:2097889772899639317",
+    "x-post:2081181748478562704"
+  ],
+  "analysis": {
+    "summary": "夜间冷调蓝光下的写实东亚女性人像，带有近身硬闪光、蓬松黑发、露肩黑裙与铁链元素。",
+    "summaryEn": "Realistic cold-toned night portrait of an East Asian woman with direct flash, messy curls, black off-shoulder dress, and chains.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片中前三张准确展示了低头抬眼、近距离闪光、黑裙、粗铁链以及冷蓝夜景背景，与提示词描述高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "2:3 竖幅，真人写实夜间时尚人像，一名成年东亚女性极近距离靠近镜头，上半身明显向前俯压，头部微微低下，双眼从低头姿态自然向上看向镜头，一只手轻贴脸颊，另一条前臂斜横在身体前方，肩部前压，脸、手、肩和前臂形成紧凑的近身三角结构。直视镜头必须来自“低头抬眼”的动作关系，避免标准模特式平视凝视。\n\n黑色长卷发大量散落并包围脸部，蓬松、不规则，额前和脸侧有自然碎发，部分发丝遮挡面颊和眼周，头发不能梳理得过于整齐。人物穿黑色或青黑色露肩服装，局部青绿色面料与冷蓝环境呼应，手腕佩戴数枚真实金属手镯。右侧一条粗金属链条从画面顶部垂直贯穿，形成明确的空间边界和环境参照。\n\n背景是具有真实空间结构的深蓝夜间环境，以大面积深青蓝、蓝黑和少量高亮青蓝组成，不做纯色摄影棚背景。人物距离镜头很近，背景迅速向后退，近景人物具有轻微广角近距离透视感，但不能产生夸张鱼眼变形。\n\n冷青蓝环境光覆盖背景、头发边缘、服装和金属反射，人物面部与肩臂受到近距离偏正面的硬质亮光照明，肤色主体仍保持真实偏暖或中性，只接受少量蓝色环境反射。额头、鼻梁、脸颊和肩部出现自然曝光起伏与轻微高光溢出，背景明显更暗，形成强烈人物分离。保留少量低照度颗粒、轻微光晕和真实数字摄影的不完美。\n\n人物皮肤保留真实毛孔、细小肤色差异、轻微面部不对称、眼下与鼻翼自然结构，不磨皮，不做瓷娃娃皮肤，不追求完美对称。眼妆以低饱和灰红、棕红为主，唇色偏灰红，妆容克制。眼睛保持真实大小和真实眼白比例，不强化虹膜高光，不做玻璃珠眼睛，不做一眼可辨的 AI 写真脸。整体像真实摄影师在低照度蓝色环境中靠近人物抓到的一张未经商业精修的现场照片，构图略带随机感，不做电影海报式完美布光和标准美女写真摆拍。\n\n色彩比例保持：约 28% 深蓝黑暗部，25% 深青蓝环境，17% 高亮青蓝，14% 暖中性肤色高光，7% 灰粉红唇部和眼周点色，9% 暗金属色链条与首饰。青蓝只能主导环境与局部反射，不能变成覆盖人物皮肤的统一青色滤镜。\n\n**Soran 三层自然水印：**清晰可读的 \"Soran\" 以冷银色细线刺绣或小型金属织标自然嵌入靠近脸侧的肩带、领缘或青黑色服装边缘，肉眼能够明确读出，随布料弧度、褶皱、身体透视和蓝色环境光自然变化；隐藏的 \"Soran\" 融入右侧金属链条的磨损刻纹、黑色卷发局部高光排列与衣料织纹；微观 \"Soran\" 由手镯微小刻痕、链节刮痕、发丝交叉和织物细小亮纹共同形成。所有 Soran 都属于真实服装品牌、金属刻字或材质纹理的一部分，不以悬浮文字形式出现。\n\n**负向词：**标准模特平视镜头，僵硬直视，人物直立，身体远离镜头，标准坐姿，标准棚拍摆姿，整齐对称发型，塑料皮肤，瓷白磨皮，完美对称五官，AI 美女脸，动漫脸，超大眼睛，玻璃珠眼睛，过度虹膜细节，过度眼神高光，商业美容精修，HDR，过度锐化，8K 式假细节，均匀柔光箱，电影海报布光，全脸蓝色，统一青色滤镜，纯蓝摄影棚背景，背景完全虚化，鱼眼畸变，过度性感摆拍，额外人物，多余肢体，错误手指，链条悬浮，external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo",
+    "sourceRange": {
+      "start": 83,
+      "end": 1477
+    },
+    "translations": {
+      "zh": "2:3 竖幅夜间时尚人像：成年东亚女性近距离前俯看向镜头，蓬松黑长卷发，穿黑露肩装，戴金属手镯，右侧垂挂粗铁链。深青蓝夜景背景，偏正面冷硬光打亮脸肩部，写实皮肤纹理与低照度颗粒感。",
+      "en": "2:3 vertical realistic night portrait: an East Asian woman leaning forward close-up, messy long black curls, off-shoulder black dress, metal chains on the right. Dark cyan-blue night setting with hard flash lighting, candid documentary feel."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "写实夜景人像摄影提示词",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
