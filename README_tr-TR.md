@@ -558,7 +558,7 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 
 <a name="prompt-2097844559959245230"></a>
 
-### Çeviri sürüyor
+### Kız grubu dansı sırasında üst, etek, çizme ve aksesuarların zaman çizelgesine göre hareket zirvelerinde sırayla ve kesintisiz değiştiği, akıcı kısmi kıyafet değişimi video istemi.
 
 Yazar：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi](https://x.com/Adam38363368936/status/2097844559959245230)
 
@@ -566,14 +566,71 @@ Moda Ürünü · Yayımlandı
 
 Orijinal gönderi：[@Adam38363368936](https://x.com/Adam38363368936) · [Orijinal gönderi](https://x.com/Adam38363368936/status/2097483614011486260)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kız grubu dansı sırasında üst, etek, çizme ve aksesuarların zaman çizelgesine göre hareket zirvelerinde sırayla ve kesintisiz değiştiği, akıcı kısmi kıyafet değişimi video istemi.
 
 <img src="covers/2097844559959245230.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referans görseldeki kadın sabit ana karakter olarak alınarak, karakterin yüz şekli, yüz hatları, saç stili, ten rengi ve vücut oranları kesinlikle tutarlı kalmalıdır.
+
+Dikey ekran 9:16, 10 saniye. Genç bir Asyalı kadın, sade ve lüks bir sahnenin ortasında duruyor ve akıcı, ritmik bir kız grubu dansı sergiliyor. Çekim ağırlıklı olarak tam boydur, karakterin hareketlerini hafifçe takip eder ve karakter sürekli olarak karenin merkezinde kalır.
+
+Temel etki: Karakter kesintisiz dans ederken, farklı dans hareketleri aracılığıyla adım adım bölgesel kıyafet değişimini tamamlar. Tüm dans süreci her zaman süreklidir; duraklama, ışınlanma veya kamera kesintisi yoktur.
+
+Başlangıçta karakter sade beyaz bir atlet, açık renkli kısa etek ve beyaz spor ayakkabılar giymektedir; genel tarz sade ve temizdir.
+
+0–2 saniye:
+Karakter belirgin bir kol sallama hareketi yapar.
+Kol, gövdenin önünden hızla üst bedeni süpürerek geçer; kolun örtüşü ve hareket bulanıklığının en belirgin olduğu anda, üst kıyafet doğal olarak siyah, vücuda oturan kısa bir sahne üstüne dönüşür.
+
+Bu aşamada sadece üst kıyafet değiştirilir.
+Alt kıyafet, ayakkabılar, saç stili ve diğer kısımlar tamamen aynı kalır.
+
+2–4 saniye:
+Karakter dans etmeye devam eder, hareketler doğal bir şekilde birbirine bağlanır ve belirgin bir yana kalça kıvırma hareketi yapar.
+Vücudun hızla yana döndüğü anda, alt kıyafet doğal olarak siyah pilili bir mini eteğe dönüşür.
+
+Bu aşamada sadece alt kıyafet değiştirilir.
+Daha önce dönüşen siyah üst kıyafet değişmeden kalır ve ayakkabılar hâlâ beyaz spor ayakkabılardır.
+
+4–6 saniye:
+Karakter dans etmeye devam eder ve net, hafif bir tekme hareketi tamamlar.
+Ayak hızla yukarı kalkar ve doğal bir hareket bulanıklığı oluşturur; ayağın yere bastığı anda beyaz spor ayakkabılar doğal bir şekilde siyah uzun çizmelere dönüşür.
+
+Bu aşamada sadece ayakkabılar değiştirilir.
+Üst ve alt kıyafet bir önceki aşamadaki tarzını korur.
+
+6–8 saniye:
+Karakter dansa devam eder, belirgin bir baş savurma ve el kaldırma hareketi yapar.
+Saçlar doğal olarak savrulur; saç hareketinin ve el hareketinin örtüşme sağladığı anda gümüş küpeler, kolye, bel zinciri ve az sayıda sahne aksesuarı eklenir.
+
+Kıyafetin ana gövdesi değişmeden kalır, sadece aksesuarlar ve az miktarda ayrıntı eklenir.
+
+8–10 saniye:
+Karakter akıcı bir dönüş yapar, etek doğal olarak havalanır.
+Dönüş sırasında tüm tarz son ve eksiksiz bir yükseltmeden geçer.
+
+Karakter tekrar öne döndüğünde, nihayetinde siyah ve gümüş tonlarında eksiksiz, kaliteli bir sahne görünümüne bürünür; kıyafet detayları daha zariftir ve az miktarda metalik, payet ve üst düzey sahne unsurları eklenmiştir.
+
+Karakter son dans hareketini tamamlar ve doğal bir şekilde bitirir.
+
+Tüm kıyafet değişimleri, karakterin hareket genliğinin en büyük olduğu, vücut dönüşünün en hızlı olduğu, kolun kapattığı, saçın uçuştuğu veya hareket bulanıklığının en belirgin olduğu anlarda gerçekleşmelidir.
+
+Kıyafet değişiminden önce ve sonra karakterin vücut konumu, hareket yönü, kol konumu, bacak konumu ve hareket yörüngesi doğal ve sürekli olmalıdır.
+
+"Dans ederken aynı anda adım adım kıyafet değiştirme" etkisine odaklanılmalıdır.
+
+Farklı videolar arasında ani geçiş olmamalı, kişi tamamen kaybolup yeniden ortaya çıkmamalı ve her harekette tüm kıyafet birden değişmemelidir.
+
+Her seferinde sadece belirtilen kıyafet parçası değişir, diğer kısımlar olduğu gibi kalır.
+
+Parlama patlaması yok, sihirli parçacıklar yok, duman perdesi yok, siyah ekran yok, sert kamera kesintisi yok.
+
+Gerçek canlı çekim fotoğraf tarzı, K-pop sahne dokusu, üst düzey sahne ışıklandırması, gerçek kumaş dokuları, doğal hareket bulanıklığı, yüksek çözünürlüklü ten detayları, akıcı hareketler, net ritim.
+
+Yüz değişimi yasaktır, yüz hatlarının kayması yasaktır, karakter kimliğinin değişmesi yasaktır, vücudun aniden kilo alıp vermesi yasaktır, fazladan kol ve bacaklar yasaktır, el ve ayak deformasyonları yasaktır, kıyafetlerin erimesi yasaktır, kıyafetlerin iç içe geçmesi/kırpışması yasaktır, karakterin aniden konum değiştirmesi yasaktır, arka planın rastgele değişmesi yasaktır.
 ```
 
 [↑ Kategorilere dön](#catalog)

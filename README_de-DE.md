@@ -558,7 +558,7 @@ Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto al
 
 <a name="prompt-2097844559959245230"></a>
 
-### Übersetzung läuft
+### Video-Prompt für nahtlose, schrittweise Outfitwechsel während eines Girlgroup-Tanzes, bei dem Oberteil, Rock, Stiefel und Accessoires entlang der Zeitachse an den Bewegungshöhepunkten nacheinander gewechselt werden.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2097844559959245230)
 
@@ -566,14 +566,71 @@ Modeartikel · Veröffentlicht
 
 Originalbeitrag：[@Adam38363368936](https://x.com/Adam38363368936) · [Originalbeitrag](https://x.com/Adam38363368936/status/2097483614011486260)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Video-Prompt für nahtlose, schrittweise Outfitwechsel während eines Girlgroup-Tanzes, bei dem Oberteil, Rock, Stiefel und Accessoires entlang der Zeitachse an den Bewegungshöhepunkten nacheinander gewechselt werden.
 
 <img src="covers/2097844559959245230.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Mit der Frau aus dem Referenzbild als fester Protagonistin: Gesichtsform, Gesichtszüge, Frisur, Hautton und Körperproportionen der Figur müssen streng einheitlich bleiben.
+
+Vertikalformat 9:16, 10 Sekunden. Eine junge asiatische Frau steht in der Mitte einer schlichten, hochwertigen Bühne und führt einen flüssigen, rhythmischen Girlgroup-Tanz auf. Die Kamera fängt hauptsächlich eine Ganzkörperansicht ein, folgt subtil den Bewegungen der Figur, und die Figur bleibt stets in der Bildmitte.
+
+Kerneffekt: Während sie kontinuierlich tanzt, vollzieht die Figur durch verschiedene Tanzbewegungen schrittweise einen partiellen Outfitwechsel. Der gesamte Tanzprozess ist durchgehend kontinuierlich, ohne Pausen, ohne Teleportieren und ohne Kameraschnitte.
+
+Zu Beginn trägt die Figur ein schlichtes weißes Trägertop, einen hellen kurzen Rock und weiße Sneakers; das Gesamtbild ist einfach und sauber.
+
+0–2 Sekunden:
+Die Figur führt eine deutliche Armschwungbewegung aus.
+Der Arm streicht schnell vor dem Oberkörper vorbei; genau in dem Moment, in dem die Verdeckung durch den Arm und die Bewegungsunschärfe am deutlichsten sind, verwandelt sich das Oberteil auf natürliche Weise in ein schwarzes, figurbetontes, kurzes Bühnenoberteil.
+
+In dieser Phase wird nur das Oberteil gewechselt.
+Unterteil, Schuhe, Frisur und alles andere bleiben völlig unverändert.
+
+2–4 Sekunden:
+Die Figur tanzt weiter, die Bewegungen gehen nahtlos ineinander über, und sie führt eine deutliche seitliche Hüftdrehung aus.
+Genau in dem Moment, in dem sich der Körper schnell zur Seite dreht, verwandelt sich das Unterteil auf natürliche Weise in einen schwarzen Faltenminirock.
+
+In dieser Phase wird nur das Unterteil gewechselt.
+Das bereits verwandelte schwarze Oberteil bleibt unverändert, und die Schuhe bleiben weiße Sneakers.
+
+4–6 Sekunden:
+Die Figur tanzt weiter und vollendet einen klaren, federnden Tritt nach vorne.
+Der Fuß hebt sich schnell und erzeugt eine natürliche Bewegungsunschärfe; genau in dem Moment, in dem der Fuß den Boden berührt, verwandeln sich die weißen Sneakers auf natürliche Weise in schwarze hohe Stiefel.
+
+In dieser Phase werden nur die Schuhe gewechselt.
+Oberteil und Unterteil behalten das Styling der vorherigen Phase bei.
+
+6–8 Sekunden:
+Die Figur tanzt weiter und führt eine deutliche Kopfbewegung und ein Heben der Hände aus.
+Das Haar weht natürlich; genau im Moment der Haar- und Handbewegung werden silberne Ohrringe, eine Halskette, eine Taillenkette und dezente Bühnenaccessoires hinzugefügt.
+
+Die Hauptkleidung bleibt unverändert; es werden lediglich Accessoires und wenige Details hinzugefügt.
+
+8–10 Sekunden:
+Die Figur vollzieht eine flüssige Drehung, bei der der Rock natürlich aufweht.
+Während der Drehung erfährt das gesamte Styling ein letztes vollständiges Upgrade.
+
+Sobald sich die Figur wieder nach vorne dreht, ist sie schließlich in einem vollständigen, hochwertigen schwarz-silbernen Bühnen-Outfit zu sehen, mit noch feineren Kleidungsdetails sowie dezenten Metallic-, Pailletten- und erstklassigen Bühnenelementen.
+
+Die Figur tanzt die letzte Bewegung zu Ende und schließt die Performance natürlich ab.
+
+Alle Outfitwechsel müssen genau in den Momenten stattfinden, in denen die Bewegung der Figur am weitesten ausholt, die Körperdrehung am schnellsten ist, die Verdeckung durch Arme, das wehende Haar oder die Bewegungsunschärfe am stärksten sind.
+
+Vor und nach dem Outfitwechsel müssen Körperposition, Bewegungsrichtung, Armposition, Beinposition und Bewegungsbahn der Figur absolut natürlich und kontinuierlich sein.
+
+Der Schwerpunkt liegt auf dem Effekt des „schrittweisen Umziehens während des kontinuierlichen Tanzens“.
+
+Kein abruptes Umschalten zwischen verschiedenen Videos, kein Verschwinden und Wiederauftauchen der ganzen Person und kein Wechsel des gesamten Outfits auf einmal bei jeder Bewegung.
+
+Jedes Mal ändert sich nur der angegebene Teil der Kleidung, der Rest bleibt unverändert.
+
+Keine Blitze oder Explosionen, keine magischen Partikel, keine Rauchverdeckung, kein Schwarzbild, keine harten Kameraschnitte.
+
+Echter Live-Action-Fotografiestil, K-Pop-Bühnenästhetik, hochwertige Bühnenbeleuchtung, realistische Stofftexturen, natürliche Bewegungsunschärfe, hochauflösende Hautdetails, flüssige Bewegungen, klarer Rhythmus.
+
+Kein Gesichtstausch, kein Abdriften der Gesichtszüge, keine Veränderung der Identität der Figur, keine plötzlichen Veränderungen der Statur (dicker/dünner), keine zusätzlichen Arme oder Beine, keine Deformierung von Händen und Füßen, kein Schmelzen der Kleidung, kein Durchdringen/Clipping der Kleidung, kein plötzliches Springen der Figur, keine zufälligen Veränderungen des Hintergrunds.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

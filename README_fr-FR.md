@@ -558,7 +558,7 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 
 <a name="prompt-2097844559959245230"></a>
 
-### Traduction en cours
+### Prompt vidéo pour une transition vestimentaire partielle et fluide lors d'une danse de girl group, changeant successivement et sans raccord le haut, la jupe, les bottes et les accessoires aux temps forts du mouvement selon un minutage précis.
 
 Auteur：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2097844559959245230)
 
@@ -566,14 +566,71 @@ Article de mode · Publié
 
 Publication originale：[@Adam38363368936](https://x.com/Adam38363368936) · [Publication originale](https://x.com/Adam38363368936/status/2097483614011486260)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt vidéo pour une transition vestimentaire partielle et fluide lors d'une danse de girl group, changeant successivement et sans raccord le haut, la jupe, les bottes et les accessoires aux temps forts du mouvement selon un minutage précis.
 
 <img src="covers/2097844559959245230.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+En prenant la femme de l'image de référence comme protagoniste fixe, conservez rigoureusement la forme du visage, les traits, la coiffure, le teint et les proportions corporelles du personnage.
+
+Format vertical 9:16, 10 secondes. Une jeune femme asiatique se tient au centre d'une scène épurée et haut de gamme, réalisant une danse de girl group fluide et rythmée. Le cadrage est principalement en plan entier, suivant légèrement les mouvements du personnage, qui reste toujours au centre de l'image.
+
+Effet central : Tout en dansant sans interruption, le personnage effectue progressivement un changement partiel de tenue grâce à différents mouvements de danse. L'ensemble de la danse est parfaitement continu, sans pause, sans téléportation et sans coupure de caméra.
+
+Au début, le personnage porte un débardeur blanc simple, une jupe courte claire et des baskets blanches ; un style général sobre et épuré.
+
+0–2 secondes :
+Le personnage fait un mouvement prononcé de balancement des bras.
+Le bras balaie rapidement le haut du corps ; à l'instant précis où l'occlusion par le bras et le flou de mouvement sont les plus nets, le haut se transforme naturellement en un haut de scène noir, ajusté et court.
+
+À cette étape, seul le haut change.
+Le bas, les chaussures, la coiffure et le reste demeurent strictement identiques.
+
+2–4 secondes :
+Le personnage continue de danser, les mouvements s'enchaînent naturellement, et elle effectue un déhanché latéral prononcé.
+À l'instant précis où le corps pivote rapidement sur le côté, le bas se transforme naturellement en une jupe courte plissée noire.
+
+À cette étape, seul le bas change.
+Le haut noir déjà transformé reste inchangé, et les chaussures restent des baskets blanches.
+
+4–6 secondes :
+Le personnage continue de danser et exécute un coup de pied net et aérien.
+Le pied se lève rapidement, générant un flou de mouvement naturel ; au moment où le pied touche le sol, les baskets blanches se transforment naturellement en bottes hautes noires.
+
+À cette étape, seules les chaussures changent.
+Le haut et le bas conservent leur apparence de l'étape précédente.
+
+6–8 secondes :
+Le personnage continue de danser, effectuant un mouvement marqué de la tête et levant les mains.
+Les cheveux s'envolent naturellement ; à l'instant du mouvement des cheveux et de l'occlusion des mains, s'ajoutent des boucles d'oreilles argentées, un collier, une chaîne de taille et quelques accessoires de scène légers.
+
+La tenue principale reste inchangée, seuls des accessoires et quelques détails sont ajoutés.
+
+8–10 secondes :
+Le personnage réalise une rotation fluide, la jupe tourbillonnant naturellement.
+Pendant cette rotation, l'ensemble du look subit une dernière mise à niveau complète.
+
+Lorsque le personnage fait à nouveau face à la caméra, elle apparaît vêtue d'une tenue de scène sophistiquée noire et argentée complète, avec des détails vestimentaires plus raffinés, intégrant de légères touches métalliques, des paillettes et des éléments de scène haut de gamme.
+
+Le personnage enchaîne avec le dernier mouvement de danse pour conclure naturellement.
+
+Tous les changements de tenue doivent se produire aux instants où l'amplitude du mouvement est maximale, la rotation du corps la plus rapide, l'occlusion par les bras la plus forte, les cheveux en vol ou le flou de mouvement le plus marqué.
+
+Avant et après chaque changement de tenue, la position du corps, la direction du mouvement, la position des bras, la position des jambes et la trajectoire du mouvement doivent rester parfaitement fluides et continues.
+
+Accent particulier sur l'effet « changer progressivement de vêtements tout en dansant ».
+
+Il ne s'agit pas de basculer brutalement entre plusieurs vidéos, ni de faire disparaître la personne pour la faire réapparaître, ni de changer toute la tenue d'un coup à chaque mouvement.
+
+À chaque étape, seule la partie spécifiée du vêtement change, le reste demeure intact.
+
+Pas d'éclairs ni d'explosions, pas de particules magiques, pas d'écran de fumée, pas d'écran noir, pas de coupures franches de caméra.
+
+Style de prise de vue réel, esthétique de scène K-pop, éclairage scénique haut de gamme, textures de tissus réalistes, flou de mouvement naturel, détails de peau haute définition, mouvements fluides, rythme bien marqué.
+
+Interdiction de changer de visage, interdiction de déformation des traits, interdiction de modification de l'identité du personnage, interdiction de variations subites de corpulence, interdiction de membres supplémentaires, interdiction de déformation des mains ou des pieds, interdiction de vêtements qui fondent, interdiction de collisions ou chevauchements vestimentaires (clipping), interdiction de sauts de position du personnage, interdiction de changements aléatoires de décor.
 ```
 
 [↑ Retour aux catégories](#catalog)

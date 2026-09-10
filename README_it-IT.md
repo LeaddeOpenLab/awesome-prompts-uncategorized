@@ -558,7 +558,7 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 
 <a name="prompt-2097844559959245230"></a>
 
-### Traduzione in corso
+### Prompt video per cambio d'abito parziale e continuo durante un ballo da girl group, con sostituzione fluida e progressiva di top, gonna, stivali e accessori nei picchi di movimento secondo la timeline.
 
 Autore：[@Adam38363368936](https://x.com/Adam38363368936) · [Post originale](https://x.com/Adam38363368936/status/2097844559959245230)
 
@@ -566,14 +566,71 @@ Articolo di moda · Pubblicato
 
 Post originale：[@Adam38363368936](https://x.com/Adam38363368936) · [Post originale](https://x.com/Adam38363368936/status/2097483614011486260)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video per cambio d'abito parziale e continuo durante un ballo da girl group, con sostituzione fluida e progressiva di top, gonna, stivali e accessori nei picchi di movimento secondo la timeline.
 
 <img src="covers/2097844559959245230.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Utilizzando la donna nell'immagine di riferimento come protagonista fissa, mantieni rigorosamente coerenti forma del viso, lineamenti, acconciatura, tonalità della pelle e proporzioni corporee del personaggio.
+
+Formato verticale 9:16, 10 secondi. Una giovane donna asiatica è al centro di un palco minimalista e sofisticato ed esegue una coreografia da girl group fluida e ritmata. L'inquadratura è principalmente a figura intera, segue delicatamente i movimenti del personaggio, che rimane costantemente al centro dell'inquadratura.
+
+Effetto principale: mentre danza ininterrottamente, il personaggio completa gradualmente un cambio d'abito parziale attraverso diversi movimenti di danza. L'intero svolgimento del ballo è continuo, senza pause, senza teletrasporto e senza stacchi di montaggio.
+
+All'inizio il personaggio indossa una semplice canotta bianca, una gonna corta chiara e scarpe da ginnastica bianche, per un look complessivo semplice e pulito.
+
+0–2 secondi:
+Il personaggio esegue un vistoso movimento oscillante delle braccia.
+Il braccio scorre rapidamente davanti al corpo coprendo la parte superiore; nell'istante esatto in cui l'occlusione del braccio e il motion blur sono più evidenti, il top si trasforma naturalmente in un top da palco nero, aderente e corto.
+
+In questa fase cambia solo il top.
+Parte inferiore, scarpe, acconciatura e il resto rimangono completamente invariati.
+
+2–4 secondi:
+Il personaggio continua a ballare, con movimenti legati in modo naturale, ed esegue un evidente movimento d'anca laterale.
+Nell'istante esatto in cui il corpo si gira rapidamente di lato, la parte inferiore si trasforma naturalmente in una minigonna a pieghe nera.
+
+In questa fase cambia solo la parte inferiore.
+Il top nero già trasformato rimane invariato e le calzature rimangono scarpe da ginnastica bianche.
+
+4–6 secondi:
+Il personaggio continua a ballare, completando un calcio nitido e scattante.
+Il piede si solleva rapidamente generando un naturale motion blur; nell'istante in cui il piede tocca terra, le scarpe da ginnastica bianche si trasformano naturalmente in stivali alti neri.
+
+In questa fase cambiano solo le scarpe.
+Top e parte inferiore mantengono il look della fase precedente.
+
+6–8 secondi:
+Il personaggio continua a ballare, eseguendo un deciso movimento della testa e sollevando le mani.
+I capelli svolazzano naturalmente; nell'istante del movimento dei capelli e dell'occlusione delle mani, compaiono orecchini argentati, una collana, una catena in vita e discreti accessori da palcoscenico.
+
+L'abito principale rimane invariato, si aggiungono solo accessori e pochi dettagli.
+
+8–10 secondi:
+Il personaggio compie una piroetta fluida, con la gonna che si solleva naturalmente.
+Durante la rotazione, l'intero outfit compie un ultimo upgrade completo.
+
+Quando il personaggio torna a guardare in avanti, l'outfit finale è un completo da palcoscenico nero e argento di alta classe, con dettagli sartoriali più raffinati, arricchito da tocchi metallici, paillettes ed elementi scenici di pregio.
+
+Il personaggio completa l'ultimo passo di danza, concludendo in modo naturale.
+
+Tutti i cambi d'abito devono avvenire negli istanti in cui l'ampiezza del movimento è massima, la rotazione del corpo è più rapida, e l'occlusione delle braccia, i capelli al vento o il motion blur sono più evidenti.
+
+Prima e dopo ogni cambio, la posizione del corpo, la direzione del movimento, la posizione delle braccia, delle gambe e la traiettoria del movimento devono risultare perfettamente naturali e continue.
+
+L'attenzione principale deve essere focalizzata sull'effetto di «cambiarsi d'abito gradualmente mentre si continua a ballare».
+
+Non deve trattarsi di uno stacco tra video diversi, non della scomparsa e ricomparsa del personaggio, né del cambio dell'intero outfit in un solo movimento.
+
+Ogni volta cambia solo la porzione di indumento specificata, mentre il resto rimane intatto.
+
+Niente lampi o esplosioni, niente particelle magiche, niente fumo che oscura, niente schermi neri, niente tagli netti dell'inquadratura.
+
+Stile fotografico live-action reale, estetica da palcoscenico K-pop, illuminazione scenica di alta qualità, texture dei tessuti realistiche, motion blur naturale, dettagli della pelle in alta definizione, movimenti fluidi, ritmo scandito.
+
+Vietato cambiare viso, vietata la deriva dei lineamenti facciali, vietata la modifica dell'identità del personaggio, vietate variazioni repentine di corporatura, vietate braccia o gambe in eccesso, vietate deformazioni di mani e piedi, vietato l'effetto tessuto sciolto, vietate compenetrazioni di vestiti (clipping), vietati scatti improvvisi di posizione del personaggio, vietati cambi casuali dello sfondo.
 ```
 
 [↑ Torna alle categorie](#catalog)

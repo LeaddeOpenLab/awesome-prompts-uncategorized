@@ -558,7 +558,7 @@ Como teria sido o meu aspeto nos anos 1980? Usa a fotografia em anexo como refer
 
 <a name="prompt-2097844559959245230"></a>
 
-### Tradução em curso
+### Prompt de vídeo para transição contínua e gradual de indumentária durante dança de girl group, mudando sequencialmente e sem cortes top, saia, botas e acessórios nos pontos altos do movimento ao longo da linha temporal.
 
 Autor：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2097844559959245230)
 
@@ -566,14 +566,71 @@ Item de Moda · Publicado
 
 Publicação original：[@Adam38363368936](https://x.com/Adam38363368936) · [Publicação original](https://x.com/Adam38363368936/status/2097483614011486260)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo para transição contínua e gradual de indumentária durante dança de girl group, mudando sequencialmente e sem cortes top, saia, botas e acessórios nos pontos altos do movimento ao longo da linha temporal.
 
 <img src="covers/2097844559959245230.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Com a mulher da imagem de referência como protagonista fixa, mantenha rigorosamente consistentes o formato do rosto, os traços faciais, o penteado, o tom de pele e as proporções corporais da personagem.
+
+Formato vertical 9:16, 10 segundos. Uma jovem mulher asiática no centro de um palco minimalista e sofisticado, a realizar uma coreografia de girl group fluida e ritmada. O plano é predominantemente de corpo inteiro, acompanhando suavemente os movimentos da personagem, mantendo-a sempre no centro da imagem.
+
+Efeito central: Enquanto dança continuamente, a personagem completa gradualmente uma mudança parcial de roupa através de diferentes passos de dança. Todo o processo da dança é contínuo, sem pausas, sem teletransporte e sem cortes de câmara.
+
+No início, a personagem veste um top básico branco, saia curta de cor clara e sapatilhas brancas; um estilo geral simples e limpo.
+
+0–2 segundos:
+A personagem faz um movimento expressivo de balanço de braço.
+O braço passa rapidamente pela frente do torso; no instante exato em que a oclusão do braço e a desfocagem de movimento são mais evidentes, a peça superior transforma-se naturalmente num top de palco preto, justo e curto.
+
+Nesta fase, apenas a parte superior é mudada.
+A parte inferior, o calçado, o penteado e o restante mantêm-se exatamente iguais.
+
+2–4 segundos:
+A personagem continua a dançar, com uma transição natural de movimentos, realizando um movimento nítido de rotação lateral de anca.
+No instante exato em que o corpo gira rapidamente de lado, a parte inferior transforma-se naturalmente numa minisaia plissada preta.
+
+Nesta fase, apenas a parte inferior é mudada.
+A parte superior preta já transformada mantém-se inalterada e o calçado continua a ser sapatilhas brancas.
+
+4–6 segundos:
+A personagem continua a dançar e executa um pontapé nítido e leve.
+O pé ergue-se rapidamente, gerando uma desfocagem de movimento natural; no momento em que o pé atinge o chão, as sapatilhas brancas transformam-se naturalmente em botas altas pretas.
+
+Nesta fase, apenas o calçado é mudado.
+A parte superior e a inferior mantêm o visual da fase anterior.
+
+6–8 segundos:
+A personagem continua a dançar, fazendo um movimento claro com a cabeça e erguendo as mãos.
+O cabelo esvoaça naturalmente; no instante do movimento do cabelo e da oclusão das mãos, são adicionados brincos prateados, um colar, uma corrente de cintura e alguns acessórios de palco.
+
+O vestuário principal mantém-se inalterado, adicionando-se apenas acessórios e escassos detalhes.
+
+8–10 segundos:
+A personagem realiza uma rotação fluida, fazendo a saia erguer-se naturalmente.
+Durante a rotação, todo o coordenado passa por uma última e completa evolução.
+
+Quando a personagem se volta a virar para a frente, apresenta finalmente um coordenado de palco completo em preto e prateado de alta qualidade, com detalhes de vestuário mais requintados, acrescentando toques metálicos, lantejoulas e elementos cénicos refinados.
+
+A personagem conclui o último passo de dança, finalizando com naturalidade.
+
+Todas as mudanças de roupa devem ocorrer nos instantes em que a amplitude do movimento é máxima, a rotação do corpo é mais rápida, ou a oclusão do braço, cabelo a voar e desfocagem de movimento são mais visíveis.
+
+Antes e depois de cada mudança, a posição corporal da personagem, o sentido do movimento, a posição dos braços e pernas e a trajetória do movimento devem ser naturais e contínuos.
+
+Foco primordial no efeito de "mudar de roupa gradualmente enquanto dança".
+
+Não se trata de cortes abruptos entre vídeos diferentes, não é o desaparecimento e reaparecimento da personagem, nem a mudança de todo o vestuário em simultâneo a cada movimento.
+
+De cada vez, apenas a parte especificada do vestuário é alterada, mantendo o restante intacto.
+
+Sem explosões de luz, sem partículas mágicas, sem fumo a tapar, sem ecrãs pretos e sem cortes diretos de câmara.
+
+Estilo fotográfico real em imagem real, estética de palco K-pop, iluminação cénica sofisticada, texturas de tecido realistas, desfocagem de movimento natural, detalhes de pele em alta definição, movimentos fluidos e ritmo marcado.
+
+Proibida a troca de rosto, proibida a alteração dos traços faciais, proibida a alteração da identidade da personagem, proibidas variações súbitas de peso corporal, proibidos braços e pernas adicionais, proibida a deformação de mãos e pés, proibido vestuário a derreter, proibido o clipping de vestuário, proibidos saltos repentinos de posição da personagem e proibidas alterações aleatórias do cenário de fundo.
 ```
 
 [↑ Voltar às categorias](#catalog)
