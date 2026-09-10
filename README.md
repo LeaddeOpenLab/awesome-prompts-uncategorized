@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**39** Prompts · Latest addition: **2026-09-10**
+**40** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
@@ -459,6 +459,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2097920763529711752"></a>
+
+### 10-second cinematic vertical commercial prompt for Philips Hue Go portable table lamp across multiple moods and settings.
+
+Author：[@Urwa\_345](https://x.com/Urwa_345) · [Source](https://x.com/Urwa_345/status/2097920763529711752)
+
+Cinematic / Film Still · Published
+
+**Summary:** 10-second cinematic vertical commercial prompt for Philips Hue Go portable table lamp across multiple moods and settings.
+
+<img src="covers/2097920763529711752.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a cinematic 10-second premium advertisement for the authentic Philips Hue Go Portable Table Lamp, vertical 9:16.\n\n0–2 sec: Dark modern room, camera slowly pushes toward the lamp as it softly illuminates.\n\n2–4 sec: Macro close-up of the lamp's glowing edge, smoothly transitioning through different ambient colors.\n\n4–6 sec: Camera follows the lamp being placed on an elegant outdoor table during sunset.\n\n6–8 sec: Smooth transition to a modern bedroom where the lamp creates a cozy ambient atmosphere.\n\n8–10 sec: Final hero shot, slow 360-degree camera movement around the Philips Hue Go with beautiful cinematic lighting.\n\nPhotorealistic commercial, premium brand advertisement, realistic lighting effects, smooth camera movement, cinematic depth of field, authentic product design, polished professional campaign, no text overlays, no watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097904155801325715"></a>
 
