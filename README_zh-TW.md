@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**22** 筆內容 · 最新收錄: **2026-09-10**
+**23** 筆內容 · 最新收錄: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [3D 渲染](#category-3d-render) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [復古 / 懷舊](#category-retro-vintage) · [極簡主義](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -451,6 +451,38 @@ CGI毛髮、
 
 ```text
 將照片轉換為米色棉紙上的手繪水粉諷刺畫/人像誇張畫。保留人物的確切身份、自然的不對稱性、關鍵面部特徵、髮型、體型及原版服裝。採用大膽的扁平形狀、自信俐落的輪廓、清晰可見的紙張紋理和細微的顏料肌理。採用風格化的人物比例、富有表現力的神情、放大的圖形式眼睛，以及動態的半身姿勢。調色盤：權重均等的鼠尾草綠/橄欖綠、玫瑰粉和暖米色。不要寫實主義、動漫臉、美化、磨皮、3D陰影、文字、標誌或雜亂元素。明確是同一個人，明顯是一幅畫作。
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## 草圖 / 線稿
+
+<a name="prompt-2097875834103287904"></a>
+
+### 翻譯中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2097875834103287904)
+
+草圖 / 線稿 · 水彩 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2097875834103287904-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
 ```
 
 [↑ 返回分類目錄](#catalog)

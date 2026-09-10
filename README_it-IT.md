@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**22** Prompt · Ultima aggiunta: **2026-09-10**
+**23** Prompt · Ultima aggiunta: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Rendering 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Rendering 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -444,6 +444,38 @@ Illustrazione · Ritratto / Selfie · Pubblicato
 
 ```text
 Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone color crema. Preserva l'esatta identità della persona, la naturale asimmetria, i tratti salienti del viso, i capelli, la corporatura e l'abbigliamento originale. Usa forme piatte e audaci, contorni decisi, grana della carta visibile e una sottile texture di pigmento. Proporzioni stilizzate con un atteggiamento espressivo, occhi grafici ingranditi e una posa dinamica dalla vita in su. Tavolozza: verde salvia/oliva, rosa tenue e crema caldo in parti uguali. Niente realismo, volti anime, abbellimenti, levigature, ombreggiature 3D, testi, loghi o disordine. Chiaramente la stessa persona, chiaramente un disegno.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Schizzo / Line Art
+
+<a name="prompt-2097875834103287904"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2097875834103287904)
+
+Schizzo / Line Art · Acquerello · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2097875834103287904-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)

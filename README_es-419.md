@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**22** Prompts · Última incorporación: **2026-09-10**
+**23** Prompts · Última incorporación: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Renderizado 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Renderizado 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -444,6 +444,38 @@ Ilustración · Retrato / Selfie · Publicado
 
 ```text
 Transforma la foto en una caricatura al gouache pintada a mano sobre papel de algodón color crema. Conserva la identidad exacta de la persona, su asimetría natural, sus rasgos faciales clave, el cabello, la contextura física y el atuendo original. Utiliza formas planas y audaces, contornos seguros, textura de papel visible y una sutil textura de pigmento. Proporciones estilizadas con una actitud expresiva, ojos gráficos agrandados y una pose dinámica de cintura para arriba. Paleta: verde salvia/oliva, rosa suave y crema cálido en proporciones iguales. Sin realismo, rostro de anime, embellecimiento, suavizado, sombreado 3D, texto, logotipos ni desorden. Claramente la misma persona, claramente un dibujo.
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Boceto / Arte lineal
+
+<a name="prompt-2097875834103287904"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2097875834103287904)
+
+Boceto / Arte lineal · Acuarela · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2097875834103287904-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
 ```
 
 [↑ Volver a categorías](#catalog)

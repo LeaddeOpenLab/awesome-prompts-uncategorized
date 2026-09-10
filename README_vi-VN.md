@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**22** Prompt · Bổ sung mới nhất: **2026-09-10**
+**23** Prompt · Bổ sung mới nhất: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -456,6 +456,38 @@ Minh họa · Chân dung / Ảnh tự chụp · Đã xuất bản
 
 ```text
 Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouache trên giấy cotton màu kem. Giữ nguyên danh tính chính xác của nhân vật, sự bất đối xứng tự nhiên, các đường nét khuôn mặt chính, kiểu tóc, vóc dáng và trang phục gốc. Sử dụng các mảng phẳng táo bạo, đường viền dứt khoát, vân giấy rõ ràng và kết cấu hạt màu tinh tế. Tỷ lệ cách điệu với thần thái biểu cảm, đôi mắt đồ họa phóng to và tư thế từ thắt lưng trở lên đầy năng động. Bảng màu: tỉ lệ đồng đều giữa xanh xô thơm/ô liu, hồng hoa hồng và kem ấm. Không theo chủ nghĩa hiện thực, không mặt anime, không làm đẹp, không làm mịn da, không đổ bóng 3D, không chữ viết, logo hay lộn xộn. Rõ ràng là cùng một người, rõ ràng là một bức vẽ.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Phác Thảo / Nét Vẽ
+
+<a name="prompt-2097875834103287904"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2097875834103287904)
+
+Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2097875834103287904-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

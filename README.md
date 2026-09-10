@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**22** Prompts · Latest addition: **2026-09-10**
+**23** Prompts · Latest addition: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -434,6 +434,58 @@ Illustration · Portrait / Selfie · Published
 
 ```text
 Transform the photo into a hand-painted gouache caricature on cream cotton paper. Preserve the person’s exact identity, natural asymmetry, key facial traits, hair, build, and original outfit. Use bold flat shapes, confident contours, visible paper grain, and subtle pigment texture. Stylised proportions with an expressive attitude, enlarged graphic eyes, and a dynamic waist-up pose. Palette: equal-weight sage/olive green, rose pink, and warm cream. No realism, anime face, beautifying, smoothing, 3D shading, text, logos, or clutter. Clearly the same person, clearly a drawing.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Sketch / Line Art
+
+<a name="prompt-2097875834103287904"></a>
+
+### Transform a travel photo into an open sketchbook layout, featuring the original photograph on the left page and a corresponding watercolor sketch with handwritten notes on the right page.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2097875834103287904)
+
+Sketch / Line Art · Watercolor · Published
+
+**Summary:** Transform a travel photo into an open sketchbook layout, featuring the original photograph on the left page and a corresponding watercolor sketch with handwritten notes on the right page.
+
+<img src="images/2097875834103287904-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Convert the uploaded travel photo into a 3:4 vertical still life photograph of a physical book.
+
+Most importantly: The composition shows an artistic travel sketchbook genuinely laid open on a tabletop. The left and right pages are connected by a clearly visible spine in the center; the pages feature a natural curved contour from opening, visible paper thickness, layered page edges, and soft drop shadows. It is not an upper-and-lower split screen, not two independent side-by-side posters, and not a flat collage.
+
+Left page:
+Fully preserve the main scene, subject, perspective, lighting, and colors from the uploaded photo, presented as a genuine travel photograph adhered to the paper page. The edges of the photograph curve slightly along with the book page, while maintaining a crisp photographic quality.
+
+Right page:
+Recreate the exact same location and subject as a watercolor travel sketch. Retain the most recognizable silhouettes, spatial relationships, and primary color blocks, expressed through transparent washes, alternating wet-on-dry and wet-on-wet techniques, natural bleeding, granulation, and visible untouched paper white. Do not paint edge-to-edge, do not render it as a photo filter, and do not alter the location or add subjects that are not present in the original.
+
+The book rests on a light-toned authentic tabletop or a clean, neutral background, avoiding superfluous props. Preserve a tranquil area of negative space beneath the right page's illustration, featuring minimal genuine travel notes:
+
+"[Location or Theme Title]"
+"[A brief, specific observation related to the on-site scenery]"
+"PAGE [Number]"
+
+The text appears as though penned by a traveler with a fine-nib pen, carrying subtle handwritten irregularities, legible yet restrained. Do not include author names, brands, logos, URLs, watermarks, garbled characters, or extraneous text.
+
+The overall aesthetic should evoke a commemorative keepsake spread composed of an authentic book, travel photography, and hand-painted watercolor: tactile paper texture, a realistic book spine, harmonious correspondence between left and right pages, and a clear transition of memory between photograph and watercolor.
+
+Avoid: top-and-bottom comparisons, hard left-right split cuts, conventional picture frames, overcrowded journal stickers, excessive washi tape, ticket stubs, postage stamp perforations, digital vector lines, thick impasto oil paint, completely flat white cutouts, extra people, or landmarks that do not belong to the original image.
 ```
 
 [↑ Back to categories](#catalog)

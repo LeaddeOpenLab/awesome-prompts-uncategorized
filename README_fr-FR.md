@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**22** Prompts · Dernier ajout: **2026-09-10**
+**23** Prompts · Dernier ajout: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Rendu 3D](#category-3d-render) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Rétro / Vintage](#category-retro-vintage) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -444,6 +444,38 @@ Illustration · Portrait / Selfie · Publié
 
 ```text
 Transformez la photo en une caricature à la gouache peinte à la main sur du papier de coton crème. Préservez l'identité exacte de la personne, son asymétrie naturelle, les traits clés du visage, les cheveux, la silhouette et la tenue originale. Utilisez des formes plates et audacieuses, des contours assurés, un grain de papier visible et une texture de pigment subtile. Proportions stylisées avec une attitude expressive, de grands yeux graphiques agrandis et une pose dynamique à partir de la taille. Palette : vert sauge/olive, rose et crème chaud à parts égales. Aucun réalisme, visage d'anime, embellissement, lissage, ombrage 3D, texte, logos ou encombrement. Clairement la même personne, clairement un dessin.
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Croquis / Dessin au trait
+
+<a name="prompt-2097875834103287904"></a>
+
+### Traduction en cours
+
+Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2097875834103287904)
+
+Croquis / Dessin au trait · Aquarelle · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2097875834103287904-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
 ```
 
 [↑ Retour aux catégories](#catalog)

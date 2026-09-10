@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**22** Prompt · Son eklenen: **2026-09-10**
+**23** Prompt · Son eklenen: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -444,6 +444,38 @@ Yazar：[@MissDelulu9](https://x.com/MissDelulu9) · [Orijinal gönderi](https:/
 
 ```text
 Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre dönüştürün. Kişinin birebir kimliğini, doğal asimetrisini, temel yüz hatlarını, saçını, yapısını ve orijinal kıyafetini koruyun. Belirgin düz şekiller, kendinden emin konturlar, görünür kağıt dokusu ve hafif pigment dokusu kullanın. Etkileyici bir tavır, büyütülmüş grafik gözler ve dinamik belden yukarı bir pozla stilize edilmiş oranlar. Renk paleti: eşit ağırlıkta adaçayı/zeytin yeşili, gül pembesi ve sıcak krem. Gerçekçilik, anime yüzü, güzelleştirme, pürüzsüzleştirme, 3D gölgelendirme, metin, logolar veya karmaşa olmasın. Açıkça aynı kişi, açıkça bir çizim.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Çizim / Çizgi Sanatı
+
+<a name="prompt-2097875834103287904"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2097875834103287904)
+
+Çizim / Çizgi Sanatı · Suluboya · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2097875834103287904-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

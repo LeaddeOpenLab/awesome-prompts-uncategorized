@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**22** 件 · 最新の追加: **2026-09-10**
+**23** 件 · 最新の追加: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -450,6 +450,38 @@ CGI毛皮、
 
 ```text
 写真をクリーム色のコットン紙に描かれた手描きのガッシュ風カリカチュア（似顔絵）に変換してください。人物の正確な同一性、自然な左右非対称性、主要な顔の特徴、髪型、体格、元の衣装を維持します。大胆でフラットな形状、自信に満ちた輪郭線、目に見える紙の質感、微妙な顔料のテクスチャを使用してください。表情豊かな態度、大きく誇張されたグラフィックな目、ダイナミックな上半身のポーズによる様式化されたプロポーション。カラーパレット：セージ/オリーブグリーン、ローズピンク、温かみのあるクリーム色を均等に配合。リアル調、アニメ顔、美化、肌補正、3Dシェーディング、テキスト、ロゴ、雑然とした要素は禁止。明らかに本人であり、明らかに絵画であること。
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## スケッチ / 線画
+
+<a name="prompt-2097875834103287904"></a>
+
+### 翻訳中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [元の投稿](https://x.com/Hamburgerai/status/2097875834103287904)
+
+スケッチ / 線画 · 水彩 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2097875834103287904-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
 ```
 
 [↑ カテゴリに戻る](#catalog)

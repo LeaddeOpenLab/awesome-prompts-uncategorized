@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**22** Prompts · Adição mais recente: **2026-09-10**
+**23** Prompts · Adição mais recente: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -444,6 +444,38 @@ Ilustração · Retrato / Selfie · Publicado
 
 ```text
 Transforme a foto numa caricatura a guache pintada à mão sobre papel de algodão creme. Preserve a identidade exata da pessoa, a assimetria natural, os traços faciais essenciais, o cabelo, a fisionomia e o vestuário original. Utilize formas planas e arrojadas, contornos firmes, grão de papel visível e textura subtil de pigmento. Proporções estilizadas com uma atitude expressiva, olhos gráficos ampliados e uma pose dinâmica da cintura para cima. Paleta: verde-sálvia/azeitona, rosa e creme quente em partes iguais. Sem realismo, rosto estilo anime, embelezamento, suavização, sombreamento 3D, texto, logótipos ou confusão visual. Claramente a mesma pessoa, claramente um desenho.
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Esboço / Arte Linear
+
+<a name="prompt-2097875834103287904"></a>
+
+### Tradução em curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2097875834103287904)
+
+Esboço / Arte Linear · Aquarela · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2097875834103287904-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
 ```
 
 [↑ Voltar às categorias](#catalog)

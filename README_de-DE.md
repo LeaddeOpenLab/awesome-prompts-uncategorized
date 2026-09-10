@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**22** Prompts · Zuletzt hinzugefügt: **2026-09-10**
+**23** Prompts · Zuletzt hinzugefügt: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [3D-Rendering](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [3D-Rendering](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -444,6 +444,38 @@ Illustration · Porträt / Selfie · Veröffentlicht
 
 ```text
 Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumwollpapier. Bewahre die exakte Identität der Person, die natürliche Asymmetrie, die wichtigsten Gesichtszüge, das Haar, den Körperbau und das Originaloutfit. Verwende kühne, flächige Formen, selbstbewusste Konturen, sichtbare Papierkörnung und subtile Pigmenttextur. Stilisierte Proportionen mit ausdrucksstarker Haltung, vergrößerten grafischen Augen und einer dynamischen Pose von der Taille aufwärts. Farbpalette: zu gleichen Teilen Salbei-/Olivgrün, Rosapink und warmes Creme. Kein Realismus, kein Anime-Gesicht, kein Verschönern, Glätten, 3D-Schattierungen, Text, Logos oder Unordnung. Eindeutig dieselbe Person, eindeutig eine Zeichnung.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## Skizze / Strichzeichnung
+
+<a name="prompt-2097875834103287904"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2097875834103287904)
+
+Skizze / Strichzeichnung · Aquarell · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2097875834103287904-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

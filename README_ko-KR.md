@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**22** 개 · 최근 추가: **2026-09-10**
+**23** 개 · 최근 추가: **2026-09-10**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -450,6 +450,38 @@ CGI 털,
 
 ```text
 사진을 크림색 코튼 종이 위에 그려진 손그림 과슈 캐리커처로 변환하세요. 인물의 정확한 정체성, 자연스러운 비대칭성, 핵심 이목구비, 헤어스타일, 체형, 원래 의상을 유지하세요. 과감한 평면 형태, 자신감 있는 윤곽선, 눈에 띄는 종이 질감, 은은한 안료 질감을 사용합니다. 표현력 넘치는 태도, 과장되어 커진 그래픽적인 눈, 역동적인 상반신 포즈를 가진 양식화된 비율. 색상 팔레트: 동일한 비중의 세이지/올리브 그린, 로즈 핑크, 따뜻한 크림색. 사실주의, 애니메이션 얼굴, 미화, 스무딩, 3D 셰이딩, 텍스트, 로고, 지저분한 요소는 배제하세요. 분명히 동일 인물이면서 명백한 그림이어야 합니다.
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-sketch-line-art"></a>
+
+## 스케치 / 선화
+
+<a name="prompt-2097875834103287904"></a>
+
+### 번역 중
+
+작성자：[@Hamburgerai](https://x.com/Hamburgerai) · [원본 게시물](https://x.com/Hamburgerai/status/2097875834103287904)
+
+스케치 / 선화 · 수채화 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2097875834103287904-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2097875834103287904-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2097875834103287904-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2097875834103287904-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
