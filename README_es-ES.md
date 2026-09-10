@@ -905,20 +905,45 @@ La tela debe ser sólo ligeramente traslúcida, no transparente. Sin piel desnud
 
 <a name="prompt-2097899194086297845"></a>
 
-### Traducción en curso
+### Un prompt de guion gráfico secuencial de 15 segundos para un comercial de perfume de lujo que presenta un callejón nocturno de París, una toma macro del producto, diálogo y efectos dorados.
 
 Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicación original](https://x.com/yourPlugAI/status/2097899194086297845)
 
 Cómic / Guion gráfico · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt de guion gráfico secuencial de 15 segundos para un comercial de perfume de lujo que presenta un callejón nocturno de París, una toma macro del producto, diálogo y efectos dorados.
 
 <img src="covers/2097899194086297845.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Prompt de video secuencial de 15 segundos
+
+De 0 a 3 segundos (El gancho)
+Visual: Toma de seguimiento cinematográfica en ángulo bajo siguiendo a la embajadora de lujo mientras camina por un callejón parisino de medianoche tenuemente iluminado. Su vestido de seda negra se balancea con gracia mientras las luces de las calles de la ciudad se reflejan en el pavimento mojado.
+Acción: Gira la cabeza con fluidez hacia la cámara, haciendo un contacto visual intenso y seguro con una sonrisa sutil y seductora.
+Sonido: Subgraves profundos y resonantes que crecen hacia acordes de sintetizador atmosféricos de ritmo lento, acompañados por el eco nítido de los tacones pisando el pavimento.
+
+De 3 a 6 segundos (La revelación del producto)
+Visual: Primer plano macro extremo de una botella de perfume elegante y oscura de obsidiana en posición vertical. Los detalles en lámina dorada brillan en el vidrio, mostrando claramente la marca "GILBERTO" y "EST. 2026".
+Acción: Un fino rocío volumétrico de fragancia brota suavemente de la boquilla lateral, dispersándose en partículas de polvo dorado que se arremolinan dramáticamente por el aire en un movimiento ultraclaro.
+Sonido: Clic metálico agudo e hipernítido de la boquilla atomizadora rociando, seguido de un siseo de aire suave y sedoso y un repique resonante.
+
+De 6 a 9 segundos (El diálogo del personaje)
+Visual: Primer plano medio de la mujer llevando su muñeca hacia la clavícula, mirando suavemente hacia abajo cómo la niebla de fragancia se asienta en su piel antes de mirar directamente a la lente.
+Acción: Su expresión facial cambia hacia una confianza natural mientras sus labios se mueven para hablar, manteniendo su rostro perfectamente firme y expresivo sin distorsión.
+Sonido: Voz en off clara, cálida y de tono aterciopelado: "Own the night." Una línea de bajo ambiental suave continúa por debajo del diálogo hablado.
+
+De 9 a 12 segundos (La oleada sensorial)
+Visual: Toma de transición a alta velocidad donde la oscuridad de la medianoche se transforma en ondas de oro líquido que se arremolinan alrededor de la botella de obsidiana en el aire.
+Acción: Finos rayos de luz dorada atraviesan la oscuridad, iluminando la tela de seda que ondea suavemente alrededor del frasco de perfume.
+Sonido: Un crescendo musical rico que combina cuerdas orquestales con un pulso de bajo profundo, creando una atmósfera opulenta y surrealista.
+
+De 12 a 15 segundos (El outro de la marca)
+Visual: Hermosa toma principal de la botella de perfume de pie perfectamente erguida sobre un pedestal de mármol oscuro con reflejos líquidos. La tipografía "GILBERTO" brilla claramente bajo un foco cálido enfocado.
+Acción: La cámara retrocede lentamente mientras una niebla dorada sutil y elegante flota suavemente alrededor de la base de la botella.
+Sonido: Acorde musical profundo y cálido que se desvanece suavemente, dejando una suave resonancia acústica persistente.
 ```
 
 [↑ Volver a categorías](#catalog)

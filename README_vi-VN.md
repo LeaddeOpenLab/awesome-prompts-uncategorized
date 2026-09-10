@@ -905,20 +905,45 @@ Vải chỉ được hơi mỏng nhẹ, không nhìn xuyên thấu. Không lộ 
 
 <a name="prompt-2097899194086297845"></a>
 
-### Đang dịch
+### Prompt kịch bản phân cảnh 15 giây cho quảng cáo nước hoa xa xỉ bao gồm con hẻm đêm ở Paris, cảnh quay sản phẩm macro, lời thoại và hiệu ứng vàng.
 
 Tác giả：[@yourPlugAI](https://x.com/yourPlugAI) · [Bài gốc](https://x.com/yourPlugAI/status/2097899194086297845)
 
 Truyện tranh / Bảng phân cảnh · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt kịch bản phân cảnh 15 giây cho quảng cáo nước hoa xa xỉ bao gồm con hẻm đêm ở Paris, cảnh quay sản phẩm macro, lời thoại và hiệu ứng vàng.
 
 <img src="covers/2097899194086297845.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Prompt video phân cảnh 15 giây
+
+0 đến 3 giây (Đoạn thu hút)
+Hình ảnh: Cú máy tracking điện ảnh góc thấp theo chân đại sứ thương hiệu xa xỉ đang bước qua một con hẻm nửa đêm ánh sáng lờ mờ ở Paris. Chiếc đầm lụa đen của cô đung đưa duyên dáng khi ánh đèn đường thành phố phản chiếu trên mặt đường ướt.
+Hành động: Cô quay đầu một cách uyển chuyển về phía máy quay, giao tiếp bằng ánh mắt đầy mãnh liệt, tự tin cùng nụ cười quyến rũ tinh tế.
+Âm thanh: Tiếng sub-bass trầm, vang dội dần dâng lên thành các hợp âm synth khí quyển nhịp độ chậm, đi kèm với tiếng vọng sắc nét của gót giày bước trên mặt đường.
+
+3 đến 6 giây (Tiết lộ sản phẩm)
+Hình ảnh: Cận cảnh macro cực đại của chai nước hoa bằng đá obsidian sẫm màu, bóng bẩy đứng thẳng. Các chi tiết lá vàng tỏa sáng trên thủy tinh, hiển thị rõ ràng nhãn hiệu "GILBERTO" và "EST. 2026".
+Hành động: Làn sương nước hoa thể tích mịn màng phun ra mượt mà từ vòi xịt bên cạnh, phân tán thành các hạt bụi vàng xoáy đầy kịch tính trong không trung với chuyển động siêu rõ nét.
+Âm thanh: Tiếng cạch kim loại sắc bén, cực kỳ giòn giã của vòi xịt tán sương, theo sau là tiếng xì nhẹ êm ái như lụa và tiếng chuông ngân vang vọng.
+
+6 đến 9 giây (Lời thoại nhân vật)
+Hình ảnh: Cận cảnh vừa hình ảnh người phụ nữ đưa cổ tay lên phía xương quai xanh, nhẹ nhàng liếc nhìn làn sương nước hoa đọng lại trên da trước khi nhìn thẳng vào ống kính.
+Hành động: Biểu cảm khuôn mặt cô chuyển sang sự tự tin nhẹ nhàng khi đôi môi mấp máy nói, giữ cho khuôn mặt hoàn toàn ổn định và biểu cảm mà không bị biến dạng.
+Âm thanh: Giọng lồng tiếng rõ ràng, ấm áp, mượt mà như nhung: "Own the night." Dải âm trầm ambient mượt mà tiếp tục vang lên bên dưới lời thoại.
+
+9 đến 12 giây (Sự bùng nổ giác quan)
+Hình ảnh: Cú máy chuyển cảnh tốc độ cao nơi bóng tối nửa đêm biến thành những gợn sóng vàng lỏng xoáy quanh chai obsidian giữa không trung.
+Hành động: Những tia sáng vàng mịn đâm xuyên qua bóng tối, chiếu sáng dải lụa đang nhẹ nhàng phấp phới quanh chai nước hoa.
+Âm thanh: Đoạn nhạc riser phong phú kết hợp giữa dàn dây giao hưởng với nhịp bass sâu, tạo nên một bầu không khí xa hoa và huyền ảo.
+
+12 đến 15 giây (Đoạn kết thương hiệu)
+Hình ảnh: Khung hình hero shot tuyệt đẹp của chai nước hoa đứng thẳng hoàn hảo trên bệ đá cẩm thạch tối màu với hình ảnh phản chiếu dạng chất lỏng. Dòng chữ "GILBERTO" tỏa sáng rõ ràng dưới ánh đèn spotlight ấm áp tập trung.
+Hành động: Máy quay từ từ lùi lại khi làn sương vàng tinh tế, trang nhã lơ lửng nhẹ nhàng quanh đáy chai.
+Âm thanh: Hợp âm âm nhạc trầm ấm dần phai mờ êm ái, để lại dư âm vang vọng mộc mạc dịu nhẹ.
 ```
 
 [↑ Về danh mục](#catalog)

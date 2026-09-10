@@ -893,20 +893,45 @@ Il tessuto deve rimanere solo leggermente velato, non trasparente. Niente pelle 
 
 <a name="prompt-2097899194086297845"></a>
 
-### Traduzione in corso
+### Un prompt di storyboard sequenziale di 15 secondi per lo spot di un profumo di lusso con un vicolo notturno di Parigi, un'inquadratura macro del prodotto, dialoghi ed effetti dorati.
 
 Autore：[@yourPlugAI](https://x.com/yourPlugAI) · [Post originale](https://x.com/yourPlugAI/status/2097899194086297845)
 
 Fumetto / Storyboard · Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt di storyboard sequenziale di 15 secondi per lo spot di un profumo di lusso con un vicolo notturno di Parigi, un'inquadratura macro del prodotto, dialoghi ed effetti dorati.
 
 <img src="covers/2097899194086297845.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Prompt video sequenziale di 15 secondi
+
+Da 0 a 3 secondi (Il gancio)
+Visivo: Inquadratura cinematografica dal basso in movimento che segue l'ambasciatrice del lusso mentre cammina attraverso un vicolo di mezzanotte scarsamente illuminato a Parigi. Il suo abito di seta nera ondeggia con grazia mentre le luci dei lampioni della città si riflettono sul selciato bagnato.
+Azione: Gira la testa fluidamente verso la telecamera, stabilendo un contatto visivo intenso e sicuro con un sorriso sottile e seducente.
+Suono: Sub-bass profondo e risonante che cresce in lenti accordi atmosferici di sintetizzatore, accompagnato dal nitido eco dei tacchi che calpestano il selciato.
+
+Da 3 a 6 secondi (La rivelazione del prodotto)
+Visivo: Primissimo piano macro estremo di un'elegante boccetta di profumo in ossidiana scura in posizione verticale. Dettagli in lamina d'oro brillano sul vetro, mostrando chiaramente il marchio "GILBERTO" ed "EST. 2026".
+Azione: Un sottile getto volumetrico di profumo nebulizzato fuoriesce fluidamente dall'erogatore laterale, disperdendosi in particelle di polvere dorata che vorticano drammaticamente nell'aria con un movimento ultra-nitido.
+Suono: Clic metallico nitido e iper-definito dell'erogatore dello spray, seguito da un morbido e setoso soffio d'aria e da un rintocco echeggiante.
+
+Da 6 a 9 secondi (Il dialogo del personaggio)
+Visivo: Mezzo primo piano della donna che porta il polso verso la clavicola, posando delicatamente lo sguardo sulla scia di profumo che si posa sulla pelle prima di guardare dritto nell'obiettivo.
+Azione: La sua espressione facciale si trasforma in una naturale sicurezza mentre le sue labbra si muovono per parlare, mantenendo il viso perfettamente fermo ed espressivo senza distorsioni.
+Suono: Voce fuori campo chiara, calda e vellutata: "Domina la notte." Una linea di basso d'ambiente fluida continua sotto il dialogo parlato.
+
+Da 9 a 12 secondi (L'ondata sensoriale)
+Visivo: Inquadratura di transizione ad alta velocità in cui l'oscurità della mezzanotte si trasforma in increspature d'oro liquido che vorticano attorno alla boccetta d'ossidiana a mezz'aria.
+Azione: Sottili raggi di luce dorata squarciano l'oscurità, illuminando il tessuto di seta che volteggia delicatamente attorno alla boccetta di profumo.
+Suono: Ricco crescendo musicale che fonde archi orchestrali con una profonda pulsazione di basso, creando un'atmosfera opulenta e surreale.
+
+Da 12 a 15 secondi (L'outro del brand)
+Visivo: Splendida inquadratura hero della boccetta di profumo perfettamente eretta su un piedistallo di marmo scuro con riflessi liquidi. La tipografia "GILBERTO" risplende nitidamente sotto un faretto caldo e mirato.
+Azione: La telecamera indietreggia lentamente mentre una sottile ed elegante nebbia dorata fluttua dolcemente attorno alla base della boccetta.
+Suono: Accordo musicale profondo e caldo che sfuma dolcemente, lasciando una morbida e persistente risonanza acustica.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -893,20 +893,45 @@ Le tissu doit rester uniquement légèrement transparent, pas complètement tran
 
 <a name="prompt-2097899194086297845"></a>
 
-### Traduction en cours
+### Un prompt de storyboard séquentiel de 15 secondes pour une publicité de parfum de luxe mettant en scène une ruelle nocturne de Paris, un plan macro du produit, des dialogues et des effets dorés.
 
 Auteur：[@yourPlugAI](https://x.com/yourPlugAI) · [Publication originale](https://x.com/yourPlugAI/status/2097899194086297845)
 
 Bande dessinée / Storyboard · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt de storyboard séquentiel de 15 secondes pour une publicité de parfum de luxe mettant en scène une ruelle nocturne de Paris, un plan macro du produit, des dialogues et des effets dorés.
 
 <img src="covers/2097899194086297845.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Prompt vidéo séquentiel de 15 secondes
+
+0 à 3 secondes (L'accroche)
+Visuel : Plan traveling cinématographique en contre-plongée suivant l'ambassadrice du luxe marchant dans une ruelle parisienne sombre à minuit. Sa robe en soie noire ondule avec grâce tandis que les lampadaires de la ville se reflètent sur le pavé mouillé.
+Action : Elle tourne la tête avec fluidité vers la caméra, établissant un contact visuel intense et assuré avec un sourire subtil et séduisant.
+Son : Sub-bass profond et résonnant se transformant en accords de synthétiseur atmosphériques au tempo lent, accompagnés de l'écho net des talons claquant sur le pavé.
+
+3 à 6 secondes (La révélation du produit)
+Visuel : Très gros plan macro d'un élégant flacon de parfum en obsidienne sombre posé à la verticale. Des accents de dorure à la feuille scintillent sur le verre, affichant clairement la marque "GILBERTO" et "EST. 2026".
+Action : Une fine brume volumétrique de parfum jaillit doucement de la buse latérale, se dispersant en particules de poussière dorée qui tourbillonnent de manière spectaculaire dans l'air avec un mouvement d'une netteté absolue.
+Son : Clic métallique net et ultra-précis de la buse de l'atomiseur qui pulvérise, suivi d'un souffle d'air doux et soyeux et d'un carillon résonnant.
+
+6 à 9 secondes (Le dialogue du personnage)
+Visuel : Plan rapproché poitrine de la femme portant son poignet vers sa clavicule, baissant doucement les yeux vers la brume parfumée qui se dépose sur sa peau avant de regarder directement l'objectif.
+Action : Son expression faciale se mue en une assurance naturelle alors que ses lèvres bougent pour parler, gardant son visage parfaitement stable et expressif sans distorsion.
+Son : Voix off claire, chaleureuse et au ton velouté : "Domine la nuit." Une ligne de basse d'ambiance fluide se poursuit sous le dialogue parlé.
+
+9 à 12 secondes (La montée sensorielle)
+Visuel : Plan de transition à grande vitesse où l'obscurité de minuit se transforme en ondulations d'or liquide tourbillonnant autour du flacon d'obsidienne en plein vol.
+Action : De fins rayons de lumière dorée percent l'obscurité, illuminant le tissu de soie qui voltige doucement autour du flacon de parfum.
+Son : Riser musical riche mêlant cordes orchestrales et pulsation de basse profonde, créant une atmosphère opulente et surréaliste.
+
+12 à 15 secondes (L'outro de la marque)
+Visuel : Superbe plan héroïque du flacon de parfum dressé parfaitement à la verticale sur un piédestal en marbre sombre avec des reflets liquides. La typographie "GILBERTO" brille clairement sous un projecteur chaud et ciblé.
+Action : La caméra recule lentement tandis qu'une brume dorée, subtile et élégante flotte délicatement autour de la base du flacon.
+Son : Accord musical profond et chaud s'estompant en douceur, laissant une douce résonance acoustique persistante.
 ```
 
 [↑ Retour aux catégories](#catalog)

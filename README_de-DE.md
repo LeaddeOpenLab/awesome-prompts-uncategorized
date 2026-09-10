@@ -893,20 +893,45 @@ Der Stoff darf nur leicht durchscheinend sein, nicht durchsichtig. Keine nackte 
 
 <a name="prompt-2097899194086297845"></a>
 
-### Übersetzung läuft
+### Ein 15-sekündiger sequenzieller Storyboard-Prompt für einen Luxusparfüm-Werbespot mit einer Pariser Gasse bei Nacht, einer Makro-Produktaufnahme, Dialog und Goldeffekten.
 
 Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Originalbeitrag](https://x.com/yourPlugAI/status/2097899194086297845)
 
 Comic / Storyboard · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein 15-sekündiger sequenzieller Storyboard-Prompt für einen Luxusparfüm-Werbespot mit einer Pariser Gasse bei Nacht, einer Makro-Produktaufnahme, Dialog und Goldeffekten.
 
 <img src="covers/2097899194086297845.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+15-sekündiger sequenzieller Video-Prompt
+
+0 bis 3 Sekunden (Der Hook)
+Visuell: Filmische Kamerafahrt aus der Froschperspektive, die der Luxusbotschafterin folgt, während sie durch eine schwach beleuchtete mitternächtliche Gasse in Paris geht. Ihr schwarzes Seidenkleid schwingt anmutig, während sich die Lichter der Stadt auf dem nassen Pflaster spiegeln.
+Aktion: Sie dreht ihren Kopf fließend zur Kamera und sucht intensiven, selbstbewussten Blickkontakt mit einem subtilen, verführerischen Lächeln.
+Ton: Tiefer, resonanter Subbass, der in langsame, atmosphärische Synthesizer-Akkorde übergeht, begleitet vom deutlichen Echo von Absätzen auf dem Pflaster.
+
+3 bis 6 Sekunden (Die Produktenthüllung)
+Visuell: Extremes Makro-Nahaufnahme eines eleganten Parfümflakons aus dunklem Obsidian, der aufrecht steht. Goldfolienakzente glänzen auf dem Glas und zeigen deutlich den Markennamen "GILBERTO" und "EST. 2026".
+Aktion: Ein feiner volumetrischer Duftnebel sprüht sanft aus der seitlichen Düse und verteilt sich in goldenen Staubpartikeln, die in ultraklarer Bewegung dramatisch durch die Luft wirbeln.
+Ton: Scharfes, gestochen scharfes metallisches Klicken der zerstäubenden Zerstäuberdüse, gefolgt von einem leisen, seidigen Luftzischen und einem nachhallenden Glockenspiel.
+
+6 bis 9 Sekunden (Der Charakterdialog)
+Visuell: Halbnahaufnahme der Frau, die ihr Handgelenk zu ihrem Schlüsselbein führt und sanft nach unten blickt, wie sich der Duftnebel auf ihrer Haut absetzt, bevor sie direkt in die Linse schaut.
+Aktion: Ihr Gesichtsausdruck verwandelt sich in mühelose Zuversicht, während sich ihre Lippen zum Sprechen bewegen, wobei ihr Gesicht ohne Verzerrung vollkommen ruhig und ausdrucksstark bleibt.
+Ton: Klare, warme, samtige Voiceover-Stimme: "Beherrsche die Nacht." Eine sanfte Ambient-Basslinie läuft unter dem gesprochenen Dialog weiter.
+
+9 bis 12 Sekunden (Der sensorische Rausch)
+Visuell: Hochgeschwindigkeits-Übergangsaufnahme, bei der sich die mitternächtliche Dunkelheit in Wellen aus flüssigem Gold verwandelt, die in der Luft um den Obsidianflakon wirbeln.
+Aktion: Feine goldene Lichtstrahlen durchdringen die Dunkelheit und beleuchten Seidenstoff, der sanft um den Parfümflakon flattert.
+Ton: Reicher musikalischer Riser, der Orchesterstreicher mit einem tiefen Basspuls verbindet und eine opulente und surreale Atmosphäre schafft.
+
+12 bis 15 Sekunden (Das Marken-Outro)
+Visuell: Wunderschöne Hero-Aufnahme des Parfümflakons, der perfekt aufrecht auf einem dunklen Marmorsockel mit flüssigen Reflexionen steht. Der Schriftzug "GILBERTO" leuchtet deutlich unter einem fokussierten warmen Scheinwerfer.
+Aktion: Die Kamera zieht sich langsam zurück, während dezenter, eleganter goldener Nebel sanft um den Fuß des Flakons schwebt.
+Ton: Tiefer, warmer Musikakkord, der sanft ausklingt und eine leise, verweilende akustische Resonanz hinterlässt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

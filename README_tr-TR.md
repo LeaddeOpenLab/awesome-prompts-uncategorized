@@ -893,20 +893,45 @@ Kumaş yalnızca hafif transparan kalmalı, tamamen iç göstermemelidir. Çıpl
 
 <a name="prompt-2097899194086297845"></a>
 
-### Çeviri sürüyor
+### Paris'te bir gece ara sokağını, makro ürün çekimini, diyaloğu ve altın efektlerini içeren lüks bir parfüm reklamı için 15 saniyelik sıralı storyboard istemi.
 
 Yazar：[@yourPlugAI](https://x.com/yourPlugAI) · [Orijinal gönderi](https://x.com/yourPlugAI/status/2097899194086297845)
 
 Çizgi Roman / Hikaye Taslağı · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Paris'te bir gece ara sokağını, makro ürün çekimini, diyaloğu ve altın efektlerini içeren lüks bir parfüm reklamı için 15 saniyelik sıralı storyboard istemi.
 
 <img src="covers/2097899194086297845.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+15 Saniyelik Sıralı Video İstemi
+
+0 - 3 Saniye (Kanca)
+Görsel: Paris'te loş ışıklı bir gece yarısı ara sokağında yürüyen lüks marka elçisini takip eden düşük açılı sinematik takip çekimi. Islak kaldırımdan yansıyan sokak lambalarının ışığı eşliğinde siyah ipek elbisesi zarifçe salınıyor.
+Eylem: Başını akıcı bir şekilde kameraya doğru çevirir; hafif, baştan çıkarıcı bir gülümsemeyle yoğun ve kendinden emin bir göz teması kurar.
+Ses: Kaldırıma basan topuk seslerinin net yankısı eşliğinde, yavaş tempolu atmosferik synth akorlarına dönüşen derin, rezonanslı bir sub-bass yükselişi.
+
+3 - 6 Saniye (Ürün Tanıtımı)
+Görsel: Dik duran, şık ve koyu obsidyen bir parfüm şişesinin aşırı makro yakın plan çekimi. Camın üzerindeki altın varak detaylar parıldayarak "GILBERTO" ve "EST. 2026" marka işaretlerini net bir şekilde sergiler.
+Eylem: Yan püskürtme memesinden pürüzsüzce fışkıran ince hacimsel parfüm sisi, ultra net bir hareketle havada dramatik bir şekilde girdaplar oluşturan altın toz partiküllerine dönüşerek dağılır.
+Ses: Püskürten atomizer memesinin keskin, son derece net metalik tıklaması, ardından gelen yumuşak, ipeksi bir hava fısıltısı ve yankılanan bir çan sesi.
+
+6 - 9 Saniye (Karakter Diyaloğu)
+Görsel: Kadının bileğini köprücük kemiğine doğru yaklaştırdığı, doğrudan merceğe bakmadan önce tenine yerleşen parfüm sisine nazikçe aşağıya doğru baktığı orta yakın çekim.
+Eylem: Yüzü bozulmadan, tamamen sabit ve anlamlı kalarak dudakları konuşmak için kıpırdarken yüz ifadesi çabasız bir özgüvene bürünür.
+Ses: Net, sıcak ve kadife tonlu dış ses: "Own the night." Konuşulan diyaloğun altında yumuşak ortam bas hattı devam eder.
+
+9 - 12 Saniye (Duyusal Yükseliş)
+Görsel: Gece yarısı karanlığının havada asılı duran obsidyen şişenin etrafında dönen sıvı altın dalgalanmalarına dönüştüğü yüksek hızlı geçiş çekimi.
+Eylem: İnce altın ışık huzmeleri karanlığı delip geçerek parfüm şişesinin etrafında nazikçe dalgalanan ipek kumaşı aydınlatır.
+Ses: Orkestra yaylılarını derin bir bas ritmiyle harmanlayan, zengin ve gerçeküstü bir atmosfer yaratan görkemli müzikal yükseliş.
+
+12 - 15 Saniye (Marka Kapanışı)
+Görsel: Sıvı yansımaları olan koyu mermer bir kaide üzerinde kusursuz bir şekilde dik duran parfüm şişesinin güzel bir ana çekimi (hero shot). "GILBERTO" tipografisi, odaklanmış sıcak bir spot ışığı altında net bir şekilde parıldar.
+Eylem: Şişenin tabanı etrafında ince, zarif bir altın sisi nazikçe süzülürken kamera yavaşça geriye doğru çekilir.
+Ses: Yumuşak, kalıcı bir akustik tını bırakarak pürüzsüzce sönen derin, sıcak bir müzikal akor.
 ```
 
 [↑ Kategorilere dön](#catalog)

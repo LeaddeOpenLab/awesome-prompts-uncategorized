@@ -893,20 +893,45 @@ O tecido deve permanecer apenas ligeiramente transparente, não translúcido em 
 
 <a name="prompt-2097899194086297845"></a>
 
-### Tradução em curso
+### Um prompt de storyboard sequencial de 15 segundos para um anúncio de perfume de luxo com um beco noturno de Paris, plano macro do produto, diálogo e efeitos dourados.
 
 Autor：[@yourPlugAI](https://x.com/yourPlugAI) · [Publicação original](https://x.com/yourPlugAI/status/2097899194086297845)
 
 Banda desenhada / Storyboard · Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt de storyboard sequencial de 15 segundos para um anúncio de perfume de luxo com um beco noturno de Paris, plano macro do produto, diálogo e efeitos dourados.
 
 <img src="covers/2097899194086297845.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Prompt de Vídeo Sequencial de 15 Segundos
+
+0 a 3 Segundos (O Gancho)
+Visual: Plano de seguimento cinematográfico em contra-picado acompanhando a embaixadora do luxo a caminhar por um beco mal iluminado à meia-noite em Paris. O seu vestido de seda preta balança graciosamente enquanto as luzes ambientes da rua se refletem no pavimento molhado.
+Ação: Ela vira a cabeça fluidamente em direção à câmara, estabelecendo um contacto visual intenso e confiante com um sorriso subtil e sedutor.
+Som: Sub-graves profundos e ressonantes a crescer em acordes de sintetizador atmosférico de tempo lento, acompanhados pelo eco nítido de saltos a bater no pavimento.
+
+3 a 6 Segundos (A Revelação do Produto)
+Visual: Grande plano macro extremo de um elegante frasco de perfume de obsidiana escura na vertical. Pormenores em folha de ouro brilham no vidro, exibindo claramente a marca "GILBERTO" e "EST. 2026".
+Ação: Uma fina névoa volumétrica de fragrância vaporiza suavemente a partir do bocal lateral, dispersando-se em partículas de pó dourado que rodopiam dramaticamente pelo ar em movimento ultranítido.
+Som: Clique metálico nítido e hiperpreciso do bocal atomizador a vaporizar, seguido por um sussurro de ar suave e sedoso e um toque a ecoar.
+
+6 a 9 Segundos (O Diálogo da Personagem)
+Visual: Plano médio aproximado da mulher a levar o pulso em direção à clavícula, olhando suavemente para baixo para a névoa de fragrância que assenta na sua pele antes de olhar diretamente para a lente.
+Ação: A sua expressão facial transforma-se numa confiança natural enquanto os seus lábios se movem para falar, mantendo o rosto perfeitamente estável e expressivo sem distorção.
+Som: Voz-off límpida, quente e aveludada: "Own the night." Uma linha de baixo ambiente suave continua por baixo do diálogo falado.
+
+9 a 12 Segundos (A Onda Sensorial)
+Visual: Plano de transição em alta velocidade onde a escuridão da meia-noite se transforma em ondulações de ouro líquido que rodopiam em redor do frasco de obsidiana no ar.
+Ação: Finos raios de luz dourada trespassam a escuridão, iluminando o tecido de seda que ondula suavemente em volta do frasco de perfume.
+Som: Crescendo musical rico combinando cordas orquestrais com uma pulsação de graves profundos, criando uma atmosfera opulenta e surreal.
+
+12 a 15 Segundos (O Encerramento da Marca)
+Visual: Belo plano de destaque (hero shot) do frasco de perfume perfeitamente na vertical sobre um pedestal de mármore escuro com reflexos líquidos. A tipografia "GILBERTO" brilha com clareza sob um foco quente e direcionado.
+Ação: A câmara recua lentamente enquanto uma névoa dourada subtil e elegante flutua suavemente em redor da base do frasco.
+Som: Acorde musical profundo e quente a desvanecer suavemente, deixando uma ressonância acústica suave e persistente.
 ```
 
 [↑ Voltar às categorias](#catalog)
