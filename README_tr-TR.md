@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**72** Prompt · Son eklenen: **2026-09-11**
+**73** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1494,6 +1494,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098417304887509188"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@IntexLove](https://x.com/IntexLove) · [Orijinal gönderi](https://x.com/IntexLove/status/2098417304887509188)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098417304887509188-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098426167195783286"></a>
 

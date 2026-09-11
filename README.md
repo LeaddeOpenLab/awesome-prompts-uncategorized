@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**72** Prompts · Latest addition: **2026-09-11**
+**73** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1717,6 +1717,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098417304887509188"></a>
+
+### A prompt to create a Precure-themed beach ball.
+
+Author：[@IntexLove](https://x.com/IntexLove) · [Source](https://x.com/IntexLove/status/2098417304887509188)
+
+Other · Published
+
+**Summary:** A prompt to create a Precure-themed beach ball.
+
+<img src="images/2098417304887509188-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a Precure beach ball
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098426167195783286"></a>
 
