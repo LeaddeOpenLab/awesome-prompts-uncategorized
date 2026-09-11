@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**77** Prompts · Latest addition: **2026-09-11**
+**78** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1717,6 +1717,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098486894028107840"></a>
+
+### Editing prompt to create a realistic promotional card for a rural reality show contestant from a selfie.
+
+Author：[@hojeemdia](https://x.com/hojeemdia) · [Source](https://x.com/hojeemdia/status/2098486894028107840)
+
+Portrait / Selfie · Published
+
+**Summary:** Editing prompt to create a realistic promotional card for a rural reality show contestant from a selfie.
+
+<img src="images/2098486894028107840-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Transform my selfie into a realistic contestant reveal for A Fazenda 18. Include [NAME], [CITY], catchphrase, strong point, weak point, and chance of reaching the Final. Faithfully preserve my face and natural appearance. Photo in 4:5 aspect ratio, candid pose, direct gaze, subtle rural setting, soft lighting, real skin texture, and asymmetrical editorial composition. Palette: peach beige #f2ceb0, teal #00ad9d, and orange #e98300. Minimal text, natural look, without excessive retouching, effects, invented logos, or AI-generated image appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098469621892587716"></a>
 
