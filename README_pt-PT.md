@@ -595,20 +595,38 @@ EXCLUSÕES ESPECÍFICAS: Os três tentáculos convergem sempre para a posição 
 
 <a name="prompt-2098436364849320190"></a>
 
-### Tradução em curso
+### Prompt de plano-sequência cinematográfico para um mercado noturno flutuante sob o luar, com lanternas e vendedores.
 
 Autor：[@feesyiam](https://x.com/feesyiam) · [Publicação original](https://x.com/feesyiam/status/2098436364849320190)
 
 Cena de Cinema / Fotograma · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de plano-sequência cinematográfico para um mercado noturno flutuante sob o luar, com lanternas e vendedores.
 
 <img src="covers/2098436364849320190.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+"Crie um vídeo cinematográfico e fotorrealista de 15 segundos em plano-sequência contínuo, baseado exatamente na imagem de referência de “The Floating Night Market”.
+
+Preserve a arquitetura original, as plataformas flutuantes de madeira do mercado, o design das lanternas, vendedores, clientes, barcos, oceano, montanhas, paleta de cores e a composição geral. Não redesenhe nem substitua nenhum elemento principal.
+
+0–3 segundos: Comece com um movimento de câmara lento e suave em ângulo baixo logo acima da superfície escura do oceano, aproximando-se do mercado noturno flutuante. Centenas de lanternas de papel com brilho acolhedor baloiçam suavemente na brisa noturna. Os seus reflexos dourados cintilam naturalmente sobre a água em movimento. Pequenas ondas movem-se suavemente em redor das plataformas flutuantes.
+
+3–7 segundos: A câmara sobe lentamente e avança pelo mercado, revelando uma atividade animada. Vendedores preparam comida com naturalidade em pequenas bancas de madeira, mexendo suavemente panelas fumegantes e grelhando alimentos. Um vapor fino e realista sobe na direção da luz das lanternas. Clientes caminham casualmente pelas pontes estreitas de madeira, conversando e explorando os produtos. As lanternas tremeluzem subtilmente e baloiçam com o vento.
+
+7–11 segundos: Continue o mesmo movimento ininterrupto de câmara com um arco cinematográfico suave ao redor do mercado. Pequenos barcos tradicionais passam lentamente por baixo das plataformas flutuantes. Ondulações na água espalham-se atrás deles. As bancas de comida brilham com uma luz quente alaranjada e âmbar, enquanto o luar azul e frio ilumina o oceano em redor. A enorme lua cheia permanece visível no fundo, atrás de montanhas cobertas de névoa.
+
+11–15 segundos: Recue lenta e progressivamente para cima e para trás numa revelação cinematográfica mais ampla, mostrando todo o mercado noturno flutuante cercado pelo vasto oceano. Centenas de lanternas formam um rasto luminoso sobre a água. Os reflexos estendem-se e quebram-se naturalmente com as ondas. A névoa paira suavemente em torno das montanhas distantes, enquanto o luar cria uma atmosfera mágica. Termine num belo plano geral de estabelecimento.
+
+Estilo visual: ultrafotorrealista, fantasia cinematográfica, movimento humano realista, física realista do oceano e da água, texturas de madeira detalhadas, brilho natural de lanternas, luar volumétrico, névoa atmosférica subtil, vapor realista, profundidade de campo reduzida durante planos aproximados, fotografia cinematográfica em 35mm, elevado alcance dinâmico, extremamente detalhado, escala imersiva, movimento de câmara profissional e suave.
+
+Movimento: gestos humanos naturais, movimento subtil do vento, lanternas a baloiçar suavemente, vapor fluindo, água em movimento, movimento realista de barcos, sem animação exagerada.
+
+Câmara: câmara cinematográfica suave e estabilizada, movimento lento e controlado, profundidade de campo natural, aproximação gradual → travelling para a frente → arco suave → afastamento panorâmico. Um plano contínuo sem cortes.
+
+Prompt negativo: sem mudanças de cena, sem cortes, sem jump cuts, sem trepidação de câmara, sem rostos distorcidos, sem pessoas duplicadas, sem edifícios deformados.
 ```
 
 [↑ Voltar às categorias](#catalog)

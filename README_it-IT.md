@@ -578,20 +578,38 @@ AUDIO: Pioggia battente, spostamento d'aria dei tentacoli, impatti sull'asfalto,
 
 <a name="prompt-2098436364849320190"></a>
 
-### Traduzione in corso
+### Prompt cinematografico in piano sequenza per un mercato notturno galleggiante al chiaro di luna con lanterne e venditori.
 
 Autore：[@feesyiam](https://x.com/feesyiam) · [Post originale](https://x.com/feesyiam/status/2098436364849320190)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt cinematografico in piano sequenza per un mercato notturno galleggiante al chiaro di luna con lanterne e venditori.
 
 <img src="covers/2098436364849320190.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+"Crea un video cinematografico e fotorealistico di 15 secondi in piano sequenza continuo, basato esattamente sull'immagine di riferimento de “Il mercato notturno galleggiante”.
+
+Preserva l'architettura originale, le piattaforme di legno galleggianti del mercato, il design delle lanterne, i venditori, i clienti, le barche, l'oceano, le montagne, la tavolozza dei colori e la composizione complessiva. Non riprogettare né sostituire alcun elemento principale.
+
+0–3 secondi: Inizia con un movimento di camera lento e fluido dal basso appena sopra la superficie scura dell'oceano, avvicinandoti al mercato notturno galleggiante. Centinaia di calde lanterne di carta luminose oscillano delicatamente nella brezza notturna. I loro riflessi dorati scintillano naturalmente sull'acqua in movimento. Piccole onde si muovono dolcemente intorno alle piattaforme galleggianti.
+
+3–7 secondi: La telecamera si solleva lentamente e avanza attraverso il mercato, rivelando una vivace attività. I venditori preparano il cibo con naturalezza presso piccoli banchi di legno, mescolando delicatamente pentole fumanti e grigliando pietanze. Un sottile vapore realistico sale verso la luce delle lanterne. I clienti camminano con disinvoltura su stretti ponti di legno, parlando e curiosando. Le lanterne tremolano leggermente e oscillano con il vento.
+
+7–11 secondi: Continua lo stesso movimento di camera ininterrotto con un delicato arco cinematografico attorno al mercato. Piccole imbarcazioni tradizionali passano lentamente sotto le piattaforme galleggianti. Le increspature dell'acqua si diffondono dietro di loro. Le bancarelle di cibo risplendono di una calda luce arancione e ambrata, mentre la fredda luce blu della luna illumina l'oceano circostante. L'enorme luna piena rimane visibile sullo sfondo dietro montagne nebbiose.
+
+11–15 secondi: Allontanati lentamente verso l'alto e all'indietro per una rivelazione cinematografica più ampia, mostrando l'intero mercato notturno galleggiante circondato dal vasto oceano. Centinaia di lanterne formano una scia luminosa sull'acqua. I riflessi si allungano e si infrangono naturalmente con le onde. La nebbia si sposta dolcemente attorno alle montagne lontane mentre il chiaro di luna crea un'atmosfera magica. Concludi con una splendida inquadratura di contesto in campo lungo.
+
+Stile visivo: ultra-fotorealistico, fantasy cinematografico, movimento umano realistico, fisica realistica dell'oceano e dell'acqua, trame del legno dettagliate, bagliore naturale delle lanterne, luce lunare volumetrica, sottile nebbia atmosferica, vapore realistico, profondità di campo ridotta durante i primi piani, fotografia cinematografica a 35 mm, elevata gamma dinamica, estremamente dettagliato, scala immersiva, movimento di camera fluido e professionale.
+
+Movimento: gesti umani naturali, sottile movimento del vento, lanterne che oscillano delicatamente, vapore fluente, acqua in movimento, movimento realistico delle barche, nessuna animazione esagerata.
+
+Telecamera: telecamera cinematografica stabilizzata e fluida, movimento lento e controllato, profondità di campo naturale, avanzamento graduale → carrellata in avanti → arco delicato → allontanamento ampio. Un'unica ripresa continua senza stacchi.
+
+Prompt negativo: nessun cambio di scena, nessun taglio, nessun jump cut, nessun tremolio della telecamera, nessun volto distorto, nessuna persona duplicata, nessun edificio deformato.
 ```
 
 [↑ Torna alle categorie](#catalog)

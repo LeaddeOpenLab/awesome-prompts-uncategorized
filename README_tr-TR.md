@@ -595,20 +595,38 @@ SES: Şiddetli yağmur, dokunaçların hava yarması, asfalt darbeleri, kırıla
 
 <a name="prompt-2098436364849320190"></a>
 
-### Çeviri sürüyor
+### Fenerler ve satıcılarla ay ışığı altındaki yüzen gece pazarı için sinematik tek çekim \(continuous-shot\) istemi.
 
 Yazar：[@feesyiam](https://x.com/feesyiam) · [Orijinal gönderi](https://x.com/feesyiam/status/2098436364849320190)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fenerler ve satıcılarla ay ışığı altındaki yüzen gece pazarı için sinematik tek çekim \(continuous-shot\) istemi.
 
 <img src="covers/2098436364849320190.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+"“The Floating Night Market” referans görseline birebir dayanan 15 saniyelik, sinematik, fotogerçekçi ve tek çekim (continuous-shot) bir video oluşturun.
+
+Orijinal mimariyi, yüzen ahşap pazar platformlarını, fener tasarımlarını, satıcıları, müşterileri, tekneleri, okyanusu, dağları, renk paletini ve genel kompozisyonu koruyun. Hiçbir ana unsuru yeniden tasarlamayın veya değiştirmeyin.
+
+0–3 saniye: Karanlık okyanus yüzeyinin hemen üzerinde, yüzen gece pazarına yaklaşan yavaş, akıcı ve düşük açılı bir kamera hareketiyle başlayın. Sıcak bir ışıltı saçan yüzlerce kâğıt fener gece esintisinde hafifçe sallanır. Fenerlerin altın rengi yansımaları hareketli su üzerinde doğal bir şekilde parıldar. Küçük dalgalar yüzen platformların etrafında yumuşakça hareket eder.
+
+3–7 saniye: Kamera yavaşça yükselir ve pazarın içinden ileriye doğru hareket ederek canlı bir hareketliliği gözler önüne serer. Satıcılar, küçük ahşap tezgâhlarda tüten tencereleri hafifçe karıştırarak ve yiyecekleri ızgarada pişirerek doğal bir şekilde yemek hazırlar. İnce, gerçekçi buhar fener ışığına doğru yükselir. Müşteriler dar ahşap köprülerde rahatça yürür, sohbet eder ve etrafa bakınır. Fenerler ince bir şekilde titrer ve rüzgârla salınır.
+
+7–11 saniye: Pazarın etrafında yumuşak, sinematik bir kavis çizen aynı kesintisiz kamera hareketine devam edin. Küçük geleneksel tekneler yüzen platformların altından yavaşça geçer. Arkalarında su dalgacıkları yayılır. Yiyecek tezgâhları sıcak turuncu ve kehribar ışığıyla parlarken, soğuk mavi ay ışığı çevreleyen okyanusu aydınlatır. Devasa dolunay, sisli dağların arkasında arka planda görünmeye devam eder.
+
+11–15 saniye: Uçsuz bucaksız okyanusla çevrili tüm yüzen gece pazarını gösteren daha geniş, sinematik bir açılışla yavaşça yukarı ve geriye doğru çekilin. Yüzlerce fener suyun üzerinde ışıldayan bir hat oluşturur. Yansımalar dalgalarla birlikte doğal olarak uzanır ve kırılır. Ay ışığı büyülü bir atmosfer yaratırken, sis uzaktaki dağların etrafında hafifçe süzülür. Güzel ve geniş bir tanıtıcı planla sonlandırın.
+
+Görsel stil: ultra fotogerçekçi, sinematik fantezi, gerçekçi insan hareketi, gerçekçi okyanus ve su fiziği, ayrıntılı ahşap dokuları, doğal fener ışıltısı, hacimsel ay ışığı, ince atmosferik sis, gerçekçi buhar, yakın çekimlerde sığ alan derinliği, 35mm sinematik fotoğrafçılık, yüksek dinamik aralık, son derece ayrıntılı, sürükleyici ölçek, akıcı profesyonel kamera hareketi.
+
+Hareket: doğal insan jestleri, hafif rüzgâr hareketi, usulca sallanan fenerler, süzülen buhar, hareketli su, gerçekçi tekne hareketi, abartılı animasyon yok.
+
+Kamera: akıcı, sarsıntısız sinematik kamera, yavaş kontrollü hareket, doğal alan derinliği, kademeli ileri yaklaşma → ileri takip → yumuşak kavis → geniş geriye çekilme. Kesintisiz tek plan çekim.
+
+Negatif istem: sahne değişimi yok, kesme yok, jump cut yok, kamera sarsıntısı yok, bozuk yüzler yok, yinelenen insanlar yok, biçimi bozulmuş binalar yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

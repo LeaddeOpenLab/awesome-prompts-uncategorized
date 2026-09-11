@@ -578,20 +578,38 @@ AUDIO: Lluvia intensa, desplazamiento de tentáculos, impactos en el asfalto, vi
 
 <a name="prompt-2098436364849320190"></a>
 
-### Traducción en curso
+### Prompt cinemático de toma continua para un mercado nocturno flotante bajo la luz de la luna con faroles y vendedores.
 
 Autor：[@feesyiam](https://x.com/feesyiam) · [Publicación original](https://x.com/feesyiam/status/2098436364849320190)
 
 Cine / Fotograma · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt cinemático de toma continua para un mercado nocturno flotante bajo la luz de la luna con faroles y vendedores.
 
 <img src="covers/2098436364849320190.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+"Crea un video cinemático y fotorrealista de 15 segundos en toma continua basado exactamente en la imagen de referencia de “El mercado nocturno flotante”.
+
+Conserva la arquitectura original, las plataformas flotantes de madera del mercado, los diseños de los faroles, los vendedores, los clientes, los botes, el océano, las montañas, la paleta de colores y la composición general. No rediseñes ni reemplaces ningún elemento importante.
+
+0–3 segundos: Comienza con un movimiento de cámara lento y suave en ángulo bajo justo por encima de la oscura superficie del océano, acercándose al mercado nocturno flotante. Cientos de cálidos faroles de papel brillantes se mecen suavemente con la brisa nocturna. Sus reflejos dorados brillan naturalmente a través del agua en movimiento. Pequeñas olas se mueven suavemente alrededor de las plataformas flotantes.
+
+3–7 segundos: La cámara se eleva lentamente y avanza a través del mercado, revelando una actividad animada. Los vendedores preparan comida de forma natural en pequeños puestos de madera, revolviendo suavemente ollas humeantes y asando comida a la parrilla. Un fino y realista vapor se eleva hacia la luz de los faroles. Los clientes caminan de manera informal a través de estrechos puentes de madera, conversando y mirando los puestos. Los faroles titilan sutilmente y se balancean con el viento.
+
+7–11 segundos: Continúa el mismo movimiento de cámara ininterrumpido con un suave arco cinemático alrededor del mercado. Pequeños botes tradicionales pasan lentamente por debajo de las plataformas flotantes. Las ondas del agua se extienden detrás de ellos. Los puestos de comida brillan con una cálida luz naranja y ámbar, mientras que la fría luz azul de la luna ilumina el océano circundante. La enorme luna llena permanece visible en el fondo, detrás de montañas brumosas.
+
+11–15 segundos: Retrocede y elévate lentamente hacia un plano revelador cinemático más amplio, mostrando todo el mercado nocturno flotante rodeado por el vasto océano. Cientos de faroles forman un sendero brillante sobre el agua. Los reflejos se estiran y se rompen de forma natural con las olas. La niebla se desplaza suavemente alrededor de las montañas distantes mientras la luz de la luna crea una atmósfera mágica. Termina en un hermoso plano general de establecimiento.
+
+Estilo visual: ultrafotorrealista, fantasía cinemática, movimiento humano realista, física realista del océano y del agua, texturas de madera detalladas, resplandor natural de faroles, luz de luna volumétrica, niebla atmosférica sutil, vapor realista, profundidad de campo reducida durante tomas cercanas, fotografía cinemática de 35 mm, alto rango dinámico, extremadamente detallado, escala inmersiva, movimiento de cámara profesional y suave.
+
+Movimiento: gestos humanos naturales, movimiento sutil del viento, faroles balanceándose suavemente, vapor fluyendo, agua en movimiento, movimiento realista de los botes, sin animación exagerada.
+
+Cámara: cámara cinemática suave y estabilizada, movimiento lento y controlado, profundidad de campo natural, avance gradual hacia adelante → seguimiento frontal → arco suave → retroceso amplio. Una toma continua sin cortes.
+
+Prompt negativo: sin cambios de escena, sin cortes, sin cortes de salto, sin vibración de cámara, sin rostros distorsionados, sin personas duplicadas, sin edificios deformados.
 ```
 
 [↑ Volver a categorías](#catalog)

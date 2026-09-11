@@ -578,20 +578,38 @@ AUDIO: Starker Regen, Tentakelverdrängung, Asphalteinschläge, splitterndes Gla
 
 <a name="prompt-2098436364849320190"></a>
 
-### Übersetzung läuft
+### Filmisches Plansequenz-Prompt für einen schwimmenden Nachtmarkt im Mondlicht mit Laternen und Händlern.
 
 Autor：[@feesyiam](https://x.com/feesyiam) · [Originalbeitrag](https://x.com/feesyiam/status/2098436364849320190)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmisches Plansequenz-Prompt für einen schwimmenden Nachtmarkt im Mondlicht mit Laternen und Händlern.
 
 <img src="covers/2098436364849320190.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+"Erstelle ein 15-sekündiges, filmisches, fotorealistisches Plansequenz-Video, das exakt auf dem Referenzbild von „Der schwimmende Nachtmarkt“ basiert.
+
+Behalte die ursprüngliche Architektur, die schwimmenden Holzplattformen des Marktes, die Laternendesigns, die Händler, Kunden, Boote, das Meer, die Berge, die Farbpalette und die Gesamtkomposition bei. Keine wesentlichen Elemente umgestalten oder ersetzen.
+
+0–3 Sekunden: Beginne mit einer langsamen, sanften Kamerabewegung aus der Froschperspektive knapp über der dunklen Meeresoberfläche und nähere dich dem schwimmenden Nachtmarkt. Hunderte warm leuchtende Papierlaternen wiegen sich sanft in der Nachtbrise. Ihre goldenen Reflexionen schimmern natürlich auf dem bewegten Wasser. Kleine Wellen umspülen sanft die schwimmenden Plattformen.
+
+3–7 Sekunden: Die Kamera steigt langsam auf und bewegt sich vorwärts durch den Markt, wodurch ein lebendiges Treiben sichtbar wird. Händler bereiten an kleinen Holzständen ganz natürlich Speisen zu, rühren behutsam in dampfenden Töpfen und grillen Speisen. Feiner, realistischer Dampf steigt in das Laternenlicht auf. Kunden gehen gelassen über schmale Holzbrücken, unterhalten sich und schauen sich um. Laternen flackern subtil und wiegen sich im Wind.
+
+7–11 Sekunden: Setze dieselbe ununterbrochene Kamerabewegung mit einem sanften, filmischen Bogen um den Markt fort. Kleine traditionelle Boote fahren langsam unter den schwimmenden Plattformen hindurch. Wellen breiten sich hinter ihnen im Wasser aus. Essensstände leuchten in warmem Orange- und Bernsteinton, während das kühle blaue Mondlicht das umgebende Meer erhellt. Der riesige Vollmond bleibt im Hintergrund hinter nebligen Bergen sichtbar.
+
+11–15 Sekunden: Ziehe die Kamera langsam nach oben und hinten zurück zu einer weiteren filmischen Enthüllung, die den gesamten schwimmenden Nachtmarkt inmitten des weiten Ozeans zeigt. Hunderte Laternen bilden eine leuchtende Spur über dem Wasser. Reflexionen dehnen sich und brechen natürlich mit den Wellen. Nebel zieht sanft um die fernen Berge, während das Mondlicht eine magische Atmosphäre schafft. Ende mit einer wunderschönen, weiten Totale.
+
+Visueller Stil: ultra-fotorealistisch, filmische Fantasy, realistische menschliche Bewegungen, realistische Ozean- und Wasserphysik, detaillierte Holztexturen, natürlicher Laternenschein, volumetrisches Mondlicht, subtiler atmosphärischer Nebel, realistischer Dampf, geringe Schärfentiefe bei Nahaufnahmen, filmische 35mm-Fotografie, hoher Dynamikumfang, extrem detailliert, immersive Dimension, sanfte professionelle Kamerabewegung.
+
+Bewegung: natürliche menschliche Gesten, subtile Windbewegung, sanft wiegende Laternen, fließender Dampf, bewegtes Wasser, realistische Bootsbewegung, keine übertriebenen Animationen.
+
+Kamera: sanfte, stabilisierte Kinokamera, langsame kontrollierte Bewegung, natürliche Schärfentiefe, schrittweises Heranfahren → Vorwärts-Tracking → sanfter Bogen → weites Zurückziehen. Eine einzige kontinuierliche Plansequenz ohne Schnitte.
+
+Negativ-Prompt: keine Szenenwechsel, keine Schnitte, keine Jump Cuts, kein Kamerawackeln, keine verzerrten Gesichter, keine duplizierten Personen, keine verzerrten Gebäude.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

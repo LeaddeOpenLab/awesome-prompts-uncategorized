@@ -601,20 +601,38 @@ CÁC LOẠI TRỪ CỤ THỂ: Ba xúc tu luôn hội tụ vào vị trí cơ th�
 
 <a name="prompt-2098436364849320190"></a>
 
-### Đang dịch
+### Lời nhắc tạo video one-shot đậm chất điện ảnh cho chợ đêm nổi dưới ánh trăng với đèn lồng và người bán hàng.
 
 Tác giả：[@feesyiam](https://x.com/feesyiam) · [Bài gốc](https://x.com/feesyiam/status/2098436364849320190)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo video one-shot đậm chất điện ảnh cho chợ đêm nổi dưới ánh trăng với đèn lồng và người bán hàng.
 
 <img src="covers/2098436364849320190.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+"Tạo video one-shot (cú máy quay liên tục) 15 giây đậm chất điện ảnh, chân thực như ảnh chụp dựa chính xác trên hình ảnh tham chiếu của “The Floating Night Market”.
+
+Giữ nguyên kiến trúc gốc, các sàn chợ nổi bằng gỗ, thiết kế đèn lồng, người bán hàng, khách hàng, thuyền bè, đại dương, núi non, bảng màu và bố cục tổng thể. Không thiết kế lại hoặc thay thế bất kỳ yếu tố chính nào.
+
+0–3 giây: Bắt đầu bằng chuyển động máy quay góc thấp chậm rãi, mượt mà ngay trên mặt biển tối, tiến lại gần chợ đêm nổi. Hàng trăm chiếc đèn lồng giấy phát sáng ấm áp đung đưa nhẹ nhàng trong gió đêm. Ánh sáng vàng phản chiếu lung linh một cách tự nhiên trên mặt nước chuyển động. Những con sóng nhỏ nhẹ nhàng vỗ quanh các sàn nổi.
+
+3–7 giây: Máy quay từ từ nâng lên và tiến về phía trước xuyên qua khu chợ, hé lộ khung cảnh sinh hoạt nhộn nhịp. Những người bán hàng chuẩn bị đồ ăn một cách tự nhiên tại các quầy gỗ nhỏ, nhẹ nhàng khuấy các nồi bốc khói và nướng thức ăn. Làn hơi nước mỏng chân thực bốc lên hòa vào ánh sáng đèn lồng. Khách hàng thong thả bước qua những cây cầu gỗ hẹp, vừa trò chuyện vừa xem hàng. Đèn lồng nhấp nháy tinh tế và đung đưa theo gió.
+
+7–11 giây: Tiếp tục chuyển động máy quay liền mạch đó với một đường vòng cung điện ảnh nhẹ nhàng quanh khu chợ. Những chiếc thuyền truyền thống nhỏ từ từ lướt bên dưới các sàn nổi. Những gợn sóng nước lan rộng phía sau thuyền. Các quầy hàng ẩm thực rực sáng với ánh đèn màu cam và hổ phách ấm áp trong khi ánh trăng xanh mát mẻ chiếu sáng vùng đại dương xung quanh. Vầng trăng tròn khổng lồ vẫn hiện rõ ở hậu cảnh phía sau những ngọn núi mờ sương.
+
+11–15 giây: Từ từ nâng lên cao và lùi lại phía sau để mở ra một góc nhìn điện ảnh rộng hơn, hiển thị toàn bộ khu chợ đêm nổi được bao bọc bởi đại dương bao la. Hàng trăm chiếc đèn lồng tạo thành một vệt sáng rực rỡ trải dài trên mặt nước. Ánh phản chiếu kéo dài và vỡ ra tự nhiên theo từng đợt sóng. Sương mù nhẹ nhàng trôi quanh những ngọn núi phía xa khi ánh trăng tạo nên một bầu không khí huyền ảo. Kết thúc bằng một cảnh quay toàn cảnh thiết lập tuyệt đẹp.
+
+Phong cách hình ảnh: cực kỳ chân thực (ultra-photorealistic), kỳ ảo đậm chất điện ảnh, chuyển động của con người chân thực, cơ học vật lý của đại dương và mặt nước chân thực, vân gỗ chi tiết, ánh sáng đèn lồng tự nhiên, ánh trăng thể tích (volumetric moonlight), sương mù khí quyển tinh tế, hơi nước chân thực, độ sâu trường ảnh nông trong các cảnh quay cận cảnh, phong cách nhiếp ảnh điện ảnh 35mm, dải tương phản động cao (HDR), cực kỳ chi tiết, quy mô choáng ngợp và sống động, chuyển động máy quay mượt mà chuyên nghiệp.
+
+Chuyển động: cử chỉ con người tự nhiên, chuyển động của gió tinh tế, đèn lồng đung đưa nhẹ nhàng, hơi nước uốn lượn, nước chuyển động, thuyền chuyển động chân thực, không có hoạt ảnh phóng đại.
+
+Máy quay: máy quay điện ảnh chống rung mượt mà, chuyển động chậm và được kiểm soát, độ sâu trường ảnh tự nhiên, đẩy dần vào (push-in) → trượt tiến (forward tracking) → lượn vòng cung nhẹ → lùi lại góc rộng. Một cú máy duy nhất không cắt cảnh.
+
+Lời nhắc phủ định (Negative prompt): không đổi cảnh, không cắt cảnh, không cắt nhảy (jump cut), không rung máy, không méo mặt, không trùng lặp người, không biến dạng công trình.
 ```
 
 [↑ Về danh mục](#catalog)

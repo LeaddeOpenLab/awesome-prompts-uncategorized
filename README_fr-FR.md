@@ -578,20 +578,38 @@ AUDIO : Pluie battante, déplacement d'air des tentacules, impacts sur l'asphalt
 
 <a name="prompt-2098436364849320190"></a>
 
-### Traduction en cours
+### Prompt cinématographique en plan-séquence pour un marché de nuit flottant au clair de lune avec lanternes et vendeurs.
 
 Auteur：[@feesyiam](https://x.com/feesyiam) · [Publication originale](https://x.com/feesyiam/status/2098436364849320190)
 
 Image cinématographique / Photogramme de film · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt cinématographique en plan-séquence pour un marché de nuit flottant au clair de lune avec lanternes et vendeurs.
 
 <img src="covers/2098436364849320190.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+"Créez une vidéo cinématographique et photoréaliste de 15 secondes en plan-séquence continu, basée exactement sur l'image de référence du « Marché de nuit flottant ».
+
+Préservez l'architecture d'origine, les plates-formes flottantes en bois du marché, les motifs des lanternes, les vendeurs, les clients, les bateaux, l'océan, les montagnes, la palette de couleurs et la composition générale. Ne redessinez ni ne remplacez aucun élément majeur.
+
+0 à 3 secondes : Commencez par un mouvement de caméra lent et fluide en contre-plongée, juste au-dessus de la surface sombre de l'océan, en vous approchant du marché de nuit flottant. Des centaines de lanternes en papier aux lueurs chaleureuses se balancent doucement dans la brise nocturne. Leurs reflets dorés scintillent naturellement sur l'eau en mouvement. De petites vagues se déplacent doucement autour des plates-formes flottantes.
+
+3 à 7 secondes : La caméra s'élève lentement et avance à travers le marché, révélant une animation vivante. Les vendeurs préparent naturellement de la nourriture sur de petits étals en bois, remuant doucement des marmites fumantes et faisant griller des aliments. Une fine vapeur réaliste s'élève dans la lumière des lanternes. Les clients marchent tranquillement sur d'étroits ponts en bois, discutant et flânant. Les lanternes vacillent subtilement et se balancent avec le vent.
+
+7 à 11 secondes : Poursuivez le même mouvement de caméra ininterrompu avec un arc cinématographique doux autour du marché. De petites embarcations traditionnelles passent lentement sous les plates-formes flottantes. Des ondulations d'eau se propagent derrière elles. Les étals de nourriture brillent d'une chaude lumière orange et ambrée, tandis que le clair de lune bleu et frais illumine l'océan environnant. La grande pleine lune reste visible à l'arrière-plan, derrière des montagnes embrumées.
+
+11 à 15 secondes : Reculez lentement vers le haut et l'arrière pour un plan cinématographique d'ensemble plus large, montrant l'ensemble du marché de nuit flottant entouré par le vaste océan. Des centaines de lanternes forment un sillage lumineux sur l'eau. Les reflets s'étirent et se brisent naturellement au gré des vagues. La brume dérive doucement autour des montagnes lointaines tandis que le clair de lune crée une atmosphère magique. Terminez sur un magnifique plan large d'exposition.
+
+Style visuel : ultra-photoréaliste, fantaisie cinématographique, mouvements humains réalistes, physique réaliste de l'océan et de l'eau, textures de bois détaillées, éclat naturel des lanternes, clair de lune volumétrique, brume atmosphérique subtile, vapeur réaliste, faible profondeur de champ lors des plans rapprochés, photographie cinématographique 35 mm, plage dynamique élevée, détails extrêmes, échelle immersive, mouvement de caméra professionnel et fluide.
+
+Mouvement : gestes humains naturels, mouvement subtil du vent, lanternes se balançant doucement, vapeur fluide, eau en mouvement, mouvement réaliste des bateaux, aucune animation exagérée.
+
+Caméra : caméra cinématographique stabilisée et fluide, mouvement lent et contrôlé, profondeur de champ naturelle, travelling avant progressif → suivi vers l'avant → arc doux → recul large. Un plan continu sans coupes.
+
+Prompt négatif : aucun changement de scène, aucune coupe, aucun faux raccord, aucun tremblement de caméra, aucun visage déformé, aucune personne dupliquée, aucun bâtiment déformé.
 ```
 
 [↑ Retour aux catégories](#catalog)

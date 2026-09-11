@@ -601,20 +601,38 @@ AUDIO: Lluvia intensa, desplazamiento de tentáculos, impactos en el asfalto, cr
 
 <a name="prompt-2098436364849320190"></a>
 
-### Traducción en curso
+### Prompt para plano secuencia cinemático de un mercado nocturno flotante bajo la luz de la luna con farolillos y vendedores.
 
 Autor：[@feesyiam](https://x.com/feesyiam) · [Publicación original](https://x.com/feesyiam/status/2098436364849320190)
 
 Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para plano secuencia cinemático de un mercado nocturno flotante bajo la luz de la luna con farolillos y vendedores.
 
 <img src="covers/2098436364849320190.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+"Crea un video cinemático y fotorrealista de 15 segundos en plano secuencia continuo, basado exactamente en la imagen de referencia de «The Floating Night Market».
+
+Conserva la arquitectura original, las plataformas flotantes de madera del mercado, los diseños de los farolillos, los vendedores, los clientes, los botes, el océano, las montañas, la paleta de colores y la composición general. No rediseñes ni reemplaces ningún elemento principal.
+
+0–3 segundos: Comienza con un movimiento de cámara lento, suave y en ángulo bajo justo por encima de la superficie del océano oscuro, acercándose al mercado nocturno flotante. Cientos de farolillos de papel que emiten un brillo cálido se mecen suavemente con la brisa nocturna. Sus reflejos dorados brillan de manera natural sobre el agua en movimiento. Pequeñas olas se mueven suavemente alrededor de las plataformas flotantes.
+
+3–7 segundos: La cámara se eleva lentamente y avanza a través del mercado, revelando una animada actividad. Los vendedores preparan comida de forma natural en pequeños puestos de madera, revolviendo suavemente ollas humeantes y asando comida a la parrilla. Un vapor fino y realista se eleva hacia la luz de los farolillos. Los clientes caminan tranquilamente por estrechos puentes de madera, conversando y mirando los puestos. Los farolillos parpadean sutilmente y se balancean con el viento.
+
+7–11 segundos: Continúa el mismo movimiento ininterrumpido de cámara con un suave arco cinemático alrededor del mercado. Pequeños botes tradicionales pasan lentamente por debajo de las plataformas flotantes. Las ondas en el agua se extienden tras ellos. Los puestos de comida brillan con una cálida luz naranja y ámbar mientras la fría luz azul de la luna ilumina el océano circundante. La enorme luna llena permanece visible en el fondo, tras las montañas brumosas.
+
+11–15 segundos: Retrocede y elévate lentamente hacia una revelación cinemática más amplia, mostrando todo el mercado nocturno flotante rodeado por el vasto océano. Cientos de farolillos forman un rastro resplandeciente sobre el agua. Los reflejos se extienden y se quiebran de forma natural con las olas. La niebla flota suavemente alrededor de las montañas distantes mientras la luz de la luna crea una atmósfera mágica. Termina con un hermoso plano general de establecimiento (establishing shot).
+
+Estilo visual: ultrafotorrealista, fantasía cinemática, movimiento humano realista, física realista del océano y del agua, texturas de madera detalladas, brillo natural de los farolillos, luz lunar volumétrica, niebla atmosférica sutil, vapor realista, profundidad de campo reducida durante las tomas cercanas, fotografía cinemática de 35 mm, alto rango dinámico, extremadamente detallado, escala inmersiva, movimiento de cámara profesional y suave.
+
+Movimiento: gestos humanos naturales, movimiento sutil del viento, farolillos balanceándose suavemente, vapor fluyendo, agua en movimiento, movimiento realista de los botes, sin animación exagerada.
+
+Cámara: cámara cinemática estabilizada y suave, movimiento lento y controlado, profundidad de campo natural, push-in gradual → travelling hacia adelante → arco suave → retroceso amplio (pull-back). Una sola toma continua sin cortes.
+
+Prompt negativo: sin cambios de escena, sin cortes, sin jump cuts, sin temblor de cámara, sin rostros distorsionados, sin personas duplicadas, sin edificios deformados.
 ```
 
 [↑ Volver a categorías](#catalog)
