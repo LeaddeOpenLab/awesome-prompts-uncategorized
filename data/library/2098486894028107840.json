@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:19:27.920Z",
+  "model": "unknown-image",
+  "prompt": "Transforme minha selfie em uma divulgação realista de participante de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e chance de chegar à Final. Preserve fielmente meu rosto e minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura real de pele e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logotipos inventados ou aparência de imagem gerada por IA.",
+  "promptTranslations": {
+    "en": "Transform my selfie into a realistic contestant reveal for A Fazenda 18. Include [NAME], [CITY], catchphrase, strong point, weak point, and chance of reaching the Final. Faithfully preserve my face and natural appearance. Photo in 4:5 aspect ratio, candid pose, direct gaze, subtle rural setting, soft lighting, real skin texture, and asymmetrical editorial composition. Palette: peach beige #f2ceb0, teal #00ad9d, and orange #e98300. Minimal text, natural look, without excessive retouching, effects, invented logos, or AI-generated image appearance."
+  },
+  "summaryTranslations": {
+    "en": "Editing prompt to create a realistic promotional card for a rural reality show contestant from a selfie."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt de edição para criar card promocional realista de participante de reality show rural a partir de selfie.",
+  "summaryEn": "Editing prompt to create a realistic rural reality show contestant promotional card from a selfie.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098486894028107840",
+    "canonicalUrl": "https://x.com/hojeemdia/status/2098486894028107840",
+    "author": {
+      "username": "hojeemdia",
+      "displayName": "Hoje em Dia",
+      "profileUrl": "https://x.com/hojeemdia"
+    },
+    "publishedAt": "2026-09-11T19:00:38.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "pt",
+    "originalText": "Quem já imaginou Renata Alves em #AFazenda? 👀🐄 Comida boa é lógico que ia ter, mas será que ela encararia a rotina do campo, os animais e as tretas do cercado? 😂\n\nSerá que a Renata teria coragem de trocar o #HojeEmDia pelo reality mais rural do Brasil? 🌾🔥\n\nPois, o seu momento chegou! ✨🤩 Use o prompt abaixo e poste o seu perfil usando a tag #MeuPerfilNaFazenda\n\nPROMPT ⬇️⁣\n⁣\nTransforme minha selfie em uma divulgação realista de participante de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e chance de chegar à Final. Preserve fielmente meu rosto e minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura real de pele e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logotipos inventados ou aparência de imagem gerada por IA.⁣\n\n#AFazendaVemAí",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR9SkfybUAA_q7Z.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR9SkfybUAA_q7Z.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 197
+    },
+    "matchedRuleIds": [
+      "custom:pt:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/hojeemdia/status/2098486894028107840",
+  "coverUrl": "https://pbs.twimg.com/media/HR9SkfybUAA_q7Z.jpg",
+  "coverPath": "images/2098486894028107840-1.jpg",
+  "imagePaths": [
+    "images/2098486894028107840-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR9SkfybUAA_q7Z",
+    "x-post:2098486894028107840"
+  ],
+  "analysis": {
+    "summary": "Prompt de edição para criar card promocional realista de participante de reality show rural a partir de selfie.",
+    "summaryEn": "Editing prompt to create a realistic rural reality show contestant promotional card from a selfie.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展示了符合提示词所描述的《A Fazenda 18》风格个人宣传海报，包含指定排版、信息字段、色彩调色板与自然乡村背景。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Transforme minha selfie em uma divulgação realista de participante de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e chance de chegar à Final. Preserve fielmente meu rosto e minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura real de pele e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logotipos inventados ou aparência de imagem gerada por IA.",
+    "sourceRange": {
+      "start": 376,
+      "end": 934
+    },
+    "translations": {
+      "zh": "将我的自拍转化为《农场18》参赛者的写实宣传照。包含[姓名]、[城市]、口头禅、优势、劣势以及晋级决赛的概率。忠实保留我的面部特征和自然外观。4:5比例照片，自然抓拍姿态，直视镜头，低调乡村背景，柔光，真实皮肤质感及不对称编辑排版。调色板：桃米色 #f2ceb0、水绿色 #00ad9d 和橙色 #e98300。少量文字，自然质感，无过度修图、特效、虚构标志或明显AI感。",
+      "en": "Turn my selfie into a realistic contestant reveal card for A Fazenda 18. Include [NAME], [CITY], catchphrase, strength, weakness, and chance of reaching the Final. Faithfully preserve my face and natural look. 4:5 photo format, spontaneous pose, direct gaze, discreet rural background, soft lighting, real skin texture, and asymmetric editorial layout. Palette: peach beige #f2ceb0, aqua green #00ad9d, and orange #e98300. Minimal text, natural look, no excessive retouching, effects, fake logos, or AI-generated appearance."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "宣传卡片制作与人像风格迁移",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "A Fazenda (IP/节目商标)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
