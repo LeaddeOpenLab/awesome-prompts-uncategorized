@@ -1232,20 +1232,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098381038527365331"></a>
 
-### Đang dịch
+### Tạo các mẫu rập cần thiết để lắp ráp một con diều hình vẹt đuôi dài trong một hình ảnh duy nhất.
 
 Tác giả：[@googleespanol](https://x.com/googleespanol) · [Bài gốc](https://x.com/googleespanol/status/2098381038527365331)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo các mẫu rập cần thiết để lắp ráp một con diều hình vẹt đuôi dài trong một hình ảnh duy nhất.
 
 <img src="covers/2098381038527365331.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo các mẫu rập cần thiết để lắp ráp một con diều hình vẹt đuôi dài trong cùng một hình ảnh
 ```
 
 [↑ Về danh mục](#catalog)

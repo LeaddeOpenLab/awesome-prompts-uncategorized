@@ -1208,20 +1208,20 @@ Tradução em andamento
 
 <a name="prompt-2098381038527365331"></a>
 
-### Tradução em andamento
+### Crie os moldes necessários para montar uma pipa em formato de arara em uma única imagem.
 
 Autor：[@googleespanol](https://x.com/googleespanol) · [Publicação original](https://x.com/googleespanol/status/2098381038527365331)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie os moldes necessários para montar uma pipa em formato de arara em uma única imagem.
 
 <img src="covers/2098381038527365331.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie os moldes necessários para montar a pipa em formato de arara em uma única imagem
 ```
 
 [↑ Voltar às categorias](#catalog)

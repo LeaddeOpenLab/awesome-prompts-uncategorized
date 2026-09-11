@@ -1208,20 +1208,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098381038527365331"></a>
 
-### Çeviri sürüyor
+### Ara papağanı şeklinde bir uçurtmayı monte etmek için gerekli kalıpları tek bir görselde oluşturun.
 
 Yazar：[@googleespanol](https://x.com/googleespanol) · [Orijinal gönderi](https://x.com/googleespanol/status/2098381038527365331)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ara papağanı şeklinde bir uçurtmayı monte etmek için gerekli kalıpları tek bir görselde oluşturun.
 
 <img src="covers/2098381038527365331.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ara papağanı şeklindeki uçurtmayı monte etmek için gerekli olan tüm kalıpları tek bir görselde oluşturun
 ```
 
 [↑ Kategorilere dön](#catalog)

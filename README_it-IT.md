@@ -1208,20 +1208,20 @@ Traduzione in corso
 
 <a name="prompt-2098381038527365331"></a>
 
-### Traduzione in corso
+### Crea i modelli necessari per assemblare un aquilone a forma di ara in una sola immagine.
 
 Autore：[@googleespanol](https://x.com/googleespanol) · [Post originale](https://x.com/googleespanol/status/2098381038527365331)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea i modelli necessari per assemblare un aquilone a forma di ara in una sola immagine.
 
 <img src="covers/2098381038527365331.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea i modelli necessari per assemblare l'aquilone a forma di ara in una singola immagine
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -1208,20 +1208,20 @@ Traduction en cours
 
 <a name="prompt-2098381038527365331"></a>
 
-### Traduction en cours
+### Crée les patrons nécessaires pour assembler un cerf-volant en forme de ara en une seule image.
 
 Auteur：[@googleespanol](https://x.com/googleespanol) · [Publication originale](https://x.com/googleespanol/status/2098381038527365331)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Crée les patrons nécessaires pour assembler un cerf-volant en forme de ara en une seule image.
 
 <img src="covers/2098381038527365331.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Crée les patrons nécessaires pour assembler le cerf-volant en forme de ara sur une seule et même image
 ```
 
 [↑ Retour aux catégories](#catalog)

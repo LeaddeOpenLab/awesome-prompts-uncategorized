@@ -1232,20 +1232,20 @@ Traducción en curso
 
 <a name="prompt-2098381038527365331"></a>
 
-### Traducción en curso
+### Crea los moldes necesarios para armar una cometa con forma de guacamaya en una sola imagen.
 
 Autor：[@googleespanol](https://x.com/googleespanol) · [Publicación original](https://x.com/googleespanol/status/2098381038527365331)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea los moldes necesarios para armar una cometa con forma de guacamaya en una sola imagen.
 
 <img src="covers/2098381038527365331.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea los moldes necesarios para armar la cometa con forma de guacamaya en una misma imagen
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -1208,20 +1208,20 @@ Tradução em curso
 
 <a name="prompt-2098381038527365331"></a>
 
-### Tradução em curso
+### Cria os moldes necessários para montar um papagaio de papel em forma de arara numa só imagem.
 
 Autor：[@googleespanol](https://x.com/googleespanol) · [Publicação original](https://x.com/googleespanol/status/2098381038527365331)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cria os moldes necessários para montar um papagaio de papel em forma de arara numa só imagem.
 
 <img src="covers/2098381038527365331.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Cria os moldes necessários para montar o papagaio de papel em forma de arara numa mesma imagem
 ```
 
 [↑ Voltar às categorias](#catalog)

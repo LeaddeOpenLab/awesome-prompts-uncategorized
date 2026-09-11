@@ -1208,20 +1208,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098381038527365331"></a>
 
-### Übersetzung läuft
+### Erstelle die notwendigen Schablonen zum Bau eines ara-förmigen Drachens in einem einzigen Bild.
 
 Autor：[@googleespanol](https://x.com/googleespanol) · [Originalbeitrag](https://x.com/googleespanol/status/2098381038527365331)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle die notwendigen Schablonen zum Bau eines ara-förmigen Drachens in einem einzigen Bild.
 
 <img src="covers/2098381038527365331.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle alle Schablonen, die zum Bauen eines Drachens in Form eines Aras benötigt werden, in einem einzigen Bild
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
