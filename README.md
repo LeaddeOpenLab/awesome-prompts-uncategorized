@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**50** Prompts · Latest addition: **2026-09-11**
+**51** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1384,6 +1384,42 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098298423384645737"></a>
+
+### 15-second realistic outdoor smartphone vlog prompt beside a pond showing colorful fish during golden hour.
+
+Author：[@MrDasOnX](https://x.com/MrDasOnX) · [Source](https://x.com/MrDasOnX/status/2098298423384645737)
+
+Other · Published
+
+**Summary:** 15-second realistic outdoor smartphone vlog prompt beside a pond showing colorful fish during golden hour.
+
+<img src="covers/2098298423384645737.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use the provided reference image as the exact identity reference for the same adult male character. Preserve his facial features, hairstyle, beard, skin tone, body proportions, and clothing consistently throughout the entire video.
+
+Create a 15-second ultra-realistic outdoor smartphone vlog beside a beautiful natural pond surrounded by lush greenery during golden hour.
+
+0–4 seconds: Handheld selfie shot. The man walks beside the pond, smiling and talking naturally to the camera. He suddenly notices something beneath the clear water and says excitedly: “Wait… look at those fish!”
+
+4–8 seconds: He turns the smartphone toward the pond. The camera captures a group of beautiful colorful fish swimming naturally through the clear shallow water. The fish have vivid combinations of orange, yellow, blue, turquoise, red, and silver, with sunlight shimmering across their scales.
+
+8–12 seconds: Close-up cinematic shot of the fish swimming around aquatic plants and small rocks. He speaks off-camera: “I’ve never seen fish this colorful in a pond. Look at those colors!”
+
+12–15 seconds: Return to a selfie shot. He crouches beside the pond, points toward the fish behind him, smiles with genuine amazement and says: “This place is incredible!” End with the colorful fish visible in the background.
+
+Authentic handheld smartphone vlog aesthetic, natural walking and body movement, realistic facial expressions, accurate hands and fingers, natural blinking, realistic water physics, detailed colorful fish scales, sunlight reflections on water, gentle ripples, lush vegetation, natural ambient outdoor sounds, cinematic but believable lighting, photorealistic 2K detail, subtle smartphone camera shake, smooth focus transitions.
+
+No subtitles, no on-screen text, no logos, no watermark, no extra people, no face distortion, no identity changes, no exaggerated acting, no fantasy effects. Keep the fish beautiful but biologically believable and the entire scene realistic.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098287896872567292"></a>
 
