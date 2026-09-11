@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**60** Prompt · Son eklenen: **2026-09-11**
+**61** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1080,6 +1080,34 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098382221514334261"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098382221514334261)
+
+Poster / El İlanı · Retro / Vintage · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098382221514334261-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098382221514334261-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098382221514334261-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098382221514334261-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098351198072111552"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**60** Prompts · Latest addition: **2026-09-11**
+**61** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1156,6 +1156,34 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098382221514334261"></a>
+
+### Generate a 3:4 vertical poster based on a travel photo, presenting the original photograph diagonally overlapping a vintage copperplate-etched stamp card in comparative display.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098382221514334261)
+
+Poster / Flyer · Retro / Vintage · Published
+
+**Summary:** Generate a 3:4 vertical poster based on a travel photo, presenting the original photograph diagonally overlapping a vintage copperplate-etched stamp card in comparative display.
+
+<img src="images/2098382221514334261-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098382221514334261-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098382221514334261-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098382221514334261-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Please turn the uploaded travel landmark photo into a 3:4 vertical editorial poster titled 'Landmark Etched Stamp Comparison'. Do not use a top-and-bottom diptych. The composition uses a single continuous sheet of warm ivory uncoated paper as the background, displaying only two diagonally overlapping physical paper cards: On the rear left is a smaller authentic photo card, occupying about 36%–44% of the poster's width, rotated counterclockwise by about 3–6 degrees. Completely and clearly preserve the landmark, viewing angle, architectural structure, season, weather, lighting, surroundings, and colors from the original photo; only subtle editorial color grading is permitted. The photo card features a narrow, plain paper border and slight paper thickness, and must not be reduced to a decorative thumbnail. On the front right is a larger vertical etched stamp, occupying about 58%–68% of the poster's width, rotated clockwise by about 2–4 degrees, naturally occluding part of the photo card behind it. The stamp uses thick, warm white aged paper; all four outer edges must feature regular semicircular die-cut perforations with identical hole diameter, spacing, depth, and shape, maintaining the same pattern at the four corners as well. Render paper edges, fibers, and natural contact drop shadows, without ornate decorative borders. Inside the stamp, reconstruct the landmark based exclusively on the same photograph; do not insert a duplicate of the photo. Preserve the landmark's original viewing angle, main structure, orientation, proportion, weather, and seasonal environment, keeping only the landmark itself and 1–2 key environmental cues, such as a treeline, water surface, mountain mass, rock framing, road, or neighboring architecture. Use a monochrome or restrained two-color copperplate etching language: deep blue-black or charcoal black as the primary ink, allowing a tiny accent of spot color extracted from the original image. Build depth and tonal gradations through dense cross-hatching, parallel engraved lines, stippling, varying line density, vintage ink holidays, and paper-white highlights. It must look like an authentic intaglio press print, not a pencil sketch, woodcut, watercolor, digital filter, or smooth vector graphic. Reserve a quiet caption area at the bottom of the stamp, containing only: '[Real Place English Name]' 'LANDMARK PLATE [Number]' '[One line of 5–9 English words capturing a real observation]' The title uses widely spaced Old Style serif typography; the fields and observation line are smaller yet crisply legible, appearing debossed into the paper with printing ink. Do not include fictional denominations, country of issue inscriptions, postmarks, coats of arms, author names, photographer credits, logos, URLs, or other extraneous text. The overall aesthetic resembles a travel specimen preserved in a museum print room: restrained composition, clear size hierarchy, generous paper margins, creating a distinct comparison between the authentic photograph and the etched memory. Avoid: top-and-bottom diptychs, side-by-side equal sizes, photo duplication, printing the photo directly onto the stamp, multiple stamps, extra cards, irregular perforations, inconsistent perforations across edges, ornate borders, fake postage denominations, fake cancellation marks, fictional landmarks, altered viewing angles, handheld mockups, desk clutter, picture frames, artist signatures, brands, logos, watermarks, and garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098351198072111552"></a>
 

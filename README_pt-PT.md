@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**60** Prompts · Adição mais recente: **2026-09-11**
+**61** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1080,6 +1080,34 @@ Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2098382221514334261"></a>
+
+### Tradução em curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098382221514334261)
+
+Pôster / Folheto · Retrô / Vintage · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098382221514334261-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098382221514334261-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098382221514334261-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098382221514334261-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098351198072111552"></a>
 
