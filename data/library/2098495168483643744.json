@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:22:56.284Z",
+  "model": "grok",
+  "prompt": "Street art Hanoi",
+  "promptTranslations": {
+    "en": "Street art Hanoi"
+  },
+  "summaryTranslations": {
+    "en": "Street art Hanoi"
+  },
+  "translationVersion": 2,
+  "summary": "Street art Hanoi",
+  "summaryEn": "Street art Hanoi",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098495168483643744",
+    "canonicalUrl": "https://x.com/daniel_wheldon/status/2098495168483643744",
+    "author": {
+      "username": "daniel_wheldon",
+      "displayName": "Daniel Wheldon",
+      "profileUrl": "https://x.com/daniel_wheldon"
+    },
+    "publishedAt": "2026-09-11T19:33:30.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nStreet art Hanoi https://t.co/E91u4hpaUW",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/daniel_wheldon/status/2098495168483643744",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098495149567553536/img/QlGs4IvZbaREDTPN.jpg",
+        "analysisUrl": "https://x.com/daniel_wheldon/status/2098495168483643744"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 8
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/daniel_wheldon/status/2098495168483643744",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098495149567553536/img/QlGs4IvZbaREDTPN.jpg",
+  "coverPath": "covers/2098495168483643744.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098495149567553536",
+    "x-post:2098495168483643744"
+  ],
+  "analysis": {
+    "summary": "Street art Hanoi",
+    "summaryEn": "Street art Hanoi",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video depicts animated graffiti on a street shutter resembling urban street art."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Street art Hanoi",
+    "sourceRange": {
+      "start": 22,
+      "end": 38
+    },
+    "translations": {
+      "zh": "河内街头艺术",
+      "en": "Street art Hanoi"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.65,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
