@@ -1605,20 +1605,20 @@ Crie um vídeo UGC em estilo talking-head para comércio eletrónico desta bebid
 
 <a name="prompt-2098495168483643744"></a>
 
-### Tradução em curso
+### Arte de rua em Hanói
 
 Autor：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Publicação original](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Arte de rua em Hanói
 
 <img src="covers/2098495168483643744.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Arte de rua em Hanói
 ```
 
 [↑ Voltar às categorias](#catalog)

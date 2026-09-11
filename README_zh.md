@@ -1607,20 +1607,20 @@ FIELD NOTE [编号]
 
 <a name="prompt-2098495168483643744"></a>
 
-### 翻译中
+### 河内街头艺术
 
 作者：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [查看 X 原帖](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 城市风光 / 街道 · 已推流
 
-**概括:** 翻译中
+**概括:** 河内街头艺术
 
 <img src="covers/2098495168483643744.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+河内街头艺术
 ```
 
 [↑ 返回分类目录](#catalog)

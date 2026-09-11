@@ -1588,20 +1588,20 @@ Créez une vidéo UGC face caméra de type e-commerce pour cette boisson. Une je
 
 <a name="prompt-2098495168483643744"></a>
 
-### Traduction en cours
+### Street art à Hanoï
 
 Auteur：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Publication originale](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Street art à Hanoï
 
 <img src="covers/2098495168483643744.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Street art à Hanoï
 ```
 
 [↑ Retour aux catégories](#catalog)

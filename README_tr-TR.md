@@ -1605,20 +1605,20 @@ Bu içecek için e-ticarete yönelik bir UGC doğrudan kameraya konuşma (talkin
 
 <a name="prompt-2098495168483643744"></a>
 
-### Çeviri sürüyor
+### Hanoi sokak sanatı
 
 Yazar：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Orijinal gönderi](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Hanoi sokak sanatı
 
 <img src="covers/2098495168483643744.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Hanoi sokak sanatı
 ```
 
 [↑ Kategorilere dön](#catalog)

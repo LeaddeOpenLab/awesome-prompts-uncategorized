@@ -1606,20 +1606,20 @@ FIELD NOTE [번호]
 
 <a name="prompt-2098495168483643744"></a>
 
-### 번역 중
+### 하노이 거리 예술
 
 작성자：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [원본 게시물](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 도시 풍경 / 거리 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 하노이 거리 예술
 
 <img src="covers/2098495168483643744.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+하노이 거리 예술
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

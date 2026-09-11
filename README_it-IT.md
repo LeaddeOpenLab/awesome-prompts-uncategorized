@@ -1588,20 +1588,20 @@ Crea un video UGC in formato talking-head per l'e-commerce di questa bevanda. Un
 
 <a name="prompt-2098495168483643744"></a>
 
-### Traduzione in corso
+### Street art ad Hanoi
 
 Autore：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Post originale](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Street art ad Hanoi
 
 <img src="covers/2098495168483643744.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Street art ad Hanoi
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -1588,20 +1588,20 @@ Erstelle ein E-Commerce-UGC-Talking-Head-Video für dieses Getränk. Eine junge 
 
 <a name="prompt-2098495168483643744"></a>
 
-### Übersetzung läuft
+### Streetart Hanoi
 
 Autor：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Originalbeitrag](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Streetart Hanoi
 
 <img src="covers/2098495168483643744.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Streetart Hanoi
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

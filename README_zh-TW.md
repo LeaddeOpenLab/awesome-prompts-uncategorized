@@ -1607,20 +1607,20 @@ FIELD NOTE [編號]
 
 <a name="prompt-2098495168483643744"></a>
 
-### 翻譯中
+### 河內街頭藝術
 
 作者：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [查看 X 原帖](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 城市景觀 / 街道 · 已推流
 
-**概括:** 翻譯中
+**概括:** 河內街頭藝術
 
 <img src="covers/2098495168483643744.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+河內街頭藝術
 ```
 
 [↑ 返回分類目錄](#catalog)

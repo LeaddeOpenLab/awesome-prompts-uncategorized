@@ -1623,20 +1623,20 @@ Tạo một video UGC nói chuyện trước ống kính (talking-head) thương
 
 <a name="prompt-2098495168483643744"></a>
 
-### Đang dịch
+### Nghệ thuật đường phố Hà Nội
 
 Tác giả：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Bài gốc](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Nghệ thuật đường phố Hà Nội
 
 <img src="covers/2098495168483643744.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nghệ thuật đường phố Hà Nội
 ```
 
 [↑ Về danh mục](#catalog)

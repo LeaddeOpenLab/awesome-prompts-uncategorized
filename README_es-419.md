@@ -1588,20 +1588,20 @@ Crea un video UGC de plano medio corto (talking-head) para comercio electrónico
 
 <a name="prompt-2098495168483643744"></a>
 
-### Traducción en curso
+### Arte callejero de Hanói
 
 Autor：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Publicación original](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Arte callejero de Hanói
 
 <img src="covers/2098495168483643744.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Arte callejero de Hanói
 ```
 
 [↑ Volver a categorías](#catalog)

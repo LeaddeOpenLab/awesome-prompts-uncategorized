@@ -1605,20 +1605,20 @@ Crie um vídeo UGC falando para a câmera (talking-head) de e-commerce para esta
 
 <a name="prompt-2098495168483643744"></a>
 
-### Tradução em andamento
+### Arte de rua de Hanói
 
 Autor：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Publicação original](https://x.com/daniel_wheldon/status/2098495168483643744)
 
 Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Arte de rua de Hanói
 
 <img src="covers/2098495168483643744.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Arte de rua de Hanói
 ```
 
 [↑ Voltar às categorias](#catalog)
