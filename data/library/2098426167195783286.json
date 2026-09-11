@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:26:54.073Z",
+  "model": "unknown-image",
+  "prompt": "A full-body studio portrait of an elegant woman posing gracefully against a textured, warm brown backdrop. She is wearing a sleeveless, lustrous bronze-brown satin evening gown featuring a deep V-neckline, a fitted bodice with delicate draping, and a dramatic high slit that reveals a glimpse of her leg. Her long, flowing skirt billows slightly outward, adding a sense of movement, and she complements the outfit with matching metallic strappy high heels. Her dark hair is styled in an updo with soft framing strands around her face, and she looks toward the camera with a gentle, confident smile while lightly touching her hair with one hand.",
+  "promptTranslations": {
+    "en": "A full-body studio portrait of an elegant woman posing gracefully against a textured, warm brown backdrop. She is wearing a sleeveless, lustrous bronze-brown satin evening gown featuring a deep V-neckline, a fitted bodice with delicate draping, and a dramatic high slit that reveals a glimpse of her leg. Her long, flowing skirt billows slightly outward, adding a sense of movement, and she complements the outfit with matching metallic strappy high heels. Her dark hair is styled in an updo with soft framing strands around her face, and she looks toward the camera with a gentle, confident smile while lightly touching her hair with one hand."
+  },
+  "summaryTranslations": {
+    "en": "Full-body studio portrait of an elegant woman in a bronze-brown satin gown against a warm textured backdrop."
+  },
+  "translationVersion": 2,
+  "summary": "Full-body studio portrait of an elegant woman in a bronze-brown satin gown against a warm textured backdrop.",
+  "summaryEn": "Full-body studio portrait of an elegant woman in a bronze-brown satin gown against a warm textured backdrop.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098426167195783286",
+    "canonicalUrl": "https://x.com/Minahil42298354/status/2098426167195783286",
+    "author": {
+      "username": "Minahil42298354",
+      "displayName": "Minahil",
+      "profileUrl": "https://x.com/Minahil42298354"
+    },
+    "publishedAt": "2026-09-11T14:59:19.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "en",
+    "originalText": "Elegant bronze satin gown in warm light\n\nPrompt:            A full-body studio portrait of an elegant woman posing gracefully against a textured, warm brown backdrop. She is wearing a sleeveless, lustrous bronze-brown satin evening gown featuring a deep V-neckline, a fitted bodice with delicate draping, and a dramatic high slit that reveals a glimpse of her leg. Her long, flowing skirt billows slightly outward, adding a sense of movement, and she complements the outfit with matching metallic strappy high heels. Her dark hair is styled in an updo with soft framing strands around her face, and she looks toward the camera with a gentle, confident smile while lightly touching her hair with one hand.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8bb2DXEAEb6fz.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8bb2DXEAEb6fz.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8bdlda4AAXJYX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8bdlda4AAXJYX.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 2,
+      "replyCount": 16,
+      "quoteCount": 0,
+      "viewCount": 494
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Minahil42298354/status/2098426167195783286",
+  "coverUrl": "https://pbs.twimg.com/media/HR8bb2DXEAEb6fz.jpg",
+  "coverPath": "images/2098426167195783286-1.jpg",
+  "imagePaths": [
+    "images/2098426167195783286-1.jpg",
+    "images/2098426167195783286-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR8bb2DXEAEb6fz",
+    "x-image:/media/HR8bdlda4AAXJYX",
+    "x-post:2098426167195783286"
+  ],
+  "analysis": {
+    "summary": "Full-body studio portrait of an elegant woman in a bronze-brown satin gown against a warm textured backdrop.",
+    "summaryEn": "Full-body studio portrait of an elegant woman in a bronze-brown satin gown against a warm textured backdrop.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images depict an elegant woman in a bronze satin slit gown against a brown backdrop matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A full-body studio portrait of an elegant woman posing gracefully against a textured, warm brown backdrop. She is wearing a sleeveless, lustrous bronze-brown satin evening gown featuring a deep V-neckline, a fitted bodice with delicate draping, and a dramatic high slit that reveals a glimpse of her leg. Her long, flowing skirt billows slightly outward, adding a sense of movement, and she complements the outfit with matching metallic strappy high heels. Her dark hair is styled in an updo with soft framing strands around her face, and she looks toward the camera with a gentle, confident smile while lightly touching her hair with one hand.",
+    "sourceRange": {
+      "start": 60,
+      "end": 704
+    },
+    "translations": {
+      "zh": "全身摄影棚肖像，一位优雅女子在暖棕色肌理背景前优雅站立。她身穿无袖光泽青铜棕色缎面晚礼服，深V领、修身褶皱上身、戏剧性高开叉微露腿部。长裙摆略微向外飘动增添动感，搭配同色系金属感细带高跟鞋。深色头发盘起，脸庞有碎发修饰，单手轻抚头发，面带自信微笑望向镜头。",
+      "en": "A full-body studio portrait of an elegant woman posing gracefully against a textured, warm brown backdrop. She is wearing a sleeveless, lustrous bronze-brown satin evening gown featuring a deep V-neckline, a fitted bodice with delicate draping, and a dramatic high slit that reveals a glimpse of her leg. Her long, flowing skirt billows slightly outward, adding a sense of movement, and she complements the outfit with matching metallic strappy high heels. Her dark hair is styled in an updo with soft framing strands around her face, and she looks toward the camera with a gentle, confident smile while lightly touching her hair with one hand."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
