@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**61** Prompts · Dernier ajout: **2026-09-11**
+**62** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1343,6 +1343,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098381131855097863"></a>
+
+### Traduction en cours
+
+Auteur：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publication originale](https://x.com/BeanieBlossom/status/2098381131855097863)
+
+Animal / Créature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098381131855097863-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098346363520274568"></a>
 

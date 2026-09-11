@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**61** Prompts · Latest addition: **2026-09-11**
+**62** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1541,6 +1541,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098381131855097863"></a>
+
+### A small emerald dragon stacking glowing geodes under an aurora.
+
+Author：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Source](https://x.com/BeanieBlossom/status/2098381131855097863)
+
+Animal / Creature · Published
+
+**Summary:** A small emerald dragon stacking glowing geodes under an aurora.
+
+<img src="images/2098381131855097863-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Beneath a swirling aurora borealis, a small, winged dragon with emerald scales carefully stacks colourful, glowing geodes into a precarious tower, his expression one of intense concentration
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098346363520274568"></a>
 

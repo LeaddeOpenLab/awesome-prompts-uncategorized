@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**61** Prompt · Bổ sung mới nhất: **2026-09-11**
+**62** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1367,6 +1367,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098381131855097863"></a>
+
+### Đang dịch
+
+Tác giả：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Bài gốc](https://x.com/BeanieBlossom/status/2098381131855097863)
+
+Động vật / Sinh vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098381131855097863-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098346363520274568"></a>
 

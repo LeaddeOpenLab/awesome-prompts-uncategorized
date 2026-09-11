@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**61** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**62** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1343,6 +1343,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098381131855097863"></a>
+
+### Übersetzung läuft
+
+Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Originalbeitrag](https://x.com/BeanieBlossom/status/2098381131855097863)
+
+Tier / Kreatur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098381131855097863-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098346363520274568"></a>
 

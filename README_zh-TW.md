@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**61** 筆內容 · 最新收錄: **2026-09-11**
+**62** 筆內容 · 最新收錄: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1350,6 +1350,28 @@ FIELD NOTE [編號]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098381131855097863"></a>
+
+### 翻譯中
+
+作者：[@BeanieBlossom](https://x.com/BeanieBlossom) · [查看 X 原帖](https://x.com/BeanieBlossom/status/2098381131855097863)
+
+動物 / 生物 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098381131855097863-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098346363520274568"></a>
 

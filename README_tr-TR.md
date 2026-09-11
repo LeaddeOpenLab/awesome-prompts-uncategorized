@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**61** Prompt · Son eklenen: **2026-09-11**
+**62** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1343,6 +1343,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098381131855097863"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](https://x.com/BeanieBlossom/status/2098381131855097863)
+
+Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098381131855097863-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098346363520274568"></a>
 
