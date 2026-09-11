@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:23:24.635Z",
+  "model": "kling",
+  "prompt": "Create an e-commerce UGC talking-head video for this beverage. A young, influencer-style woman should appear on camera to showcase and introduce the product to an international audience. The flavor is Mango Passionfruit.",
+  "promptTranslations": {
+    "en": "Create an e-commerce UGC talking-head video for this beverage. A young, influencer-style woman should appear on camera to showcase and introduce the product to an international audience. The flavor is Mango Passionfruit."
+  },
+  "summaryTranslations": {
+    "en": "Create an e-commerce UGC talking-head video of an influencer presenting a beverage."
+  },
+  "translationVersion": 2,
+  "summary": "Create an e-commerce UGC talking-head video of an influencer presenting a beverage.",
+  "summaryEn": "Create an e-commerce UGC talking-head video of an influencer presenting a beverage.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098459622453756301",
+    "canonicalUrl": "https://x.com/Ava_Ai__/status/2098459622453756301",
+    "author": {
+      "username": "Ava_Ai__",
+      "displayName": "Ava Ai",
+      "profileUrl": "https://x.com/Ava_Ai__"
+    },
+    "publishedAt": "2026-09-11T17:12:16.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "en",
+    "originalText": "Turned a simple beverage idea into a polished UGC-style product video using @Kling_ai MCP.\n\nI created an influencer-style host to showcase a Mango Passionfruit beverage, complete with product presentation, narration, and background music — all from a simple workflow.\n\nInstead of building each element separately, Kling MCP helped turn a basic concept into ready-to-use promotional content.\n\nA practical example of how MCP can simplify the entire creative process from prompt to finished product video.\n\nPrompt used:\n“Create an e-commerce UGC talking-head video for this beverage. A young, influencer-style woman should appear on camera to showcase and introduce the product to an international audience. The flavor is Mango Passionfruit.”",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Ava_Ai__/status/2098459622453756301",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098459599007604737/img/t-KGzMIPZMR4sYad.jpg",
+        "analysisUrl": "https://x.com/Ava_Ai__/status/2098459622453756301"
+      }
+    ],
+    "metrics": {
+      "likeCount": 173,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 12045
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Ava_Ai__/status/2098459622453756301",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098459599007604737/img/t-KGzMIPZMR4sYad.jpg",
+  "coverPath": "covers/2098459622453756301.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098459599007604737",
+    "x-post:2098459622453756301"
+  ],
+  "analysis": {
+    "summary": "Create an e-commerce UGC talking-head video of an influencer presenting a beverage.",
+    "summaryEn": "Create an e-commerce UGC talking-head video of an influencer presenting a beverage.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video matches the requested UGC talking-head format featuring a young woman holding and presenting a bottled beverage to the camera."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create an e-commerce UGC talking-head video for this beverage. A young, influencer-style woman should appear on camera to showcase and introduce the product to an international audience. The flavor is Mango Passionfruit.",
+    "sourceRange": {
+      "start": 518,
+      "end": 738
+    },
+    "translations": {
+      "zh": "为这款饮料制作一个电商UGC出镜口播视频。一位年轻的网红风格女性应出现在镜头前，向全球受众展示并介绍该产品。口味为芒果百香果。",
+      "en": "Create an e-commerce UGC talking-head video for this beverage. A young, influencer-style woman should appear on camera to showcase and introduce the product to an international audience. The flavor is Mango Passionfruit."
+    },
+    "targetModels": [
+      "kling"
+    ],
+    "category": "text-to-video",
+    "useCase": "ugc_product_ad",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
