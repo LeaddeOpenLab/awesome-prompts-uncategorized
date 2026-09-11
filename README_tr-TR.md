@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**69** Prompt · Son eklenen: **2026-09-11**
+**71** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098398277095821330"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
+
+Orijinal gönderi：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098398277095821330.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -502,6 +526,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098436364849320190"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@feesyiam](https://x.com/feesyiam) · [Orijinal gönderi](https://x.com/feesyiam/status/2098436364849320190)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098436364849320190.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 
@@ -1475,13 +1521,13 @@ Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098444996584358073"></a>
 
-### Çeviri sürüyor
+### Duvarın üzerindeki devasa bir titanla karşı karşıya gelen bir Keşif Birliği üyesini içeren Attack on Titan ikonik duvar posteri sahnesi.
 
 Yazar：[@R\_yeong\_](https://x.com/R_yeong_) · [Orijinal gönderi](https://x.com/R_yeong_/status/2098444996584358073)
 
 Poster / El İlanı · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Duvarın üzerindeki devasa bir titanla karşı karşıya gelen bir Keşif Birliği üyesini içeren Attack on Titan ikonik duvar posteri sahnesi.
 
 <img src="images/2098444996584358073-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1490,7 +1536,7 @@ Poster / El İlanı · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+2::Dikey kompozisyon, arkadan tam boy çekim, alt açı, kadrajın merkezinde ön planda konumlanmış figür, bacakları açık duruyor, devasa bir duvara bakarken başı geriye eğik, her iki yanda aşağı sarkan kılıçları tutuyor::, 2::Keşif Birliği üniforması::, kısa kahverengi askeri ceket, beyaz gömlek, deri kemer, vücuda oturan beyaz pantolon, diz boyu kahverengi deri çizmeler, 1.5::koyu kahverengi deri koşum takımı, göğsü, beli, kalçaları ve bacakları çaprazlayan kayışlar::, yeşil kapüşonlu askeri pelerin, 1.7::sırtta 'Özgürlük Kanatları' amblemi, çapraz mavi ve beyaz tüylü kanatları içeren nişan, sırtın ortasında büyük amblem::, 1.8::yanan harap köy, yıkılmış evler, çöken çatılar, her iki taraftan yükselen alevler, kavrulmuş sokaklar::, ufku kaplayan devasa taş duvar, müstahkem kapı, 3::duvarın ötesinden beliren devasa siyah figür, duvarın kenarını kavrayan devasa karanlık kafa ve eller, ezici ölçek::, 1.7::duvarın arkasında meydana gelen devasa patlama, alev alev yanan turuncu alevler, yoğun duman, parlayan gökyüzü::, uçuşan közler, kıvılcımlar, kül, sıcaklık sisi, yoğun arka aydınlatma, derin gölgeler, dramatik ölçek kontrastı, kıyamet benzeri, ıssız, tekinsiz ve umutsuz atmosfer, sinematik sunum, 2::alt orta kısımda büyük Japonca başlık metni "進撃の巨人" (Attack on Titan), ortaya hizalı tipografi, başlık logosu, kalın Japonca yazı tipi, net bir şekilde okunaklı metin::
 ```
 
 [↑ Kategorilere dön](#catalog)

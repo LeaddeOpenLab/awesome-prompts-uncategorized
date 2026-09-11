@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**69** Prompts · Dernier ajout: **2026-09-11**
+**71** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098398277095821330"></a>
+
+### Traduction en cours
+
+Auteur：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publication originale](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Paysage urbain / Rue · Publié
+
+Publication originale：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publication originale](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098398277095821330.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -502,6 +526,28 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098436364849320190"></a>
+
+### Traduction en cours
+
+Auteur：[@feesyiam](https://x.com/feesyiam) · [Publication originale](https://x.com/feesyiam/status/2098436364849320190)
+
+Image cinématographique / Photogramme de film · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098436364849320190.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 
@@ -1475,13 +1521,13 @@ Traduction en cours
 
 <a name="prompt-2098444996584358073"></a>
 
-### Traduction en cours
+### Scène emblématique du poster du mur d'Attack on Titan mettant en scène un membre du Bataillon d'exploration face à un titan colossal au-dessus du mur.
 
 Auteur：[@R\_yeong\_](https://x.com/R_yeong_) · [Publication originale](https://x.com/R_yeong_/status/2098444996584358073)
 
 Affiche / Flyer · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène emblématique du poster du mur d'Attack on Titan mettant en scène un membre du Bataillon d'exploration face à un titan colossal au-dessus du mur.
 
 <img src="images/2098444996584358073-1.jpg" alt="Image 1" width="480" />
 
@@ -1490,7 +1536,7 @@ Affiche / Flyer · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+2::Composition verticale, plan en pied de dos, contre-plongée, personnage positionné au premier plan au centre du cadre, debout les jambes écartées, la tête penchée en arrière regardant vers un mur massif, tenant des épées pendantes des deux côtés::, 2::uniforme du Bataillon d'exploration::, veste militaire marron courte, chemise blanche, ceinture en cuir, pantalon blanc moulant, bottes en cuir marron montantes jusqu'aux genoux, 1.5::harnais en cuir marron foncé, sangles croisant la poitrine, la taille, les cuisses et les jambes::, cape militaire verte à capuche, 1.7::emblème des 'Ailes de la Liberté' dans le dos, insigne représentant des ailes de plumes bleues et blanches croisées, grand emblème au centre du dos::, 1.8::village en ruine en feu, maisons détruites, toits qui s'effondrent, flammes s'élevant des deux côtés, rues calcinées::, mur de pierre massif s'étendant à l'horizon, porte fortifiée, 3::figure noire colossale apparaissant d'au-delà du mur, tête sombre géante et mains agrippant le bord du mur, échelle écrasante::, 1.7::explosion massive se produisant derrière le mur, flammes orange ardentes, fumée épaisse, ciel incandescent::, braises volantes, étincelles, cendres, brume de chaleur, fort contre-jour, ombres profondes, contraste d'échelle dramatique, atmosphère apocalyptique, désolée, menaçante et désespérée, présentation cinématographique, 2::grand texte de titre en japonais "進撃の巨人" (Attack on Titan) en bas au centre, typographie centrée, logo du titre, police japonaise en gras, texte clairement lisible::
 ```
 
 [↑ Retour aux catégories](#catalog)

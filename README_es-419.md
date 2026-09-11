@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**69** Prompts · Última incorporación: **2026-09-11**
+**71** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098398277095821330"></a>
+
+### Traducción en curso
+
+Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicación original](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Paisaje urbano / Calle · Publicado
+
+Publicación original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicación original](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098398277095821330.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -502,6 +526,28 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2098436364849320190"></a>
+
+### Traducción en curso
+
+Autor：[@feesyiam](https://x.com/feesyiam) · [Publicación original](https://x.com/feesyiam/status/2098436364849320190)
+
+Cine / Fotograma · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098436364849320190.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 
@@ -1475,13 +1521,13 @@ Traducción en curso
 
 <a name="prompt-2098444996584358073"></a>
 
-### Traducción en curso
+### Escena icónica del póster del muro de Attack on Titan con un miembro de la Legión de Reconocimiento enfrentándose a un titán colosal sobre la muralla.
 
 Autor：[@R\_yeong\_](https://x.com/R_yeong_) · [Publicación original](https://x.com/R_yeong_/status/2098444996584358073)
 
 Póster / Volante · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena icónica del póster del muro de Attack on Titan con un miembro de la Legión de Reconocimiento enfrentándose a un titán colosal sobre la muralla.
 
 <img src="images/2098444996584358073-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1490,7 +1536,7 @@ Póster / Volante · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+2::Composición vertical, toma de cuerpo entero desde atrás, ángulo bajo, figura posicionada en primer plano en el centro del encuadre, de pie con las piernas abiertas, cabeza inclinada hacia atrás mientras mira hacia una muralla enorme, sosteniendo espadas que cuelgan a ambos lados::, 2::uniforme de la Legión de Reconocimiento::, chaqueta militar marrón corta, camisa blanca, cinturón de cuero, pantalones blancos ajustados, botas de cuero marrón hasta la rodilla, 1.5::arnés de cuero marrón oscuro, correas que cruzan el pecho, la cintura, los muslos y las piernas::, capa militar verde con capucha, 1.7::emblema de las 'Alas de la Libertad' en la espalda, insignia con alas emplumadas azules y blancas cruzadas, gran emblema en el centro de la espalda::, 1.8::aldea en ruinas en llamas, casas destruidas, techos colapsando, llamas alzándose a ambos lados, calles calcinadas::, muralla masiva de piedra que abarca el horizonte, puerta fortificada, 3::figura colosal negra que aparece desde más allá del muro, cabeza y manos oscuras gigantescas que se agarran del borde del muro, escala abrumadora::, 1.7::explosión masiva que ocurre detrás del muro, llamas anaranjadas ardientes, humo denso, cielo resplandeciente::, ascuas volando, chispas, ceniza, neblina de calor, contraluz intenso, sombras profundas, dramático contraste de escala, atmósfera apocalíptica, desolada, ominosa y desesperada, presentación cinematográfica, 2::gran texto de título en japonés "進撃の巨人" (Attack on Titan) en la parte inferior central, tipografía alineada al centro, logotipo de título, tipografía japonesa en negrita, texto claramente legible::
 ```
 
 [↑ Volver a categorías](#catalog)

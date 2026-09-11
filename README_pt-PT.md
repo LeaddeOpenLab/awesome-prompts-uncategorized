@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**69** Prompts · Adição mais recente: **2026-09-11**
+**71** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098398277095821330"></a>
+
+### Tradução em curso
+
+Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Paisagem urbana / Rua · Publicado
+
+Publicação original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098398277095821330.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -502,6 +526,28 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098436364849320190"></a>
+
+### Tradução em curso
+
+Autor：[@feesyiam](https://x.com/feesyiam) · [Publicação original](https://x.com/feesyiam/status/2098436364849320190)
+
+Cena de Cinema / Fotograma · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098436364849320190.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 
@@ -1475,13 +1521,13 @@ Tradução em curso
 
 <a name="prompt-2098444996584358073"></a>
 
-### Tradução em curso
+### Cena icónica do poster da muralha de Attack on Titan apresentando um membro da Tropa de Exploração de frente para um titã colossal sobre a muralha.
 
 Autor：[@R\_yeong\_](https://x.com/R_yeong_) · [Publicação original](https://x.com/R_yeong_/status/2098444996584358073)
 
 Pôster / Folheto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena icónica do poster da muralha de Attack on Titan apresentando um membro da Tropa de Exploração de frente para um titã colossal sobre a muralha.
 
 <img src="images/2098444996584358073-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1490,7 +1536,7 @@ Pôster / Folheto · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+2::Composição vertical, plano de corpo inteiro por trás, ângulo baixo, figura posicionada em primeiro plano no centro do enquadramento, em pé de pernas abertas, cabeça inclinada para trás a olhar para uma muralha maciça, segurando espadas que pendem para baixo de ambos os lados::, 2::uniforme da Tropa de Exploração::, casaco militar castanho curto, camisa branca, cinto de couro, calças brancas justas, botas de couro castanho de cano alto até ao joelho, 1.5::arnês de couro castanho escuro, correias que cruzam o peito, a cintura, as coxas e as pernas::, capa militar verde com capuz, 1.7::emblema das 'Asas da Liberdade' nas costas, insígnia com asas emplumadas azuis e brancas cruzadas, grande emblema no centro das costas::, 1.8::aldeia em ruínas a arder, casas destruídas, telhados a desabar, chamas a subir de ambos os lados, ruas calcinadas::, muralha maciça de pedra a abranger o horizonte, portão fortificado, 3::figura colossal negra a surgir além da muralha, cabeça escura e mãos gigantescas a agarrar a borda da muralha, escala avassaladora::, 1.7::enorme explosão a ocorrer atrás da muralha, chamas alaranjadas incandescentes, fumo denso, céu brilhante::, brasas a voar, faíscas, cinzas, neblina de calor, contraluz intenso, sombras profundas, contraste de escala dramático, atmosfera apocalíptica, desolada, sinistra e desesperada, apresentação cinematográfica, 2::grande texto de título em japonês "進撃の巨人" (Attack on Titan) na parte inferior central, tipografia alinhada ao centro, logótipo do título, fonte japonesa a negrito, texto claramente legível::
 ```
 
 [↑ Voltar às categorias](#catalog)

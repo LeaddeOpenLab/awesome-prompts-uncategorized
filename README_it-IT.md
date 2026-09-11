@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**69** Prompt · Ultima aggiunta: **2026-09-11**
+**71** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098398277095821330"></a>
+
+### Traduzione in corso
+
+Autore：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Post originale](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Paesaggio urbano / Strada · Pubblicato
+
+Post originale：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Post originale](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098398277095821330.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -502,6 +526,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098436364849320190"></a>
+
+### Traduzione in corso
+
+Autore：[@feesyiam](https://x.com/feesyiam) · [Post originale](https://x.com/feesyiam/status/2098436364849320190)
+
+Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098436364849320190.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 
@@ -1475,13 +1521,13 @@ Traduzione in corso
 
 <a name="prompt-2098444996584358073"></a>
 
-### Traduzione in corso
+### Scena iconica del poster del muro di Attack on Titan con un membro del Corpo di Ricerca di fronte a un titano colossale oltre il muro.
 
 Autore：[@R\_yeong\_](https://x.com/R_yeong_) · [Post originale](https://x.com/R_yeong_/status/2098444996584358073)
 
 Poster / Volantino · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena iconica del poster del muro di Attack on Titan con un membro del Corpo di Ricerca di fronte a un titano colossale oltre il muro.
 
 <img src="images/2098444996584358073-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1490,7 +1536,7 @@ Poster / Volantino · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+2::Composizione verticale, inquadratura a figura intera da dietro, angolo dal basso, figura posizionata in primo piano al centro dell'inquadratura, in piedi a gambe divaricate, testa inclinata all'indietro mentre guarda verso un muro imponente, impugnando spade che pendono su entrambi i lati::, 2::uniforme del Corpo di Ricerca::, giacca militare marrone corta, camicia bianca, cintura di cuoio, pantaloni bianchi aderenti, stivali di cuoio marrone al ginocchio, 1.5::imbracatura in cuoio marrone scuro, cinghie che incrociano il petto, la vita, le cosce e le gambe::, mantello militare verde con cappuccio, 1.7::emblema delle 'Ali della Libertà' sulla schiena, insegna con ali piumate blu e bianche incrociate, grande emblema al centro della schiena::, 1.8::villaggio in rovina in fiamme, case distrutte, tetti che crollano, fiamme che si alzano da entrambi i lati, strade bruciate::, massiccio muro di pietra che attraversa l'orizzonte, porta fortificata, 3::figura colossale nera che appare da oltre il muro, gigantesca testa scura e mani che afferrano il bordo del muro, scala schiacciante::, 1.7::massiccia esplosione che si verifica dietro il muro, fiamme arancioni ardenti, fumo denso, cielo luminoso::, braci volanti, scintille, cenere, foschia da calore, intensa retroilluminazione, ombre profonde, drammatico contrasto di scala, atmosfera apocalittica, desolata, minacciosa e disperata, presentazione cinematografica, 2::grande testo del titolo in giapponese "進撃の巨人" (Attack on Titan) in basso al centro, tipografia allineata al centro, logo del titolo, carattere giapponese in grassetto, testo chiaramente leggibile::
 ```
 
 [↑ Torna alle categorie](#catalog)

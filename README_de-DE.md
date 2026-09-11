@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**69** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**71** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098398277095821330"></a>
+
+### Übersetzung läuft
+
+Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Stadtbild / Straße · Veröffentlicht
+
+Originalbeitrag：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098398277095821330.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -502,6 +526,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098436364849320190"></a>
+
+### Übersetzung läuft
+
+Autor：[@feesyiam](https://x.com/feesyiam) · [Originalbeitrag](https://x.com/feesyiam/status/2098436364849320190)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098436364849320190.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 
@@ -1475,13 +1521,13 @@ Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098444996584358073"></a>
 
-### Übersetzung läuft
+### Ikonische Szene des Attack on Titan-Mauerplakats mit einem Mitglied des Aufklärungstrupps, das einem kolossalen Titan über der Mauer gegenübersteht.
 
 Autor：[@R\_yeong\_](https://x.com/R_yeong_) · [Originalbeitrag](https://x.com/R_yeong_/status/2098444996584358073)
 
 Plakat / Flyer · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ikonische Szene des Attack on Titan-Mauerplakats mit einem Mitglied des Aufklärungstrupps, das einem kolossalen Titan über der Mauer gegenübersteht.
 
 <img src="images/2098444996584358073-1.jpg" alt="Bild 1" width="480" />
 
@@ -1490,7 +1536,7 @@ Plakat / Flyer · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+2::Vertikale Komposition, Ganzkörperaufnahme von hinten, Froschperspektive, Figur im Vordergrund in der Mitte des Bildausschnitts positioniert, breitbeinig stehend, Kopf nach hinten geneigt, während sie zu einer gewaltigen Mauer aufblickt, Schwerter haltend, die an beiden Seiten herabhängen::, 2::Aufklärungstrupp-Uniform::, kurze braune Militärjacke, weißes Hemd, Ledergürtel, eng anliegende weiße Hosen, kniehohe braune Lederstiefel, 1.5::dunkelbraunes Ledergeschirr, Riemen, die Brust, Taille, Oberschenkel und Beine kreuzen::, grüner Militärumhang mit Kapuze, 1.7::'Flügel der Freiheit'-Emblem auf dem Rücken, Abzeichen mit gekreuzten blauen und weißen gefiederten Flügeln, großes Emblem in der Mitte des Rückens::, 1.8::brennendes ruiniertes Dorf, zerstörte Häuser, einstürzende Dächer, zu beiden Seiten aufsteigende Flammen, verbrannte Straßen::, gewaltige Steinmauer, die den Horizont überspannt, befestigtes Tor, 3::kolossale schwarze Gestalt, die hinter der Mauer auftaucht, riesiger dunkler Kopf und Hände, die den Rand der Mauer umklammern, überwältigende Dimensionen::, 1.7::gewaltige Explosion hinter der Mauer, lodernde orangefarbene Flammen, dichter Rauch, glühender Himmel::, fliegende Glut, Funken, Asche, Hitzeflimmern, intensives Gegenlicht, tiefe Schatten, dramatischer Größenkontrast, apokalyptische, trostlose, unheilvolle und verzweifelte Atmosphäre, filmreife Präsentation, 2::großer japanischer Titeltext "進撃の巨人" (Attack on Titan) unten in der Mitte, zentrierte Typografie, Titellogo, fette japanische Schriftart, deutlich lesbarer Text::
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

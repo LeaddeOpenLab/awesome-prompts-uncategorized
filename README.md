@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**69** Prompts · Latest addition: **2026-09-11**
+**71** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,44 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098398277095821330"></a>
+
+### Photorealistic prompt for a full-body street-fashion portrait of a stylish Black man in a camel coat walking through downtown Philadelphia.
+
+Author：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Source](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Cityscape / Street · Published
+
+Source：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Source](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Summary:** Photorealistic prompt for a full-body street-fashion portrait of a stylish Black man in a camel coat walking through downtown Philadelphia.
+
+<img src="covers/2098398277095821330.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra-photorealistic full-body street-fashion portrait of a ruggedly handsome Black man walking confidently toward the camera on a downtown Philadelphia sidewalk. He has an athletic masculine build, short dark hair beneath a fitted black baseball cap, a neatly groomed full beard, small hoop earring, and a calm, serious expression.
+
+Outfit
+He wears a long camel-colored wool overcoat with broad lapels, open over an oversized plain white T-shirt. Pair it with relaxed light-wash blue jeans, including a large frayed rip across one knee and subtle distressed details. Finish with clean white high-top sneakers, a long minimalist gold pendant necklace, small earring, and a substantial gold wristwatch. The look is upscale contemporary streetwear with an effortless masculine edge.
+
+Pose
+Capture him mid-stride walking directly toward the camera, one hand casually inside his jeans pocket while the opposite arm hangs naturally. His coat falls open and moves subtly with his stride. He looks slightly past the camera with relaxed, self-assured body language.
+
+Environment
+Set the scene in Center City Philadelphia, with historic stone buildings, townhouse steps, black wrought-iron railings, greenery, streetlights, traffic, pedestrians, and a Broad Street subway entrance. Philadelphia City Hall and its clock tower are clearly recognizable in the distance, giving the photograph an unmistakable Philadelphia identity while still feeling like a natural city moment.
+
+Photography & Cinematography
+Use premium contemporary street-fashion photography, full head-to-toe framing, eye-level perspective, and a 50–70mm lens look. Warm late-afternoon sunlight creates beautiful highlights along the camel coat and natural dimensional light across his face. Keep the subject tack-sharp with controlled background separation, realistic skin and beard texture, detailed wool and denim, natural city depth, subtle photographic grain, and exquisite editorial color grading.
+
+Avoid: plastic or fake skin, excessive retouching, exaggerated muscles, overly formal styling, excessive logos, stiff posing, empty streets, artificial landmarks, excessive bokeh, CGI appearance, oversaturation, or fashion-doll aesthetics.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -595,6 +633,46 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098436364849320190"></a>
+
+### Cinematic continuous-shot prompt for a floating night market under moonlight with lanterns and vendors.
+
+Author：[@feesyiam](https://x.com/feesyiam) · [Source](https://x.com/feesyiam/status/2098436364849320190)
+
+Cinematic / Film Still · Published
+
+**Summary:** Cinematic continuous-shot prompt for a floating night market under moonlight with lanterns and vendors.
+
+<img src="covers/2098436364849320190.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+"Create a 15-second cinematic, photorealistic continuous-shot video based exactly on the reference image of “The Floating Night Market.”
+
+Preserve the original architecture, floating wooden market platforms, lantern designs, vendors, customers, boats, ocean, mountains, color palette, and overall composition. Do not redesign or replace any major elements.
+
+0–3 seconds: Begin with a slow, smooth low-angle camera movement just above the dark ocean surface, approaching the floating night market. Hundreds of warm glowing paper lanterns gently sway in the night breeze. Their golden reflections shimmer naturally across the moving water. Small waves softly move around the floating platforms.
+
+3–7 seconds: The camera slowly rises and moves forward through the market, revealing lively activity. Vendors naturally prepare food at small wooden stalls, gently stirring steaming pots and grilling food. Thin realistic steam rises into the lantern light. Customers walk casually across narrow wooden bridges, talking and browsing. Lanterns flicker subtly and sway with the wind.
+
+7–11 seconds: Continue the same uninterrupted camera movement with a gentle cinematic arc around the market. Small traditional boats slowly pass underneath the floating platforms. Water ripples spread behind them. Food stalls glow with warm orange and amber light while the cool blue moonlight illuminates the surrounding ocean. The huge full moon remains visible in the background behind misty mountains.
+
+11–15 seconds: Slowly pull upward and backward into a wider cinematic reveal, showing the entire floating night market surrounded by the vast ocean. Hundreds of lanterns form a glowing trail across the water. Reflections stretch and break naturally with the waves. Mist gently drifts around the distant mountains as the moonlight creates a magical atmosphere. End on a beautiful wide establishing shot.
+
+Visual style: ultra-photorealistic, cinematic fantasy, realistic human movement, realistic ocean and water physics, detailed wooden textures, natural lantern glow, volumetric moonlight, subtle atmospheric fog, realistic steam, shallow depth of field during close shots, cinematic 35mm photography, high dynamic range, extremely detailed, immersive scale, smooth professional camera movement.
+
+Motion: natural human gestures, subtle wind movement, gently swaying lanterns, flowing steam, moving water, realistic boat movement, no exaggerated animation.
+
+Camera: smooth stabilized cinematic camera, slow controlled movement, natural depth of field, gradual push-in → forward tracking → gentle arc → wide pull-back. One continuous shot with no cuts.
+
+Negative prompt: no scene changes, no cuts, no jump cuts, no camera shake, no distorted faces, no duplicated people, no warped buildings.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 

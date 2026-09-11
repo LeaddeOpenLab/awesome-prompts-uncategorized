@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**69** Prompt · Bổ sung mới nhất: **2026-09-11**
+**71** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098398277095821330"></a>
+
+### Đang dịch
+
+Tác giả：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Bài gốc](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+Bài gốc：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Bài gốc](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098398277095821330.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -514,6 +538,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098436364849320190"></a>
+
+### Đang dịch
+
+Tác giả：[@feesyiam](https://x.com/feesyiam) · [Bài gốc](https://x.com/feesyiam/status/2098436364849320190)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098436364849320190.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 
@@ -1499,13 +1545,13 @@ Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
 <a name="prompt-2098444996584358073"></a>
 
-### Đang dịch
+### Cảnh poster bức tường mang tính biểu tượng của Attack on Titan với hình ảnh một thành viên Trinh sát đoàn đối mặt với titan khổng lồ phía trên bức tường.
 
 Tác giả：[@R\_yeong\_](https://x.com/R_yeong_) · [Bài gốc](https://x.com/R_yeong_/status/2098444996584358073)
 
 Áp phích / Tờ rơi · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh poster bức tường mang tính biểu tượng của Attack on Titan với hình ảnh một thành viên Trinh sát đoàn đối mặt với titan khổng lồ phía trên bức tường.
 
 <img src="images/2098444996584358073-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1514,7 +1560,7 @@ Tác giả：[@R\_yeong\_](https://x.com/R_yeong_) · [Bài gốc](https://x.com
 **Câu lệnh**
 
 ```text
-Đang dịch
+2::Bố cục dọc, góc chụp toàn thân từ phía sau, góc thấp, nhân vật ở tiền cảnh tại trung tâm khung hình, đứng hai chân dang rộng, ngửa đầu nhìn lên bức tường khổng lồ, hai tay cầm kiếm buông thõng hai bên::, 2::đồng phục Trinh sát đoàn::, áo khoác quân đội ngắn màu nâu, áo sơ mi trắng, thắt lưng da, quần trắng ôm sát, bốt da màu nâu cao đến đầu gối, 1.5::bộ dây đai da màu nâu sẫm vắt chéo qua ngực, eo, đùi và chân::, áo choàng quân đội màu xanh lá có mũ trùm đầu, 1.7::huy hiệu 'Đôi cánh tự do' trên lưng, phù hiệu đôi cánh lông vũ màu xanh và trắng bắt chéo, huy hiệu lớn ở chính giữa lưng::, 1.8::ngôi làng đổ nát bốc cháy, những ngôi nhà bị phá hủy, mái nhà sụp đổ, ngọn lửa bùng lên hai bên, những con đường cháy xém::, bức tường đá khổng lồ trải dài tới đường chân trời, cổng thành kiên cố, 3::bóng đen khổng lồ xuất hiện từ phía sau bức tường, đầu và hai bàn tay tối màu khổng lồ bám chặt vào mép tường, quy mô áp đảo::, 1.7::vụ nổ dữ dội xảy ra sau bức tường, ngọn lửa màu cam rực cháy, khói dày đặc, bầu trời rực sáng::, tàn lửa bay, tia lửa, tro bụi, làn hơi nóng, ánh sáng ngược gay gắt, bóng tối sâu thẳm, sự tương phản tỷ lệ kịch tính, bầu không khí tận thế, hoang tàn, u ám và tuyệt vọng, phong cách điện ảnh, 2::chữ tiêu đề tiếng Nhật lớn "進撃の巨人" (Attack on Titan) ở chính giữa phía dưới, kiểu chữ căn giữa, logo tiêu đề, phông chữ tiếng Nhật in đậm, văn bản rõ ràng dễ đọc::
 ```
 
 [↑ Về danh mục](#catalog)

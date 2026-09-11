@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**69** Prompts · Última adição: **2026-09-11**
+**71** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098398277095821330"></a>
+
+### Tradução em andamento
+
+Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2098398277095821330)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Paisagem Urbana / Rua · Publicado
+
+Publicação original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2098384758145257614)
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098398277095821330.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098396584879002102"></a>
 
@@ -502,6 +526,28 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098436364849320190"></a>
+
+### Tradução em andamento
+
+Autor：[@feesyiam](https://x.com/feesyiam) · [Publicação original](https://x.com/feesyiam/status/2098436364849320190)
+
+Cinematográfico / Imagem de Filme · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098436364849320190.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098289889964183843"></a>
 
@@ -1475,13 +1521,13 @@ Tradução em andamento
 
 <a name="prompt-2098444996584358073"></a>
 
-### Tradução em andamento
+### Cena icônica do pôster da muralha de Attack on Titan apresentando um membro da Divisão de Reconhecimento de frente para um titã colossal sobre a muralha.
 
 Autor：[@R\_yeong\_](https://x.com/R_yeong_) · [Publicação original](https://x.com/R_yeong_/status/2098444996584358073)
 
 Pôster / Flyer · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena icônica do pôster da muralha de Attack on Titan apresentando um membro da Divisão de Reconhecimento de frente para um titã colossal sobre a muralha.
 
 <img src="images/2098444996584358073-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1490,7 +1536,7 @@ Pôster / Flyer · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+2::Composição vertical, plano de corpo inteiro por trás, ângulo baixo, figura posicionada em primeiro plano no centro do quadro, em pé com as pernas abertas, cabeça inclinada para trás enquanto olha para uma muralha maciça, segurando espadas que pendem para baixo em ambos os lados::, 2::uniforme da Divisão de Reconhecimento::, jaqueta militar marrom curta, camisa branca, cinto de couro, calças brancas justas, botas de couro marrom de cano alto até o joelho, 1.5::arnês de couro marrom escuro, tiras cruzando o peito, cintura, coxas e pernas::, capa militar verde com capuz, 1.7::emblema das 'Asas da Liberdade' nas costas, insígnia com asas emplumadas azuis e brancas cruzadas, grande emblema no centro das costas::, 1.8::aldeia em ruínas em chamas, casas destruídas, telhados desabando, chamas subindo em ambos os lados, ruas calcinadas::, muralha maciça de pedra abrangendo o horizonte, portão fortificado, 3::figura colossal negra surgindo além da muralha, cabeça escura e mãos gigantescas agarrando a borda da muralha, escala avassaladora::, 1.7::enorme explosão ocorrendo atrás da muralha, chamas alaranjadas incandescentes, fumaça densa, céu brilhante::, brasas voando, faíscas, cinzas, névoa de calor, contraluz intenso, sombras profundas, contraste de escala dramático, atmosfera apocalíptica, desolada, sinistra e desesperadora, apresentação cinematográfica, 2::grande texto de título em japonês "進撃の巨人" (Attack on Titan) na parte inferior central, tipografia alinhada ao centro, logotipo do título, fonte japonesa em negrito, texto claramente legível::
 ```
 
 [↑ Voltar às categorias](#catalog)
