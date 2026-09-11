@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**81** 条内容 · 最新收录: **2026-09-11**
+**82** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1582,6 +1582,28 @@ FIELD NOTE [编号]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098495168483643744"></a>
+
+### 翻译中
+
+作者：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [查看 X 原帖](https://x.com/daniel_wheldon/status/2098495168483643744)
+
+城市风光 / 街道 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098495168483643744.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098498537466249640"></a>
 

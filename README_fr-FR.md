@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**81** Prompts · Dernier ajout: **2026-09-11**
+**82** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1563,6 +1563,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098495168483643744"></a>
+
+### Traduction en cours
+
+Auteur：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Publication originale](https://x.com/daniel_wheldon/status/2098495168483643744)
+
+Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098495168483643744.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098498537466249640"></a>
 

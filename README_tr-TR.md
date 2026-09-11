@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**81** Prompt · Son eklenen: **2026-09-11**
+**82** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1580,6 +1580,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098495168483643744"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Orijinal gönderi](https://x.com/daniel_wheldon/status/2098495168483643744)
+
+Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098495168483643744.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098498537466249640"></a>
 

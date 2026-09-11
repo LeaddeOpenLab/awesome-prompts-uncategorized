@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**81** Prompts · Latest addition: **2026-09-11**
+**82** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1741,6 +1741,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098495168483643744"></a>
+
+### Street art Hanoi
+
+Author：[@daniel\_wheldon](https://x.com/daniel_wheldon) · [Source](https://x.com/daniel_wheldon/status/2098495168483643744)
+
+Cityscape / Street · Published
+
+**Summary:** Street art Hanoi
+
+<img src="covers/2098495168483643744.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Street art Hanoi
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098498537466249640"></a>
 
