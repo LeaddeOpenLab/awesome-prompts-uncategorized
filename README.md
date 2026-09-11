@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**55** Prompts · Latest addition: **2026-09-11**
+**56** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098338457491800556"></a>
+
+### Realistic animation video generation prompt of a gold biscuit sprouting in mud into a towering tree laden with gold biscuits, followed by workers arriving to harvest and load them onto a truck.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2098338457491800556)
+
+Photography · Character · Published
+
+**Summary:** Realistic animation video generation prompt of a gold biscuit sprouting in mud into a towering tree laden with gold biscuits, followed by workers arriving to harvest and load them onto a truck.
+
+<img src="covers/2098338457491800556.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 10-second ultra-photorealistic cinematic vertical video (9:16).\nA realistic gold biscuit lies abandoned on the muddy roadside after heavy rainfall. Rainwater flows around it as the object slowly sinks deep into the wet soil. Within seconds, the buried object begins to glow from underground. A tiny green sprout emerges from the exact spot and rapidly grows into a gigantic mature gold biscuit tree. The thick trunk and branches naturally resemble the shape, texture, colors, and design language of the original gold biscuit. Hundreds of fully detailed ripe gold biscuits hang from every branch like real fruits, gently swaying in the wind.\nImmediately after the tree finishes growing, a large cargo truck arrives and stops beside it. One worker quickly climbs the tree while several others rapidly harvest every gold biscuit from the branches, tossing them into the truck with fast, realistic movements. Within moments the tree is completely harvested. The truck becomes fully loaded with hundreds of gold biscuits and drives away, leaving only the empty tree behind.\nSingle continuous shot, realistic rainy weather, muddy ground, cinematic lighting, natural wind, believable physics, ultra-detailed textures, smooth growth animation, seamless transformation, no cuts, no glitches, no flicker, no extra objects, 8K, HDR, hyper-realistic, documentary-style realism." note : gold biscuits should be the same from start to end; if rectangular, all must be rectangular, realistic
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 

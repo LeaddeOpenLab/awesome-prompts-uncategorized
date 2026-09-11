@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**55** Prompts · Última incorporación: **2026-09-11**
+**56** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098338457491800556"></a>
+
+### Traducción en curso
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2098338457491800556)
+
+Fotografía · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098338457491800556.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1210,7 +1232,7 @@ Traducción en curso
 
 <a name="prompt-2098336543123640752"></a>
 
-### Traducción en curso
+### Prompt de retrato en cheongsam desde la perspectiva del novio en dormitorio a altas horas de la noche
 
 Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1218,7 +1240,7 @@ Retrato / Selfie · Publicado
 
 Publicación original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicación original](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato en cheongsam desde la perspectiva del novio en dormitorio a altas horas de la noche
 
 <img src="images/2098336543123640752-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1227,7 +1249,7 @@ Publicación original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publ
 **Prompt**
 
 ```text
-Traducción en curso
+Dormitorio a altas horas de la noche × Punto de vista en primera persona del novio × Cheongsam (qipao) × Flash directo de CCD
 ```
 
 [↑ Volver a categorías](#catalog)

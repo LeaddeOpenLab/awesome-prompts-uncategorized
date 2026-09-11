@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**55** Prompts · Adição mais recente: **2026-09-11**
+**56** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098338457491800556"></a>
+
+### Tradução em curso
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2098338457491800556)
+
+Fotografia · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098338457491800556.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1186,7 +1208,7 @@ Tradução em curso
 
 <a name="prompt-2098336543123640752"></a>
 
-### Tradução em curso
+### Prompt de retrato em cheongsam sob a perspetiva do namorado no quarto a altas horas da noite
 
 Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicação original](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1194,7 +1216,7 @@ Retrato / Selfie · Publicado
 
 Publicação original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicação original](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato em cheongsam sob a perspetiva do namorado no quarto a altas horas da noite
 
 <img src="images/2098336543123640752-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1203,7 +1225,7 @@ Publicação original：[@underwoodxie96](https://x.com/underwoodxie96) · [Publ
 **Prompt**
 
 ```text
-Tradução em curso
+Quarto a altas horas da noite × Ponto de vista na primeira pessoa do namorado (POV) × Cheongsam (qipao) × Flash direto de CCD
 ```
 
 [↑ Voltar às categorias](#catalog)

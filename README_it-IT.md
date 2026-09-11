@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**55** Prompt · Ultima aggiunta: **2026-09-11**
+**56** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098338457491800556"></a>
+
+### Traduzione in corso
+
+Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2098338457491800556)
+
+Fotografia · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098338457491800556.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1186,7 +1208,7 @@ Traduzione in corso
 
 <a name="prompt-2098336543123640752"></a>
 
-### Traduzione in corso
+### Prompt per ritratto in cheongsam dal punto di vista del fidanzato in camera da letto a notte fonda
 
 Autore：[@underwoodxie96](https://x.com/underwoodxie96) · [Post originale](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1194,7 +1216,7 @@ Ritratto / Selfie · Pubblicato
 
 Post originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Post originale](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto in cheongsam dal punto di vista del fidanzato in camera da letto a notte fonda
 
 <img src="images/2098336543123640752-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1203,7 +1225,7 @@ Post originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Post origin
 **Prompt**
 
 ```text
-Traduzione in corso
+Camera da letto a notte fonda × Punto di vista in prima persona del fidanzato (POV) × Cheongsam (qipao) × Flash diretto CCD
 ```
 
 [↑ Torna alle categorie](#catalog)

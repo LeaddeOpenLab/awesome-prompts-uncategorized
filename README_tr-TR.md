@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**55** Prompt · Son eklenen: **2026-09-11**
+**56** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098338457491800556"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2098338457491800556)
+
+Fotoğrafçılık · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098338457491800556.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1186,7 +1208,7 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098336543123640752"></a>
 
-### Çeviri sürüyor
+### Gece geç saatlerde erkek arkadaş bakış açısıyla yatak odasında çipao portresi istemi
 
 Yazar：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1194,7 +1216,7 @@ Portre / Selfie · Yayımlandı
 
 Orijinal gönderi：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece geç saatlerde erkek arkadaş bakış açısıyla yatak odasında çipao portresi istemi
 
 <img src="images/2098336543123640752-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1203,7 +1225,7 @@ Orijinal gönderi：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gece geç saatlerde yatak odası × Erkek arkadaşın birinci şahıs bakış açısı (POV) × Çipao (Qipao) × Doğrudan CCD flaş
 ```
 
 [↑ Kategorilere dön](#catalog)

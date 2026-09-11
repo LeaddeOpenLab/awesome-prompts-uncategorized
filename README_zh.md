@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**55** 条内容 · 最新收录: **2026-09-11**
+**56** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2098338457491800556"></a>
+
+### 翻译中
+
+作者：[@abs\_uiux](https://x.com/abs_uiux) · [查看 X 原帖](https://x.com/abs_uiux/status/2098338457491800556)
+
+摄影 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098338457491800556.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1193,7 +1215,7 @@ CGI毛发、
 
 <a name="prompt-2098336543123640752"></a>
 
-### 翻译中
+### 深夜闺房男友视角旗袍人像提示词
 
 作者：[@underwoodxie96](https://x.com/underwoodxie96) · [查看 X 原帖](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1201,7 +1223,7 @@ CGI毛发、
 
 查看 X 原帖：[@underwoodxie96](https://x.com/underwoodxie96) · [查看 X 原帖](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**概括:** 翻译中
+**概括:** 深夜闺房男友视角旗袍人像提示词
 
 <img src="images/2098336543123640752-1.jpg" alt="图片 1" width="480" />
 
@@ -1210,7 +1232,7 @@ CGI毛发、
 **提示词**
 
 ```text
-翻译中
+深夜闺房 × 男友第一视角 × 旗袍 × CCD 直闪
 ```
 
 [↑ 返回分类目录](#catalog)

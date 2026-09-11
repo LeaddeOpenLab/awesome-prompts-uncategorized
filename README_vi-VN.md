@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**55** Prompt · Bổ sung mới nhất: **2026-09-11**
+**56** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098338457491800556"></a>
+
+### Đang dịch
+
+Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098338457491800556)
+
+Nhiếp ảnh · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098338457491800556.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1210,7 +1232,7 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098336543123640752"></a>
 
-### Đang dịch
+### Prompt chân dung sườn xám góc nhìn bạn trai trong khuê phòng đêm muộn
 
 Tác giả：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1218,7 +1240,7 @@ Chân dung / Ảnh tự chụp · Đã xuất bản
 
 Bài gốc：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chân dung sườn xám góc nhìn bạn trai trong khuê phòng đêm muộn
 
 <img src="images/2098336543123640752-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1227,7 +1249,7 @@ Bài gốc：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](htt
 **Câu lệnh**
 
 ```text
-Đang dịch
+Khuê phòng đêm muộn × Góc nhìn thứ nhất của bạn trai × Sườn xám × Flash CCD trực diện
 ```
 
 [↑ Về danh mục](#catalog)

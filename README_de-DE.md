@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**55** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**56** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098338457491800556"></a>
+
+### Übersetzung läuft
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2098338457491800556)
+
+Fotografie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098338457491800556.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1186,7 +1208,7 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098336543123640752"></a>
 
-### Übersetzung läuft
+### Porträt-Prompt im Cheongsam aus der Freund-Perspektive im nächtlichen Schlafzimmer
 
 Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1194,7 +1216,7 @@ Porträt / Selfie · Veröffentlicht
 
 Originalbeitrag：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträt-Prompt im Cheongsam aus der Freund-Perspektive im nächtlichen Schlafzimmer
 
 <img src="images/2098336543123640752-1.jpg" alt="Bild 1" width="480" />
 
@@ -1203,7 +1225,7 @@ Originalbeitrag：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbe
 **Prompt**
 
 ```text
-Übersetzung läuft
+Nächtliches Schlafzimmer × Erste-Person-Perspektive des Freundes (POV) × Cheongsam (Qipao) × Direkter CCD-Blitz
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

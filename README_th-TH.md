@@ -19,7 +19,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**55** รายการ · เพิ่มล่าสุด: **2026-09-11**
+**56** รายการ · เพิ่มล่าสุด: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 <a name="category-photography"></a>
 
 ## การถ่ายภาพ
+
+<a name="prompt-2098338457491800556"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@abs\_uiux](https://x.com/abs_uiux) · [โพสต์ต้นฉบับ](https://x.com/abs_uiux/status/2098338457491800556)
+
+การถ่ายภาพ · ตัวละคร · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2098338457491800556.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1210,7 +1232,7 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 
 <a name="prompt-2098336543123640752"></a>
 
-### กำลังแปล
+### พรอมต์ภาพบุคคลสวมกี่เพ้ามุมมองแฟนหนุ่มในห้องนอนยามดึก
 
 ผู้เขียน：[@underwoodxie96](https://x.com/underwoodxie96) · [โพสต์ต้นฉบับ](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1218,7 +1240,7 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 
 โพสต์ต้นฉบับ：[@underwoodxie96](https://x.com/underwoodxie96) · [โพสต์ต้นฉบับ](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**สรุป:** กำลังแปล
+**สรุป:** พรอมต์ภาพบุคคลสวมกี่เพ้ามุมมองแฟนหนุ่มในห้องนอนยามดึก
 
 <img src="images/2098336543123640752-1.jpg" alt="รูปภาพ 1" width="480" />
 
@@ -1227,7 +1249,7 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 **พรอมต์**
 
 ```text
-กำลังแปล
+ห้องนอนยามดึก × มุมมองบุคคลที่หนึ่งของแฟนหนุ่ม × กี่เพ้า × แฟลชตรงกล้อง CCD
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

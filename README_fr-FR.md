@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**55** Prompts · Dernier ajout: **2026-09-11**
+**56** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098338457491800556"></a>
+
+### Traduction en cours
+
+Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2098338457491800556)
+
+Photographie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098338457491800556.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098291700355432939"></a>
 
@@ -1186,7 +1208,7 @@ Traduction en cours
 
 <a name="prompt-2098336543123640752"></a>
 
-### Traduction en cours
+### Prompt de portrait en qipao sous la perspective du petit ami dans la chambre tard le soir
 
 Auteur：[@underwoodxie96](https://x.com/underwoodxie96) · [Publication originale](https://x.com/underwoodxie96/status/2098336543123640752)
 
@@ -1194,7 +1216,7 @@ Portrait / Selfie · Publié
 
 Publication originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Publication originale](https://x.com/underwoodxie96/status/2098305584940687668)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait en qipao sous la perspective du petit ami dans la chambre tard le soir
 
 <img src="images/2098336543123640752-1.jpg" alt="Image 1" width="480" />
 
@@ -1203,7 +1225,7 @@ Publication originale：[@underwoodxie96](https://x.com/underwoodxie96) · [Publ
 **Consigne**
 
 ```text
-Traduction en cours
+Chambre tard dans la nuit × Vue subjective à la première personne du petit ami (POV) × Qipao (cheongsam) × Flash direct CCD
 ```
 
 [↑ Retour aux catégories](#catalog)
