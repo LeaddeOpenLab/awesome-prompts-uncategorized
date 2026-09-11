@@ -567,20 +567,20 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2098476449212805468"></a>
 
-### Tradução em curso
+### Plano contínuo com textura de filme na praia de San Diego durante a hora rosa, com ondas sonoras a vibrar a areia e a iluminar o plâncton bioluminescente.
 
 Autor：[@jfischoff](https://x.com/jfischoff) · [Publicação original](https://x.com/jfischoff/status/2098476449212805468)
 
 Cena de Cinema / Fotograma · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Plano contínuo com textura de filme na praia de San Diego durante a hora rosa, com ondas sonoras a vibrar a areia e a iluminar o plâncton bioluminescente.
 
 <img src="covers/2098476449212805468.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Câmara de filme. Rolo a cores Fuji Nikon 35mm. Saturado. Fotografia profissional realista. Um plano contínuo do som a vibrar a areia e a fazer com que o plâncton bioluminescente se ilumine em grupos nebulosos no oceano, a partir da praia de San Diego na hora rosa.
 ```
 
 [↑ Voltar às categorias](#catalog)

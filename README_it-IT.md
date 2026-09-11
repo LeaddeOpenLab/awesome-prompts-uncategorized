@@ -553,20 +553,20 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2098476449212805468"></a>
 
-### Traduzione in corso
+### Scatto continuo con effetto pellicola sulla spiaggia di San Diego nell'ora rosa, con onde sonore che fanno vibrare la sabbia accendendo il plancton bioluminescente.
 
 Autore：[@jfischoff](https://x.com/jfischoff) · [Post originale](https://x.com/jfischoff/status/2098476449212805468)
 
 Fermo immagine cinematografico / Still fotografico · Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scatto continuo con effetto pellicola sulla spiaggia di San Diego nell'ora rosa, con onde sonore che fanno vibrare la sabbia accendendo il plancton bioluminescente.
 
 <img src="covers/2098476449212805468.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Fotocamera a pellicola. Pellicola a colori Fuji Nikon 35mm. Saturo. Fotografia professionale realistica. Una ripresa continua del suono che fa vibrare la sabbia e fa illuminare il plancton bioluminescente in gruppi nuvolosi nell'oceano, dalla spiaggia di San Diego durante l'ora rosa.
 ```
 
 [↑ Torna alle categorie](#catalog)

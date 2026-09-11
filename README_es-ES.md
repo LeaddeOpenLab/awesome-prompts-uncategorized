@@ -579,20 +579,20 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2098476449212805468"></a>
 
-### Traducción en curso
+### Toma continua con textura de película en la playa de San Diego durante la hora rosa, donde las ondas sonoras hacen vibrar la arena e iluminan el plancton bioluminiscente.
 
 Autor：[@jfischoff](https://x.com/jfischoff) · [Publicación original](https://x.com/jfischoff/status/2098476449212805468)
 
 Cine / Fotograma de película · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Toma continua con textura de película en la playa de San Diego durante la hora rosa, donde las ondas sonoras hacen vibrar la arena e iluminan el plancton bioluminiscente.
 
 <img src="covers/2098476449212805468.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Cámara de película. Película en color Fuji Nikon de 35 mm. Saturada. Fotografía profesional realista. Una toma continua del sonido haciendo vibrar la arena y provocando que el plancton bioluminiscente se ilumine en grupos nubosos en el océano, desde la playa en la hora rosa de San Diego.
 ```
 
 [↑ Volver a categorías](#catalog)

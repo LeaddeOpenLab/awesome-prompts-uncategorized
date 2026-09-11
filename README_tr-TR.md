@@ -567,20 +567,20 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2098476449212805468"></a>
 
-### Çeviri sürüyor
+### San Diego sahilinde pembe saatte, ses dalgalarının kumu titreterek biyolüminesan planktonları parlattığı film dokusunda kesintisiz bir çekim.
 
 Yazar：[@jfischoff](https://x.com/jfischoff) · [Orijinal gönderi](https://x.com/jfischoff/status/2098476449212805468)
 
 Sinematik / Film Karesi · Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** San Diego sahilinde pembe saatte, ses dalgalarının kumu titreterek biyolüminesan planktonları parlattığı film dokusunda kesintisiz bir çekim.
 
 <img src="covers/2098476449212805468.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Film kamerası. Nikon 35mm fuji renkli film. Doygun. Gerçekçi profesyonel fotoğrafçılık. San Diego sahilinde pembe saatte, sesin kumu titreterek okyanustaki biyolüminesans planktonların bulut benzeri gruplar halinde parlamasına neden olduğu kesintisiz bir çekim.
 ```
 
 [↑ Kategorilere dön](#catalog)

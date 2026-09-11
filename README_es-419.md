@@ -553,20 +553,20 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2098476449212805468"></a>
 
-### Traducción en curso
+### Toma continua con textura de película en la playa de San Diego durante la hora rosa, con ondas sonoras haciendo vibrar la arena y activando la bioluminiscencia del plancton.
 
 Autor：[@jfischoff](https://x.com/jfischoff) · [Publicación original](https://x.com/jfischoff/status/2098476449212805468)
 
 Cine / Fotograma · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Toma continua con textura de película en la playa de San Diego durante la hora rosa, con ondas sonoras haciendo vibrar la arena y activando la bioluminiscencia del plancton.
 
 <img src="covers/2098476449212805468.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Cámara de película. Película de color Fuji Nikon de 35 mm. Saturada. Fotografía profesional realista. Una toma continua del sonido haciendo vibrar la arena y haciendo que el plancton bioluminiscente se encienda en grupos nubosos en el océano, desde la playa en la hora rosa de San Diego.
 ```
 
 [↑ Volver a categorías](#catalog)

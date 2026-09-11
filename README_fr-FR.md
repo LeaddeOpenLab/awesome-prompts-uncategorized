@@ -553,20 +553,20 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2098476449212805468"></a>
 
-### Traduction en cours
+### Plan continu au rendu argentique sur la plage de San Diego à l'heure rose, montrant les ondes sonores faire vibrer le sable et illuminer le plancton bioluminescent.
 
 Auteur：[@jfischoff](https://x.com/jfischoff) · [Publication originale](https://x.com/jfischoff/status/2098476449212805468)
 
 Image cinématographique / Photogramme de film · Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Plan continu au rendu argentique sur la plage de San Diego à l'heure rose, montrant les ondes sonores faire vibrer le sable et illuminer le plancton bioluminescent.
 
 <img src="covers/2098476449212805468.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Appareil photo argentique. Pellicule couleur Fuji Nikon 35 mm. Saturée. Photographie professionnelle réaliste. Un plan continu du son faisant vibrer le sable et provoquant l'illumination du plancton bioluminescent en groupes nuageux dans l'océan, depuis la plage de San Diego à l'heure rose.
 ```
 
 [↑ Retour aux catégories](#catalog)

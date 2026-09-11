@@ -579,20 +579,20 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2098476449212805468"></a>
 
-### Đang dịch
+### Cảnh quay liên tục mang chất phim ghi lại sóng âm làm rung cát và kích hoạt sinh vật phù du phát quang trên bãi biển San Diego vào giờ ánh hồng.
 
 Tác giả：[@jfischoff](https://x.com/jfischoff) · [Bài gốc](https://x.com/jfischoff/status/2098476449212805468)
 
 Điện ảnh / Ảnh tĩnh từ phim · Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh quay liên tục mang chất phim ghi lại sóng âm làm rung cát và kích hoạt sinh vật phù du phát quang trên bãi biển San Diego vào giờ ánh hồng.
 
 <img src="covers/2098476449212805468.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Máy ảnh phim. Phim màu Fuji 35mm Nikon. Độ bão hòa màu cao. Nhiếp ảnh chuyên nghiệp chân thực. Cảnh quay liên tục ghi lại âm thanh làm rung cát và kích hoạt các sinh vật phù du phát quang sinh học thắp sáng thành từng cụm như đám mây trong lòng đại dương, nhìn từ bãi biển San Diego vào giờ ánh hồng.
 ```
 
 [↑ Về danh mục](#catalog)

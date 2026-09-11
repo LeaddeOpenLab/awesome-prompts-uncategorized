@@ -567,20 +567,20 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2098476449212805468"></a>
 
-### Tradução em andamento
+### Tomada contínua com textura de filme na praia de San Diego na hora rosa, onde ondas sonoras vibram a areia e fazem o plâncton bioluminescente brilhar.
 
 Autor：[@jfischoff](https://x.com/jfischoff) · [Publicação original](https://x.com/jfischoff/status/2098476449212805468)
 
 Cinematográfico / Imagem de Filme · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Tomada contínua com textura de filme na praia de San Diego na hora rosa, onde ondas sonoras vibram a areia e fazem o plâncton bioluminescente brilhar.
 
 <img src="covers/2098476449212805468.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Câmera de filme. Filme colorido Fuji Nikon 35mm. Saturado. Fotografia profissional realista. Uma tomada contínua do som vibrando a areia e fazendo o plâncton bioluminescente acender em grupos nebulosos no oceano, a partir da praia na hora rosa de San Diego.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -553,20 +553,20 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2098476449212805468"></a>
 
-### Übersetzung läuft
+### Kontinuierliche Aufnahme im Film-Look am Strand von San Diego zur rosa Stunde, bei der Schallwellen den Sand vibrieren lassen und biolumineszierendes Plankton zum Leuchten bringen.
 
 Autor：[@jfischoff](https://x.com/jfischoff) · [Originalbeitrag](https://x.com/jfischoff/status/2098476449212805468)
 
 Kinematisch / Filmstill · Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Kontinuierliche Aufnahme im Film-Look am Strand von San Diego zur rosa Stunde, bei der Schallwellen den Sand vibrieren lassen und biolumineszierendes Plankton zum Leuchten bringen.
 
 <img src="covers/2098476449212805468.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Filmkamera. Nikon 35mm Fuji-Farbfilm. Gesättigt. Realistische professionelle Fotografie. Eine kontinuierliche Aufnahme, wie der Ton den Sand zum Vibrieren bringt und biolumineszierendes Plankton im Ozean in wolkenartigen Gruppen aufleuchten lässt, vom Strand in San Diego zur rosa Stunde.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
