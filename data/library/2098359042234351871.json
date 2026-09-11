@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:34:28.420Z",
+  "model": "unknown-image",
+  "prompt": "[Create an original, highly stylized 3D caricature portrait of an adult woman, designed with extreme comedic facial exaggeration while retaining recognizable human characteristics. Give her a dramatically oversized head, wildly uneven facial proportions, large asymmetrical bulging eyes, an exaggerated crooked nose, oversized drooping ears, and an enormous goofy grin with irregularly spaced teeth.\n\nHer facial structure should remain believable beneath the exaggeration, with expressive eyebrows, natural facial creases, uneven skin texture, visible pores, subtle blemishes, and realistic imperfections. Give her chaotic, frizzy dark hair with individual strands sticking outward in different directions.\n\nRender the character in a semi-realistic high-detail 3D aesthetic with physically believable skin, hair, teeth, and materials. Use dramatic studio rim lighting from behind and the sides, creating bright highlights around the hair and ears while emphasizing wrinkles, texture, and facial contours. Add soft frontal fill light so the face remains clearly visible.\n\nKeep the composition minimal and uncluttered with a simple neutral studio background. Frame the character as a vertical 9:16 portrait, centered and tightly composed, with the enormous head dominating the image.\n\nMood: absurd, funny, bizarre, playful, exaggerated, slightly grotesque, and visually memorable.\n\nAvoid recognizable copyrighted characters, celebrity likenesses, existing artwork, logos, watermarks, text, plastic-looking skin, excessive CGI gloss, duplicated facial features, extra eyes, extra limbs, malformed hands, distorted teeth, blurry details, low resolution, and unnatural anatomy.]",
+  "promptTranslations": {
+    "en": "[Create an original, highly stylized 3D caricature portrait of an adult woman, designed with extreme comedic facial exaggeration while retaining recognizable human characteristics. Give her a dramatically oversized head, wildly uneven facial proportions, large asymmetrical bulging eyes, an exaggerated crooked nose, oversized drooping ears, and an enormous goofy grin with irregularly spaced teeth.\\n\\nHer facial structure should remain believable beneath the exaggeration, with expressive eyebrows, natural facial creases, uneven skin texture, visible pores, subtle blemishes, and realistic imperfections. Give her chaotic, frizzy dark hair with individual strands sticking outward in different directions.\\n\\nRender the character in a semi-realistic high-detail 3D aesthetic with physically believable skin, hair, teeth, and materials. Use dramatic studio rim lighting from behind and the sides, creating bright highlights around the hair and ears while emphasizing wrinkles, texture, and facial contours. Add soft frontal fill light so the face remains clearly visible.\\n\\nKeep the composition minimal and uncluttered with a simple neutral studio background. Frame the character as a vertical 9:16 portrait, centered and tightly composed, with the enormous head dominating the image.\\n\\nMood: absurd, funny, bizarre, playful, exaggerated, slightly grotesque, and visually memorable.\\n\\nAvoid recognizable copyrighted characters, celebrity likenesses, existing artwork, logos, watermarks, text, plastic-looking skin, excessive CGI gloss, duplicated facial features, extra eyes, extra limbs, malformed hands, distorted teeth, blurry details, low resolution, and unnatural anatomy.]"
+  },
+  "summaryTranslations": {
+    "en": "A 3D exaggerated comedic-style caricature portrait of an adult woman featuring asymmetrical large eyes, a big nose, oversized ears, and a goofy grin, complemented by studio rim lighting."
+  },
+  "translationVersion": 2,
+  "summary": "3D夸张喜剧风格成年女性漫画肖像，具有不对称大眼、大鼻、大耳与怪诞笑容，搭配工作室轮廓光。",
+  "summaryEn": "Stylized 3D caricature portrait of a woman with comedic facial exaggeration, gap-toothed grin, and dramatic studio rim lighting.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098292936064844224",
+      "canonicalUrl": "https://x.com/Tanvir48992/status/2098292936064844224",
+      "author": {
+        "username": "Tanvir48992",
+        "displayName": "Tanvir 🫎",
+        "profileUrl": "https://x.com/Tanvir48992"
+      },
+      "originalText": "Lost in a garden of dreams, where every petal whispers a secret. 🌸\n\nPrompt\n\nA highly detailed, cinematic, dreamy, ultra-photorealistic vertical 9:16 portrait of a beautiful young adult woman surrounded by delicate translucent flowers and petals in a soft outdoor garden. Intimate close-up framing captures her face, neck, shoulders, and upper chest, with layered foreground flowers creating an ethereal romantic atmosphere.\n\nShe has delicate feminine features, warm fair-to-light-medium skin with realistic pores and soft peach undertones. Her face is slightly turned toward the camera in a gentle three-quarter view. One eye is clearly visible through translucent petals, gazing softly toward the viewer with a calm, dreamy, mysterious expression, while the other is partly obscured by a large soft pink flower. Naturally shaped brows, almond eyes, subtle lashes, refined straight nose, softly sculpted cheekbones, and naturally full muted coral-pink lips slightly parted.\n\nHer medium-length warm-brown hair is loosely styled, with realistic individual strands, soft volume, wispy strands around her temples and cheeks, and gentle movement from a breeze.\n\nAbundant translucent flowers and petals surround her face. Large pink, coral, peach, and pale-orange flowers appear close to the lens, with petals sweeping across her forehead and partially covering one eye. Additional soft-focus flowers frame the composition. Petals are thin, semi-translucent, organically shaped, and sunlit, creating layered color and natural optical diffusion.\n\nShe wears an elegant ivory, cream, or pale-champagne dress with delicate floral or textured detailing around the neckline. Soft folds, embroidery, realistic fabric texture, minimal jewelry, and natural makeup keep the styling sophisticated.\n\nSoft late-afternoon sunlight filters through foliage, creating peach, coral, golden-yellow, and warm-orange highlights across her face, hair, shoulders, and petals. Strong natural backlighting creates luminous translucent flowers, delicate hair rim light, soft facial highlights, subtle lens flare, and dreamy glow.\n\nBackground: lush heavily blurred garden with green foliage, pale sky, and distant flowers. Extremely shallow depth of field creates creamy green, white, peach, and golden bokeh, with varying foreground blur for layered depth.\n\nCamera: professional full-frame portrait photography, 85mm lens, f/1.4–f/2.0, natural perspective, cinematic focus falloff, crisp focus on the visible eye and lips, soft foreground petals, realistic optical depth, gentle bloom.\n\nColor palette: pastel pink, coral, peach, warm orange, golden yellow, ivory, creamy white, muted green, warm skin tones. Refined analog-film grading, soft highlights, faded blacks, organic film grain, subtle halation, gentle contrast, nostalgic editorial rendering.\n\nComposition: vertical 9:16, extreme close-up, face centrally positioned with slight asymmetry, naturally crossing flowers, layered depth, soft negative space, immersive floral atmosphere.\n\nMood: dreamy, ethereal, romantic, sensual, feminine, mysterious, nostalgic, sun-kissed, poetic.\n\nNegative prompt: text, watermark, logo, artificial skin, plastic texture, excessive retouching, heavy makeup, CGI, cartoon, 3D render, unnatural eyes, distorted face, asymmetrical anatomy, malformed lips, extra facial features, deformed flowers, repetitive petals, oversaturated colors, harsh HDR, excessive sharpening, low resolution, blurry face, unnatural skin tones."
+    },
+    "id": "2098359042234351871",
+    "canonicalUrl": "https://x.com/Tanvir48992/status/2098359042234351871",
+    "author": {
+      "username": "Tanvir48992",
+      "displayName": "Tanvir 🫎",
+      "profileUrl": "https://x.com/Tanvir48992"
+    },
+    "publishedAt": "2026-09-11T10:32:35.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "en",
+    "originalText": "When your face gets an upgrade… but the universe chooses chaos. 😂🤪\n\nPrompt \n\n[Create an original, highly stylized 3D caricature portrait of an adult woman, designed with extreme comedic facial exaggeration while retaining recognizable human characteristics. Give her a dramatically oversized head, wildly uneven facial proportions, large asymmetrical bulging eyes, an exaggerated crooked nose, oversized drooping ears, and an enormous goofy grin with irregularly spaced teeth.\n\nHer facial structure should remain believable beneath the exaggeration, with expressive eyebrows, natural facial creases, uneven skin texture, visible pores, subtle blemishes, and realistic imperfections. Give her chaotic, frizzy dark hair with individual strands sticking outward in different directions.\n\nRender the character in a semi-realistic high-detail 3D aesthetic with physically believable skin, hair, teeth, and materials. Use dramatic studio rim lighting from behind and the sides, creating bright highlights around the hair and ears while emphasizing wrinkles, texture, and facial contours. Add soft frontal fill light so the face remains clearly visible.\n\nKeep the composition minimal and uncluttered with a simple neutral studio background. Frame the character as a vertical 9:16 portrait, centered and tightly composed, with the enormous head dominating the image.\n\nMood: absurd, funny, bizarre, playful, exaggerated, slightly grotesque, and visually memorable.\n\nAvoid recognizable copyrighted characters, celebrity likenesses, existing artwork, logos, watermarks, text, plastic-looking skin, excessive CGI gloss, duplicated facial features, extra eyes, extra limbs, malformed hands, distorted teeth, blurry details, low resolution, and unnatural anatomy.]",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7eamHb0AAM1ME.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7eamHb0AAM1ME.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6iSjTbAAA6l1l.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6iSjTbAAA6l1l.jpg",
+        "sourcePostId": "2098292936064844224"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 0,
+      "replyCount": 10,
+      "quoteCount": 1,
+      "viewCount": 517
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Tanvir48992/status/2098359042234351871",
+  "coverUrl": "https://pbs.twimg.com/media/HR7eamHb0AAM1ME.jpg",
+  "coverPath": "images/2098359042234351871-1.jpg",
+  "imagePaths": [
+    "images/2098359042234351871-1.jpg",
+    "images/2098359042234351871-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR7eamHb0AAM1ME",
+    "x-image:/media/HR6iSjTbAAA6l1l",
+    "x-post:2098359042234351871",
+    "x-post:2098292936064844224"
+  ],
+  "analysis": {
+    "summary": "3D夸张喜剧风格成年女性漫画肖像，具有不对称大眼、大鼻、大耳与怪诞笑容，搭配工作室轮廓光。",
+    "summaryEn": "Stylized 3D caricature portrait of a woman with comedic facial exaggeration, gap-toothed grin, and dramatic studio rim lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image 1 shows the exact 3D caricature of a woman with an oversized head, bulging misaligned eyes, big nose, large ears, gap teeth, and frizzy hair under studio lighting as detailed in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "[Create an original, highly stylized 3D caricature portrait of an adult woman, designed with extreme comedic facial exaggeration while retaining recognizable human characteristics. Give her a dramatically oversized head, wildly uneven facial proportions, large asymmetrical bulging eyes, an exaggerated crooked nose, oversized drooping ears, and an enormous goofy grin with irregularly spaced teeth.\n\nHer facial structure should remain believable beneath the exaggeration, with expressive eyebrows, natural facial creases, uneven skin texture, visible pores, subtle blemishes, and realistic imperfections. Give her chaotic, frizzy dark hair with individual strands sticking outward in different directions.\n\nRender the character in a semi-realistic high-detail 3D aesthetic with physically believable skin, hair, teeth, and materials. Use dramatic studio rim lighting from behind and the sides, creating bright highlights around the hair and ears while emphasizing wrinkles, texture, and facial contours. Add soft frontal fill light so the face remains clearly visible.\n\nKeep the composition minimal and uncluttered with a simple neutral studio background. Frame the character as a vertical 9:16 portrait, centered and tightly composed, with the enormous head dominating the image.\n\nMood: absurd, funny, bizarre, playful, exaggerated, slightly grotesque, and visually memorable.\n\nAvoid recognizable copyrighted characters, celebrity likenesses, existing artwork, logos, watermarks, text, plastic-looking skin, excessive CGI gloss, duplicated facial features, extra eyes, extra limbs, malformed hands, distorted teeth, blurry details, low resolution, and unnatural anatomy.]",
+    "sourceRange": {
+      "start": 77,
+      "end": 1750
+    },
+    "translations": {
+      "zh": "创作一幅原创、高度风格化的成年女性3D漫画肖像，采用夸张的喜剧面部特征，同时保留逼真质感。头部巨大，五官比例严重不对称，配有凸出的大眼、歪鼻子、垂下的大耳和露出杂乱牙齿的搞怪大笑。毛躁黑色卷发凌乱散开，具戏剧性轮廓光和极简工作室背景，纵向9:16画幅。",
+      "en": "Create an original, highly stylized 3D caricature portrait of an adult woman with extreme comedic facial exaggeration, believable human features, oversized head, bulging eyes, crooked nose, large ears, gap-toothed grin, frizzy chaotic dark hair, dramatic studio rim lighting, and a minimal neutral background in vertical 9:16 format."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "3D caricature portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
