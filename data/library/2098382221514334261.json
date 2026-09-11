@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:27:58.394Z",
+  "model": "unknown-image",
+  "prompt": "请将上传的地标旅行照片制作成一张3:4竖版“地标蚀刻邮票对照”编辑海报。\n\n不要采用上下双联。画面使用一张连续暖象牙色无涂层纸作为背景，只陈列两张斜向重叠的实体纸卡：\n\n后方左侧是一张较小的真实照片卡，约占海报宽度36%–44%，逆时针旋转约3–6度。完整、清楚地保留原始照片中的地标、观察角度、建筑结构、季节、天气、光线、环境和色彩；只允许轻微出版物调色。照片卡带窄幅素色纸边和轻微纸张厚度，不得缩成装饰性小图。\n\n前方右侧是一张更大的竖向蚀刻邮票，约占海报宽度58%–68%，顺时针旋转约2–4度，并自然遮挡部分照片卡。邮票使用厚实暖白旧纸，四条外边必须采用完全相同孔径、间距、深度和形状的规则半圆模切齿孔，四角也保持同一规律。表现纸张侧边、纤维和自然接触阴影，不使用华丽边框。\n\n邮票内部只根据同一张照片重构地标，不得放入照片副本。保持地标的原始观察角度、主体结构、方向、比例、天气和环境季节，只保留地标以及1–2项关键环境线索，例如树线、水面、山体、岩石框景、道路或邻近建筑。\n\n使用单色或克制双色铜版蚀刻语言：深蓝黑或炭黑主墨，允许从原图提取一种极小面积专色。通过细密交叉排线、平行刻线、点描、深浅线密度、旧墨缺印和纸白高光塑造层次。必须像真实凹版压印，不是铅笔素描、木刻、水彩、数字滤镜或平滑矢量图。\n\n邮票下部保留安静题签区域，只加入：\n“【真实地点英文名】”\n“LANDMARK PLATE 【编号】”\n“【一行5–9个英文单词的真实观察】”\n\n标题采用宽字距旧式衬线体，字段和观察句较小但清楚可读，像被油墨压入纸张。不得加入虚构面值、国家发行字样、邮戳、徽章、作者名、摄影师名、Logo、网址或其他文字。\n\n整体像博物馆版画室里保存的旅行标本：构图克制、大小关系明确、纸面留白充足，真实照片与蚀刻记忆之间形成清楚对照。\n\n避免：上下双联、等大并排、照片重复、照片直接印进邮票、多个邮票、额外卡片、齿孔不规则、齿孔上下左右不一致、装饰花框、假面值、假邮戳、虚构地标、改变观察角度、手持Mockup、桌面杂物、相框、作者署名、品牌、Logo、水印和乱码。",
+  "promptTranslations": {
+    "en": "Please turn the uploaded travel landmark photo into a 3:4 vertical editorial poster titled 'Landmark Etched Stamp Comparison'. Do not use a top-and-bottom diptych. The composition uses a single continuous sheet of warm ivory uncoated paper as the background, displaying only two diagonally overlapping physical paper cards: On the rear left is a smaller authentic photo card, occupying about 36%–44% of the poster's width, rotated counterclockwise by about 3–6 degrees. Completely and clearly preserve the landmark, viewing angle, architectural structure, season, weather, lighting, surroundings, and colors from the original photo; only subtle editorial color grading is permitted. The photo card features a narrow, plain paper border and slight paper thickness, and must not be reduced to a decorative thumbnail. On the front right is a larger vertical etched stamp, occupying about 58%–68% of the poster's width, rotated clockwise by about 2–4 degrees, naturally occluding part of the photo card behind it. The stamp uses thick, warm white aged paper; all four outer edges must feature regular semicircular die-cut perforations with identical hole diameter, spacing, depth, and shape, maintaining the same pattern at the four corners as well. Render paper edges, fibers, and natural contact drop shadows, without ornate decorative borders. Inside the stamp, reconstruct the landmark based exclusively on the same photograph; do not insert a duplicate of the photo. Preserve the landmark's original viewing angle, main structure, orientation, proportion, weather, and seasonal environment, keeping only the landmark itself and 1–2 key environmental cues, such as a treeline, water surface, mountain mass, rock framing, road, or neighboring architecture. Use a monochrome or restrained two-color copperplate etching language: deep blue-black or charcoal black as the primary ink, allowing a tiny accent of spot color extracted from the original image. Build depth and tonal gradations through dense cross-hatching, parallel engraved lines, stippling, varying line density, vintage ink holidays, and paper-white highlights. It must look like an authentic intaglio press print, not a pencil sketch, woodcut, watercolor, digital filter, or smooth vector graphic. Reserve a quiet caption area at the bottom of the stamp, containing only: '[Real Place English Name]' 'LANDMARK PLATE [Number]' '[One line of 5–9 English words capturing a real observation]' The title uses widely spaced Old Style serif typography; the fields and observation line are smaller yet crisply legible, appearing debossed into the paper with printing ink. Do not include fictional denominations, country of issue inscriptions, postmarks, coats of arms, author names, photographer credits, logos, URLs, or other extraneous text. The overall aesthetic resembles a travel specimen preserved in a museum print room: restrained composition, clear size hierarchy, generous paper margins, creating a distinct comparison between the authentic photograph and the etched memory. Avoid: top-and-bottom diptychs, side-by-side equal sizes, photo duplication, printing the photo directly onto the stamp, multiple stamps, extra cards, irregular perforations, inconsistent perforations across edges, ornate borders, fake postage denominations, fake cancellation marks, fictional landmarks, altered viewing angles, handheld mockups, desk clutter, picture frames, artist signatures, brands, logos, watermarks, and garbled text."
+  },
+  "summaryTranslations": {
+    "en": "Generate a 3:4 vertical poster based on a travel photo, presenting the original photograph diagonally overlapping a vintage copperplate-etched stamp card in comparative display."
+  },
+  "translationVersion": 2,
+  "summary": "基于旅行照片生成3:4竖版海报，将原照片与复古铜版蚀刻风格的邮票卡片斜向重叠对比陈列。",
+  "summaryEn": "Generates a 3:4 poster comparing an original landmark photo with a vintage copperplate etching stamp card in an overlapping layout.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098382221514334261",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2098382221514334261",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-11T12:04:42.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "zh",
+    "originalText": "【LANDMARK ETCHING STAMP PAIR｜地标蚀刻邮票对照】\n蚀刻邮票则把庞大的建筑压缩成一枚可以收藏的印象。细密排线没有追着照片的每个细节跑，只留下地标的骨架、天气与观看路径；齿孔、旧纸和接触阴影又让它从一幅画变成了一个真实存在的小物件。\n\nprompt：\n请将上传的地标旅行照片制作成一张3:4竖版“地标蚀刻邮票对照”编辑海报。\n\n不要采用上下双联。画面使用一张连续暖象牙色无涂层纸作为背景，只陈列两张斜向重叠的实体纸卡：\n\n后方左侧是一张较小的真实照片卡，约占海报宽度36%–44%，逆时针旋转约3–6度。完整、清楚地保留原始照片中的地标、观察角度、建筑结构、季节、天气、光线、环境和色彩；只允许轻微出版物调色。照片卡带窄幅素色纸边和轻微纸张厚度，不得缩成装饰性小图。\n\n前方右侧是一张更大的竖向蚀刻邮票，约占海报宽度58%–68%，顺时针旋转约2–4度，并自然遮挡部分照片卡。邮票使用厚实暖白旧纸，四条外边必须采用完全相同孔径、间距、深度和形状的规则半圆模切齿孔，四角也保持同一规律。表现纸张侧边、纤维和自然接触阴影，不使用华丽边框。\n\n邮票内部只根据同一张照片重构地标，不得放入照片副本。保持地标的原始观察角度、主体结构、方向、比例、天气和环境季节，只保留地标以及1–2项关键环境线索，例如树线、水面、山体、岩石框景、道路或邻近建筑。\n\n使用单色或克制双色铜版蚀刻语言：深蓝黑或炭黑主墨，允许从原图提取一种极小面积专色。通过细密交叉排线、平行刻线、点描、深浅线密度、旧墨缺印和纸白高光塑造层次。必须像真实凹版压印，不是铅笔素描、木刻、水彩、数字滤镜或平滑矢量图。\n\n邮票下部保留安静题签区域，只加入：\n“【真实地点英文名】”\n“LANDMARK PLATE 【编号】”\n“【一行5–9个英文单词的真实观察】”\n\n标题采用宽字距旧式衬线体，字段和观察句较小但清楚可读，像被油墨压入纸张。不得加入虚构面值、国家发行字样、邮戳、徽章、作者名、摄影师名、Logo、网址或其他文字。\n\n整体像博物馆版画室里保存的旅行标本：构图克制、大小关系明确、纸面留白充足，真实照片与蚀刻记忆之间形成清楚对照。\n\n避免：上下双联、等大并排、照片重复、照片直接印进邮票、多个邮票、额外卡片、齿孔不规则、齿孔上下左右不一致、装饰花框、假面值、假邮戳、虚构地标、改变观察角度、手持Mockup、桌面杂物、相框、作者署名、品牌、Logo、水印和乱码。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7zgIlbIAAfCd5.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7zgIlbIAAfCd5.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7zgIfawAAMMZX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7zgIfawAAMMZX.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7zgImaUAEtXPf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7zgImaUAEtXPf.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7zgIfaMAA7ddi.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7zgIfaMAA7ddi.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 115
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2098382221514334261",
+  "coverUrl": "https://pbs.twimg.com/media/HR7zgIlbIAAfCd5.jpg",
+  "coverPath": "images/2098382221514334261-1.jpg",
+  "imagePaths": [
+    "images/2098382221514334261-1.jpg",
+    "images/2098382221514334261-2.jpg",
+    "images/2098382221514334261-3.jpg",
+    "images/2098382221514334261-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR7zgIlbIAAfCd5",
+    "x-image:/media/HR7zgIfawAAMMZX",
+    "x-image:/media/HR7zgImaUAEtXPf",
+    "x-image:/media/HR7zgIfaMAA7ddi",
+    "x-post:2098382221514334261"
+  ],
+  "analysis": {
+    "summary": "基于旅行照片生成3:4竖版海报，将原照片与复古铜版蚀刻风格的邮票卡片斜向重叠对比陈列。",
+    "summaryEn": "Generates a 3:4 poster comparing an original landmark photo with a vintage copperplate etching stamp card in an overlapping layout.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图与提示词中的左侧原始照片卡、右侧蚀刻邮票、文字排版、纸质质感及构图比例高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "请将上传的地标旅行照片制作成一张3:4竖版“地标蚀刻邮票对照”编辑海报。\n\n不要采用上下双联。画面使用一张连续暖象牙色无涂层纸作为背景，只陈列两张斜向重叠的实体纸卡：\n\n后方左侧是一张较小的真实照片卡，约占海报宽度36%–44%，逆时针旋转约3–6度。完整、清楚地保留原始照片中的地标、观察角度、建筑结构、季节、天气、光线、环境和色彩；只允许轻微出版物调色。照片卡带窄幅素色纸边和轻微纸张厚度，不得缩成装饰性小图。\n\n前方右侧是一张更大的竖向蚀刻邮票，约占海报宽度58%–68%，顺时针旋转约2–4度，并自然遮挡部分照片卡。邮票使用厚实暖白旧纸，四条外边必须采用完全相同孔径、间距、深度和形状的规则半圆模切齿孔，四角也保持同一规律。表现纸张侧边、纤维和自然接触阴影，不使用华丽边框。\n\n邮票内部只根据同一张照片重构地标，不得放入照片副本。保持地标的原始观察角度、主体结构、方向、比例、天气和环境季节，只保留地标以及1–2项关键环境线索，例如树线、水面、山体、岩石框景、道路或邻近建筑。\n\n使用单色或克制双色铜版蚀刻语言：深蓝黑或炭黑主墨，允许从原图提取一种极小面积专色。通过细密交叉排线、平行刻线、点描、深浅线密度、旧墨缺印和纸白高光塑造层次。必须像真实凹版压印，不是铅笔素描、木刻、水彩、数字滤镜或平滑矢量图。\n\n邮票下部保留安静题签区域，只加入：\n“【真实地点英文名】”\n“LANDMARK PLATE 【编号】”\n“【一行5–9个英文单词的真实观察】”\n\n标题采用宽字距旧式衬线体，字段和观察句较小但清楚可读，像被油墨压入纸张。不得加入虚构面值、国家发行字样、邮戳、徽章、作者名、摄影师名、Logo、网址或其他文字。\n\n整体像博物馆版画室里保存的旅行标本：构图克制、大小关系明确、纸面留白充足，真实照片与蚀刻记忆之间形成清楚对照。\n\n避免：上下双联、等大并排、照片重复、照片直接印进邮票、多个邮票、额外卡片、齿孔不规则、齿孔上下左右不一致、装饰花框、假面值、假邮戳、虚构地标、改变观察角度、手持Mockup、桌面杂物、相框、作者署名、品牌、Logo、水印和乱码。",
+    "sourceRange": {
+      "start": 138,
+      "end": 1022
+    },
+    "translations": {
+      "zh": "请将上传的地标旅行照片制作成一张3:4竖版“地标蚀刻邮票对照”编辑海报。\n\n不要采用上下双联。画面使用一张连续暖象牙色无涂层纸作为背景，只陈列两张斜向重叠的实体纸卡：\n\n后方左侧是一张较小的真实照片卡，约占海报宽度36%–44%，逆时针旋转约3–6度。完整、清楚地保留原始照片中的地标、观察角度、建筑结构、季节、天气、光线、环境和色彩；只允许轻微出版物调色。照片卡带窄幅素色纸边和轻微纸张厚度，不得缩成装饰性小图。\n\n前方右侧是一张更大的竖向蚀刻邮票，约占海报宽度58%–68%，顺时针旋转约2–4度，并自然遮挡部分照片卡。邮票使用厚实暖白旧纸，四条外边必须采用完全相同孔径、间距、深度和形状的规则半圆模切齿孔，四角也保持同一规律。表现纸张侧边、纤维和自然接触阴影，不使用华丽边框。\n\n邮票内部只根据同一张照片重构地标，不得放入照片副本。保持地标的原始观察角度、主体结构、方向、比例、天气和环境季节，只保留地标以及1–2项关键环境线索，例如树线、水面、山体、岩石框景、道路或邻近建筑。\n\n使用单色或克制双色铜版蚀刻语言：深蓝黑或炭黑主墨，允许从原图提取一种极小面积专色。通过细密交叉排线、平行刻线、点描、深浅线密度、旧墨缺印和纸白高光塑造层次。必须像真实凹版压印，不是铅笔素描、木刻、水彩、数字滤镜或平滑矢量图。\n\n邮票下部保留安静题签区域，只加入：\n“【真实地点英文名】”\n“LANDMARK PLATE 【编号】”\n“【一行5–9个英文单词的真实观察】”\n\n标题采用宽字距旧式衬线体，字段和观察句较小但清楚可读，像被油墨压入纸张。不得加入虚构面值、国家发行字样、邮戳、徽章、作者名、摄影师名、Logo、网址或其他文字。\n\n整体像博物馆版画室里保存的旅行标本：构图克制、大小关系明确、纸面留白充足，真实照片与蚀刻记忆之间形成清楚对照。\n\n避免：上下双联、等大并排、照片重复、照片直接印进邮票、多个邮票、额外卡片、齿孔不规则、齿孔上下左右不一致、装饰花框、假面值、假邮戳、虚构地标、改变观察角度、手持Mockup、桌面杂物、相框、作者署名、品牌、Logo、水印和乱码。",
+      "en": "Create a 3:4 editorial poster titled 'Landmark Etching Stamp Pair' using an uploaded travel photo. Set on warm ivory uncoated paper with two diagonally overlapping cards. Left rear: smaller genuine photo card rotated counterclockwise 3–6 degrees, retaining landmark, perspective, light, and colors. Right front: larger vertical etching stamp rotated clockwise 2–4 degrees, overlapping the photo. Stamp features warm white aged paper, precise perforated edges, and intaglio copperplate etching in monochrome or restrained dual-tone ink. Bottom features minimal typography: landmark name, plate number, and short observation. Avoid mockups, extra cards, or ornaments."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "地标照片与蚀刻邮票对照的海报设计生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
