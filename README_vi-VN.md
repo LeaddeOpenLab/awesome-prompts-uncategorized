@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**49** Prompt · Bổ sung mới nhất: **2026-09-11**
+**50** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,36 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098291700355432939"></a>
+
+### Đang dịch
+
+Tác giả：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2098291700355432939)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Phương tiện · Đã xuất bản
+
+Bài gốc：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2098230798759457070)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098291700355432939-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098291700355432939-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098291700355432939-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098291700355432939-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098283754599174194"></a>
 

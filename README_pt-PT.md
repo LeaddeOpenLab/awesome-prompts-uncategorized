@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**49** Prompts · Adição mais recente: **2026-09-11**
+**50** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,36 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098291700355432939"></a>
+
+### Tradução em curso
+
+Autor：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2098291700355432939)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Veículo · Publicado
+
+Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2098230798759457070)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098291700355432939-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098291700355432939-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098291700355432939-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098291700355432939-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098283754599174194"></a>
 

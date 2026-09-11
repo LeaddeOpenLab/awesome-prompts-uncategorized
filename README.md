@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**49** Prompts · Latest addition: **2026-09-11**
+**50** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,36 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098291700355432939"></a>
+
+### A stylish portrait of a young woman in the front seat of a car, wearing a black blazer with light-wash jeans, complemented by brown leather upholstery and soft natural light.
+
+Author：[@afrinxai](https://x.com/afrinxai) · [Source](https://x.com/afrinxai/status/2098291700355432939)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Vehicle · Published
+
+Source：[@afrinxai](https://x.com/afrinxai) · [Source](https://x.com/afrinxai/status/2098230798759457070)
+
+**Summary:** A stylish portrait of a young woman in the front seat of a car, wearing a black blazer with light-wash jeans, complemented by brown leather upholstery and soft natural light.
+
+<img src="images/2098291700355432939-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098291700355432939-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098291700355432939-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098291700355432939-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. A chic and stylish portrait of a young woman with long, dark brown wavy hair, looking confidently directly at the camera. She is seated comfortably in the front seat of a car with brown leather upholstery, leaning back against the headrest. Her outfit consists of a tailored black blazer with peak lapels, a visible front button, and a breast pocket flap, paired with high-waisted, light-wash denim jeans. The focus is sharp on her expression and the textures of her black blazer and the denim jeans. Her legs are relaxed, with the light-wash jeans clearly visible. The car interior shows brown leather seats with light stitching and a black door panel. A blurred background of green trees and bushes is visible through the car window. The natural daylight is soft and flattering. The composition is a medium shot, with a shallow depth of field, rendering the car details and background in soft blur. Photo quality is high-resolution, with natural color and texture.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098283754599174194"></a>
 
