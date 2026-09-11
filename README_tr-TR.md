@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**79** Prompt · Son eklenen: **2026-09-11**
+**80** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1581,6 +1581,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
+<a name="prompt-2098472353114079243"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@iamneubert](https://x.com/iamneubert) · [Orijinal gönderi](https://x.com/iamneubert/status/2098472353114079243)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098472353114079243.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098486894028107840"></a>
 
 ### Çeviri sürüyor
@@ -1605,20 +1627,20 @@ Portre / Selfie · Yayımlandı
 
 <a name="prompt-2098469621892587716"></a>
 
-### Çeviri sürüyor
+### Pencere kenarında çenesini eline dayamış, ince gömleği omzundan kaymış, tembel ve baştan çıkarıcı kadın portresi istemi.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098469621892587716)
 
 Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pencere kenarında çenesini eline dayamış, ince gömleği omzundan kaymış, tembel ve baştan çıkarıcı kadın portresi istemi.
 
 <img src="images/2098469621892587716-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+derin dekolteli ince gömlek; göğüste geniş ten dekoltesi; kayıp düşen tül elbise; pencereye yaslanıp çenesini eline dayamış; hafifçe kalkan kaşlar ve bakışlar; dudak kenarlarında bir tebessüm; tembelce çekici ve baştan çıkarıcı
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1627,20 +1649,20 @@ Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098476919939342835"></a>
 
-### Çeviri sürüyor
+### Sabahın erken saatlerinde saçını tarayan, antik tarzda soğuk bir kadın figürünün tasviri.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098476919939342835)
 
 Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabahın erken saatlerinde saçını tarayan, antik tarzda soğuk bir kadın figürünün tasviri.
 
 <img src="images/2098476919939342835-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Geniş yakalı gecelik; göğüste genişçe açıkta kalan ten; tamamen belirgin köprücük kemikleri; sabah uyanıp saç tarama; hafifçe kaldırılmış çene; soğuk bir yüz ifadesi; narin ve mesafeli
 ```
 
 [↑ Kategorilere dön](#catalog)

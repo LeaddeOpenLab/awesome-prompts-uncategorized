@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**79** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**80** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1564,6 +1564,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
+<a name="prompt-2098472353114079243"></a>
+
+### Übersetzung läuft
+
+Autor：[@iamneubert](https://x.com/iamneubert) · [Originalbeitrag](https://x.com/iamneubert/status/2098472353114079243)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098472353114079243.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098486894028107840"></a>
 
 ### Übersetzung läuft
@@ -1588,20 +1610,20 @@ Porträt / Selfie · Veröffentlicht
 
 <a name="prompt-2098469621892587716"></a>
 
-### Übersetzung läuft
+### Prompt für das Porträt einer trägen, verführerischen Frau, die mit herabrutschendem dünnem Hemd und aufgestütztem Kinn am Fenster lehnt.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2098469621892587716)
 
 Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für das Porträt einer trägen, verführerischen Frau, die mit herabrutschendem dünnem Hemd und aufgestütztem Kinn am Fenster lehnt.
 
 <img src="images/2098469621892587716-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+dünnes Oberteil mit weitem Ausschnitt; viel sichtbare Haut am Dekolleté; herabrutschendes Gazegewand; am Fenster lehnend das Kinn auf die Hand gestützt; leicht gehobene Brauen und Blicke; ein Lächeln auf den Lippenwinkeln; lasziv und verführerisch
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1610,20 +1632,20 @@ Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098476919939342835"></a>
 
-### Übersetzung läuft
+### Darstellung einer kühlen Frau im antiken Stil, die sich am frühen Morgen die Haare kämmt.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2098476919939342835)
 
 Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Darstellung einer kühlen Frau im antiken Stil, die sich am frühen Morgen die Haare kämmt.
 
 <img src="images/2098476919939342835-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Schlafgewand mit weitem Kragen; viel freie Haut auf der Brust; deutlich sichtbare Schlüsselbeine; morgendliches Haarekämmen nach dem Aufstehen; leicht angehobenes Kinn; kalter, distanzierter Gesichtsausdruck; leicht und unnahbar
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

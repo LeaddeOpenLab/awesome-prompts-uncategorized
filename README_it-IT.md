@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**79** Prompt · Ultima aggiunta: **2026-09-11**
+**80** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1564,6 +1564,28 @@ Traduzione in corso
 
 ## Altro
 
+<a name="prompt-2098472353114079243"></a>
+
+### Traduzione in corso
+
+Autore：[@iamneubert](https://x.com/iamneubert) · [Post originale](https://x.com/iamneubert/status/2098472353114079243)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098472353114079243.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098486894028107840"></a>
 
 ### Traduzione in corso
@@ -1588,20 +1610,20 @@ Traduzione in corso
 
 <a name="prompt-2098469621892587716"></a>
 
-### Traduzione in corso
+### Prompt per il ritratto di una donna languida e seducente, appoggiata alla finestra con la mano sotto il mento e la camicia sottile che scivola.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098469621892587716)
 
 Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per il ritratto di una donna languida e seducente, appoggiata alla finestra con la mano sotto il mento e la camicia sottile che scivola.
 
 <img src="images/2098469621892587716-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+camicetta sottile e scollata; pelle scoperta sul petto; abito di velo che scivola giù; appoggiata alla finestra con il mento sulla mano; sopracciglia e sguardo leggermente sollevati; sorriso appena accennato agli angoli della bocca; indolente e seducente
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1610,20 +1632,20 @@ Traduzione in corso
 
 <a name="prompt-2098476919939342835"></a>
 
-### Traduzione in corso
+### Raffigurazione dell'immagine di una donna in stile antico e dall'aria fredda che si pettina all'alba.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098476919939342835)
 
 Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Raffigurazione dell'immagine di una donna in stile antico e dall'aria fredda che si pettina all'alba.
 
 <img src="images/2098476919939342835-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Abito da notte dal colletto ampio; ampia parte del petto scoperta; clavicole ben evidenti; si pettina al risveglio mattutino; mento leggermente sollevato; espressione fredda; eterea e distante
 ```
 
 [↑ Torna alle categorie](#catalog)

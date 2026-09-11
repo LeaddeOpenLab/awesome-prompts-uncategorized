@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**79** Prompts · Última adição: **2026-09-11**
+**80** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1581,6 +1581,28 @@ Tradução em andamento
 
 ## Outros
 
+<a name="prompt-2098472353114079243"></a>
+
+### Tradução em andamento
+
+Autor：[@iamneubert](https://x.com/iamneubert) · [Publicação original](https://x.com/iamneubert/status/2098472353114079243)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098472353114079243.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098486894028107840"></a>
 
 ### Tradução em andamento
@@ -1605,20 +1627,20 @@ Tradução em andamento
 
 <a name="prompt-2098469621892587716"></a>
 
-### Tradução em andamento
+### Prompt de retrato de mulher lânguida e sedutora apoiada na janela com a mão no queixo e a blusa fina escorregando.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098469621892587716)
 
 Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato de mulher lânguida e sedutora apoiada na janela com a mão no queixo e a blusa fina escorregando.
 
 <img src="images/2098469621892587716-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+camisa fina e decotada; muita pele à mostra no peito; tecido de gaze deslizando; apoiada na janela com o queixo na mão; sobrancelhas e olhar levemente arqueados; sorriso no canto dos lábios; indolente e sedutora
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1627,20 +1649,20 @@ Tradução em andamento
 
 <a name="prompt-2098476919939342835"></a>
 
-### Tradução em andamento
+### Representação de uma mulher fria em estilo antigo penteando os cabelos nas primeiras horas da manhã.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098476919939342835)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Representação de uma mulher fria em estilo antigo penteando os cabelos nas primeiras horas da manhã.
 
 <img src="images/2098476919939342835-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Vestimenta de dormir com gola ampla; grande porção de pele exposta no peito; clavículas totalmente visíveis; penteando os cabelos ao acordar pela manhã; queixo levemente erguido; expressão fria; etérea e distante
 ```
 
 [↑ Voltar às categorias](#catalog)

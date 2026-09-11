@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**79** Prompt · Bổ sung mới nhất: **2026-09-11**
+**80** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1599,6 +1599,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
+<a name="prompt-2098472353114079243"></a>
+
+### Đang dịch
+
+Tác giả：[@iamneubert](https://x.com/iamneubert) · [Bài gốc](https://x.com/iamneubert/status/2098472353114079243)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098472353114079243.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098486894028107840"></a>
 
 ### Đang dịch
@@ -1623,20 +1645,20 @@ Chân dung / Ảnh tự chụp · Đã xuất bản
 
 <a name="prompt-2098469621892587716"></a>
 
-### Đang dịch
+### Gợi ý chân dung người phụ nữ quyến rũ lười biếng tựa cửa sổ chống cằm với chiếc áo mỏng buông lơi.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098469621892587716)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Gợi ý chân dung người phụ nữ quyến rũ lười biếng tựa cửa sổ chống cằm với chiếc áo mỏng buông lơi.
 
 <img src="images/2098469621892587716-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+áo mỏng cổ trễ; để lộ nhiều da thịt ở ngực; áo voan trễ xuống; tựa cửa sổ chống cằm; mày mắt khẽ nhướng; khóe môi mỉm cười; lười biếng quyến rũ
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1645,20 +1667,20 @@ Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đ�
 
 <a name="prompt-2098476919939342835"></a>
 
-### Đang dịch
+### Miêu tả hình ảnh người phụ nữ phong cách cổ trang lạnh lùng đang chải tóc lúc sáng sớm.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098476919939342835)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Miêu tả hình ảnh người phụ nữ phong cách cổ trang lạnh lùng đang chải tóc lúc sáng sớm.
 
 <img src="images/2098476919939342835-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Áo ngủ cổ rộng; để lộ khoảng da lớn trước ngực; xương quai xanh lộ rõ; sáng sớm thức dậy chải tóc; hơi ngẩng cằm; vẻ mặt lạnh lùng; thanh thoát xa cách
 ```
 
 [↑ Về danh mục](#catalog)

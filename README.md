@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**79** Prompts · Latest addition: **2026-09-11**
+**80** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1741,6 +1741,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098472353114079243"></a>
+
+### A stone statue comes to life and performs ballet in an estate garden captured in a dynamic single take.
+
+Author：[@iamneubert](https://x.com/iamneubert) · [Source](https://x.com/iamneubert/status/2098472353114079243)
+
+Other · Published
+
+**Summary:** A stone statue comes to life and performs ballet in an estate garden captured in a dynamic single take.
+
+<img src="covers/2098472353114079243.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Cinematic Unreal Engine Scene, a stone statue comes alive and dances a beautiful ballet through the garden of a large estate, fast moving dynamic camera, single take.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098486894028107840"></a>
 

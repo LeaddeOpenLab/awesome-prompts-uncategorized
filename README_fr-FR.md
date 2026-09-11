@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**79** Prompts · Dernier ajout: **2026-09-11**
+**80** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1564,6 +1564,28 @@ Traduction en cours
 
 ## Autres
 
+<a name="prompt-2098472353114079243"></a>
+
+### Traduction en cours
+
+Auteur：[@iamneubert](https://x.com/iamneubert) · [Publication originale](https://x.com/iamneubert/status/2098472353114079243)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098472353114079243.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098486894028107840"></a>
 
 ### Traduction en cours
@@ -1588,20 +1610,20 @@ Traduction en cours
 
 <a name="prompt-2098469621892587716"></a>
 
-### Traduction en cours
+### Prompt de portrait d'une femme langoureuse et séduisante accoudée à la fenêtre, la chemise fine glissant de son épaule.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2098469621892587716)
 
 Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait d'une femme langoureuse et séduisante accoudée à la fenêtre, la chemise fine glissant de son épaule.
 
 <img src="images/2098469621892587716-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+chemise fine décolletée; large étendue de peau sur la poitrine; vêtement de gaze qui glisse; accoudée à la fenêtre le menton dans la main; sourcils et regard légèrement haussés; sourire au coin des lèvres; nonchalante et envoûtante
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1610,20 +1632,20 @@ Traduction en cours
 
 <a name="prompt-2098476919939342835"></a>
 
-### Traduction en cours
+### Représentation d'une femme froide de style ancien se coiffant au petit matin.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2098476919939342835)
 
 Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Représentation d'une femme froide de style ancien se coiffant au petit matin.
 
 <img src="images/2098476919939342835-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Vêtement de nuit à large col ; large surface de peau exposée sur la poitrine ; clavicules bien visibles ; se coiffant au réveil le matin ; menton légèrement relevé ; expression froide et détachée ; éthérée et distante
 ```
 
 [↑ Retour aux catégories](#catalog)

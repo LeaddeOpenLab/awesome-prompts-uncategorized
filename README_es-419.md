@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**79** Prompts · Última incorporación: **2026-09-11**
+**80** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1564,6 +1564,28 @@ Traducción en curso
 
 ## Otros
 
+<a name="prompt-2098472353114079243"></a>
+
+### Traducción en curso
+
+Autor：[@iamneubert](https://x.com/iamneubert) · [Publicación original](https://x.com/iamneubert/status/2098472353114079243)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098472353114079243.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098486894028107840"></a>
 
 ### Traducción en curso
@@ -1588,20 +1610,20 @@ Traducción en curso
 
 <a name="prompt-2098469621892587716"></a>
 
-### Traducción en curso
+### Prompt de retrato de una mujer lánguida y seductora, apoyada en la ventana con la barbilla en la mano y la blusa delgada deslizándose.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2098469621892587716)
 
 Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato de una mujer lánguida y seductora, apoyada en la ventana con la barbilla en la mano y la blusa delgada deslizándose.
 
 <img src="images/2098469621892587716-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+blusa fina de escote bajo; piel visible en el pecho; tela ligera que resbala; apoyada en la ventana con la mano en la barbilla; cejas y mirada ligeramente levantadas; sonrisa en la comisura de los labios; lánguida y seductora
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1610,20 +1632,20 @@ Traducción en curso
 
 <a name="prompt-2098476919939342835"></a>
 
-### Traducción en curso
+### Representación de una mujer de estilo antiguo y semblante frío peinándose por la mañana temprano.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2098476919939342835)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Representación de una mujer de estilo antiguo y semblante frío peinándose por la mañana temprano.
 
 <img src="images/2098476919939342835-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Ropa de dormir de cuello amplio; gran parte del pecho descubierto; clavículas totalmente visibles; peinándose al levantarse por la mañana; barbilla ligeramente levantada; expresión fría e indiferente; etérea y distante
 ```
 
 [↑ Volver a categorías](#catalog)
