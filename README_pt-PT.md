@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**46** Prompts · Adição mais recente: **2026-09-11**
+**47** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1016,6 +1016,38 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098266045597519916"></a>
+
+### Tradução em curso
+
+Autor：[@Soranlan](https://x.com/Soranlan) · [Publicação original](https://x.com/Soranlan/status/2098266045597519916)
+
+Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
+
+Publicação original：[@Soranlan](https://x.com/Soranlan) · [Publicação original](https://x.com/Soranlan/status/2098258401344229596)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098266045597519916-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098266045597519916-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098266045597519916-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098266045597519916-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2098266045597519916-5.jpg" alt="Imagem 5" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098260186737901631"></a>
 

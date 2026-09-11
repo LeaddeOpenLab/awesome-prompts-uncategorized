@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**46** 件 · 最新の追加: **2026-09-11**
+**47** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1022,6 +1022,38 @@ CGI毛皮、
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2098266045597519916"></a>
+
+### 翻訳中
+
+作者：[@Soranlan](https://x.com/Soranlan) · [元の投稿](https://x.com/Soranlan/status/2098266045597519916)
+
+ポートレート / セルフィー · キャラクター · 要旨 / 背景 · 配信済み
+
+元の投稿：[@Soranlan](https://x.com/Soranlan) · [元の投稿](https://x.com/Soranlan/status/2098258401344229596)
+
+**概要:** 翻訳中
+
+<img src="images/2098266045597519916-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098266045597519916-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098266045597519916-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098266045597519916-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2098266045597519916-5.jpg" alt="画像 5" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098260186737901631"></a>
 

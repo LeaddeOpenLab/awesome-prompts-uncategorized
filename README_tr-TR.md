@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**46** Prompt · Son eklenen: **2026-09-11**
+**47** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1016,6 +1016,38 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098266045597519916"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2098266045597519916)
+
+Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
+
+Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2098258401344229596)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098266045597519916-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098266045597519916-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098266045597519916-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098266045597519916-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2098266045597519916-5.jpg" alt="Görsel 5" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098260186737901631"></a>
 

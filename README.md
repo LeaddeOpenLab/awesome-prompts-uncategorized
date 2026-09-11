@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**46** Prompts · Latest addition: **2026-09-11**
+**47** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1217,6 +1217,38 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098266045597519916"></a>
+
+### This prompt is used to generate a traditional-style female snapshot set in the bustling Tang dynasty Chang'an night market, employing a wide-angle lens, tilted perspective, direct on-camera hard flash, and cool-versus-warm lighting contrast to portray an opulent hanfu-clad woman looking back and brushing her sleeve.
+
+Author：[@Soranlan](https://x.com/Soranlan) · [Source](https://x.com/Soranlan/status/2098266045597519916)
+
+Portrait / Selfie · Character · Abstract / Background · Published
+
+Source：[@Soranlan](https://x.com/Soranlan) · [Source](https://x.com/Soranlan/status/2098258401344229596)
+
+**Summary:** This prompt is used to generate a traditional-style female snapshot set in the bustling Tang dynasty Chang'an night market, employing a wide-angle lens, tilted perspective, direct on-camera hard flash, and cool-versus-warm lighting contrast to portray an opulent hanfu-clad woman looking back and brushing her sleeve.
+
+<img src="images/2098266045597519916-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098266045597519916-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098266045597519916-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098266045597519916-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098266045597519916-5.jpg" alt="Image 5" width="480" />
+
+**Prompt**
+
+```text
+ultra wide close perspective (14~20mm), exaggerated perspective, dutch tilt 15°, slight barrel distortion, handheld snapshot aesthetic, strong depth: sharp subject, deep background layers, subject distance 0.5m, direct on camera hard flash, bright catchlights, ambient underexposed by 1~2 stops, flash falloff, specular highlights on skin/jewelry, fast shutter flash snapshot look, high frequency detail, filmic grain medium, halation + micro contrast, subtle chromatic aberration, wind driven motion on edges, Ancient China Tang dynasty aesthetic, bustling night market, East Asian female, delicate refined facial features, big expressive eyes, small cherry mouth, extremely voluptuous figure, exaggerated large bust, extremely high aesthetic standard, flawless bone structure, porcelain skin quality, high status, clean silhouette, premium materials, high production value, looking back over her shoulder with a playful alluring smile, walking rapidly through the dense crowd, one hand raising an intricately woven silk sleeve brushing close to the lens, bustling Chang'an street, glowing red paper lanterns, motion-blurred pedestrians in traditional hanfu, flying sparks from street vendors, dense vibrant atmosphere, cool hard flash on foreground subject vs warm ambient practicals in background, subtle 'Soran' element naturally integrated into silk fabric embroidery, faint aesthetic signature, organic blending, harmonious composition, non intrusive, almost invisible.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098260186737901631"></a>
 

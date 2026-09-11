@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**46** Prompts · Última adição: **2026-09-11**
+**47** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1016,6 +1016,38 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098266045597519916"></a>
+
+### Tradução em andamento
+
+Autor：[@Soranlan](https://x.com/Soranlan) · [Publicação original](https://x.com/Soranlan/status/2098266045597519916)
+
+Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
+
+Publicação original：[@Soranlan](https://x.com/Soranlan) · [Publicação original](https://x.com/Soranlan/status/2098258401344229596)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098266045597519916-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098266045597519916-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098266045597519916-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098266045597519916-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2098266045597519916-5.jpg" alt="Imagem 5" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098260186737901631"></a>
 

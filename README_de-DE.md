@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**46** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**47** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1016,6 +1016,38 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098266045597519916"></a>
+
+### Übersetzung läuft
+
+Autor：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2098266045597519916)
+
+Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
+
+Originalbeitrag：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2098258401344229596)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098266045597519916-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098266045597519916-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098266045597519916-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098266045597519916-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2098266045597519916-5.jpg" alt="Bild 5" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098260186737901631"></a>
 

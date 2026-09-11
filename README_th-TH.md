@@ -19,7 +19,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**46** รายการ · เพิ่มล่าสุด: **2026-09-11**
+**47** รายการ · เพิ่มล่าสุด: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1040,6 +1040,38 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 <a name="category-other"></a>
 
 ## อื่น ๆ
+
+<a name="prompt-2098266045597519916"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@Soranlan](https://x.com/Soranlan) · [โพสต์ต้นฉบับ](https://x.com/Soranlan/status/2098266045597519916)
+
+ภาพบุคคล / เซลฟี่ · ตัวละคร · บทคัดย่อ / ความเป็นมา · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@Soranlan](https://x.com/Soranlan) · [โพสต์ต้นฉบับ](https://x.com/Soranlan/status/2098258401344229596)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098266045597519916-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098266045597519916-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2098266045597519916-3.jpg" alt="รูปภาพ 3" width="480" />
+
+<img src="images/2098266045597519916-4.jpg" alt="รูปภาพ 4" width="480" />
+
+<img src="images/2098266045597519916-5.jpg" alt="รูปภาพ 5" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2098260186737901631"></a>
 

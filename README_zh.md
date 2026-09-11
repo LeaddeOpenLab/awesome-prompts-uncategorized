@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**46** 条内容 · 最新收录: **2026-09-11**
+**47** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1023,6 +1023,38 @@ CGI毛发、
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098266045597519916"></a>
+
+### 翻译中
+
+作者：[@Soranlan](https://x.com/Soranlan) · [查看 X 原帖](https://x.com/Soranlan/status/2098266045597519916)
+
+人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
+
+查看 X 原帖：[@Soranlan](https://x.com/Soranlan) · [查看 X 原帖](https://x.com/Soranlan/status/2098258401344229596)
+
+**概括:** 翻译中
+
+<img src="images/2098266045597519916-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098266045597519916-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098266045597519916-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098266045597519916-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2098266045597519916-5.jpg" alt="图片 5" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098260186737901631"></a>
 
