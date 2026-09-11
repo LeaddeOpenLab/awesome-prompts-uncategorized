@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T08:51:33.994Z",
+  "model": "veo",
+  "prompt": "{\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"fps\": 30,\n  \"style\": \"photorealistic premium tech commercial, cinematic macro photography\",\n\n  \"scene\": \"A 3-inch-tall adult male presenter in black streetwear with subtle neon-cyan accents interacts with gigantic premium black wireless headphones on a white marble studio desk.\",\n\n  \"action\": [\n    \"0-3s: The miniature presenter confidently runs along the curved matte-black aluminum headband. Ultra-low macro tracking camera follows directly behind him.\",\n    \"3-6s: He reaches an oversized knurled metal volume dial, grips it with both hands and forcefully rotates it. A subtle translucent sonic shockwave expands from the headphones.\",\n    \"6-8s: He jumps from the headband onto the giant plush black leather memory-foam ear cushion, which visibly compresses on impact.\",\n    \"8-10s: He stands on the cushion, smiles at the camera and gives a quick thumbs-up as the camera rapidly cranes upward and pulls back, revealing the full headphones, laptop and coffee cup on the desk.\"\n  ],\n\n  \"camera\": \"Extreme macro shallow depth of field, smooth tracking, controlled whip-pan to the dial, dynamic follow-through on the jump, then rapid crane-up pullback into a wide hero shot.\",\n\n  \"lighting\": \"Soft studio lighting with subtle cyan and electric-magenta rim lights, realistic metal, leather and marble reflections.\",\n\n  \"audio\": {\n    \"music\": \"NONE\",\n    \"dialogue\": \"NONE\",\n    \"voiceover\": \"NONE\",\n    \"effects\": \"Realistic sneaker squeaks, mechanical dial clicks, deep rotation sound, subtle sonic whoosh and soft leather cushion impact.\"\n  },\n\n  \"quality\": \"8K-quality detail, realistic human anatomy, physically accurate materials and physics, stable character and product design.\",\n\n  \"negative\": \"no music, no dialogue, no text, no logos, no watermark, no extra people, no floating, no teleportation, no clipping, no distorted hands, no changing scale, no character or clothing changes, no cartoon CGI, no excessive motion blur, no camera shake.\"\n}",
+  "promptTranslations": {
+    "en": "{\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"fps\": 30,\n  \"style\": \"photorealistic premium tech commercial, cinematic macro photography\",\n\n  \"scene\": \"A 3-inch-tall adult male presenter in black streetwear with subtle neon-cyan accents interacts with gigantic premium black wireless headphones on a white marble studio desk.\",\n\n  \"action\": [\n    \"0-3s: The miniature presenter confidently runs along the curved matte-black aluminum headband. Ultra-low macro tracking camera follows directly behind him.\",\n    \"3-6s: He reaches an oversized knurled metal volume dial, grips it with both hands and forcefully rotates it. A subtle translucent sonic shockwave expands from the headphones.\",\n    \"6-8s: He jumps from the headband onto the giant plush black leather memory-foam ear cushion, which visibly compresses on impact.\",\n    \"8-10s: He stands on the cushion, smiles at the camera and gives a quick thumbs-up as the camera rapidly cranes upward and pulls back, revealing the full headphones, laptop and coffee cup on the desk.\"\n  ],\n\n  \"camera\": \"Extreme macro shallow depth of field, smooth tracking, controlled whip-pan to the dial, dynamic follow-through on the jump, then rapid crane-up pullback into a wide hero shot.\",\n\n  \"lighting\": \"Soft studio lighting with subtle cyan and electric-magenta rim lights, realistic metal, leather and marble reflections.\",\n\n  \"audio\": {\n    \"music\": \"NONE\",\n    \"dialogue\": \"NONE\",\n    \"voiceover\": \"NONE\",\n    \"effects\": \"Realistic sneaker squeaks, mechanical dial clicks, deep rotation sound, subtle sonic whoosh and soft leather cushion impact.\"\n  },\n\n  \"quality\": \"8K-quality detail, realistic human anatomy, physically accurate materials and physics, stable character and product design.\",\n\n  \"negative\": \"no music, no dialogue, no text, no logos, no watermark, no extra people, no floating, no teleportation, no clipping, no distorted hands, no changing scale, no character or clothing changes, no cartoon CGI, no excessive motion blur, no camera shake.\"\n}"
+  },
+  "summaryTranslations": {
+    "en": "Macro tech commercial of a miniature presenter running along a giant headphone headband, adjusting a knob, and landing onto an ear cushion."
+  },
+  "translationVersion": 2,
+  "summary": "微型人物主持人在巨大耳机头梁上奔跑、调节旋钮并落入耳垫的微距科技广告。",
+  "summaryEn": "A miniature presenter running on giant headphones, rotating the dial, and jumping on the cushion.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098306910915375260",
+    "canonicalUrl": "https://x.com/Fujimoto_hina/status/2098306910915375260",
+    "author": {
+      "username": "Fujimoto_hina",
+      "displayName": "Aegon",
+      "profileUrl": "https://x.com/Fujimoto_hina"
+    },
+    "publishedAt": "2026-09-11T07:05:26.000Z",
+    "collectedAt": "2026-09-11T08:43:19.981Z",
+    "language": "en",
+    "originalText": "Video generated on Veo 3.1 \n\nPrompt:\n\n{\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"fps\": 30,\n  \"style\": \"photorealistic premium tech commercial, cinematic macro photography\",\n\n  \"scene\": \"A 3-inch-tall adult male presenter in black streetwear with subtle neon-cyan accents interacts with gigantic premium black wireless headphones on a white marble studio desk.\",\n\n  \"action\": [\n    \"0-3s: The miniature presenter confidently runs along the curved matte-black aluminum headband. Ultra-low macro tracking camera follows directly behind him.\",\n    \"3-6s: He reaches an oversized knurled metal volume dial, grips it with both hands and forcefully rotates it. A subtle translucent sonic shockwave expands from the headphones.\",\n    \"6-8s: He jumps from the headband onto the giant plush black leather memory-foam ear cushion, which visibly compresses on impact.\",\n    \"8-10s: He stands on the cushion, smiles at the camera and gives a quick thumbs-up as the camera rapidly cranes upward and pulls back, revealing the full headphones, laptop and coffee cup on the desk.\"\n  ],\n\n  \"camera\": \"Extreme macro shallow depth of field, smooth tracking, controlled whip-pan to the dial, dynamic follow-through on the jump, then rapid crane-up pullback into a wide hero shot.\",\n\n  \"lighting\": \"Soft studio lighting with subtle cyan and electric-magenta rim lights, realistic metal, leather and marble reflections.\",\n\n  \"audio\": {\n    \"music\": \"NONE\",\n    \"dialogue\": \"NONE\",\n    \"voiceover\": \"NONE\",\n    \"effects\": \"Realistic sneaker squeaks, mechanical dial clicks, deep rotation sound, subtle sonic whoosh and soft leather cushion impact.\"\n  },\n\n  \"quality\": \"8K-quality detail, realistic human anatomy, physically accurate materials and physics, stable character and product design.\",\n\n  \"negative\": \"no music, no dialogue, no text, no logos, no watermark, no extra people, no floating, no teleportation, no clipping, no distorted hands, no changing scale, no character or clothing changes, no cartoon CGI, no excessive motion blur, no camera shake.\"\n}",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Fujimoto_hina/status/2098306910915375260",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098306852656476160/img/vQ1pVmSMMB01jUCl.jpg",
+        "analysisUrl": "https://x.com/Fujimoto_hina/status/2098306910915375260"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 0,
+      "replyCount": 9,
+      "quoteCount": 0,
+      "viewCount": 369
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Fujimoto_hina/status/2098306910915375260",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098306852656476160/img/vQ1pVmSMMB01jUCl.jpg",
+  "coverPath": "covers/2098306910915375260.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098306852656476160",
+    "x-post:2098306910915375260"
+  ],
+  "analysis": {
+    "summary": "微型人物主持人在巨大耳机头梁上奔跑、调节旋钮并落入耳垫的微距科技广告。",
+    "summaryEn": "A miniature presenter running on giant headphones, rotating the dial, and jumping on the cushion.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely visualizes the actions, timing, camera crane pull-back, and headphone macro elements described in the JSON prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "{\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"fps\": 30,\n  \"style\": \"photorealistic premium tech commercial, cinematic macro photography\",\n\n  \"scene\": \"A 3-inch-tall adult male presenter in black streetwear with subtle neon-cyan accents interacts with gigantic premium black wireless headphones on a white marble studio desk.\",\n\n  \"action\": [\n    \"0-3s: The miniature presenter confidently runs along the curved matte-black aluminum headband. Ultra-low macro tracking camera follows directly behind him.\",\n    \"3-6s: He reaches an oversized knurled metal volume dial, grips it with both hands and forcefully rotates it. A subtle translucent sonic shockwave expands from the headphones.\",\n    \"6-8s: He jumps from the headband onto the giant plush black leather memory-foam ear cushion, which visibly compresses on impact.\",\n    \"8-10s: He stands on the cushion, smiles at the camera and gives a quick thumbs-up as the camera rapidly cranes upward and pulls back, revealing the full headphones, laptop and coffee cup on the desk.\"\n  ],\n\n  \"camera\": \"Extreme macro shallow depth of field, smooth tracking, controlled whip-pan to the dial, dynamic follow-through on the jump, then rapid crane-up pullback into a wide hero shot.\",\n\n  \"lighting\": \"Soft studio lighting with subtle cyan and electric-magenta rim lights, realistic metal, leather and marble reflections.\",\n\n  \"audio\": {\n    \"music\": \"NONE\",\n    \"dialogue\": \"NONE\",\n    \"voiceover\": \"NONE\",\n    \"effects\": \"Realistic sneaker squeaks, mechanical dial clicks, deep rotation sound, subtle sonic whoosh and soft leather cushion impact.\"\n  },\n\n  \"quality\": \"8K-quality detail, realistic human anatomy, physically accurate materials and physics, stable character and product design.\",\n\n  \"negative\": \"no music, no dialogue, no text, no logos, no watermark, no extra people, no floating, no teleportation, no clipping, no distorted hands, no changing scale, no character or clothing changes, no cartoon CGI, no excessive motion blur, no camera shake.\"\n}",
+    "sourceRange": {
+      "start": 38,
+      "end": 2047
+    },
+    "translations": {
+      "zh": "{\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"fps\": 30,\n  \"style\": \"逼真的高端科技广告，电影级微距摄影\",\n  \"scene\": \"一名身穿带微弱霓虹青色点缀黑色街头服饰的3英寸高成年男性主持人在白色大理石演播室桌面上与巨大的高端黑色无线耳机互动。\",\n  \"action\": [\n    \"0-3s: 微型主持人在哑光黑色铝制弧形头梁上自信奔跑，超低角度微距跟拍镜头紧跟其后。\",\n    \"3-6s: 他靠近一个超大滚花金属音量旋钮，双手抓住并用力旋转，耳机释放出微弱半透明声波。\",\n    \"6-8s: 他从头梁跳到巨大的黑色记忆海绵皮革耳垫上，耳垫在冲击下明显受压变形。\",\n    \"8-10s: 他站在耳垫上微笑并竖起大拇指，镜头迅速上升拉远，展示桌面上的整副耳机、笔记本电脑与咖啡杯。\"\n  ],\n  \"camera\": \"极致微距浅景深，平滑运镜，旋钮特写平移，跳跃跟随，升降拉开全景。\",\n  \"lighting\": \"柔和演播室光线，带有微弱青色和洋红色轮廓光，真实材质反光。\",\n  \"quality\": \"8K画质细节，人体解剖学准确，物理运动规律真实。\"\n}",
+      "en": "{\n  \"duration\": \"10s\",\n  \"aspect_ratio\": \"16:9\",\n  \"fps\": 30,\n  \"style\": \"photorealistic premium tech commercial, cinematic macro photography\",\n\n  \"scene\": \"A 3-inch-tall adult male presenter in black streetwear with subtle neon-cyan accents interacts with gigantic premium black wireless headphones on a white marble studio desk.\",\n\n  \"action\": [\n    \"0-3s: The miniature presenter confidently runs along the curved matte-black aluminum headband. Ultra-low macro tracking camera follows directly behind him.\",\n    \"3-6s: He reaches an oversized knurled metal volume dial, grips it with both hands and forcefully rotates it. A subtle translucent sonic shockwave expands from the headphones.\",\n    \"6-8s: He jumps from the headband onto the giant plush black leather memory-foam ear cushion, which visibly compresses on impact.\",\n    \"8-10s: He stands on the cushion, smiles at the camera and gives a quick thumbs-up as the camera rapidly cranes upward and pulls back, revealing the full headphones, laptop and coffee cup on the desk.\"\n  ],\n\n  \"camera\": \"Extreme macro shallow depth of field, smooth tracking, controlled whip-pan to the dial, dynamic follow-through on the jump, then rapid crane-up pullback into a wide hero shot.\",\n\n  \"lighting\": \"Soft studio lighting with subtle cyan and electric-magenta rim lights, realistic metal, leather and marble reflections.\",\n\n  \"audio\": {\n    \"music\": \"NONE\",\n    \"dialogue\": \"NONE\",\n    \"voiceover\": \"NONE\",\n    \"effects\": \"Realistic sneaker squeaks, mechanical dial clicks, deep rotation sound, subtle sonic whoosh and soft leather cushion impact.\"\n  },\n\n  \"quality\": \"8K-quality detail, realistic human anatomy, physically accurate materials and physics, stable character and product design.\",\n\n  \"negative\": \"no music, no dialogue, no text, no logos, no watermark, no extra people, no floating, no teleportation, no clipping, no distorted hands, no changing scale, no character or clothing changes, no cartoon CGI, no excessive motion blur, no camera shake.\"\n}"
+    },
+    "targetModels": [
+      "veo"
+    ],
+    "category": "text-to-video",
+    "useCase": "advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.98,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
