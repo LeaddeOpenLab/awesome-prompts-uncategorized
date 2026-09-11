@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**44** Prompt · Son eklenen: **2026-09-11**
+**45** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -425,6 +425,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098265320448553176"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@umesh\_ai](https://x.com/umesh_ai) · [Orijinal gönderi](https://x.com/umesh_ai/status/2098265320448553176)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098265320448553176.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097951331667357808"></a>
 

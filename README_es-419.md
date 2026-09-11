@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**44** Prompts · Última incorporación: **2026-09-11**
+**45** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -425,6 +425,28 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2098265320448553176"></a>
+
+### Traducción en curso
+
+Autor：[@umesh\_ai](https://x.com/umesh_ai) · [Publicación original](https://x.com/umesh_ai/status/2098265320448553176)
+
+Fotografía · Cine / Fotograma · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098265320448553176.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097951331667357808"></a>
 

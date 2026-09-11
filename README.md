@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**44** Prompts · Latest addition: **2026-09-11**
+**45** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -521,6 +521,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098265320448553176"></a>
+
+### Cinematic camera movement rising from crashing ocean waves along a sunlit cliff to reveal a lone figure at the edge.
+
+Author：[@umesh\_ai](https://x.com/umesh_ai) · [Source](https://x.com/umesh_ai/status/2098265320448553176)
+
+Photography · Cinematic / Film Still · Landscape / Nature · Published
+
+**Summary:** Cinematic camera movement rising from crashing ocean waves along a sunlit cliff to reveal a lone figure at the edge.
+
+<img src="covers/2098265320448553176.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+The camera begins low near the surging ocean waves, close to the surface as water crashes violently against the jagged rocks. It then rises upward in a smooth cinematic motion along the rugged cliffside, revealing the dramatic height of the sunlit cliffs before tilting to frame a lone figure standing defiantly at the edge, looking down at the roaring sea below. Bright sunlight illuminates the scene with crisp, clear visibility, vivid natural colors, sparkling water, and sharply defined rock textures under a clear blue sky. The overall visual feels cinematic, expansive, and powerful, with dynamic movement and a dramatic sense of scale.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097951331667357808"></a>
 
