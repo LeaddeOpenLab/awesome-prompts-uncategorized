@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:21:10.583Z",
+  "model": "unknown-video",
+  "prompt": "Cinematic Unreal Engine Scene, a stone statue comes alive and dances a beautiful ballet through the garden of a large estate, fast moving dynamic camera, single take.",
+  "promptTranslations": {
+    "en": "Cinematic Unreal Engine Scene, a stone statue comes alive and dances a beautiful ballet through the garden of a large estate, fast moving dynamic camera, single take."
+  },
+  "summaryTranslations": {
+    "en": "A stone statue comes to life and performs ballet in an estate garden captured in a dynamic single take."
+  },
+  "translationVersion": 2,
+  "summary": "A stone statue comes to life and performs ballet in an estate garden captured in a dynamic single take.",
+  "summaryEn": "A stone statue comes to life and performs ballet in an estate garden captured in a dynamic single take.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098472353114079243",
+    "canonicalUrl": "https://x.com/iamneubert/status/2098472353114079243",
+    "author": {
+      "username": "iamneubert",
+      "displayName": "Nicolas Neubert",
+      "profileUrl": "https://x.com/iamneubert"
+    },
+    "publishedAt": "2026-09-11T18:02:51.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "en",
+    "originalText": "There's no need to overcomplicate things.\nIt can be this simple. \n\nPrompt: Cinematic Unreal Engine Scene, a stone statue comes alive and dances a beautiful ballet through the garden of a large estate, fast moving dynamic camera, single take. https://t.co/DQtH97TQC7",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/iamneubert/status/2098472353114079243",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098461986967449601/img/rohfZR-ttdMeWwm0.jpg",
+        "analysisUrl": "https://x.com/iamneubert/status/2098472353114079243"
+      }
+    ],
+    "metrics": {
+      "likeCount": 49,
+      "repostCount": 4,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 2041
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/iamneubert/status/2098472353114079243",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098461986967449601/img/rohfZR-ttdMeWwm0.jpg",
+  "coverPath": "covers/2098472353114079243.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098461986967449601",
+    "x-post:2098472353114079243"
+  ],
+  "analysis": {
+    "summary": "A stone statue comes to life and performs ballet in an estate garden captured in a dynamic single take.",
+    "summaryEn": "A stone statue comes to life and performs ballet in an estate garden captured in a dynamic single take.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频与提示词一致，展现了石雕雕像在庄园花园中苏醒起舞且采用动态单镜头跟随。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Cinematic Unreal Engine Scene, a stone statue comes alive and dances a beautiful ballet through the garden of a large estate, fast moving dynamic camera, single take.",
+    "sourceRange": {
+      "start": 75,
+      "end": 241
+    },
+    "translations": {
+      "zh": "电影感虚幻引擎场景，一座石雕雕像苏醒过来，并在大型庄园的花园中跳起优美的芭蕾舞，快速移动的动态镜头，一镜到底。",
+      "en": "Cinematic Unreal Engine Scene, a stone statue comes alive and dances a beautiful ballet through the garden of a large estate, fast moving dynamic camera, single take."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
