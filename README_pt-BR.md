@@ -1481,20 +1481,20 @@ Tradução em andamento
 
 <a name="prompt-2098414125613506896"></a>
 
-### Tradução em andamento
+### Uma jovem mulher pegando com a língua as gotas de chuva de uma calha.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098414125613506896)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma jovem mulher pegando com a língua as gotas de chuva de uma calha.
 
 <img src="images/2098414125613506896-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma mulher adulta inocente de 20 anos que pega com a língua as gotas de chuva que caem de uma calha e as deixa pingar diretamente no chão
 ```
 
 [↑ Voltar às categorias](#catalog)

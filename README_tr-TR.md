@@ -1481,20 +1481,20 @@ Poster / El İlanı · Yayımlandı
 
 <a name="prompt-2098414125613506896"></a>
 
-### Çeviri sürüyor
+### Yağmur oluğundan gelen yağmur damlalarını diliyle yakalayan genç bir kadın.
 
 Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2098414125613506896)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yağmur oluğundan gelen yağmur damlalarını diliyle yakalayan genç bir kadın.
 
 <img src="images/2098414125613506896-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yağmur oluğundan damlayan yağmur damlalarını diliyle yakalayıp doğrudan yere damlatan masum, 20 yaşında yetişkin bir kadın
 ```
 
 [↑ Kategorilere dön](#catalog)
