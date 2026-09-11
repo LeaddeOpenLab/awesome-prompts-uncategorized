@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:20:28.950Z",
+  "model": "unknown-video",
+  "prompt": "Create a hyper-realistic cinematic miniature construction scene where a giant human hand carefully builds a tiny brick structure on a miniature construction site. Show detailed small bricks, realistic cement, tools, sandy ground, natural textures, shallow depth of field, macro photography, smooth camera movement, realistic lighting, and satisfying step-by-step construction. Ultra-detailed, photorealistic, 4K, vertical 9:16, seamless visual continuity.",
+  "promptTranslations": {
+    "en": "Create a hyper-realistic cinematic miniature construction scene where a giant human hand carefully builds a tiny brick structure on a miniature construction site. Show detailed small bricks, realistic cement, tools, sandy ground, natural textures, shallow depth of field, macro photography, smooth camera movement, realistic lighting, and satisfying step-by-step construction. Ultra-detailed, photorealistic, 4K, vertical 9:16, seamless visual continuity."
+  },
+  "summaryTranslations": {
+    "en": "Satisfying macro video prompt of a human hand step-by-step building a brick-and-concrete cottage in a miniature construction site scene."
+  },
+  "translationVersion": 2,
+  "summary": "微缩工地场景中人手逐步筑造砖混小屋的解压微距视频提示词。",
+  "summaryEn": "Prompt for a macro miniature construction scene showing step-by-step bricklaying.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098260186737901631",
+    "canonicalUrl": "https://x.com/Mud01185127/status/2098260186737901631",
+    "author": {
+      "username": "Mud01185127",
+      "displayName": "Nicholas",
+      "profileUrl": "https://x.com/Mud01185127"
+    },
+    "publishedAt": "2026-09-11T03:59:46.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "en",
+    "originalText": "Building a tiny world, one brick at a time 🧱✨ Would you watch the whole process?\n\nPrompt:\nCreate a hyper-realistic cinematic miniature construction scene where a giant human hand carefully builds a tiny brick structure on a miniature construction site. Show detailed small bricks, realistic cement, tools, sandy ground, natural textures, shallow depth of field, macro photography, smooth camera movement, realistic lighting, and satisfying step-by-step construction. Ultra-detailed, photorealistic, 4K, vertical 9:16, seamless visual continuity.\n\n#AI #AIVideo #Miniature #MiniatureWorld #AIArt #AIGenerated #Cinematic #Satisfying #OddlySatisfying #ViralVideo #CreativeAI #MacroPhotography",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Mud01185127/status/2098260186737901631",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098259997994127360/img/WfLViKyN6RQbN_t5.jpg",
+        "analysisUrl": "https://x.com/Mud01185127/status/2098260186737901631"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 706
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Mud01185127/status/2098260186737901631",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098259997994127360/img/WfLViKyN6RQbN_t5.jpg",
+  "coverPath": "covers/2098260186737901631.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098259997994127360",
+    "x-post:2098260186737901631"
+  ],
+  "analysis": {
+    "summary": "微缩工地场景中人手逐步筑造砖混小屋的解压微距视频提示词。",
+    "summaryEn": "Prompt for a macro miniature construction scene showing step-by-step bricklaying.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面呈现巨手使用微型砖块、水泥及工具逐步建造微缩房子的全过程，与提示词主题吻合；注意画面实际为真实微缩模型手工实拍。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a hyper-realistic cinematic miniature construction scene where a giant human hand carefully builds a tiny brick structure on a miniature construction site. Show detailed small bricks, realistic cement, tools, sandy ground, natural textures, shallow depth of field, macro photography, smooth camera movement, realistic lighting, and satisfying step-by-step construction. Ultra-detailed, photorealistic, 4K, vertical 9:16, seamless visual continuity.",
+    "sourceRange": {
+      "start": 90,
+      "end": 545
+    },
+    "translations": {
+      "zh": "创建一个超逼真电影感的微缩建造场景：一只巨大的人手在微缩工地上精心搭建砖结构。展现细致小砖块、逼真水泥、工具、沙土地面、自然质感、浅景深、微距摄影、平滑镜头运镜、真实光影以及解压的逐步建造全过程。超精细、写实、4K、9:16竖屏、无缝视觉连续性。",
+      "en": "Create a hyper-realistic cinematic miniature construction scene where a giant human hand carefully builds a tiny brick structure on a miniature construction site. Show detailed small bricks, realistic cement, tools, sandy ground, natural textures, shallow depth of field, macro photography, smooth camera movement, realistic lighting, and satisfying step-by-step construction. Ultra-detailed, photorealistic, 4K, vertical 9:16, seamless visual continuity."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "微缩模型与解压建造视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "可能搬运自外部实拍手作视频"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
