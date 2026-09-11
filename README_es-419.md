@@ -1011,7 +1011,7 @@ Traducción en curso
 
 <a name="prompt-2098359042234351871"></a>
 
-### Traducción en curso
+### Retrato de caricatura en 3D de una mujer adulta en estilo cómico exagerado, con grandes ojos asimétricos, nariz grande, orejas grandes y una sonrisa grotesca, combinado con iluminación de borde de estudio.
 
 Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicación original](https://x.com/Tanvir48992/status/2098359042234351871)
 
@@ -1019,7 +1019,7 @@ Cómic / Novela gráfica · Renderizado 3D · Retrato / Selfie · Personaje · P
 
 Publicación original：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicación original](https://x.com/Tanvir48992/status/2098292936064844224)
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de caricatura en 3D de una mujer adulta en estilo cómico exagerado, con grandes ojos asimétricos, nariz grande, orejas grandes y una sonrisa grotesca, combinado con iluminación de borde de estudio.
 
 <img src="images/2098359042234351871-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1028,7 +1028,17 @@ Publicación original：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicaci�
 **Prompt**
 
 ```text
-Traducción en curso
+[Crea un retrato en caricatura 3D original y sumamente estilizado de una mujer adulta, diseñado con una exageración facial cómica extrema y que, a la vez, conserve características humanas reconocibles. Dale una cabeza dramáticamente enorme, proporciones faciales extremadamente irregulares, ojos saltones grandes y asimétricos, una nariz torcida y exagerada, orejas caídas de gran tamaño y una enorme sonrisa tonta con dientes espaciados de forma irregular.
+
+Su estructura facial debe seguir siendo creíble por debajo de la exageración, con cejas expresivas, pliegues faciales naturales, textura de piel irregular, poros visibles, imperfecciones sutiles e imperfecciones realistas. Dale un cabello oscuro, encrespado y caótico, con mechones individuales que sobresalen en diferentes direcciones.
+
+Renderiza el personaje con una estética 3D semirrealista y de alto detalle, con piel, cabello, dientes y materiales físicamente creíbles. Utiliza una iluminación de borde de estudio dramática desde atrás y desde los lados, creando reflejos brillantes alrededor del cabello y las orejas mientras se enfatizan las arrugas, la textura y los contornos faciales. Añade una luz de relleno frontal suave para que el rostro permanezca claramente visible.
+
+Mantén la composición mínima y ordenada con un fondo de estudio neutro y simple. Encuadra al personaje como un retrato vertical de 9:16, centrado y con un encuadre cerrado, con la enorme cabeza dominando la imagen.
+
+Ambiente: absurdo, divertido, bizarro, juguetón, exagerado, ligeramente grotesco y visualmente memorable.
+
+Evita personajes reconocibles con derechos de autor, parecidos con celebridades, obras de arte existentes, logotipos, marcas de agua, texto, piel con aspecto plástico, brillo excesivo de CGI, rasgos faciales duplicados, ojos adicionales, extremidades adicionales, manos malformadas, dientes distorsionados, detalles borrosos, baja resolución y anatomía antinatural.]
 ```
 
 [↑ Volver a categorías](#catalog)

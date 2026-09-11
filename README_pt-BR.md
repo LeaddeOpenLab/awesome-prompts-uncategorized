@@ -1011,7 +1011,7 @@ Tradução em andamento
 
 <a name="prompt-2098359042234351871"></a>
 
-### Tradução em andamento
+### Retrato de caricatura 3D de mulher adulta em estilo cômico exagerado, com grandes olhos assimétricos, nariz grande, orelhas grandes e sorriso grotesco, com luz de contorno de estúdio.
 
 Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicação original](https://x.com/Tanvir48992/status/2098359042234351871)
 
@@ -1019,7 +1019,7 @@ Quadrinhos / Graphic Novel · Renderização 3D · Retrato / Selfie · Personage
 
 Publicação original：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicação original](https://x.com/Tanvir48992/status/2098292936064844224)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de caricatura 3D de mulher adulta em estilo cômico exagerado, com grandes olhos assimétricos, nariz grande, orelhas grandes e sorriso grotesco, com luz de contorno de estúdio.
 
 <img src="images/2098359042234351871-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1028,7 +1028,17 @@ Publicação original：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicaç�
 **Prompt**
 
 ```text
-Tradução em andamento
+[Crie um retrato de caricatura em 3D original e altamente estilizado de uma mulher adulta, projetado com exagero facial cômico extremo, mantendo características humanas reconhecíveis. Dê a ela uma cabeça dramaticamente superdimensionada, proporções faciais totalmente irregulares, olhos esbugalhados grandes e assimétricos, um nariz torto e exagerado, orelhas caídas e enormes, e um sorriso bobo colossal com dentes espaçados de forma irregular.
+
+Sua estrutura facial deve permanecer verossímil sob o exagero, com sobrancelhas expressivas, rugas faciais naturais, textura de pele irregular, poros visíveis, manchas sutis e imperfeições realistas. Dê a ela cabelos escuros caóticos e crespos, com fios individuais projetando-se para fora em diferentes direções.
+
+Renderize a personagem em uma estética 3D semirrealista e de alto detalhe, com pele, cabelo, dentes e materiais fisicamente verossímeis. Use iluminação dramática de contorno de estúdio por trás e pelas laterais, criando realces brilhantes ao redor do cabelo e das orelhas, enquanto enfatiza rugas, textura e contornos faciais. Adicione uma luz de preenchimento frontal suave para que o rosto permaneça claramente visível.
+
+Mantenha a composição minimalista e despojada com um fundo de estúdio simples e neutro. Enquadre a personagem como um retrato vertical 9:16, centralizado e bem fechado, com a enorme cabeça dominando a imagem.
+
+Clima: absurdo, engraçado, bizarro, brincalhão, exagerado, ligeiramente grotesco e visualmente memorável.
+
+Evite personagens reconhecíveis protegidos por direitos autorais, semelhanças com celebridades, obras de arte existentes, logotipos, marcas d'água, texto, pele com aspecto plástico, brilho excessivo de CGI, traços faciais duplicados, olhos extras, membros extras, mãos malformadas, dentes distorcidos, detalhes borrados, baixa resolução e anatomia não natural.]
 ```
 
 [↑ Voltar às categorias](#catalog)

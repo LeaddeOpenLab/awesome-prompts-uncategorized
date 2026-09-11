@@ -1023,7 +1023,7 @@ Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
 
 <a name="prompt-2098359042234351871"></a>
 
-### Đang dịch
+### Chân dung biếm họa phụ nữ trưởng thành phong cách hài kịch phóng đại 3D với đôi mắt to bất đối xứng, mũi to, tai to và nụ cười kỳ dị, cùng ánh sáng viền studio.
 
 Tác giả：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2098359042234351871)
 
@@ -1031,7 +1031,7 @@ Truyện tranh / Tiểu thuyết đồ họa · Kết xuất 3D · Chân dung / 
 
 Bài gốc：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2098292936064844224)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung biếm họa phụ nữ trưởng thành phong cách hài kịch phóng đại 3D với đôi mắt to bất đối xứng, mũi to, tai to và nụ cười kỳ dị, cùng ánh sáng viền studio.
 
 <img src="images/2098359042234351871-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1040,7 +1040,17 @@ Bài gốc：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+[Tạo một bức chân dung biếm họa 3D nguyên bản, cách điệu cao của một người phụ nữ trưởng thành, được thiết kế với sự phóng đại khuôn mặt hài hước tột độ trong khi vẫn giữ được các đặc điểm nhận dạng của con người. Cho cô ấy một cái đầu quá khổ đầy kịch tính, tỷ lệ khuôn mặt cực kỳ không đồng đều, đôi mắt lồi to bất đối xứng, một chiếc mũi khoằm phóng đại, đôi tai rủ xuống quá khổ, và một nụ cười ngớ ngẩn khổng lồ với hàm răng mọc không đều.
+
+Cấu trúc khuôn mặt của cô ấy vẫn phải giữ được sự chân thực bên dưới sự phóng đại, với đôi lông mày biểu cảm, các nếp gấp tự nhiên trên khuôn mặt, kết cấu da không đồng đều, lỗ chân lông có thể nhìn thấy, các khuyết điểm tinh tế và sự không hoàn hảo thực tế. Cho cô ấy mái tóc sẫm màu rối bù, xơ xác với các sợi tóc riêng lẻ chĩa ra các hướng khác nhau.
+
+Kết xuất nhân vật theo thẩm mỹ 3D bán thực tế có độ chi tiết cao với da, tóc, răng và chất liệu đáng tin cậy về mặt vật lý. Sử dụng ánh sáng viền studio (rim lighting) đầy kịch tính từ phía sau và hai bên, tạo ra các điểm sáng nổi bật quanh tóc và tai đồng thời nhấn mạnh các nếp nhăn, kết cấu và đường nét khuôn mặt. Thêm ánh sáng phụ phía trước mềm mại để khuôn mặt luôn nhìn thấy rõ ràng.
+
+Giữ bố cục tối giản và gọn gàng với phông nền studio trung tính đơn giản. Đóng khung nhân vật dưới dạng chân dung dọc 9:16, căn giữa và bố cục chặt chẽ, với chiếc đầu khổng lồ chiếm ưu thế trong bức ảnh.
+
+Tâm trạng: ngớ ngẩn, hài hước, kỳ dị, vui tươi, phóng đại, hơi quái dị và ấn tượng về mặt thị giác.
+
+Tránh các nhân vật có bản quyền dễ nhận biết, chân dung người nổi tiếng, tác phẩm nghệ thuật hiện có, logo, hình mờ, văn bản, làn da như nhựa, độ bóng CGI quá mức, các đường nét khuôn mặt bị nhân bản, thừa mắt, thừa chi, bàn tay biến dạng, răng méo mó, chi tiết mờ, độ phân giải thấp và giải phẫu không tự nhiên.]
 ```
 
 [↑ Về danh mục](#catalog)

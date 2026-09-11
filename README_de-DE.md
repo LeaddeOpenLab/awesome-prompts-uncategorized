@@ -1011,7 +1011,7 @@ Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 
 <a name="prompt-2098359042234351871"></a>
 
-### Übersetzung läuft
+### 3D-übertriebenes Comedy-Karikaturporträt einer erwachsenen Frau mit asymmetrischen großen Augen, großer Nase, großen Ohren und bizarrem Lächeln, akzentuiert durch Studio-Kantenlicht.
 
 Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Originalbeitrag](https://x.com/Tanvir48992/status/2098359042234351871)
 
@@ -1019,7 +1019,7 @@ Comic / Graphic Novel · 3D-Rendering · Porträt / Selfie · Charakter · Verö
 
 Originalbeitrag：[@Tanvir48992](https://x.com/Tanvir48992) · [Originalbeitrag](https://x.com/Tanvir48992/status/2098292936064844224)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 3D-übertriebenes Comedy-Karikaturporträt einer erwachsenen Frau mit asymmetrischen großen Augen, großer Nase, großen Ohren und bizarrem Lächeln, akzentuiert durch Studio-Kantenlicht.
 
 <img src="images/2098359042234351871-1.jpg" alt="Bild 1" width="480" />
 
@@ -1028,7 +1028,17 @@ Originalbeitrag：[@Tanvir48992](https://x.com/Tanvir48992) · [Originalbeitrag]
 **Prompt**
 
 ```text
-Übersetzung läuft
+[Erstelle ein originelles, stark stilisiertes 3D-Karikaturporträt einer erwachsenen Frau, gestaltet mit extremer komödiantischer Gesichtsübertreibung, während erkennbare menschliche Merkmale beibehalten werden. Gib ihr einen dramatisch überdimensionierten Kopf, wild ungleiche Gesichtsproportionen, große asymmetrische Glubschaugen, eine übertrieben krumme Nase, übergroße Hängeohren und ein enormes albernes Grinsen mit unregelmäßig angeordneten Zähnen.
+
+Ihre Gesichtsstruktur sollte unter der Übertreibung glaubwürdig bleiben, mit ausdrucksstarken Augenbrauen, natürlichen Gesichtsfalten, ungleichmäßiger Hauttextur, sichtbaren Poren, subtilen Unreinheiten und realistischen Makeln. Gib ihr chaotisches, krauses dunkles Haar mit einzelnen Strähnen, die in verschiedene Richtungen abstehen.
+
+Rendere den Charakter in einer halbrealistischen, hochdetaillierten 3D-Ästhetik mit physikalisch glaubwürdiger Haut, Haaren, Zähnen und Materialien. Verwende dramatisches Studio-Kantenlicht von hinten und den Seiten, das helle Glanzlichter um die Haare und Ohren erzeugt und gleichzeitig Falten, Textur und Gesichtskonturen hervorhebt. Füge weiches frontales Fülllicht hinzu, damit das Gesicht deutlich sichtbar bleibt.
+
+Halte die Komposition minimalistisch und aufgeräumt mit einem einfachen, neutralen Studiohintergrund. Rahme die Figur als vertikales 9:16-Porträt ein, zentriert und eng gefasst, wobei der enorme Kopf das Bild dominiert.
+
+Stimmung: absurd, lustig, bizarr, verspielt, übertrieben, leicht grotesk und visuell einprägsam.
+
+Vermeide erkennbare urheberrechtlich geschützte Charaktere, Ähnlichkeiten mit Prominenten, bestehende Kunstwerke, Logos, Wasserzeichen, Text, plastikartig wirkende Haut, übermäßigen CGI-Glanz, doppelte Gesichtszüge, zusätzliche Augen, zusätzliche Gliedmaßen, fehlgebildete Hände, verzerrte Zähne, verschwommene Details, niedrige Auflösung und unnatürliche Anatomie.]
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

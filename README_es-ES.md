@@ -1023,7 +1023,7 @@ Traducción en curso
 
 <a name="prompt-2098359042234351871"></a>
 
-### Traducción en curso
+### Retrato de caricatura de mujer adulta en estilo cómico exagerado en 3D, con grandes ojos asimétricos, gran nariz, grandes orejas y sonrisa grotesca, con iluminación de borde de estudio.
 
 Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicación original](https://x.com/Tanvir48992/status/2098359042234351871)
 
@@ -1031,7 +1031,7 @@ Cómic / Novela gráfica · Render 3D · Retrato / Selfie · Personaje · Public
 
 Publicación original：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicación original](https://x.com/Tanvir48992/status/2098292936064844224)
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de caricatura de mujer adulta en estilo cómico exagerado en 3D, con grandes ojos asimétricos, gran nariz, grandes orejas y sonrisa grotesca, con iluminación de borde de estudio.
 
 <img src="images/2098359042234351871-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1040,7 +1040,17 @@ Publicación original：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicaci�
 **Prompt**
 
 ```text
-Traducción en curso
+[Crea un retrato de caricatura en 3D original y muy estilizado de una mujer adulta, diseñado con una exageración facial cómica extrema mientras conserva características humanas reconocibles. Dale una cabeza dramáticamente sobredimensionada, proporciones faciales salvajemente desiguales, ojos grandes y saltones asimétricos, una nariz torcida exagerada, orejas caídas de gran tamaño y una enorme sonrisa tonta con dientes espaciados irregularmente.
+
+Su estructura facial debe seguir siendo creíble debajo de la exageración, con cejas expresivas, pliegues faciales naturales, textura de piel desigual, poros visibles, imperfecciones sutiles e imperfecciones realistas. Dale un cabello oscuro, caótico y encrespado, con mechones individuales que sobresalen en diferentes direcciones.
+
+Renderiza al personaje con una estética 3D semirrealista de gran detalle, con piel, cabello, dientes y materiales físicamente creíbles. Utiliza una iluminación de borde (rim lighting) de estudio dramática desde atrás y los lados, creando reflejos brillantes alrededor del cabello y las orejas mientras se enfatizan las arrugas, la textura y los contornos faciales. Agrega una suave luz de relleno frontal para que el rostro permanezca claramente visible.
+
+Mantén la composición minimalista y despejada con un fondo de estudio neutro y simple. Encuadra al personaje como un retrato vertical de 9:16, centrado y con una composición ajustada, donde la enorme cabeza domine la imagen.
+
+Estado de ánimo: absurdo, divertido, bizarro, juguetón, exagerado, ligeramente grotesco y visualmente memorable.
+
+Evita personajes reconocibles con derechos de autor, parecidos a celebridades, obras de arte existentes, logotipos, marcas de agua, texto, piel con aspecto de plástico, brillo excesivo de CGI, rasgos faciales duplicados, ojos adicionales, extremidades adicionales, manos malformadas, dientes distorsionados, detalles borrosos, baja resolución y anatomía antinatural.]
 ```
 
 [↑ Volver a categorías](#catalog)

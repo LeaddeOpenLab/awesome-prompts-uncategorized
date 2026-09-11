@@ -1011,7 +1011,7 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 
 <a name="prompt-2098359042234351871"></a>
 
-### Çeviri sürüyor
+### Stüdyo kenar aydınlatmasıyla birlikte asimetrik büyük gözlere, büyük buruna, büyük kulaklara ve grotesk bir gülümsemeye sahip, 3D abartılı komedi tarzında yetişkin kadın karikatür portresi.
 
 Yazar：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https://x.com/Tanvir48992/status/2098359042234351871)
 
@@ -1019,7 +1019,7 @@ Yazar：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https:/
 
 Orijinal gönderi：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https://x.com/Tanvir48992/status/2098292936064844224)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Stüdyo kenar aydınlatmasıyla birlikte asimetrik büyük gözlere, büyük buruna, büyük kulaklara ve grotesk bir gülümsemeye sahip, 3D abartılı komedi tarzında yetişkin kadın karikatür portresi.
 
 <img src="images/2098359042234351871-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1028,7 +1028,17 @@ Orijinal gönderi：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönd
 **İstem**
 
 ```text
-Çeviri sürüyor
+[Yetişkin bir kadının, tanınabilir insan özelliklerini korurken aşırı komik yüz abartısıyla tasarlanmış, özgün ve son derece stilize bir 3D karikatür portresini oluşturun. Ona dramatik derecede aşırı büyük bir kafa, çılgınca orantısız yüz hatları, büyük asimetrik pörtlek gözler, abartılı eğri bir burun, aşırı büyük sarkık kulaklar ve düzensiz aralıklı dişlere sahip devasa şapşal bir sırıtış verin.
+
+Yüz yapısı; anlamlı kaşlar, doğal yüz kırışıklıkları, düzensiz cilt dokusu, görünür gözenekler, hafif kusurlar ve gerçekçi pürüzlerle abartının altında inandırıcı kalmalıdır. Ona farklı yönlere doğru fırlayan tek tek telleri olan kaotik, kıvırcık koyu saçlar verin.
+
+Karakteri fiziksel olarak inandırıcı cilt, saç, dişler ve malzemelerle yarı gerçekçi, yüksek detaylı bir 3D estetikte işleyin. Saç ve kulakların etrafında parlak vurgular oluştururken kırışıklıkları, dokuyu ve yüz hatlarını vurgulayan, arkadan ve yanlardan dramatik stüdyo kenar aydınlatması (rim lighting) kullanın. Yüzün net bir şekilde görünür kalması için yumuşak bir ön dolgu ışığı ekleyin.
+
+Basit ve nötr bir stüdyo arka planıyla kompozisyonu minimal ve sade tutun. Karakteri, devasa kafası görüntüye hakim olacak şekilde ortalanmış ve sıkı kadrajlanmış dikey 9:16 portre olarak çerçeveleyin.
+
+Ruh hali: absürt, komik, tuhaf, oyuncu, abartılı, hafif grotesk ve görsel olarak akılda kalıcı.
+
+Tanınabilir telif hakkıyla korunan karakterlerden, ünlü benzerliklerinden, mevcut sanat eserlerinden, logolardan, filigranlardan, metinlerden, plastik görünümlü ciltten, aşırı CGI parlaklığından, yinelenen yüz özelliklerinden, fazladan gözlerden, fazladan uzuvlardan, bozuk ellerden, çarpık dişlerden, bulanık ayrıntılardan, düşük çözünürlükten ve doğal olmayan anatomiden kaçının.]
 ```
 
 [↑ Kategorilere dön](#catalog)

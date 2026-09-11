@@ -1011,7 +1011,7 @@ Traduction en cours
 
 <a name="prompt-2098359042234351871"></a>
 
-### Traduction en cours
+### Portrait caricatural 3D au style comique exagéré d'une femme adulte avec de grands yeux asymétriques, un grand nez, de grandes oreilles et un sourire grotesque, avec un éclairage de contour de studio.
 
 Auteur：[@Tanvir48992](https://x.com/Tanvir48992) · [Publication originale](https://x.com/Tanvir48992/status/2098359042234351871)
 
@@ -1019,7 +1019,7 @@ Bande dessinée / Roman graphique · Rendu 3D · Portrait / Selfie · Personnage
 
 Publication originale：[@Tanvir48992](https://x.com/Tanvir48992) · [Publication originale](https://x.com/Tanvir48992/status/2098292936064844224)
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait caricatural 3D au style comique exagéré d'une femme adulte avec de grands yeux asymétriques, un grand nez, de grandes oreilles et un sourire grotesque, avec un éclairage de contour de studio.
 
 <img src="images/2098359042234351871-1.jpg" alt="Image 1" width="480" />
 
@@ -1028,7 +1028,17 @@ Publication originale：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicatio
 **Consigne**
 
 ```text
-Traduction en cours
+[Créez un portrait-caricature 3D original et hautement stylisé d'une femme adulte, conçu avec une exagération faciale comique extrême tout en conservant des caractéristiques humaines reconnaissables. Donnez-lui une tête spectaculairement surdimensionnée, des proportions faciales follement inégales, de grands yeux exorbités et asymétriques, un nez crochu exagéré, des oreilles tombantes surdimensionnées et un énorme sourire niais aux dents irrégulièrement espacées.
+
+Sa structure faciale doit rester crédible sous l'exagération, avec des sourcils expressifs, des plis faciaux naturels, une texture de peau inégale, des pores visibles, de subtiles imperfections et des défauts réalistes. Donnez-lui des cheveux bruns chaotiques et frisés avec des mèches individuelles qui dépassent dans différentes directions.
+
+Rendez le personnage dans une esthétique 3D semi-réaliste et très détaillée avec une peau, des cheveux, des dents et des matériaux physiquement crédibles. Utilisez un éclairage de contour de studio dramatique depuis l'arrière et les côtés, créant des reflets éclatants autour des cheveux et des oreilles tout en soulignant les rides, la texture et les contours du visage. Ajoutez une douce lumière de remplissage frontale pour que le visage reste clairement visible.
+
+Gardez la composition minimale et épurée avec un arrière-plan de studio neutre et simple. Cadrez le personnage sous la forme d'un portrait vertical 9:16, centré et serré, l'énorme tête dominant l'image.
+
+Ambiance : absurde, drôle, bizarre, espiègle, exagérée, légèrement grotesque et visuellement mémorable.
+
+Évitez les personnages reconnaissables sous copyright, les ressemblances avec des célébrités, les œuvres d'art existantes, les logos, les filigranes, le texte, la peau à l'aspect plastique, la brillance CGI excessive, les traits du visage dupliqués, les yeux supplémentaires, les membres supplémentaires, les mains malformées, les dents déformées, les détails flous, la basse résolution et l'anatomie non naturelle.]
 ```
 
 [↑ Retour aux catégories](#catalog)
