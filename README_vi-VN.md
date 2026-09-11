@@ -1601,20 +1601,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098459622453756301"></a>
 
-### Đang dịch
+### Tạo một video UGC nói chuyện trước ống kính của influencer giới thiệu đồ uống cho thương mại điện tử.
 
 Tác giả：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Bài gốc](https://x.com/Ava_Ai__/status/2098459622453756301)
 
 Hình ảnh chính thương mại điện tử · Người có ảnh hưởng / Người mẫu · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một video UGC nói chuyện trước ống kính của influencer giới thiệu đồ uống cho thương mại điện tử.
 
 <img src="covers/2098459622453756301.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video UGC nói chuyện trước ống kính (talking-head) thương mại điện tử cho loại đồ uống này. Một phụ nữ trẻ mang phong cách influencer sẽ xuất hiện trước ống kính để giới thiệu và quảng bá sản phẩm tới khán giả quốc tế. Hương vị là Xoài Chanh Leo.
 ```
 
 [↑ Về danh mục](#catalog)

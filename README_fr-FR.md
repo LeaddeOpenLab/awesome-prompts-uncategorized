@@ -1566,20 +1566,20 @@ Traduction en cours
 
 <a name="prompt-2098459622453756301"></a>
 
-### Traduction en cours
+### Créez une vidéo UGC face caméra de type e-commerce d'une influenceuse présentant une boisson.
 
 Auteur：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Publication originale](https://x.com/Ava_Ai__/status/2098459622453756301)
 
 Image principale du e-commerce · Influenceur / Mannequin · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez une vidéo UGC face caméra de type e-commerce d'une influenceuse présentant une boisson.
 
 <img src="covers/2098459622453756301.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo UGC face caméra de type e-commerce pour cette boisson. Une jeune femme au style influenceuse doit apparaître à l'écran pour présenter et faire découvrir le produit à un public international. La saveur est Mangue Fruit de la Passion.
 ```
 
 [↑ Retour aux catégories](#catalog)

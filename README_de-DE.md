@@ -1566,20 +1566,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098459622453756301"></a>
 
-### Übersetzung läuft
+### Erstelle ein E-Commerce-UGC-Talking-Head-Video einer Influencerin, die ein Getränk präsentiert.
 
 Autor：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Originalbeitrag](https://x.com/Ava_Ai__/status/2098459622453756301)
 
 E-Commerce-Hauptbild · Influencer / Model · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein E-Commerce-UGC-Talking-Head-Video einer Influencerin, die ein Getränk präsentiert.
 
 <img src="covers/2098459622453756301.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein E-Commerce-UGC-Talking-Head-Video für dieses Getränk. Eine junge Frau im Influencer-Stil soll vor der Kamera auftreten, um das Produkt einem internationalen Publikum zu präsentieren und vorzustellen. Die Geschmacksrichtung ist Mango-Passionsfrucht.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

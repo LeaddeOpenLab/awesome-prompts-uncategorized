@@ -1583,20 +1583,20 @@ Tradução em andamento
 
 <a name="prompt-2098459622453756301"></a>
 
-### Tradução em andamento
+### Crie um vídeo UGC de e-commerce em estilo talking-head de uma influenciadora apresentando uma bebida.
 
 Autor：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Publicação original](https://x.com/Ava_Ai__/status/2098459622453756301)
 
 Imagem Principal de E-commerce · Influenciador(a) / Modelo · Produto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um vídeo UGC de e-commerce em estilo talking-head de uma influenciadora apresentando uma bebida.
 
 <img src="covers/2098459622453756301.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo UGC falando para a câmera (talking-head) de e-commerce para esta bebida. Uma jovem mulher em estilo influenciadora deve aparecer na câmera para exibir e apresentar o produto a um público internacional. O sabor é Manga com Maracujá.
 ```
 
 [↑ Voltar às categorias](#catalog)

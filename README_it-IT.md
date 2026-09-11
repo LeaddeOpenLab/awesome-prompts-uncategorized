@@ -1566,20 +1566,20 @@ Traduzione in corso
 
 <a name="prompt-2098459622453756301"></a>
 
-### Traduzione in corso
+### Crea un video UGC in formato talking-head per l'e-commerce di un'influencer che presenta una bevanda.
 
 Autore：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Post originale](https://x.com/Ava_Ai__/status/2098459622453756301)
 
 Immagine principale e-commerce · Influencer / Modello/a · Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un video UGC in formato talking-head per l'e-commerce di un'influencer che presenta una bevanda.
 
 <img src="covers/2098459622453756301.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video UGC in formato talking-head per l'e-commerce di questa bevanda. Una giovane donna in stile influencer dovrebbe apparire davanti alla telecamera per mostrare e presentare il prodotto a un pubblico internazionale. Il gusto è Mango e Frutto della Passione.
 ```
 
 [↑ Torna alle categorie](#catalog)

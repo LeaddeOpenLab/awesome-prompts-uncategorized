@@ -1583,20 +1583,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098459622453756301"></a>
 
-### Çeviri sürüyor
+### Bir içeceği tanıtan bir influencer'ın yer aldığı e-ticaret UGC doğrudan kameraya konuşma videosu oluşturun.
 
 Yazar：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Orijinal gönderi](https://x.com/Ava_Ai__/status/2098459622453756301)
 
 E-ticaret Ana Görseli · Influencer / Model · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir içeceği tanıtan bir influencer'ın yer aldığı e-ticaret UGC doğrudan kameraya konuşma videosu oluşturun.
 
 <img src="covers/2098459622453756301.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu içecek için e-ticarete yönelik bir UGC doğrudan kameraya konuşma (talking-head) videosu oluşturun. Ürünü uluslararası bir kitleye sergilemek ve tanıtmak için influencer tarzında genç bir kadın ekranda görünmelidir. Lezzet Mango Çarkıfelek Meyvesi.
 ```
 
 [↑ Kategorilere dön](#catalog)

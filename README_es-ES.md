@@ -1601,20 +1601,20 @@ Traducción en curso
 
 <a name="prompt-2098459622453756301"></a>
 
-### Traducción en curso
+### Crea un vídeo UGC de busto parlante para comercio electrónico de una influencer presentando una bebida.
 
 Autor：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Publicación original](https://x.com/Ava_Ai__/status/2098459622453756301)
 
 Imagen principal de e-commerce · Influencer / Modelo · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un vídeo UGC de busto parlante para comercio electrónico de una influencer presentando una bebida.
 
 <img src="covers/2098459622453756301.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vídeo UGC de busto parlante para comercio electrónico de esta bebida. Una mujer joven con estilo de influencer debe aparecer en cámara para mostrar y presentar el producto a una audiencia internacional. El sabor es Mango Maracuyá.
 ```
 
 [↑ Volver a categorías](#catalog)
