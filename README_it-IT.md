@@ -1208,20 +1208,20 @@ Traduzione in corso
 
 <a name="prompt-2098328564471091256"></a>
 
-### Traduzione in corso
+### Prompt per generare una suora che indossa un abito talare nero e una collana con croce d'oro.
 
 Autore：[@AI\_Kei75](https://x.com/AI_Kei75) · [Post originale](https://x.com/AI_Kei75/status/2098328564471091256)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per generare una suora che indossa un abito talare nero e una collana con croce d'oro.
 
 <img src="images/2098328564471091256-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+suora, costume da suora, velo da suora nero, soggolo bianco, colletto alto, collana con croce d'oro, maniche lunghe, polsini bianchi, (abito nero intero:1.2), (tessuto morbido), tonaca lunga completamente nera, caviglia, décolleté nere,
 ```
 
 [↑ Torna alle categorie](#catalog)

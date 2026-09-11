@@ -1208,20 +1208,20 @@ Traduction en cours
 
 <a name="prompt-2098328564471091256"></a>
 
-### Traduction en cours
+### Prompt pour générer une nonne portant un habit noir et un collier avec une croix en or.
 
 Auteur：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publication originale](https://x.com/AI_Kei75/status/2098328564471091256)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour générer une nonne portant un habit noir et un collier avec une croix en or.
 
 <img src="images/2098328564471091256-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+nonne, costume de nonne, voile de nonne noir, guimpe blanche, col montant, collier croix en or, manches longues, poignets blancs, (robe une pièce noire:1.2), (texture douce), longue robe entièrement noire, cheville, escarpins noirs,
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1208,20 +1208,20 @@ Produktmarketing · Charakter · Veröffentlicht
 
 <a name="prompt-2098328564471091256"></a>
 
-### Übersetzung läuft
+### Prompt zum Generieren einer Nonne in schwarzem Habit und goldener Kreuzkette.
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Originalbeitrag](https://x.com/AI_Kei75/status/2098328564471091256)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zum Generieren einer Nonne in schwarzem Habit und goldener Kreuzkette.
 
 <img src="images/2098328564471091256-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Nonne, Nonnenkostüm, schwarzer Nonnenschleier, weiße Wimpel, Stehkragen, goldene Kreuzhalskette, lange Ärmel, weiße Manschetten, (schwarzes einteiliges Kleid:1.2), (weiche Textur), komplett schwarzes langes Gewand, Knöchel, schwarze Pumps,
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

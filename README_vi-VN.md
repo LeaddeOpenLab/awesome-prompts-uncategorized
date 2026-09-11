@@ -1232,20 +1232,20 @@ Tiếp thị sản phẩm · Nhân vật · Đã xuất bản
 
 <a name="prompt-2098328564471091256"></a>
 
-### Đang dịch
+### Lời nhắc để tạo hình một nữ tu mặc tu phục màu đen và đeo dây chuyền thánh giá vàng.
 
 Tác giả：[@AI\_Kei75](https://x.com/AI_Kei75) · [Bài gốc](https://x.com/AI_Kei75/status/2098328564471091256)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc để tạo hình một nữ tu mặc tu phục màu đen và đeo dây chuyền thánh giá vàng.
 
 <img src="images/2098328564471091256-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+nữ tu, trang phục nữ tu, khăn trùm đầu nữ tu màu đen, khăn che cổ màu trắng, cổ áo cao, dây chuyền thánh giá vàng, tay áo dài, cổ tay áo màu trắng, (váy liền thân màu đen:1.2), (kết cấu mềm mại), áo choàng dài toàn màu đen, mắt cá chân, giày cao gót đen bít mũi,
 ```
 
 [↑ Về danh mục](#catalog)

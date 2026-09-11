@@ -1232,20 +1232,20 @@ Traducción en curso
 
 <a name="prompt-2098328564471091256"></a>
 
-### Traducción en curso
+### Prompt para generar una monja vestida con hábito negro y collar con cruz de oro.
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicación original](https://x.com/AI_Kei75/status/2098328564471091256)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar una monja vestida con hábito negro y collar con cruz de oro.
 
 <img src="images/2098328564471091256-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+monja, hábito de monja, velo de monja negro, toca blanca, cuello alto, collar con cruz de oro, mangas largas, puños blancos, (vestido negro de una pieza:1.2), (textura suave), túnica larga completamente negra, tobillo, zapatos de salón negros,
 ```
 
 [↑ Volver a categorías](#catalog)

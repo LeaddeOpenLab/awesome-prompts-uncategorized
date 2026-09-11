@@ -1208,20 +1208,20 @@ Tradução em curso
 
 <a name="prompt-2098328564471091256"></a>
 
-### Tradução em curso
+### Prompt para gerar uma freira vestindo um hábito preto e um colar com cruz de ouro.
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicação original](https://x.com/AI_Kei75/status/2098328564471091256)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para gerar uma freira vestindo um hábito preto e um colar com cruz de ouro.
 
 <img src="images/2098328564471091256-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+freira, hábito de freira, véu de freira preto, touca branca, gola alta, colar com cruz de ouro, mangas compridas, punhos brancos, (vestido preto de peça única:1.2), (textura suave), túnica comprida toda preta, tornozelo, sapatos de salto pretos,
 ```
 
 [↑ Voltar às categorias](#catalog)

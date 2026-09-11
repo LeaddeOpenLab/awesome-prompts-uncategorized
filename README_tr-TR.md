@@ -1208,20 +1208,20 @@ Yazar：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Orijinal gönderi](ht
 
 <a name="prompt-2098328564471091256"></a>
 
-### Çeviri sürüyor
+### Siyah rahibe kıyafeti giymiş ve altın haç kolye takmış bir rahibe oluşturmak için prompt.
 
 Yazar：[@AI\_Kei75](https://x.com/AI_Kei75) · [Orijinal gönderi](https://x.com/AI_Kei75/status/2098328564471091256)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Siyah rahibe kıyafeti giymiş ve altın haç kolye takmış bir rahibe oluşturmak için prompt.
 
 <img src="images/2098328564471091256-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+rahibe, rahibe kıyafeti, siyah rahibe duvağı, beyaz başörtüsü, yüksek yaka, altın haç kolye, uzun kollu, beyaz manşetler, (siyah tek parça elbise:1.2), (yumuşak doku), tamamen siyah uzun cübbe, ayak bileği, siyah topuklu ayakkabılar,
 ```
 
 [↑ Kategorilere dön](#catalog)

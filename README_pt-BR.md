@@ -1208,20 +1208,20 @@ Tradução em andamento
 
 <a name="prompt-2098328564471091256"></a>
 
-### Tradução em andamento
+### Prompt para gerar uma freira vestindo hábito preto e colar de cruz de ouro.
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicação original](https://x.com/AI_Kei75/status/2098328564471091256)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para gerar uma freira vestindo hábito preto e colar de cruz de ouro.
 
 <img src="images/2098328564471091256-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+freira, fantasia de freira, véu de freira preto, touca branca, gola alta, colar de cruz dourada, mangas compridas, punhos brancos, (vestido preto de peça única:1.2), (textura macia), túnica longa toda preta, tornozelo, sapatos de salto pretos,
 ```
 
 [↑ Voltar às categorias](#catalog)
