@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**75** Prompts · Latest addition: **2026-09-11**
+**76** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1717,6 +1717,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098476919939342835"></a>
+
+### Depicting an aloof ancient-style woman combing her hair in the morning.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098476919939342835)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** Depicting an aloof ancient-style woman combing her hair in the morning.
+
+<img src="images/2098476919939342835-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Wide-collar nightgown; generous expanse of bare skin on the chest; fully exposed collarbones; combing hair in the morning; chin slightly raised; cold and indifferent expression; light, ethereal and aloof
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098418180674773370"></a>
 
