@@ -1610,20 +1610,20 @@ Streetart Hanoi
 
 <a name="prompt-2098498537466249640"></a>
 
-### Übersetzung läuft
+### Eine Ameisenmutter, die mit ihrem Sohn einen Bollerwagen voller Essen zieht, sucht unter einem großen Blatt Schutz vor dem Regen.
 
 Autor：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Originalbeitrag](https://x.com/RobinMurrat43a/status/2098498537466249640)
 
 Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine Ameisenmutter, die mit ihrem Sohn einen Bollerwagen voller Essen zieht, sucht unter einem großen Blatt Schutz vor dem Regen.
 
 <img src="covers/2098498537466249640.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine Ameisenmutter zieht ihren Karren mit Essen hinter sich her, ihr Sohn folgt ihr. Es beginnt zu regnen, also zieht sie unter ein großes Blatt, das Schutz vor dem Regen bietet. Sie ruft ihrem Sohn zu, dass er in ihrer Nähe bleiben soll!
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

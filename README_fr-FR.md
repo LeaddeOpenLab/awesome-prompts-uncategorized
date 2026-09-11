@@ -1610,20 +1610,20 @@ Street art à Hanoï
 
 <a name="prompt-2098498537466249640"></a>
 
-### Traduction en cours
+### Une maman fourmi tirant une charrette de nourriture avec son fils s'abrite de la pluie sous une grande feuille.
 
 Auteur：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Publication originale](https://x.com/RobinMurrat43a/status/2098498537466249640)
 
 Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une maman fourmi tirant une charrette de nourriture avec son fils s'abrite de la pluie sous une grande feuille.
 
 <img src="covers/2098498537466249640.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une maman fourmi tire sa charrette de nourriture, suivie de son fils. La pluie commence à tomber, alors elle s'abrite sous une grande feuille qui sert d'abri contre la pluie. Elle crie à son fils de rester près d'elle !
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1610,20 +1610,20 @@ Arte callejero de Hanói
 
 <a name="prompt-2098498537466249640"></a>
 
-### Traducción en curso
+### Una mamá hormiga que tira de un carrito de comida con su hijo se refugia de la lluvia bajo una gran hoja.
 
 Autor：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Publicación original](https://x.com/RobinMurrat43a/status/2098498537466249640)
 
 Comida y bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una mamá hormiga que tira de un carrito de comida con su hijo se refugia de la lluvia bajo una gran hoja.
 
 <img src="covers/2098498537466249640.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una mamá hormiga tira de su carrito de comida con su hijo siguiéndola. Empieza a llover, así que se resguarda bajo una gran hoja que le da refugio de la lluvia. ¡Le grita a su hijo que se mantenga cerca!
 ```
 
 [↑ Volver a categorías](#catalog)

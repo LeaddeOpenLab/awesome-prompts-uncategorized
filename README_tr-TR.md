@@ -1627,20 +1627,20 @@ Hanoi sokak sanatı
 
 <a name="prompt-2098498537466249640"></a>
 
-### Çeviri sürüyor
+### Oğluyla birlikte yiyecek arabası çeken bir anne karınca, büyük bir yaprağın altında yağmurdan korunuyor.
 
 Yazar：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Orijinal gönderi](https://x.com/RobinMurrat43a/status/2098498537466249640)
 
 Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Oğluyla birlikte yiyecek arabası çeken bir anne karınca, büyük bir yaprağın altında yağmurdan korunuyor.
 
 <img src="covers/2098498537466249640.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Anne karınca, peşinde oğluyla birlikte yiyecek arabasını çekiyor. Yağmur yağmaya başlar, bu yüzden yağmur geçene kadar koruma sağlayan büyük bir yaprağın altına sığınır. Oğluna yakın durmasını söyler!
 ```
 
 [↑ Kategorilere dön](#catalog)

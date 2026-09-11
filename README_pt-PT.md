@@ -1627,20 +1627,20 @@ Arte de rua em Hanói
 
 <a name="prompt-2098498537466249640"></a>
 
-### Tradução em curso
+### Uma mãe formiga a puxar um carrinho de comida com o filho abriga-se da chuva sob uma folha grande.
 
 Autor：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Publicação original](https://x.com/RobinMurrat43a/status/2098498537466249640)
 
 Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma mãe formiga a puxar um carrinho de comida com o filho abriga-se da chuva sob uma folha grande.
 
 <img src="covers/2098498537466249640.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma mãe formiga está a puxar a sua carroça de comida com o seu filho atrás. Começa a chover, por isso ela abriga-se debaixo de uma folha grande que serve de cobertura até a chuva passar. Ela chama o filho para ficar por perto!
 ```
 
 [↑ Voltar às categorias](#catalog)

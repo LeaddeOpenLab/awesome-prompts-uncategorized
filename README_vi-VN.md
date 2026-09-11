@@ -1645,20 +1645,20 @@ Nghệ thuật đường phố Hà Nội
 
 <a name="prompt-2098498537466249640"></a>
 
-### Đang dịch
+### Kiến mẹ kéo xe thức ăn cùng con trai trú mưa dưới một chiếc lá lớn.
 
 Tác giả：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Bài gốc](https://x.com/RobinMurrat43a/status/2098498537466249640)
 
 Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Kiến mẹ kéo xe thức ăn cùng con trai trú mưa dưới một chiếc lá lớn.
 
 <img src="covers/2098498537466249640.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một kiến mẹ đang kéo xe thức ăn cùng con trai đi theo sau. Trời bắt đầu mưa, nên cô kéo xe vào dưới một chiếc lá lớn che chở cho đến khi tạnh mưa. Cô gọi con trai nhắc con ở gần bên!
 ```
 
 [↑ Về danh mục](#catalog)

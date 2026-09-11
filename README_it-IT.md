@@ -1610,20 +1610,20 @@ Street art ad Hanoi
 
 <a name="prompt-2098498537466249640"></a>
 
-### Traduzione in corso
+### Una mamma formica che tira un carretto di cibo insieme al figlio si ripara dalla pioggia sotto una grande foglia.
 
 Autore：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Post originale](https://x.com/RobinMurrat43a/status/2098498537466249640)
 
 Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una mamma formica che tira un carretto di cibo insieme al figlio si ripara dalla pioggia sotto una grande foglia.
 
 <img src="covers/2098498537466249640.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una mamma formica sta trainando il suo carretto di cibo con il figlio al seguito. Inizia a piovere, quindi si rifugia sotto una grande foglia che offre riparo fino al termine della pioggia. Grida a suo figlio di starle vicino!
 ```
 
 [↑ Torna alle categorie](#catalog)
