@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:04:35.260Z",
+  "model": "unknown-image",
+  "prompt": "A fitted blue-and-red spiderweb-inspired sleeveless bodysuit with a sleek superhero-style design. The main body is deep royal blue with thin red web-pattern lines extending across the chest, torso, waist, and abdomen. It features a high mock neckline and a prominent teardrop-shaped chest cutout outlined with thick red trim.\n\nThe bodysuit has a close-fitting athletic silhouette with high-cut leg openings and contrasting deep-red geometric side panels around the hips and lower waist. The blue fabric has a smooth, slightly satin-like stretch finish with realistic tension and subtle natural folds.\n\nMatching detachable long blue arm sleeves extend from the upper arms to the wrists, leaving the shoulders exposed. Each sleeve features thin red linear detailing and bold red angular accents near the forearms.\n\nPreserve the exact design characteristics: deep royal-blue base, thin red spiderweb-style line pattern, high mock neckline, red-trimmed teardrop chest cutout, sleeveless exposed-shoulder construction, fitted one-piece bodysuit silhouette, red geometric hip panels, and matching long blue detached sleeves with red accents.",
+  "promptTranslations": {
+    "en": "A fitted blue-and-red spiderweb-inspired sleeveless bodysuit with a sleek superhero-style design. The main body is deep royal blue with thin red web-pattern lines extending across the chest, torso, waist, and abdomen. It features a high mock neckline and a prominent teardrop-shaped chest cutout outlined with thick red trim.\n\nThe bodysuit has a close-fitting athletic silhouette with high-cut leg openings and contrasting deep-red geometric side panels around the hips and lower waist. The blue fabric has a smooth, slightly satin-like stretch finish with realistic tension and subtle natural folds.\n\nMatching detachable long blue arm sleeves extend from the upper arms to the wrists, leaving the shoulders exposed. Each sleeve features thin red linear detailing and bold red angular accents near the forearms.\n\nPreserve the exact design characteristics: deep royal-blue base, thin red spiderweb-style line pattern, high mock neckline, red-trimmed teardrop chest cutout, sleeveless exposed-shoulder construction, fitted one-piece bodysuit silhouette, red geometric hip panels, and matching long blue detached sleeves with red accents."
+  },
+  "summaryTranslations": {
+    "en": "A prompt detailing a blue-and-red spiderweb-inspired sleeveless bodysuit with cutout details and matching arm sleeves."
+  },
+  "translationVersion": 2,
+  "summary": "A prompt detailing a blue-and-red spiderweb-inspired sleeveless bodysuit with cutout details and matching arm sleeves.",
+  "summaryEn": "A prompt detailing a blue-and-red spiderweb-inspired sleeveless bodysuit with cutout details and matching arm sleeves.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098249488150532562",
+    "canonicalUrl": "https://x.com/AI_money_club/status/2098249488150532562",
+    "author": {
+      "username": "AI_money_club",
+      "displayName": "こやす69＠AIプロンプト屋",
+      "profileUrl": "https://x.com/AI_money_club"
+    },
+    "publishedAt": "2026-09-11T03:17:16.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "ja",
+    "originalText": "素材✨\nスパイダーマン🕷\n-------------Prompt----------\nA fitted blue-and-red spiderweb-inspired sleeveless bodysuit with a sleek superhero-style design. The main body is deep royal blue with thin red web-pattern lines extending across the chest, torso, waist, and abdomen. It features a high mock neckline and a prominent teardrop-shaped chest cutout outlined with thick red trim.\n\nThe bodysuit has a close-fitting athletic silhouette with high-cut leg openings and contrasting deep-red geometric side panels around the hips and lower waist. The blue fabric has a smooth, slightly satin-like stretch finish with realistic tension and subtle natural folds.\n\nMatching detachable long blue arm sleeves extend from the upper arms to the wrists, leaving the shoulders exposed. Each sleeve features thin red linear detailing and bold red angular accents near the forearms.\n\nPreserve the exact design characteristics: deep royal-blue base, thin red spiderweb-style line pattern, high mock neckline, red-trimmed teardrop chest cutout, sleeveless exposed-shoulder construction, fitted one-piece bodysuit silhouette, red geometric hip panels, and matching long blue detached sleeves with red accents.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR56oftaMAAK_dR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR56oftaMAAK_dR.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 4,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 2909
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_money_club/status/2098249488150532562",
+  "coverUrl": "https://pbs.twimg.com/media/HR56oftaMAAK_dR.jpg",
+  "coverPath": "images/2098249488150532562-1.jpg",
+  "imagePaths": [
+    "images/2098249488150532562-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR56oftaMAAK_dR",
+    "x-post:2098249488150532562"
+  ],
+  "analysis": {
+    "summary": "A prompt detailing a blue-and-red spiderweb-inspired sleeveless bodysuit with cutout details and matching arm sleeves.",
+    "summaryEn": "A prompt detailing a blue-and-red spiderweb-inspired sleeveless bodysuit with cutout details and matching arm sleeves.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The prompt describes a royal-blue and red spiderweb bodysuit with mock neck, teardrop cutout, and matching arm sleeves on a mannequin, perfectly mirroring the attached image."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A fitted blue-and-red spiderweb-inspired sleeveless bodysuit with a sleek superhero-style design. The main body is deep royal blue with thin red web-pattern lines extending across the chest, torso, waist, and abdomen. It features a high mock neckline and a prominent teardrop-shaped chest cutout outlined with thick red trim.\n\nThe bodysuit has a close-fitting athletic silhouette with high-cut leg openings and contrasting deep-red geometric side panels around the hips and lower waist. The blue fabric has a smooth, slightly satin-like stretch finish with realistic tension and subtle natural folds.\n\nMatching detachable long blue arm sleeves extend from the upper arms to the wrists, leaving the shoulders exposed. Each sleeve features thin red linear detailing and bold red angular accents near the forearms.\n\nPreserve the exact design characteristics: deep royal-blue base, thin red spiderweb-style line pattern, high mock neckline, red-trimmed teardrop chest cutout, sleeveless exposed-shoulder construction, fitted one-piece bodysuit silhouette, red geometric hip panels, and matching long blue detached sleeves with red accents.",
+    "sourceRange": {
+      "start": 43,
+      "end": 1178
+    },
+    "translations": {
+      "zh": "一款贴身的红蓝配色蜘蛛网灵感无袖连体紧身衣，具有流线型超级英雄风格设计。主体为深皇家蓝色，胸部、躯干、腰部和腹部延伸着纤细的红色网状线条。它拥有高领设计，以及由粗红边勾勒的醒目水滴形胸部镂空。\n\n连体衣具有紧身运动轮廓、高开叉裤口，以及臀部和低腰周围形成对比的深红几何侧拼接。蓝色面料具有光滑、微光泽的弹性缎面质感，带有逼真的张力与微妙自然的褶皱。\n\n配套的可拆卸蓝色长臂袖从上臂延伸至手腕，露出双肩。每只袖子均饰有纤细的红色线性细节，小臂附近带有醒目的红色棱角图案装饰。\n\n保留确切的设计特征：深皇家蓝底色、纤细红色蜘蛛网线条、高领、红边水滴胸部镂空、无袖露肩结构、贴身一件式连体衣轮廓、红色几何臀部裁片，以及带有红色点缀的同款独立长臂袖。",
+      "en": "A fitted blue-and-red spiderweb-inspired sleeveless bodysuit with a sleek superhero-style design. The main body is deep royal blue with thin red web-pattern lines extending across the chest, torso, waist, and abdomen. It features a high mock neckline and a prominent teardrop-shaped chest cutout outlined with thick red trim.\n\nThe bodysuit has a close-fitting athletic silhouette with high-cut leg openings and contrasting deep-red geometric side panels around the hips and lower waist. The blue fabric has a smooth, slightly satin-like stretch finish with realistic tension and subtle natural folds.\n\nMatching detachable long blue arm sleeves extend from the upper arms to the wrists, leaving the shoulders exposed. Each sleeve features thin red linear detailing and bold red angular accents near the forearms.\n\nPreserve the exact design characteristics: deep royal-blue base, thin red spiderweb-style line pattern, high mock neckline, red-trimmed teardrop chest cutout, sleeveless exposed-shoulder construction, fitted one-piece bodysuit silhouette, red geometric hip panels, and matching long blue detached sleeves with red accents."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "outfit design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Spider-Man concept"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
