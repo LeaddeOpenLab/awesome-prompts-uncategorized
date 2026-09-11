@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**58** Prompts · Latest addition: **2026-09-11**
+**59** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1156,6 +1156,85 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098351198072111552"></a>
+
+### A two-tier &quot;stamp window travel notes&quot; layout prompt combining vintage paper, stamp perforations, and real photography poster typography.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098351198072111552)
+
+Poster / Flyer · Photography · Retro / Vintage · Text / Typography · Published
+
+**Summary:** A two-tier &quot;stamp window travel notes&quot; layout prompt combining vintage paper, stamp perforations, and real photography poster typography.
+
+<img src="images/2098351198072111552-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098351198072111552-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098351198072111552-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098351198072111552-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Input image 1 is the travel photo that must be faithfully used; input image 2 serves only as a reference for layout, paper texture, stamp perforations, postmarks, and text hierarchy; do not copy the specific location or subject from input image 2.
+
+Turn input image 1 into a 3:4 vertical editorial poster titled "Stamp Window Travel Notes". Strictly adopt a two-tier layout without any illustrative stylization; all photo areas must use the exact same real scene from input image 1.
+
+The upper section occupies approximately 37% of the frame:
+
+Laid with warm, light ivory aged paper, retaining genuine paper fibers, subtle creases, natural spots, and soft shadows.
+
+On the left side, place two lines of dark gray-black vintage typewriter text:
+
+[Location or Memory Title]
+FIELD NOTE [Number]
+
+The title is larger, field tracking is moderately spaced out, and ample paper whitespace is preserved around it.
+
+On the right side, place a horizontal photo stamp, approximately 58% of the width of the upper section. Inside the stamp, use the real photo from input image 1, cropped appropriately for a horizontal aspect ratio while preserving the core subject.
+
+The photo stamp features:
+
+- A warm white thick paper border;
+- Regular semicircular die-cut perforations around all four edges;
+- Subtle paper thickness;
+- Restrained, natural contact drop shadows;
+- Slightly aged yet neat paper edges.
+
+In the lower-right corner of the stamp, superimpose a vintage black postmark that partially extends beyond the stamp's border. The postmark includes an incomplete circular ring and three parallel wavy lines, with a worn, faded, and semi-transparent ink texture, and must not obscure the main subject of the photo.
+
+The lower section occupies approximately 63% of the frame:
+
+Let the same real photo from input image 1 bleed edge-to-edge across the frame. Naturally cropped to fit the 3:4 poster, maintaining the original photo's subjects, people, architecture, perspective, lighting, and colors, without adding nonexistent elements.
+
+The lower section must retain realistic photographic quality, avoiding turning into watercolor, anime, printmaking, or sketching.
+
+In the lower-left area of the lower photo, place a small horizontal warm white paper caption label, spanning approximately 25%–32% of the frame's width. The label has subtle paper thickness and a soft drop shadow, containing only a short vintage typewriter observation sentence of no more than two lines:
+
+[A brief observation directly related to the photo scene]
+
+Key perforation rules:
+
+The upper photo stamp and the lower caption label must use the exact same die-cut perforation system:
+
+- Identical hole diameter;
+- Identical arc depth;
+- Identical center-to-center spacing;
+- Identical semicircular notch shape;
+- Identical paper margin/border width.
+
+Perforations must not be proportionally scaled due to different paper sizes. The actual visual size of the holes in both areas must remain consistent in the finished artwork, not dense in one place and coarse in another; they must not turn into serrations, scalloped edges, or torn paper fringes.
+
+Overall, it looks like a photo page from a vintage travel archive: above is the title and a stamp-like miniature, below is a large-format photo of the same scene, with an observation printed on a small perforated paper strip. Colors derive from the original photo, the paper surface is understated, and the information is minimal yet precise.
+
+Avoid: illustrative conversion, watercolor, anime, etching, standard equal-sized upper-and-lower comparison images, multiple stamps, excessive postmarks, cluttered journal stickers, tape, left-right column split, large paper areas at the bottom, author names, brands, logos, URLs, QR codes, watermarks, garbled characters, and extraneous text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097892340165992619"></a>
 

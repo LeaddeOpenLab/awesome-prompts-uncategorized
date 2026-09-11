@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**58** 条内容 · 最新收录: **2026-09-11**
+**59** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1087,6 +1087,34 @@ CGI毛发、
 <a name="category-retro-vintage"></a>
 
 ## 复古 / 怀旧
+
+<a name="prompt-2098351198072111552"></a>
+
+### 翻译中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2098351198072111552)
+
+海报 / 传单 · 摄影 · 复古 / 怀旧 · 文本 / 排版 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098351198072111552-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098351198072111552-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098351198072111552-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098351198072111552-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2097892340165992619"></a>
 
