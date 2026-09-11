@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:23:59.777Z",
+  "model": "unknown-image",
+  "prompt": "Create a premium vertical editorial comparison poster, split exactly 50/50 top and bottom with a clean straight midline. Top half: photorealistic travel photograph of [SUBJECT] with natural light, authentic texture, slight magazine-grade color grade only — keep the photo realistic, do not illustrate the top half. Bottom half: sparse black crayon gesture study of the same subject on warm white textured paper — hesitant broken crayon outlines, incomplete fills, paper tooth, one or two light crayon color smudges sampled from the photo. Delete almost all background; keep only a faint ground line or wall hint. Subject mostly paper-white negative space, not fully filled. Subject about 38–58% of bottom width, lower-center. Continuous warm-white whitespace ≥55%. Handwritten shaky crayon French text clearly readable: a short title, « ÉTUDE CRAYON 0N », and one factual observation in French. No English text. Avoid fine fur detail, cute vector mascots, full fills, dense doodles, full backgrounds, smooth digital pencil, product illustration, logos, signatures, watermarks. Subjects: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).",
+  "promptTranslations": {
+    "en": "Create a premium vertical editorial comparison poster, split exactly 50/50 top and bottom with a clean straight midline. Top half: photorealistic travel photograph of [SUBJECT] with natural light, authentic texture, slight magazine-grade color grade only — keep the photo realistic, do not illustrate the top half. Bottom half: sparse black crayon gesture study of the same subject on warm white textured paper — hesitant broken crayon outlines, incomplete fills, paper tooth, one or two light crayon color smudges sampled from the photo. Delete almost all background; keep only a faint ground line or wall hint. Subject mostly paper-white negative space, not fully filled. Subject about 38–58% of bottom width, lower-center. Continuous warm-white whitespace ≥55%. Handwritten shaky crayon French text clearly readable: a short title, « ÉTUDE CRAYON 0N », and one factual observation in French. No English text. Avoid fine fur detail, cute vector mascots, full fills, dense doodles, full backgrounds, smooth digital pencil, product illustration, logos, signatures, watermarks. Subjects: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04)."
+  },
+  "summaryTranslations": {
+    "en": "Create a split editorial comparison poster with a photo on top and a crayon sketch with French notes on bottom."
+  },
+  "translationVersion": 2,
+  "summary": "Create a split editorial comparison poster with a photo on top and a crayon sketch with French notes on bottom.",
+  "summaryEn": "Create a split editorial comparison poster with a photo on top and a crayon sketch with French notes on bottom.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098371221184495917",
+    "canonicalUrl": "https://x.com/Weilnes/status/2098371221184495917",
+    "author": {
+      "username": "Weilnes",
+      "displayName": "Weilnes 🫀",
+      "profileUrl": "https://x.com/Weilnes"
+    },
+    "publishedAt": "2026-09-11T11:20:59.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "en",
+    "originalText": "Haut photo, bas crayon. plein de blanc.\n\nPrompt :\n\n```\nCreate a premium vertical editorial comparison poster, split exactly 50/50 top and bottom with a clean straight midline. Top half: photorealistic travel photograph of [SUBJECT] with natural light, authentic texture, slight magazine-grade color grade only — keep the photo realistic, do not illustrate the top half. Bottom half: sparse black crayon gesture study of the same subject on warm white textured paper — hesitant broken crayon outlines, incomplete fills, paper tooth, one or two light crayon color smudges sampled from the photo. Delete almost all background; keep only a faint ground line or wall hint. Subject mostly paper-white negative space, not fully filled. Subject about 38–58% of bottom width, lower-center. Continuous warm-white whitespace ≥55%. Handwritten shaky crayon French text clearly readable: a short title, « ÉTUDE CRAYON 0N », and one factual observation in French. No English text. Avoid fine fur detail, cute vector mascots, full fills, dense doodles, full backgrounds, smooth digital pencil, product illustration, logos, signatures, watermarks. Subjects: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).\n```",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7pdz_awAAv7l0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7pdz_awAAv7l0.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7pdz8bgAAiQUf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7pdz8bgAAiQUf.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7pdz_a4AAL2ue.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7pdz_a4AAL2ue.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7pdzLa4AAvlbX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7pdzLa4AAvlbX.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 5
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Weilnes/status/2098371221184495917",
+  "coverUrl": "https://pbs.twimg.com/media/HR7pdz_awAAv7l0.jpg",
+  "coverPath": "images/2098371221184495917-1.jpg",
+  "imagePaths": [
+    "images/2098371221184495917-1.jpg",
+    "images/2098371221184495917-2.jpg",
+    "images/2098371221184495917-3.jpg",
+    "images/2098371221184495917-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR7pdz_awAAv7l0",
+    "x-image:/media/HR7pdz8bgAAiQUf",
+    "x-image:/media/HR7pdz_a4AAL2ue",
+    "x-image:/media/HR7pdzLa4AAvlbX",
+    "x-post:2098371221184495917"
+  ],
+  "analysis": {
+    "summary": "Create a split editorial comparison poster with a photo on top and a crayon sketch with French notes on bottom.",
+    "summaryEn": "Create a split editorial comparison poster with a photo on top and a crayon sketch with French notes on bottom.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images precisely demonstrate the 50/50 split layout with photos on top and crayon gesture drawings with French text labels on bottom for all four suggested subjects."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a premium vertical editorial comparison poster, split exactly 50/50 top and bottom with a clean straight midline. Top half: photorealistic travel photograph of [SUBJECT] with natural light, authentic texture, slight magazine-grade color grade only — keep the photo realistic, do not illustrate the top half. Bottom half: sparse black crayon gesture study of the same subject on warm white textured paper — hesitant broken crayon outlines, incomplete fills, paper tooth, one or two light crayon color smudges sampled from the photo. Delete almost all background; keep only a faint ground line or wall hint. Subject mostly paper-white negative space, not fully filled. Subject about 38–58% of bottom width, lower-center. Continuous warm-white whitespace ≥55%. Handwritten shaky crayon French text clearly readable: a short title, « ÉTUDE CRAYON 0N », and one factual observation in French. No English text. Avoid fine fur detail, cute vector mascots, full fills, dense doodles, full backgrounds, smooth digital pencil, product illustration, logos, signatures, watermarks. Subjects: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).",
+    "sourceRange": {
+      "start": 55,
+      "end": 1377
+    },
+    "translations": {
+      "zh": "创建一张高档垂直编辑对比海报，上下按 50/50 比例用整洁的中线精准分割。上半部分：[主体] 的写实旅行摄影，具有自然光线、真实质感和微弱的杂志级调色——保持照片逼真，不要插画化。下半部分：同一主体在暖白质感纸上的极简黑蜡笔动态速写——带有犹豫的断续蜡笔轮廓、未完全填充、纸张纹理感，以及从照片中提取的一两处蜡笔轻度污迹上色。去除绝大部分背景；仅保留微弱的地平线或墙壁暗示。主体大部分留出纸白负空间，不完全涂满。主体约占底部宽度的 38–58%，居下中偏下。保持连续暖白留白≥55%。清晰易读的手写发抖蜡笔法文文本：简短标题 « ÉTUDE CRAYON 0N » 和一条用法文写的客观观察。不要英文文本。避免精细毛发、可爱矢量吉祥物、全填色、密集涂鸦、完整背景、平滑数码铅笔、产品插图、标志、签名和水印。预设主体：铺路石上的橘猫（PAUSE RUE / ÉTUDE CRAYON 01）、门旁堆叠的手提箱（PRÊT À PARTIR / ÉTUDE CRAYON 02）、靠墙的自行车（ATTENTE / ÉTUDE CRAYON 03）、温热的杯子（PETITE PAUSE / ÉTUDE CRAYON 04）。",
+      "en": "Create a premium vertical editorial comparison poster, split exactly 50/50 top and bottom with a clean straight midline. Top half: photorealistic travel photograph of [SUBJECT] with natural light, authentic texture, slight magazine-grade color grade only — keep the photo realistic, do not illustrate the top half. Bottom half: sparse black crayon gesture study of the same subject on warm white textured paper — hesitant broken crayon outlines, incomplete fills, paper tooth, one or two light crayon color smudges sampled from the photo. Delete almost all background; keep only a faint ground line or wall hint. Subject mostly paper-white negative space, not fully filled. Subject about 38–58% of bottom width, lower-center. Continuous warm-white whitespace ≥55%. Handwritten shaky crayon French text clearly readable: a short title, « ÉTUDE CRAYON 0N », and one factual observation in French. No English text. Avoid fine fur detail, cute vector mascots, full fills, dense doodles, full backgrounds, smooth digital pencil, product illustration, logos, signatures, watermarks. Subjects: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04)."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Split editorial comparison poster combining realistic photography and crayon sketch",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
