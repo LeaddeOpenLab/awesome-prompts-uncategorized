@@ -1295,20 +1295,20 @@ Tradução em curso
 
 <a name="prompt-2098346363520274568"></a>
 
-### Tradução em curso
+### Prompt para adicionar uma cauda redonda e branca estilo coelhinha no rabo.
 
 Autor：[@harufit333](https://x.com/harufit333) · [Publicação original](https://x.com/harufit333/status/2098346363520274568)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para adicionar uma cauda redonda e branca estilo coelhinha no rabo.
 
 <img src="covers/2098346363520274568.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Coloca no rabo uma cauda redonda e branca de coelhinha.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -1295,20 +1295,20 @@ Tradução em andamento
 
 <a name="prompt-2098346363520274568"></a>
 
-### Tradução em andamento
+### Prompt para adicionar um rabo redondo e branco no estilo coelhinha no bumbum.
 
 Autor：[@harufit333](https://x.com/harufit333) · [Publicação original](https://x.com/harufit333/status/2098346363520274568)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para adicionar um rabo redondo e branco no estilo coelhinha no bumbum.
 
 <img src="covers/2098346363520274568.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Coloque no bumbum um rabo redondo e branco de coelhinha.
 ```
 
 [↑ Voltar às categorias](#catalog)

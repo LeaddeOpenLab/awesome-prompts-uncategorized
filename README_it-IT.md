@@ -1295,20 +1295,20 @@ Traduzione in corso
 
 <a name="prompt-2098346363520274568"></a>
 
-### Traduzione in corso
+### Prompt per aggiungere una coda bianca e rotonda stile bunny girl sul sedere.
 
 Autore：[@harufit333](https://x.com/harufit333) · [Post originale](https://x.com/harufit333/status/2098346363520274568)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per aggiungere una coda bianca e rotonda stile bunny girl sul sedere.
 
 <img src="covers/2098346363520274568.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Aggiungi sul sedere una coda bianca e rotonda da coniglietta (bunny girl).
 ```
 
 [↑ Torna alle categorie](#catalog)

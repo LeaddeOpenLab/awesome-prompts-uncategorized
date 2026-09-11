@@ -1295,20 +1295,20 @@ Traducción en curso
 
 <a name="prompt-2098346363520274568"></a>
 
-### Traducción en curso
+### Prompt para añadir una cola blanca y redonda estilo conejita en el trasero.
 
 Autor：[@harufit333](https://x.com/harufit333) · [Publicación original](https://x.com/harufit333/status/2098346363520274568)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para añadir una cola blanca y redonda estilo conejita en el trasero.
 
 <img src="covers/2098346363520274568.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Ponle en el trasero una cola blanca y redonda de conejita.
 ```
 
 [↑ Volver a categorías](#catalog)

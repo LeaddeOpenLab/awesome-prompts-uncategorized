@@ -1295,20 +1295,20 @@ Traduction en cours
 
 <a name="prompt-2098346363520274568"></a>
 
-### Traduction en cours
+### Prompt pour ajouter une queue blanche et ronde de bunny girl sur les fesses.
 
 Auteur：[@harufit333](https://x.com/harufit333) · [Publication originale](https://x.com/harufit333/status/2098346363520274568)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour ajouter une queue blanche et ronde de bunny girl sur les fesses.
 
 <img src="covers/2098346363520274568.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Mets sur les fesses une queue ronde et blanche de bunny girl.
 ```
 
 [↑ Retour aux catégories](#catalog)

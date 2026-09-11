@@ -1319,20 +1319,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098346363520274568"></a>
 
-### Đang dịch
+### Lời nhắc thêm một chiếc đuôi tròn màu trắng kiểu bunny girl vào mông.
 
 Tác giả：[@harufit333](https://x.com/harufit333) · [Bài gốc](https://x.com/harufit333/status/2098346363520274568)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc thêm một chiếc đuôi tròn màu trắng kiểu bunny girl vào mông.
 
 <img src="covers/2098346363520274568.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ở mông hãy gắn thêm một chiếc đuôi tròn màu trắng kiểu cô gái thỏ (bunny girl).
 ```
 
 [↑ Về danh mục](#catalog)

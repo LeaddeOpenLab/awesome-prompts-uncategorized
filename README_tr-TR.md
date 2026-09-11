@@ -1295,20 +1295,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098346363520274568"></a>
 
-### Çeviri sürüyor
+### Kalçaya tavşan kız tarzı beyaz, yuvarlak bir kuyruk ekleme istemi.
 
 Yazar：[@harufit333](https://x.com/harufit333) · [Orijinal gönderi](https://x.com/harufit333/status/2098346363520274568)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kalçaya tavşan kız tarzı beyaz, yuvarlak bir kuyruk ekleme istemi.
 
 <img src="covers/2098346363520274568.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kalçasına tavşan kız tarzı beyaz, yuvarlak bir kuyruk ekleyin.
 ```
 
 [↑ Kategorilere dön](#catalog)

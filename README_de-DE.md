@@ -1295,20 +1295,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098346363520274568"></a>
 
-### Übersetzung läuft
+### Prompt zum Hinzufügen eines weißen, runden Hasenmädchen-Schwanzes am Hintern.
 
 Autor：[@harufit333](https://x.com/harufit333) · [Originalbeitrag](https://x.com/harufit333/status/2098346363520274568)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zum Hinzufügen eines weißen, runden Hasenmädchen-Schwanzes am Hintern.
 
 <img src="covers/2098346363520274568.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Bring am Hintern einen weißen, runden Hasenmädchen-Schwanz an.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
