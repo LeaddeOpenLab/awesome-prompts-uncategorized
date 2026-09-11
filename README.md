@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**53** Prompts · Latest addition: **2026-09-11**
+**54** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1384,6 +1384,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098343290626290133"></a>
+
+### oversized light pink sweater, long sleeves, \(sleeves past fingers\), shirt under clothes, shirt under sweater, white collared shirt, \(collarbone\), heart necklace, loose bowtie, pink plaid bowtie, brown plaid pleated skirt, miniskirt, white loose socks, brown loafers,
+
+Author：[@AI\_Kei75](https://x.com/AI_Kei75) · [Source](https://x.com/AI_Kei75/status/2098343290626290133)
+
+Other · Published
+
+**Summary:** oversized light pink sweater, long sleeves, \(sleeves past fingers\), shirt under clothes, shirt under sweater, white collared shirt, \(collarbone\), heart necklace, loose bowtie, pink plaid bowtie, brown plaid pleated skirt, miniskirt, white loose socks, brown loafers,
+
+<img src="images/2098343290626290133-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+oversized light pink sweater, long sleeves, (sleeves past fingers), shirt under clothes, shirt under sweater, white collared shirt, (collarbone), heart necklace, loose bowtie, pink plaid bowtie, brown plaid pleated skirt, miniskirt, white loose socks, brown loafers,
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098306910915375260"></a>
 
