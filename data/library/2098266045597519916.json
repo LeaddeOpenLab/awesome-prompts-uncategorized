@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:22:14.049Z",
+  "model": "unknown-image",
+  "prompt": "ultra wide close perspective (14~20mm), exaggerated perspective, dutch tilt 15°, slight barrel distortion, handheld snapshot aesthetic, strong depth: sharp subject, deep background layers, subject distance 0.5m, direct on camera hard flash, bright catchlights, ambient underexposed by 1~2 stops, flash falloff, specular highlights on skin/jewelry, fast shutter flash snapshot look, high frequency detail, filmic grain medium, halation + micro contrast, subtle chromatic aberration, wind driven motion on edges, Ancient China Tang dynasty aesthetic, bustling night market, East Asian female, delicate refined facial features, big expressive eyes, small cherry mouth, extremely voluptuous figure, exaggerated large bust, extremely high aesthetic standard, flawless bone structure, porcelain skin quality, high status, clean silhouette, premium materials, high production value, looking back over her shoulder with a playful alluring smile, walking rapidly through the dense crowd, one hand raising an intricately woven silk sleeve brushing close to the lens, bustling Chang'an street, glowing red paper lanterns, motion-blurred pedestrians in traditional hanfu, flying sparks from street vendors, dense vibrant atmosphere, cool hard flash on foreground subject vs warm ambient practicals in background, subtle 'Soran' element naturally integrated into silk fabric embroidery, faint aesthetic signature, organic blending, harmonious composition, non intrusive, almost invisible.",
+  "promptTranslations": {
+    "en": "ultra wide close perspective (14~20mm), exaggerated perspective, dutch tilt 15°, slight barrel distortion, handheld snapshot aesthetic, strong depth: sharp subject, deep background layers, subject distance 0.5m, direct on camera hard flash, bright catchlights, ambient underexposed by 1~2 stops, flash falloff, specular highlights on skin/jewelry, fast shutter flash snapshot look, high frequency detail, filmic grain medium, halation + micro contrast, subtle chromatic aberration, wind driven motion on edges, Ancient China Tang dynasty aesthetic, bustling night market, East Asian female, delicate refined facial features, big expressive eyes, small cherry mouth, extremely voluptuous figure, exaggerated large bust, extremely high aesthetic standard, flawless bone structure, porcelain skin quality, high status, clean silhouette, premium materials, high production value, looking back over her shoulder with a playful alluring smile, walking rapidly through the dense crowd, one hand raising an intricately woven silk sleeve brushing close to the lens, bustling Chang'an street, glowing red paper lanterns, motion-blurred pedestrians in traditional hanfu, flying sparks from street vendors, dense vibrant atmosphere, cool hard flash on foreground subject vs warm ambient practicals in background, subtle 'Soran' element naturally integrated into silk fabric embroidery, faint aesthetic signature, organic blending, harmonious composition, non intrusive, almost invisible."
+  },
+  "summaryTranslations": {
+    "en": "This prompt is used to generate a traditional-style female snapshot set in the bustling Tang dynasty Chang'an night market, employing a wide-angle lens, tilted perspective, direct on-camera hard flash, and cool-versus-warm lighting contrast to portray an opulent hanfu-clad woman looking back and brushing her sleeve."
+  },
+  "translationVersion": 2,
+  "summary": "该提示词用于生成盛唐长安夜市氛围中的古风女性快照，运用广角、倾斜视角、机顶硬闪光与冷暖光对比，刻画回眸拂袖的华贵汉服女子。",
+  "summaryEn": "This prompt generates a snapshot of an elegant East Asian woman in Tang dynasty attire walking through a bustling Chang'an night market, featuring wide-angle perspective, direct hard flash lighting, and vivid festive background elements.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098258401344229596",
+      "canonicalUrl": "https://x.com/Soranlan/status/2098258401344229596",
+      "author": {
+        "username": "Soranlan",
+        "displayName": "Soran",
+        "profileUrl": "https://x.com/Soranlan"
+      },
+      "originalText": "雾把远处的桥和屋檐压得很低，水面几乎没有波纹。\n\n她撑着一把旧纸伞站在河岸，深蓝衣袍被湿气压出更沉的颜色。近处是人，远处是桥，再远一点只剩一层化不开的青灰。\nPrompt（EN）\n\nultra wide close perspective (14~20mm), exaggerated perspective, dutch tilt 15°, slight barrel distortion, handheld snapshot aesthetic, strong depth: sharp subject, deep background layers, subject distance 0.5m, direct on camera hard flash, bright catchlights, ambient underexposed by 1~2 stops, flash falloff, specular highlights on skin/jewelry, fast shutter flash snapshot look, high frequency detail (pores, fabric weave), filmic grain (medium), halation + micro contrast, subtle chromatic aberration (on corners), wind driven motion on edges (flying hair / drifting fabric), Ancient China Jiangnan water town setting, high humidity morning mist, traditional aesthetic, East Asian female, delicate refined facial features, big expressive eyes, small cherry mouth, extremely voluptuous figure, exaggerated large bust, extremely high aesthetic standard, flawless bone structure, porcelain skin quality, high status, clean silhouette, premium materials, high production value, gently turning her head to look at the camera, holding an oiled-paper umbrella, soft damp hair clinging slightly to her cheeks, serene and tranquil expression, breathing the cold morning air, heavy morning mist rolling over the water, wet willow branches brushing against the immediate foreground lens, faint silhouette of a classic stone bridge over West Lake in the deep background, dew drops, flash filling shadows mixed with cold twilight blue hour ambient light, cool blueish atmospheric background, subtle 'Soran' element naturally integrated into silk umbrella embroidery, faint aesthetic signature, organic blending, harmonious composition, non intrusive, almost invisible\n7.3 Negative（EN）\n\nplastic skin, over smoothed skin, airbrushed skin, CGI, anime look, uncanny valley, doll like, bad anatomy, extra fingers, deformed hands, malformed limbs, crossed eyes, asymmetrical face, duplicated face, muddy texture, low detail fabric, harsh HDR, over sharpening, beauty studio lighting, softbox, flat evenly lit, overexposed highlights, clean studio look, everything in focus, tack sharp background, random text, watermark, logo, letters, captions, subtitles, jpeg artifacts, modern architecture, cars, skyscrapers, neon lights"
+    },
+    "id": "2098266045597519916",
+    "canonicalUrl": "https://x.com/Soranlan/status/2098266045597519916",
+    "author": {
+      "username": "Soranlan",
+      "displayName": "Soran",
+      "profileUrl": "https://x.com/Soranlan"
+    },
+    "publishedAt": "2026-09-11T04:23:03.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "zh",
+    "originalText": "灯笼一盏盏往街深处排，摊前的热气、人群和木楼挤成一条很满的夜市。\n\n她从人流里回头，抬袖的一瞬间把整张图拉出了动势。前景是人，身后是烟火气，再往远处才是层层灯火，人物像被整条街托起来。\nprompt：\n\n7.2 Prompt (EN)\n\nultra wide close perspective (14~20mm), exaggerated perspective, dutch tilt 15°, slight barrel distortion, handheld snapshot aesthetic, strong depth: sharp subject, deep background layers, subject distance 0.5m, direct on camera hard flash, bright catchlights, ambient underexposed by 1~2 stops, flash falloff, specular highlights on skin/jewelry, fast shutter flash snapshot look, high frequency detail, filmic grain medium, halation + micro contrast, subtle chromatic aberration, wind driven motion on edges, Ancient China Tang dynasty aesthetic, bustling night market, East Asian female, delicate refined facial features, big expressive eyes, small cherry mouth, extremely voluptuous figure, exaggerated large bust, extremely high aesthetic standard, flawless bone structure, porcelain skin quality, high status, clean silhouette, premium materials, high production value, looking back over her shoulder with a playful alluring smile, walking rapidly through the dense crowd, one hand raising an intricately woven silk sleeve brushing close to the lens, bustling Chang'an street, glowing red paper lanterns, motion-blurred pedestrians in traditional hanfu, flying sparks from street vendors, dense vibrant atmosphere, cool hard flash on foreground subject vs warm ambient practicals in background, subtle 'Soran' element naturally integrated into silk fabric embroidery, faint aesthetic signature, organic blending, harmonious composition, non intrusive, almost invisible.\n7.3 Negative (EN)\n\nplastic skin, over smoothed skin, airbrushed skin, CGI, anime look, uncanny valley, doll like, bad anatomy, extra fingers, deformed hands, malformed limbs, crossed eyes, asymmetrical face, duplicated face, muddy texture, low detail fabric, harsh HDR, over sharpening, beauty studio lighting, softbox, flat evenly lit, overexposed highlights, clean studio look, everything in focus, tack sharp background, random text, watermark, logo, letters, captions, subtitles, jpeg artifacts, modern clothing, modern buildings, smartphones, cars, streetlights, anachronism",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6JvhzaoAANV_t.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6JvhzaoAANV_t.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6J0o7aMAAhrjq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6J0o7aMAAhrjq.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6CBaTaEAEyY7R.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6CBaTaEAEyY7R.jpg",
+        "sourcePostId": "2098258401344229596"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6CDZIasAACEhL.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6CDZIasAACEhL.jpg",
+        "sourcePostId": "2098258401344229596"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6C3iEb0AADjlC.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6C3iEb0AADjlC.jpg",
+        "sourcePostId": "2098258401344229596"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 349
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Soranlan/status/2098266045597519916",
+  "coverUrl": "https://pbs.twimg.com/media/HR6JvhzaoAANV_t.jpg",
+  "coverPath": "images/2098266045597519916-1.jpg",
+  "imagePaths": [
+    "images/2098266045597519916-1.jpg",
+    "images/2098266045597519916-2.jpg",
+    "images/2098266045597519916-3.jpg",
+    "images/2098266045597519916-4.jpg",
+    "images/2098266045597519916-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR6JvhzaoAANV_t",
+    "x-image:/media/HR6J0o7aMAAhrjq",
+    "x-image:/media/HR6CBaTaEAEyY7R",
+    "x-image:/media/HR6CDZIasAACEhL",
+    "x-image:/media/HR6C3iEb0AADjlC",
+    "x-post:2098266045597519916",
+    "x-post:2098258401344229596"
+  ],
+  "analysis": {
+    "summary": "该提示词用于生成盛唐长安夜市氛围中的古风女性快照，运用广角、倾斜视角、机顶硬闪光与冷暖光对比，刻画回眸拂袖的华贵汉服女子。",
+    "summaryEn": "This prompt generates a snapshot of an elegant East Asian woman in Tang dynasty attire walking through a bustling Chang'an night market, featuring wide-angle perspective, direct hard flash lighting, and vivid festive background elements.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图片中的东亚女性身着华美唐代汉服回眸微笑，前景有抬袖遮掠近镜头的构图，背景为挂满红灯笼的热闹夜市摊位与虚化人群，闪光灯直射前景与背景暖光完全贴合提示词描述。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "ultra wide close perspective (14~20mm), exaggerated perspective, dutch tilt 15°, slight barrel distortion, handheld snapshot aesthetic, strong depth: sharp subject, deep background layers, subject distance 0.5m, direct on camera hard flash, bright catchlights, ambient underexposed by 1~2 stops, flash falloff, specular highlights on skin/jewelry, fast shutter flash snapshot look, high frequency detail, filmic grain medium, halation + micro contrast, subtle chromatic aberration, wind driven motion on edges, Ancient China Tang dynasty aesthetic, bustling night market, East Asian female, delicate refined facial features, big expressive eyes, small cherry mouth, extremely voluptuous figure, exaggerated large bust, extremely high aesthetic standard, flawless bone structure, porcelain skin quality, high status, clean silhouette, premium materials, high production value, looking back over her shoulder with a playful alluring smile, walking rapidly through the dense crowd, one hand raising an intricately woven silk sleeve brushing close to the lens, bustling Chang'an street, glowing red paper lanterns, motion-blurred pedestrians in traditional hanfu, flying sparks from street vendors, dense vibrant atmosphere, cool hard flash on foreground subject vs warm ambient practicals in background, subtle 'Soran' element naturally integrated into silk fabric embroidery, faint aesthetic signature, organic blending, harmonious composition, non intrusive, almost invisible.",
+    "sourceRange": {
+      "start": 119,
+      "end": 1594
+    },
+    "translations": {
+      "zh": "超广角近景视角（14~20mm），夸张透视，荷兰角15°倾斜，轻微桶形畸变，手持快照美学，强景深效果：清晰主体，深邃背景层次，拍摄距离0.5米，机顶直打硬闪光灯，明亮眼神光，环境光欠曝1~2档，闪光衰减，皮肤/首饰上的镜面高光，高速快门闪光快照质感，高频细节，中度胶片颗粒，光晕与微对比，细微色差，边缘随风摆动动态，中国唐代古代美学，繁华夜市，东亚女性，精致五官，灵动大眼，小巧樱桃嘴，极度丰满身材，夸张大胸，极高美学水准，无瑕骨骼结构，瓷肌质感，高贵气质，利落剪影，高级面料材质，高制作水准，回头回眸露出俏皮诱人微笑，在拥挤人流中疾行，一手抬起做工精致的丝绸衣袖掠近镜头，繁华的长安街头，发光的红色纸灯笼，身着传统汉服并带有动态模糊的行人，街头小贩处溅起的火星，密集而充满活力的氛围，前景主体上的冷硬闪光灯与背景暖调环境光源形成对比，丝绸面料刺绣中自然融入淡淡的“Soran”元素，微弱的美学签名，有机融合，和谐构图，毫不突兀，几乎不可察觉。",
+      "en": "ultra wide close perspective (14~20mm), exaggerated perspective, dutch tilt 15°, slight barrel distortion, handheld snapshot aesthetic, strong depth: sharp subject, deep background layers, subject distance 0.5m, direct on camera hard flash, bright catchlights, ambient underexposed by 1~2 stops, flash falloff, specular highlights on skin/jewelry, fast shutter flash snapshot look, high frequency detail, filmic grain medium, halation + micro contrast, subtle chromatic aberration, wind driven motion on edges, Ancient China Tang dynasty aesthetic, bustling night market, East Asian female, delicate refined facial features, big expressive eyes, small cherry mouth, extremely voluptuous figure, exaggerated large bust, extremely high aesthetic standard, flawless bone structure, porcelain skin quality, high status, clean silhouette, premium materials, high production value, looking back over her shoulder with a playful alluring smile, walking rapidly through the dense crowd, one hand raising an intricately woven silk sleeve brushing close to the lens, bustling Chang'an street, glowing red paper lanterns, motion-blurred pedestrians in traditional hanfu, flying sparks from street vendors, dense vibrant atmosphere, cool hard flash on foreground subject vs warm ambient practicals in background, subtle 'Soran' element naturally integrated into silk fabric embroidery, faint aesthetic signature, organic blending, harmonious composition, non intrusive, almost invisible."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "唐风夜市街头快照人像",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
