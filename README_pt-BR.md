@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**48** Prompts · Última adição: **2026-09-11**
+**49** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -425,6 +425,28 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098289889964183843"></a>
+
+### Tradução em andamento
+
+Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Publicação original](https://x.com/HeyRu0by/status/2098289889964183843)
+
+Marketing de Produto · Fotografia · Cinematográfico / Imagem de Filme · Alimentos / Bebidas · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098289889964183843.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098265320448553176"></a>
 

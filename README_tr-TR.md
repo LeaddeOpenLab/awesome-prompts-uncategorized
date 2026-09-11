@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**48** Prompt · Son eklenen: **2026-09-11**
+**49** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -425,6 +425,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098289889964183843"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@HeyRu0by](https://x.com/HeyRu0by) · [Orijinal gönderi](https://x.com/HeyRu0by/status/2098289889964183843)
+
+Ürün Pazarlaması · Fotoğrafçılık · Sinematik / Film Karesi · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098289889964183843.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098265320448553176"></a>
 

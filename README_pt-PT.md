@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**48** Prompts · Adição mais recente: **2026-09-11**
+**49** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -425,6 +425,28 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098289889964183843"></a>
+
+### Tradução em curso
+
+Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Publicação original](https://x.com/HeyRu0by/status/2098289889964183843)
+
+Marketing de Produto · Fotografia · Cena de Cinema / Fotograma · Comida / Bebida · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098289889964183843.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098265320448553176"></a>
 
