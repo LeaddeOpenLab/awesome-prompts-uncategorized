@@ -1019,20 +1019,20 @@ Traduzione in corso
 
 <a name="prompt-2098260186737901631"></a>
 
-### Traduzione in corso
+### Prompt per video macro rilassante di una mano umana che costruisce passo dopo passo una casetta di mattoni in un cantiere in miniatura.
 
 Autore：[@Mud01185127](https://x.com/Mud01185127) · [Post originale](https://x.com/Mud01185127/status/2098260186737901631)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per video macro rilassante di una mano umana che costruisce passo dopo passo una casetta di mattoni in un cantiere in miniatura.
 
 <img src="covers/2098260186737901631.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una scena di costruzione in miniatura cinematografica e iperrealistica in cui una mano umana gigante costruisce con cura una minuscola struttura di mattoni su un cantiere in miniatura. Mostra piccoli mattoni dettagliati, cemento realistico, attrezzi, terreno sabbioso, texture naturali, profondità di campo ridotta, fotografia macro, movimenti di camera fluidi, illuminazione realistica e un appagante processo di costruzione passo dopo passo. Ultradettagliato, fotorealistico, 4K, verticale 9:16, continuità visiva perfetta.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -1019,20 +1019,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098260186737901631"></a>
 
-### Übersetzung läuft
+### Entspannender Makro-Videoprompt: Eine menschliche Hand baut Schritt für Schritt ein Ziegelhäuschen auf einer Miniaturbaustelle.
 
 Autor：[@Mud01185127](https://x.com/Mud01185127) · [Originalbeitrag](https://x.com/Mud01185127/status/2098260186737901631)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Entspannender Makro-Videoprompt: Eine menschliche Hand baut Schritt für Schritt ein Ziegelhäuschen auf einer Miniaturbaustelle.
 
 <img src="covers/2098260186737901631.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine hyperrealistische, filmische Miniatur-Baustellenszene, in der eine riesige menschliche Hand sorgfältig ein winziges Ziegelbauwerk auf einer Miniaturbaustelle errichtet. Zeige detaillierte kleine Ziegelsteine, realistischen Zement, Werkzeuge, sandigen Boden, natürliche Texturen, geringe Schärfentiefe, Makrofotografie, sanfte Kamerabewegungen, realistische Beleuchtung und einen befriedigenden, schrittweisen Bauablauf. Ultradetailliert, fotorealistisch, 4K, vertikal 9:16, nahtlose visuelle Kontinuität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

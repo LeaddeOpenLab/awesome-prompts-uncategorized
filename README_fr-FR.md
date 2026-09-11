@@ -1019,20 +1019,20 @@ Traduction en cours
 
 <a name="prompt-2098260186737901631"></a>
 
-### Traduction en cours
+### Prompt de vidéo macro relaxante montrant une main humaine construisant étape par étape une maisonnette en briques sur un chantier miniature.
 
 Auteur：[@Mud01185127](https://x.com/Mud01185127) · [Publication originale](https://x.com/Mud01185127/status/2098260186737901631)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo macro relaxante montrant une main humaine construisant étape par étape une maisonnette en briques sur un chantier miniature.
 
 <img src="covers/2098260186737901631.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une scène de construction miniature cinématographique et hyperréaliste où une main humaine géante construit méticuleusement une minuscule structure en briques sur un chantier miniature. Montrez de petites briques détaillées, du ciment réaliste, des outils, un sol sablonneux, des textures naturelles, une faible profondeur de champ, de la macrophotographie, des mouvements de caméra fluides, un éclairage réaliste et une construction étape par étape satisfaisante. Ultra-détaillé, photoréaliste, 4K, vertical 9:16, continuité visuelle fluide.
 ```
 
 [↑ Retour aux catégories](#catalog)

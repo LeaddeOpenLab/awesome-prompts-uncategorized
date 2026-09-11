@@ -1019,20 +1019,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098260186737901631"></a>
 
-### Çeviri sürüyor
+### Minyatür şantiye sahnesinde bir insan elinin adım adım tuğla kulübe inşa ettiği rahatlatıcı makro video istemi.
 
 Yazar：[@Mud01185127](https://x.com/Mud01185127) · [Orijinal gönderi](https://x.com/Mud01185127/status/2098260186737901631)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Minyatür şantiye sahnesinde bir insan elinin adım adım tuğla kulübe inşa ettiği rahatlatıcı makro video istemi.
 
 <img src="covers/2098260186737901631.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Minyatür bir şantiye alanında dev bir insan elinin küçük bir tuğla yapıyı özenle inşa ettiği, hiper gerçekçi ve sinematik bir minyatür inşaat sahnesi oluşturun. Ayrıntılı küçük tuğlalar, gerçekçi çimento, aletler, kumlu zemin, doğal dokular, sığ alan derinliği, makro fotoğrafçılık, pürüzsüz kamera hareketleri, gerçekçi aydınlatma ve tatmin edici adım adım inşa sürecini gösterin. Ultra ayrıntılı, fotogerçekçi, 4K, dikey 9:16, kesintisiz görsel süreklilik.
 ```
 
 [↑ Kategorilere dön](#catalog)

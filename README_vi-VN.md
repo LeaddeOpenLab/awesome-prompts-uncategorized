@@ -1043,20 +1043,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098260186737901631"></a>
 
-### Đang dịch
+### Lời nhắc video macro thư giãn ghi lại cảnh bàn tay người từng bước xây dựng ngôi nhà gạch trên công trường thu nhỏ.
 
 Tác giả：[@Mud01185127](https://x.com/Mud01185127) · [Bài gốc](https://x.com/Mud01185127/status/2098260186737901631)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video macro thư giãn ghi lại cảnh bàn tay người từng bước xây dựng ngôi nhà gạch trên công trường thu nhỏ.
 
 <img src="covers/2098260186737901631.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một cảnh công trường thu nhỏ mang tính điện ảnh siêu thực, nơi một bàn tay người khổng lồ cẩn thận xây dựng một công trình gạch tí hon trên một công trường xây dựng thu nhỏ. Thể hiện những viên gạch nhỏ chi tiết, xi măng chân thực, dụng cụ, mặt đất cát, kết cấu tự nhiên, độ sâu trường ảnh nông, chụp ảnh macro, chuyển động máy quay mượt mà, ánh sáng chân thực và quá trình xây dựng từng bước đầy thỏa mãn. Cực kỳ chi tiết, chân thực như ảnh chụp, 4K, khung hình dọc 9:16, tính liên tục thị giác liền mạch.
 ```
 
 [↑ Về danh mục](#catalog)

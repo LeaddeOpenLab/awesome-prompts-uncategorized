@@ -1043,20 +1043,20 @@ Traducción en curso
 
 <a name="prompt-2098260186737901631"></a>
 
-### Traducción en curso
+### Prompt de vídeo macro relajante de una mano humana construyendo paso a paso una casita de ladrillo en una obra en miniatura.
 
 Autor：[@Mud01185127](https://x.com/Mud01185127) · [Publicación original](https://x.com/Mud01185127/status/2098260186737901631)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de vídeo macro relajante de una mano humana construyendo paso a paso una casita de ladrillo en una obra en miniatura.
 
 <img src="covers/2098260186737901631.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una escena de construcción en miniatura cinematográfica e hiperrealista en la que una mano humana gigante construye cuidadosamente una pequeña estructura de ladrillos en una obra en miniatura. Muestra pequeños ladrillos detallados, cemento realista, herramientas, suelo arenoso, texturas naturales, profundidad de campo reducida, fotografía macro, movimiento de cámara suave, iluminación realista y una satisfactoria construcción paso a paso. Ultradetallado, fotorrealista, 4K, vertical 9:16, continuidad visual perfecta.
 ```
 
 [↑ Volver a categorías](#catalog)

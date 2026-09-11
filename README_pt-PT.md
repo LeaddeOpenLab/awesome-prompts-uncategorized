@@ -1019,20 +1019,20 @@ Tradução em curso
 
 <a name="prompt-2098260186737901631"></a>
 
-### Tradução em curso
+### Prompt de vídeo macro relaxante de uma mão humana a construir passo a passo uma casinha de alvenaria num estaleiro em miniatura.
 
 Autor：[@Mud01185127](https://x.com/Mud01185127) · [Publicação original](https://x.com/Mud01185127/status/2098260186737901631)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo macro relaxante de uma mão humana a construir passo a passo uma casinha de alvenaria num estaleiro em miniatura.
 
 <img src="covers/2098260186737901631.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma cena de construção em miniatura cinematográfica e hiper-realista, onde uma mão humana gigante constrói cuidadosamente uma pequena estrutura de tijolos num estaleiro de obras em miniatura. Mostre pequenos tijolos detalhados, cimento realista, ferramentas, chão arenoso, texturas naturais, profundidade de campo reduzida, fotografia macro, movimentos de câmara suaves, iluminação realista e uma construção passo a passo gratificante. Ultradetalhado, fotorrealista, 4K, vertical 9:16, continuidade visual perfeita.
 ```
 
 [↑ Voltar às categorias](#catalog)
