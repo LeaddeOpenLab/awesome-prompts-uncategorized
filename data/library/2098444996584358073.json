@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:22:27.715Z",
+  "model": "unknown-image",
+  "prompt": "2::Vertical composition, full-body shot from behind, low angle, figure positioned in the foreground at the center of the frame, standing with legs apart, head tilted back while looking up at a massive wall, holding swords hanging down at both sides::, 2::Survey Corps uniform::, short brown military jacket, white shirt, leather belt, form-fitting white trousers, knee-high brown leather boots, 1.5::dark brown leather harness, straps crossing the chest, waist, thighs, and legs::, green hooded military cape, 1.7::'Wings of Freedom' emblem on the back, insignia featuring crossed blue and white feathered wings, large emblem in the center of the back::, 1.8::burning ruined village, destroyed houses, collapsing roofs, flames rising on both sides, scorched streets::, massive stone wall spanning the horizon, fortified gate, 3::colossal black figure appearing from beyond the wall, giant dark head and hands gripping the edge of the wall, overwhelming scale::, 1.7::massive explosion occurring behind the wall, blazing orange flames, thick smoke, glowing sky::, flying embers, sparks, ash, heat haze, intense backlighting, deep shadows, dramatic scale contrast, apocalyptic, desolate, ominous, and desperate atmosphere, cinematic presentation, 2::large Japanese title text \"進撃の巨人\" (Attack on Titan) at the bottom center, center-aligned typography, title logo, bold Japanese typeface, clearly legible text::",
+  "promptTranslations": {
+    "en": "2::Vertical composition, full-body shot from behind, low angle, figure positioned in the foreground at the center of the frame, standing with legs apart, head tilted back while looking up at a massive wall, holding swords hanging down at both sides::, 2::Survey Corps uniform::, short brown military jacket, white shirt, leather belt, form-fitting white trousers, knee-high brown leather boots, 1.5::dark brown leather harness, straps crossing the chest, waist, thighs, and legs::, green hooded military cape, 1.7::'Wings of Freedom' emblem on the back, insignia featuring crossed blue and white feathered wings, large emblem in the center of the back::, 1.8::burning ruined village, destroyed houses, collapsing roofs, flames rising on both sides, scorched streets::, massive stone wall spanning the horizon, fortified gate, 3::colossal black figure appearing from beyond the wall, giant dark head and hands gripping the edge of the wall, overwhelming scale::, 1.7::massive explosion occurring behind the wall, blazing orange flames, thick smoke, glowing sky::, flying embers, sparks, ash, heat haze, intense backlighting, deep shadows, dramatic scale contrast, apocalyptic, desolate, ominous, and desperate atmosphere, cinematic presentation, 2::large Japanese title text \"進撃の巨人\" (Attack on Titan) at the bottom center, center-aligned typography, title logo, bold Japanese typeface, clearly legible text::"
+  },
+  "summaryTranslations": {
+    "en": "Attack on Titan iconic wall poster scene featuring a Survey Corps member facing a colossal titan over the wall."
+  },
+  "translationVersion": 2,
+  "summary": "Attack on Titan iconic wall poster scene featuring a Survey Corps member facing a colossal titan over the wall.",
+  "summaryEn": "Attack on Titan iconic wall poster scene featuring a Survey Corps member facing a colossal titan over the wall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098444996584358073",
+    "canonicalUrl": "https://x.com/R_yeong_/status/2098444996584358073",
+    "author": {
+      "username": "R_yeong_",
+      "displayName": "백 령",
+      "profileUrl": "https://x.com/R_yeong_"
+    },
+    "publishedAt": "2026-09-11T16:14:09.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "ko",
+    "originalText": "[ 39. 白鈴 𝐏𝐫𝐨𝐦𝐩𝐭 ]                               \n\n‘ 그날, 인류는 떠올렸다. 놈들에게 지배당해 왔던 공포를...새장 속에서 갇혀만 살았었던 굴욕을... ’\n\n※ 찐빠 - 4 / 5\n※ NAI 5버전\n\n※경고※ \n캐릭프롬 앞 프롬 안빼시면 거인 및 뒤돌아 보기에 얼굴이 나오시기에 빼시는걸 추천 드립니다.\n\n2::Vertical composition, full-body shot from behind, low angle, figure positioned in the foreground at the center of the frame, standing with legs apart, head tilted back while looking up at a massive wall, holding swords hanging down at both sides::, 2::Survey Corps uniform::, short brown military jacket, white shirt, leather belt, form-fitting white trousers, knee-high brown leather boots, 1.5::dark brown leather harness, straps crossing the chest, waist, thighs, and legs::, green hooded military cape, 1.7::'Wings of Freedom' emblem on the back, insignia featuring crossed blue and white feathered wings, large emblem in the center of the back::, 1.8::burning ruined village, destroyed houses, collapsing roofs, flames rising on both sides, scorched streets::, massive stone wall spanning the horizon, fortified gate, 3::colossal black figure appearing from beyond the wall, giant dark head and hands gripping the edge of the wall, overwhelming scale::, 1.7::massive explosion occurring behind the wall, blazing orange flames, thick smoke, glowing sky::, flying embers, sparks, ash, heat haze, intense backlighting, deep shadows, dramatic scale contrast, apocalyptic, desolate, ominous, and desperate atmosphere, cinematic presentation, 2::large Japanese title text \"進撃の巨人\" (Attack on Titan) at the bottom center, center-aligned typography, title logo, bold Japanese typeface, clearly legible text::",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8saJbawAAUH0h.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8saJbawAAUH0h.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8shAtaAAARmMv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8shAtaAAARmMv.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 39
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/R_yeong_/status/2098444996584358073",
+  "coverUrl": "https://pbs.twimg.com/media/HR8saJbawAAUH0h.jpg",
+  "coverPath": "images/2098444996584358073-1.jpg",
+  "imagePaths": [
+    "images/2098444996584358073-1.jpg",
+    "images/2098444996584358073-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR8saJbawAAUH0h",
+    "x-image:/media/HR8shAtaAAARmMv",
+    "x-post:2098444996584358073"
+  ],
+  "analysis": {
+    "summary": "Attack on Titan iconic wall poster scene featuring a Survey Corps member facing a colossal titan over the wall.",
+    "summaryEn": "Attack on Titan iconic wall poster scene featuring a Survey Corps member facing a colossal titan over the wall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the generated images depicting the character facing the wall with the colossal titan, Wings of Freedom cape, and title text."
+    },
+    "videoQuality": null,
+    "originalPrompt": "2::Vertical composition, full-body shot from behind, low angle, figure positioned in the foreground at the center of the frame, standing with legs apart, head tilted back while looking up at a massive wall, holding swords hanging down at both sides::, 2::Survey Corps uniform::, short brown military jacket, white shirt, leather belt, form-fitting white trousers, knee-high brown leather boots, 1.5::dark brown leather harness, straps crossing the chest, waist, thighs, and legs::, green hooded military cape, 1.7::'Wings of Freedom' emblem on the back, insignia featuring crossed blue and white feathered wings, large emblem in the center of the back::, 1.8::burning ruined village, destroyed houses, collapsing roofs, flames rising on both sides, scorched streets::, massive stone wall spanning the horizon, fortified gate, 3::colossal black figure appearing from beyond the wall, giant dark head and hands gripping the edge of the wall, overwhelming scale::, 1.7::massive explosion occurring behind the wall, blazing orange flames, thick smoke, glowing sky::, flying embers, sparks, ash, heat haze, intense backlighting, deep shadows, dramatic scale contrast, apocalyptic, desolate, ominous, and desperate atmosphere, cinematic presentation, 2::large Japanese title text \"進撃の巨人\" (Attack on Titan) at the bottom center, center-aligned typography, title logo, bold Japanese typeface, clearly legible text::",
+    "sourceRange": {
+      "start": 194,
+      "end": 1601
+    },
+    "translations": {
+      "zh": "竖构图，全身背影视角，低角度，主体人物位于画面正中前景，双腿分开站立，仰头注视高耸城墙，双手垂握双刀，身穿调查兵团制服、短款棕色军装夹克、白色衬衫、皮带、贴身白色长裤、棕色过膝皮靴，深棕色皮革背带，绿色连帽军用披风，背后带有自由之翼徽章。背景为燃烧的废墟村庄、横跨地平线的巨大石墙，城墙后方显现出巨大的黑影巨人双手按在墙头，后方发生剧烈爆炸并腾起烈焰浓烟，火星飞扬，充满末日压迫感，底部居中带有清晰日文标题文字“進撃の巨人”。",
+      "en": "Vertical composition, full-body shot from behind, low angle, figure positioned in the foreground at the center of the frame, standing with legs apart, head tilted back while looking up at a massive wall, holding swords hanging down at both sides::, 2::Survey Corps uniform::, short brown military jacket, white shirt, leather belt, form-fitting white trousers, knee-high brown leather boots, 1.5::dark brown leather harness, straps crossing the chest, waist, thighs, and legs::, green hooded military cape, 1.7::'Wings of Freedom' emblem on the back, insignia featuring crossed blue and white feathered wings, large emblem in the center of the back::, 1.8::burning ruined village, destroyed houses, collapsing roofs, flames rising on both sides, scorched streets::, massive stone wall spanning the horizon, fortified gate, 3::colossal black figure appearing from beyond the wall, giant dark head and hands gripping the edge of the wall, overwhelming scale::, 1.7::massive explosion occurring behind the wall, blazing orange flames, thick smoke, glowing sky::, flying embers, sparks, ash, heat haze, intense backlighting, deep shadows, dramatic scale contrast, apocalyptic, desolate, ominous, and desperate atmosphere, cinematic presentation, 2::large Japanese title text \"進撃の巨人\" (Attack on Titan) at the bottom center, center-aligned typography, title logo, bold Japanese typeface, clearly legible text::"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Attack on Titan poster homage",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Attack on Titan franchise"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
