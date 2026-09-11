@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**73** Prompts · Adição mais recente: **2026-09-11**
+**74** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1495,22 +1495,44 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2098417304887509188"></a>
+<a name="prompt-2098393816650879459"></a>
 
 ### Tradução em curso
+
+Autor：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Publicação original](https://x.com/sophiaparkerr_/status/2098393816650879459)
+
+Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098393816650879459.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098417304887509188"></a>
+
+### Prompt para criar uma bola de praia com o tema Pretty Cure.
 
 Autor：[@IntexLove](https://x.com/IntexLove) · [Publicação original](https://x.com/IntexLove/status/2098417304887509188)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para criar uma bola de praia com o tema Pretty Cure.
 
 <img src="images/2098417304887509188-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Criar uma bola de praia da Pretty Cure
 ```
 
 [↑ Voltar às categorias](#catalog)

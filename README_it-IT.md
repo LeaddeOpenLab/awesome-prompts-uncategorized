@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**73** Prompt · Ultima aggiunta: **2026-09-11**
+**74** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1495,22 +1495,44 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2098417304887509188"></a>
+<a name="prompt-2098393816650879459"></a>
 
 ### Traduzione in corso
+
+Autore：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Post originale](https://x.com/sophiaparkerr_/status/2098393816650879459)
+
+Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098393816650879459.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098417304887509188"></a>
+
+### Prompt per creare un pallone da spiaggia a tema Pretty Cure.
 
 Autore：[@IntexLove](https://x.com/IntexLove) · [Post originale](https://x.com/IntexLove/status/2098417304887509188)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per creare un pallone da spiaggia a tema Pretty Cure.
 
 <img src="images/2098417304887509188-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un pallone da spiaggia di Pretty Cure
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**73** Prompts · Latest addition: **2026-09-11**
+**74** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1717,6 +1717,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098393816650879459"></a>
+
+### Create a realistic UGC video of a woman showcasing her outfit in a modern home.
+
+Author：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Source](https://x.com/sophiaparkerr_/status/2098393816650879459)
+
+Character · Fashion Item · Published
+
+**Summary:** Create a realistic UGC video of a woman showcasing her outfit in a modern home.
+
+<img src="covers/2098393816650879459.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a realistic, natural-looking UGC video using the uploaded image. The woman showcases her outfit inside a stylish, modern home. Use the Kling MCP.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098417304887509188"></a>
 

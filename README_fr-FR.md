@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**73** Prompts · Dernier ajout: **2026-09-11**
+**74** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1495,22 +1495,44 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2098417304887509188"></a>
+<a name="prompt-2098393816650879459"></a>
 
 ### Traduction en cours
+
+Auteur：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Publication originale](https://x.com/sophiaparkerr_/status/2098393816650879459)
+
+Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098393816650879459.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098417304887509188"></a>
+
+### Prompt pour créer un ballon de plage aux couleurs de Pretty Cure.
 
 Auteur：[@IntexLove](https://x.com/IntexLove) · [Publication originale](https://x.com/IntexLove/status/2098417304887509188)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour créer un ballon de plage aux couleurs de Pretty Cure.
 
 <img src="images/2098417304887509188-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créer un ballon de plage Pretty Cure
 ```
 
 [↑ Retour aux catégories](#catalog)

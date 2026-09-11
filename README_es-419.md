@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**73** Prompts · Última incorporación: **2026-09-11**
+**74** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1495,22 +1495,44 @@ Traducción en curso
 
 ## Otros
 
-<a name="prompt-2098417304887509188"></a>
+<a name="prompt-2098393816650879459"></a>
 
 ### Traducción en curso
+
+Autor：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Publicación original](https://x.com/sophiaparkerr_/status/2098393816650879459)
+
+Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098393816650879459.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098417304887509188"></a>
+
+### Prompt para crear una pelota de playa con diseño de Pretty Cure.
 
 Autor：[@IntexLove](https://x.com/IntexLove) · [Publicación original](https://x.com/IntexLove/status/2098417304887509188)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para crear una pelota de playa con diseño de Pretty Cure.
 
 <img src="images/2098417304887509188-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crear una pelota de playa de Pretty Cure
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**73** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**74** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1495,22 +1495,44 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2098417304887509188"></a>
+<a name="prompt-2098393816650879459"></a>
 
 ### Übersetzung läuft
+
+Autor：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Originalbeitrag](https://x.com/sophiaparkerr_/status/2098393816650879459)
+
+Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098393816650879459.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098417304887509188"></a>
+
+### Prompt zum Erstellen eines Wasserballs im Pretty Cure-Design.
 
 Autor：[@IntexLove](https://x.com/IntexLove) · [Originalbeitrag](https://x.com/IntexLove/status/2098417304887509188)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zum Erstellen eines Wasserballs im Pretty Cure-Design.
 
 <img src="images/2098417304887509188-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Einen Pretty Cure Wasserball erstellen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

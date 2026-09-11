@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**73** Prompt · Son eklenen: **2026-09-11**
+**74** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1495,22 +1495,44 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2098417304887509188"></a>
+<a name="prompt-2098393816650879459"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Orijinal gönderi](https://x.com/sophiaparkerr_/status/2098393816650879459)
+
+Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098393816650879459.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098417304887509188"></a>
+
+### Pretty Cure temalı bir plaj topu oluşturmak için istem.
 
 Yazar：[@IntexLove](https://x.com/IntexLove) · [Orijinal gönderi](https://x.com/IntexLove/status/2098417304887509188)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pretty Cure temalı bir plaj topu oluşturmak için istem.
 
 <img src="images/2098417304887509188-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Pretty Cure plaj topu oluştur
 ```
 
 [↑ Kategorilere dön](#catalog)

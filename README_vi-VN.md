@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**73** Prompt · Bổ sung mới nhất: **2026-09-11**
+**74** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1519,22 +1519,44 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2098417304887509188"></a>
+<a name="prompt-2098393816650879459"></a>
 
 ### Đang dịch
+
+Tác giả：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Bài gốc](https://x.com/sophiaparkerr_/status/2098393816650879459)
+
+Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098393816650879459.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098417304887509188"></a>
+
+### Lời nhắc để tạo bóng đi biển theo phong cách Pretty Cure.
 
 Tác giả：[@IntexLove](https://x.com/IntexLove) · [Bài gốc](https://x.com/IntexLove/status/2098417304887509188)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc để tạo bóng đi biển theo phong cách Pretty Cure.
 
 <img src="images/2098417304887509188-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo bóng đi biển Pretty Cure
 ```
 
 [↑ Về danh mục](#catalog)
