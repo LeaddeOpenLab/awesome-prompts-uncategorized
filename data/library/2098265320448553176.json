@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:08:29.410Z",
+  "model": "unknown-video",
+  "prompt": "The camera begins low near the surging ocean waves, close to the surface as water crashes violently against the jagged rocks. It then rises upward in a smooth cinematic motion along the rugged cliffside, revealing the dramatic height of the sunlit cliffs before tilting to frame a lone figure standing defiantly at the edge, looking down at the roaring sea below. Bright sunlight illuminates the scene with crisp, clear visibility, vivid natural colors, sparkling water, and sharply defined rock textures under a clear blue sky. The overall visual feels cinematic, expansive, and powerful, with dynamic movement and a dramatic sense of scale.",
+  "promptTranslations": {
+    "en": "The camera begins low near the surging ocean waves, close to the surface as water crashes violently against the jagged rocks. It then rises upward in a smooth cinematic motion along the rugged cliffside, revealing the dramatic height of the sunlit cliffs before tilting to frame a lone figure standing defiantly at the edge, looking down at the roaring sea below. Bright sunlight illuminates the scene with crisp, clear visibility, vivid natural colors, sparkling water, and sharply defined rock textures under a clear blue sky. The overall visual feels cinematic, expansive, and powerful, with dynamic movement and a dramatic sense of scale."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic camera movement rising from crashing ocean waves along a sunlit cliff to reveal a lone figure at the edge."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic camera movement rising from crashing ocean waves along a sunlit cliff to reveal a lone figure at the edge.",
+  "summaryEn": "Cinematic camera movement rising from crashing ocean waves along a sunlit cliff to reveal a lone figure at the edge.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098265320448553176",
+    "canonicalUrl": "https://x.com/umesh_ai/status/2098265320448553176",
+    "author": {
+      "username": "umesh_ai",
+      "displayName": "Umesh",
+      "profileUrl": "https://x.com/umesh_ai"
+    },
+    "publishedAt": "2026-09-11T04:20:10.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "en",
+    "originalText": "One of the coolest text to video prompts!\n\nPrompt : The camera begins low near the surging ocean waves, close to the surface as water crashes violently against the jagged rocks. It then rises upward in a smooth cinematic motion along the rugged cliffside, revealing the dramatic height of the sunlit cliffs before tilting to frame a lone figure standing defiantly at the edge, looking down at the roaring sea below. Bright sunlight illuminates the scene with crisp, clear visibility, vivid natural colors, sparkling water, and sharply defined rock textures under a clear blue sky. The overall visual feels cinematic, expansive, and powerful, with dynamic movement and a dramatic sense of scale.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/umesh_ai/status/2098265320448553176",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098265099387674624/img/TwxGwBErkCrJw5tX.jpg",
+        "analysisUrl": "https://x.com/umesh_ai/status/2098265320448553176"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 620
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/umesh_ai/status/2098265320448553176",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098265099387674624/img/TwxGwBErkCrJw5tX.jpg",
+  "coverPath": "covers/2098265320448553176.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098265099387674624",
+    "x-post:2098265320448553176"
+  ],
+  "analysis": {
+    "summary": "Cinematic camera movement rising from crashing ocean waves along a sunlit cliff to reveal a lone figure at the edge.",
+    "summaryEn": "Cinematic camera movement rising from crashing ocean waves along a sunlit cliff to reveal a lone figure at the edge.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the camera rising along a cliff from the crashing waves, revealing a lone figure standing atop the cliff edge under clear sunlight, fully matching the prompt description."
+    },
+    "videoQuality": null,
+    "originalPrompt": "The camera begins low near the surging ocean waves, close to the surface as water crashes violently against the jagged rocks. It then rises upward in a smooth cinematic motion along the rugged cliffside, revealing the dramatic height of the sunlit cliffs before tilting to frame a lone figure standing defiantly at the edge, looking down at the roaring sea below. Bright sunlight illuminates the scene with crisp, clear visibility, vivid natural colors, sparkling water, and sharply defined rock textures under a clear blue sky. The overall visual feels cinematic, expansive, and powerful, with dynamic movement and a dramatic sense of scale.",
+    "sourceRange": {
+      "start": 52,
+      "end": 694
+    },
+    "translations": {
+      "zh": "镜头低位靠近汹涌的海浪，随着浪花猛烈拍击参差的岩石贴近水面。随后沿陡峭悬崖平稳上升，展现阳光普照的悬崖峭壁，最终仰拍边缘傲立的孤影俯瞰怒海。日光通透，色彩鲜明，海面闪烁，岩石纹理分明，天空湛蓝。整体气势恢宏。",
+      "en": "The camera begins low near the surging ocean waves, close to the surface as water crashes violently against the jagged rocks. It then rises upward in a smooth cinematic motion along the rugged cliffside, revealing the dramatic height of the sunlit cliffs before tilting to frame a lone figure standing defiantly at the edge, looking down at the roaring sea below. Bright sunlight illuminates the scene with crisp, clear visibility, vivid natural colors, sparkling water, and sharply defined rock textures under a clear blue sky. The overall visual feels cinematic, expansive, and powerful, with dynamic movement and a dramatic sense of scale."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic ocean cliff reveal with figure",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
