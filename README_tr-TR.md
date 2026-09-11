@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**59** Prompt · Son eklenen: **2026-09-11**
+**60** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -951,13 +951,13 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 
 <a name="prompt-2098371221184495917"></a>
 
-### Çeviri sürüyor
+### Üstte bir fotoğraf ve altta Fransızca notlar içeren bir pastel boya çizimi bulunan bölünmüş bir editoryal karşılaştırma posteri oluşturun.
 
 Yazar：[@Weilnes](https://x.com/Weilnes) · [Orijinal gönderi](https://x.com/Weilnes/status/2098371221184495917)
 
 Poster / El İlanı · Fotoğrafçılık · Çizim / Çizgi Sanatı · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Üstte bir fotoğraf ve altta Fransızca notlar içeren bir pastel boya çizimi bulunan bölünmüş bir editoryal karşılaştırma posteri oluşturun.
 
 <img src="images/2098371221184495917-1.jpg" alt="Görsel 1" width="480" />
 
@@ -970,7 +970,7 @@ Poster / El İlanı · Fotoğrafçılık · Çizim / Çizgi Sanatı · Yayımlan
 **İstem**
 
 ```text
-Çeviri sürüyor
+Düz ve temiz bir orta çizgiyle tam olarak 50/50 üst ve alt olarak bölünmüş, birinci sınıf dikey bir editoryal karşılaştırma posteri oluşturun. Üst yarı: doğal ışığa, özgün dokuya ve yalnızca hafif dergi kalitesinde renk derecelendirmesine sahip [SUBJECT] öğesinin fotogerçekçi seyahat fotoğrafı — fotoğrafı gerçekçi tutun, üst yarıyı resmetmeyin. Alt yarı: sıcak beyaz dokulu kağıt üzerinde aynı konunun siyah pastel boya ile yapılmış seyrek jestüel etüdü — tereddütlü, kırık pastel boya hatları, eksik dolgular, kağıt dokusu, fotoğraftan örneklenmiş bir veya iki açık pastel boya renk lekesi. Arka planın neredeyse tamamını silin; yalnızca silik bir zemin çizgisi veya duvar ipucu bırakın. Konu çoğunlukla tamamen doldurulmamış kağıt beyazı negatif alandan oluşmalıdır. Konu alt genişliğin yaklaşık %38–58'ini kaplamalı, alt-ortada yer almalıdır. Sürekli sıcak beyaz boş alan ≥%55. Fransızca, el yazısıyla yazılmış, titrek pastel boya metin net bir şekilde okunabilir olmalı: kısa bir başlık, « ÉTUDE CRAYON 0N », ve Fransızca olgusal bir gözlem. İngilizce metin olmamalı. İnce kürk ayrıntılarından, sevimli vektör maskotlardan, tam dolgulardan, yoğun karalamalardan, tam arka planlardan, pürüzsüz dijital kurşun kalemden, ürün çiziminden, logolardan, imzalardan, filigranlardan kaçının. Konular: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1264,6 +1264,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098346363520274568"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@harufit333](https://x.com/harufit333) · [Orijinal gönderi](https://x.com/harufit333/status/2098346363520274568)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098346363520274568.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 

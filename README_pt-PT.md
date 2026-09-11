@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**59** Prompts · Adição mais recente: **2026-09-11**
+**60** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -951,13 +951,13 @@ Transforme a foto numa caricatura a guache pintada à mão sobre papel de algod�
 
 <a name="prompt-2098371221184495917"></a>
 
-### Tradução em curso
+### Crie um cartaz editorial de comparação dividido com uma foto em cima e um esboço a lápis de cera com notas em francês em baixo.
 
 Autor：[@Weilnes](https://x.com/Weilnes) · [Publicação original](https://x.com/Weilnes/status/2098371221184495917)
 
 Pôster / Folheto · Fotografia · Esboço / Arte Linear · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie um cartaz editorial de comparação dividido com uma foto em cima e um esboço a lápis de cera com notas em francês em baixo.
 
 <img src="images/2098371221184495917-1.jpg" alt="Imagem 1" width="480" />
 
@@ -970,7 +970,7 @@ Pôster / Folheto · Fotografia · Esboço / Arte Linear · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz editorial de comparação vertical de alta qualidade, dividido exatamente a 50/50 em cima e em baixo com uma linha mediana reta e limpa. Metade superior: fotografia de viagem fotorrealista de [SUBJECT] com luz natural, textura autêntica, apenas uma ligeira gradação de cores de nível de revista — mantenha a fotografia realista, não ilustre a metade superior. Metade inferior: estudo gestual esparso a lápis de cera preto do mesmo motivo sobre papel texturado branco quente — contornos hesitantes e interrompidos a lápis de cera, preenchimentos incompletos, textura do papel, uma ou duas ligeiras manchas de cor a lápis de cera recolhidas da fotografia. Elimine quase todo o fundo; mantenha apenas uma linha subtil de chão ou vestígio de parede. O motivo é maioritariamente espaço negativo branco do papel, não totalmente preenchido. Motivo ocupando cerca de 38–58% da largura inferior, ao centro-inferior. Espaço em branco contínuo em branco quente ≥55%. Texto manuscrito e trémulo a lápis de cera em francês perfeitamente legível: um título curto, « ÉTUDE CRAYON 0N », e uma observação factual em francês. Sem texto em inglês. Evite detalhes finos de pelo, mascotes vetoriais fofas, preenchimentos completos, rabiscos densos, fundos completos, lápis digital suave, ilustração de produto, logótipos, assinaturas, marcas de água. Motivos: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1264,6 +1264,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098346363520274568"></a>
+
+### Tradução em curso
+
+Autor：[@harufit333](https://x.com/harufit333) · [Publicação original](https://x.com/harufit333/status/2098346363520274568)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098346363520274568.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 

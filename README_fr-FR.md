@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**59** Prompts · Dernier ajout: **2026-09-11**
+**60** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -951,13 +951,13 @@ Transformez la photo en une caricature à la gouache peinte à la main sur du pa
 
 <a name="prompt-2098371221184495917"></a>
 
-### Traduction en cours
+### Créez une affiche éditoriale de comparaison divisée avec une photo en haut et un croquis au crayon avec des notes en français en bas.
 
 Auteur：[@Weilnes](https://x.com/Weilnes) · [Publication originale](https://x.com/Weilnes/status/2098371221184495917)
 
 Affiche / Flyer · Photographie · Croquis / Dessin au trait · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez une affiche éditoriale de comparaison divisée avec une photo en haut et un croquis au crayon avec des notes en français en bas.
 
 <img src="images/2098371221184495917-1.jpg" alt="Image 1" width="480" />
 
@@ -970,7 +970,7 @@ Affiche / Flyer · Photographie · Croquis / Dessin au trait · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche éditoriale comparative verticale haut de gamme, divisée exactement à 50/50 en haut et en bas par une ligne médiane droite et nette. Moitié supérieure : photographie de voyage photoréaliste de [SUBJECT] avec une lumière naturelle, une texture authentique, un léger étalonnage des couleurs digne d'un magazine uniquement — gardez la photo réaliste, n'illustrez pas la moitié supérieure. Moitié inférieure : étude de geste épurée au crayon noir du même sujet sur papier texturé blanc chaud — contours hésitants et brisés au crayon, remplissages incomplets, grain du papier, un ou deux légers estompages de couleur au crayon échantillonnés à partir de la photo. Supprimez la quasi-totalité de l'arrière-plan ; ne conservez qu'une faible ligne de sol ou une suggestion de mur. Le sujet est principalement un espace négatif blanc papier, pas entièrement rempli. Le sujet occupe environ 38 à 58 % de la largeur inférieure, en bas au centre. Espace vide continu blanc chaud ≥55 %. Texte manuscrit en français au crayon tremblotant clairement lisible : un titre court, « ÉTUDE CRAYON 0N », et une observation factuelle en français. Pas de texte en anglais. Évitez les détails fins de pelage, les mascottes vectorielles mignonnes, les remplissages complets, les gribouillis denses, les arrière-plans complets, le crayon numérique lisse, l'illustration de produit, les logos, les signatures, les filigranes. Sujets : un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1264,6 +1264,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098346363520274568"></a>
+
+### Traduction en cours
+
+Auteur：[@harufit333](https://x.com/harufit333) · [Publication originale](https://x.com/harufit333/status/2098346363520274568)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098346363520274568.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 

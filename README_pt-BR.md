@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**59** Prompts · Última adição: **2026-09-11**
+**60** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -951,13 +951,13 @@ Transforme a foto em uma caricatura em guache pintada à mão sobre papel de alg
 
 <a name="prompt-2098371221184495917"></a>
 
-### Tradução em andamento
+### Crie um pôster editorial comparativo dividido com uma foto na parte superior e um esboço em giz de cera com anotações em francês na parte inferior.
 
 Autor：[@Weilnes](https://x.com/Weilnes) · [Publicação original](https://x.com/Weilnes/status/2098371221184495917)
 
 Pôster / Flyer · Fotografia · Esboço / Arte Linear · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um pôster editorial comparativo dividido com uma foto na parte superior e um esboço em giz de cera com anotações em francês na parte inferior.
 
 <img src="images/2098371221184495917-1.jpg" alt="Imagem 1" width="480" />
 
@@ -970,7 +970,7 @@ Pôster / Flyer · Fotografia · Esboço / Arte Linear · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um pôster editorial de comparação vertical de alta qualidade, dividido exatamente em 50/50 em cima e embaixo com uma linha mediana reta e limpa. Metade superior: fotografia de viagem fotorrealista de [SUBJECT] com luz natural, textura autêntica, apenas uma leve gradação de cores de padrão editorial — mantenha a foto realista, não ilustre a metade superior. Metade inferior: estudo gestual esparso em giz de cera preto do mesmo tema em papel texturizado branco quente — contornos hesitantes e quebrados em giz de cera, preenchimentos incompletos, textura do papel, um ou dois borrões leves de cor em giz de cera extraídos da foto. Exclua quase todo o fundo; mantenha apenas uma linha fraca de chão ou sugestão de parede. O tema deve ser quase todo espaço negativo do branco do papel, não totalmente preenchido. Tema ocupando cerca de 38–58% da largura inferior, centro-inferior. Espaço em branco contínuo em branco quente ≥55%. Texto manuscrito tremido em giz de cera em francês claramente legível: um título curto, « ÉTUDE CRAYON 0N », e uma observação factual em francês. Nenhum texto em inglês. Evite detalhes finos de pelos, mascotes vetoriais fofos, preenchimentos completos, rabiscos densos, fundos completos, lápis digital suave, ilustração de produto, logotipos, assinaturas, marcas d'água. Temas: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1264,6 +1264,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098346363520274568"></a>
+
+### Tradução em andamento
+
+Autor：[@harufit333](https://x.com/harufit333) · [Publicação original](https://x.com/harufit333/status/2098346363520274568)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098346363520274568.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 

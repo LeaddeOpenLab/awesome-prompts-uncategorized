@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**59** Prompts · Latest addition: **2026-09-11**
+**60** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1513,6 +1513,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098346363520274568"></a>
+
+### A prompt to add a bunny girl-style white round tail to the buttocks.
+
+Author：[@harufit333](https://x.com/harufit333) · [Source](https://x.com/harufit333/status/2098346363520274568)
+
+Other · Published
+
+**Summary:** A prompt to add a bunny girl-style white round tail to the buttocks.
+
+<img src="covers/2098346363520274568.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Add a white, round bunny girl-like tail to the buttocks.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**59** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**60** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -951,13 +951,13 @@ Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumw
 
 <a name="prompt-2098371221184495917"></a>
 
-### Übersetzung läuft
+### Erstelle ein zweigeteiltes redaktionelles Vergleichsposter mit einem Foto oben und einer Kreideskizze mit französischen Notizen unten.
 
 Autor：[@Weilnes](https://x.com/Weilnes) · [Originalbeitrag](https://x.com/Weilnes/status/2098371221184495917)
 
 Plakat / Flyer · Fotografie · Skizze / Strichzeichnung · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein zweigeteiltes redaktionelles Vergleichsposter mit einem Foto oben und einer Kreideskizze mit französischen Notizen unten.
 
 <img src="images/2098371221184495917-1.jpg" alt="Bild 1" width="480" />
 
@@ -970,7 +970,7 @@ Plakat / Flyer · Fotografie · Skizze / Strichzeichnung · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hochwertiges vertikales redaktionelles Vergleichsposter, das mit einer sauberen, geraden Mittellinie exakt 50/50 oben und unten geteilt ist. Obere Hälfte: fotorealistische Reisefotografie von [SUBJECT] mit natürlichem Licht, authentischer Textur, nur leichter Farbkorrektur auf Magazin-Niveau — halte das Foto realistisch, illustriere die obere Hälfte nicht. Untere Hälfte: spärliche Geste-Studie mit schwarzer Wachskreide desselben Motivs auf warmweißem Papier mit Struktur — zögerliche, unterbrochene Kreideumrisse, unvollständige Füllungen, Papierstruktur, ein oder zwei leichte Farbverwischungen mit Kreide, die dem Foto entnommen sind. Entferne fast den gesamten Hintergrund; behalte nur eine schwache Bodenlinie oder einen Wandhinweis bei. Das Motiv besteht größtenteils aus papierweißem Negativraum, nicht vollständig ausgefüllt. Das Motiv nimmt etwa 38–58 % der unteren Breite ein, mittig unten platziert. Durchgehende warmweiße Leerstelle ≥55 %. Handschriftlicher, zittriger Kreidetext auf Französisch, deutlich lesbar: ein kurzer Titel, « ÉTUDE CRAYON 0N », und eine sachliche Beobachtung auf Französisch. Kein englischer Text. Vermeide feine Fell-Details, niedliche Vektormaskottchen, vollständige Füllungen, dichte Kritzeleien, vollständige Hintergründe, glatten digitalen Bleistift, Produktillustrationen, Logos, Signaturen, Wasserzeichen. Motive: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1264,6 +1264,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098346363520274568"></a>
+
+### Übersetzung läuft
+
+Autor：[@harufit333](https://x.com/harufit333) · [Originalbeitrag](https://x.com/harufit333/status/2098346363520274568)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098346363520274568.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 

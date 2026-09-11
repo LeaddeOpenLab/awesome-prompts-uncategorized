@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**59** Prompt · Bổ sung mới nhất: **2026-09-11**
+**60** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -963,13 +963,13 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 
 <a name="prompt-2098371221184495917"></a>
 
-### Đang dịch
+### Tạo một áp phích so sánh mang tính biên tập được chia đôi với một bức ảnh ở trên và một bức phác thảo sáp màu kèm ghi chú tiếng Pháp ở dưới.
 
 Tác giả：[@Weilnes](https://x.com/Weilnes) · [Bài gốc](https://x.com/Weilnes/status/2098371221184495917)
 
 Áp phích / Tờ rơi · Nhiếp ảnh · Phác Thảo / Nét Vẽ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một áp phích so sánh mang tính biên tập được chia đôi với một bức ảnh ở trên và một bức phác thảo sáp màu kèm ghi chú tiếng Pháp ở dưới.
 
 <img src="images/2098371221184495917-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -982,7 +982,7 @@ Tác giả：[@Weilnes](https://x.com/Weilnes) · [Bài gốc](https://x.com/Wei
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích so sánh mang phong cách biên tập cao cấp theo chiều dọc, chia chính xác 50/50 trên và dưới bằng một đường thẳng sạch sẽ ở giữa. Nửa trên: ảnh chụp du lịch chân thực của [SUBJECT] với ánh sáng tự nhiên, kết cấu nguyên bản, chỉ chỉnh màu nhẹ chuẩn tạp chí — giữ cho bức ảnh chân thực, không minh họa nửa trên. Nửa dưới: nghiên cứu phác thảo cử chỉ bằng sáp màu đen thưa thớt của cùng một chủ thể trên giấy có vân màu trắng ấm — các đường viền sáp màu ngập ngừng, đứt đoạn, tô màu chưa hoàn chỉnh, độ nhám của giấy, một hoặc hai vệt lem màu sáp nhẹ được lấy mẫu từ bức ảnh. Xóa gần như toàn bộ nền; chỉ giữ lại một đường mặt đất mờ nhạt hoặc gợi ý về bức tường. Chủ thể chủ yếu là không gian âm trắng của giấy, không tô kín hoàn toàn. Chủ thể chiếm khoảng 38–58% chiều rộng đáy, ở giữa phía dưới. Khoảng trắng màu trắng ấm liên tục ≥55%. Chữ tiếng Pháp viết tay nguệch ngoạc bằng sáp màu rõ ràng dễ đọc: một tiêu đề ngắn, « ÉTUDE CRAYON 0N », và một quan sát thực tế bằng tiếng Pháp. Không có văn bản tiếng Anh. Tránh chi tiết lông mịn, linh vật vector dễ thương, tô kín hoàn toàn, nét vẽ nguệch ngoạc dày đặc, hình nền đầy đủ, bút chì kỹ thuật số mượt mà, minh họa sản phẩm, logo, chữ ký, hình mờ. Chủ thể: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1288,6 +1288,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098346363520274568"></a>
+
+### Đang dịch
+
+Tác giả：[@harufit333](https://x.com/harufit333) · [Bài gốc](https://x.com/harufit333/status/2098346363520274568)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098346363520274568.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 

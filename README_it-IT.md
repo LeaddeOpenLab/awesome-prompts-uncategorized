@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**59** Prompt · Ultima aggiunta: **2026-09-11**
+**60** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -951,13 +951,13 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 
 <a name="prompt-2098371221184495917"></a>
 
-### Traduzione in corso
+### Crea un poster editoriale di comparazione diviso con una foto in alto e uno schizzo a pastello con note in francese in basso.
 
 Autore：[@Weilnes](https://x.com/Weilnes) · [Post originale](https://x.com/Weilnes/status/2098371221184495917)
 
 Poster / Volantino · Fotografia · Schizzo / Line Art · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un poster editoriale di comparazione diviso con una foto in alto e uno schizzo a pastello con note in francese in basso.
 
 <img src="images/2098371221184495917-1.jpg" alt="Immagine 1" width="480" />
 
@@ -970,7 +970,7 @@ Poster / Volantino · Fotografia · Schizzo / Line Art · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster editoriale comparativo verticale di alta qualità, diviso esattamente al 50/50 sopra e sotto da una linea mediana netta e dritta. Metà superiore: fotografia di viaggio fotorealistica di [SUBJECT] con luce naturale, texture autentica, solo una leggera gradazione cromatica da rivista — mantieni la foto realistica, non illustrare la metà superiore. Metà inferiore: studio gestuale rarefatto a pastello nero dello stesso soggetto su carta ruvida bianco caldo — contorni a pastello incerti e spezzati, campiture incomplete, grana della carta, una o due leggere sfumature di colore a pastello campionate dalla foto. Elimina quasi del tutto lo sfondo; mantieni solo una debole linea del pavimento o un accenno di parete. Il soggetto è perlopiù spazio negativo bianco della carta, non completamente riempito. Il soggetto occupa circa il 38–58% della larghezza inferiore, in basso al centro. Spazio vuoto continuo bianco caldo ≥55%. Testo manoscritto tremolante a pastello in francese chiaramente leggibile: un titolo breve, « ÉTUDE CRAYON 0N », e un'osservazione oggettiva in francese. Nessun testo in inglese. Evita dettagli fini della pelliccia, graziose mascotte vettoriali, campiture piene, scarabocchi densi, sfondi completi, matita digitale liscia, illustrazione di prodotto, loghi, firme, filigrane. Soggetti: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1264,6 +1264,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098346363520274568"></a>
+
+### Traduzione in corso
+
+Autore：[@harufit333](https://x.com/harufit333) · [Post originale](https://x.com/harufit333/status/2098346363520274568)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098346363520274568.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 

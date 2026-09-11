@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**59** Prompts · Última incorporación: **2026-09-11**
+**60** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -963,13 +963,13 @@ Transforma la foto en una caricatura al gouache pintada a mano sobre papel de al
 
 <a name="prompt-2098371221184495917"></a>
 
-### Traducción en curso
+### Crea un póster de comparación editorial dividido con una foto arriba y un boceto en crayón con notas en francés abajo.
 
 Autor：[@Weilnes](https://x.com/Weilnes) · [Publicación original](https://x.com/Weilnes/status/2098371221184495917)
 
 Póster / Folleto · Fotografía · Boceto / Dibujo lineal · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un póster de comparación editorial dividido con una foto arriba y un boceto en crayón con notas en francés abajo.
 
 <img src="images/2098371221184495917-1.jpg" alt="Imagen 1" width="480" />
 
@@ -982,7 +982,7 @@ Póster / Folleto · Fotografía · Boceto / Dibujo lineal · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster vertical de comparación editorial premium, dividido exactamente 50/50 arriba y abajo con una línea media recta y limpia. Mitad superior: fotografía de viajes fotorrealista de [SUBJECT] con luz natural, textura auténtica, solo una ligera gradación de color de calidad de revista — mantén la foto realista, no ilustres la mitad superior. Mitad inferior: estudio gestual disperso con crayón negro del mismo sujeto sobre papel texturizado blanco cálido — contornos vacilantes y entrecortados de crayón, rellenos incompletos, grano del papel, una o dos manchas suaves de color de crayón tomadas de la foto. Elimina casi todo el fondo; conserva solo una leve línea de suelo o insinuación de pared. Sujeto compuesto en su mayoría por espacio negativo blanco del papel, no completamente relleno. El sujeto ocupa entre un 38 y un 58 % del ancho inferior, en el centro inferior. Espacio en blanco continuo de color blanco cálido ≥55 %. Texto en francés manuscrito tembloroso con crayón claramente legible: un título corto, « ÉTUDE CRAYON 0N », y una observación objetiva en francés. Sin texto en inglés. Evita detalles finos de pelaje, mascotas vectoriales adorables, rellenos completos, garabatos densos, fondos completos, lápiz digital suave, ilustración de producto, logotipos, firmas, marcas de agua. Sujetos: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1288,6 +1288,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098346363520274568"></a>
+
+### Traducción en curso
+
+Autor：[@harufit333](https://x.com/harufit333) · [Publicación original](https://x.com/harufit333/status/2098346363520274568)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098346363520274568.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098381038527365331"></a>
 
