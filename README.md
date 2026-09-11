@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**54** Prompts · Latest addition: **2026-09-11**
+**55** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1384,6 +1384,32 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098336543123640752"></a>
+
+### Late-night boudoir boyfriend POV cheongsam portrait prompt
+
+Author：[@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2098336543123640752)
+
+Portrait / Selfie · Published
+
+Source：[@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2098305584940687668)
+
+**Summary:** Late-night boudoir boyfriend POV cheongsam portrait prompt
+
+<img src="images/2098336543123640752-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098336543123640752-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Late-night boudoir × boyfriend POV × cheongsam × direct CCD flash
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098343290626290133"></a>
 

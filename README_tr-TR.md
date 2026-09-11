@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**54** Prompt · Son eklenen: **2026-09-11**
+**55** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1183,6 +1183,32 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098336543123640752"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2098336543123640752)
+
+Portre / Selfie · Yayımlandı
+
+Orijinal gönderi：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2098305584940687668)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098336543123640752-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098336543123640752-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098343290626290133"></a>
 

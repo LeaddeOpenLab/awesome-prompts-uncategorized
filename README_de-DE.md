@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**54** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**55** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1183,6 +1183,32 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098336543123640752"></a>
+
+### Übersetzung läuft
+
+Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2098336543123640752)
+
+Porträt / Selfie · Veröffentlicht
+
+Originalbeitrag：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2098305584940687668)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098336543123640752-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098336543123640752-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098343290626290133"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**54** 개 · 최근 추가: **2026-09-11**
+**55** 개 · 최근 추가: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1189,6 +1189,32 @@ CGI 털,
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2098336543123640752"></a>
+
+### 번역 중
+
+작성자：[@underwoodxie96](https://x.com/underwoodxie96) · [원본 게시물](https://x.com/underwoodxie96/status/2098336543123640752)
+
+인물 사진 / 셀카 · 배포 완료
+
+원본 게시물：[@underwoodxie96](https://x.com/underwoodxie96) · [원본 게시물](https://x.com/underwoodxie96/status/2098305584940687668)
+
+**요약:** 번역 중
+
+<img src="images/2098336543123640752-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098336543123640752-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098343290626290133"></a>
 

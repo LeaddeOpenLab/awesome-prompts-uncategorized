@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**54** 件 · 最新の追加: **2026-09-11**
+**55** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1189,6 +1189,32 @@ CM全体を通して、提供された参照画像/動画と完全に一致す�
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2098336543123640752"></a>
+
+### 翻訳中
+
+作者：[@underwoodxie96](https://x.com/underwoodxie96) · [元の投稿](https://x.com/underwoodxie96/status/2098336543123640752)
+
+ポートレート / セルフィー · 配信済み
+
+元の投稿：[@underwoodxie96](https://x.com/underwoodxie96) · [元の投稿](https://x.com/underwoodxie96/status/2098305584940687668)
+
+**概要:** 翻訳中
+
+<img src="images/2098336543123640752-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098336543123640752-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098343290626290133"></a>
 

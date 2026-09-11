@@ -19,7 +19,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**54** รายการ · เพิ่มล่าสุด: **2026-09-11**
+**55** รายการ · เพิ่มล่าสุด: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1207,6 +1207,32 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 <a name="category-other"></a>
 
 ## อื่น ๆ
+
+<a name="prompt-2098336543123640752"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@underwoodxie96](https://x.com/underwoodxie96) · [โพสต์ต้นฉบับ](https://x.com/underwoodxie96/status/2098336543123640752)
+
+ภาพบุคคล / เซลฟี่ · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@underwoodxie96](https://x.com/underwoodxie96) · [โพสต์ต้นฉบับ](https://x.com/underwoodxie96/status/2098305584940687668)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098336543123640752-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098336543123640752-2.jpg" alt="รูปภาพ 2" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2098343290626290133"></a>
 
