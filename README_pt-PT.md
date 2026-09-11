@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**63** Prompts · Adição mais recente: **2026-09-11**
+**64** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098396584879002102"></a>
+
+### Tradução em curso
+
+Autor：[@balancogeral](https://x.com/balancogeral) · [Publicação original](https://x.com/balancogeral/status/2098396584879002102)
+
+Pôster / Folheto · Fotografia · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098396584879002102-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098338457491800556"></a>
 

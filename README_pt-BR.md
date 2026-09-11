@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**63** Prompts · Última adição: **2026-09-11**
+**64** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098396584879002102"></a>
+
+### Tradução em andamento
+
+Autor：[@balancogeral](https://x.com/balancogeral) · [Publicação original](https://x.com/balancogeral/status/2098396584879002102)
+
+Pôster / Flyer · Fotografia · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098396584879002102-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098338457491800556"></a>
 

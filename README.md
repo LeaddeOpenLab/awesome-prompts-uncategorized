@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**63** Prompts · Latest addition: **2026-09-11**
+**64** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098396584879002102"></a>
+
+### A template prompt for transforming personal selfies into realistic contestant announcement posters for the Brazilian reality show &quot;A Fazenda 18&quot;, including contestant profile fields and specified color palette guidelines.
+
+Author：[@balancogeral](https://x.com/balancogeral) · [Source](https://x.com/balancogeral/status/2098396584879002102)
+
+Poster / Flyer · Photography · Portrait / Selfie · Published
+
+**Summary:** A template prompt for transforming personal selfies into realistic contestant announcement posters for the Brazilian reality show &quot;A Fazenda 18&quot;, including contestant profile fields and specified color palette guidelines.
+
+<img src="images/2098396584879002102-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Transform my selfie into a realistic contestant reveal for A Fazenda 18. Include [NAME], [CITY], catchphrase, strength, weakness, and chance of reaching the Final. Faithfully preserve my face and natural appearance. Photo in 4:5 aspect ratio, candid pose, direct gaze, understated rural background, soft lighting, real skin texture, and asymmetrical editorial composition. Palette: peach beige #f2ceb0, teal #00ad9d, and orange #e98300. Minimal text, natural look, without excessive retouching, effects, invented logos, or an AI-generated look.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098338457491800556"></a>
 

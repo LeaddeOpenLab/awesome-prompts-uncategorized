@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**63** Prompts · Dernier ajout: **2026-09-11**
+**64** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098396584879002102"></a>
+
+### Traduction en cours
+
+Auteur：[@balancogeral](https://x.com/balancogeral) · [Publication originale](https://x.com/balancogeral/status/2098396584879002102)
+
+Affiche / Flyer · Photographie · Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098396584879002102-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098338457491800556"></a>
 
