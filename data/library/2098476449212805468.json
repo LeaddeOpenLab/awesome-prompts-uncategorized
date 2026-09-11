@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:28:46.069Z",
+  "model": "unknown-video",
+  "prompt": "Film camera. Nikon 35mm fuji color film. Saturated. Realistic professional photographry. A continuous shot of the sound vibrating the sand and causing bioluminescent plankton to light up in cloudy groups in the ocean, from the beach at san diego pink hour.",
+  "promptTranslations": {
+    "en": "Film camera. Nikon 35mm fuji color film. Saturated. Realistic professional photographry. A continuous shot of the sound vibrating the sand and causing bioluminescent plankton to light up in cloudy groups in the ocean, from the beach at san diego pink hour."
+  },
+  "summaryTranslations": {
+    "en": "A film-textured continuous shot of sound waves vibrating the sand and stimulating bioluminescent plankton to glow on a San Diego beach during the pink hour."
+  },
+  "translationVersion": 2,
+  "summary": "圣地亚哥粉色时刻海滩上，声波震动沙滩激发生物发光浮游生物发光的胶片质感连续镜头。",
+  "summaryEn": "Continuous film shot of sound vibrating sand and lighting bioluminescent plankton at San Diego beach during pink hour.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098476449212805468",
+    "canonicalUrl": "https://x.com/jfischoff/status/2098476449212805468",
+    "author": {
+      "username": "jfischoff",
+      "displayName": "Jonathan Fischoff",
+      "profileUrl": "https://x.com/jfischoff"
+    },
+    "publishedAt": "2026-09-11T18:19:07.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "en",
+    "originalText": "Gave one prompt to H3 Director made me EDM rave visuals.\n\n\"Film camera. Nikon 35mm fuji color film. Saturated. Realistic professional photographry. A continuous shot of the sound vibrating the sand and causing bioluminescent plankton to light up in cloudy groups in the ocean, from the beach at san diego pink hour.\"",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jfischoff/status/2098476449212805468",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098476282359271424/img/6EO2Qq-59u1d5Z5H.jpg",
+        "analysisUrl": "https://x.com/jfischoff/status/2098476449212805468"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 2,
+      "replyCount": 4,
+      "quoteCount": 2,
+      "viewCount": 2366
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/jfischoff/status/2098476449212805468",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098476282359271424/img/6EO2Qq-59u1d5Z5H.jpg",
+  "coverPath": "covers/2098476449212805468.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098476282359271424",
+    "x-post:2098476449212805468"
+  ],
+  "analysis": {
+    "summary": "圣地亚哥粉色时刻海滩上，声波震动沙滩激发生物发光浮游生物发光的胶片质感连续镜头。",
+    "summaryEn": "Continuous film shot of sound vibrating sand and lighting bioluminescent plankton at San Diego beach during pink hour.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt describes vibrating sand, glowing ocean bioluminescence, and a pink-hour beach setting, matching key visual elements in the generated video."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Film camera. Nikon 35mm fuji color film. Saturated. Realistic professional photographry. A continuous shot of the sound vibrating the sand and causing bioluminescent plankton to light up in cloudy groups in the ocean, from the beach at san diego pink hour.",
+    "sourceRange": {
+      "start": 59,
+      "end": 315
+    },
+    "translations": {
+      "zh": "胶片相机。尼康35毫米富士彩色胶片。色彩饱和。逼真专业摄影。一镜到底：声音震动沙滩，引起海中生物发光浮游生物在圣地亚哥粉色时刻的海滩上聚成云状群落发光。",
+      "en": "Film camera. Nikon 35mm fuji color film. Saturated. Realistic professional photographry. A continuous shot of the sound vibrating the sand and causing bioluminescent plankton to light up in cloudy groups in the ocean, from the beach at san diego pink hour."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "music visualizer",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Nikon",
+        "Fuji"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
