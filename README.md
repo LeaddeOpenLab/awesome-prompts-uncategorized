@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**56** Prompts · Latest addition: **2026-09-11**
+**57** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1406,6 +1406,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098381038527365331"></a>
+
+### Create the templates needed to assemble a macaw-shaped kite in a single image.
+
+Author：[@googleespanol](https://x.com/googleespanol) · [Source](https://x.com/googleespanol/status/2098381038527365331)
+
+Other · Published
+
+**Summary:** Create the templates needed to assemble a macaw-shaped kite in a single image.
+
+<img src="covers/2098381038527365331.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create the templates needed to assemble the macaw-shaped kite in a single image
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098336543123640752"></a>
 

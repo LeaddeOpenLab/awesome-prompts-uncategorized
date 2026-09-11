@@ -19,7 +19,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**56** รายการ · เพิ่มล่าสุด: **2026-09-11**
+**57** รายการ · เพิ่มล่าสุด: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1229,6 +1229,28 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 <a name="category-other"></a>
 
 ## อื่น ๆ
+
+<a name="prompt-2098381038527365331"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@googleespanol](https://x.com/googleespanol) · [โพสต์ต้นฉบับ](https://x.com/googleespanol/status/2098381038527365331)
+
+อื่น ๆ · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2098381038527365331.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2098336543123640752"></a>
 
