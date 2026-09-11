@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:17:36.429Z",
+  "model": "unknown-image",
+  "prompt": "Transforme minha selfie em uma divulgação realista de participante de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e chance de chegar à Final. Preserve fielmente meu rosto e minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura real de pele e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logotipos inventados ou aparência de imagem gerada por IA.",
+  "promptTranslations": {
+    "en": "Transform my selfie into a realistic contestant reveal for A Fazenda 18. Include [NAME], [CITY], catchphrase, strength, weakness, and chance of reaching the Final. Faithfully preserve my face and natural appearance. Photo in 4:5 aspect ratio, candid pose, direct gaze, understated rural background, soft lighting, real skin texture, and asymmetrical editorial composition. Palette: peach beige #f2ceb0, teal #00ad9d, and orange #e98300. Minimal text, natural look, without excessive retouching, effects, invented logos, or an AI-generated look."
+  },
+  "summaryTranslations": {
+    "en": "A template prompt for transforming personal selfies into realistic contestant announcement posters for the Brazilian reality show \"A Fazenda 18\", including contestant profile fields and specified color palette guidelines."
+  },
+  "translationVersion": 2,
+  "summary": "用于将个人自拍生成巴西真人秀《A Fazenda 18》选手参赛写实宣传海报的模板提示词，包含选手档案字段与指定配色规范。",
+  "summaryEn": "A prompt template to convert a selfie into a realistic contestant promotional poster for the reality show A Fazenda 18, featuring profile stats and specific brand colors.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098396584879002102",
+    "canonicalUrl": "https://x.com/balancogeral/status/2098396584879002102",
+    "author": {
+      "username": "balancogeral",
+      "displayName": "Balanço Geral",
+      "profileUrl": "https://x.com/balancogeral"
+    },
+    "publishedAt": "2026-09-11T13:01:46.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "pt",
+    "originalText": "Dudu Camargo já sabe o que é vencer #AFazenda… mas como seria a trajetória dele em busca do prêmio milionário mais uma vez? 👀🤠🏆⁣⁣\n\nExperiência ele já tem. Mas será que levaria mais um troféu para casa? 🔥😂\n\nE o próximo perfil de peão pode ser o seu! ✨🤩 Use o prompt abaixo, crie o seu perfil de participante e poste nas redes com a tag #MeuPerfilNaFazenda.\n\nCOPIE O PROMPT ⬇️⁣⁣\n⁣⁣⁣\nTransforme minha selfie em uma divulgação realista de participante de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e chance de chegar à Final. Preserve fielmente meu rosto e minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura real de pele e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logotipos inventados ou aparência de imagem gerada por IA.⁣⁣⁣\n⁣⁣⁣\n#AFazendaVemAí",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8AN1bbcAABOhD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8AN1bbcAABOhD.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 251,
+      "repostCount": 41,
+      "replyCount": 20,
+      "quoteCount": 5,
+      "viewCount": 5092
+    },
+    "matchedRuleIds": [
+      "custom:pt:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/balancogeral/status/2098396584879002102",
+  "coverUrl": "https://pbs.twimg.com/media/HR8AN1bbcAABOhD.jpg",
+  "coverPath": "images/2098396584879002102-1.jpg",
+  "imagePaths": [
+    "images/2098396584879002102-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR8AN1bbcAABOhD",
+    "x-post:2098396584879002102"
+  ],
+  "analysis": {
+    "summary": "用于将个人自拍生成巴西真人秀《A Fazenda 18》选手参赛写实宣传海报的模板提示词，包含选手档案字段与指定配色规范。",
+    "summaryEn": "A prompt template to convert a selfie into a realistic contestant promotional poster for the reality show A Fazenda 18, featuring profile stats and specific brand colors.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图完整呈现了提示词所要求的内容：以乡村木质建筑为背景的人物自然肖像、4:5版式、非对称杂志排版、指定的桃米色、水绿与橙色搭配，以及包含姓名、城市、口头禅、优缺点和晋级概率的参赛选手宣传信息。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Transforme minha selfie em uma divulgação realista de participante de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e chance de chegar à Final. Preserve fielmente meu rosto e minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura real de pele e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logotipos inventados ou aparência de imagem gerada por IA.",
+    "sourceRange": {
+      "start": 381,
+      "end": 939
+    },
+    "translations": {
+      "zh": "将我的自拍变成《A Fazenda 18》参赛者的写实宣传照。包含[姓名]、[城市]、口头禅、优势、劣势以及进入决赛的概率。忠实保留我的面容和自然样貌。4:5比例照片，抓拍自然姿势，直视镜头，低调乡村背景，柔和光线，真实皮肤质感及不对称杂志版式排版。配色：桃米色#f2ceb0、水绿色#00ad9d和橙色#e98300。少量文字，视觉效果自然，无过度修饰、特效、虚构标志或AI生成的假感。",
+      "en": "Turn my selfie into a realistic contestant promo for A Fazenda 18. Include [NAME], [CITY], catchphrase, strength, weakness, and chance of reaching the Final. Faithfully preserve my face and natural appearance. 4:5 photo format, spontaneous pose, direct gaze, subtle rural backdrop, soft lighting, real skin texture, and asymmetrical editorial composition. Palette: peach beige #f2ceb0, teal #00ad9d, and orange #e98300. Minimal text, natural look, no excessive retouching, effects, invented logos, or AI-generated appearance."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "poster_design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "A Fazenda",
+        "Dudu Camargo"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
