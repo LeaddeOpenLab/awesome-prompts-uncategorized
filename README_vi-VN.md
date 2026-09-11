@@ -1567,20 +1567,20 @@ Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
 <a name="prompt-2098393816650879459"></a>
 
-### Đang dịch
+### Tạo một video UGC chân thực về một người phụ nữ đang khoe trang phục trong một ngôi nhà hiện đại.
 
 Tác giả：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Bài gốc](https://x.com/sophiaparkerr_/status/2098393816650879459)
 
 Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một video UGC chân thực về một người phụ nữ đang khoe trang phục trong một ngôi nhà hiện đại.
 
 <img src="covers/2098393816650879459.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video UGC chân thực, tự nhiên bằng hình ảnh đã tải lên. Người phụ nữ khoe trang phục của mình bên trong một ngôi nhà hiện đại, phong cách. Sử dụng Kling MCP.
 ```
 
 [↑ Về danh mục](#catalog)

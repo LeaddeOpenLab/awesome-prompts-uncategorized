@@ -1551,20 +1551,20 @@ FIELD NOTE [编号]
 
 <a name="prompt-2098393816650879459"></a>
 
-### 翻译中
+### 创建一段女士在现代家中展示穿搭的逼真 UGC 视频。
 
 作者：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [查看 X 原帖](https://x.com/sophiaparkerr_/status/2098393816650879459)
 
 角色 · 时尚单品 · 已推流
 
-**概括:** 翻译中
+**概括:** 创建一段女士在现代家中展示穿搭的逼真 UGC 视频。
 
 <img src="covers/2098393816650879459.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+使用上传的图片创建一段逼真、自然的用户原创内容（UGC）风格视频。视频中的女士在一间时尚现代的家中展示她的穿搭。使用 Kling MCP。
 ```
 
 [↑ 返回分类目录](#catalog)

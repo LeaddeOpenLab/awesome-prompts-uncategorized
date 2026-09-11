@@ -1549,20 +1549,20 @@ Tradução em andamento
 
 <a name="prompt-2098393816650879459"></a>
 
-### Tradução em andamento
+### Crie um vídeo UGC realista de uma mulher exibindo sua roupa em uma casa moderna.
 
 Autor：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Publicação original](https://x.com/sophiaparkerr_/status/2098393816650879459)
 
 Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um vídeo UGC realista de uma mulher exibindo sua roupa em uma casa moderna.
 
 <img src="covers/2098393816650879459.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo UGC realista e de aparência natural usando a imagem enviada. A mulher mostra sua roupa dentro de uma casa moderna e estilosa. Use o Kling MCP.
 ```
 
 [↑ Voltar às categorias](#catalog)

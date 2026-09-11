@@ -1567,20 +1567,20 @@ Traducción en curso
 
 <a name="prompt-2098393816650879459"></a>
 
-### Traducción en curso
+### Crea un vídeo UGC realista de una mujer mostrando su atuendo en una casa moderna.
 
 Autor：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Publicación original](https://x.com/sophiaparkerr_/status/2098393816650879459)
 
 Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un vídeo UGC realista de una mujer mostrando su atuendo en una casa moderna.
 
 <img src="covers/2098393816650879459.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un vídeo UGC realista y de aspecto natural a partir de la imagen subida. La mujer muestra su atuendo en el interior de una casa moderna y elegante. Utiliza Kling MCP.
 ```
 
 [↑ Volver a categorías](#catalog)

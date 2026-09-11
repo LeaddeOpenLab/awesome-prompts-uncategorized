@@ -1546,20 +1546,20 @@ Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098393816650879459"></a>
 
-### Übersetzung läuft
+### Erstelle ein realistisches UGC-Video einer Frau, die ihr Outfit in einem modernen Zuhause präsentiert.
 
 Autor：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Originalbeitrag](https://x.com/sophiaparkerr_/status/2098393816650879459)
 
 Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein realistisches UGC-Video einer Frau, die ihr Outfit in einem modernen Zuhause präsentiert.
 
 <img src="covers/2098393816650879459.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein realistisches, natürlich wirkendes UGC-Video unter Verwendung des hochgeladenen Bildes. Die Frau präsentiert ihr Outfit in einem stilvollen, modernen Zuhause. Verwende Kling MCP.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

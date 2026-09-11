@@ -1549,20 +1549,20 @@ Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098393816650879459"></a>
 
-### Çeviri sürüyor
+### Modern bir evde kıyafetini sergileyen bir kadının gerçekçi UGC videosunu oluşturun.
 
 Yazar：[@sophiaparkerr\_](https://x.com/sophiaparkerr_) · [Orijinal gönderi](https://x.com/sophiaparkerr_/status/2098393816650879459)
 
 Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Modern bir evde kıyafetini sergileyen bir kadının gerçekçi UGC videosunu oluşturun.
 
 <img src="covers/2098393816650879459.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen görseli kullanarak gerçekçi, doğal görünümlü bir UGC videosu oluşturun. Kadın, şık ve modern bir evin içinde kıyafetini sergiliyor. Kling MCP'yi kullanın.
 ```
 
 [↑ Kategorilere dön](#catalog)
