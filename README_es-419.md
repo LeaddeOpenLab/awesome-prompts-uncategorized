@@ -428,20 +428,20 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2098265320448553176"></a>
 
-### Traducción en curso
+### Movimiento de cámara cinematográfico que asciende desde las olas rompiendo a lo largo de un acantilado soleado para revelar a una figura solitaria al borde.
 
 Autor：[@umesh\_ai](https://x.com/umesh_ai) · [Publicación original](https://x.com/umesh_ai/status/2098265320448553176)
 
 Fotografía · Cine / Fotograma · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Movimiento de cámara cinematográfico que asciende desde las olas rompiendo a lo largo de un acantilado soleado para revelar a una figura solitaria al borde.
 
 <img src="covers/2098265320448553176.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+La cámara comienza baja, cerca de las agitadas olas del océano, pegada a la superficie mientras el agua choca con fuerza contra las rocas escarpadas. Luego asciende en un suave movimiento cinematográfico a lo largo del acantilado escarpado, revelando la imponente altura de los riscos bañados por el sol antes de inclinarse para encuadrar una figura solitaria que permanece desafiante en el borde, mirando hacia el rugiente mar abajo. La brillante luz del sol ilumina la escena con una visibilidad nítida y clara, colores naturales vívidos, agua reluciente y texturas de roca finamente definidas bajo un cielo azul despejado. El impacto visual general se siente cinematográfico, amplio y poderoso, con un movimiento dinámico y una dramática sensación de escala.
 ```
 
 [↑ Volver a categorías](#catalog)

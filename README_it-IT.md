@@ -428,20 +428,20 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2098265320448553176"></a>
 
-### Traduzione in corso
+### Movimento di macchina cinematografico che sale dalle onde che si infrangono lungo una scogliera soleggiata per rivelare una figura solitaria sul ciglio.
 
 Autore：[@umesh\_ai](https://x.com/umesh_ai) · [Post originale](https://x.com/umesh_ai/status/2098265320448553176)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Movimento di macchina cinematografico che sale dalle onde che si infrangono lungo una scogliera soleggiata per rivelare una figura solitaria sul ciglio.
 
 <img src="covers/2098265320448553176.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+La cinepresa inizia in basso, vicino alle onde impetuose dell'oceano, a pelo d'acqua mentre le onde si infrangono violentemente contro le rocce frastagliate. Si alza quindi con un fluido movimento cinematografico lungo la scogliera dirupata, svelando la drammatica altezza dei dirupi baciati dal sole prima di inclinarsi per inquadrare una figura solitaria che si erge con fierezza sul ciglio, scrutando il mare ruggente sottostante. Una luce solare brillante illumina la scena con una visibilità limpida e nitida, colori naturali vividi, acqua scintillante e trame rocciose ben definite sotto un cielo azzurro e terso. L'impatto visivo complessivo è cinematografico, maestoso e potente, caratterizzato da un movimento dinamico e da un senso drammatico delle proporzioni.
 ```
 
 [↑ Torna alle categorie](#catalog)

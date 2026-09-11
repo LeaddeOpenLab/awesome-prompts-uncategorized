@@ -428,20 +428,20 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2098265320448553176"></a>
 
-### Übersetzung läuft
+### Filmische Kamerabewegung, die von brechenden Meereswellen an einer sonnenbeschienenen Klippe aufsteigt, um eine einsame Gestalt am Abgrund zu enthüllen.
 
 Autor：[@umesh\_ai](https://x.com/umesh_ai) · [Originalbeitrag](https://x.com/umesh_ai/status/2098265320448553176)
 
 Fotografie · Kinematisch / Filmstill · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische Kamerabewegung, die von brechenden Meereswellen an einer sonnenbeschienenen Klippe aufsteigt, um eine einsame Gestalt am Abgrund zu enthüllen.
 
 <img src="covers/2098265320448553176.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Die Kamera beginnt tief über den tosenden Meereswellen, nah an der Oberfläche, während das Wasser heftig gegen die zerklüfteten Felsen prallt. Dann steigt sie in einer fließenden, filmischen Bewegung an der schroffen Klippenwand empor und offenbart die dramatische Höhe der sonnenbeschienenen Klippen, bevor sie schwenkt, um eine einsame Gestalt einzufangen, die trotzig am Abgrund steht und auf das tosende Meer hinabblickt. Helles Sonnenlicht erleuchtet die Szene mit gestochen scharfer, klarer Sicht, lebendigen natürlichen Farben, glitzerndem Wasser und markant definierten Felsstrukturen unter einem strahlend blauen Himmel. Das visuelle Gesamtbild wirkt filmisch, weitläufig und kraftvoll, mit dynamischer Bewegung und einem dramatischen Gefühl von Größe.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

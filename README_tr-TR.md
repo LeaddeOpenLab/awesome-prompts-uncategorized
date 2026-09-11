@@ -428,20 +428,20 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2098265320448553176"></a>
 
-### Çeviri sürüyor
+### Güneşli bir uçurum boyunca çarpan okyanus dalgalarından yükselerek uçurumun kenarındaki yalnız bir figürü ortaya çıkaran sinematik kamera hareketi.
 
 Yazar：[@umesh\_ai](https://x.com/umesh_ai) · [Orijinal gönderi](https://x.com/umesh_ai/status/2098265320448553176)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Güneşli bir uçurum boyunca çarpan okyanus dalgalarından yükselerek uçurumun kenarındaki yalnız bir figürü ortaya çıkaran sinematik kamera hareketi.
 
 <img src="covers/2098265320448553176.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kamera, dalgaların pürüzlü kayalara şiddetle çarptığı su yüzeyine yakın, kabaran okyanus dalgalarının hemen yanında alçaktan başlar. Ardından engebeli uçurum boyunca akıcı, sinematik bir hareketle yukarı doğru yükselerek güneşle aydınlanan kayalıkların dramatik yüksekliğini gözler önüne serer; sonrasında aşağıda kükreyen denize bakan ve uçurumun kenarında meydan okurcasına duran yalnız bir figürü kadraja almak için eğilir. Parlak güneş ışığı, açık mavi bir gökyüzü altında berrak ve net bir görüş, canlı doğal renkler, ışıltılı su ve keskin hatlı kaya dokularıyla sahneyi aydınlatır. Genel görsel, dinamik hareket ve dramatik bir ölçek hissiyle sinematik, geniş ve güçlü bir etki bırakır.
 ```
 
 [↑ Kategorilere dön](#catalog)

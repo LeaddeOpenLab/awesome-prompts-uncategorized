@@ -440,20 +440,20 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2098265320448553176"></a>
 
-### Traducción en curso
+### Movimiento cinematográfico de cámara que asciende desde las olas rompiendo por un acantilado soleado para revelar una figura solitaria al borde.
 
 Autor：[@umesh\_ai](https://x.com/umesh_ai) · [Publicación original](https://x.com/umesh_ai/status/2098265320448553176)
 
 Fotografía · Cine / Fotograma de película · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Movimiento cinematográfico de cámara que asciende desde las olas rompiendo por un acantilado soleado para revelar una figura solitaria al borde.
 
 <img src="covers/2098265320448553176.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+La cámara comienza baja, cerca de las olas rompientes del océano, pegada a la superficie mientras el agua choca violentamente contra las rocas escarpadas. Luego se eleva en un suave movimiento cinematográfico a lo largo del acantilado escarpado, revelando la dramática altura de los riscos bañados por el sol antes de inclinarse para encuadrar una figura solitaria que se alza desafiante al borde, contemplando el mar rugiente abajo. La brillante luz del sol ilumina la escena con una visibilidad nítida y clara, colores naturales vivos, agua centelleante y texturas rocosas finamente definidas bajo un cielo azul despejado. El aspecto visual general se percibe cinematográfico, expansivo y poderoso, con un movimiento dinámico y una dramática sensación de escala.
 ```
 
 [↑ Volver a categorías](#catalog)

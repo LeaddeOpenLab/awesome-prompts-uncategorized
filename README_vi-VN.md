@@ -440,20 +440,20 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2098265320448553176"></a>
 
-### Đang dịch
+### Chuyển động máy quay đậm chất điện ảnh bay lên từ những con sóng vỗ dọc theo vách đá ngập nắng để hé lộ một bóng người đơn độc nơi mép vực.
 
 Tác giả：[@umesh\_ai](https://x.com/umesh_ai) · [Bài gốc](https://x.com/umesh_ai/status/2098265320448553176)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuyển động máy quay đậm chất điện ảnh bay lên từ những con sóng vỗ dọc theo vách đá ngập nắng để hé lộ một bóng người đơn độc nơi mép vực.
 
 <img src="covers/2098265320448553176.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Máy quay bắt đầu từ góc thấp gần những đợt sóng biển dâng trào, sát mặt nước khi từng con sóng va đập dữ dội vào những mỏm đá lởm chởm. Sau đó, máy quay lướt lên trên với chuyển động điện ảnh mượt mà dọc theo vách đá gồ ghề, hé lộ chiều cao đầy kịch tính của những vách đá ngập nắng trước khi nghiêng góc để bắt trọn bóng hình đơn độc đang đứng đầy kiêu hãnh nơi mép đá, nhìn xuống vùng biển gầm vang bên dưới. Ánh nắng rực rỡ chiếu sáng khung cảnh với tầm nhìn trong trẻo, sắc nét, màu sắc tự nhiên sống động, mặt nước lấp lánh và kết cấu đá được khắc họa rõ nét dưới bầu trời xanh ngắt. Tổng thể hình ảnh mang đậm chất điện ảnh, rộng lớn và mạnh mẽ, với chuyển động sống động cùng cảm giác về quy mô đầy ấn tượng.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -428,20 +428,20 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2098265320448553176"></a>
 
-### Traduction en cours
+### Mouvement de caméra cinématographique s'élevant des vagues déferlantes le long d'une falaise ensoleillée pour révéler une silhouette solitaire au bord du précipice.
 
 Auteur：[@umesh\_ai](https://x.com/umesh_ai) · [Publication originale](https://x.com/umesh_ai/status/2098265320448553176)
 
 Photographie · Image cinématographique / Photogramme de film · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Mouvement de caméra cinématographique s'élevant des vagues déferlantes le long d'une falaise ensoleillée pour révéler une silhouette solitaire au bord du précipice.
 
 <img src="covers/2098265320448553176.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+La caméra commence au ras des vagues déferlantes de l'océan, tout près de la surface tandis que l'eau s'écrase violemment contre les rochers déchiquetés. Elle s'élève ensuite dans un mouvement cinématographique fluide le long de la falaise escarpée, révélant la hauteur vertigineuse des falaises baignées de soleil avant de s'incliner pour cadrer une silhouette solitaire se tenant fièrement au bord du gouffre, contemplant la mer mugissante en contrebas. Une lumière solaire éclatante illumine la scène avec une visibilité nette et limpide, des couleurs naturelles vibrantes, une eau scintillante et des textures rocheuses finement définies sous un ciel d'un bleu pur. L'ensemble visuel est cinématographique, vaste et puissant, animé d'un mouvement dynamique et d'une sensation d'échelle spectaculaire.
 ```
 
 [↑ Retour aux catégories](#catalog)

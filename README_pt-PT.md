@@ -428,20 +428,20 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2098265320448553176"></a>
 
-### Tradução em curso
+### Movimento de câmara cinematográfico a subir a partir das ondas a rebentar ao longo de uma falésia soalheira para revelar uma figura solitária no precipício.
 
 Autor：[@umesh\_ai](https://x.com/umesh_ai) · [Publicação original](https://x.com/umesh_ai/status/2098265320448553176)
 
 Fotografia · Cena de Cinema / Fotograma · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Movimento de câmara cinematográfico a subir a partir das ondas a rebentar ao longo de uma falésia soalheira para revelar uma figura solitária no precipício.
 
 <img src="covers/2098265320448553176.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+A câmara começa num ângulo baixo junto às ondas revoltas do oceano, perto da superfície enquanto a água embate violentamente contra as rochas escarpadas. Depois, eleva-se num movimento cinematográfico suave ao longo da encosta alcantilada da falésia, revelando a altura dramática das escarpas banhadas pelo sol antes de se inclinar para enquadrar uma figura solitária que se ergue desafiadora no rebordo, contemplando o mar revolto em baixo. A luz solar brilhante ilumina a cena com uma visibilidade nítida e clara, cores naturais vivas, água cintilante e texturas rochosas vincadas sob um céu azul límpido. O aspeto visual geral é cinematográfico, amplo e poderoso, com um movimento dinâmico e uma dramática sensação de escala.
 ```
 
 [↑ Voltar às categorias](#catalog)

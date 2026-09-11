@@ -428,20 +428,20 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2098265320448553176"></a>
 
-### Tradução em andamento
+### Movimento de câmera cinematográfico subindo das ondas do mar contra um penhasco ensolarado para revelar uma figura solitária na borda.
 
 Autor：[@umesh\_ai](https://x.com/umesh_ai) · [Publicação original](https://x.com/umesh_ai/status/2098265320448553176)
 
 Fotografia · Cinematográfico / Imagem de Filme · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Movimento de câmera cinematográfico subindo das ondas do mar contra um penhasco ensolarado para revelar uma figura solitária na borda.
 
 <img src="covers/2098265320448553176.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+A câmera começa baixa, perto das ondas agitadas do oceano, rente à superfície enquanto a água se choca com violência contra as rochas escarpadas. Em seguida, ela se eleva em um suave movimento cinematográfico ao longo da encosta íngreme do penhasco, revelando a imponente altura das falésias banhadas pelo sol antes de inclinar-se para enquadrar uma figura solitária em pé, desafiadora na borda, olhando para o mar rugindo abaixo. A luz solar brilhante ilumina a cena com visibilidade nítida e cristalina, cores naturais vívidas, água cintilante e texturas rochosas precisamente definidas sob um céu azul limpo. O visual geral é cinematográfico, grandioso e poderoso, com movimento dinâmico e uma sensação dramática de escala.
 ```
 
 [↑ Voltar às categorias](#catalog)
