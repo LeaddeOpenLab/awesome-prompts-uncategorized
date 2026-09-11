@@ -35,20 +35,23 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098338457491800556"></a>
 
-### Đang dịch
+### Lời nhắc tạo video hoạt hình chân thực về thỏi vàng nảy mầm trong bùn đất thành cây cổ thụ trĩu quả thỏi vàng, sau đó công nhân đến thu hoạch bốc lên xe tải.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098338457491800556)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo video hoạt hình chân thực về thỏi vàng nảy mầm trong bùn đất thành cây cổ thụ trĩu quả thỏi vàng, sau đó công nhân đến thu hoạch bốc lên xe tải.
 
 <img src="covers/2098338457491800556.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video dọc (9:16) dài 10 giây mang phong cách điện ảnh và siêu thực.
+Một thỏi vàng (gold biscuit) chân thực bị bỏ rơi bên lề đường bùn lầy sau cơn mưa lớn. Nước mưa chảy quanh nó khi vật thể từ từ chìm sâu vào lớp đất ẩm ướt. Trong vài giây, vật thể bị chôn vùi bắt đầu phát sáng từ dưới lòng đất. Một mầm cây xanh nhỏ bé nhô lên từ chính vị trí đó và nhanh chóng phát triển thành một cây thỏi vàng khổng lồ trưởng thành. Thân cây và cành cây dày mang hình dáng, kết cấu, màu sắc và ngôn ngữ thiết kế của thỏi vàng ban đầu một cách tự nhiên. Hàng trăm thỏi vàng chín muồi với đầy đủ chi tiết treo lủng lẳng trên từng cành cây như những trái cây thực sự, đung đưa nhẹ nhàng trong gió.
+Ngay sau khi cây phát triển xong, một chiếc xe tải chở hàng lớn đến và đỗ bên cạnh. Một công nhân nhanh chóng trèo lên cây trong khi những người khác nhanh chóng thu hoạch từng thỏi vàng trên các cành, ném chúng vào thùng xe tải với các động tác nhanh nhẹn, chân thực. Chỉ trong chốc lát, cây đã được thu hoạch hoàn toàn. Chiếc xe tải chất đầy hàng trăm thỏi vàng và rời đi, chỉ để lại cái cây trơ trụi phía sau.
+Một cảnh quay liên tục duy nhất, thời tiết mưa chân thực, mặt đất lầy lội, ánh sáng điện ảnh, gió tự nhiên, vật lý đáng tin cậy, kết cấu siêu chi tiết, hoạt ảnh phát triển mượt mà, biến đổi liền mạch, không cắt cảnh, không lỗi đồ họa, không nhấp nháy, không có vật thể thừa, 8K, HDR, siêu thực tế, chân thực theo phong cách phim tài liệu." lưu ý: thỏi vàng từ đầu đến cuối phải đồng nhất, nếu là hình chữ nhật thì tất cả phải là hình chữ nhật chân thực
 ```
 
 [↑ Về danh mục](#catalog)

@@ -35,20 +35,23 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098338457491800556"></a>
 
-### Traduction en cours
+### Prompt de génération de vidéo d'animation réaliste montrant un lingot d'or qui germe dans la boue pour devenir un arbre imposant couvert de lingots d'or, suivi par des ouvriers qui viennent les récolter et les charger dans un camion.
 
 Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2098338457491800556)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération de vidéo d'animation réaliste montrant un lingot d'or qui germe dans la boue pour devenir un arbre imposant couvert de lingots d'or, suivi par des ouvriers qui viennent les récolter et les charger dans un camion.
 
 <img src="covers/2098338457491800556.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo verticale cinématographique et ultra-photoréaliste de 10 secondes (9:16).
+Un lingot d'or réaliste gît abandonné sur le bord boueux d'une route après de fortes pluies. L'eau de pluie s'écoule autour de lui tandis que l'objet s'enfonce lentement dans le sol humide. En quelques secondes, l'objet enfoui commence à luire depuis le sous-sol. Une minuscule pousse verte émerge exactement du même endroit et grandit rapidement pour devenir un arbre géant et mature de lingots d'or. Le tronc épais et les branches rappellent naturellement la forme, la texture, les couleurs et le style du lingot d'or d'origine. Des centaines de lingots d'or mûrs et ultra-détaillés pendent de chaque branche comme de vrais fruits, oscillant doucement au gré du vent.
+Immédiatement après que l'arbre a fini de grandir, un grand camion de marchandises arrive et s'arrête à côté. Un ouvrier grimpe rapidement à l'arbre tandis que plusieurs autres récoltent prestement chaque lingot d'or des branches, les jetant dans le camion avec des mouvements rapides et réalistes. En quelques instants, l'arbre est complètement récolté. Le camion se retrouve entièrement chargé de centaines de lingots d'or et s'en va, ne laissant derrière lui que l'arbre dépouillé.
+Plan-séquence continu, temps pluvieux réaliste, sol boueux, éclairage cinématographique, vent naturel, physique crédible, textures ultra-détaillées, animation de croissance fluide, transformation sans coupure, pas de coupures, pas de bugs, pas de scintillement, aucun objet superflu, 8K, HDR, hyperréaliste, réalisme de style documentaire." remarque : le lingot d'or doit rester le même du début à la fin ; s'ils sont rectangulaires, ils doivent tous être rectangulaires et réalistes
 ```
 
 [↑ Retour aux catégories](#catalog)

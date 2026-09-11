@@ -35,20 +35,23 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098338457491800556"></a>
 
-### Traduzione in corso
+### Prompt per la generazione di un video animato realistico in cui un lingotto d'oro germoglia nel fango crescendo fino a diventare un albero torreggiante pieno di lingotti d'oro, seguito da operai che accorrono per raccoglierli e caricarli su un camion.
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2098338457491800556)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per la generazione di un video animato realistico in cui un lingotto d'oro germoglia nel fango crescendo fino a diventare un albero torreggiante pieno di lingotti d'oro, seguito da operai che accorrono per raccoglierli e caricarli su un camion.
 
 <img src="covers/2098338457491800556.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video verticale cinematografico e ultra-fotorealistico di 10 secondi (9:16).
+Un realistico lingotto d'oro giace abbandonato sul ciglio fangoso della strada dopo una forte pioggia. L'acqua piovana gli scorre attorno mentre l'oggetto affonda lentamente nel terreno bagnato. Nel giro di pochi secondi, l'oggetto sepolto inizia a brillare dal sottosuolo. Un minuscolo germoglio verde emerge esattamente dallo stesso punto e cresce rapidamente fino a diventare un gigantesco albero maturo di lingotti d'oro. Il tronco robusto e i rami richiamano naturalmente la forma, la consistenza, i colori e il design del lingotto d'oro originale. Centinaia di lingotti d'oro maturi e completamente dettagliati pendono da ogni ramo come frutti veri, oscillando dolcemente al vento.
+Subito dopo che l'albero ha terminato la crescita, arriva un grande camion da trasporto che si ferma accanto ad esso. Un lavoratore si arrampica rapidamente sull'albero mentre molti altri raccolgono velocemente ogni lingotto d'oro dai rami, gettandoli sul camion con movimenti rapidi e realistici. In pochi istanti l'albero viene completamente spogliato del raccolto. Il camion si riempie completamente di centinaia di lingotti d'oro e riparte, lasciando dietro di sé solo l'albero vuoto.
+Ripresa continua singola, tempo piovoso realistico, terreno fangoso, illuminazione cinematografica, vento naturale, fisica credibile, texture ultra-dettagliate, animazione fluida della crescita, trasformazione senza soluzione di continuità, nessun taglio, nessun glitch, nessuno sfarfallio, nessun oggetto superfluo, 8K, HDR, iperrealistico, realismo in stile documentario." nota: il lingotto d'oro deve essere lo stesso dall'inizio alla fine; se sono rettangolari, devono essere tutti rettangolari e realistici
 ```
 
 [↑ Torna alle categorie](#catalog)

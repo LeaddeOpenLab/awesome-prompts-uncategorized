@@ -35,20 +35,23 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098338457491800556"></a>
 
-### Tradução em curso
+### Prompt de criação de vídeo de animação realista de uma barra de ouro a germinar na lama e a transformar-se numa árvore imponente repleta de barras de ouro, seguida pela chegada de trabalhadores para as colher e carregar num camião.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2098338457491800556)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de criação de vídeo de animação realista de uma barra de ouro a germinar na lama e a transformar-se numa árvore imponente repleta de barras de ouro, seguida pela chegada de trabalhadores para as colher e carregar num camião.
 
 <img src="covers/2098338457491800556.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo vertical cinematográfico e ultrafotorrealista de 10 segundos (9:16).
+Uma barra de ouro realista jaz abandonada na berma lamacenta da estrada após uma chuva intensa. A água da chuva corre à volta dela enquanto o objeto se afunda lentamente no solo húmido. Em escassos segundos, o objeto enterrado começa a brilhar debaixo da terra. Um minúsculo rebento verde emerge exatamente do mesmo sítio e cresce rapidamente até se tornar numa árvore madura e gigantesca de barras de ouro. O tronco espesso e os ramos assemelham-se naturalmente à forma, textura, cores e linguagem de design da barra de ouro original. Centenas de barras de ouro maduras e altamente detalhadas pendem de cada ramo como frutos reais, balançando suavemente ao vento.
+Imediatamente após a árvore terminar de crescer, chega um grande camião de carga que para ao lado dela. Um trabalhador sobe rapidamente à árvore enquanto vários outros colhem com rapidez cada barra de ouro dos ramos, atirando-as para o camião com movimentos velozes e realistas. Em breves instantes, a árvore é completamente desprovida da colheita. O camião fica totalmente carregado com centenas de barras de ouro e parte, deixando apenas a árvore desprovida para trás.
+Plano contínuo único, clima chuvoso realista, solo lamacento, iluminação cinematográfica, vento natural, física credível, texturas ultradetalhadas, animação de crescimento suave, transformação sem interrupções, sem cortes, sem falhas, sem cintilações, sem objetos adicionais, 8K, HDR, hiper-realista, realismo em estilo documental." nota: a barra de ouro deve ser a mesma do início ao fim; se forem retangulares, devem ser todas retangulares e realistas
 ```
 
 [↑ Voltar às categorias](#catalog)

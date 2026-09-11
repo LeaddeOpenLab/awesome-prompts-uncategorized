@@ -35,20 +35,23 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098338457491800556"></a>
 
-### Çeviri sürüyor
+### Çamurda filizlenip üzeri külçe altınlarla dolu devasa bir ağaca dönüşen bir külçe altının ve ardından işçilerin gelip bunları hasat ederek kamyona yüklemesinin gerçekçi animasyon video üretim istemi.
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2098338457491800556)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çamurda filizlenip üzeri külçe altınlarla dolu devasa bir ağaca dönüşen bir külçe altının ve ardından işçilerin gelip bunları hasat ederek kamyona yüklemesinin gerçekçi animasyon video üretim istemi.
 
 <img src="covers/2098338457491800556.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+10 saniyelik, ultra fotogerçekçi, sinematik dikey bir video oluşturun (9:16).
+Şiddetli yağmurun ardından çamurlu yol kenarında terk edilmiş gerçekçi bir külçe altın yatıyor. Yağmur suyu etrafından akıp giderken nesne yavaşça ıslak toprağın derinliklerine batıyor. Saniyeler içinde, gömülü nesne yerin altından parlamaya başlıyor. Tam o noktadan küçücük yeşil bir filiz beliriyor ve hızla devasa, olgun bir külçe altın ağacına dönüşüyor. Kalın gövde ve dallar; orijinal altın külçesinin şeklini, dokusunu, renklerini ve tasarım dilini doğal bir şekilde andırıyor. Yüzlerce son derece ayrıntılı, olgun külçe altın, tıpkı gerçek meyveler gibi her daldan sarkıyor ve rüzgârda hafifçe sallanıyor.
+Ağacın büyümesi biter bitmez büyük bir kargo kamyonu gelip yanında duruyor. Bir işçi hızla ağaca tırmanırken diğerleri dallardaki her külçe altını süratle hasat edip hızlı ve gerçekçi hareketlerle kamyona fırlatıyor. Birkaç an içinde ağacın tamamı hasat ediliyor. Kamyon yüzlerce altın külçeyle tamamen doluyor ve arkasında yalnızca boş ağacı bırakarak uzaklaşıyor.
+Tek kesintisiz çekim, gerçekçi yağmurlu hava, çamurlu zemin, sinematik aydınlatma, doğal rüzgâr, inandırıcı fizik, ultra ayrıntılı dokular, akıcı büyüme animasyonu, kusursuz dönüşüm, kesinti yok, aksaklık yok, titreme yok, fazladan nesne yok, 8K, HDR, hiper gerçekçi, belgesel tarzı gerçekçilik." not: altın külçe baştan sona aynı olmalı; dikdörtgense hepsi dikdörtgen ve gerçekçi olmalı
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -35,20 +35,23 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098338457491800556"></a>
 
-### Übersetzung läuft
+### Prompt zur Generierung eines realistischen Animationsvideos, in dem ein Goldbarren im Schlamm keimt, zu einem riesigen, mit Goldbarren behangenen Baum heranwächst und anschließend Arbeiter eintreffen, um sie zu ernten und auf einen Lastwagen zu verladen.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2098338457491800556)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Generierung eines realistischen Animationsvideos, in dem ein Goldbarren im Schlamm keimt, zu einem riesigen, mit Goldbarren behangenen Baum heranwächst und anschließend Arbeiter eintreffen, um sie zu ernten und auf einen Lastwagen zu verladen.
 
 <img src="covers/2098338457491800556.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 10-sekündiges, ultrafotorealistisches, filmisches vertikales Video (9:16).
+Ein realistischer Goldbarren liegt nach heftigen Regenfällen verlassen am schlammigen Straßenrand. Regenwasser fließt um ihn herum, während das Objekt langsam tief im nassen Boden versinkt. Innerhalb von Sekunden beginnt das vergrabene Objekt aus dem Untergrund zu leuchten. Ein winziger grüner Spross bricht genau an dieser Stelle hervor und wächst rasch zu einem riesigen, ausgewachsenen Goldbarrenbaum heran. Der dicke Stamm und die Äste ähneln auf natürliche Weise der Form, Textur, den Farben und der Formensprache des ursprünglichen Goldbarrens. Hunderte vollständig detaillierte, reife Goldbarren hängen wie echte Früchte an jedem Ast und wiegen sich sanft im Wind.
+Unmittelbar nachdem der Baum ausgewachsen ist, trifft ein großer Lastwagen ein und hält daneben an. Ein Arbeiter klettert schnell auf den Baum, während mehrere andere zügig jeden Goldbarren von den Ästen ernten und sie mit schnellen, realistischen Bewegungen auf die Ladefläche des Lastwagens werfen. Binnen weniger Augenblicke ist der Baum komplett abgeerntet. Der Lastwagen wird voll mit Hunderten von Goldbarren beladen und fährt davon, wobei nur der leere Baum zurückbleibt.
+Einzelne durchgehende Aufnahme, realistisches Regenwetter, schlammiger Boden, filmische Beleuchtung, natürlicher Wind, glaubwürdige Physik, ultradetaillierte Texturen, flüssige Wachstumsanimation, nahtlose Transformation, keine Schnitte, keine Glitches, kein Flackern, keine zusätzlichen Objekte, 8K, HDR, hyperrealistisch, Realismus im Dokumentarfilmstil." Hinweis: Der Goldbarren muss von Anfang bis Ende gleich sein; wenn sie rechteckig sind, müssen alle rechteckig und realistisch sein
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

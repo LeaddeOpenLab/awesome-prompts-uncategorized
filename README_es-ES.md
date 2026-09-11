@@ -35,20 +35,23 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098338457491800556"></a>
 
-### Traducción en curso
+### Prompt para generar un video animado realista de un lingote de oro que brota en el barro hasta convertirse en un árbol gigante cargado de lingotes, seguido de la llegada de trabajadores para cosecharlos y cargarlos en un camión.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2098338457491800556)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar un video animado realista de un lingote de oro que brota en el barro hasta convertirse en un árbol gigante cargado de lingotes, seguido de la llegada de trabajadores para cosecharlos y cargarlos en un camión.
 
 <img src="covers/2098338457491800556.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video vertical cinematográfico y ultrafotorrealista de 10 segundos (9:16).
+Un lingote de oro (gold biscuit) realista yace abandonado en el arcén embarrado de una carretera tras una fuerte lluvia. El agua de lluvia fluye a su alrededor mientras el objeto se hunde lentamente en la tierra húmeda. En cuestión de segundos, el objeto enterrado comienza a brillar desde el subsuelo. Un diminuto brote verde emerge exactamente del mismo lugar y crece con rapidez hasta convertirse en un gigantesco árbol maduro de lingotes de oro. El grueso tronco y las ramas imitan de forma natural la forma, textura, colores y lenguaje de diseño del lingote de oro original. Cientos de lingotes de oro maduros y con todo lujo de detalles cuelgan de cada rama como frutos reales, meciéndose suavemente con el viento.
+Inmediatamente después de que el árbol termine de crecer, llega un gran camión de carga y se detiene a su lado. Un trabajador se sube rápidamente al árbol mientras varios otros cosechan con rapidez cada lingote de oro de las ramas, arrojándolos al camión con movimientos rápidos y realistas. En cuestión de instantes, el árbol queda completamente cosechado. El camión se llena por completo con cientos de lingotes de oro y se aleja, dejando atrás únicamente el árbol vacío.
+Toma continua única, clima lluvioso realista, suelo embarrado, iluminación cinematográfica, viento natural, física creíble, texturas ultradetalladas, animación de crecimiento fluida, transformación sin interrupciones, sin cortes, sin fallos técnicos, sin parpadeos, sin objetos sobrantes, 8K, HDR, hiperrealista, realismo de estilo documental." nota: los lingotes de oro deben ser iguales de principio a fin; si son rectangulares, todos deben ser rectangulares y realistas
 ```
 
 [↑ Volver a categorías](#catalog)
