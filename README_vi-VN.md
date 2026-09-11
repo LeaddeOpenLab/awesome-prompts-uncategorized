@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**71** Prompt · Bổ sung mới nhất: **2026-09-11**
+**72** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -538,6 +538,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098392252137820636"></a>
+
+### Đang dịch
+
+Tác giả：[@recehtuitt](https://x.com/recehtuitt) · [Bài gốc](https://x.com/recehtuitt/status/2098392252137820636)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098392252137820636.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 
@@ -1499,13 +1521,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098426167195783286"></a>
 
-### Đang dịch
+### Chân dung studio toàn thân của một người phụ nữ thanh lịch trong bộ váy dạ hội satin màu nâu đồng trước phông nền ấm áp có kết cấu bề mặt.
 
 Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2098426167195783286)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung studio toàn thân của một người phụ nữ thanh lịch trong bộ váy dạ hội satin màu nâu đồng trước phông nền ấm áp có kết cấu bề mặt.
 
 <img src="images/2098426167195783286-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1514,7 +1536,7 @@ Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh chân dung studio toàn thân của một người phụ nữ thanh lịch đang tạo dáng duyên dáng trước phông nền màu nâu ấm áp có họa tiết bề mặt. Cô diện một chiếc váy dạ hội satin màu nâu đồng bóng bẩy, không tay với cổ chữ V khoét sâu, thân áo ôm sát được xếp nếp tinh tế và đường xẻ tà cao ấn tượng để lộ đôi chân. Chiếc váy dài thướt tha của cô khẽ bồng bềnh ra ngoài, tạo thêm cảm giác chuyển động, và cô kết hợp bộ trang phục với đôi giày cao gót quai mảnh ánh kim đồng điệu. Mái tóc sẫm màu của cô được búi cao với những lọn tóc mềm mại ôm lấy khuôn mặt, và cô nhìn về phía máy ảnh với nụ cười dịu dàng, tự tin trong khi một tay khẽ chạm vào tóc.
 ```
 
 [↑ Về danh mục](#catalog)

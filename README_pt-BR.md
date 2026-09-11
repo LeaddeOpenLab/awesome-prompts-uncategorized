@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**71** Prompts · Última adição: **2026-09-11**
+**72** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -526,6 +526,28 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098392252137820636"></a>
+
+### Tradução em andamento
+
+Autor：[@recehtuitt](https://x.com/recehtuitt) · [Publicação original](https://x.com/recehtuitt/status/2098392252137820636)
+
+Cinematográfico / Imagem de Filme · Personagem · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098392252137820636.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 
@@ -1475,13 +1497,13 @@ Tradução em andamento
 
 <a name="prompt-2098426167195783286"></a>
 
-### Tradução em andamento
+### Retrato de estúdio de corpo inteiro de uma mulher elegante em um vestido de cetim marrom-bronze contra um fundo quente texturizado.
 
 Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicação original](https://x.com/Minahil42298354/status/2098426167195783286)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de estúdio de corpo inteiro de uma mulher elegante em um vestido de cetim marrom-bronze contra um fundo quente texturizado.
 
 <img src="images/2098426167195783286-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1490,7 +1512,7 @@ Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Um retrato de estúdio de corpo inteiro de uma mulher elegante posando com graça contra um fundo marrom quente e texturizado. Ela veste um vestido de noite de cetim marrom-bronze sem mangas e lustroso, apresentando um decote em V profundo, um corpete ajustado com drapeados delicados e uma fenda alta dramática que revela um vislumbre de sua perna. Sua saia longa e esvoaçante ondula levemente para fora, acrescentando uma sensação de movimento, e ela complementa o traje com saltos altos de tiras metálicas combinando. Seu cabelo escuro está preso em um coque com mechas suaves emoldurando seu rosto, e ela olha para a câmera com um sorriso suave e confiante enquanto toca levemente o cabelo com uma das mãos.
 ```
 
 [↑ Voltar às categorias](#catalog)

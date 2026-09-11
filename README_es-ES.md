@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**71** Prompts · Última incorporación: **2026-09-11**
+**72** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -538,6 +538,28 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2098392252137820636"></a>
+
+### Traducción en curso
+
+Autor：[@recehtuitt](https://x.com/recehtuitt) · [Publicación original](https://x.com/recehtuitt/status/2098392252137820636)
+
+Cine / Fotograma de película · Personaje · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098392252137820636.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 
@@ -1499,13 +1521,13 @@ Traducción en curso
 
 <a name="prompt-2098426167195783286"></a>
 
-### Traducción en curso
+### Retrato de estudio de cuerpo entero de una mujer elegante con un vestido de satén marrón bronce contra un fondo texturizado cálido.
 
 Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicación original](https://x.com/Minahil42298354/status/2098426167195783286)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de estudio de cuerpo entero de una mujer elegante con un vestido de satén marrón bronce contra un fondo texturizado cálido.
 
 <img src="images/2098426167195783286-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1514,7 +1536,7 @@ Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Un retrato de estudio de cuerpo entero de una mujer elegante posando con gracia contra un fondo marrón cálido y texturizado. Lleva un vestido de noche de satén marrón bronce sin mangas y lustroso, con un escote en V profundo, un corpiño ajustado con delicados drapeados y una abertura alta dramática que deja ver parte de su pierna. Su falda larga y fluida ondea ligeramente hacia afuera, añadiendo una sensación de movimiento, y complementa el atuendo con unos tacones altos de tiras metálicas a juego. Su cabello oscuro está recogido en un peinado alto con mechones suaves enmarcando su rostro, y mira hacia la cámara con una sonrisa suave y segura mientras se toca ligeramente el cabello con una mano.
 ```
 
 [↑ Volver a categorías](#catalog)

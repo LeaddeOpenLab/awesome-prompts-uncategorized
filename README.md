@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**71** Prompts · Latest addition: **2026-09-11**
+**72** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -633,6 +633,52 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098392252137820636"></a>
+
+### Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
+
+Author：[@recehtuitt](https://x.com/recehtuitt) · [Source](https://x.com/recehtuitt/status/2098392252137820636)
+
+Cinematic / Film Still · Character · Text / Typography · Published
+
+**Summary:** Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
+
+<img src="covers/2098392252137820636.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[10s | 16:9 | 24fps | one continuous cinematic shot]  
+
+REFERENCE: 
+@image1 = REIKA MASTER. Preserve recognizable appearance, proportions, long dark hair, oversized white T-shirt, dark cargo shorts, sandals, necklace and wardrobe. Reika has extreme speed, reflexes and effortless physical control. She can remove one flip-flop and retain it as a hand-held prop. 
+@image2 = VORN MASTER. Preserve recognizable appearance, normal humanoid scale, horns, long white hair, bone tail, layered bone armor and ragged pale garments. Vorn uses three bone-like aura tentacles with extreme-speed offensive pressure.  
+
+STYLE: Premium photorealistic IMAX live-action fantasy, ARRI ALEXA 65 / RED V-RAPTOR XL, 35mm anamorphic, Kodak Vision3 500T. Deep cyan-teal shadows, restrained amber-orange highlights, dark nocturnal contrast, wet reflective surfaces, tactile materials, realistic weight, natural motion blur and subtle film grain. Reika's signature energy is dark metallic-silver intertwined with controlled black-crimson fire.  ENVIRONMENT: Rain-soaked downtown street at night, wet asphalt, parked cars, glass storefronts, streetlights and panicked crowds. The street progressively fractures and fills with water, glass and vehicle debris as Vorn's attacks miss.  
+
+ACTION TIMELINE:  [00:00–00:02.5] BEAT 1 — EFFORTLESS EVASION Reika calmly removes one flip-flop and holds it loosely in one hand, leaving that foot bare. Vorn instantly fires three bone-like aura tentacles at Reika's torso, head and legs from converging angles. Reika never counterattacks; she simply pivots, bends and slips between them with tiny precise movements, each strike missing by inches and smashing the wet street behind her. START behind Reika's shoulder, tracking the tentacles toward her exact position, then orbit tightly with her evasive rhythm as water and asphalt erupt behind each miss. 
+
+ACCENT: 0.2s slow motion on one tentacle passing inches from Reika's face, then snap back to extreme speed. STOP with Reika still composed as Vorn immediately chains the next barrage.  
+
+[00:02.5–00:05.0] BEAT 2 — ESCALATING SPEED GAP Vorn unleashes all three tentacles again, faster and from constantly changing angles, each one targeting Reika's actual body position. Reika still refuses to attack, gliding beneath one, stepping past another and turning through the final strike with almost no wasted motion. The missed attacks tear through cars, glass and asphalt, building a dense debris cloud directly behind her. START lateral tracking with Reika, accelerating as the tentacles close around her, then whip through the final collision as the debris fills the frame. Reika uses the obscuration to God Speed-displace a short distance, leaving a dense black-smoke trail through the debris, and arrives calmly beside Vorn before he can react. STOP on Vorn sharply turning toward her.
+
+[00:05–00:07.5] BEAT 3 — CRIMSON-SILVER FIRE Vorn immediately attacks again at close range. Reika remains planted and simply raises the removed flip-flop. Dark metallic-silver energy coils around it as black-crimson fire threads through the silver core, rapidly intensifying around her hand. Rain and debris briefly suspend as the surrounding light falls into deep cyan-black shadow. Reika quietly says, "Baka." The Japanese 「バカ」 forms beside her from dimensional silver-black energy edged with crimson fire, physically occupying the atmosphere rather than behaving as screen text. START with a controlled push toward the incoming attack, curve around Reika as the energy manifests, then continue directly into her swing. 
+
+ACCENT: 0.2s slow motion as silver-black energy compresses around the flip-flop. The flip-flop immediately accelerates toward Vorn's face.  
+
+[00:07.5–00:10.0] BEAT 4 — ONE-HIT FINISH The flip-flop strikes Vorn directly in the face. Silver-black energy compresses at the contact point while black-crimson fire bursts outward. The localized impact generates a violent shockwave that scatters rain, glass, dust and vehicle debris across the street. Vorn recoils from the single strike, then rapidly disintegrates into expanding black dust. START from the swing's momentum, push into the exact contact point, then recoil with the shockwave as the debris expands outward. Use micro slow motion only for the first instant of contact, then restore full-speed motion. END with Reika firmly planted, one foot bare and the remaining flip-flop still worn, as the silver-black energy and crimson fire fade.  
+
+CONTINUITY: Reika remains untouched through Beats 1–2 and never counterattacks until the final strike. Vorn remains continuously offensive. The removed flip-flop stays in Reika's hand until the final impact; that foot remains bare throughout. Each missed tentacle progressively damages the environment and motivates the camera transitions. Beat 2's debris displacement places Reika beside Vorn, directly establishing Beat 3. The final shockwave originates from the exact face contact point.  
+
+TARGETED EXCLUSIONS: The three tentacles always converge on Reika's real body position; their misses destroy the environment behind her rather than redirecting randomly. Reika's bare foot remains bare and the removed flip-flop never returns to it. The 「バカ」 remains dimensional in-scene energy typography, not a flat overlay. Silver-black energy stays intertwined with black-crimson fire rather than becoming ordinary flame. The camera follows continuous momentum with no reset or hard cut; each character remains a single continuous presence.  
+
+AUDIO: Heavy rain, tentacle displacement, asphalt impacts, breaking glass, vehicle debris and crowd panic. Environmental sound briefly compresses as Reika manifests the energy. Her quiet "Baka" remains clear. The final contact produces a dense impact, expanding shockwave and cascading debris. No BGM.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 

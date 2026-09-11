@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**71** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**72** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -526,6 +526,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098392252137820636"></a>
+
+### Übersetzung läuft
+
+Autor：[@recehtuitt](https://x.com/recehtuitt) · [Originalbeitrag](https://x.com/recehtuitt/status/2098392252137820636)
+
+Kinematisch / Filmstill · Charakter · Text / Typografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098392252137820636.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 
@@ -1475,13 +1497,13 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098426167195783286"></a>
 
-### Übersetzung läuft
+### Ganzkörper-Studioporträt einer eleganten Frau in einem bronzebraunen Satinkleid vor einem warmen strukturierten Hintergrund.
 
 Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Originalbeitrag](https://x.com/Minahil42298354/status/2098426167195783286)
 
 Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ganzkörper-Studioporträt einer eleganten Frau in einem bronzebraunen Satinkleid vor einem warmen strukturierten Hintergrund.
 
 <img src="images/2098426167195783286-1.jpg" alt="Bild 1" width="480" />
 
@@ -1490,7 +1512,7 @@ Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein Ganzkörper-Studioporträt einer eleganten Frau, die anmutig vor einem strukturierten, warmen braunen Hintergrund posiert. Sie trägt ein ärmelloses, glänzendes bronzebraunes Satin-Abendkleid mit tiefem V-Ausschnitt, einem taillierten Oberteil mit zarter Drapierung und einem dramatischen hohen Schlitz, der einen Blick auf ihr Bein freigibt. Ihr langer, fließender Rock bauscht sich leicht nach außen auf und verleiht dem Ganzen ein Gefühl von Bewegung, und sie ergänzt das Outfit mit passenden metallischen Riemchen-High-Heels. Ihr dunkles Haar ist zu einer Hochsteckfrisur mit sanften, ihr Gesicht umrahmenden Strähnen gestylt, und sie blickt mit einem sanften, selbstbewussten Lächeln in die Kamera, während sie ihr Haar mit einer Hand leicht berührt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**71** Prompts · Dernier ajout: **2026-09-11**
+**72** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -526,6 +526,28 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098392252137820636"></a>
+
+### Traduction en cours
+
+Auteur：[@recehtuitt](https://x.com/recehtuitt) · [Publication originale](https://x.com/recehtuitt/status/2098392252137820636)
+
+Image cinématographique / Photogramme de film · Personnage · Texte / Typographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098392252137820636.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 
@@ -1475,13 +1497,13 @@ Traduction en cours
 
 <a name="prompt-2098426167195783286"></a>
 
-### Traduction en cours
+### Portrait de studio en pied d'une femme élégante en robe de satin marron bronze devant un arrière-plan texturé chaud.
 
 Auteur：[@Minahil42298354](https://x.com/Minahil42298354) · [Publication originale](https://x.com/Minahil42298354/status/2098426167195783286)
 
 Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de studio en pied d'une femme élégante en robe de satin marron bronze devant un arrière-plan texturé chaud.
 
 <img src="images/2098426167195783286-1.jpg" alt="Image 1" width="480" />
 
@@ -1490,7 +1512,7 @@ Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait de studio en pied d'une femme élégante posant avec grâce devant un arrière-plan marron chaud et texturé. Elle porte une robe de soirée en satin marron bronze sans manches et brillante, dotée d'un décolleté en V plongeant, d'un corsage ajusté aux drapés délicats et d'une fente haute spectaculaire qui laisse entrevoir sa jambe. Sa jupe longue et fluide tourbillonne légèrement vers l'extérieur, ajoutant une impression de mouvement, et elle complète sa tenue avec des talons hauts à lanières métallisées assortis. Ses cheveux foncés sont coiffés en un chignon avec de douces mèches encadrant son visage, et elle regarde vers l'appareil photo avec un sourire doux et confiant tout en touchant légèrement ses cheveux d'une main.
 ```
 
 [↑ Retour aux catégories](#catalog)

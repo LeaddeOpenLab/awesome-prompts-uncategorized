@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**71** Prompts · Adição mais recente: **2026-09-11**
+**72** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -526,6 +526,28 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098392252137820636"></a>
+
+### Tradução em curso
+
+Autor：[@recehtuitt](https://x.com/recehtuitt) · [Publicação original](https://x.com/recehtuitt/status/2098392252137820636)
+
+Cena de Cinema / Fotograma · Personagem · Texto / Tipografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098392252137820636.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 
@@ -1475,13 +1497,13 @@ Tradução em curso
 
 <a name="prompt-2098426167195783286"></a>
 
-### Tradução em curso
+### Retrato de estúdio de corpo inteiro de uma mulher elegante num vestido de cetim castanho-bronze contra um fundo quente e texturado.
 
 Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicação original](https://x.com/Minahil42298354/status/2098426167195783286)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de estúdio de corpo inteiro de uma mulher elegante num vestido de cetim castanho-bronze contra um fundo quente e texturado.
 
 <img src="images/2098426167195783286-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1490,7 +1512,7 @@ Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Um retrato de estúdio de corpo inteiro de uma mulher elegante posando com graciosidade contra um fundo castanho quente e texturado. Ela veste um vestido de noite de cetim castanho-bronze sem mangas e brilhante, com um decote em V profundo, um corpete justo com drapeados delicados e uma abertura alta dramática que revela um vislumbre da sua perna. A sua saia comprida e fluida ondula ligeiramente para fora, conferindo uma sensação de movimento, e complementa o conjunto com saltos altos de tiras metálicas a condizer. O seu cabelo escuro está apanhado num penteado alto com mechas suaves a emoldurar o rosto, e ela olha para a câmara com um sorriso suave e confiante enquanto toca levemente no cabelo com uma mão.
 ```
 
 [↑ Voltar às categorias](#catalog)

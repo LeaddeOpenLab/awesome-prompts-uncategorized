@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**71** Prompt · Son eklenen: **2026-09-11**
+**72** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -526,6 +526,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098392252137820636"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@recehtuitt](https://x.com/recehtuitt) · [Orijinal gönderi](https://x.com/recehtuitt/status/2098392252137820636)
+
+Sinematik / Film Karesi · Karakter · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098392252137820636.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 
@@ -1475,13 +1497,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098426167195783286"></a>
 
-### Çeviri sürüyor
+### Sıcak dokulu bir arka plan önünde bronz-kahverengi saten elbiseli zarif bir kadının tam boy stüdyo portresi.
 
 Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2098426167195783286)
 
 Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sıcak dokulu bir arka plan önünde bronz-kahverengi saten elbiseli zarif bir kadının tam boy stüdyo portresi.
 
 <img src="images/2098426167195783286-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1490,7 +1512,7 @@ Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dokulu, sıcak kahverengi bir arka plan önünde zarifçe poz veren şık bir kadının tam boy stüdyo portresi. Derin V yakalı, narin dökümlü oturan bir korsajı ve bacağının bir kısmını ortaya çıkaran dramatik yüksek bir yırtmacı olan, kolsuz, parlak bronz-kahverengi saten bir gece elbisesi giyiyor. Uzun, dökümlü eteği hafifçe dışarı doğru kabararak bir hareket hissi katıyor ve kıyafetini uyumlu metalik bantlı yüksek topuklu ayakkabılarla tamamlıyor. Koyu saçları, yüzünü çerçeveleyen yumuşak tutamlarla bir topuz şeklinde toplanmış ve bir eliyle hafifçe saçına dokunurken nazik, kendinden emin bir gülümsemeyle kameraya bakıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

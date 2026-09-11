@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**71** Prompt · Ultima aggiunta: **2026-09-11**
+**72** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -526,6 +526,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098392252137820636"></a>
+
+### Traduzione in corso
+
+Autore：[@recehtuitt](https://x.com/recehtuitt) · [Post originale](https://x.com/recehtuitt/status/2098392252137820636)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Testo / Tipografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098392252137820636.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098436364849320190"></a>
 
@@ -1475,13 +1497,13 @@ Traduzione in corso
 
 <a name="prompt-2098426167195783286"></a>
 
-### Traduzione in corso
+### Ritratto da studio a figura intera di una donna elegante in un abito di raso marrone bronzo contro uno sfondo caldo e strutturato.
 
 Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2098426167195783286)
 
 Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto da studio a figura intera di una donna elegante in un abito di raso marrone bronzo contro uno sfondo caldo e strutturato.
 
 <img src="images/2098426167195783286-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1490,7 +1512,7 @@ Ritratto / Selfie · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto da studio a figura intera di una donna elegante che posa con grazia contro uno sfondo marrone caldo e strutturato. Indossa un abito da sera in raso marrone bronzo lucido, senza maniche, caratterizzato da una profonda scollatura a V, un corpino aderente con drappeggi delicati e un drammatico spacco alto che rivela uno scorcio della gamba. La sua gonna lunga e fluida si allarga leggermente verso l'esterno, aggiungendo un senso di movimento, e completa l'outfit con tacchi alti metallizzati con cinturini abbinati. I suoi capelli scuri sono raccolti in un'acconciatura con morbide ciocche che le incorniciano il viso, e guarda verso la fotocamera con un sorriso dolce e sicuro mentre si tocca leggermente i capelli con una mano.
 ```
 
 [↑ Torna alle categorie](#catalog)
