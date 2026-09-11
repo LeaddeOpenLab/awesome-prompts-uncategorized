@@ -1210,20 +1210,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098343290626290133"></a>
 
-### Đang dịch
+### áo len oversize màu hồng nhạt, tay dài, \(tay áo dài qua ngón tay\), áo sơ mi bên trong, áo sơ mi dưới áo len, áo sơ mi trắng có cổ, \(xương quai xanh\), dây chuyền hình trái tim, nơ thắt lỏng, nơ kẻ caro màu hồng, chân váy xếp ly kẻ caro màu nâu, chân váy ngắn, tất lười màu trắng, giày lười màu nâu,
 
 Tác giả：[@AI\_Kei75](https://x.com/AI_Kei75) · [Bài gốc](https://x.com/AI_Kei75/status/2098343290626290133)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** áo len oversize màu hồng nhạt, tay dài, \(tay áo dài qua ngón tay\), áo sơ mi bên trong, áo sơ mi dưới áo len, áo sơ mi trắng có cổ, \(xương quai xanh\), dây chuyền hình trái tim, nơ thắt lỏng, nơ kẻ caro màu hồng, chân váy xếp ly kẻ caro màu nâu, chân váy ngắn, tất lười màu trắng, giày lười màu nâu,
 
 <img src="images/2098343290626290133-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+áo len oversize màu hồng nhạt, tay dài, (tay áo dài qua ngón tay), áo sơ mi bên trong, áo sơ mi dưới áo len, áo sơ mi trắng có cổ, (xương quai xanh), dây chuyền hình trái tim, nơ thắt lỏng, nơ kẻ caro màu hồng, chân váy xếp ly kẻ caro màu nâu, chân váy ngắn, tất lười màu trắng, giày lười màu nâu,
 ```
 
 [↑ Về danh mục](#catalog)

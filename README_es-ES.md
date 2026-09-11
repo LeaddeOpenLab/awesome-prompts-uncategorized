@@ -1210,20 +1210,20 @@ Traducción en curso
 
 <a name="prompt-2098343290626290133"></a>
 
-### Traducción en curso
+### suéter oversize rosa claro, mangas largas, \(mangas que pasan de los dedos\), camisa debajo de la ropa, camisa debajo del suéter, camisa blanca con cuello, \(clavícula\), collar de corazón, pajarita suelta, pajarita a cuadros rosas, falda plisada a cuadros marrones, minifalda, calcetines holgados blancos, mocasines marrones,
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicación original](https://x.com/AI_Kei75/status/2098343290626290133)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** suéter oversize rosa claro, mangas largas, \(mangas que pasan de los dedos\), camisa debajo de la ropa, camisa debajo del suéter, camisa blanca con cuello, \(clavícula\), collar de corazón, pajarita suelta, pajarita a cuadros rosas, falda plisada a cuadros marrones, minifalda, calcetines holgados blancos, mocasines marrones,
 
 <img src="images/2098343290626290133-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+suéter oversize rosa claro, mangas largas, (mangas que pasan de los dedos), camisa debajo de la ropa, camisa debajo del suéter, camisa blanca con cuello, (clavícula), collar de corazón, pajarita suelta, pajarita a cuadros rosas, falda plisada a cuadros marrones, minifalda, calcetines holgados blancos, mocasines marrones,
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -1186,20 +1186,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098343290626290133"></a>
 
-### Çeviri sürüyor
+### oversize açık pembe kazak, uzun kollu, \(parmakları geçen kollar\), giysinin altında gömlek, kazağın altında gömlek, beyaz yakalı gömlek, \(köprücük kemiği\), kalp kolye, gevşek papyon, pembe ekoseli papyon, kahverengi ekoseli pileli etek, mini etek, beyaz bol çoraplar, kahverengi makosen ayakkabılar,
 
 Yazar：[@AI\_Kei75](https://x.com/AI_Kei75) · [Orijinal gönderi](https://x.com/AI_Kei75/status/2098343290626290133)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** oversize açık pembe kazak, uzun kollu, \(parmakları geçen kollar\), giysinin altında gömlek, kazağın altında gömlek, beyaz yakalı gömlek, \(köprücük kemiği\), kalp kolye, gevşek papyon, pembe ekoseli papyon, kahverengi ekoseli pileli etek, mini etek, beyaz bol çoraplar, kahverengi makosen ayakkabılar,
 
 <img src="images/2098343290626290133-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+oversize açık pembe kazak, uzun kollu, (parmakları geçen kollar), giysinin altında gömlek, kazağın altında gömlek, beyaz yakalı gömlek, (köprücük kemiği), kalp kolye, gevşek papyon, pembe ekoseli papyon, kahverengi ekoseli pileli etek, mini etek, beyaz bol çoraplar, kahverengi makosen ayakkabılar,
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -1186,20 +1186,20 @@ Traduction en cours
 
 <a name="prompt-2098343290626290133"></a>
 
-### Traduction en cours
+### pull oversize rose clair, manches longues, \(manches dépassant les doigts\), chemise sous les vêtements, chemise sous le pull, chemise blanche à col, \(clavicule\), collier avec cœur, nœud papillon lâche, nœud papillon à carreaux roses, jupe plissée à carreaux marron, minijupe, chaussettes amples blanches, mocassins marron,
 
 Auteur：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publication originale](https://x.com/AI_Kei75/status/2098343290626290133)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** pull oversize rose clair, manches longues, \(manches dépassant les doigts\), chemise sous les vêtements, chemise sous le pull, chemise blanche à col, \(clavicule\), collier avec cœur, nœud papillon lâche, nœud papillon à carreaux roses, jupe plissée à carreaux marron, minijupe, chaussettes amples blanches, mocassins marron,
 
 <img src="images/2098343290626290133-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+pull oversize rose clair, manches longues, (manches dépassant les doigts), chemise sous les vêtements, chemise sous le pull, chemise blanche à col, (clavicule), collier avec cœur, nœud papillon lâche, nœud papillon à carreaux roses, jupe plissée à carreaux marron, minijupe, chaussettes amples blanches, mocassins marron,
 ```
 
 [↑ Retour aux catégories](#catalog)

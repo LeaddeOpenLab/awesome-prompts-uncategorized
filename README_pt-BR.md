@@ -1186,20 +1186,20 @@ Tradução em andamento
 
 <a name="prompt-2098343290626290133"></a>
 
-### Tradução em andamento
+### suéter oversized rosa claro, mangas compridas, \(mangas passando dos dedos\), camisa sob a roupa, camisa sob o suéter, camisa branca de gola, \(clavícula\), colar de coração, gravata-borboleta frouxa, gravata-borboleta xadrez rosa, saia plissada xadrez marrom, minissaia, meias folgadas brancas, mocassins marrons,
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicação original](https://x.com/AI_Kei75/status/2098343290626290133)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** suéter oversized rosa claro, mangas compridas, \(mangas passando dos dedos\), camisa sob a roupa, camisa sob o suéter, camisa branca de gola, \(clavícula\), colar de coração, gravata-borboleta frouxa, gravata-borboleta xadrez rosa, saia plissada xadrez marrom, minissaia, meias folgadas brancas, mocassins marrons,
 
 <img src="images/2098343290626290133-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+suéter oversized rosa claro, mangas compridas, (mangas passando dos dedos), camisa sob a roupa, camisa sob o suéter, camisa branca de gola, (clavícula), colar de coração, gravata-borboleta frouxa, gravata-borboleta xadrez rosa, saia plissada xadrez marrom, minissaia, meias folgadas brancas, mocassins marrons,
 ```
 
 [↑ Voltar às categorias](#catalog)

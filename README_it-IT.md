@@ -1186,20 +1186,20 @@ Traduzione in corso
 
 <a name="prompt-2098343290626290133"></a>
 
-### Traduzione in corso
+### maglione oversize rosa chiaro, maniche lunghe, \(maniche oltre le dita\), camicia sotto i vestiti, camicia sotto il maglione, camicia bianca con colletto, \(clavicola\), collana a forma di cuore, papillon allentato, papillon a quadri rosa, gonna a pieghe a quadri marroni, minigonna, calzettoni larghi bianchi, mocassini marroni,
 
 Autore：[@AI\_Kei75](https://x.com/AI_Kei75) · [Post originale](https://x.com/AI_Kei75/status/2098343290626290133)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** maglione oversize rosa chiaro, maniche lunghe, \(maniche oltre le dita\), camicia sotto i vestiti, camicia sotto il maglione, camicia bianca con colletto, \(clavicola\), collana a forma di cuore, papillon allentato, papillon a quadri rosa, gonna a pieghe a quadri marroni, minigonna, calzettoni larghi bianchi, mocassini marroni,
 
 <img src="images/2098343290626290133-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+maglione oversize rosa chiaro, maniche lunghe, (maniche oltre le dita), camicia sotto i vestiti, camicia sotto il maglione, camicia bianca con colletto, (clavicola), collana a forma di cuore, papillon allentato, papillon a quadri rosa, gonna a pieghe a quadri marroni, minigonna, calzettoni larghi bianchi, mocassini marroni,
 ```
 
 [↑ Torna alle categorie](#catalog)

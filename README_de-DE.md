@@ -1186,20 +1186,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098343290626290133"></a>
 
-### Übersetzung läuft
+### übergroßer hellrosa Pullover, lange Ärmel, \(Ärmel über die Finger reichend\), Hemd unter der Kleidung, Hemd unter dem Pullover, weißes Kragenhemd, \(Schlüsselbein\), Herzkette, lockere Fliege, rosa karierte Fliege, braun karierter Faltenrock, Minirock, weiße Loose Socks, braune Loafer,
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Originalbeitrag](https://x.com/AI_Kei75/status/2098343290626290133)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** übergroßer hellrosa Pullover, lange Ärmel, \(Ärmel über die Finger reichend\), Hemd unter der Kleidung, Hemd unter dem Pullover, weißes Kragenhemd, \(Schlüsselbein\), Herzkette, lockere Fliege, rosa karierte Fliege, braun karierter Faltenrock, Minirock, weiße Loose Socks, braune Loafer,
 
 <img src="images/2098343290626290133-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+übergroßer hellrosa Pullover, lange Ärmel, (Ärmel über die Finger reichend), Hemd unter der Kleidung, Hemd unter dem Pullover, weißes Kragenhemd, (Schlüsselbein), Herzkette, lockere Fliege, rosa karierte Fliege, braun karierter Faltenrock, Minirock, weiße Loose Socks, braune Loafer,
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -1186,20 +1186,20 @@ Tradução em curso
 
 <a name="prompt-2098343290626290133"></a>
 
-### Tradução em curso
+### camisola oversized cor-de-rosa claro, mangas compridas, \(mangas a passar dos dedos\), camisa sob a roupa, camisa sob a camisola, camisa branca com colarinho, \(clavícula\), colar com coração, laço frouxo, laço aos quadrados cor-de-rosa, saia plissada aos quadrados castanhos, minissaia, meias largas brancas, mocassins castanhos,
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicação original](https://x.com/AI_Kei75/status/2098343290626290133)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** camisola oversized cor-de-rosa claro, mangas compridas, \(mangas a passar dos dedos\), camisa sob a roupa, camisa sob a camisola, camisa branca com colarinho, \(clavícula\), colar com coração, laço frouxo, laço aos quadrados cor-de-rosa, saia plissada aos quadrados castanhos, minissaia, meias largas brancas, mocassins castanhos,
 
 <img src="images/2098343290626290133-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+camisola oversized cor-de-rosa claro, mangas compridas, (mangas a passar dos dedos), camisa sob a roupa, camisa sob a camisola, camisa branca com colarinho, (clavícula), colar com coração, laço frouxo, laço aos quadrados cor-de-rosa, saia plissada aos quadrados castanhos, minissaia, meias largas brancas, mocassins castanhos,
 ```
 
 [↑ Voltar às categorias](#catalog)
