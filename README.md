@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**65** Prompts · Latest addition: **2026-09-11**
+**66** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1593,6 +1593,57 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098415482911219938"></a>
+
+### Top-and-bottom diptych poster based on a travel photo: real-life scene preserved on top, coarse halftone spot-color mask montage reconstructed below.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098415482911219938)
+
+Poster / Flyer · Published
+
+**Summary:** Top-and-bottom diptych poster based on a travel photo: real-life scene preserved on top, coarse halftone spot-color mask montage reconstructed below.
+
+<img src="images/2098415482911219938-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098415482911219938-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098415482911219938-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098415482911219938-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Please turn an uploaded travel photo into a standalone 3:4 vertical "vintage travel mask montage" editorial poster. The input photo is the sole source of truth; do not composite in any other photos, other locations, or generic cultural symbols.
+
+The layout adopts a clear top-and-bottom diptych structure. The upper section occupies approximately 45%–48%, fully preserving the high-fidelity real scene of the input photo: keep the identities and count of primary subjects, human poses, architectural structures, vehicles, directions of roads or waterways, viewing angles, perspective, natural lighting, season, and authentic colors, allowing only subtle travel magazine color grading and very light film grain. The upper section must be instantly recognizable as real photography at a glance, without illustration or halftone rasterization. Use a clean, horizontal, crisp boundary between the top and bottom.
+
+The lower section occupies approximately 52%–55%. Do not repaint the complete scene, and do not apply a halftone filter across the entire photo. First lock onto one main element that anchors location identification from the same photo, then extract 4–7 secondary elements, forming a total of 5–8 recognizable objects. Elements that can be extracted include building facades, towers, rooftops, window panes, signage silhouettes, human silhouettes, vehicles, boat hulls, sails, bridges, plants, stalls, road markings, or water trails; do not add regional symbols not present in the photo.
+
+Turn each object separately into an independent photographic mask layer: preserve accurate silhouettes and identity anchors, then convert them into coarse black-and-white halftones, monochrome ink plates, partial knockouts, and coarse-grain silkscreen printing. Do not arrange objects evenly as moodboards, 3x3 grids, or detached cards.
+
+Employ a full-bleed, high-impact secondary composition. The largest primary element occupies approximately 55%–95% of the lower section's height, allowing it to bleed boldly off any canvas edge; the second tier of architecture, figures, or vehicles occupies 30%–65%; the remaining elements serve as rhythmic connections. Use distinct scale disparities, front-to-back overlaps, edge cropping, partial interlocking, and directional echoes to establish clear foreground, midground, and background. The image should be dense yet orderly, appearing as though an old travel journal was re-engraved and re-plated, rather than an identical-composition replica of the full scene.
+
+Run 1–2 rectangular or irregular spot-color blocks behind some of the objects to produce silkscreen overprinting and hierarchical separation; color blocks must not cover the entire background. Reserve approximately 15%–25% of continuous, low-information aged paper or a quiet solid-color field for typography and breathing room, but do not let the frame degrade into a sparse minimalist display.
+
+Extract and compress colors from the input photo into 3–5 printing ink hues: warm ivory aged paper, the deepest dark brown or indigo from the photo, and 2–3 spot colors with the highest location recognizability. Express vintage magazine coarse halftones, halftone density shifts, paper fibers, ink starvation, squeegee rough edges, cutout ragged edges, and slight misregistration. Each object must remain identifiable and must not degenerate into meaningless texture.
+
+In the continuous quiet area at the bottom, include only the following three lines of text:
+"[1–3 English words location or theme title]"
+"MASK PLATE [two-digit number]"
+"[a 5–10 English word sentence of an observation derived from the photo facts]"
+
+The title should use clearly legible bold condensed, vintage serif, or compressed sans-serif uppercase; the field and observation sentence should be smaller, yet still distinguishable in chat preview. The text should look printed onto paper using the same ink colors as the artwork, with slight ink starvation and registration deviation. All text must be grouped together in one block, must not obstruct human faces, vehicles, boat hulls, or structural architectural identity, and no other text should be generated.
+
+Avoid: full-image halftone filters, repainting with identical cropping and scale, single landmark woodblock prints, extracting only 2–3 objects, regular grids, equal-size displays, scrapbook tape, solid background floods, excessive negative space, generic regional templates, cross-location mixing, transparent watercolor, cartoon style, smooth vectors, digital gradients, 3D collages, overly fine halftones, unlayered pileups, illegible tiny text, pseudo-Chinese characters, author names, signatures, brands, logos, URLs, QR codes, watermarks, and garbled text.
+
+The most important rule: The lower section must convert multiple real objects from the same photo into mask halftone layers of varying colors and scales, reassembling them through overlapping, cropping, and interwoven color blocks into a brand-new travel montage; it must never simply print-filter the intact original image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098414125613506896"></a>
 

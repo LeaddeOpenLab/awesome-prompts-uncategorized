@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**65** Prompt · Son eklenen: **2026-09-11**
+**66** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1426,6 +1426,34 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098415482911219938"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098415482911219938)
+
+Poster / El İlanı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098415482911219938-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098415482911219938-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098415482911219938-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098415482911219938-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098414125613506896"></a>
 
