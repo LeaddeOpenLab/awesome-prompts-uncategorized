@@ -1230,20 +1230,34 @@ Traduction en cours
 
 <a name="prompt-2098298423384645737"></a>
 
-### Traduction en cours
+### Prompt de vlog réaliste de 15 secondes sur smartphone en extérieur au bord d'un étang montrant des poissons colorés pendant l'heure dorée.
 
 Auteur：[@MrDasOnX](https://x.com/MrDasOnX) · [Publication originale](https://x.com/MrDasOnX/status/2098298423384645737)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vlog réaliste de 15 secondes sur smartphone en extérieur au bord d'un étang montrant des poissons colorés pendant l'heure dorée.
 
 <img src="covers/2098298423384645737.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez l'image de référence fournie comme référence d'identité exacte pour le même personnage masculin adulte. Conservez ses traits du visage, sa coiffure, sa barbe, son teint, ses proportions corporelles et ses vêtements de manière cohérente tout au long de la vidéo.
+
+Créez un vlog pour smartphone en extérieur ultra-réaliste de 15 secondes au bord d'un magnifique étang naturel entouré d'une végétation luxuriante pendant l'heure dorée.
+
+0 à 4 secondes : Prise de vue selfie à la main. L'homme marche au bord de l'étang, souriant et parlant naturellement à la caméra. Il remarque soudain quelque chose sous l'eau claire et dit avec enthousiasme : « Wait… look at those fish! »
+
+4 à 8 secondes : Il tourne le smartphone vers l'étang. La caméra capture un groupe de magnifiques poissons colorés nageant naturellement dans l'eau claire et peu profonde. Les poissons présentent de vives combinaisons d'orange, de jaune, de bleu, de turquoise, de rouge et d'argent, la lumière du soleil scintillant sur leurs écailles.
+
+8 à 12 secondes : Gros plan cinématographique sur les poissons nageant autour de plantes aquatiques et de petits rochers. Il parle hors caméra : « I’ve never seen fish this colorful in a pond. Look at those colors! »
+
+12 à 15 secondes : Retour à un plan selfie. Il s'accroupit au bord de l'étang, pointe du doigt les poissons derrière lui, sourit avec un émerveillement sincère et dit : « This place is incredible! » Fin avec les poissons colorés visibles en arrière-plan.
+
+Esthétique authentique de vlog pour smartphone tenu à la main, mouvements de marche et corporels naturels, expressions faciales réalistes, mains et doigts précis, clignements d'yeux naturels, physique de l'eau réaliste, écailles de poisson colorées détaillées, reflets du soleil sur l'eau, légères ondulations, végétation luxuriante, bruits ambiants naturels de l'extérieur, éclairage cinématographique mais crédible, détails photoréalistes en 2K, légers tremblements de caméra de smartphone, transitions de mise au point fluides.
+
+Pas de sous-titres, pas de texte à l'écran, pas de logos, pas de filigrane, pas de personnes supplémentaires, pas de distorsion du visage, pas de changement d'identité, pas de jeu d'acteur exagéré, pas d'effets fantastiques. Gardez les poissons magnifiques mais biologiquement crédibles et toute la scène réaliste.
 ```
 
 [↑ Retour aux catégories](#catalog)

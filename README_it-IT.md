@@ -1230,20 +1230,34 @@ Traduzione in corso
 
 <a name="prompt-2098298423384645737"></a>
 
-### Traduzione in corso
+### Prompt per vlog realistico all'aperto di 15 secondi registrato con smartphone accanto a un laghetto che mostra pesci colorati durante l'ora d'oro.
 
 Autore：[@MrDasOnX](https://x.com/MrDasOnX) · [Post originale](https://x.com/MrDasOnX/status/2098298423384645737)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per vlog realistico all'aperto di 15 secondi registrato con smartphone accanto a un laghetto che mostra pesci colorati durante l'ora d'oro.
 
 <img src="covers/2098298423384645737.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa l'immagine di riferimento fornita come riferimento d'identità esatto per lo stesso personaggio maschile adulto. Mantieni i suoi tratti del viso, l'acconciatura, la barba, la tonalità della pelle, le proporzioni del corpo e l'abbigliamento in modo coerente per l'intero video.
+
+Crea un vlog ultra-realistico di 15 secondi all'aperto girato con smartphone accanto a un bellissimo laghetto naturale circondato da una vegetazione lussureggiante durante l'ora d'oro.
+
+0–4 secondi: Ripresa selfie a mano libera. L'uomo cammina accanto al laghetto, sorridendo e parlando con naturalezza alla telecamera. All'improvviso nota qualcosa sotto l'acqua limpida ed esclama emozionato: “Wait… look at those fish!”
+
+4–8 secondi: Gira lo smartphone verso il laghetto. La telecamera riprende un gruppo di bellissimi pesci colorati che nuotano con naturalezza nell'acqua limpida e bassa. I pesci presentano vivaci combinazioni di arancione, giallo, blu, turchese, rosso e argento, con la luce del sole che luccica sulle loro squame.
+
+8–12 secondi: Primo piano cinematografico dei pesci che nuotano intorno a piante acquatiche e piccole rocce. Parla fuori campo: “I’ve never seen fish this colorful in a pond. Look at those colors!”
+
+12–15 secondi: Ritorno a una ripresa selfie. Si accovaccia accanto al laghetto, indica i pesci dietro di lui, sorride con sincero stupore e dice: “This place is incredible!” Termina con i pesci colorati visibili sullo sfondo.
+
+Autentica estetica vlog da smartphone a mano libera, camminata e movimenti del corpo naturali, espressioni facciali realistiche, mani e dita accurate, battito delle palpebre naturale, fisica dell'acqua realistica, squame dettagliate dei pesci colorati, riflessi della luce solare sull'acqua, lievi increspature, vegetazione lussureggiante, suoni ambientali naturali all'aperto, illuminazione cinematografica ma credibile, dettagli fotorealistici in 2K, sottile tremolio della fotocamera dello smartphone, transizioni di messa a fuoco fluide.
+
+Niente sottotitoli, niente testo sullo schermo, niente loghi, niente filigrane, niente persone in più, nessuna distorsione del viso, nessun cambio di identità, nessuna recitazione esagerata, nessun effetto fantasy. Mantieni i pesci bellissimi ma biologicamente credibili e l'intera scena realistica.
 ```
 
 [↑ Torna alle categorie](#catalog)

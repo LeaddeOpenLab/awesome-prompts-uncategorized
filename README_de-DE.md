@@ -1230,20 +1230,34 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2098298423384645737"></a>
 
-### Übersetzung läuft
+### 15-sekündiger realistischer Outdoor-Smartphone-Vlog-Prompt neben einem Teich mit bunten Fischen während der goldenen Stunde.
 
 Autor：[@MrDasOnX](https://x.com/MrDasOnX) · [Originalbeitrag](https://x.com/MrDasOnX/status/2098298423384645737)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-sekündiger realistischer Outdoor-Smartphone-Vlog-Prompt neben einem Teich mit bunten Fischen während der goldenen Stunde.
 
 <img src="covers/2098298423384645737.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwenden Sie das bereitgestellte Referenzbild als genaue Identitätsreferenz für denselben erwachsenen männlichen Charakter. Behalten Sie seine Gesichtszüge, Frisur, Bart, Hautton, Körperproportionen und Kleidung im gesamten Video durchgehend bei.
+
+Erstellen Sie einen 15-sekündigen, ultrarealistischen Outdoor-Smartphone-Vlog neben einem wunderschönen natürlichen Teich, umgeben von üppigem Grün während der goldenen Stunde.
+
+0–4 Sekunden: Handgeführte Selfie-Aufnahme. Der Mann geht neben dem Teich her, lächelt und spricht natürlich in die Kamera. Plötzlich bemerkt er etwas unter dem klaren Wasser und sagt aufgeregt: „Wait… look at those fish!“
+
+4–8 Sekunden: Er dreht das Smartphone in Richtung des Teichs. Die Kamera fängt eine Gruppe wunderschöner bunter Fische ein, die natürlich durch das klare seichte Wasser schwimmen. Die Fische weisen lebendige Kombinationen aus Orange, Gelb, Blau, Türkis, Rot und Silber auf, wobei das Sonnenlicht auf ihren Schuppen schimmert.
+
+8–12 Sekunden: Kinoreife Nahaufnahme der Fische, die um Wasserpflanzen und kleine Steine herumschwimmen. Er spricht aus dem Off: „I’ve never seen fish this colorful in a pond. Look at those colors!“
+
+12–15 Sekunden: Rückkehr zu einer Selfie-Aufnahme. Er hockt sich neben den Teich, zeigt auf die Fische hinter sich, lächelt mit echter Verwunderung und sagt: „This place is incredible!“ Endet mit den bunten Fischen, die im Hintergrund sichtbar sind.
+
+Authentische handgeführte Smartphone-Vlog-Ästhetik, natürliche Geh- und Körperbewegungen, realistische Mimik, akkurate Hände und Finger, natürliches Blinzeln, realistische Wasserphysik, detaillierte bunte Fischschuppen, Sonnenlichtreflexionen auf dem Wasser, sanfte Wellen, üppige Vegetation, natürliche Außengeräusche, kinoreife, aber glaubwürdige Beleuchtung, fotorealistische 2K-Details, subtiles Wackeln der Smartphone-Kamera, weiche Fokusübergänge.
+
+Keine Untertitel, kein Text auf dem Bildschirm, keine Logos, kein Wasserzeichen, keine zusätzlichen Personen, keine Gesichtsverzerrung, keine Identitätswechsel, kein übertriebenes Schauspiel, keine Fantasieeffekte. Halten Sie die Fische wunderschön, aber biologisch glaubwürdig und die gesamte Szene realistisch.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -1230,20 +1230,34 @@ Karakter · Yayımlandı
 
 <a name="prompt-2098298423384645737"></a>
 
-### Çeviri sürüyor
+### Altın saat sırasında renkli balıkları gösteren, gölet kenarında 15 saniyelik gerçekçi açık hava akıllı telefon vlog'u istemi.
 
 Yazar：[@MrDasOnX](https://x.com/MrDasOnX) · [Orijinal gönderi](https://x.com/MrDasOnX/status/2098298423384645737)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Altın saat sırasında renkli balıkları gösteren, gölet kenarında 15 saniyelik gerçekçi açık hava akıllı telefon vlog'u istemi.
 
 <img src="covers/2098298423384645737.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Aynı yetişkin erkek karakter için sağlanan referans görselini kesin kimlik referansı olarak kullanın. Yüz hatlarını, saç stilini, sakalını, ten rengini, vücut oranlarını ve kıyafetlerini tüm video boyunca tutarlı bir şekilde koruyun.
+
+Altın saat sırasında gür yeşilliklerle çevrili güzel ve doğal bir göletin kenarında, 15 saniyelik ultra gerçekçi bir açık hava akıllı telefon vlog'u oluşturun.
+
+0–4 saniye: Elde tutulan selfie çekimi. Adam göletin kenarında yürür, kameraya doğal bir şekilde gülümser ve konuşur. Aniden berrak suyun altında bir şey fark eder ve heyecanla şöyle der: “Wait… look at those fish!”
+
+4–8 saniye: Akıllı telefonu gölete doğru çevirir. Kamera, berrak sığ suda doğal bir şekilde yüzen bir grup güzel, rengarenk balığı yakalar. Balıklar; turuncu, sarı, mavi, turkuaz, kırmızı ve gümüşün canlı kombinasyonlarına sahiptir ve güneş ışığı pullarında parıldar.
+
+8–12 saniye: Su bitkileri ve küçük kayaların etrafında yüzen balıkların sinematik yakın çekimi. Kamera arkasından konuşur: “I’ve never seen fish this colorful in a pond. Look at those colors!”
+
+12–15 saniye: Selfie çekimine geri dönüş. Göletin yanına çömelir, arkasındaki balıkları işaret eder, içten bir hayranlıkla gülümser ve şöyle der: “This place is incredible!” Arka planda rengarenk balıklar görünürken sonlandırın.
+
+Otantik elde tutulan akıllı telefon vlog estetiği, doğal yürüme ve vücut hareketleri, gerçekçi yüz ifadeleri, doğru eller ve parmaklar, doğal göz kırpma, gerçekçi su fiziği, ayrıntılı renkli balık pulları, su üzerinde güneş ışığı yansımaları, hafif dalgalanmalar, gür bitki örtüsü, doğal açık hava ortam sesleri, sinematik ama inandırıcı aydınlatma, fotogerçekçi 2K ayrıntı, hafif akıllı telefon kamera sarsıntısı, yumuşak odak geçişleri.
+
+Altyazı yok, ekranda metin yok, logo yok, filigran yok, fazladan insan yok, yüz bozulması yok, kimlik değişikliği yok, abartılı oyunculuk yok, fantastik efektler yok. Balıkları güzel ancak biyolojik olarak inandırıcı ve tüm sahneyi gerçekçi tutun.
 ```
 
 [↑ Kategorilere dön](#catalog)

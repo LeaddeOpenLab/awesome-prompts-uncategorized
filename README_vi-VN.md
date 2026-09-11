@@ -1254,20 +1254,20 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2098298423384645737"></a>
 
-### Đang dịch
+### Lời nhắc vlog điện thoại thông minh ngoài trời thực tế dài 15 giây bên hồ nước quay cảnh cá đầy màu sắc trong giờ vàng.
 
 Tác giả：[@MrDasOnX](https://x.com/MrDasOnX) · [Bài gốc](https://x.com/MrDasOnX/status/2098298423384645737)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc vlog điện thoại thông minh ngoài trời thực tế dài 15 giây bên hồ nước quay cảnh cá đầy màu sắc trong giờ vàng.
 
 <img src="covers/2098298423384645737.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng hình ảnh tham chiếu được cung cấp làm tham chiếu danh tính chính xác cho cùng một nhân vật nam trưởng thành. Giữ nguyên nhất quán các đặc điểm khuôn mặt, kiểu tóc, râu, tông màu da, tỷ lệ cơ thể và trang phục của anh ấy trong toàn bộ video. Tạo một vlog điện thoại thông minh ngoài trời siêu thực dài 15 giây bên cạnh một hồ nước tự nhiên tuyệt đẹp được bao quanh bởi cây cối xanh tươi trong giờ vàng (golden hour). 0–4 giây: Cảnh selfie cầm tay. Người đàn ông đi dạo bên hồ nước, mỉm cười và nói chuyện tự nhiên trước máy quay. Anh đột nhiên nhận thấy điều gì đó dưới làn nước trong vắt và hào hứng nói: “Khoan đã… nhìn những con cá kìa!” 4–8 giây: Anh quay điện thoại về phía hồ nước. Máy quay ghi lại cảnh một đàn cá rực rỡ sắc màu tuyệt đẹp đang bơi lội tự nhiên dưới làn nước nông trong vắt. Những con cá có sự kết hợp sống động của các màu cam, vàng, xanh dương, xanh ngọc lam, đỏ và bạc, với ánh nắng lấp lánh trên vảy của chúng. 8–12 giây: Cảnh quay điện ảnh cận cảnh những con cá bơi lội xung quanh thực vật thủy sinh và những tảng đá nhỏ. Anh nói ngoài ống kính: “Tôi chưa bao giờ thấy cá nhiều màu sắc như thế này trong một cái hồ. Hãy nhìn những màu sắc đó xem!” 12–15 giây: Quay trở lại cảnh selfie. Anh ngồi xổm bên hồ nước, chỉ về phía những con cá phía sau mình, mỉm cười với sự kinh ngạc thực sự và nói: “Nơi này thật đáng kinh ngạc!” Kết thúc với hình ảnh những con cá đầy màu sắc có thể nhìn thấy ở hậu cảnh. Tính thẩm mỹ chân thực của vlog điện thoại thông minh cầm tay, chuyển động cơ thể và bước đi tự nhiên, biểu cảm khuôn mặt chân thực, bàn tay và ngón tay chính xác, chớp mắt tự nhiên, vật lý nước chân thực, vảy cá nhiều màu sắc chi tiết, ánh nắng phản chiếu trên mặt nước, gợn sóng nhẹ nhàng, thảm thực vật tươi tốt, âm thanh môi trường ngoài trời tự nhiên, ánh sáng đậm chất điện ảnh nhưng đáng tin cậy, chi tiết chân thực 2K, độ rung nhẹ của camera điện thoại, chuyển nét mượt mà. Không có phụ đề, không có văn bản trên màn hình, không có logo, không có hình mờ, không có thêm người, không biến dạng khuôn mặt, không thay đổi danh tính, không diễn xuất thái quá, không có hiệu ứng giả tưởng. Giữ cho những con cá luôn đẹp nhưng hợp lý về mặt sinh học và toàn bộ cảnh quay đều chân thực.
 ```
 
 [↑ Về danh mục](#catalog)

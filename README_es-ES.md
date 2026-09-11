@@ -1254,20 +1254,20 @@ Traducción en curso
 
 <a name="prompt-2098298423384645737"></a>
 
-### Traducción en curso
+### Prompt de vlog realista con smartphone al aire libre de 15 segundos junto a un estanque que muestra peces de colores durante la hora dorada.
 
 Autor：[@MrDasOnX](https://x.com/MrDasOnX) · [Publicación original](https://x.com/MrDasOnX/status/2098298423384645737)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de vlog realista con smartphone al aire libre de 15 segundos junto a un estanque que muestra peces de colores durante la hora dorada.
 
 <img src="covers/2098298423384645737.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Utiliza la imagen de referencia proporcionada como la referencia de identidad exacta para el mismo personaje masculino adulto. Conserva los rasgos faciales, el peinado, la barba, el tono de piel, las proporciones corporales y la vestimenta de forma coherente durante todo el vídeo. Crea un vlog con smartphone al aire libre ultrarrealista de 15 segundos junto a un hermoso estanque natural rodeado de exuberante vegetación durante la hora dorada (golden hour). 0–4 segundos: Plano selfie cámara en mano. El hombre camina junto al estanque, sonriendo y hablando con naturalidad a la cámara. De repente nota algo bajo el agua clara y dice emocionado: “Espera… ¡mira esos peces!” 4–8 segundos: Gira el smartphone hacia el estanque. La cámara capta a un grupo de hermosos peces de colores nadando con naturalidad a través del agua clara y poco profunda. Los peces presentan combinaciones vivas de naranja, amarillo, azul, turquesa, rojo y plateado, con la luz del sol brillando en sus escamas. 8–12 segundos: Plano cinematográfico de cerca de los peces nadando alrededor de plantas acuáticas y pequeñas rocas. Él habla fuera de cámara: “Nunca había visto peces tan coloridos en un estanque. ¡Mira esos colores!” 12–15 segundos: Regreso al plano selfie. Se agacha junto al estanque, señala hacia los peces detrás de él, sonríe con asombro genuino y dice: “¡Este lugar es increíble!” Termina con los peces de colores visibles en el fondo. Estética auténtica de vlog con smartphone en mano, movimiento corporal y al caminar natural, expresiones faciales realistas, manos y dedos precisos, parpadeo natural, física del agua realista, escamas detalladas de peces coloridos, reflejos de la luz solar en el agua, suaves ondas, vegetación exuberante, sonidos ambientales naturales al aire libre, iluminación cinematográfica pero creíble, detalle fotorrealista en 2K, sutil temblor de cámara de smartphone, transiciones de enfoque suaves. Sin subtítulos, sin texto en pantalla, sin logotipos, sin marcas de agua, sin personas adicionales, sin distorsión facial, sin cambios de identidad, sin actuación exagerada, sin efectos de fantasía. Mantén los peces hermosos pero biológicamente creíbles y toda la escena realista.
 ```
 
 [↑ Volver a categorías](#catalog)
