@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:20:14.371Z",
+  "model": "unknown-image",
+  "prompt": "9:16 竖幅，真人写实实验时尚人像，成年东亚女性，户外蓝天、绿地与道路环境，极近距离超广角低机位拍摄。人物双手主动伸向镜头，前景双手距离镜头极近，被透视明显放大，尺寸显著大于后方人脸。人物脸位于双手之后的第二空间层，形成强烈的“巨大前景手 + 后撤人脸 + 远处环境”三级空间关系。\n\n靠近镜头的一只手掌展开，食指与中指向上伸直，拇指横向打开，其余手指自然屈曲，另一只手从画面下方斜向伸入，与前一只手形成交叉和开放式几何框架。双手共同构成一个不规则取景框，局部遮挡人物脸部与身体，但不能完全挡住眼睛、鼻梁和嘴唇。必须保持真实手部骨骼逻辑、掌面朝向、指节弯曲、手腕受力和前后遮挡关系，所有手指数量正确，不能粘连。\n\n人物头部微微侧转并轻抬，下颌线在低机位中自然突出，视线接近镜头方向，但略微越过手指看向镜头附近，避免僵硬死盯。上眼睑自然，眉间放松，嘴唇轻微分开，神情冷静、克制、轻微疏离。黑色或深棕黑头发向后梳理，面部轮廓干净，发型权重低于双手和脸。\n\n人物穿珍珠白、银白或香槟白贴身缎面吊带礼服，面料带真实丝绸或涂层缎面反射，胸腰区域出现柔和块状高光。手部佩戴多枚香槟金、玫瑰金、珍珠和浅色宝石戒指，搭配细手链、珍珠手串、项链和耳饰。珠宝必须具有真实金属曲面、镶爪、珍珠反光和接触阴影，避免廉价塑料饰品感。\n\n背景保持真实户外环境，大面积浅灰蓝天空占据上方与后方，深绿色树林和草地分布在两侧，深灰道路从下方延伸。地平线允许轻微倾斜，增强随手抓拍和实验时尚摄影感。背景保持低频和较低权重，不加入复杂建筑、广告牌、车辆或其他人物。\n\n光线使用强烈正面硬光或近距离直闪感，人物脸、前景双手、手臂、珠宝和银白缎面服装被明显照亮，皮肤高光清楚，掌纹和关节仍然可见。背景保持自然日间环境光，树林更暗，天空更冷。肤色维持自然暖粉中性，仅接受少量蓝天环境反射，不能整脸发蓝。强硬光要形成真实曝光差和轻微高光溢出，不能变成均匀影楼柔光。\n\n色彩比例控制：约 28% 浅灰蓝天空，21% 暖粉肤色高光，16% 银白与珍珠白服装，14% 深绿黑树林暗部，12% 中度自然绿色草地，9% 香槟金和玫瑰金首饰。蓝色主要控制天空，绿色主要控制环境，金色集中在珠宝，不能扩散成统一滤镜。\n\n整体为现代真人时尚摄影，超广角近距离透视明显，手部巨大但仍保持真实结构，脸部尺寸相对较小，前后空间冲击强。画面要有实验感、现场感和非标准构图感，避免传统人像构图、标准自拍手势、普通比心和普通 V 手势。\n\nSoran 三层自然水印\n\n第一层可读水印：精确文字 “Soran” 清晰镌刻在最靠近镜头的一枚香槟金宽戒指外圈，或靠近镜头的小型金属手链铭牌上，像真实高级珠宝品牌刻字，肉眼明确可读，跟随戒指曲面、手指弯曲、超广角透视和金属高光自然变化。\n\n第二层隐藏水印：隐藏 “Soran” 融入珍珠手链排列、项链链节结构和银白缎面服装的高光褶皱中。\n\n第三层微观水印：微型 “Soran” 由戒指镶爪、金属微划痕、珍珠点列、指甲高光边缘和缎面织纹共同形成。\n\n所有 Soran 都必须像真实珠宝品牌和材质细节的一部分，明显、自然、有品味，不形成外贴文字。\n\n负向词\n\n普通自拍，标准 V 手势，比心，双手远离镜头，手和脸大小接近，长焦透视，平视普通人像，僵硬直视镜头，标准模特摆拍，错误手指，多余手指，缺失手指，手指粘连，关节畸形，手掌方向错误，手腕扭曲，悬浮手，双手没有前后关系，脸部被完全遮挡，塑料皮肤，瓷白磨皮，AI 美女脸，动漫脸，完美对称五官，廉价珠宝，塑料金属，缎面像塑料，影楼背景，复杂建筑背景，额外人物，HDR，过度锐化，8K 假细节，全图蓝色滤镜，全图绿色滤镜，全图暖金滤镜，额外可读文字，额外品牌名，external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo",
+  "promptTranslations": {
+    "en": "9:16 vertical orientation, real-life photorealistic experimental fashion portrait, adult East Asian female, outdoor environment with blue sky, greenery, and road, shot from an ultra-close-up ultra-wide-angle low camera angle. The subject's hands actively reach out toward the lens, with the foreground hands extremely close to the camera, noticeably enlarged by perspective distortion, significantly larger than the face behind them. The face is positioned on the second spatial layer behind the hands, creating a powerful three-tier spatial relationship: 'huge foreground hands + receding face + distant background environment'.\\n\\nOne palm closer to the lens is spread open, with the index and middle fingers pointing upward, the thumb extended sideways, and the other fingers naturally curled, while the other hand extends diagonally from the bottom of the frame, intersecting and forming an open geometric framing with the front hand. Both hands jointly form an irregular framing device, partially obscuring the subject's face and body, but must not completely block the eyes, bridge of the nose, and lips. Realistic hand skeletal anatomy, palm orientation, knuckle bending, wrist tension, and depth-of-field overlapping relationships must be strictly preserved, with an accurate number of fingers on both hands and no webbing or fusion.\\n\\nThe subject's head is slightly turned and tilted upward, with the jawline naturally defined from the low angle. The gaze is directed toward the camera, yet looking slightly past the fingers near the lens, avoiding a rigid stare. Natural upper eyelids, relaxed brow, lips slightly parted, with a calm, restrained, and subtly detached expression. Black or dark brownish-black hair slicked back, clean facial contours, with hair styling having lower visual weight than the hands and face.\\n\\nThe subject wears a pearl white, silver-white, or champagne white fitted satin camisole dress, the fabric featuring authentic silk or coated satin reflections, with soft blocky highlights appearing across the bust and waist areas. The hands are adorned with multiple champagne gold, rose gold, pearl, and pale gemstone rings, paired with delicate bracelets, pearl beaded bracelets, a necklace, and earrings. The jewelry must exhibit realistic metallic curvature, prongs, pearl iridescence, and contact shadows, avoiding any sense of cheap plastic accessories.\\n\\nThe background remains an authentic outdoor setting, with a large expanse of pale grey-blue sky occupying the upper and rear portions, dark green woods and grass flanking both sides, and a dark grey road extending from the bottom. A slightly tilted horizon is permissible to enhance the snapshot and experimental fashion editorial feel. The background maintains low frequency and lower visual weight, without complex buildings, billboards, vehicles, or other people.\\n\\nThe lighting employs a harsh front-on hard light or close-range direct flash feel; the subject's face, foreground hands, arms, jewelry, and silver-white satin attire are prominently illuminated, with distinct skin highlights, while palm lines and knuckles remain visible. The background retains natural daylight ambient lighting, with darker woods and a cooler sky. Skin tones maintain a natural warm-pink neutral balance, receiving only slight ambient reflection from the blue sky, without the entire face turning blue. The harsh hard light must produce realistic exposure contrast and slight highlight clipping, rather than becoming uniform studio soft light.\\n\\nColor ratio control: approximately 28% pale grey-blue sky, 21% warm-pink skin highlights, 16% silver-white and pearl-white clothing, 14% dark green-black woodland shadows, 12% medium natural green grass, 9% champagne gold and rose gold jewelry. Blue primarily governs the sky, green primarily governs the environment, and gold is concentrated in the jewelry, without diffusing into an overall uniform filter.\\n\\nThe overall aesthetic is modern photorealistic fashion photography, with prominent ultra-wide-angle close-up perspective distortion; the hands are massive yet retain realistic anatomical structure, the face is relatively small in scale, delivering a strong foreground-to-background spatial punch. The composition should feel experimental, on-location, and non-standard, avoiding traditional portrait compositions, standard selfie poses, generic finger hearts, and ordinary peace/V signs.\\n\\nSoran Three-Tier Natural Watermark\\n\\nFirst tier legible watermark: The precise text “Soran” is cleanly engraved on the outer band of a champagne gold wide ring closest to the lens, or on a small metal bracelet nameplate near the lens, resembling authentic luxury jewelry brand engraving, clearly legible to the naked eye, naturally conforming to the ring's curvature, finger bending, ultra-wide perspective, and metallic specular highlights.\\n\\nSecond tier hidden watermark: The hidden “Soran” is integrated into the pearl bracelet arrangement, necklace link structure, and specular creases of the silver-white satin garment.\\n\\nThird tier microscopic watermark: The microscopic “Soran” is subtly formed by the ring prongs, metallic micro-scratches, pearl stippling, fingernail highlight edges, and satin weave texture.\\n\\nAll Soran elements must appear as an authentic part of the luxury jewelry brand craftsmanship and material details—conspicuous, organic, tasteful, and never appearing as an overlaid graphic text.\\n\\nNegative prompt\\n\\ngeneric selfie, standard V-sign, finger heart, hands far from camera, hands and face similar in size, telephoto perspective, eye-level ordinary portrait, stiff direct stare into lens, standard model posing, incorrect fingers, extra fingers, missing fingers, fused fingers, deformed knuckles, wrong palm direction, twisted wrists, floating hands, hands lacking depth occlusion, face completely obscured, plastic skin, porcelain airbrushed skin, AI beauty face, anime face, perfectly symmetrical facial features, cheap jewelry, plastic metal, satin looking like plastic, studio backdrop, complex architectural background, extra people, HDR, over-sharpening, fake 8K detail, full-image blue filter, full-image green filter, full-image warm gold filter, extra readable text, extra brand names, external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo"
+  },
+  "summaryTranslations": {
+    "en": "Experimental fashion portrait in ultra-wide-angle perspective, with foreground hands creating a framing obstruction and accessories naturally engraved with brand watermarks."
+  },
+  "translationVersion": 2,
+  "summary": "超广角透视下的实验时尚人像，前景双手构成框架遮挡，配饰自然刻有品牌水印。",
+  "summaryEn": "Experimental fashion portrait with wide-angle foreshortened hands framing the face and branded jewelry.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098490558474027231",
+    "canonicalUrl": "https://x.com/FuguiChen1314/status/2098490558474027231",
+    "author": {
+      "username": "FuguiChen1314",
+      "displayName": "土豆泥",
+      "profileUrl": "https://x.com/FuguiChen1314"
+    },
+    "publishedAt": "2026-09-11T19:15:11.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "zh",
+    "originalText": "没有复杂场景，蓝天、树荫、草地，一条被太阳照得发亮的香槟色缎面裙。人物本身也不需要太多设计，珍珠、湿润感皮肤和一点被风吹乱的碎发就够了。\nprompt：\n9:16 竖幅，真人写实实验时尚人像，成年东亚女性，户外蓝天、绿地与道路环境，极近距离超广角低机位拍摄。人物双手主动伸向镜头，前景双手距离镜头极近，被透视明显放大，尺寸显著大于后方人脸。人物脸位于双手之后的第二空间层，形成强烈的“巨大前景手 + 后撤人脸 + 远处环境”三级空间关系。\n\n靠近镜头的一只手掌展开，食指与中指向上伸直，拇指横向打开，其余手指自然屈曲，另一只手从画面下方斜向伸入，与前一只手形成交叉和开放式几何框架。双手共同构成一个不规则取景框，局部遮挡人物脸部与身体，但不能完全挡住眼睛、鼻梁和嘴唇。必须保持真实手部骨骼逻辑、掌面朝向、指节弯曲、手腕受力和前后遮挡关系，所有手指数量正确，不能粘连。\n\n人物头部微微侧转并轻抬，下颌线在低机位中自然突出，视线接近镜头方向，但略微越过手指看向镜头附近，避免僵硬死盯。上眼睑自然，眉间放松，嘴唇轻微分开，神情冷静、克制、轻微疏离。黑色或深棕黑头发向后梳理，面部轮廓干净，发型权重低于双手和脸。\n\n人物穿珍珠白、银白或香槟白贴身缎面吊带礼服，面料带真实丝绸或涂层缎面反射，胸腰区域出现柔和块状高光。手部佩戴多枚香槟金、玫瑰金、珍珠和浅色宝石戒指，搭配细手链、珍珠手串、项链和耳饰。珠宝必须具有真实金属曲面、镶爪、珍珠反光和接触阴影，避免廉价塑料饰品感。\n\n背景保持真实户外环境，大面积浅灰蓝天空占据上方与后方，深绿色树林和草地分布在两侧，深灰道路从下方延伸。地平线允许轻微倾斜，增强随手抓拍和实验时尚摄影感。背景保持低频和较低权重，不加入复杂建筑、广告牌、车辆或其他人物。\n\n光线使用强烈正面硬光或近距离直闪感，人物脸、前景双手、手臂、珠宝和银白缎面服装被明显照亮，皮肤高光清楚，掌纹和关节仍然可见。背景保持自然日间环境光，树林更暗，天空更冷。肤色维持自然暖粉中性，仅接受少量蓝天环境反射，不能整脸发蓝。强硬光要形成真实曝光差和轻微高光溢出，不能变成均匀影楼柔光。\n\n色彩比例控制：约 28% 浅灰蓝天空，21% 暖粉肤色高光，16% 银白与珍珠白服装，14% 深绿黑树林暗部，12% 中度自然绿色草地，9% 香槟金和玫瑰金首饰。蓝色主要控制天空，绿色主要控制环境，金色集中在珠宝，不能扩散成统一滤镜。\n\n整体为现代真人时尚摄影，超广角近距离透视明显，手部巨大但仍保持真实结构，脸部尺寸相对较小，前后空间冲击强。画面要有实验感、现场感和非标准构图感，避免传统人像构图、标准自拍手势、普通比心和普通 V 手势。\n\nSoran 三层自然水印\n\n第一层可读水印：精确文字 “Soran” 清晰镌刻在最靠近镜头的一枚香槟金宽戒指外圈，或靠近镜头的小型金属手链铭牌上，像真实高级珠宝品牌刻字，肉眼明确可读，跟随戒指曲面、手指弯曲、超广角透视和金属高光自然变化。\n\n第二层隐藏水印：隐藏 “Soran” 融入珍珠手链排列、项链链节结构和银白缎面服装的高光褶皱中。\n\n第三层微观水印：微型 “Soran” 由戒指镶爪、金属微划痕、珍珠点列、指甲高光边缘和缎面织纹共同形成。\n\n所有 Soran 都必须像真实珠宝品牌和材质细节的一部分，明显、自然、有品味，不形成外贴文字。\n\n负向词\n\n普通自拍，标准 V 手势，比心，双手远离镜头，手和脸大小接近，长焦透视，平视普通人像，僵硬直视镜头，标准模特摆拍，错误手指，多余手指，缺失手指，手指粘连，关节畸形，手掌方向错误，手腕扭曲，悬浮手，双手没有前后关系，脸部被完全遮挡，塑料皮肤，瓷白磨皮，AI 美女脸，动漫脸，完美对称五官，廉价珠宝，塑料金属，缎面像塑料，影楼背景，复杂建筑背景，额外人物，HDR，过度锐化，8K 假细节，全图蓝色滤镜，全图绿色滤镜，全图暖金滤镜，额外可读文字，额外品牌名，external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR9WCa6bQAAafGn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR9WCa6bQAAafGn.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR9WCbBaQAA247M.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR9WCbBaQAA247M.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 144
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/FuguiChen1314/status/2098490558474027231",
+  "coverUrl": "https://pbs.twimg.com/media/HR9WCa6bQAAafGn.jpg",
+  "coverPath": "images/2098490558474027231-1.jpg",
+  "imagePaths": [
+    "images/2098490558474027231-1.jpg",
+    "images/2098490558474027231-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR9WCa6bQAAafGn",
+    "x-image:/media/HR9WCbBaQAA247M",
+    "x-post:2098490558474027231"
+  ],
+  "analysis": {
+    "summary": "超广角透视下的实验时尚人像，前景双手构成框架遮挡，配饰自然刻有品牌水印。",
+    "summaryEn": "Experimental fashion portrait with wide-angle foreshortened hands framing the face and branded jewelry.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片精确呈现了超广角低机位透视、前景巨大手部构图、香槟色缎面吊带裙以及首饰上的'Soran'刻字。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "9:16 竖幅，真人写实实验时尚人像，成年东亚女性，户外蓝天、绿地与道路环境，极近距离超广角低机位拍摄。人物双手主动伸向镜头，前景双手距离镜头极近，被透视明显放大，尺寸显著大于后方人脸。人物脸位于双手之后的第二空间层，形成强烈的“巨大前景手 + 后撤人脸 + 远处环境”三级空间关系。\n\n靠近镜头的一只手掌展开，食指与中指向上伸直，拇指横向打开，其余手指自然屈曲，另一只手从画面下方斜向伸入，与前一只手形成交叉和开放式几何框架。双手共同构成一个不规则取景框，局部遮挡人物脸部与身体，但不能完全挡住眼睛、鼻梁和嘴唇。必须保持真实手部骨骼逻辑、掌面朝向、指节弯曲、手腕受力和前后遮挡关系，所有手指数量正确，不能粘连。\n\n人物头部微微侧转并轻抬，下颌线在低机位中自然突出，视线接近镜头方向，但略微越过手指看向镜头附近，避免僵硬死盯。上眼睑自然，眉间放松，嘴唇轻微分开，神情冷静、克制、轻微疏离。黑色或深棕黑头发向后梳理，面部轮廓干净，发型权重低于双手和脸。\n\n人物穿珍珠白、银白或香槟白贴身缎面吊带礼服，面料带真实丝绸或涂层缎面反射，胸腰区域出现柔和块状高光。手部佩戴多枚香槟金、玫瑰金、珍珠和浅色宝石戒指，搭配细手链、珍珠手串、项链和耳饰。珠宝必须具有真实金属曲面、镶爪、珍珠反光和接触阴影，避免廉价塑料饰品感。\n\n背景保持真实户外环境，大面积浅灰蓝天空占据上方与后方，深绿色树林和草地分布在两侧，深灰道路从下方延伸。地平线允许轻微倾斜，增强随手抓拍和实验时尚摄影感。背景保持低频和较低权重，不加入复杂建筑、广告牌、车辆或其他人物。\n\n光线使用强烈正面硬光或近距离直闪感，人物脸、前景双手、手臂、珠宝和银白缎面服装被明显照亮，皮肤高光清楚，掌纹和关节仍然可见。背景保持自然日间环境光，树林更暗，天空更冷。肤色维持自然暖粉中性，仅接受少量蓝天环境反射，不能整脸发蓝。强硬光要形成真实曝光差和轻微高光溢出，不能变成均匀影楼柔光。\n\n色彩比例控制：约 28% 浅灰蓝天空，21% 暖粉肤色高光，16% 银白与珍珠白服装，14% 深绿黑树林暗部，12% 中度自然绿色草地，9% 香槟金和玫瑰金首饰。蓝色主要控制天空，绿色主要控制环境，金色集中在珠宝，不能扩散成统一滤镜。\n\n整体为现代真人时尚摄影，超广角近距离透视明显，手部巨大但仍保持真实结构，脸部尺寸相对较小，前后空间冲击强。画面要有实验感、现场感和非标准构图感，避免传统人像构图、标准自拍手势、普通比心和普通 V 手势。\n\nSoran 三层自然水印\n\n第一层可读水印：精确文字 “Soran” 清晰镌刻在最靠近镜头的一枚香槟金宽戒指外圈，或靠近镜头的小型金属手链铭牌上，像真实高级珠宝品牌刻字，肉眼明确可读，跟随戒指曲面、手指弯曲、超广角透视和金属高光自然变化。\n\n第二层隐藏水印：隐藏 “Soran” 融入珍珠手链排列、项链链节结构和银白缎面服装的高光褶皱中。\n\n第三层微观水印：微型 “Soran” 由戒指镶爪、金属微划痕、珍珠点列、指甲高光边缘和缎面织纹共同形成。\n\n所有 Soran 都必须像真实珠宝品牌和材质细节的一部分，明显、自然、有品味，不形成外贴文字。\n\n负向词\n\n普通自拍，标准 V 手势，比心，双手远离镜头，手和脸大小接近，长焦透视，平视普通人像，僵硬直视镜头，标准模特摆拍，错误手指，多余手指，缺失手指，手指粘连，关节畸形，手掌方向错误，手腕扭曲，悬浮手，双手没有前后关系，脸部被完全遮挡，塑料皮肤，瓷白磨皮，AI 美女脸，动漫脸，完美对称五官，廉价珠宝，塑料金属，缎面像塑料，影楼背景，复杂建筑背景，额外人物，HDR，过度锐化，8K 假细节，全图蓝色滤镜，全图绿色滤镜，全图暖金滤镜，额外可读文字，额外品牌名，external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo",
+    "sourceRange": {
+      "start": 77,
+      "end": 1745
+    },
+    "translations": {
+      "zh": "9:16 竖幅，超广角低机位实验时尚摄影，东亚女性穿香槟白缎面裙，双手在前景构成巨大几何框架，首饰自然融入“Soran”刻字。",
+      "en": "9:16 vertical realistic fashion portrait of an East Asian woman in a satin dress, shot from an ultra-wide low angle with huge hands in the foreground forming a frame, featuring Soran branding on jewelry."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "时尚摄影与超广角透视人像生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
