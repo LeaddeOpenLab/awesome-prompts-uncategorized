@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:34:01.636Z",
+  "model": "kling",
+  "prompt": "Create a realistic, natural-looking UGC video using the uploaded image. The woman showcases her outfit inside a stylish, modern home. Use the Kling MCP.",
+  "promptTranslations": {
+    "en": "Create a realistic, natural-looking UGC video using the uploaded image. The woman showcases her outfit inside a stylish, modern home. Use the Kling MCP."
+  },
+  "summaryTranslations": {
+    "en": "Create a realistic UGC video of a woman showcasing her outfit in a modern home."
+  },
+  "translationVersion": 2,
+  "summary": "Create a realistic UGC video of a woman showcasing her outfit in a modern home.",
+  "summaryEn": "Create a realistic UGC video of a woman showcasing her outfit in a modern home.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098393816650879459",
+    "canonicalUrl": "https://x.com/sophiaparkerr_/status/2098393816650879459",
+    "author": {
+      "username": "sophiaparkerr_",
+      "displayName": "Sophia",
+      "profileUrl": "https://x.com/sophiaparkerr_"
+    },
+    "publishedAt": "2026-09-11T12:50:46.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "en",
+    "originalText": "A single fashion photo, turned into a whole UGC moment. 👀✨\n\nUsing Kling AI MCP, I transformed one reference image into a natural looking fashion video with dynamic outfit shots and realistic motion.\n\nFrom still → scroll-stopping fashion content. ✨\n\n@Kling_ai \n\nPrompt I used : \n\nCreate a realistic, natural-looking UGC video using the uploaded image. The woman showcases her outfit inside a stylish, modern home. Use the Kling MCP.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/sophiaparkerr_/status/2098393816650879459",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098391522810982407/img/ob2-rcAWFDyZktqW.jpg",
+        "analysisUrl": "https://x.com/sophiaparkerr_/status/2098393816650879459"
+      }
+    ],
+    "metrics": {
+      "likeCount": 140,
+      "repostCount": 4,
+      "replyCount": 35,
+      "quoteCount": 0,
+      "viewCount": 952
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/sophiaparkerr_/status/2098393816650879459",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098391522810982407/img/ob2-rcAWFDyZktqW.jpg",
+  "coverPath": "covers/2098393816650879459.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098391522810982407",
+    "x-post:2098393816650879459"
+  ],
+  "analysis": {
+    "summary": "Create a realistic UGC video of a woman showcasing her outfit in a modern home.",
+    "summaryEn": "Create a realistic UGC video of a woman showcasing her outfit in a modern home.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video depicts the young woman from the reference image posing and showcasing her outfit in a modern living room setting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a realistic, natural-looking UGC video using the uploaded image. The woman showcases her outfit inside a stylish, modern home. Use the Kling MCP.",
+    "sourceRange": {
+      "start": 279,
+      "end": 431
+    },
+    "translations": {
+      "zh": "使用上传的图片生成一段逼真自然的 UGC 视频。视频中女子在时尚现代的家中展示她的穿搭。使用 Kling MCP。",
+      "en": "Create a realistic, natural-looking UGC video using the uploaded image. The woman showcases her outfit inside a stylish, modern home. Use the Kling MCP."
+    },
+    "targetModels": [
+      "kling"
+    ],
+    "category": "image-to-video",
+    "useCase": "Fashion UGC video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
