@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:18:20.956Z",
+  "model": "unknown-image",
+  "prompt": "雨樋からした垂れ落ちる雨の水滴を舌でキャッチしそのまま床に垂らすあどけない20歳成人女性",
+  "promptTranslations": {
+    "en": "An innocent 20-year-old adult woman catching raindrops dripping from a rain gutter on her tongue and letting them drip straight down onto the floor"
+  },
+  "summaryTranslations": {
+    "en": "A young woman catching raindrops from a rain gutter on her tongue."
+  },
+  "translationVersion": 2,
+  "summary": "雨樋からの雨滴を舌で受ける若い女性。",
+  "summaryEn": "A young woman catching raindrops from a gutter with her tongue.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098414125613506896",
+    "canonicalUrl": "https://x.com/AI_money_club/status/2098414125613506896",
+    "author": {
+      "username": "AI_money_club",
+      "displayName": "こやす69＠AIプロンプト屋",
+      "profileUrl": "https://x.com/AI_money_club"
+    },
+    "publishedAt": "2026-09-11T14:11:28.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "ja",
+    "originalText": "今日はXに怒られたので寝ます…\n-------------Prompt----------\n雨樋からした垂れ落ちる雨の水滴を舌でキャッチしそのまま床に垂らすあどけない20歳成人女性 https://t.co/492OeNmD9B",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8Qhl0bIAIOY6r.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8Qhl0bIAIOY6r.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 37,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1953
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_money_club/status/2098414125613506896",
+  "coverUrl": "https://pbs.twimg.com/media/HR8Qhl0bIAIOY6r.jpg",
+  "coverPath": "images/2098414125613506896-1.jpg",
+  "imagePaths": [
+    "images/2098414125613506896-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR8Qhl0bIAIOY6r",
+    "x-post:2098414125613506896"
+  ],
+  "analysis": {
+    "summary": "雨樋からの雨滴を舌で受ける若い女性。",
+    "summaryEn": "A young woman catching raindrops from a gutter with her tongue.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画像は雨樋から落ちる水滴を舌で受ける女性の姿を描いており、プロンプトと一致している。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "雨樋からした垂れ落ちる雨の水滴を舌でキャッチしそのまま床に垂らすあどけない20歳成人女性",
+    "sourceRange": {
+      "start": 46,
+      "end": 90
+    },
+    "translations": {
+      "zh": "用舌头接住从雨水管滴落的雨滴并任其流到地面的天真烂漫20岁成年女性",
+      "en": "An innocent 20-year-old adult woman catching raindrops falling from a rain gutter with her tongue and letting them drop to the floor"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "artwork",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
