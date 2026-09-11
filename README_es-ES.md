@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**57** Prompts · Última incorporación: **2026-09-11**
+**58** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -960,6 +960,34 @@ Transforma la foto en una caricatura al gouache pintada a mano sobre papel de al
 <a name="category-sketch-line-art"></a>
 
 ## Boceto / Dibujo lineal
+
+<a name="prompt-2098371221184495917"></a>
+
+### Traducción en curso
+
+Autor：[@Weilnes](https://x.com/Weilnes) · [Publicación original](https://x.com/Weilnes/status/2098371221184495917)
+
+Póster / Folleto · Fotografía · Boceto / Dibujo lineal · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098371221184495917-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098371221184495917-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098371221184495917-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098371221184495917-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097875834103287904"></a>
 

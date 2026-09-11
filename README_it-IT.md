@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**57** Prompt · Ultima aggiunta: **2026-09-11**
+**58** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -948,6 +948,34 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 <a name="category-sketch-line-art"></a>
 
 ## Schizzo / Line Art
+
+<a name="prompt-2098371221184495917"></a>
+
+### Traduzione in corso
+
+Autore：[@Weilnes](https://x.com/Weilnes) · [Post originale](https://x.com/Weilnes/status/2098371221184495917)
+
+Poster / Volantino · Fotografia · Schizzo / Line Art · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098371221184495917-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098371221184495917-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098371221184495917-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098371221184495917-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097875834103287904"></a>
 

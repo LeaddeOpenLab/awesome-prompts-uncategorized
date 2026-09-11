@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**57** Prompts · Latest addition: **2026-09-11**
+**58** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1004,6 +1004,34 @@ Transform the photo into a hand-painted gouache caricature on cream cotton paper
 <a name="category-sketch-line-art"></a>
 
 ## Sketch / Line Art
+
+<a name="prompt-2098371221184495917"></a>
+
+### Create a split editorial comparison poster with a photo on top and a crayon sketch with French notes on bottom.
+
+Author：[@Weilnes](https://x.com/Weilnes) · [Source](https://x.com/Weilnes/status/2098371221184495917)
+
+Poster / Flyer · Photography · Sketch / Line Art · Published
+
+**Summary:** Create a split editorial comparison poster with a photo on top and a crayon sketch with French notes on bottom.
+
+<img src="images/2098371221184495917-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098371221184495917-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098371221184495917-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098371221184495917-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a premium vertical editorial comparison poster, split exactly 50/50 top and bottom with a clean straight midline. Top half: photorealistic travel photograph of [SUBJECT] with natural light, authentic texture, slight magazine-grade color grade only — keep the photo realistic, do not illustrate the top half. Bottom half: sparse black crayon gesture study of the same subject on warm white textured paper — hesitant broken crayon outlines, incomplete fills, paper tooth, one or two light crayon color smudges sampled from the photo. Delete almost all background; keep only a faint ground line or wall hint. Subject mostly paper-white negative space, not fully filled. Subject about 38–58% of bottom width, lower-center. Continuous warm-white whitespace ≥55%. Handwritten shaky crayon French text clearly readable: a short title, « ÉTUDE CRAYON 0N », and one factual observation in French. No English text. Avoid fine fur detail, cute vector mascots, full fills, dense doodles, full backgrounds, smooth digital pencil, product illustration, logos, signatures, watermarks. Subjects: un chat roux sur les pavés (PAUSE RUE / ÉTUDE CRAYON 01), valises empilées près de la porte (PRÊT À PARTIR / ÉTUDE CRAYON 02), un vélo contre le mur (ATTENTE / ÉTUDE CRAYON 03), une tasse encore chaude (PETITE PAUSE / ÉTUDE CRAYON 04).
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097875834103287904"></a>
 

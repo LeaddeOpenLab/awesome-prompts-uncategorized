@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**57** Prompt · Bổ sung mới nhất: **2026-09-11**
+**58** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -960,6 +960,34 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 <a name="category-sketch-line-art"></a>
 
 ## Phác Thảo / Nét Vẽ
+
+<a name="prompt-2098371221184495917"></a>
+
+### Đang dịch
+
+Tác giả：[@Weilnes](https://x.com/Weilnes) · [Bài gốc](https://x.com/Weilnes/status/2098371221184495917)
+
+Áp phích / Tờ rơi · Nhiếp ảnh · Phác Thảo / Nét Vẽ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098371221184495917-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098371221184495917-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098371221184495917-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098371221184495917-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097875834103287904"></a>
 

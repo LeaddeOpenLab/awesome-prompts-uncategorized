@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**57** Prompt · Son eklenen: **2026-09-11**
+**58** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -948,6 +948,34 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 <a name="category-sketch-line-art"></a>
 
 ## Çizim / Çizgi Sanatı
+
+<a name="prompt-2098371221184495917"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Weilnes](https://x.com/Weilnes) · [Orijinal gönderi](https://x.com/Weilnes/status/2098371221184495917)
+
+Poster / El İlanı · Fotoğrafçılık · Çizim / Çizgi Sanatı · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098371221184495917-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098371221184495917-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098371221184495917-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098371221184495917-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097875834103287904"></a>
 

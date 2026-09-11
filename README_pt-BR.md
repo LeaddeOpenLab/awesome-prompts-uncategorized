@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**57** Prompts · Última adição: **2026-09-11**
+**58** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -948,6 +948,34 @@ Transforme a foto em uma caricatura em guache pintada à mão sobre papel de alg
 <a name="category-sketch-line-art"></a>
 
 ## Esboço / Arte Linear
+
+<a name="prompt-2098371221184495917"></a>
+
+### Tradução em andamento
+
+Autor：[@Weilnes](https://x.com/Weilnes) · [Publicação original](https://x.com/Weilnes/status/2098371221184495917)
+
+Pôster / Flyer · Fotografia · Esboço / Arte Linear · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098371221184495917-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098371221184495917-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098371221184495917-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098371221184495917-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097875834103287904"></a>
 

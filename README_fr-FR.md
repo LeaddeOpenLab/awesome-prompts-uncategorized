@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**57** Prompts · Dernier ajout: **2026-09-11**
+**58** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -948,6 +948,34 @@ Transformez la photo en une caricature à la gouache peinte à la main sur du pa
 <a name="category-sketch-line-art"></a>
 
 ## Croquis / Dessin au trait
+
+<a name="prompt-2098371221184495917"></a>
+
+### Traduction en cours
+
+Auteur：[@Weilnes](https://x.com/Weilnes) · [Publication originale](https://x.com/Weilnes/status/2098371221184495917)
+
+Affiche / Flyer · Photographie · Croquis / Dessin au trait · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098371221184495917-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098371221184495917-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098371221184495917-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098371221184495917-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097875834103287904"></a>
 
