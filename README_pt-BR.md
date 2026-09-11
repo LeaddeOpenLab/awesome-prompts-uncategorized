@@ -1186,20 +1186,49 @@ Tradução em andamento
 
 <a name="prompt-2098306910915375260"></a>
 
-### Tradução em andamento
+### Comercial de tecnologia em macro de um apresentador em miniatura correndo na haste de fones de ouvido gigantes, ajustando um botão giratório e caindo na almofada auricular.
 
 Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publicação original](https://x.com/Fujimoto_hina/status/2098306910915375260)
 
 Marketing de Produto · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Comercial de tecnologia em macro de um apresentador em miniatura correndo na haste de fones de ouvido gigantes, ajustando um botão giratório e caindo na almofada auricular.
 
 <img src="covers/2098306910915375260.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "comercial de tecnologia premium fotorrealista, fotografia macro cinematográfica",
+
+  "scene": "Um apresentador masculino adulto de 3 polegadas de altura em streetwear preto com detalhes sutis em ciano-neon interage com fones de ouvido sem fio pretos premium gigantescos em uma mesa de estúdio de mármore branco.",
+
+  "action": [
+    "0-3s: O apresentador em miniatura corre com confiança ao longo da haste curva de alumínio preto fosco. A câmera de rastreamento macro ultrabaixa o segue diretamente atrás dele.",
+    "3-6s: Ele alcança um seletor de volume de metal serrilhado gigante, o agarra com as duas mãos e o gira com força. Uma onda de choque sônica translúcida e sutil se expande a partir dos fones de ouvido.",
+    "6-8s: Ele salta da haste para a almofada auricular gigante de espuma viscoelástica de couro preto macio, que se comprime visivelmente com o impacto.",
+    "8-10s: Ele fica de pé sobre a almofada, sorri para a câmera e faz um rápido sinal de positivo com o polegar enquanto a câmera sobe rapidamente em grua e se afasta, revelando os fones de ouvido completos, o laptop e a xícara de café sobre a mesa."
+  ],
+
+  "camera": "Profundidade de campo rasa macro extrema, rastreamento suave, whip-pan controlado até o seletor, continuidade dinâmica no salto e, em seguida, rápido movimento de grua para cima e recuo em um plano geral de destaque (hero shot).",
+
+  "lighting": "Iluminação suave de estúdio com luzes de borda sutis em ciano e magenta-elétrico, reflexos realistas em metal, couro e mármore.",
+
+  "audio": {
+    "music": "NENHUMA",
+    "dialogue": "NENHUM",
+    "voiceover": "NENHUMA",
+    "effects": "Rangidos realistas de tênis, cliques mecânicos do seletor, som profundo de rotação, zunido sônico sutil e impacto suave na almofada de couro."
+  },
+
+  "quality": "Detalhes com qualidade 8K, anatomia humana realista, materiais e física fisicamente precisos, design estável de personagem e produto.",
+
+  "negative": "sem música, sem diálogo, sem texto, sem logotipos, sem marca d'água, sem pessoas extras, sem flutuação, sem teletransporte, sem clipping, sem mãos distorcidas, sem alteração de escala, sem alterações no personagem ou nas roupas, sem CGI cartunesco, sem desfoque de movimento excessivo, sem trepidação de câmera."
+}
 ```
 
 [↑ Voltar às categorias](#catalog)

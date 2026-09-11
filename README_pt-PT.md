@@ -1186,20 +1186,49 @@ Tradução em curso
 
 <a name="prompt-2098306910915375260"></a>
 
-### Tradução em curso
+### Comercial de tecnologia em macro de um apresentador em miniatura a correr no aro de auscultadores gigantes, a ajustar um botão giratório e a aterrar na almofada auricular.
 
 Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publicação original](https://x.com/Fujimoto_hina/status/2098306910915375260)
 
 Marketing de Produto · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Comercial de tecnologia em macro de um apresentador em miniatura a correr no aro de auscultadores gigantes, a ajustar um botão giratório e a aterrar na almofada auricular.
 
 <img src="covers/2098306910915375260.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "anúncio de tecnologia premium fotorrealista, fotografia macro cinematográfica",
+
+  "scene": "Um apresentador adulto masculino de 3 polegadas de altura em streetwear preto com detalhes subtis em ciano-néon interage com auscultadores sem fios pretos premium gigantes numa mesa de estúdio de mármore branco.",
+
+  "action": [
+    "0-3s: O apresentador em miniatura corre com confiança ao longo do aro curvo de alumínio preto mate. A câmara de rastreio macro ultrabaixa segue-o diretamente por trás.",
+    "3-6s: Ele alcança um seletor de volume de metal serrilhado sobredimensionado, agarra-o com ambas as mãos e roda-o com força. Uma onda de choque sónica translúcida e subtil expande-se a partir dos auscultadores.",
+    "6-8s: Ele salta do aro para a almofada auricular gigante de espuma viscoelástica em pele preta e macia, que se comprime visivelmente com o impacto.",
+    "8-10s: Ele fica em pé na almofada, sorri para a câmara e faz um sinal rápido de positivo com o polegar enquanto a câmara sobe rapidamente em grua e recua, revelando os auscultadores completos, o portátil e a chávena de café sobre a mesa."
+  ],
+
+  "camera": "Profundidade de campo reduzida macro extrema, rastreio suave, whip-pan controlado até ao seletor, continuidade dinâmica no salto e, em seguida, rápido movimento de grua para cima e recuo num plano geral hero shot.",
+
+  "lighting": "Iluminação suave de estúdio com luzes de contorno subtis em ciano e magenta elétrico, reflexos realistas em metal, pele e mármore.",
+
+  "audio": {
+    "music": "NENHUMA",
+    "dialogue": "NENHUM",
+    "voiceover": "NENHUMA",
+    "effects": "Rangidos realistas de sapatilhas, cliques mecânicos do seletor, som profundo de rotação, zumbido sónico subtil e impacto suave na almofada de pele."
+  },
+
+  "quality": "Detalhe com qualidade 8K, anatomia humana realista, materiais e física fisicamente precisos, design estável de personagem e produto.",
+
+  "negative": "sem música, sem diálogo, sem texto, sem logótipos, sem marca de água, sem pessoas adicionais, sem flutuação, sem teletransporte, sem clipping, sem mãos distorcidas, sem alteração de escala, sem alterações na personagem ou no vestuário, sem CGI de desenho animado, sem desfoque de movimento excessivo, sem trepidação de câmara."
+}
 ```
 
 [↑ Voltar às categorias](#catalog)

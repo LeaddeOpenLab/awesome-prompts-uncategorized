@@ -1186,20 +1186,49 @@ Traduction en cours
 
 <a name="prompt-2098306910915375260"></a>
 
-### Traduction en cours
+### Publicité technologique macro avec un présentateur miniature courant sur l'arceau d'un casque géant, ajustant une molette et atterrissant sur un coussinet.
 
 Auteur：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publication originale](https://x.com/Fujimoto_hina/status/2098306910915375260)
 
 Marketing produit · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Publicité technologique macro avec un présentateur miniature courant sur l'arceau d'un casque géant, ajustant une molette et atterrissant sur un coussinet.
 
 <img src="covers/2098306910915375260.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "spot publicitaire technologique haut de gamme photoréaliste, macrophotographie cinématographique",
+
+  "scene": "Un présentateur masculin adulte de 3 pouces de haut, vêtu d'un streetwear noir avec de subtiles touches cyan fluo, interagit avec un gigantesque casque sans fil noir haut de gamme posé sur un bureau de studio en marbre blanc.",
+
+  "action": [
+    "0-3s: Le présentateur miniature court avec assurance le long de l'arceau incurvé en aluminium noir mat. Une caméra de travelling macro en contre-plongée extrême le suit directement par derrière.",
+    "3-6s: Il atteint une molette de volume surdimensionnée en métal moleté, la saisit à deux mains et la tourne avec force. Une onde de choc sonique translucide et subtile se propage depuis le casque.",
+    "6-8s: Il saute de l'arceau sur le coussinet d'oreille géant et moelleux en cuir noir à mémoire de forme, qui se comprime visiblement sous l'impact.",
+    "8-10s: Il se tient debout sur le coussinet, sourit à la caméra et fait un rapide pouce levé tandis que la caméra s'élève rapidement sur grue et recule, révélant le casque complet, un ordinateur portable et une tasse de café sur le bureau."
+  ],
+
+  "camera": "Faible profondeur de champ macro extrême, travelling fluide, panoramique filé maîtrisé vers la molette, suivi dynamique du saut, puis recul rapide en grue vers le haut pour un plan héroïque large.",
+
+  "lighting": "Éclairage doux de studio avec de subtils reflets cyan et magenta électrique, reflets réalistes sur le métal, le cuir et le marbre.",
+
+  "audio": {
+    "music": "AUCUNE",
+    "dialogue": "AUCUN",
+    "voiceover": "AUCUNE",
+    "effects": "Grincements réalistes de baskets, cliquetis mécaniques de la molette, bruit sourd de rotation, léger souffle sonore et impact feutré sur le coussinet en cuir."
+  },
+
+  "quality": "Détails de qualité 8K, anatomie humaine réaliste, matériaux et physique physiquement fidèles, conception stable du personnage et du produit.",
+
+  "negative": "pas de musique, pas de dialogue, pas de texte, pas de logos, pas de filigrane, pas de personnes supplémentaires, pas de lévitation, pas de téléportation, pas d'effets de clipping, pas de mains déformées, pas de changement d'échelle, pas de modification du personnage ou des vêtements, pas de CGI cartoon, pas de flou de mouvement excessif, pas de tremblement de caméra."
+}
 ```
 
 [↑ Retour aux catégories](#catalog)

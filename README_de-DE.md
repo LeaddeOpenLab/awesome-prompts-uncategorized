@@ -1186,20 +1186,49 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098306910915375260"></a>
 
-### Übersetzung läuft
+### Makro-Technikwerbespot, in dem ein Miniatur-Moderator über den Kopfbügel eines riesigen Kopfhörers rennt, einen Regler verstellt und auf dem Ohrpolster landet.
 
 Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Originalbeitrag](https://x.com/Fujimoto_hina/status/2098306910915375260)
 
 Produktmarketing · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Makro-Technikwerbespot, in dem ein Miniatur-Moderator über den Kopfbügel eines riesigen Kopfhörers rennt, einen Regler verstellt und auf dem Ohrpolster landet.
 
 <img src="covers/2098306910915375260.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "fotorealistischer Premium-Technologie-Werbespot, filmische Makrofotografie",
+
+  "scene": "Ein 3 Zoll großer erwachsener männlicher Moderator in schwarzer Streetwear mit dezenten neon-türkisfarbenen Akzenten interagiert mit gigantischen, schwarzen Premium-Kabelloshörern auf einem Studio-Schreibtisch aus weißem Marmor.",
+
+  "action": [
+    "0-3s: Der Miniatur-Moderator rennt selbstbewusst über den geschwungenen mattschwarzen Aluminium-Kopfbügel. Eine extrem tiefe Makro-Verfolgungskamera folgt ihm direkt von hinten.",
+    "3-6s: Er erreicht einen übergroßen, gerändelten Metall-Lautstärkeregler, greift ihn mit beiden Händen und dreht ihn kraftvoll. Eine subtile, durchscheinende Schallschockwelle breitet sich von den Kopfhörern aus.",
+    "6-8s: Er springt vom Kopfbügel auf das riesige, weiche Ohrpolster aus schwarzem Leder und Memory-Schaumstoff, das sich beim Aufprall sichtbar zusammendrückt.",
+    "8-10s: Er steht auf dem Polster, lächelt in die Kamera und zeigt kurz einen Daumen nach oben, während die Kamera rasch per Kran nach oben fährt und zurückzieht, wodurch die vollständigen Kopfhörer, ein Laptop und eine Kaffeetasse auf dem Schreibtisch sichtbar werden."
+  ],
+
+  "camera": "Extrem geringe Makro-Tiefenschärfe, sanftes Tracking, kontrollierter Reißschwenk zum Drehregler, dynamische Nachführung beim Sprung, dann schneller Kran-Rückzug nach oben in eine weite Hero-Einstellung.",
+
+  "lighting": "Weiche Studiobeleuchtung mit dezenten Kantenlichtern in Cyan und Elektro-Magenta, realistische Reflexionen auf Metall, Leder und Marmor.",
+
+  "audio": {
+    "music": "KEINE",
+    "dialogue": "KEINER",
+    "voiceover": "KEINES",
+    "effects": "Realistisches Quietschen von Turnschuhen, mechanische Klickgeräusche des Reglers, tiefes Drehgeräusch, subtiles sonisches Zischen und weicher Aufprall auf das Lederpolster."
+  },
+
+  "quality": "Detailtreue in 8K-Qualität, realistische menschliche Anatomie, physikalisch korrekte Materialien und Physik, stabiles Charakter- und Produktdesign.",
+
+  "negative": "keine Musik, keine Dialoge, kein Text, keine Logos, kein Wasserzeichen, keine zusätzlichen Personen, kein Schweben, keine Teleportation, kein Clipping, keine verzerrten Hände, keine Maßstabsveränderung, keine Änderungen an Charakter oder Kleidung, kein Cartoon-CGI, keine übermäßige Bewegungsunschärfe, kein Kamerawackeln."
+}
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -1210,20 +1210,49 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098306910915375260"></a>
 
-### Đang dịch
+### Quảng cáo công nghệ macro quay cảnh người dẫn chương trình tí hon chạy trên quai đeo tai nghe khổng lồ, điều chỉnh núm xoay và đáp xuống đệm tai.
 
 Tác giả：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Bài gốc](https://x.com/Fujimoto_hina/status/2098306910915375260)
 
 Tiếp thị sản phẩm · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Quảng cáo công nghệ macro quay cảnh người dẫn chương trình tí hon chạy trên quai đeo tai nghe khổng lồ, điều chỉnh núm xoay và đáp xuống đệm tai.
 
 <img src="covers/2098306910915375260.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "quảng cáo công nghệ cao cấp chân thực như ảnh chụp, nhiếp ảnh macro điện ảnh",
+
+  "scene": "Một người dẫn chương trình nam trưởng thành cao 3 inch trong trang phục dạo phố màu đen với điểm nhấn màu lục lam neon tinh tế tương tác với tai nghe không dây màu đen cao cấp khổng lồ trên bàn làm việc bằng đá cẩm thạch trắng trong studio.",
+
+  "action": [
+    "0-3s: Người dẫn chương trình tí hon tự tin chạy dọc theo quai đeo tai nghe bằng nhôm màu đen mờ uốn cong. Máy quay theo dõi macro góc cực thấp bám sát ngay phía sau anh ta.",
+    "3-6s: Anh ta tiếp cận một núm xoay âm lượng kim loại có khía kích thước khổng lồ, nắm chặt bằng cả hai tay và dùng lực xoay nó. Một sóng xung kích âm thanh mờ ảo tinh tế lan tỏa ra từ tai nghe.",
+    "6-8s: Anh ta nhảy từ quai đeo tai nghe xuống đệm tai mút hoạt tính bọc da màu đen êm ái khổng lồ, đệm tai lún xuống rõ rệt khi chịu va chạm.",
+    "8-10s: Anh ta đứng trên đệm tai, mỉm cười với máy quay và giơ ngón tay cái nhanh chóng khi máy quay nâng lên cao nhanh chóng bằng cẩu và lùi lại, để lộ toàn bộ tai nghe, máy tính xách tay và tách cà phê trên bàn."
+  ],
+
+  "camera": "Độ sâu trường ảnh nông cực độ kiểu macro, theo dõi mượt mà, lia nhanh có kiểm soát (whip-pan) tới núm xoay, chuyển động tiếp nối năng động khi nhảy, sau đó nâng cẩu nhanh lên cao và kéo lùi thành cảnh quay anh hùng góc rộng.",
+
+  "lighting": "Ánh sáng studio mềm mại với viền sáng màu lục lam và màu đỏ tươi ánh điện tinh tế, phản xạ chân thực trên kim loại, da và đá cẩm thạch.",
+
+  "audio": {
+    "music": "NONE",
+    "dialogue": "NONE",
+    "voiceover": "NONE",
+    "effects": "Tiếng rít đế giày thể thao chân thực, tiếng tách cơ học của núm xoay, âm thanh xoay trầm sâu, tiếng vút âm thanh tinh tế và tiếng va chạm êm ái trên đệm da."
+  },
+
+  "quality": "Chi tiết chất lượng 8K, giải phẫu người chân thực, vật liệu và vật lý chính xác về mặt vật lý, thiết kế nhân vật và sản phẩm ổn định.",
+
+  "negative": "no music, no dialogue, no text, no logos, no watermark, no extra people, no floating, no teleportation, no clipping, no distorted hands, no changing scale, no character or clothing changes, no cartoon CGI, no excessive motion blur, no camera shake."
+}
 ```
 
 [↑ Về danh mục](#catalog)

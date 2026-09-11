@@ -1210,20 +1210,49 @@ Traducción en curso
 
 <a name="prompt-2098306910915375260"></a>
 
-### Traducción en curso
+### Anuncio de tecnología macro con un presentador en miniatura corriendo por la diadema de unos auriculares gigantes, ajustando un dial y cayendo sobre la almohadilla.
 
 Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publicación original](https://x.com/Fujimoto_hina/status/2098306910915375260)
 
 Marketing de producto · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Anuncio de tecnología macro con un presentador en miniatura corriendo por la diadema de unos auriculares gigantes, ajustando un dial y cayendo sobre la almohadilla.
 
 <img src="covers/2098306910915375260.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "anuncio publicitario de tecnología premium fotorrealista, fotografía macro cinematográfica",
+
+  "scene": "Un presentador masculino adulto de 3 pulgadas de altura vestido con ropa urbana negra y sutiles toques de color cian neón interactúa con unos gigantescos auriculares inalámbricos negros de primera calidad sobre un escritorio de estudio de mármol blanco.",
+
+  "action": [
+    "0-3s: El presentador en miniatura corre con confianza a lo largo de la diadema curva de aluminio negro mate. Una cámara de seguimiento macro ultra baja lo sigue directamente por detrás.",
+    "3-6s: Llega a un dial de volumen de metal moleteado de gran tamaño, lo agarra con ambas manos y lo gira con fuerza. Una sutil onda de choque sónica translúcida se expande desde los auriculares.",
+    "6-8s: Salta desde la diadema sobre la gigante y mullida almohadilla de espuma viscoelástica de cuero negro, que se comprime visiblemente con el impacto.",
+    "8-10s: Se pone de pie sobre la almohadilla, sonríe a la cámara y hace un rápido gesto de aprobación con el pulgar mientras la cámara asciende rápidamente en grúa y retrocede, revelando los auriculares completos, la computadora portátil y la taza de café en el escritorio."
+  ],
+
+  "camera": "Profundidad de campo reducida macro extrema, seguimiento suave, barrido rápido controlado hacia el dial, seguimiento dinámico en el salto, luego rápido ascenso en grúa con retroceso hacia una toma heroica amplia.",
+
+  "lighting": "Iluminación suave de estudio con sutiles luces de borde cian y magenta eléctrico, reflejos realistas en metal, cuero y mármol.",
+
+  "audio": {
+    "music": "NONE",
+    "dialogue": "NONE",
+    "voiceover": "NONE",
+    "effects": "Chirrido realista de zapatillas, clics mecánicos del dial, sonido profundo de rotación, sutil zumbido sónico e impacto suave contra la almohadilla de cuero."
+  },
+
+  "quality": "Detalle de calidad 8K, anatomía humana realista, materiales y física físicamente precisos, diseño estable de personajes y productos.",
+
+  "negative": "no music, no dialogue, no text, no logos, no watermark, no extra people, no floating, no teleportation, no clipping, no distorted hands, no changing scale, no character or clothing changes, no cartoon CGI, no excessive motion blur, no camera shake."
+}
 ```
 
 [↑ Volver a categorías](#catalog)

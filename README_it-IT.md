@@ -1186,20 +1186,49 @@ Traduzione in corso
 
 <a name="prompt-2098306910915375260"></a>
 
-### Traduzione in corso
+### Spot tecnologico macro con un presentatore in miniatura che corre sull'archetto di cuffie gigantesche, regola una manopola e atterra su un cuscinetto auricolare.
 
 Autore：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Post originale](https://x.com/Fujimoto_hina/status/2098306910915375260)
 
 Marketing di Prodotto · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Spot tecnologico macro con un presentatore in miniatura che corre sull'archetto di cuffie gigantesche, regola una manopola e atterra su un cuscinetto auricolare.
 
 <img src="covers/2098306910915375260.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "spot tecnologico premium fotorealistico, macrofotografia cinematografica",
+
+  "scene": "Un presentatore adulto alto 3 pollici in streetwear nero con sottili dettagli ciano neon interagisce con gigantesche cuffie wireless nere premium su una scrivania da studio in marmo bianco.",
+
+  "action": [
+    "0-3s: Il presentatore in miniatura corre con sicurezza lungo l'archetto curvo in alluminio nero opaco. Una telecamera di tracciamento macro ultra-bassa lo segue direttamente da dietro.",
+    "3-6s: Raggiunge una manopola del volume zigrinata in metallo sovradimensionata, la afferra con entrambe le mani e la ruota energicamente. Una sottile onda d'urto sonica traslucida si espande dalle cuffie.",
+    "6-8s: Salta dall'archetto sul gigantesco e morbido cuscinetto auricolare in memory foam di pelle nera, che si comprime visibilmente all'impatto.",
+    "8-10s: Rimane in piedi sul cuscinetto, sorride alla telecamera e fa un rapido pollice in su mentre la telecamera si solleva rapidamente con un movimento a gru e arretra, rivelando le cuffie complete, un computer portatile e una tazza di caffè sulla scrivania."
+  ],
+
+  "camera": "Profondità di campo macro estremamente ridotta, tracciamento fluido, panoramica a schiaffo controllata verso la manopola, continuazione dinamica del movimento sul salto, poi rapido arretramento a salire con gru verso un'ampia inquadratura hero.",
+
+  "lighting": "Illuminazione morbida da studio con sottili luci di contorno ciano e magenta elettrico, riflessi realistici su metallo, pelle e marmo.",
+
+  "audio": {
+    "music": "NESSUNA",
+    "dialogue": "NESSUNO",
+    "voiceover": "NESSUNA",
+    "effects": "Stridio realistico delle sneakers, scatti meccanici della manopola, profondo suono di rotazione, sottile fruscio sonico e morbido impatto sul cuscinetto in pelle."
+  },
+
+  "quality": "Dettagli con qualità 8K, anatomia umana realistica, materiali e fisica fisicamente accurati, design stabile del personaggio e del prodotto.",
+
+  "negative": "nessuna musica, nessun dialogo, nessun testo, nessun logo, nessun watermark, nessuna persona in più, nessun galleggiamento, nessun teletrasporto, nessun clipping, nessuna mano distorta, nessun cambio di scala, nessun cambio di personaggio o abbigliamento, nessuna CGI da cartone animato, nessun motion blur eccessivo, nessun tremolio della telecamera."
+}
 ```
 
 [↑ Torna alle categorie](#catalog)

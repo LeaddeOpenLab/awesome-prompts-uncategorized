@@ -1186,20 +1186,49 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098306910915375260"></a>
 
-### Çeviri sürüyor
+### Minyatür bir sunucunun devasa kulaklıkların kafa bandında koştuğu, bir kadranı ayarladığı ve kulak yastığına indiği makro teknoloji reklamı.
 
 Yazar：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Orijinal gönderi](https://x.com/Fujimoto_hina/status/2098306910915375260)
 
 Ürün Pazarlaması · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Minyatür bir sunucunun devasa kulaklıkların kafa bandında koştuğu, bir kadranı ayarladığı ve kulak yastığına indiği makro teknoloji reklamı.
 
 <img src="covers/2098306910915375260.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "fotogerçekçi birinci sınıf teknoloji reklamı, sinematik makro fotoğrafçılık",
+
+  "scene": "Neon camgöbeği vurgulara sahip siyah sokak giyimi içindeki 3 inç boyunda yetişkin bir erkek sunucu, beyaz mermer stüdyo masası üzerinde devasa, birinci sınıf siyah kablosuz kulaklıklarla etkileşime giriyor.",
+
+  "action": [
+    "0-3s: Minyatür sunucu, kavisli mat siyah alüminyum kafa bandı boyunca güvenle koşar. Ultra alçak makro takip kamerası doğrudan arkasından takip eder.",
+    "3-6s: Büyük boy tırtıklı metal ses kadranına ulaşır, iki eliyle kavrar ve güçlü bir şekilde döndürür. Kulaklıktan hafif, yarı saydam bir sonik şok dalgası yayılır.",
+    "6-8s: Kafa bandından, çarpma anında gözle görülür şekilde sıkışan devasa pelüş siyah deri hafızalı köpük kulak yastığına atlar.",
+    "8-10s: Yastığın üzerinde durur, kameraya gülümser ve kamera hızla yukarı vinç hareketi yapıp geri çekilerek masadaki kulaklığın tamamını, dizüstü bilgisayarı ve kahve fincanını ortaya çıkarırken başparmağıyla hızlı bir onay işareti verir."
+  ],
+
+  "camera": "Aşırı makro sığ alan derinliği, pürüzsüz takip, kadrana kontrollü hızlı yatay çevirme (whip-pan), atlamada dinamik devam hareketi, ardından geniş bir ana çekime (hero shot) doğru hızla yukarı vinç hareketiyle geri çekilme.",
+
+  "lighting": "Hafif camgöbeği ve elektrik macenta kenar ışıklarına sahip yumuşak stüdyo aydınlatması, gerçekçi metal, deri ve mermer yansımaları.",
+
+  "audio": {
+    "music": "YOK",
+    "dialogue": "YOK",
+    "voiceover": "YOK",
+    "effects": "Gerçekçi spor ayakkabı gıcırtıları, mekanik kadran tıklamaları, derin dönme sesi, hafif sonik uğultu ve yumuşak deri yastık darbesi."
+  },
+
+  "quality": "8K kalitesinde ayrıntı, gerçekçi insan anatomisi, fiziksel olarak doğru malzemeler ve fizik, tutarlı karakter ve ürün tasarımı.",
+
+  "negative": "müzik yok, diyalog yok, metin yok, logo yok, filigran yok, fazladan insan yok, havada süzülme yok, ışınlanma yok, iç içe geçme yok, bozuk eller yok, ölçek değişimi yok, karakter veya kıyafet değişikliği yok, çizgi film CGI yok, aşırı hareket bulanıklığı yok, kamera sarsıntısı yok."
+}
 ```
 
 [↑ Kategorilere dön](#catalog)
