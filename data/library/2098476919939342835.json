@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:17:51.142Z",
+  "model": "unknown-image",
+  "prompt": "宽领寝衣；胸前大片露肤；锁骨尽显；晨起梳发；微抬下颌；神情冷淡；轻盈疏离",
+  "promptTranslations": {
+    "en": "Wide-collar nightgown; generous expanse of bare skin on the chest; fully exposed collarbones; combing hair in the morning; chin slightly raised; cold and indifferent expression; light, ethereal and aloof"
+  },
+  "summaryTranslations": {
+    "en": "Depicting an aloof ancient-style woman combing her hair in the morning."
+  },
+  "translationVersion": 2,
+  "summary": "描绘清晨梳发的古风冷淡女子形象。",
+  "summaryEn": "Depicts an ethereal, aloof ancient-style woman combing her hair in the morning.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098476919939342835",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2098476919939342835",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-11T18:21:00.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "zh",
+    "originalText": "深夜继续尝试短prompt的魅力\n\n宽领寝衣；胸前大片露肤；锁骨尽显；晨起梳发；微抬下颌；神情冷淡；轻盈疏离 https://t.co/Jw8jP7mMpf",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8uJtpasAATOK5.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8uJtpasAATOK5.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 1,
+      "replyCount": 29,
+      "quoteCount": 0,
+      "viewCount": 1068
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2098476919939342835",
+  "coverUrl": "https://pbs.twimg.com/media/HR8uJtpasAATOK5.jpg",
+  "coverPath": "images/2098476919939342835-1.jpg",
+  "imagePaths": [
+    "images/2098476919939342835-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR8uJtpasAATOK5",
+    "x-post:2098476919939342835"
+  ],
+  "analysis": {
+    "summary": "描绘清晨梳发的古风冷淡女子形象。",
+    "summaryEn": "Depicts an ethereal, aloof ancient-style woman combing her hair in the morning.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确呈现宽领寝衣、露胸显锁骨、梳发动作及微抬下颌的清冷神情。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "宽领寝衣；胸前大片露肤；锁骨尽显；晨起梳发；微抬下颌；神情冷淡；轻盈疏离",
+    "sourceRange": {
+      "start": 18,
+      "end": 54
+    },
+    "translations": {
+      "zh": "宽领寝衣；胸前大片露肤；锁骨尽显；晨起梳发；微抬下颌；神情冷淡；轻盈疏离",
+      "en": "Wide-collar sleepwear; exposed chest; visible collarbones; combing hair in the morning; slightly raised chin; cold expression; light and aloof."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "古风女子晨起梳妆写意肖像",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
