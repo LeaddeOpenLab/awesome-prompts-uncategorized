@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**66** Prompts · Latest addition: **2026-09-11**
+**67** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1593,6 +1593,30 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098444996584358073"></a>
+
+### Attack on Titan iconic wall poster scene featuring a Survey Corps member facing a colossal titan over the wall.
+
+Author：[@R\_yeong\_](https://x.com/R_yeong_) · [Source](https://x.com/R_yeong_/status/2098444996584358073)
+
+Poster / Flyer · Published
+
+**Summary:** Attack on Titan iconic wall poster scene featuring a Survey Corps member facing a colossal titan over the wall.
+
+<img src="images/2098444996584358073-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098444996584358073-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+2::Vertical composition, full-body shot from behind, low angle, figure positioned in the foreground at the center of the frame, standing with legs apart, head tilted back while looking up at a massive wall, holding swords hanging down at both sides::, 2::Survey Corps uniform::, short brown military jacket, white shirt, leather belt, form-fitting white trousers, knee-high brown leather boots, 1.5::dark brown leather harness, straps crossing the chest, waist, thighs, and legs::, green hooded military cape, 1.7::'Wings of Freedom' emblem on the back, insignia featuring crossed blue and white feathered wings, large emblem in the center of the back::, 1.8::burning ruined village, destroyed houses, collapsing roofs, flames rising on both sides, scorched streets::, massive stone wall spanning the horizon, fortified gate, 3::colossal black figure appearing from beyond the wall, giant dark head and hands gripping the edge of the wall, overwhelming scale::, 1.7::massive explosion occurring behind the wall, blazing orange flames, thick smoke, glowing sky::, flying embers, sparks, ash, heat haze, intense backlighting, deep shadows, dramatic scale contrast, apocalyptic, desolate, ominous, and desperate atmosphere, cinematic presentation, 2::large Japanese title text "進撃の巨人" (Attack on Titan) at the bottom center, center-aligned typography, title logo, bold Japanese typeface, clearly legible text::
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098415482911219938"></a>
 
