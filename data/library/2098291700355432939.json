@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T08:47:40.629Z",
+  "model": "unknown-image",
+  "prompt": "Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. A chic and stylish portrait of a young woman with long, dark brown wavy hair, looking confidently directly at the camera. She is seated comfortably in the front seat of a car with brown leather upholstery, leaning back against the headrest. Her outfit consists of a tailored black blazer with peak lapels, a visible front button, and a breast pocket flap, paired with high-waisted, light-wash denim jeans. The focus is sharp on her expression and the textures of her black blazer and the denim jeans. Her legs are relaxed, with the light-wash jeans clearly visible. The car interior shows brown leather seats with light stitching and a black door panel. A blurred background of green trees and bushes is visible through the car window. The natural daylight is soft and flattering. The composition is a medium shot, with a shallow depth of field, rendering the car details and background in soft blur. Photo quality is high-resolution, with natural color and texture.",
+  "promptTranslations": {
+    "en": "Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. A chic and stylish portrait of a young woman with long, dark brown wavy hair, looking confidently directly at the camera. She is seated comfortably in the front seat of a car with brown leather upholstery, leaning back against the headrest. Her outfit consists of a tailored black blazer with peak lapels, a visible front button, and a breast pocket flap, paired with high-waisted, light-wash denim jeans. The focus is sharp on her expression and the textures of her black blazer and the denim jeans. Her legs are relaxed, with the light-wash jeans clearly visible. The car interior shows brown leather seats with light stitching and a black door panel. A blurred background of green trees and bushes is visible through the car window. The natural daylight is soft and flattering. The composition is a medium shot, with a shallow depth of field, rendering the car details and background in soft blur. Photo quality is high-resolution, with natural color and texture."
+  },
+  "summaryTranslations": {
+    "en": "A stylish portrait of a young woman in the front seat of a car, wearing a black blazer with light-wash jeans, complemented by brown leather upholstery and soft natural light."
+  },
+  "translationVersion": 2,
+  "summary": "车内前排座位的时尚年轻女性人像，身着黑色西装配浅色牛仔裤，搭配棕色真皮内饰与柔和自然光。",
+  "summaryEn": "Stylish portrait of a young woman in a car's brown leather front seat, wearing a black blazer and light-wash jeans under soft natural daylight.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098230798759457070",
+      "canonicalUrl": "https://x.com/afrinxai/status/2098230798759457070",
+      "author": {
+        "username": "afrinxai",
+        "displayName": "𝑨𝒇𝒓𝒊𝒏",
+        "profileUrl": "https://x.com/afrinxai"
+      },
+      "originalText": "Caught somewhere between 1974 and right now.\n\nPrompt : Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.Cinematic portrait of a young East Asian woman with wavy, shoulder-length dark hair and subtle makeup, wearing an oversized retro button-up shirt with a bold psychedelic swirl pattern in cobalt blue, bright orange, teal, and black. She wears or holds dark rectangular sunglasses. Warm indoor golden hour sunlight casts sharp geometric window shadows across the frame. 35mm film photography aesthetic, natural skin texture, warm vintage tones."
+    },
+    "id": "2098291700355432939",
+    "canonicalUrl": "https://x.com/afrinxai/status/2098291700355432939",
+    "author": {
+      "username": "afrinxai",
+      "displayName": "𝑨𝒇𝒓𝒊𝒏",
+      "profileUrl": "https://x.com/afrinxai"
+    },
+    "publishedAt": "2026-09-11T06:05:00.000Z",
+    "collectedAt": "2026-09-11T08:43:19.981Z",
+    "language": "en",
+    "originalText": "Out of the city, off the radar.\n\nPrompt :Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. A chic and stylish portrait of a young woman with long, dark brown wavy hair, looking confidently directly at the camera. She is seated comfortably in the front seat of a car with brown leather upholstery, leaning back against the headrest. Her outfit consists of a tailored black blazer with peak lapels, a visible front button, and a breast pocket flap, paired with high-waisted, light-wash denim jeans. The focus is sharp on her expression and the textures of her black blazer and the denim jeans. Her legs are relaxed, with the light-wash jeans clearly visible. The car interior shows brown leather seats with light stitching and a black door panel. A blurred background of green trees and bushes is visible through the car window. The natural daylight is soft and flattering. The composition is a medium shot, with a shallow depth of field, rendering the car details and background in soft blur. Photo quality is high-resolution, with natural color and texture.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR5zSrEaEAAV1q5.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR5zSrEaEAAV1q5.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR5zS_DbAAApiNu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR5zS_DbAAApiNu.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR3tvbNbcAAIC4z.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR3tvbNbcAAIC4z.jpg",
+        "sourcePostId": "2098230798759457070"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR3tv7naMAAD84-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR3tv7naMAAD84-.jpg",
+        "sourcePostId": "2098230798759457070"
+      }
+    ],
+    "metrics": {
+      "likeCount": 26,
+      "repostCount": 1,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 488
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/afrinxai/status/2098291700355432939",
+  "coverUrl": "https://pbs.twimg.com/media/HR5zSrEaEAAV1q5.jpg",
+  "coverPath": "images/2098291700355432939-1.jpg",
+  "imagePaths": [
+    "images/2098291700355432939-1.jpg",
+    "images/2098291700355432939-2.jpg",
+    "images/2098291700355432939-3.jpg",
+    "images/2098291700355432939-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR5zSrEaEAAV1q5",
+    "x-image:/media/HR5zS_DbAAApiNu",
+    "x-image:/media/HR3tvbNbcAAIC4z",
+    "x-image:/media/HR3tv7naMAAD84-",
+    "x-post:2098291700355432939",
+    "x-post:2098230798759457070"
+  ],
+  "analysis": {
+    "summary": "车内前排座位的时尚年轻女性人像，身着黑色西装配浅色牛仔裤，搭配棕色真皮内饰与柔和自然光。",
+    "summaryEn": "Stylish portrait of a young woman in a car's brown leather front seat, wearing a black blazer and light-wash jeans under soft natural daylight.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the prompt's subject, black tailored blazer, jeans, brown leather interior, and lighting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. A chic and stylish portrait of a young woman with long, dark brown wavy hair, looking confidently directly at the camera. She is seated comfortably in the front seat of a car with brown leather upholstery, leaning back against the headrest. Her outfit consists of a tailored black blazer with peak lapels, a visible front button, and a breast pocket flap, paired with high-waisted, light-wash denim jeans. The focus is sharp on her expression and the textures of her black blazer and the denim jeans. Her legs are relaxed, with the light-wash jeans clearly visible. The car interior shows brown leather seats with light stitching and a black door panel. A blurred background of green trees and bushes is visible through the car window. The natural daylight is soft and flattering. The composition is a medium shot, with a shallow depth of field, rendering the car details and background in soft blur. Photo quality is high-resolution, with natural color and texture.",
+    "sourceRange": {
+      "start": 41,
+      "end": 1189
+    },
+    "translations": {
+      "zh": "将上传的照片作为成年女性的面部身份参考。保留其具有辨识度的面部特征、自然肤色、面部比例及整体外貌。一位留着深棕色波浪长发、自信直视镜头的年轻女性时髦肖像。她舒适地坐在棕色皮革座椅的车内前排，靠在头枕上。身着剪裁考究的黑色戗驳领西装外套，前襟扣子与胸袋盖清晰可见，搭配浅色水洗高腰牛仔裤。焦点聚焦在她的表情以及西装和牛仔裤的质感上。双腿放松，浅色牛仔裤清晰可见。车内呈现带有浅色缝线的棕色皮椅与黑色车门面板。透过车窗可见模糊的绿树灌木背景。自然日光柔和迷人。中景构图，浅景深，高分辨率及自然质感色彩。",
+      "en": "Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. A chic and stylish portrait of a young woman with long, dark brown wavy hair, looking confidently directly at the camera. She is seated comfortably in the front seat of a car with brown leather upholstery, leaning back against the headrest. Her outfit consists of a tailored black blazer with peak lapels, a visible front button, and a breast pocket flap, paired with high-waisted, light-wash denim jeans. The focus is sharp on her expression and the textures of her black blazer and the denim jeans. Her legs are relaxed, with the light-wash jeans clearly visible. The car interior shows brown leather seats with light stitching and a black door panel. A blurred background of green trees and bushes is visible through the car window. The natural daylight is soft and flattering. The composition is a medium shot, with a shallow depth of field, rendering the car details and background in soft blur. Photo quality is high-resolution, with natural color and texture."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
