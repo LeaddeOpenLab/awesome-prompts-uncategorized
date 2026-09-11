@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:25:19.554Z",
+  "model": "unknown-image",
+  "prompt": "输入图1是必须忠实使用的旅行照片；输入图2只作为版式、纸张、邮票齿孔、邮戳和文字层级参考，不要复制输入图2中的具体地点或主体。\n\n将输入图1制作成一张3:4竖版“邮票窗旅行札记”编辑海报。严格采用两段式版式，不进行插画化处理；所有照片区域都使用输入图1中的同一真实场景。\n\n上部约占画面37%：\n\n铺设温暖的浅象牙色旧纸，保留真实纸纤维、轻微折痕、自然斑点和柔和阴影。\n\n左侧放置两行深灰黑色旧打字机文字：\n\n[地点或记忆标题]\nFIELD NOTE [编号]\n\n标题较大，字段字距适当拉开，周围保留充足纸面留白。\n\n右侧放置一枚横向照片邮票，宽约上部区域的58%。邮票内部使用输入图1的真实照片，进行适合横向画幅的裁切，同时保留核心主体。\n\n照片邮票具有：\n\n- 暖白色厚纸边框；\n- 四周规则的半圆模切齿孔；\n- 轻微纸张厚度；\n- 克制、自然的接触投影；\n- 略带旧化但整齐的纸张边缘。\n\n在邮票右下角叠加一枚局部超出版面的黑色旧邮戳。邮戳包含残缺圆环和三条平行波浪线，具有磨损、褪色和半透明油墨质感，不得遮住照片主体。\n\n下部约占画面63%：\n\n让输入图1的同一张真实照片从边缘到边缘铺满。根据3:4海报进行自然裁切，保持原照片中的主体、人物、建筑、透视、光线和颜色，不添加不存在的景物。\n\n下部必须保持真实摄影质感，不要变成水彩、动漫、版画或素描。\n\n在下部照片左下方放置一枚小型横向暖白纸质短句标签，宽约画面的25%–32%。标签具有轻微纸厚与柔和投影，内部只放一句不超过两行的旧打字机观察短句：\n\n[一句与照片现场直接相关的简短观察]\n\n关键齿孔规则：\n\n上部照片邮票与下部短句标签必须使用完全相同的模切齿孔系统：\n\n- 相同孔径；\n- 相同圆弧深度；\n- 相同中心间距；\n- 相同半圆凹口形状；\n- 相同纸张边框宽度。\n\n不得因为两张纸尺寸不同而按比例缩放齿孔。两处孔洞在成品中的实际视觉尺寸必须一致，不得一处细密、一处粗大；不得变成锯齿、波浪花边或撕纸毛边。\n\n整体像一本老旅行档案中的照片页：上方是标题和邮票式缩影，下方是同一现场的大幅照片，一句观察被印在小齿孔纸条上。色彩来自原照片，纸面克制，信息少而准确。\n\n避免：插画转绘、水彩、动漫、蚀刻、上下两张等大的普通对比图、多个邮票、过多邮戳、手账贴纸堆砌、胶带、左右分栏、底部大面积纸面、作者名、品牌、Logo、网址、二维码、水印、乱码和额外文字。",
+  "promptTranslations": {
+    "en": "Input image 1 is the travel photo that must be faithfully used; input image 2 serves only as a reference for layout, paper texture, stamp perforations, postmarks, and text hierarchy; do not copy the specific location or subject from input image 2.\n\nTurn input image 1 into a 3:4 vertical editorial poster titled \"Stamp Window Travel Notes\". Strictly adopt a two-tier layout without any illustrative stylization; all photo areas must use the exact same real scene from input image 1.\n\nThe upper section occupies approximately 37% of the frame:\n\nLaid with warm, light ivory aged paper, retaining genuine paper fibers, subtle creases, natural spots, and soft shadows.\n\nOn the left side, place two lines of dark gray-black vintage typewriter text:\n\n[Location or Memory Title]\nFIELD NOTE [Number]\n\nThe title is larger, field tracking is moderately spaced out, and ample paper whitespace is preserved around it.\n\nOn the right side, place a horizontal photo stamp, approximately 58% of the width of the upper section. Inside the stamp, use the real photo from input image 1, cropped appropriately for a horizontal aspect ratio while preserving the core subject.\n\nThe photo stamp features:\n\n- A warm white thick paper border;\n- Regular semicircular die-cut perforations around all four edges;\n- Subtle paper thickness;\n- Restrained, natural contact drop shadows;\n- Slightly aged yet neat paper edges.\n\nIn the lower-right corner of the stamp, superimpose a vintage black postmark that partially extends beyond the stamp's border. The postmark includes an incomplete circular ring and three parallel wavy lines, with a worn, faded, and semi-transparent ink texture, and must not obscure the main subject of the photo.\n\nThe lower section occupies approximately 63% of the frame:\n\nLet the same real photo from input image 1 bleed edge-to-edge across the frame. Naturally cropped to fit the 3:4 poster, maintaining the original photo's subjects, people, architecture, perspective, lighting, and colors, without adding nonexistent elements.\n\nThe lower section must retain realistic photographic quality, avoiding turning into watercolor, anime, printmaking, or sketching.\n\nIn the lower-left area of the lower photo, place a small horizontal warm white paper caption label, spanning approximately 25%–32% of the frame's width. The label has subtle paper thickness and a soft drop shadow, containing only a short vintage typewriter observation sentence of no more than two lines:\n\n[A brief observation directly related to the photo scene]\n\nKey perforation rules:\n\nThe upper photo stamp and the lower caption label must use the exact same die-cut perforation system:\n\n- Identical hole diameter;\n- Identical arc depth;\n- Identical center-to-center spacing;\n- Identical semicircular notch shape;\n- Identical paper margin/border width.\n\nPerforations must not be proportionally scaled due to different paper sizes. The actual visual size of the holes in both areas must remain consistent in the finished artwork, not dense in one place and coarse in another; they must not turn into serrations, scalloped edges, or torn paper fringes.\n\nOverall, it looks like a photo page from a vintage travel archive: above is the title and a stamp-like miniature, below is a large-format photo of the same scene, with an observation printed on a small perforated paper strip. Colors derive from the original photo, the paper surface is understated, and the information is minimal yet precise.\n\nAvoid: illustrative conversion, watercolor, anime, etching, standard equal-sized upper-and-lower comparison images, multiple stamps, excessive postmarks, cluttered journal stickers, tape, left-right column split, large paper areas at the bottom, author names, brands, logos, URLs, QR codes, watermarks, garbled characters, and extraneous text."
+  },
+  "summaryTranslations": {
+    "en": "A two-tier \"stamp window travel notes\" layout prompt combining vintage paper, stamp perforations, and real photography poster typography."
+  },
+  "translationVersion": 2,
+  "summary": "一种两段式“邮票窗旅行札记”版式提示词，结合复古纸张、邮票齿孔与实景摄影海报排版。",
+  "summaryEn": "A prompt for a two-tier 'postage window travel note' editorial poster combining vintage paper, perforated stamps, and photography.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098351198072111552",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2098351198072111552",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-11T10:01:25.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "zh",
+    "originalText": "【POSTAGE WINDOW TRAVEL NOTE｜邮票窗旅行札记】\n\n很像把旅途中见过的风景，认真寄回给未来的自己。上方邮票把记忆缩成可以收藏的一小格，下方照片却让现场继续舒展开来。旧纸、邮戳和打字机文字增加了时间感，而两处完全一致的齿孔，则用一种很细微的秩序把整张作品连在了一起。\n\nprompt：\n输入图1是必须忠实使用的旅行照片；输入图2只作为版式、纸张、邮票齿孔、邮戳和文字层级参考，不要复制输入图2中的具体地点或主体。\n\n将输入图1制作成一张3:4竖版“邮票窗旅行札记”编辑海报。严格采用两段式版式，不进行插画化处理；所有照片区域都使用输入图1中的同一真实场景。\n\n上部约占画面37%：\n\n铺设温暖的浅象牙色旧纸，保留真实纸纤维、轻微折痕、自然斑点和柔和阴影。\n\n左侧放置两行深灰黑色旧打字机文字：\n\n[地点或记忆标题]\nFIELD NOTE [编号]\n\n标题较大，字段字距适当拉开，周围保留充足纸面留白。\n\n右侧放置一枚横向照片邮票，宽约上部区域的58%。邮票内部使用输入图1的真实照片，进行适合横向画幅的裁切，同时保留核心主体。\n\n照片邮票具有：\n\n- 暖白色厚纸边框；\n- 四周规则的半圆模切齿孔；\n- 轻微纸张厚度；\n- 克制、自然的接触投影；\n- 略带旧化但整齐的纸张边缘。\n\n在邮票右下角叠加一枚局部超出版面的黑色旧邮戳。邮戳包含残缺圆环和三条平行波浪线，具有磨损、褪色和半透明油墨质感，不得遮住照片主体。\n\n下部约占画面63%：\n\n让输入图1的同一张真实照片从边缘到边缘铺满。根据3:4海报进行自然裁切，保持原照片中的主体、人物、建筑、透视、光线和颜色，不添加不存在的景物。\n\n下部必须保持真实摄影质感，不要变成水彩、动漫、版画或素描。\n\n在下部照片左下方放置一枚小型横向暖白纸质短句标签，宽约画面的25%–32%。标签具有轻微纸厚与柔和投影，内部只放一句不超过两行的旧打字机观察短句：\n\n[一句与照片现场直接相关的简短观察]\n\n关键齿孔规则：\n\n上部照片邮票与下部短句标签必须使用完全相同的模切齿孔系统：\n\n- 相同孔径；\n- 相同圆弧深度；\n- 相同中心间距；\n- 相同半圆凹口形状；\n- 相同纸张边框宽度。\n\n不得因为两张纸尺寸不同而按比例缩放齿孔。两处孔洞在成品中的实际视觉尺寸必须一致，不得一处细密、一处粗大；不得变成锯齿、波浪花边或撕纸毛边。\n\n整体像一本老旅行档案中的照片页：上方是标题和邮票式缩影，下方是同一现场的大幅照片，一句观察被印在小齿孔纸条上。色彩来自原照片，纸面克制，信息少而准确。\n\n避免：插画转绘、水彩、动漫、蚀刻、上下两张等大的普通对比图、多个邮票、过多邮戳、手账贴纸堆砌、胶带、左右分栏、底部大面积纸面、作者名、品牌、Logo、网址、二维码、水印、乱码和额外文字。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7XRQBbgAAwHtY.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7XRQBbgAAwHtY.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7XRQDbwAAfNFK.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7XRQDbwAAfNFK.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7XRQAbcAAPC4n.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7XRQAbcAAPC4n.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7XRQBaoAAguw1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7XRQBaoAAguw1.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 4,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 720
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2098351198072111552",
+  "coverUrl": "https://pbs.twimg.com/media/HR7XRQBbgAAwHtY.jpg",
+  "coverPath": "images/2098351198072111552-1.jpg",
+  "imagePaths": [
+    "images/2098351198072111552-1.jpg",
+    "images/2098351198072111552-2.jpg",
+    "images/2098351198072111552-3.jpg",
+    "images/2098351198072111552-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR7XRQBbgAAwHtY",
+    "x-image:/media/HR7XRQDbwAAfNFK",
+    "x-image:/media/HR7XRQAbcAAPC4n",
+    "x-image:/media/HR7XRQBaoAAguw1",
+    "x-post:2098351198072111552"
+  ],
+  "analysis": {
+    "summary": "一种两段式“邮票窗旅行札记”版式提示词，结合复古纸张、邮票齿孔与实景摄影海报排版。",
+    "summaryEn": "A prompt for a two-tier 'postage window travel note' editorial poster combining vintage paper, perforated stamps, and photography.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均完全体现了提示词中规定的上部旧纸打字机排版与照片邮票、下部全幅照片及一致齿孔的观察标签构图。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "输入图1是必须忠实使用的旅行照片；输入图2只作为版式、纸张、邮票齿孔、邮戳和文字层级参考，不要复制输入图2中的具体地点或主体。\n\n将输入图1制作成一张3:4竖版“邮票窗旅行札记”编辑海报。严格采用两段式版式，不进行插画化处理；所有照片区域都使用输入图1中的同一真实场景。\n\n上部约占画面37%：\n\n铺设温暖的浅象牙色旧纸，保留真实纸纤维、轻微折痕、自然斑点和柔和阴影。\n\n左侧放置两行深灰黑色旧打字机文字：\n\n[地点或记忆标题]\nFIELD NOTE [编号]\n\n标题较大，字段字距适当拉开，周围保留充足纸面留白。\n\n右侧放置一枚横向照片邮票，宽约上部区域的58%。邮票内部使用输入图1的真实照片，进行适合横向画幅的裁切，同时保留核心主体。\n\n照片邮票具有：\n\n- 暖白色厚纸边框；\n- 四周规则的半圆模切齿孔；\n- 轻微纸张厚度；\n- 克制、自然的接触投影；\n- 略带旧化但整齐的纸张边缘。\n\n在邮票右下角叠加一枚局部超出版面的黑色旧邮戳。邮戳包含残缺圆环和三条平行波浪线，具有磨损、褪色和半透明油墨质感，不得遮住照片主体。\n\n下部约占画面63%：\n\n让输入图1的同一张真实照片从边缘到边缘铺满。根据3:4海报进行自然裁切，保持原照片中的主体、人物、建筑、透视、光线和颜色，不添加不存在的景物。\n\n下部必须保持真实摄影质感，不要变成水彩、动漫、版画或素描。\n\n在下部照片左下方放置一枚小型横向暖白纸质短句标签，宽约画面的25%–32%。标签具有轻微纸厚与柔和投影，内部只放一句不超过两行的旧打字机观察短句：\n\n[一句与照片现场直接相关的简短观察]\n\n关键齿孔规则：\n\n上部照片邮票与下部短句标签必须使用完全相同的模切齿孔系统：\n\n- 相同孔径；\n- 相同圆弧深度；\n- 相同中心间距；\n- 相同半圆凹口形状；\n- 相同纸张边框宽度。\n\n不得因为两张纸尺寸不同而按比例缩放齿孔。两处孔洞在成品中的实际视觉尺寸必须一致，不得一处细密、一处粗大；不得变成锯齿、波浪花边或撕纸毛边。\n\n整体像一本老旅行档案中的照片页：上方是标题和邮票式缩影，下方是同一现场的大幅照片，一句观察被印在小齿孔纸条上。色彩来自原照片，纸面克制，信息少而准确。\n\n避免：插画转绘、水彩、动漫、蚀刻、上下两张等大的普通对比图、多个邮票、过多邮戳、手账贴纸堆砌、胶带、左右分栏、底部大面积纸面、作者名、品牌、Logo、网址、二维码、水印、乱码和额外文字。",
+    "sourceRange": {
+      "start": 154,
+      "end": 1164
+    },
+    "translations": {
+      "zh": "输入图1是必须忠实使用的旅行照片；输入图2只作为版式、纸张、邮票齿孔、邮戳和文字层级参考，不要复制输入图2中的具体地点或主体。\n\n将输入图1制作成一张3:4竖版“邮票窗旅行札记”编辑海报。严格采用两段式版式，不进行插画化处理；所有照片区域都使用输入图1中的同一真实场景。\n\n上部约占画面37%：\n\n铺设温暖的浅象牙色旧纸，保留真实纸纤维、轻微折痕、自然斑点和柔和阴影。\n\n左侧放置两行深灰黑色旧打字机文字：\n\n[地点或记忆标题]\nFIELD NOTE [编号]\n\n标题较大，字段字距适当拉开，周围保留充足纸面留白。\n\n右侧放置一枚横向照片邮票，宽约上部区域的58%。邮票内部使用输入图1的真实照片，进行适合横向画幅的裁切，同时保留核心主体。\n\n照片邮票具有：\n\n- 暖白色厚纸边框；\n- 四周规则的半圆模切齿孔；\n- 轻微纸张厚度；\n- 克制、自然的接触投影；\n- 略带旧化但整齐的纸张边缘。\n\n在邮票右下角叠加一枚局部超出版面的黑色旧邮戳。邮戳包含残缺圆环和三条平行波浪线，具有磨损、褪色和半透明油墨质感，不得遮住照片主体。\n\n下部约占画面63%：\n\n让输入图1的同一张真实照片从边缘到边缘铺满。根据3:4海报进行自然裁切，保持原照片中的主体、人物、建筑、透视、光线和颜色，不添加不存在的景物。\n\n下部必须保持真实摄影质感，不要变成水彩、动漫、版画或素描。\n\n在下部照片左下方放置一枚小型横向暖白纸质短句标签，宽约画面的25%–32%。标签具有轻微纸厚与柔和投影，内部只放一句不超过两行的旧打字机观察短句：\n\n[一句与照片现场直接相关的简短观察]\n\n关键齿孔规则：\n\n上部照片邮票与下部短句标签必须使用完全相同的模切齿孔系统：\n\n- 相同孔径；\n- 相同圆弧深度；\n- 相同中心间距；\n- 相同半圆凹口形状；\n- 相同纸张边框宽度。\n\n不得因为两张纸尺寸不同而按比例缩放齿孔。两处孔洞在成品中的实际视觉尺寸必须一致，不得一处细密、一处粗大；不得变成锯齿、波浪花边或撕纸毛边。\n\n整体像一本老旅行档案中的照片页：上方是标题和邮票式缩影，下方是同一现场的大幅照片，一句观察被印在小齿孔纸条上。色彩来自原照片，纸面克制，信息少而准确。\n\n避免：插画转绘、水彩、动漫、蚀刻、上下两张等大的普通对比图、多个邮票、过多邮戳、手账贴纸堆砌、胶带、左右分栏、底部大面积纸面、作者名、品牌、Logo、网址、二维码、水印、乱码和额外文字。",
+      "en": "Input Image 1 is the travel photo to faithfully use; Input Image 2 is only for layout, paper, perforations, postmark, and typography reference.\n\nTransform Input Image 1 into a 3:4 vertical 'Postage Window Travel Note' editorial poster using a two-tier layout without illustration styling; all photo areas show the same real scene from Image 1.\n\nTop Section (~37% of frame):\nWarm light ivory vintage paper background showing paper fibers, creases, spots, and soft shadows.\nLeft: Two lines of dark typewriter text ([Location/Title], FIELD NOTE [Number]) with generous spacing.\nRight: Horizontal photo stamp (~58% width of top area) containing cropped photo from Image 1, featuring warm white thick paper border, regular semi-circular perforations, light drop shadow, and clean aged edges.\nBottom-right of stamp: Weathered, faded black postmark partially extending outside the frame.\n\nBottom Section (~63% of frame):\nFull bleed photograph from Image 1 naturally cropped to 3:4 ratio, retaining realism and original visual elements without painterly styles.\nBottom-left: Small horizontal warm white paper label (25%–32% width) with matching perforations containing a short typewriter observation sentence.\n\nPerforation Rule: Upper stamp and lower label must share identical die-cut perforation dimensions and spacing.\n\nOverall vintage travel archive feel: Minimalist, clean, retaining realistic photo aesthetics.\n\nAvoid: Illustrations, watercolors, sketches, side-by-side splits, extra stamps, stickers, tape, logos, watermarks, clutter."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative_generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
