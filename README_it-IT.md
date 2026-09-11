@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098291700355432939"></a>
 
-### Traduzione in corso
+### Ritratto alla moda di una giovane donna sul sedile anteriore di un'auto, con indosso un blazer nero e jeans chiari, interni in pelle marrone e luce naturale soffusa.
 
 Autore：[@afrinxai](https://x.com/afrinxai) · [Post originale](https://x.com/afrinxai/status/2098291700355432939)
 
@@ -43,7 +43,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Veicolo ·
 
 Post originale：[@afrinxai](https://x.com/afrinxai) · [Post originale](https://x.com/afrinxai/status/2098230798759457070)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto alla moda di una giovane donna sul sedile anteriore di un'auto, con indosso un blazer nero e jeans chiari, interni in pelle marrone e luce naturale soffusa.
 
 <img src="images/2098291700355432939-1.jpg" alt="Immagine 1" width="480" />
 
@@ -56,7 +56,7 @@ Post originale：[@afrinxai](https://x.com/afrinxai) · [Post originale](https:/
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa la foto caricata come riferimento per l'identità facciale di una donna adulta. Mantieni i suoi tratti somatici riconoscibili, la tonalità naturale della pelle, le proporzioni del viso e l'aspetto generale. Un ritratto chic ed elegante di una giovane donna con lunghi capelli castano scuro ondulati, che guarda con sicurezza direttamente nella fotocamera. È seduta comodamente sul sedile anteriore di un'auto con rivestimenti in pelle marrone, appoggiata al poggiatesta. Il suo outfit consiste in un blazer nero sartoriale con rever a lancia, un bottone frontale visibile e una patta della tasca sul petto, abbinato a jeans in denim a vita alta dal lavaggio chiaro. La messa a fuoco è nitida sulla sua espressione e sulle texture del blazer nero e dei jeans. Le sue gambe sono rilassate, con i jeans chiari chiaramente visibili. L'interno dell'auto mostra sedili in pelle marrone con cuciture chiare e un pannello della portiera nero. Attraverso il finestrino dell'auto è visibile uno sfondo sfocato di alberi e cespugli verdi. La luce naturale del giorno è morbida e lusinghiera. La composizione è un mezzo busto, con una ridotta profondità di campo che rende i dettagli dell'auto e lo sfondo morbidamente sfocati. La qualità fotografica è ad alta risoluzione, con colori e texture naturali.
 ```
 
 [↑ Torna alle categorie](#catalog)

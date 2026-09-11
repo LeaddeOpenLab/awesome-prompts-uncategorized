@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098291700355432939"></a>
 
-### Übersetzung läuft
+### Stilvolles Porträt einer jungen Frau auf dem Vordersitz eines Autos, gekleidet in einen schwarzen Blazer und helle Jeans, umgeben von brauner Lederausstattung und sanftem Naturlicht.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Originalbeitrag](https://x.com/afrinxai/status/2098291700355432939)
 
@@ -43,7 +43,7 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Fahrzeug · Verö
 
 Originalbeitrag：[@afrinxai](https://x.com/afrinxai) · [Originalbeitrag](https://x.com/afrinxai/status/2098230798759457070)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Stilvolles Porträt einer jungen Frau auf dem Vordersitz eines Autos, gekleidet in einen schwarzen Blazer und helle Jeans, umgeben von brauner Lederausstattung und sanftem Naturlicht.
 
 <img src="images/2098291700355432939-1.jpg" alt="Bild 1" width="480" />
 
@@ -56,7 +56,7 @@ Originalbeitrag：[@afrinxai](https://x.com/afrinxai) · [Originalbeitrag](https
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwenden Sie das hochgeladene Foto als Referenz für die Gesichtsidentität einer erwachsenen Frau. Bewahren Sie ihre erkennbaren Gesichtszüge, den natürlichen Hautton, die Gesichtsproportionen und das Gesamterscheinungsbild. Ein schickes und stilvolles Porträt einer jungen Frau mit langem, dunkelbraunem, welligem Haar, die selbstbewusst direkt in die Kamera blickt. Sie sitzt bequem auf dem Vordersitz eines Autos mit brauner Lederpolsterung und lehnt sich an die Kopfstütze an. Ihr Outfit besteht aus einem maßgeschneiderten schwarzen Blazer mit steigendem Revers, einem sichtbaren Knopf vorne und einer Brusttaschenklappe, kombiniert mit einer hoch taillierten Jeans aus hellem Denim. Der Fokus liegt scharf auf ihrem Gesichtsausdruck und den Texturen ihres schwarzen Blazers und der Jeans. Ihre Beine sind entspannt, wobei die helle Jeans deutlich sichtbar ist. Der Innenraum des Autos zeigt braune Ledersitze mit hellen Nähten und eine schwarze Türverkleidung. Durch das Autofenster ist ein unscharfer Hintergrund aus grünen Bäumen und Büschen zu sehen. Das natürliche Tageslicht ist weich und schmeichelhaft. Die Komposition ist eine Halbnaheinstellung mit geringer Schärfentiefe, die die Fahrzeugdetails und den Hintergrund in sanfter Unschärfe wiedergibt. Die Fotoqualität ist hochauflösend, mit natürlichen Farben und Texturen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

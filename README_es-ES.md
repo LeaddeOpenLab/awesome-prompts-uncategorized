@@ -35,7 +35,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098291700355432939"></a>
 
-### Traducción en curso
+### Retrato de una mujer joven y elegante en el asiento delantero de un coche, vestida con blazer negro y vaqueros claros, con interior de cuero marrón y suave luz natural.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Publicación original](https://x.com/afrinxai/status/2098291700355432939)
 
@@ -43,7 +43,7 @@ Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Vehículo �
 
 Publicación original：[@afrinxai](https://x.com/afrinxai) · [Publicación original](https://x.com/afrinxai/status/2098230798759457070)
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de una mujer joven y elegante en el asiento delantero de un coche, vestida con blazer negro y vaqueros claros, con interior de cuero marrón y suave luz natural.
 
 <img src="images/2098291700355432939-1.jpg" alt="Imagen 1" width="480" />
 
@@ -56,7 +56,7 @@ Publicación original：[@afrinxai](https://x.com/afrinxai) · [Publicación ori
 **Prompt**
 
 ```text
-Traducción en curso
+Utiliza la foto subida como referencia de identidad facial para una mujer adulta. Conserva sus rasgos faciales reconocibles, el tono de piel natural, las proporciones faciales y la apariencia general. Un retrato elegante y con estilo de una mujer joven con cabello largo ondulado de color castaño oscuro, mirando con confianza directamente a la cámara. Está sentada cómodamente en el asiento delantero de un coche con tapicería de cuero marrón, recostada contra el reposacabezas. Su atuendo consiste en un blazer negro entallado con solapas en punta, un botón frontal visible y una solapa en el bolsillo del pecho, combinado con unos vaqueros de denim de tiro alto y lavado claro. El enfoque es nítido en su expresión y en las texturas de su blazer negro y los vaqueros de mezclilla. Sus piernas están relajadas, con los vaqueros de lavado claro claramente visibles. El interior del coche muestra asientos de cuero marrón con costuras claras y un panel de puerta negro. A través de la ventanilla del coche se aprecia un fondo desenfocado de árboles y arbustos verdes. La luz natural del día es suave y favorecedora. La composición es un plano medio, con una profundidad de campo reducida, que deja los detalles del coche y el fondo en un suave desenfoque. La calidad fotográfica es de alta resolución, con colores y texturas naturales.
 ```
 
 [↑ Volver a categorías](#catalog)

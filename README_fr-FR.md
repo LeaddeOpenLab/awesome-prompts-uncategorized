@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098291700355432939"></a>
 
-### Traduction en cours
+### Portrait chic d'une jeune femme sur le siège avant d'une voiture, vêtue d'un blazer noir et d'un jean clair, avec un intérieur en cuir marron et une douce lumière naturelle.
 
 Auteur：[@afrinxai](https://x.com/afrinxai) · [Publication originale](https://x.com/afrinxai/status/2098291700355432939)
 
@@ -43,7 +43,7 @@ Photographie · Portrait / Selfie · Personnage · Article de mode · Véhicule 
 
 Publication originale：[@afrinxai](https://x.com/afrinxai) · [Publication originale](https://x.com/afrinxai/status/2098230798759457070)
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait chic d'une jeune femme sur le siège avant d'une voiture, vêtue d'un blazer noir et d'un jean clair, avec un intérieur en cuir marron et une douce lumière naturelle.
 
 <img src="images/2098291700355432939-1.jpg" alt="Image 1" width="480" />
 
@@ -56,7 +56,7 @@ Publication originale：[@afrinxai](https://x.com/afrinxai) · [Publication orig
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez la photo téléversée comme référence d'identité faciale pour une femme adulte. Conservez ses traits de visage reconnaissables, son teint naturel, les proportions de son visage et son apparence générale. Un portrait chic et élégant d'une jeune femme aux longs cheveux châtain foncé ondulés, regardant avec assurance directement l'objectif. Elle est confortablement assise sur le siège avant d'une voiture dotée d'une sellerie en cuir marron, adossée à l'appuie-tête. Sa tenue se compose d'un blazer noir ajusté à revers en pointe, avec un bouton apparent sur le devant et un rabat de poche poitrine, associé à un jean taille haute en denim clair. La mise au point est nette sur son expression ainsi que sur les textures de son blazer noir et du jean denim. Ses jambes sont détendues, le jean clair étant clairement visible. L'intérieur de la voiture montre des sièges en cuir marron avec des surpiqûres claires et un panneau de porte noir. Un arrière-plan flou d'arbres et d'arbustes verdoyants est visible à travers la vitre de la voiture. La lumière naturelle du jour est douce et flatteuse. La composition est un plan moyen, avec une faible profondeur de champ, rendant les détails de la voiture et l'arrière-plan dans un flou délicat. La qualité de la photo est haute résolution, avec des couleurs et des textures naturelles.
 ```
 
 [↑ Retour aux catégories](#catalog)

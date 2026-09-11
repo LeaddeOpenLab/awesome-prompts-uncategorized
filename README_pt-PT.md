@@ -35,7 +35,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098291700355432939"></a>
 
-### Tradução em curso
+### Retrato elegante de uma jovem no banco da frente de um automóvel, com blazer preto e calças de ganga claras, interior em pele castanha e luz natural suave.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2098291700355432939)
 
@@ -43,7 +43,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Veículo · Publ
 
 Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2098230798759457070)
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato elegante de uma jovem no banco da frente de um automóvel, com blazer preto e calças de ganga claras, interior em pele castanha e luz natural suave.
 
 <img src="images/2098291700355432939-1.jpg" alt="Imagem 1" width="480" />
 
@@ -56,7 +56,7 @@ Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação ori
 **Prompt**
 
 ```text
-Tradução em curso
+Utilize a fotografia carregada como referência de identidade facial para uma mulher adulta. Preserve os seus traços faciais reconhecíveis, tom de pele natural, proporções faciais e aparência geral. Um retrato chique e elegante de uma jovem mulher com cabelos compridos, ondulados e castanho-escuros, a olhar com confiança diretamente para a câmara. Está sentada confortavelmente no banco dianteiro de um automóvel com estofos em pele castanha, encostada ao apoio de cabeça. O seu visual é composto por um blazer preto cintado com lapelas em bico, um botão frontal visível e uma pala de bolso no peito, combinado com calças de ganga de cintura subida e lavagem clara. A focagem é nítida na sua expressão e nas texturas do blazer preto e das calças de ganga. As suas pernas estão descontraídas, com as calças de ganga claras claramente visíveis. O interior do automóvel apresenta bancos em pele castanha com costuras claras e um painel de porta preto. Um fundo desfocado de árvores e arbustos verdes é visível através da janela do carro. A luz natural do dia é suave e favorecedora. A composição é um plano médio, com pouca profundidade de campo, tornando os detalhes do automóvel e o fundo suavemente desfocados. A qualidade da fotografia é de alta resolução, com cores e texturas naturais.
 ```
 
 [↑ Voltar às categorias](#catalog)

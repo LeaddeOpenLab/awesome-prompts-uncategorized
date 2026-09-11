@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098291700355432939"></a>
 
-### Đang dịch
+### Chân dung phụ nữ trẻ sành điệu ở ghế trước ô tô, mặc áo blazer đen phối quần jean sáng màu, kết hợp nội thất da nâu và ánh sáng tự nhiên êm dịu.
 
 Tác giả：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2098291700355432939)
 
@@ -43,7 +43,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 Bài gốc：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2098230798759457070)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung phụ nữ trẻ sành điệu ở ghế trước ô tô, mặc áo blazer đen phối quần jean sáng màu, kết hợp nội thất da nâu và ánh sáng tự nhiên êm dịu.
 
 <img src="images/2098291700355432939-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -56,7 +56,7 @@ Bài gốc：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/a
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng ảnh đã tải lên làm tham chiếu nhận dạng khuôn mặt cho một phụ nữ trưởng thành. Giữ nguyên các đường nét khuôn mặt dễ nhận biết, tông màu da tự nhiên, tỷ lệ khuôn mặt và diện mạo tổng thể. Một bức chân dung thanh lịch và sành điệu của một phụ nữ trẻ với mái tóc dài gợn sóng màu nâu sẫm, tự tin nhìn thẳng vào ống kính máy ảnh. Cô ngồi thoải mái ở ghế trước của một chiếc ô tô bọc da màu nâu, tựa lưng vào tựa đầu. Trang phục của cô bao gồm một chiếc áo blazer đen được may đo chuẩn dáng với ve nhọn, cúc trước nhìn rõ và nắp túi ngực, kết hợp cùng quần jean cạp cao màu xanh sáng giặt nhẹ (light-wash). Tiêu điểm sắc nét vào biểu cảm của cô cùng chất liệu của chiếc áo blazer đen và quần jean denim. Đôi chân cô thả lỏng, nhìn rõ chiếc quần jean sáng màu. Nội thất xe để lộ ghế da màu nâu với đường chỉ khâu sáng màu và ốp cửa màu đen. Qua cửa sổ ô tô có thể nhìn thấy hậu cảnh mờ ảo của cây xanh và bụi rậm. Ánh sáng ban ngày tự nhiên mềm mại và tôn dáng. Bố cục là ảnh chụp cận vừa (medium shot), với độ sâu trường ảnh nông, làm mờ nhẹ nhàng các chi tiết của xe và hậu cảnh. Chất lượng ảnh có độ phân giải cao, với màu sắc và kết cấu tự nhiên.
 ```
 
 [↑ Về danh mục](#catalog)

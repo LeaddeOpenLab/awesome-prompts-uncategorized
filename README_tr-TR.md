@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098291700355432939"></a>
 
-### Çeviri sürüyor
+### Arabanın ön koltuğunda siyah blazer ve açık renk kot pantolon giymiş, kahverengi deri iç mekan ve yumuşak doğal ışık eşliğinde şık genç bir kadının portresi.
 
 Yazar：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2098291700355432939)
 
@@ -43,7 +43,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Araç · Ya
 
 Orijinal gönderi：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2098230798759457070)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Arabanın ön koltuğunda siyah blazer ve açık renk kot pantolon giymiş, kahverengi deri iç mekan ve yumuşak doğal ışık eşliğinde şık genç bir kadının portresi.
 
 <img src="images/2098291700355432939-1.jpg" alt="Görsel 1" width="480" />
 
@@ -56,7 +56,7 @@ Orijinal gönderi：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen fotoğrafı yetişkin bir kadının yüz kimliği referansı olarak kullanın. Tanınabilir yüz hatlarını, doğal cilt tonunu, yüz oranlarını ve genel görünümünü koruyun. Doğrudan ve özgüvenle kameraya bakan, uzun, koyu kahverengi dalgalı saçlı genç bir kadının şık ve zarif bir portresi. Kahverengi deri döşemeli bir arabanın ön koltuğunda rahatça oturuyor ve baş desteğine yaslanıyor. Kıyafeti; sivri yakalı, önden tek düğmeli ve göğüs cebi kapaklı özel dikim siyah bir blazer ceket ile yüksek belli, açık renk kot pantolondan oluşuyor. Odak, ifadesi ile siyah blazer ceketinin ve kot pantolonunun dokularında son derece keskin. Bacakları rahat bir pozisyonda, açık renk kot pantolonu net bir şekilde görünüyor. Arabanın iç mekanında açık dikişli kahverengi deri koltuklar ve siyah bir kapı paneli görülüyor. Araba camından yeşil ağaçlar ve çalıların oluşturduğu bulanık bir arka plan seçiliyor. Doğal gün ışığı yumuşak ve hoş bir hava katıyor. Kompozisyon, araba ayrıntılarını ve arka planı yumuşak bir bulanıklıkla veren sığ bir alan derinliğine sahip bir orta plan çekimdir. Fotoğraf kalitesi, doğal renk ve dokularla yüksek çözünürlüklüdür.
 ```
 
 [↑ Kategorilere dön](#catalog)

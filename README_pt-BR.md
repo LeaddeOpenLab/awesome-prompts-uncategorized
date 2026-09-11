@@ -35,7 +35,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098291700355432939"></a>
 
-### Tradução em andamento
+### Retrato estiloso de uma jovem mulher no banco da frente de um carro, vestindo blazer preto com jeans claro, interior de couro marrom e luz natural suave.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2098291700355432939)
 
@@ -43,7 +43,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Veículo · Publ
 
 Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2098230798759457070)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato estiloso de uma jovem mulher no banco da frente de um carro, vestindo blazer preto com jeans claro, interior de couro marrom e luz natural suave.
 
 <img src="images/2098291700355432939-1.jpg" alt="Imagem 1" width="480" />
 
@@ -56,7 +56,7 @@ Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação ori
 **Prompt**
 
 ```text
-Tradução em andamento
+Use a foto enviada como referência de identidade facial para uma mulher adulta. Preserve seus traços faciais reconhecíveis, tom de pele natural, proporções faciais e aparência geral. Um retrato chique e estiloso de uma jovem mulher com cabelos longos, ondulados e castanho-escuros, olhando com confiança diretamente para a câmera. Ela está sentada confortavelmente no banco dianteiro de um carro com estofamento de couro marrom, recostada no encosto de cabeça. Seu visual consiste em um blazer preto sob medida com lapelas pontudas, um botão frontal visível e uma aba de bolso no peito, combinado com jeans de lavagem clara e cintura alta. O foco é nítido em sua expressão e nas texturas do blazer preto e da calça jeans. Suas pernas estão relaxadas, com a calça jeans de lavagem clara claramente visível. O interior do carro exibe bancos de couro marrom com costura clara e um painel de porta preto. Um fundo desfocado de árvores e arbustos verdes é visível através da janela do carro. A luz natural do dia é suave e valorizadora. A composição é em plano médio, com profundidade de campo reduzida, deixando os detalhes do carro e o fundo suavemente desfocados. A qualidade da foto é em alta resolução, com cores e texturas naturais.
 ```
 
 [↑ Voltar às categorias](#catalog)
