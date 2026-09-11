@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T06:22:49.517Z",
+  "model": "grok",
+  "prompt": "Lake Ontario",
+  "promptTranslations": {
+    "en": "Lake Ontario"
+  },
+  "summaryTranslations": {
+    "en": "Lake Ontario"
+  },
+  "translationVersion": 2,
+  "summary": "Lake Ontario",
+  "summaryEn": "Lake Ontario",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098287896872567292",
+    "canonicalUrl": "https://x.com/jrwimaging/status/2098287896872567292",
+    "author": {
+      "username": "jrwimaging",
+      "displayName": "John R. Whitney",
+      "profileUrl": "https://x.com/jrwimaging"
+    },
+    "publishedAt": "2026-09-11T05:49:53.000Z",
+    "collectedAt": "2026-09-11T06:03:47.121Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nLake Ontario https://t.co/So9El6Ewce",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/jrwimaging/status/2098287896872567292",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098287881739489282/img/OsMPRZax6rVXf0kR.jpg",
+        "analysisUrl": "https://x.com/jrwimaging/status/2098287896872567292"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/jrwimaging/status/2098287896872567292",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098287881739489282/img/OsMPRZax6rVXf0kR.jpg",
+  "coverPath": "covers/2098287896872567292.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098287881739489282",
+    "x-post:2098287896872567292"
+  ],
+  "analysis": {
+    "summary": "Lake Ontario",
+    "summaryEn": "Lake Ontario",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The prompt specifies 'Lake Ontario', directly matching the generated wide-shot video of a vast lake under an overcast sky."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Lake Ontario",
+    "sourceRange": {
+      "start": 22,
+      "end": 34
+    },
+    "translations": {
+      "zh": "安大略湖",
+      "en": "Lake Ontario"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
