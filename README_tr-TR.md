@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098398277095821330"></a>
 
-### Çeviri sürüyor
+### Philadelphia şehir merkezinde yürüyen deve tüyü paltolu, şık siyahi bir erkeğin tam boy sokak modası portresi için fotogerçekçi istem.
 
 Yazar：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2098398277095821330)
 
@@ -43,14 +43,28 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Şehir Manz
 
 Orijinal gönderi：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2098384758145257614)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Philadelphia şehir merkezinde yürüyen deve tüyü paltolu, şık siyahi bir erkeğin tam boy sokak modası portresi için fotogerçekçi istem.
 
 <img src="covers/2098398277095821330.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Philadelphia şehir merkezinde bir kaldırımda kameraya doğru güvenle yürüyen, sert hatlı yakışıklı siyahi bir erkeğin ultra fotogerçekçi, tam boy sokak modası portresini oluşturun. Atletik erkeksi bir yapıya, tam oturan siyah bir beyzbol şapkasının altında kısa koyu renk saçlara, bakımlı gür bir sakala, küçük bir halka küpeye ve sakin, ciddi bir ifadeye sahip.
+
+Kıyafet
+Geniş klapalı, deve tüyü renginde uzun bir yün palto giyiyor; palto, bol kesim düz beyaz bir tişörtün üzerine açık bırakılmış. Bunu, bir dizinde belirgin püsküllü bir yırtık ve hafif yıpranmış detaylar bulunan, rahat kesim açık mavi kot pantolonla tamamlayın. Görünümü temiz beyaz boğazlı spor ayakkabılar, uzun ve minimalist altın uçlu bir kolye, küçük bir küpe ve gösterişli bir altın kol saati ile bitirin. Görünüm, çabasız erkeksi bir tavra sahip, lüks çağdaş sokak giyimidir.
+
+Poz
+Onu tam adım atarken, doğrudan kameraya doğru yürür vaziyette yakalayın; bir eli rahatça kot cebinde, diğer kolu ise doğal olarak yanında sarkıyor. Paltosu açık kalarak adımlarıyla hafifçe hareket ediyor. Rahat, kendinden emin bir vücut diliyle hafifçe kameranın yanına doğru bakıyor.
+
+Ortam
+Sahneyi tarihi taş binalar, şehir evi merdivenleri, siyah ferforje korkuluklar, yeşillikler, sokak lambaları, trafik, yayalar ve bir Broad Street metro girişi ile Center City Philadelphia'da konumlandırın. Philadelphia Belediye Binası ve saat kulesi uzakta net bir şekilde tanınabilir olmalı; bu da fotoğrafa belirgin bir Philadelphia kimliği kazandırırken yine de doğal bir şehir anı gibi hissettirmelidir.
+
+Fotoğrafçılık ve Sinematografi
+Birinci sınıf çağdaş sokak modası fotoğrafçılığı, tepeden tırnağa tam boy kadraj, göz hizası perspektifi ve 50–70 mm lens görünümü kullanın. Sıcak ikindi güneşi, deve tüyü palto boyunca güzel parıltılar ve yüzünde doğal, boyut katan bir ışık oluşturur. Kontrollü arka plan ayrımı, gerçekçi cilt ve sakal dokusu, detaylı yün ve kot kumaşı, doğal şehir derinliği, hafif fotoğraf greni ve seçkin editoryal renk derecelendirmesi ile özneyi son derece keskin tutun.
+
+Kaçının: plastik veya sahte cilt, aşırı rötuş, abartılı kaslar, fazla resmi giyim tarzı, aşırı logolar, donuk pozlar, boş sokaklar, yapay simge yapılar, aşırı bokeh, CGI görünümü, aşırı doygunluk veya vitrin mankeni estetiği.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098398277095821330"></a>
 
-### Đang dịch
+### Prompt chân thực cho bức chân dung thời trang đường phố toàn thân của một người đàn ông da đen phong cách mặc áo khoác màu lạc đà đang dạo bước qua trung tâm thành phố Philadelphia.
 
 Tác giả：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Bài gốc](https://x.com/PrometheanAIX/status/2098398277095821330)
 
@@ -43,14 +43,28 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 Bài gốc：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Bài gốc](https://x.com/PrometheanAIX/status/2098384758145257614)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chân thực cho bức chân dung thời trang đường phố toàn thân của một người đàn ông da đen phong cách mặc áo khoác màu lạc đà đang dạo bước qua trung tâm thành phố Philadelphia.
 
 <img src="covers/2098398277095821330.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức chân dung thời trang đường phố toàn thân siêu thực tế về một người đàn ông da đen nam tính, phong trần đang tự tin sải bước về phía máy ảnh trên vỉa hè trung tâm thành phố Philadelphia. Anh ấy có vóc dáng cơ bắp thể thao, mái tóc ngắn đen dưới chiếc mũ lưỡi trai bóng chày màu đen vừa vặn, bộ râu quai nón rậm được cắt tỉa gọn gàng, khuyên tai tròn nhỏ và biểu cảm điềm tĩnh, nghiêm nghị.
+
+Trang phục
+Anh ấy mặc một chiếc áo khoác dạ dáng dài màu lạc đà với ve áo rộng, để mở tà khoác ngoài một chiếc áo phông trắng trơn dáng rộng (oversized). Phối cùng quần jean xanh sáng màu ống rộng thoải mái, có một vết rách tưa lớn ở một bên đầu gối cùng các chi tiết mài sờn tinh tế. Hoàn thiện với đôi giày thể thao cổ cao màu trắng sạch sẽ, một dây chuyền mặt vàng dài tối giản, khuyên tai nhỏ và một chiếc đồng hồ đeo tay bằng vàng bản to. Phong cách toát lên vẻ thời trang đường phố đương đại cao cấp với nét nam tính cuốn hút tự nhiên.
+
+Cách tạo dáng
+Bắt trọn khoảnh khắc anh ấy đang sải bước đi thẳng về phía máy ảnh, một tay đút hờ hững vào túi quần jean trong khi tay kia buông thõng tự nhiên. Chiếc áo khoác mở tà và chuyển động nhẹ nhàng theo từng bước đi. Anh ấy nhìn hơi chếch qua máy ảnh với ngôn ngữ cơ thể thư thái, tự tin.
+
+Bối cảnh
+Đặt bối cảnh tại Center City Philadelphia, với các tòa nhà đá lịch sử, bậc thềm nhà phố, lan can sắt rèn màu đen, cây xanh, đèn đường, xe cộ, người đi bộ và lối vào ga tàu điện ngầm Broad Street. Tòa thị chính Philadelphia và tháp đồng hồ có thể nhận ra rõ ràng từ phía xa, mang lại bản sắc Philadelphia không thể nhầm lẫn cho bức ảnh trong khi vẫn tạo cảm giác như một khoảnh khắc đời thường tự nhiên của thành phố.
+
+Nhiếp ảnh & Điện ảnh
+Sử dụng phong cách nhiếp ảnh thời trang đường phố đương đại cao cấp, khung hình toàn thân từ đầu đến chân, góc nhìn ngang tầm mắt và hiệu ứng ống kính 50–70mm. Ánh nắng ấm áp cuối chiều tạo ra những vệt sáng nổi bật tuyệt đẹp dọc theo áo khoác màu lạc đà và ánh sáng tạo khối tự nhiên trên khuôn mặt anh ấy. Giữ cho chủ thể sắc nét hoàn hảo với độ tách biệt hậu cảnh được kiểm soát tốt, kết cấu da và râu chân thực, chi tiết vải len và vải denim rõ nét, chiều sâu thành phố tự nhiên, hạt phim (grain) tinh tế và bảng màu chỉnh sửa biên tập xuất sắc.
+
+Tránh: da bóng như nhựa hoặc giả tạo, chỉnh sửa quá mức, cơ bắp phóng đại, phong cách quá trang trọng, quá nhiều logo, tạo dáng cứng nhắc, đường phố vắng tanh, các địa danh nhân tạo, hiệu ứng bokeh quá mức, hình ảnh trông như CGI, độ bão hòa màu quá cao, hoặc tính thẩm mỹ kiểu búp bê thời trang.
 ```
 
 [↑ Về danh mục](#catalog)

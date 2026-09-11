@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098398277095821330"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Prompt für ein Ganzkörper-Street-Fashion-Porträt eines stilvollen schwarzen Mannes im kamelfarbenen Mantel, der durch die Innenstadt von Philadelphia geht.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2098398277095821330)
 
@@ -43,14 +43,14 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Stadtbild / Stra�
 
 Originalbeitrag：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2098384758145257614)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Prompt für ein Ganzkörper-Street-Fashion-Porträt eines stilvollen schwarzen Mannes im kamelfarbenen Mantel, der durch die Innenstadt von Philadelphia geht.
 
 <img src="covers/2098398277095821330.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein ultrafotorealistisches Ganzkörper-Street-Fashion-Porträt eines markant gutaussehenden schwarzen Mannes, der selbstbewusst auf einem Gehweg in der Innenstadt von Philadelphia auf die Kamera zugeht. Er hat einen athletischen, maskulinen Körperbau, kurzes dunkles Haar unter einer eng anliegenden schwarzen Baseballkappe, einen gepflegten Vollbart, einen kleinen Creolen-Ohrring und einen ruhigen, ernsten Gesichtsausdruck. Outfit: Er trägt einen langen kamelfarbenen Wollmantel mit breitem Revers, offen über einem schlichten weißen Oversized-T-Shirt. Dazu eine lockere hellblaue Jeans mit Waschung, einschließlich eines großen ausgefransten Risses an einem Knie und dezenten Distressed-Details. Abgerundet wird das Outfit mit sauberen weißen High-Top-Sneakern, einer langen minimalistischen Halskette mit Goldanhänger, einem kleinen Ohrring und einer massiven goldenen Armbanduhr. Der Look ist gehobene zeitgenössische Streetwear mit einer mühelosen maskulinen Note. Pose: Halte ihn mitten im Schritt fest, wie er direkt auf die Kamera zugeht, eine Hand lässig in der Jeanstasche, während der andere Arm natürlich hängt. Sein Mantel fällt offen und bewegt sich sanft mit seinen Schritten. Er blickt leicht an der Kamera vorbei mit einer entspannten, selbstsicheren Körpersprache. Umgebung: Platziere die Szene in Center City Philadelphia, mit historischen Steingebäuden, Stadthaustreppen, schwarzen schmiedeeisernen Geländern, Grünflächen, Straßenlaternen, Verkehr, Fußgängern und einem U-Bahn-Eingang an der Broad Street. Die Philadelphia City Hall und ihr Uhrturm sind in der Ferne deutlich erkennbar, was dem Foto eine unverwechselbare Philadelphia-Identität verleiht, während es sich dennoch wie ein natürlicher Moment in der Stadt anfühlt. Fotografie & Kinematographie: Verwende erstklassige zeitgenössische Street-Fashion-Fotografie, vollständiges Framing von Kopf bis Fuß, Augenhöhenperspektive und den Look eines 50–70-mm-Objektivs. Warmes spätnachmittägliches Sonnenlicht erzeugt wunderschöne Glanzlichter entlang des Kamelhaarmantels und natürliches, dimensionales Licht im Gesicht. Halte das Motiv gestochen scharf mit kontrollierter Hintergrundtrennung, realistischer Haut- und Bartstruktur, detaillierter Wolle und Denim, natürlicher Stadttiefe, feinem fotografischem Korn und exquisitem redaktionellem Color Grading. Vermeiden: plastische oder künstliche Haut, übermäßige Retusche, übertriebene Muskeln, übermäßig formelles Styling, übermäßige Logos, steifes Posieren, leere Straßen, künstliche Wahrzeichen, übermäßiges Bokeh, CGI-Erscheinung, Übersättigung oder Modepuppen-Ästhetik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

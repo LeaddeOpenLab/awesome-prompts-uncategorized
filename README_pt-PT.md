@@ -35,7 +35,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098398277095821330"></a>
 
-### Tradução em curso
+### Prompt fotorrealista para um retrato de moda de rua de corpo inteiro de um homem negro elegante com sobretudo cor camelo a caminhar pelo centro de Filadélfia.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2098398277095821330)
 
@@ -43,14 +43,28 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Paisagem urbana 
 
 Publicação original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2098384758145257614)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt fotorrealista para um retrato de moda de rua de corpo inteiro de um homem negro elegante com sobretudo cor camelo a caminhar pelo centro de Filadélfia.
 
 <img src="covers/2098398277095821330.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um retrato de moda de rua de corpo inteiro ultrafotorrealista de um homem negro de beleza rústica e marcante caminhando com confiança em direção à câmara num passeio no centro de Filadélfia. Ele tem constituição atlética e masculina, cabelo escuro curto sob um boné de basebol preto justo, barba farta e bem cuidada, pequeno brinco de argola e uma expressão calma e séria.
+
+Visual
+Ele veste um sobretudo comprido de lã em tom camelo com lapelas largas, aberto sobre uma t-shirt branca lisa oversized. Combine com calças de ganga azuis de lavagem clara e corte descontraído, incluindo um rasgão largo desfiado num dos joelhos e detalhes desgastados subtis. Complete com sapatilhas brancas de cano alto impecáveis, um colar comprido minimalista com pendente dourado, brinco pequeno e um relógio de pulso dourado substancial. O visual é streetwear contemporâneo requintado com uma atitude masculina espontânea.
+
+Pose
+Capte-o a meio do passo a caminhar diretamente em direção à câmara, com uma mão casualmente metida no bolso das calças enquanto o outro braço pende naturalmente. O casaco abre-se e move-se subtilmente com o seu passo. Ele olha ligeiramente para lá da câmara, com uma linguagem corporal descontraída e segura de si.
+
+Ambiente
+Defina o cenário em Center City Philadelphia, com edifícios históricos de pedra, escadarias de townhouses, grades de ferro forjado pretas, vegetação, candeeiros de rua, trânsito, peões e uma entrada de metro de Broad Street. A Philadelphia City Hall e a sua torre do relógio são claramente reconhecíveis ao longe, conferindo à fotografia uma identidade inconfundível de Filadélfia sem deixar de parecer um momento urbano natural.
+
+Fotografia e Cinematografia
+Utilize fotografia de moda de rua contemporânea de excelência, enquadramento integral da cabeça aos pés, perspetiva ao nível dos olhos e aparência de lente de 50–70 mm. A luz solar quente de fim de tarde cria realces deslumbrantes ao longo do sobretudo camelo e iluminação dimensional natural no rosto. Mantenha o sujeito extremamente nítido com separação de fundo controlada, textura realista de pele e barba, pormenor apurado da lã e da ganga, profundidade urbana natural, grão fotográfico subtil e gradação de cor editorial requintada.
+
+Evite: pele plástica ou falsa, retoques excessivos, músculos exagerados, estilo excessivamente formal, logótipos excessivos, poses rígidas, ruas vazias, marcos artificiais, bokeh excessivo, aparência CGI, saturação excessiva ou estética de manequim.
 ```
 
 [↑ Voltar às categorias](#catalog)

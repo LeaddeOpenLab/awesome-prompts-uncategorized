@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098398277095821330"></a>
 
-### Traduzione in corso
+### Prompt fotorealistico per un ritratto street-fashion a figura intera di un elegante uomo nero con cappotto cammello che cammina nel centro di Filadelfia.
 
 Autore：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Post originale](https://x.com/PrometheanAIX/status/2098398277095821330)
 
@@ -43,14 +43,14 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Paesaggio 
 
 Post originale：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Post originale](https://x.com/PrometheanAIX/status/2098384758145257614)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotorealistico per un ritratto street-fashion a figura intera di un elegante uomo nero con cappotto cammello che cammina nel centro di Filadelfia.
 
 <img src="covers/2098398277095821330.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un ritratto di street fashion a figura intera ultra-fotorealistico di un uomo nero affascinante e dallo stile deciso che cammina con sicurezza verso la fotocamera su un marciapiede del centro di Filadelfia. Ha una corporatura atletica e mascolina, capelli corti scuri sotto un cappellino da baseball nero su misura, una barba piena ben curata, un piccolo orecchino a cerchio e un'espressione calma e seria. Outfit: Indossa un lungo soprabito di lana color cammello con ampi revers, aperto sopra una t-shirt bianca semplice oversize. Abbinalo a jeans blu a lavaggio chiaro dal taglio comodo, con un ampio strappo sfilacciato su un ginocchio e sottili dettagli consumati. Completa con sneakers alte bianche impeccabili, una lunga collana minimalista con ciondolo d'oro, un piccolo orecchino e un imponente orologio da polso d'oro. Il look è uno streetwear contemporaneo di alto livello con una naturale disinvoltura mascolina. Posa: Immortalalo a metà falcata mentre cammina direttamente verso la fotocamera, con una mano casualmente nella tasca dei jeans mentre l'altro braccio scende naturalmente. Il cappotto si apre e si muove sottilmente al passo. Guarda leggermente oltre l'obiettivo con un linguaggio del corpo rilassato e sicuro di sé. Ambiente: Ambienta la scena a Center City Philadelphia, con storici edifici in pietra, scalinate di case a schiera, ringhiere in ferro battuto nero, piante, lampioni, traffico, pedoni e un ingresso della metropolitana di Broad Street. Il municipio di Filadelfia e la sua torre dell'orologio sono chiaramente riconoscibili in lontananza, conferendo alla fotografia un'identità inconfondibile di Filadelfia pur mantenendo la sensazione di un momento urbano naturale. Fotografia e cinematografia: Usa una fotografia di street fashion contemporanea di alta qualità, inquadratura completa dalla testa ai piedi, prospettiva ad altezza occhi e resa da obiettivo 50–70mm. La calda luce del sole del tardo pomeriggio crea splendidi riflessi lungo il cappotto cammello e una luce dimensionale naturale sul suo viso. Mantieni il soggetto nitidissimo con una separazione controllata dello sfondo, texture realistica della pelle e della barba, lana e denim dettagliati, naturale profondità cittadina, sottile grana fotografica e una raffinata gradazione del colore editoriale. Evitare: pelle di plastica o finta, fotoritocco eccessivo, muscoli esagerati, stile eccessivamente formale, loghi eccessivi, pose rigide, strade vuote, monumenti artificiali, bokeh eccessivo, aspetto CGI, ipersaturazione o estetica da bambola di moda.
 ```
 
 [↑ Torna alle categorie](#catalog)

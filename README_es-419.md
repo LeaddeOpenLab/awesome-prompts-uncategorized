@@ -35,7 +35,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2098398277095821330"></a>
 
-### Traducción en curso
+### Prompt fotorrealista para un retrato de moda urbana de cuerpo entero de un hombre negro elegante con abrigo camel caminando por el centro de Filadelfia.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicación original](https://x.com/PrometheanAIX/status/2098398277095821330)
 
@@ -43,14 +43,14 @@ Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Paisaje urb
 
 Publicación original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicación original](https://x.com/PrometheanAIX/status/2098384758145257614)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt fotorrealista para un retrato de moda urbana de cuerpo entero de un hombre negro elegante con abrigo camel caminando por el centro de Filadelfia.
 
 <img src="covers/2098398277095821330.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato de moda urbana de cuerpo entero y ultra fotorrealista de un hombre negro de aspecto rudo y atractivo que camina con seguridad hacia la cámara sobre una acera del centro de Filadelfia. Tiene una complexión atlética y masculina, cabello corto y oscuro bajo una gorra de béisbol negra ajustada, una barba completa bien recortada, un pequeño arete de aro y una expresión tranquila y seria. Atuendo: Viste un abrigo largo de lana color camel con solapas anchas, abierto sobre una camiseta blanca lisa oversize. Combínalo con unos jeans holgados de lavado claro, incluyendo una gran rasgadura deshilachada en una rodilla y detalles desgastados sutiles. Completa con zapatillas altas blancas e impecables, un collar largo y minimalista con dije de oro, un pequeño arete y un reloj de pulsera de oro imponente. El estilo es de moda urbana contemporánea y sofisticada con un porte masculino y natural. Pose: Captúralo a mitad de paso caminando directamente hacia la cámara, con una mano casualmente dentro del bolsillo de sus jeans mientras el brazo opuesto cuelga de manera natural. Su abrigo se abre y se mueve sutilmente con su paso. Mira ligeramente más allá de la cámara con un lenguaje corporal relajado y seguro de sí mismo. Entorno: Ubica la escena en Center City, Filadelfia, con edificios históricos de piedra, escalones de casas adosadas, barandillas de hierro forjado negro, vegetación, farolas, tráfico, peatones y una entrada al metro de Broad Street. El Ayuntamiento de Filadelfia y su torre del reloj son claramente reconocibles a la distancia, otorgando a la fotografía una identidad inconfundible de Filadelfia mientras se mantiene la sensación de un momento urbano natural. Fotografía y cinematografía: Utiliza fotografía de moda urbana contemporánea de alta calidad, encuadre completo de pies a cabeza, perspectiva a la altura de los ojos y un efecto de lente de 50–70 mm. La cálida luz solar de la tarde tardía crea hermosos reflejos a lo largo del abrigo color camel y una luz dimensional natural en su rostro. Mantén al sujeto nítido con una separación de fondo controlada, textura realista de la piel y la barba, lana y mezclilla detalladas, profundidad de ciudad natural, grano fotográfico sutil y una exquisita gradación de color editorial. Evitar: piel plástica o falsa, retoque excesivo, músculos exagerados, estilo excesivamente formal, logotipos excesivos, poses rígidas, calles vacías, puntos de referencia artificiales, bokeh excesivo, apariencia de CGI, sobresaturación o estética de muñeco de moda.
 ```
 
 [↑ Volver a categorías](#catalog)

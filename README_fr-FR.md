@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098398277095821330"></a>
 
-### Traduction en cours
+### Prompt photoréaliste pour un portrait de mode urbaine en pied d'un homme noir élégant en manteau camel marchant dans le centre-ville de Philadelphie.
 
 Auteur：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publication originale](https://x.com/PrometheanAIX/status/2098398277095821330)
 
@@ -43,14 +43,14 @@ Photographie · Portrait / Selfie · Personnage · Article de mode · Paysage ur
 
 Publication originale：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publication originale](https://x.com/PrometheanAIX/status/2098384758145257614)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt photoréaliste pour un portrait de mode urbaine en pied d'un homme noir élégant en manteau camel marchant dans le centre-ville de Philadelphie.
 
 <img src="covers/2098398277095821330.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un portrait de mode urbaine en pied et ultra-photoréaliste d'un homme noir viril et séduisant marchant avec assurance vers l'appareil photo sur un trottoir du centre-ville de Philadelphie. Il a une carrure athlétique et masculine, des cheveux courts et foncés sous une casquette de baseball noire ajustée, une barbe complète soigneusement taillée, une petite boucle d'oreille anneau et une expression calme et sérieuse. Tenue : Il porte un long pardessus en laine couleur camel à larges revers, ouvert sur un t-shirt blanc uni oversize. Associez-le à un jean bleu délavé clair à coupe décontractée, présentant une grande déchirure effilochée sur un genou et de subtils détails usés. Complétez avec des baskets montantes blanches immaculées, un long collier minimaliste à pendentif en or, une petite boucle d'oreille et une imposante montre-bracelet en or. Le style est un streetwear contemporain haut de gamme avec une touche masculine naturelle. Pose : Capturez-le en plein pas, marchant directement vers l'appareil photo, une main nonchalamment glissée dans la poche de son jean tandis que l'autre bras pend naturellement. Son manteau s'ouvre et bouge subtilement au rythme de sa démarche. Il regarde légèrement au-delà de l'objectif avec un langage corporel détendu et sûr de lui. Environnement : Situez la scène dans Center City, Philadelphie, avec des bâtiments historiques en pierre, des perrons de maisons de ville, des garde-corps en fer forgé noir, de la verdure, des lampadaires, de la circulation, des piétons et une entrée de métro sur Broad Street. L'hôtel de ville de Philadelphie et sa tour de l'horloge sont clairement reconnaissables au loin, conférant à la photographie une identité indubitable de Philadelphie tout en donnant l'impression d'un moment urbain naturel. Photographie et cinématographie : Utilisez une photographie de mode urbaine contemporaine haut de gamme, un cadrage complet de la tête aux pieds, une perspective à hauteur des yeux et un rendu d'objectif 50–70 mm. La chaude lumière du soleil de fin d'après-midi crée de superbes reflets le long du manteau camel et une lumière dimensionnelle naturelle sur son visage. Gardez le sujet parfaitement net avec une séparation contrôlée de l'arrière-plan, une texture réaliste de la peau et de la barbe, de la laine et du denim détaillés, une profondeur de ville naturelle, un grain photographique subtil et un étalonnage des couleurs éditorial exquis. Éviter : peau plastique ou fausse, retouche excessive, muscles exagérés, style trop formel, logos excessifs, pose rigide, rues vides, monuments artificiels, bokeh excessif, apparence CGI, sursaturation ou esthétique de poupée de mode.
 ```
 
 [↑ Retour aux catégories](#catalog)
