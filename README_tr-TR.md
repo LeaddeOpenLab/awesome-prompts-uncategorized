@@ -1111,13 +1111,13 @@ Poster / El İlanı · Retro / Vintage · Yayımlandı
 
 <a name="prompt-2098351198072111552"></a>
 
-### Çeviri sürüyor
+### Vintage kâğıt, pul perforasyonu ve gerçek fotoğrafik afiş mizanpajını birleştiren iki bölümlü &quot;pul pencereli seyahat notları&quot; mizanpaj istemi.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098351198072111552)
 
 Poster / El İlanı · Fotoğrafçılık · Retro / Vintage · Metin / Tipografi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Vintage kâğıt, pul perforasyonu ve gerçek fotoğrafik afiş mizanpajını birleştiren iki bölümlü &quot;pul pencereli seyahat notları&quot; mizanpaj istemi.
 
 <img src="images/2098351198072111552-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1130,7 +1130,58 @@ Poster / El İlanı · Fotoğrafçılık · Retro / Vintage · Metin / Tipografi
 **İstem**
 
 ```text
-Çeviri sürüyor
+Girdi görseli 1, aslına sadık kalınarak kullanılması gereken seyahat fotoğrafıdır; Girdi görseli 2 ise yalnızca mizanpaj, kâğıt, pul perforasyonu, posta damgası ve metin hiyerarşisi için referans niteliğindedir; Girdi görseli 2'deki spesifik konumu veya nesneyi kopyalamayın.
+
+Girdi görseli 1'i, 3:4 dikey formatta bir "pul pencereli seyahat notları" editoryal afişine dönüştürün. İllüstrasyon tarzına kaçmadan kesinlikle iki bölümlü bir mizanpaj uygulayın; tüm fotoğraf alanlarında Girdi görseli 1'deki aynı gerçek sahne kullanılmalıdır.
+
+Üst bölüm görselin yaklaşık %37'sini kaplar:
+
+Gerçek kâğıt liflerini, hafif kırışıklıkları, doğal lekeleri ve yumuşak gölgeleri koruyan, sıcak, açık fildişi rengi vintage bir kâğıt yerleştirin.
+
+Sol tarafa koyu gri-siyah renkte iki satırlık eski daktilo metni yerleştirin:
+
+[Konum veya hatıra başlığı]
+FIELD NOTE [Numara]
+
+Başlık daha büyüktür, alan karakter aralığı uygun şekilde açılmıştır ve etrafında yeterli kâğıt boşluğu bırakılmıştır.
+
+Sağ tarafa, üst alanın yaklaşık %58'i genişliğinde yatay bir fotoğraf pulu yerleştirin. Pulun içinde, ana nesne korunarak yatay kadraja uygun şekilde kırpılmış, Girdi görseli 1'deki gerçek fotoğraf kullanılır.
+
+Fotoğraf pulu şu özelliklere sahiptir:
+
+- Sıcak beyaz renkte kalın kâğıt kenarlık;
+- Dört bir yanında düzenli yarım daire biçimli kalıp kesim perforasyon delikleri;
+- Hafif bir kâğıt kalınlığı hissi;
+- Ölçülü, doğal bir temas gölgesi;
+- Hafif eskitilmiş ancak muntazam kâğıt kenarları.
+
+Pulun sağ alt köşesine, kısmen kenarın dışına taşan eski siyah bir posta damgası bindirin. Damga, fotoğrafın ana konusunu kapatmayacak şekilde yıpranmış, soluk ve yarı saydam mürekkep dokusuna sahip tamamlanmamış bir daire ve üç paralel dalgalı çizgi içerir.
+
+Alt bölüm görselin yaklaşık %63'ünü kaplar:
+
+Girdi görseli 1'deki aynı gerçek fotoğrafın kenardan kenara taşarak alanı tamamen kaplamasını sağlayın. 3:4 afişe göre doğal bir kırpma uygulayın; fotoğraftaki mevcut olmayan nesneleri eklemeden orijinal özneleri, insanları, mimariyi, perspektifi, ışığı ve renkleri koruyun.
+
+Alt bölüm gerçek fotoğraf dokusunu korumalı; sulu boya, anime, gravür veya karakalem çizime dönüşmemelidir.
+
+Alt fotoğrafın sol alt köşesine, görselin yaklaşık %25–%32'si genişliğinde sıcak beyaz kâğıttan yapılmış küçük, yatay bir cümle etiketi yerleştirin. Etiketin hafif bir kâğıt kalınlığı ve yumuşak bir gölgesi bulunur; içinde en fazla iki satırlık eski daktiloyla yazılmış bir gözlem cümlesi yer alır:
+
+[Fotoğraf sahnesiyle doğrudan ilişkili kısa bir gözlem cümlesi]
+
+Kritik perforasyon kuralı:
+
+Üstteki fotoğraf pulu ile alttaki cümle etiketi tamamen aynı kalıp kesim perforasyon sistemini kullanmalıdır:
+
+- Aynı delik çapı;
+- Aynı dairesel kavis derinliği;
+- Aynı merkez aralığı;
+- Aynı yarım daire çentik formu;
+- Aynı kâğıt kenarlık payı genişliği.
+
+İki kâğıdın boyutları farklı diye delikler orantılı olarak ölçeklenmemelidir. Nihai üründeki deliklerin gerçek görsel boyutları birebir aynı olmalıdır; bir yerde sık, diğer yerde seyrek ve iri olamaz; testere dişi, dalgalı kenar süsü veya yırtık kâğıt çapağına dönüşmemelidir.
+
+Genel görünüm, eski bir seyahat arşivindeki fotoğraf sayfasını andırmalıdır: Üstte başlık ve pul biçiminde bir minyatür, altta aynı sahnenin büyük fotoğrafı ve perforasyonlu küçük bir kâğıt şeride basılmış bir gözlem cümlesi. Renkler orijinal fotoğraftan gelir; kâğıt yüzeyi sadedir, bilgi az ve özdür.
+
+Kaçınılması gerekenler: İllüstrasyona dönüştürme, sulu boya, anime, gravür, eşit boyutlu iki parçalı sıradan karşılaştırma görselleri, çok sayıda pul, aşırı posta damgası, ajanda/günlük çıkartması yığını, yapışkan bant, sağ-sol sütun ayrımı, alt kısımda geniş kâğıt alanları, yazar isimleri, markalar, logolar, URL'ler, karekodlar, filigranlar, anlamsız karakterler ve fazladan metinler.
 ```
 
 [↑ Kategorilere dön](#catalog)

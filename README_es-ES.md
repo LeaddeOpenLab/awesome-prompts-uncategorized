@@ -1123,13 +1123,13 @@ Traducción en curso
 
 <a name="prompt-2098351198072111552"></a>
 
-### Traducción en curso
+### Un prompt de diseño de póster en dos partes estilo «notas de viaje en ventana de sello», que combina papel vintage, perforaciones de sellos y fotografía real.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2098351198072111552)
 
 Póster / Folleto · Fotografía · Retro / Vintage · Texto / Tipografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt de diseño de póster en dos partes estilo «notas de viaje en ventana de sello», que combina papel vintage, perforaciones de sellos y fotografía real.
 
 <img src="images/2098351198072111552-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1142,7 +1142,58 @@ Póster / Folleto · Fotografía · Retro / Vintage · Texto / Tipografía · Pu
 **Prompt**
 
 ```text
-Traducción en curso
+La imagen de entrada 1 es la fotografía de viaje que debe utilizarse fielmente; la imagen de entrada 2 sirve únicamente como referencia de maquetación, papel, perforaciones de sello, matasellos y jerarquía de texto; no copie la ubicación específica ni el sujeto de la imagen de entrada 2.
+
+Transforme la imagen de entrada 1 en un póster editorial vertical 3:4 estilo «notas de viaje en ventana de sello postal». Adopte estrictamente un diseño de dos secciones, sin tratamiento ilustrativo; todas las áreas fotográficas deben utilizar la misma escena real de la imagen de entrada 1.
+
+La parte superior ocupa aproximadamente el 37% del encuadre:
+
+Coloque un papel antiguo en tono marfil claro y cálido, conservando las fibras reales del papel, ligeros pliegues, manchas naturales y sombras suaves.
+
+A la izquierda, coloque dos líneas de texto de máquina de escribir antigua en gris oscuro/negro:
+
+[Lugar o título del recuerdo]
+FIELD NOTE [Número]
+
+El título es más grande, el espaciado entre caracteres del campo está adecuadamente separado y se mantiene suficiente espacio en blanco alrededor del papel.
+
+A la derecha, coloque un sello postal fotográfico horizontal, de un ancho aproximado al 58% del área superior. Dentro del sello, utilice la fotografía real de la imagen de entrada 1, recortada adecuadamente para el encuadre horizontal mientras se conserva el sujeto principal.
+
+El sello fotográfico presenta:
+
+- Borde de papel grueso blanco cálido;
+- Perforaciones troqueladas semicirculares regulares en todo el contorno;
+- Ligero grosor de papel;
+- Sombra de contacto comedida y natural;
+- Bordes de papel ligeramente envejecidos pero limpios.
+
+En la esquina inferior derecha del sello, superponga un matasellos antiguo negro que sobrepase parcialmente el marco. El matasellos incluye un círculo incompleto y tres líneas onduladas paralelas, con textura de tinta desgastada, descolorida y semitransparente, sin tapar el sujeto principal de la foto.
+
+La parte inferior ocupa aproximadamente el 63% del encuadre:
+
+Deje que la misma fotografía real de la imagen de entrada 1 se extienda de borde a borde sin márgenes. Recórtela de forma natural según el formato de póster 3:4, manteniendo el sujeto original, personas, arquitectura, perspectiva, iluminación y colores, sin añadir elementos inexistentes.
+
+La parte inferior debe conservar la textura de fotografía real, sin convertirse en acuarela, anime, grabado ni boceto.
+
+En la parte inferior izquierda de la foto inferior, coloque una pequeña etiqueta de texto horizontal de papel blanco cálido, con un ancho aproximado del 25% al 32% del encuadre. La etiqueta tiene un ligero grosor de papel y una sombra suave, conteniendo únicamente una frase de observación en máquina de escribir antigua de no más de dos líneas:
+
+[Una breve frase de observación directamente relacionada con la escena de la foto]
+
+Regla fundamental de perforación:
+
+El sello fotográfico superior y la etiqueta de texto inferior deben utilizar exactamente el mismo sistema de perforación troquelada:
+
+- Mismo diámetro de orificio;
+- Misma profundidad de arco;
+- Mismo espacio entre centros;
+- Misma forma de muesca semicircular;
+- Mismo ancho de borde de papel.
+
+No escale proporcionalmente las perforaciones debido a los diferentes tamaños de los dos papeles. El tamaño visual real de los orificios en ambos lugares debe ser completamente idéntico en el producto final; no debe ser fino en un lado y grueso en el otro; no debe transformarse en dientes de sierra, encaje ondulado ni bordes de papel rasgado deshilachados.
+
+En general, debe parecer la página de fotos de un archivo de viaje antiguo: arriba el título y una miniatura en forma de sello, abajo una foto grande del mismo lugar y una frase de observación impresa en una pequeña tira de papel perforada. Los colores provienen de la foto original, el papel es sobrio y la información es escasa pero precisa.
+
+Evitar: conversión a ilustración, acuarela, anime, aguafuerte, imágenes comparativas ordinarias iguales arriba y abajo, múltiples sellos, exceso de matasellos, acumulación de pegatinas de diario, cinta adhesiva, división en columnas izquierda y derecha, gran superficie de papel en la parte inferior, nombre del autor, marcas, logotipos, URL, códigos QR, marcas de agua, caracteres corruptos y texto adicional.
 ```
 
 [↑ Volver a categorías](#catalog)

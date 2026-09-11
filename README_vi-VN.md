@@ -1123,13 +1123,13 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 
 <a name="prompt-2098351198072111552"></a>
 
-### Đang dịch
+### Lời nhắc bố cục áp phích &quot;Nhật ký du lịch khung tem&quot; hai phần, kết hợp giấy cổ điển, răng cưa tem thư và nhiếp ảnh thực cảnh.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098351198072111552)
 
 Áp phích / Tờ rơi · Nhiếp ảnh · Cổ điển / Cổ điển · Văn bản / Kiểu chữ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc bố cục áp phích &quot;Nhật ký du lịch khung tem&quot; hai phần, kết hợp giấy cổ điển, răng cưa tem thư và nhiếp ảnh thực cảnh.
 
 <img src="images/2098351198072111552-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1142,7 +1142,58 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh đầu vào 1 là bức ảnh du lịch bắt buộc phải sử dụng trung thực; ảnh đầu vào 2 chỉ dùng làm tài liệu tham khảo về bố cục, chất liệu giấy, răng cưa tem thư, dấu bưu điện và phân cấp văn bản, không sao chép địa điểm hoặc chủ thể cụ thể trong ảnh đầu vào 2.
+
+Chuyển ảnh đầu vào 1 thành áp phích biên tập 3:4 khổ dọc kiểu "Nhật ký du lịch khung tem". Nghiêm ngặt áp dụng bố cục hai phần, không xử lý theo phong cách minh họa; tất cả các vùng ảnh đều sử dụng cùng một cảnh thực từ ảnh đầu vào 1.
+
+Phần trên chiếm khoảng 37% khung hình:
+
+Trải một lớp giấy cũ màu ngà nhạt ấm áp, giữ lại sợi giấy thật, nếp gấp nhẹ, các đốm tự nhiên và bóng mờ mềm mại.
+
+Bên trái đặt hai dòng chữ đánh máy cũ màu xám đen đậm:
+
+[Địa điểm hoặc tiêu đề kỷ niệm]
+FIELD NOTE [Số hiệu]
+
+Tiêu đề lớn hơn, khoảng cách chữ trong trường thông tin giãn ra hợp lý, xung quanh để nhiều khoảng trắng trên mặt giấy.
+
+Bên phải đặt một con tem ảnh nằm ngang, rộng khoảng 58% vùng trên. Bên trong tem sử dụng ảnh thực từ ảnh đầu vào 1, cắt cúp cho vừa khung ngang nhưng vẫn giữ lại chủ thể cốt lõi.
+
+Tem ảnh có:
+
+- Khung viền giấy dày màu trắng ấm;
+- Lỗ răng cưa bế nửa vòng tròn đều đặn xung quanh;
+- Độ dày giấy nhẹ;
+- Đổ bóng tiếp xúc tự nhiên, chừng mực;
+- Mép giấy hơi nhuốm màu thời gian nhưng gọn gàng.
+
+Ở góc dưới bên phải con tem, xếp chồng một con dấu bưu điện cũ màu đen hơi tràn ra ngoài khung viền. Dấu bưu điện bao gồm vòng tròn khuyết và ba đường lượn sóng song song, có vân mực mòn mờ, phai màu và bán trong suốt, không được che khuất chủ thể ảnh.
+
+Phần dưới chiếm khoảng 63% khung hình:
+
+Để cùng một bức ảnh thực từ ảnh đầu vào 1 tràn viền sát mép. Cắt cúp tự nhiên theo tỷ lệ áp phích 3:4, giữ nguyên chủ thể, nhân vật, kiến trúc, phối cảnh, ánh sáng và màu sắc của ảnh gốc, không thêm thắt cảnh vật không có thật.
+
+Phần dưới bắt buộc phải giữ chất lượng nhiếp ảnh chân thực, không biến thành tranh màu nước, anime, tranh khắc hay phác thảo.
+
+Ở góc dưới bên trái của bức ảnh phần dưới, đặt một nhãn câu ngắn bằng giấy trắng ấm nằm ngang cỡ nhỏ, rộng khoảng 25%–32% khung hình. Nhãn có độ dày giấy nhẹ và bóng mờ mềm mại, bên trong chỉ chứa duy nhất một câu quan sát bằng máy đánh máy cũ không quá hai dòng:
+
+[Một câu quan sát ngắn gọn liên quan trực tiếp đến hiện trường bức ảnh]
+
+Quy tắc răng cưa then chốt:
+
+Tem ảnh phía trên và nhãn câu ngắn phía dưới bắt buộc phải sử dụng cùng một hệ thống răng cưa bế lỗ:
+
+- Cùng đường kính lỗ;
+- Cùng độ sâu vòng cung;
+- Cùng khoảng cách tâm;
+- Cùng hình dạng vết lõm nửa vòng tròn;
+- Cùng độ rộng viền giấy.
+
+Không được co giãn tỷ lệ lỗ răng cưa vì kích thước hai mảnh giấy khác nhau. Kích thước thị giác thực tế của các lỗ răng cưa ở hai vị trí phải hoàn toàn đồng nhất trong thành phẩm, không được chỗ dày đặc chỗ thưa thớt; không được biến thành răng cưa nhọn, ren lượn sóng hay mép giấy xé xơ xác.
+
+Tổng thể giống như một trang ảnh trong hồ sơ lưu trữ du lịch cũ: phía trên là tiêu đề và hình thu nhỏ kiểu tem, phía dưới là ảnh lớn cùng hiện trường, một câu quan sát được in trên dải giấy có lỗ răng cưa nhỏ. Màu sắc lấy từ ảnh gốc, mặt giấy chừng mực, thông tin ít nhưng chính xác.
+
+Cần tránh: Chuyển thể minh họa, màu nước, anime, tranh khắc, hai bức ảnh đối chiếu bằng nhau trên dưới thông thường, nhiều con tem, quá nhiều dấu bưu điện, dán chồng chéo nhãn dán sổ tay, băng dính, chia cột trái phải, mặt giấy chiếm diện tích lớn ở phần đáy, tên tác giả, thương hiệu, logo, URL, mã QR, hình mờ, chữ lỗi và văn bản thừa.
 ```
 
 [↑ Về danh mục](#catalog)

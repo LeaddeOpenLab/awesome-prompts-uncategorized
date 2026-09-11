@@ -1111,13 +1111,13 @@ Tradução em andamento
 
 <a name="prompt-2098351198072111552"></a>
 
-### Tradução em andamento
+### Um prompt de layout em duas seções no estilo &quot;notas de viagem com janela de selo&quot;, combinando papel vintage, picotes de selo postal e diagramação de pôster de fotografia real.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098351198072111552)
 
 Pôster / Flyer · Fotografia · Retrô / Vintage · Texto / Tipografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt de layout em duas seções no estilo &quot;notas de viagem com janela de selo&quot;, combinando papel vintage, picotes de selo postal e diagramação de pôster de fotografia real.
 
 <img src="images/2098351198072111552-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1130,7 +1130,58 @@ Pôster / Flyer · Fotografia · Retrô / Vintage · Texto / Tipografia · Publi
 **Prompt**
 
 ```text
-Tradução em andamento
+A Imagem de entrada 1 é a foto de viagem que deve ser fielmente utilizada; a Imagem de entrada 2 serve apenas como referência de diagramação, papel, picote de selo, carimbo postal e hierarquia de texto — não copie o local ou sujeito específico da Imagem de entrada 2.
+
+Transforme a Imagem de entrada 1 em um pôster editorial vertical 3:4 no estilo "notas de viagem com janela de selo". Adote estritamente um layout de duas seções, sem estilização ilustrada; todas as áreas de foto devem usar a mesma cena real da Imagem de entrada 1.
+
+A seção superior ocupa aproximadamente 37% da imagem:
+
+Coloque um papel envelhecido em tom marfim claro e quente, preservando fibras reais de papel, vincos leves, manchas naturais e sombras suaves.
+
+À esquerda, insira duas linhas de texto de máquina de escrever antiga em cinza-escuro/preto:
+
+[Local ou título da memória]
+FIELD NOTE [Número]
+
+O título é maior, o espaçamento entre letras do campo é adequadamente aberto e mantém-se um bom espaço em branco sobre o papel ao redor.
+
+À direita, coloque um selo fotográfico horizontal, com largura correspondente a cerca de 58% da área superior. Dentro do selo, utiliza-se a foto real da Imagem de entrada 1, cortada adequadamente para o enquadramento horizontal, preservando o tema principal.
+
+O selo fotográfico possui:
+
+- Borda de papel espesso branco quente;
+- Picotes semicirculares vazados regulares nos quatro lados;
+- Espessura de papel discreta;
+- Sombra de contato comedida e natural;
+- Bordas de papel ligeiramente envelhecidas, porém limpas.
+
+No canto inferior direito do selo, sobreponha um carimbo postal preto antigo que ultrapasse parcialmente a borda. O carimbo contém um círculo incompleto e três linhas onduladas paralelas, com textura de tinta desgastada, desbotada e semitransparente, sem cobrir o assunto principal da foto.
+
+A seção inferior ocupa cerca de 63% da imagem:
+
+Faça com que a mesma foto real da Imagem de entrada 1 preencha de ponta a ponta sem margens. Recorte naturalmente de acordo com o pôster 3:4, mantendo os temas, pessoas, arquitetura, perspectiva, iluminação e cores da foto original, sem adicionar elementos inexistentes.
+
+A parte inferior deve manter a textura da fotografia real, sem se transformar em aquarela, anime, gravura ou esboço.
+
+No canto inferior esquerdo da foto inferior, posicione uma pequena etiqueta horizontal de papel branco quente com uma frase curta, cuja largura ocupe cerca de 25% a 32% da imagem. A etiqueta possui leve espessura de papel e sombra suave, contendo apenas uma frase de observação em máquina de escrever antiga de no máximo duas linhas:
+
+[Uma breve observação diretamente relacionada à cena da foto]
+
+Regra crucial para as perfurações:
+
+O selo fotográfico superior e a etiqueta de texto inferior devem usar exatamente o mesmo sistema de picote vazado:
+
+- Mesmo diâmetro de furo;
+- Mesma profundidade de arco circular;
+- Mesmo espaçamento central;
+- Mesmo formato de entalhe semicircular;
+- Mesma largura de borda de papel.
+
+Não dimensione proporcionalmente os picotes devido aos diferentes tamanhos de papel. O tamanho visual real dos orifícios no resultado final deve ser idêntico; não pode ser denso em uma parte e grosso em outra; não deve virar dente de serra, bordas recortadas onduladas nem rebarbas de papel rasgado.
+
+O conjunto parece uma página de fotos de um antigo arquivo de viagens: acima, título e miniatura em selo; abaixo, foto ampla da mesma cena, com uma frase de observação impressa em uma pequena tira de papel picotada. As cores vêm da foto original; a superfície do papel é contida, com pouca informação, mas precisa.
+
+Evite: conversão em ilustração, aquarela, anime, gravura em metal, comparações simples superior e inferior de tamanhos iguais, múltiplos selos, excesso de carimbos, acúmulo de adesivos de bullet journal, fita adesiva, divisão em colunas esquerda e direita, grandes áreas de papel na base, nomes de autor, marcas, logos, URLs, QR codes, marcas d'água, caracteres aleatórios e textos extras.
 ```
 
 [↑ Voltar às categorias](#catalog)

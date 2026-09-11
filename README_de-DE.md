@@ -1111,13 +1111,13 @@ Plakat / Flyer · Retro / Vintage · Veröffentlicht
 
 <a name="prompt-2098351198072111552"></a>
 
-### Übersetzung läuft
+### Ein Prompt für ein zweigeteiltes Layout im Stil „Reisenotizen mit Briefmarkenfenster“, das Vintage-Papier, Briefmarkenzähnung und reale Fotopostergestaltung kombiniert.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2098351198072111552)
 
 Plakat / Flyer · Fotografie · Retro / Vintage · Text / Typografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt für ein zweigeteiltes Layout im Stil „Reisenotizen mit Briefmarkenfenster“, das Vintage-Papier, Briefmarkenzähnung und reale Fotopostergestaltung kombiniert.
 
 <img src="images/2098351198072111552-1.jpg" alt="Bild 1" width="480" />
 
@@ -1130,7 +1130,58 @@ Plakat / Flyer · Fotografie · Retro / Vintage · Text / Typografie · Veröffe
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eingabebild 1 ist das Reisefoto, das originalgetreu verwendet werden muss; Eingabebild 2 dient ausschließlich als Referenz für Layout, Papier, Briefmarkenzähnung, Poststempel und Texthierarchie – kopieren Sie weder den konkreten Ort noch das Hauptmotiv aus Eingabebild 2.
+
+Verarbeiten Sie Eingabebild 1 zu einem redaktionellen 3:4-Hochformat-Poster im Stil von „Reisenotizen mit Briefmarkenfenster“. Verwenden Sie strikt ein zweigeteiltes Layout ohne Illustratorik; alle Fotobereiche müssen dieselbe reale Szene aus Eingabebild 1 verwenden.
+
+Der obere Abschnitt nimmt ca. 37 % des Bildes ein:
+
+Verlegen Sie warmes, hell-elfenbeinfarbenes Altpapier unter Beibehaltung echter Papierfasern, feiner Knicke, natürlicher Flecken und weicher Schatten.
+
+Auf der linken Seite stehen zwei Zeilen dunkelgrau-schwarzer Text im alten Schreibmaschinenstil:
+
+[Ort oder Erinnerungstitel]
+FIELD NOTE [Nummer]
+
+Der Titel ist größer, der Zeichenabstand des Feldes angemessen gesperrt und umgeben von ausreichend weißer Papierfläche.
+
+Auf der rechten Seite befindet sich eine querformatige Fotobriefmarke mit einer Breite von etwa 58 % des oberen Bereichs. Innerhalb der Briefmarke wird das reale Foto aus Eingabebild 1 verwendet, passend für das Querformat zugeschnitten, wobei das Hauptmotiv erhalten bleibt.
+
+Die Fotobriefmarke besitzt:
+
+- Einen warmweißen, dicken Papierrand;
+- Regelmäßige, gestanzte Halbkreis-Zähnungen an allen vier Seiten;
+- Eine feine Papierstärke;
+- Einen zurückhaltenden, natürlichen Kontaktschatten;
+- Leicht gealterte, aber saubere Papierränder.
+
+In der unteren rechten Ecke der Briefmarke überlagert ein alter schwarzer Poststempel, der teilweise über den Rand hinausragt. Der Stempel enthält einen unvollständigen Kreis und drei parallele Wellenlinien mit abgenutzter, verblasster und halbtransparenter Tintenstruktur, ohne das Hauptmotiv des Fotos zu verdecken.
+
+Der untere Abschnitt nimmt ca. 63 % des Bildes ein:
+
+Lassen Sie dasselbe reale Foto aus Eingabebild 1 randlos von Kante zu Kante verlaufen. Schneiden Sie es natürlich passend für das 3:4-Poster zu und behalten Sie Motive, Personen, Gebäude, Perspektive, Licht und Farben des Originalfotos bei, ohne nicht existierende Bildelemente hinzuzufügen.
+
+Der untere Bereich muss die Textur echter Fotografie beibehalten und darf nicht zu Aquarell, Anime, Druckgrafik oder Skizze werden.
+
+Unten links im unteren Foto wird ein kleines horizontales Textetikett aus warmweißem Papier platziert, dessen Breite etwa 25 %–32 % des Bildes beträgt. Das Etikett weist eine leichte Papierstärke und einen weichen Schatten auf und enthält lediglich einen nicht mehr als zweizeiligen Beobachtungssatz in alter Schreibmaschinenschrift:
+
+[Ein kurzer Beobachtungssatz, der sich direkt auf die Szene des Fotos bezieht]
+
+Wichtige Zähnungsregel:
+
+Die obere Fotobriefmarke und das untere Textetikett müssen exakt dasselbe Stanzzählungssystem verwenden:
+
+- Gleicher Lochdurchmesser;
+- Gleiche Bogentiefe;
+- Gleicher Mittenabstand;
+- Gleiche halbkreisförmige Einkerbungsform;
+- Gleiche Papierrandbreite.
+
+Die Zähnung darf aufgrund der unterschiedlichen Papiergrößen nicht proportional skaliert werden. Die tatsächliche visuelle Größe der Löcher im fertigen Werk muss identisch sein; sie darf nicht an einer Stelle fein und an der anderen grob sein und darf sich nicht in Sägezähne, Wellenränder oder gerissene Papierkanten verwandeln.
+
+Das Gesamtbild gleicht einer Fotoseite aus einem alten Reise-Archiv: oben Titel und briefmarkengroße Miniaturansicht, unten ein Großfoto desselben Ortes, ein Beobachtungssatz auf einem kleinen gezähnten Papierstreifen gedruckt. Die Farben stammen aus dem Originalfoto; das Papierbild ist zurückhaltend, die Informationen sind spärlich, aber präzise.
+
+Zu vermeiden: Illustrationsumwandlung, Aquarell, Anime, Radierung, schlichte Vorher-Nachher-Vergleiche mit zwei gleich großen Hälften, mehrere Briefmarken, zu viele Poststempel, Ansammlungen von Bullet-Journal-Stickern, Klebeband, linke und rechte Spaltenaufteilung, große Papierflächen unten, Autorennamen, Marken, Logos, URLs, QR-Codes, Wasserzeichen, Zeichensalat und zusätzlicher Text.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

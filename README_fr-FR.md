@@ -1111,13 +1111,13 @@ Traduction en cours
 
 <a name="prompt-2098351198072111552"></a>
 
-### Traduction en cours
+### Un prompt de mise en page en deux sections façon « carnet de voyage à fenêtre de timbre », combinant papier vintage, perforations de timbre et composition d'affiche photographique réelle.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2098351198072111552)
 
 Affiche / Flyer · Photographie · Rétro / Vintage · Texte / Typographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt de mise en page en deux sections façon « carnet de voyage à fenêtre de timbre », combinant papier vintage, perforations de timbre et composition d'affiche photographique réelle.
 
 <img src="images/2098351198072111552-1.jpg" alt="Image 1" width="480" />
 
@@ -1130,7 +1130,58 @@ Affiche / Flyer · Photographie · Rétro / Vintage · Texte / Typographie · Pu
 **Consigne**
 
 ```text
-Traduction en cours
+L'image d'entrée 1 est la photo de voyage qui doit être fidèlement utilisée ; l'image d'entrée 2 sert uniquement de référence pour la mise en page, le papier, les perforations de timbre, le cachet postal et la hiérarchie du texte ; ne reproduisez pas le lieu spécifique ni le sujet de l'image d'entrée 2.
+
+Transformez l'image d'entrée 1 en une affiche éditoriale verticale 3:4 façon « carnet de voyage à fenêtre de timbre ». Adoptez strictement une mise en page en deux sections sans traitement illustratif ; toutes les zones photographiques doivent utiliser la même scène réelle issue de l'image d'entrée 1.
+
+La section supérieure occupe environ 37 % de l'image :
+
+Disposez un vieux papier ivoire clair et chaud, en préservant de véritables fibres de papier, de légers plis, des taches naturelles et des ombres douces.
+
+À gauche, placez deux lignes de texte de vieille machine à écrire gris foncé/noir :
+
+[Lieu ou titre du souvenir]
+FIELD NOTE [Numéro]
+
+Le titre est plus grand, l'espacement des lettres du champ est convenablement aéré, et de généreux espaces blancs sont conservés sur le papier tout autour.
+
+À droite, placez un timbre photo horizontal d'une largeur d'environ 58 % de la zone supérieure. À l'intérieur du timbre, utilisez la photo réelle de l'image d'entrée 1, recadrée pour s'adapter au format horizontal tout en conservant le sujet principal.
+
+Le timbre photo présente :
+
+- Une bordure en papier épais blanc chaud ;
+- Des perforations semi-circulaires régulières découpées à l'emporte-pièce sur les quatre côtés ;
+- Une légère épaisseur de papier ;
+- Une ombre portée de contact discrète et naturelle ;
+- Des bords de papier légèrement vieillis mais nets.
+
+Dans le coin inférieur droit du timbre, superposez un cachet postal ancien noir qui dépasse partiellement du cadre. Le cachet comprend un cercle incomplet et trois lignes ondulées parallèles, avec une texture d'encre usée, délavée et semi-transparente, sans masquer le sujet principal de la photo.
+
+La section inférieure occupe environ 63 % de l'image :
+
+Laissez la même photo réelle de l'image d'entrée 1 s'étendre d'un bord à l'autre sans marge. Recadrez-la naturellement pour le format d'affiche 3:4, en conservant le sujet, les personnages, l'architecture, la perspective, la lumière et les couleurs de la photo d'origine, sans ajouter d'éléments inexistants.
+
+La partie inférieure doit impérativement conserver une texture photographique réelle, sans devenir de l'aquarelle, de l'anime, de la gravure ou un croquis.
+
+En bas à gauche de la photo inférieure, placez une petite étiquette horizontale en papier blanc chaud contenant une courte phrase, d'une largeur représentant environ 25 % à 32 % de l'image. L'étiquette présente une légère épaisseur de papier et une ombre douce, et ne contient qu'une courte phrase d'observation tapée à la machine à écrire ancienne ne dépassant pas deux lignes :
+
+[Une brève phrase d'observation directement liée à la scène de la photo]
+
+Règle essentielle concernant les perforations :
+
+Le timbre photo supérieur et l'étiquette de texte inférieure doivent utiliser exactement le même système de perforations à l'emporte-pièce :
+
+- Même diamètre d'orifice ;
+- Même profondeur d'arc circulaire ;
+- Même espacement de centre à centre ;
+- Même forme d'encoche semi-circulaire ;
+- Même largeur de bordure de papier.
+
+Ne modifiez pas l'échelle proportionnelle des perforations en fonction des différentes tailles de papier. La taille visuelle réelle des trous sur le produit fini doit être rigoureusement identique ; elle ne doit pas être serrée d'un côté et large de l'autre ; elle ne doit pas se transformer en dents de scie, en bordures festonnées ondulées ou en déchirures fibreuses de papier.
+
+L'ensemble ressemble à une page photo d'un vieux dossier de voyage : en haut, le titre et une miniature en timbre ; en bas, une grande photo de la même scène, avec une observation imprimée sur une petite bande de papier perforée. Les couleurs proviennent de la photo originale ; la surface du papier est sobre, les informations sont limitées mais précises.
+
+À éviter : conversion en illustration, aquarelle, anime, eau-forte, simples comparaisons haut/bas de même taille, timbres multiples, surcharge de cachets postaux, accumulation d'autocollants de carnet, ruban adhésif, disposition en colonnes gauche/droite, grandes étendues de papier en bas, noms d'auteur, marques, logos, URL, codes QR, filigranes, caractères illisibles et textes superflus.
 ```
 
 [↑ Retour aux catégories](#catalog)

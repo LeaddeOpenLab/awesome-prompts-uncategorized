@@ -1111,13 +1111,13 @@ Traducción en curso
 
 <a name="prompt-2098351198072111552"></a>
 
-### Traducción en curso
+### Un prompt de maquetación de dos secciones estilo &quot;notas de viaje con ventana de estampilla&quot;, que combina papel vintage, perforaciones de estampilla y diseño de póster fotográfico real.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2098351198072111552)
 
 Póster / Volante · Fotografía · Retro / Vintage · Texto / Tipografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt de maquetación de dos secciones estilo &quot;notas de viaje con ventana de estampilla&quot;, que combina papel vintage, perforaciones de estampilla y diseño de póster fotográfico real.
 
 <img src="images/2098351198072111552-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1130,7 +1130,58 @@ Póster / Volante · Fotografía · Retro / Vintage · Texto / Tipografía · Pu
 **Prompt**
 
 ```text
-Traducción en curso
+La Imagen de entrada 1 es la fotografía de viaje que debe usarse fielmente; la Imagen de entrada 2 sirve únicamente como referencia de maquetación, papel, perforaciones de estampilla, matasellos y jerarquía tipográfica; no copie el lugar específico ni el sujeto de la Imagen de entrada 2.
+
+Transforme la Imagen de entrada 1 en un póster editorial vertical 3:4 estilo "notas de viaje con ventana de estampilla". Aplique estrictamente un diseño de dos secciones, sin ilustraciones; todas las áreas fotográficas deben usar la misma escena real de la Imagen de entrada 1.
+
+La sección superior ocupa aproximadamente el 37% de la imagen:
+
+Coloque un papel envejecido de color marfil claro y cálido, conservando las fibras de papel reales, arrugas sutiles, manchas naturales y sombras suaves.
+
+A la izquierda, coloque dos líneas de texto de máquina de escribir antigua en gris oscuro/negro:
+
+[Lugar o título del recuerdo]
+FIELD NOTE [Número]
+
+El título es más grande, el espaciado entre caracteres del campo está adecuadamente separado y se conserva suficiente espacio en blanco sobre el papel alrededor.
+
+A la derecha, coloque una estampilla fotográfica horizontal, con un ancho aproximado al 58% del área superior. Dentro de la estampilla se utiliza la fotografía real de la Imagen de entrada 1, recortada de forma adecuada para el formato horizontal mientras se conserva el sujeto central.
+
+La estampilla fotográfica presenta:
+
+- Un borde de papel grueso de color blanco cálido;
+- Perforaciones semicirculares regulares troqueladas en los cuatro lados;
+- Un grosor de papel sutil;
+- Una sombra de contacto moderada y natural;
+- Bordes de papel ligeramente envejecidos pero prolijos.
+
+En la esquina inferior derecha de la estampilla, superponga un matasellos antiguo negro que se extienda parcialmente fuera del marco. El matasellos incluye un círculo incompleto y tres líneas onduladas paralelas, con una textura de tinta desgastada, desvaída y semitransparente, sin cubrir el sujeto principal de la foto.
+
+La sección inferior ocupa aproximadamente el 63% de la imagen:
+
+Deje que la misma fotografía real de la Imagen de entrada 1 se extienda de borde a borde. Recorte naturalmente según el póster 3:4, conservando los sujetos, personas, arquitectura, perspectiva, iluminación y colores originales de la foto, sin añadir elementos inexistentes.
+
+La sección inferior debe mantener una textura fotográfica auténtica, sin convertirse en acuarela, anime, grabado o boceto.
+
+En la parte inferior izquierda de la foto inferior, coloque una pequeña etiqueta horizontal de papel blanco cálido con una frase corta, que mida aproximadamente entre el 25% y el 32% del ancho del encuadre. La etiqueta tiene un grosor de papel sutil y una sombra suave, y solo contiene una frase de máquina de escribir antigua de no más de dos líneas con una observación:
+
+[Una observación breve directamente relacionada con la escena de la foto]
+
+Regla crucial para las perforaciones:
+
+La estampilla fotográfica superior y la etiqueta de texto inferior deben usar exactamente el mismo sistema de perforaciones troqueladas:
+
+- Mismo diámetro de orificio;
+- Misma profundidad de arco circular;
+- Mismo espaciado entre centros;
+- Misma forma de muesca semicircular;
+- Mismo ancho del borde de papel.
+
+No escale proporcionalmente las perforaciones debido a los diferentes tamaños de los papeles. El tamaño visual real de los orificios en el producto final debe ser idéntico en ambos elementos; no puede ser denso en un lado y grueso en el otro; no debe convertirse en dientes de sierra, bordes ondulados festoneados ni rasgaduras irregulares de papel.
+
+El conjunto parece una página fotográfica de un viejo archivo de viajes: arriba, el título y una miniatura en estampilla; abajo, una foto grande de la misma escena, con una observación impresa en una pequeña tira de papel perforada. Los colores provienen de la foto original; la superficie de papel es sobria, con información escasa pero precisa.
+
+Evite: conversiones a ilustración, acuarela, anime, grabado al aguafuerte, imágenes comparativas simples con dos mitades de igual tamaño, múltiples estampillas, exceso de matasellos, saturación de calcomanías de libreta/bullet journal, cinta adhesiva, división en columnas izquierda y derecha, grandes áreas de papel en la parte inferior, nombres de autor, marcas, logotipos, URL, códigos QR, marcas de agua, caracteres incoherentes y texto adicional.
 ```
 
 [↑ Volver a categorías](#catalog)

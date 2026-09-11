@@ -1111,13 +1111,13 @@ Traduzione in corso
 
 <a name="prompt-2098351198072111552"></a>
 
-### Traduzione in corso
+### Un prompt per l'impaginazione a due sezioni in stile &quot;taccuino di viaggio a finestra di francobollo&quot;, che unisce carta vintage, perforazioni da francobollo e composizione di poster fotografici reali.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098351198072111552)
 
 Poster / Volantino · Fotografia · Retro / Vintage · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per l'impaginazione a due sezioni in stile &quot;taccuino di viaggio a finestra di francobollo&quot;, che unisce carta vintage, perforazioni da francobollo e composizione di poster fotografici reali.
 
 <img src="images/2098351198072111552-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1130,7 +1130,58 @@ Poster / Volantino · Fotografia · Retro / Vintage · Testo / Tipografia · Pub
 **Prompt**
 
 ```text
-Traduzione in corso
+L'Immagine di input 1 è la foto di viaggio che deve essere fedelmente utilizzata; l'Immagine di input 2 funge esclusivamente da riferimento per impaginazione, carta, dentellatura del francobollo, timbro postale e gerarchia del testo; non copiare il luogo o il soggetto specifico dell'Immagine di input 2.
+
+Trasforma l'Immagine di input 1 in un poster editoriale verticale 3:4 in stile "taccuino di viaggio a finestra di francobollo". Adotta rigorosamente un'impaginazione a due sezioni, senza resa illustrativa; tutte le aree fotografiche devono utilizzare la stessa scena reale dell'Immagine di input 1.
+
+La sezione superiore occupa circa il 37% dell'immagine:
+
+Stendi una vecchia carta color avorio chiaro e caldo, preservando le vere fibre della carta, leggere pieghe, macchie naturali e ombre morbide.
+
+Sulla sinistra, posiziona due righe di testo da vecchia macchina da scrivere in grigio scuro-nero:
+
+[Luogo o titolo del ricordo]
+FIELD NOTE [Numero]
+
+Il titolo è più grande, la spaziatura tra i caratteri del campo è adeguatamente allargata e intorno è conservato sufficiente spazio bianco della carta.
+
+Sulla destra, colloca un francobollo fotografico orizzontale, largo circa il 58% dell'area superiore. All'interno del francobollo è utilizzata la foto reale dell'Immagine di input 1, ritagliata per adattarsi al formato orizzontale pur preservando il soggetto principale.
+
+Il francobollo fotografico presenta:
+
+- Un bordo in carta spessa bianco caldo;
+- Perforazioni semicircolari fustellate regolari su tutti e quattro i lati;
+- Un leggero spessore della carta;
+- Un'ombra di contatto misurata e naturale;
+- Bordi di carta leggermente invecchiati ma netti.
+
+Nell'angolo in basso a destra del francobollo, sovrapponi un vecchio timbro postale nero parzialmente sbordante. Il timbro comprende un cerchio incompleto e tre linee ondulate parallele, con una texture di inchiostro consumato, sbiadito e semitrasparente, senza coprire il soggetto principale della foto.
+
+La sezione inferiore occupa circa il 63% dell'immagine:
+
+Fai scorrere al vivo, da bordo a bordo, la stessa fotografia reale dell'Immagine di input 1. Ritaglia naturalmente secondo il formato del poster 3:4, mantenendo il soggetto, le persone, l'architettura, la prospettiva, la luce e i colori della foto originale, senza aggiungere elementi inesistenti.
+
+La parte inferiore deve mantenere una texture fotografica reale, senza trasformarsi in acquerello, anime, incisione o schizzo.
+
+In basso a sinistra nella foto inferiore, colloca una piccola etichetta orizzontale in carta bianco caldo contenente una breve frase, con una larghezza pari a circa il 25%–32% dell'immagine. L'etichetta presenta un leggero spessore della carta e un'ombra morbida, e contiene solo una frase di osservazione di non più di due righe battuta con vecchia macchina da scrivere:
+
+[Una breve osservazione direttamente correlata alla scena della foto]
+
+Regola fondamentale per le perforazioni:
+
+Il francobollo fotografico superiore e l'etichetta di testo inferiore devono utilizzare esattamente lo stesso sistema di dentellatura fustellata:
+
+- Stesso diametro dei fori;
+- Stessa profondità dell'arco circolare;
+- Stessa distanza da centro a centro;
+- Stessa forma di intaglio semicircolare;
+- Stessa larghezza del bordo di carta.
+
+Non scalare proporzionalmente le perforazioni a causa delle diverse dimensioni della carta. La dimensione visiva effettiva dei fori nell'opera finita deve essere identica; non può essere fitta da una parte e grossolana dall'altra; non deve trasformarsi in una dentellatura a sega, smerli ondulati o bordi sfrangiati di carta strappata.
+
+L'insieme appare come la pagina fotografica di un vecchio archivio di viaggio: in alto titolo e miniatura a francobollo, in basso una grande foto della stessa scena, con una frase di osservazione stampata su una strisciolina di carta perforata. I colori provengono dalla foto originale; la superficie cartacea è sobria, le informazioni sono minime ma precise.
+
+Da evitare: trasposizioni a illustrazione, acquerello, anime, acquaforte, semplici confronti sopra-sotto di uguale dimensione, francobolli multipli, troppi timbri postali, sovrabbondanza di adesivi per bullet journal, nastro adesivo, divisione in colonne destra-sinistra, ampie zone di carta in basso, nomi di autori, marchi, loghi, URL, codici QR, filigrane, caratteri indecifrabili e testo superfluo.
 ```
 
 [↑ Torna alle categorie](#catalog)
