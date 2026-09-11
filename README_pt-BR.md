@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**80** Prompts · Última adição: **2026-09-11**
+**81** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1581,22 +1581,44 @@ Tradução em andamento
 
 ## Outros
 
-<a name="prompt-2098472353114079243"></a>
+<a name="prompt-2098498537466249640"></a>
 
 ### Tradução em andamento
+
+Autor：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Publicação original](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Alimentos / Bebidas · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098498537466249640.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098472353114079243"></a>
+
+### Uma estátua de pedra ganha vida e apresenta um balé no jardim de uma propriedade, capturada em um plano-sequência dinâmico.
 
 Autor：[@iamneubert](https://x.com/iamneubert) · [Publicação original](https://x.com/iamneubert/status/2098472353114079243)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma estátua de pedra ganha vida e apresenta um balé no jardim de uma propriedade, capturada em um plano-sequência dinâmico.
 
 <img src="covers/2098472353114079243.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Cena cinematográfica em Unreal Engine, uma estátua de pedra ganha vida e dança um lindo balé pelo jardim de uma grande propriedade, câmera dinâmica em movimento rápido, plano-sequência único.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**80** Prompts · Adição mais recente: **2026-09-11**
+**81** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1581,22 +1581,44 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2098472353114079243"></a>
+<a name="prompt-2098498537466249640"></a>
 
 ### Tradução em curso
+
+Autor：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Publicação original](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Comida / Bebida · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098498537466249640.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098472353114079243"></a>
+
+### Uma estátua de pedra ganha vida e executa um bailado no jardim de uma herdade, captada num plano-sequência dinâmico.
 
 Autor：[@iamneubert](https://x.com/iamneubert) · [Publicação original](https://x.com/iamneubert/status/2098472353114079243)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma estátua de pedra ganha vida e executa um bailado no jardim de uma herdade, captada num plano-sequência dinâmico.
 
 <img src="covers/2098472353114079243.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Cena cinematográfica em Unreal Engine, uma estátua de pedra ganha vida e dança um belo bailado pelo jardim de uma grande herdade, câmara dinâmica em movimento rápido, plano-sequência.
 ```
 
 [↑ Voltar às categorias](#catalog)

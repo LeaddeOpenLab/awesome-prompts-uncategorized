@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**80** Prompts · Última incorporación: **2026-09-11**
+**81** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1599,22 +1599,44 @@ Traducción en curso
 
 ## Otros
 
-<a name="prompt-2098472353114079243"></a>
+<a name="prompt-2098498537466249640"></a>
 
 ### Traducción en curso
+
+Autor：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Publicación original](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Comida / Bebida · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098498537466249640.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098472353114079243"></a>
+
+### Una estatua de piedra cobra vida e interpreta un ballet en el jardín de una finca, filmado en un dinámico plano secuencia.
 
 Autor：[@iamneubert](https://x.com/iamneubert) · [Publicación original](https://x.com/iamneubert/status/2098472353114079243)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una estatua de piedra cobra vida e interpreta un ballet en el jardín de una finca, filmado en un dinámico plano secuencia.
 
 <img src="covers/2098472353114079243.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Escena cinematográfica de Unreal Engine, una estatua de piedra cobra vida y baila un hermoso ballet por el jardín de una gran finca, cámara dinámica de movimiento rápido, plano secuencia único.
 ```
 
 [↑ Volver a categorías](#catalog)

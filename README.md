@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**80** Prompts · Latest addition: **2026-09-11**
+**81** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1741,6 +1741,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098498537466249640"></a>
+
+### A mother ant pulling a food cart with her son takes shelter from the rain under a large leaf.
+
+Author：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Source](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Food / Drink · Published
+
+**Summary:** A mother ant pulling a food cart with her son takes shelter from the rain under a large leaf.
+
+<img src="covers/2098498537466249640.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A mother ant is towing her cart of food with her son in tow. It starts rain, so she pulls under a large leaf that provides cover until the rain. She calls out to her son to stay close!
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098472353114079243"></a>
 

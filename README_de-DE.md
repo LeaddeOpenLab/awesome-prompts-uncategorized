@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**80** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**81** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1564,22 +1564,44 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2098472353114079243"></a>
+<a name="prompt-2098498537466249640"></a>
 
 ### Übersetzung läuft
+
+Autor：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Originalbeitrag](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098498537466249640.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098472353114079243"></a>
+
+### Eine Steinstatue erwacht zum Leben und tanzt Ballett im Garten eines Anwesens, festgehalten in einem dynamischen One-Take.
 
 Autor：[@iamneubert](https://x.com/iamneubert) · [Originalbeitrag](https://x.com/iamneubert/status/2098472353114079243)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine Steinstatue erwacht zum Leben und tanzt Ballett im Garten eines Anwesens, festgehalten in einem dynamischen One-Take.
 
 <img src="covers/2098472353114079243.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Filmische Unreal Engine-Szene, eine Steinstatue erwacht zum Leben und tanzt ein wunderschönes Ballett durch den Garten eines großen Anwesens, sich schnell bewegende dynamische Kamera, One-Take.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

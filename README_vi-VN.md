@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**80** Prompt · Bổ sung mới nhất: **2026-09-11**
+**81** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1599,22 +1599,44 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2098472353114079243"></a>
+<a name="prompt-2098498537466249640"></a>
 
 ### Đang dịch
+
+Tác giả：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Bài gốc](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098498537466249640.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098472353114079243"></a>
+
+### Một bức tượng đá sống dậy và biểu diễn múa ba lê trong khu vườn dinh thự, được ghi lại bằng một cú máy chuyển động liền mạch và năng động.
 
 Tác giả：[@iamneubert](https://x.com/iamneubert) · [Bài gốc](https://x.com/iamneubert/status/2098472353114079243)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một bức tượng đá sống dậy và biểu diễn múa ba lê trong khu vườn dinh thự, được ghi lại bằng một cú máy chuyển động liền mạch và năng động.
 
 <img src="covers/2098472353114079243.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh phim Unreal Engine điện ảnh, một bức tượng đá sống dậy và nhảy múa điệu múa ba lê tuyệt đẹp qua khu vườn của một dinh thự rộng lớn, máy quay chuyển động nhanh và năng động, một cú máy duy nhất.
 ```
 
 [↑ Về danh mục](#catalog)

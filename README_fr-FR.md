@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**80** Prompts · Dernier ajout: **2026-09-11**
+**81** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1564,22 +1564,44 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2098472353114079243"></a>
+<a name="prompt-2098498537466249640"></a>
 
 ### Traduction en cours
+
+Auteur：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Publication originale](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Alimentation / Boissons · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098498537466249640.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098472353114079243"></a>
+
+### Une statue de pierre prend vie et exécute un ballet dans le jardin d'un domaine, capturée en un plan-séquence dynamique.
 
 Auteur：[@iamneubert](https://x.com/iamneubert) · [Publication originale](https://x.com/iamneubert/status/2098472353114079243)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une statue de pierre prend vie et exécute un ballet dans le jardin d'un domaine, capturée en un plan-séquence dynamique.
 
 <img src="covers/2098472353114079243.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Scène cinématographique Unreal Engine, une statue de pierre prend vie et danse un magnifique ballet à travers le jardin d'un grand domaine, caméra dynamique aux mouvements rapides, plan-séquence unique.
 ```
 
 [↑ Retour aux catégories](#catalog)

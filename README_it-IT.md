@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**80** Prompt · Ultima aggiunta: **2026-09-11**
+**81** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1564,22 +1564,44 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2098472353114079243"></a>
+<a name="prompt-2098498537466249640"></a>
 
 ### Traduzione in corso
+
+Autore：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Post originale](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098498537466249640.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098472353114079243"></a>
+
+### Una statua di pietra prende vita ed esegue un balletto nel giardino di una tenuta, catturata in un dinamico piano sequenza.
 
 Autore：[@iamneubert](https://x.com/iamneubert) · [Post originale](https://x.com/iamneubert/status/2098472353114079243)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una statua di pietra prende vita ed esegue un balletto nel giardino di una tenuta, catturata in un dinamico piano sequenza.
 
 <img src="covers/2098472353114079243.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Scena cinematografica in Unreal Engine, una statua di pietra prende vita e danza un bellissimo balletto attraverso il giardino di una grande tenuta, telecamera dinamica e in rapido movimento, piano sequenza unico.
 ```
 
 [↑ Torna alle categorie](#catalog)

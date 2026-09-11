@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**80** Prompt · Son eklenen: **2026-09-11**
+**81** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1581,22 +1581,44 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2098472353114079243"></a>
+<a name="prompt-2098498537466249640"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@RobinMurrat43a](https://x.com/RobinMurrat43a) · [Orijinal gönderi](https://x.com/RobinMurrat43a/status/2098498537466249640)
+
+Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098498537466249640.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098472353114079243"></a>
+
+### Taş bir heykel canlanıyor ve bir malikane bahçesinde dinamik bir tek çekimle kaydedilen baleyi sergiliyor.
 
 Yazar：[@iamneubert](https://x.com/iamneubert) · [Orijinal gönderi](https://x.com/iamneubert/status/2098472353114079243)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Taş bir heykel canlanıyor ve bir malikane bahçesinde dinamik bir tek çekimle kaydedilen baleyi sergiliyor.
 
 <img src="covers/2098472353114079243.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sinematik Unreal Engine Sahnesi, bir taş heykel canlanıyor ve büyük bir malikanenin bahçesinde güzel bir bale dansı sergiliyor, hızlı hareket eden dinamik kamera, tek çekim.
 ```
 
 [↑ Kategorilere dön](#catalog)
