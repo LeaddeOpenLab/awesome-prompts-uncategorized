@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**52** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**53** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -458,20 +458,135 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2098289889964183843"></a>
 
-### Übersetzung läuft
+### Erstelle einen erstklassigen, 15-sekündigen vertikalen 9:16 Sambal Ekstra Pedas Werbespot mit 8 filmischen Szenen, ultraphotorealistischer 8K-Qualität, Action-Thriller-Energie × Ästhetik eines Premium-Lebensmittel-TV-Spots und Highspeed-Makro-Food-Kinematographie.
 
 Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Originalbeitrag](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Produktmarketing · Fotografie · Kinematisch / Filmstill · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle einen erstklassigen, 15-sekündigen vertikalen 9:16 Sambal Ekstra Pedas Werbespot mit 8 filmischen Szenen, ultraphotorealistischer 8K-Qualität, Action-Thriller-Energie × Ästhetik eines Premium-Lebensmittel-TV-Spots und Highspeed-Makro-Food-Kinematographie.
 
 <img src="covers/2098289889964183843.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen erstklassigen, 15-sekündigen vertikalen 9:16 Sambal Ekstra Pedas Werbespot mit 8 filmischen Szenen, ultraphotorealistischer 8K-Qualität, Action-Thriller-Energie × Ästhetik eines Premium-Lebensmittel-TV-Spots und Highspeed-Makro-Food-Kinematographie.
+
+PRODUKTFOKUS — ENTSCHEIDEND
+
+Verwende während des gesamten Werbespots exakt das Sambal Ekstra Pedas Produkt aus dem bereitgestellten Referenzbild/-video.
+
+Behalte exakt bei:
+
+- Flaschen-/Glasform und Proportionen
+- Kappen-/Deckeldesign
+- Etikettendesign und Platzierung
+- Markenlogo
+- Produktname und Typografie
+- Farben und Verpackungsdetails
+- Sambal-Farbe und realistische Konsistenz
+
+Die Verpackung darf NICHT umgestaltet, modifiziert, verzerrt, ersetzt, dupliziert, gespiegelt oder erfunden werden. Erzeuge KEINE fehlerhaften Texte, Logos, Etiketten oder Markenelemente. Nur eine primäre Produktverpackung im finalen Hero-Shot.
+
+VISUELLER STIL
+
+Ultraphotorealistisch • filmisches 8K • erstklassige globale FMCG-Lebensmittelwerbung • Action-Thriller-Kinematographie • dramatische, kontrollierte Beleuchtung • satte rote Chilitöne • realistische Lebensmittelphysik • glänzende, appetitliche Sambal-Textur • Highspeed-Fotografie • Makrodetails • dynamische Kamerabewegung • realistische Partikel- und Flüssigkeitssimulation • scharfer Produktfokus • geringe Schärfentiefe • erstklassiges kommerzielles Color Grading.
+
+KONZEPT
+
+CHILI-ANGRIFF → ZERQUETSCHEN → ZU SAMBAL WERDEN → VORTEX → PRODUKTENTHÜLLUNG → TEXTUR → ESSEN → HERO
+
+---
+
+01 | 0–1,5s — CHILI-ANGRIFF
+
+Extremer Makro-Shot einer frischen roten Chilischote, die wie ein filmisches Projektil rasant auf die Kamera zusteuert.
+
+Am nächsten Punkt wechselt die Chili in Bullet-Time-Zeitlupe und friert kurz ein.
+
+Mehrere frische rote Chilis konvergieren plötzlich aus verschiedenen Richtungen zum Zentrum hin.
+
+Kamera: 24mm-Objektiv, aggressives Zurückweichen + 120°-Orbit, dynamische Perspektive, kontrollierte Bewegungsunschärfe.
+
+Beleuchtung: dramatische rote Glanzlichter mit tiefen Schatten.
+
+Stimmung: explosiv, intensiv, unerwartet.
+
+---
+
+02 | 1,5–3s — ZERQUETSCHEN DER CHILIS
+
+Die zusammenlaufenden Chilis kollidieren und prallen mit einem kraftvollen filmischen Einschlag aufeinander.
+
+Frische Chilistücke, Samen, Tröpfchen und winzige rote Partikel explodieren in ultrarealistischer Highspeed-Makro-Zeitlupe nach außen.
+
+Die zerkleinerte Chilimischung beginnt sich in eine reichhaltige, glänzende Sambal-Textur zu verwandeln.
+
+Kamera: schnelle Vorwärtsfahrt → Einfrieren beim Aufprall → Makro-Orbit.
+
+Physik: realistisches Zerquetschen, Spritzen, Samen und Partikel; kein künstliches CGI-Erscheinungsbild.
+
+---
+
+03 | 3–5s — ZU SAMBAL WERDEN
+
+Die zerkleinerte Chilimischung morpht nahtlos in dickes, leuchtend rotes Sambal.
+
+Die Textur wird reichhaltig, stückig, glänzend und intensiv appetitlich, mit sichtbaren Chilistücken und Samen.
+
+Das Sambal bildet eine dramatische Welle, die sich durch das Bild krümmt.
+
+Kamera: 85mm-Makroobjektiv, extrem geringe Schärfentiefe, Texturenthüllung in Zeitlupe.
+
+Fokus: realistische Viskosität, Chilifasern, Samen, Ölglanzlichter und sattes Rot.
+
+---
+
+04 | 5–6,5s — VORTEX
+
+Die Sambal-Welle schraubt sich zu einem kraftvollen roten Wirbel empor.
+
+Der Wirbel rotiert rasant, während winzige Chilipartikel und Tröpfchen ihn umkreisen.
+
+Das Zentrum des Wirbels öffnet sich und schafft einen dramatischen Enthüllungsraum.
+
+Kamera: 360°-Makro-Orbit + kontrolliertes Zurückziehen.
+
+Beleuchtung: Premium-Studiobeleuchtung mit glänzenden Spitzlichtern.
+
+Übergang: Der Wirbel formt auf natürliche Weise die Silhouette des Produkts.
+
+---
+
+05 | 6,5–8,5s — PRODUKTENTHÜLLUNG
+
+Das exakte Sambal Ekstra Pedas Referenzprodukt taucht aus dem Zentrum des roten Wirbels auf.
+
+Das Produkt landet perfekt aufrecht auf einer erstklassigen dunklen Oberfläche, während sich winzige Chilipartikel und subtile Sambal-Tröpfchen darum herum absetzen.
+
+Die Kamera führt eine sanfte filmische Vorwärtsfahrt aus.
+
+Das Produkt muss vollkommen scharf und unverzerrt bleiben.
+
+Behalte die exakte Verpackung, das Etikett, das Logo, die Typografie, die Farben und die Proportionen der Referenz bei.
+
+---
+
+06 | 8,5–10,5s — TEXTUR
+
+Schnitt zu einer extremen Makro-Nahaufnahme des Sambals.
+
+Ein glänzender Löffel gleitet langsam durch das dicke Sambal und enthüllt seine reichhaltige Textur.
+
+Sichtbar:
+
+- Echte Chilistücke
+- Chilisamen
+- Natürliche Fasern
+- Glänzende Öl-Glanzlichter
+- Dicke, stückige Konsistenz
+- Frische rote Farbe
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1068,6 +1183,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098306910915375260"></a>
+
+### Übersetzung läuft
+
+Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Originalbeitrag](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Produktmarketing · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098306910915375260.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**52** Prompts · Latest addition: **2026-09-11**
+**53** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1384,6 +1384,57 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098306910915375260"></a>
+
+### Macro tech commercial of a miniature presenter running along a giant headphone headband, adjusting a knob, and landing onto an ear cushion.
+
+Author：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Source](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Product Marketing · Character · Published
+
+**Summary:** Macro tech commercial of a miniature presenter running along a giant headphone headband, adjusting a knob, and landing onto an ear cushion.
+
+<img src="covers/2098306910915375260.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 30,
+  "style": "photorealistic premium tech commercial, cinematic macro photography",
+
+  "scene": "A 3-inch-tall adult male presenter in black streetwear with subtle neon-cyan accents interacts with gigantic premium black wireless headphones on a white marble studio desk.",
+
+  "action": [
+    "0-3s: The miniature presenter confidently runs along the curved matte-black aluminum headband. Ultra-low macro tracking camera follows directly behind him.",
+    "3-6s: He reaches an oversized knurled metal volume dial, grips it with both hands and forcefully rotates it. A subtle translucent sonic shockwave expands from the headphones.",
+    "6-8s: He jumps from the headband onto the giant plush black leather memory-foam ear cushion, which visibly compresses on impact.",
+    "8-10s: He stands on the cushion, smiles at the camera and gives a quick thumbs-up as the camera rapidly cranes upward and pulls back, revealing the full headphones, laptop and coffee cup on the desk."
+  ],
+
+  "camera": "Extreme macro shallow depth of field, smooth tracking, controlled whip-pan to the dial, dynamic follow-through on the jump, then rapid crane-up pullback into a wide hero shot.",
+
+  "lighting": "Soft studio lighting with subtle cyan and electric-magenta rim lights, realistic metal, leather and marble reflections.",
+
+  "audio": {
+    "music": "NONE",
+    "dialogue": "NONE",
+    "voiceover": "NONE",
+    "effects": "Realistic sneaker squeaks, mechanical dial clicks, deep rotation sound, subtle sonic whoosh and soft leather cushion impact."
+  },
+
+  "quality": "8K-quality detail, realistic human anatomy, physically accurate materials and physics, stable character and product design.",
+
+  "negative": "no music, no dialogue, no text, no logos, no watermark, no extra people, no floating, no teleportation, no clipping, no distorted hands, no changing scale, no character or clothing changes, no cartoon CGI, no excessive motion blur, no camera shake."
+}
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**52** Prompts · Última adição: **2026-09-11**
+**53** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -458,20 +458,135 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2098289889964183843"></a>
 
-### Tradução em andamento
+### Crie um comercial premium vertical 9:16 de 15 segundos de Sambal Ekstra Pedas, apresentando 8 cenas cinematográficas, qualidade 8K ultrarrealista, energia de suspense de ação × estética premium de comercial de TV de alimentos e cinematografia macro de alta velocidade de alimentos.
 
 Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Publicação original](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Marketing de Produto · Fotografia · Cinematográfico / Imagem de Filme · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um comercial premium vertical 9:16 de 15 segundos de Sambal Ekstra Pedas, apresentando 8 cenas cinematográficas, qualidade 8K ultrarrealista, energia de suspense de ação × estética premium de comercial de TV de alimentos e cinematografia macro de alta velocidade de alimentos.
 
 <img src="covers/2098289889964183843.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um comercial premium vertical 9:16 de 15 segundos de Sambal Ekstra Pedas, apresentando 8 cenas cinematográficas, qualidade 8K ultrarrealista, energia de suspense de ação × estética premium de comercial de TV de alimentos e cinematografia macro de alta velocidade de alimentos.
+
+BLOQUEIO DO PRODUTO — CRÍTICO
+
+Use exatamente o produto Sambal Ekstra Pedas da imagem/vídeo de referência fornecido ao longo de todo o comercial.
+
+Preserve exatamente:
+
+- O formato e as proporções da garrafa/pote
+- O design da tampa
+- O design e o posicionamento do rótulo
+- O logotipo da marca
+- O nome do produto e a tipografia
+- As cores e os detalhes da embalagem
+- A cor e a consistência realista do sambal
+
+NÃO redesenhe, modifique, distorça, substitua, duplique, espelhe ou invente a embalagem. NÃO gere textos, logotipos, rótulos ou marcas incorretas. Apenas uma embalagem principal do produto na tomada principal (hero shot) final.
+
+ESTILO VISUAL
+
+Ultrarrealista • 8K cinematográfico • publicidade de alimentos de bens de consumo de giro rápido (FMCG) de padrão global premium • cinematografia de suspense de ação • iluminação controlada e dramática • tons ricos de pimenta vermelha • física de alimentos realista • textura de sambal brilhante e apetitosa • fotografia de alta velocidade • detalhes macro • movimento de câmera dinâmico • simulação realista de partículas e líquidos • foco nítido no produto • profundidade de campo rasa • gradação de cor comercial premium.
+
+CONCEITO
+
+ATAQUE DA PIMENTA → ESMAGAMENTO → TRANSFORMAÇÃO EM SAMBAL → VÓRTICE → REVELAÇÃO DO PRODUTO → TEXTURA → COMIDA → HERO
+
+---
+
+01 | 0–1.5s — ATAQUE DA PIMENTA
+
+Plano macro extremo de uma pimenta vermelha fresca sendo lançada rapidamente em direção à câmera como um projétil cinematográfico.
+
+No ponto mais próximo, a pimenta entra em câmera lenta estilo bullet-time e congela momentaneamente.
+
+Várias pimentas vermelhas frescas convergem subitamente de diferentes direções em direção ao centro.
+
+Câmera: lente de 24 mm, tracking agressivo para trás + órbita de 120°, perspectiva dinâmica, desfoque de movimento (motion blur) controlado.
+
+Iluminação: realces vermelhos dramáticos com sombras profundas.
+
+Clima: explosivo, intenso, inesperado.
+
+---
+
+02 | 1.5–3s — ESMAGAMENTO DA PIMENTA
+
+As pimentas convergentes colidem e se esmagam em um impacto cinematográfico poderoso.
+
+Pedaços de pimenta fresca, sementes, gotículas e pequenas partículas vermelhas explodem para fora em uma câmera lenta macro ultrarrealista de alta velocidade.
+
+A mistura de pimenta esmagada começa a se transformar em uma textura de sambal rica e brilhante.
+
+Câmera: aproximação rápida (push-in) → congelamento no impacto → órbita macro.
+
+Física: esmagamento, respingos, sementes e partículas realistas; sem aparência artificial de CGI.
+
+---
+
+03 | 3–5s — TRANSFORMAÇÃO EM SAMBAL
+
+A mistura de pimenta esmagada se funde perfeitamente em um sambal vermelho espesso e vibrante.
+
+A textura torna-se rica, pedaçuda, brilhante e intensamente apetitosa, com pedaços visíveis de pimenta e sementes.
+
+O sambal forma uma onda dramática que se curva pelo quadro.
+
+Câmera: lente macro de 85 mm, profundidade de campo ultrarrasa, revelação de textura em câmera lenta.
+
+Foco: viscosidade realista, fibras de pimenta, sementes, reflexos de óleo e cor vermelha intensa.
+
+---
+
+04 | 5–6.5s — VÓRTICE
+
+A onda de sambal espirala em um poderoso vórtice vermelho.
+
+O vórtice gira rapidamente enquanto pequenas partículas de pimenta e gotículas orbitam ao seu redor.
+
+O centro do vórtice se abre, criando um espaço dramático para a revelação.
+
+Câmera: órbita macro de 360° + recuo controlado.
+
+Iluminação: iluminação de estúdio premium com reflexos especulares brilhantes.
+
+Transição: o vórtice forma naturalmente a silhueta do produto.
+
+---
+
+05 | 6.5–8.5s — REVELAÇÃO DO PRODUTO
+
+O produto de referência exato de Sambal Ekstra Pedas emerge do centro do vórtice vermelho.
+
+O produto pousa perfeitamente na vertical sobre uma superfície escura premium, enquanto pequenas partículas de pimenta e sutis gotículas de sambal se depositam ao seu redor.
+
+A câmera realiza um movimento suave e cinematográfico de aproximação (push-in).
+
+O produto deve permanecer perfeitamente nítido e sem distorções.
+
+Preserve exatamente a embalagem, o rótulo, o logotipo, a tipografia, as cores e as proporções da referência.
+
+---
+
+06 | 8.5–10.5s — TEXTURA
+
+Corte para um close-up macro extremo do sambal.
+
+Uma colher brilhante move-se lentamente pelo sambal espesso, revelando sua textura rica.
+
+Visíveis:
+
+- Pedaços reais de pimenta
+- Sementes de pimenta
+- Fibras naturais
+- Reflexos brilhantes de óleo
+- Consistência espessa e pedaçuda
+- Cor vermelha fresca
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1068,6 +1183,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098306910915375260"></a>
+
+### Tradução em andamento
+
+Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publicação original](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Marketing de Produto · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098306910915375260.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**52** Prompts · Última incorporación: **2026-09-11**
+**53** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -458,20 +458,135 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2098289889964183843"></a>
 
-### Traducción en curso
+### Create a premium 15-second vertical 9:16 Sambal Ekstra Pedas commercial, featuring 8 cinematic scenes, ultra-photorealistic 8K quality, action-thriller energy × premium food TVC aesthetics, and high-speed macro food cinematography.
 
 Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Publicación original](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Marketing de producto · Fotografía · Cine / Fotograma · Comida y bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Create a premium 15-second vertical 9:16 Sambal Ekstra Pedas commercial, featuring 8 cinematic scenes, ultra-photorealistic 8K quality, action-thriller energy × premium food TVC aesthetics, and high-speed macro food cinematography.
 
 <img src="covers/2098289889964183843.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Create a premium 15-second vertical 9:16 Sambal Ekstra Pedas commercial, featuring 8 cinematic scenes, ultra-photorealistic 8K quality, action-thriller energy × premium food TVC aesthetics, and high-speed macro food cinematography.
+
+PRODUCT LOCK — CRITICAL
+
+Use the exact Sambal Ekstra Pedas product from the provided reference image/video throughout the entire commercial.
+
+Preserve the exact:
+
+- Bottle/jar shape and proportions
+- Cap/lid design
+- Label design and placement
+- Brand logo
+- Product name and typography
+- Colors and packaging details
+- Sambal color and realistic consistency
+
+Do NOT redesign, modify, distort, replace, duplicate, mirror, or invent the packaging. Do NOT generate incorrect text, logos, labels, or branding. Only one primary product package in the final hero shot.
+
+VISUAL STYLE
+
+Ultra-photorealistic • cinematic 8K • premium global FMCG food advertising • action-thriller cinematography • dramatic controlled lighting • rich red chili tones • realistic food physics • glossy appetizing sambal texture • high-speed photography • macro detail • dynamic camera movement • realistic particles and liquid simulation • sharp product focus • shallow depth of field • premium commercial color grading.
+
+CONCEPT
+
+CHILI ATTACK → CRUSH → BECOME SAMBAL → VORTEX → PRODUCT REVEAL → TEXTURE → FOOD → HERO
+
+---
+
+01 | 0–1.5s — CHILI ATTACK
+
+Extreme macro shot of a fresh red chili pepper launching rapidly toward the camera like a cinematic projectile.
+
+At the closest point, the chili enters bullet-time slow motion and freezes momentarily.
+
+Multiple fresh red chilies suddenly converge from different directions toward the center.
+
+Camera: 24mm lens, aggressive backward tracking + 120° orbit, dynamic perspective, controlled motion blur.
+
+Lighting: dramatic red highlights with deep shadows.
+
+Mood: explosive, intense, unexpected.
+
+---
+
+02 | 1.5–3s — CHILI CRUSH
+
+The converging chilies collide and smash together in a powerful cinematic impact.
+
+Fresh chili pieces, seeds, droplets, and tiny red particles explode outward in ultra-realistic high-speed macro slow motion.
+
+The crushed chili mixture begins transforming into a rich, glossy sambal texture.
+
+Camera: rapid push-in → impact freeze → macro orbit.
+
+Physics: realistic crushing, splashing, seeds and particles; no artificial CGI appearance.
+
+---
+
+03 | 3–5s — BECOME SAMBAL
+
+The crushed chili mixture morphs seamlessly into thick, vibrant red sambal.
+
+The texture becomes rich, chunky, glossy and intensely appetizing, with visible chili pieces and seeds.
+
+The sambal forms a dramatic wave that curls through the frame.
+
+Camera: macro 85mm lens, ultra-shallow depth of field, slow-motion texture reveal.
+
+Focus: realistic viscosity, chili fibers, seeds, oil highlights and rich red color.
+
+---
+
+04 | 5–6.5s — VORTEX
+
+The sambal wave spirals into a powerful red vortex.
+
+The vortex rotates rapidly while tiny chili particles and droplets orbit around it.
+
+The center of the vortex opens, creating a dramatic reveal space.
+
+Camera: 360° macro orbit + controlled pull-back.
+
+Lighting: premium studio lighting with glossy specular highlights.
+
+Transition: vortex naturally forms the silhouette of the product.
+
+---
+
+05 | 6.5–8.5s — PRODUCT REVEAL
+
+The exact Sambal Ekstra Pedas product reference emerges from the center of the red vortex.
+
+The product lands perfectly upright on a premium dark surface while tiny chili particles and subtle sambal droplets settle around it.
+
+The camera performs a smooth cinematic push-in.
+
+Product must remain perfectly sharp and undistorted.
+
+Preserve the exact packaging, label, logo, typography, colors and proportions from the reference.
+
+---
+
+06 | 8.5–10.5s — TEXTURE
+
+Cut to an extreme macro close-up of the sambal.
+
+A glossy spoon slowly moves through the thick sambal, revealing its rich texture.
+
+Visible:
+
+- Real chili pieces
+- Chili seeds
+- Natural fibers
+- Glossy oil highlights
+- Thick, chunky consistency
+- Fresh red color
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1068,6 +1183,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098306910915375260"></a>
+
+### Traducción en curso
+
+Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publicación original](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Marketing de producto · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098306910915375260.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

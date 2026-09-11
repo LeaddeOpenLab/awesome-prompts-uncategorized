@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**52** Prompt · Ultima aggiunta: **2026-09-11**
+**53** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -458,20 +458,135 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2098289889964183843"></a>
 
-### Traduzione in corso
+### Crea uno spot commerciale premium di 15 secondi in formato verticale 9:16 per Sambal Ekstra Pedas, con 8 scene cinematografiche, qualità ultra-fotorealistica 8K, energia da action-thriller unita all'estetica dei TVC food di fascia alta e cinematografia macro ad alta velocità per alimenti.
 
 Autore：[@HeyRu0by](https://x.com/HeyRu0by) · [Post originale](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Marketing di Prodotto · Fotografia · Fermo immagine cinematografico / Still fotografico · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea uno spot commerciale premium di 15 secondi in formato verticale 9:16 per Sambal Ekstra Pedas, con 8 scene cinematografiche, qualità ultra-fotorealistica 8K, energia da action-thriller unita all'estetica dei TVC food di fascia alta e cinematografia macro ad alta velocità per alimenti.
 
 <img src="covers/2098289889964183843.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea uno spot commerciale premium di 15 secondi in formato verticale 9:16 per Sambal Ekstra Pedas, con 8 scene cinematografiche, qualità ultra-fotorealistica 8K, energia da action-thriller unita all'estetica dei TVC food di fascia alta e cinematografia macro ad alta velocità per alimenti.
+
+BLOCCO DEL PRODOTTO — FONDAMENTALE
+
+Utilizza l'esatto prodotto Sambal Ekstra Pedas mostrato nell'immagine/video di riferimento per l'intero spot.
+
+Preserva con precisione:
+
+- Forma e proporzioni della bottiglia/barattolo
+- Design del tappo/coperchio
+- Design e posizionamento dell'etichetta
+- Logo del brand
+- Nome del prodotto e tipografia
+- Colori e dettagli della confezione
+- Colore e consistenza realistica del sambal
+
+NON riprogettare, modificare, distorcere, sostituire, duplicare, specchiare o inventare la confezione. NON generare testi, loghi, etichette o elementi di branding errati. Solo una confezione principale del prodotto nell'inquadratura hero finale.
+
+STILE VISIVO
+
+Ultra-fotorealistico • 8K cinematografico • pubblicità alimentare premium FMCG globale • cinematografia da action-thriller • illuminazione controllata e drammatica • tonalità ricche di peperoncino rosso • fisica realistica del cibo • consistenza del sambal lucida e appetitosa • fotografia ad alta velocità • dettagli macro • movimenti di camera dinamici • simulazione realistica di particelle e liquidi • messa a fuoco nitida sul prodotto • profondità di campo ridotta • color grading commerciale di fascia alta.
+
+CONCEPT
+
+ATTACCO DEL PEPERONCINO → SCHIACCIAMENTO → TRASFORMAZIONE IN SAMBAL → VORTICE → RIVELAZIONE DEL PRODOTTO → CONSISTENZA → CIBO → HERO
+
+---
+
+01 | 0–1.5s — ATTACCO DEL PEPERONCINO
+
+Ripresa macro estrema di un peperoncino rosso fresco lanciato rapidamente verso la fotocamera come un proiettile cinematografico.
+
+Nel punto più vicino, il peperoncino entra in slow motion bullet-time e si congela momentaneamente.
+
+Diversi peperoncini rossi freschi convergono improvvisamente da varie direzioni verso il centro.
+
+Fotocamera: obiettivo da 24 mm, carrellata indietro aggressiva + rotazione orbitale a 120°, prospettiva dinamica, motion blur controllato.
+
+Illuminazione: drammatici riflessi rossi con ombre profonde.
+
+Atmosfera: esplosiva, intensa, inaspettata.
+
+---
+
+02 | 1.5–3s — SCHIACCIAMENTO DEL PEPERONCINO
+
+I peperoncini convergenti collidono e si frantumano in un potente impatto cinematografico.
+
+Pezzi di peperoncino fresco, semi, goccioline e minuscole particelle rosse esplodono verso l'esterno in uno slow motion macro ultra-realistico ad alta velocità.
+
+La miscela di peperoncino tritato inizia a trasformarsi in una consistenza di sambal ricca e lucida.
+
+Fotocamera: rapida carrellata avanti → congelamento all'impatto → orbita macro.
+
+Fisica: schiacciamento realistico, schizzi, semi e particelle; nessun aspetto CGI artificiale.
+
+---
+
+03 | 3–5s — TRASFORMAZIONE IN SAMBAL
+
+La miscela di peperoncino tritato si trasforma fluidamente in un sambal denso e rosso acceso.
+
+La consistenza diventa ricca, corposa con pezzetti, lucida e intensamente invitante, con pezzi di peperoncino e semi visibili.
+
+Il sambal forma un'onda drammatica che si arriccia attraverso l'inquadratura.
+
+Fotocamera: obiettivo macro da 85 mm, profondità di campo ultra-ridotta, svelamento della consistenza al rallentatore.
+
+Messa a fuoco: viscosità realistica, fibre di peperoncino, semi, riflessi oleosi e un ricco colore rosso.
+
+---
+
+04 | 5–6.5s — VORTICE
+
+L'onda di sambal crea una spirale formando un potente vortice rosso.
+
+Il vortice ruota rapidamente mentre minuscole particelle di peperoncino e goccioline orbitano attorno ad esso.
+
+Il centro del vortice si apre, creando uno spazio scenico per la rivelazione.
+
+Fotocamera: orbita macro a 360° + allontanamento controllato.
+
+Illuminazione: illuminazione da studio premium con riflessi speculari lucidi.
+
+Transizione: il vortice forma in modo naturale la sagoma del prodotto.
+
+---
+
+05 | 6.5–8.5s — RIVELAZIONE DEL PRODOTTO
+
+L'esatto prodotto Sambal Ekstra Pedas di riferimento emerge dal centro del vortice rosso.
+
+Il prodotto si posiziona perfettamente in verticale su una superficie scura di alta qualità mentre minuscole particelle di peperoncino e delicate goccioline di sambal si depositano attorno ad esso.
+
+La fotocamera esegue una fluida carrellata avanti cinematografica.
+
+Il prodotto deve rimanere perfettamente nitido e privo di distorsioni.
+
+Preserva l'esatta confezione, l'etichetta, il logo, la tipografia, i colori e le proporzioni dal riferimento.
+
+---
+
+06 | 8.5–10.5s — CONSISTENZA
+
+Stacco su un primo piano macro estremo del sambal.
+
+Un cucchiaio lucido si muove lentamente attraverso il sambal denso, rivelandone la ricca consistenza.
+
+Visibili:
+
+- Pezzi veri di peperoncino
+- Semi di peperoncino
+- Fibre naturali
+- Riflessi d'olio lucidi
+- Consistenza densa e ricca di pezzi
+- Fresco colore rosso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1068,6 +1183,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098306910915375260"></a>
+
+### Traduzione in corso
+
+Autore：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Post originale](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Marketing di Prodotto · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098306910915375260.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

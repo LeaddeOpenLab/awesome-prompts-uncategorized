@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**52** Prompts · Última incorporación: **2026-09-11**
+**53** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -470,20 +470,135 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2098289889964183843"></a>
 
-### Traducción en curso
+### Crea un anuncio prémium vertical 9:16 de 15 segundos para Sambal Ekstra Pedas, que incluya 8 escenas cinematográficas, calidad 8K ultrafotorrealista, energía de thriller de acción × estética de anuncio de televisión de comida prémium, y cinematografía macro de comida a alta velocidad.
 
 Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Publicación original](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Marketing de producto · Fotografía · Cine / Fotograma de película · Comida / Bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un anuncio prémium vertical 9:16 de 15 segundos para Sambal Ekstra Pedas, que incluya 8 escenas cinematográficas, calidad 8K ultrafotorrealista, energía de thriller de acción × estética de anuncio de televisión de comida prémium, y cinematografía macro de comida a alta velocidad.
 
 <img src="covers/2098289889964183843.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio prémium vertical 9:16 de 15 segundos para Sambal Ekstra Pedas, que incluya 8 escenas cinematográficas, calidad 8K ultrafotorrealista, energía de thriller de acción × estética de anuncio de televisión de comida prémium, y cinematografía macro de comida a alta velocidad.
+
+PRODUCT LOCK — CRÍTICO
+
+Utiliza el producto exacto Sambal Ekstra Pedas de la imagen/vídeo de referencia proporcionado a lo largo de todo el anuncio.
+
+Conserva con exactitud:
+
+- Forma y proporciones de la botella/tarro
+- Diseño de la tapa/cierre
+- Diseño y colocación de la etiqueta
+- Logotipo de la marca
+- Nombre del producto y tipografía
+- Colores y detalles del empaque
+- Color del sambal y consistencia realista
+
+NO rediseñes, modifiques, distorsiones, reemplaces, dupliques, reflejes ni inventes el empaque. NO generes texto, logotipos, etiquetas o marcas incorrectos. Solo debe haber un empaque de producto principal en el plano héroe final.
+
+VISUAL STYLE
+
+Ultrafotorrealista • 8K cinematográfico • publicidad de alimentos FMCG prémium global • cinematografía de thriller de acción • iluminación controlada dramática • tonos ricos de chile rojo • física de alimentos realista • textura de sambal brillante y apetitosa • fotografía de alta velocidad • detalle macro • movimiento de cámara dinámico • simulación realista de partículas y líquidos • enfoque nítido del producto • profundidad de campo reducida • etalonaje comercial prémium.
+
+CONCEPT
+
+CHILI ATTACK → CRUSH → BECOME SAMBAL → VORTEX → PRODUCT REVEAL → TEXTURE → FOOD → HERO
+
+---
+
+01 | 0–1.5s — CHILI ATTACK
+
+Plano macro extremo de un chile rojo fresco que se lanza rápidamente hacia la cámara como un proyectil cinematográfico.
+
+En el punto más cercano, el chile entra en cámara lenta estilo bullet-time y se congela momentáneamente.
+
+Múltiples chiles rojos frescos convergen repentinamente desde diferentes direcciones hacia el centro.
+
+Cámara: lente de 24 mm, travelling hacia atrás agresivo + órbita de 120°, perspectiva dinámica, desenfoque de movimiento controlado.
+
+Iluminación: reflejos rojos dramáticos con sombras profundas.
+
+Ambiente: explosivo, intenso, inesperado.
+
+---
+
+02 | 1.5–3s — CHILI CRUSH
+
+Los chiles convergentes colisionan y se estrellan en un impacto cinematográfico potente.
+
+Trozos de chile fresco, semillas, gotitas y pequeñas partículas rojas explotan hacia afuera en cámara lenta macro de alta velocidad ultrarrealista.
+
+La mezcla de chile triturado comienza a transformarse en una textura de sambal rica y brillante.
+
+Cámara: push-in rápido → congelación del impacto → órbita macro.
+
+Física: trituración, salpicaduras, semillas y partículas realistas; sin apariencia de CGI artificial.
+
+---
+
+03 | 3–5s — BECOME SAMBAL
+
+La mezcla de chile triturado se transforma sin problemas en un sambal rojo intenso y espeso.
+
+La textura se vuelve rica, grumosa, brillante e intensamente apetitosa, con trozos de chile y semillas visibles.
+
+El sambal forma una ola dramática que se curva a través del encuadre.
+
+Cámara: lente macro de 85 mm, profundidad de campo ultrarreducida, revelación de textura en cámara lenta.
+
+Enfoque: viscosidad realista, fibras de chile, semillas, brillos de aceite y un color rojo intenso.
+
+---
+
+04 | 5–6.5s — VORTEX
+
+La ola de sambal se arremolina en un potente vórtice rojo.
+
+El vórtice gira rápidamente mientras diminutas partículas de chile y gotitas orbitan a su alrededor.
+
+El centro del vórtice se abre, creando un espacio de revelación dramático.
+
+Cámara: órbita macro de 360° + retroceso controlado.
+
+Iluminación: iluminación de estudio prémium con reflejos especulares brillantes.
+
+Transición: el vórtice forma de manera natural la silueta del producto.
+
+---
+
+05 | 6.5–8.5s — PRODUCT REVEAL
+
+La referencia exacta del producto Sambal Ekstra Pedas emerge del centro del vórtice rojo.
+
+El producto aterriza perfectamente erguido sobre una superficie oscura prémium mientras diminutas partículas de chile y sutiles gotas de sambal se asientan a su alrededor.
+
+La cámara realiza un suave push-in cinematográfico.
+
+El producto debe permanecer perfectamente nítido y sin distorsiones.
+
+Conserva el empaque, la etiqueta, el logotipo, la tipografía, los colores y las proporciones exactas de la referencia.
+
+---
+
+06 | 8.5–10.5s — TEXTURE
+
+Corte a un primer plano macro extremo del sambal.
+
+Una cuchara brillante se desliza lentamente a través del espeso sambal, revelando su rica textura.
+
+Visible:
+
+- Trozos reales de chile
+- Semillas de chile
+- Fibras naturales
+- Reflejos de aceite brillante
+- Consistencia espesa y grumosa
+- Color rojo fresco
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1092,6 +1207,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098306910915375260"></a>
+
+### Traducción en curso
+
+Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publicación original](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Marketing de producto · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098306910915375260.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

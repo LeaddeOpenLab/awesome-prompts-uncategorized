@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**52** Prompts · Dernier ajout: **2026-09-11**
+**53** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -458,20 +458,135 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2098289889964183843"></a>
 
-### Traduction en cours
+### Créez une publicité haut de gamme de 15 secondes au format vertical 9:16 pour Sambal Ekstra Pedas, comprenant 8 scènes cinématographiques, une qualité 8K ultra-photoréaliste, une énergie de thriller d'action combinée à l'esthétique d'un spot télévisé alimentaire premium, et une cinématographie culinaire macro à grande vitesse.
 
 Auteur：[@HeyRu0by](https://x.com/HeyRu0by) · [Publication originale](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Marketing produit · Photographie · Image cinématographique / Photogramme de film · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez une publicité haut de gamme de 15 secondes au format vertical 9:16 pour Sambal Ekstra Pedas, comprenant 8 scènes cinématographiques, une qualité 8K ultra-photoréaliste, une énergie de thriller d'action combinée à l'esthétique d'un spot télévisé alimentaire premium, et une cinématographie culinaire macro à grande vitesse.
 
 <img src="covers/2098289889964183843.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une publicité haut de gamme de 15 secondes au format vertical 9:16 pour Sambal Ekstra Pedas, comprenant 8 scènes cinématographiques, une qualité 8K ultra-photoréaliste, une énergie de thriller d'action combinée à l'esthétique d'un spot télévisé alimentaire premium, et une cinématographie culinaire macro à grande vitesse.
+
+VERROUILLAGE PRODUIT — CRUCIAL
+
+Utilisez le produit exact Sambal Ekstra Pedas issu de l'image/vidéo de référence fournie tout au long de la publicité.
+
+Préservez exactement :
+
+- La forme et les proportions de la bouteille/du bocal
+- Le design du bouchon/couvercle
+- Le design et le placement de l'étiquette
+- Le logo de la marque
+- Le nom du produit et la typographie
+- Les couleurs et les détails de l'emballage
+- La couleur et la consistance réaliste du sambal
+
+Ne PAS reconcevoir, modifier, déformer, remplacer, dupliquer, refléter en miroir ou inventer l'emballage. Ne PAS générer de textes, logos, étiquettes ou éléments de marque incorrects. Un seul emballage de produit principal dans le plan héroïque final.
+
+STYLE VISUEL
+
+Ultra-photoréaliste • 8K cinématographique • publicité alimentaire mondiale FMCG premium • cinématographie de thriller d'action • éclairage contrôlé dramatique • riches tons rouges de piment • physique alimentaire réaliste • texture de sambal brillante et appétissante • photographie à haute vitesse • détail macro • mouvement dynamique de caméra • simulation réaliste de particules et de liquides • mise au point nette sur le produit • faible profondeur de champ • étalonnage colorimétrique commercial haut de gamme.
+
+CONCEPT
+
+ATTAQUE DE PIMENT → ÉCRASEMENT → TRANSFORMATION EN SAMBAL → VORTEX → RÉVÉLATION DU PRODUIT → TEXTURE → NOURRITURE → PLAN HÉROÏQUE
+
+---
+
+01 | 0–1,5s — ATTAQUE DE PIMENT
+
+Plan macro extrême d'un piment rouge frais projeté à toute vitesse vers la caméra comme un projectile de cinéma.
+
+Au point le plus proche, le piment entre en ralenti « bullet-time » et se fige momentanément.
+
+Plusieurs piments rouges frais convergent soudainement depuis différentes directions vers le centre.
+
+Caméra : objectif 24 mm, travelling arrière agressif + orbite à 120°, perspective dynamique, flou de mouvement contrôlé.
+
+Éclairage : reflets rouges dramatiques avec des ombres profondes.
+
+Ambiance : explosive, intense, inattendue.
+
+---
+
+02 | 1,5–3s — ÉCRASEMENT DU PIMENT
+
+Les piments convergents entrent en collision et s'écrasent ensemble dans un impact cinématographique puissant.
+
+Des morceaux de piment frais, des graines, des gouttelettes et de minuscules particules rouges explosent vers l'extérieur dans un ralenti macro ultra-réaliste à haute vitesse.
+
+Le mélange de piments écrasés commence à se transformer en une texture de sambal riche et brillante.
+
+Caméra : travelling avant rapide → gel à l'impact → orbite macro.
+
+Physique : écrasement, éclaboussures, graines et particules réalistes ; aucun aspect CGI artificiel.
+
+---
+
+03 | 3–5s — TRANSFORMATION EN SAMBAL
+
+Le mélange de piments écrasés se métamorphose harmonieusement en un sambal rouge vif et épais.
+
+La texture devient riche, avec des morceaux, brillante et intensément appétissante, avec des morceaux de piment et des graines visibles.
+
+Le sambal forme une vague spectaculaire qui s'enroule à travers le cadre.
+
+Caméra : objectif macro 85 mm, profondeur de champ ultra-faible, révélation de texture au ralenti.
+
+Mise au point : viscosité réaliste, fibres de piment, graines, reflets huileux et couleur rouge riche.
+
+---
+
+04 | 5–6,5s — VORTEX
+
+La vague de sambal tourbillonne en un puissant vortex rouge.
+
+Le vortex tourne rapidement tandis que de minuscules particules de piment et des gouttelettes gravitent autour de lui.
+
+Le centre du vortex s'ouvre, créant un espace de révélation dramatique.
+
+Caméra : orbite macro à 360° + travelling arrière contrôlé.
+
+Éclairage : éclairage de studio haut de gamme avec des reflets spéculaires brillants.
+
+Transition : le vortex forme naturellement la silhouette du produit.
+
+---
+
+05 | 6,5–8,5s — RÉVÉLATION DU PRODUIT
+
+Le produit de référence exact Sambal Ekstra Pedas émerge du centre du vortex rouge.
+
+Le produit atterrit parfaitement debout sur une surface sombre haut de gamme tandis que de minuscules particules de piment et de subtiles gouttelettes de sambal se déposent autour de lui.
+
+La caméra effectue un travelling avant cinématographique fluide.
+
+Le produit doit rester parfaitement net et sans déformation.
+
+Conservez l'emballage exact, l'étiquette, le logo, la typographie, les couleurs et les proportions de la référence.
+
+---
+
+06 | 8,5–10,5s — TEXTURE
+
+Coupe vers un très gros plan macro du sambal.
+
+Une cuillère brillante se déplace lentement à travers le sambal épais, révélant sa texture riche.
+
+Sont visibles :
+
+- De vrais morceaux de piment
+- Des graines de piment
+- Des fibres naturelles
+- Des reflets huileux brillants
+- Une consistance épaisse avec morceaux
+- Une couleur rouge fraîche
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1068,6 +1183,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098306910915375260"></a>
+
+### Traduction en cours
+
+Auteur：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publication originale](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Marketing produit · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098306910915375260.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

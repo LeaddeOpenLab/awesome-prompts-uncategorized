@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**52** Prompt · Bổ sung mới nhất: **2026-09-11**
+**53** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -470,20 +470,135 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2098289889964183843"></a>
 
-### Đang dịch
+### Tạo một video quảng cáo Sambal Ekstra Pedas dạng dọc 9:16 dài 15 giây cao cấp, gồm 8 cảnh điện ảnh, chất lượng 8K siêu chân thực, năng lượng hành động giật gân × thẩm mỹ TVC ẩm thực cao cấp, và kỹ thuật quay phim ẩm thực cận cảnh macro tốc độ cao.
 
 Tác giả：[@HeyRu0by](https://x.com/HeyRu0by) · [Bài gốc](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Tiếp thị sản phẩm · Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một video quảng cáo Sambal Ekstra Pedas dạng dọc 9:16 dài 15 giây cao cấp, gồm 8 cảnh điện ảnh, chất lượng 8K siêu chân thực, năng lượng hành động giật gân × thẩm mỹ TVC ẩm thực cao cấp, và kỹ thuật quay phim ẩm thực cận cảnh macro tốc độ cao.
 
 <img src="covers/2098289889964183843.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video quảng cáo Sambal Ekstra Pedas dạng dọc 9:16 dài 15 giây cao cấp, gồm 8 cảnh điện ảnh, chất lượng 8K siêu chân thực, năng lượng hành động giật gân × thẩm mỹ TVC ẩm thực cao cấp, và kỹ thuật quay phim ẩm thực cận cảnh macro tốc độ cao.
+
+PRODUCT LOCK — CỰC KỲ QUAN TRỌNG
+
+Sử dụng chính xác sản phẩm Sambal Ekstra Pedas từ hình ảnh/video tham chiếu được cung cấp xuyên suốt toàn bộ quảng cáo.
+
+Bảo toàn chính xác:
+
+- Hình dáng và tỷ lệ chai/hũ
+- Thiết kế nắp đậy
+- Thiết kế và vị trí nhãn dán
+- Logo thương hiệu
+- Tên sản phẩm và kiểu chữ
+- Màu sắc và chi tiết bao bì
+- Màu sắc sambal và độ sánh chân thực
+
+KHÔNG thiết kế lại, chỉnh sửa, làm biến dạng, thay thế, nhân bản, lật ngược, hoặc tự sáng tạo bao bì. KHÔNG tạo văn bản, logo, nhãn mác hoặc nhận diện thương hiệu sai lệch. Chỉ duy nhất một bao bì sản phẩm chính trong cảnh quay tôn vinh sản phẩm (hero shot) cuối cùng.
+
+VISUAL STYLE
+
+Siêu chân thực • 8K điện ảnh • quảng cáo thực phẩm FMCG cao cấp toàn cầu • kỹ thuật quay phim hành động giật gân • ánh sáng có kiểm soát đầy kịch tính • tông màu đỏ ớt đậm đà • vật lý thực phẩm chân thực • kết cấu sambal bóng bẩy hấp dẫn • nhiếp ảnh tốc độ cao • chi tiết macro • chuyển động máy quay năng động • mô phỏng hạt và chất lỏng chân thực • tiêu cự sản phẩm sắc nét • độ sâu trường ảnh nông • chỉnh màu thương mại cao cấp.
+
+CONCEPT
+
+CHILI ATTACK → CRUSH → BECOME SAMBAL → VORTEX → PRODUCT REVEAL → TEXTURE → FOOD → HERO
+
+---
+
+01 | 0–1.5s — CHILI ATTACK
+
+Cảnh siêu macro (extreme macro) quay quả ớt đỏ tươi lao nhanh về phía máy quay như một viên đạn điện ảnh.
+
+Ở điểm gần nhất, quả ớt bước vào chuyển động siêu chậm bullet-time và đóng băng trong giây lát.
+
+Nhiều quả ớt đỏ tươi bất ngờ hội tụ từ các hướng khác nhau về phía trung tâm.
+
+Máy quay: ống kính 24mm, theo dõi lùi quyết liệt + quỹ đạo xoay 120°, góc nhìn năng động, độ mờ chuyển động có kiểm soát.
+
+Ánh sáng: điểm sáng đỏ đầy kịch tính với bóng đổ sâu.
+
+Tâm trạng: bùng nổ, mãnh liệt, bất ngờ.
+
+---
+
+02 | 1.5–3s — CHILI CRUSH
+
+Những quả ớt hội tụ va chạm và đập vỡ vào nhau trong một tác động điện ảnh đầy uy lực.
+
+Những mảnh ớt tươi, hạt, giọt bắn và các hạt nhỏ màu đỏ phát nổ tung ra bên ngoài trong chuyển động chậm macro tốc độ cao siêu chân thực.
+
+Hỗn hợp ớt nghiền bắt đầu biến đổi thành kết cấu sambal bóng bẩy, đậm đà.
+
+Máy quay: đẩy vào nhanh → đóng băng va chạm → quỹ đạo macro.
+
+Vật lý: nghiền nát, bắn tung tóe, hạt và phân tử chân thực; không có vẻ ngoài CGI nhân tạo.
+
+---
+
+03 | 3–5s — BECOME SAMBAL
+
+Hỗn hợp ớt nghiền chuyển hóa liền mạch thành sambal đỏ rực, sánh đặc.
+
+Kết cấu trở nên đậm đà, lợn cợn, bóng bẩy và kích thích vị giác mãnh liệt, với các mảnh ớt và hạt có thể nhìn thấy rõ.
+
+Sambal tạo thành một làn sóng ấn tượng cuộn qua khung hình.
+
+Máy quay: ống kính macro 85mm, độ sâu trường ảnh siêu nông, hé lộ kết cấu trong chuyển động chậm.
+
+Tiêu điểm: độ nhớt chân thực, sợi ớt, hạt, ánh sáng dầu bóng và màu đỏ đậm đà.
+
+---
+
+04 | 5–6.5s — VORTEX
+
+Làn sóng sambal xoáy ốc thành một cơn lốc màu đỏ đầy uy lực.
+
+Cơn lốc xoay nhanh trong khi các hạt ớt nhỏ li ti và các giọt bắn quay quanh nó.
+
+Trung tâm của cơn lốc mở ra, tạo thành không gian hé lộ đầy kịch tính.
+
+Máy quay: quỹ đạo macro 360° + kéo lùi có kiểm soát.
+
+Ánh sáng: ánh sáng studio cao cấp với các điểm sáng phản chiếu lấp lánh.
+
+Chuyển cảnh: cơn lốc tự nhiên tạo thành hình bóng bóng mờ của sản phẩm.
+
+---
+
+05 | 6.5–8.5s — PRODUCT REVEAL
+
+Sản phẩm Sambal Ekstra Pedas chuẩn xác theo tham chiếu xuất hiện từ trung tâm của cơn lốc đỏ.
+
+Sản phẩm đáp xuống thẳng đứng hoàn hảo trên một bề mặt tối cao cấp trong khi các hạt ớt nhỏ li ti và những giọt sambal tinh tế lắng xuống xung quanh.
+
+Máy quay thực hiện cú đẩy vào mượt mà chuẩn điện ảnh.
+
+Sản phẩm phải giữ được độ sắc nét hoàn hảo và không bị biến dạng.
+
+Bảo toàn chính xác bao bì, nhãn mác, logo, kiểu chữ, màu sắc và tỷ lệ từ hình tham chiếu.
+
+---
+
+06 | 8.5–10.5s — TEXTURE
+
+Chuyển sang cảnh cận cảnh cực kỳ chi tiết (extreme macro) của sambal.
+
+Một chiếc thìa bóng loáng lướt chậm qua lớp sambal đặc sánh, để lộ kết cấu đậm đà của nó.
+
+Nhìn thấy rõ:
+
+- Miếng ớt thật
+- Hạt ớt
+- Sợi xơ tự nhiên
+- Vệt sáng dầu bóng bẩy
+- Độ sánh đặc, lợn cợn
+- Màu đỏ tươi mới
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1092,6 +1207,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098306910915375260"></a>
+
+### Đang dịch
+
+Tác giả：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Bài gốc](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Tiếp thị sản phẩm · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098306910915375260.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**52** Prompts · Adição mais recente: **2026-09-11**
+**53** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -458,20 +458,135 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2098289889964183843"></a>
 
-### Tradução em curso
+### Crie um anúncio premium vertical 9:16 de 15 segundos de Sambal Ekstra Pedas, apresentando 8 cenas cinematográficas, qualidade 8K ultrarrealista, energia de thriller de ação × estética premium de anúncio de TV de alimentos e cinematografia macro de alta velocidade de alimentos.
 
 Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Publicação original](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Marketing de Produto · Fotografia · Cena de Cinema / Fotograma · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie um anúncio premium vertical 9:16 de 15 segundos de Sambal Ekstra Pedas, apresentando 8 cenas cinematográficas, qualidade 8K ultrarrealista, energia de thriller de ação × estética premium de anúncio de TV de alimentos e cinematografia macro de alta velocidade de alimentos.
 
 <img src="covers/2098289889964183843.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um anúncio premium vertical 9:16 de 15 segundos de Sambal Ekstra Pedas, apresentando 8 cenas cinematográficas, qualidade 8K ultrarrealista, energia de thriller de ação × estética premium de anúncio de TV de alimentos e cinematografia macro de alta velocidade de alimentos.
+
+BLOQUEIO DO PRODUTO — CRÍTICO
+
+Utilize exatamente o produto Sambal Ekstra Pedas da imagem/vídeo de referência fornecido ao longo de todo o anúncio.
+
+Preserve exatamente:
+
+- O formato e as proporções da garrafa/frasco
+- O design da tampa
+- O design e a colocação do rótulo
+- O logótipo da marca
+- O nome do produto e a tipografia
+- As cores e os detalhes da embalagem
+- A cor e a consistência realista do sambal
+
+NÃO redesenhe, modifique, distorça, substitua, duplique, espelhe ou invente a embalagem. NÃO gere textos, logótipos, rótulos ou marcas incorretas. Apenas uma embalagem principal do produto no plano de destaque final (hero shot).
+
+ESTILO VISUAL
+
+Ultrarrealista • 8K cinematográfico • publicidade de alimentos de grande consumo (FMCG) de padrão global premium • cinematografia de thriller de ação • iluminação controlada e dramática • tons ricos de piripiri vermelho • física de alimentos realista • textura de sambal brilhante e apetitosa • fotografia de alta velocidade • detalhe macro • movimento de câmara dinâmico • simulação realista de partículas e líquidos • foco nítido no produto • profundidade de campo reduzida • gradação de cor comercial premium.
+
+CONCEITO
+
+ATAQUE DO PIRIPIRI → ESMAGAMENTO → TRANSFORMAÇÃO EM SAMBAL → VÓRTICE → REVELAÇÃO DO PRODUTO → TEXTURA → COMIDA → HERO
+
+---
+
+01 | 0–1.5s — ATAQUE DO PIRIPIRI
+
+Plano macro extremo de um piripiri vermelho fresco a ser disparado rapidamente em direção à câmara como um projétil cinematográfico.
+
+No ponto mais próximo, o piripiri entra em câmara lenta estilo bullet-time e congela momentaneamente.
+
+Vários piripiris vermelhos frescos convergem subitamente de diferentes direções em direção ao centro.
+
+Câmara: lente de 24 mm, tracking agressivo para trás + órbita de 120°, perspetiva dinâmica, desfoque de movimento controlado.
+
+Iluminação: destaques vermelhos dramáticos com sombras profundas.
+
+Ambiente: explosivo, intenso, inesperado.
+
+---
+
+02 | 1.5–3s — ESMAGAMENTO DO PIRIPIRI
+
+Os piripiris convergentes colidem e esmagam-se num impacto cinematográfico poderoso.
+
+Pedaços de piripiri fresco, sementes, gotículas e pequenas partículas vermelhas explodem para fora numa câmara lenta macro ultrarrealista de alta velocidade.
+
+A mistura de piripiri esmagado começa a transformar-se numa textura de sambal rica e brilhante.
+
+Câmara: aproximação rápida (push-in) → congelamento no impacto → órbita macro.
+
+Física: esmagamento, salpicos, sementes e partículas realistas; sem aparência artificial de CGI.
+
+---
+
+03 | 3–5s — TRANSFORMAÇÃO EM SAMBAL
+
+A mistura de piripiri esmagado transforma-se perfeitamente num sambal vermelho espesso e vibrante.
+
+A textura torna-se rica, com pedaços, brilhante e intensamente apetitosa, com pedaços visíveis de piripiri e sementes.
+
+O sambal forma uma onda dramática que ondula através do enquadramento.
+
+Câmara: lente macro de 85 mm, profundidade de campo extremamente reduzida, revelação de textura em câmara lenta.
+
+Foco: viscosidade realista, fibras de piripiri, sementes, reflexos de óleo e cor vermelha intensa.
+
+---
+
+04 | 5–6.5s — VÓRTICE
+
+A onda de sambal gira num poderoso vórtice vermelho.
+
+O vórtice roda rapidamente enquanto pequenas partículas de piripiri e gotículas orbitam ao seu redor.
+
+O centro do vórtice abre-se, criando um espaço dramático de revelação.
+
+Câmara: órbita macro de 360° + recuo controlado.
+
+Iluminação: iluminação de estúdio premium com reflexos especulares brilhantes.
+
+Transição: o vórtice forma naturalmente a silhueta do produto.
+
+---
+
+05 | 6.5–8.5s — REVELAÇÃO DO PRODUTO
+
+O produto de referência exato de Sambal Ekstra Pedas surge do centro do vórtice vermelho.
+
+O produto assenta perfeitamente na vertical sobre uma superfície escura premium enquanto pequenas partículas de piripiri e subtis gotículas de sambal assentam ao seu redor.
+
+A câmara realiza uma aproximação (push-in) cinematográfica suave.
+
+O produto deve permanecer perfeitamente nítido e sem distorções.
+
+Preserve exatamente a embalagem, o rótulo, o logótipo, a tipografia, as cores e as proporções da referência.
+
+---
+
+06 | 8.5–10.5s — TEXTURA
+
+Corte para um grande plano macro extremo do sambal.
+
+Uma colher brilhante move-se lentamente através do sambal espesso, revelando a sua textura rica.
+
+Visíveis:
+
+- Pedaços reais de piripiri
+- Sementes de piripiri
+- Fibras naturais
+- Reflexos brilhantes de óleo
+- Consistência espessa e com pedaços
+- Cor vermelha fresca
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1068,6 +1183,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098306910915375260"></a>
+
+### Tradução em curso
+
+Autor：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Publicação original](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Marketing de Produto · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098306910915375260.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 

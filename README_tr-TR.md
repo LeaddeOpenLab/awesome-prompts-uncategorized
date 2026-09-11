@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**52** Prompt · Son eklenen: **2026-09-11**
+**53** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -458,20 +458,135 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2098289889964183843"></a>
 
-### Çeviri sürüyor
+### 8 sinematik sahne, ultra fotogerçekçi 8K kalitesi, aksiyon-gerilim enerjisi × premium gıda TVC estetiği ve yüksek hızlı makro gıda sinematografisi içeren premium 15 saniyelik dikey 9:16 Sambal Ekstra Pedas reklamı oluşturun.
 
 Yazar：[@HeyRu0by](https://x.com/HeyRu0by) · [Orijinal gönderi](https://x.com/HeyRu0by/status/2098289889964183843)
 
 Ürün Pazarlaması · Fotoğrafçılık · Sinematik / Film Karesi · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 8 sinematik sahne, ultra fotogerçekçi 8K kalitesi, aksiyon-gerilim enerjisi × premium gıda TVC estetiği ve yüksek hızlı makro gıda sinematografisi içeren premium 15 saniyelik dikey 9:16 Sambal Ekstra Pedas reklamı oluşturun.
 
 <img src="covers/2098289889964183843.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+8 sinematik sahne, ultra fotogerçekçi 8K kalitesi, aksiyon-gerilim enerjisi × premium gıda televizyon reklamı estetiği ve yüksek hızlı makro gıda sinematografisi içeren premium 15 saniyelik dikey 9:16 Sambal Ekstra Pedas reklamı oluşturun.
+
+ÜRÜN SABİTLEME — KRİTİK
+
+Reklamın tamamı boyunca sağlanan referans görselindeki/videosundaki birebir Sambal Ekstra Pedas ürününü kullanın.
+
+Aşağıdakileri birebir koruyun:
+
+- Şişe/kavanoz şekli ve oranları
+- Kapak tasarımı
+- Etiket tasarımı ve yerleşimi
+- Marka logosu
+- Ürün adı ve tipografi
+- Renkler ve ambalaj detayları
+- Sambal rengi ve gerçekçi kıvamı
+
+Ambalajı YENİDEN TASARLAMAYIN, değiştirmeyin, deforme etmeyin, yerine başka bir şey koymayın, çoğaltmayın, aynalamayın veya uydurmayın. Hatalı metinler, logolar, etiketler veya markalama OLUŞTURMAYIN. Nihai ana çekimde (hero shot) yalnızca tek bir birincil ürün ambalajı bulunmalıdır.
+
+GÖRSEL STİL
+
+Ultra fotogerçekçi • sinematik 8K • premium küresel hızlı tüketim ürünleri (FMCG) gıda reklamcılığı • aksiyon-gerilim sinematografisi • dramatik kontrollü aydınlatma • zengin kırmızı biber tonları • gerçekçi gıda fiziği • parlak iştah açıcı sambal dokusu • yüksek hızlı fotoğrafçılık • makro detay • dinamik kamera hareketi • gerçekçi parçacık ve sıvı simülasyonu • keskin ürün odağı • sığ alan derinliği • premium ticari renk derecelendirmesi.
+
+KONSEPT
+
+BİBER SALDIRISI → EZİLME → SAMBALA DÖNÜŞME → GİRDAP → ÜRÜN AÇIĞA ÇIKARMA → DOKU → YEMEK → HERO
+
+---
+
+01 | 0–1.5s — BİBER SALDIRISI
+
+Sinematik bir mermi gibi kameraya doğru hızla fırlayan taze bir kırmızı acı biberin aşırı makro çekimi.
+
+En yakın noktada biber, bullet-time ağır çekime girer ve anlık olarak donar.
+
+Birden fazla taze kırmızı biber farklı yönlerden merkeze doğru aniden birleşir.
+
+Kamera: 24mm lens, agresif geriye doğru takip + 120° yörünge (orbit), dinamik perspektif, kontrollü hareket bulanıklığı.
+
+Aydınlatma: derin gölgelerle dramatik kırmızı vurgular.
+
+Ruh Hali: patlayıcı, yoğun, beklenmedik.
+
+---
+
+02 | 1.5–3s — BİBER EZİLME
+
+Birleşen biberler güçlü ve sinematik bir darbeyle çarpışıp birbirini ezer.
+
+Taze biber parçaları, tohumlar, damlacıklar ve minik kırmızı parçacıklar ultra gerçekçi yüksek hızlı makro ağır çekimde dışarıya doğru patlar.
+
+Ezilmiş biber karışımı, zengin ve parlak bir sambal dokusuna dönüşmeye başlar.
+
+Kamera: hızlı yaklaşma (push-in) → darbe anında donma → makro yörünge.
+
+Fizik: gerçekçi ezilme, sıçrama, tohumlar ve parçacıklar; yapay CGI görünümü yok.
+
+---
+
+03 | 3–5s — SAMBALA DÖNÜŞME
+
+Ezilmiş biber karışımı kusursuz bir şekilde koyu, canlı kırmızı bir sambala dönüşür.
+
+Doku; görünür biber parçaları ve tohumlarla zengin, taneli, parlak ve son derece iştah açıcı hale gelir.
+
+Sambal, kadraj boyunca kıvrılan dramatik bir dalga oluşturur.
+
+Kamera: makro 85mm lens, ultra sığ alan derinliği, ağır çekim doku ortaya çıkarma.
+
+Odak: gerçekçi viskozite, biber lifleri, tohumlar, yağ parıltıları ve zengin kırmızı renk.
+
+---
+
+04 | 5–6.5s — GİRDAP
+
+Sambal dalgası güçlü bir kırmızı girdaba dönüşerek spirallenir.
+
+Girdap hızla dönerken minik biber parçacıkları ve damlacıklar etrafında yörüngede döner.
+
+Girdabın merkezi açılarak dramatik bir ortaya çıkış alanı yaratır.
+
+Kamera: 360° makro yörünge + kontrollü geri çekilme.
+
+Aydınlatma: parlak yansımalı premium stüdyo aydınlatması.
+
+Geçiş: girdap doğal olarak ürünün silüetini oluşturur.
+
+---
+
+05 | 6.5–8.5s — ÜRÜN AÇIĞA ÇIKARMA
+
+Birebir referanstaki Sambal Ekstra Pedas ürünü, kırmızı girdabın merkezinden yükselir.
+
+Ürün, premium karanlık bir yüzeye mükemmel şekilde dik olarak inerken minik biber parçacıkları ve hafif sambal damlacıkları etrafına yerleşir.
+
+Kamera yumuşak, sinematik bir yaklaşma (push-in) gerçekleştirir.
+
+Ürün kusursuz şekilde keskin ve bozulmamış kalmalıdır.
+
+Referanstaki ambalajı, etiketi, logoyu, tipografiyi, renkleri ve oranları birebir koruyun.
+
+---
+
+06 | 8.5–10.5s — DOKU
+
+Sambalın aşırı makro yakın çekimine geçiş.
+
+Parlak bir kaşık, koyu sambalın içinde yavaşça hareket ederek zengin dokusunu gözler önüne serer.
+
+Görünenler:
+
+- Gerçek biber parçaları
+- Biber tohumları
+- Doğal lifler
+- Parlak yağ parıltıları
+- Koyu, taneli kıvam
+- Taze kırmızı renk
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1068,6 +1183,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098306910915375260"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Fujimoto\_hina](https://x.com/Fujimoto_hina) · [Orijinal gönderi](https://x.com/Fujimoto_hina/status/2098306910915375260)
+
+Ürün Pazarlaması · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098306910915375260.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098328564471091256"></a>
 
