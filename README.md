@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**51** Prompts · Latest addition: **2026-09-11**
+**52** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1384,6 +1384,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098328564471091256"></a>
+
+### Prompt for generating a nun wearing a black habit and gold cross necklace.
+
+Author：[@AI\_Kei75](https://x.com/AI_Kei75) · [Source](https://x.com/AI_Kei75/status/2098328564471091256)
+
+Character · Published
+
+**Summary:** Prompt for generating a nun wearing a black habit and gold cross necklace.
+
+<img src="images/2098328564471091256-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+nun, nun costume, black nun veil, white wimple, high collar, gold cross necklace, long sleeves, white cuffs, (black one-piece dress:1.2), (soft texture), all black long robe, ankle, black pumps,
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098298423384645737"></a>
 
