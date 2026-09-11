@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T12:31:59.301Z",
+  "model": "unknown-image",
+  "prompt": "Beneath a swirling aurora borealis, a small, winged dragon with emerald scales carefully stacks colourful, glowing geodes into a precarious tower, his expression one of intense concentration",
+  "promptTranslations": {
+    "en": "Beneath a swirling aurora borealis, a small, winged dragon with emerald scales carefully stacks colourful, glowing geodes into a precarious tower, his expression one of intense concentration"
+  },
+  "summaryTranslations": {
+    "en": "A small emerald dragon stacking glowing geodes under an aurora."
+  },
+  "translationVersion": 2,
+  "summary": "A small emerald dragon stacking glowing geodes under an aurora.",
+  "summaryEn": "A small emerald dragon stacking glowing geodes under an aurora.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098381131855097863",
+    "canonicalUrl": "https://x.com/BeanieBlossom/status/2098381131855097863",
+    "author": {
+      "username": "BeanieBlossom",
+      "displayName": "Beanie Blossom",
+      "profileUrl": "https://x.com/BeanieBlossom"
+    },
+    "publishedAt": "2026-09-11T12:00:22.000Z",
+    "collectedAt": "2026-09-11T12:16:05.734Z",
+    "language": "en",
+    "originalText": "Prompt: Beneath a swirling aurora borealis, a small, winged dragon with emerald scales carefully stacks colourful, glowing geodes into a precarious tower, his expression one of intense concentration\n\nFeel free to join in :)\n\n#AIArtWork #AIArt #AIArtists #AIArtCommunity #PromptShare",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR7yhJ9boAAS_ru.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR7yhJ9boAAS_ru.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 3,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 85
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/BeanieBlossom/status/2098381131855097863",
+  "coverUrl": "https://pbs.twimg.com/media/HR7yhJ9boAAS_ru.jpg",
+  "coverPath": "images/2098381131855097863-1.jpg",
+  "imagePaths": [
+    "images/2098381131855097863-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR7yhJ9boAAS_ru",
+    "x-post:2098381131855097863"
+  ],
+  "analysis": {
+    "summary": "A small emerald dragon stacking glowing geodes under an aurora.",
+    "summaryEn": "A small emerald dragon stacking glowing geodes under an aurora.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image clearly shows the green dragon carefully balancing glowing crystals under a green northern lights sky."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Beneath a swirling aurora borealis, a small, winged dragon with emerald scales carefully stacks colourful, glowing geodes into a precarious tower, his expression one of intense concentration",
+    "sourceRange": {
+      "start": 8,
+      "end": 198
+    },
+    "translations": {
+      "zh": "在旋转的北极光下，一只长着翡翠鳞片的小飞龙小心翼翼地将色彩斑斓、发光的晶洞堆成一座摇摇欲坠的高塔，脸上带着全神贯注的表情",
+      "en": "Beneath a swirling aurora borealis, a small, winged dragon with emerald scales carefully stacks colourful, glowing geodes into a precarious tower, his expression one of intense concentration"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative artwork",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
