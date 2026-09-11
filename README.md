@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**45** Prompts · Latest addition: **2026-09-11**
+**46** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1217,6 +1217,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098260186737901631"></a>
+
+### Satisfying macro video prompt of a human hand step-by-step building a brick-and-concrete cottage in a miniature construction site scene.
+
+Author：[@Mud01185127](https://x.com/Mud01185127) · [Source](https://x.com/Mud01185127/status/2098260186737901631)
+
+Other · Published
+
+**Summary:** Satisfying macro video prompt of a human hand step-by-step building a brick-and-concrete cottage in a miniature construction site scene.
+
+<img src="covers/2098260186737901631.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a hyper-realistic cinematic miniature construction scene where a giant human hand carefully builds a tiny brick structure on a miniature construction site. Show detailed small bricks, realistic cement, tools, sandy ground, natural textures, shallow depth of field, macro photography, smooth camera movement, realistic lighting, and satisfying step-by-step construction. Ultra-detailed, photorealistic, 4K, vertical 9:16, seamless visual continuity.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098249488150532562"></a>
 
