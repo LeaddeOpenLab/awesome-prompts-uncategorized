@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**62** 개 · 최근 추가: **2026-09-11**
+**63** 개 · 최근 추가: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [만화 / 그래픽 노블](#category-comic-graphic-novel) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1011,6 +1011,36 @@ CGI 털,
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## 만화 / 그래픽 노블
+
+<a name="prompt-2098359042234351871"></a>
+
+### 번역 중
+
+작성자：[@Tanvir48992](https://x.com/Tanvir48992) · [원본 게시물](https://x.com/Tanvir48992/status/2098359042234351871)
+
+만화 / 그래픽 노블 · 3D 렌더링 · 인물 사진 / 셀카 · 캐릭터 · 배포 완료
+
+원본 게시물：[@Tanvir48992](https://x.com/Tanvir48992) · [원본 게시물](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**요약:** 번역 중
+
+<img src="images/2098359042234351871-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## 3D 렌더링
@@ -1373,20 +1403,20 @@ FIELD NOTE [번호]
 
 <a name="prompt-2098381131855097863"></a>
 
-### 번역 중
+### 오로라 아래에서 빛나는 정동석을 쌓고 있는 작은 에메랄드빛 용.
 
 작성자：[@BeanieBlossom](https://x.com/BeanieBlossom) · [원본 게시물](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 동물 / 생명체 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 오로라 아래에서 빛나는 정동석을 쌓고 있는 작은 에메랄드빛 용.
 
 <img src="images/2098381131855097863-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+소용돌이치는 오로라 아래, 에메랄드빛 비늘을 지닌 작은 날개 달린 용이 다채롭게 빛나는 정동석을 조심스럽게 쌓아 위태로운 탑을 만들고 있으며, 표정에는 깊은 집중이 묻어나고 있다
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

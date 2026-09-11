@@ -19,13 +19,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**62** รายการ · เพิ่มล่าสุด: **2026-09-11**
+**63** รายการ · เพิ่มล่าสุด: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [อนิเมะ / มังงะ](#category-anime-manga) · [ภาพประกอบ](#category-illustration) · [ภาพร่าง / ลายเส้น](#category-sketch-line-art) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [ไซเบอร์พังก์ / ไซไฟ](#category-cyberpunk-sci-fi) · [มินิมอลลิสต์](#category-minimalism) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [อนิเมะ / มังงะ](#category-anime-manga) · [ภาพประกอบ](#category-illustration) · [ภาพร่าง / ลายเส้น](#category-sketch-line-art) · [การ์ตูน / นิยายภาพ](#category-comic-graphic-novel) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [ไซเบอร์พังก์ / ไซไฟ](#category-cyberpunk-sci-fi) · [มินิมอลลิสต์](#category-minimalism) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1017,6 +1017,36 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## การ์ตูน / นิยายภาพ
+
+<a name="prompt-2098359042234351871"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@Tanvir48992](https://x.com/Tanvir48992) · [โพสต์ต้นฉบับ](https://x.com/Tanvir48992/status/2098359042234351871)
+
+การ์ตูน / นิยายภาพ · ภาพเรนเดอร์ 3 มิติ · ภาพบุคคล / เซลฟี่ · ตัวละคร · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@Tanvir48992](https://x.com/Tanvir48992) · [โพสต์ต้นฉบับ](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098359042234351871-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="รูปภาพ 2" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## ภาพเรนเดอร์ 3 มิติ
@@ -1391,20 +1421,20 @@ FIELD NOTE [หมายเลข]
 
 <a name="prompt-2098381131855097863"></a>
 
-### กำลังแปล
+### มังกรสีมรกตตัวเล็กกำลังซ้อนจีโอดเปล่งแสงใต้แสงออโรรา
 
 ผู้เขียน：[@BeanieBlossom](https://x.com/BeanieBlossom) · [โพสต์ต้นฉบับ](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 สัตว์ / สิ่งมีชีวิต · เผยแพร่แล้ว
 
-**สรุป:** กำลังแปล
+**สรุป:** มังกรสีมรกตตัวเล็กกำลังซ้อนจีโอดเปล่งแสงใต้แสงออโรรา
 
 <img src="images/2098381131855097863-1.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-กำลังแปล
+ใต้แสงเหนือที่หมุนวนเป็นเกลียว มังกรมีปีกตัวเล็กที่มีเกล็ดสีมรกตกำลังค่อยๆ วางซ้อนจีโอดหลากสีที่เปล่งแสงเป็นหอคอยอันหมิ่นเหม่ด้วยความระมัดระวัง สีหน้าของมันเต็มไปด้วยความมีสมาธิจดจ่ออย่างยิ่ง
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

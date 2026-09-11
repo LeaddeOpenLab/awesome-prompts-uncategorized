@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**62** Prompts · Última adição: **2026-09-11**
+**63** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cinematográfico / Imagem de Filme](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Quadrinhos / Graphic Novel](#category-comic-graphic-novel) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1005,6 +1005,36 @@ Tradução em andamento
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## Quadrinhos / Graphic Novel
+
+<a name="prompt-2098359042234351871"></a>
+
+### Tradução em andamento
+
+Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicação original](https://x.com/Tanvir48992/status/2098359042234351871)
+
+Quadrinhos / Graphic Novel · Renderização 3D · Retrato / Selfie · Personagem · Publicado
+
+Publicação original：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicação original](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098359042234351871-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
@@ -1367,20 +1397,20 @@ Tradução em andamento
 
 <a name="prompt-2098381131855097863"></a>
 
-### Tradução em andamento
+### Um pequeno dragão esmeralda empilhando geodos brilhantes sob uma aurora.
 
 Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publicação original](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um pequeno dragão esmeralda empilhando geodos brilhantes sob uma aurora.
 
 <img src="images/2098381131855097863-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Sob uma rodopiante aurora boreal, um pequeno dragão alado com escamas esmeralda empilha cuidadosamente geodos brilhantes e coloridos em uma torre precária, com uma expressão de intensa concentração
 ```
 
 [↑ Voltar às categorias](#catalog)

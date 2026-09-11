@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**62** Prompt · Ultima aggiunta: **2026-09-11**
+**63** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Rendering 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Fumetto / Graphic Novel](#category-comic-graphic-novel) · [Rendering 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1005,6 +1005,36 @@ Traduzione in corso
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## Fumetto / Graphic Novel
+
+<a name="prompt-2098359042234351871"></a>
+
+### Traduzione in corso
+
+Autore：[@Tanvir48992](https://x.com/Tanvir48992) · [Post originale](https://x.com/Tanvir48992/status/2098359042234351871)
+
+Fumetto / Graphic Novel · Rendering 3D · Ritratto / Selfie · Personaggio · Pubblicato
+
+Post originale：[@Tanvir48992](https://x.com/Tanvir48992) · [Post originale](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098359042234351871-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
@@ -1367,20 +1397,20 @@ Traduzione in corso
 
 <a name="prompt-2098381131855097863"></a>
 
-### Traduzione in corso
+### Un piccolo drago smeraldo che impila geodi luminosi sotto un'aurora.
 
 Autore：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Post originale](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un piccolo drago smeraldo che impila geodi luminosi sotto un'aurora.
 
 <img src="images/2098381131855097863-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Sotto una vorticosa aurora boreale, un piccolo drago alato dalle squame di smeraldo impila con cura geodi colorati e luminosi creando una torre precaria, con un'espressione di intensa concentrazione
 ```
 
 [↑ Torna alle categorie](#catalog)

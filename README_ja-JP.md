@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**62** 件 · 最新の追加: **2026-09-11**
+**63** 件 · 最新の追加: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [コミック / グラフィックノベル](#category-comic-graphic-novel) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1011,6 +1011,36 @@ CM全体を通して、提供された参照画像/動画と完全に一致す�
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## コミック / グラフィックノベル
+
+<a name="prompt-2098359042234351871"></a>
+
+### 翻訳中
+
+作者：[@Tanvir48992](https://x.com/Tanvir48992) · [元の投稿](https://x.com/Tanvir48992/status/2098359042234351871)
+
+コミック / グラフィックノベル · 3D レンダリング · ポートレート / セルフィー · キャラクター · 配信済み
+
+元の投稿：[@Tanvir48992](https://x.com/Tanvir48992) · [元の投稿](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**概要:** 翻訳中
+
+<img src="images/2098359042234351871-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## 3D レンダリング
@@ -1373,20 +1403,20 @@ FIELD NOTE [番号]
 
 <a name="prompt-2098381131855097863"></a>
 
-### 翻訳中
+### オーロラの下で光る晶洞を積み上げる小さなエメラルド色のドラゴン。
 
 作者：[@BeanieBlossom](https://x.com/BeanieBlossom) · [元の投稿](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 動物 / 生き物 · 配信済み
 
-**概要:** 翻訳中
+**概要:** オーロラの下で光る晶洞を積み上げる小さなエメラルド色のドラゴン。
 
 <img src="images/2098381131855097863-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+渦巻くオーロラの下、エメラルド色の鱗を持つ小さな有翼のドラゴンが、色鮮やかに光る晶洞を慎重に積み上げて今にも崩れそうな塔を作っており、その表情には強い集中がうかがえる
 ```
 
 [↑ カテゴリに戻る](#catalog)

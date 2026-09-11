@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**62** 筆內容 · 最新收錄: **2026-09-11**
+**63** 筆內容 · 最新收錄: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [復古 / 懷舊](#category-retro-vintage) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [極簡主義](#category-minimalism) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [漫畫 / 圖像小說](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render) · [復古 / 懷舊](#category-retro-vintage) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [極簡主義](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1012,6 +1012,36 @@ CGI毛髮、
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## 漫畫 / 圖像小說
+
+<a name="prompt-2098359042234351871"></a>
+
+### 翻譯中
+
+作者：[@Tanvir48992](https://x.com/Tanvir48992) · [查看 X 原帖](https://x.com/Tanvir48992/status/2098359042234351871)
+
+漫畫 / 圖像小說 · 3D 渲染 · 人像 / 自拍 · 角色 · 已推流
+
+查看 X 原帖：[@Tanvir48992](https://x.com/Tanvir48992) · [查看 X 原帖](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**概括:** 翻譯中
+
+<img src="images/2098359042234351871-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
@@ -1374,20 +1404,20 @@ FIELD NOTE [編號]
 
 <a name="prompt-2098381131855097863"></a>
 
-### 翻譯中
+### 極光下一隻堆疊發光晶洞的翡翠小龍。
 
 作者：[@BeanieBlossom](https://x.com/BeanieBlossom) · [查看 X 原帖](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 動物 / 生物 · 已推流
 
-**概括:** 翻譯中
+**概括:** 極光下一隻堆疊發光晶洞的翡翠小龍。
 
 <img src="images/2098381131855097863-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+在旋轉流動的北極光下，一隻長著翠綠色鱗片的小飛龍正小心翼翼地將色彩斑斕、發光的晶洞堆疊成一座搖搖欲墜的高塔，神情極為專注
 ```
 
 [↑ 返回分類目錄](#catalog)

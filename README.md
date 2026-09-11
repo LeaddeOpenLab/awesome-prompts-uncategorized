@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**62** Prompts · Latest addition: **2026-09-11**
+**63** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1075,6 +1075,36 @@ The text appears as though penned by a traveler with a fine-nib pen, carrying su
 The overall aesthetic should evoke a commemorative keepsake spread composed of an authentic book, travel photography, and hand-painted watercolor: tactile paper texture, a realistic book spine, harmonious correspondence between left and right pages, and a clear transition of memory between photograph and watercolor.
 
 Avoid: top-and-bottom comparisons, hard left-right split cuts, conventional picture frames, overcrowded journal stickers, excessive washi tape, ticket stubs, postage stamp perforations, digital vector lines, thick impasto oil paint, completely flat white cutouts, extra people, or landmarks that do not belong to the original image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-comic-graphic-novel"></a>
+
+## Comic / Graphic Novel
+
+<a name="prompt-2098359042234351871"></a>
+
+### A 3D exaggerated comedic-style caricature portrait of an adult woman featuring asymmetrical large eyes, a big nose, oversized ears, and a goofy grin, complemented by studio rim lighting.
+
+Author：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tanvir48992/status/2098359042234351871)
+
+Comic / Graphic Novel · 3D Render · Portrait / Selfie · Character · Published
+
+Source：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**Summary:** A 3D exaggerated comedic-style caricature portrait of an adult woman featuring asymmetrical large eyes, a big nose, oversized ears, and a goofy grin, complemented by studio rim lighting.
+
+<img src="images/2098359042234351871-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+[Create an original, highly stylized 3D caricature portrait of an adult woman, designed with extreme comedic facial exaggeration while retaining recognizable human characteristics. Give her a dramatically oversized head, wildly uneven facial proportions, large asymmetrical bulging eyes, an exaggerated crooked nose, oversized drooping ears, and an enormous goofy grin with irregularly spaced teeth.\n\nHer facial structure should remain believable beneath the exaggeration, with expressive eyebrows, natural facial creases, uneven skin texture, visible pores, subtle blemishes, and realistic imperfections. Give her chaotic, frizzy dark hair with individual strands sticking outward in different directions.\n\nRender the character in a semi-realistic high-detail 3D aesthetic with physically believable skin, hair, teeth, and materials. Use dramatic studio rim lighting from behind and the sides, creating bright highlights around the hair and ears while emphasizing wrinkles, texture, and facial contours. Add soft frontal fill light so the face remains clearly visible.\n\nKeep the composition minimal and uncluttered with a simple neutral studio background. Frame the character as a vertical 9:16 portrait, centered and tightly composed, with the enormous head dominating the image.\n\nMood: absurd, funny, bizarre, playful, exaggerated, slightly grotesque, and visually memorable.\n\nAvoid recognizable copyrighted characters, celebrity likenesses, existing artwork, logos, watermarks, text, plastic-looking skin, excessive CGI gloss, duplicated facial features, extra eyes, extra limbs, malformed hands, distorted teeth, blurry details, low resolution, and unnatural anatomy.]
 ```
 
 [↑ Back to categories](#catalog)

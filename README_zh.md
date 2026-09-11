@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**62** 条内容 · 最新收录: **2026-09-11**
+**63** 条内容 · 最新收录: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [3D 渲染](#category-3d-render) · [复古 / 怀旧](#category-retro-vintage) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [极简主义](#category-minimalism) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [漫画 / 图画小说](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render) · [复古 / 怀旧](#category-retro-vintage) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [极简主义](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1012,6 +1012,36 @@ CGI毛发、
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## 漫画 / 图画小说
+
+<a name="prompt-2098359042234351871"></a>
+
+### 翻译中
+
+作者：[@Tanvir48992](https://x.com/Tanvir48992) · [查看 X 原帖](https://x.com/Tanvir48992/status/2098359042234351871)
+
+漫画 / 图画小说 · 3D 渲染 · 人像 / 自拍 · 角色 · 已推流
+
+查看 X 原帖：[@Tanvir48992](https://x.com/Tanvir48992) · [查看 X 原帖](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**概括:** 翻译中
+
+<img src="images/2098359042234351871-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
@@ -1374,20 +1404,20 @@ FIELD NOTE [编号]
 
 <a name="prompt-2098381131855097863"></a>
 
-### 翻译中
+### 极光下一只堆叠发光晶洞的翡翠小龙。
 
 作者：[@BeanieBlossom](https://x.com/BeanieBlossom) · [查看 X 原帖](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 动物 / 生物 · 已推流
 
-**概括:** 翻译中
+**概括:** 极光下一只堆叠发光晶洞的翡翠小龙。
 
 <img src="images/2098381131855097863-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+在旋转流动的北极光下，一只长着翠绿色鳞片的长翅小龙正小心翼翼地将色彩斑斓、发光的晶洞堆叠成一座摇摇欲坠的高塔，脸上带着极度专注的表情
 ```
 
 [↑ 返回分类目录](#catalog)

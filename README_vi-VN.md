@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**62** Prompt · Bổ sung mới nhất: **2026-09-11**
+**63** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1017,6 +1017,36 @@ Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## Truyện tranh / Tiểu thuyết đồ họa
+
+<a name="prompt-2098359042234351871"></a>
+
+### Đang dịch
+
+Tác giả：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2098359042234351871)
+
+Truyện tranh / Tiểu thuyết đồ họa · Kết xuất 3D · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098359042234351871-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
@@ -1391,20 +1421,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098381131855097863"></a>
 
-### Đang dịch
+### Một chú rồng màu ngọc lục bảo nhỏ đang xếp các khối hốc tinh thể phát sáng dưới cực quang.
 
 Tác giả：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Bài gốc](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một chú rồng màu ngọc lục bảo nhỏ đang xếp các khối hốc tinh thể phát sáng dưới cực quang.
 
 <img src="images/2098381131855097863-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Dưới dải cực quang xoáy tít, một chú rồng nhỏ có cánh với lớp vảy màu ngọc lục bảo đang cẩn thận xếp những khối hốc tinh thể phát sáng đầy màu sắc thành một tòa tháp chênh vênh, nét mặt lộ rõ vẻ tập trung cao độ
 ```
 
 [↑ Về danh mục](#catalog)

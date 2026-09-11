@@ -19,13 +19,13 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**62** Prompts · Dernier ajout: **2026-09-11**
+**63** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Parcourir par catégorie
 
-[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Rendu 3D](#category-3d-render) · [Rétro / Vintage](#category-retro-vintage) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
+[Photographie](#category-photography) · [Image cinématographique / Photogramme de film](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Croquis / Dessin au trait](#category-sketch-line-art) · [Bande dessinée / Roman graphique](#category-comic-graphic-novel) · [Rendu 3D](#category-3d-render) · [Rétro / Vintage](#category-retro-vintage) · [Cyberpunk / Science-fiction](#category-cyberpunk-sci-fi) · [Minimalisme](#category-minimalism) · [Autres](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1005,6 +1005,36 @@ Traduction en cours
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## Bande dessinée / Roman graphique
+
+<a name="prompt-2098359042234351871"></a>
+
+### Traduction en cours
+
+Auteur：[@Tanvir48992](https://x.com/Tanvir48992) · [Publication originale](https://x.com/Tanvir48992/status/2098359042234351871)
+
+Bande dessinée / Roman graphique · Rendu 3D · Portrait / Selfie · Personnage · Publié
+
+Publication originale：[@Tanvir48992](https://x.com/Tanvir48992) · [Publication originale](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098359042234351871-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## Rendu 3D
@@ -1367,20 +1397,20 @@ Traduction en cours
 
 <a name="prompt-2098381131855097863"></a>
 
-### Traduction en cours
+### Un petit dragon émeraude empilant des géodes lumineuses sous une aurore.
 
 Auteur：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publication originale](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un petit dragon émeraude empilant des géodes lumineuses sous une aurore.
 
 <img src="images/2098381131855097863-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Sous une aurore boréale tourbillonnante, un petit dragon ailé aux écailles d'émeraude empile soigneusement des géodes colorées et lumineuses en une tour précaire, son expression témoignant d'une intense concentration
 ```
 
 [↑ Retour aux catégories](#catalog)

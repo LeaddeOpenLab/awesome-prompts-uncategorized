@@ -19,13 +19,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**62** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-11**
+**63** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [एनिमे / मंगा](#category-anime-manga) · [चित्रण](#category-illustration) · [स्केच / लाइन आर्ट](#category-sketch-line-art) · [3D रेंडर](#category-3d-render) · [रेट्रो / विंटेज](#category-retro-vintage) · [साइबरपंक / साइंस-फाई](#category-cyberpunk-sci-fi) · [मिनिमलिज़्म](#category-minimalism) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [एनिमे / मंगा](#category-anime-manga) · [चित्रण](#category-illustration) · [स्केच / लाइन आर्ट](#category-sketch-line-art) · [कॉमिक / ग्राफिक नॉवेल](#category-comic-graphic-novel) · [3D रेंडर](#category-3d-render) · [रेट्रो / विंटेज](#category-retro-vintage) · [साइबरपंक / साइंस-फाई](#category-cyberpunk-sci-fi) · [मिनिमलिज़्म](#category-minimalism) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1017,6 +1017,36 @@ LEGO बॉटनिकल कलेक्शन (LEGO Botanical Collection) क
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## कॉमिक / ग्राफिक नॉवेल
+
+<a name="prompt-2098359042234351871"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@Tanvir48992](https://x.com/Tanvir48992) · [मूल पोस्ट](https://x.com/Tanvir48992/status/2098359042234351871)
+
+कॉमिक / ग्राफिक नॉवेल · 3D रेंडर · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · प्रकाशित
+
+मूल पोस्ट：[@Tanvir48992](https://x.com/Tanvir48992) · [मूल पोस्ट](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098359042234351871-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="चित्र 2" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## 3D रेंडर
@@ -1391,20 +1421,20 @@ FIELD NOTE [संख्या]
 
 <a name="prompt-2098381131855097863"></a>
 
-### अनुवाद जारी है
+### ऑरोरा के नीचे चमकते जियोड्स को जमाता हुआ एक छोटा पन्ना-रंगी ड्रैगन।
 
 लेखक：[@BeanieBlossom](https://x.com/BeanieBlossom) · [मूल पोस्ट](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 पशु / जीव · प्रकाशित
 
-**सारांश:** अनुवाद जारी है
+**सारांश:** ऑरोरा के नीचे चमकते जियोड्स को जमाता हुआ एक छोटा पन्ना-रंगी ड्रैगन।
 
 <img src="images/2098381131855097863-1.jpg" alt="चित्र 1" width="480" />
 
 **प्रॉम्प्ट**
 
 ```text
-अनुवाद जारी है
+घूमते हुए ऑरोरा बोरेलिस के नीचे, पन्ना जैसे हरे शल्कों वाला एक छोटा, पंखों वाला ड्रैगन रंग-बिरंगे, चमकते हुए जियोड्स को सावधानी से एक डगमगाती हुई मीनार में जमा रहा है, और उसके चेहरे पर गहन एकाग्रता का भाव है
 ```
 
 [↑ श्रेणियों पर लौटें](#catalog)

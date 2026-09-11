@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**62** Prompt · Son eklenen: **2026-09-11**
+**63** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1005,6 +1005,36 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## Çizgi Roman / Grafik Roman
+
+<a name="prompt-2098359042234351871"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https://x.com/Tanvir48992/status/2098359042234351871)
+
+Çizgi Roman / Grafik Roman · 3D Modelleme · Portre / Selfie · Karakter · Yayımlandı
+
+Orijinal gönderi：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098359042234351871-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
@@ -1367,20 +1397,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098381131855097863"></a>
 
-### Çeviri sürüyor
+### Kuzey ışıkları altında parlayan jeotları üst üste dizen küçük bir zümrüt ejderha.
 
 Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kuzey ışıkları altında parlayan jeotları üst üste dizen küçük bir zümrüt ejderha.
 
 <img src="images/2098381131855097863-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Girdap gibi dönen bir kuzey ışıklarının altında, zümrüt pullu küçük, kanatlı bir ejderha, renkli ve parlayan jeotları dikkatle dengesiz bir kule şeklinde üst üste diziyor; yüzünde yoğun bir konsantrasyon ifadesi var
 ```
 
 [↑ Kategorilere dön](#catalog)

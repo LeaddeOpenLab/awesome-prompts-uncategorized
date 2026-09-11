@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**62** Prompts · Última incorporación: **2026-09-11**
+**63** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Renderizado 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Ilustración](#category-illustration) · [Boceto / Arte lineal](#category-sketch-line-art) · [Cómic / Novela gráfica](#category-comic-graphic-novel) · [Renderizado 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1005,6 +1005,36 @@ Traducción en curso
 
 ---
 
+<a name="category-comic-graphic-novel"></a>
+
+## Cómic / Novela gráfica
+
+<a name="prompt-2098359042234351871"></a>
+
+### Traducción en curso
+
+Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicación original](https://x.com/Tanvir48992/status/2098359042234351871)
+
+Cómic / Novela gráfica · Renderizado 3D · Retrato / Selfie · Personaje · Publicado
+
+Publicación original：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicación original](https://x.com/Tanvir48992/status/2098292936064844224)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098359042234351871-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098359042234351871-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="category-3d-render"></a>
 
 ## Renderizado 3D
@@ -1367,20 +1397,20 @@ Traducción en curso
 
 <a name="prompt-2098381131855097863"></a>
 
-### Traducción en curso
+### Un pequeño dragón esmeralda apilando geodas brillantes bajo una aurora.
 
 Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publicación original](https://x.com/BeanieBlossom/status/2098381131855097863)
 
 Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un pequeño dragón esmeralda apilando geodas brillantes bajo una aurora.
 
 <img src="images/2098381131855097863-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Bajo una arremolinada aurora boreal, un pequeño dragón alado con escamas de esmeralda apila cuidadosamente geodas brillantes y coloridas en una torre precaria, con una expresión de intensa concentración
 ```
 
 [↑ Volver a categorías](#catalog)
