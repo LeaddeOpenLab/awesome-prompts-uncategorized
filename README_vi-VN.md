@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**68** Prompt · Bổ sung mới nhất: **2026-09-11**
+**69** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1450,6 +1450,30 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098426167195783286"></a>
+
+### Đang dịch
+
+Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2098426167195783286)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098426167195783286-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098426167195783286-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098423018267754894"></a>
 

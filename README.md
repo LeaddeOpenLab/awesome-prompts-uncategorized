@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**68** Prompts · Latest addition: **2026-09-11**
+**69** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1593,6 +1593,30 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098426167195783286"></a>
+
+### Full-body studio portrait of an elegant woman in a bronze-brown satin gown against a warm textured backdrop.
+
+Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2098426167195783286)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** Full-body studio portrait of an elegant woman in a bronze-brown satin gown against a warm textured backdrop.
+
+<img src="images/2098426167195783286-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098426167195783286-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A full-body studio portrait of an elegant woman posing gracefully against a textured, warm brown backdrop. She is wearing a sleeveless, lustrous bronze-brown satin evening gown featuring a deep V-neckline, a fitted bodice with delicate draping, and a dramatic high slit that reveals a glimpse of her leg. Her long, flowing skirt billows slightly outward, adding a sense of movement, and she complements the outfit with matching metallic strappy high heels. Her dark hair is styled in an updo with soft framing strands around her face, and she looks toward the camera with a gentle, confident smile while lightly touching her hair with one hand.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098423018267754894"></a>
 

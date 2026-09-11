@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**68** Prompt · Son eklenen: **2026-09-11**
+**69** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1426,6 +1426,30 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098426167195783286"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2098426167195783286)
+
+Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098426167195783286-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098426167195783286-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098423018267754894"></a>
 
