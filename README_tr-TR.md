@@ -1543,20 +1543,174 @@ Dokulu, sıcak kahverengi bir arka plan önünde zarifçe poz veren şık bir ka
 
 <a name="prompt-2098423018267754894"></a>
 
-### Çeviri sürüyor
+### Canlı çekim koreografiyi kaotik el çizimi beyaz karalama karakterler, grafik katmanlar ve stop-motion tarzı hareketlerle birleştiren stilize bir moda dans müziği videosu oluşturun.
 
 Yazar：[@applete77191758](https://x.com/applete77191758) · [Orijinal gönderi](https://x.com/applete77191758/status/2098423018267754894)
 
 Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Canlı çekim koreografiyi kaotik el çizimi beyaz karalama karakterler, grafik katmanlar ve stop-motion tarzı hareketlerle birleştiren stilize bir moda dans müziği videosu oluşturun.
 
 <img src="covers/2098423018267754894.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Garip, oyuncu ve kaotik bir karma teknik (mixed-media) havasına sahip, hiper-stilize bir moda dans müziği videosu oluşturun.
+
+Şık bir ana dansçı, kentsel dans enerjisiyle müzikalite odaklı bir R&B / funk / disco-funk koreografisi sergiler. Beden salınımı (body groove), omuz salınımı, göğüs izolasyonları, ritmik ayak hareketleri, keskin donmalar (freezes), dönüşler, poz vuruşları, kol savurmaları, şık geçişler ve özgüvenli bir duruş ekleyin. Koreografi net ve anlaşılır kalmalıdır.
+
+Önemli kurallar:
+
+Video boyunca orijinal arka planı ve ortamı görsel olarak tutarlı tutun.
+
+Arka planı tamamen farklı bir mekanla değiştirmeyin.
+
+Mekan hissini bozmayın.
+
+Arka plan aynı temel ortam olarak kalmalı, karalamalar, glitch efektleri ve karma teknik unsurları bunun üzerine eklenmelidir.
+
+Gerçek dansçının yüzünün üzerine DOĞRUDAN karalama ÇİZMEYİN.
+
+Gözleri, burnu, ağzı veya yüz hatlarını KAPATMAYIN.
+
+Yüzü her zaman temiz, görünür ve çekici tutun.
+
+Karalamalar başın çevresinde, saç hatlarında, omuzlarda, kollarda, gövdede, ellerde, bacaklarda ve silüette görünebilir, ancak asla doğrudan yüzün üzerinde görünmemelidir.
+
+Özel yaratıcı unsur:
+
+Kaba, beyaz karalama karakterler belirir ve ana dansçıyla birlikte dans eder.
+
+Bu karalama figürler fazlasıyla elle çizilmiş, serbest, eskiz tadında, oyuncu, dağınık ve canlı hissettirmelidir — tıpkı kendiliğinden çizilmiş defter karalamaları veya beyaz pastel boya çizimleri gibi.
+
+Çok temiz veya fazla cilalanmış görünmemelidirler.
+
+Şu şekillerde görünebilirler:
+
+- basit çöp adam dansçılar
+
+- kaba karikatür insanlar
+
+- karalanmış mini dansçılar
+
+- esneyen dans eden silüetler
+
+- komik el çizimi yoldaşlar
+
+- çoğaltılmış eskiz klonları
+
+Karalama figürler gerçek dansçıyla eğlenceli ve şaşırtıcı şekillerde etkileşime girer:
+
+- senkronize bir şekilde birlikte dans etmek
+
+- hareketleri kopyalamak
+
+- hareketlere yanıt vermek
+
+- dansçının etrafını sarmak
+
+- ritme göre belirip kaybolmak
+
+- çoğalarak birçok eskiz dansçıya dönüşmek
+
+- dansçının arkasından fırlamak
+
+- zeminden, duvarlardan veya gölgelerden çıkmak
+
+- kısa süreliğine aksesuarlar taşımak veya komik tepkiler vermek
+
+Yalnızca insan karalamaları değil, aynı zamanda birçok başka kaba karalama unsuru da ekleyin:
+
+- yıldızlar
+
+- oklar
+
+- daireler
+
+- karalamalar
+
+- şimşekler
+
+- hız çizgileri
+
+- çizgi roman çarpma patlamaları
+
+- hareket izleri
+
+- beyaz tebeşir izleri
+
+- beyaz pastel boya çizgileri
+
+- elle çizilmiş girdaplar
+
+- kaba kalpler
+
+- üstü çizili işaretler
+
+- onay işaretleri
+
+- soyut semboller
+
+- eskiz duman pufcukları
+
+- dans eden çizgiler
+
+- kaba çerçeveler
+
+- süzülen çizgi film elleri
+
+- basit gözler veya komik tepki ikonları
+
+- dağınık grafik vurgular
+
+Bu karalamalar daha çok gerçek karalama gibi hissettirmelidir: kaba, spontane, eskiz tarzında, kusurlu, oyuncu ve enerjik.
+
+Karalamaların el yapımı ve biraz kaotik hissettirmesini sağlayın.
+
+Kamera:
+
+Yalnızca ara sıra yapılan yumuşak yanal takipler dışında çoğunlukla statik kamera.
+
+Kamera her zaman dansçıya paralel kalır.
+
+Dansçı kadrajın merkezinde kalır.
+
+Koreografinin net bir şekilde görülebilmesi için boydan kadrajlamaya öncelik verin.
+
+Yörüngede dönen kamera yok, dönen kamera yok, drone çekimi yok, aşırı yakınlaştırma (zoom) yok, rastgele kamera hareketi yok.
+
+Görsel stil:
+
+Seçkin moda editoryal görünümü, lüks sokak giyimi estetiği, cesur kompozisyon, yüksek kontrastlı aydınlatma, temiz arka plan, trend müzik videosu enerjisi.
+
+Gerçek dansçı ve temel arka plan cilalı ve şık hissettirmeli, karalama katmanı ise ham, el yapımı ve kaotik hissettirmelidir.
+
+Bu kontrast önemlidir.
+
+Hareket stili:
+
+Stop-motion, kare kare animasyon, kesme (cutout) animasyon, kolaj animasyonu ve ikili/üçlü kareleme (animated-on-twos / animated-on-threes) zamanlamasından esinlenen kademeli, düşük kare hızlı bir estetik kullanın.
+
+Dansın anlaşılırlığını korurken ritmik flaş patlamaları, titreşim (flicker) vurguları, pozdan poza enerji ve 12 fps benzeri bir his ekleyin.
+
+Ekstra efektler:
+
+Glitch efektleri, titreşimli kesmeler (flicker cuts), kare atlama, teklemeli kurgular (stutter edits), kolaj patlamaları, titrek kesintiler ve ritimle senkronize kaotik görsel tepkiler ekleyin.
+
+Koreografiyi anlaşılır tutun.
+
+Bu gariplik özensiz değil; şık, eğlenceli ve yaratıcı hissettirmelidir.
+
+Ruh hali:
+
+Havalı, funk tarzı, şık, tuhaf, oyuncu, kaotik, modaya yön veren, şaşırtıcı, yaratıcı, eğlendirici.
+
+Arka plan müziği (BGM) havası:
+
+R&B Funk, Disco Funk, Funk-pop.
+
+Metin yok, altyazı yok, filigran yok, logo yok, istenmeyen fazladan gerçek insanlar yok, bozuk anatomi yok, fazladan uzuv yok, beden deformasyonu yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

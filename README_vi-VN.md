@@ -1567,20 +1567,174 @@ Bức ảnh chân dung studio toàn thân của một người phụ nữ thanh 
 
 <a name="prompt-2098423018267754894"></a>
 
-### Đang dịch
+### Tạo một video ca nhạc vũ đạo thời trang cách điệu kết hợp giữa biên đạo người thật với các nhân vật doodle màu trắng vẽ tay hỗn loạn, các lớp phủ đồ họa và chuyển động theo phong cách stop-motion.
 
 Tác giả：[@applete77191758](https://x.com/applete77191758) · [Bài gốc](https://x.com/applete77191758/status/2098423018267754894)
 
 Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một video ca nhạc vũ đạo thời trang cách điệu kết hợp giữa biên đạo người thật với các nhân vật doodle màu trắng vẽ tay hỗn loạn, các lớp phủ đồ họa và chuyển động theo phong cách stop-motion.
 
 <img src="covers/2098423018267754894.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video ca nhạc vũ đạo thời trang mang tính cách điệu cao với rung cảm đa phương tiện (mixed-media) kỳ lạ, tinh nghịch và hỗn loạn.
+
+Một vũ công chính sành điệu biểu diễn bài biên đạo R&B / funk / disco-funk tập trung vào tính nhạc với năng lượng vũ đạo đường phố. Bao gồm chuyển động nhún nhảy toàn thân (body groove), nhún vai, phân tách ngực, các bước chân nhịp nhàng, các động tác đóng băng sắc nét (sharp freezes), xoay người, dứt điểm dáng pose, vung tay, chuyển động đầy phong cách và thần thái tự tin. Vũ đạo phải luôn rõ ràng và dễ theo dõi.
+
+Quy tắc quan trọng:
+
+Giữ cho nền và bối cảnh gốc nhất quán về mặt thị giác trong suốt video.
+
+Không thay thế bối cảnh bằng một địa điểm hoàn toàn khác.
+
+Không phá hủy cảm giác về không gian thực tế.
+
+Bối cảnh nền nên giữ nguyên môi trường cơ sở, trong khi các hình vẽ nguệch ngoạc (doodles), hiệu ứng trục trặc (glitch) và các yếu tố đa phương tiện được thêm đè lên trên.
+
+TUYỆT ĐỐI KHÔNG vẽ doodle trực tiếp lên khuôn mặt của vũ công thật.
+
+TUYỆT ĐỐI KHÔNG che mắt, mũi, miệng hoặc các đường nét trên khuôn mặt.
+
+Giữ cho khuôn mặt luôn sạch sẽ, rõ ràng và cuốn hút mọi lúc.
+
+Doodle có thể xuất hiện xung quanh đầu, đường viền tóc, vai, cánh tay, thân mình, bàn tay, chân và bóng dáng, nhưng không bao giờ vẽ trực tiếp lên mặt.
+
+Yếu tố sáng tạo đặc biệt:
+
+Các nhân vật doodle màu trắng nét vẽ thô ráp xuất hiện và nhảy cùng vũ công chính.
+
+Những hình doodle này phải mang lại cảm giác vẽ tay đậm nét, phóng khoáng, dạng phác thảo, tinh nghịch, lộn xộn và sống động — giống như nét vẽ nguệch ngoạc ngẫu hứng trong sổ tay hoặc nét vẽ bằng sáp màu trắng.
+
+Chúng không nên trông quá sạch sẽ hay quá trau chuốt.
+
+Chúng có thể xuất hiện dưới dạng:
+
+- các vũ công người que đơn giản
+
+- hình người hoạt hình nét thô
+
+- các vũ công mini vẽ nguệch ngoạc
+
+- bóng dáng vũ công kéo giãn
+
+- những người bạn đồng hành vẽ tay vui nhộn
+
+- các bản sao phác thảo nhân bản
+
+Những người doodle tương tác với vũ công thật theo những cách vui nhộn và bất ngờ:
+
+- cùng nhảy đồng bộ
+
+- bắt chước động tác
+
+- đáp lại động tác
+
+- bao quanh vũ công
+
+- xuất hiện và biến mất theo nhịp điệu (beat)
+
+- nhân bản thành nhiều vũ công phác thảo
+
+- bật ra từ phía sau vũ công
+
+- trồi lên từ sàn nhà, tường hoặc bóng râm
+
+- cầm đạo cụ chốc lát hoặc phản ứng một cách hài hước
+
+Đồng thời thêm nhiều yếu tố doodle thô khác, không chỉ doodle hình người:
+
+- ngôi sao
+
+- mũi tên
+
+- vòng tròn
+
+- nét vẽ nguệch ngoạc
+
+- tia chớp
+
+- đường chuyển động tốc độ
+
+- tia nổ va chạm kiểu truyện tranh
+
+- vệt chuyển động
+
+- vết phấn trắng
+
+- đường sáp màu trắng
+
+- xoáy ốc vẽ tay
+
+- hình trái tim vẽ thô
+
+- dấu gạch chéo
+
+- dấu tích kiểm tra
+
+- các biểu tượng trừu tượng
+
+- cụm khói phác thảo
+
+- những đường nét nhảy múa
+
+- khung viền thô ráp
+
+- bàn tay hoạt hình lơ lửng
+
+- đôi mắt đơn giản hoặc các biểu tượng cảm xúc hài hước
+
+- điểm nhấn đồ họa lộn xộn
+
+Những nét doodle này nên giống nét vẽ nguệch ngoạc ngoài đời thực hơn: thô ráp, ngẫu hứng, dạng phác thảo, không hoàn hảo, tinh nghịch và tràn đầy năng lượng.
+
+Hãy để các nét doodle mang lại cảm giác thủ công và một chút hỗn loạn.
+
+Góc máy quay:
+
+Máy quay chủ yếu tĩnh, thỉnh thoảng chỉ trượt ngang nhẹ nhàng (lateral tracking).
+
+Máy quay luôn song song với vũ công.
+
+Vũ công luôn ở vị trí trung tâm khung hình.
+
+Ưu tiên khung hình toàn thân để thấy rõ toàn bộ bài biên đạo.
+
+Không quay xoay quanh (orbiting), không xoay tròn máy quay, không quay bằng drone, không phóng to thu nhỏ cực độ, không di chuyển máy ngẫu hứng.
+
+Phong cách hình ảnh:
+
+Diện mạo thời trang editorial cao cấp, thẩm mỹ trang phục đường phố sang trọng (luxury streetwear), bố cục táo bạo, ánh sáng có độ tương phản cao, phông nền sạch sẽ, năng lượng video ca nhạc hợp thời.
+
+Vũ công thật và nền cơ sở phải mang lại cảm giác trau chuốt và sành điệu, trong khi lớp doodle mang lại cảm giác nguyên bản, thủ công và hỗn loạn.
+
+Sự tương phản này rất quan trọng.
+
+Phong cách chuyển động:
+
+Sử dụng tính thẩm mỹ giật khung hình tốc độ thấp (low-frame-rate) lấy cảm hứng từ stop-motion, hoạt hình từng khung hình (frame-by-frame), hoạt hình cắt dán (cutout), hoạt hình collage, và nhịp độ animated-on-twos / animated-on-threes.
+
+Thêm hiệu ứng nhấp nháy theo nhịp điệu (strobing), điểm nhấn nhấp nháy, năng lượng dứt khoát giữa các dáng pose (pose-to-pose) và cảm giác tương tự 12fps trong khi vẫn giữ cho điệu nhảy rõ ràng, mạch lạc.
+
+Hiệu ứng phụ:
+
+Thêm hiệu ứng glitch, cắt cảnh nhấp nháy (flicker cuts), bỏ qua khung hình (frame skipping), hiệu ứng ngắt quãng giật giật (stutter edits), bùng nổ cắt dán collage, các gián đoạn rung giật, và phản ứng hình ảnh hỗn loạn đồng bộ theo nhịp.
+
+Giữ cho vũ đạo luôn rõ ràng và dễ theo dõi.
+
+Sự kỳ quặc phải toát lên vẻ sành điệu, vui tươi và sáng tạo, không được cẩu thả.
+
+Tâm trạng:
+
+Ngầu, funky, sành điệu, kỳ dị, tinh nghịch, hỗn loạn, đi đầu xu hướng thời trang, bất ngờ, sáng tạo, mang tính giải trí.
+
+Tâm trạng nhạc nền (BGM):
+
+R&B Funk, Disco Funk, Funk-pop.
+
+Không có chữ, không có phụ đề, không có watermark, không có logo, không có thêm người thật không mong muốn, không biến dạng giải phẫu, không thừa chi, không biến dạng cơ thể.
 ```
 
 [↑ Về danh mục](#catalog)

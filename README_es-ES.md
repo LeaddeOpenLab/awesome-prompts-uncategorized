@@ -1567,20 +1567,174 @@ Un retrato de estudio de cuerpo entero de una mujer elegante posando con gracia 
 
 <a name="prompt-2098423018267754894"></a>
 
-### Traducción en curso
+### Crea un video musical de baile y moda estilizado que combine coreografía de acción real con caóticos personajes de garabatos blancos dibujados a mano, superposiciones gráficas y movimiento de estilo stop-motion.
 
 Autor：[@applete77191758](https://x.com/applete77191758) · [Publicación original](https://x.com/applete77191758/status/2098423018267754894)
 
 Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un video musical de baile y moda estilizado que combine coreografía de acción real con caóticos personajes de garabatos blancos dibujados a mano, superposiciones gráficas y movimiento de estilo stop-motion.
 
 <img src="covers/2098423018267754894.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video musical de baile y moda hiperestilizado con una vibra de técnica mixta (mixed-media) extraña, juguetona y caótica.
+
+Un bailarín principal con mucho estilo realiza una coreografía de R&B / funk / disco-funk centrada en la musicalidad con la energía del baile urbano. Incluye groove corporal, groove de hombros, disociaciones de pecho, juego rítmico de pies, congelaciones (freezes) nítidas, giros, remates de posturas (pose hits), balanceos de brazos, transiciones elegantes y una actitud segura. La coreografía debe permanecer clara y legible.
+
+Reglas importantes:
+
+Mantén el fondo y el entorno originales visualmente coherentes a lo largo de todo el video.
+
+No reemplaces el fondo por una ubicación completamente diferente.
+
+No destruyas el sentido del lugar.
+
+El fondo debe seguir siendo el mismo entorno base, mientras que los garabatos (doodles), los efectos de glitch y los elementos de técnica mixta se añaden encima.
+
+NO dibujes garabatos directamente sobre la cara del bailarín real.
+
+NO tapes los ojos, la nariz, la boca ni los rasgos faciales.
+
+Mantén el rostro limpio, visible y atractivo en todo momento.
+
+Los garabatos pueden aparecer alrededor de la cabeza, el contorno del cabello, los hombros, los brazos, el torso, las manos, las piernas y la silueta, pero nunca directamente sobre la cara.
+
+Elemento creativo especial:
+
+Personajes de garabatos blancos y toscos aparecen y bailan junto al bailarín principal.
+
+Estas figuras de garabato deben sentirse muy dibujadas a mano, libres, abocetadas, juguetonas, desordenadas y vivas, como apuntes espontáneos de cuaderno o garabatos con crayón blanco.
+
+No deben verse demasiado limpios ni demasiado pulidos.
+
+Pueden aparecer como:
+
+- bailarines sencillos de figuras de palitos
+
+- personajes de caricatura toscos
+
+- mini bailarines garabateados
+
+- siluetas bailarinas estiradas
+
+- divertidos compañeros dibujados a mano
+
+- clones de boceto duplicados
+
+Los personajes de garabato interactúan con el bailarín real de formas divertidas y sorprendentes:
+
+- bailando juntos en sincronía
+
+- copiando movimientos
+
+- respondiendo a los movimientos
+
+- rodeando al bailarín
+
+- apareciendo y desapareciendo al compás del ritmo
+
+- multiplicándose en muchos bailarines de boceto
+
+- saltando desde detrás del bailarín
+
+- emergiendo del suelo, las paredes o la sombra
+
+- sosteniendo brevemente accesorios o reaccionando cómicamente
+
+Añade también muchos otros elementos de garabatos toscos, no solo figuras humanas:
+
+- estrellas
+
+- flechas
+
+- círculos
+
+- garabatos
+
+- rayos
+
+- líneas de velocidad
+
+- explosiones de impacto tipo cómic
+
+- estelas de movimiento
+
+- marcas de tiza blanca
+
+- líneas de crayón blanco
+
+- espirales dibujadas a mano
+
+- corazones rústicos
+
+- marcas tachadas
+
+- marcas de verificación (check marks)
+
+- símbolos abstractos
+
+- bocetos de nubes de humo
+
+- líneas danzantes
+
+- marcos toscos
+
+- manos de caricatura flotantes
+
+- ojos simples o iconos de reacción divertidos
+
+- detalles gráficos desordenados
+
+Estos garabatos deben sentirse más como dibujos espontáneos reales: toscos, improvisados, abocetados, imperfectos, juguetones y enérgicos.
+
+Haz que los garabatos se sientan hechos a mano y un poco caóticos.
+
+Cámara:
+
+Cámara mayormente estática con solo un paneo lateral suave ocasional.
+
+La cámara siempre permanece paralela al bailarín.
+
+El bailarín permanece centrado en el encuadre.
+
+Prioriza el encuadre de cuerpo entero para que la coreografía sea claramente visible.
+
+Nada de cámara orbital, nada de cámara giratoria, nada de tomas con dron, nada de zooms extremos, nada de movimiento de cámara aleatorio.
+
+Estilo visual:
+
+Aspecto editorial de moda prémium, estética de streetwear de lujo, composición audaz, iluminación de alto contraste, fondo limpio, energía de video musical en tendencia.
+
+El bailarín real y el fondo base deben sentirse pulidos y elegantes, mientras que la capa de garabatos se siente cruda, artesanal y caótica.
+
+Este contraste es fundamental.
+
+Estilo de movimiento:
+
+Usa una estética escalonada de baja tasa de cuadros por segundo inspirada en stop-motion, animación fotograma a fotograma, animación de recortes (cutout), animación de collage y sincronización animada en doses (animated-on-twos) / en treses (animated-on-threes).
+
+Añade estroboscopios rítmicos, toques de parpadeo, energía de pose a pose y una sensación cercana a los 12 fps, manteniendo la danza legible en todo momento.
+
+Efectos adicionales:
+
+Añade efectos de glitch, cortes parpadeantes, saltos de fotogramas, ediciones entrecortadas, ráfagas de collage, interrupciones temblorosas y reacciones visuales caóticas sincronizadas con el ritmo.
+
+Mantén la coreografía legible.
+
+La rareza debe sentirse elegante, divertida y creativa, no descuidada.
+
+Ambiente (Mood):
+
+Genial, funky, elegante, bizarro, juguetón, caótico, a la vanguardia de la moda, sorprendente, ingenioso, entretenido.
+
+Ambiente de la música de fondo (BGM):
+
+R&B Funk, Disco Funk, Funk-pop.
+
+Sin texto, sin subtítulos, sin marcas de agua, sin logotipos, sin personas reales adicionales no deseadas, sin anatomía distorsionada, sin extremidades adicionales, sin deformaciones corporales.
 ```
 
 [↑ Volver a categorías](#catalog)

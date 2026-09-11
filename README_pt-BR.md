@@ -1543,20 +1543,174 @@ Um retrato de estúdio de corpo inteiro de uma mulher elegante posando com graç
 
 <a name="prompt-2098423018267754894"></a>
 
-### Tradução em andamento
+### Crie um videoclipe de dança e moda estilizado combinando coreografia em live-action com personagens caóticos de rabiscos brancos desenhados à mão, sobreposições gráficas e movimento no estilo stop-motion.
 
 Autor：[@applete77191758](https://x.com/applete77191758) · [Publicação original](https://x.com/applete77191758/status/2098423018267754894)
 
 Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um videoclipe de dança e moda estilizado combinando coreografia em live-action com personagens caóticos de rabiscos brancos desenhados à mão, sobreposições gráficas e movimento no estilo stop-motion.
 
 <img src="covers/2098423018267754894.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um videoclipe de dança e moda hiperestilizado com uma vibe de mídia mista estranha, lúdica e caótica.
+
+Um(a) dançarino(a) principal estiloso(a) executa uma coreografia de R&B / funk / disco-funk focada na musicalidade com energia de dança urbana. Inclua groove corporal, groove de ombros, isolamentos de peito, footwork rítmico, freezes nítidos, giros, acertos de pose (pose hits), balanços de braço, transições estilosas e atitude confiante. A coreografia deve permanecer clara e legível.
+
+Regras importantes:
+
+Mantenha o fundo e o cenário originais visualmente consistentes ao longo de todo o vídeo.
+
+Não substitua o fundo por um local completamente diferente.
+
+Não destrua a sensação de lugar.
+
+O fundo deve permanecer o mesmo ambiente base, enquanto rabiscos (doodles), efeitos de glitch e elementos de mídia mista são adicionados sobre ele.
+
+NÃO desenhe rabiscos diretamente no rosto do(a) dançarino(a) real.
+
+NÃO cubra os olhos, nariz, boca ou traços faciais.
+
+Mantenha o rosto limpo, visível e atraente em todos os momentos.
+
+Rabiscos podem aparecer ao redor da cabeça, contorno do cabelo, ombros, braços, tronco, mãos, pernas e silhueta, mas nunca diretamente no rosto.
+
+Elemento criativo especial:
+
+Personagens em rabiscos brancos e rústicos aparecem e dançam junto com o(a) dançarino(a) principal.
+
+Essas figuras de rabisco devem parecer muito desenhadas à mão, soltas, esboçadas, lúdicas, bagunçadas e vivas — como rabiscos espontâneos de caderno ou rabiscos de giz de cera branco.
+
+Elas não devem parecer muito limpas nem muito polidas.
+
+Elas podem aparecer como:
+
+- dançarinos simples de boneco de palito
+
+- pessoas cartunescas rústicas
+
+- minidançarinos rabiscados
+
+- silhuetas dançantes esticadas
+
+- companheiros divertidos desenhados à mão
+
+- clones esboçados duplicados
+
+As pessoas de rabisco interagem com o(a) dançarino(a) real de maneiras divertidas e surpreendentes:
+
+- dançando juntos em sincronia
+
+- copiando movimentos
+
+- respondendo a movimentos
+
+- cercando o(a) dançarino(a)
+
+- aparecendo e desaparecendo no ritmo da batida
+
+- multiplicando-se em muitos dançarinos esboçados
+
+- surgindo de trás do(a) dançarino(a)
+
+- emergindo do chão, paredes ou sombras
+
+- carregando brevemente adereços ou reagindo de forma cômica
+
+Também adicione muitos outros elementos de rabisco rústicos, não apenas rabiscos humanos:
+
+- estrelas
+
+- setas
+
+- círculos
+
+- rabiscos
+
+- raios
+
+- linhas de velocidade
+
+- explosões de impacto de quadrinhos
+
+- rastros de movimento
+
+- marcas de giz branco
+
+- linhas de giz de cera branco
+
+- espirais desenhadas à mão
+
+- corações rústicos
+
+- marcas riscadas
+
+- marcas de visto (check marks)
+
+- símbolos abstratos
+
+- baforadas de fumaça esboçadas
+
+- linhas dançantes
+
+- molduras rústicas
+
+- mãos cartunescas flutuantes
+
+- olhos simples ou ícones engraçados de reação
+
+- detalhes gráficos desordenados
+
+Esses rabiscos devem parecer mais com rabiscos reais: rústicos, espontâneos, esboçados, imperfeitos, lúdicos e cheios de energia.
+
+Deixe os rabiscos parecerem artesanais e um pouco caóticos.
+
+Câmera:
+
+Câmera predominantemente estática apenas com suaves movimentos de rastreamento lateral ocasionais.
+
+A câmera permanece sempre paralela ao(à) dançarino(a).
+
+O(A) dançarino(a) permanece centralizado(a) no enquadramento.
+
+Priorize o enquadramento de corpo inteiro para que a coreografia fique claramente visível.
+
+Sem câmera em órbita, sem câmera girando, sem tomadas de drone, sem zooms extremos, sem movimentos aleatórios de câmera.
+
+Estilo visual:
+
+Visual editorial de moda premium, estética streetwear de luxo, composição marcante, iluminação de alto contraste, fundo limpo, energia de videoclipe moderno.
+
+O(A) dançarino(a) real e o fundo base devem parecer polidos e elegantes, enquanto a camada de rabiscos parece crua, artesanal e caótica.
+
+Esse contraste é importante.
+
+Estilo de movimento:
+
+Use uma estética escalonada de baixa taxa de quadros inspirada em stop-motion, animação quadro a quadro, animação de recortes, animação de colagem e temporização 'on-twos' / 'on-threes' (animada a cada dois ou três quadros).
+
+Adicione estroboscópio rítmico, toques de tremulação (flicker), energia pose a pose e uma sensação semelhante a 12 fps, mantendo a dança legível.
+
+Efeitos extras:
+
+Adicione efeitos de glitch, cortes com tremulação (flicker cuts), saltos de quadros (frame skipping), cortes gagos (stutter edits), explosões de colagem, interrupções trêmulas e reações visuais caóticas sincronizadas com a batida.
+
+Mantenha a coreografia legível.
+
+A estranheza deve parecer estilosa, divertida e criativa, não descuidada.
+
+Clima:
+
+Descolado, funky, estiloso, bizarro, lúdico, caótico, vanguardista na moda, surpreendente, inventivo, divertido.
+
+Clima da música de fundo (BGM):
+
+R&B Funk, Disco Funk, Funk-pop.
+
+Sem texto, sem legendas, sem marca d'água, sem logotipo, sem pessoas reais extras indesejadas, sem anatomia distorcida, sem membros extras, sem deformação corporal.
 ```
 
 [↑ Voltar às categorias](#catalog)

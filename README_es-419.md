@@ -1543,20 +1543,174 @@ Un retrato de estudio de cuerpo entero de una mujer elegante posando con gracia 
 
 <a name="prompt-2098423018267754894"></a>
 
-### Traducción en curso
+### Crea un video musical de baile y moda estilizado que combine coreografía de acción real con caóticos personajes de garabatos blancos dibujados a mano, superposiciones gráficas y movimiento de estilo stop-motion.
 
 Autor：[@applete77191758](https://x.com/applete77191758) · [Publicación original](https://x.com/applete77191758/status/2098423018267754894)
 
 Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un video musical de baile y moda estilizado que combine coreografía de acción real con caóticos personajes de garabatos blancos dibujados a mano, superposiciones gráficas y movimiento de estilo stop-motion.
 
 <img src="covers/2098423018267754894.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video musical de baile y moda hiperestilizado con una vibra de técnica mixta extraña, juguetona y caótica.
+
+Un bailarín principal con estilo realiza una coreografía de R&B / funk / disco-funk centrada en la musicalidad con energía de danza urbana. Incluye groove corporal, groove de hombros, aislamientos de pecho, juego rítmico de pies, congelamientos marcados, giros, acentos de poses, balanceos de brazos, transiciones elegantes y actitud segura. La coreografía debe permanecer clara y legible.
+
+Reglas importantes:
+
+Mantén el fondo y el entorno originales visualmente consistentes a lo largo de todo el video.
+
+No reemplaces el fondo con una ubicación completamente diferente.
+
+No destruyas el sentido de pertenencia al lugar.
+
+El fondo debe seguir siendo el mismo entorno base, mientras que encima se agregan garabatos, efectos de glitch y elementos de técnica mixta.
+
+NO dibujes garabatos directamente en la cara del bailarín real.
+
+NO cubras los ojos, la nariz, la boca ni los rasgos faciales.
+
+Mantén la cara limpia, visible y atractiva en todo momento.
+
+Los garabatos pueden aparecer alrededor de la cabeza, el contorno del cabello, los hombros, los brazos, el torso, las manos, las piernas y la silueta, pero nunca directamente sobre la cara.
+
+Elemento creativo especial:
+
+Personajes de garabatos blancos y toscos aparecen y bailan junto con el bailarín principal.
+
+Estas figuras garabateadas deben sentirse muy dibujadas a mano, sueltas, esquemáticas, juguetonas, desordenadas y vivas, como bocetos espontáneos de cuaderno o garabatos con crayón blanco.
+
+No deben verse demasiado limpios ni demasiado pulidos.
+
+Pueden aparecer como:
+
+- bailarines simples de figuras de palitos
+
+- personas de caricatura toscas
+
+- minibailarines garabateados
+
+- siluetas danzantes estiradas
+
+- divertidos compañeros dibujados a mano
+
+- clones en boceto duplicados
+
+Las personas de garabato interactúan con el bailarín real de maneras divertidas y sorprendentes:
+
+- bailando juntos en sincronía
+
+- copiando movimientos
+
+- respondiendo a los movimientos
+
+- rodeando al bailarín
+
+- apareciendo y desapareciendo al compás del ritmo
+
+- multiplicándose en muchos bailarines de boceto
+
+- saltando desde detrás del bailarín
+
+- emergiendo del suelo, las paredes o la sombra
+
+- sosteniendo brevemente accesorios o reaccionando de manera cómica
+
+Agrega también muchos otros elementos toscos de garabato, no solo garabatos humanos:
+
+- estrellas
+
+- flechas
+
+- círculos
+
+- garabatos
+
+- rayos
+
+- líneas de velocidad
+
+- ráfagas de impacto estilo cómic
+
+- estelas de movimiento
+
+- marcas de tiza blanca
+
+- líneas de crayón blanco
+
+- espirales dibujadas a mano
+
+- corazones toscos
+
+- marcas tachadas
+
+- marcas de verificación
+
+- símbolos abstractos
+
+- bocetos de nubes de humo
+
+- líneas que bailan
+
+- marcos toscos
+
+- manos de caricatura flotantes
+
+- ojos simples o íconos de reacción divertidos
+
+- acentos gráficos desordenados
+
+Estos garabatos deben sentirse más como garabatos reales: toscos, espontáneos, esquemáticos, imperfectos, juguetones y enérgicos.
+
+Haz que los garabatos se sientan hechos a mano y un poco caóticos.
+
+Cámara:
+
+Cámara mayormente estática únicamente con un suave seguimiento lateral ocasional.
+
+La cámara siempre permanece paralela al bailarín.
+
+El bailarín permanece centrado en el encuadre.
+
+Prioriza el encuadre de cuerpo entero para que la coreografía sea claramente visible.
+
+Sin cámara orbital, sin giros de cámara, sin tomas de dron, sin zooms extremos, sin movimientos aleatorios de cámara.
+
+Estilo visual:
+
+Aspecto de editorial de moda premium, estética de streetwear de lujo, composición audaz, iluminación de alto contraste, fondo limpio, energía de video musical en tendencia.
+
+El bailarín real y el fondo base deben sentirse pulidos y elegantes, mientras que la capa de garabatos se siente cruda, hecha a mano y caótica.
+
+Este contraste es importante.
+
+Estilo de movimiento:
+
+Utiliza una estética de baja tasa de fotogramas escalonada inspirada en stop-motion, animación fotograma a fotograma, animación de recortes, animación de collage y sincronización animada en doses / animada en treses.
+
+Agrega estroboscopio rítmico, acentos de parpadeo, energía de pose a pose y una sensación tipo 12 fps manteniendo al mismo tiempo la danza legible.
+
+Efectos adicionales:
+
+Agrega efectos de glitch, cortes con parpadeo, saltos de fotogramas, ediciones entrecortadas, ráfagas de collage, interrupciones temblorosas y reacciones visuales caóticas sincronizadas con el ritmo.
+
+Mantén la coreografía legible.
+
+La extravagancia debe sentirse elegante, divertida y creativa, no descuidada.
+
+Estado de ánimo:
+
+Genial, funky, elegante, bizarro, juguetón, caótico, vanguardista, sorprendente, inventivo, entretenido.
+
+Ambiente de la música de fondo (BGM):
+
+R&B Funk, Disco Funk, Funk-pop.
+
+Sin texto, sin subtítulos, sin marcas de agua, sin logotipos, sin personas reales adicionales no deseadas, sin anatomía distorsionada, sin extremidades adicionales, sin deformación corporal.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -1543,20 +1543,174 @@ Un ritratto da studio a figura intera di una donna elegante che posa con grazia 
 
 <a name="prompt-2098423018267754894"></a>
 
-### Traduzione in corso
+### Crea un video musicale di danza e moda stilizzato che combina coreografia live-action con caotici personaggi a scarabocchio bianchi disegnati a mano, overlay grafici e movimento in stile stop-motion.
 
 Autore：[@applete77191758](https://x.com/applete77191758) · [Post originale](https://x.com/applete77191758/status/2098423018267754894)
 
 Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un video musicale di danza e moda stilizzato che combina coreografia live-action con caotici personaggi a scarabocchio bianchi disegnati a mano, overlay grafici e movimento in stile stop-motion.
 
 <img src="covers/2098423018267754894.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video musicale di danza e moda iper-stilizzato con una vibrazione mista, bizzarra, giocosa e caotica.
+
+Un ballerino principale elegante esegue una coreografia R&B / funk / disco-funk incentrata sulla musicalità con energia di danza urbana. Includi body groove, shoulder groove, isolamenti del torace, passi ritmici, freeze netti, piroette, pose a tempo, oscillazioni delle braccia, transizioni di stile e un atteggiamento sicuro di sé. La coreografia deve rimanere chiara e leggibile.
+
+Regole importanti:
+
+Mantieni lo sfondo e l'ambientazione originali visivamente coerenti per tutto il video.
+
+Non sostituire lo sfondo con una location completamente diversa.
+
+Non distruggere il senso del luogo.
+
+Lo sfondo deve rimanere lo stesso ambiente di base, mentre scarabocchi, effetti glitch ed elementi multimediali misti vengono aggiunti sopra di esso.
+
+NON disegnare scarabocchi direttamente sul viso del vero ballerino.
+
+NON coprire occhi, naso, bocca o tratti somatici.
+
+Mantieni il viso pulito, visibile e attraente in ogni momento.
+
+Gli scarabocchi possono apparire intorno alla testa, al contorno dei capelli, alle spalle, alle braccia, al busto, alle mani, alle gambe e alla silhouette, ma mai direttamente sul viso.
+
+Elemento creativo speciale:
+
+Rozzi personaggi a scarabocchio bianchi compaiono e ballano insieme al ballerino principale.
+
+Queste figure a scarabocchio devono sembrare molto disegnate a mano, sciolte, abbozzate, giocose, disordinate e vive, come scarabocchi spontanei su un taccuino o ghirigori a pastello bianco.
+
+Non devono sembrare troppo pulite o troppo rifinite.
+
+Possono apparire come:
+
+- semplici ballerini stilizzati (omini stecco)
+
+- personaggi cartoon abbozzati
+
+- mini ballerini scarabocchiati
+
+- silhouette danzanti allungate
+
+- compagni divertenti disegnati a mano
+
+- cloni a schizzo duplicati
+
+I personaggi scarabocchiati interagiscono con il vero ballerino in modi divertenti e sorprendenti:
+
+- ballando insieme in sincronia
+
+- copiando i movimenti
+
+- rispondendo ai movimenti
+
+- circondando il ballerino
+
+- comparendo e scomparendo a tempo di beat
+
+- moltiplicandosi in molti ballerini a schizzo
+
+- saltando fuori da dietro il ballerino
+
+- emergendo dal pavimento, dai muri o dall'ombra
+
+- reggendo brevemente oggetti di scena o reagendo in modo comico
+
+Aggiungi anche molti altri elementi rozzi a scarabocchio, non solo scarabocchi umani:
+
+- stelle
+
+- frecce
+
+- cerchi
+
+- ghirigori
+
+- fulmini
+
+- linee cinetiche di velocità
+
+- esplosioni d'impatto in stile fumetto
+
+- scie di movimento
+
+- segni di gesso bianco
+
+- linee di pastello a cera bianco
+
+- spirali disegnate a mano
+
+- cuori abbozzati
+
+- segni di cancellatura
+
+- segni di spunta
+
+- simboli astratti
+
+- nuvolette di fumo a schizzo
+
+- linee danzanti
+
+- cornici rozze
+
+- mani cartoon fluttuanti
+
+- occhi semplici o icone di reazione buffe
+
+- accenti grafici disordinati
+
+Questi scarabocchi dovrebbero sembrare più simili a veri scarabocchi: rozzi, spontanei, abbozzati, imperfetti, giocosi ed energici.
+
+Fai in modo che gli scarabocchi sembrino fatti a mano e un po' caotici.
+
+Telecamera:
+
+Telecamera per lo più statica, con solo occasionali e fluidi movimenti di tracking laterale.
+
+La telecamera rimane sempre parallela al ballerino.
+
+Il ballerino rimane centrato nell'inquadratura.
+
+Dai priorità all'inquadratura a figura intera affinché la coreografia sia chiaramente visibile.
+
+Nessuna telecamera orbitante, nessuna rotazione della telecamera, nessuna ripresa da drone, nessuno zoom estremo, nessun movimento casuale della telecamera.
+
+Stile visivo:
+
+Look da editoriale di moda di alto livello, estetica streetwear di lusso, composizione audace, illuminazione ad alto contrasto, sfondo pulito, energia da video musicale di tendenza.
+
+Il vero ballerino e lo sfondo di base devono sembrare rifiniti ed eleganti, mentre il livello di scarabocchi deve sembrare grezzo, fatto a mano e caotico.
+
+Questo contrasto è fondamentale.
+
+Stile di movimento:
+
+Usa un'estetica a basso frame rate a scatti ispirata alla stop-motion, all'animazione fotogramma per fotogramma, alla cutout animation, all'animazione a collage e al timing animato a due o a tre fotogrammi.
+
+Aggiungi stroboscopia ritmica, accenti di sfarfallio, energia da posa a posa e una sensazione simile a 12 fps mantenendo la danza leggibile.
+
+Effetti extra:
+
+Aggiungi effetti glitch, tagli con sfarfallio, salti di fotogramma, montaggi a scatti, esplosioni di collage, interruzioni traballanti e reazioni visive caotiche sincronizzate con il beat.
+
+Mantieni la coreografia leggibile.
+
+La stravaganza deve risultare elegante, divertente e creativa, non trasandata.
+
+Atmosfera:
+
+Cool, funky, elegante, bizzarra, giocosa, caotica, all'avanguardia, sorprendente, inventiva, d'intrattenimento.
+
+Atmosfera musicale di sottofondo (BGM):
+
+R&B Funk, Disco Funk, Funk-pop.
+
+Nessun testo, nessun sottotitolo, nessun watermark, nessun logo, nessuna persona reale aggiuntiva indesiderata, nessuna anatomia distorta, nessun arto extra, nessuna deformazione corporea.
 ```
 
 [↑ Torna alle categorie](#catalog)

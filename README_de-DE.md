@@ -1543,20 +1543,174 @@ Ein Ganzkörper-Studioporträt einer eleganten Frau, die anmutig vor einem struk
 
 <a name="prompt-2098423018267754894"></a>
 
-### Übersetzung läuft
+### Erstelle ein stilisiertes Mode-Tanzmusikvideo, das Live-Action-Choreografie mit chaotischen, handgezeichneten weißen Doodle-Figuren, grafischen Overlays und Bewegung im Stop-Motion-Stil kombiniert.
 
 Autor：[@applete77191758](https://x.com/applete77191758) · [Originalbeitrag](https://x.com/applete77191758/status/2098423018267754894)
 
 Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein stilisiertes Mode-Tanzmusikvideo, das Live-Action-Choreografie mit chaotischen, handgezeichneten weißen Doodle-Figuren, grafischen Overlays und Bewegung im Stop-Motion-Stil kombiniert.
 
 <img src="covers/2098423018267754894.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hyperstilisiertes Mode-Tanzmusikvideo mit einer seltsamen, verspielten, chaotischen Mixed-Media-Atmosphäre.
+
+Ein stilvoller Haupttänzer vollführt eine auf Musikalität fokussierte R&B- / Funk- / Disco-Funk-Choreografie mit urbaner Tanzenergie. Beziehe Body Groove, Shoulder Groove, Brustisolationen, rhythmisches Footwork, scharfe Freezes, Drehungen, Pose Hits, Armschwünge, stilvolle Übergänge und eine selbstbewusste Haltung ein. Die Choreografie muss stets klar und lesbar bleiben.
+
+Wichtige Regeln:
+
+Behalte den ursprünglichen Hintergrund und das Setting über das gesamte Video hinweg visuell konsistent bei.
+
+Ersetze den Hintergrund nicht durch einen völlig anderen Ort.
+
+Zerstöre nicht das Raumgefühl.
+
+Der Hintergrund sollte dieselbe Basisumgebung bleiben, während darüber Doodles, Glitch-Effekte und Mixed-Media-Elemente hinzugefügt werden.
+
+Zeichne KEINE Doodles direkt auf das Gesicht des echten Tänzers.
+
+Bedecke NICHT die Augen, die Nase, den Mund oder die Gesichtszüge.
+
+Halte das Gesicht jederzeit sauber, sichtbar und attraktiv.
+
+Doodles dürfen um den Kopf herum, an den Haarkonturen, Schultern, Armen, dem Torso, den Händen, Beinen und der Silhouette erscheinen, aber niemals direkt auf dem Gesicht.
+
+Spezielles kreatives Element:
+
+Grofe weiße Doodle-Figuren tauchen auf und tanzen gemeinsam mit dem Haupttänzer.
+
+Diese Doodle-Figuren sollten sich sehr handgezeichnet, locker, skizzenhaft, verspielt, unordentlich und lebendig anfühlen – wie spontane Notizbuch-Kritzeleien oder weiße Wachsmalstift-Doodles.
+
+Sie sollten nicht zu sauber oder zu ausgefeilt wirken.
+
+Sie können auftreten als:
+
+- einfache Strichmännchen-Tänzer
+
+- grobe Cartoon-Figuren
+
+- gekritzelte Mini-Tänzer
+
+- gestreckte tanzende Silhouetten
+
+- lustige handgezeichnete Begleiter
+
+- duplizierte Skizzen-Klone
+
+Die Doodle-Figuren interagieren auf unterhaltsame und überraschende Weise mit dem echten Tänzer:
+
+- tanzen synchron zusammen
+
+- kopieren Moves
+
+- antworten auf Moves
+
+- umringen den Tänzer
+
+- erscheinen und verschwinden passend zum Beat
+
+- vervielfachen sich zu vielen Skizzen-Tänzern
+
+- springen hinter dem Tänzer hervor
+
+- steigen aus dem Boden, den Wänden oder dem Schatten auf
+
+- halten kurz Requisiten oder reagieren komödiantisch
+
+Füge außerdem viele weitere grobe Doodle-Elemente hinzu, nicht nur menschliche Doodles:
+
+- Sterne
+
+- Pfeile
+
+- Kreise
+
+- Kritzeleien
+
+- Blitze
+
+- Speedlines
+
+- Comic-Aufprallblitze
+
+- Bewegungsschweife
+
+- weiße Kreidemarkierungen
+
+- weiße Wachsmalstiftlinien
+
+- handgezeichnete Schnörkel
+
+- grobe Herzen
+
+- durchgestrichene Markierungen
+
+- Häkchen
+
+- abstrakte Symbole
+
+- skizzierte Rauchwolken
+
+- tanzende Linien
+
+- grobe Rahmen
+
+- schwebende Cartoon-Hände
+
+- einfache Augen oder lustige Reaktions-Icons
+
+- unordentliche grafische Akzente
+
+Diese Doodles sollten sich eher wie echte Doodles anfühlen: grob, spontan, skizzenhaft, unvollkommen, verspielt und energiegeladen.
+
+Lass die Doodles handgemacht und ein wenig chaotisch wirken.
+
+Kamera:
+
+Überwiegend statische Kamera, ausschließlich mit gelegentlichem, sanftem lateralem Tracking.
+
+Die Kamera bleibt immer parallel zum Tänzer.
+
+Der Tänzer bleibt im Bild zentriert.
+
+Bevorzuge eine Ganzkörper-Kadrage, damit die Choreografie deutlich sichtbar ist.
+
+Keine kreisende Kamera, keine rotierende Kamera, keine Drohnenaufnahmen, keine extremen Zooms, keine zufälligen Kamerabewegungen.
+
+Visueller Stil:
+
+Premium-Fashion-Editorial-Look, luxuriöse Streetwear-Ästhetik, kühne Bildkomposition, kontrastreiche Beleuchtung, sauberer Hintergrund, trendige Musikvideo-Energie.
+
+Der echte Tänzer und der Basishintergrund sollten poliert und stilvoll wirken, während sich die Doodle-Ebene rau, handgemacht und chaotisch anfühlt.
+
+Dieser Kontrast ist wichtig.
+
+Bewegungsstil:
+
+Nutze eine abgestufte Ästhetik mit niedriger Bildrate, inspiriert von Stop-Motion, Frame-by-Frame-Animation, Cutout-Animation, Collage-Animation und Animated-on-Twos- / Animated-on-Threes-Timing.
+
+Füge rhythmisches Strobing, Flacker-Akzente, Pose-to-Pose-Energie und ein 12fps-ähnliches Gefühl hinzu, während der Tanz lesbar bleibt.
+
+Zusätzliche Effekte:
+
+Füge Glitch-Effekte, Flackerschnitte, Frame-Skipping, Stotter-Edits, Collage-Ausbrüche, zittrige Unterbrechungen und chaotische, beat-synchrone visuelle Reaktionen hinzu.
+
+Halte die Choreografie lesbar.
+
+Die Verrücktheit sollte stilvoll, lustig und kreativ wirken, nicht schlampig.
+
+Stimmung:
+
+Cool, funky, stilvoll, bizarr, verspielt, chaotisch, avantgardistisch, überraschend, erfinderisch, unterhaltsam.
+
+BGM-Stimmung:
+
+R&B-Funk, Disco-Funk, Funk-Pop.
+
+Kein Text, keine Untertitel, kein Wasserzeichen, kein Logo, keine zusätzlichen unerwünschten echten Personen, keine verzerrte Anatomie, keine zusätzlichen Gliedmaßen, keine Körperverformung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

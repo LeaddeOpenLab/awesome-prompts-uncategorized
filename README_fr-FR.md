@@ -1543,20 +1543,174 @@ Un portrait de studio en pied d'une femme élégante posant avec grâce devant u
 
 <a name="prompt-2098423018267754894"></a>
 
-### Traduction en cours
+### Créez un clip vidéo musical de danse et de mode stylisé combinant une chorégraphie en prise de vue réelle avec des personnages gribouillés blancs chaotiques dessinés à la main, des superpositions graphiques et un mouvement de style stop-motion.
 
 Auteur：[@applete77191758](https://x.com/applete77191758) · [Publication originale](https://x.com/applete77191758/status/2098423018267754894)
 
 Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez un clip vidéo musical de danse et de mode stylisé combinant une chorégraphie en prise de vue réelle avec des personnages gribouillés blancs chaotiques dessinés à la main, des superpositions graphiques et un mouvement de style stop-motion.
 
 <img src="covers/2098423018267754894.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un clip vidéo musical de danse et de mode hyper-stylisé avec une ambiance multimédia étrange, ludique et chaotique.
+
+Un danseur principal élégant exécute une chorégraphie R&B / funk / disco-funk axée sur la musicalité, avec l'énergie de la danse urbaine. Incluez un groove corporel, un groove des épaules, des isolations de la poitrine, un jeu de jambes rythmé, des freezes nets, des pirouettes, des arrêts sur pose, des balancements de bras, des transitions stylées et une attitude confiante. La chorégraphie doit rester claire et lisible.
+
+Règles importantes :
+
+Conservez l'arrière-plan et le décor d'origine visuellement cohérents tout au long de la vidéo.
+
+Ne remplacez pas l'arrière-plan par un lieu complètement différent.
+
+Ne détruisez pas le sentiment d'appartenance au lieu.
+
+L'arrière-plan doit rester le même environnement de base, tandis que des gribouillages (doodles), des effets de glitch et des éléments mixtes y sont ajoutés par-dessus.
+
+Ne dessinez PAS de gribouillages directement sur le visage du vrai danseur.
+
+Ne couvrez PAS les yeux, le nez, la bouche ou les traits du visage.
+
+Gardez le visage propre, visible et séduisant en permanence.
+
+Des gribouillages peuvent apparaître autour de la tête, du contour des cheveux, des épaules, des bras, du torse, des mains, des jambes et de la silhouette, mais jamais directement sur le visage.
+
+Élément créatif spécial :
+
+Des personnages gribouillés blancs et bruts apparaissent et dansent avec le danseur principal.
+
+Ces silhouettes gribouillées doivent sembler très dessinées à la main, lâches, esquissées, ludiques, désordonnées et vivantes — comme des croquis spontanés de carnet de notes ou des gribouillages à la craie grasse blanche.
+
+Ils ne doivent pas paraître trop nets ni trop polis.
+
+Ils peuvent apparaître sous forme de :
+
+- simples danseurs bonhommes allumettes
+
+- personnages de cartoon bruts
+
+- mini danseurs gribouillés
+
+- silhouettes dansantes étirées
+
+- compagnons amusants dessinés à la main
+
+- clones esquissés dupliqués
+
+Les personnages gribouillés interagissent avec le vrai danseur de façon amusante et surprenante :
+
+- en dansant ensemble en synchronisation
+
+- en copiant des mouvements
+
+- en répondant à des mouvements
+
+- en entourant le danseur
+
+- en apparaissant et disparaissant sur le tempo
+
+- en se multipliant en de nombreux danseurs esquissés
+
+- en surgissant de derrière le danseur
+
+- en émergeant du sol, des murs ou de l'ombre
+
+- en tenant brièvement des accessoires ou en réagissant de manière comique
+
+Ajoutez également de nombreux autres éléments gribouillés bruts, et pas seulement des gribouillages humains :
+
+- étoiles
+
+- flèches
+
+- cercles
+
+- gribouillis
+
+- éclairs
+
+- lignes de vitesse
+
+- explosions d'impact de bande dessinée
+
+- traînées de mouvement
+
+- marques de craie blanche
+
+- traits de craie grasse blanche
+
+- tourbillons dessinés à la main
+
+- cœurs bruts
+
+- marques barrées
+
+- coches de validation
+
+- symboles abstraits
+
+- volutes de fumée esquissées
+
+- lignes dansantes
+
+- cadres bruts
+
+- mains de cartoon flottantes
+
+- yeux simples ou icônes de réaction drôles
+
+- accents graphiques désordonnés
+
+Ces gribouillages doivent ressembler davantage à de vrais gribouillages : bruts, spontanés, esquissés, imparfaits, ludiques et énergiques.
+
+Faites en sorte que les gribouillages paraissent faits à la main et un peu chaotiques.
+
+Caméra :
+
+Caméra principalement statique avec seulement un travelling latéral fluide occasionnel.
+
+La caméra reste toujours parallèle au danseur.
+
+Le danseur reste centré dans le cadre.
+
+Privilégiez un cadrage en pied (plan général) pour que la chorégraphie soit clairement visible.
+
+Pas de caméra en orbite, pas de caméra qui tourne, pas de plans au drone, pas de zooms extrêmes, pas de mouvements de caméra aléatoires.
+
+Style visuel :
+
+Look éditorial de mode haut de gamme, esthétique streetwear de luxe, composition audacieuse, éclairage très contrasté, arrière-plan épuré, énergie de clip vidéo tendance.
+
+Le vrai danseur et l'arrière-plan de base doivent paraître soignés et élégants, tandis que la couche de gribouillages semble brute, faite à la main et chaotique.
+
+Ce contraste est primordial.
+
+Style de mouvement :
+
+Utilisez une esthétique saccadée à faible fréquence d'images inspirée du stop-motion, de l'animation image par image, de l'animation en papier découpé, de l'animation de collage et du timing animé sur deux images / animé sur trois images.
+
+Ajoutez des stroboscopes rythmés, des accents de clignotement, une énergie pose à pose et un rendu rappelant du 12 ips tout en préservant la lisibilité de la danse.
+
+Effets supplémentaires :
+
+Ajoutez des effets de glitch, des coupes scintillantes, des sauts d'images, des coupures saccadées, des éclats de collage, des interruptions tremblotantes et des réactions visuelles chaotiques synchronisées sur le rythme.
+
+Gardez la chorégraphie lisible.
+
+L'étrangeté doit paraître stylée, amusante et créative, sans faire brouillon.
+
+Ambiance :
+
+Cool, funky, stylée, bizarre, ludique, chaotique, avant-gardiste, surprenante, inventive, divertissante.
+
+Ambiance musicale de fond (BGM) :
+
+R&B Funk, Disco Funk, Funk-pop.
+
+Pas de texte, pas de sous-titres, pas de filigrane, pas de logo, pas de personnes réelles indésirables supplémentaires, pas d'anatomie déformée, pas de membres supplémentaires, pas de déformation corporelle.
 ```
 
 [↑ Retour aux catégories](#catalog)
