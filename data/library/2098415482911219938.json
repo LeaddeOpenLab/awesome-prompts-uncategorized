@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T16:21:25.271Z",
+  "model": "unknown-image",
+  "prompt": "请将上传的一张旅行照片制作成一张独立的3:4竖版“复古旅行遮罩蒙太奇”编辑海报。输入照片是唯一事实来源；禁止拼入其他照片、其他地点或通用文化符号。\n\n画面采用清楚的上下双联结构。上方约占45%–48%，完整保留输入照片的高保真实景：保持主体身份与数量、人物姿态、建筑结构、交通工具、道路或水域方向、观察角度、透视、自然光线、季节及真实颜色，只允许轻微旅行杂志调色与极薄胶片颗粒。上方必须一眼仍是真实摄影，不得插画化或网点化。上下采用干净、水平、清晰的边界。\n\n下方约占52%–55%。不要重画完整场景，也不要给整张照片套网点滤镜。先从同一张照片中锁定一个承担地点识别的主元素，再提取4–7个辅助元素，总计形成5–8个可辨认对象。可提取建筑立面、塔楼、屋顶、窗格、招牌轮廓、人物剪影、车辆、船体、帆、桥梁、植物、摊位、道路标线或水面轨迹；不得添加照片中不存在的地域符号。\n\n将每个对象分别制作成独立的摄影遮罩图层：保留准确轮廓与身份锚点，再转成黑白粗网点、单色墨版、局部镂空和粗颗粒丝网印刷。不要把对象平均排列成素材板、九宫格或独立卡片。\n\n采用满版冲击式二次构图。最大主元素占下区高度约55%–95%，允许从任意画面边缘大胆出画；第二层建筑、人物或交通工具占30%–65%；其余元素作为节奏连接。使用明显的尺度悬殊、前后遮挡、边缘裁切、局部咬合与方向呼应，建立清楚的前景、中景和背景。画面应密集而有秩序，像旧旅行画报被重新制版，而不是完整场景的同构图复制。\n\n在部分对象后方穿过1–2块矩形或不规则专色色版，制造丝网套印和层级分隔；色版不得覆盖整个背景。保留约15%–25%的连续低信息旧纸或安静纯色色场，用于文字和呼吸，但不要让画面退化成稀疏的极简陈列。\n\n颜色从输入照片提取并压缩为3–5种印刷墨色：暖象牙旧纸、照片中最深的黑褐或靛蓝，以及2–3种最具地点识别度的专色。表现旧杂志粗网点、网点密度变化、纸纤维、缺墨、刮印毛边、剪裁毛边和轻微套色错位。每个对象仍须保持可识别，不能退化成无意义纹理。\n\n在下方连续安静区域只加入以下三行文字：\n“【1–3个英文单词的地点或主题标题】”\n“MASK PLATE 【两位数编号】”\n“【一句5–10个英文单词、来自照片事实的观察】”\n\n标题使用清楚可读的粗窄体、旧衬线或压缩无衬线大写；字段和观察句较小，但在聊天预览中仍可辨认。文字像用画面同色油墨印在纸上，带轻微缺墨与套印偏差。所有文字集中成一组，不得遮挡人物面部、车辆、船体或建筑身份结构，不得生成其他文字。\n\n避免：整图网点滤镜、同裁切同尺度重画、单一地标版画、只提取2–3个对象、规则网格、平均大小陈列、剪贴簿胶带、完整背景铺色、过度留白、通用地域模板、跨地点混合、透明水彩、卡通、光滑矢量、数字渐变、3D拼贴、过细网点、无层级堆积、不可读小字、假中文、作者名、签名、品牌、Logo、网址、二维码、水印和乱码。\n\n最重要的规则：下方必须把同一张照片里的多个真实对象分别制成不同颜色和尺度的遮罩网点层，再通过遮挡、裁切与色版穿插重建一张新的旅行蒙太奇；不能只是把完整原图印刷化。",
+  "promptTranslations": {
+    "en": "Please turn an uploaded travel photo into a standalone 3:4 vertical \"vintage travel mask montage\" editorial poster. The input photo is the sole source of truth; do not composite in any other photos, other locations, or generic cultural symbols.\n\nThe layout adopts a clear top-and-bottom diptych structure. The upper section occupies approximately 45%–48%, fully preserving the high-fidelity real scene of the input photo: keep the identities and count of primary subjects, human poses, architectural structures, vehicles, directions of roads or waterways, viewing angles, perspective, natural lighting, season, and authentic colors, allowing only subtle travel magazine color grading and very light film grain. The upper section must be instantly recognizable as real photography at a glance, without illustration or halftone rasterization. Use a clean, horizontal, crisp boundary between the top and bottom.\n\nThe lower section occupies approximately 52%–55%. Do not repaint the complete scene, and do not apply a halftone filter across the entire photo. First lock onto one main element that anchors location identification from the same photo, then extract 4–7 secondary elements, forming a total of 5–8 recognizable objects. Elements that can be extracted include building facades, towers, rooftops, window panes, signage silhouettes, human silhouettes, vehicles, boat hulls, sails, bridges, plants, stalls, road markings, or water trails; do not add regional symbols not present in the photo.\n\nTurn each object separately into an independent photographic mask layer: preserve accurate silhouettes and identity anchors, then convert them into coarse black-and-white halftones, monochrome ink plates, partial knockouts, and coarse-grain silkscreen printing. Do not arrange objects evenly as moodboards, 3x3 grids, or detached cards.\n\nEmploy a full-bleed, high-impact secondary composition. The largest primary element occupies approximately 55%–95% of the lower section's height, allowing it to bleed boldly off any canvas edge; the second tier of architecture, figures, or vehicles occupies 30%–65%; the remaining elements serve as rhythmic connections. Use distinct scale disparities, front-to-back overlaps, edge cropping, partial interlocking, and directional echoes to establish clear foreground, midground, and background. The image should be dense yet orderly, appearing as though an old travel journal was re-engraved and re-plated, rather than an identical-composition replica of the full scene.\n\nRun 1–2 rectangular or irregular spot-color blocks behind some of the objects to produce silkscreen overprinting and hierarchical separation; color blocks must not cover the entire background. Reserve approximately 15%–25% of continuous, low-information aged paper or a quiet solid-color field for typography and breathing room, but do not let the frame degrade into a sparse minimalist display.\n\nExtract and compress colors from the input photo into 3–5 printing ink hues: warm ivory aged paper, the deepest dark brown or indigo from the photo, and 2–3 spot colors with the highest location recognizability. Express vintage magazine coarse halftones, halftone density shifts, paper fibers, ink starvation, squeegee rough edges, cutout ragged edges, and slight misregistration. Each object must remain identifiable and must not degenerate into meaningless texture.\n\nIn the continuous quiet area at the bottom, include only the following three lines of text:\n\"[1–3 English words location or theme title]\"\n\"MASK PLATE [two-digit number]\"\n\"[a 5–10 English word sentence of an observation derived from the photo facts]\"\n\nThe title should use clearly legible bold condensed, vintage serif, or compressed sans-serif uppercase; the field and observation sentence should be smaller, yet still distinguishable in chat preview. The text should look printed onto paper using the same ink colors as the artwork, with slight ink starvation and registration deviation. All text must be grouped together in one block, must not obstruct human faces, vehicles, boat hulls, or structural architectural identity, and no other text should be generated.\n\nAvoid: full-image halftone filters, repainting with identical cropping and scale, single landmark woodblock prints, extracting only 2–3 objects, regular grids, equal-size displays, scrapbook tape, solid background floods, excessive negative space, generic regional templates, cross-location mixing, transparent watercolor, cartoon style, smooth vectors, digital gradients, 3D collages, overly fine halftones, unlayered pileups, illegible tiny text, pseudo-Chinese characters, author names, signatures, brands, logos, URLs, QR codes, watermarks, and garbled text.\n\nThe most important rule: The lower section must convert multiple real objects from the same photo into mask halftone layers of varying colors and scales, reassembling them through overlapping, cropping, and interwoven color blocks into a brand-new travel montage; it must never simply print-filter the intact original image."
+  },
+  "summaryTranslations": {
+    "en": "Top-and-bottom diptych poster based on a travel photo: real-life scene preserved on top, coarse halftone spot-color mask montage reconstructed below."
+  },
+  "translationVersion": 2,
+  "summary": "基于旅行照片制作上下双联海报：上方保留原片实景，下方用粗网点专色遮罩重组蒙太奇。",
+  "summaryEn": "Create a vertical diptych poster from a travel photo: top shows real photo, bottom shows a halftone screenprint montage.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098415482911219938",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2098415482911219938",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-11T14:16:52.000Z",
+    "collectedAt": "2026-09-11T16:16:29.553Z",
+    "language": "zh",
+    "originalText": "【复古旅行遮罩蒙太奇】\n\n粗网点把现实磨成旧画报，错版专色又让它带着一点“不肯乖乖对齐”的城市脾气。\n\nprompt：\n请将上传的一张旅行照片制作成一张独立的3:4竖版“复古旅行遮罩蒙太奇”编辑海报。输入照片是唯一事实来源；禁止拼入其他照片、其他地点或通用文化符号。\n\n画面采用清楚的上下双联结构。上方约占45%–48%，完整保留输入照片的高保真实景：保持主体身份与数量、人物姿态、建筑结构、交通工具、道路或水域方向、观察角度、透视、自然光线、季节及真实颜色，只允许轻微旅行杂志调色与极薄胶片颗粒。上方必须一眼仍是真实摄影，不得插画化或网点化。上下采用干净、水平、清晰的边界。\n\n下方约占52%–55%。不要重画完整场景，也不要给整张照片套网点滤镜。先从同一张照片中锁定一个承担地点识别的主元素，再提取4–7个辅助元素，总计形成5–8个可辨认对象。可提取建筑立面、塔楼、屋顶、窗格、招牌轮廓、人物剪影、车辆、船体、帆、桥梁、植物、摊位、道路标线或水面轨迹；不得添加照片中不存在的地域符号。\n\n将每个对象分别制作成独立的摄影遮罩图层：保留准确轮廓与身份锚点，再转成黑白粗网点、单色墨版、局部镂空和粗颗粒丝网印刷。不要把对象平均排列成素材板、九宫格或独立卡片。\n\n采用满版冲击式二次构图。最大主元素占下区高度约55%–95%，允许从任意画面边缘大胆出画；第二层建筑、人物或交通工具占30%–65%；其余元素作为节奏连接。使用明显的尺度悬殊、前后遮挡、边缘裁切、局部咬合与方向呼应，建立清楚的前景、中景和背景。画面应密集而有秩序，像旧旅行画报被重新制版，而不是完整场景的同构图复制。\n\n在部分对象后方穿过1–2块矩形或不规则专色色版，制造丝网套印和层级分隔；色版不得覆盖整个背景。保留约15%–25%的连续低信息旧纸或安静纯色色场，用于文字和呼吸，但不要让画面退化成稀疏的极简陈列。\n\n颜色从输入照片提取并压缩为3–5种印刷墨色：暖象牙旧纸、照片中最深的黑褐或靛蓝，以及2–3种最具地点识别度的专色。表现旧杂志粗网点、网点密度变化、纸纤维、缺墨、刮印毛边、剪裁毛边和轻微套色错位。每个对象仍须保持可识别，不能退化成无意义纹理。\n\n在下方连续安静区域只加入以下三行文字：\n“【1–3个英文单词的地点或主题标题】”\n“MASK PLATE 【两位数编号】”\n“【一句5–10个英文单词、来自照片事实的观察】”\n\n标题使用清楚可读的粗窄体、旧衬线或压缩无衬线大写；字段和观察句较小，但在聊天预览中仍可辨认。文字像用画面同色油墨印在纸上，带轻微缺墨与套印偏差。所有文字集中成一组，不得遮挡人物面部、车辆、船体或建筑身份结构，不得生成其他文字。\n\n避免：整图网点滤镜、同裁切同尺度重画、单一地标版画、只提取2–3个对象、规则网格、平均大小陈列、剪贴簿胶带、完整背景铺色、过度留白、通用地域模板、跨地点混合、透明水彩、卡通、光滑矢量、数字渐变、3D拼贴、过细网点、无层级堆积、不可读小字、假中文、作者名、签名、品牌、Logo、网址、二维码、水印和乱码。\n\n最重要的规则：下方必须把同一张照片里的多个真实对象分别制成不同颜色和尺度的遮罩网点层，再通过遮挡、裁切与色版穿插重建一张新的旅行蒙太奇；不能只是把完整原图印刷化。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8Ru0kbQAA-Iyu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8Ru0kbQAA-Iyu.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8Ru0kasAA-dPd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8Ru0kasAA-dPd.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8Ru0ma4AA7Njt.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8Ru0ma4AA7Njt.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR8Ru0sbkAAmxGo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR8Ru0sbkAAmxGo.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1040
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2098415482911219938",
+  "coverUrl": "https://pbs.twimg.com/media/HR8Ru0kbQAA-Iyu.jpg",
+  "coverPath": "images/2098415482911219938-1.jpg",
+  "imagePaths": [
+    "images/2098415482911219938-1.jpg",
+    "images/2098415482911219938-2.jpg",
+    "images/2098415482911219938-3.jpg",
+    "images/2098415482911219938-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR8Ru0kbQAA-Iyu",
+    "x-image:/media/HR8Ru0kasAA-dPd",
+    "x-image:/media/HR8Ru0ma4AA7Njt",
+    "x-image:/media/HR8Ru0sbkAAmxGo",
+    "x-post:2098415482911219938"
+  ],
+  "analysis": {
+    "summary": "基于旅行照片制作上下双联海报：上方保留原片实景，下方用粗网点专色遮罩重组蒙太奇。",
+    "summaryEn": "Create a vertical diptych poster from a travel photo: top shows real photo, bottom shows a halftone screenprint montage.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图严格展示了上下二分结构、原图实景对照、复古半调网点遮罩拼贴及指定格式英文排版。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "请将上传的一张旅行照片制作成一张独立的3:4竖版“复古旅行遮罩蒙太奇”编辑海报。输入照片是唯一事实来源；禁止拼入其他照片、其他地点或通用文化符号。\n\n画面采用清楚的上下双联结构。上方约占45%–48%，完整保留输入照片的高保真实景：保持主体身份与数量、人物姿态、建筑结构、交通工具、道路或水域方向、观察角度、透视、自然光线、季节及真实颜色，只允许轻微旅行杂志调色与极薄胶片颗粒。上方必须一眼仍是真实摄影，不得插画化或网点化。上下采用干净、水平、清晰的边界。\n\n下方约占52%–55%。不要重画完整场景，也不要给整张照片套网点滤镜。先从同一张照片中锁定一个承担地点识别的主元素，再提取4–7个辅助元素，总计形成5–8个可辨认对象。可提取建筑立面、塔楼、屋顶、窗格、招牌轮廓、人物剪影、车辆、船体、帆、桥梁、植物、摊位、道路标线或水面轨迹；不得添加照片中不存在的地域符号。\n\n将每个对象分别制作成独立的摄影遮罩图层：保留准确轮廓与身份锚点，再转成黑白粗网点、单色墨版、局部镂空和粗颗粒丝网印刷。不要把对象平均排列成素材板、九宫格或独立卡片。\n\n采用满版冲击式二次构图。最大主元素占下区高度约55%–95%，允许从任意画面边缘大胆出画；第二层建筑、人物或交通工具占30%–65%；其余元素作为节奏连接。使用明显的尺度悬殊、前后遮挡、边缘裁切、局部咬合与方向呼应，建立清楚的前景、中景和背景。画面应密集而有秩序，像旧旅行画报被重新制版，而不是完整场景的同构图复制。\n\n在部分对象后方穿过1–2块矩形或不规则专色色版，制造丝网套印和层级分隔；色版不得覆盖整个背景。保留约15%–25%的连续低信息旧纸或安静纯色色场，用于文字和呼吸，但不要让画面退化成稀疏的极简陈列。\n\n颜色从输入照片提取并压缩为3–5种印刷墨色：暖象牙旧纸、照片中最深的黑褐或靛蓝，以及2–3种最具地点识别度的专色。表现旧杂志粗网点、网点密度变化、纸纤维、缺墨、刮印毛边、剪裁毛边和轻微套色错位。每个对象仍须保持可识别，不能退化成无意义纹理。\n\n在下方连续安静区域只加入以下三行文字：\n“【1–3个英文单词的地点或主题标题】”\n“MASK PLATE 【两位数编号】”\n“【一句5–10个英文单词、来自照片事实的观察】”\n\n标题使用清楚可读的粗窄体、旧衬线或压缩无衬线大写；字段和观察句较小，但在聊天预览中仍可辨认。文字像用画面同色油墨印在纸上，带轻微缺墨与套印偏差。所有文字集中成一组，不得遮挡人物面部、车辆、船体或建筑身份结构，不得生成其他文字。\n\n避免：整图网点滤镜、同裁切同尺度重画、单一地标版画、只提取2–3个对象、规则网格、平均大小陈列、剪贴簿胶带、完整背景铺色、过度留白、通用地域模板、跨地点混合、透明水彩、卡通、光滑矢量、数字渐变、3D拼贴、过细网点、无层级堆积、不可读小字、假中文、作者名、签名、品牌、Logo、网址、二维码、水印和乱码。\n\n最重要的规则：下方必须把同一张照片里的多个真实对象分别制成不同颜色和尺度的遮罩网点层，再通过遮挡、裁切与色版穿插重建一张新的旅行蒙太奇；不能只是把完整原图印刷化。",
+    "sourceRange": {
+      "start": 60,
+      "end": 1350
+    },
+    "translations": {
+      "zh": "请将上传的一张旅行照片制作成一张独立的3:4竖版“复古旅行遮罩蒙太奇”编辑海报。输入照片是唯一事实来源；禁止拼入其他照片、其他地点或通用文化符号。\n\n画面采用清楚的上下双联结构。上方约占45%–48%，完整保留输入照片的高保真实景：保持主体身份与数量、人物姿态、建筑结构、交通工具、道路或水域方向、观察角度、透视、自然光线、季节及真实颜色，只允许轻微旅行杂志调色与极薄胶片颗粒。上方必须一眼仍是真实摄影，不得插画化或网点化。上下采用干净、水平、清晰的边界。\n\n下方约占52%–55%。不要重画完整场景，也不要给整张照片套网点滤镜。先从同一张照片中锁定一个承担地点识别的主元素，再提取4–7个辅助元素，总计形成5–8个可辨认对象。可提取建筑立面、塔楼、屋顶、窗格、招牌轮廓、人物剪影、车辆、船体、帆、桥梁、植物、摊位、道路标线或水面轨迹；不得添加照片中不存在的地域符号。\n\n将每个对象分别制作成独立的摄影遮罩图层：保留准确轮廓与身份锚点，再转成黑白粗网点、单色墨版、局部镂空和粗颗粒丝网印刷。不要把对象平均排列成素材板、九宫格或独立卡片。\n\n采用满版冲击式二次构图。最大主元素占下区高度约55%–95%，允许从任意画面边缘大胆出画；第二层建筑、人物或交通工具占30%–65%；其余元素作为节奏连接。使用明显的尺度悬殊、前后遮挡、边缘裁切、局部咬合与方向呼应，建立清楚的前景、中景和背景。画面应密集而有秩序，像旧旅行画报被重新制版，而不是完整场景的同构图复制。\n\n在部分对象后方穿过1–2块矩形或不规则专色色版，制造丝网套印和层级分隔；色版不得覆盖整个背景。保留约15%–25%的连续低信息旧纸或安静纯色色场，用于文字和呼吸，但不要让画面退化成稀疏的极简陈列。\n\n颜色从输入照片提取并压缩为3–5种印刷墨色：暖象牙旧纸、照片中最深的黑褐或靛蓝，以及2–3种最具地点识别度的专色。表现旧杂志粗网点、网点密度变化、纸纤维、缺墨、刮印毛边、剪裁毛边和轻微套色错位。每个对象仍须保持可识别，不能退化成无意义纹理。\n\n在下方连续安静区域只加入以下三行文字：\n“【1–3个英文单词的地点或主题标题】”\n“MASK PLATE 【两位数编号】”\n“【一句5–10个英文单词、来自照片事实的观察】”\n\n标题使用清楚可读的粗窄体、旧衬线或压缩无衬线大写；字段和观察句较小，但在聊天预览中仍可辨认。文字像用画面同色油墨印在纸上，带轻微缺墨与套印偏差。所有文字集中成一组，不得遮挡人物面部、车辆、船体或建筑身份结构，不得生成其他文字。\n\n避免：整图网点滤镜、同裁切同尺度重画、单一地标版画、只提取2–3个对象、规则网格、平均大小陈列、剪贴簿胶带、完整背景铺色、过度留白、通用地域模板、跨地点混合、透明水彩、卡通、光滑矢量、数字渐变、3D拼贴、过细网点、无层级堆积、不可读小字、假中文、作者名、签名、品牌、Logo、网址、二维码、水印和乱码。\n\n最重要的规则：下方必须把同一张照片里的多个真实对象分别制成不同颜色和尺度的遮罩网点层，再通过遮挡、裁切与色版穿插重建一张新的旅行蒙太奇；不能只是把完整原图印刷化。",
+      "en": "Convert an uploaded travel photo into a 3:4 vertical editorial poster featuring a 'vintage travel mask montage'. The source photo is the sole reference.\n\nThe poster features a clean vertical diptych layout. The top (45%–48%) faithfully retains the original photography with natural light and minimal film grain. The bottom (52%–55%) deconstructs the scene into 5–8 distinct extracted elements (buildings, vehicles, signs, silhouettes) rendered as independent screenprint mask layers with coarse halftone dots, spot colors, misregistrations, and collage overlaps.\n\nInclude 3 lines of stylized text in the lower negative space: a short title, 'MASK PLATE [00]', and a concise observation."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "海报设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
