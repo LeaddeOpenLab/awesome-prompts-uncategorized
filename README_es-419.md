@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**64** Prompts · Última incorporación: **2026-09-11**
+**65** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2098396584879002102"></a>
 
-### Traducción en curso
+### Plantilla de prompt para generar un póster promocional realista de un participante del reality show brasileño A Fazenda 18 a partir de una selfie personal, con campos de perfil del participante y especificaciones de color definidas.
 
 Autor：[@balancogeral](https://x.com/balancogeral) · [Publicación original](https://x.com/balancogeral/status/2098396584879002102)
 
 Póster / Volante · Fotografía · Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para generar un póster promocional realista de un participante del reality show brasileño A Fazenda 18 a partir de una selfie personal, con campos de perfil del participante y especificaciones de color definidas.
 
 <img src="images/2098396584879002102-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Transforma mi selfie en una publicación promocional realista de participante de A Fazenda 18. Incluye [NOME], [CIDADE], frase característica, punto fuerte, punto débil y probabilidad de llegar a la Final. Conserva fielmente mi rostro y mi apariencia natural. Foto en formato 4:5, pose espontánea, mirada directa, entorno rural discreto, luz suave, textura de piel real y composición editorial asimétrica. Paleta: beige durazno #f2ceb0, verde agua #00ad9d y naranja #e98300. Poco texto, aspecto natural, sin exceso de retoques, efectos, logotipos inventados ni apariencia de imagen generada por IA.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1426,6 +1426,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098414125613506896"></a>
+
+### Traducción en curso
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2098414125613506896)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098414125613506896-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 

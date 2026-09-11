@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**64** Prompts · Última adição: **2026-09-11**
+**65** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098396584879002102"></a>
 
-### Tradução em andamento
+### Template de prompt para transformar uma selfie pessoal em um cartaz promocional realista de participante do reality show brasileiro A Fazenda 18, incluindo campos de perfil e diretrizes de cores específicas.
 
 Autor：[@balancogeral](https://x.com/balancogeral) · [Publicação original](https://x.com/balancogeral/status/2098396584879002102)
 
 Pôster / Flyer · Fotografia · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Template de prompt para transformar uma selfie pessoal em um cartaz promocional realista de participante do reality show brasileiro A Fazenda 18, incluindo campos de perfil e diretrizes de cores específicas.
 
 <img src="images/2098396584879002102-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Transforme minha selfie em uma divulgação realista de participante de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e chance de chegar à Final. Preserve fielmente meu rosto e minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura real de pele e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logotipos inventados ou aparência de imagem gerada por IA.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1426,6 +1426,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098414125613506896"></a>
+
+### Tradução em andamento
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098414125613506896)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098414125613506896-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 

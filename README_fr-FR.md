@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**64** Prompts · Dernier ajout: **2026-09-11**
+**65** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098396584879002102"></a>
 
-### Traduction en cours
+### Modèle de prompt permettant de générer une affiche promotionnelle réaliste d'un candidat de la téléréalité brésilienne A Fazenda 18 à partir d'un selfie, avec des champs de profil de candidat et une palette de couleurs spécifique.
 
 Auteur：[@balancogeral](https://x.com/balancogeral) · [Publication originale](https://x.com/balancogeral/status/2098396584879002102)
 
 Affiche / Flyer · Photographie · Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt permettant de générer une affiche promotionnelle réaliste d'un candidat de la téléréalité brésilienne A Fazenda 18 à partir d'un selfie, avec des champs de profil de candidat et une palette de couleurs spécifique.
 
 <img src="images/2098396584879002102-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Transformez mon selfie en une promotion réaliste de participant à A Fazenda 18. Incluez [NOME], [CIDADE], phrase fétiche, point fort, point faible et chances d'atteindre la Finale. Préservez fidèlement mon visage et mon apparence naturelle. Photo au format 4:5, pose spontanée, regard direct, décor champêtre discret, lumière douce, texture de peau réelle et composition éditoriale asymétrique. Palette : beige pêche #f2ceb0, vert d'eau #00ad9d et orange #e98300. Peu de texte, aspect naturel, sans retouches excessives, effets, logos inventés ou allure d'image générée par IA.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1426,6 +1426,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098414125613506896"></a>
+
+### Traduction en cours
+
+Auteur：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2098414125613506896)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098414125613506896-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 

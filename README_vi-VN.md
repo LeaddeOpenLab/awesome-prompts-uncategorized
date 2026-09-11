@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**64** Prompt · Bổ sung mới nhất: **2026-09-11**
+**65** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098396584879002102"></a>
 
-### Đang dịch
+### Lời nhắc mẫu dùng để tạo áp phích quảng bá chân thực cho thí sinh tham gia chương trình thực tế A Fazenda 18 của Brazil từ ảnh selfie cá nhân, bao gồm các trường hồ sơ thí sinh và quy chuẩn phối màu cụ thể.
 
 Tác giả：[@balancogeral](https://x.com/balancogeral) · [Bài gốc](https://x.com/balancogeral/status/2098396584879002102)
 
 Áp phích / Tờ rơi · Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mẫu dùng để tạo áp phích quảng bá chân thực cho thí sinh tham gia chương trình thực tế A Fazenda 18 của Brazil từ ảnh selfie cá nhân, bao gồm các trường hồ sơ thí sinh và quy chuẩn phối màu cụ thể.
 
 <img src="images/2098396584879002102-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hãy biến ảnh selfie của tôi thành một bức ảnh quảng bá người tham gia chương trình A Fazenda 18 thật chân thực. Bao gồm [NOME], [CIDADE], câu nói cửa miệng, điểm mạnh, điểm yếu và cơ hội vào Chung kết. Giữ nguyên khuôn mặt và vẻ ngoài tự nhiên của tôi một cách chân thực nhất. Ảnh định dạng 4:5, tư thế tự nhiên, nhìn thẳng vào ống kính, bối cảnh nông thôn nhẹ nhàng, ánh sáng dịu, kết cấu da chân thực và bố cục biên tập bất đối xứng. Bảng màu: be đào #f2ceb0, xanh mòng két #00ad9d và cam #e98300. Ít chữ, hình ảnh tự nhiên, không chỉnh sửa quá đà, không hiệu ứng, không logo bịa đặt hay cảm giác như hình ảnh do AI tạo ra.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1450,6 +1450,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098414125613506896"></a>
+
+### Đang dịch
+
+Tác giả：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2098414125613506896)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098414125613506896-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 

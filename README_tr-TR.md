@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**64** Prompt · Son eklenen: **2026-09-11**
+**65** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098396584879002102"></a>
 
-### Çeviri sürüyor
+### Kişisel bir selfie'yi Brezilya reality şovu A Fazenda 18 yarışmacısının gerçekçi bir tanıtım afişine dönüştürmek için kullanılan, yarışmacı profil alanlarını ve belirlenen renk paleti standartlarını içeren şablon istemi.
 
 Yazar：[@balancogeral](https://x.com/balancogeral) · [Orijinal gönderi](https://x.com/balancogeral/status/2098396584879002102)
 
 Poster / El İlanı · Fotoğrafçılık · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kişisel bir selfie'yi Brezilya reality şovu A Fazenda 18 yarışmacısının gerçekçi bir tanıtım afişine dönüştürmek için kullanılan, yarışmacı profil alanlarını ve belirlenen renk paleti standartlarını içeren şablon istemi.
 
 <img src="images/2098396584879002102-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Selfie'mi A Fazenda 18 yarışmacısına ait gerçekçi bir tanıtım görseline dönüştürün. [NOME], [CIDADE], slogan, güçlü yön, zayıf yön ve Finale kalma şansını dahil edin. Yüzümü ve doğal görünümümü aslına sadık kalarak koruyun. 4:5 formatında fotoğraf, spontane poz, doğrudan bakış, sade kırsal arka plan, yumuşak ışık, gerçek cilt dokusu ve asimetrik editoryal kompozisyon. Renk paleti: şeftali beji #f2ceb0, su yeşili #00ad9d ve turuncu #e98300. Az metin, doğal görünüm, aşırı rötuş, efektler, uydurma logolar veya yapay zekâ tarafından üretilmiş görsel hissi olmadan.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1426,6 +1426,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098414125613506896"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2098414125613506896)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098414125613506896-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 

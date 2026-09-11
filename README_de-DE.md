@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**64** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**65** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098396584879002102"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage zur Erstellung eines realistischen Werbeplakats für Teilnehmer der brasilianischen Reality-Show A Fazenda 18 aus einem persönlichen Selfie, einschließlich Teilnehmerprofilfeldern und festgelegten Farbrichtlinien.
 
 Autor：[@balancogeral](https://x.com/balancogeral) · [Originalbeitrag](https://x.com/balancogeral/status/2098396584879002102)
 
 Plakat / Flyer · Fotografie · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage zur Erstellung eines realistischen Werbeplakats für Teilnehmer der brasilianischen Reality-Show A Fazenda 18 aus einem persönlichen Selfie, einschließlich Teilnehmerprofilfeldern und festgelegten Farbrichtlinien.
 
 <img src="images/2098396584879002102-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandle mein Selfie in ein realistisches Werbeporträt eines Teilnehmers von A Fazenda 18. Füge [NOME], [CIDADE], Slogan, Stärke, Schwäche und die Chance auf das Erreichen des Finales hinzu. Bewahre mein Gesicht und mein natürliches Aussehen originalgetreu. Foto im Format 4:5, spontane Pose, direkter Blick, dezenter ländlicher Hintergrund, sanftes Licht, echte Hauttextur und asymmetrische redaktionelle Bildkomposition. Farbpalette: Pfirsichbeige #f2ceb0, Aquagrün #00ad9d und Orange #e98300. Wenig Text, natürlicher Look, ohne übermäßige Retusche, Effekte, erfundene Logos oder das Aussehen eines KI-generierten Bildes.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1426,6 +1426,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098414125613506896"></a>
+
+### Übersetzung läuft
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2098414125613506896)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098414125613506896-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 

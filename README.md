@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**64** Prompts · Latest addition: **2026-09-11**
+**65** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1593,6 +1593,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098414125613506896"></a>
+
+### A young woman catching raindrops from a rain gutter on her tongue.
+
+Author：[@AI\_money\_club](https://x.com/AI_money_club) · [Source](https://x.com/AI_money_club/status/2098414125613506896)
+
+Character · Published
+
+**Summary:** A young woman catching raindrops from a rain gutter on her tongue.
+
+<img src="images/2098414125613506896-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+An innocent 20-year-old adult woman catching raindrops dripping from a rain gutter on her tongue and letting them drip straight down onto the floor
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 

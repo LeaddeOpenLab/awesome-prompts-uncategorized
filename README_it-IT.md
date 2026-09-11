@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**64** Prompt · Ultima aggiunta: **2026-09-11**
+**65** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098396584879002102"></a>
 
-### Traduzione in corso
+### Modello di prompt per generare una locandina promozionale realistica di un concorrente del reality brasiliano A Fazenda 18 a partire da un selfie personale, inclusi i campi del profilo del concorrente e le specifiche cromatiche stabilite.
 
 Autore：[@balancogeral](https://x.com/balancogeral) · [Post originale](https://x.com/balancogeral/status/2098396584879002102)
 
 Poster / Volantino · Fotografia · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt per generare una locandina promozionale realistica di un concorrente del reality brasiliano A Fazenda 18 a partire da un selfie personale, inclusi i campi del profilo del concorrente e le specifiche cromatiche stabilite.
 
 <img src="images/2098396584879002102-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma il mio selfie in un post promozionale realistico di un partecipante di A Fazenda 18. Includi [NOME], [CIDADE], slogan, punto di forza, punto debole e probabilità di arrivare alla Finale. Mantieni fedelmente il mio viso e il mio aspetto naturale. Foto in formato 4:5, posa spontanea, sguardo diretto, ambientazione rurale discreta, luce soffusa, texture reale della pelle e composizione editoriale asimmetrica. Palette: beige pesca #f2ceb0, verde acqua #00ad9d e arancione #e98300. Poco testo, aspetto naturale, senza ritocchi eccessivi, effetti, loghi inventati o l'aspetto di un'immagine generata dall'IA.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1426,6 +1426,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098414125613506896"></a>
+
+### Traduzione in corso
+
+Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098414125613506896)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098414125613506896-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 

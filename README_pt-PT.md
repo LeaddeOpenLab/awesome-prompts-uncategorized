@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**64** Prompts · Adição mais recente: **2026-09-11**
+**65** Prompts · Adição mais recente: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098396584879002102"></a>
 
-### Tradução em curso
+### Modelo de prompt para transformar uma selfie pessoal num cartaz promocional realista de concorrente do reality show brasileiro A Fazenda 18, com campos de perfil de participante e paleta de cores específica.
 
 Autor：[@balancogeral](https://x.com/balancogeral) · [Publicação original](https://x.com/balancogeral/status/2098396584879002102)
 
 Pôster / Folheto · Fotografia · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Modelo de prompt para transformar uma selfie pessoal num cartaz promocional realista de concorrente do reality show brasileiro A Fazenda 18, com campos de perfil de participante e paleta de cores específica.
 
 <img src="images/2098396584879002102-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Transforme a minha selfie numa divulgação realista de concorrente de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e hipótese de chegar à Final. Preserve fielmente o meu rosto e a minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura de pele real e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logótipos inventados ou aparência de imagem gerada por IA.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1426,6 +1426,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098414125613506896"></a>
+
+### Tradução em curso
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098414125613506896)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098414125613506896-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098381131855097863"></a>
 
