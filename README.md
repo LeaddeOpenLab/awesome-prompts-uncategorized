@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**67** Prompts · Latest addition: **2026-09-11**
+**68** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1593,6 +1593,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098423018267754894"></a>
+
+### Create a stylized fashion dance music video combining live-action choreography with chaotic hand-drawn white doodle characters, graphic overlays, and stop-motion style motion.
+
+Author：[@applete77191758](https://x.com/applete77191758) · [Source](https://x.com/applete77191758/status/2098423018267754894)
+
+Character · Fashion Item · Published
+
+**Summary:** Create a stylized fashion dance music video combining live-action choreography with chaotic hand-drawn white doodle characters, graphic overlays, and stop-motion style motion.
+
+<img src="covers/2098423018267754894.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a hyper-stylized fashion dance music video with a weird, playful, chaotic mixed-media vibe.\n\nOne stylish main dancer performs a musicality-focused R&B / funk / disco-funk choreography with urban dance energy. Include body groove, shoulder groove, chest isolations, rhythmic footwork, sharp freezes, spins, pose hits, arm swings, stylish transitions, and confident attitude. The choreography must remain clear and readable.\n\nImportant rules:\n\nKeep the original background and setting visually consistent throughout the video.\n\nDo not replace the background with a completely different location.\n\nDo not destroy the sense of place.\n\nThe background should remain the same base environment, while doodles, glitch effects, and mixed-media elements are added on top of it.\n\nDo NOT draw doodles directly on the real dancer’s face.\n\nDo NOT cover the eyes, nose, mouth, or facial features.\n\nKeep the face clean, visible, and attractive at all times.\n\nDoodles may appear around the head, hair outline, shoulders, arms, torso, hands, legs, and silhouette, but never directly on the face.\n\nSpecial creative element:\n\nRough white doodle characters appear and dance together with the main dancer.\n\nThese doodle figures should feel very hand-drawn, loose, sketchy, playful, messy, and alive — like spontaneous notebook scribbles or white crayon doodles.\n\nThey should not look too clean or too polished.\n\nThey can appear as:\n\n- simple stick-figure dancers\n\n- rough cartoon people\n\n- scribbled mini dancers\n\n- stretched dancing silhouettes\n\n- funny hand-drawn companions\n\n- duplicated sketch clones\n\nThe doodle people interact with the real dancer in fun and surprising ways:\n\n- dancing together in sync\n\n- copying moves\n\n- answering moves\n\n- surrounding the dancer\n\n- appearing and disappearing on the beat\n\n- multiplying into many sketch dancers\n\n- popping out from behind the dancer\n\n- emerging from the floor, walls, or shadow\n\n- briefly carrying props or reacting comedically\n\nAlso add many other rough doodle elements, not just human doodles:\n\n- stars\n\n- arrows\n\n- circles\n\n- scribbles\n\n- lightning bolts\n\n- speed lines\n\n- comic impact bursts\n\n- motion trails\n\n- white chalk marks\n\n- white crayon lines\n\n- hand-drawn swirls\n\n- rough hearts\n\n- crossed-out marks\n\n- check marks\n\n- abstract symbols\n\n- sketch smoke puffs\n\n- dancing lines\n\n- rough frames\n\n- floating cartoon hands\n\n- simple eyes or funny reaction icons\n\n- messy graphic accents\n\nThese doodles should feel more like real doodles: rough, spontaneous, sketchy, imperfect, playful, and energetic.\n\nLet the doodles feel handmade and a little chaotic.\n\nCamera:\n\nMostly static camera with occasional smooth lateral tracking only.\n\nThe camera always stays parallel to the dancer.\n\nThe dancer remains centered in frame.\n\nPrioritize full-body framing so the choreography is clearly visible.\n\nNo orbiting camera, no spinning camera, no drone shots, no extreme zooms, no random camera movement.\n\nVisual style:\n\nPremium fashion editorial look, luxury streetwear aesthetic, bold composition, high-contrast lighting, clean background, trendy music-video energy.\n\nThe real dancer and base background should feel polished and stylish, while the doodle layer feels raw, handmade, and chaotic.\n\nThis contrast is important.\n\nMotion style:\n\nUse a stepped low-frame-rate aesthetic inspired by stop-motion, frame-by-frame animation, cutout animation, collage animation, and animated-on-twos / animated-on-threes timing.\n\nAdd rhythmic strobing, flicker accents, pose-to-pose energy, and a 12fps-like feel while keeping the dance readable.\n\nExtra effects:\n\nAdd glitch effects, flicker cuts, frame skipping, stutter edits, collage bursts, jittery interruptions, and chaotic beat-synced visual reactions.\n\nKeep the choreography readable.\n\nThe weirdness should feel stylish, fun, and creative, not sloppy.\n\nMood:\n\nCool, funky, stylish, bizarre, playful, chaotic, fashion-forward, surprising, inventive, entertaining.\n\nBGM mood:\n\nR&B Funk, Disco Funk, Funk-pop.\n\nNo text, no subtitles, no watermark, no logo, no extra unwanted real people, no distorted anatomy, no extra limbs, no body deformation.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098444996584358073"></a>
 
