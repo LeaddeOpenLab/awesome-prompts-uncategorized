@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**42** Prompts · Latest addition: **2026-09-10**
+**43** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1133,6 +1133,34 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098249488150532562"></a>
+
+### A prompt detailing a blue-and-red spiderweb-inspired sleeveless bodysuit with cutout details and matching arm sleeves.
+
+Author：[@AI\_money\_club](https://x.com/AI_money_club) · [Source](https://x.com/AI_money_club/status/2098249488150532562)
+
+Fashion Item · Published
+
+**Summary:** A prompt detailing a blue-and-red spiderweb-inspired sleeveless bodysuit with cutout details and matching arm sleeves.
+
+<img src="images/2098249488150532562-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A fitted blue-and-red spiderweb-inspired sleeveless bodysuit with a sleek superhero-style design. The main body is deep royal blue with thin red web-pattern lines extending across the chest, torso, waist, and abdomen. It features a high mock neckline and a prominent teardrop-shaped chest cutout outlined with thick red trim.
+
+The bodysuit has a close-fitting athletic silhouette with high-cut leg openings and contrasting deep-red geometric side panels around the hips and lower waist. The blue fabric has a smooth, slightly satin-like stretch finish with realistic tension and subtle natural folds.
+
+Matching detachable long blue arm sleeves extend from the upper arms to the wrists, leaving the shoulders exposed. Each sleeve features thin red linear detailing and bold red angular accents near the forearms.
+
+Preserve the exact design characteristics: deep royal-blue base, thin red spiderweb-style line pattern, high mock neckline, red-trimmed teardrop chest cutout, sleeveless exposed-shoulder construction, fitted one-piece bodysuit silhouette, red geometric hip panels, and matching long blue detached sleeves with red accents.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097915123516215548"></a>
 
