@@ -1605,20 +1605,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2098486894028107840"></a>
 
-### Çeviri sürüyor
+### Selfie'den kırsal temalı bir reality show yarışmacısının gerçekçi tanıtım kartını oluşturmak için düzenleme istemi.
 
 Yazar：[@hojeemdia](https://x.com/hojeemdia) · [Orijinal gönderi](https://x.com/hojeemdia/status/2098486894028107840)
 
 Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Selfie'den kırsal temalı bir reality show yarışmacısının gerçekçi tanıtım kartını oluşturmak için düzenleme istemi.
 
 <img src="images/2098486894028107840-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Selfie'mi A Fazenda 18 yarışmacısının gerçekçi bir tanıtım afişine dönüştürün. [İSİM], [ŞEHİR], slogan, güçlü yön, zayıf yön ve Finale kalma şansını dahil edin. Yüzümü ve doğal görünümümü aslına sadık kalarak koruyun. 4:5 formatında fotoğraf, doğal poz, doğrudan bakış, sade kırsal arka plan, yumuşak ışık, gerçekçi cilt dokusu ve asimetrik editoryal kompozisyon. Renk paleti: şeftali beji #f2ceb0, su yeşili #00ad9d ve turuncu #e98300. Az metin, doğal görünüm; aşırı rötuş, efektler, uydurma logolar veya yapay zekâ tarafından üretilmiş görsel hissi olmadan.
 ```
 
 [↑ Kategorilere dön](#catalog)

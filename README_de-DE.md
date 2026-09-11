@@ -1588,20 +1588,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2098486894028107840"></a>
 
-### Übersetzung läuft
+### Bearbeitungs-Prompt zur Erstellung einer realistischen Werbekarte für einen Teilnehmer einer ländlichen Reality-Show anhand eines Selfies.
 
 Autor：[@hojeemdia](https://x.com/hojeemdia) · [Originalbeitrag](https://x.com/hojeemdia/status/2098486894028107840)
 
 Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Bearbeitungs-Prompt zur Erstellung einer realistischen Werbekarte für einen Teilnehmer einer ländlichen Reality-Show anhand eines Selfies.
 
 <img src="images/2098486894028107840-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandle mein Selfie in eine realistische Vorstellungskarte eines Teilnehmers von A Fazenda 18. Füge [NAME], [STADT], Slogan, Stärke, Schwäche und die Chance auf das Erreichen des Finales hinzu. Behalte mein Gesicht und mein natürliches Aussehen originalgetreu bei. Foto im 4:5-Format, spontane Pose, direkter Blick, dezenter ländlicher Hintergrund, sanftes Licht, echte Hauttextur und asymmetrische redaktionelle Komposition. Farbpalette: Pfirsichbeige #f2ceb0, Aquagrün #00ad9d und Orange #e98300. Wenig Text, natürlicher Look, ohne übermäßige Retusche, Effekte, erfundene Logos oder das Aussehen eines KI-generierten Bildes.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

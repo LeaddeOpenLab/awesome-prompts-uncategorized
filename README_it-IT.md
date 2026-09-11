@@ -1588,20 +1588,20 @@ Traduzione in corso
 
 <a name="prompt-2098486894028107840"></a>
 
-### Traduzione in corso
+### Prompt di modifica per creare una card promozionale realistica di un partecipante a un reality rurale a partire da un selfie.
 
 Autore：[@hojeemdia](https://x.com/hojeemdia) · [Post originale](https://x.com/hojeemdia/status/2098486894028107840)
 
 Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di modifica per creare una card promozionale realistica di un partecipante a un reality rurale a partire da un selfie.
 
 <img src="images/2098486894028107840-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma il mio selfie in una promozione realistica di un concorrente di A Fazenda 18. Includi [NOME], [CITTÀ], frase a effetto, punto di forza, punto debole e probabilità di arrivare alla Finale. Mantieni fedelmente il mio viso e il mio aspetto naturale. Foto in formato 4:5, posa spontanea, sguardo diretto, ambientazione rurale discreta, luce soffusa, texture reale della pelle e composizione editoriale asimmetrica. Tavolozza: beige pesca #f2ceb0, verde acqua #00ad9d e arancione #e98300. Poco testo, aspetto naturale, senza ritocchi eccessivi, effetti, loghi inventati o aspetto da immagine generata dall'IA.
 ```
 
 [↑ Torna alle categorie](#catalog)

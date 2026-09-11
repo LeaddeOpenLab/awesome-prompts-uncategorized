@@ -1623,20 +1623,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2098486894028107840"></a>
 
-### Đang dịch
+### Prompt chỉnh sửa để tạo thẻ quảng bá chân thực cho thí sinh chương trình thực tế nông thôn từ ảnh selfie.
 
 Tác giả：[@hojeemdia](https://x.com/hojeemdia) · [Bài gốc](https://x.com/hojeemdia/status/2098486894028107840)
 
 Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chỉnh sửa để tạo thẻ quảng bá chân thực cho thí sinh chương trình thực tế nông thôn từ ảnh selfie.
 
 <img src="images/2098486894028107840-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hãy biến bức ảnh selfie của tôi thành hình ảnh quảng bá thí sinh thực tế của chương trình A Fazenda 18. Bao gồm [TÊN], [THÀNH PHỐ], câu cửa miệng, điểm mạnh, điểm yếu và cơ hội vào Chung kết. Giữ nguyên khuôn mặt và diện mạo tự nhiên của tôi một cách chân thực. Ảnh tỷ lệ 4:5, tạo dáng tự nhiên, ánh nhìn thẳng, bối cảnh nông thôn tinh tế, ánh sáng dịu nhẹ, kết cấu da chân thực và bố cục biên tập bất đối xứng. Bảng màu: màu be đào #f2ceb0, xanh mòng két #00ad9d và cam #e98300. Ít chữ, vẻ ngoài tự nhiên, không chỉnh sửa quá đà, không hiệu ứng, không logo bịa đặt hoặc có cảm giác hình ảnh do AI tạo ra.
 ```
 
 [↑ Về danh mục](#catalog)

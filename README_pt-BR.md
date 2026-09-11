@@ -1605,20 +1605,20 @@ Tradução em andamento
 
 <a name="prompt-2098486894028107840"></a>
 
-### Tradução em andamento
+### Prompt de edição para criar card promocional realista de participante de reality show rural a partir de selfie.
 
 Autor：[@hojeemdia](https://x.com/hojeemdia) · [Publicação original](https://x.com/hojeemdia/status/2098486894028107840)
 
 Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de edição para criar card promocional realista de participante de reality show rural a partir de selfie.
 
 <img src="images/2098486894028107840-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Transforme minha selfie em uma divulgação realista de participante de A Fazenda 18. Inclua [NOME], [CIDADE], bordão, ponto forte, ponto fraco e chance de chegar à Final. Preserve fielmente meu rosto e minha aparência natural. Foto no formato 4:5, pose espontânea, olhar direto, cenário rural discreto, luz suave, textura real de pele e composição editorial assimétrica. Paleta: bege pêssego #f2ceb0, verde-água #00ad9d e laranja #e98300. Pouco texto, visual natural, sem excesso de retoque, efeitos, logotipos inventados ou aparência de imagem gerada por IA.
 ```
 
 [↑ Voltar às categorias](#catalog)

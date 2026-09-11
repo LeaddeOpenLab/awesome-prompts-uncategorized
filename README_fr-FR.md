@@ -1588,20 +1588,20 @@ Traduction en cours
 
 <a name="prompt-2098486894028107840"></a>
 
-### Traduction en cours
+### Prompt d'édition pour créer une carte promotionnelle réaliste d'un candidat de téléréalité rurale à partir d'un selfie.
 
 Auteur：[@hojeemdia](https://x.com/hojeemdia) · [Publication originale](https://x.com/hojeemdia/status/2098486894028107840)
 
 Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'édition pour créer une carte promotionnelle réaliste d'un candidat de téléréalité rurale à partir d'un selfie.
 
 <img src="images/2098486894028107840-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Transformez mon selfie en une annonce promotionnelle réaliste d'un participant à A Fazenda 18. Incluez [NOM], [VILLE], phrase fétiche, point fort, point faible et chances d'atteindre la Finale. Préservez fidèlement mon visage et mon apparence naturelle. Photo au format 4:5, pose spontanée, regard direct, décor champêtre discret, lumière douce, texture de peau réelle et composition éditoriale asymétrique. Palette : beige pêche #f2ceb0, vert d'eau #00ad9d et orange #e98300. Peu de texte, rendu naturel, sans retouche excessive, effets, logos inventés ou aspect d'image générée par IA.
 ```
 
 [↑ Retour aux catégories](#catalog)
