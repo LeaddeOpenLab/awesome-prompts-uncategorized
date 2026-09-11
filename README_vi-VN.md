@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**82** Prompt · Bổ sung mới nhất: **2026-09-11**
+**83** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1598,6 +1598,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098459622453756301"></a>
+
+### Đang dịch
+
+Tác giả：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Bài gốc](https://x.com/Ava_Ai__/status/2098459622453756301)
+
+Hình ảnh chính thương mại điện tử · Người có ảnh hưởng / Người mẫu · Sản phẩm · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098459622453756301.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098495168483643744"></a>
 

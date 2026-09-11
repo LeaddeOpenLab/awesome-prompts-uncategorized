@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**82** Prompts · Latest addition: **2026-09-11**
+**83** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1741,6 +1741,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098459622453756301"></a>
+
+### Create an e-commerce UGC talking-head video of an influencer presenting a beverage.
+
+Author：[@Ava\_Ai\_\_](https://x.com/Ava_Ai__) · [Source](https://x.com/Ava_Ai__/status/2098459622453756301)
+
+E-commerce Main Image · Influencer / Model · Product · Published
+
+**Summary:** Create an e-commerce UGC talking-head video of an influencer presenting a beverage.
+
+<img src="covers/2098459622453756301.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an e-commerce UGC talking-head video for this beverage. A young, influencer-style woman should appear on camera to showcase and introduce the product to an international audience. The flavor is Mango Passionfruit.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098495168483643744"></a>
 
