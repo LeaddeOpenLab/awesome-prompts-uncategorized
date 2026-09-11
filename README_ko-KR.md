@@ -1025,20 +1025,20 @@ CGI 털,
 
 <a name="prompt-2098287896872567292"></a>
 
-### 번역 중
+### 온타리오호
 
 작성자：[@jrwimaging](https://x.com/jrwimaging) · [원본 게시물](https://x.com/jrwimaging/status/2098287896872567292)
 
 풍경 / 자연 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 온타리오호
 
 <img src="covers/2098287896872567292.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+온타리오호
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

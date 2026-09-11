@@ -1026,20 +1026,20 @@ CGI毛发、
 
 <a name="prompt-2098287896872567292"></a>
 
-### 翻译中
+### 安大略湖
 
 作者：[@jrwimaging](https://x.com/jrwimaging) · [查看 X 原帖](https://x.com/jrwimaging/status/2098287896872567292)
 
 风景 / 自然 · 已推流
 
-**概括:** 翻译中
+**概括:** 安大略湖
 
 <img src="covers/2098287896872567292.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+安大略湖
 ```
 
 [↑ 返回分类目录](#catalog)

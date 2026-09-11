@@ -1043,20 +1043,20 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 
 <a name="prompt-2098287896872567292"></a>
 
-### กำลังแปล
+### ทะเลสาบออนแทรีโอ
 
 ผู้เขียน：[@jrwimaging](https://x.com/jrwimaging) · [โพสต์ต้นฉบับ](https://x.com/jrwimaging/status/2098287896872567292)
 
 ทิวทัศน์ / ธรรมชาติ · เผยแพร่แล้ว
 
-**สรุป:** กำลังแปล
+**สรุป:** ทะเลสาบออนแทรีโอ
 
 <img src="covers/2098287896872567292.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-กำลังแปล
+ทะเลสาบออนแทรีโอ
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)

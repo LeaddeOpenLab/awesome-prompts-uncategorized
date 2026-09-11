@@ -1043,20 +1043,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098287896872567292"></a>
 
-### Đang dịch
+### Hồ Ontario
 
 Tác giả：[@jrwimaging](https://x.com/jrwimaging) · [Bài gốc](https://x.com/jrwimaging/status/2098287896872567292)
 
 Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hồ Ontario
 
 <img src="covers/2098287896872567292.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hồ Ontario
 ```
 
 [↑ Về danh mục](#catalog)

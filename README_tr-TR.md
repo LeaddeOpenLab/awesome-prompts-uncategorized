@@ -1019,20 +1019,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098287896872567292"></a>
 
-### Çeviri sürüyor
+### Ontario Gölü
 
 Yazar：[@jrwimaging](https://x.com/jrwimaging) · [Orijinal gönderi](https://x.com/jrwimaging/status/2098287896872567292)
 
 Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ontario Gölü
 
 <img src="covers/2098287896872567292.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ontario Gölü
 ```
 
 [↑ Kategorilere dön](#catalog)

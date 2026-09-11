@@ -1025,20 +1025,20 @@ CGI毛皮、
 
 <a name="prompt-2098287896872567292"></a>
 
-### 翻訳中
+### オンタリオ湖
 
 作者：[@jrwimaging](https://x.com/jrwimaging) · [元の投稿](https://x.com/jrwimaging/status/2098287896872567292)
 
 風景 / 自然 · 配信済み
 
-**概要:** 翻訳中
+**概要:** オンタリオ湖
 
 <img src="covers/2098287896872567292.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+オンタリオ湖
 ```
 
 [↑ カテゴリに戻る](#catalog)
