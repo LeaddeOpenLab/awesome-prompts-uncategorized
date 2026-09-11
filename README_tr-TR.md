@@ -1083,13 +1083,13 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 
 <a name="prompt-2098382221514334261"></a>
 
-### Çeviri sürüyor
+### Bir seyahat fotoğrafından yola çıkarak, orijinal fotoğraf ile nostaljik bakır gravür tarzı pul kartını çaprazlama üst üste koyup karşılaştıran 3:4 dikey bir poster oluşturun.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098382221514334261)
 
 Poster / El İlanı · Retro / Vintage · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir seyahat fotoğrafından yola çıkarak, orijinal fotoğraf ile nostaljik bakır gravür tarzı pul kartını çaprazlama üst üste koyup karşılaştıran 3:4 dikey bir poster oluşturun.
 
 <img src="images/2098382221514334261-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1102,7 +1102,28 @@ Poster / El İlanı · Retro / Vintage · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Lütfen yüklenen simgesel yapı seyahat fotoğrafını, 3:4 dikey formatta bir "simgesel yapı gravür pul karşılaştırması" editoryal posterine dönüştürün.
+
+Altlı üstlü ikili düzen (diptik) kullanmayın. Kompozisyon, arka plan olarak sıcak fildişi tonunda, kaplamasız kesintisiz bir kâğıt kullanır ve üzerinde yalnızca çapraz olarak üst üste binen iki adet fiziksel kâğıt kart sergilenir:
+
+Sol arkada, poster genişliğinin yaklaşık %36–%44'ünü kaplayan ve saat yönünün tersine yaklaşık 3–6 derece döndürülmüş, daha küçük gerçek bir fotoğraf kartı yer alır. Orijinal fotoğraftaki simgesel yapı, bakış açısı, mimari yapı, mevsim, hava durumu, ışık, çevre ve renkler eksiksiz ve net bir şekilde korunmalıdır; yalnızca hafif bir editoryal renk derecelendirmesine izin verilir. Fotoğraf kartı dar, desensiz kâğıt kenarlıklara ve hafif bir kâğıt kalınlığına sahiptir; dekoratif küçük bir görsele dönüştürülmemelidir.
+
+Sağ önde, poster genişliğinin yaklaşık %58–%68'ini kaplayan, saat yönünde yaklaşık 2–4 derece döndürülmüş ve fotoğraf kartının bir kısmını doğal bir şekilde örten daha büyük, dikey bir gravür pul yer alır. Pul, kalın ve sıcak beyaz antika kâğıt kullanır; dört dış kenarında tamamen aynı delik çapına, aralığına, derinliğine ve şekline sahip düzenli yarım daire zımba delikleri bulunmalı ve dört köşede de aynı düzen korunmalıdır. Kâğıdın yan kenarları, lifleri ve doğal temas gölgeleri gösterilmeli, süslü çerçeveler kullanılmamalıdır.
+
+Pulun içi, yalnızca aynı fotoğrafa dayanarak simgesel yapıyı yeniden kurgular; içine fotoğraf kopyası yerleştirilmemelidir. Simgesel yapının orijinal bakış açısı, ana yapısı, yönü, oranları, hava durumu ve çevresel mevsimi korunmalı; yalnızca simgesel yapı ile ağaç sınırı, su yüzeyi, dağlar, kaya çerçeveleri, yollar veya bitişik binalar gibi 1–2 kilit çevresel unsur tutulmalıdır.
+
+Tek renkli veya sade iki renkli bakır gravür görsel dilini kullanın: Koyu lacivert-siyah veya kömür karası ana mürekkep tercih edilmeli, orijinal görselden son derece küçük bir alanda özel bir spot renk çıkarılmasına izin verilmelidir. Sıkı çapraz taramalar, paralel oyma çizgileri, noktalama, açık ve koyu çizgi yoğunluğu, eski mürekkep baskı eksiklikleri ve kâğıt beyazı parıltılarla katmanlar oluşturun. Bir kurşun kalem çizimi, ahşap baskı, suluboya, dijital filtre veya pürüzsüz vektör grafiği değil, gerçek bir çukur baskı (tifdruk) hissi vermelidir.
+
+Pulun alt kısmında yalnızca şunları içeren sakin bir yazı alanı bırakılmalıdır:
+"[Yerin gerçek İngilizce adı]"
+"LANDMARK PLATE [Numara]"
+"[Gerçek bir gözlemi anlatan 5–9 İngilizce kelimelik tek satır]"
+
+Başlık, geniş harf aralıklı eski tarz serifli yazı tipiyle dizilmiştir; veri alanları ve gözlem cümlesi daha küçük fakat kâğıda mürekkeple preslenmiş gibi net bir şekilde okunabilirdir. Hayali posta değerleri, devlet basım ibareleri, posta damgaları, armalar, yazar adları, fotoğrafçı adları, logolar, URL'ler veya diğer metinleri eklemeyin.
+
+Genel görünüm, bir müzenin gravür odasında korunan bir seyahat numunesini andırmalıdır: Ölçülü kompozisyon, net ölçek ilişkileri, kâğıt üzerinde bolca boşluk ve gerçek fotoğraf ile oyulmuş anı arasında açık bir karşıtlık oluşturulmalıdır.
+
+Kaçınılması gerekenler: Altlı üstlü ikili düzen, eşit boyutta yan yana dizilim, fotoğraf tekrarı, fotoğrafın doğrudan pul içine basılması, birden fazla pul, ekstra kartlar, düzensiz delikler, kenarlarda tutarsız delik boyutları, süslü bordürler, sahte pul bedelleri, sahte posta damgaları, kurgusal simgesel yapılar, değişen bakış açıları, elle tutulan maketler, masa üstü dağınıklığı, resim çerçeveleri, yazar imzaları, markalar, logolar, filigranlar ve anlamsız karakterler.
 ```
 
 [↑ Kategorilere dön](#catalog)

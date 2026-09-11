@@ -1095,13 +1095,13 @@ Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficient
 
 <a name="prompt-2098382221514334261"></a>
 
-### Traducción en curso
+### Genera un póster vertical de 3:4 a partir de una foto de viaje, superponiendo en diagonal la foto original con una tarjeta-sello estilo grabado vintage en cobre para una exhibición comparativa.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2098382221514334261)
 
 Póster / Folleto · Retro / Vintage · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Genera un póster vertical de 3:4 a partir de una foto de viaje, superponiendo en diagonal la foto original con una tarjeta-sello estilo grabado vintage en cobre para una exhibición comparativa.
 
 <img src="images/2098382221514334261-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1114,7 +1114,28 @@ Póster / Folleto · Retro / Vintage · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Transforme la foto de viaje del monumento subida en un póster editorial vertical de 3:4 con una «comparación entre foto y sello grabado del monumento».
+
+No utilice un diseño en díptico vertical (arriba y abajo). La escena debe emplear una sola hoja continua de papel no estucado de color marfil cálido como fondo, mostrando únicamente dos tarjetas de papel físicas superpuestas en diagonal:
+
+En la parte posterior izquierda, una tarjeta con la foto real, más pequeña, que ocupe aproximadamente el 36%–44% del ancho del póster, rotada en sentido antihorario unos 3–6 grados. Conserve de manera completa y nítida el monumento original, el ángulo de visión, la estructura arquitectónica, la estación, el clima, la iluminación, el entorno y los colores; solo se permite una ligera gradación de color editorial. La tarjeta de la foto debe tener un borde estrecho de papel liso y un grosor de papel sutil, sin reducirse a una miniatura decorativa.
+
+En la parte frontal derecha, un sello grabado vertical más grande, que ocupe aproximadamente el 58%–68% del ancho del póster, rotado en sentido horario unos 2–4 grados, cubriendo de forma natural una parte de la tarjeta de la foto. El sello utiliza un papel envejecido blanco cálido y grueso; los cuatro bordes exteriores deben presentar perforaciones semicirculares troqueladas perfectamente regulares, con idéntico diámetro, espaciado, profundidad y forma, manteniendo el mismo patrón en las cuatro esquinas. Muestre los bordes del papel, las fibras y una sombra de contacto natural, sin marcos ornamentales recargados.
+
+El interior del sello debe reconstruir el monumento basándose únicamente en la misma foto, sin insertar una copia directa de la imagen. Mantenga el ángulo de observación original, la estructura principal, la orientación, las proporciones, el clima y la estación ambiental del monumento, conservando solo el monumento y 1–2 elementos clave del entorno, como la línea de árboles, una superficie de agua, montañas, un encuadre de rocas, caminos o edificios colindantes.
+
+Utilice el lenguaje visual del grabado en placa de cobre monocromático o en dos tonos sobrios: tinta principal en negro azulado oscuro o negro carbón, permitiendo extraer un único color directo en un área mínima de la imagen original. Construya las capas y volúmenes mediante tramas cruzadas densas, líneas de grabado paralelas, punteado, variaciones en la densidad de líneas, omisiones de tinta vintage y luces dadas por el blanco del papel. Debe parecer una auténtica estampación en huecograbado, no un boceto a lápiz, xilografía, acuarela, filtro digital ni un gráfico vectorial liso.
+
+Reserve una zona de rotulación sobria en la parte inferior del sello que contenga exclusivamente:
+“【Nombre en inglés del lugar real】”
+“LANDMARK PLATE 【Número】”
+“【Una línea de observación real de 5 a 9 palabras en inglés】”
+
+El título debe usar una tipografía serif de estilo antiguo con interletreado amplio; los campos y la frase de observación deben ser más pequeños pero claramente legibles, como si la tinta hubiese sido presionada en el papel. No incluya valores faciales ficticios, inscripciones de emisión nacional, matasellos, escudos, nombre del autor, nombre del fotógrafo, logotipos, enlaces web ni ningún otro texto.
+
+El aspecto general debe evocar un espécimen de viaje conservado en la sala de grabados de un museo: composición sobria, jerarquía de tamaños definida y suficiente espacio negativo en el papel, logrando un contraste nítido entre la fotografía real y el recuerdo grabado.
+
+Evite: dípticos arriba/abajo, colocación lado a lado del mismo tamaño, repetición de fotos, imprimir la foto directamente dentro del sello, múltiples sellos, tarjetas adicionales, perforaciones irregulares o inconsistentes entre lados, bordes decorativos de filigrana, valores falsos, matasellos falsos, monumentos ficticios, cambios en el ángulo de visión, maquetas sostenidas con la mano, desorden de escritorio, marcos de fotos, firmas de autor, marcas, logotipos, marcas de agua y texto incoherente.
 ```
 
 [↑ Volver a categorías](#catalog)

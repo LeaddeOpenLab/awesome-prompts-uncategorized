@@ -1083,13 +1083,13 @@ Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticame
 
 <a name="prompt-2098382221514334261"></a>
 
-### Traduzione in corso
+### Genera un poster verticale 3:4 a partire da una foto di viaggio, sovrapponendo diagonalmente la foto originale a una scheda-francobollo in stile incisione su rame vintage in netto contrasto.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098382221514334261)
 
 Poster / Volantino · Retro / Vintage · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Genera un poster verticale 3:4 a partire da una foto di viaggio, sovrapponendo diagonalmente la foto originale a una scheda-francobollo in stile incisione su rame vintage in netto contrasto.
 
 <img src="images/2098382221514334261-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1102,7 +1102,28 @@ Poster / Volantino · Retro / Vintage · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster editoriale verticale in formato 3:4 con un "confronto tra francobollo inciso e punto di riferimento", basato sulla foto di viaggio caricata.
+
+Non utilizzare un dittico alto-basso. La scena impiega uno sfondo continuo di carta avorio calda non patinata, esponendo esclusivamente due carte fisiche sovrapposte in diagonale:
+
+In secondo piano a sinistra si trova una scheda fotografica reale più piccola, che occupa circa il 36%–44% della larghezza del poster, ruotata in senso antiorario di circa 3–6 gradi. Mantieni in modo completo e nitido il punto di riferimento, l'angolo di visuale, la struttura architettonica, la stagione, il meteo, la luce, l'ambiente e i colori della foto originale; è consentita solo una lieve correzione colore di tipo editoriale. La scheda fotografica presenta bordi stretti in carta a tinta unita e un leggero spessore della carta; non deve essere ridotta a una miniatura decorativa.
+
+In primo piano a destra si trova un francobollo inciso verticale più grande, che occupa circa il 58%–68% della larghezza del poster, ruotato in senso orario di circa 2–4 gradi, che copre in modo naturale una parte della scheda fotografica. Il francobollo utilizza una carta spessa e anticata di tonalità bianco caldo; tutti e quattro i bordi esterni devono presentare perforazioni fustellate semicircolari regolari, identiche per diametro del foro, spaziatura, profondità e forma, mantenendo la stessa regolarità ai quattro angoli. Mostra i bordi laterali della carta, le fibre e le ombre di contatto naturali, senza bordi ornati.
+
+L'interno del francobollo ricostruisce esclusivamente il punto di riferimento sulla base della stessa foto; non inserire una copia della foto. Mantieni l'angolo di osservazione originale, la struttura principale, l'orientamento, le proporzioni, il clima e la stagione del punto di riferimento, conservando solo il soggetto principale e 1–2 elementi ambientali chiave, come la linea degli alberi, specchi d'acqua, montagne, quinte rocciose, strade o edifici adiacenti.
+
+Utilizza il linguaggio visivo di un'incisione su rame monocromatica o sobriamente bicolore: inchiostro principale blu scuro o nero carbone, con la possibilità di estrarre un piccolissimo dettaglio di colore speciale dall'immagine originale. Modella i volumi tramite fitti tratteggi incrociati, linee parallele incise, puntinismo, densità di linee chiare e scure, vuoti d'inchiostro dovuti all'invecchiamento e alte luci date dal bianco della carta. Deve sembrare una vera stampa calcografica intaglio, non uno schizzo a matita, una xilografia, un acquerello, un filtro digitale o un tracciato vettoriale piatto.
+
+La parte inferiore del francobollo riserva un'area di didascalia sobria, includendo unicamente:
+"[Nome reale del luogo in inglese]"
+"LANDMARK PLATE [numero]"
+"[Una riga di 5–9 parole in inglese con un'osservazione reale]"
+
+Il titolo utilizza caratteri graziati vecchio stile con ampia spaziatura tra le lettere; i campi descrittivi e la frase di osservazione sono più piccoli ma chiaramente leggibili, come impressi a inchiostro nella carta. Non inserire valori nominali fittizi, diciture di emissione statale, timbri postali, stemmi, firme dell'autore, crediti del fotografo, loghi, URL o altro testo.
+
+L'aspetto complessivo deve ricordare un reperto di viaggio custodito nel gabinetto delle stampe di un museo: composizione misurata, chiare relazioni di scala, ampio spazio vuoto sulla carta e un netto contrasto tra la fotografia reale e il ricordo inciso.
+
+Evitare: dittico sopra-sotto, affiancamento di uguali dimensioni, duplicazione della foto, foto stampata direttamente nel francobollo, francobolli multipli, schede aggiuntive, dentellature irregolari, dentellature incoerenti sui quattro lati, cornici decorative elaborate, valori nominali fittizi, finti timbri postali, punti di riferimento inventati, modifica dell'angolo di visuale, mockup tenuto in mano, disordine da scrivania, cornici da quadro, firme d'autore, marchi, loghi, filigrane e caratteri casuali.
 ```
 
 [↑ Torna alle categorie](#catalog)

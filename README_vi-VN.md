@@ -1095,13 +1095,13 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 
 <a name="prompt-2098382221514334261"></a>
 
-### Đang dịch
+### Tạo áp phích khổ dọc 3:4 từ ảnh du lịch, xếp chồng chéo đối chiếu giữa ảnh gốc và tấm thẻ tem phong cách khắc đồng cổ điển.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098382221514334261)
 
 Áp phích / Tờ rơi · Cổ điển / Cổ điển · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo áp phích khổ dọc 3:4 từ ảnh du lịch, xếp chồng chéo đối chiếu giữa ảnh gốc và tấm thẻ tem phong cách khắc đồng cổ điển.
 
 <img src="images/2098382221514334261-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1114,7 +1114,28 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vui lòng chuyển đổi bức ảnh du lịch địa danh đã tải lên thành một áp phích biên tập tỉ lệ 3:4 dọc mang phong cách "Đối chiếu tem khắc đồng địa danh".
+
+Không sử dụng bố cục hai khung trên dưới. Khung hình sử dụng một tờ giấy nền không tráng phủ màu trắng ngà ấm áp liên tục, chỉ trưng bày hai tấm thẻ giấy thực thể xếp chồng chéo lên nhau:
+
+Phía sau bên trái là một tấm thẻ ảnh chụp thực tế nhỏ hơn, chiếm khoảng 36%–44% chiều rộng áp phích, xoay ngược chiều kim đồng hồ khoảng 3–6 độ. Giữ lại nguyên vẹn và rõ ràng địa danh, góc quan sát, cấu trúc kiến trúc, mùa, thời tiết, ánh sáng, môi trường và màu sắc từ ảnh gốc; chỉ cho phép chỉnh màu nhẹ như phong cách ấn phẩm in ấn. Thẻ ảnh có viền giấy trơn hẹp và độ dày giấy nhẹ, không được thu nhỏ thành hình trang trí nhỏ.
+
+Phía trước bên phải là một con tem khắc khổ dọc lớn hơn, chiếm khoảng 58%–68% chiều rộng áp phích, xoay theo chiều kim đồng hồ khoảng 2–4 độ và che khuất một phần thẻ ảnh một cách tự nhiên. Con tem sử dụng giấy cổ màu trắng ấm dày dặn, bốn cạnh ngoài bắt buộc phải có răng tem dập bán nguyệt đều đặn với kích thước lỗ, khoảng cách, độ sâu và hình dạng hoàn toàn giống nhau, bốn góc cũng giữ nguyên quy luật đó. Thể hiện mép giấy, thớ sợi và bóng đổ tiếp xúc tự nhiên, không sử dụng khung viền hoa văn cầu kỳ.
+
+Bên trong con tem chỉ tái hiện lại địa danh dựa trên cùng một bức ảnh, không được đặt bản sao ảnh chụp vào. Giữ nguyên góc nhìn ban đầu, cấu trúc chính, hướng, tỉ lệ, thời tiết và mùa cảnh quan của địa danh, chỉ giữ lại địa danh cùng 1–2 dấu vết môi trường then chốt như rặng cây, mặt nước, ngọn núi, khung đá, con đường hoặc kiến trúc lân cận.
+
+Sử dụng ngôn ngữ tranh khắc axit bản đồng đơn sắc hoặc hai màu tiết chế: mực chính màu xanh đen đậm hoặc đen than, cho phép trích xuất một màu pha diện tích cực nhỏ từ ảnh gốc. Tạo chiều sâu qua các đường gạch chéo tỉ mỉ, nét khắc song song, chấm điểm, mật độ đường nét đậm nhạt, vết mực in hụt kiểu cổ và mảng sáng trắng của giấy. Phải giống như bản in khắc lõm thực sự, không phải ký họa chì, tranh khắc gỗ, màu nước, bộ lọc kỹ thuật số hay đồ họa vector phẳng mượt mà.
+
+Phần dưới con tem giữ một vùng nhãn trang nhã, chỉ bao gồm:
+“【Tên tiếng Anh của địa điểm thực tế】”
+“LANDMARK PLATE 【Mã số】”
+“【Một dòng gồm 5–9 từ tiếng Anh ghi lại quan sát thực tế】”
+
+Tiêu đề sử dụng phông chữ serif cổ điển giãn cách rộng, các trường thông tin và câu quan sát nhỏ hơn nhưng rõ ràng dễ đọc, như thể mực được ép lún vào giấy. Tuyệt đối không thêm mệnh giá giả tưởng, chữ phát hành quốc gia, dấu bưu điện, huy hiệu, tên tác giả, tên nhiếp ảnh gia, logo, trang web hoặc văn bản khác.
+
+Tổng thể giống như một mẫu vật du lịch được lưu trữ trong phòng bản in của bảo tàng: bố cục tiết chế, mối quan hệ kích thước rõ ràng, chừa khoảng trắng giấy đầy đủ, tạo sự đối chiếu rõ nét giữa bức ảnh thực và ký ức khắc họa.
+
+Cần tránh: bố cục hai khung trên dưới, kích thước bằng nhau đặt cạnh nhau, lặp lại ảnh, in trực tiếp ảnh vào tem, nhiều tem, thẻ phụ, răng tem không đều, răng tem không đồng nhất giữa các cạnh, khung viền hoa lá trang trí, mệnh giá giả, dấu bưu điện giả, địa danh hư cấu, thay đổi góc quan sát, mockup cầm tay, đồ vật bừa bộn trên bàn, khung tranh, chữ ký tác giả, thương hiệu, logo, hình mờ và ký tự rác.
 ```
 
 [↑ Về danh mục](#catalog)

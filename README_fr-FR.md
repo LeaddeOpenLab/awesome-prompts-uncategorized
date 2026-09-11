@@ -1083,13 +1083,13 @@ Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et e
 
 <a name="prompt-2098382221514334261"></a>
 
-### Traduction en cours
+### Générer une affiche verticale 3:4 à partir d'une photo de voyage, juxtaposant la photo d'origine et une carte-timbre au style de gravure sur cuivre vintage dans une disposition en diagonale.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2098382221514334261)
 
 Affiche / Flyer · Rétro / Vintage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Générer une affiche verticale 3:4 à partir d'une photo de voyage, juxtaposant la photo d'origine et une carte-timbre au style de gravure sur cuivre vintage dans une disposition en diagonale.
 
 <img src="images/2098382221514334261-1.jpg" alt="Image 1" width="480" />
 
@@ -1102,7 +1102,28 @@ Affiche / Flyer · Rétro / Vintage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Veuillez transformer la photo de voyage d'un monument importée en une affiche éditoriale verticale 3:4 de type « comparaison entre timbre gravé et monument ».
+
+Ne pas utiliser de diptyque haut-bas. La scène utilise un fond continu en papier non couché ivoire chaud, ne présentant que deux cartes en papier physique se chevauchant en diagonale :
+
+À l'arrière-plan à gauche se trouve une carte photo réelle plus petite, occupant environ 36 % à 44 % de la largeur de l'affiche, inclinée d'environ 3 à 6 degrés dans le sens inverse des aiguilles d'une montre. Conservez fidèlement et clairement le monument, l'angle de vue, la structure architecturale, la saison, la météo, la lumière, l'environnement et les couleurs de la photo d'origine ; seul un léger étalonnage des couleurs de type éditorial est autorisé. La carte photo présente d'étroites bordures en papier uni et une légère épaisseur de papier ; elle ne doit pas être réduite à une miniature décorative.
+
+Au premier plan à droite se trouve un timbre gravé vertical plus grand, occupant environ 58 % à 68 % de la largeur de l'affiche, incliné d'environ 2 à 4 degrés dans le sens des aiguilles d'une montre, masquant naturellement une partie de la carte photo. Le timbre utilise un papier épais et vieilli blanc chaud ; les quatre bords extérieurs doivent comporter des perforations en demi-cercle régulières et découpées à l'emporte-pièce avec exactement les mêmes diamètres de trous, espacements, profondeurs et formes, le même motif étant respecté aux quatre coins. Faites apparaître les tranches du papier, les fibres et les ombres de contact naturelles, sans cadre ornementé.
+
+L'intérieur du timbre reconstruit uniquement le monument à partir de la même photo ; ne pas insérer de duplicata de la photo. Conservez l'angle de vue d'origine, la structure principale, l'orientation, les proportions, la météo et la saison environnementale du monument, en ne retenant que le monument et 1 ou 2 éléments clés de l'environnement, tels qu'une lisière d'arbres, un plan d'eau, des montagnes, un encadrement rocheux, une route ou des bâtiments voisins.
+
+Adoptez le langage visuel d'une gravure sur cuivre monochrome ou sobrement bicolore : encre principale bleu nuit ou noir de charbon, avec la possibilité d'extraire une teinte d'accompagnement sur une surface minime à partir de l'image originale. Construisez les volumes par des hachures croisées denses, des lignes gravées parallèles, du pointillé, des variations de densité de lignes, des manques d'encrage anciens et les blancs préservés du papier. Le résultat doit ressembler à une véritable estampe en taille-douce, et non à un croquis au crayon, une gravure sur bois, une aquarelle, un filtre numérique ou un graphique vectoriel lisse.
+
+La partie inférieure du timbre réserve une zone de légende discrète, comportant uniquement :
+« [Nom réel du lieu en anglais] »
+« LANDMARK PLATE [numéro] »
+« [Une ligne de 5 à 9 mots en anglais décrivant une observation authentique] »
+
+Le titre utilise une typographie avec empattements à l'ancienne et un espacement de lettres généreux ; les champs de texte et la phrase d'observation sont plus petits mais parfaitement lisibles, comme incrustés dans le papier par l'encre. N'ajoutez aucune valeur faciale fictive, mention d'émission nationale, cachet de la poste, blason, nom d'auteur, nom de photographe, logo, URL ou autre texte.
+
+L'ensemble évoque un spécimen de voyage conservé dans le cabinet des estampes d'un musée : composition mesurée, hiérarchie d'échelle nette, espace blanc généreux sur le papier et contraste saisissant entre la photo réelle et la mémoire gravée.
+
+À éviter : diptyque haut-bas, disposition côte à côte de même taille, répétition de photos, photo directement imprimée à l'intérieur du timbre, timbres multiples, cartes superflues, perforations irrégulières, perforations asymétriques selon les côtés, bordures décoratives fleuries, fausses valeurs faciales, faux cachets postaux, monuments imaginaires, modification de l'angle de vue, mise en scène tenue à la main, désordre sur la table, cadres photo, signatures d'auteur, marques, logos, filigranes et caractères parasites.
 ```
 
 [↑ Retour aux catégories](#catalog)

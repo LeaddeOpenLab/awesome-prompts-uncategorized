@@ -1083,13 +1083,13 @@ Crie para mim um rack de servidores para 6 Nvidia Sparks com um design eficiente
 
 <a name="prompt-2098382221514334261"></a>
 
-### Tradução em andamento
+### Gere um cartaz vertical de 3:4 a partir de uma foto de viagem, sobrepondo diagonalmente a foto original a um cartão de selo estilo gravura em cobre vintage para comparação.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098382221514334261)
 
 Pôster / Flyer · Retrô / Vintage · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Gere um cartaz vertical de 3:4 a partir de uma foto de viagem, sobrepondo diagonalmente a foto original a um cartão de selo estilo gravura em cobre vintage para comparação.
 
 <img src="images/2098382221514334261-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1102,7 +1102,28 @@ Pôster / Flyer · Retrô / Vintage · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Transforme a foto de viagem de ponto turístico enviada em um cartaz editorial vertical de 3:4 com uma "comparação entre selo gravado e ponto turístico".
+
+Não utilize um díptico superior e inferior. A cena utiliza um fundo contínuo de papel marfim quente não revestido, exibindo apenas dois cartões de papel físicos sobrepostos diagonalmente:
+
+Ao fundo, à esquerda, há um cartão de foto real menor, ocupando cerca de 36% a 44% da largura do cartaz, girado no sentido anti-horário em cerca de 3 a 6 graus. Mantenha de forma completa e nítida o ponto turístico, o ângulo de visão, a estrutura arquitetônica, a estação, o clima, a luz, o ambiente e as cores da foto original; apenas uma leve gradação de cores editorial é permitida. O cartão de foto tem bordas de papel lisas e estreitas e uma leve espessura de papel; não deve ser reduzido a uma miniatura decorativa.
+
+À frente, à direita, há um selo gravado vertical maior, ocupando cerca de 58% a 68% da largura do cartaz, girado no sentido horário em cerca de 2 a 4 graus, cobrindo naturalmente parte do cartão de foto. O selo utiliza papel encorpado e envelhecido em branco quente; todas as quatro bordas externas devem apresentar picotes semicirculares regulares cortados com matriz, com diâmetro, espaçamento, profundidade e formato de furo perfeitamente idênticos, mantendo o mesmo padrão nos quatro cantos. Mostre as bordas laterais do papel, as fibras e as sombras de contato naturais, sem bordas ornamentadas.
+
+O interior do selo reconstrói o ponto turístico unicamente com base na mesma foto; não insira uma cópia da foto. Mantenha o ângulo de visão original, a estrutura principal, a orientação, a escala, o clima e a estação do ambiente do ponto turístico, preservando apenas o marco e 1 ou 2 elementos essenciais do entorno, como a linha de árvores, a superfície da água, montanhas, enquadramentos de rochas, estradas ou edifícios adjacentes.
+
+Utilize a linguagem visual de uma gravura em placa de cobre monocromática ou sobriamente bicolor: tinta principal azul-escuro ou preto-carvão, permitindo uma cor especial em área extremamente reduzida extraída da imagem original. Crie camadas por meio de hachuras cruzadas densas, linhas de gravação paralelas, pontilhismo, variações de densidade de linhas, falhas de tinta envelhecida e realces no branco do papel. Deve se parecer com uma verdadeira impressão de talho-doce em rotogravura, e não com um esboço a lápis, xilogravura, aquarela, filtro digital ou vetor suave.
+
+A parte inferior do selo reserva uma área discreta para a legenda, incluindo apenas:
+"[Nome real do local em inglês]"
+"LANDMARK PLATE [número]"
+"[Uma linha de 5 a 9 palavras em inglês com uma observação real]"
+
+O título utiliza uma fonte serifada antiga com amplo espaçamento entre letras; os campos e a frase de observação são menores, porém perfeitamente legíveis, como prensados com tinta no papel. Não adicione valores faciais fictícios, inscrições de emissão estatal, carimbos postais, brasões, assinaturas de autor, créditos de fotógrafo, logotipos, URLs ou outros textos.
+
+No geral, deve se parecer com um espécime de viagem preservado na sala de gravuras de um museu: composição contida, relações de escala bem definidas, bastante espaço em branco no papel e um contraste claro entre a fotografia real e a memória gravada.
+
+Evite: díptico superior e inferior, disposição lado a lado de mesmo tamanho, repetição de fotos, foto impressa diretamente no selo, múltiplos selos, cartões adicionais, perfurações irregulares, picotes inconsistentes nas bordas, molduras decorativas rebuscadas, valores nominais falsos, carimbos falsos, marcos fictícios, alteração de ângulo de visão, maquetes seguradas pela mão, desordem de mesa, molduras de quadros, assinaturas de autor, marcas, logotipos, marcas d'água e caracteres sem sentido.
 ```
 
 [↑ Voltar às categorias](#catalog)

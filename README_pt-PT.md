@@ -1083,13 +1083,13 @@ Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e
 
 <a name="prompt-2098382221514334261"></a>
 
-### Tradução em curso
+### Gere um cartaz vertical de 3:4 a partir de uma fotografia de viagem, justapondo diagonalmente a fotografia original e um selo no estilo de gravura em cobre vintage para contraste.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098382221514334261)
 
 Pôster / Folheto · Retrô / Vintage · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Gere um cartaz vertical de 3:4 a partir de uma fotografia de viagem, justapondo diagonalmente a fotografia original e um selo no estilo de gravura em cobre vintage para contraste.
 
 <img src="images/2098382221514334261-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1102,7 +1102,28 @@ Pôster / Folheto · Retrô / Vintage · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Transforme a fotografia de viagem de um monumento carregada num cartaz editorial vertical de 3:4 com uma "comparação entre selo gravado e monumento".
+
+Não utilize um díptico superior e inferior. A cena utiliza um fundo contínuo de papel marfim quente não revestido, apresentando unicamente dois cartões de papel físicos sobrepostos diagonalmente:
+
+Atrás, à esquerda, encontra-se um cartão fotográfico real mais pequeno, ocupando cerca de 36% a 44% da largura do cartaz, rodado no sentido contrário aos ponteiros do relógio cerca de 3 a 6 graus. Mantenha de forma integral e clara o monumento, o ângulo de visão, a estrutura arquitetónica, a estação do ano, o clima, a luz, o ambiente e as cores da fotografia original; apenas é permitida uma ligeira gradação de cores editorial. O cartão fotográfico tem margens de papel lisas e estreitas e uma ligeira espessura de papel; não deve ser reduzido a uma miniatura decorativa.
+
+À frente, à direita, encontra-se um selo gravado vertical maior, ocupando cerca de 58% a 68% da largura do cartaz, rodado no sentido dos ponteiros do relógio cerca de 2 a 4 graus, tapando naturalmente uma parte do cartão fotográfico. O selo utiliza papel encorpado e envelhecido em branco quente; todas as quatro margens exteriores devem exibir picotados semicirculares regulares cortados com matriz, com diâmetro, espaçamento, profundidade e forma de orifício rigorosamente idênticos, mantendo-se o mesmo padrão nos quatro cantos. Evidencie os rebordos laterais do papel, as fibras e as sombras de contacto naturais, sem molduras ornamentadas.
+
+O interior do selo reconstrói o monumento exclusivamente a partir da mesma fotografia; não insira uma cópia da fotografia. Mantenha o ângulo de visão original, a estrutura principal, a orientação, as proporções, o clima e a estação do ano do monumento, preservando unicamente o elemento principal e 1 a 2 elementos contextuais essenciais, tais como a linha de árvores, o plano de água, montanhas, enquadramentos rochosos, estradas ou edifícios adjacentes.
+
+Utilize a linguagem visual de uma gravura em placa de cobre monocromática ou sobriamente bicolor: tinta principal em azul-escuro ou preto-carvão, permitindo uma cor direta numa área extremamente reduzida extraída da imagem original. Crie textura e volume através de hachuras cruzadas densas, linhas de gravação paralelas, pontilhismo, variações na densidade dos traços, falhas de tinta envelhecida e brancos do próprio papel. Deve parecer uma verdadeira impressão calcográfica de talhe-doce, e não um esboço a lápis, xilogravura, aguarela, filtro digital ou imagem vetorial plana.
+
+A parte inferior do selo reserva uma zona discreta para a legenda, incluindo apenas:
+"[Nome real do local em inglês]"
+"LANDMARK PLATE [número]"
+"[Uma linha de 5 a 9 palavras em inglês com uma observação autêntica]"
+
+O título utiliza uma tipografia com serifa de estilo antigo com espaçamento generoso entre letras; os campos de texto e a frase de observação surgem mais pequenos, mas perfeitamente legíveis, como que prensados na folha com tinta. Não adicione valores faciais fictícios, menções de emissão estatal, carimbos do correio, brasões, assinaturas de autor, créditos de fotógrafo, logótipos, URLs ou outro texto.
+
+Globalmente, deve assemelhar-se a um espécime de viagem conservado no gabinete de gravuras de um museu: composição sóbria, relações de escala claras, bastante espaço em branco no papel e um contraste evidente entre a fotografia real e a memória gravada.
+
+Evitar: díptico superior e inferior, disposição lado a lado em tamanho idêntico, repetição da fotografia, fotografia impressa diretamente no selo, múltiplos selos, cartões adicionais, picotados irregulares, picotados divergentes entre margens, molduras decorativas rebuscadas, falsos valores faciais, carimbos postais forjados, monumentos fictícios, alteração do ângulo de visão, maquetas seguras com a mão, desarrumação sobre a mesa, molduras de quadros, assinaturas de autor, marcas, logótipos, marcas de água e caracteres aleatórios.
 ```
 
 [↑ Voltar às categorias](#catalog)

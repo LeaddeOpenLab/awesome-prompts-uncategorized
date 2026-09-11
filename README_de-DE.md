@@ -1083,13 +1083,13 @@ Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhet
 
 <a name="prompt-2098382221514334261"></a>
 
-### Übersetzung läuft
+### Erstelle anhand eines Reisefotos ein 3:4-Hochformat-Poster, das das Originalfoto diagonal überlappend einer Briefmarkenkarte im Vintage-Kupferstich-Stil gegenüberstellt.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2098382221514334261)
 
 Plakat / Flyer · Retro / Vintage · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle anhand eines Reisefotos ein 3:4-Hochformat-Poster, das das Originalfoto diagonal überlappend einer Briefmarkenkarte im Vintage-Kupferstich-Stil gegenüberstellt.
 
 <img src="images/2098382221514334261-1.jpg" alt="Bild 1" width="480" />
 
@@ -1102,7 +1102,28 @@ Plakat / Flyer · Retro / Vintage · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Bitte erstelle aus dem hochgeladenen Reisefoto einer Sehenswürdigkeit ein redaktionelles 3:4-Hochformat-Poster im Stil einer „Sehenswürdigkeits-Stichmarken-Gegenüberstellung“.
+
+Verwende kein vertikales Diptychon (oben/unten). Die Komposition verwendet einen durchgehenden Hintergrund aus warmem, elfenbeinfarbenem, ungestrichenem Papier, auf dem nur zwei diagonal überlappende physische Papierkarten präsentiert werden:
+
+Hinten links befindet sich eine kleinere echte Fotokarte, die etwa 36 %–44 % der Posterbreite einnimmt und um etwa 3–6 Grad gegen den Uhrzeigersinn gedreht ist. Das Wahrzeichen, der Betrachtungswinkel, die architektonische Struktur, die Jahreszeit, das Wetter, das Licht, die Umgebung und die Farben des Originalfotos bleiben vollständig und deutlich erhalten; lediglich eine dezente verlegerische Farbkorrektur ist zulässig. Die Fotokarte hat schmale, schlichte Papierränder und eine spürbare Papierstärke; sie darf nicht zu einem dekorativen Miniaturbild verkleinert werden.
+
+Vorne rechts befindet sich eine größere, vertikale gestochene Briefmarke, die etwa 58 %–68 % der Posterbreite einnimmt, um etwa 2–4 Grad im Uhrzeigersinn gedreht ist und die Fotokarte natürlich teilweise überdeckt. Die Briefmarke besteht aus schwerem, warmweißem Antikpapier; alle vier Außenkanten müssen exakt identische halbkreisförmige Stanzperforationen mit einheitlichem Lochdurchmesser, Abstand, Tiefe und Form aufweisen, wobei das gleiche Muster auch an allen vier Ecken beibehalten wird. Zeige Papierkanten, Fasern und natürliche Kontaktschatten, ohne verzierte Rahmen.
+
+Das Innere der Briefmarke rekonstruiert das Wahrzeichen ausschließlich auf Basis desselben Fotos; füge kein Fotoduplikat ein. Behalte den ursprünglichen Betrachtungswinkel, die Hauptstruktur, die Ausrichtung, die Proportionen, das Wetter und die Jahreszeit des Wahrzeichens bei und zeige nur das Wahrzeichen sowie 1–2 wesentliche Umgebungselemente wie Baumgrenze, Wasserfläche, Berge, Felsrahmungen, Straßen oder benachbarte Gebäude.
+
+Verwende die Bildsprache eines monochromen oder dezent zweifarbigen Kupferstichs: dunkelblau-schwarze oder kohleschwarze Haupttinte, wobei eine extrem kleine Sonderfarbfläche aus dem Originalbild extrahiert werden darf. Gestalte Ebenen durch feine Kreuzschraffuren, parallele Linien, Punktierungen, unterschiedliche Liniendichten, Patina unvollständiger Tintenabdrücke und papierweiße Lichter. Es muss wie ein echter Tiefdruck wirken – keine Bleistiftskizze, kein Holzschnitt, kein Aquarell, kein digitaler Filter und keine glatte Vektorgrafik.
+
+Im unteren Bereich der Briefmarke befindet sich ein ruhiges Beschriftungsfeld, das ausschließlich folgendes enthält:
+"[Echter englischer Ortsname]"
+"LANDMARK PLATE [Nummer]"
+"[Eine Zeile mit 5–9 englischen Wörtern einer echten Beobachtung]"
+
+Der Titel ist in einer Antiqua-Serifenschrift mit weitem Zeichenabstand gesetzt; die Beschriftungsfelder und der Beobachtungssatz sind kleiner, aber deutlich lesbar, wie mit Tinte in das Papier geprägt. Füge keine fiktiven Nennwerte, staatlichen Ausgabevermerke, Poststempel, Wappen, Autorennamen, Fotografennamen, Logos, URLs oder sonstige Texte hinzu.
+
+Das Gesamtbild wirkt wie ein Reiseexemplar aus dem Kupferstichkabinett eines Museums: zurückhaltende Komposition, klare Größenverhältnisse, reichlich Weißraum auf dem Papier und eine deutliche Gegenüberstellung von echtem Foto und gravierter Erinnerung.
+
+Vermeide: Vertikales Diptychon (oben/unten), gleich große Anordnung nebeneinander, Fotowiederholungen, direkt in die Briefmarke eingedruckte Fotos, mehrere Briefmarken, zusätzliche Karten, unregelmäßige Zähnung, ungleiche Zähnung an verschiedenen Kanten, dekorative Ornamentrahmen, falsche Nennwerte, gefälschte Poststempel, fiktive Wahrzeichen, veränderte Betrachtungswinkel, handgehaltene Mockups, Schreibtisch-Unordnung, Bilderrahmen, Autorensignaturen, Marken, Logos, Wasserzeichen und wirre Zeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
