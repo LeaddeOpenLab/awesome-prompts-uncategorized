@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**76** Prompts · Latest addition: **2026-09-11**
+**77** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1717,6 +1717,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098469621892587716"></a>
+
+### Prompt for a portrait of a lazy and charmingly seductive woman leaning by the window with chin resting in hand and thin blouse slipping down.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098469621892587716)
+
+Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Prompt for a portrait of a lazy and charmingly seductive woman leaning by the window with chin resting in hand and thin blouse slipping down.
+
+<img src="images/2098469621892587716-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+low-cut thin blouse; large expanse of skin on the chest; sheer robe slipping down; leaning against the window with chin resting in hand; subtly raised eyebrows and flirtatious gaze; corners of the lips curved in a smile; lazy and charmingly seductive
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098476919939342835"></a>
 
