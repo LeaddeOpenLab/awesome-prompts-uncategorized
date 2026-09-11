@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**74** Prompts · Dernier ajout: **2026-09-11**
+**75** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -529,20 +529,47 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2098392252137820636"></a>
 
-### Traduction en cours
+### Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 Auteur：[@recehtuitt](https://x.com/recehtuitt) · [Publication originale](https://x.com/recehtuitt/status/2098392252137820636)
 
 Image cinématographique / Photogramme de film · Personnage · Texte / Typographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 <img src="covers/2098392252137820636.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+[10s | 16:9 | 24fps | un plan cinématographique continu]  
+
+RÉFÉRENCE : 
+@image1 = MASTER DE REIKA. Préserver l'apparence reconnaissable, les proportions, les longs cheveux foncés, le t-shirt blanc oversize, le short cargo foncé, les sandales, le collier et la garde-robe. Reika possède une vitesse extrême, des réflexes fulgurants et un contrôle physique sans effort. Elle peut retirer une tong et la conserver en main comme un accessoire. 
+@image2 = MASTER DE VORN. Préserver l'apparence reconnaissable, l'échelle humanoïde normale, les cornes, les longs cheveux blancs, la queue osseuse, l'armure d'os superposée et les vêtements pâles en lambeaux. Vorn utilise trois tentacules d'aura d'apparence osseuse avec une pression offensive à vitesse extrême.  
+
+STYLE : Fantaisie live-action IMAX photoréaliste haut de gamme, ARRI ALEXA 65 / RED V-RAPTOR XL, 35mm anamorphique, Kodak Vision3 500T. Ombres profondes cyan-sarcelle, reflets ambrés-orangés contenus, contraste nocturne sombre, surfaces humides et réfléchissantes, matières tactiles, poids réaliste, flou de mouvement naturel et grain cinématographique subtil. L'énergie caractéristique de Reika est un argent métallique sombre entrelacé d'un feu noir-cramoisi maîtrisé.  
+
+ENVIRONNEMENT : Rue du centre-ville détrempée par la pluie la nuit, asphalte mouillé, voitures garées, vitrines en verre, lampadaires et foule en panique. La chaussée se fracture progressivement et se remplit d'eau, de bris de verre et de débris de véhicules à mesure que les attaques de Vorn manquent leur cible.  
+
+CHRONOLOGIE DE L'ACTION :  
+[00:00–00:02.5] TEMPO 1 — ÉVASION SANS EFFORT Reika retire calmement une tong et la tient sans serrer d'une main, laissant ce pied nu. Vorn projette instantanément trois tentacules d'aura semblables à des os vers le torse, la tête et les jambes de Reika depuis des angles convergents. Reika ne contre-attaque jamais ; elle pivote simplement, se penche et se glisse entre eux avec de minuscules mouvements précis, chaque frappe la manquant de quelques centimètres pour venir fracasser la rue détrempée derrière elle. DÉMARRER derrière l'épaule de Reika, en suivant les tentacules vers sa position exacte, puis orbiter étroitement selon son rythme d'esquive tandis que l'eau et l'asphalte jaillissent derrière chaque coup manqué. 
+
+ACCENT : Ralenti de 0,2s sur un tentacule passant à quelques centimètres du visage de Reika, puis retour brusque à la vitesse extrême. ARRÊTER avec Reika toujours impassible alors que Vorn enchaîne immédiatement le barrage suivant.  
+
+[00:02.5–00:05.0] TEMPO 2 — ÉCART DE VITESSE CROISSANT Vorn déchaîne à nouveau ses trois tentacules, plus rapidement et depuis des angles en perpétuel changement, chacun ciblant la position physique réelle de Reika. Reika refuse toujours d'attaquer, glissant sous l'un, esquivant un autre d'un pas et pivotant à travers la frappe finale sans presque aucun geste superflu. Les attaques manquées déchirent voitures, verre et asphalte, créant un dense nuage de débris directement derrière elle. DÉMARRER par un travelling latéral accompagnant Reika, accélérant à mesure que les tentacules se resserrent autour d'elle, puis faire un panoramique filé à travers la collision finale pendant que les débris envahissent le cadre. Reika tire profit de l'obscurcissement pour effectuer un déplacement à vitesse divine (God Speed) sur une courte distance, laissant une épaisse traînée de fumée noire à travers les débris, et apparaît sereinement aux côtés de Vorn avant qu'il ne puisse réagir. ARRÊTER sur Vorn pivotant brusquement vers elle.  
+
+[00:05–00:07.5] TEMPO 3 — FEU CRAMOISI-ARGENTÉ Vorn attaque immédiatement à nouveau à bout portant. Reika reste immobile et se contente de lever la tong qu'elle a retirée. Une énergie d'un argent métallique sombre s'enroule autour d'elle tandis qu'un feu noir-cramoisi traverse le cœur argenté, s'intensifiant rapidement autour de sa main. La pluie et les débris se figent brièvement tandis que la lumière ambiante plonge dans une ombre profonde cyan-noire. Reika dit à voix basse : "Baka." Le japonais 「バカ」 se matérialise à ses côtés sous la forme d'une énergie dimensionnelle argent-noir bordée de feu cramoisi, occupant physiquement l'espace atmosphérique plutôt que d'agir comme un simple texte incrusté. DÉMARRER par un travelling avant maîtrisé vers l'attaque imminente, incurver autour de Reika à mesure que l'énergie se manifeste, puis poursuivre directement dans l'élan de son geste. 
+
+ACCENT : Ralenti de 0,2s tandis que l'énergie argent-noir se comprime autour de la tong. La tong accélère immédiatement en direction du visage de Vorn.  
+
+[00:07.5–00:10.0] TEMPO 4 — CONCLUSION EN UN SEUL COUP La tong frappe Vorn de plein fouet au visage. L'énergie argent-noir se comprime au point d'impact tandis que le feu noir-cramoisi éclate vers l'extérieur. L'impact localisé engendre une onde de choc violente qui disperse pluie, verre, poussière et fragments de véhicules à travers la rue. Vorn vacille sous l'unique coup, puis se désintègre rapidement en une poussière noire en expansion. DÉMARRER à partir de l'élan de la frappe, plonger vers le point de contact exact, puis reculer avec l'onde de choc pendant que les débris se dispersent au loin. Utiliser un micro-ralenti uniquement pour le premier instant du contact, puis restaurer la pleine vitesse. TERMINER avec Reika fermement campée sur ses appuis, un pied nu et l'autre tong toujours portée, tandis que l'énergie argent-noir et le feu cramoisi s'estompent.  
+
+CONTINUITÉ : Reika reste intacte tout au long des Tempos 1 et 2 et ne contre-attaque jamais avant la frappe finale. Vorn maintient une offensive continue. La tong retirée reste dans la main de Reika jusqu'à l'impact final ; ce pied reste nu du début à la fin. Chaque tentacule manqué endommage progressivement l'environnement et motive les mouvements de caméra. Le déplacement dans les débris au Tempo 2 amène Reika aux côtés de Vorn, installant directement le Tempo 3. L'onde de choc finale trouve son origine au point de contact exact avec le visage.  
+
+EXCLUSIONS CIBLÉES : Les trois tentacules convergent toujours vers la position réelle du corps de Reika ; leurs échecs détruisent le décor derrière elle au lieu d'être déviés au hasard. Le pied nu de Reika reste nu et la tong retirée n'y retourne jamais. Le 「バカ」 reste une typographie énergétique dimensionnelle intégrée à la scène, et non une surimpression plate. L'énergie argent-noir reste entrelacée de feu noir-cramoisi au lieu de devenir une flamme ordinaire. La caméra suit un mouvement continu sans réinitialisation ni coupe franche ; chaque personnage demeure une présence continue unique.  
+
+AUDIO : Pluie battante, déplacement d'air des tentacules, impacts sur l'asphalte, bris de verre, tôles froissées et panique de la foule. L'ambiance sonore se compresse brièvement pendant que Reika concentre son énergie. Son murmure "Baka" demeure parfaitement audible. Le contact final produit un impact lourd, une onde de choc expansive et une pluie de débris en cascade. Aucune musique de fond.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1494,6 +1521,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098418180674773370"></a>
+
+### Traduction en cours
+
+Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2098418180674773370)
+
+Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098418180674773370.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098393816650879459"></a>
 

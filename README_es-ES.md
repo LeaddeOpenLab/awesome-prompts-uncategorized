@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**74** Prompts · Última incorporación: **2026-09-11**
+**75** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -541,20 +541,44 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2098392252137820636"></a>
 
-### Traducción en curso
+### Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 Autor：[@recehtuitt](https://x.com/recehtuitt) · [Publicación original](https://x.com/recehtuitt/status/2098392252137820636)
 
 Cine / Fotograma de película · Personaje · Texto / Tipografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 <img src="covers/2098392252137820636.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+[10s | 16:9 | 24fps | una toma cinematográfica continua]  
+
+REFERENCIA: 
+@image1 = REIKA MASTER. Conservar apariencia reconocible, proporciones, cabello largo y oscuro, camiseta blanca oversize, pantalones cortos cargo oscuros, sandalias, collar y vestuario. Reika posee una velocidad extrema, reflejos y un control físico sin esfuerzo. Puede quitarse una chancla y conservarla como accesorio en la mano. 
+@image2 = VORN MASTER. Conservar apariencia reconocible, escala humanoide normal, cuernos, cabello largo y blanco, cola de hueso, armadura ósea en capas y prendas pálidas y andrajosas. Vorn utiliza tres tentáculos de aura similares a huesos con una presión ofensiva de velocidad extrema.  
+
+ESTILO: Fantasía fotorrealista de acción real prémium estilo IMAX, ARRI ALEXA 65 / RED V-RAPTOR XL, anamórfico de 35 mm, Kodak Vision3 500T. Sombras profundas en tono cian-azulado, reflejos contenidos en naranja-ámbar, contraste nocturno oscuro, superficies húmedas y reflectantes, materiales táctiles, peso realista, desenfoque de movimiento natural y grano de película sutil. La energía característica de Reika es de un plateado metálico oscuro entrelazado con fuego carmesí-negro controlado. ENTORNO: Calle céntrica empapada por la lluvia de noche, asfalto mojado, coches aparcados, escaparates de cristal, farolas y multitudes en pánico. La calle se fractura progresivamente y se llena de agua, cristales y restos de vehículos a medida que los ataques de Vorn fallan.  
+
+CRONOLOGÍA DE LA ACCIÓN:  [00:00–00:02.5] COMPÁS 1 — EVASIÓN SIN ESFUERZO Reika se quita con calma una chancla y la sostiene holgadamente con una mano, dejando ese pie descalzo. Vorn dispara instantáneamente tres tentáculos de aura óseos hacia el torso, la cabeza y las piernas de Reika desde ángulos convergentes. Reika nunca contraataca; simplemente pivota, se inclina y se desliza entre ellos con movimientos diminutos y precisos, fallando cada golpe por centímetros e impactando contra la calle mojada detrás de ella. COMENZAR detrás del hombro de Reika, siguiendo los tentáculos hacia su posición exacta, luego orbitar de cerca con su ritmo evasivo mientras el agua y el asfalto estallan detrás de cada fallo. 
+
+ACENTO: Cámara lenta de 0.2 s en un tentáculo que pasa a centímetros de la cara de Reika, luego volver bruscamente a la velocidad extrema. DETENER con Reika aún imperturbable mientras Vorn encadena inmediatamente la siguiente andanada.  
+
+[00:02.5–00:05.0] COMPÁS 2 — DIFERENCIA DE VELOCIDAD EN AUMENTO Vorn desata los tres tentáculos nuevamente, más rápido y desde ángulos que cambian constantemente, cada uno apuntando a la posición real del cuerpo de Reika. Reika aún se niega a atacar, deslizándose debajo de uno, esquivando otro con un paso y girando a través del golpe final casi sin movimientos desperdiciados. Los ataques fallidos atraviesan coches, cristales y asfalto, acumulando una densa nube de escombros directamente detrás de ella. COMENZAR con un seguimiento lateral con Reika, acelerando a medida que los tentáculos se cierran a su alrededor, luego hacer un barrido a través de la colisión final mientras los escombros llenan el encuadre. Reika aprovecha la ocultación para desplazarse a velocidad divina (God Speed) una distancia corta, dejando un rastro denso de humo negro a través de los escombros, y llega con calma al lado de Vorn antes de que este pueda reaccionar. DETENER en Vorn girándose bruscamente hacia ella.
+
+[00:05–00:07.5] COMPÁS 3 — FUEGO CARMESÍ-PLATEADO Vorn ataca inmediatamente de nuevo a corta distancia. Reika permanece plantada y simplemente levanta la chancla que se había quitado. Una energía plateada metálica oscura se enrosca a su alrededor mientras un fuego carmesí-negro se entrelaza a través del núcleo plateado, intensificándose rápidamente alrededor de su mano. La lluvia y los escombros quedan brevemente suspendidos mientras la luz circundante cae en una sombra profunda de color cian-negro. Reika dice en voz baja: "Baka". El texto en japonés 「バカ」 se forma a su lado a partir de una energía dimensional plateada-negra bordeada de fuego carmesí, ocupando físicamente la atmósfera en lugar de comportarse como texto en pantalla. COMENZAR con un empuje controlado hacia el ataque entrante, curvar alrededor de Reika a medida que la energía se manifiesta, luego continuar directamente hacia su golpe. 
+
+ACENTO: Cámara lenta de 0.2 s mientras la energía plateada-negra se comprime alrededor de la chancla. La chancla acelera inmediatamente hacia la cara de Vorn.  
+
+[00:07.5–00:10.0] COMPÁS 4 — REMATE DE UN SOLO GOLPE La chancla golpea a Vorn directamente en la cara. La energía plateada-negra se comprime en el punto de contacto mientras el fuego carmesí-negro estalla hacia afuera. El impacto localizado genera una violenta onda de choque que dispersa lluvia, cristales, polvo y restos de vehículos por toda la calle. Vorn retrocede por el impacto único y luego se desintegra rápidamente en un polvo negro que se expande. COMENZAR desde el impulso del balanceo, empujar hacia el punto exacto de contacto, luego retroceder con la onda de choque a medida que los escombros se expanden hacia afuera. Usar micro cámara lenta solo para el primer instante de contacto, luego restaurar el movimiento a toda velocidad. TERMINAR con Reika firmemente plantada, con un pie descalzo y la chancla restante aún puesta, mientras la energía plateada-negra y el fuego carmesí se desvanecen.  
+
+CONTINUIDAD: Reika permanece intocada durante los compases 1–2 y nunca contraataca hasta el golpe final. Vorn se mantiene continuamente a la ofensiva. La chancla retirada permanece en la mano de Reika hasta el impacto final; ese pie permanece descalzo en todo momento. Cada tentáculo fallido daña progresivamente el entorno y motiva las transiciones de cámara. El desplazamiento entre escombros del compás 2 sitúa a Reika junto a Vorn, estableciendo directamente el compás 3. La onda de choque final se origina en el punto exacto de contacto con la cara.  
+
+EXCLUSIONES ESPECÍFICAS: Los tres tentáculos siempre convergen en la posición real del cuerpo de Reika; sus fallos destruyen el entorno detrás de ella en lugar de redirigirse al azar. El pie descalzo de Reika permanece descalzo y la chancla retirada nunca vuelve a él. El 「バカ」 sigue siendo una tipografía de energía dimensional dentro de la escena, no una superposición plana. La energía plateada-negra se mantiene entrelazada con el fuego carmesí-negro en lugar de convertirse en una llama ordinaria. La cámara sigue un impulso continuo sin reinicios ni cortes bruscos; cada personaje sigue siendo una única presencia continua.  
+
+AUDIO: Lluvia intensa, desplazamiento de tentáculos, impactos en el asfalto, cristales rotos, restos de vehículos y pánico de la multitud. El sonido ambiental se comprime brevemente mientras Reika manifiesta la energía. Su "Baka" silencioso permanece claro. El contacto final produce un impacto denso, una onda de choque expansiva y escombros que caen en cascada. Sin BGM.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1518,6 +1542,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098418180674773370"></a>
+
+### Traducción en curso
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2098418180674773370)
+
+Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098418180674773370.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098393816650879459"></a>
 

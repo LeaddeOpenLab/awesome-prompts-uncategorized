@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**74** Prompt · Son eklenen: **2026-09-11**
+**75** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -529,20 +529,50 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2098392252137820636"></a>
 
-### Çeviri sürüyor
+### Boynuzlu bir iblisin dokunaçlarından sıyrılan ve 'Baka' diyerek ona enerji yüklü bir terlikle tokat atan bir kızın yer aldığı sinematik canlı çekim fantezi istemi.
 
 Yazar：[@recehtuitt](https://x.com/recehtuitt) · [Orijinal gönderi](https://x.com/recehtuitt/status/2098392252137820636)
 
 Sinematik / Film Karesi · Karakter · Metin / Tipografi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Boynuzlu bir iblisin dokunaçlarından sıyrılan ve 'Baka' diyerek ona enerji yüklü bir terlikle tokat atan bir kızın yer aldığı sinematik canlı çekim fantezi istemi.
 
 <img src="covers/2098392252137820636.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+[10sn | 16:9 | 24fps | tek kesintisiz sinematik çekim]  
+
+REFERANS: 
+@image1 = REIKA MASTER. Tanınabilir görünümü, vücut oranlarını, uzun koyu renkli saçları, bol beyaz tişörtü, koyu kargo şortu, terlikleri, kolyeyi ve giysileri koruyun. Reika aşırı hıza, reflekslere ve çaba gerektirmeyen bir fiziksel kontrole sahiptir. Terliklerinden birini ayağından çıkarıp elde taşınabilir bir nesne olarak kullanabilir. 
+@image2 = VORN MASTER. Tanınabilir görünümü, normal insansı boyutları, boynuzları, uzun beyaz saçları, kemik kuyruğu, katmanlı kemik zırhı ve yırtık soluk giysileri koruyun. Vorn, son derece hızlı ve baskıcı saldırılar için kemik benzeri üç aura dokunacı kullanır.  
+
+STİL: Birinci sınıf fotogerçekçi IMAX canlı çekim fantezi, ARRI ALEXA 65 / RED V-RAPTOR XL, 35mm anamorfik, Kodak Vision3 500T. Derin camgöbeği-petrol gölgeler, ölçülü kehribar-turuncu vurgular, karanlık gece kontrastı, ıslak yansıtıcı yüzeyler, dokunsal malzemeler, gerçekçi ağırlık, doğal hareket bulanıklığı ve hafif film greni. Reika'nın imza enerjisi, kontrollü siyah-kızıl ateşle iç içe geçmiş koyu metalik gümüştür.  
+ORTAM: Geceleri yağmurla ıslanmış şehir merkezi caddesi, ıslak asfalt, park halindeki arabalar, cam vitrinler, sokak lambaları ve panik içindeki kalabalıklar. Vorn'un saldırıları ıska geçtikçe cadde giderek parçalanır, su, cam ve araç enkazıyla dolar.  
+
+AKSIYON ZAMAN ÇİZELGESİ:  
+[00:00–00:02.5] 1. VURUŞ — ÇABA GEREKTİRMEYEN KAÇIŞ 
+Reika sakince bir terliğini ayağından çıkarır ve o ayağını çıplak bırakarak terliği tek eliyle gevşekçe tutar. Vorn, kesişen açılardan Reika'nın gövdesine, kafasına ve bacaklarına kemik benzeri üç aura dokunacını anında ateşler. Reika asla karşı saldırıya geçmez; sadece döner, eğilir ve aralarından milimetrik, kusursuz hareketlerle sıyrılır; her bir vuruş santimlerle ıskalayıp arkasındaki ıslak caddeyi parçalar. Reika'nın omzunun arkasından BAŞLAYIN, dokunaçları tam olarak onun bulunduğu konuma doğru takip edin, ardından her ıskanın ardından su ve asfalt patlarken onun kaçış ritmiyle yakın bir yörüngede dönün. 
+
+VURGU: Dokunaçlardan birinin Reika'nın yüzünün birkaç santim yakınından geçişinde 0.2 saniyelik ağır çekim, ardından hemen aşırı hıza geri dönüş. Vorn bir sonraki yaylım ateşine derhal başlarken Reika'nın hala soğukkanlı duruşuyla DURUN.  
+
+[00:02.5–00:05.0] 2. VURUŞ — TIRMANDIRILAN HIZ FARKI 
+Vorn, her biri Reika'nın asıl vücut konumunu hedefleyen üç dokunacın tamamını daha hızlı ve sürekli değişen açılardan tekrar serbest bırakır. Reika hala saldırmayı reddeder; birinin altından süzülür, diğerinin yanından geçer ve neredeyse hiç fazladan hareket yapmadan son darbenin içinden dönerek sıyrılır. Iska geçen saldırılar arabaları, camları ve asfaltı biçerek tam arkasında yoğun bir enkaz bulutu oluşturur. Reika ile yanal takiple BAŞLAYIN, dokunaçlar etrafını sardıkça hızlanın, ardından enkaz kareyi doldururken son çarpışmanın içinden savrularak geçin. Reika bu görüş engelini kullanarak Tanrısal Hızla (God Speed) kısa bir mesafe yer değiştirir, enkazın içinden yoğun bir siyah duman izi bırakır ve Vorn tepki veremeden sakince onun yanında belirir. Vorn'un aniden ona doğru dönmesiyle DURUN.  
+
+[00:05–00:07.5] 3. VURUŞ — KIZIL-GÜMÜŞ ATEŞ 
+Vorn yakın mesafeden derhal yeniden saldırır. Reika yere sağlam basmaya devam eder ve çıkardığı terliği sadece havaya kaldırır. Siyah-kızıl ateş gümüş çekirdeğin içinden geçerken koyu metalik-gümüş enerji terliğin etrafına dolanır ve elinin etrafında hızla yoğunlaşır. Çevreleyen ışık derin camgöbeği-siyah gölgeye bürünürken yağmur ve enkaz kısa bir süreliğine havada asılı kalır. Reika sessizce "Baka" der. Japonca 「バカ」 ifadesi, ekranda beliren sıradan bir yazı gibi olmak yerine, atmosferi fiziksel olarak kaplayacak şekilde kızıl ateşle çevrelenmiş boyutsal gümüş-siyah enerjiden onun yanında somutlaşır. Gelen saldırıya doğru kontrollü bir itmeyle BAŞLAYIN, enerji ortaya çıkarken Reika'nın etrafında kavis çizin, ardından doğrudan onun savurma hareketine devam edin. 
+
+VURGU: Gümüş-siyah enerji terliğin etrafında sıkışırken 0.2 saniyelik ağır çekim. Terlik anında Vorn'un yüzüne doğru ivmelenir.  
+
+[00:07.5–00:10.0] 4. VURUŞ — TEK VURUŞTA BİTİRİŞ 
+Terlik doğrudan Vorn'un yüzüne çarpar. Temas noktasında gümüş-siyah enerji sıkışırken siyah-kızıl ateş dışarı doğru patlar. Lokalize darbe, cadde boyunca yağmuru, camı, tozu ve araç kalıntılarını dağıtan şiddetli bir şok dalgası oluşturur. Vorn bu tek darbeyle geriye doğru savrulur, ardından genişleyen siyah bir toza dönüşerek hızla dağılır. Savurmanın ivmesinden BAŞLAYIN, tam temas noktasına doğru yaklaşın, ardından enkaz dışarı doğru saçılırken şok dalgasıyla birlikte geri çekilin. Mikro ağır çekimi yalnızca temasın ilk anı için uygulayın, ardından tam hızlı harekete geri dönün. Gümüş-siyah enerji ve kızıl ateş sönerken, Reika'nın yere sağlam bastığı, bir ayağının çıplak olduğu ve diğer terliğinin hala ayağında takılı olduğu kare ile BİTİRİN.  
+
+DEVAMLILIK: Reika 1. ve 2. Vuruş boyunca hiç darbe almaz ve son vuruşa kadar asla karşı saldırıya geçmez. Vorn sürekli saldırı pozisyonunda kalır. Çıkarılan terlik, son temasa kadar Reika'nın elinde kalır; o ayak çekim boyunca çıplak kalır. Iska geçen her dokunaç ortamda giderek daha fazla tahribata yol açar ve kamera geçişlerini tetikler. 2. Vuruş'taki enkaz içi yer değiştirme Reika'yı Vorn'un yanına yerleştirerek doğrudan 3. Vuruş'u hazırlar. Son şok dalgası, yüzdeki tam temas noktasından yayılır.  
+
+HEDEFLENEN HARİÇ TUTMALAR: Üç dokunaç her zaman Reika'nın gerçek beden konumuna yönelir; ıska geçtiklerinde rastgele yön değiştirmek yerine Reika'nın arkasındaki ortamı yok eder. Reika'nın çıplak ayağı çıplak kalır ve çıkarılan terlik asla tekrar ayağa giyilmez. 「バカ」 ifadesi ekranda düz bir grafik olarak değil, sahne içinde boyutsal enerjiden bir tipografi olarak kalır. Gümüş-siyah enerji sıradan bir aleve dönüşmeyip siyah-kızıl ateşle iç içe kalır. Kamera, sıfırlanma veya sert kesme (hard cut) olmadan kesintisiz bir ivmeyi takip eder; her karakter tek bir kesintisiz varlık olarak varlığını sürdürür.  
+
+SES: Şiddetli yağmur, dokunaçların hava yarması, asfalt darbeleri, kırılan camlar, araç enkazları ve kalabalığın paniği. Reika enerjiyi ortaya çıkarırken çevresel sesler kısa bir süreliğine baskılanır. Sessizce söylediği "Baka" sözü netliğini korur. Son temas; yoğun bir darbe sesi, genişleyen bir şok dalgası ve art arda dökülen enkaz sesleri üretir. Arka plan müziği (BGM) yoktur.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1494,6 +1524,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098418180674773370"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2098418180674773370)
+
+Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098418180674773370.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098393816650879459"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**74** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**75** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -529,20 +529,47 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2098392252137820636"></a>
 
-### Übersetzung läuft
+### Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 Autor：[@recehtuitt](https://x.com/recehtuitt) · [Originalbeitrag](https://x.com/recehtuitt/status/2098392252137820636)
 
 Kinematisch / Filmstill · Charakter · Text / Typografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 <img src="covers/2098392252137820636.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+[10s | 16:9 | 24fps | eine kontinuierliche filmische Einstellung]  
+
+REFERENZ: 
+@image1 = REIKA MASTER. Wiedererkennbares Aussehen, Proportionen, langes dunkles Haar, übergroßes weißes T-Shirt, dunkle Cargo-Shorts, Sandalen, Halskette und Garderobe beibehalten. Reika besitzt extreme Schnelligkeit, Reflexe und mühelose körperliche Kontrolle. Sie kann einen Flip-Flop ausziehen und ihn als Requisite in der Hand behalten. 
+@image2 = VORN MASTER. Wiedererkennbares Aussehen, normale humanoide Statur, Hörner, langes weißes Haar, Knochenschwanz, geschichtete Knochenrüstung und zerlumpte blasse Kleidung beibehalten. Vorn nutzt drei knochenartige Aura-Tentakel mit offensivem Druck bei extremer Geschwindigkeit.  
+
+STIL: Erstklassige fotorealistische IMAX-Live-Action-Fantasy, ARRI ALEXA 65 / RED V-RAPTOR XL, 35mm anamorphotisch, Kodak Vision3 500T. Tiefe cyan-türkise Schatten, zurückhaltende bernstein-orangefarbene Lichter, dunkler nächtlicher Kontrast, nasse reflektierende Oberflächen, fühlbare Materialien, realistisches Gewicht, natürliche Bewegungsunschärfe und feines Filmkorn. Reikas charakteristische Energie ist dunkles metallisches Silber, durchflochten mit kontrolliertem schwarz-karminrotem Feuer.  
+
+UMGEBUNG: Regennasse Straße in der Innenstadt bei Nacht, nasser Asphalt, geparkte Autos, Schaufenster, Straßenlaternen und panische Menschenmassen. Die Straße bricht zunehmend auf und füllt sich mit Wasser, Glas und Fahrzeugtrümmern, während Vorns Angriffe ihr Ziel verfehlen.  
+
+AKTIONS-ZEITLEISTE:  
+[00:00–00:02.5] BEAT 1 — MÜHELOSE EVASION Reika zieht gelassen einen Flip-Flop aus und hält ihn locker in einer Hand, sodass dieser Fuß barfuß bleibt. Vorn feuert sofort drei knochenartige Aura-Tentakel aus konvergierenden Winkeln auf Reikas Torso, Kopf und Beine. Reika greift zu keinem Zeitpunkt an; sie dreht sich einfach ab, beugt sich und gleitet mit winzigen, präzisen Bewegungen zwischen ihnen hindurch, wobei jeder Angriff sie nur um Zentimeter verfehlt und den nassen Asphalt hinter ihr zerschmettert. START hinter Reikas Schulter, die Tentakel auf ihre exakte Position verfolgend, dann enge Kreisbewegung mit ihrem Ausweichrhythmus, während Wasser und Asphalt hinter jedem Fehlschlag aufspritzen. 
+
+AKZENT: 0,2s Zeitlupe, während ein Tentakel Zentimeter an Reikas Gesicht vorbeizieht, dann schlagartiger Übergang zurück zu extremer Geschwindigkeit. STOPP mit Reika, die weiterhin gefasst bleibt, während Vorn unverzüglich die nächste Salve kettet.  
+
+[00:02.5–00:05.0] BEAT 2 — ESKALATION DES GESCHWINDIGKEITSUNTERSCHIEDS Vorn entfesselt alle drei Tentakel erneut, schneller und aus ständig wechselnden Winkeln, wobei jeder auf Reikas tatsächliche Körperposition zielt. Reika verweigert weiterhin jeglichen Gegenangriff, gleitet unter einem hindurch, tritt an einem anderen vorbei und dreht sich durch den letzten Schlag mit so gut wie keiner vergeudeten Bewegung. Die fehlgegangenen Angriffe zerreißen Autos, Glas und Asphalt und bilden direkt hinter ihr eine dichte Trümmerwolke. START mit seitlicher Verfolgung von Reika, Beschleunigung, während sich die Tentakel um sie schließen, dann ein Schwenk durch die letzte Kollision, während die Trümmer das Bild füllen. Reika nutzt die Sichtbehinderung für eine God Speed-Positionsverlagerung über eine kurze Distanz, hinterlässt eine dichte schwarze Rauchspur durch die Trümmer und trifft gelassen neben Vorn ein, bevor dieser reagieren kann. STOPP auf Vorn, der sich scharf zu ihr umdreht.  
+
+[00:05–00:07.5] BEAT 3 — KARMINROT-SILBERNES FEUER Vorn greift sofort wieder aus nächster Nähe an. Reika bleibt standfest stehen und hebt schlicht den ausgezogenen Flip-Flop. Dunkle metallisch-silberne Energie windet sich um ihn, während schwarz-karminrotes Feuer den silbernen Kern durchzieht und sich um ihre Hand rasch intensiviert. Regen und Trümmer verharren kurz in der Luft, während das Umgebungslicht in tiefen cyan-schwarzen Schatten versinkt. Reika sagt leise: "Baka." Das japanische 「バカ」 bildet sich neben ihr aus dimensionaler silberschwarzer Energie, gesäumt von karminrotem Feuer, und nimmt physisch den Raum in der Atmosphäre ein, anstatt wie Bildtext zu wirken. START mit einer kontrollierten Vorwärtsbewegung auf den herannahenden Angriff zu, Krümmung um Reika herum, während sich die Energie manifestiert, dann direkt weiter in ihren Schwung. 
+
+AKZENT: 0,2s Zeitlupe, während sich die silberschwarze Energie um den Flip-Flop komprimiert. Der Flip-Flop beschleunigt sofort auf Vorns Gesicht zu.  
+
+[00:07.5–00:10.0] BEAT 4 — FINISH MIT EINEM EINZIGEN TREFFER Der Flip-Flop trifft Vorn direkt ins Gesicht. Silberschwarze Energie komprimiert sich am Kontaktpunkt, während schwarz-karminrotes Feuer nach außen bricht. Der lokalisierte Einschlag erzeugt eine heftige Schockwelle, die Regen, Glas, Staub und Fahrzeugtrümmer über die Straße schleudert. Vorn taumelt von dem einzelnen Schlag zurück und löst sich dann rasch in expandierenden schwarzen Staub auf. START aus dem Schwungmoment, Heranfahren an den exakten Kontaktpunkt, dann Zurückweichen mit der Schockwelle, während sich die Trümmer nach außen ausbreiten. Mikro-Zeitlupe nur für den allerersten Moment des Kontakts verwenden, dann die volle Geschwindigkeit wiederherstellen. ENDE mit Reika fest auf den Beinen stehend, ein Fuß barfuß und der verbleibende Flip-Flop noch getragen, während die silberschwarze Energie und das karminrote Feuer verblassen.  
+
+KONTINUITÄT: Reika bleibt während der Beats 1–2 unberührt und geht erst mit dem finalen Schlag in die Offensive. Vorn bleibt durchgehend im Angriff. Der ausgezogene Flip-Flop verbleibt bis zum finalen Aufprall in Reikas Hand; dieser Fuß bleibt durchgehend barfuß. Jeder verfehlte Tentakel beschädigt die Umgebung schrittweise und motiviert die Kameraübergänge. Die Trümmerverlagerung in Beat 2 platziert Reika neben Vorn und bereitet Beat 3 unmittelbar vor. Die finale Schockwelle geht vom exakten Gesichtskontaktpunkt aus.  
+
+GEZIELTE AUSSCHLÜSSE: Die drei Tentakel konvergieren stets auf Reikas tatsächliche Körperposition; ihre Fehlschläge zerstören die Umgebung hinter ihr, statt zufällig abgelenkt zu werden. Reikas nackter Fuß bleibt nackt und der ausgezogene Flip-Flop kehrt niemals an ihn zurück. Das 「バカ」 bleibt eine dreidimensionale Energie-Typografie innerhalb der Szene, keine flache Einblendung. Silberschwarze Energie bleibt mit schwarz-karminrotem Feuer durchflochten, anstatt zu gewöhnlichem Feuer zu werden. Die Kamera folgt einem kontinuierlichen Schwung ohne Rücksetzung oder harten Schnitt; jede Figur bleibt eine einzige fortlaufende Präsenz.  
+
+AUDIO: Starker Regen, Tentakelverdrängung, Asphalteinschläge, splitterndes Glas, Fahrzeugtrümmer und Massenpanik. Umgebungsgeräusche komprimieren sich kurz, als Reika die Energie manifestiert. Ihr leises "Baka" bleibt deutlich hörbar. Der finale Kontakt erzeugt einen dichten Einschlag, eine expandierende Schockwelle und herabstürzende Trümmer. Keine Hintergrundmusik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1494,6 +1521,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098418180674773370"></a>
+
+### Übersetzung läuft
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2098418180674773370)
+
+Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098418180674773370.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098393816650879459"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**74** Prompt · Ultima aggiunta: **2026-09-11**
+**75** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -529,20 +529,47 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2098392252137820636"></a>
 
-### Traduzione in corso
+### Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 Autore：[@recehtuitt](https://x.com/recehtuitt) · [Post originale](https://x.com/recehtuitt/status/2098392252137820636)
 
 Fermo immagine cinematografico / Still fotografico · Personaggio · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 <img src="covers/2098392252137820636.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+[10s | 16:9 | 24fps | una ripresa cinematografica continua]  
+
+RIFERIMENTO: 
+@image1 = MASTER DI REIKA. Preservare l'aspetto riconoscibile, le proporzioni, i lunghi capelli scuri, la maglietta bianca oversize, i pantaloncini cargo scuri, i sandali, la collana e il guardaroba. Reika possiede velocità estrema, riflessi pronti e un controllo fisico disinvolto. Può sfilarsi un'infradito e tenerla come oggetto di scena in mano. 
+@image2 = MASTER DI VORN. Preservare l'aspetto riconoscibile, la normale scala umanoide, le corna, i lunghi capelli bianchi, la coda ossea, l'armatura d'ossa stratificata e gli abiti pallidi e logori. Vorn impiega tre tentacoli d'aura simili a ossa con una pressione offensiva a velocità estrema.  
+
+STILE: Fantasy live-action IMAX fotorealistico di alta qualità, ARRI ALEXA 65 / RED V-RAPTOR XL, 35mm anamorfico, Kodak Vision3 500T. Ombre profonde ciano-ottanio, riflessi ambra-arancio contenuti, contrasto notturno scuro, superfici bagnate e riflettenti, materiali tattili, peso realistico, sfocatura di movimento naturale e sottile grana della pellicola. L'energia distintiva di Reika è un argento metallico scuro intrecciato con fuoco controllato nero-cremisi.  
+
+AMBIENTAZIONE: Strada del centro bagnata dalla pioggia di notte, asfalto umido, auto parcheggiate, vetrine di negozi, lampioni e folla in preda al panico. La strada si frattura progressivamente e si riempie d'acqua, vetri e detriti di veicoli a mano a mano che gli attacchi di Vorn vanno a vuoto.  
+
+TIMELINE DELL'AZIONE:  
+[00:00–00:02.5] BEAT 1 — EVASIONE DISINVOLTA Reika si toglie con calma un'infradito e la tiene senza stringere in una mano, lasciando quel piede scalzo. Vorn scaglia all'istante tre tentacoli d'aura simili a ossa contro il torso, la testa e le gambe di Reika da angolazioni convergenti. Reika non contrattacca mai; semplicemente fa perno, si china e scivola tra di essi con piccolissimi movimenti precisi, con ogni colpo che la manca di pochi centimetri e distrugge la strada bagnata alle sue spalle. INIZIARE dietro la spalla di Reika, seguendo i tentacoli verso la sua posizione esatta, quindi orbitare strettamente con il suo ritmo evasivo mentre acqua e asfalto eruttano dietro ogni colpo a vuoto. 
+
+ACCENTO: 0,2s di slow motion su un tentacolo che passa a pochi centimetri dal volto di Reika, per poi tornare di scatto alla velocità estrema. STOP con Reika ancora composta mentre Vorn concatena immediatamente la raffica successiva.  
+
+[00:02.5–00:05.0] BEAT 2 — DIVARIO DI VELOCITÀ CRESCENTE Vorn sferra di nuovo tutti e tre i tentacoli, più velocemente e da angolazioni in continuo mutamento, ciascuno mirato alla posizione fisica reale di Reika. Reika rifiuta ancora di attaccare, scivolando sotto l'uno, scartando l'altro e ruotando attraverso il colpo finale quasi senza sprecare alcun movimento. Gli attacchi mancati sventrano automobili, vetri e asfalto, accumulando una densa nube di macerie direttamente dietro di lei. INIZIARE con un tracking laterale su Reika, accelerando mentre i tentacoli si stringono intorno a lei, poi una panoramica a schiaffo attraverso l'impatto finale mentre i detriti riempiono l'inquadratura. Reika usa l'oscuramento per spostarsi a God Speed per una breve distanza, lasciando una densa scia di fumo nero tra le macerie, e giunge placida accanto a Vorn prima che lui possa reagire. STOP su Vorn che si volta bruscamente verso di lei.  
+
+[00:05–00:07.5] BEAT 3 — FUOCO CREMISI-ARGENTO Vorn attacca subito di nuovo a distanza ravvicinata. Reika rimane ferma sulle gambe e solleva semplicemente l'infradito rimossa. Energia d'argento metallico scuro si avvolge a spirale attorno ad essa mentre un fuoco nero-cremisi si insinua nel nucleo argenteo, intensificandosi rapidamente attorno alla sua mano. Pioggia e detriti restano brevemente sospesi mentre la luce circostante precipita in un'ombra profonda ciano-nera. Reika dice a bassa voce: "Baka." La scritta giapponese 「バカ」 si materializza accanto a lei da un'energia dimensionale argento-nera orlata di fuoco cremisi, occupando fisicamente l'atmosfera invece di comportarsi come un testo sovraimpresso sullo schermo. INIZIARE con una spinta controllata verso l'attacco in arrivo, curvare attorno a Reika mentre l'energia si manifesta, quindi proseguire direttamente nel suo fendente. 
+
+ACCENTO: 0,2s di slow motion mentre l'energia argento-nera si comprime attorno all'infradito. L'infradito accelera immediatamente verso il volto di Vorn.  
+
+[00:07.5–00:10.0] BEAT 4 — CONCLUSIONE A COLPO SINGOLO L'infradito colpisce Vorn in pieno volto. L'energia argento-nera si comprime nel punto di contatto mentre il fuoco nero-cremisi esplode verso l'esterno. L'impatto localizzato genera una violenta onda d'urto che disperde pioggia, vetri, polvere e frammenti di veicoli lungo la strada. Vorn indietreggia per il singolo colpo, per poi disintegrarsi rapidamente in polvere nera che si espande. INIZIARE dallo slancio del colpo, spingere verso l'esatto punto di contatto, quindi indietreggiare con l'onda d'urto mentre le macerie si espandono verso l'esterno. Usare un micro slow motion solo per il primo istante del contatto, poi ripristinare il movimento a piena velocità. TERMINARE con Reika saldamente piantata a terra, un piede nudo e l'altra infradito ancora indosso, mentre l'energia argento-nera e il fuoco cremisi svaniscono.  
+
+CONTINUITÀ: Reika rimane incolume attraverso i Beat 1–2 e non contrattacca mai fino al colpo finale. Vorn rimane costantemente all'offensiva. L'infradito sfilata rimane nella mano di Reika fino all'impatto finale; quel piede rimane scalzo per tutta la durata. Ogni tentacolo a vuoto danneggia progressivamente l'ambiente e motiva le transizioni della macchina da presa. Lo spostamento tra le macerie del Beat 2 posiziona Reika accanto a Vorn, impostando direttamente il Beat 3. L'onda d'urto finale ha origine dal punto esatto di contatto con il volto.  
+
+ESCLUSIONI MIRATE: I tre tentacoli convergono sempre sulla posizione fisica reale di Reika; i colpi a vuoto distruggono l'ambiente dietro di lei anziché deviare a caso. Il piede nudo di Reika rimane scalzo e l'infradito tolta non torna mai ad esso. Il 「バカ」 rimane una tipografia d'energia dimensionale integrata nella scena, non una sovrapposizione piatta. L'energia argento-nera rimane intrecciata con il fuoco nero-cremisi invece di diventare una fiamma ordinaria. La telecamera segue un impeto continuo senza ripristini né stacchi netti; ciascun personaggio rimane una presenza continua e coerente.  
+
+AUDIO: Pioggia battente, spostamento d'aria dei tentacoli, impatti sull'asfalto, vetri che si infrangono, lamiere e panico tra la folla. Il suono ambientale si comprime brevemente mentre Reika manifesta l'energia. Il suo sommesso "Baka" rimane nitido. Il contatto finale produce un impatto denso, un'onda d'urto in espansione e una cascata di macerie. Nessuna musica di sottofondo.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1494,6 +1521,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098418180674773370"></a>
+
+### Traduzione in corso
+
+Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2098418180674773370)
+
+Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098418180674773370.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098393816650879459"></a>
 

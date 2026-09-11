@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**74** Prompts · Última adição: **2026-09-11**
+**75** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -529,20 +529,50 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2098392252137820636"></a>
 
-### Tradução em andamento
+### Prompt cinematográfico de fantasia live-action de uma garota se esquivando dos tentáculos de um demônio com chifres e estapeando-o com um chinelo energizado enquanto diz 'Baka'.
 
 Autor：[@recehtuitt](https://x.com/recehtuitt) · [Publicação original](https://x.com/recehtuitt/status/2098392252137820636)
 
 Cinematográfico / Imagem de Filme · Personagem · Texto / Tipografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt cinematográfico de fantasia live-action de uma garota se esquivando dos tentáculos de um demônio com chifres e estapeando-o com um chinelo energizado enquanto diz 'Baka'.
 
 <img src="covers/2098392252137820636.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+[10s | 16:9 | 24fps | uma tomada cinematográfica contínua]  
+
+REFERÊNCIA: 
+@image1 = MESTRE REIKA. Preservar aparência reconhecível, proporções, cabelos escuros longos, camiseta branca oversized, bermuda cargo escura, sandálias, colar e figurino. Reika possui velocidade extrema, reflexos e controle físico sem esforço. Ela pode remover um chinelo de dedo e mantê-lo como um acessório de mão. 
+@image2 = MESTRE VORN. Preservar aparência reconhecível, escala humanoide normal, chifres, longos cabelos brancos, cauda de osso, armadura óssea em camadas e vestes pálidas esfarrapadas. Vorn usa três tentáculos de aura semelhantes a ossos com pressão ofensiva de extrema velocidade.  
+
+ESTILO: Fantasia live-action IMAX fotorrealista premium, ARRI ALEXA 65 / RED V-RAPTOR XL, anamórfica 35mm, Kodak Vision3 500T. Sombras profundas em ciano-petróleo, realces contidos em âmbar-laranja, contraste noturno escuro, superfícies molhadas e reflexivas, materiais táteis, peso realista, desfoque de movimento natural e granulação de filme sutil. A energia característica de Reika é prata-metálica escura entrelaçada com fogo preto-carmesim controlado.  
+AMBIENTE: Rua movimentada no centro da cidade encharcada de chuva à noite, asfalto molhado, carros estacionados, vitrines de vidro, postes de luz e multidões em pânico. A rua progressivamente se fratura e se enche de água, vidro e destroços de veículos à medida que os ataques de Vorn erram.  
+
+CRONOGRAMA DE AÇÃO:  
+[00:00–00:02.5] TEMPO 1 — EVASÃO SEM ESFORÇO 
+Reika calmamente remove um chinelo de dedo e o segura frouxamente em uma mão, deixando esse pé descalço. Vorn dispara instantaneamente três tentáculos de aura semelhantes a ossos na direção do torso, cabeça e pernas de Reika a partir de ângulos convergentes. Reika nunca contra-ataca; ela simplesmente gira, inclina-se e desliza entre eles com movimentos minúsculos e precisos, cada golpe errando por centímetros e despedaçando a rua molhada atrás dela. INICIAR atrás do ombro de Reika, rastreando os tentáculos em direção à sua posição exata, e então orbitar firmemente com seu ritmo evasivo enquanto água e asfalto explodem atrás de cada erro. 
+
+DESTAQUE: Câmera lenta de 0.2s em um tentáculo passando a centímetros do rosto de Reika, depois retornando bruscamente à velocidade extrema. PARAR com Reika ainda serena enquanto Vorn encadeia imediatamente a próxima rajada.  
+
+[00:02.5–00:05.0] TEMPO 2 — DISPARIDADE DE VELOCIDADE CRESCENTE 
+Vorn desencadeia todos os três tentáculos novamente, mais rápido e de ângulos em constante mudança, cada um visando a posição real do corpo de Reika. Reika ainda se recusa a atacar, deslizando sob um, desviando de outro e girando através do golpe final com quase nenhum movimento desperdiçado. Os ataques errados rasgam carros, vidro e asfalto, criando uma densa nuvem de detritos diretamente atrás dela. INICIAR rastreamento lateral com Reika, acelerando conforme os tentáculos se fecham ao seu redor, depois chicotear através da colisão final enquanto os detritos preenchem o quadro. Reika usa a ocultação para se deslocar em Velocidade Divina por uma curta distância, deixando um rastro denso de fumaça preta pelos escombros, e surge calmamente ao lado de Vorn antes que ele possa reagir. PARAR em Vorn virando bruscamente na direção dela.  
+
+[00:05–00:07.5] TEMPO 3 — FOGO CARMESIM-PRATEADO 
+Vorn ataca imediatamente novamente à queima-roupa. Reika permanece firme e simplesmente ergue o chinelo removido. Energia prateada-metálica escura se espirala ao redor dele enquanto fogo preto-carmesim se entrelaça pelo núcleo prateado, intensificando-se rapidamente ao redor de sua mão. A chuva e os detritos suspendem-se brevemente enquanto a luz ao redor mergulha em uma sombra profunda ciano-escura. Reika diz calmamente: "Baka." O japonês 「バカ」 se materializa ao lado dela a partir de energia dimensional prateada-preta com bordas de fogo carmesim, ocupando fisicamente a atmosfera em vez de agir como texto em tela. INICIAR com uma aproximação controlada em direção ao ataque iminente, fazer uma curva ao redor de Reika enquanto a energia se manifesta, e então continuar diretamente para o seu golpe. 
+
+DESTAQUE: Câmera lenta de 0.2s enquanto a energia prateada-preta se comprime ao redor do chinelo. O chinelo imediatamente acelera em direção ao rosto de Vorn.  
+
+[00:07.5–00:10.0] TEMPO 4 — FINALIZAÇÃO COM UM ÚNICO GOLPE 
+O chinelo atinge Vorn diretamente no rosto. A energia prateada-preta se comprime no ponto de contato enquanto o fogo preto-carmesim irrompe para fora. O impacto localizado gera uma onda de choque violenta que espalha chuva, vidro, poeira e destroços de veículos pela rua. Vorn recua com o único golpe e, em seguida, se desintegra rapidamente em poeira preta expansiva. INICIAR a partir do impulso do golpe, avançar no ponto exato de contato, depois recuar com a onda de choque à medida que os detritos se expandem para fora. Usar micro câmera lenta apenas para o primeiro instante do impacto, restaurando em seguida o movimento em velocidade total. FINALIZAR com Reika firmemente posicionada, um pé descalço e o chinelo restante ainda calçado, enquanto a energia prateada-preta e o fogo carmesim se dissipam.  
+
+CONTINUIDADE: Reika permanece intocada durante os Tempos 1–2 e nunca contra-ataca até o golpe final. Vorn permanece continuamente na ofensiva. O chinelo removido permanece na mão de Reika até o impacto final; esse pé continua descalço durante todo o tempo. Cada tentáculo que erra danifica progressivamente o cenário e motiva as transições de câmera. O deslocamento pelos escombros no Tempo 2 coloca Reika ao lado de Vorn, estabelecendo diretamente o Tempo 3. A onda de choque final se origina exatamente do ponto de contato no rosto.  
+
+EXCLUSÕES DIRECIONADAS: Os três tentáculos sempre convergem para a posição corporal real de Reika; seus erros destroem o ambiente atrás dela em vez de redirecionarem aleatoriamente. O pé descalço de Reika permanece descalço e o chinelo removido nunca volta a calçá-lo. O 「バカ」 permanece como uma tipografia de energia dimensional dentro da cena, não como uma sobreposição plana. A energia prateada-preta permanece entrelaçada com fogo preto-carmesim em vez de se tornar uma chama comum. A câmera segue um ímpeto contínuo sem reinício ou cortes bruscos; cada personagem permanece como uma presença contínua única.  
+
+ÁUDIO: Chuva pesada, deslocamento dos tentáculos, impactos no asfalto, vidro quebrando, destroços de veículos e pânico da multidão. O som ambiente se comprime brevemente conforme Reika manifesta a energia. O "Baka" calmo dela permanece límpido. O contato final produz um impacto denso, onda de choque expansiva e destroços em cascata. Sem música de fundo (BGM).
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1494,6 +1524,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098418180674773370"></a>
+
+### Tradução em andamento
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2098418180674773370)
+
+Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098418180674773370.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098393816650879459"></a>
 

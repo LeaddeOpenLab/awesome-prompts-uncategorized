@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**74** Prompts · Latest addition: **2026-09-11**
+**75** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -1717,6 +1717,141 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098418180674773370"></a>
+
+### A realistic UGC-style vertical fashion video of a man casually trying on and showcasing sneakers in his bedroom with a brief playful friend interruption.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2098418180674773370)
+
+Character · Fashion Item · Published
+
+**Summary:** A realistic UGC-style vertical fashion video of a man casually trying on and showcasing sneakers in his bedroom with a brief playful friend interruption.
+
+<img src="covers/2098418180674773370.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a realistic UGC-style fashion video of a stylish adult man filming himself casually in his bedroom while getting ready and showcasing a pair of statement sneakers.
+
+The room should feel authentic and lived-in — full-length mirror, clothes casually placed around, shoe boxes nearby, soft natural daylight coming through a window, and a slightly messy but aesthetic bedroom setup.
+
+Shot on an iPhone front camera, vertical 9:16, natural HDR, realistic skin texture, subtle handheld camera movement, natural exposure, and no heavy cinematic color grading.
+
+The man has a clean short low-cut haircut and a clean-shaven face. He wears a relaxed streetwear outfit such as:
+
+- oversized neutral T-shirt
+- loose black or dark cargo trousers
+- bold premium sneakers as the main focus
+- simple wristwatch
+
+No chain, no necklace, no earrings, no pendant, and no visible neck jewelry.
+
+The sneakers must remain clearly visible and consistent throughout the video.
+
+ACTION — ONE CONTINUOUS SHOT:
+
+He walks into frame holding one sneaker while already wearing the other.
+
+He looks at the camera and says:
+
+“Okay, these shoes might actually be carrying the whole fit…”
+
+He sits briefly and puts on the second shoe.
+
+Cut-free natural movement as he stands and adjusts his trousers slightly so the sneakers are clearly visible.
+
+INTERRUPTION / HOOK:
+
+Just as he begins showing the shoes, one of his friends casually walks into frame from the side.
+
+He immediately reacts:
+
+“Bro— not now, get out!”
+
+He laughs and lightly gestures for his friend to leave the frame.
+
+He turns straight back toward the camera as though nothing happened.
+
+“Anyway…”
+
+He points the phone slightly downward toward the sneakers.
+
+“Look at these.”
+
+SHOE SHOWCASE:
+
+He steps closer to the camera and slowly lifts one foot slightly to reveal the side profile of the sneaker.
+
+Then show:
+
+a quick front view of both shoes
+
+a natural side angle
+
+him stepping backward
+
+a small turn to reveal the heel
+
+a few casual walking steps toward the mirror
+
+Keep everything feeling spontaneous rather than like a professional commercial shoot.
+
+DIALOGUE:
+
+“I wasn’t even planning the outfit around them…”
+
+He looks down at the shoes.
+
+“But now they’re basically the whole outfit.”
+
+He steps back into a full-body view.
+
+ENDING:
+
+He gives the sneakers one final look, nods slightly, and says:
+
+“Yeah… I’m wearing these.”
+
+He walks casually out of frame.
+
+STYLE & DETAILS:
+
+Natural messy UGC bedroom atmosphere.
+
+Authentic male fashion creator energy.
+
+Playful interruption moment.
+
+Confident but relaxed personality.
+
+Sneakers are the hero product.
+
+Clear full-body visibility.
+
+Multiple natural shoe angles within one continuous recording.
+
+Realistic walking and foot movement.
+
+No exaggerated posing.
+
+Natural facial expressions and small imperfections.
+
+Subtle humor.
+
+Realistic iPhone footage.
+
+No chain or necklace.
+
+No flashy jewelry.
+
+No overly polished commercial appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098393816650879459"></a>
 

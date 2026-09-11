@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**74** Prompt · Bổ sung mới nhất: **2026-09-11**
+**75** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -541,20 +541,44 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2098392252137820636"></a>
 
-### Đang dịch
+### Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 Tác giả：[@recehtuitt](https://x.com/recehtuitt) · [Bài gốc](https://x.com/recehtuitt/status/2098392252137820636)
 
 Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Văn bản / Kiểu chữ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cinematic live-action fantasy prompt of a girl dodging a horned demon's tentacles and slapping him with an energized flip-flop saying 'Baka'.
 
 <img src="covers/2098392252137820636.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+[10s | 16:9 | 24fps | một cú máy điện ảnh liền mạch duy nhất]  
+
+THAM CHIẾU: 
+@image1 = REIKA MASTER. Giữ nguyên diện mạo dễ nhận biết, tỷ lệ cơ thể, mái tóc đen dài, áo phông trắng ngoại cỡ, quần short túi hộp sẫm màu, dép lê, vòng cổ và trang phục. Reika sở hữu tốc độ cực hạn, phản xạ và sự kiểm soát thể chất nhẹ nhàng như không. Cô có thể tháo một chiếc dép xỏ ngón ra và giữ nó như một đạo cụ trên tay. 
+@image2 = VORN MASTER. Giữ nguyên diện mạo dễ nhận biết, vóc dáng dạng người bình thường, có sừng, tóc trắng dài, đuôi xương, giáp xương nhiều lớp và trang phục nhợt nhạt rách rưới. Vorn sử dụng ba xúc tu hào quang giống như xương với áp lực tấn công tốc độ cực cao.  
+
+PHONG CÁCH: Kỳ ảo người đóng IMAX chân thực đỉnh cao, ARRI ALEXA 65 / RED V-RAPTOR XL, 35mm anamorphic, Kodak Vision3 500T. Vùng tối màu lục lam-mòng két sâu thẳm, điểm sáng màu hổ phách-cam tiết chế, độ tương phản màn đêm tối tăm, bề mặt ướt phản chiếu, chất liệu chân thực, trọng lượng thực tế, độ mờ chuyển động tự nhiên và hạt phim tinh tế. Năng lượng đặc trưng của Reika là màu bạc ánh kim tối đan xen với ngọn lửa đen-đỏ thẫm có kiểm soát. MÔI TRƯỜNG: Con phố trung tâm sũng nước mưa vào ban đêm, nhựa đường ẩm ướt, ô tô đỗ bên đường, cửa kính cửa hàng, đèn đường và đám đông hoảng loạn. Đường phố ngày càng nứt toác và ngập tràn nước, kính vỡ cùng mảnh vỡ xe cộ khi các đòn tấn công của Vorn bắn trượt.  
+
+DÒNG THỜI GIAN HÀNH ĐỘNG:  [00:00–00:02.5] NHỊP 1 — NÉ ĐÒN KHÔNG TỐN SỨC Reika bình thản tháo một chiếc dép xỏ ngón và cầm lỏng trên một tay, để chân đó trần. Vorn lập tức phóng ba xúc tu hào quang tựa như xương vào thân mình, đầu và chân của Reika từ các góc hội tụ. Reika không bao giờ phản công; cô chỉ đơn giản xoay người, uốn mình và lách qua chúng bằng những chuyển động nhỏ chính xác, mỗi đòn đánh trượt chỉ trong gang tấc và đập nát mặt đường ướt phía sau cô. BẮT ĐẦU từ sau vai Reika, bám theo các xúc tu về phía vị trí chuẩn xác của cô, sau đó quay quanh sát nút theo nhịp né tránh của cô khi nước và nhựa đường bùng nổ phía sau mỗi lần trượt. 
+
+ĐIỂM NHẤN: Chuyển động chậm 0.2 giây khi một xúc tu lướt qua cách mặt Reika vài inch, sau đó giật nhanh trở lại tốc độ cực hạn. DỪNG LẠI khi Reika vẫn điềm tĩnh trong khi Vorn lập tức nối tiếp đợt tấn công dữ dội tiếp theo.  
+
+[00:02.5–00:05.0] NHỊP 2 — KHOẢNG CÁCH TỐC ĐỘ LEO THANG Vorn lại tung ra cả ba xúc tu, nhanh hơn và từ các góc liên tục thay đổi, mỗi chiếc đều nhắm vào vị trí thực tế của cơ thể Reika. Reika vẫn từ chối tấn công, lướt dưới một chiếc, bước qua một chiếc khác và xoay người qua đòn đánh cuối cùng mà hầu như không có động tác thừa. Những đòn tấn công trượt xé toạc ô tô, kính và nhựa đường, tạo nên một đám mây mảnh vỡ dày đặc ngay phía sau cô. BẮT ĐẦU lia máy ngang bám theo Reika, tăng tốc khi các xúc tu khép chặt quanh cô, sau đó lia nhanh qua vụ va chạm cuối cùng khi các mảnh vỡ tràn ngập khung hình. Reika lợi dụng sự che khuất để dịch chuyển với Tốc Độ Thần Thánh (God Speed) một khoảng ngắn, để lại vệt khói đen dày đặc xuyên qua các mảnh vỡ, và bình thản xuất hiện cạnh Vorn trước khi hắn kịp phản ứng. DỪNG LẠI khi Vorn quay ngoắt về phía cô.
+
+[00:05–00:07.5] NHỊP 3 — NGỌN LỬA ĐỎ THẪM-BẠC Vorn lập tức tấn công lại ở cự ly gần. Reika vẫn đứng vững tại chỗ và chỉ giơ chiếc dép xỏ ngón đã tháo ra lên. Năng lượng màu bạc ánh kim tối cuộn quanh nó khi ngọn lửa đen-đỏ thẫm luồn qua lõi bạc, nhanh chóng tăng cường độ quanh bàn tay cô. Mưa và mảnh vỡ lơ lửng trong chốc lát khi ánh sáng xung quanh chìm vào bóng tối màu lục lam-đen sâu thẳm. Reika khẽ nói: "Baka." Chữ tiếng Nhật 「バカ」 hình thành cạnh cô từ năng lượng đen-bạc đa chiều viền lửa đỏ thẫm, hiện diện vật lý trong không gian thay vì đóng vai trò như văn bản màn hình. BẮT ĐẦU bằng một cú đẩy có kiểm soát về phía đòn tấn công đang lao tới, uốn lượn quanh Reika khi năng lượng biểu hiện, sau đó tiếp tục trực tiếp vào cú vung của cô. 
+
+ĐIỂM NHẤN: Chuyển động chậm 0.2 giây khi năng lượng đen-bạc nén lại quanh chiếc dép xỏ ngón. Chiếc dép ngay lập tức tăng tốc về phía mặt Vorn.  
+
+[00:07.5–00:10.0] NHỊP 4 — ĐÒN KẾT LIỄU MỘT ĐÒN Chiếc dép đập thẳng vào mặt Vorn. Năng lượng đen-bạc nén lại tại điểm tiếp xúc trong khi lửa đen-đỏ thẫm bùng nổ ra bên ngoài. Lực tác động cục bộ tạo ra một làn sóng xung kích dữ dội làm văng mưa, kính, bụi và mảnh vụn xe cộ khắp đường phố. Vorn giật lùi sau đòn đánh duy nhất, sau đó nhanh chóng tan rã thành làn bụi đen lan rộng. BẮT ĐẦU từ đà vung, đẩy vào điểm tiếp xúc chính xác, sau đó giật lùi theo sóng xung kích khi các mảnh vỡ bung rộng ra ngoài. Chỉ dùng chuyển động vi chậm trong khoảnh khắc tiếp xúc đầu tiên, sau đó khôi phục lại chuyển động tốc độ tối đa. KẾT THÚC với hình ảnh Reika đứng vững chãi, một chân trần và chiếc dép còn lại vẫn đang mang, khi năng lượng đen-bạc và ngọn lửa đỏ thẫm phai dần.  
+
+TÍNH LIÊN TỤC: Reika không hề bị chạm tới xuyên suốt Nhịp 1–2 và không bao giờ phản công cho đến đòn đánh cuối cùng. Vorn liên tục tấn công. Chiếc dép đã tháo vẫn ở trên tay Reika cho đến cú va chạm cuối cùng; bàn chân đó vẫn để trần trong suốt thời gian. Mỗi xúc tu đánh trượt liên tục tàn phá môi trường và là động lực chuyển cảnh máy quay. Sự dịch chuyển trong đống đổ nát ở Nhịp 2 đưa Reika đến cạnh Vorn, trực tiếp thiết lập cho Nhịp 3. Sóng xung kích cuối cùng bắt nguồn từ chính xác điểm tiếp xúc trên khuôn mặt.  
+
+CÁC LOẠI TRỪ CỤ THỂ: Ba xúc tu luôn hội tụ vào vị trí cơ thể thực sự của Reika; việc chúng trượt sẽ phá hủy môi trường phía sau cô thay vì chuyển hướng ngẫu nhiên. Bàn chân trần của Reika vẫn giữ nguyên trần và chiếc dép đã tháo không bao giờ xỏ trở lại. Chữ 「バカ」 vẫn là kiểu chữ năng lượng không gian ba chiều trong cảnh, không phải lớp phủ phẳng. Năng lượng đen-bạc luôn đan xen với ngọn lửa đen-đỏ thẫm thay vì trở thành ngọn lửa thông thường. Máy quay bám theo đà liên tục, không thiết lập lại hay cắt đột ngột; mỗi nhân vật vẫn là một sự hiện diện liên tục duy nhất.  
+
+ÂM THANH: Tiếng mưa lớn, xúc tu dịch chuyển, va chạm nhựa đường, kính vỡ, mảnh vỡ xe cộ và sự hoảng loạn của đám đông. Âm thanh môi trường nén lại trong thoáng chốc khi Reika phóng xuất năng lượng. Tiếng "Baka" khe khẽ của cô vẫn rõ ràng. Va chạm cuối cùng tạo ra một lực đánh đặc quánh, sóng xung kích lan rộng và các mảnh vỡ đổ dồn. Không có nhạc nền (BGM).
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1518,6 +1542,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098418180674773370"></a>
+
+### Đang dịch
+
+Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098418180674773370)
+
+Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098418180674773370.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098393816650879459"></a>
 
