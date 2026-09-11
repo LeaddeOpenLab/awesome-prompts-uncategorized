@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**43** Prompts · Última incorporación: **2026-09-11**
+**44** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098283754599174194"></a>
+
+### Traducción en curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098283754599174194-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 
@@ -999,20 +1021,20 @@ Traducción en curso
 
 <a name="prompt-2098249488150532562"></a>
 
-### Traducción en curso
+### Un prompt que detalla un bodi sin mangas inspirado en telarañas de color azul y rojo con detalles de aberturas y mangas a juego.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2098249488150532562)
 
 Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt que detalla un bodi sin mangas inspirado en telarañas de color azul y rojo con detalles de aberturas y mangas a juego.
 
 <img src="images/2098249488150532562-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un bodi sin mangas ajustado de color azul y rojo inspirado en telarañas con un elegante diseño de estilo superhéroe. El cuerpo principal es de color azul real intenso con finas líneas rojas con patrón de telaraña que se extienden por el pecho, el torso, la cintura y el abdomen. Cuenta con un cuello alto tipo cisne y una llamativa abertura en el pecho en forma de lágrima perfilada con un grueso ribete rojo. El bodi tiene una silueta atlética y ceñida con aberturas de pierna de corte alto y paneles laterales geométricos de color rojo intenso que contrastan alrededor de las caderas y la parte inferior de la cintura. El tejido azul tiene un acabado elástico suave y ligeramente satinado con una tensión realista y sutiles pliegues naturales. Las mangas largas azules desmontables a juego se extienden desde la parte superior de los brazos hasta las muñecas, dejando los hombros al descubierto. Cada manga presenta finos detalles lineales rojos y llamativos detalles angulares rojos cerca de los antebrazos. Conserve las características exactas del diseño: base azul real intenso, fino patrón de líneas estilo telaraña roja, cuello alto tipo cisne, abertura en el pecho en forma de lágrima con ribete rojo, confección sin mangas con hombros descubiertos, silueta ceñida de bodi de una pieza, paneles geométricos rojos en la cadera y mangas largas desmontables azules a juego con detalles en rojo.
 ```
 
 [↑ Volver a categorías](#catalog)

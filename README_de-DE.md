@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**43** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**44** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098283754599174194"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098283754599174194-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 
@@ -975,20 +997,26 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098249488150532562"></a>
 
-### Übersetzung läuft
+### Ein Prompt, der einen blau-roten, von Spinnennetzen inspirierten, ärmellosen Body mit Cut-Out-Details und passenden Armstulpen detailliert beschreibt.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2098249488150532562)
 
 Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt, der einen blau-roten, von Spinnennetzen inspirierten, ärmellosen Body mit Cut-Out-Details und passenden Armstulpen detailliert beschreibt.
 
 <img src="images/2098249488150532562-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein eng anliegender, ärmelloser Body in Blau und Rot, inspiriert von Spinnennetzen, mit einem eleganten Superhelden-Design. Der Hauptkörper ist in tiefem Königsblau gehalten, mit dünnen roten Linien im Spinnennetzmuster, die sich über Brust, Rumpf, Taille und Bauch erstrecken. Er verfügt über einen hohen Stehkragen und einen markanten tropfenförmigen Brustausschnitt, der mit einer dicken roten Paspelierung eingefasst ist.
+
+Der Body hat eine eng anliegende, athletische Silhouette mit hoch geschnittenen Beinöffnungen und kontrastierenden tiefroten geometrischen Seiteneinsätzen an Hüfte und unterer Taille. Der blaue Stoff hat ein glattes, leicht satinartiges Stretch-Finish mit realistischer Spannung und subtilen natürlichen Falten.
+
+Passende, abnehmbare lange blaue Armstulpen reichen von den Oberarmen bis zu den Handgelenken und lassen die Schultern frei. Jeder Ärmel weist dünne rote Linienakzente und kräftige rote eckige Details nahe den Unterarmen auf.
+
+Behalten Sie die genauen Designmerkmale bei: tiefkönigsblaue Basis, dünnes rotes Spinnennetz-Linienmuster, hoher Stehkragen, rot eingefasster tropfenförmiger Brustausschnitt, ärmellose Konstruktion mit freien Schultern, eng anliegende einteilige Body-Silhouette, rote geometrische Hüfteinsätze und passende lange abnehmbare blaue Ärmel mit roten Akzenten.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

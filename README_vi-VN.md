@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**43** Prompt · Bổ sung mới nhất: **2026-09-11**
+**44** Prompt · Bổ sung mới nhất: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098283754599174194"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098283754599174194-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 
@@ -999,20 +1021,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098249488150532562"></a>
 
-### Đang dịch
+### Một lời nhắc mô tả chi tiết về bộ bodysuit không tay lấy cảm hứng từ mạng nhện màu xanh và đỏ với các chi tiết khoét ngực và ống tay đồng bộ.
 
 Tác giả：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2098249488150532562)
 
 Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một lời nhắc mô tả chi tiết về bộ bodysuit không tay lấy cảm hứng từ mạng nhện màu xanh và đỏ với các chi tiết khoét ngực và ống tay đồng bộ.
 
 <img src="images/2098249488150532562-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bộ bodysuit không tay ôm sát lấy cảm hứng từ mạng nhện màu xanh và đỏ với thiết kế phong cách siêu anh hùng kiểu dáng đẹp mắt. Phần thân chính có màu xanh hoàng gia đậm với các đường hoa văn mạng nhện mỏng màu đỏ kéo dài qua ngực, thân, eo và bụng. Trang phục có cổ lọ giả cao và phần khoét ngực hình giọt nước nổi bật được viền bằng đường viền đỏ dày. Bộ bodysuit có phom dáng thể thao ôm sát với phần khoét hông cao và các mảng phối hình học màu đỏ thẫm tương phản xung quanh hông và phần eo dưới. Chất liệu vải xanh có độ co giãn mịn màng, hơi bóng nhẹ như lụa satin với độ căng thực tế và các nếp gấp tự nhiên tinh tế. Đi kèm là đôi ống tay dài màu xanh có thể tháo rời kéo dài từ bắp tay đến cổ tay, để lộ bờ vai. Mỗi ống tay đều có các chi tiết đường kẻ mỏng màu đỏ và các điểm nhấn góc cạnh màu đỏ đậm gần cẳng tay. Giữ nguyên các đặc điểm thiết kế chính xác: nền xanh hoàng gia đậm, họa tiết đường nét phong cách mạng nhện mỏng màu đỏ, cổ lọ giả cao, đường khoét ngực hình giọt nước viền đỏ, cấu trúc không tay để lộ vai, phom dáng bodysuit một mảnh ôm sát, các mảng hông hình học màu đỏ, và ống tay dài rời màu xanh đồng bộ với các điểm nhấn màu đỏ.
 ```
 
 [↑ Về danh mục](#catalog)

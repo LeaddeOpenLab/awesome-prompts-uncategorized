@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**43** Prompt · Ultima aggiunta: **2026-09-11**
+**44** Prompt · Ultima aggiunta: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098283754599174194"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098283754599174194-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 
@@ -975,20 +997,26 @@ Traduzione in corso
 
 <a name="prompt-2098249488150532562"></a>
 
-### Traduzione in corso
+### Un prompt che descrive in dettaglio un body senza maniche blu e rosso ispirato a una ragnatela con dettagli cut-out e manicotti abbinati.
 
 Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2098249488150532562)
 
 Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt che descrive in dettaglio un body senza maniche blu e rosso ispirato a una ragnatela con dettagli cut-out e manicotti abbinati.
 
 <img src="images/2098249488150532562-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un body aderente senza maniche blu e rosso ispirato a una ragnatela con un elegante design in stile supereroe. Il corpo principale è blu reale profondo con sottili linee rosse a motivo di ragnatela che si estendono su petto, busto, vita e addome. Presenta un colletto alto finto e una prominente apertura a goccia sul petto bordata da un spesso profilo rosso.
+
+Il body ha una silhouette atletica e aderente con sgambature alte e pannelli laterali geometrici a contrasto di colore rosso scuro attorno ai fianchi e alla vita bassa. Il tessuto blu ha una finitura elasticizzata liscia, leggermente satinata, con tensione realistica e sottili pieghe naturali.
+
+Manicotti lunghi blu staccabili abbinati si estendono dalla parte superiore delle braccia ai polsi, lasciando le spalle scoperte. Ogni manica presenta sottili dettagli lineari rossi e marcati accenti angolari rossi vicino agli avambracci.
+
+Preserva le esatte caratteristiche di design: base blu reale profondo, motivo a linee sottili in stile ragnatela rossa, finto colletto alto, apertura a goccia sul petto bordata di rosso, struttura senza maniche con spalle scoperte, silhouette aderente da body intero, pannelli geometrici rossi sui fianchi e lunghe maniche staccate blu abbinate con accenti rossi.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**43** Prompts · Última incorporación: **2026-09-11**
+**44** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098283754599174194"></a>
+
+### Traducción en curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098283754599174194-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 
@@ -975,20 +997,26 @@ Traducción en curso
 
 <a name="prompt-2098249488150532562"></a>
 
-### Traducción en curso
+### Un prompt que detalla un enterizo ceñido sin mangas inspirado en telarañas en azul y rojo con aberturas y mangas a juego.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2098249488150532562)
 
 Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt que detalla un enterizo ceñido sin mangas inspirado en telarañas en azul y rojo con aberturas y mangas a juego.
 
 <img src="images/2098249488150532562-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un enterizo ceñido sin mangas inspirado en telarañas en azul y rojo, con un elegante diseño de estilo superhéroe. El cuerpo principal es de color azul rey intenso con finas líneas de patrón de telaraña roja que se extienden por el pecho, el torso, la cintura y el abdomen. Cuenta con un cuello alto simulado y una abertura prominente en el pecho en forma de lágrima bordeada con un ribete rojo grueso.
+
+El enterizo tiene una silueta atlética ajustada con aberturas de pierna de corte alto y paneles laterales geométricos en rojo oscuro contrastante alrededor de las caderas y la parte inferior de la cintura. La tela azul tiene un acabado elástico liso, ligeramente satinado, con una tensión realista y pliegues naturales sutiles.
+
+Manguitos largos desmontables de color azul a juego se extienden desde la parte superior de los brazos hasta las muñecas, dejando los hombros al descubierto. Cada manga presenta detalles lineales rojos delgados y acentos angulares rojos audaces cerca de los antebrazos.
+
+Conserva las características de diseño exactas: base en azul rey intenso, patrón de líneas delgadas de estilo telaraña roja, cuello alto simulado, abertura en forma de lágrima ribeteada de rojo en el pecho, confección sin mangas con hombros descubiertos, silueta ceñida de enterizo de una pieza, paneles geométricos rojos en las caderas y manguitos azules independientes largos a juego con detalles rojos.
 ```
 
 [↑ Volver a categorías](#catalog)

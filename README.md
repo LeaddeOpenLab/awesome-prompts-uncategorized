@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**43** Prompts · Latest addition: **2026-09-11**
+**44** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,68 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098283754599174194"></a>
+
+### Realistic portrait prompt depicting a Japanese woman in a pale lavender bikini sitting on the edge of a bed in a sunlit morning hotel room.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic portrait prompt depicting a Japanese woman in a pale lavender bikini sitting on the edge of a bed in a sunlit morning hotel room.
+
+<img src="images/2098283754599174194-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Morning Sunlit Hotel Room | Pale Lavender and a Gentle Awakening🌟
+
+[Subject & Art Style]
+A scene of a distinctly adult Japanese woman wearing a pale lavender bikini, quietly sitting on the edge of a bed in a high-end hotel guest room enveloped in white morning light. Rendered as a sophisticated yet not overly staged photorealistic image, bridging the gap between resort fashion photography and natural photo-book expressions.
+Harmonizing the pale hue of the outfit, white bedding, and natural morning light, focusing on brightness, cleanliness, and feminine softness as the main themes. Rather than emphasizing only the body, bringing the entire morning scene to life through facial expression, gestures, the hotel space, and the light.
+
+[Location, Background & Worldview]
+The shooting location is a high-grade hotel bedroom dominated by white and ivory tones. Behind the subject are plush white pillows, a clean duvet, and a light beige headboard, with floor-length white sheer curtains hanging over the window.
+A small lamp, a transparent vase with white flowers, and a wood-grain nightstand are casually placed beside the bed. Beyond the window, softly blurred urban buildings are visible, adding hotel-like depth. The background is uncluttered, creating a tranquil space that does not distract from the subject.
+
+[Season, Time & Weather]
+The season is a refreshing period reminiscent of late spring to early summer. The time is around 8:00 AM, a soft morning before the sun climbs fully overhead. It is clear and sunny outside, with bright natural light spreading into the room through the white curtains.
+Not intense summer sunlight, but brighter near the window, with the illumination falling off gently toward the interior of the room. A nearly windless, quiet morning evoking the calm air characteristic of a hotel room upon just waking.
+
+[Subject Details]
+A distinctly adult Japanese woman around 20 to 28 years old. Featuring soft, refined facial features, slightly large natural eyes, a slender nasal bridge, and rosy lips, conveying an impression of maturity blended with approachable warmth. Dark brown hair falling below the shoulders with natural waves and light stray wisps.
+Light ochre-toned skin with a realistic texture retaining pores and subtle shading. Delicate shoulders, arms, and legs, featuring a naturally glamorous figure harmonized with a slender waist and feminine curves. Her bust has a distinctly ample, natural volume, portrayed with soft three-dimensionality following her seated posture and clothing rather than hard, exaggerated forms.
+
+[Attire & Accessories]
+The outfit is a cute, pale lavender bikini. The top features a simple, elegant halter or thin-strap design made from a smooth fabric with a subtle matte finish. Modest ornamentation, showcasing the color and silhouette itself as the charm.
+Ensuring ample fabric coverage across the bust for a realistic fit that naturally accommodates an ample figure. The bottoms match in the same color, resting comfortably along the hips. Accessories are kept minimal, such as tiny earrings if worn at all, preserving the effortless lightness of a hotel morning.
+
+[Pose, Movement & Gaze]
+The woman sits lightly on the edge of the white bed. With her hips and knees angled slightly sideways relative to the frame, her upper body turns effortlessly back toward the camera so both shoulders are naturally visible. Weight is gently placed on the seat and one side of her hips, legs kept close together at the knees and resting naturally toward the floor.
+One hand rests lightly on the white sheets to support her body, while the other hand touches the ends of her hair near her ear and shoulder. Sitting in a relaxed posture without excessive twisting of the neck or torso. Her gaze is directed softly toward the camera or naturally looking just slightly to the side of the lens.
+
+[Expression & Emotion]
+A gentle expression, like the moment of catching the eye of someone close just after waking up in the morning. A tiny smile graces her lips, with cheeks and eyes naturally softened. Not an overt laugh, but an expression blending calm intimacy with a touch of shyness.
+Eyebrows maintain a natural arch without the eyes being opened too wide. The gesture of touching her hair is tied naturally to her expression, retaining the authenticity of a spontaneous morning moment rather than a posed shot.
+
+[Composition & Camera]
+A 4:5 vertical composition. The subject is placed slightly to the left of the center, in a near-full-body framing that naturally fits from the top of the head to near the feet. Ample white surface of the bed and the brightness by the window are kept in the frame, creating a balance that instantly conveys the hotel environment.
+The camera is positioned at a natural eye level around the subject's chest to waist. The shooting distance is assumed to be about 2 to 3 meters, using a standard to medium-telephoto focal length around 50 to 70mm. Depth of field keeps the background gently blurred while allowing furniture and windows to remain discernible.
+
+[Light, Color, Texture & Atmosphere]
+The main light source is the natural morning light entering from the large window on the left side of the frame. Soft light diffused through sheer curtains falls broadly across her face, shoulders, chest, and arms, with weak fill reflections from the white walls and bedding on the opposite side. Shadows remain soft, keeping contours natural.
+The color palette is based on white, ivory, and light beige, with the pale lavender bikini serving as a delicate accent. Skin has delicate shading and rosiness, hair shows individual strand flow and natural sheen, the bikini displays soft tension and fine wrinkles, and the bedding retains the three-dimensional weight of real fabric. The overall atmosphere is clean, bright, and filled with a quiet morning intimacy.
+
+[Quality & Excluded Elements]
+High-resolution photorealistic rendering. Prioritizing natural human proportions, perspective, lighting, and textures of skin, hair, and fabric as if captured by an actual camera.
+Avoid underage-looking subjects, overly juvenile faces, unnatural anatomy, extra limbs or fingers, missing or fused fingers, unnatural joints, confusion of left and right hands, blending of body and clothing, wardrobe malfunctions or unnatural digging into the skin, unintended exposure, extreme wide-angle distortion, and excessive skin-smoothing filters. While maintaining an ample natural bust volume, avoid abnormal enlargement, rigid spherical shapes, extreme cleavage push-ups, and gravity-defying forms. No text, logos, watermarks, or UI overlays within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 

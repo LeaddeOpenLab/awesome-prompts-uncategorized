@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**43** Prompts · Última adição: **2026-09-11**
+**44** Prompts · Última adição: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098283754599174194"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098283754599174194-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 
@@ -975,20 +997,26 @@ Tradução em andamento
 
 <a name="prompt-2098249488150532562"></a>
 
-### Tradução em andamento
+### Um prompt detalhando um body sem mangas azul e vermelho inspirado em teia de aranha com detalhes recortados e mangas combinando.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2098249488150532562)
 
 Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt detalhando um body sem mangas azul e vermelho inspirado em teia de aranha com detalhes recortados e mangas combinando.
 
 <img src="images/2098249488150532562-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um body justo sem mangas azul e vermelho inspirado em teia de aranha com um design elegante em estilo de super-herói. O corpo principal é azul-royal profundo com finas linhas vermelhas em padrão de teia estendendo-se pelo peito, tronco, cintura e abdômen. Possui gola alta simulada e uma abertura proeminente em forma de lágrima no peito, contornada com um acabamento vermelho espesso.
+
+O body tem uma silhueta atlética justa com cavas altas nas pernas e painéis laterais geométricos contrastantes em vermelho-escuro ao redor dos quadris e da cintura baixa. O tecido azul tem um acabamento elástico suave, levemente acetinado, com tensão realista e dobras naturais sutis.
+
+Mangotes longos azuis destacáveis e combinando estendem-se da parte superior dos braços até os pulsos, deixando os ombros expostos. Cada manga apresenta detalhes lineares vermelhos finos e detalhes angulares vermelhos marcantes perto dos antebraços.
+
+Preserve as características exatas do design: base azul-royal profunda, padrão de linhas finas em estilo de teia de aranha vermelha, gola alta simulada, abertura no peito em forma de lágrima com borda vermelha, construção sem mangas com ombros expostos, silhueta justa de body de peça única, painéis geométricos vermelhos no quadril e mangas compridas azuis destacadas combinando com detalhes em vermelho.
 ```
 
 [↑ Voltar às categorias](#catalog)

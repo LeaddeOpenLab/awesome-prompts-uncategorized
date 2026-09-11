@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**43** Prompt · Son eklenen: **2026-09-11**
+**44** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098283754599174194"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098283754599174194-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 
@@ -975,20 +997,26 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098249488150532562"></a>
 
-### Çeviri sürüyor
+### Örümcek ağından ilham alan, dekolte detaylarına ve uyumlu kolluklara sahip mavi-kırmızı kolsuz bir tulumu ayrıntılarıyla anlatan bir prompt.
 
 Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2098249488150532562)
 
 Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Örümcek ağından ilham alan, dekolte detaylarına ve uyumlu kolluklara sahip mavi-kırmızı kolsuz bir tulumu ayrıntılarıyla anlatan bir prompt.
 
 <img src="images/2098249488150532562-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şık bir süper kahraman tarzı tasarıma sahip, örümcek ağından ilham alan, mavi ve kırmızı renkli, vücuda oturan kolsuz bir tulum. Ana gövde, göğüs, gövde, bel ve karın boyunca uzanan ince kırmızı ağ deseni çizgileriyle koyu saks mavisidir. Yüksek dik bir yakaya ve kalın kırmızı biyeyle çevrelenmiş belirgin bir damla şeklinde göğüs dekoltesine sahiptir.
+
+Tulum, yüksek kesim bacak açıklıkları ve kalça ile alt bel çevresinde kontrast oluşturan koyu kırmızı geometrik yan panelleriyle vücuda oturan atletik bir silüete sahiptir. Mavi kumaş, gerçekçi gerginliğe ve ince doğal kıvrımlara sahip, pürüzsüz, hafif satenimsi esnek bir apreye sahiptir.
+
+Uyumlu, çıkarılabilir uzun mavi kolluklar, omuzları açıkta bırakarak üst kollardan bileklere kadar uzanır. Her bir kol, ön kollara yakın ince kırmızı doğrusal ayrıntılara ve koyu kırmızı açılı vurgulara sahiptir.
+
+Tam tasarım özelliklerini koruyun: koyu saks mavisi taban, ince kırmızı örümcek ağı tarzı çizgi deseni, yüksek dik yaka, kırmızı biyeli damla göğüs penceresi, kolsuz açık omuzlu yapı, vücuda oturan tek parça tulum silüeti, kırmızı geometrik kalça panelleri ve kırmızı vurgulara sahip uyumlu uzun mavi ayrılabilir kolluklar.
 ```
 
 [↑ Kategorilere dön](#catalog)

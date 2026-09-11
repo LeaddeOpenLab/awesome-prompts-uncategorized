@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**43** Prompts · Dernier ajout: **2026-09-11**
+**44** Prompts · Dernier ajout: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098283754599174194"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2098283754599174194)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098283754599174194-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2097889772899639317"></a>
 
@@ -975,20 +997,26 @@ Traduction en cours
 
 <a name="prompt-2098249488150532562"></a>
 
-### Traduction en cours
+### Un prompt détaillant un body sans manches bleu et rouge inspiré d'une toile d'araignée avec des découpes et des manchettes assorties.
 
 Auteur：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2098249488150532562)
 
 Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt détaillant un body sans manches bleu et rouge inspiré d'une toile d'araignée avec des découpes et des manchettes assorties.
 
 <img src="images/2098249488150532562-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un body ajusté sans manches bleu et rouge inspiré d'une toile d'araignée, au design élégant de style super-héros. Le corps principal est d'un bleu roi profond avec de fines lignes de motif de toile d'araignée rouge s'étendant sur la poitrine, le torse, la taille et l'abdomen. Il présente un col montant et une découpe proéminente en forme de larme sur la poitrine, bordée d'un épais liseré rouge.
+
+Le body a une silhouette athlétique très ajustée avec des échancrures hautes au niveau des jambes et des empiècements géométriques latéraux rouge foncé contrastants autour des hanches et du bas de la taille. Le tissu bleu a une finition extensible lisse, légèrement satinée, avec une tension réaliste et de subtils plis naturels.
+
+De longues manchettes bleues amovibles assorties s'étendent du haut des bras jusqu'aux poignets, laissant les épaules dénudées. Chaque manche présente de fins détails linéaires rouges et des accents angulaires rouges audacieux près des avant-bras.
+
+Préservez les caractéristiques de conception exactes : base bleu roi profond, motif de lignes fines de style toile d'araignée rouge, col montant, découpe en forme de larme bordée de rouge sur la poitrine, conception sans manches aux épaules dénudées, silhouette de body une-pièce ajustée, empiècements géométriques rouges sur les hanches, et longues manches détachées bleues assorties avec accents rouges.
 ```
 
 [↑ Retour aux catégories](#catalog)
