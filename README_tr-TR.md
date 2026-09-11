@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**83** Prompt · Son eklenen: **2026-09-11**
+**84** Prompt · Son eklenen: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -564,6 +564,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098476449212805468"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@jfischoff](https://x.com/jfischoff) · [Orijinal gönderi](https://x.com/jfischoff/status/2098476449212805468)
+
+Sinematik / Film Karesi · Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098476449212805468.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098392252137820636"></a>
 

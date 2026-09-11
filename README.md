@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**83** Prompts · Latest addition: **2026-09-11**
+**84** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -657,6 +657,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098476449212805468"></a>
+
+### A film-textured continuous shot of sound waves vibrating the sand and stimulating bioluminescent plankton to glow on a San Diego beach during the pink hour.
+
+Author：[@jfischoff](https://x.com/jfischoff) · [Source](https://x.com/jfischoff/status/2098476449212805468)
+
+Cinematic / Film Still · Animal / Creature · Published
+
+**Summary:** A film-textured continuous shot of sound waves vibrating the sand and stimulating bioluminescent plankton to glow on a San Diego beach during the pink hour.
+
+<img src="covers/2098476449212805468.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Film camera. Nikon 35mm fuji color film. Saturated. Realistic professional photographry. A continuous shot of the sound vibrating the sand and causing bioluminescent plankton to light up in cloudy groups in the ocean, from the beach at san diego pink hour.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098392252137820636"></a>
 
