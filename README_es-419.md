@@ -1041,7 +1041,7 @@ Lago Ontario
 
 <a name="prompt-2098266045597519916"></a>
 
-### Traducción en curso
+### Este prompt se utiliza para generar una instantánea de una mujer de estilo tradicional en la atmósfera del mercado nocturno de Chang'an en la dinastía Tang, utilizando un gran angular, perspectiva inclinada, flash duro directo en cámara y contraste entre luz fría y cálida, retratando a una dama de hanfu opulento que mira hacia atrás rozando su manga.
 
 Autor：[@Soranlan](https://x.com/Soranlan) · [Publicación original](https://x.com/Soranlan/status/2098266045597519916)
 
@@ -1049,7 +1049,7 @@ Retrato / Selfie · Personaje · Resumen / Antecedentes · Publicado
 
 Publicación original：[@Soranlan](https://x.com/Soranlan) · [Publicación original](https://x.com/Soranlan/status/2098258401344229596)
 
-**Resumen:** Traducción en curso
+**Resumen:** Este prompt se utiliza para generar una instantánea de una mujer de estilo tradicional en la atmósfera del mercado nocturno de Chang'an en la dinastía Tang, utilizando un gran angular, perspectiva inclinada, flash duro directo en cámara y contraste entre luz fría y cálida, retratando a una dama de hanfu opulento que mira hacia atrás rozando su manga.
 
 <img src="images/2098266045597519916-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1064,7 +1064,7 @@ Publicación original：[@Soranlan](https://x.com/Soranlan) · [Publicación ori
 **Prompt**
 
 ```text
-Traducción en curso
+perspectiva cercana ultra gran angular (14~20mm), perspectiva exagerada, plano holandés a 15°, ligera distorsión de barril, estética de instantánea tomada a mano, fuerte profundidad: sujeto nítido, capas de fondo profundas, distancia al sujeto 0.5m, flash duro directo sobre la cámara, reflejos brillantes en los ojos (catchlights), ambiente subexpuesto por 1~2 pasos, caída de flash, reflejos especulares en piel/joyería, aspecto de instantánea con flash de obturación rápida, detalle de alta frecuencia, grano fílmico medio, halación + microcontraste, sutil aberración cromática, movimiento impulsado por el viento en los bordes, estética de la antigua China de la dinastía Tang, bullicioso mercado nocturno, mujer de Asia oriental, rasgos faciales delicados y refinados, ojos grandes y expresivos, boca pequeña de cereza, figura extremadamente voluptuosa, busto grande y exagerado, estándar estético sumamente alto, estructura ósea impecable, piel con calidad de porcelana, alto estatus, silueta limpia, materiales de primera calidad, alto valor de producción, mirando hacia atrás por encima del hombro con una sonrisa juguetona y seductora, caminando rápidamente entre la densa multitud, una mano levantando una manga de seda intrincadamente tejida rozando cerca de la lente, bulliciosa calle de Chang'an, faroles de papel rojo brillantes, peatones con desenfoque de movimiento vestidos con hanfu tradicional, chispas volando de vendedores callejeros, atmósfera densa y vibrante, flash duro frío en el sujeto en primer plano frente a luces prácticas cálidas en el fondo, sutil elemento 'Soran' integrado naturalmente en el bordado de tela de seda, firma estética tenue, mezcla orgánica, composición armoniosa, no intrusivo, casi invisible.
 ```
 
 [↑ Volver a categorías](#catalog)

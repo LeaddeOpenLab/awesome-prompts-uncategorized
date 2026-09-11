@@ -1041,7 +1041,7 @@ Lago Ontario
 
 <a name="prompt-2098266045597519916"></a>
 
-### Traduzione in corso
+### Questo prompt è utilizzato per generare un'istantanea di una donna in stile tradizionale nell'atmosfera del vivace mercato notturno di Chang'an durante la dinastia Tang, utilizzando un grandangolo, una prospettiva inclinata, un flash duro sulla fotocamera e un contrasto di luci calde e fredde, per ritrarre una donna raffinata in hanfu che si volta sfiorando l'obiettivo con la manica.
 
 Autore：[@Soranlan](https://x.com/Soranlan) · [Post originale](https://x.com/Soranlan/status/2098266045597519916)
 
@@ -1049,7 +1049,7 @@ Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
 
 Post originale：[@Soranlan](https://x.com/Soranlan) · [Post originale](https://x.com/Soranlan/status/2098258401344229596)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Questo prompt è utilizzato per generare un'istantanea di una donna in stile tradizionale nell'atmosfera del vivace mercato notturno di Chang'an durante la dinastia Tang, utilizzando un grandangolo, una prospettiva inclinata, un flash duro sulla fotocamera e un contrasto di luci calde e fredde, per ritrarre una donna raffinata in hanfu che si volta sfiorando l'obiettivo con la manica.
 
 <img src="images/2098266045597519916-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1064,7 +1064,7 @@ Post originale：[@Soranlan](https://x.com/Soranlan) · [Post originale](https:/
 **Prompt**
 
 ```text
-Traduzione in corso
+prospettiva ravvicinata ultra-grandangolare (14~20mm), prospettiva esagerata, inclinazione olandese a 15°, lieve distorsione a barilotto, estetica da scatto istantaneo a mano libera, forte profondità: soggetto nitido, profondi livelli di sfondo, distanza del soggetto 0,5 m, flash duro diretto su fotocamera, punti di luce brillanti negli occhi, ambiente sottoesposto di 1~2 stop, caduta di luce del flash, riflessi speculari su pelle/gioielli, aspetto da istantanea con flash a otturatore rapido, dettagli ad alta frequenza, grana da pellicola media, aloni + micro-contrasto, sottile aberrazione cromatica, movimento mosso dal vento sui bordi, estetica della Cina antica della dinastia Tang, vivace mercato notturno, donna dell'Asia orientale, lineamenti del viso delicati e raffinati, grandi occhi espressivi, piccola bocca a ciliegia, figura estremamente voluttuosa, busto procace esagerato, standard estetico estremamente elevato, struttura ossea impeccabile, qualità della pelle simile a porcellana, alto rango, silhouette pulita, materiali di alta qualità, elevato valore di produzione, mentre guarda indietro oltre la spalla con un sorriso giocoso e seducente, camminando velocemente attraverso la folla densa, una mano che solleva una manica di seta finemente tessuta che sfiora l'obiettivo, strada affollata di Chang'an, lanterne di carta rossa incandescenti, pedoni sfocati dal movimento in tradizionale hanfu, scintille volanti dai venditori ambulanti, atmosfera densa e vibrante, flash duro e freddo sul soggetto in primo piano contro luci pratiche calde sullo sfondo, sottile elemento 'Soran' integrato naturalmente nel ricamo del tessuto di seta, debole firma estetica, fusione organica, composizione armoniosa, non invadente, quasi invisibile.
 ```
 
 [↑ Torna alle categorie](#catalog)

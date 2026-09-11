@@ -1041,7 +1041,7 @@ Ontariosee
 
 <a name="prompt-2098266045597519916"></a>
 
-### Übersetzung läuft
+### Dieser Prompt dient dazu, einen Schnappschuss einer traditionellen Frau in der Atmosphäre des Nachtmarkts von Chang'an der Tang-Dynastie zu erzeugen. Dabei werden Weitwinkel, gekippte Perspektive, harter Aufsteckblitz und Kalt-Warm-Lichtkontraste genutzt, um eine prächtige Hanfu-Dame einzufangen, die zurückblickt und ihre Ärmel hebt.
 
 Autor：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2098266045597519916)
 
@@ -1049,7 +1049,7 @@ Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlic
 
 Originalbeitrag：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2098258401344229596)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Dieser Prompt dient dazu, einen Schnappschuss einer traditionellen Frau in der Atmosphäre des Nachtmarkts von Chang'an der Tang-Dynastie zu erzeugen. Dabei werden Weitwinkel, gekippte Perspektive, harter Aufsteckblitz und Kalt-Warm-Lichtkontraste genutzt, um eine prächtige Hanfu-Dame einzufangen, die zurückblickt und ihre Ärmel hebt.
 
 <img src="images/2098266045597519916-1.jpg" alt="Bild 1" width="480" />
 
@@ -1064,7 +1064,7 @@ Originalbeitrag：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultraweitwinkel-Nahperspektive (14~20mm), übertriebene Perspektive, Dutch Angle 15°, leichte Tonnenverzeichnung, Ästhetik eines Schnappschusses aus der Hand, starke Tiefe: scharfes Motiv, tiefe Hintergrundebenen, Motivabstand 0,5m, harter Aufhellblitz direkt auf der Kamera, helle Glanzlichter in den Augen, Umgebungslicht um 1~2 Blendenstufen unterbelichtet, Blitzabfall, Glanzlichter auf Haut/Schmuck, Look eines schnellen Blitz-Schnappschusses, hochfrequente Details, mittleres Filmkorn, Lichthofbildung + Mikrokontrast, subtile chromatische Aberration, windgetriebene Bewegung an den Rändern, Ästhetik des antiken Chinas der Tang-Dynastie, geschäftiger Nachtmarkt, ostasiatische Frau, zarte feine Gesichtszüge, große ausdrucksstarke Augen, kleiner Kirschmund, extrem üppige Figur, übertrieben große Oberweite, extrem hoher ästhetischer Standard, makelloser Knochenbau, porzellanartige Hautqualität, hoher Status, saubere Silhouette, edle Materialien, hoher Produktionswert, mit einem verspielten, verführerischen Lächeln über die Schulter zurückblickend, zügig durch die dichte Menschenmenge gehend, eine Hand hebt einen kunstvoll gewebten Seidenärmel, der nah an das Objektiv streift, belebte Straße in Chang'an, leuchtende rote Papierlaternen, bewegungsunscharfe Fußgänger in traditionellem Hanfu, fliegende Funken von Straßenverkäufern, dichte lebendige Atmosphäre, kühler harter Blitz auf dem Vordergrundmotiv im Kontrast zu warmen praktischen Lichtern im Hintergrund, subtiles 'Soran'-Element natürlich in die Seidenstoffstickerei integriert, dezente ästhetische Signatur, organische Verschmelzung, harmonische Komposition, unaufdringlich, fast unsichtbar.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

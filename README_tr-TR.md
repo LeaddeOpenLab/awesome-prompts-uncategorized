@@ -1041,7 +1041,7 @@ Ontario Gölü
 
 <a name="prompt-2098266045597519916"></a>
 
-### Çeviri sürüyor
+### Bu istem; geniş açı, eğik perspektif, kamera üstü sert flaş ile sıcak ve soğuk ışık kontrastını kullanarak, geriye bakıp kolunu savuran asil hanfu giyimli bir kadını tasvir edip Tang Hanedanlığı Chang'an gece pazarı atmosferinde geleneksel tarzda bir kadın anlık görüntüsü oluşturmak için kullanılır.
 
 Yazar：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2098266045597519916)
 
@@ -1049,7 +1049,7 @@ Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
 
 Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2098258401344229596)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bu istem; geniş açı, eğik perspektif, kamera üstü sert flaş ile sıcak ve soğuk ışık kontrastını kullanarak, geriye bakıp kolunu savuran asil hanfu giyimli bir kadını tasvir edip Tang Hanedanlığı Chang'an gece pazarı atmosferinde geleneksel tarzda bir kadın anlık görüntüsü oluşturmak için kullanılır.
 
 <img src="images/2098266045597519916-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1064,7 +1064,7 @@ Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+ultra geniş yakın açı perspektif (14~20mm), abartılı perspektif, 15° Hollanda açısı, hafif fıçı bükülmesi, elde çekilmiş anlık fotoğraf estetiği, güçlü derinlik: net özne, derin arka plan katmanları, özne mesafesi 0,5m, doğrudan kamera üstü sert flaş, gözlerde parlak ışık parıltıları, ortam ışığı 1~2 durak az pozlanmış, flaş düşüşü, ten/takılarda aynasal parlamalar, hızlı enstantaneli flaşlı anlık fotoğraf görünümü, yüksek frekanslı detay, orta dereceli film greni, halasyon + mikro kontrast, ince renk sapması, kenarlarda rüzgar kaynaklı hareket, Antik Çin Tang hanedanı estetiği, hareketli gece pazarı, Doğu Asyalı kadın, narin ve zarif yüz hatları, büyük etkileyici gözler, küçük kiraz dudaklar, son derece kıvrımlı vücut hatları, abartılı dolgun göğüsler, son derece yüksek estetik standart, kusursuz kemik yapısı, porselen cilt kalitesi, yüksek statü, temiz silüet, birinci sınıf malzemeler, yüksek prodüksiyon değeri, omzunun üzerinden oyuncu ve baştan çıkarıcı bir gülümsemeyle geriye bakış, yoğun kalabalığın içinde hızla yürüyüş, bir eliyle lense çok yakın sürtünen karmaşık dokunmuş ipek bir kolu kaldırış, hareketli Chang'an caddesi, parlayan kırmızı kağıt fenerler, geleneksel hanfu giymiş hareketten bulanıklaşmış yayalar, sokak satıcılarından uçuşan kıvılcımlar, yoğun ve canlı atmosfer, ön plandaki özne üzerinde soğuk sert flaş ve arka plandaki sıcak pratik ışıklar, ipek kumaş işlemesine doğal olarak entegre edilmiş ince 'Soran' öğesi, hafif estetik imza, organik harmanlanma, uyumlu kompozisyon, göze batmayan, neredeyse görünmez.
 ```
 
 [↑ Kategorilere dön](#catalog)

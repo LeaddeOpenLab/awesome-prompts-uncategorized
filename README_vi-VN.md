@@ -1065,7 +1065,7 @@ Hồ Ontario
 
 <a name="prompt-2098266045597519916"></a>
 
-### Đang dịch
+### Lời nhắc này dùng để tạo ảnh chụp nhanh phong cách cổ phong của một thiếu nữ trong bầu không khí chợ đêm Trường An thời thịnh Đường, sử dụng góc rộng, góc nghiêng, đèn flash cứng trên máy cùng độ tương phản ánh sáng nóng-lạnh để khắc họa người phụ nữ quý phái mặc hán phục vừa ngoái đầu vừa phất tay áo.
 
 Tác giả：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/Soranlan/status/2098266045597519916)
 
@@ -1073,7 +1073,7 @@ Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đ
 
 Bài gốc：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/Soranlan/status/2098258401344229596)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc này dùng để tạo ảnh chụp nhanh phong cách cổ phong của một thiếu nữ trong bầu không khí chợ đêm Trường An thời thịnh Đường, sử dụng góc rộng, góc nghiêng, đèn flash cứng trên máy cùng độ tương phản ánh sáng nóng-lạnh để khắc họa người phụ nữ quý phái mặc hán phục vừa ngoái đầu vừa phất tay áo.
 
 <img src="images/2098266045597519916-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1088,7 +1088,7 @@ Bài gốc：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/S
 **Câu lệnh**
 
 ```text
-Đang dịch
+góc nhìn cận cảnh siêu rộng (14~20mm), phối cảnh phóng đại, góc nghiêng dutch tilt 15°, méo hình dạng thùng nhẹ, thẩm mỹ chụp nhanh cầm tay, độ sâu mạnh mẽ: chủ thể sắc nét, các lớp hậu cảnh sâu, khoảng cách chủ thể 0.5m, đèn flash cứng trực tiếp từ máy ảnh, ánh sáng long lanh trong mắt rực rỡ, ánh sáng môi trường thiếu sáng 1~2 stop, ánh sáng flash giảm dần theo khoảng cách, điểm sáng gương trên da/trang sức, diện mạo ảnh chụp nhanh tốc độ màn trập cao dùng flash, chi tiết tần số cao, hạt phim vừa phải, hiệu ứng halation + vi tương phản, quang sai màu tinh tế, chuyển động do gió ở các cạnh viền, thẩm mỹ thời Đường Trung Hoa cổ đại, chợ đêm nhộn nhịp, nữ giới Đông Á, đường nét khuôn mặt tinh tế thanh tú, đôi mắt to biểu cảm, miệng nhỏ chúm chím như quả anh đào, thân hình vô cùng nở nang đẫy đà, vòng một lớn phóng đại, tiêu chuẩn thẩm mỹ cực cao, cấu trúc xương hoàn mỹ, chất da như sứ, địa vị cao quý, bóng dáng gọn gàng sắc nét, chất liệu cao cấp, giá trị sản xuất cao, ngoái nhìn qua vai với nụ cười tinh nghịch quyến rũ, bước đi nhanh qua đám đông dày đặc, một tay nâng tà áo lụa dệt tinh xảo lướt sát ống kính, đường phố Trường An sầm uất, lồng đèn giấy đỏ rực rỡ, người đi đường mặc hán phục truyền thống mờ nhòe do chuyển động, tia lửa bay ra từ các hàng quán ven đường, bầu không khí sôi động ngột ngạt, ánh đèn flash cứng lạnh lẽo trên chủ thể tiền cảnh tương phản với ánh sáng thực tế ấm áp của môi trường ở hậu cảnh, yếu tố 'Soran' tinh tế được lồng ghép tự nhiên vào hoa văn thêu trên vải lụa, chữ ký thẩm mỹ mờ nhạt, hòa quyện hữu cơ, bố cục hài hòa, không phô trương, gần như vô hình.
 ```
 
 [↑ Về danh mục](#catalog)
