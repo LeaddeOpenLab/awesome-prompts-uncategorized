@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**78** Prompts · Latest addition: **2026-09-11**
+**79** Prompts · Latest addition: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098490558474027231"></a>
+
+### Experimental fashion portrait in ultra-wide-angle perspective, with foreground hands creating a framing obstruction and accessories naturally engraved with brand watermarks.
+
+Author：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Source](https://x.com/FuguiChen1314/status/2098490558474027231)
+
+Photography · Portrait / Selfie · Fashion Item · Published
+
+**Summary:** Experimental fashion portrait in ultra-wide-angle perspective, with foreground hands creating a framing obstruction and accessories naturally engraved with brand watermarks.
+
+<img src="images/2098490558474027231-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098490558474027231-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+9:16 vertical orientation, real-life photorealistic experimental fashion portrait, adult East Asian female, outdoor environment with blue sky, greenery, and road, shot from an ultra-close-up ultra-wide-angle low camera angle. The subject's hands actively reach out toward the lens, with the foreground hands extremely close to the camera, noticeably enlarged by perspective distortion, significantly larger than the face behind them. The face is positioned on the second spatial layer behind the hands, creating a powerful three-tier spatial relationship: 'huge foreground hands + receding face + distant background environment'.\n\nOne palm closer to the lens is spread open, with the index and middle fingers pointing upward, the thumb extended sideways, and the other fingers naturally curled, while the other hand extends diagonally from the bottom of the frame, intersecting and forming an open geometric framing with the front hand. Both hands jointly form an irregular framing device, partially obscuring the subject's face and body, but must not completely block the eyes, bridge of the nose, and lips. Realistic hand skeletal anatomy, palm orientation, knuckle bending, wrist tension, and depth-of-field overlapping relationships must be strictly preserved, with an accurate number of fingers on both hands and no webbing or fusion.\n\nThe subject's head is slightly turned and tilted upward, with the jawline naturally defined from the low angle. The gaze is directed toward the camera, yet looking slightly past the fingers near the lens, avoiding a rigid stare. Natural upper eyelids, relaxed brow, lips slightly parted, with a calm, restrained, and subtly detached expression. Black or dark brownish-black hair slicked back, clean facial contours, with hair styling having lower visual weight than the hands and face.\n\nThe subject wears a pearl white, silver-white, or champagne white fitted satin camisole dress, the fabric featuring authentic silk or coated satin reflections, with soft blocky highlights appearing across the bust and waist areas. The hands are adorned with multiple champagne gold, rose gold, pearl, and pale gemstone rings, paired with delicate bracelets, pearl beaded bracelets, a necklace, and earrings. The jewelry must exhibit realistic metallic curvature, prongs, pearl iridescence, and contact shadows, avoiding any sense of cheap plastic accessories.\n\nThe background remains an authentic outdoor setting, with a large expanse of pale grey-blue sky occupying the upper and rear portions, dark green woods and grass flanking both sides, and a dark grey road extending from the bottom. A slightly tilted horizon is permissible to enhance the snapshot and experimental fashion editorial feel. The background maintains low frequency and lower visual weight, without complex buildings, billboards, vehicles, or other people.\n\nThe lighting employs a harsh front-on hard light or close-range direct flash feel; the subject's face, foreground hands, arms, jewelry, and silver-white satin attire are prominently illuminated, with distinct skin highlights, while palm lines and knuckles remain visible. The background retains natural daylight ambient lighting, with darker woods and a cooler sky. Skin tones maintain a natural warm-pink neutral balance, receiving only slight ambient reflection from the blue sky, without the entire face turning blue. The harsh hard light must produce realistic exposure contrast and slight highlight clipping, rather than becoming uniform studio soft light.\n\nColor ratio control: approximately 28% pale grey-blue sky, 21% warm-pink skin highlights, 16% silver-white and pearl-white clothing, 14% dark green-black woodland shadows, 12% medium natural green grass, 9% champagne gold and rose gold jewelry. Blue primarily governs the sky, green primarily governs the environment, and gold is concentrated in the jewelry, without diffusing into an overall uniform filter.\n\nThe overall aesthetic is modern photorealistic fashion photography, with prominent ultra-wide-angle close-up perspective distortion; the hands are massive yet retain realistic anatomical structure, the face is relatively small in scale, delivering a strong foreground-to-background spatial punch. The composition should feel experimental, on-location, and non-standard, avoiding traditional portrait compositions, standard selfie poses, generic finger hearts, and ordinary peace/V signs.\n\nSoran Three-Tier Natural Watermark\n\nFirst tier legible watermark: The precise text “Soran” is cleanly engraved on the outer band of a champagne gold wide ring closest to the lens, or on a small metal bracelet nameplate near the lens, resembling authentic luxury jewelry brand engraving, clearly legible to the naked eye, naturally conforming to the ring's curvature, finger bending, ultra-wide perspective, and metallic specular highlights.\n\nSecond tier hidden watermark: The hidden “Soran” is integrated into the pearl bracelet arrangement, necklace link structure, and specular creases of the silver-white satin garment.\n\nThird tier microscopic watermark: The microscopic “Soran” is subtly formed by the ring prongs, metallic micro-scratches, pearl stippling, fingernail highlight edges, and satin weave texture.\n\nAll Soran elements must appear as an authentic part of the luxury jewelry brand craftsmanship and material details—conspicuous, organic, tasteful, and never appearing as an overlaid graphic text.\n\nNegative prompt\n\ngeneric selfie, standard V-sign, finger heart, hands far from camera, hands and face similar in size, telephoto perspective, eye-level ordinary portrait, stiff direct stare into lens, standard model posing, incorrect fingers, extra fingers, missing fingers, fused fingers, deformed knuckles, wrong palm direction, twisted wrists, floating hands, hands lacking depth occlusion, face completely obscured, plastic skin, porcelain airbrushed skin, AI beauty face, anime face, perfectly symmetrical facial features, cheap jewelry, plastic metal, satin looking like plastic, studio backdrop, complex architectural background, extra people, HDR, over-sharpening, fake 8K detail, full-image blue filter, full-image green filter, full-image warm gold filter, extra readable text, extra brand names, external watermark, sticker-like logo, detached letters, captions, subtitles, floating text, oversized branding, flat pasted logo
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098398277095821330"></a>
 

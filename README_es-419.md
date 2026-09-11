@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**78** Prompts · Última incorporación: **2026-09-11**
+**79** Prompts · Última incorporación: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098490558474027231"></a>
+
+### Traducción en curso
+
+Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publicación original](https://x.com/FuguiChen1314/status/2098490558474027231)
+
+Fotografía · Retrato / Selfie · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098490558474027231-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098490558474027231-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098398277095821330"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**78** Prompts · Zuletzt hinzugefügt: **2026-09-11**
+**79** Prompts · Zuletzt hinzugefügt: **2026-09-11**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098490558474027231"></a>
+
+### Übersetzung läuft
+
+Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Originalbeitrag](https://x.com/FuguiChen1314/status/2098490558474027231)
+
+Fotografie · Porträt / Selfie · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098490558474027231-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098490558474027231-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098398277095821330"></a>
 
