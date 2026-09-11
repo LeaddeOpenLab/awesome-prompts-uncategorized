@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-11T20:22:26.684Z",
+  "model": "grok",
+  "prompt": "A mother ant is towing her cart of food with her son in tow. It starts rain, so she pulls under a large leaf that provides cover until the rain. She calls out to her son to stay close!",
+  "promptTranslations": {
+    "en": "A mother ant is towing her cart of food with her son in tow. It starts rain, so she pulls under a large leaf that provides cover until the rain. She calls out to her son to stay close!"
+  },
+  "summaryTranslations": {
+    "en": "A mother ant pulling a food cart with her son takes shelter from the rain under a large leaf."
+  },
+  "translationVersion": 2,
+  "summary": "A mother ant pulling a food cart with her son takes shelter from the rain under a large leaf.",
+  "summaryEn": "A mother ant pulling a food cart with her son takes shelter from the rain under a large leaf.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098498537466249640",
+    "canonicalUrl": "https://x.com/RobinMurrat43a/status/2098498537466249640",
+    "author": {
+      "username": "RobinMurrat43a",
+      "displayName": "Robin Murray",
+      "profileUrl": "https://x.com/RobinMurrat43a"
+    },
+    "publishedAt": "2026-09-11T19:46:54.000Z",
+    "collectedAt": "2026-09-11T20:15:58.107Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nA mother ant is towing her cart of food with her son in tow. It starts rain, so she pulls under a large leaf that provides cover until the rain. She calls out to her son to stay close! https://t.co/ZSZcrvZRmK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RobinMurrat43a/status/2098498537466249640",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg",
+        "analysisUrl": "https://x.com/RobinMurrat43a/status/2098498537466249640"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 17
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RobinMurrat43a/status/2098498537466249640",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098498360131108864/img/bH2qH8Q8qA1ULh3C.jpg",
+  "coverPath": "covers/2098498537466249640.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098498360131108864",
+    "x-post:2098498537466249640"
+  ],
+  "analysis": {
+    "summary": "A mother ant pulling a food cart with her son takes shelter from the rain under a large leaf.",
+    "summaryEn": "A mother ant pulling a food cart with her son takes shelter from the rain under a large leaf.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows the mother ant pulling a cart of food with her son, then sheltering together under a broad wet leaf while rain falls."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A mother ant is towing her cart of food with her son in tow. It starts rain, so she pulls under a large leaf that provides cover until the rain. She calls out to her son to stay close!",
+    "sourceRange": {
+      "start": 22,
+      "end": 206
+    },
+    "translations": {
+      "zh": "一只蚂蚁妈妈拉着装满食物的小车，带着儿子前行。天开始下雨，于是她躲到一片大叶子下避雨，并呼唤儿子紧跟着自己！",
+      "en": "A mother ant is towing her cart of food with her son in tow. It starts rain, so she pulls under a large leaf that provides cover until the rain. She calls out to her son to stay close!"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "Animation narrative video of an ant mother and son seeking shelter from rain.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
