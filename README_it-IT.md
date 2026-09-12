@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**118** Prompt · Ultima aggiunta: **2026-09-12**
+**130** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Fumetto / Graphic Novel](#category-comic-graphic-novel) · [Rendering 3D](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Fumetto / Graphic Novel](#category-comic-graphic-novel) · [Rendering 3D](#category-3d-render) · [Isometrico](#category-isometric) · [Pittura a Olio](#category-oil-painting) · [Acquerello](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1031,6 +1031,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2098780787936223258"></a>
+
+### Traduzione in corso
+
+Autore：[@im\_shahid7](https://x.com/im_shahid7) · [Post originale](https://x.com/im_shahid7/status/2098780787936223258)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098780787936223258.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### Ritratto cinematografico di lusso di un bell'uomo giovane in una biblioteca dark academia accanto a una scrivania antica.
@@ -1736,6 +1758,44 @@ Traduzione in corso
 
 ## Fumetto / Graphic Novel
 
+<a name="prompt-2098762652491374723"></a>
+
+### Traduzione in corso
+
+Autore：[@nanyuan0412](https://x.com/nanyuan0412) · [Post originale](https://x.com/nanyuan0412/status/2098762652491374723)
+
+Illustrazione · Fumetto / Graphic Novel · Personaggio · Pubblicato
+
+Post originale：[@nanyuan0412](https://x.com/nanyuan0412) · [Post originale](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098762652491374723-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### Ritratto caricaturale in 3D di donna adulta in stile comico esagerato con grandi occhi asimmetrici, naso grande, orecchie grandi e sorriso grottesco, con luce di contorno da studio.
@@ -1844,9 +1904,143 @@ Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticame
 
 ---
 
+<a name="category-isometric"></a>
+
+## Isometrico
+
+<a name="prompt-2098773122107523294"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098773122107523294)
+
+Poster / Volantino · Isometrico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098773122107523294-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## Pittura a Olio
+
+<a name="prompt-2098792248892625275"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098792248892625275)
+
+Poster / Volantino · Pittura a Olio · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098792248892625275-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Acquerello
+
+<a name="prompt-2098743938299666847"></a>
+
+### Traduzione in corso
+
+Autore：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Post originale](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+Illustrazione · Rendering 3D · Acquerello · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098743938299666847-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098774914970849306"></a>
+
+### Traduzione in corso
+
+Autore：[@rotavirus1980](https://x.com/rotavirus1980) · [Post originale](https://x.com/rotavirus1980/status/2098774914970849306)
+
+Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098774914970849306-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2098786437948944643)
+
+Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098786437948944643-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2203,6 +2397,144 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098790612799545375"></a>
+
+### Traduzione in corso
+
+Autore：[@owenxplore](https://x.com/owenxplore) · [Post originale](https://x.com/owenxplore/status/2098790612799545375)
+
+Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098790612799545375.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### Traduzione in corso
+
+Autore：[@0x\_fokki](https://x.com/0x_fokki) · [Post originale](https://x.com/0x_fokki/status/2098784945564983606)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098784945564983606.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### Traduzione in corso
+
+Autore：[@boniusex](https://x.com/boniusex) · [Post originale](https://x.com/boniusex/status/2098787760526205303)
+
+Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
+
+Post originale：[@nicebabycat](https://x.com/nicebabycat) · [Post originale](https://x.com/nicebabycat/status/2098669781750878509)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098787760526205303-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### Traduzione in corso
+
+Autore：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Post originale](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098760287524692407-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### Traduzione in corso
+
+Autore：[@underwoodxie96](https://x.com/underwoodxie96) · [Post originale](https://x.com/underwoodxie96/status/2098757292942635327)
+
+Ritratto / Selfie · Personaggio · Veicolo · Pubblicato
+
+Post originale：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Post originale](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098757292942635327-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="Immagine 6" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

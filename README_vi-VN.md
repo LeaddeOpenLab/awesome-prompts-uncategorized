@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**118** Prompt · Bổ sung mới nhất: **2026-09-12**
+**130** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render) · [Đẳng cự](#category-isometric) · [Tranh Sơn Dầu](#category-oil-painting) · [Màu nước](#category-watercolor) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1067,6 +1067,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2098780787936223258"></a>
+
+### Đang dịch
+
+Tác giả：[@im\_shahid7](https://x.com/im_shahid7) · [Bài gốc](https://x.com/im_shahid7/status/2098780787936223258)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098780787936223258.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### Chân dung điện ảnh xa xỉ của một chàng trai trẻ điển trai bên cạnh chiếc bàn cổ trong thư viện dark academia.
@@ -1771,6 +1793,44 @@ Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
 
 ## Truyện tranh / Tiểu thuyết đồ họa
 
+<a name="prompt-2098762652491374723"></a>
+
+### Đang dịch
+
+Tác giả：[@nanyuan0412](https://x.com/nanyuan0412) · [Bài gốc](https://x.com/nanyuan0412/status/2098762652491374723)
+
+Minh họa · Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Đã xuất bản
+
+Bài gốc：[@nanyuan0412](https://x.com/nanyuan0412) · [Bài gốc](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098762652491374723-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="Hình ảnh 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="Hình ảnh 8" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### Chân dung biếm họa phụ nữ trưởng thành phong cách hài kịch phóng đại 3D với đôi mắt to bất đối xứng, mũi to, tai to và nụ cười kỳ dị, cùng ánh sáng viền studio.
@@ -1879,9 +1939,143 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 
 ---
 
+<a name="category-isometric"></a>
+
+## Đẳng cự
+
+<a name="prompt-2098773122107523294"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098773122107523294)
+
+Áp phích / Tờ rơi · Đẳng cự · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098773122107523294-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## Tranh Sơn Dầu
+
+<a name="prompt-2098792248892625275"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098792248892625275)
+
+Áp phích / Tờ rơi · Tranh Sơn Dầu · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098792248892625275-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Màu nước
+
+<a name="prompt-2098743938299666847"></a>
+
+### Đang dịch
+
+Tác giả：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Bài gốc](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098743938299666847-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2098774914970849306"></a>
+
+### Đang dịch
+
+Tác giả：[@rotavirus1980](https://x.com/rotavirus1980) · [Bài gốc](https://x.com/rotavirus1980/status/2098774914970849306)
+
+Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098774914970849306-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2098786437948944643)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098786437948944643-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2248,6 +2442,144 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098790612799545375"></a>
+
+### Đang dịch
+
+Tác giả：[@owenxplore](https://x.com/owenxplore) · [Bài gốc](https://x.com/owenxplore/status/2098790612799545375)
+
+Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098790612799545375.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### Đang dịch
+
+Tác giả：[@0x\_fokki](https://x.com/0x_fokki) · [Bài gốc](https://x.com/0x_fokki/status/2098784945564983606)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098784945564983606.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### Đang dịch
+
+Tác giả：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2098787760526205303)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
+
+Bài gốc：[@nicebabycat](https://x.com/nicebabycat) · [Bài gốc](https://x.com/nicebabycat/status/2098669781750878509)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098787760526205303-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="Hình ảnh 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="Hình ảnh 8" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### Đang dịch
+
+Tác giả：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Bài gốc](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098760287524692407-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### Đang dịch
+
+Tác giả：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](https://x.com/underwoodxie96/status/2098757292942635327)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Phương tiện · Đã xuất bản
+
+Bài gốc：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Bài gốc](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098757292942635327-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="Hình ảnh 6" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

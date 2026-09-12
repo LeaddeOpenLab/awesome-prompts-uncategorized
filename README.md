@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**118** Prompts · Latest addition: **2026-09-12**
+**130** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render) · [Isometric](#category-isometric) · [Oil Painting](#category-oil-painting) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1290,6 +1290,33 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 
 ## Cinematic / Film Still
 
+<a name="prompt-2098780787936223258"></a>
+
+### 15-second cinematic shot sequence: A young man strolling through rainy neon streets at night, featuring a three-part camera movement of a rear view, side tracking shot, and frontal close-up, complete with audio instructions.
+
+Author：[@im\_shahid7](https://x.com/im_shahid7) · [Source](https://x.com/im_shahid7/status/2098780787936223258)
+
+Photography · Cinematic / Film Still · Character · Cityscape / Street · Published
+
+**Summary:** 15-second cinematic shot sequence: A young man strolling through rainy neon streets at night, featuring a three-part camera movement of a rear view, side tracking shot, and frontal close-up, complete with audio instructions.
+
+<img src="covers/2098780787936223258.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 15-second cinematic film sequence of a young man walking slowly through a modern city at night. Light rain falls continuously, creating reflections of glowing streetlights, colorful neon signs, storefronts, and passing cars across the wet pavement.
+0–5 seconds: Start with a wide cinematic shot from behind as the young man walks calmly down the rain-soaked street. His clothes and hair move naturally with the light breeze. Neon lights softly illuminate the surroundings.
+5–10 seconds: The camera smoothly moves alongside him in a slow tracking shot. He briefly looks toward the glowing city lights while rain droplets pass naturally in front of the lens. Background pedestrians and vehicles move realistically, slightly blurred.
+10–15 seconds: The camera slowly moves toward a front three-quarter close-up of his face. He continues walking with a peaceful, thoughtful expression while colorful city lights create beautiful soft bokeh behind him. End with a gentle cinematic push-in.
+Realistic human walking motion, natural body movement, realistic rain physics, wet pavement reflections, soft volumetric lighting, subtle atmospheric haze, shallow depth of field, realistic skin and clothing textures, smooth stabilized camera movement, cinematic 35mm lens, subtle film grain, high dynamic range, photorealistic 4K cinematic movie quality.
+Audio: Add soothing, relaxing cinematic background music throughout the entire sequence — soft ambient piano with gentle atmospheric pads, subtle rain ambience and distant city sounds. Music should feel peaceful, emotional and slightly nostalgic, remain low and unobtrusive, and smoothly build toward the final close-up. No vocals, no dialogue, no sudden beats, no dramatic music.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk.
@@ -1975,6 +2002,44 @@ Avoid: top-and-bottom comparisons, hard left-right split cuts, conventional pict
 
 ## Comic / Graphic Novel
 
+<a name="prompt-2098762652491374723"></a>
+
+### Prompt for an ancient-style comic cover featuring a mythical beast from the Classic of Mountains and Seas and a maiden in contract armor.
+
+Author：[@nanyuan0412](https://x.com/nanyuan0412) · [Source](https://x.com/nanyuan0412/status/2098762652491374723)
+
+Illustration · Comic / Graphic Novel · Character · Published
+
+Source：[@nanyuan0412](https://x.com/nanyuan0412) · [Source](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**Summary:** Prompt for an ancient-style comic cover featuring a mythical beast from the Classic of Mountains and Seas and a maiden in contract armor.
+
+<img src="images/2098762652491374723-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="Image 8" width="480" />
+
+**Prompt**
+
+```text
+A 23-year-old adult female, heroic female general archetype, tall and athletic, with an upright back and shoulders, a slender waist, and long legs, while preserving distinct, fluid feminine curves; high black ponytail, wearing a vermilion narrow-sleeved combat tunic with a small amount of black and gold armor. She stands in the dead center of a desolate valley, holding a spear that hangs naturally downward, looking calmly out of the frame. Crouching behind her is a Zheng as massive as a mountain, its giant red-leopard-like beast body covered with dark crimson and inky black markings, multiple long tails spreading to the left and right, and a solitary horn towering between its brows, forming an approximately symmetrical, colossal silhouette. The crimson beast emblem on the young woman's armor matches the pattern on the Zheng's forehead, distinctly expressing a guardian contract. The young woman is positioned at the lower exact center of the frame, with the mythical beast's head directly above her; the two sides of the valley are minimally symmetrical, retaining only mist and rock cliffs. Ancient picture-story book (lianhuanhua) × modern comic cover style, thick black ink lineart, localized hatching, cinnabar mineral pigment coloring, with ink black, vermilion, cream white, and antique gold as dominant colors.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### A 3D exaggerated comedic-style caricature portrait of an adult woman featuring asymmetrical large eyes, a big nose, oversized ears, and a goofy grin, complemented by studio rim lighting.
@@ -2073,9 +2138,143 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 
 ---
 
+<a name="category-isometric"></a>
+
+## Isometric
+
+<a name="prompt-2098773122107523294"></a>
+
+### Top-bottom comparison poster: Original photo on top, converted into an isometric paper-cut miniature diorama below.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098773122107523294)
+
+Poster / Flyer · Isometric · Published
+
+**Summary:** Top-bottom comparison poster: Original photo on top, converted into an isometric paper-cut miniature diorama below.
+
+<img src="images/2098773122107523294-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a 3:4 vertical top-bottom comparison poster from this ordinary travel photo. The upper half preserves the real travel photo of the same scene, labeled "ORIGINAL PHOTO". The lower half reconstructs the same scene into a centered isometric papercraft memory diorama: a floating square terrain base, 3/4 isometric perspective, retaining the relationships of the main architecture, mountains, coastline, roads, or arches from the original photo, using layered paper cutouts, facets, fine black line art, natural low-saturation colors, paper grain texture, and soft shadows. The lower half must be a true structured miniature model, not a photo filter or a flat illustration. Labeled "ISOMETRIC MEMORY DIORAMA", without people, logos, watermarks, or irrelevant objects.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## Oil Painting
+
+<a name="prompt-2098792248892625275"></a>
+
+### Convert a travel photo into a gallery-style top-and-bottom comparison poster, with the original photo on top and an abstract impasto palette knife oil painting below.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098792248892625275)
+
+Poster / Flyer · Oil Painting · Abstract / Background · Published
+
+**Summary:** Convert a travel photo into a gallery-style top-and-bottom comparison poster, with the original photo on top and an abstract impasto palette knife oil painting below.
+
+<img src="images/2098792248892625275-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Turn this ordinary travel photo into a 3:4 vertical gallery wall top-and-bottom comparison poster. The entire background is a warm white plaster wall, leaving a generous amount of continuous blank wall space. At the top, place a small real photo occupying only about 62%–68% of the canvas width, maintaining the original scene, perspective, subject relationships, and authentic photographic texture, labeled in small text with "ORIGINAL PHOTO". Below it, place an even smaller oil painting canvas, occupying only about 58%–64% of the width, with distinct wall space preserved all around. The oil painting must be derived from the same photo, but more heavily impastoed and more abstract: use extremely thick palette knife layering, raised paint, rough broken brushstrokes, scraped edges, prominent canvas texture, and large generalized color blocks, retaining only the silhouette of the subject, the direction of roads or landmarks, the horizon line, and primary color relationships. No detailed realism, no photo filters, no smooth digital painting. Only include "ORIGINAL PHOTO" and "OIL ON CANVAS", with no brands, logos, watermarks, or extraneous text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Watercolor
+
+<a name="prompt-2098743938299666847"></a>
+
+### A lone woman in a vivid red coat walks along a long wooden pier disappearing into thick morning fog, rendered in a soft watercolor style.
+
+Author：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Source](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+Illustration · 3D Render · Watercolor · Character · Published
+
+**Summary:** A lone woman in a vivid red coat walks along a long wooden pier disappearing into thick morning fog, rendered in a soft watercolor style.
+
+<img src="images/2098743938299666847-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A lone woman in a vivid red coat walks along a long wooden pier disappearing into thick morning fog, with only the nearest posts and railings still visible around her. The calm water below reflects just a faint trace of colour before everything fades into mist. Soft pastel-and-charcoal watercolor style, hazy layered textures, restrained tones, strong depth and a quiet cinematic atmosphere.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098774914970849306"></a>
+
+### Realistic fashion editorial portrait of a man under a lifeguard tower on the beach with a raised-arms pose and early 2000s retro styling.
+
+Author：[@rotavirus1980](https://x.com/rotavirus1980) · [Source](https://x.com/rotavirus1980/status/2098774914970849306)
+
+Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Realistic fashion editorial portrait of a man under a lifeguard tower on the beach with a raised-arms pose and early 2000s retro styling.
+
+<img src="images/2098774914970849306-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic fashion editorial portrait of an adult man identical to the reference image 1:1. He is standing under a metal lifeguard tower on a quiet sandy beach, photographed in soft golden hour light. The image should convey introspection, a touch of awkwardness, youth, and fashion-forwardness—like a late 90s or early 2000s European menswear editorial shot by the sea. He has hair of the color and shape from the reference. Clean-shaven face, defined cheekbones, straight eyebrows, natural pale lips, and a calm, slightly tired expression. His eyes are cast downward instead of looking directly at the camera, creating a quiet and distant mood. Clothing: an open three-button white shirt with a relaxed straight silhouette. Paired with very low-rise jeans in indigo blue with a relaxed straight-leg cut, visible contrast stitching, and a slightly worn vintage wash. A narrow strip of the lower abdomen is visible between the layered top and the low waistline, reinforcing the early 2000s style. Minimal accessories, no heavy jewelry, no hat, no sunglasses. Pose: standing directly under the metal structure with both arms fully raised above his head, hands gripping a weathered horizontal metal bar above him. Elbows extended, shoulders slightly raised, elongated torso. His head tilts gently downward, eyes nearly closed or looking toward the ground. Setting: quiet sandy beach with a calm blue-gray ocean stretching into the background and a clear pale sky. The subject is framed by a tall metal lifeguard tower. Empty beach, no crowds, no umbrellas. Lighting: soft coastal late afternoon light from one side, creating warm highlights across the face, the texture of the coat, the metal structure, and the sand, while maintaining an overall cool and muted palette. Soft shadows, subtle rim light, no harsh flash. Photography: 35mm analog fashion editorial, slight medium format softness, visible fine film grain, muted palette of blue, gray, butter-yellow, and dark denim, moderate depth of field, realistic skin texture, slightly underexposed shadows, understated vintage color grading, minimal retouching, photorealistic, high resolution. Composition: 4:5 vertical portrait, framed approximately from mid-thigh to above the raised hands, subject centered under the metal frame, ocean horizon crossing behind the shoulders, structural bars creating strong vertical and diagonal lines around the body, slightly imperfect editorial framing. Negative prompt: tropical resort, swimwear, shirtless styling, summer shorts, bright saturated beach colors, modern sportswear, formal suit, luxury yacht, crowded beach, exaggerated bodybuilder physique, bright studio lighting, harsh flash, extreme bokeh, plastic skin, distorted arms, extra fingers, malformed metal structure, duplicated limbs, cartoon, anime, illustration, CGI.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### Outdoor terrace portrait of a young East Asian woman with a short bob haircut, wearing a black strapless mini dress, black garter belt and sheer stockings, sitting on a woven chair, presenting a 2000s CCD flash photography aesthetic.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2098786437948944643)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Outdoor terrace portrait of a young East Asian woman with a short bob haircut, wearing a black strapless mini dress, black garter belt and sheer stockings, sitting on a woven chair, presenting a 2000s CCD flash photography aesthetic.
+
+<img src="images/2098786437948944643-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hyper-realistic outdoor terrace portrait photography, vertical orientation around 3:4 aspect ratio, a young adult East Asian woman, definitively adult, sitting sideways on a gray woven lounge chair, with a dark green forest, calm lake surface, and warm brown wooden railing behind her. The photographer is positioned roughly 1.5–2 meters directly in front and slightly to the left of the subject, using a 28–35mm equivalent focal length lens, with a camera position close to seat height tilted slightly upward, capturing the subject entirely from top of head to high heels, with the main subject occupying about 80% of the frame, showing slight smartphone wide-angle perspective distortion. The subject has a small-to-medium frame, narrow shoulders, a slender waist, naturally soft volume at the hips and thighs, and long legs, forming an overall compact and natural light hourglass proportion. No muscular/athletic physique, extreme wide hips, or overly thin waif-like proportions. The subject sits diagonally on the right side of the chair, torso oriented about 30° toward the front-left of the frame, upper body leaning slightly back, right hand propped on the right side of the seat cushion with the arm mostly straight; the outer side of the right forearm features a set of black-and-gray linework text/pattern tattoos. Her head tilts slightly to the left, face turned toward the camera, wearing a calm and aloof expression, lips naturally closed. The leg pose is the focal point: one leg is raised high with the knee bent, knee reaching near chest and abdomen height, with the lower leg slanting down to the left; the other leg is folded horizontally in front of the chair seat, creating a distinct interlaced layering between the two legs, a pose that is lazy yet stable. She has jet-black short bob hair, chin-length, smoothly rounded at the crown, with ends curled slightly inward; thick and neat blunt fringe bangs with slight texture graze the upper edge of her eyes, and the short side hair frames her face closely. Cool-toned fair skin, petite oval face shape, dark almond-shaped eyes, light pink eye makeup, and nude-pink lips, creating an overall Japanese cool-toned aesthetic makeup look. She wears a solid black strapless mini dress; the chest features a horizontal bandeau tube top structure with delicate tiny ruffles along the top edge, made of soft lightweight cotton or subtly crinkled fabric. The dress is loose-fitting yet naturally cinched at the waist, falling from the chest down to the upper thighs, with a hem that features multi-layered irregular micro-pleats and subtle ruffles. No tight bodycon skirts, no glossy leather. On her legs, she wears sheer black thigh-high stockings paired with a garter belt structure. The raised leg wears approximately 15–20D sheer smoky black stockings that clearly show skin tone underneath, with the welt situated near the upper thigh featuring a narrow black band. The other leg features a prominent wide black floral lace welt / garter band on the upper thigh, the lace showing semi-sheer patterns and subtle shimmering threads; several thin black garter straps extend diagonally from beneath the skirt hem down to the stockings' top band, creating a distinct yet clean garter structure. The stockings continue down, covering the calves and feet. No thick black socks, fishnets, or pantyhose. On her feet are black patent leather open-toe stiletto heeled sandals; the upper is composed of multiple thin black straps, with an ankle buckle strap accented by small silver metal hardware, featuring stilettos around 9–11cm high. The heel of the raised leg rests near the edge of the chair, while the other shoe is partially obscured by the legs. The chair has a gray metal frame with a gray-black woven backrest and a gray seat cushion. Behind the subject runs a warm brownish-red wooden terrace railing, with horizontal beams stretching across the frame; beyond the railing is a dense dark green forest and a quiet, elongated lake/river channel with deep dark-green water, layered with distant trees. The sky is overcast white and slightly overexposed, with no visible sun. The lighting combines natural overcast daylight with a subtle front direct flash / compact digital camera fill light; the subject's face, neck, shoulders, and exposed thighs are visibly illuminated, rendering the skin a cool fair tone; the forest and lake are slightly dim, creating subject-background separation. The overall image presents a 2000s Japanese digital camera / CCD outdoor photoshoot aesthetic: slight soft focus, direct flash look, minimal grain, limited dynamic range, and natural skin texture; avoid modern HDR and commercial over-sharpening. Key elements to retain: short black bob + thick bangs + black strapless ruffled mini dress + sitting sideways on gray chair + one leg raised with knee bent high + other leg folded horizontally + sheer black thigh-high stockings + wide floral lace welt bands + thin garter straps + black open-toe stiletto heels + right forearm tattoo + wooden terrace railing + forest and lake + overcast sky + vintage digital camera subtle direct flash aesthetic. Avoid: long hair, high ponytail, standing pose, straightened legs, standard black tights/pantyhose, white socks, lack of garter belt, thick cotton socks, long dresses, tight leather skirts, sneakers, chunky heels, indoor background, city streets, beach, harsh direct sunlight, cinematic color grading, heavy background blur/bokeh, anime face, CG look, plastic skin, extra limbs, watermarks, and garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2571,6 +2770,162 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098790612799545375"></a>
+
+### Ocean
+
+Author：[@owenxplore](https://x.com/owenxplore) · [Source](https://x.com/owenxplore/status/2098790612799545375)
+
+Landscape / Nature · Published
+
+**Summary:** Ocean
+
+<img src="covers/2098790612799545375.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ocean
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### 2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid.
+
+Author：[@0x\_fokki](https://x.com/0x_fokki) · [Source](https://x.com/0x_fokki/status/2098784945564983606)
+
+Other · Published
+
+**Summary:** 2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid.
+
+<img src="covers/2098784945564983606.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject / Setting
+
+Handheld historical documentary footage captured on a vintage early-2000s consumer digital video camcorder, depicting the active construction site of the Great Pyramid of Giza as if it were documented in real time.
+
+Action & Environment
+
+Hundreds of laborers and overseers operating on a massive stone ramp under a bright, dusty sky, hauling colossal limestone blocks on wooden sledges via thick ropes. The unfinished pyramid towers in the background, surrounded by heavy physical exertion, organized chaos, and swirling airborne dust.
+
+Camera Movement & Framing
+
+An organic, moving point-of-view perspective tracking right alongside a work crew. Features natural cuts between labor groups, tight close-ups on strained ropes and moving stone, and sudden upward tilts to emphasize the massive height of the monument.
+
+Technical Artifacts
+
+Authentic low-res digital imperfections including persistent hand shake, drifting composition, harsh exposure shifts, natural motion blur, and autofocus hunting reacting to bright sunlight and dust particles.
+
+Audio
+
+Purely diegetic ambient soundscape featuring rhythmic worker chants, heavy breathing, grunting, ropes groaning under immense tension, and stone grinding against the earth - completely devoid of musical score.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### Studio portrait of a woman in traditional Chinese wedding attire, red background and ornate floral crown headdress.
+
+Author：[@boniusex](https://x.com/boniusex) · [Source](https://x.com/boniusex/status/2098787760526205303)
+
+Portrait / Selfie · Character · Abstract / Background · Published
+
+Source：[@nicebabycat](https://x.com/nicebabycat) · [Source](https://x.com/nicebabycat/status/2098669781750878509)
+
+**Summary:** Studio portrait of a woman in traditional Chinese wedding attire, red background and ornate floral crown headdress.
+
+<img src="images/2098787760526205303-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="Image 8" width="480" />
+
+**Prompt**
+
+```text
+a detailed studio portrait of a woman in traditional chinese wedding attire against a solid red background. she wears a red garment featuring complex gold and blue embroidery. on her head is a large, elaborate crown of red and white artificial flowers, gold metalwork, and hanging bead tassels. her dark, wispy hair frames her face, and her makeup includes defined red lipstick. her left hand is raised slightly near her chin. in the top right corner, gold chinese characters "幸廟在畫房" are written vertically.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes.
+
+Author：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Source](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+Other · Published
+
+**Summary:** Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes.
+
+<img src="images/2098760287524692407-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+a close up shot focusing on a futuristic female cyborg face. her skin has a dark, weathered, stone like texture covered in subtle hieroglyphic patterns. a stream of glowing, fiery orange and gold liquid flows vertically down her face, creating a strong contrast. her eyes glow with a cold blue light, and her lips are dark and metallic. braided blue and gold cables hang down as hair, and the atmosphere is filled with small, warm glowing particles. the lighting is high contrast, accentuating the textures and glowing elements.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### A realistic portrait prompt of a 24-year-old Japanese woman looking down from a train seat POV.
+
+Author：[@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2098757292942635327)
+
+Portrait / Selfie · Character · Vehicle · Published
+
+Source：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Source](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**Summary:** A realistic portrait prompt of a 24-year-old Japanese woman looking down from a train seat POV.
+
+<img src="images/2098757292942635327-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="Image 6" width="480" />
+
+**Prompt**
+
+```text
+24 years old, Japanese woman, train, standing directly in front, holding onto a high hanging strap, showing armpit, sleeveless, low-cut clothing, looking straight ahead, condescending expression, POV of a person sitting in a seat, smartphone photo, realistic texture, vertical orientation
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

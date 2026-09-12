@@ -19,13 +19,13 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**118** 筆內容 · 最新收錄: **2026-09-12**
+**130** 筆內容 · 最新收錄: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## 分類目錄
 
-[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [漫畫 / 圖像小說](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render) · [復古 / 懷舊](#category-retro-vintage) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [極簡主義](#category-minimalism) · [其他](#category-other)
+[攝影](#category-photography) · [電影感 / 電影劇照](#category-cinematic-film-still) · [動畫 / 漫畫](#category-anime-manga) · [插圖](#category-illustration) · [草圖 / 線稿](#category-sketch-line-art) · [漫畫 / 圖像小說](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render) · [等距視角](#category-isometric) · [油畫](#category-oil-painting) · [水彩](#category-watercolor) · [復古 / 懷舊](#category-retro-vintage) · [賽博龐克 / 科幻](#category-cyberpunk-sci-fi) · [極簡主義](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1062,6 +1062,28 @@ CGI毛髮、
 
 ## 電影感 / 電影劇照
 
+<a name="prompt-2098780787936223258"></a>
+
+### 翻譯中
+
+作者：[@im\_shahid7](https://x.com/im_shahid7) · [查看 X 原帖](https://x.com/im_shahid7/status/2098780787936223258)
+
+攝影 · 電影感 / 電影劇照 · 角色 · 城市景觀 / 街道 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098780787936223258.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### 一位英俊年輕男子在暗黑學院風圖書館古董書桌旁的電影感奢華肖像。
@@ -1767,6 +1789,44 @@ CGI毛髮、
 
 ## 漫畫 / 圖像小說
 
+<a name="prompt-2098762652491374723"></a>
+
+### 翻譯中
+
+作者：[@nanyuan0412](https://x.com/nanyuan0412) · [查看 X 原帖](https://x.com/nanyuan0412/status/2098762652491374723)
+
+插圖 · 漫畫 / 圖像小說 · 角色 · 已推流
+
+查看 X 原帖：[@nanyuan0412](https://x.com/nanyuan0412) · [查看 X 原帖](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**概括:** 翻譯中
+
+<img src="images/2098762652491374723-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="圖片 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="圖片 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="圖片 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="圖片 8" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### 3D誇張喜劇風格成年女性漫畫肖像，具有不對稱大眼、大鼻、大耳與怪誕笑容，搭配工作室輪廓光。
@@ -1875,9 +1935,143 @@ CGI毛髮、
 
 ---
 
+<a name="category-isometric"></a>
+
+## 等距視角
+
+<a name="prompt-2098773122107523294"></a>
+
+### 翻譯中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2098773122107523294)
+
+海報／傳單 · 等距視角 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098773122107523294-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## 油畫
+
+<a name="prompt-2098792248892625275"></a>
+
+### 翻譯中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2098792248892625275)
+
+海報／傳單 · 油畫 · 摘要 / 背景 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098792248892625275-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## 水彩
+
+<a name="prompt-2098743938299666847"></a>
+
+### 翻譯中
+
+作者：[@BeanieBlossom](https://x.com/BeanieBlossom) · [查看 X 原帖](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+插圖 · 3D 渲染 · 水彩 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098743938299666847-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## 復古 / 懷舊
+
+<a name="prompt-2098774914970849306"></a>
+
+### 翻譯中
+
+作者：[@rotavirus1980](https://x.com/rotavirus1980) · [查看 X 原帖](https://x.com/rotavirus1980/status/2098774914970849306)
+
+復古 / 懷舊 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098774914970849306-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### 翻譯中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2098786437948944643)
+
+攝影 · 復古 / 懷舊 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098786437948944643-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2232,6 +2426,144 @@ FIELD NOTE [編號]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098790612799545375"></a>
+
+### 翻譯中
+
+作者：[@owenxplore](https://x.com/owenxplore) · [查看 X 原帖](https://x.com/owenxplore/status/2098790612799545375)
+
+風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098790612799545375.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### 翻譯中
+
+作者：[@0x\_fokki](https://x.com/0x_fokki) · [查看 X 原帖](https://x.com/0x_fokki/status/2098784945564983606)
+
+其他 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098784945564983606.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### 翻譯中
+
+作者：[@boniusex](https://x.com/boniusex) · [查看 X 原帖](https://x.com/boniusex/status/2098787760526205303)
+
+人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
+
+查看 X 原帖：[@nicebabycat](https://x.com/nicebabycat) · [查看 X 原帖](https://x.com/nicebabycat/status/2098669781750878509)
+
+**概括:** 翻譯中
+
+<img src="images/2098787760526205303-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="圖片 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="圖片 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="圖片 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="圖片 8" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### 翻譯中
+
+作者：[@RobotCleopatra](https://x.com/RobotCleopatra) · [查看 X 原帖](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+其他 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098760287524692407-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### 翻譯中
+
+作者：[@underwoodxie96](https://x.com/underwoodxie96) · [查看 X 原帖](https://x.com/underwoodxie96/status/2098757292942635327)
+
+人像 / 自拍 · 角色 · 車輛 · 已推流
+
+查看 X 原帖：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [查看 X 原帖](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**概括:** 翻譯中
+
+<img src="images/2098757292942635327-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="圖片 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="圖片 6" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

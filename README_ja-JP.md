@@ -19,13 +19,13 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**118** 件 · 最新の追加: **2026-09-12**
+**130** 件 · 最新の追加: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## カテゴリから探す
 
-[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [コミック / グラフィックノベル](#category-comic-graphic-novel) · [3D レンダリング](#category-3d-render) · [レトロ / ヴィンテージ](#category-retro-vintage) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
+[写真撮影](#category-photography) · [シネマティック / フィルムスチル](#category-cinematic-film-still) · [アニメ / 漫画](#category-anime-manga) · [イラスト](#category-illustration) · [スケッチ / 線画](#category-sketch-line-art) · [コミック / グラフィックノベル](#category-comic-graphic-novel) · [3D レンダリング](#category-3d-render) · [アイソメトリック](#category-isometric) · [油絵](#category-oil-painting) · [水彩](#category-watercolor) · [レトロ / ヴィンテージ](#category-retro-vintage) · [サイバーパンク / SF](#category-cyberpunk-sci-fi) · [ミニマリズム](#category-minimalism) · [その他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1061,6 +1061,28 @@ CGI毛皮、
 
 ## シネマティック / フィルムスチル
 
+<a name="prompt-2098780787936223258"></a>
+
+### 翻訳中
+
+作者：[@im\_shahid7](https://x.com/im_shahid7) · [元の投稿](https://x.com/im_shahid7/status/2098780787936223258)
+
+写真撮影 · シネマティック / フィルムスチル · キャラクター · 街並み / ストリート · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2098780787936223258.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### ダークアカデミアの図書館でアンティークデスクの傍らに佇むハンサムな若い男性のシネマティックなラグジュアリーポートレート。
@@ -1766,6 +1788,44 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 
 ## コミック / グラフィックノベル
 
+<a name="prompt-2098762652491374723"></a>
+
+### 翻訳中
+
+作者：[@nanyuan0412](https://x.com/nanyuan0412) · [元の投稿](https://x.com/nanyuan0412/status/2098762652491374723)
+
+イラスト · コミック / グラフィックノベル · キャラクター · 配信済み
+
+元の投稿：[@nanyuan0412](https://x.com/nanyuan0412) · [元の投稿](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**概要:** 翻訳中
+
+<img src="images/2098762652491374723-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="画像 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="画像 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="画像 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="画像 8" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### 非対称な大きな目、大きな鼻、大きな耳、おどけた笑みを持ち、スタジオリムライティングで照らされた、3D誇張コメディスタイルの成人女性風刺画ポートレート。
@@ -1874,9 +1934,143 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 
 ---
 
+<a name="category-isometric"></a>
+
+## アイソメトリック
+
+<a name="prompt-2098773122107523294"></a>
+
+### 翻訳中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [元の投稿](https://x.com/Hamburgerai/status/2098773122107523294)
+
+ポスター / チラシ · アイソメトリック · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098773122107523294-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## 油絵
+
+<a name="prompt-2098792248892625275"></a>
+
+### 翻訳中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [元の投稿](https://x.com/Hamburgerai/status/2098792248892625275)
+
+ポスター / チラシ · 油絵 · 要旨 / 背景 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098792248892625275-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## 水彩
+
+<a name="prompt-2098743938299666847"></a>
+
+### 翻訳中
+
+作者：[@BeanieBlossom](https://x.com/BeanieBlossom) · [元の投稿](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+イラスト · 3D レンダリング · 水彩 · キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098743938299666847-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## レトロ / ヴィンテージ
+
+<a name="prompt-2098774914970849306"></a>
+
+### 翻訳中
+
+作者：[@rotavirus1980](https://x.com/rotavirus1980) · [元の投稿](https://x.com/rotavirus1980/status/2098774914970849306)
+
+レトロ / ヴィンテージ · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098774914970849306-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### 翻訳中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [元の投稿](https://x.com/DDJCXX/status/2098786437948944643)
+
+写真撮影 · レトロ / ヴィンテージ · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098786437948944643-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2231,6 +2425,144 @@ FIELD NOTE [番号]
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2098790612799545375"></a>
+
+### 翻訳中
+
+作者：[@owenxplore](https://x.com/owenxplore) · [元の投稿](https://x.com/owenxplore/status/2098790612799545375)
+
+風景 / 自然 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2098790612799545375.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### 翻訳中
+
+作者：[@0x\_fokki](https://x.com/0x_fokki) · [元の投稿](https://x.com/0x_fokki/status/2098784945564983606)
+
+その他 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2098784945564983606.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### 翻訳中
+
+作者：[@boniusex](https://x.com/boniusex) · [元の投稿](https://x.com/boniusex/status/2098787760526205303)
+
+ポートレート / セルフィー · キャラクター · 要旨 / 背景 · 配信済み
+
+元の投稿：[@nicebabycat](https://x.com/nicebabycat) · [元の投稿](https://x.com/nicebabycat/status/2098669781750878509)
+
+**概要:** 翻訳中
+
+<img src="images/2098787760526205303-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="画像 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="画像 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="画像 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="画像 8" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### 翻訳中
+
+作者：[@RobotCleopatra](https://x.com/RobotCleopatra) · [元の投稿](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+その他 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098760287524692407-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### 翻訳中
+
+作者：[@underwoodxie96](https://x.com/underwoodxie96) · [元の投稿](https://x.com/underwoodxie96/status/2098757292942635327)
+
+ポートレート / セルフィー · キャラクター · 車両 · 配信済み
+
+元の投稿：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [元の投稿](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**概要:** 翻訳中
+
+<img src="images/2098757292942635327-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="画像 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="画像 6" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

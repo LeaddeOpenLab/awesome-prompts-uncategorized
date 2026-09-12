@@ -19,13 +19,13 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**118** 条内容 · 最新收录: **2026-09-12**
+**130** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## 分类目录
 
-[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [漫画 / 图画小说](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render) · [复古 / 怀旧](#category-retro-vintage) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [极简主义](#category-minimalism) · [其他](#category-other)
+[摄影](#category-photography) · [电影 / 电影剧照](#category-cinematic-film-still) · [动漫 / 漫画](#category-anime-manga) · [插画](#category-illustration) · [草图 / 线稿](#category-sketch-line-art) · [漫画 / 图画小说](#category-comic-graphic-novel) · [3D 渲染](#category-3d-render) · [等距](#category-isometric) · [油画](#category-oil-painting) · [水彩画](#category-watercolor) · [复古 / 怀旧](#category-retro-vintage) · [赛博朋克 / 科幻](#category-cyberpunk-sci-fi) · [极简主义](#category-minimalism) · [其他](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1062,6 +1062,28 @@ CGI毛发、
 
 ## 电影 / 电影剧照
 
+<a name="prompt-2098780787936223258"></a>
+
+### 翻译中
+
+作者：[@im\_shahid7](https://x.com/im_shahid7) · [查看 X 原帖](https://x.com/im_shahid7/status/2098780787936223258)
+
+摄影 · 电影 / 电影剧照 · 角色 · 城市风光 / 街道 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098780787936223258.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### 一位英俊年轻男子在暗黑学院风图书馆古董书桌旁的电影感奢华肖像。
@@ -1767,6 +1789,44 @@ CGI毛发、
 
 ## 漫画 / 图画小说
 
+<a name="prompt-2098762652491374723"></a>
+
+### 翻译中
+
+作者：[@nanyuan0412](https://x.com/nanyuan0412) · [查看 X 原帖](https://x.com/nanyuan0412/status/2098762652491374723)
+
+插画 · 漫画 / 图画小说 · 角色 · 已推流
+
+查看 X 原帖：[@nanyuan0412](https://x.com/nanyuan0412) · [查看 X 原帖](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**概括:** 翻译中
+
+<img src="images/2098762652491374723-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="图片 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="图片 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="图片 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="图片 8" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### 3D夸张喜剧风格成年女性漫画肖像，具有不对称大眼、大鼻、大耳与怪诞笑容，搭配工作室轮廓光。
@@ -1875,9 +1935,143 @@ CGI毛发、
 
 ---
 
+<a name="category-isometric"></a>
+
+## 等距
+
+<a name="prompt-2098773122107523294"></a>
+
+### 翻译中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2098773122107523294)
+
+海报 / 传单 · 等距 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098773122107523294-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## 油画
+
+<a name="prompt-2098792248892625275"></a>
+
+### 翻译中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2098792248892625275)
+
+海报 / 传单 · 油画 · 摘要 / 背景 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098792248892625275-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## 水彩画
+
+<a name="prompt-2098743938299666847"></a>
+
+### 翻译中
+
+作者：[@BeanieBlossom](https://x.com/BeanieBlossom) · [查看 X 原帖](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+插画 · 3D 渲染 · 水彩画 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098743938299666847-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## 复古 / 怀旧
+
+<a name="prompt-2098774914970849306"></a>
+
+### 翻译中
+
+作者：[@rotavirus1980](https://x.com/rotavirus1980) · [查看 X 原帖](https://x.com/rotavirus1980/status/2098774914970849306)
+
+复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098774914970849306-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### 翻译中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2098786437948944643)
+
+摄影 · 复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098786437948944643-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2232,6 +2426,144 @@ FIELD NOTE [编号]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098790612799545375"></a>
+
+### 翻译中
+
+作者：[@owenxplore](https://x.com/owenxplore) · [查看 X 原帖](https://x.com/owenxplore/status/2098790612799545375)
+
+风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098790612799545375.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### 翻译中
+
+作者：[@0x\_fokki](https://x.com/0x_fokki) · [查看 X 原帖](https://x.com/0x_fokki/status/2098784945564983606)
+
+其他 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098784945564983606.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### 翻译中
+
+作者：[@boniusex](https://x.com/boniusex) · [查看 X 原帖](https://x.com/boniusex/status/2098787760526205303)
+
+人像 / 自拍 · 角色 · 摘要 / 背景 · 已推流
+
+查看 X 原帖：[@nicebabycat](https://x.com/nicebabycat) · [查看 X 原帖](https://x.com/nicebabycat/status/2098669781750878509)
+
+**概括:** 翻译中
+
+<img src="images/2098787760526205303-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="图片 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="图片 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="图片 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="图片 8" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### 翻译中
+
+作者：[@RobotCleopatra](https://x.com/RobotCleopatra) · [查看 X 原帖](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+其他 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098760287524692407-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### 翻译中
+
+作者：[@underwoodxie96](https://x.com/underwoodxie96) · [查看 X 原帖](https://x.com/underwoodxie96/status/2098757292942635327)
+
+人像 / 自拍 · 角色 · 车辆 · 已推流
+
+查看 X 原帖：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [查看 X 原帖](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**概括:** 翻译中
+
+<img src="images/2098757292942635327-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="图片 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="图片 6" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

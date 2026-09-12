@@ -19,13 +19,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**118** 개 · 최근 추가: **2026-09-12**
+**130** 개 · 최근 추가: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## 카테고리 탐색
 
-[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [만화 / 그래픽 노블](#category-comic-graphic-novel) · [3D 렌더링](#category-3d-render) · [레트로 / 빈티지](#category-retro-vintage) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
+[사진술](#category-photography) · [시네마틱 / 영화 스틸컷](#category-cinematic-film-still) · [애니메이션 / 만화](#category-anime-manga) · [일러스트레이션](#category-illustration) · [스케치 / 선화](#category-sketch-line-art) · [만화 / 그래픽 노블](#category-comic-graphic-novel) · [3D 렌더링](#category-3d-render) · [아이소메트릭](#category-isometric) · [유화](#category-oil-painting) · [수채화](#category-watercolor) · [레트로 / 빈티지](#category-retro-vintage) · [사이버펑크 / SF](#category-cyberpunk-sci-fi) · [미니멀리즘](#category-minimalism) · [기타](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1061,6 +1061,28 @@ CGI 털,
 
 ## 시네마틱 / 영화 스틸컷
 
+<a name="prompt-2098780787936223258"></a>
+
+### 번역 중
+
+작성자：[@im\_shahid7](https://x.com/im_shahid7) · [원본 게시물](https://x.com/im_shahid7/status/2098780787936223258)
+
+사진술 · 시네마틱 / 영화 스틸컷 · 캐릭터 · 도시 풍경 / 거리 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2098780787936223258.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### 다크 아카데미아 도서관의 앤틱 책상 옆에 선 잘생긴 젊은 남성의 시네마틱 럭셔리 초상화.
@@ -1766,6 +1788,44 @@ CGI 털,
 
 ## 만화 / 그래픽 노블
 
+<a name="prompt-2098762652491374723"></a>
+
+### 번역 중
+
+작성자：[@nanyuan0412](https://x.com/nanyuan0412) · [원본 게시물](https://x.com/nanyuan0412/status/2098762652491374723)
+
+일러스트레이션 · 만화 / 그래픽 노블 · 캐릭터 · 배포 완료
+
+원본 게시물：[@nanyuan0412](https://x.com/nanyuan0412) · [원본 게시물](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**요약:** 번역 중
+
+<img src="images/2098762652491374723-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="이미지 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="이미지 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="이미지 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="이미지 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="이미지 8" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### 비대칭의 큰 눈, 큰 코, 큰 귀와 기괴한 미소를 지닌 3D 과장 코미디 스타일의 성인 여성 캐리커처 초상화, 스튜디오 림 라이트 조명.
@@ -1874,9 +1934,143 @@ CGI 털,
 
 ---
 
+<a name="category-isometric"></a>
+
+## 아이소메트릭
+
+<a name="prompt-2098773122107523294"></a>
+
+### 번역 중
+
+작성자：[@Hamburgerai](https://x.com/Hamburgerai) · [원본 게시물](https://x.com/Hamburgerai/status/2098773122107523294)
+
+포스터 / 전단지 · 아이소메트릭 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098773122107523294-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## 유화
+
+<a name="prompt-2098792248892625275"></a>
+
+### 번역 중
+
+작성자：[@Hamburgerai](https://x.com/Hamburgerai) · [원본 게시물](https://x.com/Hamburgerai/status/2098792248892625275)
+
+포스터 / 전단지 · 유화 · 초록 / 배경 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098792248892625275-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## 수채화
+
+<a name="prompt-2098743938299666847"></a>
+
+### 번역 중
+
+작성자：[@BeanieBlossom](https://x.com/BeanieBlossom) · [원본 게시물](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+일러스트레이션 · 3D 렌더링 · 수채화 · 캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098743938299666847-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## 레트로 / 빈티지
+
+<a name="prompt-2098774914970849306"></a>
+
+### 번역 중
+
+작성자：[@rotavirus1980](https://x.com/rotavirus1980) · [원본 게시물](https://x.com/rotavirus1980/status/2098774914970849306)
+
+레트로 / 빈티지 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098774914970849306-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### 번역 중
+
+작성자：[@DDJCXX](https://x.com/DDJCXX) · [원본 게시물](https://x.com/DDJCXX/status/2098786437948944643)
+
+사진술 · 레트로 / 빈티지 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098786437948944643-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2231,6 +2425,144 @@ FIELD NOTE [번호]
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2098790612799545375"></a>
+
+### 번역 중
+
+작성자：[@owenxplore](https://x.com/owenxplore) · [원본 게시물](https://x.com/owenxplore/status/2098790612799545375)
+
+풍경 / 자연 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2098790612799545375.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### 번역 중
+
+작성자：[@0x\_fokki](https://x.com/0x_fokki) · [원본 게시물](https://x.com/0x_fokki/status/2098784945564983606)
+
+기타 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2098784945564983606.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### 번역 중
+
+작성자：[@boniusex](https://x.com/boniusex) · [원본 게시물](https://x.com/boniusex/status/2098787760526205303)
+
+인물 사진 / 셀카 · 캐릭터 · 초록 / 배경 · 배포 완료
+
+원본 게시물：[@nicebabycat](https://x.com/nicebabycat) · [원본 게시물](https://x.com/nicebabycat/status/2098669781750878509)
+
+**요약:** 번역 중
+
+<img src="images/2098787760526205303-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="이미지 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="이미지 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="이미지 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="이미지 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="이미지 8" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### 번역 중
+
+작성자：[@RobotCleopatra](https://x.com/RobotCleopatra) · [원본 게시물](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+기타 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098760287524692407-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### 번역 중
+
+작성자：[@underwoodxie96](https://x.com/underwoodxie96) · [원본 게시물](https://x.com/underwoodxie96/status/2098757292942635327)
+
+인물 사진 / 셀카 · 캐릭터 · 차량 · 배포 완료
+
+원본 게시물：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [원본 게시물](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**요약:** 번역 중
+
+<img src="images/2098757292942635327-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="이미지 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="이미지 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="이미지 6" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

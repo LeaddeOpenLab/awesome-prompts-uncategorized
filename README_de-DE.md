@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**118** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**130** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D-Rendering](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D-Rendering](#category-3d-render) · [Isometrisch](#category-isometric) · [Ölgemälde](#category-oil-painting) · [Aquarell](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1031,6 +1031,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2098780787936223258"></a>
+
+### Übersetzung läuft
+
+Autor：[@im\_shahid7](https://x.com/im_shahid7) · [Originalbeitrag](https://x.com/im_shahid7/status/2098780787936223258)
+
+Fotografie · Kinematisch / Filmstill · Charakter · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098780787936223258.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### Filmreifes Luxusporträt eines gutaussehenden jungen Mannes in einer Dark-Academia-Bibliothek neben einem antiken Schreibtisch.
@@ -1736,6 +1758,44 @@ Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 
 ## Comic / Graphic Novel
 
+<a name="prompt-2098762652491374723"></a>
+
+### Übersetzung läuft
+
+Autor：[@nanyuan0412](https://x.com/nanyuan0412) · [Originalbeitrag](https://x.com/nanyuan0412/status/2098762652491374723)
+
+Illustration · Comic / Graphic Novel · Charakter · Veröffentlicht
+
+Originalbeitrag：[@nanyuan0412](https://x.com/nanyuan0412) · [Originalbeitrag](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098762652491374723-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="Bild 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="Bild 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="Bild 8" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### 3D-übertriebenes Comedy-Karikaturporträt einer erwachsenen Frau mit asymmetrischen großen Augen, großer Nase, großen Ohren und bizarrem Lächeln, akzentuiert durch Studio-Kantenlicht.
@@ -1844,9 +1904,143 @@ Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhet
 
 ---
 
+<a name="category-isometric"></a>
+
+## Isometrisch
+
+<a name="prompt-2098773122107523294"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2098773122107523294)
+
+Plakat / Flyer · Isometrisch · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098773122107523294-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## Ölgemälde
+
+<a name="prompt-2098792248892625275"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2098792248892625275)
+
+Plakat / Flyer · Ölgemälde · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098792248892625275-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Aquarell
+
+<a name="prompt-2098743938299666847"></a>
+
+### Übersetzung läuft
+
+Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Originalbeitrag](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+Illustration · 3D-Rendering · Aquarell · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098743938299666847-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098774914970849306"></a>
+
+### Übersetzung läuft
+
+Autor：[@rotavirus1980](https://x.com/rotavirus1980) · [Originalbeitrag](https://x.com/rotavirus1980/status/2098774914970849306)
+
+Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098774914970849306-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2098786437948944643)
+
+Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098786437948944643-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2203,6 +2397,144 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098790612799545375"></a>
+
+### Übersetzung läuft
+
+Autor：[@owenxplore](https://x.com/owenxplore) · [Originalbeitrag](https://x.com/owenxplore/status/2098790612799545375)
+
+Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098790612799545375.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### Übersetzung läuft
+
+Autor：[@0x\_fokki](https://x.com/0x_fokki) · [Originalbeitrag](https://x.com/0x_fokki/status/2098784945564983606)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098784945564983606.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### Übersetzung läuft
+
+Autor：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2098787760526205303)
+
+Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
+
+Originalbeitrag：[@nicebabycat](https://x.com/nicebabycat) · [Originalbeitrag](https://x.com/nicebabycat/status/2098669781750878509)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098787760526205303-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="Bild 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="Bild 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="Bild 8" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### Übersetzung läuft
+
+Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Originalbeitrag](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098760287524692407-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### Übersetzung läuft
+
+Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Originalbeitrag](https://x.com/underwoodxie96/status/2098757292942635327)
+
+Porträt / Selfie · Charakter · Fahrzeug · Veröffentlicht
+
+Originalbeitrag：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Originalbeitrag](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098757292942635327-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="Bild 6" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

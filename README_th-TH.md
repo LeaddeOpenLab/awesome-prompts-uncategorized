@@ -19,13 +19,13 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**118** รายการ · เพิ่มล่าสุด: **2026-09-12**
+**130** รายการ · เพิ่มล่าสุด: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## เรียกดูตามหมวดหมู่
 
-[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [อนิเมะ / มังงะ](#category-anime-manga) · [ภาพประกอบ](#category-illustration) · [ภาพร่าง / ลายเส้น](#category-sketch-line-art) · [การ์ตูน / นิยายภาพ](#category-comic-graphic-novel) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [ไซเบอร์พังก์ / ไซไฟ](#category-cyberpunk-sci-fi) · [มินิมอลลิสต์](#category-minimalism) · [อื่น ๆ](#category-other)
+[การถ่ายภาพ](#category-photography) · [ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์](#category-cinematic-film-still) · [อนิเมะ / มังงะ](#category-anime-manga) · [ภาพประกอบ](#category-illustration) · [ภาพร่าง / ลายเส้น](#category-sketch-line-art) · [การ์ตูน / นิยายภาพ](#category-comic-graphic-novel) · [ภาพเรนเดอร์ 3 มิติ](#category-3d-render) · [ไอโซเมตริก](#category-isometric) · [ภาพวาดสีน้ำมัน](#category-oil-painting) · [สีน้ำ](#category-watercolor) · [ย้อนยุค / วินเทจ](#category-retro-vintage) · [ไซเบอร์พังก์ / ไซไฟ](#category-cyberpunk-sci-fi) · [มินิมอลลิสต์](#category-minimalism) · [อื่น ๆ](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1067,6 +1067,28 @@ CLOUD DOPPELGÄNGER — พรอมต์หลักภาพถ่ายจ�
 
 ## ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์
 
+<a name="prompt-2098780787936223258"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@im\_shahid7](https://x.com/im_shahid7) · [โพสต์ต้นฉบับ](https://x.com/im_shahid7/status/2098780787936223258)
+
+การถ่ายภาพ · ภาพยนตร์ / ภาพนิ่งจากภาพยนตร์ · ตัวละคร · ทิวทัศน์เมือง / ถนน · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2098780787936223258.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### ภาพพอร์ตเทรตหรูหราสไตล์ภาพยนตร์ของชายหนุ่มรูปหล่อข้างโต๊ะโบราณในห้องสมุดดาร์ก อะคาเดเมีย
@@ -1771,6 +1793,44 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 
 ## การ์ตูน / นิยายภาพ
 
+<a name="prompt-2098762652491374723"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@nanyuan0412](https://x.com/nanyuan0412) · [โพสต์ต้นฉบับ](https://x.com/nanyuan0412/status/2098762652491374723)
+
+ภาพประกอบ · การ์ตูน / นิยายภาพ · ตัวละคร · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@nanyuan0412](https://x.com/nanyuan0412) · [โพสต์ต้นฉบับ](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098762652491374723-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="รูปภาพ 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="รูปภาพ 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="รูปภาพ 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="รูปภาพ 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="รูปภาพ 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="รูปภาพ 8" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### ภาพเหมือนล้อเลียนหญิงวัยผู้ใหญ่สไตล์คอมเมดี้เกินจริงแบบ 3D พร้อมตาโตไม่สมมาตร จมูกโต หูโต และรอยยิ้มพิลึก พร้อมแสงขอบสตูดิโอ
@@ -1879,9 +1939,143 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 
 ---
 
+<a name="category-isometric"></a>
+
+## ไอโซเมตริก
+
+<a name="prompt-2098773122107523294"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@Hamburgerai](https://x.com/Hamburgerai) · [โพสต์ต้นฉบับ](https://x.com/Hamburgerai/status/2098773122107523294)
+
+โปสเตอร์ / ใบปลิว · ไอโซเมตริก · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098773122107523294-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="รูปภาพ 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="รูปภาพ 4" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## ภาพวาดสีน้ำมัน
+
+<a name="prompt-2098792248892625275"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@Hamburgerai](https://x.com/Hamburgerai) · [โพสต์ต้นฉบับ](https://x.com/Hamburgerai/status/2098792248892625275)
+
+โปสเตอร์ / ใบปลิว · ภาพวาดสีน้ำมัน · บทคัดย่อ / ความเป็นมา · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098792248892625275-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="รูปภาพ 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="รูปภาพ 4" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## สีน้ำ
+
+<a name="prompt-2098743938299666847"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@BeanieBlossom](https://x.com/BeanieBlossom) · [โพสต์ต้นฉบับ](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+ภาพประกอบ · ภาพเรนเดอร์ 3 มิติ · สีน้ำ · ตัวละคร · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098743938299666847-1.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## ย้อนยุค / วินเทจ
+
+<a name="prompt-2098774914970849306"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@rotavirus1980](https://x.com/rotavirus1980) · [โพสต์ต้นฉบับ](https://x.com/rotavirus1980/status/2098774914970849306)
+
+ย้อนยุค / วินเทจ · ภาพบุคคล / เซลฟี่ · ตัวละคร · ไอเทมแฟชั่น · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098774914970849306-1.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@DDJCXX](https://x.com/DDJCXX) · [โพสต์ต้นฉบับ](https://x.com/DDJCXX/status/2098786437948944643)
+
+การถ่ายภาพ · ย้อนยุค / วินเทจ · ภาพบุคคล / เซลฟี่ · ตัวละคร · ไอเทมแฟชั่น · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098786437948944643-1.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2248,6 +2442,144 @@ FIELD NOTE [หมายเลข]
 <a name="category-other"></a>
 
 ## อื่น ๆ
+
+<a name="prompt-2098790612799545375"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@owenxplore](https://x.com/owenxplore) · [โพสต์ต้นฉบับ](https://x.com/owenxplore/status/2098790612799545375)
+
+ทิวทัศน์ / ธรรมชาติ · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2098790612799545375.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@0x\_fokki](https://x.com/0x_fokki) · [โพสต์ต้นฉบับ](https://x.com/0x_fokki/status/2098784945564983606)
+
+อื่น ๆ · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="covers/2098784945564983606.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@boniusex](https://x.com/boniusex) · [โพสต์ต้นฉบับ](https://x.com/boniusex/status/2098787760526205303)
+
+ภาพบุคคล / เซลฟี่ · ตัวละคร · บทคัดย่อ / ความเป็นมา · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@nicebabycat](https://x.com/nicebabycat) · [โพสต์ต้นฉบับ](https://x.com/nicebabycat/status/2098669781750878509)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098787760526205303-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="รูปภาพ 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="รูปภาพ 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="รูปภาพ 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="รูปภาพ 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="รูปภาพ 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="รูปภาพ 8" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@RobotCleopatra](https://x.com/RobotCleopatra) · [โพสต์ต้นฉบับ](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+อื่น ๆ · เผยแพร่แล้ว
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098760287524692407-1.jpg" alt="รูปภาพ 1" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@underwoodxie96](https://x.com/underwoodxie96) · [โพสต์ต้นฉบับ](https://x.com/underwoodxie96/status/2098757292942635327)
+
+ภาพบุคคล / เซลฟี่ · ตัวละคร · ยานพาหนะ · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [โพสต์ต้นฉบับ](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098757292942635327-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="รูปภาพ 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="รูปภาพ 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="รูปภาพ 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="รูปภาพ 6" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**118** Prompt · Son eklenen: **2026-09-12**
+**130** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render) · [İzometrik](#category-isometric) · [Yağlı Boya Tablo](#category-oil-painting) · [Suluboya](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1045,6 +1045,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2098780787936223258"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@im\_shahid7](https://x.com/im_shahid7) · [Orijinal gönderi](https://x.com/im_shahid7/status/2098780787936223258)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098780787936223258.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### Antik bir masanın yanında, dark academia kütüphanesindeki yakışıklı bir gencin sinematik lüks portresi.
@@ -1753,6 +1775,44 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 
 ## Çizgi Roman / Grafik Roman
 
+<a name="prompt-2098762652491374723"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@nanyuan0412](https://x.com/nanyuan0412) · [Orijinal gönderi](https://x.com/nanyuan0412/status/2098762652491374723)
+
+İllüstrasyon · Çizgi Roman / Grafik Roman · Karakter · Yayımlandı
+
+Orijinal gönderi：[@nanyuan0412](https://x.com/nanyuan0412) · [Orijinal gönderi](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098762652491374723-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="Görsel 8" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### Stüdyo kenar aydınlatmasıyla birlikte asimetrik büyük gözlere, büyük buruna, büyük kulaklara ve grotesk bir gülümsemeye sahip, 3D abartılı komedi tarzında yetişkin kadın karikatür portresi.
@@ -1861,9 +1921,143 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 
 ---
 
+<a name="category-isometric"></a>
+
+## İzometrik
+
+<a name="prompt-2098773122107523294"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098773122107523294)
+
+Poster / El İlanı · İzometrik · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098773122107523294-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## Yağlı Boya Tablo
+
+<a name="prompt-2098792248892625275"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098792248892625275)
+
+Poster / El İlanı · Yağlı Boya Tablo · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098792248892625275-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Suluboya
+
+<a name="prompt-2098743938299666847"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+İllüstrasyon · 3D Modelleme · Suluboya · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098743938299666847-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098774914970849306"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@rotavirus1980](https://x.com/rotavirus1980) · [Orijinal gönderi](https://x.com/rotavirus1980/status/2098774914970849306)
+
+Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098774914970849306-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2098786437948944643)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098786437948944643-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2220,6 +2414,144 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098790612799545375"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@owenxplore](https://x.com/owenxplore) · [Orijinal gönderi](https://x.com/owenxplore/status/2098790612799545375)
+
+Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098790612799545375.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@0x\_fokki](https://x.com/0x_fokki) · [Orijinal gönderi](https://x.com/0x_fokki/status/2098784945564983606)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098784945564983606.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2098787760526205303)
+
+Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
+
+Orijinal gönderi：[@nicebabycat](https://x.com/nicebabycat) · [Orijinal gönderi](https://x.com/nicebabycat/status/2098669781750878509)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098787760526205303-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="Görsel 8" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Orijinal gönderi](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098760287524692407-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2098757292942635327)
+
+Portre / Selfie · Karakter · Araç · Yayımlandı
+
+Orijinal gönderi：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Orijinal gönderi](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098757292942635327-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="Görsel 6" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

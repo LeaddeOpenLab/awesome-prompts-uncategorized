@@ -19,13 +19,13 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**118** Prompts · Adição mais recente: **2026-09-12**
+**130** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## Explorar por categoria
 
-[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Banda Desenhada / Romance Gráfico](#category-comic-graphic-novel) · [Renderização 3D](#category-3d-render) · [Retrô / Vintage](#category-retro-vintage) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
+[Fotografia](#category-photography) · [Cena de Cinema / Fotograma](#category-cinematic-film-still) · [Anime / Mangá](#category-anime-manga) · [Ilustração](#category-illustration) · [Esboço / Arte Linear](#category-sketch-line-art) · [Banda Desenhada / Romance Gráfico](#category-comic-graphic-novel) · [Renderização 3D](#category-3d-render) · [Isométrico](#category-isometric) · [Pintura a Óleo](#category-oil-painting) · [Aquarela](#category-watercolor) · [Retrô / Vintage](#category-retro-vintage) · [Cyberpunk / Ficção Científica](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Outros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1045,6 +1045,28 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 ## Cena de Cinema / Fotograma
 
+<a name="prompt-2098780787936223258"></a>
+
+### Tradução em curso
+
+Autor：[@im\_shahid7](https://x.com/im_shahid7) · [Publicação original](https://x.com/im_shahid7/status/2098780787936223258)
+
+Fotografia · Cena de Cinema / Fotograma · Personagem · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098780787936223258.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### Retrato cinematográfico de luxo de um jovem atraente numa biblioteca dark academia ao lado de uma secretária antiga.
@@ -1753,6 +1775,44 @@ Tradução em curso
 
 ## Banda Desenhada / Romance Gráfico
 
+<a name="prompt-2098762652491374723"></a>
+
+### Tradução em curso
+
+Autor：[@nanyuan0412](https://x.com/nanyuan0412) · [Publicação original](https://x.com/nanyuan0412/status/2098762652491374723)
+
+Ilustração · Banda Desenhada / Romance Gráfico · Personagem · Publicado
+
+Publicação original：[@nanyuan0412](https://x.com/nanyuan0412) · [Publicação original](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098762652491374723-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="Imagem 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="Imagem 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="Imagem 8" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### Retrato de caricatura 3D em estilo cómico exagerado de mulher adulta com grandes olhos assimétricos, nariz grande, orelhas grandes e sorriso grotesco, acompanhado por luz de contorno de estúdio.
@@ -1861,9 +1921,143 @@ Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e
 
 ---
 
+<a name="category-isometric"></a>
+
+## Isométrico
+
+<a name="prompt-2098773122107523294"></a>
+
+### Tradução em curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098773122107523294)
+
+Pôster / Folheto · Isométrico · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098773122107523294-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## Pintura a Óleo
+
+<a name="prompt-2098792248892625275"></a>
+
+### Tradução em curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098792248892625275)
+
+Pôster / Folheto · Pintura a Óleo · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098792248892625275-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## Aquarela
+
+<a name="prompt-2098743938299666847"></a>
+
+### Tradução em curso
+
+Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publicação original](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+Ilustração · Renderização 3D · Aquarela · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098743938299666847-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2098774914970849306"></a>
+
+### Tradução em curso
+
+Autor：[@rotavirus1980](https://x.com/rotavirus1980) · [Publicação original](https://x.com/rotavirus1980/status/2098774914970849306)
+
+Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098774914970849306-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### Tradução em curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2098786437948944643)
+
+Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098786437948944643-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2220,6 +2414,144 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098790612799545375"></a>
+
+### Tradução em curso
+
+Autor：[@owenxplore](https://x.com/owenxplore) · [Publicação original](https://x.com/owenxplore/status/2098790612799545375)
+
+Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098790612799545375.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### Tradução em curso
+
+Autor：[@0x\_fokki](https://x.com/0x_fokki) · [Publicação original](https://x.com/0x_fokki/status/2098784945564983606)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098784945564983606.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### Tradução em curso
+
+Autor：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2098787760526205303)
+
+Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
+
+Publicação original：[@nicebabycat](https://x.com/nicebabycat) · [Publicação original](https://x.com/nicebabycat/status/2098669781750878509)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098787760526205303-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="Imagem 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="Imagem 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="Imagem 8" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### Tradução em curso
+
+Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicação original](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098760287524692407-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### Tradução em curso
+
+Autor：[@underwoodxie96](https://x.com/underwoodxie96) · [Publicação original](https://x.com/underwoodxie96/status/2098757292942635327)
+
+Retrato / Selfie · Personagem · Veículo · Publicado
+
+Publicação original：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Publicação original](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098757292942635327-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="Imagem 6" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 

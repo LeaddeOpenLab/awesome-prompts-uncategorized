@@ -19,13 +19,13 @@ Leadde.ai टीमों को दस्तावेज़ों, स्ला
 
 दैनिक चुने हुए प्रॉम्प्ट और नई रचनात्मक प्रेरणा के लिए इस रिपॉज़िटरी को स्टार दें।
 
-**118** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-12**
+**130** प्रॉम्प्ट · नवीनतम जोड़: **2026-09-12**
 
 <a name="catalog"></a>
 
 ## श्रेणी के अनुसार देखें
 
-[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [एनिमे / मंगा](#category-anime-manga) · [चित्रण](#category-illustration) · [स्केच / लाइन आर्ट](#category-sketch-line-art) · [कॉमिक / ग्राफिक नॉवेल](#category-comic-graphic-novel) · [3D रेंडर](#category-3d-render) · [रेट्रो / विंटेज](#category-retro-vintage) · [साइबरपंक / साइंस-फाई](#category-cyberpunk-sci-fi) · [मिनिमलिज़्म](#category-minimalism) · [अन्य](#category-other)
+[फोटोग्राफी](#category-photography) · [सिनेमैटिक / फ़िल्म स्टिल](#category-cinematic-film-still) · [एनिमे / मंगा](#category-anime-manga) · [चित्रण](#category-illustration) · [स्केच / लाइन आर्ट](#category-sketch-line-art) · [कॉमिक / ग्राफिक नॉवेल](#category-comic-graphic-novel) · [3D रेंडर](#category-3d-render) · [आइसोमेट्रिक](#category-isometric) · [तैल चित्रकला](#category-oil-painting) · [वॉटरकलर](#category-watercolor) · [रेट्रो / विंटेज](#category-retro-vintage) · [साइबरपंक / साइंस-फाई](#category-cyberpunk-sci-fi) · [मिनिमलिज़्म](#category-minimalism) · [अन्य](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -1067,6 +1067,28 @@ CGI रोएं (फर),
 
 ## सिनेमैटिक / फ़िल्म स्टिल
 
+<a name="prompt-2098780787936223258"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@im\_shahid7](https://x.com/im_shahid7) · [मूल पोस्ट](https://x.com/im_shahid7/status/2098780787936223258)
+
+फोटोग्राफी · सिनेमैटिक / फ़िल्म स्टिल · कैरेक्टर · शहर का नज़ारा / सड़क · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2098780787936223258.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
 <a name="prompt-2098605916199456804"></a>
 
 ### डार्क एकेडेमिया पुस्तकालय में एक प्राचीन मेज के पास एक सुंदर युवक का सिनेमाई लक्ज़री पोर्ट्रेट।
@@ -1771,6 +1793,44 @@ LEGO बॉटनिकल कलेक्शन (LEGO Botanical Collection) क
 
 ## कॉमिक / ग्राफिक नॉवेल
 
+<a name="prompt-2098762652491374723"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@nanyuan0412](https://x.com/nanyuan0412) · [मूल पोस्ट](https://x.com/nanyuan0412/status/2098762652491374723)
+
+चित्रण · कॉमिक / ग्राफिक नॉवेल · कैरेक्टर · प्रकाशित
+
+मूल पोस्ट：[@nanyuan0412](https://x.com/nanyuan0412) · [मूल पोस्ट](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098762652491374723-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="चित्र 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="चित्र 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="चित्र 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="चित्र 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="चित्र 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="चित्र 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="चित्र 8" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
 <a name="prompt-2098359042234351871"></a>
 
 ### असममित बड़ी आंखों, बड़ी नाक, बड़े कानों और विचित्र मुस्कान के साथ 3D अतिरंजित हास्य शैली में वयस्क महिला कैरिकेचर पोर्ट्रेट, स्टूडियो रिम लाइटिंग के साथ।
@@ -1879,9 +1939,143 @@ LEGO बॉटनिकल कलेक्शन (LEGO Botanical Collection) क
 
 ---
 
+<a name="category-isometric"></a>
+
+## आइसोमेट्रिक
+
+<a name="prompt-2098773122107523294"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@Hamburgerai](https://x.com/Hamburgerai) · [मूल पोस्ट](https://x.com/Hamburgerai/status/2098773122107523294)
+
+पोस्टर / फ़्लायर · आइसोमेट्रिक · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098773122107523294-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="चित्र 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="चित्र 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="चित्र 4" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-oil-painting"></a>
+
+## तैल चित्रकला
+
+<a name="prompt-2098792248892625275"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@Hamburgerai](https://x.com/Hamburgerai) · [मूल पोस्ट](https://x.com/Hamburgerai/status/2098792248892625275)
+
+पोस्टर / फ़्लायर · तैल चित्रकला · सार / पृष्ठभूमि · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098792248892625275-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="चित्र 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="चित्र 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="चित्र 4" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="category-watercolor"></a>
+
+## वॉटरकलर
+
+<a name="prompt-2098743938299666847"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@BeanieBlossom](https://x.com/BeanieBlossom) · [मूल पोस्ट](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+चित्रण · 3D रेंडर · वॉटरकलर · कैरेक्टर · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098743938299666847-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## रेट्रो / विंटेज
+
+<a name="prompt-2098774914970849306"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@rotavirus1980](https://x.com/rotavirus1980) · [मूल पोस्ट](https://x.com/rotavirus1980/status/2098774914970849306)
+
+रेट्रो / विंटेज · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · फ़ैशन आइटम · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098774914970849306-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@DDJCXX](https://x.com/DDJCXX) · [मूल पोस्ट](https://x.com/DDJCXX/status/2098786437948944643)
+
+फोटोग्राफी · रेट्रो / विंटेज · पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · फ़ैशन आइटम · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098786437948944643-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
 
 <a name="prompt-2098642413879513410"></a>
 
@@ -2248,6 +2442,144 @@ FIELD NOTE [संख्या]
 <a name="category-other"></a>
 
 ## अन्य
+
+<a name="prompt-2098790612799545375"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@owenxplore](https://x.com/owenxplore) · [मूल पोस्ट](https://x.com/owenxplore/status/2098790612799545375)
+
+लैंडस्केप / प्रकृति · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2098790612799545375.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@0x\_fokki](https://x.com/0x_fokki) · [मूल पोस्ट](https://x.com/0x_fokki/status/2098784945564983606)
+
+अन्य · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="covers/2098784945564983606.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="prompt-2098787760526205303"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@boniusex](https://x.com/boniusex) · [मूल पोस्ट](https://x.com/boniusex/status/2098787760526205303)
+
+पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · सार / पृष्ठभूमि · प्रकाशित
+
+मूल पोस्ट：[@nicebabycat](https://x.com/nicebabycat) · [मूल पोस्ट](https://x.com/nicebabycat/status/2098669781750878509)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098787760526205303-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2098787760526205303-2.jpg" alt="चित्र 2" width="480" />
+
+<img src="images/2098787760526205303-3.jpg" alt="चित्र 3" width="480" />
+
+<img src="images/2098787760526205303-4.jpg" alt="चित्र 4" width="480" />
+
+<img src="images/2098787760526205303-5.jpg" alt="चित्र 5" width="480" />
+
+<img src="images/2098787760526205303-6.jpg" alt="चित्र 6" width="480" />
+
+<img src="images/2098787760526205303-7.jpg" alt="चित्र 7" width="480" />
+
+<img src="images/2098787760526205303-8.jpg" alt="चित्र 8" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="prompt-2098760287524692407"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@RobotCleopatra](https://x.com/RobotCleopatra) · [मूल पोस्ट](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+अन्य · प्रकाशित
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098760287524692407-1.jpg" alt="चित्र 1" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### अनुवाद जारी है
+
+लेखक：[@underwoodxie96](https://x.com/underwoodxie96) · [मूल पोस्ट](https://x.com/underwoodxie96/status/2098757292942635327)
+
+पोर्ट्रेट / सेल्फ़ी · कैरेक्टर · वाहन · प्रकाशित
+
+मूल पोस्ट：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [मूल पोस्ट](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**सारांश:** अनुवाद जारी है
+
+<img src="images/2098757292942635327-1.jpg" alt="चित्र 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="चित्र 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="चित्र 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="चित्र 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="चित्र 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="चित्र 6" width="480" />
+
+**प्रॉम्प्ट**
+
+```text
+अनुवाद जारी है
+```
+
+[↑ श्रेणियों पर लौटें](#catalog)
+
+---
 
 <a name="prompt-2098683941431455840"></a>
 
