@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T00:20:22.781Z",
+  "model": "unknown-image",
+  "prompt": "请将我上传的每一张无人物普通旅行照片分别制作成一张独立的高级旅行记忆编辑海报，每张照片单独输出，不与其他照片拼接。整体采用3:4竖版构图。\n\n上部约56%–60%使用暖象牙白纸面，带自然纸纤维、纸齿和轻微旧感。下部约40%–44%完整、清晰保留同一张原始旅行照片，保持原照片中的建筑、地形、物件关系、观察角度、自然光影和真实摄影质感，仅做轻微出版物调色。\n\n从下方同一张原始照片中挑选九个真正值得记住的局部，将其转绘成上部一个小尺度、居中的3×3“彩铅记忆九格”。九格组合宽度只占海报宽度约62%–66%，周围保留大量连续纸白和呼吸空间。每格只保留一个明确、可追溯的细节，例如建筑构件、桥梁结构、窗框、道路标线、石块、拱门、树影、水面、倒影、天空或环境纹理。九格必须全部来自同一张照片，不能生成互不相关的小插画，也不能把完整照片重复画九次。\n\n使用低饱和彩色铅笔、蜡笔和少量粉彩叠擦表现。保留明显的纸齿、交叉排线、断裂轮廓、轻微擦痕、颜色叠压和不规则手绘圆角边缘。颜色从原始照片中提取并压缩成有限色盘。整体气质安静、温暖、克制，像私人旅行速写册、记忆索引或独立出版物。\n\n文字只保留两组小型旧打字机字：左侧短英文标题，右侧“MEMORY GRID 01/02/03/04”。不要添加长句、日期、坐标、作者名、品牌、Logo、假字、乱码或水印。\n\n避免人物、脸、手、虚构地标、额外物件、多个照片拼贴、九格过大、狭窄边距、儿童绘本感、光滑矢量质感、廉价模板感和仅套滤镜的照片转绘。",
+  "promptTranslations": {
+    "en": "Please turn each of my uploaded ordinary travel photos without people into an independent, sophisticated travel memory editorial poster, outputting each photo separately without stitching it with other photos. The overall composition is a 3:4 vertical layout.\n\nThe upper portion, about 56%–60%, uses a warm ivory paper surface with natural paper fibers, paper tooth, and a subtle aged feel. The lower portion, about 40%–44%, completely and clearly preserves the same original travel photo, maintaining the architecture, topography, object relationships, viewing angle, natural light and shadow, and authentic photographic texture of the original photo, with only subtle editorial color grading applied.\n\nSelect nine truly memorable details from the same original photo below, and redraw them into a small-scale, centered 3×3 \"colored pencil memory grid\" in the upper portion. The combined width of the nine-grid occupies only about 62%–66% of the poster's width, leaving plenty of continuous white paper margin and breathing room around it. Each grid square retains only one distinct, traceable detail, such as an architectural component, bridge structure, window frame, road marking, stone, arch, tree shadow, water surface, reflection, sky, or environmental texture. All nine squares must come exclusively from the same photo; do not generate unrelated mini-illustrations, and do not repeat the entire photo nine times.\n\nRender using low-saturation colored pencils, crayons, and a touch of smudged pastel. Preserve visible paper tooth, cross-hatching, broken outlines, slight scuffs, overlaid colors, and irregular hand-drawn rounded edges. Colors should be extracted from the original photo and compressed into a limited palette. The overall mood should be quiet, warm, and restrained, like a personal travel sketchbook, memory index, or independent publication.\n\nKeep only two sets of small, vintage typewriter typography: a short English title on the left, and \"MEMORY GRID 01/02/03/04\" on the right. Do not add long sentences, dates, coordinates, author names, brands, logos, dummy text, garbled characters, or watermarks.\n\nAvoid people, faces, hands, fictional landmarks, extraneous objects, multi-photo collages, an oversized nine-grid, narrow margins, a children's picture-book look, smooth vector textures, a cheap template feel, and mere filtered photo conversions."
+  },
+  "summaryTranslations": {
+    "en": "Editorial travel poster prompt that extracts details from a travel photograph, redrawing them into an upper 3×3 colored-pencil grid while retaining the original image below."
+  },
+  "translationVersion": 2,
+  "summary": "基于旅行摄影提取细节重绘为上方3×3彩铅九宫格、下方保留原图的图文编辑海报提示词。",
+  "summaryEn": "A prompt for generating travel memory editorial posters with a top 3x3 colored pencil detail grid and the bottom original photograph.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098553866908533220",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2098553866908533220",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-11T23:26:45.000Z",
+    "collectedAt": "2026-09-12T00:15:57.617Z",
+    "language": "zh",
+    "originalText": "【CRAYON MEMORY DETAIL GRID｜彩铅记忆九格】\n\n中央拱门、石楔、台阶、裂缝和地面石板形成九个安静的建筑细节，彩铅纹理强化了遗址的触感。】\n\nprompt：\n请将我上传的每一张无人物普通旅行照片分别制作成一张独立的高级旅行记忆编辑海报，每张照片单独输出，不与其他照片拼接。整体采用3:4竖版构图。\n\n上部约56%–60%使用暖象牙白纸面，带自然纸纤维、纸齿和轻微旧感。下部约40%–44%完整、清晰保留同一张原始旅行照片，保持原照片中的建筑、地形、物件关系、观察角度、自然光影和真实摄影质感，仅做轻微出版物调色。\n\n从下方同一张原始照片中挑选九个真正值得记住的局部，将其转绘成上部一个小尺度、居中的3×3“彩铅记忆九格”。九格组合宽度只占海报宽度约62%–66%，周围保留大量连续纸白和呼吸空间。每格只保留一个明确、可追溯的细节，例如建筑构件、桥梁结构、窗框、道路标线、石块、拱门、树影、水面、倒影、天空或环境纹理。九格必须全部来自同一张照片，不能生成互不相关的小插画，也不能把完整照片重复画九次。\n\n使用低饱和彩色铅笔、蜡笔和少量粉彩叠擦表现。保留明显的纸齿、交叉排线、断裂轮廓、轻微擦痕、颜色叠压和不规则手绘圆角边缘。颜色从原始照片中提取并压缩成有限色盘。整体气质安静、温暖、克制，像私人旅行速写册、记忆索引或独立出版物。\n\n文字只保留两组小型旧打字机字：左侧短英文标题，右侧“MEMORY GRID 01/02/03/04”。不要添加长句、日期、坐标、作者名、品牌、Logo、假字、乱码或水印。\n\n避免人物、脸、手、虚构地标、额外物件、多个照片拼贴、九格过大、狭窄边距、儿童绘本感、光滑矢量质感、廉价模板感和仅套滤镜的照片转绘。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-PllaaAAADzEe.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-PllaaAAADzEe.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-PllXbsAAI0ou.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-PllXbsAAI0ou.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-PllYbMAAQB_3.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-PllYbMAAQB_3.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-PllXacAAWF67.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-PllXacAAWF67.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 204
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2098553866908533220",
+  "coverUrl": "https://pbs.twimg.com/media/HR-PllaaAAADzEe.jpg",
+  "coverPath": "images/2098553866908533220-1.jpg",
+  "imagePaths": [
+    "images/2098553866908533220-1.jpg",
+    "images/2098553866908533220-2.jpg",
+    "images/2098553866908533220-3.jpg",
+    "images/2098553866908533220-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR-PllaaAAADzEe",
+    "x-image:/media/HR-PllXbsAAI0ou",
+    "x-image:/media/HR-PllYbMAAQB_3",
+    "x-image:/media/HR-PllXacAAWF67",
+    "x-post:2098553866908533220"
+  ],
+  "analysis": {
+    "summary": "基于旅行摄影提取细节重绘为上方3×3彩铅九宫格、下方保留原图的图文编辑海报提示词。",
+    "summaryEn": "A prompt for generating travel memory editorial posters with a top 3x3 colored pencil detail grid and the bottom original photograph.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图精准对应了Prompt所描述的3:4版式海报结构：上半部分为纸质底纹与居中的3x3彩铅质感局部细节抽离九宫格，包含打字机字样标题及'MEMORY GRID 01/02/03/04'，下半部分完整保留了原始旅行风光摄影照片。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "请将我上传的每一张无人物普通旅行照片分别制作成一张独立的高级旅行记忆编辑海报，每张照片单独输出，不与其他照片拼接。整体采用3:4竖版构图。\n\n上部约56%–60%使用暖象牙白纸面，带自然纸纤维、纸齿和轻微旧感。下部约40%–44%完整、清晰保留同一张原始旅行照片，保持原照片中的建筑、地形、物件关系、观察角度、自然光影和真实摄影质感，仅做轻微出版物调色。\n\n从下方同一张原始照片中挑选九个真正值得记住的局部，将其转绘成上部一个小尺度、居中的3×3“彩铅记忆九格”。九格组合宽度只占海报宽度约62%–66%，周围保留大量连续纸白和呼吸空间。每格只保留一个明确、可追溯的细节，例如建筑构件、桥梁结构、窗框、道路标线、石块、拱门、树影、水面、倒影、天空或环境纹理。九格必须全部来自同一张照片，不能生成互不相关的小插画，也不能把完整照片重复画九次。\n\n使用低饱和彩色铅笔、蜡笔和少量粉彩叠擦表现。保留明显的纸齿、交叉排线、断裂轮廓、轻微擦痕、颜色叠压和不规则手绘圆角边缘。颜色从原始照片中提取并压缩成有限色盘。整体气质安静、温暖、克制，像私人旅行速写册、记忆索引或独立出版物。\n\n文字只保留两组小型旧打字机字：左侧短英文标题，右侧“MEMORY GRID 01/02/03/04”。不要添加长句、日期、坐标、作者名、品牌、Logo、假字、乱码或水印。\n\n避免人物、脸、手、虚构地标、额外物件、多个照片拼贴、九格过大、狭窄边距、儿童绘本感、光滑矢量质感、廉价模板感和仅套滤镜的照片转绘。",
+    "sourceRange": {
+      "start": 90,
+      "end": 728
+    },
+    "translations": {
+      "zh": "请将我上传的每一张无人物普通旅行照片分别制作成一张独立的高级旅行记忆编辑海报，每张照片单独输出，不与其他照片拼接。整体采用3:4竖版构图。\n\n上部约56%–60%使用暖象牙白纸面，带自然纸纤维、纸齿和轻微旧感。下部约40%–44%完整、清晰保留同一张原始旅行照片，保持原照片中的建筑、地形、物件关系、观察角度、自然光影和真实摄影质感，仅做轻微出版物调色。\n\n从下方同一张原始照片中挑选九个真正值得记住的局部，将其转绘成上部一个小尺度、居中的3×3“彩铅记忆九格”。九格组合宽度只占海报宽度约62%–66%，周围保留大量连续纸白和呼吸空间。每格只保留一个明确、可追溯的细节，例如建筑构件、桥梁结构、窗框、道路标线、石块、拱门、树影、水面、倒影、天空或环境纹理。九格必须全部来自同一张照片，不能生成互不相关的小插画，也不能把完整照片重复画九次。\n\n使用低饱和彩色铅笔、蜡笔和少量粉彩叠擦表现。保留明显的纸齿、交叉排线、断裂轮廓、轻微擦痕、颜色叠压和不规则手绘圆角边缘。颜色从原始照片中提取并压缩成有限色盘。整体气质安静、温暖、克制，像私人旅行速写册、记忆索引或独立出版物。\n\n文字只保留两组小型旧打字机字：左侧短英文标题，右侧“MEMORY GRID 01/02/03/04”。不要添加长句、日期、坐标、作者名、品牌、Logo、假字、乱码或水印。\n\n避免人物、脸、手、虚构地标、额外物件、多个照片拼贴、九格过大、狭窄边距、儿童绘本感、光滑矢量质感、廉价模板感和仅套滤镜的照片转绘。",
+      "en": "Please transform each non-peopled ordinary travel photo I upload into an individual, high-end travel memory editorial poster, outputting each photo separately without stitching with others. Use an overall 3:4 vertical composition.\n\nThe upper 56%–60% features a warm ivory white paper background with natural fibers, grain, and subtle vintage texture. The lower 40%–44% cleanly and fully retains the original travel photo, maintaining the architectural, topographical, and object relations, viewing angle, natural lighting, and authentic photographic texture, with only subtle editorial color grading.\n\nFrom the lower original photo, select nine memorable details and redraw them into a compact, centered 3x3 'colored pencil memory grid' in the upper section. The grid should occupy about 62%–66% of the poster's width, surrounded by generous white space. Each cell highlights a clear detail from the photo (e.g. architectural structures, bridges, window frames, stones, arches, water, sky). All nine cells must originate from the same photo.\n\nRender with low-saturation colored pencils, crayons, and slight pastel blending, keeping pencil strokes, textures, and rounded hand-drawn edges. The color palette is extracted from the photo. Keep the mood quiet, warm, and restrained, like a private travel sketchbook.\n\nInclude only two small typewriter-style texts: a short English title on the left and 'MEMORY GRID 01/02/03/04' on the right. No extra text, dates, coordinates, or watermarks.\n\nAvoid people, faces, extra objects, large grids, narrow margins, or cheap template aesthetics."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "将旅行摄影转换为上方彩铅细节九宫格、下方原图的杂志编辑风排版海报",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
