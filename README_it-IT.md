@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098618384804176129"></a>
 
-### Traduzione in corso
+### Ritratto DSLR in primo piano di una donna che tiene una coda di cavallo liscia su uno sfondo tropicale all'aperto.
 
 Autore：[@oju689](https://x.com/oju689) · [Post originale](https://x.com/oju689/status/2098618384804176129)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto DSLR in primo piano di una donna che tiene una coda di cavallo liscia su uno sfondo tropicale all'aperto.
 
 <img src="images/2098618384804176129-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto in primo piano di una bella giovane donna con una coda di cavallo alta ed elegante, che tiene la coda con una mano dietro la testa, trucco naturale e leggero con sopracciglia definite, ciglia lunghe, labbra rosa naturali, guance rosee, pelle luminosa e pulita con texture realistica della pelle, piccoli orecchini a cerchio dorati. Indossa un top bianco con spalline sottili. Posa: Profilo laterale che guarda sopra la spalla, braccio sollevato, espressione sicura e naturale. Sfondo: Esterno tropicale con foglie di palma verdi sfocate, parete bianca ruvida sulla destra, tronco di palma dietro, luce del giorno brillante, luce solare naturale, profondità di campo ridotta, bokeh. Illuminazione: Luce naturale del giorno morbida, toni della pelle uniformi, nessuna ombra dura, riflessi realistici sui capelli. Stile: Fotografia DSLR scattata con Canon EOS R5 con obiettivo 85mm f/1.4 a f/2.2, ISO 100, messa a fuoco nitida sugli occhi, ultra dettagliato, 8K, HDR, fotorealistico, colori naturali, nessun filtro, nessun aspetto CGI, autentico ritratto di una persona reale, rapporto di aspetto verticale 4:5. Negativo: nessuna sfocatura, nessun testo, nessuna scritta, nessuna filigrana, nessun bordo, nessuna modifica eccessiva.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2098618384804176129"></a>
 
-### Traducción en curso
+### Retrato en primer plano con cámara réflex digital \(DSLR\) de una mujer sosteniendo una cola de caballo pulida con un fondo tropical al aire libre.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicación original](https://x.com/oju689/status/2098618384804176129)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato en primer plano con cámara réflex digital \(DSLR\) de una mujer sosteniendo una cola de caballo pulida con un fondo tropical al aire libre.
 
 <img src="images/2098618384804176129-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato en primer plano de una hermosa mujer joven con una cola de caballo alta y pulida, sosteniendo su cola de caballo con una mano detrás de la cabeza, maquillaje suave y natural con cejas definidas, pestañas largas, labios rosados naturales, mejillas sonrosadas, piel clara y radiante con textura de piel realista, pequeños aretes de aro dorados. Viste un top blanco de tirantes delgados. Pose: Perfil lateral mirando por encima del hombro, brazo levantado, expresión segura y natural. Fondo: Exterior tropical con hojas de palmera verdes desenfocadas, pared blanca texturizada a la derecha, tronco de palmera detrás, luz del día brillante, luz solar natural, poca profundidad de campo, bokeh. Iluminación: Luz natural suave, tonos de piel uniformes, sin sombras duras, reflejos realistas en el cabello. Estilo: Fotografía DSLR tomada con Canon EOS R5 con lente de 85 mm f/1.4 a f/2.2, ISO 100, enfoque nítido en los ojos, ultra detallado, 8K, HDR, fotorrealista, colores naturales, sin filtros, sin aspecto CGI, retrato auténtico de una persona real, relación de aspecto vertical de 4:5. Negativo: sin desenfoque, sin texto, sin escrituras, sin marcas de agua, sin bordes, sin sobreedición.
 ```
 
 [↑ Volver a categorías](#catalog)

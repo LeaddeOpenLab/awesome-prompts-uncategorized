@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098618384804176129"></a>
 
-### Çeviri sürüyor
+### Tropikal bir dış mekân fonunda pürüzsüz at kuyruğunu tutan bir kadının yakın plan DSLR portresi.
 
 Yazar：[@oju689](https://x.com/oju689) · [Orijinal gönderi](https://x.com/oju689/status/2098618384804176129)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tropikal bir dış mekân fonunda pürüzsüz at kuyruğunu tutan bir kadının yakın plan DSLR portresi.
 
 <img src="images/2098618384804176129-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüksek ve pürüzsüz bir at kuyruğu olan, bir eliyle başının arkasından at kuyruğunu tutan, belirgin kaşlara sahip yumuşak doğal makyajlı, uzun kirpikli, doğal pembe dudaklı, pembe yanaklı, gerçekçi cilt dokusuna sahip ışıltılı ve berrak ciltli, küçük altın halka küpeli güzel genç bir kadının yakın plan portresi. Beyaz ince askılı bir üst giyiyor. Duruş: Omzunun üzerinden bakan yan profil, kol kaldırılmış, kendinden emin ve doğal bir ifade. Arka plan: Bulanık yeşil palmiye yapraklarıyla tropikal dış mekân, sağda beyaz dokulu duvar, arkada palmiye ağacı gövdesi, parlak gün ışığı, doğal güneş ışığı, sığ alan derinliği, bokeh. Aydınlatma: Yumuşak doğal gün ışığı, eşit cilt tonları, sert gölgeler yok, saçta gerçekçi parlak noktalar. Tarz: Canon EOS R5 üzerinde 85mm f/1.4 lens ile f/2.2'de çekilmiş DSLR fotoğrafçılığı, ISO 100, gözlerde keskin odak, ultra ayrıntılı, 8K, HDR, fotogerçekçi, doğal renkler, filtre yok, CGI görünümü yok, otantik gerçek insan portresi, dikey 4:5 en boy oranı. Negatif: bulanıklık yok, metin yok, yazılar yok, filigran yok, kenarlık yok, aşırı düzenleme yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098618384804176129"></a>
 
-### Tradução em andamento
+### Retrato em close-up com câmera DSLR de uma mulher segurando um rabo de cavalo alinhado contra um cenário tropical ao ar livre.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicação original](https://x.com/oju689/status/2098618384804176129)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato em close-up com câmera DSLR de uma mulher segurando um rabo de cavalo alinhado contra um cenário tropical ao ar livre.
 
 <img src="images/2098618384804176129-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Retrato em close-up de uma bela jovem com um rabo de cavalo alto e alinhado, segurando o rabo de cavalo com uma mão atrás da cabeça, maquiagem suave e natural com sobrancelhas definidas, cílios longos, lábios rosados naturais, bochechas coradas, pele radiante e limpa com textura de pele realista, pequenos brincos de argola dourados. Vestindo uma blusa branca de alças finas. Pose: Perfil lateral olhando por cima do ombro, braço levantado, expressão confiante e natural. Fundo: Exterior tropical com folhas de palmeira verdes desfocadas, parede branca texturizada à direita, tronco de palmeira atrás, luz do dia brilhante, luz solar natural, profundidade de campo rasa, bokeh. Iluminação: Luz natural do dia suave, tons de pele uniformes, sem sombras duras, reflexos realistas no cabelo. Estilo: Fotografia DSLR feita com Canon EOS R5 com lente 85mm f/1.4 em f/2.2, ISO 100, foco nítido nos olhos, ultra detalhado, 8K, HDR, fotorrealista, cores naturais, sem filtro, sem aspecto de CGI, retrato autêntico de pessoa real, proporção vertical 4:5. Negativo: sem desfoque, sem texto, sem escritas, sem marca d'água, sem borda, sem excesso de edição.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098618384804176129"></a>
 
-### Übersetzung läuft
+### DSLR-Nahaufnahme-Porträt einer Frau, die einen glatten Pferdeschwanz vor einer tropischen Außenkulisse hält.
 
 Autor：[@oju689](https://x.com/oju689) · [Originalbeitrag](https://x.com/oju689/status/2098618384804176129)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** DSLR-Nahaufnahme-Porträt einer Frau, die einen glatten Pferdeschwanz vor einer tropischen Außenkulisse hält.
 
 <img src="images/2098618384804176129-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Nahaufnahme-Porträt einer wunderschönen jungen Frau mit einem hohen, glatten Pferdeschwanz, die ihren Pferdeschwanz mit einer Hand hinter dem Kopf hält, sanftes natürliches Make-up mit definierten Augenbrauen, langen Wimpern, natürlichen rosa Lippen, rosigen Wangen, strahlender, reiner Haut mit realistischer Hauttextur, kleinen goldenen Creolen. Sie trägt ein weißes Top mit dünnen Spaghettiträgern. Pose: Seitenprofil mit Blick über die Schulter, erhobener Arm, selbstbewusster und natürlicher Ausdruck. Hintergrund: Tropischer Außenbereich mit verschwommenen grünen Palmenblättern, weiße strukturierte Wand rechts, Palmenstamm dahinter, helles Tageslicht, natürliches Sonnenlicht, geringe Schärfentiefe, Bokeh. Beleuchtung: Weiches natürliches Tageslicht, gleichmäßige Hauttöne, keine harten Schatten, realistische Glanzlichter im Haar. Stil: DSLR-Fotografie, aufgenommen mit einer Canon EOS R5 mit einem 85mm f/1.4-Objektiv bei f/2.2, ISO 100, scharfer Fokus auf die Augen, extrem detailliert, 8K, HDR, fotorealistisch, natürliche Farben, kein Filter, kein CGI-Look, authentisches Porträt einer echten Person, vertikales 4:5-Seitenverhältnis. Negativ: keine Unschärfe, kein Text, keine Schriften, kein Wasserzeichen, kein Rand, keine übermäßige Bearbeitung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

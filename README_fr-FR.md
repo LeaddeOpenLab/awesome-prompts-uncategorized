@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098618384804176129"></a>
 
-### Traduction en cours
+### Portrait en gros plan au reflex numérique d'une femme tenant une queue-de-cheval lisse sur fond d'extérieur tropical.
 
 Auteur：[@oju689](https://x.com/oju689) · [Publication originale](https://x.com/oju689/status/2098618384804176129)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait en gros plan au reflex numérique d'une femme tenant une queue-de-cheval lisse sur fond d'extérieur tropical.
 
 <img src="images/2098618384804176129-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait en gros plan d'une belle jeune femme avec une queue-de-cheval haute et lisse, tenant sa queue-de-cheval d'une main derrière la tête, maquillage doux et naturel avec des sourcils définis, de longs cils, des lèvres roses naturelles, des joues roses, une peau nette et éclatante avec une texture de peau réaliste, de petites créoles dorées. Portant un haut blanc à fines bretelles spaghetti. Pose : Profil latéral regardant par-dessus l'épaule, bras levé, expression confiante et naturelle. Arrière-plan : Extérieur tropical avec des feuilles de palmier vertes floues, un mur blanc texturé sur la droite, un tronc de palmier derrière, une lumière du jour éclatante, une lumière naturelle du soleil, une faible profondeur de champ, bokeh. Éclairage : Lumière douce du jour naturelle, teints de peau uniformes, pas d'ombres dures, reflets réalistes sur les cheveux. Style : Photographie reflex numérique prise avec un Canon EOS R5 avec un objectif 85 mm f/1.4 à f/2.2, ISO 100, mise au point nette sur les yeux, ultra détaillé, 8K, HDR, photoréaliste, couleurs naturelles, aucun filtre, aucun aspect CGI, authentique portrait d'une personne réelle, format vertical 4:5. Négatif : pas de flou, pas de texte, pas d'écritures, pas de filigrane, pas de bordure, pas de retouche excessive.
 ```
 
 [↑ Retour aux catégories](#catalog)

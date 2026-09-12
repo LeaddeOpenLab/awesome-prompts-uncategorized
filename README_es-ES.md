@@ -35,20 +35,30 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098618384804176129"></a>
 
-### Traducción en curso
+### Retrato réflex en primer plano de una mujer sosteniendo una coleta pulida contra un fondo exterior tropical.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicación original](https://x.com/oju689/status/2098618384804176129)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato réflex en primer plano de una mujer sosteniendo una coleta pulida contra un fondo exterior tropical.
 
 <img src="images/2098618384804176129-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato en primer plano de una hermosa mujer joven con una coleta alta y pulida, sosteniendo su coleta con una mano detrás de la cabeza, maquillaje suave y natural con cejas definidas, pestañas largas, labios rosados naturales, mejillas sonrosadas, piel luminosa y clara con textura de piel realista, pequeños pendientes de aro dorados. Viste un top blanco de tirantes finos.
+
+Pose: Perfil lateral mirando por encima del hombro, brazo levantado, expresión segura y natural.
+
+Fondo: Exterior tropical con hojas de palmera verdes desenfocadas, pared blanca con textura a la derecha, tronco de palmera detrás, luz de día brillante, luz solar natural, poca profundidad de campo, bokeh.
+
+Iluminación: Luz natural suave de día, tonos de piel uniformes, sin sombras duras, reflejos realistas en el cabello.
+
+Estilo: Fotografía réflex digital tomada con Canon EOS R5 con lente de 85 mm f/1.4 a f/2.2, ISO 100, enfoque nítido en los ojos, ultra detallado, 8K, HDR, fotorrealista, colores naturales, sin filtros, sin apariencia de CGI, retrato auténtico de persona real, relación de aspecto vertical 4:5.
+
+Negativo: sin desenfoque, sin texto, sin letras, sin marca de agua, sin borde, sin edición excesiva.
 ```
 
 [↑ Volver a categorías](#catalog)

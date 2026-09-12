@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098618384804176129"></a>
 
-### Tradução em curso
+### Retrato em grande plano com câmara DSLR de uma mulher a segurar um rabo de cavalo polido contra um cenário tropical ao ar livre.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicação original](https://x.com/oju689/status/2098618384804176129)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato em grande plano com câmara DSLR de uma mulher a segurar um rabo de cavalo polido contra um cenário tropical ao ar livre.
 
 <img src="images/2098618384804176129-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Retrato em grande plano de uma bela jovem com um rabo de cavalo alto e polido, a segurar o rabo de cavalo com uma mão atrás da cabeça, maquilhagem suave e natural com sobrancelhas definidas, pestanas compridas, lábios rosados naturais, maçãs do rosto rosadas, pele radiante e limpa com textura de pele realista, pequenas argolas douradas. A vestir um top branco de alças finas. Pose: Perfil lateral a olhar por cima do ombro, braço levantado, expressão confiante e natural. Fundo: Exterior tropical com folhas de palmeira verdes desfocadas, parede branca texturada à direita, tronco de palmeira atrás, luz do dia brilhante, luz solar natural, profundidade de campo reduzida, bokeh. Iluminação: Luz natural suave, tons de pele uniformes, sem sombras duras, reflexos realistas no cabelo. Estilo: Fotografia DSLR captada com Canon EOS R5 com lente de 85 mm f/1.4 a f/2.2, ISO 100, foco nítido nos olhos, ultra detalhado, 8K, HDR, fotorrealista, cores naturais, sem filtros, sem aspeto de CGI, retrato autêntico de uma pessoa real, proporção vertical de 4:5. Negativo: sem desfoque, sem texto, sem escritas, sem marca de água, sem moldura, sem edição excessiva.
 ```
 
 [↑ Voltar às categorias](#catalog)

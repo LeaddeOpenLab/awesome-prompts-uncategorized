@@ -35,20 +35,30 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098618384804176129"></a>
 
-### Đang dịch
+### Chân dung DSLR cận cảnh một người phụ nữ giữ mái tóc đuôi ngựa mượt mà trên nền nhiệt đới ngoài trời.
 
 Tác giả：[@oju689](https://x.com/oju689) · [Bài gốc](https://x.com/oju689/status/2098618384804176129)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung DSLR cận cảnh một người phụ nữ giữ mái tóc đuôi ngựa mượt mà trên nền nhiệt đới ngoài trời.
 
 <img src="images/2098618384804176129-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung cận cảnh của một phụ nữ trẻ xinh đẹp với mái tóc đuôi ngựa buộc cao mượt mà, một tay giữ đuôi ngựa phía sau đầu, trang điểm tự nhiên nhẹ nhàng với lông mày sắc nét, hàng mi dài, đôi môi hồng tự nhiên, má ửng hồng, làn da sáng trong trẻo với kết cấu da chân thực, hoa tai tròn nhỏ bằng vàng. Mặc áo hai dây mỏng màu trắng.
+
+Cách tạo dáng: Nhìn nghiêng qua vai, cánh tay nâng lên, biểu cảm tự tin và tự nhiên.
+
+Bối cảnh: Ngoài trời vùng nhiệt đới với những tán lá cọ xanh mờ ảo, bức tường kết cấu màu trắng bên phải, thân cây cọ phía sau, ánh sáng ban ngày rực rỡ, ánh nắng tự nhiên, độ sâu trường ảnh nông, hiệu ứng bokeh.
+
+Ánh sáng: Ánh sáng ban ngày tự nhiên dịu nhẹ, tông màu da đồng đều, không có bóng gắt, các vệt sáng chân thực trên tóc.
+
+Phong cách: Nhiếp ảnh DSLR chụp trên Canon EOS R5 với ống kính 85mm f/1.4 ở khẩu độ f/2.2, ISO 100, lấy nét sắc nét vào đôi mắt, siêu chi tiết, 8K, HDR, chân thực như ảnh chụp, màu sắc tự nhiên, không bộ lọc, không có vẻ ngoài CGI, chân dung người thật tự nhiên, tỷ lệ khung hình dọc 4:5.
+
+Tiêu cực: không mờ, không có văn bản, không có chữ viết, không có hình mờ, không có viền, không chỉnh sửa quá đà.
 ```
 
 [↑ Về danh mục](#catalog)
