@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T16:34:22.156Z",
+  "model": "unknown-image",
+  "prompt": "A cinematic, medium-shot portrait of a young woman with warm brown hair styled in an elegant, soft updo with loose strands framing her face, looking gently over her shoulder with a serene and captivating expression. She is wearing a delicate, sheer pink ruffled gown featuring intricate embroidery along the cold-shoulder straps and neckline. The background is softly blurred and moody, with warm, dim interior lighting highlighting her features and creating a romantic, timeless, and sophisticated atmosphere.",
+  "promptTranslations": {
+    "en": "A cinematic, medium-shot portrait of a young woman with warm brown hair styled in an elegant, soft updo with loose strands framing her face, looking gently over her shoulder with a serene and captivating expression. She is wearing a delicate, sheer pink ruffled gown featuring intricate embroidery along the cold-shoulder straps and neckline. The background is softly blurred and moody, with warm, dim interior lighting highlighting her features and creating a romantic, timeless, and sophisticated atmosphere."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting.",
+  "summaryEn": "Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098788910432129114",
+    "canonicalUrl": "https://x.com/Minahil42298354/status/2098788910432129114",
+    "author": {
+      "username": "Minahil42298354",
+      "displayName": "Minahil",
+      "profileUrl": "https://x.com/Minahil42298354"
+    },
+    "publishedAt": "2026-09-12T15:00:44.000Z",
+    "collectedAt": "2026-09-12T16:17:13.194Z",
+    "language": "en",
+    "originalText": "Grace woven in soft pink silk\n\nPrompt:           A cinematic, medium-shot portrait of a young woman with warm brown hair styled in an elegant, soft updo with loose strands framing her face, looking gently over her shoulder with a serene and captivating expression. She is wearing a delicate, sheer pink ruffled gown featuring intricate embroidery along the cold-shoulder straps and neckline. The background is softly blurred and moody, with warm, dim interior lighting highlighting her features and creating a romantic, timeless, and sophisticated atmosphere.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBlYCxWcAUpIki.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBlYCxWcAUpIki.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 2,
+      "replyCount": 14,
+      "quoteCount": 0,
+      "viewCount": 361
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Minahil42298354/status/2098788910432129114",
+  "coverUrl": "https://pbs.twimg.com/media/HSBlYCxWcAUpIki.jpg",
+  "coverPath": "images/2098788910432129114-1.jpg",
+  "imagePaths": [
+    "images/2098788910432129114-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBlYCxWcAUpIki",
+    "x-post:2098788910432129114"
+  ],
+  "analysis": {
+    "summary": "Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting.",
+    "summaryEn": "Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image shows a young woman looking over her shoulder wearing a pink sheer ruffled gown with embroidery, soft updo hairstyle, and warm dim interior lighting exactly matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic, medium-shot portrait of a young woman with warm brown hair styled in an elegant, soft updo with loose strands framing her face, looking gently over her shoulder with a serene and captivating expression. She is wearing a delicate, sheer pink ruffled gown featuring intricate embroidery along the cold-shoulder straps and neckline. The background is softly blurred and moody, with warm, dim interior lighting highlighting her features and creating a romantic, timeless, and sophisticated atmosphere.",
+    "sourceRange": {
+      "start": 49,
+      "end": 559
+    },
+    "translations": {
+      "zh": "一个电影质感的中景肖像：一位年轻女子留着暖棕色头发，梳着优雅柔和的发髻，几缕散发修饰着脸庞，温柔地回头望去，神情平静动人。她穿着一袭精致的粉色薄纱荷叶边礼服，露肩肩带和领口饰有精致刺绣。背景柔和虚化且略带忧郁，温暖微弱的室内光线凸显出她的五官，营造出浪漫、永恒且典雅的氛围。",
+      "en": "A cinematic, medium-shot portrait of a young woman with warm brown hair styled in an elegant, soft updo with loose strands framing her face, looking gently over her shoulder with a serene and captivating expression. She is wearing a delicate, sheer pink ruffled gown featuring intricate embroidery along the cold-shoulder straps and neckline. The background is softly blurred and moody, with warm, dim interior lighting highlighting her features and creating a romantic, timeless, and sophisticated atmosphere."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "artistic portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
