@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:48:57.333Z",
+  "model": "unknown-video",
+  "prompt": "Subject / Setting\n\nHandheld historical documentary footage captured on a vintage early-2000s consumer digital video camcorder, depicting the active construction site of the Great Pyramid of Giza as if it were documented in real time.\n\nAction & Environment\n\nHundreds of laborers and overseers operating on a massive stone ramp under a bright, dusty sky, hauling colossal limestone blocks on wooden sledges via thick ropes. The unfinished pyramid towers in the background, surrounded by heavy physical exertion, organized chaos, and swirling airborne dust.\n\nCamera Movement & Framing\n\nAn organic, moving point-of-view perspective tracking right alongside a work crew. Features natural cuts between labor groups, tight close-ups on strained ropes and moving stone, and sudden upward tilts to emphasize the massive height of the monument.\n\nTechnical Artifacts\n\nAuthentic low-res digital imperfections including persistent hand shake, drifting composition, harsh exposure shifts, natural motion blur, and autofocus hunting reacting to bright sunlight and dust particles.\n\nAudio\n\nPurely diegetic ambient soundscape featuring rhythmic worker chants, heavy breathing, grunting, ropes groaning under immense tension, and stone grinding against the earth - completely devoid of musical score.",
+  "promptTranslations": {
+    "en": "Subject / Setting\n\nHandheld historical documentary footage captured on a vintage early-2000s consumer digital video camcorder, depicting the active construction site of the Great Pyramid of Giza as if it were documented in real time.\n\nAction & Environment\n\nHundreds of laborers and overseers operating on a massive stone ramp under a bright, dusty sky, hauling colossal limestone blocks on wooden sledges via thick ropes. The unfinished pyramid towers in the background, surrounded by heavy physical exertion, organized chaos, and swirling airborne dust.\n\nCamera Movement & Framing\n\nAn organic, moving point-of-view perspective tracking right alongside a work crew. Features natural cuts between labor groups, tight close-ups on strained ropes and moving stone, and sudden upward tilts to emphasize the massive height of the monument.\n\nTechnical Artifacts\n\nAuthentic low-res digital imperfections including persistent hand shake, drifting composition, harsh exposure shifts, natural motion blur, and autofocus hunting reacting to bright sunlight and dust particles.\n\nAudio\n\nPurely diegetic ambient soundscape featuring rhythmic worker chants, heavy breathing, grunting, ropes groaning under immense tension, and stone grinding against the earth - completely devoid of musical score."
+  },
+  "summaryTranslations": {
+    "en": "2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid."
+  },
+  "translationVersion": 2,
+  "summary": "2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid.",
+  "summaryEn": "2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098784945564983606",
+    "canonicalUrl": "https://x.com/0x_fokki/status/2098784945564983606",
+    "author": {
+      "username": "0x_fokki",
+      "displayName": "Fokki",
+      "profileUrl": "https://x.com/0x_fokki"
+    },
+    "publishedAt": "2026-09-12T14:44:59.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "en",
+    "originalText": "AI just recreated handheld documentary footage from an early-2000s camcorder and the realism is actually terrifying.\n\nPrompt i used:\n\nSubject / Setting\n\nHandheld historical documentary footage captured on a vintage early-2000s consumer digital video camcorder, depicting the active construction site of the Great Pyramid of Giza as if it were documented in real time.\n\nAction & Environment\n\nHundreds of laborers and overseers operating on a massive stone ramp under a bright, dusty sky, hauling colossal limestone blocks on wooden sledges via thick ropes. The unfinished pyramid towers in the background, surrounded by heavy physical exertion, organized chaos, and swirling airborne dust.\n\nCamera Movement & Framing\n\nAn organic, moving point-of-view perspective tracking right alongside a work crew. Features natural cuts between labor groups, tight close-ups on strained ropes and moving stone, and sudden upward tilts to emphasize the massive height of the monument.\n\nTechnical Artifacts\n\nAuthentic low-res digital imperfections including persistent hand shake, drifting composition, harsh exposure shifts, natural motion blur, and autofocus hunting reacting to bright sunlight and dust particles.\n\nAudio\n\nPurely diegetic ambient soundscape featuring rhythmic worker chants, heavy breathing, grunting, ropes groaning under immense tension, and stone grinding against the earth - completely devoid of musical score.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/0x_fokki/status/2098784945564983606",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098783786041520129/img/n8Ge7RlrabeqKXEp.jpg",
+        "analysisUrl": "https://x.com/0x_fokki/status/2098784945564983606"
+      }
+    ],
+    "metrics": {
+      "likeCount": 22,
+      "repostCount": 0,
+      "replyCount": 5,
+      "quoteCount": 0,
+      "viewCount": 331
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/0x_fokki/status/2098784945564983606",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098783786041520129/img/n8Ge7RlrabeqKXEp.jpg",
+  "coverPath": "covers/2098784945564983606.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098783786041520129",
+    "x-post:2098784945564983606"
+  ],
+  "analysis": {
+    "summary": "2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid.",
+    "summaryEn": "2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video matches the prompt's camera style, pyramid construction scene, rope close-ups, upward tilts, and ambient audio."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Subject / Setting\n\nHandheld historical documentary footage captured on a vintage early-2000s consumer digital video camcorder, depicting the active construction site of the Great Pyramid of Giza as if it were documented in real time.\n\nAction & Environment\n\nHundreds of laborers and overseers operating on a massive stone ramp under a bright, dusty sky, hauling colossal limestone blocks on wooden sledges via thick ropes. The unfinished pyramid towers in the background, surrounded by heavy physical exertion, organized chaos, and swirling airborne dust.\n\nCamera Movement & Framing\n\nAn organic, moving point-of-view perspective tracking right alongside a work crew. Features natural cuts between labor groups, tight close-ups on strained ropes and moving stone, and sudden upward tilts to emphasize the massive height of the monument.\n\nTechnical Artifacts\n\nAuthentic low-res digital imperfections including persistent hand shake, drifting composition, harsh exposure shifts, natural motion blur, and autofocus hunting reacting to bright sunlight and dust particles.\n\nAudio\n\nPurely diegetic ambient soundscape featuring rhythmic worker chants, heavy breathing, grunting, ropes groaning under immense tension, and stone grinding against the earth - completely devoid of musical score.",
+    "sourceRange": {
+      "start": 134,
+      "end": 1416
+    },
+    "translations": {
+      "zh": "主题 / 场景\n\n手持历史纪录片镜头，以2000年代初复古消费级数字摄像机拍摄，实时记录吉萨大金字塔的建造施工现场。\n\n动作与环境\n\n数百名劳工与监工在尘土飞扬的晴天下，于巨型石坡道上用粗绳拉动木橇运送巨型石灰石块。未完工的金字塔在背景中高耸，周围充斥着重体力劳作、有序的混乱与漫天尘土。\n\n镜头运动与构图\n\n自然的手持主观跟拍视角，在劳工群体间切换剪辑，包含绳索受力和移动巨石的特写，以及突然向上仰拍展现建筑高度。\n\n技术瑕疵\n\n真实的低分辨率数码缺陷，包括持续手抖、构图漂移、强光曝光跳跃、动态模糊和自动对焦拉风箱。\n\n音频\n\n纯现场环境声：工人节奏性号子、沉重喘息、绳索紧绷呻吟与石块摩擦声，无任何配乐。",
+      "en": "Subject / Setting\n\nHandheld historical documentary footage captured on a vintage early-2000s consumer digital video camcorder, depicting the active construction site of the Great Pyramid of Giza as if it were documented in real time.\n\nAction & Environment\n\nHundreds of laborers and overseers operating on a massive stone ramp under a bright, dusty sky, hauling colossal limestone blocks on wooden sledges via thick ropes. The unfinished pyramid towers in the background, surrounded by heavy physical exertion, organized chaos, and swirling airborne dust.\n\nCamera Movement & Framing\n\nAn organic, moving point-of-view perspective tracking right alongside a work crew. Features natural cuts between labor groups, tight close-ups on strained ropes and moving stone, and sudden upward tilts to emphasize the massive height of the monument.\n\nTechnical Artifacts\n\nAuthentic low-res digital imperfections including persistent hand shake, drifting composition, harsh exposure shifts, natural motion blur, and autofocus hunting reacting to bright sunlight and dust particles.\n\nAudio\n\nPurely diegetic ambient soundscape featuring rhythmic worker chants, heavy breathing, grunting, ropes groaning under immense tension, and stone grinding against the earth - completely devoid of musical score."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
