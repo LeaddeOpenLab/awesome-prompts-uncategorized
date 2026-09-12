@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**107** Prompts · Adição mais recente: **2026-09-12**
+**109** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098636136130457930"></a>
+
+### Tradução em curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098636136130457930)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098636136130457930-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098634064354045974"></a>
 
@@ -129,20 +151,60 @@ Atmosfera acolhedora.
 
 <a name="prompt-2098638290094305690"></a>
 
-### Tradução em curso
+### Prompt de estilo realista que retrata uma mulher adulta a acordar num hotel de luxo pela manhã, vestindo lingerie com bordados em marfim.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098638290094305690)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de estilo realista que retrata uma mulher adulta a acordar num hotel de luxo pela manhã, vestindo lingerie com bordados em marfim.
 
 <img src="images/2098638290094305690-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+🌟Cama de hotel pela manhã | Lingerie bordada marfim e um despertar suave🌟
+
+【Tema e Estilo】
+Retratar uma mulher japonesa adulta a levantar-se devagar da cama branca num quarto de hotel de luxo pela manhã. Com base no fotorrealismo, transmitir a sofisticação e a intimidade de uma campanha publicitária japonesa de lingerie de alta qualidade ou de um livro fotográfico requintado. Sem encenações apelativas ou explícitas, criar uma expressão fotográfica elegante que transmita com naturalidade a serenidade da manhã, a luz a tocar a pele e a delicadeza dos tecidos.
+A protagonista é a beleza da mulher e da lingerie, mas não apenas como uma demonstração da peça: deve captar o instante suave logo após o despertar. Preservando uma ligeira sensação de quotidiano, o resultado geral deve ser limpo, sereno e de luxo sóbrio.
+
+【Local, Cenário e Ambiente】
+Quarto de hotel luminoso e sofisticado, onde a luz matinal entra através de cortinas brancas. Em primeiro plano, lençóis e almofadas brancas ligeiramente amarrotados; no plano médio, a mulher; ao fundo, uma cabeceira de madeira clara, mesinhas de cabeceira, um candeeiro discreto e uma pequena jarra com flores dispostos com naturalidade, conferindo elegância ao espaço.
+Do lado de fora da janela, a paisagem urbana pode ser subtilmente percetível, sem chamar excessiva atenção, mantendo um fundo que realce a manhã tranquila do interior. O contraste entre o ambiente impecavelmente arrumado do hotel e a roupa de cama ligeiramente desfeita pelo acordar equilibra intimidade e beleza publicitária.
+
+【Estação, Horário e Clima】
+A estação é uma manhã amena que evoca a primavera ou o início do verão. O horário situa-se por volta das 7 da manhã, com ar límpido e uma luz que invade o quarto de forma suave, clara e limpa.
+Tempo ensolarado. A luz exterior não é demasiado intensa; a luz natural difusa através das cortinas envolve todo o espaço. Uma manhã agradável, sem calor nem frio, valorizando uma atmosfera serena e fresca.
+
+【Personagem】
+Mulher japonesa inequivocamente adulta, com cerca de 20 a 28 anos. Traços suaves e proporcionados, olhos ligeiramente grandes, sobrancelhas naturais, nariz refinado e lábios corados. Cabelo castanho-escuro ondulado natural, pelo nível dos ombros, com um ligeiro desalinho típico de quem acabou de acordar e alguns fios soltos junto ao rosto.
+Pele em tom ocre claro, com textura natural e sem excesso de suavização, com um rubor ligeiro e saudável. Silhueta naturalmente glamorosa e harmoniosa, com ombros e membros delicados, cintura fina e curvas femininas. O peito possui um volume claramente generoso, mas apresenta-se suave e natural de acordo com a postura e a lingerie, sem quebrar a elegância do conjunto.
+
+【Vestuário e Acessórios】
+Conjunto de lingerie marfim. O soutien tem base em cetim com bordados florais delicados e renda fina nas copas e orlas, conferindo um design elegante. As cuecas seguem a mesma paleta de tons, destacando naturalmente a transparência subtil da renda, o relevo dos bordados e o brilho discreto do cetim.
+O corte é realista, moldando-se confortavelmente ao corpo. O decote valoriza os pormenores do bordado e da renda de forma bela, evitando efeitos push-up exagerados. Os acessórios são extremamente discretos, limitando-se a brincos pequenos e finos ou a um anel delicado, sem adornos vistosos.
+
+【Pose, Ação e Olhar】
+A mulher encontra-se a meio do movimento de se levantar sobre a cama. A parte inferior do corpo repousa naturalmente sobre os lençóis, com uma perna suavemente fletida e a outra estendida um pouco para a frente para conferir estabilidade. O peso do corpo apoia-se subtilmente sobre uma das mãos encostada ao lençol, enquanto o tronco se ergue com calma, abrindo os ombros com naturalidade.
+A mão que repousa sobre a cama dá suporte ao corpo, enquanto a outra mão se encontra pousada de forma relaxada sobre a coxa ou perto do joelho. O corpo está ligeiramente em diagonal relativamente à cama, com a parte superior virada de forma suave para o lado da janela. O olhar não se dirige para a câmara, mas sim para a vista da janela, garantindo que braços e cabelos não tapem excessivamente o decote da peça.
+
+【Expressão e Emoção】
+Expressão calma e ligeiramente sonolenta. Olhos suaves, ligeiramente semicerrados como se sentisse a claridade, com sobrancelhas calmas e naturais. Lábios semiabertos de forma relaxada, transmitindo uma nuance terna e descontraída.
+A emoção é de aconchego, segurança e conforto na tranquilidade logo após acordar. Sem grandes sorrisos, preservando um ar nobre e caloroso, enquanto contempla a janela com olhar ausente, sentindo a luz matinal.
+
+【Composição e Câmara】
+Composição vertical 4:5 indicada para publicação no X. A modelo é posicionada ao centro ou ligeiramente à esquerda, com margem suficiente para que da cabeça até à ponta dos pés o enquadramento não sofra cortes estranhos. Enquadramento de corpo inteiro ou cortando logo abaixo dos joelhos, transmitindo eficazmente o ambiente da cama e a luz da janela.
+A altura da câmara encontra-se ao nível da cama ou ligeiramente abaixo. Distância focal média, mantendo o equilíbrio entre a modelo e o fundo, assegurando nitidez suficiente para se lerem os bordados da lingerie. Ângulo de visão entre padrão e ligeira teleobjetiva; evitar distorções corporais causadas por grandes-angulares extremas, criando profundidade através de uma perspetiva natural e um suave desfoque de fundo (bokeh).
+
+【Iluminação, Cor, Textura e Atmosfera】
+A luz principal é a luz natural da manhã que entra pela janela. A luz difusa pelas cortinas brancas incide suavemente no rosto, ombros, decote e lençóis, gerando sombras bastante ténues no lado oposto. O reflexo dos tecidos brancos da cama e das paredes ilumina suavemente as áreas de sombra, criando a transparência típica da manhã.
+Paleta de cores centrada em marfim, branco, bege claro e tons suaves de madeira, unindo limpeza e calor. A pele deve ter rubor natural, o cabelo mechas finas visíveis, os tecidos vincos e volume realistas, e os bordados relevo fino e detalhado. Atmosfera geral de intimidade distinta, silenciosa e um suave resquício da manhã.
+
+【Qualidade e Elementos Negativos】
+Alta resolução, priorizando anatomia humana, iluminação, materiais e perspetiva realistas, tal como captados por uma câmara fotográfica real. A figura deve ser inconfundivelmente uma mulher adulta, com feições, dedos, pernas, articulações, ombros e a estrutura do vestuário conectados de forma anatomicamente correta.
+Evitar aparências que sugiram menores de idade, rostos infantis, proporções corporais anormais, membros ou dedos adicionais, dedos em falta, falhas em articulações, vestuário a fundir-se com a pele ou a apertar de forma estranha, e exposição corporal indevida. O peito deve manter volume generoso e natural, sem formas esféricas rígidas, gigantismo surreal, efeito push-up excessivo ou formas que desafiem a gravidade. Sem textos, logótipos, marcas de água, elementos de interface de utilizador, filtros excessivos de pele lisa ou distorções de grande-angular extrema.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1988,6 +2050,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098689113780064605"></a>
+
+### Tradução em curso
+
+Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicação original](https://x.com/iadventurejacek/status/2098689113780064605)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098689113780064605.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098587991359074550"></a>
 

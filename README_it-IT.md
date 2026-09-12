@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**107** Prompt · Ultima aggiunta: **2026-09-12**
+**109** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098636136130457930"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098636136130457930)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098636136130457930-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098634064354045974"></a>
 
@@ -129,20 +151,60 @@ Atmosfera accogliente.
 
 <a name="prompt-2098638290094305690"></a>
 
-### Traduzione in corso
+### 朝の高級ホテルでアイボリー刺繍ランジェリーを着て目覚める成人女性を描いたリアル調プロンプト。
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098638290094305690)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** 朝の高級ホテルでアイボリー刺繍ランジェリーを着て目覚める成人女性を描いたリアル調プロンプト。
 
 <img src="images/2098638290094305690-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Letto d'hotel al mattino | Lingerie ricamata avorio e un dolce risveglio🌟
+
+【Soggetto e stile】
+Ritrae una donna giapponese adulta che si alza lentamente da un letto bianco in una camera d'albergo di lusso al mattino. Mantenendo uno stile fotorealistico, infondi la raffinatezza e l'intimità tipiche di una pubblicità di lingerie giapponese d'alta gamma o di un libro fotografico d'autore. Senza ostentazioni esplicite, crea un'espressione fotografica elegante in cui la quiete del mattino, la luce che accarezza la pelle e la delicatezza del capo traspaiano con naturalezza.
+I protagonisti sono la bellezza della donna e della lingerie, ma lo scatto non deve apparire come una mera vetrina dell'abito, bensì come la cattura di un momento intimo e soffice appena dopo il risveglio. Conservando una lieve naturalezza quotidiana, l'insieme trasmette pulizia, serenità e un lusso discreto.
+
+【Luogo, sfondo e atmosfera】
+Una camera d'hotel luminosa ed elegante, in cui la luce del primo sole filtra attraverso tende bianche. In primo piano lenzuola e cuscini bianchi morbidamente spiegazzati, nel piano medio la donna, e sullo sfondo una testiera in legno chiaro, un comodino, una lampada sobria e un piccolo vaso di fiori disposti con naturalezza per esaltare il buongusto dell'ambiente.
+Oltre la finestra si può appena intravedere il paesaggio urbano senza che distolga l'attenzione, lasciando che lo sfondo rifletta la tranquilla mattina della stanza. Il contrasto tra l'ordine impeccabile dell'hotel e il letto appena sfatto dopo il risveglio unisce intimità ed estetica pubblicitaria.
+
+【Stagione, orario e meteo】
+Un mattino mite che evoca il passaggio dalla primavera all'inizio dell'estate. L'orario percepito è intorno alle 7 del mattino; l'aria è tersa e la luce che invade la stanza possiede una limpidezza morbida e pulita.
+Il tempo è sereno. La luce esterna non è accecante; una luce naturale diffusa dalle tende avvolge l'intera stanza. Una mattina confortevole senza freddo né calore eccessivi, che valorizza un'atmosfera calma e fresca.
+
+【Descrizione del personaggio】
+Donna giapponese inequivocabilmente adulta, tra i 20 e i 28 anni circa. Tratti del viso morbidi e armoniosi, occhi leggermente grandi, sopracciglia naturali, profilo del naso fine e labbra dal colorito sano. Capelli castano scuro, ondulati naturali fino alle spalle, con il lieve disordine tipico di chi si è appena svegliata e piccole ciocche ribelli intorno al viso.
+Pelle color ocra chiaro, con una texture naturale senza levigature artificiali e un velo di sano rossore. Fisico armoniosamente sinuoso, con spalle e arti aggraziati, vita sottile e curve femminili naturali. Il seno ha un volume generoso e pieno, ma appare morbido e naturale assecondando il capo e la postura, preservando l'eleganza complessiva.
+
+【Abbigliamento e accessori】
+Completo intimo color avorio. Il reggiseno ha una base in raso lucido, impreziosita da delicati ricami floreali e pizzo sulle coppe e sui bordi in un design raffinato. Lo slip è abbinato nella stessa tonalità, lasciando risaltare con naturalezza le trasparenze del pizzo, la tridimensionalità del ricamo e la tenue lucentezza del raso.
+La vestibilità è realistica, adagiandosi armoniosamente sul corpo senza stringere. La scollatura valorizza con grazia il motivo del ricamo e del pizzo, evitando un effetto push-up esagerato. Gli accessori sono ridotti al minimo, limitati a sottili orecchini a lobo o a un anello delicato, senza alcun ornamento vistoso.
+
+【Posa, movimento e sguardo】
+La donna è colta nel movimento di sollevarsi sul letto. La parte inferiore del corpo riposa con naturalezza sulle lenzuola, con una gamba leggermente piegata e l'altra allungata dolcemente in avanti per dare stabilità. Il peso è parzialmente scaricato su una mano posata sul lenzuolo, mentre il busto si solleva dolcemente e le spalle si aprono con grazia naturale.
+La mano sul lenzuolo funge da sostegno, mentre l'altra mano poggia con naturalezza vicino al ginocchio o sulla coscia. Il corpo è leggermente diagonale rispetto al letto, con il busto orientato delicatamente verso la finestra. Lo sguardo è rivolto fuori dalla finestra e non verso la fotocamera, assicurando che braccia e capelli non coprano eccessivamente il ricamo della lingerie sul décolleté.
+
+【Espressione ed emozione】
+Espressione placida e ancora un po' assonnata. Occhi dolci, leggermente socchiusi per la luminosità mattutina, sopracciglia rilassate e naturali. Labbra quasi chiuse, con una sfumatura tenera e distesa.
+L'emozione evoca sicurezza, calore e quiete del risveglio. Non un sorriso marcato, bensì un'aria nobile e intima mentre contempla la luce del mattino guardando pigramente fuori.
+
+【Composizione e fotocamera】
+Inquadratura verticale 4:5 ideale per i post su X. La figura è posizionata al centro o leggermente a sinistra, con sufficiente margine affinché la testa e le estremità delle gambe non siano tagliate bruscamente. Inquadratura a figura intera o fino a sotto le ginocchia, in modo da trasmettere appieno l'atmosfera del letto e della luce della finestra.
+Altezza della fotocamera all'altezza del letto o leggermente più bassa. Distanza di ripresa media, bilanciando il soggetto con lo sfondo e garantendo una risoluzione sufficiente per apprezzare i ricami della lingerie. Angolo di campo standard o medio teleobiettivo, evitando distorsioni grandangolari sul corpo, con una prospettiva naturale e una sfocatura dello sfondo che dia profondità.
+
+【Luce, colore, texture e atmosfera】
+La sorgente luminosa principale è la luce naturale del mattino proveniente dalla finestra. La luce diffusa attraverso le tende bianche accarezza dolcemente viso, spalle, décolleté e lenzuola, proiettando ombre tenuissime sul lato opposto. I riflessi della biancheria bianca e delle pareti schiariscono delicatamente le ombre, donando una trasparenza tipicamente mattutina.
+Palette dominata da avorio, bianco, beige chiaro e legno chiaro, per coniugare pulizia e calore accogliente. Pelle con incarnato naturale, capelli con ciocche ben definite, tessuti con pieghe e morbidezza realistiche e ricami con rilievi sottili. Nel complesso, un'atmosfera di raffinata e quieta intimità, con il dolce respiro del nuovo giorno.
+
+【Qualità ed elementi da escludere】
+Alta risoluzione, privilegiando l'anatomia, la luce, i materiali e la prospettiva naturali tipici di uno scatto fotografico reale. La donna deve apparire inequivocabilmente adulta, con una resa naturale dei lineamenti, delle dita, delle gambe, delle articolazioni, delle spalle e della struttura della lingerie.
+Escludere aspetti riconducibili a minori, visi infantili, proporzioni corporee innaturali, arti o dita extra, dita mancanti, articolazioni deformate, abiti che si fondono con la pelle o stringono in modo innaturale, e nudità accidentale. Il seno deve mantenere un volume generoso e naturale, senza apparire eccessivamente enorme, rigido, sferico, spinto in modo innaturale o sfidante la gravità. Escludere scritte, loghi, watermark, elementi UI, levigatura eccessiva della pelle e forti distorsioni grandangolari.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1971,6 +2033,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098689113780064605"></a>
+
+### Traduzione in corso
+
+Autore：[@iadventurejacek](https://x.com/iadventurejacek) · [Post originale](https://x.com/iadventurejacek/status/2098689113780064605)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098689113780064605.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098587991359074550"></a>
 

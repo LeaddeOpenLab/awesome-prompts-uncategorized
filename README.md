@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**107** Prompts · Latest addition: **2026-09-12**
+**109** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,78 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098636136130457930"></a>
+
+### Realistic portrait prompt of a Japanese woman wearing a light pink camisole mini dress on a spring-hued flower path.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098636136130457930)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Realistic portrait prompt of a Japanese woman wearing a light pink camisole mini dress on a spring-hued flower path.
+
+<img src="images/2098636136130457930-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Spring-Hued Flower Path | Light Pink Dress and Afternoon Smile 🌟
+
+[Subject / Art Style]
+A photorealistic fashion portrait capturing the moment an unmistakably adult Japanese woman reaches out toward flowers along a path surrounded by seasonal blooms. With the vibrant colors of the flower field and the light pink dress taking center stage, create an elegant, eye-catching photographic expression that sits comfortably between a gravure photo book and a spring fashion advertisement.
+
+While conveying a sense of intimacy spent in nature, finish it as a beautifully staged shot rather than a casual everyday photo. Balance adult composure, soft sensuality, and cleanliness without leaning solely toward cuteness.
+
+[Location / Background / Worldview]
+A narrow dirt path in a nature-rich garden overflowing on both sides with seasonal flowers. Place soft pink, white, and lavender blossoms in the foreground; in the midground, the dirt path winds through the flower field; and in the background, softly blurred green foliage and gentle rolling hills are visible.
+
+Compose the background so that the abundance of flowers is clearly felt without swallowing the subject's outline. Avoid artificial signboards or items with text; unify the world using only flowers, leaves, soil, and sky. The atmosphere resembles a spring photoshoot location suddenly discovered in the midst of nature.
+
+[Season / Time / Weather]
+From spring to early summer, when flowers are at their peak beauty. The time is around 2:00 PM on a bright afternoon, with clear skies and just a few wispy clouds. Bathed in soft, warm spring sunlight rather than harsh midsummer glare.
+
+A very gentle breeze causes flower tips, the ends of her hair, and the hem of her dress to sway slightly. Express an airy seasonal mood where one can almost smell the fragrance of the flowers in the crisp, refreshing air.
+
+[Character Settings]
+An unmistakably adult Japanese woman, around 20 to 28 years old. Soft, well-proportioned facial features, slightly large dark-irised eyes, natural eyebrows, a slender and elegant nose bridge, and healthy, ruddy lips. Dark brown, below-shoulder wavy hair with fine stray strands framing her face. Fair ochre skin tone showing natural flush, visible pores, and delicate shading.
+
+A naturally glamorous physique balancing delicate shoulders and limbs with a slender waist and feminine curves. Her bust has an unmistakably rich, generous volume, portrayed with soft roundness and natural dimension in accordance with her outfit, posture, and gravity. Her hips have a natural, balanced roundness that harmonizes with her entire body without excessive exaggeration.
+
+[Outfit / Accessories]
+A light pink, lightweight camisole-style mini dress. Thin straps, a soft, square-leaning neckline, modest gathering at the bust, and a naturally cinched waist create a feminine silhouette. The hem is an airy mini length reaching mid-thigh, made of sheer chiffon or soft polyester fabric that sways gently with movement.
+
+A realistic fit that naturally follows her generous bust and slender waist without floating away or digging in excessively. On her feet are thin-strapped sandals in light beige or ivory. Accessories are kept minimal, such as small earrings, so as not to distract from the colors of the flower field and outfit.
+
+[Pose / Action / Gaze]
+The subject stands slightly to the left of the center of the path, her body turned about 30 degrees diagonal to the camera. Her weight rests on her back right leg, with her left leg placed half a step forward in a natural posture as if about to take a step. Her hips are not excessively twisted, and her upper body opens slightly toward the camera.
+
+Her left hand reaches out naturally from her side, lightly touching the tip of a nearby pink flower. Her right hand gently rests by the side of the dress hem. Her torso leans slightly forward, but the chest is not overly concealed by arms or hair. Her gaze looks down toward the flower she touches, naturally connecting her movement and expression.
+
+[Expression / Emotion]
+A soft smile suggesting she unexpectedly found a lovely flower and felt a moment of pure joy. Her lips are slightly parted, corners of the mouth turning up naturally. Her eyes and cheeks soften gently, looking like an authentic, heartfelt emotion rather than a forced camera smile.
+
+Her face tilts slightly downward, gaze directed at the flower. Rather than a dramatic grin, it conveys quiet delight and a touch of shy cuteness, harmonizing mature composure with approachable warmth.
+
+[Composition / Camera]
+A vertical 4:5 aspect ratio composition suited for X posts. A full-body portrait comfortably framing her from head to toe, positioning the subject slightly to the left of center while leaving breathing room for the flower field on the right. The camera height is set between the subject's chest and waist, shooting from a moderate distance.
+
+Focal length is standard to short telephoto equivalent, around 50–85mm. Avoid extreme wide-angle lenses to ensure natural perspective without distorting the face or body. Sharp focus is placed firmly on the subject, with the foreground flowers showing soft blur and the background flower field and hills rendered with moderate bokeh, retaining enough detail to recognize the environment.
+
+[Light / Color / Texture / Atmosphere]
+The main light source is soft afternoon natural light coming from the upper left of the frame. It casts delicate highlights across the hair's surface, shoulders, cheeks, and the light pink fabric, while gentle reflected light from the flowers and ground lifts the opposite side. Shadows remain soft, providing just enough depth to naturally define the dimension of her body and outfit.
+
+Detailed shading and natural flush appear on the skin; individual hair strands, sheen, and fine flyaways are depicted. The dress displays the soft drape and subtle wrinkles typical of lightweight fabric, while flower petals, leaves, and the dirt path each exhibit distinct tactile textures. The overall color palette centers on light pink, white, fresh green, and lavender, creating a bright, translucent spring atmosphere.
+
+[Quality / Negative Prompts]
+As a high-resolution photorealistic photograph, prioritize realistic human anatomy, hands and fingers, lighting, materials, depth, and perspective. The subject must be an unmistakably adult person; avoid juvenile facial features or overly youthful expressions.
+
+Avoid extra limbs or fingers, missing fingers, fused fingers, unnatural joints, awkward body twists, wardrobe malfunctions, blending of clothes into the body, unintended exposure, extreme wide-angle distortion, and excessive skin smoothing. While maintaining a naturally rich bust volume, do not make it gargantuan, stiffly spherical, unnaturally pushed up, or gravity-defying. Do not include any text, logos, watermarks, signboard lettering, or UI elements in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098634064354045974"></a>
 
@@ -2343,6 +2415,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098689113780064605"></a>
+
+### spacex rocket
+
+Author：[@iadventurejacek](https://x.com/iadventurejacek) · [Source](https://x.com/iadventurejacek/status/2098689113780064605)
+
+Other · Published
+
+**Summary:** spacex rocket
+
+<img src="covers/2098689113780064605.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+spacex rocket
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098587991359074550"></a>
 

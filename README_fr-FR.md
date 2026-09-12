@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**107** Prompts · Dernier ajout: **2026-09-12**
+**109** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098636136130457930"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2098636136130457930)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098636136130457930-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098634064354045974"></a>
 
@@ -129,20 +151,60 @@ Ambiance chaleureuse.
 
 <a name="prompt-2098638290094305690"></a>
 
-### Traduction en cours
+### 朝の高級ホテルでアイボリー刺繍ランジェリーを着て目覚める成人女性を描いたリアル調プロンプト。
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2098638290094305690)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** 朝の高級ホテルでアイボリー刺繍ランジェリーを着て目覚める成人女性を描いたリアル調プロンプト。
 
 <img src="images/2098638290094305690-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Lit d'hôtel au matin | Lingerie ivoire brodée et réveil tout en douceur🌟
+
+【Sujet et style】
+Représentez une femme japonaise adulte se levant lentement d'un grand lit blanc dans la chambre d'un hôtel haut de gamme au petit matin. Dans un style photoréaliste raffiné, insufflez l'élégance et l'intimité d'une campagne de lingerie japonaise de luxe ou d'un livre d'art photographique. Sans mise en scène suggestive, créez une expression photographique noble où la quiétude matinale, la lumière caressant la peau et la délicatesse des tissus se perçoivent tout naturellement.
+Bien que la personne et la beauté de la lingerie soient au centre de la composition, l'image ne doit pas ressembler à une simple présentation de produit, mais saisir cet instant suspendu et doux qui suit le réveil. Avec une subtile touche de vie quotidienne, l'ensemble dégage une pureté irréprochable et un luxe feutré.
+
+【Lieu, arrière-plan et ambiance】
+Une chambre d'hôtel lumineuse et soignée, baignée par la lumière du soleil levant filtrant à travers de légers voilages blancs. Au premier plan, des draps et des oreillers blancs délicatement froissés ; au plan moyen, la jeune femme ; à l'arrière-plan, une tête de lit en bois clair, une table de chevet, une lampe discrète et un petit vase de fleurs disposés naturellement pour souligner le raffinement des lieux.
+Au-delà de la fenêtre, le paysage urbain peut s'estomper délicatement sans jamais s'imposer, afin de préserver l'atmosphère matinale paisible de la pièce. Le contraste entre le cadre impeccable de l'hôtel et la literie à peine défaite au réveil conjugue intimité feutrée et esthétique publicitaire.
+
+【Saison, heure et météo】
+Un matin doux évoquant la transition du printemps vers le début de l'été. Une ambiance vers 7 heures du matin, avec un air pur et limpide, et une lumière entrant dans la pièce d'une clarté douce et fraîche.
+Temps ensoleillé. La lumière extérieure reste modérée : une clarté naturelle tamisée par les rideaux enveloppe doucement la chambre. Une matinée agréable sans sensation de chaleur ni de fraîcheur excessive, où domine une atmosphère sereine et vivifiante.
+
+【Description du personnage】
+Femme japonaise sans équivoque adulte, âgée de 20 à 28 ans. Traits doux et harmonieux, yeux légèrement grands, sourcils naturels, arête du nez délicate et lèvres au teint frais et rosé. Cheveux châtain foncé, ondulés naturellement jusqu'aux épaules, avec le léger désordre charmant du réveil et quelques mèches folles encadrant le visage.
+Teint ocre clair, texture de peau naturelle sans effet artificiel et léger éclat de vie. Silhouette gracieuse et féminine, alliant épaules et membres délicats, taille fine et galbe généreux et naturel. La poitrine est généreuse et pulpeuse, tout en conservant une souplesse naturelle qui épouse la posture et le vêtement sans rien ôter à l'élégance de l'ensemble.
+
+【Tenue et accessoires】
+Un ensemble de lingerie ivoire. Le soutien-gorge présente une base en satin délicatement ornée de broderies florales et de dentelle sur les bonnets et les bordures. La culotte assortie harmonise l'ensemble, révélant avec naturel la transparence de la dentelle, le relief des broderies et l'éclat soyeux du satin.
+La coupe est réaliste et épouse parfaitement les courbes sans contrainte excessive. Le décolleté met en valeur le travail des broderies et de la dentelle sans effet pigeonnant outrancier. Les bijoux sont d'une grande discrétion, limités à de petites puces d'oreilles raffinées ou à une bague fine, sans aucun accessoire ostentatoire.
+
+【Pose, mouvement et regard】
+La femme est surprise dans son mouvement alors qu'elle s'assied sur le lit. Le bas du corps repose naturellement sur les draps, une jambe légèrement repliée et l'autre doucement allongée vers l'avant pour l'équilibre. Le poids du corps repose en partie sur une main en appui sur le lit, le buste se redressant avec grâce tandis que les épaules s'ouvrent avec naturel.
+La main posée sur le drap soutient le corps, tandis que l'autre repose délicatement près du genou ou sur la cuisse. Le corps est légèrement orienté en diagonale par rapport au lit, le buste tourné doucement vers la fenêtre. Le regard se porte vers l'extérieur par la fenêtre plutôt que vers l'objectif, en veillant à ce que les bras et la chevelure ne masquent pas excessivement le décolleté et la lingerie.
+
+【Expression et émotion】
+Expression paisible et encore un peu ensommeillée. Regard doux, paupières à peine plissées face à la clarté matinale, sourcils calmes et détendus. Lèvres à peine entrouvertes, esquissant une nuance douce et détendue.
+L'émotion évoque le réconfort, la chaleur et la quiétude du réveil. Loin d'un sourire forcé, l'accent est mis sur une atmosphère intime et distinguée, contemplant rêveusement le jour naissant à travers la lumière du matin.
+
+【Composition et cadrage】
+Format vertical 4:5 idéal pour une publication sur X. La silhouette est placée au centre ou légèrement sur la gauche, avec un cadrage aéré pour ne couper maladroitement ni le sommet de la tête ni les pieds. Plan d'ensemble ou cadrage au-dessous des genoux, restituant pleinement l'ambiance du lit et la lumière de la fenêtre.
+Hauteur de caméra au niveau du lit ou légèrement plus basse. Distance de prise de vue moyenne, équilibrant la présence du personnage et de la pièce tout en conservant une netteté suffisante pour apprécier les broderies de la lingerie. Focale standard à moyen téléobjectif pour éviter toute distorsion grand-angle sur le corps, avec une perspective naturelle et un léger flou d'arrière-plan pour donner de la profondeur.
+
+【Lumière, couleur, texture et ambiance】
+Source principale : lumière naturelle du matin venant de la fenêtre. Cette lumière tamisée par les rideaux blancs caresse le visage, les épaules, le décolleté et les draps, projetant des ombres très douces du côté opposé. Les reflets de la literie blanche et des murs éclaircissent subtilement les zones sombres, créant une belle transparence matinale.
+Palette dominée par l'ivoire, le blanc, le beige poudré et le bois clair, conjuguant sensation de propreté et douceur chaleureuse. Teint naturel de la peau, mèches de cheveux finement détaillées, froissés naturels du tissu et relief délicat de la broderie. L'ambiance générale respire l'intimité noble, la paix et la douce rémanence du matin.
+
+【Qualité et éléments exclus】
+Haute résolution, privilégiant un rendu naturel digne d'une véritable prise de vue photographique : anatomie, lumière, matières et perspective impeccables. La jeune femme doit être clairement identifiable comme adulte, avec une transition anatomique irréprochable au niveau du visage, des mains, des jambes, des articulations, des épaules et des finitions textiles.
+Exclure tout aspect mineur, visage juvénile, proportions anatomiques aberrantes, doigts ou membres surnuméraires ou manquants, articulations déformées, vêtements incrustés ou fondus dans la peau et nudité involontaire. La poitrine doit garder un volume plein et naturel sans être hypertrophiée, rigide, artificiellement surélevée ou défiant la gravité. Bannir textes, logos, filigranes, éléments d'interface, lissage excessif de la peau et distorsions grand-angle prononcées.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1971,6 +2033,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098689113780064605"></a>
+
+### Traduction en cours
+
+Auteur：[@iadventurejacek](https://x.com/iadventurejacek) · [Publication originale](https://x.com/iadventurejacek/status/2098689113780064605)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098689113780064605.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098587991359074550"></a>
 

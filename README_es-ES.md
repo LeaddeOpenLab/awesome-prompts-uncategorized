@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**107** Prompts · Última incorporación: **2026-09-12**
+**109** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098636136130457930"></a>
+
+### Traducción en curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2098636136130457930)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098636136130457930-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098634064354045974"></a>
 
@@ -129,20 +151,60 @@ Atmósfera acogedora.
 
 <a name="prompt-2098638290094305690"></a>
 
-### Traducción en curso
+### Prompt de estilo realista que retrata a una mujer adulta despertando en lencería bordada en marfil en un hotel de lujo por la mañana.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2098638290094305690)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de estilo realista que retrata a una mujer adulta despertando en lencería bordada en marfil en un hotel de lujo por la mañana.
 
 <img src="images/2098638290094305690-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Cama de hotel por la mañana｜Lencería bordada en marfil y un suave despertar🌟
+
+【Tema y estilo visual】
+Representa a una mujer japonesa adulta levantándose lentamente de una cama blanca en la habitación de un hotel de lujo por la mañana. Con un estilo fotorrealista como base, infunde la sofisticación y la intimidad de un anuncio de lencería japonesa de alta gama o de un fotolibro. No se trata de una puesta en escena explícita, sino de una expresión fotográfica refinada que transmite con naturalidad la serenidad de la mañana, la luz acariciando la piel y la delicadeza de la prenda.
+El foco principal es la belleza de la persona y de la lencería, pero más que una simple muestra de vestuario, se retrata como un instante que captura el momento tierno y apacible justo después de despertar. Conservando un leve toque de cotidianidad, el conjunto debe tener un acabado pulcro, sereno y de lujo sobrio.
+
+【Lugar, fondo y ambientación】
+Una habitación de hotel luminosa y distinguida donde entra la luz matutina a través de cortinas blancas. En primer plano, sábanas blancas suavemente revueltas y almohadas; en plano medio, la mujer; y en el fondo, un cabecero y mesitas de noche de madera clara, una lámpara discreta y un pequeño florero colocados con naturalidad para realzar la elegancia del espacio.
+Por la ventana se puede intuir levemente el paisaje urbano, pero sin excesivo protagonismo, funcionando solo como fondo para transmitir la tranquila mañana en el interior. El contraste entre el orden propio del hotel y la ropa de cama ligeramente deshecha tras despertar logra un equilibrio entre intimidad y estética publicitaria.
+
+【Estación, hora y clima】
+La estación evoca una mañana apacible entre la primavera y principios del verano. La franja horaria da la impresión de rondar las 7:00 de la mañana, con aire límpido y una luz que entra en la habitación con un brillo suave y pulcro.
+Clima despejado. La luz exterior no es demasiado intensa; una luz natural difuminada a través de las cortinas envuelve toda la estancia. Una mañana agradable que no transmite ni frío ni calor, valorando una atmósfera silenciosa y fresca.
+
+【Descripción del personaje】
+Una mujer japonesa claramente adulta, de entre 20 y 28 años. Facciones suaves y proporcionadas, ojos ligeramente grandes, cejas naturales, puente nasal elegante y labios con buen tono. Cabello castaño oscuro, ondulado de forma natural hasta los hombros. Conserva el ligero desorden propio de acabar de levantarse y mechones sueltos alrededor del rostro.
+Piel de tono ocre claro, con una textura natural que no resulta excesivamente lisa y un sutil rubor saludable. Constitución esbelta en hombros y extremidades, cintura fina y una silueta femenina con curvas armónicas y naturalmente atractivas. El busto tiene un volumen claramente generoso, pero se muestra suave y natural según la prenda y la postura, sin perder la elegancia general.
+
+【Vestuario y accesorios】
+Conjunto de lencería en tono marfil. El sujetador tiene una base de satén, con un diseño distinguido decorado con encaje y bordados florales delicados en copas y bordes. Las braguitas van coordinadas en la misma gama de color, dejando ver con naturalidad las transparencias del encaje, el relieve del bordado y el tenue brillo del satén.
+Tallaje realista, priorizando un ajuste que se adapte al cuerpo sin forzarlo. El escote se muestra de forma hermosa para apreciar los detalles del bordado y el encaje, evitando un efecto realce excesivo. Los accesorios son mínimos, limitándose a pequeños pendientes finos o un anillo discreto, sin añadir adornos llamativos.
+
+【Pose, acción y mirada】
+La mujer está en proceso de incorporarse sobre la cama. El tren inferior reposa con naturalidad sobre la sábana, con una pierna ligeramente flexionada y la otra extendida suavemente hacia delante para dar estabilidad. El peso recae un poco sobre la mano apoyada en la sábana, levantando el torso de forma relajada y abriendo los hombros con soltura.
+La mano que toca la sábana sirve de apoyo al cuerpo, mientras que la otra mano descansa de forma natural cerca de la rodilla o sobre el muslo. El cuerpo se orienta ligeramente en diagonal respecto a la cama, con el torso algo abierto hacia la ventana. La mirada no se dirige a la cámara sino hacia el exterior por la ventana, procurando que los brazos o el cabello no tapen en exceso el escote de la lencería.
+
+【Expresión y emoción】
+Expresión ligeramente somnolienta y serena. Mirada suave, con los ojos apenas entrecerrados por la luminosidad, cejas naturales y relajadas. Labios casi cerrados, transmitiendo un matiz tierno y distendido.
+A nivel emocional, transmite una sensación de calidez y seguridad en medio del sosiego del despertar. No muestra una gran sonrisa, sino un aire refinado y cercano mientras mira pensativa hacia afuera sintiendo la luz matinal.
+
+【Composición y cámara】
+Composición vertical 4:5 pensada para publicaciones en X. La figura se sitúa entre el centro y ligeramente hacia la izquierda, dejando suficiente margen para que no se corten de forma forzada desde la coronilla hasta la punta de los pies. Encuadre de cuerpo casi entero o hasta por debajo de las rodillas, transmitiendo plenamente la atmósfera de la cama y la luz de la ventana.
+Altura de la cámara al nivel de la cama o ligeramente inferior. Distancia de disparo media, equilibrando el sujeto y el fondo mientras se mantiene suficiente resolución para apreciar el bordado de la lencería. Distancia focal estándar a teleobjetivo medio, evitando deformar el cuerpo con grandes angulares extremos, logrando profundidad mediante una perspectiva natural y un suave desenfoque del fondo.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la luz natural de la mañana que entra por la ventana. La luz difusa a través de las cortinas blancas ilumina con suavidad el rostro, los hombros, el escote y las sábanas, proyectando sombras muy tenues en el lado opuesto. Los reflejos en las sábanas blancas y las paredes aclaran suavemente las zonas oscuras, aportando esa transparencia típica de la mañana.
+Paleta de colores centrada en marfil, blanco, beige claro y tonos de madera suave, aunando pulcritud y calidez. Rubor natural en la piel, mechones definidos en el cabello, arrugas y volumen en las telas, y finos relieves en el bordado. En conjunto, una atmósfera de intimidad noble y tranquila, impregnada del dulce sosiego matinal.
+
+【Calidad y elementos a evitar】
+Alta resolución, priorizando la anatomía humana natural, la luz, los materiales y la perspectiva como si estuviera tomada con una cámara real. La mujer debe verse claramente como adulta, con una continuidad natural en rasgos faciales, dedos, piernas, articulaciones, hombros y estructura de la lencería.
+Evitar aspectos infantiles o menores de edad, rostros demasiado aniñados, proporciones corporales antinaturales, dedos o extremidades adicionales o faltantes, articulaciones deformadas, prendas que se fundan o incrusten en la piel, y desnudez involuntaria. El busto debe conservar un volumen generoso y natural, sin formas esféricas rígidas, tamaños descomunales irreales, realce excesivo o formas que desafíen la gravedad. Sin textos, logotipos, marcas de agua, interfaces de usuario (UI), suavizado excesivo de la piel o distorsión extrema de gran angular.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2016,6 +2078,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2098689113780064605"></a>
+
+### Traducción en curso
+
+Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicación original](https://x.com/iadventurejacek/status/2098689113780064605)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098689113780064605.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098587991359074550"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**107** Prompt · Bổ sung mới nhất: **2026-09-12**
+**109** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098636136130457930"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098636136130457930)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098636136130457930-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098634064354045974"></a>
 
@@ -129,20 +151,60 @@ Bầu không khí ấm cúng.
 
 <a name="prompt-2098638290094305690"></a>
 
-### Đang dịch
+### Prompt phong cách chân thực mô tả người phụ nữ trưởng thành thức giấc trong bộ nội y thêu màu ngà tại khách sạn sang trọng vào buổi sáng.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098638290094305690)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt phong cách chân thực mô tả người phụ nữ trưởng thành thức giấc trong bộ nội y thêu màu ngà tại khách sạn sang trọng vào buổi sáng.
 
 <img src="images/2098638290094305690-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Giường khách sạn buổi sáng｜Nội y thêu màu ngà và khoảnh khắc thức giấc dịu dàng🌟
+
+【Chủ đề/Phong cách hình ảnh】
+Vẽ một người phụ nữ Nhật Bản trưởng thành đang từ từ ngồi dậy trên chiếc giường trắng trong phòng khách sạn cao cấp vào buổi sáng. Lấy phong cách chân thực (photorealistic) làm nền tảng, đồng thời mang lại sự tinh tế và thân mật như một cuốn sách ảnh hoặc quảng cáo nội y cao cấp của Nhật Bản. Không phải là sự phô diễn lộ liễu, mà là một biểu đạt nhiếp ảnh thanh lịch, truyền tải tự nhiên sự tĩnh lặng của buổi sáng, ánh sáng chạm vào làn da và nét tinh xảo của trang phục.
+Nhân vật chính là vẻ đẹp của người phụ nữ và bộ nội y, nhưng đây không đơn thuần là giới thiệu trang phục mà được khắc họa như một khoảnh khắc dịu êm ngay sau khi thức giấc. Giữ lại chút cảm giác đời thường thoang thoảng, toàn bộ bức ảnh có sự sạch sẽ, mang lại cảm giác sang trọng và điềm đạm.
+
+【Địa điểm/Bối cảnh/Thế giới quan】
+Phòng khách sạn cao cấp, sáng sủa với ánh nắng ban mai chiếu qua rèm cửa màu trắng. Tiền cảnh là ga trải giường màu trắng hơi xáo trộn mềm mại cùng gối, trung cảnh là người phụ nữ, hậu cảnh bố trí tự nhiên tấm đầu giường bằng gỗ sáng màu, bàn cạnh giường, đèn ngủ khiêm tốn, bình hoa nhỏ, tạo nên vẻ thanh lịch cho không gian.
+Bên ngoài cửa sổ có thể thấp thoáng khung cảnh thành phố, nhưng không quá nổi bật, cốt chỉ để làm nền tôn lên buổi sáng yên bình trong phòng. Sự tương phản giữa không gian ngăn nắp của khách sạn và bộ chăn ga hơi xô lệch do vừa mới ngủ dậy tạo nên sự cân bằng giữa nét thân mật và vẻ đẹp đậm chất quảng cáo.
+
+【Mùa/Thời gian/Thời tiết】
+Mùa gợi nhớ đến buổi sáng êm đềm từ mùa xuân đến đầu hè. Khung thời gian tạo ấn tượng vào khoảng 7 giờ sáng, không khí trong lành, ánh sáng tràn vào phòng mang độ sáng dịu dàng và tinh khiết.
+Thời tiết nắng đẹp. Ánh sáng bên ngoài không quá gắt, ánh sáng tự nhiên khuếch tán qua rèm bao trùm toàn bộ căn phòng. Buổi sáng dễ chịu không mang lại cảm giác nóng hay lạnh, trân trọng bầu không khí tĩnh lặng và tươi mới.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản trưởng thành rõ rệt, khoảng 20 đến 28 tuổi. Các đường nét trên khuôn mặt mềm mại và cân đối, đôi mắt hơi to, lông mày tự nhiên, sống mũi thanh tú, đôi môi hồng hào. Tóc màu nâu trầm, uốn gợn sóng tự nhiên dài đến vai. Giữ lại nét hơi rối nhẹ như vừa ngủ dậy và những lọn tóc con vương quanh mặt.
+Làn da tông màu be sáng (ochre), kết cấu tự nhiên không quá mịn màng giả tạo và có sắc hồng hào nhẹ nhàng. Vóc dáng thanh mảnh ở vai và chân tay, eo thon, đường cong nữ tính hài hòa tạo nên thân hình quyến rũ tự nhiên. Vòng một căng tràn rõ nét nhưng trông mềm mại, tự nhiên theo trang phục và tư thế, không làm mất đi vẻ trang nhã tổng thể.
+
+【Trang phục/Phụ kiện】
+Bộ nội y màu ngà (ivory). Áo ngực làm từ chất liệu satin làm nền, cúp ngực và viền được trang trí bằng ren và họa tiết thêu hoa tinh xảo đầy trang nhã. Quần lót đồng điệu về màu sắc, thể hiện tự nhiên độ xuyên thấu của ren, độ nổi khối của hình thêu và độ bóng nhẹ của satin.
+Kích cỡ thực tế, chú trọng vào độ vừa vặn ôm lấy cơ thể một cách thoải mái. Phần ngực tôn lên vừa đủ để thấy được thiết kế thêu và ren mà không bị cảm giác đẩy lên quá mức. Phụ kiện rất khiêm tốn, chỉ dừng lại ở khuyên tai nhỏ mảnh hoặc nhẫn thanh mảnh, không thêm trang sức lòe loẹt.
+
+【Tư thế/Hành động/Ánh nhìn】
+Người phụ nữ đang trong tư thế ngồi dậy trên giường. Nửa thân dưới đặt tự nhiên trên ga giường, một chân hơi co lại, chân kia duỗi nhẹ về phía trước để giữ thăng bằng. Trọng tâm dồn nhẹ về phía một tay đang chống trên ga giường, phần thân trên nâng lên nhẹ nhàng, vai mở tự nhiên.
+Tay chống trên ga giường có vai trò đỡ cơ thể, tay còn lại đặt tự nhiên gần đầu gối hoặc trên đùi. Hướng cơ thể hơi chéo so với giường, thân trên mở nhẹ về phía cửa sổ. Ánh mắt hướng ra ngoài cửa sổ chứ không nhìn vào máy ảnh, căn chỉnh để cánh tay hoặc tóc không che khuất quá nhiều phần ngực của trang phục.
+
+【Biểu cảm/Cảm xúc】
+Biểu cảm hơi ngái ngủ và yên bình. Đôi mắt dịu dàng, hơi nheo lại như cảm nhận được ánh sáng, lông mày tự nhiên và điềm tĩnh. Khóe miệng khép hờ, mang một sắc thái dịu dàng, hơi thả lỏng.
+Về cảm xúc, đó là hình ảnh của sự an tâm và ấm áp giữa sự tĩnh lặng vừa thức giấc. Không phải là nụ cười lớn, mà trân trọng bầu không khí thanh lịch và gần gũi khi thẫn thờ ngắm nhìn ra bên ngoài trong khi cảm nhận ánh ban mai.
+
+【Bố cục/Máy ảnh】
+Bố cục dọc tỷ lệ 4:5 phù hợp cho bài đăng trên X. Nhân vật được đặt ở giữa khung hình, hơi lệch về bên trái hoặc gần chính giữa, chừa một chút khoảng trống để từ đỉnh đầu đến mũi chân không bị cắt một cách gượng gạo. Bố cục chụp gần như toàn thân hoặc lấy đến dưới đầu gối, để truyền tải trọn vẹn bầu không khí của chiếc giường và ánh sáng cửa sổ.
+Độ cao máy ảnh ngang bằng với giường hoặc hơi thấp hơn một chút. Khoảng cách chụp trung bình, vừa giữ được sự cân bằng giữa nhân vật và hậu cảnh, vừa đảm bảo độ phân giải để có thể thấy rõ các chi tiết thêu trên trang phục. Góc nhìn từ tiêu chuẩn đến tele tầm trung, tránh sự phóng đại cơ thể do ống kính góc quá rộng, tạo chiều sâu bằng phối cảnh tự nhiên và độ mờ hậu cảnh nhẹ.
+
+【Ánh sáng/Màu sắc/Chất liệu/Không khí】
+Nguồn sáng chính là ánh sáng tự nhiên buổi sáng chiếu vào từ phía cửa sổ. Ánh sáng khuếch tán qua rèm trắng nhẹ nhàng chiếu lên khuôn mặt, vai, ngực và ga trải giường, tạo ra những bóng đổ rất mờ ở phía đối diện. Ánh sáng phản chiếu từ chăn ga màu trắng và tường nhẹ nhàng nâng sáng vùng tối, tạo nên độ trong trẻo đặc trưng của buổi sáng.
+Tông màu chủ đạo là màu ngà, trắng, be nhạt và vân gỗ mềm mại, kết hợp hài hòa giữa sự sạch sẽ và ấm áp. Làn da có sắc hồng hào tự nhiên, tóc có từng lọn chi tiết, vải vóc có nếp nhăn và độ phồng, hình thêu có độ lồi lõm tinh tế. Tổng thể mang lại bầu không khí thân mật, tĩnh lặng, trang nhã cùng dư vị dịu dàng của buổi sáng.
+
+【Chất lượng/Yếu tố loại trừ】
+Độ phân giải cao, chú trọng vào cơ thể người, ánh sáng, chất liệu và phối cảnh tự nhiên như được chụp bằng máy ảnh thực tế. Thể hiện rõ ràng là phụ nữ trưởng thành, các đường nét khuôn mặt, ngón tay, chân, khớp, vùng vai và cấu trúc trang phục được kết nối tự nhiên.
+Tránh các biểu hiện trông giống vị thành niên, khuôn mặt quá non nớt, vóc dáng bất thường, thừa chi hoặc ngón tay, thiếu ngón, biến dạng khớp, trang phục bó thắt biến dạng hoặc hòa lẫn vào da, lộ cơ thể ngoài ý muốn. Vòng một giữ độ đầy đặn tự nhiên, không tạo hình dạng cầu cứng bất thường, khổng lồ phi thực tế, nâng đẩy quá mức hoặc chống lại trọng lực. Không chứa văn bản, logo, hình mờ, giao diện người dùng (UI), làm mịn da quá đà, méo hình do góc siêu rộng.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2016,6 +2078,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098689113780064605"></a>
+
+### Đang dịch
+
+Tác giả：[@iadventurejacek](https://x.com/iadventurejacek) · [Bài gốc](https://x.com/iadventurejacek/status/2098689113780064605)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098689113780064605.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098587991359074550"></a>
 

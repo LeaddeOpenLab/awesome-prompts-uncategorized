@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**107** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**109** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098636136130457930"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2098636136130457930)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098636136130457930-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098634064354045974"></a>
 
@@ -129,20 +151,60 @@ Gemütliche Atmosphäre.
 
 <a name="prompt-2098638290094305690"></a>
 
-### Übersetzung läuft
+### 朝の高級ホテルでアイボリー刺繍ランジェリーを着て目覚める成人女性を描いたリアル調プロンプト。
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2098638290094305690)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 朝の高級ホテルでアイボリー刺繍ランジェリーを着て目覚める成人女性を描いたリアル調プロンプト。
 
 <img src="images/2098638290094305690-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Morgendliches Hotelbett | Elfenbeinfarbene Spitzenunterwäsche und ein sanftes Erwachen🌟
+
+【Thema & Bildstil】
+Zeichne eine erwachsene japanische Frau, die am Morgen in einem luxuriösen Hotelzimmer langsam aus einem weißen Bett aufsteht. Im fotorealistischen Grundstil gehalten, jedoch mit der Raffinesse und Intimität einer hochwertigen japanischen Lingerie-Werbung oder eines Kunstfotobands. Keine explizite Inszenierung, sondern ein eleganter fotografischer Ausdruck, der die morgendliche Stille, das sanfte Licht auf der Haut und die Zartheit der Lingerie auf natürliche Weise spürbar macht.
+Im Mittelpunkt stehen die Schönheit der Person und der Wäsche, doch statt einer reinen Produktpräsentation soll es wie der intime Moment direkt nach dem Aufwachen eingefangen werden. Ein Hauch von gelebter Natürlichkeit bleibt erhalten, während das Gesamtbild makellos, sauber und von ruhiger Luxus-Atmosphäre geprägt ist.
+
+【Ort, Hintergrund & Stimmung】
+Ein helles, stilvolles Hotelzimmer, in das durch weiße Vorhänge das Morgenlicht fällt. Im Vordergrund liegen weich zerknitterte weiße Laken und Kissen, im Mittelgrund die Frau, und im Hintergrund sorgen ein Kopfteil aus hellem Holz, ein Nachttisch, eine dezente Lampe und eine kleine Blumenvase für eine dezente, edle Raumwirkung.
+Vor dem Fenster darf die Silhouette der Stadt ganz dezent zu erahnen sein, ohne sich in den Vordergrund zu drängen, sodass stets die ruhige Morgenstimmung des Zimmers dominiert. Der Kontrast zwischen der aufgeräumten Ordnung des Hotels und dem leicht zerwühlten Bettzeug nach dem Aufstehen vereint Intimität und werbliche Ästhetik.
+
+【Jahreszeit, Tageszeit & Wetter】
+Ein milder Morgen, der an den Übergang vom Frühling zum Frühsommer erinnert. Die Tageszeit wirkt wie gegen 7 Uhr morgens, die Luft ist klar, und das einfallende Raumlicht besitzt eine weiche, erfrischend saubere Helligkeit.
+Das Wetter ist sonnig. Das Außenlicht ist nicht zu grell; weiches, durch die Vorhänge diffundiertes Tageslicht erfüllt den gesamten Raum. Ein behaglicher Morgen, der weder Hitze noch Kälte spüren lässt, geprägt von einer ruhigen, frischen Frühlingsluft.
+
+【Charakterbeschreibung】
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Weiche, ebenmäßige Gesichtszüge, etwas größere Augen, natürliche Augenbrauen, eine feine Nase und gesunde, wohlgeformte Lippen. Das Haar ist dunkelbraun, schulterlang mit natürlichen Wellen, leicht zerzaust wie frisch erwacht, mit einigen feinen Strähnen um das Gesicht.
+Der Hautton ist helles Ocker, mit einer natürlichen, nicht übermäßig geglätteten Textur und zarter Durchblutung. Ihre Figur ist zierlich an Schultern und Gliedmaßen, mit schlanker Taille und harmonisch weiblichen Kurven in natürlicher Sanduhrform. Die Brust besitzt eine deutlich füllige, üppige Fülle, wirkt jedoch entsprechend der Kleidung und Körperhaltung weich und natürlich, ohne die Eleganz des Gesamtbilds zu beeinträchtigen.
+
+【Kleidung & Accessoires】
+Ein elfenbeinfarbenes Lingerie-Set. Der BH basiert auf Seidensatin, veredelt mit zarter floraler Stickerei und feiner Spitze an den Körbchen und Rändern in edlem Design. Das Höschen ist farblich passend abgestimmt, sodass die Transparenz der Spitze, die Dreidimensionalität der Stickerei und der dezente Schimmer des Satins natürlich wirken.
+Die Passform ist realistisch und schmiegt sich ungezwungen an den Körper an. Das Dekolleté bringt die Muster von Stickerei und Spitze schön zur Geltung, vermeidet jedoch einen übertriebenen Push-up-Effekt. Schmuck bleibt minimal und dezent, beschränkt auf feine kleine Ohrstecker oder einen zarten Ring; auffälliger Schmuck wird vermieden.
+
+【Pose, Bewegung & Blick】
+Die Frau befindet sich mitten in der Bewegung des Aufstehens auf dem Bett. Der Unterkörper ruht natürlich auf dem Bettlaken, ein Bein ist leicht angewinkelt, das andere sanft nach vorn gestreckt zur Stabilisierung. Das Körpergewicht liegt leicht auf der Hand, die sich auf dem Laken aufstützt, während sich der Oberkörper gemächlich aufrichtet und die Schultern natürlich öffnen.
+Die auf dem Laken liegende Hand dient der Abstützung, die andere Hand ruht entspannt nahe dem Knie oder auf dem Oberschenkel. Der Körper ist leicht schräg zum Bett ausgerichtet, der Oberkörper sanft zum Fenster hin geöffnet. Der Blick ist nicht in die Kamera, sondern aus dem Fenster gerichtet, wobei Arme und Haare das Dekolleté und die Lingerie nicht zu sehr verdecken.
+
+【Mimik & Emotion】
+Der Gesichtsausdruck ist leicht schläfrig und friedlich. Die Augenpartie wirkt weich, durch das helle Morgenlicht leicht zusammengekniffen; die Augenbrauen sind entspannt und natürlich. Die Lippen sind fast geschlossen, mit einem sanften, gelösten Hauch.
+Die emotionale Ausstrahlung vermittelt das Gefühl von Geborgenheit, Ruhe und behaglicher Wärme kurz nach dem Aufwachen. Kein breites Lächeln, sondern eine edle, nahbare Stimmung beim verträumten Hinausschauen in das Morgenlicht.
+
+【Komposition & Kamera】
+Vertikale 4:5-Komposition für X-Posts. Die Person ist in der Bildmitte oder leicht links davon platziert, mit ausreichend Rand nach oben und unten, damit Kopf und Füße nicht unnatürlich abgeschnitten werden. Eine Ganzkörper- oder Knieaufnahme, die die Stimmung von Bett und Fensterlicht voll zur Geltung bringt.
+Kamerahöhe etwa auf Betthöhe oder knapp darunter. Mittlere Aufnahmedistanz, um ein ausgewogenes Verhältnis zwischen Person und Raum zu schaffen und die Stickereien der Lingerie scharf erkennbar zu halten. Brennweite Standard bis leichtes Teleobjektiv; Weitwinkelverzerrungen des Körpers werden vermieden, mit natürlicher Perspektive und dezenter Hintergrundunschärfe für sanfte Raumtiefe.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Hauptlichtquelle ist das natürliche Morgenlicht vom Fenster. Das durch die weißen Vorhänge gestreute Licht umhüllt sanft Gesicht, Schultern, Dekolleté und Laken, während auf der abgewandten Seite ganz feine Schatten entstehen. Reflexionen von weißer Bettwäsche und Wänden hellen Schattenpartien weich auf und erzeugen eine morgendlich klare Transparenz.
+Farbpalette dominiert von Elfenbein, Weiß, zartem Beige und warmen Holztönen, die Reinheit mit Gemütlichkeit verbinden. Natürliche Hauttönung, fein gezeichnete Haarsträhnen, lebendige Falten und Drapierungen im Stoff sowie plastische Stickereidetails. Insgesamt entsteht eine elegante, ruhige Intimität mit dem sanften Nachklang eines frischen Morgens.
+
+【Qualität & Ausschlusskriterien】
+Hohe Auflösung, Fokus auf natürliche Anatomie, Licht, Materialien und Perspektive wie bei einer echten Fotokamera. Eindeutige Darstellung einer erwachsenen Frau mit anatomisch korrekten Übergängen von Gesichtszügen, Fingern, Beinen, Gelenken, Schulterpartie und Wäschestruktur.
+Keine minderjährig wirkenden Züge, kein kindliches Gesicht, keine unnatürlichen Körperproportionen, keine überzähligen oder fehlenden Gliedmaßen/Finger, keine anatomischen Fehler an Gelenken, kein Verschmelzen oder Einschneiden der Kleidung, keine ungewollte Entblößung. Die Brust bleibt voluminös und natürlich, nicht unnatürlich riesig, kugelrund-starr, übermäßig angehoben oder der Schwerkraft trotzend. Keine Texte, Logos, Wasserzeichen, UI-Elemente, übertriebene Weichzeichnerfilter auf der Haut oder extreme Weitwinkelverzerrungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1971,6 +2033,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098689113780064605"></a>
+
+### Übersetzung läuft
+
+Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Originalbeitrag](https://x.com/iadventurejacek/status/2098689113780064605)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098689113780064605.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098587991359074550"></a>
 

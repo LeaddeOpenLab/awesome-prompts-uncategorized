@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**107** Prompt · Son eklenen: **2026-09-12**
+**109** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098636136130457930"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098636136130457930)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098636136130457930-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098634064354045974"></a>
 
@@ -129,20 +151,60 @@ Rahat ve samimi bir atmosfer.
 
 <a name="prompt-2098638290094305690"></a>
 
-### Çeviri sürüyor
+### Sabah lüks bir otelde fildişi işlemeli iç çamaşırıyla uyanan yetişkin bir kadını tasvir eden gerçekçi tarzda görsel istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098638290094305690)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabah lüks bir otelde fildişi işlemeli iç çamaşırıyla uyanan yetişkin bir kadını tasvir eden gerçekçi tarzda görsel istemi.
 
 <img src="images/2098638290094305690-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Sabah Otel Yatağında | Fildişi İşlemeli İç Çamaşırı ve Yumuşak Bir Uyanış🌟
+
+【Ana Tema ve Görsel Tarz】
+Sabah saatlerinde lüks bir otel odasında, beyaz yatağın üzerinden yavaşça kalkan yetişkin bir Japon kadını tasvir edin. Fotogerçekçilik temel alınarak, Japonya'nın seçkin iç giyim reklamları veya fotoğraf albümlerindeki gibi zarafet ve samimiyet hissi katılmalıdır. Göze batan ya da açık saçık bir sunum yerine, sabahın dinginliğini, tene değen ışığı ve giysinin inceliğini doğal olarak hissettiren zarif bir fotoğraf dili kullanılmalıdır.
+Odak noktası kadının ve iç çamaşırının güzelliğidir; ancak bu sadece bir kıyafet tanıtımı gibi değil, uyanmanın hemen ardından gelen o yumuşak anı yakalayan bir enstantane olarak resmedilmelidir. Yaşanmışlık hissi hafifçe korunurken, genel görünüm temiz, sakin ve üst düzey bir lüks hissi taşımalıdır.
+
+【Mekân, Arka Plan ve Atmosfer】
+Beyaz perdelerin ardından sabah güneşinin süzüldüğü, aydınlık ve kaliteli bir otel odası. Ön planda hafifçe dağılmış beyaz çarşaflar ve yastıklar, orta planda kadın, arka planda ise açık renkli ahşap dokulu yatak başlığı, komodin, abartısız bir lamba ve küçük bir çiçek vazosu gibi ögeler doğal bir şekilde yer alarak mekânın zarafetini vurgulamalıdır.
+Pencerenin dışındaki şehir manzarası hafifçe hissedilebilir ancak aşırı baskın olmamalı, içerideki huzurlu sabah havasını destekleyen bir arka plan olarak kalmalıdır. Otelin düzenli mekânı ile yeni uyanmış olmanın getirdiği hafif dağınık nevresimler arasındaki tezat, hem samimiyeti hem de reklam estetiğindeki güzelliği bir arada sunmalıdır.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim, ilkbahardan erken yaza geçişi andıran ılık bir sabah. Zaman dilimi sabah saat 7 civarı hissi vermeli, hava berrak, odaya giren ışık ise yumuşak, temiz ve ferahlatıcı bir aydınlığa sahip olmalıdır.
+Hava güneşli. Dışarıdan gelen ışık çok sert olmamalı, perdelerden yayılan doğal ışık tüm odayı sarmalıdır. Sıcak ya da soğuk hissettirmeyen konforlu bir sabah olmalı, sessiz ve taze hava dokusu özenle yansıtılmalıdır.
+
+【Karakter Özellikleri】
+20-28 yaşlarında, açıkça yetişkin bir Japon kadın. Yumuşak ve orantılı yüz hatları, hafif iri gözler, doğal kaşlar, zarif bir burun kemeri ve canlı, renkli dudaklar. Saçlar koyu kahverengi, omuz hizasında ve doğal dalgalı; yeni uyanmış olmanın getirdiği hafif bir dağınıklık ve yüz çevresinde serbest kalan ince saç telleri bulunmalıdır.
+Ten rengi açık aşıboyası/bej tonlarında, aşırı pürüzsüzleştirilmemiş doğal dokuya ve hafif bir canlılığa sahip olmalıdır. Vücut yapısı; narin omuzlar ve uzuvlar, ince bir bel ve kadınsı kıvrımların uyum içinde olduğu doğal dolgun bir siluet. Göğüsler belirgin biçimde dolgun bir hacme sahip olmakla birlikte, duruşa ve iç çamaşırına uygun şekilde yumuşak ve doğal görünmeli, genel asaleti bozmamalıdır.
+
+【Kıyafet ve Aksesuar】
+Fildişi rengi iç çamaşırı takımı. Sütyen, saten kumaş zemin üzerine kuplarda ve kenarlarda zarif çiçek nakışları ve dantel işlemeleri barındıran asil bir tasarıma sahip olmalıdır. Külot da aynı renk tonunda uyumlu olmalı; dantelin yarı saydamlığı, nakışın üç boyutlu dokusu ve satenin hafif parlaklığı doğal bir biçimde görünmelidir.
+Kalıp gerçekçi olmalı, vücuda zorlamasız ve kusursuz oturan bir uyuma önem verilmelidir. Göğüs dekoltesi nakış ve dantel işçiliğini güzelce gösterecek ölçüde estetik durmalı, ancak aşırı destekli (push-up) yapay bir görüntüden kaçınılmalıdır. Aksesuarlar son derece ölçülü olmalı, yalnızca ince, küçük küpeler veya zarif bir yüzükle sınırlı kalmalı, gösterişli takılar eklenmemelidir.
+
+【Duruş, Hareket ve Bakış】
+Kadın yatakta doğrulmakta olan bir pozisyondadır. Vücudun alt kısmı çarşaflar üzerinde doğal bir şekilde durur; bir bacak hafifçe kıvrılmış, diğer bacak ise denge sağlamak için öne doğru hafifçe uzatılmıştır. Vücut ağırlığı, çarşafa dayanan el tarafına hafifçe verilmiş, üst gövde sakin bir şekilde doğrultularak omuzlar doğal biçimde açılmıştır.
+Çarşafa dayalı el vücudu desteklerken, diğer el dizin yakınında veya uyluğun üzerinde doğal bir şekilde durmalıdır. Vücut yatağa göre hafif çapraz açılı, üst gövde ise pencereye doğru biraz dönüktür. Bakışlar kameraya değil pencereden dışarıya yöneltilmeli, kollar veya saçlar iç çamaşırının göğüs detaylarını aşırı derecede kapatmamalıdır.
+
+【Yüz İfadesi ve Duygu】
+İfade hafif uykulu ve huzurlu. Gözler yumuşak, sabah ışığına tepki olarak hafifçe kısılmış, kaşlar doğal ve dingin. Dudaklar hafifçe kapalı, rahat ve tatlı bir gevşeklik hissi taşımalıdır.
+Duygu olarak, uyanmanın getirdiği dinginlik içinde bir güven ve sıcaklık hissi barındırmalıdır. Abartılı bir gülümseme yerine, sabah ışığını hissederek dışarıyı sakince seyreden, zarif ve cana yakın bir hava ön planda tutulmalıdır.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey kompozisyon. Model karenin merkezine veya hafif soluna yerleştirilmeli; başın tepesinden ayak ucuna kadar garip bir kesinti olmadan, hafif boşluk bırakılarak kadraja sığdırılmalıdır. Yatak ve pencere ışığının atmosferini bütünüyle yansıtacak şekilde boydan veya diz altından kesen bir çerçeveleme tercih edilmelidir.
+Kamera yüksekliği yatak seviyesinde veya biraz daha alçakta olmalıdır. Çekim mesafesi orta mesafede tutularak model ile arka plan dengelenmeli, aynı zamanda giysideki nakış detaylarının rahatça seçilebileceği bir çözünürlük sağlanmalıdır. Görüş açısı standart ile hafif telefoto aralığında olmalı, aşırı geniş açının vücutta yaratacağı orantısız bozulmalardan kaçınılmalı, doğal perspektif ve hafif arka plan bulanıklığıyla (bokeh) derinlik oluşturulmalıdır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı pencereden içeri süzülen sabahın doğal ışığıdır. Beyaz perdelerden süzülen difüze ışık yüze, omuzlara, dekolteye ve çarşaflara nazikçe vurmalı; karşı tarafta ise çok hafif gölgeler oluşmalıdır. Beyaz nevresimlerden ve duvarlardan yansıyan ışık gölge alanları yumuşakça aydınlatarak sabaha özgü bir berraklık yaratmalıdır.
+Renk paleti fildişi, beyaz, açık bej ve yumuşak ahşap tonları etrafında toplanarak ferahlık ile sıcaklığı buluşturmalıdır. Tende doğal bir canlılık, saçta tek tek seçilen teller, kumaşta gerçekçi kırışıklıklar ve kıvrımlar, nakışta ise ince kabartma dokular yer almalıdır. Genel olarak zarif, sessiz bir mahremiyet ve sabahın tatlı rehavetini hissettiren bir hava hâkim olmalıdır.
+
+【Kalite ve Negatif Unsurlar】
+Gerçek bir fotoğraf makinesiyle çekilmiş hissi veren yüksek çözünürlük, doğal insan anatomisi, ışık, malzeme dokuları ve perspektif esas alınmalıdır. Model kesinlikle yetişkin bir kadın olarak görünmeli; yüz hatları, parmaklar, bacaklar, eklemler, omuz yapısı ve kıyafet detayları anatomik olarak kusursuz biçimde birleşmelidir.
+Reşit olmayan görünüm, aşırı çocuksu yüz, doğal olmayan vücut oranları, fazla uzuv ve parmaklar, eksik parmaklar, bozuk eklemler, kıyafetin tene kaynaşması veya yapay şekilde batması, istenmeyen teşhir unsurlarından kaçınılmalıdır. Göğüsler doğal dolgunluğunu korumalı; doğal olmayan derecede devasa, sert küre şeklinde, aşırı dikleştirilmiş veya yerçekimine meydan okuyan biçimlerde olmamalıdır. Yazı, logo, filigran, kullanıcı arayüzü ögeleri, aşırı pürüzsüzleştirici filtreler ve aşırı geniş açı distorsiyonu içermemelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1988,6 +2050,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098689113780064605"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@iadventurejacek](https://x.com/iadventurejacek) · [Orijinal gönderi](https://x.com/iadventurejacek/status/2098689113780064605)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098689113780064605.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098587991359074550"></a>
 
