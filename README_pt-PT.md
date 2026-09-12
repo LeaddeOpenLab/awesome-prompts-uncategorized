@@ -1902,20 +1902,20 @@ Utilize uma foto de um Cybertruck e converta-o num SUV de 3 filas
 
 <a name="prompt-2098626427792798007"></a>
 
-### Tradução em curso
+### Crie um vídeo comercial de beleza luxuoso e de alta gama com um frasco de verniz de unhas rosa-velho, aplicação na unha e swatch num cenário elegante.
 
 Autor：[@AvaSmith771](https://x.com/AvaSmith771) · [Publicação original](https://x.com/AvaSmith771/status/2098626427792798007)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie um vídeo comercial de beleza luxuoso e de alta gama com um frasco de verniz de unhas rosa-velho, aplicação na unha e swatch num cenário elegante.
 
 <img src="covers/2098626427792798007.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo comercial de beleza luxuoso e de alta gama utilizando a imagem de verniz de unhas carregada como referência exata do produto. Mantenha rigorosamente iguais o design do frasco, o rótulo, o logótipo, a tampa e a cor rosa-velho do verniz de unhas. Coloque o frasco de verniz sobre uma superfície de mármore bege suave com elegantes flores brancas secas e tecido creme quente em segundo plano. Comece com uma aproximação de câmara lenta e cinematográfica em direção ao frasco, depois rode suavemente à volta do produto enquanto a luz suave do sol cria sombras delicadas. Mostre um grande plano do pincel a aplicar o verniz rosa brilhante numa unha limpa, seguido por uma bela amostra (swatch) do verniz. Adicione reflexos subtis no frasco de vidro, textura brilhante realista, profundidade de campo reduzida, iluminação suave de luxo, câmara lenta fluida, estética de anúncio de cosméticos/cuidados de pele de prestígio, composição limpa e minimalista, fotorrealista, 4K, vertical 9:16. Não altere a embalagem do produto nem adicione qualquer texto ou logótipo extra.
 ```
 
 [↑ Voltar às categorias](#catalog)

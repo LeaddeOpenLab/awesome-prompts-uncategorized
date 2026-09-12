@@ -1885,20 +1885,20 @@ Utilisez une photo d'un Cybertruck et convertissez-le en un SUV à 3 rangées
 
 <a name="prompt-2098626427792798007"></a>
 
-### Traduction en cours
+### Créez une vidéo publicitaire de beauté luxueuse et haut de gamme mettant en scène un flacon de vernis à ongles rose poudré, l'application sur l'ongle et un swatch dans un cadre élégant.
 
 Auteur：[@AvaSmith771](https://x.com/AvaSmith771) · [Publication originale](https://x.com/AvaSmith771/status/2098626427792798007)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez une vidéo publicitaire de beauté luxueuse et haut de gamme mettant en scène un flacon de vernis à ongles rose poudré, l'application sur l'ongle et un swatch dans un cadre élégant.
 
 <img src="covers/2098626427792798007.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo publicitaire de beauté haut de gamme et luxueuse en utilisant l'image de vernis à ongles téléversée comme référence exacte du produit. Conservez exactement le même design de flacon, l'étiquette, le logo, le bouchon et la couleur de vernis à ongles rose poudré. Placez le flacon de vernis sur une surface en marbre beige doux avec d'élégantes fleurs blanches séchées et un tissu crème chaleureux en arrière-plan. Commencez par un travelling avant cinématique et lent vers le flacon, puis effectuez une rotation fluide autour du produit tandis qu'une douce lumière solaire crée des ombres délicates. Montrez un gros plan du pinceau appliquant le vernis rose brillant sur un ongle propre, suivi d'un magnifique swatch du vernis. Ajoutez de subtils reflets sur le flacon en verre, une texture brillante réaliste, une faible profondeur de champ, un éclairage luxueux et doux, un ralenti fluide, une esthétique publicitaire haut de gamme pour soins de la peau/cosmétiques, une composition épurée et minimaliste, photoréaliste, 4K, vertical 9:16. Ne modifiez pas l'emballage du produit et n'ajoutez aucun texte ou logo supplémentaire.
 ```
 
 [↑ Retour aux catégories](#catalog)

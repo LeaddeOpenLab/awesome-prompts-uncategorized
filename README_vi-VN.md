@@ -1930,20 +1930,20 @@ Sử dụng một bức ảnh của Cybertruck và chuyển đổi nó thành m�
 
 <a name="prompt-2098626427792798007"></a>
 
-### Đang dịch
+### Tạo video quảng cáo mỹ phẩm cao cấp, sang trọng với chai sơn móng tay màu hồng khô, thao tác sơn móng và vệt quệt thử màu trong bối cảnh trang nhã.
 
 Tác giả：[@AvaSmith771](https://x.com/AvaSmith771) · [Bài gốc](https://x.com/AvaSmith771/status/2098626427792798007)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo video quảng cáo mỹ phẩm cao cấp, sang trọng với chai sơn móng tay màu hồng khô, thao tác sơn móng và vệt quệt thử màu trong bối cảnh trang nhã.
 
 <img src="covers/2098626427792798007.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo video quảng cáo mỹ phẩm cao cấp, sang trọng bằng cách sử dụng hình ảnh sơn móng tay đã tải lên làm tài liệu tham khảo chính xác cho sản phẩm. Giữ nguyên thiết kế chai, nhãn mác, logo, nắp và màu sơn móng tay hồng cánh hoa hồng khô (dusty-rose pink). Đặt chai sơn móng tay trên bề mặt đá cẩm thạch màu be mềm mại với hoa khô màu trắng thanh lịch và vải kem ấm áp ở hậu cảnh. Bắt đầu với cú đẩy máy quay chậm rãi, đậm chất điện ảnh về phía chai sơn, sau đó xoay mượt mà xung quanh sản phẩm trong khi ánh nắng dịu nhẹ tạo nên những bóng đổ tinh tế. Quay cận cảnh cọ đang quét lớp sơn bóng màu hồng lên móng tay sạch, tiếp theo là vệt quệt màu thử (swatch) sơn móng tuyệt đẹp. Thêm các phản chiếu tinh tế trên thân chai thủy tinh, kết cấu bóng bẩy chân thực, độ sâu trường ảnh nông, ánh sáng sang trọng mềm mại, chuyển động chậm mượt mà, tính thẩm mỹ quảng cáo mỹ phẩm/chăm sóc da cao cấp, bố cục tối giản sạch sẽ, chân thực như ảnh chụp, 4K, khung hình dọc 9:16. Không thay đổi bao bì sản phẩm hoặc thêm bất kỳ văn bản/logo nào khác.
 ```
 
 [↑ Về danh mục](#catalog)

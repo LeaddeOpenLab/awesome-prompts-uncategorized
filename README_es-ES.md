@@ -1930,20 +1930,20 @@ Utiliza una foto de un Cybertruck y conviértela en un SUV de 3 filas
 
 <a name="prompt-2098626427792798007"></a>
 
-### Traducción en curso
+### Crea un video comercial de belleza de alta gama y lujoso que muestre un frasco de esmalte de uñas rosa empolvado, la aplicación en la uña y una muestra en un entorno elegante.
 
 Autor：[@AvaSmith771](https://x.com/AvaSmith771) · [Publicación original](https://x.com/AvaSmith771/status/2098626427792798007)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un video comercial de belleza de alta gama y lujoso que muestre un frasco de esmalte de uñas rosa empolvado, la aplicación en la uña y una muestra en un entorno elegante.
 
 <img src="covers/2098626427792798007.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video comercial de belleza de alta gama y lujoso utilizando la imagen del esmalte de uñas subida como referencia exacta del producto. Mantén exactamente iguales el diseño del frasco, la etiqueta, el logotipo, la tapa y el color rosa empolvado (dusty-rose) del esmalte de uñas. Coloca el frasco de esmalte sobre una superficie suave de mármol beige con elegantes flores blancas secas y tela color crema cálida de fondo. Comienza con un lento acercamiento cinematográfico de la cámara hacia el frasco, luego gira suavemente alrededor del producto mientras la suave luz del sol crea sombras delicadas. Muestra un primer plano del pincel aplicando el esmalte rosa brillante sobre una uña limpia, seguido de una hermosa muestra (swatch) del esmalte. Añade reflejos sutiles en el frasco de vidrio, textura brillante realista, profundidad de campo reducida, iluminación suave de lujo, cámara lenta fluida, estética publicitaria de cosméticos/cuidado de la piel de primera calidad, composición limpia y minimalista, fotorrealista, 4K, vertical 9:16. No cambies el empaque del producto ni agregues texto o logotipos adicionales.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -1885,20 +1885,20 @@ Verwenden Sie ein Foto eines Cybertrucks und verwandeln Sie ihn in einen 3-reihi
 
 <a name="prompt-2098626427792798007"></a>
 
-### Übersetzung läuft
+### Erstelle ein luxuriöses High-End-Beauty-Werbevideo mit einem altrosa Nagellackfläschchen, Auftragen auf den Nagel und Swatch in eleganter Umgebung.
 
 Autor：[@AvaSmith771](https://x.com/AvaSmith771) · [Originalbeitrag](https://x.com/AvaSmith771/status/2098626427792798007)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein luxuriöses High-End-Beauty-Werbevideo mit einem altrosa Nagellackfläschchen, Auftragen auf den Nagel und Swatch in eleganter Umgebung.
 
 <img src="covers/2098626427792798007.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein luxuriöses High-End-Beauty-Werbevideo unter Verwendung des hochgeladenen Nagellackbildes als exakte Produktreferenz. Behalte das Flaschendesign, das Etikett, das Logo, den Verschluss und die altrosa Nagellackfarbe exakt unverändert bei. Platziere das Nagellackfläschchen auf einer sanften beigen Marmoroberfläche mit eleganten getrockneten weißen Blumen und warmem cremefarbenem Stoff im Hintergrund. Beginne mit einer langsamen, filmischen Kamerafahrt auf das Fläschchen zu, drehe dich dann sanft um das Produkt, während sanftes Sonnenlicht zarte Schatten erzeugt. Zeige eine Nahaufnahme des Pinsels, der den glänzenden rosa Lack auf einen sauberen Nagel aufträgt, gefolgt von einem wunderschönen Swatch des Lacks. Füge subtile Reflexionen auf der Glasflasche, eine realistische glänzende Textur, geringe Schärfentiefe, sanfte Luxusbeleuchtung, geschmeidige Zeitlupe, eine erstklassige Ästhetik wie aus einer Hautpflege-/Kosmetikwerbung, eine saubere, minimalistische Komposition, fotorealistisch, 4K, vertikal 9:16 hinzu. Verändere nicht die Produktverpackung und füge keinen zusätzlichen Text/kein zusätzliches Logo hinzu.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

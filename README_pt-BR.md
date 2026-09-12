@@ -1902,20 +1902,20 @@ Utilize uma foto de um Cybertruck e converta-o em um SUV de 3 fileiras
 
 <a name="prompt-2098626427792798007"></a>
 
-### Tradução em andamento
+### Crie um vídeo comercial de beleza luxuoso e de alto padrão apresentando um frasco de esmalte rosa-antigo, aplicação na unha e amostra em um ambiente elegante.
 
 Autor：[@AvaSmith771](https://x.com/AvaSmith771) · [Publicação original](https://x.com/AvaSmith771/status/2098626427792798007)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um vídeo comercial de beleza luxuoso e de alto padrão apresentando um frasco de esmalte rosa-antigo, aplicação na unha e amostra em um ambiente elegante.
 
 <img src="covers/2098626427792798007.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo comercial de beleza luxuoso e de alto padrão usando a imagem do esmalte enviada como referência exata do produto. Mantenha exatamente iguais o design do frasco, o rótulo, o logotipo, a tampa e a cor rosa-antigo do esmalte. Coloque o frasco de esmalte sobre uma superfície de mármore bege suave com elegantes flores brancas secas e tecido creme quente ao fundo. Comece com uma aproximação lenta e cinematográfica da câmera em direção ao frasco, depois gire suavemente ao redor do produto enquanto a luz suave do sol cria sombras delicadas. Mostre um close-up do pincel aplicando o esmalte rosa brilhante em uma unha limpa, seguido por uma linda amostra do esmalte. Adicione reflexos sutis no frasco de vidro, textura brilhante realista, profundidade de campo rasa, iluminação suave de luxo, câmera lenta suave, estética de anúncio de cosméticos/skincare premium, composição limpa e minimalista, fotorrealista, 4K, vertical 9:16. Não altere a embalagem do produto nem adicione textos ou logotipos extras.
 ```
 
 [↑ Voltar às categorias](#catalog)

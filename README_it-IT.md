@@ -1885,20 +1885,20 @@ Utilizza una foto di un Cybertruck e trasformala in un SUV a 3 file
 
 <a name="prompt-2098626427792798007"></a>
 
-### Traduzione in corso
+### Crea un video commerciale di bellezza di lusso di alta gamma con una boccetta di smalto rosa antico, applicazione sull'unghia e swatch in un ambiente elegante.
 
 Autore：[@AvaSmith771](https://x.com/AvaSmith771) · [Post originale](https://x.com/AvaSmith771/status/2098626427792798007)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un video commerciale di bellezza di lusso di alta gamma con una boccetta di smalto rosa antico, applicazione sull'unghia e swatch in un ambiente elegante.
 
 <img src="covers/2098626427792798007.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video commerciale di bellezza di lusso di alta gamma utilizzando l'immagine dello smalto per unghie caricata come riferimento esatto del prodotto. Mantieni esattamente identici il design della boccetta, l'etichetta, il logo, il tappo e il colore dello smalto rosa antico. Posiziona la boccetta di smalto su una superficie di marmo beige tenue con eleganti fiori bianchi essiccati e un caldo tessuto color crema sullo sfondo. Inizia con una lenta carrellata cinematografica verso la boccetta, poi ruota dolcemente attorno al prodotto mentre la morbida luce solare crea ombre delicate. Mostra un primo piano del pennello che applica lo smalto rosa lucido su un'unghia pulita, seguito da un meraviglioso swatch dello smalto. Aggiungi riflessi sottili sulla boccetta di vetro, texture lucida realistica, profondità di campo ridotta, illuminazione morbida ed elegante, slow motion fluido, estetica da pubblicità cosmetica/skincare di lusso, composizione pulita e minimale, fotorealistico, 4K, verticale 9:16. Non modificare il packaging del prodotto né aggiungere testi o loghi extra.
 ```
 
 [↑ Torna alle categorie](#catalog)

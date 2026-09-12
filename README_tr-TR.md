@@ -1902,20 +1902,20 @@ Bir Cybertruck fotoğrafı kullanın ve onu 3 sıralı bir SUV'a dönüştürün
 
 <a name="prompt-2098626427792798007"></a>
 
-### Çeviri sürüyor
+### Zarif bir ortamda gül kurusu oje şişesi, tırnak uygulaması ve renk örneğini içeren lüks ve üst düzey bir güzellik reklamı videosu oluşturun.
 
 Yazar：[@AvaSmith771](https://x.com/AvaSmith771) · [Orijinal gönderi](https://x.com/AvaSmith771/status/2098626427792798007)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Zarif bir ortamda gül kurusu oje şişesi, tırnak uygulaması ve renk örneğini içeren lüks ve üst düzey bir güzellik reklamı videosu oluşturun.
 
 <img src="covers/2098626427792798007.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen oje görselini tam ürün referansı olarak kullanarak lüks ve üst düzey bir güzellik reklamı videosu oluşturun. Şişe tasarımını, etiketi, logoyu, kapağı ve gül kurusu pembe oje rengini tamamen aynı tutun. Oje şişesini, arka planda zarif kurutulmuş beyaz çiçekler ve sıcak krem rengi kumaş bulunan yumuşak bej mermer bir yüzeye yerleştirin. Kameranın şişeye doğru yavaş, sinematik bir yaklaşımıyla başlayın, ardından yumuşak güneş ışığı zarif gölgeler oluştururken ürünün etrafında pürüzsüzce dönün. Fırçanın parlak pembe ojeyi temiz bir tırnağa uygulayışının yakın çekimini ve ardından ojenin güzel bir renk örneğini (swatch) gösterin. Cam şişe üzerinde hafif yansımalar, gerçekçi parlak doku, sığ alan derinliği, yumuşak lüks aydınlatma, akıcı ağır çekim, birinci sınıf cilt bakımı/kozmetik reklamı estetiği, temiz ve minimalist kompozisyon, fotogerçekçi, 4K, dikey 9:16 ekleyin. Ürün ambalajını değiştirmeyin veya herhangi bir fazladan metin/logo eklemeyin.
 ```
 
 [↑ Kategorilere dön](#catalog)
