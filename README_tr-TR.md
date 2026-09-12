@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**114** Prompt · Son eklenen: **2026-09-12**
+**117** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1552,6 +1552,28 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 ## Anime / Manga
 
+<a name="prompt-2098669706626683027"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@ux6ovv](https://x.com/ux6ovv) · [Orijinal gönderi](https://x.com/ux6ovv/status/2098669706626683027)
+
+Anime / Manga · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098669706626683027.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2097918597603733849"></a>
 
 ### Luffy ile Anya arasındaki etkileşimi anlatan, altın şerit koruma kalkanı ile baş okşama ve kucaklaşma hareketlerini içeren anime görsel taslak \(storyboard\) istemi.
@@ -2158,6 +2180,50 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2098686621931511841"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@iadventurejacek](https://x.com/iadventurejacek) · [Orijinal gönderi](https://x.com/iadventurejacek/status/2098686621931511841)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098686621931511841-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098688166261842106"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Orijinal gönderi](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
+
+Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098688166261842106.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098688508827512874"></a>
 

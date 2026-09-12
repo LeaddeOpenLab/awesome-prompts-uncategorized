@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**114** 条内容 · 最新收录: **2026-09-12**
+**117** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1566,6 +1566,28 @@ CGI毛发、
 
 ## 动漫 / 漫画
 
+<a name="prompt-2098669706626683027"></a>
+
+### 翻译中
+
+作者：[@ux6ovv](https://x.com/ux6ovv) · [查看 X 原帖](https://x.com/ux6ovv/status/2098669706626683027)
+
+动漫 / 漫画 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098669706626683027.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2097918597603733849"></a>
 
 ### 路飞与阿尼亚互动的动漫分镜提示词，包含金色丝带防护光罩与摸头拥抱动作。
@@ -2170,6 +2192,50 @@ FIELD NOTE [编号]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098686621931511841"></a>
+
+### 翻译中
+
+作者：[@iadventurejacek](https://x.com/iadventurejacek) · [查看 X 原帖](https://x.com/iadventurejacek/status/2098686621931511841)
+
+其他 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098686621931511841-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098688166261842106"></a>
+
+### 翻译中
+
+作者：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [查看 X 原帖](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
+
+动物 / 生物 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098688166261842106.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098688508827512874"></a>
 

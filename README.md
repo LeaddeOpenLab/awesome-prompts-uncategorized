@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**114** Prompts · Latest addition: **2026-09-12**
+**117** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1797,6 +1797,28 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 
 ## Anime / Manga
 
+<a name="prompt-2098669706626683027"></a>
+
+### Anime-style motion instruction for drawing a sword, spinning, and transforming from pants to a skirt.
+
+Author：[@ux6ovv](https://x.com/ux6ovv) · [Source](https://x.com/ux6ovv/status/2098669706626683027)
+
+Anime / Manga · Published
+
+**Summary:** Anime-style motion instruction for drawing a sword, spinning, and transforming from pants to a skirt.
+
+<img src="covers/2098669706626683027.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Drawing a sword, spinning around once, and transforming into a skirt appearance
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2097918597603733849"></a>
 
 ### Anime storyboard prompt of Luffy and Anya interacting, featuring a golden ribbon protective light shield and a head pat with a hug.
@@ -2549,6 +2571,50 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098686621931511841"></a>
+
+### A computer setup in an office.
+
+Author：[@iadventurejacek](https://x.com/iadventurejacek) · [Source](https://x.com/iadventurejacek/status/2098686621931511841)
+
+Other · Published
+
+**Summary:** A computer setup in an office.
+
+<img src="images/2098686621931511841-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+computer in office
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098688166261842106"></a>
+
+### Please read a video of animals fight in rivero
+
+Author：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Source](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
+
+Animal / Creature · Published
+
+**Summary:** Please read a video of animals fight in rivero
+
+<img src="covers/2098688166261842106.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Please read a video of animals fight in rivero
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098688508827512874"></a>
 

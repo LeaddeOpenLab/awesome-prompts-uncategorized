@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**114** Prompt · Ultima aggiunta: **2026-09-12**
+**117** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1535,6 +1535,28 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 ## Anime / Manga
 
+<a name="prompt-2098669706626683027"></a>
+
+### Traduzione in corso
+
+Autore：[@ux6ovv](https://x.com/ux6ovv) · [Post originale](https://x.com/ux6ovv/status/2098669706626683027)
+
+Anime / Manga · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098669706626683027.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097918597603733849"></a>
 
 ### Prompt per storyboard anime con l'interazione tra Luffy e Anya, inclusi uno scudo protettivo di nastro dorato e gesti di carezza sulla testa e abbraccio.
@@ -2141,6 +2163,50 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2098686621931511841"></a>
+
+### Traduzione in corso
+
+Autore：[@iadventurejacek](https://x.com/iadventurejacek) · [Post originale](https://x.com/iadventurejacek/status/2098686621931511841)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098686621931511841-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098688166261842106"></a>
+
+### Traduzione in corso
+
+Autore：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Post originale](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
+
+Animale / Creatura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098688166261842106.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098688508827512874"></a>
 

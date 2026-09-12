@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**114** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**117** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1535,6 +1535,28 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 ## Anime / Manga
 
+<a name="prompt-2098669706626683027"></a>
+
+### Übersetzung läuft
+
+Autor：[@ux6ovv](https://x.com/ux6ovv) · [Originalbeitrag](https://x.com/ux6ovv/status/2098669706626683027)
+
+Anime / Manga · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098669706626683027.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2097918597603733849"></a>
 
 ### Anime-Storyboard-Prompt für die Interaktion zwischen Luffy und Anya, einschließlich eines goldenen Bändchen-Schutzschilds sowie Kopfstreicheln und Umarmung.
@@ -2141,6 +2163,50 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2098686621931511841"></a>
+
+### Übersetzung läuft
+
+Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Originalbeitrag](https://x.com/iadventurejacek/status/2098686621931511841)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098686621931511841-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098688166261842106"></a>
+
+### Übersetzung läuft
+
+Autor：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Originalbeitrag](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
+
+Tier / Kreatur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098688166261842106.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098688508827512874"></a>
 

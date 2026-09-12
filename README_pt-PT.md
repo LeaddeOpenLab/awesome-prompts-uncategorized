@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**114** Prompts · Adição mais recente: **2026-09-12**
+**117** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1552,6 +1552,28 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 ## Anime / Mangá
 
+<a name="prompt-2098669706626683027"></a>
+
+### Tradução em curso
+
+Autor：[@ux6ovv](https://x.com/ux6ovv) · [Publicação original](https://x.com/ux6ovv/status/2098669706626683027)
+
+Anime / Mangá · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098669706626683027.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097918597603733849"></a>
 
 ### Prompt de storyboard de anime com a interação entre Luffy e Anya, incluindo escudo protetor de fita dourada e gestos de afago na cabeça e abraço.
@@ -2158,6 +2180,50 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2098686621931511841"></a>
+
+### Tradução em curso
+
+Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicação original](https://x.com/iadventurejacek/status/2098686621931511841)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098686621931511841-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098688166261842106"></a>
+
+### Tradução em curso
+
+Autor：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Publicação original](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
+
+Animal / Criatura · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098688166261842106.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098688508827512874"></a>
 

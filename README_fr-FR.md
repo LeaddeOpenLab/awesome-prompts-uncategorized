@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**114** Prompts · Dernier ajout: **2026-09-12**
+**117** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1535,6 +1535,28 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 ## Anime / Manga
 
+<a name="prompt-2098669706626683027"></a>
+
+### Traduction en cours
+
+Auteur：[@ux6ovv](https://x.com/ux6ovv) · [Publication originale](https://x.com/ux6ovv/status/2098669706626683027)
+
+Anime / Manga · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098669706626683027.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2097918597603733849"></a>
 
 ### Prompt de storyboard anime montrant l'interaction entre Luffy et Anya, comprenant un bouclier protecteur de ruban doré et des gestes de caresse sur la tête et d'étreinte.
@@ -2141,6 +2163,50 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2098686621931511841"></a>
+
+### Traduction en cours
+
+Auteur：[@iadventurejacek](https://x.com/iadventurejacek) · [Publication originale](https://x.com/iadventurejacek/status/2098686621931511841)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098686621931511841-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098688166261842106"></a>
+
+### Traduction en cours
+
+Auteur：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Publication originale](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
+
+Animal / Créature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098688166261842106.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098688508827512874"></a>
 
