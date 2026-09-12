@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**102** Prompts · Latest addition: **2026-09-12**
+**103** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,68 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098638290094305690"></a>
+
+### A realistic prompt depicting an adult woman waking up in an ivory embroidered lingerie set at a luxury morning hotel.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098638290094305690)
+
+Photography · Character · Published
+
+**Summary:** A realistic prompt depicting an adult woman waking up in an ivory embroidered lingerie set at a luxury morning hotel.
+
+<img src="images/2098638290094305690-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Morning Hotel Bed | Ivory Embroidered Lingerie and a Gentle Awakening🌟
+
+【Subject & Style】
+Depict an adult Japanese woman slowly sitting up on a white bed in a luxury hotel guest room in the morning. Based on a photorealistic style, imbue it with the sophistication and intimacy akin to high-end Japanese lingerie advertisements or photo books. Avoid explicit presentation; instead, create an elegant photographic expression where the morning tranquility, light brushing against the skin, and the delicate nature of the outfit are naturally conveyed.
+The main subjects are the beauty of the figure and the lingerie, yet rather than a mere costume showcase, portray it as a captured fleeting moment of gentle time just after waking up. While subtly retaining a lived-in feel, make the overall finish clean, serene, and luxurious.
+
+【Location, Background & Worldview】
+A bright, high-end hotel guest room where morning sunlight filters through white curtains. In the foreground are softly rumpled white sheets and pillows; the woman is in the midground; in the background, naturally place a pale wood-grain headboard, side table, understated lamp, and a small flower vase to bring out the spatial elegance.
+Outside the window, a faint hint of a city view is acceptable, but it should not be overbearing, serving strictly as a background that conveys a quiet morning indoors. Contrast the organized, hotel-like space with the slightly disheveled bedding from just waking up, achieving both intimacy and commercial aesthetic beauty.
+
+【Season, Time & Weather】
+A tranquil morning evocative of spring to early summer. The time of day gives the impression of around 7:00 AM, with clear air and soft, clean brightness entering the room.
+Weather is clear and sunny. Outdoor light is not overly intense; diffused natural light filtered through the curtains envelops the entire room. A comfortable morning feeling neither hot nor cold, cherishing a quiet, fresh ambiance.
+
+【Character Details】
+A clearly adult Japanese woman around 20–28 years old. Soft, well-proportioned facial features with slightly large eyes, natural eyebrows, a refined nose bridge, and healthy, rosy lips. Her hair is dark brown, shoulder-length with natural waves, showing a slight morning dishevelment and stray strands framing her face.
+Her skin is a bright ochre tone, featuring a natural, not overly airbrushed texture with a subtle healthy flush. Her physique is naturally glamorous, harmonizing delicate shoulders and limbs with a slender waist and feminine curves. Her bust has a distinctly rich volume, yet appears soft and natural following the garment and her posture, maintaining the overall elegance.
+
+【Costume & Accessories】
+An ivory lingerie set. The bra has a satin base, featuring an elegant design with delicate floral embroidery and lace adorning the cups and edges. The panties match in color, ensuring that the sheer quality of the lace, the three-dimensional texture of the embroidery, and the subtle sheen of the satin appear natural.
+The sizing is realistic, emphasizing a fit that naturally follows the body without strain. Beautifully showcase the décolletage enough to discern the embroidery and lace craftsmanship, while avoiding an exaggerated push-up effect. Accessories should be minimal, kept to small stud earrings or delicate rings, with no flashy ornamentation.
+
+【Pose, Motion & Gaze】
+The woman is in the middle of sitting up in bed. Her lower body rests naturally on the sheets, with one leg gently bent and the other extending slightly forward for stability. Her weight is slightly shifted toward one hand resting on the sheets, softly raising her upper body while keeping her shoulders naturally open.
+The hand placed on the sheets serves to support her body, while the opposite hand rests naturally near her knee or upon her thigh. Her body is positioned slightly diagonal relative to the bed, with her upper torso turned somewhat toward the window. Her gaze is directed out the window rather than at the camera, composed so that arms or hair do not overly conceal the lingerie's chest detailing.
+
+【Expression & Emotion】
+The expression is slightly sleepy and calm. Soft around the eyes, gently narrowed as if sensing the morning brightness, with natural, relaxed brows. Her mouth is mostly closed, carrying a gentle, slightly relaxed nuance.
+Emotionally, it conveys a sense of security and warmth within the tranquility of just waking up. Rather than a broad smile, emphasize an elegant and intimate mood as she gazes distantly outside while feeling the morning light.
+
+【Composition & Camera】
+A 4:5 vertical composition suited for X posts. Position the figure centrally or slightly to the left of center, framed with some margin so that from the crown of the head to the feet is not awkwardly cropped. A near-full-body framing or cut below the knees, sufficiently conveying the atmosphere of the bed and the window light.
+Camera height is roughly level with the bed or slightly lower. Medium shooting distance, balancing the figure and the background while ensuring enough resolution to appreciate the embroidery on the garment. Focal length leaning from standard to medium-telephoto, avoiding extreme wide-angle distortion of the body, creating depth through natural perspective and soft background bokeh.
+
+【Light, Color, Texture & Atmosphere】
+The main light source is morning natural light streaming in from the window. Diffused light filtering through white curtains gently hits the face, shoulders, chest, and sheets, casting very faint shadows on the opposite side. Reflected light from the white bedding and walls softly lifts the shadows, creating a morning-like translucency.
+The color palette centers around ivory, white, pale beige, and soft wood tones, achieving both a clean feel and warmth. Ensure natural skin flush, fine hair strands, wrinkles and puffiness in the fabric, and subtle texture in the embroidery. Overall, cultivate an atmosphere of refined, quiet intimacy and the gentle lingering afterglow of morning.
+
+【Quality & Negative Elements】
+High resolution, emphasizing natural human anatomy, lighting, materials, and perspective as if shot with a real camera. Clearly appears as an adult woman, with facial features, fingers, legs, joints, shoulders, and garment construction naturally connected.
+Avoid depictions appearing underage, overly childish faces, unnatural body proportions, extra limbs or fingers, missing fingers, broken joints, clipping or fusing garments, and unintended exposure. While maintaining a naturally rich bust volume, avoid unnaturally huge, rigid spherical shapes, excessive push-up, or gravity-defying forms. No text, logos, watermarks, UI elements, excessive skin smoothing, or extreme wide-angle distortion.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098620113964679527"></a>
 
