@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:25:40.069Z",
+  "model": "unknown-image",
+  "prompt": "Do not change the girl’s appearance.  \nUltra-realistic front-camera selfie reflecting a luxurious, expensive lifestyle. A girl fills the frame. Her hair is long, straight and voluminous with a clean middle part; a few soft strands fall across her face. Skin is glowing in bronze tones with highly detailed natural texture and visible pores. No retouching or artificial smoothing — lively, natural look. 100% similarity to the original person must be preserved. Lips are slightly plump and glossy; she looks upward in admiration toward the car ceiling.\n\nShe wears a body-hugging, ribbed high-neck black dress. An oversized brown-toned biker jacket made of thick quality fabric is draped over her shoulders. Small round gold earrings, a neat short square French manicure, and a statement gold ring on her finger.\n\nShe carefully holds a large, showy bouquet of shiny autumn maple leaves in red, orange and gold tones. The scene is inside a premium car with coffee-toned leather seats. A panoramic glass roof is visible above. The car’s exterior roof is densely covered with fallen colorful maple leaves, creating a magical autumn carpet. Through the glass roof: gray-blue autumn clouds, light raindrops and leaves stuck to the glass. Lighting is dim, soft and atmospheric.\n\nShot as a slight side-angle selfie with an extended arm, camera angled from below upward. Warm, peaceful autumn mood, Pinterest/Instagram aesthetic, cinematic look, ultra-realistic, 8K.",
+  "promptTranslations": {
+    "en": "Do not change the girl’s appearance.  \nUltra-realistic front-camera selfie reflecting a luxurious, expensive lifestyle. A girl fills the frame. Her hair is long, straight and voluminous with a clean middle part; a few soft strands fall across her face. Skin is glowing in bronze tones with highly detailed natural texture and visible pores. No retouching or artificial smoothing — lively, natural look. 100% similarity to the original person must be preserved. Lips are slightly plump and glossy; she looks upward in admiration toward the car ceiling.\n\nShe wears a body-hugging, ribbed high-neck black dress. An oversized brown-toned biker jacket made of thick quality fabric is draped over her shoulders. Small round gold earrings, a neat short square French manicure, and a statement gold ring on her finger.\n\nShe carefully holds a large, showy bouquet of shiny autumn maple leaves in red, orange and gold tones. The scene is inside a premium car with coffee-toned leather seats. A panoramic glass roof is visible above. The car’s exterior roof is densely covered with fallen colorful maple leaves, creating a magical autumn carpet. Through the glass roof: gray-blue autumn clouds, light raindrops and leaves stuck to the glass. Lighting is dim, soft and atmospheric.\n\nShot as a slight side-angle selfie with an extended arm, camera angled from below upward. Warm, peaceful autumn mood, Pinterest/Instagram aesthetic, cinematic look, ultra-realistic, 8K."
+  },
+  "summaryTranslations": {
+    "en": "Autumn car selfie holding colorful maple leaves under a panoramic glass roof."
+  },
+  "translationVersion": 2,
+  "summary": "Autumn car selfie holding colorful maple leaves under a panoramic glass roof.",
+  "summaryEn": "Autumn car selfie holding colorful maple leaves under a panoramic glass roof.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098587991359074550",
+    "canonicalUrl": "https://x.com/oye_samia/status/2098587991359074550",
+    "author": {
+      "username": "oye_samia",
+      "displayName": "Dr. Samia",
+      "profileUrl": "https://x.com/oye_samia"
+    },
+    "publishedAt": "2026-09-12T01:42:21.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "en",
+    "originalText": "My favorite time of the year. 🍁\n\nPrompt: \nDo not change the girl’s appearance.  \nUltra-realistic front-camera selfie reflecting a luxurious, expensive lifestyle. A girl fills the frame. Her hair is long, straight and voluminous with a clean middle part; a few soft strands fall across her face. Skin is glowing in bronze tones with highly detailed natural texture and visible pores. No retouching or artificial smoothing — lively, natural look. 100% similarity to the original person must be preserved. Lips are slightly plump and glossy; she looks upward in admiration toward the car ceiling.\n\nShe wears a body-hugging, ribbed high-neck black dress. An oversized brown-toned biker jacket made of thick quality fabric is draped over her shoulders. Small round gold earrings, a neat short square French manicure, and a statement gold ring on her finger.\n\nShe carefully holds a large, showy bouquet of shiny autumn maple leaves in red, orange and gold tones. The scene is inside a premium car with coffee-toned leather seats. A panoramic glass roof is visible above. The car’s exterior roof is densely covered with fallen colorful maple leaves, creating a magical autumn carpet. Through the glass roof: gray-blue autumn clouds, light raindrops and leaves stuck to the glass. Lighting is dim, soft and atmospheric.\n\nShot as a slight side-angle selfie with an extended arm, camera angled from below upward. Warm, peaceful autumn mood, Pinterest/Instagram aesthetic, cinematic look, ultra-realistic, 8K.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-uoqcawAA1X9s.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-uoqcawAA1X9s.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-upkQaIAA0G2J.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-upkQaIAA0G2J.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 59,
+      "repostCount": 7,
+      "replyCount": 30,
+      "quoteCount": 0,
+      "viewCount": 669
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/oye_samia/status/2098587991359074550",
+  "coverUrl": "https://pbs.twimg.com/media/HR-uoqcawAA1X9s.jpg",
+  "coverPath": "images/2098587991359074550-1.jpg",
+  "imagePaths": [
+    "images/2098587991359074550-1.jpg",
+    "images/2098587991359074550-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR-uoqcawAA1X9s",
+    "x-image:/media/HR-upkQaIAA0G2J",
+    "x-post:2098587991359074550"
+  ],
+  "analysis": {
+    "summary": "Autumn car selfie holding colorful maple leaves under a panoramic glass roof.",
+    "summaryEn": "Autumn car selfie holding colorful maple leaves under a panoramic glass roof.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the girl's outfit, maple leaves bouquet, car interior, and leaves on the glass roof exactly."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Do not change the girl’s appearance.  \nUltra-realistic front-camera selfie reflecting a luxurious, expensive lifestyle. A girl fills the frame. Her hair is long, straight and voluminous with a clean middle part; a few soft strands fall across her face. Skin is glowing in bronze tones with highly detailed natural texture and visible pores. No retouching or artificial smoothing — lively, natural look. 100% similarity to the original person must be preserved. Lips are slightly plump and glossy; she looks upward in admiration toward the car ceiling.\n\nShe wears a body-hugging, ribbed high-neck black dress. An oversized brown-toned biker jacket made of thick quality fabric is draped over her shoulders. Small round gold earrings, a neat short square French manicure, and a statement gold ring on her finger.\n\nShe carefully holds a large, showy bouquet of shiny autumn maple leaves in red, orange and gold tones. The scene is inside a premium car with coffee-toned leather seats. A panoramic glass roof is visible above. The car’s exterior roof is densely covered with fallen colorful maple leaves, creating a magical autumn carpet. Through the glass roof: gray-blue autumn clouds, light raindrops and leaves stuck to the glass. Lighting is dim, soft and atmospheric.\n\nShot as a slight side-angle selfie with an extended arm, camera angled from below upward. Warm, peaceful autumn mood, Pinterest/Instagram aesthetic, cinematic look, ultra-realistic, 8K.",
+    "sourceRange": {
+      "start": 42,
+      "end": 1498
+    },
+    "translations": {
+      "zh": "不要改变女孩的外貌。超写实前置自拍，展现奢华生活方式。女孩充满画面，长发蓬松中分，皮肤呈古铜色带细腻质感，无磨皮，保持与原图一致。嘴唇丰润光泽，仰望车顶。\n\n身穿紧身黑色高领螺纹裙，肩披棕色oversize机车皮衣。戴小金耳环、金色戒指，指甲为法式美甲。\n\n手捧一束红橙金色的秋季枫叶。车内为咖啡色皮座椅，带全景天窗。车外全景天窗落满彩色枫叶，玻璃上有雨滴与积云。光线柔和昏暗。\n\n微侧角低机位自拍，秋季温馨氛围，电影感，8K。",
+      "en": "Do not change the girl’s appearance.  \nUltra-realistic front-camera selfie reflecting a luxurious, expensive lifestyle. A girl fills the frame. Her hair is long, straight and voluminous with a clean middle part; a few soft strands fall across her face. Skin is glowing in bronze tones with highly detailed natural texture and visible pores. No retouching or artificial smoothing — lively, natural look. 100% similarity to the original person must be preserved. Lips are slightly plump and glossy; she looks upward in admiration toward the car ceiling.\n\nShe wears a body-hugging, ribbed high-neck black dress. An oversized brown-toned biker jacket made of thick quality fabric is draped over her shoulders. Small round gold earrings, a neat short square French manicure, and a statement gold ring on her finger.\n\nShe carefully holds a large, showy bouquet of shiny autumn maple leaves in red, orange and gold tones. The scene is inside a premium car with coffee-toned leather seats. A panoramic glass roof is visible above. The car’s exterior roof is densely covered with fallen colorful maple leaves, creating a magical autumn carpet. Through the glass roof: gray-blue autumn clouds, light raindrops and leaves stuck to the glass. Lighting is dim, soft and atmospheric.\n\nShot as a slight side-angle selfie with an extended arm, camera angled from below upward. Warm, peaceful autumn mood, Pinterest/Instagram aesthetic, cinematic look, ultra-realistic, 8K."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "Autumn selfie in a luxury car holding maple leaves.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
