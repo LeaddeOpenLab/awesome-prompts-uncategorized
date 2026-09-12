@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**110** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**112** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098687497794711885"></a>
+
+### Übersetzung läuft
+
+Autor：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Originalbeitrag](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098687497794711885.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098636136130457930"></a>
 
@@ -79,20 +101,60 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098634812307476794"></a>
 
-### Übersetzung läuft
+### Prompt für ein realistisches Fashion-Porträt im Resort-Stil einer erwachsenen japanischen Frau im hellrosa Bikini im sommerlichen Flachwasser.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2098634812307476794)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein realistisches Fashion-Porträt im Resort-Stil einer erwachsenen japanischen Frau im hellrosa Bikini im sommerlichen Flachwasser.
 
 <img src="images/2098634812307476794-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Sommerliches Flachwasser | Hellrosa Bikini und spritzende Wellen🌟
+
+【Thema / Kunststil】
+Darstellung einer eindeutig volljährigen japanischen Frau, die an einer kristallklaren sommerlichen Meeresküste unwillkürlich ihren Körper dreht, in dem Moment, als eine kleine Welle ihre Füße erreicht. Auf Fotorealismus basierend, gestaltet als helles, raffiniertes Modefoto, das die Balance zwischen einem Gravure-Fotobuch und einer edlen Resort-Werbung hält.
+Anstelle einer statischen Pose liegt der Fokus auf einer natürlichen Bewegung, als würde ein flüchtiger Moment der Reaktion auf Wellen und Meeresbrise festgehalten. Es soll eine erfrischende und zugleich feminine Strahlkraft besitzen – ein fotografischer Ausdruck, dessen Farben und Mimik im X-Feed sofort ins Auge fallen.
+
+【Ort / Hintergrund / Weltanschauung】
+Der Schauplatz ist ein seichtes Meer, das an einen weißen Sandstrand grenzt. Zu den Füßen der Person breitet sich hochtransparentes Wasser aus, sodass feine Kräuselungen, weißer Schaum und sogar der helle Sand auf dem Meeresgrund sichtbar sind. Im Mittelgrund wechselt die Meeresoberfläche von Türkisblau zu tiefem Blau; im Hintergrund sind eine kleine Landzunge und begrüntes Felsgelände harmonisch platziert.
+Auf unnötige Gebäude oder Touristen im Hintergrund wird verzichtet, um das offene, ungestörte Flair eines ruhigen Resort-Strandes zu bewahren. Das Glitzern des Wassers und die Gischt der Brandung werden im Vordergrund aufgegriffen, um einen Raum zu schaffen, der nicht nur die Person, sondern auch die Tiefe der Küste selbst spürbar macht.
+
+【Jahreszeit / Tageszeit / Wetter】
+Die Jahreszeit ist Hochsommer. Die Tageszeit liegt zwischen 10:00 Uhr und der Mittagszeit, wenn die Sonne hoch steht und die Farben von Himmel und Meer leuchtend wirken. Nahezu wolkenloser blauer Himmel mit vereinzelten kleinen weißen Wolken in der Ferne.
+Die Temperatur ist warm, mit einer leichten, erfrischenden Meeresbrise. Der Wind lässt die Haarspitzen sanft wehen und erzeugt feine Wellen auf der Wasseroberfläche. Dargestellt wird ein heller, friedlicher Sommertag, kein stürmisches Wetter oder raue See.
+
+【Charakter-Design】
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Weiche, ebenmäßige und erwachsene Gesichtszüge mit leicht großen, natürlichen Augen, sanften Brauen und frisch getönten Lippen. Dunkelbraunes, etwa schulterlanges, gewelltes Haar, das durch die Meeresbrise natürliche Strähnen und feine, wehende Härchen zeigt. Ein heller Ocker-Hautton mit natürlicher Durchblutung und feinen Schattierungen, ohne übertriebene Glättung.
+Die Figur besitzt zierliche Schultern und Gliedmaßen sowie eine schmale Taille, harmonisch kombiniert mit natürlichen weiblichen Kurven zu einer glamourösen Silhouette. Die Brust hat ein deutlich großes, üppiges Volumen, jedoch ohne extreme Übertreibung; sie wird als weiche, dreidimensionale Form dargestellt, die sich realistisch an Schwerkraft, Haltung und Bikini-Struktur anpasst. Die Hüfte geht mit einer natürlichen, weichen Rundung nahtlos aus der Taille hervor.
+
+【Kleidung / Accessoires】
+Sie trägt einen hellrosa Neckholder-Bikini. Das Oberteil hat ein schlichtes, elegantes Design mit dünnen Trägern, die im Nacken gebunden werden, und ausreichend Stoffbreite, um die Brust realistisch zu stützen. Ein elastisches Bademodenmaterial mit eher matter Textur, das nur an den feuchten Stellen einen dezenten Glanz aufweist.
+Das Unterteil ist im selben Farbton gehalten und schmiegt sich natürlich an die Hüften. Der Stoff behält eine realistische Passform, schneidet nicht extrem ein und hebt sich nicht unnatürlich vom Körper ab. Auf Accessoires wird im Wesentlichen verzichtet, um die Farben des Meeres, der Kleidung und die Mimik der Frau in den Mittelpunkt zu stellen.
+
+【Pose / Handlung / Blick】
+Die Frau steht im seichten Wasser, das Gewicht auf das rechte Bein gestützt, während sie das linke Bein leicht zurückzieht, mitten in der Bewegung, um einer kleinen Welle auszuweichen. Die Hüfte ist leicht zur Seite gedreht, der Oberkörper folgt dieser Bewegung in einer natürlichen Torsion, wobei die Schultern zur Kamera hin angemessen geöffnet bleiben.
+Beide Arme sind leicht vom Körper abgewinkelt; eine Hand ist locker nach hinten, die andere zur Seite gestreckt, um das Gleichgewicht zu halten. Die Finger sind entspannt und natürlich geöffnet. Das Gesicht ist fast frontal zur Kamera gerichtet, der Blick ruht nahe dem Objektiv. Dargestellt wird eine natürliche Gewichtsverlagerung als Reaktion auf die Welle, ohne Hohlkreuz oder übertriebene Verrenkungen.
+
+【Mimik / Emotion】
+Der Gesichtsausdruck ist ein strahlendes Lächeln, gemischt mit leichter Überraschung, als würde sie sich über die Welle freuen, die plötzlich ihre Füße erreicht hat. Sie lächelt nicht nur mit den Lippen; die Augen verengen sich sanft, und die Wangen heben sich auf natürliche Weise.
+Es vermittelt eine vertraute Atmosphäre, als würde sie eine unbeschwerte Zeit am Strand mit der fotografierenden Person verbringen. Ein spontanes, mitten in der Bewegung entstandenes Lächeln, kein gestelltes Model-Grinsen.
+
+【Komposition / Kamera】
+Vertikale 4:5-Komposition, optimiert für X-Beiträge. Eine Ganzkörperaufnahme, die von Kopf bis Fuß alles natürlich einfängt, wobei die Person leicht rechts von der Bildmitte platziert ist. Die Wellenspritzer zu ihren Füßen und die Wasseroberfläche sind großzügig im Bild, während der Horizont und die Landzunge im Hintergrund sichtbar bleiben.
+Die Kamera befindet sich etwa auf Taillen- bis Brusthöhe der Person in wenigen Metern Entfernung. Verwendet wird ein natürlicher Bildwinkel im Bereich von 50 bis 70 mm (Standard bis leichtes Teleobjektiv), um Weitwinkelverzerrungen von Gliedmaßen und Körper zu vermeiden. Der Hintergrund ist leicht unscharf, behält aber genügend Details, um eindeutig als Meeresküste erkennbar zu sein.
+
+【Licht / Farbe / Textur / Atmosphäre】
+Die Hauptlichtquelle ist helles Sonnenlicht, das von oben links einfällt. Es erzeugt sanfte Glanzlichter auf Gesicht, Schultern, Armen und Bikini, während auf der Gegenseite feine, bläuliche Reflexionen der Meeresoberfläche zu sehen sind. Schatten sind nicht tiefschwarz, sondern bewahren die helle Gradation eines sonnigen Sommertages.
+Auf der Haut zeigen sich feine Schattierungen und natürliche Frische; im Haar ist jede Strähne mit Glanz erkennbar; der Bikini zeigt die Elastizität des Stoffes und dezente Nässe. Das Meerwasser wirkt transparent, der Sand feinkörnig und die Gischt besitzt ein flüchtiges Funkeln. Mit Hellrosa, Türkisblau und weißem Sand als Grundtönen entsteht eine erfrischende, lebendige Sommerfarbgebung.
+
+【Qualität / Ausschlusskriterien】
+Als hochauflösendes, fotorealistisches Bild stehen eine natürliche menschliche Anatomie, realistisches Licht, echte Materialtexturen und eine authentische Perspektive wie von einer echten Kamera im Vordergrund.
+Minderjährig wirkende Personen oder zu kindliche Gesichter, anatomische Fehler, überzählige oder fehlende Gliedmaßen und Finger, unnatürliche Gelenke, verwechselte Hände, fehlerhafte oder mit dem Körper verschmelzende Kleidung, unbeabsichtigte Nacktheit, extremes Hohlkreuz, unnatürliche Körperverdrehungen, Weitwinkelverzerrungen und übertriebene Hautglättung sind zu vermeiden. Die Brust soll zwar üppig und natürlich sein, darf aber nicht gigantisch, starr-kugelförmig, unnatürlich hochgedrückt oder schwerelos wirken. Keinerlei Text, Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -110,6 +172,28 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 **Zusammenfassung:** Übersetzung läuft
 
 <img src="images/2098636922742595944-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Fotografie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098639083652419714-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
@@ -2036,20 +2120,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098688482281452002"></a>
 
-### Übersetzung läuft
+### SpaceX-Raketenstart
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Originalbeitrag](https://x.com/iadventurejacek/status/2098688482281452002)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** SpaceX-Raketenstart
 
 <img src="covers/2098688482281452002.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+spacex
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

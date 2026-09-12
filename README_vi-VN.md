@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**110** Prompt · Bổ sung mới nhất: **2026-09-12**
+**112** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098687497794711885"></a>
+
+### Đang dịch
+
+Tác giả：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Bài gốc](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098687497794711885.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098636136130457930"></a>
 
@@ -79,20 +101,60 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 <a name="prompt-2098634812307476794"></a>
 
-### Đang dịch
+### Lời nhắc chụp ảnh chân dung thời trang phong cách khu nghỉ dưỡng chân thực về một phụ nữ Nhật Bản trưởng thành mặc bikini màu hồng nhạt ở vùng nước nông mùa hè.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098634812307476794)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chụp ảnh chân dung thời trang phong cách khu nghỉ dưỡng chân thực về một phụ nữ Nhật Bản trưởng thành mặc bikini màu hồng nhạt ở vùng nước nông mùa hè.
 
 <img src="images/2098634812307476794-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Vùng nước nông mùa hè｜Bikini hồng nhạt và bọt sóng tung tóe🌟
+
+【Chủ đề & Phong cách nghệ thuật】
+Khắc họa một người phụ nữ Nhật Bản trưởng thành rõ ràng đang vô thức vặn mình vào khoảnh khắc một con sóng nhỏ chạm vào chân cô tại bờ biển trong vắt giữa mùa hè. Dựa trên phong cách chân thực (photorealism), hoàn thiện như một bức ảnh thời trang tươi sáng và tinh tế, nằm ở ranh giới giữa sách ảnh gravure và quảng cáo khu nghỉ dưỡng cao cấp.
+Không phải là tư thế tĩnh, mà chú trọng vào chuyển động tự nhiên như thể bắt trọn khoảnh khắc phản ứng lại với sóng và gió biển. Trong sự sảng khoái có nét quyến rũ nữ tính, tạo nên biểu đạt nhiếp ảnh dễ dàng thu hút ánh nhìn về màu sắc và biểu cảm trên dòng thời gian X.
+
+【Địa điểm, Bối cảnh & Thế giới quan】
+Địa điểm là vùng biển nông thoải trải dài đến bãi cát trắng. Dưới chân nhân vật là làn nước trong vắt lan rộng, có thể nhìn thấy những gợn sóng lăn tăn, bọt trắng và cả lớp cát màu nhạt dưới đáy nước. Ở trung cảnh là mặt biển chuyển dần từ màu xanh ngọc lam sang xanh thẳm, viễn cảnh bố trí tự nhiên một mũi đất nhỏ hoặc bãi đá có cây xanh.
+Không đưa vào các công trình hay khách du lịch không cần thiết ở hậu cảnh, giữ vững cảm giác thoáng đãng của bãi biển nghỉ dưỡng yên tĩnh. Đưa ánh lấp lánh của mặt biển và bọt nước tung tóe nơi mép sóng vào tiền cảnh, tạo nên một không gian có thể cảm nhận được chiều sâu của chính bờ biển chứ không chỉ riêng nhân vật.
+
+【Mùa, Thời gian & Thời tiết】
+Mùa là giữa mùa hè. Khung giờ từ khoảng 10 giờ sáng đến giữa trưa, thời điểm mặt trời lên cao khiến màu sắc của bầu trời và biển hiện lên rực rỡ nhất. Bầu trời xanh gần như quang đãng, xa xa lơ lửng vài gợn mây trắng nhỏ.
+Nhiệt độ ấm áp, có làn gió sảng khoái nhè nhẹ thổi từ biển vào. Gió làm ngọn tóc bay nhẹ và tạo ra những gợn sóng nhỏ trên mặt nước. Khắc họa như một ngày hè tươi sáng và êm đềm, không phải gió mạnh hay biển động.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản rõ ràng đã trưởng thành, khoảng 20 đến 28 tuổi. Khuôn mặt mang nét phụ nữ trưởng thành mềm mại và thanh tú, đôi mắt to tự nhiên, lông mày dịu dàng, đôi môi hồng hào. Mái tóc uốn gợn sóng màu nâu sẫm dài ngang vai, để lại những lọn tóc bay tự nhiên theo gió biển và những sợi tóc con mềm mại. Làn da tông màu be sáng (ocher), không đồng nhất thái quá mà thể hiện sắc hồng hào tự nhiên cùng các mảng tối tinh tế.
+Vóc dáng có bờ vai và tay chân mảnh khảnh, vòng eo thon gọn nhưng lại là một thân hình đầy đặn tự nhiên, hài hòa với những đường cong nữ tính. Vòng một lớn rõ rệt và căng tròn, nhưng không phóng đại cực đoan, thể hiện khối hình ba chiều mềm mại phù hợp với cấu trúc bikini, tư thế và trọng lực. Vòng hông cũng có độ cong tròn thoải tự nhiên nối liền từ eo.
+
+【Trang phục & Phụ kiện】
+Mặc bộ bikini cổ yếm màu hồng nhạt. Áo ngực có thiết kế đơn giản, thanh lịch với dây buộc mảnh sau cổ và độ che phủ vừa vặn thực tế để nâng đỡ vòng ngực. Chất liệu đồ bơi co giãn hơi lì, chỉ ánh lên vẻ bóng nhẹ ở những chỗ bị ướt.
+Quần bơi đồng màu, ôm tự nhiên theo đường hông. Vải không bị thít quá chặt hay phồng ra khỏi cơ thể, duy trì cảm giác kích thước thực tế. Về cơ bản không đeo phụ kiện, để màu sắc của biển, trang phục và biểu cảm của nhân vật làm chủ đạo.
+
+【Tư thế, Chuyển động & Ánh nhìn】
+Nhân vật đứng trong vùng nước nông, dồn trọng tâm lấy chân phải làm trụ, trong khi chân trái hơi rút lại trong động tác né con sóng nhỏ. Hông hơi xoay sang một bên, phần thân trên vặn tự nhiên theo chuyển động đó, nhưng vai vẫn mở vừa phải về phía máy ảnh.
+Hai cánh tay hơi rời khỏi cơ thể, một tay nhẹ nhàng đưa ra sau, tay kia vươn tự nhiên sang bên để giữ thăng bằng. Các ngón tay mở tự nhiên không gồng lực. Khuôn mặt hầu như hướng về phía máy ảnh, ánh mắt nhìn gần ống kính. Không ưỡn lưng quá mức hay vặn vẹo thái quá, thể hiện sự dịch chuyển trọng tâm tự nhiên như một khoảnh khắc phản ứng lại con sóng.
+
+【Biểu cảm & Cảm xúc】
+Biểu cảm là nụ cười rạng rỡ xen chút ngạc nhiên, như thể đang thích thú vì một con sóng nhỏ bất ngờ tràn đến chân. Không chỉ cười bằng miệng mà khóe mắt hơi híp lại dịu dàng, đôi má nâng lên tự nhiên.
+Tạo cảm giác thân mật như đang tận hưởng khoảng thời gian vui vẻ bên bờ biển cùng người chụp ảnh. Không phải nụ cười người mẫu gượng gạo, mà là biểu cảm tự nhiên xuất hiện giữa chừng chuyển động.
+
+【Bố cục & Máy ảnh】
+Bố cục dọc 4:5 dành cho bài đăng X. Ảnh chụp toàn thân tự nhiên từ đỉnh đầu đến ngón chân, đặt nhân vật hơi lệch sang bên phải của tâm khung hình. Lấy đủ bọt sóng dưới chân và mặt biển, đồng thời để lộ đường chân trời và mũi đất phía sau.
+Máy ảnh đặt ngang tầm từ eo đến ngực của nhân vật, chụp từ khoảng cách vài mét. Sử dụng góc nhìn tự nhiên từ ống kính tiêu chuẩn đến tele tầm trung khoảng 50-70mm, tránh sự biến dạng của tay chân và cơ thể do góc rộng. Hậu cảnh làm mờ nhẹ nhưng vẫn giữ đủ lượng thông tin để nhận biết đó là bờ biển.
+
+【Ánh sáng, Màu sắc, Kết cấu & Bầu không khí】
+Nguồn sáng chính là ánh nắng rực rỡ chiếu từ phía trên bên trái khung hình. Tạo các vệt sáng nhẹ (highlight) mềm mại trên mặt, vai, cánh tay và đồ bơi, phía đối diện có ánh sáng phản xạ màu xanh trắng nhạt từ mặt biển. Vùng tối không đen tuyền mà duy trì dải sắc độ tươi sáng đặc trưng của ban ngày mùa hè.
+Làn da thể hiện các mảng tối tinh tế và sắc hồng hào tự nhiên, mái tóc thấy rõ từng sợi bay và độ bóng mượt, đồ bơi có độ căng của vải co giãn và cảm giác ướt nhẹ. Nước biển trong suốt, cát có độ hạt mịn màng, bọt sóng mang ánh lấp lánh tức thời. Lấy màu hồng nhạt, xanh ngọc lam và cát trắng làm chủ đạo, hòa quyện thành tông màu mùa hè sảng khoái và rực rỡ.
+
+【Chất lượng & Yếu tố loại trừ】
+Là ảnh chân thực độ phân giải cao, chú trọng vào cơ thể người, ánh sáng, chất liệu và phối cảnh tự nhiên như thể được chụp bằng máy ảnh thực tế.
+Tránh nhân vật trông như vị thành niên hoặc khuôn mặt quá non nớt, cơ thể người bất thường, thừa hoặc thiếu chi/ngón tay, khớp nối dị dạng, nhầm lẫn giữa tay trái và phải, trang phục rách nát hoặc hòa lẫn vào cơ thể, lộ hàng ngoài ý muốn, ưỡn lưng quá mức hoặc vặn vẹo cơ thể, biến dạng góc rộng cực đoan, chỉnh mịn da quá đà. Vòng một giữ độ đầy đặn tự nhiên, không khổng lồ hóa, không có dạng hình cầu cứng đờ, không đẩy lên bất thường hay chống lại trọng lực. Không đưa chữ viết, logo, watermark, giao diện UI vào trong ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -110,6 +172,28 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Tóm tắt:** Đang dịch
 
 <img src="images/2098636922742595944-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Nhiếp ảnh · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098639083652419714-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
@@ -2081,20 +2165,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098688482281452002"></a>
 
-### Đang dịch
+### Vụ phóng tên lửa của SpaceX
 
 Tác giả：[@iadventurejacek](https://x.com/iadventurejacek) · [Bài gốc](https://x.com/iadventurejacek/status/2098688482281452002)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Vụ phóng tên lửa của SpaceX
 
 <img src="covers/2098688482281452002.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+spacex
 ```
 
 [↑ Về danh mục](#catalog)

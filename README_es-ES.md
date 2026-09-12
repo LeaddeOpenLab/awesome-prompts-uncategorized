@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**110** Prompts · Última incorporación: **2026-09-12**
+**112** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098687497794711885"></a>
+
+### Traducción en curso
+
+Autor：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Publicación original](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098687497794711885.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098636136130457930"></a>
 
@@ -79,20 +101,60 @@ Traducción en curso
 
 <a name="prompt-2098634812307476794"></a>
 
-### Traducción en curso
+### Prompt de retrato de moda realista de estilo resort de una mujer japonesa adulta con bikini rosa claro en aguas poco profundas de verano.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2098634812307476794)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato de moda realista de estilo resort de una mujer japonesa adulta con bikini rosa claro en aguas poco profundas de verano.
 
 <img src="images/2098634812307476794-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Aguas poco profundas de verano｜Bikini rosa claro y salpicaduras de olas🌟
+
+【Tema y estilo artístico】
+Representa a una mujer japonesa claramente adulta que gira instintivamente su cuerpo en el momento en que una pequeña ola llega a sus pies en una costa veraniega y cristalina. Basado en el fotorrealismo, rematado como una fotografía de moda luminosa y refinada, a medio camino entre un libro de fotos gravure y un elegante anuncio de resort.
+En lugar de una pose estática, se prioriza el movimiento natural que captura un instante de reacción a las olas y a la brisa marina. Combina frescura con un encanto femenino radiante, logrando una expresión fotográfica cuyos colores y expresión capten fácilmente la mirada en el feed de X.
+
+【Lugar, fondo y ambientación】
+El lugar es una playa de poca profundidad que se extiende hacia una arena blanca. A los pies del sujeto se extiende un agua muy transparente, donde se aprecian sutiles ondas, espuma blanca e incluso la arena clara del fondo. En el plano medio, la superficie marina pasa del azul turquesa a un azul intenso, y en la lejanía se disponen de forma natural un pequeño cabo o rocas con vegetación.
+Sin añadir edificios ni turistas innecesarios en el fondo, manteniendo la sensación de amplitud propia de una playa tranquila de resort. Incorpora los destellos de la superficie marina y las salpicaduras de la orilla en el primer plano, creando un espacio donde se perciba la profundidad de la propia orilla y no solo del personaje.
+
+【Estación, hora y clima】
+La estación es pleno verano. La franja horaria es entre las 10:00 y el mediodía, cuando el sol está alto y los colores del cielo y del mar se ven con gran viveza. Cielo azul prácticamente despejado, con escasas nubes blancas flotando a lo lejos.
+La temperatura es cálida y sopla una brisa refrescante y suave desde el mar. El viento hace ondular suavemente las puntas del cabello y genera pequeñas olas en la superficie del agua. Se expresa como un día de verano luminoso y apacible, sin vientos fuertes ni mar picado.
+
+【Ajustes del personaje】
+Mujer japonesa claramente adulta de entre 20 y 28 años. Rasgos faciales suaves y proporcionados de mujer adulta, con ojos naturales ligeramente grandes, cejas amables y labios con buen tono. Cabello castaño oscuro ondulado hasta los hombros, conservando el movimiento natural que le da la brisa marina y finos mechones sueltos. Piel de tono ocre claro, sin una uniformidad artificial, mostrando un rubor natural y sombras detalladas.
+Silueta con hombros y extremidades esbeltas y cintura estrecha, pero con un cuerpo naturalmente voluptuoso donde armonizan las curvas femeninas. El pecho tiene un volumen claramente grande y abundante, pero sin exageraciones extremas, presentándose como una volumetría suave y tridimensional adaptada a la estructura del bikini, la postura y la gravedad. Las caderas tienen una curvatura suave y natural conectada con la cintura.
+
+【Vestuario y accesorios】
+Viste un bikini halter en color rosa claro. La parte superior tiene un diseño simple y elegante con tirantes finos anudados tras el cuello y una anchura de tela suficiente para sostener el busto de forma realista. Material de traje de baño elástico y de tendencia mate, que muestra un brillo discreto únicamente en las zonas mojadas.
+La braguita hace juego en la misma gama de color y se ajusta de forma natural al contorno de las caderas. La tela no se clava de forma extrema ni se despega del cuerpo, manteniendo un ajuste realista. Básicamente sin accesorios, dejando que los colores del mar, el traje de baño y la expresión del personaje sean los protagonistas.
+
+【Pose, movimiento y mirada】
+El personaje está de pie en aguas poco profundas, apoyando el peso sobre la pierna derecha mientras recoge ligeramente la izquierda en pleno movimiento para esquivar una pequeña ola. Las caderas están ligeramente giradas hacia un lado y la parte superior del cuerpo se tuerce de forma natural siguiendo ese movimiento, pero los hombros permanecen adecuadamente abiertos hacia la cámara.
+Ambos brazos están ligeramente separados del cuerpo; una mano se extiende con delicadeza hacia atrás y la otra hacia un lado de forma natural para mantener el equilibrio. Los dedos de las manos están relajados y abiertos con naturalidad. El rostro se orienta casi directamente a la cámara y la mirada se dirige cerca de la lente. Sin arquear la espalda ni torsiones forzadas, reflejando un desplazamiento de peso natural como un instante de reacción ante la ola.
+
+【Expresión y emociones】
+La expresión es una sonrisa luminosa mezclada con un leve asombro, como si disfrutara de la llegada repentina de la pequeña ola a sus pies. No sonríe solo con la boca; los ojos se entrecierran con dulzura y las mejillas se elevan de forma natural.
+Transmite una cercanía como si estuviera pasando un momento divertido en la playa junto a quien toma la fotografía. No es una sonrisa forzada de modelo, sino una expresión espontánea surgida en medio del movimiento.
+
+【Composición y cámara】
+Composición vertical 4:5 pensada para publicaciones en X. Plano de cuerpo entero que abarca de forma natural desde la coronilla hasta la punta de los pies, situando al personaje ligeramente a la derecha del centro del encuadre. Se capturan adecuadamente las salpicaduras de las olas a los pies y la superficie marina, mostrando también el horizonte y el cabo de fondo.
+La cámara se sitúa aproximadamente a la altura de la cintura o el pecho del personaje, disparando desde una distancia de varios metros. Utiliza un ángulo de visión natural de objetivo estándar a teleobjetivo medio (unos 50-70 mm), evitando distorsiones de extremidades o cuerpo producidas por el gran angular. El fondo queda ligeramente desenfocado, pero conservando suficiente información para reconocer el entorno costero.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la brillante luz solar que incide desde la parte superior izquierda del encuadre. Crea reflejos suaves en el rostro, hombros, brazos y bikini, mientras que en el lado opuesto entra una débil luz reflejada, blanquiazul, procedente del mar. Las sombras no son completamente negras, manteniendo una gradación luminosa propia de un día de verano.
+En la piel se expresan sombras detalladas y un rubor natural; en el pelo, el flujo y brillo mechón a mechón; y en el bikini, la tensión de la tela elástica y una leve humedad. El agua de mar presenta transparencia, la arena una textura de grano fino y las salpicaduras de las olas un brillo instantáneo. Basado en rosa claro, azul turquesa y arena blanca, se compone una paleta estival refrescante y atractiva.
+
+【Calidad y elementos excluidos】
+Como fotografía fotorrealista de alta resolución, se priorizan la anatomía humana, la luz, los materiales y la perspectiva naturales, como si hubiese sido tomada con una cámara real.
+Evitar personajes con apariencia de menores de edad o rostros demasiado infantiles, anatomía antinatural, extremidades o dedos de más o faltantes, articulaciones deformadas, confusión entre manos derecha e izquierda, fallos en la ropa o fusión con el cuerpo, desnudez involuntaria, arqueamiento excesivo de espalda o torsiones corporales extremas, distorsión exagerada por gran angular y filtros excesivos de suavizado de piel. El pecho debe conservar un volumen abundante y natural, sin gigantismo, formas esféricas rígidas, realces anómalos o formas que desafíen la gravedad. No incluir textos, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -110,6 +172,28 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 **Resumen:** Traducción en curso
 
 <img src="images/2098636922742595944-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### Traducción en curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Fotografía · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098639083652419714-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
@@ -2081,20 +2165,20 @@ Traducción en curso
 
 <a name="prompt-2098688482281452002"></a>
 
-### Traducción en curso
+### Lanzamiento de cohete de SpaceX
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicación original](https://x.com/iadventurejacek/status/2098688482281452002)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Lanzamiento de cohete de SpaceX
 
 <img src="covers/2098688482281452002.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+spacex
 ```
 
 [↑ Volver a categorías](#catalog)

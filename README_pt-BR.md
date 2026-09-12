@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**110** Prompts · Última adição: **2026-09-12**
+**112** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098687497794711885"></a>
+
+### Tradução em andamento
+
+Autor：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Publicação original](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098687497794711885.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098636136130457930"></a>
 
@@ -79,20 +101,60 @@ Tradução em andamento
 
 <a name="prompt-2098634812307476794"></a>
 
-### Tradução em andamento
+### Prompt de retrato de moda realista com estilo de resort de uma mulher japonesa adulta em águas rasas de verão usando biquíni rosa claro.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098634812307476794)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato de moda realista com estilo de resort de uma mulher japonesa adulta em águas rasas de verão usando biquíni rosa claro.
 
 <img src="images/2098634812307476794-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟Águas Rasas de Verão | Biquíni Rosa Claro e Respingos de Ondas🌟
+
+【Tema e Estilo Visual】
+Retratar uma mulher japonesa claramente adulta que instintivamente gira o corpo no momento em que uma pequena onda alcança seus pés, em uma praia límpida em pleno verão. Com base no fotorrealismo, finalizar como uma foto de moda luminosa e sofisticada, em um meio-termo entre um álbum de fotos gravure e um elegante anúncio de resort.
+Em vez de uma pose estática, enfatizar o movimento natural capturado como um instante de reação às ondas e à brisa marítima. Trazer um brilho feminino em meio ao frescor, criando uma expressão fotográfica cujas cores e feição chamem a atenção com facilidade no feed do X.
+
+【Localização, Cenário e Ambientação】
+O local é um mar raso que se estende até uma praia de areia branca. Aos pés da pessoa, espalha-se uma água de alta transparência, onde se veem suaves ondulações, espuma branca e até a areia clara no fundo da água. No plano médio, a superfície do mar transita do azul-turquesa para o azul profundo; no plano de fundo, pequenos promontórios e rochedos com vegetação são dispostos de forma natural.
+Sem edifícios desnecessários ou turistas ao fundo, mantendo a sensação de amplitude típica de uma praia tranquila de resort. Incorporar o brilho da superfície do mar e os respingos d'água na arrebentação em primeiro plano, criando um espaço onde se sinta a profundidade não apenas da pessoa, mas da própria beira-mar.
+
+【Estação, Horário e Clima】
+A estação é pleno verão. O horário é por volta das 10h da manhã até perto do meio-dia, momento em que o sol está alto e as cores do céu e do mar parecem vívidas. Céu azul quase límpido, com poucas nuvens brancas flutuando ao longe.
+A temperatura é quente, com um vento suave e refrescante soprando do mar. Com a brisa, as pontas do cabelo fluem suavemente, e pequenas ondas se formam na superfície da água. Expressar como um dia de verão ensolarado e sereno, sem ventos fortes ou mar revolto.
+
+【Configuração da Personagem】
+Mulher japonesa claramente adulta, com cerca de 20 a 28 anos. Rosto suave e harmonioso de mulher adulta, com olhos naturais e levemente grandes, sobrancelhas gentis e lábios com viço natural. Cabelos ondulados castanho-escuros na altura dos ombros, preservando o fluxo natural dos fios e pequenos fios soltos movidos pela brisa marítima. Pele em tom ocre claro, sem uniformização excessiva, retratando viço natural e sombras sutis.
+O tipo físico possui ombros e membros delicados e cintura fina, equilibrados em uma silhueta naturalmente curvilínea e glamourosa. Seios visivelmente grandes e com volume farto, porém sem exageros extremos, retratados com volume suave e tridimensional que se acomoda à estrutura do biquíni, à postura e à gravidade. Quadris com curvas suaves que se conectam naturalmente à cintura.
+
+【Traje e Acessórios】
+Vestindo um biquíni frente única (halter neck) em tom rosa claro. A parte superior possui alças finas amarradas atrás do pescoço e largura de tecido suficiente para sustentar o busto de forma realista, com design simples e refinado. Tecido elástico com acabamento tendendo ao fosco, exibindo um brilho discreto apenas nas partes molhadas.
+A parte inferior segue no mesmo tom, contornando a região do quadril de maneira natural. O tecido não entra excessivamente na pele nem fica frouxo, mantendo proporções realistas. Basicamente sem acessórios, deixando as cores do mar, do traje e a expressão facial da personagem como protagonistas.
+
+【Pose, Ação e Olhar】
+A mulher está de pé na água rasa; apoiando o peso na perna direita como base, ela recolhe levemente a perna esquerda, mostrando o movimento de quem desvia de uma pequena onda. O quadril faz uma leve rotação para o lado, e a parte superior do corpo gira naturalmente acompanhando esse movimento, mantendo os ombros moderadamente abertos em direção à câmera.
+Os braços ficam ligeiramente afastados do corpo, uma mão levemente estendida para trás e a outra para o lado com naturalidade para equilibrar o corpo. Os dedos das mãos relaxados, abertos naturalmente. O rosto está voltado quase diretamente para a câmera, com o olhar focado próximo à lente. Sem hiperlordose ou torção exagerada do tronco, expressando uma transferência natural de peso como a reação espontânea a uma onda.
+
+【Expressão e Emoção】
+A expressão é um sorriso radiante misturado a uma leve surpresa, como se estivesse se divertindo com a pequena onda que repentinamente atingiu seus pés. Não é apenas um sorriso com a boca: os olhos se estreitam suavemente e as bochechas se erguem com naturalidade.
+Transmite uma sensação de intimidade e proximidade, como se estivesse passando momentos agradáveis na praia com quem a fotografa. Finalizar não como um sorriso posado de modelo, mas como uma expressão espontânea que escapou no meio do movimento.
+
+【Composição e Câmera】
+Composição vertical 4:5 otimizada para postagens no X. Tomada de corpo inteiro enquadrando naturalmente do topo da cabeça até a ponta dos pés, posicionando a pessoa ligeiramente à direita do centro do quadro. Incluir amplamente a superfície do mar e os respingos d'água aos pés, exibindo também a linha do horizonte e os promontórios ao fundo.
+Câmera posicionada aproximadamente na mesma altura da cintura ao peito da pessoa, fotografada a alguns metros de distância. Utilizar um ângulo de visão natural de padrão a meia-teleobjetiva, entre 50mm e 70mm, evitando distorções de grande-angular no corpo ou membros. Fundo levemente desfocado, mantendo informação visual suficiente para ser reconhecido como uma praia.
+
+【Luz, Cores, Texturas e Atmosfera】
+A fonte de luz principal é a luz solar brilhante que incide do canto superior esquerdo do quadro. Criar realces suaves no rosto, ombros, braços e no biquíni, enquanto o lado oposto recebe uma suave reflexão azulada da superfície do mar. As sombras não são pretas puras, preservando uma gradação luminosa e clara típica do meio do dia no verão.
+Na pele, sombras sutis e viço natural; no cabelo, o fluxo e o brilho de cada fio; no biquíni, a tensão do tecido elástico e uma leve umidade. A água do mar com transparência cristalina, a areia com textura granular fina e os respingos com brilho instantâneo. Paleta harmonizada em tons refrescantes e vívidos de verão, tendo como base o rosa claro, o azul-turquesa e a areia branca.
+
+【Qualidade e Elementos Negativos】
+Foto fotorrealista de alta resolução, valorizando a anatomia humana, a iluminação, os materiais e a perspectiva de forma realista, como se fotografada por uma câmera real.
+Evitar pessoa com aparência menor de idade ou rosto excessivamente infantil, anatomia não natural, membros ou dedos extras ou faltando, articulações anormais, mãos invertidas/confusas, falhas no traje ou fusão do tecido com a pele, exposição indecente indesejada, curvatura lombar excessiva ou torção corporal forçada, distorção extrema de lente grande-angular e suavização de pele exagerada. Manter o busto com volume farto e natural, sem transformá-lo em esferas rígidas gigantescas, com efeito de elevação anormal ou desafiando a gravidade. Sem textos, logotipos, marcas d'água ou elementos de interface dentro da imagem.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -110,6 +172,28 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Resumo:** Tradução em andamento
 
 <img src="images/2098636922742595944-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Fotografia · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098639083652419714-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
@@ -2053,20 +2137,20 @@ Tradução em andamento
 
 <a name="prompt-2098688482281452002"></a>
 
-### Tradução em andamento
+### Lançamento de foguete da SpaceX
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicação original](https://x.com/iadventurejacek/status/2098688482281452002)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Lançamento de foguete da SpaceX
 
 <img src="covers/2098688482281452002.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+spacex
 ```
 
 [↑ Voltar às categorias](#catalog)

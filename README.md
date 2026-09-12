@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**110** Prompts · Latest addition: **2026-09-12**
+**112** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098687497794711885"></a>
+
+### Home portrait of an East Asian woman in black lace sleepwear lying on a bed
+
+Author：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Source](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Home portrait of an East Asian woman in black lace sleepwear lying on a bed
+
+<img src="covers/2098687497794711885.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+CCD casual lifestyle snapshot, slightly out of focus, an East Asian woman wearing an old sheer black lace set that has become very loose and baggy from long-term wear, one shoulder strap slipped down, chest partially covered yet not completely concealed, golden ratio figure, wasp waist and large breasts, slender and toned thighs, nestled on an unmade bed in an ambiguous and seductive pose, messy clothing, relaxed and cozy atmosphere
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098636136130457930"></a>
 
@@ -245,6 +267,78 @@ The skin features subtle water droplets, delicate flushing, and a natural pore t
 [Quality & Excluded Elements]
 Emphasize high resolution, natural human anatomy, realistic perspective, and authentic lighting and material textures as if captured with an actual camera. Avoid figures that look underage, excessively youthful facial features, unnatural joint bends or body twists, extra limbs or fingers, missing fingers, fused fingers, or confusion between left and right hands.
 Avoid towel rendering artifacts, towel fusing with the body, unnatural skin pinching, and unintended exposure. While maintaining full, natural bust volume, avoid giant proportions, rigid spherical shapes, abnormal push-up effects, or gravity-defying forms. Avoid extreme wide-angle distortion, excessive skin smoothing, artificial backgrounds, text, logos, watermarks, and UI elements.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### A photorealistic photography prompt of a Japanese woman wearing peach-pink lingerie and reaching for white flowers in a Western-style garden in the afternoon.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Photography · Character · Fashion Item · Published
+
+**Summary:** A photorealistic photography prompt of a Japanese woman wearing peach-pink lingerie and reaching for white flowers in a Western-style garden in the afternoon.
+
+<img src="images/2098639083652419714-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 White Flower Garden | Afternoon Light and Peach Pink Lace 🌟
+
+[Subject & Art Style]
+A photorealistic fashion photograph capturing the moment a clearly adult Japanese woman reaches toward white flowers in a bright afternoon flower garden. It combines the sophisticated texture of a lingerie commercial with the airy, natural beauty typical of a spring/summer garden shoot.
+
+Rather than solely emphasizing the person, the white flowers, pale greens, and soft sunlight are integrated to form a single cohesive world. Avoid skewing overly cute or sweet; aim for an advertising photography style marked by mature female composure and natural elegance.
+
+[Location, Background, & Setting]
+The shoot location is a serene Western-style garden filled with an abundance of small white blossoms. Near the subject are a low flowerbed and a cobblestone pathway, with pale green foliage and slender branches spreading naturally all around. Slightly blurred white flowers are placed in the foreground, creating a three-dimensional sense of depth that leads from around the subject into the distance.
+
+In the background, a small ivory or white garden shed, a wooden fence, and understated garden chairs are softly blurred. The background props should not overpower the main subject, naturally conveying the impression of a peaceful afternoon garden enveloped in flowers.
+
+[Season, Time, & Weather]
+The season is late spring to early summer—a warm, comfortable time when flowers and foliage are vibrant and thriving. The time of day is around 2:00 PM to 4:00 PM, with the sun beginning its descent yet remaining fully bright.
+
+The weather is sunny with light, scattered clouds. Natural light is gently diffused by clouds and surrounding foliage rather than being harsh direct sunlight. A gentle breeze slightly rustles the ends of her hair and the leaves, evoking a sense of calm air flowing even within a still image.
+
+[Subject Details]
+A clearly adult Japanese woman around 20 to 28 years old. She has soft, well-balanced facial features: naturally large eyes, a refined nasal bridge, healthy flushed lips, and gentle eyebrows. Her dark brown hair reaches just past her shoulders with natural soft waves, with a few stray strands framing her face.
+
+Her skin has a bright warm-ocher tone, retaining natural color and subtle shading rather than appearing excessively smooth. She has delicate shoulders, limbs, and a slender waist, balanced harmoniously with feminine curves in a natural, glamorous physique. Her bust has distinct, natural fullness with soft, three-dimensional realism that naturally conforms to her outfit, posture, and gravity, complemented by gently rounded hips well-proportioned to her entire frame.
+
+[Outfit & Accessories]
+An elegant lingerie set based in peach pink. The bra features delicate lace with small white and pale beige floral embroidery, slender straps, and subtle ribbon accents. The panties share matching lace and embroidery, establishing a cohesive look.
+
+The fabric is lightweight yet possesses realistic thickness and elasticity, fitting properly and naturally following the curves of her full bust and hips. The fabric neither gaps nor digs in excessively, supported effortlessly by stitching and cup construction. Accessories are kept minimal, limited to small pearl earrings so as not to distract from the garden's natural beauty.
+
+[Pose, Movement, & Gaze]
+The subject lowers her hips slightly beside the flowerbed in a natural low stance without crouching too deeply. Her body is angled about 30 to 40 degrees relative to the camera, with both knees gently bent and slightly more weight placed on her right leg. Her upper body leans subtly forward while maintaining a natural posture without hunching her back excessively.
+
+Her right hand reaches out toward a small white flower in front, her fingertips gently touching the petals or stem. Her left hand rests naturally near her left knee. Her face tilts slightly downward in the direction of her reaching hand, and her gaze is directed toward the flower. Without extreme twisting or arching of the body, the pose looks like a natural, candid moment of discovering a flower and instinctively touching it.
+
+[Expression & Emotion]
+Her eyes are gently narrowed, gazing delightfully at the white flower before her. Her lips hold an understated smile that is not an overt grin, and her cheeks show a faint, natural flush.
+
+Not a posed expression tailored for the camera, but a tranquil smile naturally emerging the moment she touches the flower. The emotional expression simultaneously conveys the comfort of spending time in a quiet garden, the joy of discovering a small flower, and mature composure.
+
+[Composition & Camera]
+A 4:5 vertical composition suited for social media posts. It comfortably captures the subject from the crown of her head to her feet while adequately showcasing her crouching posture and the surrounding flowers. The subject is positioned slightly to the right of center, with the white flower she is reaching toward placed on the left to create a visual flow of gaze and motion.
+
+The camera is positioned at roughly the height of the subject's chest to waist and shot from a slight distance. A standard to short telephoto focal length of around 50–70mm is used, prioritizing natural perspective without body distortion. Foreground white flowers are gently blurred, maintaining a medium depth of field that keeps the subject as the focus while keeping the garden background recognizable.
+
+[Lighting, Color, Texture, & Mood]
+The main light source is soft afternoon natural light entering from the upper left. It casts gentle highlights across her face, shoulders, hair, and the lingerie lace, while natural ambient bounce from the white flowers and cobblestones fills the opposite side so shadows do not become overly dark. Shadows are soft, bearing a slightly warm color temperature characteristic of the afternoon.
+
+The skin exhibits fine shading and natural flush; the hair shows individual strand definition and a soft sheen; and the lace reveals the fine knit of threads and three-dimensional embroidery. The cobblestones have a slightly dry, grainy texture, leaves possess a faint gloss, and flower petals appear soft and delicate. The overall palette is harmonized in bright, refined tones centered on peach pink, white, and pale green.
+
+[Quality & Exclusions]
+As a high-resolution, photorealistic photograph, priority is placed on natural human anatomy, realistic perspective, authentic lighting, and material rendering as if captured by a real camera. The subject must be distinctly adult, avoiding childlike facial features or physique that appear underage.
+
+Avoid extra limbs, extra fingers, missing fingers, fused fingers, unnatural joints, swapped left/right hands, costume glitches, blending of body and fabric, unintentional exposure, awkward poses, extreme wide-angle distortion, distorted background structures, and over-processed smooth skin. While her bust maintains a naturally full volume, avoid ballooning sizes, rigid spherical shapes, abnormal push-up effects, or forms defying gravity. Do not include any text, logos, watermarks, or UI overlays in the image.
 ```
 
 [↑ Back to categories](#catalog)

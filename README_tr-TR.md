@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**110** Prompt · Son eklenen: **2026-09-12**
+**112** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098687497794711885"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Orijinal gönderi](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098687497794711885.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098636136130457930"></a>
 
@@ -79,20 +101,60 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımland�
 
 <a name="prompt-2098634812307476794"></a>
 
-### Çeviri sürüyor
+### Yaz sığlıklarında açık pembe bikini giymiş yetişkin bir Japon kadınının gerçekçi, tatil köyü tarzı moda portresi istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098634812307476794)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yaz sığlıklarında açık pembe bikini giymiş yetişkin bir Japon kadınının gerçekçi, tatil köyü tarzı moda portresi istemi.
 
 <img src="images/2098634812307476794-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Yaz Sığlıkları | Açık Pembe Bikini ve Sıçrayan Dalgalar🌟
+
+【Tema ve Görsel Tarz】
+Yaz ortasında berrak bir sahil kenarında, minik bir dalganın ayaklarına ulaştığı anda istemsizce vücudunu hafifçe döndüren, açıkça yetişkin bir Japon kadını betimleyin. Fotogerçekçi temele dayalı, gravure fotoğraf albümü ile zarif bir tatil köyü reklamı arasında, aydınlık ve sofistike bir moda fotoğrafı olarak işleyin.
+Hareketsiz bir poz yerine, dalgalara ve deniz meltemine tepki verilen bir anı yakalamış gibi doğal bir harekete öncelik verin. Ferahlığın içinde feminen bir albeni barındıran, X akışında da renkleri ve yüz ifadesiyle kolayca dikkat çeken bir fotoğrafik anlatım oluşturun.
+
+【Mekân, Arka Plan ve Dünya】
+Mekân, beyaz kumsala uzanan sığ bir denizdir. Karakterin ayaklarının altında yüksek berraklıkta su uzanır; ince dalgacıklar, beyaz köpükler ve suyun dibindeki açık renkli kum bile görünür. Orta planda turkuaz maviden koyu maviye dönüşen deniz yüzeyi, uzak planda ise doğal bir şekilde yerleştirilmiş küçük burunlar ve yeşillikli kayalıklar bulunur.
+Arka plana gereksiz binalar veya turistler eklemeden, sakin bir tatil plajına özgü ferahlığı koruyun. Deniz yüzeyindeki ışıltıyı ve kıyıya vuran su damlacıklarını ön plana dahil ederek yalnızca karakterin değil, sahilin kendisinin de derinliğini hissettiren bir mekân yaratın.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim yaz ortasıdır. Zaman dilimi sabah 10 ile öğle saatleri arası olup, güneşin tepede olduğu, gökyüzü ve deniz renklerinin en canlı göründüğü andır. Gökyüzü neredeyse tamamen açık mavi, uzakta birkaç parça beyaz bulut süzülmektedir.
+Hava ılık, denizden hafif ve ferahlatıcı bir rüzgâr esmektedir. Rüzgâr nedeniyle saç uçları hafifçe dalgalanmakta, su yüzeyinde de minik dalgacıklar oluşmaktadır. Sert rüzgârlar veya dalgalı bir deniz yerine, aydınlık ve sakin bir yaz günü olarak yansıtın.
+
+【Karakter Tanımı】
+20-28 yaşlarında, açıkça yetişkin bir Japon kadın. Yumuşak ve biçimli, yetişkin bir kadına özgü yüz hatları; hafif iri ve doğal gözler, zarif kaşlar ve canlı dudaklar. Omuz hizasında koyu kahverengi dalgalı saçlar; deniz rüzgârıyla doğal olarak savrulan saç telleri ve ince tutamlar korunmalıdır. Ten rengi açık aşı boyası (ochre) tonlarında olup, aşırı pürüzsüzleştirilmeden doğal bir canlılık ve ince gölgeler taşımalıdır.
+Vücut yapısı; narin omuzlar, kollar, bacaklar ve ince bir bele sahipken aynı zamanda kadınsı kıvrımlarla uyumlu, doğal çekici (glamorous) bir formdadır. Göğüsler belirgin şekilde dolgun ve hacimlidir; ancak aşırı abartıdan kaçınılarak bikininin yapısına, duruşa ve yerçekimine uyum sağlayan yumuşak üç boyutlu bir formda betimlenmelidir. Kalçalar da belden doğal bir şekilde bağlanan yumuşak bir kavis taşımalıdır.
+
+【Kıyafet ve Aksesuarlar】
+Açık pembe boyundan bağlamalı (halterneck) bikini giymektedir. Üst parça, ensede bağlanan ince askılara ve göğsü gerçekçi biçimde destekleyen yeterli kumaş genişliğine sahip, sade ve zarif bir tasarımdadır. Mat dokulu esnek mayo kumaşından üretilmiş olup, yalnızca ıslanan kısımlarında hafif bir parlaklık gösterir.
+Alt parça da aynı renk tonunda olup kalça çevresine doğal olarak oturur. Kumaşın aşırı derecede sıkışması veya vücuttan havaya kalkması engellenerek gerçekçi ölçüler korunmalıdır. Neredeyse hiç aksesuar kullanılmamalı; deniz, kıyafetin renkleri ve modelin ifadesi başrolde olmalıdır.
+
+【Poz, Hareket ve Bakış】
+Karakter sığ suyun içinde durmakta; ağırlığını sağ bacağına vererek sol bacağını hafifçe geriye çekmekte ve küçük bir dalgadan kaçınma anındaki hareketi sergilemektedir. Bel hafifçe yana dönük, üst gövde bu harekete uyumlu şekilde doğal olarak bükülmüş, ancak omuzlar kameraya doğru ölçülü bir şekilde açık durumdadır.
+Kollar vücuttan hafifçe ayrılmış; bir el doğal bir denge sağlamak için hafifçe arkaya, diğeri ise yana doğru uzanmıştır. Parmaklar kasmadan, doğal biçimde açıktır. Yüz neredeyse tamamen kameraya dönüktür ve bakışlar objektifin hemen yanına odaklanmıştır. Aşırı bel çukurluğu (lordoz) veya abartılı vücut bükülmeleri yerine, dalgaya tepki verilen anın doğal ağırlık aktarımı yansıtılmalıdır.
+
+【İfade ve Duygu】
+Yüz ifadesi, ayaklarına aniden gelen küçük dalgadan keyif aldığını gösteren, hafif şaşkınlıkla karışık aydınlık bir tebessümdür. Yalnızca dudaklarla değil, gözlerin hafifçe kısılması ve yanakların doğal olarak yükselmesiyle güler.
+Fotoğrafı çeken kişiyle sahilde keyifli vakit geçiriyormuş hissi veren bir samimiyet barındırır. Yapay bir manken gülümsemesi yerine, hareket esnasında kendiliğinden ortaya çıkan doğal bir ifade olarak işlenmelidir.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey kompozisyon. Başın tepesinden ayak uçlarına kadar doğal olarak kadraja alan boydan çekim; model kadrajın merkezinin hafifçe sağına yerleştirilmiştir. Ayaklardaki dalga sıçramaları ve deniz yüzeyi genişçe dahil edilmeli, arka plandaki ufuk çizgisi ve burunlar da gösterilmelidir.
+Kamera, karakterin beli ile göğsü hizasında, birkaç metre mesafeden çekim yapmaktadır. 50-70mm aralığında standart ile orta-telefoto arası doğal bir görüş açısı kullanılarak geniş açının kollarda ve bacaklarda yaratacağı bozulmalardan kaçınılmalıdır. Arka plan hafifçe flulaştırılmalı, ancak bir sahil kenarı olduğu anlaşılacak düzeyde detay korunmalıdır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı kadrajın sol üst yönünden vuran parlak güneş ışığıdır. Yüzde, omuzlarda, kollarda ve bikinide yumuşak parlak noktalar (highlights) oluştururken, karşı tarafa deniz yüzeyinden hafif mavimsi beyaz bir yansıma ışığı düşer. Gölgeler zifiri karanlık yapılmamalı, yaz ortası gündüz saatlerine özgü aydınlık ton aralığı korunmalıdır.
+Tende ince gölgeler ve doğal canlılık; saçlarda tek tek tellerin akışı ve parlaklığı; bikinide ise esnek kumaş gerginliği ve hafif ıslaklık hissi betimlenmelidir. Deniz suyu berraklığı, kum ince tanecikli yapıyı, dalga damlacıkları ise anlık ışıltıyı taşımalıdır. Açık pembe, turkuaz mavi ve beyaz kum temel alınarak ferah ve ışıltılı bir yaz renk paleti oluşturulmalıdır.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi bir fotoğraf olarak, gerçek bir fotoğraf makinesiyle çekilmiş gibi doğal insan anatomisine, ışığa, malzemelere ve perspektife öncelik verilmelidir.
+Reşit görünmeyen kişiler veya aşırı çocuksu yüzler, yapay/anormal anatomi, fazla veya eksik uzuvlar ve parmaklar, garip eklemler, sol-sağ el karışıklıkları, kıyafetin yırtılması ya da vücutla kaynaşması, istenmeyen teşhircilik, aşırı bel kıvrılması veya vücut bükülmesi, aşırı geniş açı distorsiyonu ve yapay cilt pürüzsüzleştirme filtrelerinden kaçınılmalıdır. Göğüsler dolgun ve doğal hacmini korumalı; devasa, sert küre şeklinde, anormal şekilde yukarı itilmiş veya yerçekimine aykırı bir biçimde çizilmemelidir. Görsel içinde metin, logo, filigran veya arayüz (UI) ögeleri yer almamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -110,6 +172,28 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 **Özet:** Çeviri sürüyor
 
 <img src="images/2098636922742595944-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Fotoğrafçılık · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098639083652419714-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -2053,20 +2137,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098688482281452002"></a>
 
-### Çeviri sürüyor
+### SpaceX roket fırlatması
 
 Yazar：[@iadventurejacek](https://x.com/iadventurejacek) · [Orijinal gönderi](https://x.com/iadventurejacek/status/2098688482281452002)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** SpaceX roket fırlatması
 
 <img src="covers/2098688482281452002.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+spacex
 ```
 
 [↑ Kategorilere dön](#catalog)

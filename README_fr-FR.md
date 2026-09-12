@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**110** Prompts · Dernier ajout: **2026-09-12**
+**112** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098687497794711885"></a>
+
+### Traduction en cours
+
+Auteur：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Publication originale](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098687497794711885.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098636136130457930"></a>
 
@@ -79,20 +101,60 @@ Traduction en cours
 
 <a name="prompt-2098634812307476794"></a>
 
-### Traduction en cours
+### Prompt pour un portrait de mode réaliste façon resort d'une femme japonaise adulte en bikini rose clair dans les eaux peu profondes d'un rivage estival.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2098634812307476794)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour un portrait de mode réaliste façon resort d'une femme japonaise adulte en bikini rose clair dans les eaux peu profondes d'un rivage estival.
 
 <img src="images/2098634812307476794-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Eaux peu profondes en été | Bikini rose clair et éclaboussures de vagues pétillantes🌟
+
+【Sujet / Style artistique】
+Représenter une femme japonaise clairement adulte qui tourne spontanément le corps au moment où une petite vague atteint ses pieds, sur un rivage estival aux eaux transparentes. Fondée sur le photoréalisme, l'image est conçue comme une photographie de mode lumineuse et raffinée, à mi-chemin entre un recueil photo gravure et une publicité haut de gamme pour un complexe hôtelier.
+Plutôt qu'une pose statique, privilégier un mouvement naturel saisissant l'instant où elle réagit aux vagues et à la brise marine. L'image doit allier fraîcheur et éclat féminin, avec une expressivité photographique dont les teintes et le visage captent instantanément l'attention sur le fil de X.
+
+【Lieu / Arrière-plan / Ambiance】
+Le décor est une mer peu profonde s'étendant devant une plage de sable blanc. Aux pieds du sujet, une eau d'une grande limpidité laisse deviner de fines ondulations, de l'écume blanche et le sable clair du fond marin. Au plan moyen, la surface de la mer passe du bleu turquoise à un bleu soutenu ; à l'arrière-plan, un petit promontoire et des rochers parsemés de verdure s'intègrent naturellement.
+Éviter les bâtiments superflus et les touristes à l'arrière-plan, préservant ainsi la sensation d'espace propre à une plage privée tranquille. Les scintillements à la surface de l'eau et les embruns au bord du rivage sont intégrés au premier plan, créant un espace qui rend palpable non seulement la présence du modèle, mais aussi toute la profondeur du littoral.
+
+【Saison / Heure / Météo】
+La saison est le plein été. L'heure se situe entre 10 heures du matin et midi, quand le soleil est haut et que les couleurs du ciel et de la mer se révèlent éclatantes. Ciel bleu quasi immaculé, ponctué au loin de quelques discrets nuages blancs.
+La température est chaude, accompagnée d'un vent marin doux et vivifiant. La brise fait voler légèrement la pointe des cheveux et fait naître de fines vaguelettes à la surface de l'eau. Il s'agit d'une journée d'été lumineuse et paisible, sans vent violent ni mer démontée.
+
+【Description du personnage】
+Femme japonaise sans équivoque majeure, âgée d'environ 20 à 28 ans. Traits doux et harmonieux de femme adulte, yeux légèrement grands et naturels, sourcils délicats et lèvres fraîches et bien colorées. Cheveux ondulés châtain foncé s'arrêtant vers les épaules, laissant paraître des mèches folles et le mouvement naturel induit par le vent du large. Peau ocre clair sans lissage excessif, affichant un teint naturellement rosé et de subtils jeux d'ombre.
+Silhouette aux épaules et membres fins avec une taille étroite, harmonieusement associée à des courbes féminines pour former une ligne glamour et naturelle. La poitrine affiche un volume généreux et bien développé sans excès démesuré, représentée avec un relief doux qui épouse avec réalisme la gravité, la posture et la coupe du bikini. Les hanches présentent une courbure douce et continue dans le prolongement de la taille.
+
+【Tenue / Accessoires】
+Elle porte un bikini dos nu rose clair. Le haut propose une coupe simple et élégante, avec de fines bretelles nouées derrière le cou et une largeur d'étoffe suffisante pour maintenir la poitrine de façon réaliste. Matière maillot extensible à tendance mate, ne révélant qu'une discrète brillance sur les zones mouillées.
+Le bas est coordonné dans le même ton et épouse délicatement les hanches. Le tissu conserve un taillant réaliste, sans serrer à l'excès ni bailler loin du corps. Aucun accessoire superflu n'est porté, laissant la priorité aux couleurs de la mer, du maillot et à l'expression du visage.
+
+【Pose / Mouvement / Regard】
+Debout dans les eaux peu profondes, la jeune femme prend appui sur sa jambe droite tout en reculant doucement la jambe gauche, saisie en plein mouvement pour esquiver une vaguelette. Le bassin s'oriente légèrement sur le côté et le buste s'incline naturellement avec ce mouvement, tandis que les épaules restent bien dégagées face à l'objectif.
+Les deux bras sont légèrement écartés du corps : une main s'étire naturellement vers l'arrière et l'autre sur le côté pour garder l'équilibre. Les doigts sont détendus et ouverts sans crispation. Le visage est tourné presque de face, le regard orienté vers l'objectif. Le déplacement de poids s'effectue avec fluidité face à la vague, sans cambrure forcée ni torsion excessive.
+
+【Expression / Émotion】
+L'expression est un sourire rayonnant teinté d'une pointe de surprise, traduisant le plaisir ressenti quand la petite vague vient soudainement baigner ses pieds. Le sourire ne se limite pas aux lèvres : les yeux se plissent avec douceur et les pommettes se rehaussent naturellement.
+Le cliché dégage une belle complicité, comme un moment partagé en toute décontraction avec la personne qui photographie. Il s'agit d'un éclat sincère saisi sur le vif, loin du sourire figé d'un mannequin.
+
+【Composition / Prise de vue】
+Cadrage vertical au format 4:5 adapté aux publications X. Plan en pied complet englobant harmonieusement le corps du sommet du crâne jusqu'aux orteils, le sujet étant décalé légèrement à droite du centre. Les éclaboussures d'eau aux pieds et le plan d'eau sont largement visibles, tout en dévoilant l'horizon et le promontoire à l'arrière-plan.
+L'appareil est placé à hauteur de la taille ou de la poitrine du sujet, à quelques mètres de distance. Emploi d'une focale standard à petit téléobjectif (environ 50 à 70 mm) pour un angle de vue naturel évitant toute déformation corporelle due au grand-angle. Arrière-plan légèrement estompé mais suffisamment net pour identifier distinctement le bord de mer.
+
+【Lumière / Couleur / Matière / Atmosphère】
+La source principale est une vive lumière solaire venant du coin supérieur gauche de l'image. Elle crée de doux reflets sur le visage, les épaules, les bras et le maillot, tandis que des reflets bleutés du plan d'eau s'invitent subtilement sur le côté opposé. Les ombres ne sont pas bouchées, conservant les dégradés clairs d'une belle journée d'été.
+La peau révèle des ombres fines et une bonne mine naturelle ; la chevelure laisse voir la brillance et le tracé de chaque mèche ; le bikini exprime la tension du tissu élastique et une discrète humidité. La mer offre une belle transparence, le sable une texture fine et l'écume des reflets éphémères. L'ensemble est baigné d'une gamme de couleurs d'été vivifiante et éclatante, articulée autour du rose clair, du bleu turquoise et du sable blanc.
+
+【Qualité / Éléments à exclure】
+En tant que photographie photoréaliste haute résolution, donner la priorité à une anatomie humaine, une lumière, des matières et une perspective réalistes, comparables à celles d'un véritable appareil photo.
+Exclure les personnes d'allure mineure ou aux visages enfantins, les anomalies anatomiques, doigts ou membres en trop ou manquants, articulations difformes, inversion des mains droite et gauche, vêtements déchirés ou fusionnant avec la peau, nudité involontaire, cambrures extrêmes, torsions anormales, déformations au grand-angle et retouches de peau exagérées. Bien que la poitrine présente un volume généreux et naturel, éviter les tailles géantes, les formes rigides ou sphériques, les rehaussements anormaux et l'absence de gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -110,6 +172,28 @@ Photographie · Portrait / Selfie · Personnage · Publié
 **Résumé:** Traduction en cours
 
 <img src="images/2098636922742595944-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Photographie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098639083652419714-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
@@ -2036,20 +2120,20 @@ Traduction en cours
 
 <a name="prompt-2098688482281452002"></a>
 
-### Traduction en cours
+### Lancement de fusée SpaceX
 
 Auteur：[@iadventurejacek](https://x.com/iadventurejacek) · [Publication originale](https://x.com/iadventurejacek/status/2098688482281452002)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Lancement de fusée SpaceX
 
 <img src="covers/2098688482281452002.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+spacex
 ```
 
 [↑ Retour aux catégories](#catalog)

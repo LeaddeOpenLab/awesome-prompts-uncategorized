@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**110** Prompt · Ultima aggiunta: **2026-09-12**
+**112** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098687497794711885"></a>
+
+### Traduzione in corso
+
+Autore：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Post originale](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098687497794711885.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098636136130457930"></a>
 
@@ -79,20 +101,60 @@ Traduzione in corso
 
 <a name="prompt-2098634812307476794"></a>
 
-### Traduzione in corso
+### Prompt per un ritratto di moda realistico in stile resort di una donna giapponese adulta in bikini rosa chiaro nel bagnasciuga estivo.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098634812307476794)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un ritratto di moda realistico in stile resort di una donna giapponese adulta in bikini rosa chiaro nel bagnasciuga estivo.
 
 <img src="images/2098634812307476794-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Bagnasciuga estivo | Bikini rosa chiaro e spruzzi d'onda vivaci🌟
+
+【Soggetto / Stile artistico】
+Rappresentare una donna giapponese chiaramente adulta che gira d'istinto il busto nel momento in cui una piccola onda le raggiunge i piedi, su una costa estiva dalle acque cristalline. Basato sul fotorealismo, il risultato deve apparire come una fotografia di moda luminosa e raffinata, a metà strada tra un fotolibro gravure e un'elegante pubblicità per resort.
+Piuttosto che una posa statica, dare priorità a un movimento naturale, come a catturare un istante fugace in reazione alle onde e alla brezza marina. L'immagine deve coniugare freschezza e fascino femminile, con una resa fotografica i cui colori e l'espressività attirino subito lo sguardo nel feed di X.
+
+【Luogo / Sfondo / Atmosfera】
+L'ambientazione è un fondale basso che digrada verso una spiaggia di sabbia bianca. Ai piedi della donna si estende un'acqua limpidissima che lascia intravedere increspature sottili, schiuma bianca e persino la sabbia chiara sul fondo. Nel piano medio la superficie marina sfuma dal turchese al blu intenso; sullo sfondo trovano posto in modo armonioso un piccolo promontorio e scogliere verdeggianti.
+Evitare edifici superflui o turisti nello sfondo, preservando il senso di libertà tipico di una tranquilla spiaggia di resort. Il luccichio dell'acqua e gli spruzzi del bagnasciuga sono inclusi in primo piano per restituire la profondità dell'ambiente costiero insieme alla figura.
+
+【Stagione / Ora / Condizioni meteo】
+La stagione è il pieno dell'estate. L'orario è compreso tra le 10:00 e mezzogiorno, quando il sole è alto e i colori del cielo e del mare appaiono vividi. Cielo azzurro quasi terso, con pochissime nuvole bianche che galleggiano in lontananza.
+La temperatura è calda, con una brezza marina leggera e rinfrescante. Il vento muove con delicatezza le punte dei capelli e crea leggere increspature sulla superficie dell'acqua. L'atmosfera è quella di una luminosa e serena giornata estiva, senza mare mosso o venti forti.
+
+【Descrizione del personaggio】
+Donna giapponese chiaramente adulta, di età compresa tra 20 e 28 anni. Lineamenti morbidi e armoniosi da donna matura, occhi leggermente grandi e naturali, sopracciglia delicate e labbra sane e rosee. Capelli mossi castano scuro lunghi fino alle spalle, con ciocche mosse dal vento e sottili capelli sfuggenti ben visibili. Carnagione ocra chiara, non eccessivamente uniforme, con un colorito naturale e ombreggiature sottili.
+Fisico minuto nelle spalle e negli arti con vita sottile, unito a curve femminili armoniose per una silhouette naturalmente glamour. Il seno ha un volume chiaramente generoso e florido ma senza esagerazioni innaturali, reso con una morbida tridimensionalità che asseconda realisticamente la gravità, la postura e il taglio del bikini. I fianchi presentano una linea morbida e sinuosa che prosegue con naturalezza dalla vita.
+
+【Abbigliamento / Accessori】
+Indossa un bikini all'americana rosa chiaro. Il top ha un design semplice ed elegante con laccetti sottili annodati dietro al collo e una larghezza di tessuto sufficiente a sostenere il seno in modo realistico. Tessuto da bagno elastico a finitura opaca, con una lucentezza discreta limitata unicamente alle parti bagnate.
+Lo slip è coordinato nella stessa tinta e segue morbidamente le linee dei fianchi. Il tessuto mantiene una vestibilità realistica, senza stringere eccessivamente né allontanarsi dal corpo. In linea di massima non sono presenti accessori, lasciando protagonisti i colori del mare, del bikini e l'espressione della donna.
+
+【Posa / Azione / Sguardo】
+La donna è in piedi nell'acqua bassa, con il peso sostenuto dalla gamba destra mentre ritrae leggermente la sinistra, colta nel mezzo del movimento per schivare una piccola onda. Il bacino è lievemente ruotato di lato e il busto asseconda naturalmente questa torsione, mantenendo le spalle adeguatamente aperte verso la fotocamera.
+Le braccia sono leggermente staccate dal corpo: una mano si distende all'indietro e l'altra di lato per mantenere l'equilibrio con naturalezza. Le dita sono rilassate e aperte senza tensione. Il viso è rivolto quasi del tutto verso l'obiettivo e lo sguardo punta vicino alla lente. Si rappresenta uno spostamento di peso spontaneo in reazione all'onda, senza inarcamenti lombari forzati o torsioni estreme.
+
+【Espressione / Emozione】
+L'espressione è un sorriso radioso velato da una leggera sorpresa, come divertita dalla piccola onda che le ha improvvisamente bagnato i piedi. Non ride solo con la bocca: gli occhi si socchiudono dolcemente e gli zigomi si sollevano con naturalezza.
+Trasmette un senso di confidenza e complicità, come se stesse condividendo un bel momento al mare con chi scatta la foto. Il risultato è quello di un sorriso spontaneo fiorito durante il movimento, non una posa artificiale da modella.
+
+【Composizione / Fotocamera】
+Inquadratura verticale 4:5 pensata per i post su X. Ripresa a figura intera che include con naturalezza dalla testa ai piedi, con la donna posizionata leggermente a destra rispetto al centro. Gli spruzzi ai suoi piedi e la superficie del mare sono ben visibili, mostrando anche l'orizzonte e il promontorio sullo sfondo.
+La fotocamera è posizionata all'altezza compresa tra vita e petto della modella, a una distanza di pochi metri. Viene impiegata una lunghezza focale naturale tra il normale e il medio-teleobiettivo (circa 50-70 mm), per evitare distorsioni grandangolari di arti o corpo. Lo sfondo presenta una leggera sfocatura, mantenendo comunque dettagli sufficienti a farlo riconoscere chiaramente come un litorale marino.
+
+【Luce / Colore / Materia / Atmosfera】
+La sorgente luminosa principale è una luce solare brillante proveniente dall'alto a sinistra dell'inquadratura. Crea punti luce morbidi su viso, spalle, braccia e bikini, mentre sul lato opposto si inserisce un lieve riflesso azzurrino della superficie marina. Le ombre non sono nere opache, ma conservano le gradazioni luminose tipiche di un mezzogiorno d'estate.
+La pelle mostra ombreggiature accurate e un incarnato roseo naturale; i capelli conservano la lucentezza e la definizione di ogni singola ciocca; il bikini esprime l'elasticità del tessuto e una lieve umidità. L'acqua di mare possiede trasparenza, la sabbia una grana fine e gli spruzzi una brillantezza fugace. La palette si compone di rosa chiaro, blu turchese e sabbia bianca, per un'atmosfera estiva vivace e rinfrescante.
+
+【Qualità / Elementi da escludere】
+In quanto fotografia fotorealistica ad alta risoluzione, privilegiare proporzioni corporee, luce, consistenze e prospettiva autentiche, come scattate da una vera fotocamera.
+Evitare soggetti con aspetto da minori o volti troppo infantili, anatomie innaturali, dita o arti mancanti o in eccesso, articolazioni difformi, inversione delle mani, abiti deformati o fusi con il corpo, nudità non voluta, eccessiva lordosi o torsioni innaturali del corpo, distorsioni da grandangolo e filtri di bellezza esagerati sulla pelle. Pur mantenendo un seno florido e naturale, evitare seni giganti, forme rigide e sferiche, spinte anomale verso l'alto o forme che sfidano la gravità. Nessun testo, logo, filigrana o elemento di interfaccia all'interno dell'immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -110,6 +172,28 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 **Riepilogo:** Traduzione in corso
 
 <img src="images/2098636922742595944-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Fotografia · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098639083652419714-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -2036,20 +2120,20 @@ Traduzione in corso
 
 <a name="prompt-2098688482281452002"></a>
 
-### Traduzione in corso
+### Lancio di un razzo SpaceX
 
 Autore：[@iadventurejacek](https://x.com/iadventurejacek) · [Post originale](https://x.com/iadventurejacek/status/2098688482281452002)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Lancio di un razzo SpaceX
 
 <img src="covers/2098688482281452002.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+spacex
 ```
 
 [↑ Torna alle categorie](#catalog)
