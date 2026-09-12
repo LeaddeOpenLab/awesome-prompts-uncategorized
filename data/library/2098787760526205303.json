@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:37:59.524Z",
+  "model": "unknown-image",
+  "prompt": "a detailed studio portrait of a woman in traditional chinese wedding attire against a solid red background. she wears a red garment featuring complex gold and blue embroidery. on her head is a large, elaborate crown of red and white artificial flowers, gold metalwork, and hanging bead tassels. her dark, wispy hair frames her face, and her makeup includes defined red lipstick. her left hand is raised slightly near her chin. in the top right corner, gold chinese characters \"幸廟在畫房\" are written vertically.",
+  "promptTranslations": {
+    "en": "a detailed studio portrait of a woman in traditional chinese wedding attire against a solid red background. she wears a red garment featuring complex gold and blue embroidery. on her head is a large, elaborate crown of red and white artificial flowers, gold metalwork, and hanging bead tassels. her dark, wispy hair frames her face, and her makeup includes defined red lipstick. her left hand is raised slightly near her chin. in the top right corner, gold chinese characters \"幸廟在畫房\" are written vertically."
+  },
+  "summaryTranslations": {
+    "en": "Studio portrait of a woman in traditional Chinese wedding attire, red background and ornate floral crown headdress."
+  },
+  "translationVersion": 2,
+  "summary": "中式传统婚礼服饰女子影棚肖像，红色背景与华丽花冠发饰。",
+  "summaryEn": "Studio portrait of a woman in traditional Chinese wedding attire against a red backdrop.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098669781750878509",
+      "canonicalUrl": "https://x.com/nicebabycat/status/2098669781750878509",
+      "author": {
+        "username": "nicebabycat",
+        "displayName": "韦小宝",
+        "profileUrl": "https://x.com/nicebabycat"
+      },
+      "originalText": "妆造顶级  线下的妆造应该按照这个模子来才行 https://t.co/M7s9IT8XQc"
+    },
+    "id": "2098787760526205303",
+    "canonicalUrl": "https://x.com/boniusex/status/2098787760526205303",
+    "author": {
+      "username": "boniusex",
+      "displayName": "王大锤",
+      "profileUrl": "https://x.com/boniusex"
+    },
+    "publishedAt": "2026-09-12T14:56:10.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "zh",
+    "originalText": "中式传统婚礼服饰女子精细工作室肖像照,\n婚礼公司正在死亡!\n\nprompt:\na detailed studio portrait of a woman in traditional chinese wedding attire against a solid red background. she wears a red garment featuring complex gold and blue embroidery. on her head is a large, elaborate crown of red and white artificial flowers, gold metalwork, and hanging bead tassels. her dark, wispy hair frames her face, and her makeup includes defined red lipstick. her left hand is raised slightly near her chin. in the top right corner, gold chinese characters \"幸廟在畫房\" are written vertically.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBkN2QaAAAOHj2.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBkN2QaAAAOHj2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBkQNfboAAs5Us.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBkQNfboAAs5Us.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBkTG9aAAAf_tS.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBkTG9aAAAf_tS.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBkVNxaEAAZ9FH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBkVNxaEAAZ9FH.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_4weuaYAAMQs-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_4weuaYAAMQs-.jpg",
+        "sourcePostId": "2098669781750878509"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_40BjaEAAnq21.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_40BjaEAAnq21.jpg",
+        "sourcePostId": "2098669781750878509"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_43MxbUAAIh8N.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_43MxbUAAIh8N.jpg",
+        "sourcePostId": "2098669781750878509"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_47ZNbIAAyZQf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_47ZNbIAAyZQf.jpg",
+        "sourcePostId": "2098669781750878509"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 57
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/boniusex/status/2098787760526205303",
+  "coverUrl": "https://pbs.twimg.com/media/HSBkN2QaAAAOHj2.jpg",
+  "coverPath": "images/2098787760526205303-1.jpg",
+  "imagePaths": [
+    "images/2098787760526205303-1.jpg",
+    "images/2098787760526205303-2.jpg",
+    "images/2098787760526205303-3.jpg",
+    "images/2098787760526205303-4.jpg",
+    "images/2098787760526205303-5.jpg",
+    "images/2098787760526205303-6.jpg",
+    "images/2098787760526205303-7.jpg",
+    "images/2098787760526205303-8.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBkN2QaAAAOHj2",
+    "x-image:/media/HSBkQNfboAAs5Us",
+    "x-image:/media/HSBkTG9aAAAf_tS",
+    "x-image:/media/HSBkVNxaEAAZ9FH",
+    "x-image:/media/HR_4weuaYAAMQs-",
+    "x-image:/media/HR_40BjaEAAnq21",
+    "x-image:/media/HR_43MxbUAAIh8N",
+    "x-image:/media/HR_47ZNbIAAyZQf",
+    "x-post:2098787760526205303",
+    "x-post:2098669781750878509"
+  ],
+  "analysis": {
+    "summary": "中式传统婚礼服饰女子影棚肖像，红色背景与华丽花冠发饰。",
+    "summaryEn": "Studio portrait of a woman in traditional Chinese wedding attire against a red backdrop.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片中的红底背景、新娘服饰刺绣、头戴花冠流苏及右上角金色书法文字均与提示词完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "a detailed studio portrait of a woman in traditional chinese wedding attire against a solid red background. she wears a red garment featuring complex gold and blue embroidery. on her head is a large, elaborate crown of red and white artificial flowers, gold metalwork, and hanging bead tassels. her dark, wispy hair frames her face, and her makeup includes defined red lipstick. her left hand is raised slightly near her chin. in the top right corner, gold chinese characters \"幸廟在畫房\" are written vertically.",
+    "sourceRange": {
+      "start": 39,
+      "end": 546
+    },
+    "translations": {
+      "zh": "红色背景前身穿中国传统婚礼服饰的女子工作室精细肖像。身着金蓝复杂刺绣红衣，头戴由红白假花、金工饰物与垂坠流苏组成的华丽大花冠。深色微乱发丝修饰脸型，妆容含精致红唇，左手轻抬于下巴旁。右上角竖排金色汉字“幸廟在畫房”。",
+      "en": "a detailed studio portrait of a woman in traditional chinese wedding attire against a solid red background. she wears a red garment featuring complex gold and blue embroidery. on her head is a large, elaborate crown of red and white artificial flowers, gold metalwork, and hanging bead tassels. her dark, wispy hair frames her face, and her makeup includes defined red lipstick. her left hand is raised slightly near her chin. in the top right corner, gold chinese characters \"幸廟在畫房\" are written vertically."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "文生图",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
