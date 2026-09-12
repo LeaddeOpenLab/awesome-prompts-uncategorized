@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T00:16:45.955Z",
+  "model": "unknown-image",
+  "prompt": "Photorealistic medium full-body fashion catalog photograph of a beautiful young Japanese woman with soft kawaii expression, voluminous wavy dark hair with multiple black lace bows and pearl accents, natural abundant breasts with realistic soft volume and fine skin grain, wearing only cute yet gothic-inspired pale pink and black layered lace lingerie bottoms with ribbon details, matching thigh straps, and elegant gothic platform sandals. She walks slowly through a dreamlike glowing flower field at dusk with floating light orbs, body slightly turned, one hand lifting a lace edge of her lingerie, gaze directed softly toward the camera. The subject fills a significant portion of the frame in a medium full-body shot. Subject remains extremely detailed and photorealistic even in this full-body composition, with razor-sharp facial features, visible skin pores and peach fuzz, natural breast realism, and intricate multi-layered lace textures fully resolved. Shot on a Canon EOS R5 with 70mm f/1.8 lens at f/2.0, soft twilight lighting with gentle bloom, ultra-realistic skin and fabric micro-textures.",
+  "promptTranslations": {
+    "en": "Photorealistic medium full-body fashion catalog photograph of a beautiful young Japanese woman with soft kawaii expression, voluminous wavy dark hair with multiple black lace bows and pearl accents, natural abundant breasts with realistic soft volume and fine skin grain, wearing only cute yet gothic-inspired pale pink and black layered lace lingerie bottoms with ribbon details, matching thigh straps, and elegant gothic platform sandals. She walks slowly through a dreamlike glowing flower field at dusk with floating light orbs, body slightly turned, one hand lifting a lace edge of her lingerie, gaze directed softly toward the camera. The subject fills a significant portion of the frame in a medium full-body shot. Subject remains extremely detailed and photorealistic even in this full-body composition, with razor-sharp facial features, visible skin pores and peach fuzz, natural breast realism, and intricate multi-layered lace textures fully resolved. Shot on a Canon EOS R5 with 70mm f/1.8 lens at f/2.0, soft twilight lighting with gentle bloom, ultra-realistic skin and fabric micro-textures."
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic medium full-body portrait of a young Japanese woman in gothic-inspired pink and black lace lingerie walking in a glowing twilight flower field."
+  },
+  "translationVersion": 2,
+  "summary": "Photorealistic medium full-body portrait of a young Japanese woman in gothic-inspired pink and black lace lingerie walking in a glowing twilight flower field.",
+  "summaryEn": "Photorealistic medium full-body portrait of a young Japanese woman in gothic-inspired pink and black lace lingerie walking in a glowing twilight flower field.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098530398724915395",
+    "canonicalUrl": "https://x.com/ai_vision_2nd/status/2098530398724915395",
+    "author": {
+      "username": "ai_vision_2nd",
+      "displayName": "AI Vision of Beauty | AI Fashion Art",
+      "profileUrl": "https://x.com/ai_vision_2nd"
+    },
+    "publishedAt": "2026-09-11T21:53:30.000Z",
+    "collectedAt": "2026-09-12T00:15:57.617Z",
+    "language": "ja",
+    "originalText": "花と光が溶けていく黄昏の中で、\n彼女だけが夢の続きを歩いていた。\n\nTWILIGHT IN BLOOM\n— 黄昏に咲く、ひとりの夢。\n\nPrompt:\n\nPhotorealistic medium full-body fashion catalog photograph of a beautiful young Japanese woman with soft kawaii expression, voluminous wavy dark hair with multiple black lace bows and pearl accents, natural abundant breasts with realistic soft volume and fine skin grain, wearing only cute yet gothic-inspired pale pink and black layered lace lingerie bottoms with ribbon details, matching thigh straps, and elegant gothic platform sandals. She walks slowly through a dreamlike glowing flower field at dusk with floating light orbs, body slightly turned, one hand lifting a lace edge of her lingerie, gaze directed softly toward the camera. The subject fills a significant portion of the frame in a medium full-body shot. Subject remains extremely detailed and photorealistic even in this full-body composition, with razor-sharp facial features, visible skin pores and peach fuzz, natural breast realism, and intricate multi-layered lace textures fully resolved. Shot on a Canon EOS R5 with 70mm f/1.8 lens at f/2.0, soft twilight lighting with gentle bloom, ultra-realistic skin and fabric micro-textures.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR96RfybcAASeYZ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR96RfybcAASeYZ.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR96RfzbsAA_Bp-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR96RfzbsAA_Bp-.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 9,
+      "replyCount": 14,
+      "quoteCount": 1,
+      "viewCount": 297
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ai_vision_2nd/status/2098530398724915395",
+  "coverUrl": "https://pbs.twimg.com/media/HR96RfybcAASeYZ.jpg",
+  "coverPath": "images/2098530398724915395-1.jpg",
+  "imagePaths": [
+    "images/2098530398724915395-1.jpg",
+    "images/2098530398724915395-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR96RfybcAASeYZ",
+    "x-image:/media/HR96RfzbsAA_Bp-",
+    "x-post:2098530398724915395"
+  ],
+  "analysis": {
+    "summary": "Photorealistic medium full-body portrait of a young Japanese woman in gothic-inspired pink and black lace lingerie walking in a glowing twilight flower field.",
+    "summaryEn": "Photorealistic medium full-body portrait of a young Japanese woman in gothic-inspired pink and black lace lingerie walking in a glowing twilight flower field.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The images clearly depict the Japanese woman in pink and black lace lingerie and platform shoes walking through a dusk flower field with bokeh orbs, matching the prompt details closely."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Photorealistic medium full-body fashion catalog photograph of a beautiful young Japanese woman with soft kawaii expression, voluminous wavy dark hair with multiple black lace bows and pearl accents, natural abundant breasts with realistic soft volume and fine skin grain, wearing only cute yet gothic-inspired pale pink and black layered lace lingerie bottoms with ribbon details, matching thigh straps, and elegant gothic platform sandals. She walks slowly through a dreamlike glowing flower field at dusk with floating light orbs, body slightly turned, one hand lifting a lace edge of her lingerie, gaze directed softly toward the camera. The subject fills a significant portion of the frame in a medium full-body shot. Subject remains extremely detailed and photorealistic even in this full-body composition, with razor-sharp facial features, visible skin pores and peach fuzz, natural breast realism, and intricate multi-layered lace textures fully resolved. Shot on a Canon EOS R5 with 70mm f/1.8 lens at f/2.0, soft twilight lighting with gentle bloom, ultra-realistic skin and fabric micro-textures.",
+    "sourceRange": {
+      "start": 77,
+      "end": 1183
+    },
+    "translations": {
+      "zh": "逼真的中景全身时尚画册照片，拍摄一名容貌美丽的年轻日本女性，神情温柔可爱，留有蓬松卷曲的深色长发，饰以多组黑色蕾丝蝴蝶结与珍珠装饰；穿着粉黑拼接的分层蕾丝哥特内衣及裙边、配套大腿吊袜带与厚底凉鞋。黄昏时刻，她漫步于梦幻般发光的花田与漂浮光球中，身躯微侧，手拎蕾丝边缘，柔和望向镜头。极富质感的皮肤细节与精致织物纹理。",
+      "en": "Photorealistic medium full-body fashion catalog photograph of a beautiful young Japanese woman with soft kawaii expression, voluminous wavy dark hair with multiple black lace bows and pearl accents, wearing pale pink and black layered lace lingerie with ribbon details, matching thigh straps, and platform sandals in a glowing dusk flower field."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "nsfw_mild"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
