@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:21:20.208Z",
+  "model": "unknown-image",
+  "prompt": "24歳, 日本人女性, 電車, 真正面に立つ, 高めの吊り革に捕まる, 脇を見せる, ノースリーブ, 胸元が開いた服, 目線は正面, 見下した顔, 椅子に座った人のPOV, スマホ写真, リアルな質感, 縦向き",
+  "promptTranslations": {
+    "en": "24 years old, Japanese woman, train, standing directly in front, holding onto a high hanging strap, showing armpit, sleeveless, low-cut clothing, looking straight ahead, condescending expression, POV of a person sitting in a seat, smartphone photo, realistic texture, vertical orientation"
+  },
+  "summaryTranslations": {
+    "en": "A realistic portrait prompt of a 24-year-old Japanese woman looking down from a train seat POV."
+  },
+  "translationVersion": 2,
+  "summary": "電車内で座席POVから見下ろす24歳日本人女性のリアル系ポートレートプロンプト。",
+  "summaryEn": "A realistic portrait prompt depicting a 24-year-old Japanese woman on a train from a sitting POV.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098672917479559420",
+      "canonicalUrl": "https://x.com/yutaka_prompt/status/2098672917479559420",
+      "author": {
+        "username": "yutaka_prompt",
+        "displayName": "ゆたか｜AIプロンプト研究所",
+        "profileUrl": "https://x.com/yutaka_prompt"
+      },
+      "originalText": "電車に乗ってたら正面の女性に見下されるプロンプトを作りました👀\n添付写真に反映できます📸（そのままでも生成可能）\nプロンプトはリプ欄に📝 https://t.co/Rd2G6BT96B"
+    },
+    "id": "2098757292942635327",
+    "canonicalUrl": "https://x.com/underwoodxie96/status/2098757292942635327",
+    "author": {
+      "username": "underwoodxie96",
+      "displayName": "underwood",
+      "profileUrl": "https://x.com/underwoodxie96"
+    },
+    "publishedAt": "2026-09-12T12:55:06.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "ja",
+    "originalText": "wow, thanks your prompt\n\nhttps://t.co/RevsGTWLD6\n\n24歳, 日本人女性, 電車, 真正面に立つ, 高めの吊り革に捕まる, 脇を見せる, ノースリーブ, 胸元が開いた服, 目線は正面, 見下した顔, 椅子に座った人のPOV, スマホ写真, リアルな質感, 縦向き https://t.co/WAPjh2OnUU",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBIga_bIAAqw5G.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBIga_bIAAqw5G.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBIh-iaUAAra6W.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBIh-iaUAAra6W.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_75EnbAAAtUjJ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_75EnbAAAtUjJ.jpg",
+        "sourcePostId": "2098672917479559420"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_75ElaUAAWzEO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_75ElaUAAWzEO.jpg",
+        "sourcePostId": "2098672917479559420"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_75EabkAA6oGQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_75EabkAA6oGQ.jpg",
+        "sourcePostId": "2098672917479559420"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_75EjaMAAuZ1I.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_75EjaMAAuZ1I.jpg",
+        "sourcePostId": "2098672917479559420"
+      }
+    ],
+    "metrics": {
+      "likeCount": 47,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 3379
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/underwoodxie96/status/2098757292942635327",
+  "coverUrl": "https://pbs.twimg.com/media/HSBIga_bIAAqw5G.jpg",
+  "coverPath": "images/2098757292942635327-1.jpg",
+  "imagePaths": [
+    "images/2098757292942635327-1.jpg",
+    "images/2098757292942635327-2.jpg",
+    "images/2098757292942635327-3.jpg",
+    "images/2098757292942635327-4.jpg",
+    "images/2098757292942635327-5.jpg",
+    "images/2098757292942635327-6.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBIga_bIAAqw5G",
+    "x-image:/media/HSBIh-iaUAAra6W",
+    "x-image:/media/HR_75EnbAAAtUjJ",
+    "x-image:/media/HR_75ElaUAAWzEO",
+    "x-image:/media/HR_75EabkAA6oGQ",
+    "x-image:/media/HR_75EjaMAAuZ1I",
+    "x-post:2098757292942635327",
+    "x-post:2098672917479559420"
+  ],
+  "analysis": {
+    "summary": "電車内で座席POVから見下ろす24歳日本人女性のリアル系ポートレートプロンプト。",
+    "summaryEn": "A realistic portrait prompt depicting a 24-year-old Japanese woman on a train from a sitting POV.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片精确呈现了坐在座位上的POV第一视角、站在正前方的年轻女性抓着吊环、无袖低胸装束及俯视神情。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "24歳, 日本人女性, 電車, 真正面に立つ, 高めの吊り革に捕まる, 脇を見せる, ノースリーブ, 胸元が開いた服, 目線は正面, 見下した顔, 椅子に座った人のPOV, スマホ写真, リアルな質感, 縦向き",
+    "sourceRange": {
+      "start": 50,
+      "end": 155
+    },
+    "translations": {
+      "zh": "24岁, 日本女性, 电车, 正站在正前方, 抓住高处的吊环, 露出腋下, 无袖, 低胸衣服, 视线正视, 蔑视俯视的神情, 坐在座位上的人的第一视角POV, 手机照片, 真实质感, 竖屏",
+      "en": "24 years old, Japanese woman, train, standing right in front, grabbing high hand strap, showing armpit, sleeveless, low-cut clothing, looking straight ahead, condescending expression, sitting passenger POV, smartphone photo, realistic texture, vertical orientation"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "电车POV视角真实质感人像生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "nsfw-minor"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
