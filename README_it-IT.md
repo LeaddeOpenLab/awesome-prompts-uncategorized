@@ -1378,20 +1378,20 @@ Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticame
 
 <a name="prompt-2098562484604989642"></a>
 
-### Traduzione in corso
+### Scritta al neon &quot;STAY WEIRD&quot; sospesa nel raggio traente blu di un disco volante rétro contro un cielo stellato.
 
 Autore：[@heathergreen](https://x.com/heathergreen) · [Post originale](https://x.com/heathergreen/status/2098562484604989642)
 
 Retro / Vintage · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scritta al neon &quot;STAY WEIRD&quot; sospesa nel raggio traente blu di un disco volante rétro contro un cielo stellato.
 
 <img src="images/2098562484604989642-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+il testo al neon in grassetto "STAY WEIRD" è sospeso in un raggio traente blu brillante proveniente da un classico disco volante cromato rétro, che aleggia in un cielo notturno buio e stellato, illuminazione drammatica, colori vaporwave, composizione cinematografica, illustrazione digitale ad alta risoluzione con grana della pellicola ed effetti di colore opaco.
 ```
 
 [↑ Torna alle categorie](#catalog)

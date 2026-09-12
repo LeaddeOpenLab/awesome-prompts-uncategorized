@@ -1378,20 +1378,20 @@ Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et e
 
 <a name="prompt-2098562484604989642"></a>
 
-### Traduction en cours
+### Texte en néon « STAY WEIRD » suspendu dans le rayon tracteur bleu d'une soucoupe volante rétro sur fond de ciel étoilé.
 
 Auteur：[@heathergreen](https://x.com/heathergreen) · [Publication originale](https://x.com/heathergreen/status/2098562484604989642)
 
 Rétro / Vintage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Texte en néon « STAY WEIRD » suspendu dans le rayon tracteur bleu d'une soucoupe volante rétro sur fond de ciel étoilé.
 
 <img src="images/2098562484604989642-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+le texte en néon gras « STAY WEIRD » est suspendu dans un rayon tracteur bleu vif émanant d'une soucoupe volante rétro classique en chrome, flottant dans un ciel nocturne sombre et étoilé, éclairage dramatique, couleurs vaporwave, composition cinématographique, illustration numérique haute résolution avec grain de film et effets de couleurs mates.
 ```
 
 [↑ Retour aux catégories](#catalog)

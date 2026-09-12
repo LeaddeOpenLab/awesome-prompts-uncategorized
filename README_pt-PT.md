@@ -1395,20 +1395,20 @@ Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e
 
 <a name="prompt-2098562484604989642"></a>
 
-### Tradução em curso
+### Texto em néon &quot;STAY WEIRD&quot; suspenso no raio trator azul de um disco voador retro contra um céu estrelado.
 
 Autor：[@heathergreen](https://x.com/heathergreen) · [Publicação original](https://x.com/heathergreen/status/2098562484604989642)
 
 Retrô / Vintage · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Texto em néon &quot;STAY WEIRD&quot; suspenso no raio trator azul de um disco voador retro contra um céu estrelado.
 
 <img src="images/2098562484604989642-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+o texto em néon a negrito "STAY WEIRD" está suspenso num raio trator azul brilhante de um clássico disco voador retro cromado, pairando num céu noturno escuro e estrelado, iluminação dramática, cores vaporwave, composição cinematográfica, ilustração digital em alta resolução com grão de filme e efeitos de cor mate.
 ```
 
 [↑ Voltar às categorias](#catalog)

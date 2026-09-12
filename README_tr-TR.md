@@ -1395,20 +1395,20 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 
 <a name="prompt-2098562484604989642"></a>
 
-### Çeviri sürüyor
+### Yıldızlı bir gökyüzüne karşı retro bir uçan dairenin mavi çekici ışınında asılı duran neon metin &quot;STAY WEIRD&quot;.
 
 Yazar：[@heathergreen](https://x.com/heathergreen) · [Orijinal gönderi](https://x.com/heathergreen/status/2098562484604989642)
 
 Retro / Vintage · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yıldızlı bir gökyüzüne karşı retro bir uçan dairenin mavi çekici ışınında asılı duran neon metin &quot;STAY WEIRD&quot;.
 
 <img src="images/2098562484604989642-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+karanlık ve yıldızlı bir gece gökyüzünde süzülen klasik retro krom uçan daireden yayılan parlak mavi bir çekici ışın demeti içinde asılı duran kalın neon yazı "STAY WEIRD", dramatik aydınlatma, vaporwave renkleri, sinematik kompozisyon, film greni ve mat renk efektlerine sahip yüksek çözünürlüklü dijital illüstrasyon.
 ```
 
 [↑ Kategorilere dön](#catalog)
