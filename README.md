@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**86** Prompts · Latest addition: **2026-09-12**
+**87** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1809,6 +1809,37 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098562233991049325"></a>
+
+### A young Japanese woman taking an early morning bed selfie, wearing a beige camisole and string thong, with slightly messy wavy hair and soft morning light creating a natural high-end feel.
+
+Author：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Source](https://x.com/AIGirl_Show/status/2098562233991049325)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** A young Japanese woman taking an early morning bed selfie, wearing a beige camisole and string thong, with slightly messy wavy hair and soft morning light creating a natural high-end feel.
+
+<img src="images/2098562233991049325-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+1. Subject & Action
+A 25-year-old Japanese woman with porcelain fair delicate skin, visible pores and fine peach fuzz, natural gray-blue eyes, extremely refined facial features, polished high-fashion makeup, and long dark wavy sleep-messy hair. Plump full G-cup breasts with realistic soft gravity hang and natural volume from a slight torso twist. Extremely slender waist. She is taking a front-camera bed selfie: one arm raised toward the lens, holding a smartphone that enters the frame from above; the raised arm pulls the thin ribbed beige camisole into real fabric stretch and strap indentation. Underboob curve is visible. She wears no bra and a delicate thin-edge string thong on the hips. Expression: confident, restrained, optimistic smile, eyes looking into the phone lens as if she knows her angle.
+2. Setting & Time
+Rumpled luxury off-white linen bed and pillows in a quiet bedroom. Early morning, just after waking. Sheets are lived-in and wrinkled, not studio-perfect.
+3. Composition & Camera
+Authentic front-camera selfie perspective from slightly above. Mild selfie foreshortening from the raised arm. Phone or hand cropped at the top/corner of the frame. Body lies on the bed with a slight twist toward the camera so the waist and underbust read clearly. Full or three-quarter body in frame. Photorealistic, ultra-sharp skin and fabric detail.
+4. Lighting & Style
+Several distinct shafts of golden morning window light cutting across the collarbone, camisole, waist, and sheets. Visible floating dust motes in volumetric air. High-fashion editorial sensuality with tactile emphasis on fabric sheerness, rib knit texture, strap pressure, and real breast weight. Not glossy catalog lighting. Tasteful, high-end, naturally realistic.
+5. Constraints
+Nipples fully covered by the camisole; no wardrobe malfunction; no explicit genital focus; thong shows only the thin side straps and waistline. Not vulgar, not pornographic. Adult woman only. Keep the image as a believable self-taken morning photo, not a studio pose pretending to be a selfie.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098459622453756301"></a>
 
