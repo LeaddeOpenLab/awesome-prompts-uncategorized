@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T08:49:01.243Z",
+  "model": "grok",
+  "prompt": "spacex",
+  "promptTranslations": {
+    "en": "spacex"
+  },
+  "summaryTranslations": {
+    "en": "SpaceX rocket launch"
+  },
+  "translationVersion": 2,
+  "summary": "SpaceX rocket launch",
+  "summaryEn": "SpaceX rocket launch",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098688482281452002",
+    "canonicalUrl": "https://x.com/iadventurejacek/status/2098688482281452002",
+    "author": {
+      "username": "iadventurejacek",
+      "displayName": "Jacek",
+      "profileUrl": "https://x.com/iadventurejacek"
+    },
+    "publishedAt": "2026-09-12T08:21:40.000Z",
+    "collectedAt": "2026-09-12T08:28:30.238Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nspacex https://t.co/okj8Auo321",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/iadventurejacek/status/2098688482281452002",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098688461796700160/img/m2sto0vLgHTp-7ow.jpg",
+        "analysisUrl": "https://x.com/iadventurejacek/status/2098688482281452002"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/iadventurejacek/status/2098688482281452002",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098688461796700160/img/m2sto0vLgHTp-7ow.jpg",
+  "coverPath": "covers/2098688482281452002.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098688461796700160",
+    "x-post:2098688482281452002"
+  ],
+  "analysis": {
+    "summary": "SpaceX rocket launch",
+    "summaryEn": "SpaceX rocket launch",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video depicts a realistic SpaceX Starship launching from a pad with heavy smoke and flame exhaust."
+    },
+    "videoQuality": null,
+    "originalPrompt": "spacex",
+    "sourceRange": {
+      "start": 22,
+      "end": 28
+    },
+    "translations": {
+      "zh": "spacex",
+      "en": "spacex"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "Aerospace rocket launch visual",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "SpaceX"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
