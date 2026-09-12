@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**96** Prompts · Latest addition: **2026-09-12**
+**97** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1961,6 +1961,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098579720153805188"></a>
+
+### A normal pair of human hands.
+
+Author：[@ferranteirkl3](https://x.com/ferranteirkl3) · [Source](https://x.com/ferranteirkl3/status/2098579720153805188)
+
+Other · Published
+
+**Summary:** A normal pair of human hands.
+
+<img src="images/2098579720153805188-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A normal pair of human hands.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098573808521113742"></a>
 

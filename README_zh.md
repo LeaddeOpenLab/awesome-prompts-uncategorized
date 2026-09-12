@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**96** 条内容 · 最新收录: **2026-09-12**
+**97** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1766,6 +1766,28 @@ FIELD NOTE [编号]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098579720153805188"></a>
+
+### 翻译中
+
+作者：[@ferranteirkl3](https://x.com/ferranteirkl3) · [查看 X 原帖](https://x.com/ferranteirkl3/status/2098579720153805188)
+
+其他 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098579720153805188-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098573808521113742"></a>
 
