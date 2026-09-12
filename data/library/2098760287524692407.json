@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:32:13.579Z",
+  "model": "unknown-image",
+  "prompt": "a close up shot focusing on a futuristic female cyborg face. her skin has a dark, weathered, stone like texture covered in subtle hieroglyphic patterns. a stream of glowing, fiery orange and gold liquid flows vertically down her face, creating a strong contrast. her eyes glow with a cold blue light, and her lips are dark and metallic. braided blue and gold cables hang down as hair, and the atmosphere is filled with small, warm glowing particles. the lighting is high contrast, accentuating the textures and glowing elements.",
+  "promptTranslations": {
+    "en": "a close up shot focusing on a futuristic female cyborg face. her skin has a dark, weathered, stone like texture covered in subtle hieroglyphic patterns. a stream of glowing, fiery orange and gold liquid flows vertically down her face, creating a strong contrast. her eyes glow with a cold blue light, and her lips are dark and metallic. braided blue and gold cables hang down as hair, and the atmosphere is filled with small, warm glowing particles. the lighting is high contrast, accentuating the textures and glowing elements."
+  },
+  "summaryTranslations": {
+    "en": "Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes."
+  },
+  "translationVersion": 2,
+  "summary": "Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes.",
+  "summaryEn": "Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098760287524692407",
+    "canonicalUrl": "https://x.com/RobotCleopatra/status/2098760287524692407",
+    "author": {
+      "username": "RobotCleopatra",
+      "displayName": "Skipper VanderWall",
+      "profileUrl": "https://x.com/RobotCleopatra"
+    },
+    "publishedAt": "2026-09-12T13:07:00.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "en",
+    "originalText": "MASTER PROMPT\na close up shot focusing on a futuristic female cyborg face. her skin has a dark, weathered, stone like texture covered in subtle hieroglyphic patterns. a stream of glowing, fiery orange and gold liquid flows vertically down her face, creating a strong contrast. her eyes glow with a cold blue light, and her lips are dark and metallic. braided blue and gold cables hang down as hair, and the atmosphere is filled with small, warm glowing particles. the lighting is high contrast, accentuating the textures and glowing elements.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_kZBebkAAZmEn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_kZBebkAAZmEn.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 22,
+      "repostCount": 1,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 495
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RobotCleopatra/status/2098760287524692407",
+  "coverUrl": "https://pbs.twimg.com/media/HR_kZBebkAAZmEn.jpg",
+  "coverPath": "images/2098760287524692407-1.jpg",
+  "imagePaths": [
+    "images/2098760287524692407-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR_kZBebkAAZmEn",
+    "x-post:2098760287524692407"
+  ],
+  "analysis": {
+    "summary": "Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes.",
+    "summaryEn": "Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches image: cyborg face with hieroglyphic texture, flowing glowing orange line, cold blue eyes, and cable hair."
+    },
+    "videoQuality": null,
+    "originalPrompt": "a close up shot focusing on a futuristic female cyborg face. her skin has a dark, weathered, stone like texture covered in subtle hieroglyphic patterns. a stream of glowing, fiery orange and gold liquid flows vertically down her face, creating a strong contrast. her eyes glow with a cold blue light, and her lips are dark and metallic. braided blue and gold cables hang down as hair, and the atmosphere is filled with small, warm glowing particles. the lighting is high contrast, accentuating the textures and glowing elements.",
+    "sourceRange": {
+      "start": 14,
+      "end": 542
+    },
+    "translations": {
+      "zh": "聚焦未来女性半机械人面部的特写镜头。皮肤呈现深色、风化的石质纹理，布满微妙的象形文字图案。一条发光的火红与金色流体垂直流下面部，形成强烈反差。眼睛闪烁冰冷蓝光，嘴唇深黑具金属感。编织的蓝金线缆如头发垂下，空间弥漫微小温暖的光粒。高对比度光影突显了纹理与发光细节。",
+      "en": "a close up shot focusing on a futuristic female cyborg face. her skin has a dark, weathered, stone like texture covered in subtle hieroglyphic patterns. a stream of glowing, fiery orange and gold liquid flows vertically down her face, creating a strong contrast. her eyes glow with a cold blue light, and her lips are dark and metallic. braided blue and gold cables hang down as hair, and the atmosphere is filled with small, warm glowing particles. the lighting is high contrast, accentuating the textures and glowing elements."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept-art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
