@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T16:35:14.565Z",
+  "model": "unknown-image",
+  "prompt": "Elephants at the Dust Bath,  Mosaic\n\nA playful elephant family tossing fine dust over themselves beneath bright afternoon sunlight, viewed from behind a tiny foreground wildflower so the elephants feel enormous in the distance. Hand-cut mosaic tiles, irregular stone pieces, sparkling ceramic surfaces and warm earth-and-sky colors.",
+  "promptTranslations": {
+    "en": "Elephants at the Dust Bath,  Mosaic\\n\\nA playful elephant family tossing fine dust over themselves beneath bright afternoon sunlight, viewed from behind a tiny foreground wildflower so the elephants feel enormous in the distance. Hand-cut mosaic tiles, irregular stone pieces, sparkling ceramic surfaces and warm earth-and-sky colors."
+  },
+  "summaryTranslations": {
+    "en": "Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower."
+  },
+  "translationVersion": 2,
+  "summary": "Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower.",
+  "summaryEn": "Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098792103073476716",
+    "canonicalUrl": "https://x.com/RenRose321/status/2098792103073476716",
+    "author": {
+      "username": "RenRose321",
+      "displayName": "Ren Rose 321",
+      "profileUrl": "https://x.com/RenRose321"
+    },
+    "publishedAt": "2026-09-12T15:13:25.000Z",
+    "collectedAt": "2026-09-12T16:17:13.194Z",
+    "language": "en",
+    "originalText": "Happy weekend 🥳\n\nAi Art Prompt Share Party 🎨👇🏻\n\nMore in the replies 🧵👀👇🏻 \n\nElephants at the Dust Bath,  Mosaic\n\nA playful elephant family tossing fine dust over themselves beneath bright afternoon sunlight, viewed from behind a tiny foreground wildflower so the elephants feel enormous in the distance. Hand-cut mosaic tiles, irregular stone pieces, sparkling ceramic surfaces and warm earth-and-sky colors.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSBoSigawAALgOv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSBoSigawAALgOv.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 0,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 241
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/RenRose321/status/2098792103073476716",
+  "coverUrl": "https://pbs.twimg.com/media/HSBoSigawAALgOv.jpg",
+  "coverPath": "images/2098792103073476716-1.jpg",
+  "imagePaths": [
+    "images/2098792103073476716-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSBoSigawAALgOv",
+    "x-post:2098792103073476716"
+  ],
+  "analysis": {
+    "summary": "Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower.",
+    "summaryEn": "Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated image matches the mosaic tile style, elephant family dust bathing scene, warm palette, and foreground wildflower framing."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Elephants at the Dust Bath,  Mosaic\n\nA playful elephant family tossing fine dust over themselves beneath bright afternoon sunlight, viewed from behind a tiny foreground wildflower so the elephants feel enormous in the distance. Hand-cut mosaic tiles, irregular stone pieces, sparkling ceramic surfaces and warm earth-and-sky colors.",
+    "sourceRange": {
+      "start": 75,
+      "end": 407
+    },
+    "translations": {
+      "zh": "尘浴中的大象，马赛克风格。在明媚午后阳光下，嬉戏的象群往身上扬起细尘，从前景微小的野花后方视角观察，令远处的大象显得格外庞大。手工切割马赛克瓷砖、不规则石块、微闪的陶瓷表面以及温暖的大地与天空色调。",
+      "en": "Elephants at the Dust Bath,  Mosaic\n\nA playful elephant family tossing fine dust over themselves beneath bright afternoon sunlight, viewed from behind a tiny foreground wildflower so the elephants feel enormous in the distance. Hand-cut mosaic tiles, irregular stone pieces, sparkling ceramic surfaces and warm earth-and-sky colors."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "艺术创作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
