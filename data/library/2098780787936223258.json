@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:49:27.257Z",
+  "model": "kling",
+  "prompt": "Create a 15-second cinematic film sequence of a young man walking slowly through a modern city at night. Light rain falls continuously, creating reflections of glowing streetlights, colorful neon signs, storefronts, and passing cars across the wet pavement.\n0–5 seconds: Start with a wide cinematic shot from behind as the young man walks calmly down the rain-soaked street. His clothes and hair move naturally with the light breeze. Neon lights softly illuminate the surroundings.\n5–10 seconds: The camera smoothly moves alongside him in a slow tracking shot. He briefly looks toward the glowing city lights while rain droplets pass naturally in front of the lens. Background pedestrians and vehicles move realistically, slightly blurred.\n10–15 seconds: The camera slowly moves toward a front three-quarter close-up of his face. He continues walking with a peaceful, thoughtful expression while colorful city lights create beautiful soft bokeh behind him. End with a gentle cinematic push-in.\nRealistic human walking motion, natural body movement, realistic rain physics, wet pavement reflections, soft volumetric lighting, subtle atmospheric haze, shallow depth of field, realistic skin and clothing textures, smooth stabilized camera movement, cinematic 35mm lens, subtle film grain, high dynamic range, photorealistic 4K cinematic movie quality.\nAudio: Add soothing, relaxing cinematic background music throughout the entire sequence — soft ambient piano with gentle atmospheric pads, subtle rain ambience and distant city sounds. Music should feel peaceful, emotional and slightly nostalgic, remain low and unobtrusive, and smoothly build toward the final close-up. No vocals, no dialogue, no sudden beats, no dramatic music.",
+  "promptTranslations": {
+    "en": "Create a 15-second cinematic film sequence of a young man walking slowly through a modern city at night. Light rain falls continuously, creating reflections of glowing streetlights, colorful neon signs, storefronts, and passing cars across the wet pavement.\n0–5 seconds: Start with a wide cinematic shot from behind as the young man walks calmly down the rain-soaked street. His clothes and hair move naturally with the light breeze. Neon lights softly illuminate the surroundings.\n5–10 seconds: The camera smoothly moves alongside him in a slow tracking shot. He briefly looks toward the glowing city lights while rain droplets pass naturally in front of the lens. Background pedestrians and vehicles move realistically, slightly blurred.\n10–15 seconds: The camera slowly moves toward a front three-quarter close-up of his face. He continues walking with a peaceful, thoughtful expression while colorful city lights create beautiful soft bokeh behind him. End with a gentle cinematic push-in.\nRealistic human walking motion, natural body movement, realistic rain physics, wet pavement reflections, soft volumetric lighting, subtle atmospheric haze, shallow depth of field, realistic skin and clothing textures, smooth stabilized camera movement, cinematic 35mm lens, subtle film grain, high dynamic range, photorealistic 4K cinematic movie quality.\nAudio: Add soothing, relaxing cinematic background music throughout the entire sequence — soft ambient piano with gentle atmospheric pads, subtle rain ambience and distant city sounds. Music should feel peaceful, emotional and slightly nostalgic, remain low and unobtrusive, and smoothly build toward the final close-up. No vocals, no dialogue, no sudden beats, no dramatic music."
+  },
+  "summaryTranslations": {
+    "en": "15-second cinematic shot sequence: A young man strolling through rainy neon streets at night, featuring a three-part camera movement of a rear view, side tracking shot, and frontal close-up, complete with audio instructions."
+  },
+  "translationVersion": 2,
+  "summary": "15秒电影感镜头序列：年轻男子夜间在细雨霓虹街道漫步，包含背影、侧面跟拍和正面特写三段式镜头调度与音效说明。",
+  "summaryEn": "A 15-second cinematic sequence of a young man walking down a rainy neon street at night, detailed across three camera setups with audio guidance.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098780787936223258",
+    "canonicalUrl": "https://x.com/im_shahid7/status/2098780787936223258",
+    "author": {
+      "username": "im_shahid7",
+      "displayName": "Al-Shamus",
+      "profileUrl": "https://x.com/im_shahid7"
+    },
+    "publishedAt": "2026-09-12T14:28:27.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "en",
+    "originalText": "Waling with vibe\nMade on @Kling_ai \nPrompt:\nHere’s a stronger Kling-ready 15-second version, with a soothing music direction and a more cinematic progression:\nCreate a 15-second cinematic film sequence of a young man walking slowly through a modern city at night. Light rain falls continuously, creating reflections of glowing streetlights, colorful neon signs, storefronts, and passing cars across the wet pavement.\n0–5 seconds: Start with a wide cinematic shot from behind as the young man walks calmly down the rain-soaked street. His clothes and hair move naturally with the light breeze. Neon lights softly illuminate the surroundings.\n5–10 seconds: The camera smoothly moves alongside him in a slow tracking shot. He briefly looks toward the glowing city lights while rain droplets pass naturally in front of the lens. Background pedestrians and vehicles move realistically, slightly blurred.\n10–15 seconds: The camera slowly moves toward a front three-quarter close-up of his face. He continues walking with a peaceful, thoughtful expression while colorful city lights create beautiful soft bokeh behind him. End with a gentle cinematic push-in.\nRealistic human walking motion, natural body movement, realistic rain physics, wet pavement reflections, soft volumetric lighting, subtle atmospheric haze, shallow depth of field, realistic skin and clothing textures, smooth stabilized camera movement, cinematic 35mm lens, subtle film grain, high dynamic range, photorealistic 4K cinematic movie quality.\nAudio: Add soothing, relaxing cinematic background music throughout the entire sequence — soft ambient piano with gentle atmospheric pads, subtle rain ambience and distant city sounds. Music should feel peaceful, emotional and slightly nostalgic, remain low and unobtrusive, and smoothly build toward the final close-up. No vocals, no dialogue, no sudden beats, no dramatic music.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/im_shahid7/status/2098780787936223258",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098780287425810432/img/dImFOVVIkrGP_8ti.jpg",
+        "analysisUrl": "https://x.com/im_shahid7/status/2098780787936223258"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 1,
+      "replyCount": 13,
+      "quoteCount": 0,
+      "viewCount": 198
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/im_shahid7/status/2098780787936223258",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098780287425810432/img/dImFOVVIkrGP_8ti.jpg",
+  "coverPath": "covers/2098780787936223258.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098780287425810432",
+    "x-post:2098780787936223258"
+  ],
+  "analysis": {
+    "summary": "15秒电影感镜头序列：年轻男子夜间在细雨霓虹街道漫步，包含背影、侧面跟拍和正面特写三段式镜头调度与音效说明。",
+    "summaryEn": "A 15-second cinematic sequence of a young man walking down a rainy neon street at night, detailed across three camera setups with audio guidance.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频与提示词中的三段式镜头设计（0-5秒背面远景、5-10秒侧面跟拍、10-15秒面部特写）及雨夜霓虹街道环境完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 15-second cinematic film sequence of a young man walking slowly through a modern city at night. Light rain falls continuously, creating reflections of glowing streetlights, colorful neon signs, storefronts, and passing cars across the wet pavement.\n0–5 seconds: Start with a wide cinematic shot from behind as the young man walks calmly down the rain-soaked street. His clothes and hair move naturally with the light breeze. Neon lights softly illuminate the surroundings.\n5–10 seconds: The camera smoothly moves alongside him in a slow tracking shot. He briefly looks toward the glowing city lights while rain droplets pass naturally in front of the lens. Background pedestrians and vehicles move realistically, slightly blurred.\n10–15 seconds: The camera slowly moves toward a front three-quarter close-up of his face. He continues walking with a peaceful, thoughtful expression while colorful city lights create beautiful soft bokeh behind him. End with a gentle cinematic push-in.\nRealistic human walking motion, natural body movement, realistic rain physics, wet pavement reflections, soft volumetric lighting, subtle atmospheric haze, shallow depth of field, realistic skin and clothing textures, smooth stabilized camera movement, cinematic 35mm lens, subtle film grain, high dynamic range, photorealistic 4K cinematic movie quality.\nAudio: Add soothing, relaxing cinematic background music throughout the entire sequence — soft ambient piano with gentle atmospheric pads, subtle rain ambience and distant city sounds. Music should feel peaceful, emotional and slightly nostalgic, remain low and unobtrusive, and smoothly build toward the final close-up. No vocals, no dialogue, no sudden beats, no dramatic music.",
+    "sourceRange": {
+      "start": 159,
+      "end": 1889
+    },
+    "translations": {
+      "zh": "创建一段15秒的电影级胶片序列：夜晚，一名年轻男子缓缓漫步在现代都市中。细雨连绵，在潮湿的路面上倒映出闪烁的街灯、彩色霓虹招牌、店铺与往来车辆。\n0–5秒：以背面的宽幅电影镜头开始，年轻男子平静走在雨浸湿的街道上。衣物与发丝随微风自然摆动，霓虹灯光柔和照亮周围。\n5–10秒：镜头平稳切入侧面慢速跟拍。他轻瞥闪烁的城市灯光，雨滴自然飘落过镜头前。背景行人与车辆逼真移动且略带模糊。\n10–15秒：镜头缓缓移向他面部的正面3/4特写。他带着平静若思的表情继续走着，身后绚烂的城市灯光形成柔美散景。以平缓的镜头推进结束。\n逼真的人体行走与肢体运动、真实雨水物理、潮湿路面反射、柔和体积光、微弱大气雾霾、浅景深、逼真皮肤与衣物纹理、平稳运镜、35mm电影镜头、微弱胶片颗粒、高动态范围、4K照片级画质。\n音频：全片配以柔和放松的电影背景音乐——轻柔环境钢琴搭配柔和氛围铺底、微弱雨声与远处城市声，情绪平和略带怀旧，无对话人声或剧烈节奏。",
+      "en": "Create a 15-second cinematic film sequence of a young man walking slowly through a modern city at night. Light rain falls continuously, creating reflections of glowing streetlights, colorful neon signs, storefronts, and passing cars across the wet pavement.\n0–5 seconds: Start with a wide cinematic shot from behind as the young man walks calmly down the rain-soaked street. His clothes and hair move naturally with the light breeze. Neon lights softly illuminate the surroundings.\n5–10 seconds: The camera smoothly moves alongside him in a slow tracking shot. He briefly looks toward the glowing city lights while rain droplets pass naturally in front of the lens. Background pedestrians and vehicles move realistically, slightly blurred.\n10–15 seconds: The camera slowly moves toward a front three-quarter close-up of his face. He continues walking with a peaceful, thoughtful expression while colorful city lights create beautiful soft bokeh behind him. End with a gentle cinematic push-in.\nRealistic human walking motion, natural body movement, realistic rain physics, wet pavement reflections, soft volumetric lighting, subtle atmospheric haze, shallow depth of field, realistic skin and clothing textures, smooth stabilized camera movement, cinematic 35mm lens, subtle film grain, high dynamic range, photorealistic 4K cinematic movie quality.\nAudio: Add soothing, relaxing cinematic background music throughout the entire sequence — soft ambient piano with gentle atmospheric pads, subtle rain ambience and distant city sounds. Music should feel peaceful, emotional and slightly nostalgic, remain low and unobtrusive, and smoothly build toward the final close-up. No vocals, no dialogue, no sudden beats, no dramatic music."
+    },
+    "targetModels": [
+      "kling"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic night walk video sequence",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
