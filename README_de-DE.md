@@ -187,20 +187,60 @@ Minderjährig wirkende Personen oder zu kindliche Gesichter, anatomische Fehler,
 
 <a name="prompt-2098636922742595944"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Bild-Prompt einer japanischen Frau, die nachts in ein weißes Badetuch gehüllt in einem Freiluftbad die Hand auf den Steinrand legt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2098636922742595944)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Bild-Prompt einer japanischen Frau, die nachts in ein weißes Badetuch gehüllt in einem Freiluftbad die Hand auf den Steinrand legt.
 
 <img src="images/2098636922742595944-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Freiluftbad in einer Mondnacht｜Weißes Badetuch und warmer Dampf🌟
+
+【Thema & Bildstil】
+Inmitten eines nächtlichen Freiluftbades (Rotenburo) wird der Moment festgehalten, in dem eine erwachsene japanische Frau, die ihren Körper in ein weißes Badetuch gehüllt hat, aus dem Wasser heraus eine Hand auf den Steinrand legt und den Betrachter anblickt. Auf fotorealistischer Basis soll eine raffinierte fotografische Ästhetik entstehen, die sich zwischen der Werbung für ein erstklassiges Onsen-Ryokan oder Spa-Resort und einem Bildband bewegt.
+Keine aufdringliche Erotik, sondern ein natürlicher Glanz wie frisch nach dem Bad, eine stille Vertrautheit und das für nächtliche heiße Quellen typische Gefühl des Außergewöhnlichen stehen im Mittelpunkt. Die Person wird nicht isoliert dargestellt, sondern Dampf, Steine, Wasseroberfläche, Holzarchitektur und warme Lichter verbinden sich zu einer stimmigen Gesamtszenerie.
+
+【Ort, Hintergrund & Welt】
+Ein Freiluftbad in einem exquisiten Onsen-Ryokan in den Bergen. Das Becken ist von Natursteinen umgeben; rundherum befinden sich ein nasser Steinboden, Holzpfeiler, ein Bambuszaun und niedrige Bepflanzung. Am Rand des Beckens ist ein kleiner Quellwasserauslauf, aus dem klares Wasser leise hineinfließt und feine Kräuselwellen auf der Wasseroberfläche erzeugt.
+Im Hintergrund sind warm leuchtende Andon-Laternen und indirekte Beleuchtung verteilt; noch weiter dahinter zeichnen sich die dunkle Kammlinie der Berge und winzige Lichter in der Ferne ab. Der Hintergrund wirkt nicht übertrieben aufgeräumt, sondern bewahrt die Tiefe und das lebendige Flair eines echten Ryokan-Freiluftbades.
+
+【Jahreszeit, Tageszeit & Wetter】
+Die Jahreszeit ist der kühle Frühherbst. Die Zeit ist nach Sonnenuntergang bei Nacht, mit einem verbliebenen tiefen Dunkelblau am Himmel. Der Wind weht schwach, und die Außenluft ist leicht kühl, während von der Wasseroberfläche weicher Dampf aufsteigt.
+Eine ruhige Nacht ohne Regen oder Schnee. Zarter Dampf weht ganz natürlich um die Person und im Hintergrund, sodass der Temperaturunterschied zwischen der stillen Luft und dem warmen Wasser spürbar wird.
+
+【Charaktergestaltung】
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Weiche, ebenmäßige und reife Gesichtszüge, etwas größere dunkle Augen, natürliche Augenbrauen, ein schmaler Nasenrücken und gut durchblutete Lippen. Das dunkelbraune Haar reicht etwa bis zu den Schultern, ist durch das Baden leicht feucht, und einzelne feine Strähnen liegen an Wangen und Hals an.
+Der Teint ist ein heller Ockerton mit feinen Schattierungen und einer natürlichen Frische. Die Schultern und Gliedmaßen sind relativ zierlich, kombiniert mit einer schlanken Taille und harmonischen, weiblichen Rundungen zu einer natürlich kurvigen Figur. Das Dekolleté besitzt ein deutlich üppiges, natürliches Volumen, das weiche Rundungen und eine der Schwerkraft folgende Plastizität zeigt.
+
+【Kleidung & Accessoires】
+Ein dickes, sauberes weißes Badetuch, das im Wickelstil von der Brust bis zum oberen Bereich der Oberschenkel um den Körper gelegt ist. Das Tuch bedeckt die Brustpartie zuverlässig und bietet ausreichend Weite und Länge, um sich der kurvigen Figur ungezwungen anzupassen.
+Das Material ist weicher Baumwollfrottee, wobei der Texturunterschied zwischen trockenen und durch Dampf und Wassertropfen leicht feuchten Bereichen natürlich zur Geltung kommt. Eine realistische Passform, die weder an Brust noch Hüfte extrem einschneidet noch unnatürlich vom Körper absteht. Keine Accessoires, um die für ein Onsen typische Schlichtheit zu wahren.
+
+【Pose, Bewegung & Blick】
+Etwa bis zu den Knien in das Thermalwasser eingetaucht, der Körper der Kamera fast frontal oder minimal schräg zugewandt. Der Schwerpunkt liegt natürlich auf dem hinteren Bein, während das vordere Bein leicht nach vorne gesetzt ist, sodass sich kleine Wellen auf der Wasseroberfläche ausbreiten.
+Die linke Hand liegt sanft auf dem großen Steinrand neben dem Körper und vermittelt gerade genug natürliche Kraft, um den Körper zu stützen. Die rechte Hand berührt leicht die Seite des Badetuchs. Der Oberkörper neigt sich minimal nach vorn, ohne jedoch die Taille extrem zu überstrecken; Schultern und Dekolleté öffnen sich ungezwungen. Der Blick ist direkt in die Kamera gerichtet.
+
+【Ausdruck & Emotion】
+Ein sanftes Lächeln mit einer Nuance von Schüchternheit, als stünde eine vertraute Person direkt vor ihr. Kein aufgesetztes Lächeln, bei dem nur die Mundwinkel nach oben gezogen sind, sondern auch die Augenpartie und die Wangen wirken sanft entspannt.
+Der Kopf ist leicht geneigt, und einige nasse Haarsträhnen liegen auf der Wange. Es wird eine natürliche Vertrautheit vermittelt, wie in dem flüchtigen Augenblick, in dem man die Kamera bemerkt, während man das ruhige nächtliche Bad genießt.
+
+【Komposition & Kamera】
+Vertikales 4:5-Format für X-Posts. Die Person ist vom Scheitel bis knapp unter die Knie natürlich ins Bild gesetzt, leicht versetzt aus der Bildmitte platziert, sodass auf der anderen Seite der Wasserauslauf des Freiluftbades und die Lichter sichtbar werden. Die Kameraposition liegt auf Höhe zwischen Brust und Magengrube, fast auf Augenhöhe mit der Person.
+Mittlerer Aufnahmeabstand. Ein natürlicher Bildwinkel von Normal- bis leichtem Telebereich (ca. 50–70 mm) wird vorausgesetzt, ohne Gesicht oder Körper durch Weitwinkel zu verzerren. Der Hintergrund ist leicht unscharf, behält aber genügend Schärfentiefe, um das Steinbad, den Bambuszaun, die Holzarchitektur und die Andon-Laternen erkennbar zu halten.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Die Hauptlichtquelle sind warmtönige Andon-Laternen und indirektes Licht, schräg vor der Person platziert. Sie werfen ein weiches, goldenes Licht auf Gesicht, Schultern, Dekolleté und Arme, während die abgewandte Seite durch schwache Reflexionen von der Wasseroberfläche und den Steinen natürlich aufgehellt wird. Weiche Schatten bewahren die nächtliche Bildtiefe.
+Auf der Haut sind Wassertropfen, feine Röte und eine dezente Porenstruktur sichtbar; das Haar weist nasse Strähnenbündelung und feine Härchen auf. Das weiße Tuch zeigt eine weiche Faserstruktur, die Steine einen feuchten, matten Glanz und die Wasseroberfläche feine Wellen, die das Licht reflektieren. Durch das Zusammenspiel von warmem Licht und dunkelblauer Nachtkulisse entsteht eine Atmosphäre, in der Stille, Wärme und edle Sinnlichkeit verschmelzen.
+
+【Qualität & Ausschlusskriterien】
+Hohe Auflösung, natürliche Anatomie, realistische Perspektive sowie Licht und Materialtexturen wie von einer echten Kamera aufgenommen stehen im Vordergrund. Minderjährig wirkende Personen, zu kindliche Gesichter, unnatürliche Gelenkstellungen, verkrümmte Körper, überzählige Gliedmaßen oder Finger, fehlende Finger, verschmolzene Finger sowie verwechselte Hände vermeiden.
+Keine Bildfehler am Badetuch, kein Verschmelzen mit dem Körper, kein unnatürliches Einschneiden, keine unbeabsichtigte Nacktheit. Bei Beibehaltung eines natürlichen, üppigen Volumens der Brust dürfen keine riesenhaften Maße, harte Kugelformen, unnatürliches Hochdrücken oder der Schwerkraft trotzende Formen entstehen. Extreme Weitwinkelverzerrungen, übermäßige Weichzeichner-Haut, unnatürliche Hintergründe, Texte, Logos, Wasserzeichen oder UI-Elemente weglassen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2232,20 +2272,20 @@ Tier / Kreatur · Veröffentlicht
 
 <a name="prompt-2098688508827512874"></a>
 
-### Übersetzung läuft
+### Video von im Fluss kämpfenden Tieren.
 
 Autor：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Originalbeitrag](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
 
 Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Video von im Fluss kämpfenden Tieren.
 
 <img src="covers/2098688508827512874.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Bitte lies ein Video von im Fluss kämpfenden Tieren
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

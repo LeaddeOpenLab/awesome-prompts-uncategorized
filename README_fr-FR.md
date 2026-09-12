@@ -187,20 +187,60 @@ Exclure les personnes d'allure mineure ou aux visages enfantins, les anomalies a
 
 <a name="prompt-2098636922742595944"></a>
 
-### Traduction en cours
+### Prompt d'image photoréaliste d'une femme japonaise enveloppée dans une serviette de bain blanche, posant la main sur le rebord en pierre d'un bain thermal en plein air la nuit.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2098636922742595944)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'image photoréaliste d'une femme japonaise enveloppée dans une serviette de bain blanche, posant la main sur le rebord en pierre d'un bain thermal en plein air la nuit.
 
 <img src="images/2098636922742595944-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Bain en plein air sous la lune｜Serviette de bain blanche et vapeur d'eau thermale🌟
+
+【Sujet et style visuel】
+Dans le cadre d'un bain thermal nocturne en plein air (rotenburo), dépeindre l'instant où une femme japonaise adulte, le corps enveloppé dans une serviette de bain blanche, pose la main sur le rebord en pierre depuis l'eau et regarde vers l'objectif. Sur une base photoréaliste, adopter un rendu photographique raffiné, à mi-chemin entre la publicité pour un ryokan thermal haut de gamme ou un complexe spa et un livre d'art photographique.
+Sans sensualité tapageuse, privilégier un éclat naturel comme au sortir du bain, une douce intimité et l'atmosphère dépaysante propre aux sources chaudes la nuit. Ne pas isoler le personnage : intégrer les vapeurs d'eau chaude, la pierre, la surface de l'eau, l'architecture en bois et les lumières chaleureuses pour composer un tableau harmonieux.
+
+【Lieu, arrière-plan et univers】
+Un bain en plein air dans un ryokan thermal de qualité niché dans les montagnes. Le bassin est ceint de pierres naturelles, entouré d'un sol en pierre humide, de piliers en bois, d'une clôture en bambou et d'une végétation basse. Au bord du bassin se trouve un petit déversoir d'où une eau limpide s'écoule silencieusement, formant de fines ondulations à la surface.
+En arrière-plan sont disséminées des lanternes andon aux tons chauds et des lumières indirectes, et encore plus loin se profilent la ligne sombre des crêtes montagneuses et de minuscules lueurs lointaines. L'arrière-plan ne doit pas être trop épuré, afin de conserver la profondeur et l'authenticité vivante d'un véritable bain en plein air de ryokan.
+
+【Saison, heure et météo】
+La saison est le début de l'automne, agréablement frais. Le moment se situe la nuit, après le coucher du soleil, avec un bleu marine profond persistant dans le ciel. Le vent est faible et l'air extérieur est légèrement vivifiant, tandis qu'une douce vapeur s'élève de la surface de l'eau.
+Une nuit paisible, sans pluie ni neige. Laisser flotter naturellement une légère vapeur autour du personnage et en arrière-plan, afin de rendre perceptible la différence de température entre l'air calme et l'eau chaude.
+
+【Conception du personnage】
+Une femme japonaise incontestablement adulte, âgée d'environ 20 à 28 ans. Traits de visage doux, réguliers et matures, avec de grands yeux sombres, des sourcils naturels, une arête nasale fine et des lèvres bien colorées. Des cheveux châtain foncé mi-longs arrivant aux épaules, légèrement mouillés par le bain, avec de fines mèches rebelles plaquées sur les joues et le cou.
+Une peau claire aux nuances ocre, conservant des ombres subtiles et un teint naturellement rosé. Épaules et membres relativement fins, taille menue et courbes féminines harmonieuses dessinant une silhouette naturellement pulpeuse. La poitrine présente un volume naturellement généreux et bien défini, exprimant une rondeur douce et un relief respectant la gravité.
+
+【Tenue et accessoires】
+Une serviette de bain blanche, épaisse et propre, drapée autour du corps de la poitrine jusqu'au haut des cuisses. La serviette couvre parfaitement le buste, avec une largeur et une longueur suffisantes pour épouser naturellement la silhouette galbée.
+La matière est un molleton de coton éponge doux, révélant naturellement la différence de texture entre les zones sèches et celles légèrement humidifiées par la vapeur et les gouttes d'eau. Un ajustement réaliste qui ne s'enfonce pas de manière excessive dans la poitrine ou les hanches, sans bâiller de façon artificielle. Aucun accessoire, afin de préserver la simplicité propre au rituel de l'onsen.
+
+【Pose, mouvement et regard】
+Immergée dans l'eau thermale jusqu'aux genoux environ, le corps presque de face ou très légèrement de trois-quarts par rapport à l'appareil. Le centre de gravité repose naturellement sur la jambe arrière, tandis que la jambe avant est légèrement avancée, posture créant de petites ondulations sur l'eau.
+La main gauche repose délicatement sur le bord d'une grosse pierre à côté du corps, traduisant un appui naturel pour se soutenir. La main droite effleure le côté de la serviette. Le haut du corps se penche très légèrement vers l'avant, sans cambrer excessivement les reins, les épaules et la poitrine s'ouvrant avec aisance. Le regard est dirigé droit vers l'objectif.
+
+【Expression et émotion】
+Un doux sourire teinté d'une légère timidité, comme face à un proche. Pas un sourire artificiel qui ne ferait que relever les commissures des lèvres, mais un relâchement tendre des yeux et des joues.
+Le visage est légèrement incliné, quelques mèches humides effleurant la joue. Exprimer une intimité naturelle, semblable au moment où l'on remarque soudain l'appareil tout en profitant du calme du bain nocturne.
+
+【Composition et cadrage】
+Cadrage vertical 4:5 adapté aux publications sur X. Le personnage est cadré naturellement du sommet du crâne jusqu'au-dessous des genoux, décentré légèrement sur un côté pour laisser voir à l'opposé l'arrivée d'eau du bassin et les lanternes. Prise de vue à hauteur de la poitrine ou du plexus, avec un angle presque au niveau des yeux du sujet.
+Distance de prise de vue moyenne. Focale naturelle standard à petit téléobjectif d'environ 50 à 70 mm, sans déformation grand-angle du visage ou du corps. L'arrière-plan présente un flou léger, tout en conservant une profondeur de champ suffisante pour distinguer le bassin en pierre, la palissade de bambou, la structure en bois et les lanternes andon.
+
+【Lumière, couleur, texture et atmosphère】
+La source lumineuse principale provient de lanternes andon aux tons chauds et d'un éclairage indirect situés en diagonale devant le sujet. Ils projettent une lumière dorée et douce sur le visage, les épaules, la poitrine et les bras, subtilement complétée du côté opposé par les faibles reflets de l'eau et des pierres. Des ombres douces préservent la profondeur nocturne.
+Sur la peau, de fines gouttelettes d'eau, une légère vascularisation et un grain de peau discret sont visibles ; dans la chevelure, un effet de mèches mouillées et de petits cheveux fous est rendu. La serviette blanche montre une texture de fibres douces, la pierre un éclat mat et humide, et la surface de l'eau de fines ondulations reflétant la lumière. En associant la clarté chaleureuse au paysage nocturne bleu marine, créer une ambiance où coexistent quiétude, chaleur et sensualité élégante.
+
+【Qualité et éléments exclus】
+Privilégier une haute résolution, une anatomie humaine naturelle, une perspective réaliste, ainsi qu'une lumière et des matières semblables à un cliché pris avec un véritable appareil photo. Éviter tout personnage d'apparence mineure, les visages trop enfantins, les articulations contre nature, les torsions corporelles anormales, les membres ou doigts surnuméraires, manquants ou fusionnés, ainsi que la confusion entre main gauche et droite.
+Éviter les serviettes déformées, fusionnées avec le corps, les plis trop serrés irréalistes et la nudité accidentelle. Tout en conservant un volume naturel et généreux à la poitrine, ne pas la rendre démesurée, sphérique, excessivement rehaussée ou défiant la gravité. Bannir les distorsions extrêmes au grand-angle, le lissage excessif de la peau, les arrière-plans artificiels, les textes, logos, filigranes et interfaces graphiques.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2232,20 +2272,20 @@ Traduction en cours
 
 <a name="prompt-2098688508827512874"></a>
 
-### Traduction en cours
+### Vidéo d'animaux se battant dans une rivière.
 
 Auteur：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Publication originale](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
 
 Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Vidéo d'animaux se battant dans une rivière.
 
 <img src="covers/2098688508827512874.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Veuillez lire une vidéo d'animaux qui se battent dans une rivière
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -187,20 +187,60 @@ Evitare soggetti con aspetto da minori o volti troppo infantili, anatomie innatu
 
 <a name="prompt-2098636922742595944"></a>
 
-### Traduzione in corso
+### Prompt fotografico realistico di una donna giapponese avvolta in un telo bianco che appoggia la mano sul bordo di pietra di un bagno termale all'aperto di notte.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098636922742595944)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotografico realistico di una donna giapponese avvolta in un telo bianco che appoggia la mano sul bordo di pietra di un bagno termale all'aperto di notte.
 
 <img src="images/2098636922742595944-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Bagno all'aperto in una notte di luna｜Telo da bagno bianco e vapore termale🌟
+
+【Soggetto e stile visivo】
+Ambientato in un bagno termale all'aperto notturno (rotenburo), ritrarre il momento in cui una donna giapponese adulta, con un telo da bagno bianco avvolto intorno al corpo, posa la mano sul bordo di pietra dall'interno dell'acqua e guarda verso l'osservatore. Con un'impostazione fotorealistica, creare un'espressione fotografica raffinata, a metà strada tra la pubblicità di un ryokan termale o resort benessere di lusso e un fotolibro d'autore.
+Nessuna sensualità sfacciata, bensì un naturale splendore simile a quello post-bagno, un'intima serenità e quel senso di straordinarietà tipico delle sorgenti termali di notte. Senza isolare il personaggio, fondere in una sola scena armoniosa i vapori caldi, la pietra, la superficie dell'acqua, l'architettura in legno e le calde luci.
+
+【Luogo, sfondo e atmosfera】
+Un bagno all'aperto situato in un ryokan termale di alto livello tra i monti. La vasca è delimitata da pietre naturali, circondata da un pavimento in pietra bagnata, pilastri in legno, una staccionata di bambù e bassa vegetazione. Al bordo della vasca è presente una piccola bocchetta da cui sgorga silenziosamente acqua termale trasparente, generando sottili increspature sulla superficie.
+Sullo sfondo sono sparse lanterne andon dai toni caldi e punti di luce indiretta, e ancora più indietro si scorgono il profilo scuro dei crinali montuosi e minuscole luci in lontananza. Lo sfondo non deve risultare eccessivamente spoglio, mantenendo la profondità e l'atmosfera vissuta tipiche del rotenburo di un vero ryokan.
+
+【Stagione, orario e meteo】
+La stagione è il primo autunno, dall'aria piacevolmente fresca. L'orario è notturno, dopo il tramonto, con un profondo blu notte che persiste nel cielo. Il vento è debole e l'aria esterna è leggermente frizzante, mentre dalla superficie dell'acqua sale un vapore delicato.
+Una notte serena, senza pioggia né neve. Far aleggiare naturalmente un leggero vapore attorno alla persona e sullo sfondo, così da rendere percepibile la differenza di temperatura tra l'aria quieta e l'acqua calda.
+
+【Caratterizzazione del personaggio】
+Una donna giapponese chiaramente adulta, di età compresa tra i 20 e i 28 anni. Tratti del viso morbidi, armoniosi e maturi, con occhi scuri leggermente grandi, sopracciglia naturali, ponte nasale sottile e labbra dal colorito sano. Capelli castano scuro lunghi fino alle spalle, leggermente umidi per via del bagno, con sottili ciocche ribelli posate sulle guance e sul collo.
+Pelle chiara dai toni ocra, che mantiene sfumature delicate e una naturale luminosità rosea. Spalle e arti relativamente snelli, vita sottile e curve femminili in armonia, a definire una figura naturalmente procace. Il seno presenta un volume naturale e chiaramente generoso, esprimendo una morbida rotondità e una tridimensionalità conforme alla gravità.
+
+【Abbigliamento e accessori】
+Un telo da bagno bianco, spesso e pulito, avvolto intorno al corpo dal petto fino alla parte superiore delle cosce. Il telo copre accuratamente il busto, con larghezza e lunghezza sufficienti per seguire senza forzature le forme generose.
+Il tessuto è morbida spugna di cotone, che mostra con naturalezza la differenza di texture tra le zone asciutte e quelle leggermente inumidite da vapore e gocce d'acqua. Vestibilità realistica, che non stringe eccessivamente su seno o fianchi e non si solleva in modo innaturale dal corpo. Nessun accessorio, privilegiando la semplicità autentica delle terme.
+
+【Posa, movimento e sguardo】
+Immersa nell'acqua termale fino all'altezza delle ginocchia, con il corpo quasi frontale rispetto alla fotocamera o appena di tre quarti. Il baricentro poggia naturalmente sulla gamba posteriore, mentre quella anteriore è leggermente avanzata, creando una postura da cui si propagano piccole onde sull'acqua.
+La mano sinistra è posata con delicatezza sul bordo di una grande pietra a lato del corpo, trasmettendo la giusta forza naturale per reggersi. La mano destra sfiora leggermente il lato del telo. Il busto si protende appena in avanti, senza inarcare esageratamente la schiena; spalle e petto sono aperti con naturalezza. Lo sguardo è rivolto dritto verso l'obiettivo.
+
+【Espressione ed emozione】
+Un sorriso dolce e appena timido, come se avesse davanti a sé una persona cara. Non un sorriso forzato che alza solo gli angoli della bocca, ma un'espressione distesa che addolcisce anche occhi e guance.
+Il viso è leggermente inclinato, con alcune ciocche umide che ricadono sulla guancia. Esprimere un'intima naturalezza, come nel momento in cui ci si accorge all'improvviso della fotocamera mentre si gode la quiete delle terme notturne.
+
+【Composizione e inquadratura】
+Composizione verticale 4:5 pensata per i post su X. Il soggetto è inquadrato con naturalezza dalla sommità del capo fin sotto le ginocchia, posizionato leggermente decentrato per mostrare dal lato opposto la bocchetta d'acqua del bagno all'aperto e le luci. Punto di ripresa ad altezza tra petto e bocca dello stomaco, con una linea visiva quasi orizzontale rispetto alla persona.
+Distanza di ripresa media. Angolo di campo naturale da obiettivo standard a medio teleobiettivo (circa 50–70 mm), evitando distorsioni grandangolari su viso o corpo. Sfondo leggermente sfocato, pur conservando una profondità di campo sufficiente a distinguere la vasca in pietra, la staccionata di bambù, la struttura in legno e le lanterne andon.
+
+【Luce, colore, texture e atmosfera】
+La sorgente luminosa principale è costituita dalle lanterne andon a luce calda e dall'illuminazione indiretta situate diagonalmente davanti al soggetto. Proiettano una luce dorata e morbida su viso, spalle, décolleté e braccia, compensata in modo naturale sul lato opposto dai deboli riflessi della superficie dell'acqua e delle pietre. Ombre morbide per preservare la profondità notturna.
+Sulla pelle si notano gocce d'acqua, un lieve rossore naturale e una delicata grana dei pori; sui capelli è evidente l'effetto a ciocche bagnate con piccoli ciuffi sciolti. Il telo bianco rivela una morbida trama di fibre, la pietra una lucentezza umida e opaca, e l'acqua sottili onde che riflettono la luce. L'unione tra la luce calda e il paesaggio notturno blu scuro crea un'atmosfera in cui convivono serenità, calore e una raffinata sensualità.
+
+【Qualità ed elementi da escludere】
+Massima cura per alta risoluzione, anatomia umana naturale, prospettiva realistica, nonché resa di luce e materiali paragonabile a quella di una fotocamera reale. Evitare soggetti dall'aspetto minorenne, tratti somatici troppo infantili, articolazioni innaturali, torsioni corporee forzate, arti o dita in eccesso, dita mancanti, dita fuse o confusione tra mano destra e sinistra.
+Evitare difetti visivi nel telo, fusione con il corpo, solchi innaturali o nudità involontaria. Mantenendo il volume naturale e generoso del seno, evitare dimensioni gigantesche, forme sferiche rigide, sollevamenti anomali o sagome che sfidano la gravità. Escludere distorsioni estreme da grandangolo, pelle eccessivamente ritoccata, sfondi artificiali, scritte, loghi, watermark ed elementi di interfaccia grafica.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2232,20 +2272,20 @@ Traduzione in corso
 
 <a name="prompt-2098688508827512874"></a>
 
-### Traduzione in corso
+### Video di animali che combattono in un fiume.
 
 Autore：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Post originale](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
 
 Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Video di animali che combattono in un fiume.
 
 <img src="covers/2098688508827512874.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Si prega di leggere un video di animali che combattono nel fiume
 ```
 
 [↑ Torna alle categorie](#catalog)

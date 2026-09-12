@@ -187,20 +187,60 @@ Tránh nhân vật trông như vị thành niên hoặc khuôn mặt quá non n�
 
 <a name="prompt-2098636922742595944"></a>
 
-### Đang dịch
+### Lời nhắc hình ảnh chân thực về người phụ nữ Nhật Bản quấn khăn tắm trắng đặt tay lên bờ đá trong bồn tắm lộ thiên ban đêm.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098636922742595944)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc hình ảnh chân thực về người phụ nữ Nhật Bản quấn khăn tắm trắng đặt tay lên bờ đá trong bồn tắm lộ thiên ban đêm.
 
 <img src="images/2098636922742595944-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Bồn tắm ngoài trời đêm trăng｜Khăn tắm trắng và làn khói khoáng🌟
+
+【Chủ đề・Phong cách nghệ thuật】
+Lấy bối cảnh là bồn tắm lộ thiên (rotenburo) vào ban đêm, khắc họa khoảnh khắc một người phụ nữ Nhật Bản trưởng thành quấn khăn tắm màu trắng quanh người, từ dưới nước đặt tay lên bờ đá và nhìn về phía này. Dựa trên phong cách ảnh chân thực, tạo nên biểu cảm nhiếp ảnh tinh tế nằm giữa quảng cáo của ryokan suối nước nóng cao cấp, khu nghỉ dưỡng spa và một tập sách ảnh.
+Không phô trương nét gợi cảm lộ liễu, mà chú trọng vào vẻ quyến rũ tự nhiên như vừa tắm xong, sự thân mật tĩnh lặng và cảm giác thoát ly hiện thực đặc trưng của suối nước nóng ban đêm. Không tách rời nhân vật đơn lẻ, mà hòa quyện cả làn khói khoáng, đá, mặt nước, kiến trúc gỗ cho đến ánh đèn ấm áp thành một khung cảnh hoàn chỉnh.
+
+【Địa điểm・Bối cảnh・Thế giới quan】
+Bồn tắm lộ thiên ngoài trời tại một ryokan suối nước nóng cao cấp giữa thung lũng núi. Bồn tắm được bao bọc bởi đá tự nhiên, xung quanh bài trí sàn đá ướt nước, cột gỗ, hàng rào tre và cây cảnh thấp. Ở mép bồn tắm có một máng dẫn suối nước nóng nhỏ, dòng nước khoáng trong vắt chảy vào êm đềm tạo nên những gợn sóng lăn tăn trên mặt nước.
+Phía sau điểm xuyết những chiếc đèn lồng andon và ánh sáng gián tiếp mang tông màu ấm, xa hơn nữa có thể thấy đường sống núi mờ tối và vài đốm sáng le lói từ cảnh xa. Bối cảnh không quá chỉnh chu gượng ép, giữ lại chiều sâu và cảm giác sinh hoạt chân thực của một bồn tắm lộ thiên tại ryokan có thật.
+
+【Mùa・Thời gian・Thời tiết】
+Mùa là đầu thu với tiết trời se lạnh. Thời gian là ban đêm sau khi mặt trời lặn, bầu trời còn vương sắc xanh thẫm. Gió nhẹ, không khí bên ngoài hơi lạnh, trong khi từ mặt nước lại bốc lên làn khói khoáng mềm mại.
+Đêm tĩnh lặng không mưa không tuyết. Thả làn hơi nước mỏng manh lượn lờ tự nhiên quanh nhân vật và bối cảnh để cảm nhận được sự chênh lệch nhiệt độ giữa không khí tĩnh mịch và dòng nước ấm áp.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản trưởng thành rõ ràng, khoảng 20 đến 28 tuổi. Gương mặt người lớn thanh tú, dịu dàng, mắt đen hơi to, lông mày tự nhiên, sống mũi thon gọn, đôi môi hồng hào. Mái tóc màu nâu trầm dài ngang vai, hơi ẩm do ngâm mình trong nước, có những sợi tóc con vương nhẹ trên má và cổ.
+Làn da màu trắng sáng tự nhiên (ochre sáng), giữ lại những vùng bóng đổ tinh tế và sắc hồng tự nhiên. Vai và tay chân tương đối thon thả, vóc dáng đẫy đà tự nhiên hài hòa với vòng eo thon gọn cùng những đường cong nữ tính. Vòng một căng đầy tự nhiên rõ rệt, thể hiện độ tròn mềm mại và khối ba chiều thuận theo trọng lực.
+
+【Trang phục・Phụ kiện】
+Kiểu quấn khăn tắm màu trắng sạch sẽ, dày dặn, che từ ngực đến gần phía trên đùi. Khăn che chắn kín đáo phần ngực, có độ rộng và dài vừa vặn để ôm theo thân hình đẫy đà một cách tự nhiên mà không gò bó.
+Chất liệu vải bông cotton mềm mại, thể hiện tự nhiên sự khác biệt về kết cấu giữa phần khô ráo và phần hơi ẩm do hơi nước cùng giọt nước đọng lại. Độ ôm thực tế, không thắt quá chặt vào ngực hay eo, không bị phồng lên bất thường khỏi cơ thể. Không đeo phụ kiện, ưu tiên nét mộc mạc đặc trưng khi đi tắm suối nước nóng.
+
+【Tư thế・Hành động・Ánh mắt】
+Ngâm mình trong suối nước nóng tới gần đầu gối, thân người hướng gần như trực diện về phía máy ảnh nhưng hơi nghiêng nhẹ. Trọng tâm dồn tự nhiên vào chân phía sau, chân phía trước đưa nhẹ lên phía trước tạo nên những gợn sóng nhỏ lan tỏa trên mặt nước.
+Tay trái đặt nhẹ lên gờ đá lớn bên cạnh người, tạo cảm giác dùng lực tự nhiên vừa đủ để đỡ cơ thể. Tay phải chạm nhẹ vào phần hông của khăn tắm. Thân trên hơi nhoài nhẹ về phía trước nhưng không ưỡn lưng quá mức, vai và ngực mở tự nhiên. Ánh mắt nhìn thẳng vào máy ảnh.
+
+【Biểu cảm・Cảm xúc】
+Nụ cười mỉm dịu dàng phảng phất chút e thẹn như thể đang đối diện với người thân thiết. Không phải nụ cười gượng chỉ nhếch mép, mà ánh mắt và gò má cũng giãn ra mềm mại.
+Gương mặt hơi nghiêng nhẹ, vài sợi tóc ướt buông lơi trên má. Thể hiện sự thân mật tự nhiên như khoảnh khắc chợt nhận ra ống kính máy ảnh trong khi đang tận hưởng dòng suối nước nóng trong đêm tĩnh lặng.
+
+【Bố cục・Máy ảnh】
+Bố cục dọc tỷ lệ 4:5 phù hợp cho bài đăng trên X. Đặt nhân vật tự nhiên từ đỉnh đầu đến dưới đầu gối, bố trí thân người hơi lệch sang một bên so với tâm khung hình để phía đối diện để lộ máng dẫn nước và ánh đèn của bồn tắm ngoài trời. Vị trí đặt máy ngang tầm ngực đến chấn thủy, góc nhìn gần như song song ngang tầm mắt nhân vật.
+Khoảng cách chụp trung bình. Sử dụng tiêu cự tương đương chuẩn đến tele tầm trung khoảng 50-70mm tự nhiên, không làm biến dạng khuôn mặt hay cơ thể bằng góc rộng. Hậu cảnh làm mờ nhẹ nhưng vẫn giữ độ sâu trường ảnh đủ để phân biệt được bồn đá, hàng rào tre, kiến trúc gỗ và đèn lồng andon.
+
+【Ánh sáng・Màu sắc・Chất liệu・Bầu không khí】
+Nguồn sáng chính là đèn lồng andon tông ấm và ánh sáng gián tiếp đặt chéo phía trước nhân vật. Tỏa ánh sáng vàng dịu nhẹ lên khuôn mặt, vai, ngực và cánh tay; phía đối diện được bù sáng tự nhiên bằng ánh phản chiếu nhẹ từ mặt nước và đá. Bóng đổ không bị gắt, giữ lại chiều sâu của màn đêm.
+Trên da đọng lại những giọt nước, sắc hồng tinh tế và lỗ chân lông nhẹ nhàng; mái tóc thể hiện lọn ướt và sợi tóc con bay nhẹ. Khăn tắm trắng mang chất liệu sợi mềm mại, đá có độ bóng mờ do ướt nước, mặt nước phản chiếu ánh đèn với những gợn sóng li ti. Kết hợp giữa ánh sáng ấm áp và cảnh đêm màu xanh thẫm, tạo nên bầu không khí nơi sự tĩnh mịch, hơi ấm và nét quyến rũ tao nhã cùng tồn tại.
+
+【Chất lượng・Yếu tố loại trừ】
+Ưu tiên độ phân giải cao, giải phẫu cơ thể tự nhiên, phối cảnh chân thực, ánh sáng và chất liệu như được chụp bằng máy ảnh thực tế. Tránh tạo hình nhân vật trông vị thành niên, gương mặt quá non nớt, khớp xương hoặc cơ thể vặn vẹo bất thường, thừa tay chân hay ngón tay, thiếu ngón tay, dính ngón, nhầm lẫn tay trái phải.
+Tránh lỗi khăn tắm biến dạng, hợp nhất vào cơ thể, siết chặt bất thường, hở hang ngoài ý muốn. Vòng một giữ kích thước đầy đặn tự nhiên, không biến dạng khổng lồ, không thành khối cầu cứng đơ, không độn đẩy bất thường hay thách thức trọng lực. Không có hiện tượng méo góc rộng cực đoan, không làm mịn da quá đà, không có bối cảnh bất tự nhiên, không chứa chữ, logo, watermark, hiển thị giao diện UI.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2277,20 +2317,20 @@ Tác giả：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Bài gốc](h
 
 <a name="prompt-2098688508827512874"></a>
 
-### Đang dịch
+### Video động vật đánh nhau ở bờ sông.
 
 Tác giả：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Bài gốc](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
 
 Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Video động vật đánh nhau ở bờ sông.
 
 <img src="covers/2098688508827512874.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vui lòng đọc một video về động vật đánh nhau ở bờ sông
 ```
 
 [↑ Về danh mục](#catalog)

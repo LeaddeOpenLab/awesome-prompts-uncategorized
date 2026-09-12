@@ -187,20 +187,60 @@ Evitar pessoa com aparência menor de idade ou rosto excessivamente infantil, an
 
 <a name="prompt-2098636922742595944"></a>
 
-### Tradução em andamento
+### Prompt de imagem fotorrealista de uma mulher japonesa em um banho ao ar livre à noite, enrolada em uma toalha de banho branca e com a mão apoiada na borda de pedra.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098636922742595944)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de imagem fotorrealista de uma mulher japonesa em um banho ao ar livre à noite, enrolada em uma toalha de banho branca e com a mão apoiada na borda de pedra.
 
 <img src="images/2098636922742595944-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟 Banho ao ar livre sob a lua | Toalha de banho branca e vapor de água termal 🌟
+
+【Tema e Estilo Artístico】
+Com um banho ao ar livre (rotenburo) à noite como cenário, retrata o momento em que uma mulher japonesa adulta, enrolada em uma toalha de banho branca, apoia a mão na borda de pedra da água e olha para cá. A abordagem básica é fotorrealista, buscando uma expressão fotográfica sofisticada, situada a meio caminho entre um anúncio de um ryokan de águas termais de alto padrão ou resort de spa e um fotolivro.
+Em vez de um apelo sensual explícito, valoriza-se o viço natural de quem acabou de se banhar, uma intimidade silenciosa e a atmosfera extraordinária única das termas noturnas. A personagem não é isolada; o vapor, as pedras, a superfície da água, a arquitetura de madeira e a iluminação acolhedora compõem juntos um único cenário harmonioso.
+
+【Localização, Cenário e Visão de Mundo】
+Um banho ao ar livre em um ryokan de águas termais de alta qualidade nas montanhas. A banheira é cercada por pedras naturais, ladeada por um piso de pedra molhada, pilares de madeira, cercas de bambu e vegetação baixa. Na borda da banheira há uma pequena bica d'água termal, de onde a água cristalina corre suavemente, criando finas ondulações na superfície.
+Ao fundo, lanternas andon e iluminação indireta de tons quentes estão espalhadas; mais além, avistam-se as silhuetas escuras das montanhas e luzes muito sutis e distantes. O fundo não é excessivamente estilizado, mantendo a profundidade e a sensação de vida autêntica de um banho ao ar livre de ryokan real.
+
+【Estação, Horário e Clima】
+A estação é o início do outono, com uma agradável sensação de frescor. O horário é a noite logo após o pôr do sol, com um azul-marinho profundo ainda remanescente no céu. O vento é brando e o ar externo é levemente frio, enquanto uma suave névoa de vapor sobe da superfície da água quente.
+Uma noite tranquila, sem chuva ou neve. Um vapor sutil paira naturalmente ao redor da mulher e no cenário de fundo, evidenciando o contraste térmico entre o ar fresco e a água quente.
+
+【Perfil da Personagem】
+Uma mulher japonesa claramente adulta, de aproximadamente 20 a 28 anos. Traços faciais maduros, suaves e bem delineados, com olhos castanho-escuros ligeiramente grandes, sobrancelhas naturais, ponte nasal fina e lábios com boa circulação e cor saudável. Cabelos castanho-escuros na altura dos ombros, ligeiramente úmidos pelo banho, com mechas finas e soltas grudadas suavemente nas bochechas e no pescoço.
+Pele em tom ocre claro, preservando sombras detalhadas e rubor natural. Ombros e membros relativamente delicados, com uma cintura fina e curvas femininas harmoniosas em um corpo naturalmente glamouroso. O decote apresenta um volume claramente farto e natural, expressando arredondamento suave e tridimensionalidade que respeita a gravidade.
+
+【Traje e Acessórios】
+Estilo envolto com uma toalha de banho branca, grossa e impecável, enrolada no corpo do busto até a altura da parte superior das coxas. A toalha cobre bem o busto, tendo largura e comprimento suficientes para se ajustar confortavelmente e sem esforço à sua silhueta curvilínea.
+O material é felpudo de algodão macio, retratando com naturalidade a diferença de textura entre as partes secas e as áreas ligeiramente umedecidas pelo vapor e pelas gotículas de água. O ajuste é realista, sem apertar exageradamente o peito ou os quadris e sem flutuar de forma artificial longe do corpo. Sem acessórios, priorizando a simplicidade típica de uma estadia em fontes termais.
+
+【Pose, Ação e Olhar】
+Imersa nas águas termais até a altura dos joelhos, o corpo está praticamente de frente para a câmera, com uma leve angulação diagonal. O peso do corpo repousa naturalmente sobre a perna de trás, enquanto a perna da frente se projeta ligeiramente para a frente, gerando pequenas ondulações na superfície da água.
+A mão esquerda repousa suavemente sobre a grande borda de pedra ao lado do corpo, transmitindo a força natural de quem apenas apoia o equilíbrio. A mão direita toca de leve a lateral da toalha. A parte superior do tronco inclina-se sutilmente para a frente, mas sem arquear a lombar de forma extrema, mantendo os ombros e o colo abertos com naturalidade. O olhar dirige-se diretamente para a câmera.
+
+【Expressão e Emoção】
+Um sorriso suave, com um leve toque de timidez, como se estivesse diante de alguém muito próximo. Não é um sorriso forçado apenas erguendo os cantos da boca, mas sim uma expressão em que a área dos olhos e as bochechas também se suavizam calorosamente.
+A cabeça está ligeiramente inclinada, com alguns fios de cabelo molhado caindo sobre a bochecha. Transmite uma intimidade espontânea, como o momento exato em que ela nota a câmera enquanto aproveita a calma da fonte termal noturna.
+
+【Composição e Câmera】
+Composição vertical de proporção 4:5 para postagem no X. A personagem é enquadrada naturalmente do topo da cabeça até um pouco abaixo dos joelhos, com o corpo posicionado ligeiramente para um dos lados em relação ao centro da tela, revelando a bica de água termal e as luminárias do outro lado. A altura da câmera situa-se entre o peito e a boca do estômago, mantendo uma linha de visão praticamente nivelada com a mulher.
+A distância de captura é média. Ângulo de visão natural baseado em uma lente padrão a meia-teleobjetiva (cerca de 50 a 70 mm), sem distorções de grande-angular no rosto ou no corpo. O fundo é suavemente desfocado, mantendo uma profundidade de campo que ainda permite reconhecer a banheira de pedra, a cerca de bambu, a estrutura de madeira e as lanternas andon.
+
+【Iluminação, Cor, Textura e Atmosfera】
+A fonte de luz principal consiste em lanternas andon de tom quente e iluminação indireta posicionadas diagonalmente à frente da personagem. Uma luz dourada e suave ilumina o rosto, ombros, colo e braços, enquanto o lado oposto é complementado de forma natural por reflexos fracos vindos da água e das pedras. As sombras não são duras, preservando a profundidade típica da noite.
+A pele exibe gotículas de água, um rubor delicado e textura sutil de poros; os cabelos mostram mechas molhadas e fios soltos. A toalha branca apresenta a textura macia das fibras, as pedras mostram um brilho opaco por estarem molhadas, e a superfície da água reflete as luzes em pequenas ondulações. A combinação da luz quente com a paisagem noturna azul-marinho cria uma atmosfera em que serenidade, calor e uma sensualidade requintada coexistem.
+
+【Qualidade e Elementos a Excluir】
+Valoriza-se alta resolução, anatomia humana natural, perspectiva realista e sensação de luz e textura como se tivesse sido capturada por uma câmera real. Evitar aparência de pessoa menor de idade, traços excessivamente infantis, articulações anormais, torções corporais artificiais, membros ou dedos extras, dedos faltando, dedos fundidos e confusão entre mãos esquerda e direita.
+Evitar falhas na toalha, fusão dela com o corpo, aperto excessivo irreal ou nudez não intencional. O busto deve manter um volume natural e farto, evitando proporções gigantescas, formas esféricas rígidas, sustentação anormal e formatos que desafiem a gravidade. Sem distorções extremas de grande-angular, alisamento excessivo de pele artificial, cenários irreais, textos, logotipos, marcas d'água ou elementos de interface.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2249,20 +2289,20 @@ Tradução em andamento
 
 <a name="prompt-2098688508827512874"></a>
 
-### Tradução em andamento
+### Vídeo de animais brigando em um rio.
 
 Autor：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Publicação original](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
 
 Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Vídeo de animais brigando em um rio.
 
 <img src="covers/2098688508827512874.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Por favor, leia um vídeo de animais brigando no rio
 ```
 
 [↑ Voltar às categorias](#catalog)

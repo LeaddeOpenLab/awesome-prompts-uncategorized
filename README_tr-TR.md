@@ -187,20 +187,60 @@ Reşit görünmeyen kişiler veya aşırı çocuksu yüzler, yapay/anormal anato
 
 <a name="prompt-2098636922742595944"></a>
 
-### Çeviri sürüyor
+### Gece vakti açık hava kaplıcasında beyaz banyo havlusuna sarınmış, elini taş kenara koyan Japon bir kadının fotogerçekçi görsel istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098636922742595944)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece vakti açık hava kaplıcasında beyaz banyo havlusuna sarınmış, elini taş kenara koyan Japon bir kadının fotogerçekçi görsel istemi.
 
 <img src="images/2098636922742595944-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟 Ay Işığında Açık Hava Kaplıcası | Beyaz Banyo Havlusu ve Sıcak Su Buharı 🌟
+
+【Konu ve Sanat Tarzı】
+Gece vakti açık hava kaplıcasında (rotenburo), vücuduna beyaz bir banyo havlusu sarmış yetişkin bir Japon kadının, suyun içinden taş kenara elini koyup buraya baktığı anı resmedin. Temel olarak fotogerçekçi; lüks bir kaplıca ryokanının veya spa merkezinin reklamı ile bir fotoğraf albümü arasında, rafine bir fotoğrafik ifade yakalayın.
+Aşırı veya kaba bir çekicilik yerine, banyodan yeni çıkmışçasına doğal bir tazelik ve parlaklık, dingin bir samimiyet ve gece kaplıcasına özgü olağanüstü atmosferi ön planda tutun. Karakteri arka plandan soyutlamadan; su buharı, taşlar, su yüzeyi, ahşap mimari ve sıcak aydınlatmayı tek bir uyumlu sahne olarak oluşturun.
+
+【Mekan, Arka Plan ve Atmosfer】
+Dağlar arasındaki seçkin bir kaplıca ryokanında yer alan açık hava banyosu. Havuz doğal taşlarla çevrilidir; etrafında ıslak taş zemin, ahşap sütunlar, bambu çitler ve alçak bitki örtüsü yer alır. Havuzun kenarında küçük bir kaplıca su çıkışı bulunur; berrak kaplıca suyu buradan sessizce dökülerek su yüzeyinde ince dalgalanmalar yaratır.
+Arka planda sıcak tonlu andon fenerleri ve dolaylı aydınlatmalar serpiştirilmiştir; daha uzakta ise dağların karanlık silüetleri ve çok uzaktaki belli belirsiz ışıklar seçilir. Arka plan aşırı yalınlaştırılmamalı, gerçek bir ryokanın açık hava banyosuna özgü derinlik ve yaşanmışlık hissini korumalıdır.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim serinliğin hissedildiği erken sonbahardır. Zaman gün batımından sonraki gece vaktidir ve gökyüzünde derin bir lacivert tonu hakimdir. Rüzgar hafiftir, dış hava biraz serindir; sıcak su yüzeyinden ise yumuşak bir su buharı yükselir.
+Yağmur veya karın olmadığı dingin bir gece. Serin hava ile sıcak suyun sıcaklık farkını hissettirecek şekilde, karakterin etrafında ve arka planda hafif bir buhar doğal bir biçimde süzülür.
+
+【Karakter Özellikleri】
+20-28 yaşlarında, açıkça yetişkin bir Japon kadın. Yumuşak ve muntazam hatlara sahip olgun bir yüz; hafif iri koyu renk gözler, doğal kaşlar, zarif bir burun kemeri ve canlı, sağlıklı dudaklar. Omuz hizasındaki koyu kahverengi saçları banyodan dolayı hafifçe nemlidir; yanaklarına ve boynuna ince saç telleri zarifçe yapışmıştır.
+Açık aşıboyası tonunda, ince gölgeleri ve doğal canlılığını koruyan bir ten. Omuzlar ve uzuvlar nispeten zariftir; ince bir bel ile kadınsı kıvrımların uyum içinde olduğu doğal ve çekici bir vücut yapısı. Göğüs bölgesinde belirgin, dolgun ve doğal bir hacim olmalı; yerçekimine uygun yumuşak bir yuvarlaklık ve üç boyutluluk sergilenmelidir.
+
+【Kıyafet ve Aksesuarlar】
+Göğüs hizasından uyluğun üst kısımlarına kadar vücuda sarılmış, kalın ve tertemiz beyaz bir banyo havlusu. Havlu göğüs bölgesini tamamen kapatmalı, dolgun vücut hatlarına zorlanmadan uyum sağlayacak yeterli genişlik ve uzunlukta olmalıdır.
+Malzemesi yumuşak pamuklu havlu kumaşıdır; kuru kısımlar ile buhar ve su damlacıklarıyla hafifçe nemlenmiş bölgelerin doku farkı doğal bir şekilde yansıtılmalıdır. Göğüs veya basen kısmını aşırı derecede sıkmayan ve vücuttan yapay bir şekilde havada durmayan gerçekçi bir oturuşa sahip olmalıdır. Hiçbir aksesuar takılmamalı, kaplıcanın sade doğallığına öncelik verilmelidir.
+
+【Duruş, Hareket ve Bakış】
+Dizlerine kadar kaplıca suyuna batmış durumda, vücudu kameraya neredeyse cepheden veya çok hafif çapraz açılıdır. Vücut ağırlığı doğal olarak arkadaki bacağa verilmiş, öndeki bacak hafifçe ileri uzatılarak su yüzeyinde küçük dalgalar oluşturan bir duruş sergilenir.
+Sol el, vücudun yanındaki büyük taş kenara hafifçe yaslanmış, yalnızca bedeni dengeleyecek kadar doğal bir güç hissi verir. Sağ el ise havlunun yan kısmına hafifçe dokunur. Gövdenin üst kısmı hafifçe öne doğru eğilmiştir ancak bel aşırı kavis yapmaz, omuzlar ve göğüs bölgesi doğal bir biçimde açıktır. Bakışları doğrudan kameraya yöneliktir.
+
+【İfade ve Duygu】
+Karşısında çok yakın biri varmış gibi, hafif bir mahcubiyet içeren huzurlu ve ılık bir gülümseme. Yalnızca dudak kenarlarının yukarı kalktığı yapmacık bir tebessüm değil, göz çevresi ve yanakların da yumuşadığı içten bir ifade.
+Başı hafifçe yana eğiktir ve ıslak saçlardan birkaç tel yanağına düşmüştür. Sessiz gece kaplıcasının keyfini çıkarırken aniden kamerayı fark etmiş gibi doğal bir samimiyet yansıtılır.
+
+【Kompozisyon ve Kamera】
+X (Twitter) paylaşımlarına uygun 4:5 dikey kompozisyon. Karakter başın tepesinden diz altına kadar doğal bir kadrajla yerleştirilir; vücut ekranın merkezinden hafifçe bir kenara alınarak diğer tarafta açık hava banyosunun su çıkışı ve ışıkları gösterilir. Kamera açısı göğüs ile mide boşluğu hizasında olup karakterle neredeyse yatay bir göz seviyesindedir.
+Çekim mesafesi orta mesafedir. 50-70 mm civarında standart ile orta telefoto arası doğal bir odak uzaklığı varsayılır; yüz veya vücutta geniş açı bozulmaları yaratılmaz. Arka plan hafifçe bulanıklaştırılırken taş havuz, bambu çit, ahşap mimari ve andon fenerlerin seçilebileceği dengeli bir alan derinliği korunur.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, karakterin çapraz önünde bulunan sıcak tonlu andon fenerleri ve dolaylı aydınlatmadır. Yüze, omuzlara, dekolteye ve kollara yumuşak altın sarısı bir ışık düşerken, diğer taraf su yüzeyi ve taşlardan gelen zayıf yansımalarla doğal bir şekilde aydınlatılır. Gölgeler sertleştirilmez, geceye özgü derinlik korunur.
+Ten üzerinde minik su damlaları, ince pembeleşmeler ve gözenek dokusu hafifçe sezilir; saçlarda ıslak tutamlar ve ince teller belirgindir. Beyaz havlunun yumuşak lif dokusu, taşların ıslak ve mat parlaklığı, su yüzeyinin ışığı yansıtan ince dalgaları detaylandırılır. Sıcak ışık ile lacivert gece manzarasının buluşması; dinginlik, sıcaklık ve zarif bir çekiciliğin bir arada olduğu bir atmosfer yaratır.
+
+【Kalite ve Hariç Tutulacak Unsurlar】
+Yüksek çözünürlük, doğal insan anatomisi, gerçekçi perspektif ve sanki gerçek bir kamerayla çekilmiş gibi ışık ve malzeme dokusu hedeflenir. Reşit görünmeyen kişiler, aşırı çocuksu yüz hatları, doğal olmayan eklem ve vücut bükülmeleri, fazla uzuv ve parmaklar, eksik veya birleşik parmaklar, sol ve sağ elin karışması durumlarından kaçınılmalıdır.
+Havluda doku bozulmaları, havlunun vücutla kaynaşması, aşırı dar yapay sıkışmalar ve istenmeyen açılmalar engellenmelidir. Göğüs bölgesi doğal dolgunluğunu korumalı; devasa boyutlara, sert küresel şekillere, yapay dikleştirmelere ve yerçekimine aykırı formlara yer verilmemelidir. Aşırı geniş açı bükülmeleri, yapay pürüzsüzleştirme filtreleri, gerçek dışı arka planlar, yazılar, logolar, filigranlar ve arayüz ögeleri bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2249,20 +2289,20 @@ Hayvan / Yaratık · Yayımlandı
 
 <a name="prompt-2098688508827512874"></a>
 
-### Çeviri sürüyor
+### Nehirde dövüşen hayvanların videosu.
 
 Yazar：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Orijinal gönderi](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
 
 Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Nehirde dövüşen hayvanların videosu.
 
 <img src="covers/2098688508827512874.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Lütfen nehirde dövüşen hayvanların videosunu okuyun
 ```
 
 [↑ Kategorilere dön](#catalog)
