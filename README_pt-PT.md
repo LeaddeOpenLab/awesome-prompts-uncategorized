@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**130** Prompts · Adição mais recente: **2026-09-12**
+**134** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1044,6 +1044,50 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098806415666077809"></a>
+
+### Tradução em curso
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicação original](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Fotografia · Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098806415666077809-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Tradução em curso
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicação original](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098788910432129114-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098780787936223258"></a>
 
@@ -2415,6 +2459,50 @@ Tradução em curso
 
 ## Outros
 
+<a name="prompt-2098812771970478304"></a>
+
+### Tradução em curso
+
+Autor：[@vivekberi526430](https://x.com/vivekberi526430) · [Publicação original](https://x.com/vivekberi526430/status/2098812771970478304)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098812771970478304.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098792103073476716"></a>
+
+### Tradução em curso
+
+Autor：[@RenRose321](https://x.com/RenRose321) · [Publicação original](https://x.com/RenRose321/status/2098792103073476716)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098792103073476716-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098790612799545375"></a>
 
 ### Tradução em curso
@@ -2461,7 +2549,7 @@ Tradução em curso
 
 <a name="prompt-2098787760526205303"></a>
 
-### Tradução em curso
+### Retrato de estúdio de uma mulher em trajes tradicionais de casamento chinês, fundo vermelho e adorno de cabeça em coroa floral elaborado.
 
 Autor：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2098787760526205303)
 
@@ -2469,7 +2557,7 @@ Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 
 Publicação original：[@nicebabycat](https://x.com/nicebabycat) · [Publicação original](https://x.com/nicebabycat/status/2098669781750878509)
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de estúdio de uma mulher em trajes tradicionais de casamento chinês, fundo vermelho e adorno de cabeça em coroa floral elaborado.
 
 <img src="images/2098787760526205303-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2490,7 +2578,7 @@ Publicação original：[@nicebabycat](https://x.com/nicebabycat) · [Publicaç�
 **Prompt**
 
 ```text
-Tradução em curso
+um retrato de estúdio detalhado de uma mulher em trajes tradicionais de casamento chinês contra um fundo vermelho liso. ela enverga um traje vermelho com bordados intrincados a dourado e azul. na cabeça, usa uma coroa grande e elaborada de flores artificiais vermelhas e brancas, peças de metal dourado e borlas de contas pendentes. o seu cabelo escuro e delicado emoldura-lhe o rosto, e a sua maquilhagem inclui batom vermelho bem definido. a sua mão esquerda está ligeiramente erguida perto do queixo. no canto superior direito, caracteres chineses dourados "幸廟在畫房" estão escritos na vertical.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**130** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**134** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1030,6 +1030,50 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098806415666077809"></a>
+
+### Übersetzung läuft
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Originalbeitrag](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Fotografie · Kinematisch / Filmstill · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098806415666077809-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Übersetzung läuft
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Originalbeitrag](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Kinematisch / Filmstill · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098788910432129114-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098780787936223258"></a>
 
@@ -2398,6 +2442,50 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
+<a name="prompt-2098812771970478304"></a>
+
+### Übersetzung läuft
+
+Autor：[@vivekberi526430](https://x.com/vivekberi526430) · [Originalbeitrag](https://x.com/vivekberi526430/status/2098812771970478304)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098812771970478304.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098792103073476716"></a>
+
+### Übersetzung läuft
+
+Autor：[@RenRose321](https://x.com/RenRose321) · [Originalbeitrag](https://x.com/RenRose321/status/2098792103073476716)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098792103073476716-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098790612799545375"></a>
 
 ### Übersetzung läuft
@@ -2444,7 +2532,7 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2098787760526205303"></a>
 
-### Übersetzung läuft
+### Studioporträt einer Frau in traditioneller chinesischer Hochzeitskleidung, roter Hintergrund und prächtiger Blumenkronen-Kopfschmuck.
 
 Autor：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2098787760526205303)
 
@@ -2452,7 +2540,7 @@ Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlic
 
 Originalbeitrag：[@nicebabycat](https://x.com/nicebabycat) · [Originalbeitrag](https://x.com/nicebabycat/status/2098669781750878509)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Studioporträt einer Frau in traditioneller chinesischer Hochzeitskleidung, roter Hintergrund und prächtiger Blumenkronen-Kopfschmuck.
 
 <img src="images/2098787760526205303-1.jpg" alt="Bild 1" width="480" />
 
@@ -2473,7 +2561,7 @@ Originalbeitrag：[@nicebabycat](https://x.com/nicebabycat) · [Originalbeitrag]
 **Prompt**
 
 ```text
-Übersetzung läuft
+ein detailliertes Studioporträt einer Frau in traditioneller chinesischer Hochzeitskleidung vor einem einfarbig roten Hintergrund. Sie trägt ein rotes Gewand mit komplexen goldenen und blauen Stickereien. Auf ihrem Kopf trägt sie eine große, kunstvolle Krone aus roten und weißen Kunstblumen, goldenen Metallarbeiten und hängenden Perlenquasten. Ihr dunkles, feines Haar umrahmt ihr Gesicht, und ihr Make-up umfasst einen definierten roten Lippenstift. Ihre linke Hand ist leicht nahe an ihr Kinn gehoben. In der oberen rechten Ecke sind goldene chinesische Schriftzeichen "幸廟在畫房" vertikal geschrieben.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

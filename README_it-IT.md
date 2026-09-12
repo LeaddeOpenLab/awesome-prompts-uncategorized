@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**130** Prompt · Ultima aggiunta: **2026-09-12**
+**134** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1030,6 +1030,50 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098806415666077809"></a>
+
+### Traduzione in corso
+
+Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098806415666077809-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Traduzione in corso
+
+Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098788910432129114-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098780787936223258"></a>
 
@@ -2398,6 +2442,50 @@ Traduzione in corso
 
 ## Altro
 
+<a name="prompt-2098812771970478304"></a>
+
+### Traduzione in corso
+
+Autore：[@vivekberi526430](https://x.com/vivekberi526430) · [Post originale](https://x.com/vivekberi526430/status/2098812771970478304)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098812771970478304.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098792103073476716"></a>
+
+### Traduzione in corso
+
+Autore：[@RenRose321](https://x.com/RenRose321) · [Post originale](https://x.com/RenRose321/status/2098792103073476716)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098792103073476716-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098790612799545375"></a>
 
 ### Traduzione in corso
@@ -2444,7 +2532,7 @@ Traduzione in corso
 
 <a name="prompt-2098787760526205303"></a>
 
-### Traduzione in corso
+### Ritratto in studio di una donna in abito da sposa tradizionale cinese, sfondo rosso e sontuoso copricapo a corona floreale.
 
 Autore：[@boniusex](https://x.com/boniusex) · [Post originale](https://x.com/boniusex/status/2098787760526205303)
 
@@ -2452,7 +2540,7 @@ Ritratto / Selfie · Personaggio · Abstract / Contesto · Pubblicato
 
 Post originale：[@nicebabycat](https://x.com/nicebabycat) · [Post originale](https://x.com/nicebabycat/status/2098669781750878509)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto in studio di una donna in abito da sposa tradizionale cinese, sfondo rosso e sontuoso copricapo a corona floreale.
 
 <img src="images/2098787760526205303-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2473,7 +2561,7 @@ Post originale：[@nicebabycat](https://x.com/nicebabycat) · [Post originale](h
 **Prompt**
 
 ```text
-Traduzione in corso
+un dettagliato ritratto in studio di una donna in abito da sposa tradizionale cinese contro uno sfondo rosso a tinta unita. indossa un abito rosso caratterizzato da complessi ricami dorati e blu. sul capo porta una grande ed elaborata corona di fiori artificiali rossi e bianchi, lavorazioni metalliche dorate e nappe di perline pendenti. i suoi capelli scuri e sottili le incorniciano il viso, e il suo trucco include un rossetto rosso definito. la sua mano sinistra è leggermente sollevata vicino al mento. nell'angolo in alto a destra, i caratteri cinesi dorati "幸廟在畫房" sono scritti verticalmente.
 ```
 
 [↑ Torna alle categorie](#catalog)

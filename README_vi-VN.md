@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**130** Prompt · Bổ sung mới nhất: **2026-09-12**
+**134** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1066,6 +1066,50 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098806415666077809"></a>
+
+### Đang dịch
+
+Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098806415666077809-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Đang dịch
+
+Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098788910432129114-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098780787936223258"></a>
 
@@ -2443,6 +2487,50 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
+<a name="prompt-2098812771970478304"></a>
+
+### Đang dịch
+
+Tác giả：[@vivekberi526430](https://x.com/vivekberi526430) · [Bài gốc](https://x.com/vivekberi526430/status/2098812771970478304)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098812771970478304.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098792103073476716"></a>
+
+### Đang dịch
+
+Tác giả：[@RenRose321](https://x.com/RenRose321) · [Bài gốc](https://x.com/RenRose321/status/2098792103073476716)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098792103073476716-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098790612799545375"></a>
 
 ### Đang dịch
@@ -2489,7 +2577,7 @@ Khác · Đã xuất bản
 
 <a name="prompt-2098787760526205303"></a>
 
-### Đang dịch
+### Chân dung studio người phụ nữ mặc trang phục cưới truyền thống Trung Quốc, phông nền đỏ và phụ kiện đội đầu hoa lộng lẫy.
 
 Tác giả：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2098787760526205303)
 
@@ -2497,7 +2585,7 @@ Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đ
 
 Bài gốc：[@nicebabycat](https://x.com/nicebabycat) · [Bài gốc](https://x.com/nicebabycat/status/2098669781750878509)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung studio người phụ nữ mặc trang phục cưới truyền thống Trung Quốc, phông nền đỏ và phụ kiện đội đầu hoa lộng lẫy.
 
 <img src="images/2098787760526205303-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2518,7 +2606,7 @@ Bài gốc：[@nicebabycat](https://x.com/nicebabycat) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+bức chân dung chụp trong studio chi tiết về một người phụ nữ trong trang phục cưới truyền thống của Trung Quốc trên phông nền màu đỏ trơn. cô ấy mặc một bộ trang phục màu đỏ có thêu hoa văn màu vàng kim và xanh lam tinh xảo. trên đầu cô là một chiếc vương miện lớn, tinh xảo kết bằng hoa giả màu đỏ và trắng, các chi tiết kim loại bằng vàng và những tua rua hạt cườm rủ xuống. mái tóc đen bồng bềnh ôm lấy khuôn mặt cô, và lớp trang điểm nổi bật với son môi đỏ sắc nét. tay trái cô hơi nâng lên gần cằm. ở góc trên bên phải, các chữ Hán màu vàng kim "幸廟在畫房" được viết theo chiều dọc.
 ```
 
 [↑ Về danh mục](#catalog)

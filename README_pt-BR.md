@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**130** Prompts · Última adição: **2026-09-12**
+**134** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1044,6 +1044,50 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098806415666077809"></a>
+
+### Tradução em andamento
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicação original](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Fotografia · Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098806415666077809-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Tradução em andamento
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicação original](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098788910432129114-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098780787936223258"></a>
 
@@ -2415,6 +2459,50 @@ Tradução em andamento
 
 ## Outros
 
+<a name="prompt-2098812771970478304"></a>
+
+### Tradução em andamento
+
+Autor：[@vivekberi526430](https://x.com/vivekberi526430) · [Publicação original](https://x.com/vivekberi526430/status/2098812771970478304)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098812771970478304.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098792103073476716"></a>
+
+### Tradução em andamento
+
+Autor：[@RenRose321](https://x.com/RenRose321) · [Publicação original](https://x.com/RenRose321/status/2098792103073476716)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098792103073476716-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098790612799545375"></a>
 
 ### Tradução em andamento
@@ -2461,7 +2549,7 @@ Tradução em andamento
 
 <a name="prompt-2098787760526205303"></a>
 
-### Tradução em andamento
+### Retrato de estúdio de uma mulher em trajes tradicionais de casamento chinês, fundo vermelho e adorno de cabeça com coroa floral elaborado.
 
 Autor：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2098787760526205303)
 
@@ -2469,7 +2557,7 @@ Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
 
 Publicação original：[@nicebabycat](https://x.com/nicebabycat) · [Publicação original](https://x.com/nicebabycat/status/2098669781750878509)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de estúdio de uma mulher em trajes tradicionais de casamento chinês, fundo vermelho e adorno de cabeça com coroa floral elaborado.
 
 <img src="images/2098787760526205303-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2490,7 +2578,7 @@ Publicação original：[@nicebabycat](https://x.com/nicebabycat) · [Publicaç�
 **Prompt**
 
 ```text
-Tradução em andamento
+um retrato de estúdio detalhado de uma mulher em trajes de casamento tradicionais chineses contra um fundo vermelho sólido. ela usa uma vestimenta vermelha com bordados intrincados em dourado e azul. na cabeça, ela traz uma coroa grande e elaborada de flores artificiais vermelhas e brancas, detalhes em metal dourado e borlas de contas pendentes. seus cabelos escuros e esvoaçantes emolduram o rosto, e sua maquiagem inclui batom vermelho bem delineado. sua mão esquerda está levemente levantada perto do queixo. no canto superior direito, caracteres chineses dourados "幸廟在畫房" estão escritos verticalmente.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**130** Prompts · Latest addition: **2026-09-12**
+**134** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1289,6 +1289,50 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098806415666077809"></a>
+
+### Cinematic portrait of a woman looking over her shoulder on a dusk cobblestone street.
+
+Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Photography · Cinematic / Film Still · Portrait / Selfie · Character · Cityscape / Street · Published
+
+**Summary:** Cinematic portrait of a woman looking over her shoulder on a dusk cobblestone street.
+
+<img src="images/2098806415666077809-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A cinematic, medium-shot portrait of a young woman with warm brown, wavy hair and soft freckles, looking back over her shoulder with a mysterious and intense expression. She is wearing an ornate, vintage lace-patterned high-collared dress. The background features a moody, narrow European cobblestone street at dusk, flanked by old dark architecture under a twilight sky, with distant warm lights glowing from a Gothic-style building or cathedral tower. The lighting is soft and directional, highlighting the contours of her face and the texture of her hair, creating a dramatic, atmospheric, and timeless mood.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting.
+
+Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Cinematic / Film Still · Portrait / Selfie · Character · Published
+
+**Summary:** Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting.
+
+<img src="images/2098788910432129114-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A cinematic, medium-shot portrait of a young woman with warm brown hair styled in an elegant, soft updo with loose strands framing her face, looking gently over her shoulder with a serene and captivating expression. She is wearing a delicate, sheer pink ruffled gown featuring intricate embroidery along the cold-shoulder straps and neckline. The background is softly blurred and moody, with warm, dim interior lighting highlighting her features and creating a romantic, timeless, and sophisticated atmosphere.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098780787936223258"></a>
 
@@ -2770,6 +2814,50 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098812771970478304"></a>
+
+### Om aum amen
+
+Author：[@vivekberi526430](https://x.com/vivekberi526430) · [Source](https://x.com/vivekberi526430/status/2098812771970478304)
+
+Other · Published
+
+**Summary:** Om aum amen
+
+<img src="covers/2098812771970478304.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Om aum amen
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098792103073476716"></a>
+
+### Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower.
+
+Author：[@RenRose321](https://x.com/RenRose321) · [Source](https://x.com/RenRose321/status/2098792103073476716)
+
+Other · Published
+
+**Summary:** Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower.
+
+<img src="images/2098792103073476716-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Elephants at the Dust Bath,  Mosaic\n\nA playful elephant family tossing fine dust over themselves beneath bright afternoon sunlight, viewed from behind a tiny foreground wildflower so the elephants feel enormous in the distance. Hand-cut mosaic tiles, irregular stone pieces, sparkling ceramic surfaces and warm earth-and-sky colors.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098790612799545375"></a>
 

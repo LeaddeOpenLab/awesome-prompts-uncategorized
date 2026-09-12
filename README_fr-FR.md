@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**130** Prompts · Dernier ajout: **2026-09-12**
+**134** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1030,6 +1030,50 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098806415666077809"></a>
+
+### Traduction en cours
+
+Auteur：[@Minahil42298354](https://x.com/Minahil42298354) · [Publication originale](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Photographie · Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098806415666077809-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Traduction en cours
+
+Auteur：[@Minahil42298354](https://x.com/Minahil42298354) · [Publication originale](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098788910432129114-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098780787936223258"></a>
 
@@ -2398,6 +2442,50 @@ Traduction en cours
 
 ## Autres
 
+<a name="prompt-2098812771970478304"></a>
+
+### Traduction en cours
+
+Auteur：[@vivekberi526430](https://x.com/vivekberi526430) · [Publication originale](https://x.com/vivekberi526430/status/2098812771970478304)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098812771970478304.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098792103073476716"></a>
+
+### Traduction en cours
+
+Auteur：[@RenRose321](https://x.com/RenRose321) · [Publication originale](https://x.com/RenRose321/status/2098792103073476716)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098792103073476716-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098790612799545375"></a>
 
 ### Traduction en cours
@@ -2444,7 +2532,7 @@ Traduction en cours
 
 <a name="prompt-2098787760526205303"></a>
 
-### Traduction en cours
+### Portrait de studio d'une femme en tenue de mariage traditionnel chinois, fond rouge et coiffe florale élaborée.
 
 Auteur：[@boniusex](https://x.com/boniusex) · [Publication originale](https://x.com/boniusex/status/2098787760526205303)
 
@@ -2452,7 +2540,7 @@ Portrait / Selfie · Personnage · Résumé / Contexte · Publié
 
 Publication originale：[@nicebabycat](https://x.com/nicebabycat) · [Publication originale](https://x.com/nicebabycat/status/2098669781750878509)
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de studio d'une femme en tenue de mariage traditionnel chinois, fond rouge et coiffe florale élaborée.
 
 <img src="images/2098787760526205303-1.jpg" alt="Image 1" width="480" />
 
@@ -2473,7 +2561,7 @@ Publication originale：[@nicebabycat](https://x.com/nicebabycat) · [Publicatio
 **Consigne**
 
 ```text
-Traduction en cours
+un portrait de studio détaillé d'une femme en tenue de mariage traditionnel chinois sur un fond rouge uni. elle porte un vêtement rouge orné de broderies complexes dorées et bleues. sur sa tête se trouve une grande couronne élaborée de fleurs artificielles rouges et blanches, d'éléments en métal doré et de pampilles de perles pendantes. ses cheveux sombres et vaporeux encadrent son visage, et son maquillage comprend un rouge à lèvres rouge bien défini. sa main gauche est légèrement levée près de son menton. dans le coin supérieur droit, des caractères chinois dorés "幸廟在畫房" sont écrits verticalement.
 ```
 
 [↑ Retour aux catégories](#catalog)

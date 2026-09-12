@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**130** Prompt · Son eklenen: **2026-09-12**
+**134** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1044,6 +1044,50 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098806415666077809"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098806415666077809-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098788910432129114-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098780787936223258"></a>
 
@@ -2415,6 +2459,50 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
+<a name="prompt-2098812771970478304"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@vivekberi526430](https://x.com/vivekberi526430) · [Orijinal gönderi](https://x.com/vivekberi526430/status/2098812771970478304)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098812771970478304.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098792103073476716"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RenRose321](https://x.com/RenRose321) · [Orijinal gönderi](https://x.com/RenRose321/status/2098792103073476716)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098792103073476716-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098790612799545375"></a>
 
 ### Çeviri sürüyor
@@ -2461,7 +2549,7 @@ Diğer · Yayımlandı
 
 <a name="prompt-2098787760526205303"></a>
 
-### Çeviri sürüyor
+### Geleneksel Çin düğün kıyafetli kadının stüdyo portresi, kırmızı arka plan ve gösterişli çiçekli taç saç süsü.
 
 Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2098787760526205303)
 
@@ -2469,7 +2557,7 @@ Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
 
 Orijinal gönderi：[@nicebabycat](https://x.com/nicebabycat) · [Orijinal gönderi](https://x.com/nicebabycat/status/2098669781750878509)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Geleneksel Çin düğün kıyafetli kadının stüdyo portresi, kırmızı arka plan ve gösterişli çiçekli taç saç süsü.
 
 <img src="images/2098787760526205303-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2490,7 +2578,7 @@ Orijinal gönderi：[@nicebabycat](https://x.com/nicebabycat) · [Orijinal gönd
 **İstem**
 
 ```text
-Çeviri sürüyor
+düz kırmızı bir arka plan önünde geleneksel Çin düğün kıyafetleri giymiş bir kadının ayrıntılı stüdyo portresi. karmaşık altın ve mavi işlemelere sahip kırmızı bir giysi giyiyor. başında kırmızı ve beyaz yapay çiçeklerden, altın rengi metal işlemelerden ve sarkan boncuk püsküllerinden oluşan büyük, gösterişli bir taç var. koyu renkli, ince telli saçları yüzünü çevreliyor ve makyajında belirgin kırmızı ruj yer alıyor. sol eli çenesinin yanına hafifçe kaldırılmış. sağ üst köşede, dikey olarak yazılmış altın rengi Çince karakterler "幸廟在畫房" yer alıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)
