@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**100** Prompt · Son eklenen: **2026-09-12**
+**101** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1294,6 +1294,28 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 <a name="category-illustration"></a>
 
 ## İllüstrasyon
+
+<a name="prompt-2098677881375236337"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AI\_Kei75](https://x.com/AI_Kei75) · [Orijinal gönderi](https://x.com/AI_Kei75/status/2098677881375236337)
+
+İllüstrasyon · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098677881375236337-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2096970899622948972"></a>
 

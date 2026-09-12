@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**100** Prompts · Latest addition: **2026-09-12**
+**101** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1380,6 +1380,28 @@ Comic / Storyboard · Anime / Manga · Published
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2098677881375236337"></a>
+
+### Teacher-themed costume illustration prompt \(frilled blouse, pencil skirt, pointer stick, etc.\).
+
+Author：[@AI\_Kei75](https://x.com/AI_Kei75) · [Source](https://x.com/AI_Kei75/status/2098677881375236337)
+
+Illustration · Character · Fashion Item · Published
+
+**Summary:** Teacher-themed costume illustration prompt \(frilled blouse, pencil skirt, pointer stick, etc.\).
+
+<img src="images/2098677881375236337-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neckwear, heart necklace, black belt, (black pencil skirt), miniskirt, dark brown pantyhose, high heels, holding, pointer, stick,
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2096970899622948972"></a>
 

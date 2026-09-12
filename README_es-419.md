@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**100** Prompts · Última incorporación: **2026-09-12**
+**101** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1277,6 +1277,28 @@ Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodead
 <a name="category-illustration"></a>
 
 ## Ilustración
+
+<a name="prompt-2098677881375236337"></a>
+
+### Traducción en curso
+
+Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicación original](https://x.com/AI_Kei75/status/2098677881375236337)
+
+Ilustración · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098677881375236337-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2096970899622948972"></a>
 

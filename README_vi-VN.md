@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**100** Prompt · Bổ sung mới nhất: **2026-09-12**
+**101** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1312,6 +1312,28 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 <a name="category-illustration"></a>
 
 ## Minh họa
+
+<a name="prompt-2098677881375236337"></a>
+
+### Đang dịch
+
+Tác giả：[@AI\_Kei75](https://x.com/AI_Kei75) · [Bài gốc](https://x.com/AI_Kei75/status/2098677881375236337)
+
+Minh họa · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098677881375236337-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2096970899622948972"></a>
 
