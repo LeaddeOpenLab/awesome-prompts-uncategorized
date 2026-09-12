@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**85** Prompts · Latest addition: **2026-09-12**
+**86** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098535116545110425"></a>
+
+### Ultra-photorealistic medium full-body photo of a grunge supermodel in a black leather coat seated among flowers.
+
+Author：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Source](https://x.com/ai_vision_2nd/status/2098535116545110425)
+
+Photography · Published
+
+**Summary:** Ultra-photorealistic medium full-body photo of a grunge supermodel in a black leather coat seated among flowers.
+
+<img src="images/2098535116545110425-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-photorealistic medium full-body photograph of a glamorous voluptuous playmate-style grunge supermodel woman seated in a field of blooming flowers. Perfect hourglass figure with soft natural volume. Hair aggressively simple and delicate: short-to-medium choppy layers with soft irregular ends. Makeup minimal eccentric grunge — smudged liner, pale lips, faint freckles. She wears an open but long black leather grunge coat that remains largely closed over the chest by the way it drapes and by large fresh flower petals naturally resting across the front; only the collarbones and a narrow vertical line of skin are visible. Low-slung distressed trousers complete the look. Pose is relaxed, one knee raised, both hands gently holding blooms that further soften the chest area. Every flower opening floods the gray world with rich living color that washes over her coat and skin. Subject fills the majority of the frame. The subject remains extremely detailed and photorealistic even in this environmental full-body composition — facial sharpness, pores, vellus hair, and leather textures stay completely crisp. 85mm at f/1.8, soft directional light with surreal color blooms, artistic and restrained expression of feminine beauty.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098530398724915395"></a>
 
