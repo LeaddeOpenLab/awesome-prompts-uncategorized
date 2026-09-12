@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**112** 条内容 · 最新收录: **2026-09-12**
+**114** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2098676865284407781"></a>
+
+### 翻译中
+
+作者：[@YueyueforLuis](https://x.com/YueyueforLuis) · [查看 X 原帖](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+摄影 · 团体 / 情侣 · 食品 / 饮料 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098676865284407781-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2147,6 +2171,28 @@ FIELD NOTE [编号]
 
 ## 其他
 
+<a name="prompt-2098688508827512874"></a>
+
+### 翻译中
+
+作者：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [查看 X 原帖](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+动物 / 生物 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098688508827512874.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### SpaceX 火箭发射
@@ -2171,20 +2217,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### 翻译中
+### SpaceX火箭
 
 作者：[@iadventurejacek](https://x.com/iadventurejacek) · [查看 X 原帖](https://x.com/iadventurejacek/status/2098689113780064605)
 
 其他 · 已推流
 
-**概括:** 翻译中
+**概括:** SpaceX火箭
 
 <img src="covers/2098689113780064605.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+SpaceX火箭
 ```
 
 [↑ 返回分类目录](#catalog)

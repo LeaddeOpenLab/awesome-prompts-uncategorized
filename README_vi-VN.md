@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**112** Prompt · Bổ sung mới nhất: **2026-09-12**
+**114** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2098676865284407781"></a>
+
+### Đang dịch
+
+Tác giả：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Bài gốc](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Nhiếp ảnh · Nhóm / Cặp đôi · Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098676865284407781-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2163,6 +2187,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
+<a name="prompt-2098688508827512874"></a>
+
+### Đang dịch
+
+Tác giả：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Bài gốc](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+Động vật / Sinh vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098688508827512874.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### Vụ phóng tên lửa của SpaceX
@@ -2187,20 +2233,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### Đang dịch
+### tên lửa SpaceX
 
 Tác giả：[@iadventurejacek](https://x.com/iadventurejacek) · [Bài gốc](https://x.com/iadventurejacek/status/2098689113780064605)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** tên lửa SpaceX
 
 <img src="covers/2098689113780064605.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+tên lửa SpaceX
 ```
 
 [↑ Về danh mục](#catalog)

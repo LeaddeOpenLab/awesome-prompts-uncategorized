@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**112** 件 · 最新の追加: **2026-09-12**
+**114** 件 · 最新の追加: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-photography"></a>
 
 ## 写真撮影
+
+<a name="prompt-2098676865284407781"></a>
+
+### 翻訳中
+
+作者：[@YueyueforLuis](https://x.com/YueyueforLuis) · [元の投稿](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+写真撮影 · グループ / カップル · 食品・飲料 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2098676865284407781-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2146,6 +2170,28 @@ FIELD NOTE [番号]
 
 ## その他
 
+<a name="prompt-2098688508827512874"></a>
+
+### 翻訳中
+
+作者：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [元の投稿](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+動物 / 生き物 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2098688508827512874.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### SpaceXのロケット打ち上げ
@@ -2170,20 +2216,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### 翻訳中
+### SpaceXのロケット
 
 作者：[@iadventurejacek](https://x.com/iadventurejacek) · [元の投稿](https://x.com/iadventurejacek/status/2098689113780064605)
 
 その他 · 配信済み
 
-**概要:** 翻訳中
+**概要:** SpaceXのロケット
 
 <img src="covers/2098689113780064605.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+SpaceXのロケット
 ```
 
 [↑ カテゴリに戻る](#catalog)

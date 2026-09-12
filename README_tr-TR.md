@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**112** Prompt · Son eklenen: **2026-09-12**
+**114** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2098676865284407781"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Orijinal gönderi](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Fotoğrafçılık · Grup / Çift · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098676865284407781-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2135,6 +2159,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
+<a name="prompt-2098688508827512874"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Orijinal gönderi](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+Hayvan / Yaratık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098688508827512874.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### SpaceX roket fırlatması
@@ -2159,20 +2205,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### Çeviri sürüyor
+### SpaceX roketi
 
 Yazar：[@iadventurejacek](https://x.com/iadventurejacek) · [Orijinal gönderi](https://x.com/iadventurejacek/status/2098689113780064605)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** SpaceX roketi
 
 <img src="covers/2098689113780064605.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+SpaceX roketi
 ```
 
 [↑ Kategorilere dön](#catalog)

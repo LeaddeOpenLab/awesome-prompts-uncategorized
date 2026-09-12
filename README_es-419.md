@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**112** Prompts · Última incorporación: **2026-09-12**
+**114** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098676865284407781"></a>
+
+### Traducción en curso
+
+Autor：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Publicación original](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Fotografía · Grupo / Pareja · Comida y bebida · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098676865284407781-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2118,6 +2142,28 @@ Traducción en curso
 
 ## Otros
 
+<a name="prompt-2098688508827512874"></a>
+
+### Traducción en curso
+
+Autor：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Publicación original](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+Animal / Criatura · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098688508827512874.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### Lanzamiento de cohete de SpaceX
@@ -2142,20 +2188,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### Traducción en curso
+### cohete de SpaceX
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicación original](https://x.com/iadventurejacek/status/2098689113780064605)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** cohete de SpaceX
 
 <img src="covers/2098689113780064605.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+cohete de SpaceX
 ```
 
 [↑ Volver a categorías](#catalog)

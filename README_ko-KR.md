@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**112** 개 · 최근 추가: **2026-09-12**
+**114** 개 · 최근 추가: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <a name="category-photography"></a>
 
 ## 사진술
+
+<a name="prompt-2098676865284407781"></a>
+
+### 번역 중
+
+작성자：[@YueyueforLuis](https://x.com/YueyueforLuis) · [원본 게시물](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+사진술 · 그룹 / 커플 · 음식 / 음료 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2098676865284407781-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2146,6 +2170,28 @@ FIELD NOTE [번호]
 
 ## 기타
 
+<a name="prompt-2098688508827512874"></a>
+
+### 번역 중
+
+작성자：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [원본 게시물](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+동물 / 생명체 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2098688508827512874.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### 스페이스X 로켓 발사
@@ -2170,20 +2216,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### 번역 중
+### SpaceX 로켓
 
 작성자：[@iadventurejacek](https://x.com/iadventurejacek) · [원본 게시물](https://x.com/iadventurejacek/status/2098689113780064605)
 
 기타 · 배포 완료
 
-**요약:** 번역 중
+**요약:** SpaceX 로켓
 
 <img src="covers/2098689113780064605.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+SpaceX 로켓
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

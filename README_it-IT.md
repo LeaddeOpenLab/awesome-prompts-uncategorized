@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**112** Prompt · Ultima aggiunta: **2026-09-12**
+**114** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098676865284407781"></a>
+
+### Traduzione in corso
+
+Autore：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Post originale](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Fotografia · Gruppo / Coppia · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098676865284407781-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2118,6 +2142,28 @@ Traduzione in corso
 
 ## Altro
 
+<a name="prompt-2098688508827512874"></a>
+
+### Traduzione in corso
+
+Autore：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Post originale](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+Animale / Creatura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098688508827512874.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### Lancio di un razzo SpaceX
@@ -2142,20 +2188,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### Traduzione in corso
+### razzo SpaceX
 
 Autore：[@iadventurejacek](https://x.com/iadventurejacek) · [Post originale](https://x.com/iadventurejacek/status/2098689113780064605)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** razzo SpaceX
 
 <img src="covers/2098689113780064605.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+razzo SpaceX
 ```
 
 [↑ Torna alle categorie](#catalog)

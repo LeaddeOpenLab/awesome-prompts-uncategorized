@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**112** 筆內容 · 最新收錄: **2026-09-12**
+**114** 筆內容 · 最新收錄: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2098676865284407781"></a>
+
+### 翻譯中
+
+作者：[@YueyueforLuis](https://x.com/YueyueforLuis) · [查看 X 原帖](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+攝影 · 團體 / 情侶 · 食物 / 飲品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098676865284407781-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2147,6 +2171,28 @@ FIELD NOTE [編號]
 
 ## 其他
 
+<a name="prompt-2098688508827512874"></a>
+
+### 翻譯中
+
+作者：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [查看 X 原帖](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+動物 / 生物 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2098688508827512874.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### SpaceX 火箭發射
@@ -2171,20 +2217,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### 翻譯中
+### SpaceX火箭
 
 作者：[@iadventurejacek](https://x.com/iadventurejacek) · [查看 X 原帖](https://x.com/iadventurejacek/status/2098689113780064605)
 
 其他 · 已推流
 
-**概括:** 翻譯中
+**概括:** SpaceX火箭
 
 <img src="covers/2098689113780064605.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+SpaceX火箭
 ```
 
 [↑ 返回分類目錄](#catalog)

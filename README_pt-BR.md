@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**112** Prompts · Última adição: **2026-09-12**
+**114** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098676865284407781"></a>
+
+### Tradução em andamento
+
+Autor：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Publicação original](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Fotografia · Grupo / Casal · Alimentos / Bebidas · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098676865284407781-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2135,6 +2159,28 @@ Tradução em andamento
 
 ## Outros
 
+<a name="prompt-2098688508827512874"></a>
+
+### Tradução em andamento
+
+Autor：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Publicação original](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+Animal / Criatura · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098688508827512874.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### Lançamento de foguete da SpaceX
@@ -2159,20 +2205,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### Tradução em andamento
+### foguete da SpaceX
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicação original](https://x.com/iadventurejacek/status/2098689113780064605)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** foguete da SpaceX
 
 <img src="covers/2098689113780064605.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+foguete da SpaceX
 ```
 
 [↑ Voltar às categorias](#catalog)

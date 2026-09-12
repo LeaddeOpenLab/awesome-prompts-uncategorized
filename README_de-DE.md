@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**112** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**114** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2098676865284407781"></a>
+
+### Übersetzung läuft
+
+Autor：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Originalbeitrag](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Fotografie · Gruppe / Paar · Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098676865284407781-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2118,6 +2142,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
+<a name="prompt-2098688508827512874"></a>
+
+### Übersetzung läuft
+
+Autor：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Originalbeitrag](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+Tier / Kreatur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098688508827512874.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### SpaceX-Raketenstart
@@ -2142,20 +2188,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### Übersetzung läuft
+### SpaceX-Rakete
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Originalbeitrag](https://x.com/iadventurejacek/status/2098689113780064605)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** SpaceX-Rakete
 
 <img src="covers/2098689113780064605.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+SpaceX-Rakete
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

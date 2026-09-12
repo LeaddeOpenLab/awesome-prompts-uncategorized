@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**112** Prompts · Dernier ajout: **2026-09-12**
+**114** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2098676865284407781"></a>
+
+### Traduction en cours
+
+Auteur：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Publication originale](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Photographie · Groupe / Couple · Alimentation / Boissons · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098676865284407781-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2118,6 +2142,28 @@ Traduction en cours
 
 ## Autres
 
+<a name="prompt-2098688508827512874"></a>
+
+### Traduction en cours
+
+Auteur：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Publication originale](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+Animal / Créature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098688508827512874.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098688482281452002"></a>
 
 ### Lancement de fusée SpaceX
@@ -2142,20 +2188,20 @@ spacex
 
 <a name="prompt-2098689113780064605"></a>
 
-### Traduction en cours
+### fusée SpaceX
 
 Auteur：[@iadventurejacek](https://x.com/iadventurejacek) · [Publication originale](https://x.com/iadventurejacek/status/2098689113780064605)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** fusée SpaceX
 
 <img src="covers/2098689113780064605.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+fusée SpaceX
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**112** Prompts · Latest addition: **2026-09-12**
+**114** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,46 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098676865284407781"></a>
+
+### A young couple in a narrow, cluttered Japanese kitchen cooking dumplings and drinking beer in a casual everyday atmosphere.
+
+Author：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Source](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Photography · Group / Couple · Food / Drink · Published
+
+**Summary:** A young couple in a narrow, cluttered Japanese kitchen cooking dumplings and drinking beer in a casual everyday atmosphere.
+
+<img src="images/2098676865284407781-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+The scene depicts a woman and a man in their twenties preparing dinner in the small, cluttered kitchen of a Japanese-style apartment, exuding a realistic and relaxed everyday atmosphere.
+
+The girl stands in front of the gas stove, leaning slightly back, holding an open silver can of beverage in one hand and tilting her head back to drink. Her eyes are comfortably squinted, and her face shows a relaxed expression after a busy day, with a few small beads of sweat on her forehead. Her other hand hangs naturally at her side, her posture unpretentious and very natural.
+
+She wears a simple low-cut, spaghetti-strap tank top and dark gray sweatpants, standing barefoot on the kitchen floor. Her proportions are soft and realistic, conveying a sense of fullness and life. Her hair is casually tied in a low bun, with a few stray strands of bangs and loose hair framing her face.
+
+On the left side of the scene, a man, shirtless, draped in a towel, and wearing shorts, is frying a circle of half-cooked dumplings on a very narrow gas stove and counter. The dumplings are neatly arranged in a radial pattern, with a small amount of oil and browning marks in the pan, and wooden chopsticks casually resting on the rim. The kitchen counter is cluttered with dumpling wrappers, condiment bottles, cooking oil, large plastic bottles, empty cans, and other food packaging. Used dishes are piled up beside the sink.
+
+Behind the scenes is the narrow layout of an old-style Japanese apartment. Open cabinets are piled with bowls, plates, tea bags, snack wrappers, and a red kettle. The door to the back room is open, revealing a small room, window, curtains, office chair, mattress, and some miscellaneous household items.
+
+The composition uses a slightly downward, ultra-wide-angle close-up, with a touch of cartoonish perspective exaggeration. The gas stove and frying pan in the foreground are large, and the figure is positioned slightly to the right of center, creating a strong sense of being "peeking into everyday life from the kitchen doorway."
+
+The low-contrast warm color palette features off-white walls, light wood floors, and pale blue-green clothing as the main colors. Natural indoor lighting and soft shadows avoid overly refined or ornate elements, preserving a realistic sense of clutter and everyday life. The image is rich in detail.
+
+Composition: 2:3 vertical format, full-body figure, the entire kitchen environment is captured in the frame.
+
+No text, no logo, no watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098687497794711885"></a>
 
@@ -2509,6 +2549,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098688508827512874"></a>
+
+### Video of animals fighting in a river.
+
+Author：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Source](https://x.com/AnimalBuzzWorld/status/2098688508827512874)
+
+Animal / Creature · Published
+
+**Summary:** Video of animals fighting in a river.
+
+<img src="covers/2098688508827512874.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Please read a video of animals fight in river
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098688482281452002"></a>
 
