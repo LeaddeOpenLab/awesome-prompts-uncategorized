@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**91** Prompts · Latest addition: **2026-09-12**
+**92** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,54 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098584064567705813"></a>
+
+### Prompt for a realistic indoor phone mirror selfie of an East Asian woman in a plunging high-cut blue one-piece swimsuit.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2098584064567705813)
+
+Photography · Portrait / Selfie · Character · Architecture / Interior · Published
+
+**Summary:** Prompt for a realistic indoor phone mirror selfie of an East Asian woman in a plunging high-cut blue one-piece swimsuit.
+
+<img src="images/2098584064567705813-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic indoor mirror selfie photography, vertical orientation approximately 3:4, a young adult East Asian woman, clearly an adult, standing in front of a large wall-mounted mirror at the entrance of a residential bedroom/bathroom taking a selfie. Captured through the mirror, the subject is positioned slightly left of center, framed fully from the top of the head down to the lower-mid thighs, naturally cropped below the knees by the mirror frame. Shot with an equivalent 28–35mm smartphone lens, camera distance approximately 1.5–2 meters from the mirror, lens height close to chest/torso level, mostly eye-level with an extremely subtle downward angle. The overall vibe resembles a casual mirror snapshot taken with an ordinary phone in a dimly lit room, not a commercial swimwear photoshoot.
+
+The subject is a young adult East Asian woman with a small-to-medium bone structure, naturally narrow shoulders, slender arms, a narrow ribcage, a distinctly voluptuous upper body with naturally heavy, naturally dropping breasts, a short and very noticeably cinched waist, naturally wide pelvis and hips, rounded hips, and full upper thighs that are not overly thick. The overall silhouette is a very clear natural hourglass: narrow shoulders + full bust + short slender waist + moderately wide hips + naturally full thighs. Do not generate an athletic physique, broad shoulders, thick back, barrel waist, stick-thin frame, extreme wide hips, or exaggerated spherical buttocks.
+
+She stands facing forward, body turned slightly toward her left, pelvis shifted slightly sideways to form a natural S-curve silhouette. Legs are placed close together with weight shifted onto one leg. Her left hand is raised behind her head, left elbow bent high and pointing toward the upper left of the frame, palm resting against the back of her head or hair; her right arm is extended horizontally to her right and slightly upward, palm braced against the right doorframe/wall with fingers spread naturally. The distinctly asymmetrical outstretched arm pose is the core action of the composition.
+
+She has jet-black medium-length hair, casually tied at the back into a messy low ponytail/loose bunch, with a few stray flyaway hairs on the crown and back of the head. Wispy, center-parted long bangs frame her forehead, with a few strands draping along her cheeks and ears. Avoid blunt bangs, straight down hair, high ponytails, or voluminous curls.
+
+Her face is a small oval with a soft jawline and natural warm-fair skin tone. Her head is tilted slightly toward her left, eyes looking at the phone/camera reflection in the mirror, wearing a calm expression with a very subtle closed-mouth smile upturned at the corners. Makeup is light and natural: slender eyebrows, dark brown almond-shaped eyes, a delicate nose bridge, and low-saturation nude-pink lips. Avoid heavy makeup, overly retouched influencer aesthetics, or an anime look.
+
+She wears a minimalist one-piece swimsuit in bright cobalt blue / lake blue. The swimsuit features an ultra-deep plunging V-neckline, ultra-thin spaghetti straps, and high-cut leg openings, made from smooth elastic swimwear fabric in a pure, high-saturation blue with a gentle soft sheen, free of prints, logos, lace, or intricate embellishments.
+
+The neckline plunges from the center of the chest into a very deep, narrow V-shape, exposing a noticeable expanse of the décolletage and collarbone area while maintaining complete normal clothing coverage. The left and right shoulder straps are exceptionally thin, extending from the chest to the shoulders. The sides of the suit are cut deep under the armpits and waist, with fabric clinging tightly around the waist to further emphasize the bust-to-waist ratio. The leg openings feature a prominent high-cut design rising from near the hip bones, revealing a large portion of the upper thighs to make the legs appear elongated. Do not generate athletic one-pieces, wide shoulder straps, square-neck swimsuits, bikinis, or skirted swimwear.
+
+A small, subtle dark gray/black tattoo is visible on her right forearm, located near the inner or outer side, faint and blurry, not a main visual element. Do not add large-scale tattoos.
+
+The setting is an ordinary residential interior. Behind her to the left is a white European-style embossed wooden door with slender arched decorative paneling and a silver-gray door handle visible at the lower left. To her right is another open white doorframe leading into a brighter hallway/room, showing off-white walls and dark wooden flooring. The background is overall very simple, devoid of luxury furniture.
+
+At the very bottom of the frame, a silver-gray metal mirror frame and the edge of a light-gray vanity countertop are visible, indicating the subject is standing in front of a bathroom mirror or vanity. The horizontal mirror frame cutting across the bottom is a crucial compositional element.
+
+Lighting is dim indoor ambient light combined with natural diffused light spilling from the room on the right. The subject is generally dimly lit, with soft, limited illumination on her face and body; the background to the right is noticeably brighter, creating subtle backlighting and exposure contrast. The swimsuit's blue remains saturated, while the skin and white walls fall into soft shadows. No harsh flash, no studio softboxes, no cinematic lighting setups.
+
+The image texture must evoke a casual smartphone mirror selfie / slightly low-res home photograph: slightly soft focus overall, soft edges, low dynamic range, subtle gray digital noise in the shadows, skin texture not overly sharpened, and the white door and right-side bright area slightly overexposed. Avoid modern flagship phone computational HDR, 8K commercial sharpness, and heavy background bokeh.
+
+Key focuses: adult East Asian woman + indoor mirror selfie + voluptuous natural hourglass figure + short cinched waist + bright blue plunging deep V high-cut one-piece swimsuit + left hand behind head with high left elbow + right arm outstretched against doorframe + messy low ponytail + center-parted wispy bangs + white arched panel door + bright doorway on right + silver-gray mirror frame at bottom + dim natural indoor lighting + low-res casual smartphone snapshot aesthetic.
+
+Avoid: bikini, athletic swimsuit, wide straps, blue swimsuit turning black or white, fully loose hair down, blunt bangs, both hands raised over head, hands on hips, stiff front-facing posture, stick-thin flat body, flat chest, broad athletic shoulders, chunky thighs, extreme giant hips, luxury hotel, outdoor pool, beach, harsh flash, cinematic lighting, extreme wide-angle distortion, plastic skin, anime face, CG look, extra fingers, extra arms, watermarks, and garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098553866908533220"></a>
 
