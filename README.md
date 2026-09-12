@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**103** Prompts · Latest addition: **2026-09-12**
+**104** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098678464484401228"></a>
+
+### Realistic mobile photo quality portrait prompt of a girl lying on a wicker sofa reading a book in an autumn courtyard.
+
+Author：[@oye\_samia](https://x.com/oye_samia) · [Source](https://x.com/oye_samia/status/2098678464484401228)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic mobile photo quality portrait prompt of a girl lying on a wicker sofa reading a book in an autumn courtyard.
+
+<img src="images/2098678464484401228-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098678464484401228-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Create a portrait without changing the facial features. Mobile photo quality.
+Create a hyper realistic portrait. A girl is lying in the courtyard of a private house on a wicker sofa, a book in her hands, autumn leaves falling, long hair blown by the wind.
+The girl is looking into the book. She is wearing a brown loose knitted fluffy cardigan, a milky strap top, a beige throw draped over her, impeccable makeup, lips in a dusty-rose shade.
+Cozy atmosphere.
+| iPhone 17 photo quality
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098638290094305690"></a>
 
