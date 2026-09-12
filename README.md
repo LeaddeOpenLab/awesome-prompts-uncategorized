@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**88** Prompts · Latest addition: **2026-09-12**
+**89** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,44 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098553866908533220"></a>
+
+### Editorial travel poster prompt that extracts details from a travel photograph, redrawing them into an upper 3×3 colored-pencil grid while retaining the original image below.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098553866908533220)
+
+Poster / Flyer · Photography · Text / Typography · Published
+
+**Summary:** Editorial travel poster prompt that extracts details from a travel photograph, redrawing them into an upper 3×3 colored-pencil grid while retaining the original image below.
+
+<img src="images/2098553866908533220-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098553866908533220-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098553866908533220-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098553866908533220-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Please turn each of my uploaded ordinary travel photos without people into an independent, sophisticated travel memory editorial poster, outputting each photo separately without stitching it with other photos. The overall composition is a 3:4 vertical layout.
+
+The upper portion, about 56%–60%, uses a warm ivory paper surface with natural paper fibers, paper tooth, and a subtle aged feel. The lower portion, about 40%–44%, completely and clearly preserves the same original travel photo, maintaining the architecture, topography, object relationships, viewing angle, natural light and shadow, and authentic photographic texture of the original photo, with only subtle editorial color grading applied.
+
+Select nine truly memorable details from the same original photo below, and redraw them into a small-scale, centered 3×3 "colored pencil memory grid" in the upper portion. The combined width of the nine-grid occupies only about 62%–66% of the poster's width, leaving plenty of continuous white paper margin and breathing room around it. Each grid square retains only one distinct, traceable detail, such as an architectural component, bridge structure, window frame, road marking, stone, arch, tree shadow, water surface, reflection, sky, or environmental texture. All nine squares must come exclusively from the same photo; do not generate unrelated mini-illustrations, and do not repeat the entire photo nine times.
+
+Render using low-saturation colored pencils, crayons, and a touch of smudged pastel. Preserve visible paper tooth, cross-hatching, broken outlines, slight scuffs, overlaid colors, and irregular hand-drawn rounded edges. Colors should be extracted from the original photo and compressed into a limited palette. The overall mood should be quiet, warm, and restrained, like a personal travel sketchbook, memory index, or independent publication.
+
+Keep only two sets of small, vintage typewriter typography: a short English title on the left, and "MEMORY GRID 01/02/03/04" on the right. Do not add long sentences, dates, coordinates, author names, brands, logos, dummy text, garbled characters, or watermarks.
+
+Avoid people, faces, hands, fictional landmarks, extraneous objects, multi-photo collages, an oversized nine-grid, narrow margins, a children's picture-book look, smooth vector textures, a cheap template feel, and mere filtered photo conversions.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098535116545110425"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**88** Prompts · Última incorporación: **2026-09-12**
+**89** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2098553866908533220"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2098553866908533220)
+
+Póster / Folleto · Fotografía · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098553866908533220-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098553866908533220-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098553866908533220-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098553866908533220-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098535116545110425"></a>
 
