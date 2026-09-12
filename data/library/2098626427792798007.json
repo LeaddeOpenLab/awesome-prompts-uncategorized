@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:21:19.940Z",
+  "model": "unknown-video",
+  "prompt": "Create a luxurious high-end beauty commercial video using the uploaded nail polish image as the exact product reference. Keep the bottle design, label, logo, cap, and dusty-rose pink nail polish color exactly the same. Place the nail polish bottle on a soft beige marble surface with elegant dried white flowers and warm cream fabric in the background. Start with a slow cinematic camera push-in toward the bottle, then smoothly rotate around the product while soft sunlight creates delicate shadows. Show a close-up of the brush applying the glossy pink polish onto a clean nail, followed by a beautiful swatch of the polish. Add subtle reflections on the glass bottle, realistic glossy texture, shallow depth of field, soft luxury lighting, smooth slow motion, premium skincare/cosmetic advertisement aesthetic, clean minimal composition, photorealistic, 4K, vertical 9:16. Do not change the product packaging or add any extra text/logo.",
+  "promptTranslations": {
+    "en": "Create a luxurious high-end beauty commercial video using the uploaded nail polish image as the exact product reference. Keep the bottle design, label, logo, cap, and dusty-rose pink nail polish color exactly the same. Place the nail polish bottle on a soft beige marble surface with elegant dried white flowers and warm cream fabric in the background. Start with a slow cinematic camera push-in toward the bottle, then smoothly rotate around the product while soft sunlight creates delicate shadows. Show a close-up of the brush applying the glossy pink polish onto a clean nail, followed by a beautiful swatch of the polish. Add subtle reflections on the glass bottle, realistic glossy texture, shallow depth of field, soft luxury lighting, smooth slow motion, premium skincare/cosmetic advertisement aesthetic, clean minimal composition, photorealistic, 4K, vertical 9:16. Do not change the product packaging or add any extra text/logo."
+  },
+  "summaryTranslations": {
+    "en": "Create a luxurious high-end beauty commercial video featuring a dusty-rose nail polish bottle, nail application, and swatch in an elegant setting."
+  },
+  "translationVersion": 2,
+  "summary": "Create a luxurious high-end beauty commercial video featuring a dusty-rose nail polish bottle, nail application, and swatch in an elegant setting.",
+  "summaryEn": "Create a luxurious high-end beauty commercial video featuring a dusty-rose nail polish bottle, nail application, and swatch in an elegant setting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098626427792798007",
+    "canonicalUrl": "https://x.com/AvaSmith771/status/2098626427792798007",
+    "author": {
+      "username": "AvaSmith771",
+      "displayName": "Ava Smith Al",
+      "profileUrl": "https://x.com/AvaSmith771"
+    },
+    "publishedAt": "2026-09-12T04:15:05.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "en",
+    "originalText": "Soft blush, glossy finish, effortless elegance. 💅🏻🌸\nYour perfect everyday pink is here. 🤍\n\nPrompt \nCreate a luxurious high-end beauty commercial video using the uploaded nail polish image as the exact product reference. Keep the bottle design, label, logo, cap, and dusty-rose pink nail polish color exactly the same. Place the nail polish bottle on a soft beige marble surface with elegant dried white flowers and warm cream fabric in the background. Start with a slow cinematic camera push-in toward the bottle, then smoothly rotate around the product while soft sunlight creates delicate shadows. Show a close-up of the brush applying the glossy pink polish onto a clean nail, followed by a beautiful swatch of the polish. Add subtle reflections on the glass bottle, realistic glossy texture, shallow depth of field, soft luxury lighting, smooth slow motion, premium skincare/cosmetic advertisement aesthetic, clean minimal composition, photorealistic, 4K, vertical 9:16. Do not change the product packaging or add any extra text/logo.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AvaSmith771/status/2098626427792798007",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098626288907067393/img/JgmZXFGGmoat_ulJ.jpg",
+        "analysisUrl": "https://x.com/AvaSmith771/status/2098626427792798007"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_RmlNa0AAd4rO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_RmlNa0AAd4rO.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 38
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AvaSmith771/status/2098626427792798007",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098626288907067393/img/JgmZXFGGmoat_ulJ.jpg",
+  "coverPath": "covers/2098626427792798007.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098626288907067393",
+    "x-image:/media/HR_RmlNa0AAd4rO",
+    "x-post:2098626427792798007"
+  ],
+  "analysis": {
+    "summary": "Create a luxurious high-end beauty commercial video featuring a dusty-rose nail polish bottle, nail application, and swatch in an elegant setting.",
+    "summaryEn": "Create a luxurious high-end beauty commercial video featuring a dusty-rose nail polish bottle, nail application, and swatch in an elegant setting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely replicates the prompt: bottle push-in on marble, brush application on a nail, and swatch demonstration."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a luxurious high-end beauty commercial video using the uploaded nail polish image as the exact product reference. Keep the bottle design, label, logo, cap, and dusty-rose pink nail polish color exactly the same. Place the nail polish bottle on a soft beige marble surface with elegant dried white flowers and warm cream fabric in the background. Start with a slow cinematic camera push-in toward the bottle, then smoothly rotate around the product while soft sunlight creates delicate shadows. Show a close-up of the brush applying the glossy pink polish onto a clean nail, followed by a beautiful swatch of the polish. Add subtle reflections on the glass bottle, realistic glossy texture, shallow depth of field, soft luxury lighting, smooth slow motion, premium skincare/cosmetic advertisement aesthetic, clean minimal composition, photorealistic, 4K, vertical 9:16. Do not change the product packaging or add any extra text/logo.",
+    "sourceRange": {
+      "start": 99,
+      "end": 1038
+    },
+    "translations": {
+      "zh": "以参考图制作高端美妆广告视频，保持指甲油包装与颜色一致，置于大理石面与干花背景前，镜头推进环绕，并特写涂抹指甲和试色效果。",
+      "en": "Create a luxurious beauty commercial video referencing the image, showing the nail polish bottle on marble with dried flowers, camera push-in, rotation, application, and swatch."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "beauty commercial video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
