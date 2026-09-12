@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T08:37:19.229Z",
+  "model": "unknown-image",
+  "prompt": "Create a portrait without changing the facial features. Mobile photo quality.\nCreate a hyper realistic portrait. A girl is lying in the courtyard of a private house on a wicker sofa, a book in her hands, autumn leaves falling, long hair blown by the wind.\nThe girl is looking into the book. She is wearing a brown loose knitted fluffy cardigan, a milky strap top, a beige throw draped over her, impeccable makeup, lips in a dusty-rose shade.\nCozy atmosphere.\n| iPhone 17 photo quality",
+  "promptTranslations": {
+    "en": "Create a portrait without changing the facial features. Mobile photo quality.\nCreate a hyper realistic portrait. A girl is lying in the courtyard of a private house on a wicker sofa, a book in her hands, autumn leaves falling, long hair blown by the wind.\nThe girl is looking into the book. She is wearing a brown loose knitted fluffy cardigan, a milky strap top, a beige throw draped over her, impeccable makeup, lips in a dusty-rose shade.\nCozy atmosphere.\n| iPhone 17 photo quality"
+  },
+  "summaryTranslations": {
+    "en": "Realistic mobile photo quality portrait prompt of a girl lying on a wicker sofa reading a book in an autumn courtyard."
+  },
+  "translationVersion": 2,
+  "summary": "秋季庭院中女孩躺在藤椅上看书的写实手机质感肖像提示词。",
+  "summaryEn": "Prompt for a cozy portrait of a girl reading on a wicker sofa in an autumn courtyard.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098678464484401228",
+    "canonicalUrl": "https://x.com/oye_samia/status/2098678464484401228",
+    "author": {
+      "username": "oye_samia",
+      "displayName": "Dr. Samia",
+      "profileUrl": "https://x.com/oye_samia"
+    },
+    "publishedAt": "2026-09-12T07:41:52.000Z",
+    "collectedAt": "2026-09-12T08:28:30.238Z",
+    "language": "en",
+    "originalText": "Perfect autumn reading day.\n\nPrompt: Create a portrait without changing the facial features. Mobile photo quality.\nCreate a hyper realistic portrait. A girl is lying in the courtyard of a private house on a wicker sofa, a book in her hands, autumn leaves falling, long hair blown by the wind.\nThe girl is looking into the book. She is wearing a brown loose knitted fluffy cardigan, a milky strap top, a beige throw draped over her, impeccable makeup, lips in a dusty-rose shade.\nCozy atmosphere.\n| iPhone 17 photo quality",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSAA7EVb0AA2wZj.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSAA7EVb0AA2wZj.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSAA70za4AAhqUw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSAA70za4AAhqUw.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 31,
+      "repostCount": 7,
+      "replyCount": 19,
+      "quoteCount": 0,
+      "viewCount": 345
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/oye_samia/status/2098678464484401228",
+  "coverUrl": "https://pbs.twimg.com/media/HSAA7EVb0AA2wZj.jpg",
+  "coverPath": "images/2098678464484401228-1.jpg",
+  "imagePaths": [
+    "images/2098678464484401228-1.jpg",
+    "images/2098678464484401228-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSAA7EVb0AA2wZj",
+    "x-image:/media/HSAA70za4AAhqUw",
+    "x-post:2098678464484401228"
+  ],
+  "analysis": {
+    "summary": "秋季庭院中女孩躺在藤椅上看书的写实手机质感肖像提示词。",
+    "summaryEn": "Prompt for a cozy portrait of a girl reading on a wicker sofa in an autumn courtyard.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images closely match the prompt details, including the wicker sofa, brown cardigan, falling leaves, and book."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a portrait without changing the facial features. Mobile photo quality.\nCreate a hyper realistic portrait. A girl is lying in the courtyard of a private house on a wicker sofa, a book in her hands, autumn leaves falling, long hair blown by the wind.\nThe girl is looking into the book. She is wearing a brown loose knitted fluffy cardigan, a milky strap top, a beige throw draped over her, impeccable makeup, lips in a dusty-rose shade.\nCozy atmosphere.\n| iPhone 17 photo quality",
+    "sourceRange": {
+      "start": 37,
+      "end": 521
+    },
+    "translations": {
+      "zh": "在不改变面部特征的前提下创建肖像。手机拍照画质。\n创建超写实肖像。庭院中的藤编沙发上躺着一名少女，手拿书本，秋叶飘落，长发随风扬起。女孩专注看书，穿着棕色宽松针织毛开衫、米白吊带内搭，身上披着米色盖毯，精致妆容配灰粉色唇彩。惬意氛围。| iPhone 17 拍照画质",
+      "en": "Create a portrait without changing the facial features. Mobile photo quality.\nCreate a hyper realistic portrait. A girl is lying in the courtyard of a private house on a wicker sofa, a book in her hands, autumn leaves falling, long hair blown by the wind.\nThe girl is looking into the book. She is wearing a brown loose knitted fluffy cardigan, a milky strap top, a beige throw draped over her, impeccable makeup, lips in a dusty-rose shade.\nCozy atmosphere.\n| iPhone 17 photo quality"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Autumn outdoor reading portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
