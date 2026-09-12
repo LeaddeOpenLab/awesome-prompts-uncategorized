@@ -693,20 +693,20 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2098605916199456804"></a>
 
-### Traducción en curso
+### Retrato cinematográfico de lujo de un apuesto joven en una biblioteca de estilo dark academia junto a un escritorio antiguo.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2098605916199456804)
 
 Cine / Fotograma · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato cinematográfico de lujo de un apuesto joven en una biblioteca de estilo dark academia junto a un escritorio antiguo.
 
 <img src="images/2098605916199456804-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Fotografía de moda de lujo cinematográfica y ultrarrealista de un joven increíblemente atractivo de poco más de 20 años, de pie con confianza dentro de una imponente biblioteca de estilo Dark Academia. Tiene cabello negro azabache, grueso y naturalmente ondulado, con un sutil volumen despeinado, cejas fuertes y bien definidas, ojos castaños oscuros profundos y expresivos, una nariz recta y esculpida, pómulos prominentes, una mandíbula masculina y afilada, y una sutil barba incipiente natural. Viste un sofisticado blazer de lana marrón oscuro sobre un cuello de tortuga negro, pantalones negros a medida y un reloj de cuero vintage.\nLa biblioteca está llena de imponentes estanterías de madera antigua repletas de viejos libros encuadernados en cuero, pilas de manuscritos envejecidos, mesas de madera vintage, lámparas ornamentadas de latón, una cálida iluminación similar a la de las velas y una elegante arquitectura clásica. Cálidas lámparas doradas iluminan su rostro mientras que la habitación circundante cae en profundas sombras cinematográficas. Partículas de polvo flotan sutilmente a través de estrechos haces de luz, creando una atmósfera erudita y envolvente.\nEstá de pie junto a un escritorio de madera antigua sosteniendo un libro vintage abierto, con una mano descansando naturalmente sobre las páginas, mirando pensativamente hacia la cámara con una expresión tranquila, inteligente y misteriosa. Rica madera marrón, tonos caoba oscuros, cálida iluminación ámbar, sutil grano de película, claroscuro dramático, profundidad de campo reducida, textura y poros de piel realistas, detalles faciales naturales, sofisticada composición editorial, gradación de color cinematográfica, lente de 85 mm, f/1.8, HDR, ultradetallado, fotorrealista, 8K, fotografía editorial de moda premium, sin rostro artificial ni con aspecto de IA.
 ```
 
 [↑ Volver a categorías](#catalog)

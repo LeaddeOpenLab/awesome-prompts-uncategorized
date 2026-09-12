@@ -707,20 +707,20 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2098605916199456804"></a>
 
-### Tradução em andamento
+### Retrato cinematográfico de luxo de um jovem atraente em uma biblioteca dark academia ao lado de uma escrivaninha antiga.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2098605916199456804)
 
 Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato cinematográfico de luxo de um jovem atraente em uma biblioteca dark academia ao lado de uma escrivaninha antiga.
 
 <img src="images/2098605916199456804-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Fotografia de moda de luxo cinematográfica e ultrarrealista de um jovem incrivelmente bonito no início dos seus 20 anos, em pé com confiança dentro de uma grandiosa biblioteca no estilo Dark Academia. Ele tem cabelos pretos como azeviche, grossos e naturalmente ondulados com um sutil volume despenteado, sobrancelhas fortes e bem definidas, olhos castanho-escuros profundos e expressivos, um nariz reto e esculpido, maçãs do rosto proeminentes, um maxilar masculino bem delineado e uma sutil barba por fazer natural. Ele veste um blazer sofisticado de lã marrom-escuro sobre uma gola alta preta, calças pretas de alfaiataria e um relógio de couro vintage.\nA biblioteca é repleta de imponentes estantes de madeira antiga cheias de velhos livros encadernados em couro, pilhas de manuscritos envelhecidos, mesas de madeira vintage, luminárias ornamentadas de latão, iluminação acolhedora como a de velas e uma elegante arquitetura clássica. Luminárias douradas e quentes iluminam seu rosto, enquanto o ambiente ao redor mergulha em profundas sombras cinematográficas. Partículas de poeira flutuam sutilmente através de estreitos feixes de luz, criando um clima erudito e atmosférico.\nEle está de pé ao lado de uma mesa de madeira antiga segurando um livro vintage aberto, com uma das mãos pousada naturalmente sobre as páginas, olhando pensativo para a câmera com uma expressão calma, inteligente e misteriosa. Madeira marrom rica, tons escuros de mogno, iluminação âmbar acolhedora, granulado sutil de filme, chiaroscuro dramático, profundidade de campo rasa, textura e poros de pele realistas, detalhes faciais naturais, composição editorial sofisticada, gradação de cores cinematográfica, lente de 85mm, f/1.8, HDR, ultradetalhado, fotorrealista, 8K, fotografia editorial de moda premium, sem rosto artificial ou com aparência de IA.
 ```
 
 [↑ Voltar às categorias](#catalog)

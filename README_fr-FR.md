@@ -693,20 +693,20 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2098605916199456804"></a>
 
-### Traduction en cours
+### Portrait de luxe cinématographique d'un beau jeune homme dans une bibliothèque de style dark academia à côté d'un bureau ancien.
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2098605916199456804)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de luxe cinématographique d'un beau jeune homme dans une bibliothèque de style dark academia à côté d'un bureau ancien.
 
 <img src="images/2098605916199456804-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Photographie de mode de luxe cinématographique et ultra-réaliste d'un jeune homme remarquablement beau au début de la vingtaine, se tenant avec assurance à l'intérieur d'une grande bibliothèque de style Dark Academia. Il a d'épais cheveux noir de jais naturellement ondulés avec un subtil volume ébouriffé, des sourcils bien définis et marqués, des yeux marron foncé profonds et expressifs, un nez droit et sculpté, des pommettes saillantes, une mâchoire masculine et affûtée, et une barbe naissante subtile et naturelle. Il porte un blazer sophistiqué en laine marron foncé sur un col roulé noir, un pantalon noir ajusté et une montre en cuir vintage.\nLa bibliothèque est remplie d'imposantes étagères en bois ancien garnies de vieux livres reliés en cuir, de piles de manuscrits anciens, de tables en bois vintage, de lampes ouvragées en laiton, d'un éclairage chaleureux semblable à celui d'une bougie et d'une élégante architecture classique. Des lampes dorées et chaleureuses illuminent son visage tandis que la pièce environnante sombre dans de profondes ombres cinématographiques. Des particules de poussière flottent subtilement à travers d'étroits faisceaux de lumière, créant une ambiance érudite et feutrée.\nIl se tient à côté d'un bureau en bois ancien, tenant un livre vintage ouvert, une main posée naturellement sur les pages, regardant pensivement vers l'objectif avec une expression calme, intelligente et mystérieuse. Bois brun riche, tons acajou foncé, éclairage ambré chaleureux, grain de film subtil, clair-obscur dramatique, faible profondeur de champ, texture et pores de la peau réalistes, détails naturels du visage, composition éditoriale sophistiquée, étalonnage cinématographique, objectif 85 mm, f/1.8, HDR, ultra-détaillé, photoréaliste, 8K, photographie éditoriale de mode haut de gamme, aucun visage artificiel ou semblant généré par IA.
 ```
 
 [↑ Retour aux catégories](#catalog)

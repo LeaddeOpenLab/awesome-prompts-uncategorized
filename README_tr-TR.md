@@ -707,20 +707,20 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2098605916199456804"></a>
 
-### Çeviri sürüyor
+### Antik bir masanın yanında, dark academia kütüphanesindeki yakışıklı bir gencin sinematik lüks portresi.
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2098605916199456804)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Antik bir masanın yanında, dark academia kütüphanesindeki yakışıklı bir gencin sinematik lüks portresi.
 
 <img src="images/2098605916199456804-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Büyük bir Dark Academia kütüphanesinin içinde özgüvenle duran, 20'li yaşlarının başında, son derece yakışıklı bir gencin ultra gerçekçi, sinematik lüks moda fotoğrafı. Hafif dağınık bir hacme sahip, kalın ve doğal dalgalı simsiyah saçları, güçlü ve belirgin kaşları, derin ve etkileyici koyu kahverengi gözleri, düz ve biçimli bir burnu, çıkık elmacık kemikleri, keskin erkeksi bir çene hattı ve hafif, doğal kirli sakalı var. Siyah balıkçı yaka kazağının üzerine sofistike koyu kahverengi yün bir blazer ceket, özel dikim siyah pantolon ve nostaljik bir deri saat takıyor.\nKütüphane; eski deri ciltli kitaplarla dolu yüksek antik ahşap kitaplıklar, eski el yazması yığınları, nostaljik ahşap masalar, işlemeli pirinç lambalar, mum benzeri sıcak aydınlatma ve zarif klasik mimari ile doludur. Sıcak altın rengi lambalar yüzünü aydınlatırken, etraftaki oda derin sinematik gölgelere bürünüyor. Toz parçacıkları dar ışık huzmelerinin içinden usulca süzülerek atmosferik, entelektüel bir ortam yaratıyor.\nAçık nostaljik bir kitabı tutarak antik bir ahşap masanın yanında duruyor; bir eli doğal bir şekilde sayfaların üzerinde dinleniyor, sakin, zeki ve gizemli bir ifadeyle kameraya doğru düşünceli bir şekilde bakıyor. Zengin kahverengi ahşap, koyu maun tonları, sıcak kehribar aydınlatma, ince film greni, dramatik chiaroscuro (ışık-gölge), sığ alan derinliği, gerçekçi cilt dokusu ve gözenekler, doğal yüz detayları, sofistike editoryal kompozisyon, sinematik renk derecelendirmesi, 85 mm lens, f/1.8, HDR, ultra detaylı, fotogerçekçi, 8K, birinci sınıf moda editoryal fotoğrafçılığı, yapay veya yapay zekâ görünümü olmayan yüz.
 ```
 
 [↑ Kategorilere dön](#catalog)

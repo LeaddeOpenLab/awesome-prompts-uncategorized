@@ -729,20 +729,22 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2098605916199456804"></a>
 
-### Đang dịch
+### Chân dung điện ảnh xa xỉ của một chàng trai trẻ điển trai bên cạnh chiếc bàn cổ trong thư viện dark academia.
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2098605916199456804)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung điện ảnh xa xỉ của một chàng trai trẻ điển trai bên cạnh chiếc bàn cổ trong thư viện dark academia.
 
 <img src="images/2098605916199456804-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh thời trang xa xỉ đậm chất điện ảnh, siêu thực chụp một chàng trai trẻ cực kỳ điển trai ở độ tuổi đầu 20 đang tự tin đứng bên trong một thư viện phong cách Dark Academia tráng lệ. Anh có mái tóc đen tuyền dày lượn sóng tự nhiên với độ phồng rối nhẹ, đôi lông mày rậm sắc nét, đôi mắt nâu sẫm sâu thẳm đầy biểu cảm, sống mũi thẳng tắp như tạc, gò má nổi bật, đường quai hàm nam tính sắc sảo và râu lún phún tự nhiên. Anh mặc chiếc áo blazer len màu nâu sẫm tinh tế bên ngoài áo cổ lọ màu đen, quần tây đen may đo vừa vặn và đeo đồng hồ da cổ điển.
+Thư viện ngập tràn những giá sách gỗ cổ cao vút chật kín những cuốn sách bìa da cũ kỹ, những chồng bản thảo cổ xưa, bàn gỗ vintage, đèn đồng thau trang trí công phu, ánh sáng ấm áp như ánh nến và kiến trúc cổ điển thanh lịch. Đèn vàng ấm áp chiếu rọi gương mặt anh trong khi không gian xung quanh chìm vào những khoảng bóng tối sâu thẳm đầy chất điện ảnh. Những hạt bụi lơ lửng tinh tế qua các luồng sáng hẹp, tạo nên một tâm trạng bác học giàu khí chất.
+Anh đứng cạnh chiếc bàn gỗ cổ, cầm một cuốn sách cổ điển đang mở, một tay đặt tự nhiên lên trang sách, ánh mắt nhìn vào máy ảnh một cách trầm ngâm với biểu cảm điềm tĩnh, thông minh và bí ẩn. Gỗ nâu trầm đậm đà, tông màu gỗ gụ tối, ánh sáng hổ phách ấm áp, hạt phim mờ ảo, nghệ thuật tương phản sáng tối chiaroscuro đầy kịch tính, độ sâu trường ảnh nông, kết cấu da và lỗ chân lông chân thực, chi tiết khuôn mặt tự nhiên, bố cục ảnh bìa tạp chí tinh tế, chỉnh màu điện ảnh, ống kính 85mm, f/1.8, HDR, siêu chi tiết, chân thực như ảnh chụp, 8K, nhiếp ảnh thời trang cao cấp, không có khuôn mặt nhân tạo hay mang nét AI.
 ```
 
 [↑ Về danh mục](#catalog)

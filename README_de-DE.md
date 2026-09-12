@@ -693,20 +693,20 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2098605916199456804"></a>
 
-### Übersetzung läuft
+### Filmreifes Luxusporträt eines gutaussehenden jungen Mannes in einer Dark-Academia-Bibliothek neben einem antiken Schreibtisch.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2098605916199456804)
 
 Kinematisch / Filmstill · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmreifes Luxusporträt eines gutaussehenden jungen Mannes in einer Dark-Academia-Bibliothek neben einem antiken Schreibtisch.
 
 <img src="images/2098605916199456804-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistische, filmische Luxus-Modefotografie eines auffallend gutaussehenden jungen Mannes Anfang 20, der selbstbewusst in einer großen Dark-Academia-Bibliothek steht. Er hat dichtes, natürlich gewelltes, rabenschwarzes Haar mit dezentem, zerzaustem Volumen, kräftige, wohlgeformte Augenbrauen, tiefe, ausdrucksstarke dunkelbraune Augen, eine gerade, markante Nase, prominente Wangenknochen, eine scharfe maskuline Kieferpartie und dezente natürliche Stoppeln. Er trägt einen eleganten dunkelbraunen Wollblazer über einem schwarzen Rollkragenpullover, eine maßgeschneiderte schwarze Hose und eine Vintage-Lederuhr.\nDie Bibliothek ist gefüllt mit hoch aufragenden antiken Holzregalen voller alter, ledergebundener Bücher, Stapeln vergilbter Manuskripte, alten Holztischen, verzierten Messinglampen, kerzenartigem warmen Licht und eleganter klassischer Architektur. Warme goldene Lampen erhellen sein Gesicht, während der umgebende Raum in tiefe, filmische Schatten fällt. Staubpartikel schweben subtil durch schmale Lichtstrahlen und erzeugen eine stimmungsvolle, gelehrte Atmosphäre.\nEr steht neben einem antiken Holzschreibtisch und hält ein aufgeschlagenes Vintage-Buch, wobei eine Hand ganz natürlich auf den Seiten ruht, und blickt nachdenklich mit einem ruhigen, intelligenten, geheimnisvollen Ausdruck in die Kamera. Sattes braunes Holz, dunkle Mahagonitöne, warme bernsteinfarbene Beleuchtung, dezentes Filmkorn, dramatisches Chiaroscuro, geringe Schärfentiefe, realistische Hautstruktur und Poren, natürliche Gesichtsdetails, anspruchsvolle redaktionelle Komposition, filmisches Color Grading, 85mm-Objektiv, f/1.8, HDR, extrem detailliert, fotorealistisch, 8K, erstklassige Mode-Editorial-Fotografie, kein künstliches oder nach KI aussehendes Gesicht.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

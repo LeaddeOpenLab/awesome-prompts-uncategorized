@@ -707,20 +707,20 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2098605916199456804"></a>
 
-### Tradução em curso
+### Retrato cinematográfico de luxo de um jovem atraente numa biblioteca dark academia ao lado de uma secretária antiga.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2098605916199456804)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato cinematográfico de luxo de um jovem atraente numa biblioteca dark academia ao lado de uma secretária antiga.
 
 <img src="images/2098605916199456804-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Fotografia de moda de luxo cinematográfica e ultrarrealista de um jovem extraordinariamente atraente no início dos seus 20 anos, de pé com confiança dentro de uma imponente biblioteca de estilo Dark Academia. Ele tem cabelo preto como azeviche, espesso e naturalmente ondulado com um subtil volume despenteado, sobrancelhas fortes e bem definidas, olhos castanho-escuros profundos e expressivos, um nariz reto e esculpido, maçãs do rosto proeminentes, uma linha do maxilar masculina e marcada e uma subtil barba de dias natural. Veste um blazer sofisticado de lã castanho-escuro sobre uma camisola preta de gola alta, calças pretas à medida e um relógio de couro vintage.\nA biblioteca está repleta de estantes imponentes de madeira antiga cheias de livros velhos encadernados em couro, pilhas de manuscritos envelhecidos, mesas de madeira vintage, candeeiros ornamentados de latão, iluminação quente semelhante à de velas e uma elegante arquitetura clássica. Candeeiros dourados e quentes iluminam o seu rosto, enquanto a sala ao redor cai em sombras cinematográficas profundas. Partículas de poeira flutuam subtilmente através de feixes estreitos de luz, criando uma atmosfera académica e envolvente.\nEle encontra-se junto a uma secretária antiga de madeira segurando um livro vintage aberto, com uma mão a repousar naturalmente sobre as páginas, olhando pensativo para a câmara com uma expressão calma, inteligente e misteriosa. Madeira castanha rica, tons escuros de mogno, iluminação âmbar quente, grão de película subtil, chiaroscuro dramático, profundidade de campo reduzida, textura e poros de pele realistas, pormenores faciais naturais, composição editorial sofisticada, gradação de cor cinematográfica, objetiva de 85 mm, f/1.8, HDR, ultradetalhado, fotorrealista, 8K, fotografia editorial de moda premium, sem rosto artificial ou com aspeto de IA.
 ```
 
 [↑ Voltar às categorias](#catalog)
