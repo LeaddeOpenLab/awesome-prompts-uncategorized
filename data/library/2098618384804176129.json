@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:22:40.827Z",
+  "model": "unknown-image",
+  "prompt": "Close-up portrait of a beautiful young woman with high sleek ponytail, holding her ponytail with one hand behind head, soft natural makeup with defined eyebrows, long eyelashes, natural pink lips, rosy cheeks, glowing clear skin with realistic skin texture, small gold hoop earrings. Wearing white thin spaghetti strap top. \n\nPose: Side profile looking over shoulder, arm raised, confident and natural expression.\n\nBackground: Tropical outdoor with blurred green palm leaves, white textured wall on right, palm tree trunk behind, bright daylight, natural sunlight, shallow depth of field, bokeh.\n\nLighting: Soft natural daylight, even skin tones, no harsh shadows, realistic highlights on hair.\n\nStyle: DSLR photography shot on Canon EOS R5 with 85mm f/1.4 lens at f/2.2, ISO 100, sharp focus on eyes, ultra detailed, 8K, HDR, photorealistic, natural colors, no filter, no CGI look, authentic real person portrait, vertical 4:5 aspect ratio.\n\nNegative: no blur, no text, no writings, no watermark, no border, no over-editing.",
+  "promptTranslations": {
+    "en": "Close-up portrait of a beautiful young woman with high sleek ponytail, holding her ponytail with one hand behind head, soft natural makeup with defined eyebrows, long eyelashes, natural pink lips, rosy cheeks, glowing clear skin with realistic skin texture, small gold hoop earrings. Wearing white thin spaghetti strap top. Pose: Side profile looking over shoulder, arm raised, confident and natural expression. Background: Tropical outdoor with blurred green palm leaves, white textured wall on right, palm tree trunk behind, bright daylight, natural sunlight, shallow depth of field, bokeh. Lighting: Soft natural daylight, even skin tones, no harsh shadows, realistic highlights on hair. Style: DSLR photography shot on Canon EOS R5 with 85mm f/1.4 lens at f/2.2, ISO 100, sharp focus on eyes, ultra detailed, 8K, HDR, photorealistic, natural colors, no filter, no CGI look, authentic real person portrait, vertical 4:5 aspect ratio. Negative: no blur, no text, no writings, no watermark, no border, no over-editing."
+  },
+  "summaryTranslations": {
+    "en": "Close-up DSLR portrait of a woman holding a sleek ponytail against a tropical outdoor backdrop."
+  },
+  "translationVersion": 2,
+  "summary": "Close-up DSLR portrait of a woman holding a sleek ponytail against a tropical outdoor backdrop.",
+  "summaryEn": "Close-up DSLR portrait of a woman holding a sleek ponytail against a tropical outdoor backdrop.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098618384804176129",
+    "canonicalUrl": "https://x.com/oju689/status/2098618384804176129",
+    "author": {
+      "username": "oju689",
+      "displayName": "strike",
+      "profileUrl": "https://x.com/oju689"
+    },
+    "publishedAt": "2026-09-12T03:43:08.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "en",
+    "originalText": "Prompt\n\nClose-up portrait of a beautiful young woman with high sleek ponytail, holding her ponytail with one hand behind head, soft natural makeup with defined eyebrows, long eyelashes, natural pink lips, rosy cheeks, glowing clear skin with realistic skin texture, small gold hoop earrings. Wearing white thin spaghetti strap top. \n\nPose: Side profile looking over shoulder, arm raised, confident and natural expression.\n\nBackground: Tropical outdoor with blurred green palm leaves, white textured wall on right, palm tree trunk behind, bright daylight, natural sunlight, shallow depth of field, bokeh.\n\nLighting: Soft natural daylight, even skin tones, no harsh shadows, realistic highlights on hair.\n\nStyle: DSLR photography shot on Canon EOS R5 with 85mm f/1.4 lens at f/2.2, ISO 100, sharp focus on eyes, ultra detailed, 8K, HDR, photorealistic, natural colors, no filter, no CGI look, authentic real person portrait, vertical 4:5 aspect ratio.\n\nNegative: no blur, no text, no writings, no watermark, no border, no over-editing.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_KR25b0AA2r_T.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_KR25b0AA2r_T.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 1,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 357
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/oju689/status/2098618384804176129",
+  "coverUrl": "https://pbs.twimg.com/media/HR_KR25b0AA2r_T.jpg",
+  "coverPath": "images/2098618384804176129-1.jpg",
+  "imagePaths": [
+    "images/2098618384804176129-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR_KR25b0AA2r_T",
+    "x-post:2098618384804176129"
+  ],
+  "analysis": {
+    "summary": "Close-up DSLR portrait of a woman holding a sleek ponytail against a tropical outdoor backdrop.",
+    "summaryEn": "Close-up DSLR portrait of a woman holding a sleek ponytail against a tropical outdoor backdrop.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image aligns closely with the subject, pose, palm background, white strap top, and lighting described in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Close-up portrait of a beautiful young woman with high sleek ponytail, holding her ponytail with one hand behind head, soft natural makeup with defined eyebrows, long eyelashes, natural pink lips, rosy cheeks, glowing clear skin with realistic skin texture, small gold hoop earrings. Wearing white thin spaghetti strap top. \n\nPose: Side profile looking over shoulder, arm raised, confident and natural expression.\n\nBackground: Tropical outdoor with blurred green palm leaves, white textured wall on right, palm tree trunk behind, bright daylight, natural sunlight, shallow depth of field, bokeh.\n\nLighting: Soft natural daylight, even skin tones, no harsh shadows, realistic highlights on hair.\n\nStyle: DSLR photography shot on Canon EOS R5 with 85mm f/1.4 lens at f/2.2, ISO 100, sharp focus on eyes, ultra detailed, 8K, HDR, photorealistic, natural colors, no filter, no CGI look, authentic real person portrait, vertical 4:5 aspect ratio.\n\nNegative: no blur, no text, no writings, no watermark, no border, no over-editing.",
+    "sourceRange": {
+      "start": 8,
+      "end": 1033
+    },
+    "translations": {
+      "zh": "年轻女性高马尾特写肖像，单手抓发回头，热带棕榈树与白墙背景，单反人像摄影。",
+      "en": "Close-up portrait of a young woman with a sleek ponytail holding her hair, tropical outdoor background, DSLR style."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
