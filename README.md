@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**87** Prompts · Latest addition: **2026-09-12**
+**88** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1809,6 +1809,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098532039238570057"></a>
+
+### Hundreds of hand-held lights forming two rising shapes in a pale-bronze vigil fresco memorial scene.
+
+Author：[@RealLeeForest](https://x.com/RealLeeForest) · [Source](https://x.com/RealLeeForest/status/2098532039238570057)
+
+Other · Published
+
+**Summary:** Hundreds of hand-held lights forming two rising shapes in a pale-bronze vigil fresco memorial scene.
+
+<img src="images/2098532039238570057-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hundreds of small hand-held lights arranged in two rising forms not a crowd scene first but a single shared shape built from many quiet points held sky pale-bronze vigil fresco gathering realistic light stone and night texture cinematic lighting strong central twin forms highly detailed striking composition respectful memorial atmosphere no wreckage no fire no aircraft
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098562233991049325"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**87** Prompt · Bổ sung mới nhất: **2026-09-12**
+**88** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1666,6 +1666,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2098532039238570057"></a>
+
+### Đang dịch
+
+Tác giả：[@RealLeeForest](https://x.com/RealLeeForest) · [Bài gốc](https://x.com/RealLeeForest/status/2098532039238570057)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098532039238570057-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098562233991049325"></a>
 
