@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T00:19:50.799Z",
+  "model": "unknown-image",
+  "prompt": "Hundreds of small hand-held lights arranged in two rising forms not a crowd scene first but a single shared shape built from many quiet points held sky pale-bronze vigil fresco gathering realistic light stone and night texture cinematic lighting strong central twin forms highly detailed striking composition respectful memorial atmosphere no wreckage no fire no aircraft",
+  "promptTranslations": {
+    "en": "Hundreds of small hand-held lights arranged in two rising forms not a crowd scene first but a single shared shape built from many quiet points held sky pale-bronze vigil fresco gathering realistic light stone and night texture cinematic lighting strong central twin forms highly detailed striking composition respectful memorial atmosphere no wreckage no fire no aircraft"
+  },
+  "summaryTranslations": {
+    "en": "Hundreds of hand-held lights forming two rising shapes in a pale-bronze vigil fresco memorial scene."
+  },
+  "translationVersion": 2,
+  "summary": "Hundreds of hand-held lights forming two rising shapes in a pale-bronze vigil fresco memorial scene.",
+  "summaryEn": "Hundreds of hand-held lights forming two rising shapes in a pale-bronze vigil fresco memorial scene.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098532039238570057",
+    "canonicalUrl": "https://x.com/RealLeeForest/status/2098532039238570057",
+    "author": {
+      "username": "RealLeeForest",
+      "displayName": "Lee Forest",
+      "profileUrl": "https://x.com/RealLeeForest"
+    },
+    "publishedAt": "2026-09-11T22:00:01.000Z",
+    "collectedAt": "2026-09-12T00:15:57.617Z",
+    "language": "en",
+    "originalText": "Theme: Held sky  \nStyle: Pale-bronze vigil fresco  \nMood: Gathering  \n\nPrompt:  \nHundreds of small hand-held lights arranged in two rising forms not a crowd scene first but a single shared shape built from many quiet points held sky pale-bronze vigil fresco gathering realistic light stone and night texture cinematic lighting strong central twin forms highly detailed striking composition respectful memorial atmosphere no wreckage no fire no aircraft",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR6z5aRbYAAHDu_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR6z5aRbYAAHDu_.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 95
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RealLeeForest/status/2098532039238570057",
+  "coverUrl": "https://pbs.twimg.com/media/HR6z5aRbYAAHDu_.jpg",
+  "coverPath": "images/2098532039238570057-1.jpg",
+  "imagePaths": [
+    "images/2098532039238570057-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR6z5aRbYAAHDu_",
+    "x-post:2098532039238570057"
+  ],
+  "analysis": {
+    "summary": "Hundreds of hand-held lights forming two rising shapes in a pale-bronze vigil fresco memorial scene.",
+    "summaryEn": "Hundreds of hand-held lights forming two rising shapes in a pale-bronze vigil fresco memorial scene.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely renders two curved, rising columns of handheld candlelights in front of a textured stone wall in a memorial vigil style."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Hundreds of small hand-held lights arranged in two rising forms not a crowd scene first but a single shared shape built from many quiet points held sky pale-bronze vigil fresco gathering realistic light stone and night texture cinematic lighting strong central twin forms highly detailed striking composition respectful memorial atmosphere no wreckage no fire no aircraft",
+    "sourceRange": {
+      "start": 81,
+      "end": 452
+    },
+    "translations": {
+      "zh": "数百盏手持微光排列成两道升腾的形态，并非拥挤的人群场景，而是由许多静谧光点构成的单一整体轮廓，托举天空，淡青铜守夜壁画风格，聚会集结，写实的光影与夜石质感，电影感光效，强烈的中央孪生形态，极具细节与视觉冲击力的构图，庄严崇敬的纪念氛围，无残骸、无火灾、无飞机",
+      "en": "Hundreds of small hand-held lights arranged in two rising forms not a crowd scene first but a single shared shape built from many quiet points held sky pale-bronze vigil fresco gathering realistic light stone and night texture cinematic lighting strong central twin forms highly detailed striking composition respectful memorial atmosphere no wreckage no fire no aircraft"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
