@@ -35,20 +35,32 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098866496487276783"></a>
 
-### Çeviri sürüyor
+### 奢华男装酒红色皮质西装人像摄影提示词。
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2098866496487276783)
 
 Fotoğrafçılık · Portre / Selfie · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 奢华男装酒红色皮质西装人像摄影提示词。
 
 <img src="images/2098866496487276783-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüz kimliği referansı olarak yüklenen fotoğrafı kullanın.
+
+Koyu siyah bir stüdyo arka planı önünde, koyu vintage bir mimari sütunun yanında duran, 20'lerinin sonlarında veya 30'larının başlarında, kendine güvenen yetişkin bir erkeğin birinci sınıf sinematik bir moda portresini oluşturun.
+
+Vücuda oturan bir deri blazer ceket, uyumlu kırmızı balıkçı yaka kazak ve uyumlu özel dikim deri pantolondan oluşan, lüks ve tek renkli koyu bordo/kırmızı bir kıyafet giymektedir. Blazer ceketin keskin sivri yakaları, yapılandırılmış omuzları, ince dikişleri, işlevsel cepleri ve parlak düğmeleri vardır.
+
+Onu belden uyluğa kadar çerçeveleyin, iki kolu göğsünde kendinden emin bir şekilde kavuşturulmuş, omuzları dik, ciddi ve güçlü bir ifadeyle doğrudan kameraya bakacak şekilde ayakta durmasını sağlayın. Ona düzgün, kısa ve koyu renkli saçlar verin.
+
+Dramatik, low-key stüdyo aydınlatması kullanın: yüzü ve kırmızı deriyi aydınlatan yumuşak ana ışık, saçın ve omzun bir tarafı boyunca hafif soğuk kenar ışığı, derin gölgeler, zengin kontrast ve neredeyse siyah bir arka plan. Gerçekçi deri dokusunu, doğal cilt gözeneklerini, keskin yüz ayrıntılarını ve boyutsal vurguları öne çıkarın.
+
+Kompozisyon lüks bir erkek giyim kampanyası gibi hissettirmeli; sofistike, etkileyici, zarif, gizemli, editoryal ve sinematik olmalıdır. 85 mm portre lensiyle çekilmiş, sığ alan derinliği, ultra gerçekçi fotoğrafçılık, yüksek dinamik aralık, keskin odaklama, gerçekçi cilt dokusu, birinci sınıf moda dergisi kalitesi, dikey 9:16 kompozisyon.
+
+Metin yok, logo yok, filigran yok, fazladan insan yok, bozuk eller yok, abartılı kaslar yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -35,20 +35,32 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098866496487276783"></a>
 
-### Traduction en cours
+### 奢华男装酒红色皮质西装人像摄影提示词。
 
 Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2098866496487276783)
 
 Photographie · Portrait / Selfie · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** 奢华男装酒红色皮质西装人像摄影提示词。
 
 <img src="images/2098866496487276783-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez la photo importée comme référence d'identité faciale.
+
+Créez un portrait de mode cinématographique haut de gamme d'un homme adulte confiant, à la fin de la vingtaine ou au début de la trentaine, debout devant un arrière-plan de studio noir profond, à côté d'une colonne architecturale vintage sombre.
+
+Il porte une tenue luxueuse et monochrome bordeaux foncé/rouge comprenant un blazer en cuir ajusté, un col roulé rouge assorti et un pantalon en cuir sur mesure assorti. Le blazer présente des revers en pointe nets, des épaules structurées, des surpiqûres subtiles, des poches fonctionnelles et des boutons polis.
+
+Cadrez-le de la taille aux cuisses, debout bien droit, les deux bras croisés avec assurance sur la poitrine, les épaules bien droites, regardant directement l'appareil photo avec une expression sérieuse et puissante. Donnez-lui des cheveux bruns courts et soignés.
+
+Utilisez un éclairage de studio dramatique en low-key : une lumière principale douce illuminant le visage et le cuir rouge, une subtile lumière de contour froide le long d'un côté des cheveux et de l'épaule, des ombres profondes, un contraste riche et un arrière-plan presque noir. Mettez l'accent sur la texture réaliste du cuir, les pores naturels de la peau, des détails faciaux nets et des reflets dimensionnels.
+
+La composition doit évoquer une campagne de mode masculine de luxe, sophistiquée, imposante, élégante, mystérieuse, éditoriale et cinématographique. Prise de vue avec un objectif portrait 85 mm, faible profondeur de champ, photographie ultra-réaliste, plage dynamique élevée, mise au point nette, texture de peau réaliste, qualité magazine de mode haut de gamme, composition verticale 9:16.
+
+Pas de texte, pas de logo, pas de filigrane, pas de personnes supplémentaires, pas de mains déformées, pas de muscles exagérés.
 ```
 
 [↑ Retour aux catégories](#catalog)

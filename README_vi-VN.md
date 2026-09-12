@@ -35,20 +35,32 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098866496487276783"></a>
 
-### Đang dịch
+### Lời nhắc chụp ảnh chân dung trang phục vest da màu đỏ tía sang trọng dành cho nam.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098866496487276783)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chụp ảnh chân dung trang phục vest da màu đỏ tía sang trọng dành cho nam.
 
 <img src="images/2098866496487276783-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng ảnh đã tải lên làm tài liệu tham chiếu nhận dạng khuôn mặt.
+
+Tạo một bức chân dung thời trang điện ảnh cao cấp về một người đàn ông trưởng thành đầy tự tin ở độ tuổi cuối 20 đến đầu 30, đứng trước phông nền studio màu đen tuyền bên cạnh một cột kiến trúc cổ điển tối màu.
+
+Anh ấy mặc một bộ trang phục đơn sắc sang trọng màu đỏ tía/đỏ đậm gồm áo blazer da vừa vặn, áo cổ lọ màu đỏ đồng điệu và quần da may đo đồng bộ. Áo blazer có ve nhọn sắc sảo, cầu vai cứng cáp, đường may tinh tế, túi áo tiện dụng và khuy áo được đánh bóng.
+
+Tạo dáng chụp từ thắt lưng đến đùi, đứng thẳng với hai tay khoanh trước ngực một cách tự tin, vai mở rộng, nhìn thẳng vào máy ảnh với biểu cảm nghiêm túc, mạnh mẽ. Để kiểu tóc ngắn màu tối gọn gàng.
+
+Sử dụng ánh sáng studio phong cách low-key đầy kịch tính: ánh sáng chính (key light) mềm mại chiếu sáng khuôn mặt và chất liệu da đỏ, ánh sáng viền (rim light) tông lạnh nhẹ nhàng dọc theo một bên tóc và vai, bóng đổ sâu, độ tương phản phong phú và nền gần như đen hoàn toàn. Nhấn mạnh vào kết cấu da sống động, lỗ chân lông tự nhiên, chi tiết khuôn mặt sắc nét và các điểm sáng đa chiều.
+
+Bố cục phải mang lại cảm giác như một chiến dịch thời trang nam xa xỉ, tinh tế, uy quyền, thanh lịch, bí ẩn, mang đậm tính biên tập và chất điện ảnh. Chụp bằng ống kính chân dung 85mm, độ sâu trường ảnh nông, nhiếp ảnh siêu thực, dải tương phản động cao (HDR), lấy nét sắc nét, kết cấu da chân thực, chất lượng tạp chí thời trang cao cấp, bố cục dọc 9:16.
+
+Không có chữ, không có logo, không có watermark, không có người thừa, không có bàn tay bị biến dạng, không có cơ bắp phóng đại.
 ```
 
 [↑ Về danh mục](#catalog)

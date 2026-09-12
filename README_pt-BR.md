@@ -35,20 +35,32 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2098866496487276783"></a>
 
-### Tradução em andamento
+### 奢华男装酒红色皮质西装人像摄影提示词。
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2098866496487276783)
 
 Fotografia · Retrato / Selfie · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** 奢华男装酒红色皮质西装人像摄影提示词。
 
 <img src="images/2098866496487276783-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Use a foto enviada como referência de identidade facial.
+
+Crie um retrato de moda cinematográfico de alto padrão de um homem adulto e confiante no final dos 20 aos trinta e poucos anos, em pé contra um fundo de estúdio preto profundo ao lado de uma coluna arquitetônica vintage escura.
+
+Ele está vestindo um traje monocromático luxuoso em bordô/vermelho escuro composto por um blazer de couro ajustado, gola alta vermelha combinando e calças de couro sob medida combinando. O blazer tem lapelas pontudas e elegantes, ombros estruturados, costura sutil, bolsos funcionais e botões polidos.
+
+Posicione-o em um enquadramento da cintura às coxas, de pé e ereto com os dois braços cruzados com confiança sobre o peito, ombros alinhados, olhando diretamente para a câmera com uma expressão séria e imponente. Dê a ele cabelos escuros curtos e bem cuidados.
+
+Use iluminação dramática de estúdio em low-key: luz principal suave iluminando o rosto e o couro vermelho, luz de borda sutil e fria ao longo de um lado do cabelo e do ombro, sombras profundas, alto contraste e um fundo quase preto. Enfatize a textura realista do couro, os poros naturais da pele, detalhes faciais nítidos e realces dimensionais.
+
+A composição deve parecer uma campanha de moda masculina de luxo, sofisticada, imponente, elegante, misteriosa, editorial e cinematográfica. Fotografado com uma lente de retrato de 85 mm, profundidade de campo rasa, fotografia ultrarrealista, alta faixa dinâmica, foco nítido, textura de pele realista, qualidade de revista de moda de alto nível, composição vertical 9:16.
+
+Sem texto, sem logotipo, sem marca d'água, sem pessoas extras, sem mãos distorcidas, sem músculos exagerados.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -35,20 +35,32 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098866496487276783"></a>
 
-### Traducción en curso
+### Prompt de fotografía de retrato masculino de lujo con traje de cuero burdeos.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2098866496487276783)
 
 Fotografía · Retrato / Selfie · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de fotografía de retrato masculino de lujo con traje de cuero burdeos.
 
 <img src="images/2098866496487276783-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Usa la foto subida como referencia de identidad facial.
+
+Crea un retrato de moda cinematográfico de primera calidad de un hombre adulto seguro de sí mismo, de entre finales de los 20 y principios de los 30 años, de pie contra un fondo de estudio negro profundo junto a una columna arquitectónica vintage oscura.
+
+Viste un lujoso atuendo monocromático en tono burdeos/rojo intenso que consiste en una blazer de cuero entallada, un cuello vuelto rojo a juego y pantalones de cuero a medida a juego. La blazer tiene solapas de pico afiladas, hombros estructurados, costuras sutiles, bolsillos funcionales y botones pulidos.
+
+Posición con encuadre de cintura a muslos, de pie erguido con ambos brazos cruzados con confianza sobre el pecho, hombros rectos, mirando directamente a la cámara con una expresión seria y poderosa. Dale un cabello oscuro, corto y pulcro.
+
+Utiliza una iluminación de estudio dramática en clave baja (low-key): luz principal suave que ilumina el rostro y el cuero rojo, una sutil luz de contorno fría a lo largo de un lado del cabello y el hombro, sombras profundas, contraste rico y un fondo casi negro. Enfatiza la textura realista del cuero, los poros naturales de la piel, los detalles faciales nítidos y los reflejos dimensionales.
+
+La composición debe transmitir la sensación de una campaña de moda masculina de lujo: sofisticada, imponente, elegante, misteriosa, editorial y cinematográfica. Disparado con un objetivo para retratos de 85 mm, profundidad de campo reducida, fotografía ultrarrealista, alto rango dinámico, enfoque nítido, textura de piel realista, calidad de revista de moda de alta gama, composición vertical 9:16.
+
+Sin texto, sin logotipo, sin marca de agua, sin personas adicionales, sin manos distorsionadas, sin músculos exagerados.
 ```
 
 [↑ Volver a categorías](#catalog)

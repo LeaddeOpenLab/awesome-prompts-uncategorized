@@ -35,20 +35,32 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098866496487276783"></a>
 
-### Übersetzung läuft
+### 奢华男装酒红色皮质西装人像摄影提示词。
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2098866496487276783)
 
 Fotografie · Porträt / Selfie · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 奢华男装酒红色皮质西装人像摄影提示词。
 
 <img src="images/2098866496487276783-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende das hochgeladene Foto als Referenz für die Gesichtsidentität.
+
+Erstelle ein erstklassiges, filmisches Modeporträt eines selbstbewussten erwachsenen Mannes im Alter von Ende 20 bis Anfang 30, der vor einem tiefschwarzen Studiohintergrund neben einer dunklen, klassischen architektonischen Säule steht.
+
+Er trägt ein luxuriöses, monochromatisches Outfit in tiefem Burgunderrot/Rot, bestehend aus einem taillierten Lederblazer, einem passenden roten Rollkragenpullover und einer passenden maßgeschneiderten Lederhose. Der Blazer hat scharfe Spitzrevers, strukturierte Schultern, subtile Nähte, funktionale Taschen und polierte Knöpfe.
+
+Positioniere ihn im Bildausschnitt von der Taille bis zu den Oberschenkeln, aufrecht stehend mit selbstbewusst vor der Brust verschränkten Armen, aufrechten Schultern, mit einem ernsten, kraftvollen Ausdruck direkt in die Kamera blickend. Gib ihm gepflegtes, kurzes dunkles Haar.
+
+Verwende eine dramatische Low-Key-Studiobeleuchtung: weiches Führungslicht, das das Gesicht und das rote Leder beleuchtet, dezentes kühles Streiflicht entlang einer Seite des Haares und der Schulter, tiefe Schatten, satten Kontrast und einen nahezu schwarzen Hintergrund. Betone die realistische Ledertextur, natürliche Hautporen, scharfe Gesichtsdetails und dimensionale Glanzlichter.
+
+Die Komposition sollte sich wie eine Luxus-Herrenmodekampagne anfühlen: anspruchsvoll, gebieterisch, elegant, geheimnisvoll, redaktionell und filmisch. Aufgenommen mit einem 85-mm-Porträtobjektiv, geringe Schärfentiefe, ultrarealistische Fotografie, hoher Dynamikumfang, gestochen scharfer Fokus, realistische Hauttextur, erstklassige Modemagazin-Qualität, vertikale 9:16-Komposition.
+
+Kein Text, kein Logo, kein Wasserzeichen, keine zusätzlichen Personen, keine verzerrten Hände, keine übertriebenen Muskeln.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

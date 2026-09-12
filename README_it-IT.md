@@ -35,20 +35,32 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098866496487276783"></a>
 
-### Traduzione in corso
+### 奢华男装酒红色皮质西装人像摄影提示词。
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2098866496487276783)
 
 Fotografia · Ritratto / Selfie · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** 奢华男装酒红色皮质西装人像摄影提示词。
 
 <img src="images/2098866496487276783-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa la foto caricata come riferimento per l'identità del volto.
+
+Crea un ritratto di moda cinematografico di alta gamma di un uomo adulto e sicuro di sé, tra la fine dei 20 e l'inizio dei 30 anni, in piedi contro uno sfondo da studio nero profondo accanto a una scura colonna architettonica vintage.
+
+Indossa un lussuoso abito monocromatico bordeaux scuro/rosso composto da un blazer di pelle sfiancato, un dolcevita rosso coordinato e pantaloni di pelle sartoriali abbinati. Il blazer presenta revers a lancia affilati, spalle strutturate, cuciture sottili, tasche funzionali e bottoni lucidi.
+
+Mettilo in posa con un'inquadratura dalla vita alle cosce, in piedi dritto con entrambe le braccia conserte con sicurezza sul petto, le spalle squadrate, mentre fissa direttamente la fotocamera con un'espressione seria e potente. Dagli capelli scuri corti e ordinati.
+
+Usa un'illuminazione da studio low-key drammatica: luce chiave morbida che illumina il viso e la pelle rossa, una sottile luce d'accento fredda lungo un lato dei capelli e della spalla, ombre profonde, ricco contrasto e uno sfondo quasi nero. Enfatizza la trama realistica della pelle, i pori naturali della cute, dettagli del viso nitidi e riflessi dimensionali.
+
+La composizione deve sembrare quella di una campagna di moda maschile di lusso, sofisticata, autorevole, elegante, misteriosa, editoriale e cinematografica. Scattata con un obiettivo da ritratto da 85 mm, profondità di campo ridotta, fotografia ultra-realistica, ampia gamma dinamica, messa a fuoco nitida, texture della pelle realistica, qualità da rivista di moda premium, composizione verticale in 9:16.
+
+Nessun testo, nessun logo, nessun watermark, nessuna persona in più, nessuna mano distorta, nessun muscolo esagerato.
 ```
 
 [↑ Torna alle categorie](#catalog)
