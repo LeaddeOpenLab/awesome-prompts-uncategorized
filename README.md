@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**90** Prompts · Latest addition: **2026-09-12**
+**91** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1869,6 +1869,168 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098548428926308770"></a>
+
+### Detailed clothing prompt and negative prompt describing the material, folds, and wrapping style of a large wrapped bath towel in an onsen.
+
+Author：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Source](https://x.com/hiyayaxtukog68/status/2098548428926308770)
+
+Fashion Item · Published
+
+**Summary:** Detailed clothing prompt and negative prompt describing the material, folds, and wrapping style of a large wrapped bath towel in an onsen.
+
+<img src="images/2098548428926308770-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+ONSEN BATHING OUTFIT:
+
+one large white bath towel,
+full-size Japanese bath towel,
+thick opaque cotton terry-cloth construction,
+soft plush terry texture,
+clean pure-white to very slightly warm-white color,
+
+the towel is wrapped securely around the torso,
+strapless wrapped-towel construction,
+upper edge positioned high and securely around the upper torso,
+firm but comfortable wrap,
+
+wide enough to fully overlap at the front,
+substantial front overlap,
+no visible opening between the overlapping towel panels,
+
+front section formed from several natural diagonal and vertical folds,
+soft gathered folds caused by wrapping,
+slight compression folds around the upper edge,
+deeper overlapping folds toward the center front,
+
+the towel follows the body naturally without becoming skin-tight,
+moderate fabric volume,
+soft bulky cotton texture,
+clearly thicker than ordinary clothing fabric,
+
+upper edge:
+thick rolled or softly folded terry edge,
+slightly irregular natural towel edge,
+securely held in place,
+not slipping downward,
+
+front:
+overlapping wrapped construction,
+soft asymmetrical draping,
+several broad fabric creases,
+natural towel bunching,
+no knot visible,
+no bow,
+no belt,
+no straps,
+no buttons,
+no zipper,
+
+lower visible portion:
+continues downward below the visible waterline,
+lower edge partially wet from contact with bath water,
+slightly darker and heavier-looking terry texture near the waterline,
+but the towel remains opaque,
+
+MATERIAL:
+100% cotton-like terry cloth appearance,
+dense looped towel pile,
+soft absorbent surface,
+matte fabric,
+slight moisture absorption,
+subtle dampened fabric texture only near areas contacting water,
+
+no transparency,
+no glossy satin texture,
+no silk,
+no lace,
+no mesh,
+
+OVERALL:
+simple practical Japanese onsen bathing wrap,
+clean modest bathing appearance,
+minimalist,
+functional,
+securely wrapped,
+no decorative fashion styling
+
+Negative prompt to increase reproducibility
+NEGATIVE OUTFIT PROMPT:
+
+small towel,
+hand towel,
+thin towel,
+short towel,
+narrow towel,
+
+transparent towel,
+semi-transparent fabric,
+see-through towel,
+wet transparent cloth,
+clingy transparent fabric,
+
+slipping towel,
+falling towel,
+loose unsecured towel,
+open towel front,
+large gap in towel,
+insufficient fabric overlap,
+
+low-positioned towel edge,
+towel folded too low,
+unstable upper edge,
+
+towel knot,
+large bow,
+belt around towel,
+shoulder straps,
+halter strap,
+spaghetti straps,
+
+bathrobe,
+yukata,
+kimono,
+robe,
+dress,
+shirt,
+camisole,
+lingerie,
+underwear,
+swimsuit,
+bikini,
+one-piece swimsuit,
+
+lace trim,
+ruffles,
+embroidery,
+printed pattern,
+floral towel,
+colored towel,
+logo,
+readable text,
+
+silk,
+satin,
+vinyl,
+latex,
+mesh,
+
+jewelry,
+necklace,
+choker,
+bracelet,
+wristwatch,
+earrings,
+anklet
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098532039238570057"></a>
 
