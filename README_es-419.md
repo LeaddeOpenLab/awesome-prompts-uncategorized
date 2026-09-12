@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**89** Prompts · Última incorporación: **2026-09-12**
+**90** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1375,6 +1375,28 @@ Crea para mí un rack de servidores para 6 Nvidia Sparks que tenga un diseño ef
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098562484604989642"></a>
+
+### Traducción en curso
+
+Autor：[@heathergreen](https://x.com/heathergreen) · [Publicación original](https://x.com/heathergreen/status/2098562484604989642)
+
+Retro / Vintage · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098562484604989642-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098382221514334261"></a>
 

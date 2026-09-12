@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**89** 条内容 · 最新收录: **2026-09-12**
+**90** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1394,6 +1394,28 @@ CGI毛发、
 <a name="category-retro-vintage"></a>
 
 ## 复古 / 怀旧
+
+<a name="prompt-2098562484604989642"></a>
+
+### 翻译中
+
+作者：[@heathergreen](https://x.com/heathergreen) · [查看 X 原帖](https://x.com/heathergreen/status/2098562484604989642)
+
+复古 / 怀旧 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2098562484604989642-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098382221514334261"></a>
 

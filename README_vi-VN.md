@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**89** Prompt · Bổ sung mới nhất: **2026-09-12**
+**90** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1398,6 +1398,28 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2098562484604989642"></a>
+
+### Đang dịch
+
+Tác giả：[@heathergreen](https://x.com/heathergreen) · [Bài gốc](https://x.com/heathergreen/status/2098562484604989642)
+
+Cổ điển / Cổ điển · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098562484604989642-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098382221514334261"></a>
 

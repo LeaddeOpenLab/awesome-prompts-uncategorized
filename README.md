@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**89** Prompts · Latest addition: **2026-09-12**
+**90** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1462,6 +1462,28 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098562484604989642"></a>
+
+### Neon text &quot;STAY WEIRD&quot; suspended in a retro flying saucer's blue tractor beam against a starry sky.
+
+Author：[@heathergreen](https://x.com/heathergreen) · [Source](https://x.com/heathergreen/status/2098562484604989642)
+
+Retro / Vintage · Published
+
+**Summary:** Neon text &quot;STAY WEIRD&quot; suspended in a retro flying saucer's blue tractor beam against a starry sky.
+
+<img src="images/2098562484604989642-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+the bold neon text "STAY WEIRD" is suspended in a bright blue tractor beam from a classic retro chrome flying saucer, hovering in a dark starry night sky, dramatic lighting, vaporwave colors, cinematic composition, high resolution digital illustration with film grain and matte color effects.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098382221514334261"></a>
 
