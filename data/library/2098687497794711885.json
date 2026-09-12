@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T08:49:54.393Z",
+  "model": "grok",
+  "prompt": "Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚女性，套装因为久穿已经非常松垮，肩带掉了一边，胸口遮住又没遮严，黄金比例身材，蜂腰巨乳，大腿修长紧致，姿势暧昧而诱惑的窝在没叠的床上，衣服凌乱，放松惬意的氛围",
+  "promptTranslations": {
+    "en": "CCD casual lifestyle snapshot, slightly out of focus, an East Asian woman wearing an old sheer black lace set that has become very loose and baggy from long-term wear, one shoulder strap slipped down, chest partially covered yet not completely concealed, golden ratio figure, wasp waist and large breasts, slender and toned thighs, nestled on an unmade bed in an ambiguous and seductive pose, messy clothing, relaxed and cozy atmosphere"
+  },
+  "summaryTranslations": {
+    "en": "Home portrait of an East Asian woman in black lace sleepwear lying on a bed"
+  },
+  "translationVersion": 2,
+  "summary": "穿黑色蕾丝睡衣躺在床上的东亚女性居家写真",
+  "summaryEn": "Casual snapshot of an East Asian woman in black lace lingerie on a bed",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098687497794711885",
+    "canonicalUrl": "https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885",
+    "author": {
+      "username": "o6qLZZ0KC1uPd8b",
+      "displayName": "TheProMaxUltra",
+      "profileUrl": "https://x.com/o6qLZZ0KC1uPd8b"
+    },
+    "publishedAt": "2026-09-12T08:17:45.000Z",
+    "collectedAt": "2026-09-12T08:28:30.238Z",
+    "language": "zh",
+    "originalText": "Grok Imagine prompt:\n\nCcd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚女性，套装因为久穿已经非常松垮，肩带掉了一边，胸口遮住又没遮严，黄金比例身材，蜂腰巨乳，大腿修长紧致，姿势暧昧而诱惑的窝在没叠的床上，衣服凌乱，放松惬意的氛围 https://t.co/0PsCp7r9PX",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098687455201460224/img/GRatISZkb0Zofn5b.jpg",
+        "analysisUrl": "https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 15
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098687455201460224/img/GRatISZkb0Zofn5b.jpg",
+  "coverPath": "covers/2098687497794711885.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098687455201460224",
+    "x-post:2098687497794711885"
+  ],
+  "analysis": {
+    "summary": "穿黑色蕾丝睡衣躺在床上的东亚女性居家写真",
+    "summaryEn": "Casual snapshot of an East Asian woman in black lace lingerie on a bed",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频中的东亚女性、黑色薄蕾丝内衣、滑落的肩带及床上姿态与提示词高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚女性，套装因为久穿已经非常松垮，肩带掉了一边，胸口遮住又没遮严，黄金比例身材，蜂腰巨乳，大腿修长紧致，姿势暧昧而诱惑的窝在没叠的床上，衣服凌乱，放松惬意的氛围",
+    "sourceRange": {
+      "start": 22,
+      "end": 128
+    },
+    "translations": {
+      "zh": "Ccd生活照随拍，轻微失焦，身穿旧黑色薄蕾丝套装的东亚女性，套装因为久穿已经非常松垮，肩带掉了一边，胸口遮住又没遮严，黄金比例身材，蜂腰巨乳，大腿修长紧致，姿势暧昧而诱惑的窝在没叠的床上，衣服凌乱，放松惬意的氛围",
+      "en": "CCD casual snapshot, slightly out of focus, East Asian woman in worn black sheer lace lingerie, loose straps sliding off one shoulder, relaxed and seductive pose on an unmade bed, cozy atmosphere"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "性感人像写真",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.92,
+    "riskFlags": {
+      "safety": [
+        "nsfw",
+        "suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
