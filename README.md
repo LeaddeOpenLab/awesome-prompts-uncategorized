@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**84** Prompts · Latest addition: **2026-09-11**
+**85** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098530398724915395"></a>
+
+### Photorealistic medium full-body portrait of a young Japanese woman in gothic-inspired pink and black lace lingerie walking in a glowing twilight flower field.
+
+Author：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Source](https://x.com/ai_vision_2nd/status/2098530398724915395)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Photorealistic medium full-body portrait of a young Japanese woman in gothic-inspired pink and black lace lingerie walking in a glowing twilight flower field.
+
+<img src="images/2098530398724915395-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098530398724915395-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Photorealistic medium full-body fashion catalog photograph of a beautiful young Japanese woman with soft kawaii expression, voluminous wavy dark hair with multiple black lace bows and pearl accents, natural abundant breasts with realistic soft volume and fine skin grain, wearing only cute yet gothic-inspired pale pink and black layered lace lingerie bottoms with ribbon details, matching thigh straps, and elegant gothic platform sandals. She walks slowly through a dreamlike glowing flower field at dusk with floating light orbs, body slightly turned, one hand lifting a lace edge of her lingerie, gaze directed softly toward the camera. The subject fills a significant portion of the frame in a medium full-body shot. Subject remains extremely detailed and photorealistic even in this full-body composition, with razor-sharp facial features, visible skin pores and peach fuzz, natural breast realism, and intricate multi-layered lace textures fully resolved. Shot on a Canon EOS R5 with 70mm f/1.8 lens at f/2.0, soft twilight lighting with gentle bloom, ultra-realistic skin and fabric micro-textures.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098490558474027231"></a>
 
