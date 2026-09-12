@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**106** Prompts · Adição mais recente: **2026-09-12**
+**107** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098634064354045974"></a>
+
+### Tradução em curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098634064354045974)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098634064354045974-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098634812307476794"></a>
 
