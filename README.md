@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**109** Prompts · Latest addition: **2026-09-12**
+**110** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2415,6 +2415,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098688482281452002"></a>
+
+### SpaceX rocket launch
+
+Author：[@iadventurejacek](https://x.com/iadventurejacek) · [Source](https://x.com/iadventurejacek/status/2098688482281452002)
+
+Other · Published
+
+**Summary:** SpaceX rocket launch
+
+<img src="covers/2098688482281452002.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+spacex
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098689113780064605"></a>
 

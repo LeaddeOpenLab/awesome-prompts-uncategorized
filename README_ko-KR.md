@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**109** 개 · 최근 추가: **2026-09-12**
+**110** 개 · 최근 추가: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2061,6 +2061,28 @@ FIELD NOTE [번호]
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2098688482281452002"></a>
+
+### 번역 중
+
+작성자：[@iadventurejacek](https://x.com/iadventurejacek) · [원본 게시물](https://x.com/iadventurejacek/status/2098688482281452002)
+
+기타 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2098688482281452002.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098689113780064605"></a>
 
