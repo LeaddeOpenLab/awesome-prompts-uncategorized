@@ -1723,20 +1723,20 @@ Tradução em curso
 
 <a name="prompt-2098532039238570057"></a>
 
-### Tradução em curso
+### Centenas de luzes seguradas na mão a formar duas figuras ascendentes numa cena memorial de vigília em fresco de bronze pálido.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicação original](https://x.com/RealLeeForest/status/2098532039238570057)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Centenas de luzes seguradas na mão a formar duas figuras ascendentes numa cena memorial de vigília em fresco de bronze pálido.
 
 <img src="images/2098532039238570057-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Centenas de pequenas luzes seguradas na mão dispostas em duas formas ascendentes, não uma cena de multidão em primeiro lugar, mas uma forma única e partilhada construída a partir de muitos pontos silenciosos erguidos ao céu, vigília em estilo fresco em bronze pálido, luz realista, textura de pedra e noite, iluminação cinematográfica, fortes formas gémeas centrais, altamente detalhado, composição marcante, atmosfera memorial respeitosa, sem destroços, sem fogo, sem aeronaves
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -1706,20 +1706,20 @@ Modeartikel · Veröffentlicht
 
 <a name="prompt-2098532039238570057"></a>
 
-### Übersetzung läuft
+### Hunderte von Handlichtern, die in einer Gedenkszene als Fresko einer Mahnwache in blassem Bronze zwei emporragende Formen bilden.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Originalbeitrag](https://x.com/RealLeeForest/status/2098532039238570057)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Hunderte von Handlichtern, die in einer Gedenkszene als Fresko einer Mahnwache in blassem Bronze zwei emporragende Formen bilden.
 
 <img src="images/2098532039238570057-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hunderte kleiner Handlichter, die in zwei emporragenden Formen angeordnet sind, in erster Linie keine Massenszene, sondern eine einzige gemeinsame Form, gebildet aus vielen stillen, in den Himmel gehaltenen Punkten, Zusammenkunft als Mahnwache im Stil eines Freskos in blassem Bronze, realistisches Licht, Textur von Stein und Nacht, filmische Beleuchtung, markante zentrale Zwillingsformen, hochdetailliert, eindrucksvolle Komposition, respektvolle Gedenkatmosphäre, keine Trümmer, kein Feuer, keine Flugzeuge
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

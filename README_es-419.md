@@ -1706,20 +1706,20 @@ Traducción en curso
 
 <a name="prompt-2098532039238570057"></a>
 
-### Traducción en curso
+### Cientos de luces sostenidas a mano que forman dos figuras ascendentes en una escena conmemorativa estilo fresco de vigilia en bronce pálido.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicación original](https://x.com/RealLeeForest/status/2098532039238570057)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Cientos de luces sostenidas a mano que forman dos figuras ascendentes en una escena conmemorativa estilo fresco de vigilia en bronce pálido.
 
 <img src="images/2098532039238570057-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Cientos de pequeñas luces sostenidas con la mano dispuestas en dos formas ascendentes, no una escena de multitud en primer lugar, sino una única figura compartida construida a partir de muchos puntos silenciosos alzados al cielo, vigilia comunitaria estilo fresco en bronce pálido, luz realista, textura de piedra y noche, iluminación cinematográfica, imponentes formas gemelas centrales, altamente detallado, composición impactante, atmósfera conmemorativa respetuosa, sin escombros, sin fuego, sin aviones
 ```
 
 [↑ Volver a categorías](#catalog)

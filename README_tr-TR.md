@@ -1723,20 +1723,20 @@ Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098532039238570057"></a>
 
-### Çeviri sürüyor
+### Soluk bronz renkli bir nöbet freski anma sahnesinde yükselen iki şekil oluşturan yüzlerce elde tutulan ışık.
 
 Yazar：[@RealLeeForest](https://x.com/RealLeeForest) · [Orijinal gönderi](https://x.com/RealLeeForest/status/2098532039238570057)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Soluk bronz renkli bir nöbet freski anma sahnesinde yükselen iki şekil oluşturan yüzlerce elde tutulan ışık.
 
 <img src="images/2098532039238570057-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yükselen iki form halinde düzenlenmiş yüzlerce küçük el feneri ışığı, öncelikle bir kalabalık sahnesi değil gökyüzüne doğru tutulan birçok sessiz noktadan inşa edilmiş tek bir ortak şekil, soluk bronz tonlarında nöbet freski toplanması, gerçekçi ışık, taş ve gece dokusu, sinematik aydınlatma, güçlü merkezi ikiz formlar, son derece ayrıntılı, çarpıcı kompozisyon, saygılı anma atmosferi, enkaz yok, yangın yok, uçak yok
 ```
 
 [↑ Kategorilere dön](#catalog)

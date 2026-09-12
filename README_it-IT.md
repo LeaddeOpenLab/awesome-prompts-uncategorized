@@ -1706,20 +1706,20 @@ Traduzione in corso
 
 <a name="prompt-2098532039238570057"></a>
 
-### Traduzione in corso
+### Centinaia di luci tenute in mano che formano due figure ascendenti in una scena commemorativa ad affresco di veglia in bronzo pallido.
 
 Autore：[@RealLeeForest](https://x.com/RealLeeForest) · [Post originale](https://x.com/RealLeeForest/status/2098532039238570057)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Centinaia di luci tenute in mano che formano due figure ascendenti in una scena commemorativa ad affresco di veglia in bronzo pallido.
 
 <img src="images/2098532039238570057-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Centinaia di piccole luci tenute in mano disposte in due forme che si innalzano, non primariamente una scena di folla ma un'unica forma condivisa costruita da molti punti silenziosi sollevati verso il cielo, adunata di veglia in stile affresco in bronzo pallido, luce realistica, texture di pietra e di notte, illuminazione cinematografica, forti forme gemelle centrali, altamente dettagliato, composizione d'impatto, atmosfera commemorativa e rispettosa, nessun relitto, nessun fuoco, nessun velivolo
 ```
 
 [↑ Torna alle categorie](#catalog)

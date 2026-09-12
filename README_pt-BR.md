@@ -1723,20 +1723,20 @@ Tradução em andamento
 
 <a name="prompt-2098532039238570057"></a>
 
-### Tradução em andamento
+### Centenas de luzes manuais formando duas silhuetas ascendentes em uma cena memorial de vigília em afresco de bronze pálido.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicação original](https://x.com/RealLeeForest/status/2098532039238570057)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Centenas de luzes manuais formando duas silhuetas ascendentes em uma cena memorial de vigília em afresco de bronze pálido.
 
 <img src="images/2098532039238570057-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Centenas de pequenas luzes seguradas à mão dispostas em duas formas ascendentes, não prioritariamente uma cena de multidão, mas uma única forma compartilhada construída a partir de muitos pontos silenciosos erguidos ao céu, vigília em estilo afresco em bronze pálido, luz realista, textura de pedra e noite, iluminação cinematográfica, formas gêmeas centrais imponentes, altamente detalhado, composição marcante, atmosfera memorial respeitosa, sem destroços, sem fogo, sem aeronaves
 ```
 
 [↑ Voltar às categorias](#catalog)

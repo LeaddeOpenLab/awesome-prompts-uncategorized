@@ -1741,20 +1741,20 @@ Mặt hàng thời trang · Đã xuất bản
 
 <a name="prompt-2098532039238570057"></a>
 
-### Đang dịch
+### Hàng trăm ngọn đèn cầm tay tạo thành hai hình khối vươn cao trong khung cảnh tưởng niệm bích họa màu đồng nhạt.
 
 Tác giả：[@RealLeeForest](https://x.com/RealLeeForest) · [Bài gốc](https://x.com/RealLeeForest/status/2098532039238570057)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hàng trăm ngọn đèn cầm tay tạo thành hai hình khối vươn cao trong khung cảnh tưởng niệm bích họa màu đồng nhạt.
 
 <img src="images/2098532039238570057-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hàng trăm ngọn đèn cầm tay nhỏ được sắp xếp thành hai khối hình vươn cao, không phải là cảnh đám đông thông thường mà là một hình thái chung duy nhất được tạo nên từ vô số điểm sáng tĩnh lặng giơ cao lên bầu trời, buổi tập hợp cầu nguyện tĩnh tâm như bức bích họa màu đồng nhạt, ánh sáng chân thực, chất liệu đá và màn đêm, ánh sáng điện ảnh, hai khối hình song sinh trung tâm mạnh mẽ, độ chi tiết cao, bố cục ấn tượng, không khí tưởng niệm trang nghiêm, không có đống đổ nát, không có lửa, không có máy bay
 ```
 
 [↑ Về danh mục](#catalog)

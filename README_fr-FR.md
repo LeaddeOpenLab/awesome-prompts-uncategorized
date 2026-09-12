@@ -1706,20 +1706,20 @@ Traduction en cours
 
 <a name="prompt-2098532039238570057"></a>
 
-### Traduction en cours
+### Des centaines de lumières tenues à la main formant deux silhouettes ascendantes dans une scène commémorative façon fresque de veillée en bronze pâle.
 
 Auteur：[@RealLeeForest](https://x.com/RealLeeForest) · [Publication originale](https://x.com/RealLeeForest/status/2098532039238570057)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Des centaines de lumières tenues à la main formant deux silhouettes ascendantes dans une scène commémorative façon fresque de veillée en bronze pâle.
 
 <img src="images/2098532039238570057-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Des centaines de petites lumières tenues à la main disposées en deux formes s'élevant, non pas d'abord une scène de foule mais une forme unique et partagée construite à partir de nombreux points silencieux tendus vers le ciel, rassemblement de veillée façon fresque en bronze pâle, lumière réaliste, texture de pierre et de nuit, éclairage cinématographique, puissantes formes jumelles centrales, très détaillé, composition saisissante, atmosphère commémorative respectueuse, aucun débris, aucun feu, aucun avion
 ```
 
 [↑ Retour aux catégories](#catalog)
