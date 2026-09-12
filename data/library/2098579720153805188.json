@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:24:56.564Z",
+  "model": "unknown-image",
+  "prompt": "A normal pair of human hands.",
+  "promptTranslations": {
+    "en": "A normal pair of human hands."
+  },
+  "summaryTranslations": {
+    "en": "A normal pair of human hands."
+  },
+  "translationVersion": 2,
+  "summary": "A normal pair of human hands.",
+  "summaryEn": "A normal pair of human hands.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098579720153805188",
+    "canonicalUrl": "https://x.com/ferranteirkl3/status/2098579720153805188",
+    "author": {
+      "username": "ferranteirkl3",
+      "displayName": "ferrante irma",
+      "profileUrl": "https://x.com/ferranteirkl3"
+    },
+    "publishedAt": "2026-09-12T01:09:29.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "en",
+    "originalText": "Prompt was &amp;quot;A normal pair of human hands.&amp;quot;\n#OpenAI https://t.co/H97J82syuR",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-nBiKbUAARqvq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-nBiKbUAARqvq.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ferranteirkl3/status/2098579720153805188",
+  "coverUrl": "https://pbs.twimg.com/media/HR-nBiKbUAARqvq.jpg",
+  "coverPath": "images/2098579720153805188-1.jpg",
+  "imagePaths": [
+    "images/2098579720153805188-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR-nBiKbUAARqvq",
+    "x-post:2098579720153805188"
+  ],
+  "analysis": {
+    "summary": "A normal pair of human hands.",
+    "summaryEn": "A normal pair of human hands.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image depicts a pair of human hands on a dark background, matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A normal pair of human hands.",
+    "sourceRange": {
+      "start": 21,
+      "end": 50
+    },
+    "translations": {
+      "zh": "一双正常的人类双手。",
+      "en": "A normal pair of human hands."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI hand generation test",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.8,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
