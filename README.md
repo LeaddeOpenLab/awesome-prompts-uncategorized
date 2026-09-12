@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**93** Prompts · Latest addition: **2026-09-12**
+**94** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1510,6 +1510,28 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098589129512747309"></a>
+
+### 1985 library candid portrait of a blonde young woman in vintage 80s outfit with date stamp.
+
+Author：[@Milliekio](https://x.com/Milliekio) · [Source](https://x.com/Milliekio/status/2098589129512747309)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** 1985 library candid portrait of a blonde young woman in vintage 80s outfit with date stamp.
+
+<img src="images/2098589129512747309-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Using the image above as the facial reference. Maintain exact facial structure, proportions, features, and expression with consistent identity. Ultra-realistic 1985 library candid portrait of the same young woman, preserving identical recognizable facial features, skin tone and natural texture. She stands between tall wooden bookshelves, touching a book spine while holding several books against her waist, calmly facing the camera. Long blonde hair in a high ponytail with a large burgundy scrunchie, loose curls, red hoop earrings, soft 80s glam makeup, rosy cheeks and glossy nude lips. She wears a white collared blouse, high-waisted red-and-green plaid skirt, cropped blue denim jacket and burgundy shoulder bag. Warm library lighting, vintage books, globe and posters create the 1980s setting. 35mm snapshot, subtle flash, analog grain, faded warm colors, dust, scratches, soft focus, worn border and red date stamp "MAR 10 1985".
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098562484604989642"></a>
 
