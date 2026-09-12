@@ -63,20 +63,20 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 
 <a name="prompt-2098535116545110425"></a>
 
-### Đang dịch
+### Ảnh toàn thân cự ly trung bình siêu thực về một siêu mẫu phong cách grunge mặc áo khoác da đen ngồi giữa muôn hoa.
 
 Tác giả：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Bài gốc](https://x.com/ai_vision_2nd/status/2098535116545110425)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh toàn thân cự ly trung bình siêu thực về một siêu mẫu phong cách grunge mặc áo khoác da đen ngồi giữa muôn hoa.
 
 <img src="images/2098535116545110425-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh toàn thân cự ly trung bình siêu thực về một nữ siêu mẫu phong cách grunge quyến rũ đẫy đà như người mẫu tạp chí, đang ngồi giữa cánh đồng hoa nở rộ. Thân hình đồng hồ cát hoàn hảo với những đường cong mềm mại tự nhiên. Mái tóc đơn giản một cách dứt khoát và tinh tế: các lớp tóc tỉa ngắn đến vừa với phần đuôi so le mềm mại. Lối trang điểm grunge tối giản lập dị — viền mắt lem, môi nhạt màu, tàn nhang mờ. Cô mặc một chiếc áo khoác da màu đen dáng dài phong cách grunge để mở nhưng phần lớn được che kín trước ngực nhờ nếp rủ tự nhiên và những cánh hoa tươi lớn đặt vắt ngang phía trước; chỉ để lộ xương quai xanh cùng một dải da hẹp theo chiều dọc. Chiếc quần cạp trễ sờn rách hoàn thiện vẻ ngoài. Dáng ngồi thư thái, một đầu gối co lên, hai tay nhẹ nhàng ôm lấy những bông hoa càng làm mềm mại khu vực ngực. Mỗi bông hoa hé nở như tràn ngập màu sắc sống động phong phú vào thế giới xám xịt, lan tỏa trên áo khoác và làn da của cô. Chủ thể lấp đầy phần lớn khung hình. Chủ thể vẫn giữ được độ chi tiết và chân thực tột bậc ngay cả trong bố cục toàn thân cùng môi trường này — độ sắc nét của khuôn mặt, lỗ chân lông, lông tơ và kết cấu da thuộc đều hoàn toàn rõ nét. 85mm ở f/1.8, ánh sáng định hướng mềm mại với hiệu ứng màu sắc bừng sáng siêu thực, sự thể hiện nghệ thuật và tiết chế về vẻ đẹp nữ tính.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -63,20 +63,20 @@ Tradução em curso
 
 <a name="prompt-2098535116545110425"></a>
 
-### Tradução em curso
+### Foto ultrafotorrealista de corpo inteiro médio de uma supermodelo grunge com casaco de couro preto sentada entre flores.
 
 Autor：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Publicação original](https://x.com/ai_vision_2nd/status/2098535116545110425)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Foto ultrafotorrealista de corpo inteiro médio de uma supermodelo grunge com casaco de couro preto sentada entre flores.
 
 <img src="images/2098535116545110425-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Fotografia ultrafotorrealista de corpo inteiro médio de uma mulher supermodelo grunge voluptuosa e glamorosa em estilo playmate, sentada num campo de flores em botão. Silhueta perfeita em ampulheta com volume suave e natural. Cabelo agressivamente simples e delicado: camadas escadeadas de comprimento curto a médio com pontas suaves e irregulares. Maquilhagem grunge minimalista e excêntrica — delineador esbatido, lábios pálidos, sardas ténues. Ela veste um casaco comprido de couro preto estilo grunge, aberto mas que permanece em grande parte fechado sobre o peito pelo cair do tecido e por grandes pétalas de flores frescas que repousam naturalmente na frente; apenas as clavículas e uma linha vertical estreita de pele estão visíveis. Calças desgastadas de cintura descaída completam o visual. A pose é descontraída, com um joelho fletido e ambas as mãos a segurar delicadamente flores que suavizam ainda mais a área do peito. Cada flor que abre inunda o mundo cinzento com uma cor rica e viva que banha o seu casaco e a sua pele. O sujeito preenche a maior parte do enquadramento. O sujeito permanece extremamente detalhado e fotorrealista mesmo nesta composição ambiental de corpo inteiro — nitidez facial, poros, penugem e texturas do couro permanecem perfeitamente nítidos. 85mm a f/1.8, luz direcional suave com auréolas de cor surreais, expressão artística e contida da beleza feminina.
 ```
 
 [↑ Voltar às categorias](#catalog)

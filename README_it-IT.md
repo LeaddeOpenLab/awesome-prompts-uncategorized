@@ -63,20 +63,20 @@ Traduzione in corso
 
 <a name="prompt-2098535116545110425"></a>
 
-### Traduzione in corso
+### Foto ultra-fotorealistica a figura intera media di una supermodella grunge con un cappotto di pelle nera seduta tra i fiori.
 
 Autore：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Post originale](https://x.com/ai_vision_2nd/status/2098535116545110425)
 
 Fotografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Foto ultra-fotorealistica a figura intera media di una supermodella grunge con un cappotto di pelle nera seduta tra i fiori.
 
 <img src="images/2098535116545110425-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Fotografia ultra-fotorealistica a figura intera media di un'affascinante e voluttuosa supermodella grunge in stile playmate seduta in un campo di fiori che sbocciano. Perfetta figura a clessidra con volume morbido e naturale. Capelli aggressivamente semplici e delicati: scalati e sfilati da corti a medi con punte morbide e irregolari. Trucco grunge minimale ed eccentrico: eyeliner sfumato, labbra pallide, lentiggini accennate. Indossa un cappotto grunge lungo in pelle nera, aperto ma che rimane ampiamente chiuso sul petto grazie al suo drappeggio e a grandi petali di fiori freschi che riposano naturalmente sul davanti; sono visibili solo le clavicole e una sottile linea verticale di pelle. Pantaloni a vita bassa logorati completano il look. La posa è rilassata, un ginocchio sollevato, entrambe le mani reggono dolcemente dei fiori che ammorbidiscono ulteriormente la zona del petto. Ogni fiore che sboccia inonda il mondo grigio di un colore ricco e vivo che avvolge il suo cappotto e la sua pelle. Il soggetto riempie la maggior parte dell'inquadratura. Il soggetto rimane estremamente dettagliato e fotorealistico anche in questa composizione ambientale a figura intera: la nitidezza del viso, i pori, la peluria e le trame della pelle rimangono completamente nitidi. 85mm a f/1.8, luce direzionale morbida con sfumature di colore surreali, espressione artistica e contenuta della bellezza femminile.
 ```
 
 [↑ Torna alle categorie](#catalog)

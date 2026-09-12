@@ -63,20 +63,20 @@ Plakat / Flyer · Fotografie · Text / Typografie · Veröffentlicht
 
 <a name="prompt-2098535116545110425"></a>
 
-### Übersetzung läuft
+### Ultrafotorealistisches Halbtotale-Ganzkörperfoto eines Grunge-Supermodels im schwarzen Ledermantel, das zwischen Blumen sitzt.
 
 Autor：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Originalbeitrag](https://x.com/ai_vision_2nd/status/2098535116545110425)
 
 Fotografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultrafotorealistisches Halbtotale-Ganzkörperfoto eines Grunge-Supermodels im schwarzen Ledermantel, das zwischen Blumen sitzt.
 
 <img src="images/2098535116545110425-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrafotorealistische Halbtotale-Ganzkörperfotografie einer glamourösen, üppigen Grunge-Supermodel-Frau im Playmate-Stil, die in einem Feld blühender Blumen sitzt. Perfekte Sanduhrfigur mit weichem, natürlichem Volumen. Haar aggressiv schlicht und zart: kurze bis mittellange, fransige Stufen mit weichen, unregelmäßigen Spitzen. Make-up minimalistisch-exzentrischer Grunge – verwischter Eyeliner, blasse Lippen, schwache Sommersprossen. Sie trägt einen offenen, aber langen schwarzen Leder-Grunge-Mantel, der über der Brust weitgehend geschlossen bleibt, bedingt durch den Faltenwurf und große frische Blütenblätter, die natürlich über der Vorderseite ruhen; nur die Schlüsselbeine und ein schmaler vertikaler Hautstreifen sind sichtbar. Tief sitzende, abgewetzte Hosen vervollständigen den Look. Die Pose ist entspannt, ein Knie angehoben, beide Hände halten sanft Blüten, die den Brustbereich zusätzlich abmildern. Jede sich öffnende Blüte überflutet die graue Welt mit satten, lebendigen Farben, die sich über ihren Mantel und ihre Haut ergießen. Das Motiv füllt den Großteil des Bildausschnitts aus. Das Motiv bleibt selbst in dieser umgebenden Ganzkörperkomposition extrem detailliert und fotorealistisch – Gesichtsschärfe, Poren, Flaumhaar und Ledertexturen bleiben vollkommen gestochen scharf. 85mm bei f/1.8, weiches Richtlicht mit surrealen Farbüberstrahlungen, künstlerischer und zurückhaltender Ausdruck femininer Schönheit.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

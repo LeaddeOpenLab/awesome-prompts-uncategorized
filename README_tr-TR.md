@@ -63,20 +63,20 @@ Poster / El İlanı · Fotoğrafçılık · Metin / Tipografi · Yayımlandı
 
 <a name="prompt-2098535116545110425"></a>
 
-### Çeviri sürüyor
+### Çiçekler arasında oturan, siyah deri paltolu bir grunge süper modelin ultra fotogerçekçi, orta boydan tam vücut fotoğrafı.
 
 Yazar：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Orijinal gönderi](https://x.com/ai_vision_2nd/status/2098535116545110425)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çiçekler arasında oturan, siyah deri paltolu bir grunge süper modelin ultra fotogerçekçi, orta boydan tam vücut fotoğrafı.
 
 <img src="images/2098535116545110425-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Açan çiçeklerle dolu bir tarlada oturan, playmate tarzında, alımlı ve dolgun hatlı bir grunge süper model kadının ultra fotogerçekçi, orta boydan tam vücut fotoğrafı. Yumuşak, doğal bir hacme sahip kusursuz kum saati vücut hatları. Saçlar agresif biçimde sade ve narin: yumuşak, düzensiz uçlara sahip kısa-orta uzunlukta katlı kesim. Minimalist ve eksantrik grunge makyaj — dağılmış göz kalemi, soluk dudaklar, belli belirsiz çiller. Üzerinde, dökümlü duruşu ve ön kısımda doğal olarak duran iri taze çiçek yaprakları sayesinde göğüs kısmında büyük ölçüde kapalı kalan, ancak açık ve uzun siyah deri bir grunge palto var; yalnızca köprücük kemikleri ve dar, dikey bir ten çizgisi görünürde. Düşük belli, yıpranmış pantolon kombini tamamlıyor. Duruş rahat, bir diz yukarı çekilmiş, her iki el göğüs bölgesini daha da yumuşatan çiçekleri nazikçe tutuyor. Açan her çiçek, gri dünyayı paltoya ve tene yayılan zengin, canlı renklerle dolduruyor. Model kadrajın çoğunu kaplıyor. Bu çevresel tam vücut kompozisyonunda bile model son derece ayrıntılı ve fotogerçekçi kalıyor — yüz netliği, gözenekler, ayva tüyleri ve deri dokuları tamamen berrak kalıyor. f/1.8'de 85mm, gerçeküstü renk parıltılarına sahip yumuşak yönlü ışık, feminen güzelliğin sanatsal ve ölçülü bir ifadesi.
 ```
 
 [↑ Kategorilere dön](#catalog)

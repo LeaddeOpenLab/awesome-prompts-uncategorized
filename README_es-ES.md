@@ -63,20 +63,20 @@ Traducción en curso
 
 <a name="prompt-2098535116545110425"></a>
 
-### Traducción en curso
+### Foto ultra fotorrealista de cuerpo entero medio de una supermodelo grunge con abrigo de cuero negro sentada entre flores.
 
 Autor：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Publicación original](https://x.com/ai_vision_2nd/status/2098535116545110425)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto ultra fotorrealista de cuerpo entero medio de una supermodelo grunge con abrigo de cuero negro sentada entre flores.
 
 <img src="images/2098535116545110425-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Fotografía ultra fotorrealista de cuerpo entero medio de una glamurosa y voluptuosa supermodelo de estilo grunge y playmate, sentada en un campo de flores en flor. Perfecta figura de reloj de arena con un volumen suave y natural. Cabello agresivamente simple y delicado: capas despuntadas de longitud corta a media con puntas suaves e irregulares. Maquillaje grunge excéntrico y minimalista: delineador difuminado, labios pálidos, pecas tenues. Viste un abrigo largo de cuero negro estilo grunge, abierto pero que permanece en gran parte cerrado sobre el pecho por la forma en que cae y por grandes pétalos de flores frescas que descansan de manera natural sobre la parte delantera; solo las clavículas y una estrecha línea vertical de piel son visibles. Unos pantalones desgastados de tiro bajo completan el look. La pose es relajada, con una rodilla levantada y ambas manos sosteniendo suavemente flores que suavizan aún más la zona del pecho. Cada flor al abrirse inunda el mundo gris con un rico color vivo que baña su abrigo y su piel. El sujeto ocupa la mayor parte del encuadre. El sujeto se mantiene extremadamente detallado y fotorrealista incluso en esta composición ambiental de cuerpo entero: la nitidez facial, los poros, el vello fino y las texturas del cuero se mantienen completamente nítidos. 85 mm a f/1.8, luz direccional suave con destellos de color surrealistas, expresión artística y contenida de la belleza femenina.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -63,20 +63,20 @@ Traduction en cours
 
 <a name="prompt-2098535116545110425"></a>
 
-### Traduction en cours
+### Photo ultra-photoréaliste en plan moyen plein pied d'un top-modèle grunge en manteau de cuir noir assise parmi des fleurs.
 
 Auteur：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Publication originale](https://x.com/ai_vision_2nd/status/2098535116545110425)
 
 Photographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo ultra-photoréaliste en plan moyen plein pied d'un top-modèle grunge en manteau de cuir noir assise parmi des fleurs.
 
 <img src="images/2098535116545110425-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Photographie ultra-photoréaliste en plan moyen plein pied d'une somptueuse et glamour femme top-modèle grunge au style playmate assise dans un champ de fleurs épanouies. Silhouette en sablier parfaite avec un volume doux et naturel. Chevelure agressivement simple et délicate : dégradé effilé court à mi-long avec des pointes douces et irrégulières. Maquillage grunge minimaliste et excentrique — eye-liner estompé, lèvres pâles, légères taches de rousseur. Elle porte un long manteau grunge en cuir noir ouvert, qui reste largement fermé sur la poitrine de par son drapé et de grands pétales de fleurs fraîches reposant naturellement sur le devant ; seules les clavicules et une étroite ligne verticale de peau sont visibles. Un pantalon taille basse usé complète le look. La pose est détendue, un genou relevé, les deux mains tenant délicatement des fleurs qui adoucissent davantage la zone de la poitrine. Chaque fleur qui s'ouvre inonde le monde gris d'une couleur riche et vivante qui enveloppe son manteau et sa peau. Le sujet remplit la majeure partie du cadre. Le sujet reste extrêmement détaillé et photoréaliste même dans cette composition en pied avec environnement — netteté du visage, pores, duvet et textures du cuir restent parfaitement précis. 85mm à f/1.8, lumière directionnelle douce avec des éclats de couleur surréalistes, expression artistique et retenue de la beauté féminine.
 ```
 
 [↑ Retour aux catégories](#catalog)
