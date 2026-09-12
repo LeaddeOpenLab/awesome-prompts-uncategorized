@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**101** Prompts · Adição mais recente: **2026-09-12**
+**102** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1297,20 +1297,20 @@ Luffy afaga com ternura a cabeça de Anya, Anya atira-se para os seus braços, e
 
 <a name="prompt-2098677881375236337"></a>
 
-### Tradução em curso
+### Prompt para ilustração de indumentária com tema de professora \(blusa com folhos, saia lápis, ponteiro, etc.\).
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicação original](https://x.com/AI_Kei75/status/2098677881375236337)
 
 Ilustração · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para ilustração de indumentária com tema de professora \(blusa com folhos, saia lápis, ponteiro, etc.\).
 
 <img src="images/2098677881375236337-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+professora, camisa branca de colarinho, blusa com folhos, mangas compridas, clavícula, sem acessórios no pescoço, colar de coração, cinto preto, (saia lápis preta), minissaia, collants castanho-escuro, saltos altos, a segurar, ponteiro, vara,
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1516,6 +1516,32 @@ Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2098642413879513410"></a>
+
+### Tradução em curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2098642413879513410)
+
+Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Publicado
+
+Publicação original：[@zhengjunting920](https://x.com/zhengjunting920) · [Publicação original](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098642413879513410-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 

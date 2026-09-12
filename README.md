@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**101** Prompts · Latest addition: **2026-09-12**
+**102** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1612,6 +1612,72 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098642413879513410"></a>
+
+### Vintage film-style outdoor portrait prompt capturing a long-haired East Asian woman in a twilight wasteland against massive pink-orange cumulonimbus clouds.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2098642413879513410)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Published
+
+Source：[@zhengjunting920](https://x.com/zhengjunting920) · [Source](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**Summary:** Vintage film-style outdoor portrait prompt capturing a long-haired East Asian woman in a twilight wasteland against massive pink-orange cumulonimbus clouds.
+
+<img src="images/2098642413879513410-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Hyper-realistic vintage outdoor portrait photography, vertical orientation approximately 2:3, featuring a young adult East Asian female, unambiguously an adult, standing in an evening wasteland / urban fringe empty lot, backed by an overwhelmingly gigantic pink-orange cumulonimbus cloud and a gray-blue dusk sky. The overall aesthetic exudes a 2000s vintage film / CCD digital camera + Japanese dreamcore / youth magazine gravure + pre-storm twilight haze; the emphasis is not on polished commercial fashion, but on a natural, hazy, slightly out-of-focus, wind-swept authentic snapshot.
+
+The photographer is positioned directly in front of the subject, slightly offset to the left by about 2.5–3.5 meters, using an equivalent 50–70mm focal length lens, with the camera positioned near the subject's waist/abdomen level and angled slightly upward. The subject is situated in the center-right of the frame, occupying approximately 58–65% of the frame's height, captured fully from the top of the head down to the mid-to-lower thighs, with the area below the knees naturally cropped. A vast expanse of sky is preserved behind the subject, making the colossal cloud formation a subject of equal prominence.
+
+The subject is a young adult East Asian female with a petite-to-medium frame, somewhat narrow shoulders, naturally slender build, distinctly cinched waist, moderate hips, and slender yet realistically soft-volumed thighs. The overall physique is a slender small frame + slim waist + natural subtle hourglass proportion; do not generate athletic musculature, broad shoulders and thick back, extreme voluptuousness, or a flat paper-thin figure.
+
+The subject stands at a slight three-quarter front angle, her body gently turned toward her right, with the pelvis naturally shifted sideways to form a soft S-curve. Her legs stand naturally, one leg slightly forward and the other gently drawn back. The upper body leans forward slightly with relaxed shoulders, avoiding a stiff, staged pose.
+
+The subject's head is gently tilted downward, her face turned toward the camera, yet her gaze drifts slightly downward or past the lens, wearing a quiet, detached, subtly weary expression. Lips are naturally closed without a toothy smile.
+
+The subject has raven-black, ultra-long straight hair reaching the waist or even lower, with natural fullness and thickness. It is parted in the middle or slightly off-center at the crown, with only a few long loose strands across the forehead. Most importantly: a strong gust of wind blows from the subject's left or back-left, sweeping the bulk of her hair toward the right side of the frame, with multiple long, thin strands flying horizontally across her shoulders, facial profile, and into the right sky, establishing a distinct wind direction. Do not make it neat and sleek; no curly hair, high ponytails, or short hair.
+
+Her face shape is small and slightly oval with a soft jawline, and her skin tone is naturally fair with cool undertones. Facial features need not be overly retouched, retaining slight blur and a vintage film feel. Eyes are deep brownish-black almond eyes with extremely thin eyeliner, natural eyebrows, a petite nasal bridge, and lips tinted in low-saturation nude pink / dusty rose. Makeup is minimal, maintaining an overall effortless, cool, understated vibe.
+
+On the upper body, she wears a dark charcoal gray / black-brown cropped sleeveless lace or sheer mesh top / crop top. The fabric features intricate light gray patterns, lace textures, or abstract botanical motifs, overall dark-toned but not pure solid black. The top ends just above the waistline, exposing a small portion of the abdomen and waistline. The neckline is a round neck or subtle low-scoop neck, leaving the shoulders completely bare. Do not generate bright patterns, athletic tanks, or white tops.
+
+On the lower body, she wears a high-waisted black micro-mini skirt / black asymmetrical mini skirt, sitting high and hugging the waist and hips snugly. The hemline is not a neat straight cut, but features distressed, raw-edged, serrated, or irregularly frayed tears, ending at the upper thighs. The color is deep black, charcoal black, or faded vintage black, with a slightly worn fabric texture. No pleated skirts, long skirts, or jeans.
+
+Her legs are clad in black / dark charcoal-gray semi-sheer thigh-high lace stockings. The top bands sit at the upper thighs, featuring prominent floral lace textures, mesh weave, and subtle irregular dark patterns; the tone is not solid opaque black, but rather a semi-sheer dark charcoal that delicately reveals skin tone beneath. The tops are slightly wide with intricate lace trim. No white socks, oversized fishnets, or plain cotton socks.
+
+Her arms hang naturally: the subject's right arm drapes along her right side with relaxed fingers, while the left hand is partially concealed by her body or hair. No hands on hips, peace signs, holding phones, or complex poses.
+
+The setting is an urban fringe wasteland / undeveloped open terrain. The ground and area around the subject's lower body are deeply shadowed, revealing sparse low shrubs, weeds, black thickets, gray concrete elements, or low fences. In the far distance, a few sparse, ultra-thin utility poles / construction posts / antenna masts emerge, protruding from the horizon toward the sky, but few in number.
+
+The lower background is overall heavily suppressed in darkness, bordering on deep forest green, dark gray, and black, making the subject and sky stand out prominently. Do not generate bustling cityscapes, vehicles, crowds, neon signs, or beaches.
+
+The sky is the absolute focal point of the composition. Overall it is a gray-blue / hazy smog-blue / dark violet-gray twilight sky, cooler and darker toward the top. In the upper-left frame and behind the subject's head rises an overwhelmingly gargantuan pink-orange, coral-pink, pale peach cumulonimbus cloud, heavy, billowy, and multi-layered, possessing the colossal volumetric presence of an explosion or giant cotton cluster.
+
+The most striking part of the cloud formation sits above and slightly to the left of the subject's head, shaped like a colossal feather, a blossoming flower, or a rolling thunderstorm cloud; its edges are tinted by the setting sun in soft peach-pink, creamy orange, and pale apricot, while its interior harbors low-saturation gray-violet and gray-blue shadows. Near the horizon behind the subject's left, there is a second lower yet equally massive pink-orange cumulonimbus, echoing the primary cloud above.
+
+The sky must not feature vibrant fiery red clouds, nor pure blue clear daylight skies. The overall palette should be cool gray-blue twilight + localized soft pink-orange cloud glow.
+
+Illumination comes from a low-angle setting sun, scattered by thick clouds and atmosphere into a very soft, pink-orange ambient glow. The subject's face and skin remain generally dim and slightly underexposed, with only faint warm rim light along the bridge of the nose, cheek, shoulder, and arm edges. No frontal flash; do not overexpose the subject.
+
+The entire image must exhibit a distinct vintage film / CCD / low-res digital camera dreamlike texture: slight blur, soft focus, low contrast, fine grain, high ISO noise, grayish shadows, localized color bleeding, gently smeared edges, and low dynamic range. Facial features and garment details need not have commercial-grade sharpness; the outlines of hair and cloud borders may carry a delicate fuzziness and bloom.
+
+Color palette strictly balanced across: gray-blue sky + pale pink-orange giant clouds + deep forest-green wasteland + black garments + cool fair skin + sparse warm pink highlights. The image exhibits noticeable film color shift, with pink-orange clouds subtly magnified, and shadows retaining cyan-green / grayish-green tones.
+
+Overall atmosphere: summer twilight before a downpour, urban perimeter, intense wind, colossal clouds, apocalyptic youth aesthetic, dreamcore, a tranquil yet surreal vintage snapshot.
+
+Key anchors: young adult East Asian female + ultra-long straight black hair blown horizontally to the right by strong winds + dark gray lace crop top + exposed slender waist + high-waisted black distressed frayed mini skirt + black semi-sheer lace thigh-high stockings + subject standing centered in a dark wasteland + gigantic pink-orange cumulonimbus clouds dominating the sky.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 

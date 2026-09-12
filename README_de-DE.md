@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**101** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**102** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1280,20 +1280,20 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 <a name="prompt-2098677881375236337"></a>
 
-### Übersetzung läuft
+### Prompt für Kostüm-Illustrationen zum Thema Lehrerin \(Rüschenbluse, Bleistiftrock, Zeigestock usw.\).
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Originalbeitrag](https://x.com/AI_Kei75/status/2098677881375236337)
 
 Illustration · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für Kostüm-Illustrationen zum Thema Lehrerin \(Rüschenbluse, Bleistiftrock, Zeigestock usw.\).
 
 <img src="images/2098677881375236337-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Lehrerin, weißes Hemd mit Kragen, Rüschenbluse, lange Ärmel, Schlüsselbein, kein Halsschmuck, Herzkette, schwarzer Gürtel, (schwarzer Bleistiftrock), Minirock, dunkelbraune Strumpfhose, High Heels, haltend, Zeigestock, Stab,
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1499,6 +1499,32 @@ Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhet
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098642413879513410"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2098642413879513410)
+
+Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Veröffentlicht
+
+Originalbeitrag：[@zhengjunting920](https://x.com/zhengjunting920) · [Originalbeitrag](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098642413879513410-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 

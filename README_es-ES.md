@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**101** Prompts · Última incorporación: **2026-09-12**
+**102** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1315,20 +1315,20 @@ Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodead
 
 <a name="prompt-2098677881375236337"></a>
 
-### Traducción en curso
+### Prompt para ilustración de atuendo con temática de profesora \(blusa con volantes, falda lápiz, puntero, etc.\).
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicación original](https://x.com/AI_Kei75/status/2098677881375236337)
 
 Ilustración · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para ilustración de atuendo con temática de profesora \(blusa con volantes, falda lápiz, puntero, etc.\).
 
 <img src="images/2098677881375236337-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+profesora, camisa blanca con cuello, blusa con volantes, mangas largas, clavícula, sin accesorios en el cuello, collar de corazón, cinturón negro, (falda lápiz negra), minifalda, pantis marrón oscuro, tacones altos, sosteniendo, puntero, vara,
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1534,6 +1534,32 @@ Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficient
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098642413879513410"></a>
+
+### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2098642413879513410)
+
+Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Publicado
+
+Publicación original：[@zhengjunting920](https://x.com/zhengjunting920) · [Publicación original](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098642413879513410-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**101** Prompts · Dernier ajout: **2026-09-12**
+**102** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1280,20 +1280,20 @@ Luffy caresse tendrement la tête d'Anya, Anya se jette dans ses bras, entourés
 
 <a name="prompt-2098677881375236337"></a>
 
-### Traduction en cours
+### Prompt pour illustration de tenue sur le thème de l'enseignante \(chemisier à volants, jupe crayon, baguette d'enseignant, etc.\).
 
 Auteur：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publication originale](https://x.com/AI_Kei75/status/2098677881375236337)
 
 Illustration · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour illustration de tenue sur le thème de l'enseignante \(chemisier à volants, jupe crayon, baguette d'enseignant, etc.\).
 
 <img src="images/2098677881375236337-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+enseignante, chemise blanche à col, chemisier à volants, manches longues, clavicule, pas de tour de cou, collier cœur, ceinture noire, (jupe crayon noire), minijupe, collants marron foncé, talons hauts, tenant, pointeur, baguette,
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1499,6 +1499,32 @@ Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et e
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2098642413879513410"></a>
+
+### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2098642413879513410)
+
+Photographie · Rétro / Vintage · Portrait / Selfie · Personnage · Publié
+
+Publication originale：[@zhengjunting920](https://x.com/zhengjunting920) · [Publication originale](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098642413879513410-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**101** Prompt · Son eklenen: **2026-09-12**
+**102** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1297,20 +1297,20 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 <a name="prompt-2098677881375236337"></a>
 
-### Çeviri sürüyor
+### Öğretmen temalı kostüm çizimi için komut \(fırfırlı bluz, kalem etek, işaret çubuğu vb.\).
 
 Yazar：[@AI\_Kei75](https://x.com/AI_Kei75) · [Orijinal gönderi](https://x.com/AI_Kei75/status/2098677881375236337)
 
 İllüstrasyon · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Öğretmen temalı kostüm çizimi için komut \(fırfırlı bluz, kalem etek, işaret çubuğu vb.\).
 
 <img src="images/2098677881375236337-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+öğretmen, beyaz yakalı gömlek, fırfırlı bluz, uzun kollu, köprücük kemiği, boyun aksesuarı yok, kalp kolye, siyah kemer, (siyah kalem etek), mini etek, koyu kahverengi külotlu çorap, yüksek topuklu ayakkabılar, tutuyor, işaret çubuğu, çubuk,
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1516,6 +1516,32 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098642413879513410"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2098642413879513410)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Yayımlandı
+
+Orijinal gönderi：[@zhengjunting920](https://x.com/zhengjunting920) · [Orijinal gönderi](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098642413879513410-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 

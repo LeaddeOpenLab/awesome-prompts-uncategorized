@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**101** 件 · 最新の追加: **2026-09-12**
+**102** 件 · 最新の追加: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1310,20 +1310,20 @@ CM全体を通して、提供された参照画像/動画と完全に一致す�
 
 <a name="prompt-2098677881375236337"></a>
 
-### 翻訳中
+### 教師テーマの衣装イラスト用プロンプト（フリルブラウス、ペンシルスカート、教鞭など）。
 
 作者：[@AI\_Kei75](https://x.com/AI_Kei75) · [元の投稿](https://x.com/AI_Kei75/status/2098677881375236337)
 
 イラスト · キャラクター · ファッションアイテム · 配信済み
 
-**概要:** 翻訳中
+**概要:** 教師テーマの衣装イラスト用プロンプト（フリルブラウス、ペンシルスカート、教鞭など）。
 
 <img src="images/2098677881375236337-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neckwear, heart necklace, black belt, (black pencil skirt), miniskirt, dark brown pantyhose, high heels, holding, pointer, stick,
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -1529,6 +1529,32 @@ CM全体を通して、提供された参照画像/動画と完全に一致す�
 <a name="category-retro-vintage"></a>
 
 ## レトロ / ヴィンテージ
+
+<a name="prompt-2098642413879513410"></a>
+
+### 翻訳中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [元の投稿](https://x.com/DDJCXX/status/2098642413879513410)
+
+写真撮影 · レトロ / ヴィンテージ · ポートレート / セルフィー · キャラクター · 配信済み
+
+元の投稿：[@zhengjunting920](https://x.com/zhengjunting920) · [元の投稿](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**概要:** 翻訳中
+
+<img src="images/2098642413879513410-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 

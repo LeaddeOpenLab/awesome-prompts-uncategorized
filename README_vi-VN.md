@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**101** Prompt · Bổ sung mới nhất: **2026-09-12**
+**102** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1315,20 +1315,20 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 <a name="prompt-2098677881375236337"></a>
 
-### Đang dịch
+### Lời nhắc hình minh họa trang phục theo chủ đề giáo viên \(áo blouse xếp bèo, váy bút chì, que chỉ bảng, v.v.\).
 
 Tác giả：[@AI\_Kei75](https://x.com/AI_Kei75) · [Bài gốc](https://x.com/AI_Kei75/status/2098677881375236337)
 
 Minh họa · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc hình minh họa trang phục theo chủ đề giáo viên \(áo blouse xếp bèo, váy bút chì, que chỉ bảng, v.v.\).
 
 <img src="images/2098677881375236337-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+giáo viên, áo sơ mi trắng có cổ, áo blouse xếp bèo, tay dài, xương quai xanh, không có phụ kiện cổ, vòng cổ hình trái tim, thắt lưng đen, (váy bút chì đen), váy ngắn, quần tất màu nâu sẫm, giày cao gót, đang cầm, que chỉ bảng, gậy,
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1534,6 +1534,32 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2098642413879513410"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2098642413879513410)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@zhengjunting920](https://x.com/zhengjunting920) · [Bài gốc](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098642413879513410-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 

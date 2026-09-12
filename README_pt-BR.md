@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**101** Prompts · Última adição: **2026-09-12**
+**102** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1297,20 +1297,20 @@ Luffy faz carinho na cabeça de Anya com ternura, Anya se joga em seus braços, 
 
 <a name="prompt-2098677881375236337"></a>
 
-### Tradução em andamento
+### Prompt para ilustração de figurino temático de professora \(blusa com babados, saia lápis, ponteiro, etc.\).
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicação original](https://x.com/AI_Kei75/status/2098677881375236337)
 
 Ilustração · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para ilustração de figurino temático de professora \(blusa com babados, saia lápis, ponteiro, etc.\).
 
 <img src="images/2098677881375236337-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+professora, camisa branca de colarinho, blusa com babados, mangas compridas, clavícula, sem acessórios no pescoço, colar de coração, cinto preto, (saia lápis preta), minissaia, meia-calça marrom-escura, salto alto, segurando, apontador, vara,
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -1516,6 +1516,32 @@ Crie para mim um rack de servidores para 6 Nvidia Sparks com um design eficiente
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2098642413879513410"></a>
+
+### Tradução em andamento
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2098642413879513410)
+
+Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Publicado
+
+Publicação original：[@zhengjunting920](https://x.com/zhengjunting920) · [Publicação original](https://x.com/zhengjunting920/status/2098596945183014933)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098642413879513410-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098642413879513410-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098589129512747309"></a>
 
