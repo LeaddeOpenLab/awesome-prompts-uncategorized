@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T20:19:03.555Z",
+  "model": "unknown-image",
+  "prompt": "Use the uploaded photo as the facial identity reference.\n\nCreate a premium cinematic fashion portrait of a confident adult man in his late 20s to early 30s, standing against a deep black studio background beside a dark vintage architectural column.\n\nHe is wearing a luxurious monochromatic deep burgundy/red outfit consisting of a fitted leather blazer, matching red turtleneck, and matching tailored leather trousers. The blazer has sharp peak lapels, structured shoulders, subtle stitching, functional pockets, and polished buttons.\n\nPose him waist-to-thigh framing, standing upright with both arms confidently crossed over his chest, shoulders squared, looking directly into the camera with a serious, powerful expression. Give him neatly short dark hair.\n\nUse dramatic low-key studio lighting: soft key light illuminating the face and red leather, subtle cool rim light along one side of the hair and shoulder, deep shadows, rich contrast, and a nearly black background. Emphasize realistic leather texture, natural skin pores, sharp facial details, and dimensional highlights.\n\nComposition should feel like a luxury menswear campaign, sophisticated, commanding, elegant, mysterious, editorial and cinematic. Shot on an 85mm portrait lens, shallow depth of field, ultra-realistic photography, high dynamic range, crisp focus, realistic skin texture, premium fashion magazine quality, vertical 9:16 composition.\n\nNo text, no logo, no watermark, no extra people, no distorted hands, no exaggerated muscles.",
+  "promptTranslations": {
+    "en": "Use the uploaded photo as the facial identity reference. Create a premium cinematic fashion portrait of a confident adult man in his late 20s to early 30s, standing against a deep black studio background beside a dark vintage architectural column. He is wearing a luxurious monochromatic deep burgundy/red outfit consisting of a fitted leather blazer, matching red turtleneck, and matching tailored leather trousers. The blazer has sharp peak lapels, structured shoulders, subtle stitching, functional pockets, and polished buttons. Pose him waist-to-thigh framing, standing upright with both arms confidently crossed over his chest, shoulders squared, looking directly into the camera with a serious, powerful expression. Give him neatly short dark hair. Use dramatic low-key studio lighting: soft key light illuminating the face and red leather, subtle cool rim light along one side of the hair and shoulder, deep shadows, rich contrast, and a nearly black background. Emphasize realistic leather texture, natural skin pores, sharp facial details, and dimensional highlights. Composition should feel like a luxury menswear campaign, sophisticated, commanding, elegant, mysterious, editorial and cinematic. Shot on an 85mm portrait lens, shallow depth of field, ultra-realistic photography, high dynamic range, crisp focus, realistic skin texture, premium fashion magazine quality, vertical 9:16 composition. No text, no logo, no watermark, no extra people, no distorted hands, no exaggerated muscles."
+  },
+  "summaryTranslations": {
+    "en": "Luxury menswear burgundy leather suit portrait photography prompt."
+  },
+  "translationVersion": 2,
+  "summary": "奢华男装酒红色皮质西装人像摄影提示词。",
+  "summaryEn": "Prompt for a luxury menswear portrait in a burgundy leather suit.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098866496487276783",
+    "canonicalUrl": "https://x.com/abs_uiux/status/2098866496487276783",
+    "author": {
+      "username": "abs_uiux",
+      "displayName": "Abkr Sadiq | AI",
+      "profileUrl": "https://x.com/abs_uiux"
+    },
+    "publishedAt": "2026-09-12T20:09:02.000Z",
+    "collectedAt": "2026-09-12T20:15:44.467Z",
+    "language": "en",
+    "originalText": "Bro looks like the CEO who’s about to fire the entire company on a Zoom call at 4:55 PM on a Friday. 💀\n\nPrompt:\nUse the uploaded photo as the facial identity reference.\n\nCreate a premium cinematic fashion portrait of a confident adult man in his late 20s to early 30s, standing against a deep black studio background beside a dark vintage architectural column.\n\nHe is wearing a luxurious monochromatic deep burgundy/red outfit consisting of a fitted leather blazer, matching red turtleneck, and matching tailored leather trousers. The blazer has sharp peak lapels, structured shoulders, subtle stitching, functional pockets, and polished buttons.\n\nPose him waist-to-thigh framing, standing upright with both arms confidently crossed over his chest, shoulders squared, looking directly into the camera with a serious, powerful expression. Give him neatly short dark hair.\n\nUse dramatic low-key studio lighting: soft key light illuminating the face and red leather, subtle cool rim light along one side of the hair and shoulder, deep shadows, rich contrast, and a nearly black background. Emphasize realistic leather texture, natural skin pores, sharp facial details, and dimensional highlights.\n\nComposition should feel like a luxury menswear campaign, sophisticated, commanding, elegant, mysterious, editorial and cinematic. Shot on an 85mm portrait lens, shallow depth of field, ultra-realistic photography, high dynamic range, crisp focus, realistic skin texture, premium fashion magazine quality, vertical 9:16 composition.\n\nNo text, no logo, no watermark, no extra people, no distorted hands, no exaggerated muscles.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCr8VeaAAAJlRV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCr8VeaAAAJlRV.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 314
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/abs_uiux/status/2098866496487276783",
+  "coverUrl": "https://pbs.twimg.com/media/HSCr8VeaAAAJlRV.jpg",
+  "coverPath": "images/2098866496487276783-1.jpg",
+  "imagePaths": [
+    "images/2098866496487276783-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSCr8VeaAAAJlRV",
+    "x-post:2098866496487276783"
+  ],
+  "analysis": {
+    "summary": "奢华男装酒红色皮质西装人像摄影提示词。",
+    "summaryEn": "Prompt for a luxury menswear portrait in a burgundy leather suit.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image accurately matches prompt details including burgundy leather outfit, pose, dark studio background, and architectural column."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Use the uploaded photo as the facial identity reference.\n\nCreate a premium cinematic fashion portrait of a confident adult man in his late 20s to early 30s, standing against a deep black studio background beside a dark vintage architectural column.\n\nHe is wearing a luxurious monochromatic deep burgundy/red outfit consisting of a fitted leather blazer, matching red turtleneck, and matching tailored leather trousers. The blazer has sharp peak lapels, structured shoulders, subtle stitching, functional pockets, and polished buttons.\n\nPose him waist-to-thigh framing, standing upright with both arms confidently crossed over his chest, shoulders squared, looking directly into the camera with a serious, powerful expression. Give him neatly short dark hair.\n\nUse dramatic low-key studio lighting: soft key light illuminating the face and red leather, subtle cool rim light along one side of the hair and shoulder, deep shadows, rich contrast, and a nearly black background. Emphasize realistic leather texture, natural skin pores, sharp facial details, and dimensional highlights.\n\nComposition should feel like a luxury menswear campaign, sophisticated, commanding, elegant, mysterious, editorial and cinematic. Shot on an 85mm portrait lens, shallow depth of field, ultra-realistic photography, high dynamic range, crisp focus, realistic skin texture, premium fashion magazine quality, vertical 9:16 composition.\n\nNo text, no logo, no watermark, no extra people, no distorted hands, no exaggerated muscles.",
+    "sourceRange": {
+      "start": 112,
+      "end": 1620
+    },
+    "translations": {
+      "zh": "使用上传的照片作为面部身份参考。\n\n创作一张高级电影质感的时尚肖像，主体是一位20多岁至30岁初的自信成年男子，站在纯黑影棚背景前，身侧立着一根深色复古建筑立柱。\n\n他身穿奢华的单色深酒红皮质套装，包括合身的皮西装、同色高领衫与定制皮裤。西装有犀利的戗驳领与垫肩。\n\n采用腰部至大腿构图，双臂抱胸挺拔站立，神情冷峻威严，留整洁短黑发。\n\n运用戏剧性低调布光，展现真实的皮革与皮肤质感，高端男装大片质感。",
+      "en": "Use the uploaded photo as the facial identity reference.\n\nCreate a premium cinematic fashion portrait of a confident adult man in his late 20s to early 30s, standing against a deep black studio background beside a dark vintage architectural column.\n\nHe is wearing a luxurious monochromatic deep burgundy/red outfit consisting of a fitted leather blazer, matching red turtleneck, and matching tailored leather trousers. The blazer has sharp peak lapels, structured shoulders, subtle stitching, functional pockets, and polished buttons.\n\nPose him waist-to-thigh framing, standing upright with both arms confidently crossed over his chest, shoulders squared, looking directly into the camera with a serious, powerful expression. Give him neatly short dark hair.\n\nUse dramatic low-key studio lighting: soft key light illuminating the face and red leather, subtle cool rim light along one side of the hair and shoulder, deep shadows, rich contrast, and a nearly black background. Emphasize realistic leather texture, natural skin pores, sharp facial details, and dimensional highlights.\n\nComposition should feel like a luxury menswear campaign, sophisticated, commanding, elegant, mysterious, editorial and cinematic. Shot on an 85mm portrait lens, shallow depth of field, ultra-realistic photography, high dynamic range, crisp focus, realistic skin texture, premium fashion magazine quality, vertical 9:16 composition.\n\nNo text, no logo, no watermark, no extra people, no distorted hands, no exaggerated muscles."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
