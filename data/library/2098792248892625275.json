@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:50:22.982Z",
+  "model": "unknown-image",
+  "prompt": "将这张普通旅行照制作成3:4竖版画廊墙面上下对照海报。整张画面是暖白灰泥墙面，留出大量连续墙面留白。上方放一张仅占画布宽度约62%–68%的小型真实照片，保持原场景、透视、主体关系和真实摄影质感，标注小字“ORIGINAL PHOTO”。下方放一张更小的油画画布，仅占宽度约58%–64%，四周保留明显墙面空间。\n\n油画必须来自同一张照片，但更厚涂、更抽象：使用极厚的刮刀堆叠、凸起颜料、粗粝断裂笔触、刮擦边缘、明显画布纹理和大面积概括性色块，只保留主体轮廓、道路或地标方向、地平线和主要色彩关系。不要细密写实，不要照片滤镜，不要平滑数字绘画。仅加入“ORIGINAL PHOTO”和“OIL ON CANVAS”，不要品牌、Logo、水印或多余文字。",
+  "promptTranslations": {
+    "en": "Turn this ordinary travel photo into a 3:4 vertical gallery wall top-and-bottom comparison poster. The entire background is a warm white plaster wall, leaving a generous amount of continuous blank wall space. At the top, place a small real photo occupying only about 62%–68% of the canvas width, maintaining the original scene, perspective, subject relationships, and authentic photographic texture, labeled in small text with \"ORIGINAL PHOTO\". Below it, place an even smaller oil painting canvas, occupying only about 58%–64% of the width, with distinct wall space preserved all around. The oil painting must be derived from the same photo, but more heavily impastoed and more abstract: use extremely thick palette knife layering, raised paint, rough broken brushstrokes, scraped edges, prominent canvas texture, and large generalized color blocks, retaining only the silhouette of the subject, the direction of roads or landmarks, the horizon line, and primary color relationships. No detailed realism, no photo filters, no smooth digital painting. Only include \"ORIGINAL PHOTO\" and \"OIL ON CANVAS\", with no brands, logos, watermarks, or extraneous text."
+  },
+  "summaryTranslations": {
+    "en": "Convert a travel photo into a gallery-style top-and-bottom comparison poster, with the original photo on top and an abstract impasto palette knife oil painting below."
+  },
+  "translationVersion": 2,
+  "summary": "将旅行照片转为画廊风格的上下对照海报，上方为原图，下方为抽象厚涂刮刀油画。",
+  "summaryEn": "Converts a travel photo into a gallery-style vertical poster featuring the original photo at the top and an impasto palette-knife oil painting below.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098792248892625275",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2098792248892625275",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-12T15:14:00.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "zh",
+    "originalText": "【厚涂油画画廊风】\n\n大面积墙面留白让作品更像独立画廊陈列\n\nprompt：\n将这张普通旅行照制作成3:4竖版画廊墙面上下对照海报。整张画面是暖白灰泥墙面，留出大量连续墙面留白。上方放一张仅占画布宽度约62%–68%的小型真实照片，保持原场景、透视、主体关系和真实摄影质感，标注小字“ORIGINAL PHOTO”。下方放一张更小的油画画布，仅占宽度约58%–64%，四周保留明显墙面空间。\n\n油画必须来自同一张照片，但更厚涂、更抽象：使用极厚的刮刀堆叠、凸起颜料、粗粝断裂笔触、刮擦边缘、明显画布纹理和大面积概括性色块，只保留主体轮廓、道路或地标方向、地平线和主要色彩关系。不要细密写实，不要照片滤镜，不要平滑数字绘画。仅加入“ORIGINAL PHOTO”和“OIL ON CANVAS”，不要品牌、Logo、水印或多余文字。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-oZqXaUAAbpuK.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-oZqXaUAAbpuK.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-oZqYbUAARVO-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-oZqYbUAARVO-.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-oZqha8AE6894.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-oZqha8AE6894.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-oZqcboAEyeEP.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-oZqcboAEyeEP.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 151
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2098792248892625275",
+  "coverUrl": "https://pbs.twimg.com/media/HR-oZqXaUAAbpuK.jpg",
+  "coverPath": "images/2098792248892625275-1.jpg",
+  "imagePaths": [
+    "images/2098792248892625275-1.jpg",
+    "images/2098792248892625275-2.jpg",
+    "images/2098792248892625275-3.jpg",
+    "images/2098792248892625275-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR-oZqXaUAAbpuK",
+    "x-image:/media/HR-oZqYbUAARVO-",
+    "x-image:/media/HR-oZqha8AE6894",
+    "x-image:/media/HR-oZqcboAEyeEP",
+    "x-post:2098792248892625275"
+  ],
+  "analysis": {
+    "summary": "将旅行照片转为画廊风格的上下对照海报，上方为原图，下方为抽象厚涂刮刀油画。",
+    "summaryEn": "Converts a travel photo into a gallery-style vertical poster featuring the original photo at the top and an impasto palette-knife oil painting below.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均完全契合提示词要求，呈现暖白灰泥墙面、留白、上方原照片与下方刮刀厚涂油画对照，并包含相应文字标注。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "将这张普通旅行照制作成3:4竖版画廊墙面上下对照海报。整张画面是暖白灰泥墙面，留出大量连续墙面留白。上方放一张仅占画布宽度约62%–68%的小型真实照片，保持原场景、透视、主体关系和真实摄影质感，标注小字“ORIGINAL PHOTO”。下方放一张更小的油画画布，仅占宽度约58%–64%，四周保留明显墙面空间。\n\n油画必须来自同一张照片，但更厚涂、更抽象：使用极厚的刮刀堆叠、凸起颜料、粗粝断裂笔触、刮擦边缘、明显画布纹理和大面积概括性色块，只保留主体轮廓、道路或地标方向、地平线和主要色彩关系。不要细密写实，不要照片滤镜，不要平滑数字绘画。仅加入“ORIGINAL PHOTO”和“OIL ON CANVAS”，不要品牌、Logo、水印或多余文字。",
+    "sourceRange": {
+      "start": 39,
+      "end": 365
+    },
+    "translations": {
+      "zh": "将这张普通旅行照制作成3:4竖版画廊墙面上下对照海报。整张画面是暖白灰泥墙面，留出大量连续墙面留白。上方放一张仅占画布宽度约62%–68%的小型真实照片，保持原场景、透视、主体关系和真实摄影质感，标注小字“ORIGINAL PHOTO”。下方放一张更小的油画画布，仅占宽度约58%–64%，四周保留明显墙面空间。\n\n油画必须来自同一张照片，但更厚涂、更抽象：使用极厚的刮刀堆叠、凸起颜料、粗粝断裂笔触、刮擦边缘、明显画布纹理和大面积概括性色块，只保留主体轮廓、道路或地标方向、地平线和主要色彩关系。不要细密写实，不要照片滤镜，不要平滑数字绘画。仅加入“ORIGINAL PHOTO”和“OIL ON CANVAS”，不要品牌、Logo、水印或多余文字。",
+      "en": "Turn this travel photo into a 3:4 vertical gallery wall comparison poster. The background is a warm white stucco wall with generous negative space. Place a small original photo at the top (62%–68% width), marked 'ORIGINAL PHOTO'. Below, place a smaller oil canvas (58%–64% width), marked 'OIL ON CANVAS'. The oil painting recreates the photo in a heavy impasto, abstract palette-knife style with thick paint, textured strokes, and simplified color blocks, keeping only core silhouettes and horizon. No fine realism, filters, or smooth digital painting; no logos or watermarks."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "画廊上下对照海报制作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
