@@ -1839,13 +1839,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098587991359074550"></a>
 
-### Đang dịch
+### Selfie mùa thu trong xe hơi, cầm bó lá phong rực rỡ dưới nóc kính toàn cảnh.
 
 Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2098587991359074550)
 
 Chân dung / Ảnh tự chụp · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Selfie mùa thu trong xe hơi, cầm bó lá phong rực rỡ dưới nóc kính toàn cảnh.
 
 <img src="images/2098587991359074550-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1854,7 +1854,14 @@ Chân dung / Ảnh tự chụp · Phương tiện · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Không thay đổi ngoại hình của cô gái.  
+Bức ảnh selfie bằng camera trước siêu thực phản ánh lối sống xa hoa, đắt đỏ. Cô gái chiếm trọn khung hình. Mái tóc của cô dài, thẳng và bồng bềnh với ngôi giữa rẽ gọn gàng; vài lọn tóc mềm mại rủ xuống khuôn mặt. Làn da phát sáng tông màu đồng với kết cấu tự nhiên cực kỳ chi tiết và thấy rõ lỗ chân lông. Không chỉnh sửa hay làm mịn nhân tạo — vẻ ngoài sống động, tự nhiên. Phải giữ nguyên độ tương đồng 100% với người gốc. Đôi môi hơi căng mọng và bóng nhẹ; cô ngước nhìn lên trần xe với vẻ ngưỡng mộ.
+
+Cô mặc một chiếc váy đen cổ cao bằng vải dệt gân ôm sát cơ thể. Một chiếc áo khoác biker ngoại cỡ tông màu nâu làm từ chất liệu vải dày cao cấp được khoác hờ trên vai. Hoa tai vàng tròn nhỏ, bộ móng tay kiểu Pháp ngắn vuông gàng gàng, và một chiếc nhẫn vàng nổi bật trên ngón tay.
+
+Cô cẩn thận ôm một bó lá phong mùa thu lớn, nổi bật và bóng bẩy với các tông màu đỏ, cam và vàng. Bối cảnh bên trong một chiếc xe hơi cao cấp với ghế da tông màu cà phê. Có thể nhìn thấy nóc kính toàn cảnh phía trên. Bên ngoài nóc xe phủ kín những chiếc lá phong nhiều màu sắc rơi xuống, tạo nên một tấm thảm mùa thu kỳ diệu. Nhìn qua nóc kính: mây mùa thu màu xám xanh, những hạt mưa nhẹ và lá cây dính trên kính. Ánh sáng mờ ảo, mềm mại và giàu không khí.
+
+Được chụp như một bức ảnh selfie góc nghiêng nhẹ với cánh tay vươn dài, góc máy từ dưới hướng lên. Tâm trạng mùa thu ấm áp, yên bình, thẩm mỹ kiểu Pinterest/Instagram, phong cách điện ảnh, siêu thực, 8K.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -1813,13 +1813,13 @@ Tradução em curso
 
 <a name="prompt-2098587991359074550"></a>
 
-### Tradução em curso
+### Selfie de outono no carro a segurar folhas de ácer coloridas sob um tejadilho panorâmico de vidro.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098587991359074550)
 
 Retrato / Selfie · Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Selfie de outono no carro a segurar folhas de ácer coloridas sob um tejadilho panorâmico de vidro.
 
 <img src="images/2098587991359074550-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1828,7 +1828,14 @@ Retrato / Selfie · Veículo · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Não altere a aparência da rapariga.  
+Selfie ultra-realista com a câmara frontal a refletir um estilo de vida luxuoso e dispendioso. Uma rapariga preenche o enquadramento. O seu cabelo é comprido, liso e volumoso com uma risca ao meio bem definida; algumas mechas suaves caem sobre o seu rosto. A pele é radiante em tons bronzeados com uma textura natural altamente detalhada e poros visíveis. Sem retoques ou suavização artificial — visual vivo e natural. A semelhança de 100% com a pessoa original tem de ser preservada. Os lábios são ligeiramente volumosos e brilhantes; ela olha para cima com admiração em direção ao tejadilho do carro.
+
+Ela veste um vestido preto justo ao corpo, canelado e de gola alta. Um casaco biker oversized em tons de castanho feito de tecido espesso de qualidade está pousado sobre os seus ombros. Brincos pequenos redondos em ouro, uma manicure francesa quadrada e curta bem cuidada e um anel vistoso em ouro no dedo.
+
+Ela segura cuidadosamente um ramo grande e vistoso de folhas de ácer outonais brilhantes em tons de vermelho, laranja e dourado. A cena decorre no interior de um carro topo de gama com bancos em pele tom de café. Um tejadilho panorâmico de vidro é visível por cima. O exterior do tejadilho do carro está densamente coberto de folhas de ácer coloridas caídas, criando um tapete mágico de outono. Através do tejadilho de vidro: nuvens de outono cinzento-azuladas, gotas de chuva ligeiras e folhas agarradas ao vidro. A iluminação é suave, difusa e atmosférica.
+
+Fotografada como uma selfie num ligeiro ângulo lateral com o braço estendido, câmara inclinada de baixo para cima. Ambiente de outono acolhedor e pacífico, estética do Pinterest/Instagram, visual cinematográfico, ultra-realista, 8K.
 ```
 
 [↑ Voltar às categorias](#catalog)

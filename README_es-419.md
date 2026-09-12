@@ -1796,13 +1796,13 @@ Traducción en curso
 
 <a name="prompt-2098587991359074550"></a>
 
-### Traducción en curso
+### Selfie otoñal en el auto sosteniendo coloridas hojas de arce bajo un techo panorámico de cristal.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2098587991359074550)
 
 Retrato / Selfie · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Selfie otoñal en el auto sosteniendo coloridas hojas de arce bajo un techo panorámico de cristal.
 
 <img src="images/2098587991359074550-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1811,7 +1811,14 @@ Retrato / Selfie · Vehículo · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+No cambies la apariencia de la chica.  
+Selfie con cámara frontal ultrarrealista que refleja un estilo de vida lujoso y costoso. Una chica llena el encuadre. Su cabello es largo, lacio y voluminoso con una raya en medio limpia; unos pocos mechones suaves caen sobre su rostro. La piel brilla en tonos bronce con una textura natural sumamente detallada y poros visibles. Sin retoques ni suavizados artificiales: un aspecto vivaz y natural. Se debe conservar el 100% de similitud con la persona original. Los labios son ligeramente carnosos y brillantes; mira hacia arriba con admiración hacia el techo del automóvil.
+
+Viste un vestido negro ajustado al cuerpo, acanalado y de cuello alto. Una chaqueta motera oversize en tonos marrones confeccionada en tela gruesa de calidad reposa sobre sus hombros. Pequeños aretes redondos de oro, una manicura francesa cuadrada, corta y prolija, y un anillo de oro llamativo en su dedo.
+
+Sostiene con cuidado un ramo grande y llamativo de hojas de arce otoñales brillantes en tonos rojos, anaranjados y dorados. La escena transcurre dentro de un automóvil de primera calidad con asientos de cuero en tono café. Arriba se aprecia un techo panorámico de cristal. El exterior del techo del automóvil está densamente cubierto de hojas de arce caídas de colores, creando una mágica alfombra otoñal. A través del techo de cristal: nubes otoñales de color gris azulado, ligeras gotas de lluvia y hojas pegadas al cristal. La iluminación es tenue, suave y atmosférica.
+
+Tomada como una selfie con un ligero ángulo lateral y el brazo extendido, con la cámara orientada de abajo hacia arriba. Ambiente otoñal cálido y pacífico, estética de Pinterest/Instagram, aspecto cinematográfico, ultrarrealista, 8K.
 ```
 
 [↑ Volver a categorías](#catalog)

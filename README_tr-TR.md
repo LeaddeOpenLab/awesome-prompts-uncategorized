@@ -1813,13 +1813,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098587991359074550"></a>
 
-### Çeviri sürüyor
+### Panoramik cam tavan altında renkli akçaağaç yaprakları tutan sonbahar temalı araba özçekimi.
 
 Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2098587991359074550)
 
 Portre / Selfie · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Panoramik cam tavan altında renkli akçaağaç yaprakları tutan sonbahar temalı araba özçekimi.
 
 <img src="images/2098587991359074550-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1828,7 +1828,14 @@ Portre / Selfie · Araç · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kızın görünümünü değiştirmeyin.  
+Lüks ve pahalı bir yaşam tarzını yansıtan ultra gerçekçi ön kamera özçekimi. Kareyi bir kız dolduruyor. Saçları uzun, düz ve hacimli, düzgün bir orta ayrıma sahip; birkaç yumuşak tutam yüzüne dökülüyor. Cilt, son derece ayrıntılı doğal doku ve görünür gözeneklerle bronz tonlarda parıldıyor. Rötuş veya yapay pürüzsüzleştirme yok — canlı, doğal bir görünüm. Orijinal kişiyle %100 benzerlik korunmalıdır. Dudaklar hafif dolgun ve parlak; hayranlıkla arabanın tavanına doğru yukarı bakıyor.
+
+Üzerinde vücudu saran, fitilli, balıkçı yaka siyah bir elbise var. Kalın kaliteli kumaştan yapılmış kahverengi tonlarında büyük beden bir motorcu ceketi omuzlarına dökülmüş. Küçük yuvarlak altın küpeler, düzgün kısa kare Fransız manikürü ve parmağında dikkat çekici altın bir yüzük.
+
+Kırmızı, turuncu ve altın sarısı tonlarında parlak sonbahar akçaağaç yapraklarından oluşan büyük, gösterişli bir buketi özenle tutuyor. Sahne, kahve tonlarında deri koltuklara sahip lüks bir arabanın içinde geçiyor. Yukarıda panoramik bir cam tavan görünüyor. Arabanın dış tavanı, düşmüş renkli akçaağaç yapraklarıyla yoğun bir şekilde kaplanmış ve büyüleyici bir sonbahar halısı oluşturmuş. Cam tavandan görünenler: gri-mavi sonbahar bulutları, hafif yağmur damlaları ve cama yapışmış yapraklar. Aydınlatma loş, yumuşak ve atmosferik.
+
+Uzatılmış bir kolla hafif yan açıdan çekilmiş bir özçekim, kamera aşağıdan yukarıya doğru açılı. Sıcak, huzurlu sonbahar havası, Pinterest/Instagram estetiği, sinematik görünüm, ultra gerçekçi, 8K.
 ```
 
 [↑ Kategorilere dön](#catalog)

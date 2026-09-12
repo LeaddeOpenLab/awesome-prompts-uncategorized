@@ -1796,13 +1796,13 @@ Traduzione in corso
 
 <a name="prompt-2098587991359074550"></a>
 
-### Traduzione in corso
+### Selfie autunnale in auto con foglie d'acero colorate sotto un tetto panoramico in vetro.
 
 Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2098587991359074550)
 
 Ritratto / Selfie · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Selfie autunnale in auto con foglie d'acero colorate sotto un tetto panoramico in vetro.
 
 <img src="images/2098587991359074550-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1811,7 +1811,14 @@ Ritratto / Selfie · Veicolo · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Non modificare l'aspetto della ragazza.  
+Selfie con fotocamera frontale ultra-realistico che riflette uno stile di vita lussuoso e costoso. Una ragazza riempie l'inquadratura. I suoi capelli sono lunghi, lisci e voluminosi con una riga centrale pulita; alcune ciocche morbide le ricadono sul viso. La pelle è luminosa nei toni del bronzo con una texture naturale molto dettagliata e pori visibili. Nessun ritocco o levigatura artificiale: look vivace e naturale. Deve essere preservata al 100% la somiglianza con la persona originale. Le labbra sono leggermente carnose e lucide; guarda verso l'alto con ammirazione verso il tettuccio dell'auto.
+
+Indossa un abito nero a coste, aderente e a collo alto. Una giacca da motociclista oversize nei toni del marrone, realizzata in tessuto spesso di qualità, è appoggiata sulle sue spalle. Piccoli orecchini rotondi dorati, una french manicure squadrata corta e curata, e un vistoso anello d'oro al dito.
+
+Tiene con cura un grande e vistoso bouquet di foglie d'acero autunnali lucide nei toni del rosso, arancione e oro. La scena si svolge all'interno di un'auto premium con sedili in pelle color caffè. Sopra è visibile un tetto panoramico in vetro. Il tetto esterno dell'auto è densamente coperto di foglie d'acero colorate cadute, creando un magico tappeto autunnale. Attraverso il tetto in vetro: nuvole autunnali grigio-blu, leggere gocce di pioggia e foglie incollate al vetro. L'illuminazione è soffusa, morbida e d'atmosfera.
+
+Scattata come un selfie da una leggera angolazione laterale con il braccio teso, fotocamera angolata dal basso verso l'alto. Atmosfera autunnale calda e pacifica, estetica da Pinterest/Instagram, look cinematografico, ultra-realistico, 8K.
 ```
 
 [↑ Torna alle categorie](#catalog)

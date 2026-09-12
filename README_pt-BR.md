@@ -1813,13 +1813,13 @@ Tradução em andamento
 
 <a name="prompt-2098587991359074550"></a>
 
-### Tradução em andamento
+### Selfie de outono no carro segurando folhas de bordo coloridas sob um teto panorâmico de vidro.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098587991359074550)
 
 Retrato / Selfie · Veículo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Selfie de outono no carro segurando folhas de bordo coloridas sob um teto panorâmico de vidro.
 
 <img src="images/2098587991359074550-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1828,7 +1828,14 @@ Retrato / Selfie · Veículo · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Não altere a aparência da garota.  
+Selfie ultra-realista com a câmera frontal refletindo um estilo de vida luxuoso e caro. Uma garota preenche o enquadramento. Seu cabelo é longo, liso e volumoso, com uma divisão central bem definida; algumas mechas suaves caem sobre seu rosto. A pele é radiante em tons bronzeados com textura natural altamente detalhada e poros visíveis. Sem retoques ou suavização artificial — visual vívido e natural. A semelhança de 100% com a pessoa original deve ser preservada. Os lábios são levemente volumosos e com brilho; ela olha para cima com admiração em direção ao teto do carro.
+
+Ela veste um vestido preto canelado, justo ao corpo e de gola alta. Uma jaqueta biker oversized em tons de marrom feita de tecido espesso de qualidade está sobre seus ombros. Pequenos brincos redondos de ouro, uma francesinha quadrada e curta bem cuidada e um anel de ouro marcante em seu dedo.
+
+Ela segura com cuidado um buquê grande e vistoso de folhas de bordo outonais brilhantes em tons de vermelho, laranja e dourado. A cena é dentro de um carro premium com bancos de couro na cor café. Um teto solar panorâmico de vidro é visível acima. O teto externo do carro está densamente coberto de folhas de bordo coloridas caídas, criando um tapete mágico de outono. Através do teto de vidro: nuvens de outono cinza-azuladas, gotas de chuva leves e folhas grudadas no vidro. A iluminação é suave, tênue e atmosférica.
+
+Fotografada como uma selfie em leve ângulo lateral com o braço estendido, câmera inclinada de baixo para cima. Clima de outono quente e tranquilo, estética de Pinterest/Instagram, visual cinematográfico, ultra-realista, 8K.
 ```
 
 [↑ Voltar às categorias](#catalog)

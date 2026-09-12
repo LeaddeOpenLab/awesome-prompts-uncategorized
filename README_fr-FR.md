@@ -1796,13 +1796,13 @@ Traduction en cours
 
 <a name="prompt-2098587991359074550"></a>
 
-### Traduction en cours
+### Selfie d'automne en voiture tenant des feuilles d'érable colorées sous un toit panoramique en verre.
 
 Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2098587991359074550)
 
 Portrait / Selfie · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Selfie d'automne en voiture tenant des feuilles d'érable colorées sous un toit panoramique en verre.
 
 <img src="images/2098587991359074550-1.jpg" alt="Image 1" width="480" />
 
@@ -1811,7 +1811,14 @@ Portrait / Selfie · Véhicule · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Ne modifiez pas l'apparence de la jeune fille.  
+Selfie à la caméra frontale ultra-réaliste reflétant un style de vie luxueux et haut de gamme. Une jeune fille remplit le cadre. Ses cheveux sont longs, raides et volumineux, avec une raie nette au milieu ; quelques mèches douces retombent sur son visage. Sa peau est éclatante aux tons bronzés, avec une texture naturelle très détaillée et des pores visibles. Aucune retouche ni lissage artificiel — un look vivant et naturel. La ressemblance à 100 % avec la personne d'origine doit être préservée. Ses lèvres sont légèrement pulpeuses et brillantes ; elle regarde vers le haut avec admiration en direction du plafond de la voiture.
+
+Elle porte une robe noire moulante en maille côtelée à col montant. Un blouson motard oversize dans les tons marron, confectionné dans un tissu épais de qualité, est posé sur ses épaules. De petites boucles d'oreilles rondes dorées, une manucure française carrée et soignée, et une bague imposante en or à son doigt.
+
+Elle tient délicatement un grand bouquet spectaculaire de feuilles d'érable automnales brillantes aux tons rouges, orange et dorés. La scène se déroule à l'intérieur d'une voiture haut de gamme aux sièges en cuir couleur café. Un toit panoramique en verre est visible au-dessus. Le toit extérieur de la voiture est densément recouvert de feuilles d'érable colorées tombées au sol, créant un tapis d'automne magique. À travers le toit en verre : nuages d'automne gris-bleu, fines gouttes de pluie et feuilles collées au verre. L'éclairage est tamisé, doux et chaleureux.
+
+Prise de vue sous forme de selfie légèrement de côté avec un bras tendu, la caméra orientée du bas vers le haut. Ambiance d'automne chaleureuse et paisible, esthétique Pinterest/Instagram, rendu cinématographique, ultra-réaliste, 8K.
 ```
 
 [↑ Retour aux catégories](#catalog)

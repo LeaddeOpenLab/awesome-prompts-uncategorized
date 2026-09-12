@@ -1796,13 +1796,13 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098587991359074550"></a>
 
-### Übersetzung läuft
+### Herbstliches Auto-Selfie mit bunten Ahornblättern unter einem Panorama-Glasdach.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2098587991359074550)
 
 Porträt / Selfie · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Herbstliches Auto-Selfie mit bunten Ahornblättern unter einem Panorama-Glasdach.
 
 <img src="images/2098587991359074550-1.jpg" alt="Bild 1" width="480" />
 
@@ -1811,7 +1811,14 @@ Porträt / Selfie · Fahrzeug · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Das Aussehen des Mädchens nicht verändern.  
+Ultrarealistisches Frontkamera-Selfie, das einen luxuriösen, teuren Lebensstil widerspiegelt. Ein Mädchen füllt das Bild aus. Ihr Haar ist lang, glatt und voluminös mit einem sauberen Mittelscheitel; ein paar weiche Strähnen fallen über ihr Gesicht. Die Haut strahlt in Bronzetönen mit hochdetaillierter natürlicher Textur und sichtbaren Poren. Keine Retusche oder künstliche Glättung – lebendiger, natürlicher Look. 100 % Ähnlichkeit mit der Originalperson muss erhalten bleiben. Die Lippen sind leicht voll und glänzend; sie blickt bewundernd nach oben zur Autodecke.
+
+Sie trägt ein figurbetontes, geripptes, hochgeschlossenes schwarzes Kleid. Eine kastige braune Bikerjacke aus dickem Qualitätsstoff liegt locker über ihren Schultern. Kleine runde Goldohrringe, eine gepflegte kurze eckige French-Maniküre und ein auffälliger Goldring an ihrem Finger.
+
+Sie hält vorsichtig einen großen, prächtigen Strauß glänzender herbstlicher Ahornblätter in Rot-, Orange- und Goldtönen. Die Szene spielt sich im Inneren eines Premium-Autos mit kaffeebraunen Ledersitzen ab. Darüber ist ein Panorama-Glasdach zu sehen. Das Außendach des Autos ist dicht mit herabgefallenen bunten Ahornblättern bedeckt, die einen zauberhaften Herbstteppich bilden. Durch das Glasdach: graublaue Herbstwolken, leichte Regentropfen und am Glas haftende Blätter. Die Beleuchtung ist gedämpft, weich und atmosphärisch.
+
+Aufgenommen als Selfie aus einem leichten Seitenwinkel mit ausgestrecktem Arm, die Kamera von unten nach oben gerichtet. Warme, friedliche Herbststimmung, Pinterest/Instagram-Ästhetik, filmischer Look, ultrarealistisch, 8K.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
