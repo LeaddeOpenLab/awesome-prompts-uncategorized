@@ -35,13 +35,13 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098530398724915395"></a>
 
-### Tradução em curso
+### Retrato fotorrealista de corpo inteiro médio de uma jovem japonesa em lingerie de renda cor-de-rosa e preta de inspiração gótica a caminhar num campo de flores resplandecente ao crepúsculo.
 
 Autor：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Publicação original](https://x.com/ai_vision_2nd/status/2098530398724915395)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato fotorrealista de corpo inteiro médio de uma jovem japonesa em lingerie de renda cor-de-rosa e preta de inspiração gótica a caminhar num campo de flores resplandecente ao crepúsculo.
 
 <img src="images/2098530398724915395-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Fotografia fotorrealista de catálogo de moda em plano de corpo inteiro médio de uma bela jovem japonesa com expressão suave e kawaii, cabelos escuros volumosos e ondulados com múltiplos laços de renda preta e toques de pérolas, seios naturais abundantes com volume macio e realista e grão de pele fino, vestindo apenas a parte inferior de lingerie em renda por camadas rosa-pálido e preta, bonita mas de inspiração gótica, com pormenores de fita, tiras de coxa a condizer e elegantes sandálias góticas de plataforma. Ela caminha lentamente através de um campo de flores brilhante e onírico ao entardecer com orbes de luz flutuantes, o corpo ligeiramente virado, uma mão a levantar uma borda de renda da sua lingerie, olhar direcionado suavemente para a câmara. O sujeito preenche uma parte significativa do enquadramento num plano de corpo inteiro médio. O sujeito permanece extremamente detalhado e fotorrealista mesmo nesta composição de corpo inteiro, com feições faciais perfeitamente nítidas, poros da pele e penugem visíveis, realismo natural dos seios e texturas intrincadas de renda com várias camadas totalmente nítidas. Fotografada numa Canon EOS R5 com lente 70mm f/1.8 a f/2.0, iluminação suave de crepúsculo com suave efeito bloom, microtexturas ultrarrealistas de pele e tecido.
 ```
 
 [↑ Voltar às categorias](#catalog)

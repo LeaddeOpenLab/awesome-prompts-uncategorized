@@ -35,13 +35,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098530398724915395"></a>
 
-### Çeviri sürüyor
+### Gotik esintili pembe ve siyah dantel iç çamaşırı giymiş, alacakaranlıkta parıldayan bir çiçek tarlasında yürüyen genç bir Japon kadının fotogerçekçi orta boydan portresi.
 
 Yazar：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Orijinal gönderi](https://x.com/ai_vision_2nd/status/2098530398724915395)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gotik esintili pembe ve siyah dantel iç çamaşırı giymiş, alacakaranlıkta parıldayan bir çiçek tarlasında yürüyen genç bir Japon kadının fotogerçekçi orta boydan portresi.
 
 <img src="images/2098530398724915395-1.jpg" alt="Görsel 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımland�
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yumuşak kawaii ifadesine, birden fazla siyah dantel fiyonk ve inci detaylarıyla süslenmiş hacimli dalgalı koyu saçlara, gerçekçi yumuşak hacme ve ince cilt dokusuna sahip doğal dolgun göğüslere sahip, yalnızca kurdele detaylı, sevimli ama gotik esintili açık pembe ve siyah katmanlı dantel iç çamaşırı altı, uyumlu uyluk bantları ve zarif gotik platform sandaletler giyen güzel ve genç bir Japon kadının fotogerçekçi, orta boydan moda kataloğu fotoğrafı. Alacakaranlıkta yüzen ışık küreleriyle rüya gibi parıldayan bir çiçek tarlasında yavaşça yürüyor, vücudu hafifçe dönük, bir eli iç çamaşırının dantel kenarını kaldırıyor, bakışları kameraya yumuşakça yönelmiş. Özne, orta boydan bir çekimde karenin önemli bir bölümünü dolduruyor. Özne, bu tam boy kompozisyonda bile son derece ayrıntılı ve fotogerçekçi kalıyor; jilet keskinliğinde yüz hatları, görünür cilt gözenekleri ve ayva tüyleri, doğal göğüs gerçekçiliği ve tamamen netleştirilmiş karmaşık çok katmanlı dantel dokularına sahip. f/2.0 diyaframda 70mm f/1.8 lens ile Canon EOS R5 ile çekilmiş, yumuşak ışıltılı (bloom) hafif alacakaranlık aydınlatması, ultra gerçekçi cilt ve kumaş mikro dokuları.
 ```
 
 [↑ Kategorilere dön](#catalog)

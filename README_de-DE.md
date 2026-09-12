@@ -35,13 +35,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098530398724915395"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Porträt im Halbtotale-Ganzkörperausschnitt einer jungen japanischen Frau in Gothic-inspirierter rosa-schwarzer Spitzenunterwäsche, die in der leuchtenden Abenddämmerung durch ein Blumenfeld geht.
 
 Autor：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Originalbeitrag](https://x.com/ai_vision_2nd/status/2098530398724915395)
 
 Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Porträt im Halbtotale-Ganzkörperausschnitt einer jungen japanischen Frau in Gothic-inspirierter rosa-schwarzer Spitzenunterwäsche, die in der leuchtenden Abenddämmerung durch ein Blumenfeld geht.
 
 <img src="images/2098530398724915395-1.jpg" alt="Bild 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Fotorealistische Modekatalog-Fotografie im Halbtotale-Ganzkörperausschnitt einer wunderschönen jungen japanischen Frau mit sanftem Kawaii-Ausdruck, voluminösem, welligem dunklem Haar mit mehreren schwarzen Spitzenschleifen und Perlenakzenten, natürlichen, üppigen Brüsten mit realistischem, weichem Volumen und feiner Hautkörnung, die nur ein niedliches, aber Gothic-inspiriertes, zartrosa-schwarz geschichtetes Spitzen-Dessous-Höschen mit Schleifendetails, passende Oberschenkelriemen und elegante Gothic-Plateausandalen trägt. Sie geht langsam durch ein traumhaftes, leuchtendes Blumenfeld in der Abenddämmerung mit schwebenden Lichtkugeln, der Körper leicht gedreht, eine Hand hebt eine Spitzenkante ihrer Dessous an, der Blick ist sanft zur Kamera gerichtet. Die Person füllt einen bedeutenden Teil des Bildausschnitts in einer Halbtotale aus. Das Motiv bleibt auch in dieser Ganzkörperkomposition extrem detailliert und fotorealistisch, mit gestochen scharfen Gesichtszügen, sichtbaren Hautporen und feinem Pfirsichflaum, natürlichem Brustrealismus und vollständig aufgelösten, komplizierten mehrlagigen Spitzentexturen. Aufgenommen mit einer Canon EOS R5 mit einem 70mm f/1.8 Objektiv bei f/2.0, sanfte Dämmerungsbeleuchtung mit zartem Bloom-Effekt, ultrarealistische Haut- und Stoff-Mikrotexturen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

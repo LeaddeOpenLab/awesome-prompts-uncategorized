@@ -35,13 +35,13 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098530398724915395"></a>
 
-### Traduzione in corso
+### Ritratto fotorealistico a figura intera media di una giovane donna giapponese in lingerie di pizzo rosa e nero di ispirazione gotica che cammina in un luminoso campo di fiori al crepuscolo.
 
 Autore：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Post originale](https://x.com/ai_vision_2nd/status/2098530398724915395)
 
 Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto fotorealistico a figura intera media di una giovane donna giapponese in lingerie di pizzo rosa e nero di ispirazione gotica che cammina in un luminoso campo di fiori al crepuscolo.
 
 <img src="images/2098530398724915395-1.jpg" alt="Immagine 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Fotografia fotorealistica da catalogo di moda a figura intera media di una bellissima giovane donna giapponese dall'espressione dolce e kawaii, voluminosi capelli scuri e ondulati con molteplici fiocchi di pizzo nero e accenti di perle, seni naturali abbondanti dal volume morbido e realistico e grana della pelle fine, che indossa solo slip di lingerie in pizzo a strati rosa pallido e nero, graziosi ma di ispirazione gotica con dettagli a nastro, cinghie per le cosce abbinate ed eleganti sandali gotici con plateau. Cammina lentamente attraverso un campo di fiori luminoso e onirico al crepuscolo con sfere di luce fluttuanti, il corpo leggermente girato, una mano che solleva un bordo di pizzo della sua lingerie, lo sguardo rivolto dolcemente verso la fotocamera. Il soggetto riempie una porzione significativa dell'inquadratura in uno scatto medio a figura intera. Il soggetto rimane estremamente dettagliato e fotorealistico anche in questa composizione a figura intera, con lineamenti del viso nitidissimi, pori della pelle e peluria visibili, realismo naturale del seno e trame di pizzo multistrato intricate perfettamente definite. Scattata con una Canon EOS R5 con obiettivo 70mm f/1.8 a f/2.0, illuminazione morbida del crepuscolo con un delicato effetto bloom, micro-trame ultra-realistiche di pelle e tessuto.
 ```
 
 [↑ Torna alle categorie](#catalog)

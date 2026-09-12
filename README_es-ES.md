@@ -35,13 +35,13 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098530398724915395"></a>
 
-### Traducción en curso
+### Retrato fotorrealista de cuerpo entero medio de una joven japonesa en lencería de encaje rosa y negro de inspiración gótica caminando en un campo de flores resplandeciente al anochecer.
 
 Autor：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Publicación original](https://x.com/ai_vision_2nd/status/2098530398724915395)
 
 Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato fotorrealista de cuerpo entero medio de una joven japonesa en lencería de encaje rosa y negro de inspiración gótica caminando en un campo de flores resplandeciente al anochecer.
 
 <img src="images/2098530398724915395-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Fotografía fotorrealista de catálogo de moda de cuerpo entero medio de una hermosa joven japonesa con una suave expresión kawaii, cabello oscuro ondulado y voluminoso adornado con múltiples lazos de encaje negro y toques de perlas, senos abundantes y naturales con un volumen suave y textura fina de piel realistas, vistiendo únicamente una linda braguita de lencería de encaje en capas rosa pálido y negro de inspiración gótica con detalles de lazos, correas a juego para los muslos y elegantes sandalias de plataforma góticas. Camina lentamente a través de un campo de flores resplandeciente y de ensueño al anochecer con orbes de luz flotantes, el cuerpo ligeramente girado, una mano levantando un borde de encaje de su lencería y la mirada dirigida suavemente hacia la cámara. El sujeto llena una porción significativa del encuadre en una toma de cuerpo entero medio. El sujeto se mantiene extremadamente detallado y fotorrealista incluso en esta composición de cuerpo entero, con rasgos faciales nítidos, poros de la piel y vello fino visibles, realismo natural en el busto y texturas intrincadas de encaje de múltiples capas completamente definidas. Tomada con una Canon EOS R5 y lente de 70mm f/1.8 a f/2.0, iluminación suave crepuscular con un ligero efecto bloom, microtexturas de piel y tela ultrarrealistas.
 ```
 
 [↑ Volver a categorías](#catalog)

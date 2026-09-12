@@ -35,13 +35,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098530398724915395"></a>
 
-### Đang dịch
+### Chân dung toàn thân cự ly trung bình chân thực như ảnh chụp của một thiếu nữ Nhật Bản trong bộ nội y ren màu hồng và đen phong cách gothic đang bước đi giữa cánh đồng hoa hoàng hôn phát sáng.
 
 Tác giả：[@ai\_vision\_2nd](https://x.com/ai_vision_2nd) · [Bài gốc](https://x.com/ai_vision_2nd/status/2098530398724915395)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung toàn thân cự ly trung bình chân thực như ảnh chụp của một thiếu nữ Nhật Bản trong bộ nội y ren màu hồng và đen phong cách gothic đang bước đi giữa cánh đồng hoa hoàng hôn phát sáng.
 
 <img src="images/2098530398724915395-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -50,7 +50,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh chụp danh mục thời trang toàn thân cự ly trung bình chân thực như ảnh chụp của một phụ nữ trẻ Nhật Bản xinh đẹp với biểu cảm kawaii dịu dàng, mái tóc sẫm màu gợn sóng bồng bềnh được điểm xuyết nhiều nơ ren đen và ngọc trai, vòng một nở nang tự nhiên với độ mềm mại chân thực và vân da mịn màng, chỉ mặc một chiếc quần lót ren nhiều tầng màu hồng nhạt và đen lấy cảm hứng từ phong cách gothic nhưng vẫn dễ thương với các chi tiết ruy băng, dây đai đùi đồng điệu và đôi xăng đan đế xuồng gothic thanh lịch. Cô bước đi chậm rãi qua cánh đồng hoa phát sáng đẹp như mơ vào lúc hoàng hôn với những quả cầu ánh sáng lơ lửng, cơ thể hơi nghiêng, một tay nhấc nhẹ mép ren của nội y, ánh mắt nhìn dịu dàng về phía máy ảnh. Nhân vật chiếm một phần đáng kể trong khung hình ở góc chụp toàn thân cự ly trung bình. Nhân vật vẫn cực kỳ chi tiết và chân thực ngay cả trong bố cục toàn thân này, với các đường nét khuôn mặt sắc nét, lỗ chân lông và lớp lông tơ có thể nhìn thấy rõ, độ chân thực tự nhiên của bầu ngực và các họa tiết ren nhiều lớp tinh xảo được tái hiện đầy đủ. Chụp bằng máy Canon EOS R5 với ống kính 70mm f/1.8 ở f/2.0, ánh sáng hoàng hôn dịu nhẹ với hiệu ứng lóe sáng mềm mại, kết cấu vi mô của da và vải chân thực tột đỉnh.
 ```
 
 [↑ Về danh mục](#catalog)
