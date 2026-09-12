@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**98** Prompts · Dernier ajout: **2026-09-12**
+**99** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -668,6 +668,28 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098605916199456804"></a>
+
+### Traduction en cours
+
+Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2098605916199456804)
+
+Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098605916199456804-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098476449212805468"></a>
 
@@ -1422,20 +1444,22 @@ Crée-moi une baie de serveurs pour 6 Nvidia Sparks avec un design efficace et e
 
 <a name="prompt-2098589129512747309"></a>
 
-### Traduction en cours
+### Portrait sur le vif dans une bibliothèque en 1985 d'une jeune femme blonde en tenue vintage des années 80 avec tampon dateur.
 
 Auteur：[@Milliekio](https://x.com/Milliekio) · [Publication originale](https://x.com/Milliekio/status/2098589129512747309)
 
 Photographie · Rétro / Vintage · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait sur le vif dans une bibliothèque en 1985 d'une jeune femme blonde en tenue vintage des années 80 avec tampon dateur.
 
 <img src="images/2098589129512747309-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+En utilisant l'image ci-dessus comme référence faciale.
+
+Conservez la structure faciale exacte, les proportions, les traits et l'expression avec une identité cohérente. Portrait sur le vif ultra-réaliste dans une bibliothèque en 1985 de la même jeune femme, préservant des traits faciaux identiques et reconnaissables, la carnation et la texture naturelle de la peau. Elle se tient entre de hautes étagères en bois, touchant le dos d'un livre tout en tenant plusieurs livres contre sa taille, faisant face calmement à l'appareil photo. De longs cheveux blonds en queue-de-cheval haute avec un grand chouchou bordeaux, des boucles lâches, des créoles rouges, un maquillage glamour doux des années 80, des joues rosées et des lèvres nude brillantes. Elle porte un chemisier blanc à col, une jupe à carreaux rouge et vert à taille haute, une veste courte en jean bleu et un sac à bandoulière bordeaux. L'éclairage chaleureux de la bibliothèque, des livres anciens, un globe terrestre et des affiches créent le décor des années 1980. Instantané 35 mm, flash subtil, grain argentique, couleurs chaudes délavées, poussière, rayures, flou artistique, bordure usée et tampon dateur rouge « MAR 10 1985 ».
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1796,20 +1820,20 @@ Une paire normale de mains humaines.
 
 <a name="prompt-2098573808521113742"></a>
 
-### Traduction en cours
+### Convertir une photo de Cybertruck en SUV à 3 rangées
 
 Auteur：[@TroyDMeyers](https://x.com/TroyDMeyers) · [Publication originale](https://x.com/TroyDMeyers/status/2098573808521113742)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Convertir une photo de Cybertruck en SUV à 3 rangées
 
 <img src="covers/2098573808521113742.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez une photo d'un Cybertruck et convertissez-le en un SUV à 3 rangées
 ```
 
 [↑ Retour aux catégories](#catalog)

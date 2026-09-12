@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**98** Prompts · Última incorporación: **2026-09-12**
+**99** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -694,6 +694,28 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2098605916199456804"></a>
+
+### Traducción en curso
+
+Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2098605916199456804)
+
+Cine / Fotograma de película · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098605916199456804-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098476449212805468"></a>
 
@@ -1445,20 +1467,20 @@ Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficient
 
 <a name="prompt-2098589129512747309"></a>
 
-### Traducción en curso
+### Retrato espontáneo de 1985 en una biblioteca de una joven rubia con atuendo vintage de los 80 y sello de fecha.
 
 Autor：[@Milliekio](https://x.com/Milliekio) · [Publicación original](https://x.com/Milliekio/status/2098589129512747309)
 
 Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato espontáneo de 1985 en una biblioteca de una joven rubia con atuendo vintage de los 80 y sello de fecha.
 
 <img src="images/2098589129512747309-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Utilizando la imagen de arriba como referencia facial. Mantén con exactitud la estructura facial, las proporciones, los rasgos y la expresión con una identidad consistente. Retrato espontáneo hiperrealista de 1985 en una biblioteca de la misma joven, conservando idénticos rasgos faciales reconocibles, tono de piel y textura natural. Está de pie entre altas estanterías de madera, tocando el lomo de un libro mientras sostiene varios libros contra su cintura, mirando con calma a la cámara. Pelo rubio largo recogido en una coleta alta con un coletero grande de color burdeos, rizos sueltos, pendientes de aro rojos, suave maquillaje glamuroso de los años 80, mejillas sonrosadas y labios nude brillantes. Viste una blusa blanca con cuello, falda de talle alto a cuadros rojos y verdes, chaqueta vaquera corta azul y bolso de hombro burdeos. La cálida iluminación de la biblioteca, los libros antiguos, el globo terráqueo y los carteles crean la ambientación de los años 80. Instantánea de 35 mm, flash sutil, grano analógico, colores cálidos desvaídos, polvo, arañazos, enfoque suave, bordes desgastados y sello de fecha rojo "MAR 10 1985".
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1831,20 +1853,20 @@ Un par normal de manos humanas.
 
 <a name="prompt-2098573808521113742"></a>
 
-### Traducción en curso
+### Convertir foto de Cybertruck en un SUV de 3 filas
 
 Autor：[@TroyDMeyers](https://x.com/TroyDMeyers) · [Publicación original](https://x.com/TroyDMeyers/status/2098573808521113742)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Convertir foto de Cybertruck en un SUV de 3 filas
 
 <img src="covers/2098573808521113742.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Utiliza una foto de un Cybertruck y conviértela en un SUV de 3 filas
 ```
 
 [↑ Volver a categorías](#catalog)

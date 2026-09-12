@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**98** Prompt · Son eklenen: **2026-09-12**
+**99** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -682,6 +682,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098605916199456804"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2098605916199456804)
+
+Sinematik / Film Karesi · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098605916199456804-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098476449212805468"></a>
 
@@ -1439,20 +1461,22 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 
 <a name="prompt-2098589129512747309"></a>
 
-### Çeviri sürüyor
+### 1985 kütüphanesinde vintage 80'ler kıyafetli ve tarih damgalı sarışın genç bir kadının doğal portresi.
 
 Yazar：[@Milliekio](https://x.com/Milliekio) · [Orijinal gönderi](https://x.com/Milliekio/status/2098589129512747309)
 
 Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 1985 kütüphanesinde vintage 80'ler kıyafetli ve tarih damgalı sarışın genç bir kadının doğal portresi.
 
 <img src="images/2098589129512747309-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüz referansı olarak yukarıdaki görseli kullanarak.
+
+Tutarlı bir kimlikle tam yüz yapısını, oranlarını, hatlarını ve ifadesini koruyun. Aynı genç kadının 1985 kütüphanesinde çekilmiş, birebir aynı tanınabilir yüz hatlarını, cilt tonunu ve doğal dokusunu koruyan, aşırı gerçekçi doğal bir portresi. Yüksek ahşap kitaplıkların arasında duruyor, birkaç kitabı beline yaslamış tutarken bir kitabın sırtına dokunuyor ve sakince kameraya bakıyor. Büyük bordo bir tokayla tepeden toplanmış uzun sarı saçlar, gevşek bukleler, kırmızı halka küpeler, 80'ler tarzı hafif ışıltılı makyaj, pembe yanaklar ve parlak nude dudaklar. Beyaz yakalı bir bluz, yüksek belli kırmızı-yeşil ekose etek, kısa mavi kot ceket ve bordo omuz çantası giyiyor. Sıcak kütüphane aydınlatması, eski kitaplar, dünya küresi ve posterler 1980'ler ortamını yaratıyor. 35mm enstantane çekim, hafif flaş, analog gren, soluk sıcak renkler, toz, çizikler, yumuşak odak, yıpranmış kenar ve kırmızı tarih damgası "MAR 10 1985".
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1813,20 +1837,20 @@ Normal bir çift insan eli.
 
 <a name="prompt-2098573808521113742"></a>
 
-### Çeviri sürüyor
+### Cybertruck fotoğrafını 3 sıralı bir SUV'a dönüştürün
 
 Yazar：[@TroyDMeyers](https://x.com/TroyDMeyers) · [Orijinal gönderi](https://x.com/TroyDMeyers/status/2098573808521113742)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Cybertruck fotoğrafını 3 sıralı bir SUV'a dönüştürün
 
 <img src="covers/2098573808521113742.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir Cybertruck fotoğrafı kullanın ve onu 3 sıralı bir SUV'a dönüştürün
 ```
 
 [↑ Kategorilere dön](#catalog)

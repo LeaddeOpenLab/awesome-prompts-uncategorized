@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**98** Prompt · Bổ sung mới nhất: **2026-09-12**
+**99** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -694,6 +694,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098605916199456804"></a>
+
+### Đang dịch
+
+Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2098605916199456804)
+
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098605916199456804-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098476449212805468"></a>
 
@@ -1445,20 +1467,20 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 
 <a name="prompt-2098589129512747309"></a>
 
-### Đang dịch
+### Ảnh chụp chân dung tự nhiên năm 1985 tại thư viện của một thiếu nữ tóc vàng trong trang phục cổ điển thập niên 80 kèm dấu ngày tháng.
 
 Tác giả：[@Milliekio](https://x.com/Milliekio) · [Bài gốc](https://x.com/Milliekio/status/2098589129512747309)
 
 Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chụp chân dung tự nhiên năm 1985 tại thư viện của một thiếu nữ tóc vàng trong trang phục cổ điển thập niên 80 kèm dấu ngày tháng.
 
 <img src="images/2098589129512747309-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng hình ảnh bên trên làm tham chiếu khuôn mặt. Duy trì chính xác cấu trúc khuôn mặt, tỷ lệ, đường nét và biểu cảm với danh tính nhất quán. Ảnh chân dung tự nhiên siêu thực năm 1985 tại thư viện của cùng một thiếu nữ, giữ nguyên các đặc điểm nhận dạng khuôn mặt, tông màu da và kết cấu tự nhiên giống hệt. Cô ấy đứng giữa những kệ sách gỗ cao, chạm vào gáy một cuốn sách trong khi ôm vài cuốn sách bên hông, bình tĩnh nhìn về phía máy ảnh. Mái tóc vàng dài buộc đuôi ngựa cao bằng dây buộc tóc scrunchie lớn màu đỏ burgundy, những lọn tóc xoăn buông xõa, hoa tai tròn màu đỏ, phong cách trang điểm glam nhẹ nhàng thập niên 80, gò má ửng hồng và đôi môi màu nude bóng nhẹ. Cô mặc áo sơ mi cổ bẻ màu trắng, váy kẻ ca rô đỏ xanh cạp cao, áo khoác denim ngắn màu xanh và túi đeo vai màu đỏ burgundy. Ánh sáng ấm áp của thư viện, những cuốn sách cổ, quả địa cầu và áp phích tạo nên bối cảnh thập niên 1980. Ảnh chụp nhanh 35mm, đèn flash nhẹ, hạt phim analog, màu sắc ấm áp phai màu, bụi bẩn, vết xước, hiệu ứng làm mờ nhẹ, viền ảnh sờn cũ và dấu ngày tháng màu đỏ "MAR 10 1985".
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1831,20 +1853,20 @@ Một đôi bàn tay người bình thường.
 
 <a name="prompt-2098573808521113742"></a>
 
-### Đang dịch
+### Chuyển đổi ảnh Cybertruck thành SUV 3 hàng ghế
 
 Tác giả：[@TroyDMeyers](https://x.com/TroyDMeyers) · [Bài gốc](https://x.com/TroyDMeyers/status/2098573808521113742)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuyển đổi ảnh Cybertruck thành SUV 3 hàng ghế
 
 <img src="covers/2098573808521113742.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng một bức ảnh của Cybertruck và chuyển đổi nó thành một chiếc SUV 3 hàng ghế
 ```
 
 [↑ Về danh mục](#catalog)

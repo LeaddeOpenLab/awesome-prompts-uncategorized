@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**98** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**99** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -668,6 +668,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098605916199456804"></a>
+
+### Übersetzung läuft
+
+Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2098605916199456804)
+
+Kinematisch / Filmstill · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098605916199456804-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098476449212805468"></a>
 
@@ -1422,20 +1444,22 @@ Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhet
 
 <a name="prompt-2098589129512747309"></a>
 
-### Übersetzung läuft
+### Bibliotheks-Schnappschuss-Porträt einer blonden jungen Frau im Vintage-80er-Outfit mit Datumsstempel von 1985.
 
 Autor：[@Milliekio](https://x.com/Milliekio) · [Originalbeitrag](https://x.com/Milliekio/status/2098589129512747309)
 
 Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Bibliotheks-Schnappschuss-Porträt einer blonden jungen Frau im Vintage-80er-Outfit mit Datumsstempel von 1985.
 
 <img src="images/2098589129512747309-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Unter Verwendung des obigen Bildes als Gesichtsreferenz.
+
+Behalte die exakte Gesichtsstruktur, die Proportionen, die Züge und den Ausdruck bei konsistenter Identität bei. Ultrarealistisches Schnappschuss-Porträt aus einer Bibliothek von 1985 derselben jungen Frau, wobei identische, wiedererkennbare Gesichtszüge, Hautton und natürliche Textur erhalten bleiben. Sie steht zwischen hohen Holzregalen, berührt den Buchrücken eines Buches, während sie mehrere Bücher an ihre Taille hält, und blickt ruhig in die Kamera. Langes blondes Haar zu einem hohen Pferdeschwanz mit einem großen bordeauxroten Scrunchie gebunden, lockere Locken, rote Creolen, dezentes 80er-Jahre-Glamour-Make-up, rosige Wangen und glänzende Nude-Lippen. Sie trägt eine weiße Bluse mit Kragen, einen hoch taillierten rot-grün karierten Rock, eine kurze blaue Jeansjacke und eine bordeauxrote Umhängetasche. Warme Bibliotheksbeleuchtung, Vintage-Bücher, ein Globus und Poster erzeugen die Kulisse der 1980er Jahre. 35mm-Schnappschuss, dezenter Blitz, analoge Körnung, verblasste warme Farben, Staub, Kratzer, weicher Fokus, abgenutzter Rand und roter Datumsstempel "MAR 10 1985".
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1796,20 +1820,20 @@ Ein ganz normales Paar menschlicher Hände.
 
 <a name="prompt-2098573808521113742"></a>
 
-### Übersetzung läuft
+### Cybertruck-Foto in einen 3-reihigen SUV verwandeln
 
 Autor：[@TroyDMeyers](https://x.com/TroyDMeyers) · [Originalbeitrag](https://x.com/TroyDMeyers/status/2098573808521113742)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cybertruck-Foto in einen 3-reihigen SUV verwandeln
 
 <img src="covers/2098573808521113742.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwenden Sie ein Foto eines Cybertrucks und verwandeln Sie ihn in einen 3-reihigen SUV
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

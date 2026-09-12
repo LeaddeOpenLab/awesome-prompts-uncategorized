@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**98** Prompts · Latest addition: **2026-09-12**
+**99** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -811,6 +811,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098605916199456804"></a>
+
+### Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk.
+
+Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2098605916199456804)
+
+Cinematic / Film Still · Portrait / Selfie · Character · Published
+
+**Summary:** Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk.
+
+<img src="images/2098605916199456804-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic luxury fashion photograph of a strikingly handsome young man in his early 20s standing confidently inside a grand Dark Academia library. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated dark-brown wool blazer over a black turtleneck, tailored black trousers, and a vintage leather watch. The library is filled with towering antique wooden bookshelves packed with old leather-bound books, stacks of aged manuscripts, vintage wooden tables, ornate brass lamps, candle-like warm lighting, and elegant classical architecture. Warm golden lamps illuminate his face while the surrounding room falls into deep cinematic shadows. Dust particles subtly float through narrow beams of light, creating an atmospheric scholarly mood. He stands beside an antique wooden desk holding an open vintage book, one hand resting naturally on the pages, looking thoughtfully toward the camera with a calm, intelligent, mysterious expression. Rich brown wood, dark mahogany tones, warm amber lighting, subtle film grain, dramatic chiaroscuro, shallow depth of field, realistic skin texture and pores, natural facial details, sophisticated editorial composition, cinematic color grading, 85mm lens, f/1.8, HDR, ultra-detailed, photorealistic, 8K, premium fashion editorial photography, no artificial or AI-looking face.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098476449212805468"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**98** Prompt · Ultima aggiunta: **2026-09-12**
+**99** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -668,6 +668,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098605916199456804"></a>
+
+### Traduzione in corso
+
+Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2098605916199456804)
+
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098605916199456804-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098476449212805468"></a>
 
@@ -1422,20 +1444,22 @@ Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticame
 
 <a name="prompt-2098589129512747309"></a>
 
-### Traduzione in corso
+### Ritratto spontaneo in biblioteca del 1985 di una giovane donna bionda con abbigliamento vintage anni '80 con timbro della data.
 
 Autore：[@Milliekio](https://x.com/Milliekio) · [Post originale](https://x.com/Milliekio/status/2098589129512747309)
 
 Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto spontaneo in biblioteca del 1985 di una giovane donna bionda con abbigliamento vintage anni '80 con timbro della data.
 
 <img src="images/2098589129512747309-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Usando l'immagine sopra come riferimento facciale.
+
+Mantieni l'esatta struttura facciale, le proporzioni, i lineamenti e l'espressione con un'identità coerente. Ritratto spontaneo ultrarrealistico del 1985 in biblioteca della stessa giovane donna, preservando lineamenti del viso identici e riconoscibili, tonalità della pelle e consistenza naturale. È in piedi tra alti scaffali in legno, tocca il dorso di un libro mentre tiene diversi libri stretti alla vita, guardando con calma la fotocamera. Lunghi capelli biondi raccolti in una coda di cavallo alta con un grande scrunchie bordeaux, riccioli morbidi, orecchini a cerchio rossi, trucco soft glam anni '80, guance rosee e labbra nude lucide. Indossa una camicetta bianca con colletto, gonna scozzese a vita alta rossa e verde, giacca di jeans corta blu e borsa a tracolla bordeaux. L'illuminazione calda della biblioteca, i libri vintage, il mappamondo e i poster creano l'ambientazione degli anni '80. Istantanea a 35 mm, flash discreto, grana analogica, colori caldi sbiaditi, polvere, graffi, messa a fuoco morbida, bordo usurato e timbro della data rosso "MAR 10 1985".
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1796,20 +1820,20 @@ Un normale paio di mani umane.
 
 <a name="prompt-2098573808521113742"></a>
 
-### Traduzione in corso
+### Convertire la foto di un Cybertruck in un SUV a 3 file
 
 Autore：[@TroyDMeyers](https://x.com/TroyDMeyers) · [Post originale](https://x.com/TroyDMeyers/status/2098573808521113742)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Convertire la foto di un Cybertruck in un SUV a 3 file
 
 <img src="covers/2098573808521113742.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Utilizza una foto di un Cybertruck e trasformala in un SUV a 3 file
 ```
 
 [↑ Torna alle categorie](#catalog)
