@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T00:20:58.568Z",
+  "model": "recraft",
+  "prompt": "the bold neon text \"STAY WEIRD\" is suspended in a bright blue tractor beam from a classic retro chrome flying saucer, hovering in a dark starry night sky, dramatic lighting, vaporwave colors, cinematic composition, high resolution digital illustration with film grain and matte color effects.",
+  "promptTranslations": {
+    "en": "the bold neon text \"STAY WEIRD\" is suspended in a bright blue tractor beam from a classic retro chrome flying saucer, hovering in a dark starry night sky, dramatic lighting, vaporwave colors, cinematic composition, high resolution digital illustration with film grain and matte color effects."
+  },
+  "summaryTranslations": {
+    "en": "Neon text \"STAY WEIRD\" suspended in a retro flying saucer's blue tractor beam against a starry sky."
+  },
+  "translationVersion": 2,
+  "summary": "Neon text \"STAY WEIRD\" suspended in a retro flying saucer's blue tractor beam against a starry sky.",
+  "summaryEn": "Neon text \"STAY WEIRD\" suspended in a retro flying saucer's blue tractor beam against a starry sky.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098562484604989642",
+    "canonicalUrl": "https://x.com/heathergreen/status/2098562484604989642",
+    "author": {
+      "username": "heathergreen",
+      "displayName": "Heather Green",
+      "profileUrl": "https://x.com/heathergreen"
+    },
+    "publishedAt": "2026-09-12T00:01:00.000Z",
+    "collectedAt": "2026-09-12T00:15:57.617Z",
+    "language": "en",
+    "originalText": "#promptshare with Recraft V4.1 using @magnific \nPROMPT: the bold neon text \"STAY WEIRD\" is suspended in a bright blue tractor beam from a classic retro chrome flying saucer, hovering in a dark starry night sky, dramatic lighting, vaporwave colors, cinematic composition, high resolution digital illustration with film grain and matte color effects.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HRmuTU7XoAIVgI2.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HRmuTU7XoAIVgI2.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/heathergreen/status/2098562484604989642",
+  "coverUrl": "https://pbs.twimg.com/media/HRmuTU7XoAIVgI2.jpg",
+  "coverPath": "images/2098562484604989642-1.jpg",
+  "imagePaths": [
+    "images/2098562484604989642-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HRmuTU7XoAIVgI2",
+    "x-post:2098562484604989642"
+  ],
+  "analysis": {
+    "summary": "Neon text \"STAY WEIRD\" suspended in a retro flying saucer's blue tractor beam against a starry sky.",
+    "summaryEn": "Neon text \"STAY WEIRD\" suspended in a retro flying saucer's blue tractor beam against a starry sky.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image depicts chrome UFO emitting a blue tractor beam holding the neon text 'STAY WEIRD' across a starry night background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "the bold neon text \"STAY WEIRD\" is suspended in a bright blue tractor beam from a classic retro chrome flying saucer, hovering in a dark starry night sky, dramatic lighting, vaporwave colors, cinematic composition, high resolution digital illustration with film grain and matte color effects.",
+    "sourceRange": {
+      "start": 56,
+      "end": 348
+    },
+    "translations": {
+      "zh": "粗体霓虹文字“STAY WEIRD”悬浮在经典复古镀铬飞碟射出的亮蓝色牵引光束中，飞碟盘旋在黑暗的星空夜色中，戏剧性光影，蒸汽波配色，电影感构图，带有胶片颗粒和哑光色彩效果的高分辨率数字插画。",
+      "en": "the bold neon text \"STAY WEIRD\" is suspended in a bright blue tractor beam from a classic retro chrome flying saucer, hovering in a dark starry night sky, dramatic lighting, vaporwave colors, cinematic composition, high resolution digital illustration with film grain and matte color effects."
+    },
+    "targetModels": [
+      "recraft"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
