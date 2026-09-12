@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**92** Prompts · Latest addition: **2026-09-12**
+**93** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1917,6 +1917,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098626427792798007"></a>
+
+### Create a luxurious high-end beauty commercial video featuring a dusty-rose nail polish bottle, nail application, and swatch in an elegant setting.
+
+Author：[@AvaSmith771](https://x.com/AvaSmith771) · [Source](https://x.com/AvaSmith771/status/2098626427792798007)
+
+Other · Published
+
+**Summary:** Create a luxurious high-end beauty commercial video featuring a dusty-rose nail polish bottle, nail application, and swatch in an elegant setting.
+
+<img src="covers/2098626427792798007.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a luxurious high-end beauty commercial video using the uploaded nail polish image as the exact product reference. Keep the bottle design, label, logo, cap, and dusty-rose pink nail polish color exactly the same. Place the nail polish bottle on a soft beige marble surface with elegant dried white flowers and warm cream fabric in the background. Start with a slow cinematic camera push-in toward the bottle, then smoothly rotate around the product while soft sunlight creates delicate shadows. Show a close-up of the brush applying the glossy pink polish onto a clean nail, followed by a beautiful swatch of the polish. Add subtle reflections on the glass bottle, realistic glossy texture, shallow depth of field, soft luxury lighting, smooth slow motion, premium skincare/cosmetic advertisement aesthetic, clean minimal composition, photorealistic, 4K, vertical 9:16. Do not change the product packaging or add any extra text/logo.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098548428926308770"></a>
 
