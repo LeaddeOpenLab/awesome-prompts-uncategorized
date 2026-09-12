@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**99** Prompts · Latest addition: **2026-09-12**
+**100** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,42 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098620113964679527"></a>
+
+### Photorealistic editorial portrait of a man lying on grass with flowers in formal attire.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2098620113964679527)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic editorial portrait of a man lying on grass with flowers in formal attire.
+
+<img src="images/2098620113964679527-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded photo as the main composition and visual reference. Create a photorealistic editorial portrait of an adult man lying comfortably on a lush green lawn scattered with small delicate flowers.
+
+Frame the image from a close overhead/top-down angle, focusing mainly on his face, shoulders, and upper torso. Position his head slightly toward the upper center of the composition, with one arm bent behind his head in a relaxed pose. He should look directly into the camera with a calm, confident expression and a subtle natural smile.
+
+Give him a clean short low-cut hairstyle with a neat taper and sharp natural hairline, clean-shaven face, smooth natural skin texture, balanced facial proportions, and clear expressive eyes.
+
+Dress him in a sophisticated dark formal outfit: a black tailored blazer layered over a dark waistcoat, paired with a crisp light-blue button-up shirt worn open at the collar. No tie, no chain, no necklace, and no earrings.
+
+Surround him with rich green grass and scattered small white, pale pink, lavender, and blue flowers, creating a soft romantic garden atmosphere. Some flowers should be slightly blurred toward the edges to enhance depth.
+
+Use soft natural daylight with subtle highlights across the face, gentle shadows, realistic skin tones, and shallow depth of field. Keep the subject’s face extremely sharp while the surrounding grass and flowers gradually soften.
+
+Style: luxury fashion editorial, cinematic outdoor portrait, premium magazine photography, realistic skin detail, clean grooming, vibrant but natural colors, soft background separation, high dynamic range, 85mm portrait feel, ultra-photorealistic, high-detail, 8K quality.
+
+Composition: vertical 4:5 portrait, overhead camera angle, close-up framing, face as the main focal point, relaxed elegant mood.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098618384804176129"></a>
 
