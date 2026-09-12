@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T00:18:52.796Z",
+  "model": "unknown-image",
+  "prompt": "Ultra-photorealistic medium full-body photograph of a glamorous voluptuous playmate-style grunge supermodel woman seated in a field of blooming flowers. Perfect hourglass figure with soft natural volume. Hair aggressively simple and delicate: short-to-medium choppy layers with soft irregular ends. Makeup minimal eccentric grunge — smudged liner, pale lips, faint freckles. She wears an open but long black leather grunge coat that remains largely closed over the chest by the way it drapes and by large fresh flower petals naturally resting across the front; only the collarbones and a narrow vertical line of skin are visible. Low-slung distressed trousers complete the look. Pose is relaxed, one knee raised, both hands gently holding blooms that further soften the chest area. Every flower opening floods the gray world with rich living color that washes over her coat and skin. Subject fills the majority of the frame. The subject remains extremely detailed and photorealistic even in this environmental full-body composition — facial sharpness, pores, vellus hair, and leather textures stay completely crisp. 85mm at f/1.8, soft directional light with surreal color blooms, artistic and restrained expression of feminine beauty.",
+  "promptTranslations": {
+    "en": "Ultra-photorealistic medium full-body photograph of a glamorous voluptuous playmate-style grunge supermodel woman seated in a field of blooming flowers. Perfect hourglass figure with soft natural volume. Hair aggressively simple and delicate: short-to-medium choppy layers with soft irregular ends. Makeup minimal eccentric grunge — smudged liner, pale lips, faint freckles. She wears an open but long black leather grunge coat that remains largely closed over the chest by the way it drapes and by large fresh flower petals naturally resting across the front; only the collarbones and a narrow vertical line of skin are visible. Low-slung distressed trousers complete the look. Pose is relaxed, one knee raised, both hands gently holding blooms that further soften the chest area. Every flower opening floods the gray world with rich living color that washes over her coat and skin. Subject fills the majority of the frame. The subject remains extremely detailed and photorealistic even in this environmental full-body composition — facial sharpness, pores, vellus hair, and leather textures stay completely crisp. 85mm at f/1.8, soft directional light with surreal color blooms, artistic and restrained expression of feminine beauty."
+  },
+  "summaryTranslations": {
+    "en": "Ultra-photorealistic medium full-body photo of a grunge supermodel in a black leather coat seated among flowers."
+  },
+  "translationVersion": 2,
+  "summary": "Ultra-photorealistic medium full-body photo of a grunge supermodel in a black leather coat seated among flowers.",
+  "summaryEn": "Ultra-photorealistic medium full-body photo of a grunge supermodel in a black leather coat seated among flowers.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098535116545110425",
+    "canonicalUrl": "https://x.com/ai_vision_2nd/status/2098535116545110425",
+    "author": {
+      "username": "ai_vision_2nd",
+      "displayName": "AI Vision of Beauty | AI Fashion Art",
+      "profileUrl": "https://x.com/ai_vision_2nd"
+    },
+    "publishedAt": "2026-09-11T22:12:15.000Z",
+    "collectedAt": "2026-09-12T00:15:57.617Z",
+    "language": "ja",
+    "originalText": "色とりどりの花に囲まれても、彼女の瞳だけが季節を忘れていた。​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​\n\nBlack Leather Bloom\n\nPrompt: \nUltra-photorealistic medium full-body photograph of a glamorous voluptuous playmate-style grunge supermodel woman seated in a field of blooming flowers. Perfect hourglass figure with soft natural volume. Hair aggressively simple and delicate: short-to-medium choppy layers with soft irregular ends. Makeup minimal eccentric grunge — smudged liner, pale lips, faint freckles. She wears an open but long black leather grunge coat that remains largely closed over the chest by the way it drapes and by large fresh flower petals naturally resting across the front; only the collarbones and a narrow vertical line of skin are visible. Low-slung distressed trousers complete the look. Pose is relaxed, one knee raised, both hands gently holding blooms that further soften the chest area. Every flower opening floods the gray world with rich living color that washes over her coat and skin. Subject fills the majority of the frame. The subject remains extremely detailed and photorealistic even in this environmental full-body composition — facial sharpness, pores, vellus hair, and leather textures stay completely crisp. 85mm at f/1.8, soft directional light with surreal color blooms, artistic and restrained expression of feminine beauty.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR9-kJ-boAAd4c0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR9-kJ-boAAd4c0.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 5,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 367
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ai_vision_2nd/status/2098535116545110425",
+  "coverUrl": "https://pbs.twimg.com/media/HR9-kJ-boAAd4c0.jpg",
+  "coverPath": "images/2098535116545110425-1.jpg",
+  "imagePaths": [
+    "images/2098535116545110425-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR9-kJ-boAAd4c0",
+    "x-post:2098535116545110425"
+  ],
+  "analysis": {
+    "summary": "Ultra-photorealistic medium full-body photo of a grunge supermodel in a black leather coat seated among flowers.",
+    "summaryEn": "Ultra-photorealistic medium full-body photo of a grunge supermodel in a black leather coat seated among flowers.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image features a blonde woman with short choppy hair, smudged grunge makeup, sitting among blooming flowers, wearing an open black leather coat and holding blossoms."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-photorealistic medium full-body photograph of a glamorous voluptuous playmate-style grunge supermodel woman seated in a field of blooming flowers. Perfect hourglass figure with soft natural volume. Hair aggressively simple and delicate: short-to-medium choppy layers with soft irregular ends. Makeup minimal eccentric grunge — smudged liner, pale lips, faint freckles. She wears an open but long black leather grunge coat that remains largely closed over the chest by the way it drapes and by large fresh flower petals naturally resting across the front; only the collarbones and a narrow vertical line of skin are visible. Low-slung distressed trousers complete the look. Pose is relaxed, one knee raised, both hands gently holding blooms that further soften the chest area. Every flower opening floods the gray world with rich living color that washes over her coat and skin. Subject fills the majority of the frame. The subject remains extremely detailed and photorealistic even in this environmental full-body composition — facial sharpness, pores, vellus hair, and leather textures stay completely crisp. 85mm at f/1.8, soft directional light with surreal color blooms, artistic and restrained expression of feminine beauty.",
+    "sourceRange": {
+      "start": 112,
+      "end": 1347
+    },
+    "translations": {
+      "zh": "超逼真中全景照片：一位魅力四射、身材丰满的花花公子风格摇滚超模女性坐在盛开的花丛中。完美的沙漏身材，伴有柔和自然的丰满感。发型利落简约又精致：中短碎层短发，带有柔和不规则发梢。妆容为简约古怪的摇滚风——晕染眼线、苍白嘴唇、淡淡雀斑。她身穿一件敞开的长款黑色皮革摇滚风大衣，由于垂坠感以及胸前自然散落的鲜花花瓣，大衣在胸前大部分合拢；仅露出一小截锁骨和狭窄的纵向皮肤线条。低腰破洞裤完成整体造型。姿势放松，单膝微屈，双手轻握花朵进一步修饰胸前。每一朵绽放的花朵都为灰暗世界倾注丰富生动的色彩，映衬在她的风衣与肌肤上。主体占据画面大部分。即便在全景环境中，主体依然保持极致细节与超写实感——面部清晰度、毛孔、细绒毛和皮革纹理完全清晰细腻。85mm f/1.8，柔和定向光线与超现实色彩绽放，艺术且克制地表达女性之美。",
+      "en": "Ultra-photorealistic medium full-body photograph of a glamorous voluptuous playmate-style grunge supermodel woman seated in a field of blooming flowers. Perfect hourglass figure with soft natural volume. Hair aggressively simple and delicate: short-to-medium choppy layers with soft irregular ends. Makeup minimal eccentric grunge — smudged liner, pale lips, faint freckles. She wears an open but long black leather grunge coat that remains largely closed over the chest by the way it drapes and by large fresh flower petals naturally resting across the front; only the collarbones and a narrow vertical line of skin are visible. Low-slung distressed trousers complete the look. Pose is relaxed, one knee raised, both hands gently holding blooms that further soften the chest area. Every flower opening floods the gray world with rich living color that washes over her coat and skin. Subject fills the majority of the frame. The subject remains extremely detailed and photorealistic even in this environmental full-body composition — facial sharpness, pores, vellus hair, and leather textures stay completely crisp. 85mm at f/1.8, soft directional light with surreal color blooms, artistic and restrained expression of feminine beauty."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "artistic photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [
+        "nudity_suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
