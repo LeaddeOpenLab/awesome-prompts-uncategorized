@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T00:21:30.086Z",
+  "model": "unknown-image",
+  "prompt": "ONSEN BATHING OUTFIT:\n\none large white bath towel,\nfull-size Japanese bath towel,\nthick opaque cotton terry-cloth construction,\nsoft plush terry texture,\nclean pure-white to very slightly warm-white color,\n\nthe towel is wrapped securely around the torso,\nstrapless wrapped-towel construction,\nupper edge positioned high and securely around the upper torso,\nfirm but comfortable wrap,\n\nwide enough to fully overlap at the front,\nsubstantial front overlap,\nno visible opening between the overlapping towel panels,\n\nfront section formed from several natural diagonal and vertical folds,\nsoft gathered folds caused by wrapping,\nslight compression folds around the upper edge,\ndeeper overlapping folds toward the center front,\n\nthe towel follows the body naturally without becoming skin-tight,\nmoderate fabric volume,\nsoft bulky cotton texture,\nclearly thicker than ordinary clothing fabric,\n\nupper edge:\nthick rolled or softly folded terry edge,\nslightly irregular natural towel edge,\nsecurely held in place,\nnot slipping downward,\n\nfront:\noverlapping wrapped construction,\nsoft asymmetrical draping,\nseveral broad fabric creases,\nnatural towel bunching,\nno knot visible,\nno bow,\nno belt,\nno straps,\nno buttons,\nno zipper,\n\nlower visible portion:\ncontinues downward below the visible waterline,\nlower edge partially wet from contact with bath water,\nslightly darker and heavier-looking terry texture near the waterline,\nbut the towel remains opaque,\n\nMATERIAL:\n100% cotton-like terry cloth appearance,\ndense looped towel pile,\nsoft absorbent surface,\nmatte fabric,\nslight moisture absorption,\nsubtle dampened fabric texture only near areas contacting water,\n\nno transparency,\nno glossy satin texture,\nno silk,\nno lace,\nno mesh,\n\nOVERALL:\nsimple practical Japanese onsen bathing wrap,\nclean modest bathing appearance,\nminimalist,\nfunctional,\nsecurely wrapped,\nno decorative fashion styling\n\n再現性を上げるネガティブプロンプト\nNEGATIVE OUTFIT PROMPT:\n\nsmall towel,\nhand towel,\nthin towel,\nshort towel,\nnarrow towel,\n\ntransparent towel,\nsemi-transparent fabric,\nsee-through towel,\nwet transparent cloth,\nclingy transparent fabric,\n\nslipping towel,\nfalling towel,\nloose unsecured towel,\nopen towel front,\nlarge gap in towel,\ninsufficient fabric overlap,\n\nlow-positioned towel edge,\ntowel folded too low,\nunstable upper edge,\n\ntowel knot,\nlarge bow,\nbelt around towel,\nshoulder straps,\nhalter strap,\nspaghetti straps,\n\nbathrobe,\nyukata,\nkimono,\nrobe,\ndress,\nshirt,\ncamisole,\nlingerie,\nunderwear,\nswimsuit,\nbikini,\none-piece swimsuit,\n\nlace trim,\nruffles,\nembroidery,\nprinted pattern,\nfloral towel,\ncolored towel,\nlogo,\nreadable text,\n\nsilk,\nsatin,\nvinyl,\nlatex,\nmesh,\n\njewelry,\nnecklace,\nchoker,\nbracelet,\nwristwatch,\nearrings,\nanklet",
+  "promptTranslations": {
+    "en": "ONSEN BATHING OUTFIT:\n\none large white bath towel,\nfull-size Japanese bath towel,\nthick opaque cotton terry-cloth construction,\nsoft plush terry texture,\nclean pure-white to very slightly warm-white color,\n\nthe towel is wrapped securely around the torso,\nstrapless wrapped-towel construction,\nupper edge positioned high and securely around the upper torso,\nfirm but comfortable wrap,\n\nwide enough to fully overlap at the front,\nsubstantial front overlap,\nno visible opening between the overlapping towel panels,\n\nfront section formed from several natural diagonal and vertical folds,\nsoft gathered folds caused by wrapping,\nslight compression folds around the upper edge,\ndeeper overlapping folds toward the center front,\n\nthe towel follows the body naturally without becoming skin-tight,\nmoderate fabric volume,\nsoft bulky cotton texture,\nclearly thicker than ordinary clothing fabric,\n\nupper edge:\nthick rolled or softly folded terry edge,\nslightly irregular natural towel edge,\nsecurely held in place,\nnot slipping downward,\n\nfront:\noverlapping wrapped construction,\nsoft asymmetrical draping,\nseveral broad fabric creases,\nnatural towel bunching,\nno knot visible,\nno bow,\nno belt,\nno straps,\nno buttons,\nno zipper,\n\nlower visible portion:\ncontinues downward below the visible waterline,\nlower edge partially wet from contact with bath water,\nslightly darker and heavier-looking terry texture near the waterline,\nbut the towel remains opaque,\n\nMATERIAL:\n100% cotton-like terry cloth appearance,\ndense looped towel pile,\nsoft absorbent surface,\nmatte fabric,\nslight moisture absorption,\nsubtle dampened fabric texture only near areas contacting water,\n\nno transparency,\nno glossy satin texture,\nno silk,\nno lace,\nno mesh,\n\nOVERALL:\nsimple practical Japanese onsen bathing wrap,\nclean modest bathing appearance,\nminimalist,\nfunctional,\nsecurely wrapped,\nno decorative fashion styling\n\nNegative prompt to increase reproducibility\nNEGATIVE OUTFIT PROMPT:\n\nsmall towel,\nhand towel,\nthin towel,\nshort towel,\nnarrow towel,\n\ntransparent towel,\nsemi-transparent fabric,\nsee-through towel,\nwet transparent cloth,\nclingy transparent fabric,\n\nslipping towel,\nfalling towel,\nloose unsecured towel,\nopen towel front,\nlarge gap in towel,\ninsufficient fabric overlap,\n\nlow-positioned towel edge,\ntowel folded too low,\nunstable upper edge,\n\ntowel knot,\nlarge bow,\nbelt around towel,\nshoulder straps,\nhalter strap,\nspaghetti straps,\n\nbathrobe,\nyukata,\nkimono,\nrobe,\ndress,\nshirt,\ncamisole,\nlingerie,\nunderwear,\nswimsuit,\nbikini,\none-piece swimsuit,\n\nlace trim,\nruffles,\nembroidery,\nprinted pattern,\nfloral towel,\ncolored towel,\nlogo,\nreadable text,\n\nsilk,\nsatin,\nvinyl,\nlatex,\nmesh,\n\njewelry,\nnecklace,\nchoker,\nbracelet,\nwristwatch,\nearrings,\nanklet"
+  },
+  "summaryTranslations": {
+    "en": "Detailed clothing prompt and negative prompt describing the material, folds, and wrapping style of a large wrapped bath towel in an onsen."
+  },
+  "translationVersion": 2,
+  "summary": "详细描述温泉中裹身大浴巾材质、褶皱与穿戴方式的服装提示词及负面提示词。",
+  "summaryEn": "Detailed positive and negative prompts describing an opaque Japanese onsen wrapped bath towel outfit.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098548428926308770",
+    "canonicalUrl": "https://x.com/hiyayaxtukog68/status/2098548428926308770",
+    "author": {
+      "username": "hiyayaxtukog68",
+      "displayName": "篝火（かがりび）＠AIイラスト",
+      "profileUrl": "https://x.com/hiyayaxtukog68"
+    },
+    "publishedAt": "2026-09-11T23:05:09.000Z",
+    "collectedAt": "2026-09-12T00:15:57.617Z",
+    "language": "ja",
+    "originalText": "るな衣装コーデ140日目 　温泉～～                                                                              \n\n#るな衣装プロンプト #AIイラスト                                                                  \n\n衣装プロンプト、ご自由にどうぞ✨チャレンジ待ってます！\nONSEN BATHING OUTFIT:\n\none large white bath towel,\nfull-size Japanese bath towel,\nthick opaque cotton terry-cloth construction,\nsoft plush terry texture,\nclean pure-white to very slightly warm-white color,\n\nthe towel is wrapped securely around the torso,\nstrapless wrapped-towel construction,\nupper edge positioned high and securely around the upper torso,\nfirm but comfortable wrap,\n\nwide enough to fully overlap at the front,\nsubstantial front overlap,\nno visible opening between the overlapping towel panels,\n\nfront section formed from several natural diagonal and vertical folds,\nsoft gathered folds caused by wrapping,\nslight compression folds around the upper edge,\ndeeper overlapping folds toward the center front,\n\nthe towel follows the body naturally without becoming skin-tight,\nmoderate fabric volume,\nsoft bulky cotton texture,\nclearly thicker than ordinary clothing fabric,\n\nupper edge:\nthick rolled or softly folded terry edge,\nslightly irregular natural towel edge,\nsecurely held in place,\nnot slipping downward,\n\nfront:\noverlapping wrapped construction,\nsoft asymmetrical draping,\nseveral broad fabric creases,\nnatural towel bunching,\nno knot visible,\nno bow,\nno belt,\nno straps,\nno buttons,\nno zipper,\n\nlower visible portion:\ncontinues downward below the visible waterline,\nlower edge partially wet from contact with bath water,\nslightly darker and heavier-looking terry texture near the waterline,\nbut the towel remains opaque,\n\nMATERIAL:\n100% cotton-like terry cloth appearance,\ndense looped towel pile,\nsoft absorbent surface,\nmatte fabric,\nslight moisture absorption,\nsubtle dampened fabric texture only near areas contacting water,\n\nno transparency,\nno glossy satin texture,\nno silk,\nno lace,\nno mesh,\n\nOVERALL:\nsimple practical Japanese onsen bathing wrap,\nclean modest bathing appearance,\nminimalist,\nfunctional,\nsecurely wrapped,\nno decorative fashion styling\n\n再現性を上げるネガティブプロンプト\nNEGATIVE OUTFIT PROMPT:\n\nsmall towel,\nhand towel,\nthin towel,\nshort towel,\nnarrow towel,\n\ntransparent towel,\nsemi-transparent fabric,\nsee-through towel,\nwet transparent cloth,\nclingy transparent fabric,\n\nslipping towel,\nfalling towel,\nloose unsecured towel,\nopen towel front,\nlarge gap in towel,\ninsufficient fabric overlap,\n\nlow-positioned towel edge,\ntowel folded too low,\nunstable upper edge,\n\ntowel knot,\nlarge bow,\nbelt around towel,\nshoulder straps,\nhalter strap,\nspaghetti straps,\n\nbathrobe,\nyukata,\nkimono,\nrobe,\ndress,\nshirt,\ncamisole,\nlingerie,\nunderwear,\nswimsuit,\nbikini,\none-piece swimsuit,\n\nlace trim,\nruffles,\nembroidery,\nprinted pattern,\nfloral towel,\ncolored towel,\nlogo,\nreadable text,\n\nsilk,\nsatin,\nvinyl,\nlatex,\nmesh,\n\njewelry,\nnecklace,\nchoker,\nbracelet,\nwristwatch,\nearrings,\nanklet",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-KeYWaAAAHMyO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-KeYWaAAAHMyO.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 41
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/hiyayaxtukog68/status/2098548428926308770",
+  "coverUrl": "https://pbs.twimg.com/media/HR-KeYWaAAAHMyO.jpg",
+  "coverPath": "images/2098548428926308770-1.jpg",
+  "imagePaths": [
+    "images/2098548428926308770-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR-KeYWaAAAHMyO",
+    "x-post:2098548428926308770"
+  ],
+  "analysis": {
+    "summary": "详细描述温泉中裹身大浴巾材质、褶皱与穿戴方式的服装提示词及负面提示词。",
+    "summaryEn": "Detailed positive and negative prompts describing an opaque Japanese onsen wrapped bath towel outfit.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展示了一名银发少女在温泉中裹着白色毛巾的画面，毛巾厚度、无肩带包裹方式和垂坠质感与 prompt 描述完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "ONSEN BATHING OUTFIT:\n\none large white bath towel,\nfull-size Japanese bath towel,\nthick opaque cotton terry-cloth construction,\nsoft plush terry texture,\nclean pure-white to very slightly warm-white color,\n\nthe towel is wrapped securely around the torso,\nstrapless wrapped-towel construction,\nupper edge positioned high and securely around the upper torso,\nfirm but comfortable wrap,\n\nwide enough to fully overlap at the front,\nsubstantial front overlap,\nno visible opening between the overlapping towel panels,\n\nfront section formed from several natural diagonal and vertical folds,\nsoft gathered folds caused by wrapping,\nslight compression folds around the upper edge,\ndeeper overlapping folds toward the center front,\n\nthe towel follows the body naturally without becoming skin-tight,\nmoderate fabric volume,\nsoft bulky cotton texture,\nclearly thicker than ordinary clothing fabric,\n\nupper edge:\nthick rolled or softly folded terry edge,\nslightly irregular natural towel edge,\nsecurely held in place,\nnot slipping downward,\n\nfront:\noverlapping wrapped construction,\nsoft asymmetrical draping,\nseveral broad fabric creases,\nnatural towel bunching,\nno knot visible,\nno bow,\nno belt,\nno straps,\nno buttons,\nno zipper,\n\nlower visible portion:\ncontinues downward below the visible waterline,\nlower edge partially wet from contact with bath water,\nslightly darker and heavier-looking terry texture near the waterline,\nbut the towel remains opaque,\n\nMATERIAL:\n100% cotton-like terry cloth appearance,\ndense looped towel pile,\nsoft absorbent surface,\nmatte fabric,\nslight moisture absorption,\nsubtle dampened fabric texture only near areas contacting water,\n\nno transparency,\nno glossy satin texture,\nno silk,\nno lace,\nno mesh,\n\nOVERALL:\nsimple practical Japanese onsen bathing wrap,\nclean modest bathing appearance,\nminimalist,\nfunctional,\nsecurely wrapped,\nno decorative fashion styling\n\n再現性を上げるネガティブプロンプト\nNEGATIVE OUTFIT PROMPT:\n\nsmall towel,\nhand towel,\nthin towel,\nshort towel,\nnarrow towel,\n\ntransparent towel,\nsemi-transparent fabric,\nsee-through towel,\nwet transparent cloth,\nclingy transparent fabric,\n\nslipping towel,\nfalling towel,\nloose unsecured towel,\nopen towel front,\nlarge gap in towel,\ninsufficient fabric overlap,\n\nlow-positioned towel edge,\ntowel folded too low,\nunstable upper edge,\n\ntowel knot,\nlarge bow,\nbelt around towel,\nshoulder straps,\nhalter strap,\nspaghetti straps,\n\nbathrobe,\nyukata,\nkimono,\nrobe,\ndress,\nshirt,\ncamisole,\nlingerie,\nunderwear,\nswimsuit,\nbikini,\none-piece swimsuit,\n\nlace trim,\nruffles,\nembroidery,\nprinted pattern,\nfloral towel,\ncolored towel,\nlogo,\nreadable text,\n\nsilk,\nsatin,\nvinyl,\nlatex,\nmesh,\n\njewelry,\nnecklace,\nchoker,\nbracelet,\nwristwatch,\nearrings,\nanklet",
+    "sourceRange": {
+      "start": 212,
+      "end": 2920
+    },
+    "translations": {
+      "zh": "温泉沐浴服装：一条白色大浴巾，标准日式全尺寸毛巾，厚实不透明纯棉毛圈布材质，质感柔软蓬松，纯白至微暖白色。浴巾牢固地裹在上身，无肩带裹身结构，上沿紧贴胸口上方，包裹牢靠舒适，前面充分重叠无缝隙，呈现自然的褶皱与下垂垂感。整体简约朴素，无装饰，不透明。配有详细的排除小毛巾、透明材质及服饰配饰的负向提示词。",
+      "en": "ONSEN BATHING OUTFIT: Large white Japanese bath towel, thick opaque cotton terry-cloth, soft plush texture. Securely wrapped strapless around upper torso, overlapping in front with natural folds and draping. Functional and minimalist styling with comprehensive negative outfit prompts excluding small, transparent towels, ties, and extra garments."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI 绘图温泉浴巾装束与材质细节提示词",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
