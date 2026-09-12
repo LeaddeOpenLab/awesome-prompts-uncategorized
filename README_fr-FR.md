@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**104** Prompts · Dernier ajout: **2026-09-12**
+**106** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,59 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 ## Photographie
 
-<a name="prompt-2098678464484401228"></a>
+<a name="prompt-2098634812307476794"></a>
 
 ### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2098634812307476794)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098634812307476794-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098636922742595944"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2098636922742595944)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098636922742595944-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098678464484401228"></a>
+
+### Prompt de portrait réaliste façon photo mobile d'une fille allongée sur un canapé en osier lisant un livre dans une cour d'automne.
 
 Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2098678464484401228)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait réaliste façon photo mobile d'une fille allongée sur un canapé en osier lisant un livre dans une cour d'automne.
 
 <img src="images/2098678464484401228-1.jpg" alt="Image 1" width="480" />
 
@@ -50,7 +94,11 @@ Photographie · Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un portrait sans modifier les traits du visage. Qualité photo mobile.
+Créez un portrait hyperréaliste. Une jeune fille est allongée dans la cour d'une maison privée sur un canapé en osier, un livre entre les mains, des feuilles d'automne tombant, de longs cheveux agités par le vent.
+La jeune fille regarde dans le livre. Elle porte un cardigan duveteux en tricot ample marron, un débardeur à bretelles couleur laiteuse, un plaid beige drapé sur elle, un maquillage impeccable, des lèvres dans une teinte rose poudré.
+Ambiance chaleureuse.
+| iPhone 17 photo quality
 ```
 
 [↑ Retour aux catégories](#catalog)

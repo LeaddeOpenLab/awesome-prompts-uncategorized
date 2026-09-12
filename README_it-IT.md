@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**104** Prompt · Ultima aggiunta: **2026-09-12**
+**106** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,59 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Fotografia
 
-<a name="prompt-2098678464484401228"></a>
+<a name="prompt-2098634812307476794"></a>
 
 ### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098634812307476794)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098634812307476794-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098636922742595944"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098636922742595944)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098636922742595944-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098678464484401228"></a>
+
+### Prompt per ritratto realistico effetto foto da smartphone di una ragazza sdraiata su un divano di vimini che legge un libro in un cortile autunnale.
 
 Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2098678464484401228)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto realistico effetto foto da smartphone di una ragazza sdraiata su un divano di vimini che legge un libro in un cortile autunnale.
 
 <img src="images/2098678464484401228-1.jpg" alt="Immagine 1" width="480" />
 
@@ -50,7 +94,11 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un ritratto senza modificare i tratti del viso. Qualità foto da cellulare.
+Crea un ritratto iperrealistico. Una ragazza è sdraiata nel cortile di una casa privata su un divano di vimini, un libro tra le mani, foglie autunnali che cadono, lunghi capelli mossi dal vento.
+La ragazza sta guardando il libro. Indossa un cardigan soffice marrone a maglia larga, un top a spalline color latte, una coperta beige drappeggiata addosso, trucco impeccabile, labbra in una tonalità rosa antico.
+Atmosfera accogliente.
+| iPhone 17 photo quality
 ```
 
 [↑ Torna alle categorie](#catalog)

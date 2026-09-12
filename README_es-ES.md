@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**104** Prompts · Última incorporación: **2026-09-12**
+**106** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,59 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 ## Fotografía
 
-<a name="prompt-2098678464484401228"></a>
+<a name="prompt-2098634812307476794"></a>
 
 ### Traducción en curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2098634812307476794)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098634812307476794-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098636922742595944"></a>
+
+### Traducción en curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2098636922742595944)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098636922742595944-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098678464484401228"></a>
+
+### Prompt de retrato con textura realista de foto móvil de una chica tumbada en un sofá de mimbre leyendo un libro en un patio de otoño.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2098678464484401228)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato con textura realista de foto móvil de una chica tumbada en un sofá de mimbre leyendo un libro en un patio de otoño.
 
 <img src="images/2098678464484401228-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +94,11 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato sin cambiar los rasgos faciales. Calidad de foto de móvil.
+Crea un retrato hiperrealista. Una chica está tumbada en el patio de una casa privada en un sofá de mimbre, con un libro en las manos, hojas de otoño cayendo, cabello largo ondeado por el viento.
+La chica está mirando el libro. Lleva un cárdigan marrón de punto suelto y esponjoso, un top de tirantes color lechoso, una manta beige colocada sobre ella, un maquillaje impecable, labios en un tono rosa empolvado.
+Atmósfera acogedora.
+| iPhone 17 photo quality
 ```
 
 [↑ Volver a categorías](#catalog)

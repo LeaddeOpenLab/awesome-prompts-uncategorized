@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**104** Prompt · Bổ sung mới nhất: **2026-09-12**
+**106** Prompt · Bổ sung mới nhất: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,59 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Nhiếp ảnh
 
-<a name="prompt-2098678464484401228"></a>
+<a name="prompt-2098634812307476794"></a>
 
 ### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098634812307476794)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098634812307476794-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098636922742595944"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098636922742595944)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098636922742595944-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098678464484401228"></a>
+
+### Lời nhắc chân dung chất lượng ảnh điện thoại thực tế về cô gái nằm đọc sách trên ghế mây trong sân mùa thu.
 
 Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2098678464484401228)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung chất lượng ảnh điện thoại thực tế về cô gái nằm đọc sách trên ghế mây trong sân mùa thu.
 
 <img src="images/2098678464484401228-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -50,7 +94,11 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức chân dung mà không thay đổi các đường nét trên khuôn mặt. Chất lượng ảnh chụp bằng điện thoại di động.
+Tạo một bức chân dung siêu thực. Một cô gái đang nằm trên ghế sofa mây trong sân của một ngôi nhà riêng, tay cầm một cuốn sách, lá thu rơi, mái tóc dài bay trong gió.
+Cô gái đang chăm chú nhìn vào cuốn sách. Cô ấy mặc một chiếc áo cardigan len dệt kim xù dáng rộng màu nâu, áo hai dây màu sữa, đắp một chiếc chăn mỏng màu be, lớp trang điểm hoàn hảo, đôi môi màu hồng đất (dusty-rose).
+Bầu không khí ấm cúng.
+| iPhone 17 photo quality
 ```
 
 [↑ Về danh mục](#catalog)

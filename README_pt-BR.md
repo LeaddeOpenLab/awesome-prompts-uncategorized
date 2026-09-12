@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**104** Prompts · Última adição: **2026-09-12**
+**106** Prompts · Última adição: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,59 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 ## Fotografia
 
-<a name="prompt-2098678464484401228"></a>
+<a name="prompt-2098634812307476794"></a>
 
 ### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098634812307476794)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098634812307476794-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098636922742595944"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2098636922742595944)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098636922742595944-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098678464484401228"></a>
+
+### Prompt de retrato realista com qualidade de foto de celular de uma garota deitada em um sofá de vime lendo um livro em um pátio de outono.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098678464484401228)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato realista com qualidade de foto de celular de uma garota deitada em um sofá de vime lendo um livro em um pátio de outono.
 
 <img src="images/2098678464484401228-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +94,11 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um retrato sem alterar os traços faciais. Qualidade de foto de celular.
+Crie um retrato hiper-realista. Uma garota está deitada no pátio de uma casa particular em um sofá de vime, com um livro nas mãos, folhas de outono caindo, cabelos compridos soprados pelo vento.
+A garota está olhando para o livro. Ela veste um cardigã felpudo marrom de tricô solto, uma blusa de alcinha cor leitosa, uma manta bege colocada sobre ela, maquiagem impecável, lábios em tom rosa-antigo.
+Atmosfera aconchegante.
+| iPhone 17 photo quality
 ```
 
 [↑ Voltar às categorias](#catalog)

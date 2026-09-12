@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**104** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**106** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,59 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 ## Fotografie
 
-<a name="prompt-2098678464484401228"></a>
+<a name="prompt-2098634812307476794"></a>
 
 ### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2098634812307476794)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098634812307476794-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098636922742595944"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2098636922742595944)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098636922742595944-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098678464484401228"></a>
+
+### Prompt für ein realistisches Porträt in Handyfoto-Qualität eines Mädchens, das im herbstlichen Innenhof auf einem Korbasofa liegt und ein Buch liest.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2098678464484401228)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein realistisches Porträt in Handyfoto-Qualität eines Mädchens, das im herbstlichen Innenhof auf einem Korbasofa liegt und ein Buch liest.
 
 <img src="images/2098678464484401228-1.jpg" alt="Bild 1" width="480" />
 
@@ -50,7 +94,11 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein Porträt, ohne die Gesichtszüge zu verändern. Qualität eines Handyfotos.
+Erstelle ein hyperrealistisches Porträt. Ein Mädchen liegt im Innenhof eines Privathauses auf einem Korbasofa, ein Buch in den Händen, herabfallende Herbstblätter, langes Haar, das vom Wind verweht wird.
+Das Mädchen blickt in das Buch. Sie trägt eine braune, locker gestrickte flauschige Strickjacke, ein milchweißes Trägertop, eine beige Decke über sich geworfen, tadelloses Make-up, Lippen in einem Altrosa-Ton.
+Gemütliche Atmosphäre.
+| iPhone 17 photo quality
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

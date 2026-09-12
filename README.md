@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**104** Prompts · Latest addition: **2026-09-12**
+**106** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,130 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098634812307476794"></a>
+
+### Photorealistic resort-style fashion portrait prompt of an adult Japanese woman wearing a light pink bikini in shallow summer waters.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098634812307476794)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic resort-style fashion portrait prompt of an adult Japanese woman wearing a light pink bikini in shallow summer waters.
+
+<img src="images/2098634812307476794-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Shallow Summer Waters | Light Pink Bikini and Sparkling Splashes🌟
+
+[Subject / Style]
+Depict an unambiguously adult Japanese woman at a crystal-clear midsummer seaside, instinctively twisting her body the moment a small wave reaches her feet. Grounded in photorealism, render it as a bright, sophisticated fashion photograph that sits midway between a gravure photo book and an elegant resort advertisement.
+Emphasize natural motion as if capturing a candid split second responding to the waves and sea breeze, rather than a stiff, posed freeze. Balance refreshing openness with feminine glamor, creating a photographic expression whose colors and facial expression instantly catch the eye on an X (Twitter) timeline.
+
+[Location / Background / Worldview]
+The setting is a shallow sea leading to a white sandy beach. Highly transparent water stretches around the subject's feet, showing delicate ripples, white foam, and even the pale sand on the seabed below. In the midground, the sea surface transitions from turquoise blue to deep blue, with a small cape and green, rocky outcrops naturally placed in the distant background.
+Keep the background free of unnecessary buildings or tourists, preserving the open, uncluttered ambiance of a quiet resort beach. Incorporate the sparkle of the sea's surface and the water splashes at the shoreline into the foreground, establishing a sense of depth that showcases not just the subject, but the seaside space itself.
+
+[Season / Time / Weather]
+The season is midsummer. The time is between 10:00 AM and around noon, when the sun is high and the colors of the sky and sea appear most vivid. A nearly clear blue sky with a few sparse white clouds drifting in the distance.
+The temperature is warm, with a gentle, refreshing breeze blowing in from the sea. The breeze lightly flutters the ends of her hair, creating small ripples across the water's surface. Portray a bright, serene summer day rather than strong winds or rough seas.
+
+[Character Settings]
+An unmistakably adult Japanese woman, around 20 to 28 years old. Soft, well-proportioned facial features typical of an adult woman, with naturally slightly large eyes, gentle eyebrows, and healthy, ruddy lips. Dark brown, shoulder-length wavy hair with natural movement from the sea breeze and subtle stray strands. Her skin is a light-medium ochre tone, featuring subtle natural shading and a healthy flush without excessive airbrushing or overly uniform smoothing.
+Her physique combines delicate shoulders, slender limbs, and a slim waist with harmonious, feminine curves, forming a naturally glamorous figure. Her bust has an unmistakably large, rich volume, portrayed without extreme exaggeration, maintaining soft, dimensional form that naturally conforms to the bikini's structure, her posture, and gravity. Her hips have a gentle, natural curve that flows smoothly from her waist.
+
+[Outfit / Accessories]
+Wearing a light pink halter-neck bikini. The top features a simple, refined design with slim straps tied behind the neck and realistic, ample fabric coverage to support the bust. Made of a matte-leaning, stretchy swimwear fabric that displays a subtle sheen only where wet.
+The bottoms match in color, naturally hugging the hips and waistline. The fabric does not excessively dig in or pull away from the body, maintaining realistic sizing. Virtually no accessories are worn, letting the colors of the sea, the swimsuit, and the woman's expression take center stage.
+
+[Pose / Action / Gaze]
+The subject stands in the shallows, supporting her weight on her right leg while lightly pulling back her left leg mid-motion to dodge a small incoming wave. Her hips are turned slightly to the side, and her upper body naturally twists in sync with the movement, while her shoulders remain moderately open toward the camera.
+Both arms are held slightly away from her body—one reaching lightly backward and the other extended naturally to the side for balance. Her hands and fingers are relaxed and open. Her face is turned almost directly toward the camera, her gaze directed near the lens. Depict a natural shift in center of gravity in reaction to the wave, avoiding excessive lower back arching or unnatural contortions.
+
+[Expression / Emotion]
+Her expression is a bright smile mixed with mild surprise, as if genuinely enjoying the sudden arrival of a small wave at her feet. Rather than just smiling with her mouth, her eyes soften and squint slightly, and her cheeks rise naturally.
+Conveys a sense of warmth and intimacy, as though sharing an enjoyable moment at the beach with the photographer. Render it as a candid expression spilling over mid-movement rather than a practiced, staged model smile.
+
+[Composition / Camera]
+A 4:5 vertical composition tailored for X posts. A full-body shot framing her naturally from head to toe, positioning the subject slightly to the right of center. Ample space is given to the water splashes at her feet and the sea surface, while also showing the horizon and cape in the background.
+The camera is positioned roughly at chest-to-waist height, several meters away. Use a natural standard to moderate telephoto focal length (around 50–70mm), avoiding wide-angle distortion of limbs or body proportions. The background is softly blurred while preserving enough detail to be clearly identifiable as a seaside.
+
+[Light / Color / Texture / Atmosphere]
+The primary light source is bright sunlight coming from the upper left. It casts soft highlights across her face, shoulders, arms, and swimwear, complemented by subtle, cool bluish bounce light reflected from the sea on the opposite side. Shadows remain soft rather than pitch-black, retaining the bright tonal gradations of a midsummer day.
+Show delicate shadows and a natural flush on her skin, strand-by-strand definition and luster in her hair, and realistic elasticity and subtle dampness on the bikini fabric. Emphasize the transparency of the sea water, fine grain in the sand, and fleeting brilliance in the sea spray. Unite the palette around light pink, turquoise blue, and white sand for a fresh, radiant summer color scheme.
+
+[Quality / Negative Prompts]
+As a high-resolution photorealistic photograph, prioritize natural human anatomy, lighting, textures, and perspective as if shot on a real camera.
+Avoid underage appearance or overly youthful childish faces, unnatural anatomy, extra or missing limbs or fingers, malformed joints, swapped hands, clipped or body-fused clothing, unintentional nudity, excessive lumbar hyperlordosis or unnatural twisting, extreme wide-angle distortion, and excessive airbrushed beauty skin filters. While preserving a naturally rich bust volume, avoid gigantic proportions, rigid spherical breasts, abnormal push-up effects, and gravity-defying shapes. No text, logos, watermarks, or UI elements in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098636922742595944"></a>
+
+### Photorealistic image prompt of a Japanese woman wrapped in a white bath towel resting her hand on a stone rim in a nighttime open-air bath.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098636922742595944)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic image prompt of a Japanese woman wrapped in a white bath towel resting her hand on a stone rim in a nighttime open-air bath.
+
+<img src="images/2098636922742595944-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Moonlit Open-Air Bath | White Bath Towel and Rising Steam🌟
+
+[Subject & Artistic Style]
+Set at an open-air bath at night, depict a moment where an adult Japanese woman wrapped in a white bath towel rests her hand on the stone rim from inside the hot spring water and looks toward the camera. Based on photorealism, create a sophisticated photographic aesthetic that sits halfway between an advertisement for a luxury hot spring ryokan/spa resort and a high-end photo book.
+Prioritize a natural, post-bath glow, quiet intimacy, and the extraordinary ambiance unique to a night hot spring, rather than overt sensuality. Rather than isolating just the figure, establish the scene as a unified tableau encompassing the rising steam, stone, water surface, wooden architecture, and warm ambient lanterns.
+
+[Location, Background, & Worldview]
+An outdoor open-air hot spring bath at an upscale ryokan nestled in the mountains. The tub is surrounded by natural stone, flanked by wet stone flooring, wooden pillars, a bamboo fence, and low landscaping shrubs. At the edge of the tub is a small hot spring spout, where clear thermal water quietly flows in, creating delicate ripples across the water's surface.
+The background is dotted with warm-colored paper lanterns (andon) and indirect lighting, and further beyond, the dark mountain ridge and faint distant ambient lights are visible. The background is not overly sanitized, retaining the depth and realistic living presence of an actual ryokan's open-air bath.
+
+[Season, Time, & Weather]
+The season is early autumn with a cool crispness in the air. The time is night, just after sunset, with a deep navy blue still lingering in the sky. The wind is gentle and the outside air is slightly chilly, while soft steam rises smoothly from the hot spring surface.
+A peaceful night with neither rain nor snow. Allow a light, natural mist to drift around the subject and in the background, subtly conveying the temperature difference between the quiet air and the warm bathwater.
+
+[Subject Settings]
+A distinctly adult Japanese woman around 20 to 28 years old. She has soft, well-balanced mature facial features, slightly large dark eyes, natural eyebrows, a slender nose bridge, and healthy, flushed lips. Her dark brown hair is around shoulder-length, slightly damp from bathing, with delicate loose strands resting along her cheeks and neck.
+Her skin has a fair, radiant ochre tone with fine shading and a natural, healthy complexion. Her shoulders and limbs are relatively delicate, possessing a naturally glamorous figure where a slender waist harmonizes with feminine curves. Her bust features a distinctly full and natural volume, expressing soft roundness and realistic three-dimensionality following gravity.
+
+[Costume & Accessories]
+A wrap-style bath towel made of thick, clean white cotton, wrapped around her body from the chest down to the upper thighs. The towel securely covers her bust, boasting sufficient width and length to conform comfortably to her voluptuous figure without strain.
+The material is soft cotton terrycloth, naturally rendering the textural contrast between dry sections and areas slightly dampened by steam and water droplets. It has a realistic fit that does not unnaturally dig into her chest or waist, nor float artificially off her body. No accessories are worn, prioritizing the rustic simplicity appropriate for a hot spring.
+
+[Pose, Action, & Gaze]
+Submerged in the hot spring roughly up to her knees, her body faces the camera nearly straight-on to a slight angle. Her weight naturally rests on the rear leg, while the front leg is brought slightly forward, creating small ripples expanding across the water.
+Her left hand rests lightly on the large stone rim beside her, conveying a natural force sufficient to support her body. Her right hand lightly touches near the side of the towel. Her upper body leans forward ever so slightly, but her lower back is not excessively arched, with her shoulders and chest opening naturally. Her gaze is directed straight at the camera.
+
+[Expression & Emotion]
+A gentle, slightly bashful smile, as if looking at someone dear right before her eyes. It is not an artificial smile where only the corners of the mouth turn up; the area around her eyes and cheeks softens gently as well.
+Her head is tilted slightly, with a few strands of damp hair clinging to her cheek. Capture a natural intimacy, as if she were quietly enjoying the peaceful night bath and just happened to notice the camera.
+
+[Composition & Camera]
+A 4:5 vertical portrait composition tailored for an X (Twitter) post. The subject is naturally framed from the top of the head to just below the knees, positioned slightly off-center to reveal the hot spring spout and lanterns on the other side. The camera height is set between chest and solar plexus level, maintaining a nearly eye-level perspective with the subject.
+The shooting distance is mid-range. Aim for a natural focal length leaning from standard to short telephoto (around 50–70mm), avoiding wide-angle distortion on the face or body. Keep a depth of field that lightly blurs the background while still keeping the stone bath, bamboo fence, wooden architecture, and paper lanterns recognizable.
+
+[Lighting, Color, Texture, & Atmosphere]
+The key light source comes from the warm-toned paper lanterns and indirect fixtures located diagonally in front of the subject. A soft golden light illuminates her face, shoulders, chest, and arms, while the opposite side is naturally complemented by faint bounce light from the water and stone surfaces. Shadows remain soft, preserving the rich depth of night.
+The skin features subtle water droplets, delicate flushing, and a natural pore texture, while the hair shows damp clumping and fine stray strands. The white towel highlights soft fabric fibers, the stone has a wet, matte sheen, and the water surface details fine ripples reflecting the lights. Combining warm lighting with the navy nightscape creates an atmosphere where tranquility, warmth, and refined allure coexist.
+
+[Quality & Excluded Elements]
+Emphasize high resolution, natural human anatomy, realistic perspective, and authentic lighting and material textures as if captured with an actual camera. Avoid figures that look underage, excessively youthful facial features, unnatural joint bends or body twists, extra limbs or fingers, missing fingers, fused fingers, or confusion between left and right hands.
+Avoid towel rendering artifacts, towel fusing with the body, unnatural skin pinching, and unintended exposure. While maintaining full, natural bust volume, avoid giant proportions, rigid spherical shapes, abnormal push-up effects, or gravity-defying forms. Avoid extreme wide-angle distortion, excessive skin smoothing, artificial backgrounds, text, logos, watermarks, and UI elements.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098678464484401228"></a>
 

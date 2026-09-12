@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**104** Prompt · Son eklenen: **2026-09-12**
+**106** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -33,15 +33,59 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Fotoğrafçılık
 
-<a name="prompt-2098678464484401228"></a>
+<a name="prompt-2098634812307476794"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098634812307476794)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098634812307476794-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098636922742595944"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098636922742595944)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098636922742595944-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098678464484401228"></a>
+
+### Sonbahar avlusunda hasır kanepede uzanıp kitap okuyan kızın gerçekçi mobil fotoğraf dokusunda portre istemi.
 
 Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2098678464484401228)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sonbahar avlusunda hasır kanepede uzanıp kitap okuyan kızın gerçekçi mobil fotoğraf dokusunda portre istemi.
 
 <img src="images/2098678464484401228-1.jpg" alt="Görsel 1" width="480" />
 
@@ -50,7 +94,11 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüz hatlarını değiştirmeden bir portre oluşturun. Mobil fotoğraf kalitesi.
+Hiper gerçekçi bir portre oluşturun. Müstakil bir evin avlusunda, hasır bir kanepede uzanmış, elinde bir kitap tutan, sonbahar yapraklarının döküldüğü, rüzgarda uçuşan uzun saçlı bir kız.
+Kız kitaba bakıyor. Kahverengi, bol örgülü, kabarık bir hırka, süt beyazı askılı bir üst giymiş, üzerine bej rengi bir örtü örtülmüş, kusursuz bir makyaj, soluk gül tonunda dudaklar.
+Rahat ve samimi bir atmosfer.
+| iPhone 17 photo quality
 ```
 
 [↑ Kategorilere dön](#catalog)
