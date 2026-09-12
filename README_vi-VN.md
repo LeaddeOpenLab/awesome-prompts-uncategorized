@@ -1903,20 +1903,29 @@ Hàng trăm ngọn đèn cầm tay nhỏ được sắp xếp thành hai khối 
 
 <a name="prompt-2098562233991049325"></a>
 
-### Đang dịch
+### Người phụ nữ Nhật Bản trẻ tuổi chụp ảnh selfie trên giường vào sáng sớm, mặc áo hai dây màu be cùng quần lọt khe dây mảnh, mái tóc xoăn hơi rối và ánh nắng mai dịu nhẹ tạo nên vẻ cao cấp tự nhiên.
 
 Tác giả：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Bài gốc](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Người phụ nữ Nhật Bản trẻ tuổi chụp ảnh selfie trên giường vào sáng sớm, mặc áo hai dây màu be cùng quần lọt khe dây mảnh, mái tóc xoăn hơi rối và ánh nắng mai dịu nhẹ tạo nên vẻ cao cấp tự nhiên.
 
 <img src="images/2098562233991049325-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+1. Đối tượng & Hành động
+Một người phụ nữ Nhật Bản 25 tuổi với làn da trắng sứ mỏng manh, có thể thấy rõ lỗ chân lông và lớp lông tơ mịn màng, đôi mắt màu xám xanh tự nhiên, các đường nét trên khuôn mặt vô cùng tinh tế, phong cách trang điểm thời trang cao cấp bóng bẩy, cùng mái tóc dài lượn sóng màu tối hơi rối vì ngủ dậy. Bộ ngực cúp G đầy đặn nảy nở với độ rủ mềm mại tự nhiên theo trọng lực và độ phồng tự nhiên nhờ cơ thể hơi vặn nghiêng. Vòng eo cực kỳ thon gọn. Cô đang chụp ảnh selfie trên giường bằng camera trước: một tay giơ lên phía ống kính, cầm chiếc điện thoại thông minh xuất hiện từ phía trên khung hình; cánh tay giơ lên kéo chiếc áo hai dây dệt kim có gân mỏng màu be tạo độ co giãn vải chân thực và vết hằn của dây áo. Đường cong chân ngực lộ rõ. Cô không mặc áo ngực và mặc quần lọt khe dây mỏng manh manh ở hông. Biểu cảm: tự tin, kín đáo, nụ cười lạc quan, ánh mắt nhìn thẳng vào ống kính điện thoại như thể cô biết rõ góc đẹp nhất của mình.
+2. Bối cảnh & Thời gian
+Chiếc giường ngủ và những chiếc gối bằng vải lanh màu trắng ngà sang trọng hơi nhàu trong một phòng ngủ yên tĩnh. Sáng sớm, vừa mới thức dậy. Ga trải giường có dấu vết sử dụng và nhăn nhúm, không phải hoàn hảo như trong studio.
+3. Bố cục & Máy ảnh
+Góc nhìn selfie chân thực bằng camera trước từ phía trên chếch xuống một chút. Hiệu ứng rút ngắn phối cảnh (foreshortening) nhẹ của ảnh selfie từ cánh tay giơ lên. Điện thoại hoặc bàn tay bị cắt bớt ở phía trên/góc khung hình. Cơ thể nằm trên giường hơi nghiêng về phía máy ảnh để vòng eo và phần chân ngực hiện lên rõ ràng. Trọn vẹn toàn thân hoặc ba phần tư cơ thể trong khung hình. Ảnh chân thực như thật, chi tiết da và kết cấu vải siêu sắc nét.
+4. Ánh sáng & Phong cách
+Nhiều vệt sáng sớm màu vàng rõ rệt chiếu qua cửa sổ, cắt ngang xương quai xanh, áo hai dây, eo và ga trải giường. Có thể nhìn thấy những hạt bụi lơ lửng trong không khí tạo hiệu ứng thể tích. Sự gợi cảm mang phong cách biên tập thời trang cao cấp với điểm nhấn xúc giác vào độ mỏng nhẹ của vải, bề mặt vải dệt gân, áp lực của dây áo và độ nặng thực tế của ngực. Không phải ánh sáng bóng bẩy kiểu catalogue. Tinh tế, đẳng cấp, tự nhiên và chân thực.
+5. Ràng buộc
+Đầu ngực được che phủ hoàn toàn bởi áo hai dây; không có sự cố trang phục; không tập trung lộ liễu vào vùng nhạy cảm; quần lọt khe chỉ lộ phần dây mảnh bên hông và cạp eo. Không thô tục, không khiêu dâm. Chỉ người phụ nữ trưởng thành. Giữ cho hình ảnh là một bức ảnh tự chụp buổi sáng đáng tin cậy, không phải tư thế tạo dáng trong studio giả vờ chụp selfie.
 ```
 
 [↑ Về danh mục](#catalog)

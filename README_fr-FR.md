@@ -1868,20 +1868,29 @@ Des centaines de petites lumières tenues à la main disposées en deux formes s
 
 <a name="prompt-2098562233991049325"></a>
 
-### Traduction en cours
+### Jeune femme japonaise prenant un selfie au lit au petit matin, vêtue d'un caraco beige et d'un string ficelle, avec des cheveux ondulés délicatement ébouriffés et une douce lumière matinale créant une ambiance naturelle et haut de gamme.
 
 Auteur：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Publication originale](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Jeune femme japonaise prenant un selfie au lit au petit matin, vêtue d'un caraco beige et d'un string ficelle, avec des cheveux ondulés délicatement ébouriffés et une douce lumière matinale créant une ambiance naturelle et haut de gamme.
 
 <img src="images/2098562233991049325-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+1. Sujet et action
+Une femme japonaise de 25 ans à la peau délicate et claire comme de la porcelaine, pores visibles et fin duvet, yeux gris-bleu naturels, traits du visage extrêmement fins, maquillage haute couture soigné et longs cheveux sombres et ondulés, délicatement ébouriffés par le sommeil. Poitrine généreuse et pulpeuse bonnet G avec une gravité douce et réaliste et un volume naturel créé par une légère torsion du torse. Taille extrêmement fine. Elle prend un selfie au lit avec la caméra avant : un bras levé vers l'objectif, tenant un smartphone qui entre dans le cadre par le haut ; le bras levé étire la fine nuisette caraco côtelée beige, créant une tension de tissu réaliste et une indentation de la bretelle. La courbe inférieure de la poitrine (underboob) est visible. Elle ne porte pas de soutien-gorge et a un string ficelle délicat et fin sur les hanches. Expression : sourire confiant, retenu et optimiste, le regard fixé sur l'objectif du téléphone comme si elle connaissait parfaitement son angle.
+2. Cadre et moment
+Lit et oreillers luxueux en lin blanc cassé froissés dans une chambre calme. Tôt le matin, juste après le réveil. Les draps sont froissés et ont un aspect vécu, pas une perfection de studio.
+3. Composition et appareil photo
+Perspective authentique de selfie à la caméra frontale, prise légèrement d'en haut. Léger raccourci perspectif typique du selfie dû au bras levé. Smartphone ou main coupés en haut ou dans le coin du cadre. Le corps repose sur le lit avec une légère torsion vers l'appareil photo afin que la taille et le dessous de la poitrine ressortent nettement. Corps entier ou aux trois-quarts dans le cadre. Photoréaliste, détails ultra-nets de la peau et du tissu.
+4. Éclairage et style
+Plusieurs rayons distincts de lumière matinale dorée traversant la fenêtre et se posant sur la clavicule, le caraco, la taille et les draps. Particules de poussière visibles flottant dans l'air volumétrique. Sensualité digne d'un éditorial de haute couture, mettant l'accent tactile sur la translucidité du tissu, la texture de la maille côtelée, la pression des bretelles et le poids naturel de la poitrine. Pas d'éclairage lustré de catalogue. De bon goût, haut de gamme, naturellement réaliste.
+5. Contraintes
+Tétons entièrement couverts par le caraco ; aucun incident de garde-robe ; pas de focalisation génitale explicite ; le string ne montre que les fines lanières latérales et la taille. Ni vulgaire, ni pornographique. Femme adulte uniquement. Garder l'image comme une photo matinale crédible prise par elle-même, et non une pose de studio prétendant être un selfie.
 ```
 
 [↑ Retour aux catégories](#catalog)

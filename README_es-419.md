@@ -1868,20 +1868,29 @@ Cientos de pequeñas luces sostenidas con la mano dispuestas en dos formas ascen
 
 <a name="prompt-2098562233991049325"></a>
 
-### Traducción en curso
+### Mujer japonesa joven tomándose una selfie matutina en la cama, vistiendo una camisola beige y una tanga de tiras finas, con cabello ondulado ligeramente despeinado y suave luz matutina que evocan una sensación natural y de alta gama.
 
 Autor：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Publicación original](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Mujer japonesa joven tomándose una selfie matutina en la cama, vistiendo una camisola beige y una tanga de tiras finas, con cabello ondulado ligeramente despeinado y suave luz matutina que evocan una sensación natural y de alta gama.
 
 <img src="images/2098562233991049325-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+1. Sujeto y acción
+Una mujer japonesa de 25 años con piel delicada y clara como la porcelana, poros visibles y fino vello facial, ojos naturales de color gris azulado, rasgos faciales sumamente refinados, maquillaje pulido de alta costura y cabello largo, oscuro y ondulado, despeinado por el sueño. Senos turgentes y llenos de copa G con una caída suave y realista por la gravedad y un volumen natural debido a una ligera torsión del torso. Cintura extremadamente esbelta. Se está tomando una selfie en la cama con la cámara frontal: un brazo levantado hacia la lente, sosteniendo un teléfono inteligente que entra en el encuadre desde arriba; el brazo levantado tensa la delgada camisola beige de punto acanalado generando un estiramiento real de la tela y la hendidura del tirante. La curva inferior del busto (underboob) es visible. No lleva sostén y viste una delicada tanga de hilo con bordes finos sobre las caderas. Expresión: sonrisa confiada, contenida y optimista, con los ojos mirando fijamente hacia la lente del teléfono como si conociera su mejor ángulo.
+2. Entorno y hora
+Cama y almohadas de lino de lujo en tono blanco roto, desordenadas, en un dormitorio tranquilo. Temprano en la mañana, justo después de despertar. Las sábanas tienen un aspecto vivido y arrugado, no de estudio perfecto.
+3. Composición y cámara
+Perspectiva auténtica de selfie con cámara frontal ligeramente desde arriba. Ligero escorzo típico de selfie debido al brazo levantado. El teléfono o la mano recortados en la parte superior/esquina del encuadre. El cuerpo yace en la cama con una ligera torsión hacia la cámara para que la cintura y la parte inferior del busto se aprecien con claridad. Cuerpo entero o tres cuartos en el encuadre. Fotorrealista, detalle ultra nítido en piel y tejidos.
+4. Iluminación y estilo
+Varios haces marcados de luz dorada matutina que entra por la ventana atravesando la clavícula, la camisola, la cintura y las sábanas. Motas de polvo visibles flotando en el aire volumétrico. Sensualidad editorial de alta costura con énfasis táctil en la ligera transparencia de la tela, la textura del tejido acanalado, la presión de los tirantes y el peso natural del busto. Sin iluminación brillante de catálogo. De buen gusto, de alta gama, naturalmente realista.
+5. Restricciones
+Pezones completamente cubiertos por la camisola; sin fallos de vestuario; sin enfoque genital explícito; la tanga solo muestra las finas tiras laterales y la línea de la cintura. Ni vulgar ni pornográfico. Solo mujer adulta. Mantener la imagen como una foto matutina creíble tomada por ella misma, no una pose de estudio fingiendo ser una selfie.
 ```
 
 [↑ Volver a categorías](#catalog)

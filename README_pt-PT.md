@@ -1885,20 +1885,29 @@ Centenas de pequenas luzes seguradas na mão dispostas em duas formas ascendente
 
 <a name="prompt-2098562233991049325"></a>
 
-### Tradução em curso
+### Jovem mulher japonesa a tirar uma selfie matinal na cama, vestindo uma camisola de alças bege e tanga de tiras finas, com cabelo ondulado ligeiramente desalinhado e luz suave da manhã criando uma sensação natural e sofisticada.
 
 Autor：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Publicação original](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Jovem mulher japonesa a tirar uma selfie matinal na cama, vestindo uma camisola de alças bege e tanga de tiras finas, com cabelo ondulado ligeiramente desalinhado e luz suave da manhã criando uma sensação natural e sofisticada.
 
 <img src="images/2098562233991049325-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+1. Sujeito e Ação
+Uma mulher japonesa de 25 anos com pele delicada, clara como porcelana, poros visíveis e penugem fina, olhos naturais cinzento-azulados, traços faciais extremamente refinados, maquilhagem sofisticada de alta-costura e cabelos longos, escuros, ondulados e desalinhados pelo sono. Seios fartos e volumosos copa G com caimento realista sob gravidade suave e volume natural devido a uma ligeira torção do tronco. Cintura extremamente fina. Ela está a tirar uma selfie na cama com a câmara frontal: um braço levantado em direção à lente, segurando um smartphone que entra no enquadramento por cima; o braço erguido estica a camisola de alças fina em malha canelada bege com tensão real do tecido e marcação da alça. A curva inferior dos seios é visível. Ela não usa soutien e veste uma tanga delicada de tiras finas nas ancas. Expressão: sorriso confiante, contido e otimista, olhos fixos na lente do telemóvel como se conhecesse o seu melhor ângulo.
+2. Cenário e Hora
+Cama e almofadas de linho off-white de luxo amarrotados num quarto tranquilo. Manhã cedo, logo após acordar. Lençóis com aspeto vivido e enrugados, não perfeitos de estúdio.
+3. Composição e Câmara
+Perspetiva autêntica de selfie com câmara frontal ligeiramente de cima. Suave escorço de selfie devido ao braço erguido. Telemóvel ou mão cortados no topo/canto do enquadramento. O corpo jaz na cama com uma ligeira torção em direção à câmara para que a cintura e a curva sob o peito se distingam com clareza. Corpo inteiro ou a três quartos no enquadramento. Fotorrealista, detalhes ultra-nítidos de pele e tecido.
+4. Iluminação e Estilo
+Vários feixes distintos de luz dourada matinal da janela a atravessar a clavícula, a camisola de alças, a cintura e os lençóis. Partículas de pó visíveis a flutuar no ar volumétrico. Sensualidade editorial de alta-costura com ênfase tátil na subtil transparência do tecido, na textura da malha canelada, na pressão da alça e no peso natural do peito. Sem iluminação brilhante de catálogo. De bom gosto, sofisticado, naturalmente realista.
+5. Restrições
+Mamilos totalmente cobertos pela camisola de alças; sem falhas no vestuário; sem foco genital explícito; a tanga mostra apenas as tiras laterais finas e a linha da cintura. Não vulgar, não pornográfico. Apenas mulher adulta. Mantenha a imagem como uma fotografia matinal credível tirada por si própria, e não uma pose de estúdio a fingir ser uma selfie.
 ```
 
 [↑ Voltar às categorias](#catalog)

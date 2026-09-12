@@ -1868,20 +1868,29 @@ Centinaia di piccole luci tenute in mano disposte in due forme che si innalzano,
 
 <a name="prompt-2098562233991049325"></a>
 
-### Traduzione in corso
+### Giovane donna giapponese che si scatta un selfie a letto di prima mattina, indossando una canotta beige e un perizoma sottile, con capelli mossi leggermente spettinati e una morbida luce mattutina che crea un'atmosfera naturale e raffinata.
 
 Autore：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Post originale](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Giovane donna giapponese che si scatta un selfie a letto di prima mattina, indossando una canotta beige e un perizoma sottile, con capelli mossi leggermente spettinati e una morbida luce mattutina che crea un'atmosfera naturale e raffinata.
 
 <img src="images/2098562233991049325-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+1. Soggetto e azione
+Una donna giapponese di 25 anni con pelle delicata e chiara come porcellana, pori visibili e fine peluria, occhi grigio-azzurri naturali, lineamenti del viso estremamente raffinati, trucco elegante da alta moda e lunghi capelli scuri e mossi, spettinati dal sonno. Seno prosperoso e pieno con coppa G, con una naturale morbidezza dovuta alla gravità e volume realistico accentuato da una leggera torsione del busto. Vita estremamente sottile. Si sta scattando un selfie a letto con la fotocamera frontale: un braccio alzato verso l'obiettivo tiene uno smartphone che entra nell'inquadratura dall'alto; il braccio sollevato tira il sottile top a canotta a coste beige creando una vera tensione nel tessuto e l'impronta della spallina. La curva inferiore del seno (underboob) è visibile. Non indossa il reggiseno e porta un perizoma sottile e delicato sui fianchi. Espressione: sorriso sicuro, misurato e ottimista, con gli occhi che guardano dentro l'obiettivo del telefono come se conoscesse perfettamente la sua angolazione migliore.
+2. Ambientazione e orario
+Letto e cuscini lussuosi in lino bianco sporco spiegazzati in una camera da letto tranquilla. Primo mattino, appena sveglia. Le lenzuola hanno un aspetto vissuto e sgualcito, non perfetto da studio.
+3. Composizione e fotocamera
+Autentica prospettiva da selfie con fotocamera frontale leggermente dall'alto. Leggero scorcio prospettico da selfie dovuto al braccio sollevato. Telefono o mano tagliati nella parte superiore o nell'angolo dell'inquadratura. Il corpo giace sul letto con una leggera torsione verso la fotocamera, così che il punto vita e il sottoseno si leggano chiaramente. Corpo intero o a tre quarti nell'inquadratura. Fotorealistico, dettagli della pelle e dei tessuti ultra nitidi.
+4. Illuminazione e stile
+Diversi fasci distinti di luce dorata del mattino dalla finestra che tagliano clavicola, canotta, vita e lenzuola. Granelli di polvere visibili che fluttuano nell'aria volumetrica. Sensualità da editoriale di alta moda con enfasi tattile sulla trasparenza del tessuto, la trama a coste, la pressione delle spalline e il peso naturale del seno. Nessuna illuminazione patinata da catalogo. Di buon gusto, di classe, naturalmente realistico.
+5. Vincoli
+Capezzoli completamente coperti dalla canotta; nessun incidente di vestiario; nessun focus esplicito sui genitali; il perizoma mostra solo i sottili laccetti laterali e la linea della vita. Non volgare, non pornografico. Solo donna adulta. Mantenere l'immagine come una credibile foto mattutina scattata da sé, non una posa da studio che finge di essere un selfie.
 ```
 
 [↑ Torna alle categorie](#catalog)

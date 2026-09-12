@@ -1885,20 +1885,29 @@ Yükselen iki form halinde düzenlenmiş yüzlerce küçük el feneri ışığı
 
 <a name="prompt-2098562233991049325"></a>
 
-### Çeviri sürüyor
+### Sabahın erken saatlerinde yatakta selfie çeken, bej askılı atlet ve ince ipli tanga giymiş, hafif dağınık dalgalı saçları ve yumuşak sabah ışığıyla doğal ve üst düzey bir hava sunan genç Japon kadın.
 
 Yazar：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Orijinal gönderi](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabahın erken saatlerinde yatakta selfie çeken, bej askılı atlet ve ince ipli tanga giymiş, hafif dağınık dalgalı saçları ve yumuşak sabah ışığıyla doğal ve üst düzey bir hava sunan genç Japon kadın.
 
 <img src="images/2098562233991049325-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+1. Özne ve Eylem
+Porselen gibi açık ve narin tenli, gözenekleri ve ince ayva tüyleri belirgin, doğal gri-mavi gözlü, son derece zarif yüz hatlarına sahip, özenli yüksek moda makyajlı ve uzun koyu dalgalı, uykuyla dağılmış saçlara sahip 25 yaşında bir Japon kadın. Hafif gövde bükülmesinden kaynaklanan doğal bir hacim ve gerçekçi yumuşak yerçekimi dökümüne sahip dolgun G-cup göğüsler. Son derece ince bir bel. Yatakta ön kamerayla selfie çekiyor: bir kolu objektife doğru kalkmış, kadraja yukarıdan giren bir akıllı telefonu tutuyor; kalkan kol, bej fitilli ince askılı atleti gererek gerçek kumaş esnemesi ve askı izi oluşturuyor. Göğüs altı kıvrımı görünür durumda. Sütyen takmıyor ve kalçalarında narin, ince kenarlı ipli bir tanga var. İfade: kendine güvenen, ölçülü, iyimser bir gülümseme; açısını çok iyi biliyormuşçasına telefonun objektifine bakan gözler.
+2. Mekân ve Zaman
+Sessiz bir yatak odasında kırışmış lüks kırık beyaz keten yatak ve yastıklar. Sabahın erken saatleri, uykudan hemen sonrası. Çarşaflar stüdyo kusursuzluğunda değil, yaşanmış ve buruşuk.
+3. Kompozisyon ve Kamera
+Hafifçe yukarıdan bakan özgün bir ön kamera selfie perspektifi. Kaldırılmış koldan kaynaklanan hafif selfie perspektif kısalması. Telefon veya el, kadrajın üstünde/köşesinde kesilmiş. Bel ve göğüs altı kıvrımının net bir şekilde algılanabilmesi için vücut kameraya doğru hafifçe bükülerek yatakta uzanıyor. Kadrajda tam boy veya üç çeyrek vücut. Fotogerçekçi, ultra keskin ten ve kumaş detayları.
+4. Işıklandırma ve Tarz
+Köprücük kemiğini, atleti, beli ve çarşafları kesen, pencereden gelen birkaç belirgin altın sarısı sabah ışığı huzmesi. Hacimsel havada süzülen görünür toz zerreleri. Kumaşın yarı saydamlığına, fitilli örgü dokusuna, askı baskısına ve göğüslerin gerçek ağırlığına dokunsal vurgu yapan yüksek moda editoryal duygusallığı. Parlak katalog aydınlatması değil. Zevkli, üst düzey, doğal olarak gerçekçi.
+5. Kısıtlamalar
+Göğüs uçları atlet tarafından tamamen kapatılmış; kıyafet kazası yok; belirgin cinsel organ odağı yok; tanga yalnızca ince yan ipleri ve bel çizgisini gösteriyor. Kaba veya pornografik değil. Yalnızca yetişkin kadın. Görseli, selfie taklidi yapan bir stüdyo pozu değil, inandırıcı bir şekilde kendi kendine çekilmiş bir sabah fotoğrafı olarak tutun.
 ```
 
 [↑ Kategorilere dön](#catalog)

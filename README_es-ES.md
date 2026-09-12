@@ -1903,20 +1903,29 @@ Cientos de pequeñas luces sostenidas a mano dispuestas en dos formas ascendente
 
 <a name="prompt-2098562233991049325"></a>
 
-### Traducción en curso
+### Joven mujer japonesa tomándose una selfie en la cama por la mañana, vistiendo una camisola beige y un tanga de hilo, con el pelo rizado sutilmente revuelto y una suave luz matutina que evocan una elegancia natural.
 
 Autor：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Publicación original](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Joven mujer japonesa tomándose una selfie en la cama por la mañana, vistiendo una camisola beige y un tanga de hilo, con el pelo rizado sutilmente revuelto y una suave luz matutina que evocan una elegancia natural.
 
 <img src="images/2098562233991049325-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+1. Sujeto y acción
+Una mujer japonesa de 25 años con piel delicada y blanca como la porcelana, poros visibles y fino vello facial, ojos naturales gris azulado, rasgos faciales sumamente refinados, maquillaje pulido de alta costura y cabello largo, oscuro y ondulado, despeinado por el sueño. Pechos turgentes y llenos copa G con una caída suave y realista por la gravedad y volumen natural gracias a una ligera torsión del torso. Cintura extremadamente esbelta. Se está tomando una selfie en la cama con la cámara frontal: un brazo levantado hacia la lente, sosteniendo un teléfono inteligente que entra en el encuadre desde arriba; el brazo alzado tensa la fina camisola beige acanalada con una elasticidad de tela real y la hendidura de los tirantes. La curva inferior del pecho es visible. No lleva sostén y viste un delicado tanga de hilo fino en las caderas. Expresión: confiada, contenida, sonrisa optimista, ojos mirando a la lente del teléfono como si conociera perfectamente su ángulo.
+2. Entorno y hora
+Cama y almohadas de lino blanco roto de lujo, arrugadas, en un dormitorio tranquilo. Temprano en la mañana, recién despierta. Las sábanas tienen aspecto vivido y arrugas, no de perfección de estudio.
+3. Composición y cámara
+Perspectiva auténtica de selfie con cámara frontal tomada ligeramente desde arriba. Ligero escorzo de selfie debido al brazo levantado. El teléfono o la mano recortados en la parte superior/esquina del encuadre. El cuerpo yace en la cama con una ligera torsión hacia la cámara para que la cintura y la parte inferior del busto se aprecien con claridad. Cuerpo entero o de tres cuartos en el encuadre. Fotorrealista, detalle ultra nítido de la piel y la tela.
+4. Iluminación y estilo
+Varios haces marcados de luz dorada matutina provenientes de la ventana atraviesan la clavícula, la camisola, la cintura y las sábanas. Motas de polvo flotantes visibles en el aire volumétrico. Sensualidad editorial de alta moda con énfasis táctil en la transparencia de la tela, la textura del tejido acanalado, la presión de los tirantes y el peso real del pecho. Sin iluminación brillante de catálogo. Con gusto, de alta gama, naturalmente realista.
+5. Restricciones
+Pezones completamente cubiertos por la camisola; sin desajustes de vestuario; sin enfoque genital explícito; el tanga solo muestra las finas tiras laterales y la línea de la cintura. Ni vulgar ni pornográfico. Solo mujer adulta. Mantener la imagen como una foto matutina creíble tomada por ella misma, no como una pose de estudio fingiendo ser una selfie.
 ```
 
 [↑ Volver a categorías](#catalog)

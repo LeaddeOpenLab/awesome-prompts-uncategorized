@@ -1868,20 +1868,29 @@ Hunderte kleiner Handlichter, die in zwei emporragenden Formen angeordnet sind, 
 
 <a name="prompt-2098562233991049325"></a>
 
-### Übersetzung läuft
+### Junge japanische Frau bei einem morgendlichen Bett-Selfie im beigefarbenen Camisole-Top und String-Tanga, wobei leicht zerzaustes Wellenhaar und sanftes Morgenlicht eine natürliche, edle Atmosphäre schaffen.
 
 Autor：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Originalbeitrag](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Junge japanische Frau bei einem morgendlichen Bett-Selfie im beigefarbenen Camisole-Top und String-Tanga, wobei leicht zerzaustes Wellenhaar und sanftes Morgenlicht eine natürliche, edle Atmosphäre schaffen.
 
 <img src="images/2098562233991049325-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+1. Motiv & Handlung
+Eine 25-jährige japanische Frau mit porzellanheller, zarter Haut, sichtbaren Poren und feinem Flaum, natürlichen grau-blauen Augen, extrem feinen Gesichtszügen, elegantem High-Fashion-Make-up und langem, dunklem, welligem, schlafzerzaustem Haar. Prall gefüllte Brüste mit G-Körbchen, realistisch weichem Hängen durch die Schwerkraft und natürlichem Volumen durch eine leichte Drehung des Oberkörpers. Extrem schlanke Taille. Sie macht ein Bett-Selfie mit der Frontkamera: Ein Arm ist zum Objektiv erhoben und hält ein Smartphone, das von oben ins Bild ragt; der erhobene Arm dehnt das dünne, gerippte beigefarbene Camisole-Top mit echtem Stoffzug und sichtbarem Abdruck der Träger. Die untere Brustrundung (Underboob) ist sichtbar. Sie trägt keinen BH und einen zarten String-Tanga mit feinen Bändern auf den Hüften. Ausdruck: selbstbewusstes, zurückhaltendes, optimistisches Lächeln, die Augen blicken in die Telefonlinse, als kenne sie genau ihren besten Winkel.
+2. Kulisse & Zeit
+Zerwühltes, luxuriöses Bett und Kissen aus cremefarbenem Leinen in einem ruhigen Schlafzimmer. Früher Morgen, kurz nach dem Aufwachen. Bettlaken sind benutzt und zerknittert, nicht studioperfekt.
+3. Komposition & Kamera
+Authentische Frontkamera-Selfie-Perspektive von leicht oben. Leichte Selfie-Verkürzung durch den erhobenen Arm. Smartphone oder Hand oben/am Rand des Bildes angeschnitten. Der Körper liegt auf dem Bett mit einer leichten Drehung zur Kamera, sodass Taille und Unterbrustbereich deutlich zu erkennen sind. Ganz- oder Dreiviertelkörper im Bild. Fotorealistisch, ultrascharfe Haut- und Stoffdetails.
+4. Beleuchtung & Stil
+Mehrere deutliche Strahlen goldenen Morgenfensterlichts, die über Schlüsselbein, Camisole, Taille und Laken fallen. Sichtbare schwebende Staubpartikel in volumetrischer Luft. Sinnlichkeit wie aus einem High-Fashion-Editorial mit taktilem Schwerpunkt auf Stofftransparenz, Rippstricktextur, Trägerdruck und echtem Brustgewicht. Keine glänzende Katalogbeleuchtung. Geschmackvoll, hochwertig, natürlich realistisch.
+5. Einschränkungen
+Brustwarzen vollständig vom Camisole bedeckt; kein Verrutschen der Kleidung; kein expliziter Genitalfokus; vom Tanga sind nur die dünnen Seitenbänder und der Bund zu sehen. Nicht vulgär, nicht pornografisch. Nur erwachsene Frau. Das Bild soll wie ein glaubwürdiges, selbst aufgenommenes Morgenfoto wirken, nicht wie eine Studiopose, die vorgibt, ein Selfie zu sein.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

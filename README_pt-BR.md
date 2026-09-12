@@ -1885,20 +1885,29 @@ Centenas de pequenas luzes seguradas à mão dispostas em duas formas ascendente
 
 <a name="prompt-2098562233991049325"></a>
 
-### Tradução em andamento
+### Jovem mulher japonesa tirando uma selfie matinal na cama, vestindo uma regata bege e calcinha fio-dental de tiras finas, com cabelos ondulados levemente desgrenhados e luz suave da manhã criando uma sensação natural e sofisticada.
 
 Autor：[@AIGirl\_Show](https://x.com/AIGirl_Show) · [Publicação original](https://x.com/AIGirl_Show/status/2098562233991049325)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Jovem mulher japonesa tirando uma selfie matinal na cama, vestindo uma regata bege e calcinha fio-dental de tiras finas, com cabelos ondulados levemente desgrenhados e luz suave da manhã criando uma sensação natural e sofisticada.
 
 <img src="images/2098562233991049325-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+1. Sujeito e Ação
+Uma mulher japonesa de 25 anos com pele delicada, clara como porcelana, poros visíveis e penugem fina, olhos naturais cinza-azulados, traços faciais extremamente refinados, maquiagem refinada de alta moda e cabelos longos e escuros, ondulados e bagunçados pelo sono. Seios fartos e volumosos tamanho G com caimento realista pela gravidade suave e volume natural decorrente de uma leve torção do tronco. Cintura extremamente fina. Ela está tirando uma selfie na cama com a câmera frontal: um braço levantado em direção à lente, segurando um smartphone que entra no enquadramento por cima; o braço levantado estica a fina regata canelada bege com tensão real do tecido e marcação da alça na pele. A curva inferior dos seios é visível. Ela não usa sutiã e veste uma calcinha fio-dental delicada de tiras finas nos quadris. Expressão: sorriso confiante, contido e otimista, olhos fitando a lente do celular como se conhecesse perfeitamente o seu melhor ângulo.
+2. Cenário e Horário
+Cama e travesseiros de linho off-white de luxo amarrotados em um quarto silencioso. Início da manhã, logo após acordar. Lençóis com aspecto de usados e amassados, não impecáveis de estúdio.
+3. Composição e Câmera
+Perspectiva autêntica de selfie com câmera frontal vista ligeiramente de cima. Suave encurtamento de perspectiva típico de selfie devido ao braço levantado. Telefone ou mão cortados no topo/canto do enquadramento. O corpo está deitado na cama com uma leve torção em direção à câmera para que a cintura e a curva sob o busto sejam claramente visíveis. Corpo inteiro ou três quartos no enquadramento. Fotorrealista, detalhes ultranítidos de pele e tecido.
+4. Iluminação e Estilo
+Vários feixes distintos de luz dourada matinal vindos da janela cortando a clavícula, a regata, a cintura e os lençóis. Partículas visíveis de poeira flutuando no ar volumétrico. Sensualidade editorial de alta moda com ênfase tátil na leve transparência do tecido, textura da malha canelada, pressão da alça e peso natural dos seios. Sem iluminação brilhante de catálogo. Elegante, sofisticado, naturalmente realista.
+5. Restrições
+Mamilos totalmente cobertos pela regata; sem falhas no vestuário; sem foco genital explícito; a calcinha fio-dental mostra apenas as tiras laterais finas e a linha da cintura. Não vulgar, não pornográfico. Apenas mulher adulta. Mantenha a imagem como uma foto matinal crível tirada por ela mesma, e não uma pose de estúdio fingindo ser uma selfie.
 ```
 
 [↑ Voltar às categorias](#catalog)
