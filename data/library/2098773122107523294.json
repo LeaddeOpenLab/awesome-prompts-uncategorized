@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T15:36:17.567Z",
+  "model": "unknown-image",
+  "prompt": "将这张普通旅行照制作成3:4竖版上下对照海报。上方保留同一场景的真实旅行照片，标注“ORIGINAL PHOTO”。下方把同一场景重建成一个居中的等距纸雕记忆模型：一个悬浮方形地形基座，3/4等距视角，保留原照片中的主要建筑、山体、海岸、道路或拱门关系，使用分层纸片、切面、细黑线稿、自然低饱和色彩、纸张颗粒和柔和投影。下半必须是真正的结构化微缩模型，不是照片滤镜或平面插画。标注“ISOMETRIC MEMORY DIORAMA”，不要人物、Logo、水印和无关物件。",
+  "promptTranslations": {
+    "en": "Create a 3:4 vertical top-bottom comparison poster from this ordinary travel photo. The upper half preserves the real travel photo of the same scene, labeled \"ORIGINAL PHOTO\". The lower half reconstructs the same scene into a centered isometric papercraft memory diorama: a floating square terrain base, 3/4 isometric perspective, retaining the relationships of the main architecture, mountains, coastline, roads, or arches from the original photo, using layered paper cutouts, facets, fine black line art, natural low-saturation colors, paper grain texture, and soft shadows. The lower half must be a true structured miniature model, not a photo filter or a flat illustration. Labeled \"ISOMETRIC MEMORY DIORAMA\", without people, logos, watermarks, or irrelevant objects."
+  },
+  "summaryTranslations": {
+    "en": "Top-bottom comparison poster: Original photo on top, converted into an isometric paper-cut miniature diorama below."
+  },
+  "translationVersion": 2,
+  "summary": "上下对比海报：上方原图，下方转为等距纸雕微缩立体模型。",
+  "summaryEn": "Comparison poster: top original photo, bottom converted to an isometric paper-cut miniature model.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098773122107523294",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2098773122107523294",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-12T13:58:00.000Z",
+    "collectedAt": "2026-09-12T15:20:16.656Z",
+    "language": "zh",
+    "originalText": "【等距纸雕微缩模型风】\n把普通旅游照片压缩成一个悬浮的等距地形模型，保留建筑、山体、海岸和拱门的识别特征，同时加入纸张切面、阴影和手工模型质感。\n\nprompt：\n将这张普通旅行照制作成3:4竖版上下对照海报。上方保留同一场景的真实旅行照片，标注“ORIGINAL PHOTO”。下方把同一场景重建成一个居中的等距纸雕记忆模型：一个悬浮方形地形基座，3/4等距视角，保留原照片中的主要建筑、山体、海岸、道路或拱门关系，使用分层纸片、切面、细黑线稿、自然低饱和色彩、纸张颗粒和柔和投影。下半必须是真正的结构化微缩模型，不是照片滤镜或平面插画。标注“ISOMETRIC MEMORY DIORAMA”，不要人物、Logo、水印和无关物件。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-nn05bYAEDl6q.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-nn05bYAEDl6q.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-nn02bsAAqIQR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-nn02bsAAqIQR.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-nn08a0AAsHFM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-nn08a0AAsHFM.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-nn1AbEAAkfEr.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-nn1AbEAAkfEr.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 582
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2098773122107523294",
+  "coverUrl": "https://pbs.twimg.com/media/HR-nn05bYAEDl6q.jpg",
+  "coverPath": "images/2098773122107523294-1.jpg",
+  "imagePaths": [
+    "images/2098773122107523294-1.jpg",
+    "images/2098773122107523294-2.jpg",
+    "images/2098773122107523294-3.jpg",
+    "images/2098773122107523294-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR-nn05bYAEDl6q",
+    "x-image:/media/HR-nn02bsAAqIQR",
+    "x-image:/media/HR-nn08a0AAsHFM",
+    "x-image:/media/HR-nn1AbEAAkfEr",
+    "x-post:2098773122107523294"
+  ],
+  "analysis": {
+    "summary": "上下对比海报：上方原图，下方转为等距纸雕微缩立体模型。",
+    "summaryEn": "Comparison poster: top original photo, bottom converted to an isometric paper-cut miniature model.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均呈现为3:4上下对照版式，上方为真实风景照并标注ORIGINAL PHOTO，下方为对应的悬浮方形基座等距纸雕模型，完全符合提示词描述。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "将这张普通旅行照制作成3:4竖版上下对照海报。上方保留同一场景的真实旅行照片，标注“ORIGINAL PHOTO”。下方把同一场景重建成一个居中的等距纸雕记忆模型：一个悬浮方形地形基座，3/4等距视角，保留原照片中的主要建筑、山体、海岸、道路或拱门关系，使用分层纸片、切面、细黑线稿、自然低饱和色彩、纸张颗粒和柔和投影。下半必须是真正的结构化微缩模型，不是照片滤镜或平面插画。标注“ISOMETRIC MEMORY DIORAMA”，不要人物、Logo、水印和无关物件。",
+    "sourceRange": {
+      "start": 82,
+      "end": 317
+    },
+    "translations": {
+      "zh": "将这张普通旅行照制作成3:4竖版上下对照海报。上方保留同一场景的真实旅行照片，标注“ORIGINAL PHOTO”。下方把同一场景重建成一个居中的等距纸雕记忆模型：一个悬浮方形地形基座，3/4等距视角，保留原照片中的主要建筑、山体、海岸、道路或拱门关系，使用分层纸片、切面、细黑线稿、自然低饱和色彩、纸张颗粒和柔和投影。下半必须是真正的结构化微缩模型，不是照片滤镜或平面插画。标注“ISOMETRIC MEMORY DIORAMA”，不要人物、Logo、水印和无关物件。",
+      "en": "Turn this ordinary travel photo into a 3:4 vertical comparison poster. The top half keeps the real travel photo labeled 'ORIGINAL PHOTO'. The bottom half reconstructs it into a centered isometric paper-cut diorama on a floating square base in 3/4 isometric view, retaining key architecture, terrain, and coastlines with layered paper cuts, fine outlines, desaturated tones, and soft shadows, labeled 'ISOMETRIC MEMORY DIORAMA'. No people, logos, or watermarks."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "image-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
