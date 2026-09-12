@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**95** Prompts · Latest addition: **2026-09-12**
+**96** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1961,6 +1961,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098573808521113742"></a>
+
+### Convert Cybertruck photo into a 3-row SUV
+
+Author：[@TroyDMeyers](https://x.com/TroyDMeyers) · [Source](https://x.com/TroyDMeyers/status/2098573808521113742)
+
+Other · Published
+
+**Summary:** Convert Cybertruck photo into a 3-row SUV
+
+<img src="covers/2098573808521113742.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Utilize a pic of a Cybertruck and convert it into a 3 row SUV
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098626427792798007"></a>
 
