@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:27:07.777Z",
+  "model": "unknown-image",
+  "prompt": "Ultra-realistic cinematic luxury fashion photograph of a strikingly handsome young man in his early 20s standing confidently inside a grand Dark Academia library. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated dark-brown wool blazer over a black turtleneck, tailored black trousers, and a vintage leather watch.\nThe library is filled with towering antique wooden bookshelves packed with old leather-bound books, stacks of aged manuscripts, vintage wooden tables, ornate brass lamps, candle-like warm lighting, and elegant classical architecture. Warm golden lamps illuminate his face while the surrounding room falls into deep cinematic shadows. Dust particles subtly float through narrow beams of light, creating an atmospheric scholarly mood.\nHe stands beside an antique wooden desk holding an open vintage book, one hand resting naturally on the pages, looking thoughtfully toward the camera with a calm, intelligent, mysterious expression. Rich brown wood, dark mahogany tones, warm amber lighting, subtle film grain, dramatic chiaroscuro, shallow depth of field, realistic skin texture and pores, natural facial details, sophisticated editorial composition, cinematic color grading, 85mm lens, f/1.8, HDR, ultra-detailed, photorealistic, 8K, premium fashion editorial photography, no artificial or AI-looking face.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic luxury fashion photograph of a strikingly handsome young man in his early 20s standing confidently inside a grand Dark Academia library. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated dark-brown wool blazer over a black turtleneck, tailored black trousers, and a vintage leather watch. The library is filled with towering antique wooden bookshelves packed with old leather-bound books, stacks of aged manuscripts, vintage wooden tables, ornate brass lamps, candle-like warm lighting, and elegant classical architecture. Warm golden lamps illuminate his face while the surrounding room falls into deep cinematic shadows. Dust particles subtly float through narrow beams of light, creating an atmospheric scholarly mood. He stands beside an antique wooden desk holding an open vintage book, one hand resting naturally on the pages, looking thoughtfully toward the camera with a calm, intelligent, mysterious expression. Rich brown wood, dark mahogany tones, warm amber lighting, subtle film grain, dramatic chiaroscuro, shallow depth of field, realistic skin texture and pores, natural facial details, sophisticated editorial composition, cinematic color grading, 85mm lens, f/1.8, HDR, ultra-detailed, photorealistic, 8K, premium fashion editorial photography, no artificial or AI-looking face."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk.",
+  "summaryEn": "Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098605916199456804",
+    "canonicalUrl": "https://x.com/MohdAdnanA86218/status/2098605916199456804",
+    "author": {
+      "username": "MohdAdnanA86218",
+      "displayName": "HeisenLegacy",
+      "profileUrl": "https://x.com/MohdAdnanA86218"
+    },
+    "publishedAt": "2026-09-12T02:53:35.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "en",
+    "originalText": "Image created on Gpt 2\n\nPrompt:\nUltra-realistic cinematic luxury fashion photograph of a strikingly handsome young man in his early 20s standing confidently inside a grand Dark Academia library. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated dark-brown wool blazer over a black turtleneck, tailored black trousers, and a vintage leather watch.\nThe library is filled with towering antique wooden bookshelves packed with old leather-bound books, stacks of aged manuscripts, vintage wooden tables, ornate brass lamps, candle-like warm lighting, and elegant classical architecture. Warm golden lamps illuminate his face while the surrounding room falls into deep cinematic shadows. Dust particles subtly float through narrow beams of light, creating an atmospheric scholarly mood.\nHe stands beside an antique wooden desk holding an open vintage book, one hand resting naturally on the pages, looking thoughtfully toward the camera with a calm, intelligent, mysterious expression. Rich brown wood, dark mahogany tones, warm amber lighting, subtle film grain, dramatic chiaroscuro, shallow depth of field, realistic skin texture and pores, natural facial details, sophisticated editorial composition, cinematic color grading, 85mm lens, f/1.8, HDR, ultra-detailed, photorealistic, 8K, premium fashion editorial photography, no artificial or AI-looking face.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR--87Ha8AAksPj.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR--87Ha8AAksPj.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 1,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 247
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MohdAdnanA86218/status/2098605916199456804",
+  "coverUrl": "https://pbs.twimg.com/media/HR--87Ha8AAksPj.jpg",
+  "coverPath": "images/2098605916199456804-1.jpg",
+  "imagePaths": [
+    "images/2098605916199456804-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR--87Ha8AAksPj",
+    "x-post:2098605916199456804"
+  ],
+  "analysis": {
+    "summary": "Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk.",
+    "summaryEn": "Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached portrait accurately depicts the young man with dark wavy hair and stubble in a brown wool blazer and black turtleneck, standing in a dark wood library beside a desk with an open book and warm brass lamp."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic luxury fashion photograph of a strikingly handsome young man in his early 20s standing confidently inside a grand Dark Academia library. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated dark-brown wool blazer over a black turtleneck, tailored black trousers, and a vintage leather watch.\nThe library is filled with towering antique wooden bookshelves packed with old leather-bound books, stacks of aged manuscripts, vintage wooden tables, ornate brass lamps, candle-like warm lighting, and elegant classical architecture. Warm golden lamps illuminate his face while the surrounding room falls into deep cinematic shadows. Dust particles subtly float through narrow beams of light, creating an atmospheric scholarly mood.\nHe stands beside an antique wooden desk holding an open vintage book, one hand resting naturally on the pages, looking thoughtfully toward the camera with a calm, intelligent, mysterious expression. Rich brown wood, dark mahogany tones, warm amber lighting, subtle film grain, dramatic chiaroscuro, shallow depth of field, realistic skin texture and pores, natural facial details, sophisticated editorial composition, cinematic color grading, 85mm lens, f/1.8, HDR, ultra-detailed, photorealistic, 8K, premium fashion editorial photography, no artificial or AI-looking face.",
+    "sourceRange": {
+      "start": 32,
+      "end": 1566
+    },
+    "translations": {
+      "zh": "深色学院风图书馆中英俊青年的高端时尚大片。他身穿深棕色羊毛西装搭配黑色高领衫，手扶书桌上的复古书本，神情沉稳深邃。环境为古典木质书架、黄铜灯与暖琥珀色影调，采用85mm胶片质感及明暗对照构图。",
+      "en": "Cinematic luxury fashion photo of a handsome young man in a Dark Academia library. He wears a brown wool blazer over a black turtleneck, standing by a desk with an open book amid antique bookshelves, warm brass lamps, and chiaroscuro lighting."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "editorial portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
