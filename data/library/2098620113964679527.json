@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T04:28:22.182Z",
+  "model": "unknown-image",
+  "prompt": "Use the uploaded photo as the main composition and visual reference. Create a photorealistic editorial portrait of an adult man lying comfortably on a lush green lawn scattered with small delicate flowers.\n\nFrame the image from a close overhead/top-down angle, focusing mainly on his face, shoulders, and upper torso. Position his head slightly toward the upper center of the composition, with one arm bent behind his head in a relaxed pose. He should look directly into the camera with a calm, confident expression and a subtle natural smile.\n\nGive him a clean short low-cut hairstyle with a neat taper and sharp natural hairline, clean-shaven face, smooth natural skin texture, balanced facial proportions, and clear expressive eyes.\n\nDress him in a sophisticated dark formal outfit: a black tailored blazer layered over a dark waistcoat, paired with a crisp light-blue button-up shirt worn open at the collar. No tie, no chain, no necklace, and no earrings.\n\nSurround him with rich green grass and scattered small white, pale pink, lavender, and blue flowers, creating a soft romantic garden atmosphere. Some flowers should be slightly blurred toward the edges to enhance depth.\n\nUse soft natural daylight with subtle highlights across the face, gentle shadows, realistic skin tones, and shallow depth of field. Keep the subject’s face extremely sharp while the surrounding grass and flowers gradually soften.\n\nStyle: luxury fashion editorial, cinematic outdoor portrait, premium magazine photography, realistic skin detail, clean grooming, vibrant but natural colors, soft background separation, high dynamic range, 85mm portrait feel, ultra-photorealistic, high-detail, 8K quality.\n\nComposition: vertical 4:5 portrait, overhead camera angle, close-up framing, face as the main focal point, relaxed elegant mood.",
+  "promptTranslations": {
+    "en": "Use the uploaded photo as the main composition and visual reference. Create a photorealistic editorial portrait of an adult man lying comfortably on a lush green lawn scattered with small delicate flowers.\n\nFrame the image from a close overhead/top-down angle, focusing mainly on his face, shoulders, and upper torso. Position his head slightly toward the upper center of the composition, with one arm bent behind his head in a relaxed pose. He should look directly into the camera with a calm, confident expression and a subtle natural smile.\n\nGive him a clean short low-cut hairstyle with a neat taper and sharp natural hairline, clean-shaven face, smooth natural skin texture, balanced facial proportions, and clear expressive eyes.\n\nDress him in a sophisticated dark formal outfit: a black tailored blazer layered over a dark waistcoat, paired with a crisp light-blue button-up shirt worn open at the collar. No tie, no chain, no necklace, and no earrings.\n\nSurround him with rich green grass and scattered small white, pale pink, lavender, and blue flowers, creating a soft romantic garden atmosphere. Some flowers should be slightly blurred toward the edges to enhance depth.\n\nUse soft natural daylight with subtle highlights across the face, gentle shadows, realistic skin tones, and shallow depth of field. Keep the subject’s face extremely sharp while the surrounding grass and flowers gradually soften.\n\nStyle: luxury fashion editorial, cinematic outdoor portrait, premium magazine photography, realistic skin detail, clean grooming, vibrant but natural colors, soft background separation, high dynamic range, 85mm portrait feel, ultra-photorealistic, high-detail, 8K quality.\n\nComposition: vertical 4:5 portrait, overhead camera angle, close-up framing, face as the main focal point, relaxed elegant mood."
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic editorial portrait of a man lying on grass with flowers in formal attire."
+  },
+  "translationVersion": 2,
+  "summary": "Photorealistic editorial portrait of a man lying on grass with flowers in formal attire.",
+  "summaryEn": "Photorealistic editorial portrait of a man lying on grass with flowers in formal attire.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098620113964679527",
+    "canonicalUrl": "https://x.com/abs_uiux/status/2098620113964679527",
+    "author": {
+      "username": "abs_uiux",
+      "displayName": "Abkr Sadiq",
+      "profileUrl": "https://x.com/abs_uiux"
+    },
+    "publishedAt": "2026-09-12T03:50:00.000Z",
+    "collectedAt": "2026-09-12T04:17:01.011Z",
+    "language": "en",
+    "originalText": "Your environment doesn’t define your future. Your vision, discipline, and consistency do.\n\nPrompt:\n\nUse the uploaded photo as the main composition and visual reference. Create a photorealistic editorial portrait of an adult man lying comfortably on a lush green lawn scattered with small delicate flowers.\n\nFrame the image from a close overhead/top-down angle, focusing mainly on his face, shoulders, and upper torso. Position his head slightly toward the upper center of the composition, with one arm bent behind his head in a relaxed pose. He should look directly into the camera with a calm, confident expression and a subtle natural smile.\n\nGive him a clean short low-cut hairstyle with a neat taper and sharp natural hairline, clean-shaven face, smooth natural skin texture, balanced facial proportions, and clear expressive eyes.\n\nDress him in a sophisticated dark formal outfit: a black tailored blazer layered over a dark waistcoat, paired with a crisp light-blue button-up shirt worn open at the collar. No tie, no chain, no necklace, and no earrings.\n\nSurround him with rich green grass and scattered small white, pale pink, lavender, and blue flowers, creating a soft romantic garden atmosphere. Some flowers should be slightly blurred toward the edges to enhance depth.\n\nUse soft natural daylight with subtle highlights across the face, gentle shadows, realistic skin tones, and shallow depth of field. Keep the subject’s face extremely sharp while the surrounding grass and flowers gradually soften.\n\nStyle: luxury fashion editorial, cinematic outdoor portrait, premium magazine photography, realistic skin detail, clean grooming, vibrant but natural colors, soft background separation, high dynamic range, 85mm portrait feel, ultra-photorealistic, high-detail, 8K quality.\n\nComposition: vertical 4:5 portrait, overhead camera angle, close-up framing, face as the main focal point, relaxed elegant mood.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR-Uz2pbcAA8zXO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR-Uz2pbcAA8zXO.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 1,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 291
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/abs_uiux/status/2098620113964679527",
+  "coverUrl": "https://pbs.twimg.com/media/HR-Uz2pbcAA8zXO.jpg",
+  "coverPath": "images/2098620113964679527-1.jpg",
+  "imagePaths": [
+    "images/2098620113964679527-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR-Uz2pbcAA8zXO",
+    "x-post:2098620113964679527"
+  ],
+  "analysis": {
+    "summary": "Photorealistic editorial portrait of a man lying on grass with flowers in formal attire.",
+    "summaryEn": "Photorealistic editorial portrait of a man lying on grass with flowers in formal attire.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the image: man lying in grass with flowers, overhead angle, dark suit, waistcoat, and blue shirt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Use the uploaded photo as the main composition and visual reference. Create a photorealistic editorial portrait of an adult man lying comfortably on a lush green lawn scattered with small delicate flowers.\n\nFrame the image from a close overhead/top-down angle, focusing mainly on his face, shoulders, and upper torso. Position his head slightly toward the upper center of the composition, with one arm bent behind his head in a relaxed pose. He should look directly into the camera with a calm, confident expression and a subtle natural smile.\n\nGive him a clean short low-cut hairstyle with a neat taper and sharp natural hairline, clean-shaven face, smooth natural skin texture, balanced facial proportions, and clear expressive eyes.\n\nDress him in a sophisticated dark formal outfit: a black tailored blazer layered over a dark waistcoat, paired with a crisp light-blue button-up shirt worn open at the collar. No tie, no chain, no necklace, and no earrings.\n\nSurround him with rich green grass and scattered small white, pale pink, lavender, and blue flowers, creating a soft romantic garden atmosphere. Some flowers should be slightly blurred toward the edges to enhance depth.\n\nUse soft natural daylight with subtle highlights across the face, gentle shadows, realistic skin tones, and shallow depth of field. Keep the subject’s face extremely sharp while the surrounding grass and flowers gradually soften.\n\nStyle: luxury fashion editorial, cinematic outdoor portrait, premium magazine photography, realistic skin detail, clean grooming, vibrant but natural colors, soft background separation, high dynamic range, 85mm portrait feel, ultra-photorealistic, high-detail, 8K quality.\n\nComposition: vertical 4:5 portrait, overhead camera angle, close-up framing, face as the main focal point, relaxed elegant mood.",
+    "sourceRange": {
+      "start": 100,
+      "end": 1916
+    },
+    "translations": {
+      "zh": "以附带照片为构图与视觉参考，生成写实时尚肖像：成年男子舒适躺在点缀着小花的草坪上。采用俯视特写构图，聚焦面部、肩膀和上半身，单手枕在头后。男子留有短寸发型、干净胡须与光滑皮肤，神态平静自信。身着黑色西装外套、深色马甲与浅蓝色开领衬衫。四周环绕绿草及白、粉、紫、蓝小花，景深虚化，自然日光照明，高画质奢华时尚大片风格。",
+      "en": "Use the uploaded photo as the main composition and visual reference. Create a photorealistic editorial portrait of an adult man lying comfortably on a lush green lawn scattered with small delicate flowers.\n\nFrame the image from a close overhead/top-down angle, focusing mainly on his face, shoulders, and upper torso. Position his head slightly toward the upper center of the composition, with one arm bent behind his head in a relaxed pose. He should look directly into the camera with a calm, confident expression and a subtle natural smile.\n\nGive him a clean short low-cut hairstyle with a neat taper and sharp natural hairline, clean-shaven face, smooth natural skin texture, balanced facial proportions, and clear expressive eyes.\n\nDress him in a sophisticated dark formal outfit: a black tailored blazer layered over a dark waistcoat, paired with a crisp light-blue button-up shirt worn open at the collar. No tie, no chain, no necklace, and no earrings.\n\nSurround him with rich green grass and scattered small white, pale pink, lavender, and blue flowers, creating a soft romantic garden atmosphere. Some flowers should be slightly blurred toward the edges to enhance depth.\n\nUse soft natural daylight with subtle highlights across the face, gentle shadows, realistic skin tones, and shallow depth of field. Keep the subject’s face extremely sharp while the surrounding grass and flowers gradually soften.\n\nStyle: luxury fashion editorial, cinematic outdoor portrait, premium magazine photography, realistic skin detail, clean grooming, vibrant but natural colors, soft background separation, high dynamic range, 85mm portrait feel, ultra-photorealistic, high-detail, 8K quality.\n\nComposition: vertical 4:5 portrait, overhead camera angle, close-up framing, face as the main focal point, relaxed elegant mood."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
