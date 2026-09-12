@@ -1684,20 +1684,160 @@ Traducción en curso
 
 <a name="prompt-2098548428926308770"></a>
 
-### Traducción en curso
+### Prompt de atuendo y prompt negativo que describen detalladamente el material, los pliegues y la forma de colocación de una gran toalla de baño envuelta en un onsen.
 
 Autor：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Publicación original](https://x.com/hiyayaxtukog68/status/2098548428926308770)
 
 Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de atuendo y prompt negativo que describen detalladamente el material, los pliegues y la forma de colocación de una gran toalla de baño envuelta en un onsen.
 
 <img src="images/2098548428926308770-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+ATUENDO DE BAÑO DE ONSEN:
+
+una toalla de baño blanca grande,
+toalla de baño japonesa de tamaño completo,
+confección en felpa de algodón gruesa y opaca,
+textura de felpa suave y afelpada,
+color blanco puro limpio a blanco muy ligeramente cálido,
+
+la toalla está envuelta de forma segura alrededor del torso,
+confección de toalla envuelta sin tirantes,
+borde superior colocado alto y de forma segura alrededor de la parte superior del torso,
+envoltura firme pero cómoda,
+
+lo suficientemente ancha como para solaparse completamente al frente,
+solapamiento frontal sustancial,
+sin abertura visible entre los paneles de toalla superpuestos,
+
+sección frontal formada a partir de varios pliegues diagonales y verticales naturales,
+pliegues suaves y fruncidos causados por el enrollado,
+ligeros pliegues de compresión alrededor del borde superior,
+pliegues superpuestos más profundos hacia el centro del frente,
+
+la toalla sigue el cuerpo de forma natural sin volverse ceñida a la piel,
+volumen de tela moderado,
+textura de algodón suave y voluminosa,
+claramente más gruesa que la tela de ropa ordinaria,
+
+borde superior:
+borde de felpa grueso enrollado o suavemente doblado,
+borde de toalla natural ligeramente irregular,
+sostenido de forma segura en su lugar,
+sin deslizarse hacia abajo,
+
+frente:
+confección envuelta superpuesta,
+caída asimétrica suave,
+varios pliegues anchos de tela,
+fruncido natural de la toalla,
+sin nudo visible,
+sin lazo,
+sin cinturón,
+sin tirantes,
+sin botones,
+sin cremallera,
+
+parte inferior visible:
+continúa hacia abajo por debajo de la línea de agua visible,
+borde inferior parcialmente húmedo por el contacto con el agua del baño,
+textura de felpa ligeramente más oscura y de aspecto más pesado cerca de la línea de agua,
+pero la toalla permanece opaca,
+
+MATERIAL:
+apariencia de felpa similar a 100% algodón,
+bucle de toalla denso,
+superficie suave y absorbente,
+tela mate,
+ligera absorción de humedad,
+textura sutil de tela humedecida solo cerca de las áreas en contacto con el agua,
+
+sin transparencia,
+sin textura de satén brillante,
+sin seda,
+sin encaje,
+sin malla,
+
+EN GENERAL:
+envoltura de baño de onsen japonés simple y práctica,
+apariencia de baño limpia y modesta,
+minimalista,
+funcional,
+envuelta de forma segura,
+sin estilo de moda decorativo
+
+再現性を上げるネガティブプロンプト
+NEGATIVE OUTFIT PROMPT:
+
+toalla pequeña,
+toalla de mano,
+toalla delgada,
+toalla corta,
+toalla estrecha,
+
+toalla transparente,
+tela semitransparente,
+toalla translúcida,
+tela transparente mojada,
+tela transparente pegajosa,
+
+toalla que se resbala,
+toalla que se cae,
+toalla suelta no asegurada,
+frente de toalla abierto,
+gran abertura en la toalla,
+solapamiento de tela insuficiente,
+
+borde de toalla en posición baja,
+toalla doblada demasiado baja,
+borde superior inestable,
+
+nudo de toalla,
+lazo grande,
+cinturón alrededor de la toalla,
+tirantes para hombros,
+tirante halter,
+tirantes finos,
+
+albornoz,
+yukata,
+kimono,
+bata,
+vestido,
+camisa,
+camisola,
+lencería,
+ropa interior,
+traje de baño,
+bikini,
+traje de baño de una pieza,
+
+adorno de encaje,
+volantes,
+bordado,
+estampado,
+toalla floral,
+toalla de color,
+logotipo,
+texto legible,
+
+seda,
+satén,
+vinilo,
+látex,
+malla,
+
+joyería,
+collar,
+gargantilla,
+pulsera,
+reloj de pulsera,
+pendientes,
+tobillera
 ```
 
 [↑ Volver a categorías](#catalog)

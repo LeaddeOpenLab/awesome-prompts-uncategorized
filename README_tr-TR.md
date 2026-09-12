@@ -1701,20 +1701,160 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098548428926308770"></a>
 
-### Çeviri sürüyor
+### Onsen banyosunda vücuda sarılan büyük banyo havlusunun malzemesini, kıvrımlarını ve giyilme biçimini ayrıntılı olarak açıklayan kıyafet istemi ve negatif istemi.
 
 Yazar：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Orijinal gönderi](https://x.com/hiyayaxtukog68/status/2098548428926308770)
 
 Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Onsen banyosunda vücuda sarılan büyük banyo havlusunun malzemesini, kıvrımlarını ve giyilme biçimini ayrıntılı olarak açıklayan kıyafet istemi ve negatif istemi.
 
 <img src="images/2098548428926308770-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+ONSEN BANYO KIYAFETİ:
+
+büyük, beyaz bir banyo havlusu,
+tam boy Japon banyo havlusu,
+kalın, opak pamuklu havlu kumaş yapısı,
+yumuşak pelüş havlu dokusu,
+temiz, saf beyazdan çok hafif sıcak beyaza çalan renk,
+
+havlu gövdeye sıkıca sarılmış,
+askısız sarılmış havlu yapısı,
+üst kenar gövdenin üst kısmına yüksek ve güvenli bir şekilde yerleştirilmiş,
+sıkı ama rahat bir sarma,
+
+ön tarafta tamamen üst üste binecek kadar geniş,
+belirgin ön örtüşme,
+üst üste binen havlu panelleri arasında görünür bir açıklık yok,
+
+ön kısım birkaç doğal diyagonal ve dikey kıvrımdan oluşmuş,
+sarmadan kaynaklanan yumuşak büzgülü kıvrımlar,
+üst kenar çevresinde hafif sıkışma kıvrımları,
+ön merkeze doğru daha derin örtüşen kıvrımlar,
+
+havlu cilde tamamen yapışmadan vücudu doğal bir şekilde takip ediyor,
+orta düzeyde kumaş hacmi,
+yumuşak, dolgun pamuk dokusu,
+sıradan giysi kumaşından belirgin şekilde daha kalın,
+
+üst kenar:
+kalın kıvrılmış veya yumuşakça katlanmış havlu kumaş kenarı,
+hafif düzensiz doğal havlu kenarı,
+yerinde güvenle duran,
+aşağı kaymayan,
+
+ön taraf:
+örtüşen sarılı yapı,
+yumuşak asimetrik döküm,
+birkaç geniş kumaş kırışıklığı,
+doğal havlu toplanması,
+görünür düğüm yok,
+fiyonk yok,
+kemer yok,
+askı yok,
+düğme yok,
+fermuar yok,
+
+görünen alt kısım:
+görünen su çizgisinin altına doğru devam ediyor,
+alt kenar banyo suyuyla temas nedeniyle kısmen ıslak,
+su çizgisine yakın kısımlarda biraz daha koyu ve daha ağır görünen havlu kumaş dokusu,
+ancak havlu opak kalmaya devam ediyor,
+
+MALZEME:
+%100 pamuk benzeri havlu kumaş görünümü,
+yoğun ilmekli havlu dokusu,
+yumuşak emici yüzey,
+mat kumaş,
+hafif nem emilimi,
+sadece suyla temas eden alanların yakınında ince nemli kumaş dokusu,
+
+şeffaflık yok,
+parlak saten dokusu yok,
+ipek yok,
+dantel yok,
+file yok,
+
+GENEL:
+sade ve pratik Japon onsen banyo sarması,
+temiz, mütevazı banyo görünümü,
+minimalist,
+işlevsel,
+güvenle sarılmış,
+dekoratif moda tasarımı yok
+
+再現性を上げるネガティブプロンプト
+NEGATIVE OUTFIT PROMPT:
+
+küçük havlu,
+el havlusu,
+ince havlu,
+kısa havlu,
+dar havlu,
+
+şeffaf havlu,
+yarı şeffaf kumaş,
+iç gösteren havlu,
+ıslak şeffaf kumaş,
+vücuda yapışan şeffaf kumaş,
+
+kayan havlu,
+düşen havlu,
+gevşek sabitlenmemiş havlu,
+açık havlu önü,
+havluda büyük boşluk,
+yetersiz kumaş örtüşmesi,
+
+aşağı yerleştirilmiş havlu kenarı,
+çok aşağıdan katlanmış havlu,
+sabit olmayan üst kenar,
+
+havlu düğümü,
+büyük fiyonk,
+havlu etrafında kemer,
+omuz askıları,
+boyundan bağlama askı,
+spagetti askılar,
+
+bornoz,
+yukata,
+kimono,
+sabahlık,
+elbise,
+gömlek,
+kamisol,
+iç çamaşırı,
+lingerie,
+mayo,
+bikini,
+tek parça mayo,
+
+dantel süsleme,
+fırfırlar,
+işleme,
+baskılı desen,
+çiçekli havlu,
+renkli havlu,
+logo,
+okunabilir metin,
+
+ipek,
+saten,
+vinil,
+lateks,
+file,
+
+takı,
+kolye,
+tasma kolye,
+bilezik,
+kol saati,
+küpe,
+halhal
 ```
 
 [↑ Kategorilere dön](#catalog)

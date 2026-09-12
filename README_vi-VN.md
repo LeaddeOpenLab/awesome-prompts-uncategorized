@@ -1719,20 +1719,160 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098548428926308770"></a>
 
-### Đang dịch
+### Lời nhắc trang phục và lời nhắc phủ định mô tả chi tiết chất liệu, nếp gấp và cách quấn của chiếc khăn tắm lớn quấn người trong suối nước nóng onsen.
 
 Tác giả：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Bài gốc](https://x.com/hiyayaxtukog68/status/2098548428926308770)
 
 Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc trang phục và lời nhắc phủ định mô tả chi tiết chất liệu, nếp gấp và cách quấn của chiếc khăn tắm lớn quấn người trong suối nước nóng onsen.
 
 <img src="images/2098548428926308770-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+TRANG PHỤC TẮM ONSEN:
+
+một chiếc khăn tắm lớn màu trắng,
+khăn tắm Nhật Bản cỡ lớn,
+chất liệu vải bông terry dày dặn không xuyên thấu,
+kết cấu lông terry mềm mại như nhung,
+màu trắng tinh khiết sạch sẽ đến trắng ấm rất nhẹ,
+
+khăn được quấn chắc chắn quanh thân người,
+thiết kế khăn quấn cúp ngực không dây,
+mép trên được đặt ở vị trí cao và chắc chắn quanh phần ngực trên,
+quấn chặt nhưng thoải mái,
+
+đủ rộng để đè chéo phủ kín hoàn toàn ở phía trước,
+phần vạt đè chồng phía trước đáng kể,
+không có khe hở nhìn thấy được giữa các lớp khăn đè lên nhau,
+
+phần phía trước được hình thành từ nhiều nếp gấp chéo và thẳng đứng tự nhiên,
+các nếp gấp thu mềm mại do việc quấn tạo ra,
+nếp gấp nén nhẹ xung quanh mép trên,
+các nếp gấp đè sâu hơn về phía trung tâm mặt trước,
+
+khăn ôm theo cơ thể một cách tự nhiên mà không bị bó sát vào da,
+độ dày rủ của vải vừa phải,
+kết cấu vải bông dày dặn mềm mại,
+dày hơn rõ rệt so với vải quần áo thông thường,
+
+mép trên:
+mép vải terry cuộn dày hoặc gấp mềm mại,
+mép khăn tự nhiên hơi không đều một chút,
+được giữ chắc chắn tại chỗ,
+không bị tuột xuống,
+
+mặt trước:
+thiết kế quấn đè lớp lên nhau,
+độ rủ bất đối xứng mềm mại,
+một vài nếp nhăn vải bản rộng,
+khăn co dúm tự nhiên,
+không nhìn thấy nút thắt,
+không có nơ,
+không có thắt lưng,
+không có quai,
+không có cúc,
+không có khóa kéo,
+
+phần dưới có thể nhìn thấy:
+tiếp tục kéo dài xuống phía dưới mặt nước nhìn thấy,
+mép dưới bị ướt một phần do tiếp xúc với nước tắm,
+kết cấu vải terry sẫm màu hơn và trông nặng hơn một chút ở gần mép nước,
+nhưng khăn vẫn hoàn toàn không nhìn xuyên thấu,
+
+CHẤT LIỆU:
+diện mạo vải bông terry 100% cotton,
+lớp lông vòng khăn tắm dày đặc,
+bề mặt mềm mại thấm hút,
+vải mờ không bóng,
+độ hút ẩm nhẹ,
+kết cấu vải ẩm tinh tế chỉ ở gần các khu vực tiếp xúc với nước,
+
+không trong suốt,
+không có kết cấu satin bóng,
+không có lụa,
+không có ren,
+không có lưới,
+
+TỔNG THỂ:
+khăn quấn tắm onsen kiểu Nhật Bản đơn giản và tiện dụng,
+vẻ ngoài tắm rửa sạch sẽ kín đáo,
+tối giản,
+thực tế,
+quấn chắc chắn,
+không tạo kiểu thời trang trang trí
+
+再現性を上げるネガティブプロンプト
+NEGATIVE OUTFIT PROMPT:
+
+khăn nhỏ,
+khăn lau tay,
+khăn mỏng,
+khăn ngắn,
+khăn hẹp,
+
+khăn trong suốt,
+vải bán trong suốt,
+khăn nhìn xuyên thấu,
+vải ướt trong suốt,
+vải mỏng manh dính sát người,
+
+khăn bị tuột,
+khăn rơi,
+khăn lỏng lẻo không chắc chắn,
+mặt trước khăn bị mở,
+khe hở lớn ở khăn,
+vạt vải đè chồng không đủ,
+
+mép khăn ở vị trí thấp,
+khăn gập quá thấp,
+mép trên lỏng lẻo không vững,
+
+nút thắt khăn,
+nơ lớn,
+thắt lưng quanh khăn,
+quai đeo vai,
+dây buộc cổ,
+quai hai dây mảnh,
+
+áo choàng tắm,
+yukata,
+kimono,
+áo choàng,
+váy đầm,
+áo sơ mi,
+áo hai dây camisole,
+đồ lót phụ nữ,
+quần lót,
+đồ bơi,
+bikini,
+đồ bơi một mảnh,
+
+viền ren,
+bèo nhún,
+thêu hoa,
+họa tiết in,
+khăn in hoa,
+khăn có màu sắc,
+logo,
+chữ đọc được,
+
+lụa,
+satin,
+vinyl,
+latex,
+lưới,
+
+trang sức,
+vòng cổ,
+vòng ôm cổ choker,
+vòng tay,
+đồng hồ đeo tay,
+bông tai,
+lắc chân
 ```
 
 [↑ Về danh mục](#catalog)

@@ -1701,20 +1701,160 @@ Tradução em andamento
 
 <a name="prompt-2098548428926308770"></a>
 
-### Tradução em andamento
+### Prompt e prompt negativo de vestuário descrevendo detalhadamente o material, as dobras e a forma de uso de uma toalha de banho grande enrolada ao corpo em um onsen.
 
 Autor：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Publicação original](https://x.com/hiyayaxtukog68/status/2098548428926308770)
 
 Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt e prompt negativo de vestuário descrevendo detalhadamente o material, as dobras e a forma de uso de uma toalha de banho grande enrolada ao corpo em um onsen.
 
 <img src="images/2098548428926308770-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+TRAJE DE BANHO DE ONSEN:
+
+uma toalha de banho branca grande,
+toalha de banho japonesa de tamanho normal,
+confecção em tecido atoalhado de algodão espesso e opaco,
+textura felpuda e macia,
+cor branca pura e limpa a um branco ligeiramente quente,
+
+a toalha está firmemente enrolada ao redor do tronco,
+construção de toalha enrolada sem alças,
+borda superior posicionada no alto e com segurança ao redor da parte superior do tronco,
+envoltório firme, mas confortável,
+
+larga o suficiente para se sobrepor completamente na frente,
+sobreposição frontal substancial,
+nenhuma abertura visível entre os painéis sobrepostos da toalha,
+
+seção frontal formada por várias dobras diagonais e verticais naturais,
+dobras franzidas e suaves causadas pelo enrolamento,
+leves dobras de compressão ao redor da borda superior,
+dobras sobrepostas mais profundas em direção ao centro frontal,
+
+a toalha segue o corpo naturalmente sem ficar colada à pele,
+volume moderado de tecido,
+textura de algodão encorpada e macia,
+claramente mais grossa que o tecido de roupas comuns,
+
+borda superior:
+borda felpuda enrolada espessa ou suavemente dobrada,
+borda de toalha natural ligeiramente irregular,
+segura firmemente no lugar,
+não escorregando para baixo,
+
+frente:
+construção enrolada e sobreposta,
+drapeado assimétrico suave,
+vários vincos largos de tecido,
+amontoamento natural da toalha,
+nenhum nó visível,
+nenhum laço,
+nenhum cinto,
+sem alças,
+sem botões,
+sem zíper,
+
+parte inferior visível:
+continua para baixo abaixo da linha d'água visível,
+borda inferior parcialmente molhada pelo contato com a água do banho,
+textura felpuda ligeiramente mais escura e com aspecto mais pesado perto da linha d'água,
+mas a toalha permanece opaca,
+
+MATERIAL:
+aparência de tecido atoalhado 100% como algodão,
+fios felpudos densos em laçada,
+superfície macia e absorvente,
+tecido fosco,
+leve absorção de umidade,
+textura sutil de tecido umedecido apenas perto de áreas em contato com a água,
+
+sem transparência,
+sem textura de cetim brilhante,
+sem seda,
+sem renda,
+sem malha furadinha,
+
+GERAL:
+envoltório de banho japonês onsen simples e prático,
+aparência de banho limpa e modesta,
+minimalista,
+funcional,
+enrolado com segurança,
+sem estilo decorativo de moda
+
+再現性を上げるネガティブプロンプト
+NEGATIVE OUTFIT PROMPT:
+
+toalha pequena,
+toalha de mão,
+toalha fina,
+toalha curta,
+toalha estreita,
+
+toalha transparente,
+tecido semitransparente,
+toalha translúcida,
+tecido transparente molhado,
+tecido transparente colado ao corpo,
+
+toalha escorregando,
+toalha caindo,
+toalha solta e frouxa,
+frente da toalha aberta,
+grande abertura na toalha,
+sobreposição insuficiente de tecido,
+
+borda da toalha posicionada muito baixa,
+toalha dobrada muito baixa,
+borda superior instável,
+
+nó na toalha,
+laço grande,
+cinto em volta da toalha,
+alças nos ombros,
+alça de pescoço,
+alças finas tipo espaguete,
+
+roupão de banho,
+yukata,
+quimono,
+roupão,
+vestido,
+camisa,
+regata,
+lingerie,
+roupa íntima,
+trajes de banho,
+biquíni,
+maiô,
+
+acabamento em renda,
+babados,
+bordado,
+padronagem estampada,
+toalha floral,
+toalha colorida,
+logotipo,
+texto legível,
+
+seda,
+cetim,
+vinil,
+látex,
+malha de rede,
+
+joias,
+colar,
+gargantilha,
+pulseira,
+relógio de pulso,
+brincos,
+tornozeleira
 ```
 
 [↑ Voltar às categorias](#catalog)

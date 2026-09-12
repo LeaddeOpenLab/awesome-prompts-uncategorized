@@ -1684,20 +1684,160 @@ Traduction en cours
 
 <a name="prompt-2098548428926308770"></a>
 
-### Traduction en cours
+### Prompt de tenue et prompt négatif décrivant en détail la matière, les plis et la façon d'enrouler une grande serviette de bain dans un onsen.
 
 Auteur：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Publication originale](https://x.com/hiyayaxtukog68/status/2098548428926308770)
 
 Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de tenue et prompt négatif décrivant en détail la matière, les plis et la façon d'enrouler une grande serviette de bain dans un onsen.
 
 <img src="images/2098548428926308770-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+TENUE DE BAIN POUR ONSEN :
+
+une grande serviette de bain blanche,
+serviette de bain japonaise pleine grandeur,
+confection en tissu éponge de coton épais et opaque,
+texture éponge douce et moelleuse,
+couleur blanc pur et propre à blanc très légèrement chaud,
+
+la serviette est solidement enroulée autour du torse,
+confection de serviette enroulée sans bretelles,
+bord supérieur positionné haut et fermement autour du haut du torse,
+enroulement ferme mais confortable,
+
+assez large pour se chevaucher complètement sur le devant,
+chevauchement frontal substantiel,
+aucune ouverture visible entre les pans de serviette qui se chevauchent,
+
+section avant formée de plusieurs plis naturels diagonaux et verticaux,
+plis froncés souples causés par l'enroulement,
+légers plis de compression autour du bord supérieur,
+plis superposés plus profonds vers le centre de l'avant,
+
+la serviette suit le corps naturellement sans devenir moulante,
+volume de tissu modéré,
+texture de coton douce et épaisse,
+nettement plus épaisse qu'un tissu de vêtement ordinaire,
+
+bord supérieur :
+bord en tissu éponge épais roulé ou doucement replié,
+bord de serviette naturel légèrement irrégulier,
+maintenu fermement en place,
+ne glissant pas vers le bas,
+
+avant :
+confection croisée et superposée,
+drapé asymétrique souple,
+plusieurs larges plis de tissu,
+froncement naturel de serviette,
+aucun nœud visible,
+pas de boucle,
+pas de ceinture,
+pas de bretelles,
+pas de boutons,
+pas de fermeture éclair,
+
+partie inférieure visible :
+se poursuit vers le bas sous la ligne d'eau visible,
+bord inférieur partiellement mouillé par le contact avec l'eau du bain,
+texture éponge légèrement plus sombre et d'aspect plus lourd près de la ligne d'eau,
+mais la serviette reste opaque,
+
+MATIÈRE :
+aspect tissu éponge 100 % type coton,
+boucles denses de serviette éponge,
+surface douce et absorbante,
+tissu mat,
+légère absorption de l'humidité,
+texture subtile de tissu humidifié uniquement près des zones en contact avec l'eau,
+
+pas de transparence,
+pas de texture satinée brillante,
+pas de soie,
+pas de dentelle,
+pas de résille,
+
+DANS L'ENSEMBLE :
+enveloppement de bain d'onsen japonais simple et pratique,
+apparence de bain propre et pudique,
+minimaliste,
+fonctionnel,
+solidement enroulé,
+aucun style vestimentaire décoratif
+
+再現性を上げるネガティブプロンプト
+NEGATIVE OUTFIT PROMPT:
+
+petite serviette,
+essuie-main,
+serviette fine,
+serviette courte,
+serviette étroite,
+
+serviette transparente,
+tissu semi-transparent,
+serviette transparente,
+tissu transparent mouillé,
+tissu transparent collant,
+
+serviette qui glisse,
+serviette qui tombe,
+serviette lâche non fixée,
+avant de la serviette ouvert,
+grand écart dans la serviette,
+chevauchement de tissu insuffisant,
+
+bord de serviette positionné trop bas,
+serviette pliée trop bas,
+bord supérieur instable,
+
+nœud de serviette,
+grand nœud papillon,
+ceinture autour de la serviette,
+bretelles d'épaule,
+bretelle tour de cou,
+spaghetti straps,
+
+peignoir,
+yukata,
+kimono,
+robe de chambre,
+robe,
+chemise,
+camisole,
+lingerie,
+sous-vêtements,
+maillot de bain,
+bikini,
+maillot de bain une pièce,
+
+bordure en dentelle,
+volants,
+broderie,
+motif imprimé,
+serviette fleurie,
+serviette colorée,
+logo,
+texte lisible,
+
+soie,
+satin,
+vinyle,
+latex,
+résille,
+
+bijoux,
+collier,
+ras-du-cou,
+bracelet,
+montre-bracelet,
+boucles d'oreilles,
+chaîne de cheville
 ```
 
 [↑ Retour aux catégories](#catalog)

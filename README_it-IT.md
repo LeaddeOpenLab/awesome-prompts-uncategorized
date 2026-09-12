@@ -1684,20 +1684,160 @@ Traduzione in corso
 
 <a name="prompt-2098548428926308770"></a>
 
-### Traduzione in corso
+### Prompt di abbigliamento e prompt negativo che descrivono in dettaglio il materiale, le pieghe e il modo di indossare un grande telo da bagno avvolto in un onsen.
 
 Autore：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Post originale](https://x.com/hiyayaxtukog68/status/2098548428926308770)
 
 Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di abbigliamento e prompt negativo che descrivono in dettaglio il materiale, le pieghe e il modo di indossare un grande telo da bagno avvolto in un onsen.
 
 <img src="images/2098548428926308770-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+ABBIGLIAMENTO DA BAGNO PER ONSEN:
+
+un grande asciugamano da bagno bianco,
+asciugamano da bagno giapponese a figura intera,
+struttura in spugna di cotone spessa e opaca,
+morbida consistenza in spugna felpata,
+colore da bianco puro pulito a bianco caldissimo leggero,
+
+l'asciugamano è avvolto saldamente attorno al busto,
+struttura di asciugamano avvolto senza spalline,
+bordo superiore posizionato in alto e saldamente attorno alla parte superiore del torso,
+avvolgimento fermo ma confortevole,
+
+abbastanza largo da sovrapporsi completamente sul davanti,
+sostanziale sovrapposizione frontale,
+nessuna apertura visibile tra i lembi sovrapposti dell'asciugamano,
+
+sezione anteriore formata da diverse pieghe naturali diagonali e verticali,
+morbide pieghe arricciate causate dall'avvolgimento,
+leggere pieghe di compressione attorno al bordo superiore,
+pieghe sovrapposte più profonde verso il centro davanti,
+
+l'asciugamano segue il corpo in modo naturale senza diventare aderente,
+volume di tessuto moderato,
+morbida consistenza di cotone voluminosa,
+nettamente più spesso del normale tessuto per abiti,
+
+bordo superiore:
+spesso bordo in spugna arrotolato o morbidamente piegato,
+bordo dell'asciugamano naturale leggermente irregolare,
+saldamente tenuto in posizione,
+non scivola verso il basso,
+
+davanti:
+struttura avvolta sovrapposta,
+morbido drappeggio asimmetrico,
+diverse ampie pieghe di tessuto,
+naturale increspatura dell'asciugamano,
+nessun nodo visibile,
+nessun fiocco,
+nessuna cintura,
+nessuna spallina,
+nessun bottone,
+nessuna cerniera,
+
+parte inferiore visibile:
+continua verso il basso al di sotto della linea d'acqua visibile,
+bordo inferiore parzialmente bagnato dal contatto con l'acqua del bagno,
+consistenza in spugna leggermente più scura e dall'aspetto più pesante vicino alla linea d'acqua,
+ma l'asciugamano rimane opaco,
+
+MATERIALE:
+aspetto in spugna simile al 100% cotone,
+fitta trama a riccio dell'asciugamano,
+superficie morbida e assorbente,
+tessuto opaco,
+leggero assorbimento dell'umidità,
+sottile consistenza di tessuto inumidito solo vicino alle aree a contatto con l'acqua,
+
+nessuna trasparenza,
+nessuna consistenza satinata lucida,
+nessuna seta,
+nessun pizzo,
+nessuna rete,
+
+NEL COMPLESSO:
+semplice e pratico telo avvolgibile da bagno per onsen giapponese,
+aspetto da bagno pulito e modesto,
+minimalista,
+funzionale,
+saldamente avvolto,
+nessuno stile di moda decorativo
+
+再現性を上げるネガティブプロンプト
+NEGATIVE OUTFIT PROMPT:
+
+asciugamano piccolo,
+asciugamano per le mani,
+asciugamano sottile,
+asciugamano corto,
+asciugamano stretto,
+
+asciugamano trasparente,
+tessuto semitrasparente,
+asciugamano vedo-non-vedo,
+tessuto trasparente bagnato,
+tessuto trasparente aderente,
+
+asciugamano che scivola,
+asciugamano che cade,
+asciugamano allentato non fissato,
+davanti dell'asciugamano aperto,
+ampio spazio nell'asciugamano,
+insufficiente sovrapposizione del tessuto,
+
+bordo dell'asciugamano posizionato in basso,
+asciugamano piegato troppo in basso,
+bordo superiore instabile,
+
+nodo dell'asciugamano,
+grande fiocco,
+cintura attorno all'asciugamano,
+spalline,
+spallina all'americana,
+spalline sottili,
+
+accappatoio,
+yukata,
+kimono,
+vestaglia,
+abito,
+camicia,
+camiciola,
+lingerie,
+biancheria intima,
+costume da bagno,
+bikini,
+costume da bagno intero,
+
+bordo in pizzo,
+volant,
+ricamo,
+motivo stampato,
+asciugamano floreale,
+asciugamano colorato,
+logo,
+testo leggibile,
+
+seta,
+raso,
+vinile,
+lattice,
+rete,
+
+gioielli,
+collana,
+girocollo,
+braccialetto,
+orologio da polso,
+orecchini,
+cavigliera
 ```
 
 [↑ Torna alle categorie](#catalog)

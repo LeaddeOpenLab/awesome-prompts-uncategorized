@@ -1684,20 +1684,160 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098548428926308770"></a>
 
-### Übersetzung läuft
+### Detaillierte Beschreibung von Material, Faltenwurf und Trageweise eines umwickelten großen Badetuchs im Onsen als Outfit-Prompt und Negativ-Prompt.
 
 Autor：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Originalbeitrag](https://x.com/hiyayaxtukog68/status/2098548428926308770)
 
 Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Detaillierte Beschreibung von Material, Faltenwurf und Trageweise eines umwickelten großen Badetuchs im Onsen als Outfit-Prompt und Negativ-Prompt.
 
 <img src="images/2098548428926308770-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+ONSEN-BADEKLEIDUNG:
+
+ein großes weißes Badetuch,
+Badetuch in voller japanischer Größe,
+dicke, blickdichte Baumwoll-Frotteestruktur,
+weiche, flauschige Frotteetextur,
+saubere reinweiße bis ganz leicht warmweiße Farbe,
+
+das Handtuch ist sicher um den Oberkörper gewickelt,
+trägerlose Wickeltuch-Konstruktion,
+oberer Rand hoch und sicher um den oberen Oberkörper positioniert,
+festes, aber bequemes Wickeln,
+
+breit genug, um sich vorne vollständig zu überlappen,
+erhebliche vordere Überlappung,
+keine sichtbare Öffnung zwischen den überlappenden Handtuchteilen,
+
+vorderer Abschnitt geformt aus mehreren natürlichen diagonalen und vertikalen Falten,
+weiche, geraffte Falten durch das Wickeln,
+leichte Kompressionsfalten um den oberen Rand,
+tiefere überlappende Falten zur vorderen Mitte hin,
+
+das Handtuch folgt dem Körper natürlich, ohne hauteng zu werden,
+moderates Stoffvolumen,
+weiche, voluminöse Baumwolltextur,
+deutlich dicker als gewöhnlicher Kleidungsstoff,
+
+oberer Rand:
+dicker gerollter oder sanft gefalteter Frotteerand,
+leicht unregelmäßiger natürlicher Handtuchrand,
+sicher an Ort und Stelle gehalten,
+rutscht nicht nach unten,
+
+Vorderseite:
+überlappende Wickelkonstruktion,
+weicher asymmetrischer Faltenwurf,
+mehrere breite Stofffalten,
+natürliche Handtuchbündelung,
+kein Knoten sichtbar,
+keine Schleife,
+kein Gürtel,
+keine Träger,
+keine Knöpfe,
+kein Reißverschluss,
+
+unterer sichtbarer Teil:
+setzt sich nach unten unterhalb der sichtbaren Wasserlinie fort,
+unterer Rand durch Kontakt mit dem Badewasser teilweise nass,
+leicht dunklere und schwerer wirkende Frotteetextur nahe der Wasserlinie,
+aber das Handtuch bleibt blickdicht,
+
+MATERIAL:
+100% baumwollähnliches Frottee-Aussehen,
+dichter Schlingen-Handtuchflor,
+weiche, saugfähige Oberfläche,
+matter Stoff,
+leichte Feuchtigkeitsaufnahme,
+dezente feuchte Stofftextur nur in Bereichen mit Wasserkontakt,
+
+keine Transparenz,
+keine glänzende Satinstruktur,
+keine Seide,
+keine Spitze,
+kein Mesh,
+
+GESAMT:
+einfaches, praktisches japanisches Onsen-Badewickeltuch,
+sauberes, dezentes Badeerscheinungsbild,
+minimalistisch,
+funktional,
+sicher gewickelt,
+kein dekoratives Fashion-Styling
+
+再現性を上げるネガティブプロンプト
+NEGATIVE OUTFIT PROMPT:
+
+kleines Handtuch,
+Handtuch für die Hände,
+dünnes Handtuch,
+kurzes Handtuch,
+schmales Handtuch,
+
+transparentes Handtuch,
+halbtransparenter Stoff,
+durchsichtiges Handtuch,
+nasser transparenter Stoff,
+anschmiegsamer transparenter Stoff,
+
+rutschendes Handtuch,
+fallendes Handtuch,
+loses, ungesichertes Handtuch,
+offene Handtuchfront,
+große Lücke im Handtuch,
+unzureichende Stoffüberlappung,
+
+tief positionierter Handtuchrand,
+Handtuch zu tief gefaltet,
+instabiler oberer Rand,
+
+Handtuchknoten,
+große Schleife,
+Gürtel um das Handtuch,
+Schulterträger,
+Neckholder-Träger,
+Spaghettiträger,
+
+Bademantel,
+Yukata,
+Kimono,
+Robe,
+Kleid,
+Hemd,
+Unterhemd,
+Dessous,
+Unterwäsche,
+Badeanzug,
+Bikini,
+einteiliger Badeanzug,
+
+Spitzenbesatz,
+Rüschen,
+Stickerei,
+gedrucktes Muster,
+Geblümtes Handtuch,
+farbiges Handtuch,
+Logo,
+lesbarer Text,
+
+Seide,
+Satin,
+Vinyl,
+Latex,
+Mesh,
+
+Schmuck,
+Halskette,
+Choker,
+Armband,
+Armbanduhr,
+Ohrringe,
+Fußkettchen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
