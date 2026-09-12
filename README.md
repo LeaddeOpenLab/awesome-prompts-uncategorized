@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**97** Prompts · Latest addition: **2026-09-12**
+**98** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -1961,6 +1961,37 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098587991359074550"></a>
+
+### Autumn car selfie holding colorful maple leaves under a panoramic glass roof.
+
+Author：[@oye\_samia](https://x.com/oye_samia) · [Source](https://x.com/oye_samia/status/2098587991359074550)
+
+Portrait / Selfie · Vehicle · Published
+
+**Summary:** Autumn car selfie holding colorful maple leaves under a panoramic glass roof.
+
+<img src="images/2098587991359074550-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098587991359074550-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Do not change the girl’s appearance.  
+Ultra-realistic front-camera selfie reflecting a luxurious, expensive lifestyle. A girl fills the frame. Her hair is long, straight and voluminous with a clean middle part; a few soft strands fall across her face. Skin is glowing in bronze tones with highly detailed natural texture and visible pores. No retouching or artificial smoothing — lively, natural look. 100% similarity to the original person must be preserved. Lips are slightly plump and glossy; she looks upward in admiration toward the car ceiling.
+
+She wears a body-hugging, ribbed high-neck black dress. An oversized brown-toned biker jacket made of thick quality fabric is draped over her shoulders. Small round gold earrings, a neat short square French manicure, and a statement gold ring on her finger.
+
+She carefully holds a large, showy bouquet of shiny autumn maple leaves in red, orange and gold tones. The scene is inside a premium car with coffee-toned leather seats. A panoramic glass roof is visible above. The car’s exterior roof is densely covered with fallen colorful maple leaves, creating a magical autumn carpet. Through the glass roof: gray-blue autumn clouds, light raindrops and leaves stuck to the glass. Lighting is dim, soft and atmospheric.
+
+Shot as a slight side-angle selfie with an extended arm, camera angled from below upward. Warm, peaceful autumn mood, Pinterest/Instagram aesthetic, cinematic look, ultra-realistic, 8K.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098579720153805188"></a>
 
