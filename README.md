@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**94** Prompts · Latest addition: **2026-09-12**
+**95** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098618384804176129"></a>
+
+### Close-up DSLR portrait of a woman holding a sleek ponytail against a tropical outdoor backdrop.
+
+Author：[@oju689](https://x.com/oju689) · [Source](https://x.com/oju689/status/2098618384804176129)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Close-up DSLR portrait of a woman holding a sleek ponytail against a tropical outdoor backdrop.
+
+<img src="images/2098618384804176129-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Close-up portrait of a beautiful young woman with high sleek ponytail, holding her ponytail with one hand behind head, soft natural makeup with defined eyebrows, long eyelashes, natural pink lips, rosy cheeks, glowing clear skin with realistic skin texture, small gold hoop earrings. Wearing white thin spaghetti strap top. Pose: Side profile looking over shoulder, arm raised, confident and natural expression. Background: Tropical outdoor with blurred green palm leaves, white textured wall on right, palm tree trunk behind, bright daylight, natural sunlight, shallow depth of field, bokeh. Lighting: Soft natural daylight, even skin tones, no harsh shadows, realistic highlights on hair. Style: DSLR photography shot on Canon EOS R5 with 85mm f/1.4 lens at f/2.2, ISO 100, sharp focus on eyes, ultra detailed, 8K, HDR, photorealistic, natural colors, no filter, no CGI look, authentic real person portrait, vertical 4:5 aspect ratio. Negative: no blur, no text, no writings, no watermark, no border, no over-editing.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098584064567705813"></a>
 
