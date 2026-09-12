@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**134** Prompts · Adição mais recente: **2026-09-12**
+**135** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2098866496487276783"></a>
+
+### Tradução em curso
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2098866496487276783)
+
+Fotografia · Retrato / Selfie · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098866496487276783-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098676865284407781"></a>
 

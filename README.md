@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**134** Prompts · Latest addition: **2026-09-12**
+**135** Prompts · Latest addition: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098866496487276783"></a>
+
+### Luxury menswear burgundy leather suit portrait photography prompt.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2098866496487276783)
+
+Photography · Portrait / Selfie · Fashion Item · Published
+
+**Summary:** Luxury menswear burgundy leather suit portrait photography prompt.
+
+<img src="images/2098866496487276783-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded photo as the facial identity reference. Create a premium cinematic fashion portrait of a confident adult man in his late 20s to early 30s, standing against a deep black studio background beside a dark vintage architectural column. He is wearing a luxurious monochromatic deep burgundy/red outfit consisting of a fitted leather blazer, matching red turtleneck, and matching tailored leather trousers. The blazer has sharp peak lapels, structured shoulders, subtle stitching, functional pockets, and polished buttons. Pose him waist-to-thigh framing, standing upright with both arms confidently crossed over his chest, shoulders squared, looking directly into the camera with a serious, powerful expression. Give him neatly short dark hair. Use dramatic low-key studio lighting: soft key light illuminating the face and red leather, subtle cool rim light along one side of the hair and shoulder, deep shadows, rich contrast, and a nearly black background. Emphasize realistic leather texture, natural skin pores, sharp facial details, and dimensional highlights. Composition should feel like a luxury menswear campaign, sophisticated, commanding, elegant, mysterious, editorial and cinematic. Shot on an 85mm portrait lens, shallow depth of field, ultra-realistic photography, high dynamic range, crisp focus, realistic skin texture, premium fashion magazine quality, vertical 9:16 composition. No text, no logo, no watermark, no extra people, no distorted hands, no exaggerated muscles.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098676865284407781"></a>
 
