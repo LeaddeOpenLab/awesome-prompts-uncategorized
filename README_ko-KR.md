@@ -1792,20 +1792,20 @@ FIELD NOTE [번호]
 
 <a name="prompt-2098579720153805188"></a>
 
-### 번역 중
+### 평범한 한 쌍의 사람 손。
 
 작성자：[@ferranteirkl3](https://x.com/ferranteirkl3) · [원본 게시물](https://x.com/ferranteirkl3/status/2098579720153805188)
 
 기타 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 평범한 한 쌍의 사람 손。
 
 <img src="images/2098579720153805188-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+평범한 한 쌍의 사람 손.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

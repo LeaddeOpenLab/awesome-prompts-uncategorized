@@ -1809,20 +1809,20 @@ Chân dung / Ảnh tự chụp · Phương tiện · Đã xuất bản
 
 <a name="prompt-2098579720153805188"></a>
 
-### Đang dịch
+### Một đôi bàn tay người bình thường.
 
 Tác giả：[@ferranteirkl3](https://x.com/ferranteirkl3) · [Bài gốc](https://x.com/ferranteirkl3/status/2098579720153805188)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một đôi bàn tay người bình thường.
 
 <img src="images/2098579720153805188-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một đôi bàn tay người bình thường.
 ```
 
 [↑ Về danh mục](#catalog)

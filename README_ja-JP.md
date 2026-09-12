@@ -1792,20 +1792,20 @@ FIELD NOTE [番号]
 
 <a name="prompt-2098579720153805188"></a>
 
-### 翻訳中
+### ごく普通の人の両手。
 
 作者：[@ferranteirkl3](https://x.com/ferranteirkl3) · [元の投稿](https://x.com/ferranteirkl3/status/2098579720153805188)
 
 その他 · 配信済み
 
-**概要:** 翻訳中
+**概要:** ごく普通の人の両手。
 
 <img src="images/2098579720153805188-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+ごく普通の人の両手。
 ```
 
 [↑ カテゴリに戻る](#catalog)
