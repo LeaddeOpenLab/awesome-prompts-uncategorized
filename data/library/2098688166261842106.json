@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-12T08:58:37.450Z",
+  "model": "grok",
+  "prompt": "Please read a video of animals fight in rivero",
+  "promptTranslations": {
+    "en": "Please read a video of animals fight in rivero"
+  },
+  "summaryTranslations": {
+    "en": "Please read a video of animals fight in rivero"
+  },
+  "translationVersion": 2,
+  "summary": "Please read a video of animals fight in rivero",
+  "summaryEn": "Please read a video of animals fight in rivero",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098688166261842106",
+    "canonicalUrl": "https://x.com/AnimalBuzzWorld/status/2098688166261842106",
+    "author": {
+      "username": "AnimalBuzzWorld",
+      "displayName": "Swati singh",
+      "profileUrl": "https://x.com/AnimalBuzzWorld"
+    },
+    "publishedAt": "2026-09-12T08:20:25.000Z",
+    "collectedAt": "2026-09-12T08:28:30.238Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nPlease read a video of animals fight in rivero https://t.co/Yhh3t6jWzJ",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AnimalBuzzWorld/status/2098688166261842106",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098688144640184320/img/7WNWvtF7fBREzFt3.jpg",
+        "analysisUrl": "https://x.com/AnimalBuzzWorld/status/2098688166261842106"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 33
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AnimalBuzzWorld/status/2098688166261842106",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098688144640184320/img/7WNWvtF7fBREzFt3.jpg",
+  "coverPath": "covers/2098688166261842106.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098688144640184320",
+    "x-post:2098688166261842106"
+  ],
+  "analysis": {
+    "summary": "Please read a video of animals fight in rivero",
+    "summaryEn": "Please read a video of animals fight in rivero",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video depicts two otters fighting in a river with splashing water, directly matching the prompt description."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Please read a video of animals fight in rivero",
+    "sourceRange": {
+      "start": 22,
+      "end": 68
+    },
+    "translations": {
+      "zh": "请制作一段动物在河流中打斗的视频",
+      "en": "Please read a video of animals fight in rivero"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "wildlife",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
