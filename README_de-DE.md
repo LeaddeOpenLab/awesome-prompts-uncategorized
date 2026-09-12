@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**117** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**118** Prompts · Zuletzt hinzugefügt: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2164,22 +2164,44 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2098686621931511841"></a>
+<a name="prompt-2098683941431455840"></a>
 
 ### Übersetzung läuft
+
+Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Originalbeitrag](https://x.com/iadventurejacek/status/2098683941431455840)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098683941431455840.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098686621931511841"></a>
+
+### Ein Computer-Arbeitsplatz in einem Büro.
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Originalbeitrag](https://x.com/iadventurejacek/status/2098686621931511841)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Computer-Arbeitsplatz in einem Büro.
 
 <img src="images/2098686621931511841-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Computer im Büro
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

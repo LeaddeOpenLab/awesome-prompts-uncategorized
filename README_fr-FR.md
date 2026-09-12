@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**117** Prompts · Dernier ajout: **2026-09-12**
+**118** Prompts · Dernier ajout: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2164,22 +2164,44 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2098686621931511841"></a>
+<a name="prompt-2098683941431455840"></a>
 
 ### Traduction en cours
+
+Auteur：[@iadventurejacek](https://x.com/iadventurejacek) · [Publication originale](https://x.com/iadventurejacek/status/2098683941431455840)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098683941431455840.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098686621931511841"></a>
+
+### Une installation informatique dans un bureau.
 
 Auteur：[@iadventurejacek](https://x.com/iadventurejacek) · [Publication originale](https://x.com/iadventurejacek/status/2098686621931511841)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une installation informatique dans un bureau.
 
 <img src="images/2098686621931511841-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+ordinateur dans un bureau
 ```
 
 [↑ Retour aux catégories](#catalog)

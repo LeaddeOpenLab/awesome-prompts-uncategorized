@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**117** Prompt · Ultima aggiunta: **2026-09-12**
+**118** Prompt · Ultima aggiunta: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2164,22 +2164,44 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2098686621931511841"></a>
+<a name="prompt-2098683941431455840"></a>
 
 ### Traduzione in corso
+
+Autore：[@iadventurejacek](https://x.com/iadventurejacek) · [Post originale](https://x.com/iadventurejacek/status/2098683941431455840)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098683941431455840.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098686621931511841"></a>
+
+### Una postazione computer in un ufficio.
 
 Autore：[@iadventurejacek](https://x.com/iadventurejacek) · [Post originale](https://x.com/iadventurejacek/status/2098686621931511841)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una postazione computer in un ufficio.
 
 <img src="images/2098686621931511841-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+computer in ufficio
 ```
 
 [↑ Torna alle categorie](#catalog)

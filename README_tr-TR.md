@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**117** Prompt · Son eklenen: **2026-09-12**
+**118** Prompt · Son eklenen: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2181,22 +2181,44 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2098686621931511841"></a>
+<a name="prompt-2098683941431455840"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@iadventurejacek](https://x.com/iadventurejacek) · [Orijinal gönderi](https://x.com/iadventurejacek/status/2098683941431455840)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098683941431455840.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098686621931511841"></a>
+
+### Bir ofiste bilgisayar kurulumu.
 
 Yazar：[@iadventurejacek](https://x.com/iadventurejacek) · [Orijinal gönderi](https://x.com/iadventurejacek/status/2098686621931511841)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir ofiste bilgisayar kurulumu.
 
 <img src="images/2098686621931511841-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+ofiste bilgisayar
 ```
 
 [↑ Kategorilere dön](#catalog)

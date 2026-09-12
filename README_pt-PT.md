@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**117** Prompts · Adição mais recente: **2026-09-12**
+**118** Prompts · Adição mais recente: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2181,22 +2181,44 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2098686621931511841"></a>
+<a name="prompt-2098683941431455840"></a>
 
 ### Tradução em curso
+
+Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicação original](https://x.com/iadventurejacek/status/2098683941431455840)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2098683941431455840.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098686621931511841"></a>
+
+### Uma configuração de computador num escritório.
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicação original](https://x.com/iadventurejacek/status/2098686621931511841)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma configuração de computador num escritório.
 
 <img src="images/2098686621931511841-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+computador no escritório
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**117** 条内容 · 最新收录: **2026-09-12**
+**118** 条内容 · 最新收录: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2193,22 +2193,44 @@ FIELD NOTE [编号]
 
 ## 其他
 
-<a name="prompt-2098686621931511841"></a>
+<a name="prompt-2098683941431455840"></a>
 
 ### 翻译中
+
+作者：[@iadventurejacek](https://x.com/iadventurejacek) · [查看 X 原帖](https://x.com/iadventurejacek/status/2098683941431455840)
+
+其他 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2098683941431455840.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2098686621931511841"></a>
+
+### 办公室里的电脑设备。
 
 作者：[@iadventurejacek](https://x.com/iadventurejacek) · [查看 X 原帖](https://x.com/iadventurejacek/status/2098686621931511841)
 
 其他 · 已推流
 
-**概括:** 翻译中
+**概括:** 办公室里的电脑设备。
 
 <img src="images/2098686621931511841-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+办公室里的电脑
 ```
 
 [↑ 返回分类目录](#catalog)

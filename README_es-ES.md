@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**117** Prompts · Última incorporación: **2026-09-12**
+**118** Prompts · Última incorporación: **2026-09-12**
 
 <a name="catalog"></a>
 
@@ -2209,22 +2209,44 @@ Traducción en curso
 
 ## Otros
 
-<a name="prompt-2098686621931511841"></a>
+<a name="prompt-2098683941431455840"></a>
 
 ### Traducción en curso
+
+Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicación original](https://x.com/iadventurejacek/status/2098683941431455840)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098683941431455840.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098686621931511841"></a>
+
+### Un equipo informático en una oficina.
 
 Autor：[@iadventurejacek](https://x.com/iadventurejacek) · [Publicación original](https://x.com/iadventurejacek/status/2098686621931511841)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un equipo informático en una oficina.
 
 <img src="images/2098686621931511841-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+ordenador en la oficina
 ```
 
 [↑ Volver a categorías](#catalog)
