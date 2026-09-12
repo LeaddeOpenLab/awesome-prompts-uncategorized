@@ -35,20 +35,34 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2098620113964679527"></a>
 
-### Traduction en cours
+### Portrait éditorial photoréaliste d'un homme allongé sur l'herbe avec des fleurs, en tenue formelle.
 
 Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2098620113964679527)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait éditorial photoréaliste d'un homme allongé sur l'herbe avec des fleurs, en tenue formelle.
 
 <img src="images/2098620113964679527-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez la photo importée comme composition principale et référence visuelle. Créez un portrait éditorial photoréaliste d'un homme adulte confortablement allongé sur une pelouse verte et luxuriante parsemée de petites fleurs délicates.
+
+Cadrez l'image depuis un angle rapproché en plongée verticale/vue de dessus, en vous concentrant principalement sur son visage, ses épaules et le haut de son torse. Placez sa tête légèrement vers le centre supérieur de la composition, un bras plié derrière la tête dans une pose détendue. Il doit regarder directement l'appareil photo avec une expression calme et confiante ainsi qu'un subtil sourire naturel.
+
+Donnez-lui une coupe de cheveux courte et soignée avec un dégradé précis et une ligne d'implantation naturelle et nette, un visage rasé de près, un grain de peau lisse et naturel, des proportions faciales équilibrées et des yeux clairs et expressifs.
+
+Habillez-le d'une tenue formelle sombre et sophistiquée : un blazer noir ajusté superposé à un gilet sombre, associé à une chemise boutonnée bleu clair impeccable portée col ouvert. Pas de cravate, pas de chaîne, pas de collier et pas de boucles d'oreilles.
+
+Entourez-le d'une herbe verte et riche et de petites fleurs éparpillées blanches, rose pâle, lavande et bleues, créant une atmosphère de jardin douce et romantique. Certaines fleurs doivent être légèrement floues vers les bords pour renforcer la profondeur.
+
+Utilisez une lumière du jour naturelle et douce avec de subtils reflets sur le visage, des ombres douces, des tons de peau réalistes et une faible profondeur de champ. Gardez le visage du sujet extrêmement net tandis que l'herbe et les fleurs environnantes s'adoucissent progressivement.
+
+Style : éditorial de mode de luxe, portrait cinématographique en extérieur, photographie de magazine haut de gamme, détails de peau réalistes, mise en beauté impeccable, couleurs vives mais naturelles, détachement doux de l'arrière-plan, plage dynamique élevée, rendu portrait 85 mm, ultra-photoréaliste, très détaillé, qualité 8K.
+
+Composition : portrait vertical 4:5, angle de caméra en vue du dessus, cadrage rapproché, visage comme point focal principal, ambiance détendue et élégante.
 ```
 
 [↑ Retour aux catégories](#catalog)

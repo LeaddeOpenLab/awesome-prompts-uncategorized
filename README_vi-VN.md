@@ -35,20 +35,34 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2098620113964679527"></a>
 
-### Đang dịch
+### Chân dung biên tập chân thực như ảnh chụp của một người đàn ông nằm trên cỏ với hoa trong trang phục trang trọng.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098620113964679527)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung biên tập chân thực như ảnh chụp của một người đàn ông nằm trên cỏ với hoa trong trang phục trang trọng.
 
 <img src="images/2098620113964679527-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng bức ảnh đã tải lên làm bố cục chính và tài liệu tham khảo hình ảnh. Tạo một bức chân dung biên tập chân thực như ảnh chụp của một người đàn ông trưởng thành đang nằm thoải mái trên bãi cỏ xanh mướt rải rác những bông hoa nhỏ mỏng manh.
+
+Đóng khung hình ảnh từ góc cận cảnh chụp từ trên cao/từ trên xuống, tập trung chủ yếu vào khuôn mặt, vai và thân trên của anh ấy. Đặt đầu anh hơi lệch về phía trên chính giữa bố cục, với một cánh tay gập sau đầu trong tư thế thư giãn. Anh ấy nên nhìn thẳng vào máy ảnh với biểu cảm điềm tĩnh, tự tin và một nụ cười nhẹ nhàng tự nhiên.
+
+Tạo cho anh ấy kiểu tóc cắt ngắn gọn gàng với phần vát tỉa tinh tế và đường chân tóc tự nhiên sắc nét, khuôn mặt cạo râu nhẵn nhụi, kết cấu da mịn màng tự nhiên, tỷ lệ khuôn mặt cân đối và đôi mắt sáng rõ đầy biểu cảm.
+
+Mặc cho anh ấy một bộ trang phục trang trọng màu tối tinh tế: áo blazer may đo màu đen khoác ngoài áo ghi-lê sẫm màu, kết hợp với áo sơ mi cài cúc màu xanh nhạt phẳng phiu mở cúc cổ. Không thắt cà vạt, không dây xích, không dây chuyền và không đeo khuyên tai.
+
+Bao quanh anh ấy bằng bãi cỏ xanh mướt và những bông hoa nhỏ rải rác màu trắng, hồng nhạt, hoa oải hương và xanh lam, tạo nên bầu không khí khu vườn lãng mạn nhẹ nhàng. Một số bông hoa nên hơi mờ về phía các cạnh để tăng cường độ sâu.
+
+Sử dụng ánh sáng ban ngày tự nhiên dịu nhẹ với các điểm sáng tinh tế trên khuôn mặt, bóng đổ nhẹ nhàng, tông màu da chân thực và độ sâu trường ảnh nông. Giữ cho khuôn mặt của chủ thể cực kỳ sắc nét trong khi cỏ và hoa xung quanh mềm mại dần.
+
+Phong cách: ảnh biên tập thời trang xa xỉ, chân dung ngoài trời mang tính điện ảnh, nhiếp ảnh tạp chí cao cấp, chi tiết da chân thực, diện mạo gọn gàng chỉn chu, màu sắc rực rỡ nhưng tự nhiên, tách nền mượt mà, dải động cao, cảm giác chân dung ống kính 85mm, cực kỳ chân thực như ảnh chụp, độ chi tiết cao, chất lượng 8K.
+
+Bố cục: chân dung dọc 4:5, góc máy từ trên cao, khung hình cận cảnh, khuôn mặt là tiêu điểm chính, tâm trạng thanh lịch thư thái.
 ```
 
 [↑ Về danh mục](#catalog)

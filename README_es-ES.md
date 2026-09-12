@@ -35,20 +35,34 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2098620113964679527"></a>
 
-### Traducción en curso
+### Retrato editorial fotorrealista de un hombre tumbado en la hierba con flores en atuendo formal.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2098620113964679527)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato editorial fotorrealista de un hombre tumbado en la hierba con flores en atuendo formal.
 
 <img src="images/2098620113964679527-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Usa la foto subida como la composición principal y referencia visual. Crea un retrato editorial fotorrealista de un hombre adulto tumbado cómodamente en un césped verde exuberante salpicado de pequeñas y delicadas flores.
+
+Encuadra la imagen desde un ángulo cenital/de arriba hacia abajo cercano, centrándote principalmente en su rostro, hombros y torso superior. Coloca su cabeza ligeramente hacia el centro superior de la composición, con un brazo doblado detrás de la cabeza en una pose relajada. Debe mirar directamente a la cámara con una expresión tranquila y segura, y una sutil sonrisa natural.
+
+Dale un peinado corto y limpio de corte bajo con un degradado prolijo y una línea de nacimiento del cabello natural y definida, rostro afeitado, textura de piel suave y natural, proporciones faciales equilibradas y ojos claros y expresivos.
+
+Vístelo con un sofisticado atuendo formal oscuro: un blazer entallado negro sobre un chaleco oscuro, combinado con una camisa abotonada de color azul claro impecable llevada con el cuello abierto. Sin corbata, sin cadena, sin collar y sin pendientes.
+
+Rodéalo de hierba verde intensa y pequeñas flores dispersas de color blanco, rosa pálido, lavanda y azul, creando una atmósfera de jardín suave y romántica. Algunas flores deben estar ligeramente desenfocadas hacia los bordes para mejorar la profundidad.
+
+Utiliza luz natural suave con reflejos sutiles en el rostro, sombras suaves, tonos de piel realistas y una profundidad de campo reducida. Mantén el rostro del sujeto extremadamente nítido mientras que la hierba y las flores circundantes se suavizan gradualmente.
+
+Estilo: editorial de moda de lujo, retrato cinematográfico al aire libre, fotografía de revista de primera calidad, detalle de piel realista, arreglo personal impecable, colores vibrantes pero naturales, separación suave del fondo, alto rango dinámico, sensación de retrato de 85 mm, ultrafotorrealista, gran nivel de detalle, calidad 8K.
+
+Composición: retrato vertical 4:5, ángulo de cámara cenital, encuadre en primer plano, el rostro como punto focal principal, ambiente relajado y elegante.
 ```
 
 [↑ Volver a categorías](#catalog)

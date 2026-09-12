@@ -35,20 +35,34 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2098620113964679527"></a>
 
-### Traduzione in corso
+### Ritratto editoriale fotorealistico di un uomo sdraiato sull'erba con fiori, in abito formale.
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2098620113964679527)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto editoriale fotorealistico di un uomo sdraiato sull'erba con fiori, in abito formale.
 
 <img src="images/2098620113964679527-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Usa la foto caricata come composizione principale e riferimento visivo. Crea un ritratto editoriale fotorealistico di un uomo adulto comodamente sdraiato su un prato verde lussureggiante punteggiato di piccoli fiori delicati.
+
+Inquadra l'immagine da un'angolazione ravvicinata dall'alto verso il basso/zenitale, concentrandoti principalmente sul suo viso, sulle spalle e sulla parte superiore del busto. Posiziona la sua testa leggermente verso il centro superiore della composizione, con un braccio piegato dietro la testa in una posa rilassata. Dovrebbe guardare dritto nella fotocamera con un'espressione calma e sicura e un sottile sorriso naturale.
+
+Dagli un taglio di capelli corto e pulito con una sfumatura ordinata e un'attaccatura naturale ben definita, viso rasato di fresco, texture della pelle liscia e naturale, proporzioni del viso equilibrate e occhi chiari ed espressivi.
+
+Vestilo con un sofisticato abito formale scuro: un blazer nero sartoriale sovrapposto a un gilet scuro, abbinato a un'impeccabile camicia abbottonata azzurro chiaro portata con il colletto aperto. Niente cravatta, niente catenina, niente collana e niente orecchini.
+
+Circondalo di ricca erba verde e piccoli fiori sparsi bianchi, rosa chiaro, lavanda e blu, creando un'atmosfera da giardino dolce e romantica. Alcuni fiori dovrebbero essere leggermente sfocati verso i bordi per esaltare la profondità.
+
+Utilizza una luce naturale morbida con riflessi sottili sul viso, ombre delicate, tonalità della pelle realistiche e una profondità di campo ridotta. Mantieni il viso del soggetto estremamente nitido mentre l'erba e i fiori circostanti si ammorbidiscono gradualmente.
+
+Stile: editoriale di moda di lusso, ritratto cinematografico all'aperto, fotografia per riviste di alto livello, dettagli realistici della pelle, cura impeccabile, colori vivaci ma naturali, morbida separazione dallo sfondo, alta gamma dinamica, resa da ritratto a 85 mm, ultra-fotorealistico, ricco di dettagli, qualità 8K.
+
+Composizione: ritratto verticale 4:5, angolazione della telecamera dall'alto, inquadratura ravvicinata, viso come punto focale principale, atmosfera rilassata ed elegante.
 ```
 
 [↑ Torna alle categorie](#catalog)

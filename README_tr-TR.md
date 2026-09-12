@@ -35,20 +35,34 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2098620113964679527"></a>
 
-### Çeviri sürüyor
+### Resmi kıyafetleriyle çiçekli çimenlerde uzanan bir erkeğin fotogerçekçi editoryal portresi.
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2098620113964679527)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Resmi kıyafetleriyle çiçekli çimenlerde uzanan bir erkeğin fotogerçekçi editoryal portresi.
 
 <img src="images/2098620113964679527-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen fotoğrafı ana kompozisyon ve görsel referans olarak kullanın. Küçük, narin çiçeklerle bezenmiş gür yeşil bir çimende rahatça uzanan yetişkin bir erkeğin fotogerçekçi editoryal bir portresini oluşturun.
+
+Görüntüyü yukarıdan aşağıya/kuşbakışı yakın bir açıyla kadrajlayın; temel olarak yüzüne, omuzlarına ve gövdesinin üst kısmına odaklanın. Başını kompozisyonun üst merkezine doğru hafifçe konumlandırın ve bir kolunu rahat bir pozda başının arkasında bükün. Sakin, kendinden emin bir ifade ve hafif, doğal bir gülümsemeyle doğrudan kameraya bakmalıdır.
+
+Ona temiz, kısa, düzgün bir şekilde incelen ve keskin doğal saç çizgisine sahip kısa bir saç modeli, sinekkaydı tıraşlı bir yüz, pürüzsüz doğal cilt dokusu, dengeli yüz oranları ve berrak, anlamlı gözler verin.
+
+Onu sofistike ve koyu renkli resmi bir kıyafetle giydirin: koyu renkli bir yelek üzerine giyilmiş siyah özel dikim bir blazer ceket ve yakası açık bırakılmış pürüzsüz açık mavi düğmeli bir gömlek. Kravat, zincir, kolye ve küpe olmasın.
+
+Etrafını zengin yeşil çimlerle ve etrafa dağılmış küçük beyaz, soluk pembe, lavanta ve mavi çiçeklerle çevreleyerek yumuşak, romantik bir bahçe atmosferi yaratın. Derinliği artırmak için kenarlara doğru bazı çiçekler hafifçe bulanık olmalıdır.
+
+Yüzde hafif parlaklıklar, yumuşak gölgeler, gerçekçi ten tonları ve sığ alan derinliği sağlayan yumuşak doğal gün ışığı kullanın. Çevreleyen çimenler ve çiçekler kademeli olarak yumuşarken, öznenin yüzünü son derece net tutun.
+
+Stil: lüks moda editoryali, sinematik dış mekân portresi, birinci sınıf dergi fotoğrafçılığı, gerçekçi cilt detayı, temiz kişisel bakım, canlı ancak doğal renkler, yumuşak arka plan ayrımı, yüksek dinamik aralık, 85mm portre hissi, ultra fotogerçekçi, yüksek detaylı, 8K kalitesi.
+
+Kompozisyon: dikey 4:5 portre, yukarıdan kamera açısı, yakın çekim kadrajlama, ana odak noktası olarak yüz, rahat ve zarif bir hava.
 ```
 
 [↑ Kategorilere dön](#catalog)

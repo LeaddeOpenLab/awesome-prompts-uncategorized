@@ -35,20 +35,34 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2098620113964679527"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Editorial-Porträt eines Mannes in formeller Kleidung, der auf einer Wiese mit Blumen liegt.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2098620113964679527)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Editorial-Porträt eines Mannes in formeller Kleidung, der auf einer Wiese mit Blumen liegt.
 
 <img src="images/2098620113964679527-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende das hochgeladene Foto als Hauptkomposition und visuelle Referenz. Erstelle ein fotorealistisches Editorial-Porträt eines erwachsenen Mannes, der bequem auf einem üppigen grünen Rasen liegt, der mit kleinen, zarten Blumen übersät ist.
+
+Wähle für das Bild eine nahe Vogelperspektive/Draufsicht und konzentriere dich hauptsächlich auf sein Gesicht, seine Schultern und seinen Oberkörper. Positioniere seinen Kopf leicht in Richtung der oberen Mitte der Komposition, mit einem Arm entspannt hinter dem Kopf angewinkelt. Er sollte mit einem ruhigen, selbstbewussten Ausdruck und einem dezenten, natürlichen Lächeln direkt in die Kamera blicken.
+
+Gib ihm eine saubere, kurze Low-Cut-Frisur mit einem gepflegten Taper und einem scharfen, natürlichen Haaransatz, ein glattrasiertes Gesicht, eine glatte, natürliche Hautstruktur, ausgewogene Gesichtsproportionen und klare, ausdrucksstarke Augen.
+
+Kleide ihn in ein anspruchsvolles, dunkles formelles Outfit: einen schwarzen, maßgeschneiderten Blazer über einer dunklen Weste, kombiniert mit einem frischen, hellblauen Button-down-Hemd mit offenem Kragen. Keine Krawatte, keine Kette, keine Halskette und keine Ohrringe.
+
+Umgib ihn mit sattem grünem Gras und verstreuten kleinen weißen, zartrosa, lavendelfarbenen und blauen Blumen, die eine sanfte, romantische Gartenatmosphäre schaffen. Einige Blumen zu den Rändern hin sollten leicht unscharf sein, um die Tiefe zu verstärken.
+
+Nutze weiches, natürliches Tageslicht mit subtilen Glanzlichtern im Gesicht, sanften Schatten, realistischen Hauttönen und geringer Schärfentiefe. Halte das Gesicht der Person extrem scharf, während das umgebende Gras und die Blumen allmählich weicher werden.
+
+Stil: Luxus-Mode-Editorial, filmisches Outdoor-Porträt, erstklassige Magazinfotografie, realistische Hautdetails, gepflegtes Aussehen, lebendige, aber natürliche Farben, weiche Hintergrundtrennung, hoher Dynamikumfang, 85-mm-Porträt-Anmutung, ultra-fotorealistisch, detailreich, 8K-Qualität.
+
+Komposition: vertikales 4:5-Porträt, Draufsicht-Kamerawinkel, Nahaufnahme-Kadrierung, das Gesicht als Hauptfokus, entspannte, elegante Stimmung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -35,20 +35,34 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2098620113964679527"></a>
 
-### Tradução em curso
+### Retrato editorial fotorrealista de um homem deitado na relva com flores em traje formal.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2098620113964679527)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato editorial fotorrealista de um homem deitado na relva com flores em traje formal.
 
 <img src="images/2098620113964679527-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Use a fotografia enviada como a composição principal e referência visual. Crie um retrato editorial fotorrealista de um homem adulto deitado confortavelmente num relvado verde luxuriante salpicado de pequenas flores delicadas.
+
+Enquadre a imagem a partir de um ângulo zenital/de cima para baixo aproximado, focando-se principalmente no seu rosto, ombros e tronco superior. Posicione a sua cabeça ligeiramente em direção ao centro superior da composição, com um braço dobrado atrás da cabeça numa pose descontraída. Ele deve olhar diretamente para a câmara com uma expressão calma e confiante e um sorriso subtil e natural.
+
+Dê-lhe um corte de cabelo curto e limpo com um degradé cuidado e linha capilar natural bem definida, rosto escanhoado, textura de pele suave e natural, proporções faciais equilibradas e olhos claros e expressivos.
+
+Vista-o com uma indumentária formal escura e sofisticada: um blazer preto por medida sobreposto a um colete escuro, combinado com uma camisa azul-clara impecável usada com o colarinho aberto. Sem gravata, sem corrente, sem colar e sem brincos.
+
+Rodeie-o de relva verde intensa e de pequenas flores dispersas em tons de branco, rosa-claro, alfazema e azul, criando uma atmosfera de jardim suave e romântica. Algumas flores devem estar ligeiramente desfocadas junto às bordas para acentuar a profundidade.
+
+Utilize luz natural suave com realces subtis através do rosto, sombras suaves, tons de pele realistas e profundidade de campo reduzida. Mantenha o rosto do sujeito extremamente nítido enquanto a relva e as flores ao redor se suavizam gradualmente.
+
+Estilo: editorial de moda de luxo, retrato cinematográfico ao ar livre, fotografia de revista de topo, pormenores de pele realistas, apresentação impecável, cores vibrantes mas naturais, separação de fundo suave, elevada gama dinâmica, sensação de retrato com lente de 85 mm, ultrafotorrealista, com grande nível de detalhe, qualidade 8K.
+
+Composição: retrato vertical 4:5, ângulo de câmara superior (overhead), enquadramento em grande plano, rosto como o ponto focal principal, atmosfera descontraída e elegante.
 ```
 
 [↑ Voltar às categorias](#catalog)
