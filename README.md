@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**156** Prompts · Latest addition: **2026-09-13**
+**157** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3463,6 +3463,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098966144203759642"></a>
+
+### Fashion editorial composite of a man in an emerald tracksuit set against an oversized black-and-white portrait of himself.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2098966144203759642)
+
+Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Fashion editorial composite of a man in an emerald tracksuit set against an oversized black-and-white portrait of himself.
+
+<img src="images/2098966144203759642-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded photo as the facial identity reference.\n\nUse the uploaded photo as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and overall appearance naturally.\n\nCreate a high-end photorealistic editorial composite portrait of a confident adult man with thick, neatly styled dark hair and a completely clean-shaven face — no beard, no mustache, no goatee, and no visible stubble.\n\nIn the foreground, show him full-body, standing slightly left of center in a relaxed three-quarter pose. Dress him in a premium emerald-green matching tracksuit: a fitted pullover hoodie with drawstrings and front kangaroo pocket, paired with matching tapered joggers. Finish the outfit with clean minimalist white low-top sneakers. Keep the styling simple and modern, with no necklace or chain. His expression should be serious and composed, looking slightly away from the camera.\n\nBehind him, create an enormous black-and-white close-up portrait of the same man, filling almost the entire background from edge to edge. Show the giant portrait from a dramatic three-quarter side angle with sharp facial detail, realistic skin texture, expressive eyes, and the same clean-shaven appearance. The oversized background portrait should wear a dark hoodie, blending naturally into a smooth charcoal-gray studio background.\n\nUse the strong contrast between the vivid emerald-green foreground figure and the monochrome oversized portrait as the main visual concept. Soft directional studio lighting, subtle shadows, premium fashion-campaign aesthetic, realistic fabric folds, crisp facial details, cinematic depth, ultra-realistic photography, clean composition, high resolution.\n\nAspect ratio: 3:4 portrait.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098975010832658829"></a>
 
