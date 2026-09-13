@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**143** Prompts · Latest addition: **2026-09-13**
+**144** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3155,6 +3155,298 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098904393735340079"></a>
+
+### refined modern feminine outfit with a black chiffon cape-collar blouse, cool gray pleated mini skirt, deep muted red thigh-highs, blue-green crossbody bag, and antique-gold accessories.
+
+Author：[@hiyayaxtukog68](https://x.com/hiyayaxtukog68) · [Source](https://x.com/hiyayaxtukog68/status/2098904393735340079)
+
+Fashion Item · Published
+
+**Summary:** refined modern feminine outfit with a black chiffon cape-collar blouse, cool gray pleated mini skirt, deep muted red thigh-highs, blue-green crossbody bag, and antique-gold accessories.
+
+<img src="images/2098904393735340079-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+refined modern feminine outfit,
+black + cool gray + deep muted red + blue-green + antique gold color palette,
+elegant lightweight early-autumn fashion,
+
+━━━━━━━━━━━━━━━━━━
+TOP
+━━━━━━━━━━━━━━━━━━
+
+black chiffon cape-collar blouse,
+
+lightweight semi-sheer black chiffon,
+soft airy woven fabric,
+delicate transparent outer layers,
+matte black main body,
+
+small neat shirt-style collar at the neckline,
+clean close neckline,
+short front opening with several tiny dark buttons,
+
+large cape-style shoulder construction,
+the cape begins around the shoulder line and upper chest,
+soft flowing chiffon panels draping over both shoulders,
+
+two to three visually separated fluttering chiffon layers around the upper arms,
+wide flowing cape sleeves,
+soft scalloped or gently curved edges,
+light translucent layering,
+
+uppermost cape layer falling to approximately the upper-arm level,
+lower chiffon layer extending slightly farther,
+clear separation between each translucent layer,
+
+IMPORTANT:
+the shoulder treatment reads as a chiffon cape collar / cape sleeve hybrid,
+not a structured jacket,
+not a thick cape,
+not ordinary short sleeves,
+
+main blouse torso:
+opaque-to-semi-opaque black fabric beneath the cape,
+gently fitted body,
+subtle vertical drape,
+clean waist transition,
+
+soft lightweight construction,
+no heavy lace,
+no corset structure,
+no puffed shoulder padding,
+no large bow,
+
+black fabric retains readable folds and midtones,
+not solid featureless black,
+
+━━━━━━━━━━━━━━━━━━
+SKIRT
+━━━━━━━━━━━━━━━━━━
+
+cool medium-gray high-waisted tuck-pleated mini skirt,
+
+structured woven fabric,
+smooth matte finish,
+clean tailored appearance,
+
+high-rise waist,
+fitted waistband,
+close clean fit around upper waist and hips,
+
+multiple wide vertical tuck pleats,
+well-defined pressed pleat structure,
+pleats opening gradually toward the hem,
+
+moderately flared A-line mini silhouette,
+short hem ending at the upper thighs,
+
+slightly dynamic but controlled skirt volume,
+not extremely flared,
+
+integrated inner shorts underneath,
+inner shorts concealed beneath the skirt,
+functional secure mini-skirt construction,
+
+cool neutral gray,
+not charcoal black,
+not beige gray,
+not blue-gray,
+
+no plaid,
+no printed pattern,
+no lace trim,
+no ruffled hem,
+
+━━━━━━━━━━━━━━━━━━
+BELT
+━━━━━━━━━━━━━━━━━━
+
+black leather-like waist belt,
+
+medium-width belt,
+worn at the high waist over the skirt waistband,
+
+smooth matte-to-soft-satin black surface,
+
+single rectangular buckle,
+muted antique-gold or brass-toned metal buckle,
+
+clean simple belt construction,
+one centered buckle,
+no decorative chains,
+no oversized hardware,
+
+the belt clearly defines the waist
+and visually separates the black blouse from the gray skirt,
+
+━━━━━━━━━━━━━━━━━━
+LEGWEAR
+━━━━━━━━━━━━━━━━━━
+
+deep muted red thigh-high tights,
+
+dark brick red to muted wine-red color,
+solid-color hosiery,
+
+upper edge positioned clearly on the upper thighs,
+leaving a visible section of bare thigh between the mini skirt hem and the hosiery,
+
+smooth straight upper band,
+minimal decoration,
+
+fine-gauge knitted hosiery,
+soft matte surface,
+slight vertical knit texture,
+
+close-fitting,
+opaque to mostly opaque,
+
+IMPORTANT:
+thigh-high / stay-up height is intentional,
+not knee-high,
+not crew socks,
+not pantyhose,
+
+no garter straps,
+no lace top,
+no bows,
+no printed motifs,
+no stripes,
+
+rich controlled muted red,
+not bright scarlet,
+not pink,
+not purple,
+
+━━━━━━━━━━━━━━━━━━
+BAG
+━━━━━━━━━━━━━━━━━━
+
+compact blue-green crossbody shoulder bag,
+
+deep muted teal,
+blue-green / dark petrol-teal color,
+
+small-to-medium practical size,
+
+structured rounded-rectangular body,
+softly curved lower corners,
+slightly domed front silhouette,
+
+front flap construction,
+clean flap edge,
+
+small understated antique-gold rectangular clasp or buckle hardware,
+
+long narrow crossbody strap,
+strap running diagonally across the torso,
+
+matching blue-green strap,
+small gold-tone strap fittings,
+
+smooth leather-like or coated material,
+subtle controlled sheen,
+moderately structured,
+not slouchy,
+
+minimalist practical design,
+no visible logo,
+no quilting,
+no chain strap,
+no excessive hardware,
+
+━━━━━━━━━━━━━━━━━━
+NECKLACE / PENDANT
+━━━━━━━━━━━━━━━━━━
+
+delicate antique-gold necklace,
+
+very fine gold-tone chain,
+
+small golden-brown mineral pendant,
+staurolite-inspired natural stone pendant,
+
+small irregular cross-like or mineral-crystal silhouette,
+warm golden-brown stone,
+subtle antique-gold mounting,
+
+pendant resting around the upper chest,
+
+minimal and refined,
+not oversized,
+not statement jewelry,
+
+━━━━━━━━━━━━━━━━━━
+EARRINGS
+━━━━━━━━━━━━━━━━━━
+
+matching small golden staurolite-inspired drop earrings,
+
+warm antique-gold metal,
+small golden-brown mineral accents,
+
+delicate narrow dangling form,
+small cross-like natural stone motif,
+
+lightweight elegant scale,
+not oversized,
+not chandelier earrings,
+
+━━━━━━━━━━━━━━━━━━
+WATCH
+━━━━━━━━━━━━━━━━━━
+
+elegant jewelry bracelet wristwatch,
+
+small round watch face,
+warm champagne-gold / antique-gold case,
+
+pale cream or light neutral dial,
+
+slender metallic bracelet band,
+refined jewelry-style construction,
+
+small decorative bezel details,
+subtle luxury finish,
+
+not a smartwatch,
+not a sports watch,
+not an oversized wristwatch,
+
+━━━━━━━━━━━━━━━━━━
+OVERALL MATERIAL BALANCE
+━━━━━━━━━━━━━━━━━━
+
+airy semi-transparent black chiffon,
+smooth structured gray skirt fabric,
+matte black leather-like belt,
+fine soft thigh-high hosiery,
+smooth structured blue-green bag material,
+restrained antique-gold metal jewelry,
+
+strong texture contrast between:
+transparent chiffon,
+structured pleats,
+smooth belt,
+soft hosiery,
+structured bag,
+small metallic accessories,
+
+refined modern feminine styling,
+elegant but wearable,
+slightly classical accent,
+clean sophisticated color blocking,
+no excessive ornamentation
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098888285263114380"></a>
 
