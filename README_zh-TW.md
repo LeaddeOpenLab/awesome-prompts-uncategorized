@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**149** 筆內容 · 最新收錄: **2026-09-13**
+**150** 筆內容 · 最新收錄: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2734,6 +2734,28 @@ FIELD NOTE [編號]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2098980488379801716"></a>
+
+### 翻譯中
+
+作者：[@RobotCleopatra](https://x.com/RobotCleopatra) · [查看 X 原帖](https://x.com/RobotCleopatra/status/2098980488379801716)
+
+風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2098980488379801716-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098925727488135307"></a>
 

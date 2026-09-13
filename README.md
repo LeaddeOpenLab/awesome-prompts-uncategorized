@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**149** Prompts · Latest addition: **2026-09-13**
+**150** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3309,6 +3309,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098980488379801716"></a>
+
+### a low angle, full body shot of a biomechanical humanoid figure with metallic blue-gold armor, a single wing, and glowing claws against a sunset mountain sky.
+
+Author：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Source](https://x.com/RobotCleopatra/status/2098980488379801716)
+
+Landscape / Nature · Published
+
+**Summary:** a low angle, full body shot of a biomechanical humanoid figure with metallic blue-gold armor, a single wing, and glowing claws against a sunset mountain sky.
+
+<img src="images/2098980488379801716-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+a low angle, full body shot of a biomechanical humanoid figure standing on a rocky outcrop. the figure features metallic blue and gold armor plating with glowing orange elements. it has a helmet with a sharp visor and a single, large wing covered in metallic blue feathers with gold accents on its left side. its hands are clawed and glow orange. streamers of metallic gold fabric float behind it. the background consists of a dramatic, cloudy sky with sunbeams breaking through, lighting up the scene with an orange glow. small bird like silhouettes fly in the distance over a hazy, mountainous landscape.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098925727488135307"></a>
 
