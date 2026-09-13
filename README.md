@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**139** Prompts · Latest addition: **2026-09-13**
+**140** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,68 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098910538160083087"></a>
+
+### Realistic photo prompt of a Japanese woman relaxing on a sofa in pale lavender lingerie, looking at her smartphone and smiling on a holiday afternoon in her living room.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098910538160083087)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic photo prompt of a Japanese woman relaxing on a sofa in pale lavender lingerie, looking at her smartphone and smiling on a holiday afternoon in her living room.
+
+<img src="images/2098910538160083087-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Holiday Afternoon Sofa | Pale Lavender and a Gentle Smile🌟
+
+【Subject / Style】
+A photorealistic snapshot capturing a moment of an explicitly adult Japanese woman relaxing on a sofa in her home living room on a holiday afternoon. The expression should balance an elegant Japanese lingerie advertisement with a natural, lived-in snapshot, maintaining an approachability as if spontaneously taken during a real holiday, rather than an overly polished studio shoot.
+Combining delicate pale lavender attire, a smartphone, soft cushions, and afternoon natural light, this photograph naturally coexists adult-like cuteness with gentle allure. Make it compelling not only through her neckline/cleavage, but also her expression, posture, and the room's atmosphere.
+
+【Location / Background / Worldview】
+A bright, clean, modern home living room. Centered around a large ivory to light beige sofa, arranged with a wooden low coffee table, pale-colored cushions, a light throw blanket, and indoor houseplants. In the background, place wooden cabinets, small frames, and a flower vase modestly, creating a space with a sense of life without being overly cluttered.
+On the low table, naturally place a drink in a transparent glass or cup, along with a few magazines or art books. Create a composition where depth is felt from the window to the houseplants, sofa, and table, leaving the background softly blurred yet clear enough to recognize it as a "holiday home living room."
+
+【Season / Time / Weather】
+A mild holiday afternoon reminiscent of spring to early summer, around 14:00 to 16:00. The weather outside is bright with clear skies or light clouds, and rather than intense direct sunlight, soft natural light enters the room through a large window.
+The room feels slightly warm, at a comfortable temperature without the need to keep windows shut tight. Without showing strong wind itself, let curtains or part of her hair sway ever so slightly, creating a quiet, relaxed atmosphere typical of a holiday where time flows slowly.
+
+【Character Details】
+An explicitly adult Japanese woman aged around 20 to 28. Features soft, well-balanced facial traits with slightly large dark eyes, natural eyebrows, flushed healthy lips, and gently rounded cheeks. Natural wavy dark brown hair falling below the shoulders, with delicate loose strands around the face. Skin is a bright ochre tone, with a realistic texture revealing pores, fine shading, and natural healthy color.
+Dainty shoulders, arms, and legs, featuring a naturally glamorous figure harmonizing a slender waist with feminine curves. Breasts have an explicitly large and ample volume, but without becoming rigid spheres or being pushed up extremely; express soft roundness and weight conforming to her seated posture and the support of the garment. Hips also possess moderate roundness connecting naturally from the waist.
+
+【Costume / Accessories】
+An elegant Wacoal-style luxury lingerie set based on pale lavender. The bra combines sheer tulle with delicate small floral embroidery, featuring fine flower patterns in pale lavender thread around the cups. Thin straps and small ribbons are used modestly; gloss is not overly strong, emphasizing soft fabric textures. Bottoms have a coordinated design using embroidery and tulle in matching tones.
+A realistic size and structure that naturally fits an ample bust without the fabric stretching unnaturally or digging into the body. Basically no jewelry, or limited to small stud earrings if any. Let her hold a smartphone as an everyday item, adding no flashy decorations that outshine the attire.
+
+【Pose / Action / Gaze】
+Sitting sideways on the large sofa, stably resting her hips and seat. One leg has the knee lightly bent, naturally placed on the sofa cushion, while the other leg is relaxed and draped sideways. Weight is naturally entrusted to the waist and sofa-side hip, with the back not overly straight, adopting a slightly relaxed posture typical of a holiday.
+Holding a smartphone in one hand, looking as if she was looking at the screen until just a moment ago. The other arm rests lightly on a large cushion or holds it beside her waist. The cushion is placed beside her body, not hiding her neckline or the entire costume. A moment when she found something amusing on her phone and looked up, body slightly angled toward the front, with only her face and gaze directed slightly away from the camera.
+
+【Expression / Emotion】
+The expression right after looking at the smartphone screen and unintentionally giggling or smiling slightly. Corners of the mouth naturally and slightly lifted, cheeks softly relaxing, with a gentle smile remaining in her eyes. Not a big laughing expression, but a small, natural reaction of thinking "this is kind of funny."
+Not a forced smile heavily conscious of the camera; her gaze is slightly outside the camera lens. No tension in the eyebrows or around the eyes, evoking a relaxed holiday mood, a slightly bashful approachability, and adult charm.
+
+【Composition / Camera】
+A 4:5 vertical composition suited for X posts. A near-full-body framing naturally fitting the subject from the crown of the head to near the tips of her feet, showing the sofa cushion, pillows, part of the low coffee table, and background houseplants. Place the subject slightly off-center, leaving a little negative space in the direction of her gaze to avoid a cramped feel.
+Camera positioned naturally near chest to shoulder height of the seated subject. Shooting distance around 2-3 meters, assuming a standard to medium-telephoto angle of view of around 50-70mm, without exaggerating body perspective. Depth of field is not excessively shallow, blurring the background furniture and plants just enough to identify their presence while keeping the subject sharp.
+
+【Lighting / Color / Texture / Atmosphere】
+Main light source is afternoon natural light entering from a large window on the left or diagonally in front. Softly illuminating the face, shoulders, neckline, and arms, with bounce light from the sofa and walls lightly lifting the shadows on the opposite side. Shadows are not harsh, creating natural indoor light with gently falling contours. Color temperature leans slightly warm neutral.
+Skin retains fine shading, pores, and natural blood circulation, avoiding excessive skin smoothing. Hair depicts individual strand flow and soft sheen; lingerie showcases the sheer quality of the tulle and fine dimensional feel of embroidery threads; sofa and cushions exhibit woven fabric textures. Centered around lavender, ivory, pale wood tones, and plant greens, balanced into a calm, bright, holiday-like color palette.
+
+【Quality / Excluded Elements】
+High-resolution photorealistic photography. Prioritizing natural human anatomy, perspective, light, and fabric/skin textures as if captured by a real camera. Avoid subjects looking underage or having overly juvenile facial features, unnatural body proportions, extra limbs/fingers, missing fingers, fused fingers, unnatural joints, and confusion between left and right hands.
+Avoid costume tears, merging of body and costume, fabric floating unnaturally off the body, extreme digging-in, and unintended exposure. While maintaining ample, natural breast volume, do not depict unnatural gigantism, rigid spheres, extreme push-up, or gravity-defying shapes. Exclude extreme wide-angle distortion, excessive beauty filters, unnatural backgrounds, text, logos, watermarks, and UI elements.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098909634665082938"></a>
 
