@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**169** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**170** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2977,6 +2977,30 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2099222326097375613"></a>
+
+### Übersetzung läuft
+
+Autor：[@losslandscape](https://x.com/losslandscape) · [Originalbeitrag](https://x.com/losslandscape/status/2099222326097375613)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099222326097375613-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099222326097375613-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099220675223232866"></a>
 
