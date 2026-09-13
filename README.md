@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**170** Prompts · Latest addition: **2026-09-13**
+**171** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3649,6 +3649,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099203350281797949"></a>
+
+### A soul holds a passage coin by a dark river, waiting for Charon.
+
+Author：[@Novasynthetica](https://x.com/Novasynthetica) · [Source](https://x.com/Novasynthetica/status/2099203350281797949)
+
+Other · Published
+
+**Summary:** A soul holds a passage coin by a dark river, waiting for Charon.
+
+<img src="images/2099203350281797949-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A soul reaches the black river at the end of everything. Charon is waiting, the last ember of life is fading, and the coin for passage is already in hand.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099222326097375613"></a>
 

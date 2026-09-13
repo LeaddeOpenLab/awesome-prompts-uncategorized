@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**170** 条内容 · 最新收录: **2026-09-13**
+**171** 条内容 · 最新收录: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3006,6 +3006,28 @@ FIELD NOTE [编号]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2099203350281797949"></a>
+
+### 翻译中
+
+作者：[@Novasynthetica](https://x.com/Novasynthetica) · [查看 X 原帖](https://x.com/Novasynthetica/status/2099203350281797949)
+
+其他 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099203350281797949-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099222326097375613"></a>
 
