@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**150** Prompts · Adição mais recente: **2026-09-13**
+**151** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2278,6 +2278,28 @@ Tradução em curso
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2099002510040310019"></a>
+
+### Tradução em curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2099002510040310019)
+
+Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099002510040310019-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098953133443764274"></a>
 

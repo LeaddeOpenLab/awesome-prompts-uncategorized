@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**150** Prompts · Última incorporación: **2026-09-13**
+**151** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2261,6 +2261,28 @@ Traducción en curso
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099002510040310019"></a>
+
+### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2099002510040310019)
+
+Fotografía · Retro / Vintage · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099002510040310019-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098953133443764274"></a>
 

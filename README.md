@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**150** Prompts · Latest addition: **2026-09-13**
+**151** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2704,6 +2704,60 @@ A lone woman in a vivid red coat walks along a long wooden pier disappearing int
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099002510040310019"></a>
+
+### Portrait photography of an East Asian woman on a wooden swing in a rural park, featuring 2000s vintage digital camera aesthetic and specific clothing details.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2099002510040310019)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Portrait photography of an East Asian woman on a wooden swing in a rural park, featuring 2000s vintage digital camera aesthetic and specific clothing details.
+
+<img src="images/2099002510040310019-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hyper-realistic outdoor swing portrait photography, landscape orientation around 4:3, featuring a young adult East Asian woman, clearly adult, sitting sideways on a wooden board swing in a rural park. Her body is positioned on the left side of the frame, leaving a large area of woods, trails, and shaded environment on the right. The overall image resembles a travel snapshot casually taken on a clear afternoon with a 2000s compact digital camera, featuring bright colors, relatively high contrast, and a subtle vintage CCD aesthetic.
+
+The photographer is positioned roughly 2–3 meters in front and slightly to the right of the subject, using a 28–35mm equivalent wide-angle lens, at a camera height close to the swing seat level and angling slightly upwards. The subject is framed completely from head to toe, with one leg extended far toward the bottom right of the frame, creating a distinct diagonal line; the swing chains hang down from the top of the frame, enhancing depth. No telephoto bokeh blur, no commercial studio photography.
+
+The subject is a young adult East Asian woman with a small-to-medium frame, somewhat narrow shoulders, naturally slim waist, long and well-proportioned legs, thighs with a normal soft volume, calves tapering down smoothly, presenting an overall naturally slender proportion. No athletic muscular build, heavy thick legs, or exaggerated hourglass figure.
+
+The subject sits sideways on a thick, warm brown solid wood swing board, with her upper body turned slightly toward the camera. Both hands hold the thick metal chains on either side: one hand placed higher near the side of her face, the other around chest-to-shoulder height. Her body leans back slightly with relaxed shoulders.
+
+The leg pose is the focus: one leg is fully extended forward from the swing, toes pointing toward the bottom right corner of the frame; the other leg is partially concealed by the seat board and the front leg. The extended leg is almost parallel to the ground, creating a very striking sense of horizontal extension. Do not have both legs hanging down together, and do not have them curled up.
+
+The subject has ultra-long straight raven-black hair reaching down around her waist, middle-parted or slightly side-parted, without thick heavy bangs. The hair falls naturally over her shoulders and back, displaying soft blackish-brown highlights under the sunlight. She turns her head to look at the camera, wearing an easy, natural toothy smile, with an upbeat, relaxed expression that feels like an authentic candid travel photo.
+
+On top, she wears a very ordinary white short-sleeve crewneck T-shirt, slightly loose fit, made of soft cotton, with the hem naturally bunched around the waist. Not tight-fitting, not a crop top, no graphics.
+
+On the bottom, she wears light off-white / cream-white shorts made of lightweight fabric, featuring very small colorful micro-floral or scattered tiny patterns, predominantly in low-saturation colors such as pale pink, soft red, and muted blue. The shorts reach the upper thigh with a relaxed, natural silhouette; no denim shorts or pleated skirts.
+
+On her legs, she wears a very eye-catching pair of slate blue / hazy blue thigh-high or over-the-knee socks, covering from near the thigh all the way to the feet, made of an opaque fine-knit material. The blue surface of the socks is evenly dotted with tiny pink and red floral specks, forming a very delicate, subtle pattern; do not turn them into large patterns or stripes.
+
+On her feet, she wears light pink flat shoes / soft-soled ballet flats in a gentle coral pink or peach pink, with a simple round-toe, low-cut silhouette and no heels. The extended foot is completely visible, with the pink shoe and blue long sock creating a strong yet cute color-blocking effect.
+
+The swing consists of two thick silver-gray metal chains and a rectangular wooden board seat; the chains are clearly visible, extending upward from both sides of the subject to the top of the frame. The seat board is made of warm brown wood with thick edges and subtle signs of use on its surface.
+
+The setting is a sunny rural park / foothill recreation area. Behind the subject to the left is a bright green lawn and low vegetation, with neat farmlands, bamboo/wooden fences, or rustic countryside amenities further in the distance. In the far distance of the frame, a layer of faint blue-gray mountains is visible, their contours softened by atmospheric haze.
+
+Occupying about half of the frame on the right is a dense, tall forest with deep green canopies and heavy shadows, tree trunks stretching from the ground up to the top of the frame. Among the trees lies a dirt/wooden pathway, scattered with a few rustic wooden play facilities, hanging ropes, or swing frame structures, feeling completely natural and unpretentious; not a modern city park.
+
+The weather is a very bright summer afternoon, with high-saturation light blue sky in the upper left, and sunlight entering from the front left of the frame. The subject's skin, white T-shirt, grass, and extended leg are illuminated by strong sunlight; the forest on the right falls into distinct deep shadow, creating significant chiaroscuro contrast.
+
+The overall image has the texture of a 2000s compact digital camera / CCD travel snapshot: relatively vivid colors, slightly saturated greens and blues, localized slight highlight blowout in sunny areas, deep shadows, limited dynamic range, slightly soft edges, with subtle digital sharpening and JPEG compression feel. No modern HDR, no cinematic color grading.
+
+Key focal points locked: adult East Asian woman + rural wooden swing + horizontal 4:3 + ultra-long straight black hair + natural open-mouth toothy smile + white short-sleeve T-shirt + light micro-floral shorts + slate-blue over-the-knee socks with tiny pink floral dots + light pink flats + both hands gripping metal swing chains + sitting sideways on swing + one leg fully straightened horizontally forward + green lawn + distant mountains + large expanse of dark woods on the right + bright strong sunlight + vintage digital camera travel photo aesthetic.
+
+Avoid: short hair, blunt bangs, long dress, uniform, black stockings, white socks, bare legs, sneakers, high heels, legs hanging naturally downward, standing pose, indoor swing, urban streetscape, beach, modern amusement park, heavy background blur/bokeh, cinematic lighting effects, excessive HDR, plastic skin, anime face, CG look, extra limbs, watermarks, and garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098953133443764274"></a>
 

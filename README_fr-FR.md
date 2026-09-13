@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**150** Prompts · Dernier ajout: **2026-09-13**
+**151** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2261,6 +2261,28 @@ Traduction en cours
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2099002510040310019"></a>
+
+### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2099002510040310019)
+
+Photographie · Rétro / Vintage · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099002510040310019-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098953133443764274"></a>
 
