@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**165** Prompts · Dernier ajout: **2026-09-13**
+**166** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1986,13 +1986,13 @@ Luffy caresse tendrement la tête d'Anya, Anya se jette dans ses bras, entourés
 
 <a name="prompt-2099142803704152513"></a>
 
-### Traduction en cours
+### Prompt d'illustration de Tanabata de deux personnes en gakuran noir s'embrassant sous des branches de bambou.
 
 Auteur：[@leftbypeace](https://x.com/leftbypeace) · [Publication originale](https://x.com/leftbypeace/status/2099142803704152513)
 
 Illustration · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'illustration de Tanabata de deux personnes en gakuran noir s'embrassant sous des branches de bambou.
 
 <img src="images/2099142803704152513-1.jpg" alt="Image 1" width="480" />
 
@@ -2001,7 +2001,11 @@ Illustration · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Commun: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, papiers de vœux colorés suspendus aux branches de bambou, décorations de tanabata, feuilles vertes denses, rubans et bandes de papier les entourant, lumière chaude du jour, ombres douces, ambiance romantique et juvénile, illustration épurée, palette colorée aux tons doux
+
+A: 3::black gakuran::, accroupi très près de B, une main tenant doucement le cou ou le col de B, 2::eyes closed::, se penchant doucement
+
+B: 3::black gakuran::, accroupi face à A, une main reposant près du genou, l'autre main touchant doucement la manche de A, 2::eyes closed::, se penchant dans le baiser
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2369,6 +2373,34 @@ Traduction en cours
 <a name="category-oil-painting"></a>
 
 ## Peinture à l'huile
+
+<a name="prompt-2099147187955675169"></a>
+
+### Traduction en cours
+
+Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2099147187955675169)
+
+Rendu 3D · Peinture à l'huile · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099147187955675169-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

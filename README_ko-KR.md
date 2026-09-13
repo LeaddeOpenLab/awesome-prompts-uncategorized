@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**165** 개 · 최근 추가: **2026-09-13**
+**166** 개 · 최근 추가: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2016,13 +2016,13 @@ CGI 털,
 
 <a name="prompt-2099142803704152513"></a>
 
-### 번역 중
+### 대나무 가지 아래에서 검은 가쿠란을 입고 키스하는 두 사람의 칠석 일러스트 프롬프트.
 
 작성자：[@leftbypeace](https://x.com/leftbypeace) · [원본 게시물](https://x.com/leftbypeace/status/2099142803704152513)
 
 일러스트레이션 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 대나무 가지 아래에서 검은 가쿠란을 입고 키스하는 두 사람의 칠석 일러스트 프롬프트.
 
 <img src="images/2099142803704152513-1.jpg" alt="이미지 1" width="480" />
 
@@ -2031,7 +2031,11 @@ CGI 털,
 **프롬프트**
 
 ```text
-번역 중
+공용: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, 대나무 가지에 걸린 다채로운 소원 종이, 칠석 장식, 빽빽한 초록 잎사귀들, 그들을 둘러싼 리본과 종이 띠, 따뜻한 자연광, 부드러운 그림자, 청춘의 로맨틱한 분위기, 깔끔한 일러스트, 차분하고 다채로운 색조
+
+A: 3::black gakuran::, B에 매우 가깝게 웅크리고 있음, 한 손으로 B의 목이나 옷깃을 가볍게 잡음, 2::eyes closed::, 부드럽게 다가감
+
+B: 3::black gakuran::, A를 마주보고 웅크리고 있음, 한 손은 무릎 근처에 두고, 다른 한 손은 A의 소매를 가볍게 만짐, 2::eyes closed::, 키스에 몸을 기울임
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)
@@ -2399,6 +2403,34 @@ CGI 털,
 <a name="category-oil-painting"></a>
 
 ## 유화
+
+<a name="prompt-2099147187955675169"></a>
+
+### 번역 중
+
+작성자：[@Hamburgerai](https://x.com/Hamburgerai) · [원본 게시물](https://x.com/Hamburgerai/status/2099147187955675169)
+
+3D 렌더링 · 유화 · 건축 / 인테리어 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099147187955675169-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**165** Prompt · Son eklenen: **2026-09-13**
+**166** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2003,13 +2003,13 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 <a name="prompt-2099142803704152513"></a>
 
-### Çeviri sürüyor
+### Bambu dalları altında siyah gakuran giymiş öpüşen iki kişinin Tanabata illüstrasyonu istemi.
 
 Yazar：[@leftbypeace](https://x.com/leftbypeace) · [Orijinal gönderi](https://x.com/leftbypeace/status/2099142803704152513)
 
 İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bambu dalları altında siyah gakuran giymiş öpüşen iki kişinin Tanabata illüstrasyonu istemi.
 
 <img src="images/2099142803704152513-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2018,7 +2018,11 @@ Yazar：[@leftbypeace](https://x.com/leftbypeace) · [Orijinal gönderi](https:/
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ortak: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, bambu dallarından sarkan renkli dilek kağıtları, tanabata süslemeleri, sık yeşil yapraklar, onları çevreleyen kurdeleler ve kağıt şeritler, sıcak gün ışığı, yumuşak gölgeler, genç ve romantik bir hava, temiz illüstrasyon, yumuşak renkli palet
+
+A: 3::black gakuran::, B'nin çok yakınında çömelmiş, bir eli hafifçe B'nin boynunu veya yakasını tutuyor, 2::eyes closed::, nazikçe öne eğiliyor
+
+B: 3::black gakuran::, A'ya dönük çömelmiş, bir eli dizinin yanında duruyor, diğer eli hafifçe A'nın koluna dokunuyor, 2::eyes closed::, öpücüğe doğru eğiliyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2386,6 +2390,34 @@ Poster / El İlanı · İzometrik · Yayımlandı
 <a name="category-oil-painting"></a>
 
 ## Yağlı Boya Tablo
+
+<a name="prompt-2099147187955675169"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2099147187955675169)
+
+3D Modelleme · Yağlı Boya Tablo · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099147187955675169-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

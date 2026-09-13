@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**165** 件 · 最新の追加: **2026-09-13**
+**166** 件 · 最新の追加: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2016,13 +2016,13 @@ CM全体を通して、提供された参照画像/動画と完全に一致す�
 
 <a name="prompt-2099142803704152513"></a>
 
-### 翻訳中
+### 竹の枝の下で黒い学ランを着てキスをする二人の七夕イラストプロンプト。
 
 作者：[@leftbypeace](https://x.com/leftbypeace) · [元の投稿](https://x.com/leftbypeace/status/2099142803704152513)
 
 イラスト · 配信済み
 
-**概要:** 翻訳中
+**概要:** 竹の枝の下で黒い学ランを着てキスをする二人の七夕イラストプロンプト。
 
 <img src="images/2099142803704152513-1.jpg" alt="画像 1" width="480" />
 
@@ -2031,7 +2031,11 @@ CM全体を通して、提供された参照画像/動画と完全に一致す�
 **プロンプト**
 
 ```text
-翻訳中
+共通: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, 竹に吊るされた色とりどりの短冊, 七夕の飾り, 密生した緑の葉, 周りを取り囲むリボンと紙の短冊, 暖かい昼光, 柔らかな影, 青春のロマンチックな雰囲気, 清潔感のあるイラスト, 落ち着いた多彩なカラーパレット
+
+A: 3::black gakuran::, Bのすぐ近くでしゃがんでいる, 片手でBの首または襟を軽く持っている, 2::eyes closed::, 優しく身を乗り出す
+
+B: 3::black gakuran::, Aに向かい合ってしゃがんでいる, 片手は膝の近くに置き, もう一方の手でAの袖に軽く触れている, 2::eyes closed::, キスに身を委ねる
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -2399,6 +2403,34 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 <a name="category-oil-painting"></a>
 
 ## 油絵
+
+<a name="prompt-2099147187955675169"></a>
+
+### 翻訳中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [元の投稿](https://x.com/Hamburgerai/status/2099147187955675169)
+
+3D レンダリング · 油絵 · 建築 / インテリア · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099147187955675169-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

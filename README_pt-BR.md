@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**165** Prompts · Última adição: **2026-09-13**
+**166** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2003,13 +2003,13 @@ Luffy faz carinho na cabeça de Anya com ternura, Anya se joga em seus braços, 
 
 <a name="prompt-2099142803704152513"></a>
 
-### Tradução em andamento
+### Prompt de ilustração de Tanabata de duas pessoas vestindo gakuran preto se beijando sob galhos de bambu.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicação original](https://x.com/leftbypeace/status/2099142803704152513)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de ilustração de Tanabata de duas pessoas vestindo gakuran preto se beijando sob galhos de bambu.
 
 <img src="images/2099142803704152513-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2018,7 +2018,11 @@ Ilustração · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Comum: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, papéis coloridos de desejos pendurados em galhos de bambu, decorações de tanabata, folhas verdes densas, fitas e tiras de papel ao redor deles, luz do dia quente, sombras suaves, clima romântico juvenil, ilustração limpa, paleta colorida e suave
+
+A: 3::black gakuran::, agachado muito perto de B, uma mão segurando levemente o pescoço ou o colarinho de B, 2::eyes closed::, inclinando-se suavemente
+
+B: 3::black gakuran::, agachado de frente para A, uma mão apoiada perto do joelho, a outra mão tocando levemente a manga de A, 2::eyes closed::, inclinando-se para o beijo
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2386,6 +2390,34 @@ Tradução em andamento
 <a name="category-oil-painting"></a>
 
 ## Pintura a Óleo
+
+<a name="prompt-2099147187955675169"></a>
+
+### Tradução em andamento
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2099147187955675169)
+
+Renderização 3D · Pintura a Óleo · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099147187955675169-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

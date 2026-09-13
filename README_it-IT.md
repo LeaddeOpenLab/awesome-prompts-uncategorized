@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**165** Prompt · Ultima aggiunta: **2026-09-13**
+**166** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1986,13 +1986,13 @@ Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia,
 
 <a name="prompt-2099142803704152513"></a>
 
-### Traduzione in corso
+### Prompt per illustrazione di Tanabata di due persone con indosso il gakuran nero che si baciano sotto rami di bambù.
 
 Autore：[@leftbypeace](https://x.com/leftbypeace) · [Post originale](https://x.com/leftbypeace/status/2099142803704152513)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per illustrazione di Tanabata di due persone con indosso il gakuran nero che si baciano sotto rami di bambù.
 
 <img src="images/2099142803704152513-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2001,7 +2001,11 @@ Illustrazione · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Comune: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, strisce di carta colorata dei desideri appese ai rami di bambù, decorazioni per il tanabata, fitte foglie verdi, nastri e strisce di carta che li circondano, calda luce diurna, ombre morbide, atmosfera romantica giovanile, illustrazione pulita, tavolozza colorata e tenue
+
+A: 3::black gakuran::, accovacciato molto vicino a B, una mano che tiene delicatamente il collo o il colletto di B, 2::eyes closed::, sporgendosi dolcemente in avanti
+
+B: 3::black gakuran::, accovacciato di fronte ad A, una mano appoggiata vicino al ginocchio, l'altra mano che tocca delicatamente la manica di A, 2::eyes closed::, abbandonandosi al bacio
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2369,6 +2373,34 @@ Traduzione in corso
 <a name="category-oil-painting"></a>
 
 ## Pittura a Olio
+
+<a name="prompt-2099147187955675169"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2099147187955675169)
+
+Rendering 3D · Pittura a Olio · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099147187955675169-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

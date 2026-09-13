@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**165** 筆內容 · 最新收錄: **2026-09-13**
+**166** 筆內容 · 最新收錄: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2017,13 +2017,13 @@ CGI毛髮、
 
 <a name="prompt-2099142803704152513"></a>
 
-### 翻譯中
+### 竹枝下穿著黑色學蘭制服接吻的兩人七夕插畫提示詞。
 
 作者：[@leftbypeace](https://x.com/leftbypeace) · [查看 X 原帖](https://x.com/leftbypeace/status/2099142803704152513)
 
 插圖 · 已推流
 
-**概括:** 翻譯中
+**概括:** 竹枝下穿著黑色學蘭制服接吻的兩人七夕插畫提示詞。
 
 <img src="images/2099142803704152513-1.jpg" alt="圖片 1" width="480" />
 
@@ -2032,7 +2032,11 @@ CGI毛髮、
 **提示詞**
 
 ```text
-翻譯中
+通用: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, 掛在竹枝上的彩色許願籤, 七夕裝飾, 茂密的綠葉, 環繞他們的彩帶與紙條, 溫暖的日光, 柔和的陰影, 青春浪漫的氛圍, 乾淨的插畫, 柔和多彩的調色板
+
+A: 3::black gakuran::, 緊靠著B蹲著, 一隻手輕輕扶著B的脖子或衣領, 2::eyes closed::, 溫柔地傾身向前
+
+B: 3::black gakuran::, 面向A蹲著, 一隻手放在膝蓋附近, 另一隻手輕輕觸碰A的袖子, 2::eyes closed::, 迎向這個吻
 ```
 
 [↑ 返回分類目錄](#catalog)
@@ -2400,6 +2404,34 @@ CGI毛髮、
 <a name="category-oil-painting"></a>
 
 ## 油畫
+
+<a name="prompt-2099147187955675169"></a>
+
+### 翻譯中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099147187955675169)
+
+3D 渲染 · 油畫 · 建築 / 室內設計 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099147187955675169-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

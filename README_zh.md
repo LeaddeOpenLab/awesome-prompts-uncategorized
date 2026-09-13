@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**165** 条内容 · 最新收录: **2026-09-13**
+**166** 条内容 · 最新收录: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2017,13 +2017,13 @@ CGI毛发、
 
 <a name="prompt-2099142803704152513"></a>
 
-### 翻译中
+### 竹枝下穿着黑色学兰制服接吻的两人七夕插画提示词。
 
 作者：[@leftbypeace](https://x.com/leftbypeace) · [查看 X 原帖](https://x.com/leftbypeace/status/2099142803704152513)
 
 插画 · 已推流
 
-**概括:** 翻译中
+**概括:** 竹枝下穿着黑色学兰制服接吻的两人七夕插画提示词。
 
 <img src="images/2099142803704152513-1.jpg" alt="图片 1" width="480" />
 
@@ -2032,7 +2032,11 @@ CGI毛发、
 **提示词**
 
 ```text
-翻译中
+通用: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, 挂在竹枝上的彩色许愿笺, 七夕装饰, 茂密的绿叶, 环绕他们的彩带和纸条, 温暖的日光, 柔和的阴影, 青春浪漫的氛围, 干净的插画, 柔和多彩的调色板
+
+A: 3::black gakuran::, 紧靠着B蹲着, 一只手轻轻扶着B的脖子或衣领, 2::eyes closed::, 温柔地倾身向前
+
+B: 3::black gakuran::, 面向A蹲着, 一只手放在膝盖附近, 另一只手轻轻触碰A的袖子, 2::eyes closed::, 迎合着这个吻
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -2400,6 +2404,34 @@ CGI毛发、
 <a name="category-oil-painting"></a>
 
 ## 油画
+
+<a name="prompt-2099147187955675169"></a>
+
+### 翻译中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099147187955675169)
+
+3D 渲染 · 油画 · 建筑 / 室内设计 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099147187955675169-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

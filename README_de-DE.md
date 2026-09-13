@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**165** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**166** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1986,13 +1986,13 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 <a name="prompt-2099142803704152513"></a>
 
-### Übersetzung läuft
+### Tanabata-Illustrations-Prompt von zwei Personen in schwarzem Gakuran, die sich unter Bambuszweigen küssen.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Originalbeitrag](https://x.com/leftbypeace/status/2099142803704152513)
 
 Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Tanabata-Illustrations-Prompt von zwei Personen in schwarzem Gakuran, die sich unter Bambuszweigen küssen.
 
 <img src="images/2099142803704152513-1.jpg" alt="Bild 1" width="480" />
 
@@ -2001,7 +2001,11 @@ Illustration · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Allgemein: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, bunte Wunschzettel, die an Bambuszweigen hängen, Tanabata-Dekorationen, dichte grüne Blätter, sie umgebende Bänder und Papierstreifen, warmes Tageslicht, weiche Schatten, jugendlich-romantische Stimmung, saubere Illustration, gedeckte, farbenfrohe Farbpalette
+
+A: 3::black gakuran::, hockt sehr nah bei B, eine Hand hält sanft den Hals oder Kragen von B, 2::eyes closed::, lehnt sich sanft vor
+
+B: 3::black gakuran::, hockt gegenüber von A, eine Hand ruht in der Nähe des Knies, die andere Hand berührt sanft den Ärmel von A, 2::eyes closed::, neigt sich dem Kuss entgegen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2369,6 +2373,34 @@ Plakat / Flyer · Isometrisch · Veröffentlicht
 <a name="category-oil-painting"></a>
 
 ## Ölgemälde
+
+<a name="prompt-2099147187955675169"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2099147187955675169)
+
+3D-Rendering · Ölgemälde · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099147187955675169-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

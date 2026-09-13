@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**165** Prompts · Latest addition: **2026-09-13**
+**166** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2852,6 +2852,34 @@ Create a 3:4 vertical top-bottom comparison poster from this ordinary travel pho
 <a name="category-oil-painting"></a>
 
 ## Oil Painting
+
+<a name="prompt-2099147187955675169"></a>
+
+### Create a top-and-bottom comparison image based on an architectural travel photo, preserving the original photo on top and generating a 3D miniature model with an impasto oil paint base below.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2099147187955675169)
+
+3D Render · Oil Painting · Architecture / Interior · Published
+
+**Summary:** Create a top-and-bottom comparison image based on an architectural travel photo, preserving the original photo on top and generating a 3D miniature model with an impasto oil paint base below.
+
+<img src="images/2099147187955675169-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a vertical top-and-bottom comparison art image from the input world architecture travel photo. The upper half fully preserves the original real photo, keeping the building's identity, main structure, shooting angle, compositional proportions, lighting, and environmental features without any illustrative rendering; the middle is naturally separated by a clean white horizontal line. The lower half reconstructs the same building from the photo into an exquisite, realistic miniature 3D architectural model with distinct volume, accurately preserving its iconic silhouette, floor relationships, roof or dome, columns, doors, windows, arches, plinth, and material characteristics, displaying clear thickness, relief structures, contact shadows, and macro model photography depth of field. The model is relatively small in scale, centrally displayed within a large area of off-white paper negative space. Thickly textured impasto oil paint is applied exclusively to the model's base, ground, vegetation, water surface, clouds, and ambient shadows, making the impasto serve as environmental material supporting the three-dimensional model, and must not cover or replace the main architectural body. The overall presentation conveys a quiet, restrained, sophisticated contemporary gallery exhibition feel. Do not turn the architecture into a flat oil painting, ordinary illustration, or cartoon; do not add people, animals, vehicles, text, titles, subtitles, corner badges for original or AI images, logos, watermarks, or decorative borders.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

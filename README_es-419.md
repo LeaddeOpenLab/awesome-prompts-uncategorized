@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**165** Prompts · Última incorporación: **2026-09-13**
+**166** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1986,13 +1986,13 @@ Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodead
 
 <a name="prompt-2099142803704152513"></a>
 
-### Traducción en curso
+### Prompt de ilustración de Tanabata de dos personas vestidas con gakuran negro besándose bajo ramas de bambú.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicación original](https://x.com/leftbypeace/status/2099142803704152513)
 
 Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de ilustración de Tanabata de dos personas vestidas con gakuran negro besándose bajo ramas de bambú.
 
 <img src="images/2099142803704152513-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2001,7 +2001,11 @@ Ilustración · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Común: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, papeles de deseos coloridos colgando de ramas de bambú, decoraciones de tanabata, densas hojas verdes, cintas y tiras de papel rodeándolos, cálida luz del día, sombras suaves, ambiente romántico juvenil, ilustración limpia, paleta colorida y apagada
+
+A: 3::black gakuran::, agachado muy cerca de B, una mano sosteniendo suavemente el cuello o el cuello de la camisa de B, 2::eyes closed::, inclinándose suavemente
+
+B: 3::black gakuran::, agachado frente a A, una mano apoyada cerca de la rodilla, la otra mano tocando suavemente la manga de A, 2::eyes closed::, inclinándose hacia el beso
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2369,6 +2373,34 @@ Traducción en curso
 <a name="category-oil-painting"></a>
 
 ## Pintura al óleo
+
+<a name="prompt-2099147187955675169"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2099147187955675169)
+
+Renderizado 3D · Pintura al óleo · Arquitectura / Interiores · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099147187955675169-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 

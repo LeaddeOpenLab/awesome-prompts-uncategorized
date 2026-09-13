@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**165** Prompt · Bổ sung mới nhất: **2026-09-13**
+**166** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2021,13 +2021,13 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 <a name="prompt-2099142803704152513"></a>
 
-### Đang dịch
+### Lời nhắc minh họa lễ Thất Tịch hai người mặc đồng phục gakuran màu đen hôn nhau dưới cành tre.
 
 Tác giả：[@leftbypeace](https://x.com/leftbypeace) · [Bài gốc](https://x.com/leftbypeace/status/2099142803704152513)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc minh họa lễ Thất Tịch hai người mặc đồng phục gakuran màu đen hôn nhau dưới cành tre.
 
 <img src="images/2099142803704152513-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2036,7 +2036,11 @@ Minh họa · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chung: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, những mảnh giấy ước nguyện nhiều màu sắc treo trên cành tre, trang trí lễ Thất Tịch, lá xanh rậm rạp, ruy băng và dải giấy vây quanh họ, ánh sáng ban ngày ấm áp, bóng mờ mềm mại, không khí lãng mạn tuổi trẻ, hình minh họa rõ nét, bảng màu đa sắc dịu nhẹ
+
+A: 3::black gakuran::, ngồi xổm rất sát B, một tay nhẹ nhàng giữ cổ hoặc cổ áo của B, 2::eyes closed::, nhẹ nhàng nghiêng người tới
+
+B: 3::black gakuran::, ngồi xổm đối diện A, một tay đặt gần đầu gối, tay kia nhẹ nhàng chạm vào tay áo A, 2::eyes closed::, nghiêng người đón nhận nụ hôn
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2404,6 +2408,34 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 <a name="category-oil-painting"></a>
 
 ## Tranh Sơn Dầu
+
+<a name="prompt-2099147187955675169"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2099147187955675169)
+
+Kết xuất 3D · Tranh Sơn Dầu · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099147187955675169-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099147187955675169-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099147187955675169-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099147187955675169-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098792248892625275"></a>
 
