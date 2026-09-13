@@ -3021,20 +3021,20 @@ Stres altındayken kendimi tekrar ederim
 
 <a name="prompt-2099220675223232866"></a>
 
-### Çeviri sürüyor
+### Bir Falcon 9 roketi fırlatması sırasında çılgınca tezahürat yapan ve sevinç gözyaşları döken bir kalabalık.
 
 Yazar：[@Marie8508319540](https://x.com/Marie8508319540) · [Orijinal gönderi](https://x.com/Marie8508319540/status/2099220675223232866)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir Falcon 9 roketi fırlatması sırasında çılgınca tezahürat yapan ve sevinç gözyaşları döken bir kalabalık.
 
 <img src="covers/2099220675223232866.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir Falcon 9 fırlatması sırasındaki kolektif öfori: Sağır edici kükreme sonunda kalabalığı sardığında, gerilim anında saf adrenaline dönüşür. İnsanlar çılgınca tezahürat yapar, sevinç çığlıkları atar ve bazıları duygu gözyaşları döker.
 ```
 
 [↑ Kategorilere dön](#catalog)

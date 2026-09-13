@@ -3021,20 +3021,20 @@ Eu me repito quando sob estresse
 
 <a name="prompt-2099220675223232866"></a>
 
-### Tradução em andamento
+### Uma multidão vibrando loucamente e chorando lágrimas de alegria durante o lançamento de um foguete Falcon 9.
 
 Autor：[@Marie8508319540](https://x.com/Marie8508319540) · [Publicação original](https://x.com/Marie8508319540/status/2099220675223232866)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma multidão vibrando loucamente e chorando lágrimas de alegria durante o lançamento de um foguete Falcon 9.
 
 <img src="covers/2099220675223232866.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+A euforia coletiva durante o lançamento de um Falcon 9: quando o rugido ensurdecedor finalmente atinge a multidão, a tensão se transforma instantaneamente em pura adrenalina. As pessoas vibram loucamente, gritam de alegria e algumas choram lágrimas de emoção.
 ```
 
 [↑ Voltar às categorias](#catalog)
