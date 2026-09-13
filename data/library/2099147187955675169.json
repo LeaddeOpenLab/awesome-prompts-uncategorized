@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T16:24:52.778Z",
+  "model": "unknown-image",
+  "prompt": "将输入的世界建筑旅行照片制作成一张竖版上下对比艺术图。上半部分完整保留原始真实照片，保持建筑身份、主体结构、拍摄视角、构图比例、光线与环境特征，不进行插画化处理；中间以一条干净的白色水平线自然分隔。下半部分将照片中的同一建筑重建为精致、真实、有明确体积的微缩 3D 建筑模型，准确保留其标志性轮廓、楼层关系、屋顶或穹顶、立柱、门窗、拱券、台基及材质特征，呈现清晰的厚度、凹凸结构、接触阴影和微距模型摄影景深。模型比例相对小巧，居中陈列于大面积米白色纸张留白中。仅在模型底座、地面、植被、水面、云朵和环境阴影处加入具有堆叠纹理的厚涂油彩，使厚涂成为承托立体模型的环境材料，不得覆盖或取代建筑主体。整体呈现安静、克制、高级的当代画廊陈列感。不要将建筑做成平面油画、普通插画或卡通；不要添加人物、动物、车辆、文字、标题、字幕、原图或AI图角标、logo、水印及装饰边框。",
+  "promptTranslations": {
+    "en": "Create a vertical top-and-bottom comparison art image from the input world architecture travel photo. The upper half fully preserves the original real photo, keeping the building's identity, main structure, shooting angle, compositional proportions, lighting, and environmental features without any illustrative rendering; the middle is naturally separated by a clean white horizontal line. The lower half reconstructs the same building from the photo into an exquisite, realistic miniature 3D architectural model with distinct volume, accurately preserving its iconic silhouette, floor relationships, roof or dome, columns, doors, windows, arches, plinth, and material characteristics, displaying clear thickness, relief structures, contact shadows, and macro model photography depth of field. The model is relatively small in scale, centrally displayed within a large area of off-white paper negative space. Thickly textured impasto oil paint is applied exclusively to the model's base, ground, vegetation, water surface, clouds, and ambient shadows, making the impasto serve as environmental material supporting the three-dimensional model, and must not cover or replace the main architectural body. The overall presentation conveys a quiet, restrained, sophisticated contemporary gallery exhibition feel. Do not turn the architecture into a flat oil painting, ordinary illustration, or cartoon; do not add people, animals, vehicles, text, titles, subtitles, corner badges for original or AI images, logos, watermarks, or decorative borders."
+  },
+  "summaryTranslations": {
+    "en": "Create a top-and-bottom comparison image based on an architectural travel photo, preserving the original photo on top and generating a 3D miniature model with an impasto oil paint base below."
+  },
+  "translationVersion": 2,
+  "summary": "基于建筑旅行照片制作上下对比图，上方保留原片，下方生成带厚涂油彩底座的3D微缩模型。",
+  "summaryEn": "Create a vertical split comparison image with the original photo on top and an impasto-accented 3D miniature on the bottom.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099147187955675169",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2099147187955675169",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-13T14:44:24.000Z",
+    "collectedAt": "2026-09-13T16:16:58.485Z",
+    "language": "zh",
+    "originalText": "【IMPASTO MINIATURE GALLERY｜厚涂微缩油画画廊风】\n\n这组的重点不是把整张照片“油画化”，而是建立“真实照片—立体微缩模型”的上下对照关系；通过缩小模型比例和扩大纸面留白形成画廊感，再让厚涂只承担底座、环境与阴影的衬托作用，确保建筑的三维体积始终是视觉核心。\n\nprompt：\n将输入的世界建筑旅行照片制作成一张竖版上下对比艺术图。上半部分完整保留原始真实照片，保持建筑身份、主体结构、拍摄视角、构图比例、光线与环境特征，不进行插画化处理；中间以一条干净的白色水平线自然分隔。下半部分将照片中的同一建筑重建为精致、真实、有明确体积的微缩 3D 建筑模型，准确保留其标志性轮廓、楼层关系、屋顶或穹顶、立柱、门窗、拱券、台基及材质特征，呈现清晰的厚度、凹凸结构、接触阴影和微距模型摄影景深。模型比例相对小巧，居中陈列于大面积米白色纸张留白中。仅在模型底座、地面、植被、水面、云朵和环境阴影处加入具有堆叠纹理的厚涂油彩，使厚涂成为承托立体模型的环境材料，不得覆盖或取代建筑主体。整体呈现安静、克制、高级的当代画廊陈列感。不要将建筑做成平面油画、普通插画或卡通；不要添加人物、动物、车辆、文字、标题、字幕、原图或AI图角标、logo、水印及装饰边框。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSGrO_gakAAn4Mp.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSGrO_gakAAn4Mp.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSGrO_caIAAB6pd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSGrO_caIAAB6pd.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSGrO_abEAAevfL.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSGrO_abEAAevfL.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSGrO_XbkAAuZUI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSGrO_XbkAAuZUI.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 431
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2099147187955675169",
+  "coverUrl": "https://pbs.twimg.com/media/HSGrO_gakAAn4Mp.jpg",
+  "coverPath": "images/2099147187955675169-1.jpg",
+  "imagePaths": [
+    "images/2099147187955675169-1.jpg",
+    "images/2099147187955675169-2.jpg",
+    "images/2099147187955675169-3.jpg",
+    "images/2099147187955675169-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSGrO_gakAAn4Mp",
+    "x-image:/media/HSGrO_caIAAB6pd",
+    "x-image:/media/HSGrO_abEAAevfL",
+    "x-image:/media/HSGrO_XbkAAuZUI",
+    "x-post:2099147187955675169"
+  ],
+  "analysis": {
+    "summary": "基于建筑旅行照片制作上下对比图，上方保留原片，下方生成带厚涂油彩底座的3D微缩模型。",
+    "summaryEn": "Create a vertical split comparison image with the original photo on top and an impasto-accented 3D miniature on the bottom.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均呈现上部真实建筑照片、中间白线分隔、下部带堆叠厚涂油彩地基与云彩的精致立体微缩模型，与Prompt描述完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "将输入的世界建筑旅行照片制作成一张竖版上下对比艺术图。上半部分完整保留原始真实照片，保持建筑身份、主体结构、拍摄视角、构图比例、光线与环境特征，不进行插画化处理；中间以一条干净的白色水平线自然分隔。下半部分将照片中的同一建筑重建为精致、真实、有明确体积的微缩 3D 建筑模型，准确保留其标志性轮廓、楼层关系、屋顶或穹顶、立柱、门窗、拱券、台基及材质特征，呈现清晰的厚度、凹凸结构、接触阴影和微距模型摄影景深。模型比例相对小巧，居中陈列于大面积米白色纸张留白中。仅在模型底座、地面、植被、水面、云朵和环境阴影处加入具有堆叠纹理的厚涂油彩，使厚涂成为承托立体模型的环境材料，不得覆盖或取代建筑主体。整体呈现安静、克制、高级的当代画廊陈列感。不要将建筑做成平面油画、普通插画或卡通；不要添加人物、动物、车辆、文字、标题、字幕、原图或AI图角标、logo、水印及装饰边框。",
+    "sourceRange": {
+      "start": 151,
+      "end": 533
+    },
+    "translations": {
+      "zh": "将输入的世界建筑旅行照片制作成一张竖版上下对比艺术图。上半部分完整保留原始真实照片，保持建筑身份、主体结构、拍摄视角、构图比例、光线与环境特征，不进行插画化处理；中间以一条干净的白色水平线自然分隔。下半部分将照片中的同一建筑重建为精致、真实、有明确体积的微缩 3D 建筑模型，准确保留其标志性轮廓、楼层关系、屋顶或穹顶、立柱、门窗、拱券、台基及材质特征，呈现清晰的厚度、凹凸结构、接触阴影和微距模型摄影景深。模型比例相对小巧，居中陈列于大面积米白色纸张留白中。仅在模型底座、地面、植被、水面、云朵和环境阴影处加入具有堆叠纹理的厚涂油彩，使厚涂成为承托立体模型的环境材料，不得覆盖或取代建筑主体。整体呈现安静、克制、高级的当代画廊陈列感。不要将建筑做成平面油画、普通插画或卡通；不要添加人物、动物、车辆、文字、标题、字幕、原图或AI图角标、logo、水印及装饰边框。",
+      "en": "Create a vertical split comparison art image from an input architectural travel photo. The top half preserves the original real photo without illustration stylization, separated by a clean white line. The bottom half reconstructs the architecture into a delicate 3D miniature model on an off-white background, with textured impasto oil paint applied only to the base, ground, vegetation, and environment."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "建筑照片转微缩模型与厚涂油画对比画廊图",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
