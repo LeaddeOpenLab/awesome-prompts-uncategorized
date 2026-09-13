@@ -2648,13 +2648,13 @@ Traduction en cours
 
 <a name="prompt-2098925727488135307"></a>
 
-### Traduction en cours
+### Portrait lifestyle ultraréaliste d'une fille portant un pull graphite et un jean bleu au bord d'un lac d'automne brumeux.
 
 Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2098925727488135307)
 
 Portrait / Selfie · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait lifestyle ultraréaliste d'une fille portant un pull graphite et un jean bleu au bord d'un lac d'automne brumeux.
 
 <img src="images/2098925727488135307-1.jpg" alt="Image 1" width="480" />
 
@@ -2663,7 +2663,23 @@ Portrait / Selfie · Personnage · Paysage / Nature · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+**Créez une photo sans modifier les traits du visage.**  
+Photo lifestyle ultraréaliste d'une fille lors d'une promenade automnale.  
+Grand niveau de détail de toutes les textures, réalisme maximal, prise avec un téléphone moderne.
+
+Maquillage — impeccable, lèvres dans une teinte vieux rose. Peau bronzée.
+
+Scène — la fille se tient devant un lac, une lisière de forêt automnale et un brouillard épais.
+
+Vêtements — elle porte un pull oversize confortable, légèrement court mais ample ou retroussé vers le bas, d'une couleur graphite profonde, qu'elle soulève et ajuste à deux mains, la tête tournée sur le côté.
+
+Bas — jean bleu droit et large.
+
+Coiffure — queue de cheval haute et lisse nattée en tresse.
+
+Accessoires — boucles d'oreilles dorées. Sur ses yeux : lunettes de soleil étroites avec une fine monture en métal doré et des verres marron.
+
+Correction des couleurs — tons de photo chauds et calmes, exposition sensiblement diminuée sur l'ensemble de l'image. Bruit semblable à une photo de téléphone et effet de grain.
 ```
 
 [↑ Retour aux catégories](#catalog)

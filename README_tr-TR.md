@@ -2665,13 +2665,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098925727488135307"></a>
 
-### Çeviri sürüyor
+### Sisli bir sonbahar gölü kenarında grafit rengi kazak ve mavi kot pantolon giyen bir kızın ultra gerçekçi yaşam tarzı portresi.
 
 Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2098925727488135307)
 
 Portre / Selfie · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sisli bir sonbahar gölü kenarında grafit rengi kazak ve mavi kot pantolon giyen bir kızın ultra gerçekçi yaşam tarzı portresi.
 
 <img src="images/2098925727488135307-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2680,7 +2680,23 @@ Portre / Selfie · Karakter · Manzara / Doğa · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+**Yüz hatlarını değiştirmeden bir fotoğraf oluşturun.**  
+Sonbahar yürüyüşü sırasında bir kızın ultra gerçekçi yaşam tarzı fotoğrafı.  
+Tüm dokularda yüksek detay, maksimum gerçekçilik, modern bir telefonla çekilmiş.
+
+Makyaj — kusursuz, dudaklar pudra gülü tonunda. Bronzlaşmış ten.
+
+Sahne — kız bir gölün, sonbahar ormanı şeridinin ve yoğun bir sisin önünde duruyor.
+
+Giyim — derin grafit renginde, hafif kısa ama dökümlü ya da alt kısmı kıvrılmış, her iki eliyle kaldırıp düzelttiği, başı yana çevrili, rahat, salaş bir kazak giyiyor.
+
+Alt giyim — geniş, düz paça mavi kot pantolon.
+
+Saç modeli — örgü yapılmış pürüzsüz, yüksek at kuyruğu.
+
+Aksesuarlar — altın küpeler. Gözlerinde: ince altın metal çerçeveli ve kahverengi camlı dar güneş gözlüğü.
+
+Renk düzeltmesi — sıcak, sakin fotoğraf tonları, tüm kare boyunca fark edilir derecede düşürülmüş pozlama. Telefon fotoğrafı benzeri parazit ve gren efekti.
 ```
 
 [↑ Kategorilere dön](#catalog)

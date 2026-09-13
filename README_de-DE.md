@@ -2648,13 +2648,13 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098925727488135307"></a>
 
-### Übersetzung läuft
+### Ultrarealistisches Lifestyle-Porträt eines Mädchens in einem graphitfarbenen Pullover und blauen Jeans an einem nebligen Herbstsee.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2098925727488135307)
 
 Porträt / Selfie · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultrarealistisches Lifestyle-Porträt eines Mädchens in einem graphitfarbenen Pullover und blauen Jeans an einem nebligen Herbstsee.
 
 <img src="images/2098925727488135307-1.jpg" alt="Bild 1" width="480" />
 
@@ -2663,7 +2663,23 @@ Porträt / Selfie · Charakter · Landschaft / Natur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+**Erstelle ein Foto, ohne die Gesichtszüge zu verändern.**  
+Ultrarealistisches Lifestyle-Foto eines Mädchens bei einem Herbstspaziergang.  
+Hohe Detailgenauigkeit aller Texturen, maximaler Realismus, aufgenommen mit einem modernen Smartphone.
+
+Make-up – makellos, Lippen in einem Altrosa-Ton. Gebräunte Haut.
+
+Szene – das Mädchen steht vor einem See, einem herbstlichen Waldstreifen und dichtem Nebel.
+
+Kleidung – sie trägt einen gemütlichen Oversize-Pullover, leicht verkürzt, aber locker oder unten hochgekrempelt, in einem tiefen Graphitton, den sie mit beiden Händen anhebt und zurechtrückt, der Kopf zur Seite gedreht.
+
+Hose – weite, gerade blaue Jeans.
+
+Frisur – glatter, hoher Pferdeschwanz, zu einem Zopf geflochten.
+
+Accessoires – goldene Ohrringe. Vor den Augen: schmale Sonnenbrille mit dünnem goldenem Metallrahmen und braunen Gläsern.
+
+Farbkorrektur – warme, ruhige Fototöne, spürbar verringerte Belichtung im gesamten Bild. Rauschen wie bei einem Handyfoto und ein Körnigkeitseffekt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

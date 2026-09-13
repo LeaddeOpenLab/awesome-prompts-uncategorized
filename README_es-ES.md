@@ -2693,13 +2693,13 @@ Traducción en curso
 
 <a name="prompt-2098925727488135307"></a>
 
-### Traducción en curso
+### Retrato de estilo de vida ultrarrealista de una chica con suéter de grafito y vaqueros azules junto a un lago otoñal con niebla.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2098925727488135307)
 
 Retrato / Selfie · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de estilo de vida ultrarrealista de una chica con suéter de grafito y vaqueros azules junto a un lago otoñal con niebla.
 
 <img src="images/2098925727488135307-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2708,7 +2708,23 @@ Retrato / Selfie · Personaje · Paisaje / Naturaleza · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+**Crea una foto sin cambiar los rasgos faciales.**  
+Foto de estilo de vida ultrarrealista de una chica durante un paseo otoñal.  
+Gran detalle en todas las texturas, máximo realismo, tomada con un teléfono moderno.
+
+Maquillaje — impecable, labios en tono rosa empolvado. Piel bronceada.
+
+Escena — la chica está de pie frente a un lago, una franja de bosque otoñal y una densa niebla.
+
+Ropa — lleva un acogedor suéter holgado de gran tamaño, ligeramente corto pero suelto o arremangado en la parte inferior, en un color grafito intenso, que levanta y ajusta con ambas manos, con la cabeza girada hacia un lado.
+
+Parte inferior — vaqueros azules anchos y rectos.
+
+Peinado — coleta alta y pulida trenzada en una trenza.
+
+Accesorios — pendientes de oro. En sus ojos: gafas de sol estrechas con una fina montura de metal dorado y lentes marrones.
+
+Corrección de color — tonos de foto cálidos y tranquilos, exposición notablemente reducida en todo el encuadre. Ruido como de foto de teléfono y efecto de grano.
 ```
 
 [↑ Volver a categorías](#catalog)

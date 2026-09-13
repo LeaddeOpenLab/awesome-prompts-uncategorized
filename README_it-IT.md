@@ -2648,13 +2648,13 @@ Traduzione in corso
 
 <a name="prompt-2098925727488135307"></a>
 
-### Traduzione in corso
+### Ritratto lifestyle ultra-realistico di una ragazza con un maglione color grafite e jeans blu accanto a un lago autunnale nebbioso.
 
 Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2098925727488135307)
 
 Ritratto / Selfie · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto lifestyle ultra-realistico di una ragazza con un maglione color grafite e jeans blu accanto a un lago autunnale nebbioso.
 
 <img src="images/2098925727488135307-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2663,7 +2663,23 @@ Ritratto / Selfie · Personaggio · Paesaggio / Natura · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+**Crea una foto senza modificare i tratti del viso.**  
+Foto lifestyle ultra-realistica di una ragazza durante una passeggiata autunnale.  
+Alto livello di dettaglio di tutte le texture, massimo realismo, scattata con un telefono moderno.
+
+Trucco — impeccabile, labbra in una tonalità rosa antico. Pelle abbronzata.
+
+Scena — la ragazza è in piedi davanti a un lago, a una fascia di bosco autunnale e a una fitta nebbia.
+
+Abbigliamento — indossa un comodo maglione oversize, leggermente cropped ma morbido o arrotolato sul fondo, in un profondo color grafite, che solleva e sistema con entrambe le mani, la testa girata di lato.
+
+Pantaloni — jeans blu dritti e ampi.
+
+Acconciatura — coda di cavallo alta e liscia raccolta in una treccia.
+
+Accessori — orecchini dorati. Sugli occhi: occhiali da sole stretti con montatura sottile in metallo dorato e lenti marroni.
+
+Correzione del colore — toni caldi e calmi della foto, esposizione visibilmente ridotta su tutta l'inquadratura. Rumore simile a quello di una foto scattata con il telefono ed effetto grana.
 ```
 
 [↑ Torna alle categorie](#catalog)

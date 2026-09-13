@@ -2665,13 +2665,13 @@ Tradução em curso
 
 <a name="prompt-2098925727488135307"></a>
 
-### Tradução em curso
+### Retrato de estilo de vida ultrarrealista de uma rapariga a usar uma camisola cor de grafite e calças de ganga azuis junto a um lago nevoento de outono.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098925727488135307)
 
 Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de estilo de vida ultrarrealista de uma rapariga a usar uma camisola cor de grafite e calças de ganga azuis junto a um lago nevoento de outono.
 
 <img src="images/2098925727488135307-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2680,7 +2680,23 @@ Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+**Cria uma fotografia sem alterar os traços faciais.**  
+Fotografia de estilo de vida ultrarrealista de uma rapariga durante um passeio de outono.  
+Elevado detalhe de todas as texturas, realismo máximo, captada com um telemóvel moderno.
+
+Maquilhagem — impecável, lábios num tom de rosa velho. Pele bronzeada.
+
+Cenário — a rapariga está em frente a um lago, a uma faixa de floresta de outono e a um nevoeiro cerrado.
+
+Vestuário — está a usar uma camisola oversized confortável, ligeiramente curta, mas solta ou enrolada na bainha, numa cor grafite profunda, que levanta e ajusta com ambas as mãos, de cabeça virada para o lado.
+
+Parte inferior — calças de ganga azuis, largas e a direito.
+
+Penteado — rabo de cavalo alto e liso, entrançado numa trança.
+
+Acessórios — brincos dourados. Nos olhos: óculos de sol estreitos com armação fina em metal dourado e lentes castanhas.
+
+Correção de cor — tons fotográficos quentes e serenos, exposição notoriamente reduzida em todo o enquadramento. Ruído semelhante ao de uma foto de telemóvel e efeito de grão.
 ```
 
 [↑ Voltar às categorias](#catalog)

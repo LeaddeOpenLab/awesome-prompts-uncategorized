@@ -2693,13 +2693,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098925727488135307"></a>
 
-### Đang dịch
+### Chân dung đời thường siêu thực của một cô gái mặc áo len màu than chì và quần jean xanh bên hồ nước mùa thu mờ sương.
 
 Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2098925727488135307)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung đời thường siêu thực của một cô gái mặc áo len màu than chì và quần jean xanh bên hồ nước mùa thu mờ sương.
 
 <img src="images/2098925727488135307-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2708,7 +2708,23 @@ Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên ·
 **Câu lệnh**
 
 ```text
-Đang dịch
+**Tạo một bức ảnh mà không làm thay đổi các đường nét trên khuôn mặt.**  
+Bức ảnh đời thường siêu thực về một cô gái trong chuyến đi dạo mùa thu.  
+Độ chi tiết cực cao của mọi bề mặt kết cấu, độ chân thực tối đa, chụp bằng điện thoại hiện đại.
+
+Trang điểm — hoàn hảo, đôi môi màu hồng đất (dusty rose). Làn da rám nắng.
+
+Bối cảnh — cô gái đứng trước một hồ nước, dải rừng mùa thu và làn sương mù dày đặc.
+
+Trang phục — cô mặc một chiếc áo len oversize ấm cúng màu than chì đậm, dáng hơi lửng nhưng rộng hoặc được xắn lên ở phía dưới, cô dùng cả hai tay nâng và chỉnh áo len, đầu ngoảnh sang một bên.
+
+Phần dưới — quần jean xanh ống đứng rộng.
+
+Kiểu tóc — tóc đuôi ngựa buộc cao mượt mà được tết lại thành bím.
+
+Phụ kiện — hoa tai vàng. Trên mắt: kính râm dáng hẹp với gọng kim loại mạ vàng thanh mảnh và tròng kính màu nâu.
+
+Chỉnh màu — tông màu ảnh ấm áp, tĩnh lặng, độ phơi sáng giảm rõ rệt trên toàn bộ khung hình. Hiệu ứng nhiễu hạt như ảnh chụp bằng điện thoại.
 ```
 
 [↑ Về danh mục](#catalog)

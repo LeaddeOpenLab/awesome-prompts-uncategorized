@@ -2665,13 +2665,13 @@ Tradução em andamento
 
 <a name="prompt-2098925727488135307"></a>
 
-### Tradução em andamento
+### Retrato ultrarrealista de estilo de vida de uma garota usando suéter grafite e calça jeans azul à beira de um lago enevoado no outono.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098925727488135307)
 
 Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato ultrarrealista de estilo de vida de uma garota usando suéter grafite e calça jeans azul à beira de um lago enevoado no outono.
 
 <img src="images/2098925727488135307-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2680,7 +2680,23 @@ Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+**Crie uma foto sem alterar os traços faciais.**  
+Foto de estilo de vida ultrarrealista de uma garota durante uma caminhada de outono.  
+Alto detalhamento de todas as texturas, realismo máximo, tirada com um celular moderno.
+
+Maquiagem — impecável, lábios em tom de rosa-antigo. Pele bronzeada.
+
+Cena — a garota está em frente a um lago, uma faixa de floresta de outono e uma névoa espessa.
+
+Roupas — ela está vestindo um suéter oversized aconchegante, ligeiramente cropped, mas solto ou enrolado na barra, em uma cor grafite profunda, que ela levanta e ajusta com as duas mãos, cabeça virada para o lado.
+
+Parte inferior — calça jeans azul reta e larga.
+
+Penteado — rabo de cavalo alto e liso trançado em uma trança.
+
+Acessórios — brincos de ouro. Nos olhos: óculos de sol estreitos com armação fina de metal dourado e lentes marrons.
+
+Correção de cores — tons de foto quentes e calmos, exposição visivelmente reduzida em todo o quadro. Ruído como o de uma foto de celular e efeito de granulação.
 ```
 
 [↑ Voltar às categorias](#catalog)
