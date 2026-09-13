@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**146** Prompt · Ultima aggiunta: **2026-09-13**
+**147** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2646,22 +2646,46 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2098886623433769078"></a>
+<a name="prompt-2098925727488135307"></a>
 
 ### Traduzione in corso
+
+Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2098925727488135307)
+
+Ritratto / Selfie · Personaggio · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098925727488135307-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098925727488135307-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098886623433769078"></a>
+
+### Luce abbagliante
 
 Autore：[@owenxplore](https://x.com/owenxplore) · [Post originale](https://x.com/owenxplore/status/2098886623433769078)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Luce abbagliante
 
 <img src="covers/2098886623433769078.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Luce abbagliante
 ```
 
 [↑ Torna alle categorie](#catalog)

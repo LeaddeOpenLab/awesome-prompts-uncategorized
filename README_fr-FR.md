@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**146** Prompts · Dernier ajout: **2026-09-13**
+**147** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2646,22 +2646,46 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2098886623433769078"></a>
+<a name="prompt-2098925727488135307"></a>
 
 ### Traduction en cours
+
+Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2098925727488135307)
+
+Portrait / Selfie · Personnage · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098925727488135307-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098925727488135307-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098886623433769078"></a>
+
+### Lumière éblouissante
 
 Auteur：[@owenxplore](https://x.com/owenxplore) · [Publication originale](https://x.com/owenxplore/status/2098886623433769078)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Lumière éblouissante
 
 <img src="covers/2098886623433769078.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Lumière éblouissante
 ```
 
 [↑ Retour aux catégories](#catalog)

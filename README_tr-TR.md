@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**146** Prompt · Son eklenen: **2026-09-13**
+**147** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2663,22 +2663,46 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2098886623433769078"></a>
+<a name="prompt-2098925727488135307"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2098925727488135307)
+
+Portre / Selfie · Karakter · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098925727488135307-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098925727488135307-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098886623433769078"></a>
+
+### Göz kamaştırıcı ışık
 
 Yazar：[@owenxplore](https://x.com/owenxplore) · [Orijinal gönderi](https://x.com/owenxplore/status/2098886623433769078)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Göz kamaştırıcı ışık
 
 <img src="covers/2098886623433769078.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Göz kamaştırıcı ışık
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**146** Prompts · Adição mais recente: **2026-09-13**
+**147** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2663,22 +2663,46 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2098886623433769078"></a>
+<a name="prompt-2098925727488135307"></a>
 
 ### Tradução em curso
+
+Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098925727488135307)
+
+Retrato / Selfie · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098925727488135307-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098925727488135307-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098886623433769078"></a>
+
+### Luz deslumbrante
 
 Autor：[@owenxplore](https://x.com/owenxplore) · [Publicação original](https://x.com/owenxplore/status/2098886623433769078)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Luz deslumbrante
 
 <img src="covers/2098886623433769078.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Luz deslumbrante
 ```
 
 [↑ Voltar às categorias](#catalog)

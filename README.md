@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**146** Prompts · Latest addition: **2026-09-13**
+**147** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3227,6 +3227,46 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098925727488135307"></a>
+
+### Ultra-realistic lifestyle portrait of a girl wearing a graphite sweater and blue jeans by a foggy autumn lake.
+
+Author：[@oye\_samia](https://x.com/oye_samia) · [Source](https://x.com/oye_samia/status/2098925727488135307)
+
+Portrait / Selfie · Character · Landscape / Nature · Published
+
+**Summary:** Ultra-realistic lifestyle portrait of a girl wearing a graphite sweater and blue jeans by a foggy autumn lake.
+
+<img src="images/2098925727488135307-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098925727488135307-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+**Create a photo without changing the facial features.**  
+Ultra-realistic lifestyle photo of a girl during an autumn walk.  
+High detail of all textures, maximum realism, shot on a modern phone.
+
+Makeup — impeccable, lips in a dusty rose shade. Skin tanned.
+
+Scene — the girl stands against a lake, an autumn forest strip, and thick fog.
+
+Clothing — she is wearing a cozy oversized sweater, slightly cropped but loose or rolled up at the bottom, in a deep graphite color, which she lifts and adjusts with both hands, head turned to the side.
+
+Bottoms — wide, straight blue jeans.
+
+Hairstyle — smooth, high ponytail braided into a braid.
+
+Accessories — gold earrings. On her eyes: narrow sunglasses with a thin gold metal frame and brown lenses.
+
+Color correction — warm, calm photo tones, noticeably lowered exposure across the entire frame. Noise like a phone photo and a grain effect.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098886623433769078"></a>
 

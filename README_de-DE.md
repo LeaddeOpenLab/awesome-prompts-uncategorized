@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**146** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**147** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2646,22 +2646,46 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2098886623433769078"></a>
+<a name="prompt-2098925727488135307"></a>
 
 ### Übersetzung läuft
+
+Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2098925727488135307)
+
+Porträt / Selfie · Charakter · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098925727488135307-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098925727488135307-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098886623433769078"></a>
+
+### Blendendes Licht
 
 Autor：[@owenxplore](https://x.com/owenxplore) · [Originalbeitrag](https://x.com/owenxplore/status/2098886623433769078)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Blendendes Licht
 
 <img src="covers/2098886623433769078.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Blendendes Licht
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

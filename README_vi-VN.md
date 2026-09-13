@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**146** Prompt · Bổ sung mới nhất: **2026-09-13**
+**147** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2691,22 +2691,46 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2098886623433769078"></a>
+<a name="prompt-2098925727488135307"></a>
 
 ### Đang dịch
+
+Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2098925727488135307)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098925727488135307-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098925727488135307-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098886623433769078"></a>
+
+### Ánh sáng chói lọi
 
 Tác giả：[@owenxplore](https://x.com/owenxplore) · [Bài gốc](https://x.com/owenxplore/status/2098886623433769078)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ánh sáng chói lọi
 
 <img src="covers/2098886623433769078.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ánh sáng chói lọi
 ```
 
 [↑ Về danh mục](#catalog)
