@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**152** Prompts · Dernier ajout: **2026-09-13**
+**154** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1174,6 +1174,28 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098964408085205361"></a>
+
+### Traduction en cours
+
+Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Photographie · Image cinématographique / Photogramme de film · Personnage · Article de mode · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098964408085205361-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -2728,6 +2750,30 @@ Traduction en cours
 
 ## Autres
 
+<a name="prompt-2098975010832658829"></a>
+
+### Traduction en cours
+
+Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2098975010832658829)
+
+Portrait / Selfie · Personnage · Alimentation / Boissons · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098975010832658829-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098989138662093223"></a>
 
 ### Traduction en cours
@@ -2752,20 +2798,20 @@ Traduction en cours
 
 <a name="prompt-2098980488379801716"></a>
 
-### Traduction en cours
+### un plan en contre-plongée et en pied d'une silhouette humanoïde biomécanique avec une armure métallique bleu et or, une seule aile et des griffes luminescentes sur fond de ciel de montagne au coucher du soleil.
 
 Auteur：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publication originale](https://x.com/RobotCleopatra/status/2098980488379801716)
 
 Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** un plan en contre-plongée et en pied d'une silhouette humanoïde biomécanique avec une armure métallique bleu et or, une seule aile et des griffes luminescentes sur fond de ciel de montagne au coucher du soleil.
 
 <img src="images/2098980488379801716-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+un plan en plongée basse et en pied d'une silhouette humanoïde biomécanique debout sur un éperon rocheux. la silhouette est dotée d'un blindage métallique bleu et or avec des éléments orange vif luminescents. elle porte un casque doté d'une visière acérée et d'une seule grande aile recouverte de plumes bleu métallique aux accents dorés sur son côté gauche. ses mains sont pourvues de griffes et brillent d'une lueur orange. des rubans de tissu doré métallique flottent derrière elle. l'arrière-plan est composé d'un ciel nuageux et spectaculaire percé de rayons de soleil, illuminant la scène d'une lueur orange. de petites silhouettes ressemblant à des oiseaux volent au loin au-dessus d'un paysage montagneux et brumeux.
 ```
 
 [↑ Retour aux catégories](#catalog)

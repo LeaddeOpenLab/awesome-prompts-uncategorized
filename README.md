@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**152** Prompts · Latest addition: **2026-09-13**
+**154** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1628,6 +1628,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098964408085205361"></a>
+
+### Cinematic adventure photo of a young man on a mountain cliff overlooking a sea of clouds.
+
+Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Photography · Cinematic / Film Still · Character · Fashion Item · Landscape / Nature · Published
+
+**Summary:** Cinematic adventure photo of a young man on a mountain cliff overlooking a sea of clouds.
+
+<img src="images/2098964408085205361-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic luxury adventure photograph of a strikingly handsome young man in his early 20s standing confidently on the edge of a dramatic mountain cliff high above a vast sea of clouds. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a premium rugged outdoor outfit — dark olive waterproof jacket, fitted black thermal shirt, charcoal hiking pants, leather hiking boots, and a sleek mountain backpack. His hair and jacket move naturally in the powerful alpine wind. Behind him, towering snow-capped mountain peaks rise through golden morning mist, while soft sunlight breaks through the clouds, creating dramatic volumetric rays. The immense valley disappears beneath a glowing ocean of clouds. Cinematic wide-angle composition, full-body shot, epic sense of scale, natural atmospheric depth, realistic mountain textures, subtle lens flare, dramatic sky, adventurous yet elegant mood, photorealistic skin and fabric details, HDR, 8K, professional outdoor fashion photography, 24mm cinematic lens, realistic lighting, natural color grading, no artificial or AI-looking face, no text, no watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -3363,6 +3385,30 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098975010832658829"></a>
+
+### High-angle street portrait of a woman in a leather jacket holding a coffee cup outdoors.
+
+Author：[@oye\_samia](https://x.com/oye_samia) · [Source](https://x.com/oye_samia/status/2098975010832658829)
+
+Portrait / Selfie · Character · Food / Drink · Cityscape / Street · Published
+
+**Summary:** High-angle street portrait of a woman in a leather jacket holding a coffee cup outdoors.
+
+<img src="images/2098975010832658829-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+**Create a portrait without changing the facial features.** Photorealistic street portrait from above (high angle), warm autumn day. A young woman sits on a wooden bench at a street table and looks at the camera. Hair combed into a low bun; large gold earrings, thin bracelets and a watch, neat manicure, square dark brown nails. She is wearing a voluminous dark-chocolate leather jacket, a basic top underneath, and loose white jeans. In her hand is a disposable latte cup with a lid and a black straw, the straw at her lips; next to her stands a large stylish dark brown tote bag with gold hardware.\n\n**Background:** asphalt with scattered yellow leaves, a pebble area, the edge of a wooden table in bokeh. Makeup is impeccable, lips powdery brown. Soft natural light, open shade, warm reflected highlights on the skin and leather jacket. Frame is chest/half-length, slight dynamic tilt, gaze toward the camera, hand with the cup closer to the lens. Optics 28–35 mm, shallow depth of field, focus on the eyes and cup, soft bokeh. Color grading: warm / autumn palette (browns, beiges, creams), moderate contrast, clean natural tones, fine film grain. Atmosphere: lively lifestyle street, coziness, spontaneity.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098989138662093223"></a>
 

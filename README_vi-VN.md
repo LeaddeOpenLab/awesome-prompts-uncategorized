@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**152** Prompt · Bổ sung mới nhất: **2026-09-13**
+**154** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1210,6 +1210,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098964408085205361"></a>
+
+### Đang dịch
+
+Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098964408085205361-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -2773,6 +2795,30 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
+<a name="prompt-2098975010832658829"></a>
+
+### Đang dịch
+
+Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2098975010832658829)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098975010832658829-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098989138662093223"></a>
 
 ### Đang dịch
@@ -2797,20 +2843,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2098980488379801716"></a>
 
-### Đang dịch
+### ảnh toàn thân góc thấp chụp một hình người cơ khí sinh học với bộ giáp kim loại xanh-vàng, một chiếc cánh duy nhất và móng vuốt phát sáng trên nền trời núi hoàng hôn.
 
 Tác giả：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Bài gốc](https://x.com/RobotCleopatra/status/2098980488379801716)
 
 Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** ảnh toàn thân góc thấp chụp một hình người cơ khí sinh học với bộ giáp kim loại xanh-vàng, một chiếc cánh duy nhất và móng vuốt phát sáng trên nền trời núi hoàng hôn.
 
 <img src="images/2098980488379801716-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+ảnh toàn thân góc thấp chụp một hình người cơ khí sinh học đứng trên mỏm đá. nhân vật mang các tấm giáp kim loại màu xanh lam và vàng với các chi tiết phát sáng màu cam. nhân vật đội mũ bảo hiểm có kính che mặt sắc nhọn và một chiếc cánh đơn lớn phủ lông vũ màu xanh kim loại với các điểm nhấn vàng ở bên trái. bàn tay có móng vuốt và phát sáng màu cam. các dải vải kim loại màu vàng trôi nổi phía sau. hậu cảnh bao gồm bầu trời nhiều mây đầy ấn tượng với những tia nắng xuyên qua, thắp sáng khung cảnh bằng ánh sáng màu cam. những bóng đen nhỏ như chim bay ở đằng xa trên khung cảnh đồi núi mù sương.
 ```
 
 [↑ Về danh mục](#catalog)

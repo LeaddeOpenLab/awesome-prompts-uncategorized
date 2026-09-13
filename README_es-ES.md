@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**152** Prompts · Última incorporación: **2026-09-13**
+**154** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1210,6 +1210,28 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2098964408085205361"></a>
+
+### Traducción en curso
+
+Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Fotografía · Cine / Fotograma de película · Personaje · Artículo de moda · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098964408085205361-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -2773,6 +2795,30 @@ Traducción en curso
 
 ## Otros
 
+<a name="prompt-2098975010832658829"></a>
+
+### Traducción en curso
+
+Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2098975010832658829)
+
+Retrato / Selfie · Personaje · Comida / Bebida · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098975010832658829-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098989138662093223"></a>
 
 ### Traducción en curso
@@ -2797,20 +2843,20 @@ Traducción en curso
 
 <a name="prompt-2098980488379801716"></a>
 
-### Traducción en curso
+### un plano de cuerpo entero en ángulo bajo de una figura humanoide biomecánica con armadura azul y dorada metálica, una sola ala y garras brillantes contra un cielo montañoso al atardecer.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicación original](https://x.com/RobotCleopatra/status/2098980488379801716)
 
 Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** un plano de cuerpo entero en ángulo bajo de una figura humanoide biomecánica con armadura azul y dorada metálica, una sola ala y garras brillantes contra un cielo montañoso al atardecer.
 
 <img src="images/2098980488379801716-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+un plano de cuerpo entero en ángulo bajo de una figura humanoide biomecánica de pie sobre un saliente rocoso. la figura presenta un blindaje de armadura azul metálico y dorado con elementos de color naranja brillante. tiene un casco con una visera afilada y una única ala grande cubierta de plumas de color azul metálico con detalles dorados en su lado izquierdo. sus manos tienen garras y brillan de color naranja. cintas de tela dorada metálica flotan detrás de ella. el fondo consiste en un cielo nublado y dramático con rayos de sol que se abren paso, iluminando la escena con un resplandor naranja. pequeñas siluetas parecidas a pájaros vuelan en la distancia sobre un paisaje montañoso y brumoso.
 ```
 
 [↑ Volver a categorías](#catalog)

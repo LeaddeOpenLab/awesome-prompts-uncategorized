@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**152** Prompts · Última adição: **2026-09-13**
+**154** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1188,6 +1188,28 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2098964408085205361"></a>
+
+### Tradução em andamento
+
+Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Fotografia · Cinematográfico / Imagem de Filme · Personagem · Item de Moda · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098964408085205361-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -2745,6 +2767,30 @@ Tradução em andamento
 
 ## Outros
 
+<a name="prompt-2098975010832658829"></a>
+
+### Tradução em andamento
+
+Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098975010832658829)
+
+Retrato / Selfie · Personagem · Alimentos / Bebidas · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098975010832658829-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098989138662093223"></a>
 
 ### Tradução em andamento
@@ -2769,20 +2815,20 @@ Tradução em andamento
 
 <a name="prompt-2098980488379801716"></a>
 
-### Tradução em andamento
+### uma tomada de corpo inteiro em ângulo baixo de uma figura humanoide biomecânica com armadura metálica azul e dourada, uma única asa e garras brilhantes contra o céu montanhoso ao pôr do sol.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicação original](https://x.com/RobotCleopatra/status/2098980488379801716)
 
 Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** uma tomada de corpo inteiro em ângulo baixo de uma figura humanoide biomecânica com armadura metálica azul e dourada, uma única asa e garras brilhantes contra o céu montanhoso ao pôr do sol.
 
 <img src="images/2098980488379801716-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+uma tomada de corpo inteiro em ângulo baixo de uma figura humanoide biomecânica em pé sobre um afloramento rochoso. a figura apresenta placas de armadura azul metálico e dourado com elementos laranjas brilhantes. ela tem um capacete com uma viseira afiada e uma única asa grande coberta de penas azul metálico com detalhes dourados no lado esquerdo. suas mãos têm garras e brilham em laranja. fitas de tecido dourado metálico flutuam atrás dela. o fundo consiste em um céu nublado dramático com raios de sol surgindo através dele, iluminando a cena com um brilho laranja. pequenas silhuetas semelhantes a pássaros voam à distância sobre uma paisagem montanhosa e enevoada.
 ```
 
 [↑ Voltar às categorias](#catalog)

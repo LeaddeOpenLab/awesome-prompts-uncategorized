@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**152** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**154** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1174,6 +1174,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098964408085205361"></a>
+
+### Übersetzung läuft
+
+Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Fotografie · Kinematisch / Filmstill · Charakter · Modeartikel · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098964408085205361-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -2728,6 +2750,30 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
+<a name="prompt-2098975010832658829"></a>
+
+### Übersetzung läuft
+
+Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2098975010832658829)
+
+Porträt / Selfie · Charakter · Essen / Trinken · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098975010832658829-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098989138662093223"></a>
 
 ### Übersetzung läuft
@@ -2752,20 +2798,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2098980488379801716"></a>
 
-### Übersetzung läuft
+### eine Ganzkörperaufnahme aus der Froschperspektive einer biomechanischen humanoiden Gestalt mit metallisch blau-goldener Rüstung, einem einzelnen Flügel und leuchtenden Klauen vor einem bergigen Sonnenuntergangshimmel.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Originalbeitrag](https://x.com/RobotCleopatra/status/2098980488379801716)
 
 Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** eine Ganzkörperaufnahme aus der Froschperspektive einer biomechanischen humanoiden Gestalt mit metallisch blau-goldener Rüstung, einem einzelnen Flügel und leuchtenden Klauen vor einem bergigen Sonnenuntergangshimmel.
 
 <img src="images/2098980488379801716-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+eine Ganzkörperaufnahme aus der Froschperspektive einer biomechanischen humanoiden Gestalt, die auf einem Felsvorsprung steht. Die Figur zeichnet sich durch metallisch-blaue und goldene Rüstungsplatten mit leuchtend orangen Elementen aus. Sie trägt einen Helm mit scharfem Visier und besitzt auf der linken Seite einen einzelnen, großen Flügel, der mit metallisch-blauen Federn samt goldenen Akzenten bedeckt ist. Ihre Hände sind klauenartig und leuchten orange. Bänder aus metallisch-goldenem Stoff wehen hinter ihr. Der Hintergrund besteht aus einem dramatischen, bewölkten Himmel mit durchbrechenden Sonnenstrahlen, die die Szene in ein orangefarbenes Licht tauchen. Kleine vogelähnliche Silhouetten fliegen in der Ferne über einer diesigen, bergigen Landschaft.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

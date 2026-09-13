@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**152** Prompt · Son eklenen: **2026-09-13**
+**154** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1188,6 +1188,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098964408085205361"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Moda Ürünü · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098964408085205361-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -2745,6 +2767,30 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
+<a name="prompt-2098975010832658829"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2098975010832658829)
+
+Portre / Selfie · Karakter · Yiyecek / İçecek · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098975010832658829-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098989138662093223"></a>
 
 ### Çeviri sürüyor
@@ -2769,20 +2815,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2098980488379801716"></a>
 
-### Çeviri sürüyor
+### gün batımındaki dağ gökyüzüne karşı metalik mavi-altın zırhlı, tek kanatlı ve parlayan pençeli biyomekanik bir insansı figürün alt açıdan tam boy çekimi.
 
 Yazar：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Orijinal gönderi](https://x.com/RobotCleopatra/status/2098980488379801716)
 
 Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** gün batımındaki dağ gökyüzüne karşı metalik mavi-altın zırhlı, tek kanatlı ve parlayan pençeli biyomekanik bir insansı figürün alt açıdan tam boy çekimi.
 
 <img src="images/2098980488379801716-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+kayalık bir çıkıntı üzerinde duran biyomekanik bir insansı figürün alt açıdan tam boy çekimi. figür, parlayan turuncu unsurlara sahip metalik mavi ve altın zırh kaplamaları içerir. keskin bir siperliği olan bir kaskı ve sol tarafında altın vurgulu metalik mavi tüylerle kaplı tek, büyük bir kanadı vardır. elleri pençelidir ve turuncu renkte parlar. arkasında metalik altın rengi kumaş şeritler süzülür. arka plan, güneş ışınlarının arasından süzülerek sahneyi turuncu bir parıltıyla aydınlattığı dramatik, bulutlu bir gökyüzünden oluşur. puslu, dağlık bir arazinin üzerinde uzakta uçuşan kuş benzeri küçük silüetler yer alır.
 ```
 
 [↑ Kategorilere dön](#catalog)

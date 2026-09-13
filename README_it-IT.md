@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**152** Prompt · Ultima aggiunta: **2026-09-13**
+**154** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1174,6 +1174,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098964408085205361"></a>
+
+### Traduzione in corso
+
+Autore：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Post originale](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Personaggio · Articolo di moda · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098964408085205361-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -2728,6 +2750,30 @@ Traduzione in corso
 
 ## Altro
 
+<a name="prompt-2098975010832658829"></a>
+
+### Traduzione in corso
+
+Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2098975010832658829)
+
+Ritratto / Selfie · Personaggio · Cibo / Bevande · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098975010832658829-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098989138662093223"></a>
 
 ### Traduzione in corso
@@ -2752,20 +2798,20 @@ Traduzione in corso
 
 <a name="prompt-2098980488379801716"></a>
 
-### Traduzione in corso
+### un'inquadratura dal basso a figura intera di una figura umanoide biomeccanica con armatura metallica blu-oro, un'ala singola e artigli luminosi contro il cielo di montagna al tramonto.
 
 Autore：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Post originale](https://x.com/RobotCleopatra/status/2098980488379801716)
 
 Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** un'inquadratura dal basso a figura intera di una figura umanoide biomeccanica con armatura metallica blu-oro, un'ala singola e artigli luminosi contro il cielo di montagna al tramonto.
 
 <img src="images/2098980488379801716-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+un'inquadratura dal basso a figura intera di una figura umanoide biomeccanica in piedi su uno sperone roccioso. la figura presenta una corazza metallica blu e oro con elementi arancioni luminescenti. indossa un elmo con una visiera affilata e una singola, grande ala coperta di piume blu metallico con dettagli dorati sul lato sinistro. le sue mani sono artigliate e brillano di arancione. nastri di tessuto dorato metallico fluttuano dietro di essa. lo sfondo è costituito da un cielo drammatico e nuvoloso solcato da raggi di sole che filtrano, illuminando la scena con un bagliore arancione. piccole sagome simili a uccelli volano in lontananza sopra un paesaggio montuoso e fosco.
 ```
 
 [↑ Torna alle categorie](#catalog)

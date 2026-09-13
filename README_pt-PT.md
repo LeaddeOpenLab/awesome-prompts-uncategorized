@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**152** Prompts · Adição mais recente: **2026-09-13**
+**154** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1188,6 +1188,28 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2098964408085205361"></a>
+
+### Tradução em curso
+
+Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2098964408085205361)
+
+Fotografia · Cena de Cinema / Fotograma · Personagem · Item de Moda · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098964408085205361-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098987067288244447"></a>
 
@@ -2745,6 +2767,30 @@ Tradução em curso
 
 ## Outros
 
+<a name="prompt-2098975010832658829"></a>
+
+### Tradução em curso
+
+Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098975010832658829)
+
+Retrato / Selfie · Personagem · Comida / Bebida · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098975010832658829-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098975010832658829-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098989138662093223"></a>
 
 ### Tradução em curso
@@ -2769,20 +2815,20 @@ Tradução em curso
 
 <a name="prompt-2098980488379801716"></a>
 
-### Tradução em curso
+### um plano de corpo inteiro em ângulo contra-picado de uma figura humanoide biomecânica com armadura metálica azul e dourada, uma única asa e garras brilhantes contra um céu montanhoso ao pôr do sol.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicação original](https://x.com/RobotCleopatra/status/2098980488379801716)
 
 Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** um plano de corpo inteiro em ângulo contra-picado de uma figura humanoide biomecânica com armadura metálica azul e dourada, uma única asa e garras brilhantes contra um céu montanhoso ao pôr do sol.
 
 <img src="images/2098980488379801716-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+um plano de corpo inteiro em ângulo contra-picado de uma figura humanoide biomecânica de pé sobre um afloramento rochoso. a figura apresenta placas de armadura azul metálico e dourado com elementos alaranjados brilhantes. possui um capacete com uma viseira afiada e uma única asa grande coberta de penas azul metálico com apontamentos dourados no lado esquerdo. as suas mãos têm garras e brilham em laranja. fitas de tecido dourado metálico flutuam atrás dela. o fundo é composto por um céu dramático e nublado com raios de sol a romper, iluminando o cenário com um brilho alaranjado. pequenas silhuetas semelhantes a aves voam à distância sobre uma paisagem montanhosa e enevoada.
 ```
 
 [↑ Voltar às categorias](#catalog)
