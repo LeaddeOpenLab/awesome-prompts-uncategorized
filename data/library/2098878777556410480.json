@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T00:20:50.487Z",
+  "model": "unknown-image",
+  "prompt": "Conceptual minimalism: A single wooden chair in an empty white room.",
+  "promptTranslations": {
+    "en": "Conceptual minimalism: A single wooden chair in an empty white room."
+  },
+  "summaryTranslations": {
+    "en": "Conceptual minimalism: A single wooden chair in an empty white room."
+  },
+  "translationVersion": 2,
+  "summary": "Conceptual minimalism: A single wooden chair in an empty white room.",
+  "summaryEn": "Conceptual minimalism: A single wooden chair in an empty white room.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098878777556410480",
+    "canonicalUrl": "https://x.com/SameChair/status/2098878777556410480",
+    "author": {
+      "username": "SameChair",
+      "displayName": "Same Chair Project",
+      "profileUrl": "https://x.com/SameChair"
+    },
+    "publishedAt": "2026-09-12T20:57:50.000Z",
+    "collectedAt": "2026-09-13T00:15:47.006Z",
+    "language": "en",
+    "originalText": "Day 53 / JST 2026-09-13\n\nSame prompt every day.\n\nConceptual minimalism: A single wooden chair in an empty white room.\n\n#SameChairDaily #ConceptualArt #AIArt https://t.co/rL5eNenGih",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSC3H5jbIAA8AJQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSC3H5jbIAA8AJQ.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 2
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SameChair/status/2098878777556410480",
+  "coverUrl": "https://pbs.twimg.com/media/HSC3H5jbIAA8AJQ.jpg",
+  "coverPath": "images/2098878777556410480-1.jpg",
+  "imagePaths": [
+    "images/2098878777556410480-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSC3H5jbIAA8AJQ",
+    "x-post:2098878777556410480"
+  ],
+  "analysis": {
+    "summary": "Conceptual minimalism: A single wooden chair in an empty white room.",
+    "summaryEn": "Conceptual minimalism: A single wooden chair in an empty white room.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image features a solitary wooden chair standing in an empty white room, precisely matching the prompt description."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Conceptual minimalism: A single wooden chair in an empty white room.",
+    "sourceRange": {
+      "start": 49,
+      "end": 117
+    },
+    "translations": {
+      "zh": "概念极简主义：空旷白色房间里的一把木椅。",
+      "en": "Conceptual minimalism: A single wooden chair in an empty white room."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI art daily generation project",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
