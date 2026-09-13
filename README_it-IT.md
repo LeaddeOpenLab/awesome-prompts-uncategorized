@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**154** Prompt · Ultima aggiunta: **2026-09-13**
+**155** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1175,6 +1175,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2098978626637308214"></a>
+
+### Traduzione in corso
+
+Autore：[@AI\_with\_Antonio](https://x.com/AI_with_Antonio) · [Post originale](https://x.com/AI_with_Antonio/status/2098978626637308214)
+
+Fumetto / Storyboard · Fermo immagine cinematografico / Still fotografico · Rendering 3D · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098978626637308214.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098964408085205361"></a>
 
 ### Traduzione in corso
@@ -1199,7 +1221,7 @@ Traduzione in corso
 
 <a name="prompt-2098987067288244447"></a>
 
-### Traduzione in corso
+### Ritratto wuxia cinese rétro cinematografico in 35mm di una donna dell'Asia orientale in un boschetto di bambù notturno e nebbioso con morbida luce di contorno.
 
 Autore：[@Soranlan](https://x.com/Soranlan) · [Post originale](https://x.com/Soranlan/status/2098987067288244447)
 
@@ -1207,7 +1229,7 @@ Fermo immagine cinematografico / Still fotografico · Retro / Vintage · Ritratt
 
 Post originale：[@Soranlan](https://x.com/Soranlan) · [Post originale](https://x.com/Soranlan/status/2098975054013047064)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto wuxia cinese rétro cinematografico in 35mm di una donna dell'Asia orientale in un boschetto di bambù notturno e nebbioso con morbida luce di contorno.
 
 <img src="images/2098987067288244447-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1228,7 +1250,7 @@ Post originale：[@Soranlan](https://x.com/Soranlan) · [Post originale](https:/
 **Prompt**
 
 ```text
-Traduzione in corso
+Fotogramma cinematografico in pellicola 35mm, estetica retro wuxia cinese, ritratto onirico dal vivo a fuoco morbido di una donna wuxia dell'Asia orientale adulta in un boschetto di bambù notturno e nebbioso. Mezzo primo piano, profilo a tre quarti rivolto verso la telecamera, sguardo calmo e malinconico, viso ovale, sopracciglia a foglia di salice, occhi a mandorla, trucco delicato, pelle pallida e luminosa, lunghi capelli neri mossi lateralmente dal vento, classico chignon semiraccolto con ciocche sciolte, delicati orecchini pendenti in argento. Fluido hanfu di seta bianca con strati inferiori azzurro pallido e lunghe maniche morbide, una mano tesa con grazia per afferrare una foglia di bambù che cade. Petali rosa e foglie di bambù fluttuanti, sfocatura a strati della vegetazione in primo piano, nebbia leggera, atmosfera fresca di luna blu-verde, morbida e calda luce di contorno ambrata sui capelli e sulla guancia. Bassa profondità di campo, sottile alonatura, grana della pellicola visibile, atmosfera cinematografica analogica. "Soran" intrecciato nel ricamo del bordo della manica vicino al polso, incorporato nella trama della seta, nelle venature dell'ornamento per capelli e nei sottili motivi a filo degli orecchini. --no anime, game concept art, CGI, plastic skin, hard flash, studio lighting, sharp digital crispness, HDR, oversaturated colors, aggressive expression, direct harsh stare, modern clothing, modern accessories, distorted hands, extra fingers, missing fingers, bad anatomy, external watermark, sticker-like logo, detached letters, captions, subtitles --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
 ```
 
 [↑ Torna alle categorie](#catalog)

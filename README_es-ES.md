@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**154** Prompts · Última incorporación: **2026-09-13**
+**155** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1211,6 +1211,28 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 ## Cine / Fotograma de película
 
+<a name="prompt-2098978626637308214"></a>
+
+### Traducción en curso
+
+Autor：[@AI\_with\_Antonio](https://x.com/AI_with_Antonio) · [Publicación original](https://x.com/AI_with_Antonio/status/2098978626637308214)
+
+Cómic / Guion gráfico · Cine / Fotograma de película · Render 3D · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2098978626637308214.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098964408085205361"></a>
 
 ### Traducción en curso
@@ -1235,7 +1257,7 @@ Traducción en curso
 
 <a name="prompt-2098987067288244447"></a>
 
-### Traducción en curso
+### Retrato cinematográfico en 35 mm de wuxia retro chino de una mujer de Asia oriental en un bosque de bambú nocturno y brumoso con suave luz de contorno.
 
 Autor：[@Soranlan](https://x.com/Soranlan) · [Publicación original](https://x.com/Soranlan/status/2098987067288244447)
 
@@ -1243,7 +1265,7 @@ Cine / Fotograma de película · Retro / Vintage · Retrato / Selfie · Personaj
 
 Publicación original：[@Soranlan](https://x.com/Soranlan) · [Publicación original](https://x.com/Soranlan/status/2098975054013047064)
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato cinematográfico en 35 mm de wuxia retro chino de una mujer de Asia oriental en un bosque de bambú nocturno y brumoso con suave luz de contorno.
 
 <img src="images/2098987067288244447-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1264,7 +1286,7 @@ Publicación original：[@Soranlan](https://x.com/Soranlan) · [Publicación ori
 **Prompt**
 
 ```text
-Traducción en curso
+Fotograma cinematográfico en película de 35 mm, estética retro de wuxia chino, retrato de acción real en suave enfoque de ensueño de una mujer wuxia adulta de Asia oriental en un bosque de bambú nocturno y brumoso. Plano medio corto, perfil de tres cuartos girándose hacia la cámara, mirada tranquila y melancólica, rostro ovalado, cejas de sauce, ojos almendrados, maquillaje delicado, piel pálida y luminosa, cabello largo y negro soplado hacia un lado, moño clásico semirecogido con mechones sueltos, delicados pendientes colgantes de plata. Hanfu de seda blanca fluida con capas interiores en azul pálido y mangas largas y suaves, una mano extendida con gracia atrapando una hoja de bambú que cae. Pétalos rosas y hojas de bambú flotando, follaje desenfocado en capas en primer plano, tenue niebla, atmósfera fría a la luz de la luna en tonos azul verdoso, suave y cálida luz de contorno ámbar en el cabello y la mejilla. Poca profundidad de campo, sutil halo (halation), grano de película visible, ambiente analógico cinematográfico. "Soran" tejido en el bordado del borde de la manga cerca de la muñeca, incrustado en el tejido de seda, en las vetas del adorno del cabello y en los patrones de hilo fino de los pendientes. --no anime, arte conceptual de videojuegos, CGI, piel plástica, flash duro, iluminación de estudio, nitidez digital marcada, HDR, colores sobresaturados, expresión agresiva, mirada fija y severa, ropa moderna, accesorios modernos, manos distorsionadas, dedos adicionales, dedos faltantes, anatomía defectuosa, marca de agua externa, logotipo tipo pegatina, letras sueltas, leyendas, subtítulos --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
 ```
 
 [↑ Volver a categorías](#catalog)

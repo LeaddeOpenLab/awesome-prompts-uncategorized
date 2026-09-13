@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**154** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**155** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1175,6 +1175,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2098978626637308214"></a>
+
+### Übersetzung läuft
+
+Autor：[@AI\_with\_Antonio](https://x.com/AI_with_Antonio) · [Originalbeitrag](https://x.com/AI_with_Antonio/status/2098978626637308214)
+
+Comic / Storyboard · Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2098978626637308214.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098964408085205361"></a>
 
 ### Übersetzung läuft
@@ -1199,7 +1221,7 @@ Fotografie · Kinematisch / Filmstill · Charakter · Modeartikel · Landschaft 
 
 <a name="prompt-2098987067288244447"></a>
 
-### Übersetzung läuft
+### Cinematografisches 35-mm-Retro-Wuxia-Porträt einer ostasiatischen Frau in einem nebligen Bambushain bei Nacht mit sanftem Streiflicht.
 
 Autor：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2098987067288244447)
 
@@ -1207,7 +1229,7 @@ Kinematisch / Filmstill · Retro / Vintage · Porträt / Selfie · Charakter · 
 
 Originalbeitrag：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2098975054013047064)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cinematografisches 35-mm-Retro-Wuxia-Porträt einer ostasiatischen Frau in einem nebligen Bambushain bei Nacht mit sanftem Streiflicht.
 
 <img src="images/2098987067288244447-1.jpg" alt="Bild 1" width="480" />
 
@@ -1228,7 +1250,7 @@ Originalbeitrag：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https
 **Prompt**
 
 ```text
-Übersetzung läuft
+Cinematografisches 35-mm-Filmbild, Retro-Wuxia-Ästhetik Chinas, traumhaftes Live-Action-Porträt mit weichem Fokus einer erwachsenen ostasiatischen Wuxia-Frau in einem nebligen Bambushain bei Nacht. Halbnahaufnahme, Dreiviertelprofil zur Kamera gedreht, ruhiger, melancholischer Blick, ovales Gesicht, Weidenbrauen, mandelförmige Augen, zartes Make-up, blasse, leuchtende Haut, langes schwarzes Haar, das zur Seite weht, klassischer halboffener Dutt mit losen Strähnen, zarte Ohrhänger aus Silber. Fließendes weißes Seiden-Hanfu mit blassblauen Unterschichten und langen, weichen Ärmeln, eine anmutig ausgestreckte Hand fängt ein fallendes Bambusblatt auf. Treibende rosa Blütenblätter und Bambusblätter, geschichtete Unschärfe des Laubs im Vordergrund, leichter Nebel, kühle blaugrüne mondbeschienene Atmosphäre, weiches, warmes bernsteinfarbenes Streiflicht auf Haar und Wange. Geringe Schärfentiefe, subtile Lichthöfe, sichtbares Filmkorn, analoge Filmstimmung. "Soran" eingewebt in die Ärmelsaumbestickung nahe dem Handgelenk, eingebettet in das Seidengewebe, in die Maserung des Haarschmucks und in die feinen Fadenmuster der Ohrringe. --no anime, game concept art, CGI, plastic skin, hard flash, studio lighting, sharp digital crispness, HDR, oversaturated colors, aggressive expression, direct harsh stare, modern clothing, modern accessories, distorted hands, extra fingers, missing fingers, bad anatomy, external watermark, sticker-like logo, detached letters, captions, subtitles --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

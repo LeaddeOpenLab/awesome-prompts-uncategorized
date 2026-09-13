@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**154** Prompts · Última adição: **2026-09-13**
+**155** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1189,6 +1189,28 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 ## Cinematográfico / Imagem de Filme
 
+<a name="prompt-2098978626637308214"></a>
+
+### Tradução em andamento
+
+Autor：[@AI\_with\_Antonio](https://x.com/AI_with_Antonio) · [Publicação original](https://x.com/AI_with_Antonio/status/2098978626637308214)
+
+Quadrinhos / Storyboard · Cinematográfico / Imagem de Filme · Renderização 3D · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2098978626637308214.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098964408085205361"></a>
 
 ### Tradução em andamento
@@ -1213,7 +1235,7 @@ Tradução em andamento
 
 <a name="prompt-2098987067288244447"></a>
 
-### Tradução em andamento
+### Retrato wuxia chinês retrô cinematográfico em 35mm de uma mulher do leste asiático em um bambuzal noturno enevoado com iluminação de contorno suave.
 
 Autor：[@Soranlan](https://x.com/Soranlan) · [Publicação original](https://x.com/Soranlan/status/2098987067288244447)
 
@@ -1221,7 +1243,7 @@ Cinematográfico / Imagem de Filme · Retrô / Vintage · Retrato / Selfie · Pe
 
 Publicação original：[@Soranlan](https://x.com/Soranlan) · [Publicação original](https://x.com/Soranlan/status/2098975054013047064)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato wuxia chinês retrô cinematográfico em 35mm de uma mulher do leste asiático em um bambuzal noturno enevoado com iluminação de contorno suave.
 
 <img src="images/2098987067288244447-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1242,7 +1264,7 @@ Publicação original：[@Soranlan](https://x.com/Soranlan) · [Publicação ori
 **Prompt**
 
 ```text
-Tradução em andamento
+Fotograma cinematográfico em filme 35mm, estética retro wuxia chinesa, retrato live action onírico em foco suave de uma mulher wuxia do leste asiático adulta em um bambuzal noturno e enevoado. Plano médio curto, perfil de três quartos virando-se para a câmera, olhar calmo e melancólico, rosto oval, sobrancelhas de salgueiro, olhos amendoados, maquiagem delicada, pele pálida e luminosa, longos cabelos pretos esvoaçando para o lado, coque clássico semi-preso com mechas soltas, delicados brincos pendentes de prata. Hanfu de seda branca fluida com camadas internas azul-claras e mangas longas e suaves, uma mão graciosamente estendida pegando uma folha de bambu caindo. Pétalas cor-de-rosa e folhas de bambu flutuando, folhagens em primeiro plano com desfoque em camadas, névoa tênue, atmosfera fria iluminada pela lua em azul e verde, suave e quente luz de contorno âmbar no cabelo e na bochecha. Profundidade de campo rasa, halação sutil, granulação de filme visível, atmosfera cinematográfica analógica. "Soran" tecido no bordado da borda da manga perto do pulso, embutido na trama da seda, nas veias do ornamento de cabelo e nos padrões de fios finos dos brincos. --no anime, game concept art, CGI, plastic skin, hard flash, studio lighting, sharp digital crispness, HDR, oversaturated colors, aggressive expression, direct harsh stare, modern clothing, modern accessories, distorted hands, extra fingers, missing fingers, bad anatomy, external watermark, sticker-like logo, detached letters, captions, subtitles --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
 ```
 
 [↑ Voltar às categorias](#catalog)

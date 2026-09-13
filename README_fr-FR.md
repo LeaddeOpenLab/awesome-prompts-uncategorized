@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**154** Prompts · Dernier ajout: **2026-09-13**
+**155** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1175,6 +1175,28 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 ## Image cinématographique / Photogramme de film
 
+<a name="prompt-2098978626637308214"></a>
+
+### Traduction en cours
+
+Auteur：[@AI\_with\_Antonio](https://x.com/AI_with_Antonio) · [Publication originale](https://x.com/AI_with_Antonio/status/2098978626637308214)
+
+Bande dessinée / Storyboard · Image cinématographique / Photogramme de film · Rendu 3D · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2098978626637308214.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098964408085205361"></a>
 
 ### Traduction en cours
@@ -1199,7 +1221,7 @@ Traduction en cours
 
 <a name="prompt-2098987067288244447"></a>
 
-### Traduction en cours
+### Portrait wuxia chinois rétro et cinématographique en 35 mm d'une femme d'Asie de l'Est dans une bambouseraie brumeuse nocturne avec doux éclairage de contour.
 
 Auteur：[@Soranlan](https://x.com/Soranlan) · [Publication originale](https://x.com/Soranlan/status/2098987067288244447)
 
@@ -1207,7 +1229,7 @@ Image cinématographique / Photogramme de film · Rétro / Vintage · Portrait /
 
 Publication originale：[@Soranlan](https://x.com/Soranlan) · [Publication originale](https://x.com/Soranlan/status/2098975054013047064)
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait wuxia chinois rétro et cinématographique en 35 mm d'une femme d'Asie de l'Est dans une bambouseraie brumeuse nocturne avec doux éclairage de contour.
 
 <img src="images/2098987067288244447-1.jpg" alt="Image 1" width="480" />
 
@@ -1228,7 +1250,7 @@ Publication originale：[@Soranlan](https://x.com/Soranlan) · [Publication orig
 **Consigne**
 
 ```text
-Traduction en cours
+Plan de film 35 mm cinématographique, esthétique rétro de wuxia chinois, portrait onirique en prise de vue réelle au flou artistique d'une femme wuxia d'Asie de l'Est adulte dans une bambouseraie brumeuse nocturne. Plan moyen rapproché, profil de trois-quarts tourné vers la caméra, regard calme et mélancolique, visage ovale, sourcils en feuille de saule, yeux en amande, maquillage délicat, teint pâle et lumineux, longs cheveux noirs soufflés sur le côté, chignon classique à moitié relevé avec des mèches lâches, délicates boucles d'oreilles pendantes en argent. Hanfu fluide en soie blanche avec sous-couches bleu pâle et longues manches soyeuses, une main gracieusement tendue attrapant une feuille de bambou qui tombe. Pétales roses et feuilles de bambou flottantes, flou de feuillage au premier plan superposé, légère brume, atmosphère nocturne bleu-vert sous le clair de lune, doux et chaleureux éclairage de contour ambré sur les cheveux et la joue. Faible profondeur de champ, halo subtil, grain argentique visible, ambiance de cinéma analogique. "Soran" tissé dans la broderie de la bordure de la manche près du poignet, incrusté dans le tissage de la soie, les veinures de l'ornement de cheveux et les motifs de fil fin des boucles d'oreilles. --no anime, game concept art, CGI, plastic skin, hard flash, studio lighting, sharp digital crispness, HDR, oversaturated colors, aggressive expression, direct harsh stare, modern clothing, modern accessories, distorted hands, extra fingers, missing fingers, bad anatomy, external watermark, sticker-like logo, detached letters, captions, subtitles --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
 ```
 
 [↑ Retour aux catégories](#catalog)

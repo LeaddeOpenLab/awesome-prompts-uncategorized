@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**154** Prompts · Latest addition: **2026-09-13**
+**155** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1628,6 +1628,56 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098978626637308214"></a>
+
+### Pixar-style 3D animation storyboard prompts, telling a heartwarming story of a kind little cloud raining to help a sunflower seedling bloom.
+
+Author：[@AI\_with\_Antonio](https://x.com/AI_with_Antonio) · [Source](https://x.com/AI_with_Antonio/status/2098978626637308214)
+
+Comic / Storyboard · Cinematic / Film Still · 3D Render · Published
+
+**Summary:** Pixar-style 3D animation storyboard prompts, telling a heartwarming story of a kind little cloud raining to help a sunflower seedling bloom.
+
+<img src="covers/2098978626637308214.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+00:00 – Establishing Shot
+Prompt: 3D Pixar-style wide shot. Fluffy, expressive cloud floats over sunlit sunflower fields.
+
+00:01 – The Discovery
+Prompt: Cloud drifts down toward a tiny closed bud, smiling gently.
+
+00:02 – Gathering Effort
+Prompt: Cloud puffs cheeks and blows a focused breeze downward.
+
+00:03 – Gentle Breath
+Prompt: Close-up of bud trembling as soft air and droplets land.
+
+00:04 – Determining Focus
+Prompt: Cloud turns slightly gray, concentrating hard to produce rain.
+
+00:05 – The Rain Shower
+Prompt: Sparkling raindrops pour directly over the small closed sunflower.
+
+00:06 – Blooming Smiles
+Prompt: Bud blooms into a bright, smiling sunflower face.
+
+00:07 – Cloud's Surprise
+Prompt: Close-up of cloud gasping in wide-eyed wonder.
+
+00:08 – Joyful Smile
+Prompt: Cloud beams proudly at the newly bloomed sunflower.
+
+00:09 – Rainbow Harmony
+Prompt: Wide shot with a glowing rainbow appearing beneath the cloud.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098964408085205361"></a>
 

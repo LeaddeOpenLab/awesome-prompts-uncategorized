@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**154** Prompt · Bổ sung mới nhất: **2026-09-13**
+**155** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1211,6 +1211,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2098978626637308214"></a>
+
+### Đang dịch
+
+Tác giả：[@AI\_with\_Antonio](https://x.com/AI_with_Antonio) · [Bài gốc](https://x.com/AI_with_Antonio/status/2098978626637308214)
+
+Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2098978626637308214.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098964408085205361"></a>
 
 ### Đang dịch
@@ -1235,7 +1257,7 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt h
 
 <a name="prompt-2098987067288244447"></a>
 
-### Đang dịch
+### Chân dung kiếm hiệp Trung Hoa hoài cổ 35mm điện ảnh của một phụ nữ Đông Á trong rừng trúc đêm sương mù với ánh sáng viền mềm mại.
 
 Tác giả：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/Soranlan/status/2098987067288244447)
 
@@ -1243,7 +1265,7 @@ Tác giả：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/S
 
 Bài gốc：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/Soranlan/status/2098975054013047064)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung kiếm hiệp Trung Hoa hoài cổ 35mm điện ảnh của một phụ nữ Đông Á trong rừng trúc đêm sương mù với ánh sáng viền mềm mại.
 
 <img src="images/2098987067288244447-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1264,7 +1286,7 @@ Bài gốc：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/S
 **Câu lệnh**
 
 ```text
-Đang dịch
+Khung hình phim 35mm điện ảnh, thẩm mỹ kiếm hiệp Trung Hoa hoài cổ, chân dung người thật lấy nét mềm như mơ của một người phụ nữ kiếm hiệp Đông Á trưởng thành trong rừng trúc đêm sương mù. Cận cảnh vừa, góc nghiêng ba phần tư quay về phía máy ảnh, ánh nhìn trầm tĩnh u sầu, khuôn mặt trái xoan, lông mày lá liễu, mắt hạnh, trang điểm tinh tế, làn da trắng sáng phát quang, mái tóc đen dài bay sang một bên, búi tóc nửa đầu cổ điển với những lọn tóc buông lơi, hoa tai bạc dáng giọt nước tinh xảo. Hán phục lụa trắng thướt tha với các lớp lót màu xanh nhạt và tay áo dài mềm mại, một tay duyên dáng đưa ra đón chiếc lá trúc đang rơi. Những cánh hoa màu hồng và lá trúc trôi lơ lửng, tiền cảnh cây lá mờ nhiều tầng, sương mờ mờ, bầu không khí ánh trăng xanh lục lam mát lạnh, ánh sáng viền màu hổ phách ấm áp mềm mại trên tóc và má. Độ sâu trường ảnh nông, quầng sáng (halation) tinh tế, hạt phim nhìn thấy rõ, tâm trạng điện ảnh analog. Chữ "Soran" được dệt vào viền thêu tay áo gần cổ tay, lồng vào thớ lụa, đường vân trâm cài tóc và các hoa văn sợi chỉ tinh xảo của hoa tai. --no hoạt hình, nghệ thuật ý tưởng game, CGI, da nhựa, đèn flash gắt, ánh sáng studio, độ sắc nét kỹ thuật số, HDR, màu sắc quá bão hòa, biểu cảm hung hăng, ánh nhìn chằm chằm gay gắt, trang phục hiện đại, phụ kiện hiện đại, bàn tay biến dạng, thừa ngón tay, thiếu ngón tay, giải phẫu sai lệch, hình mờ bên ngoài, logo dạng nhãn dán, chữ tách rời, chú thích, phụ đề --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
 ```
 
 [↑ Về danh mục](#catalog)

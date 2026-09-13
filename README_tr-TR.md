@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**154** Prompt · Son eklenen: **2026-09-13**
+**155** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1189,6 +1189,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2098978626637308214"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AI\_with\_Antonio](https://x.com/AI_with_Antonio) · [Orijinal gönderi](https://x.com/AI_with_Antonio/status/2098978626637308214)
+
+Çizgi Roman / Hikaye Taslağı · Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2098978626637308214.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098964408085205361"></a>
 
 ### Çeviri sürüyor
@@ -1213,7 +1235,7 @@ Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Moda Ürünü · Man
 
 <a name="prompt-2098987067288244447"></a>
 
-### Çeviri sürüyor
+### Sisli bir gece bambu korusunda, yumuşak kenar ışıklandırmalı Doğu Asyalı bir kadının sinematik 35mm retro Çin wuxia portresi.
 
 Yazar：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2098987067288244447)
 
@@ -1221,7 +1243,7 @@ Sinematik / Film Karesi · Retro / Vintage · Portre / Selfie · Karakter · Yay
 
 Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2098975054013047064)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sisli bir gece bambu korusunda, yumuşak kenar ışıklandırmalı Doğu Asyalı bir kadının sinematik 35mm retro Çin wuxia portresi.
 
 <img src="images/2098987067288244447-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1242,7 +1264,7 @@ Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sinematik 35mm film karesi, retro Çin wuxia estetiği, sisli bir gece bambu korusunda yetişkin bir Doğu Asyalı wuxia kadınının rüya gibi yumuşak odaklı canlı çekim portresi. Orta yakın çekim, kameraya dönen üç çeyrek profil, sakin ve melankolik bakış, oval yüz, söğüt kaşlar, badem gözler, narin makyaj, solgun parlak ten, yana savrulan uzun siyah saçlar, açıkta kalan tutamlarıyla klasik yarı toplanmış topuz, zarif gümüş sallantılı küpeler. Soluk mavi alt katmanlara ve uzun yumuşak kollara sahip dökümlü beyaz ipek hanfu, düşen bir bambu yaprağını zarifçe yakalamak için uzatılmış bir el. Süzülen pembe taç yaprakları ve bambu yaprakları, katmanlı ön plan yaprak bulanıklığı, hafif sis, serin mavi-yeşil ay ışığı atmosferi, saçta ve yanakta yumuşak sıcak kehribar rengi kenar ışığı. Sığ alan derinliği, ince hale etkisi, görünür film greni, analog sinematik hava. Bileğe yakın kol kenarı işlemesine dokunmuş, ipek dokumaya, saç süsü damarlarına ve küpelerin ince iplik desenlerine işlenmiş "Soran". --no anime, game concept art, CGI, plastic skin, hard flash, studio lighting, sharp digital crispness, HDR, oversaturated colors, aggressive expression, direct harsh stare, modern clothing, modern accessories, distorted hands, extra fingers, missing fingers, bad anatomy, external watermark, sticker-like logo, detached letters, captions, subtitles --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
 ```
 
 [↑ Kategorilere dön](#catalog)
