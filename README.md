@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**144** Prompts · Latest addition: **2026-09-13**
+**145** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3155,6 +3155,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098886623433769078"></a>
+
+### Dazzling light
+
+Author：[@owenxplore](https://x.com/owenxplore) · [Source](https://x.com/owenxplore/status/2098886623433769078)
+
+Other · Published
+
+**Summary:** Dazzling light
+
+<img src="covers/2098886623433769078.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Dazzling light
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098904393735340079"></a>
 
