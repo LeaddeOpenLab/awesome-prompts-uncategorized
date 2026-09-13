@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:21:37.173Z",
+  "model": "unknown-image",
+  "prompt": "Use the uploaded photo as the facial identity reference.\n\nUse the uploaded photo as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and overall appearance naturally.\n\nCreate a high-end photorealistic editorial composite portrait of a confident adult man with thick, neatly styled dark hair and a completely clean-shaven face — no beard, no mustache, no goatee, and no visible stubble.\n\nIn the foreground, show him full-body, standing slightly left of center in a relaxed three-quarter pose. Dress him in a premium emerald-green matching tracksuit: a fitted pullover hoodie with drawstrings and front kangaroo pocket, paired with matching tapered joggers. Finish the outfit with clean minimalist white low-top sneakers. Keep the styling simple and modern, with no necklace or chain. His expression should be serious and composed, looking slightly away from the camera.\n\nBehind him, create an enormous black-and-white close-up portrait of the same man, filling almost the entire background from edge to edge. Show the giant portrait from a dramatic three-quarter side angle with sharp facial detail, realistic skin texture, expressive eyes, and the same clean-shaven appearance. The oversized background portrait should wear a dark hoodie, blending naturally into a smooth charcoal-gray studio background.\n\nUse the strong contrast between the vivid emerald-green foreground figure and the monochrome oversized portrait as the main visual concept. Soft directional studio lighting, subtle shadows, premium fashion-campaign aesthetic, realistic fabric folds, crisp facial details, cinematic depth, ultra-realistic photography, clean composition, high resolution.\n\nAspect ratio: 3:4 portrait.",
+  "promptTranslations": {
+    "en": "Use the uploaded photo as the facial identity reference.\\n\\nUse the uploaded photo as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and overall appearance naturally.\\n\\nCreate a high-end photorealistic editorial composite portrait of a confident adult man with thick, neatly styled dark hair and a completely clean-shaven face — no beard, no mustache, no goatee, and no visible stubble.\\n\\nIn the foreground, show him full-body, standing slightly left of center in a relaxed three-quarter pose. Dress him in a premium emerald-green matching tracksuit: a fitted pullover hoodie with drawstrings and front kangaroo pocket, paired with matching tapered joggers. Finish the outfit with clean minimalist white low-top sneakers. Keep the styling simple and modern, with no necklace or chain. His expression should be serious and composed, looking slightly away from the camera.\\n\\nBehind him, create an enormous black-and-white close-up portrait of the same man, filling almost the entire background from edge to edge. Show the giant portrait from a dramatic three-quarter side angle with sharp facial detail, realistic skin texture, expressive eyes, and the same clean-shaven appearance. The oversized background portrait should wear a dark hoodie, blending naturally into a smooth charcoal-gray studio background.\\n\\nUse the strong contrast between the vivid emerald-green foreground figure and the monochrome oversized portrait as the main visual concept. Soft directional studio lighting, subtle shadows, premium fashion-campaign aesthetic, realistic fabric folds, crisp facial details, cinematic depth, ultra-realistic photography, clean composition, high resolution.\\n\\nAspect ratio: 3:4 portrait."
+  },
+  "summaryTranslations": {
+    "en": "Fashion editorial composite of a man in an emerald tracksuit set against an oversized black-and-white portrait of himself."
+  },
+  "translationVersion": 2,
+  "summary": "Fashion editorial composite of a man in an emerald tracksuit set against an oversized black-and-white portrait of himself.",
+  "summaryEn": "Fashion editorial composite of a man in an emerald tracksuit set against an oversized black-and-white portrait of himself.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098966144203759642",
+    "canonicalUrl": "https://x.com/abs_uiux/status/2098966144203759642",
+    "author": {
+      "username": "abs_uiux",
+      "displayName": "Abkr Sadiq | AI",
+      "profileUrl": "https://x.com/abs_uiux"
+    },
+    "publishedAt": "2026-09-13T02:45:00.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "en",
+    "originalText": "One color. Infinite vibes. How are you styling this Forest Green hoodie? \n\nGPT 2.5 image \n\nPrompt:\n\nUse the uploaded photo as the facial identity reference.\n\nUse the uploaded photo as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and overall appearance naturally.\n\nCreate a high-end photorealistic editorial composite portrait of a confident adult man with thick, neatly styled dark hair and a completely clean-shaven face — no beard, no mustache, no goatee, and no visible stubble.\n\nIn the foreground, show him full-body, standing slightly left of center in a relaxed three-quarter pose. Dress him in a premium emerald-green matching tracksuit: a fitted pullover hoodie with drawstrings and front kangaroo pocket, paired with matching tapered joggers. Finish the outfit with clean minimalist white low-top sneakers. Keep the styling simple and modern, with no necklace or chain. His expression should be serious and composed, looking slightly away from the camera.\n\nBehind him, create an enormous black-and-white close-up portrait of the same man, filling almost the entire background from edge to edge. Show the giant portrait from a dramatic three-quarter side angle with sharp facial detail, realistic skin texture, expressive eyes, and the same clean-shaven appearance. The oversized background portrait should wear a dark hoodie, blending naturally into a smooth charcoal-gray studio background.\n\nUse the strong contrast between the vivid emerald-green foreground figure and the monochrome oversized portrait as the main visual concept. Soft directional studio lighting, subtle shadows, premium fashion-campaign aesthetic, realistic fabric folds, crisp facial details, cinematic depth, ultra-realistic photography, clean composition, high resolution.\n\nAspect ratio: 3:4 portrait.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSDtOupbEAAK5LX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSDtOupbEAAK5LX.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 1,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 395
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/abs_uiux/status/2098966144203759642",
+  "coverUrl": "https://pbs.twimg.com/media/HSDtOupbEAAK5LX.jpg",
+  "coverPath": "images/2098966144203759642-1.jpg",
+  "imagePaths": [
+    "images/2098966144203759642-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSDtOupbEAAK5LX",
+    "x-post:2098966144203759642"
+  ],
+  "analysis": {
+    "summary": "Fashion editorial composite of a man in an emerald tracksuit set against an oversized black-and-white portrait of himself.",
+    "summaryEn": "Fashion editorial composite of a man in an emerald tracksuit set against an oversized black-and-white portrait of himself.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the image composition: foreground man in green hoodie and joggers, white sneakers, in front of a giant monochrome portrait."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Use the uploaded photo as the facial identity reference.\n\nUse the uploaded photo as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and overall appearance naturally.\n\nCreate a high-end photorealistic editorial composite portrait of a confident adult man with thick, neatly styled dark hair and a completely clean-shaven face — no beard, no mustache, no goatee, and no visible stubble.\n\nIn the foreground, show him full-body, standing slightly left of center in a relaxed three-quarter pose. Dress him in a premium emerald-green matching tracksuit: a fitted pullover hoodie with drawstrings and front kangaroo pocket, paired with matching tapered joggers. Finish the outfit with clean minimalist white low-top sneakers. Keep the styling simple and modern, with no necklace or chain. His expression should be serious and composed, looking slightly away from the camera.\n\nBehind him, create an enormous black-and-white close-up portrait of the same man, filling almost the entire background from edge to edge. Show the giant portrait from a dramatic three-quarter side angle with sharp facial detail, realistic skin texture, expressive eyes, and the same clean-shaven appearance. The oversized background portrait should wear a dark hoodie, blending naturally into a smooth charcoal-gray studio background.\n\nUse the strong contrast between the vivid emerald-green foreground figure and the monochrome oversized portrait as the main visual concept. Soft directional studio lighting, subtle shadows, premium fashion-campaign aesthetic, realistic fabric folds, crisp facial details, cinematic depth, ultra-realistic photography, clean composition, high resolution.\n\nAspect ratio: 3:4 portrait.",
+    "sourceRange": {
+      "start": 100,
+      "end": 1854
+    },
+    "translations": {
+      "zh": "使用上传照片作为面部参考，生成高端逼真时尚合成肖像。前景男子身穿祖母绿连帽卫衣套装配白球鞋，站姿放松微侧身；背景为同一人的巨幅黑白特写肖像，填充背景并融入炭灰棚景。强对比时尚视觉风格，比例 3:4。",
+      "en": "Use the uploaded photo as the facial identity reference.\n\nUse the uploaded photo as the facial identity reference. Preserve the subject’s recognizable facial features, skin tone, facial proportions, and overall appearance naturally.\n\nCreate a high-end photorealistic editorial composite portrait of a confident adult man with thick, neatly styled dark hair and a completely clean-shaven face — no beard, no mustache, no goatee, and no visible stubble.\n\nIn the foreground, show him full-body, standing slightly left of center in a relaxed three-quarter pose. Dress him in a premium emerald-green matching tracksuit: a fitted pullover hoodie with drawstrings and front kangaroo pocket, paired with matching tapered joggers. Finish the outfit with clean minimalist white low-top sneakers. Keep the styling simple and modern, with no necklace or chain. His expression should be serious and composed, looking slightly away from the camera.\n\nBehind him, create an enormous black-and-white close-up portrait of the same man, filling almost the entire background from edge to edge. Show the giant portrait from a dramatic three-quarter side angle with sharp facial detail, realistic skin texture, expressive eyes, and the same clean-shaven appearance. The oversized background portrait should wear a dark hoodie, blending naturally into a smooth charcoal-gray studio background.\n\nUse the strong contrast between the vivid emerald-green foreground figure and the monochrome oversized portrait as the main visual concept. Soft directional studio lighting, subtle shadows, premium fashion-campaign aesthetic, realistic fabric folds, crisp facial details, cinematic depth, ultra-realistic photography, clean composition, high resolution.\n\nAspect ratio: 3:4 portrait."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "editorial portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
