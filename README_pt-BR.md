@@ -2997,20 +2997,20 @@ Tradução em andamento
 
 <a name="prompt-2099203350281797949"></a>
 
-### Tradução em andamento
+### Uma alma segura uma moeda de travessia à beira de um rio escuro, esperando por Caronte.
 
 Autor：[@Novasynthetica](https://x.com/Novasynthetica) · [Publicação original](https://x.com/Novasynthetica/status/2099203350281797949)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma alma segura uma moeda de travessia à beira de um rio escuro, esperando por Caronte.
 
 <img src="images/2099203350281797949-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma alma alcança o rio negro no fim de todas as coisas. Caronte está esperando, a última brasa da vida está se apagando e a moeda para a travessia já está na mão.
 ```
 
 [↑ Voltar às categorias](#catalog)

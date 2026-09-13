@@ -2997,20 +2997,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2099203350281797949"></a>
 
-### Çeviri sürüyor
+### Bir ruh, karanlık bir nehrin kıyısında geçiş sikkesini tutarak Kharon'u bekliyor.
 
 Yazar：[@Novasynthetica](https://x.com/Novasynthetica) · [Orijinal gönderi](https://x.com/Novasynthetica/status/2099203350281797949)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir ruh, karanlık bir nehrin kıyısında geçiş sikkesini tutarak Kharon'u bekliyor.
 
 <img src="images/2099203350281797949-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir ruh, her şeyin sonundaki kara nehre ulaşır. Kharon beklemekte, hayatın son közü sönmekte ve geçiş için gereken sikke çoktan elde tutulmaktadır.
 ```
 
 [↑ Kategorilere dön](#catalog)

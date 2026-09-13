@@ -2980,20 +2980,20 @@ Traduction en cours
 
 <a name="prompt-2099203350281797949"></a>
 
-### Traduction en cours
+### Une âme tient une pièce de passage près d'une rivière sombre, attendant Charon.
 
 Auteur：[@Novasynthetica](https://x.com/Novasynthetica) · [Publication originale](https://x.com/Novasynthetica/status/2099203350281797949)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une âme tient une pièce de passage près d'une rivière sombre, attendant Charon.
 
 <img src="images/2099203350281797949-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une âme atteint la rivière noire à la fin de toutes choses. Charon attend, la dernière braise de vie s'éteint et la pièce pour la traversée est déjà dans la main.
 ```
 
 [↑ Retour aux catégories](#catalog)

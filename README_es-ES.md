@@ -3025,20 +3025,20 @@ Traducción en curso
 
 <a name="prompt-2099203350281797949"></a>
 
-### Traducción en curso
+### Un alma sostiene una moneda de pasaje junto a un río oscuro, esperando a Caronte.
 
 Autor：[@Novasynthetica](https://x.com/Novasynthetica) · [Publicación original](https://x.com/Novasynthetica/status/2099203350281797949)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un alma sostiene una moneda de pasaje junto a un río oscuro, esperando a Caronte.
 
 <img src="images/2099203350281797949-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un alma llega al río negro en el fin de todas las cosas. Caronte está esperando, el último rescoldo de vida se está apagando y la moneda para el pasaje ya está en la mano.
 ```
 
 [↑ Volver a categorías](#catalog)

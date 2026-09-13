@@ -2980,20 +2980,20 @@ Traduzione in corso
 
 <a name="prompt-2099203350281797949"></a>
 
-### Traduzione in corso
+### Un'anima tiene in mano una moneta per il passaggio vicino a un fiume oscuro, aspettando Caronte.
 
 Autore：[@Novasynthetica](https://x.com/Novasynthetica) · [Post originale](https://x.com/Novasynthetica/status/2099203350281797949)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un'anima tiene in mano una moneta per il passaggio vicino a un fiume oscuro, aspettando Caronte.
 
 <img src="images/2099203350281797949-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un'anima raggiunge il fiume nero alla fine di ogni cosa. Caronte sta aspettando, l'ultima brace di vita si sta spegnendo e la moneta per il tragitto è già in mano.
 ```
 
 [↑ Torna alle categorie](#catalog)

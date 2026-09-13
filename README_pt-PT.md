@@ -2997,20 +2997,20 @@ Tradução em curso
 
 <a name="prompt-2099203350281797949"></a>
 
-### Tradução em curso
+### Uma alma segura uma moeda de travessia junto a um rio escuro, à espera de Caronte.
 
 Autor：[@Novasynthetica](https://x.com/Novasynthetica) · [Publicação original](https://x.com/Novasynthetica/status/2099203350281797949)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma alma segura uma moeda de travessia junto a um rio escuro, à espera de Caronte.
 
 <img src="images/2099203350281797949-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma alma alcança o rio negro no fim de todas as coisas. Caronte está à espera, a última brasa de vida está a apagar-se e a moeda para a travessia já está na mão.
 ```
 
 [↑ Voltar às categorias](#catalog)

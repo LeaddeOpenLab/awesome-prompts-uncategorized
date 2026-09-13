@@ -2980,20 +2980,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2099203350281797949"></a>
 
-### Übersetzung läuft
+### Eine Seele hält eine Überfahrtsmünze an einem dunklen Fluss und wartet auf Charon.
 
 Autor：[@Novasynthetica](https://x.com/Novasynthetica) · [Originalbeitrag](https://x.com/Novasynthetica/status/2099203350281797949)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine Seele hält eine Überfahrtsmünze an einem dunklen Fluss und wartet auf Charon.
 
 <img src="images/2099203350281797949-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine Seele erreicht den schwarzen Fluss am Ende von allem. Charon wartet, der letzte Funke des Lebens erlischt, und die Münze für die Überfahrt liegt bereits in der Hand.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

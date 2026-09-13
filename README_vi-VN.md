@@ -3025,20 +3025,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2099203350281797949"></a>
 
-### Đang dịch
+### Một linh hồn cầm đồng xu qua đò bên dòng sông tối tăm, chờ đợi Charon.
 
 Tác giả：[@Novasynthetica](https://x.com/Novasynthetica) · [Bài gốc](https://x.com/Novasynthetica/status/2099203350281797949)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một linh hồn cầm đồng xu qua đò bên dòng sông tối tăm, chờ đợi Charon.
 
 <img src="images/2099203350281797949-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một linh hồn đến được dòng sông đen nơi tận cùng của vạn vật. Charon đang chờ đợi, đốm tàn dư cuối cùng của sự sống đang dần lụi tàn, và đồng xu trả công qua đò đã cầm sẵn trong tay.
 ```
 
 [↑ Về danh mục](#catalog)
