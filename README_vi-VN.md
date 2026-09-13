@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**159** Prompt · Bổ sung mới nhất: **2026-09-13**
+**165** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099106797655048428"></a>
+
+### Đang dịch
+
+Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Nhiếp ảnh · Nhân vật · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099106797655048428-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099001599767318570"></a>
 
@@ -1997,15 +2019,39 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 ## Minh họa
 
-<a name="prompt-2098955280256209249"></a>
+<a name="prompt-2099142803704152513"></a>
 
 ### Đang dịch
+
+Tác giả：[@leftbypeace](https://x.com/leftbypeace) · [Bài gốc](https://x.com/leftbypeace/status/2099142803704152513)
+
+Minh họa · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099142803704152513-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099142803704152513-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098955280256209249"></a>
+
+### Tạo poster so sánh trên-dưới tỷ lệ 3:4, phần trên giữ ảnh chụp thực tế gốc, phần dưới tái cấu trúc chủ thể thành tranh minh họa hoạt hình mang tính nhân vật với viền đậm và mảng màu phẳng.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098955280256209249)
 
 Áp phích / Tờ rơi · Minh họa · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo poster so sánh trên-dưới tỷ lệ 3:4, phần trên giữ ảnh chụp thực tế gốc, phần dưới tái cấu trúc chủ thể thành tranh minh họa hoạt hình mang tính nhân vật với viền đậm và mảng màu phẳng.
 
 <img src="images/2098955280256209249-1.png" alt="Hình ảnh 1" width="480" />
 
@@ -2018,7 +2064,11 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một poster so sánh trên-dưới khổ dọc 3:4 độc lập. Nửa trên giữ nguyên vẹn chủ thể thực tế, tư thế, màu sắc, trang phục hoặc màu lông, đạo cụ, môi trường và mối quan hệ không gian từ ảnh gốc, không hoạt hình hóa và không đổi bố cục. Phần giữa được ngăn cách bằng một đường kẻ ngang màu trắng thẳng thớm, đơn giản.
+
+Nửa dưới thiết kế lại cùng chủ thể đó thành hình tượng hoạt hình mang tính cách nhân vật rõ nét: nét viền dày đậm, các mảng màu phẳng, hậu cảnh đơn giản và ấm áp, biểu cảm phóng đại nhưng rõ ràng, đôi mắt to tràn đầy sức sống, tỷ lệ cơ thể tròn trịa vừa phải hoặc hơi vụng về ngộ nghĩnh. Trích xuất đặc điểm nhân vật từ chủ thể ảnh gốc, có thể chuyển hóa trang phục, tư thế, đạo cụ, đặc điểm động vật hoặc yếu tố môi trường thành thiết lập nhân vật, để nửa dưới trông như một nhân vật hoạt hình có cá tính riêng chứ không phải bộ lọc thông thường hay nét viền đơn giản.
+
+Phải giữ lại các đặc điểm nhận dạng của chủ thể gốc, tương quan hành động, màu sắc chủ đạo và đạo cụ then chốt; nửa dưới cần toát lên phong thái nhân vật thư thái, tinh nghịch và có chút kịch tính, nhưng không được biến thành IP hoạt hình cụ thể, nhân vật anime hay linh vật có sẵn. Không thêm người, động vật hay khung cảnh thừa. Không chữ, phụ đề, tiêu đề, huy hiệu góc, logo, hình mờ hoặc ghép ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2841,6 +2891,34 @@ LIÊN TỤC / CÁC YẾU TỐ PHỦ ĐỊNH: Chỉ có một phóng viên, một
 
 ## Chủ nghĩa tối giản
 
+<a name="prompt-2099090732678295807"></a>
+
+### Đang dịch
+
+Tác giả：[@azed\_ai](https://x.com/azed_ai) · [Bài gốc](https://x.com/azed_ai/status/2099090732678295807)
+
+Nhiếp ảnh · Chủ nghĩa tối giản · Chân dung / Ảnh tự chụp · Người có ảnh hưởng / Người mẫu · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099090732678295807-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098878777556410480"></a>
 
 ### Chủ nghĩa tối giản mang tính ý niệm: Một chiếc ghế gỗ đơn độc trong căn phòng màu trắng trống rỗng.
@@ -2888,6 +2966,72 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2099109534954356977"></a>
+
+### Đang dịch
+
+Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2099109534954356977)
+
+Áp phích / Tờ rơi · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099109534954356977-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### Đang dịch
+
+Tác giả：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Bài gốc](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099106073756192901-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Đang dịch
+
+Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098996343255482545)
+
+Chân dung / Ảnh tự chụp · Văn bản / Kiểu chữ · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098996343255482545-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098966144203759642"></a>
 

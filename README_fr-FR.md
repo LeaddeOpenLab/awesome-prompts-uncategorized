@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**159** Prompts · Dernier ajout: **2026-09-13**
+**165** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099106797655048428"></a>
+
+### Traduction en cours
+
+Auteur：[@Minahil42298354](https://x.com/Minahil42298354) · [Publication originale](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Photographie · Personnage · Article de mode · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099106797655048428-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099001599767318570"></a>
 
@@ -1962,15 +1984,39 @@ Luffy caresse tendrement la tête d'Anya, Anya se jette dans ses bras, entourés
 
 ## Illustration
 
-<a name="prompt-2098955280256209249"></a>
+<a name="prompt-2099142803704152513"></a>
 
 ### Traduction en cours
+
+Auteur：[@leftbypeace](https://x.com/leftbypeace) · [Publication originale](https://x.com/leftbypeace/status/2099142803704152513)
+
+Illustration · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099142803704152513-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099142803704152513-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098955280256209249"></a>
+
+### Générer une affiche comparative haut-bas au format 3:4, conservant en haut la photo réelle d'origine et transformant en bas le sujet en une illustration de cartoon aux contours épais et aplats de couleur.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2098955280256209249)
 
 Affiche / Flyer · Illustration · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Générer une affiche comparative haut-bas au format 3:4, conservant en haut la photo réelle d'origine et transformant en bas le sujet en une illustration de cartoon aux contours épais et aplats de couleur.
 
 <img src="images/2098955280256209249-1.png" alt="Image 1" width="480" />
 
@@ -1983,7 +2029,11 @@ Affiche / Flyer · Illustration · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche comparative verticale indépendante au format 3:4, divisée en haut et bas. La moitié supérieure conserve intégralement le sujet réel de la photo d'origine, sa pose, ses couleurs, ses vêtements ou son pelage, ses accessoires, son environnement et ses rapports d'espace, sans cartoonisation ni modification de cadrage. Le milieu est séparé par une ligne horizontale blanche, nette et droite.
+
+La moitié inférieure redessine le même sujet sous la forme d'un personnage de dessin animé à forte identité : contours sombres et épais, aplats de couleurs, décor d'arrière-plan simplifié et chaleureux, expressions exagérées mais très lisibles, grands yeux expressifs, proportions corporelles modérément arrondies ou légèrement maladroites. Extrayez les traits caractéristiques du sujet d'origine pour transposer tenues, poses, accessoires, attributs animaliers ou éléments de décor dans le design du personnage, afin que la partie inférieure ressemble à un vrai personnage de cartoon avec du tempérament, et non à un simple filtre ou à un tracé basique.
+
+Il est impératif de conserver les éléments d'identification du sujet d'origine, la dynamique de l'action, les couleurs dominantes et les accessoires clés ; la partie inférieure doit dégager une ambiance décontractée, espiègle et légèrement théâtrale, sans pour autant devenir une franchise d'animation précise, un personnage d'anime ou une mascotte existante. N'ajoutez aucun personnage, animal ou décor superflu. Pas de texte, sous-titres, titres, macarons d'angle, logos, filigranes ni mises en page de type pêle-mêle.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2796,6 +2846,34 @@ Séquence documentaire télévisée ultra-réaliste de 15 secondes du début des
 
 ## Minimalisme
 
+<a name="prompt-2099090732678295807"></a>
+
+### Traduction en cours
+
+Auteur：[@azed\_ai](https://x.com/azed_ai) · [Publication originale](https://x.com/azed_ai/status/2099090732678295807)
+
+Photographie · Minimalisme · Portrait / Selfie · Influenceur / Mannequin · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099090732678295807-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098878777556410480"></a>
 
 ### Minimalisme conceptuel : une seule chaise en bois dans une pièce blanche vide.
@@ -2843,6 +2921,72 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2099109534954356977"></a>
+
+### Traduction en cours
+
+Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2099109534954356977)
+
+Affiche / Flyer · Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099109534954356977-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### Traduction en cours
+
+Auteur：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publication originale](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099106073756192901-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Traduction en cours
+
+Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2098996343255482545)
+
+Portrait / Selfie · Texte / Typographie · Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098996343255482545-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098966144203759642"></a>
 

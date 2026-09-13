@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**159** Prompts · Última incorporación: **2026-09-13**
+**165** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2099106797655048428"></a>
+
+### Traducción en curso
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicación original](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Fotografía · Personaje · Artículo de moda · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099106797655048428-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099001599767318570"></a>
 
@@ -1962,15 +1984,39 @@ Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodead
 
 ## Ilustración
 
-<a name="prompt-2098955280256209249"></a>
+<a name="prompt-2099142803704152513"></a>
 
 ### Traducción en curso
+
+Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicación original](https://x.com/leftbypeace/status/2099142803704152513)
+
+Ilustración · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099142803704152513-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099142803704152513-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098955280256209249"></a>
+
+### Genera un póster comparativo arriba-abajo de 3:4, manteniendo arriba la fotografía real original y reconstruyendo abajo al sujeto como una ilustración de personaje animado con trazos gruesos y bloques de color plano.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2098955280256209249)
 
 Póster / Volante · Ilustración · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Genera un póster comparativo arriba-abajo de 3:4, manteniendo arriba la fotografía real original y reconstruyendo abajo al sujeto como una ilustración de personaje animado con trazos gruesos y bloques de color plano.
 
 <img src="images/2098955280256209249-1.png" alt="Imagen 1" width="480" />
 
@@ -1983,7 +2029,11 @@ Póster / Volante · Ilustración · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster comparativo vertical independiente de 3:4 dividido arriba y abajo. La mitad superior conserva por completo el sujeto real de la foto de entrada, su postura, colores, ropa o pelaje, accesorios, entorno y relaciones espaciales, sin convertirlo en caricatura ni alterar la composición. El centro se divide con una línea horizontal blanca, simple y recta.
+
+La mitad inferior rediseña al mismo sujeto como un personaje de caricatura con una personalidad bien definida: contornos oscuros y gruesos, plastas de color plano, fondo de escena simplificado y cálido, expresiones exageradas pero claras, ojos grandes y expresivos, y proporciones corporales moderadamente redondeadas o ligeramente torpes. Extrae las características del sujeto original, transformando vestimenta, pose, accesorios, rasgos animales o elementos del entorno en el diseño del personaje, para que la mitad inferior luzca como un personaje animado con personalidad y no como un filtro genérico o un trazo simple.
+
+Es indispensable conservar los rasgos distintivos del sujeto original, las relaciones de movimiento, los colores principales y los accesorios clave; la parte inferior debe tener un tono relajado, travieso y ligeramente dramático, sin convertirse en una IP de animación específica, personaje de anime o mascota existente. No agregues personas, animales ni escenarios adicionales. Sin texto, subtítulos, títulos, sellos de esquina, logotipos, marcas de agua ni paneles de collage.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2796,6 +2846,34 @@ Material de documental de televisión de principios de los años 2000, ultrarrea
 
 ## Minimalismo
 
+<a name="prompt-2099090732678295807"></a>
+
+### Traducción en curso
+
+Autor：[@azed\_ai](https://x.com/azed_ai) · [Publicación original](https://x.com/azed_ai/status/2099090732678295807)
+
+Fotografía · Minimalismo · Retrato / Selfie · Influencer / Modelo · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099090732678295807-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098878777556410480"></a>
 
 ### Minimalismo conceptual: una sola silla de madera en una habitación blanca vacía.
@@ -2843,6 +2921,72 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2099109534954356977"></a>
+
+### Traducción en curso
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2099109534954356977)
+
+Póster / Volante · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099109534954356977-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### Traducción en curso
+
+Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publicación original](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099106073756192901-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Traducción en curso
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2098996343255482545)
+
+Retrato / Selfie · Texto / Tipografía · Resumen / Antecedentes · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098996343255482545-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098966144203759642"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**159** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**165** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2099106797655048428"></a>
+
+### Übersetzung läuft
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Originalbeitrag](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Fotografie · Charakter · Modeartikel · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099106797655048428-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099001599767318570"></a>
 
@@ -1962,15 +1984,39 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 ## Illustration
 
-<a name="prompt-2098955280256209249"></a>
+<a name="prompt-2099142803704152513"></a>
 
 ### Übersetzung läuft
+
+Autor：[@leftbypeace](https://x.com/leftbypeace) · [Originalbeitrag](https://x.com/leftbypeace/status/2099142803704152513)
+
+Illustration · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099142803704152513-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099142803704152513-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098955280256209249"></a>
+
+### Erstelle ein 3:4-Oben-Unten-Vergleichsplakat, das oben das originale Realfoto beibehält und unten das Motiv als charakterstarke Cartoon-Illustration mit dicken Konturen und Farbflächen neu aufbaut.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2098955280256209249)
 
 Plakat / Flyer · Illustration · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein 3:4-Oben-Unten-Vergleichsplakat, das oben das originale Realfoto beibehält und unten das Motiv als charakterstarke Cartoon-Illustration mit dicken Konturen und Farbflächen neu aufbaut.
 
 <img src="images/2098955280256209249-1.png" alt="Bild 1" width="480" />
 
@@ -1983,7 +2029,11 @@ Plakat / Flyer · Illustration · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein eigenständiges vertikales 3:4-Vergleichsplakat mit oberer und unterer Hälfte. Die obere Hälfte behält das reale Motiv des Ausgangsfotos, seine Pose, Farben, Kleidung oder Fellfarbe, Requisiten, Umgebung und räumlichen Beziehungen vollständig bei, ohne Cartoon-Effekte und ohne Veränderung der Bildkomposition. In der Mitte wird es durch eine schlichte, gerade weiße horizontale Linie getrennt.
+
+Die untere Hälfte gestaltet dasselbe Motiv als Cartoon-Figur mit ausgeprägtem Charakter neu: dicke, dunkle Umrisslinien, flächige Farbblöcke, ein vereinfachter und warmer Szenenhintergrund, übertriebene, aber klare Mimik, große und ausdrucksstarke Augen sowie mäßig abgerundete oder leicht ungeschickte Körperproportionen. Die Charaktermerkmale werden aus dem Originalmotiv abgeleitet; Kleidung, Posen, Requisiten, tierische Merkmale oder Umgebungselemente können in das Charakterdesign einfließen, sodass die untere Hälfte wie eine eigenständige Cartoon-Figur mit Persönlichkeit wirkt und nicht wie ein einfacher Filter oder eine bloße Konturzeichnung.
+
+Erkennungsmerkmale des Originalmotivs, Bewegungszusammenhänge, Hauptfarben und zentrale Requisiten müssen erhalten bleiben. Die untere Hälfte soll eine entspannte, verspielte, leicht dramatische Ausstrahlung besitzen, darf jedoch nicht zu einer bestimmten Animations-IP, Anime-Figur oder einem bestehenden Maskottchen werden. Füge keine überflüssigen Personen, Tiere oder Kulissen hinzu. Kein Text, keine Untertitel, Titel, Eckenabzeichen, Logos, Wasserzeichen oder Collagen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2796,6 +2846,34 @@ Cyberpunk / Sci-Fi · Veröffentlicht
 
 ## Minimalismus
 
+<a name="prompt-2099090732678295807"></a>
+
+### Übersetzung läuft
+
+Autor：[@azed\_ai](https://x.com/azed_ai) · [Originalbeitrag](https://x.com/azed_ai/status/2099090732678295807)
+
+Fotografie · Minimalismus · Porträt / Selfie · Influencer / Model · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099090732678295807-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098878777556410480"></a>
 
 ### Konzeptueller Minimalismus: Ein einzelner Holzstuhl in einem leeren weißen Raum.
@@ -2843,6 +2921,72 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2099109534954356977"></a>
+
+### Übersetzung läuft
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2099109534954356977)
+
+Plakat / Flyer · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099109534954356977-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### Übersetzung läuft
+
+Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Originalbeitrag](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099106073756192901-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Übersetzung läuft
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2098996343255482545)
+
+Porträt / Selfie · Text / Typografie · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098996343255482545-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098966144203759642"></a>
 

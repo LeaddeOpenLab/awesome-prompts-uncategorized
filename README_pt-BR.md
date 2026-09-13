@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**159** Prompts · Última adição: **2026-09-13**
+**165** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099106797655048428"></a>
+
+### Tradução em andamento
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicação original](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Fotografia · Personagem · Item de Moda · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099106797655048428-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099001599767318570"></a>
 
@@ -1979,15 +2001,39 @@ Luffy faz carinho na cabeça de Anya com ternura, Anya se joga em seus braços, 
 
 ## Ilustração
 
-<a name="prompt-2098955280256209249"></a>
+<a name="prompt-2099142803704152513"></a>
 
 ### Tradução em andamento
+
+Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicação original](https://x.com/leftbypeace/status/2099142803704152513)
+
+Ilustração · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099142803704152513-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099142803704152513-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098955280256209249"></a>
+
+### Gere um pôster comparativo superior-inferior de proporção 3:4, preservando a foto real original em cima e reconstruindo o sujeito embaixo como ilustração de personagem animado com contornos grossos e cores planas.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098955280256209249)
 
 Pôster / Flyer · Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Gere um pôster comparativo superior-inferior de proporção 3:4, preservando a foto real original em cima e reconstruindo o sujeito embaixo como ilustração de personagem animado com contornos grossos e cores planas.
 
 <img src="images/2098955280256209249-1.png" alt="Imagem 1" width="480" />
 
@@ -2000,7 +2046,11 @@ Pôster / Flyer · Ilustração · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um pôster comparativo vertical independente na proporção 3:4 dividido em parte superior e inferior. A metade superior preserva integralmente o sujeito real da foto de entrada, sua pose, cores, roupas ou pelagem, adereços, ambiente e relações espaciais, sem transformar em desenho animado e sem alterar o enquadramento. O centro é dividido por uma linha horizontal branca, simples e reta.
+
+A metade inferior redesenha o mesmo sujeito como um personagem de desenho animado com forte personalidade: contornos escuros e grossos, blocos de cor chapada, plano de fundo simplificado e acolhedor, expressões exageradas porém nítidas, olhos grandes e expressivos, proporções corporais moderadamente arredondadas ou ligeiramente desajeitadas. Extraia os traços característicos do sujeito original, convertendo roupas, pose, adereços, atributos animais ou elementos do cenário no design do personagem, para que a metade inferior pareça um personagem de animação autêntico e cheio de personalidade, e não um simples filtro ou traçado básico.
+
+É obrigatório manter os traços identificáveis do sujeito original, as relações de movimento, as cores principais e os adereços essenciais; a parte inferior deve ter um clima descontraído, brincalhão e sutilmente teatral, sem se transformar em uma franquia específica de animação, personagem de anime ou mascote preexistente. Não adicione pessoas, animais ou cenários extras. Sem texto, legendas, títulos, selos nos cantos, logotipos, marcas d'água ou montagens em mosaico.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2813,6 +2863,34 @@ Filmagem de documentário de televisão ultrarrealista de 15 segundos do início
 
 ## Minimalismo
 
+<a name="prompt-2099090732678295807"></a>
+
+### Tradução em andamento
+
+Autor：[@azed\_ai](https://x.com/azed_ai) · [Publicação original](https://x.com/azed_ai/status/2099090732678295807)
+
+Fotografia · Minimalismo · Retrato / Selfie · Influenciador(a) / Modelo · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099090732678295807-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098878777556410480"></a>
 
 ### Minimalismo conceitual: uma única cadeira de madeira em um quarto branco vazio.
@@ -2860,6 +2938,72 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099109534954356977"></a>
+
+### Tradução em andamento
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2099109534954356977)
+
+Pôster / Flyer · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099109534954356977-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### Tradução em andamento
+
+Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publicação original](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099106073756192901-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Tradução em andamento
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2098996343255482545)
+
+Retrato / Selfie · Texto / Tipografia · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098996343255482545-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098966144203759642"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**159** Prompts · Latest addition: **2026-09-13**
+**165** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099106797655048428"></a>
+
+### Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall.
+
+Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Photography · Character · Fashion Item · Cityscape / Street · Published
+
+**Summary:** Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall.
+
+<img src="images/2099106797655048428-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A high-end commercial fashion advertisement photograph featuring a young woman with dark, wavy hair posing dynamically against a dark, textured concrete wall. She is dressed in a casual black oversized hoodie and black cargo joggers, paired with stylish black-and-white leather sneakers that feature prominent branding. Shot from a low angle to enhance the bold, confident posture, one foot is planted firmly forward while the other is raised, capturing a sense of urban movement and streetwear edge. Dramatic, directional lighting casts deep shadows and highlights the texture of her outfit and the rugged wall. In the upper right corner, clean white typography displays the brand name "EMA'S" alongside the tagline "STEP INTO YOUR MOMENT."
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099001599767318570"></a>
 
@@ -2421,6 +2443,34 @@ Comic / Storyboard · Anime / Manga · Published
 
 ## Illustration
 
+<a name="prompt-2099142803704152513"></a>
+
+### Tanabata illustration prompt of two people kissing in black gakuran uniforms beneath bamboo branches.
+
+Author：[@leftbypeace](https://x.com/leftbypeace) · [Source](https://x.com/leftbypeace/status/2099142803704152513)
+
+Illustration · Published
+
+**Summary:** Tanabata illustration prompt of two people kissing in black gakuran uniforms beneath bamboo branches.
+
+<img src="images/2099142803704152513-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099142803704152513-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Common: 2people, 2::upper body,side view::,3::crouching together beneath bamboo branches::, 3::kissing softly while squatting close::, colorful wish papers hanging from bamboo, tanabata decorations, dense green leaves, ribbons and paper strips surrounding them, warm daylight, soft shadows, youthful romantic mood, clean illustration, muted colorful palette
+
+A: 3::black gakuran::, crouching very close to B, one hand lightly holding B's neck or collar, 2::eyes closed::, leaning in gently
+
+B: 3::black gakuran::, crouching facing A, one hand resting near knee, other hand lightly touching A's sleeve, 2::eyes closed::, leaning into the kiss
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2098955280256209249"></a>
 
 ### Generate a 3:4 vertical comparison poster, with the upper half retaining the original live-action photo and the lower half reconstructing the subject into a stylized cartoon illustration with bold outlines and flat color blocks.
@@ -3434,6 +3484,34 @@ Cyberpunk / Sci-Fi · Published
 
 ## Minimalism
 
+<a name="prompt-2099090732678295807"></a>
+
+### Extreme low-angle studio fashion model portrait prompt template, emphasizing elongated silhouettes and minimalist reflective material textures.
+
+Author：[@azed\_ai](https://x.com/azed_ai) · [Source](https://x.com/azed_ai/status/2099090732678295807)
+
+Photography · Minimalism · Portrait / Selfie · Influencer / Model · Fashion Item · Published
+
+**Summary:** Extreme low-angle studio fashion model portrait prompt template, emphasizing elongated silhouettes and minimalist reflective material textures.
+
+<img src="images/2099090732678295807-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+A [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2098878777556410480"></a>
 
 ### Conceptual minimalism: A single wooden chair in an empty white room.
@@ -3519,6 +3597,88 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099109534954356977"></a>
+
+### Personal branding poster collage featuring a central main portrait surrounded by six smaller vignettes showcasing business, boxing, travel, and other dimensions, in an editorial collage and geometric color block style.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2099109534954356977)
+
+Poster / Flyer · Portrait / Selfie · Published
+
+**Summary:** Personal branding poster collage featuring a central main portrait surrounded by six smaller vignettes showcasing business, boxing, travel, and other dimensions, in an editorial collage and geometric color block style.
+
+<img src="images/2099109534954356977-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.
+
+Build the composition around a large central chest-up portrait of the man wearing a sophisticated black blazer over a black shirt, facing the camera with a calm, confident expression. Give him a neat short low-cut haircut, clean natural hairline, clean-shaven appearance, and polished professional styling. The central portrait should dominate the artwork and overlap the surrounding collage elements.
+
+Surround the main portrait with six smaller versions of the same man, each representing a different dimension of his life and career: upper-left — wearing a sharp black suit and white shirt, looking upward toward the side with ambition; upper-right — wearing an all-black casual outfit, dark sunglasses and backpack, representing travel and exploration, with an airplane silhouette nearby; middle-left — seated behind a laptop in a black T-shirt, hand beneath chin in a thoughtful working pose, representing AI, technology and creativity; middle-right — speaking confidently into a handheld microphone on a modern conference stage, representing public speaking and leadership; lower-left — athletic boxing scene wearing a black sleeveless sports top and boxing gloves in a focused fighting stance, representing discipline and resilience; lower-right — wearing a premium cream hoodie while working on a laptop beside a takeaway coffee cup and a vertical stack of books representing business, technology, health, wealth, freedom and impact.
+
+Create the background as a bold mixed-media editorial collage combining monochrome skyscrapers, modern city architecture, black-and-white photographic fragments, ink textures, torn-paper edges, halftone/grain effects, geometric blocks and architectural silhouettes. Add a subtle traditional Asian-style building silhouette on one side, airport/travel imagery, vertical city towers and abstract urban photography. Use a warm ivory/off-white paper texture as the overall background.
+
+Introduce strong geometric graphic elements throughout the poster: oversized burnt-orange circular shapes and vertical rectangles, solid matte-black blocks, and smaller vibrant electric-purple rectangles. Layer these elements behind and between the portraits for a sophisticated contemporary magazine-cover aesthetic. Use rough paint edges, distressed screen-print texture and subtle paper grain while keeping the portraits photorealistic and crisp.
+
+Place small editorial typography around the composition with generous letter spacing. Suggested upper-left text: “IDEAS / SYSTEMS / PEOPLE / IMPACT.” Upper-right: “A BRIGHTER TOMORROW.” Additional supporting words can include “BUILD / TEACH / CREATE / INVEST / GIVE BACK” and “DISCIPLINE / CLARITY / BETTER / EVERYDAY.”
+
+At the bottom, create a massive bold headline: “IMPACT”, using an ultra-heavy geometric sans-serif font. Make “IM” bright orange and “PACT” warm ivory/white, positioned over a deep-black rectangular base. Beneath it, add the smaller widely spaced tagline: “A MORE EMPOWERED WORLD THROUGH AI.” Add a small personal-brand signature in the lower-left such as “ABKR SADIQ”, followed by tiny category text: “DESIGN • AI • PEOPLE • IMPACT.”
+
+Overall visual direction: Forbes-meets-modern-tech-editorial, motivational personal branding, AI entrepreneur visual identity, cinematic urban lifestyle, sophisticated magazine collage, premium poster design, strong masculine styling, realistic skin texture, crisp cutout edges, dramatic but natural lighting, balanced asymmetrical composition, luxury print finish, subtle film grain, high contrast, extremely detailed, professional graphic design.
+
+Format: vertical 4:5 poster, high resolution, print-quality, sharp typography, photorealistic portraits, consistent facial identity across every scene,
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### A spectral hand assembling clockwork orchids in a cobalt-blue laboratory setting.
+
+Author：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Source](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Other · Published
+
+**Summary:** A spectral hand assembling clockwork orchids in a cobalt-blue laboratory setting.
+
+<img src="images/2099106073756192901-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+in a cobalt-blue laboratory, a spectral hand meticulously assembles a bouquet of clockwork orchids, each petal a miniature gear, the light diffused and filtered through panes of aged glass, emphasizing the delicate precision and melancholic beauty of the process, soft focus, rich detail, textured brushstrokes, volumetric lighting
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo.
+
+Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2098996343255482545)
+
+Portrait / Selfie · Text / Typography · Abstract / Background · Published
+
+**Summary:** Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo.
+
+<img src="images/2098996343255482545-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.\n\nUse the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.\n\nCreate a photorealistic luxury menswear editorial portrait of an adult man standing confidently against a clean off-white studio wall. Frame him from approximately mid-thigh upward, centered slightly to the right.\n\nDress him in a perfectly tailored deep navy-blue two-piece suit with a structured blazer, matching trousers, crisp white dress shirt, and a muted forest-green necktie. Add a refined silver wristwatch on his left wrist. Keep the styling minimal and sophisticated with no chain or necklace.\n\nGive him a neat short haircut with clean sides and natural texture on top. Pose him standing upright with both hands at the front of his blazer as though he is fastening the jacket button. His shoulders should be relaxed, posture confident, and expression calm and serious while looking slightly off-camera to the right.\n\nBehind him, place oversized elegant dark forest-green serif typography reading “MADE”, spanning almost the entire width of the background. Allow parts of the letters to sit naturally behind the subject, creating a premium fashion-magazine composition.\n\nUse soft diffused studio lighting from the front-left, subtle natural shadows on the wall, realistic skin texture, accurate fabric detail, clean highlights, and balanced neutral tones.\n\nStyle: luxury menswear campaign, modern corporate fashion, minimalist editorial photography, premium magazine aesthetic, sharp tailoring, realistic proportions, subtle depth of field, high-end commercial photography, ultra-photorealistic, crisp 8K detail.\n\nAspect ratio: 4:5 portrait.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098966144203759642"></a>
 

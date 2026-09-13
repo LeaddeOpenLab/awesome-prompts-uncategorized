@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**159** Prompts · Adição mais recente: **2026-09-13**
+**165** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099106797655048428"></a>
+
+### Tradução em curso
+
+Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicação original](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Fotografia · Personagem · Item de Moda · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099106797655048428-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099001599767318570"></a>
 
@@ -1979,15 +2001,39 @@ Luffy afaga com ternura a cabeça de Anya, Anya atira-se para os seus braços, e
 
 ## Ilustração
 
-<a name="prompt-2098955280256209249"></a>
+<a name="prompt-2099142803704152513"></a>
 
 ### Tradução em curso
+
+Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicação original](https://x.com/leftbypeace/status/2099142803704152513)
+
+Ilustração · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099142803704152513-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099142803704152513-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098955280256209249"></a>
+
+### Gerar um cartaz comparativo superior-inferior em 3:4, mantendo a fotografia real original em cima e reconstruindo o sujeito em baixo como ilustração de personagem de cartoon com contornos grossos e cores planas.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098955280256209249)
 
 Pôster / Folheto · Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Gerar um cartaz comparativo superior-inferior em 3:4, mantendo a fotografia real original em cima e reconstruindo o sujeito em baixo como ilustração de personagem de cartoon com contornos grossos e cores planas.
 
 <img src="images/2098955280256209249-1.png" alt="Imagem 1" width="480" />
 
@@ -2000,7 +2046,11 @@ Pôster / Folheto · Ilustração · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz comparativo vertical independente na proporção 3:4 dividido em parte superior e inferior. A metade superior preserva na íntegra o sujeito real da fotografia de entrada, a sua pose, cores, vestuário ou pelagem, adereços, ambiente e relações espaciais, sem estilização de desenho animado e sem alterar a composição. O centro é separado por uma linha horizontal branca, simples e reta.
+
+A metade inferior redesenha o mesmo sujeito como uma personagem de desenho animado com forte identidade: traços escuros e grossos, manchas de cor lisa, fundo de cena simplificado e acolhedor, expressões exageradas mas nítidas, olhos grandes e expressivos, proporções corporais moderadamente arredondadas ou ligeiramente desajeitadas. Extraia os traços característicos do sujeito original, convertendo vestuário, pose, adereços, traços animais ou elementos do ambiente no design da personagem, para que a metade inferior pareça uma personagem de animação com personalidade própria e não um filtro vulgar ou um contorno básico.
+
+É obrigatório manter as características de identificação do sujeito original, as relações de movimento, as cores principais e os adereços essenciais; a parte inferior deve ter uma atmosfera descontraída, brincalhona e ligeiramente teatral, sem se transformar numa propriedade intelectual de animação específica, personagem de anime ou mascote preexistente. Não adicione pessoas, animais ou cenários supérfluos. Sem texto, legendas, títulos, distintivos de canto, logótipos, marcas de água ou composições em painel.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2813,6 +2863,34 @@ Imagens de documentário de televisão ultrarrealistas de 15 segundos do início
 
 ## Minimalismo
 
+<a name="prompt-2099090732678295807"></a>
+
+### Tradução em curso
+
+Autor：[@azed\_ai](https://x.com/azed_ai) · [Publicação original](https://x.com/azed_ai/status/2099090732678295807)
+
+Fotografia · Minimalismo · Retrato / Selfie · Influenciador(a) / Modelo · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099090732678295807-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098878777556410480"></a>
 
 ### Minimalismo conceptual: uma única cadeira de madeira numa divisão branca vazia.
@@ -2860,6 +2938,72 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099109534954356977"></a>
+
+### Tradução em curso
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2099109534954356977)
+
+Pôster / Folheto · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099109534954356977-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### Tradução em curso
+
+Autor：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Publicação original](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099106073756192901-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Tradução em curso
+
+Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2098996343255482545)
+
+Retrato / Selfie · Texto / Tipografia · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098996343255482545-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098966144203759642"></a>
 

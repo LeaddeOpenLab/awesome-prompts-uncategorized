@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**159** Prompt · Son eklenen: **2026-09-13**
+**165** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099106797655048428"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Fotoğrafçılık · Karakter · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099106797655048428-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099001599767318570"></a>
 
@@ -1979,15 +2001,39 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 ## İllüstrasyon
 
-<a name="prompt-2098955280256209249"></a>
+<a name="prompt-2099142803704152513"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@leftbypeace](https://x.com/leftbypeace) · [Orijinal gönderi](https://x.com/leftbypeace/status/2099142803704152513)
+
+İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099142803704152513-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099142803704152513-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098955280256209249"></a>
+
+### Üst kısmında orijinal gerçek fotoğrafı koruyan, alt kısmında ise nesneyi kalın hatlı ve düz renkli bir çizgi karakter illüstrasyonu olarak yeniden kurgulayan 3:4 altlı üstlü karşılaştırma afişi oluşturma.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098955280256209249)
 
 Poster / El İlanı · İllüstrasyon · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Üst kısmında orijinal gerçek fotoğrafı koruyan, alt kısmında ise nesneyi kalın hatlı ve düz renkli bir çizgi karakter illüstrasyonu olarak yeniden kurgulayan 3:4 altlı üstlü karşılaştırma afişi oluşturma.
 
 <img src="images/2098955280256209249-1.png" alt="Görsel 1" width="480" />
 
@@ -2000,7 +2046,11 @@ Poster / El İlanı · İllüstrasyon · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bağımsız, 3:4 dikey formatta, altlı üstlü bir karşılaştırma afişi oluşturun. Üst yarı, giriş fotoğrafındaki gerçek nesneyi, pozu, renkleri, kıyafeti veya kürk rengini, aksesuarları, ortamı ve uzamsal ilişkileri çizgi filmleştirmeden ve kompozisyonu değiştirmeden tamamen korur. Orta kısım sade, düz beyaz yatay bir çizgiyle bölünür.
+
+Alt yarı, aynı nesneyi belirgin bir karaktere sahip çizgi film figürü olarak yeniden tasarlar: kalın koyu konturlar, düz renk blokları, sadeleştirilmiş ve sıcak sahne arka planı, abartılı fakat net ifadeler, iri ve canlı gözler, ölçülü derecede yuvarlak veya hafif sakar vücut oranları. Orijinal nesneden karakter özellikleri çıkarılarak kıyafetler, poz, aksesuarlar, hayvan özellikleri veya çevresel unsurlar bir karakter tasarımına dönüştürülmeli; böylece alt kısım sıradan bir filtre veya basit bir çizim gibi değil, kişiliği olan bir çizgi film karakteri gibi görünmelidir.
+
+Orijinal nesnenin ayırt edici özellikleri, hareket ilişkileri, ana renkleri ve kilit aksesuarları mutlaka korunmalıdır; alt kısım rahat, oyuncu ve hafif dramatik bir karakter havasına sahip olmalı, ancak belirli bir animasyon serisine, anime karakterine veya hazır bir maskota dönüşmemelidir. Fazladan insan, hayvan veya sahne eklemeyin. Metin, altyazı, başlık, köşe rozeti, logo, filigran veya kolaj paneli olmasın.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2813,6 +2863,34 @@ Fiziksel olarak alanda bulunan tek bir kameraman tarafından tüketici tipi bir 
 
 ## Minimalizm
 
+<a name="prompt-2099090732678295807"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@azed\_ai](https://x.com/azed_ai) · [Orijinal gönderi](https://x.com/azed_ai/status/2099090732678295807)
+
+Fotoğrafçılık · Minimalizm · Portre / Selfie · Influencer / Model · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099090732678295807-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098878777556410480"></a>
 
 ### Kavramsal minimalizm: Boş beyaz bir odada tek bir ahşap sandalye.
@@ -2860,6 +2938,72 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2099109534954356977"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2099109534954356977)
+
+Poster / El İlanı · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099109534954356977-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099106073756192901-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2098996343255482545)
+
+Portre / Selfie · Metin / Tipografi · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098996343255482545-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098966144203759642"></a>
 
