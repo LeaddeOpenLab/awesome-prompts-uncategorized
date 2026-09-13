@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T00:16:53.610Z",
+  "model": "unknown-image",
+  "prompt": "{人物 / 主题}，童趣讽刺漫画 × 速写涂鸦 × Underground Zine。\n\n成年人物，欧美脸型，高鼻梁、深眼窝、明显颧骨与下颌，五官轻度夸张，表情随机为嫌弃、翻白眼、假笑、无语、挑眉、死鱼眼、讥讽微笑，但整体保持轻松、顽皮、可爱，不阴暗。\n\n白色纸张背景，大量留白。粗糙黑色钢笔线、铅笔速写、蜡笔、彩色铅笔、马克笔涂鸦、重复描线、凌乱排线、未擦除草稿线，加入简单星星、太阳、花朵、爱心、云朵、小动物、笑脸等童趣手绘符号。\n\n局部随机加入明快高饱和色彩点缀，颜色可根据提示词整体语言气质与主题自动适配。\n\n人物周围随机加入潦草手写吐槽金句、讽刺台词、箭头、圈画、叉号、对话框和批注。台词要求简短、尖锐、荒诞、毒舌，带轻松冷幽默与童真恶作剧感，文字直接参与画面构图。\n\n台词、批注、对话框文字所使用的语言必须与整段提示词的语言保持一致：如果提示词是中文，画面文字全部使用中文；如果提示词是英文，画面文字全部使用英文；不要混用不同语言。\n\n姿势随机：抱胸、摊手、扶额、托腮、耸肩、插兜、端饮料、歪头、蹲坐、随意靠墙。\n\n整体像儿童涂鸦本、独立 Zine、报刊讽刺漫画与街头速写混合后的轻松恶搞风格。画面锐利清晰，白纸干净，线条明显手绘感。",
+  "promptTranslations": {
+    "en": "{Character / Subject}, childlike satirical cartoon × sketch doodle × underground zine.\n\nAdult figure, Western facial features, high nose bridge, deep eye sockets, pronounced cheekbones and jawline, slightly exaggerated facial features. Random facial expressions: disgust, eye-roll, fake smile, speechless, raised eyebrow, deadpan stare, smirking, yet overall keeping it relaxed, playful, cute, and not gloomy.\n\nWhite paper background, plenty of negative space. Rough black ink pen lines, pencil sketches, crayons, colored pencils, marker doodles, repeated overlapping strokes, messy cross-hatching, unerased draft guidelines, with simple hand-drawn childlike symbols such as stars, suns, flowers, hearts, clouds, little animals, smileys, etc.\n\nLocally and randomly incorporate bright, highly saturated color accents, with colors automatically adapted to the overall tone and theme of the prompt.\n\nRandomly add scribbled handwritten sarcastic punchlines, satirical quotes, arrows, circles, crosses, speech bubbles, and annotations around the character. The dialogue must be short, sharp, absurd, biting, with effortless deadpan humor and a childlike prankster vibe, with text directly participating in the composition.\n\nThe language used in dialogues, annotations, and speech bubble texts must match the language of the entire prompt: if the prompt is in Chinese, all in-image text must be in Chinese; if the prompt is in English, all in-image text must be in English; do not mix different languages.\n\nRandom poses: crossed arms, shrugging, facepalm, chin rested in hand, hands in pockets, holding a drink, tilted head, squatting, casually leaning against a wall.\n\nOverall, a lighthearted parody style blending a child's doodle sketchbook, indie zine, editorial satirical cartoon, and street sketching. The image is sharp and clear, on clean white paper, with distinctly hand-drawn linework."
+  },
+  "summaryTranslations": {
+    "en": "Hand-drawn illustration prompt combining childlike doodles, satirical cartoons, and indie zines, featuring handwritten sarcastic commentary and negative space composition."
+  },
+  "translationVersion": 2,
+  "summary": "融合童趣涂鸦、讽刺漫画与独立Zine的手绘风插画提示词，带手写吐槽与留白构图。",
+  "summaryEn": "Prompt for hand-drawn indie zine and satirical comic style doodles with handwritten snarky annotations.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2045131503001342302",
+      "canonicalUrl": "https://x.com/VoxcatAI/status/2045131503001342302",
+      "author": {
+        "username": "VoxcatAI",
+        "displayName": "VoxCat",
+        "profileUrl": "https://x.com/VoxcatAI"
+      },
+      "originalText": "极简的涂鸦速写风格（Doodle Sketch）\n\ngpt-iamge2\n\n提示词👇\n以涂鸦速写风表现【主题/主体】，整体呈现快速勾勒、自由变形、即兴手绘与草稿式的视觉效果。线条随手、夸张、可粗细不一，略显凌乱但具有节奏和表现力，强调概括、夸张、趣味和随性，而不是严谨写实或精细刻画。\n\n颜色采用粗糙、干刷感明显的块面表现，可保留不均匀的涂抹痕迹、刷痕、飞白与覆盖感，色彩根据【主题/主体】自动适配，但整体保持涂鸦式、速写式、概括式的表达。不要透明水彩晕染效果，不要细腻水彩过渡，不要纸纹理，不要柔和雾化，不要梦幻质感。\n\n背景以留白为主，保持简洁、轻松、未完成感和设计感，可加入少量辅助性符号、箭头、记号、圈画、重复线、随手写的文字或其他涂鸦元素，以增强速写本或随笔式视觉语言，但不可过于拥挤，不可破坏主体和留白气质。\n\n画面内容不需要预先写清楚，由【主题/主体】自动推演并生成最适合的主体形象、动作、相关元素、符号或简化场景，整体保持统一的涂鸦速写风和夸张概括的表现方式，避免复杂写实背景和过度铺陈。\n画面中需自然加入专属签名“voxcat”，作为画面的一部分，位置低调但清晰，可放在左下角、右下角或标题附近，风格需与整体版式统一，像作品署名或设计落款；签名字体精致、克制、高级，不可过大，不可破坏主体构图，不可显得突兀或廉价。"
+    },
+    "id": "2098919930125332588",
+    "canonicalUrl": "https://x.com/VoxcatAI/status/2098919930125332588",
+    "author": {
+      "username": "VoxcatAI",
+      "displayName": "VoxCat",
+      "profileUrl": "https://x.com/VoxcatAI"
+    },
+    "publishedAt": "2026-09-12T23:41:22.000Z",
+    "collectedAt": "2026-09-13T00:15:47.006Z",
+    "language": "zh",
+    "originalText": "最近在玩一套很有意思的视觉：\n\n童趣讽刺漫画 × 速写涂鸦 × Underground Zine\n\n把角色全部丢进同一套白纸涂鸦系统里，再根据角色性格自动生成吐槽、冷笑话、手写批注和小动物涂鸦。\n\n儿童涂鸦的天真 + 报刊讽刺漫画的毒舌 + 独立 Zine 的随意感。\n\n角色越一本正经，旁边的吐槽越好笑。😂\n\n这套尤其适合批量换角色，画风统一，但每张表情、姿势、配色、台词和页面构成都可以完全不同。\n\nPrompt：\n\n{人物 / 主题}，童趣讽刺漫画 × 速写涂鸦 × Underground Zine。\n\n成年人物，欧美脸型，高鼻梁、深眼窝、明显颧骨与下颌，五官轻度夸张，表情随机为嫌弃、翻白眼、假笑、无语、挑眉、死鱼眼、讥讽微笑，但整体保持轻松、顽皮、可爱，不阴暗。\n\n白色纸张背景，大量留白。粗糙黑色钢笔线、铅笔速写、蜡笔、彩色铅笔、马克笔涂鸦、重复描线、凌乱排线、未擦除草稿线，加入简单星星、太阳、花朵、爱心、云朵、小动物、笑脸等童趣手绘符号。\n\n局部随机加入明快高饱和色彩点缀，颜色可根据提示词整体语言气质与主题自动适配。\n\n人物周围随机加入潦草手写吐槽金句、讽刺台词、箭头、圈画、叉号、对话框和批注。台词要求简短、尖锐、荒诞、毒舌，带轻松冷幽默与童真恶作剧感，文字直接参与画面构图。\n\n台词、批注、对话框文字所使用的语言必须与整段提示词的语言保持一致：如果提示词是中文，画面文字全部使用中文；如果提示词是英文，画面文字全部使用英文；不要混用不同语言。\n\n姿势随机：抱胸、摊手、扶额、托腮、耸肩、插兜、端饮料、歪头、蹲坐、随意靠墙。\n\n整体像儿童涂鸦本、独立 Zine、报刊讽刺漫画与街头速写混合后的轻松恶搞风格。画面锐利清晰，白纸干净，线条明显手绘感。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSDciklbwAA4fJi.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSDciklbwAA4fJi.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSDcioKacAA9rMI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSDcioKacAA9rMI.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSDcioIbgAAb2nc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSDcioIbgAAb2nc.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSDcikka0AAa1es.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSDcikka0AAa1es.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HGHCuWkaoAAYUNX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HGHCuWkaoAAYUNX.jpg",
+        "sourcePostId": "2045131503001342302"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HGHD6rMa0AEx2Pa.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HGHD6rMa0AEx2Pa.jpg",
+        "sourcePostId": "2045131503001342302"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HGHEGoLasAEKBzQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HGHEGoLasAEKBzQ.jpg",
+        "sourcePostId": "2045131503001342302"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HGHELhMbkAAxS1M.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HGHELhMbkAAxS1M.jpg",
+        "sourcePostId": "2045131503001342302"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 276
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/VoxcatAI/status/2098919930125332588",
+  "coverUrl": "https://pbs.twimg.com/media/HSDciklbwAA4fJi.jpg",
+  "coverPath": "images/2098919930125332588-1.jpg",
+  "imagePaths": [
+    "images/2098919930125332588-1.jpg",
+    "images/2098919930125332588-2.jpg",
+    "images/2098919930125332588-3.jpg",
+    "images/2098919930125332588-4.jpg",
+    "images/2098919930125332588-5.jpg",
+    "images/2098919930125332588-6.jpg",
+    "images/2098919930125332588-7.jpg",
+    "images/2098919930125332588-8.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSDciklbwAA4fJi",
+    "x-image:/media/HSDcioKacAA9rMI",
+    "x-image:/media/HSDcioIbgAAb2nc",
+    "x-image:/media/HSDcikka0AAa1es",
+    "x-image:/media/HGHCuWkaoAAYUNX",
+    "x-image:/media/HGHD6rMa0AEx2Pa",
+    "x-image:/media/HGHEGoLasAEKBzQ",
+    "x-image:/media/HGHELhMbkAAxS1M",
+    "x-post:2098919930125332588",
+    "x-post:2045131503001342302"
+  ],
+  "analysis": {
+    "summary": "融合童趣涂鸦、讽刺漫画与独立Zine的手绘风插画提示词，带手写吐槽与留白构图。",
+    "summaryEn": "Prompt for hand-drawn indie zine and satirical comic style doodles with handwritten snarky annotations.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图1-4准确呈现了提示词中所描述的白底涂鸦、粗糙钢笔排线、手绘吐槽文字及符号排版。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "{人物 / 主题}，童趣讽刺漫画 × 速写涂鸦 × Underground Zine。\n\n成年人物，欧美脸型，高鼻梁、深眼窝、明显颧骨与下颌，五官轻度夸张，表情随机为嫌弃、翻白眼、假笑、无语、挑眉、死鱼眼、讥讽微笑，但整体保持轻松、顽皮、可爱，不阴暗。\n\n白色纸张背景，大量留白。粗糙黑色钢笔线、铅笔速写、蜡笔、彩色铅笔、马克笔涂鸦、重复描线、凌乱排线、未擦除草稿线，加入简单星星、太阳、花朵、爱心、云朵、小动物、笑脸等童趣手绘符号。\n\n局部随机加入明快高饱和色彩点缀，颜色可根据提示词整体语言气质与主题自动适配。\n\n人物周围随机加入潦草手写吐槽金句、讽刺台词、箭头、圈画、叉号、对话框和批注。台词要求简短、尖锐、荒诞、毒舌，带轻松冷幽默与童真恶作剧感，文字直接参与画面构图。\n\n台词、批注、对话框文字所使用的语言必须与整段提示词的语言保持一致：如果提示词是中文，画面文字全部使用中文；如果提示词是英文，画面文字全部使用英文；不要混用不同语言。\n\n姿势随机：抱胸、摊手、扶额、托腮、耸肩、插兜、端饮料、歪头、蹲坐、随意靠墙。\n\n整体像儿童涂鸦本、独立 Zine、报刊讽刺漫画与街头速写混合后的轻松恶搞风格。画面锐利清晰，白纸干净，线条明显手绘感。",
+    "sourceRange": {
+      "start": 211,
+      "end": 734
+    },
+    "translations": {
+      "zh": "{人物 / 主题}，童趣讽刺漫画 × 速写涂鸦 × Underground Zine风格提示词模板。",
+      "en": "{Character / Subject}, whimsical satirical comic x sketch doodle x Underground Zine style prompt template."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "童趣讽刺涂鸦漫画角色插画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Genshin Impact",
+        "Honkai: Star Rail"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
