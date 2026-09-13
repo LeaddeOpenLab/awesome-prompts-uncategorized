@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**168** Prompts · Latest addition: **2026-09-13**
+**169** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3649,6 +3649,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099220675223232866"></a>
+
+### A crowd cheering wildly and crying tears of joy during a Falcon 9 rocket launch.
+
+Author：[@Marie8508319540](https://x.com/Marie8508319540) · [Source](https://x.com/Marie8508319540/status/2099220675223232866)
+
+Other · Published
+
+**Summary:** A crowd cheering wildly and crying tears of joy during a Falcon 9 rocket launch.
+
+<img src="covers/2099220675223232866.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+The Collective Euphoria during a Falcon 9 launch: as the deafening roar finally sweeps over the crowd, tension instantly transforms into pure adrenaline. People cheer wildly, scream with joy, and some cry tears of emotion.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099129364260831684"></a>
 
