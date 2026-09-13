@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T00:23:15.848Z",
+  "model": "grok",
+  "prompt": "Dazzling light",
+  "promptTranslations": {
+    "en": "Dazzling light"
+  },
+  "summaryTranslations": {
+    "en": "Dazzling light"
+  },
+  "translationVersion": 2,
+  "summary": "Dazzling light",
+  "summaryEn": "Dazzling light",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098886623433769078",
+    "canonicalUrl": "https://x.com/owenxplore/status/2098886623433769078",
+    "author": {
+      "username": "owenxplore",
+      "displayName": "Owen",
+      "profileUrl": "https://x.com/owenxplore"
+    },
+    "publishedAt": "2026-09-12T21:29:01.000Z",
+    "collectedAt": "2026-09-13T00:15:47.006Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nDazzling light https://t.co/2000ZaYRq2",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/owenxplore/status/2098886623433769078",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098886603800301574/img/GCOQnpsLOBcmEhBh.jpg",
+        "analysisUrl": "https://x.com/owenxplore/status/2098886623433769078"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/owenxplore/status/2098886623433769078",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098886603800301574/img/GCOQnpsLOBcmEhBh.jpg",
+  "coverPath": "covers/2098886623433769078.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098886603800301574",
+    "x-post:2098886623433769078"
+  ],
+  "analysis": {
+    "summary": "Dazzling light",
+    "summaryEn": "Dazzling light",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows bursts of dazzling fireworks light matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Dazzling light",
+    "sourceRange": {
+      "start": 22,
+      "end": 36
+    },
+    "translations": {
+      "zh": "耀眼的光芒",
+      "en": "Dazzling light"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
