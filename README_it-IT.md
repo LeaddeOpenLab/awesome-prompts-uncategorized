@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**166** Prompt · Ultima aggiunta: **2026-09-13**
+**167** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2376,13 +2376,13 @@ Traduzione in corso
 
 <a name="prompt-2099147187955675169"></a>
 
-### Traduzione in corso
+### Creazione di un'immagine di confronto sopra/sotto da una foto di viaggio architettonica: foto originale in alto e modellino 3D in miniatura con base a olio materico in basso.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2099147187955675169)
 
 Rendering 3D · Pittura a Olio · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Creazione di un'immagine di confronto sopra/sotto da una foto di viaggio architettonica: foto originale in alto e modellino 3D in miniatura con base a olio materico in basso.
 
 <img src="images/2099147187955675169-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2395,7 +2395,7 @@ Rendering 3D · Pittura a Olio · Architettura / Interni · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma la foto di viaggio di architettura mondiale fornita in un'opera d'arte verticale con confronto sopra/sotto. La metà superiore conserva integralmente la foto reale originale, mantenendo l'identità dell'edificio, la struttura principale, la prospettiva di scatto, le proporzioni compositive, la luce e le caratteristiche ambientali, senza alcun trattamento a illustrazione; separata al centro in modo naturale da una linea orizzontale bianca e pulita. La metà inferiore ricostruisce lo stesso edificio della foto come un raffinato modellino architettonico 3D in miniatura, realistico e dal volume ben definito, preservando fedelmente la sua sagoma iconica, la scansione dei piani, tetti o cupole, colonne, porte e finestre, archi, basamento e caratteristiche dei materiali, mostrando chiaramente spessore, strutture a rilievo, ombre di contatto e la profondità di campo tipica della fotografia macro di modelli. La scala del modello è relativamente compatta, esposta al centro di un ampio spazio negativo su carta bianco sporco. Solo sulla base del modello, sul terreno, sulla vegetazione, sull'acqua, sulle nuvole e sulle ombre ambientali viene aggiunta pittura a olio a forte spessore (impasto) con texture materica e stratificata, facendo sì che l'impasto diventi un materiale ambientale a supporto del modello tridimensionale, senza coprire né sostituire il corpo architettonico principale. L'insieme esprime un'atmosfera calma, sobria ed elegante da galleria d'arte contemporanea. Non trasformare l'architettura in un dipinto a olio piatto, un'illustrazione ordinaria o un cartone animato; non aggiungere persone, animali, veicoli, testi, titoli, sottotitoli, badge di foto originali o IA, loghi, watermark né cornici decorative.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2953,6 +2953,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2099129364260831684"></a>
+
+### Traduzione in corso
+
+Autore：[@GrayNoteLab](https://x.com/GrayNoteLab) · [Post originale](https://x.com/GrayNoteLab/status/2099129364260831684)
+
+Ritratto / Selfie · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099129364260831684-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099109534954356977"></a>
 

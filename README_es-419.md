@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**166** Prompts · Última incorporación: **2026-09-13**
+**167** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2376,13 +2376,13 @@ Traducción en curso
 
 <a name="prompt-2099147187955675169"></a>
 
-### Traducción en curso
+### Crea una imagen comparativa arriba-abajo a partir de una foto de viaje arquitectónica, conservando arriba la original y generando abajo una maqueta 3D con base de óleo al empaste.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2099147187955675169)
 
 Renderizado 3D · Pintura al óleo · Arquitectura / Interiores · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea una imagen comparativa arriba-abajo a partir de una foto de viaje arquitectónica, conservando arriba la original y generando abajo una maqueta 3D con base de óleo al empaste.
 
 <img src="images/2099147187955675169-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2395,7 +2395,7 @@ Renderizado 3D · Pintura al óleo · Arquitectura / Interiores · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Transforma la foto de viajes de arquitectura mundial proporcionada en una obra de arte vertical de comparación superior e inferior. La mitad superior conserva intacta la fotografía real original, manteniendo la identidad del edificio, la estructura principal, el ángulo de disparo, las proporciones de composición, la iluminación y las características ambientales, sin ningún tratamiento de ilustración; separada de forma natural en el centro por una línea horizontal blanca y limpia. La mitad inferior reconstruye el mismo edificio de la foto como una maqueta arquitectónica 3D en miniatura exquisita, realista y con un volumen tangible, preservando con precisión su silueta emblemática, la relación entre pisos, techos o cúpulas, columnas, puertas y ventanas, arcos, basamentos y características de los materiales, mostrando un grosor nítido, estructuras cóncavas y convexas, sombras de contacto y una profundidad de campo propia de la macrofotografía de maquetas. La escala de la maqueta es relativamente pequeña y compacta, expuesta en el centro de un amplio espacio negativo sobre papel blanco roto. Solo en la base de la maqueta, el suelo, la vegetación, el agua, las nubes y las sombras ambientales se añade pintura al óleo con técnica de empaste (impasto) de textura densa y superpuesta, haciendo que el empaste sirva como material ambiental que sostenga el modelo tridimensional, sin cubrir ni reemplazar la estructura principal del edificio. El conjunto transmite una sensación serena, sobria y sofisticada de galería de arte contemporáneo. No conviertas el edificio en una pintura al óleo plana, ilustración convencional o caricatura; no agregues personas, animales, vehículos, texto, títulos, subtítulos, marcas de foto original o de IA, logotipos, marcas de agua ni bordes decorativos.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2953,6 +2953,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2099129364260831684"></a>
+
+### Traducción en curso
+
+Autor：[@GrayNoteLab](https://x.com/GrayNoteLab) · [Publicación original](https://x.com/GrayNoteLab/status/2099129364260831684)
+
+Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099129364260831684-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099109534954356977"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**166** Prompts · Dernier ajout: **2026-09-13**
+**167** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2376,13 +2376,13 @@ Traduction en cours
 
 <a name="prompt-2099147187955675169"></a>
 
-### Traduction en cours
+### Création d'une image comparative haut/bas à partir d'une photo d'architecture de voyage : photo originale en haut et maquette miniature 3D avec socle en empâtement d'huile en bas.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2099147187955675169)
 
 Rendu 3D · Peinture à l'huile · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Création d'une image comparative haut/bas à partir d'une photo d'architecture de voyage : photo originale en haut et maquette miniature 3D avec socle en empâtement d'huile en bas.
 
 <img src="images/2099147187955675169-1.jpg" alt="Image 1" width="480" />
 
@@ -2395,7 +2395,7 @@ Rendu 3D · Peinture à l'huile · Architecture / Intérieur · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Transformez la photo de voyage d'architecture mondiale fournie en une œuvre d'art verticale comparative haut/bas. La moitié supérieure conserve intégralement la photo réelle originale, en préservant l'identité architecturale, la structure principale, l'angle de vue, les proportions de composition, la lumière et les caractéristiques environnementales, sans aucun traitement d'illustration ; le milieu est naturellement séparé par une ligne horizontale blanche et nette. La moitié inférieure reconstruit le même bâtiment que sur la photo sous la forme d'une maquette architecturale miniature 3D raffinée, réaliste et au volume bien défini, en conservant fidèlement sa silhouette emblématique, l'agencement des étages, les toits ou coupoles, les colonnes, portes et fenêtres, arcs, socles et caractéristiques des matériaux, tout en révélant une épaisseur nette, des reliefs concaves et convexes, des ombres de contact et une profondeur de champ propre à la macrophotographie de maquette. L'échelle de la maquette est relativement petite, exposée au centre d'un grand espace négatif sur papier blanc cassé. De la peinture à l'huile en empâtement (impasto) à la texture épaisse et texturée est ajoutée uniquement sur le socle de la maquette, le sol, la végétation, l'eau, les nuages et les ombres environnantes, servant de matériau environnemental pour porter le modèle en trois dimensions sans jamais recouvrir ni remplacer le corps principal du bâtiment. L'ensemble dégage une atmosphère calme, sobre et haut de gamme d'exposition de galerie contemporaine. Ne transformez pas le bâtiment en peinture à l'huile plate, en illustration ordinaire ou en dessin animé ; n'ajoutez aucun personnage, animal, véhicule, texte, titre, sous-titre, badge de photo originale ou d'IA, logo, filigrane ni bordure décorative.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2953,6 +2953,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2099129364260831684"></a>
+
+### Traduction en cours
+
+Auteur：[@GrayNoteLab](https://x.com/GrayNoteLab) · [Publication originale](https://x.com/GrayNoteLab/status/2099129364260831684)
+
+Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099129364260831684-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099109534954356977"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**166** Prompts · Latest addition: **2026-09-13**
+**167** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3625,6 +3625,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099129364260831684"></a>
+
+### Frontal close-up of an Eastern fairy, drawing a full bow with an arrow of light and aiming, expression calm and focused, composition with extreme perspective and tension.
+
+Author：[@GrayNoteLab](https://x.com/GrayNoteLab) · [Source](https://x.com/GrayNoteLab/status/2099129364260831684)
+
+Portrait / Selfie · Published
+
+**Summary:** Frontal close-up of an Eastern fairy, drawing a full bow with an arrow of light and aiming, expression calm and focused, composition with extreme perspective and tension.
+
+<img src="images/2099129364260831684-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+The subject faces the camera head-on, body held steady and upright, shoulder line naturally opened, head straight and slightly leaning forward closer to the camera, forming a close-up frontal portrait composition. The subject is performing a full-draw aiming action, with the bow hand reaching forward, the arm located on the left side of the frame, fingers naturally gripping the bow handle tightly; the other hand pulls the string backward, drawing the bowstring to full tension, the elbow opening backward and close to the shoulder line, forming a complete 'draw-pull-aim' action chain. The arrow remains perfectly horizontal, extending from the left of the frame to the right foreground, horizontally sweeping past below the subject's lips and the lower half of the face, the arrowhead pointing toward the right of the frame, with the arrow shaft remaining steadily parallel to the line of sight. The bow body is situated between the subject and the camera, forming a vertical visual line with distinct foreground perspective, the bowstring remaining taut, with string release forbidden. The subject's shoulders are relaxed yet full of power, chest naturally open, torso held stable, waist untwisted, shoulders not collapsed. The face is almost squarely facing the camera, eyes looking straight ahead at the target through the gap between the bow and arrow, gaze calm, focused, and restrained, with a strong sense of target lock-on; eyebrows naturally relaxed without exaggerated furrowing between the brows, lips gently closed, expression cool and serene, without a smile, without an open mouth. Maintain a sense of steady breathing and poised readiness, as if the bowstring is about to be released the next second. The composition emphasizes the spatial relationship between the subject's face and the bow and arrow: the subject's face is centered in the frame, the eyes serving as the visual focal point, the arrow crossing horizontally through the foreground, and the bow body forming a vertical line, creating a cross-shaped visual composition. The camera is extremely close to the subject, using a slight low angle and close-up perspective, with the subject's face clear and sharp, and the bow and arrow close to the lens producing a noticeable foreground magnification effect. The overall posture remains elegant, stable, possessing the cool, stern power of an Eastern female deity.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099109534954356977"></a>
 

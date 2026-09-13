@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**166** Prompts · Última adição: **2026-09-13**
+**167** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2393,13 +2393,13 @@ Tradução em andamento
 
 <a name="prompt-2099147187955675169"></a>
 
-### Tradução em andamento
+### Crie uma imagem comparativa superior/inferior baseada em foto de viagem de arquitetura: foto original em cima e modelo 3D em miniatura com base em óleo empastado embaixo.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2099147187955675169)
 
 Renderização 3D · Pintura a Óleo · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie uma imagem comparativa superior/inferior baseada em foto de viagem de arquitetura: foto original em cima e modelo 3D em miniatura com base em óleo empastado embaixo.
 
 <img src="images/2099147187955675169-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2412,7 +2412,7 @@ Renderização 3D · Pintura a Óleo · Arquitetura / Interiores · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Transforme a foto de viagem de arquitetura mundial fornecida em uma obra de arte vertical de comparação superior e inferior. A metade superior preserva integralmente a fotografia real original, mantendo a identidade do edifício, a estrutura principal, o ângulo da foto, as proporções da composição, a iluminação e as características ambientais, sem transformá-la em ilustração; separada naturalmente ao meio por uma linha horizontal branca e limpa. A metade inferior reconstrói o mesmo edifício da foto como uma maquete arquitetônica 3D em miniatura requintada, realista e com volume bem definido, preservando com precisão sua silhueta icônica, a disposição dos andares, telhados ou cúpulas, colunas, portas e janelas, arcos, plintos e texturas dos materiais, exibindo espessura nítida, estruturas côncavas e convexas, sombras de contato e a profundidade de campo típica da macrofotografia de maquetes. A escala do modelo é relativamente pequena, exibida centralizada em um amplo espaço negativo de papel branco-sujo. Apenas na base da maquete, no solo, na vegetação, na água, nas nuvens e nas sombras ambientais é adicionada tinta a óleo com textura espessa de empasto (impasto), fazendo com que a tinta em relevo sirva de material de suporte para o modelo tridimensional, sem cobrir ou substituir a estrutura principal do edifício. O resultado geral transmite a sensação calma, contida e sofisticada de uma galeria de arte contemporânea. Não transforme o edifício em pintura a óleo plana, ilustração comum ou desenho animado; não adicione pessoas, animais, veículos, textos, títulos, legendas, selos de foto original ou de IA, logotipos, marcas d'água ou bordas decorativas.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2970,6 +2970,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099129364260831684"></a>
+
+### Tradução em andamento
+
+Autor：[@GrayNoteLab](https://x.com/GrayNoteLab) · [Publicação original](https://x.com/GrayNoteLab/status/2099129364260831684)
+
+Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099129364260831684-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099109534954356977"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**166** Prompt · Bổ sung mới nhất: **2026-09-13**
+**167** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2411,13 +2411,13 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 
 <a name="prompt-2099147187955675169"></a>
 
-### Đang dịch
+### Tạo hình so sánh trên - dưới dựa trên ảnh du lịch kiến trúc, phía trên giữ ảnh gốc, phía dưới tạo mô hình 3D thu nhỏ với phần đế sơn dầu đắp nổi.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2099147187955675169)
 
 Kết xuất 3D · Tranh Sơn Dầu · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo hình so sánh trên - dưới dựa trên ảnh du lịch kiến trúc, phía trên giữ ảnh gốc, phía dưới tạo mô hình 3D thu nhỏ với phần đế sơn dầu đắp nổi.
 
 <img src="images/2099147187955675169-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2430,7 +2430,7 @@ Kết xuất 3D · Tranh Sơn Dầu · Kiến trúc / Nội thất · Đã xuấ
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chuyển đổi bức ảnh du lịch kiến trúc thế giới đầu vào thành một tác phẩm nghệ thuật so sánh trên - dưới theo chiều dọc. Nửa trên giữ lại trọn vẹn bức ảnh chụp thực tế nguyên bản, duy trì bản sắc kiến trúc, kết cấu chính, góc chụp, tỷ lệ bố cục, ánh sáng và đặc điểm môi trường, không xử lý theo phong cách minh họa; ở giữa được phân tách tự nhiên bằng một đường ngang màu trắng tinh tế. Nửa dưới tái dựng công trình kiến trúc tương tự trong ảnh thành một mô hình kiến trúc 3D thu nhỏ tinh xảo, chân thực và có khối tích rõ ràng, giữ lại chính xác đường nét mang tính biểu tượng, mối tương quan giữa các tầng, mái nhà hoặc mái vòm, hàng cột, cửa sổ và cửa ra vào, vòm cuốn, bệ đỡ cùng các đặc trưng chất liệu, thể hiện rõ độ dày, cấu trúc lồi lõm, bóng đổ tiếp xúc và độ sâu trường ảnh như chụp macro mô hình. Mô hình có tỷ lệ tương đối nhỏ gọn, đặt ngay ngắn ở trung tâm khoảng trống lớn của mặt giấy màu trắng ngà. Chỉ thêm chất liệu sơn dầu đắp nổi (impasto) với vân kết cấu nhiều lớp tại phần đế mô hình, mặt đất, thảm thực vật, mặt nước, mây và bóng râm môi trường, biến lớp sơn dày thành vật liệu môi trường nâng đỡ mô hình ba chiều mà không được phủ lên hay thay thế khối kiến trúc chính. Tổng thể toát lên vẻ tĩnh lặng, tiết chế và cao cấp như trong phòng trưng bày nghệ thuật đương đại. Không biến kiến trúc thành tranh sơn dầu phẳng, tranh minh họa thông thường hay phong cách hoạt hình; không thêm người, động vật, xe cộ, chữ viết, tiêu đề, phụ đề, biểu tượng góc ảnh gốc hoặc ảnh AI, logo, watermark và viền trang trí.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2998,6 +2998,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2099129364260831684"></a>
+
+### Đang dịch
+
+Tác giả：[@GrayNoteLab](https://x.com/GrayNoteLab) · [Bài gốc](https://x.com/GrayNoteLab/status/2099129364260831684)
+
+Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099129364260831684-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099109534954356977"></a>
 

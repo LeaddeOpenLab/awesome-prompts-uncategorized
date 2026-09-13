@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**166** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**167** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2376,13 +2376,13 @@ Plakat / Flyer · Isometrisch · Veröffentlicht
 
 <a name="prompt-2099147187955675169"></a>
 
-### Übersetzung läuft
+### Erstellung eines oberen/unteren Vergleichsbildes basierend auf einem Architektur-Reisefoto: oben bleibt das Originalfoto erhalten, unten entsteht ein 3D-Miniaturmodell mit Impasto-Ölfarben-Sockel.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2099147187955675169)
 
 3D-Rendering · Ölgemälde · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstellung eines oberen/unteren Vergleichsbildes basierend auf einem Architektur-Reisefoto: oben bleibt das Originalfoto erhalten, unten entsteht ein 3D-Miniaturmodell mit Impasto-Ölfarben-Sockel.
 
 <img src="images/2099147187955675169-1.jpg" alt="Bild 1" width="480" />
 
@@ -2395,7 +2395,7 @@ Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle aus dem eingegebenen Architektur-Reisefoto ein vertikales Vorher-Nachher-Kunstwerk mit oberer und unterer Hälfte. Die obere Hälfte behält das originale reale Foto vollständig bei, einschließlich der architektonischen Identität, Hauptstruktur, Kameraperspektive, Bildkomposition, Lichtverhältnisse und Umgebungsmerkmale, ohne jegliche illustratorische Verfremdung; in der Mitte sorgt eine saubere, weiße horizontale Linie für eine natürliche Trennung. Die untere Hälfte rekonstruiert dasselbe Gebäude aus dem Foto als filigranes, realistisches Miniatur-3D-Architekturmodell mit klarem Volumen. Die charakteristische Silhouette, Geschossbeziehungen, Dächer oder Kuppeln, Säulen, Fenster, Türen, Rundbögen, Sockel und Materialbeschaffenheiten werden präzise bewahrt und zeigen deutliche Tiefen, Reliefstrukturen, Kontaktschatten sowie die Schärfentiefe einer Makro-Modellfotografie. Das Modell ist verhältnismäßig kompakt und mittig vor einem großzügigen, altweißen Papier-Negativraum platziert. Nur an der Modellbasis, am Boden, an Vegetation, Wasserflächen, Wolken und Umgebungsschatten wird dick aufgetragene Ölfarbe mit plastischer Impasto-Textur hinzugefügt, sodass der Farbauftrag als stützendes Umgebungsmaterial für das dreidimensionale Modell fungiert, ohne das Hauptgebäude zu überdecken oder zu ersetzen. Das Gesamtbild strahlt eine ruhige, zurückhaltende und edle zeitgenössische Galerie-Ästhetik aus. Das Gebäude darf nicht als flaches Ölgemälde, einfache Illustration oder Cartoon dargestellt werden; füge keine Personen, Tiere, Fahrzeuge, Texte, Titel, Bildunterschriften, Original- oder KI-Badges, Logos, Wasserzeichen oder Zierränder hinzu.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2953,6 +2953,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2099129364260831684"></a>
+
+### Übersetzung läuft
+
+Autor：[@GrayNoteLab](https://x.com/GrayNoteLab) · [Originalbeitrag](https://x.com/GrayNoteLab/status/2099129364260831684)
+
+Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099129364260831684-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099109534954356977"></a>
 

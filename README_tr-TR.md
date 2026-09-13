@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**166** Prompt · Son eklenen: **2026-09-13**
+**167** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2393,13 +2393,13 @@ Poster / El İlanı · İzometrik · Yayımlandı
 
 <a name="prompt-2099147187955675169"></a>
 
-### Çeviri sürüyor
+### Mimari seyahat fotoğrafına dayalı alt-üst karşılaştırma görseli oluşturma: üstte orijinal fotoğraf, altta kalın yağlı boya kaideli 3D minyatür model.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2099147187955675169)
 
 3D Modelleme · Yağlı Boya Tablo · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Mimari seyahat fotoğrafına dayalı alt-üst karşılaştırma görseli oluşturma: üstte orijinal fotoğraf, altta kalın yağlı boya kaideli 3D minyatür model.
 
 <img src="images/2099147187955675169-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2412,7 +2412,7 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 **İstem**
 
 ```text
-Çeviri sürüyor
+Girdi olarak verilen dünya mimarisi seyahat fotoğrafını dikey formatta bir alt-üst karşılaştırma sanat görseline dönüştürün. Üst yarı, orijinal gerçek fotoğrafı bütünüyle korumalı; yapının kimliğini, ana strüktürünü, çekim açısını, kompozisyon oranlarını, ışığı ve çevresel özellikleri illüstrasyona dönüştürmeden muhafaza etmelidir. Orta kısım, temiz ve beyaz bir yatay çizgiyle doğal bir şekilde ayrılmalıdır. Alt yarı, fotoğraftaki aynı binayı zarif, gerçekçi ve belirgin hacme sahip minyatür bir 3D mimari model olarak yeniden inşa etmelidir; ikonik silüetini, kat ilişkilerini, çatı veya kubbelerini, sütunlarını, kapı ve pencerelerini, kemerlerini, kaidesini ve malzeme dokularını aslına sadık kalarak korumalı; net kalınlık, girintili-çıkıntılı yapılar, temas gölgeleri ve makro model fotoğrafçılığı alan derinliği sergilemelidir. Model nispeten küçük ölçekli olup, kırık beyaz kağıdın geniş boşluğunun ortasında sergilenmelidir. Yalnızca modelin tabanına, zemine, bitki örtüsüne, su yüzeyine, bulutlara ve çevresel gölgelere katmanlı dokuya sahip kalın yağlı boya (impasto) uygulanmalı; bu kalın boya üç boyutlu modeli taşıyan bir çevre malzemesi görevi görmeli, asla ana mimari yapıyı örtmemeli veya onun yerine geçmemelidir. Genel olarak sakin, ölçülü ve çağdaş galeri sergisi hissi veren lüks bir atmosfer sunmalıdır. Mimariyi düz bir yağlı boya tabloya, sıradan bir illüstrasyona veya çizgi filme dönüştürmeyin; insan, hayvan, araç, metin, başlık, altyazı, orijinal veya yapay zeka rozeti, logo, filigran ve dekoratif çerçeve eklemeyin.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2970,6 +2970,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2099129364260831684"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@GrayNoteLab](https://x.com/GrayNoteLab) · [Orijinal gönderi](https://x.com/GrayNoteLab/status/2099129364260831684)
+
+Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099129364260831684-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099109534954356977"></a>
 
