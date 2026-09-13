@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**148** Prompts · Dernier ajout: **2026-09-13**
+**149** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1174,6 +1174,44 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2098987067288244447"></a>
+
+### Traduction en cours
+
+Auteur：[@Soranlan](https://x.com/Soranlan) · [Publication originale](https://x.com/Soranlan/status/2098987067288244447)
+
+Image cinématographique / Photogramme de film · Rétro / Vintage · Portrait / Selfie · Personnage · Publié
+
+Publication originale：[@Soranlan](https://x.com/Soranlan) · [Publication originale](https://x.com/Soranlan/status/2098975054013047064)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098987067288244447-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="Image 8" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 

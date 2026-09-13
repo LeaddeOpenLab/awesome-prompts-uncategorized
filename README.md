@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**148** Prompts · Latest addition: **2026-09-13**
+**149** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1628,6 +1628,44 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2098987067288244447"></a>
+
+### Cinematic 35mm retro Chinese wuxia portrait of an East Asian woman in a misty night bamboo grove with soft rim lighting.
+
+Author：[@Soranlan](https://x.com/Soranlan) · [Source](https://x.com/Soranlan/status/2098987067288244447)
+
+Cinematic / Film Still · Retro / Vintage · Portrait / Selfie · Character · Published
+
+Source：[@Soranlan](https://x.com/Soranlan) · [Source](https://x.com/Soranlan/status/2098975054013047064)
+
+**Summary:** Cinematic 35mm retro Chinese wuxia portrait of an East Asian woman in a misty night bamboo grove with soft rim lighting.
+
+<img src="images/2098987067288244447-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="Image 8" width="480" />
+
+**Prompt**
+
+```text
+Cinematic 35mm film still, retro Chinese wuxia aesthetic, dreamlike soft focus live action portrait of an adult East Asian wuxia woman in a misty night bamboo grove. Medium close shot, three quarter profile turning toward camera, calm melancholic gaze, oval face, willow brows, almond eyes, delicate makeup, pale luminous skin, long black hair blown sideways, classical half up bun with loose strands, delicate silver drop earrings. Flowing white silk hanfu with pale blue underlayers and long soft sleeves, one hand gracefully extended catching a falling bamboo leaf. Drifting pink petals and bamboo leaves, layered foreground foliage blur, faint mist, cool blue green moonlit atmosphere, soft warm amber rim light on hair and cheek. Shallow depth of field, subtle halation, visible film grain, analog cinematic mood. "Soran" woven into sleeve border embroidery near wrist, embedded in silk weave, hair ornament veining, and earring fine thread patterns. --no anime, game concept art, CGI, plastic skin, hard flash, studio lighting, sharp digital crispness, HDR, oversaturated colors, aggressive expression, direct harsh stare, modern clothing, modern accessories, distorted hands, extra fingers, missing fingers, bad anatomy, external watermark, sticker-like logo, detached letters, captions, subtitles --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 

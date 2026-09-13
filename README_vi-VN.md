@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**148** Prompt · Bổ sung mới nhất: **2026-09-13**
+**149** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1210,6 +1210,44 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2098987067288244447"></a>
+
+### Đang dịch
+
+Tác giả：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/Soranlan/status/2098987067288244447)
+
+Điện ảnh / Ảnh tĩnh từ phim · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/Soranlan/status/2098975054013047064)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098987067288244447-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="Hình ảnh 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="Hình ảnh 8" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 

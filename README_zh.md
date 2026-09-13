@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**148** 条内容 · 最新收录: **2026-09-13**
+**149** 条内容 · 最新收录: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1205,6 +1205,44 @@ CGI毛发、
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2098987067288244447"></a>
+
+### 翻译中
+
+作者：[@Soranlan](https://x.com/Soranlan) · [查看 X 原帖](https://x.com/Soranlan/status/2098987067288244447)
+
+电影 / 电影剧照 · 复古 / 怀旧 · 人像 / 自拍 · 角色 · 已推流
+
+查看 X 原帖：[@Soranlan](https://x.com/Soranlan) · [查看 X 原帖](https://x.com/Soranlan/status/2098975054013047064)
+
+**概括:** 翻译中
+
+<img src="images/2098987067288244447-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="图片 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="图片 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="图片 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="图片 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="图片 8" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**148** Prompt · Son eklenen: **2026-09-13**
+**149** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1188,6 +1188,44 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2098987067288244447"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2098987067288244447)
+
+Sinematik / Film Karesi · Retro / Vintage · Portre / Selfie · Karakter · Yayımlandı
+
+Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](https://x.com/Soranlan/status/2098975054013047064)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098987067288244447-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="Görsel 8" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 

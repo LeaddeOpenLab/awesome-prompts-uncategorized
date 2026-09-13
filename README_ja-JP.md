@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**148** 件 · 最新の追加: **2026-09-13**
+**149** 件 · 最新の追加: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1204,6 +1204,44 @@ CGI毛皮、
 <a name="category-cinematic-film-still"></a>
 
 ## シネマティック / フィルムスチル
+
+<a name="prompt-2098987067288244447"></a>
+
+### 翻訳中
+
+作者：[@Soranlan](https://x.com/Soranlan) · [元の投稿](https://x.com/Soranlan/status/2098987067288244447)
+
+シネマティック / フィルムスチル · レトロ / ヴィンテージ · ポートレート / セルフィー · キャラクター · 配信済み
+
+元の投稿：[@Soranlan](https://x.com/Soranlan) · [元の投稿](https://x.com/Soranlan/status/2098975054013047064)
+
+**概要:** 翻訳中
+
+<img src="images/2098987067288244447-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="画像 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="画像 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="画像 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="画像 8" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 

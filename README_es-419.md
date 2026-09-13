@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**148** Prompts · Última incorporación: **2026-09-13**
+**149** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1174,6 +1174,44 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma
+
+<a name="prompt-2098987067288244447"></a>
+
+### Traducción en curso
+
+Autor：[@Soranlan](https://x.com/Soranlan) · [Publicación original](https://x.com/Soranlan/status/2098987067288244447)
+
+Cine / Fotograma · Retro / Vintage · Retrato / Selfie · Personaje · Publicado
+
+Publicación original：[@Soranlan](https://x.com/Soranlan) · [Publicación original](https://x.com/Soranlan/status/2098975054013047064)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098987067288244447-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="Imagen 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="Imagen 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="Imagen 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="Imagen 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="Imagen 8" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 

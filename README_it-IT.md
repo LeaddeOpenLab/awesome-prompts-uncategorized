@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**148** Prompt · Ultima aggiunta: **2026-09-13**
+**149** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1174,6 +1174,44 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2098987067288244447"></a>
+
+### Traduzione in corso
+
+Autore：[@Soranlan](https://x.com/Soranlan) · [Post originale](https://x.com/Soranlan/status/2098987067288244447)
+
+Fermo immagine cinematografico / Still fotografico · Retro / Vintage · Ritratto / Selfie · Personaggio · Pubblicato
+
+Post originale：[@Soranlan](https://x.com/Soranlan) · [Post originale](https://x.com/Soranlan/status/2098975054013047064)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098987067288244447-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 

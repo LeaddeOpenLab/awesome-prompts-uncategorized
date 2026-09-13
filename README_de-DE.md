@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**148** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**149** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1174,6 +1174,44 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2098987067288244447"></a>
+
+### Übersetzung läuft
+
+Autor：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2098987067288244447)
+
+Kinematisch / Filmstill · Retro / Vintage · Porträt / Selfie · Charakter · Veröffentlicht
+
+Originalbeitrag：[@Soranlan](https://x.com/Soranlan) · [Originalbeitrag](https://x.com/Soranlan/status/2098975054013047064)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098987067288244447-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098987067288244447-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098987067288244447-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098987067288244447-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2098987067288244447-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2098987067288244447-6.jpg" alt="Bild 6" width="480" />
+
+<img src="images/2098987067288244447-7.jpg" alt="Bild 7" width="480" />
+
+<img src="images/2098987067288244447-8.jpg" alt="Bild 8" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098806415666077809"></a>
 
