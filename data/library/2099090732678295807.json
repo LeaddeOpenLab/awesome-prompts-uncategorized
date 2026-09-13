@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T14:12:06.018Z",
+  "model": "unknown-image",
+  "prompt": "A [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography",
+  "promptTranslations": {
+    "en": "A [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography"
+  },
+  "summaryTranslations": {
+    "en": "Extreme low-angle studio fashion model portrait prompt template, emphasizing elongated silhouettes and minimalist reflective material textures."
+  },
+  "translationVersion": 2,
+  "summary": "极低角度仰拍棚拍时尚模特肖像提示词模板，强调拉长轮廓与极简反光材质质感。",
+  "summaryEn": "Extreme low-angle studio fashion portrait template with elongated silhouettes and sleek styling.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099090732678295807",
+    "canonicalUrl": "https://x.com/azed_ai/status/2099090732678295807",
+    "author": {
+      "username": "azed_ai",
+      "displayName": "Amira Zairi",
+      "profileUrl": "https://x.com/azed_ai"
+    },
+    "publishedAt": "2026-09-13T11:00:04.000Z",
+    "collectedAt": "2026-09-13T12:39:48.421Z",
+    "language": "en",
+    "originalText": "Prompt share: Ground-Level Fashion Hero\n\n💬 Prompt:\nA [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography\n\nTry it and share yours ✨",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSF343wakAAu_XV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSF343wakAAu_XV.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSF35FjbQAAu9oN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSF35FjbQAAu9oN.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSF35RdbcAAe9nN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSF35RdbcAAe9nN.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSF35cnboAACG7W.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSF35cnboAACG7W.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 1,
+      "replyCount": 17,
+      "quoteCount": 0,
+      "viewCount": 1617
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/azed_ai/status/2099090732678295807",
+  "coverUrl": "https://pbs.twimg.com/media/HSF343wakAAu_XV.jpg",
+  "coverPath": "images/2099090732678295807-1.jpg",
+  "imagePaths": [
+    "images/2099090732678295807-1.jpg",
+    "images/2099090732678295807-2.jpg",
+    "images/2099090732678295807-3.jpg",
+    "images/2099090732678295807-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSF343wakAAu_XV",
+    "x-image:/media/HSF35FjbQAAu9oN",
+    "x-image:/media/HSF35RdbcAAe9nN",
+    "x-image:/media/HSF35cnboAACG7W",
+    "x-post:2099090732678295807"
+  ],
+  "analysis": {
+    "summary": "极低角度仰拍棚拍时尚模特肖像提示词模板，强调拉长轮廓与极简反光材质质感。",
+    "summaryEn": "Extreme low-angle studio fashion portrait template with elongated silhouettes and sleek styling.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images clearly demonstrate the ground-level extreme low-angle upward tilt, elongated body proportions, studio void background, and crisp flash lighting specified."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography",
+    "sourceRange": {
+      "start": 51,
+      "end": 540
+    },
+    "translations": {
+      "zh": "从极低地面角度拍摄的 [主体]，相机贴近地面向上仰拍，独自伫立在灰白色纯色影棚中，姿态自信，身形修长挺拔，造型夸张且比例风格化，时尚装束，反光材质纹理，醒目配饰，柔和影棚光线，单盏雷达罩闪光灯投射出锐利阴影，柯达 Portra 胶片微弱颗粒感，抓拍感时尚大片能量，极简构图，细节锐利，高级影棚摄影",
+      "en": "A [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Prompt template for extreme low-angle fashion editorial studio photography.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
