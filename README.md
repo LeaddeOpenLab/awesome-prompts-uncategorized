@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**136** Prompts · Latest addition: **2026-09-13**
+**137** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2888,6 +2888,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098908993825497578"></a>
+
+### A grey and white cat sitting on a windowsill.
+
+Author：[@RassCamara11531](https://x.com/RassCamara11531) · [Source](https://x.com/RassCamara11531/status/2098908993825497578)
+
+Animal / Creature · Published
+
+**Summary:** A grey and white cat sitting on a windowsill.
+
+<img src="images/2098908993825497578-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+The image of the cat
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098812771970478304"></a>
 
