@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T14:17:41.336Z",
+  "model": "unknown-image",
+  "prompt": "A high-end commercial fashion advertisement photograph featuring a young woman with dark, wavy hair posing dynamically against a dark, textured concrete wall. She is dressed in a casual black oversized hoodie and black cargo joggers, paired with stylish black-and-white leather sneakers that feature prominent branding. Shot from a low angle to enhance the bold, confident posture, one foot is planted firmly forward while the other is raised, capturing a sense of urban movement and streetwear edge. Dramatic, directional lighting casts deep shadows and highlights the texture of her outfit and the rugged wall. In the upper right corner, clean white typography displays the brand name \"EMA'S\" alongside the tagline \"STEP INTO YOUR MOMENT.\"",
+  "promptTranslations": {
+    "en": "A high-end commercial fashion advertisement photograph featuring a young woman with dark, wavy hair posing dynamically against a dark, textured concrete wall. She is dressed in a casual black oversized hoodie and black cargo joggers, paired with stylish black-and-white leather sneakers that feature prominent branding. Shot from a low angle to enhance the bold, confident posture, one foot is planted firmly forward while the other is raised, capturing a sense of urban movement and streetwear edge. Dramatic, directional lighting casts deep shadows and highlights the texture of her outfit and the rugged wall. In the upper right corner, clean white typography displays the brand name \"EMA'S\" alongside the tagline \"STEP INTO YOUR MOMENT.\""
+  },
+  "summaryTranslations": {
+    "en": "Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall."
+  },
+  "translationVersion": 2,
+  "summary": "Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall.",
+  "summaryEn": "Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099106797655048428",
+    "canonicalUrl": "https://x.com/Minahil42298354/status/2099106797655048428",
+    "author": {
+      "username": "Minahil42298354",
+      "displayName": "Minahil",
+      "profileUrl": "https://x.com/Minahil42298354"
+    },
+    "publishedAt": "2026-09-13T12:03:54.000Z",
+    "collectedAt": "2026-09-13T12:39:48.421Z",
+    "language": "en",
+    "originalText": "Sleek streetwear for the modern trendsetter.\n\nPrompt:         A high-end commercial fashion advertisement photograph featuring a young woman with dark, wavy hair posing dynamically against a dark, textured concrete wall. She is dressed in a casual black oversized hoodie and black cargo joggers, paired with stylish black-and-white leather sneakers that feature prominent branding. Shot from a low angle to enhance the bold, confident posture, one foot is planted firmly forward while the other is raised, capturing a sense of urban movement and streetwear edge. Dramatic, directional lighting casts deep shadows and highlights the texture of her outfit and the rugged wall. In the upper right corner, clean white typography displays the brand name \"EMA'S\" alongside the tagline \"STEP INTO YOUR MOMENT.\"",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSGGf1bacAACkH1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSGGf1bacAACkH1.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 30,
+      "repostCount": 2,
+      "replyCount": 31,
+      "quoteCount": 0,
+      "viewCount": 655
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Minahil42298354/status/2099106797655048428",
+  "coverUrl": "https://pbs.twimg.com/media/HSGGf1bacAACkH1.jpg",
+  "coverPath": "images/2099106797655048428-1.jpg",
+  "imagePaths": [
+    "images/2099106797655048428-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSGGf1bacAACkH1",
+    "x-post:2099106797655048428"
+  ],
+  "analysis": {
+    "summary": "Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall.",
+    "summaryEn": "Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image matches the prompt: woman in black hoodie, cargo joggers, black-and-white sneakers, low-angle concrete background, and top-right typography."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A high-end commercial fashion advertisement photograph featuring a young woman with dark, wavy hair posing dynamically against a dark, textured concrete wall. She is dressed in a casual black oversized hoodie and black cargo joggers, paired with stylish black-and-white leather sneakers that feature prominent branding. Shot from a low angle to enhance the bold, confident posture, one foot is planted firmly forward while the other is raised, capturing a sense of urban movement and streetwear edge. Dramatic, directional lighting casts deep shadows and highlights the texture of her outfit and the rugged wall. In the upper right corner, clean white typography displays the brand name \"EMA'S\" alongside the tagline \"STEP INTO YOUR MOMENT.\"",
+    "sourceRange": {
+      "start": 62,
+      "end": 803
+    },
+    "translations": {
+      "zh": "高端商业时尚广告摄影，一位深色卷发年轻女性在暗色质感混凝土墙前动态摆姿。她身着休闲黑色宽大连帽衫和黑色工装慢跑裤，搭配带醒目标识的黑白皮质运动鞋。采用低角度拍摄突显自信姿态，一脚稳踏向前另一脚抬起，展露街头律动感。戏剧性定向光投射深影并凸显服饰与粗糙墙面质感。右上角干净白色文字显示品牌名“EMA'S”与标语“STEP INTO YOUR MOMENT”。",
+      "en": "A high-end commercial fashion advertisement photograph featuring a young woman with dark, wavy hair posing dynamically against a dark, textured concrete wall. She is dressed in a casual black oversized hoodie and black cargo joggers, paired with stylish black-and-white leather sneakers that feature prominent branding. Shot from a low angle to enhance the bold, confident posture, one foot is planted firmly forward while the other is raised, capturing a sense of urban movement and streetwear edge. Dramatic, directional lighting casts deep shadows and highlights the texture of her outfit and the rugged wall. In the upper right corner, clean white typography displays the brand name \"EMA'S\" alongside the tagline \"STEP INTO YOUR MOMENT.\""
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion advertisement photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
