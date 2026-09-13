@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**141** Prompt · Son eklenen: **2026-09-13**
+**142** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2571,6 +2571,28 @@ Fiziksel olarak alanda bulunan tek bir kameraman tarafından tüketici tipi bir 
 
 ## Minimalizm
 
+<a name="prompt-2098878777556410480"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@SameChair](https://x.com/SameChair) · [Orijinal gönderi](https://x.com/SameChair/status/2098878777556410480)
+
+Minimalizm · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098878777556410480-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2097872057157783561"></a>
 
 ### Çeviri sürüyor
@@ -2623,20 +2645,20 @@ Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2098908993825497578"></a>
 
-### Çeviri sürüyor
+### Pencere kenarında oturan gri ve beyaz bir kedi.
 
 Yazar：[@RassCamara11531](https://x.com/RassCamara11531) · [Orijinal gönderi](https://x.com/RassCamara11531/status/2098908993825497578)
 
 Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pencere kenarında oturan gri ve beyaz bir kedi.
 
 <img src="images/2098908993825497578-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kedinin görüntüsü
 ```
 
 [↑ Kategorilere dön](#catalog)

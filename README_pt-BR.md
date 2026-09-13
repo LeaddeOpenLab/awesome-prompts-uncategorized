@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**141** Prompts · Última adição: **2026-09-13**
+**142** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2571,6 +2571,28 @@ Filmagem de documentário de televisão ultrarrealista de 15 segundos do início
 
 ## Minimalismo
 
+<a name="prompt-2098878777556410480"></a>
+
+### Tradução em andamento
+
+Autor：[@SameChair](https://x.com/SameChair) · [Publicação original](https://x.com/SameChair/status/2098878777556410480)
+
+Minimalismo · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098878777556410480-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097872057157783561"></a>
 
 ### Tradução em andamento
@@ -2623,20 +2645,20 @@ Tradução em andamento
 
 <a name="prompt-2098908993825497578"></a>
 
-### Tradução em andamento
+### Um gato cinza e branco sentado no parapeito de uma janela.
 
 Autor：[@RassCamara11531](https://x.com/RassCamara11531) · [Publicação original](https://x.com/RassCamara11531/status/2098908993825497578)
 
 Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um gato cinza e branco sentado no parapeito de uma janela.
 
 <img src="images/2098908993825497578-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+A imagem do gato
 ```
 
 [↑ Voltar às categorias](#catalog)

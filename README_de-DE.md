@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**141** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**142** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2554,6 +2554,28 @@ Cyberpunk / Sci-Fi · Veröffentlicht
 
 ## Minimalismus
 
+<a name="prompt-2098878777556410480"></a>
+
+### Übersetzung läuft
+
+Autor：[@SameChair](https://x.com/SameChair) · [Originalbeitrag](https://x.com/SameChair/status/2098878777556410480)
+
+Minimalismus · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098878777556410480-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2097872057157783561"></a>
 
 ### Übersetzung läuft
@@ -2606,20 +2628,20 @@ Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2098908993825497578"></a>
 
-### Übersetzung läuft
+### Eine grau-weiße Katze, die auf einem Fensterbrett sitzt.
 
 Autor：[@RassCamara11531](https://x.com/RassCamara11531) · [Originalbeitrag](https://x.com/RassCamara11531/status/2098908993825497578)
 
 Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine grau-weiße Katze, die auf einem Fensterbrett sitzt.
 
 <img src="images/2098908993825497578-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Das Bild der Katze
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

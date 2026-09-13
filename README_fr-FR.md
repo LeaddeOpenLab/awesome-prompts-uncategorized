@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**141** Prompts · Dernier ajout: **2026-09-13**
+**142** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2554,6 +2554,28 @@ Séquence documentaire télévisée ultra-réaliste de 15 secondes du début des
 
 ## Minimalisme
 
+<a name="prompt-2098878777556410480"></a>
+
+### Traduction en cours
+
+Auteur：[@SameChair](https://x.com/SameChair) · [Publication originale](https://x.com/SameChair/status/2098878777556410480)
+
+Minimalisme · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098878777556410480-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2097872057157783561"></a>
 
 ### Traduction en cours
@@ -2606,20 +2628,20 @@ Traduction en cours
 
 <a name="prompt-2098908993825497578"></a>
 
-### Traduction en cours
+### Un chat gris et blanc assis sur le rebord d'une fenêtre.
 
 Auteur：[@RassCamara11531](https://x.com/RassCamara11531) · [Publication originale](https://x.com/RassCamara11531/status/2098908993825497578)
 
 Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un chat gris et blanc assis sur le rebord d'une fenêtre.
 
 <img src="images/2098908993825497578-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+L’image du chat
 ```
 
 [↑ Retour aux catégories](#catalog)

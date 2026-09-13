@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**141** Prompts · Latest addition: **2026-09-13**
+**142** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3010,6 +3010,28 @@ Cyberpunk / Sci-Fi · Published
 <a name="category-minimalism"></a>
 
 ## Minimalism
+
+<a name="prompt-2098878777556410480"></a>
+
+### Conceptual minimalism: A single wooden chair in an empty white room.
+
+Author：[@SameChair](https://x.com/SameChair) · [Source](https://x.com/SameChair/status/2098878777556410480)
+
+Minimalism · Published
+
+**Summary:** Conceptual minimalism: A single wooden chair in an empty white room.
+
+<img src="images/2098878777556410480-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Conceptual minimalism: A single wooden chair in an empty white room.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2097872057157783561"></a>
 

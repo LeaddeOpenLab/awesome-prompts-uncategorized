@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**141** Prompts · Última incorporación: **2026-09-13**
+**142** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2554,6 +2554,28 @@ Material de documental de televisión de principios de los años 2000, ultrarrea
 
 ## Minimalismo
 
+<a name="prompt-2098878777556410480"></a>
+
+### Traducción en curso
+
+Autor：[@SameChair](https://x.com/SameChair) · [Publicación original](https://x.com/SameChair/status/2098878777556410480)
+
+Minimalismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098878777556410480-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2097872057157783561"></a>
 
 ### Traducción en curso
@@ -2606,20 +2628,20 @@ Traducción en curso
 
 <a name="prompt-2098908993825497578"></a>
 
-### Traducción en curso
+### Un gato gris y blanco sentado en el alféizar de una ventana.
 
 Autor：[@RassCamara11531](https://x.com/RassCamara11531) · [Publicación original](https://x.com/RassCamara11531/status/2098908993825497578)
 
 Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un gato gris y blanco sentado en el alféizar de una ventana.
 
 <img src="images/2098908993825497578-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+La imagen del gato
 ```
 
 [↑ Volver a categorías](#catalog)

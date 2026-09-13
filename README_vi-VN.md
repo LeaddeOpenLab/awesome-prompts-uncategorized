@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**141** Prompt · Bổ sung mới nhất: **2026-09-13**
+**142** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2599,6 +2599,28 @@ LIÊN TỤC / CÁC YẾU TỐ PHỦ ĐỊNH: Chỉ có một phóng viên, một
 
 ## Chủ nghĩa tối giản
 
+<a name="prompt-2098878777556410480"></a>
+
+### Đang dịch
+
+Tác giả：[@SameChair](https://x.com/SameChair) · [Bài gốc](https://x.com/SameChair/status/2098878777556410480)
+
+Chủ nghĩa tối giản · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098878777556410480-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2097872057157783561"></a>
 
 ### Đang dịch
@@ -2651,20 +2673,20 @@ Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2098908993825497578"></a>
 
-### Đang dịch
+### Một con mèo màu xám và trắng đang ngồi trên bậu cửa sổ.
 
 Tác giả：[@RassCamara11531](https://x.com/RassCamara11531) · [Bài gốc](https://x.com/RassCamara11531/status/2098908993825497578)
 
 Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một con mèo màu xám và trắng đang ngồi trên bậu cửa sổ.
 
 <img src="images/2098908993825497578-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hình ảnh con mèo
 ```
 
 [↑ Về danh mục](#catalog)

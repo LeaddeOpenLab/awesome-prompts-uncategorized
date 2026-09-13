@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**141** Prompt · Ultima aggiunta: **2026-09-13**
+**142** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2554,6 +2554,28 @@ Filmato documentaristico televisivo ultra-realistico di 15 secondi dei primi ann
 
 ## Minimalismo
 
+<a name="prompt-2098878777556410480"></a>
+
+### Traduzione in corso
+
+Autore：[@SameChair](https://x.com/SameChair) · [Post originale](https://x.com/SameChair/status/2098878777556410480)
+
+Minimalismo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098878777556410480-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097872057157783561"></a>
 
 ### Traduzione in corso
@@ -2606,20 +2628,20 @@ Traduzione in corso
 
 <a name="prompt-2098908993825497578"></a>
 
-### Traduzione in corso
+### Un gatto bianco e grigio seduto sul davanzale di una finestra.
 
 Autore：[@RassCamara11531](https://x.com/RassCamara11531) · [Post originale](https://x.com/RassCamara11531/status/2098908993825497578)
 
 Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un gatto bianco e grigio seduto sul davanzale di una finestra.
 
 <img src="images/2098908993825497578-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+L'immagine del gatto
 ```
 
 [↑ Torna alle categorie](#catalog)
