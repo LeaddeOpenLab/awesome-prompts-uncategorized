@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T20:20:48.220Z",
+  "model": "grok",
+  "prompt": "The Collective Euphoria during a Falcon 9 launch: as the deafening roar finally sweeps over the crowd, tension instantly transforms into pure adrenaline. People cheer wildly, scream with joy, and some cry tears of emotion.",
+  "promptTranslations": {
+    "en": "The Collective Euphoria during a Falcon 9 launch: as the deafening roar finally sweeps over the crowd, tension instantly transforms into pure adrenaline. People cheer wildly, scream with joy, and some cry tears of emotion."
+  },
+  "summaryTranslations": {
+    "en": "A crowd cheering wildly and crying tears of joy during a Falcon 9 rocket launch."
+  },
+  "translationVersion": 2,
+  "summary": "A crowd cheering wildly and crying tears of joy during a Falcon 9 rocket launch.",
+  "summaryEn": "A crowd cheering wildly and crying tears of joy during a Falcon 9 rocket launch.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099220675223232866",
+    "canonicalUrl": "https://x.com/Marie8508319540/status/2099220675223232866",
+    "author": {
+      "username": "Marie8508319540",
+      "displayName": "Marie",
+      "profileUrl": "https://x.com/Marie8508319540"
+    },
+    "publishedAt": "2026-09-13T19:36:25.000Z",
+    "collectedAt": "2026-09-13T20:17:30.138Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nThe Collective Euphoria during a Falcon 9 launch: as the deafening roar finally sweeps over the crowd, tension instantly transforms into pure adrenaline. People cheer wildly, scream with joy, and some cry tears of emotion. https://t.co/VCW4YGHPjq",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Marie8508319540/status/2099220675223232866",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg",
+        "analysisUrl": "https://x.com/Marie8508319540/status/2099220675223232866"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 84
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Marie8508319540/status/2099220675223232866",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099220646266114048/img/B3hU8bDkDoWOgZGa.jpg",
+  "coverPath": "covers/2099220675223232866.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099220646266114048",
+    "x-post:2099220675223232866"
+  ],
+  "analysis": {
+    "summary": "A crowd cheering wildly and crying tears of joy during a Falcon 9 rocket launch.",
+    "summaryEn": "A crowd cheering wildly and crying tears of joy during a Falcon 9 rocket launch.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a cheering crowd celebrating and tearing up as a rocket launches into the sky."
+    },
+    "videoQuality": null,
+    "originalPrompt": "The Collective Euphoria during a Falcon 9 launch: as the deafening roar finally sweeps over the crowd, tension instantly transforms into pure adrenaline. People cheer wildly, scream with joy, and some cry tears of emotion.",
+    "sourceRange": {
+      "start": 22,
+      "end": 244
+    },
+    "translations": {
+      "zh": "猎鹰9号发射时的集体狂喜：当震耳欲聋的轰鸣席卷人群，紧张瞬间转为肾上腺素狂飙。人们疯狂欢呼尖叫，有人激动落泪。",
+      "en": "The Collective Euphoria during a Falcon 9 launch: as the deafening roar finally sweeps over the crowd, tension instantly transforms into pure adrenaline. People cheer wildly, scream with joy, and some cry tears of emotion."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Falcon 9",
+        "SpaceX",
+        "NASA"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
