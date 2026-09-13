@@ -1952,7 +1952,7 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2099171324568760589"></a>
 
-### Çeviri sürüyor
+### 3x3 dokuz parçalı görselden sol üstten sağ alta doğru sırayla sahneleri değiştirerek 2D animasyon oluşturma talimatı.
 
 Yazar：[@8co28](https://x.com/8co28) · [Orijinal gönderi](https://x.com/8co28/status/2099171324568760589)
 
@@ -1960,14 +1960,14 @@ Anime / Manga · Yayımlandı
 
 Orijinal gönderi：[@8co28](https://x.com/8co28) · [Orijinal gönderi](https://x.com/8co28/status/2099164852560539975)
 
-**Özet:** Çeviri sürüyor
+**Özet:** 3x3 dokuz parçalı görselden sol üstten sağ alta doğru sırayla sahneleri değiştirerek 2D animasyon oluşturma talimatı.
 
 <img src="covers/2099171324568760589.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sol üstten sağ alt panele geçiş yapan 2D animasyon,\nbirden fazla panel yasak, BGM yasak
 ```
 
 [↑ Kategorilere dön](#catalog)

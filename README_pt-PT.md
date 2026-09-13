@@ -1952,7 +1952,7 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2099171324568760589"></a>
 
-### Tradução em curso
+### Instruções para criar uma animação 2D alternando os cortes sequencialmente do canto superior esquerdo para o canto inferior direito a partir de uma imagem 3x3 dividida em 9 partes.
 
 Autor：[@8co28](https://x.com/8co28) · [Publicação original](https://x.com/8co28/status/2099171324568760589)
 
@@ -1960,14 +1960,14 @@ Anime / Mangá · Publicado
 
 Publicação original：[@8co28](https://x.com/8co28) · [Publicação original](https://x.com/8co28/status/2099164852560539975)
 
-**Resumo:** Tradução em curso
+**Resumo:** Instruções para criar uma animação 2D alternando os cortes sequencialmente do canto superior esquerdo para o canto inferior direito a partir de uma imagem 3x3 dividida em 9 partes.
 
 <img src="covers/2099171324568760589.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Animação 2D com cortes a alternar do painel superior esquerdo para o inferior direito,\nproibido múltiplos painéis, proibido BGM
 ```
 
 [↑ Voltar às categorias](#catalog)

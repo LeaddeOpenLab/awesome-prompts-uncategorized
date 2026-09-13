@@ -1935,7 +1935,7 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2099171324568760589"></a>
 
-### Übersetzung läuft
+### Anweisung zur Erstellung einer 2D-Animation durch sequenzielles Umschalten der Schnitte von oben links nach unten rechts aus einem 3x3-Bild mit 9 Feldern.
 
 Autor：[@8co28](https://x.com/8co28) · [Originalbeitrag](https://x.com/8co28/status/2099171324568760589)
 
@@ -1943,14 +1943,14 @@ Anime / Manga · Veröffentlicht
 
 Originalbeitrag：[@8co28](https://x.com/8co28) · [Originalbeitrag](https://x.com/8co28/status/2099164852560539975)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anweisung zur Erstellung einer 2D-Animation durch sequenzielles Umschalten der Schnitte von oben links nach unten rechts aus einem 3x3-Bild mit 9 Feldern.
 
 <img src="covers/2099171324568760589.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+2D-Animation, bei der die Schnitte vom oberen linken zum unteren rechten Panel wechseln,\nmehrere Panels verboten, BGM verboten
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

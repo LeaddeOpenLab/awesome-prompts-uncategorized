@@ -1935,7 +1935,7 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2099171324568760589"></a>
 
-### Traduction en cours
+### Instructions pour créer une animation 2D en coupant séquentiellement de haut en bas et de gauche à droite à partir d'une image 3x3 divisée en 9.
 
 Auteur：[@8co28](https://x.com/8co28) · [Publication originale](https://x.com/8co28/status/2099171324568760589)
 
@@ -1943,14 +1943,14 @@ Anime / Manga · Publié
 
 Publication originale：[@8co28](https://x.com/8co28) · [Publication originale](https://x.com/8co28/status/2099164852560539975)
 
-**Résumé:** Traduction en cours
+**Résumé:** Instructions pour créer une animation 2D en coupant séquentiellement de haut en bas et de gauche à droite à partir d'une image 3x3 divisée en 9.
 
 <img src="covers/2099171324568760589.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Animation 2D avec des coupes passant du panneau supérieur gauche au panneau inférieur droit,\nplusieurs panneaux interdits, BGM interdite
 ```
 
 [↑ Retour aux catégories](#catalog)

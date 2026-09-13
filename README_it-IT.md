@@ -1935,7 +1935,7 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2099171324568760589"></a>
 
-### Traduzione in corso
+### Istruzioni per creare un'animazione 2D cambiando in sequenza i tagli da in alto a sinistra a in basso a destra da un'immagine divisa in 9 \(3x3\).
 
 Autore：[@8co28](https://x.com/8co28) · [Post originale](https://x.com/8co28/status/2099171324568760589)
 
@@ -1943,14 +1943,14 @@ Anime / Manga · Pubblicato
 
 Post originale：[@8co28](https://x.com/8co28) · [Post originale](https://x.com/8co28/status/2099164852560539975)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzioni per creare un'animazione 2D cambiando in sequenza i tagli da in alto a sinistra a in basso a destra da un'immagine divisa in 9 \(3x3\).
 
 <img src="covers/2099171324568760589.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Animazione 2D in cui i tagli passano dal riquadro in alto a sinistra a quello in basso a destra,\nvietati riquadri multipli, vietata BGM
 ```
 
 [↑ Torna alle categorie](#catalog)

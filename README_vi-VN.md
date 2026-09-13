@@ -1970,7 +1970,7 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2099171324568760589"></a>
 
-### Đang dịch
+### Hướng dẫn tạo hoạt ảnh 2D bằng cách chuyển cảnh cắt tuần tự từ trên cùng bên trái sang dưới cùng bên phải từ hình ảnh chia 9 ô 3x3.
 
 Tác giả：[@8co28](https://x.com/8co28) · [Bài gốc](https://x.com/8co28/status/2099171324568760589)
 
@@ -1978,14 +1978,14 @@ Anime / Manga · Đã xuất bản
 
 Bài gốc：[@8co28](https://x.com/8co28) · [Bài gốc](https://x.com/8co28/status/2099164852560539975)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hướng dẫn tạo hoạt ảnh 2D bằng cách chuyển cảnh cắt tuần tự từ trên cùng bên trái sang dưới cùng bên phải từ hình ảnh chia 9 ô 3x3.
 
 <img src="covers/2099171324568760589.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hoạt ảnh 2D chuyển cảnh cắt từ khung hình trên cùng bên trái sang khung hình dưới cùng bên phải,\ncấm nhiều khung hình cùng lúc, cấm BGM
 ```
 
 [↑ Về danh mục](#catalog)

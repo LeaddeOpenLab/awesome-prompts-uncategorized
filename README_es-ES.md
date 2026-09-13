@@ -1970,7 +1970,7 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2099171324568760589"></a>
 
-### Traducción en curso
+### Instrucciones para crear una animación 2D cambiando los cortes secuencialmente de arriba a la izquierda a abajo a la derecha a partir de una imagen dividida en 9 de 3x3.
 
 Autor：[@8co28](https://x.com/8co28) · [Publicación original](https://x.com/8co28/status/2099171324568760589)
 
@@ -1978,14 +1978,14 @@ Anime / Manga · Publicado
 
 Publicación original：[@8co28](https://x.com/8co28) · [Publicación original](https://x.com/8co28/status/2099164852560539975)
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucciones para crear una animación 2D cambiando los cortes secuencialmente de arriba a la izquierda a abajo a la derecha a partir de una imagen dividida en 9 de 3x3.
 
 <img src="covers/2099171324568760589.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Animación 2D con cortes que cambian del panel superior izquierdo al inferior derecho,\nprohibido múltiples paneles, prohibido BGM
 ```
 
 [↑ Volver a categorías](#catalog)
