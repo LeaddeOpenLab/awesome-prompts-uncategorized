@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**151** Prompts · Latest addition: **2026-09-13**
+**152** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -3363,6 +3363,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098989138662093223"></a>
+
+### 10-second aesthetic video prompt showing the preparation and presentation of pink glow detox water.
+
+Author：[@AvaSmith771](https://x.com/AvaSmith771) · [Source](https://x.com/AvaSmith771/status/2098989138662093223)
+
+Other · Published
+
+**Summary:** 10-second aesthetic video prompt showing the preparation and presentation of pink glow detox water.
+
+<img src="covers/2098989138662093223.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a 10-second vertical 9:16 ultra-realistic Hamama-style aesthetic video based on the reference image: show fresh strawberries, pink grapefruit and watermelon being quickly sliced in close-up, add the colorful fruits, mint and ice into a clear glass bottle, then slowly pour fresh sparkling water with beautiful bubbles and splashes. Finish with a premium macro hero shot of the finished pink detox water, visible condensation and fresh fruit, soft natural pink lighting, shallow depth of field, smooth cinematic camera movement, realistic textures, gentle slow motion and satisfying cutting, ice-clinking and water-pouring sounds, with elegant text overlays ‘Detox Water’ and ‘Pink Glow Drink’.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098980488379801716"></a>
 
