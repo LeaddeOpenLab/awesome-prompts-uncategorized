@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:19:28.531Z",
+  "model": "unknown-video",
+  "prompt": "00:00 – Establishing Shot\nPrompt: 3D Pixar-style wide shot. Fluffy, expressive cloud floats over sunlit sunflower fields.\n\n00:01 – The Discovery\nPrompt: Cloud drifts down toward a tiny closed bud, smiling gently.\n\n00:02 – Gathering Effort\nPrompt: Cloud puffs cheeks and blows a focused breeze downward.\n\n00:03 – Gentle Breath\nPrompt: Close-up of bud trembling as soft air and droplets land.\n\n00:04 – Determining Focus\nPrompt: Cloud turns slightly gray, concentrating hard to produce rain.\n\n00:05 – The Rain Shower\nPrompt: Sparkling raindrops pour directly over the small closed sunflower.\n\n00:06 – Blooming Smiles\nPrompt: Bud blooms into a bright, smiling sunflower face.\n\n00:07 – Cloud's Surprise\nPrompt: Close-up of cloud gasping in wide-eyed wonder.\n\n00:08 – Joyful Smile\nPrompt: Cloud beams proudly at the newly bloomed sunflower.\n\n00:09 – Rainbow Harmony\nPrompt: Wide shot with a glowing rainbow appearing beneath the cloud.",
+  "promptTranslations": {
+    "en": "00:00 – Establishing Shot\nPrompt: 3D Pixar-style wide shot. Fluffy, expressive cloud floats over sunlit sunflower fields.\n\n00:01 – The Discovery\nPrompt: Cloud drifts down toward a tiny closed bud, smiling gently.\n\n00:02 – Gathering Effort\nPrompt: Cloud puffs cheeks and blows a focused breeze downward.\n\n00:03 – Gentle Breath\nPrompt: Close-up of bud trembling as soft air and droplets land.\n\n00:04 – Determining Focus\nPrompt: Cloud turns slightly gray, concentrating hard to produce rain.\n\n00:05 – The Rain Shower\nPrompt: Sparkling raindrops pour directly over the small closed sunflower.\n\n00:06 – Blooming Smiles\nPrompt: Bud blooms into a bright, smiling sunflower face.\n\n00:07 – Cloud's Surprise\nPrompt: Close-up of cloud gasping in wide-eyed wonder.\n\n00:08 – Joyful Smile\nPrompt: Cloud beams proudly at the newly bloomed sunflower.\n\n00:09 – Rainbow Harmony\nPrompt: Wide shot with a glowing rainbow appearing beneath the cloud."
+  },
+  "summaryTranslations": {
+    "en": "Pixar-style 3D animation storyboard prompts, telling a heartwarming story of a kind little cloud raining to help a sunflower seedling bloom."
+  },
+  "translationVersion": 2,
+  "summary": "皮克斯风格 3D 动画分镜头提示词，讲述一朵善良的小云朵降雨帮助向日葵幼苗绽放的温馨故事。",
+  "summaryEn": "Pixar-style 3D animated storyboard prompts depicting a kind cloud watering a tiny bud into a smiling sunflower.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098978626637308214",
+    "canonicalUrl": "https://x.com/AI_with_Antonio/status/2098978626637308214",
+    "author": {
+      "username": "AI_with_Antonio",
+      "displayName": "AntonioAI",
+      "profileUrl": "https://x.com/AI_with_Antonio"
+    },
+    "publishedAt": "2026-09-13T03:34:36.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "en",
+    "originalText": "A little help goes a long way. Watch this kind little cloud help a tiny bud find its sunshine.\n\nCreated with @openart_ai\n\nVideo Scene Prompts:\n\n00:00 – Establishing Shot\nPrompt: 3D Pixar-style wide shot. Fluffy, expressive cloud floats over sunlit sunflower fields.\n\n00:01 – The Discovery\nPrompt: Cloud drifts down toward a tiny closed bud, smiling gently.\n\n00:02 – Gathering Effort\nPrompt: Cloud puffs cheeks and blows a focused breeze downward.\n\n00:03 – Gentle Breath\nPrompt: Close-up of bud trembling as soft air and droplets land.\n\n00:04 – Determining Focus\nPrompt: Cloud turns slightly gray, concentrating hard to produce rain.\n\n00:05 – The Rain Shower\nPrompt: Sparkling raindrops pour directly over the small closed sunflower.\n\n00:06 – Blooming Smiles\nPrompt: Bud blooms into a bright, smiling sunflower face.\n\n00:07 – Cloud's Surprise\nPrompt: Close-up of cloud gasping in wide-eyed wonder.\n\n00:08 – Joyful Smile\nPrompt: Cloud beams proudly at the newly bloomed sunflower.\n\n00:09 – Rainbow Harmony\nPrompt: Wide shot with a glowing rainbow appearing beneath the cloud.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AI_with_Antonio/status/2098978626637308214",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098978594366296064/img/P9I-ApdEVMuH-0ps.jpg",
+        "analysisUrl": "https://x.com/AI_with_Antonio/status/2098978626637308214"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 3,
+      "replyCount": 23,
+      "quoteCount": 0,
+      "viewCount": 168
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_with_Antonio/status/2098978626637308214",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098978594366296064/img/P9I-ApdEVMuH-0ps.jpg",
+  "coverPath": "covers/2098978626637308214.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098978594366296064",
+    "x-post:2098978626637308214"
+  ],
+  "analysis": {
+    "summary": "皮克斯风格 3D 动画分镜头提示词，讲述一朵善良的小云朵降雨帮助向日葵幼苗绽放的温馨故事。",
+    "summaryEn": "Pixar-style 3D animated storyboard prompts depicting a kind cloud watering a tiny bud into a smiling sunflower.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频画面与10个按时间轴给出的场景提示词在镜头、角色表情及动作上完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "00:00 – Establishing Shot\nPrompt: 3D Pixar-style wide shot. Fluffy, expressive cloud floats over sunlit sunflower fields.\n\n00:01 – The Discovery\nPrompt: Cloud drifts down toward a tiny closed bud, smiling gently.\n\n00:02 – Gathering Effort\nPrompt: Cloud puffs cheeks and blows a focused breeze downward.\n\n00:03 – Gentle Breath\nPrompt: Close-up of bud trembling as soft air and droplets land.\n\n00:04 – Determining Focus\nPrompt: Cloud turns slightly gray, concentrating hard to produce rain.\n\n00:05 – The Rain Shower\nPrompt: Sparkling raindrops pour directly over the small closed sunflower.\n\n00:06 – Blooming Smiles\nPrompt: Bud blooms into a bright, smiling sunflower face.\n\n00:07 – Cloud's Surprise\nPrompt: Close-up of cloud gasping in wide-eyed wonder.\n\n00:08 – Joyful Smile\nPrompt: Cloud beams proudly at the newly bloomed sunflower.\n\n00:09 – Rainbow Harmony\nPrompt: Wide shot with a glowing rainbow appearing beneath the cloud.",
+    "sourceRange": {
+      "start": 144,
+      "end": 1073
+    },
+    "translations": {
+      "zh": "00:00 – 定场镜头\n提示词：3D 皮克斯风格远景。毛茸茸、神情生动的小云朵漂浮在阳光普照的向日葵花田上空。\n\n00:01 – 发现\n提示词：小云朵缓缓飘向一朵紧闭的嫩芽，温柔微笑。\n\n00:02 – 蓄力\n提示词：小云朵鼓起双颊，朝下方吹出一股微风。\n\n00:03 – 轻柔微风\n提示词：微风与水滴落在嫩芽上，嫩芽微微颤动的特写。\n\n00:04 – 专注聚神\n提示词：小云朵微微泛灰，专注用力准备下雨。\n\n00:05 – 雨水倾洒\n提示词：晶莹雨滴倾注在紧闭的小向日葵上。\n\n00:06 – 绽放笑颜\n提示词：花蕾绽放成一张明亮欢笑的向日葵笑脸。\n\n00:07 – 小云朵的惊讶\n提示词：小云朵睁大双眼、惊讶倒吸一口气的特写。\n\n00:08 – 欣慰笑容\n提示词：小云朵自豪地朝刚绽放的向日葵微笑。\n\n00:09 – 彩虹相伴\n提示词：远景镜头，小云朵下方浮现一道绚丽彩虹。",
+      "en": "00:00 – Establishing Shot\nPrompt: 3D Pixar-style wide shot. Fluffy, expressive cloud floats over sunlit sunflower fields.\n\n00:01 – The Discovery\nPrompt: Cloud drifts down toward a tiny closed bud, smiling gently.\n\n00:02 – Gathering Effort\nPrompt: Cloud puffs cheeks and blows a focused breeze downward.\n\n00:03 – Gentle Breath\nPrompt: Close-up of bud trembling as soft air and droplets land.\n\n00:04 – Determining Focus\nPrompt: Cloud turns slightly gray, concentrating hard to produce rain.\n\n00:05 – The Rain Shower\nPrompt: Sparkling raindrops pour directly over the small closed sunflower.\n\n00:06 – Blooming Smiles\nPrompt: Bud blooms into a bright, smiling sunflower face.\n\n00:07 – Cloud's Surprise\nPrompt: Close-up of cloud gasping in wide-eyed wonder.\n\n00:08 – Joyful Smile\nPrompt: Cloud beams proudly at the newly bloomed sunflower.\n\n00:09 – Rainbow Harmony\nPrompt: Wide shot with a glowing rainbow appearing beneath the cloud."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
