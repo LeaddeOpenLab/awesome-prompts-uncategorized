@@ -2997,13 +2997,13 @@ Tradução em andamento
 
 <a name="prompt-2099222326097375613"></a>
 
-### Tradução em andamento
+### Prompt conceitual curto que retrata repetição psicológica e angústia.
 
 Autor：[@losslandscape](https://x.com/losslandscape) · [Publicação original](https://x.com/losslandscape/status/2099222326097375613)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt conceitual curto que retrata repetição psicológica e angústia.
 
 <img src="images/2099222326097375613-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3012,7 +3012,7 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Eu me repito quando sob estresse
 ```
 
 [↑ Voltar às categorias](#catalog)

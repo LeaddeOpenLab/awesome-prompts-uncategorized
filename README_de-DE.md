@@ -2980,13 +2980,13 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2099222326097375613"></a>
 
-### Übersetzung läuft
+### Kurzer Konzept-Prompt, der psychologische Wiederholung und Bedrängnis darstellt.
 
 Autor：[@losslandscape](https://x.com/losslandscape) · [Originalbeitrag](https://x.com/losslandscape/status/2099222326097375613)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Kurzer Konzept-Prompt, der psychologische Wiederholung und Bedrängnis darstellt.
 
 <img src="images/2099222326097375613-1.jpg" alt="Bild 1" width="480" />
 
@@ -2995,7 +2995,7 @@ Sonstige · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ich wiederhole mich unter Stress
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

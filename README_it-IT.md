@@ -2980,13 +2980,13 @@ Traduzione in corso
 
 <a name="prompt-2099222326097375613"></a>
 
-### Traduzione in corso
+### Breve prompt concettuale che ritrae ripetizione psicologica e angoscia.
 
 Autore：[@losslandscape](https://x.com/losslandscape) · [Post originale](https://x.com/losslandscape/status/2099222326097375613)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Breve prompt concettuale che ritrae ripetizione psicologica e angoscia.
 
 <img src="images/2099222326097375613-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2995,7 +2995,7 @@ Altro · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Mi ripeto quando sono sotto stress
 ```
 
 [↑ Torna alle categorie](#catalog)

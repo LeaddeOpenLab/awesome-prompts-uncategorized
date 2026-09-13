@@ -2980,13 +2980,13 @@ Traduction en cours
 
 <a name="prompt-2099222326097375613"></a>
 
-### Traduction en cours
+### Court prompt conceptuel illustrant la répétition psychologique et la détresse.
 
 Auteur：[@losslandscape](https://x.com/losslandscape) · [Publication originale](https://x.com/losslandscape/status/2099222326097375613)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Court prompt conceptuel illustrant la répétition psychologique et la détresse.
 
 <img src="images/2099222326097375613-1.jpg" alt="Image 1" width="480" />
 
@@ -2995,7 +2995,7 @@ Autres · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Je me répète sous l'effet du stress
 ```
 
 [↑ Retour aux catégories](#catalog)

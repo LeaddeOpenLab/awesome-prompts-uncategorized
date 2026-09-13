@@ -3025,13 +3025,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2099222326097375613"></a>
 
-### Đang dịch
+### Lời nhắc ý niệm ngắn gọn mô tả sự lặp lại về mặt tâm lý và đau khổ.
 
 Tác giả：[@losslandscape](https://x.com/losslandscape) · [Bài gốc](https://x.com/losslandscape/status/2099222326097375613)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc ý niệm ngắn gọn mô tả sự lặp lại về mặt tâm lý và đau khổ.
 
 <img src="images/2099222326097375613-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3040,7 +3040,7 @@ Khác · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tôi thường lặp lại chính mình khi bị căng thẳng
 ```
 
 [↑ Về danh mục](#catalog)

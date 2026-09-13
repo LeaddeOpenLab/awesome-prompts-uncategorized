@@ -2997,13 +2997,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2099222326097375613"></a>
 
-### Çeviri sürüyor
+### Psikolojik tekrarlamayı ve sıkıntıyı tasvir eden kısa konsept istemi.
 
 Yazar：[@losslandscape](https://x.com/losslandscape) · [Orijinal gönderi](https://x.com/losslandscape/status/2099222326097375613)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Psikolojik tekrarlamayı ve sıkıntıyı tasvir eden kısa konsept istemi.
 
 <img src="images/2099222326097375613-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3012,7 +3012,7 @@ Diğer · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Stres altındayken kendimi tekrar ederim
 ```
 
 [↑ Kategorilere dön](#catalog)

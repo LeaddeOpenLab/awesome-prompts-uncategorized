@@ -3025,13 +3025,13 @@ Traducción en curso
 
 <a name="prompt-2099222326097375613"></a>
 
-### Traducción en curso
+### Mensaje de concepto breve que describe la repetición psicológica y la angustia.
 
 Autor：[@losslandscape](https://x.com/losslandscape) · [Publicación original](https://x.com/losslandscape/status/2099222326097375613)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Mensaje de concepto breve que describe la repetición psicológica y la angustia.
 
 <img src="images/2099222326097375613-1.jpg" alt="Imagen 1" width="480" />
 
@@ -3040,7 +3040,7 @@ Otros · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Me repito cuando estoy bajo estrés
 ```
 
 [↑ Volver a categorías](#catalog)

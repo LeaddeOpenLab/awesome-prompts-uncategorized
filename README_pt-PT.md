@@ -2997,13 +2997,13 @@ Tradução em curso
 
 <a name="prompt-2099222326097375613"></a>
 
-### Tradução em curso
+### Prompt conceptual curto que retrata a repetição psicológica e o sofrimento.
 
 Autor：[@losslandscape](https://x.com/losslandscape) · [Publicação original](https://x.com/losslandscape/status/2099222326097375613)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt conceptual curto que retrata a repetição psicológica e o sofrimento.
 
 <img src="images/2099222326097375613-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3012,7 +3012,7 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Repito-me quando estou sob stress
 ```
 
 [↑ Voltar às categorias](#catalog)

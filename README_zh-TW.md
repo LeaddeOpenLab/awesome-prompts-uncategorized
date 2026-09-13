@@ -3009,13 +3009,13 @@ FIELD NOTE [編號]
 
 <a name="prompt-2099222326097375613"></a>
 
-### 翻譯中
+### 描繪心理重複與痛苦的簡短概念提示詞。
 
 作者：[@losslandscape](https://x.com/losslandscape) · [查看 X 原帖](https://x.com/losslandscape/status/2099222326097375613)
 
 其他 · 已推流
 
-**概括:** 翻譯中
+**概括:** 描繪心理重複與痛苦的簡短概念提示詞。
 
 <img src="images/2099222326097375613-1.jpg" alt="圖片 1" width="480" />
 
@@ -3024,7 +3024,7 @@ FIELD NOTE [編號]
 **提示詞**
 
 ```text
-翻譯中
+我在壓力之下會重複自己
 ```
 
 [↑ 返回分類目錄](#catalog)
