@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**147** Prompts · Latest addition: **2026-09-13**
+**148** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2666,6 +2666,50 @@ A lone woman in a vivid red coat walks along a long wooden pier disappearing int
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2098953133443764274"></a>
+
+### Ultra-realistic retro maid cosplay portrait photography, young East Asian female lying on her side on a burgundy classic velvet armchair, paired with white thigh-high stockings and a warm dim vintage digital candid texture.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2098953133443764274)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Published
+
+**Summary:** Ultra-realistic retro maid cosplay portrait photography, young East Asian female lying on her side on a burgundy classic velvet armchair, paired with white thigh-high stockings and a warm dim vintage digital candid texture.
+
+<img src="images/2098953133443764274-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic retro indoor maid cosplay portrait photography, vertical orientation approximately 4:5, a young adult East Asian female, explicitly an adult, curled up lying on her side in a deep burgundy velvet classic armchair. The photographer is positioned in front and slightly to the left of the subject's legs, shooting closely with a 24–28mm equivalent wide-angle lens, camera positioned close to the armchair seat height, with the subject's legs closest to the lens, thus creating a pronounced yet natural wide-angle perspective foreshortening; the face is in the upper right of the frame, and the legs extend from the bottom left toward the center, with the entire person nearly filling the frame.
+
+The subject has a small-to-medium bone structure, slightly narrow shoulders, a slender waist, naturally soft volume in hips and thighs, and legs that are shapely and full but not thick. The body is completely on its side and slightly curled up, upper body leaning against the right armrest, head gently pillowed on both hands; both palms are stacked next to the cheek, elbows tucked in front of the chest. The head turns toward the camera, eyes looking directly into the lens, lips slightly parted, with a soft, lazy, faintly smiling expression.
+
+The subject has jet-black chin-length short bob hair, ends naturally curved inward, longer wispy straight bangs in front of the forehead, with a few fine strands scattered before the eyes and cheeks, slightly messy. Wearing a classic black and white maid headband: white ruffled headdress with black bow decorations on both sides.
+
+Attire is a classic black and white French maid mini dress. The upper body is a black long-sleeved form-fitting maid dress, with wide white ruffles along the shoulders and armhole lines, cuffs are white folded cuffs with black buttons; a white apron structure is overlaid at the chest and waist, with a noticeable large white bow tied at the back of the waist. The skirt is short, with multiple tiers of white wavy ruffles along the outer hem and inner lining of the main black skirt; as the subject lies on her side, the skirt naturally bunches up and spreads out, creating numerous black-and-white ruffled layers. Maintain normal, full clothing coverage.
+
+Legs are wearing pure white semi-sheer thigh-high stockings, with the band resting at the mid-to-upper thigh, featuring distinct double-layered light-white stocking bands, stocking body is delicate sheer nylon material, around 20–30D, slightly revealing the skin tone underneath. Both legs are deeply bent and crossed, one leg extending from the bottom left toward the camera, the other leg folded behind it with the knee close to the body. The foreground stockinged leg is slightly enlarged due to being closer to the lens, with natural stretching and tiny folds on the stocking surface at the knee, calf, and ankle areas.
+
+Wearing black thin-strap high heels / Mary Jane style high heels on feet, shoe upper is glossy black leather with a thin ankle buckle strap; the foreground shoe only partially enters the bottom-left corner of the frame, not needing to be fully shown.
+
+The chair is a crucial element of the composition: a deep wine red / burgundy velvet classic high-back armchair, featuring a massive backrest with diamond tufting, velvet with delicate sheen; chair frame is a golden or antique bronze-gold carved wooden structure, with Baroque acanthus leaf carvings, studded nailhead trims, and vintage decorative molding on both top and bottom. The subject's body sinks into the plush cushion and backrest, producing distinct, realistic indentation.
+
+The background is a dim vintage interior, predominantly in dark brown, burgundy, warm gray, and antique bronze gold. A warm yellow sconce / desk lamp is visible in the upper left, casting a soft halo, with dark walls and faint outlines of wooden furniture behind; avoid a modern bright room.
+
+Lighting utilizes warm ambient interior light + weak on-camera direct flash. The subject's face, shoulders, and white stockings are lightly brightened by the flash, skin tone leaning warm white; the burgundy velvet retains a rich dark red, with subtle reflections on the golden chair frame. The background is noticeably darker yet retains environmental structure.
+
+Overall visual quality presents a 2000s–2010s Japanese cosplay photo / compact digital camera candid snapshot texture: slight soft focus, minor grain, limited dynamic range, gentle JPEG compression artifacts, natural skin texture, avoiding modern HDR and commercial over-sharpening.
+
+Key focuses: adult East Asian female + short black bob + wispy bangs + black-and-white maid headwear + black long-sleeved maid mini dress + abundant white ruffles + white apron and large bow + pure white semi-sheer thigh-high stockings + black thin-strap high heels + lying on side curled up + hands stacked beneath cheek + legs bent and crossed toward camera + close-up wide-angle perspective + deep burgundy velvet Baroque armchair + golden carved wood frame + warm dim vintage interior + weak flash old digital camera texture.
+
+Avoid: standing pose, sitting upright, long hair, high ponytail, modern maid café background, white dress, black stockings, fishnets, bare legs, sneakers, platform shoes, modern sofa, bright minimalist bedroom, harsh cinematic lighting, heavy background blur, fisheye distortion, athletic muscular physique, excessively skinny legs, plastic skin, anime face, CG look, extra fingers, extra legs, watermarks, and gibberish text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098774914970849306"></a>
 
