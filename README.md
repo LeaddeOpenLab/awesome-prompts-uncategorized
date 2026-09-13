@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**145** Prompts · Latest addition: **2026-09-13**
+**146** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,78 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098913084849242481"></a>
+
+### A high-resolution, photorealistic snapshot-style prompt featuring an adult Japanese woman in a coral pink sleeveless ribbed mini dress smiling at a bitten donut in her hand by the window of a bright late-morning donut shop.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098913084849242481)
+
+Photography · Portrait / Selfie · Character · Food / Drink · Fashion Item · Published
+
+**Summary:** A high-resolution, photorealistic snapshot-style prompt featuring an adult Japanese woman in a coral pink sleeveless ribbed mini dress smiling at a bitten donut in her hand by the window of a bright late-morning donut shop.
+
+<img src="images/2098913084849242481-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Windowside Donut Shop | A Subtle Smile After One Bite 🍩🌤️🌟
+
+[Subject & Art Style]
+Capture a natural moment of an adult Japanese woman holding a bitten donut in a donut shop before noon. Grounded in photorealism, blending the sophistication of a fashion magazine with the familiarity of a casual weekend snapshot. Not a posed pin-up, but retaining the effortless spontaneity of a photo casually taken by a close companion sitting across from her.
+
+Evoke the gentle, leisurely pre-noon hours of enjoying sweets—not merely depicting the woman's charming reaction, but fully integrating the coffee, donuts, window light, and the warm wooden textures of the interior.
+
+[Location, Background & Worldview]
+A bright, clean neighborhood corner donut shop. The woman sits at a small wooden table near a large window, with colorful donuts arranged in a glass display case, a wooden counter, pendant lights, and potted house plants naturally positioned in the background.
+
+On the table rest a paper coffee cup, a tray carrying several kinds of donuts, white napkins, and a small shop bag. Create depth with the foreground table, midground figure, and background showcase, leaving the background lightly blurred yet clearly recognizable as a donut shop. No text or brand logos included.
+
+[Season, Time & Weather]
+A comfortable, clear morning turning to midday, between spring and early summer. The time is around 10:30 to 11:30 AM, with bright, soft natural light pouring in from the window. Not intense midsummer sun, but refreshing, lighthearted weather with crisp air.
+
+Outside is calm and sunny, casting diffuse daylight through the glass into the shop. Conveys an unhurried atmosphere, like someone savoring a late morning weekend treat without rushing.
+
+[Character Setting]
+A distinctly adult Japanese woman, roughly 20 to 28 years old. Soft, well-proportioned facial features with slightly large dark-brown pupils, natural eyebrows, an elegant nose bridge, and rosy, soft lips. Dark brown, shoulder-length hair with loose waves and delicate wisps framing her face. Bright ochre-toned skin with realistic texture, preserving visible pores and delicate shading.
+
+A glamorous physique naturally harmonizing slender shoulders, limbs, and a slim waist with feminine curves. The bust has distinctly generous, natural volume, rendered not as rigid spheres or overly pushed up, but with soft, three-dimensional form conforming to her clothing, seated posture, and gravity. Hips possess a natural roundness, maintaining balanced overall proportions.
+
+[Outfit & Accessories]
+A coral pink sleeveless ribbed mini dress. Made of a soft, finely ribbed knit fabric with a natural matte finish. Featuring a simple square-ish or gentle round neckline without flashy embellishments. Follows the body's lines naturally, with a realistic fit that does not excessively pinch, dig into the skin, or overly constrict.
+
+Provides ample fabric across her full bust, displaying authentic wrinkles and tension in response to her seated posture. Accessories are minimal: small gold or silver stud earrings, and at most a delicate single chain necklace. Prioritizing understated elegance fitting for chic, casual weekend style.
+
+[Pose, Action & Gaze]
+Seated naturally on a chair by the window, her upper body facing almost directly toward the table or angled slightly. Legs naturally resting together or lightly crossed beneath the seat, weight evenly distributed across her hips. Spine not overly straightened, leaning her torso just a touch forward to look down at the donut.
+
+Her right (or dominant) hand holds the sugared, single-bitten donut slightly higher than chest level. Her other hand lightly touches the paper cup or rests naturally near the edge of the table. Her gaze is directed down at the donut rather than the camera, caught in the middle of pondering whether to take another bite.
+
+[Expression & Emotion]
+The precise instant she realizes the donut is even more delicious than expected right after the first bite. Eyes narrowing slightly, cheeks relaxing softly, corners of the mouth gently lifting. Not a broad grin, but an involuntary, natural smile blossoming unawares.
+
+Face tilted slightly downward, making it clear that her gaze and emotion are centered on the donut in her hand. Subtle, gentle movements in her brows and cheeks convey sincere, unforced satisfaction from enjoying a sweet treat.
+
+[Composition & Camera]
+A 4:5 vertical portrait composition tailored for social media. The subject is positioned slightly to the right of the frame center, framed from above the knees to the top of her head. The window is on the left, with the table and donuts in the lower frame, ensuring the shop's atmosphere is amply featured rather than filling the frame entirely with the subject.
+
+Camera height is near eye level of someone seated across from her, comfortably positioned around chest-to-face height. A natural perspective equivalent to a 50–70mm standard to short telephoto lens. Shooting distance roughly 1.5 to 2.5 meters. Gentle depth of field softly blurs the background, avoiding extreme wide-angle distortion or exaggerated body proportions.
+
+[Light, Color, Texture & Atmosphere]
+The key light source is soft natural sunlight streaming through the large window on the left. Bright light illuminates the left side of her face, hair, shoulders, and dress, while warm bounce light from interior walls and wooden tables softly fills in the shadows on the opposite side. Shadows remain soft without being too dark, maintaining a bright late-morning feel.
+
+Skin features natural flush and fine shading; hair shows individual strand flow and soft sheen. Finely differentiate textures: the vertical ribs of the dress, the grain of the wooden table, the paper cup, and the sugar crystals or glaze on the donut surface. Unified in a bright, warm palette centered around coral pink, cream, and warm wood browns.
+
+[Quality & Exclusions]
+A high-resolution photorealistic picture. Emphasize natural human anatomy, fingers, light, materials, and perspective as if shot on an actual camera. Avoid figures looking underage, overly childish faces, unnatural anatomy, extra limbs or fingers, missing or fused fingers, swapped hands, or awkward joints.
+
+Avoid wardrobe glitches, clothes fusing with the body, extreme skin pinching, unintended exposure, extreme wide-angle distortion, over-processed smooth skin filters, and unnatural backgrounds. Maintain full, natural bust volume while strictly avoiding absurdly oversized dimensions, rigid spherical shapes, extreme cleavage push-ups, or gravity-defying forms. No text, logos, watermarks, or UI overlays anywhere in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098912469481857342"></a>
 
