@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**167** Prompt · Son eklenen: **2026-09-13**
+**168** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1949,6 +1949,30 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099171324568760589"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@8co28](https://x.com/8co28) · [Orijinal gönderi](https://x.com/8co28/status/2099171324568760589)
+
+Anime / Manga · Yayımlandı
+
+Orijinal gönderi：[@8co28](https://x.com/8co28) · [Orijinal gönderi](https://x.com/8co28/status/2099164852560539975)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099171324568760589.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098669706626683027"></a>
 

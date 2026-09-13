@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**167** Prompt · Bổ sung mới nhất: **2026-09-13**
+**168** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1967,6 +1967,30 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099171324568760589"></a>
+
+### Đang dịch
+
+Tác giả：[@8co28](https://x.com/8co28) · [Bài gốc](https://x.com/8co28/status/2099171324568760589)
+
+Anime / Manga · Đã xuất bản
+
+Bài gốc：[@8co28](https://x.com/8co28) · [Bài gốc](https://x.com/8co28/status/2099164852560539975)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099171324568760589.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098669706626683027"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**167** Prompts · Dernier ajout: **2026-09-13**
+**168** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1932,6 +1932,30 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099171324568760589"></a>
+
+### Traduction en cours
+
+Auteur：[@8co28](https://x.com/8co28) · [Publication originale](https://x.com/8co28/status/2099171324568760589)
+
+Anime / Manga · Publié
+
+Publication originale：[@8co28](https://x.com/8co28) · [Publication originale](https://x.com/8co28/status/2099164852560539975)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099171324568760589.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098669706626683027"></a>
 

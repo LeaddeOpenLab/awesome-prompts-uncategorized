@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**167** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**168** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1932,6 +1932,30 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099171324568760589"></a>
+
+### Übersetzung läuft
+
+Autor：[@8co28](https://x.com/8co28) · [Originalbeitrag](https://x.com/8co28/status/2099171324568760589)
+
+Anime / Manga · Veröffentlicht
+
+Originalbeitrag：[@8co28](https://x.com/8co28) · [Originalbeitrag](https://x.com/8co28/status/2099164852560539975)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099171324568760589.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098669706626683027"></a>
 

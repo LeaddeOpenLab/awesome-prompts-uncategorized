@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**167** Prompts · Latest addition: **2026-09-13**
+**168** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2394,6 +2394,30 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099171324568760589"></a>
+
+### Instructions to create a 2D animation by switching cuts in order from top-left to bottom-right across a 3x3 nine-panel image.
+
+Author：[@8co28](https://x.com/8co28) · [Source](https://x.com/8co28/status/2099171324568760589)
+
+Anime / Manga · Published
+
+Source：[@8co28](https://x.com/8co28) · [Source](https://x.com/8co28/status/2099164852560539975)
+
+**Summary:** Instructions to create a 2D animation by switching cuts in order from top-left to bottom-right across a 3x3 nine-panel image.
+
+<img src="covers/2099171324568760589.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+2D animation where cuts switch from the top-left to the bottom-right panels,\nno multiple panels, no BGM
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098669706626683027"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**167** Prompts · Última incorporación: **2026-09-13**
+**168** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1967,6 +1967,30 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099171324568760589"></a>
+
+### Traducción en curso
+
+Autor：[@8co28](https://x.com/8co28) · [Publicación original](https://x.com/8co28/status/2099171324568760589)
+
+Anime / Manga · Publicado
+
+Publicación original：[@8co28](https://x.com/8co28) · [Publicación original](https://x.com/8co28/status/2099164852560539975)
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099171324568760589.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098669706626683027"></a>
 
