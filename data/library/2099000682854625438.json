@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:23:43.365Z",
+  "model": "unknown-video",
+  "prompt": "Transform the image into a magical cinematic ocean fantasy Gentle waves ripple around the woman sea foam softly moves like flowing wings her hair and white dress drift naturally in the ocean breeze Camera slowly glides from above toward her sunlight sparkles across the turquoise water then she gently opens her eyes as glowing particles float around her Dreamy elegant ethereal photorealistic smooth slow motion cinematic lighting 9:16 4K 10 seconds no text",
+  "promptTranslations": {
+    "en": "Transform the image into a magical cinematic ocean fantasy Gentle waves ripple around the woman sea foam softly moves like flowing wings her hair and white dress drift naturally in the ocean breeze Camera slowly glides from above toward her sunlight sparkles across the turquoise water then she gently opens her eyes as glowing particles float around her Dreamy elegant ethereal photorealistic smooth slow motion cinematic lighting 9:16 4K 10 seconds no text"
+  },
+  "summaryTranslations": {
+    "en": "Ocean fantasy cinematic motion prompt, featuring wing-like flowing sea foam, floating light particles, and a close-up of a woman opening her eyes."
+  },
+  "translationVersion": 2,
+  "summary": "海洋奇幻电影级动效提示词，包含羽翼状浪花流动、光斑漂浮及女子睁眼特写。",
+  "summaryEn": "Ocean fantasy video prompt featuring wing-shaped wave foam, woman opening eyes, and floating sparkles.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099000682854625438",
+    "canonicalUrl": "https://x.com/_Biy_a_/status/2099000682854625438",
+    "author": {
+      "username": "_Biy_a_",
+      "displayName": "𝐁𝐢𝐲𝐚 𝐀𝐢",
+      "profileUrl": "https://x.com/_Biy_a_"
+    },
+    "publishedAt": "2026-09-13T05:02:14.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "en",
+    "originalText": "She didn t find magic in the ocean she became the magic\n\nprompt 👇 \n\nTransform the image into a magical cinematic ocean fantasy Gentle waves ripple around the woman sea foam softly moves like flowing wings her hair and white dress drift naturally in the ocean breeze Camera slowly glides from above toward her sunlight sparkles across the turquoise water then she gently opens her eyes as glowing particles float around her Dreamy elegant ethereal photorealistic smooth slow motion cinematic lighting 9:16 4K 10 seconds no text",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/_Biy_a_/status/2099000682854625438",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099000408110989312/img/-9UgMEjRqFkdsFI-.jpg",
+        "analysisUrl": "https://x.com/_Biy_a_/status/2099000682854625438"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSEl_HraoAEUaZH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSEl_HraoAEUaZH.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 2,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 41
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/_Biy_a_/status/2099000682854625438",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099000408110989312/img/-9UgMEjRqFkdsFI-.jpg",
+  "coverPath": "covers/2099000682854625438.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099000408110989312",
+    "x-image:/media/HSEl_HraoAEUaZH",
+    "x-post:2099000682854625438"
+  ],
+  "analysis": {
+    "summary": "海洋奇幻电影级动效提示词，包含羽翼状浪花流动、光斑漂浮及女子睁眼特写。",
+    "summaryEn": "Ocean fantasy video prompt featuring wing-shaped wave foam, woman opening eyes, and floating sparkles.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video aligns directly with the prompt: gentle waves lap around the wing-patterned foam, camera pushes in smoothly from above, and the woman opens her eyes as luminous particles float around her."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Transform the image into a magical cinematic ocean fantasy Gentle waves ripple around the woman sea foam softly moves like flowing wings her hair and white dress drift naturally in the ocean breeze Camera slowly glides from above toward her sunlight sparkles across the turquoise water then she gently opens her eyes as glowing particles float around her Dreamy elegant ethereal photorealistic smooth slow motion cinematic lighting 9:16 4K 10 seconds no text",
+    "sourceRange": {
+      "start": 68,
+      "end": 526
+    },
+    "translations": {
+      "zh": "将图像转换为魔幻般的电影级海洋奇幻场景：柔和的海浪在女子身边泛起涟漪，海浪泡沫如流动的翅膀般轻柔移动，她的秀发和白色礼服在海风中自然飘拂。摄像机从上方缓缓向她滑行推进，阳光在绿松石色的水面上闪烁，随后她轻轻睁开双眼，发光的粒子环绕着她漂浮。梦幻、优雅、空灵、逼真、流畅慢动作、电影级光影，9:16，4K，10秒，无文字。",
+      "en": "Transform the image into a magical cinematic ocean fantasy Gentle waves ripple around the woman sea foam softly moves like flowing wings her hair and white dress drift naturally in the ocean breeze Camera slowly glides from above toward her sunlight sparkles across the turquoise water then she gently opens her eyes as glowing particles float around her Dreamy elegant ethereal photorealistic smooth slow motion cinematic lighting 9:16 4K 10 seconds no text"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "Cinematic ocean fantasy video generation from a static image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
