@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**137** Prompts · Latest addition: **2026-09-13**
+**138** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2888,6 +2888,30 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2098888285263114380"></a>
+
+### Rosalía singing on the beach with Godzilla at sunset.
+
+Author：[@SeekerJimenez](https://x.com/SeekerJimenez) · [Source](https://x.com/SeekerJimenez/status/2098888285263114380)
+
+Landscape / Nature · Published
+
+**Summary:** Rosalía singing on the beach with Godzilla at sunset.
+
+<img src="images/2098888285263114380-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098888285263114380-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+The singer Rosalía singing on the beach of La Caleta, with Godzilla, during sunset
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098908993825497578"></a>
 
