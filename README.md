@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**142** Prompts · Latest addition: **2026-09-13**
+**143** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,65 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098912469481857342"></a>
+
+### A realistic portrait prompt of a Japanese woman wearing milky pink lingerie in a bright hotel cafe, joyfully gazing at a strawberry cake that has just been served.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098912469481857342)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic portrait prompt of a Japanese woman wearing milky pink lingerie in a bright hotel cafe, joyfully gazing at a strawberry cake that has just been served.
+
+<img src="images/2098912469481857342-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Window-side Cafe | Strawberry Cake and a Milky Pink Smile 🌟
+
+[Subject & Art Style]
+A clearly adult Japanese woman is depicted in a bright hotel cafe lounge, joyfully gazing at a strawberry shortcake that has just been served to her. A photorealistic rendering positioned halfway between an elegant Japanese luxury lingerie advertisement and lifestyle photography capturing an unstudied moment of daily life. Rather than looking strictly like a staged model shoot, it impressively showcases the spontaneous moment her expression softens naturally before a sweet treat.
+
+[Location, Background, & Worldview]
+A cafe lounge with a sense of privacy where guests can spend quiet time, attached to a hotel catering to women. Featuring an interior based on soft beige and pale pink tones, arranged with small round tables, soft upholstered fabric chairs, and house plants by the window. On the table are a strawberry shortcake served on a pale pink plate, a white teacup with black tea, and a small vase with pale-colored flowers. In the background, several tables are shown naturally, conveying an upscale elegance and calm atmosphere characteristic of a fine hotel.
+
+[Season, Time of Day, & Weather]
+A gentle, clear day from spring to early summer. The time is around 11:00 AM, with the bright, refreshing air before lunchtime. Soft, white natural light pours in through the large windows, with bright outdoor greenery faintly visible outside. Rather than harsh direct sunlight, diffuse light filtered through sheer curtains or window panes creates a light, airy warmth throughout the room.
+
+[Character Setting]
+A clearly adult Japanese woman around 20 to 28 years old. Soft, well-proportioned adult female facial features, with somewhat large dark-irised eyes, natural eyebrows, healthy-toned lips, and slightly rounded cheeks. Soft wavy hair reaching just below the shoulders in dark brown, with natural wisps of loose hair around her face. Her light ochre-toned skin shows visible pores, fine subtle shading, and a natural, healthy flush.
+Delicate shoulders, arms, and legs, paired with a slender waist and feminine curves that harmonize into a naturally glamorous physique. Her bust has a clearly large, full volume, yet without unnatural gigantism or rigid spherical shapes; it is rendered with soft dimensionality that settles naturally with her seated posture, the lingerie's support, and gravity. Her hips also carry a natural roundness in harmony with her entire body.
+
+[Costume & Accessories]
+Refined bra and panty set reminiscent of high-end Japanese lingerie, based in milky pink. Over a pale pink base fabric, fine light rose-toned floral embroidery and delicate scalloped lace are layered, with a small decorative ribbon placed at the center gore. Sheerness is subtle and reserved, prioritizing elegance and rich material texture.
+The bra naturally supports her full bust with realistic cup widths and straps, avoiding forced push-up or unnatural digging into the skin. The panties also have a realistic fit that smoothly follows the lines of her hips. Accessories are kept minimal, limited to small stud earrings, so as not to distract from the lingerie and her expression.
+
+[Pose, Movement, & Gaze]
+The woman sits shallowly on the chair in front of the round table, facing the table with her torso while leaning slightly forward toward the strawberry cake. Her weight is naturally distributed across both sit bones, and both legs are casually aligned and angled diagonally forward. Her right hand reaches near the table to pick up a fork, while her left hand rests lightly on the edge of the table or on her lap rather than over her chest.
+Her gaze is directed downward at the strawberry cake in front of her, not at the camera. By capturing the precise split second just after the cake is served and before she begins eating, it evokes a natural narrative rather than a static pose. Her body is not excessively arched, nor is her chest intentionally thrust outward.
+
+[Expression & Emotion]
+The moment she feels spontaneous joy upon seeing a cake even more adorable than she expected. With her eyes focused on the cake, the area around her eyes softens gently, her cheeks lift slightly, and a subtle smile appears at the corners of her mouth. Not a wide laugh, but a slightly shy, natural delight, as if thinking "this looks so delicious" to herself.
+Not a smile performed for the camera, but an unguarded expression slipping out because she is genuinely captivated by the cake. Eyebrows, cheeks, and lips move together in gentle harmony, preventing any stiff, forced smile.
+
+[Composition & Camera]
+A 4:5 vertical portrait composition suited for an X (Twitter) post. An above-the-knee composition naturally framing from the crown of her head down to near her mid-thighs, positioning the person slightly toward the right of the frame and the table with the cake toward the lower left. The viewer's gaze is guided along a triangle formed by her face, lingerie, and cake, while the cafe setting in the background is shown in moderation.
+The camera height is roughly level with the seated subject's chest to face area, shot from a slightly off-center front-diagonal angle at a slight distance. Assuming a natural angle of view from standard to short telephoto (around 50–70mm), avoiding wide-angle distortions that warp the body. The background is softly blurred while preserving enough recognizable shapes of the furniture and windows to clearly indicate a hotel cafe.
+
+[Lighting, Color, Texture, & Mood]
+Soft natural light entering from the large window on the left side of the frame serves as the key light, gently illuminating her face, shoulders, bust, and the surface of the embroidery. On the opposite side, faint reflected light from the interior walls and table fills the shadows without letting them turn pitch-black, retaining volume and depth. The color temperature leans neutral, characteristic of a spring daytime without being overly warm, orchestrated around milky pink, cream, and pale wood tones.
+The skin retains subtle shading and a natural flush, avoiding excessive skin-smoothing filters. The hair shows individual strand flow and soft sheen, the lingerie exhibits the fine tactile relief of lace and embroidery, the table displays the authentic texture of stone or wood, and the ceramic teacup possesses a muted luster. The overall ambiance is sweet and lovely, yet never childish, conveying the refined happiness found in an adult woman's daily life.
+
+[Quality & Negative Elements]
+Prioritizing high-resolution photorealistic rendering, natural human anatomy, realistic garment construction, and consistent lighting and perspective. Avoid subjects appearing underage, overly juvenile facial features, unnatural limbs or fingers, extra fingers, missing fingers, fused fingers, unnatural joints or bodily twists, and confusion between left and right hands.
+Avoid wardrobe malfunctions, melting of fabric into flesh, unnatural skin-digging or floating garments, unintended exposure, extreme wide-angle distortion, and excessive airbrushing. While maintaining a naturally full bust volume, avoid gigantism, rigid spherical shapes, exaggerated push-ups, and gravity-defying forms. Do not include text, logos, watermarks, or UI overlays anywhere within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098911460172964289"></a>
 
