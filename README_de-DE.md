@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**155** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**156** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1918,6 +1918,34 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 ## Illustration
 
+<a name="prompt-2098955280256209249"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Plakat / Flyer · Illustration · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098955280256209249-1.png" alt="Bild 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Bild 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Bild 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2098677881375236337"></a>
 
 ### Prompt für Kostüm-Illustrationen zum Thema Lehrerin \(Rüschenbluse, Bleistiftrock, Zeigestock usw.\).
@@ -2774,13 +2802,13 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2098975010832658829"></a>
 
-### Übersetzung läuft
+### Straßenporträt einer Frau in Lederjacke mit einem Kaffeebecher im Freien aus der Vogelperspektive.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2098975010832658829)
 
 Porträt / Selfie · Charakter · Essen / Trinken · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Straßenporträt einer Frau in Lederjacke mit einem Kaffeebecher im Freien aus der Vogelperspektive.
 
 <img src="images/2098975010832658829-1.jpg" alt="Bild 1" width="480" />
 
@@ -2789,7 +2817,9 @@ Porträt / Selfie · Charakter · Essen / Trinken · Stadtbild / Straße · Ver�
 **Prompt**
 
 ```text
-Übersetzung läuft
+**Erstelle ein Porträt, ohne die Gesichtszüge zu verändern.** Fotorealistisches Straßenporträt von oben (hoher Winkel), warmer Herbsttag. Eine junge Frau sitzt auf einer Holzbank an einem Straßentisch und schaut in die Kamera. Das Haar ist zu einem tiefen Dutt gekämmt; große goldene Ohrringe, zarte Armbänder und eine Uhr, gepflegte Maniküre, eckige dunkelbraune Nägel. Sie trägt eine voluminöse dunkelbraune Lederjacke im Zartbitter-Ton, darunter ein schlichtes Basic-Top und eine weite weiße Jeans. In der Hand hält sie einen Einweg-Latte-Becher mit Deckel und schwarzem Strohhalm, der Strohhalm an ihren Lippen; neben ihr steht eine große, stilvolle dunkelbraune Tote-Bag mit goldenen Beschlägen.
+
+**Hintergrund:** Asphalt mit verstreuten gelben Blättern, ein Kieselbereich, der Rand eines Holztisches im Bokeh. Das Make-up ist makellos, die Lippen pudrig braun. Weiches natürliches Licht, offener Schatten, warme reflektierte Glanzlichter auf der Haut und der Lederjacke. Bildausschnitt auf Brusthöhe/Halbfigur, leichte dynamische Neigung, Blick zur Kamera, die Hand mit dem Becher näher am Objektiv. Optik 28–35 mm, geringe Schärfentiefe, Fokus auf Augen und Becher, weiches Bokeh. Farbkorrektur: warme / herbstliche Farbpalette (Brauntöne, Beigetöne, Cremetöne), moderater Kontrast, saubere natürliche Töne, feines Filmkorn. Atmosphäre: lebendiger Lifestyle-Street-Look, Gemütlichkeit, Spontaneität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

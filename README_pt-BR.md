@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**155** Prompts · Última adição: **2026-09-13**
+**156** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1935,6 +1935,34 @@ Luffy faz carinho na cabeça de Anya com ternura, Anya se joga em seus braços, 
 
 ## Ilustração
 
+<a name="prompt-2098955280256209249"></a>
+
+### Tradução em andamento
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Pôster / Flyer · Ilustração · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2098955280256209249-1.png" alt="Imagem 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Imagem 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Imagem 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098677881375236337"></a>
 
 ### Prompt para ilustração de figurino temático de professora \(blusa com babados, saia lápis, ponteiro, etc.\).
@@ -2791,13 +2819,13 @@ Tradução em andamento
 
 <a name="prompt-2098975010832658829"></a>
 
-### Tradução em andamento
+### Retrato de rua em ângulo alto de uma mulher de jaqueta de couro segurando um copo de café ao ar livre.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098975010832658829)
 
 Retrato / Selfie · Personagem · Alimentos / Bebidas · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato de rua em ângulo alto de uma mulher de jaqueta de couro segurando um copo de café ao ar livre.
 
 <img src="images/2098975010832658829-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2806,7 +2834,9 @@ Retrato / Selfie · Personagem · Alimentos / Bebidas · Paisagem Urbana / Rua �
 **Prompt**
 
 ```text
-Tradução em andamento
+**Crie um retrato sem alterar os traços faciais.** Retrato de rua fotorrealista visto de cima (ângulo alto), dia quente de outono. Uma jovem mulher senta-se em um banco de madeira junto a uma mesa de calçada e olha para a câmera. Cabelo preso em um coque baixo; brincos grandes dourados, pulseiras finas e um relógio, manicure impecável, unhas quadradas marrom-escuro. Ela veste uma jaqueta de couro volumosa cor de chocolate amargo, uma blusa básica por baixo e jeans brancos soltos. Em sua mão está um copo descartável de latte com tampa e canudo preto, o canudo encostado aos lábios; ao lado dela há uma bolsa tote grande e elegante marrom-escuro com ferragens douradas.
+
+**Plano de fundo:** asfalto com folhas amarelas espalhadas, uma área de seixos, a borda de uma mesa de madeira em bokeh. Maquiagem impecável, lábios marrom suave com acabamento aveludado. Luz natural suave, sombra aberta, reflexos quentes iluminando a pele e a jaqueta de couro. Enquadramento na altura do peito/meio-corpo, leve inclinação dinâmica, olhar em direção à câmera, mão segurando o copo mais próxima da lente. Óptica de 28–35 mm, profundidade de campo reduzida, foco nos olhos e no copo, bokeh suave. Correção de cor: paleta quente / de outono (tons de marrom, bege, creme), contraste moderado, tons naturais e limpos, granulado fino de filme. Atmosfera: lifestyle urbano e vibrante, acolhimento, espontaneidade.
 ```
 
 [↑ Voltar às categorias](#catalog)

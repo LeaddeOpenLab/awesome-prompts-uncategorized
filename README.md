@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**155** Prompts · Latest addition: **2026-09-13**
+**156** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2364,6 +2364,34 @@ Comic / Storyboard · Anime / Manga · Published
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2098955280256209249"></a>
+
+### Generate a 3:4 vertical comparison poster, with the upper half retaining the original live-action photo and the lower half reconstructing the subject into a stylized cartoon illustration with bold outlines and flat color blocks.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Poster / Flyer · Illustration · Character · Published
+
+**Summary:** Generate a 3:4 vertical comparison poster, with the upper half retaining the original live-action photo and the lower half reconstructing the subject into a stylized cartoon illustration with bold outlines and flat color blocks.
+
+<img src="images/2098955280256209249-1.png" alt="Image 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Image 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Image 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a standalone 3:4 vertical top-and-bottom comparison poster. The upper half completely preserves the real subject, pose, colors, clothing or fur color, props, environment, and spatial relationships of the input photo, without cartoonization and without altering the composition. Separate the two halves in the middle with a clean, straight horizontal white line.\n\nThe lower half redesigns the same subject into a cartoon persona with a distinct character feel: bold dark outlines, flat color blocks, a simplified and warm scene background, an exaggerated yet clear expression, large and expressive eyes, and moderately rounded or slightly goofy body proportions. Extract character traits based on the original subject, transforming clothing, poses, props, animal characteristics, or environmental elements into character design settings, making the lower half look like a cartoon character with personality rather than a generic filter or simple line tracing.\n\nMust retain the original subject's identifying features, action relationships, primary colors, and key props; the lower half should have a relaxed, playful, slightly dramatic character vibe, without turning into a specific animation IP, anime character, or pre-existing mascot. Do not add extraneous people, animals, or scenes. No text, subtitles, titles, corner badges, logos, watermarks, or photo collages.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098677881375236337"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**155** Prompts · Dernier ajout: **2026-09-13**
+**156** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1918,6 +1918,34 @@ Luffy caresse tendrement la tête d'Anya, Anya se jette dans ses bras, entourés
 
 ## Illustration
 
+<a name="prompt-2098955280256209249"></a>
+
+### Traduction en cours
+
+Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Affiche / Flyer · Illustration · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098955280256209249-1.png" alt="Image 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Image 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Image 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2098677881375236337"></a>
 
 ### Prompt pour illustration de tenue sur le thème de l'enseignante \(chemisier à volants, jupe crayon, baguette d'enseignant, etc.\).
@@ -2774,13 +2802,13 @@ Traduction en cours
 
 <a name="prompt-2098975010832658829"></a>
 
-### Traduction en cours
+### Portrait de rue en plongée d'une femme en veste de cuir tenant une tasse de café en extérieur.
 
 Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2098975010832658829)
 
 Portrait / Selfie · Personnage · Alimentation / Boissons · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de rue en plongée d'une femme en veste de cuir tenant une tasse de café en extérieur.
 
 <img src="images/2098975010832658829-1.jpg" alt="Image 1" width="480" />
 
@@ -2789,7 +2817,9 @@ Portrait / Selfie · Personnage · Alimentation / Boissons · Paysage urbain / R
 **Consigne**
 
 ```text
-Traduction en cours
+**Créez un portrait sans modifier les traits du visage.** Portrait de rue photoréaliste en plongée (angle élevé), chaude journée d'automne. Une jeune femme est assise sur un banc en bois à une table en terrasse et regarde l'objectif. Cheveux coiffés en chignon bas ; grandes boucles d'oreilles dorées, fins bracelets et une montre, manucure soignée, ongles carrés marron foncé. Elle porte une volumineuse veste en cuir chocolat noir, un haut basique en dessous et un jean blanc ample. Dans sa main se trouve un gobelet jetable de latte avec couvercle et paille noire, la paille à ses lèvres ; à côté d'elle se tient un grand cabas marron foncé très élégant aux finitions dorées.
+
+**Arrière-plan :** asphalte parsemé de feuilles jaunes, une zone de galets, le bord d'une table en bois avec un flou de bokeh. Maquillage impeccable, lèvres marron poudré. Lumière naturelle douce, ombre ouverte, reflets chauds sur la peau et la veste en cuir. Cadrage poitrine/plan moyen, légère inclinaison dynamique, regard vers l'objectif, main avec le gobelet plus proche de la lentille. Optique 28–35 mm, faible profondeur de champ, mise au point sur les yeux et le gobelet, bokeh doux. Étalonnage des couleurs : palette chaude / automnale (bruns, beiges, crèmes), contraste modéré, tons naturels nets, grain de film subtil. Atmosphère : style de vie urbain vivant, convivialité, spontanéité.
 ```
 
 [↑ Retour aux catégories](#catalog)

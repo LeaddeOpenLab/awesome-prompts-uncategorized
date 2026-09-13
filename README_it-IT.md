@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**155** Prompt · Ultima aggiunta: **2026-09-13**
+**156** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1918,6 +1918,34 @@ Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia,
 
 ## Illustrazione
 
+<a name="prompt-2098955280256209249"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Poster / Volantino · Illustrazione · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098955280256209249-1.png" alt="Immagine 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Immagine 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Immagine 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098677881375236337"></a>
 
 ### Prompt per illustrazioni di abiti a tema insegnante \(camicetta con volant, gonna a tubino, bacchetta da lavagna, ecc.\).
@@ -2774,13 +2802,13 @@ Traduzione in corso
 
 <a name="prompt-2098975010832658829"></a>
 
-### Traduzione in corso
+### Ritratto street dall'alto di una donna con giacca di pelle che tiene una tazza di caffè all'aperto.
 
 Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2098975010832658829)
 
 Ritratto / Selfie · Personaggio · Cibo / Bevande · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto street dall'alto di una donna con giacca di pelle che tiene una tazza di caffè all'aperto.
 
 <img src="images/2098975010832658829-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2789,7 +2817,9 @@ Ritratto / Selfie · Personaggio · Cibo / Bevande · Paesaggio urbano / Strada 
 **Prompt**
 
 ```text
-Traduzione in corso
+**Crea un ritratto senza modificare i tratti del viso.** Ritratto street fotorealistico dall'alto (angolo elevato), calda giornata autunnale. Una giovane donna siede su una panca di legno a un tavolino all'aperto e guarda verso l'obiettivo. Capelli raccolti in uno chignon basso; grandi orecchini d'oro, bracciali sottili e un orologio, manicure curata, unghie squadrate marrone scuro. Indossa una voluminosa giacca di pelle color cioccolato fondente, un top basic sotto e jeans bianchi morbidi. Nella mano ha un bicchiere da asporto per latte con coperchio e cannuccia nera, con la cannuccia alle labbra; accanto a lei c'è una grande e raffinata borsa tote marrone scuro con dettagli in metallo dorato.
+
+**Sfondo:** asfalto con foglie gialle sparse, una zona di ciottoli, il bordo di un tavolo di legno sfocato nel bokeh. Trucco impeccabile, labbra color marrone cipriato. Luce naturale morbida, ombra aperta, caldi riflessi luminosi sulla pelle e sulla giacca di pelle. Inquadratura a mezzo busto/all'altezza del petto, leggera inclinazione dinamica, sguardo verso l'obiettivo, mano con il bicchiere più vicina alla lente. Ottica 28–35 mm, ridotta profondità di campo, messa a fuoco su occhi e bicchiere, morbido bokeh. Color grading: palette calda / autunnale (marroni, beige, crema), contrasto moderato, tonalità naturali e pulite, grana della pellicola sottile. Atmosfera: vivace street lifestyle, calore, spontaneità.
 ```
 
 [↑ Torna alle categorie](#catalog)

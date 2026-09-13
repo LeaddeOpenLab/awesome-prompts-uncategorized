@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**155** Prompt · Son eklenen: **2026-09-13**
+**156** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1935,6 +1935,34 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 ## İllüstrasyon
 
+<a name="prompt-2098955280256209249"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Poster / El İlanı · İllüstrasyon · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098955280256209249-1.png" alt="Görsel 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Görsel 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Görsel 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2098677881375236337"></a>
 
 ### Öğretmen temalı kostüm çizimi için komut \(fırfırlı bluz, kalem etek, işaret çubuğu vb.\).
@@ -2791,13 +2819,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098975010832658829"></a>
 
-### Çeviri sürüyor
+### Açık havada elinde kahve bardağı tutan deri ceketli bir kadının yüksek açılı sokak portresi.
 
 Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2098975010832658829)
 
 Portre / Selfie · Karakter · Yiyecek / İçecek · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Açık havada elinde kahve bardağı tutan deri ceketli bir kadının yüksek açılı sokak portresi.
 
 <img src="images/2098975010832658829-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2806,7 +2834,9 @@ Portre / Selfie · Karakter · Yiyecek / İçecek · Şehir Manzarası / Sokak �
 **İstem**
 
 ```text
-Çeviri sürüyor
+**Yüz hatlarını değiştirmeden bir portre oluşturun.** Yukarıdan (yüksek açı) çekilmiş fotogerçekçi sokak portresi, ılık bir sonbahar günü. Genç bir kadın sokaktaki bir masada ahşap bir bankta oturuyor ve kameraya bakıyor. Saçları alçak bir topuz şeklinde taranmış; büyük altın küpeler, ince bilezikler ve bir saat, bakımlı manikür, kare şeklinde koyu kahverengi tırnaklar. Üzerinde hacimli, bitter çikolata renginde deri bir ceket, altında basic bir üst ve bol beyaz kot pantolon var. Elinde kapaklı ve siyah pipetli tek kullanımlık bir latte bardağı var, pipet dudaklarına değiyor; yanında altın rengi metal detaylara sahip büyük, şık, koyu kahverengi bir tote çanta duruyor.
+
+**Arka plan:** etrafa dağılmış sarı yaprakların olduğu asfalt, çakıllı bir alan, bokeh etkisinde ahşap bir masanın kenarı. Kusursuz makyaj, pudramsı kahverengi dudaklar. Yumuşak doğal ışık, açık gölge, ciltte ve deri cekette sıcak yansıyan parıltılar. Kadraj göğüs/yarım boy hizasında, hafif dinamik eğim, bakışlar kameraya dönük, bardağı tutan el lense daha yakın. 28–35 mm optik, sığ alan derinliği, gözlere ve bardağa odaklanma, yumuşak bokeh. Renk tonlaması: sıcak / sonbahar paleti (kahverengiler, bejler, kremler), orta kontrast, temiz doğal tonlar, ince film greni. Atmosfer: canlı sokak yaşam tarzı, samimiyet, kendiliğindenlik.
 ```
 
 [↑ Kategorilere dön](#catalog)

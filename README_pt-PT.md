@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**155** Prompts · Adição mais recente: **2026-09-13**
+**156** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1935,6 +1935,34 @@ Luffy afaga com ternura a cabeça de Anya, Anya atira-se para os seus braços, e
 
 ## Ilustração
 
+<a name="prompt-2098955280256209249"></a>
+
+### Tradução em curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Pôster / Folheto · Ilustração · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098955280256209249-1.png" alt="Imagem 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Imagem 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Imagem 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2098677881375236337"></a>
 
 ### Prompt para ilustração de indumentária com tema de professora \(blusa com folhos, saia lápis, ponteiro, etc.\).
@@ -2791,13 +2819,13 @@ Tradução em curso
 
 <a name="prompt-2098975010832658829"></a>
 
-### Tradução em curso
+### Retrato de rua em plano picado de uma mulher com casaco de cabedal a segurar num copo de café no exterior.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2098975010832658829)
 
 Retrato / Selfie · Personagem · Comida / Bebida · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato de rua em plano picado de uma mulher com casaco de cabedal a segurar num copo de café no exterior.
 
 <img src="images/2098975010832658829-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2806,7 +2834,9 @@ Retrato / Selfie · Personagem · Comida / Bebida · Paisagem urbana / Rua · Pu
 **Prompt**
 
 ```text
-Tradução em curso
+**Crie um retrato sem alterar os traços faciais.** Retrato de rua fotorrealista visto de cima (ângulo picado), dia quente de outono. Uma jovem mulher está sentada num banco de madeira junto a uma mesa de esplanada e olha para a câmara. Cabelo apanhado num coque baixo; brincos grandes dourados, pulseiras finas e um relógio, manicura cuidada, unhas quadradas castanho-escuro. Veste um casaco volumoso de cabedal cor de chocolate negro, um top básico por baixo e calças de ganga brancas largas. Na mão segura um copo descartável de latte com tampa e palhinha preta, com a palhinha nos lábios; ao lado dela está uma mala tote grande e elegante em castanho-escuro com ferragens douradas.
+
+**Fundo:** asfalto com folhas amarelas dispersas, uma zona de seixos, o rebordo de uma mesa de madeira em bokeh. Maquilhagem impecável, lábios castanho acetinado. Luz natural suave, sombra aberta, reflexos quentes na pele e no casaco de cabedal. Enquadramento de plano médio/pelo peito, ligeira inclinação dinâmica, olhar virado para a câmara, mão com o copo mais próxima da lente. Óptica de 28–35 mm, profundidade de campo reduzida, foco nos olhos e no copo, bokeh suave. Gradação de cor: paleta quente / outonal (castanhos, beges, cremes), contraste moderado, tons naturais límpidos, grão fino de película. Atmosfera: estilo de vida urbano e vibrante, conforto, espontaneidade.
 ```
 
 [↑ Voltar às categorias](#catalog)

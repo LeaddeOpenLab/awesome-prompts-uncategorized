@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**155** Prompts · Última incorporación: **2026-09-13**
+**156** Prompts · Última incorporación: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1918,6 +1918,34 @@ Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodead
 
 ## Ilustración
 
+<a name="prompt-2098955280256209249"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Póster / Volante · Ilustración · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2098955280256209249-1.png" alt="Imagen 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Imagen 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Imagen 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2098677881375236337"></a>
 
 ### Prompt para ilustración de atuendo con temática de maestra \(blusa con volantes, falda lápiz, puntero, etc.\).
@@ -2774,13 +2802,13 @@ Traducción en curso
 
 <a name="prompt-2098975010832658829"></a>
 
-### Traducción en curso
+### Retrato callejero en ángulo picado de una mujer con chamarra de cuero sosteniendo una taza de café al aire libre.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2098975010832658829)
 
 Retrato / Selfie · Personaje · Comida y bebida · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato callejero en ángulo picado de una mujer con chamarra de cuero sosteniendo una taza de café al aire libre.
 
 <img src="images/2098975010832658829-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2789,7 +2817,9 @@ Retrato / Selfie · Personaje · Comida y bebida · Paisaje urbano / Calle · Pu
 **Prompt**
 
 ```text
-Traducción en curso
+**Crea un retrato sin cambiar los rasgos faciales.** Retrato callejero fotorrealista desde arriba (ángulo picado), cálido día de otoño. Una mujer joven está sentada en un banco de madera junto a una mesa al aire libre y mira a la cámara. Cabello peinado en un moño bajo; aretes dorados grandes, pulseras delgadas y un reloj, manicura prolija, uñas cuadradas de color marrón oscuro. Viste una voluminosa chamarra de cuero color chocolate oscuro, una camiseta básica debajo y jeans blancos holgados. En su mano sostiene un vaso desechable de latte con tapa y un popote negro, con el popote en sus labios; junto a ella hay una bolsa tote grande y elegante de color marrón oscuro con herrajes dorados.
+
+**Fondo:** asfalto con hojas amarillas esparcidas, una zona de guijarros, el borde de una mesa de madera en bokeh. El maquillaje es impecable, labios en tono café empolvado. Luz natural suave, sombra abierta, reflejos cálidos en la piel y la chamarra de cuero. Encuadre de pecho/plano medio corto, ligera inclinación dinámica, mirada hacia la cámara, la mano con el vaso más cerca del objetivo. Óptica de 28–35 mm, profundidad de campo reducida, enfoque en los ojos y el vaso, bokeh suave. Corrección de color: paleta cálida / otoñal (tonos marrones, beige, crema), contraste moderado, tonos naturales limpios, grano fino de película. Atmósfera: estilo de vida urbano y animado, calidez, espontaneidad.
 ```
 
 [↑ Volver a categorías](#catalog)

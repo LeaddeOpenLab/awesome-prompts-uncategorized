@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**155** Prompt · Bổ sung mới nhất: **2026-09-13**
+**156** Prompt · Bổ sung mới nhất: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1953,6 +1953,34 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 ## Minh họa
 
+<a name="prompt-2098955280256209249"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098955280256209249)
+
+Áp phích / Tờ rơi · Minh họa · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2098955280256209249-1.png" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2098955280256209249-2.png" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2098955280256209249-3.png" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2098955280256209249-4.png" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2098677881375236337"></a>
 
 ### Lời nhắc hình minh họa trang phục theo chủ đề giáo viên \(áo blouse xếp bèo, váy bút chì, que chỉ bảng, v.v.\).
@@ -2819,13 +2847,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098975010832658829"></a>
 
-### Đang dịch
+### Chân dung đường phố góc cao của một phụ nữ mặc áo khoác da cầm ly cà phê ngoài trời.
 
 Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2098975010832658829)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung đường phố góc cao của một phụ nữ mặc áo khoác da cầm ly cà phê ngoài trời.
 
 <img src="images/2098975010832658829-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2834,7 +2862,9 @@ Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống ·
 **Câu lệnh**
 
 ```text
-Đang dịch
+**Tạo một bức chân dung mà không làm thay đổi các đặc điểm trên khuôn mặt.** Chân dung đường phố chân thực chụp từ trên cao (góc cao), một ngày mùa thu ấm áp. Một phụ nữ trẻ ngồi trên băng ghế gỗ cạnh chiếc bàn ngoài phố và nhìn vào máy ảnh. Tóc búi thấp; đeo hoa tai vàng bản lớn, vòng tay mảnh và đồng hồ, móng tay vuông màu nâu sẫm được chăm sóc gọn gàng. Cô ấy mặc một chiếc áo khoác da màu sô-cô-la đen dáng rộng, bên trong là áo thun cơ bản và quần jean trắng ống rộng. Trên tay cô là một ly latte dùng một lần có nắp và ống hút màu đen, ống hút chạm vào môi; cạnh cô là một chiếc túi tote lớn sành điệu màu nâu sẫm với các chi tiết kim loại màu vàng kim.
+
+**Bối cảnh:** mặt đường nhựa vương vãi những chiếc lá vàng, một khu vực rải sỏi, góc bàn gỗ hiệu ứng bokeh. Lớp trang điểm hoàn hảo, môi màu nâu lì dạng bột. Ánh sáng tự nhiên mềm mại, trong bóng râm thoáng, ánh sáng phản chiếu ấm áp trên da và áo khoác da. Khung hình ngang ngực/nửa người, góc nghiêng năng động nhẹ, ánh mắt hướng về máy ảnh, tay cầm ly hướng gần ống kính hơn. Ống kính 28–35 mm, độ sâu trường ảnh nông, lấy nét vào mắt và ly cà phê, hiệu ứng bokeh mềm mại. Chỉnh màu: tông màu ấm / bảng màu mùa thu (nâu, be, kem), độ tương phản vừa phải, tông màu tự nhiên trong trẻo, hạt phim mịn. Không khí: phong cách đường phố sống động, ấm cúng, tự nhiên ngẫu hứng.
 ```
 
 [↑ Về danh mục](#catalog)
