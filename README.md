@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**157** Prompts · Latest addition: **2026-09-13**
+**159** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,40 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099001599767318570"></a>
+
+### Candid street-style portrait of a young woman outside a street-side bookstore on an evening after rainfall, featuring realistic textures and rainy night reflections.
+
+Author：[@selinatasnim1](https://x.com/selinatasnim1) · [Source](https://x.com/selinatasnim1/status/2099001599767318570)
+
+Photography · Portrait / Selfie · Character · Cityscape / Street · Published
+
+**Summary:** Candid street-style portrait of a young woman outside a street-side bookstore on an evening after rainfall, featuring realistic textures and rainy night reflections.
+
+<img src="images/2099001599767318570-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic candid street-style photograph of a young woman walking alone through a lively urban street just after rainfall in the evening. She is standing beneath the soft glow of a small street-side bookstore, surrounded by wet pavement, glowing shop signs, parked bicycles, scattered umbrellas, and reflections of colorful city lights on the ground.
+
+She has long, naturally straight dark-brown hair with slightly damp loose strands resting around her shoulders. Her face has soft youthful features, natural skin texture, expressive dark-brown eyes, subtle makeup, and a calm, charming smile. Her expression feels spontaneous and genuine, as if a friend unexpectedly captured her during an evening walk.
+
+She is wearing a cream-colored oversized knit sweater tucked slightly into relaxed dark-blue wide-leg trousers, paired with simple white sneakers. A small brown crossbody bag rests naturally across her body. She is holding a closed transparent umbrella loosely in one hand while the other hand gently adjusts a strand of hair near her face.
+
+Instead of looking directly at the camera, she is turning her head slightly toward it while continuing to walk, creating a natural movement-filled candid moment. Her posture should feel relaxed and effortless rather than posed.
+
+Soft street lamps and warm storefront lighting illuminate her face and hair from the side, while the cool blue tones of the rainy evening surround the background. Wet asphalt creates realistic reflections of amber, blue, and red lights. The bookstore behind her has large glass windows filled with books, warm interior lighting, wooden shelves, and a cozy inviting atmosphere. A few distant pedestrians carrying umbrellas appear softly blurred in the background.
+
+Authentic modern smartphone photography, realistic candid travel photography, natural skin pores and texture, individual hair strands, believable fabric texture, realistic wet pavement and reflections, anatomically correct hands and fingers, natural body proportions, realistic facial structure, subtle motion in the hair and clothing, cinematic depth of field, soft atmospheric haze, balanced warm and cool lighting, high dynamic range, slight smartphone lens imperfections, realistic shadows, natural colors, understated cinematic mood, highly detailed photorealism, spontaneous social-media photography aesthetic, vertical 4:5 composition.
+
+Negative prompt: cartoon, anime, illustration, CGI, 3D render, plastic skin, excessive beauty retouching, artificial face, unrealistic body proportions, distorted hands, extra fingers, malformed fingers, duplicate limbs, unnatural hair, fake fabric texture, oversaturated colors, excessive HDR, unrealistic reflections, warped buildings, distorted background, excessive blur, artificial lighting, text, logo, watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1628,6 +1662,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099000682854625438"></a>
+
+### Ocean fantasy cinematic motion prompt, featuring wing-like flowing sea foam, floating light particles, and a close-up of a woman opening her eyes.
+
+Author：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Source](https://x.com/_Biy_a_/status/2099000682854625438)
+
+Cinematic / Film Still · Character · Landscape / Nature · Published
+
+**Summary:** Ocean fantasy cinematic motion prompt, featuring wing-like flowing sea foam, floating light particles, and a close-up of a woman opening her eyes.
+
+<img src="covers/2099000682854625438.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Transform the image into a magical cinematic ocean fantasy Gentle waves ripple around the woman sea foam softly moves like flowing wings her hair and white dress drift naturally in the ocean breeze Camera slowly glides from above toward her sunlight sparkles across the turquoise water then she gently opens her eyes as glowing particles float around her Dreamy elegant ethereal photorealistic smooth slow motion cinematic lighting 9:16 4K 10 seconds no text
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 

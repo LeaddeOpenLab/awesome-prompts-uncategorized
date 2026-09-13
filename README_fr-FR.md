@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**157** Prompts · Dernier ajout: **2026-09-13**
+**159** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099001599767318570"></a>
+
+### Traduction en cours
+
+Auteur：[@selinatasnim1](https://x.com/selinatasnim1) · [Publication originale](https://x.com/selinatasnim1/status/2099001599767318570)
+
+Photographie · Portrait / Selfie · Personnage · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099001599767318570-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1174,6 +1196,28 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2099000682854625438"></a>
+
+### Traduction en cours
+
+Auteur：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Publication originale](https://x.com/_Biy_a_/status/2099000682854625438)
+
+Image cinématographique / Photogramme de film · Personnage · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099000682854625438.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 

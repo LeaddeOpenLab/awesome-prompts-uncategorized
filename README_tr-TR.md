@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**157** Prompt · Son eklenen: **2026-09-13**
+**159** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099001599767318570"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@selinatasnim1](https://x.com/selinatasnim1) · [Orijinal gönderi](https://x.com/selinatasnim1/status/2099001599767318570)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099001599767318570-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1188,6 +1210,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2099000682854625438"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Orijinal gönderi](https://x.com/_Biy_a_/status/2099000682854625438)
+
+Sinematik / Film Karesi · Karakter · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099000682854625438.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 

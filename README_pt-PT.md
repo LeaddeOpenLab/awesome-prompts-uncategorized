@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**157** Prompts · Adição mais recente: **2026-09-13**
+**159** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099001599767318570"></a>
+
+### Tradução em curso
+
+Autor：[@selinatasnim1](https://x.com/selinatasnim1) · [Publicação original](https://x.com/selinatasnim1/status/2099001599767318570)
+
+Fotografia · Retrato / Selfie · Personagem · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099001599767318570-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1188,6 +1210,28 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 <a name="category-cinematic-film-still"></a>
 
 ## Cena de Cinema / Fotograma
+
+<a name="prompt-2099000682854625438"></a>
+
+### Tradução em curso
+
+Autor：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Publicação original](https://x.com/_Biy_a_/status/2099000682854625438)
+
+Cena de Cinema / Fotograma · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099000682854625438.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 

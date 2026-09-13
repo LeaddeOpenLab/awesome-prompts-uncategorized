@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**157** Prompts · Zuletzt hinzugefügt: **2026-09-13**
+**159** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2099001599767318570"></a>
+
+### Übersetzung läuft
+
+Autor：[@selinatasnim1](https://x.com/selinatasnim1) · [Originalbeitrag](https://x.com/selinatasnim1/status/2099001599767318570)
+
+Fotografie · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099001599767318570-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1174,6 +1196,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 <a name="category-cinematic-film-still"></a>
 
 ## Kinematisch / Filmstill
+
+<a name="prompt-2099000682854625438"></a>
+
+### Übersetzung läuft
+
+Autor：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Originalbeitrag](https://x.com/_Biy_a_/status/2099000682854625438)
+
+Kinematisch / Filmstill · Charakter · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099000682854625438.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 

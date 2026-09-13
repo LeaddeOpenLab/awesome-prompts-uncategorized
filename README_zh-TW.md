@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**157** 筆內容 · 最新收錄: **2026-09-13**
+**159** 筆內容 · 最新收錄: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2099001599767318570"></a>
+
+### 翻譯中
+
+作者：[@selinatasnim1](https://x.com/selinatasnim1) · [查看 X 原帖](https://x.com/selinatasnim1/status/2099001599767318570)
+
+攝影 · 人像 / 自拍 · 角色 · 城市景觀 / 街道 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099001599767318570-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1205,6 +1227,28 @@ CGI毛髮、
 <a name="category-cinematic-film-still"></a>
 
 ## 電影感 / 電影劇照
+
+<a name="prompt-2099000682854625438"></a>
+
+### 翻譯中
+
+作者：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [查看 X 原帖](https://x.com/_Biy_a_/status/2099000682854625438)
+
+電影感 / 電影劇照 · 角色 · 風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2099000682854625438.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 

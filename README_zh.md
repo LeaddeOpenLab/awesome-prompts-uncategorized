@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**157** 条内容 · 最新收录: **2026-09-13**
+**159** 条内容 · 最新收录: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2099001599767318570"></a>
+
+### 翻译中
+
+作者：[@selinatasnim1](https://x.com/selinatasnim1) · [查看 X 原帖](https://x.com/selinatasnim1/status/2099001599767318570)
+
+摄影 · 人像 / 自拍 · 角色 · 城市风光 / 街道 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099001599767318570-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1205,6 +1227,28 @@ CGI毛发、
 <a name="category-cinematic-film-still"></a>
 
 ## 电影 / 电影剧照
+
+<a name="prompt-2099000682854625438"></a>
+
+### 翻译中
+
+作者：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [查看 X 原帖](https://x.com/_Biy_a_/status/2099000682854625438)
+
+电影 / 电影剧照 · 角色 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2099000682854625438.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 

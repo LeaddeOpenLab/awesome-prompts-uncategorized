@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**157** Prompt · Ultima aggiunta: **2026-09-13**
+**159** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099001599767318570"></a>
+
+### Traduzione in corso
+
+Autore：[@selinatasnim1](https://x.com/selinatasnim1) · [Post originale](https://x.com/selinatasnim1/status/2099001599767318570)
+
+Fotografia · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099001599767318570-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1174,6 +1196,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2099000682854625438"></a>
+
+### Traduzione in corso
+
+Autore：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Post originale](https://x.com/_Biy_a_/status/2099000682854625438)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099000682854625438.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**157** Prompts · Última adição: **2026-09-13**
+**159** Prompts · Última adição: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099001599767318570"></a>
+
+### Tradução em andamento
+
+Autor：[@selinatasnim1](https://x.com/selinatasnim1) · [Publicação original](https://x.com/selinatasnim1/status/2099001599767318570)
+
+Fotografia · Retrato / Selfie · Personagem · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099001599767318570-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098913084849242481"></a>
 
@@ -1188,6 +1210,28 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematográfico / Imagem de Filme
+
+<a name="prompt-2099000682854625438"></a>
+
+### Tradução em andamento
+
+Autor：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Publicação original](https://x.com/_Biy_a_/status/2099000682854625438)
+
+Cinematográfico / Imagem de Filme · Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099000682854625438.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098978626637308214"></a>
 
