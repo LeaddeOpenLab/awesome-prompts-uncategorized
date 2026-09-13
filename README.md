@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**140** Prompts · Latest addition: **2026-09-13**
+**141** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,68 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098911460172964289"></a>
+
+### Photorealistic snapshot prompt of a Japanese woman in a sax-blue slip dress choosing pastries in a warm early-afternoon bakery.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098911460172964289)
+
+Photography · Character · Fashion Item · Published
+
+**Summary:** Photorealistic snapshot prompt of a Japanese woman in a sax-blue slip dress choosing pastries in a warm early-afternoon bakery.
+
+<img src="images/2098911460172964289-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Indecisive Over Freshly Baked Bread | Sun-Dappled Bakery Afternoon 🌟
+
+[Subject & Art Style]
+Depict a single moment of a clearly adult Japanese woman choosing pastries in a small, chic bakery in the early afternoon. Based on photorealism, blending a natural, slice-of-life candid snapshot with the soft photographic expression of a women's fashion magazine.
+Prioritize naturalness—as if casually photographed while shopping rather than striking a deliberate pose. A photograph that compels viewers to pause on an X timeline, harmonizing the warmth of freshly baked bread, the woman's approachable charm, and the coziness of the wood-toned interior in a single frame.
+
+[Location, Background & Setting]
+A peaceful, small-scale neighborhood bakery in the early afternoon. In front of the woman stands a wooden pastry display shelf, neatly lined with varieties of croissants, cream buns, bread rolls, danishes, and more. Wooden trays and small price cards are arranged on the shelves, with paper bags, bread baskets, and packaging supplies placed naturally deeper in the store.
+The walls and fixtures are centered around light oak-toned wood, creating an interior that is modern, clean, and not overly rustic. Large glass doors or windows near the entrance let in the soft brightness of midday beyond. The background remains organized while retaining visual information, creating a space where the protagonist and pastry shelves naturally stand out.
+
+[Season, Time of Day & Weather]
+A mild early afternoon between spring and early summer, around 2:00 PM. Outside, the weather is bright with clear skies or light cloud cover; soft, filtered natural light enters through the windows rather than harsh, direct sunlight.
+The outside air is pleasantly warm without being overly hot—a season where a light camisole slip dress feels natural. The shop carries an atmosphere reminiscent of the warmth of fresh bread, pleasantly blending the crisp outdoor brightness with the warm indoor lighting.
+
+[Character Description]
+A clearly adult Japanese woman aged approximately 20 to 28 years old. Soft, well-proportioned facial features with naturally slightly large eyes, a slender and neat nose bridge, healthy rosy lips, and gentle eyebrows. Skin is light ochre-toned with realistic textures, showing subtle pores and fine shading. Hair is dark brown, falling just past the shoulders in natural waves, with soft stray strands framing her face.
+An elegantly glamorous physique featuring delicate shoulders and limbs, a slender waist, and naturally rounded hips. Her bust has a distinctly large, full, and natural volume, not excessively exaggerated, expressed with soft roundness and realistic weight that conforms to posture and gravity. Prioritize overall body balance and healthy femininity.
+
+[Outfit & Accessories]
+A pale, refreshing sax-blue camisole slip dress. Slender shoulder straps, a moderately open and natural neckline, made of a light, soft cotton-blend or sheer linen-blend fabric. A silhouette that naturally traces the body with a lightly cinched waist and a soft flare from the hips down.
+The garment provides realistic fabric width and tailoring for her full bust, with a natural fit that avoids awkward gaping or extreme tightness. Render fine wrinkles and natural fabric draping that follow her movements. Keep accessories minimal, such as a delicate silver or faint gold necklace; she may carry a small natural-fiber shopping bag over her shoulder.
+
+[Pose, Action & Gaze]
+The woman stands angled about 30 to 40 degrees relative to the bread display, not facing it squarely. A natural standing pose with one foot stepped half a pace forward, carrying slightly more weight on the rear leg. In one hand, she holds a wooden tray horizontally around waist-to-abdomen height; in the other hand, she holds bread tongs.
+A frozen moment where she has paused with tongs slightly raised, undecided between picking a croissant or a cream bun. Her arms are relaxed away from her torso, with relaxed shoulders. While her body remains turned toward the shelf, her face is tilted slightly sideways, directing her gaze down at the pastries rather than at the camera. Avoid unnatural arched backs or extreme torso twisting.
+
+[Facial Expression & Emotion]
+A genuine expression of being slightly torn—"Which one should I get?"—yet clearly enjoying the indecision. Eyebrows slightly drawn together, eyes focused on the pastries she is choosing between. Her mouth is not in a full smile, but in a relaxed, subtle, gentle grin.
+Not a troubled look, but an expression conveying her delight in choosing before appetizing bread. Softness in her cheeks, capturing a genuine, candid moment of everyday emotion during shopping, rather than a forced smile or an intense model pose.
+
+[Composition & Camera]
+A 4:5 vertical portrait composition tailored for X posts. A near full-body framing capturing from the crown of the head down to below the knees or mid-calf, placing the woman toward the left or center of the frame and the pastry shelves expanding on the right. Both the woman and the pastries should be recognizable at a glance, without awkwardly cropping the head, arms, or tray at the frame edges.
+Camera height is at a natural level, roughly between the woman's chest and eye line. Shooting distance is approximately 2 to 3 meters, based on a standard lens around 50mm to avoid extreme wide-angle distortion. A medium depth of field with sharp focus on the woman and the foreground pastries, softly blurring only the deeper shop background to retain environmental context.
+
+[Lighting, Color, Texture & Atmosphere]
+The primary light source is soft natural daylight streaming from the entrance/windows on the back-left or diagonally forward. Light gently wraps around her face, shoulders, arms, and sax-blue fabric, while warm ambient light reflects off the interior wood and walls on the opposite side. Warm ceiling and wall fixtures serve as weak fill lights, preventing shadows from turning pitch black and preserving three-dimensional depth.
+Realistic rosy undertones and delicate shading on the skin, individual hair strands with soft sheen, and the light creasing and matte texture characteristic of thin dress fabric. Realistically rendered bread showing golden browning, flaky layers, powdered sugar, and soft textures, alongside the natural grain of wooden shelves. An overall warm and inviting color palette dominated by warm beige and brown tones, complemented by the refreshing accent of sax blue.
+
+[Quality & Negative Elements]
+High-resolution photorealistic photograph. Prioritize natural human anatomy, lighting, material textures, and perspective as if taken with a real camera. Explicitly depict a mature adult woman; avoid juvenile, underaged appearances or overly childish features.
+Avoid extra limbs or fingers, missing fingers, fused fingers, unnatural joints, confusion between left and right hands, tongs or trays merging into hands, and unnatural body contortions. Avoid broken clothing geometry, clothing digging abnormally into skin, unintended exposure, clothes merging with the body, extreme wide-angle distortion, and over-processed airbrushed skin. Maintain full, natural bust volume without rigid spherical shapes, abnormal push-up effects, or forms that defy gravity. Exclude legible text, logos, watermarks, and UI overlays.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098910538160083087"></a>
 
