@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T00:25:05.307Z",
+  "model": "unknown-image",
+  "prompt": "**Create a photo without changing the facial features.**  \nUltra-realistic lifestyle photo of a girl during an autumn walk.  \nHigh detail of all textures, maximum realism, shot on a modern phone.\n\nMakeup — impeccable, lips in a dusty rose shade. Skin tanned.\n\nScene — the girl stands against a lake, an autumn forest strip, and thick fog.\n\nClothing — she is wearing a cozy oversized sweater, slightly cropped but loose or rolled up at the bottom, in a deep graphite color, which she lifts and adjusts with both hands, head turned to the side.\n\nBottoms — wide, straight blue jeans.\n\nHairstyle — smooth, high ponytail braided into a braid.\n\nAccessories — gold earrings. On her eyes: narrow sunglasses with a thin gold metal frame and brown lenses.\n\nColor correction — warm, calm photo tones, noticeably lowered exposure across the entire frame. Noise like a phone photo and a grain effect.",
+  "promptTranslations": {
+    "en": "**Create a photo without changing the facial features.**  \nUltra-realistic lifestyle photo of a girl during an autumn walk.  \nHigh detail of all textures, maximum realism, shot on a modern phone.\n\nMakeup — impeccable, lips in a dusty rose shade. Skin tanned.\n\nScene — the girl stands against a lake, an autumn forest strip, and thick fog.\n\nClothing — she is wearing a cozy oversized sweater, slightly cropped but loose or rolled up at the bottom, in a deep graphite color, which she lifts and adjusts with both hands, head turned to the side.\n\nBottoms — wide, straight blue jeans.\n\nHairstyle — smooth, high ponytail braided into a braid.\n\nAccessories — gold earrings. On her eyes: narrow sunglasses with a thin gold metal frame and brown lenses.\n\nColor correction — warm, calm photo tones, noticeably lowered exposure across the entire frame. Noise like a phone photo and a grain effect."
+  },
+  "summaryTranslations": {
+    "en": "Ultra-realistic lifestyle portrait of a girl wearing a graphite sweater and blue jeans by a foggy autumn lake."
+  },
+  "translationVersion": 2,
+  "summary": "Ultra-realistic lifestyle portrait of a girl wearing a graphite sweater and blue jeans by a foggy autumn lake.",
+  "summaryEn": "Ultra-realistic lifestyle portrait of a girl wearing a graphite sweater and blue jeans by a foggy autumn lake.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098925727488135307",
+    "canonicalUrl": "https://x.com/oye_samia/status/2098925727488135307",
+    "author": {
+      "username": "oye_samia",
+      "displayName": "Dr. Samia",
+      "profileUrl": "https://x.com/oye_samia"
+    },
+    "publishedAt": "2026-09-13T00:04:24.000Z",
+    "collectedAt": "2026-09-13T00:15:47.006Z",
+    "language": "en",
+    "originalText": "Foggy mornings by the lake hit different.\n\nPrompt: **Create a photo without changing the facial features.**  \nUltra-realistic lifestyle photo of a girl during an autumn walk.  \nHigh detail of all textures, maximum realism, shot on a modern phone.\n\nMakeup — impeccable, lips in a dusty rose shade. Skin tanned.\n\nScene — the girl stands against a lake, an autumn forest strip, and thick fog.\n\nClothing — she is wearing a cozy oversized sweater, slightly cropped but loose or rolled up at the bottom, in a deep graphite color, which she lifts and adjusts with both hands, head turned to the side.\n\nBottoms — wide, straight blue jeans.\n\nHairstyle — smooth, high ponytail braided into a braid.\n\nAccessories — gold earrings. On her eyes: narrow sunglasses with a thin gold metal frame and brown lenses.\n\nColor correction — warm, calm photo tones, noticeably lowered exposure across the entire frame. Noise like a phone photo and a grain effect.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSDhzvfacAATPsO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSDhzvfacAATPsO.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSDh0RGakAABadB.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSDh0RGakAABadB.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 4,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 137
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/oye_samia/status/2098925727488135307",
+  "coverUrl": "https://pbs.twimg.com/media/HSDhzvfacAATPsO.jpg",
+  "coverPath": "images/2098925727488135307-1.jpg",
+  "imagePaths": [
+    "images/2098925727488135307-1.jpg",
+    "images/2098925727488135307-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSDhzvfacAATPsO",
+    "x-image:/media/HSDh0RGakAABadB",
+    "x-post:2098925727488135307"
+  ],
+  "analysis": {
+    "summary": "Ultra-realistic lifestyle portrait of a girl wearing a graphite sweater and blue jeans by a foggy autumn lake.",
+    "summaryEn": "Ultra-realistic lifestyle portrait of a girl wearing a graphite sweater and blue jeans by a foggy autumn lake.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the subject's braided ponytail, narrow sunglasses, graphite oversized sweater, wide jeans, and foggy lake autumn backdrop."
+    },
+    "videoQuality": null,
+    "originalPrompt": "**Create a photo without changing the facial features.**  \nUltra-realistic lifestyle photo of a girl during an autumn walk.  \nHigh detail of all textures, maximum realism, shot on a modern phone.\n\nMakeup — impeccable, lips in a dusty rose shade. Skin tanned.\n\nScene — the girl stands against a lake, an autumn forest strip, and thick fog.\n\nClothing — she is wearing a cozy oversized sweater, slightly cropped but loose or rolled up at the bottom, in a deep graphite color, which she lifts and adjusts with both hands, head turned to the side.\n\nBottoms — wide, straight blue jeans.\n\nHairstyle — smooth, high ponytail braided into a braid.\n\nAccessories — gold earrings. On her eyes: narrow sunglasses with a thin gold metal frame and brown lenses.\n\nColor correction — warm, calm photo tones, noticeably lowered exposure across the entire frame. Noise like a phone photo and a grain effect.",
+    "sourceRange": {
+      "start": 51,
+      "end": 938
+    },
+    "translations": {
+      "zh": "**在不改变面部特征的情况下生成一张照片。**\n秋季漫步中的年轻女子超写实生活照。所有纹理高度细节化，极高真实感，现代手机拍摄风格。\n\n妆容——精致无瑕，干枯玫瑰色唇妆。小麦色肌肤。\n\n场景——女子站在湖畔，背景是秋季树林带和浓雾。\n\n服饰——穿着舒适的深石墨色宽松大版型毛衣，微短款或下摆微卷，她双手提起并调整毛衣，头部微偏向一侧。\n\n下装——宽松直筒蓝色牛仔裤。\n\n发型——利落的高马尾辫。\n\n配饰——金色耳环。佩戴带有细金金属框和棕色镜片的窄框太阳镜。\n\n调色——温暖柔和的色调，整幅画面明显调低曝光。带有手机摄影杂色与颗粒效果。",
+      "en": "**Create a photo without changing the facial features.**  \nUltra-realistic lifestyle photo of a girl during an autumn walk.  \nHigh detail of all textures, maximum realism, shot on a modern phone.\n\nMakeup — impeccable, lips in a dusty rose shade. Skin tanned.\n\nScene — the girl stands against a lake, an autumn forest strip, and thick fog.\n\nClothing — she is wearing a cozy oversized sweater, slightly cropped but loose or rolled up at the bottom, in a deep graphite color, which she lifts and adjusts with both hands, head turned to the side.\n\nBottoms — wide, straight blue jeans.\n\nHairstyle — smooth, high ponytail braided into a braid.\n\nAccessories — gold earrings. On her eyes: narrow sunglasses with a thin gold metal frame and brown lenses.\n\nColor correction — warm, calm photo tones, noticeably lowered exposure across the entire frame. Noise like a phone photo and a grain effect."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "Autumn lifestyle portrait edit by a misty lake preserving facial identity.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
