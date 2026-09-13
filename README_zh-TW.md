@@ -2633,13 +2633,13 @@ FIELD NOTE [編號]
 
 <a name="prompt-2098888285263114380"></a>
 
-### 翻譯中
+### 羅莎莉亞在日落時分與哥吉拉在海灘上唱歌。
 
 作者：[@SeekerJimenez](https://x.com/SeekerJimenez) · [查看 X 原帖](https://x.com/SeekerJimenez/status/2098888285263114380)
 
 風景 / 大自然 · 已推流
 
-**概括:** 翻譯中
+**概括:** 羅莎莉亞在日落時分與哥吉拉在海灘上唱歌。
 
 <img src="images/2098888285263114380-1.jpg" alt="圖片 1" width="480" />
 
@@ -2648,7 +2648,7 @@ FIELD NOTE [編號]
 **提示詞**
 
 ```text
-翻譯中
+歌手羅莎莉亞（Rosalía）在卡萊塔海灘（Playa de la Caleta）日落時分與哥吉拉一同唱歌
 ```
 
 [↑ 返回分類目錄](#catalog)

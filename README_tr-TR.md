@@ -2621,13 +2621,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2098888285263114380"></a>
 
-### Çeviri sürüyor
+### Gün batımında sahilde Godzilla ile şarkı söyleyen Rosalía.
 
 Yazar：[@SeekerJimenez](https://x.com/SeekerJimenez) · [Orijinal gönderi](https://x.com/SeekerJimenez/status/2098888285263114380)
 
 Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gün batımında sahilde Godzilla ile şarkı söyleyen Rosalía.
 
 <img src="images/2098888285263114380-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2636,7 +2636,7 @@ Manzara / Doğa · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şarkıcı Rosalía, gün batımında La Caleta plajında Godzilla ile birlikte şarkı söylüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

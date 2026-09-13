@@ -2621,13 +2621,13 @@ Tradução em curso
 
 <a name="prompt-2098888285263114380"></a>
 
-### Tradução em curso
+### Rosalía a cantar na praia com Godzilla ao pôr do sol.
 
 Autor：[@SeekerJimenez](https://x.com/SeekerJimenez) · [Publicação original](https://x.com/SeekerJimenez/status/2098888285263114380)
 
 Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Rosalía a cantar na praia com Godzilla ao pôr do sol.
 
 <img src="images/2098888285263114380-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2636,7 +2636,7 @@ Paisagem / Natureza · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+A cantora Rosalía a cantar na praia de La Caleta, com Godzilla, durante o pôr do sol
 ```
 
 [↑ Voltar às categorias](#catalog)

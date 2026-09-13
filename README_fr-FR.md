@@ -2604,13 +2604,13 @@ Traduction en cours
 
 <a name="prompt-2098888285263114380"></a>
 
-### Traduction en cours
+### Rosalía chantant sur la plage avec Godzilla au coucher du soleil.
 
 Auteur：[@SeekerJimenez](https://x.com/SeekerJimenez) · [Publication originale](https://x.com/SeekerJimenez/status/2098888285263114380)
 
 Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Rosalía chantant sur la plage avec Godzilla au coucher du soleil.
 
 <img src="images/2098888285263114380-1.jpg" alt="Image 1" width="480" />
 
@@ -2619,7 +2619,7 @@ Paysage / Nature · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+La chanteuse Rosalía chantant sur la plage de La Caleta, avec Godzilla, au coucher du soleil
 ```
 
 [↑ Retour aux catégories](#catalog)

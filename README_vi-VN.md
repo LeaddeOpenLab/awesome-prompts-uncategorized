@@ -2649,13 +2649,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2098888285263114380"></a>
 
-### Đang dịch
+### Rosalía hát trên bãi biển cùng Godzilla vào lúc hoàng hôn.
 
 Tác giả：[@SeekerJimenez](https://x.com/SeekerJimenez) · [Bài gốc](https://x.com/SeekerJimenez/status/2098888285263114380)
 
 Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Rosalía hát trên bãi biển cùng Godzilla vào lúc hoàng hôn.
 
 <img src="images/2098888285263114380-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2664,7 +2664,7 @@ Phong cảnh / Thiên nhiên · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ca sĩ Rosalía đang hát trên bãi biển La Caleta cùng Godzilla trong lúc hoàng hôn
 ```
 
 [↑ Về danh mục](#catalog)

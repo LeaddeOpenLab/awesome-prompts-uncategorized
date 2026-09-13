@@ -2649,13 +2649,13 @@ Traducción en curso
 
 <a name="prompt-2098888285263114380"></a>
 
-### Traducción en curso
+### Rosalía cantando en la playa con Godzilla al atardecer.
 
 Autor：[@SeekerJimenez](https://x.com/SeekerJimenez) · [Publicación original](https://x.com/SeekerJimenez/status/2098888285263114380)
 
 Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Rosalía cantando en la playa con Godzilla al atardecer.
 
 <img src="images/2098888285263114380-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2664,7 +2664,7 @@ Paisaje / Naturaleza · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+La cantante Rosalía cantando en la playa de la caleta, con Godzilla, durante el atardecer
 ```
 
 [↑ Volver a categorías](#catalog)

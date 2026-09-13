@@ -2604,13 +2604,13 @@ Traduzione in corso
 
 <a name="prompt-2098888285263114380"></a>
 
-### Traduzione in corso
+### Rosalía che canta sulla spiaggia con Godzilla al tramonto.
 
 Autore：[@SeekerJimenez](https://x.com/SeekerJimenez) · [Post originale](https://x.com/SeekerJimenez/status/2098888285263114380)
 
 Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Rosalía che canta sulla spiaggia con Godzilla al tramonto.
 
 <img src="images/2098888285263114380-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2619,7 +2619,7 @@ Paesaggio / Natura · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+La cantante Rosalía che canta sulla spiaggia di La Caleta, con Godzilla, durante il tramonto
 ```
 
 [↑ Torna alle categorie](#catalog)
