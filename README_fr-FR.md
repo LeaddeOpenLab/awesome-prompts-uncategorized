@@ -2578,20 +2578,20 @@ Séquence documentaire télévisée ultra-réaliste de 15 secondes du début des
 
 <a name="prompt-2098878777556410480"></a>
 
-### Traduction en cours
+### Minimalisme conceptuel : une seule chaise en bois dans une pièce blanche vide.
 
 Auteur：[@SameChair](https://x.com/SameChair) · [Publication originale](https://x.com/SameChair/status/2098878777556410480)
 
 Minimalisme · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Minimalisme conceptuel : une seule chaise en bois dans une pièce blanche vide.
 
 <img src="images/2098878777556410480-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Minimalisme conceptuel : une seule chaise en bois dans une pièce blanche vide.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -2595,20 +2595,20 @@ Filmagem de documentário de televisão ultrarrealista de 15 segundos do início
 
 <a name="prompt-2098878777556410480"></a>
 
-### Tradução em andamento
+### Minimalismo conceitual: uma única cadeira de madeira em um quarto branco vazio.
 
 Autor：[@SameChair](https://x.com/SameChair) · [Publicação original](https://x.com/SameChair/status/2098878777556410480)
 
 Minimalismo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Minimalismo conceitual: uma única cadeira de madeira em um quarto branco vazio.
 
 <img src="images/2098878777556410480-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Minimalismo conceitual: uma única cadeira de madeira em um quarto branco vazio.
 ```
 
 [↑ Voltar às categorias](#catalog)

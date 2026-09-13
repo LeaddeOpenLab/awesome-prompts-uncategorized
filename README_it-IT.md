@@ -2578,20 +2578,20 @@ Filmato documentaristico televisivo ultra-realistico di 15 secondi dei primi ann
 
 <a name="prompt-2098878777556410480"></a>
 
-### Traduzione in corso
+### Minimalismo concettuale: una singola sedia di legno in una stanza bianca vuota.
 
 Autore：[@SameChair](https://x.com/SameChair) · [Post originale](https://x.com/SameChair/status/2098878777556410480)
 
 Minimalismo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Minimalismo concettuale: una singola sedia di legno in una stanza bianca vuota.
 
 <img src="images/2098878777556410480-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Minimalismo concettuale: una singola sedia di legno in una stanza bianca vuota.
 ```
 
 [↑ Torna alle categorie](#catalog)

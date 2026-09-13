@@ -2623,20 +2623,20 @@ CONTINUIDAD / NEGATIVOS: un solo reportero, un solo alienígena, un solo camaró
 
 <a name="prompt-2098878777556410480"></a>
 
-### Traducción en curso
+### Minimalismo conceptual: una única silla de madera en una habitación blanca vacía.
 
 Autor：[@SameChair](https://x.com/SameChair) · [Publicación original](https://x.com/SameChair/status/2098878777556410480)
 
 Minimalismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Minimalismo conceptual: una única silla de madera en una habitación blanca vacía.
 
 <img src="images/2098878777556410480-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Minimalismo conceptual: una única silla de madera en una habitación blanca vacía.
 ```
 
 [↑ Volver a categorías](#catalog)

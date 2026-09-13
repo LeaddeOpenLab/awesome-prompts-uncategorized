@@ -2595,20 +2595,20 @@ Fiziksel olarak alanda bulunan tek bir kameraman tarafından tüketici tipi bir 
 
 <a name="prompt-2098878777556410480"></a>
 
-### Çeviri sürüyor
+### Kavramsal minimalizm: Boş beyaz bir odada tek bir ahşap sandalye.
 
 Yazar：[@SameChair](https://x.com/SameChair) · [Orijinal gönderi](https://x.com/SameChair/status/2098878777556410480)
 
 Minimalizm · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kavramsal minimalizm: Boş beyaz bir odada tek bir ahşap sandalye.
 
 <img src="images/2098878777556410480-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kavramsal minimalizm: Boş beyaz bir odada tek bir ahşap sandalye.
 ```
 
 [↑ Kategorilere dön](#catalog)

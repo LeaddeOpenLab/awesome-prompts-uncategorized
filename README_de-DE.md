@@ -2578,20 +2578,20 @@ Cyberpunk / Sci-Fi · Veröffentlicht
 
 <a name="prompt-2098878777556410480"></a>
 
-### Übersetzung läuft
+### Konzeptueller Minimalismus: Ein einzelner Holzstuhl in einem leeren weißen Raum.
 
 Autor：[@SameChair](https://x.com/SameChair) · [Originalbeitrag](https://x.com/SameChair/status/2098878777556410480)
 
 Minimalismus · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Konzeptueller Minimalismus: Ein einzelner Holzstuhl in einem leeren weißen Raum.
 
 <img src="images/2098878777556410480-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Konzeptueller Minimalismus: Ein einzelner Holzstuhl in einem leeren weißen Raum.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -2623,20 +2623,20 @@ LIÊN TỤC / CÁC YẾU TỐ PHỦ ĐỊNH: Chỉ có một phóng viên, một
 
 <a name="prompt-2098878777556410480"></a>
 
-### Đang dịch
+### Chủ nghĩa tối giản mang tính ý niệm: Một chiếc ghế gỗ đơn độc trong căn phòng màu trắng trống rỗng.
 
 Tác giả：[@SameChair](https://x.com/SameChair) · [Bài gốc](https://x.com/SameChair/status/2098878777556410480)
 
 Chủ nghĩa tối giản · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chủ nghĩa tối giản mang tính ý niệm: Một chiếc ghế gỗ đơn độc trong căn phòng màu trắng trống rỗng.
 
 <img src="images/2098878777556410480-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chủ nghĩa tối giản mang tính ý niệm: Một chiếc ghế gỗ đơn độc trong căn phòng màu trắng trống rỗng.
 ```
 
 [↑ Về danh mục](#catalog)

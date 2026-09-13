@@ -2595,20 +2595,20 @@ Imagens de documentário de televisão ultrarrealistas de 15 segundos do início
 
 <a name="prompt-2098878777556410480"></a>
 
-### Tradução em curso
+### Minimalismo conceptual: uma única cadeira de madeira numa divisão branca vazia.
 
 Autor：[@SameChair](https://x.com/SameChair) · [Publicação original](https://x.com/SameChair/status/2098878777556410480)
 
 Minimalismo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Minimalismo conceptual: uma única cadeira de madeira numa divisão branca vazia.
 
 <img src="images/2098878777556410480-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Minimalismo conceptual: uma única cadeira de madeira numa divisão branca vazia.
 ```
 
 [↑ Voltar às categorias](#catalog)
