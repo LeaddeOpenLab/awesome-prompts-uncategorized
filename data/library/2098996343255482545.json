@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T08:23:13.994Z",
+  "model": "unknown-image",
+  "prompt": "Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.\n\nUse the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.\n\nCreate a photorealistic luxury menswear editorial portrait of an adult man standing confidently against a clean off-white studio wall. Frame him from approximately mid-thigh upward, centered slightly to the right.\n\nDress him in a perfectly tailored deep navy-blue two-piece suit with a structured blazer, matching trousers, crisp white dress shirt, and a muted forest-green necktie. Add a refined silver wristwatch on his left wrist. Keep the styling minimal and sophisticated with no chain or necklace.\n\nGive him a neat short haircut with clean sides and natural texture on top. Pose him standing upright with both hands at the front of his blazer as though he is fastening the jacket button. His shoulders should be relaxed, posture confident, and expression calm and serious while looking slightly off-camera to the right.\n\nBehind him, place oversized elegant dark forest-green serif typography reading “MADE”, spanning almost the entire width of the background. Allow parts of the letters to sit naturally behind the subject, creating a premium fashion-magazine composition.\n\nUse soft diffused studio lighting from the front-left, subtle natural shadows on the wall, realistic skin texture, accurate fabric detail, clean highlights, and balanced neutral tones.\n\nStyle: luxury menswear campaign, modern corporate fashion, minimalist editorial photography, premium magazine aesthetic, sharp tailoring, realistic proportions, subtle depth of field, high-end commercial photography, ultra-photorealistic, crisp 8K detail.\n\nAspect ratio: 4:5 portrait.",
+  "promptTranslations": {
+    "en": "Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.\\n\\nUse the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.\\n\\nCreate a photorealistic luxury menswear editorial portrait of an adult man standing confidently against a clean off-white studio wall. Frame him from approximately mid-thigh upward, centered slightly to the right.\\n\\nDress him in a perfectly tailored deep navy-blue two-piece suit with a structured blazer, matching trousers, crisp white dress shirt, and a muted forest-green necktie. Add a refined silver wristwatch on his left wrist. Keep the styling minimal and sophisticated with no chain or necklace.\\n\\nGive him a neat short haircut with clean sides and natural texture on top. Pose him standing upright with both hands at the front of his blazer as though he is fastening the jacket button. His shoulders should be relaxed, posture confident, and expression calm and serious while looking slightly off-camera to the right.\\n\\nBehind him, place oversized elegant dark forest-green serif typography reading “MADE”, spanning almost the entire width of the background. Allow parts of the letters to sit naturally behind the subject, creating a premium fashion-magazine composition.\\n\\nUse soft diffused studio lighting from the front-left, subtle natural shadows on the wall, realistic skin texture, accurate fabric detail, clean highlights, and balanced neutral tones.\\n\\nStyle: luxury menswear campaign, modern corporate fashion, minimalist editorial photography, premium magazine aesthetic, sharp tailoring, realistic proportions, subtle depth of field, high-end commercial photography, ultra-photorealistic, crisp 8K detail.\\n\\nAspect ratio: 4:5 portrait."
+  },
+  "summaryTranslations": {
+    "en": "Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo."
+  },
+  "translationVersion": 2,
+  "summary": "Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo.",
+  "summaryEn": "Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098996343255482545",
+    "canonicalUrl": "https://x.com/abs_uiux/status/2098996343255482545",
+    "author": {
+      "username": "abs_uiux",
+      "displayName": "Abkr Sadiq | AI",
+      "profileUrl": "https://x.com/abs_uiux"
+    },
+    "publishedAt": "2026-09-13T04:45:00.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "en",
+    "originalText": "The Art of Being self made \n\nCreated with GPT 2.5 image \n\nPrompt:\n\nAdd a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.\n\nUse the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.\n\nCreate a photorealistic luxury menswear editorial portrait of an adult man standing confidently against a clean off-white studio wall. Frame him from approximately mid-thigh upward, centered slightly to the right.\n\nDress him in a perfectly tailored deep navy-blue two-piece suit with a structured blazer, matching trousers, crisp white dress shirt, and a muted forest-green necktie. Add a refined silver wristwatch on his left wrist. Keep the styling minimal and sophisticated with no chain or necklace.\n\nGive him a neat short haircut with clean sides and natural texture on top. Pose him standing upright with both hands at the front of his blazer as though he is fastening the jacket button. His shoulders should be relaxed, posture confident, and expression calm and serious while looking slightly off-camera to the right.\n\nBehind him, place oversized elegant dark forest-green serif typography reading “MADE”, spanning almost the entire width of the background. Allow parts of the letters to sit naturally behind the subject, creating a premium fashion-magazine composition.\n\nUse soft diffused studio lighting from the front-left, subtle natural shadows on the wall, realistic skin texture, accurate fabric detail, clean highlights, and balanced neutral tones.\n\nStyle: luxury menswear campaign, modern corporate fashion, minimalist editorial photography, premium magazine aesthetic, sharp tailoring, realistic proportions, subtle depth of field, high-end commercial photography, ultra-photorealistic, crisp 8K detail.\n\nAspect ratio: 4:5 portrait.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSD06i4XoAgXIn_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSD06i4XoAgXIn_.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 279
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/abs_uiux/status/2098996343255482545",
+  "coverUrl": "https://pbs.twimg.com/media/HSD06i4XoAgXIn_.jpg",
+  "coverPath": "images/2098996343255482545-1.jpg",
+  "imagePaths": [
+    "images/2098996343255482545-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSD06i4XoAgXIn_",
+    "x-post:2098996343255482545"
+  ],
+  "analysis": {
+    "summary": "Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo.",
+    "summaryEn": "Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image matches the navy suit, forest-green tie, 'MADE' typography in the background, fastening button pose, and the ABS emblem at the lower-right corner."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.\n\nUse the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.\n\nCreate a photorealistic luxury menswear editorial portrait of an adult man standing confidently against a clean off-white studio wall. Frame him from approximately mid-thigh upward, centered slightly to the right.\n\nDress him in a perfectly tailored deep navy-blue two-piece suit with a structured blazer, matching trousers, crisp white dress shirt, and a muted forest-green necktie. Add a refined silver wristwatch on his left wrist. Keep the styling minimal and sophisticated with no chain or necklace.\n\nGive him a neat short haircut with clean sides and natural texture on top. Pose him standing upright with both hands at the front of his blazer as though he is fastening the jacket button. His shoulders should be relaxed, posture confident, and expression calm and serious while looking slightly off-camera to the right.\n\nBehind him, place oversized elegant dark forest-green serif typography reading “MADE”, spanning almost the entire width of the background. Allow parts of the letters to sit naturally behind the subject, creating a premium fashion-magazine composition.\n\nUse soft diffused studio lighting from the front-left, subtle natural shadows on the wall, realistic skin texture, accurate fabric detail, clean highlights, and balanced neutral tones.\n\nStyle: luxury menswear campaign, modern corporate fashion, minimalist editorial photography, premium magazine aesthetic, sharp tailoring, realistic proportions, subtle depth of field, high-end commercial photography, ultra-photorealistic, crisp 8K detail.\n\nAspect ratio: 4:5 portrait.",
+    "sourceRange": {
+      "start": 67,
+      "end": 1948
+    },
+    "translations": {
+      "zh": "在右下角添加一个精美的金色皇冠和盾牌字母徽章，带有优雅的首字母如“ABS”，设计成豪华个人品牌徽章。\n\n使用上传的照片作为面部身份参考，自然保留主体的面部特征、肤色和整体外观。\n\n创作一张逼真的奢华男装社论肖像，一位成年男子自信地站在干净的米白色影棚墙前。大约从大腿中部向上取景，略微居右。\n\n为他穿上一套剪裁完美的深海军蓝两件套西装，搭配结构感西装外套、同色长裤、挺括的白衬衫和沉稳的森林绿领带。在左手腕上戴一块精致的银色手表。保持简约精致的造型，不佩戴链条或项链。\n\n留着干净利落的短发，两侧清爽，顶部保留自然质感。让他笔直站立，双手放在西装前侧，如同系纽扣一般。双肩放松，姿势自信，神情冷静严肃，略微看向右侧镜头外。\n\n身后放置带有“MADE”字样的大号优雅深森林绿衬线字体，几乎贯穿整个背景宽度。让部分字母自然置于主体后方，营造出高端时尚杂志的构图。\n\n采用左前方柔和漫射影棚光，墙上有微妙的自然阴影，逼真的皮肤纹理、准确的面料细节、干净的高光和平衡的中性色调。\n\n风格：奢华男装广告、现代商务时尚、极简杂志摄影、高级杂志美学、利落剪裁、逼真比例、微妙景深、高端商业摄影、超逼真、锐利的8K细节。\n\n纵横比：4:5 肖像。",
+      "en": "Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.\n\nUse the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.\n\nCreate a photorealistic luxury menswear editorial portrait of an adult man standing confidently against a clean off-white studio wall. Frame him from approximately mid-thigh upward, centered slightly to the right.\n\nDress him in a perfectly tailored deep navy-blue two-piece suit with a structured blazer, matching trousers, crisp white dress shirt, and a muted forest-green necktie. Add a refined silver wristwatch on his left wrist. Keep the styling minimal and sophisticated with no chain or necklace.\n\nGive him a neat short haircut with clean sides and natural texture on top. Pose him standing upright with both hands at the front of his blazer as though he is fastening the jacket button. His shoulders should be relaxed, posture confident, and expression calm and serious while looking slightly off-camera to the right.\n\nBehind him, place oversized elegant dark forest-green serif typography reading “MADE”, spanning almost the entire width of the background. Allow parts of the letters to sit naturally behind the subject, creating a premium fashion-magazine composition.\n\nUse soft diffused studio lighting from the front-left, subtle natural shadows on the wall, realistic skin texture, accurate fabric detail, clean highlights, and balanced neutral tones.\n\nStyle: luxury menswear campaign, modern corporate fashion, minimalist editorial photography, premium magazine aesthetic, sharp tailoring, realistic proportions, subtle depth of field, high-end commercial photography, ultra-photorealistic, crisp 8K detail.\n\nAspect ratio: 4:5 portrait."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "editorial portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
