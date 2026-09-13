@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:17:59.394Z",
+  "model": "unknown-video",
+  "prompt": "Create a 10-second vertical 9:16 ultra-realistic Hamama-style aesthetic video based on the reference image: show fresh strawberries, pink grapefruit and watermelon being quickly sliced in close-up, add the colorful fruits, mint and ice into a clear glass bottle, then slowly pour fresh sparkling water with beautiful bubbles and splashes. Finish with a premium macro hero shot of the finished pink detox water, visible condensation and fresh fruit, soft natural pink lighting, shallow depth of field, smooth cinematic camera movement, realistic textures, gentle slow motion and satisfying cutting, ice-clinking and water-pouring sounds, with elegant text overlays ‘Detox Water’ and ‘Pink Glow Drink’.",
+  "promptTranslations": {
+    "en": "Create a 10-second vertical 9:16 ultra-realistic Hamama-style aesthetic video based on the reference image: show fresh strawberries, pink grapefruit and watermelon being quickly sliced in close-up, add the colorful fruits, mint and ice into a clear glass bottle, then slowly pour fresh sparkling water with beautiful bubbles and splashes. Finish with a premium macro hero shot of the finished pink detox water, visible condensation and fresh fruit, soft natural pink lighting, shallow depth of field, smooth cinematic camera movement, realistic textures, gentle slow motion and satisfying cutting, ice-clinking and water-pouring sounds, with elegant text overlays ‘Detox Water’ and ‘Pink Glow Drink’."
+  },
+  "summaryTranslations": {
+    "en": "10-second aesthetic video prompt showing the preparation and presentation of pink glow detox water."
+  },
+  "translationVersion": 2,
+  "summary": "10-second aesthetic video prompt showing the preparation and presentation of pink glow detox water.",
+  "summaryEn": "10-second aesthetic video prompt showing the preparation and presentation of pink glow detox water.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098989138662093223",
+    "canonicalUrl": "https://x.com/AvaSmith771/status/2098989138662093223",
+    "author": {
+      "username": "AvaSmith771",
+      "displayName": "Ava Smith Al",
+      "profileUrl": "https://x.com/AvaSmith771"
+    },
+    "publishedAt": "2026-09-13T04:16:22.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "en",
+    "originalText": "Pink Glow Detox Water 💕🍓 Fresh, fruity & refreshing! Perfect for a healthy daily hydration boost. 💧✨\n\nPrompt \n10-second Hamama-style prompt:\n\n“Create a 10-second vertical 9:16 ultra-realistic Hamama-style aesthetic video based on the reference image: show fresh strawberries, pink grapefruit and watermelon being quickly sliced in close-up, add the colorful fruits, mint and ice into a clear glass bottle, then slowly pour fresh sparkling water with beautiful bubbles and splashes. Finish with a premium macro hero shot of the finished pink detox water, visible condensation and fresh fruit, soft natural pink lighting, shallow depth of field, smooth cinematic camera movement, realistic textures, gentle slow motion and satisfying cutting, ice-clinking and water-pouring sounds, with elegant text overlays ‘Detox Water’ and ‘Pink Glow Drink’.”",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AvaSmith771/status/2098989138662093223",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098989020302938112/img/l88FT_MG3ZcPXQcR.jpg",
+        "analysisUrl": "https://x.com/AvaSmith771/status/2098989138662093223"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSEbe3Ha4AAs0lT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSEbe3Ha4AAs0lT.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 7,
+      "replyCount": 11,
+      "quoteCount": 8,
+      "viewCount": 469
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AvaSmith771/status/2098989138662093223",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2098989020302938112/img/l88FT_MG3ZcPXQcR.jpg",
+  "coverPath": "covers/2098989138662093223.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2098989020302938112",
+    "x-image:/media/HSEbe3Ha4AAs0lT",
+    "x-post:2098989138662093223"
+  ],
+  "analysis": {
+    "summary": "10-second aesthetic video prompt showing the preparation and presentation of pink glow detox water.",
+    "summaryEn": "10-second aesthetic video prompt showing the preparation and presentation of pink glow detox water.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely follows the fruit cutting, bottle preparation, sparkling water pouring, and final hero shot with matching text overlays."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 10-second vertical 9:16 ultra-realistic Hamama-style aesthetic video based on the reference image: show fresh strawberries, pink grapefruit and watermelon being quickly sliced in close-up, add the colorful fruits, mint and ice into a clear glass bottle, then slowly pour fresh sparkling water with beautiful bubbles and splashes. Finish with a premium macro hero shot of the finished pink detox water, visible condensation and fresh fruit, soft natural pink lighting, shallow depth of field, smooth cinematic camera movement, realistic textures, gentle slow motion and satisfying cutting, ice-clinking and water-pouring sounds, with elegant text overlays ‘Detox Water’ and ‘Pink Glow Drink’.",
+    "sourceRange": {
+      "start": 143,
+      "end": 843
+    },
+    "translations": {
+      "zh": "根据参考图创建一段10秒、9:16竖屏超逼真滨松风（Hamama-style）美学视频：特写镜头快速切开新鲜草莓、红葡萄柚和西瓜，将色彩鲜艳的水果、薄荷和冰块加入透明玻璃瓶中，随后缓慢注入带有气泡和飞溅的新鲜气泡水。最后以成品粉红排毒水的特写高光镜头结尾，展现可见的冷凝水珠和鲜果，柔和的自然粉光，浅景深，平滑的运镜，真实质感，轻柔慢动作与爽脆的切击声、冰块碰撞及注水声，并附优雅的‘Detox Water’和‘Pink Glow Drink’文字覆层。",
+      "en": "Create a 10-second vertical 9:16 ultra-realistic Hamama-style aesthetic video based on the reference image: show fresh strawberries, pink grapefruit and watermelon being quickly sliced in close-up, add the colorful fruits, mint and ice into a clear glass bottle, then slowly pour fresh sparkling water with beautiful bubbles and splashes. Finish with a premium macro hero shot of the finished pink detox water, visible condensation and fresh fruit, soft natural pink lighting, shallow depth of field, smooth cinematic camera movement, realistic textures, gentle slow motion and satisfying cutting, ice-clinking and water-pouring sounds, with elegant text overlays ‘Detox Water’ and ‘Pink Glow Drink’."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "beverage commercial display",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
