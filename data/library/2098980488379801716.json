@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-13T05:17:00.250Z",
+  "model": "unknown-image",
+  "prompt": "a low angle, full body shot of a biomechanical humanoid figure standing on a rocky outcrop. the figure features metallic blue and gold armor plating with glowing orange elements. it has a helmet with a sharp visor and a single, large wing covered in metallic blue feathers with gold accents on its left side. its hands are clawed and glow orange. streamers of metallic gold fabric float behind it. the background consists of a dramatic, cloudy sky with sunbeams breaking through, lighting up the scene with an orange glow. small bird like silhouettes fly in the distance over a hazy, mountainous landscape.",
+  "promptTranslations": {
+    "en": "a low angle, full body shot of a biomechanical humanoid figure standing on a rocky outcrop. the figure features metallic blue and gold armor plating with glowing orange elements. it has a helmet with a sharp visor and a single, large wing covered in metallic blue feathers with gold accents on its left side. its hands are clawed and glow orange. streamers of metallic gold fabric float behind it. the background consists of a dramatic, cloudy sky with sunbeams breaking through, lighting up the scene with an orange glow. small bird like silhouettes fly in the distance over a hazy, mountainous landscape."
+  },
+  "summaryTranslations": {
+    "en": "a low angle, full body shot of a biomechanical humanoid figure with metallic blue-gold armor, a single wing, and glowing claws against a sunset mountain sky."
+  },
+  "translationVersion": 2,
+  "summary": "a low angle, full body shot of a biomechanical humanoid figure with metallic blue-gold armor, a single wing, and glowing claws against a sunset mountain sky.",
+  "summaryEn": "a low angle, full body shot of a biomechanical humanoid figure with metallic blue-gold armor, a single wing, and glowing claws against a sunset mountain sky.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2098980488379801716",
+    "canonicalUrl": "https://x.com/RobotCleopatra/status/2098980488379801716",
+    "author": {
+      "username": "RobotCleopatra",
+      "displayName": "Skipper VanderWall",
+      "profileUrl": "https://x.com/RobotCleopatra"
+    },
+    "publishedAt": "2026-09-13T03:42:00.000Z",
+    "collectedAt": "2026-09-13T05:12:35.790Z",
+    "language": "en",
+    "originalText": "GOLDEN PROMPT\na low angle, full body shot of a biomechanical humanoid figure standing on a rocky outcrop. the figure features metallic blue and gold armor plating with glowing orange elements. it has a helmet with a sharp visor and a single, large wing covered in metallic blue feathers with gold accents on its left side. its hands are clawed and glow orange. streamers of metallic gold fabric float behind it. the background consists of a dramatic, cloudy sky with sunbeams breaking through, lighting up the scene with an orange glow. small bird like silhouettes fly in the distance over a hazy, mountainous landscape.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HR_lntgaYAAZJTu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HR_lntgaYAAZJTu.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 1,
+      "replyCount": 3,
+      "quoteCount": 1,
+      "viewCount": 407
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RobotCleopatra/status/2098980488379801716",
+  "coverUrl": "https://pbs.twimg.com/media/HR_lntgaYAAZJTu.jpg",
+  "coverPath": "images/2098980488379801716-1.jpg",
+  "imagePaths": [
+    "images/2098980488379801716-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HR_lntgaYAAZJTu",
+    "x-post:2098980488379801716"
+  ],
+  "analysis": {
+    "summary": "a low angle, full body shot of a biomechanical humanoid figure with metallic blue-gold armor, a single wing, and glowing claws against a sunset mountain sky.",
+    "summaryEn": "a low angle, full body shot of a biomechanical humanoid figure with metallic blue-gold armor, a single wing, and glowing claws against a sunset mountain sky.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches image precisely: low-angle full-body biomechanical humanoid, blue/gold armor, single large wing, glowing orange claws, cloudy sky with sunbeams, distant birds."
+    },
+    "videoQuality": null,
+    "originalPrompt": "a low angle, full body shot of a biomechanical humanoid figure standing on a rocky outcrop. the figure features metallic blue and gold armor plating with glowing orange elements. it has a helmet with a sharp visor and a single, large wing covered in metallic blue feathers with gold accents on its left side. its hands are clawed and glow orange. streamers of metallic gold fabric float behind it. the background consists of a dramatic, cloudy sky with sunbeams breaking through, lighting up the scene with an orange glow. small bird like silhouettes fly in the distance over a hazy, mountainous landscape.",
+    "sourceRange": {
+      "start": 14,
+      "end": 620
+    },
+    "translations": {
+      "zh": "低角度全身镜头，一个生化机械人形角色站在岩石露头上。角色身着蓝金相间的金属装甲，带有发光的橙色部件，头盔配有锋利的遮阳面罩，左侧有一只带有金色点缀的金属蓝色大羽翼。它的双手呈爪状并散发橙光，身后飘拂着金属金色的飘带。背景为穿透阳光的阴云密布戏剧性天空，远处鸟类剪影飞过朦胧群山。",
+      "en": "a low angle, full body shot of a biomechanical humanoid figure standing on a rocky outcrop. the figure features metallic blue and gold armor plating with glowing orange elements. it has a helmet with a sharp visor and a single, large wing covered in metallic blue feathers with gold accents on its left side. its hands are clawed and glow orange. streamers of metallic gold fabric float behind it. the background consists of a dramatic, cloudy sky with sunbeams breaking through, lighting up the scene with an orange glow. small bird like silhouettes fly in the distance over a hazy, mountainous landscape."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
