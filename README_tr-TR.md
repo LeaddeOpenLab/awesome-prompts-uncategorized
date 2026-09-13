@@ -2815,20 +2815,20 @@ Portre / Selfie · Karakter · Yiyecek / İçecek · Şehir Manzarası / Sokak �
 
 <a name="prompt-2098989138662093223"></a>
 
-### Çeviri sürüyor
+### Pembe ışıltılı detoks suyunun hazırlanışını ve sunumunu gösteren 10 saniyelik estetik video istemi.
 
 Yazar：[@AvaSmith771](https://x.com/AvaSmith771) · [Orijinal gönderi](https://x.com/AvaSmith771/status/2098989138662093223)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pembe ışıltılı detoks suyunun hazırlanışını ve sunumunu gösteren 10 saniyelik estetik video istemi.
 
 <img src="covers/2098989138662093223.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referans görsele dayalı olarak 10 saniyelik dikey 9:16 ultra gerçekçi Hamama tarzı estetik bir video oluşturun: yakın çekimde taze çileklerin, pembe greyfurtun ve karpuzun hızlıca dilimlendiğini gösterin, renkli meyveleri, naneyi ve buzu şeffaf bir cam şişeye ekleyin, ardından güzel baloncuklar ve sıçramalarla taze maden suyunu yavaşça dökün. Görünür yoğuşma damlaları ve taze meyvelerle tamamlanmış pembe detoks suyunun birinci sınıf bir makro ana çekimiyle bitirin, yumuşak doğal pembe aydınlatma, sığ alan derinliği, pürüzsüz sinematik kamera hareketi, gerçekçi dokular, hafif ağır çekim ve tatmin edici kesme, buz şıngırtısı ve su dökme sesleri, zarif ‘Detox Water’ ve ‘Pink Glow Drink’ metin katmanları ile.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -2815,20 +2815,20 @@ Tradução em andamento
 
 <a name="prompt-2098989138662093223"></a>
 
-### Tradução em andamento
+### Prompt de vídeo estético de 10 segundos mostrando o preparo e a apresentação de água detox rosa radiante.
 
 Autor：[@AvaSmith771](https://x.com/AvaSmith771) · [Publicação original](https://x.com/AvaSmith771/status/2098989138662093223)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de vídeo estético de 10 segundos mostrando o preparo e a apresentação de água detox rosa radiante.
 
 <img src="covers/2098989138662093223.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo estético de 10 segundos na vertical 9:16 ultrarrealista no estilo Hamama com base na imagem de referência: mostre morangos frescos, toranja rosa e melancia sendo fatiados rapidamente em close-up, adicione as frutas coloridas, hortelã e gelo em uma garrafa de vidro transparente, depois despeje lentamente água com gás fresca com belas bolhas e respingos. Termine com uma cena heroica macro premium da água detox rosa pronta, com condensação visível e frutas frescas, iluminação rosa natural suave, profundidade de campo rasa, movimento de câmera cinematográfico suave, texturas realistas, câmera lenta suave e sons satisfatórios de corte, gelo tilintando e água sendo despejada, com elegantes sobreposições de texto ‘Detox Water’ e ‘Pink Glow Drink’.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -2798,20 +2798,20 @@ Traduction en cours
 
 <a name="prompt-2098989138662093223"></a>
 
-### Traduction en cours
+### Prompt de vidéo esthétique de 10 secondes montrant la préparation et la présentation d'une eau détox éclat rose.
 
 Auteur：[@AvaSmith771](https://x.com/AvaSmith771) · [Publication originale](https://x.com/AvaSmith771/status/2098989138662093223)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo esthétique de 10 secondes montrant la préparation et la présentation d'une eau détox éclat rose.
 
 <img src="covers/2098989138662093223.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo esthétique ultra-réaliste de 10 secondes au format vertical 9:16 dans le style Hamama basée sur l'image de référence : montrez en gros plan des fraises fraîches, du pamplemousse rose et de la pastèque rapidement tranchés, ajoutez les fruits colorés, de la menthe et des glaçons dans une bouteille en verre transparent, puis versez lentement de l'eau gazeuse fraîche avec de magnifiques bulles et éclaboussures. Terminez par un plan héroïque macro haut de gamme de l'eau détox rose terminée, avec de la condensation visible et des fruits frais, un éclairage rose naturel doux, une faible profondeur de champ, un mouvement de caméra cinématographique fluide, des textures réalistes, un ralenti délicat et des sons satisfaisants de découpe, de tintement de glaçons et d'écoulement de l'eau, avec d'élégantes incrustations de texte ‘Detox Water’ et ‘Pink Glow Drink’.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -2843,20 +2843,20 @@ Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống ·
 
 <a name="prompt-2098989138662093223"></a>
 
-### Đang dịch
+### Lời nhắc video thẩm mỹ 10 giây thể hiện quá trình chuẩn bị và trình bày nước detox màu hồng rạng rỡ.
 
 Tác giả：[@AvaSmith771](https://x.com/AvaSmith771) · [Bài gốc](https://x.com/AvaSmith771/status/2098989138662093223)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video thẩm mỹ 10 giây thể hiện quá trình chuẩn bị và trình bày nước detox màu hồng rạng rỡ.
 
 <img src="covers/2098989138662093223.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo video thẩm mỹ phong cách Hamama siêu thực dài 10 giây tỷ lệ dọc 9:16 dựa trên hình ảnh tham khảo: hiển thị cận cảnh dâu tây tươi, bưởi hồng và dưa hấu được thái lát nhanh chóng, cho trái cây nhiều màu sắc, bạc hà và đá vào chai thủy tinh trong suốt, sau đó từ từ rót nước có ga tươi mát với bọt khí đẹp mắt và những tia nước bắn tung tóe. Kết thúc bằng cú quay cận cảnh macro đỉnh cao của bình nước detox màu hồng đã hoàn thành, nhìn rõ giọt ngưng tụ và trái cây tươi, ánh sáng màu hồng tự nhiên dịu nhẹ, độ sâu trường ảnh nông, chuyển động máy quay mượt mà chuẩn điện ảnh, kết cấu chân thực, hiệu ứng chuyển động chậm nhẹ nhàng cùng âm thanh cắt gọt, tiếng đá lách cách và tiếng rót nước êm tai, kèm lớp phủ văn bản trang nhã ‘Detox Water’ và ‘Pink Glow Drink’.
 ```
 
 [↑ Về danh mục](#catalog)

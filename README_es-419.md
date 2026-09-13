@@ -2798,20 +2798,20 @@ Traducción en curso
 
 <a name="prompt-2098989138662093223"></a>
 
-### Traducción en curso
+### Prompt de video estético de 10 segundos que muestra la preparación y presentación de agua detox con brillo rosa.
 
 Autor：[@AvaSmith771](https://x.com/AvaSmith771) · [Publicación original](https://x.com/AvaSmith771/status/2098989138662093223)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video estético de 10 segundos que muestra la preparación y presentación de agua detox con brillo rosa.
 
 <img src="covers/2098989138662093223.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video estético de 10 segundos en formato vertical 9:16 ultrarrealista al estilo Hamama basado en la imagen de referencia: muestra fresas frescas, toronja rosa y sandía rebanándose rápidamente en primer plano, agrega las coloridas frutas, menta y hielo en una botella de vidrio transparente, luego vierte lentamente agua con gas fresca con hermosas burbujas y salpicaduras. Termina con una toma heroica macro prémium del agua detox rosa terminada, con condensación visible y fruta fresca, iluminación rosa natural suave, profundidad de campo reducida, movimiento de cámara cinematográfico fluido, texturas realistas, cámara lenta suave y sonidos satisfactorios de cortes, tintineo de hielo y vertido de agua, con elegantes superposiciones de texto ‘Detox Water’ y ‘Pink Glow Drink’.
 ```
 
 [↑ Volver a categorías](#catalog)

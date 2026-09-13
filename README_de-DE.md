@@ -2798,20 +2798,20 @@ Porträt / Selfie · Charakter · Essen / Trinken · Stadtbild / Straße · Ver�
 
 <a name="prompt-2098989138662093223"></a>
 
-### Übersetzung läuft
+### 10-sekündiger ästhetischer Video-Prompt, der die Zubereitung und Präsentation von Pink-Glow-Detox-Wasser zeigt.
 
 Autor：[@AvaSmith771](https://x.com/AvaSmith771) · [Originalbeitrag](https://x.com/AvaSmith771/status/2098989138662093223)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 10-sekündiger ästhetischer Video-Prompt, der die Zubereitung und Präsentation von Pink-Glow-Detox-Wasser zeigt.
 
 <img src="covers/2098989138662093223.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 10-sekündiges, vertikales 9:16 ultra-realistisches ästhetisches Video im Hamama-Stil basierend auf dem Referenzbild: Zeige in Nahaufnahme, wie frische Erdbeeren, Pink Grapefruit und Wassermelone schnell in Scheiben geschnitten werden, gib die bunten Früchte, Minze und Eis in eine durchsichtige Glasflasche und gieße dann langsam frisches kohlensäurehaltiges Wasser mit wunderschönen Bläschen und Spritzern ein. Schließe mit einer erstklassigen Makro-Heldenaufnahme des fertigen rosa Detox-Wassers ab, mit sichtbarem Kondenswasser und frischen Früchten, weicher natürlicher rosa Beleuchtung, geringer Schärfentiefe, sanfter cineastischer Kamerabewegung, realistischen Texturen, sanfter Zeitlupe und befriedigenden Schneidegeräuschen, klirrendem Eis und Einschenkgeräuschen, mit eleganten Texteinblendungen ‘Detox Water’ und ‘Pink Glow Drink’.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
