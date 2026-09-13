@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**138** Prompts · Latest addition: **2026-09-13**
+**139** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,68 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2098909634665082938"></a>
+
+### A photorealistic photo prompt of an adult Japanese woman wearing a saxe blue bikini on a seaside resort lawn, enjoying a picnic while comparing grapes and strawberries.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098909634665082938)
+
+Photography · Portrait / Selfie · Character · Landscape / Nature · Published
+
+**Summary:** A photorealistic photo prompt of an adult Japanese woman wearing a saxe blue bikini on a seaside resort lawn, enjoying a picnic while comparing grapes and strawberries.
+
+<img src="images/2098909634665082938-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Seaside Lawn | Saxe Blue and Dusk Picnic🌟
+
+[Subject / Art Style]
+A photorealistic photo depicting a distinctly adult Japanese woman enjoying a picnic at a sunny seaside resort. The expression should be somewhere between an elegant resort advertisement and a natural holiday snapshot. Rather than strongly highlighting only the person, the photo captures the lawn, sea, picnic items, and the evening light as well, conveying the calm passage of time throughout the day.
+While having a glamorous touch, it is not overly staged, capturing a small gesture of choosing fruit with a friendly, slightly charming atmosphere. Emphasize natural perspective and texture as if taken with a real camera.
+
+[Location / Background / Worldview]
+A vast lawn inside a resort overlooking the sea. Well-maintained, vivid green grass extends into the midground, beyond which lies a calm blue sea and horizon. The person sits on a large plaid picnic blanket, with a natural fiber basket placed beside her.
+Around the blanket, grapes, strawberries, sparkling water, a book, and a straw hat are naturally arranged. Do not align the small items too neatly, leaving a sense of real life as if midway through spending a holiday. In the distant background, coastlines and resort greenery are subtly included, creating depth to an extent that the background does not distract from the main subject.
+
+[Season / Time / Weather]
+A clear day from early summer to midsummer. The time is just before dusk; the sun is still well above the horizon, but the light has started to soften compared to midday. While the sky retains a bright blue, a very faint warm color blends in near the sun.
+A gentle breeze blows from the sea, just enough to slightly sway loose strands of hair and the edges of the blanket. Create a refreshing atmosphere where one feels the pleasant sea breeze rather than muggy heat.
+
+[Character Settings]
+A distinctly adult Japanese woman, around 20 to 28 years old. Soft, well-proportioned facial features with somewhat large natural eyes, gentle eyebrows, and healthy, flushed lips. Dark brown hair in natural waves around shoulder length, with fine stray strands fluttering around her face in the sea breeze.
+Light ochre-toned skin retains pores and subtle shading, avoiding excessive beauty-skin filtering. Slender shoulders and limbs, with a natural glamorous figure where a slim waist harmonizes with feminine curves. The bust has distinct, ample volume, not a rigid spherical shape, but a soft three-dimensionality that naturally settles with the seated posture, the swimsuit's support, and gravity. Hips also have a natural roundness balanced with the whole body.
+
+[Costume / Accessories]
+A muted saxe blue halter-neck bikini. The top has a realistic construction tied behind the neck, naturally supporting the bust with moderately wide cups and soft elastic fabric. Avoid extreme push-up or excessive digging in, providing ample fabric width suited to an ample figure.
+The bottoms are coordinated in the same color tone, with a simple, elegant design that naturally follows the waistline. Accessories are kept to the absolute minimum, limited to small earrings. Do not use flashy jewelry or additional decorations.
+
+[Pose / Action / Gaze]
+Sitting sideways on the plaid blanket, naturally supporting weight with hips and thighs. Both legs flow forward and to one side of the body, with one knee slightly bent and the other leg loosely resting in front of it. Upper body is angled diagonally toward the sea with a light twist from the waist, shoulders naturally relaxed.
+Holding a small cluster of grapes in one hand and a strawberry in the other, midway through comparing both while hesitating over which to eat first. Gaze is directed entirely toward the fruit in hand, unaware of the camera. The back is not excessively arched, with no unnecessary tension in the neck, shoulders, or arms.
+
+[Expression / Emotion]
+A soft smile as if enjoying the very act of hesitating slightly while comparing the fruits. Lips do not open in a big laugh, just the corners naturally lifting slightly. Eyes also gently narrow, with a subtle warmth appearing on the cheeks.
+Not a smile meant to be shown to someone, but a moment where the quiet joy of a holiday naturally leaks out. Avoid a childish impression, balancing the calmness of a mature adult woman with approachable friendliness.
+
+[Composition / Camera]
+A 4:5 vertical composition suited for X posts. A near full-body framing spanning from the crown of the head to near the feet, capturing not only the body but the blanket, basket, fruits, lawn, and distant sea in one frame. The person is placed slightly off-center to either the left or right, creating an opening for the sea and sky on the opposite side.
+Camera positioned at approximately chest to eye level of the seated person, shot from a slight distance. Focal length is around 50–70mm, a natural standard to moderate telephoto. No extreme wide angles, keeping a perspective where no single body part is exaggerated. Background is lightly blurred, but retains enough detail to identify the seaside location.
+
+[Light / Color / Texture / Atmosphere]
+The key light is natural late-afternoon light shining diagonally from behind the frame. Soft rim light catches the outline of the hair and shoulders, while bounce light from the lawn and blanket gently lifts the shadowed side of the face and body. Shadows are not harsh, connecting smoothly from highlights to deep shadows.
+Color palette is grounded in the saxe blue swimwear, the green of the lawn, and the blue of the sea, accented with the pale golden hue of evening. Realistic skin shows natural flush and fine shading, hair shows individual strand flow, and the bikini shows the soft tension typical of elastic material. Fruit juiciness, wicker basket, fabric wrinkles, lawn, and water surface reflections are all depicted with careful differentiation of materials, evoking the tranquil air of a holiday.
+
+[Quality / Excluded Elements]
+High-resolution photorealistic photograph. Preserves natural skeletal structure, limbs, joints, light, shadows, textures, and perspective of a real adult woman. Avoid figures appearing underage or overly youthful faces, unnatural human anatomy, extra limbs or fingers, missing fingers, fused fingers, reversed hands, and unnatural joints.
+Avoid garment clipping, fusion with the body, unnatural digging in or lifting, unintended exposure, extreme wide-angle distortion, and excessive skin smoothing. The bust should retain natural, ample volume without gigantism, rigid spheres, abnormal push-up, or shapes defying gravity. Avoid unnatural objects or floating artifacts in the background; do not include text, logos, watermarks, or UI displays in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098866496487276783"></a>
 
