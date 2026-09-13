@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**135** Prompts · Zuletzt hinzugefügt: **2026-09-12**
+**136** Prompts · Zuletzt hinzugefügt: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1835,6 +1835,44 @@ Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 <a name="category-comic-graphic-novel"></a>
 
 ## Comic / Graphic Novel
+
+<a name="prompt-2098919930125332588"></a>
+
+### Übersetzung läuft
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https://x.com/VoxcatAI/status/2098919930125332588)
+
+Illustration · Comic / Graphic Novel · Charakter · Veröffentlicht
+
+Originalbeitrag：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2098919930125332588-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="Bild 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="Bild 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="Bild 8" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

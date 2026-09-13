@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**135** 件 · 最新の追加: **2026-09-12**
+**136** 件 · 最新の追加: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1865,6 +1865,44 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 <a name="category-comic-graphic-novel"></a>
 
 ## コミック / グラフィックノベル
+
+<a name="prompt-2098919930125332588"></a>
+
+### 翻訳中
+
+作者：[@VoxcatAI](https://x.com/VoxcatAI) · [元の投稿](https://x.com/VoxcatAI/status/2098919930125332588)
+
+イラスト · コミック / グラフィックノベル · キャラクター · 配信済み
+
+元の投稿：[@VoxcatAI](https://x.com/VoxcatAI) · [元の投稿](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**概要:** 翻訳中
+
+<img src="images/2098919930125332588-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="画像 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="画像 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="画像 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="画像 8" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ช่วยทีมเปลี่ยนเอกสาร สไล
 
 กดดาวให้คลังนี้เพื่อติดตามพรอมต์ที่คัดสรรทุกวันและค้นหาแนวคิดสร้างสรรค์ใหม่ ๆ
 
-**135** รายการ · เพิ่มล่าสุด: **2026-09-12**
+**136** รายการ · เพิ่มล่าสุด: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1870,6 +1870,44 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 <a name="category-comic-graphic-novel"></a>
 
 ## การ์ตูน / นิยายภาพ
+
+<a name="prompt-2098919930125332588"></a>
+
+### กำลังแปล
+
+ผู้เขียน：[@VoxcatAI](https://x.com/VoxcatAI) · [โพสต์ต้นฉบับ](https://x.com/VoxcatAI/status/2098919930125332588)
+
+ภาพประกอบ · การ์ตูน / นิยายภาพ · ตัวละคร · เผยแพร่แล้ว
+
+โพสต์ต้นฉบับ：[@VoxcatAI](https://x.com/VoxcatAI) · [โพสต์ต้นฉบับ](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**สรุป:** กำลังแปล
+
+<img src="images/2098919930125332588-1.jpg" alt="รูปภาพ 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="รูปภาพ 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="รูปภาพ 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="รูปภาพ 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="รูปภาพ 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="รูปภาพ 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="รูปภาพ 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="รูปภาพ 8" width="480" />
+
+**พรอมต์**
+
+```text
+กำลังแปล
+```
+
+[↑ กลับสู่หมวดหมู่](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**135** Prompt · Ultima aggiunta: **2026-09-12**
+**136** Prompt · Ultima aggiunta: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1835,6 +1835,44 @@ Traduzione in corso
 <a name="category-comic-graphic-novel"></a>
 
 ## Fumetto / Graphic Novel
+
+<a name="prompt-2098919930125332588"></a>
+
+### Traduzione in corso
+
+Autore：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https://x.com/VoxcatAI/status/2098919930125332588)
+
+Illustrazione · Fumetto / Graphic Novel · Personaggio · Pubblicato
+
+Post originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098919930125332588-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

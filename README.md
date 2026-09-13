@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**135** Prompts · Latest addition: **2026-09-12**
+**136** Prompts · Latest addition: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -2067,6 +2067,58 @@ Avoid: top-and-bottom comparisons, hard left-right split cuts, conventional pict
 <a name="category-comic-graphic-novel"></a>
 
 ## Comic / Graphic Novel
+
+<a name="prompt-2098919930125332588"></a>
+
+### Hand-drawn illustration prompt combining childlike doodles, satirical cartoons, and indie zines, featuring handwritten sarcastic commentary and negative space composition.
+
+Author：[@VoxcatAI](https://x.com/VoxcatAI) · [Source](https://x.com/VoxcatAI/status/2098919930125332588)
+
+Illustration · Comic / Graphic Novel · Character · Published
+
+Source：[@VoxcatAI](https://x.com/VoxcatAI) · [Source](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**Summary:** Hand-drawn illustration prompt combining childlike doodles, satirical cartoons, and indie zines, featuring handwritten sarcastic commentary and negative space composition.
+
+<img src="images/2098919930125332588-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="Image 8" width="480" />
+
+**Prompt**
+
+```text
+{Character / Subject}, childlike satirical cartoon × sketch doodle × underground zine.
+
+Adult figure, Western facial features, high nose bridge, deep eye sockets, pronounced cheekbones and jawline, slightly exaggerated facial features. Random facial expressions: disgust, eye-roll, fake smile, speechless, raised eyebrow, deadpan stare, smirking, yet overall keeping it relaxed, playful, cute, and not gloomy.
+
+White paper background, plenty of negative space. Rough black ink pen lines, pencil sketches, crayons, colored pencils, marker doodles, repeated overlapping strokes, messy cross-hatching, unerased draft guidelines, with simple hand-drawn childlike symbols such as stars, suns, flowers, hearts, clouds, little animals, smileys, etc.
+
+Locally and randomly incorporate bright, highly saturated color accents, with colors automatically adapted to the overall tone and theme of the prompt.
+
+Randomly add scribbled handwritten sarcastic punchlines, satirical quotes, arrows, circles, crosses, speech bubbles, and annotations around the character. The dialogue must be short, sharp, absurd, biting, with effortless deadpan humor and a childlike prankster vibe, with text directly participating in the composition.
+
+The language used in dialogues, annotations, and speech bubble texts must match the language of the entire prompt: if the prompt is in Chinese, all in-image text must be in Chinese; if the prompt is in English, all in-image text must be in English; do not mix different languages.
+
+Random poses: crossed arms, shrugging, facepalm, chin rested in hand, hands in pockets, holding a drink, tilted head, squatting, casually leaning against a wall.
+
+Overall, a lighthearted parody style blending a child's doodle sketchbook, indie zine, editorial satirical cartoon, and street sketching. The image is sharp and clear, on clean white paper, with distinctly hand-drawn linework.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**135** 筆內容 · 最新收錄: **2026-09-12**
+**136** 筆內容 · 最新收錄: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1866,6 +1866,44 @@ CGI毛髮、
 <a name="category-comic-graphic-novel"></a>
 
 ## 漫畫 / 圖像小說
+
+<a name="prompt-2098919930125332588"></a>
+
+### 翻譯中
+
+作者：[@VoxcatAI](https://x.com/VoxcatAI) · [查看 X 原帖](https://x.com/VoxcatAI/status/2098919930125332588)
+
+插圖 · 漫畫 / 圖像小說 · 角色 · 已推流
+
+查看 X 原帖：[@VoxcatAI](https://x.com/VoxcatAI) · [查看 X 原帖](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**概括:** 翻譯中
+
+<img src="images/2098919930125332588-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="圖片 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="圖片 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="圖片 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="圖片 8" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**135** Prompts · Adição mais recente: **2026-09-12**
+**136** Prompts · Adição mais recente: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1852,6 +1852,44 @@ Tradução em curso
 <a name="category-comic-graphic-novel"></a>
 
 ## Banda Desenhada / Romance Gráfico
+
+<a name="prompt-2098919930125332588"></a>
+
+### Tradução em curso
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicação original](https://x.com/VoxcatAI/status/2098919930125332588)
+
+Ilustração · Banda Desenhada / Romance Gráfico · Personagem · Publicado
+
+Publicação original：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicação original](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2098919930125332588-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="Imagem 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="Imagem 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="Imagem 8" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

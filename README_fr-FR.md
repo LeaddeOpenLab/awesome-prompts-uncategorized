@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**135** Prompts · Dernier ajout: **2026-09-12**
+**136** Prompts · Dernier ajout: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1835,6 +1835,44 @@ Traduction en cours
 <a name="category-comic-graphic-novel"></a>
 
 ## Bande dessinée / Roman graphique
+
+<a name="prompt-2098919930125332588"></a>
+
+### Traduction en cours
+
+Auteur：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication originale](https://x.com/VoxcatAI/status/2098919930125332588)
+
+Illustration · Bande dessinée / Roman graphique · Personnage · Publié
+
+Publication originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication originale](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2098919930125332588-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="Image 8" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

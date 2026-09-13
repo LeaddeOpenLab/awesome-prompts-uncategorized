@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**135** 개 · 최근 추가: **2026-09-12**
+**136** 개 · 최근 추가: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1865,6 +1865,44 @@ CGI 털,
 <a name="category-comic-graphic-novel"></a>
 
 ## 만화 / 그래픽 노블
+
+<a name="prompt-2098919930125332588"></a>
+
+### 번역 중
+
+작성자：[@VoxcatAI](https://x.com/VoxcatAI) · [원본 게시물](https://x.com/VoxcatAI/status/2098919930125332588)
+
+일러스트레이션 · 만화 / 그래픽 노블 · 캐릭터 · 배포 완료
+
+원본 게시물：[@VoxcatAI](https://x.com/VoxcatAI) · [원본 게시물](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**요약:** 번역 중
+
+<img src="images/2098919930125332588-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="이미지 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="이미지 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="이미지 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="이미지 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="이미지 8" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 

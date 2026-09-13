@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**135** Prompt · Son eklenen: **2026-09-12**
+**136** Prompt · Son eklenen: **2026-09-13**
 
 <a name="catalog"></a>
 
@@ -1852,6 +1852,44 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 <a name="category-comic-graphic-novel"></a>
 
 ## Çizgi Roman / Grafik Roman
+
+<a name="prompt-2098919930125332588"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2098919930125332588)
+
+İllüstrasyon · Çizgi Roman / Grafik Roman · Karakter · Yayımlandı
+
+Orijinal gönderi：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2045131503001342302)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2098919930125332588-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2098919930125332588-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2098919930125332588-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2098919930125332588-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2098919930125332588-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2098919930125332588-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2098919930125332588-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2098919930125332588-8.jpg" alt="Görsel 8" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098762652491374723"></a>
 
