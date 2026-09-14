@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**181** Prompts · Latest addition: **2026-09-14**
+**182** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099309110684778823"></a>
+
+### Hyperrealistic indoor bunny girl cosplay portrait photography, East Asian female kneeling in side profile on a white sofa.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2099309110684778823)
+
+Photography · Portrait / Selfie · Character · Architecture / Interior · Published
+
+**Summary:** Hyperrealistic indoor bunny girl cosplay portrait photography, East Asian female kneeling in side profile on a white sofa.
+
+<img src="images/2099309110684778823-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hyperrealistic indoor cosplay portrait photography, vertical orientation approx. 4:5, an unambiguously adult East Asian female, 20+, kneeling on a white leather sofa, body in a distinct side profile facing towards the left side of the frame, upper body leaning forward, both hands bracing against the top of the sofa backrest, hips and buttocks pushed back and raised, both knees kneeling on the seat cushions, lower legs folded backward. The photographer is located approx. 1.5–2 meters to the front-left of the subject, using a 35–50mm equivalent lens, camera angle near waist-hip height, fully keeping the head, torso, hips/legs, and high heels in frame, with a clear lateral S-curve profile.\n\nThe subject has a small-to-medium bone structure, natural hourglass figure, relatively narrow shoulders, a noticeably slender waist, naturally full hips and buttocks, soft realistic volume in the thighs, and slender calves. Avoid athletic musculature, extreme paper-thin figures, or exaggerated massive buttocks.\n\nThe subject has jet-black ultra-long straight hair extending to around the waist and hips, thin wispy straight bangs across the forehead, with long locks on both sides naturally draping along the cheeks. Wearing thin-framed transparent glasses, looking toward the camera from behind the lenses, head tilted slightly back, cold and languid expression, lips naturally slightly parted. Wearing a very striking pair of black glossy bunny ear headbands, the ears are slender and upright, with one tilted slightly outwards.\n\nOn top, wearing a deep royal blue / indigo semi-sheer chiffon long-sleeve top; the fabric is light and thin with clear sheer transparency while maintaining proper coverage, high neckline hugging the neck, loose sleeves with gathered cuffs, natural wrinkles around shoulders and arms. The top features prominent cutout designs on the back and sides, revealing the skin of the lower back and flanks.\n\nOn the bottom, wearing deep purple-blue high-waisted tight shorts / one-piece stage shorts, fitting snugly around the waist, with small cutouts and fine black lace-up string accents near the side waist and upper thighs, buttock contours naturally distinct yet fully covered. The overall color scheme is dominated by deep blue-violet, black, and skin tones.\n\nWearing black semi-sheer over-the-knee / thigh-high stockings on the legs, with the tops located on the mid-to-upper thighs, wide black welts, stocking denier around 20–30D revealing natural skin tone through the fabric. Wearing black glossy stiletto high heels on feet, slightly pointed or subtly square toes, heels approximately 9–11cm, soles and heels facing towards the right side of the frame in the kneeling pose.\n\nThe scene is a modern minimalist white living room. The subject is kneeling on a large white leather sofa with soft cushions and backrest showing slight indentation marks. On the right side of the background is a full-wall white built-in display shelf, displaying black-and-white photography artworks, light-colored picture frames, green potted plants, pink transparent glass bottles, and a few decorative ornaments. On the upper-left wall hangs a larger vintage black-and-white painting with a silver-gray frame. The main room colors are white and light gray, clean, bright, and modern.\n\nLighting adopts soft natural window light + indoor white ambient light, the subject's skin is bright and leans cool white, with black hair and blue-violet clothing forming a strong contrast against the white sofa. The background is clear without overpowering the subject, without strong cinematic lighting or deep background blur.\n\nOverall quality features high-quality smartphone / mirrorless camera indoor cosplay photoshoot texture: natural sharpness, realistic skin texture, subtle phone HDR, clean colors, clear layered transparency in the chiffon clothing and black stockings, without plastic airbrushed skin or over-sharpening.\n\nKey locked elements: adult East Asian female + ultra-long black straight hair + thin wispy bangs + thin-framed glasses + long black bunny ears + deep royal blue semi-sheer long-sleeve top + deep purple-blue high-waisted shorts + black semi-sheer thigh-high stockings + black stiletto high heels + side-profile kneeling pose on white sofa + both hands bracing backrest + forward leaning torso + hips shifted back + modern white living room + display shelf with picture frames and greenery background.\n\nAvoid: minors, youthful child-like face, standing pose, upright sitting, short hair, no bunny ears, no glasses, red clothing, white stockings, fishnet stockings, sneakers, platform shoes, completely transparent clothing, nudity, extreme exaggerated body proportions, luxurious palace background, strong neon lights, heavily blurred background, anime face, CG look, extra limbs, watermarks and gibberish text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099106797655048428"></a>
 
