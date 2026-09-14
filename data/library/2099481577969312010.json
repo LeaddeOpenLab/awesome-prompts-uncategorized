@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:23:16.230Z",
+  "model": "unknown-image",
+  "prompt": "使用上传的参考图作为严格的人物身份与服装参考。准确保留参考图中的面部、五官、肤色、发型、发色、配饰、服装以及整体氛围，不要进行任何改变。\n\n创作一张高质量的竖版（4:5 或 9:16）混合媒介人物肖像，画面包含：\n\n一个真实感十足的全身人物，人物外貌与参考图中的人保持高度一致。\n在人物旁边的墙壁上，出现一个黑色手绘涂鸦风格的同款人物剪影/影子。\n\n真实人物应该呈现出可爱、略带害羞、俏皮的感觉，并且每次生成时都自然地摆出一个全新、随机、带有恶作剧感的俏皮姿势。\n\n墙上的手绘涂鸦影子也应该做出与真人相同的姿势构思，但表现得更加夸张、混乱、卡通化和充满戏剧性。加入漫画风格的动作线、星星、爱心和闪光效果，让涂鸦影子看起来活泼有趣。\n\n使用干净的白色/奶油色摄影棚墙面，背景保持极简。采用柔和、自然的光线，并确保真人和涂鸦影子都完整呈现在画面中，不被裁切。\n\n涂鸦人物必须能够通过发型、配饰、服装轮廓以及姿势，清晰地让人联想到真实人物。\n\n负面提示词（Negative Prompt）：\n\n更换服装、改变人物身份、第二个真实人物、普通真实阴影、恐怖风格、动漫人物真人化、杂乱背景、重复的指人姿势或手指枪姿势、僵硬的姿势、多余的肢体/手指、身体变形、文字、水印、Logo、AI生成痕迹。",
+  "promptTranslations": {
+    "en": "Use the uploaded reference image as a strict reference for character identity and clothing. Accurately preserve the face, facial features, skin tone, hairstyle, hair color, accessories, clothing, and overall atmosphere from the reference image without making any changes.\n\nCreate a high-quality vertical (4:5 or 9:16) mixed-media character portrait containing:\n\nA highly realistic full-body person whose appearance remains strictly consistent with the person in the reference image.\nOn the wall next to the person, a black hand-drawn doodle-style silhouette/shadow of the same character appears.\n\nThe real person should exude a cute, slightly shy, and playful vibe, naturally striking a brand-new, random, mischievous, and playful pose each time it is generated.\n\nThe hand-drawn doodle shadow on the wall should also share the same pose concept as the real person, but rendered in a more exaggerated, chaotic, cartoonish, and dramatic manner. Incorporate comic-style action lines, stars, hearts, and sparkle effects to make the doodle shadow look lively and fun.\n\nUse a clean white/cream studio wall with a minimalist background. Apply soft, natural lighting, and ensure that both the real person and the doodle shadow are completely presented in the frame without being cropped.\n\nThe doodle figure must clearly evoke the real person through hairstyle, accessories, clothing silhouette, and pose.\n\nNegative Prompt:\n\nChanging clothes, changing character identity, second real person, normal realistic shadow, horror style, live-action anime character, cluttered background, repetitive pointing poses or finger-gun poses, stiff poses, extra limbs/fingers, body deformities, text, watermark, logo, AI-generated artifacts."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for creating a mixed-media portrait featuring an interaction between a real person and a hand-drawn comic doodle shadow on a wall based on a reference image."
+  },
+  "translationVersion": 2,
+  "summary": "基于参考图创作真人与墙面手绘漫画涂鸦影子互动的混合媒介肖像提示词。",
+  "summaryEn": "Prompt for generating mixed-media portraits featuring a realistic person alongside their exaggerated manga doodle shadow.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099481577969312010",
+    "canonicalUrl": "https://x.com/AISuperDomain/status/2099481577969312010",
+    "author": {
+      "username": "AISuperDomain",
+      "displayName": "AI超元域",
+      "profileUrl": "https://x.com/AISuperDomain"
+    },
+    "publishedAt": "2026-09-14T12:53:09.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "zh",
+    "originalText": "🚀这种风格的图像这么火吗？分享下prompt：\n\n使用上传的参考图作为严格的人物身份与服装参考。准确保留参考图中的面部、五官、肤色、发型、发色、配饰、服装以及整体氛围，不要进行任何改变。\n\n创作一张高质量的竖版（4:5 或 9:16）混合媒介人物肖像，画面包含：\n\n一个真实感十足的全身人物，人物外貌与参考图中的人保持高度一致。\n在人物旁边的墙壁上，出现一个黑色手绘涂鸦风格的同款人物剪影/影子。\n\n真实人物应该呈现出可爱、略带害羞、俏皮的感觉，并且每次生成时都自然地摆出一个全新、随机、带有恶作剧感的俏皮姿势。\n\n墙上的手绘涂鸦影子也应该做出与真人相同的姿势构思，但表现得更加夸张、混乱、卡通化和充满戏剧性。加入漫画风格的动作线、星星、爱心和闪光效果，让涂鸦影子看起来活泼有趣。\n\n使用干净的白色/奶油色摄影棚墙面，背景保持极简。采用柔和、自然的光线，并确保真人和涂鸦影子都完整呈现在画面中，不被裁切。\n\n涂鸦人物必须能够通过发型、配饰、服装轮廓以及姿势，清晰地让人联想到真实人物。\n\n负面提示词（Negative Prompt）：\n\n更换服装、改变人物身份、第二个真实人物、普通真实阴影、恐怖风格、动漫人物真人化、杂乱背景、重复的指人姿势或手指枪姿势、僵硬的姿势、多余的肢体/手指、身体变形、文字、水印、Logo、AI生成痕迹。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLbNX5XsAAd2fw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLbNX5XsAAd2fw.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLbNXyXMAAm_b_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLbNXyXMAAm_b_.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 18,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 1479
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AISuperDomain/status/2099481577969312010",
+  "coverUrl": "https://pbs.twimg.com/media/HSLbNX5XsAAd2fw.jpg",
+  "coverPath": "images/2099481577969312010-1.jpg",
+  "imagePaths": [
+    "images/2099481577969312010-1.jpg",
+    "images/2099481577969312010-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSLbNX5XsAAd2fw",
+    "x-image:/media/HSLbNXyXMAAm_b_",
+    "x-post:2099481577969312010"
+  ],
+  "analysis": {
+    "summary": "基于参考图创作真人与墙面手绘漫画涂鸦影子互动的混合媒介肖像提示词。",
+    "summaryEn": "Prompt for generating mixed-media portraits featuring a realistic person alongside their exaggerated manga doodle shadow.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完整呈现了真人少女与墙上黑色卡通涂鸦影子的同框构图，符合提示词设定。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "使用上传的参考图作为严格的人物身份与服装参考。准确保留参考图中的面部、五官、肤色、发型、发色、配饰、服装以及整体氛围，不要进行任何改变。\n\n创作一张高质量的竖版（4:5 或 9:16）混合媒介人物肖像，画面包含：\n\n一个真实感十足的全身人物，人物外貌与参考图中的人保持高度一致。\n在人物旁边的墙壁上，出现一个黑色手绘涂鸦风格的同款人物剪影/影子。\n\n真实人物应该呈现出可爱、略带害羞、俏皮的感觉，并且每次生成时都自然地摆出一个全新、随机、带有恶作剧感的俏皮姿势。\n\n墙上的手绘涂鸦影子也应该做出与真人相同的姿势构思，但表现得更加夸张、混乱、卡通化和充满戏剧性。加入漫画风格的动作线、星星、爱心和闪光效果，让涂鸦影子看起来活泼有趣。\n\n使用干净的白色/奶油色摄影棚墙面，背景保持极简。采用柔和、自然的光线，并确保真人和涂鸦影子都完整呈现在画面中，不被裁切。\n\n涂鸦人物必须能够通过发型、配饰、服装轮廓以及姿势，清晰地让人联想到真实人物。\n\n负面提示词（Negative Prompt）：\n\n更换服装、改变人物身份、第二个真实人物、普通真实阴影、恐怖风格、动漫人物真人化、杂乱背景、重复的指人姿势或手指枪姿势、僵硬的姿势、多余的肢体/手指、身体变形、文字、水印、Logo、AI生成痕迹。",
+    "sourceRange": {
+      "start": 25,
+      "end": 566
+    },
+    "translations": {
+      "zh": "使用上传的参考图作为严格的人物身份与服装参考。准确保留参考图中的面部、五官、肤色、发型、发色、配饰、服装以及整体氛围，不要进行任何改变。\n\n创作一张高质量的竖版（4:5 或 9:16）混合媒介人物肖像，画面包含：\n\n一个真实感十足的全身人物，人物外貌与参考图中的人保持高度一致。\n在人物旁边的墙壁上，出现一个黑色手绘涂鸦风格的同款人物剪影/影子。\n\n真实人物应该呈现出可爱、略带害羞、俏皮的感觉，并且每次生成时都自然地摆出一个全新、随机、带有恶作剧感的俏皮姿势。\n\n墙上的手绘涂鸦影子也应该做出与真人相同的姿势构思，但表现得更加夸张、混乱、卡通化和充满戏剧性。加入漫画风格的动作线、星星、爱心和闪光效果，让涂鸦影子看起来活泼有趣。\n\n使用干净的白色/奶油色摄影棚墙面，背景保持极简。采用柔和、自然的光线，并确保真人和涂鸦影子都完整呈现在画面中，不被裁切。\n\n涂鸦人物必须能够通过发型、配饰、服装轮廓以及姿势，清晰地让人联想到真实人物。\n\n负面提示词（Negative Prompt）：\n\n更换服装、改变人物身份、第二个真实人物、普通真实阴影、恐怖风格、动漫人物真人化、杂乱背景、重复的指人姿势或手指枪姿势、僵硬的姿势、多余的肢体/手指、身体变形、文字、水印、Logo、AI生成痕迹。",
+      "en": "Use the uploaded image as a strict reference for identity and clothing, retaining all facial features, skin tone, hair, and outfit unchanged.\n\nCreate a vertical mixed-media portrait with:\n- A realistic full-body subject matching the reference.\n- A black hand-drawn manga doodle shadow of the subject on the wall beside them.\n\nThe subject poses playfully and slightly shyly. The doodle shadow mimics the pose in an exaggerated, dynamic cartoon style with manga action lines, stars, and hearts.\nSet against a clean white/cream studio wall with soft natural lighting, ensuring both figures are uncropped.\n\nNegative Prompt: changing clothes, altered identity, second real person, realistic shadow, horror, anime to realism, cluttered background, stiff pose, extra limbs/fingers, distorted body, text, watermark, AI artifacts."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "mixed-media portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
