@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**190** Prompts · Latest addition: **2026-09-14**
+**191** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2012,6 +2012,32 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099346814327738872"></a>
+
+### Cinematic portrait of a South Asian man in an ornate chair under warm venetian blind lighting.
+
+Author：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tanvir48992/status/2099346814327738872)
+
+Photography · Cinematic / Film Still · Portrait / Selfie · Character · Published
+
+Source：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tanvir48992/status/2098828983488180727)
+
+**Summary:** Cinematic portrait of a South Asian man in an ornate chair under warm venetian blind lighting.
+
+<img src="images/2099346814327738872-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099346814327738872-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Cinematic portrait of a young South Asian man with thick curly dark hair and a full beard, sitting sideways in an ornate vintage wooden carved chair, gazing pensively out of frame with a calm, contemplative expression. He wears a camel/tan colored corduroy or suede overshirt with a large collar, open over a dark brown t-shirt, paired with blue jeans, hands resting relaxed on the chair's armrests. The scene is lit by warm golden hour sunlight streaming through a venetian blind window, casting sharp horizontal light-and-shadow stripes across his face, chest, and the wall behind him. A stack of old hardcover books sits on a small wooden side table near the window in the background, softly lit and slightly out of focus. The room has a warm, moody, sepia-toned color palette with deep browns and amber tones, dramatic chiaroscuro lighting, shallow depth of field, dust particles subtly visible in the light beams, cinematic and nostalgic mood, shot as if on a 50mm lens at f/1.8, ultra-realistic, high detail, film-like color grading.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099332324538093913"></a>
 

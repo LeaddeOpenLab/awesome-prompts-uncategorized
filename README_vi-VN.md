@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**190** Prompt · Bổ sung mới nhất: **2026-09-14**
+**191** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1392,6 +1392,32 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2099346814327738872"></a>
+
+### Đang dịch
+
+Tác giả：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2099346814327738872)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2098828983488180727)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099346814327738872-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099346814327738872-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099332324538093913"></a>
 
