@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:27:41.594Z",
+  "model": "unknown-image",
+  "prompt": "将输入的旅行照片制作成一张独立的 3:4 竖版上下对比海报。上半部分完整保留原始真实照片，保持主体身份、数量、构图、透视、关键建筑或自然轮廓、原始光线和环境关系，只做轻微出版物调色；中间使用一条干净、克制的米白色水平分隔线。下半部分将同一场景重新组织为真正的江户时期日本浮世绘木版画，保留照片中最有辨识度的主体和空间关系，但主动改变信息密度、色彩面积和构图重心，不做同构图照片滤镜。\n使用米白色和纸纤维底、深靛蓝与墨黑雕版轮廓、朱红、赭石、青蓝、灰绿有限套色、平涂色块、斜向排线、短刻痕、层叠轮廓、轻微缺墨、干涩飞白、墨色渗入纸纤维和轻微套色错位。云、树叶、屋瓦、山脊、道路、灯笼、建筑与其他环境元素都依据输入照片提炼成有节奏的木刻纹样。下半不复刻照片的完整取景，而是通过主体放大或缩小提炼、背景压缩和连续和纸留白形成江户版画式呼吸空间。颜色从原照片提取并压缩，不套用固定海蓝模板；若原图不是海景，不添加海浪或海岸。\n只使用原照片中真实可见的元素，不发明地标、人物、动物、交通工具或文化符号。上半必须保持真实摄影，下半必须是同一地点同一主体的木版画转译。不要生成普通滤镜、现代扁平矢量、平面卡通、写实油画、3D 渲染、渐变塑料质感、整张照片蓝色化、改变建筑结构或山体轮廓。不要文字、标题、字幕、假汉字、印章、logo、水印、原图/AI 图角标或装饰边框。",
+  "promptTranslations": {
+    "en": "Turn the input travel photo into a standalone 3:4 vertical top-and-bottom comparison poster. The top half completely preserves the original real photo, maintaining subject identity, count, composition, perspective, key architectural or natural contours, original lighting, and environmental relationships, with only slight publication color grading; a clean, restrained off-white horizontal dividing line is used in the middle. The bottom half reorganizes the same scene into an authentic Edo-period Japanese Ukiyo-e woodblock print, retaining the most recognizable subjects and spatial relationships from the photo, but proactively altering information density, color areas, and compositional center of gravity, without applying a same-composition photo filter.\nUse an off-white washi paper fiber base, deep indigo and sumi-black carved outlines, a limited color palette of vermilion, ochre, cyan-blue, and grayish-green, flat color blocks, diagonal hatching, short carved incisions, layered contours, slight ink starvation, dry-brush flying white, ink bleed into paper fibers, and slight misregistration. Clouds, foliage, roof tiles, ridgelines, roads, lanterns, architecture, and other environmental elements are all abstracted from the input photo into rhythmic woodcut patterns. The bottom half does not replicate the photo's full framing, but instead creates Edo woodblock breathing room through subject enlargement or reduction and refinement, background compression, and continuous washi paper negative space. Colors are extracted and compressed from the original photo without applying a fixed ocean-blue template; if the original image is not a seascape, do not add waves or coastlines.\nUse only elements genuinely visible in the original photo; do not invent landmarks, people, animals, vehicles, or cultural symbols. The top half must remain real photography, and the bottom half must be a woodblock print translation of the exact same location and subject. Do not generate generic filters, modern flat vector art, 2D cartoons, realistic oil paintings, 3D rendering, gradient plastic textures, turning the entire photo blue, or altering architectural structures or mountain silhouettes. No text, titles, subtitles, fake Chinese characters, seals, logos, watermarks, original/AI corner badges, or decorative borders."
+  },
+  "summaryTranslations": {
+    "en": "Transform a real travel photo into a vertically split-screen poster, retaining the original photography on top and reconstructing it in the style of an Edo-period Ukiyo-e woodblock print below."
+  },
+  "translationVersion": 2,
+  "summary": "将真实旅行照片转制为上下分屏海报，上部保留原摄影，下部重构为江户浮世绘木版画风格。",
+  "summaryEn": "Converts travel photos into a vertical split poster: original photo on top, Edo woodblock ukiyo-e print below.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099520295405232546",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2099520295405232546",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-14T15:27:00.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "zh",
+    "originalText": "【EDO WOODBLOCK SEASCAPE｜江户木版海景】\n这套 Prompt 的核心是把“浮世绘”落实到木版制版逻辑，而不是简单套一层蓝色滤镜：用有限套色、深靛轮廓、平涂色块、排线刻痕、和纸纤维与轻微套色错位重建照片，同时保留每张照片独有的建筑、山体或街巷结构。\n\nprompt：\n将输入的旅行照片制作成一张独立的 3:4 竖版上下对比海报。上半部分完整保留原始真实照片，保持主体身份、数量、构图、透视、关键建筑或自然轮廓、原始光线和环境关系，只做轻微出版物调色；中间使用一条干净、克制的米白色水平分隔线。下半部分将同一场景重新组织为真正的江户时期日本浮世绘木版画，保留照片中最有辨识度的主体和空间关系，但主动改变信息密度、色彩面积和构图重心，不做同构图照片滤镜。\n使用米白色和纸纤维底、深靛蓝与墨黑雕版轮廓、朱红、赭石、青蓝、灰绿有限套色、平涂色块、斜向排线、短刻痕、层叠轮廓、轻微缺墨、干涩飞白、墨色渗入纸纤维和轻微套色错位。云、树叶、屋瓦、山脊、道路、灯笼、建筑与其他环境元素都依据输入照片提炼成有节奏的木刻纹样。下半不复刻照片的完整取景，而是通过主体放大或缩小提炼、背景压缩和连续和纸留白形成江户版画式呼吸空间。颜色从原照片提取并压缩，不套用固定海蓝模板；若原图不是海景，不添加海浪或海岸。\n只使用原照片中真实可见的元素，不发明地标、人物、动物、交通工具或文化符号。上半必须保持真实摄影，下半必须是同一地点同一主体的木版画转译。不要生成普通滤镜、现代扁平矢量、平面卡通、写实油画、3D 渲染、渐变塑料质感、整张照片蓝色化、改变建筑结构或山体轮廓。不要文字、标题、字幕、假汉字、印章、logo、水印、原图/AI 图角标或装饰边框。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLgWLiaEAEg1Rn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLgWLiaEAEg1Rn.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLgWLfaMAAGyUR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLgWLfaMAAGyUR.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLgWLlaoAAWxJ7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLgWLlaoAAWxJ7.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLgWLjacAEJ36j.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLgWLjacAEJ36j.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 178
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2099520295405232546",
+  "coverUrl": "https://pbs.twimg.com/media/HSLgWLiaEAEg1Rn.jpg",
+  "coverPath": "images/2099520295405232546-1.jpg",
+  "imagePaths": [
+    "images/2099520295405232546-1.jpg",
+    "images/2099520295405232546-2.jpg",
+    "images/2099520295405232546-3.jpg",
+    "images/2099520295405232546-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSLgWLiaEAEg1Rn",
+    "x-image:/media/HSLgWLfaMAAGyUR",
+    "x-image:/media/HSLgWLlaoAAWxJ7",
+    "x-image:/media/HSLgWLjacAEJ36j",
+    "x-post:2099520295405232546"
+  ],
+  "analysis": {
+    "summary": "将真实旅行照片转制为上下分屏海报，上部保留原摄影，下部重构为江户浮世绘木版画风格。",
+    "summaryEn": "Converts travel photos into a vertical split poster: original photo on top, Edo woodblock ukiyo-e print below.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均呈现上下对半分割构图：上部分为真实摄影，下部分为根据原图元素转译的浮世绘木版画，纸质肌理与排线细节完全吻合提示词描述。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "将输入的旅行照片制作成一张独立的 3:4 竖版上下对比海报。上半部分完整保留原始真实照片，保持主体身份、数量、构图、透视、关键建筑或自然轮廓、原始光线和环境关系，只做轻微出版物调色；中间使用一条干净、克制的米白色水平分隔线。下半部分将同一场景重新组织为真正的江户时期日本浮世绘木版画，保留照片中最有辨识度的主体和空间关系，但主动改变信息密度、色彩面积和构图重心，不做同构图照片滤镜。\n使用米白色和纸纤维底、深靛蓝与墨黑雕版轮廓、朱红、赭石、青蓝、灰绿有限套色、平涂色块、斜向排线、短刻痕、层叠轮廓、轻微缺墨、干涩飞白、墨色渗入纸纤维和轻微套色错位。云、树叶、屋瓦、山脊、道路、灯笼、建筑与其他环境元素都依据输入照片提炼成有节奏的木刻纹样。下半不复刻照片的完整取景，而是通过主体放大或缩小提炼、背景压缩和连续和纸留白形成江户版画式呼吸空间。颜色从原照片提取并压缩，不套用固定海蓝模板；若原图不是海景，不添加海浪或海岸。\n只使用原照片中真实可见的元素，不发明地标、人物、动物、交通工具或文化符号。上半必须保持真实摄影，下半必须是同一地点同一主体的木版画转译。不要生成普通滤镜、现代扁平矢量、平面卡通、写实油画、3D 渲染、渐变塑料质感、整张照片蓝色化、改变建筑结构或山体轮廓。不要文字、标题、字幕、假汉字、印章、logo、水印、原图/AI 图角标或装饰边框。",
+    "sourceRange": {
+      "start": 144,
+      "end": 721
+    },
+    "translations": {
+      "zh": "将输入的旅行照片制作成一张独立的 3:4 竖版上下对比海报。上半部分完整保留原始真实照片，保持主体身份、数量、构图、透视、关键建筑或自然轮廓、原始光线和环境关系，只做轻微出版物调色；中间使用一条干净、克制的米白色水平分隔线。下半部分将同一场景重新组织为真正的江户时期日本浮世绘木版画，保留照片中最有辨识度的主体和空间关系，但主动改变信息密度、色彩面积和构图重心，不做同构图照片滤镜。\n使用米白色和纸纤维底、深靛蓝与墨黑雕版轮廓、朱红、赭石、青蓝、灰绿有限套色、平涂色块、斜向排线、短刻痕、层叠轮廓、轻微缺墨、干涩飞白、墨色渗入纸纤维和轻微套色错位。云、树叶、屋瓦、山脊、道路、灯笼、建筑与其他环境元素都依据输入照片提炼成有节奏的木刻纹样。下半不复刻照片的完整取景，而是通过主体放大或缩小提炼、背景压缩和连续和纸留白形成江户版画式呼吸空间。颜色从原照片提取并压缩，不套用固定海蓝模板；若原图不是海景，不添加海浪或海岸。\n只使用原照片中真实可见的元素，不发明地标、人物、动物、交通工具或文化符号。上半必须保持真实摄影，下半必须是同一地点同一主体的木版画转译。不要生成普通滤镜、现代扁平矢量、平面卡通、写实油画、3D 渲染、渐变塑料质感、整张照片蓝色化、改变建筑结构或山体轮廓。不要文字、标题、字幕、假汉字、印章、logo、水印、原图/AI 图角标或装饰边框。",
+      "en": "Transform an input travel photo into a standalone 3:4 vertical split comparison poster. The top half preserves the authentic original photo, maintaining subjects, perspective, and lighting. The bottom half reorganizes the scene into an Edo-period Japanese ukiyo-e woodblock print using off-white washi paper texture, indigo contours, flat color blocks, woodcut patterns, and slight misregistration, while avoiding generic filters or altering structures."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "以图生图将旅行风景照重构为上下分屏的摄影与江户浮世绘木版画对比海报。",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
