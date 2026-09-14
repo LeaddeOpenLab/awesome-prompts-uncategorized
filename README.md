@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**184** Prompts · Latest addition: **2026-09-14**
+**187** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,206 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099326823431852203"></a>
+
+### Photorealistic portrait prompt depicting an adult Japanese woman in floral embroidered lingerie, standing by a sunlit bedroom window in the morning.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099326823431852203)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic portrait prompt depicting an adult Japanese woman in floral embroidered lingerie, standing by a sunlit bedroom window in the morning.
+
+<img src="images/2099326823431852203-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Morning by the Window | Floral Embroidered Lingerie and Soft Light 🌟
+
+[Subject / Art Style]
+A photorealistic image of a clearly adult Japanese woman quietly gazing at the light by the bedroom window of her home in the morning. While set in an ordinary, casual morning, it naturally blends elements of high-end Japanese lingerie advertising, women's fashion magazines, and elegant gravure photo books.
+Rather than an elaborate studio shoot, it retains the intimacy of a lover casually glancing across the same room. Focusing on cleanliness, soft sensuality, and the morning's distinctive translucency, the image succeeds as a cohesive photograph encompassing not only the person but also the lived-in warmth of the bedroom.
+
+[Location / Background / Worldview]
+A bright home bedroom with a white base palette. On the right side of the frame are floor-length sheer white curtains and a large window, while in the back left sits a wooden bed with white sheets and a soft, natural ecru blanket. Beside the bed are a small wooden nightstand, a pale-toned lamp, and a few understated plants and small accessories.
+Small photos and simple decor are scattered on the wall, with a rounded-leaf houseplant placed near the window. Not overly arranged like a hotel room, it preserves the comfortable temperature of a room where a woman actually lives daily.
+
+[Season / Time / Weather]
+A calm, clear morning between spring and early summer. The time is around 7:00 AM to 9:00 AM; rather than harsh direct sunlight, gentle morning light spreads through the white curtains into the room.
+The outside air is slightly warm and fresh, with a hint of a breeze at the window. The curtains and delicate loose strands of hair sway ever so slightly, evoking a quiet, pleasant holiday morning.
+
+[Subject Details]
+A clearly adult Japanese woman around 20 to 28 years old. Soft, well-proportioned facial features, slightly large dark eyes, natural eyebrows, a slender nasal bridge, and supple, rosy lips. Her skin is a light ochre tone, with a realistic texture that retains visible pores and delicate shading. Her hair is dark brown, falling just past her shoulders with natural waves, leaving fine loose strands around her face.
+Her shoulders, arms, and legs are delicate, presenting an elegantly glamorous figure where a slender waist harmonizes with naturally rounded hips. Her bust is noticeably large and volumous, but not rigidly spherical; it expresses soft roundness and natural weight that follows her posture and attire.
+
+[Outfit / Accessories]
+A luxurious bra and panty set based in ivory. The bra features subtle small floral embroidery in pale pink, beige, and dusty green, delicate scalloped lace, sheer tulle, and a small bow at the center. The panties share the same floral embroidery and lace, creating a unified look.
+Without unnaturally pushing up the ample bust, the cups and straps are realistically sized to support the body. The fabric does not gap or dig in, with the embroidery and lace following the contours of her body naturally. No accessories are worn, prioritizing a simple morning mood.
+
+[Pose / Action / Gaze]
+Standing near the window, her body angled slightly toward the camera. Her weight is naturally anchored primarily on her left leg, with her right leg brought slightly forward and the knee gently relaxed. Her waist and back are not unnaturally arched, creating a relaxed, natural standing posture with dropped shoulders.
+Her right hand is raised naturally toward her right shoulder, elbow gently bent, with her fingertips resting softly near her shoulder and collarbone. She is not pulling the strap, merely touching it in a soft gesture. Her left arm hangs naturally at her side. Her face is turned toward the window, her gaze directed not at the camera, but slightly upward outside the window.
+
+[Expression / Emotion]
+A gentle smile as if recalling something pleasant while looking at the morning light. Not laughing with an open mouth; merely the corners of her lips are slightly raised, and her cheeks and eyes are naturally relaxed.
+An impression of greeting a pleasant morning while still carrying a touch of sleepiness. It carries a soft intimacy as if mindful of her lover nearby, but without an overtly seductive expression.
+
+[Composition / Camera]
+A 4:5 vertical composition suited for X posts. A shot framed from the crown of the head to mid-thigh, keeping it above the knees, with the subject positioned slightly to the right of center. The bright window is kept on the right, and the bed and room interior on the left, composing the frame so that the scene is conveyed through both the subject and the background.
+The camera is positioned at roughly chest-to-eye level of the woman, at a shooting distance of about 2 to 3 meters. A natural focal length equivalent to 50–85mm (standard to medium telephoto) is used, avoiding wide-angle exaggerations of the body. The background is only lightly blurred, with a depth of field that keeps the bedroom ambiance discernible.
+
+[Lighting / Color / Texture / Atmosphere]
+The primary light source is the natural morning light coming through the window on the right side of the frame. Diffused by the white curtains, soft light strikes her face, shoulders, bust, and arms from a diagonal front angle, while weak bounce light enters from the room's walls and white bedding on the opposite side. Shadows are kept soft, just enough to clearly convey the natural three-dimensionality of her body.
+Pores, fine vellus hair, healthy complexion, and subtle shading are retained on her skin, while individual strands and a gentle sheen are rendered in her hair. Lace, tulle, wooden furniture, white bedding, and plant leaves all possess distinct textures. The overall color palette is bright and translucent, centered around ivory, white, pale wood grain, and plant greenery.
+
+[Quality / Exclusions]
+High-resolution photorealistic rendering. Prioritizes natural human anatomy, lighting, perspective, and skin/fabric textures as if captured by an actual camera.
+Avoid underage-looking figures, overly childish faces, unnatural bodies, extra limbs or fingers, missing fingers, fused fingers, unnatural joints, confusion between left and right hands, wardrobe malfunctions, body and clothing fusing together, unintended nudity, extreme wide-angle distortion, and excessive skin-smoothing filters. Maintain a rich, natural volume in the bust without unnatural enlargement, rigid spherical shapes, excessive push-up, or gravity-defying forms. Do not include text, logos, watermarks, or UI elements in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099325110603923891"></a>
+
+### Photorealistic portrait prompt of a Japanese woman lying on a bed in a hotel room at night, wearing a pale blue camisole.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099325110603923891)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic portrait prompt of a Japanese woman lying on a bed in a hotel room at night, wearing a pale blue camisole.
+
+<img src="images/2099325110603923891-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Hotel Night | Pale Blue Frilled Lace and a Sweet Gaze🌟
+
+[Subject & Art Style]
+A photorealistic photobook-style portrait set in a hotel room at night, featuring a distinctly adult Japanese woman as the subject. Combining the natural feel of candid everyday photography with the refinement of a fashion magazine and the captivating gaze of a gravure photobook. Rather than sheer skin exposure, it conveys cuteness, elegant sensuality, and an intimate proximity akin to lovers through her facial expression, posture, soft lighting, and delicate clothing.
+
+[Location, Background, & Worldview]
+A bed in a calm, high-end hotel guest room. Centered around white sheets, large pillows, and an upholstered headboard, with a bedside warm-toned night lamp, a telephone, and a small tray modestly arranged. Beyond the window, city lights at night appear as subtle bokeh; the background is not overly assertive, preserving the tranquility and depth characteristic of a hotel.
+
+[Season, Time of Day, & Weather]
+Season is not overly specified; a gentle, climate-controlled night. The time is late at night, pitch-black outside the window with only city lights visible. Outdoor weather is not emphasized, and a windless, peaceful air fills the room. The contrast between the nocturnal exterior tones and the warm indoor lighting creates an ambiance of private time shared by two people.
+
+[Character Setup]
+A distinctly adult Japanese woman around 20 to 28 years old. Soft, well-proportioned facial features, natural eyes that are not excessively large, a slender nasal bridge, and rosy, soft lips. Dark brown, shoulder-length wavy hair with fine stray strands framing her face. Skin with a light ochre tone, featuring realistic textures with pores, subtle shading, and a natural healthy glow.
+
+Her body type is a naturally glamorous figure harmonizing slender shoulders and limbs, a narrow waist, and feminine curves. The bust has an undeniably full and prominent volume, yet without being unnaturally exaggerated; it is portrayed with soft roundness and dimensional presence consistent with posture and gravity. The hips also possess gentle curves naturally connecting from the waist.
+
+[Costume & Accessories]
+A pale blue camisole with thin straps. Adorned with delicate frilled lace around the chest and shoulders, small ribbons, and modest stitching accents, presenting a sweet and feminine design. Made of a soft, thin yet not overly sheer fabric that naturally drapes along her body curves, with adequate coverage across the bust.
+
+Bottoms are ivory shorts. Crafted from soft fabric with light frilled hems, creating a relaxing bedroom mood. Essentially no accessories are worn, letting the sheer charm of the outfit take center stage.
+
+[Pose, Movement, & Gaze]
+Lying diagonally across the bed, propping up her upper body slightly with one elbow resting on a pillow. Naturally supporting her body with her elbow and forearm, while her other hand rests lightly on the sheets in front of her. Her lower body rests on the bed, her legs flowing naturally alongside her side-lying posture without awkward crossing or arching.
+
+Her chest and shoulders are not facing dead-on, but slightly angled open toward the camera. Her neck is raised slightly, with only her face turned toward the viewer; she does not look up from below, but locks her gaze directly with the camera as if looking at someone positioned slightly higher. Avoid body contortions or excessive arching of the lower back.
+
+[Expression & Emotion]
+A charmingly alluring expression: slightly shy yet refusing to avert her gaze. Her eyes are soft without being overly narrowed, casting a quiet gaze that seems to check the other person's reaction. Brows are naturally relaxed, with a subtle blush on her cheeks.
+
+Her mouth does not break into a broad smile, but forms a reserved smile with the corners of her lips slightly upturned. Rather than a manufactured pose, it is an expression brimming simultaneously with bashfulness, reassurance, and a hint of anticipation, like an emotion caught mid-moment while gazing at someone dear to her.
+
+[Composition & Camera]
+A 4:5 vertical composition suited for X posts. A mid-thigh/above-the-knee framing from the crown of the head to near the thighs, neatly balancing her face, upper body, camisole, and the white bed linens within a single shot. Avoid cramming the subject across the entire frame, leaving breathing room so the night lamp and hotel background remain partially visible.
+
+The camera captures from the bedside at roughly the same height as the subject or slightly from above. Use a natural standard to moderate telephoto focal length, avoiding extreme wide-angle distortion that exaggerates the body or face. Keep the background lightly blurred while retaining enough information to recognize it as a hotel guest room.
+
+[Lighting, Color, Texture, & Mood]
+The primary light source is the warm-toned bedside night lamp. Soft light illuminates diagonally from the front of her face, while faint bounced light from the white sheets and walls on the opposite side ensures shadows do not collapse into pure black. Warm highlights and natural gradations remain on her skin, producing a calm, dimensional night atmosphere.
+
+A soft color palette combining the pale blue outfit and ivory bedding with the amber glow of the lamp. Skin is not excessively airbrushed; individual hair strands and wisps, fine lace on the clothing, tension in the fabric, and natural creases are depicted. The overall mood is quiet and romantic, yet she does not look sleepy, preserving a subtle photobook-like tension aware of the camera.
+
+[Quality & Exclusions]
+High-resolution photorealistic rendering. Prioritize the human anatomy, light, fabric, and perspective as if shot with a real camera. Avoid underage-looking individuals, overly youthful facial features, unnatural anatomy, extra limbs or fingers, missing fingers, fused fingers, awkward joints, left-right hand confusion, body-clothing merging, garment clipping, or unintentional exposure.
+
+While maintaining a naturally full bust volume, do not depict rigid spherical shapes, abnormal push-up effects, gravity-defying forms, or compositions that exclusively emphasize the bust. Avoid extreme wide-angle distortion, excessive skin smoothing, unnatural backgrounds, text, logos, watermarks, and UI elements.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099325816232620410"></a>
+
+### Photorealistic prompt capturing an adult Japanese woman wearing ivory lingerie, rising from bed in a morning bedroom.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099325816232620410)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic prompt capturing an adult Japanese woman wearing ivory lingerie, rising from bed in a morning bedroom.
+
+<img src="images/2099325816232620410-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Morning Bedroom | Ivory Lingerie and a Gentle Awakening 🌟
+
+[Subject & Artistic Style]
+A photorealistic image capturing the moment an unmistakably adult Japanese woman slowly rises from bed in her morning bedroom at home. Grounded in the intimate authenticity of a private everyday room, the aesthetic seamlessly blends elements of high-end Japanese lingerie advertising, an elegant gravure photo book, and a refined fashion magazine.
+
+Rather than simply emphasizing the physique, the composition works as a unified artistic piece encompassing morning light, white bedding, a calm expression, and the delicate texture of the lingerie. While maintaining an intimate proximity as if photographed up close by a partner, precedence is given to a clean, tasteful, and refined photographic expression.
+
+[Location, Background, & Setting]
+The setting is a lived-in, bright home bedroom. Centered around a bed dressed with white to soft ivory sheets and pillows, the background features white lace curtains, a small wooden side table, a simple lamp, and modest house plants. It should feel like a tidy, natural personal room rather than a luxury hotel.
+
+The foreground showcases slightly rumpled, soft bedsheets, the midground features the subject, and the background displays the window and furniture to create a sense of depth. Background props are kept minimal, serving only to complement the subject and the morning atmosphere without cluttering the scene.
+
+[Season, Time, & Weather]
+The season is a mild morning between spring and early summer. The time is around 7:00 AM, bright yet before the sunlight becomes too harsh. Outside is clear, and the light softly diffuses into the room through sheer curtains.
+
+A gentle breeze barely stirs the edge of the curtains. The indoor air retains a pleasant morning coolness, evoking the quiet calm immediately after waking alongside the bright anticipation of a new day.
+
+[Subject Details]
+A clearly adult Japanese woman, approximately 20 to 28 years old. She has soft, well-proportioned, mature facial features with moderately large dark eyes, natural eyebrows, a slender and neat nose bridge, and soft, rosily-flushed lips. Her dark brown, shoulder-length hair has natural, loose, slightly tousled waves typical of just waking up, with delicate stray strands framing her face.
+
+Her skin has a fair, warm ochre tone with a realistic texture that preserves pores and subtle shadows. She has slender shoulders and limbs, a narrow waist, and an overall elegantly and naturally glamorous figure; her bust is distinctly full and ample, possessing a soft natural weight and rounded contour. The lines flowing from her waist to hips curve effortlessly, maintaining balanced proportions with her face and posture.
+
+[Costume & Accessories]
+She wears high-end ivory lingerie consisting of a matching bra and panties. The bra features delicate floral embroidery, fine scalloped lace, layered sheer tulle, and a small bow at the center. The panties incorporate matching embroidery and lace, creating a unified set reminiscent of quality Japanese lingerie advertising.
+
+The garment fabric has ample coverage and realistic cup construction that naturally conforms to her full bust, avoiding excessive push-up or unnatural digging into the skin. The lace and tulle have a soft translucency while avoiding unintended exposure. No jewelry or accessories are worn, prioritizing a simple, fresh-from-sleep naturalness.
+
+[Pose, Action, & Gaze]
+Midway through slowly propping herself up from lying down on the bed. Her body is angled slightly diagonally; her left hand rests on the sheets beside her, naturally supporting her upper body with her arm bearing her weight. Her hips and legs remain on the bed, while her right hand rests relaxed near her thigh.
+
+Her shoulders are not forced back, and her ribcage is naturally open. Weight is distributed naturally between her arm and hips, without extreme arching of the lower back or twisting of the torso. Only her face naturally turns toward the camera, her gaze looking directly into the lens. The scene captures the exact moment she wakes and sits up, noticing the presence of her partner right before her.
+
+[Facial Expression & Emotion]
+A calm, gentle expression retaining a hint of morning sleepiness. Her eyes are soft without tension, and her eyebrows are relaxed. A faint, subtle smile touches her lips, exuding an intimacy that suggests quiet delight at finding her partner there.
+
+Neither a broad grin nor an overtly seductive expression, the look balances morning vulnerability with mature composure. A sense of security rests deep within her gaze, giving her entire face a naturally relaxed demeanor.
+
+[Composition & Camera]
+A 4:5 vertical portrait composition suited for an X (Twitter) post. It is framed as a moderately spacious medium shot capturing from the crown of her head down to near her knees, leaving ample room for the bed and window background rather than filling the entire frame with the figure alone. The subject is positioned slightly to the left of center, allowing the bedding and room depth to unfold on the right.
+
+The camera is set at a natural eye level roughly even with the bed, avoiding upward angles. A standard to short telephoto focal length around 50–70mm is simulated, avoiding wide-angle distortions of the body or face. The background is softly blurred with a gentle bokeh, preserving enough detail to recognize the bedroom setting.
+
+[Lighting, Color, Texture, & Mood]
+The primary light source is natural morning light streaming from the window on the left side of the frame. Diffused through the white curtain, it casts soft highlights across her face, shoulders, décolletage, and lingerie. Natural reflected fill light from the white bedding on the opposite side prevents harsh, crushed shadows.
+
+The color palette consists of warm neutrals centered around ivory, white, pale beige, and light wood tones. The rendering meticulously depicts natural flush and fine shadows on the skin, individual strands and soft sheen in the hair, textural relief in the lace embroidery, sheer lightness of the tulle, and delicate folds and wrinkles in the bedsheets. The overall mood is quiet and luminous, coexisting with morning intimacy and the polished elegance of a photography art book.
+
+[Quality & Negative Elements]
+Rendered as a high-resolution photorealistic photograph emphasizing authentic human anatomy, realistic perspective, and tangible textures of skin, hair, and fabric. Avoid underage-looking individuals, overly childish facial features, unnatural joints, extra limbs or fingers, missing fingers, fused digits, or misaligned hands.
+
+Avoid wardrobe malfunctions, clipping between body and fabric, unnatural fabric pinching, unintended exposure, extreme wide-angle distortion, or overly smoothed skin retouching. While the bust remains full with natural volume, avoid abnormal enlargement, rigid spherical shapes, extreme push-up effects, or gravity-defying forms. No text, logos, watermarks, or UI overlays in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099326446942777697"></a>
 
