@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**183** Prompts · Dernier ajout: **2026-09-14**
+**184** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1268,6 +1268,30 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2099337591476924777"></a>
+
+### Traduction en cours
+
+Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2099337591476924777)
+
+Photographie · Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Alimentation / Boissons · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099337591476924777-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099337591476924777-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099260377049768153"></a>
 

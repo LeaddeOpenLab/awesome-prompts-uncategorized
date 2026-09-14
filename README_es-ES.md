@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**183** Prompts · Última incorporación: **2026-09-14**
+**184** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1304,6 +1304,30 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2099337591476924777"></a>
+
+### Traducción en curso
+
+Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2099337591476924777)
+
+Fotografía · Cine / Fotograma de película · Retrato / Selfie · Personaje · Comida / Bebida · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099337591476924777-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099337591476924777-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099260377049768153"></a>
 

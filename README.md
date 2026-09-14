@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**183** Prompts · Latest addition: **2026-09-14**
+**184** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1750,6 +1750,30 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099337591476924777"></a>
+
+### Cinematic portrait prompt of a girl in a striped sweater drinking an iced latte.
+
+Author：[@oye\_samia](https://x.com/oye_samia) · [Source](https://x.com/oye_samia/status/2099337591476924777)
+
+Photography · Cinematic / Film Still · Portrait / Selfie · Character · Food / Drink · Published
+
+**Summary:** Cinematic portrait prompt of a girl in a striped sweater drinking an iced latte.
+
+<img src="images/2099337591476924777-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099337591476924777-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+A cinematic close-up portrait of a girl, slightly grainy. She stands against a dark grey matte wall. Her makeup has a soft glow, glossy full lips, mascara, and black eyeliner. Her hair is long, straight, and Old Money-styled, falling to her waist, with a few strands across her face from the wind. She wears a chunky grey knit sweater with dark red stripes, one shoulder bare, and loose dark red jeans with raw edges. She is drinking an iced latte from a dark red cardboard cup. She has a slight closed-mouth smile. Daylight with some shadow. 9:16 format. Short square nails in a light color. Shot with flash.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099260377049768153"></a>
 
