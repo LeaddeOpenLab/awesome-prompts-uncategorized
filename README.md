@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**196** Prompts · Latest addition: **2026-09-14**
+**197** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -4460,6 +4460,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099377292959265065"></a>
+
+### Luxurious and romantic men's/women's fragrance video commercial storyboard prompt, featuring mist close-up, intimate male-female interaction, and product packaging close-up.
+
+Author：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Source](https://x.com/_Biy_a_/status/2099377292959265065)
+
+Comic / Storyboard · Product Marketing · Group / Couple · Product · Published
+
+**Summary:** Luxurious and romantic men's/women's fragrance video commercial storyboard prompt, featuring mist close-up, intimate male-female interaction, and product packaging close-up.
+
+<img src="covers/2099377292959265065.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a luxurious, romantic fragrance commercial using the uploaded image as the exact visual reference. Start with a slow cinematic push-in as the woman holds the perfume bottle and sprays a fine mist onto her neck. The man leans closer as the fragrance mist gently surrounds them, creating a subtle magical glow. Cut to an elegant macro shot of the blue perfume bottle and packaging reflecting dramatic midnight-blue light. End with the couple in a soft intimate silhouette while the perfume bottle remains sharply in focus in the foreground. Premium night-time atmosphere, deep blue and black tones, soft bokeh, realistic skin and hair movement, beautiful perfume mist, sophisticated luxury advertising, cinematic lighting, smooth camera motion, photorealistic, 9:16 vertical, 4K exactly 10 seconds, no extra text, no watermark
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099408672627851695"></a>
 
