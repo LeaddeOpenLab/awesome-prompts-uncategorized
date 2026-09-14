@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**192** Prompts · Última incorporación: **2026-09-14**
+**193** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2099352628073476468"></a>
+
+### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2099352628073476468)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099352628073476468-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099327824981315724"></a>
 
@@ -2364,13 +2386,13 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2099395304449831352"></a>
 
-### Traducción en curso
+### 1persona, retrato, lágrimas de perlas y ojos/lágrimas con color selectivo sobre fondo monocromático.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicación original](https://x.com/2__han__/status/2099395304449831352)
 
 Anime / Manga · Ilustración · Retrato / Selfie · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** 1persona, retrato, lágrimas de perlas y ojos/lágrimas con color selectivo sobre fondo monocromático.
 
 <img src="images/2099395304449831352-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2379,7 +2401,11 @@ Anime / Manga · Ilustración · Retrato / Selfie · Resumen / Antecedentes · P
 **Prompt**
 
 ```text
-Traducción en curso
+1persona, retrato,
+mirando hacia arriba, cabeza inclinada, boca ligeramente abierta,
+lágrimas de perlas, maquillaje de perlas, lágrimas de gemas, gema debajo del ojo
+3::monocromo, escala de grises, color selectivo, solo ojos coloreados, solo lágrimas coloreadas::,
+fondo simple, fondo oscuro, iluminación de estudio, iluminación dramática,
 ```
 
 [↑ Volver a categorías](#catalog)

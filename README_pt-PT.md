@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**192** Prompts · Adição mais recente: **2026-09-14**
+**193** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099352628073476468"></a>
+
+### Tradução em curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2099352628073476468)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099352628073476468-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099327824981315724"></a>
 
@@ -2381,13 +2403,13 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2099395304449831352"></a>
 
-### Tradução em curso
+### 1pessoa, retrato, lágrimas de pérola e olhos/lágrimas com cor seletiva sobre fundo monocromático.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicação original](https://x.com/2__han__/status/2099395304449831352)
 
 Anime / Mangá · Ilustração · Retrato / Selfie · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** 1pessoa, retrato, lágrimas de pérola e olhos/lágrimas com cor seletiva sobre fundo monocromático.
 
 <img src="images/2099395304449831352-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2396,7 +2418,11 @@ Anime / Mangá · Ilustração · Retrato / Selfie · Resumo / Contexto · Publi
 **Prompt**
 
 ```text
-Tradução em curso
+1pessoa, retrato,
+a olhar para cima, cabeça inclinada, boca ligeiramente aberta,
+lágrimas de pérola, maquilhagem de pérolas, lágrimas de gema, gema debaixo do olho
+3::monocromático, escala de cinzentos, cor seletiva, apenas olhos coloridos, apenas lágrimas coloridas::,
+fundo simples, fundo escuro, iluminação de estúdio, iluminação dramática,
 ```
 
 [↑ Voltar às categorias](#catalog)

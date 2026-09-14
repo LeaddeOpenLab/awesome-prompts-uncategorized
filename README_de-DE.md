@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**192** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**193** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2099352628073476468"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2099352628073476468)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099352628073476468-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099327824981315724"></a>
 
@@ -2364,13 +2386,13 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2099395304449831352"></a>
 
-### Übersetzung läuft
+### 1Person, Porträt, Perlentränen und selektiv kolorierte Augen/Tränen auf monochromem Hintergrund.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Originalbeitrag](https://x.com/2__han__/status/2099395304449831352)
 
 Anime / Manga · Illustration · Porträt / Selfie · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 1Person, Porträt, Perlentränen und selektiv kolorierte Augen/Tränen auf monochromem Hintergrund.
 
 <img src="images/2099395304449831352-1.jpg" alt="Bild 1" width="480" />
 
@@ -2379,7 +2401,11 @@ Anime / Manga · Illustration · Porträt / Selfie · Zusammenfassung / Hintergr
 **Prompt**
 
 ```text
-Übersetzung läuft
+1Person, Porträt,
+nach oben blickend, geneigter Kopf, leicht geöffneter Mund,
+Perlentränen, Perlen-Make-up, Edelsteintränen, Edelstein unter dem Auge
+3::monochrom, Graustufen, selektive Farbe, nur Augen koloriert, nur Tränen koloriert::,
+einfacher Hintergrund, dunkler Hintergrund, Studiobeleuchtung, dramatische Beleuchtung,
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

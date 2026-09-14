@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**192** Prompts · Dernier ajout: **2026-09-14**
+**193** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099352628073476468"></a>
+
+### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2099352628073476468)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099352628073476468-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099327824981315724"></a>
 
@@ -2364,13 +2386,13 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2099395304449831352"></a>
 
-### Traduction en cours
+### 1personne, portrait, larmes de perles et yeux/larmes à couleur sélective sur fond monochrome.
 
 Auteur：[@2\_\_han\_\_](https://x.com/2__han__) · [Publication originale](https://x.com/2__han__/status/2099395304449831352)
 
 Anime / Manga · Illustration · Portrait / Selfie · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** 1personne, portrait, larmes de perles et yeux/larmes à couleur sélective sur fond monochrome.
 
 <img src="images/2099395304449831352-1.jpg" alt="Image 1" width="480" />
 
@@ -2379,7 +2401,11 @@ Anime / Manga · Illustration · Portrait / Selfie · Résumé / Contexte · Pub
 **Consigne**
 
 ```text
-Traduction en cours
+1personne, portrait,
+regard vers le haut, tête penchée, bouche légèrement entrouverte,
+larmes de perles, maquillage de perles, larmes de pierres précieuses, pierre précieuse sous l'œil
+3::monochrome, niveaux de gris, couleur sélective, yeux colorés uniquement, larmes colorées uniquement::,
+fond simple, fond sombre, éclairage de studio, éclairage dramatique,
 ```
 
 [↑ Retour aux catégories](#catalog)

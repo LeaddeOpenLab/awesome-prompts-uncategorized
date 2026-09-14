@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**192** Prompt · Bổ sung mới nhất: **2026-09-14**
+**193** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099352628073476468"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2099352628073476468)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099352628073476468-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099327824981315724"></a>
 
@@ -2399,13 +2421,13 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2099395304449831352"></a>
 
-### Đang dịch
+### 1 người, chân dung, nước mắt ngọc trai và mắt/nước mắt có màu chọn lọc trên nền đơn sắc.
 
 Tác giả：[@2\_\_han\_\_](https://x.com/2__han__) · [Bài gốc](https://x.com/2__han__/status/2099395304449831352)
 
 Anime / Manga · Minh họa · Chân dung / Ảnh tự chụp · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** 1 người, chân dung, nước mắt ngọc trai và mắt/nước mắt có màu chọn lọc trên nền đơn sắc.
 
 <img src="images/2099395304449831352-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2414,7 +2436,11 @@ Anime / Manga · Minh họa · Chân dung / Ảnh tự chụp · Tóm tắt / B�
 **Câu lệnh**
 
 ```text
-Đang dịch
+1 người, chân dung,
+nhìn lên, nghiêng đầu, hé môi,
+nước mắt ngọc trai, trang điểm ngọc trai, nước mắt đá quý, đá quý dưới mắt
+3::đơn sắc, thang độ xám, màu chọn lọc, chỉ tô màu cho mắt, chỉ tô màu cho nước mắt::,
+nền đơn giản, nền tối, ánh sáng phòng thu, ánh sáng kịch tính,
 ```
 
 [↑ Về danh mục](#catalog)

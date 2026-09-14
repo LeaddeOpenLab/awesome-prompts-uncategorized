@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**192** Prompt · Ultima aggiunta: **2026-09-14**
+**193** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099352628073476468"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2099352628073476468)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099352628073476468-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099327824981315724"></a>
 
@@ -2364,13 +2386,13 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2099395304449831352"></a>
 
-### Traduzione in corso
+### 1persona, ritratto, lacrime di perla e occhi/lacrime a colori selettivi su sfondo monocromatico.
 
 Autore：[@2\_\_han\_\_](https://x.com/2__han__) · [Post originale](https://x.com/2__han__/status/2099395304449831352)
 
 Anime / Manga · Illustrazione · Ritratto / Selfie · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** 1persona, ritratto, lacrime di perla e occhi/lacrime a colori selettivi su sfondo monocromatico.
 
 <img src="images/2099395304449831352-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2379,7 +2401,11 @@ Anime / Manga · Illustrazione · Ritratto / Selfie · Abstract / Contesto · Pu
 **Prompt**
 
 ```text
-Traduzione in corso
+1persona, ritratto,
+sguardo verso l'alto, testa inclinata, bocca leggermente aperta,
+lacrime di perla, trucco con perle, lacrime di gemma, gemma sotto l'occhio
+3::monocromatico, scala di grigi, colore selettivo, solo occhi colorati, solo lacrime colorate::,
+sfondo semplice, sfondo scuro, illuminazione da studio, illuminazione drammatica,
 ```
 
 [↑ Torna alle categorie](#catalog)

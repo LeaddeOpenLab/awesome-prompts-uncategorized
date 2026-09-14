@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**192** Prompt · Son eklenen: **2026-09-14**
+**193** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099352628073476468"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2099352628073476468)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099352628073476468-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099327824981315724"></a>
 
@@ -2381,13 +2403,13 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2099395304449831352"></a>
 
-### Çeviri sürüyor
+### 1kişi, portre, monokrom arka plan üzerinde inci gözyaşları ve seçici renkli gözler/gözyaşları.
 
 Yazar：[@2\_\_han\_\_](https://x.com/2__han__) · [Orijinal gönderi](https://x.com/2__han__/status/2099395304449831352)
 
 Anime / Manga · İllüstrasyon · Portre / Selfie · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 1kişi, portre, monokrom arka plan üzerinde inci gözyaşları ve seçici renkli gözler/gözyaşları.
 
 <img src="images/2099395304449831352-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2396,7 +2418,11 @@ Anime / Manga · İllüstrasyon · Portre / Selfie · Özet / Arka Plan · Yayı
 **İstem**
 
 ```text
-Çeviri sürüyor
+1kişi, portre,
+yukarı bakan, eğik kafa, hafif açık ağız,
+inci gözyaşları, inci makyajı, mücevher gözyaşları, göz altında mücevher
+3::monokrom, gri tonlamalı, seçici renk, yalnızca renkli gözler, yalnızca renkli gözyaşları::,
+sade arka plan, koyu arka plan, stüdyo aydınlatması, dramatik aydınlatma,
 ```
 
 [↑ Kategorilere dön](#catalog)
