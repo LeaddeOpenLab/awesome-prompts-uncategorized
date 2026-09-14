@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:22:53.951Z",
+  "model": "unknown-image",
+  "prompt": "{\n  \"project_config\": {\n    \"aesthetic\": \"Raw UGC / Candid Smartphone Photography\",\n    \"aspect_ratio\": \"9:16\",\n    \"render_target\": \"4K look\"\n  },\n  \"subject\": {\n    \"description\": \"Candid nighttime smartphone flash photo of a young Indian woman sitting stylishly on a rooftop balcony, wearing a short sage-green floral embroidered mini dress with deep neckline and midriff cutout, playfully scrunching her nose with a soft smirk\",\n    \"demographics\": \"mid 20s, South Asian/Indian descent, warm olive skin with golden undertones, slender feminine silhouette\",\n    \"body\": \"slender feminine build with soft natural curves, moderate waist-to-hip ratio, natural soft skin visible at the midriff cutout, realistic unretouched skin texture with visible pores and peach fuzz\",\n    \"face\": \"delicate jawline, soft cheekbones, playful sensual smirk with scrunched nose, warm half-lidded inviting eyes, deep brown irises, natural soft pinkish-brown lips, visible pores and micro-expression lines, small silver nose stud\",\n    \"hair\": \"loose messy wind-blown natural waves, deep espresso black-brown, falling over one shoulder with flyaways and light frizz\",\n    \"wardrobe\": \"short sage mint-green romantic mini dress — thin spaghetti straps, deep plunging V-neckline, fitted bodice, floral-embroidered underbust band, large open midriff cutout, short tiered sheer tulle skirt with pink flowers, green leaves and blue accents, scalloped floral hem, strictly mini length ending mid-thigh\"\n  },\n  \"pose\": \"stylish seated pose on the balcony floor, body in three-quarter turn toward camera, one knee bent upward, the other leg extended, torso leaning on one arm, head turned to the lens with soft direct eye contact and slight head tilt\",\n  \"framing\": \"medium-low angle from roughly knee level looking slightly upward, from mid-calf to top of head\",\n  \"scene\": \"rooftop balcony in a hillside Indian town at night, dark mountain silhouettes, scattered warm yellow streetlights and distant house lights, soft moon glow in deep blue sky, slightly blurred balcony railing\",\n  \"lighting\": \"smartphone flash dominant with faint warm ambient night light, harsh direct frontal flash, sharp soft-edged shadows, pronounced specular highlights on skin and sheer fabric, deep natural shadows\",\n  \"camera\": \"iPhone 14 Pro style, 24mm, flash fired, high-ISO sensor noise in shadows, natural grain, authentic nighttime smartphone look\",\n  \"style\": \"raw unfiltered candid friend-took-this night photo, photorealistic, visible pores, peach fuzz, fine leg hair, sheer fabric wrinkles, natural facial asymmetry, no beauty filter\",\n  \"constraints\": {\n    \"negative_prompts\": [\n      \"extra limbs\", \"extra arms\", \"extra hands\", \"extra legs\", \"deformed hands\", \"bad anatomy\",\n      \"long dress\", \"midi dress\", \"maxi dress\", \"knee-length or longer skirt\",\n      \"cartoon\", \"3d render\", \"illustration\", \"anime\", \"CGI\",\n      \"smooth skin\", \"plastic skin\", \"airbrushed\", \"beauty filter\", \"perfect skin\",\n      \"text\", \"watermark\", \"logo\",\n      \"studio lighting\", \"softbox\", \"oversaturated\", \"heavy HDR\", \"orange skin filter\",\n      \"shaved legs\", \"doll face\", \"uncanny valley\", \"stiff pose\"\n    ]\n  },\n  \"output\": {\n    \"count\": 1,\n    \"size\": \"1080x1920\"\n  }\n}",
+  "promptTranslations": {
+    "en": "{\n  \"project_config\": {\n    \"aesthetic\": \"Raw UGC / Candid Smartphone Photography\",\n    \"aspect_ratio\": \"9:16\",\n    \"render_target\": \"4K look\"\n  },\n  \"subject\": {\n    \"description\": \"Candid nighttime smartphone flash photo of a young Indian woman sitting stylishly on a rooftop balcony, wearing a short sage-green floral embroidered mini dress with deep neckline and midriff cutout, playfully scrunching her nose with a soft smirk\",\n    \"demographics\": \"mid 20s, South Asian/Indian descent, warm olive skin with golden undertones, slender feminine silhouette\",\n    \"body\": \"slender feminine build with soft natural curves, moderate waist-to-hip ratio, natural soft skin visible at the midriff cutout, realistic unretouched skin texture with visible pores and peach fuzz\",\n    \"face\": \"delicate jawline, soft cheekbones, playful sensual smirk with scrunched nose, warm half-lidded inviting eyes, deep brown irises, natural soft pinkish-brown lips, visible pores and micro-expression lines, small silver nose stud\",\n    \"hair\": \"loose messy wind-blown natural waves, deep espresso black-brown, falling over one shoulder with flyaways and light frizz\",\n    \"wardrobe\": \"short sage mint-green romantic mini dress — thin spaghetti straps, deep plunging V-neckline, fitted bodice, floral-embroidered underbust band, large open midriff cutout, short tiered sheer tulle skirt with pink flowers, green leaves and blue accents, scalloped floral hem, strictly mini length ending mid-thigh\"\n  },\n  \"pose\": \"stylish seated pose on the balcony floor, body in three-quarter turn toward camera, one knee bent upward, the other leg extended, torso leaning on one arm, head turned to the lens with soft direct eye contact and slight head tilt\",\n  \"framing\": \"medium-low angle from roughly knee level looking slightly upward, from mid-calf to top of head\",\n  \"scene\": \"rooftop balcony in a hillside Indian town at night, dark mountain silhouettes, scattered warm yellow streetlights and distant house lights, soft moon glow in deep blue sky, slightly blurred balcony railing\",\n  \"lighting\": \"smartphone flash dominant with faint warm ambient night light, harsh direct frontal flash, sharp soft-edged shadows, pronounced specular highlights on skin and sheer fabric, deep natural shadows\",\n  \"camera\": \"iPhone 14 Pro style, 24mm, flash fired, high-ISO sensor noise in shadows, natural grain, authentic nighttime smartphone look\",\n  \"style\": \"raw unfiltered candid friend-took-this night photo, photorealistic, visible pores, peach fuzz, fine leg hair, sheer fabric wrinkles, natural facial asymmetry, no beauty filter\",\n  \"constraints\": {\n    \"negative_prompts\": [\n      \"extra limbs\", \"extra arms\", \"extra hands\", \"extra legs\", \"deformed hands\", \"bad anatomy\",\n      \"long dress\", \"midi dress\", \"maxi dress\", \"knee-length or longer skirt\",\n      \"cartoon\", \"3d render\", \"illustration\", \"anime\", \"CGI\",\n      \"smooth skin\", \"plastic skin\", \"airbrushed\", \"beauty filter\", \"perfect skin\",\n      \"text\", \"watermark\", \"logo\",\n      \"studio lighting\", \"softbox\", \"oversaturated\", \"heavy HDR\", \"orange skin filter\",\n      \"shaved legs\", \"doll face\", \"uncanny valley\", \"stiff pose\"\n    ]\n  },\n  \"output\": {\n    \"count\": 1,\n    \"size\": \"1080x1920\"\n  }\n}"
+  },
+  "summaryTranslations": {
+    "en": "Candid nighttime smartphone flash photo of a young Indian woman sitting on a rooftop balcony wearing a floral embroidered mini dress."
+  },
+  "translationVersion": 2,
+  "summary": "Candid nighttime smartphone flash photo of a young Indian woman sitting on a rooftop balcony wearing a floral embroidered mini dress.",
+  "summaryEn": "Candid nighttime smartphone flash photo of a young Indian woman sitting on a rooftop balcony wearing a floral embroidered mini dress.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099518049246499014",
+    "canonicalUrl": "https://x.com/vybyrn/status/2099518049246499014",
+    "author": {
+      "username": "vybyrn",
+      "displayName": "Vybyrn.",
+      "profileUrl": "https://x.com/vybyrn"
+    },
+    "publishedAt": "2026-09-14T15:18:04.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "en",
+    "originalText": "Fictional AI fan character, it doesn't represent any real person.\n\nPrompt🔽🔽\n\n{\n  \"project_config\": {\n    \"aesthetic\": \"Raw UGC / Candid Smartphone Photography\",\n    \"aspect_ratio\": \"9:16\",\n    \"render_target\": \"4K look\"\n  },\n  \"subject\": {\n    \"description\": \"Candid nighttime smartphone flash photo of a young Indian woman sitting stylishly on a rooftop balcony, wearing a short sage-green floral embroidered mini dress with deep neckline and midriff cutout, playfully scrunching her nose with a soft smirk\",\n    \"demographics\": \"mid 20s, South Asian/Indian descent, warm olive skin with golden undertones, slender feminine silhouette\",\n    \"body\": \"slender feminine build with soft natural curves, moderate waist-to-hip ratio, natural soft skin visible at the midriff cutout, realistic unretouched skin texture with visible pores and peach fuzz\",\n    \"face\": \"delicate jawline, soft cheekbones, playful sensual smirk with scrunched nose, warm half-lidded inviting eyes, deep brown irises, natural soft pinkish-brown lips, visible pores and micro-expression lines, small silver nose stud\",\n    \"hair\": \"loose messy wind-blown natural waves, deep espresso black-brown, falling over one shoulder with flyaways and light frizz\",\n    \"wardrobe\": \"short sage mint-green romantic mini dress — thin spaghetti straps, deep plunging V-neckline, fitted bodice, floral-embroidered underbust band, large open midriff cutout, short tiered sheer tulle skirt with pink flowers, green leaves and blue accents, scalloped floral hem, strictly mini length ending mid-thigh\"\n  },\n  \"pose\": \"stylish seated pose on the balcony floor, body in three-quarter turn toward camera, one knee bent upward, the other leg extended, torso leaning on one arm, head turned to the lens with soft direct eye contact and slight head tilt\",\n  \"framing\": \"medium-low angle from roughly knee level looking slightly upward, from mid-calf to top of head\",\n  \"scene\": \"rooftop balcony in a hillside Indian town at night, dark mountain silhouettes, scattered warm yellow streetlights and distant house lights, soft moon glow in deep blue sky, slightly blurred balcony railing\",\n  \"lighting\": \"smartphone flash dominant with faint warm ambient night light, harsh direct frontal flash, sharp soft-edged shadows, pronounced specular highlights on skin and sheer fabric, deep natural shadows\",\n  \"camera\": \"iPhone 14 Pro style, 24mm, flash fired, high-ISO sensor noise in shadows, natural grain, authentic nighttime smartphone look\",\n  \"style\": \"raw unfiltered candid friend-took-this night photo, photorealistic, visible pores, peach fuzz, fine leg hair, sheer fabric wrinkles, natural facial asymmetry, no beauty filter\",\n  \"constraints\": {\n    \"negative_prompts\": [\n      \"extra limbs\", \"extra arms\", \"extra hands\", \"extra legs\", \"deformed hands\", \"bad anatomy\",\n      \"long dress\", \"midi dress\", \"maxi dress\", \"knee-length or longer skirt\",\n      \"cartoon\", \"3d render\", \"illustration\", \"anime\", \"CGI\",\n      \"smooth skin\", \"plastic skin\", \"airbrushed\", \"beauty filter\", \"perfect skin\",\n      \"text\", \"watermark\", \"logo\",\n      \"studio lighting\", \"softbox\", \"oversaturated\", \"heavy HDR\", \"orange skin filter\",\n      \"shaved legs\", \"doll face\", \"uncanny valley\", \"stiff pose\"\n    ]\n  },\n  \"output\": {\n    \"count\": 1,\n    \"size\": \"1080x1920\"\n  }\n}",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSL8iPEakAAer0P.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSL8iPEakAAer0P.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1189
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/vybyrn/status/2099518049246499014",
+  "coverUrl": "https://pbs.twimg.com/media/HSL8iPEakAAer0P.jpg",
+  "coverPath": "images/2099518049246499014-1.jpg",
+  "imagePaths": [
+    "images/2099518049246499014-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSL8iPEakAAer0P",
+    "x-post:2099518049246499014"
+  ],
+  "analysis": {
+    "summary": "Candid nighttime smartphone flash photo of a young Indian woman sitting on a rooftop balcony wearing a floral embroidered mini dress.",
+    "summaryEn": "Candid nighttime smartphone flash photo of a young Indian woman sitting on a rooftop balcony wearing a floral embroidered mini dress.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image exactly matches the specified subject, pose, sage-green floral dress, night balcony location with mountain background, and smartphone flash aesthetic."
+    },
+    "videoQuality": null,
+    "originalPrompt": "{\n  \"project_config\": {\n    \"aesthetic\": \"Raw UGC / Candid Smartphone Photography\",\n    \"aspect_ratio\": \"9:16\",\n    \"render_target\": \"4K look\"\n  },\n  \"subject\": {\n    \"description\": \"Candid nighttime smartphone flash photo of a young Indian woman sitting stylishly on a rooftop balcony, wearing a short sage-green floral embroidered mini dress with deep neckline and midriff cutout, playfully scrunching her nose with a soft smirk\",\n    \"demographics\": \"mid 20s, South Asian/Indian descent, warm olive skin with golden undertones, slender feminine silhouette\",\n    \"body\": \"slender feminine build with soft natural curves, moderate waist-to-hip ratio, natural soft skin visible at the midriff cutout, realistic unretouched skin texture with visible pores and peach fuzz\",\n    \"face\": \"delicate jawline, soft cheekbones, playful sensual smirk with scrunched nose, warm half-lidded inviting eyes, deep brown irises, natural soft pinkish-brown lips, visible pores and micro-expression lines, small silver nose stud\",\n    \"hair\": \"loose messy wind-blown natural waves, deep espresso black-brown, falling over one shoulder with flyaways and light frizz\",\n    \"wardrobe\": \"short sage mint-green romantic mini dress — thin spaghetti straps, deep plunging V-neckline, fitted bodice, floral-embroidered underbust band, large open midriff cutout, short tiered sheer tulle skirt with pink flowers, green leaves and blue accents, scalloped floral hem, strictly mini length ending mid-thigh\"\n  },\n  \"pose\": \"stylish seated pose on the balcony floor, body in three-quarter turn toward camera, one knee bent upward, the other leg extended, torso leaning on one arm, head turned to the lens with soft direct eye contact and slight head tilt\",\n  \"framing\": \"medium-low angle from roughly knee level looking slightly upward, from mid-calf to top of head\",\n  \"scene\": \"rooftop balcony in a hillside Indian town at night, dark mountain silhouettes, scattered warm yellow streetlights and distant house lights, soft moon glow in deep blue sky, slightly blurred balcony railing\",\n  \"lighting\": \"smartphone flash dominant with faint warm ambient night light, harsh direct frontal flash, sharp soft-edged shadows, pronounced specular highlights on skin and sheer fabric, deep natural shadows\",\n  \"camera\": \"iPhone 14 Pro style, 24mm, flash fired, high-ISO sensor noise in shadows, natural grain, authentic nighttime smartphone look\",\n  \"style\": \"raw unfiltered candid friend-took-this night photo, photorealistic, visible pores, peach fuzz, fine leg hair, sheer fabric wrinkles, natural facial asymmetry, no beauty filter\",\n  \"constraints\": {\n    \"negative_prompts\": [\n      \"extra limbs\", \"extra arms\", \"extra hands\", \"extra legs\", \"deformed hands\", \"bad anatomy\",\n      \"long dress\", \"midi dress\", \"maxi dress\", \"knee-length or longer skirt\",\n      \"cartoon\", \"3d render\", \"illustration\", \"anime\", \"CGI\",\n      \"smooth skin\", \"plastic skin\", \"airbrushed\", \"beauty filter\", \"perfect skin\",\n      \"text\", \"watermark\", \"logo\",\n      \"studio lighting\", \"softbox\", \"oversaturated\", \"heavy HDR\", \"orange skin filter\",\n      \"shaved legs\", \"doll face\", \"uncanny valley\", \"stiff pose\"\n    ]\n  },\n  \"output\": {\n    \"count\": 1,\n    \"size\": \"1080x1920\"\n  }\n}",
+    "sourceRange": {
+      "start": 77,
+      "end": 3302
+    },
+    "translations": {
+      "zh": "抓拍夜间智能手机闪光灯下的年轻印度女性，身穿鼠尾草绿刺绣镂空吊带短裙，坐在屋顶阳台地面上，呈随意自然的抓拍视角。",
+      "en": "Candid nighttime smartphone flash photo of a young Indian woman sitting on a rooftop balcony wearing a sage-green floral embroidered mini dress."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "photorealistic portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
