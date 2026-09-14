@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**197** Prompt · Son eklenen: **2026-09-14**
+**204** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099520295405232546"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2099520295405232546)
+
+Poster / El İlanı · Fotoğrafçılık · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099520295405232546-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@vybyrn](https://x.com/vybyrn) · [Orijinal gönderi](https://x.com/vybyrn/status/2099518049246499014)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099518049246499014-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@mumaren\_2](https://x.com/mumaren_2) · [Orijinal gönderi](https://x.com/mumaren_2/status/2099409502898700694)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099409502898700694-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2423,6 +2497,30 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 ## Anime / Manga
 
+<a name="prompt-2099481577969312010"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AISuperDomain](https://x.com/AISuperDomain) · [Orijinal gönderi](https://x.com/AISuperDomain/status/2099481577969312010)
+
+Anime / Manga · Çizgi Roman / Grafik Roman · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099481577969312010-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1kişi, portre, monokrom arka plan üzerinde inci gözyaşları ve seçici renkli gözler/gözyaşları.
@@ -2701,6 +2799,62 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 <a name="category-sketch-line-art"></a>
 
 ## Çizim / Çizgi Sanatı
+
+<a name="prompt-2099485936535167139"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2099485936535167139)
+
+Poster / El İlanı · Çizim / Çizgi Sanatı · Minimalizm · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099485936535167139-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2099501924278235384)
+
+Poster / El İlanı · İllüstrasyon · Çizim / Çizgi Sanatı · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099501924278235384-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3067,6 +3221,32 @@ Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](htt
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099473433067495508"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2099473433067495508)
+
+Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
+
+Orijinal gönderi：[@adinascozylife](https://x.com/adinascozylife) · [Orijinal gönderi](https://x.com/adinascozylife/status/2099313663827947968)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099473433067495508-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

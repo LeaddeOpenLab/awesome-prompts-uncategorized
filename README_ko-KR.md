@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**197** 개 · 최근 추가: **2026-09-14**
+**204** 개 · 최근 추가: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <a name="category-photography"></a>
 
 ## 사진술
+
+<a name="prompt-2099520295405232546"></a>
+
+### 번역 중
+
+작성자：[@Hamburgerai](https://x.com/Hamburgerai) · [원본 게시물](https://x.com/Hamburgerai/status/2099520295405232546)
+
+포스터 / 전단지 · 사진술 · 풍경 / 자연 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099520295405232546-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### 번역 중
+
+작성자：[@vybyrn](https://x.com/vybyrn) · [원본 게시물](https://x.com/vybyrn/status/2099518049246499014)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099518049246499014-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### 번역 중
+
+작성자：[@mumaren\_2](https://x.com/mumaren_2) · [원본 게시물](https://x.com/mumaren_2/status/2099409502898700694)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099409502898700694-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2423,6 +2497,30 @@ CGI 털,
 
 ## 애니메이션 / 만화
 
+<a name="prompt-2099481577969312010"></a>
+
+### 번역 중
+
+작성자：[@AISuperDomain](https://x.com/AISuperDomain) · [원본 게시물](https://x.com/AISuperDomain/status/2099481577969312010)
+
+애니메이션 / 만화 · 만화 / 그래픽 노블 · 인물 사진 / 셀카 · 캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099481577969312010-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1명, 초상화, 모노크롬 배경 위의 진주 눈물 및 선택적 색상의 눈/눈물.
@@ -2701,6 +2799,62 @@ B: 3::black gakuran::, A를 마주보고 웅크리고 있음, 한 손은 무릎 
 <a name="category-sketch-line-art"></a>
 
 ## 스케치 / 선화
+
+<a name="prompt-2099485936535167139"></a>
+
+### 번역 중
+
+작성자：[@Hamburgerai](https://x.com/Hamburgerai) · [원본 게시물](https://x.com/Hamburgerai/status/2099485936535167139)
+
+포스터 / 전단지 · 스케치 / 선화 · 미니멀리즘 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099485936535167139-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### 번역 중
+
+작성자：[@Hamburgerai](https://x.com/Hamburgerai) · [원본 게시물](https://x.com/Hamburgerai/status/2099501924278235384)
+
+포스터 / 전단지 · 일러스트레이션 · 스케치 / 선화 · 도시 풍경 / 거리 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099501924278235384-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3067,6 +3221,32 @@ B: 3::black gakuran::, A를 마주보고 웅크리고 있음, 한 손은 무릎 
 <a name="category-retro-vintage"></a>
 
 ## 레트로 / 빈티지
+
+<a name="prompt-2099473433067495508"></a>
+
+### 번역 중
+
+작성자：[@DDJCXX](https://x.com/DDJCXX) · [원본 게시물](https://x.com/DDJCXX/status/2099473433067495508)
+
+레트로 / 빈티지 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 건축 / 인테리어 · 배포 완료
+
+원본 게시물：[@adinascozylife](https://x.com/adinascozylife) · [원본 게시물](https://x.com/adinascozylife/status/2099313663827947968)
+
+**요약:** 번역 중
+
+<img src="images/2099473433067495508-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

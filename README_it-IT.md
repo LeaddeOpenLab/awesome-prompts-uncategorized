@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**197** Prompt · Ultima aggiunta: **2026-09-14**
+**204** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099520295405232546"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2099520295405232546)
+
+Poster / Volantino · Fotografia · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099520295405232546-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### Traduzione in corso
+
+Autore：[@vybyrn](https://x.com/vybyrn) · [Post originale](https://x.com/vybyrn/status/2099518049246499014)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099518049246499014-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### Traduzione in corso
+
+Autore：[@mumaren\_2](https://x.com/mumaren_2) · [Post originale](https://x.com/mumaren_2/status/2099409502898700694)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099409502898700694-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2406,6 +2480,30 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 ## Anime / Manga
 
+<a name="prompt-2099481577969312010"></a>
+
+### Traduzione in corso
+
+Autore：[@AISuperDomain](https://x.com/AISuperDomain) · [Post originale](https://x.com/AISuperDomain/status/2099481577969312010)
+
+Anime / Manga · Fumetto / Graphic Novel · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099481577969312010-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1persona, ritratto, lacrime di perla e occhi/lacrime a colori selettivi su sfondo monocromatico.
@@ -2684,6 +2782,62 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 <a name="category-sketch-line-art"></a>
 
 ## Schizzo / Line Art
+
+<a name="prompt-2099485936535167139"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2099485936535167139)
+
+Poster / Volantino · Schizzo / Line Art · Minimalismo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099485936535167139-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2099501924278235384)
+
+Poster / Volantino · Illustrazione · Schizzo / Line Art · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099501924278235384-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3050,6 +3204,32 @@ Traduzione in corso
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099473433067495508"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2099473433067495508)
+
+Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+Post originale：[@adinascozylife](https://x.com/adinascozylife) · [Post originale](https://x.com/adinascozylife/status/2099313663827947968)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099473433067495508-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**197** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**204** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2099520295405232546"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2099520295405232546)
+
+Plakat / Flyer · Fotografie · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099520295405232546-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### Übersetzung läuft
+
+Autor：[@vybyrn](https://x.com/vybyrn) · [Originalbeitrag](https://x.com/vybyrn/status/2099518049246499014)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099518049246499014-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### Übersetzung läuft
+
+Autor：[@mumaren\_2](https://x.com/mumaren_2) · [Originalbeitrag](https://x.com/mumaren_2/status/2099409502898700694)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099409502898700694-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2406,6 +2480,30 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 ## Anime / Manga
 
+<a name="prompt-2099481577969312010"></a>
+
+### Übersetzung läuft
+
+Autor：[@AISuperDomain](https://x.com/AISuperDomain) · [Originalbeitrag](https://x.com/AISuperDomain/status/2099481577969312010)
+
+Anime / Manga · Comic / Graphic Novel · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099481577969312010-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1Person, Porträt, Perlentränen und selektiv kolorierte Augen/Tränen auf monochromem Hintergrund.
@@ -2684,6 +2782,62 @@ Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumw
 <a name="category-sketch-line-art"></a>
 
 ## Skizze / Strichzeichnung
+
+<a name="prompt-2099485936535167139"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2099485936535167139)
+
+Plakat / Flyer · Skizze / Strichzeichnung · Minimalismus · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099485936535167139-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2099501924278235384)
+
+Plakat / Flyer · Illustration · Skizze / Strichzeichnung · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099501924278235384-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3050,6 +3204,32 @@ Illustration · 3D-Rendering · Aquarell · Charakter · Veröffentlicht
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099473433067495508"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2099473433067495508)
+
+Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Architektur / Interieur · Veröffentlicht
+
+Originalbeitrag：[@adinascozylife](https://x.com/adinascozylife) · [Originalbeitrag](https://x.com/adinascozylife/status/2099313663827947968)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099473433067495508-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

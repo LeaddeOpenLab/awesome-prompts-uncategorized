@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**197** 筆內容 · 最新收錄: **2026-09-14**
+**204** 筆內容 · 最新收錄: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2099520295405232546"></a>
+
+### 翻譯中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099520295405232546)
+
+海報／傳單 · 攝影 · 風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099520295405232546-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### 翻譯中
+
+作者：[@vybyrn](https://x.com/vybyrn) · [查看 X 原帖](https://x.com/vybyrn/status/2099518049246499014)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099518049246499014-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### 翻譯中
+
+作者：[@mumaren\_2](https://x.com/mumaren_2) · [查看 X 原帖](https://x.com/mumaren_2/status/2099409502898700694)
+
+攝影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099409502898700694-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2424,6 +2498,30 @@ CGI毛髮、
 
 ## 動畫 / 漫畫
 
+<a name="prompt-2099481577969312010"></a>
+
+### 翻譯中
+
+作者：[@AISuperDomain](https://x.com/AISuperDomain) · [查看 X 原帖](https://x.com/AISuperDomain/status/2099481577969312010)
+
+動畫 / 漫畫 · 漫畫 / 圖像小說 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099481577969312010-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1個人, 肖像, 珍珠眼淚與單色背景下的局部彩色眼睛/眼淚。
@@ -2702,6 +2800,62 @@ B: 3::black gakuran::, 面向A蹲著, 一隻手放在膝蓋附近, 另一隻手�
 <a name="category-sketch-line-art"></a>
 
 ## 草圖 / 線稿
+
+<a name="prompt-2099485936535167139"></a>
+
+### 翻譯中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099485936535167139)
+
+海報／傳單 · 草圖 / 線稿 · 極簡主義 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099485936535167139-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### 翻譯中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099501924278235384)
+
+海報／傳單 · 插圖 · 草圖 / 線稿 · 城市景觀 / 街道 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099501924278235384-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3068,6 +3222,32 @@ B: 3::black gakuran::, 面向A蹲著, 一隻手放在膝蓋附近, 另一隻手�
 <a name="category-retro-vintage"></a>
 
 ## 復古 / 懷舊
+
+<a name="prompt-2099473433067495508"></a>
+
+### 翻譯中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2099473433067495508)
+
+復古 / 懷舊 · 人像 / 自拍 · 角色 · 時尚單品 · 建築 / 室內設計 · 已推流
+
+查看 X 原帖：[@adinascozylife](https://x.com/adinascozylife) · [查看 X 原帖](https://x.com/adinascozylife/status/2099313663827947968)
+
+**概括:** 翻譯中
+
+<img src="images/2099473433067495508-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

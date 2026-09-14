@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**197** Prompts · Latest addition: **2026-09-14**
+**204** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,117 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099520295405232546"></a>
+
+### Transform a real travel photo into a vertically split-screen poster, retaining the original photography on top and reconstructing it in the style of an Edo-period Ukiyo-e woodblock print below.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2099520295405232546)
+
+Poster / Flyer · Photography · Landscape / Nature · Published
+
+**Summary:** Transform a real travel photo into a vertically split-screen poster, retaining the original photography on top and reconstructing it in the style of an Edo-period Ukiyo-e woodblock print below.
+
+<img src="images/2099520295405232546-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Turn the input travel photo into a standalone 3:4 vertical top-and-bottom comparison poster. The top half completely preserves the original real photo, maintaining subject identity, count, composition, perspective, key architectural or natural contours, original lighting, and environmental relationships, with only slight publication color grading; a clean, restrained off-white horizontal dividing line is used in the middle. The bottom half reorganizes the same scene into an authentic Edo-period Japanese Ukiyo-e woodblock print, retaining the most recognizable subjects and spatial relationships from the photo, but proactively altering information density, color areas, and compositional center of gravity, without applying a same-composition photo filter.
+Use an off-white washi paper fiber base, deep indigo and sumi-black carved outlines, a limited color palette of vermilion, ochre, cyan-blue, and grayish-green, flat color blocks, diagonal hatching, short carved incisions, layered contours, slight ink starvation, dry-brush flying white, ink bleed into paper fibers, and slight misregistration. Clouds, foliage, roof tiles, ridgelines, roads, lanterns, architecture, and other environmental elements are all abstracted from the input photo into rhythmic woodcut patterns. The bottom half does not replicate the photo's full framing, but instead creates Edo woodblock breathing room through subject enlargement or reduction and refinement, background compression, and continuous washi paper negative space. Colors are extracted and compressed from the original photo without applying a fixed ocean-blue template; if the original image is not a seascape, do not add waves or coastlines.
+Use only elements genuinely visible in the original photo; do not invent landmarks, people, animals, vehicles, or cultural symbols. The top half must remain real photography, and the bottom half must be a woodblock print translation of the exact same location and subject. Do not generate generic filters, modern flat vector art, 2D cartoons, realistic oil paintings, 3D rendering, gradient plastic textures, turning the entire photo blue, or altering architectural structures or mountain silhouettes. No text, titles, subtitles, fake Chinese characters, seals, logos, watermarks, original/AI corner badges, or decorative borders.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### Candid nighttime smartphone flash photo of a young Indian woman sitting on a rooftop balcony wearing a floral embroidered mini dress.
+
+Author：[@vybyrn](https://x.com/vybyrn) · [Source](https://x.com/vybyrn/status/2099518049246499014)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Candid nighttime smartphone flash photo of a young Indian woman sitting on a rooftop balcony wearing a floral embroidered mini dress.
+
+<img src="images/2099518049246499014-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+{
+  "project_config": {
+    "aesthetic": "Raw UGC / Candid Smartphone Photography",
+    "aspect_ratio": "9:16",
+    "render_target": "4K look"
+  },
+  "subject": {
+    "description": "Candid nighttime smartphone flash photo of a young Indian woman sitting stylishly on a rooftop balcony, wearing a short sage-green floral embroidered mini dress with deep neckline and midriff cutout, playfully scrunching her nose with a soft smirk",
+    "demographics": "mid 20s, South Asian/Indian descent, warm olive skin with golden undertones, slender feminine silhouette",
+    "body": "slender feminine build with soft natural curves, moderate waist-to-hip ratio, natural soft skin visible at the midriff cutout, realistic unretouched skin texture with visible pores and peach fuzz",
+    "face": "delicate jawline, soft cheekbones, playful sensual smirk with scrunched nose, warm half-lidded inviting eyes, deep brown irises, natural soft pinkish-brown lips, visible pores and micro-expression lines, small silver nose stud",
+    "hair": "loose messy wind-blown natural waves, deep espresso black-brown, falling over one shoulder with flyaways and light frizz",
+    "wardrobe": "short sage mint-green romantic mini dress — thin spaghetti straps, deep plunging V-neckline, fitted bodice, floral-embroidered underbust band, large open midriff cutout, short tiered sheer tulle skirt with pink flowers, green leaves and blue accents, scalloped floral hem, strictly mini length ending mid-thigh"
+  },
+  "pose": "stylish seated pose on the balcony floor, body in three-quarter turn toward camera, one knee bent upward, the other leg extended, torso leaning on one arm, head turned to the lens with soft direct eye contact and slight head tilt",
+  "framing": "medium-low angle from roughly knee level looking slightly upward, from mid-calf to top of head",
+  "scene": "rooftop balcony in a hillside Indian town at night, dark mountain silhouettes, scattered warm yellow streetlights and distant house lights, soft moon glow in deep blue sky, slightly blurred balcony railing",
+  "lighting": "smartphone flash dominant with faint warm ambient night light, harsh direct frontal flash, sharp soft-edged shadows, pronounced specular highlights on skin and sheer fabric, deep natural shadows",
+  "camera": "iPhone 14 Pro style, 24mm, flash fired, high-ISO sensor noise in shadows, natural grain, authentic nighttime smartphone look",
+  "style": "raw unfiltered candid friend-took-this night photo, photorealistic, visible pores, peach fuzz, fine leg hair, sheer fabric wrinkles, natural facial asymmetry, no beauty filter",
+  "constraints": {
+    "negative_prompts": [
+      "extra limbs", "extra arms", "extra hands", "extra legs", "deformed hands", "bad anatomy",
+      "long dress", "midi dress", "maxi dress", "knee-length or longer skirt",
+      "cartoon", "3d render", "illustration", "anime", "CGI",
+      "smooth skin", "plastic skin", "airbrushed", "beauty filter", "perfect skin",
+      "text", "watermark", "logo",
+      "studio lighting", "softbox", "oversaturated", "heavy HDR", "orange skin filter",
+      "shaved legs", "doll face", "uncanny valley", "stiff pose"
+    ]
+  },
+  "output": {
+    "count": 1,
+    "size": "1080x1920"
+  }
+}
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### Portrait photo of an East Asian woman in a bathrobe brushing damp hair in front of a bathroom mirror.
+
+Author：[@mumaren\_2](https://x.com/mumaren_2) · [Source](https://x.com/mumaren_2/status/2099409502898700694)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Portrait photo of an East Asian woman in a bathrobe brushing damp hair in front of a bathroom mirror.
+
+<img src="images/2099409502898700694-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+16:9, adult sensual East Asian woman in a bright bathroom, wrapped in a thin white robe slipping off one shoulder, leaning lightly toward the mirror, one hand brushing damp hair back, eyes half-lowered, soft parted lips, introspective and vulnerable mood, pale stone sink, natural daylight, close medium shot from over-shoulder perspective, luminous skin, understated sensuality, clean modern interior, gentle realism, subtle moisture and softness, elegant private-moment atmosphere.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -3088,6 +3199,47 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 
 ## Anime / Manga
 
+<a name="prompt-2099481577969312010"></a>
+
+### Prompt for creating a mixed-media portrait featuring an interaction between a real person and a hand-drawn comic doodle shadow on a wall based on a reference image.
+
+Author：[@AISuperDomain](https://x.com/AISuperDomain) · [Source](https://x.com/AISuperDomain/status/2099481577969312010)
+
+Anime / Manga · Comic / Graphic Novel · Portrait / Selfie · Character · Published
+
+**Summary:** Prompt for creating a mixed-media portrait featuring an interaction between a real person and a hand-drawn comic doodle shadow on a wall based on a reference image.
+
+<img src="images/2099481577969312010-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded reference image as a strict reference for character identity and clothing. Accurately preserve the face, facial features, skin tone, hairstyle, hair color, accessories, clothing, and overall atmosphere from the reference image without making any changes.
+
+Create a high-quality vertical (4:5 or 9:16) mixed-media character portrait containing:
+
+A highly realistic full-body person whose appearance remains strictly consistent with the person in the reference image.
+On the wall next to the person, a black hand-drawn doodle-style silhouette/shadow of the same character appears.
+
+The real person should exude a cute, slightly shy, and playful vibe, naturally striking a brand-new, random, mischievous, and playful pose each time it is generated.
+
+The hand-drawn doodle shadow on the wall should also share the same pose concept as the real person, but rendered in a more exaggerated, chaotic, cartoonish, and dramatic manner. Incorporate comic-style action lines, stars, hearts, and sparkle effects to make the doodle shadow look lively and fun.
+
+Use a clean white/cream studio wall with a minimalist background. Apply soft, natural lighting, and ensure that both the real person and the doodle shadow are completely presented in the frame without being cropped.
+
+The doodle figure must clearly evoke the real person through hairstyle, accessories, clothing silhouette, and pose.
+
+Negative Prompt:
+
+Changing clothes, changing character identity, second real person, normal realistic shadow, horror style, live-action anime character, cluttered background, repetitive pointing poses or finger-gun poses, stiff poses, extra limbs/fingers, body deformities, text, watermark, logo, AI-generated artifacts.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1person, portrait, pearl tears and selective colored eyes/tears on monochrome background.
@@ -3355,6 +3507,62 @@ Transform the photo into a hand-painted gouache caricature on cream cotton paper
 <a name="category-sketch-line-art"></a>
 
 ## Sketch / Line Art
+
+<a name="prompt-2099485936535167139"></a>
+
+### 3:4 top-and-bottom comparison poster prompt, preserving the authentic travel photo on top and converting to ivory white minimalist line art on deep blue at the bottom.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2099485936535167139)
+
+Poster / Flyer · Sketch / Line Art · Minimalism · Published
+
+**Summary:** 3:4 top-and-bottom comparison poster prompt, preserving the authentic travel photo on top and converting to ivory white minimalist line art on deep blue at the bottom.
+
+<img src="images/2099485936535167139-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a standalone 3:4 vertical top-and-bottom comparison redrawn poster. The upper half completely retains the input authentic Indonesian travel photograph, with no color distortion, without cropping out people, and without cartoonization. The lower half redraws the same people and real environment as an ivory white minimalist line art sketch on a solid matte deep navy blue background. Preserve the number of people, standing or walking poses, clothing silhouettes, orientations, and proportions; extract structures from the original photo such as porches, ocean waves, terraced fields, trees, and horizon lines, expressing them with a few continuous wind lines, arcs, and contour lines. The people in the lower half are scaled down, leaving plenty of negative space around them, with lines carrying a subtle chalk or crayon grain texture, yet restrained overall, without colored fills or realistic shading. A thin white dividing line is used in the middle. The lower half must be truly redrawn, not simply turning the whole photo blue. Do not add text, logos, watermarks, original image corner badges, AI badges, or collage elements.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### Transform a real travel street photo into a 3:4 top-and-bottom comparison poster, retaining the original photo on top and redrawing the bottom in a rough, childlike crayon style.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2099501924278235384)
+
+Poster / Flyer · Illustration · Sketch / Line Art · Cityscape / Street · Published
+
+**Summary:** Transform a real travel street photo into a 3:4 top-and-bottom comparison poster, retaining the original photo on top and redrawing the bottom in a rough, childlike crayon style.
+
+<img src="images/2099501924278235384-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a complete, standalone 3:4 vertical top-and-bottom comparison travel redraw poster. The upper half retains the input Italian travel street photo with high fidelity, preserving the people, clothing, actions, architecture, streets, lighting, colors, perspective, and subject positioning without any stylization or illustration effects. The lower half redraws the exact same people and the same street into 'childlike crayon city memories'. Only extract urban details that are truly visible and recognizable in the original photo, such as narrow alley perspective, warm-toned walls, windows, streetlights, cobblestone paths, holiday illuminations, railings, or maps held by tourists; tailor choices to the specific contents of each photo without forcing fixed mountain views, cars, or generic landmarks. Maintain the number of main characters, their relative positions, postures, action directions, clothing silhouettes, and their relationship with the street. The figures may be naively simplified, but must be instantly recognizable as corresponding to the original photo. The lower half uses children's crayons, colored pencils, and oil-based markers doodling on off-white textured paper: crooked thick black outlines, distinct crayon texture and grain, repeated scribbling, uneven coloring, occasional coloring outside the lines, naive perspective, and innocent proportions, as if earnestly drawn by a young child from travel memories. Colors should be sampled from the original photo with boosted childlike saturation, but avoid using a fixed color scheme across different photos. The top and bottom halves each take up roughly half the canvas, separated solely by a clean, thin white horizontal line in the middle. The bottom half must not be an equal-scale trace of the full photo; instead, scale down, condense, or reorganize the people and the most meaningful urban details, keeping the off-white paper's sense of breathing room. The bottom half must be a genuine redraw, not a photo filter effect. Do not invent extra landmarks, vehicles, people, or animals. Do not add titles, captions, tags, logos, watermarks, original image corner badges, AI badges, gibberish text, nine-grid layouts, or multi-image collages; avoid sleek vector illustrations, 3D rendering, and realistic styles in the bottom half.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3745,6 +3953,32 @@ A lone woman in a vivid red coat walks along a long wooden pier disappearing int
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099473433067495508"></a>
+
+### Vintage indoor mirror selfie of an East Asian woman wearing an academy-style shirt, pleated plaid skirt, layered stockings, and high heels, sitting on a carpet.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2099473433067495508)
+
+Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
+
+Source：[@adinascozylife](https://x.com/adinascozylife) · [Source](https://x.com/adinascozylife/status/2099313663827947968)
+
+**Summary:** Vintage indoor mirror selfie of an East Asian woman wearing an academy-style shirt, pleated plaid skirt, layered stockings, and high heels, sitting on a carpet.
+
+<img src="images/2099473433067495508-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic vintage indoor mirror selfie photography, vertical orientation around 4:5, an unmistakably adult East Asian woman, 20+, in an academy-style cosplay outfit, sitting on the floor of a room covered with a vintage patterned carpet, taking a mirror selfie through a large classical carved full-length floor mirror. The photographer is the subject herself, using a dark blue smartphone, with an equivalent ~24–28mm mobile wide-angle lens, the mirror slightly tilted, giving the image an evident candid casual selfie feel. The subject is captured from head to toe, her body forming a diagonal composition from upper left to lower right. Small-to-medium frame, somewhat narrow shoulders, slender waist, naturally rounded hips, soft and realistic thigh volume, overall long and slender legs. The subject sits on the floor, upper body leaning slightly forward, one leg bent with the knee raised high close to the body, the other leg extended forward and downward, legs naturally crossing. Her right hand holds the dark blue phone obscuring most of her face, exposing only one eye and part of her forehead; her left hand braces on the floor behind her body for balance. The subject has jet-black ultra-long straight hair extending to around the waist, thick hair volume, center-parted leaning slightly to the side, hair naturally cascading over shoulders and chest, with some strands covering the side of her face. The visible eye looks straight at the phone screen, makeup is natural and slightly cool-toned, fair complexion, no heavy makeup. On top, she wears a white long-sleeve academy-style button-down shirt made of light and soft fabric, with small ruffles at the cuffs, and a slim dark navy tie / narrow necktie tied at the collar. The shirt is tucked into the skirt waistband, with a clear waistline. On the bottom, she wears a dark navy and white fine-plaid high-waisted pleated miniskirt, the plaid composed of dark blue, slate blue, and fine white lines, medium pleat width, naturally fanning out to the sides in a sitting posture. The waistband sits high, distinctly emphasizing the slim waist. Legs are the most crucial: base layer is a pair of smoky charcoal-black ultra-sheer translucent pantyhose / sheer tights, around 10–15D, through which natural skin tone is visibly seen at the thighs and hips; outer layer is a pair of high-saturation royal blue over-the-knee socks / thigh-high stockings, with the tops resting at the mid-to-upper thigh, featuring a matching wide lace trim, the sock fabric being thicker and opaque, in a deep royal blue / cobalt blue color. This forms a dual-layer hosiery effect of 'sheer charcoal-black tights + blue lace thigh-high socks'. On her feet are a pair of pure white pointed-toe high heels with slender stiletto heels around 9–11cm, crafted from clean white leather. The blue sock surface peeks out from the shoe opening, while the sheer black-gray pantyhose still creates subtle layering near the ankles. Both shoes appear completely. The setting is a residential living room / dressing space with vintage European-style furniture. The floor is covered with an expansive vintage patterned carpet alternating in sage green and beige-gray; to the subject's lower left rests a dark blue hardcover book with classical embossed patterns. The mirror frame is a thick, wide gold / bronze Baroque carved wooden frame, with abundant scrolling acanthus and curved ornaments entering from the edges of the frame. In the background, a vintage wooden writing desk, a rattan chair, light-colored walls, and a metal floor lamp are visible, with an overall color palette leaning toward beige-white, brownish-gold, and sage-gray. Wooden blinds are on the right, with natural daylight streaming in from the window. The lighting is soft natural window light combined with mobile auto-exposure, skin looking bright and slightly cool-white, the blue skirt and stockings exhibiting high saturation, while the room retains a gentle warm tone. The overall image has the texture of a 2000s–2010s mobile mirror selfie / Tumblr, Japanese vintage fashion outfit photo: slight wide-angle distortion, natural sharpness, subtle JPEG compression, and no excessive HDR. Key focal points: adult female + ultra-long straight black hair + blue phone obscuring face + floor sitting pose + one knee bent high, one leg stretched forward + white long-sleeve shirt + dark blue slim tie + blue-and-white plaid pleated miniskirt + smoky charcoal-black ultra-sheer pantyhose + worn-over royal blue lace thigh-high socks + white pointed-toe stilettos + golden classical carved mirror + sage-green vintage carpet + dark blue patterned book + European vintage room + authentic mobile mirror selfie aesthetic. Avoid: minors, real student identity, short hair, high ponytail, black thigh-high socks, white socks, bare legs, sneakers, round-toe chunky heels, solid-colored miniskirt, standing pose, plain upright sitting, modern minimalist room, harsh studio lighting, anime face, CG look, watermarks, and garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

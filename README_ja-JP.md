@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**197** 件 · 最新の追加: **2026-09-14**
+**204** 件 · 最新の追加: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-photography"></a>
 
 ## 写真撮影
+
+<a name="prompt-2099520295405232546"></a>
+
+### 翻訳中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [元の投稿](https://x.com/Hamburgerai/status/2099520295405232546)
+
+ポスター / チラシ · 写真撮影 · 風景 / 自然 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099520295405232546-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### 翻訳中
+
+作者：[@vybyrn](https://x.com/vybyrn) · [元の投稿](https://x.com/vybyrn/status/2099518049246499014)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099518049246499014-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### 翻訳中
+
+作者：[@mumaren\_2](https://x.com/mumaren_2) · [元の投稿](https://x.com/mumaren_2/status/2099409502898700694)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099409502898700694-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2423,6 +2497,30 @@ CM全体を通して、提供された参照画像/動画と完全に一致す�
 
 ## アニメ / 漫画
 
+<a name="prompt-2099481577969312010"></a>
+
+### 翻訳中
+
+作者：[@AISuperDomain](https://x.com/AISuperDomain) · [元の投稿](https://x.com/AISuperDomain/status/2099481577969312010)
+
+アニメ / 漫画 · コミック / グラフィックノベル · ポートレート / セルフィー · キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099481577969312010-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1人, ポートレート, モノクロ背景に真珠の涙とセレクティブカラーの目／涙。
@@ -2701,6 +2799,62 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 <a name="category-sketch-line-art"></a>
 
 ## スケッチ / 線画
+
+<a name="prompt-2099485936535167139"></a>
+
+### 翻訳中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [元の投稿](https://x.com/Hamburgerai/status/2099485936535167139)
+
+ポスター / チラシ · スケッチ / 線画 · ミニマリズム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099485936535167139-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### 翻訳中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [元の投稿](https://x.com/Hamburgerai/status/2099501924278235384)
+
+ポスター / チラシ · イラスト · スケッチ / 線画 · 街並み / ストリート · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099501924278235384-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3067,6 +3221,32 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 <a name="category-retro-vintage"></a>
 
 ## レトロ / ヴィンテージ
+
+<a name="prompt-2099473433067495508"></a>
+
+### 翻訳中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [元の投稿](https://x.com/DDJCXX/status/2099473433067495508)
+
+レトロ / ヴィンテージ · ポートレート / セルフィー · キャラクター · ファッションアイテム · 建築 / インテリア · 配信済み
+
+元の投稿：[@adinascozylife](https://x.com/adinascozylife) · [元の投稿](https://x.com/adinascozylife/status/2099313663827947968)
+
+**概要:** 翻訳中
+
+<img src="images/2099473433067495508-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

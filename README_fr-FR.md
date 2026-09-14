@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**197** Prompts · Dernier ajout: **2026-09-14**
+**204** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099520295405232546"></a>
+
+### Traduction en cours
+
+Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2099520295405232546)
+
+Affiche / Flyer · Photographie · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099520295405232546-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### Traduction en cours
+
+Auteur：[@vybyrn](https://x.com/vybyrn) · [Publication originale](https://x.com/vybyrn/status/2099518049246499014)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099518049246499014-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### Traduction en cours
+
+Auteur：[@mumaren\_2](https://x.com/mumaren_2) · [Publication originale](https://x.com/mumaren_2/status/2099409502898700694)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099409502898700694-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2406,6 +2480,30 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 ## Anime / Manga
 
+<a name="prompt-2099481577969312010"></a>
+
+### Traduction en cours
+
+Auteur：[@AISuperDomain](https://x.com/AISuperDomain) · [Publication originale](https://x.com/AISuperDomain/status/2099481577969312010)
+
+Anime / Manga · Bande dessinée / Roman graphique · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099481577969312010-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1personne, portrait, larmes de perles et yeux/larmes à couleur sélective sur fond monochrome.
@@ -2684,6 +2782,62 @@ Transformez la photo en une caricature à la gouache peinte à la main sur du pa
 <a name="category-sketch-line-art"></a>
 
 ## Croquis / Dessin au trait
+
+<a name="prompt-2099485936535167139"></a>
+
+### Traduction en cours
+
+Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2099485936535167139)
+
+Affiche / Flyer · Croquis / Dessin au trait · Minimalisme · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099485936535167139-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### Traduction en cours
+
+Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2099501924278235384)
+
+Affiche / Flyer · Illustration · Croquis / Dessin au trait · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099501924278235384-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3050,6 +3204,32 @@ Traduction en cours
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2099473433067495508"></a>
+
+### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2099473433067495508)
+
+Rétro / Vintage · Portrait / Selfie · Personnage · Article de mode · Architecture / Intérieur · Publié
+
+Publication originale：[@adinascozylife](https://x.com/adinascozylife) · [Publication originale](https://x.com/adinascozylife/status/2099313663827947968)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099473433067495508-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

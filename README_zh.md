@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**197** 条内容 · 最新收录: **2026-09-14**
+**204** 条内容 · 最新收录: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2099520295405232546"></a>
+
+### 翻译中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099520295405232546)
+
+海报 / 传单 · 摄影 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099520295405232546-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### 翻译中
+
+作者：[@vybyrn](https://x.com/vybyrn) · [查看 X 原帖](https://x.com/vybyrn/status/2099518049246499014)
+
+摄影 · 人像 / 自拍 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099518049246499014-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### 翻译中
+
+作者：[@mumaren\_2](https://x.com/mumaren_2) · [查看 X 原帖](https://x.com/mumaren_2/status/2099409502898700694)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099409502898700694-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2424,6 +2498,30 @@ CGI毛发、
 
 ## 动漫 / 漫画
 
+<a name="prompt-2099481577969312010"></a>
+
+### 翻译中
+
+作者：[@AISuperDomain](https://x.com/AISuperDomain) · [查看 X 原帖](https://x.com/AISuperDomain/status/2099481577969312010)
+
+动漫 / 漫画 · 漫画 / 图画小说 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099481577969312010-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1个人, 肖像, 珍珠眼泪与单色背景下的局部彩色眼睛/眼泪。
@@ -2702,6 +2800,62 @@ B: 3::black gakuran::, 面向A蹲着, 一只手放在膝盖附近, 另一只手�
 <a name="category-sketch-line-art"></a>
 
 ## 草图 / 线稿
+
+<a name="prompt-2099485936535167139"></a>
+
+### 翻译中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099485936535167139)
+
+海报 / 传单 · 草图 / 线稿 · 极简主义 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099485936535167139-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### 翻译中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099501924278235384)
+
+海报 / 传单 · 插画 · 草图 / 线稿 · 城市风光 / 街道 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099501924278235384-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3068,6 +3222,32 @@ B: 3::black gakuran::, 面向A蹲着, 一只手放在膝盖附近, 另一只手�
 <a name="category-retro-vintage"></a>
 
 ## 复古 / 怀旧
+
+<a name="prompt-2099473433067495508"></a>
+
+### 翻译中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2099473433067495508)
+
+复古 / 怀旧 · 人像 / 自拍 · 角色 · 时尚单品 · 建筑 / 室内设计 · 已推流
+
+查看 X 原帖：[@adinascozylife](https://x.com/adinascozylife) · [查看 X 原帖](https://x.com/adinascozylife/status/2099313663827947968)
+
+**概括:** 翻译中
+
+<img src="images/2099473433067495508-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

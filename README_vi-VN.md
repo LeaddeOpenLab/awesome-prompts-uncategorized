@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**197** Prompt · Bổ sung mới nhất: **2026-09-14**
+**204** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099520295405232546"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2099520295405232546)
+
+Áp phích / Tờ rơi · Nhiếp ảnh · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099520295405232546-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### Đang dịch
+
+Tác giả：[@vybyrn](https://x.com/vybyrn) · [Bài gốc](https://x.com/vybyrn/status/2099518049246499014)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099518049246499014-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### Đang dịch
+
+Tác giả：[@mumaren\_2](https://x.com/mumaren_2) · [Bài gốc](https://x.com/mumaren_2/status/2099409502898700694)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099409502898700694-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2441,6 +2515,30 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 ## Anime / Manga
 
+<a name="prompt-2099481577969312010"></a>
+
+### Đang dịch
+
+Tác giả：[@AISuperDomain](https://x.com/AISuperDomain) · [Bài gốc](https://x.com/AISuperDomain/status/2099481577969312010)
+
+Anime / Manga · Truyện tranh / Tiểu thuyết đồ họa · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099481577969312010-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1 người, chân dung, nước mắt ngọc trai và mắt/nước mắt có màu chọn lọc trên nền đơn sắc.
@@ -2719,6 +2817,62 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 <a name="category-sketch-line-art"></a>
 
 ## Phác Thảo / Nét Vẽ
+
+<a name="prompt-2099485936535167139"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2099485936535167139)
+
+Áp phích / Tờ rơi · Phác Thảo / Nét Vẽ · Chủ nghĩa tối giản · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099485936535167139-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2099501924278235384)
+
+Áp phích / Tờ rơi · Minh họa · Phác Thảo / Nét Vẽ · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099501924278235384-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3085,6 +3239,32 @@ Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bả
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2099473433067495508"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2099473433067495508)
+
+Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
+
+Bài gốc：[@adinascozylife](https://x.com/adinascozylife) · [Bài gốc](https://x.com/adinascozylife/status/2099313663827947968)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099473433067495508-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 

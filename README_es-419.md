@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**197** Prompts · Última incorporación: **2026-09-14**
+**204** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,80 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2099520295405232546"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2099520295405232546)
+
+Póster / Volante · Fotografía · Paisaje / Naturaleza · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099520295405232546-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099520295405232546-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099520295405232546-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099520295405232546-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099518049246499014"></a>
+
+### Traducción en curso
+
+Autor：[@vybyrn](https://x.com/vybyrn) · [Publicación original](https://x.com/vybyrn/status/2099518049246499014)
+
+Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099518049246499014-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### Traducción en curso
+
+Autor：[@mumaren\_2](https://x.com/mumaren_2) · [Publicación original](https://x.com/mumaren_2/status/2099409502898700694)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099409502898700694-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099379743108055415"></a>
 
@@ -2406,6 +2480,30 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 ## Anime / Manga
 
+<a name="prompt-2099481577969312010"></a>
+
+### Traducción en curso
+
+Autor：[@AISuperDomain](https://x.com/AISuperDomain) · [Publicación original](https://x.com/AISuperDomain/status/2099481577969312010)
+
+Anime / Manga · Cómic / Novela gráfica · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099481577969312010-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099481577969312010-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2099395304449831352"></a>
 
 ### 1persona, retrato, lágrimas de perlas y ojos/lágrimas con color selectivo sobre fondo monocromático.
@@ -2684,6 +2782,62 @@ Transforma la foto en una caricatura al gouache pintada a mano sobre papel de al
 <a name="category-sketch-line-art"></a>
 
 ## Boceto / Arte lineal
+
+<a name="prompt-2099485936535167139"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2099485936535167139)
+
+Póster / Volante · Boceto / Arte lineal · Minimalismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099485936535167139-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099485936535167139-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099485936535167139-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099485936535167139-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099501924278235384"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2099501924278235384)
+
+Póster / Volante · Ilustración · Boceto / Arte lineal · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099501924278235384-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099501924278235384-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099501924278235384-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099501924278235384-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098371221184495917"></a>
 
@@ -3050,6 +3204,32 @@ Traducción en curso
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099473433067495508"></a>
+
+### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2099473433067495508)
+
+Retro / Vintage · Retrato / Selfie · Personaje · Artículo de moda · Arquitectura / Interiores · Publicado
+
+Publicación original：[@adinascozylife](https://x.com/adinascozylife) · [Publicación original](https://x.com/adinascozylife/status/2099313663827947968)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099473433067495508-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099261445662027788"></a>
 
