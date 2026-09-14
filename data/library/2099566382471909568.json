@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T20:19:13.202Z",
+  "model": "imagen",
+  "prompt": "Nombre: (el vuestro)\nPokemon( el que quieras)\nPrompt de la imagen\nGenera una ilustración digital limpia de un diseño de carta de Pokémon TCG de arte completo, vista como un activo digital plano tipo escaneo (no una foto de un objeto físico). Transforma a la persona de la foto subida en un Entrenador Pokémon de estilo anime, manteniendo su parecido. Colócalos en una pose de acción dinámica junto a un CHARIZARD. El fondo debe ser energía elemental intensa que coincida con el tipo del Pokémon.",
+  "promptTranslations": {
+    "en": "Name: (yours)\\nPokemon( whichever you want)\\nImage prompt\\nGenerate a clean digital illustration of a full-art Pokémon TCG card design, viewed as a flat scan-like digital asset (not a photo of a physical object). Transform the person from the uploaded photo into an anime-style Pokémon Trainer, maintaining their likeness. Place them in a dynamic action pose next to a CHARIZARD. The background should be intense elemental energy matching the Pokémon's type."
+  },
+  "summaryTranslations": {
+    "en": "Prompt to convert a personal photo into a full-art anime-style Pokémon TCG card alongside a Pokémon."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt para convertir una foto personal en carta Pokémon TCG de arte completo estilo anime junto a un Pokémon.",
+  "summaryEn": "Prompt to transform a personal photo into a custom full-art anime Pokémon TCG card alongside a Pokémon.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099566382471909568",
+    "canonicalUrl": "https://x.com/Xabatz/status/2099566382471909568",
+    "author": {
+      "username": "Xabatz",
+      "displayName": "Xabi | Inteligencia Artificial",
+      "profileUrl": "https://x.com/Xabatz"
+    },
+    "publishedAt": "2026-09-14T18:30:08.000Z",
+    "collectedAt": "2026-09-14T20:16:41.527Z",
+    "language": "es",
+    "originalText": "🤯 Le pasé mi foto a ChatGPT y me convirtió en una carta Pokémon de arte completo, con mi Charizard al lado.\n\nNo es una app de pago ni un filtro: es un solo prompt dentro de ChatGPT. Subes una foto tuya (o de quien quieras), pegas el texto cambiando el nombre del Pokémon y él te devuelve la carta entera, con tu cara convertida en Entrenador estilo anime. Aviso importante: casi nunca sale a la primera, a mí me costó 4 o 5 intentos. Cuando sale la primera, ya solo tienes que ir pidiendo otro Pokémon y las va sacando en segundos.\n\nTanto si eres fan del TCG, si tienes un hijo obsesionado con las cartas, si buscas un regalo diferente o si simplemente quieres probar hasta dónde llega ChatGPT con las imágenes, esto te va a encantar.\n\nQué aprenderás paso a paso:\n🔹 Cómo crear tu carta Pokémon con ChatGPT desde el móvil\n🔹 Qué foto tuya subir para que mantenga tu parecido\n🔹 Dónde cambiar el nombre del Pokémon dentro del prompt\n🔹 Qué hacer cuando ChatGPT se niega o te cambia la cara\n🔹 Cómo iterar y sacar 10 cartas distintas en un minuto\n\nLos pasos:\n1) Abre ChatGPT y empieza un chat nuevo.\n2) Sube una foto tuya con la cara bien visible, de medio cuerpo o cuerpo entero.\n3) Pega este prompt cambiando CHARIZARD por tu Pokémon:\n\n\"Nombre: (el vuestro)\nPokemon( el que quieras)\nPrompt de la imagen\nGenera una ilustración digital limpia de un diseño de carta de Pokémon TCG de arte completo, vista como un activo digital plano tipo escaneo (no una foto de un objeto físico). Transforma a la persona de la foto subida en un Entrenador Pokémon de estilo anime, manteniendo su parecido. Colócalos en una pose de acción dinámica junto a un CHARIZARD. El fondo debe ser energía elemental intensa que coincida con el tipo del Pokémon.\"\n\n4) Si no sale, insiste. Vuelve a mandarlo 4 o 5 veces.\n5) Cuando ya tengas una, itera: \"ahora con Gengar\", \"ahora con Dragonite\", \"ahora con Mewtwo\".\n\nLo que más me preguntáis:\n❓ ¿Es gratis? Sí, la cuenta gratuita genera imágenes, pero tiene un límite diario.\n❓ ¿Por qué no me sale a la primera? Porque a veces rechaza la petición o te cambia la cara. Es normal, repítelo.\n❓ ¿Vale cualquier foto? Mejor una con buena luz y la cara despejada, sin gafas de sol.\n❓ ¿Puedo hacerlo de otra persona? Sí, sube su foto en vez de la tuya.\n\n💾 Guárdalo antes de que lo capen · 📩 envíaselo a ese amigo que se sabe los 151 de memoria.\n\n#ChatGPT #Pokemon #PromptsIA #InteligenciaArtificial #CartasPokemon\n\ncarta pokemon con chatgpt, crear carta pokemon con ia, convertirte en entrenador pokemon, prompt chatgpt imagenes, como crear imagenes con chatgpt, chatgpt imagenes gratis, prompts para ia en español, cartas pokemon personalizadas, charizard carta ilustracion, ia para crear imagenes, trucos de chatgpt 2026, editar fotos con inteligencia artificial, chatgpt tutorial español, pokemon tcg arte completo, convertir foto en dibujo anime, prompt paso a paso",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Xabatz/status/2099566382471909568",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099566308090155008/img/B_G2s5XdRJq2VyRz.jpg",
+        "analysisUrl": "https://x.com/Xabatz/status/2099566382471909568"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 68
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Xabatz/status/2099566382471909568",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099566308090155008/img/B_G2s5XdRJq2VyRz.jpg",
+  "coverPath": "covers/2099566382471909568.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099566308090155008",
+    "x-post:2099566382471909568"
+  ],
+  "analysis": {
+    "summary": "Prompt para convertir una foto personal en carta Pokémon TCG de arte completo estilo anime junto a un Pokémon.",
+    "summaryEn": "Prompt to transform a personal photo into a custom full-art anime Pokémon TCG card alongside a Pokémon.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "El video demuestra la ejecución directa del prompt en ChatGPT para generar cartas Pokémon personalizadas idénticas a las descritas."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Nombre: (el vuestro)\nPokemon( el que quieras)\nPrompt de la imagen\nGenera una ilustración digital limpia de un diseño de carta de Pokémon TCG de arte completo, vista como un activo digital plano tipo escaneo (no una foto de un objeto físico). Transforma a la persona de la foto subida en un Entrenador Pokémon de estilo anime, manteniendo su parecido. Colócalos en una pose de acción dinámica junto a un CHARIZARD. El fondo debe ser energía elemental intensa que coincida con el tipo del Pokémon.",
+    "sourceRange": {
+      "start": 1232,
+      "end": 1727
+    },
+    "translations": {
+      "zh": "名字：（你的名字）\n宝可梦：（任意宝可梦）\n图像提示词\n生成全图宝可梦TCG卡牌设计的干净数字插画，呈现为平面扫描数字资产（非实体照片）。将上传照片中的人物转化为动漫风格的宝可梦训练家并保持相貌相似。将其与喷火龙置于动态动作姿势中。背景应为与宝可梦属性一致的强烈元素能量。",
+      "en": "Name: (yours)\nPokemon: (any you want)\nImage prompt\nGenerate a clean digital illustration of a full-art Pokémon TCG card design, viewed as a flat scan-like digital asset (not a photo of a physical object). Transform the person in the uploaded photo into an anime-style Pokémon Trainer, keeping their likeness. Place them in a dynamic action pose next to a CHARIZARD. The background should be intense elemental energy matching the Pokémon's type."
+    },
+    "targetModels": [
+      "imagen"
+    ],
+    "category": "text-to-image",
+    "useCase": "transform photo into custom Pokemon TCG full art card",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Pokémon",
+        "Nintendo",
+        "Charizard"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
