@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T00:17:04.455Z",
+  "model": "grok",
+  "prompt": "[Generation Goal]\nGenerar un video de una invasión extraterrestre a gran escala donde las IA se enfrentan a los UFOs. El evento principal es el combate aéreo y terrestre entre flotas de drones de inteligencia artificial y naves extraterrestres.\n\n[Event Script]\nAl inicio: Cielos nocturnos sobre una metrópolis iluminada se llenan de destellos y formaciones de UFOs de formas discos y triangulares que descienden y disparan rayos de energía.\nEvento principal: Enjambres de drones de IA, de diseño geométrico y con luces azules, se elevan desde torres y hangares, forman escuadrones tácticos, se interponen en el camino de los UFOs y abren fuego con láseres de precisión y campos de fuerza. Algunos drones se sacrifican en colisiones controladas para derribar naves enemigas, mientras las IA coordinan ataques en red, interrumpiendo la formación invasora y repeliendo la oleada principal.\nAl final: Los UFOs restantes se retiran hacia el espacio, los drones de IA permanecen en formación de vigilancia sobre la ciudad parcialmente intacta, con humo y restos flotando en el aire.\n\n[Maintain Consistency]\nMantener la identidad de las IA como fuerzas tecnológicas terrestres (drones y sistemas autónomos) enfrentando a los invasores extraterrestres. Conservar el contraste visual entre la luz azul fría de las IA y los destellos verdes/púrpura de los UFOs, la escala de la batalla nocturna y el resultado de la resistencia exitosa de las IA.\n\nLos visuales presentan un estilo cinemático de ciencia ficción épica, con explosiones brillantes, estelas de energía y una atmósfera de tensión tecnológica.\nLa cámara usa tomas aéreas amplias de la batalla, seguimientos dinámicos de los combates de drones y cortes a primer plano de impactos láser.\nEl sonido incluye zumbidos de propulsores de drones, rayos de energía, explosiones distantes y un score sintético de intensidad creciente.",
+  "promptTranslations": {
+    "en": "[Generation Goal]\nGenerate a video of a large-scale alien invasion where AIs face off against UFOs. The main event is air and ground combat between fleets of artificial intelligence drones and alien craft.\n\n[Event Script]\nBeginning: Night skies over an illuminated metropolis fill with flashes and formations of disc-shaped and triangular UFOs descending and firing energy beams.\nMain event: Swarms of AI drones, geometrically designed with blue lights, rise from towers and hangars, form tactical squadrons, intercept the path of the UFOs, and open fire with precision lasers and force fields. Some drones sacrifice themselves in controlled collisions to bring down enemy craft, while the AIs coordinate networked attacks, disrupting the invading formation and repelling the main wave.\nEnding: The remaining UFOs retreat into space; the AI drones remain in surveillance formation over the partially intact city, with smoke and debris drifting through the air.\n\n[Maintain Consistency]\nMaintain the identity of the AIs as Earth-based technological forces (drones and autonomous systems) confronting the alien invaders. Preserve the visual contrast between the cool blue light of the AIs and the green/purple flashes of the UFOs, the scale of the nocturnal battle, and the outcome of the successful AI resistance.\n\nThe visuals feature an epic sci-fi cinematic style, with bright explosions, energy trails, and an atmosphere of technological tension.\nThe camera uses wide aerial shots of the battle, dynamic tracking of drone dogfights, and close-up cutaways of laser impacts.\nThe sound includes the hum of drone thrusters, energy beams, distant explosions, and a synthetic score of mounting intensity."
+  },
+  "summaryTranslations": {
+    "en": "Structured prompt to generate a cinematic sci-fi combat video between Earth-based AI drone swarms and an alien ship invasion over a nocturnal metropolis."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt estructurado para generar un video cinematográfico de combate de ciencia ficción entre enjambres de drones de IA terrestres y una invasión de naves extraterrestres sobre una metrópolis nocturna.",
+  "summaryEn": "Structured prompt for generating an epic cinematic sci-fi battle video between AI drone swarms and invading alien UFOs over a nighttime city.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099234788859105541",
+    "canonicalUrl": "https://x.com/mys1111/status/2099234788859105541",
+    "author": {
+      "username": "mys1111",
+      "displayName": "MYS AI",
+      "profileUrl": "https://x.com/mys1111"
+    },
+    "publishedAt": "2026-09-13T20:32:30.000Z",
+    "collectedAt": "2026-09-14T00:15:58.648Z",
+    "language": "es",
+    "originalText": "Prompt Share\n\nGrok ahora tiene una nueva funcion, mejorar los prompts   \nUno describe lo que quiere obtener, y al tocar el botón Grok genera un prompt con el siguiente formato:\n\n[Generation Goal]\nGenerar un video de una invasión extraterrestre a gran escala donde las IA se enfrentan a los UFOs. El evento principal es el combate aéreo y terrestre entre flotas de drones de inteligencia artificial y naves extraterrestres.\n\n[Event Script]\nAl inicio: Cielos nocturnos sobre una metrópolis iluminada se llenan de destellos y formaciones de UFOs de formas discos y triangulares que descienden y disparan rayos de energía.\nEvento principal: Enjambres de drones de IA, de diseño geométrico y con luces azules, se elevan desde torres y hangares, forman escuadrones tácticos, se interponen en el camino de los UFOs y abren fuego con láseres de precisión y campos de fuerza. Algunos drones se sacrifican en colisiones controladas para derribar naves enemigas, mientras las IA coordinan ataques en red, interrumpiendo la formación invasora y repeliendo la oleada principal.\nAl final: Los UFOs restantes se retiran hacia el espacio, los drones de IA permanecen en formación de vigilancia sobre la ciudad parcialmente intacta, con humo y restos flotando en el aire.\n\n[Maintain Consistency]\nMantener la identidad de las IA como fuerzas tecnológicas terrestres (drones y sistemas autónomos) enfrentando a los invasores extraterrestres. Conservar el contraste visual entre la luz azul fría de las IA y los destellos verdes/púrpura de los UFOs, la escala de la batalla nocturna y el resultado de la resistencia exitosa de las IA.\n\nLos visuales presentan un estilo cinemático de ciencia ficción épica, con explosiones brillantes, estelas de energía y una atmósfera de tensión tecnológica.\nLa cámara usa tomas aéreas amplias de la batalla, seguimientos dinámicos de los combates de drones y cortes a primer plano de impactos láser.\nEl sonido incluye zumbidos de propulsores de drones, rayos de energía, explosiones distantes y un score sintético de intensidad creciente.\n\n#GrokImagine #UFO #War",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mys1111/status/2099234788859105541",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099234722530709506/img/x1L2f8-o6aYNNajw.jpg",
+        "analysisUrl": "https://x.com/mys1111/status/2099234788859105541"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 52
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/mys1111/status/2099234788859105541",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099234722530709506/img/x1L2f8-o6aYNNajw.jpg",
+  "coverPath": "covers/2099234788859105541.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099234722530709506",
+    "x-post:2099234788859105541"
+  ],
+  "analysis": {
+    "summary": "Prompt estructurado para generar un video cinematográfico de combate de ciencia ficción entre enjambres de drones de IA terrestres y una invasión de naves extraterrestres sobre una metrópolis nocturna.",
+    "summaryEn": "Structured prompt for generating an epic cinematic sci-fi battle video between AI drone swarms and invading alien UFOs over a nighttime city.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "El video muestra claramente la ciudad nocturna, la flota de UFOs con haces morados descendiendo, y los drones con luces azules desplegándose en formación y colisionando contra la nave alienígena, coincidiendo exactamente con el guion."
+    },
+    "videoQuality": null,
+    "originalPrompt": "[Generation Goal]\nGenerar un video de una invasión extraterrestre a gran escala donde las IA se enfrentan a los UFOs. El evento principal es el combate aéreo y terrestre entre flotas de drones de inteligencia artificial y naves extraterrestres.\n\n[Event Script]\nAl inicio: Cielos nocturnos sobre una metrópolis iluminada se llenan de destellos y formaciones de UFOs de formas discos y triangulares que descienden y disparan rayos de energía.\nEvento principal: Enjambres de drones de IA, de diseño geométrico y con luces azules, se elevan desde torres y hangares, forman escuadrones tácticos, se interponen en el camino de los UFOs y abren fuego con láseres de precisión y campos de fuerza. Algunos drones se sacrifican en colisiones controladas para derribar naves enemigas, mientras las IA coordinan ataques en red, interrumpiendo la formación invasora y repeliendo la oleada principal.\nAl final: Los UFOs restantes se retiran hacia el espacio, los drones de IA permanecen en formación de vigilancia sobre la ciudad parcialmente intacta, con humo y restos flotando en el aire.\n\n[Maintain Consistency]\nMantener la identidad de las IA como fuerzas tecnológicas terrestres (drones y sistemas autónomos) enfrentando a los invasores extraterrestres. Conservar el contraste visual entre la luz azul fría de las IA y los destellos verdes/púrpura de los UFOs, la escala de la batalla nocturna y el resultado de la resistencia exitosa de las IA.\n\nLos visuales presentan un estilo cinemático de ciencia ficción épica, con explosiones brillantes, estelas de energía y una atmósfera de tensión tecnológica.\nLa cámara usa tomas aéreas amplias de la batalla, seguimientos dinámicos de los combates de drones y cortes a primer plano de impactos láser.\nEl sonido incluye zumbidos de propulsores de drones, rayos de energía, explosiones distantes y un score sintético de intensidad creciente.",
+    "sourceRange": {
+      "start": 178,
+      "end": 2053
+    },
+    "translations": {
+      "zh": "[生成目标]\n生成一段大规模外星人入侵视频，AI与UFO交锋。核心为AI无人机机队与外星飞船的空地战斗。\n\n[事件脚本]\n开头：夜空下的大都市充满闪光，盘状和三角UFO降下并射出能量光束。\n主要事件：几何外观、亮蓝光的AI无人机群从机库升起拦截UFO，射出激光与力场，牺牲撞击摧毁敌舰击退敌军。\n结尾：残余UFO撤退，无人机在残存城市上空警戒。\n\n[保持一致性]\n保持AI作为地球防御力量的身份。维持AI冷蓝光与UFO紫绿光的对比及夜战史诗感。\n\n画面具史诗科幻质感与能量爆炸，机位含广角及动态特写追踪，声音包含推进器鸣响与合成乐。",
+      "en": "[Generation Goal]\nGenerate a large-scale alien invasion video where AI confronts UFOs in aerial and ground combat.\n\n[Event Script]\nBeginning: Night skies over an illuminated metropolis fill with flashes and disk/triangle UFO formations descending and firing energy beams.\nMain event: Swarms of AI drones with blue lights rise from hangars, intercept UFOs, fire precision lasers, and ram into enemy ships to repel the assault.\nEnding: Remaining UFOs retreat into space, and AI drones stay in surveillance formation over the city.\n\n[Maintain Consistency]\nMaintain AI's identity as Earth tech. Keep visual contrast between cool blue AI lights and green/purple UFO glows.\n\nEpic sci-fi cinematic style, explosions, dynamic camera tracking, and synth score."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "Generación de video de batalla de ciencia ficción entre drones de IA y naves extraterrestres",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
