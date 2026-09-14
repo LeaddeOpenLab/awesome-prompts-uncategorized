@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**180** Prompts · Latest addition: **2026-09-14**
+**181** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3800,6 +3800,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099247373570478453"></a>
+
+### Walking to dinner in her castle in her dining area with her Prince Charming
+
+Author：[@MelodyM662010](https://x.com/MelodyM662010) · [Source](https://x.com/MelodyM662010/status/2099247373570478453)
+
+Other · Published
+
+**Summary:** Walking to dinner in her castle in her dining area with her Prince Charming
+
+<img src="covers/2099247373570478453.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Walking to dinner in her castle in her dining area with her Prince Charming
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099242243244662947"></a>
 
