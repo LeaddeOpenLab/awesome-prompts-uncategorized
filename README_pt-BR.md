@@ -3170,20 +3170,20 @@ Caminhando para o jantar na sala de jantar de seu castelo com seu Príncipe Enca
 
 <a name="prompt-2099242243244662947"></a>
 
-### Tradução em andamento
+### Magos arcanos observando uma ornamentada cidade celestial entre nuvens e corpos cósmicos.
 
 Autor：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publicação original](https://x.com/TheEerieHollows/status/2099242243244662947)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Magos arcanos observando uma ornamentada cidade celestial entre nuvens e corpos cósmicos.
 
 <img src="images/2099242243244662947-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Magos arcanos em uma cidade celestial
 ```
 
 [↑ Voltar às categorias](#catalog)

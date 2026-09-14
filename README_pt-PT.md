@@ -3170,20 +3170,20 @@ A caminhar para o jantar na sala de jantar do seu castelo com o seu Príncipe En
 
 <a name="prompt-2099242243244662947"></a>
 
-### Tradução em curso
+### Feiticeiros arcanos a contemplar uma ornamentada cidade celestial por entre nuvens e corpos cósmicos.
 
 Autor：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publicação original](https://x.com/TheEerieHollows/status/2099242243244662947)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Feiticeiros arcanos a contemplar uma ornamentada cidade celestial por entre nuvens e corpos cósmicos.
 
 <img src="images/2099242243244662947-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Feiticeiros arcanos numa cidade celestial
 ```
 
 [↑ Voltar às categorias](#catalog)

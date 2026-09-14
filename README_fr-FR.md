@@ -3153,20 +3153,20 @@ Marchant pour aller dîner dans son château, dans sa salle à manger, avec son 
 
 <a name="prompt-2099242243244662947"></a>
 
-### Traduction en cours
+### Des magiciens arcaniques surplombant une cité céleste ornée parmi les nuages et les corps cosmiques.
 
 Auteur：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publication originale](https://x.com/TheEerieHollows/status/2099242243244662947)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Des magiciens arcaniques surplombant une cité céleste ornée parmi les nuages et les corps cosmiques.
 
 <img src="images/2099242243244662947-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Magiciens arcaniques dans une cité céleste
 ```
 
 [↑ Retour aux catégories](#catalog)

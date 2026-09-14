@@ -3198,20 +3198,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2099242243244662947"></a>
 
-### Đang dịch
+### Các pháp sư bí thuật nhìn ra một thành phố thiên giới lộng lẫy giữa những đám mây và các thiên thể.
 
 Tác giả：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Bài gốc](https://x.com/TheEerieHollows/status/2099242243244662947)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Các pháp sư bí thuật nhìn ra một thành phố thiên giới lộng lẫy giữa những đám mây và các thiên thể.
 
 <img src="images/2099242243244662947-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Các pháp sư bí thuật trong một thành phố thiên giới
 ```
 
 [↑ Về danh mục](#catalog)

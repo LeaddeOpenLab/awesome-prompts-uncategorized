@@ -3153,20 +3153,20 @@ Caminando a cenar en el comedor de su castillo con su Príncipe Azul
 
 <a name="prompt-2099242243244662947"></a>
 
-### Traducción en curso
+### Magos arcanos contemplando una ornamentada ciudad celestial entre nubes y cuerpos cósmicos.
 
 Autor：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publicación original](https://x.com/TheEerieHollows/status/2099242243244662947)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Magos arcanos contemplando una ornamentada ciudad celestial entre nubes y cuerpos cósmicos.
 
 <img src="images/2099242243244662947-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Magos arcanos en una ciudad celestial
 ```
 
 [↑ Volver a categorías](#catalog)

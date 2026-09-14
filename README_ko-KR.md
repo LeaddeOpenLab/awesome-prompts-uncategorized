@@ -3168,20 +3168,20 @@ FIELD NOTE [번호]
 
 <a name="prompt-2099242243244662947"></a>
 
-### 번역 중
+### 구름과 천체 사이의 화려한 천상 도시를 내려다보는 비전 마법사들.
 
 작성자：[@TheEerieHollows](https://x.com/TheEerieHollows) · [원본 게시물](https://x.com/TheEerieHollows/status/2099242243244662947)
 
 기타 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 구름과 천체 사이의 화려한 천상 도시를 내려다보는 비전 마법사들.
 
 <img src="images/2099242243244662947-1.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+천상의 도시 속 비전 마법사들
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

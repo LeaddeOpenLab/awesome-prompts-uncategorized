@@ -3170,20 +3170,20 @@ Kalesindeki yemek alanında Beyaz Atlı Prensi ile akşam yemeğine doğru yür�
 
 <a name="prompt-2099242243244662947"></a>
 
-### Çeviri sürüyor
+### Bulutlar ve kozmik cisimler arasında süslü bir göksel şehre bakan gizemli büyücüler.
 
 Yazar：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Orijinal gönderi](https://x.com/TheEerieHollows/status/2099242243244662947)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bulutlar ve kozmik cisimler arasında süslü bir göksel şehre bakan gizemli büyücüler.
 
 <img src="images/2099242243244662947-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Göksel Bir Şehirde Gizemli Büyücüler
 ```
 
 [↑ Kategorilere dön](#catalog)
