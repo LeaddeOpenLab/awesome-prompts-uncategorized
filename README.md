@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**175** Prompts · Latest addition: **2026-09-14**
+**177** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3750,6 +3750,51 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099287503434084358"></a>
+
+### A dynamic transformation process where a gemologist holds a sapphire, crystals spread to form stone armor, and a six-rayed star shines brilliantly.
+
+Author：[@tappyai007](https://x.com/tappyai007) · [Source](https://x.com/tappyai007/status/2099287503434084358)
+
+Other · Published
+
+**Summary:** A dynamic transformation process where a gemologist holds a sapphire, crystals spread to form stone armor, and a six-rayed star shines brilliantly.
+
+<img src="covers/2099287503434084358.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A gemologist holds a cabochon sapphire under a spotlight. A deep navy-blue crystal structure grows over their attire, hardening into smooth stone armor. A bright, sharp six-rayed star of light burns brilliantly across the center of the chest plate.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099288178146644421"></a>
+
+### Kinetic Mechanics \(The Centrifugal Governor\): An engineer activates a governor assembly that expands into a mechanical suit.
+
+Author：[@tappyai007](https://x.com/tappyai007) · [Source](https://x.com/tappyai007/status/2099288178146644421)
+
+Other · Published
+
+**Summary:** Kinetic Mechanics \(The Centrifugal Governor\): An engineer activates a governor assembly that expands into a mechanical suit.
+
+<img src="covers/2099288178146644421.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Kinetic Mechanics (The Centrifugal Governor)
+An engineer touches a steam governor assembly. Spinning brass flyballs and steel linkages expand from the mechanism, wrapping around their limbs. They transform into a heavy mechanical suit with dual spinning brass governors mounted on the pauldrons.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099203350281797949"></a>
 

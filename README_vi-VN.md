@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**175** Prompt · Bổ sung mới nhất: **2026-09-14**
+**177** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2005,20 +2005,20 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2099256180845731868"></a>
 
-### Đang dịch
+### Người phụ nữ anime mặc quân phục màu xanh lục đậm, tóc hồng, đeo kính đang uống bia tại quán rượu.
 
 Tác giả：[@ux6ovv](https://x.com/ux6ovv) · [Bài gốc](https://x.com/ux6ovv/status/2099256180845731868)
 
 Anime / Manga · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Người phụ nữ anime mặc quân phục màu xanh lục đậm, tóc hồng, đeo kính đang uống bia tại quán rượu.
 
 <img src="covers/2099256180845731868.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Phong cách anime, một người phụ nữ mặc quân phục, quân phục có tông màu chủ đạo là xanh lục đậm, tóc ngắn màu hồng, đeo kính hơi lớn, đang uống bia bằng một vại bia lớn trong quán rượu
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3123,6 +3123,50 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2099287503434084358"></a>
+
+### Đang dịch
+
+Tác giả：[@tappyai007](https://x.com/tappyai007) · [Bài gốc](https://x.com/tappyai007/status/2099287503434084358)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099287503434084358.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099288178146644421"></a>
+
+### Đang dịch
+
+Tác giả：[@tappyai007](https://x.com/tappyai007) · [Bài gốc](https://x.com/tappyai007/status/2099288178146644421)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099288178146644421.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099203350281797949"></a>
 

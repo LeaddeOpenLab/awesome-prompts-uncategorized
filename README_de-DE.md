@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**175** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**177** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1970,20 +1970,20 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2099256180845731868"></a>
 
-### Übersetzung läuft
+### Anime-Frau in dunkelgrüner Militäruniform mit rosa Haaren und Brille, die in einer Taverne Bier trinkt.
 
 Autor：[@ux6ovv](https://x.com/ux6ovv) · [Originalbeitrag](https://x.com/ux6ovv/status/2099256180845731868)
 
 Anime / Manga · Charakter · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anime-Frau in dunkelgrüner Militäruniform mit rosa Haaren und Brille, die in einer Taverne Bier trinkt.
 
 <img src="covers/2099256180845731868.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Im Anime-Stil, eine Frau in Militäruniform, die Militäruniform ist vorwiegend in dunklem Grün gehalten, kurzes rosa Haar, sie trägt eine eher große Brille und trinkt in einer Taverne aus einem großen Bierkrug
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3078,6 +3078,50 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2099287503434084358"></a>
+
+### Übersetzung läuft
+
+Autor：[@tappyai007](https://x.com/tappyai007) · [Originalbeitrag](https://x.com/tappyai007/status/2099287503434084358)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099287503434084358.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099288178146644421"></a>
+
+### Übersetzung läuft
+
+Autor：[@tappyai007](https://x.com/tappyai007) · [Originalbeitrag](https://x.com/tappyai007/status/2099288178146644421)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099288178146644421.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099203350281797949"></a>
 

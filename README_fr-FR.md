@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**175** Prompts · Dernier ajout: **2026-09-14**
+**177** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1970,20 +1970,20 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2099256180845731868"></a>
 
-### Traduction en cours
+### Femme anime en uniforme militaire vert foncé, cheveux roses et lunettes buvant de la bière dans une taverne.
 
 Auteur：[@ux6ovv](https://x.com/ux6ovv) · [Publication originale](https://x.com/ux6ovv/status/2099256180845731868)
 
 Anime / Manga · Personnage · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Femme anime en uniforme militaire vert foncé, cheveux roses et lunettes buvant de la bière dans une taverne.
 
 <img src="covers/2099256180845731868.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Style anime, une femme en uniforme militaire, l'uniforme militaire est principalement vert foncé, cheveux courts et roses, portant de grandes lunettes, en train de boire dans une grande chope de bière dans une taverne
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3078,6 +3078,50 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2099287503434084358"></a>
+
+### Traduction en cours
+
+Auteur：[@tappyai007](https://x.com/tappyai007) · [Publication originale](https://x.com/tappyai007/status/2099287503434084358)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099287503434084358.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099288178146644421"></a>
+
+### Traduction en cours
+
+Auteur：[@tappyai007](https://x.com/tappyai007) · [Publication originale](https://x.com/tappyai007/status/2099288178146644421)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099288178146644421.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099203350281797949"></a>
 

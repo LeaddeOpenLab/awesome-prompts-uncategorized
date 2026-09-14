@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**175** Prompts · Adição mais recente: **2026-09-14**
+**177** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1987,20 +1987,20 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2099256180845731868"></a>
 
-### Tradução em curso
+### Mulher de anime em uniforme militar verde-escuro, cabelo cor-de-rosa e óculos a beber cerveja numa taberna.
 
 Autor：[@ux6ovv](https://x.com/ux6ovv) · [Publicação original](https://x.com/ux6ovv/status/2099256180845731868)
 
 Anime / Mangá · Personagem · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Mulher de anime em uniforme militar verde-escuro, cabelo cor-de-rosa e óculos a beber cerveja numa taberna.
 
 <img src="covers/2099256180845731868.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Estilo anime, uma mulher em uniforme militar, o uniforme militar é predominantemente verde-escuro, cabelo curto e cor-de-rosa, a usar óculos grandes, a beber de uma grande caneca de cerveja numa taberna
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3095,6 +3095,50 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099287503434084358"></a>
+
+### Tradução em curso
+
+Autor：[@tappyai007](https://x.com/tappyai007) · [Publicação original](https://x.com/tappyai007/status/2099287503434084358)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099287503434084358.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099288178146644421"></a>
+
+### Tradução em curso
+
+Autor：[@tappyai007](https://x.com/tappyai007) · [Publicação original](https://x.com/tappyai007/status/2099288178146644421)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099288178146644421.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099203350281797949"></a>
 

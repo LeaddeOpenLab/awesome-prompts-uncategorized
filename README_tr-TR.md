@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**175** Prompt · Son eklenen: **2026-09-14**
+**177** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1987,20 +1987,20 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2099256180845731868"></a>
 
-### Çeviri sürüyor
+### Meyhanede bira içen koyu yeşil askeri üniformalı, pembe saçlı ve gözlüklü anime kadını.
 
 Yazar：[@ux6ovv](https://x.com/ux6ovv) · [Orijinal gönderi](https://x.com/ux6ovv/status/2099256180845731868)
 
 Anime / Manga · Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Meyhanede bira içen koyu yeşil askeri üniformalı, pembe saçlı ve gözlüklü anime kadını.
 
 <img src="covers/2099256180845731868.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Anime tarzında, askeri üniformalı bir kadın, askeri üniforma ağırlıklı olarak koyu yeşil renkte, pembe kısa saçlı, büyükçe bir gözlük takmış, meyhanede büyük bir bira bardağından içerken
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3095,6 +3095,50 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2099287503434084358"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@tappyai007](https://x.com/tappyai007) · [Orijinal gönderi](https://x.com/tappyai007/status/2099287503434084358)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099287503434084358.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099288178146644421"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@tappyai007](https://x.com/tappyai007) · [Orijinal gönderi](https://x.com/tappyai007/status/2099288178146644421)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099288178146644421.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099203350281797949"></a>
 

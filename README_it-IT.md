@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**175** Prompt · Ultima aggiunta: **2026-09-14**
+**177** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1970,20 +1970,20 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2099256180845731868"></a>
 
-### Traduzione in corso
+### Donna anime in uniforme militare verde scuro, capelli rosa e occhiali che beve birra in una taverna.
 
 Autore：[@ux6ovv](https://x.com/ux6ovv) · [Post originale](https://x.com/ux6ovv/status/2099256180845731868)
 
 Anime / Manga · Personaggio · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Donna anime in uniforme militare verde scuro, capelli rosa e occhiali che beve birra in una taverna.
 
 <img src="covers/2099256180845731868.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Stile anime, una donna in uniforme militare, l'uniforme militare è prevalentemente verde scuro, capelli corti rosa, indossa occhiali grandi, mentre beve da un grande boccale di birra in una taverna
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3078,6 +3078,50 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2099287503434084358"></a>
+
+### Traduzione in corso
+
+Autore：[@tappyai007](https://x.com/tappyai007) · [Post originale](https://x.com/tappyai007/status/2099287503434084358)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099287503434084358.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099288178146644421"></a>
+
+### Traduzione in corso
+
+Autore：[@tappyai007](https://x.com/tappyai007) · [Post originale](https://x.com/tappyai007/status/2099288178146644421)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099288178146644421.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099203350281797949"></a>
 
