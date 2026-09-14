@@ -2626,13 +2626,13 @@ Tradução em curso
 
 <a name="prompt-2099261445662027788"></a>
 
-### Tradução em curso
+### Modelo de estilo de fotografia vintage Autochrome Lumière do início do século XX.
 
 Autor：[@AllaAisling](https://x.com/AllaAisling) · [Publicação original](https://x.com/AllaAisling/status/2099261445662027788)
 
 Fotografia · Retrô / Vintage · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Modelo de estilo de fotografia vintage Autochrome Lumière do início do século XX.
 
 <img src="images/2099261445662027788-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2645,7 +2645,7 @@ Fotografia · Retrô / Vintage · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+[SUBJECT], fotografia a cores Autochrome Lumière, grão delicado em mosaico a partir de partículas de fécula de batata tingidas, foco suave resultante do processo de tela, cores luminosas mas suaves, luz natural de sonho, ligeira quebra de luz nas margens, otimismo do início do século XX preservado em vidro, parecendo menos uma fotografia e mais uma memória que sobreviveu.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3192,20 +3192,20 @@ Feiticeiros arcanos numa cidade celestial
 
 <a name="prompt-2099287503434084358"></a>
 
-### Tradução em curso
+### Processo de transformação dinâmica de um gemólogo a segurar uma safira, cristais a expandirem-se para formar uma armadura de pedra e a brilhar com uma estrela de seis pontas.
 
 Autor：[@tappyai007](https://x.com/tappyai007) · [Publicação original](https://x.com/tappyai007/status/2099287503434084358)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Processo de transformação dinâmica de um gemólogo a segurar uma safira, cristais a expandirem-se para formar uma armadura de pedra e a brilhar com uma estrela de seis pontas.
 
 <img src="covers/2099287503434084358.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um gemólogo segura uma safira em cabochão sob um foco de luz. Uma estrutura cristalina azul-marinho profundo cresce sobre a sua indumentária, endurecendo até se transformar numa armadura de pedra lisa. Uma estrela de luz de seis pontas, brilhante e nítida, arde radiantemente no centro da couraça.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3214,20 +3214,21 @@ Tradução em curso
 
 <a name="prompt-2099288178146644421"></a>
 
-### Tradução em curso
+### Mecânica Cinética \(O Regulador Centrífugo\): Um engenheiro ativa um conjunto de regulador que se expande num fato mecânico.
 
 Autor：[@tappyai007](https://x.com/tappyai007) · [Publicação original](https://x.com/tappyai007/status/2099288178146644421)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Mecânica Cinética \(O Regulador Centrífugo\): Um engenheiro ativa um conjunto de regulador que se expande num fato mecânico.
 
 <img src="covers/2099288178146644421.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Mecânica Cinética (O Regulador Centrífugo)
+Um engenheiro toca num conjunto de regulador a vapor. Esferas rotativas de latão e articulações de aço expandem-se a partir do mecanismo, envolvendo os seus membros. Eles transformam-se num fato mecânico pesado com reguladores duplos rotativos de latão montados sobre as ombreiras.
 ```
 
 [↑ Voltar às categorias](#catalog)

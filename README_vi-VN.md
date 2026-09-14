@@ -2644,13 +2644,13 @@ Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bả
 
 <a name="prompt-2099261445662027788"></a>
 
-### Đang dịch
+### Mẫu phong cách ảnh cổ điển Autochrome Lumière đầu thế kỷ 20.
 
 Tác giả：[@AllaAisling](https://x.com/AllaAisling) · [Bài gốc](https://x.com/AllaAisling/status/2099261445662027788)
 
 Nhiếp ảnh · Cổ điển / Cổ điển · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu phong cách ảnh cổ điển Autochrome Lumière đầu thế kỷ 20.
 
 <img src="images/2099261445662027788-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2663,7 +2663,7 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+[SUBJECT], ảnh màu Autochrome Lumière, hạt khảm tinh tế từ các hạt tinh bột khoai tây nhuộm màu, hiệu ứng lấy nét mềm từ quy trình tráng lưới, màu sắc rực rỡ nhưng trầm dịu, ánh sáng tự nhiên như mơ, vùng rìa tối nhẹ, sự lạc quan đầu thế kỷ 20 được lưu giữ trong thủy tinh, trông ít giống một bức ảnh mà giống một ký ức còn sót lại hơn.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3220,20 +3220,20 @@ Các pháp sư bí thuật trong một thành phố thiên giới
 
 <a name="prompt-2099287503434084358"></a>
 
-### Đang dịch
+### Quá trình biến đổi động của nhà ngọc học cầm sapphire, tinh thể lan rộng tạo thành giáp đá và tỏa sáng ngôi sao sáu cánh.
 
 Tác giả：[@tappyai007](https://x.com/tappyai007) · [Bài gốc](https://x.com/tappyai007/status/2099287503434084358)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Quá trình biến đổi động của nhà ngọc học cầm sapphire, tinh thể lan rộng tạo thành giáp đá và tỏa sáng ngôi sao sáu cánh.
 
 <img src="covers/2099287503434084358.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một nhà ngọc học cầm một viên ngọc bích mài tròn (cabochon sapphire) dưới ánh đèn chiếu. Một cấu trúc tinh thể màu xanh hải quân đậm mọc lan tỏa trên trang phục của họ, cứng lại thành bộ giáp đá nhẵn bóng. Một ngôi sao ánh sáng sáu cánh sắc nét, rực rỡ bùng cháy chói lọi ngay giữa tấm giáp ngực.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3242,20 +3242,21 @@ Khác · Đã xuất bản
 
 <a name="prompt-2099288178146644421"></a>
 
-### Đang dịch
+### Cơ học Động lực \(Bộ điều tốc ly tâm\): Một kỹ sư kích hoạt một cụm bộ điều tốc mở rộng thành một bộ giáp cơ khí.
 
 Tác giả：[@tappyai007](https://x.com/tappyai007) · [Bài gốc](https://x.com/tappyai007/status/2099288178146644421)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cơ học Động lực \(Bộ điều tốc ly tâm\): Một kỹ sư kích hoạt một cụm bộ điều tốc mở rộng thành một bộ giáp cơ khí.
 
 <img src="covers/2099288178146644421.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cơ học Động lực (Bộ điều tốc ly tâm)
+Một kỹ sư chạm vào cụm bộ điều tốc hơi nước. Các quả cầu kim loại bằng đồng thau đang quay và các thanh liên kết bằng thép bung ra từ cơ cấu, quấn quanh tứ chi của họ. Họ biến đổi thành một bộ giáp cơ khí hạng nặng với hai bộ điều tốc bằng đồng thau đang quay gắn trên giáp vai.
 ```
 
 [↑ Về danh mục](#catalog)

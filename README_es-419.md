@@ -2609,13 +2609,13 @@ Traducción en curso
 
 <a name="prompt-2099261445662027788"></a>
 
-### Traducción en curso
+### Plantilla de estilo de fotografía vintage Autochrome Lumière de principios del siglo XX.
 
 Autor：[@AllaAisling](https://x.com/AllaAisling) · [Publicación original](https://x.com/AllaAisling/status/2099261445662027788)
 
 Fotografía · Retro / Vintage · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de estilo de fotografía vintage Autochrome Lumière de principios del siglo XX.
 
 <img src="images/2099261445662027788-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2628,7 +2628,7 @@ Fotografía · Retro / Vintage · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+[SUBJECT], fotografía a color Autochrome Lumière, delicado grano de mosaico a partir de partículas de fécula de papa teñidas, enfoque suave por el proceso de pantalla, colores luminosos pero tenues, luz natural de ensueño, ligera caída de luz en los bordes, optimismo de principios del siglo XX preservado en cristal, pareciendo menos una fotografía y más un recuerdo que sobrevivió.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3175,20 +3175,20 @@ Magos arcanos en una ciudad celestial
 
 <a name="prompt-2099287503434084358"></a>
 
-### Traducción en curso
+### Proceso de transformación dinámica de un gemólogo sosteniendo un zafiro, con cristales extendiéndose para formar una armadura de piedra y brillando con una luz de estrella de seis puntas.
 
 Autor：[@tappyai007](https://x.com/tappyai007) · [Publicación original](https://x.com/tappyai007/status/2099287503434084358)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Proceso de transformación dinámica de un gemólogo sosteniendo un zafiro, con cristales extendiéndose para formar una armadura de piedra y brillando con una luz de estrella de seis puntas.
 
 <img src="covers/2099287503434084358.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un gemólogo sostiene un zafiro cabujón bajo un reflector. Una estructura cristalina de color azul marino profundo crece sobre su vestimenta, endureciéndose hasta convertirse en una armadura de piedra lisa. Una estrella de luz de seis puntas, brillante y nítida, arde con resplandor en el centro del peto.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3197,20 +3197,21 @@ Traducción en curso
 
 <a name="prompt-2099288178146644421"></a>
 
-### Traducción en curso
+### Mecánica cinética \(El regulador centrífugo\): un ingeniero activa un conjunto de regulador que se expande en un traje mecánico.
 
 Autor：[@tappyai007](https://x.com/tappyai007) · [Publicación original](https://x.com/tappyai007/status/2099288178146644421)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Mecánica cinética \(El regulador centrífugo\): un ingeniero activa un conjunto de regulador que se expande en un traje mecánico.
 
 <img src="covers/2099288178146644421.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Mecánica cinética (El regulador centrífugo)
+Un ingeniero toca el ensamblaje de un regulador de vapor. Bolas volantes giratorias de latón y varillajes de acero se expanden desde el mecanismo, envolviendo sus extremidades. Se transforman en un pesado traje mecánico con reguladores dobles giratorios de latón montados sobre las hombreras.
 ```
 
 [↑ Volver a categorías](#catalog)

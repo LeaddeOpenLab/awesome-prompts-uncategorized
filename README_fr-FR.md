@@ -2609,13 +2609,13 @@ Traduction en cours
 
 <a name="prompt-2099261445662027788"></a>
 
-### Traduction en cours
+### Modèle de style photographique vintage Autochrome Lumière du début du XXe siècle.
 
 Auteur：[@AllaAisling](https://x.com/AllaAisling) · [Publication originale](https://x.com/AllaAisling/status/2099261445662027788)
 
 Photographie · Rétro / Vintage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de style photographique vintage Autochrome Lumière du début du XXe siècle.
 
 <img src="images/2099261445662027788-1.jpg" alt="Image 1" width="480" />
 
@@ -2628,7 +2628,7 @@ Photographie · Rétro / Vintage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+[SUBJECT], photographie couleur Autochrome Lumière, délicat grain mosaïque issu de particules de fécule de pomme de terre teintées, mise au point douce due au procédé de réseau, couleurs lumineuses mais atténuées, lumière naturelle onirique, léger assombrissement des bords, optimisme du début du XXe siècle préservé sous verre, ressemblant moins à une photographie qu'à un souvenir qui a survécu.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3175,20 +3175,20 @@ Magiciens arcaniques dans une cité céleste
 
 <a name="prompt-2099287503434084358"></a>
 
-### Traduction en cours
+### Processus de transformation dynamique d'un gemmologue tenant un saphir, des cristaux s'étendant pour former une armure de pierre et brillant d'une lumière d'étoile à six branches.
 
 Auteur：[@tappyai007](https://x.com/tappyai007) · [Publication originale](https://x.com/tappyai007/status/2099287503434084358)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Processus de transformation dynamique d'un gemmologue tenant un saphir, des cristaux s'étendant pour former une armure de pierre et brillant d'une lumière d'étoile à six branches.
 
 <img src="covers/2099287503434084358.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un gemmologue tient un saphir cabochon sous un projecteur. Une structure cristalline bleu marine profond se développe sur ses vêtements, durcissant en une armure de pierre lisse. Une étoile de lumière vive et acérée à six branches brille avec éclat au centre du plastron.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3197,20 +3197,21 @@ Traduction en cours
 
 <a name="prompt-2099288178146644421"></a>
 
-### Traduction en cours
+### Mécanique Cinétique \(Le Régulateur Centrifuge\) : Un ingénieur active un ensemble régulateur qui se déploie en une armure mécanique.
 
 Auteur：[@tappyai007](https://x.com/tappyai007) · [Publication originale](https://x.com/tappyai007/status/2099288178146644421)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Mécanique Cinétique \(Le Régulateur Centrifuge\) : Un ingénieur active un ensemble régulateur qui se déploie en une armure mécanique.
 
 <img src="covers/2099288178146644421.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Mécanique Cinétique (Le Régulateur Centrifuge)
+Un ingénieur touche un ensemble de régulateur à vapeur. Des masselottes rotatives en laiton et des tringleries en acier se déploient depuis le mécanisme, s'enroulant autour de ses membres. Ils se transforment en une lourde armure mécanique dotée de deux régulateurs rotatifs en laiton montés sur les épaulettes.
 ```
 
 [↑ Retour aux catégories](#catalog)

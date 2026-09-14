@@ -2609,13 +2609,13 @@ Illustration · 3D-Rendering · Aquarell · Charakter · Veröffentlicht
 
 <a name="prompt-2099261445662027788"></a>
 
-### Übersetzung läuft
+### Autochrome-Lumière-Vorlage im Vintage-Fotostil des frühen 20. Jahrhunderts.
 
 Autor：[@AllaAisling](https://x.com/AllaAisling) · [Originalbeitrag](https://x.com/AllaAisling/status/2099261445662027788)
 
 Fotografie · Retro / Vintage · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Autochrome-Lumière-Vorlage im Vintage-Fotostil des frühen 20. Jahrhunderts.
 
 <img src="images/2099261445662027788-1.jpg" alt="Bild 1" width="480" />
 
@@ -2628,7 +2628,7 @@ Fotografie · Retro / Vintage · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+[SUBJECT], Autochrome-Lumière-Farbfotografie, feine Mosaikkörnung aus gefärbten Kartoffelstärkepartikeln, weicher Fokus durch das Rasterverfahren, leuchtende, aber gedämpfte Farben, traumhaftes natürliches Licht, leichter Randlichtabfall, der Optimismus des frühen 20. Jahrhunderts in Glas konserviert, weniger wie eine Fotografie und mehr wie eine überlebte Erinnerung wirkend.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3175,20 +3175,20 @@ Arkane Zauberer in einer Himmelsstadt
 
 <a name="prompt-2099287503434084358"></a>
 
-### Übersetzung läuft
+### Dynamischer Verwandlungsprozess eines Gemmologen, der einen Saphir hält, während Kristalle wachsen, um eine Steinrüstung zu bilden, und ein sechsstrahliger Stern aufleuchtet.
 
 Autor：[@tappyai007](https://x.com/tappyai007) · [Originalbeitrag](https://x.com/tappyai007/status/2099287503434084358)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Dynamischer Verwandlungsprozess eines Gemmologen, der einen Saphir hält, während Kristalle wachsen, um eine Steinrüstung zu bilden, und ein sechsstrahliger Stern aufleuchtet.
 
 <img src="covers/2099287503434084358.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein Gemmologe hält einen Cabochon-Saphir unter einem Scheinwerfer. Eine tief marineblaue Kristallstruktur breitet sich über seiner Kleidung aus und erstarrt zu einer glatten Steinrüstung. Ein heller, scharfer sechsstrahliger Lichtstern brennt brillant in der Mitte des Brustpanzers.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3197,20 +3197,21 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2099288178146644421"></a>
 
-### Übersetzung läuft
+### Kinetische Mechanik \(Der Fliehkraftregler\): Ein Ingenieur aktiviert eine Reglerbaugruppe, die sich zu einem mechanischen Anzug ausdehnt.
 
 Autor：[@tappyai007](https://x.com/tappyai007) · [Originalbeitrag](https://x.com/tappyai007/status/2099288178146644421)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Kinetische Mechanik \(Der Fliehkraftregler\): Ein Ingenieur aktiviert eine Reglerbaugruppe, die sich zu einem mechanischen Anzug ausdehnt.
 
 <img src="covers/2099288178146644421.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Kinetische Mechanik (Der Fliehkraftregler)
+Ein Ingenieur berührt eine Dampfregler-Baugruppe. Rotierende Messing-Fliehkugeln und Stahlgestänge dehnen sich aus dem Mechanismus aus und wickeln sich um seine Gliedmaßen. Sie verwandeln sich in einen schweren mechanischen Anzug mit zwei rotierenden Messingreglern, die auf den Schulterstücken montiert sind.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

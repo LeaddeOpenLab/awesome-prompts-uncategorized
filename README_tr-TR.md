@@ -2626,13 +2626,13 @@ Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](htt
 
 <a name="prompt-2099261445662027788"></a>
 
-### Çeviri sürüyor
+### Autochrome Lumière 20. yüzyıl başı nostaljik fotoğraf stili şablonu.
 
 Yazar：[@AllaAisling](https://x.com/AllaAisling) · [Orijinal gönderi](https://x.com/AllaAisling/status/2099261445662027788)
 
 Fotoğrafçılık · Retro / Vintage · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Autochrome Lumière 20. yüzyıl başı nostaljik fotoğraf stili şablonu.
 
 <img src="images/2099261445662027788-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2645,7 +2645,7 @@ Fotoğrafçılık · Retro / Vintage · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+[SUBJECT], Autochrome Lumière renkli fotoğraf, boyanmış patates nişastası parçacıklarından oluşan narin mozaik gren, ızgara işleminden kaynaklanan yumuşak odak, parlak ancak soluk renkler, rüya gibi doğal ışık, hafif kenar kararması, camda korunmuş 20. yüzyıl başı iyimserliği, bir fotoğraftan ziyade hayatta kalmış bir anıyı andıran görünüm.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3192,20 +3192,20 @@ Göksel Bir Şehirde Gizemli Büyücüler
 
 <a name="prompt-2099287503434084358"></a>
 
-### Çeviri sürüyor
+### Bir gemoloğun safir tuttuğu, kristallerin yayılarak taş zırh oluşturduğu ve altı köşeli yıldız ışığıyla parıldadığı dinamik dönüşüm süreci.
 
 Yazar：[@tappyai007](https://x.com/tappyai007) · [Orijinal gönderi](https://x.com/tappyai007/status/2099287503434084358)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir gemoloğun safir tuttuğu, kristallerin yayılarak taş zırh oluşturduğu ve altı köşeli yıldız ışığıyla parıldadığı dinamik dönüşüm süreci.
 
 <img src="covers/2099287503434084358.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir gemolog, spot ışığı altında kabaşon kesim bir safir tutuyor. Koyu lacivert bir kristal yapı kıyafetlerinin üzerinde büyüyerek pürüzsüz bir taş zırha dönüşüyor. Göğüs plakasının merkezinde parlak ve keskin, altı kollu bir ışık yıldızı göz alıcı bir şekilde parıldıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3214,20 +3214,21 @@ Diğer · Yayımlandı
 
 <a name="prompt-2099288178146644421"></a>
 
-### Çeviri sürüyor
+### Kinetik Mekanik \(Santrifüj Regülatör\): Bir mühendis, mekanik bir elbiseye dönüşerek genişleyen bir regülatör tertibatını etkinleştirir.
 
 Yazar：[@tappyai007](https://x.com/tappyai007) · [Orijinal gönderi](https://x.com/tappyai007/status/2099288178146644421)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kinetik Mekanik \(Santrifüj Regülatör\): Bir mühendis, mekanik bir elbiseye dönüşerek genişleyen bir regülatör tertibatını etkinleştirir.
 
 <img src="covers/2099288178146644421.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kinetik Mekanik (Santrifüj Regülatör)
+Bir mühendis buhar regülatörü tertibatına dokunur. Dönen pirinç ağırlık topları ve çelik bağlantılar mekanizmadan genişleyerek uzuvlarını sarar. Omuzluklarına monte edilmiş ikili dönen pirinç regülatörlere sahip ağır mekanik bir elbiseye dönüşürler.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -2609,13 +2609,13 @@ Traduzione in corso
 
 <a name="prompt-2099261445662027788"></a>
 
-### Traduzione in corso
+### Modello in stile fotografia vintage Autochrome Lumière dei primi del Novecento.
 
 Autore：[@AllaAisling](https://x.com/AllaAisling) · [Post originale](https://x.com/AllaAisling/status/2099261445662027788)
 
 Fotografia · Retro / Vintage · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello in stile fotografia vintage Autochrome Lumière dei primi del Novecento.
 
 <img src="images/2099261445662027788-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2628,7 +2628,7 @@ Fotografia · Retro / Vintage · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+[SUBJECT], fotografia a colori Autochrome Lumière, delicata grana a mosaico da particelle di fecola di patate tinte, messa a fuoco morbida dovuta al processo a retino, colori luminosi ma tenui, luce naturale da sogno, leggera caduta di luce ai bordi, ottimismo dei primi del Novecento custodito nel vetro, apparendo meno come una fotografia e più come un ricordo sopravvissuto al tempo.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3175,20 +3175,20 @@ Maghi arcani in una città celeste
 
 <a name="prompt-2099287503434084358"></a>
 
-### Traduzione in corso
+### Processo di trasformazione dinamica di un gemmologo che tiene uno zaffiro, con cristalli che si espandono a formare un'armatura di pietra e una luce a stella a sei punte che brilla.
 
 Autore：[@tappyai007](https://x.com/tappyai007) · [Post originale](https://x.com/tappyai007/status/2099287503434084358)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Processo di trasformazione dinamica di un gemmologo che tiene uno zaffiro, con cristalli che si espandono a formare un'armatura di pietra e una luce a stella a sei punte che brilla.
 
 <img src="covers/2099287503434084358.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un gemmologo tiene un zaffiro a cabochon sotto un riflettore. Una struttura cristallina blu navy profondo cresce sul suo abbigliamento, indurendosi in un'armatura di pietra liscia. Una stella di luce a sei punte, luminosa e nitida, arde brillantemente al centro della corazza.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3197,20 +3197,21 @@ Traduzione in corso
 
 <a name="prompt-2099288178146644421"></a>
 
-### Traduzione in corso
+### Meccanica cinetica \(Il regolatore centrifugo\): un ingegnere attiva il gruppo di un regolatore che si espande in una tuta meccanica.
 
 Autore：[@tappyai007](https://x.com/tappyai007) · [Post originale](https://x.com/tappyai007/status/2099288178146644421)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Meccanica cinetica \(Il regolatore centrifugo\): un ingegnere attiva il gruppo di un regolatore che si espande in una tuta meccanica.
 
 <img src="covers/2099288178146644421.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Meccanica cinetica (Il regolatore centrifugo)
+Un ingegnere tocca il gruppo di un regolatore di vapore. Sfere rotanti in ottone e leveraggi in acciaio si espandono dal meccanismo, avvolgendosi attorno ai suoi arti. Si trasformano in una pesante tuta meccanica con doppi regolatori rotanti in ottone montati sugli spallacci.
 ```
 
 [↑ Torna alle categorie](#catalog)
