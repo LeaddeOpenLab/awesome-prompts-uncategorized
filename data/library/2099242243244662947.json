@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T00:22:21.516Z",
+  "model": "grok",
+  "prompt": "Arcane Wizards in a Celestial City",
+  "promptTranslations": {
+    "en": "Arcane Wizards in a Celestial City"
+  },
+  "summaryTranslations": {
+    "en": "Arcane wizards overlooking an ornate celestial city among clouds and cosmic bodies."
+  },
+  "translationVersion": 2,
+  "summary": "Arcane wizards overlooking an ornate celestial city among clouds and cosmic bodies.",
+  "summaryEn": "Arcane wizards overlooking an ornate celestial city among clouds and cosmic bodies.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099242243244662947",
+    "canonicalUrl": "https://x.com/TheEerieHollows/status/2099242243244662947",
+    "author": {
+      "username": "TheEerieHollows",
+      "displayName": "Myst(eerie)0us Vincent Malarkey",
+      "profileUrl": "https://x.com/TheEerieHollows"
+    },
+    "publishedAt": "2026-09-13T21:02:07.000Z",
+    "collectedAt": "2026-09-14T00:15:58.648Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nArcane Wizards in a Celestial City https://t.co/H1jV2HOTW4",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSIBsEDasAASCXd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSIBsEDasAASCXd.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 24
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TheEerieHollows/status/2099242243244662947",
+  "coverUrl": "https://pbs.twimg.com/media/HSIBsEDasAASCXd.jpg",
+  "coverPath": "images/2099242243244662947-1.jpg",
+  "imagePaths": [
+    "images/2099242243244662947-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSIBsEDasAASCXd",
+    "x-post:2099242243244662947"
+  ],
+  "analysis": {
+    "summary": "Arcane wizards overlooking an ornate celestial city among clouds and cosmic bodies.",
+    "summaryEn": "Arcane wizards overlooking an ornate celestial city among clouds and cosmic bodies.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image accurately shows robed wizards holding staves overlooking a majestic celestial spire city in the clouds."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Arcane Wizards in a Celestial City",
+    "sourceRange": {
+      "start": 22,
+      "end": 56
+    },
+    "translations": {
+      "zh": "天体之城中的奥术巫师",
+      "en": "Arcane Wizards in a Celestial City"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept-art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
