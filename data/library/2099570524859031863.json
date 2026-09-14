@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T20:18:06.015Z",
+  "model": "grok",
+  "prompt": "この画像はコミケ会場のカメラロールです。左上から右下へ1枚ずつ必ず動画化してハードカットで繋ぎ、同じ紫鎧のレイヤーさんの縦型Vlogにして。顔・髪型・鎧は各コマを厳守。スマホ手持ち風。BGMなし。会場の喧騒とシャッター音だけ",
+  "promptTranslations": {
+    "en": "This image is a camera roll from the Comiket venue. Animate each photo one by one from top-left to bottom-right, connect them with hard cuts, and turn it into a vertical vlog of the same cosplayer in purple armor. Strictly adhere to the face, hairstyle, and armor of each frame. Smartphone handheld style. No BGM. Only the venue bustle and shutter sounds."
+  },
+  "summaryTranslations": {
+    "en": "Based on the reference image containing a nine-grid photo collage, frame-by-frame splice photos of the Comiket cosplayer wearing purple armor to generate a handheld, realistic vertical vlog."
+  },
+  "translationVersion": 2,
+  "summary": "基于包含九宫格照片的参考图，将穿紫铠的Comiket角色扮演者照片逐格拼接生成手持真实感竖屏Vlog。",
+  "summaryEn": "Animates a 9-frame Comiket cosplayer photo sheet sequentially into a realistic handheld vertical vlog.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099555625672089802",
+      "canonicalUrl": "https://x.com/minami_gunma/status/2099555625672089802",
+      "author": {
+        "username": "minami_gunma",
+        "displayName": "minami_gunma",
+        "profileUrl": "https://x.com/minami_gunma"
+      },
+      "originalText": "流行りを真似てGemini君に\nコミケのレイヤーさんを生成してもらった。\n左は素人、右はプロと指定して生成した。\nコミケ感は左があるね。 https://t.co/FUGksBxOOT"
+    },
+    "id": "2099570524859031863",
+    "canonicalUrl": "https://x.com/minami_gunma/status/2099570524859031863",
+    "author": {
+      "username": "minami_gunma",
+      "displayName": "minami_gunma",
+      "profileUrl": "https://x.com/minami_gunma"
+    },
+    "publishedAt": "2026-09-14T18:46:35.000Z",
+    "collectedAt": "2026-09-14T20:16:41.527Z",
+    "language": "ja",
+    "originalText": "左の画像1枚を使い\n｢この画像はコミケ会場のカメラロールです。左上から右下へ1枚ずつ必ず動画化してハードカットで繋ぎ、同じ紫鎧のレイヤーさんの縦型Vlogにして。顔・髪型・鎧は各コマを厳守。スマホ手持ち風。BGMなし。会場の喧騒とシャッター音だけ｣\nコレをベースにGrokにPrompt書いてもらった https://t.co/Xyp4yHViGb",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/minami_gunma/status/2099570524859031863",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099569782383390720/img/0WLe7qMpfzWCztva.jpg",
+        "analysisUrl": "https://x.com/minami_gunma/status/2099570524859031863"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSMbfQTbUAAbh0f.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSMbfQTbUAAbh0f.jpg",
+        "sourcePostId": "2099555625672089802"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSMdXRvbgAAgx9S.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSMdXRvbgAAgx9S.jpg",
+        "sourcePostId": "2099555625672089802"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 83
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/minami_gunma/status/2099570524859031863",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099569782383390720/img/0WLe7qMpfzWCztva.jpg",
+  "coverPath": "covers/2099570524859031863.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099569782383390720",
+    "x-image:/media/HSMbfQTbUAAbh0f",
+    "x-image:/media/HSMdXRvbgAAgx9S",
+    "x-post:2099570524859031863",
+    "x-post:2099555625672089802"
+  ],
+  "analysis": {
+    "summary": "基于包含九宫格照片的参考图，将穿紫铠的Comiket角色扮演者照片逐格拼接生成手持真实感竖屏Vlog。",
+    "summaryEn": "Animates a 9-frame Comiket cosplayer photo sheet sequentially into a realistic handheld vertical vlog.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频内容完美按照九宫格中各格顺次动作、机位、姿态呈现，保留了紫色铠甲女子、Comiket会场环境以及手持感和快门声。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "この画像はコミケ会場のカメラロールです。左上から右下へ1枚ずつ必ず動画化してハードカットで繋ぎ、同じ紫鎧のレイヤーさんの縦型Vlogにして。顔・髪型・鎧は各コマを厳守。スマホ手持ち風。BGMなし。会場の喧騒とシャッター音だけ",
+    "sourceRange": {
+      "start": 11,
+      "end": 123
+    },
+    "translations": {
+      "zh": "这张图片是Comiket展会现场的相机相册。请从左上到右下逐一制作成视频，用硬切方式拼接，制作成同一位穿紫色铠甲coser的竖屏Vlog。严格保持各画面的面部、发型和铠甲一致。手机手持视角风。无BGM，只有现场的喧闹声和快门声。",
+      "en": "This image is a camera roll from Comiket. Animate each frame strictly from top-left to bottom-right, joining them with hard cuts into a vertical vlog of the same cosplayer in purple armor. Strict consistency for face, hairstyle, and armor. Handheld smartphone style. No BGM, only ambient crowd noise and shutter sounds."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "image-to-video",
+    "useCase": "把包含多个机位/瞬间的照片网格序列逐格转化为手持短视频拼接Vlog",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
