@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**177** Prompts · Latest addition: **2026-09-14**
+**178** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1684,6 +1684,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099260377049768153"></a>
+
+### Cinematic portrait of a male subject standing behind a rain-streaked glass window with low-key teal and amber lighting.
+
+Author：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Source](https://x.com/HumanBeing34061/status/2099260377049768153)
+
+Cinematic / Film Still · Portrait / Selfie · Published
+
+**Summary:** Cinematic portrait of a male subject standing behind a rain-streaked glass window with low-key teal and amber lighting.
+
+<img src="images/2099260377049768153-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-photorealistic cinematic portrait of an adult male standing behind a rain-covered glass window, framed in a vertical 4:5 composition. He is positioned centrally and looking directly into the camera with an intense, mysterious, confident expression. His face is the primary focal point, with strong but natural masculine facial structure, defined jawline, cheekbones, nose and lips, realistic skin texture, visible pores, subtle imperfections, and natural facial details.\nHe has medium-to-long messy dark brown/black hair, naturally tousled and slightly wet, with loose strands falling organically across his forehead and partially over his eyes. His hair should look naturally textured rather than perfectly styled. His eyes are sharp and expressive with realistic catchlights and reflections from the surrounding environment.\nGive him a naturally masculine appearance with subtle stubble or a neatly grown short-to-medium beard, maintaining realistic facial hair texture. Do not over-sharpen or beautify his features.\nHe is wearing a dark oversized textured jacket or black wool coat, creating a mysterious silhouette around his shoulders and neck. One hand is gently pressed against the wet glass on the left side of the frame, with anatomically realistic fingers and natural skin texture.\nThe camera is positioned outside the rain-covered window, with water droplets, condensation, streaks, tiny glass imperfections, and blurred reflections across the foreground. The glass creates realistic depth, refraction, and subtle distortion while keeping his eyes and central facial features extremely sharp and detailed.\nBehind him is a dark atmospheric environment during blue hour/night, illuminated by a soft warm golden-orange light in the background. Create a strong contrast between deep teal-blue shadows and warm amber backlight. A subtle warm rim light outlines his hair and shoulders.\nLighting: dramatic cinematic low-key lighting, soft warm backlight, subtle facial illumination, deep natural shadows, realistic skin highlights, volumetric atmosphere, soft reflections through wet glass.\nPhotography: professional full-frame cinematic photography, 85mm portrait lens, f/1.4–f/1.8, extremely shallow depth of field, sharp eyes, realistic bokeh, natural optical falloff, high dynamic range, subtle analog film grain.\nComposition: vertical 4:5 portrait, male subject centered behind the glass, face occupying the upper-middle portion of the frame, hand visible near the left edge, dark negative space surrounding him, layered rain droplets and reflections creating cinematic depth.\nMood: mysterious, masculine, melancholic, intense, dark romantic, sophisticated, haunting, emotionally powerful, cinematic editorial photography.\nQuality: ultra-photorealistic, lifelike skin, realistic wet hair and beard, physically accurate glass reflections and refraction, realistic water droplets, natural anatomy, cinematic teal-and-amber color grading, subtle film grain, HDR, high resolution, no plastic skin, no artificial beauty filter, no CGI appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099234788859105541"></a>
 

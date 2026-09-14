@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**177** Prompt · Son eklenen: **2026-09-14**
+**178** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1232,6 +1232,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2099260377049768153"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Orijinal gönderi](https://x.com/HumanBeing34061/status/2099260377049768153)
+
+Sinematik / Film Karesi · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099260377049768153-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099234788859105541"></a>
 

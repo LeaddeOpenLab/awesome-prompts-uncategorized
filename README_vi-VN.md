@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**177** Prompt · Bổ sung mới nhất: **2026-09-14**
+**178** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1254,6 +1254,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2099260377049768153"></a>
+
+### Đang dịch
+
+Tác giả：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Bài gốc](https://x.com/HumanBeing34061/status/2099260377049768153)
+
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099260377049768153-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099234788859105541"></a>
 
