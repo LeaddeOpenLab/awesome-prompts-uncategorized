@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T00:19:40.506Z",
+  "model": "grok",
+  "prompt": "アニメスタイルで、軍服姿の女性で、軍服は深い緑が基調で、髪は短髪でピンクで、大きめのメガネかけてて、酒場で大きなビールジョッキで飲んでる様子",
+  "promptTranslations": {
+    "en": "In anime style, a woman in a military uniform, with the military uniform predominantly deep green, short pink hair, wearing oversized glasses, drinking from a large beer mug in a tavern"
+  },
+  "summaryTranslations": {
+    "en": "An anime woman in a deep green military uniform, pink hair, and glasses drinking beer in a tavern."
+  },
+  "translationVersion": 2,
+  "summary": "酒場でビールを飲む深緑の軍服・ピンク髪・眼鏡のアニメ女性。",
+  "summaryEn": "Anime woman with short pink hair, glasses, and green military uniform drinking beer in a tavern.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099256180845731868",
+    "canonicalUrl": "https://x.com/ux6ovv/status/2099256180845731868",
+    "author": {
+      "username": "ux6ovv",
+      "displayName": "オッさん兵卒",
+      "profileUrl": "https://x.com/ux6ovv"
+    },
+    "publishedAt": "2026-09-13T21:57:30.000Z",
+    "collectedAt": "2026-09-14T00:15:58.648Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\nアニメスタイルで、軍服姿の女性で、軍服は深い緑が基調で、髪は短髪でピンクで、大きめのメガネかけてて、酒場で大きなビールジョッキで飲んでる様子 https://t.co/WYIBCzKpwp",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ux6ovv/status/2099256180845731868",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099256148218228736/img/sh7gBl3rbojjGkUm.jpg",
+        "analysisUrl": "https://x.com/ux6ovv/status/2099256180845731868"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 272
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ux6ovv/status/2099256180845731868",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099256148218228736/img/sh7gBl3rbojjGkUm.jpg",
+  "coverPath": "covers/2099256180845731868.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099256148218228736",
+    "x-post:2099256180845731868"
+  ],
+  "analysis": {
+    "summary": "酒場でビールを飲む深緑の軍服・ピンク髪・眼鏡のアニメ女性。",
+    "summaryEn": "Anime woman with short pink hair, glasses, and green military uniform drinking beer in a tavern.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频中的粉发大眼镜军装女性在酒吧喝酒，与提示词特征完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "アニメスタイルで、軍服姿の女性で、軍服は深い緑が基調で、髪は短髪でピンクで、大きめのメガネかけてて、酒場で大きなビールジョッキで飲んでる様子",
+    "sourceRange": {
+      "start": 22,
+      "end": 92
+    },
+    "translations": {
+      "zh": "动漫风格，身穿深绿色主调军装的短发粉发女性，戴着大眼镜，在酒馆里用大啤酒杯喝酒的模样",
+      "en": "Anime style, a woman in a deep green military uniform, short pink hair, wearing large glasses, drinking from a large beer mug in a tavern"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "动漫角色场景生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
