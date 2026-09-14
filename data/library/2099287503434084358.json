@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T00:21:08.661Z",
+  "model": "pixverse",
+  "prompt": "A gemologist holds a cabochon sapphire under a spotlight. A deep navy-blue crystal structure grows over their attire, hardening into smooth stone armor. A bright, sharp six-rayed star of light burns brilliantly across the center of the chest plate.",
+  "promptTranslations": {
+    "en": "A gemologist holds a cabochon sapphire under a spotlight. A deep navy-blue crystal structure grows over their attire, hardening into smooth stone armor. A bright, sharp six-rayed star of light burns brilliantly across the center of the chest plate."
+  },
+  "summaryTranslations": {
+    "en": "A dynamic transformation process where a gemologist holds a sapphire, crystals spread to form stone armor, and a six-rayed star shines brilliantly."
+  },
+  "translationVersion": 2,
+  "summary": "宝石学家手持蓝宝石，水晶蔓延形成石甲并闪耀六芒星光芒的动态转变过程。",
+  "summaryEn": "A gemologist holding a sapphire transforms as crystal armor grows with a glowing six-rayed star.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099287503434084358",
+    "canonicalUrl": "https://x.com/tappyai007/status/2099287503434084358",
+    "author": {
+      "username": "tappyai007",
+      "displayName": "Tappy",
+      "profileUrl": "https://x.com/tappyai007"
+    },
+    "publishedAt": "2026-09-14T00:01:58.000Z",
+    "collectedAt": "2026-09-14T00:15:58.648Z",
+    "language": "en",
+    "originalText": "#PromptShare (QT/ RT) :\nI'm interested to see the effect on different portraits in different AI models. No pressure!\n\nPrompt below 👇 \n\nRare Gemology (The Black Star Sapphire)\nA gemologist holds a cabochon sapphire under a spotlight. A deep navy-blue crystal structure grows over their attire, hardening into smooth stone armor. A bright, sharp six-rayed star of light burns brilliantly across the center of the chest plate.\n\n#TappysAIPrompt #pixverse",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/tappyai007/status/2099287503434084358",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099287488233865216/img/PRj3kOBxHl2zfMNR.jpg",
+        "analysisUrl": "https://x.com/tappyai007/status/2099287503434084358"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 25
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/tappyai007/status/2099287503434084358",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099287488233865216/img/PRj3kOBxHl2zfMNR.jpg",
+  "coverPath": "covers/2099287503434084358.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099287488233865216",
+    "x-post:2099287503434084358"
+  ],
+  "analysis": {
+    "summary": "宝石学家手持蓝宝石，水晶蔓延形成石甲并闪耀六芒星光芒的动态转变过程。",
+    "summaryEn": "A gemologist holding a sapphire transforms as crystal armor grows with a glowing six-rayed star.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a scientist holding a blue gem that crystallizes into armor with a radiant star on the chest plate, matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A gemologist holds a cabochon sapphire under a spotlight. A deep navy-blue crystal structure grows over their attire, hardening into smooth stone armor. A bright, sharp six-rayed star of light burns brilliantly across the center of the chest plate.",
+    "sourceRange": {
+      "start": 175,
+      "end": 423
+    },
+    "translations": {
+      "zh": "宝石学家在聚光灯下手持一颗凸面蓝宝石。深海军蓝水晶结构在其衣服上蔓延硬化成石甲，胸甲中心闪耀着明亮锐利的六芒星光芒。",
+      "en": "A gemologist holds a cabochon sapphire under a spotlight. A deep navy-blue crystal structure grows over their attire, hardening into smooth stone armor. A bright, sharp six-rayed star of light burns brilliantly across the center of the chest plate."
+    },
+    "targetModels": [
+      "pixverse"
+    ],
+    "category": "image-to-video",
+    "useCase": "fantasy transformation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
