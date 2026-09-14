@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**189** Prompts · Latest addition: **2026-09-14**
+**190** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2012,6 +2012,176 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099332324538093913"></a>
+
+### A comprehensive prompt for generating vertical cinematic director-style portraits using reference images for pose, lighting, and chair while locking subject facial identity.
+
+Author：[@meAsifAi](https://x.com/meAsifAi) · [Source](https://x.com/meAsifAi/status/2099332324538093913)
+
+Cinematic / Film Still · Portrait / Selfie · Published
+
+**Summary:** A comprehensive prompt for generating vertical cinematic director-style portraits using reference images for pose, lighting, and chair while locking subject facial identity.
+
+<img src="images/2099332324538093913-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099332324538093913-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099332324538093913-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+MASTER PROMPT — REFERENCE-BASED CINEMATIC DIRECTOR PORTRAIT
+
+REFERENCE IMAGE IS MANDATORY.
+
+Use the uploaded reference image as the PRIMARY VISUAL REFERENCE for the entire composition, framing, camera angle, subject placement, pose, chair design, lighting setup, background atmosphere, shadows, smoke, depth, color grading, cinematic mood, and overall visual aesthetic.
+
+Use the user's uploaded personal image as the PRIMARY IDENTITY REFERENCE for the subject.
+
+The uploaded subject can be ANY PERSON — male or female. Preserve the person's exact recognizable identity from the uploaded personal image, including facial structure, eyes, nose, lips, jawline, skin tone, hairline, hairstyle, age appearance, and natural facial characteristics. Do NOT replace, redesign, beautify, masculinize, feminize, or alter the person's identity.
+
+TRANSFORM THE SUBJECT INTO THE SAME CINEMATIC PORTRAIT SETUP AS THE REFERENCE IMAGE.
+
+COMPOSITION:
+Create a dramatic vertical cinematic portrait with the subject seated confidently in a professional black director's chair at the center of the frame.
+
+Match the reference composition closely:
+- Full seated body composition
+- Subject positioned centrally
+- Camera placed approximately at eye/chest level with a slightly cinematic perspective
+- Legs naturally crossed or positioned in a confident relaxed seated pose matching the reference
+- One arm resting naturally on the chair armrest
+- The other hand positioned naturally near the face/head in a thoughtful, confident editorial pose
+- Relaxed but powerful body language
+- Strong symmetrical visual balance
+- Generous dark negative space surrounding the subject
+- Keep the subject as the dominant focal point
+
+CHAIR:
+Use a premium black director-style folding chair with realistic structural details, dark fabric, armrests, crossed support frame, and physically accurate proportions.
+
+LIGHTING:
+Recreate the dramatic studio lighting from the reference.
+
+A strong, narrow overhead spotlight should illuminate the subject from above, creating a visible cone of light against the dark environment.
+
+The light should produce:
+- Cinematic highlights on the face
+- Natural shadows across the body
+- Subtle rim lighting around the silhouette
+- Realistic falloff
+- Deep but detailed shadows
+- Strong subject separation from the background
+
+BACKGROUND:
+Create an almost completely dark cinematic studio environment with a deep black/blue-black background.
+
+Add subtle atmospheric smoke or haze rising behind and above the subject. The smoke should interact naturally with the overhead spotlight, creating visible volumetric light rays.
+
+The background must remain minimal, dark, elegant, and distraction-free.
+
+WARDROBE:
+Adapt the wardrobe naturally to the uploaded person's gender, appearance, and overall aesthetic while maintaining the same premium cinematic feeling as the reference.
+
+The outfit should look sophisticated, realistic, stylish, and editorial.
+
+Do NOT blindly copy the exact clothing from the reference if it does not naturally suit the uploaded subject. Instead, preserve the reference's overall styling language: dark, sophisticated, masculine/feminine-neutral cinematic fashion, premium textures, realistic materials, and understated luxury.
+
+POSE & EXPRESSION:
+Maintain the confident, calm, composed attitude of the reference.
+
+The person's facial expression should feel natural, serious, sophisticated, and self-assured.
+
+Do not force an exaggerated smile or dramatic expression.
+
+Preserve the person's natural facial proportions and recognizable identity.
+
+CAMERA & LENS:
+Professional cinematic photography look.
+Full-frame camera aesthetic.
+Approximately 50mm–85mm portrait lens.
+Natural perspective.
+Moderate shallow depth of field.
+Subject sharply focused.
+Background gradually falling into darkness and soft atmospheric depth.
+
+REALISM:
+Ultra-photorealistic human anatomy.
+Natural skin texture.
+Visible but subtle skin pores.
+Realistic facial details.
+Natural hair strands.
+Physically accurate clothing folds.
+Realistic leather/fabric/material response.
+Natural hands and fingers.
+Correct body proportions.
+Realistic chair geometry.
+Natural contact shadows between body, clothing, chair, and floor.
+
+CINEMATIC COLOR GRADING:
+Dark premium cinematic color palette.
+Deep blacks.
+Cool blue-black shadows.
+Subtle warm highlights on skin and clothing.
+High dynamic range.
+Rich contrast.
+Controlled highlights.
+Professional theatrical color grading.
+Luxury editorial photography aesthetic.
+
+ATMOSPHERE:
+The final image should feel like a high-budget cinematic character poster or premium Netflix-style editorial portrait photographed inside a professional film studio.
+
+The image must feel sophisticated, powerful, mysterious, dramatic, and expensive — NOT like an ordinary studio photograph.
+
+IDENTITY LOCK:
+The uploaded personal image is the ONLY source of truth for the subject's identity.
+
+Do not change the person's face.
+Do not generate a different person.
+Do not merge facial features with the reference image.
+Do not copy the reference person's identity.
+Use the reference image ONLY for composition, pose, environment, lighting, camera treatment, atmosphere, and visual style.
+
+The final subject must clearly remain the same person from the uploaded personal image.
+
+QUALITY:
+Ultra-realistic.
+Photorealistic.
+Cinematic photography.
+8K detail.
+High-resolution.
+Professional skin rendering.
+Natural micro-details.
+Realistic volumetric lighting.
+Realistic smoke.
+Accurate shadows.
+Clean edges.
+No artificial AI appearance.
+No plastic skin.
+No waxy face.
+No CGI look.
+No distorted anatomy.
+No extra fingers.
+No malformed hands.
+No duplicated limbs.
+No facial artifacts.
+No unnatural eyes.
+No warped clothing.
+No floating objects.
+No excessive sharpening.
+
+FINAL OUTPUT:
+A premium vertical cinematic portrait matching the uploaded reference image's visual language as closely as possible while using the uploaded personal image as the exact identity reference.
+
+The result should look like a real professional cinematic photograph captured on a high-end camera, not an AI-generated image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099321585345958267"></a>
 
