@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T04:19:09.477Z",
+  "model": "unknown-image",
+  "prompt": "超写实室内 Cosplay 人像摄影，竖版约 4:5，一名明确成年的东亚女性，20+，跪在白色皮质沙发上，身体以明显侧身姿态面向画面左侧，上半身向前倾，双手撑在沙发靠背顶部，臀胯向后抬起，双膝跪在坐垫上，小腿向后折叠。摄影者位于人物左前方约 1.5–2 米，采用 35–50mm 等效镜头，机位接近腰胯高度，完整保留头部、躯干、臀腿和高跟鞋，侧面 S 型曲线清楚。\n\n人物为中小骨架、自然沙漏型身材，肩膀偏窄，腰部明显纤细，髋部和臀部自然丰满，大腿有柔软真实体积，小腿修长。不要健美肌肉、极端纸片身材或夸张巨臀。\n\n人物留乌黑色超长直发，长度到腰臀附近，额前为薄碎齐刘海，两侧长发贴着脸颊自然垂落。佩戴细框透明眼镜，双眼从镜片后看向镜头，头部轻微后仰，表情冷淡、慵懒，嘴唇自然微张。头戴一对非常醒目的黑色亮面兔耳发箍，耳朵细长直立，其中一只略微向外倾斜。\n\n上身穿一件深宝蓝 / 靛蓝色半透明薄纱长袖上衣，面料轻薄、透感明显但保持正常覆盖，领口高而贴颈，袖子宽松、袖口收紧，肩部和手臂处有自然褶皱。上衣背部和侧面带明显开口设计，露出腰背和侧腰皮肤。\n\n下身穿深紫蓝色高腰紧身短裤 / 连体式舞台短装，腰部贴合，侧腰与大腿根附近带小型镂空和细黑色系带装饰，臀部轮廓自然清楚但保持完整覆盖。整体配色以深蓝紫、黑色和肤色为主。\n\n双腿穿黑色半透明过膝长袜 / thigh-high stockings，袜口位于大腿中上部，宽黑边，袜身约 20–30D，能透出自然肤色。脚穿黑色亮面细高跟鞋，鞋头偏尖或微方，鞋跟约 9–11cm，跪姿下鞋底和鞋跟朝向画面右侧。\n\n场景为现代极简白色客厅。人物跪在大面积白色皮质沙发上，坐垫和靠背柔软、有轻微压痕。背景右侧是一整面白色嵌入式展示架，摆有黑白摄影作品、浅色相框、绿色盆栽、粉色透明玻璃瓶和少量装饰摆件。左上墙面挂一幅较大的复古黑白画作，银灰色画框。空间主色为白色和浅灰色，干净、明亮、现代。\n\n光线采用柔和自然窗光＋室内白色环境光，人物皮肤明亮偏冷白，黑发、蓝紫服装与白色沙发形成强烈对比。背景清晰但不抢主体，不要强烈电影光或深度虚化。\n\n整体呈高质量手机 / 无反相机室内 Cosplay 写真质感：自然锐度、真实皮肤纹理、轻微手机 HDR、色彩干净，服装薄纱和黑色长袜的透明层次清楚，但不要塑料磨皮或过度锐化。\n\n重点锁定：成年东亚女性＋超长黑直发＋薄碎刘海＋细框眼镜＋黑色长兔耳＋深宝蓝半透明长袖上衣＋深紫蓝高腰短装＋黑色半透明过膝袜＋黑色细高跟鞋＋白色沙发上侧身跪姿＋双手撑靠背＋上身前倾＋臀胯后移＋现代白色客厅＋展示架与相框绿植背景。\n\n避免：未成年人、幼态儿童脸、站姿、正坐、短发、无兔耳、无眼镜、红色服装、白丝袜、网袜、运动鞋、厚底鞋、衣服完全透明、裸露、极端夸张身体比例、豪华宫廷背景、强霓虹灯、背景严重虚化、动漫脸、CG 感、多余肢体、水印和乱码文字。",
+  "promptTranslations": {
+    "en": "Hyperrealistic indoor cosplay portrait photography, vertical orientation approx. 4:5, an unambiguously adult East Asian female, 20+, kneeling on a white leather sofa, body in a distinct side profile facing towards the left side of the frame, upper body leaning forward, both hands bracing against the top of the sofa backrest, hips and buttocks pushed back and raised, both knees kneeling on the seat cushions, lower legs folded backward. The photographer is located approx. 1.5–2 meters to the front-left of the subject, using a 35–50mm equivalent lens, camera angle near waist-hip height, fully keeping the head, torso, hips/legs, and high heels in frame, with a clear lateral S-curve profile.\\n\\nThe subject has a small-to-medium bone structure, natural hourglass figure, relatively narrow shoulders, a noticeably slender waist, naturally full hips and buttocks, soft realistic volume in the thighs, and slender calves. Avoid athletic musculature, extreme paper-thin figures, or exaggerated massive buttocks.\\n\\nThe subject has jet-black ultra-long straight hair extending to around the waist and hips, thin wispy straight bangs across the forehead, with long locks on both sides naturally draping along the cheeks. Wearing thin-framed transparent glasses, looking toward the camera from behind the lenses, head tilted slightly back, cold and languid expression, lips naturally slightly parted. Wearing a very striking pair of black glossy bunny ear headbands, the ears are slender and upright, with one tilted slightly outwards.\\n\\nOn top, wearing a deep royal blue / indigo semi-sheer chiffon long-sleeve top; the fabric is light and thin with clear sheer transparency while maintaining proper coverage, high neckline hugging the neck, loose sleeves with gathered cuffs, natural wrinkles around shoulders and arms. The top features prominent cutout designs on the back and sides, revealing the skin of the lower back and flanks.\\n\\nOn the bottom, wearing deep purple-blue high-waisted tight shorts / one-piece stage shorts, fitting snugly around the waist, with small cutouts and fine black lace-up string accents near the side waist and upper thighs, buttock contours naturally distinct yet fully covered. The overall color scheme is dominated by deep blue-violet, black, and skin tones.\\n\\nWearing black semi-sheer over-the-knee / thigh-high stockings on the legs, with the tops located on the mid-to-upper thighs, wide black welts, stocking denier around 20–30D revealing natural skin tone through the fabric. Wearing black glossy stiletto high heels on feet, slightly pointed or subtly square toes, heels approximately 9–11cm, soles and heels facing towards the right side of the frame in the kneeling pose.\\n\\nThe scene is a modern minimalist white living room. The subject is kneeling on a large white leather sofa with soft cushions and backrest showing slight indentation marks. On the right side of the background is a full-wall white built-in display shelf, displaying black-and-white photography artworks, light-colored picture frames, green potted plants, pink transparent glass bottles, and a few decorative ornaments. On the upper-left wall hangs a larger vintage black-and-white painting with a silver-gray frame. The main room colors are white and light gray, clean, bright, and modern.\\n\\nLighting adopts soft natural window light + indoor white ambient light, the subject's skin is bright and leans cool white, with black hair and blue-violet clothing forming a strong contrast against the white sofa. The background is clear without overpowering the subject, without strong cinematic lighting or deep background blur.\\n\\nOverall quality features high-quality smartphone / mirrorless camera indoor cosplay photoshoot texture: natural sharpness, realistic skin texture, subtle phone HDR, clean colors, clear layered transparency in the chiffon clothing and black stockings, without plastic airbrushed skin or over-sharpening.\\n\\nKey locked elements: adult East Asian female + ultra-long black straight hair + thin wispy bangs + thin-framed glasses + long black bunny ears + deep royal blue semi-sheer long-sleeve top + deep purple-blue high-waisted shorts + black semi-sheer thigh-high stockings + black stiletto high heels + side-profile kneeling pose on white sofa + both hands bracing backrest + forward leaning torso + hips shifted back + modern white living room + display shelf with picture frames and greenery background.\\n\\nAvoid: minors, youthful child-like face, standing pose, upright sitting, short hair, no bunny ears, no glasses, red clothing, white stockings, fishnet stockings, sneakers, platform shoes, completely transparent clothing, nudity, extreme exaggerated body proportions, luxurious palace background, strong neon lights, heavily blurred background, anime face, CG look, extra limbs, watermarks and gibberish text."
+  },
+  "summaryTranslations": {
+    "en": "Hyperrealistic indoor bunny girl cosplay portrait photography, East Asian female kneeling in side profile on a white sofa."
+  },
+  "translationVersion": 2,
+  "summary": "超写实室内兔女郎Cosplay人像摄影，东亚女性跪姿侧身于白色沙发。",
+  "summaryEn": "Photorealistic indoor bunny girl cosplay portrait of an East Asian woman kneeling on a white sofa.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099309110684778823",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2099309110684778823",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-14T01:27:49.000Z",
+    "collectedAt": "2026-09-14T04:16:59.862Z",
+    "language": "zh",
+    "originalText": "兔女郎👯‍♀️\n\nPrompt：超写实室内 Cosplay 人像摄影，竖版约 4:5，一名明确成年的东亚女性，20+，跪在白色皮质沙发上，身体以明显侧身姿态面向画面左侧，上半身向前倾，双手撑在沙发靠背顶部，臀胯向后抬起，双膝跪在坐垫上，小腿向后折叠。摄影者位于人物左前方约 1.5–2 米，采用 35–50mm 等效镜头，机位接近腰胯高度，完整保留头部、躯干、臀腿和高跟鞋，侧面 S 型曲线清楚。\n\n人物为中小骨架、自然沙漏型身材，肩膀偏窄，腰部明显纤细，髋部和臀部自然丰满，大腿有柔软真实体积，小腿修长。不要健美肌肉、极端纸片身材或夸张巨臀。\n\n人物留乌黑色超长直发，长度到腰臀附近，额前为薄碎齐刘海，两侧长发贴着脸颊自然垂落。佩戴细框透明眼镜，双眼从镜片后看向镜头，头部轻微后仰，表情冷淡、慵懒，嘴唇自然微张。头戴一对非常醒目的黑色亮面兔耳发箍，耳朵细长直立，其中一只略微向外倾斜。\n\n上身穿一件深宝蓝 / 靛蓝色半透明薄纱长袖上衣，面料轻薄、透感明显但保持正常覆盖，领口高而贴颈，袖子宽松、袖口收紧，肩部和手臂处有自然褶皱。上衣背部和侧面带明显开口设计，露出腰背和侧腰皮肤。\n\n下身穿深紫蓝色高腰紧身短裤 / 连体式舞台短装，腰部贴合，侧腰与大腿根附近带小型镂空和细黑色系带装饰，臀部轮廓自然清楚但保持完整覆盖。整体配色以深蓝紫、黑色和肤色为主。\n\n双腿穿黑色半透明过膝长袜 / thigh-high stockings，袜口位于大腿中上部，宽黑边，袜身约 20–30D，能透出自然肤色。脚穿黑色亮面细高跟鞋，鞋头偏尖或微方，鞋跟约 9–11cm，跪姿下鞋底和鞋跟朝向画面右侧。\n\n场景为现代极简白色客厅。人物跪在大面积白色皮质沙发上，坐垫和靠背柔软、有轻微压痕。背景右侧是一整面白色嵌入式展示架，摆有黑白摄影作品、浅色相框、绿色盆栽、粉色透明玻璃瓶和少量装饰摆件。左上墙面挂一幅较大的复古黑白画作，银灰色画框。空间主色为白色和浅灰色，干净、明亮、现代。\n\n光线采用柔和自然窗光＋室内白色环境光，人物皮肤明亮偏冷白，黑发、蓝紫服装与白色沙发形成强烈对比。背景清晰但不抢主体，不要强烈电影光或深度虚化。\n\n整体呈高质量手机 / 无反相机室内 Cosplay 写真质感：自然锐度、真实皮肤纹理、轻微手机 HDR、色彩干净，服装薄纱和黑色长袜的透明层次清楚，但不要塑料磨皮或过度锐化。\n\n重点锁定：成年东亚女性＋超长黑直发＋薄碎刘海＋细框眼镜＋黑色长兔耳＋深宝蓝半透明长袖上衣＋深紫蓝高腰短装＋黑色半透明过膝袜＋黑色细高跟鞋＋白色沙发上侧身跪姿＋双手撑靠背＋上身前倾＋臀胯后移＋现代白色客厅＋展示架与相框绿植背景。\n\n避免：未成年人、幼态儿童脸、站姿、正坐、短发、无兔耳、无眼镜、红色服装、白丝袜、网袜、运动鞋、厚底鞋、衣服完全透明、裸露、极端夸张身体比例、豪华宫廷背景、强霓虹灯、背景严重虚化、动漫脸、CG 感、多余肢体、水印和乱码文字。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSI-gS9bIAAdnN7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSI-gS9bIAAdnN7.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 38,
+      "repostCount": 3,
+      "replyCount": 6,
+      "quoteCount": 0,
+      "viewCount": 1811
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2099309110684778823",
+  "coverUrl": "https://pbs.twimg.com/media/HSI-gS9bIAAdnN7.jpg",
+  "coverPath": "images/2099309110684778823-1.jpg",
+  "imagePaths": [
+    "images/2099309110684778823-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSI-gS9bIAAdnN7",
+    "x-post:2099309110684778823"
+  ],
+  "analysis": {
+    "summary": "超写实室内兔女郎Cosplay人像摄影，东亚女性跪姿侧身于白色沙发。",
+    "summaryEn": "Photorealistic indoor bunny girl cosplay portrait of an East Asian woman kneeling on a white sofa.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图像中的人物特征、兔耳、蓝紫色薄纱上衣、短裤、长袜、高跟鞋、跪姿及白色客厅环境与提示词完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实室内 Cosplay 人像摄影，竖版约 4:5，一名明确成年的东亚女性，20+，跪在白色皮质沙发上，身体以明显侧身姿态面向画面左侧，上半身向前倾，双手撑在沙发靠背顶部，臀胯向后抬起，双膝跪在坐垫上，小腿向后折叠。摄影者位于人物左前方约 1.5–2 米，采用 35–50mm 等效镜头，机位接近腰胯高度，完整保留头部、躯干、臀腿和高跟鞋，侧面 S 型曲线清楚。\n\n人物为中小骨架、自然沙漏型身材，肩膀偏窄，腰部明显纤细，髋部和臀部自然丰满，大腿有柔软真实体积，小腿修长。不要健美肌肉、极端纸片身材或夸张巨臀。\n\n人物留乌黑色超长直发，长度到腰臀附近，额前为薄碎齐刘海，两侧长发贴着脸颊自然垂落。佩戴细框透明眼镜，双眼从镜片后看向镜头，头部轻微后仰，表情冷淡、慵懒，嘴唇自然微张。头戴一对非常醒目的黑色亮面兔耳发箍，耳朵细长直立，其中一只略微向外倾斜。\n\n上身穿一件深宝蓝 / 靛蓝色半透明薄纱长袖上衣，面料轻薄、透感明显但保持正常覆盖，领口高而贴颈，袖子宽松、袖口收紧，肩部和手臂处有自然褶皱。上衣背部和侧面带明显开口设计，露出腰背和侧腰皮肤。\n\n下身穿深紫蓝色高腰紧身短裤 / 连体式舞台短装，腰部贴合，侧腰与大腿根附近带小型镂空和细黑色系带装饰，臀部轮廓自然清楚但保持完整覆盖。整体配色以深蓝紫、黑色和肤色为主。\n\n双腿穿黑色半透明过膝长袜 / thigh-high stockings，袜口位于大腿中上部，宽黑边，袜身约 20–30D，能透出自然肤色。脚穿黑色亮面细高跟鞋，鞋头偏尖或微方，鞋跟约 9–11cm，跪姿下鞋底和鞋跟朝向画面右侧。\n\n场景为现代极简白色客厅。人物跪在大面积白色皮质沙发上，坐垫和靠背柔软、有轻微压痕。背景右侧是一整面白色嵌入式展示架，摆有黑白摄影作品、浅色相框、绿色盆栽、粉色透明玻璃瓶和少量装饰摆件。左上墙面挂一幅较大的复古黑白画作，银灰色画框。空间主色为白色和浅灰色，干净、明亮、现代。\n\n光线采用柔和自然窗光＋室内白色环境光，人物皮肤明亮偏冷白，黑发、蓝紫服装与白色沙发形成强烈对比。背景清晰但不抢主体，不要强烈电影光或深度虚化。\n\n整体呈高质量手机 / 无反相机室内 Cosplay 写真质感：自然锐度、真实皮肤纹理、轻微手机 HDR、色彩干净，服装薄纱和黑色长袜的透明层次清楚，但不要塑料磨皮或过度锐化。\n\n重点锁定：成年东亚女性＋超长黑直发＋薄碎刘海＋细框眼镜＋黑色长兔耳＋深宝蓝半透明长袖上衣＋深紫蓝高腰短装＋黑色半透明过膝袜＋黑色细高跟鞋＋白色沙发上侧身跪姿＋双手撑靠背＋上身前倾＋臀胯后移＋现代白色客厅＋展示架与相框绿植背景。\n\n避免：未成年人、幼态儿童脸、站姿、正坐、短发、无兔耳、无眼镜、红色服装、白丝袜、网袜、运动鞋、厚底鞋、衣服完全透明、裸露、极端夸张身体比例、豪华宫廷背景、强霓虹灯、背景严重虚化、动漫脸、CG 感、多余肢体、水印和乱码文字。",
+    "sourceRange": {
+      "start": 16,
+      "end": 1220
+    },
+    "translations": {
+      "zh": "超写实室内兔女郎Cosplay写真提示词，包含东亚女性、侧身跪姿、服饰与现代白色客厅布景细节。",
+      "en": "Photorealistic indoor bunny girl cosplay portrait prompt, detailing East Asian female model, kneeling side pose, outfit, and modern white living room."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "角色写真",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
