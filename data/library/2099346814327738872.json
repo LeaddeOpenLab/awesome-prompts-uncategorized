@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T04:30:54.846Z",
+  "model": "unknown-image",
+  "prompt": "Cinematic portrait of a young South Asian man with thick curly dark hair and a full beard, sitting sideways in an ornate vintage wooden carved chair, gazing pensively out of frame with a calm, contemplative expression. He wears a camel/tan colored corduroy or suede overshirt with a large collar, open over a dark brown t-shirt, paired with blue jeans, hands resting relaxed on the chair's armrests. The scene is lit by warm golden hour sunlight streaming through a venetian blind window, casting sharp horizontal light-and-shadow stripes across his face, chest, and the wall behind him. A stack of old hardcover books sits on a small wooden side table near the window in the background, softly lit and slightly out of focus. The room has a warm, moody, sepia-toned color palette with deep browns and amber tones, dramatic chiaroscuro lighting, shallow depth of field, dust particles subtly visible in the light beams, cinematic and nostalgic mood, shot as if on a 50mm lens at f/1.8, ultra-realistic, high detail, film-like color grading.",
+  "promptTranslations": {
+    "en": "Cinematic portrait of a young South Asian man with thick curly dark hair and a full beard, sitting sideways in an ornate vintage wooden carved chair, gazing pensively out of frame with a calm, contemplative expression. He wears a camel/tan colored corduroy or suede overshirt with a large collar, open over a dark brown t-shirt, paired with blue jeans, hands resting relaxed on the chair's armrests. The scene is lit by warm golden hour sunlight streaming through a venetian blind window, casting sharp horizontal light-and-shadow stripes across his face, chest, and the wall behind him. A stack of old hardcover books sits on a small wooden side table near the window in the background, softly lit and slightly out of focus. The room has a warm, moody, sepia-toned color palette with deep browns and amber tones, dramatic chiaroscuro lighting, shallow depth of field, dust particles subtly visible in the light beams, cinematic and nostalgic mood, shot as if on a 50mm lens at f/1.8, ultra-realistic, high detail, film-like color grading."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic portrait of a South Asian man in an ornate chair under warm venetian blind lighting."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic portrait of a South Asian man in an ornate chair under warm venetian blind lighting.",
+  "summaryEn": "Cinematic portrait of a South Asian man in an ornate chair under warm venetian blind lighting.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098828983488180727",
+      "canonicalUrl": "https://x.com/Tanvir48992/status/2098828983488180727",
+      "author": {
+        "username": "Tanvir48992",
+        "displayName": "Tanvir 🫎",
+        "profileUrl": "https://x.com/Tanvir48992"
+      },
+      "originalText": "Some moments don’t need words — just silence, light, and a little mystery. \n\nPrompt:\nA cinematic profile portrait of a young man with tousled, wavy dark hair and a short beard, standing in soft golden-beige fog. He is looking upward and to the side, eyes gently closed or half-closed, in a calm, contemplative pose. He wears a dark, textured buttoned shirt with a slightly raised collar. The lighting is warm and diffused, coming from behind and to the side, creating a soft rim light on his hair and jawline while keeping his face and clothing in soft shadow/silhouette. The background is a hazy, minimalist cream/beige gradient with atmospheric fog, giving a dreamy, editorial, high-fashion aesthetic. Shot in portrait orientation, shallow depth of field, muted warm tones, film-grain texture, moody and introspective mood, ultra-realistic, 85mm lens look, soft focus background."
+    },
+    "id": "2099346814327738872",
+    "canonicalUrl": "https://x.com/Tanvir48992/status/2099346814327738872",
+    "author": {
+      "username": "Tanvir48992",
+      "displayName": "Tanvir 🫎",
+      "profileUrl": "https://x.com/Tanvir48992"
+    },
+    "publishedAt": "2026-09-14T03:57:39.000Z",
+    "collectedAt": "2026-09-14T04:16:59.862Z",
+    "language": "en",
+    "originalText": "Sometimes, the quietest moments create the strongest portraits. 🖤\n\nPrompt:\n\n\"Cinematic portrait of a young South Asian man with thick curly dark hair and a full beard, sitting sideways in an ornate vintage wooden carved chair, gazing pensively out of frame with a calm, contemplative expression. He wears a camel/tan colored corduroy or suede overshirt with a large collar, open over a dark brown t-shirt, paired with blue jeans, hands resting relaxed on the chair's armrests. The scene is lit by warm golden hour sunlight streaming through a venetian blind window, casting sharp horizontal light-and-shadow stripes across his face, chest, and the wall behind him. A stack of old hardcover books sits on a small wooden side table near the window in the background, softly lit and slightly out of focus. The room has a warm, moody, sepia-toned color palette with deep browns and amber tones, dramatic chiaroscuro lighting, shallow depth of field, dust particles subtly visible in the light beams, cinematic and nostalgic mood, shot as if on a 50mm lens at f/1.8, ultra-realistic, high detail, film-like color grading.\"",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSJgy--a0AAgwdB.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSJgy--a0AAgwdB.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSCJyrlbIAAsJpD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSCJyrlbIAAsJpD.jpg",
+        "sourcePostId": "2098828983488180727"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 0,
+      "replyCount": 12,
+      "quoteCount": 0,
+      "viewCount": 277
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Tanvir48992/status/2099346814327738872",
+  "coverUrl": "https://pbs.twimg.com/media/HSJgy--a0AAgwdB.jpg",
+  "coverPath": "images/2099346814327738872-1.jpg",
+  "imagePaths": [
+    "images/2099346814327738872-1.jpg",
+    "images/2099346814327738872-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSJgy--a0AAgwdB",
+    "x-image:/media/HSCJyrlbIAAsJpD",
+    "x-post:2099346814327738872",
+    "x-post:2098828983488180727"
+  ],
+  "analysis": {
+    "summary": "Cinematic portrait of a South Asian man in an ornate chair under warm venetian blind lighting.",
+    "summaryEn": "Cinematic portrait of a South Asian man in an ornate chair under warm venetian blind lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The first image depicts a South Asian man in a corduroy jacket seated on an ornate wooden armchair with horizontal blind shadows and background books as specified."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Cinematic portrait of a young South Asian man with thick curly dark hair and a full beard, sitting sideways in an ornate vintage wooden carved chair, gazing pensively out of frame with a calm, contemplative expression. He wears a camel/tan colored corduroy or suede overshirt with a large collar, open over a dark brown t-shirt, paired with blue jeans, hands resting relaxed on the chair's armrests. The scene is lit by warm golden hour sunlight streaming through a venetian blind window, casting sharp horizontal light-and-shadow stripes across his face, chest, and the wall behind him. A stack of old hardcover books sits on a small wooden side table near the window in the background, softly lit and slightly out of focus. The room has a warm, moody, sepia-toned color palette with deep browns and amber tones, dramatic chiaroscuro lighting, shallow depth of field, dust particles subtly visible in the light beams, cinematic and nostalgic mood, shot as if on a 50mm lens at f/1.8, ultra-realistic, high detail, film-like color grading.",
+    "sourceRange": {
+      "start": 77,
+      "end": 1116
+    },
+    "translations": {
+      "zh": "年轻南亚男子的电影感肖像，留着浓密卷曲黑发和络腮胡，侧身坐在精致的复古雕花木椅上，神情平静沉思、若有所思地看向画面外。他身穿大翻领驼色/浅褐色灯芯绒或翻毛皮外衬衫，内搭深棕色T恤，配蓝色牛仔裤，双手放松放在扶手上。百叶窗投射出暖金色夕阳光线，在他脸上、胸前及身后墙壁形成鲜明横向光影条纹。窗边小木桌上堆放着老旧精装书，柔和微焦。房间呈暖色调复古棕褐色系，强烈的明暗对比光，浅景深，光束中可见尘埃颗粒，50mm f/1.8镜头质感，超写实胶片调色。",
+      "en": "Cinematic portrait of a young South Asian man with thick curly dark hair and a full beard, sitting sideways in an ornate vintage wooden carved chair, gazing pensively out of frame with a calm, contemplative expression. He wears a camel/tan colored corduroy or suede overshirt with a large collar, open over a dark brown t-shirt, paired with blue jeans, hands resting relaxed on the chair's armrests. The scene is lit by warm golden hour sunlight streaming through a venetian blind window, casting sharp horizontal light-and-shadow stripes across his face, chest, and the wall behind him. A stack of old hardcover books sits on a small wooden side table near the window in the background, softly lit and slightly out of focus. The room has a warm, moody, sepia-toned color palette with deep browns and amber tones, dramatic chiaroscuro lighting, shallow depth of field, dust particles subtly visible in the light beams, cinematic and nostalgic mood, shot as if on a 50mm lens at f/1.8, ultra-realistic, high detail, film-like color grading."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Cinematic portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
