@@ -3176,20 +3176,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2099247373570478453"></a>
 
-### Đang dịch
+### Đi bộ đến bữa tối trong phòng ăn tại lâu đài của cô ấy cùng với chàng Hoàng tử Bạch mã của mình
 
 Tác giả：[@MelodyM662010](https://x.com/MelodyM662010) · [Bài gốc](https://x.com/MelodyM662010/status/2099247373570478453)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Đi bộ đến bữa tối trong phòng ăn tại lâu đài của cô ấy cùng với chàng Hoàng tử Bạch mã của mình
 
 <img src="covers/2099247373570478453.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đi bộ đến bữa tối trong phòng ăn tại lâu đài của cô ấy cùng với chàng Hoàng tử Bạch mã của mình
 ```
 
 [↑ Về danh mục](#catalog)
