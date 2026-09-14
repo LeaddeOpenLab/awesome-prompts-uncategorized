@@ -1221,20 +1221,30 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2099260377049768153"></a>
 
-### Traduction en cours
+### Portrait cinématographique d'un homme se tenant derrière une vitre striée de pluie avec un éclairage low-key dans les tons sarcelle et ambre.
 
 Auteur：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Publication originale](https://x.com/HumanBeing34061/status/2099260377049768153)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait cinématographique d'un homme se tenant derrière une vitre striée de pluie avec un éclairage low-key dans les tons sarcelle et ambre.
 
 <img src="images/2099260377049768153-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait cinématographique ultra-photoréaliste d'un homme adulte debout derrière une vitre couverte de pluie, cadré dans une composition verticale 4:5. Il est positionné au centre et regarde directement l'objectif avec une expression intense, mystérieuse et confiante. Son visage est le point focal principal, avec une structure faciale masculine forte mais naturelle, une mâchoire bien définie, des pommettes, un nez et des lèvres nets, une texture de peau réaliste, des pores visibles, des imperfections subtiles et des détails faciaux naturels.
+Il a des cheveux châtain foncé/noirs, mi-longs à longs, ébouriffés, naturellement décoiffés et légèrement humides, avec des mèches lâches tombant de façon organique sur son front et partiellement sur ses yeux. Ses cheveux doivent paraître naturellement texturés plutôt que parfaitement coiffés. Ses yeux sont perçants et expressifs avec des reflets lumineux réalistes et des réflexions de l'environnement alentour.
+Donnez-lui une apparence naturellement masculine avec une barbe naissante subtile ou une barbe courte à moyenne soigneusement taillée, en conservant une texture réaliste des poils du visage. N'accentuez pas excessivement les détails et n'embellissez pas artificiellement ses traits.
+Il porte une veste texturée oversize sombre ou un manteau en laine noir, créant une silhouette mystérieuse autour de ses épaules et de son cou. Une main est délicatement pressée contre la vitre mouillée sur le côté gauche du cadre, avec des doigts anatomiquement réalistes et une texture de peau naturelle.
+L'appareil photo est positionné à l'extérieur de la fenêtre couverte de pluie, avec des gouttes d'eau, de la condensation, des traînées, d'infimes imperfections du verre et des reflets flous au premier plan. Le verre crée une profondeur réaliste, une réfraction et une subtile distorsion tout en conservant ses yeux et les traits centraux de son visage extrêmement nets et détaillés.
+Derrière lui se trouve un environnement atmosphérique sombre à l'heure bleue/la nuit, illuminé par une douce lumière chaude dorée-orangée en arrière-plan. Créez un fort contraste entre des ombres sarcelle-bleu profondes et un rétroéclairage ambré chaleureux. Un subtil liseré de lumière chaude souligne ses cheveux et ses épaules.
+Éclairage : éclairage dramatique cinématographique en clair-obscur (low-key), rétroéclairage chaud et doux, éclairage subtil du visage, ombres naturelles profondes, reflets de peau réalistes, atmosphère volumétrique, doux reflets à travers le verre mouillé.
+Photographie : photographie cinématographique professionnelle plein format, objectif portrait 85 mm, f/1.4–f/1.8, profondeur de champ extrêmement faible, yeux nets, bokeh réaliste, atténuation optique naturelle, plage dynamique élevée, grain de film argentique subtil.
+Composition : portrait vertical 4:5, sujet masculin centré derrière la vitre, visage occupant la partie supérieure centrale du cadre, main visible près du bord gauche, espace négatif sombre l'entourant, gouttes de pluie superposées et reflets créant une profondeur cinématographique.
+Ambiance : mystérieuse, masculine, mélancolique, intense, romantique sombre, sophistiquée, envoûtante, émotionnellement puissante, photographie éditoriale cinématographique.
+Qualité : ultra-photoréaliste, peau réaliste, cheveux mouillés et barbe réalistes, reflets et réfraction du verre physiquement précis, gouttes d'eau réalistes, anatomie naturelle, étalonnage des couleurs cinématographique sarcelle et ambre, grain de film subtil, HDR, haute résolution, pas de peau en plastique, pas de filtre de beauté artificiel, pas d'apparence CGI.
 ```
 
 [↑ Retour aux catégories](#catalog)

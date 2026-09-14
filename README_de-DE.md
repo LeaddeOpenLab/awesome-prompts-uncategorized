@@ -1221,20 +1221,30 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2099260377049768153"></a>
 
-### Übersetzung läuft
+### Filmisches Porträt eines Mannes hinter einem regennassen Glasfenster mit Low-Key-Beleuchtung in Blaugrün und Bernstein.
 
 Autor：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Originalbeitrag](https://x.com/HumanBeing34061/status/2099260377049768153)
 
 Kinematisch / Filmstill · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmisches Porträt eines Mannes hinter einem regennassen Glasfenster mit Low-Key-Beleuchtung in Blaugrün und Bernstein.
 
 <img src="images/2099260377049768153-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultraphotorealistisches, filmisches Porträt eines erwachsenen Mannes, der hinter einem regennassen Glasfenster steht, eingerahmt in einer vertikalen 4:5-Komposition. Er ist zentral positioniert und blickt mit einem intensiven, geheimnisvollen, selbstbewussten Ausdruck direkt in die Kamera. Sein Gesicht ist der primäre Fokuspunkt, mit einer starken, aber natürlichen maskulinen Gesichtsstruktur, definierter Kieferpartie, Wangenknochen, Nase und Lippen, realistischer Hauttextur, sichtbaren Poren, subtilen Unvollkommenheiten und natürlichen Gesichtsdetails.
+Er hat mittellanges bis langes, unordentliches dunkelbraunes/schwarzes Haar, natürlich zerzaust und leicht feucht, mit lockeren Strähnen, die organisch über seine Stirn und teilweise über seine Augen fallen. Sein Haar sollte natürlich texturiert wirken statt perfekt gestylt. Seine Augen sind scharf und ausdrucksstark mit realistischen Glanzlichtern und Reflexionen aus der Umgebung.
+Verleihen Sie ihm ein natürlich maskulines Aussehen mit subtilen Bartstoppeln oder einem gepflegt gewachsenen kurzen bis mittellangen Bart, wobei eine realistische Textur der Gesichtsbehaarung beibehalten wird. Die Gesichtszüge nicht überschärfen oder künstlich verschönern.
+Er trägt eine dunkle, übergroße, strukturierte Jacke oder einen schwarzen Wollmantel, der eine geheimnisvolle Silhouette um seine Schultern und seinen Hals bildet. Eine Hand ist auf der linken Seite des Bildausschnitts sanft gegen das nasse Glas gedrückt, mit anatomisch realistischen Fingern und natürlicher Hauttextur.
+Die Kamera befindet sich außerhalb des regennassen Fensters, mit Wassertropfen, Kondenswasser, Schlieren, winzigen Glasunreinheiten und verschwommenen Reflexionen im Vordergrund. Das Glas erzeugt realistische Tiefe, Lichtbrechung und subtile Verzerrung, während seine Augen und die zentralen Gesichtszüge extrem scharf und detailliert bleiben.
+Hinter ihm befindet sich eine dunkle, atmosphärische Umgebung während der blauen Stunde/Nacht, die im Hintergrund von einem weichen, warmen, gold-orangefarbenen Licht erhellt wird. Erzeugen Sie einen starken Kontrast zwischen tiefen blaugrünen (Teal) Schatten und warmem bernsteinfarbenem Gegenlicht. Ein subtiles warmes Streiflicht umrandet sein Haar und seine Schultern.
+Beleuchtung: dramatische, filmische Low-Key-Beleuchtung, weiches warmes Gegenlicht, subtile Gesichtsbeleuchtung, tiefe natürliche Schatten, realistische Glanzlichter auf der Haut, volumetrische Atmosphäre, weiche Reflexionen durch nasses Glas.
+Fotografie: professionelle filmische Vollformatfotografie, 85mm-Porträtobjektiv, f/1.4–f/1.8, extrem geringe Schärfentiefe, scharfe Augen, realistisches Bokeh, natürlicher optischer Abfall, hoher Dynamikumfang, subtiles analoges Filmkorn.
+Komposition: vertikales 4:5-Porträt, männliche Person zentriert hinter dem Glas, das Gesicht nimmt den oberen mittleren Bereich des Rahmens ein, die Hand ist nahe dem linken Rand sichtbar, dunkler Negativraum umgibt ihn, geschichtete Regentropfen und Reflexionen erzeugen filmische Tiefe.
+Stimmung: geheimnisvoll, maskulin, melancholisch, intensiv, dunkel-romantisch, anspruchsvoll, eindringlich, emotional kraftvoll, filmische Editorial-Fotografie.
+Qualität: ultraphotorealistisch, lebensechte Haut, realistisches nasses Haar und Bart, physikalisch akkurate Glasreflexionen und -brechungen, realistische Wassertropfen, natürliche Anatomie, filmisches Teal-and-Amber-Color-Grading, subtiles Filmkorn, HDR, hohe Auflösung, keine Plastikhaut, kein künstlicher Schönheitsfilter, kein CGI-Erscheinungsbild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

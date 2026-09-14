@@ -1221,20 +1221,30 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2099260377049768153"></a>
 
-### Traduzione in corso
+### Ritratto cinematografico di un soggetto maschile in piedi dietro una finestra di vetro rigata di pioggia con illuminazione low-key verde petrolio e ambra.
 
 Autore：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Post originale](https://x.com/HumanBeing34061/status/2099260377049768153)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto cinematografico di un soggetto maschile in piedi dietro una finestra di vetro rigata di pioggia con illuminazione low-key verde petrolio e ambra.
 
 <img src="images/2099260377049768153-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto cinematografico ultra-fotorealistico di un uomo adulto in piedi dietro una finestra di vetro coperta di pioggia, inquadrato in una composizione verticale 4:5. È posizionato al centro e guarda dritto nell'obiettivo con un'espressione intensa, misteriosa e sicura di sé. Il suo viso è il punto focale primario, con una struttura facciale maschile forte ma naturale, mascella definita, zigomi, naso e labbra marcati, texture della pelle realistica, pori visibili, sottili imperfezioni e dettagli naturali del viso.
+Ha capelli castano scuro/neri, disordinati, di lunghezza medio-lunga, naturalmente scompigliati e leggermente umidi, con ciocche sciolte che cadono organicamente sulla fronte e parzialmente sugli occhi. I suoi capelli dovrebbero apparire naturalmente texturizzati piuttosto che perfettamente acconciati. I suoi occhi sono penetranti ed espressivi con punti luce realistici e riflessi dell'ambiente circostante.
+Donagli un aspetto naturalmente mascolino con una barba rada appena accennata o una barba da corta a media ben curata, mantenendo una consistenza realistica dei peli facciali. Non rendere eccessivamente nitidi né abbellire artificiosamente i suoi lineamenti.
+Indossa una giacca scura oversize texturizzata o un cappotto di lana nero, creando una silhouette misteriosa intorno alle spalle e al collo. Una mano è premuta delicatamente contro il vetro bagnato sul lato sinistro dell'inquadratura, con dita anatomicamente realistiche e una naturale texture cutanea.
+La fotocamera è posizionata all'esterno della finestra bagnata dalla pioggia, con gocce d'acqua, condensa, striature, minuscole imperfezioni del vetro e riflessi sfocati in primo piano. Il vetro crea una profondità realistica, rifrazione e una sottile distorsione, mantenendo al contempo gli occhi e i tratti somatici centrali estremamente nitidi e dettagliati.
+Dietro di lui c'è un ambiente atmosferico scuro durante l'ora blu/notte, illuminato da una morbida luce calda dorata-arancio sullo sfondo. Crea un forte contrasto tra ombre profonde verde petrolio/blu e una calda retroilluminazione ambrata. Una sottile luce perimetrale calda delinea i suoi capelli e le spalle.
+Illuminazione: drammatica illuminazione cinematografica low-key, morbida retroilluminazione calda, sottile illuminazione del viso, ombre naturali profonde, riflessi cutanei realistici, atmosfera volumetrica, morbidi riflessi attraverso il vetro bagnato.
+Fotografia: fotografia cinematografica professionale full-frame, obiettivo per ritratti da 85 mm, f/1.4–f/1.8, profondità di campo estremamente ridotta, occhi nitidi, bokeh realistico, naturale decadimento ottico, alta gamma dinamica, sottile grana da pellicola analogica.
+Composizione: ritratto verticale 4:5, soggetto maschile centrato dietro il vetro, viso che occupa la parte medio-superiore dell'inquadratura, mano visibile vicino al bordo sinistro, spazio negativo scuro attorno a lui, gocce di pioggia a strati e riflessi che creano profondità cinematografica.
+Atmosfera: misteriosa, mascolina, malinconica, intensa, dark romantic, sofisticata, ossessiva, emotivamente potente, fotografia editoriale cinematografica.
+Qualità: ultra-fotorealistica, pelle verosimile, capelli bagnati e barba realistici, riflessi e rifrazione del vetro fisicamente accurati, gocce d'acqua realistiche, anatomia naturale, color grading cinematografico teal e ambra, sottile grana della pellicola, HDR, alta risoluzione, nessuna pelle di plastica, nessun filtro di bellezza artificiale, nessun aspetto CGI.
 ```
 
 [↑ Torna alle categorie](#catalog)

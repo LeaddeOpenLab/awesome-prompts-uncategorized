@@ -1221,20 +1221,30 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2099260377049768153"></a>
 
-### Traducción en curso
+### Retrato cinematográfico de un sujeto masculino de pie detrás de una ventana de vidrio salpicada por la lluvia con iluminación de clave baja en tonos verde azulado y ámbar.
 
 Autor：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Publicación original](https://x.com/HumanBeing34061/status/2099260377049768153)
 
 Cine / Fotograma · Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato cinematográfico de un sujeto masculino de pie detrás de una ventana de vidrio salpicada por la lluvia con iluminación de clave baja en tonos verde azulado y ámbar.
 
 <img src="images/2099260377049768153-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato cinematográfico ultrafotorrealista de un hombre adulto de pie detrás de una ventana de vidrio cubierta de lluvia, encuadrado en una composición vertical de 4:5. Está posicionado en el centro y mirando directamente a la cámara con una expresión intensa, misteriosa y confiada. Su rostro es el punto focal principal, con una estructura facial masculina fuerte pero natural, mandíbula definida, pómulos, nariz y labios, textura de piel realista, poros visibles, imperfecciones sutiles y detalles faciales naturales.
+Tiene cabello castaño oscuro/negro, desordenado, de longitud media a larga, naturalmente alborotado y ligeramente húmedo, con mechones sueltos que caen orgánicamente sobre su frente y parcialmente sobre sus ojos. Su cabello debe lucir naturalmente texturizado en lugar de perfectamente peinado. Sus ojos son nítidos y expresivos con reflejos de luz realistas y reflejos del entorno circundante.
+Dale una apariencia naturalmente masculina con una barba incipiente sutil o una barba corta a mediana bien cuidada, manteniendo una textura de vello facial realista. No sobreenfoques ni embellezcas artificialmente sus rasgos.
+Viste una chaqueta oscura con textura de gran tamaño o un abrigo de lana negro, creando una silueta misteriosa alrededor de sus hombros y cuello. Una mano está suavemente presionada contra el vidrio húmedo en el lado izquierdo del encuadre, con dedos anatómicamente realistas y textura de piel natural.
+La cámara está ubicada fuera de la ventana cubierta de lluvia, con gotas de agua, condensación, vetas, diminutas imperfecciones en el vidrio y reflejos borrosos en el primer plano. El vidrio crea una profundidad realista, refracción y una sutil distorsión, al tiempo que mantiene sus ojos y los rasgos faciales centrales extremadamente nítidos y detallados.
+Detrás de él hay un entorno atmosférico oscuro durante la hora azul/noche, iluminado por una suave y cálida luz dorado-anaranjada en el fondo. Crea un fuerte contraste entre sombras profundas en verde azulado oscuro (teal) y una cálida contraluz ámbar. Una sutil luz de borde cálida perfila su cabello y hombros.
+Iluminación: iluminación dramática cinematográfica de clave baja, contraluz cálida y suave, iluminación facial sutil, sombras naturales profundas, reflejos realistas en la piel, atmósfera volumétrica, reflejos suaves a través del vidrio húmedo.
+Fotografía: fotografía cinematográfica profesional de fotograma completo, lente para retratos de 85 mm, f/1.4–f/1.8, profundidad de campo extremadamente baja, ojos nítidos, bokeh realista, caída óptica natural, alto rango dinámico, grano sutil de película analógica.
+Composición: retrato vertical 4:5, sujeto masculino centrado detrás del vidrio, rostro ocupando la porción superior-media del encuadre, mano visible cerca del borde izquierdo, espacio negativo oscuro que lo rodea, gotas de lluvia en capas y reflejos creando profundidad cinematográfica.
+Estado de ánimo: misterioso, masculino, melancólico, intenso, romántico oscuro, sofisticado, inquietante, emocionalmente poderoso, fotografía editorial cinematográfica.
+Calidad: ultrafotorrealista, piel realista, cabello húmedo y barba realistas, reflejos y refracción del vidrio físicamente precisos, gotas de agua realistas, anatomía natural, gradación de color cinematográfica en verde azulado y ámbar, grano de película sutil, HDR, alta resolución, sin piel plástica, sin filtro de belleza artificial, sin apariencia de CGI.
 ```
 
 [↑ Volver a categorías](#catalog)

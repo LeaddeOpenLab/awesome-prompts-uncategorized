@@ -1235,20 +1235,30 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2099260377049768153"></a>
 
-### Tradução em curso
+### Retrato cinematográfico de um sujeito masculino de pé atrás de uma janela de vidro escorrida pela chuva com iluminação low-key em azul-petróleo e âmbar.
 
 Autor：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Publicação original](https://x.com/HumanBeing34061/status/2099260377049768153)
 
 Cena de Cinema / Fotograma · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato cinematográfico de um sujeito masculino de pé atrás de uma janela de vidro escorrida pela chuva com iluminação low-key em azul-petróleo e âmbar.
 
 <img src="images/2099260377049768153-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Retrato cinematográfico ultrafotorrealista de um homem adulto de pé atrás de uma janela de vidro coberta pela chuva, enquadrado numa composição vertical 4:5. Ele está posicionado centralmente e a olhar diretamente para a câmara com uma expressão intensa, misteriosa e confiante. O seu rosto é o ponto focal principal, com uma estrutura facial masculina forte, mas natural, linha do maxilar definida, maçãs do rosto, nariz e lábios, textura de pele realista, poros visíveis, imperfeições subtis e detalhes faciais naturais.
+Ele tem cabelo castanho-escuro/preto de comprimento médio a longo e desalinhado, naturalmente desgrenhado e ligeiramente molhado, com fios soltos a cair organicamente pela testa e parcialmente sobre os olhos. O cabelo deve parecer naturalmente texturado em vez de perfeitamente penteado. Os seus olhos são penetrantes e expressivos, com pontos de luz realistas e reflexos do ambiente circundante.
+Dê-lhe uma aparência naturalmente masculina com uma barba de três dias subtil ou uma barba curta a média bem aparada, mantendo uma textura realista dos pelos faciais. Não aplique nitidez excessiva nem embeleze artificialmente as suas feições.
+Ele veste um casaco escuro texturado oversized ou um sobretudo de lã preto, criando uma silhueta misteriosa em redor dos ombros e pescoço. Uma mão está suavemente encostada ao vidro molhado no lado esquerdo do enquadramento, com dedos anatomicamente realistas e textura natural da pele.
+A câmara está posicionada no exterior da janela coberta pela chuva, com gotas de água, condensação, estrias, minúsculas imperfeições no vidro e reflexos desfocados em primeiro plano. O vidro cria profundidade realista, refração e uma distorção subtil, mantendo os olhos e os traços faciais centrais extremamente nítidos e detalhados.
+Atrás dele encontra-se um ambiente atmosférico escuro durante a hora azul/noite, iluminado por uma luz dourada-alaranjada suave e quente no fundo. Crie um contraste acentuado entre sombras profundas em azul-petróleo e uma retroiluminação âmbar quente. Uma luz de contorno quente e subtil delineia o seu cabelo e ombros.
+Iluminação: iluminação cinematográfica dramática em low-key, retroiluminação suave e quente, iluminação facial subtil, sombras naturais profundas, realces de pele realistas, atmosfera volumétrica, reflexos suaves através do vidro molhado.
+Fotografia: fotografia cinematográfica profissional full-frame, objetiva de retrato de 85mm, f/1.4–f/1.8, profundidade de campo extremamente reduzida, olhos nítidos, bokeh realista, quebra ótica natural de foco, elevada gama dinâmica, grão subtil de filme analógico.
+Composição: retrato vertical 4:5, sujeito masculino centrado atrás do vidro, rosto a ocupar a porção centro-superior do enquadramento, mão visível junto à margem esquerda, espaço negativo escuro ao seu redor, gotas de chuva em camadas e reflexos a criar profundidade cinematográfica.
+Ambiente: misterioso, masculino, melancólico, intenso, romântico sombrio, sofisticado, inquietante, emocionalmente poderoso, fotografia editorial cinematográfica.
+Qualidade: ultrafotorrealista, pele com aspeto real, cabelo e barba molhados realistas, reflexos e refração de vidro fisicamente precisos, gotas de água realistas, anatomia natural, gradação de cor cinematográfica em azul-petróleo e âmbar, grão subtil de filme, HDR, alta resolução, sem pele de plástico, sem filtro de beleza artificial, sem aspeto de CGI.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -1235,20 +1235,30 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2099260377049768153"></a>
 
-### Çeviri sürüyor
+### Low-key camgöbeği ve kehribar rengi aydınlatma altında, yağmur çizgili cam pencerenin arkasında duran bir erkek öznenin sinematik portresi.
 
 Yazar：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Orijinal gönderi](https://x.com/HumanBeing34061/status/2099260377049768153)
 
 Sinematik / Film Karesi · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Low-key camgöbeği ve kehribar rengi aydınlatma altında, yağmur çizgili cam pencerenin arkasında duran bir erkek öznenin sinematik portresi.
 
 <img src="images/2099260377049768153-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yağmurla kaplı cam bir pencerenin arkasında duran yetişkin bir erkeğin, 4:5 dikey kompozisyonda çerçevelenmiş ultra fotogerçekçi sinematik portresi. Merkezi bir konumda duruyor ve doğrudan kameraya yoğun, gizemli ve kendinden emin bir ifadeyle bakıyor. Güçlü ancak doğal erkeksi yüz yapısı, belirgin çene hattı, elmacık kemikleri, burnu ve dudakları, gerçekçi cilt dokusu, görünür gözenekleri, ince kusurları ve doğal yüz detaylarıyla yüzü birincil odak noktasıdır.
+Doğal olarak dağılmış ve hafifçe ıslak, alnına ve kısmen gözlerinin üzerine organik bir şekilde dökülen serbest tutamlara sahip, orta-uzun dağınık koyu kahverengi/siyah saçları var. Saçları kusursuzca taranmış olmak yerine doğal bir dokuya sahip görünmelidir. Gözleri, çevredeki ortamdan gelen gerçekçi ışık pırıltıları ve yansımalarla keskin ve etkileyicidir.
+Gerçekçi sakal dokusunu koruyarak, hafif kirli sakallı veya düzgün uzamış kısa-orta boy sakallı, doğal erkeksi bir görünüm verin. Hatlarını aşırı keskinleştirmeyin veya güzelleştirmeyin.
+Omuzlarının ve boynunun etrafında gizemli bir siluet oluşturan koyu renkli, dokulu, oversize bir ceket veya siyah yün palto giyiyor. Anatomik olarak gerçekçi parmaklar ve doğal cilt dokusuyla bir eli karenin sol tarafındaki ıslak cama nazikçe yaslanmış.
+Kamera, ön planda su damlacıkları, buğu, akıntılar, küçük cam kusurları ve bulanık yansımaların bulunduğu yağmurla kaplı pencerenin dışına konumlandırılmıştır. Cam, gözlerini ve merkezi yüz hatlarını son derece keskin ve ayrıntılı tutarken gerçekçi bir derinlik, kırılma ve hafif bozulma yaratır.
+Arkasında, mavi saat/gece vaktinde, arka plandaki yumuşak, sıcak altın-turuncu bir ışıkla aydınlatılmış karanlık, atmosferik bir ortam yer alıyor. Derin camgöbeği mavisi gölgeler ile sıcak kehribar rengi arka ışık arasında güçlü bir kontrast oluşturun. İnce ve sıcak bir kenar ışığı (rim light), saçlarının ve omuzlarının hatlarını belirginleştiriyor.
+Aydınlatma: dramatik sinematik low-key aydınlatma, yumuşak sıcak arka ışık, hafif yüz aydınlatması, derin doğal gölgeler, gerçekçi cilt parlamaları, hacimsel atmosfer, ıslak camdan yumuşak yansımalar.
+Fotoğrafçılık: profesyonel tam kare sinematik fotoğrafçılık, 85mm portre lensi, f/1.4–f/1.8, son derece sığ alan derinliği, keskin gözler, gerçekçi bokeh, doğal optik düşüş, yüksek dinamik aralık, hafif analog film greni.
+Kompozisyon: dikey 4:5 portre, camın arkasında merkezlenmiş erkek özne, karenin üst-orta kısmını kaplayan yüz, sol kenara yakın görünen el, onu çevreleyen karanlık negatif alan, sinematik derinlik yaratan katmanlı yağmur damlaları ve yansımalar.
+Ruh Hali: gizemli, erkeksi, melankolik, yoğun, karanlık romantik, sofistike, akıldan çıkmayan, duygusal olarak güçlü, sinematik editoryal fotoğrafçılık.
+Kalite: ultra fotogerçekçi, gerçeğe yakın cilt, gerçekçi ıslak saç ve sakal, fiziksel olarak doğru cam yansımaları ve kırılması, gerçekçi su damlacıkları, doğal anatomi, sinematik camgöbeği ve kehribar renk derecelendirmesi, hafif film greni, HDR, yüksek çözünürlük, plastik cilt yok, yapay güzellik filtresi yok, CGI görünümü yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -1257,20 +1257,30 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2099260377049768153"></a>
 
-### Đang dịch
+### Chân dung điện ảnh của một đối tượng nam giới đứng sau cửa sổ kính có vệt mưa với ánh sáng low-key tông xanh mòng két và hổ phách.
 
 Tác giả：[@HumanBeing34061](https://x.com/HumanBeing34061) · [Bài gốc](https://x.com/HumanBeing34061/status/2099260377049768153)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung điện ảnh của một đối tượng nam giới đứng sau cửa sổ kính có vệt mưa với ánh sáng low-key tông xanh mòng két và hổ phách.
 
 <img src="images/2099260377049768153-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung điện ảnh siêu thực của một người đàn ông trưởng thành đứng sau cửa sổ kính phủ đầy nước mưa, được đóng khung trong bố cục dọc 4:5. Anh ấy ở vị trí trung tâm và nhìn thẳng vào máy ảnh với biểu cảm mãnh liệt, bí ẩn, tự tin. Khuôn mặt anh là tiêu điểm chính, với cấu trúc khuôn mặt nam tính mạnh mẽ nhưng tự nhiên, đường viền hàm, gò má, mũi và môi rõ nét, kết cấu da chân thực, lỗ chân lông có thể nhìn thấy, những khuyết điểm tinh tế và các chi tiết khuôn mặt tự nhiên.
+Anh có mái tóc màu nâu sẫm/đen dài vừa phải bù xù, được đánh rối tự nhiên và hơi ướt, với những lọn tóc buông xõa tự nhiên ngang trán và che một phần mắt. Tóc của anh nên trông có kết cấu tự nhiên hơn là được tạo kiểu hoàn hảo. Đôi mắt anh sắc sảo và biểu cảm với các điểm sáng bắt sáng chân thực và sự phản chiếu từ môi trường xung quanh.
+Cho anh ấy một vẻ ngoài nam tính tự nhiên với râu lởm chởm nhẹ hoặc bộ râu ngắn đến trung bình mọc gọn gàng, duy trì kết cấu râu chân thực. Không làm sắc nét quá mức hoặc làm đẹp các đường nét của anh ấy.
+Anh ấy đang mặc một chiếc áo khoác đen ngoại cỡ có kết cấu hoặc áo khoác len màu đen, tạo nên một bóng hình bí ẩn quanh vai và cổ. Một bàn tay nhẹ nhàng áp vào tấm kính ướt ở phía bên trái khung hình, với các ngón tay chuẩn xác về mặt giải phẫu và kết cấu da tự nhiên.
+Máy ảnh được đặt bên ngoài cửa sổ phủ đầy nước mưa, với các giọt nước, sự ngưng tụ, vệt nước, các khuyết điểm nhỏ trên kính và hình phản chiếu mờ ảo trên tiền cảnh. Kính tạo ra độ sâu, khúc xạ và độ biến dạng tinh tế chân thực trong khi vẫn giữ cho đôi mắt và các đặc điểm khuôn mặt trung tâm của anh ấy cực kỳ sắc nét và chi tiết.
+Phía sau anh là một môi trường không khí tối tăm trong giờ xanh/đêm, được chiếu sáng bởi ánh sáng vàng cam ấm áp nhẹ nhàng ở hậu cảnh. Tạo sự tương phản mạnh mẽ giữa các bóng tối màu xanh mòng két thẫm và ánh sáng ngược màu hổ phách ấm áp. Ánh sáng viền ấm áp nhẹ nhàng phác họa mái tóc và bờ vai của anh ấy.
+Ánh sáng: ánh sáng điện ảnh low-key đầy kịch tính, ánh sáng ngược ấm áp mềm mại, ánh sáng khuôn mặt tinh tế, bóng đổ tự nhiên sâu thẳm, điểm sáng trên da chân thực, bầu không khí thể tích (volumetric), hình phản chiếu mềm mại qua tấm kính ướt.
+Nhiếp ảnh: nhiếp ảnh điện ảnh full-frame chuyên nghiệp, ống kính chân dung 85mm, f/1.4–f/1.8, độ sâu trường ảnh cực nông, đôi mắt sắc nét, hiệu ứng bokeh chân thực, độ sụt giảm quang học tự nhiên, dải động cao (HDR), hạt phim analog tinh tế.
+Bố cục: chân dung dọc 4:5, chủ thể nam ở trung tâm phía sau kính, khuôn mặt chiếm phần trên-giữa của khung hình, bàn tay hiển thị gần rìa trái, không gian âm tối bao quanh anh ấy, các lớp giọt mưa và phản chiếu tạo độ sâu điện ảnh.
+Tâm trạng: bí ẩn, nam tính, u sầu, mãnh liệt, lãng mạn đen tối, tinh tế, ám ảnh, cảm xúc mạnh mẽ, nhiếp ảnh biên tập điện ảnh.
+Chất lượng: siêu thực, làn da sống động như thật, tóc và râu ướt chân thực, phản chiếu và khúc xạ kính chính xác về mặt vật lý, giọt nước chân thực, giải phẫu tự nhiên, chỉnh màu điện ảnh tông xanh mòng két và hổ phách, hạt phim tinh tế, HDR, độ phân giải cao, không có da nhựa, không có bộ lọc làm đẹp nhân tạo, không có vẻ ngoài CGI.
 ```
 
 [↑ Về danh mục](#catalog)
