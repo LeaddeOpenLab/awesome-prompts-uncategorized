@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**211** 筆內容 · 最新收錄: **2026-09-14**
+**212** 筆內容 · 最新收錄: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3907,6 +3907,28 @@ FIELD NOTE [編號]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2099585787381616792"></a>
+
+### 翻譯中
+
+作者：[@ives\_clifford](https://x.com/ives_clifford) · [查看 X 原帖](https://x.com/ives_clifford/status/2099585787381616792)
+
+其他 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2099585787381616792.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099570524859031863"></a>
 

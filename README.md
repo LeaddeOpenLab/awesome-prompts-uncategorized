@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**211** Prompts · Latest addition: **2026-09-14**
+**212** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -4777,6 +4777,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099585787381616792"></a>
+
+### A USA submarine drone underwater heading toward land, surfaces and flies over land to explode a target. Headline: SOMEONE MUST BE DEVELOPING THIS\!
+
+Author：[@ives\_clifford](https://x.com/ives_clifford) · [Source](https://x.com/ives_clifford/status/2099585787381616792)
+
+Other · Published
+
+**Summary:** A USA submarine drone underwater heading toward land, surfaces and flies over land to explode a target. Headline: SOMEONE MUST BE DEVELOPING THIS\!
+
+<img src="covers/2099585787381616792.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A USA submarine drone underwater heading toward land, surfaces and flies over land to explode a target.  Headline:  SOMEONE MUST BE DEVELOPING THIS!
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099570524859031863"></a>
 
