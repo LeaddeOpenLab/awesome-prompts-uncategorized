@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T00:19:07.046Z",
+  "model": "unknown-image",
+  "prompt": "A serene figure in soft profile, a crown of deep violet blossoms arching over the brow so only amethyst-stained lips and a gentle jaw catch soft gold light, fingertips trailing a single gold-veined petal; a magnificent anthropomorphic peacock presses close, eyes molten gold, plumage of rich royal-violet silk threaded with pressed gold-leaf, feathers catching light like polished amethyst and gilt; dozens of deep violet blossoms erupting between them, petals drifting like a slow, tender heartbeat; gentle motion-blur ribbons of violet and soft gold drifting diagonal across the composition; the figure's robe dissolving into spiraling tendrils of trapped shimmer and floating petal-stars; fine halftone grain beneath the deep violets, a delicate gold-leaf border framing it like a sacred relic; Ukiyo-E staging meets Expressionist grace meets Baroque richness; deep royal-violet and molten gold and soft cream-white; gentle atmosphere of drifting petals and golden dust motes; surreal, cinematic, editorial, serene, tender allure; Meaningful Visual, high-detail manga-illustration rendering on deep-violet lacquer glow.",
+  "promptTranslations": {
+    "en": "A serene figure in soft profile, a crown of deep violet blossoms arching over the brow so only amethyst-stained lips and a gentle jaw catch soft gold light, fingertips trailing a single gold-veined petal; a magnificent anthropomorphic peacock presses close, eyes molten gold, plumage of rich royal-violet silk threaded with pressed gold-leaf, feathers catching light like polished amethyst and gilt; dozens of deep violet blossoms erupting between them, petals drifting like a slow, tender heartbeat; gentle motion-blur ribbons of violet and soft gold drifting diagonal across the composition; the figure's robe dissolving into spiraling tendrils of trapped shimmer and floating petal-stars; fine halftone grain beneath the deep violets, a delicate gold-leaf border framing it like a sacred relic; Ukiyo-E staging meets Expressionist grace meets Baroque richness; deep royal-violet and molten gold and soft cream-white; gentle atmosphere of drifting petals and golden dust motes; surreal, cinematic, editorial, serene, tender allure; Meaningful Visual, high-detail manga-illustration rendering on deep-violet lacquer glow."
+  },
+  "summaryTranslations": {
+    "en": "Ukiyo-e and Baroque inspired illustration of a serene figure beside a golden-eyed purple peacock surrounded by violet blossoms."
+  },
+  "translationVersion": 2,
+  "summary": "Ukiyo-e and Baroque inspired illustration of a serene figure beside a golden-eyed purple peacock surrounded by violet blossoms.",
+  "summaryEn": "Ukiyo-e and Baroque inspired illustration of a serene figure beside a golden-eyed purple peacock surrounded by violet blossoms.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099269832827187204",
+    "canonicalUrl": "https://x.com/abulu8/status/2099269832827187204",
+    "author": {
+      "username": "abulu8",
+      "displayName": "Syed Abuthahir ∞",
+      "profileUrl": "https://x.com/abulu8"
+    },
+    "publishedAt": "2026-09-13T22:51:45.000Z",
+    "collectedAt": "2026-09-14T00:15:58.648Z",
+    "language": "en",
+    "originalText": "QT Something Purple art\n\nBehind the velvet petals lies a secret only the peacock can see. ✨\n\n📸 Made with @Somake_ai #AIArt #AIイラスト︎︎ \n\nPrompt 🔻\n\nA serene figure in soft profile, a crown of deep violet blossoms arching over the brow so only amethyst-stained lips and a gentle jaw catch soft gold light, fingertips trailing a single gold-veined petal; a magnificent anthropomorphic peacock presses close, eyes molten gold, plumage of rich royal-violet silk threaded with pressed gold-leaf, feathers catching light like polished amethyst and gilt; dozens of deep violet blossoms erupting between them, petals drifting like a slow, tender heartbeat; gentle motion-blur ribbons of violet and soft gold drifting diagonal across the composition; the figure's robe dissolving into spiraling tendrils of trapped shimmer and floating petal-stars; fine halftone grain beneath the deep violets, a delicate gold-leaf border framing it like a sacred relic; Ukiyo-E staging meets Expressionist grace meets Baroque richness; deep royal-violet and molten gold and soft cream-white; gentle atmosphere of drifting petals and golden dust motes; surreal, cinematic, editorial, serene, tender allure; Meaningful Visual, high-detail manga-illustration rendering on deep-violet lacquer glow.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSIaa9Ua0AAgTfM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSIaa9Ua0AAgTfM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 45,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 1,
+      "viewCount": 1787
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/abulu8/status/2099269832827187204",
+  "coverUrl": "https://pbs.twimg.com/media/HSIaa9Ua0AAgTfM.jpg",
+  "coverPath": "images/2099269832827187204-1.jpg",
+  "imagePaths": [
+    "images/2099269832827187204-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSIaa9Ua0AAgTfM",
+    "x-post:2099269832827187204"
+  ],
+  "analysis": {
+    "summary": "Ukiyo-e and Baroque inspired illustration of a serene figure beside a golden-eyed purple peacock surrounded by violet blossoms.",
+    "summaryEn": "Ukiyo-e and Baroque inspired illustration of a serene figure beside a golden-eyed purple peacock surrounded by violet blossoms.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated artwork precisely reflects the serene profile with violet blossoms obscuring the eyes, the adjacent peacock with gilded violet plumage, and the gold-leaf framed Ukiyo-E aesthetic."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A serene figure in soft profile, a crown of deep violet blossoms arching over the brow so only amethyst-stained lips and a gentle jaw catch soft gold light, fingertips trailing a single gold-veined petal; a magnificent anthropomorphic peacock presses close, eyes molten gold, plumage of rich royal-violet silk threaded with pressed gold-leaf, feathers catching light like polished amethyst and gilt; dozens of deep violet blossoms erupting between them, petals drifting like a slow, tender heartbeat; gentle motion-blur ribbons of violet and soft gold drifting diagonal across the composition; the figure's robe dissolving into spiraling tendrils of trapped shimmer and floating petal-stars; fine halftone grain beneath the deep violets, a delicate gold-leaf border framing it like a sacred relic; Ukiyo-E staging meets Expressionist grace meets Baroque richness; deep royal-violet and molten gold and soft cream-white; gentle atmosphere of drifting petals and golden dust motes; surreal, cinematic, editorial, serene, tender allure; Meaningful Visual, high-detail manga-illustration rendering on deep-violet lacquer glow.",
+    "sourceRange": {
+      "start": 145,
+      "end": 1267
+    },
+    "translations": {
+      "zh": "柔和侧脸的恬静人物，深紫色花朵花冠低覆眉额，仅露沾染紫晶色的唇与柔和下颌沐浴在金色柔光中；一只华丽的拟人孔雀依偎身旁，双眼呈熔金色，羽衣如嵌有压制金箔的皇家紫丝绸；数十朵深紫花朵绽放，金箔边框如圣遗物般装裱；浮世绘构图融合表现主义与巴洛克富丽感。",
+      "en": "A serene figure in soft profile, a crown of deep violet blossoms arching over the brow so only amethyst-stained lips and a gentle jaw catch soft gold light, fingertips trailing a single gold-veined petal; a magnificent anthropomorphic peacock presses close, eyes molten gold, plumage of rich royal-violet silk threaded with pressed gold-leaf, feathers catching light like polished amethyst and gilt; dozens of deep violet blossoms erupting between them, petals drifting like a slow, tender heartbeat; gentle motion-blur ribbons of violet and soft gold drifting diagonal across the composition; the figure's robe dissolving into spiraling tendrils of trapped shimmer and floating petal-stars; fine halftone grain beneath the deep violets, a delicate gold-leaf border framing it like a sacred relic; Ukiyo-E staging meets Expressionist grace meets Baroque richness; deep royal-violet and molten gold and soft cream-white; gentle atmosphere of drifting petals and golden dust motes; surreal, cinematic, editorial, serene, tender allure; Meaningful Visual, high-detail manga-illustration rendering on deep-violet lacquer glow."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
