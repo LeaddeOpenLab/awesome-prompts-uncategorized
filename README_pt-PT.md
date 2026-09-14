@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**204** Prompts · Adição mais recente: **2026-09-14**
+**205** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3769,6 +3769,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099505821361270909"></a>
+
+### Tradução em curso
+
+Autor：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Publicação original](https://x.com/AFTERRACEAI/status/2099505821361270909)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099505821361270909.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099377292959265065"></a>
 

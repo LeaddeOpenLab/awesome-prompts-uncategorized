@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**204** Prompts · Latest addition: **2026-09-14**
+**205** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -4694,6 +4694,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099505821361270909"></a>
+
+### An expression prompt for smiling with the tongue out and making a kissing face.
+
+Author：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Source](https://x.com/AFTERRACEAI/status/2099505821361270909)
+
+Character · Published
+
+**Summary:** An expression prompt for smiling with the tongue out and making a kissing face.
+
+<img src="covers/2099505821361270909.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+smiling with tongue out, kissing face
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099377292959265065"></a>
 
