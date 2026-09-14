@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**212** Prompt · Son eklenen: **2026-09-14**
+**214** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099557132538376542"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2099557132538376542)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
+
+Orijinal gönderi：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2099542066267115993)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099557132538376542.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099520295405232546"></a>
 
@@ -3909,22 +3933,44 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2099585787381616792"></a>
+<a name="prompt-2099588359945408736"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@erikson\_michael](https://x.com/erikson_michael) · [Orijinal gönderi](https://x.com/erikson_michael/status/2099588359945408736)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099588359945408736.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099585787381616792"></a>
+
+### Su altında karaya doğru ilerleyen bir ABD denizaltı dronu, yüzeye çıkıyor ve bir hedefi patlatmak için karanın üzerinden uçuyor. Manşet: BİRİSİ BUNU KESİNLİKLE GELİŞTİRİYOR OLMALI\!
 
 Yazar：[@ives\_clifford](https://x.com/ives_clifford) · [Orijinal gönderi](https://x.com/ives_clifford/status/2099585787381616792)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Su altında karaya doğru ilerleyen bir ABD denizaltı dronu, yüzeye çıkıyor ve bir hedefi patlatmak için karanın üzerinden uçuyor. Manşet: BİRİSİ BUNU KESİNLİKLE GELİŞTİRİYOR OLMALI\!
 
 <img src="covers/2099585787381616792.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Su altında karaya doğru ilerleyen bir ABD denizaltı dronu, yüzeye çıkıyor ve bir hedefi patlatmak için karanın üzerinden uçuyor. Manşet: BİRİSİ BUNU KESİNLİKLE GELİŞTİRİYOR OLMALI!
 ```
 
 [↑ Kategorilere dön](#catalog)

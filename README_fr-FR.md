@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**212** Prompts · Dernier ajout: **2026-09-14**
+**214** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099557132538376542"></a>
+
+### Traduction en cours
+
+Auteur：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publication originale](https://x.com/PrometheanAIX/status/2099557132538376542)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Paysage urbain / Rue · Publié
+
+Publication originale：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publication originale](https://x.com/PrometheanAIX/status/2099542066267115993)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099557132538376542.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099520295405232546"></a>
 
@@ -3892,22 +3916,44 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2099585787381616792"></a>
+<a name="prompt-2099588359945408736"></a>
 
 ### Traduction en cours
+
+Auteur：[@erikson\_michael](https://x.com/erikson_michael) · [Publication originale](https://x.com/erikson_michael/status/2099588359945408736)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099588359945408736.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099585787381616792"></a>
+
+### Un drone sous-marin américain sous l'eau se dirigeant vers la terre ferme, fait surface et survole la terre pour faire exploser une cible. Titre : QUELQU'UN DOIT FORCÉMENT DÉVELOPPER ÇA \!
 
 Auteur：[@ives\_clifford](https://x.com/ives_clifford) · [Publication originale](https://x.com/ives_clifford/status/2099585787381616792)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un drone sous-marin américain sous l'eau se dirigeant vers la terre ferme, fait surface et survole la terre pour faire exploser une cible. Titre : QUELQU'UN DOIT FORCÉMENT DÉVELOPPER ÇA \!
 
 <img src="covers/2099585787381616792.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un drone sous-marin américain sous l'eau se dirigeant vers la terre ferme, fait surface et survole la terre pour faire exploser une cible. Titre : QUELQU'UN DOIT FORCÉMENT DÉVELOPPER ÇA !
 ```
 
 [↑ Retour aux catégories](#catalog)

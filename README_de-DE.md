@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**212** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**214** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2099557132538376542"></a>
+
+### Übersetzung läuft
+
+Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2099557132538376542)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Stadtbild / Straße · Veröffentlicht
+
+Originalbeitrag：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2099542066267115993)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099557132538376542.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099520295405232546"></a>
 
@@ -3892,22 +3916,44 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2099585787381616792"></a>
+<a name="prompt-2099588359945408736"></a>
 
 ### Übersetzung läuft
+
+Autor：[@erikson\_michael](https://x.com/erikson_michael) · [Originalbeitrag](https://x.com/erikson_michael/status/2099588359945408736)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099588359945408736.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099585787381616792"></a>
+
+### Eine US-amerikanische U-Boot-Drohne unter Wasser, die sich auf Land zubewegt, auftaucht und über Land fliegt, um ein Ziel zu sprengen. Schlagzeile: JEMAND MUSS DAS ENTWICKELN\!
 
 Autor：[@ives\_clifford](https://x.com/ives_clifford) · [Originalbeitrag](https://x.com/ives_clifford/status/2099585787381616792)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine US-amerikanische U-Boot-Drohne unter Wasser, die sich auf Land zubewegt, auftaucht und über Land fliegt, um ein Ziel zu sprengen. Schlagzeile: JEMAND MUSS DAS ENTWICKELN\!
 
 <img src="covers/2099585787381616792.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine US-amerikanische U-Boot-Drohne unter Wasser, die sich auf Land zubewegt, auftaucht und über Land fliegt, um ein Ziel zu sprengen. Schlagzeile: JEMAND MUSS DAS ENTWICKELN!
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

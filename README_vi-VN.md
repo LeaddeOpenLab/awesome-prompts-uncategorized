@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**212** Prompt · Bổ sung mới nhất: **2026-09-14**
+**214** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099557132538376542"></a>
+
+### Đang dịch
+
+Tác giả：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Bài gốc](https://x.com/PrometheanAIX/status/2099557132538376542)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+Bài gốc：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Bài gốc](https://x.com/PrometheanAIX/status/2099542066267115993)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099557132538376542.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099520295405232546"></a>
 
@@ -3937,22 +3961,44 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2099585787381616792"></a>
+<a name="prompt-2099588359945408736"></a>
 
 ### Đang dịch
+
+Tác giả：[@erikson\_michael](https://x.com/erikson_michael) · [Bài gốc](https://x.com/erikson_michael/status/2099588359945408736)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099588359945408736.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099585787381616792"></a>
+
+### Một máy bay không người lái dạng tàu ngầm của Mỹ dưới nước đang hướng về phía đất liền, nổi lên mặt nước và bay qua đất liền để kích nổ một mục tiêu. Tiêu đề: CHẮC CHẮN PHẢI CÓ AI ĐÓ ĐANG PHÁT TRIỂN THỨ NÀY\!
 
 Tác giả：[@ives\_clifford](https://x.com/ives_clifford) · [Bài gốc](https://x.com/ives_clifford/status/2099585787381616792)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một máy bay không người lái dạng tàu ngầm của Mỹ dưới nước đang hướng về phía đất liền, nổi lên mặt nước và bay qua đất liền để kích nổ một mục tiêu. Tiêu đề: CHẮC CHẮN PHẢI CÓ AI ĐÓ ĐANG PHÁT TRIỂN THỨ NÀY\!
 
 <img src="covers/2099585787381616792.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một máy bay không người lái dạng tàu ngầm của Mỹ dưới nước đang hướng về phía đất liền, nổi lên mặt nước và bay qua đất liền để kích nổ một mục tiêu. Tiêu đề: CHẮC CHẮN PHẢI CÓ AI ĐÓ ĐANG PHÁT TRIỂN THỨ NÀY!
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**212** Prompts · Latest addition: **2026-09-14**
+**214** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,44 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099557132538376542"></a>
+
+### Create an ultra-photorealistic full-body street-fashion portrait of a stylish man walking toward the camera in a bustling city street.
+
+Author：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Source](https://x.com/PrometheanAIX/status/2099557132538376542)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Cityscape / Street · Published
+
+Source：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Source](https://x.com/PrometheanAIX/status/2099542066267115993)
+
+**Summary:** Create an ultra-photorealistic full-body street-fashion portrait of a stylish man walking toward the camera in a bustling city street.
+
+<img src="covers/2099557132538376542.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an ultra-photorealistic full-body street-fashion portrait of a ruggedly handsome man walking toward the camera on a busy downtown street. He has medium-brown skin, short facial hair, an athletic masculine build, and a calm, confident expression. He wears dark aviator sunglasses and a charcoal knit beanie.
+
+Outfit
+He wears a distressed light-wash denim jacket layered over a black zip-up hoodie and white T-shirt. Pair with loose black cargo pants and red, white, and black high-top sneakers. Add layered silver chains, rings, a dark wristwatch, and a worn tan canvas backpack carried over one shoulder.
+
+Pose
+Capture him mid-stride walking toward the camera, one hand gripping the backpack strap while the other swings naturally. Keep his posture relaxed, confident, and candid.
+
+Environment
+Place him on a busy downtown entertainment district street lined with older brick buildings, storefronts, glowing signs, pedestrians, and street activity. Keep the city dense, energetic, and authentic.
+
+Photography & Cinematography
+Use high-end candid street-fashion photography with a 50mm lens aesthetic, full head-to-toe framing, natural overcast daylight, shallow but controlled depth of field, subtle film grain, realistic skin and denim texture, muted urban tones, and crisp editorial detail.
+
+Avoid: plastic skin, excessive retouching, exaggerated muscles, pristine clothing, stiff posing, empty streets, excessive bokeh, CGI appearance, or overly polished commercial styling.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099520295405232546"></a>
 
@@ -4777,6 +4815,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099588359945408736"></a>
+
+### DJs encounter analog hipsters with acoustic instrument and sweaters
+
+Author：[@erikson\_michael](https://x.com/erikson_michael) · [Source](https://x.com/erikson_michael/status/2099588359945408736)
+
+Other · Published
+
+**Summary:** DJs encounter analog hipsters with acoustic instrument and sweaters
+
+<img src="covers/2099588359945408736.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+DJs encounter analog hipsters with acoustic instrument and sweaters
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099585787381616792"></a>
 

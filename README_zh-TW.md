@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**212** 筆內容 · 最新收錄: **2026-09-14**
+**214** 筆內容 · 最新收錄: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2099557132538376542"></a>
+
+### 翻譯中
+
+作者：[@PrometheanAIX](https://x.com/PrometheanAIX) · [查看 X 原帖](https://x.com/PrometheanAIX/status/2099557132538376542)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 城市景觀 / 街道 · 已推流
+
+查看 X 原帖：[@PrometheanAIX](https://x.com/PrometheanAIX) · [查看 X 原帖](https://x.com/PrometheanAIX/status/2099542066267115993)
+
+**概括:** 翻譯中
+
+<img src="covers/2099557132538376542.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099520295405232546"></a>
 
@@ -3908,22 +3932,44 @@ FIELD NOTE [編號]
 
 ## 其他
 
-<a name="prompt-2099585787381616792"></a>
+<a name="prompt-2099588359945408736"></a>
 
 ### 翻譯中
+
+作者：[@erikson\_michael](https://x.com/erikson_michael) · [查看 X 原帖](https://x.com/erikson_michael/status/2099588359945408736)
+
+其他 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2099588359945408736.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099585787381616792"></a>
+
+### 一架美國潛艇無人機在水下駛向陸地，浮出水面並在陸地上空飛行以炸毀目標。頭條新聞：肯定有人正在研發這個！
 
 作者：[@ives\_clifford](https://x.com/ives_clifford) · [查看 X 原帖](https://x.com/ives_clifford/status/2099585787381616792)
 
 其他 · 已推流
 
-**概括:** 翻譯中
+**概括:** 一架美國潛艇無人機在水下駛向陸地，浮出水面並在陸地上空飛行以炸毀目標。頭條新聞：肯定有人正在研發這個！
 
 <img src="covers/2099585787381616792.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+一架美國潛艇無人機在水下駛向陸地，浮出水面並在陸地上空飛行以炸毀目標。頭條新聞：肯定有人正在研發這個！
 ```
 
 [↑ 返回分類目錄](#catalog)

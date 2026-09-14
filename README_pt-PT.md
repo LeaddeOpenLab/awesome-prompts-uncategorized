@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**212** Prompts · Adição mais recente: **2026-09-14**
+**214** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099557132538376542"></a>
+
+### Tradução em curso
+
+Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2099557132538376542)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Paisagem urbana / Rua · Publicado
+
+Publicação original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2099542066267115993)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099557132538376542.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099520295405232546"></a>
 
@@ -3909,22 +3933,44 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2099585787381616792"></a>
+<a name="prompt-2099588359945408736"></a>
 
 ### Tradução em curso
+
+Autor：[@erikson\_michael](https://x.com/erikson_michael) · [Publicação original](https://x.com/erikson_michael/status/2099588359945408736)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099588359945408736.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099585787381616792"></a>
+
+### Um drone submarino dos EUA debaixo de água a dirigir-se para terra, vem à superfície e voa sobre terra para explodir um alvo. Manchete: ALGUÉM DEVE ESTAR A DESENVOLVER ISTO\!
 
 Autor：[@ives\_clifford](https://x.com/ives_clifford) · [Publicação original](https://x.com/ives_clifford/status/2099585787381616792)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um drone submarino dos EUA debaixo de água a dirigir-se para terra, vem à superfície e voa sobre terra para explodir um alvo. Manchete: ALGUÉM DEVE ESTAR A DESENVOLVER ISTO\!
 
 <img src="covers/2099585787381616792.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um drone submarino dos EUA debaixo de água a dirigir-se para terra, vem à superfície e voa sobre terra para explodir um alvo. Manchete: ALGUÉM DEVE ESTAR A DESENVOLVER ISTO!
 ```
 
 [↑ Voltar às categorias](#catalog)

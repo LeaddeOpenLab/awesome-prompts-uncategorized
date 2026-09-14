@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**212** Prompt · Ultima aggiunta: **2026-09-14**
+**214** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099557132538376542"></a>
+
+### Traduzione in corso
+
+Autore：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Post originale](https://x.com/PrometheanAIX/status/2099557132538376542)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Paesaggio urbano / Strada · Pubblicato
+
+Post originale：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Post originale](https://x.com/PrometheanAIX/status/2099542066267115993)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099557132538376542.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099520295405232546"></a>
 
@@ -3892,22 +3916,44 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2099585787381616792"></a>
+<a name="prompt-2099588359945408736"></a>
 
 ### Traduzione in corso
+
+Autore：[@erikson\_michael](https://x.com/erikson_michael) · [Post originale](https://x.com/erikson_michael/status/2099588359945408736)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099588359945408736.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099585787381616792"></a>
+
+### Un drone sottomarino degli Stati Uniti sott'acqua che si dirige verso la terraferma, emerge e vola sulla terraferma per far esplodere un bersaglio. Titolo: QUALCUNO DEVE SICURAMENTE SVILUPPARE QUESTO\!
 
 Autore：[@ives\_clifford](https://x.com/ives_clifford) · [Post originale](https://x.com/ives_clifford/status/2099585787381616792)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un drone sottomarino degli Stati Uniti sott'acqua che si dirige verso la terraferma, emerge e vola sulla terraferma per far esplodere un bersaglio. Titolo: QUALCUNO DEVE SICURAMENTE SVILUPPARE QUESTO\!
 
 <img src="covers/2099585787381616792.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un drone sottomarino degli Stati Uniti sott'acqua che si dirige verso la terraferma, emerge e vola sulla terraferma per far esplodere un bersaglio. Titolo: QUALCUNO DEVE SICURAMENTE SVILUPPARE QUESTO!
 ```
 
 [↑ Torna alle categorie](#catalog)
