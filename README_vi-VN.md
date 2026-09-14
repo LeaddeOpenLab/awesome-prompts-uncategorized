@@ -1447,20 +1447,22 @@ Tác giả：[@meAsifAi](https://x.com/meAsifAi) · [Bài gốc](https://x.com/m
 
 <a name="prompt-2099321585345958267"></a>
 
-### Đang dịch
+### Bức ảnh điện ảnh về chàng trai trẻ phong cách đang dạo bước qua con phố đa thời đại pha trộn kiến trúc cổ đại, trung cổ, Victoria và tương lai cùng một cánh cổng thời gian phát sáng.
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2099321585345958267)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Kiến trúc / Nội thất · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức ảnh điện ảnh về chàng trai trẻ phong cách đang dạo bước qua con phố đa thời đại pha trộn kiến trúc cổ đại, trung cổ, Victoria và tương lai cùng một cánh cổng thời gian phát sáng.
 
 <img src="images/2099321585345958267-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh điện ảnh kỳ ảo siêu thực về một chàng trai trẻ cực kỳ điển trai ở độ tuổi đầu 20 đang tự tin bước đi qua một thành phố ngoạn mục, nơi nhiều thời kỳ lịch sử hòa quyện liền mạch trên cùng một con phố. Anh có mái tóc đen tuyền gợn sóng tự nhiên bồng bềnh hơi rối nhẹ, đôi lông mày sắc nét rõ ràng, đôi mắt nâu sẫm sâu thẳm đầy biểu cảm, sống mũi thẳng như tạc, gò má cao nổi bật, đường quai hàm nam tính sắc sảo và râu lún phún tự nhiên. Anh mặc chiếc áo khoác dài hiện đại màu tối tinh tế với các chi tiết mang hơi hướng cổ điển thanh lịch, quần tây đen may đo vừa vặn, bốt da và một chiếc đồng hồ đeo tay cổ điển.
+Thành phố quanh anh được chia thành các dòng thời gian chồng chéo: một con phố phong cách La Mã cổ đại với những cột đá cẩm thạch và các tòa nhà đá hòa vào một khu chợ châu Âu thời trung cổ với lâu đài và xe ngựa kéo, hòa quyện tiếp vào đại lộ thời Victoria với đèn khí đốt và kiến trúc trang nhã, trong khi những tòa nhà chọc trời của tương lai và biển hiệu ba chiều phát sáng vươn lên ở hậu cảnh. Mọi người từ các thế kỷ khác nhau sải bước tự nhiên xung quanh anh, tạo nên sự giao thoa siêu thực của các thời kỳ. Một cổng thời gian phát sáng bí ẩn lung linh phía sau anh, với những hạt vàng li ti và các mảnh vỡ của bánh răng đồng hồ trôi nổi trong không khí.
+Ánh sáng giờ vàng đầy ấn tượng hòa quyện với ánh đèn neon tương lai mát lạnh, tia sáng thể tích, sương mù khí quyển, chiều sâu điện ảnh, phản chiếu chân thực trên đá cuội ướt, kiến trúc lịch sử tinh xảo, chất liệu vải và kết cấu da cực kỳ chi tiết, tỷ lệ khuôn mặt tự nhiên, chân thực như ảnh chụp, 8K HDR, siêu chi tiết, ống kính 85mm, độ sâu trường ảnh nông, bố cục điện ảnh hoành tráng, nhiếp ảnh thực tế, không có văn bản, không có hình mờ, không có khuôn mặt trông giống AI.
 ```
 
 [↑ Về danh mục](#catalog)

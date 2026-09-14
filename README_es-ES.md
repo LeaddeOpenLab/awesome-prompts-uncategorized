@@ -1447,20 +1447,22 @@ Traducción en curso
 
 <a name="prompt-2099321585345958267"></a>
 
-### Traducción en curso
+### Foto cinematográfica de un joven con estilo caminando por una calle multi-época que combina arquitectura antigua, medieval, victoriana y futurista con un brillante portal temporal.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicación original](https://x.com/MohdAdnanA86218/status/2099321585345958267)
 
 Cine / Fotograma de película · Retrato / Selfie · Personaje · Arquitectura / Interiorismo · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto cinematográfica de un joven con estilo caminando por una calle multi-época que combina arquitectura antigua, medieval, victoriana y futurista con un brillante portal temporal.
 
 <img src="images/2099321585345958267-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Fotografía cinematográfica de fantasía ultrarrealista de un joven increíblemente atractivo de poco más de 20 años caminando con confianza por una ciudad impresionante donde múltiples épocas históricas se superponen a la perfección en la misma calle. Tiene un cabello negro azabache grueso y naturalmente ondulado con un sutil volumen despeinado, cejas fuertes y bien definidas, ojos de color marrón oscuro profundos y expresivos, una nariz recta y esculpida, pómulos prominentes, una mandíbula masculina y afilada, y una barba incipiente natural sutil. Viste un sofisticado abrigo largo moderno y oscuro con elegantes detalles de inspiración vintage, pantalones negros a medida, botas de cuero y un reloj de pulsera clásico.
+La ciudad que lo rodea se divide en líneas temporales superpuestas: una calle de estilo romano antiguo con columnas de mármol y edificios de piedra que se fusiona con un mercado europeo medieval con castillos y carruajes tirados por caballos, mezclándose con un bulevar de la época victoriana con farolas de gas y una arquitectura elegante, mientras que en el fondo se alzan rascacielos futuristas y letreros holográficos brillantes. Personas de diferentes siglos caminan de forma natural a su alrededor, creando una colisión surrealista de períodos temporales. Un misterioso portal temporal brillante resplandece detrás de él, con sutiles partículas doradas y fragmentos de mecanismos de relojería flotando en el aire.
+Iluminación dramática de hora dorada combinada con un frío neón futurista, rayos de luz volumétrica, niebla atmosférica, profundidad cinematográfica, reflejos realistas en adoquines húmedos, arquitectura histórica intrincada, telas y textura de la piel altamente detalladas, proporciones faciales naturales, fotorrealista, 8K HDR, ultradetallado, lente de 85 mm, profundidad de campo reducida, composición cinematográfica épica, fotografía realista, sin texto, sin marcas de agua, sin rostro con aspecto de IA.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -1411,20 +1411,22 @@ Traduction en cours
 
 <a name="prompt-2099321585345958267"></a>
 
-### Traduction en cours
+### Photo cinématographique d'un jeune homme élégant marchant dans une rue multi-époques mêlant architectures antique, médiévale, victorienne et futuriste avec un portail temporel lumineux.
 
 Auteur：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publication originale](https://x.com/MohdAdnanA86218/status/2099321585345958267)
 
 Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Architecture / Intérieur · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo cinématographique d'un jeune homme élégant marchant dans une rue multi-époques mêlant architectures antique, médiévale, victorienne et futuriste avec un portail temporel lumineux.
 
 <img src="images/2099321585345958267-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Photographie cinématographique fantastique ultra-réaliste d'un jeune homme remarquablement beau au début de la vingtaine, marchant avec assurance à travers une ville époustouflante où de multiples époques historiques se chevauchent harmonieusement dans la même rue. Il a d'épais cheveux noir de jais naturellement ondulés avec un subtil volume ébouriffé, des sourcils marqués et bien dessinés, des yeux marron foncé profonds et expressifs, un nez droit et sculpté, des pommettes saillantes, une mâchoire masculine bien définie et une barbe naissante subtile et naturelle. Il porte un long manteau moderne et sombre sophistiqué avec d'élégants détails d'inspiration vintage, un pantalon noir ajusté, des bottes en cuir et une montre-bracelet classique.
+La ville autour de lui est divisée en lignes temporelles qui se chevauchent : une rue de style romain antique avec des colonnes de marbre et des bâtiments en pierre se fondant dans une place de marché européenne médiévale avec des châteaux et des calèches, s'intégrant à un boulevard de l'époque victorienne avec des réverbères à gaz et une architecture élégante, tandis que des gratte-ciel futuristes et des enseignes holographiques lumineuses s'élèvent en arrière-plan. Des personnes de différents siècles marchent naturellement autour de lui, créant une collision surréaliste d'époques. Un mystérieux portail temporel étincelant brille derrière lui, avec de subtiles particules dorées et des fragments de mécanismes d'horlogerie flottant dans les airs.
+Éclairage dramatique de l'heure dorée mêlé à un néon futuriste froid, rayons lumineux volumétriques, brume atmosphérique, profondeur cinématographique, reflets réalistes sur des pavés mouillés, architecture historique complexe, tissus et texture de peau extrêmement détaillés, proportions faciales naturelles, photoréaliste, 8K HDR, ultra-détaillé, objectif 85 mm, faible profondeur de champ, composition cinématographique épique, photographie réaliste, pas de texte, pas de filigrane, pas de visage à l'aspect d'IA.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1425,20 +1425,22 @@ Tradução em andamento
 
 <a name="prompt-2099321585345958267"></a>
 
-### Tradução em andamento
+### Foto cinematográfica de um jovem estiloso caminhando por uma rua de múltiplas eras misturando arquitetura antiga, medieval, vitoriana e futurista com um portal temporal brilhante.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Publicação original](https://x.com/MohdAdnanA86218/status/2099321585345958267)
 
 Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Arquitetura / Interiores · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Foto cinematográfica de um jovem estiloso caminhando por uma rua de múltiplas eras misturando arquitetura antiga, medieval, vitoriana e futurista com um portal temporal brilhante.
 
 <img src="images/2099321585345958267-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Fotografia cinematográfica de fantasia ultrarrealista de um jovem incrivelmente bonito de vinte e poucos anos caminhando com confiança por uma cidade de tirar o fôlego, onde múltiplas eras históricas se sobrepõem perfeitamente na mesma rua. Ele tem cabelos grossos, naturalmente ondulados e preto-azeche com um volume sutilmente despenteado, sobrancelhas fortes e bem delineadas, olhos castanho-escuros profundos e expressivos, um nariz reto e esculpido, maçãs do rosto proeminentes, uma mandíbula masculina marcante e uma barba por fazer sutil e natural. Ele veste um sofisticado casaco longo escuro e moderno com detalhes elegantes de inspiração vintage, calças pretas sob medida, botas de couro e um relógio de pulso clássico.
+A cidade ao seu redor é dividida em linhas do tempo que se sobrepõem: uma rua no estilo romano antigo com colunas de mármore e edifícios de pedra que se funde a um mercado europeu medieval com castelos e carruagens puxadas por cavalos, misturando-se a um bulevar da era vitoriana com lâmpadas a gás e arquitetura elegante, enquanto arranha-céus futuristas e letreiros holográficos brilhantes se erguem ao fundo. Pessoas de diferentes séculos caminham naturalmente ao redor dele, criando uma colisão surreal de períodos temporais. Um misterioso portal temporal resplandecente brilha atrás dele, com sutis partículas douradas e fragmentos de mecanismos de relógio flutuando pelo ar.
+Iluminação dramática da hora dourada misturada com néon futurista frio, raios de luz volumétricos, névoa atmosférica, profundidade cinematográfica, reflexos realistas em paralelepípedos molhados, arquitetura histórica intrincada, tecidos e textura de pele altamente detalhados, proporções faciais naturais, fotorrealista, 8K HDR, ultradetalhado, lente 85mm, profundidade de campo rasa, composição cinematográfica épica, fotografia realista, sem texto, sem marca d'água, sem rosto com aparência de IA.
 ```
 
 [↑ Voltar às categorias](#catalog)

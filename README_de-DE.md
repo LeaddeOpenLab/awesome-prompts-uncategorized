@@ -1411,20 +1411,22 @@ Kinematisch / Filmstill · Porträt / Selfie · Veröffentlicht
 
 <a name="prompt-2099321585345958267"></a>
 
-### Übersetzung läuft
+### Filmreifes Foto eines eleganten jungen Mannes, der durch eine Straße mehrerer Epochen geht, die antike, mittelalterliche, viktorianische und futuristische Architektur mit einem leuchtenden Zeitportal verbindet.
 
 Autor：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Originalbeitrag](https://x.com/MohdAdnanA86218/status/2099321585345958267)
 
 Kinematisch / Filmstill · Porträt / Selfie · Charakter · Architektur / Interieur · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmreifes Foto eines eleganten jungen Mannes, der durch eine Straße mehrerer Epochen geht, die antike, mittelalterliche, viktorianische und futuristische Architektur mit einem leuchtenden Zeitportal verbindet.
 
 <img src="images/2099321585345958267-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultra-realistische filmische Fantasy-Fotografie eines auffallend gutaussehenden jungen Mannes Anfang 20, der selbstbewusst durch eine atemberaubende Stadt geht, in der mehrere historische Epochen nahtlos in derselben Straße ineinander übergehen. Er hat dichtes, natürlich gewelltes, tiefschwarzes Haar mit dezentem, zerzaustem Volumen, kräftige, wohlgeformte Augenbrauen, tiefe, ausdrucksstarke dunkelbraune Augen, eine gerade, gemeißelte Nase, markante Wangenknochen, eine scharfe, maskuline Kinnlade und dezente natürliche Bartstoppeln. Er trägt einen raffinierten dunklen modernen langen Mantel mit eleganten Vintage-inspirierten Details, maßgeschneiderte schwarze Hosen, Lederstiefel und eine klassische Armbanduhr.
+Die Stadt um ihn herum ist in überlappende Zeitlinien unterteilt: eine Straße im antiken römischen Stil mit Marmorsäulen und Steingebäuden geht über in einen mittelalterlichen europäischen Marktplatz mit Burgen und Pferdekutschen, verschmilzt mit einem Boulevard der viktorianischen Ära mit Gaslaternen und eleganter Architektur, während futuristische Wolkenkratzer und leuchtende holografische Schilder im Hintergrund emporragen. Menschen aus verschiedenen Jahrhunderten gehen ganz natürlich um ihn herum und erzeugen ein surreales Aufeinandertreffen von Zeitepochen. Ein geheimnisvolles leuchtendes Zeitportal schimmert hinter ihm, während subtile goldene Partikel und Uhrwerkfragmente durch die Luft schweben.
+Dramatische Beleuchtung zur goldenen Stunde, gemischt mit kühlem futuristischem Neonlicht, volumetrische Lichtstrahlen, atmosphärischer Nebel, filmische Tiefe, realistische Reflexionen auf nassem Kopfsteinpflaster, kunstvolle historische Architektur, hochdetaillierte Stoffe und Hauttextur, natürliche Gesichtsproportionen, fotorealistisch, 8K HDR, ultra-detailliert, 85-mm-Objektiv, geringe Schärfentiefe, epische filmische Komposition, realistische Fotografie, kein Text, kein Wasserzeichen, kein nach KI aussehendes Gesicht.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -1425,20 +1425,22 @@ Sinematik / Film Karesi · Portre / Selfie · Yayımlandı
 
 <a name="prompt-2099321585345958267"></a>
 
-### Çeviri sürüyor
+### Antik, ortaçağ, Viktorya dönemi ve fütüristik mimariyi parıldayan bir zamansal geçitle harmanlayan çok dönemli bir caddede yürüyen şık bir genç adamın sinematik fotoğrafı.
 
 Yazar：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Orijinal gönderi](https://x.com/MohdAdnanA86218/status/2099321585345958267)
 
 Sinematik / Film Karesi · Portre / Selfie · Karakter · Mimari / İç Mekan · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Antik, ortaçağ, Viktorya dönemi ve fütüristik mimariyi parıldayan bir zamansal geçitle harmanlayan çok dönemli bir caddede yürüyen şık bir genç adamın sinematik fotoğrafı.
 
 <img src="images/2099321585345958267-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Aynı caddede birden fazla tarihi dönemin kusursuz bir şekilde üst üste bindiği nefes kesici bir şehirde özgüvenle yürüyen, 20'li yaşlarının başında, son derece yakışıklı genç bir adamın ultra gerçekçi sinematik fantastik fotoğrafı. Hafif dağınık hacimli, kalın, doğal dalgalı simsiyah saçları, güçlü ve belirgin kaşları, derin ve anlamlı koyu kahverengi gözleri, düz ve biçimli bir burnu, çıkık elmacık kemikleri, keskin erkeksi bir çene hattı ve hafif, doğal bir kirli sakalı var. Zarif vintage esintili detaylara sahip sofistike, koyu renkli, modern uzun bir palto, özel dikim siyah pantolon, deri botlar ve klasik bir kol saati giyiyor.
+Etrafındaki şehir üst üste binen zaman çizelgelerine bölünmüştür: mermer sütunları ve taş binalarıyla antik Roma tarzı bir cadde, kaleleri ve at arabalarıyla bir ortaçağ Avrupa pazar yerine dönüşüyor; gaz lambaları ve zarif mimarisiyle Viktorya dönemi bulvarına karışırken, arka planda fütüristik gökdelenler ve parlayan holografik tabelalar yükseliyor. Farklı yüzyıllardan insanlar etrafında doğal bir şekilde yürüyerek zaman dönemlerinin gerçeküstü bir çatışmasını yaratıyor. Arkasında gizemli, parıldayan zamansal bir geçit ışıldıyor; havada süzülen hafif altın rengi parçacıklar ve saat mekanizması parçaları yer alıyor.
+Soğuk fütüristik neonlarla karışık dramatik altın saat ışığı, hacimsel ışık huzmeleri, atmosferik sis, sinematik derinlik, ıslak parke taşları üzerinde gerçekçi yansımalar, karmaşık tarihi mimari, son derece ayrıntılı kumaşlar ve cilt dokusu, doğal yüz oranları, fotogerçekçi, 8K HDR, ultra ayrıntılı, 85 mm lens, sığ alan derinliği, epik sinematik kompozisyon, gerçekçi fotoğrafçılık, metin yok, filigran yok, yapay zeka görünümlü yüz yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
