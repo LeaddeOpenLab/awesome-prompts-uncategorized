@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T00:22:54.204Z",
+  "model": "unknown-image",
+  "prompt": "[SUBJECT], Autochrome Lumière color photograph, delicate mosaic grain from dyed potato starch particles, soft focus from the screen process, luminous but muted colors, dreamlike natural light, slight edge falloff, early 20th century optimism preserved in glass, appearing less like a photograph and more like a memory that survived.",
+  "promptTranslations": {
+    "en": "[SUBJECT], Autochrome Lumière color photograph, delicate mosaic grain from dyed potato starch particles, soft focus from the screen process, luminous but muted colors, dreamlike natural light, slight edge falloff, early 20th century optimism preserved in glass, appearing less like a photograph and more like a memory that survived."
+  },
+  "summaryTranslations": {
+    "en": "Autochrome Lumière early 20th-century vintage photograph style template."
+  },
+  "translationVersion": 2,
+  "summary": "Autochrome Lumière early 20th-century vintage photograph style template.",
+  "summaryEn": "Autochrome Lumière early 20th-century vintage photograph style template.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099261445662027788",
+    "canonicalUrl": "https://x.com/AllaAisling/status/2099261445662027788",
+    "author": {
+      "username": "AllaAisling",
+      "displayName": "Alexandra Aisling",
+      "profileUrl": "https://x.com/AllaAisling"
+    },
+    "publishedAt": "2026-09-13T22:18:25.000Z",
+    "collectedAt": "2026-09-14T00:15:58.648Z",
+    "language": "en",
+    "originalText": "Prompt Studio: Autochrome Lumière\n\n[SUBJECT], Autochrome Lumière color photograph, delicate mosaic grain from dyed potato starch particles, soft focus from the screen process, luminous but muted colors, dreamlike natural light, slight edge falloff, early 20th century optimism preserved in glass, appearing less like a photograph and more like a memory that survived.\n\nCheck ALTs for ideas 👇",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSIS_yybIAAuYFl.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSIS_yybIAAuYFl.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSITIERXsAcaEDg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSITIERXsAcaEDg.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSIS65yb0AA8QHj.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSIS65yb0AA8QHj.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSITCxGWAAcyVep.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSITCxGWAAcyVep.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 439
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AllaAisling/status/2099261445662027788",
+  "coverUrl": "https://pbs.twimg.com/media/HSIS_yybIAAuYFl.jpg",
+  "coverPath": "images/2099261445662027788-1.jpg",
+  "imagePaths": [
+    "images/2099261445662027788-1.jpg",
+    "images/2099261445662027788-2.jpg",
+    "images/2099261445662027788-3.jpg",
+    "images/2099261445662027788-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSIS_yybIAAuYFl",
+    "x-image:/media/HSITIERXsAcaEDg",
+    "x-image:/media/HSIS65yb0AA8QHj",
+    "x-image:/media/HSITCxGWAAcyVep",
+    "x-post:2099261445662027788"
+  ],
+  "analysis": {
+    "summary": "Autochrome Lumière early 20th-century vintage photograph style template.",
+    "summaryEn": "Autochrome Lumière early 20th-century vintage photograph style template.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The sample images clearly feature the muted tones, soft grain, edge falloff, and retro Autochrome photography aesthetics specified in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "[SUBJECT], Autochrome Lumière color photograph, delicate mosaic grain from dyed potato starch particles, soft focus from the screen process, luminous but muted colors, dreamlike natural light, slight edge falloff, early 20th century optimism preserved in glass, appearing less like a photograph and more like a memory that survived.",
+    "sourceRange": {
+      "start": 35,
+      "end": 367
+    },
+    "translations": {
+      "zh": "[主体]，天然彩色底片（Autochrome Lumière）彩色照片，染色马铃薯淀粉颗粒带来的细腻马赛克颗粒感，网屏工艺带来的柔焦效果，明亮而柔和的色彩，梦幻般的自然光，边缘轻微衰减，凝固在玻璃中的20世纪初乐观氛围，宛如幸存的记忆般不像普通照片。",
+      "en": "[SUBJECT], Autochrome Lumière color photograph, delicate mosaic grain from dyed potato starch particles, soft focus from the screen process, luminous but muted colors, dreamlike natural light, slight edge falloff, early 20th century optimism preserved in glass, appearing less like a photograph and more like a memory that survived."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "artistic",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
