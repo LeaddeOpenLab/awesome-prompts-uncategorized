@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**207** Prompts · Latest addition: **2026-09-14**
+**208** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -4694,6 +4694,30 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099570524859031863"></a>
+
+### Based on the reference image containing a nine-grid photo collage, frame-by-frame splice photos of the Comiket cosplayer wearing purple armor to generate a handheld, realistic vertical vlog.
+
+Author：[@minami\_gunma](https://x.com/minami_gunma) · [Source](https://x.com/minami_gunma/status/2099570524859031863)
+
+Character · Published
+
+Source：[@minami\_gunma](https://x.com/minami_gunma) · [Source](https://x.com/minami_gunma/status/2099555625672089802)
+
+**Summary:** Based on the reference image containing a nine-grid photo collage, frame-by-frame splice photos of the Comiket cosplayer wearing purple armor to generate a handheld, realistic vertical vlog.
+
+<img src="covers/2099570524859031863.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+This image is a camera roll from the Comiket venue. Animate each photo one by one from top-left to bottom-right, connect them with hard cuts, and turn it into a vertical vlog of the same cosplayer in purple armor. Strictly adhere to the face, hairstyle, and armor of each frame. Smartphone handheld style. No BGM. Only the venue bustle and shutter sounds.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099485286187377076"></a>
 

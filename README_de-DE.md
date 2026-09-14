@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**207** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**208** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -63,20 +63,55 @@ Plakat / Flyer · Fotografie · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2099518049246499014"></a>
 
-### Übersetzung läuft
+### Spontanes nächtliches Smartphone-Blitzfoto einer jungen indischen Frau, die in einem blumenbestickten Minikleid auf einem Dachbalkon sitzt.
 
 Autor：[@vybyrn](https://x.com/vybyrn) · [Originalbeitrag](https://x.com/vybyrn/status/2099518049246499014)
 
 Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Spontanes nächtliches Smartphone-Blitzfoto einer jungen indischen Frau, die in einem blumenbestickten Minikleid auf einem Dachbalkon sitzt.
 
 <img src="images/2099518049246499014-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+{
+  "project_config": {
+    "aesthetic": "Unbearbeiteter UGC / Spontane Smartphone-Fotografie",
+    "aspect_ratio": "9:16",
+    "render_target": "4K-Look"
+  },
+  "subject": {
+    "description": "Spontanes nächtliches Smartphone-Blitzfoto einer jungen indischen Frau, die stilvoll auf einem Dachbalkon sitzt, ein kurzes salbeigrünes Minikleid mit Blumenstickerei, tiefem Ausschnitt und Cut-Out an der Taille trägt und verspielt die Nase mit einem sanften Grinsen rümpft",
+    "demographics": "Mitte 20, südasiatischer/indischer Abstammung, warme olivfarbene Haut mit goldenen Untertönen, schlanke feminine Silhouette",
+    "body": "schlanker weiblicher Körperbau mit weichen natürlichen Rundungen, moderates Taillen-Hüft-Verhältnis, natürliche zarte Haut sichtbar am Bauch-Cut-Out, realistische unretuschierte Hautstruktur mit sichtbaren Poren und feinem Flaum",
+    "face": "zarte Kieferpartie, weiche Wangenknochen, verspieltes sinnliches Schmunzeln mit gerümpfter Nase, warme einladende halb geöffnete Augen, tiefbraune Iriden, natürliche zart rosa-braune Lippen, sichtbare Poren und feine Mimikfältchen, kleiner silberner Nasenstecker",
+    "hair": "lockere, zerzauste, windverwehte natürliche Wellen, tiefes Espresso-Schwarzbraun, über eine Schulter fallend mit fliegenden Haaren und leichtem Frizz",
+    "wardrobe": "kurzes salbei-minzgrünes romantisches Minikleid — dünne Spaghettiträger, tiefer V-Ausschnitt, figurbetontes Oberteil, blumenbesticktes Band unter der Brust, großer offener Bauch-Cut-Out, kurzer gestufter transparenter Tüllrock mit rosa Blüten, grünen Blättern und blauen Akzenten, gewellter floraler Saum, strikte Minilänge, die auf halber Oberschenkelhöhe endet"
+  },
+  "pose": "stilvolle sitzende Pose auf dem Balkonboden, Körper in Dreivierteldrehung zur Kamera, ein Knie nach oben gebeugt, das andere Bein ausgestreckt, Oberkörper auf einen Arm gestützt, Kopf mit sanftem direktem Blickkontakt und leichter Kopfneigung zur Linse gedreht",
+  "framing": "mittlere Untersicht aus etwa Kniehöhe leicht nach oben blickend, von der Mitte der Waden bis zum Scheitel",
+  "scene": "Dachbalkon in einer indischen Bergstadt bei Nacht, dunkle Bergsilhouetten, verstreute warmgelbe Straßenlaternen und ferne Hauslichter, sanfter Mondschein am tiefblauen Himmel, leicht verschwommenes Balkongeländer",
+  "lighting": "dominanter Smartphone-Blitz mit schwachem warmem Umgebungsnachtlicht, harter direkter frontaler Blitz, scharfe weichkantige Schatten, ausgeprägte Glanzlichter auf Haut und transparentem Stoff, tiefe natürliche Schatten",
+  "camera": "iPhone 14 Pro-Stil, 24mm, Blitz ausgelöst, Sensorrauschen bei hoher ISO in den Schatten, natürliche Körnung, authentischer nächtlicher Smartphone-Look",
+  "style": "rohes, ungefiltertes, spontanes Nachtfoto wie von Freunden aufgenommen, fotorealistisch, sichtbare Poren, feiner Flaum, feine Beinhaare, Falten im transparenten Stoff, natürliche Gesichtsasymmetrie, kein Schönheitsfilter",
+  "constraints": {
+    "negative_prompts": [
+      "zusätzliche Gliedmaßen", "zusätzliche Arme", "zusätzliche Hände", "zusätzliche Beine", "deformierte Hände", "schlechte Anatomie",
+      "langes Kleid", "Midikleid", "Maxikleid", "knielanger oder längerer Rock",
+      "Cartoon", "3D-Render", "Illustration", "Anime", "CGI",
+      "glatte Haut", "Plastikhaut", "mit Airbrush bearbeitet", "Schönheitsfilter", "perfekte Haut",
+      "Text", "Wasserzeichen", "Logo",
+      "Studiobeleuchtung", "Softbox", "übersättigt", "starkes HDR", "orangefarbener Hautfilter",
+      "rasierte Beine", "Puppengesicht", "Uncanny Valley", "steife Pose"
+    ]
+  },
+  "output": {
+    "count": 1,
+    "size": "1080x1920"
+  }
+}
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2482,13 +2517,13 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2099481577969312010"></a>
 
-### Übersetzung läuft
+### Prompt für ein Mischtechnik-Porträt basierend auf einem Referenzbild mit Interaktion zwischen einer realen Person und einem handgezeichneten Comic-Doodle-Schatten an der Wand.
 
 Autor：[@AISuperDomain](https://x.com/AISuperDomain) · [Originalbeitrag](https://x.com/AISuperDomain/status/2099481577969312010)
 
 Anime / Manga · Comic / Graphic Novel · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein Mischtechnik-Porträt basierend auf einem Referenzbild mit Interaktion zwischen einer realen Person und einem handgezeichneten Comic-Doodle-Schatten an der Wand.
 
 <img src="images/2099481577969312010-1.jpg" alt="Bild 1" width="480" />
 
@@ -2497,7 +2532,24 @@ Anime / Manga · Comic / Graphic Novel · Porträt / Selfie · Charakter · Ver�
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwenden Sie das hochgeladene Referenzbild als strikte Referenz für die Identität und Kleidung der Person. Behalten Sie Gesicht, Gesichtszüge, Hautton, Frisur, Haarfarbe, Accessoires, Kleidung und die allgemeine Atmosphäre des Referenzbildes exakt bei, ohne jegliche Änderungen vorzunehmen.
+
+Erstellen Sie ein hochwertiges Porträt im Hochformat (4:5 oder 9:16) in Mischtechnik, das Folgendes enthält:
+
+Eine hochgradig realistische Ganzkörperfigur, deren Aussehen exakt mit der Person auf dem Referenzbild übereinstimmt.
+An der Wand neben der Person erscheint eine schwarze, handgezeichnete Silhouette/ein Schatten derselben Person im Doodle-Stil.
+
+Die reale Person sollte niedlich, leicht schüchtern und verspielt wirken und bei jeder Generierung ganz natürlich eine neue, zufällige, schelmische Pose einnehmen.
+
+Der handgezeichnete Doodle-Schatten an der Wand sollte das gleiche Posenkonzept wie die reale Person aufgreifen, jedoch viel übertriebener, chaotischer, cartoonhafter und dramatischer dargestellt sein. Fügen Sie Bewegungslinien im Manga-Stil, Sterne, Herzen und Glitzereffekte hinzu, um den Doodle-Schatten lebendig und unterhaltsam wirken zu lassen.
+
+Verwenden Sie eine saubere weiße/cremefarbene Studiowand und halten Sie den Hintergrund minimalistisch. Nutzen Sie sanftes, natürliches Licht und stellen Sie sicher, dass sowohl die reale Person als auch der Doodle-Schatten vollständig und ohne Beschnitt im Bild zu sehen sind.
+
+Die Doodle-Figur muss durch Frisur, Accessoires, Kleidungssilhouette und Pose unverkennbar an die reale Person erinnern.
+
+Negativ-Prompt (Negative Prompt):
+
+Kleidungswechsel, Änderung der Identität, zweite reale Person, gewöhnlicher realistischer Schatten, Horror-Stil, Live-Action-Animefiguren, unordentlicher Hintergrund, sich wiederholende Zeigegesten oder Fingerpistolen-Posen, steife Posen, überzählige Gliedmaßen/Finger, Körperverformungen, Text, Wasserzeichen, Logos, KI-Generierungsspuren.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3753,22 +3805,46 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2099485286187377076"></a>
+<a name="prompt-2099570524859031863"></a>
 
 ### Übersetzung läuft
+
+Autor：[@minami\_gunma](https://x.com/minami_gunma) · [Originalbeitrag](https://x.com/minami_gunma/status/2099570524859031863)
+
+Charakter · Veröffentlicht
+
+Originalbeitrag：[@minami\_gunma](https://x.com/minami_gunma) · [Originalbeitrag](https://x.com/minami_gunma/status/2099555625672089802)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099570524859031863.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099485286187377076"></a>
+
+### Prompt für ein kinoreifes Verwandlungs-VFX-Video eines indischen Mannes in Donnergott-Rüstung, der einen Hammer hebt, Blitze herabbeschwört und in den Himmel aufsteigt.
 
 Autor：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Originalbeitrag](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein kinoreifes Verwandlungs-VFX-Video eines indischen Mannes in Donnergott-Rüstung, der einen Hammer hebt, Blitze herabbeschwört und in den Himmel aufsteigt.
 
 <img src="covers/2099485286187377076.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein selbstbewusster indischer Mann (gleiches Gesicht wie im Referenzbild), der eine mächtige, vom Donnergott inspirierte Rüstung trägt, mit wallendem rotem Umhang und metallischem Brustpanzer, der mit blauer Energie leuchtet. Er steht in einem Innenraum und hebt dann einen schweren magischen Hammer gen Himmel. Dunkle Gewitterwolken bilden sich plötzlich über ihm. Intensive Blitze schlagen in den Hammer ein, elektrische Energie durchströmt seinen Körper, seine Augen leuchten vor Kraft, Wind weht dramatisch um ihn herum. Die Figur verwandelt sich in einen Donnergott-Superhelden (NICHT exakt Thor, inspirierter Stil), hochdetaillierte filmreife Rüstung, leuchtende Effekte, epische Aura. Dann springt er ab und fliegt mit hoher Geschwindigkeit in den Himmel, hinterlässt helle Blitzspuren und verschwindet in den Gewitterwolken. Ultrarealistisch, filmische Beleuchtung, Zeitlupe, dramatische Kamerabewegung, 4K, VFX-lastig, Superhelden-Transformation, epische Actionszene. Mann mit demselben Gesicht wie das Eingabebild in Donnergott-Rüstung und rotem Umhang, der einen Hammer hält, Blitzeinschläge, verwandelt sich in einen mächtigen Superhelden, fliegt mit elektrischen Spuren in den Himmel, filmisch, 4K, Zeitlupe.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

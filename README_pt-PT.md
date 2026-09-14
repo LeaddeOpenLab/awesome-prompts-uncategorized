@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**207** Prompts · Adição mais recente: **2026-09-14**
+**208** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -63,20 +63,55 @@ Tradução em curso
 
 <a name="prompt-2099518049246499014"></a>
 
-### Tradução em curso
+### Fotografia espontânea noturna com flash de smartphone de uma jovem mulher indiana sentada numa varanda de cobertura vestindo um vestido mini bordado com flores.
 
 Autor：[@vybyrn](https://x.com/vybyrn) · [Publicação original](https://x.com/vybyrn/status/2099518049246499014)
 
 Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Fotografia espontânea noturna com flash de smartphone de uma jovem mulher indiana sentada numa varanda de cobertura vestindo um vestido mini bordado com flores.
 
 <img src="images/2099518049246499014-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+{
+  "project_config": {
+    "aesthetic": "UGC autêntico / Fotografia espontânea de smartphone",
+    "aspect_ratio": "9:16",
+    "render_target": "aspeto 4K"
+  },
+  "subject": {
+    "description": "Fotografia espontânea noturna com flash de smartphone de uma jovem mulher indiana sentada com estilo numa varanda de cobertura, vestindo um vestido curto mini verde-sálvia bordado com flores, com decote profundo e recorte na barriga, franzindo o nariz de forma brincalhona com um leve sorriso maroto",
+    "demographics": "meados dos 20 anos, ascendência sul-asiática/indiana, pele azeitonada quente com subtom dourado, silhueta feminina esbelta",
+    "body": "estrutura feminina esbelta com curvas suaves e naturais, proporção cintura-anca moderada, pele suave e natural visível no recorte da barriga, textura de pele realista e sem retoques com poros visíveis e penugem fina",
+    "face": "linha da mandíbula delicada, maçãs do rosto suaves, sorriso maroto sensual e brincalhão com nariz franzido, olhos semicerrados quentes e convidativos, íris castanho-escuras, lábios naturais num tom suave rosa-acastanhado, poros visíveis e linhas de microexpressão, pequeno piercing prateado na narina",
+    "hair": "ondas naturais soltas, despenteadas pelo vento, castanho-escuro café expresso profundo, a cair sobre um ombro com cabelos soltos e leve frisado",
+    "wardrobe": "vestido mini romântico curto verde-menta sálvia — alças de esparguete finas, decote em V profundo e pronunciado, corpete justo, fita sob o peito bordada a flores, grande recorte aberto na barriga, saia curta de tule translúcido em camadas com flores cor-de-rosa, folhas verdes e apontamentos azuis, bainha floral recortada, comprimento estritamente mini a terminar a meio da coxa"
+  },
+  "pose": "pose sentada elegante no chão da varanda, corpo em três quartos virado para a câmara, um joelho fletido para cima, a outra perna estendida, tronco apoiado num braço, cabeça virada para a lente com contacto visual suave e direto e ligeira inclinação da cabeça",
+  "framing": "ângulo médio-baixo aproximadamente ao nível dos joelhos a olhar ligeiramente para cima, de meia barriga da perna até ao topo da cabeça",
+  "scene": "varanda de cobertura numa localidade indiana nas colinas à noite, silhuetas escuras de montanhas, candeeiros de rua amarelos quentes dispersos e luzes distantes de habitações, brilho suave da lua num céu azul-escuro, gradeamento da varanda ligeiramente desfocado",
+  "lighting": "flash de smartphone predominante com fraca luz ambiente noturna quente, flash frontal direto e forte, sombras nítidas de contornos suaves, reflexos especulares pronunciados na pele e no tecido translúcido, sombras naturais profundas",
+  "camera": "estilo iPhone 14 Pro, 24mm, flash disparado, ruído de sensor com ISO elevado nas sombras, grão natural, aspeto autêntico de smartphone à noite",
+  "style": "foto noturna espontânea, crua e sem filtro tirada por um amigo, fotorrealista, poros visíveis, penugem fina, pelos finos nas pernas, rugas no tecido translúcido, assimetria facial natural, sem filtro de beleza",
+  "constraints": {
+    "negative_prompts": [
+      "membros extra", "braços extra", "mãos extra", "pernas extra", "mãos deformadas", "má anatomia",
+      "vestido comprido", "vestido midi", "vestido maxi", "saia pelo joelho ou mais comprida",
+      "desenho animado", "renderização 3D", "ilustração", "anime", "CGI",
+      "pele lisa", "pele plástica", "aerografada", "filtro de beleza", "pele perfeita",
+      "texto", "marca de água", "logótipo",
+      "iluminação de estúdio", "softbox", "supersaturado", "HDR pesado", "filtro de pele cor de laranja",
+      "pernas depiladas", "cara de boneca", "vale da estranheza", "pose rígida"
+    ]
+  },
+  "output": {
+    "count": 1,
+    "size": "1080x1920"
+  }
+}
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2499,13 +2534,13 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2099481577969312010"></a>
 
-### Tradução em curso
+### Prompt de retrato em técnica mista baseado em imagem de referência com interação entre pessoa real e sombra em doodle de banda desenhada desenhada na parede.
 
 Autor：[@AISuperDomain](https://x.com/AISuperDomain) · [Publicação original](https://x.com/AISuperDomain/status/2099481577969312010)
 
 Anime / Mangá · Banda Desenhada / Romance Gráfico · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato em técnica mista baseado em imagem de referência com interação entre pessoa real e sombra em doodle de banda desenhada desenhada na parede.
 
 <img src="images/2099481577969312010-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2514,7 +2549,24 @@ Anime / Mangá · Banda Desenhada / Romance Gráfico · Retrato / Selfie · Pers
 **Prompt**
 
 ```text
-Tradução em curso
+Utilize a imagem de referência carregada como referência estrita para a identidade e o vestuário da personagem. Conserve com precisão o rosto, os traços faciais, o tom de pele, o penteado, a cor do cabelo, os acessórios, o vestuário e a atmosfera geral da imagem de referência, sem efetuar qualquer alteração.
+
+Crie um retrato de técnica mista de alta qualidade em formato vertical (4:5 ou 9:16), contendo:
+
+Uma personagem de corpo inteiro altamente realista, cuja aparência seja extremamente fiel à pessoa da imagem de referência.
+Na parede ao lado da personagem, surge uma silhueta/sombra da mesma personagem em estilo doodle preto desenhado à mão.
+
+A personagem real deve transmitir uma sensação amorosa, ligeiramente tímida e brincalhona, assumindo naturalmente uma pose travessa, nova e aleatória a cada geração.
+
+A sombra doodle desenhada à mão na parede deve também seguir o mesmo conceito de pose da pessoa real, mas de forma muito mais exagerada, caótica, estilizada e dramática. Adicione linhas de ação estilo banda desenhada, estrelas, corações e efeitos de brilho para tornar a sombra doodle dinâmica e divertida.
+
+Utilize uma parede de estúdio limpa, branca ou creme, mantendo o fundo minimalista. Empregue iluminação suave e natural, garantindo que tanto a pessoa real como a sombra doodle apareçam por completo no enquadramento, sem cortes.
+
+A personagem em doodle deve remeter claramente à pessoa real através do penteado, dos acessórios, da silhueta das roupas e da pose.
+
+Prompt negativo (Negative Prompt):
+
+mudança de roupa, alteração da identidade da personagem, segunda personagem real, sombra realista comum, estilo de terror, personagens de anime em versão real, fundo desordenado, poses repetitivas de apontar ou de pistola com os dedos, poses rígidas, membros/dedos a mais, deformações corporais, texto, marca de água, logótipo, vestígios de geração por IA.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3770,22 +3822,46 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2099485286187377076"></a>
+<a name="prompt-2099570524859031863"></a>
 
 ### Tradução em curso
+
+Autor：[@minami\_gunma](https://x.com/minami_gunma) · [Publicação original](https://x.com/minami_gunma/status/2099570524859031863)
+
+Personagem · Publicado
+
+Publicação original：[@minami\_gunma](https://x.com/minami_gunma) · [Publicação original](https://x.com/minami_gunma/status/2099555625672089802)
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099570524859031863.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099485286187377076"></a>
+
+### Prompt de vídeo com efeitos visuais cinematográficos de transformação de um homem indiano com armadura de deus do trovão a erguer um martelo, atrair relâmpagos e voar para o céu.
 
 Autor：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Publicação original](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo com efeitos visuais cinematográficos de transformação de um homem indiano com armadura de deus do trovão a erguer um martelo, atrair relâmpagos e voar para o céu.
 
 <img src="covers/2099485286187377076.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um homem indiano confiante (mesmo rosto da imagem de referência) a usar uma poderosa armadura inspirada no deus do trovão, capa vermelha esvoaçante, armadura peitoral metálica a brilhar com energia azul. Ele encontra-se em espaço interior, depois ergue um pesado martelo mágico em direção ao céu. Nuvens escuras de tempestade formam-se repentinamente acima dele. Relâmpagos intensos atingem o martelo, energia elétrica flui através do seu corpo, os seus olhos brilham com poder, o vento sopra dramaticamente ao seu redor. A personagem transforma-se num super-herói deus do trovão (NÃO exatamente Thor, estilo inspirado), armadura cinematográfica altamente detalhada, efeitos brilhantes, aura épica. Em seguida, salta e voa para o céu a alta velocidade, deixando para trás rastos brilhantes de relâmpagos, desaparecendo nas nuvens de tempestade. Ultrarrealista, iluminação cinematográfica, câmara lenta, movimento de câmara dramático, 4K, rico em VFX, transformação de super-herói, cena de ação épica. Homem com o mesmo rosto da imagem de entrada a usar armadura de deus do trovão e capa vermelha, a segurar um martelo, relâmpagos atingem, transforma-se num super-herói poderoso, voa para o céu com rastos elétricos, cinematográfico, 4K, câmara lenta.
 ```
 
 [↑ Voltar às categorias](#catalog)

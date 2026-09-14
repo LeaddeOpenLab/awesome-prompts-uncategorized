@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**207** Prompt · Son eklenen: **2026-09-14**
+**208** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -63,20 +63,55 @@ Poster / El İlanı · Fotoğrafçılık · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2099518049246499014"></a>
 
-### Çeviri sürüyor
+### Çatı balkonunda çiçek işlemeli mini bir elbise giyerek oturan genç bir Hintli kadının akıllı telefon flaşıyla çekilmiş doğal gece fotoğrafı.
 
 Yazar：[@vybyrn](https://x.com/vybyrn) · [Orijinal gönderi](https://x.com/vybyrn/status/2099518049246499014)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çatı balkonunda çiçek işlemeli mini bir elbise giyerek oturan genç bir Hintli kadının akıllı telefon flaşıyla çekilmiş doğal gece fotoğrafı.
 
 <img src="images/2099518049246499014-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+{
+  "project_config": {
+    "aesthetic": "Ham UGC / Doğal Akıllı Telefon Fotoğrafçılığı",
+    "aspect_ratio": "9:16",
+    "render_target": "4K görünüm"
+  },
+  "subject": {
+    "description": "Bir çatı balkonunda şık bir şekilde oturan, derin dekolteli ve göbek pencereli kısa adaçayı yeşili çiçek işlemeli mini bir elbise giymiş, hafif bir sırıtışla burnunu muzipçe kırıştıran genç bir Hintli kadının akıllı telefon flaşıyla çekilmiş doğal gece fotoğrafı",
+    "demographics": "20'li yaşların ortası, Güney Asyalı/Hint kökenli, altın alt tonlu sıcak buğday/zeytuni ten, narin kadınsı silüet",
+    "body": "yumuşak doğal kıvrımlara sahip narin kadınsı yapı, dengeli bel-kalça oranı, göbek penceresinden görünen doğal yumuşak ten, görünür gözenekler ve şeftali tüyleriyle gerçekçi rötuşsuz cilt dokusu",
+    "face": "narin çene hattı, yumuşak elmacık kemikleri, kırışık burunla muzip çekici bir sırıtış, sıcak yarı aralık davetkâr gözler, koyu kahverengi irisler, doğal yumuşak pembemsi-kahverengi dudaklar, görünür gözenekler ve mikro mimik çizgileri, küçük gümüş burun hızması",
+    "hair": "dağınık rüzgarda savrulmuş doğal dalgalar, koyu espresso siyah-kahverengi, uçuşan ve hafif kabaran saç telleriyle tek omuz üzerinden dökülen",
+    "wardrobe": "kısa adaçayı nane yeşili romantik mini elbise — ince ip askılar, derin V dekolte, oturan üst kısım, çiçek işlemeli göğüs altı bandı, geniş açık göbek penceresi, pembe çiçekler, yeşil yapraklar ve mavi detaylarla süslü kısa kat kat tül etek, dilimli çiçekli etek ucu, uyluğun ortasında biten kesinlikle mini boy"
+  },
+  "pose": "balkon zemininde şık oturma pozu, vücut kameraya doğru üçte bir açıyla dönük, bir diz yukarı bükülmüş, diğer bacak uzatılmış, gövde tek bir kola yaslanmış, baş hafif bir baş eğimiyle ve yumuşak doğrudan göz temasıyla lense dönük",
+  "framing": "yaklaşık diz hizasından hafifçe yukarı bakan orta-düşük açı, kalfın ortasından başın tepesine kadar",
+  "scene": "gece vakti bir tepe Hint kasabasındaki çatı balkonu, koyu dağ silüetleri, dağınık sıcak sarı sokak lambaları ve uzaktaki ev ışıkları, koyu mavi gökyüzünde yumuşak ay ışıltısı, hafif bulanık balkon korkuluğu",
+  "lighting": "akıllı telefon flaşı baskın, zayıf sıcak ortam gece ışığıyla birlikte, sert doğrudan ön flaş, keskin yumuşak kenarlı gölgeler, ciltte ve transparan kumaşta belirgin parlama noktaları, derin doğal gölgeler",
+  "camera": "iPhone 14 Pro tarzı, 24mm, flaş patlamış, gölgelerde yüksek ISO sensör paraziti, doğal gren, otantik gece akıllı telefon görünümü",
+  "style": "arkadaşın çektiği filtresiz ham doğal gece fotoğrafı, fotogerçekçi, görünür gözenekler, şeftali tüyleri, ince bacak tüyleri, transparan kumaş kırışıklıkları, doğal yüz asimetrisi, güzellik filtresi yok",
+  "constraints": {
+    "negative_prompts": [
+      "fazladan uzuvlar", "fazladan kollar", "fazladan eller", "fazladan bacaklar", "deforme eller", "kötü anatomi",
+      "uzun elbise", "midi elbise", "maksi elbise", "diz boyu veya daha uzun etek",
+      "çizgi film", "3d render", "illüstrasyon", "anime", "CGI",
+      "pürüzsüz ten", "plastik ten", "airbrushlı", "güzellik filtresi", "kusursuz ten",
+      "metin", "filigran", "logo",
+      "stüdyo aydınlatması", "softbox", "aşırı doygun", "yoğun HDR", "turuncu cilt filtresi",
+      "tıraşlı bacaklar", "oyuncak bebek yüzü", "tekinsiz vadi", "kaskatı poz"
+    ]
+  },
+  "output": {
+    "count": 1,
+    "size": "1080x1920"
+  }
+}
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2499,13 +2534,13 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2099481577969312010"></a>
 
-### Çeviri sürüyor
+### Referans görsele dayalı olarak duvardaki el çizimi çizgi roman karalama gölgesiyle etkileşime giren gerçek kişinin karma teknik portre komutu.
 
 Yazar：[@AISuperDomain](https://x.com/AISuperDomain) · [Orijinal gönderi](https://x.com/AISuperDomain/status/2099481577969312010)
 
 Anime / Manga · Çizgi Roman / Grafik Roman · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Referans görsele dayalı olarak duvardaki el çizimi çizgi roman karalama gölgesiyle etkileşime giren gerçek kişinin karma teknik portre komutu.
 
 <img src="images/2099481577969312010-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2514,7 +2549,24 @@ Anime / Manga · Çizgi Roman / Grafik Roman · Portre / Selfie · Karakter · Y
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen referans görseli, karakter kimliği ve kıyafet için kesin bir referans olarak kullanın. Referans görseldeki yüzü, yüz hatlarını, cilt tonunu, saç stilini, saç rengini, aksesuarları, kıyafetleri ve genel atmosferi hiçbir değişiklik yapmadan tam olarak koruyun.
+
+Aşağıdakileri içeren, dikey formatta (4:5 veya 9:16) yüksek kaliteli bir karma teknik portresi oluşturun:
+
+Görünüşü referans görseldeki kişiyle son derece tutarlı olan, oldukça gerçekçi tam boy bir figür.
+Karakterin yanındaki duvarda, aynı karakterin siyah el çizimi karalama (doodle) tarzında bir silueti/gölgesi yer almalıdır.
+
+Gerçek karakter sevimli, hafif utangaç ve oyuncu bir his uyandırmalı; her üretimde doğal olarak yepyeni, rastgele ve yaramaz bir oyuncu poz vermelidir.
+
+Duvardaki el çizimi karalama gölge de gerçek kişiyle aynı poz konseptini sergilemeli, ancak çok daha abartılı, kaotik, karikatürize ve dramatik bir şekilde ifade edilmelidir. Karalama gölgenin canlı ve eğlenceli görünmesi için manga tarzı hareket çizgileri, yıldızlar, kalpler ve ışıltı efektleri ekleyin.
+
+Temiz, beyaz/krem rengi bir stüdyo duvarı kullanın ve arka planı minimalist tutun. Yumuşak, doğal bir ışık kullanın ve hem gerçek kişinin hem de karalama gölgenin kadrajda kesilmeden tam olarak görünmesini sağlayın.
+
+Karalama karakter; saç stili, aksesuarları, kıyafet silueti ve pozu sayesinde gerçek kişiyi net bir şekilde çağrıştırmalıdır.
+
+Negatif Komut (Negative Prompt):
+
+kıyafet değişimi, karakter kimliğinin değiştirilmesi, ikinci bir gerçek kişi, sıradan gerçekçi gölge, korku tarzı, anime karakterinin gerçekçi uyarlaması, karmaşık arka plan, tekrarlayan işaret etme veya parmakla silah yapma pozları, sert/kaskatı pozlar, fazla uzuvlar/parmaklar, vücut deformasyonları, metin, filigran, logo, yapay zeka oluşturma izleri.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3770,22 +3822,46 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2099485286187377076"></a>
+<a name="prompt-2099570524859031863"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@minami\_gunma](https://x.com/minami_gunma) · [Orijinal gönderi](https://x.com/minami_gunma/status/2099570524859031863)
+
+Karakter · Yayımlandı
+
+Orijinal gönderi：[@minami\_gunma](https://x.com/minami_gunma) · [Orijinal gönderi](https://x.com/minami_gunma/status/2099555625672089802)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099570524859031863.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099485286187377076"></a>
+
+### Gök gürültüsü tanrısı zırhı giyen bir Hintli adamın çekiç kaldırıp şimşekleri çağırdığı ve gökyüzüne yükseldiği sinematik dönüşüm VFX video istemi.
 
 Yazar：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Orijinal gönderi](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gök gürültüsü tanrısı zırhı giyen bir Hintli adamın çekiç kaldırıp şimşekleri çağırdığı ve gökyüzüne yükseldiği sinematik dönüşüm VFX video istemi.
 
 <img src="covers/2099485286187377076.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kendinden emin bir Hintli adam (referans görselle aynı yüz), gök gürültüsü tanrısından ilham alan güçlü bir zırh takımı giyiyor, kırmızı dalgalanan pelerin, mavi enerjiyle parlayan metalik göğüs zırhı. İç mekanda duruyor, ardından gökyüzüne doğru ağır büyülü bir çekiç kaldırıyor. Üzerinde aniden karanlık fırtına bulutları oluşuyor. Yoğun şimşekler çekice çarpıyor, vücudundan elektrik enerjisi akıyor, gözleri güçle parlıyor, rüzgar etrafında dramatik bir şekilde esiyor. Karakter bir gök gürültüsü tanrısı süper kahramanına dönüşüyor (birebir Thor DEĞİL, esinlenilmiş tarz), son derece ayrıntılı sinematik zırh, parlayan efektler, epik aura. Ardından zıplıyor ve yüksek hızda gökyüzüne uçuyor, arkasında parlak şimşek izleri bırakarak fırtına bulutları arasında kayboluyor. Ultra gerçekçi, sinematik aydınlatma, ağır çekim, dramatik kamera hareketi, 4K, yoğun VFX, süper kahraman dönüşümü, epik aksiyon sahnesi. Girdi görseliyle aynı yüze sahip, gök gürültüsü tanrısı zırhı ve kırmızı pelerin giyen, çekiç tutan adam, şimşekler çarpıyor, güçlü bir süper kahramana dönüşüyor, elektrik izleriyle gökyüzüne uçuyor, sinematik, 4K, ağır çekim.
 ```
 
 [↑ Kategorilere dön](#catalog)

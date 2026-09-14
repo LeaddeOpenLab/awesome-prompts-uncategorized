@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**207** Prompt · Bổ sung mới nhất: **2026-09-14**
+**208** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -63,20 +63,55 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 
 <a name="prompt-2099518049246499014"></a>
 
-### Đang dịch
+### Ảnh chụp flash tự nhiên ban đêm bằng điện thoại thông minh của một phụ nữ trẻ người Ấn Độ ngồi trên ban công sân thượng mặc váy ngắn mini thêu hoa.
 
 Tác giả：[@vybyrn](https://x.com/vybyrn) · [Bài gốc](https://x.com/vybyrn/status/2099518049246499014)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh chụp flash tự nhiên ban đêm bằng điện thoại thông minh của một phụ nữ trẻ người Ấn Độ ngồi trên ban công sân thượng mặc váy ngắn mini thêu hoa.
 
 <img src="images/2099518049246499014-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+{
+  "project_config": {
+    "aesthetic": "UGC chân thực / Chụp ảnh tự nhiên bằng điện thoại thông minh",
+    "aspect_ratio": "9:16",
+    "render_target": "Giao diện 4K"
+  },
+  "subject": {
+    "description": "Ảnh chụp flash tự nhiên ban đêm bằng điện thoại thông minh của một phụ nữ trẻ người Ấn Độ ngồi sành điệu trên ban công sân thượng, mặc chiếc váy ngắn mini thêu hoa màu xanh xô thơm với cổ khoét sâu và cut-out ở eo, tinh nghịch nhăn mũi với nụ cười nhếch mép nhẹ",
+    "demographics": "giữa độ tuổi 20, gốc Nam Á/Ấn Độ, làn da màu ô liu ấm áp với tông vàng, vóc dáng nữ tính thanh mảnh",
+    "body": "thân hình nữ tính thon thả với những đường cong mềm mại tự nhiên, tỷ lệ eo-hông vừa phải, làn da mềm mại tự nhiên lộ ra ở phần cut-out vùng bụng, kết cấu da chân thực chưa chỉnh sửa với lỗ chân lông và lông tơ nhìn thấy rõ",
+    "face": "đường viền hàm thanh tú, gò má mềm mại, nụ cười nhếch mép quyến rũ tinh nghịch với chiếc mũi nhăn lại, đôi mắt mơ màng ấm áp đầy mời gọi, tròng mắt màu nâu sẫm, đôi môi màu hồng nâu tự nhiên mềm mại, lỗ chân lông và các nếp nhăn biểu cảm nhỏ nhìn thấy rõ, khuyên mũi nhỏ bằng bạc",
+    "hair": "những lọn tóc xoăn sóng tự nhiên buông xõa bay trong gió, màu nâu đen espresso đậm, xõa qua một bên vai với những sợi tóc con và hơi xơ rối nhẹ",
+    "wardrobe": "váy ngắn mini lãng mạn màu xanh bạc hà xô thơm — dây áo hai dây mảnh, cổ chữ V khoét sâu, thân áo ôm sát, dải đai dưới ngực thêu hoa, phần cut-out lớn để lộ eo, chân váy vải tulle xếp tầng ngắn trong suốt với hoa màu hồng, lá xanh và điểm xuyết màu xanh lam, gấu váy viền vỏ sò thêu hoa, chiều dài ngắn chuẩn dáng mini kết thúc ở giữa đùi"
+  },
+  "pose": "tư thế ngồi sành điệu trên sàn ban công, cơ thể xoay ba phần tư về phía máy ảnh, một đầu gối co lên, chân kia duỗi thẳng, thân trên tựa vào một cánh tay, đầu quay về phía ống kính với ánh mắt nhìn thẳng nhẹ nhàng và hơi nghiêng đầu",
+  "framing": "góc máy từ trung bình thấp khoảng ngang đầu gối hướng nhẹ lên trên, từ giữa bắp chân đến đỉnh đầu",
+  "scene": "ban công sân thượng tại một thị trấn sườn đồi ở Ấn Độ vào ban đêm, hình bóng núi đen mờ ảo, ánh đèn đường màu vàng ấm áp rải rác và ánh đèn nhà ở phía xa, ánh trăng dịu nhẹ trên bầu trời xanh thẳm, lan can ban công hơi mờ",
+  "lighting": "ánh sáng flash từ điện thoại thông minh chiếm ưu thế cùng ánh sáng môi trường ban đêm ấm áp mờ nhạt, flash chiếu thẳng trực tiếp rõ nét, bóng đổ viền mềm sắc sảo, các điểm sáng phản chiếu rõ rệt trên da và chất liệu vải mỏng, bóng tối tự nhiên sâu thẳm",
+  "camera": "phong cách iPhone 14 Pro, 24mm, có bật đèn flash, nhiễu cảm biến ISO cao trong vùng tối, hạt nhiễu tự nhiên, phong cách chụp đêm bằng điện thoại thông minh chân thực",
+  "style": "ảnh chụp ban đêm chân thực chưa qua chỉnh sửa do bạn bè chụp, chân thực như ảnh chụp, lỗ chân lông nhìn thấy rõ, lông tơ, lông chân mịn, nếp nhăn vải voan mỏng, sự bất đối xứng tự nhiên của khuôn mặt, không dùng bộ lọc làm đẹp",
+  "constraints": {
+    "negative_prompts": [
+      "thừa chi", "thừa cánh tay", "thừa bàn tay", "thừa chân", "bàn tay biến dạng", "giải phẫu xấu",
+      "váy dài", "váy midi", "váy maxi", "chân váy dài đến đầu gối hoặc dài hơn",
+      "hoạt hình", "kết xuất 3D", "minh họa", "anime", "CGI",
+      "da mịn màng", "da như nhựa", "phun khí airbrush", "bộ lọc làm đẹp", "làn da hoàn hảo",
+      "văn bản", "hình mờ", "logo",
+      "ánh sáng studio", "softbox", "quá bão hòa", "HDR quá nặng", "bộ lọc da màu cam",
+      "chân cạo nhẵn nhụi", "mặt búp bê", "thung lũng kỳ lạ", "tư thế cứng đờ"
+    ]
+  },
+  "output": {
+    "count": 1,
+    "size": "1080x1920"
+  }
+}
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2517,13 +2552,13 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2099481577969312010"></a>
 
-### Đang dịch
+### Lời nhắc chân dung đa chất liệu dựa trên hình ảnh tham khảo với người thật tương tác cùng bóng vẽ nguệch ngoạc truyện tranh trên tường.
 
 Tác giả：[@AISuperDomain](https://x.com/AISuperDomain) · [Bài gốc](https://x.com/AISuperDomain/status/2099481577969312010)
 
 Anime / Manga · Truyện tranh / Tiểu thuyết đồ họa · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung đa chất liệu dựa trên hình ảnh tham khảo với người thật tương tác cùng bóng vẽ nguệch ngoạc truyện tranh trên tường.
 
 <img src="images/2099481577969312010-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2532,7 +2567,24 @@ Anime / Manga · Truyện tranh / Tiểu thuyết đồ họa · Chân dung / �
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng hình ảnh tham khảo đã tải lên làm tài liệu tham chiếu nghiêm ngặt về danh tính nhân vật và trang phục. Giữ lại chính xác khuôn mặt, các đường nét, tông màu da, kiểu tóc, màu tóc, phụ kiện, trang phục và bầu không khí tổng thể trong hình ảnh tham khảo, không thực hiện bất kỳ thay đổi nào.
+
+Tạo một bức chân dung nhân vật đa chất liệu chất lượng cao ở khổ dọc (4:5 hoặc 9:16), khung hình bao gồm:
+
+Một nhân vật toàn thân cực kỳ chân thực, ngoại hình nhân vật có độ tương đồng cao với người trong hình ảnh tham khảo.
+Trên bức tường bên cạnh nhân vật, xuất hiện một bóng dáng/hình bóng phong cách vẽ nguệch ngoạc nguệch ngoạc bằng tay màu đen của chính nhân vật đó.
+
+Người thật nên toát lên vẻ đáng yêu, hơi e thẹn, tinh nghịch và tự nhiên tạo một tư thế tinh nghịch, hoàn toàn mới, ngẫu nhiên và mang nét nghịch ngợm mỗi lần tạo ảnh.
+
+Bóng vẽ nguệch ngoạc trên tường cũng phải có ý tưởng tư thế giống như người thật, nhưng được thể hiện cường điệu, hỗn loạn, hoạt hình và kịch tính hơn. Thêm các đường hành động phong cách truyện tranh, ngôi sao, trái tim và hiệu ứng lấp lánh để làm cho bóng nguệch ngoạc trông sống động và vui nhộn.
+
+Sử dụng bức tường studio màu trắng/kem sạch sẽ, nền giữ ở mức tối giản. Sử dụng ánh sáng mềm mại, tự nhiên và đảm bảo cả người thật lẫn bóng vẽ nguệch ngoạc đều hiển thị trọn vẹn trong khung hình, không bị cắt xén.
+
+Nhân vật nguệch ngoạc phải khiến người xem liên tưởng rõ ràng đến người thật thông qua kiểu tóc, phụ kiện, đường nét trang phục cũng như tư thế.
+
+Từ khóa phủ định (Negative Prompt):
+
+Thay đổi trang phục, thay đổi danh tính nhân vật, nhân vật thật thứ hai, bóng đổ thực tế thông thường, phong cách kinh dị, nhân vật anime chuyển thành người thật, nền lộn xộn, tư thế chỉ tay hoặc tư thế bắn súng ngón tay lặp đi lặp lại, tư thế cứng nhắc, thừa chi/ngón tay, biến dạng cơ thể, văn bản, hình mờ, Logo, dấu vết do AI tạo ra.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3798,22 +3850,52 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2099485286187377076"></a>
+<a name="prompt-2099570524859031863"></a>
 
 ### Đang dịch
+
+Tác giả：[@minami\_gunma](https://x.com/minami_gunma) · [Bài gốc](https://x.com/minami_gunma/status/2099570524859031863)
+
+Nhân vật · Đã xuất bản
+
+Bài gốc：[@minami\_gunma](https://x.com/minami_gunma) · [Bài gốc](https://x.com/minami_gunma/status/2099555625672089802)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099570524859031863.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099485286187377076"></a>
+
+### Lời nhắc video hiệu ứng biến hình chuẩn điện ảnh: Người đàn ông Ấn Độ mặc giáp thần sấm giơ búa gọi sét và bay vút lên trời.
 
 Tác giả：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Bài gốc](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video hiệu ứng biến hình chuẩn điện ảnh: Người đàn ông Ấn Độ mặc giáp thần sấm giơ búa gọi sét và bay vút lên trời.
 
 <img src="covers/2099485286187377076.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một người đàn ông Ấn Độ đầy tự tin (cùng khuôn mặt với hình ảnh tham chiếu) mặc bộ giáp uy lực lấy cảm hứng từ thần sấm sét, áo choàng đỏ tung bay, giáp ngực kim loại phát sáng năng lượng màu xanh lam.
+Anh ta đứng trong nhà, sau đó giơ cây búa ma thuật nặng nề lên trời.
+Những đám mây giông bão đen kịt đột ngột hình thành phía trên anh.
+Những tia sét dữ dội đánh trúng cây búa, năng lượng điện chạy dọc khắp cơ thể anh, đôi mắt anh bừng sáng đầy quyền năng, gió thổi dữ dội bao quanh anh đầy kịch tính.
+Nhân vật biến hình thành một siêu anh hùng thần sấm (KHÔNG PHẢI Thor chính xác, mà là phong cách lấy cảm hứng), bộ giáp điện ảnh cực kỳ chi tiết, hiệu ứng phát sáng, hào quang sử thi.
+Sau đó anh ta nhảy vọt và bay vút lên bầu trời với tốc độ cao, để lại vệt sét rực sáng phía sau, biến mất vào trong những đám mây giông bão.
+Siêu thực tế, ánh sáng điện ảnh, quay chậm slow motion, chuyển động máy quay đầy kịch tính, 4K, kỹ xảo VFX dày đặc, màn biến hình siêu anh hùng, cảnh hành động sử thi. Người đàn ông với khuôn mặt giống hình ảnh đầu vào mặc giáp thần sấm và áo choàng đỏ, cầm búa, sét đánh, biến hình thành siêu anh hùng hùng mạnh, bay lên trời với vệt điện quang, chuẩn điện ảnh, 4K, slow motion.
 ```
 
 [↑ Về danh mục](#catalog)

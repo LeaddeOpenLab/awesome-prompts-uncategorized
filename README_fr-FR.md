@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**207** Prompts · Dernier ajout: **2026-09-14**
+**208** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -63,20 +63,55 @@ Traduction en cours
 
 <a name="prompt-2099518049246499014"></a>
 
-### Traduction en cours
+### Photo candide de nuit au flash de smartphone d'une jeune femme indienne assise sur un balcon de toit-terrasse vêtue d'une mini-robe brodée de fleurs.
 
 Auteur：[@vybyrn](https://x.com/vybyrn) · [Publication originale](https://x.com/vybyrn/status/2099518049246499014)
 
 Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo candide de nuit au flash de smartphone d'une jeune femme indienne assise sur un balcon de toit-terrasse vêtue d'une mini-robe brodée de fleurs.
 
 <img src="images/2099518049246499014-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+{
+  "project_config": {
+    "aesthetic": "UGC brut / Photographie candide sur smartphone",
+    "aspect_ratio": "9:16",
+    "render_target": "Rendu 4K"
+  },
+  "subject": {
+    "description": "Photo candide de nuit au flash de smartphone d'une jeune femme indienne assise avec style sur un balcon de toit-terrasse, portant une courte mini-robe vert sauge brodée de fleurs avec un décolleté plongeant et une découpe au ventre, plissant malicieusement le nez avec un léger sourire en coin",
+    "demographics": "milieu de la vingtaine, d'origine sud-asiatique/indienne, peau olive chaude aux sous-tons dorés, silhouette féminine élancée",
+    "body": "silhouette féminine élancée aux courbes douces et naturelles, rapport taille-hanches modéré, peau douce naturelle visible au niveau de la découpe ventrale, texture de peau réaliste et non retouchée avec pores visibles et duvet",
+    "face": "mâchoire délicate, pommettes douces, sourire en coin sensuel et espiègle avec le nez plissé, yeux mi-clos chaleureux et engageants, iris marron foncé, lèvres naturelles rose-brun doux, pores visibles et micro-lignes d'expression, petit clou de nez argenté",
+    "hair": "ondulations naturelles, lâches, ébouriffées par le vent, noir-brun expresso profond, retombant sur une épaule avec mèches rebelles et léger frisottis",
+    "wardrobe": "courte mini-robe romantique vert menthe sauge — fines bretelles spaghetti, décolleté plongeant en V, corsage ajusté, bande sous la poitrine brodée de motifs floraux, large découpe ventrale ouverte, courte jupe en tulle transparent superposé avec fleurs roses, feuilles vertes et accents bleus, ourlet floral festonné, longueur strictement mini s'arrêtant à mi-cuisse"
+  },
+  "pose": "pose assise élégante sur le sol du balcon, corps aux trois quarts tourné vers l'appareil photo, un genou plié vers le haut, l'autre jambe allongée, torse appuyé sur un bras, tête tournée vers l'objectif avec un contact visuel direct et doux et une légère inclinaison de la tête",
+  "framing": "angle moyen-bas pris approximativement au niveau des genoux regardant légèrement vers le haut, de mi-mollet au sommet de la tête",
+  "scene": "balcon sur le toit d'une ville indienne à flanc de colline la nuit, silhouettes sombres de montagnes, lampadaires jaunes chauds dispersés et lumières lointaines de maisons, douce lueur de lune dans un ciel bleu profond, garde-corps du balcon légèrement flou",
+  "lighting": "flash de smartphone dominant avec faible lumière ambiante nocturne et chaude, flash frontal direct et dur, ombres nettes aux bords doux, reflets spéculaires prononcés sur la peau et le tissu transparent, ombres naturelles profondes",
+  "camera": "style iPhone 14 Pro, 24mm, flash déclenché, bruit de capteur ISO élevé dans les ombres, grain naturel, rendu authentique de smartphone la nuit",
+  "style": "photo de nuit brute, non filtrée, prise sur le vif par un ami, photoréaliste, pores visibles, duvet, fins poils sur les jambes, plis du tissu transparent, asymétrie faciale naturelle, sans filtre de beauté",
+  "constraints": {
+    "negative_prompts": [
+      "membres supplémentaires", "bras supplémentaires", "mains supplémentaires", "jambes supplémentaires", "mains déformées", "mauvaise anatomie",
+      "robe longue", "robe midi", "robe maxi", "jupe arrivant au genou ou plus longue",
+      "dessin animé", "rendu 3D", "illustration", "anime", "CGI",
+      "peau lisse", "peau plastique", "aérographe", "filtre de beauté", "peau parfaite",
+      "texte", "filigrane", "logo",
+      "éclairage de studio", "boîte à lumière", "sursaturé", "fort HDR", "filtre peau orange",
+      "jambes rasées", "visage de poupée", "vallée de l'étrange", "pose rigide"
+    ]
+  },
+  "output": {
+    "count": 1,
+    "size": "1080x1920"
+  }
+}
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2482,13 +2517,13 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2099481577969312010"></a>
 
-### Traduction en cours
+### Prompt de portrait en techniques mixtes basé sur une image de référence montrant l'interaction entre une personne réelle et une ombre doodle de bande dessinée dessinée au mur.
 
 Auteur：[@AISuperDomain](https://x.com/AISuperDomain) · [Publication originale](https://x.com/AISuperDomain/status/2099481577969312010)
 
 Anime / Manga · Bande dessinée / Roman graphique · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait en techniques mixtes basé sur une image de référence montrant l'interaction entre une personne réelle et une ombre doodle de bande dessinée dessinée au mur.
 
 <img src="images/2099481577969312010-1.jpg" alt="Image 1" width="480" />
 
@@ -2497,7 +2532,24 @@ Anime / Manga · Bande dessinée / Roman graphique · Portrait / Selfie · Perso
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez l'image de référence téléchargée comme référence stricte pour l'identité et la tenue du personnage. Conservez fidèlement le visage, les traits, le teint, la coiffure, la couleur des cheveux, les accessoires, les vêtements et l'atmosphère générale de l'image de référence, sans y apporter aucune modification.
+
+Créez un portrait en techniques mixtes de haute qualité au format vertical (4:5 ou 9:16), comprenant :
+
+Un personnage en pied très réaliste, dont l'apparence physique est hautement fidèle à la personne de l'image de référence.
+Sur le mur à côté du personnage, apparaît une silhouette/ombre du même personnage dans un style doodle noir dessiné à la main.
+
+Le personnage réel doit dégager une impression mignonne, légèrement timide et espiègle, adoptant naturellement une pose joueuse inédite, aléatoire et malicieuse à chaque génération.
+
+L'ombre doodle dessinée à la main sur le mur doit reprendre la même idée de pose que la vraie personne, mais de manière beaucoup plus exagérée, chaotique, cartoon et théâtrale. Ajoutez des lignes d'action style manga, des étoiles, des cœurs et des effets d'étincelles pour rendre l'ombre doodle vivante et amusante.
+
+Utilisez un mur de studio épuré, blanc ou crème, en gardant l'arrière-plan minimaliste. Adoptez une lumière douce et naturelle, et veillez à ce que la personne réelle et l'ombre doodle soient entièrement visibles dans le cadre, sans être coupées.
+
+Le personnage doodle doit évoquer clairement la personne réelle grâce à la coiffure, aux accessoires, à la silhouette des vêtements et à la pose.
+
+Invite négative (Negative Prompt) :
+
+changement de vêtements, modification de l'identité du personnage, deuxième personnage réel, ombre réaliste ordinaire, style horreur, personnage d'anime en prise de vue réelle, arrière-plan encombré, poses répétitives de pointage du doigt ou de pistolet avec les doigts, poses rigides, membres/doigts superflus, déformations corporelles, texte, filigrane, logo, traces de génération par IA.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3753,22 +3805,46 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2099485286187377076"></a>
+<a name="prompt-2099570524859031863"></a>
 
 ### Traduction en cours
+
+Auteur：[@minami\_gunma](https://x.com/minami_gunma) · [Publication originale](https://x.com/minami_gunma/status/2099570524859031863)
+
+Personnage · Publié
+
+Publication originale：[@minami\_gunma](https://x.com/minami_gunma) · [Publication originale](https://x.com/minami_gunma/status/2099555625672089802)
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099570524859031863.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099485286187377076"></a>
+
+### Prompt de vidéo VFX cinématographique de transformation montrant un homme indien en armure de dieu du tonnerre brandissant un marteau, invoquant la foudre et s'envolant dans le ciel.
 
 Auteur：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Publication originale](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo VFX cinématographique de transformation montrant un homme indien en armure de dieu du tonnerre brandissant un marteau, invoquant la foudre et s'envolant dans le ciel.
 
 <img src="covers/2099485286187377076.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un homme indien confiant (même visage que l'image de référence) portant une puissante armure inspirée du dieu du tonnerre, une cape rouge flottante, une armure de poitrine métallique brillant d'une énergie bleue. Il se tient à l'intérieur, puis lève un lourd marteau magique vers le ciel. De sombres nuages d'orage se forment soudainement au-dessus de lui. Des éclairs intenses frappent le marteau, de l'énergie électrique parcourt son corps, ses yeux brillent de puissance, le vent souffle de façon spectaculaire autour de lui. Le personnage se transforme en un super-héros dieu du tonnerre (PAS exactement Thor, style inspiré), armure cinématographique hautement détaillée, effets lumineux, aura épique. Puis il saute et s'envole dans le ciel à grande vitesse, laissant derrière lui de brillantes traînées d'éclairs, disparaissant dans les nuages d'orage. Ultra réaliste, éclairage cinématographique, ralenti, mouvement de caméra dramatique, 4K, effets visuels VFX intenses, transformation de super-héros, scène d'action épique. Homme avec le même visage que l'image d'entrée portant une armure de dieu du tonnerre et une cape rouge, tenant un marteau, la foudre frappe, se transforme en un puissant super-héros, s'envole dans le ciel avec des traînées électriques, cinématographique, 4K, ralenti.
 ```
 
 [↑ Retour aux catégories](#catalog)
