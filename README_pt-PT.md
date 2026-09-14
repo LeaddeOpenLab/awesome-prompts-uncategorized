@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**182** Prompts · Adição mais recente: **2026-09-14**
+**183** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099326446942777697"></a>
+
+### Tradução em curso
+
+Autor：[@0xkyne](https://x.com/0xkyne) · [Publicação original](https://x.com/0xkyne/status/2099326446942777697)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+Publicação original：[@0xkyne](https://x.com/0xkyne) · [Publicação original](https://x.com/0xkyne/status/2099173073148883076)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099326446942777697-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099326446942777697-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099326446942777697-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099309110684778823"></a>
 

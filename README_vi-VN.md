@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**182** Prompt · Bổ sung mới nhất: **2026-09-14**
+**183** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099326446942777697"></a>
+
+### Đang dịch
+
+Tác giả：[@0xkyne](https://x.com/0xkyne) · [Bài gốc](https://x.com/0xkyne/status/2099326446942777697)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@0xkyne](https://x.com/0xkyne) · [Bài gốc](https://x.com/0xkyne/status/2099173073148883076)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099326446942777697-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099326446942777697-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099326446942777697-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099309110684778823"></a>
 

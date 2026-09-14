@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**182** Prompts · Latest addition: **2026-09-14**
+**183** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099326446942777697"></a>
+
+### Candid real-life snapshot of a young woman making a &quot;shh&quot; gesture in front of an open refrigerator in a late-night kitchen
+
+Author：[@0xkyne](https://x.com/0xkyne) · [Source](https://x.com/0xkyne/status/2099326446942777697)
+
+Photography · Portrait / Selfie · Character · Published
+
+Source：[@0xkyne](https://x.com/0xkyne) · [Source](https://x.com/0xkyne/status/2099173073148883076)
+
+**Summary:** Candid real-life snapshot of a young woman making a &quot;shh&quot; gesture in front of an open refrigerator in a late-night kitchen
+
+<img src="images/2099326446942777697-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099326446942777697-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099326446942777697-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+9:16 vertical orientation, authentic real-life iPhone close-up snapshot photography, late-night kitchen scene, with a slight Y2K CCD direct-flash snapshot vibe. The scene feels like a roommate waking up in the middle of the night and accidentally catching a glimpse at the kitchen doorway, carrying a distinct sense of daily life, authenticity, intimacy, and a natural touch of romance.
+
+The subject is an unmistakably adult 22-year-old East Asian young woman with delicate, natural facial features, a small face, soft and relaxed shoulder and neck lines, authentic fine skin with subtle pores and a natural skin texture, and long, straight black hair; her overall demeanor is relaxed yet attractive. She has a mature, attractive figure with very full, rounded, and soft breasts that exhibit a noticeable natural sense of gravity and genuine downward curves, a clear waistline, graceful hip-to-leg proportions, and slender legs; her overall aura is lazy, soft, and casual.
+
+She is wearing an oversized white boyfriend-style shirt with 3 buttons undone, made of light, soft fabric, with the collar naturally loosened and the front placket gently draping down; paired with minimalist pink loungewear shorts, barefoot, making her whole outfit look natural and casual, carrying the feel of someone who just got up in the middle of the night looking for a snack. The loose fabric of the top drapes naturally with her movement, shaping a soft, realistic silhouette of her body.
+
+The subject is positioned in front of an open refrigerator, directly facing the camera, with her upper body leaning noticeably forward and bending down close to the lens, shoulders naturally relaxed, and body center of gravity shifted slightly forward. One hand is placed behind her back; the other hand is raised near her lips, her index finger making a gentle "shh" gesture, with her palm and arm positioned beside her face without blocking her chest or neckline area.
+
+She looks slightly upward toward the camera, her expression carrying a hint of shyness, playfulness, and a sense of a shared secret after being caught, her lips gently pursed, as if signaling the camera to stay quiet.
+
+Due to the pronounced forward-leaning, bowed posture, the loose shirt neckline naturally hangs down, fully revealing the collarbone, full upper bust, and deep, soft cleavage contour. The bust has a prominent sense of volume, rounded and soft in form, with a natural drop and authentic curve shaped by gravity; the fabric drapes naturally along the bust creating gentle folds, rendering the frontal contour even more dimensional. The image maintains complete clothing coverage, crafting a clear yet restrained visual sensuality through the natural neckline, pose, and perspective.
+
+The refrigerator door is wide open, with the cool white refrigerator light serving as the primary light source, clearly illuminating her face, shoulders, neck, chest, arms, and the front of her legs; the rest of the kitchen remains overall dim, retaining only a small amount of warm ambient light to create a natural cool-warm contrast. The background is an ordinary, realistic domestic kitchen: cabinets, countertops, edges of a dining table, and everyday clutter exist inconspicuously, serving the subject without distracting from her. The foreground may include a slight obstruction like a door frame, table corner, or chair back to enhance the candid snapshot feel from a roommate's perspective.
+
+The shot uses a 24–28mm wide-angle lens, photographed at close range, with the camera position slightly higher than the subject's eye level to form a slight high-angle shot, facing the subject directly. The close-up wide angle and forward-leaning posture bring her upper body naturally close to the lens, prioritizing her face, shy expression, "shh" gesture, milk, naturally open neckline, and full, dimensional frontal contour, while also keeping her waistline and part of her legs in frame.
+
+The overall atmosphere is authentic, intimate, restrained, natural, and appealing, like a moment stumbled upon by chance during late-night life, with the sensuality arising from the subject herself, the loose clothing, the leaning posture, the close-up lens, and the genuine lighting.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099309110684778823"></a>
 

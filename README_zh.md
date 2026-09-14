@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**182** 条内容 · 最新收录: **2026-09-14**
+**183** 条内容 · 最新收录: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2099326446942777697"></a>
+
+### 翻译中
+
+作者：[@0xkyne](https://x.com/0xkyne) · [查看 X 原帖](https://x.com/0xkyne/status/2099326446942777697)
+
+摄影 · 人像 / 自拍 · 角色 · 已推流
+
+查看 X 原帖：[@0xkyne](https://x.com/0xkyne) · [查看 X 原帖](https://x.com/0xkyne/status/2099173073148883076)
+
+**概括:** 翻译中
+
+<img src="images/2099326446942777697-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099326446942777697-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2099326446942777697-3.jpg" alt="图片 3" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099309110684778823"></a>
 

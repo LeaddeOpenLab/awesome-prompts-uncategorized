@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**182** Prompt · Ultima aggiunta: **2026-09-14**
+**183** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099326446942777697"></a>
+
+### Traduzione in corso
+
+Autore：[@0xkyne](https://x.com/0xkyne) · [Post originale](https://x.com/0xkyne/status/2099326446942777697)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+Post originale：[@0xkyne](https://x.com/0xkyne) · [Post originale](https://x.com/0xkyne/status/2099173073148883076)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099326446942777697-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099326446942777697-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2099326446942777697-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099309110684778823"></a>
 

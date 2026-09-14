@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**182** 筆內容 · 最新收錄: **2026-09-14**
+**183** 筆內容 · 最新收錄: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2099326446942777697"></a>
+
+### 翻譯中
+
+作者：[@0xkyne](https://x.com/0xkyne) · [查看 X 原帖](https://x.com/0xkyne/status/2099326446942777697)
+
+攝影 · 人像 / 自拍 · 角色 · 已推流
+
+查看 X 原帖：[@0xkyne](https://x.com/0xkyne) · [查看 X 原帖](https://x.com/0xkyne/status/2099173073148883076)
+
+**概括:** 翻譯中
+
+<img src="images/2099326446942777697-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099326446942777697-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2099326446942777697-3.jpg" alt="圖片 3" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099309110684778823"></a>
 
