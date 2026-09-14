@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:20:05.992Z",
+  "model": "unknown-image",
+  "prompt": "制作一张完整、独立的3:4竖版上下对比旅行转绘海报。上半部分高保真保留输入的意大利旅行街拍，保持人物、服装、动作、建筑、街道、光线、色彩、透视和主体位置，不做插画化。下半部分把同一人物与同一街道重新绘制成“童趣蜡笔城市记忆”。\n\n只提炼原照片中真实可见且有识别意义的城市细节，例如窄巷透视、暖色墙面、窗户、路灯、石板路、节日灯饰、栏杆或游客手中的地图；根据每张照片自身内容选择，不套用固定山景、汽车或通用地标。\n\n保留主要人物的数量、相对位置、姿态、动作方向、服装轮廓及人与街道的关系。人物可以稚拙简化，但必须一眼对应原照片。\n\n下半使用米白粗纹纸上的儿童蜡笔、彩色铅笔与油性笔涂鸦：歪斜粗黑轮廓、明显蜡笔颗粒、反复涂抹、不均匀填色、偶尔越界、稚拙透视和天真比例，像小朋友凭旅行记忆认真画出的城市。颜色从原照片提取并提高童趣饱和度，但不同照片不要固定使用同一套配色。\n\n上下约各占一半，中间仅使用一条干净的细白横线。下半不能等比例描摹完整照片，需要缩小提炼或重新组织人物和最有意义的城市细节，并保留米白纸张呼吸感。\n\n下半必须是真正重新绘制，不是照片滤镜。不要发明额外地标、车辆、人物或动物。不要添加标题、字幕、标签、logo、水印、原图角标、AI角标、乱码、九宫格或多图拼贴；避免精致矢量插画、3D渲染和写实下半。",
+  "promptTranslations": {
+    "en": "Create a complete, standalone 3:4 vertical top-and-bottom comparison travel redraw poster. The upper half retains the input Italian travel street photo with high fidelity, preserving the people, clothing, actions, architecture, streets, lighting, colors, perspective, and subject positioning without any stylization or illustration effects. The lower half redraws the exact same people and the same street into 'childlike crayon city memories'. Only extract urban details that are truly visible and recognizable in the original photo, such as narrow alley perspective, warm-toned walls, windows, streetlights, cobblestone paths, holiday illuminations, railings, or maps held by tourists; tailor choices to the specific contents of each photo without forcing fixed mountain views, cars, or generic landmarks. Maintain the number of main characters, their relative positions, postures, action directions, clothing silhouettes, and their relationship with the street. The figures may be naively simplified, but must be instantly recognizable as corresponding to the original photo. The lower half uses children's crayons, colored pencils, and oil-based markers doodling on off-white textured paper: crooked thick black outlines, distinct crayon texture and grain, repeated scribbling, uneven coloring, occasional coloring outside the lines, naive perspective, and innocent proportions, as if earnestly drawn by a young child from travel memories. Colors should be sampled from the original photo with boosted childlike saturation, but avoid using a fixed color scheme across different photos. The top and bottom halves each take up roughly half the canvas, separated solely by a clean, thin white horizontal line in the middle. The bottom half must not be an equal-scale trace of the full photo; instead, scale down, condense, or reorganize the people and the most meaningful urban details, keeping the off-white paper's sense of breathing room. The bottom half must be a genuine redraw, not a photo filter effect. Do not invent extra landmarks, vehicles, people, or animals. Do not add titles, captions, tags, logos, watermarks, original image corner badges, AI badges, gibberish text, nine-grid layouts, or multi-image collages; avoid sleek vector illustrations, 3D rendering, and realistic styles in the bottom half."
+  },
+  "summaryTranslations": {
+    "en": "Transform a real travel street photo into a 3:4 top-and-bottom comparison poster, retaining the original photo on top and redrawing the bottom in a rough, childlike crayon style."
+  },
+  "translationVersion": 2,
+  "summary": "将真实旅行街拍转化为3:4上下对比海报，上部保留原图，下部转绘为粗糙童趣蜡笔画风。",
+  "summaryEn": "Converts travel street photos into 3:4 split comparison posters with a childlike crayon sketch at the bottom.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099501924278235384",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2099501924278235384",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-14T14:14:00.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "zh",
+    "originalText": "【CHILDLIKE CRAYON CITY｜童趣蜡笔城市记忆】\n这条 Prompt 把“童趣”落实在歪斜轮廓、蜡质涂痕和稚拙透视上\n\nprompt：\n制作一张完整、独立的3:4竖版上下对比旅行转绘海报。上半部分高保真保留输入的意大利旅行街拍，保持人物、服装、动作、建筑、街道、光线、色彩、透视和主体位置，不做插画化。下半部分把同一人物与同一街道重新绘制成“童趣蜡笔城市记忆”。\n\n只提炼原照片中真实可见且有识别意义的城市细节，例如窄巷透视、暖色墙面、窗户、路灯、石板路、节日灯饰、栏杆或游客手中的地图；根据每张照片自身内容选择，不套用固定山景、汽车或通用地标。\n\n保留主要人物的数量、相对位置、姿态、动作方向、服装轮廓及人与街道的关系。人物可以稚拙简化，但必须一眼对应原照片。\n\n下半使用米白粗纹纸上的儿童蜡笔、彩色铅笔与油性笔涂鸦：歪斜粗黑轮廓、明显蜡笔颗粒、反复涂抹、不均匀填色、偶尔越界、稚拙透视和天真比例，像小朋友凭旅行记忆认真画出的城市。颜色从原照片提取并提高童趣饱和度，但不同照片不要固定使用同一套配色。\n\n上下约各占一半，中间仅使用一条干净的细白横线。下半不能等比例描摹完整照片，需要缩小提炼或重新组织人物和最有意义的城市细节，并保留米白纸张呼吸感。\n\n下半必须是真正重新绘制，不是照片滤镜。不要发明额外地标、车辆、人物或动物。不要添加标题、字幕、标签、logo、水印、原图角标、AI角标、乱码、九宫格或多图拼贴；避免精致矢量插画、3D渲染和写实下半。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLf3yjaoAEW23o.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLf3yjaoAEW23o.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLf_AHakAEmrgn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLf_AHakAEmrgn.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLgAeSakAAl44F.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLgAeSakAAl44F.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLgBfna8AA6bNf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLgBfna8AA6bNf.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 771
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2099501924278235384",
+  "coverUrl": "https://pbs.twimg.com/media/HSLf3yjaoAEW23o.jpg",
+  "coverPath": "images/2099501924278235384-1.jpg",
+  "imagePaths": [
+    "images/2099501924278235384-1.jpg",
+    "images/2099501924278235384-2.jpg",
+    "images/2099501924278235384-3.jpg",
+    "images/2099501924278235384-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSLf3yjaoAEW23o",
+    "x-image:/media/HSLf_AHakAEmrgn",
+    "x-image:/media/HSLgAeSakAAl44F",
+    "x-image:/media/HSLgBfna8AA6bNf",
+    "x-post:2099501924278235384"
+  ],
+  "analysis": {
+    "summary": "将真实旅行街拍转化为3:4上下对比海报，上部保留原图，下部转绘为粗糙童趣蜡笔画风。",
+    "summaryEn": "Converts travel street photos into 3:4 split comparison posters with a childlike crayon sketch at the bottom.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均呈现3:4竖版上下对比排版，上为街拍照，下为童趣蜡笔风格手绘，严格契合提示词要求。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张完整、独立的3:4竖版上下对比旅行转绘海报。上半部分高保真保留输入的意大利旅行街拍，保持人物、服装、动作、建筑、街道、光线、色彩、透视和主体位置，不做插画化。下半部分把同一人物与同一街道重新绘制成“童趣蜡笔城市记忆”。\n\n只提炼原照片中真实可见且有识别意义的城市细节，例如窄巷透视、暖色墙面、窗户、路灯、石板路、节日灯饰、栏杆或游客手中的地图；根据每张照片自身内容选择，不套用固定山景、汽车或通用地标。\n\n保留主要人物的数量、相对位置、姿态、动作方向、服装轮廓及人与街道的关系。人物可以稚拙简化，但必须一眼对应原照片。\n\n下半使用米白粗纹纸上的儿童蜡笔、彩色铅笔与油性笔涂鸦：歪斜粗黑轮廓、明显蜡笔颗粒、反复涂抹、不均匀填色、偶尔越界、稚拙透视和天真比例，像小朋友凭旅行记忆认真画出的城市。颜色从原照片提取并提高童趣饱和度，但不同照片不要固定使用同一套配色。\n\n上下约各占一半，中间仅使用一条干净的细白横线。下半不能等比例描摹完整照片，需要缩小提炼或重新组织人物和最有意义的城市细节，并保留米白纸张呼吸感。\n\n下半必须是真正重新绘制，不是照片滤镜。不要发明额外地标、车辆、人物或动物。不要添加标题、字幕、标签、logo、水印、原图角标、AI角标、乱码、九宫格或多图拼贴；避免精致矢量插画、3D渲染和写实下半。",
+    "sourceRange": {
+      "start": 76,
+      "end": 634
+    },
+    "translations": {
+      "zh": "制作一张完整、独立的3:4竖版上下对比旅行转绘海报。上半部分高保真保留输入的意大利旅行街拍，保持人物、服装、动作、建筑、街道、光线、色彩、透视和主体位置，不做插画化。下半部分把同一人物与同一街道重新绘制成“童趣蜡笔城市记忆”。\n\n只提炼原照片中真实可见且有识别意义的城市细节，例如窄巷透视、暖色墙面、窗户、路灯、石板路、节日灯饰、栏杆或游客手中的地图；根据每张照片自身内容选择，不套用固定山景、汽车或通用地标。\n\n保留主要人物的数量、相对位置、姿态、动作方向、服装轮廓及人与街道的关系。人物可以稚拙简化，但必须一眼对应原照片。\n\n下半使用米白粗纹纸上的儿童蜡笔、彩色铅笔与油性笔涂鸦：歪斜粗黑轮廓、明显蜡笔颗粒、反复涂抹、不均匀填色、偶尔越界、稚拙透视和天真比例，像小朋友凭旅行记忆认真画出的城市。颜色从原照片提取并提高童趣饱和度，但不同照片不要固定使用同一套配色。\n\n上下约各占一半，中间仅使用一条干净的细白横线。下半不能等比例描摹完整照片，需要缩小提炼或重新组织人物和最有意义的城市细节，并保留米白纸张呼吸感。\n\n下半必须是真正重新绘制，不是照片滤镜。不要发明额外地标、车辆、人物或动物。不要添加标题、字幕、标签、logo、水印、原图角标、AI角标、乱码、九宫格或多图拼贴；避免精致矢量插画、3D渲染和写实下半。",
+      "en": "Create a 3:4 vertical comparison poster. The top half keeps the original travel street photo with high fidelity. The bottom half redraws the scene and people into a childlike crayon and colored pencil style on off-white textured paper with naive perspective, rough outlines, and crayon textures, separated by a thin white line."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "旅行街拍转绘为上下对比的童趣蜡笔插画海报",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
