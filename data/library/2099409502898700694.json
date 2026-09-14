@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T08:25:25.670Z",
+  "model": "unknown-image",
+  "prompt": "16:9, adult sensual East Asian woman in a bright bathroom, wrapped in a thin white robe slipping off one shoulder, leaning lightly toward the mirror, one hand brushing damp hair back, eyes half-lowered, soft parted lips, introspective and vulnerable mood, pale stone sink, natural daylight, close medium shot from over-shoulder perspective, luminous skin, understated sensuality, clean modern interior, gentle realism, subtle moisture and softness, elegant private-moment atmosphere.",
+  "promptTranslations": {
+    "en": "16:9, adult sensual East Asian woman in a bright bathroom, wrapped in a thin white robe slipping off one shoulder, leaning lightly toward the mirror, one hand brushing damp hair back, eyes half-lowered, soft parted lips, introspective and vulnerable mood, pale stone sink, natural daylight, close medium shot from over-shoulder perspective, luminous skin, understated sensuality, clean modern interior, gentle realism, subtle moisture and softness, elegant private-moment atmosphere."
+  },
+  "summaryTranslations": {
+    "en": "Portrait photo of an East Asian woman in a bathrobe brushing damp hair in front of a bathroom mirror."
+  },
+  "translationVersion": 2,
+  "summary": "浴室镜前抚弄湿发的浴袍东亚女性写真。",
+  "summaryEn": "Intimate portrait of an East Asian woman adjusting damp hair in a robe before a bathroom mirror.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099409502898700694",
+    "canonicalUrl": "https://x.com/mumaren_2/status/2099409502898700694",
+    "author": {
+      "username": "mumaren_2",
+      "displayName": "Allen",
+      "profileUrl": "https://x.com/mumaren_2"
+    },
+    "publishedAt": "2026-09-14T08:06:45.000Z",
+    "collectedAt": "2026-09-14T08:16:26.433Z",
+    "language": "en",
+    "originalText": "Theme: After Bath Mirror \n\nStyle: Intimate minimal portrait, in the spirit of Harley Weir\n\nPrompt: 16:9, adult sensual East Asian woman in a bright bathroom, wrapped in a thin white robe slipping off one shoulder, leaning lightly toward the mirror, one hand brushing damp hair back, eyes half-lowered, soft parted lips, introspective and vulnerable mood, pale stone sink, natural daylight, close medium shot from over-shoulder perspective, luminous skin, understated sensuality, clean modern interior, gentle realism, subtle moisture and softness, elegant private-moment atmosphere.\n\nNegative: night city, neon, cyberpunk, explicit nudity, pornographic pose, vulgar eroticism, exaggerated anatomy, plastic skin, heavy retouching, dark club lighting, clutter, HDR",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSKZx4RaIAAM-Ok.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSKZx4RaIAAM-Ok.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSKZzXbasAAW5_f.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSKZzXbasAAW5_f.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 19
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/mumaren_2/status/2099409502898700694",
+  "coverUrl": "https://pbs.twimg.com/media/HSKZx4RaIAAM-Ok.jpg",
+  "coverPath": "images/2099409502898700694-1.jpg",
+  "imagePaths": [
+    "images/2099409502898700694-1.jpg",
+    "images/2099409502898700694-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSKZx4RaIAAM-Ok",
+    "x-image:/media/HSKZzXbasAAW5_f",
+    "x-post:2099409502898700694"
+  ],
+  "analysis": {
+    "summary": "浴室镜前抚弄湿发的浴袍东亚女性写真。",
+    "summaryEn": "Intimate portrait of an East Asian woman adjusting damp hair in a robe before a bathroom mirror.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated photos clearly display an East Asian woman in a white bathrobe, wet hair, bathroom mirror setting, and soft natural daylight matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "16:9, adult sensual East Asian woman in a bright bathroom, wrapped in a thin white robe slipping off one shoulder, leaning lightly toward the mirror, one hand brushing damp hair back, eyes half-lowered, soft parted lips, introspective and vulnerable mood, pale stone sink, natural daylight, close medium shot from over-shoulder perspective, luminous skin, understated sensuality, clean modern interior, gentle realism, subtle moisture and softness, elegant private-moment atmosphere.",
+    "sourceRange": {
+      "start": 99,
+      "end": 582
+    },
+    "translations": {
+      "zh": "16:9，明亮浴室中性感成熟的东亚女性，身裹滑落一侧香肩的轻薄白浴袍，轻靠镜前，一手将湿发往后梳理，眼眸微垂，双唇轻启，内省脆弱情绪，浅色石台水槽，自然日光，过肩视角中景，光泽肌肤，含蓄性感，现代简洁内饰，柔和写实感，微妙水汽与温润感，优雅私密氛围。",
+      "en": "16:9, adult sensual East Asian woman in a bright bathroom, wrapped in a thin white robe slipping off one shoulder, leaning lightly toward the mirror, one hand brushing damp hair back, eyes half-lowered, soft parted lips, introspective and vulnerable mood, pale stone sink, natural daylight, close medium shot from over-shoulder perspective, luminous skin, understated sensuality, clean modern interior, gentle realism, subtle moisture and softness, elegant private-moment atmosphere."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
