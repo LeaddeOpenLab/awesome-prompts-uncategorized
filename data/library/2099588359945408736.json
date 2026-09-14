@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T20:22:14.192Z",
+  "model": "grok",
+  "prompt": "DJs encounter analog hipsters with acoustic instrument and sweaters",
+  "promptTranslations": {
+    "en": "DJs encounter analog hipsters with acoustic instrument and sweaters"
+  },
+  "summaryTranslations": {
+    "en": "DJs encounter analog hipsters with acoustic instrument and sweaters"
+  },
+  "translationVersion": 2,
+  "summary": "DJs encounter analog hipsters with acoustic instrument and sweaters",
+  "summaryEn": "DJs encounter analog hipsters with acoustic instrument and sweaters",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099588359945408736",
+    "canonicalUrl": "https://x.com/erikson_michael/status/2099588359945408736",
+    "author": {
+      "username": "erikson_michael",
+      "displayName": "Michael Erikson",
+      "profileUrl": "https://x.com/erikson_michael"
+    },
+    "publishedAt": "2026-09-14T19:57:28.000Z",
+    "collectedAt": "2026-09-14T20:16:41.527Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nDJs encounter analog hipsters with acoustic instrument and sweaters https://t.co/fgOnDABhCI",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/erikson_michael/status/2099588359945408736",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099588315452174336/img/EOCfitKnK72foeO6.jpg",
+        "analysisUrl": "https://x.com/erikson_michael/status/2099588359945408736"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/erikson_michael/status/2099588359945408736",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099588315452174336/img/EOCfitKnK72foeO6.jpg",
+  "coverPath": "covers/2099588359945408736.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099588315452174336",
+    "x-post:2099588359945408736"
+  ],
+  "analysis": {
+    "summary": "DJs encounter analog hipsters with acoustic instrument and sweaters",
+    "summaryEn": "DJs encounter analog hipsters with acoustic instrument and sweaters",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video depicts electronic DJs on scooters confronting sweater-wearing hipsters playing acoustic string instruments."
+    },
+    "videoQuality": null,
+    "originalPrompt": "DJs encounter analog hipsters with acoustic instrument and sweaters",
+    "sourceRange": {
+      "start": 22,
+      "end": 89
+    },
+    "translations": {
+      "zh": "DJ们遇到带着原声乐器并穿着毛衣的复古文青",
+      "en": "DJs encounter analog hipsters with acoustic instrument and sweaters"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
