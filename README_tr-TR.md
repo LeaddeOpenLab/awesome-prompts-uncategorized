@@ -3592,20 +3592,32 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2099371183498277308"></a>
 
-### Çeviri sürüyor
+### Masa üzerinde ürün çekimleri, makro ayrıntılar ve yaşam tarzı sahneleri içeren Apple AirPods Max için 10 saniyelik dikey reklam istemi.
 
 Yazar：[@Urwa\_345](https://x.com/Urwa_345) · [Orijinal gönderi](https://x.com/Urwa_345/status/2099371183498277308)
 
 Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Masa üzerinde ürün çekimleri, makro ayrıntılar ve yaşam tarzı sahneleri içeren Apple AirPods Max için 10 saniyelik dikey reklam istemi.
 
 <img src="covers/2099371183498277308.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Apple AirPods Max için dikey 9:16 formatında sinematik 10 saniyelik premium bir reklam oluşturun.
+
+0–2 sn: Minimalist bir masa üzerinde duran AirPods Max'e doğru yavaş kamera yaklaşması, dramatik stüdyo aydınlatması.
+
+2–4 sn: Alüminyum kulaklık kapağı ve Digital Crown boyunca birinci sınıf malzemeleri ve ince ayrıntıları vurgulayan makro kamera hareketi.
+
+4–6 sn: Büyük bir pencerenin yanında kulaklığı takan bir kişiye yumuşak geçiş, huzurlu yaşam tarzı atmosferi, yüz asla gösterilmez.
+
+6–8 sn: Arka plan yumuşak bir şekilde modern bir çalışma alanına dönüşürken kamera kulaklığın etrafında yavaşça döner.
+
+8–10 sn: Sade ve birinci sınıf bir arka planda ortalanmış AirPods Max'in son ana çekimi, hafif sinematik kamera hareketi ve yumuşak yansımalar.
+
+Fotogerçekçi Apple tarzı reklam, gerçekçi materyaller, yumuşak geçişler, sinematik aydınlatma, sığ alan derinliği, premium teknoloji kampanyası, metin katmanı yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

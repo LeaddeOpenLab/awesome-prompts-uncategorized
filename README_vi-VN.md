@@ -3620,20 +3620,32 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2099371183498277308"></a>
 
-### Đang dịch
+### Lời nhắc quảng cáo dọc 10 giây cho Apple AirPods Max bao gồm các cảnh quay sản phẩm trên bàn, chi tiết cận cảnh và các cảnh phong cách sống.
 
 Tác giả：[@Urwa\_345](https://x.com/Urwa_345) · [Bài gốc](https://x.com/Urwa_345/status/2099371183498277308)
 
 Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quảng cáo dọc 10 giây cho Apple AirPods Max bao gồm các cảnh quay sản phẩm trên bàn, chi tiết cận cảnh và các cảnh phong cách sống.
 
 <img src="covers/2099371183498277308.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một quảng cáo cao cấp mang đậm chất điện ảnh dài 10 giây cho Apple AirPods Max ở định dạng dọc 9:16.
+
+0–2 giây: Máy quay từ từ tiến lại gần AirPods Max đang đặt trên một chiếc bàn tối giản, ánh sáng studio đầy ấn tượng.
+
+2–4 giây: Chuyển động máy quay cận cảnh (macro) lướt qua phần chụp tai bằng nhôm và núm xoay Digital Crown, làm nổi bật các vật liệu cao cấp cùng chi tiết tinh xảo.
+
+4–6 giây: Chuyển cảnh mượt mà sang một người đang đeo tai nghe bên cạnh cửa sổ lớn, bầu không khí phong cách sống thanh bình, không bao giờ để lộ khuôn mặt.
+
+6–8 giây: Máy quay từ từ quay tròn quanh tai nghe trong khi hậu cảnh nhẹ nhàng chuyển đổi thành không gian làm việc hiện đại.
+
+8–10 giây: Cú máy cận cảnh nổi bật cuối cùng (hero shot) với AirPods Max nằm ở trung tâm trên phông nền cao cấp tinh tế, chuyển động máy quay điện ảnh nhẹ nhàng và ánh phản chiếu mềm mại.
+
+Quảng cáo phong cách Apple chân thực như ảnh chụp, chất liệu chân thực, chuyển cảnh mượt mà, ánh sáng điện ảnh, độ sâu trường ảnh nông, chiến dịch công nghệ cao cấp, không có lớp phủ văn bản, không có watermark.
 ```
 
 [↑ Về danh mục](#catalog)

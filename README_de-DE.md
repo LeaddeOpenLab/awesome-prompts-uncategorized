@@ -3575,20 +3575,32 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2099371183498277308"></a>
 
-### Übersetzung läuft
+### Prompt für einen 10-sekündigen vertikalen Werbespot für Apple AirPods Max mit Produktaufnahmen auf dem Schreibtisch, Makrodetails und Lifestyle-Szenen.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Originalbeitrag](https://x.com/Urwa_345/status/2099371183498277308)
 
 Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für einen 10-sekündigen vertikalen Werbespot für Apple AirPods Max mit Produktaufnahmen auf dem Schreibtisch, Makrodetails und Lifestyle-Szenen.
 
 <img src="covers/2099371183498277308.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen filmischen 10-sekündigen Premium-Werbespot für Apple AirPods Max im vertikalen 9:16-Format.
+
+0–2 Sek.: Langsame Kamerafahrt auf die AirPods Max zu, die auf einem minimalistischen Schreibtisch liegen, dramatische Studiobeleuchtung.
+
+2–4 Sek.: Makro-Kamerabewegung über die Ohrmuschel aus Aluminium und die Digital Crown, die erstklassige Materialien und feine Details hervorhebt.
+
+4–6 Sek.: Sanfter Übergang zu einer Person, die die Kopfhörer neben einem großen Fenster trägt, friedliche Lifestyle-Atmosphäre, Gesicht wird nie gezeigt.
+
+6–8 Sek.: Die Kamera umkreist langsam die Kopfhörer, während sich der Hintergrund sanft in einen modernen Arbeitsbereich verwandelt.
+
+8–10 Sek.: Finaler Hero-Shot der AirPods Max zentriert vor einem sauberen Premium-Hintergrund, subtile filmische Kamerabewegung und weiche Reflexionen.
+
+Fotorealistischer Werbespot im Apple-Stil, realistische Materialien, nahtlose Übergänge, filmische Beleuchtung, geringe Schärfentiefe, Premium-Technologiekampagne, keine Texteinblendungen, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

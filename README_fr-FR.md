@@ -3575,20 +3575,32 @@ Traduction en cours
 
 <a name="prompt-2099371183498277308"></a>
 
-### Traduction en cours
+### Prompt de publicité verticale de 10 secondes pour les AirPods Max d'Apple présentant des plans du produit sur bureau, des détails macro et des scènes lifestyle.
 
 Auteur：[@Urwa\_345](https://x.com/Urwa_345) · [Publication originale](https://x.com/Urwa_345/status/2099371183498277308)
 
 Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de publicité verticale de 10 secondes pour les AirPods Max d'Apple présentant des plans du produit sur bureau, des détails macro et des scènes lifestyle.
 
 <img src="covers/2099371183498277308.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une publicité cinématographique haut de gamme de 10 secondes pour les AirPods Max d'Apple au format vertical 9:16.
+
+0–2 s : Rapprochement lent de la caméra vers les AirPods Max posés sur un bureau minimaliste, éclairage dramatique de studio.
+
+2–4 s : Mouvement de caméra macro le long de l'écouteur en aluminium et de la Digital Crown, mettant en valeur les matériaux haut de gamme et les détails raffinés.
+
+4–6 s : Transition fluide vers une personne portant le casque à côté d'une grande fenêtre, atmosphère de style de vie paisible, visage jamais visible.
+
+6–8 s : La caméra tourne lentement autour du casque tandis que l'arrière-plan se transforme doucement en un espace de travail moderne.
+
+8–10 s : Plan héroïque final des AirPods Max centrés sur un fond épuré haut de gamme, mouvement de caméra cinématographique subtil et reflets doux.
+
+Spot publicitaire photoréaliste de style Apple, matériaux réalistes, transitions fluides, éclairage cinématographique, faible profondeur de champ, campagne technologique premium, sans incrustation de texte, sans filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)
