@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**172** Prompt · Ultima aggiunta: **2026-09-14**
+**173** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2029,6 +2029,28 @@ Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia,
 <a name="category-illustration"></a>
 
 ## Illustrazione
+
+<a name="prompt-2099282298730590582"></a>
+
+### Traduzione in corso
+
+Autore：[@AkioT315](https://x.com/AkioT315) · [Post originale](https://x.com/AkioT315/status/2099282298730590582)
+
+Illustrazione · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099282298730590582.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099142803704152513"></a>
 

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**172** Prompts · Adição mais recente: **2026-09-14**
+**173** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2046,6 +2046,28 @@ Luffy afaga com ternura a cabeça de Anya, Anya atira-se para os seus braços, e
 <a name="category-illustration"></a>
 
 ## Ilustração
+
+<a name="prompt-2099282298730590582"></a>
+
+### Tradução em curso
+
+Autor：[@AkioT315](https://x.com/AkioT315) · [Publicação original](https://x.com/AkioT315/status/2099282298730590582)
+
+Ilustração · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099282298730590582.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099142803704152513"></a>
 

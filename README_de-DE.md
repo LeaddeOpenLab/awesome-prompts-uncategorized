@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**172** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**173** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2029,6 +2029,28 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2099282298730590582"></a>
+
+### Übersetzung läuft
+
+Autor：[@AkioT315](https://x.com/AkioT315) · [Originalbeitrag](https://x.com/AkioT315/status/2099282298730590582)
+
+Illustration · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099282298730590582.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099142803704152513"></a>
 

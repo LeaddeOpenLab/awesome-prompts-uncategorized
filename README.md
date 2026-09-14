@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**172** Prompts · Latest addition: **2026-09-14**
+**173** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2501,6 +2501,28 @@ Comic / Storyboard · Anime / Manga · Published
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2099282298730590582"></a>
+
+### Illustration-style prompt of a glowing blue night flower field and a magnificent Milky Way
+
+Author：[@AkioT315](https://x.com/AkioT315) · [Source](https://x.com/AkioT315/status/2099282298730590582)
+
+Illustration · Landscape / Nature · Published
+
+**Summary:** Illustration-style prompt of a glowing blue night flower field and a magnificent Milky Way
+
+<img src="covers/2099282298730590582.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A beautiful night flower field, the flowers glowing blue, the starry sky magnificent with the shining Milky Way, expressed in an illustration-like touch with emphasized shading
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099142803704152513"></a>
 

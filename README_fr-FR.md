@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**172** Prompts · Dernier ajout: **2026-09-14**
+**173** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2029,6 +2029,28 @@ Luffy caresse tendrement la tête d'Anya, Anya se jette dans ses bras, entourés
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2099282298730590582"></a>
+
+### Traduction en cours
+
+Auteur：[@AkioT315](https://x.com/AkioT315) · [Publication originale](https://x.com/AkioT315/status/2099282298730590582)
+
+Illustration · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099282298730590582.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099142803704152513"></a>
 

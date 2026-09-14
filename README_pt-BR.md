@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**172** Prompts · Última adição: **2026-09-14**
+**173** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2046,6 +2046,28 @@ Luffy faz carinho na cabeça de Anya com ternura, Anya se joga em seus braços, 
 <a name="category-illustration"></a>
 
 ## Ilustração
+
+<a name="prompt-2099282298730590582"></a>
+
+### Tradução em andamento
+
+Autor：[@AkioT315](https://x.com/AkioT315) · [Publicação original](https://x.com/AkioT315/status/2099282298730590582)
+
+Ilustração · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099282298730590582.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099142803704152513"></a>
 
