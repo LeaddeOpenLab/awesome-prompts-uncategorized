@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:25:02.844Z",
+  "model": "unknown-image",
+  "prompt": "制作一张独立的3:4竖版上下对比转绘海报。上半完整保留输入的印度尼西亚人物旅游真实照片，不变色、不裁掉人物、不做卡通化。下半将同一人物与真实环境重新绘制为深海军蓝纯色哑光底上的象牙白极简风写线稿。保留人物数量、站姿或行走姿态、衣服轮廓、朝向和比例；从原照片提炼门廊、海浪、梯田、树木、地平线等结构，用少量连续风线、弧线和轮廓线表达。下半人物缩小，四周保留大量负空间，线条带轻微粉笔或蜡笔颗粒，但整体克制，不使用彩色填充和写实阴影。中间使用细白分隔线。下半必须是真正重新绘制，不是把照片整体变蓝。不要添加文字、logo、水印、原图角标、AI角标或拼贴。",
+  "promptTranslations": {
+    "en": "Create a standalone 3:4 vertical top-and-bottom comparison redrawn poster. The upper half completely retains the input authentic Indonesian travel photograph, with no color distortion, without cropping out people, and without cartoonization. The lower half redraws the same people and real environment as an ivory white minimalist line art sketch on a solid matte deep navy blue background. Preserve the number of people, standing or walking poses, clothing silhouettes, orientations, and proportions; extract structures from the original photo such as porches, ocean waves, terraced fields, trees, and horizon lines, expressing them with a few continuous wind lines, arcs, and contour lines. The people in the lower half are scaled down, leaving plenty of negative space around them, with lines carrying a subtle chalk or crayon grain texture, yet restrained overall, without colored fills or realistic shading. A thin white dividing line is used in the middle. The lower half must be truly redrawn, not simply turning the whole photo blue. Do not add text, logos, watermarks, original image corner badges, AI badges, or collage elements."
+  },
+  "summaryTranslations": {
+    "en": "3:4 top-and-bottom comparison poster prompt, preserving the authentic travel photo on top and converting to ivory white minimalist line art on deep blue at the bottom."
+  },
+  "translationVersion": 2,
+  "summary": "3:4上下对比海报提示词，上半保留真实旅游照，下半转为深蓝底象牙白极简线稿。",
+  "summaryEn": "Prompt for a 3:4 split poster, keeping the real travel photo on top and redrawing it as minimalist white line art on navy blue below.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099485936535167139",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2099485936535167139",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-14T13:10:28.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "zh",
+    "originalText": "【WINDLINE MINIMAL｜风写极简线稿】\n用一条条白色风线收束印尼旅途的门、海与梯田，让真实人物在大面积留白中留下轻盈的行走回声。\n\nprompt：\n制作一张独立的3:4竖版上下对比转绘海报。上半完整保留输入的印度尼西亚人物旅游真实照片，不变色、不裁掉人物、不做卡通化。下半将同一人物与真实环境重新绘制为深海军蓝纯色哑光底上的象牙白极简风写线稿。保留人物数量、站姿或行走姿态、衣服轮廓、朝向和比例；从原照片提炼门廊、海浪、梯田、树木、地平线等结构，用少量连续风线、弧线和轮廓线表达。下半人物缩小，四周保留大量负空间，线条带轻微粉笔或蜡笔颗粒，但整体克制，不使用彩色填充和写实阴影。中间使用细白分隔线。下半必须是真正重新绘制，不是把照片整体变蓝。不要添加文字、logo、水印、原图角标、AI角标或拼贴。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLfCFWbAAEVe9P.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLfCFWbAAEVe9P.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLfKUOaYAA3QeV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLfKUOaYAA3QeV.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLfLp8asAAuSuZ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLfLp8asAAuSuZ.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSLfMujbAAA8cOF.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSLfMujbAAA8cOF.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 2,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 650
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2099485936535167139",
+  "coverUrl": "https://pbs.twimg.com/media/HSLfCFWbAAEVe9P.jpg",
+  "coverPath": "images/2099485936535167139-1.jpg",
+  "imagePaths": [
+    "images/2099485936535167139-1.jpg",
+    "images/2099485936535167139-2.jpg",
+    "images/2099485936535167139-3.jpg",
+    "images/2099485936535167139-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSLfCFWbAAEVe9P",
+    "x-image:/media/HSLfKUOaYAA3QeV",
+    "x-image:/media/HSLfLp8asAAuSuZ",
+    "x-image:/media/HSLfMujbAAA8cOF",
+    "x-post:2099485936535167139"
+  ],
+  "analysis": {
+    "summary": "3:4上下对比海报提示词，上半保留真实旅游照，下半转为深蓝底象牙白极简线稿。",
+    "summaryEn": "Prompt for a 3:4 split poster, keeping the real travel photo on top and redrawing it as minimalist white line art on navy blue below.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均呈现上下对比结构，上半为印尼旅游照片，下半为深蓝背景上的白色风写线稿，与提示词要求完全契合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张独立的3:4竖版上下对比转绘海报。上半完整保留输入的印度尼西亚人物旅游真实照片，不变色、不裁掉人物、不做卡通化。下半将同一人物与真实环境重新绘制为深海军蓝纯色哑光底上的象牙白极简风写线稿。保留人物数量、站姿或行走姿态、衣服轮廓、朝向和比例；从原照片提炼门廊、海浪、梯田、树木、地平线等结构，用少量连续风线、弧线和轮廓线表达。下半人物缩小，四周保留大量负空间，线条带轻微粉笔或蜡笔颗粒，但整体克制，不使用彩色填充和写实阴影。中间使用细白分隔线。下半必须是真正重新绘制，不是把照片整体变蓝。不要添加文字、logo、水印、原图角标、AI角标或拼贴。",
+    "sourceRange": {
+      "start": 80,
+      "end": 355
+    },
+    "translations": {
+      "zh": "制作一张独立的3:4竖版上下对比转绘海报。上半完整保留输入的印度尼西亚人物旅游真实照片，不变色、不裁掉人物、不做卡通化。下半将同一人物与真实环境重新绘制为深海军蓝纯色哑光底上的象牙白极简风写线稿。保留人物数量、站姿或行走姿态、衣服轮廓、朝向和比例；从原照片提炼门廊、海浪、梯田、树木、地平线等结构，用少量连续风线、弧线和轮廓线表达。下半人物缩小，四周保留大量负空间，线条带轻微粉笔或蜡笔颗粒，但整体克制，不使用彩色填充和写实阴影。中间使用细白分隔线。下半必须是真正重新绘制，不是把照片整体变蓝。不要添加文字、logo、水印、原图角标、AI角标或拼贴。",
+      "en": "Create a 3:4 vertical split-comparison poster. The top half keeps the original travel photo intact without color shifts or cropping. The bottom half redraws the subject and environment into ivory-white minimalist line art on a matte navy blue background, retaining poses and outlines with negative space and subtle chalk texture. Include a thin white divider line, without extra text or watermarks."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "旅游照片上下对比极简线稿转绘海报生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
