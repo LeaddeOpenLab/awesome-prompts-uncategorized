@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T00:18:08.796Z",
+  "model": "grok",
+  "prompt": "綺麗な夜の花畑を、花は青く光り、星空は天の川が輝き壮大、陰影を強調したイラストのようなタッチで表現",
+  "promptTranslations": {
+    "en": "A beautiful night flower field, the flowers glowing blue, the starry sky magnificent with the shining Milky Way, expressed in an illustration-like touch with emphasized shading"
+  },
+  "summaryTranslations": {
+    "en": "Illustration-style prompt of a glowing blue night flower field and a magnificent Milky Way"
+  },
+  "translationVersion": 2,
+  "summary": "青く光る夜の花畑と壮大な天の川のイラスト風プロンプト",
+  "summaryEn": "Prompt for a field of glowing blue flowers under a magnificent Milky Way night sky",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099282298730590582",
+    "canonicalUrl": "https://x.com/AkioT315/status/2099282298730590582",
+    "author": {
+      "username": "AkioT315",
+      "displayName": "あきおT☀️楽天ROOM・マネタイズ",
+      "profileUrl": "https://x.com/AkioT315"
+    },
+    "publishedAt": "2026-09-13T23:41:17.000Z",
+    "collectedAt": "2026-09-14T00:15:58.648Z",
+    "language": "ja",
+    "originalText": "Grokで遊んでみたシリーズ\n#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ \n\nGrok Imagine prompt:\n\n綺麗な夜の花畑を、花は青く光り、星空は天の川が輝き壮大、陰影を強調したイラストのようなタッチで表現 https://t.co/65MjS2jofn",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AkioT315/status/2099282298730590582",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099282257563574272/img/G6mMb6Ex3oidocZl.jpg",
+        "analysisUrl": "https://x.com/AkioT315/status/2099282298730590582"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 5
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AkioT315/status/2099282298730590582",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099282257563574272/img/G6mMb6Ex3oidocZl.jpg",
+  "coverPath": "covers/2099282298730590582.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099282257563574272",
+    "x-post:2099282298730590582"
+  ],
+  "analysis": {
+    "summary": "青く光る夜の花畑と壮大な天の川のイラスト風プロンプト",
+    "summaryEn": "Prompt for a field of glowing blue flowers under a magnificent Milky Way night sky",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video clearly features the glowing blue flowers in a vast field beneath a luminous starry sky and Milky Way in an illustrative style."
+    },
+    "videoQuality": null,
+    "originalPrompt": "綺麗な夜の花畑を、花は青く光り、星空は天の川が輝き壮大、陰影を強調したイラストのようなタッチで表現",
+    "sourceRange": {
+      "start": 97,
+      "end": 146
+    },
+    "translations": {
+      "zh": "美丽夜间的花海，花朵闪耀蓝光，星空银河璀璨壮阔，以强化光影的插画笔触呈现",
+      "en": "A beautiful night flower field with glowing blue flowers, a magnificent starry sky with a radiant Milky Way, depicted in an illustration-like touch with emphasized shadows"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI art landscape generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
