@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**210** Prompt · Son eklenen: **2026-09-14**
+**211** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1648,6 +1648,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2099558680979005770"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TaliaAariz](https://x.com/TaliaAariz) · [Orijinal gönderi](https://x.com/TaliaAariz/status/2099558680979005770)
+
+Sinematik / Film Karesi · Minimalizm · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099558680979005770.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099346814327738872"></a>
 
 ### Çeviri sürüyor
@@ -2534,20 +2556,23 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2099566382471909568"></a>
 
-### Çeviri sürüyor
+### Kişisel bir fotoğrafı bir Pokémon eşliğinde anime tarzı tam sanat Pokémon TCG kartına dönüştürme promptu.
 
 Yazar：[@Xabatz](https://x.com/Xabatz) · [Orijinal gönderi](https://x.com/Xabatz/status/2099566382471909568)
 
 Anime / Manga · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kişisel bir fotoğrafı bir Pokémon eşliğinde anime tarzı tam sanat Pokémon TCG kartına dönüştürme promptu.
 
 <img src="covers/2099566382471909568.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+İsim: (sizinki)
+Pokemon( istediğiniz)
+Görsel promptu
+Tam sanat (full art) bir Pokémon TCG kart tasarımının temiz bir dijital illüstrasyonunu oluşturun; tarama benzeri düz bir dijital varlık olarak görünsün (fiziksel bir nesnenin fotoğrafı değil). Yüklenen fotoğraftaki kişiyi, benzerliğini koruyarak anime tarzı bir Pokémon Eğitmenine dönüştürün. Onları bir CHARIZARD'ın yanında dinamik bir aksiyon pozunda konumlandırın. Arka plan, Pokémon'un türüyle eşleşen yoğun element enerjisi olmalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2992,13 +3017,13 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 
 <a name="prompt-2099563152388329737"></a>
 
-### Çeviri sürüyor
+### Gerçek insan portresi ile duvarda siyah karikatür el çizimi karalama gölgeyi birleştiren karma teknik portre komutu.
 
 Yazar：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Orijinal gönderi](https://x.com/FuguiChen1314/status/2099563152388329737)
 
 İllüstrasyon · Çizgi Roman / Grafik Roman · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gerçek insan portresi ile duvarda siyah karikatür el çizimi karalama gölgeyi birleştiren karma teknik portre komutu.
 
 <img src="images/2099563152388329737-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3007,7 +3032,23 @@ Yazar：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Orijinal gönderi](htt
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen referans görseli, kişinin kimliği ve kıyafeti için kesin bir referans olarak kullanın. Referans görseldeki yüzü, yüz hatlarını, cilt tonunu, saç stilini, saç rengini, aksesuarları, kıyafetleri ve genel atmosferi hiçbir değişiklik yapmadan tam olarak koruyun.
+
+Aşağıdakileri içeren, dikey formatta (4:5 veya 9:16) yüksek kaliteli bir karma teknik (mixed media) portre oluşturun:
+
+Referans görseldeki kişiyle son derece tutarlı bir görünüme sahip, oldukça gerçekçi bir tam boy figür. Kişinin yanındaki duvarda, aynı kişinin siyah el çizimi karalama (doodle) tarzında bir silüeti/gölgesi yer almalıdır.
+
+Gerçek kişi sevimli, biraz utangaç ve oyuncu bir his uyandırmalı; her üretimde doğal olarak yeni, rastgele, yaramaz ve neşeli bir poz vermelidir.
+
+Duvardaki el çizimi karalama gölge de gerçek kişiyle aynı poz konseptini sergilemeli, ancak çok daha abartılı, kaotik, karikatürize ve dramatik bir şekilde ifade edilmelidir. Karalama gölgenin canlı ve eğlenceli görünmesi için çizgi roman tarzı hareket çizgileri, yıldızlar, kalpler ve ışıltı efektleri ekleyin.
+
+Temiz, beyaz/krem tonlarında bir stüdyo duvarı kullanın ve arka planı minimalist tutun. Yumuşak, doğal bir ışık kullanın ve hem gerçek kişinin hem de karalama gölgenin kadrajda kesilmeden eksiksiz olarak görünmesini sağlayın.
+
+Karalama karakter; saç stili, aksesuarlar, kıyafet silüeti ve pozu aracılığıyla açıkça gerçek kişiyi çağrıştırmalıdır.
+
+Negatif Komut (Negative Prompt):
+
+kıyafet değişikliği, kişi kimliğinin değiştirilmesi, ikinci bir gerçek kişi, sıradan gerçekçi gölge, korku tarzı, anime karakterinin gerçek insana dönüştürülmesi, dağınık arka plan, tekrarlanan parmakla işaret etme veya parmak tabancası pozları, kaskatı pozlar, fazladan uzuvlar/parmaklar, vücut deformasyonu, metin, filigran, logo, yapay zeka üretim izleri.
 ```
 
 [↑ Kategorilere dön](#catalog)

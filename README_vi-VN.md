@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**210** Prompt · Bổ sung mới nhất: **2026-09-14**
+**211** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1670,6 +1670,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2099558680979005770"></a>
+
+### Đang dịch
+
+Tác giả：[@TaliaAariz](https://x.com/TaliaAariz) · [Bài gốc](https://x.com/TaliaAariz/status/2099558680979005770)
+
+Điện ảnh / Ảnh tĩnh từ phim · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099558680979005770.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099346814327738872"></a>
 
 ### Đang dịch
@@ -2552,20 +2574,23 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2099566382471909568"></a>
 
-### Đang dịch
+### Prompt để biến ảnh cá nhân thành thẻ Pokémon TCG toàn phần phong cách anime bên cạnh một Pokémon.
 
 Tác giả：[@Xabatz](https://x.com/Xabatz) · [Bài gốc](https://x.com/Xabatz/status/2099566382471909568)
 
 Anime / Manga · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt để biến ảnh cá nhân thành thẻ Pokémon TCG toàn phần phong cách anime bên cạnh một Pokémon.
 
 <img src="covers/2099566382471909568.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tên: (của bạn)
+Pokemon( con bạn muốn)
+Prompt hình ảnh
+Tạo một hình minh họa kỹ thuật số rõ nét về thiết kế thẻ bài Pokémon TCG toàn phần (full art), được nhìn dưới dạng tài sản kỹ thuật số phẳng dạng quét (không phải ảnh chụp vật thể thực tế). Biến đổi người trong ảnh đã tải lên thành Huấn luyện viên Pokémon theo phong cách anime, nhưng vẫn giữ được nét tương đồng của họ. Đặt họ vào một tư thế hành động sống động bên cạnh một CHARIZARD. Nền phải là năng lượng nguyên tố mãnh liệt phù hợp với hệ của Pokémon.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3010,13 +3035,13 @@ Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
 
 <a name="prompt-2099563152388329737"></a>
 
-### Đang dịch
+### Lời nhắc chân dung đa chất liệu kết hợp chân dung người thật với bóng vẽ nguệch ngoạc hoạt hình màu đen trên tường.
 
 Tác giả：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Bài gốc](https://x.com/FuguiChen1314/status/2099563152388329737)
 
 Minh họa · Truyện tranh / Tiểu thuyết đồ họa · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung đa chất liệu kết hợp chân dung người thật với bóng vẽ nguệch ngoạc hoạt hình màu đen trên tường.
 
 <img src="images/2099563152388329737-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3025,7 +3050,23 @@ Minh họa · Truyện tranh / Tiểu thuyết đồ họa · Chân dung / Ảnh
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng hình ảnh tham khảo đã tải lên làm tài liệu tham khảo nghiêm ngặt về danh tính và trang phục của nhân vật. Giữ nguyên chính xác khuôn mặt, đường nét ngũ quan, màu da, kiểu tóc, màu tóc, phụ kiện, trang phục và bầu không khí tổng thể trong hình ảnh tham khảo, không thực hiện bất kỳ thay đổi nào.
+
+Tạo một bức chân dung nhân vật đa chất liệu chất lượng cao theo khung hình dọc (4:5 hoặc 9:16), bao gồm:
+
+Một nhân vật toàn thân cực kỳ chân thực, ngoại hình hoàn toàn đồng nhất với người trong ảnh tham khảo. Trên bức tường cạnh nhân vật, xuất hiện một bóng/hình bóng của cùng nhân vật đó theo phong cách vẽ nguệch ngoạc nguệch ngoạc bằng tay màu đen.
+
+Người thật nên toát lên vẻ đáng yêu, hơi ngại ngùng, tinh nghịch và tự nhiên tạo một tư thế mới ngẫu nhiên, vui tươi và có phần tinh quái trong mỗi lần tạo.
+
+Bóng vẽ nguệch ngoạc bằng tay trên tường cũng nên thể hiện cùng ý tưởng tư thế với người thật, nhưng được diễn đạt cường điệu, hỗn loạn, hoạt hình và kịch tính hơn. Thêm các đường hành động phong cách truyện tranh, ngôi sao, trái tim và hiệu ứng lấp lánh để làm cho bóng nguệch ngoạc trông sống động và thú vị.
+
+Sử dụng bức tường studio màu trắng/màu kem sạch sẽ, hậu cảnh giữ ở mức tối giản. Sử dụng ánh sáng mềm mại, tự nhiên và đảm bảo cả người thật lẫn bóng vẽ nguệch ngoạc đều hiển thị trọn vẹn trong khung hình, không bị cắt xén.
+
+Nhân vật nguệch ngoạc phải liên kết rõ ràng với người thật thông qua kiểu tóc, phụ kiện, đường nét trang phục và tư thế.
+
+Lời nhắc phủ định (Negative Prompt):
+
+Thay đổi trang phục, thay đổi danh tính nhân vật, người thật thứ hai, bóng chân thực thông thường, phong cách kinh dị, chuyển thể nhân vật anime thành người thật, nền lộn xộn, lặp lại tư thế chỉ tay hoặc bắn súng ngón tay, tư thế cứng nhắc, thừa chi/ngón tay, biến dạng cơ thể, văn bản, hình mờ, logo, dấu vết do AI tạo ra.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**210** Prompts · Dernier ajout: **2026-09-14**
+**211** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1634,6 +1634,28 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 ## Image cinématographique / Photogramme de film
 
+<a name="prompt-2099558680979005770"></a>
+
+### Traduction en cours
+
+Auteur：[@TaliaAariz](https://x.com/TaliaAariz) · [Publication originale](https://x.com/TaliaAariz/status/2099558680979005770)
+
+Image cinématographique / Photogramme de film · Minimalisme · Personnage · Article de mode · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099558680979005770.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2099346814327738872"></a>
 
 ### Traduction en cours
@@ -2517,20 +2539,23 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2099566382471909568"></a>
 
-### Traduction en cours
+### Prompt pour transformer une photo personnelle en carte Pokémon JCC pleine illustration style anime aux côtés d'un Pokémon.
 
 Auteur：[@Xabatz](https://x.com/Xabatz) · [Publication originale](https://x.com/Xabatz/status/2099566382471909568)
 
 Anime / Manga · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour transformer une photo personnelle en carte Pokémon JCC pleine illustration style anime aux côtés d'un Pokémon.
 
 <img src="covers/2099566382471909568.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Nom : (le vôtre)
+Pokémon( celui que vous voulez)
+Prompt d'image
+Générez une illustration numérique nette d'un design de carte Pokémon JCC pleine illustration (full art), vue comme un élément numérique plat de type scan (pas une photo d'un objet physique). Transformez la personne de la photo importée en dresseur Pokémon de style anime, tout en conservant sa ressemblance. Placez-les dans une pose d'action dynamique aux côtés d'un CHARIZARD. L'arrière-plan doit être une énergie élémentaire intense correspondant au type du Pokémon.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2975,13 +3000,13 @@ Traduction en cours
 
 <a name="prompt-2099563152388329737"></a>
 
-### Traduction en cours
+### Prompt de portrait en techniques mixtes combinant un portrait réel et une ombre en gribouillage cartoon noir dessiné à la main sur un mur.
 
 Auteur：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publication originale](https://x.com/FuguiChen1314/status/2099563152388329737)
 
 Illustration · Bande dessinée / Roman graphique · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait en techniques mixtes combinant un portrait réel et une ombre en gribouillage cartoon noir dessiné à la main sur un mur.
 
 <img src="images/2099563152388329737-1.jpg" alt="Image 1" width="480" />
 
@@ -2990,7 +3015,23 @@ Illustration · Bande dessinée / Roman graphique · Portrait / Selfie · Person
 **Consigne**
 
 ```text
-Traduction en cours
+Utilisez l'image de référence importée comme référence stricte pour l'identité et la tenue du personnage. Conservez fidèlement le visage, les traits, la couleur de peau, la coiffure, la couleur des cheveux, les accessoires, les vêtements ainsi que l'ambiance générale de l'image de référence, sans y apporter la moindre modification.
+
+Créez un portrait en techniques mixtes de haute qualité au format vertical (4:5 ou 9:16), comprenant :
+
+Un personnage en pied extrêmement réaliste, dont l'apparence est parfaitement fidèle à celle de la personne de l'image de référence. Sur le mur à côté du personnage apparaît une silhouette/ombre du même personnage dans un style de gribouillage (doodle) noir dessiné à la main.
+
+Le personnage réel doit dégager une impression mignonne, légèrement timide et espiègle, adoptant naturellement à chaque génération une nouvelle pose aléatoire, malicieuse et enjouée.
+
+L'ombre en gribouillage dessinée à la main sur le mur doit reprendre le même concept de pose que la personne réelle, mais être rendue de manière plus exagérée, chaotique, cartoonesque et théâtrale. Ajoutez des lignes d'action façon bande dessinée, des étoiles, des cœurs et des étincelles pour rendre l'ombre vivante et amusante.
+
+Utilisez un mur de studio épuré, blanc ou crème, en gardant l'arrière-plan minimaliste. Privilégiez une lumière douce et naturelle, et veillez à ce que la personne réelle et l'ombre en gribouillage apparaissent toutes deux entièrement dans le cadre, sans être coupées.
+
+Le personnage en gribouillage doit rappeler clairement la personne réelle à travers la coiffure, les accessoires, la silhouette des vêtements et la posture.
+
+Invite négative (Negative Prompt) :
+
+changement de vêtements, modification de l'identité du personnage, deuxième personnage réel, ombre réaliste ordinaire, style d'horreur, humanisation de personnage d'anime, arrière-plan encombré, poses répétitives pointant du doigt ou faisant semblant de tirer avec les doigts, poses rigides, membres/doigts supplémentaires, déformation corporelle, texte, filigrane, logo, artefacts de génération IA.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**210** Prompts · Adição mais recente: **2026-09-14**
+**211** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1648,6 +1648,28 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 ## Cena de Cinema / Fotograma
 
+<a name="prompt-2099558680979005770"></a>
+
+### Tradução em curso
+
+Autor：[@TaliaAariz](https://x.com/TaliaAariz) · [Publicação original](https://x.com/TaliaAariz/status/2099558680979005770)
+
+Cena de Cinema / Fotograma · Minimalismo · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099558680979005770.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099346814327738872"></a>
 
 ### Tradução em curso
@@ -2534,20 +2556,23 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2099566382471909568"></a>
 
-### Tradução em curso
+### Prompt para converter uma fotografia pessoal numa carta Pokémon TCG de arte completa estilo anime ao lado de um Pokémon.
 
 Autor：[@Xabatz](https://x.com/Xabatz) · [Publicação original](https://x.com/Xabatz/status/2099566382471909568)
 
 Anime / Mangá · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para converter uma fotografia pessoal numa carta Pokémon TCG de arte completa estilo anime ao lado de um Pokémon.
 
 <img src="covers/2099566382471909568.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Nome: (o vosso)
+Pokémon( o que quiseres)
+Prompt da imagem
+Gera uma ilustração digital limpa de um design de carta de Pokémon TCG de arte completa (full art), vista como um ativo digital plano tipo digitalização (não uma fotografia de um objeto físico). Transforma a pessoa da fotografia carregada num Treinador Pokémon de estilo anime, mantendo a sua semelhança. Coloca-os numa pose de ação dinâmica ao lado de um CHARIZARD. O fundo deve ser energia elemental intensa correspondente ao tipo do Pokémon.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -2992,13 +3017,13 @@ Tradução em curso
 
 <a name="prompt-2099563152388329737"></a>
 
-### Tradução em curso
+### Prompt de retrato em técnica mista combinando retrato de pessoa real com sombra em rabisco cartoon preto desenhada à mão na parede.
 
 Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publicação original](https://x.com/FuguiChen1314/status/2099563152388329737)
 
 Ilustração · Banda Desenhada / Romance Gráfico · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato em técnica mista combinando retrato de pessoa real com sombra em rabisco cartoon preto desenhada à mão na parede.
 
 <img src="images/2099563152388329737-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3007,7 +3032,23 @@ Ilustração · Banda Desenhada / Romance Gráfico · Retrato / Selfie · Person
 **Prompt**
 
 ```text
-Tradução em curso
+Utilize a imagem de referência enviada como referência estrita da identidade e do vestuário da personagem. Mantenha com precisão o rosto, os traços faciais, o tom de pele, o penteado, a cor do cabelo, os acessórios, o vestuário e a atmosfera geral da imagem de referência, sem efetuar qualquer alteração.
+
+Crie um retrato em técnica mista de alta qualidade no formato vertical (4:5 ou 9:16), contendo:
+
+Uma personagem de corpo inteiro altamente realista, cuja aparência é perfeitamente consistente com a pessoa na imagem de referência. Na parede ao lado da personagem, surge uma silhueta/sombra da mesma personagem em estilo de rabisco (doodle) preto desenhado à mão.
+
+A pessoa real deve transmitir uma sensação amorosa, ligeiramente tímida e brincalhona, assumindo naturalmente uma pose nova, aleatória, travessa e divertida a cada geração.
+
+A sombra em rabisco desenhada à mão na parede também deve seguir a mesma ideia de pose da pessoa real, mas de forma mais exagerada, caótica, caricatural e dramática. Adicione linhas de ação ao estilo de banda desenhada, estrelas, corações e efeitos de brilho para tornar a sombra em rabisco animada e divertida.
+
+Utilize uma parede de estúdio limpa, branca ou creme, mantendo o fundo minimalista. Aplique iluminação suave e natural, assegurando que tanto a pessoa real como a sombra em rabisco aparecem completas no enquadramento, sem cortes.
+
+A personagem em rabisco deve remeter claramente para a pessoa real através do penteado, dos acessórios, da silhueta da roupa e da pose.
+
+Prompt Negativo (Negative Prompt):
+
+mudar de roupa, alterar a identidade da personagem, segunda pessoa real, sombra realista comum, estilo de terror, personagens de anime tornadas pessoas reais, fundo desordenado, poses repetitivas a apontar o dedo ou a fazer pistolas com os dedos, poses rígidas, membros/dedos adicionais, deformação corporal, texto, marca de água, logótipo, artefactos gerados por IA.
 ```
 
 [↑ Voltar às categorias](#catalog)

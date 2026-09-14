@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**210** Prompts · Última incorporación: **2026-09-14**
+**211** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1670,6 +1670,28 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 ## Cine / Fotograma de película
 
+<a name="prompt-2099558680979005770"></a>
+
+### Traducción en curso
+
+Autor：[@TaliaAariz](https://x.com/TaliaAariz) · [Publicación original](https://x.com/TaliaAariz/status/2099558680979005770)
+
+Cine / Fotograma de película · Minimalismo · Personaje · Artículo de moda · Arquitectura / Interiorismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099558680979005770.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2099346814327738872"></a>
 
 ### Traducción en curso
@@ -2552,20 +2574,23 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2099566382471909568"></a>
 
-### Traducción en curso
+### Prompt para convertir una foto personal en carta Pokémon TCG de arte completo estilo anime junto a un Pokémon.
 
 Autor：[@Xabatz](https://x.com/Xabatz) · [Publicación original](https://x.com/Xabatz/status/2099566382471909568)
 
 Anime / Manga · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para convertir una foto personal en carta Pokémon TCG de arte completo estilo anime junto a un Pokémon.
 
 <img src="covers/2099566382471909568.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Nombre: (el vuestro)
+Pokemon( el que quieras)
+Prompt de la imagen
+Genera una ilustración digital limpia de un diseño de carta de Pokémon TCG de arte completo, vista como un activo digital plano tipo escaneo (no una foto de un objeto físico). Transforma a la persona de la foto subida en un Entrenador Pokémon de estilo anime, manteniendo su parecido. Colócalos en una pose de acción dinámica junto a un CHARIZARD. El fondo debe ser energía elemental intensa que coincida con el tipo del Pokémon.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3010,13 +3035,13 @@ Traducción en curso
 
 <a name="prompt-2099563152388329737"></a>
 
-### Traducción en curso
+### Prompt para retrato de técnica mixta que combina una persona real con una sombra de garabato animado negro dibujado a mano sobre la pared.
 
 Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publicación original](https://x.com/FuguiChen1314/status/2099563152388329737)
 
 Ilustración · Cómic / Novela gráfica · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para retrato de técnica mixta que combina una persona real con una sombra de garabato animado negro dibujado a mano sobre la pared.
 
 <img src="images/2099563152388329737-1.jpg" alt="Imagen 1" width="480" />
 
@@ -3025,7 +3050,23 @@ Ilustración · Cómic / Novela gráfica · Retrato / Selfie · Personaje · Pub
 **Prompt**
 
 ```text
-Traducción en curso
+Utiliza la imagen de referencia subida como una referencia estricta de la identidad y la vestimenta del personaje. Conserva con precisión el rostro, los rasgos faciales, el tono de piel, el peinado, el color del pelo, los accesorios, la ropa y la atmósfera general de la imagen de referencia, sin realizar ningún cambio.
+
+Crea un retrato de técnica mixta de alta calidad en formato vertical (4:5 o 9:16) que contenga:
+
+Un personaje de cuerpo entero sumamente realista, cuya apariencia coincida plenamente con la persona de la imagen de referencia. En la pared junto al personaje, aparece una silueta/sombra del mismo personaje en un estilo de garabato (doodle) negro dibujado a mano.
+
+El personaje real debe transmitir una sensación adorable, ligeramente tímida y juguetona, y adoptar de forma natural una pose nueva, aleatoria, pícara y divertida en cada generación.
+
+La sombra de garabato dibujada a mano en la pared también debe seguir el mismo concepto de pose que la persona real, pero expresada de manera más exagerada, caótica, caricaturesca y dramática. Añade líneas de acción de estilo cómic, estrellas, corazones y destellos para que la sombra garabateada se vea animada y divertida.
+
+Utiliza una pared de estudio limpia de color blanco o crema, manteniendo el fondo minimalista. Aplica una iluminación suave y natural, y asegúrate de que tanto la persona real como la sombra garabateada aparezcan completas en el encuadre, sin quedar cortadas.
+
+El personaje garabateado debe evocar con claridad a la persona real mediante el peinado, los accesorios, la silueta de la ropa y la postura.
+
+Indicador negativo (Negative Prompt):
+
+cambiar de ropa, alterar la identidad del personaje, un segundo personaje real, sombra realista ordinaria, estilo de terror, humanización de personajes de anime, fondo desordenado, posturas repetitivas de señalar con el dedo o hacer pistolas con los dedos, poses rígidas, extremidades/dedos adicionales, deformación corporal, texto, marcas de agua, logotipos, artefactos generados por IA.
 ```
 
 [↑ Volver a categorías](#catalog)

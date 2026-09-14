@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**210** Prompt · Ultima aggiunta: **2026-09-14**
+**211** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1634,6 +1634,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2099558680979005770"></a>
+
+### Traduzione in corso
+
+Autore：[@TaliaAariz](https://x.com/TaliaAariz) · [Post originale](https://x.com/TaliaAariz/status/2099558680979005770)
+
+Fermo immagine cinematografico / Still fotografico · Minimalismo · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099558680979005770.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099346814327738872"></a>
 
 ### Traduzione in corso
@@ -2517,20 +2539,23 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2099566382471909568"></a>
 
-### Traduzione in corso
+### Prompt per trasformare una foto personale in una carta Pokémon GCC a figura intera in stile anime insieme a un Pokémon.
 
 Autore：[@Xabatz](https://x.com/Xabatz) · [Post originale](https://x.com/Xabatz/status/2099566382471909568)
 
 Anime / Manga · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per trasformare una foto personale in una carta Pokémon GCC a figura intera in stile anime insieme a un Pokémon.
 
 <img src="covers/2099566382471909568.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Nome: (il vostro)
+Pokémon( quello che vuoi)
+Prompt dell'immagine
+Genera un'illustrazione digitale pulita di un design per carta Pokémon GCC a figura intera (full art), vista come una risorsa digitale piatta tipo scansione (non una foto di un oggetto fisico). Trasforma la persona nella foto caricata in un Allenatore Pokémon in stile anime, mantenendo la sua somiglianza. Mettili in una posa d'azione dinamica accanto a un CHARIZARD. Lo sfondo deve essere un'intensa energia elementale che corrisponda al tipo del Pokémon.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2975,13 +3000,13 @@ Traduzione in corso
 
 <a name="prompt-2099563152388329737"></a>
 
-### Traduzione in corso
+### Prompt per ritratto a tecnica mista che combina un ritratto di persona reale con un'ombra doodle cartoon nera disegnata a mano sul muro.
 
 Autore：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Post originale](https://x.com/FuguiChen1314/status/2099563152388329737)
 
 Illustrazione · Fumetto / Graphic Novel · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto a tecnica mista che combina un ritratto di persona reale con un'ombra doodle cartoon nera disegnata a mano sul muro.
 
 <img src="images/2099563152388329737-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2990,7 +3015,23 @@ Illustrazione · Fumetto / Graphic Novel · Ritratto / Selfie · Personaggio · 
 **Prompt**
 
 ```text
-Traduzione in corso
+Utilizza l'immagine di riferimento caricata come riferimento rigoroso per l'identità e l'abbigliamento del personaggio. Mantieni con precisione il viso, i lineamenti, la tonalità della pelle, l'acconciatura, il colore dei capelli, gli accessori, l'abbigliamento e l'atmosfera generale dell'immagine di riferimento, senza apportare alcuna modifica.
+
+Crea un ritratto a tecnica mista di alta qualità in formato verticale (4:5 o 9:16), contenente:
+
+Un personaggio a figura intera estremamente realistico, il cui aspetto coincide perfettamente con la persona nell'immagine di riferimento. Sulla parete accanto al personaggio, appare una silhouette/ombra dello stesso personaggio in stile doodle nero disegnato a mano.
+
+La persona reale deve trasmettere una sensazione dolce, leggermente timida e giocosa, assumendo naturalmente una posa nuova, casuale, birichina e sbarazzina a ogni generazione.
+
+Anche l'ombra a doodle disegnata a mano sul muro deve riprendere lo stesso concetto di posa della persona reale, ma espressa in modo più esagerato, caotico, fumettistico e drammatico. Aggiungi linee d'azione in stile fumetto, stelle, cuori ed effetti scintillanti per rendere l'ombra a doodle vivace e divertente.
+
+Utilizza una parete da studio pulita di colore bianco/crema, mantenendo lo sfondo minimalista. Applica una luce morbida e naturale e assicurati che sia la persona reale sia l'ombra a doodle siano completamente visibili nell'inquadratura, senza tagli.
+
+Il personaggio a doodle deve richiamare chiaramente la persona reale attraverso l'acconciatura, gli accessori, la silhouette dell'abbigliamento e la posa.
+
+Prompt negativo (Negative Prompt):
+
+cambio d'abito, alterazione dell'identità del personaggio, secondo personaggio reale, normale ombra realistica, stile horror, trasformazione di personaggi anime in persone reali, sfondo disordinato, pose ripetitive in cui si indica o si fa la pistola con le dita, pose rigide, arti/dita in eccesso, deformazione corporea, testo, filigrana, logo, tracce di generazione AI.
 ```
 
 [↑ Torna alle categorie](#catalog)

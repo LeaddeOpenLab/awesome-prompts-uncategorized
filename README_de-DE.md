@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**210** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**211** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1634,6 +1634,28 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2099558680979005770"></a>
+
+### Übersetzung läuft
+
+Autor：[@TaliaAariz](https://x.com/TaliaAariz) · [Originalbeitrag](https://x.com/TaliaAariz/status/2099558680979005770)
+
+Kinematisch / Filmstill · Minimalismus · Charakter · Modeartikel · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099558680979005770.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2099346814327738872"></a>
 
 ### Übersetzung läuft
@@ -2517,20 +2539,23 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2099566382471909568"></a>
 
-### Übersetzung läuft
+### Prompt zur Umwandlung eines persönlichen Fotos in eine Full-Art-Pokémon-TCG-Karte im Anime-Stil zusammen mit einem Pokémon.
 
 Autor：[@Xabatz](https://x.com/Xabatz) · [Originalbeitrag](https://x.com/Xabatz/status/2099566382471909568)
 
 Anime / Manga · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Umwandlung eines persönlichen Fotos in eine Full-Art-Pokémon-TCG-Karte im Anime-Stil zusammen mit einem Pokémon.
 
 <img src="covers/2099566382471909568.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Name: (deiner)
+Pokémon( das du möchtest)
+Bild-Prompt
+Erstelle eine saubere digitale Illustration eines Pokémon-TCG-Kartendesigns mit Full-Art, dargestellt als flaches, scanartiges digitales Asset (kein Foto eines physischen Objekts). Verwandle die Person auf dem hochgeladenen Foto in einen Pokémon-Trainer im Anime-Stil, wobei die Ähnlichkeit erhalten bleibt. Platziere sie in einer dynamischen Action-Pose neben einem CHARIZARD. Der Hintergrund sollte intensive elementare Energie sein, die zum Typ des Pokémon passt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2975,13 +3000,13 @@ Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 
 <a name="prompt-2099563152388329737"></a>
 
-### Übersetzung läuft
+### Mixed-Media-Porträt-Prompt, der ein reales Personenporträt mit einem schwarzen, handgezeichneten Cartoon-Doodle-Schatten an der Wand kombiniert.
 
 Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Originalbeitrag](https://x.com/FuguiChen1314/status/2099563152388329737)
 
 Illustration · Comic / Graphic Novel · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Mixed-Media-Porträt-Prompt, der ein reales Personenporträt mit einem schwarzen, handgezeichneten Cartoon-Doodle-Schatten an der Wand kombiniert.
 
 <img src="images/2099563152388329737-1.jpg" alt="Bild 1" width="480" />
 
@@ -2990,7 +3015,23 @@ Illustration · Comic / Graphic Novel · Porträt / Selfie · Charakter · Verö
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwenden Sie das hochgeladene Referenzbild als strikte Referenz für die Identität und Kleidung der Person. Behalten Sie Gesicht, Gesichtszüge, Hautton, Frisur, Haarfarbe, Accessoires, Kleidung und die Gesamtatmosphäre des Referenzbildes exakt bei, ohne jegliche Änderungen vorzunehmen.
+
+Erstellen Sie ein hochwertiges vertikales Porträt (4:5 oder 9:16) im Mixed-Media-Stil, das Folgendes enthält:
+
+Eine hochgradig realistische Ganzkörperfigur, deren Aussehen exakt mit der Person auf dem Referenzbild übereinstimmt. An der Wand neben der Person erscheint eine schwarze, handgezeichnete Silhouette/Schatten derselben Person im Doodle-Stil.
+
+Die reale Person sollte niedlich, leicht schüchtern und verspielt wirken und bei jeder Generierung ganz natürlich eine neue, zufällige, schelmische und verspielte Pose einnehmen.
+
+Der handgezeichnete Doodle-Schatten an der Wand sollte das gleiche Posenkonzept wie die reale Person aufgreifen, jedoch viel übertriebener, chaotischer, cartoonhafter und dramatischer dargestellt werden. Fügen Sie Aktionslinien im Comic-Stil, Sterne, Herzen und Glitzereffekte hinzu, um den Doodle-Schatten lebendig und unterhaltsam wirken zu lassen.
+
+Verwenden Sie eine saubere, weiße/cremefarbene Studiowand und halten Sie den Hintergrund minimalistisch. Setzen Sie weiches, natürliches Licht ein und stellen Sie sicher, dass sowohl die reale Person als auch der Doodle-Schatten vollständig und ohne Beschnitt im Bild zu sehen sind.
+
+Die Doodle-Figur muss durch Frisur, Accessoires, Kleidungssilhouette und Pose eindeutig an die reale Person erinnern.
+
+Negativ-Prompt (Negative Prompt):
+
+Kleidung wechseln, Identität der Person ändern, zweite reale Person, normaler realistischer Schatten, Horror-Stil, Anime-Figur als Realperson, unordentlicher Hintergrund, sich wiederholende Zeigegesten oder Fingerpistolen-Posen, steife Posen, zusätzliche Gliedmaßen/Finger, Körperdeformationen, Text, Wasserzeichen, Logo, Spuren von KI-Generierung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

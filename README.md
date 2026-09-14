@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**210** Prompts · Latest addition: **2026-09-14**
+**211** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2189,6 +2189,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099558680979005770"></a>
+
+### A surreal high-fashion cinematic scene of a blonde woman in an oversized white fur coat across minimalist white architectural settings.
+
+Author：[@TaliaAariz](https://x.com/TaliaAariz) · [Source](https://x.com/TaliaAariz/status/2099558680979005770)
+
+Cinematic / Film Still · Minimalism · Character · Fashion Item · Architecture / Interior · Published
+
+**Summary:** A surreal high-fashion cinematic scene of a blonde woman in an oversized white fur coat across minimalist white architectural settings.
+
+<img src="covers/2099558680979005770.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A surreal high-fashion cinematic scene featuring a pale blonde woman in a luxurious oversized white fur coat, beginning with an extreme close-up as she holds a vintage brass saxophone near her face, then staring intensely into the camera and slowly reaching her hand toward the lens, creating dramatic depth and motion blur; the scene transitions to a wide minimalist white architectural interior where she stands and moves forward with both hands extended toward the camera, followed by elegant shots of two versions of the woman seated in sculptural white lounge chairs, maintaining a mysterious editorial mood, soft diffused lighting, clean monochromatic white palette, realistic skin texture, shallow depth of field, smooth cinematic camera movement, subtle film grain, and high-end fashion campaign aesthetics.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099346814327738872"></a>
 
