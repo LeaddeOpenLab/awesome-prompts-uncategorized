@@ -2820,13 +2820,13 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 
 <a name="prompt-2099485936535167139"></a>
 
-### Đang dịch
+### Lời nhắc poster so sánh trên-dưới 3:4, nửa trên giữ ảnh du lịch thực tế, nửa dưới chuyển thành tranh nét tối giản màu trắng ngà trên nền xanh đậm.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2099485936535167139)
 
 Áp phích / Tờ rơi · Phác Thảo / Nét Vẽ · Chủ nghĩa tối giản · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc poster so sánh trên-dưới 3:4, nửa trên giữ ảnh du lịch thực tế, nửa dưới chuyển thành tranh nét tối giản màu trắng ngà trên nền xanh đậm.
 
 <img src="images/2099485936535167139-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2839,7 +2839,7 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một poster vẽ lại so sánh trên-dưới dọc tỉ lệ 3:4 độc lập. Nửa trên giữ nguyên ảnh chụp thực tế chuyến du lịch của nhân vật tại Indonesia, không đổi màu, không cắt xén nhân vật, không hoạt hình hóa. Nửa dưới vẽ lại cùng nhân vật và khung cảnh thực tế thành tranh nét tối giản màu trắng ngà trên nền xanh hải quân đậm mờ đơn sắc. Giữ nguyên số lượng nhân vật, tư thế đứng hoặc đi bộ, đường nét trang phục, hướng nhìn và tỷ lệ; chắt lọc các cấu trúc từ ảnh gốc như mái hiên, sóng biển, ruộng bậc thang, cây cối, đường chân trời, thể hiện bằng một lượng nhỏ nét gió liên tục, đường cong và đường bao. Nhân vật ở nửa dưới được thu nhỏ, xung quanh giữ lại nhiều không gian âm, đường nét có hạt phấn hoặc sáp màu nhẹ nhưng tổng thể tiết chế, không dùng tô màu và bóng đổ tả thực. Ở giữa sử dụng một đường phân cách màu trắng mảnh. Nửa dưới bắt buộc phải là vẽ lại thực sự, không phải đổi toàn bộ ảnh sang màu xanh. Không thêm chữ, logo, hình mờ, biểu tượng góc ảnh gốc, biểu tượng góc AI hoặc cắt dán.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3822,20 +3822,20 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2099481568754413910"></a>
 
-### Đang dịch
+### Một người phụ nữ mặc áo măng tô màu đen bóng cầm chiếc ô trong suốt trên đường phố Tokyo ẩm ướt, rực rỡ ánh đèn neon vào ban đêm.
 
 Tác giả：[@\_\_Libra1](https://x.com/__Libra1) · [Bài gốc](https://x.com/__Libra1/status/2099481568754413910)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một người phụ nữ mặc áo măng tô màu đen bóng cầm chiếc ô trong suốt trên đường phố Tokyo ẩm ướt, rực rỡ ánh đèn neon vào ban đêm.
 
 <img src="images/2099481568754413910-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Logo Lane-Look. Xuyên suốt một đêm mưa xối xả ở Tokyo. Mặc một chiếc áo măng tô đen bóng và cầm một chiếc ô trong suốt phản chiếu ánh sáng từ các biển hiệu neon đỏ. Đường phố ẩm ướt và tỏa sáng rực rỡ. Đám đông mờ ảo cầm ô đi lướt qua. Cảm giác bí ẩn và đậm chất điện ảnh, được thắp sáng một phần bởi những tấm biển rực rỡ.
 ```
 
 [↑ Về danh mục](#catalog)

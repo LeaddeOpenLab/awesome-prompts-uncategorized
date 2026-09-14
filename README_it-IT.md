@@ -2785,13 +2785,13 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 
 <a name="prompt-2099485936535167139"></a>
 
-### Traduzione in corso
+### Prompt per poster di confronto sopra-sotto 3:4, la metà superiore mantiene la foto di viaggio reale e la metà inferiore viene trasformata in un disegno a linee minimalista bianco avorio su sfondo blu scuro.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2099485936535167139)
 
 Poster / Volantino · Schizzo / Line Art · Minimalismo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per poster di confronto sopra-sotto 3:4, la metà superiore mantiene la foto di viaggio reale e la metà inferiore viene trasformata in un disegno a linee minimalista bianco avorio su sfondo blu scuro.
 
 <img src="images/2099485936535167139-1.jpg" alt="Immagine 1" width="480" />
 
@@ -2804,7 +2804,7 @@ Poster / Volantino · Schizzo / Line Art · Minimalismo · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster a confronto sopra-sotto indipendente in formato verticale 3:4. La metà superiore conserva integralmente la foto reale di viaggio della persona in Indonesia fornita in input, senza alterazioni di colore, senza ritagliare la persona e senza renderla in stile cartone animato. La metà inferiore ridisegna la stessa persona e l'ambiente reale come un disegno a linee minimalista bianco avorio su uno sfondo opaco a tinta unita blu navy profondo. Mantieni il numero di persone, la posa in piedi o mentre cammina, i contorni dei vestiti, l'orientamento e le proporzioni; estrai dalla foto originale strutture come porticati, onde marine, terrazzamenti di riso, alberi e l'orizzonte, esprimendoli con poche linee fluide continue, archi e linee di contorno. La figura nella metà inferiore è rimpicciolita, lasciando ampio spazio negativo attorno; le linee presentano una leggera granulosità simile a gesso o pastello ma restano sobrie nell'insieme, senza riempimenti di colore né ombreggiature realistiche. Utilizza una sottile linea di separazione bianca al centro. La metà inferiore deve essere un vero ridisegno e non una semplice viratura in blu della foto. Non aggiungere testo, loghi, filigrane, badge angolari dell'immagine originale, badge IA o collage.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3777,20 +3777,20 @@ Traduzione in corso
 
 <a name="prompt-2099481568754413910"></a>
 
-### Traduzione in corso
+### Una donna con un trench nero lucido che regge un ombrello trasparente in una strada di Tokyo bagnata e illuminata dai neon di notte.
 
 Autore：[@\_\_Libra1](https://x.com/__Libra1) · [Post originale](https://x.com/__Libra1/status/2099481568754413910)
 
 Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una donna con un trench nero lucido che regge un ombrello trasparente in una strada di Tokyo bagnata e illuminata dai neon di notte.
 
 <img src="images/2099481568754413910-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Logo Lane-Look. Durante una notte torrenziale a Tokyo. Vestita con un trench nero lucido e con in mano un ombrello trasparente che cattura i riflessi delle insegne al neon rosse. Le strade sono bagnate e brillanti. Folle sfocate di persone con ombrelli che passano accanto. Atmosfera enigmatica e cinematografica, parzialmente illuminata dalle vivaci insegne.
 ```
 
 [↑ Torna alle categorie](#catalog)

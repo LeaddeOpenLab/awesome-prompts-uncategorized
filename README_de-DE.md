@@ -2785,13 +2785,13 @@ Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumw
 
 <a name="prompt-2099485936535167139"></a>
 
-### Übersetzung läuft
+### Prompt für ein 3:4-Vergleichsplakat \(oben/unten\): Die obere Hälfte behält das echte Reisefoto bei, die untere Hälfte wird in eine minimalistische elfenbeinweiße Linienzeichnung auf dunkelblauem Grund umgewandelt.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2099485936535167139)
 
 Plakat / Flyer · Skizze / Strichzeichnung · Minimalismus · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein 3:4-Vergleichsplakat \(oben/unten\): Die obere Hälfte behält das echte Reisefoto bei, die untere Hälfte wird in eine minimalistische elfenbeinweiße Linienzeichnung auf dunkelblauem Grund umgewandelt.
 
 <img src="images/2099485936535167139-1.jpg" alt="Bild 1" width="480" />
 
@@ -2804,7 +2804,7 @@ Plakat / Flyer · Skizze / Strichzeichnung · Minimalismus · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein eigenständiges Vorher-Nachher-Vergleichsplakat im Hochformat 3:4 mit vertikaler Teilung oben und unten. Die obere Hälfte behält das eingegebene echte Reisefoto der Person in Indonesien vollständig bei, ohne Farbänderungen, ohne die Person zu beschneiden und ohne Cartoonisierung. Die untere Hälfte zeichnet dieselbe Person und die reale Umgebung als elfenbeinweiße, minimalistische Linienzeichnung auf einem matten, einfarbig tiefdunkelblauen Hintergrund neu. Behalte die Anzahl der Personen, die Steh- oder Gehpose, die Umrisse der Kleidung, die Ausrichtung und die Proportionen bei; abstrahiere Strukturen wie Portale, Meereswellen, Reisterrassen, Bäume und den Horizont aus dem Originalfoto und stelle sie mit wenigen durchgehenden Windlinien, Bögen und Konturlinien dar. Die Figur in der unteren Hälfte wird verkleinert, wobei reichlich negativer Raum um sie herum verbleibt; die Linien weisen eine leichte Kreide- oder Wachsmalstift-Körnung auf, bleiben jedoch insgesamt dezent, ohne Farbflächen und ohne realistische Schatten. Verwende in der Mitte eine dünne weiße Trennlinie. Die untere Hälfte muss wirklich neu gezeichnet sein und darf nicht bloß das gesamte Foto blau einfärben. Füge keinen Text, keine Logos, Wasserzeichen, Bildecken-Symbole des Originals, KI-Badges oder Collagen hinzu.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3777,20 +3777,20 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2099481568754413910"></a>
 
-### Übersetzung läuft
+### Eine Frau in einem glänzenden schwarzen Trenchcoat, die nachts auf einer nassen, neonbeleuchteten Straße in Tokio einen transparenten Regenschirm hält.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Originalbeitrag](https://x.com/__Libra1/status/2099481568754413910)
 
 Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine Frau in einem glänzenden schwarzen Trenchcoat, die nachts auf einer nassen, neonbeleuchteten Straße in Tokio einen transparenten Regenschirm hält.
 
 <img src="images/2099481568754413910-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Lane-Look-Logo. Während einer regnerischen Nacht in Tokio. Bekleidet mit einem glänzenden schwarzen Trenchcoat und einem durchsichtigen Regenschirm in der Hand, der die Reflexionen roter Neonschilder einfängt. Die Straßen sind nass und leuchtend. Verschwommene Menschenmengen mit Regenschirmen ziehen vorbei. Wirkt rätselhaft und filmreif, teilweise beleuchtet von den lebendigen Schildern.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -2802,13 +2802,13 @@ Transforme a foto numa caricatura a guache pintada à mão sobre papel de algod�
 
 <a name="prompt-2099485936535167139"></a>
 
-### Tradução em curso
+### Prompt de cartaz de comparação superior-inferior 3:4, a metade superior preserva a fotografia de viagem real e a metade inferior converte-se em desenho linear minimalista em branco marfim sobre fundo azul-escuro.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2099485936535167139)
 
 Pôster / Folheto · Esboço / Arte Linear · Minimalismo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de cartaz de comparação superior-inferior 3:4, a metade superior preserva a fotografia de viagem real e a metade inferior converte-se em desenho linear minimalista em branco marfim sobre fundo azul-escuro.
 
 <img src="images/2099485936535167139-1.jpg" alt="Imagem 1" width="480" />
 
@@ -2821,7 +2821,7 @@ Pôster / Folheto · Esboço / Arte Linear · Minimalismo · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Cria um cartaz independente de comparação superior-inferior em formato vertical 3:4. A metade superior mantém integralmente a fotografia real de viagem da pessoa na Indonésia fornecida, sem alterar cores, sem cortar a pessoa e sem cartoonizar. A metade inferior redesenha a mesma pessoa e o ambiente real como um desenho linear minimalista em branco marfim sobre um fundo mate sólido em azul-marinho escuro. Mantém o número de pessoas, a postura de pé ou a caminhar, o contorno das roupas, a orientação e as proporções; extrai da fotografia original estruturas como pórticos, ondas do mar, socalcos de arroz, árvores e a linha do horizonte, expressando-as com poucas linhas contínuas de vento, arcos e linhas de contorno. A figura da metade inferior é reduzida, preservando amplo espaço negativo em seu redor; as linhas apresentam uma ligeira granulação de giz ou lápis de cera, mas com sobriedade global, sem preenchimento de cor nem sombras realistas. Utiliza uma fina linha divisória branca ao centro. A metade inferior tem de ser um redesenho autêntico e não apenas transformar a fotografia inteira em azul. Não adiciones texto, logótipos, marcas de água, marcas de canto da imagem original, marcas de IA nem colagens.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3794,20 +3794,20 @@ Tradução em curso
 
 <a name="prompt-2099481568754413910"></a>
 
-### Tradução em curso
+### Uma mulher com uma gabardina preta brilhante a segurar num guarda-chuva transparente numa rua de Tóquio molhada e iluminada por néon à noite.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicação original](https://x.com/__Libra1/status/2099481568754413910)
 
 Retrato / Selfie · Personagem · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma mulher com uma gabardina preta brilhante a segurar num guarda-chuva transparente numa rua de Tóquio molhada e iluminada por néon à noite.
 
 <img src="images/2099481568754413910-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Logótipo Lane-Look. Ao longo de uma noite torrencial em Tóquio. Vestida com uma gabardina preta brilhante e a segurar num guarda-chuva transparente que capta os reflexos dos néones vermelhos. As ruas estão molhadas e reluzentes. Multidões desfocadas de pessoas com guarda-chuvas a passar. Sensação enigmática e cinematográfica, parcialmente iluminada pelas tabuletas vibrantes.
 ```
 
 [↑ Voltar às categorias](#catalog)

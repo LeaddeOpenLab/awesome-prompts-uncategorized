@@ -2785,13 +2785,13 @@ Transformez la photo en une caricature à la gouache peinte à la main sur du pa
 
 <a name="prompt-2099485936535167139"></a>
 
-### Traduction en cours
+### Prompt d'affiche comparative haut-bas 3:4, la moitié supérieure conservant la photo de voyage réelle et la moitié inférieure convertie en dessin au trait minimaliste blanc ivoire sur fond bleu foncé.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2099485936535167139)
 
 Affiche / Flyer · Croquis / Dessin au trait · Minimalisme · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'affiche comparative haut-bas 3:4, la moitié supérieure conservant la photo de voyage réelle et la moitié inférieure convertie en dessin au trait minimaliste blanc ivoire sur fond bleu foncé.
 
 <img src="images/2099485936535167139-1.jpg" alt="Image 1" width="480" />
 
@@ -2804,7 +2804,7 @@ Affiche / Flyer · Croquis / Dessin au trait · Minimalisme · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche comparative haut-bas autonome au format portrait 3:4. La moitié supérieure conserve intégralement la photo touristique réelle de la personne en Indonésie fournie en entrée, sans altération de couleur, sans recadrer le personnage et sans le cartooniser. La moitié inférieure redessine la même personne et l'environnement réel sous la forme d'un dessin au trait minimaliste blanc ivoire sur un fond mat uni bleu marine profond. Conservez le nombre de personnes, la posture debout ou en marche, la silhouette des vêtements, l'orientation et les proportions ; extrayez de la photo d'origine des structures telles que des portiques, des vagues, des rizières en terrasses, des arbres et l'horizon, en les exprimant à l'aide de quelques lignes de vent continues, d'arcs et de lignes de contour. La silhouette de la moitié inférieure est réduite, laissant un grand espace négatif autour d'elle ; les traits présentent un léger grain de craie ou de pastel mais restent sobres dans l'ensemble, sans remplissage de couleur ni ombrages réalistes. Utilisez une fine ligne de séparation blanche au centre. La moitié inférieure doit être un véritable redessin et non une simple coloration en bleu de la photo. N'ajoutez aucun texte, logo, filigrane, badge d'angle d'image d'origine, badge IA ou collage.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3777,20 +3777,20 @@ Traduction en cours
 
 <a name="prompt-2099481568754413910"></a>
 
-### Traduction en cours
+### Une femme vêtue d'un trench noir brillant tenant un parapluie transparent dans une rue de Tokyo mouillée et éclairée par des néons la nuit.
 
 Auteur：[@\_\_Libra1](https://x.com/__Libra1) · [Publication originale](https://x.com/__Libra1/status/2099481568754413910)
 
 Portrait / Selfie · Personnage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une femme vêtue d'un trench noir brillant tenant un parapluie transparent dans une rue de Tokyo mouillée et éclairée par des néons la nuit.
 
 <img src="images/2099481568754413910-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Logo Lane-Look. Tout au long d'une nuit torrentielle à Tokyo. Vêtue d'un trench noir brillant et tenant un parapluie transparent qui capte les reflets des néons rouges. Les rues sont mouillées et lumineuses. Des foules floues de personnes avec des parapluies passent à côté. Ambiance énigmatique et cinématographique, partiellement éclairée par les enseignes éclatantes.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -2820,13 +2820,13 @@ Transforma la foto en una caricatura al gouache pintada a mano sobre papel de al
 
 <a name="prompt-2099485936535167139"></a>
 
-### Traducción en curso
+### Prompt de póster comparativo arriba-abajo 3:4, la mitad superior conserva la foto real de viaje y la mitad inferior se convierte en arte lineal minimalista blanco marfil sobre fondo azul oscuro.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2099485936535167139)
 
 Póster / Folleto · Boceto / Dibujo lineal · Minimalismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de póster comparativo arriba-abajo 3:4, la mitad superior conserva la foto real de viaje y la mitad inferior se convierte en arte lineal minimalista blanco marfil sobre fondo azul oscuro.
 
 <img src="images/2099485936535167139-1.jpg" alt="Imagen 1" width="480" />
 
@@ -2839,7 +2839,7 @@ Póster / Folleto · Boceto / Dibujo lineal · Minimalismo · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster independiente de redibujo comparativo arriba-abajo en formato vertical 3:4. La mitad superior conserva intacta la fotografía real de viaje de la persona en Indonesia que se introduce, sin alterar los colores, sin recortar al personaje y sin convertirlo en dibujo animado. La mitad inferior redibuja a la misma persona y el entorno real como un arte lineal minimalista en blanco marfil sobre un fondo mate sólido en azul marino oscuro. Conserva el número de personas, la postura de pie o caminando, el contorno de la ropa, la orientación y las proporciones; extrae de la foto original estructuras como pórticos, olas del mar, terrazas de arroz, árboles y la línea del horizonte, expresándolas con unas pocas líneas fluidas continuas, arcos y líneas de contorno. La figura de la mitad inferior se reduce de tamaño, dejando un amplio espacio negativo a su alrededor; las líneas presentan una ligera textura granulada de tiza o crayón pero con contención general, sin rellenos de color ni sombras realistas. En el centro, usa una fina línea divisoria blanca. La mitad inferior debe ser un redibujo real, no una simple coloración azul de la fotografía. No añadas texto, logotipos, marcas de agua, insignias de esquina de la imagen original, insignias de IA ni collages.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3822,20 +3822,20 @@ Traducción en curso
 
 <a name="prompt-2099481568754413910"></a>
 
-### Traducción en curso
+### Una mujer con una gabardina negra brillante sosteniendo un paraguas transparente en una calle de Tokio húmeda e iluminada con luces de neón por la noche.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicación original](https://x.com/__Libra1/status/2099481568754413910)
 
 Retrato / Selfie · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una mujer con una gabardina negra brillante sosteniendo un paraguas transparente en una calle de Tokio húmeda e iluminada con luces de neón por la noche.
 
 <img src="images/2099481568754413910-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Logotipo de Lane-Look. Durante una noche torrencial en Tokio. Ataviada con una gabardina negra brillante y sosteniendo un paraguas transparente que capta los reflejos de los letreros de neón rojos. Las calles están húmedas y resplandecientes. Multitudes borrosas de personas con paraguas pasando de largo. Sensación enigmática y cinematográfica, parcialmente iluminada por los vibrantes letreros.
 ```
 
 [↑ Volver a categorías](#catalog)

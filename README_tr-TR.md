@@ -2802,13 +2802,13 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 
 <a name="prompt-2099485936535167139"></a>
 
-### Çeviri sürüyor
+### 3:4 alt-üst karşılaştırma afişi istemi; üst yarı gerçek seyahat fotoğrafını korur, alt yarı koyu mavi zemin üzerinde fildişi beyazı minimalist çizgi resmine dönüştürülür.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2099485936535167139)
 
 Poster / El İlanı · Çizim / Çizgi Sanatı · Minimalizm · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 3:4 alt-üst karşılaştırma afişi istemi; üst yarı gerçek seyahat fotoğrafını korur, alt yarı koyu mavi zemin üzerinde fildişi beyazı minimalist çizgi resmine dönüştürülür.
 
 <img src="images/2099485936535167139-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2821,7 +2821,7 @@ Poster / El İlanı · Çizim / Çizgi Sanatı · Minimalizm · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+3:4 dikey formatta, alt-üst karşılaştırmalı bağımsız bir yeniden çizim afişi oluşturun. Üst yarı, girilen Endonezya kişi seyahat gerçek fotoğrafını renkleri değiştirmeden, kişiyi kırpmadan ve karikatürize etmeden tamamen korur. Alt yarı, aynı kişiyi ve gerçek ortamı koyu lacivert düz mat bir zemin üzerinde fildişi beyazı minimalist bir çizim sanatı olarak yeniden çizer. Kişi sayısını, ayakta durma veya yürüme duruşunu, kıyafet hatlarını, yönü ve oranları koruyun; orijinal fotoğraftan revak, deniz dalgaları, teras pirinç tarlaları, ağaçlar ve ufuk çizgisi gibi yapıları çıkararak az sayıda kesintisiz rüzgar çizgisi, yay ve kontur çizgisiyle ifade edin. Alt yarıdaki figür küçültülmeli, etrafında bolca negatif alan bırakılmalı, çizgiler hafif tebeşir veya pastel boya dokusuna sahip olmalı ancak genel olarak ölçülü kalmalı, renk dolgusu ve gerçekçi gölgeler kullanılmamalıdır. Ortada ince beyaz bir ayırıcı çizgi kullanın. Alt yarı, fotoğrafın tamamının maviye dönüştürülmesi değil, gerçekten yeniden çizilmiş bir çalışma olmalıdır. Metin, logo, filigran, orijinal görsel köşe etiketi, yapay zeka köşe etiketi veya kolaj eklemeyin.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3794,20 +3794,20 @@ Karakter · Yayımlandı
 
 <a name="prompt-2099481568754413910"></a>
 
-### Çeviri sürüyor
+### Gece vakti Tokyo'nun ıslak, neon ışıklı bir caddesinde şeffaf bir şemsiye tutan, parlak siyah trençkotlu bir kadın.
 
 Yazar：[@\_\_Libra1](https://x.com/__Libra1) · [Orijinal gönderi](https://x.com/__Libra1/status/2099481568754413910)
 
 Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece vakti Tokyo'nun ıslak, neon ışıklı bir caddesinde şeffaf bir şemsiye tutan, parlak siyah trençkotlu bir kadın.
 
 <img src="images/2099481568754413910-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Lane-Look logosu. Tokyo'da sağanak yağışlı bir gece boyunca. Parlak siyah bir trençkot giymiş ve kırmızı neon tabelaların yansımalarını yakalayan şeffaf bir şemsiye tutuyor. Sokaklar ıslak ve parıldıyor. Şemsiyeli belirsiz insan kalabalıkları yanından geçip gidiyor. Canlı tabelalarla kısmen aydınlatılmış, gizemli ve sinematik hisler.
 ```
 
 [↑ Kategorilere dön](#catalog)
