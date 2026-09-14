@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**171** Prompt · Ultima aggiunta: **2026-09-13**
+**172** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1218,6 +1218,28 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 <a name="category-cinematic-film-still"></a>
 
 ## Fermo immagine cinematografico / Still fotografico
+
+<a name="prompt-2099234788859105541"></a>
+
+### Traduzione in corso
+
+Autore：[@mys1111](https://x.com/mys1111) · [Post originale](https://x.com/mys1111/status/2099234788859105541)
+
+Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099234788859105541.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099000682854625438"></a>
 

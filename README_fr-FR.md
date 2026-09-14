@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**171** Prompts · Dernier ajout: **2026-09-13**
+**172** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1218,6 +1218,28 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 <a name="category-cinematic-film-still"></a>
 
 ## Image cinématographique / Photogramme de film
+
+<a name="prompt-2099234788859105541"></a>
+
+### Traduction en cours
+
+Auteur：[@mys1111](https://x.com/mys1111) · [Publication originale](https://x.com/mys1111/status/2099234788859105541)
+
+Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099234788859105541.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099000682854625438"></a>
 

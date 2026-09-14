@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**171** Prompts · Latest addition: **2026-09-13**
+**172** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1684,6 +1684,41 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099234788859105541"></a>
+
+### Structured prompt to generate a cinematic sci-fi combat video between Earth-based AI drone swarms and an alien ship invasion over a nocturnal metropolis.
+
+Author：[@mys1111](https://x.com/mys1111) · [Source](https://x.com/mys1111/status/2099234788859105541)
+
+Cinematic / Film Still · Cyberpunk / Sci-Fi · Published
+
+**Summary:** Structured prompt to generate a cinematic sci-fi combat video between Earth-based AI drone swarms and an alien ship invasion over a nocturnal metropolis.
+
+<img src="covers/2099234788859105541.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+[Generation Goal]
+Generate a video of a large-scale alien invasion where AIs face off against UFOs. The main event is air and ground combat between fleets of artificial intelligence drones and alien craft.
+
+[Event Script]
+Beginning: Night skies over an illuminated metropolis fill with flashes and formations of disc-shaped and triangular UFOs descending and firing energy beams.
+Main event: Swarms of AI drones, geometrically designed with blue lights, rise from towers and hangars, form tactical squadrons, intercept the path of the UFOs, and open fire with precision lasers and force fields. Some drones sacrifice themselves in controlled collisions to bring down enemy craft, while the AIs coordinate networked attacks, disrupting the invading formation and repelling the main wave.
+Ending: The remaining UFOs retreat into space; the AI drones remain in surveillance formation over the partially intact city, with smoke and debris drifting through the air.
+
+[Maintain Consistency]
+Maintain the identity of the AIs as Earth-based technological forces (drones and autonomous systems) confronting the alien invaders. Preserve the visual contrast between the cool blue light of the AIs and the green/purple flashes of the UFOs, the scale of the nocturnal battle, and the outcome of the successful AI resistance.
+
+The visuals feature an epic sci-fi cinematic style, with bright explosions, energy trails, and an atmosphere of technological tension.
+The camera uses wide aerial shots of the battle, dynamic tracking of drone dogfights, and close-up cutaways of laser impacts.
+The sound includes the hum of drone thrusters, energy beams, distant explosions, and a synthetic score of mounting intensity.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099000682854625438"></a>
 

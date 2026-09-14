@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**171** Prompt · Son eklenen: **2026-09-13**
+**172** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1232,6 +1232,28 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 <a name="category-cinematic-film-still"></a>
 
 ## Sinematik / Film Karesi
+
+<a name="prompt-2099234788859105541"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@mys1111](https://x.com/mys1111) · [Orijinal gönderi](https://x.com/mys1111/status/2099234788859105541)
+
+Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099234788859105541.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099000682854625438"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**171** Prompts · Última incorporación: **2026-09-13**
+**172** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1254,6 +1254,28 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 <a name="category-cinematic-film-still"></a>
 
 ## Cine / Fotograma de película
+
+<a name="prompt-2099234788859105541"></a>
+
+### Traducción en curso
+
+Autor：[@mys1111](https://x.com/mys1111) · [Publicación original](https://x.com/mys1111/status/2099234788859105541)
+
+Cine / Fotograma de película · Ciberpunk / Ciencia ficción · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099234788859105541.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099000682854625438"></a>
 
