@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T08:17:10.879Z",
+  "model": "unknown-image",
+  "prompt": "1person, portrait,\nlooking up, tilted head, slightly open mouth,\npearl tears, pearl makeup, gem tears, gem under eye\n3::monochrome, greyscale, selective color, colored eyes only, colored tears only::,\nsimple background, dark background, studio lighting, dramatic lighting,",
+  "promptTranslations": {
+    "en": "1person, portrait, looking up, tilted head, slightly open mouth, pearl tears, pearl makeup, gem tears, gem under eye 3::monochrome, greyscale, selective color, colored eyes only, colored tears only::, simple background, dark background, studio lighting, dramatic lighting,"
+  },
+  "summaryTranslations": {
+    "en": "1person, portrait, pearl tears and selective colored eyes/tears on monochrome background."
+  },
+  "translationVersion": 2,
+  "summary": "1person, portrait, pearl tears and selective colored eyes/tears on monochrome background.",
+  "summaryEn": "1person, portrait, pearl tears and selective colored eyes/tears on monochrome background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099395304449831352",
+    "canonicalUrl": "https://x.com/2__han__/status/2099395304449831352",
+    "author": {
+      "username": "2__han__",
+      "displayName": "이한",
+      "profileUrl": "https://x.com/2__han__"
+    },
+    "publishedAt": "2026-09-14T07:10:20.000Z",
+    "collectedAt": "2026-09-14T08:16:26.433Z",
+    "language": "ko",
+    "originalText": "ᴾᴿᴼᴹᴾᵀ   \n프롬프트 공유 _ 자유롭게 수정, 사용\n*의상 없습니다. \n*흑백 가중치 3으로 되어 있습니다. \n\n1person, portrait,\nlooking up, tilted head, slightly open mouth,\npearl tears, pearl makeup, gem tears, gem under eye\n3::monochrome, greyscale, selective color, colored eyes only, colored tears only::,\nsimple background, dark background, studio lighting, dramatic lighting,",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSKLWJEaEAEpdfw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSKLWJEaEAEpdfw.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSKMGrka0AALop4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSKMGrka0AALop4.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 88
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/2__han__/status/2099395304449831352",
+  "coverUrl": "https://pbs.twimg.com/media/HSKLWJEaEAEpdfw.jpg",
+  "coverPath": "images/2099395304449831352-1.jpg",
+  "imagePaths": [
+    "images/2099395304449831352-1.jpg",
+    "images/2099395304449831352-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSKLWJEaEAEpdfw",
+    "x-image:/media/HSKMGrka0AALop4",
+    "x-post:2099395304449831352"
+  ],
+  "analysis": {
+    "summary": "1person, portrait, pearl tears and selective colored eyes/tears on monochrome background.",
+    "summaryEn": "1person, portrait, pearl tears and selective colored eyes/tears on monochrome background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt specifies portrait with pearl tears, monochrome style with selective color on eyes and tears, matching both generated images."
+    },
+    "videoQuality": null,
+    "originalPrompt": "1person, portrait,\nlooking up, tilted head, slightly open mouth,\npearl tears, pearl makeup, gem tears, gem under eye\n3::monochrome, greyscale, selective color, colored eyes only, colored tears only::,\nsimple background, dark background, studio lighting, dramatic lighting,",
+    "sourceRange": {
+      "start": 66,
+      "end": 338
+    },
+    "translations": {
+      "zh": "单人，肖像，抬头，歪头，微张着嘴，珍珠眼泪，珍珠妆容，宝石眼泪，眼下贴钻，3::黑白，灰度，局部色彩，仅眼睛有色，仅眼泪有色::，简单背景，深色背景，棚拍光照，戏剧性光影，",
+      "en": "1person, portrait, looking up, tilted head, slightly open mouth, pearl tears, pearl makeup, gem tears, gem under eye, 3::monochrome, greyscale, selective color, colored eyes only, colored tears only::, simple background, dark background, studio lighting, dramatic lighting,"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "动漫风黑白局部色彩人像插画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
