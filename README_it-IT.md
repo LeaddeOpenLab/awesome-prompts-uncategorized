@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**193** Prompt · Ultima aggiunta: **2026-09-14**
+**195** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099379743108055415"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2099379743108055415)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099379743108055415-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099352628073476468"></a>
 
@@ -3550,6 +3572,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2099371183498277308"></a>
+
+### Traduzione in corso
+
+Autore：[@Urwa\_345](https://x.com/Urwa_345) · [Post originale](https://x.com/Urwa_345/status/2099371183498277308)
+
+Prodotto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099371183498277308.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099247373570478453"></a>
 

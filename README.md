@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**193** Prompts · Latest addition: **2026-09-14**
+**195** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099379743108055415"></a>
+
+### Japanese soft-light indoor portrait photography of a young East Asian woman wearing a white off-shoulder lace-up asymmetrical lace dress.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2099379743108055415)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
+
+**Summary:** Japanese soft-light indoor portrait photography of a young East Asian woman wearing a white off-shoulder lace-up asymmetrical lace dress.
+
+<img src="images/2099379743108055415-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic indoor soft-light portrait photography, vertical aspect ratio around 4:5, an adult East Asian woman in her 20s, standing before a light grayish-white wall, framed completely from the top of the head to below the knees, body turned slightly toward the left of the frame, with her waist and hips creating an obvious natural S-curve. Shot with an equivalent 50–70mm lens from a distance of about 2–3 meters, camera placed around chest-to-abdomen height, natural perspective, conveying a soft, hazy, low-contrast Japanese photo-book portrait texture throughout.
+
+The subject has a petite to medium bone structure with a naturally voluptuous hourglass figure, slightly narrow shoulders, a noticeably full bust, an extremely slender waist, rounded hips, and soft realistic thigh volume. The overall visual emphasis is on a full upper body + pronounced tiny waist + natural hip curves; no athletic musculature, broad shoulders, thick back, extreme oversized hips, or flat paper-thin proportions.
+
+Pose: hips slightly shifted to one side, one leg serving as the weight-bearing leg while the other relaxes naturally forward. The upper torso leans subtly to the right of the frame, head tilted gently to one side with the chin slightly tucked, eyes looking directly into the camera lens with a quiet, gentle, subtly aloof expression. Her left hand rests naturally near the dress hem, gently lifting one side of the skirt; the other arm hangs naturally slightly behind her body.
+
+Hair and face: medium-long dark brownish-black hair, loosely tied behind the head into a low bun / low ponytail, with thin wispy bangs across the forehead and plenty of natural loose tendrils brushing along her cheeks and neck, styled slightly undone and relaxed. Delicate, slightly oval facial contour, fair skin with soft pinkish undertones, gentle eye makeup, defined eyelashes, a petite nose bridge, and muted low-saturation pink lips. Around her neck is an ultra-fine silver necklace with a tiny cross / slender pendant at the center.
+
+Outfit: a pure white off-shoulder form-fitting asymmetrical lace dress. The bodice features a low-cut sweetheart neckline structure paired with off-shoulder short sleeves, leaving shoulders and collarbones completely bare, with tiny white lace ruffles trimming the cuffs. The chest area showcases a distinct white crisscross lace-up / corset lacing detail extending downward from the center bust into a tight X-pattern cord structure.
+
+The dress fits snugly from below the bust down through the waist, accented with subtle corset boning lines and vertical seams that sharply carve out a slim waistline. The lower skirt features an asymmetrical high-low hem, noticeably shorter on her left thigh while the right panel cascades down near the calf, creating soft fluid draping layers.
+
+The left hem incorporates a high side slit / panel cutout revealing an underlayer of white semi-sheer floral lace mesh, patterned with delicate miniature flowers and vines, allowing partial thigh skin to show through. The outer white skirt edge is soft and lightweight, with gentle natural folds and lace trimmings. The primary fabric is matte stretch knit combined with sheer lace netting; avoid shiny satin or heavy bridal gown materials.
+
+Background: extremely minimalist—a light grayish-white wall, light gray-brown wood flooring, with only a tiny corner of white bedding / duvet peeking through at the bottom-left corner, and a dark vertical doorframe or mirror frame visible at the right edge. No complex furniture or clutter.
+
+Lighting: expansive soft natural window light with subtle intentional overexposure. The subject's face, neck, shoulders, chest, and white dress are enveloped in soft glow; skin appears creamy white, with exceptionally light shadows. The entire scene is bright, low-contrast, and gently bloomed/diffused, with parts of the white wall and dress approaching blown-out highlights while preserving lace and fabric folds.
+
+Overall aesthetic: Japanese soft-focus portrait / subtle vintage digicam bloom aesthetic: gentle haziness, low sharpness, soft highlights, soft pinkish skin tones, delicate airy ambience; no heavy HDR, no sharp commercial studio glare.
+
+Key anchors: adult East Asian woman + loose low bun updo + wispy bangs + voluptuous hourglass body + pure white off-shoulder low-cut sweetheart dress + white crisscross chest lacing + tiny waist + asymmetrical high-low hemline + one-sided high slit + white semi-sheer floral lace insert + one hand lightly lifting dress hem + light grayish-white wall + soft overexposed window illumination + hazy Japanese photo-book style.
+
+Avoid: black dress, colorful dress, long sleeves, generic spaghetti strap dress, missing chest lacing, symmetrical hemline, slit without lace, straight loose hair, high ponytail, bodybuilder physique, broad shoulders, thick waist, extreme hyper hips, opulent interior, harsh camera flash, cold hard cinematic lighting, over-sharpening, plastic skin, anime face, CG look, watermarks, and scrambled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099352628073476468"></a>
 
@@ -4416,6 +4460,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099371183498277308"></a>
+
+### 10-second vertical commercial prompt for Apple AirPods Max featuring product desk shots, macro details, and lifestyle scenes.
+
+Author：[@Urwa\_345](https://x.com/Urwa_345) · [Source](https://x.com/Urwa_345/status/2099371183498277308)
+
+Product · Published
+
+**Summary:** 10-second vertical commercial prompt for Apple AirPods Max featuring product desk shots, macro details, and lifestyle scenes.
+
+<img src="covers/2099371183498277308.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a cinematic 10-second premium advertisement for Apple AirPods Max in vertical 9:16 format.\n\n0–2 sec: Slow camera push toward AirPods Max resting on a minimalist desk, dramatic studio lighting.\n\n2–4 sec: Macro camera movement across the aluminum ear cup and digital crown, highlighting premium materials and fine details.\n\n4–6 sec: Smooth transition to a person wearing the headphones beside a large window, peaceful lifestyle atmosphere, face never shown.\n\n6–8 sec: Camera slowly circles around the headphones while the background softly changes into a modern workspace.\n\n8–10 sec: Final hero shot of AirPods Max centered against a clean premium background, subtle cinematic camera movement and soft reflections.\n\nPhotorealistic Apple-style commercial, realistic materials, smooth transitions, cinematic lighting, shallow depth of field, premium technology campaign, no text overlays, no watermark.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099247373570478453"></a>
 
