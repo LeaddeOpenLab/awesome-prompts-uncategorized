@@ -1337,13 +1337,13 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2099337591476924777"></a>
 
-### Traduction en cours
+### Prompt de portrait cinématographique d'une jeune fille en pull rayé buvant un latte glacé.
 
 Auteur：[@oye\_samia](https://x.com/oye_samia) · [Publication originale](https://x.com/oye_samia/status/2099337591476924777)
 
 Photographie · Image cinématographique / Photogramme de film · Portrait / Selfie · Personnage · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait cinématographique d'une jeune fille en pull rayé buvant un latte glacé.
 
 <img src="images/2099337591476924777-1.jpg" alt="Image 1" width="480" />
 
@@ -1352,7 +1352,7 @@ Photographie · Image cinématographique / Photogramme de film · Portrait / Sel
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait cinématographique en gros plan d'une jeune fille, légèrement granuleux. Elle se tient devant un mur gris foncé mat. Son maquillage présente un éclat doux, des lèvres pulpeuses et brillantes, du mascara et un eye-liner noir. Ses cheveux sont longs, raides et coiffés dans un style Old Money, descendant jusqu'à la taille, avec quelques mèches balayant son visage sous l'effet du vent. Elle porte un gros pull en maille grise à rayures rouge foncé, laissant une épaule dénudée, et un jean ample rouge foncé aux bords bruts. Elle boit un latte glacé dans un gobelet en carton rouge foncé. Elle esquisse un léger sourire, la bouche fermée. Lumière du jour avec quelques ombres. Format 9:16. Ongles courts et carrés de couleur claire. Prise de vue au flash.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -1373,13 +1373,13 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2099337591476924777"></a>
 
-### Đang dịch
+### Prompt chân dung điện ảnh của một cô gái mặc áo len sọc đang uống latte đá.
 
 Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2099337591476924777)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chân dung điện ảnh của một cô gái mặc áo len sọc đang uống latte đá.
 
 <img src="images/2099337591476924777-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -1388,7 +1388,7 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh t�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức chân dung cận cảnh đậm chất điện ảnh của một cô gái, có hạt nhiễu nhẹ. Cô đứng trước bức tường màu xám đậm nhám mờ. Lớp trang điểm của cô toát lên vẻ rạng rỡ nhẹ nhàng, đôi môi căng mọng bóng bẩy, có chuốt mascara và kẻ mắt đen. Mái tóc dài, thẳng theo phong cách Old Money buông xõa ngang eo, vài lọn tóc vương trên mặt vì gió. Cô mặc áo len đan dày màu xám kẻ sọc đỏ sẫm trễ một bên vai, kết hợp cùng quần jean ống rộng màu đỏ sẫm có gấu tua rua rách tự nhiên. Cô đang uống một ly latte đá từ chiếc cốc giấy màu đỏ sẫm. Cô nở nụ cười mỉm nhẹ nhàng khép môi. Ánh sáng ban ngày kèm một chút bóng đổ. Khung hình 9:16. Móng tay ngắn vuông vức màu sáng. Chụp bằng đèn flash.
 ```
 
 [↑ Về danh mục](#catalog)

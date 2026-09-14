@@ -1337,13 +1337,13 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2099337591476924777"></a>
 
-### Traduzione in corso
+### Prompt per ritratto cinematografico di una ragazza con maglione a righe che beve un latte ghiacciato.
 
 Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2099337591476924777)
 
 Fotografia · Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto cinematografico di una ragazza con maglione a righe che beve un latte ghiacciato.
 
 <img src="images/2099337591476924777-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1352,7 +1352,7 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Ritratto / S
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto cinematografico in primo piano di una ragazza, leggermente sgranato. Si trova davanti a una parete opaca grigio scuro. Il suo trucco ha una luce delicata, labbra piene e lucide, mascara ed eyeliner nero. I suoi capelli sono lunghi, lisci e in stile Old Money, scendono fino alla vita, con alcune ciocche che le cadono sul viso per il vento. Indossa un maglione pesante lavorato a maglia grigio con strisce rosso scuro, una spalla scoperta e jeans larghi rosso scuro con orli a taglio vivo. Sta bevendo un latte ghiacciato da un bicchiere di cartone rosso scuro. Ha un leggero sorriso a bocca chiusa. Luce del giorno con qualche ombra. Formato 9:16. Unghie corte e quadrate di colore chiaro. Scatto con flash.
 ```
 
 [↑ Torna alle categorie](#catalog)

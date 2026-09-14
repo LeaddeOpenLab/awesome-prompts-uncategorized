@@ -1373,13 +1373,13 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2099337591476924777"></a>
 
-### Traducción en curso
+### Prompt de retrato cinematográfico de una chica con un jersey a rayas bebiendo un latte helado.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2099337591476924777)
 
 Fotografía · Cine / Fotograma de película · Retrato / Selfie · Personaje · Comida / Bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato cinematográfico de una chica con un jersey a rayas bebiendo un latte helado.
 
 <img src="images/2099337591476924777-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1388,7 +1388,7 @@ Fotografía · Cine / Fotograma de película · Retrato / Selfie · Personaje ·
 **Prompt**
 
 ```text
-Traducción en curso
+Un retrato cinematográfico en primer plano de una chica, ligeramente granulado. Está de pie contra una pared mate de color gris oscuro. Su maquillaje tiene un brillo suave, labios gruesos y brillantes, máscara de pestañas y delineador de ojos negro. Su pelo es largo, liso y con estilo Old Money, cayendo hasta la cintura, con algunos mechones sobre la cara por el viento. Lleva un jersey grueso de punto gris con rayas de color rojo oscuro, con un hombro al descubierto, y unos vaqueros holgados de color rojo oscuro con los bordes deshilachados. Está bebiendo un latte helado de un vaso de cartón de color rojo oscuro. Tiene una ligera sonrisa con la boca cerrada. Luz de día con algo de sombra. Formato 9:16. Uñas cortas cuadradas de color claro. Disparada con flash.
 ```
 
 [↑ Volver a categorías](#catalog)

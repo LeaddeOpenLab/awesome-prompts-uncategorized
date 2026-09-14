@@ -1351,13 +1351,13 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2099337591476924777"></a>
 
-### Tradução em curso
+### Prompt de retrato cinematográfico de uma rapariga com camisola às riscas a beber um latte gelado.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2099337591476924777)
 
 Fotografia · Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato cinematográfico de uma rapariga com camisola às riscas a beber um latte gelado.
 
 <img src="images/2099337591476924777-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1366,7 +1366,7 @@ Fotografia · Cena de Cinema / Fotograma · Retrato / Selfie · Personagem · Co
 **Prompt**
 
 ```text
-Tradução em curso
+Um retrato cinematográfico em grande plano de uma rapariga, ligeiramente granulado. Ela está de pé contra uma parede mate cinzento-escura. A sua maquilhagem tem um brilho suave, lábios carnudos e brilhantes, máscara de pestanas e delineador preto. O seu cabelo é comprido, liso e ao estilo Old Money, caindo até à cintura, com algumas mechas sobre o rosto por causa do vento. Ela veste uma camisola grossa de malha cinzenta com riscas vermelho-escuras, com um ombro descoberto, e calças de ganga largas vermelho-escuras com bainhas desfiadas. Está a beber um latte gelado de um copo de cartão vermelho-escuro. Tem um ligeiro sorriso de boca fechada. Luz do dia com algumas sombras. Formato 9:16. Unhas curtas e quadradas de cor clara. Fotografada com flash.
 ```
 
 [↑ Voltar às categorias](#catalog)

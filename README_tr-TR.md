@@ -1351,13 +1351,13 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2099337591476924777"></a>
 
-### Çeviri sürüyor
+### Çizgili kazaklı ve buzlu latte içen bir kızın sinematik portre istemi.
 
 Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2099337591476924777)
 
 Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çizgili kazaklı ve buzlu latte içen bir kızın sinematik portre istemi.
 
 <img src="images/2099337591476924777-1.jpg" alt="Görsel 1" width="480" />
 
@@ -1366,7 +1366,7 @@ Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · Y
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir kızın sinematik yakın plan portresi, hafif grenli. Koyu gri mat bir duvarın önünde duruyor. Makyajı yumuşak bir ışıltıya, parlak dolgun dudaklara, maskaraya ve siyah göz kalemine sahip. Saçları uzun, düz ve Old Money tarzında, beline kadar uzanıyor, rüzgardan birkaç tutam yüzüne dökülmüş. Koyu kırmızı çizgili, kalın gri örgü bir kazak giyiyor, bir omzu açıkta ve paçaları ham kesim bol koyu kırmızı bir kot pantolon var. Koyu kırmızı karton bir bardaktan buzlu latte içiyor. Ağzı kapalı hafif bir gülümsemesi var. Biraz gölgeli gün ışığı. 9:16 formatı. Açık renkte kısa kare tırnaklar. Flaşla çekilmiş.
 ```
 
 [↑ Kategorilere dön](#catalog)

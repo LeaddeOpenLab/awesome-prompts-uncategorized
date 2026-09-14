@@ -1351,13 +1351,13 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2099337591476924777"></a>
 
-### Tradução em andamento
+### Prompt de retrato cinematográfico de uma garota de suéter listrado tomando um latte gelado.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicação original](https://x.com/oye_samia/status/2099337591476924777)
 
 Fotografia · Cinematográfico / Imagem de Filme · Retrato / Selfie · Personagem · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato cinematográfico de uma garota de suéter listrado tomando um latte gelado.
 
 <img src="images/2099337591476924777-1.jpg" alt="Imagem 1" width="480" />
 
@@ -1366,7 +1366,7 @@ Fotografia · Cinematográfico / Imagem de Filme · Retrato / Selfie · Personag
 **Prompt**
 
 ```text
-Tradução em andamento
+Um retrato cinematográfico em close-up de uma garota, levemente granulado. Ela está de pé contra uma parede cinza-escuro fosca. Sua maquiagem tem um brilho suave, lábios carnudos e brilhantes, rímel e delineador preto. O cabelo dela é longo, liso e no estilo Old Money, caindo até a cintura, com algumas mechas no rosto por conta do vento. Ela veste um suéter de tricô cinza grosso com listras vermelho-escuras, com um ombro descoberto, e jeans largos vermelho-escuros com barra desfiada. Ela está tomando um latte gelado em um copo de papelão vermelho-escuro. Ela tem um leve sorriso de boca fechada. Luz do dia com algumas sombras. Formato 9:16. Unhas curtas quadradas em cor clara. Fotografada com flash.
 ```
 
 [↑ Voltar às categorias](#catalog)

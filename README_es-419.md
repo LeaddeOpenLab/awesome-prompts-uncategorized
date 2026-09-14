@@ -1337,13 +1337,13 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2099337591476924777"></a>
 
-### Traducción en curso
+### Prompt de retrato cinematográfico de una chica con suéter a rayas bebiendo un latte helado.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2099337591476924777)
 
 Fotografía · Cine / Fotograma · Retrato / Selfie · Personaje · Comida y bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato cinematográfico de una chica con suéter a rayas bebiendo un latte helado.
 
 <img src="images/2099337591476924777-1.jpg" alt="Imagen 1" width="480" />
 
@@ -1352,7 +1352,7 @@ Fotografía · Cine / Fotograma · Retrato / Selfie · Personaje · Comida y beb
 **Prompt**
 
 ```text
-Traducción en curso
+Un retrato cinematográfico en primer plano de una chica, ligeramente granulado. Está parada contra una pared mate de color gris oscuro. Su maquillaje tiene un brillo suave, labios carnosos y brillantes, rímel y delineador de ojos negro. Su cabello es largo, lacio y con estilo Old Money, cayendo hasta la cintura, con algunos mechones sobre la cara por el viento. Viste un suéter grueso de punto gris con rayas de color rojo oscuro, con un hombro al descubierto, y jeans holgados de color rojo oscuro con bordes deshilachados. Está bebiendo un latte helado de un vaso de cartón de color rojo oscuro. Tiene una leve sonrisa con la boca cerrada. Luz de día con algo de sombra. Formato 9:16. Uñas cortas cuadradas de color claro. Tomada con flash.
 ```
 
 [↑ Volver a categorías](#catalog)

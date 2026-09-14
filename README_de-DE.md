@@ -1337,13 +1337,13 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2099337591476924777"></a>
 
-### Übersetzung läuft
+### Filmisches Porträt-Prompt eines Mädchens im gestreiften Pullover, das einen Eislatte trinkt.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2099337591476924777)
 
 Fotografie · Kinematisch / Filmstill · Porträt / Selfie · Charakter · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmisches Porträt-Prompt eines Mädchens im gestreiften Pullover, das einen Eislatte trinkt.
 
 <img src="images/2099337591476924777-1.jpg" alt="Bild 1" width="480" />
 
@@ -1352,7 +1352,7 @@ Fotografie · Kinematisch / Filmstill · Porträt / Selfie · Charakter · Essen
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein filmisches Nahaufnahme-Porträt eines Mädchens, leicht körnig. Sie steht vor einer dunkelgrauen, matten Wand. Ihr Make-up hat einen sanften Schimmer, glänzende, volle Lippen, Wimperntusche und schwarzen Eyeliner. Ihr Haar ist lang, glatt und im Old-Money-Stil gehalten, reicht bis zur Taille, wobei ihr einige Strähnen durch den Wind im Gesicht liegen. Sie trägt einen groben grauen Strickpullover mit dunkelroten Streifen, eine Schulter frei, und lockere dunkelrote Jeans mit offenen Saumkanten. Sie trinkt einen Eislatte aus einem dunkelroten Pappbecher. Sie hat ein leichtes Lächeln mit geschlossenem Mund. Tageslicht mit etwas Schatten. 9:16-Format. Kurze eckige Nägel in einer hellen Farbe. Mit Blitz fotografiert.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
