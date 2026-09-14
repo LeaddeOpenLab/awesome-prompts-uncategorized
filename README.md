@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**178** Prompts · Latest addition: **2026-09-14**
+**179** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3772,6 +3772,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099242243244662947"></a>
+
+### Arcane wizards overlooking an ornate celestial city among clouds and cosmic bodies.
+
+Author：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Source](https://x.com/TheEerieHollows/status/2099242243244662947)
+
+Other · Published
+
+**Summary:** Arcane wizards overlooking an ornate celestial city among clouds and cosmic bodies.
+
+<img src="images/2099242243244662947-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Arcane Wizards in a Celestial City
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099287503434084358"></a>
 
