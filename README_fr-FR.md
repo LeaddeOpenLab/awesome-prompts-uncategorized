@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**179** Prompts · Dernier ajout: **2026-09-14**
+**180** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2606,6 +2606,34 @@ Traduction en cours
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2099261445662027788"></a>
+
+### Traduction en cours
+
+Auteur：[@AllaAisling](https://x.com/AllaAisling) · [Publication originale](https://x.com/AllaAisling/status/2099261445662027788)
+
+Photographie · Rétro / Vintage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099261445662027788-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

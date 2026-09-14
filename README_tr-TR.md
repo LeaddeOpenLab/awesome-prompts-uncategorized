@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**179** Prompt · Son eklenen: **2026-09-14**
+**180** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2623,6 +2623,34 @@ Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](htt
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099261445662027788"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AllaAisling](https://x.com/AllaAisling) · [Orijinal gönderi](https://x.com/AllaAisling/status/2099261445662027788)
+
+Fotoğrafçılık · Retro / Vintage · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099261445662027788-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

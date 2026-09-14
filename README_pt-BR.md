@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**179** Prompts · Última adição: **2026-09-14**
+**180** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2623,6 +2623,34 @@ Tradução em andamento
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2099261445662027788"></a>
+
+### Tradução em andamento
+
+Autor：[@AllaAisling](https://x.com/AllaAisling) · [Publicação original](https://x.com/AllaAisling/status/2099261445662027788)
+
+Fotografia · Retrô / Vintage · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099261445662027788-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**179** Prompt · Bổ sung mới nhất: **2026-09-14**
+**180** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2641,6 +2641,34 @@ Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bả
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2099261445662027788"></a>
+
+### Đang dịch
+
+Tác giả：[@AllaAisling](https://x.com/AllaAisling) · [Bài gốc](https://x.com/AllaAisling/status/2099261445662027788)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099261445662027788-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

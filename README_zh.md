@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**179** 条内容 · 最新收录: **2026-09-14**
+**180** 条内容 · 最新收录: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2624,6 +2624,34 @@ B: 3::black gakuran::, 面向A蹲着, 一只手放在膝盖附近, 另一只手�
 <a name="category-retro-vintage"></a>
 
 ## 复古 / 怀旧
+
+<a name="prompt-2099261445662027788"></a>
+
+### 翻译中
+
+作者：[@AllaAisling](https://x.com/AllaAisling) · [查看 X 原帖](https://x.com/AllaAisling/status/2099261445662027788)
+
+摄影 · 复古 / 怀旧 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099261445662027788-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

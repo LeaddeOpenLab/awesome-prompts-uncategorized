@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**179** Prompts · Latest addition: **2026-09-14**
+**180** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3085,6 +3085,34 @@ A lone woman in a vivid red coat walks along a long wooden pier disappearing int
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099261445662027788"></a>
+
+### Autochrome Lumière early 20th-century vintage photograph style template.
+
+Author：[@AllaAisling](https://x.com/AllaAisling) · [Source](https://x.com/AllaAisling/status/2099261445662027788)
+
+Photography · Retro / Vintage · Published
+
+**Summary:** Autochrome Lumière early 20th-century vintage photograph style template.
+
+<img src="images/2099261445662027788-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+[SUBJECT], Autochrome Lumière color photograph, delicate mosaic grain from dyed potato starch particles, soft focus from the screen process, luminous but muted colors, dreamlike natural light, slight edge falloff, early 20th century optimism preserved in glass, appearing less like a photograph and more like a memory that survived.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

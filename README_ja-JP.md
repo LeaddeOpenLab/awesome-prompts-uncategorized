@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**179** 件 · 最新の追加: **2026-09-14**
+**180** 件 · 最新の追加: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2623,6 +2623,34 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 <a name="category-retro-vintage"></a>
 
 ## レトロ / ヴィンテージ
+
+<a name="prompt-2099261445662027788"></a>
+
+### 翻訳中
+
+作者：[@AllaAisling](https://x.com/AllaAisling) · [元の投稿](https://x.com/AllaAisling/status/2099261445662027788)
+
+写真撮影 · レトロ / ヴィンテージ · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099261445662027788-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="画像 4" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

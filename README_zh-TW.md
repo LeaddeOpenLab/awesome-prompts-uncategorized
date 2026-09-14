@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**179** 筆內容 · 最新收錄: **2026-09-14**
+**180** 筆內容 · 最新收錄: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2624,6 +2624,34 @@ B: 3::black gakuran::, 面向A蹲著, 一隻手放在膝蓋附近, 另一隻手�
 <a name="category-retro-vintage"></a>
 
 ## 復古 / 懷舊
+
+<a name="prompt-2099261445662027788"></a>
+
+### 翻譯中
+
+作者：[@AllaAisling](https://x.com/AllaAisling) · [查看 X 原帖](https://x.com/AllaAisling/status/2099261445662027788)
+
+攝影 · 復古 / 懷舊 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099261445662027788-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

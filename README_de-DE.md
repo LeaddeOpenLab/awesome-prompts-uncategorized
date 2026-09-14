@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**179** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**180** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2606,6 +2606,34 @@ Illustration · 3D-Rendering · Aquarell · Charakter · Veröffentlicht
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099261445662027788"></a>
+
+### Übersetzung läuft
+
+Autor：[@AllaAisling](https://x.com/AllaAisling) · [Originalbeitrag](https://x.com/AllaAisling/status/2099261445662027788)
+
+Fotografie · Retro / Vintage · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099261445662027788-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 

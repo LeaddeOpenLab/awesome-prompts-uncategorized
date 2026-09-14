@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**179** Prompts · Última incorporación: **2026-09-14**
+**180** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2606,6 +2606,34 @@ Traducción en curso
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099261445662027788"></a>
+
+### Traducción en curso
+
+Autor：[@AllaAisling](https://x.com/AllaAisling) · [Publicación original](https://x.com/AllaAisling/status/2099261445662027788)
+
+Fotografía · Retro / Vintage · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099261445662027788-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099261445662027788-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099261445662027788-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099261445662027788-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099002510040310019"></a>
 
