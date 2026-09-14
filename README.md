@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**187** Prompts · Latest addition: **2026-09-14**
+**188** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1950,6 +1950,28 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2099321585345958267"></a>
+
+### Cinematic photo of a stylish young man walking through a multi-era street blending ancient, medieval, Victorian, and futuristic architecture with a glowing temporal portal.
+
+Author：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Source](https://x.com/MohdAdnanA86218/status/2099321585345958267)
+
+Cinematic / Film Still · Portrait / Selfie · Character · Architecture / Interior · Cityscape / Street · Published
+
+**Summary:** Cinematic photo of a stylish young man walking through a multi-era street blending ancient, medieval, Victorian, and futuristic architecture with a glowing temporal portal.
+
+<img src="images/2099321585345958267-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic cinematic fantasy photograph of a strikingly handsome young man in his early 20s walking confidently through a breathtaking city where multiple historical eras seamlessly overlap in the same street. He has thick naturally wavy jet-black hair with subtle tousled volume, strong well-defined eyebrows, deep expressive dark-brown eyes, a straight sculpted nose, prominent cheekbones, a sharp masculine jawline, and subtle natural stubble. He wears a sophisticated dark modern long coat with elegant vintage-inspired details, tailored black trousers, leather boots, and a classic wristwatch. The city around him is divided into overlapping timelines: an ancient Roman-style street with marble columns and stone buildings merging into a medieval European marketplace with castles and horse-drawn carriages, blending into a Victorian-era boulevard with gas lamps and elegant architecture, while futuristic skyscrapers and glowing holographic signs rise in the background. People from different centuries walk naturally around him, creating a surreal collision of time periods. A mysterious glowing temporal portal shimmers behind him, with subtle golden particles and fragments of clockwork floating through the air. Dramatic golden-hour lighting mixed with cool futuristic neon, volumetric light rays, atmospheric mist, cinematic depth, realistic reflections on wet cobblestones, intricate historical architecture, highly detailed fabrics and skin texture, natural facial proportions, photorealistic, 8K HDR, ultra-detailed, 85mm lens, shallow depth of field, epic cinematic composition, realistic photography, no text, no watermark, no AI-looking face.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099337591476924777"></a>
 
