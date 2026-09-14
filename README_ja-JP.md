@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**208** 件 · 最新の追加: **2026-09-14**
+**209** 件 · 最新の追加: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2967,6 +2967,30 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 <a name="category-comic-graphic-novel"></a>
 
 ## コミック / グラフィックノベル
+
+<a name="prompt-2099563152388329737"></a>
+
+### 翻訳中
+
+作者：[@FuguiChen1314](https://x.com/FuguiChen1314) · [元の投稿](https://x.com/FuguiChen1314/status/2099563152388329737)
+
+イラスト · コミック / グラフィックノベル · ポートレート / セルフィー · キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099563152388329737-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2099563152388329737-2.jpg" alt="画像 2" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2098919930125332588"></a>
 

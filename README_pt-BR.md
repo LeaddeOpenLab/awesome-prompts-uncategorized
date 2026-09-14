@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**208** Prompts · Última adição: **2026-09-14**
+**209** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2967,6 +2967,30 @@ Tradução em andamento
 <a name="category-comic-graphic-novel"></a>
 
 ## Quadrinhos / Graphic Novel
+
+<a name="prompt-2099563152388329737"></a>
+
+### Tradução em andamento
+
+Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publicação original](https://x.com/FuguiChen1314/status/2099563152388329737)
+
+Ilustração · Quadrinhos / Graphic Novel · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099563152388329737-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099563152388329737-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098919930125332588"></a>
 

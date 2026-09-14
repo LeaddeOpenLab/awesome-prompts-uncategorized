@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**208** Prompts · Latest addition: **2026-09-14**
+**209** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3643,6 +3643,45 @@ Avoid: top-and-bottom comparisons, hard left-right split cuts, conventional pict
 <a name="category-comic-graphic-novel"></a>
 
 ## Comic / Graphic Novel
+
+<a name="prompt-2099563152388329737"></a>
+
+### Mixed-media portrait prompt combining a real-person portrait with a black cartoon hand-drawn graffiti shadow on the wall.
+
+Author：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Source](https://x.com/FuguiChen1314/status/2099563152388329737)
+
+Illustration · Comic / Graphic Novel · Portrait / Selfie · Character · Published
+
+**Summary:** Mixed-media portrait prompt combining a real-person portrait with a black cartoon hand-drawn graffiti shadow on the wall.
+
+<img src="images/2099563152388329737-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099563152388329737-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Use the uploaded reference image as a strict reference for the character's identity and attire. Accurately preserve the face, facial features, skin tone, hairstyle, hair color, accessories, clothing, and overall atmosphere from the reference image without making any changes.
+
+Create a high-quality vertical (4:5 or 9:16) mixed-media character portrait, featuring:
+
+A realistic, full-body figure whose appearance remains highly consistent with the person in the reference image. On the wall next to the person, a black hand-drawn graffiti-style silhouette/shadow of the same character appears.
+
+The real person should exude a cute, slightly shy, and playful vibe, naturally striking a brand-new, randomized, mischievous, and playful pose with each generation.
+
+The hand-drawn graffiti shadow on the wall should also capture the same pose concept as the real person, but expressed in a more exaggerated, chaotic, cartoonish, and dramatic manner. Incorporate comic-style action lines, stars, hearts, and sparkle effects to make the graffiti shadow look lively and fun.
+
+Use a clean white/cream studio wall with a minimal background. Utilize soft, natural lighting, and ensure both the real person and the graffiti shadow are fully visible in the frame without being cropped.
+
+The graffiti character must clearly resemble the real person through the hairstyle, accessories, clothing silhouette, and pose.
+
+Negative Prompt:
+Clothing changes, alteration of character identity, second real person, ordinary realistic shadow, horror style, live-action anime adaptation, cluttered background, repetitive pointing poses or finger gun poses, stiff poses, extra limbs/fingers, body deformities, text, watermarks, logos, AI-generated artifacts.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2098919930125332588"></a>
 

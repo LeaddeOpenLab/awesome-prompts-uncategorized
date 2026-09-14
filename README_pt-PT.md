@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**208** Prompts · Adição mais recente: **2026-09-14**
+**209** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2967,6 +2967,30 @@ Tradução em curso
 <a name="category-comic-graphic-novel"></a>
 
 ## Banda Desenhada / Romance Gráfico
+
+<a name="prompt-2099563152388329737"></a>
+
+### Tradução em curso
+
+Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publicação original](https://x.com/FuguiChen1314/status/2099563152388329737)
+
+Ilustração · Banda Desenhada / Romance Gráfico · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099563152388329737-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099563152388329737-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2098919930125332588"></a>
 

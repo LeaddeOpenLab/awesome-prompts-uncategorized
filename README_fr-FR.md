@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**208** Prompts · Dernier ajout: **2026-09-14**
+**209** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2950,6 +2950,30 @@ Traduction en cours
 <a name="category-comic-graphic-novel"></a>
 
 ## Bande dessinée / Roman graphique
+
+<a name="prompt-2099563152388329737"></a>
+
+### Traduction en cours
+
+Auteur：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publication originale](https://x.com/FuguiChen1314/status/2099563152388329737)
+
+Illustration · Bande dessinée / Roman graphique · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099563152388329737-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099563152388329737-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2098919930125332588"></a>
 

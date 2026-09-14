@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**208** Prompt · Son eklenen: **2026-09-14**
+**209** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2967,6 +2967,30 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 <a name="category-comic-graphic-novel"></a>
 
 ## Çizgi Roman / Grafik Roman
+
+<a name="prompt-2099563152388329737"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Orijinal gönderi](https://x.com/FuguiChen1314/status/2099563152388329737)
+
+İllüstrasyon · Çizgi Roman / Grafik Roman · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099563152388329737-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099563152388329737-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2098919930125332588"></a>
 

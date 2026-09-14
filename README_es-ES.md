@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**208** Prompts · Última incorporación: **2026-09-14**
+**209** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2985,6 +2985,30 @@ Traducción en curso
 <a name="category-comic-graphic-novel"></a>
 
 ## Cómic / Novela gráfica
+
+<a name="prompt-2099563152388329737"></a>
+
+### Traducción en curso
+
+Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publicación original](https://x.com/FuguiChen1314/status/2099563152388329737)
+
+Ilustración · Cómic / Novela gráfica · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099563152388329737-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099563152388329737-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2098919930125332588"></a>
 
