@@ -2102,20 +2102,20 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 <a name="prompt-2099269832827187204"></a>
 
-### Đang dịch
+### Hình minh họa lấy cảm hứng từ Ukiyo-e và Baroque về một nhân vật thanh thản bên cạnh chú công màu tím mắt vàng giữa muôn hoa tím.
 
 Tác giả：[@abulu8](https://x.com/abulu8) · [Bài gốc](https://x.com/abulu8/status/2099269832827187204)
 
 Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hình minh họa lấy cảm hứng từ Ukiyo-e và Baroque về một nhân vật thanh thản bên cạnh chú công màu tím mắt vàng giữa muôn hoa tím.
 
 <img src="images/2099269832827187204-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một nhân vật thanh thản trong góc nghiêng mềm mại, vương miện hoa tím sẫm uốn cong qua trán để chỉ có đôi môi vương sắc thạch anh tím và quai hàm dịu dàng đón lấy ánh vàng êm dịu, đầu ngón tay lướt nhẹ trên một cánh hoa có gân vàng duy nhất; một chú công nhân hóa lộng lẫy áp sát, đôi mắt vàng óng ánh như nóng chảy, bộ lông bằng lụa tím hoàng gia lộng lẫy đan xen những lá vàng dập, từng chiếc lông bắt sáng như thạch anh tím bóng loáng và mạ vàng; hàng chục bông hoa tím sẫm bừng nở giữa họ, những cánh hoa trôi bồng bềnh như nhịp tim chậm rãi, dịu dàng; những dải lụa mờ chuyển động nhẹ nhàng màu tím và vàng mềm mại lướt chéo qua bố cục; áo choàng của nhân vật tan biến thành những tua xoắn ốc chứa ánh lấp lánh bị giam giữ và những ngôi sao cánh hoa trôi nổi; hạt nửa tông (halftone) mịn màng bên dưới sắc tím sâu thẳm, đường viền lá vàng tinh xảo đóng khung tác phẩm như một thánh tích thiêng liêng; bố cục phong cách Ukiyo-E hòa quyện cùng nét duyên dáng Biểu hiện và sự trù phú Baroque; màu tím hoàng gia đậm, vàng nóng chảy và trắng kem mềm mại; bầu không khí êm đềm của những cánh hoa trôi và những hạt bụi vàng; siêu thực, đậm chất điện ảnh, phong cách biên tập, thanh bình, vẻ quyến rũ dịu dàng; Thị giác Ý nghĩa, kết xuất minh họa manga chi tiết cao trên nền sơn mài tím sẫm phát sáng.
 ```
 
 [↑ Về danh mục](#catalog)

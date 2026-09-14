@@ -2084,20 +2084,20 @@ Luffy afaga com ternura a cabeça de Anya, Anya atira-se para os seus braços, e
 
 <a name="prompt-2099269832827187204"></a>
 
-### Tradução em curso
+### Ilustração inspirada em Ukiyo-e e Barroco de uma figura serena ao lado de um pavão roxo de olhos dourados rodeado por flores violetas.
 
 Autor：[@abulu8](https://x.com/abulu8) · [Publicação original](https://x.com/abulu8/status/2099269832827187204)
 
 Ilustração · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Ilustração inspirada em Ukiyo-e e Barroco de uma figura serena ao lado de um pavão roxo de olhos dourados rodeado por flores violetas.
 
 <img src="images/2099269832827187204-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma figura serena em perfil suave, uma coroa de flores violeta-escuras curvando-se sobre a testa de modo a que apenas os lábios tingidos de ametista e uma mandíbula suave captem uma luz dourada e suave, as pontas dos dedos tocando numa única pétala com veios dourados; um magnífico pavão antropomórfico aconchega-se junto a ela, olhos de ouro fundido, plumagem de rica seda violeta-real entrelaçada com folha de ouro prensada, penas captando a luz como ametista polida e douramento; dezenas de flores violeta-escuras irrompendo entre eles, pétalas flutuando como um batimento cardíaco lento e terno; fitas suaves com desfoque de movimento em tons de violeta e ouro suave derivando em diagonal pela composição; o manto da figura dissolvendo-se em gavinhas em espiral de brilho aprisionado e estrelas-pétalas flutuantes; grão fino de meio-tom sob os violetas profundos, uma delicada borda de folha de ouro emoldurando tudo como uma relíquia sagrada; encenação Ukiyo-E encontra a graça expressionista e a riqueza barroca; violeta-real profundo, ouro fundido e branco-creme suave; atmosfera serena de pétalas à deriva e partículas de poeira dourada; fascínio surreal, cinematográfico, editorial, sereno e terno; Meaningful Visual, renderização de ilustração de manga de alto detalhe sobre o brilho de laca violeta-escura.
 ```
 
 [↑ Voltar às categorias](#catalog)

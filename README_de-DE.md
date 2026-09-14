@@ -2067,20 +2067,20 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 <a name="prompt-2099269832827187204"></a>
 
-### Übersetzung läuft
+### Von Ukiyo-e und Barock inspirierte Illustration einer heiteren Gestalt neben einem lila Pfau mit goldenen Augen, umgeben von violetten Blüten.
 
 Autor：[@abulu8](https://x.com/abulu8) · [Originalbeitrag](https://x.com/abulu8/status/2099269832827187204)
 
 Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Von Ukiyo-e und Barock inspirierte Illustration einer heiteren Gestalt neben einem lila Pfau mit goldenen Augen, umgeben von violetten Blüten.
 
 <img src="images/2099269832827187204-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine heitere Gestalt im sanften Profil, eine Krone aus tiefvioletten Blüten, die sich über die Stirn wölbt, sodass nur amethystfarbene Lippen und eine sanfte Kieferpartie weiches Goldlicht einfangen, die Fingerspitzen ziehen an einem einzelnen, goldgeäderten Blütenblatt entlang; ein prächtiger anthropomorpher Pfau schmiegt sich eng an sie, die Augen aus geschmolzenem Gold, das Gefieder aus reichhaltiger königsvioletter Seide, durchzogen von gepresstem Blattgold, Federn, die das Licht wie polierter Amethyst und Vergoldung einfangen; Dutzende tiefvioletter Blüten brechen zwischen ihnen hervor, Blütenblätter treiben wie ein langsamer, zärtlicher Herzschlag dahin; sanfte Bewegungsunschärfe-Bänder aus Violett und zartem Gold ziehen diagonal über die Komposition; das Gewand der Gestalt löst sich in spiralförmigen Ranken aus eingefangenem Schimmer und schwebenden Blütenblatt-Sternen auf; feines Halbtonkorn unter den tiefen Violetttönen, eine zarte Blattgold-Bordüre rahmt es wie eine heilige Reliquie ein; Ukiyo-E-Inszenierung trifft auf expressionistische Anmut und barocke Üppigkeit; tiefes Königsviolett und geschmolzenes Gold und sanftes Cremeweiß; sanfte Atmosphäre aus treibenden Blütenblättern und goldenen Staubkörnchen; surrealer, filmischer, redaktioneller, heiterer, zärtlicher Reiz; Meaningful Visual, hochdetailliertes Manga-Illustrations-Rendering auf tiefviolettem Lackglanz.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

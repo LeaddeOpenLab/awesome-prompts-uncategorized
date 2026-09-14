@@ -2067,20 +2067,20 @@ Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodead
 
 <a name="prompt-2099269832827187204"></a>
 
-### Traducción en curso
+### Ilustración inspirada en el Ukiyo-e y el Barroco de una figura serena junto a un pavo real morado de ojos dorados rodeado de flores violetas.
 
 Autor：[@abulu8](https://x.com/abulu8) · [Publicación original](https://x.com/abulu8/status/2099269832827187204)
 
 Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Ilustración inspirada en el Ukiyo-e y el Barroco de una figura serena junto a un pavo real morado de ojos dorados rodeado de flores violetas.
 
 <img src="images/2099269832827187204-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una figura serena en suave perfil, una corona de flores de color violeta profundo arqueándose sobre la frente de modo que solo los labios teñidos de amatista y una suave mandíbula capturan una tenue luz dorada, las yemas de los dedos rozando un único pétalo veteado de oro; un magnífico pavo real antropomórfico se acerca estrechamente, con ojos de oro fundido, plumaje de rica seda violeta real entretejida con pan de oro prensado, y plumas que atrapan la luz como amatista pulida y dorado; decenas de flores de color violeta profundo brotando entre ellos, con pétalos flotando a la deriva como un latido lento y tierno; suaves cintas con desenfoque de movimiento en tonos violeta y oro suave deslizándose en diagonal a través de la composición; la túnica de la figura disolviéndose en zarcillos en espiral de brillo atrapado y estrellas de pétalos flotantes; fino grano de semitono debajo de los violetas profundos, un delicado borde de pan de oro enmarcándolo como una reliquia sagrada; la puesta en escena del Ukiyo-e se encuentra con la gracia expresionista y la riqueza barroca; violeta real profundo, oro fundido y suave blanco crema; atmósfera apacible de pétalos a la deriva y motas de polvo dorado; encanto surrealista, cinematográfico, editorial, sereno y tierno; Meaningful Visual, renderizado de ilustración de manga de alto detalle sobre un brillo de laca violeta profundo.
 ```
 
 [↑ Volver a categorías](#catalog)

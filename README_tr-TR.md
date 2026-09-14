@@ -2084,20 +2084,20 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 <a name="prompt-2099269832827187204"></a>
 
-### Çeviri sürüyor
+### Ukiyo-e ve Barok esintili, menekşe çiçekleriyle çevrili, altın gözlü mor bir tavus kuşunun yanındaki dingin bir figürün illüstrasyonu.
 
 Yazar：[@abulu8](https://x.com/abulu8) · [Orijinal gönderi](https://x.com/abulu8/status/2099269832827187204)
 
 İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ukiyo-e ve Barok esintili, menekşe çiçekleriyle çevrili, altın gözlü mor bir tavus kuşunun yanındaki dingin bir figürün illüstrasyonu.
 
 <img src="images/2099269832827187204-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yumuşak bir profilde dingin bir figür, alnın üzerinde kavis çizen koyu menekşe rengi çiçeklerden bir taç, öyle ki yalnızca ametist rengine boyanmış dudaklar ve zarif bir çene yumuşak altın ışığı yakalar; parmak uçları altın damarlı tek bir taç yaprağını takip eder; erimiş altın gözleri, preslenmiş altın varakla işlenmiş zengin asil menekşe ipeğinden tüyleri ve cilalı ametist ile yaldız gibi ışığı yakalayan telekleriyle muhteşem bir antropomorfik tavus kuşu yanına sokulur; aralarından fışkıran düzinelerce koyu menekşe rengi çiçek, yavaş ve şefkatli bir kalp atışı gibi sürüklenen taç yaprakları; kompozisyon boyunca çaprazlama sürüklenen menekşe ve yumuşak altın tonlarında nazik hareket bulanıklığı şeritleri; figürün cübbesi, hapsolmuş ışıltıların ve süzülen taç yaprağı yıldızlarının spiral kıvrımlarına dönüşerek eriyor; derin menekşelerin altında ince yarı tonlu gren dokusu, onu kutsal bir kalıntı gibi çerçeveleyen zarif bir altın varak bordür; Ukiyo-E mizanseni, Dışavurumcu zarafet ve Barok zenginlikle buluşuyor; derin asil menekşe, erimiş altın ve yumuşak krem-beyaz; sürüklenen taç yaprakları ve altın toz taneciklerinden oluşan huzurlu atmosfer; sürreal, sinematik, editoryal, dingin ve şefkatli bir cazibe; Meaningful Visual, derin menekşe cilalı ışıltı üzerinde yüksek ayrıntılı manga illüstrasyonu işleme.
 ```
 
 [↑ Kategorilere dön](#catalog)

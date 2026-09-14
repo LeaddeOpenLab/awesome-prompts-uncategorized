@@ -2067,20 +2067,20 @@ Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia,
 
 <a name="prompt-2099269832827187204"></a>
 
-### Traduzione in corso
+### Illustrazione ispirata all'Ukiyo-e e al Barocco di una figura serena accanto a un pavone viola con occhi dorati circondato da fiori viola.
 
 Autore：[@abulu8](https://x.com/abulu8) · [Post originale](https://x.com/abulu8/status/2099269832827187204)
 
 Illustrazione · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Illustrazione ispirata all'Ukiyo-e e al Barocco di una figura serena accanto a un pavone viola con occhi dorati circondato da fiori viola.
 
 <img src="images/2099269832827187204-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una figura serena dal profilo morbido, una corona di boccioli viola scuro che si incurva sulla fronte in modo che solo le labbra tinte di ametista e una mascella delicata catturino una morbida luce dorata, la punta delle dita che sfiora un singolo petalo venato d'oro; un magnifico pavone antropomorfo si stringe a lei, occhi d'oro fuso, piumaggio di ricca seta viola reale intrecciata con foglia d'oro pressata, piume che catturano la luce come ametista lucidata e doratura; decine di boccioli viola scuro che sbocciano tra loro, petali che fluttuano come un battito cardiaco lento e tenero; morbidi nastri con effetto mosso nei toni del viola e dell'oro tenue che scivolano diagonalmente attraverso la composizione; la veste della figura che si dissolve in viticci a spirale di luccichio intrappolato e stelle-petalo fluttuanti; fine grana a mezzatinta sotto i viola profondi, una delicata cornice in foglia d'oro che la racchiude come una reliquia sacra; la messa in scena Ukiyo-E incontra la grazia espressionista e la ricchezza barocca; viola reale profondo, oro fuso e morbido bianco crema; dolce atmosfera di petali fluttuanti e granelli di polvere dorata; fascino surreale, cinematografico, editoriale, sereno e tenero; Meaningful Visual, resa di illustrazione manga ad alto dettaglio su un bagliore di lacca viola scuro.
 ```
 
 [↑ Torna alle categorie](#catalog)
