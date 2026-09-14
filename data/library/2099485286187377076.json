@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-14T16:35:02.458Z",
+  "model": "unknown-video",
+  "prompt": "A confident Indian man (same face as reference image) wearing a powerful god-of-thunder inspired armor suit, \nred flowing cape, metallic chest armor glowing with blue energy.\nHe stands indoors, then raises a heavy magical hammer toward the sky. \nDark storm clouds suddenly form above him.\nIntense lightning bolts strike the hammer, electric energy flows through his body, \nhis eyes glow with power, wind blowing dramatically around him.\nThe character transforms into a thunder god superhero (NOT exact Thor, inspired style), \nhighly detailed cinematic armor, glowing effects, epic aura.\nThen he jumps and flies into the sky at high speed, leaving bright lightning trails behind, \ndisappearing into storm clouds.\nUltra realistic, cinematic lighting, slow motion, dramatic camera movement, \n4K, VFX heavy, superhero transformation, epic action scene. Man with same face as input image wearing thunder god armor and red cape, \nholding hammer, lightning strikes, transforms into powerful superhero, \nflies into sky with electric trails, cinematic, 4K, slow motion.",
+  "promptTranslations": {
+    "en": "A confident Indian man (same face as reference image) wearing a powerful god-of-thunder inspired armor suit, red flowing cape, metallic chest armor glowing with blue energy. He stands indoors, then raises a heavy magical hammer toward the sky. Dark storm clouds suddenly form above him. Intense lightning bolts strike the hammer, electric energy flows through his body, his eyes glow with power, wind blowing dramatically around him. The character transforms into a thunder god superhero (NOT exact Thor, inspired style), highly detailed cinematic armor, glowing effects, epic aura. Then he jumps and flies into the sky at high speed, leaving bright lightning trails behind, disappearing into storm clouds. Ultra realistic, cinematic lighting, slow motion, dramatic camera movement, 4K, VFX heavy, superhero transformation, epic action scene. Man with same face as input image wearing thunder god armor and red cape, holding hammer, lightning strikes, transforms into powerful superhero, flies into sky with electric trails, cinematic, 4K, slow motion."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic superhero transformation VFX video prompt of an Indian man in thunder god armor raising a hammer to summon lightning and flying into the sky."
+  },
+  "translationVersion": 2,
+  "summary": "印度男子身着雷神铠甲举锤引雷并飞升天际的影视级变身特效视频提示词。",
+  "summaryEn": "Prompt for an Indian man transforming into a thunder god superhero and flying into storm clouds with lightning VFX.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099485286187377076",
+    "canonicalUrl": "https://x.com/RAVIKUMARSAHU78/status/2099485286187377076",
+    "author": {
+      "username": "RAVIKUMARSAHU78",
+      "displayName": "RAVI KUMAR SAHU",
+      "profileUrl": "https://x.com/RAVIKUMARSAHU78"
+    },
+    "publishedAt": "2026-09-14T13:07:53.000Z",
+    "collectedAt": "2026-09-14T16:17:15.720Z",
+    "language": "en",
+    "originalText": "1. Yapper AI\n\n2. Upload your image \n\n3. Prompt: A confident Indian man (same face as reference image) wearing a powerful god-of-thunder inspired armor suit, \nred flowing cape, metallic chest armor glowing with blue energy.\nHe stands indoors, then raises a heavy magical hammer toward the sky. \nDark storm clouds suddenly form above him.\nIntense lightning bolts strike the hammer, electric energy flows through his body, \nhis eyes glow with power, wind blowing dramatically around him.\nThe character transforms into a thunder god superhero (NOT exact Thor, inspired style), \nhighly detailed cinematic armor, glowing effects, epic aura.\nThen he jumps and flies into the sky at high speed, leaving bright lightning trails behind, \ndisappearing into storm clouds.\nUltra realistic, cinematic lighting, slow motion, dramatic camera movement, \n4K, VFX heavy, superhero transformation, epic action scene. Man with same face as input image wearing thunder god armor and red cape, \nholding hammer, lightning strikes, transforms into powerful superhero, \nflies into sky with electric trails, cinematic, 4K, slow motion.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/RAVIKUMARSAHU78/status/2099485286187377076",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099485236925173761/img/PBc5o4xhr81Ck74D.jpg",
+        "analysisUrl": "https://x.com/RAVIKUMARSAHU78/status/2099485286187377076"
+      }
+    ],
+    "metrics": {
+      "likeCount": 25,
+      "repostCount": 6,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 1162
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RAVIKUMARSAHU78/status/2099485286187377076",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099485236925173761/img/PBc5o4xhr81Ck74D.jpg",
+  "coverPath": "covers/2099485286187377076.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099485236925173761",
+    "x-post:2099485286187377076"
+  ],
+  "analysis": {
+    "summary": "印度男子身着雷神铠甲举锤引雷并飞升天际的影视级变身特效视频提示词。",
+    "summaryEn": "Prompt for an Indian man transforming into a thunder god superhero and flying into storm clouds with lightning VFX.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video accurately depicts the Indian man in lightning armor lifting a hammer, glowing eyes, and flying into the sky leaving lightning trails."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A confident Indian man (same face as reference image) wearing a powerful god-of-thunder inspired armor suit, \nred flowing cape, metallic chest armor glowing with blue energy.\nHe stands indoors, then raises a heavy magical hammer toward the sky. \nDark storm clouds suddenly form above him.\nIntense lightning bolts strike the hammer, electric energy flows through his body, \nhis eyes glow with power, wind blowing dramatically around him.\nThe character transforms into a thunder god superhero (NOT exact Thor, inspired style), \nhighly detailed cinematic armor, glowing effects, epic aura.\nThen he jumps and flies into the sky at high speed, leaving bright lightning trails behind, \ndisappearing into storm clouds.\nUltra realistic, cinematic lighting, slow motion, dramatic camera movement, \n4K, VFX heavy, superhero transformation, epic action scene. Man with same face as input image wearing thunder god armor and red cape, \nholding hammer, lightning strikes, transforms into powerful superhero, \nflies into sky with electric trails, cinematic, 4K, slow motion.",
+    "sourceRange": {
+      "start": 48,
+      "end": 1108
+    },
+    "translations": {
+      "zh": "一名自信的印度男子（与参考图相同面孔）身穿雷神启发战甲，红色披风飘拂，金属胸甲泛着蓝色能量。他站在室内，举起神锤，雷云翻涌，闪电击中战锤并贯穿全身，双眼发光，变身为雷神超级英雄，随后高速冲天消失在风暴中，电影级光影与慢动作特效。",
+      "en": "A confident Indian man wearing god-of-thunder inspired armor, red cape, and glowing blue chestplate raises a magical hammer as lightning strikes, transforms with glowing eyes, and leaps into the stormy sky leaving electric trails."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "AI video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Thor / Marvel (inspired style)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
