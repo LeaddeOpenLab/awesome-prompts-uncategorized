@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**188** 条内容 · 最新收录: **2026-09-14**
+**189** 条内容 · 最新收录: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2099327824981315724"></a>
+
+### 翻译中
+
+作者：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [查看 X 原帖](https://x.com/muse_ai_prompt/status/2099327824981315724)
+
+摄影 · 角色 · 风景 / 自然 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099327824981315724-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099326823431852203"></a>
 

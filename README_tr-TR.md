@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**188** Prompt · Son eklenen: **2026-09-14**
+**189** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099327824981315724"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099327824981315724)
+
+Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099327824981315724-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099326823431852203"></a>
 

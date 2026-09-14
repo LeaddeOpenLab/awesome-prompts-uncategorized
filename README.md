@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**188** Prompts · Latest addition: **2026-09-14**
+**189** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,68 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099327824981315724"></a>
+
+### A photorealistic, everyday candid-style prompt of a woman taking down laundry on a balcony at dusk.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099327824981315724)
+
+Photography · Character · Landscape / Nature · Published
+
+**Summary:** A photorealistic, everyday candid-style prompt of a woman taking down laundry on a balcony at dusk.
+
+<img src="images/2099327824981315724-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Balcony at Dusk | Coral Pink and Laundry Swaying in the Wind🌟
+
+[Subject & Art Style]
+A photorealistic picture capturing a casual everyday moment of an undeniably adult Japanese woman taking in the laundry on the balcony of her home in the evening. A candid, intimate snapshot with a lived-in feel, enriched with the glamour of a women's fashion magazine or an elegant photo book.
+Not a heavily staged pose, but giving the impression of an attractive, spontaneous moment captured mid-chores. A balanced harmony of cuteness, natural allure, and a nostalgic twilight atmosphere.
+
+[Location, Background & Worldview]
+The setting is the narrow, elongated balcony of an apartment or housing complex in a Japanese residential neighborhood. Along the wall, an outdoor AC unit, a laundry basket, and small potted plants are naturally arranged, while overhead hangs a clothesline with hangers holding dry white shirts and striped garments.
+To the right, metal railings with translucent panels run along the edge, beyond which rooftops of low-rise houses and the cityscape spread out. In the distant view, a sunset-lit sky creates depth leading the eye from the living space out into the town. The background is not overly tidy, preserving the warm, lived-in touch of an actual home.
+
+[Season, Time & Weather]
+A sunny evening in early summer or toward the end of summer. Golden hour with the sun descending close to the horizon, painting the sky in a gentle gradient of pale orange, pink, and cream.
+The breeze is gentle and mild, just enough natural motion to lightly sway the hems of hanging shirts and stray wisps of hair. A pleasant, airy atmosphere typical of an evening when the heat begins to ease.
+
+[Character Description]
+A clearly adult Japanese woman around 20 to 28 years old. Soft, well-proportioned facial features, slightly large eyes, natural eyebrows, and healthy, rosy lips. Dark brown hair loosely gathered into a casual bun, leaving fine stray strands grazing her cheeks and neck. Fair ochre skin tone with realistic texture, showing visible pores and subtle shading.
+Slender shoulders, arms, and legs with a narrow waist. A healthy, naturally glamorous full-body figure, with a bust line that is clearly ample at first glance. However, it should not appear as rigid spheres, but express soft roundness and realistic weight that naturally harmonizes with the clothing, pose, and gravity.
+
+[Outfit & Accessories]
+A coral pink camisole with thin spaghetti straps. Decorated with small scalloped ruffle lace and a subtle bow at the neckline, and delicate matching ruffles along the hem. Made of a soft ribbed or lightweight cotton blend material with light stretch, designed to gently drape along the contours of the body.
+Sufficient fabric width accommodates her full bust, avoiding unnatural digging in or forced push-up effects. The bottoms are high-waisted shorts in an ivory-tinted white. On her feet are soft room slippers in light beige. Accessories are kept minimal, prioritizing natural comfort at home.
+
+[Pose, Action & Gaze]
+Her body is angled slightly toward the deeper end of the balcony, resting her weight naturally on the back leg. One leg is placed subtly forward, maintaining a natural shift of balance typical of active housework rather than a stiff, upright stance.
+One arm reaches overhead, fingertips touching a white shirt on the line as she is about to take it down. Her other arm cradles several pieces of white and pale blue laundry already gathered. Her upper torso has a very gentle twist, face turned in the direction of her raised arm. Her gaze is directed naturally at the wind-swayed shirt, not looking at the camera.
+
+[Expression & Emotion]
+A natural smile as she notices the laundry fluttering in the breeze and looks up with slight amusement. Her mouth is parted slightly, softening her cheeks and eyes together in gentle warmth.
+Not a smile meant for someone watching, but an unprompted expression surfacing during a relaxed evening at home. Within her approachability lies the composed charm of an adult woman, mixed with a hint of bashful cuteness.
+
+[Composition & Camera]
+A 4:5 vertical portrait composition suited for an X (Twitter) post. A pulled-back framing that captures near-full body from the top of the head down to the feet, positioning the subject slightly to the right of center. Laundry and the wall are composed on the left, with the railing and evening sky on the right, avoiding filling the frame entirely with the figure.
+The camera is positioned at a natural height, roughly between chest and eye level. Shooting distance is spaced enough to convey the overall depth of the balcony, equivalent to a standard ~50mm lens. The background has a gentle bokeh, yet retains enough depth of field for the residential area, clothesline, and twilight sky to remain discernible.
+
+[Light, Color, Texture & Atmosphere]
+The primary light source is the warm setting sun pouring in from the background. It casts a delicate golden rim light tracing the contours of her hair, shoulders, and arms, while soft ambient light bouncing from the balcony wall and floor naturally illuminates her face and the front of her body. Shadows are not overly dark, rendered as long, soft evening shadows.
+The skin displays natural warmth and fine surface texture, with individual hair strands and loose wisps meticulously rendered. The camisole shows the soft tension of fabric and delicate wrinkles, while the shorts convey the slightly thicker texture of cotton. The overall color palette is anchored in coral pink, ivory, and sunset orange, creating a warm, intimate, slightly cinematic tone.
+
+[Quality & Exclusions]
+High resolution, photorealistic. Emphasizes natural human anatomy, fabrics, hair, lighting, and perspective, as if captured by an authentic physical camera.
+Avoid underage appearances, excessively childish facial features, unnatural anatomy, extra limbs or digits, missing or fused fingers, awkward joints, left-right hand confusion, warped clothing merging into the body, unintentional nudity, extreme wide-angle distortion, and excessive airbrushing. While the bust remains ample with soft volume, avoid unnatural enlargement, rigid spherical shapes, extreme cleavage push-ups, or shapes defying gravity. Do not include text, logos, watermarks, or UI overlays within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099326823431852203"></a>
 

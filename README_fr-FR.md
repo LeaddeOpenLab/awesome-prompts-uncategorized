@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**188** Prompts · Dernier ajout: **2026-09-14**
+**189** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099327824981315724"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2099327824981315724)
+
+Photographie · Personnage · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099327824981315724-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099326823431852203"></a>
 
