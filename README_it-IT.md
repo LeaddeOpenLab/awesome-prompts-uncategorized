@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**174** Prompt · Ultima aggiunta: **2026-09-14**
+**175** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1221,20 +1221,33 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2099234788859105541"></a>
 
-### Traduzione in corso
+### Prompt strutturato per generare un video cinematografico di combattimento fantascientifico tra sciami di droni IA terrestri e un'invasione di astronavi aliene sopra una metropoli notturna.
 
 Autore：[@mys1111](https://x.com/mys1111) · [Post originale](https://x.com/mys1111/status/2099234788859105541)
 
 Fermo immagine cinematografico / Still fotografico · Cyberpunk / Sci-Fi · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt strutturato per generare un video cinematografico di combattimento fantascientifico tra sciami di droni IA terrestri e un'invasione di astronavi aliene sopra una metropoli notturna.
 
 <img src="covers/2099234788859105541.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+[Generation Goal]
+Generare un video di un'invasione aliena su larga scala in cui le IA affrontano gli UFO. L'evento principale è il combattimento aereo e terrestre tra flotte di droni a intelligenza artificiale e astronavi aliene.
+
+[Event Script]
+All'inizio: I cieli notturni sopra una metropoli illuminata si riempiono di bagliori e formazioni di UFO a forma di disco e triangolari che scendono sparando raggi di energia.
+Evento principale: Sciami di droni IA, dal design geometrico e luci blu, si sollevano da torri e hangar, formano squadroni tattici, sbarrano la strada agli UFO e aprono il fuoco con laser di precisione e campi di forza. Alcuni droni si sacrificano in collisioni controllate per abbattere le navi nemiche, mentre le IA coordinano attacchi in rete, scompigliando la formazione di invasione e respingendo l'ondata principale.
+Alla fine: Gli UFO superstiti si ritirano verso lo spazio, i droni IA rimangono in formazione di sorveglianza sopra la città parzialmente intatta, con fumo e detriti che fluttuano nell'aria.
+
+[Maintain Consistency]
+Mantenere l'identità delle IA come forze tecnologiche terrestri (droni e sistemi autonomi) che fronteggiano gli invasori alieni. Conservare il contrasto visivo tra la fredda luce blu delle IA e i bagliori verdi/viola degli UFO, la scala della battaglia notturna e l'esito della vittoriosa resistenza delle IA.
+
+Gli elementi visivi presentano uno stile cinematografico di fantascienza epica, con esplosioni brillanti, scie di energia e un'atmosfera di tensione tecnologica.
+La telecamera impiega ampie riprese aeree della battaglia, inseguimenti dinamici dei combattimenti dei droni e primi piani degli impatti laser.
+Il sonoro include ronzii dei propulsori dei droni, raggi di energia, esplosioni lontane e una colonna sonora sintetica di intensità crescente.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1954,6 +1967,28 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099256180845731868"></a>
+
+### Traduzione in corso
+
+Autore：[@ux6ovv](https://x.com/ux6ovv) · [Post originale](https://x.com/ux6ovv/status/2099256180845731868)
+
+Anime / Manga · Personaggio · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099256180845731868.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099171324568760589"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**174** Prompts · Dernier ajout: **2026-09-14**
+**175** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1221,20 +1221,33 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2099234788859105541"></a>
 
-### Traduction en cours
+### Prompt structuré pour générer une vidéo cinématographique de combat de science-fiction entre des essaims de drones IA terrestres et une invasion de vaisseaux extraterrestres au-dessus d'une métropole nocturne.
 
 Auteur：[@mys1111](https://x.com/mys1111) · [Publication originale](https://x.com/mys1111/status/2099234788859105541)
 
 Image cinématographique / Photogramme de film · Cyberpunk / Science-fiction · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt structuré pour générer une vidéo cinématographique de combat de science-fiction entre des essaims de drones IA terrestres et une invasion de vaisseaux extraterrestres au-dessus d'une métropole nocturne.
 
 <img src="covers/2099234788859105541.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+[Generation Goal]
+Générer une vidéo d'une invasion extraterrestre à grande échelle où des IA affrontent des ovnis. L'événement principal est le combat aérien et terrestre entre des flottes de drones d'intelligence artificielle et des vaisseaux extraterrestres.
+
+[Event Script]
+Au début : Le ciel nocturne au-dessus d'une métropole illuminée se remplit d'éclairs et de formations d'ovnis en forme de disques et de triangles qui descendent et tirent des rayons d'énergie.
+Événement principal : Des essaims de drones IA, au design géométrique et aux lumières bleues, s'élèvent depuis des tours et des hangars, forment des escadrons tactiques, se dressent sur la trajectoire des ovnis et ouvrent le feu avec des lasers de précision et des champs de force. Certains drones se sacrifient dans des collisions contrôlées pour abattre des vaisseaux ennemis, tandis que les IA coordonnent des attaques en réseau, désorganisant la formation d'invasion et repoussant la vague principale.
+À la fin : Les ovnis restants se replient vers l'espace, les drones IA restent en formation de surveillance au-dessus de la ville partiellement intacte, avec de la fumée et des débris flottant dans l'air.
+
+[Maintain Consistency]
+Conserver l'identité des IA en tant que forces technologiques terrestres (drones et systèmes autonomes) affrontant les envahisseurs extraterrestres. Préserver le contraste visuel entre la lumière bleue froide des IA et les éclats verts/violets des ovnis, l'échelle de la bataille nocturne et l'issue de la résistance victorieuse des IA.
+
+Les visuels présentent un style cinématographique de science-fiction épique, avec des explosions lumineuses, des traînées d'énergie et une atmosphère de tension technologique.
+La caméra utilise de larges plans aériens de la bataille, des suivis dynamiques des combats de drones et des gros plans sur les impacts de laser.
+Le son comprend les vrombissements des propulseurs de drones, des rayons d'énergie, des explosions lointaines et une partition synthétique à l'intensité croissante.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -1954,6 +1967,28 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099256180845731868"></a>
+
+### Traduction en cours
+
+Auteur：[@ux6ovv](https://x.com/ux6ovv) · [Publication originale](https://x.com/ux6ovv/status/2099256180845731868)
+
+Anime / Manga · Personnage · Alimentation / Boissons · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099256180845731868.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099171324568760589"></a>
 

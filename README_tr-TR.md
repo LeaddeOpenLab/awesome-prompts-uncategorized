@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**174** Prompt · Son eklenen: **2026-09-14**
+**175** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1235,20 +1235,33 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2099234788859105541"></a>
 
-### Çeviri sürüyor
+### Gece metropolü üzerinde karasal yapay zeka dron sürüleri ile uzaylı gemisi istilası arasında geçen sinematik bir bilimkurgu savaşı videosu oluşturmak için yapılandırılmış prompt.
 
 Yazar：[@mys1111](https://x.com/mys1111) · [Orijinal gönderi](https://x.com/mys1111/status/2099234788859105541)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece metropolü üzerinde karasal yapay zeka dron sürüleri ile uzaylı gemisi istilası arasında geçen sinematik bir bilimkurgu savaşı videosu oluşturmak için yapılandırılmış prompt.
 
 <img src="covers/2099234788859105541.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+[Üretim Hedefi]
+Yapay zekaların UFO'larla karşı karşıya geldiği büyük ölçekli bir uzaylı istilası videosu oluşturun. Ana olay, yapay zeka dron filoları ile uzaylı gemileri arasındaki hava ve kara savaşıdır.
+
+[Olay Metni]
+Başlangıçta: Işıklarla aydınlatılmış bir metropolün üzerindeki gece gökyüzü, alçalan ve enerji ışınları saçan disk ve üçgen biçimli UFO oluşumları ve parıltılarla dolar.
+Ana olay: Geometrik tasarımlı ve mavi ışıklı yapay zeka dron sürüleri, kulelerden ve hangarlardan yükselir, taktik filolar oluşturur, UFO'ların yolunu keser ve hassas lazerler ile güç alanlarıyla ateş açar. Bazı dronlar düşman gemilerini düşürmek için kontrollü çarpışmalarda kendilerini feda ederken, yapay zekalar ağ bağlantılı saldırıları koordine ederek istilacı formasyonu bozar ve ana dalgayı püskürtür.
+Sonda: Kalan UFO'lar uzaya doğru geri çekilir, yapay zeka dronları ise havada süzülen dumanlar ve enkazlar eşliğinde kısmen sağlam kalmış şehrin üzerinde gözetleme formasyonunda kalır.
+
+[Tutarlılığı Koru]
+Yapay zekaların kimliğini, uzaylı istilacılara karşı savaşan karasal teknolojik güçler (dronlar ve otonom sistemler) olarak koruyun. Yapay zekaların soğuk mavi ışığı ile UFO'ların yeşil/mor parıltıları arasındaki görsel kontrastı, gece savaşının ölçeğini ve yapay zekaların başarılı direnişinin sonucunu muhafaza edin.
+
+Görseller; parlak patlamalar, enerji izleri ve teknolojik gerilim atmosferi içeren epik bilimkurgu sinematik stiline sahiptir.
+Kamera; savaşın geniş hava çekimlerini, dron it dalaşlarının dinamik takiplerini ve lazer darbelerinin yakın plan kesitlerini kullanır.
+Ses; dron motoru uğultularını, enerji ışınlarını, uzaktaki patlamaları ve giderek artan yoğunluktaki sentetik bir film müziğini içerir.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1971,6 +1984,28 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099256180845731868"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@ux6ovv](https://x.com/ux6ovv) · [Orijinal gönderi](https://x.com/ux6ovv/status/2099256180845731868)
+
+Anime / Manga · Karakter · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099256180845731868.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099171324568760589"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**174** Prompts · Última incorporación: **2026-09-14**
+**175** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1221,20 +1221,33 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2099234788859105541"></a>
 
-### Traducción en curso
+### Prompt estructurado para generar un video cinematográfico de combate de ciencia ficción entre enjambres de drones de IA terrestres y una invasión de naves extraterrestres sobre una metrópolis nocturna.
 
 Autor：[@mys1111](https://x.com/mys1111) · [Publicación original](https://x.com/mys1111/status/2099234788859105541)
 
 Cine / Fotograma · Cyberpunk / Ciencia ficción · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt estructurado para generar un video cinematográfico de combate de ciencia ficción entre enjambres de drones de IA terrestres y una invasión de naves extraterrestres sobre una metrópolis nocturna.
 
 <img src="covers/2099234788859105541.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+[Generation Goal]
+Generar un video de una invasión extraterrestre a gran escala donde las IA se enfrentan a los UFOs. El evento principal es el combate aéreo y terrestre entre flotas de drones de inteligencia artificial y naves extraterrestres.
+
+[Event Script]
+Al inicio: Cielos nocturnos sobre una metrópolis iluminada se llenan de destellos y formaciones de UFOs de formas de disco y triangulares que descienden y disparan rayos de energía.
+Evento principal: Enjambres de drones de IA, de diseño geométrico y con luces azules, se elevan desde torres y hangares, forman escuadrones tácticos, se interponen en el camino de los UFOs y abren fuego con láseres de precisión y campos de fuerza. Algunos drones se sacrifican en colisiones controladas para derribar naves enemigas, mientras las IA coordinan ataques en red, interrumpiendo la formación invasora y repeliendo la oleada principal.
+Al final: Los UFOs restantes se retiran hacia el espacio, los drones de IA permanecen en formación de vigilancia sobre la ciudad parcialmente intacta, con humo y restos flotando en el aire.
+
+[Maintain Consistency]
+Mantener la identidad de las IA como fuerzas tecnológicas terrestres (drones y sistemas autónomos) enfrentando a los invasores extraterrestres. Conservar el contraste visual entre la luz azul fría de las IA y los destellos verdes/púrpura de los UFOs, la escala de la batalla nocturna y el resultado de la resistencia exitosa de las IA.
+
+Los visuales presentan un estilo cinemático de ciencia ficción épica, con explosiones brillantes, estelas de energía y una atmósfera de tensión tecnológica.
+La cámara usa tomas aéreas amplias de la batalla, seguimientos dinámicos de los combates de drones y cortes a primer plano de impactos láser.
+El sonido incluye zumbidos de propulsores de drones, rayos de energía, explosiones distantes y un score sintético de intensidad creciente.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -1954,6 +1967,28 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099256180845731868"></a>
+
+### Traducción en curso
+
+Autor：[@ux6ovv](https://x.com/ux6ovv) · [Publicación original](https://x.com/ux6ovv/status/2099256180845731868)
+
+Anime / Manga · Personaje · Comida y bebida · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099256180845731868.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099171324568760589"></a>
 

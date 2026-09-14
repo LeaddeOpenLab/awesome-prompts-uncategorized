@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**174** Prompt · Bổ sung mới nhất: **2026-09-14**
+**175** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1257,20 +1257,33 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2099234788859105541"></a>
 
-### Đang dịch
+### Prompt có cấu trúc để tạo video điện ảnh về trận chiến khoa học viễn tưởng giữa bầy drone AI Trái Đất và cuộc xâm lăng của phi thuyền ngoài hành tinh trên một đô thị về đêm.
 
 Tác giả：[@mys1111](https://x.com/mys1111) · [Bài gốc](https://x.com/mys1111/status/2099234788859105541)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt có cấu trúc để tạo video điện ảnh về trận chiến khoa học viễn tưởng giữa bầy drone AI Trái Đất và cuộc xâm lăng của phi thuyền ngoài hành tinh trên một đô thị về đêm.
 
 <img src="covers/2099234788859105541.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+[Generation Goal]
+Tạo video về một cuộc xâm lăng của người ngoài hành tinh quy mô lớn, nơi các AI đối đầu với các UFO. Sự kiện chính là cuộc không chiến và cận chiến trên mặt đất giữa các hạm đội drone trí tuệ nhân tạo và phi thuyền ngoài hành tinh.
+
+[Event Script]
+Phần mở đầu: Bầu trời đêm trên một đô thị rực rỡ ánh đèn tràn ngập những tia chớp sáng và các đội hình UFO hình đĩa cùng hình tam giác đang hạ độ cao và bắn ra các chùm tia năng lượng.
+Sự kiện chính: Các bầy drone AI với thiết kế hình học và ánh đèn xanh lam bay vút lên từ các tòa tháp và nhà chứa máy bay, lập thành các phi đội chiến thuật, chặn đường UFO và nổ súng bằng tia laser chuẩn xác cùng các trường lực. Một số drone hy sinh bằng những vụ va chạm có kiểm soát để bắn hạ tàu địch, trong khi các AI phối hợp các đòn tấn công mạng lưới, phá vỡ đội hình xâm lược và đẩy lùi đợt tấn công chính.
+Phần kết thúc: Những UFO còn lại rút lui vào không gian, các drone AI duy trì đội hình cảnh giới phía trên thành phố còn nguyên vẹn một phần, với khói và mảnh vỡ lơ lửng trong không khí.
+
+[Maintain Consistency]
+Duy trì danh tính của AI như các lực lượng công nghệ Trái Đất (drone và hệ thống tự hành) đối đầu với những kẻ xâm lược ngoài hành tinh. Giữ vững sự tương phản thị giác giữa ánh sáng xanh lam lạnh của AI và ánh sáng chớp xanh lục/tím của UFO, quy mô của trận chiến ban đêm và kết quả phòng thủ thành công của AI.
+
+Hình ảnh mang phong cách điện ảnh khoa học viễn tưởng sử thi, với các vụ nổ rực sáng, vệt năng lượng và bầu không khí căng thẳng công nghệ cao.
+Camera sử dụng các góc quay toàn cảnh trên không bao quát trận chiến, các cú máy theo dõi chuyển động linh hoạt của các trận chiến drone và cảnh cắt cận cảnh các va chạm laser.
+Âm thanh bao gồm tiếng rít của động cơ đẩy drone, chùm tia năng lượng, tiếng nổ từ xa và bản nhạc nền synth với cường độ ngày càng dâng cao.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1989,6 +2002,28 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099256180845731868"></a>
+
+### Đang dịch
+
+Tác giả：[@ux6ovv](https://x.com/ux6ovv) · [Bài gốc](https://x.com/ux6ovv/status/2099256180845731868)
+
+Anime / Manga · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099256180845731868.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099171324568760589"></a>
 

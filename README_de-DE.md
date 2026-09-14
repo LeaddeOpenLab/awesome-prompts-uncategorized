@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**174** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**175** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -1221,20 +1221,33 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2099234788859105541"></a>
 
-### Übersetzung läuft
+### Strukturierter Prompt zur Erstellung eines filmischen Science-Fiction-Kampfvideos zwischen irdischen KI-Drohnenschwärmen und einer Invasion außerirdischer Schiffe über einer nächtlichen Metropole.
 
 Autor：[@mys1111](https://x.com/mys1111) · [Originalbeitrag](https://x.com/mys1111/status/2099234788859105541)
 
 Kinematisch / Filmstill · Cyberpunk / Sci-Fi · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Strukturierter Prompt zur Erstellung eines filmischen Science-Fiction-Kampfvideos zwischen irdischen KI-Drohnenschwärmen und einer Invasion außerirdischer Schiffe über einer nächtlichen Metropole.
 
 <img src="covers/2099234788859105541.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+[Generation Goal]
+Generiere ein Video einer groß angelegten außerirdischen Invasion, bei der KIs gegen UFOs antreten. Das Hauptereignis ist der Luft- und Bodenkampf zwischen Flotten von KI-Drohnen und außerirdischen Raumschiffen.
+
+[Event Script]
+Zu Beginn: Der Nachthimmel über einer beleuchteten Metropole füllt sich mit Blitzen und Formationen von scheiben- und dreiecksförmigen UFOs, die herabsinken und Energiestrahlen abfeuern.
+Hauptereignis: Schwärme geometrisch gestalteter KI-Drohnen mit blauem Licht steigen aus Türmen und Hangars auf, bilden taktische Staffeln, stellen sich den UFOs in den Weg und eröffnen das Feuer mit Präzisionslasern und Kraftfeldern. Einige Drohnen opfern sich in kontrollierten Kollisionen, um feindliche Schiffe zum Absturz zu bringen, während die KIs vernetzte Angriffe koordinieren, die feindliche Formation aufbrechen und die Hauptwelle abwehren.
+Am Ende: Die verbleibenden UFOs ziehen sich in den Weltraum zurück, die KI-Drohnen verbleiben in Wachformation über der teilweise intakten Stadt, während Rauch und Trümmer durch die Luft schweben.
+
+[Maintain Consistency]
+Bewahre die Identität der KIs als irdische technologische Streitkräfte (Drohnen und autonome Systeme), die sich den außerirdischen Invasoren entgegenstellen. Behalte den visuellen Kontrast zwischen dem kühlen blauen Licht der KIs und den grün-violetten Blitzen der UFOs bei, das Ausmaß der nächtlichen Schlacht sowie das Ergebnis des erfolgreichen Widerstands der KIs.
+
+Die Optik weist einen epischen Science-Fiction-Kinostil auf, mit hellen Explosionen, Energiespuren und einer Atmosphäre technologischer Spannung.
+Die Kamera nutzt weite Luftaufnahmen der Schlacht, dynamische Verfolgungen der Drohnenkämpfe und Nahaufnahmen von Lasereinschlägen.
+Das Sounddesign umfasst das Summen von Drohnenantrieben, Energiestrahlen, entfernte Explosionen und einen Synth-Score mit zunehmender Intensität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -1954,6 +1967,28 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099256180845731868"></a>
+
+### Übersetzung läuft
+
+Autor：[@ux6ovv](https://x.com/ux6ovv) · [Originalbeitrag](https://x.com/ux6ovv/status/2099256180845731868)
+
+Anime / Manga · Charakter · Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099256180845731868.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099171324568760589"></a>
 

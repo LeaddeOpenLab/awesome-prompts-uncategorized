@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**174** Prompts · Latest addition: **2026-09-14**
+**175** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2429,6 +2429,28 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099256180845731868"></a>
+
+### An anime woman in a deep green military uniform, pink hair, and glasses drinking beer in a tavern.
+
+Author：[@ux6ovv](https://x.com/ux6ovv) · [Source](https://x.com/ux6ovv/status/2099256180845731868)
+
+Anime / Manga · Character · Food / Drink · Published
+
+**Summary:** An anime woman in a deep green military uniform, pink hair, and glasses drinking beer in a tavern.
+
+<img src="covers/2099256180845731868.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+In anime style, a woman in a military uniform, with the military uniform predominantly deep green, short pink hair, wearing oversized glasses, drinking from a large beer mug in a tavern
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099171324568760589"></a>
 
