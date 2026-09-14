@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**195** Prompt · Son eklenen: **2026-09-14**
+**196** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3589,6 +3589,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2099408672627851695"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AI\_Kei75](https://x.com/AI_Kei75) · [Orijinal gönderi](https://x.com/AI_Kei75/status/2099408672627851695)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099408672627851695-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099371183498277308"></a>
 

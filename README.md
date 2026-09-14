@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**195** Prompts · Latest addition: **2026-09-14**
+**196** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -4460,6 +4460,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099408672627851695"></a>
+
+### race queen in blue latex vest and skirt with white thigh boots
+
+Author：[@AI\_Kei75](https://x.com/AI_Kei75) · [Source](https://x.com/AI_Kei75/status/2099408672627851695)
+
+Character · Published
+
+**Summary:** race queen in blue latex vest and skirt with white thigh boots
+
+<img src="images/2099408672627851695-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+race queen, colorful sunglasses, eyewear on head, tinted eyewear, blue latex jacket, shiny blue latex texture, blue jacket vest, short jacket, blue latex vest, (sleeveless:1.2), (open jacket, open clothes), tube top under jacket, (white tube top), shiny white latex, (strapless), checkered choker, collarbone, stomach, navel, (white belt), (blue latex skirt), (blue pencil skirt), (checkered trim), (checkered wrist cuffs), (racing team logo, stylish print), (shiny white latex thigh boots), white long boots, white boots, blue trim, heels,
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099371183498277308"></a>
 
