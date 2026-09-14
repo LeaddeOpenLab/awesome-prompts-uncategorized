@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**209** Prompts · Dernier ajout: **2026-09-14**
+**210** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2515,6 +2515,28 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 ## Anime / Manga
 
+<a name="prompt-2099566382471909568"></a>
+
+### Traduction en cours
+
+Auteur：[@Xabatz](https://x.com/Xabatz) · [Publication originale](https://x.com/Xabatz/status/2099566382471909568)
+
+Anime / Manga · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099566382471909568.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2099481577969312010"></a>
 
 ### Prompt de portrait en techniques mixtes basé sur une image de référence montrant l'interaction entre une personne réelle et une ombre doodle de bande dessinée dessinée au mur.
@@ -3831,7 +3853,7 @@ Traduction en cours
 
 <a name="prompt-2099570524859031863"></a>
 
-### Traduction en cours
+### À partir d'une image de référence comportant une grille de 9 photos, assemblez image par image les photos du cosplayer en armure violette du Comiket pour générer un vlog vertical réaliste filmé caméra au poing.
 
 Auteur：[@minami\_gunma](https://x.com/minami_gunma) · [Publication originale](https://x.com/minami_gunma/status/2099570524859031863)
 
@@ -3839,14 +3861,14 @@ Personnage · Publié
 
 Publication originale：[@minami\_gunma](https://x.com/minami_gunma) · [Publication originale](https://x.com/minami_gunma/status/2099555625672089802)
 
-**Résumé:** Traduction en cours
+**Résumé:** À partir d'une image de référence comportant une grille de 9 photos, assemblez image par image les photos du cosplayer en armure violette du Comiket pour générer un vlog vertical réaliste filmé caméra au poing.
 
 <img src="covers/2099570524859031863.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Cette image est la pellicule photo du site du Comiket. Veuillez convertir obligatoirement chaque image en vidéo, une par une de haut en bas et de gauche à droite, et les assembler avec des coupes franches pour créer un vlog vertical du même cosplayer en armure violette. Le visage, la coiffure et l'armure doivent respecter strictement chaque case. Style smartphone tenu à la main. Pas de musique de fond (BGM). Uniquement le brouhaha du lieu et le bruit du déclencheur.
 ```
 
 [↑ Retour aux catégories](#catalog)

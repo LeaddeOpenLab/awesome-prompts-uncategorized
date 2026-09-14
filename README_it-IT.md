@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**209** Prompt · Ultima aggiunta: **2026-09-14**
+**210** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2515,6 +2515,28 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 ## Anime / Manga
 
+<a name="prompt-2099566382471909568"></a>
+
+### Traduzione in corso
+
+Autore：[@Xabatz](https://x.com/Xabatz) · [Post originale](https://x.com/Xabatz/status/2099566382471909568)
+
+Anime / Manga · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099566382471909568.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099481577969312010"></a>
 
 ### Prompt per ritratto in tecnica mista basato su immagine di riferimento con interazione tra una persona reale e un'ombra doodle a fumetti disegnata a mano sul muro.
@@ -3831,7 +3853,7 @@ Traduzione in corso
 
 <a name="prompt-2099570524859031863"></a>
 
-### Traduzione in corso
+### Sulla base di un'immagine di riferimento contenente una griglia di 9 foto, unisci fotogramma per fotogramma le foto del cosplayer in armatura viola del Comiket per generare un vlog verticale realistico in stile handheld.
 
 Autore：[@minami\_gunma](https://x.com/minami_gunma) · [Post originale](https://x.com/minami_gunma/status/2099570524859031863)
 
@@ -3839,14 +3861,14 @@ Personaggio · Pubblicato
 
 Post originale：[@minami\_gunma](https://x.com/minami_gunma) · [Post originale](https://x.com/minami_gunma/status/2099555625672089802)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Sulla base di un'immagine di riferimento contenente una griglia di 9 foto, unisci fotogramma per fotogramma le foto del cosplayer in armatura viola del Comiket per generare un vlog verticale realistico in stile handheld.
 
 <img src="covers/2099570524859031863.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Questa immagine è il rullino fotografico della fiera Comiket. Converti tassativamente ogni immagine in video, una per una da in alto a sinistra a in basso a destra, e uniscile con stacchi netti per creare un vlog verticale dello stesso cosplayer con l'armatura viola. Viso, pettinatura e armatura devono rispettare rigorosamente ogni riquadro. Stile ripresa a mano con smartphone. Nessuna musica di sottofondo (BGM). Solo il brusio del luogo e il suono dell'otturatore.
 ```
 
 [↑ Torna alle categorie](#catalog)

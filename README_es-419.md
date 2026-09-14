@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**209** Prompts · Última incorporación: **2026-09-14**
+**210** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2515,6 +2515,28 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 ## Anime / Manga
 
+<a name="prompt-2099566382471909568"></a>
+
+### Traducción en curso
+
+Autor：[@Xabatz](https://x.com/Xabatz) · [Publicación original](https://x.com/Xabatz/status/2099566382471909568)
+
+Anime / Manga · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099566382471909568.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2099481577969312010"></a>
 
 ### Prompt de retrato en técnica mixta basado en imagen de referencia con interacción entre una persona real y una sombra cómica en doodle dibujada en la pared.
@@ -3831,7 +3853,7 @@ Traducción en curso
 
 <a name="prompt-2099570524859031863"></a>
 
-### Traducción en curso
+### A partir de una imagen de referencia con una cuadrícula de 9 fotos, une cuadro por cuadro las fotos del cosplayer con armadura morada de Comiket para generar un vlog vertical realista grabado a mano.
 
 Autor：[@minami\_gunma](https://x.com/minami_gunma) · [Publicación original](https://x.com/minami_gunma/status/2099570524859031863)
 
@@ -3839,14 +3861,14 @@ Personaje · Publicado
 
 Publicación original：[@minami\_gunma](https://x.com/minami_gunma) · [Publicación original](https://x.com/minami_gunma/status/2099555625672089802)
 
-**Resumen:** Traducción en curso
+**Resumen:** A partir de una imagen de referencia con una cuadrícula de 9 fotos, une cuadro por cuadro las fotos del cosplayer con armadura morada de Comiket para generar un vlog vertical realista grabado a mano.
 
 <img src="covers/2099570524859031863.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Esta imagen es el rollo de fotos del recinto de Comiket. Por favor, convierte obligatoriamente cada imagen en video, una a una de arriba a la izquierda a abajo a la derecha, y únelas con cortes directos para crear un vlog vertical del mismo cosplayer con armadura morada. El rostro, el peinado y la armadura deben respetar estrictamente cada toma. Estilo grabado a mano con smartphone. Sin BGM. Solo el bullicio del lugar y el sonido del obturador.
 ```
 
 [↑ Volver a categorías](#catalog)

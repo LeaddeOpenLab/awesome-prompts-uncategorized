@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**209** Prompt · Bổ sung mới nhất: **2026-09-14**
+**210** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2550,6 +2550,28 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 ## Anime / Manga
 
+<a name="prompt-2099566382471909568"></a>
+
+### Đang dịch
+
+Tác giả：[@Xabatz](https://x.com/Xabatz) · [Bài gốc](https://x.com/Xabatz/status/2099566382471909568)
+
+Anime / Manga · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099566382471909568.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099481577969312010"></a>
 
 ### Lời nhắc chân dung đa chất liệu dựa trên hình ảnh tham khảo với người thật tương tác cùng bóng vẽ nguệch ngoạc truyện tranh trên tường.
@@ -3876,7 +3898,7 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2099570524859031863"></a>
 
-### Đang dịch
+### Dựa trên hình ảnh tham khảo gồm lưới 9 ảnh, ghép nối từng ảnh của cosplayer mặc giáp tím tại Comiket để tạo thành một Vlog dọc chân thực kiểu quay cầm tay.
 
 Tác giả：[@minami\_gunma](https://x.com/minami_gunma) · [Bài gốc](https://x.com/minami_gunma/status/2099570524859031863)
 
@@ -3884,14 +3906,14 @@ Nhân vật · Đã xuất bản
 
 Bài gốc：[@minami\_gunma](https://x.com/minami_gunma) · [Bài gốc](https://x.com/minami_gunma/status/2099555625672089802)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Dựa trên hình ảnh tham khảo gồm lưới 9 ảnh, ghép nối từng ảnh của cosplayer mặc giáp tím tại Comiket để tạo thành một Vlog dọc chân thực kiểu quay cầm tay.
 
 <img src="covers/2099570524859031863.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hình ảnh này là cuộn camera tại hội trường Comiket. Nhất định phải biến từng ảnh từ trên cùng bên trái sang dưới cùng bên phải thành video và ghép lại bằng các cú cắt dứt khoát (hard cut), tạo thành một Vlog dọc về cùng một cosplayer mặc giáp tím. Khuôn mặt, kiểu tóc, áo giáp phải tuân thủ nghiêm ngặt theo từng khung hình. Phong cách quay cầm tay bằng điện thoại thông minh. Không có BGM. Chỉ có tiếng ồn ào của hội trường và âm thanh màn trập.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**209** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**210** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2515,6 +2515,28 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 ## Anime / Manga
 
+<a name="prompt-2099566382471909568"></a>
+
+### Übersetzung läuft
+
+Autor：[@Xabatz](https://x.com/Xabatz) · [Originalbeitrag](https://x.com/Xabatz/status/2099566382471909568)
+
+Anime / Manga · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099566382471909568.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2099481577969312010"></a>
 
 ### Prompt für ein Mischtechnik-Porträt basierend auf einem Referenzbild mit Interaktion zwischen einer realen Person und einem handgezeichneten Comic-Doodle-Schatten an der Wand.
@@ -3831,7 +3853,7 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2099570524859031863"></a>
 
-### Übersetzung läuft
+### Basierend auf einem Referenzbild mit einem 9-Bilder-Raster werden die Fotos des Comiket-Cosplayers in lila Rüstung Bild für Bild zusammengefügt, um ein realistisches, handgeführtes vertikales Vlog zu erstellen.
 
 Autor：[@minami\_gunma](https://x.com/minami_gunma) · [Originalbeitrag](https://x.com/minami_gunma/status/2099570524859031863)
 
@@ -3839,14 +3861,14 @@ Charakter · Veröffentlicht
 
 Originalbeitrag：[@minami\_gunma](https://x.com/minami_gunma) · [Originalbeitrag](https://x.com/minami_gunma/status/2099555625672089802)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Basierend auf einem Referenzbild mit einem 9-Bilder-Raster werden die Fotos des Comiket-Cosplayers in lila Rüstung Bild für Bild zusammengefügt, um ein realistisches, handgeführtes vertikales Vlog zu erstellen.
 
 <img src="covers/2099570524859031863.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Dieses Bild ist die Kamerarolle vom Comiket-Veranstaltungsort. Bitte jedes einzelne Bild von oben links nach unten rechts unbedingt in ein Video umwandeln und mit harten Schnitten aneinanderfügen, sodass ein vertikales Vlog desselben Cosplayers in lila Rüstung entsteht. Gesicht, Frisur und Rüstung müssen sich strikt an jeden einzelnen Frame halten. Stil: handgehaltenes Smartphone. Keine Hintergrundmusik. Nur der Trubel des Veranstaltungsorts und das Verschlussgeräusch.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

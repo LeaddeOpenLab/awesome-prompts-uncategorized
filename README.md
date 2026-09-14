@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**209** Prompts · Latest addition: **2026-09-14**
+**210** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3198,6 +3198,28 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099566382471909568"></a>
+
+### Prompt to convert a personal photo into a full-art anime-style Pokémon TCG card alongside a Pokémon.
+
+Author：[@Xabatz](https://x.com/Xabatz) · [Source](https://x.com/Xabatz/status/2099566382471909568)
+
+Anime / Manga · Published
+
+**Summary:** Prompt to convert a personal photo into a full-art anime-style Pokémon TCG card alongside a Pokémon.
+
+<img src="covers/2099566382471909568.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Name: (yours)\nPokemon( whichever you want)\nImage prompt\nGenerate a clean digital illustration of a full-art Pokémon TCG card design, viewed as a flat scan-like digital asset (not a photo of a physical object). Transform the person from the uploaded photo into an anime-style Pokémon Trainer, maintaining their likeness. Place them in a dynamic action pose next to a CHARIZARD. The background should be intense elemental energy matching the Pokémon's type.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099481577969312010"></a>
 

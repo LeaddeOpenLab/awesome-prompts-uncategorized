@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**209** Prompt · Son eklenen: **2026-09-14**
+**210** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2532,6 +2532,28 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 ## Anime / Manga
 
+<a name="prompt-2099566382471909568"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Xabatz](https://x.com/Xabatz) · [Orijinal gönderi](https://x.com/Xabatz/status/2099566382471909568)
+
+Anime / Manga · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099566382471909568.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099481577969312010"></a>
 
 ### Referans görsele dayalı olarak duvardaki el çizimi çizgi roman karalama gölgesiyle etkileşime giren gerçek kişinin karma teknik portre komutu.
@@ -3848,7 +3870,7 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2099570524859031863"></a>
 
-### Çeviri sürüyor
+### 9 kareli fotoğraf içeren referans görsele dayanarak, mor zırhlı Comiket cosplayer'ının fotoğraflarını kare kare birleştirip elde çekim gerçekçiliğinde dikey bir vlog oluşturun.
 
 Yazar：[@minami\_gunma](https://x.com/minami_gunma) · [Orijinal gönderi](https://x.com/minami_gunma/status/2099570524859031863)
 
@@ -3856,14 +3878,14 @@ Karakter · Yayımlandı
 
 Orijinal gönderi：[@minami\_gunma](https://x.com/minami_gunma) · [Orijinal gönderi](https://x.com/minami_gunma/status/2099555625672089802)
 
-**Özet:** Çeviri sürüyor
+**Özet:** 9 kareli fotoğraf içeren referans görsele dayanarak, mor zırhlı Comiket cosplayer'ının fotoğraflarını kare kare birleştirip elde çekim gerçekçiliğinde dikey bir vlog oluşturun.
 
 <img src="covers/2099570524859031863.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu görsel Comiket alanındaki kamera rulosudur. Lütfen sol üstten sağ alta doğru her bir kareyi istisnasız videoya dönüştürüp sert kesmelerle birleştirerek, aynı mor zırhlı cosplayer'ın dikey bir vlog'unu oluşturun. Yüz, saç stili ve zırh her bir kareye kesinlikle sadık kalmalıdır. Akıllı telefon elde çekim tarzı. Fon müziği yok. Yalnızca alanın uğultusu ve deklanşör sesleri.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**209** Prompts · Última adição: **2026-09-14**
+**210** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2532,6 +2532,28 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 ## Anime / Mangá
 
+<a name="prompt-2099566382471909568"></a>
+
+### Tradução em andamento
+
+Autor：[@Xabatz](https://x.com/Xabatz) · [Publicação original](https://x.com/Xabatz/status/2099566382471909568)
+
+Anime / Mangá · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099566382471909568.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099481577969312010"></a>
 
 ### Prompt de retrato em técnica mista baseado em imagem de referência com interação entre pessoa real e sombra em doodle de quadrinhos desenhada na parede.
@@ -3848,7 +3870,7 @@ Tradução em andamento
 
 <a name="prompt-2099570524859031863"></a>
 
-### Tradução em andamento
+### Com base em uma imagem de referência contendo uma grade de 9 fotos, junte quadro a quadro as fotos do cosplayer com armadura roxa do Comiket para gerar um vlog vertical realista gravado à mão.
 
 Autor：[@minami\_gunma](https://x.com/minami_gunma) · [Publicação original](https://x.com/minami_gunma/status/2099570524859031863)
 
@@ -3856,14 +3878,14 @@ Personagem · Publicado
 
 Publicação original：[@minami\_gunma](https://x.com/minami_gunma) · [Publicação original](https://x.com/minami_gunma/status/2099555625672089802)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Com base em uma imagem de referência contendo uma grade de 9 fotos, junte quadro a quadro as fotos do cosplayer com armadura roxa do Comiket para gerar um vlog vertical realista gravado à mão.
 
 <img src="covers/2099570524859031863.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Esta imagem é o rolo de câmera do evento Comiket. Por favor, transforme obrigatoriamente cada imagem em vídeo, uma por uma do canto superior esquerdo ao inferior direito, e junte-as com cortes secos para criar um vlog vertical do mesmo cosplayer de armadura roxa. Rosto, penteado e armadura devem respeitar rigorosamente cada quadro. Estilo gravação com smartphone na mão. Sem BGM. Apenas o barulho do local e o som do obturador.
 ```
 
 [↑ Voltar às categorias](#catalog)
