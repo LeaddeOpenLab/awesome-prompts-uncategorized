@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**205** Prompts · Latest addition: **2026-09-14**
+**206** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -4694,6 +4694,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099481568754413910"></a>
+
+### A woman in a shiny black trench coat holding a transparent umbrella on a wet, neon-lit Tokyo street at night.
+
+Author：[@\_\_Libra1](https://x.com/__Libra1) · [Source](https://x.com/__Libra1/status/2099481568754413910)
+
+Portrait / Selfie · Character · Cityscape / Street · Published
+
+**Summary:** A woman in a shiny black trench coat holding a transparent umbrella on a wet, neon-lit Tokyo street at night.
+
+<img src="images/2099481568754413910-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Lane-Look logo. Throughout a Torrential night in Tokyo. Attired in a Shiny black Ditch coat and Grasping a See-through umbrella that Grasps the reflections of red neon signs. The streets are wet and glowing. Blurred crowds of people with umbrellas passing by. Senses Enigmatic and Film-like, Partly lit by the Vibrant signs.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099505821361270909"></a>
 

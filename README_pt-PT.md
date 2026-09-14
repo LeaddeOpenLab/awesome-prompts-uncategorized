@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**205** Prompts · Adição mais recente: **2026-09-14**
+**206** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3769,6 +3769,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099481568754413910"></a>
+
+### Tradução em curso
+
+Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicação original](https://x.com/__Libra1/status/2099481568754413910)
+
+Retrato / Selfie · Personagem · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099481568754413910-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099505821361270909"></a>
 
