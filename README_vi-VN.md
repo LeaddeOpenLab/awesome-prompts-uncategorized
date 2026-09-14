@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**173** Prompt · Bổ sung mới nhất: **2026-09-14**
+**174** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2065,22 +2065,44 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 ## Minh họa
 
-<a name="prompt-2099282298730590582"></a>
+<a name="prompt-2099269832827187204"></a>
 
 ### Đang dịch
+
+Tác giả：[@abulu8](https://x.com/abulu8) · [Bài gốc](https://x.com/abulu8/status/2099269832827187204)
+
+Minh họa · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099269832827187204-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099282298730590582"></a>
+
+### Lời nhắc phong cách minh họa về cánh đồng hoa đêm tỏa sáng sắc xanh và dải Ngân hà tráng lệ
 
 Tác giả：[@AkioT315](https://x.com/AkioT315) · [Bài gốc](https://x.com/AkioT315/status/2099282298730590582)
 
 Minh họa · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc phong cách minh họa về cánh đồng hoa đêm tỏa sáng sắc xanh và dải Ngân hà tráng lệ
 
 <img src="covers/2099282298730590582.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một cánh đồng hoa đêm tuyệt đẹp, những bông hoa tỏa sáng sắc xanh lam, bầu trời sao rực rỡ với dải Ngân hà tráng lệ, được thể hiện bằng nét vẽ kiểu tranh minh họa nhấn mạnh độ bóng và đổ bóng
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**173** Prompt · Son eklenen: **2026-09-14**
+**174** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2047,22 +2047,44 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 ## İllüstrasyon
 
-<a name="prompt-2099282298730590582"></a>
+<a name="prompt-2099269832827187204"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@abulu8](https://x.com/abulu8) · [Orijinal gönderi](https://x.com/abulu8/status/2099269832827187204)
+
+İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099269832827187204-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099282298730590582"></a>
+
+### Mavi parıldayan gece çiçek tarlası ve görkemli Samanyolu illüstrasyon tarzı istemi
 
 Yazar：[@AkioT315](https://x.com/AkioT315) · [Orijinal gönderi](https://x.com/AkioT315/status/2099282298730590582)
 
 İllüstrasyon · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Mavi parıldayan gece çiçek tarlası ve görkemli Samanyolu illüstrasyon tarzı istemi
 
 <img src="covers/2099282298730590582.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Çiçeklerin mavi parıldadığı, yıldızlı gökyüzünün görkemli bir Samanyolu ile ışıldadığı, gölgeleri vurgulayan illüstrasyon tarzı bir dokunuşla resmedilmiş güzel bir gece çiçek tarlası
 ```
 
 [↑ Kategorilere dön](#catalog)

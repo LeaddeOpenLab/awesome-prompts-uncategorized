@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**173** Prompt · Ultima aggiunta: **2026-09-14**
+**174** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2030,22 +2030,44 @@ Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia,
 
 ## Illustrazione
 
-<a name="prompt-2099282298730590582"></a>
+<a name="prompt-2099269832827187204"></a>
 
 ### Traduzione in corso
+
+Autore：[@abulu8](https://x.com/abulu8) · [Post originale](https://x.com/abulu8/status/2099269832827187204)
+
+Illustrazione · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099269832827187204-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099282298730590582"></a>
+
+### Prompt in stile illustrazione di un campo di fiori notturno che brilla di blu e una maestosa Via Lattea
 
 Autore：[@AkioT315](https://x.com/AkioT315) · [Post originale](https://x.com/AkioT315/status/2099282298730590582)
 
 Illustrazione · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt in stile illustrazione di un campo di fiori notturno che brilla di blu e una maestosa Via Lattea
 
 <img src="covers/2099282298730590582.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Uno splendido campo di fiori notturno, con fiori che brillano di blu e un cielo stellato in cui risplende una magnifica Via Lattea, rappresentato con un tocco in stile illustrazione che enfatizza le ombre
 ```
 
 [↑ Torna alle categorie](#catalog)

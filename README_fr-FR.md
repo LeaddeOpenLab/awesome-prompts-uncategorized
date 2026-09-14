@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**173** Prompts · Dernier ajout: **2026-09-14**
+**174** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2030,22 +2030,44 @@ Luffy caresse tendrement la tête d'Anya, Anya se jette dans ses bras, entourés
 
 ## Illustration
 
-<a name="prompt-2099282298730590582"></a>
+<a name="prompt-2099269832827187204"></a>
 
 ### Traduction en cours
+
+Auteur：[@abulu8](https://x.com/abulu8) · [Publication originale](https://x.com/abulu8/status/2099269832827187204)
+
+Illustration · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099269832827187204-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099282298730590582"></a>
+
+### Prompt de style illustration d'un champ de fleurs nocturne brillant en bleu et d'une majestueuse Voie lactée
 
 Auteur：[@AkioT315](https://x.com/AkioT315) · [Publication originale](https://x.com/AkioT315/status/2099282298730590582)
 
 Illustration · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de style illustration d'un champ de fleurs nocturne brillant en bleu et d'une majestueuse Voie lactée
 
 <img src="covers/2099282298730590582.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un magnifique champ de fleurs nocturne, les fleurs luisent d'un bleu éclatant, le ciel étoilé resplendit d'une voie lactée majestueuse, représenté dans un style d'illustration avec des ombres accentuées
 ```
 
 [↑ Retour aux catégories](#catalog)

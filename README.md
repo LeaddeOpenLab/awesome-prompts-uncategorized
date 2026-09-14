@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**173** Prompts · Latest addition: **2026-09-14**
+**174** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -2501,6 +2501,28 @@ Comic / Storyboard · Anime / Manga · Published
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2099269832827187204"></a>
+
+### Ukiyo-e and Baroque inspired illustration of a serene figure beside a golden-eyed purple peacock surrounded by violet blossoms.
+
+Author：[@abulu8](https://x.com/abulu8) · [Source](https://x.com/abulu8/status/2099269832827187204)
+
+Illustration · Published
+
+**Summary:** Ukiyo-e and Baroque inspired illustration of a serene figure beside a golden-eyed purple peacock surrounded by violet blossoms.
+
+<img src="images/2099269832827187204-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A serene figure in soft profile, a crown of deep violet blossoms arching over the brow so only amethyst-stained lips and a gentle jaw catch soft gold light, fingertips trailing a single gold-veined petal; a magnificent anthropomorphic peacock presses close, eyes molten gold, plumage of rich royal-violet silk threaded with pressed gold-leaf, feathers catching light like polished amethyst and gilt; dozens of deep violet blossoms erupting between them, petals drifting like a slow, tender heartbeat; gentle motion-blur ribbons of violet and soft gold drifting diagonal across the composition; the figure's robe dissolving into spiraling tendrils of trapped shimmer and floating petal-stars; fine halftone grain beneath the deep violets, a delicate gold-leaf border framing it like a sacred relic; Ukiyo-E staging meets Expressionist grace meets Baroque richness; deep royal-violet and molten gold and soft cream-white; gentle atmosphere of drifting petals and golden dust motes; surreal, cinematic, editorial, serene, tender allure; Meaningful Visual, high-detail manga-illustration rendering on deep-violet lacquer glow.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099282298730590582"></a>
 
