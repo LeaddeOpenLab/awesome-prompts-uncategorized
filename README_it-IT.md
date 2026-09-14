@@ -1660,20 +1660,20 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2099558680979005770"></a>
 
-### Traduzione in corso
+### Una scena cinematografica surreale di alta moda con una donna bionda in un cappotto di pelliccia bianco oversize attraverso ambientazioni architettoniche bianche e minimaliste.
 
 Autore：[@TaliaAariz](https://x.com/TaliaAariz) · [Post originale](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Fermo immagine cinematografico / Still fotografico · Minimalismo · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una scena cinematografica surreale di alta moda con una donna bionda in un cappotto di pelliccia bianco oversize attraverso ambientazioni architettoniche bianche e minimaliste.
 
 <img src="covers/2099558680979005770.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una scena cinematografica surreale di alta moda con protagonista una donna bionda e pallida con un lussuoso cappotto di pelliccia bianco oversize, che inizia con un primissimo piano mentre tiene un sassofono vintage d'ottone vicino al viso, per poi fissare intensamente la fotocamera e allungare lentamente la mano verso l'obiettivo, creando una profondità drammatica e un effetto mosso; la scena passa a un ampio interno architettonico bianco e minimalista dove lei si erge e avanza con entrambe le mani protese verso la fotocamera, seguito da eleganti inquadrature di due versioni della donna sedute su poltrone lounge scultoree bianche, mantenendo un'atmosfera editoriale misteriosa, un'illuminazione morbida e diffusa, una palette monocromatica bianca e pulita, una texture della pelle realistica, una profondità di campo ridotta, movimenti di macchina cinematografici e fluidi, una sottile grana della pellicola ed estetiche da campagna di moda di lusso.
 ```
 
 [↑ Torna alle categorie](#catalog)

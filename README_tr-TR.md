@@ -1674,20 +1674,20 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2099558680979005770"></a>
 
-### Çeviri sürüyor
+### Minimalist beyaz mimari ortamlarda, büyük beden beyaz kürk manto giymiş sarışın bir kadının sürreal ve yüksek moda sinematik sahnesi.
 
 Yazar：[@TaliaAariz](https://x.com/TaliaAariz) · [Orijinal gönderi](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Sinematik / Film Karesi · Minimalizm · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Minimalist beyaz mimari ortamlarda, büyük beden beyaz kürk manto giymiş sarışın bir kadının sürreal ve yüksek moda sinematik sahnesi.
 
 <img src="covers/2099558680979005770.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Lüks, büyük beden beyaz bir kürk manto giymiş soluk tenli sarışın bir kadının yer aldığı sürreal ve yüksek moda sinematik bir sahne; yüzünün yakınında vintage pirinç bir saksafon tuttuğu aşırı yakın çekimle başlar, ardından kameraya yoğun bir şekilde bakar ve dramatik bir derinlik ve hareket bulanıklığı yaratarak elini yavaşça lense doğru uzatır; sahne, kadının ayakta durup iki elini de kameraya doğru uzatarak ileriye doğru hareket ettiği geniş, minimalist beyaz mimari bir iç mekâna geçer ve ardından kadının heykelsi beyaz dinlenme koltuklarında oturan iki versiyonunun zarif çekimleriyle devam eder; tüm bunlar gizemli bir editoryal atmosferi, yumuşak dağınık aydınlatmayı, temiz monokrom beyaz paleti, gerçekçi ten dokusunu, sığ alan derinliğini, pürüzsüz sinematik kamera hareketini, ince film grenini ve üst düzey moda kampanyası estetiğini korur.
 ```
 
 [↑ Kategorilere dön](#catalog)

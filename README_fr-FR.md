@@ -1660,20 +1660,20 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2099558680979005770"></a>
 
-### Traduction en cours
+### Une scène cinématographique surréaliste de haute couture d'une femme blonde vêtue d'un manteau de fourrure blanc surdimensionné à travers des décors architecturaux blancs et minimalistes.
 
 Auteur：[@TaliaAariz](https://x.com/TaliaAariz) · [Publication originale](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Image cinématographique / Photogramme de film · Minimalisme · Personnage · Article de mode · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une scène cinématographique surréaliste de haute couture d'une femme blonde vêtue d'un manteau de fourrure blanc surdimensionné à travers des décors architecturaux blancs et minimalistes.
 
 <img src="covers/2099558680979005770.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une scène cinématographique surréaliste de haute couture mettant en vedette une femme blonde à la peau pâle vêtue d'un luxueux manteau de fourrure blanc surdimensionné, commençant par un très gros plan alors qu'elle tient un saxophone vintage en laiton près de son visage, puis fixant intensément la caméra et tendant lentement sa main vers l'objectif, créant une profondeur dramatique et un flou de mouvement ; la scène transitionne vers un vaste intérieur architectural blanc et minimaliste où elle se tient debout et avance les deux mains tendues vers la caméra, suivi d'élégants plans de deux versions de la femme assises dans des fauteuils lounge sculpturaux blancs, maintenant une ambiance éditoriale mystérieuse, un éclairage doux et diffus, une palette blanche monochromatique épurée, une texture de peau réaliste, une faible profondeur de champ, des mouvements de caméra cinématographiques fluides, un grain de film subtil et l'esthétique d'une campagne de mode haut de gamme.
 ```
 
 [↑ Retour aux catégories](#catalog)

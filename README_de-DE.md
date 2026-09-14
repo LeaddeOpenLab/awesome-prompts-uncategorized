@@ -1660,20 +1660,20 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2099558680979005770"></a>
 
-### Übersetzung läuft
+### Eine surreale, filmische High-Fashion-Szene einer blonden Frau in einem übergroßen weißen Pelzmantel in minimalistischen weißen architektonischen Umgebungen.
 
 Autor：[@TaliaAariz](https://x.com/TaliaAariz) · [Originalbeitrag](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Kinematisch / Filmstill · Minimalismus · Charakter · Modeartikel · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine surreale, filmische High-Fashion-Szene einer blonden Frau in einem übergroßen weißen Pelzmantel in minimalistischen weißen architektonischen Umgebungen.
 
 <img src="covers/2099558680979005770.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine surreale, filmische High-Fashion-Szene mit einer blassen blonden Frau in einem luxuriösen, übergroßen weißen Pelzmantel, beginnend mit einer extremen Nahaufnahme, während sie ein Vintage-Messingsaxophon nahe an ihr Gesicht hält, dann intensiv in die Kamera blickt und langsam ihre Hand in Richtung des Objektivs ausstreckt, was dramatische Tiefe und Bewegungsunschärfe erzeugt; die Szene geht über in ein weitläufiges, minimalistisches weißes architektonisches Interieur, in dem sie steht und sich mit beiden zur Kamera ausgestreckten Händen nach vorne bewegt, gefolgt von eleganten Aufnahmen zweier Versionen der Frau, die auf skulpturalen weißen Loungesesseln sitzen, wobei eine geheimnisvolle redaktionelle Stimmung, weiche diffuse Beleuchtung, eine saubere weiße Monochrom-Farbpalette, realistische Hauttextur, geringe Schärfentiefe, sanfte filmische Kamerabewegungen, dezentes Filmkorn und die Ästhetik einer High-End-Modekampagne beibehalten werden.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

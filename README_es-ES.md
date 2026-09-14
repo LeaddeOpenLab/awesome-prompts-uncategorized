@@ -1696,20 +1696,20 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2099558680979005770"></a>
 
-### Traducción en curso
+### Una escena cinematográfica surrealista de alta costura de una mujer rubia con un abrigo de piel blanco oversize en entornos arquitectónicos blancos minimalistas.
 
 Autor：[@TaliaAariz](https://x.com/TaliaAariz) · [Publicación original](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Cine / Fotograma de película · Minimalismo · Personaje · Artículo de moda · Arquitectura / Interiorismo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una escena cinematográfica surrealista de alta costura de una mujer rubia con un abrigo de piel blanco oversize en entornos arquitectónicos blancos minimalistas.
 
 <img src="covers/2099558680979005770.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una escena cinematográfica surrealista de alta costura que presenta a una mujer rubia de tez pálida con un lujoso abrigo de piel blanco oversize, comenzando con un primer plano extremo mientras sostiene un saxofón de latón vintage cerca de su rostro, para luego mirar fijamente a la cámara y extender lentamente su mano hacia la lente, creando una profundidad dramática y desenfoque de movimiento; la escena pasa a un plano general de un interior arquitectónico blanco minimalista donde ella se para y avanza con ambas manos extendidas hacia la cámara, seguido de elegantes tomas de dos versiones de la mujer sentadas en sillones lounge escultóricos blancos, manteniendo un misterioso ambiente editorial, iluminación difusa y suave, una limpia paleta monocromática blanca, textura de piel realista, baja profundidad de campo, movimiento de cámara cinematográfico fluido, grano de película sutil y estética de campaña de moda de alta gama.
 ```
 
 [↑ Volver a categorías](#catalog)

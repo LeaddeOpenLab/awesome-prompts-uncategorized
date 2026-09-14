@@ -1696,20 +1696,20 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2099558680979005770"></a>
 
-### Đang dịch
+### Một cảnh điện ảnh thời trang cao cấp siêu thực về một người phụ nữ tóc vàng trong chiếc áo khoác lông thú màu trắng ngoại cỡ giữa bối cảnh kiến trúc màu trắng tối giản.
 
 Tác giả：[@TaliaAariz](https://x.com/TaliaAariz) · [Bài gốc](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một cảnh điện ảnh thời trang cao cấp siêu thực về một người phụ nữ tóc vàng trong chiếc áo khoác lông thú màu trắng ngoại cỡ giữa bối cảnh kiến trúc màu trắng tối giản.
 
 <img src="covers/2099558680979005770.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một cảnh điện ảnh thời trang cao cấp siêu thực với sự xuất hiện của một người phụ nữ tóc vàng da tái trong chiếc áo khoác lông thú màu trắng ngoại cỡ sang trọng, mở đầu bằng cận cảnh cực đại khi cô ấy cầm một cây kèn saxophone bằng đồng cổ điển sát mặt, sau đó nhìn chằm chằm vào máy ảnh và từ từ đưa tay về phía ống kính, tạo ra độ sâu đầy kịch tính và độ mờ chuyển động; cảnh quay chuyển sang góc rộng của nội thất kiến trúc màu trắng tối giản, nơi cô ấy đứng và tiến về phía trước với cả hai tay vươn về phía máy ảnh, tiếp theo là những khung hình thanh lịch về hai phiên bản của người phụ nữ ngồi trên những chiếc ghế dài điêu khắc màu trắng, duy trì tâm trạng biên tập bí ẩn, ánh sáng khuếch tán mềm mại, bảng màu trắng đơn sắc sạch sẽ, kết cấu da chân thực, độ sâu trường ảnh nông, chuyển động máy ảnh mượt mà chuẩn điện ảnh, hạt phim tinh tế và thẩm mỹ chiến dịch thời trang cao cấp.
 ```
 
 [↑ Về danh mục](#catalog)

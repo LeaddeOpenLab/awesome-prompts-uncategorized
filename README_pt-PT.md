@@ -1674,20 +1674,20 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2099558680979005770"></a>
 
-### Tradução em curso
+### Uma cena cinematográfica surrealista de alta-costura de uma mulher loira num casaco de pele branco oversized através de cenários arquitetónicos brancos minimalistas.
 
 Autor：[@TaliaAariz](https://x.com/TaliaAariz) · [Publicação original](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Cena de Cinema / Fotograma · Minimalismo · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma cena cinematográfica surrealista de alta-costura de uma mulher loira num casaco de pele branco oversized através de cenários arquitetónicos brancos minimalistas.
 
 <img src="covers/2099558680979005770.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma cena cinematográfica surrealista de alta-costura apresentando uma mulher loira e pálida num luxuoso casaco de pele branco oversized, começando com um grande plano aproximado enquanto segura um saxofone vintage em latão perto do rosto, olhando depois intensamente para a câmara e estendendo lentamente a mão em direção à lente, criando uma profundidade dramática e desfoque de movimento; a cena transita para um amplo interior arquitetónico branco e minimalista onde ela se ergue e avança com ambas as mãos estendidas para a câmara, seguido de planos elegantes de duas versões da mulher sentadas em cadeirões esculturais brancos, mantendo um ambiente editorial misterioso, iluminação suave e difusa, uma paleta monocromática branca e limpa, textura de pele realista, profundidade de campo reduzida, movimento de câmara cinematográfico e fluido, grão de película subtil e estética de campanha de moda topo de gama.
 ```
 
 [↑ Voltar às categorias](#catalog)

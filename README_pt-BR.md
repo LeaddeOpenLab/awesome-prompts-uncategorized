@@ -1674,20 +1674,20 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2099558680979005770"></a>
 
-### Tradução em andamento
+### Uma cena cinematográfica surreal de alta-costura de uma mulher loira em um casaco de pele branco oversized através de cenários arquitetônicos brancos minimalistas.
 
 Autor：[@TaliaAariz](https://x.com/TaliaAariz) · [Publicação original](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Cinematográfico / Imagem de Filme · Minimalismo · Personagem · Item de Moda · Arquitetura / Interiores · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma cena cinematográfica surreal de alta-costura de uma mulher loira em um casaco de pele branco oversized através de cenários arquitetônicos brancos minimalistas.
 
 <img src="covers/2099558680979005770.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma cena cinematográfica surreal de alta-costura apresentando uma mulher loira e pálida em um luxuoso casaco de pele branco oversized, começando com um primeiríssimo plano enquanto ela segura um saxofone vintage de latão perto do rosto, olhando depois intensamente para a câmera e estendendo lentamente a mão em direção à lente, criando uma profundidade dramática e desfoque de movimento; a cena transiciona para um amplo interior arquitetônico branco minimalista onde ela fica de pé e avança com as duas mãos estendidas em direção à câmera, seguido por planos elegantes de duas versões da mulher sentadas em poltronas lounge esculturais brancas, mantendo um clima editorial misterioso, iluminação suave e difusa, paleta monocromática branca e limpa, textura de pele realista, profundidade de campo rasa, movimento de câmera suave e cinematográfico, granulação sutil de filme e estética de campanha de moda de luxo.
 ```
 
 [↑ Voltar às categorias](#catalog)

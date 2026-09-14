@@ -1660,20 +1660,20 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2099558680979005770"></a>
 
-### Traducción en curso
+### Una escena cinematográfica surrealista de alta costura de una mujer rubia con un abrigo de piel blanco oversize a través de entornos arquitectónicos blancos minimalistas.
 
 Autor：[@TaliaAariz](https://x.com/TaliaAariz) · [Publicación original](https://x.com/TaliaAariz/status/2099558680979005770)
 
 Cine / Fotograma · Minimalismo · Personaje · Artículo de moda · Arquitectura / Interiores · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una escena cinematográfica surrealista de alta costura de una mujer rubia con un abrigo de piel blanco oversize a través de entornos arquitectónicos blancos minimalistas.
 
 <img src="covers/2099558680979005770.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una escena cinematográfica surrealista de alta costura que presenta a una mujer rubia y pálida con un lujoso abrigo de piel blanco oversize, comenzando con un primerísimo primer plano mientras sostiene un saxofón de latón vintage cerca de su rostro, luego mirando intensamente a la cámara y extendiendo lentamente su mano hacia el lente, creando una profundidad dramática y desenfoque de movimiento; la escena pasa a un amplio interior arquitectónico blanco y minimalista donde ella se para y avanza con ambas manos extendidas hacia la cámara, seguido de elegantes tomas de dos versiones de la mujer sentadas en sillones escultóricos blancos, manteniendo un ambiente editorial misterioso, iluminación suave y difusa, una paleta monocromática blanca y limpia, textura de piel realista, poca profundidad de campo, movimiento de cámara cinematográfico fluido, grano de película sutil y estética de campaña de moda de alta gama.
 ```
 
 [↑ Volver a categorías](#catalog)
