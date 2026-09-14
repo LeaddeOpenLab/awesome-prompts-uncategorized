@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**206** Prompt · Bổ sung mới nhất: **2026-09-14**
+**207** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3798,6 +3798,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
+<a name="prompt-2099485286187377076"></a>
+
+### Đang dịch
+
+Tác giả：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Bài gốc](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2099485286187377076.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099481568754413910"></a>
 
 ### Đang dịch
@@ -3822,20 +3844,20 @@ Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh thành phố / Đ�
 
 <a name="prompt-2099505821361270909"></a>
 
-### Đang dịch
+### Prompt biểu cảm thè lưỡi cười và làm khuôn mặt hôn.
 
 Tác giả：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Bài gốc](https://x.com/AFTERRACEAI/status/2099505821361270909)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt biểu cảm thè lưỡi cười và làm khuôn mặt hôn.
 
 <img src="covers/2099505821361270909.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+thè lưỡi cười, khuôn mặt hôn
 ```
 
 [↑ Về danh mục](#catalog)

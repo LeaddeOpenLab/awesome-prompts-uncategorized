@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**206** Prompts · Latest addition: **2026-09-14**
+**207** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -4694,6 +4694,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099485286187377076"></a>
+
+### Cinematic superhero transformation VFX video prompt of an Indian man in thunder god armor raising a hammer to summon lightning and flying into the sky.
+
+Author：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Source](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Character · Published
+
+**Summary:** Cinematic superhero transformation VFX video prompt of an Indian man in thunder god armor raising a hammer to summon lightning and flying into the sky.
+
+<img src="covers/2099485286187377076.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A confident Indian man (same face as reference image) wearing a powerful god-of-thunder inspired armor suit, red flowing cape, metallic chest armor glowing with blue energy. He stands indoors, then raises a heavy magical hammer toward the sky. Dark storm clouds suddenly form above him. Intense lightning bolts strike the hammer, electric energy flows through his body, his eyes glow with power, wind blowing dramatically around him. The character transforms into a thunder god superhero (NOT exact Thor, inspired style), highly detailed cinematic armor, glowing effects, epic aura. Then he jumps and flies into the sky at high speed, leaving bright lightning trails behind, disappearing into storm clouds. Ultra realistic, cinematic lighting, slow motion, dramatic camera movement, 4K, VFX heavy, superhero transformation, epic action scene. Man with same face as input image wearing thunder god armor and red cape, holding hammer, lightning strikes, transforms into powerful superhero, flies into sky with electric trails, cinematic, 4K, slow motion.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099481568754413910"></a>
 

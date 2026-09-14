@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**206** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**207** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3753,6 +3753,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
+<a name="prompt-2099485286187377076"></a>
+
+### Übersetzung läuft
+
+Autor：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Originalbeitrag](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2099485286187377076.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2099481568754413910"></a>
 
 ### Übersetzung läuft
@@ -3777,20 +3799,20 @@ Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffentlicht
 
 <a name="prompt-2099505821361270909"></a>
 
-### Übersetzung läuft
+### Ausdrucks-Prompt für ein Lächeln mit herausgestreckter Zunge und Kussmund.
 
 Autor：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Originalbeitrag](https://x.com/AFTERRACEAI/status/2099505821361270909)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ausdrucks-Prompt für ein Lächeln mit herausgestreckter Zunge und Kussmund.
 
 <img src="covers/2099505821361270909.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+herausgestreckte Zunge und Lächeln, Kussmund
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

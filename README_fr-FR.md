@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**206** Prompts · Dernier ajout: **2026-09-14**
+**207** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3753,6 +3753,28 @@ Traduction en cours
 
 ## Autres
 
+<a name="prompt-2099485286187377076"></a>
+
+### Traduction en cours
+
+Auteur：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Publication originale](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2099485286187377076.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2099481568754413910"></a>
 
 ### Traduction en cours
@@ -3777,20 +3799,20 @@ Traduction en cours
 
 <a name="prompt-2099505821361270909"></a>
 
-### Traduction en cours
+### Prompt d'expression tirant la langue en souriant et faisant un bisou.
 
 Auteur：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Publication originale](https://x.com/AFTERRACEAI/status/2099505821361270909)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'expression tirant la langue en souriant et faisant un bisou.
 
 <img src="covers/2099505821361270909.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+tirant la langue en souriant, visage faisant un bisou
 ```
 
 [↑ Retour aux catégories](#catalog)

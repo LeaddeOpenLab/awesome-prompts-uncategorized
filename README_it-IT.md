@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**206** Prompt · Ultima aggiunta: **2026-09-14**
+**207** Prompt · Ultima aggiunta: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3753,6 +3753,28 @@ Traduzione in corso
 
 ## Altro
 
+<a name="prompt-2099485286187377076"></a>
+
+### Traduzione in corso
+
+Autore：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Post originale](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2099485286187377076.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099481568754413910"></a>
 
 ### Traduzione in corso
@@ -3777,20 +3799,20 @@ Traduzione in corso
 
 <a name="prompt-2099505821361270909"></a>
 
-### Traduzione in corso
+### Prompt di espressione per sorridere mostrando la lingua e fare la faccia da bacio.
 
 Autore：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Post originale](https://x.com/AFTERRACEAI/status/2099505821361270909)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di espressione per sorridere mostrando la lingua e fare la faccia da bacio.
 
 <img src="covers/2099505821361270909.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+lingua fuori sorridente, faccia che manda un bacio
 ```
 
 [↑ Torna alle categorie](#catalog)

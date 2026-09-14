@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**206** Prompt · Son eklenen: **2026-09-14**
+**207** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3770,6 +3770,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
+<a name="prompt-2099485286187377076"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Orijinal gönderi](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2099485286187377076.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099481568754413910"></a>
 
 ### Çeviri sürüyor
@@ -3794,20 +3816,20 @@ Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
 <a name="prompt-2099505821361270909"></a>
 
-### Çeviri sürüyor
+### Dil çıkararak gülümseyen ve öpücük ifadesi yapan yüz ifadesi istemi.
 
 Yazar：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Orijinal gönderi](https://x.com/AFTERRACEAI/status/2099505821361270909)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dil çıkararak gülümseyen ve öpücük ifadesi yapan yüz ifadesi istemi.
 
 <img src="covers/2099505821361270909.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+dil çıkarıp gülümseme, öpücük yüzü
 ```
 
 [↑ Kategorilere dön](#catalog)

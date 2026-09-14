@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**206** Prompts · Última incorporación: **2026-09-14**
+**207** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3753,6 +3753,28 @@ Traducción en curso
 
 ## Otros
 
+<a name="prompt-2099485286187377076"></a>
+
+### Traducción en curso
+
+Autor：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Publicación original](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2099485286187377076.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2099481568754413910"></a>
 
 ### Traducción en curso
@@ -3777,20 +3799,20 @@ Traducción en curso
 
 <a name="prompt-2099505821361270909"></a>
 
-### Traducción en curso
+### Prompt de expresión para sonreír sacando la lengua y poner cara de beso.
 
 Autor：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Publicación original](https://x.com/AFTERRACEAI/status/2099505821361270909)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de expresión para sonreír sacando la lengua y poner cara de beso.
 
 <img src="covers/2099505821361270909.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+sacando la lengua y sonriendo, cara de beso
 ```
 
 [↑ Volver a categorías](#catalog)

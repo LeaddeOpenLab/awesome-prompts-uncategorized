@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**206** Prompts · Adição mais recente: **2026-09-14**
+**207** Prompts · Adição mais recente: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3770,6 +3770,28 @@ Tradução em curso
 
 ## Outros
 
+<a name="prompt-2099485286187377076"></a>
+
+### Tradução em curso
+
+Autor：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Publicação original](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2099485286187377076.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099481568754413910"></a>
 
 ### Tradução em curso
@@ -3794,20 +3816,20 @@ Tradução em curso
 
 <a name="prompt-2099505821361270909"></a>
 
-### Tradução em curso
+### Prompt de expressão para sorrir deitando a língua de fora e a fazer cara de beijo.
 
 Autor：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Publicação original](https://x.com/AFTERRACEAI/status/2099505821361270909)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de expressão para sorrir deitando a língua de fora e a fazer cara de beijo.
 
 <img src="covers/2099505821361270909.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+a deitar a língua de fora a sorrir, cara de beijo
 ```
 
 [↑ Voltar às categorias](#catalog)

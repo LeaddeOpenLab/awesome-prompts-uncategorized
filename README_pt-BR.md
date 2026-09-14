@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**206** Prompts · Última adição: **2026-09-14**
+**207** Prompts · Última adição: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3770,6 +3770,28 @@ Tradução em andamento
 
 ## Outros
 
+<a name="prompt-2099485286187377076"></a>
+
+### Tradução em andamento
+
+Autor：[@RAVIKUMARSAHU78](https://x.com/RAVIKUMARSAHU78) · [Publicação original](https://x.com/RAVIKUMARSAHU78/status/2099485286187377076)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2099485286187377076.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099481568754413910"></a>
 
 ### Tradução em andamento
@@ -3794,20 +3816,20 @@ Tradução em andamento
 
 <a name="prompt-2099505821361270909"></a>
 
-### Tradução em andamento
+### Prompt de expressão para sorrir mostrando a língua e fazendo cara de beijo.
 
 Autor：[@AFTERRACEAI](https://x.com/AFTERRACEAI) · [Publicação original](https://x.com/AFTERRACEAI/status/2099505821361270909)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de expressão para sorrir mostrando a língua e fazendo cara de beijo.
 
 <img src="covers/2099505821361270909.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+mostrando a língua sorrindo, fazendo biquinho de beijo
 ```
 
 [↑ Voltar às categorias](#catalog)
