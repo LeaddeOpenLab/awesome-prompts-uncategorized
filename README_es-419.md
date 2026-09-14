@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**191** Prompts · Última incorporación: **2026-09-14**
+**192** Prompts · Última incorporación: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,60 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2099327824981315724"></a>
 
-### Traducción en curso
+### 夕暮れのベランダで洗濯物を取り込む女性のリアルな日常スナップ風プロンプト。
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2099327824981315724)
 
 Fotografía · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** 夕暮れのベランダで洗濯物を取り込む女性のリアルな日常スナップ風プロンプト。
 
 <img src="images/2099327824981315724-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Balcón al atardecer | Rosa coral y ropa mecada por el viento🌟
+
+【Tema y estilo visual】
+Fotografía fotorrealista que captura un momento cotidiano e informal de una mujer japonesa claramente adulta recogiendo la ropa en el balcón de su casa por la tarde. Una instantánea íntima con sensación de vida real, combinada con la elegancia y el brillo propios de una revista de moda femenina o un libro de fotografía refinado.
+No es una pose forzada ni artificial, sino la impresión de un instante encantador capturado espontáneamente en medio de las tareas del hogar. Equilibra con armonía la ternura, un atractivo natural y la atmósfera nostálgica del atardecer.
+
+【Lugar, fondo y ambientación】
+El lugar es el balcón alargado y estrecho de un apartamento o edificio residencial en un barrio de Japón. Junto a la pared se disponen de forma natural la unidad exterior del aire acondicionado, un cesto de ropa sucia y pequeñas plantas en macetas; sobre la cabeza cuelgan una barra de tender, perchas, camisas blancas secas y prendas de rayas.
+A la derecha se extiende una barandilla metálica con paneles translúcidos, más allá de la cual se aprecian los tejados de casas bajas y el paisaje urbano. A lo lejos permanece un cielo teñido por el sol poniente, creando una profundidad visual que conecta el espacio íntimo del hogar con la ciudad. El fondo no está excesivamente ordenado, conservando la calidez y vivacidad de un hogar realmente habitado.
+
+【Estación, hora y clima】
+Finales de primavera a finales de verano, una tarde despejada. La hora dorada, con el sol descendiendo cerca del horizonte y tiñendo el cielo con un degradado de naranja suave, rosa y tonos crema.
+El viento es suave y apacible, lo justo para mover con naturalidad el bajo de las camisas tendidas y los mechones sueltos de su cabello. Una atmósfera placentera y desahogada, propia de un atardecer en el que el calor empieza a ceder.
+
+【Descripción del personaje】
+Mujer japonesa claramente adulta, de entre 20 y 28 años. Rasgos faciales suaves y proporcionados, ojos ligeramente grandes, cejas naturales y labios con un rubor saludable. Cabello castaño oscuro recogido en un moño desenfadado, dejando finos mechones sueltos alrededor de las mejillas y el cuello. Piel de tono ocre claro con una textura realista, mostrando poros y sutiles sombras.
+Hombros, brazos y piernas delicados, cintura estrecha. Silueta esbelta, saludable y naturalmente voluptuosa, con un busto visiblemente generoso y con volumen suficiente a simple vista. No obstante, no debe verse como esferas rígidas, sino con una redondez y grosor suaves que se adapten de forma natural a la prenda, la postura y la gravedad.
+
+【Vestuario y accesorios】
+Camisola de tirantes finos en color rosa coral. En el escote lleva un pequeño encaje con volantes ondulados y un lazo discreto, con delicados volantes del mismo tono en el dobladillo. Confeccionada en canalé suave o mezcla de algodón ligero, con sutil elasticidad que se ciñe naturalmente a la silueta.
+La tela cubre generosamente el busto abundante, evitando que se clave de manera forzada o cree un realce poco natural. De parte inferior, unos pantalones cortos de talle alto en color blanco hueso o marfil. En los pies, suaves pantuflas de casa en beige claro. Accesorios mínimos, priorizando la naturalidad de estar relajada en casa.
+
+【Pose, movimiento y mirada】
+El cuerpo está ligeramente orientado hacia el fondo del balcón, con el peso descansando de forma natural sobre la pierna trasera. Una pierna adelantada sutilmente, evitando una postura rígida y erguida para reflejar el ligero cambio de gravedad propio de estar realizando una tarea.
+Un brazo levantado por encima de la cabeza, con las yemas de los dedos rozando una camisa blanca colgada en el tendedero en el momento de retirarla. En el otro brazo sostiene varias prendas ya recogidas, blancas y azul claro. Una leve torsión en el torso superior, con el rostro orientado hacia el brazo levantado. La mirada no se dirige a la cámara, sino naturalmente a la camisa que ondea con la brisa.
+
+【Expresión y emoción】
+Una sonrisa natural mientras mira hacia arriba con cierta diversión al notar la ropa meciéndose con el viento. La boca ligeramente abierta, con las mejillas y los ojos relajándose suavemente al unísono.
+No es una sonrisa fingida para la cámara, sino una expresión sincera y espontánea surgida en la tranquilidad de una tarde en casa. Transmite cercanía, la serenidad propia de una mujer adulta y un toque sutil de ternura tímida.
+
+【Composición y cámara】
+Composición vertical 4:5 pensada para publicaciones en X (Twitter). Plano general que abarca desde la coronilla hasta los pies, situando al sujeto ligeramente a la derecha del centro del encuadre. Se deja espacio a la izquierda para la ropa tendida y la pared, y a la derecha para la barandilla y el cielo crepuscular, evitando saturar la escena solo con la persona.
+Cámara a una altura natural, entre el pecho y la línea de los ojos. Distancia de toma que permite apreciar la profundidad de todo el balcón, equivalente a un objetivo estándar de unos 50 mm. Fondo ligeramente desenfocado, pero manteniendo suficiente profundidad de campo para distinguir el barrio residencial, el tendedero y el cielo del atardecer.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la cálida luz del atardecer que entra desde el fondo de la escena. Crea una fina luz de contorno dorada en el cabello, hombros y brazos, complementada naturalmente por la suave luz reflejada desde las paredes y el suelo del balcón hacia el frente del rostro y cuerpo. Sombras no demasiado densas, largas y suaves, típicas del atardecer.
+Piel con un tono saludable y texturas sutiles; cabello detallado en mechones individuales y pelos sueltos. La camisola muestra la tensión suave de la tela y ligeras arrugas, mientras que los pantalones cortos presentan la textura más densa del algodón. Todo se armoniza en una paleta centrada en rosa coral, marfil y naranja crepuscular, logrando un tono cálido, íntimo y ligeramente cinematográfico.
+
+【Calidad y elementos a evitar】
+Alta resolución, fotorrealismo. Priorizar la anatomía humana natural, la tela, el pelo, la iluminación y la perspectiva realistas, como si hubiera sido capturada por una cámara real.
+Evitar apariencia menor de edad, rostros demasiado infantiles, proporciones anatómicas antinaturales, extremidades o dedos extra, dedos fusionados o ausentes, articulaciones extrañas, manos cruzadas o invertidas, fallos en la ropa o fusión con el cuerpo, desnudez o exposición involuntaria, distorsión extrema de gran angular y retoque de piel excesivo o plástico. El busto debe mantener un volumen generoso y suave, sin aumentos grotescos, formas esféricas duras, realces forzados o formas que desafíen la gravedad. Sin texto, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -57,20 +97,60 @@ Traducción en curso
 
 <a name="prompt-2099326823431852203"></a>
 
-### Traducción en curso
+### Prompt para un retrato realista de una mujer japonesa adulta en lencería con bordados florales, de pie junto a la ventana de un dormitorio iluminada por la luz matutina.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2099326823431852203)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un retrato realista de una mujer japonesa adulta en lencería con bordados florales, de pie junto a la ventana de un dormitorio iluminada por la luz matutina.
 
 <img src="images/2099326823431852203-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟 Junto a la ventana por la mañana | Lencería con bordado floral y luz suave 🌟
+
+【Tema y estilo artístico】
+Fotografía fotorrealista de una mujer japonesa claramente adulta que contempla en silencio la luz matutina junto a la ventana de su dormitorio. Ambientada en una mañana cotidiana y casual, fusiona de forma natural elementos de la publicidad japonesa de lencería de lujo, revistas de moda femenina y elegantes libros de fotos gravure.
+No se trata de una sesión de estudio artificial, sino de una escena que conserva la intimidad de una mirada casual de su pareja en la misma habitación. Destaca la limpieza, una sensualidad suave y la transparencia propia de la mañana, logrando que el conjunto funcione como una fotografía integral que captura tanto al personaje como la calidez de un dormitorio vivido.
+
+【Lugar, fondo y ambientación】
+Dormitorio luminoso de tonos predominantemente blancos. A la derecha del encuadre hay cortinas blancas finas que caen hasta el suelo y una gran ventana; al fondo a la izquierda se ubican una cama de madera, sábanas blancas y una manta suave de tono crudo. Junto a la cama hay una pequeña mesita de noche de madera con una lámpara en tonos claros, plantas y pequeños objetos colocados discretamente.
+En la pared se aprecian fotos pequeñas y detalles sencillos de decoración, y junto a la ventana reposa una planta de interior con hojas redondeadas. El espacio no es impecable ni frío como un hotel, sino que transmite la calidez hogareña de una habitación donde una mujer reside habitualmente.
+
+【Estación, hora y clima】
+Una mañana serena y despejada de primavera o principios de verano. La hora es entre las 7:00 y las 9:00 a. m.; no se trata de una luz solar directa e intensa, sino de una suave luz matutina difuminada a través de las cortinas blancas que inunda la habitación.
+El aire exterior es ligeramente tibio y fresco, con una brisa sutil cerca de la ventana. Las cortinas y los mechones finos de cabello suelto apenas se mueven de manera muy natural, evocando la tranquilidad y el bienestar de una mañana de descanso.
+
+【Características del personaje】
+Mujer japonesa claramente adulta de entre 20 y 28 años. Rasgos faciales suaves y proporcionados, ojos oscuros y expresivos ligeramente grandes, cejas naturales, puente nasal fino y labios suaves y sonrosados. Tono de piel ocre claro con una textura realista que conserva poros y sombras sutiles. Cabello castaño oscuro, ligeramente por debajo de los hombros, con ondas naturales y mechones finos y sueltos alrededor del rostro.
+Hombros, brazos y piernas esbeltos, cintura delgada y caderas con una curva suave y natural, conformando una silueta curvilínea y elegante. Busto claramente voluminoso y generoso, pero sin una rigidez esférica artificial; muestra una redondez suave y un peso natural que responde a su postura y a la prenda.
+
+【Vestimenta y accesorios】
+Conjunto de sujetador y panty de alta gama en tono marfil. El sujetador luce bordados de pequeñas flores en tonos rosa pastel, beige y verde apagado, encaje festoneado delicado, tul fino y un pequeño lazo en el centro. El panty lleva el mismo bordado floral y encaje para lograr una armonía perfecta.
+La talla sostiene el busto generoso de manera realista con sus copas y tirantes, sin forzar un realce exagerado. La tela no se ahueca ni se clava; el bordado y el encaje se adaptan con fluidez al cuerpo. Sin accesorios ni joyas, priorizando la atmósfera simple y natural de la mañana.
+
+【Pose, movimiento y mirada】
+De pie cerca de la ventana, con el cuerpo en ángulo ligeramente diagonal hacia la cámara. Descarga su peso de forma natural sobre la pierna izquierda como eje principal, mientras adelanta un poco la pierna derecha relajando ligeramente la rodilla. Sin arquear la espalda o la cadera de manera forzada, con una postura erguida natural y hombros relajados.
+La mano derecha se eleva con soltura hacia el hombro derecho, flexionando suavemente el codo y posando con delicadeza la punta de los dedos cerca de la clavícula y el hombro. Es un gesto suave de mero contacto, sin tirar del tirante. El brazo izquierdo cae relajado junto al cuerpo. Rostro girado hacia la ventana; la mirada no se dirige a la cámara, sino hacia el exterior por la parte alta de la ventana.
+
+【Expresión y emoción】
+Una sonrisa apacible mientras contempla la luz de la mañana, como recordando algo agradable. No es una risa abierta; apenas se elevan las comisuras de los labios, relajando las mejillas y los ojos con total naturalidad.
+Transmite la sensación de una mañana agradable a pesar de un leve rezago de sueño. Deja entrever una sutil intimidad, consciente de la presencia cercana de su pareja, sin caer en una provocación explícita.
+
+【Composición y cámara】
+Composición vertical 4:5 pensada para publicaciones en X. Plano medio largo (por encima de las rodillas) que abarca desde la coronilla hasta la mitad de los muslos, situando al personaje ligeramente a la derecha del centro. A la derecha se aprecia la ventana luminosa y a la izquierda la cama y el interior de la habitación, logrando que tanto el personaje como el entorno narren la escena.
+Ángulo de cámara a la altura del pecho o los ojos de la mujer, con una distancia de toma de unos 2 a 3 metros. Distancia focal natural equivalente a 50–85 mm (estándar a teleobjetivo medio), evitando distorsiones de gran angular que alteren las proporciones del cuerpo. Profundidad de campo con un desenfoque de fondo sutil, permitiendo distinguir la ambientación del dormitorio.
+
+【Iluminación, color, textura y atmósfera】
+Fuente de luz principal: luz natural matutina que entra por la ventana situada a la derecha del encuadre. La luz suave, difuminada por las cortinas blancas, ilumina en ángulo diagonal frontal el rostro, los hombros, el busto y los brazos, mientras que en el lado opuesto incide una suave luz reflejada desde las paredes y la ropa de cama blanca. Sombras sutiles y no muy densas, que definen con naturalidad el volumen del cuerpo.
+La piel conserva poros, vello fino, rubor natural y sombras detalladas; el cabello exhibe el movimiento de cada mechón con un brillo suave. Diferenciación palpable de texturas entre el encaje, el tul, los muebles de madera, las sábanas blancas y las hojas de las plantas. Paleta cromática luminosa y diáfana dominada por tonos marfil, blanco, maderas claras y el verde de la vegetación.
+
+【Calidad y elementos a evitar】
+Representación fotorrealista de alta resolución. Priorizar la anatomía humana natural, la iluminación verosímil, la perspectiva realista y las texturas fieles de la piel y las telas, como si estuviera capturada por una cámara real.
+Evitar apariencia menor de edad, rostros infantilizados, anatomía no anatómica, extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones deformes, confusión entre manos izquierda y derecha, fallos en la vestimenta, fusión de la ropa con la piel, desnudez o exposición no intencionada, distorsión extrema de gran angular y retoques excesivos de piel perfecta. El busto debe mantener un volumen generoso y natural, sin hipertrofia irreal, esferas rígidas, realce artificial excesivo ni desafío a la gravedad. Sin texto, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -79,20 +159,64 @@ Traducción en curso
 
 <a name="prompt-2099325110603923891"></a>
 
-### Traducción en curso
+### Prompt para un retrato fotorrealista de una mujer japonesa en camisón azul pálido recostada en la cama de una habitación de hotel por la noche.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2099325110603923891)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un retrato fotorrealista de una mujer japonesa en camisón azul pálido recostada en la cama de una habitación de hotel por la noche.
 
 <img src="images/2099325110603923891-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Noche de hotel ｜ Encaje con volantes azul pálido y una dulce mirada🌟
+
+【Tema / Estilo artístico】
+Retrato fotorrealista tipo libro de fotos ambientado en una habitación de hotel por la noche, protagonizado por una mujer japonesa claramente adulta. Combina la naturalidad de una fotografía cotidiana con la sofisticación de una revista de moda y el poder de atracción en la mirada característico de un fotolibro gravure. No se enfoca en la exposición física en sí, sino en la expresión facial, la postura, la luz suave y la delicadeza del vestuario para transmitir ternura, una sensualidad elegante y una sensación de cercanía íntima, como entre amantes.
+
+【Lugar / Fondo / Atmósfera】
+La cama de una habitación de hotel tranquila y de alta calidad. Centrado en sábanas blancas, almohadas grandes y un cabecero tapizado, con una lámpara de noche de luz cálida, un teléfono y una pequeña bandeja colocados discretamente junto a la cama. Al otro lado de la ventana, las luces nocturnas de la ciudad se aprecian como un sutil bokeh; el fondo no es excesivamente protagonista, preservando la serenidad y la profundidad propias de un hotel.
+
+【Estación / Hora / Clima】
+Sin definir excesivamente la estación; una noche apacible con aire acondicionado. Es tarde por la noche; el exterior de la ventana está completamente oscuro y solo se distinguen las luces de la ciudad. El clima exterior no se enfatiza, mientras en el interior flota un aire calmo y sin viento. El contraste entre los tonos nocturnos exteriores y la cálida iluminación interior crea una atmósfera de intimidad exclusiva para dos personas.
+
+【Detalles del personaje】
+Mujer japonesa claramente adulta, de unos 20 a 28 años. Rasgos faciales suaves y bien proporcionados, ojos naturales no demasiado grandes, puente nasal fino y labios suaves con color natural. Cabello castaño oscuro ondulado hasta los hombros, con finos mechones sueltos alrededor del rostro. Piel de tono ocre claro con una textura realista donde se aprecian poros, sombras sutiles y un rubor natural.
+
+Complexión glamurosa y natural, donde hombros y extremidades delicados, una cintura esbelta y curvas femeninas conviven en armonía. El busto tiene un volumen claramente generoso y con presencia, pero sin parecer artificialmente enorme, expresado con redondez suave y tridimensionalidad que siguen la postura y la gravedad. Las caderas poseen una curvatura suave que fluye de forma natural desde la cintura.
+
+【Vestuario / Accesorios】
+Un camisón de tirantes finos en color azul pálido. Un diseño dulce y femenino adornado con delicados volantes de encaje alrededor del escote y los hombros, además de pequeños lazos y discretos detalles de costura. Confeccionado en una tela suave, ligera pero sin transparencias excesivas, que sigue de manera natural las curvas del cuerpo y cubre adecuadamente el área del busto.
+
+En la parte inferior, unos pantalones cortos color marfil. Confeccionados en tela suave y con un ligero ribete de volantes para brindar una sensación relajada de dormitorio. En principio, sin accesorios, permitiendo que la delicadeza del propio vestuario sea la protagonista.
+
+【Pose / Acción / Mirada】
+Recostada en diagonal sobre la cama, apoyando un codo en la almohada y levantando ligeramente la parte superior del cuerpo. El codo y el antebrazo sostienen el cuerpo de forma natural, mientras que la otra mano descansa suavemente sobre las sábanas delante de ella. La parte inferior del cuerpo descansa sobre la cama; las piernas siguen la postura lateral con naturalidad, sin cruzarse forzadamente ni arquearse.
+
+El pecho y los hombros no están completamente de frente, sino ligeramente orientados en ángulo hacia la cámara. Con el cuello ligeramente elevado, gira solo el rostro hacia el frente; en lugar de mirar hacia arriba desde abajo, dirige su mirada directamente a la lente como si mirara a alguien situado en una posición apenas más alta. Se evitan torsiones corporales o arqueamientos lumbares excesivos.
+
+【Expresión / Emoción】
+Una expresión sutilmente coqueta y seductora, con cierta timidez pero sin apartar la mirada. Ojos suaves y no excesivamente entrecerrados, con una mirada serena que parece evaluar la reacción del interlocutor. Las cejas relajadas de forma natural y un ligero rubor en las mejillas.
+
+Los labios no sonríen ampliamente, sino que esbozan una sonrisa discreta con las comisuras apenas levantadas. Más que una pose fingida, es una expresión en la que se sienten simultáneamente timidez, tranquilidad y una pizca de ilusión, como una emoción revelada espontáneamente al contemplar a alguien cercano.
+
+【Composición / Cámara】
+Composición vertical 4:5 pensada para publicaciones en X. Encuadre por encima de las rodillas que capta desde la coronilla hasta cerca de los muslos, equilibrando armoniosamente el rostro, el torso, el camisón y la ropa de cama blanca en una sola toma. Sin saturar todo el encuadre con el sujeto, dejando espacio para que se alcancen a ver la lámpara de noche y el fondo del hotel.
+
+La cámara se ubica junto a la cama, prácticamente a la misma altura del sujeto o ligeramente por encima. Se utiliza un ángulo de visión natural de lente estándar a telefoto medio, evitando grandes angulares extremos que distorsionen el cuerpo o el rostro. El fondo está suavemente desenfocado, conservando suficiente información para reconocer que se trata de una habitación de hotel.
+
+【Iluminación / Color / Textura / Atmósfera】
+La fuente de luz principal es la lámpara de noche de tono cálido junto a la cama. Ilumina suavemente el rostro desde un ángulo frontal diagonal, complementada con tenues reflejos de las sábanas blancas y las paredes en el lado opuesto para no empastar las sombras en negro absoluto. Deja reflejos cálidos y sombras naturales en la piel, aportando una tridimensionalidad relajada propia de la noche.
+
+Una paleta de tonos suaves que combina la prenda azul pálido y la ropa de cama marfil con la luz ambarina de la lámpara. La piel no se suaviza en exceso; se aprecian hebras de cabello individuales y mechones sueltos, el encaje detallado del vestuario, la tensión de la tela y las arrugas naturales. La atmósfera general es tranquila y romántica, sin sensación de somnolencia, conservando una ligera tensión consciente de la cámara típica de una sesión de fotolibro.
+
+【Calidad / Elementos excluidos】
+Representación fotorrealista de alta resolución. Priorizar la anatomía humana, la iluminación, las telas y la perspectiva como si fuera capturada por una cámara real. Evitar apariencia de menor de edad, rasgos faciales demasiado infantiles, anatomía antinatural, extremidades o dedos adicionales, dedos faltantes, dedos fusionados, articulaciones anómalas, confusión de manos izquierda y derecha, fusión entre el cuerpo y la ropa, fallos en el vestuario o desnudez no deseada.
+
+El busto debe mantener un volumen generoso y natural, sin adoptar formas esféricas rígidas, realces anómalos o figuras que desafíen la gravedad, y sin encuadres que enfaticen exclusivamente el pecho de forma extrema. Sin distorsión extrema de gran angular, retoque de piel exagerado, fondos irreales, textos, logotipos, marcas de agua ni elementos de interfaz de usuario.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2237,6 +2361,30 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099395304449831352"></a>
+
+### Traducción en curso
+
+Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicación original](https://x.com/2__han__/status/2099395304449831352)
+
+Anime / Manga · Ilustración · Retrato / Selfie · Resumen / Antecedentes · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099395304449831352-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099395304449831352-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099256180845731868"></a>
 

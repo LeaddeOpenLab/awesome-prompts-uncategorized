@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**191** Prompt · Bổ sung mới nhất: **2026-09-14**
+**192** Prompt · Bổ sung mới nhất: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,60 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2099327824981315724"></a>
 
-### Đang dịch
+### Prompt ảnh chụp nhanh đời thường chân thực về một người phụ nữ đang thu quần áo trên ban công lúc hoàng hôn.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2099327824981315724)
 
 Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chụp nhanh đời thường chân thực về một người phụ nữ đang thu quần áo trên ban công lúc hoàng hôn.
 
 <img src="images/2099327824981315724-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Ban công lúc hoàng hôn｜Sắc hồng san hô và quần áo lay nhẹ trong gió🌟
+
+【Chủ đề / Phong cách hình ảnh】
+Bức ảnh chân thực ghi lại khoảnh khắc đời thường giản dị của một người phụ nữ Nhật Bản trưởng thành rõ rệt đang thu quần áo phơi ngoài ban công nhà vào buổi chiều tà. Một bức ảnh chụp nhanh (snapshot) gần gũi, mang đậm hơi thở cuộc sống nhưng vẫn phảng phất nét rực rỡ, thanh lịch như trên tạp chí thời trang nữ hay một tập sách ảnh cao cấp.
+Không phải là kiểu tạo dáng cứng nhắc, mà là cảm giác bắt trọn một khoảnh khắc duyên dáng bất chợt nảy sinh giữa lúc làm việc nhà. Cân bằng hài hòa giữa nét đáng yêu, vẻ quyến rũ tự nhiên và bầu không khí hoài niệm của buổi chiều tà.
+
+【Địa điểm / Bối cảnh / Thế giới quan】
+Địa điểm là ban công hẹp dài của một căn hộ hoặc khu tập thể trong khu dân cư Nhật Bản. Dọc bờ tường được bố trí tự nhiên cục nóng điều hòa, giỏ đựng đồ giặt và vài chậu cây nhỏ; phía trên là sào phơi, móc áo, những chiếc áo sơ mi trắng đã khô và quần áo kẻ sọc xếp hàng ngay ngắn.
+Phía bên phải là lan can kim loại nối liền với các tấm chắn bán trong suốt, xa xa bên ngoài là những mái nhà thấp tầng và quang cảnh đường phố trải rộng. Hậu cảnh xa lưu lại bầu trời nhuộm sắc hoàng hôn, tạo chiều sâu thị giác mở rộng từ không gian sinh hoạt ra đến phố thị. Bối cảnh không quá ngăn nắp cứng nhắc, giữ lại hơi ấm thực tế của một ngôi nhà đang có người sinh sống.
+
+【Mùa / Thời gian / Thời tiết】
+Khoảng từ đầu hè đến cuối hè, vào một buổi chiều tà của ngày nắng đẹp. Khung giờ vàng (golden hour) khi mặt trời đã hạ thấp gần đường chân trời, bầu trời nhuộm dải chuyển màu mượt mà giữa cam nhạt, hồng và màu kem.
+Gió nhẹ và êm dịu, nhưng có chuyển động tự nhiên vừa đủ để làm lay nhẹ gấu áo sơ mi đang phơi và những lọn tóc con. Bầu không khí dễ chịu, thoáng đãng đặc trưng của buổi chiều khi cái nóng bắt đầu dịu đi.
+
+【Thiết lập nhân vật】
+Phụ nữ Nhật Bản rõ ràng đã trưởng thành, khoảng 20 đến 28 tuổi. Đường nét khuôn mặt mềm mại thanh tú, đôi mắt hơi to, lông mày tự nhiên, đôi môi tươi tắn nhuận sắc. Mái tóc màu nâu sẫm búi lỏng tự nhiên, để lại những lọn tóc con mềm mại vương bên má và gáy. Làn da tông màu vàng đất sáng (light ochre), kết cấu chân thực rõ lỗ chân lông và bóng đổ chi tiết.
+Vai, cánh tay và chân thon thả, vòng eo nhỏ nhắn. Thân hình tổng thể khỏe khoắn, gợi cảm một cách tự nhiên, vòng một đầy đặn nhìn thấy rõ. Tuy nhiên không phải hình khối cầu cứng đờ, mà thể hiện độ tròn trịa và dày dặn mềm mại, hòa hợp tự nhiên với trang phục, tư thế và trọng lực.
+
+【Trang phục / Phụ kiện】
+Áo hai dây quai mảnh màu hồng san hô (coral pink). Phần ngực áo điểm ren gợn sóng nhỏ và một chiếc nơ tinh tế, gấu áo cũng có đường viền ren xếp ly nhỏ cùng tông. Chất liệu vải gân mềm hoặc cotton pha mỏng nhẹ, có độ co giãn nhẹ và ôm theo cơ thể một cách tự nhiên.
+Phần ngực áo đủ độ rộng vải để vừa vặn với khuôn ngực đầy đặn, tránh bị thắt quá chặt hay đẩy ngực giả tạo. Phần dưới là quần short cạp cao màu trắng ngà. Chân đi dép mềm đi trong nhà màu be nhạt. Phụ kiện tối giản, ưu tiên sự tự nhiên như khi ở nhà.
+
+【Tư thế / Hành động / Ánh mắt】
+Cơ thể hơi xoay chéo về phía sâu của ban công, trọng tâm dồn tự nhiên vào chân sau. Một chân hơi đưa về phía trước, không đứng thẳng cứng nhắc mà giữ sự dịch chuyển trọng tâm nhẹ nhàng như đang giữa lúc làm việc nhà.
+Một cánh tay vươn lên cao, đầu ngón tay chạm vào chiếc áo sơ mi trắng trên sào phơi như chuẩn bị gỡ xuống. Cánh tay kia ôm vài bộ quần áo màu trắng và xanh nhạt đã thu vào. Thân trên hơi xoay nhẹ, khuôn mặt hướng về phía cánh tay đang vươn lên. Ánh mắt hướng tự nhiên về phía chiếc áo sơ mi đang lay nhẹ trong gió, không nhìn vào ống kính.
+
+【Biểu cảm / Cảm xúc】
+Nụ cười tự nhiên khi nhận ra quần áo đang đung đưa trong gió và ngước nhìn lên với vẻ thích thú. Khóe miệng hơi hé mở, gò má và khóe mắt cùng giãn ra dịu dàng.
+Không phải nụ cười gượng để chụp ảnh cho ai xem, mà là biểu cảm bất chợt nở ra trong một buổi chiều thư thái ở nhà. Toát lên sự gần gũi đan xen nét điềm đạm của phụ nữ trưởng thành và một chút đáng yêu, e thẹn nhẹ nhàng.
+
+【Bố cục / Máy ảnh】
+Bố cục dọc 4:5 thích hợp đăng X (Twitter). Khung hình gần như toàn thân từ đỉnh đầu đến chân, nhân vật được đặt hơi lệch sang bên phải tâm khung hình. Phía bên trái để lại quần áo phơi và mảng tường, bên phải là lan can và bầu trời chiều, không để nhân vật chiếm trọn toàn bộ khung hình.
+Góc máy đặt ở độ cao tự nhiên từ ngực đến ngang tầm mắt. Khoảng cách chụp vừa đủ để cảm nhận được chiều sâu của cả ban công, tương đương ống kính tiêu chuẩn khoảng 50mm. Hậu cảnh xóa phông nhẹ, nhưng vẫn giữ độ sâu trường ảnh vừa đủ để nhận diện được khu dân cư, sào phơi đồ và bầu trời chiều.
+
+【Ánh sáng / Màu sắc / Kết cấu / Bầu không khí】
+Nguồn sáng chính là ánh hoàng hôn ấm áp chiếu từ phía sau khung cảnh. Tạo ra ánh sáng viền (rim light) màu vàng kim mảnh mai dọc đường nét mái tóc, bờ vai và cánh tay; ánh sáng phản xạ dịu nhẹ từ tường và sàn ban công bổ trợ tự nhiên cho phía trước khuôn mặt và cơ thể. Bóng đổ không quá đậm, là bóng dài và mềm mại đặc trưng của buổi chiều tà.
+Làn da giữ được sắc hồng hào tự nhiên và kết cấu chi tiết, mái tóc được khắc họa tỉ mỉ từng lọn và sợi tóc con. Áo hai dây thể hiện độ căng và nếp nhăn nhỏ của vải mềm, quần short có độ dày dặn của chất liệu cotton. Tổng thể phối màu xoay quanh hồng san hô, trắng ngà và cam hoàng hôn, tạo nên tông màu ấm áp, thân mật và có chút chất điện ảnh.
+
+【Chất lượng / Yếu tố loại trừ】
+Độ phân giải cao, chân thực như ảnh chụp. Chú trọng cơ thể người, vải vóc, tóc, ánh sáng và luật xa gần tự nhiên như được chụp bằng máy ảnh thực tế.
+Tránh: nhân vật trông như vị thành niên, khuôn mặt quá non nớt, cơ thể người bất thường, thừa chi hoặc ngón tay, ngón tay bị thiếu hoặc dính liền, khớp xương bất tự nhiên, nhầm lẫn tay trái phải, lỗi trang phục hoặc trang phục dính vào cơ thể, hở hang ngoài ý muốn, méo mó góc rộng cực đoan, làm mịn da quá đà. Vòng một giữ độ đầy đặn và mềm mại, nhưng không phóng đại bất thường, không tạo khối cầu cứng, không nâng đẩy dị dạng hay chống lại trọng lực. Không có văn bản, logo, watermark, giao diện UI trong ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -57,20 +97,60 @@ Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bả
 
 <a name="prompt-2099326823431852203"></a>
 
-### Đang dịch
+### Prompt ảnh chân dung chân thực miêu tả một phụ nữ Nhật Bản trưởng thành mặc nội y thêu hoa đứng bên cửa sổ phòng ngủ ngập tràn ánh nắng ban mai.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2099326823431852203)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chân dung chân thực miêu tả một phụ nữ Nhật Bản trưởng thành mặc nội y thêu hoa đứng bên cửa sổ phòng ngủ ngập tràn ánh nắng ban mai.
 
 <img src="images/2099326823431852203-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟 Bên khung cửa sổ buổi sáng | Nội y thêu hoa và ánh sáng dịu nhẹ 🌟
+
+【Chủ đề / Phong cách hình ảnh】
+Bức ảnh chân thực (photorealistic) về một phụ nữ Nhật Bản trưởng thành rõ rệt đang lặng lẽ ngắm nhìn ánh sáng bên khung cửa sổ phòng ngủ tại nhà vào buổi sáng. Đặt trong bối cảnh một buổi sáng bình dị thường nhật, nhưng hòa quyện tự nhiên các yếu tố của quảng cáo nội y cao cấp Nhật Bản, tạp chí thời trang nữ và sách ảnh gravure trang nhã.
+Không phải là buổi chụp studio được dàn dựng cầu kỳ, mà giữ lại sự thân mật như thể người yêu tình cờ bắt gặp trong cùng một căn phòng. Lấy cảm giác sạch sẽ, sự quyến rũ nhẹ nhàng và độ trong trẻo đặc trưng của buổi sáng làm trung tâm, tạo nên một bức ảnh hoàn chỉnh bao gồm không chỉ nhân vật mà cả cảm giác đời thường của phòng ngủ.
+
+【Địa điểm / Bối cảnh / Thế giới quan】
+Phòng ngủ gia đình tươi sáng lấy tông màu trắng làm chủ đạo. Phía bên phải khung hình có rèm mỏng màu trắng dài chạm sàn và cửa sổ lớn; phía sau bên trái bố trí giường gỗ, ga trải giường màu trắng và chăn mềm màu trắng ngà (ecru). Bên cạnh giường có một chiếc bàn phụ nhỏ bằng gỗ, đèn ngủ màu nhạt, cây cảnh và đồ vật nhỏ được bài trí khiêm tốn.
+Trên tường rải rác những bức ảnh nhỏ và nội thất đơn giản; bên cửa sổ đặt một chậu cây cảnh lá tròn. Không quá ngăn nắp như khách sạn, mà giữ lại hơi ấm của căn phòng nơi người phụ nữ thường sống.
+
+【Mùa / Thời gian / Thời tiết】
+Buổi sáng nắng nhẹ nhàng từ mùa xuân đến đầu mùa hè. Thời gian vào khoảng 7 giờ đến 9 giờ sáng, không phải ánh nắng chói chang trực tiếp mà là ánh nắng ban mai dịu nhẹ lan tỏa vào phòng qua tấm rèm trắng.
+Không khí bên ngoài hơi ấm áp và trong lành, bên cửa sổ có chút hơi thở của làn gió nhẹ. Rèm cửa và những lọn tóc mai mảnh bay nhẹ cực kỳ tự nhiên, gợi cảm giác về một buổi sáng ngày nghỉ yên tĩnh và dễ chịu.
+
+【Thiết lập nhân vật】
+Phụ nữ Nhật Bản trưởng thành rõ rệt, khoảng 20 đến 28 tuổi. Khuôn mặt thanh tú, mềm mại, đôi mắt đen láy hơi to, lông mày tự nhiên, sống mũi thon gọn, đôi môi mềm mại hồng hào. Làn da tông màu vàng sáng (ocher), giữ lại kết cấu chân thực với lỗ chân lông và bóng đổ chi tiết. Mái tóc màu nâu trầm gợn sóng tự nhiên dài qua vai một chút, để lại những lọn tóc mai mảnh quanh mặt.
+Vai, cánh tay và chân thon thả, vòng eo nhỏ nhắn hài hòa với vòng hông cong tròn tự nhiên tạo nên vóc dáng đầy đặn, quyến rũ và thanh lịch. Vòng một lớn rõ rệt và đầy đặn, nhưng không cứng như hình cầu mà thể hiện độ tròn mềm mại và sức nặng tự nhiên theo tư thế và trang phục.
+
+【Trang phục / Phụ kiện】
+Bộ áo lót và quần lót cao cấp lấy tông màu trắng ngà làm chủ đạo. Áo lót sử dụng họa tiết thêu hoa nhỏ màu hồng nhạt, be và xanh xám, ren vỏ sò (scallop) tinh xảo, vải tulle mỏng, ở giữa đính một chiếc nơ nhỏ. Quần lót cũng dùng cùng loại thêu hoa và ren, tạo cảm giác đồng bộ.
+Không nâng đẩy vòng một đầy đặn một cách gượng ép, kích thước cúp ngực và dây áo nâng đỡ cơ thể một cách thực tế. Vải không bị hở hay thắt chặt, họa tiết thêu và ren ôm tự nhiên theo cơ thể. Không đeo phụ kiện, ưu tiên bầu không khí mộc mạc của buổi sáng.
+
+【Tư thế / Động tác / Ánh mắt】
+Đứng gần cửa sổ, cơ thể hơi chếch so với máy ảnh. Chân trái làm trụ chính chịu trọng lượng một cách tự nhiên, chân phải hơi đưa về phía trước và đầu gối hơi chùng xuống. Hông và lưng không ưỡn cong bất thường, vai thả lỏng tạo tư thế đứng tự nhiên.
+Tay phải nâng nhẹ lên gần vai phải, khuỷu tay hơi gập, đầu ngón tay khẽ chạm vào vùng từ vai đến xương quai xanh. Không kéo dây áo, chỉ là một cử chỉ mềm mại như đang chạm vào. Tay trái buông thõng tự nhiên bên hông. Khuôn mặt hướng về phía cửa sổ, ánh mắt không nhìn vào máy ảnh mà hướng ra ngoài cửa sổ ở góc hơi chếch lên trên.
+
+【Biểu cảm / Cảm xúc】
+Nụ cười mỉm bình yên khi ngắm ánh ban mai, như thể vừa nhớ ra điều gì đó dễ chịu. Không cười lớn mở miệng, chỉ có khóe môi khẽ nhếch lên, gò má và khóe mắt cũng giãn ra tự nhiên.
+Ấn tượng về việc đón chào một buổi sáng khoan khoái dù vẫn còn vương chút ngái ngủ. Chứa đựng sự thân mật dịu dàng như nhận thức được người yêu đang ở gần, nhưng không phải biểu cảm quyến rũ lộ liễu.
+
+【Bố cục / Máy ảnh】
+Bố cục dọc 4:5 dành cho bài đăng X. Bố cục chụp từ đỉnh đầu đến ngang đùi (trên đầu gối), nhân vật được đặt hơi lệch sang bên phải của khung hình. Giữ lại cửa sổ sáng ở bên phải, giường và không gian phòng ở bên trái, tạo cấu trúc khung hình truyền tải được bối cảnh từ cả nhân vật lẫn hậu cảnh.
+Vị trí máy ảnh cao ngang tầm ngực đến tầm mắt của người phụ nữ, khoảng cách chụp khoảng 2 đến 3m. Sử dụng góc nhìn tự nhiên từ tiêu chuẩn đến tele tầm trung tương đương 50-85mm, tránh góc rộng làm phóng đại cơ thể. Độ sâu trường ảnh (DoF) chỉ làm mờ nhẹ hậu cảnh, đủ để nhận biết không khí của phòng ngủ.
+
+【Ánh sáng / Màu sắc / Kết cấu / Không khí】
+Nguồn sáng chính là ánh sáng tự nhiên buổi sáng chiếu vào từ cửa sổ bên phải khung hình. Ánh sáng dịu nhẹ được khuếch tán qua rèm trắng chiếu xiên từ phía trước vào mặt, vai, ngực và cánh tay; phía đối diện có ánh sáng phản xạ yếu từ tường phòng và bộ chăn ga trắng. Bóng đổ không quá đậm, thể hiện khối cơ thể một cách tự nhiên.
+Da giữ lại lỗ chân lông, lông tơ, sắc hồng hào và bóng đổ chi tiết; tóc thể hiện từng lọn tóc và độ bóng mềm mại. Ren, vải tulle, đồ nội thất gỗ, chăn ga trắng và lá cây đều có kết cấu riêng biệt. Tông màu tổng thể sáng sủa và trong trẻo, tập trung vào màu trắng ngà, trắng, vân gỗ nhạt và màu xanh của cây cối.
+
+【Chất lượng / Yếu tố loại trừ】
+Thể hiện ảnh chụp chân thực độ phân giải cao. Chú trọng cơ thể người, ánh sáng, phối cảnh, kết cấu da và vải tự nhiên như được chụp bằng máy ảnh thực tế.
+Tránh: nhân vật trông giống vị thành niên, khuôn mặt quá non nớt, cơ thể bất thường, thừa tay chân hoặc ngón tay, thiếu ngón tay, ngón tay dính liền, khớp xương bất thường, nhầm lẫn tay trái phải, lỗi trang phục, cơ thể hòa lẫn vào trang phục, hở hang ngoài ý muốn, biến dạng góc rộng cực đoan, chỉnh sửa làm mịn da quá đà. Vòng một duy trì độ đầy đặn tự nhiên, không biến dạng to bất thường, không cứng như hình cầu, không nâng đẩy quá mức, không tạo hình chống lại trọng lực. Không đưa chữ, logo, watermark, giao diện UI vào trong hình ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -79,20 +159,64 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 <a name="prompt-2099325110603923891"></a>
 
-### Đang dịch
+### Lời nhắc chân thực về người phụ nữ Nhật Bản mặc áo hai dây màu xanh nhạt nằm trên giường trong phòng khách sạn ban đêm.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2099325110603923891)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân thực về người phụ nữ Nhật Bản mặc áo hai dây màu xanh nhạt nằm trên giường trong phòng khách sạn ban đêm.
 
 <img src="images/2099325110603923891-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Đêm khách sạn｜Ren bèo nhún màu xanh nhạt và ánh nhìn ngọt ngào🌟
+
+【Chủ đề・Phong cách nghệ thuật】
+Chân dung phong cách sách ảnh photorealistic trong phòng khách sạn vào ban đêm, với nhân vật chính là một phụ nữ Nhật Bản trưởng thành rõ rệt. Kết hợp sự tự nhiên của ảnh chụp đời thường với nét tinh tế của tạp chí thời trang và sức hút từ ánh nhìn đặc trưng của photobook gravure. Không dựa vào sự hở hang, mà thông qua biểu cảm, tư thế, ánh sáng dịu nhẹ và sự tinh tế của trang phục để gợi lên nét đáng yêu, vẻ quyến rũ thanh lịch và khoảng cách gần gũi như những người yêu nhau.
+
+【Địa điểm・Bối cảnh・Thế giới quan】
+Chiếc giường trong phòng khách sạn cao cấp, yên tĩnh. Trọng tâm là ga trải giường màu trắng, gối lớn và đầu giường bọc nệm; đèn ngủ ánh sáng ấm áp, điện thoại và khay nhỏ được bố trí kín đáo bên cạnh giường. Qua khung cửa sổ, ánh đèn thành phố đêm hiện lên như những đốm bokeh nhỏ, hậu cảnh không quá nổi bật nhưng vẫn giữ được sự tĩnh lặng và chiều sâu đặc trưng của khách sạn.
+
+【Mùa・Thời gian・Thời tiết】
+Không giới hạn mùa cụ thể, một đêm êm dịu trong phòng có điều hòa. Thời gian vào đêm muộn, bên ngoài cửa sổ tối hoàn toàn, chỉ thấy ánh đèn đô thị. Thời tiết ngoài trời không thể hiện rõ, trong phòng ngập tràn không khí tĩnh lặng, không chút gió. Sự tương phản giữa sắc đêm bên ngoài và ánh đèn ấm áp trong phòng tạo nên bầu không khí như khoảng thời gian chỉ dành riêng cho hai người.
+
+【Thiết lập nhân vật】
+Phụ nữ Nhật Bản khoảng 20-28 tuổi, trưởng thành rõ rệt. Đường nét khuôn mặt mềm mại, thanh tú, đôi mắt tự nhiên không quá to, sống mũi thon gọn, đôi môi mềm mại có sắc hồng hào. Mái tóc uốn gợn sóng màu nâu trầm dài ngang vai, với những lọn tóc con mềm mại vương quanh mặt. Làn da tông màu be sáng, kết cấu thực tế với lỗ chân lông, bóng mờ tinh tế và sắc hồng tự nhiên.
+
+Thân hình quyến rũ tự nhiên, hài hòa giữa bờ vai và tứ chi mảnh mai, vòng eo thon cùng những đường cong nữ tính. Vòng một đầy đặn rõ rệt và có độ nở nang tự nhiên, nhưng không bị phóng đại quá mức, thể hiện độ tròn mềm mại và khối ba chiều theo đúng tư thế và trọng lực. Vòng ba cũng có độ cong mềm mại nối tiếp tự nhiên từ thắt lưng.
+
+【Trang phục・Phụ kiện】
+Áo hai dây quai mảnh màu xanh lam nhạt (pale blue). Thiết kế ngọt ngào, nữ tính với ren bèo nhún tinh xảo quanh ngực và vai, điểm xuyết nơ nhỏ và các chi tiết may kín đáo. Chất vải mềm mại, mỏng nhẹ nhưng không quá xuyên thấu, ôm tự nhiên theo đường cong cơ thể, phần ngực có độ che phủ vừa vặn.
+
+Phía dưới là quần short màu trắng ngà. Sử dụng chất vải mềm mại với viền bèo nhẹ, mang lại cảm giác thư giãn như trong phòng ngủ. Nguyên tắc là không đeo phụ kiện, để sự đáng yêu của chính trang phục làm điểm nhấn chính.
+
+【Tư thế・Hành động・Ánh mắt】
+Nằm nghiêng chéo người trên giường, tựa một khuỷu tay lên gối để nâng nhẹ phần thân trên. Khuỷu tay và cẳng tay đỡ cơ thể một cách tự nhiên, bàn tay còn lại đặt nhẹ lên ga giường phía trước cơ thể. Nửa thân dưới thả lỏng trên giường, chân duỗi tự nhiên theo tư thế nằm nghiêng, không bắt chéo gượng gạo hay uốn cong quá mức.
+
+Ngực và vai không hướng thẳng hoàn toàn mà hơi mở một góc chéo về phía máy ảnh. Cổ hơi ngẩng lên, chỉ xoay mặt về phía này, nhìn thẳng vào ống kính máy ảnh như đang nhìn một người ở vị trí hơi cao hơn một chút chứ không phải nhìn ngước lên từ dưới. Tránh vặn xoắn cơ thể hoặc võng lưng quá mức.
+
+【Biểu cảm・Cảm xúc】
+Biểu cảm quyến rũ đáng yêu, có chút ngượng ngùng nhưng không hề tránh né ánh nhìn. Mắt mềm mại, không nheo quá nhiều, ánh nhìn tĩnh lặng như đang dò xét phản ứng của đối phương. Lông mày thả lỏng tự nhiên, đôi má ửng hồng nhẹ nhàng.
+
+Khuếch môi không cười lớn mà là nụ cười mỉm kín đáo với khóe môi hơi nhếch lên. Không phải một tư thế gượng gạo, mà là biểu cảm tự nhiên như vừa lướt qua khi đang ngắm nhìn người thân thiết, toát lên cùng lúc sự bẽn lẽn, an tâm và một chút mong đợi.
+
+【Bố cục・Máy ảnh】
+Bố cục dọc tỷ lệ 4:5 phù hợp cho bài đăng X. Góc máy cận từ trên đầu gối, chụp từ đỉnh đầu đến khoảng đùi, giúp khuôn mặt, thân trên, áo hai dây và bộ đồ giường màu trắng cân đối hài hòa trong một khung hình. Không nhồi nhét nhân vật quá chật khung hình, để lại khoảng trống vừa đủ để thấy đèn ngủ và hậu cảnh khách sạn.
+
+Máy ảnh đặt bên cạnh giường ngang tầm hoặc hơi cao hơn nhân vật một chút. Sử dụng góc chụp tự nhiên từ tiêu chuẩn đến tele tầm trung, tránh góc siêu rộng làm biến dạng khuôn mặt hoặc cơ thể. Hậu cảnh làm mờ nhẹ nhưng vẫn giữ đủ thông tin để nhận biết là phòng khách sạn.
+
+【Ánh sáng・Màu sắc・Kết cấu・Bầu không khí】
+Nguồn sáng chính là đèn ngủ ánh sáng ấm bên cạnh giường. Ánh sáng chiếu mềm mại từ góc chéo phía trước khuôn mặt, phía đối diện có ánh sáng phản chiếu nhẹ từ ga giường trắng và tường để bóng đổ không bị tối đen. Làn da có điểm nhấn ấm áp và bóng đổ tự nhiên, tạo khối trầm tĩnh đặc trưng của ban đêm.
+
+Bảng màu dịu nhẹ kết hợp trang phục xanh nhạt và chăn ga gối màu ngà với ánh đèn màu hổ phách. Da không bị làm mịn quá đà, tóc thể hiện rõ từng sợi và các lọn tóc con, trang phục thể hiện chi tiết ren, độ căng của vải và các nếp nhăn tự nhiên. Tổng thể tĩnh lặng và lãng mạn nhưng không buồn ngủ, vẫn giữ một chút căng thẳng nhẹ nhàng của sách ảnh khi ý thức được máy ảnh.
+
+【Chất lượng・Yếu tố loại trừ】
+Thể hiện chân thực có độ phân giải cao. Chú trọng vào cơ thể người, ánh sáng, vải vóc và phối cảnh như được chụp bằng máy ảnh thực tế. Tránh nhân vật trông như vị thành niên, khuôn mặt quá non nớt, cơ thể bất thường, thừa chi hoặc ngón tay, thiếu ngón, dính ngón, khớp xương bất thường, nhầm lẫn tay trái phải, cơ thể hòa lẫn vào trang phục, lỗi trang phục hoặc hở hang ngoài ý muốn.
+
+Giữ vòng một đầy đặn tự nhiên, không tạo hình dạng cầu cứng đơ, không nâng ép bất thường, không đi ngược trọng lực, không bố cục tập trung quá mức chỉ vào ngực. Không biến dạng góc rộng quá mức, không làm mịn da quá đà, không hậu cảnh phi tự nhiên, không chữ, logo, watermark, hiển thị UI.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2272,6 +2396,30 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099395304449831352"></a>
+
+### Đang dịch
+
+Tác giả：[@2\_\_han\_\_](https://x.com/2__han__) · [Bài gốc](https://x.com/2__han__/status/2099395304449831352)
+
+Anime / Manga · Minh họa · Chân dung / Ảnh tự chụp · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099395304449831352-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099395304449831352-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099256180845731868"></a>
 

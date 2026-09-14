@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**191** Prompt · Son eklenen: **2026-09-14**
+**192** Prompt · Son eklenen: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,60 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2099327824981315724"></a>
 
-### Çeviri sürüyor
+### Alacakaranlıkta balkonda çamaşır toplayan bir kadının gerçekçi, günlük enstantane tarzı istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099327824981315724)
 
 Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Alacakaranlıkta balkonda çamaşır toplayan bir kadının gerçekçi, günlük enstantane tarzı istemi.
 
 <img src="images/2099327824981315724-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Alacakaranlıkta Balkon | Mercan Pembesi ve Rüzgarda Salınan Çamaşırlar🌟
+
+【Konu / Tarz】
+Akşam saatlerinde evinin balkonunda çamaşır toplayan, belirgin biçimde yetişkin bir Japon kadının sıradan günlük anını yakalayan fotogerçekçi bir fotoğraf. Yaşanmışlık hissi veren samimi bir enstantaneye, kadın moda dergileri veya seçkin fotoğraf albümleri gibi zarif bir albeni katılmış.
+Kurgulanmış bir poz fotoğrafı değil, ev işi sırasında aniden ortaya çıkan büyüleyici bir anın yakalandığı izlenimi. Sevimlilik, doğal bir çekicilik ve gün batımının nostaljik havası dengeli bir şekilde bir arada.
+
+【Mekân / Arka Plan / Dünya Görüşü】
+Japonya'da bir yerleşim bölgesindeki apartman veya toplu konutun dar ve uzun balkonu. Duvar kenarına klima dış ünitesi, çamaşır sepeti ve küçük saksı bitkileri doğal bir şekilde yerleştirilmiş; baş hizasında çamaşır askılığı, askılar, kurumuş beyaz gömlekler ve çizgili giysiler dizili.
+Sağ tarafta metal korkuluk ve yarı saydam paneller uzanıyor; ötesinde ise alçak katlı evlerin çatıları ve şehir manzarası görünüyor. Uzak planda gün batımıyla boyanmış gökyüzü bırakılarak, yaşam alanından şehre doğru derinlik hissi yaratılmış. Arka plan aşırı düzenli değil, gerçekten yaşanılan bir evin sıcaklığını koruyor.
+
+【Mevsim / Zaman / Hava Durumu】
+İlk yaz ile yaz sonu arası açık ve güneşli bir akşamüstü. Güneşin ufka yaklaştığı altın saat (golden hour); gökyüzü açık turuncu, pembe ve krem rengi bir gradyanla kaplanmış.
+Rüzgar hafif ve sakin ancak asılı gömleklerin eteklerini ve saçın ince tutamlarını hafifçe dalgalandıracak kadar doğal bir hareket var. Sıcaklığın hafiflemeye başladığı akşam saatlerine özgü, ferah ve hoş bir atmosfer.
+
+【Karakter Özellikleri】
+20-28 yaşlarında, belirgin biçimde yetişkin bir Japon kadın. Yumuşak ve düzgün yüz hatları, hafif iri gözler, doğal kaşlar ve canlı dudaklar. Koyu kahverengi saçları dağınık bir topuz şeklinde toplanmış, yanaklarına ve boynuna ince saç telleri dökülmüş. Ten rengi açık aşıboyası tonlarında; gözenekleri ve ince gölgeleri barındıran gerçekçi bir dokuya sahip.
+Omuzlar, kollar ve bacaklar narin; beli ince. Beden genel olarak sağlıklı ve doğal kıvrımlı/dolgun bir yapıya sahip; göğüs kısmı ilk bakışta dolgunluğu fark edilecek yeterli bir hacme sahip. Ancak sert küresel bir formda değil; giysiye, duruşa ve yerçekimine doğal olarak uyum sağlayan yumuşak bir yuvarlaklık ve dolgunlukla tasvir edilmiş.
+
+【Kıyafet / Aksesuarlar】
+Mercan pembesi, ince askılı bir kombinezon/atlet. Göğüs kısmında küçük dalgalı dantel fırfırlar ve sade bir fiyonk detayı; etek ucunda da aynı tonlarda zarif fırfırlar var. Vücudu doğal olarak saran, hafif esnek, yumuşak fitilli veya ince pamuk karışımlı kumaştan üretilmiş.
+Kumaş genişliği dolgun göğsü rahatça saracak şekilde tasarlanmış, aşırı sıkma veya yapay kaldırma etkilerinden kaçınılmış. Alt giyim olarak fildişi tonlarında beyaz, yüksek belli bir şort. Ayaklarda açık bej rengi yumuşak ev terlikleri. Aksesuar kullanımı abartılmamış, evdeki rahatlık ön planda tutulmuş.
+
+【Poz / Hareket / Bakış】
+Vücut balkonun derinliklerine doğru hafifçe çapraz yönelmiş, vücut ağırlığı doğal bir şekilde arka bacağa verilmiş. Bir bacak hafifçe öne çıkarılmış; dimdik bir duruş yerine ev işi yaparkenki hafif ağırlık transferini hissettiriyor.
+Bir kolunu başının üzerine doğru uzatmış, parmak uçları askıdaki beyaz gömleğe dokunuyor, onu çıkarmak üzere olduğu an. Diğer kolunda ise önceden toplanmış birkaç parça beyaz ve açık mavi çamaşır tutuluyor. Üst gövdede çok hafif bir dönme var, yüz uzatılan kolun yönüne çevrilmiş. Bakışlar kameraya değil, rüzgarda salınan gömleğe doğal bir merakla yönelmiş.
+
+【İfade / Duygu】
+Çamaşırların rüzgarda dalgalandığını fark edip hafifçe eğlenircesine yukarı bakan doğal bir tebessüm. Dudaklar hafifçe aralanmış, yanaklar ve göz çevresi yumuşakça gevşemiş.
+Başkalarına göstermek için takınılan bir gülümseme değil; evde geçirilen rahat bir akşamüstü kendiliğinden beliren bir ifade. Samimiyetin içinde yetişkin bir kadına özgü dinginlik ve çok hafif mahcup bir tatlılık barındırıyor.
+
+【Kompozisyon / Kamera】
+X (Twitter) paylaşımlarına uygun 4:5 dikey kompozisyon. Tepeden tırnağa neredeyse tüm bedeni içine alan geniş plan; karakter ekran merkezinin biraz sağına yerleştirilmiş. Sol tarafta çamaşırlar ve duvar, sağ tarafta korkuluk ve gün batımı gökyüzü bırakılarak karenin sadece kişiyle boğulması engellenmiş.
+Kamera açısı göğüs ile göz hizası arasında doğal bir yükseklikte. Çekim mesafesi balkonun derinliğini gösterecek ölçüde ayarlanmış; yaklaşık 50mm standart lense eşdeğer. Arka plan hafifçe bulanıklaştırılmış ancak yerleşim yeri, çamaşır askılığı ve gökyüzü ayırt edilebilecek bir alan derinliği korunmuş.
+
+【Işık / Renk / Doku / Atmosfer】
+Ana ışık kaynağı ekranın arka planından süzülen ılık gün batımı ışığı. Saçların, omuzların ve kolların hatlarında ince altın rengi bir kontur ışığı (rim light) oluşturuyor; balkon duvarından ve zemininden yansıyan yumuşak ışık ise yüzün ve gövdenin ön kısmını doğal bir şekilde aydınlatıyor. Gölgeler aşırı sert değil, akşama yakışır şekilde uzun ve yumuşak.
+Cilt doğal canlılığını ve ince dokusunu koruyor, saç telleri ve tutamları özenle betimlenmiş. Atlet kumaşın yumuşak gerginliğini ve ince kırışıklıklarını, şort ise biraz daha tok pamuk dokusunu yansıtıyor. Renk paleti mercan pembesi, fildişi ve gün batımı turuncusu etrafında şekillenerek sıcak, samimi ve hafif sinematik bir ton yakalıyor.
+
+【Kalite / Hariç Tutulacak Unsurlar】
+Yüksek çözünürlük, fotogerçekçi. Gerçek bir kamerayla çekilmiş gibi doğal insan anatomisi, kumaş, saç, ışık ve perspektif önceliklidir.
+Reşit görünmeyen kişiler, aşırı çocuksu yüz, bozuk anatomi, fazladan uzuv veya parmaklar, eksik/birbirine kaynamış parmaklar, garip eklemler, sol-sağ el karmaşası, giysilerin hatalı durması veya vücutla kaynaşması, istenmeyen teşhir, aşırı geniş açı bükülmesi ve aşırı pürüzsüzleştirilmiş ten rötuşlarından kaçınılmalıdır. Göğüs dolgun ve yumuşak bir hacimde olmalı; yapay büyüklükte, sert küreler halinde, aşırı bastırılmış veya yerçekimine aykırı formlarda olmamalıdır. Görselde yazı, logo, filigran veya kullanıcı arayüzü öğesi bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -57,20 +97,60 @@ Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2099326823431852203"></a>
 
-### Çeviri sürüyor
+### Sabah ışığının süzüldüğü yatak odasının pencere kenarında duran, çiçek nakışlı iç çamaşırlı yetişkin bir Japon kadını betimleyen gerçekçi portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099326823431852203)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabah ışığının süzüldüğü yatak odasının pencere kenarında duran, çiçek nakışlı iç çamaşırlı yetişkin bir Japon kadını betimleyen gerçekçi portre istemi.
 
 <img src="images/2099326823431852203-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟 Sabahın Pencere Kenarı ｜ Çiçek Nakışlı İç Çamaşırı ve Yumuşak Işık 🌟
+
+【Konu ve Görsel Tarz】
+Sabahın erken saatlerinde evinin yatak odasındaki pencere kenarında sessizce ışığı seyreden, açıkça yetişkin bir Japon kadının fotogerçekçi fotoğrafı. Sıradan bir sabah sahnesi zemininde yer alırken, lüks Japon iç giyim reklamlarının, kadın moda dergilerinin ve zarif gravure fotoğraf kitaplarının unsurlarını doğal bir biçimde harmanlar.
+Özenle kurgulanmış bir stüdyo çekimi yerine, sevgilisinin aynı odada aniden gözüne çarpan o samimi sıcaklığı korur. Temizlik hissi, yumuşak bir çekicilik ve sabaha özgü duruluk merkezinde; yalnızca kişiyi değil, yatak odasının yaşanmışlık hissini de kapsayarak tek bir kare fotoğraf olarak kendini var eder.
+
+【Mekan, Arka Plan ve Atmosfer】
+Beyaz tonların ağırlıkta olduğu, aydınlık bir evin yatak odası. Karenin sağ tarafında yere kadar uzanan ince beyaz tül perdeler ve büyük bir pencere; sol arkada ise ahşap bir yatak, beyaz çarşaflar ve ham keten renginde yumuşak bir battaniye yer alır. Yatağın yanında küçük ahşap bir komodin, açık renkli bir abajur, sade bitkiler ve abartısız küçük dekoratif eşyalar bulunur.
+Duvara serpiştirilmiş küçük fotoğraflar ve sade iç dekorasyon unsurları; pencere kenarında ise yuvarlak yapraklı bir salon bitkisi yer alır. Bir otel odası gibi aşırı düzenli değil, bir kadının gündelik olarak yaşadığı odaya özgü yaşanmışlık sıcaklığını taşır.
+
+【Mevsim, Zaman ve Hava Durumu】
+İlkbahardan erken yaza uzanan ılık ve güneşli bir sabah. Saat sabah 7 ile 9 civarında; sert ve doğrudan vuran güneş ışığı yerine, beyaz tüllerden süzülerek odaya yayılan yumuşak sabah güneşi etkilidir.
+Dışarıdaki hava hafifçe ılık ve tazedir; pencere kenarında belli belirsiz bir rüzgar esintisi hissedilir. Perdeler ve saçın ince telleri son derece doğal bir biçimde hafifçe dalgalanır, huzurlu ve keyifli bir tatil sabahı duygusu uyandırır.
+
+【Kişi Özellikleri】
+20-28 yaşlarında, açıkça yetişkin bir Japon kadın. Yumuşak ve zarif yüz hatları, hafifçe iri ve koyu renkli gözler, doğal kaşlar, ince burun kemeri, sağlıklı bir tona sahip yumuşak dudaklar. Cilt, gözenekleri ve ince gölgeleri koruyan gerçekçi bir dokuya sahip açık aşıboyası tonundadır. Saçlar omuzların biraz altına inen, koyu kahverengi doğal dalgalara sahiptir ve yüz çevresinde ince serbest teller bırakılmıştır.
+Omuzlar, kollar ve bacaklar narin yapıdadır; ince bir bel ile doğal dolgunluktaki kalçaların uyum sağladığı zarif ve dolgun hatlı bir vücut tipi. Göğüsler belirgin şekilde dolgun ve hacimlidir; ancak sert bir küre şeklinde değil, duruşa ve iç giyime uyumlu yumuşak bir yuvarlaklık ve doğal bir ağırlık sergiler.
+
+【Kıyafet ve Aksesuarlar】
+Fildişi rengi tonlarında lüks bir sütyen ve külot takımı. Sütyende açık pembe, bej ve pastel yeşil tonlarında minik çiçek nakışları, zarif fistolu danteller, ince tül kullanılmıştır ve ortasında küçük bir fiyonk yer alır. Külotta da aynı çiçek nakışları ve danteller kullanılarak bütünlük sağlanır.
+Dolgun göğsü aşırı sıkıştırıp kaldırmayan, kapların ve askıların vücudu gerçekçi bir biçimde desteklediği bir bedendedir. Kumaş bollaşmaz veya tene batmaz; nakış ve dantel vücut hatlarına doğal bir şekilde oturur. Aksesuar kullanılmamış, sabahın sade ve doğal havası ön planda tutulmuştur.
+
+【Poz, Hareket ve Bakış】
+Pencerenin yanında durur, vücut kameraya göre hafifçe çapraz konumdadır. Ağırlık doğal olarak sol bacağa verilmiş, sağ bacak hafifçe öne çıkarılarak diz serbest bırakılmıştır. Bel veya sırt yapay biçimde geriye kıvrılmamış, omuzlar rahatlatılmış doğal bir duruş sergilenir.
+Sağ el doğal bir biçimde sağ omuz hizasına kadar kalkmış, dirsek hafifçe bükülmüş ve parmak uçları omuz ile köprücük kemiği arasına nazikçe dokunmaktadır. Askıyı çekiştirmeyen, yalnızca hafifçe temas eden yumuşak bir jesttir. Sol kol vücudun yanında doğal biçimde serbesttir. Yüz pencereye dönüktür; bakışlar kameraya değil, pencereden dışarıya doğru hafifçe yukarıya yönelmiştir.
+
+【İfade ve Duygu】
+Sabah ışığını seyrederken hoş bir anıyı hatırlamış gibi dingin ve huzurlu bir tebessüm. Ağız ardına kadar açılarak gülünmez; yalnızca dudak kenarları hafifçe yukarı kalkar, yanaklar ve göz çevresi doğal olarak gevşer.
+Hafif bir mahmurluk barındırsa da keyifli bir sabaha uyanmış olma hissi. Sevgilisinin yakınlarda olduğunun farkında olduğunu hissettiren yumuşak bir samimiyet içerir, ancak açıkça baştan çıkarıcı bir ifadeye kaçmaz.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey kompozisyon. Başın tepesinden uyluğun ortasına kadar olan kısmı içeren, diz üstü ağırlıklı bir plan; kişi kadrajın merkezinin biraz sağına yerleştirilmiştir. Sağ tarafta aydınlık pencere, sol tarafta ise yatak ve oda içi bırakılarak sahnenin hem kişiden hem de mekandan hissedildiği bir kadraj düzeni kurulur.
+Kamera açısı kadının göğüs hizası ile göz hizası arasında, çekim mesafesi yaklaşık 2-3 metredir. Vücudu abartan geniş açı yerine, 50-85mm eşdeğeri standart ile orta-telefoto arası doğal bir görüş açısı kullanılır. Arka plan yatak odasının atmosferinin anlaşılabileceği ölçüde, hafif bir alan derinliğiyle yumuşakça bulanıklaştırılmıştır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, kadrajın sağındaki pencereden süzülen doğal sabah ışığıdır. Beyaz tüllerle dağıtılan yumuşak ışık yüze, omuzlara, dekolteye ve kollara çapraz önden vururken, karşı taraftan odanın duvarlarından ve beyaz nevresimlerden gelen zayıf bir yansıma ışığı oluşur. Gölgeler aşırı koyulaştırılmaz, vücudun üç boyutluluğunu doğal şekilde yansıtacak ölçüde tutulur.
+Ciltte gözenekler, ince ayva tüyleri, canlı kan rengi ve ince gölgeler; saçlarda ise tel tel akış ve yumuşak bir parlaklık vurgulanır. Dantel, tül, ahşap mobilyalar, beyaz nevresimler ve bitki yaprakları kendilerine has farklı dokulara sahiptir. Genel renk paleti fildişi, beyaz, açık ahşap tonları ve bitki yeşilinin hakim olduğu aydınlık ve duru bir tonlamadadır.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi temsil. Gerçek bir fotoğraf makinesiyle çekilmiş hissi veren doğal insan anatomisi, ışık, perspektif, cilt ve kumaş dokularına öncelik verilir.
+Reşit görünmeyen kişiler, aşırı çocuksu yüz hatları, doğal olmayan vücut oranları, fazla uzuvlar veya parmaklar, eksik parmaklar, birbirine yapışmış parmaklar, garip eklemler, sağ ve sol elin karışması, kıyafet deformasyonları, kıyafetin tenle kaynaşması, istenmeyen teşhir, aşırı geniş açı bükülmeleri ve abartılı cilt pürüzsüzleştirme filtrelerinden kaçınılmalıdır. Göğüsler zengin ve doğal hacmini korumalı; doğal olmayan biçimde devasa, sert küre şeklinde, aşırı yukarı itilmiş veya yerçekimine aykırı bir yapıda olmamalıdır. Görsel içinde metin, logo, filigran veya kullanıcı arayüzü ögeleri bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -79,20 +159,64 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2099325110603923891"></a>
 
-### Çeviri sürüyor
+### Gece otel odasında açık mavi kombinezon giyerek yatakta uzanan Japon kadının gerçekçi portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099325110603923891)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece otel odasında açık mavi kombinezon giyerek yatakta uzanan Japon kadının gerçekçi portre istemi.
 
 <img src="images/2099325110603923891-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Otelde Bir Gece｜Açık Mavi Fırfırlı Dantel ve Tatlı Bakışlar🌟
+
+【Konu ve Görsel Tarz】
+Açıkça yetişkin bir Japon kadınının başrolde olduğu, gece bir otel odasında çekilmiş, fotogerçekçi bir fotoğraf kitabı tarzı portre. Günlük fotoğrafların doğallığını moda dergilerinin zarafeti ve gravür fotoğraf albümlerine özgü bakış çekiciliğiyle harmanlar. Çıplaklıktan ziyade yüz ifadesi, duruş, yumuşak ışık ve kıyafetin zarafeti aracılığıyla sevimlilik, asil bir çekicilik ve sevgililer arasındaki o yakın samimiyet hissini yansıtan bir kare.
+
+【Mekân, Arka Plan ve Atmosfer】
+Sakin ve kaliteli bir otel odasındaki yatak. Beyaz çarşaflar, büyük yastıklar ve kumaş kaplı bir yatak başlığı odak noktası olup komodinin üzerinde loş ve sıcak tonlu bir gece lambası, telefon ve küçük bir tepsi abartısız biçimde yer alır. Pencerenin ardında gece şehrinin ışıkları hafif bir bokeh olarak görünür; arka plan dikkat dağıtmaz, otele özgü sessizliği ve derinliği hissettirir.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim çok belirgin değildir; klimalı, ılık ve dingin bir gece ortamı. Vakit gece geç saatlerdir; pencerenin dışı tamamen karanlıktır ve sadece şehir ışıkları parıldar. Dışarıdaki hava durumu belirgin kılınmaz, içeride ise esintisiz, sakin bir hava hâkimdir. Dışarının gece tonu ile odanın sıcak aydınlatması arasındaki tezat, sanki sadece iki kişiye ait özel bir anın atmosferini kurar.
+
+【Karakter Tanımı】
+20-28 yaşlarında, açıkça yetişkin bir Japon kadın. Yumuşak ve muntazam yüz hatları, çok büyük olmayan doğal gözler, ince bir burun kemiği ve doğal canlılığa sahip yumuşak dudaklar. Omuz hizasında, koyu kahverengi dalgalı saçlar; yüz çevresine düşen ince, doğal saç telleri. Cilt açık aşı boyası (açık buğday) tonundadır; gözenekleri, ince gölgeleri ve doğal canlılığı hissettiren gerçekçi bir dokuya sahiptir.
+
+Vücut yapısı; narin omuzlar, ince uzuvlar, zarif bir bel ve feminen kıvrımların uyum sağladığı doğal kıvrımlı bir siluettir. Göğüsler belirgin şekilde dolgun ve hacimli olsa da yapay biçimde büyütülmemiş; duruşa ve yerçekimine uygun doğal yuvarlaklıkta ve üç boyutlu olarak betimlenmiştir. Kalçalar da belden doğal olarak bağlanan yumuşak ve orantılı bir kıvrıma sahiptir.
+
+【Kıyafet ve Aksesuarlar】
+Açık mavi renkte, ince askılı bir kombinezon/atlet. Göğüs dekoltesi ve omuz çevresinde zarif fırfırlı dantel işlemeleri, minik fiyonklar ve sade dikiş süslemeleri içeren tatlı ve feminen bir tasarım. İnce fakat aşırı transparan olmayan yumuşak bir kumaş; vücut kıvrımlarını doğal olarak sarar ve göğüs kısmında yeterli kumaş genişliğine sahiptir.
+
+Alt kısımda fildişi rengi mini şort. Yumuşak kumaşı ve hafif fırfırlı kenarlarıyla yatak odasına yakışır bir rahatlık sunar. Prensip olarak takı veya aksesuar takılmamış, kıyafetin kendi sevimliliği ön plana çıkarılmıştır.
+
+【Poz, Hareket ve Bakış】
+Yatağın üzerine çaprazlama uzanmış, bir dirseğini yastığa koyarak üst gövdesini hafifçe yukarı kaldırmıştır. Gövdesini dirseği ve ön koluyla doğal bir şekilde desteklerken, diğer eli önündeki çarşafın üzerine sakince konmuştur. Vücudun alt kısmı yatağa uzanmış durumdadır; bacaklar zorlanmadan, yan yatış pozisyonuna uygun olarak doğal bir akışta durur.
+
+Göğüs ve omuzlar tam karşıdan değil, çapraz bir açıdan kameraya doğru hafifçe dönüktür. Boynunu hafifçe yukarı kaldırıp yalnızca yüzünü kameraya çevirmiştir; aşağıdan yukarı bakmak yerine, karşısında biraz daha yüksekte duran birine bakar gibi bakışlarını doğrudan kameraya kilitler. Vücutta yapay bükülmelerden veya aşırı bel çukurlaştırmaktan kaçınılır.
+
+【İfade ve Duygu】
+Biraz utangaç ama bakışlarını kaçırmayan, sevimli ve hafif baştan çıkarıcı bir yüz ifadesi. Gözler yumuşak, fazla kısılmamış; karşısındakinin tepkisini anlamak istercesine sessiz ve ilgili bir bakış. Kaşlar doğal bir şekilde gevşek, yanaklarda hafif bir allık pembeliği.
+
+Dudaklar kocaman gülümsemez; sadece dudak kenarları hafifçe yukarı kalkmış çekingen bir tebessüm. Yapmacık bir pozdan ziyade, yakın olduğu birine bakarken aniden beliren bir his gibi: utangaçlık, huzur ve hafif bir beklenti aynı anda hissedilir.
+
+【Kompozisyon ve Kamera】
+X (Twitter) paylaşımlarına uygun 4:5 dikey kompozisyon. Başın tepesinden uyluk hizasına kadar uzanan diz üstü plan; yüz, üst gövde, kombinezon ve yataktaki beyaz nevresimler tek bir karede dengeli bir şekilde görünür. Karakter kadrajı tamamen doldurmaz; gece lambası ve otel arka planının biraz görünebileceği boşluk bırakılır.
+
+Kamera yatağın hemen yanından, modelle neredeyse aynı yükseklikten veya çok az yukarıdan çekim yapar. Standarttan orta telefotoya uzanan doğal bir odak açısı kullanılır; vücudu veya yüzü deforme eden aşırı geniş açılardan kaçınılır. Arka plan hafifçe bulanıklaştırılır ancak buranın bir otel odası olduğunu hissettirecek kadar görsel detay korunur.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı yatak başucundaki sıcak tonlu gece lambasıdır. Yüze ön-çaprazdan yumuşak bir ışık vururken, karşı taraftaki beyaz çarşaflar ve duvarlardan gelen zayıf yansıma ışıkları gölgelerin zifiri karanlığa boğulmasını engeller. Ciltte sıcak ışık parıltıları ve doğal gölgeler korunarak geceye yakışır dingin bir derinlik sağlanır.
+
+Açık mavi kıyafet ve fildişi nevresimlerin kehribar tonlu lamba ışığıyla buluştuğu yumuşak bir renk paleti. Cilt aşırı pürüzsüzleştirilmez; saç telleri ve yüz çevresindeki ince saçlar tek tek seçilir, kıyafetteki ince danteller, kumaşın gerginliği ve doğal kırışıklıklar net biçimde yansıtılır. Genel atmosfer sakin ve romantiktir ancak uykulu değildir; kameranın farkında olunduğunu gösteren bir fotoğraf çekimi heyecanı hafifçe hissedilir.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi anlatım. Gerçek bir kamerayla çekilmiş gibi insan anatomisi, ışık, kumaş ve derinlik hissi ön plandadır. Reşit görünmeyen kişiler, aşırı çocuksu yüz hatları, doğal olmayan vücut oranları, fazla uzuv ve parmaklar, eksik veya yapışık parmaklar, garip eklemler, sol ve sağ elin karışması, vücut ile kıyafetin iç içe geçmesi, kıyafet bozulmaları veya istenmeyen açık saçıklık elenmelidir.
+
+Göğüs dekoltesi doğal ve dolgun hacmini korurken sert küre formlarından, yapay push-up görüntüsünden, yerçekimine aykırı şekillerden ve yalnızca göğüslere odaklanan kompozisyonlardan kaçınılmalıdır. Aşırı geniş açı bozulmaları, aşırı cilt pürüzsüzleştirme, yapay arka planlar, yazılar, logolar, filigranlar ve arayüz ögeleri bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2254,6 +2378,30 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099395304449831352"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@2\_\_han\_\_](https://x.com/2__han__) · [Orijinal gönderi](https://x.com/2__han__/status/2099395304449831352)
+
+Anime / Manga · İllüstrasyon · Portre / Selfie · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099395304449831352-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099395304449831352-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099256180845731868"></a>
 

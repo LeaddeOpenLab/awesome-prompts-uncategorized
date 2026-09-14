@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**191** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**192** Prompts · Zuletzt hinzugefügt: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,60 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2099327824981315724"></a>
 
-### Übersetzung läuft
+### 夕暮れのベランダで洗濯物を取り込む女性のリアルな日常スナップ風プロンプト。
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2099327824981315724)
 
 Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 夕暮れのベランダで洗濯物を取り込む女性のリアルな日常スナップ風プロンプト。
 
 <img src="images/2099327824981315724-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Balkon in der Abenddämmerung | Korallenrosa und im Wind wehende Wäsche🌟
+
+【Hauptmotiv & Bildstil】
+Fotorealistisches Foto, das einen beiläufigen, alltäglichen Moment einer eindeutig erwachsenen japanischen Frau festhält, die am Abend auf dem heimischen Balkon Wäsche abnimmt. Ein intimer Schnappschuss voller gelebtem Alltag, versehen mit dem Glanz eines Frauen-Modemagazins oder eines anspruchsvollen Fotobands.
+Kein künstlich gestelltes Posing-Foto, sondern der Eindruck eines bezaubernden Moments, der ganz spontan während der Hausarbeit entstand. Eine ausgewogene Harmonie aus Niedlichkeit, natürlicher Attraktivität und der nostalgischen Stimmung des Sonnenuntergangs.
+
+【Ort, Hintergrund & Welt】
+Der Ort ist der schmale, langgestreckte Balkon eines Apartments oder Mehrfamilienhauses in einem japanischen Wohnviertel. An der Wand stehen ganz natürlich ein Klimaanlagen-Außengerät, ein Wäschekorb und kleine Topfpflanzen; über Kopf befinden sich eine Wäschestange, Kleiderbügel sowie trocknende weiße Hemden und gestreifte Kleidungsstücke.
+Rechts schließt sich ein Metallgeländer mit halbtransparenten Paneelen an, dahinter erstrecken sich die Dächer von Flachbauten und die Straßen des Wohngebiets. In der Ferne bleibt der vom Abendlicht gefärbte Himmel sichtbar, was eine Tiefenwirkung erzeugt, die den Blick vom Wohnraum in die Stadt hinausgleiten lässt. Der Hintergrund ist nicht zu steril aufgeräumt, sondern bewahrt die Wärme eines tatsächlich bewohnten Zuhauses.
+
+【Jahreszeit, Tageszeit & Wetter】
+Frühsommer bis Spätsommer, an einem klaren Abend. Die Goldene Stunde, in der die Sonne tief am Horizont steht und der Himmel in sanften Verläufen von Orange, Rosa und Cremefarben erstrahlt.
+Der Wind ist sanft und mild, lässt jedoch die Säume der aufgehängten Hemden und einzelne feine Haarsträhnen ganz natürlich wehen. Eine angenehme, befreiende Abendstimmung, wenn die Hitze des Tages allmählich nachlässt.
+
+【Charakterbeschreibung】
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Sanfte, wohlproportionierte Gesichtszüge, leicht vergrößerte Augen, natürliche Brauen und zart gerötete Lippen. Dunkelbraunes Haar, das zu einem lockeren, unordentlichen Dutt hochgesteckt ist, wobei feine Strähnchen an Wangen und Hals frei herabfallen. Helle ockerfarbene Haut mit realistischer Textur samt Poren und feinen Schattierungen.
+Zierliche Schultern, Arme und Beine, eine schlanke Taille. Ein insgesamt gesunder, natürlich kurviger Körperbau mit einer sichtbaren, vollen und üppigen Oberweite. Jedoch nicht als harte, künstliche Kugeln dargestellt, sondern mit einer weichen Rundung und natürlichen Fülle, die sich harmonisch an Kleidung, Körperhaltung und Schwerkraft anpasst.
+
+【Kleidung & Accessoires】
+Ein Spaghettiträger-Camisole in Korallenrosa. Am Dekolleté mit feiner gewellter Spitzenrüsche und einer dezenten Schleife verziert, auch am Saum zarte Rüschen im selben Farbton. Aus weichem Rippstoff oder leichter Baumwollmischung gefertigt, leicht dehnbar und sich sanft an die Konturen des Körpers schmiegend.
+Ausreichend Stoffweite für die üppige Oberweite, ohne unnatürliches Einschneiden oder künstliches Hochdrücken. Dazu weiße, ins Cremefarbene/Elfenbein gehende High-Waist-Shorts. An den Füßen weiche Haussandalen in hellem Beige. Sehr dezente Accessoires, die den natürlichen Eindruck des häuslichen Alltags unterstreichen.
+
+【Pose, Bewegung & Blickrichtung】
+Der Körper ist leicht schräg in die Tiefe des Balkons gedreht, das Gewicht ruht natürlich auf dem hinteren Bein. Ein Bein leicht nach vorne versetzt, kein starres Aufrechthalten, sondern eine lockere Gewichtsverlagerung mitten in der Bewegung der Hausarbeit.
+Ein Arm nach oben gestreckt, die Fingerspitzen berühren gerade ein an der Leine hängendes weißes Hemd beim Abnehmen. Auf dem anderen Arm hält sie bereits mehrere abgenommene weiße und zartblaue Wäschestücke. Eine ganz leichte Drehung im Oberkörper, das Gesicht ist in Richtung des erhobenen Arms gewandt. Der Blick richtet sich nicht in die Kamera, sondern natürlich auf das im Wind flatternde Hemd.
+
+【Ausdruck & Emotion】
+Ein ungezwungenes, natürliches Lächeln, während sie leicht amüsiert nach oben blickt, weil die Wäsche im Wind flattert. Die Lippen sind leicht geöffnet, Wangen und Augenpartie entspannen sich weich mit.
+Kein Lächeln, das für andere aufgesetzt wurde, sondern ein beiläufiger Ausdruck purer Entspannung an einem gemütlichen Feierabend daheim. Eine einladende Herzlichkeit, gepaart mit der Gelassenheit einer erwachsenen Frau und einer leisen, charmanten Verlegenheit.
+
+【Komposition & Kamera】
+4:5-Hochformat, ideal für X-Posts. Eine Totale bis Halbtotale, die von Kopf bis Fuß reicht, wobei die Person leicht rechts von der Bildmitte platziert ist. Links bleiben Wäsche und Balkonwand sichtbar, rechts Geländer und Abendhimmel, sodass das Bild nicht ausschließlich von der Figur ausgefüllt wird.
+Kameraposition auf natürlicher Höhe zwischen Brust und Augenlinie. Aufnahmedistanz so gewählt, dass die Tiefe des gesamten Balkons erfassbar ist, entsprechend einem Standardobjektiv um 50 mm. Der Hintergrund ist sanft unscharf, behält aber ausreichend Tiefenschärfe, um Wohnviertel, Wäscheleine und Abendhimmel klar erkennen zu können.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Die Hauptlichtquelle ist das warme Abendlicht, das von hinten in die Szene fällt. Es erzeugt ein feines goldenes Streiflicht (Rim Light) an den Konturen von Haar, Schultern und Armen; weiche Reflexionen von Balkonwand und Boden hellen Vorderseite von Gesicht und Körper natürlich auf. Schatten nicht zu hart, sondern abendtypisch lang und weich.
+Die Haut behält eine natürliche Frische und feine Texturen; das Haar ist detailreich mit einzelnen Strähnen und feinen Härchen dargestellt. Das Camisole zeigt die weiche Spannung des Stoffes und feine Falten, die Shorts die etwas festere Struktur von Baumwolle. Das Gesamtfarbkonzept basiert auf Korallenrosa, Elfenbein und Abendrot-Orange – ein warmes, intimes und dezent filmisches Gesamtbild.
+
+【Qualität & Ausschlusskriterien】
+Hohe Auflösung, Fotorealismus. Besonderer Wert auf natürliche Anatomie, Stoffe, Haare, Licht und Perspektive wie bei einer echten Kameraaufnahme.
+Zu vermeiden sind: minderjährig wirkende Personen, zu kindliche Gesichter, unnatürliche Anatomie, überzählige Gliedmaßen oder Finger, fehlende oder verschmolzene Finger, anatomisch unplausible Gelenke, vertauschte Hände, Texturfehler in der Kleidung oder Verschmelzen von Kleidung mit der Haut, unbeabsichtigte Nacktheit, extreme Weitwinkelverzerrungen sowie übermäßige Weichzeichnung der Haut. Die Oberweite bleibt voll und weich geformt, jedoch ohne unnatürliche Riesenmaße, harte Kugelformen, extremes Push-up oder der Schwerkraft trotzende Formen. Keinerlei Text, Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -57,20 +97,60 @@ Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2099326823431852203"></a>
 
-### Übersetzung läuft
+### Prompt für ein realistisches Porträt einer erwachsenen japanischen Frau in blumenbestickter Lingerie, die am Schlafzimmerfenster im sanften Morgenlicht steht.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2099326823431852203)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein realistisches Porträt einer erwachsenen japanischen Frau in blumenbestickter Lingerie, die am Schlafzimmerfenster im sanften Morgenlicht steht.
 
 <img src="images/2099326823431852203-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟 Am morgendlichen Fenster | Blumenbestickte Lingerie und sanftes Licht 🌟
+
+【Thema & Bildstil】
+Fotorealistisches Foto einer eindeutig erwachsenen japanischen Frau, die am Morgen am Fenster ihres heimischen Schlafzimmers still das Licht betrachtet. Eingebettet in einen ungezwungenen Alltagsmorgen, verbindet die Szene auf natürliche Weise Elemente japanischer Luxus-Dessouswerbung, Frauenmodezeitschriften und eleganter Gravure-Fotobände.
+Kein künstlich arrangiertes Studioshooting, sondern mit der spürbaren Intimität eines beiläufigen Moments, als würde ihr Partner sie aus demselben Raum beobachten. Ein stimmiges Gesamtbild, das Reinheit, sanfte Sinnlichkeit und die morgenfrische Klarheit in den Mittelpunkt stellt und neben der Person auch die bewohnte Wärme des Schlafzimmers einfängt.
+
+【Ort, Hintergrund & Atmosphäre】
+Ein helles, vorwiegend in Weiß gehaltenes Schlafzimmer. Auf der rechten Seite bodenlange, zarte weiße Vorhänge und ein großes Fenster; hinten links ein Holzbett mit weißem Bettzeug und einer weichen, naturfarbenen Decke. Neben dem Bett steht ein kleiner hölzerner Nachttisch mit einer Lampe in sanftem Farbton sowie dezent platzierten Pflanzen und Deko-Elementen.
+An der Wand hängen vereinzelte kleine Bilder und schlichte Einrichtungsdetails; auf der Fensterbank steht eine Zimmerpflanze mit abgerundeten Blättern. Nicht steril geordnet wie ein Hotelzimmer, sondern mit der behaglichen Temperatur eines alltäglich bewohnten Raumes.
+
+【Jahreszeit, Uhrzeit & Wetter】
+Ein ruhiger, sonniger Morgen im Frühling bis Frühsommer. Die Zeit liegt zwischen 7:00 und 9:00 Uhr; kein grelles, direktes Sonnenlicht, sondern ein sanftes Morgenlicht, das durch die weißen Vorhänge gefiltert in den Raum fällt.
+Die Luft von draußen wirkt mild und erfrischend, mit einem Hauch von Brise am Fenster. Die Vorhänge und feine Haarsträhnen wehen nur ganz leicht und natürlich und vermitteln das friedliche, angenehme Gefühl eines freien Morgens.
+
+【Erscheinung der Person】
+Eine eindeutig erwachsene japanische Frau, etwa 20 bis 28 Jahre alt. Weiche, harmonische Gesichtszüge, etwas größere dunkle Augen, natürliche Brauen, ein feiner Nasenrücken und weiche, gut durchblutete Lippen. Heller ockerfarbener Hautton mit realistischer Textur, die Poren und feine Schatten beibehält. Dunkelbraunes, etwas über die Schultern reichendes Haar mit natürlichen Wellen und feinen, das Gesicht umspielenden Strähnen.
+Zierliche Schultern, Arme und Beine, harmonisch kombiniert mit einer schlanken Taille und sanft gerundeten Hüften zu einer stilvoll kurvigen Silhouette. Ein ausgeprägt üppiger, voller Busen, jedoch ohne unnatürlich feste Kugelform, sondern mit weicher Rundung und natürlichem Gewicht, das der Körperhaltung und der Kleidung folgt.
+
+【Kleidung & Accessoires】
+Ein hochwertiges BH- und Slip-Set in Elfenbein. Der BH ist mit feinen floralen Stickereien in zartem Rosa, Beige und mattem Grün verziert, ergänzt durch filigrane Bogenspitze, zarten Tüll und eine winzige Schleife in der Mitte. Der Slip greift dieselbe Blumenstickerei und Spitze für ein harmonisches Gesamtbild auf.
+Körbchen und Träger stützen die volle Oberweite auf realistische Weise, ohne sie unnatürlich nach oben zu pressen. Der Stoff hebt sich nicht ab und schneidet nicht ein; Stickerei und Spitze schmiegen sich natürlich an den Körper. Auf Schmuck wird verzichtet, um die schlichte, morgendliche Stimmung zu betonen.
+
+【Pose, Bewegung & Blick】
+Sie steht nahe am Fenster, der Körper leicht schräg zur Kamera gedreht. Das Körpergewicht ruht natürlich auf dem linken Bein als Standbein, das rechte Bein ist leicht nach vorne versetzt mit sanft gebeugtem Knie. Kein künstliches Hohlkreuz, sondern ein entspannter, natürlicher Stand mit gelockerten Schultern.
+Die rechte Hand ist ungezwungen auf Schulterhöhe angehoben, der Ellbogen leicht gebeugt, die Fingerspitzen berühren sanft die Partie zwischen Schulter und Schlüsselbein. Eine zarte Berührung, ohne am Träger zu ziehen. Der linke Arm hängt natürlich an der Seite herab. Das Gesicht ist dem Fenster zugewandt, der Blick richtet sich nicht in die Kamera, sondern leicht nach oben aus dem Fenster hinaus.
+
+【Ausdruck & Emotion】
+Ein sanftes Lächeln beim Betrachten des Morgenlichts, als erinnere sie sich an etwas Angenehmes. Kein breites Lachen, sondern nur leicht angehobene Mundwinkel mit weichen Wangen und entspannter Augenpartie.
+Ein Ausdruck von Wohlbefinden am Morgen mit einer Spur verbleibender Schläfrigkeit. Eine zarte Vertrautheit schwingt mit, als nehme sie die Anwesenheit ihres Partners im Raum wahr, jedoch ohne aufdringliche Verführung.
+
+【Komposition & Kamera】
+Vertikale 4:5-Komposition, optimiert für X-Posts. Halbtotale (oberhalb des Knies), die den Bereich vom Scheitel bis zur Oberschenkelmitte erfasst, mit der Person leicht rechts von der Mitte platziert. Rechts das helle Fenster, links das Bett und das Zimmerinnere, sodass Person und Hintergrund gemeinsam die Szene erzählen.
+Kamerahöhe etwa auf Brust- bis Augenhöhe der Frau, Aufnahmeabstand ca. 2–3 Meter. Natürlicher Bildwinkel entsprechend 50–85 mm (Standard bis leichtes Tele), unter Vermeidung verzerrender Weitwinkeloptiken. Leicht unscharfer Hintergrund mit einer Tiefenschärfe, die die Atmosphäre des Schlafzimmers erkennbar lässt.
+
+【Licht, Farbe, Textur & Stimmung】
+Hauptlichtquelle ist das morgendliche Naturlicht, das durch das Fenster auf der rechten Seite einfällt. Das durch weiße Vorhänge gestreute, sanfte Licht trifft schräg von vorne auf Gesicht, Schultern, Dekolleté und Arme, während von der Gegenseite schwaches Streulicht von den Wänden und dem weißen Bettzeug reflektiert wird. Weiche Schatten, die die Dreidimensionalität des Körpers natürlich betonen, ohne zu dunkel zu wirken.
+Die Haut zeigt Poren, feinen Flaum, gesunde Frische und subtile Schattierungen; das Haar offenbart einzelne Strähnen und einen seidigen Glanz. Spitze, Tüll, Holzmöbel, weiße Bettwäsche und Pflanzenblätter weisen jeweils differenzierte Texturen auf. Ein helles, transparentes Farbklima mit Elfenbein, Weiß, hellem Holz und dem Grün der Pflanzen.
+
+【Qualität & Ausschlusskriterien】
+Fotomäßige Darstellung in hoher Auflösung. Größter Wert auf natürliche menschliche Anatomie, realistisches Licht, glaubwürdige Perspektive und authentische Haut- und Stofftexturen wie von einer echten Kamera aufgenommen.
+Zu vermeiden sind: minderjährig wirkende Personen, zu kindliche Gesichter, anatomische Unstimmigkeiten, überzählige Gliedmaßen oder Finger, fehlende oder verschmolzene Finger, unnatürliche Gelenke, vertauschte Hände, fehlerhafte Kleidung, Verschmelzen von Stoff und Haut, unbeabsichtigte Blöße, extreme Weitwinkelverzerrungen und übertriebene Hautglättung. Die Brust behält ihr natürliches, volles Volumen, ohne bizarre Übergröße, harte Kugelform, übermäßigen Push-up-Effekt oder Schwerkrafttrotz. Kein Text, keine Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -79,20 +159,64 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2099325110603923891"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Porträt-Prompt einer japanischen Frau im hellblauen Camisole, liegend auf dem Bett eines Hotelzimmers bei Nacht.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2099325110603923891)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Porträt-Prompt einer japanischen Frau im hellblauen Camisole, liegend auf dem Bett eines Hotelzimmers bei Nacht.
 
 <img src="images/2099325110603923891-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Hotel bei Nacht ｜ Zartblaues Rüschenspitzenkleid und ein süßer Blick🌟
+
+【Motiv / Kunststil】
+Fotorealistisches Porträt im Stil eines Fotobuchs in einem Hotelzimmer bei Nacht, mit einer eindeutig erwachsenen japanischen Frau im Mittelpunkt. Es verbindet die Natürlichkeit alltäglicher Fotografie mit der Raffinesse eines Modemagazins und der fesselnden Blickführung eines Gravure-Fotobuchs. Nicht durch Freizügigkeit an sich, sondern durch Gesichtsausdruck, Haltung, sanftes Licht und die Zartheit des Outfits werden Niedlichkeit, eine elegante Sinnlichkeit und eine intime Nähe wie zwischen Verliebten spürbar.
+
+【Ort / Hintergrund / Welt】
+Das Bett eines ruhigen, hochwertigen Hotelzimmers. Weiße Bettlaken, große Kissen und ein gepolstertes Kopfteil bilden das Zentrum, während am Nachttisch dezent eine Nachttischlampe mit warmem Licht, ein Telefon und ein kleines Tablett platziert sind. Hinter dem Fenster sind die Lichter der nächtlichen Stadt als feines Bokeh zu sehen; der Hintergrund drängt sich nicht auf und bewahrt die hoteltypische Ruhe und Tiefe.
+
+【Jahreszeit / Tageszeit / Wetter】
+Jahreszeit nicht zu spezifisch festgelegt; eine ruhige, klimatisierte Nacht. Späte Nachtstunde; draußen vor dem Fenster ist es vollkommen dunkel und nur die Lichter der Stadt sind sichtbar. Das Wetter draußen wird nicht betont; im Raum herrscht eine windstille, ruhige Atmosphäre. Der Kontrast zwischen den nächtlichen Farben draußen und der warmen Innenbeleuchtung schafft eine intime Stimmung, als gehöre die Zeit nur den beiden.
+
+【Charakter-Details】
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Weiche, ebenmäßige Gesichtszüge, natürliche, nicht zu große Augen, ein feiner Nasenrücken und weiche, rosige Lippen. Dunkelbraunes, schulterlanges, gewelltes Haar mit feinen einzelnen Strähnen um das Gesicht. Die Haut hat einen hellen Ockerton mit realistischer Textur, einschließlich Poren, feiner Schattierungen und natürlicher Durchblutung.
+
+Der Körperbau ist natürlich glamourös und harmonisch: zarte Schultern und Gliedmaßen, eine schlanke Taille und feminine Kurven. Das Dekolleté hat ein deutlich volles, präsentes Volumen, das jedoch nicht unnatürlich vergrößert wirkt, sondern mit weicher Rundung und Dreidimensionalität der Haltung und Schwerkraft folgt. Auch die Hüfte weist eine sanfte Rundung auf, die fließend von der Taille übergeht.
+
+【Kleidung / Accessoires】
+Ein Camisole mit feinen Trägern in Zartblau. Ein süßes, feminines Design mit zarten Rüschenspitzen an Ausschnitt und Schultern sowie kleinen Schleifen und dezenten Ziernähten. Aus weichem, dünnem Stoff gefertigt, der nicht übermäßig transparent ist, sich natürlich an die Körperkurven anschmiegt und im Brustbereich ausreichend Stoff bietet.
+
+Unten eine cremefarbene Shorts. Aus weichem Stoff mit leichtem Rüschensaum, um ein entspanntes Schlafzimmer-Gefühl zu erzeugen. Grundsätzlich kein Schmuck, damit die Niedlichkeit der Kleidung selbst im Vordergrund steht.
+
+【Pose / Handlung / Blick】
+Schräg auf dem Bett liegend, stützt sie den Oberkörper leicht auf, indem sie einen Ellbogen auf das Kissen legt. Ellbogen und Unterarm stützen den Körper ganz natürlich, während die andere Hand sanft vor dem Körper auf dem Laken ruht. Der Unterkörper liegt auf dem Bett; die Beine folgen natürlich der seitlichen Haltung, ohne unnatürlich übereinandergelegt oder verrenkt zu sein.
+
+Brust und Schultern sind nicht frontal ausgerichtet, sondern leicht schräg zur Kamera hin geöffnet. Den Hals leicht angehoben, wendet sie nur das Gesicht zur Kamera; statt von unten heraufzublicken, richtet sie den Blick direkt in das Objektiv, als schaue sie zu einem Gegenüber auf leicht höherer Position. Körperverdrehungen oder ein extremes Hohlkreuz werden vermieden.
+
+【Ausdruck / Emotion】
+Ein leicht verlegener, aber unverwandter Blick mit niedlicher, verführerischer Ausstrahlung. Die Augen sind weich und nicht zu schmal gekniffen, mit einem ruhigen Blick, der die Reaktion des Gegenübers zu prüfen scheint. Die Brauen sind natürlich entspannt, die Wangen leicht gerötet.
+
+Kein breites Lachen, sondern ein dezentes Lächeln mit nur ganz leicht angehobenen Mundwinkeln. Kein künstlich gestellter Ausdruck, sondern eine Emotion wie im intimen Moment des Betrachtens einer vertrauten Person – Schüchternheit, Geborgenheit und ein Hauch von Erwartung zugleich spürbar.
+
+【Komposition / Kamera】
+Vertikale 4:5-Komposition für X-Posts. Ein knieaufwärts gerichteter Bildausschnitt vom Scheitel bis etwa zu den Oberschenkeln, der Gesicht, Oberkörper, Camisole und die weiße Bettwäsche harmonisch in einem Bild vereint. Die Person füllt das Bild nicht komplett aus; es bleibt Raum, um die Nachttischlampe und den Hotelhintergrund dezent zu zeigen.
+
+Die Kamera befindet sich neben dem Bett, etwa auf Augenhöhe der Person oder leicht darüber. Es wird ein natürlicher Standard- bis leichter Tele-Blickwinkel verwendet, ohne extreme Weitwinkel, die Körper oder Gesicht verzerren. Der Hintergrund ist leicht unscharf, behält aber genug Details, um als Hotelzimmer erkennbar zu bleiben.
+
+【Licht / Farbe / Textur / Atmosphäre】
+Hauptlichtquelle ist die warmtonige Nachttischlampe neben dem Bett. Sie beleuchtet das Gesicht sanft schräg von vorne, während auf der Gegenseite schwache Reflexionen von den weißen Laken und Wänden das Absaufen der Schatten ins reine Schwarz verhindern. Die Haut zeigt warme Glanzlichter und natürliche Schatten, was eine nächtlich-ruhige Plastizität erzeugt.
+
+Ein weiches Farbklima, das das zartblaue Outfit und die cremefarbene Bettwäsche mit dem bernsteinfarbenen Licht der Lampe verbindet. Die Haut ist nicht übermäßig geglättet; einzelne Haarsträhnen und lose Härchen, feine Spitzenmuster der Kleidung, die Stoffspannung und natürliche Falten werden detailgetreu dargestellt. Insgesamt ruhig und romantisch, nicht schläfrig, sondern mit einer leichten, kamerabewussten Spannung, wie sie für ein Fotobuch typisch ist.
+
+【Qualität / Negative Prompts】
+Fotorealistische Darstellung in hoher Auflösung. Wert legen auf menschliche Anatomie, Licht, Stoffe und Perspektive wie mit einer echten Kamera aufgenommen. Zu vermeiden sind: minderjährig wirkende Personen, zu kindliche Gesichtszüge, unnatürliche Anatomie, überzählige Gliedmaßen oder Finger, fehlende Finger, verschmolzene Finger, unnatürliche Gelenke, Vertauschung von linker und rechter Hand, Verschmelzung von Körper und Kleidung, fehlerhafte Kleidung oder ungewollte Nacktheit.
+
+Das Dekolleté behält ein volles, natürliches Volumen bei, ohne starre Kugelformen, übertriebenes Pushen, schwerkraftwidrige Formen oder eine Komposition, die ausschließlich die Brust extrem betont. Keine extremen Weitwinkelverzerrungen, keine übertriebene Hautglättung, keine unnatürlichen Hintergründe, kein Text, keine Logos, keine Wasserzeichen, keine UI-Elemente.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2237,6 +2361,30 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099395304449831352"></a>
+
+### Übersetzung läuft
+
+Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Originalbeitrag](https://x.com/2__han__/status/2099395304449831352)
+
+Anime / Manga · Illustration · Porträt / Selfie · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099395304449831352-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099395304449831352-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099256180845731868"></a>
 

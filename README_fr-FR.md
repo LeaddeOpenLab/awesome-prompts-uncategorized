@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**191** Prompts · Dernier ajout: **2026-09-14**
+**192** Prompts · Dernier ajout: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -35,20 +35,60 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2099327824981315724"></a>
 
-### Traduction en cours
+### 夕暮れのベランダで洗濯物を取り込む女性のリアルな日常スナップ風プロンプト。
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2099327824981315724)
 
 Photographie · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** 夕暮れのベランダで洗濯物を取り込む女性のリアルな日常スナップ風プロンプト。
 
 <img src="images/2099327824981315724-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Balcon au crépuscule | Rose corail et linge flottant au vent🌟
+
+【Sujet et style visuel】
+Photographie photoréaliste capturant un instant du quotidien décontracté d'une femme japonaise clairement adulte qui rentre le linge sur son balcon en fin d'après-midi. Un instantané intime empreint d'authenticité et de vie quotidienne, rehaussé de l'éclat élégant d'un magazine de mode féminine ou d'un recueil de photographies raffiné.
+Loin d'une pose artificielle ou trop travaillée, l'image donne l'impression d'un moment charmant saisi sur le vif au milieu des tâches ménagères. Un équilibre harmonieux entre mignonnerie, sensualité naturelle et atmosphère nostalgique du coucher de soleil.
+
+【Lieu, décor et univers】
+Le lieu est le balcon tout en longueur d'un appartement ou d'une résidence collective dans un quartier résidentiel japonais. Le long du mur sont disposés avec naturel le bloc extérieur de climatisation, un panier à linge et de petites plantes en pot ; au-dessus de la tête se trouvent une barre d'étendage, des cintres, ainsi que des chemises blanches et des vêtements à rayures en train de sécher.
+À droite court un garde-corps métallique muni de panneaux translucides, au-delà duquel s'étendent les toits de maisons basses et le paysage urbain. Dans le lointain persiste un ciel teinté par le soleil couchant, apportant une profondeur visuelle qui relie l'espace intime du logement à la ville. Le décor n'est pas excessivement rangé, conservant la chaleur d'un véritable intérieur habité.
+
+【Saison, heure et météo】
+Fin du printemps à la fin de l'été, par une fin d'après-midi ensoleillée et dégagée. L'heure dorée, avec un soleil descendant près de l'horizon qui teinte le ciel d'un dégradé d'orange pâle, de rose et de tons crème.
+Le vent est doux et léger, suffisant pour faire flotter délicatement le bas des chemises étendues et quelques mèches rebelles de ses cheveux. Une atmosphère agréable et aérée, typique d'une fin de journée où la chaleur commence à retomber.
+
+【Description du personnage】
+Femme japonaise sans ambiguïté adulte, âgée d'environ 20 à 28 ans. Traits doux et harmonieux, yeux légèrement grands, sourcils naturels, lèvres délicatement rosées. Cheveux châtain foncé relevés en un chignon flou et décontracté, laissant s'échapper de fines mèches le long des joues et de la nuque. Teint ocre clair à la texture réaliste, laissant deviner les pores et de subtiles nuances d'ombres.
+Épaules, bras et jambes délicats, taille fine. Silhouette globale saine et naturellement pulpeuse, avec une poitrine visiblement généreuse au volume bien affirmé. Elle ne doit toutefois pas former deux sphères dures, mais présenter une rondeur souple et naturelle qui réagit avec fluidité aux vêtements, à la posture et à la gravité.
+
+【Tenue et accessoires】
+Un caraco rose corail à fines bretelles. L'encolure est bordée d'une petite dentelle à volants ondulés et ornée d'un nœud discret ; l'ourlet inférieur présente également de fins volants dans le même ton. Confectionné dans une maille côtelée douce ou un mélange de coton léger, légèrement extensible, épousant naturellement les formes du corps.
+L'étoffe offre une largeur suffisante pour couvrir harmonieusement cette poitrine généreuse, sans comprimer la chair ni créer de compression exagérée. En bas, un short taille haute blanc cassé tirant sur l'ivoire. Aux pieds, d'agréables chaussons d'intérieur beige clair. Très peu de bijoux, privilégiant le naturel d'un moment de détente à la maison.
+
+【Pose, mouvement et regard】
+Le corps est légèrement orienté de biais vers le fond du balcon, le poids reposant naturellement sur la jambe arrière. Une jambe légèrement avancée, évitant une posture rigide au profit d'un transfert de poids subtil typique d'une personne en pleine action ménagère.
+Un bras levé au-dessus de la tête, le bout des doigts effleurant une chemise blanche suspendue à l'étendoir au moment de la décrocher. Dans l'autre bras, elle serre contre elle plusieurs pièces de linge déjà ramassées, blanches et bleu clair. Légère torsion du buste, le visage tourné vers le bras tendu. Le regard ne fixe pas l'appareil, mais se pose avec naturel sur la chemise agitée par le vent.
+
+【Expression et émotion】
+Un sourire spontané et amusé en levant les yeux, surprise par le linge qui ondoie sous la brise. Les lèvres sont doucement entrouvertes, les joues et le regard s'adoucissant avec bienveillance.
+Ce n'est pas un sourire apprêté pour l'objectif, mais une expression sincère née de la quiétude d'une fin d'après-midi chez soi. Un sentiment de proximité chaleureuse, empreint de la sérénité d'une femme adulte et d'une pointe de timidité attendrissante.
+
+【Composition et cadrage】
+Format vertical 4:5 adapté aux publications X (Twitter). Cadrage large en pied allant du sommet de la tête jusqu'aux pieds, positionnant le personnage légèrement à droite du centre. L'espace à gauche accueille le linge et le mur, tandis qu'à droite s'ouvrent la rambarde et le ciel crépusculaire, sans que le modèle n'occupe tout le cadre.
+Hauteur d'appareil naturelle, entre la poitrine et le niveau des yeux. Distance de prise de vue restituant bien la profondeur du balcon, équivalente à une focale standard d'environ 50 mm. Arrière-plan légèrement flou, mais conservant assez de profondeur de champ pour identifier le quartier résidentiel, l'étendoir et le ciel du couchant.
+
+【Lumière, couleur, texture et ambiance】
+La source de lumière principale est le soleil couchant chaleureux venant de l'arrière-plan. Il dessine un fin liseré doré (rim light) sur les cheveux, les épaules et les bras, tandis que la lumière douce réfléchie par les murs et le sol du balcon éclaire naturellement la face avant du corps et du visage. Ombres douces et allongées, typiques du crépuscule, sans dureté excessive.
+Peau au teint éclatant et naturel aux textures détaillées ; cheveux rendus avec précision, mèches par mèches. Le caraco montre la souplesse du tissu et de légers plis, tandis que le short révèle la texture plus dense du coton. L'ensemble s'articule autour du rose corail, de l'ivoire et de l'orange crépusculaire, dans une palette chaleureuse, intime et subtilement cinématographique.
+
+【Qualité et exclusions】
+Haute résolution, photoréalisme. Priorité au rendu naturel du corps humain, des tissus, des cheveux, de la lumière et de la perspective, comme capturés par un véritable appareil photo.
+Éviter toute apparence mineure, visages trop enfantins, anatomie déformée, membres ou doigts supplémentaires, doigts manquants ou fusionnés, articulations irréalistes, mains inversées, vêtements déstructurés ou fusionnés avec la peau, nudité involontaire, distorsion grand-angle extrême et lissage excessif de la peau. La poitrine doit rester généreuse et souple sans volume démesuré, sans aspect sphérique rigide ni effet pigeonnant excessif défiant la gravité. Aucune inscription, logo, filigrane ni élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -57,20 +97,60 @@ Traduction en cours
 
 <a name="prompt-2099326823431852203"></a>
 
-### Traduction en cours
+### Prompt pour un portrait réaliste d'une femme japonaise adulte en lingerie brodée de fleurs, debout près d'une fenêtre de chambre baignée de lumière matinale.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2099326823431852203)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour un portrait réaliste d'une femme japonaise adulte en lingerie brodée de fleurs, debout près d'une fenêtre de chambre baignée de lumière matinale.
 
 <img src="images/2099326823431852203-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟 Au bord de la fenêtre le matin | Lingerie brodée de fleurs et douce lumière 🌟
+
+【Sujet et style artistique】
+Photographie photoréaliste d'une femme japonaise clairement adulte contemplant silencieusement la lumière au bord de la fenêtre de sa chambre au petit matin. Dans le cadre d'un matin ordinaire et serein, la scène fusionne naturellement l'esthétique des publicités japonaises de lingerie haut de gamme, des magazines de mode féminine et des recueils photo gravure raffinés.
+Loin d'un shooting de studio figé, elle préserve l'intimité d'un regard complice posé sur elle par son partenaire présent dans la pièce. Mettant en valeur la pureté, une sensualité délicate et la clarté propre au matin, l'image capture à la fois la personne et la douceur vécue de la chambre pour former une composition cohérente.
+
+【Lieu, arrière-plan et univers】
+Chambre à coucher lumineuse aux teintes dominantes de blanc. Sur la droite de l'image se trouvent un voilage blanc descendant jusqu'au sol et une grande fenêtre ; au fond à gauche sont disposés un lit en bois, des draps blancs et une couverture douce couleur écru. À côté du lit, une petite table de nuit en bois accueille une lampe aux tons pastel, une plante et quelques petits objets discrets.
+Des petites photos et des éléments de décoration épurés habillent le mur, tandis qu'une plante d'intérieur aux feuilles arrondies repose près de la fenêtre. La pièce n'a pas la froideur impeccable d'un hôtel, mais conserve la chaleur réconfortante d'un lieu de vie quotidien.
+
+【Saison, heure et météo】
+Une matinée paisible et ensoleillée du printemps au début de l'été. Il est entre 7 h et 9 h ; la lumière n'est pas un soleil direct et perçant, mais une douce clarté matinale diffusée à travers les voilages blancs, emplissant la pièce.
+L'air extérieur est doux et vivifiant, avec un léger souffle près de la fenêtre. Les rideaux et les mèches fines de cheveux ne font que flotter imperceptiblement, évoquant le calme et la quiétude d'un matin de repos.
+
+【Modèle et morphologie】
+Femme japonaise clairement adulte, âgée d'environ 20 à 28 ans. Traits doux et harmonieux, regard sombre et expressif aux yeux légèrement grands, sourcils naturels, arête du nez fine et lèvres douces bien pigmentées. Teint ocre clair à la texture réaliste laissant paraître les pores et de légères ombres. Cheveux châtain foncé descendant légèrement sous les épaules, aux ondulations naturelles avec de fines mèches libres encadrant le visage.
+Épaules, bras et jambes fins, taille marquée et hanches aux courbes douces composant une silhouette voluptueuse et élégante. Poitrine généreuse et pleine bien affirmée, sans forme sphérique rigide artificielle, arborant un galbe doux et un tombé naturel qui s'adapte à la posture et au sous-vêtement.
+
+【Tenue et accessoires】
+Ensemble soutien-gorge et culotte haut de gamme couleur ivoire. Le soutien-gorge est orné de petites broderies florales rose pâle, beige et vert sauge, de dentelle festonnée délicate, de tulle fin et d'un petit nœud au centre. La culotte reprend les mêmes broderies florales et dentelles pour une harmonie parfaite.
+Les bonnets et les bretelles maintiennent la poitrine généreuse de façon réaliste, sans effet pigeonnant excessif. Le tissu n'est ni lâche ni comprimant ; la broderie et la dentelle épousent le corps avec naturel. Aucun bijou ni accessoire, privilégiant la simplicité pure de l'aube.
+
+【Pose, mouvement et regard】
+Debout près de la fenêtre, le corps légèrement de trois-quarts par rapport à l'appareil. Le poids repose naturellement sur la jambe gauche comme axe principal, la jambe droite légèrement avancée et le genou détendu. Posture naturelle et décontractée, épaules relâchées, sans cambrure forcée du dos ou des hanches.
+La main droite s'élève avec aisance vers l'épaule droite, le coude légèrement plié, le bout des doigts effleurant la zone entre l'épaule et la clavicule. Un geste doux de simple contact, sans tirer sur la bretelle. Le bras gauche repose naturellement le long du corps. Le visage est tourné vers la fenêtre, le regard orienté non pas vers l'objectif mais légèrement vers le haut, vers l'extérieur.
+
+【Expression et émotion】
+Un sourire paisible en contemplant la lumière du matin, comme bercée par un souvenir agréable. Pas de grand rire bouche ouverte : seuls les coins des lèvres se relèvent subtilement, adoucissant naturellement les joues et le regard.
+Une impression de réveil agréable malgré une pointe de sommeil encore présente. Une douce intimité se dégage, consciente de la proximité de son compagnon, sans adopter une expression de séduction appuyée.
+
+【Composition et cadrage】
+Cadrage vertical au format 4:5 idéal pour les publications sur X. Plan américain (au-dessus des genoux) cadrant du haut de la tête jusqu'au milieu des cuisses, le sujet étant décalé légèrement à droite du centre. La fenêtre lumineuse sur la droite et le lit avec la pièce sur la gauche permettent au modèle comme au décor de raconter la scène.
+Hauteur de caméra au niveau de la poitrine ou des yeux de la jeune femme, distance de prise de vue d'environ 2 à 3 mètres. Focale naturelle équivalente à 50–85 mm (standard à petit téléobjectif), évitant toute distorsion grand-angle susceptible de déformer le corps. Arrière-plan subtilement adouci avec une profondeur de champ permettant de reconnaître l'atmosphère de la chambre.
+
+【Lumière, couleur, matière et ambiance】
+Source lumineuse principale : lumière naturelle du matin venant de la fenêtre située à droite du cadre. La clarté douce diffusée par les rideaux blancs éclaire en biais le visage, les épaules, le décolleté et les bras, tandis qu'une faible lumière réfléchie par les murs et les draps blancs adoucit le côté opposé. Ombres légères et nuancées révélant le relief naturel du corps.
+La peau montre des pores, un duvet fin, un éclat sain et des ombres délicates ; la chevelure révèle la texture de chaque mèche avec une brillance soyeuse. Rendu distinct des matières pour la dentelle, le tulle, le mobilier en bois, les draps blancs et le feuillage. Palette claire et transparente dominée par l'ivoire, le blanc, le bois clair et le vert végétal.
+
+【Qualité et éléments proscrits】
+Rendu photographique photoréaliste haute définition. Priorité absolue à une anatomie humaine réaliste, une lumière naturelle, une perspective juste et des textures de peau et d'étoffe dignes d'un appareil photo réel.
+Éviter les traits d'apparence mineure, les visages enfantins, les corps difformes, les membres ou doigts surnuméraires, manquants ou fusionnés, les articulations anormales, l'inversion des mains, les incohérences vestimentaires, la fusion entre tissu et peau, la nudité involontaire, les distorsions grand-angle extrêmes et le lissage excessif de la peau. La poitrine doit conserver un volume naturel et généreux sans hypertrophie irréaliste, forme sphérique rigide, effet push-up artificiel ou défi à la gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -79,20 +159,64 @@ Traduction en cours
 
 <a name="prompt-2099325110603923891"></a>
 
-### Traduction en cours
+### Prompt de portrait photoréaliste d'une femme japonaise en caraco bleu pâle allongée sur un lit dans une chambre d'hôtel la nuit.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2099325110603923891)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait photoréaliste d'une femme japonaise en caraco bleu pâle allongée sur un lit dans une chambre d'hôtel la nuit.
 
 <img src="images/2099325110603923891-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Nuit d'hôtel ｜ Dentelle à volants bleu pâle et doux regard🌟
+
+【Sujet / Style artistique】
+Portrait photoréaliste de style livre photo dans une chambre d'hôtel la nuit, mettant en scène une femme japonaise clairement adulte. Il mêle le naturel d'un cliché du quotidien au raffinement d'un magazine de mode et au pouvoir d'attraction du regard caractéristique d'un photobook gravure. Loin de miser sur la nudité, la photo exprime la mignonnerie, une sensualité raffinée et une proximité intime comme entre amants grâce à l'expression du visage, la posture, la lumière douce et la délicatesse de la tenue.
+
+【Lieu / Arrière-plan / Ambiance】
+Le lit d'une chambre d'hôtel haut de gamme et paisible. Centré sur des draps blancs, de grands oreillers et une tête de lit capitonnée, avec une lampe de chevet à lumière chaude, un téléphone et un petit plateau disposés discrètement sur la table de nuit. Au-delà de la fenêtre, les lumières de la ville nocturne apparaissent sous la forme d'un léger bokeh ; l'arrière-plan ne s'impose pas trop et conserve le calme et la profondeur propres à un hôtel.
+
+【Saison / Heure / Météo】
+Saison non restreinte ; une nuit douce et climatisée. Nuit tardive ; l'extérieur de la fenêtre est totalement plongé dans l'obscurité, seules les lumières urbaines étant visibles. La météo extérieure n'est pas mise en avant ; une atmosphère calme et sans vent flotte dans la pièce. Le contraste entre les teintes nocturnes du dehors et l'éclairage chaleureux de la pièce crée une atmosphère de tête-à-tête privilégié.
+
+【Détails du personnage】
+Femme japonaise clairement adulte, âgée d'environ 20 à 28 ans. Traits doux et réguliers, yeux naturels sans être trop grands, arête du nez fine et lèvres douces délicatement colorées. Cheveux ondulés châtain foncé descendant jusqu'aux épaules, avec de fines mèches rebelles encadrant le visage. Teint ocre clair à la texture réaliste laissant percevoir les pores, des ombres subtiles et un éclat naturel.
+
+Silhouette naturellement plantureuse et harmonieuse, alliant des épaules et des membres fins, une taille marquée et des courbes féminines. La poitrine affiche un volume nettement généreux et présent, sans être démesuré de façon artificielle, épousant la gravité et la posture avec une rondeur douce et un beau relief. Les hanches présentent également un galbe doux prolongeant naturellement la taille.
+
+【Tenue / Accessoires】
+Un caraco à fines bretelles de couleur bleu pâle. Un design doux et féminin orné d'une délicate dentelle à volants autour du décolleté et des épaules, agrémenté de petits nœuds et de finitions de couture discrètes. Tissu doux et fluide, léger sans être excessivement transparent, épousant naturellement les courbes du corps et offrant une couvrance adéquate sur la poitrine.
+
+En bas, un short court couleur ivoire. Confectionné dans un tissu doux avec un léger bord volanté, évoquant la détente propre à une chambre à coucher. Aucun accessoire par principe, afin de laisser toute la vedette au charme de la tenue elle-même.
+
+【Pose / Action / Regard】
+Allongée en biais sur le lit, le haut du corps légèrement redressé en prenant appui d'un coude sur l'oreiller. Le coude et l'avant-bras soutiennent le corps avec naturel, tandis que l'autre main repose délicatement sur les draps devant elle. Le bas du corps repose sur le lit ; les jambes suivent naturellement la posture sur le côté, sans croisement forcé ni cambrure excessive.
+
+La poitrine et les épaules ne sont pas totalement de face, mais légèrement orientées de biais vers l'appareil photo. La tête doucement relevée, seul le visage se tourne vers l'objectif ; plutôt que de lever les yeux depuis le bas, son regard se pose directement sur l'appareil comme pour regarder un partenaire situé légèrement plus haut. Tout étirement ou cambrure lombaire exagérée est à proscrire.
+
+【Expression / Émotion】
+Une expression adorablement séduisante, un peu timide sans pour autant détourner le regard. Les yeux sont doux, sans être trop plissés, avec un regard serein semblant sonder la réaction de l'autre. Les sourcils sont naturellement détendus, les joues légèrement rosées.
+
+Pas de rire éclatant, mais un sourire discret aux commissures à peine relevées. Loin d'une pose figée, c'est une émotion sincère saisie au moment où elle contemple une personne intime, mêlant timidité, sentiment de sécurité et une pointe d'attente complice.
+
+【Composition / Cadrage】
+Composition verticale au format 4:5 adaptée aux publications X. Cadrage au-dessus des genoux montrant du sommet de la tête jusqu'aux cuisses, équilibrant harmonieusement dans l'image le visage, le haut du corps, le caraco et les draps blancs du lit. Sans saturer tout le cadre avec le sujet, en ménageant de l'espace pour laisser entrevoir la lampe de chevet et le décor de l'hôtel.
+
+Prise de vue depuis le bord du lit, à peu près à la même hauteur que le sujet ou très légèrement en plongée. Utilisation d'un angle de champ naturel, de focale standard à moyen téléobjectif, en évitant les très grands angles qui déforment le corps ou le visage. L'arrière-plan est légèrement flouté tout en conservant assez d'informations pour identifier une chambre d'hôtel.
+
+【Lumière / Couleur / Texture / Ambiance】
+La source lumineuse principale est la lampe de chevet aux tons chauds. Elle éclaire doucement le visage de face en diagonale, tandis que du côté opposé, une faible lumière réfléchie par les draps blancs et les murs empêche les ombres de se boucher en noir. La peau présente des reflets chauds et des ombres naturelles, offrant un relief apaisé typique de la nuit.
+
+Palette chromatique douce associant la tenue bleu pâle et le linge de lit ivoire à la lueur ambrée de la lampe. La peau n'est pas lissée à l'excès ; les mèches individuelles et les petits cheveux rebelles, la dentelle fine, la tension du tissu et les plis naturels sont décrits avec précision. L'ensemble est calme et romantique, sans somnolence, conservant une légère tension consciente de l'objectif propre à un livre photo.
+
+【Qualité / Éléments exclus】
+Rendu photoréaliste haute résolution. Privilégier le corps humain, la lumière, les tissus et la perspective comme capturés par un véritable appareil photo. Exclure tout personnage semblant mineur, traits trop enfantins, anatomie anormale, membres ou doigts surnuméraires, doigts manquants, doigts fusionnés, articulations non naturelles, inversion main gauche/droite, fusion corps-vêtement, défaillance vestimentaire ou exposition indésirable.
+
+La poitrine doit conserver un volume généreux et naturel, sans aspect sphérique rigide, effet pigeonnant anormal, forme défiant la gravité ni cadrage centré uniquement et exagérément sur le décolleté. Pas de distorsion extrême au grand angle, pas de lissage excessif de la peau, pas d'arrière-plan artificiel, pas de texte, pas de logo, pas de filigrane ni d'éléments d'interface.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -2237,6 +2361,30 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099395304449831352"></a>
+
+### Traduction en cours
+
+Auteur：[@2\_\_han\_\_](https://x.com/2__han__) · [Publication originale](https://x.com/2__han__/status/2099395304449831352)
+
+Anime / Manga · Illustration · Portrait / Selfie · Résumé / Contexte · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099395304449831352-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099395304449831352-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099256180845731868"></a>
 

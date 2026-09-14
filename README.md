@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**191** Prompts · Latest addition: **2026-09-14**
+**192** Prompts · Latest addition: **2026-09-14**
 
 <a name="catalog"></a>
 
@@ -3021,6 +3021,30 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 <a name="category-anime-manga"></a>
 
 ## Anime / Manga
+
+<a name="prompt-2099395304449831352"></a>
+
+### 1person, portrait, pearl tears and selective colored eyes/tears on monochrome background.
+
+Author：[@2\_\_han\_\_](https://x.com/2__han__) · [Source](https://x.com/2__han__/status/2099395304449831352)
+
+Anime / Manga · Illustration · Portrait / Selfie · Abstract / Background · Published
+
+**Summary:** 1person, portrait, pearl tears and selective colored eyes/tears on monochrome background.
+
+<img src="images/2099395304449831352-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099395304449831352-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+1person, portrait, looking up, tilted head, slightly open mouth, pearl tears, pearl makeup, gem tears, gem under eye 3::monochrome, greyscale, selective color, colored eyes only, colored tears only::, simple background, dark background, studio lighting, dramatic lighting,
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099256180845731868"></a>
 
