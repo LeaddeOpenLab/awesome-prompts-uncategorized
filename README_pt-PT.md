@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**214** Prompts · Adição mais recente: **2026-09-14**
+**215** Prompts · Adição mais recente: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2099557132538376542"></a>
 
-### Tradução em curso
+### Crie um retrato de moda urbana de corpo inteiro ultrafotorrealista de um homem elegante a caminhar em direção à câmara numa rua movimentada da cidade.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2099557132538376542)
 
@@ -43,14 +43,28 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Paisagem urbana 
 
 Publicação original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2099542066267115993)
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie um retrato de moda urbana de corpo inteiro ultrafotorrealista de um homem elegante a caminhar em direção à câmara numa rua movimentada da cidade.
 
 <img src="covers/2099557132538376542.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um retrato de moda urbana de corpo inteiro ultrafotorrealista de um homem atraente e robusto a caminhar em direção à câmara numa rua movimentada do centro da cidade. Ele tem a pele de tom castanho-médio, barba curta, uma estrutura física atlética e masculina, e uma expressão calma e confiante. Usa óculos de sol de aviador escuros e um gorro de malha cor antracite.
+
+Vestuário
+Ele veste um casaco de ganga clara desgastada por cima de um casaco de capuz com fecho preto e de uma t-shirt branca. Combine com calças cargo pretas largas e sapatilhas de cano alto vermelhas, brancas e pretas. Adicione correntes de prata sobrepostas, anéis, um relógio de pulso escuro e uma mochila de lona castanha clara gasta levada a um ombro.
+
+Pose
+Capte-o a meio do passo a caminhar em direção à câmara, com uma mão a segurar a alça da mochila enquanto a outra balança naturalmente. Mantenha a sua postura descontraída, confiante e espontânea.
+
+Ambiente
+Coloque-o numa rua movimentada de um bairro de diversão no centro da cidade ladeada por edifícios antigos de tijolo, montras, letreiros luminosos, peões e atividade de rua. Mantenha a cidade densa, enérgica e autêntica.
+
+Fotografia e cinematografia
+Utilize fotografia de moda urbana espontânea de alta gama com a estética de uma lente de 50 mm, enquadramento total da cabeça aos pés, luz natural diurna nublada, profundidade de campo reduzida mas controlada, grão de película subtil, textura realista da pele e da ganga, tons urbanos atenuados e detalhes editoriais nítidos.
+
+Evite: pele de plástico, retoque excessivo, músculos exagerados, roupas imaculadas, poses rígidas, ruas vazias, bokeh excessivo, aparência de CGI ou estilização comercial excessivamente polida.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3385,6 +3399,28 @@ Tradução em curso
 
 ## Retrô / Vintage
 
+<a name="prompt-2099626543857209360"></a>
+
+### Tradução em curso
+
+Autor：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Publicação original](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Retrô / Vintage · Veículo · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099626543857209360-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099473433067495508"></a>
 
 ### Tradução em curso
@@ -3935,20 +3971,20 @@ Tradução em curso
 
 <a name="prompt-2099588359945408736"></a>
 
-### Tradução em curso
+### DJs encontram hipsters analógicos com instrumentos acústicos e camisolas
 
 Autor：[@erikson\_michael](https://x.com/erikson_michael) · [Publicação original](https://x.com/erikson_michael/status/2099588359945408736)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** DJs encontram hipsters analógicos com instrumentos acústicos e camisolas
 
 <img src="covers/2099588359945408736.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+DJs encontram hipsters analógicos com instrumentos acústicos e camisolas
 ```
 
 [↑ Voltar às categorias](#catalog)

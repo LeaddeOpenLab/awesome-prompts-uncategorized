@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**214** Prompts · Última adição: **2026-09-14**
+**215** Prompts · Última adição: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2099557132538376542"></a>
 
-### Tradução em andamento
+### Crie um retrato de moda urbana de corpo inteiro ultrafotorrealista de um homem estiloso caminhando em direção à câmera em uma rua movimentada da cidade.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2099557132538376542)
 
@@ -43,14 +43,28 @@ Fotografia · Retrato / Selfie · Personagem · Item de Moda · Paisagem Urbana 
 
 Publicação original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicação original](https://x.com/PrometheanAIX/status/2099542066267115993)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Crie um retrato de moda urbana de corpo inteiro ultrafotorrealista de um homem estiloso caminhando em direção à câmera em uma rua movimentada da cidade.
 
 <img src="covers/2099557132538376542.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um retrato de moda urbana de corpo inteiro ultrafotorrealista de um homem atraente e robusto caminhando em direção à câmera em uma rua movimentada do centro. Ele tem pele parda, barba curta, porte físico atlético e masculino, e uma expressão calma e confiante. Ele usa óculos de sol estilo aviador escuros e um gorro de tricô grafite.
+
+Traje
+Ele usa uma jaqueta jeans desgastada de lavagem clara sobreposta a um moletom preto com capuz e zíper e uma camiseta branca. Combine com calças cargo pretas folgadas e tênis de cano alto vermelhos, brancos e pretos. Adicione correntes de prata em camadas, anéis, um relógio de pulso escuro e uma mochila de lona marrom-claro gasta carregada sobre um ombro.
+
+Pose
+Capture-o no meio do passo caminhando em direção à câmera, com uma mão segurando a alça da mochila enquanto a outra balança naturalmente. Mantenha sua postura relaxada, confiante e espontânea.
+
+Ambiente
+Posicione-o em uma rua movimentada de um bairro de entretenimento do centro, cercada por prédios antigos de tijolos, vitrines, letreiros iluminados, pedestres e atividade urbana. Mantenha a cidade densa, energética e autêntica.
+
+Fotografia e cinematografia
+Use fotografia de moda urbana espontânea de alto nível com estética de lente de 50 mm, enquadramento completo da cabeça aos pés, luz do dia natural e nublada, profundidade de campo rasa mas controlada, granulação sutil de filme, textura realista de pele e jeans, tons urbanos suaves e detalhes editoriais nítidos.
+
+Evite: pele plástica, retoque excessivo, músculos exagerados, roupas impecáveis, poses rígidas, ruas vazias, bokeh excessivo, aparência de CGI ou estilo comercial excessivamente polido.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3385,6 +3399,28 @@ Tradução em andamento
 
 ## Retrô / Vintage
 
+<a name="prompt-2099626543857209360"></a>
+
+### Tradução em andamento
+
+Autor：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Publicação original](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Retrô / Vintage · Veículo · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099626543857209360-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099473433067495508"></a>
 
 ### Tradução em andamento
@@ -3935,20 +3971,20 @@ Tradução em andamento
 
 <a name="prompt-2099588359945408736"></a>
 
-### Tradução em andamento
+### DJs encontram hipsters analógicos com instrumentos acústicos e suéteres
 
 Autor：[@erikson\_michael](https://x.com/erikson_michael) · [Publicação original](https://x.com/erikson_michael/status/2099588359945408736)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** DJs encontram hipsters analógicos com instrumentos acústicos e suéteres
 
 <img src="covers/2099588359945408736.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+DJs encontram hipsters analógicos com instrumentos acústicos e suéteres
 ```
 
 [↑ Voltar às categorias](#catalog)

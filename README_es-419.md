@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**214** Prompts · Última incorporación: **2026-09-14**
+**215** Prompts · Última incorporación: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2099557132538376542"></a>
 
-### Traducción en curso
+### Crea un retrato de moda callejera de cuerpo entero ultrafotorrealista de un hombre elegante que camina hacia la cámara en una bulliciosa calle de la ciudad.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicación original](https://x.com/PrometheanAIX/status/2099557132538376542)
 
@@ -43,14 +43,28 @@ Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Paisaje urb
 
 Publicación original：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publicación original](https://x.com/PrometheanAIX/status/2099542066267115993)
 
-**Resumen:** Traducción en curso
+**Resumen:** Crea un retrato de moda callejera de cuerpo entero ultrafotorrealista de un hombre elegante que camina hacia la cámara en una bulliciosa calle de la ciudad.
 
 <img src="covers/2099557132538376542.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un retrato de moda callejera de cuerpo entero ultrafotorrealista de un hombre rudo y atractivo que camina hacia la cámara en una concurrida calle del centro de la ciudad. Tiene piel de tono marrón medio, barba corta, una complexión atlética y masculina, y una expresión tranquila y segura. Lleva gafas de sol de aviador oscuras y un gorro de punto color carbón.
+
+Atuendo
+Viste una chaqueta de mezclilla deslavada clara y desgastada, superpuesta sobre una sudadera con capucha negra con cremallera y una camiseta blanca. Combínala con pantalones cargo negros holgados y zapatillas de caña alta rojas, blancas y negras. Agrega cadenas plateadas en capas, anillos, un reloj de pulsera oscuro y una mochila de lona marrón gastada llevada sobre un hombro.
+
+Pose
+Captúralo a mitad de paso caminando hacia la cámara, con una mano sujetando la correa de la mochila mientras la otra se balancea de forma natural. Mantén su postura relajada, segura y espontánea.
+
+Entorno
+Ubícalo en una concurrida calle de un distrito de entretenimiento del centro bordeada de edificios de ladrillo antiguos, escaparates, letreros luminosos, peatones y actividad callejera. Mantén la ciudad densa, enérgica y auténtica.
+
+Fotografía y cinematografía
+Utiliza una fotografía de moda callejera espontánea de alta gama con la estética de un lente de 50 mm, encuadre completo de la cabeza a los pies, luz diurna natural nublada, profundidad de campo reducida pero controlada, grano de película sutil, textura realista de la piel y de la mezclilla, tonos urbanos apagados y detalles editoriales nítidos.
+
+Evitar: piel de plástico, retoque excesivo, músculos exagerados, ropa impecable, poses rígidas, calles vacías, bokeh excesivo, apariencia de CGI o un estilo comercial excesivamente pulido.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3368,6 +3382,28 @@ Traducción en curso
 
 ## Retro / Vintage
 
+<a name="prompt-2099626543857209360"></a>
+
+### Traducción en curso
+
+Autor：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Publicación original](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Retro / Vintage · Vehículo · Arquitectura / Interiores · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099626543857209360-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2099473433067495508"></a>
 
 ### Traducción en curso
@@ -3918,20 +3954,20 @@ Traducción en curso
 
 <a name="prompt-2099588359945408736"></a>
 
-### Traducción en curso
+### DJs se encuentran con hipsters analógicos con instrumentos acústicos y suéteres
 
 Autor：[@erikson\_michael](https://x.com/erikson_michael) · [Publicación original](https://x.com/erikson_michael/status/2099588359945408736)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** DJs se encuentran con hipsters analógicos con instrumentos acústicos y suéteres
 
 <img src="covers/2099588359945408736.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+DJs se encuentran con hipsters analógicos con instrumentos acústicos y suéteres
 ```
 
 [↑ Volver a categorías](#catalog)

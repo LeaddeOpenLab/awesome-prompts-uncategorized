@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**214** Prompts · Dernier ajout: **2026-09-14**
+**215** Prompts · Dernier ajout: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2099557132538376542"></a>
 
-### Traduction en cours
+### Créez un portrait de mode urbaine en pied ultra-photoréaliste d'un homme élégant marchant vers la caméra dans une rue animée de la ville.
 
 Auteur：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publication originale](https://x.com/PrometheanAIX/status/2099557132538376542)
 
@@ -43,14 +43,28 @@ Photographie · Portrait / Selfie · Personnage · Article de mode · Paysage ur
 
 Publication originale：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Publication originale](https://x.com/PrometheanAIX/status/2099542066267115993)
 
-**Résumé:** Traduction en cours
+**Résumé:** Créez un portrait de mode urbaine en pied ultra-photoréaliste d'un homme élégant marchant vers la caméra dans une rue animée de la ville.
 
 <img src="covers/2099557132538376542.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un portrait de mode urbaine en pied ultra-photoréaliste d'un homme au charme viril marchant vers la caméra dans une rue animée du centre-ville. Il a la peau brun moyen, une barbe courte, une carrure athlétique et masculine, ainsi qu'une expression calme et confiante. Il porte des lunettes de soleil aviateur sombres et un bonnet en maille anthracite.
+
+Tenue
+Il porte une veste en jean délavé clair usé, superposée à un sweat à capuche zippé noir et un t-shirt blanc. Associez-la à un pantalon cargo noir ample et à des baskets montantes rouges, blanches et noires. Ajoutez des chaînes en argent superposées, des bagues, une montre-bracelet sombre et un sac à dos en toile marron clair usé porté sur une épaule.
+
+Pose
+Capturez-le en plein pas marchant vers la caméra, une main tenant la lanière du sac à dos tandis que l'autre balance naturellement. Gardez sa posture détendue, confiante et spontanée.
+
+Environnement
+Placez-le dans une rue animée d'un quartier de divertissement du centre-ville, bordée d'anciens bâtiments en briques, de vitrines, d'enseignes lumineuses, de piétons et d'animation de rue. Conservez une ville dense, énergique et authentique.
+
+Photographie et cinématographie
+Utilisez une photographie de mode urbaine sur le vif haut de gamme avec une esthétique d'objectif 50 mm, un cadrage complet de la tête aux pieds, une lumière du jour naturelle par temps couvert, une profondeur de champ faible mais maîtrisée, un grain de film subtil, une texture de peau et de denim réaliste, des tons urbains atténués et des détails éditoriaux nets.
+
+À éviter : peau en plastique, retouche excessive, muscles exagérés, vêtements impeccables, pose rigide, rues vides, bokeh excessif, apparence CGI ou style commercial trop léché.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3368,6 +3382,28 @@ Traduction en cours
 
 ## Rétro / Vintage
 
+<a name="prompt-2099626543857209360"></a>
+
+### Traduction en cours
+
+Auteur：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Publication originale](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Rétro / Vintage · Véhicule · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099626543857209360-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2099473433067495508"></a>
 
 ### Traduction en cours
@@ -3918,20 +3954,20 @@ Traduction en cours
 
 <a name="prompt-2099588359945408736"></a>
 
-### Traduction en cours
+### Des DJ rencontrent des hipsters analogiques avec des instruments acoustiques et des pulls
 
 Auteur：[@erikson\_michael](https://x.com/erikson_michael) · [Publication originale](https://x.com/erikson_michael/status/2099588359945408736)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Des DJ rencontrent des hipsters analogiques avec des instruments acoustiques et des pulls
 
 <img src="covers/2099588359945408736.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Des DJ rencontrent des hipsters analogiques avec des instruments acoustiques et des pulls
 ```
 
 [↑ Retour aux catégories](#catalog)

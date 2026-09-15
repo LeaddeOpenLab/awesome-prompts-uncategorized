@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**214** Prompt · Son eklenen: **2026-09-14**
+**215** Prompt · Son eklenen: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2099557132538376542"></a>
 
-### Çeviri sürüyor
+### Hareketli bir şehir caddesinde kameraya doğru yürüyen şık bir adamın ultra fotogerçekçi, tam boy sokak modası portresini oluşturun.
 
 Yazar：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2099557132538376542)
 
@@ -43,14 +43,28 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Şehir Manz
 
 Orijinal gönderi：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Orijinal gönderi](https://x.com/PrometheanAIX/status/2099542066267115993)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Hareketli bir şehir caddesinde kameraya doğru yürüyen şık bir adamın ultra fotogerçekçi, tam boy sokak modası portresini oluşturun.
 
 <img src="covers/2099557132538376542.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şehrin kalabalık bir caddesinde kameraya doğru yürüyen, sert hatlı ve yakışıklı bir adamın ultra fotogerçekçi, tam boy sokak modası portresini oluşturun. Orta kahverengi bir tene, kısa sakala, atletik erkeksi bir yapıya ve sakin, kendinden emin bir ifadeye sahip. Koyu renk aviator güneş gözlüğü ve antrasit rengi örgü bere takıyor.
+
+Kıyafet
+Açık yıkama eskitilmiş kot ceketin altına fermuarlı siyah kapüşonlu hırka ve beyaz tişört giyiyor. Bunu bol siyah kargo pantolon ve kırmızı, beyaz, siyah yüksek bilekli spor ayakkabılarla kombinleyin. Kat kat gümüş zincirler, yüzükler, koyu renk bir kol saati ve tek omzuna asılmış yıpranmış taba rengi kanvas bir sırt çantası ekleyin.
+
+Poz
+Onu kameraya doğru yürürken adım ortasında, bir eli sırt çantasının askısını tutarken diğeri doğal bir şekilde sallanır vaziyette yakalayın. Duruşunu rahat, kendinden emin ve samimi tutun.
+
+Ortam
+Onu, eski tuğla binalar, mağaza vitrinleri, parlayan tabelalar, yayalar ve sokak hareketliliği ile çevrili kalabalık bir şehir merkezi eğlence bölgesi caddesine yerleştirin. Şehri yoğun, enerjik ve otantik tutun.
+
+Fotoğrafçılık ve Sinematografi
+50mm lens estetiği, baştan ayağa tam kadraj, doğal kapalı gün ışığı, sığ ancak kontrollü alan derinliği, hafif film greni, gerçekçi cilt ve denim dokusu, mat şehir tonları ve net editoryal detaylar içeren üst düzey samimi sokak modası fotoğrafçılığı kullanın.
+
+Kaçınılması gerekenler: plastik cilt, aşırı rötuş, abartılı kaslar, kusursuz giysiler, kaskatı pozlar, boş sokaklar, aşırı bokeh, CGI görünümü veya aşırı cilalı ticari stil.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3385,6 +3399,28 @@ Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](htt
 
 ## Retro / Vintage
 
+<a name="prompt-2099626543857209360"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Orijinal gönderi](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Retro / Vintage · Araç · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099626543857209360-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099473433067495508"></a>
 
 ### Çeviri sürüyor
@@ -3935,20 +3971,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2099588359945408736"></a>
 
-### Çeviri sürüyor
+### Akustik enstrümanlı ve kazaklı analog hipsterlarla karşılaşan DJ'ler
 
 Yazar：[@erikson\_michael](https://x.com/erikson_michael) · [Orijinal gönderi](https://x.com/erikson_michael/status/2099588359945408736)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Akustik enstrümanlı ve kazaklı analog hipsterlarla karşılaşan DJ'ler
 
 <img src="covers/2099588359945408736.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Akustik enstrümanlı ve kazaklı analog hipsterlarla karşılaşan DJ'ler
 ```
 
 [↑ Kategorilere dön](#catalog)

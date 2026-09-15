@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**214** Prompts · Zuletzt hinzugefügt: **2026-09-14**
+**215** Prompts · Zuletzt hinzugefügt: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2099557132538376542"></a>
 
-### Übersetzung läuft
+### Erstelle ein ultrafotorealistisches Ganzkörper-Street-Fashion-Porträt eines stilvollen Mannes, der auf einer belebten Straße in der Stadt auf die Kamera zugeht.
 
 Autor：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2099557132538376542)
 
@@ -43,14 +43,28 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Stadtbild / Stra�
 
 Originalbeitrag：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Originalbeitrag](https://x.com/PrometheanAIX/status/2099542066267115993)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein ultrafotorealistisches Ganzkörper-Street-Fashion-Porträt eines stilvollen Mannes, der auf einer belebten Straße in der Stadt auf die Kamera zugeht.
 
 <img src="covers/2099557132538376542.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein ultrafotorealistisches Ganzkörper-Street-Fashion-Porträt eines markant gutaussehenden Mannes, der auf einer belebten Straße im Stadtzentrum auf die Kamera zugeht. Er hat mittelbraune Haut, kurzen Bartwuchs, einen athletischen, maskulinen Körperbau und einen ruhigen, selbstbewussten Ausdruck. Er trägt eine dunkle Flieger-Sonnenbrille und eine anthrazitfarbene Strickmütze.
+
+Outfit
+Er trägt eine hell gewaschene, abgetragene Jeansjacke über einem schwarzen Zip-Hoodie und einem weißen T-Shirt. Kombiniere dies mit einer lockeren schwarzen Cargohose und rot-weiß-schwarzen High-Top-Sneakern. Ergänze mehrlagige Silberketten, Ringe, eine dunkle Armbanduhr und einen abgenutzten hellbraunen Segeltuchrucksack, der über einer Schulter getragen wird.
+
+Pose
+Fange ihn mitten im Schritt ein, wie er auf die Kamera zugeht, wobei eine Hand den Riemen des Rucksacks greift, während die andere natürlich mitschwingt. Halte seine Haltung entspannt, selbstbewusst und ungekünstelt.
+
+Umgebung
+Platziere ihn auf einer belebten Straße im Vergnügungsviertel der Innenstadt, gesäumt von älteren Backsteingebäuden, Schaufenstern, leuchtenden Schildern, Fußgängern und regem Straßenleben. Halte die Stadt dicht, energiegeladen und authentisch.
+
+Fotografie & Kinematografie
+Verwende High-End-Street-Fashion-Schnappschussfotografie mit einer 50-mm-Objektiv-Ästhetik, vollständigem Kopf-bis-Fuß-Framing, natürlichem, bedecktem Tageslicht, geringer, aber kontrollierter Tiefenschärfe, subtiler Filmkörnung, realistischer Haut- und Denim-Textur, gedämpften urbanen Tönen und gestochen scharfen redaktionellen Details.
+
+Vermeide: Plastikhaut, übermäßige Retusche, übertriebene Muskeln, makellose Kleidung, steife Posen, leere Straßen, übermäßiges Bokeh, CGI-Look oder übermäßig poliertes kommerzielles Styling.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3368,6 +3382,28 @@ Illustration · 3D-Rendering · Aquarell · Charakter · Veröffentlicht
 
 ## Retro / Vintage
 
+<a name="prompt-2099626543857209360"></a>
+
+### Übersetzung läuft
+
+Autor：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Originalbeitrag](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Retro / Vintage · Fahrzeug · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099626543857209360-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2099473433067495508"></a>
 
 ### Übersetzung läuft
@@ -3918,20 +3954,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2099588359945408736"></a>
 
-### Übersetzung läuft
+### DJs treffen auf analoge Hipster mit akustischen Instrumenten und Pullovern
 
 Autor：[@erikson\_michael](https://x.com/erikson_michael) · [Originalbeitrag](https://x.com/erikson_michael/status/2099588359945408736)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** DJs treffen auf analoge Hipster mit akustischen Instrumenten und Pullovern
 
 <img src="covers/2099588359945408736.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+DJs treffen auf analoge Hipster mit akustischen Instrumenten und Pullovern
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

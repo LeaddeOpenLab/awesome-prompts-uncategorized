@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**214** Prompts · Latest addition: **2026-09-14**
+**215** Prompts · Latest addition: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -4074,6 +4074,28 @@ A lone woman in a vivid red coat walks along a long wooden pier disappearing int
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2099626543857209360"></a>
+
+### Vintage car parked in front of a brick building with a large 'Malört Motors' neon sign.
+
+Author：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Source](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Retro / Vintage · Vehicle · Architecture / Interior · Published
+
+**Summary:** Vintage car parked in front of a brick building with a large 'Malört Motors' neon sign.
+
+<img src="images/2099626543857209360-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Make an image of Malört Motors
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099473433067495508"></a>
 

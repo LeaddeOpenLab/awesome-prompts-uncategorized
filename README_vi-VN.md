@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**214** Prompt · Bổ sung mới nhất: **2026-09-14**
+**215** Prompt · Bổ sung mới nhất: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2099557132538376542"></a>
 
-### Đang dịch
+### Tạo một bức chân dung thời trang đường phố toàn thân siêu thực về một người đàn ông sành điệu đang bước đi về phía máy ảnh trên một con phố thành thị nhộn nhịp.
 
 Tác giả：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Bài gốc](https://x.com/PrometheanAIX/status/2099557132538376542)
 
@@ -43,14 +43,28 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 Bài gốc：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Bài gốc](https://x.com/PrometheanAIX/status/2099542066267115993)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo một bức chân dung thời trang đường phố toàn thân siêu thực về một người đàn ông sành điệu đang bước đi về phía máy ảnh trên một con phố thành thị nhộn nhịp.
 
 <img src="covers/2099557132538376542.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức chân dung thời trang đường phố toàn thân siêu thực về một người đàn ông nam tính, điển trai phong trần đang bước đi về phía máy ảnh trên một con phố trung tâm sầm uất. Anh ấy có làn da nâu vừa, râu tỉa ngắn, vóc dáng vạm vỡ nam tính cùng vẻ mặt điềm tĩnh, tự tin. Anh đeo kính râm phi công màu tối và đội mũ len beanie màu xám than.
+
+Trang phục
+Anh mặc một chiếc áo khoác denim màu sáng wash rách phủ ngoài áo hoodie khóa kéo màu đen và áo thun trắng. Phối cùng quần túi hộp dáng rộng màu đen và giày thể thao cổ cao màu đỏ, trắng, đen. Thêm các chuỗi dây chuyền bạc xếp lớp, nhẫn, đồng hồ đeo tay màu tối và một chiếc balo vải canvas màu rám nắng hơi cũ đeo lệch trên một vai.
+
+Cách tạo dáng
+Bắt trọn khoảnh khắc anh đang sải bước hướng về phía máy ảnh, một tay nắm lấy quai balo trong khi tay kia vung tự nhiên. Giữ tư thế thư thái, tự tin và tự nhiên như chụp lén.
+
+Bối cảnh
+Đặt anh ấy trên một con phố thuộc khu giải trí trung tâm đông đúc với những tòa nhà gạch cổ kính, các cửa hàng, biển hiệu phát sáng, người đi bộ và các hoạt động đường phố. Giữ cho thành phố mang cảm giác đông đúc, tràn đầy năng lượng và chân thực.
+
+Nhiếp ảnh & Điện ảnh
+Sử dụng phong cách nhiếp ảnh thời trang đường phố tự nhiên (candid) cao cấp với thẩm mỹ của ống kính 50mm, bố cục toàn thân từ đầu đến chân, ánh sáng ban ngày tự nhiên nhiều mây, độ sâu trường ảnh nông nhưng được kiểm soát, hạt film tinh tế, chi tiết chân thực của da và chất liệu denim, tông màu đô thị trầm lắng và chi tiết sắc nét chuẩn tạp chí.
+
+Tránh: da bóng nhựa, chỉnh sửa quá đà, cơ bắp phóng đại, quần áo mới tinh không tì vết, tạo dáng cứng nhắc, đường phố vắng tanh, hiệu ứng bokeh quá mức, hình ảnh dạng CGI hoặc tạo kiểu thương mại quá bóng bẩy.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3403,6 +3417,28 @@ Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bả
 
 ## Cổ điển / Cổ điển
 
+<a name="prompt-2099626543857209360"></a>
+
+### Đang dịch
+
+Tác giả：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Bài gốc](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Cổ điển / Cổ điển · Phương tiện · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099626543857209360-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099473433067495508"></a>
 
 ### Đang dịch
@@ -3963,20 +3999,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2099588359945408736"></a>
 
-### Đang dịch
+### Các DJ bắt gặp những hipster chuộng đồ analog với nhạc cụ mộc và áo len
 
 Tác giả：[@erikson\_michael](https://x.com/erikson_michael) · [Bài gốc](https://x.com/erikson_michael/status/2099588359945408736)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Các DJ bắt gặp những hipster chuộng đồ analog với nhạc cụ mộc và áo len
 
 <img src="covers/2099588359945408736.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Các DJ bắt gặp những hipster chuộng đồ analog với nhạc cụ mộc và áo len
 ```
 
 [↑ Về danh mục](#catalog)

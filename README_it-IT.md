@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**214** Prompt · Ultima aggiunta: **2026-09-14**
+**215** Prompt · Ultima aggiunta: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2099557132538376542"></a>
 
-### Traduzione in corso
+### Crea un ritratto di moda street a figura intera ultra-fotorealistico di un uomo elegante che cammina verso la fotocamera in una vivace strada di città.
 
 Autore：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Post originale](https://x.com/PrometheanAIX/status/2099557132538376542)
 
@@ -43,14 +43,28 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Paesaggio 
 
 Post originale：[@PrometheanAIX](https://x.com/PrometheanAIX) · [Post originale](https://x.com/PrometheanAIX/status/2099542066267115993)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un ritratto di moda street a figura intera ultra-fotorealistico di un uomo elegante che cammina verso la fotocamera in una vivace strada di città.
 
 <img src="covers/2099557132538376542.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un ritratto di moda street a figura intera ultra-fotorealistico di un uomo dal fascino deciso che cammina verso la fotocamera su una trafficata strada del centro. Ha la pelle marrone medio, barba corta, una corporatura atletica e maschile e un'espressione calma e sicura di sé. Indossa occhiali da sole da aviatore scuri e un berretto di maglia color antracite.
+
+Outfit
+Indossa una giacca di jeans lavaggio chiaro dall'effetto consumato sopra una felpa con cappuccio e zip nera e una maglietta bianca. Abbinala a pantaloni cargo neri comodi e sneakers alte rosse, bianche e nere. Aggiungi catene d'argento a strati, anelli, un orologio da polso scuro e uno zaino in tela marrone chiaro consumato portato su una spalla.
+
+Posa
+Catturalo a metà passo mentre cammina verso la fotocamera, con una mano che stringe la cinghia dello zaino mentre l'altra oscilla naturalmente. Mantieni la sua postura rilassata, sicura e spontanea.
+
+Ambiente
+Posizionalo su una vivace strada del quartiere dei divertimenti del centro, fiancheggiata da vecchi edifici in mattoni, vetrine, insegne luminose, pedoni e attività di strada. Mantieni la città densa, energica e autentica.
+
+Fotografia e cinematografia
+Utilizza una fotografia street-fashion spontanea di fascia alta con un'estetica da obiettivo a 50mm, inquadratura completa dalla testa ai piedi, luce naturale diurna nuvolosa, profondità di campo ridotta ma controllata, grana della pellicola sottile, consistenza realistica della pelle e del denim, tonalità urbane tenui e dettagli editoriali nitidi.
+
+Evitare: pelle di plastica, ritocco eccessivo, muscoli esagerati, abiti immacolati, pose rigide, strade vuote, bokeh eccessivo, aspetto CGI o stile commerciale eccessivamente curato.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3368,6 +3382,28 @@ Traduzione in corso
 
 ## Retro / Vintage
 
+<a name="prompt-2099626543857209360"></a>
+
+### Traduzione in corso
+
+Autore：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Post originale](https://x.com/CatrionaCgx/status/2099626543857209360)
+
+Retro / Vintage · Veicolo · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099626543857209360-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099473433067495508"></a>
 
 ### Traduzione in corso
@@ -3918,20 +3954,20 @@ Traduzione in corso
 
 <a name="prompt-2099588359945408736"></a>
 
-### Traduzione in corso
+### DJ incontrano hipster analogici con strumenti acustici e maglioni
 
 Autore：[@erikson\_michael](https://x.com/erikson_michael) · [Post originale](https://x.com/erikson_michael/status/2099588359945408736)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** DJ incontrano hipster analogici con strumenti acustici e maglioni
 
 <img src="covers/2099588359945408736.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+DJ incontrano hipster analogici con strumenti acustici e maglioni
 ```
 
 [↑ Torna alle categorie](#catalog)
