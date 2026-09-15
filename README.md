@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**216** Prompts · Latest addition: **2026-09-15**
+**217** Prompts · Latest addition: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -4837,6 +4837,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099644412296901092"></a>
+
+### Prompt asking for an accidental photo from the floor taken by the cell phone showing oneself.
+
+Author：[@Brunis0nGamer](https://x.com/Brunis0nGamer) · [Source](https://x.com/Brunis0nGamer/status/2099644412296901092)
+
+Portrait / Selfie · Published
+
+**Summary:** Prompt asking for an accidental photo from the floor taken by the cell phone showing oneself.
+
+<img src="images/2099644412296901092-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Imagine that you accidentally dropped your cell phone on the floor and it took a picture of you. Send me that photo, don't explain just send the photo.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099599567356600688"></a>
 
