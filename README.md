@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**218** Prompts · Latest addition: **2026-09-15**
+**221** Prompts · Latest addition: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -4748,6 +4748,44 @@ Cyberpunk / Sci-Fi · Published
 
 ## Minimalism
 
+<a name="prompt-2099605356116951296"></a>
+
+### Prompt for low-light silhouette photography of a female character and mythical beast in an ultra-dark black field with massive negative space.
+
+Author：[@VoxcatAI](https://x.com/VoxcatAI) · [Source](https://x.com/VoxcatAI/status/2099605356116951296)
+
+Photography · Minimalism · Portrait / Selfie · Character · Published
+
+Source：[@VoxcatAI](https://x.com/VoxcatAI) · [Source](https://x.com/VoxcatAI/status/2014671895657074893)
+
+**Summary:** Prompt for low-light silhouette photography of a female character and mythical beast in an ultra-dark black field with massive negative space.
+
+<img src="images/2099605356116951296-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099605356116951296-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099605356116951296-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099605356116951296-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2099605356116951296-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2099605356116951296-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2099605356116951296-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2099605356116951296-8.jpg" alt="Image 8" width="480" />
+
+**Prompt**
+
+```text
+Extreme Low-Key black-field portrait photography, adult classic female character × mythical beast animal, vertical composition, figure positioned at an extremely small scale in the lower half, leaving a massive amount of pure black negative space above and all around. The character is almost completely submerged in darkness, retaining only a sliver of ultra-narrow cold white hard sidelight subtly carving out a few sparse fragments: half the face edge, outline of the bridge of the nose, lip line, a few strands of hair, shoulder line, waistline, or hip curve, with the rest entirely melting into pure black. No full face, no full body; identify the character solely through hairstyle, hair ornaments, horns, animal ears, or iconic silhouette. The mythical beast animal serves only as a faint silhouette companion in the darkness, permitting only minimal highlights on eye glints, horn tips, ear tips, beak, spine line, or outer edge of the mane. High-contrast Chiaroscuro × Tenebrism, extremely low exposure, deeply crushed blacks, restrained highlights, minimal color information, no environmental narrative, overall anonymous, cold, dangerous, mysterious, like underground fashion photography. Very small "voxCAT" signature in the bottom right corner. n=5.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2099090732678295807"></a>
 
 ### Extreme low-angle studio fashion model portrait prompt template, emphasizing elongated silhouettes and minimalist reflective material textures.
@@ -4861,6 +4899,130 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099627143735156922"></a>
+
+### A Japanese gyaru in high spirits wearing a micro bikini by the poolside of a night pool.
+
+Author：[@AI\_money\_club](https://x.com/AI_money_club) · [Source](https://x.com/AI_money_club/status/2099627143735156922)
+
+Other · Published
+
+**Summary:** A Japanese gyaru in high spirits wearing a micro bikini by the poolside of a night pool.
+
+<img src="images/2099627143735156922-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A Japanese gyaru going crazily hyper by the poolside of a night pool wearing an overly exaggerated micro bikini. Realistic image
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099604978868559874"></a>
+
+### A prompt for a courtroom-battle poster-style fan art of NIKKE characters, specifying the composition and dialogue for Anis, Rapi, Neon, and the Commander.
+
+Author：[@TachMaru](https://x.com/TachMaru) · [Source](https://x.com/TachMaru/status/2099604978868559874)
+
+Poster / Flyer · Character · Published
+
+Source：[@TachMaru](https://x.com/TachMaru) · [Source](https://x.com/TachMaru/status/2067070540440027560)
+
+**Summary:** A prompt for a courtroom-battle poster-style fan art of NIKKE characters, specifying the composition and dialogue for Anis, Rapi, Neon, and the Commander.
+
+<img src="images/2099604978868559874-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099604978868559874-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099604978868559874-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099604978868559874-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2099604978868559874-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2099604978868559874-6.jpg" alt="Image 6" width="480" />
+
+**Prompt**
+
+```text
+Image size: "16:9". Please create an anime-style image incorporating the following elements.
+## Scene
+- Courtroom
+
+## Composition
+- "Courtroom battle" poster style
+
+## Camera
+- Dutch angle
+
+## Situation
+- Anis
+  - Position: Bottom left of the screen
+  - "Anis" body facing forward, pointing her index finger toward the upper left (other fingers lightly curled)
+  - "Anis" is looking at "Rapi" in the upper right
+  - "Anis" speech bubble comment: Objection! (Text: red letters, speech bubble: image of shouting/projecting voice)
+- Rapi
+  - Position: Upper right of the screen
+  - "Rapi" body facing forward, spreading both arms around waist level with hands lightly turned upward, index and middle fingers aligned together, other fingers relaxed naturally
+  - "Rapi" is looking down at "Anis" in the lower left
+  - "Rapi" speech bubble comment: The Commander is NOT going to become Anis's wife!
+- Neon
+  - Position: Upper left of the screen
+  - Repeatedly striking the gavel at the judge's bench
+  - Include the onomatopoeia "BANG BANG BANG BANG"
+  - "Neon" speech bubble comment: Order in the court!
+- Commander
+  - Position: Bottom right of the screen
+  - Cowering in front of the witness stand
+
+## Important
+- Since "Anis" and "Rapi" are the main characters, please draw these two prominently and large
+- Please hide the "Commander's" eyes behind his bangs
+
+Prompt Sample
+Create an anime-style image incorporating the following elements in a 16:9 aspect ratio.
+
+## Scene
+- Courtroom
+
+## Composition
+- In the style of a "courtroom battle" poster
+
+## Camera
+- Dutch angle
+
+## Situation
+- Anis
+  - Position: Bottom left of the frame
+  - Anis is facing forward and pointing her index finger toward the upper left (the other fingers are lightly curled into her palm)
+  - Anis is looking at Rapi in the upper right
+  - Speech bubble for Anis: "Objection!" (Text: red lettering; the speech bubble should convey that she is shouting at the top of her voice)
+- Rapi
+  - Position: Upper right of the frame
+  - Rapi is facing forward, spreading both arms outward around waist level with her palms slightly raised; her index and middle fingers are held together, while the other fingers are relaxed naturally
+  - Rapi is looking down at Anis in the lower left
+  - Speech bubble for Rapi: "The Commander is NOT going to become Anis's wife!"
+- Neon
+  - Position: Upper left of the frame
+  - At the judge's bench, repeatedly striking the gavel
+  - Include the sound effect "BANG BANG BANG BANG"
+  - Speech bubble for Neon: "Order in the court!"
+- Commander
+  - Position: Bottom right of the frame
+  - Cowering in front of the witness stand
+
+## Important
+- Anis and Rapi are the main characters, so depict these two characters prominently and at a large scale
+- Hide the Commander's eyes behind his bangs
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099644412296901092"></a>
 

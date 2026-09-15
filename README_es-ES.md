@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**218** Prompts · Última incorporación: **2026-09-15**
+**221** Prompts · Última incorporación: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,13 +35,13 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2099632246730760679"></a>
 
-### Traducción en curso
+### Prompt de retrato para una chica turca de 23 años en un jardín florecido bajo la suave luz de la mañana con detalles fotorrealistas.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicación original](https://x.com/__Libra1/status/2099632246730760679)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato para una chica turca de 23 años en un jardín florecido bajo la suave luz de la mañana con detalles fotorrealistas.
 
 <img src="images/2099632246730760679-1.jpg" alt="Imagen 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Elif, una chica turca de 23 años con una complexión atlética y delgada, piel oliva cálida, ojos verde avellana y cabello largo ondulado de color marrón oscuro. Mantén su rostro e identidad natural exactamente iguales a la referencia, incluyendo la forma de su rostro, cejas, nariz, labios y línea del cabello. No embellezcas en exceso ni alteres sus rasgos. Lleva un maquillaje natural suave y minimalista y un atuendo ligero y elegante. Elif está de pie pacíficamente en un hermoso jardín lleno de flores en flor en una mañana luminosa. La cálida luz del sol ilumina suavemente su rostro y cabello, rodeada de coloridas flores. Tiene una sonrisa tranquila y suave, y una expresión natural y relajada. Fotorrealista, gran nivel de detalle, textura de piel realista, luz matinal suave y cálida, apariencia humana natural, atmósfera soñadora pero auténtica.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3945,6 +3945,44 @@ CONTINUIDAD / NEGATIVOS: un solo reportero, un solo alienígena, un solo camaró
 
 ## Minimalismo
 
+<a name="prompt-2099605356116951296"></a>
+
+### Traducción en curso
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicación original](https://x.com/VoxcatAI/status/2099605356116951296)
+
+Fotografía · Minimalismo · Retrato / Selfie · Personaje · Publicado
+
+Publicación original：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicación original](https://x.com/VoxcatAI/status/2014671895657074893)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099605356116951296-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099605356116951296-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099605356116951296-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099605356116951296-4.jpg" alt="Imagen 4" width="480" />
+
+<img src="images/2099605356116951296-5.jpg" alt="Imagen 5" width="480" />
+
+<img src="images/2099605356116951296-6.jpg" alt="Imagen 6" width="480" />
+
+<img src="images/2099605356116951296-7.jpg" alt="Imagen 7" width="480" />
+
+<img src="images/2099605356116951296-8.jpg" alt="Imagen 8" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2099090732678295807"></a>
 
 ### Traducción en curso
@@ -4020,6 +4058,62 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2099627143735156922"></a>
+
+### Traducción en curso
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2099627143735156922)
+
+Otros · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099627143735156922-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099604978868559874"></a>
+
+### Traducción en curso
+
+Autor：[@TachMaru](https://x.com/TachMaru) · [Publicación original](https://x.com/TachMaru/status/2099604978868559874)
+
+Póster / Folleto · Personaje · Publicado
+
+Publicación original：[@TachMaru](https://x.com/TachMaru) · [Publicación original](https://x.com/TachMaru/status/2067070540440027560)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099604978868559874-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099604978868559874-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2099604978868559874-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2099604978868559874-4.jpg" alt="Imagen 4" width="480" />
+
+<img src="images/2099604978868559874-5.jpg" alt="Imagen 5" width="480" />
+
+<img src="images/2099604978868559874-6.jpg" alt="Imagen 6" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099644412296901092"></a>
 

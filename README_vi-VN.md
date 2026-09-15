@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**218** Prompt · Bổ sung mới nhất: **2026-09-15**
+**221** Prompt · Bổ sung mới nhất: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,13 +35,13 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2099632246730760679"></a>
 
-### Đang dịch
+### Prompt chân dung cho một cô gái Thổ Nhĩ Kỳ 23 tuổi trong khu vườn nở hoa dưới ánh nắng ban mai dịu nhẹ với các chi tiết chân thực như ảnh chụp.
 
 Tác giả：[@\_\_Libra1](https://x.com/__Libra1) · [Bài gốc](https://x.com/__Libra1/status/2099632246730760679)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chân dung cho một cô gái Thổ Nhĩ Kỳ 23 tuổi trong khu vườn nở hoa dưới ánh nắng ban mai dịu nhẹ với các chi tiết chân thực như ảnh chụp.
 
 <img src="images/2099632246730760679-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -50,7 +50,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Elif, một cô gái Thổ Nhĩ Kỳ 23 tuổi với vóc dáng thon thả, khỏe khoắn, làn da màu ô liu ấm áp, đôi mắt màu xanh lục phớt nâu và mái tóc gợn sóng dài màu nâu sẫm. Giữ cho khuôn mặt và nét tự nhiên của cô ấy hoàn toàn giống với ảnh tham chiếu, bao gồm hình dáng khuôn mặt, lông mày, mũi, môi và đường chân tóc. Không làm đẹp quá mức hoặc thay đổi các đường nét của cô ấy. Cô trang điểm nhẹ nhàng, tối giản, tự nhiên và mặc trang phục thanh lịch, nhẹ nhàng. Elif đang đứng bình yên trong một khu vườn tuyệt đẹp rực rỡ hoa nở vào một buổi sáng tươi sáng. Ánh nắng ấm áp nhẹ nhàng chiếu rọi khuôn mặt và mái tóc của cô, với những bông hoa rực rỡ sắc màu vây quanh. Cô ấy nở một nụ cười điềm tĩnh, dịu dàng cùng nét mặt tự nhiên, thư thái. Chân thực như ảnh chụp, độ chi tiết cao, kết cấu da chân thực, ánh sáng ban mai ấm áp dịu nhẹ, vẻ ngoài con người tự nhiên, bầu không khí thơ mộng nhưng chân thực.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3945,6 +3945,44 @@ LIÊN TỤC / CÁC YẾU TỐ PHỦ ĐỊNH: Chỉ có một phóng viên, một
 
 ## Chủ nghĩa tối giản
 
+<a name="prompt-2099605356116951296"></a>
+
+### Đang dịch
+
+Tác giả：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/VoxcatAI/status/2099605356116951296)
+
+Nhiếp ảnh · Chủ nghĩa tối giản · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/VoxcatAI/status/2014671895657074893)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099605356116951296-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099605356116951296-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099605356116951296-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099605356116951296-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2099605356116951296-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2099605356116951296-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2099605356116951296-7.jpg" alt="Hình ảnh 7" width="480" />
+
+<img src="images/2099605356116951296-8.jpg" alt="Hình ảnh 8" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099090732678295807"></a>
 
 ### Đang dịch
@@ -4020,6 +4058,62 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2099627143735156922"></a>
+
+### Đang dịch
+
+Tác giả：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2099627143735156922)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099627143735156922-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099604978868559874"></a>
+
+### Đang dịch
+
+Tác giả：[@TachMaru](https://x.com/TachMaru) · [Bài gốc](https://x.com/TachMaru/status/2099604978868559874)
+
+Áp phích / Tờ rơi · Nhân vật · Đã xuất bản
+
+Bài gốc：[@TachMaru](https://x.com/TachMaru) · [Bài gốc](https://x.com/TachMaru/status/2067070540440027560)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099604978868559874-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099604978868559874-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2099604978868559874-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2099604978868559874-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2099604978868559874-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2099604978868559874-6.jpg" alt="Hình ảnh 6" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099644412296901092"></a>
 

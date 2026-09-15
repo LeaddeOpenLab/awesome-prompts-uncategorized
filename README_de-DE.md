@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**218** Prompts · Zuletzt hinzugefügt: **2026-09-15**
+**221** Prompts · Zuletzt hinzugefügt: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,13 +35,13 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2099632246730760679"></a>
 
-### Übersetzung läuft
+### Porträt-Prompt für ein 23-jähriges türkisches Mädchen in einem blühenden Garten unter sanftem Morgensonnenlicht mit fotorealistischen Details.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Originalbeitrag](https://x.com/__Libra1/status/2099632246730760679)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträt-Prompt für ein 23-jähriges türkisches Mädchen in einem blühenden Garten unter sanftem Morgensonnenlicht mit fotorealistischen Details.
 
 <img src="images/2099632246730760679-1.jpg" alt="Bild 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Elif, ein 23-jähriges türkisches Mädchen mit schlanker, athletischer Figur, warmem olivfarbenem Teint, haselnussgrünen Augen und langen, dunkelbraunen, welligen Haaren. Ihr Gesicht und ihre natürliche Identität müssen exakt mit der Referenz übereinstimmen, einschließlich Gesichtsform, Augenbrauen, Nase, Lippen und Haaransatz. Ihre Gesichtszüge dürfen nicht übermäßig verschönert oder verändert werden. Sie trägt sanftes, minimalistisches natürliches Make-up und ein leichtes, elegantes Outfit. Elif steht friedlich an einem strahlenden Morgen in einem wunderschönen Garten voller blühender Blumen. Warmes Sonnenlicht beleuchtet sanft ihr Gesicht und ihr Haar, umgeben von bunten Blumen. Sie hat ein ruhiges, sanftes Lächeln und einen natürlichen, entspannten Ausdruck. Fotorealistisch, hohe Detailgenauigkeit, realistische Hauttextur, weiches, warmes Morgenlicht, natürliches menschliches Aussehen, verträumte, aber authentische Atmosphäre.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3900,6 +3900,44 @@ Cyberpunk / Sci-Fi · Veröffentlicht
 
 ## Minimalismus
 
+<a name="prompt-2099605356116951296"></a>
+
+### Übersetzung läuft
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https://x.com/VoxcatAI/status/2099605356116951296)
+
+Fotografie · Minimalismus · Porträt / Selfie · Charakter · Veröffentlicht
+
+Originalbeitrag：[@VoxcatAI](https://x.com/VoxcatAI) · [Originalbeitrag](https://x.com/VoxcatAI/status/2014671895657074893)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099605356116951296-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099605356116951296-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099605356116951296-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099605356116951296-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2099605356116951296-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2099605356116951296-6.jpg" alt="Bild 6" width="480" />
+
+<img src="images/2099605356116951296-7.jpg" alt="Bild 7" width="480" />
+
+<img src="images/2099605356116951296-8.jpg" alt="Bild 8" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2099090732678295807"></a>
 
 ### Übersetzung läuft
@@ -3975,6 +4013,62 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2099627143735156922"></a>
+
+### Übersetzung läuft
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2099627143735156922)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099627143735156922-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099604978868559874"></a>
+
+### Übersetzung läuft
+
+Autor：[@TachMaru](https://x.com/TachMaru) · [Originalbeitrag](https://x.com/TachMaru/status/2099604978868559874)
+
+Plakat / Flyer · Charakter · Veröffentlicht
+
+Originalbeitrag：[@TachMaru](https://x.com/TachMaru) · [Originalbeitrag](https://x.com/TachMaru/status/2067070540440027560)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099604978868559874-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2099604978868559874-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2099604978868559874-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2099604978868559874-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2099604978868559874-5.jpg" alt="Bild 5" width="480" />
+
+<img src="images/2099604978868559874-6.jpg" alt="Bild 6" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099644412296901092"></a>
 

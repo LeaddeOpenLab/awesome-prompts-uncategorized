@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**218** Prompts · Dernier ajout: **2026-09-15**
+**221** Prompts · Dernier ajout: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,13 +35,13 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2099632246730760679"></a>
 
-### Traduction en cours
+### Prompt de portrait pour une jeune fille turque de 23 ans dans un jardin fleuri sous une douce lumière matinale avec des détails photoréalistes.
 
 Auteur：[@\_\_Libra1](https://x.com/__Libra1) · [Publication originale](https://x.com/__Libra1/status/2099632246730760679)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait pour une jeune fille turque de 23 ans dans un jardin fleuri sous une douce lumière matinale avec des détails photoréalistes.
 
 <img src="images/2099632246730760679-1.jpg" alt="Image 1" width="480" />
 
@@ -50,7 +50,7 @@ Photographie · Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Elif, une jeune fille turque de 23 ans à la silhouette mince et athlétique, au teint olive chaud, aux yeux vert noisette et aux longs cheveux ondulés châtain foncé. Conservez son visage et son identité naturelle exactement identiques à la référence, y compris la forme de son visage, ses sourcils, son nez, ses lèvres et la racine de ses cheveux. Ne pas trop embellir ni modifier ses traits. Elle porte un maquillage naturel doux et minimaliste ainsi qu'une tenue légère et élégante. Elif se tient paisiblement dans un magnifique jardin rempli de fleurs épanouies par une matinée lumineuse. La lumière chaude du soleil illumine doucement son visage et ses cheveux, avec des fleurs colorées qui l'entourent. Elle a un sourire calme et doux, ainsi qu'une expression naturelle et détendue. Photoréaliste, très détaillé, texture de peau réaliste, lumière matinale douce et chaude, apparence humaine naturelle, atmosphère rêveuse mais authentique.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3900,6 +3900,44 @@ Séquence documentaire télévisée ultra-réaliste de 15 secondes du début des
 
 ## Minimalisme
 
+<a name="prompt-2099605356116951296"></a>
+
+### Traduction en cours
+
+Auteur：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication originale](https://x.com/VoxcatAI/status/2099605356116951296)
+
+Photographie · Minimalisme · Portrait / Selfie · Personnage · Publié
+
+Publication originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Publication originale](https://x.com/VoxcatAI/status/2014671895657074893)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099605356116951296-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099605356116951296-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099605356116951296-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099605356116951296-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2099605356116951296-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2099605356116951296-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2099605356116951296-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2099605356116951296-8.jpg" alt="Image 8" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2099090732678295807"></a>
 
 ### Traduction en cours
@@ -3975,6 +4013,62 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2099627143735156922"></a>
+
+### Traduction en cours
+
+Auteur：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2099627143735156922)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099627143735156922-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099604978868559874"></a>
+
+### Traduction en cours
+
+Auteur：[@TachMaru](https://x.com/TachMaru) · [Publication originale](https://x.com/TachMaru/status/2099604978868559874)
+
+Affiche / Flyer · Personnage · Publié
+
+Publication originale：[@TachMaru](https://x.com/TachMaru) · [Publication originale](https://x.com/TachMaru/status/2067070540440027560)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099604978868559874-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099604978868559874-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2099604978868559874-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2099604978868559874-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2099604978868559874-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2099604978868559874-6.jpg" alt="Image 6" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099644412296901092"></a>
 

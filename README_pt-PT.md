@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**218** Prompts · Adição mais recente: **2026-09-15**
+**221** Prompts · Adição mais recente: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,13 +35,13 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2099632246730760679"></a>
 
-### Tradução em curso
+### Prompt de retrato para uma rapariga turca de 23 anos num jardim florido sob a suave luz matinal com detalhes fotorrealistas.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicação original](https://x.com/__Libra1/status/2099632246730760679)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato para uma rapariga turca de 23 anos num jardim florido sob a suave luz matinal com detalhes fotorrealistas.
 
 <img src="images/2099632246730760679-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Elif, uma rapariga turca de 23 anos com uma compleição esbelta e atlética, pele oliva quente, olhos verde-avelã e cabelo comprido ondulado castanho-escuro. Mantenha o rosto e a identidade natural dela exatamente iguais aos da referência, incluindo o formato do rosto, sobrancelhas, nariz, lábios e linha do cabelo. Não embeleze em demasia nem altere os seus traços. Usa uma maquilhagem natural suave e minimalista e um vestuário leve e elegante. Elif está de pé, pacificamente, num belo jardim repleto de flores desabrochadas numa manhã luminosa. A luz quente do sol ilumina suavemente o seu rosto e cabelo, com flores coloridas ao seu redor. Tem um sorriso calmo e suave, e uma expressão natural e relaxada. Fotorrealista, elevado nível de detalhe, textura de pele realista, luz matinal suave e quente, aparência humana natural, atmosfera sonhadora mas autêntica.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3917,6 +3917,44 @@ Imagens de documentário de televisão ultrarrealistas de 15 segundos do início
 
 ## Minimalismo
 
+<a name="prompt-2099605356116951296"></a>
+
+### Tradução em curso
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicação original](https://x.com/VoxcatAI/status/2099605356116951296)
+
+Fotografia · Minimalismo · Retrato / Selfie · Personagem · Publicado
+
+Publicação original：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicação original](https://x.com/VoxcatAI/status/2014671895657074893)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099605356116951296-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099605356116951296-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099605356116951296-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099605356116951296-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2099605356116951296-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2099605356116951296-6.jpg" alt="Imagem 6" width="480" />
+
+<img src="images/2099605356116951296-7.jpg" alt="Imagem 7" width="480" />
+
+<img src="images/2099605356116951296-8.jpg" alt="Imagem 8" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099090732678295807"></a>
 
 ### Tradução em curso
@@ -3992,6 +4030,62 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099627143735156922"></a>
+
+### Tradução em curso
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2099627143735156922)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099627143735156922-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099604978868559874"></a>
+
+### Tradução em curso
+
+Autor：[@TachMaru](https://x.com/TachMaru) · [Publicação original](https://x.com/TachMaru/status/2099604978868559874)
+
+Pôster / Folheto · Personagem · Publicado
+
+Publicação original：[@TachMaru](https://x.com/TachMaru) · [Publicação original](https://x.com/TachMaru/status/2067070540440027560)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099604978868559874-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099604978868559874-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099604978868559874-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099604978868559874-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2099604978868559874-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2099604978868559874-6.jpg" alt="Imagem 6" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099644412296901092"></a>
 

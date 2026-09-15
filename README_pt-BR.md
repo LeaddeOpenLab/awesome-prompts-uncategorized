@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**218** Prompts · Última adição: **2026-09-15**
+**221** Prompts · Última adição: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,13 +35,13 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2099632246730760679"></a>
 
-### Tradução em andamento
+### Prompt de retrato para uma garota turca de 23 anos em um jardim florido sob a suave luz da manhã com detalhes fotorrealistas.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicação original](https://x.com/__Libra1/status/2099632246730760679)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato para uma garota turca de 23 anos em um jardim florido sob a suave luz da manhã com detalhes fotorrealistas.
 
 <img src="images/2099632246730760679-1.jpg" alt="Imagem 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Elif, uma garota turca de 23 anos com físico esbelto e atlético, pele oliva quente, olhos verde-avelã e longos cabelos ondulados castanho-escuros. Mantenha o rosto e a identidade natural dela exatamente iguais aos da referência, incluindo o formato do rosto, sobrancelhas, nariz, lábios e linha do cabelo. Não embeleze demais nem altere seus traços. Ela usa uma maquiagem natural suave e minimalista e uma roupa leve e elegante. Elif está em pé, em paz, em um lindo jardim repleto de flores desabrochando em uma manhã ensolarada. A luz quente do sol ilumina suavemente seu rosto e cabelo, com flores coloridas ao seu redor. Ela tem um sorriso calmo e gentil, e uma expressão natural e relaxada. Fotorrealista, ricos detalhes, textura de pele realista, luz suave e quente da manhã, aparência humana natural, atmosfera sonhadora, mas autêntica.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3917,6 +3917,44 @@ Filmagem de documentário de televisão ultrarrealista de 15 segundos do início
 
 ## Minimalismo
 
+<a name="prompt-2099605356116951296"></a>
+
+### Tradução em andamento
+
+Autor：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicação original](https://x.com/VoxcatAI/status/2099605356116951296)
+
+Fotografia · Minimalismo · Retrato / Selfie · Personagem · Publicado
+
+Publicação original：[@VoxcatAI](https://x.com/VoxcatAI) · [Publicação original](https://x.com/VoxcatAI/status/2014671895657074893)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099605356116951296-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099605356116951296-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099605356116951296-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099605356116951296-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2099605356116951296-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2099605356116951296-6.jpg" alt="Imagem 6" width="480" />
+
+<img src="images/2099605356116951296-7.jpg" alt="Imagem 7" width="480" />
+
+<img src="images/2099605356116951296-8.jpg" alt="Imagem 8" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2099090732678295807"></a>
 
 ### Tradução em andamento
@@ -3992,6 +4030,62 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2099627143735156922"></a>
+
+### Tradução em andamento
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2099627143735156922)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099627143735156922-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099604978868559874"></a>
+
+### Tradução em andamento
+
+Autor：[@TachMaru](https://x.com/TachMaru) · [Publicação original](https://x.com/TachMaru/status/2099604978868559874)
+
+Pôster / Flyer · Personagem · Publicado
+
+Publicação original：[@TachMaru](https://x.com/TachMaru) · [Publicação original](https://x.com/TachMaru/status/2067070540440027560)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099604978868559874-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099604978868559874-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2099604978868559874-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2099604978868559874-4.jpg" alt="Imagem 4" width="480" />
+
+<img src="images/2099604978868559874-5.jpg" alt="Imagem 5" width="480" />
+
+<img src="images/2099604978868559874-6.jpg" alt="Imagem 6" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099644412296901092"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**218** Prompt · Son eklenen: **2026-09-15**
+**221** Prompt · Son eklenen: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -35,13 +35,13 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2099632246730760679"></a>
 
-### Çeviri sürüyor
+### Yumuşak sabah güneş ışığı altında, çiçeklerle dolu bir bahçede bulunan 23 yaşındaki bir Türk kızının fotogerçekçi ayrıntılara sahip portre istemi.
 
 Yazar：[@\_\_Libra1](https://x.com/__Libra1) · [Orijinal gönderi](https://x.com/__Libra1/status/2099632246730760679)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yumuşak sabah güneş ışığı altında, çiçeklerle dolu bir bahçede bulunan 23 yaşındaki bir Türk kızının fotogerçekçi ayrıntılara sahip portre istemi.
 
 <img src="images/2099632246730760679-1.jpg" alt="Görsel 1" width="480" />
 
@@ -50,7 +50,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Elif, narin ve atletik yapılı, sıcak buğday tenli, ela-yeşil gözlü ve uzun koyu kahverengi dalgalı saçlara sahip 23 yaşında bir Türk kızı. Yüzünü ve doğal kimliğini; yüz şekli, kaşları, burnu, dudakları ve saç çizgisi de dahil olmak üzere referansla birebir aynı tutun. Yüz hatlarını aşırı güzelleştirmeyin veya değiştirmeyin. Yumuşak, minimal ve doğal bir makyaj yapmış, hafif ve zarif bir kıyafet giymiş. Elif, aydınlık bir sabah vaktinde açmış çiçeklerle dolu güzel bir bahçede huzur içinde duruyor. Sıcak güneş ışığı yüzünü ve saçlarını nazikçe aydınlatıyor, etrafı rengarenk çiçeklerle çevrili. Sakin, tatlı bir gülümsemesi ve doğal, rahat bir ifadesi var. Fotogerçekçi, yüksek detay, gerçekçi cilt dokusu, yumuşak sıcak sabah ışığı, doğal insan görünümü, rüya gibi ama otantik bir atmosfer.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3917,6 +3917,44 @@ Fiziksel olarak alanda bulunan tek bir kameraman tarafından tüketici tipi bir 
 
 ## Minimalizm
 
+<a name="prompt-2099605356116951296"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2099605356116951296)
+
+Fotoğrafçılık · Minimalizm · Portre / Selfie · Karakter · Yayımlandı
+
+Orijinal gönderi：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2014671895657074893)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099605356116951296-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099605356116951296-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099605356116951296-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099605356116951296-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2099605356116951296-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2099605356116951296-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2099605356116951296-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2099605356116951296-8.jpg" alt="Görsel 8" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099090732678295807"></a>
 
 ### Çeviri sürüyor
@@ -3992,6 +4030,62 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2099627143735156922"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2099627143735156922)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099627143735156922-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099604978868559874"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TachMaru](https://x.com/TachMaru) · [Orijinal gönderi](https://x.com/TachMaru/status/2099604978868559874)
+
+Poster / El İlanı · Karakter · Yayımlandı
+
+Orijinal gönderi：[@TachMaru](https://x.com/TachMaru) · [Orijinal gönderi](https://x.com/TachMaru/status/2067070540440027560)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099604978868559874-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099604978868559874-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2099604978868559874-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2099604978868559874-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2099604978868559874-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2099604978868559874-6.jpg" alt="Görsel 6" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099644412296901092"></a>
 
