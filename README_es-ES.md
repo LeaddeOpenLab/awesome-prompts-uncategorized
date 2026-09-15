@@ -4045,20 +4045,20 @@ Imagina que sin querer se te ha caído el móvil al suelo y ha hecho una foto tu
 
 <a name="prompt-2099599567356600688"></a>
 
-### Traducción en curso
+### Descripción del retrato de una mujer de estilo tradicional con vestido de gasa, dando un paso junto al agua con la falda deslizándose.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2099599567356600688)
 
 Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Descripción del retrato de una mujer de estilo tradicional con vestido de gasa, dando un paso junto al agua con la falda deslizándose.
 
 <img src="images/2099599567356600688-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+vestido largo de gasa que cae holgado; la falda se desliza por el lateral de la pierna; dando un paso junto al agua; una pierna extendida hacia adelante; mechones de cabello cayendo sobre los hombros; expresión lánguida
 ```
 
 [↑ Volver a categorías](#catalog)

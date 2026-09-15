@@ -4017,20 +4017,20 @@ Yanlışlıkla telefonunuzu yere düşürdüğünüzü ve telefonun sizin bir fo
 
 <a name="prompt-2099599567356600688"></a>
 
-### Çeviri sürüyor
+### Su kenarında adım atan, eteği aşağı kayan, hafif tüllü geleneksel tarzda bir kadın portresi tasviri.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2099599567356600688)
 
 Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Su kenarında adım atan, eteği aşağı kayan, hafif tüllü geleneksel tarzda bir kadın portresi tasviri.
 
 <img src="images/2099599567356600688-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+hafif tül uzun elbise gevşekçe dökülüyor; etek ucu bacağın yanından aşağı kayıyor; su kenarında adım atıyor; bir bacak öne doğru uzanmış; saç telleri omuzlara dökülüyor; bezgin ve rehavet dolu bir ifade
 ```
 
 [↑ Kategorilere dön](#catalog)

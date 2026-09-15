@@ -4045,20 +4045,20 @@ Hãy tưởng tượng bạn vô tình làm rơi điện thoại xuống sàn v�
 
 <a name="prompt-2099599567356600688"></a>
 
-### Đang dịch
+### Miêu tả chân dung người phụ nữ phong cách cổ phong trong trang phục the mỏng bước đi bên bờ nước với tà váy trượt xuống.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2099599567356600688)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Miêu tả chân dung người phụ nữ phong cách cổ phong trong trang phục the mỏng bước đi bên bờ nước với tà váy trượt xuống.
 
 <img src="images/2099599567356600688-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Váy dài the mỏng rủ xuống lỏng lẻo; tà váy trượt dọc theo bên chân; bước chân bên mép nước; một chân duỗi về phía trước; tóc xõa ngang vai; nét mặt lười biếng hờ hững
 ```
 
 [↑ Về danh mục](#catalog)

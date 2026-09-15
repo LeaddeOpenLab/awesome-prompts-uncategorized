@@ -4000,20 +4000,20 @@ Immagina di aver fatto cadere accidentalmente il telefono sul pavimento e che ab
 
 <a name="prompt-2099599567356600688"></a>
 
-### Traduzione in corso
+### Descrizione del ritratto di una donna in stile antico con abito di velo leggero che muove un passo vicino all'acqua mentre la gonna scivola.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2099599567356600688)
 
 Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Descrizione del ritratto di una donna in stile antico con abito di velo leggero che muove un passo vicino all'acqua mentre la gonna scivola.
 
 <img src="images/2099599567356600688-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+abito lungo di velo che cade morbido; il lembo della gonna scivola lungo il fianco della gamba; fa un passo vicino all'acqua; una gamba tesa in avanti; ciocche di capelli che ricadono sulle spalle; espressione languida
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -4000,20 +4000,20 @@ Imagine que tu as accidentellement fait tomber ton téléphone par terre et qu'i
 
 <a name="prompt-2099599567356600688"></a>
 
-### Traduction en cours
+### Description du portrait d'une femme de style ancien en robe de gaze vaporeuse faisant un pas au bord de l'eau avec le pan de sa robe qui glisse.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2099599567356600688)
 
 Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Description du portrait d'une femme de style ancien en robe de gaze vaporeuse faisant un pas au bord de l'eau avec le pan de sa robe qui glisse.
 
 <img src="images/2099599567356600688-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+longue robe de gaze tombant souplement; le pan de la robe glisse le long de la jambe; faisant un pas au bord de l'eau; une jambe tendue vers l'avant; mèches de cheveux tombant sur les épaules; expression langoureuse
 ```
 
 [↑ Retour aux catégories](#catalog)

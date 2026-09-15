@@ -4017,20 +4017,20 @@ Imagine que sem querer você deixou o seu celular cair no chão e ele tirou uma 
 
 <a name="prompt-2099599567356600688"></a>
 
-### Tradução em andamento
+### Descrição do retrato de uma mulher em estilo antigo com vestido de gaze leve, dando um passo à beira da água com a saia escorregando.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2099599567356600688)
 
 Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Descrição do retrato de uma mulher em estilo antigo com vestido de gaze leve, dando um passo à beira da água com a saia escorregando.
 
 <img src="images/2099599567356600688-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+vestido longo de gaze caindo solto; a barra da saia escorrega pela lateral da perna; dando um passo à beira da água; uma perna estendida para a frente; mechas de cabelo caindo sobre os ombros; expressão lânguida
 ```
 
 [↑ Voltar às categorias](#catalog)

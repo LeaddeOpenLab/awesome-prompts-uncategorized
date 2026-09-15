@@ -4017,20 +4017,20 @@ Imagina que sem querer deixaste o teu telemóvel cair ao chão e ele tirou uma f
 
 <a name="prompt-2099599567356600688"></a>
 
-### Tradução em curso
+### Descrição do retrato de uma mulher em estilo antigo com vestido de gaze leve, dando um passo junto à água com a saia a deslizar.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2099599567356600688)
 
 Retrato / Selfie · Personagem · Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Descrição do retrato de uma mulher em estilo antigo com vestido de gaze leve, dando um passo junto à água com a saia a deslizar.
 
 <img src="images/2099599567356600688-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+vestido comprido de gaze caindo solto; a bainha da saia desliza pelo lado da perna; a dar um passo junto à água; uma perna estendida para a frente; mechas de cabelo caindo sobre os ombros; expressão lânguida
 ```
 
 [↑ Voltar às categorias](#catalog)

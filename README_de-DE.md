@@ -4000,20 +4000,20 @@ Stell dir vor, du hast versehentlich dein Handy auf den Boden fallen lassen und 
 
 <a name="prompt-2099599567356600688"></a>
 
-### Übersetzung läuft
+### Porträtbeschreibung einer Frau im traditionellen antiken Stil in einem leichten Gazekleid, die am Wasser entlangschreitet, während der Saum herabgleitet.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2099599567356600688)
 
 Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträtbeschreibung einer Frau im traditionellen antiken Stil in einem leichten Gazekleid, die am Wasser entlangschreitet, während der Saum herabgleitet.
 
 <img src="images/2099599567356600688-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+langes Kleid aus feiner Gaze fällt locker herab; der Saum gleitet an der Seite des Beins herab; Schritte am Wasser machend; ein Bein nach vorne gestreckt; Haarsträhnen fallen auf die Schultern; träger, entspannter Gesichtsausdruck
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
