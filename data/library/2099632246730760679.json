@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-15T00:18:01.069Z",
+  "model": "unknown-image",
+  "prompt": "Elif a 23 years old Turkish girl with a slim athletic build, warm olive skin, hazel green eyes, and long dark-brown wavy hair. Keep her face and natural identity exactly the same as the reference, including her face shape, eyebrows, nose, lips, and hairline. Do not over beautify or alter her features. She wears soft, minimal natural makeup and a light, elegant outfit. Elif is standing peacefully in a beautiful garden filled with blooming flowers on a bright morning. Warm sunlight gently illuminates her face and hair, with colorful flowers surrounding her. She has a calm, gentle smile and a natural, relaxed expression. Photorealistic, high detail, realistic skin texture, soft warm morning light, natural human appearance, dreamy but authentic atmosphere.",
+  "promptTranslations": {
+    "en": "Elif a 23 years old Turkish girl with a slim athletic build, warm olive skin, hazel green eyes, and long dark-brown wavy hair. Keep her face and natural identity exactly the same as the reference, including her face shape, eyebrows, nose, lips, and hairline. Do not over beautify or alter her features. She wears soft, minimal natural makeup and a light, elegant outfit. Elif is standing peacefully in a beautiful garden filled with blooming flowers on a bright morning. Warm sunlight gently illuminates her face and hair, with colorful flowers surrounding her. She has a calm, gentle smile and a natural, relaxed expression. Photorealistic, high detail, realistic skin texture, soft warm morning light, natural human appearance, dreamy but authentic atmosphere."
+  },
+  "summaryTranslations": {
+    "en": "Portrait prompt for a 23-year-old Turkish girl in a blooming garden under soft morning sunlight with photorealistic details."
+  },
+  "translationVersion": 2,
+  "summary": "Portrait prompt for a 23-year-old Turkish girl in a blooming garden under soft morning sunlight with photorealistic details.",
+  "summaryEn": "Portrait prompt for a 23-year-old Turkish girl in a blooming garden under soft morning sunlight with photorealistic details.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099632246730760679",
+    "canonicalUrl": "https://x.com/__Libra1/status/2099632246730760679",
+    "author": {
+      "username": "__Libra1",
+      "displayName": "𝚂𝚞𝚏𝚒𝚊 𝚂𝚑𝚊𝚑🍁",
+      "profileUrl": "https://x.com/__Libra1"
+    },
+    "publishedAt": "2026-09-14T22:51:51.000Z",
+    "collectedAt": "2026-09-15T00:15:43.345Z",
+    "language": "en",
+    "originalText": "Silent Power, Organic Elegance, Easy Existence... 🍁\n\n\"AI Generated\" \n\nPrompt:\nElif a 23 years old Turkish girl with a slim athletic build, warm olive skin, hazel green eyes, and long dark-brown wavy hair. Keep her face and natural identity exactly the same as the reference, including her face shape, eyebrows, nose, lips, and hairline. Do not over beautify or alter her features. She wears soft, minimal natural makeup and a light, elegant outfit. Elif is standing peacefully in a beautiful garden filled with blooming flowers on a bright morning. Warm sunlight gently illuminates her face and hair, with colorful flowers surrounding her. She has a calm, gentle smile and a natural, relaxed expression. Photorealistic, high detail, realistic skin texture, soft warm morning light, natural human appearance, dreamy but authentic atmosphere.\n\nFor using the prompt the replace the name of Elif with gender \"male/female\"",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNkZLLWUAAHmHw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNkZLLWUAAHmHw.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNkZK_WoAADeDU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNkZK_WoAADeDU.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 50,
+      "repostCount": 24,
+      "replyCount": 39,
+      "quoteCount": 0,
+      "viewCount": 631
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/__Libra1/status/2099632246730760679",
+  "coverUrl": "https://pbs.twimg.com/media/HSNkZLLWUAAHmHw.jpg",
+  "coverPath": "images/2099632246730760679-1.jpg",
+  "imagePaths": [
+    "images/2099632246730760679-1.jpg",
+    "images/2099632246730760679-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSNkZLLWUAAHmHw",
+    "x-image:/media/HSNkZK_WoAADeDU",
+    "x-post:2099632246730760679"
+  ],
+  "analysis": {
+    "summary": "Portrait prompt for a 23-year-old Turkish girl in a blooming garden under soft morning sunlight with photorealistic details.",
+    "summaryEn": "Portrait prompt for a 23-year-old Turkish girl in a blooming garden under soft morning sunlight with photorealistic details.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match subject characteristics (Turkish female, wavy brown hair, hazel eyes), floral garden setting, and warm morning light."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Elif a 23 years old Turkish girl with a slim athletic build, warm olive skin, hazel green eyes, and long dark-brown wavy hair. Keep her face and natural identity exactly the same as the reference, including her face shape, eyebrows, nose, lips, and hairline. Do not over beautify or alter her features. She wears soft, minimal natural makeup and a light, elegant outfit. Elif is standing peacefully in a beautiful garden filled with blooming flowers on a bright morning. Warm sunlight gently illuminates her face and hair, with colorful flowers surrounding her. She has a calm, gentle smile and a natural, relaxed expression. Photorealistic, high detail, realistic skin texture, soft warm morning light, natural human appearance, dreamy but authentic atmosphere.",
+    "sourceRange": {
+      "start": 78,
+      "end": 840
+    },
+    "translations": {
+      "zh": "埃利夫（Elif），23岁土耳其女孩，苗条健美，温暖橄榄色皮肤，淡褐色眼睛，深棕色波浪长发。保持与参考图完全一致的面部特征与自然特征，勿过度美化。化淡妆，着轻便优雅服饰，清晨静立于繁花盛开的花园中，柔和晨光照亮面部与秀发，神态自然微笑。逼真、高细节、逼真皮肤质感、柔和晨光。",
+      "en": "Elif a 23 years old Turkish girl with a slim athletic build, warm olive skin, hazel green eyes, and long dark-brown wavy hair. Keep her face and natural identity exactly the same as the reference, including her face shape, eyebrows, nose, lips, and hairline. Do not over beautify or alter her features. She wears soft, minimal natural makeup and a light, elegant outfit. Elif is standing peacefully in a beautiful garden filled with blooming flowers on a bright morning. Warm sunlight gently illuminates her face and hair, with colorful flowers surrounding her. She has a calm, gentle smile and a natural, relaxed expression. Photorealistic, high detail, realistic skin texture, soft warm morning light, natural human appearance, dreamy but authentic atmosphere."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "文生图角色肖像",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
