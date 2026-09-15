@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**221** Prompts · Latest addition: **2026-09-15**
+**223** Prompts · Latest addition: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -4899,6 +4899,50 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099618517083369624"></a>
+
+### Realistic portrait of a young man with a burgundy t-shirt and beard.
+
+Author：[@\_lucasvslima](https://x.com/_lucasvslima) · [Source](https://x.com/_lucasvslima/status/2099618517083369624)
+
+Portrait / Selfie · Character · Published
+
+**Summary:** Realistic portrait of a young man with a burgundy t-shirt and beard.
+
+<img src="images/2099618517083369624-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hyper-realistic photographic portrait of a young man, brown skin, short hair and well-defined beard, looking directly at the camera, wearing a burgundy t-shirt.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099638467852439632"></a>
+
+### A single line of dominoes cascading down.
+
+Author：[@HanVu195089](https://x.com/HanVu195089) · [Source](https://x.com/HanVu195089/status/2099638467852439632)
+
+Other · Published
+
+**Summary:** A single line of dominoes cascading down.
+
+<img src="covers/2099638467852439632.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Dominos lined up and in a long single file line , one pushed over leading to a cascading domino effect falling one after another
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099627143735156922"></a>
 
