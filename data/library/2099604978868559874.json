@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-15T00:20:18.494Z",
+  "model": "unknown-image",
+  "prompt": "画像サイズ：「16:9」で下記の要素を盛り込んだアニメ調のイメージを作成してください。\n## 場面\n- 裁判所\n\n## 構成\n- 「裁判バトル」ポスター風\n\n## カメラ\n- ダッチアングル\n\n## 状況\n- アニス\n  - 位置：画面左下\n  - 「アニス」体は正面に向け、左上に向かって、人差し指を向ける(他の指は軽く握り込む)\n  - 「アニス」は、右上の「ラピ」を見ている\n  - 「アニス」吹き出しでコメント：意義あり！（テキスト：赤文字、吹き出し：声を張るイメージ）\n- ラピ\n  - 位置：画面右上\n  - 「ラピ」体は正面に向け、両手を腰の辺りで腕を広げ、手を軽く上に向けている、人差し指と中指を揃え、他の指は自然体にする\n  - 「ラピ」は左下の「アニス」を見下げている\n  - 「ラピ」吹き出しでコメント：指揮官は、アニスの嫁にはならないのだよ！\n- ネオン\n  - 位置：画面左上\n  - 裁判台で、木槌を何度も打っている\n  - 「カンカンカンカン」という擬音を入れる\n  - 「ネオン」吹き出しでコメント：静粛に！\n- 指揮官\n  - 位置：画面右下\n  - 証言台の前で縮こまっている\n\n## 重要\n- 「アニス」「ラピ」が主役であるため、この２人を大きく描いてください\n- 「指揮官」の目は前髪で隠して下さい\n\nPrompt Sample\nCreate an anime-style image incorporating the following elements in a 16:9 aspect ratio.\n\n## Scene\n- Courtroom\n\n## Composition\n- In the style of a \"courtroom battle\" poster\n\n## Camera\n- Dutch angle\n\n## Situation\n- Anis\n  - Position: Bottom left of the frame\n  - Anis is facing forward and pointing her index finger toward the upper left (the other fingers are lightly curled into her palm)\n  - Anis is looking at Rapi in the upper right\n  - Speech bubble for Anis: \"Objection!\" (Text: red lettering; the speech bubble should convey that she is shouting at the top of her voice)\n- Rapi\n  - Position: Upper right of the frame\n  - Rapi is facing forward, spreading both arms outward around waist level with her palms slightly raised; her index and middle fingers are held together, while the other fingers are relaxed naturally\n  - Rapi is looking down at Anis in the lower left\n  - Speech bubble for Rapi: \"The Commander is NOT going to become Anis's wife!\"\n- Neon\n  - Position: Upper left of the frame\n  - At the judge's bench, repeatedly striking the gavel\n  - Include the sound effect \"BANG BANG BANG BANG\"\n  - Speech bubble for Neon: \"Order in the court!\"\n- Commander\n  - Position: Bottom right of the frame\n  - Cowering in front of the witness stand\n\n## Important\n- Anis and Rapi are the main characters, so depict these two characters prominently and at a large scale\n- Hide the Commander's eyes behind his bangs",
+  "promptTranslations": {
+    "en": "Image size: \"16:9\". Please create an anime-style image incorporating the following elements.\n## Scene\n- Courtroom\n\n## Composition\n- \"Courtroom battle\" poster style\n\n## Camera\n- Dutch angle\n\n## Situation\n- Anis\n  - Position: Bottom left of the screen\n  - \"Anis\" body facing forward, pointing her index finger toward the upper left (other fingers lightly curled)\n  - \"Anis\" is looking at \"Rapi\" in the upper right\n  - \"Anis\" speech bubble comment: Objection! (Text: red letters, speech bubble: image of shouting/projecting voice)\n- Rapi\n  - Position: Upper right of the screen\n  - \"Rapi\" body facing forward, spreading both arms around waist level with hands lightly turned upward, index and middle fingers aligned together, other fingers relaxed naturally\n  - \"Rapi\" is looking down at \"Anis\" in the lower left\n  - \"Rapi\" speech bubble comment: The Commander is NOT going to become Anis's wife!\n- Neon\n  - Position: Upper left of the screen\n  - Repeatedly striking the gavel at the judge's bench\n  - Include the onomatopoeia \"BANG BANG BANG BANG\"\n  - \"Neon\" speech bubble comment: Order in the court!\n- Commander\n  - Position: Bottom right of the screen\n  - Cowering in front of the witness stand\n\n## Important\n- Since \"Anis\" and \"Rapi\" are the main characters, please draw these two prominently and large\n- Please hide the \"Commander's\" eyes behind his bangs\n\nPrompt Sample\nCreate an anime-style image incorporating the following elements in a 16:9 aspect ratio.\n\n## Scene\n- Courtroom\n\n## Composition\n- In the style of a \"courtroom battle\" poster\n\n## Camera\n- Dutch angle\n\n## Situation\n- Anis\n  - Position: Bottom left of the frame\n  - Anis is facing forward and pointing her index finger toward the upper left (the other fingers are lightly curled into her palm)\n  - Anis is looking at Rapi in the upper right\n  - Speech bubble for Anis: \"Objection!\" (Text: red lettering; the speech bubble should convey that she is shouting at the top of her voice)\n- Rapi\n  - Position: Upper right of the frame\n  - Rapi is facing forward, spreading both arms outward around waist level with her palms slightly raised; her index and middle fingers are held together, while the other fingers are relaxed naturally\n  - Rapi is looking down at Anis in the lower left\n  - Speech bubble for Rapi: \"The Commander is NOT going to become Anis's wife!\"\n- Neon\n  - Position: Upper left of the frame\n  - At the judge's bench, repeatedly striking the gavel\n  - Include the sound effect \"BANG BANG BANG BANG\"\n  - Speech bubble for Neon: \"Order in the court!\"\n- Commander\n  - Position: Bottom right of the frame\n  - Cowering in front of the witness stand\n\n## Important\n- Anis and Rapi are the main characters, so depict these two characters prominently and at a large scale\n- Hide the Commander's eyes behind his bangs"
+  },
+  "summaryTranslations": {
+    "en": "A prompt for a courtroom-battle poster-style fan art of NIKKE characters, specifying the composition and dialogue for Anis, Rapi, Neon, and the Commander."
+  },
+  "translationVersion": 2,
+  "summary": "法庭争斗海报风格的《NIKKE》角色同人图提示词，指定了阿尼斯、拉皮、尼恩与指挥官的构图与对白。",
+  "summaryEn": "Courtroom battle poster prompt for NIKKE characters, specifying composition and dialogue for Anis, Rapi, Neon, and the Commander.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2067070540440027560",
+      "canonicalUrl": "https://x.com/TachMaru/status/2067070540440027560",
+      "author": {
+        "username": "TachMaru",
+        "displayName": "まるるん＠NIKKE好き",
+        "profileUrl": "https://x.com/TachMaru"
+      },
+      "originalText": "キャラクターシート公開\n\nこのキャラクターシートを使って、ひとつ前のお題に挑戦しよう。\nお題\n「パブリックビューに写るサーモンを獲ろうとして、画面に突っ込むアニス」\n\nChallenge Theme\n\"Anis lunges at the screen, trying to catch a salmon that's visible on the public viewing screen.\"\n\n※：キャラクターシートのフォーマットは、Youtuberの「とうや」さんのものを使わせて頂いています。\n\n#NIKKE、#画像生成"
+    },
+    "id": "2099604978868559874",
+    "canonicalUrl": "https://x.com/TachMaru/status/2099604978868559874",
+    "author": {
+      "username": "TachMaru",
+      "displayName": "まるるん＠NIKKE好き",
+      "profileUrl": "https://x.com/TachMaru"
+    },
+    "publishedAt": "2026-09-14T21:03:30.000Z",
+    "collectedAt": "2026-09-15T00:15:43.345Z",
+    "language": "ja",
+    "originalText": "今日のお題（Today Challenge）\n\nお題\n「法廷で、指揮官の嫁の座を争うラピとアニス」\n\nChallenge Theme\n\"In the courtroom, Rapi and Anis battle for the position of the Commander’s wife.\"\n\n↓プロンプト（prompt）\n－－－－－－－\n画像サイズ：「16:9」で下記の要素を盛り込んだアニメ調のイメージを作成してください。\n## 場面\n- 裁判所\n\n## 構成\n- 「裁判バトル」ポスター風\n\n## カメラ\n- ダッチアングル\n\n## 状況\n- アニス\n  - 位置：画面左下\n  - 「アニス」体は正面に向け、左上に向かって、人差し指を向ける(他の指は軽く握り込む)\n  - 「アニス」は、右上の「ラピ」を見ている\n  - 「アニス」吹き出しでコメント：意義あり！（テキスト：赤文字、吹き出し：声を張るイメージ）\n- ラピ\n  - 位置：画面右上\n  - 「ラピ」体は正面に向け、両手を腰の辺りで腕を広げ、手を軽く上に向けている、人差し指と中指を揃え、他の指は自然体にする\n  - 「ラピ」は左下の「アニス」を見下げている\n  - 「ラピ」吹き出しでコメント：指揮官は、アニスの嫁にはならないのだよ！\n- ネオン\n  - 位置：画面左上\n  - 裁判台で、木槌を何度も打っている\n  - 「カンカンカンカン」という擬音を入れる\n  - 「ネオン」吹き出しでコメント：静粛に！\n- 指揮官\n  - 位置：画面右下\n  - 証言台の前で縮こまっている\n\n## 重要\n- 「アニス」「ラピ」が主役であるため、この２人を大きく描いてください\n- 「指揮官」の目は前髪で隠して下さい\n\nPrompt Sample\nCreate an anime-style image incorporating the following elements in a 16:9 aspect ratio.\n\n## Scene\n- Courtroom\n\n## Composition\n- In the style of a \"courtroom battle\" poster\n\n## Camera\n- Dutch angle\n\n## Situation\n- Anis\n  - Position: Bottom left of the frame\n  - Anis is facing forward and pointing her index finger toward the upper left (the other fingers are lightly curled into her palm)\n  - Anis is looking at Rapi in the upper right\n  - Speech bubble for Anis: \"Objection!\" (Text: red lettering; the speech bubble should convey that she is shouting at the top of her voice)\n- Rapi\n  - Position: Upper right of the frame\n  - Rapi is facing forward, spreading both arms outward around waist level with her palms slightly raised; her index and middle fingers are held together, while the other fingers are relaxed naturally\n  - Rapi is looking down at Anis in the lower left\n  - Speech bubble for Rapi: \"The Commander is NOT going to become Anis's wife!\"\n- Neon\n  - Position: Upper left of the frame\n  - At the judge's bench, repeatedly striking the gavel\n  - Include the sound effect \"BANG BANG BANG BANG\"\n  - Speech bubble for Neon: \"Order in the court!\"\n- Commander\n  - Position: Bottom right of the frame\n  - Cowering in front of the witness stand\n\n## Important\n- Anis and Rapi are the main characters, so depict these two characters prominently and at a large scale\n- Hide the Commander's eyes behind his bangs\n\nキャラクターシート\nhttps://t.co/QS4HmrF6uf",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNLg9-aIAAYu-A.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNLg9-aIAAYu-A.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNLg9ubQAE_Ep_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNLg9ubQAE_Ep_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNLkYlaMAAoj0a.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNLkYlaMAAoj0a.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HK-zmwCaoAA3nqH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HK-zmwCaoAA3nqH.jpg",
+        "sourcePostId": "2067070540440027560"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HK-zmwFbsAANb1d.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HK-zmwFbsAANb1d.jpg",
+        "sourcePostId": "2067070540440027560"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HK-zmwBbEAADqwS.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HK-zmwBbEAADqwS.jpg",
+        "sourcePostId": "2067070540440027560"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 165
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TachMaru/status/2099604978868559874",
+  "coverUrl": "https://pbs.twimg.com/media/HSNLg9-aIAAYu-A.jpg",
+  "coverPath": "images/2099604978868559874-1.jpg",
+  "imagePaths": [
+    "images/2099604978868559874-1.jpg",
+    "images/2099604978868559874-2.jpg",
+    "images/2099604978868559874-3.jpg",
+    "images/2099604978868559874-4.jpg",
+    "images/2099604978868559874-5.jpg",
+    "images/2099604978868559874-6.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSNLg9-aIAAYu-A",
+    "x-image:/media/HSNLg9ubQAE_Ep_",
+    "x-image:/media/HSNLkYlaMAAoj0a",
+    "x-image:/media/HK-zmwCaoAA3nqH",
+    "x-image:/media/HK-zmwFbsAANb1d",
+    "x-image:/media/HK-zmwBbEAADqwS",
+    "x-post:2099604978868559874",
+    "x-post:2067070540440027560"
+  ],
+  "analysis": {
+    "summary": "法庭争斗海报风格的《NIKKE》角色同人图提示词，指定了阿尼斯、拉皮、尼恩与指挥官的构图与对白。",
+    "summaryEn": "Courtroom battle poster prompt for NIKKE characters, specifying composition and dialogue for Anis, Rapi, Neon, and the Commander.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图包含提示词中角色的法庭服装三视图设定（如穿律师装的阿尼斯、检察官风格的拉皮及法官装的尼恩），角色设计与提示词内容高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "画像サイズ：「16:9」で下記の要素を盛り込んだアニメ調のイメージを作成してください。\n## 場面\n- 裁判所\n\n## 構成\n- 「裁判バトル」ポスター風\n\n## カメラ\n- ダッチアングル\n\n## 状況\n- アニス\n  - 位置：画面左下\n  - 「アニス」体は正面に向け、左上に向かって、人差し指を向ける(他の指は軽く握り込む)\n  - 「アニス」は、右上の「ラピ」を見ている\n  - 「アニス」吹き出しでコメント：意義あり！（テキスト：赤文字、吹き出し：声を張るイメージ）\n- ラピ\n  - 位置：画面右上\n  - 「ラピ」体は正面に向け、両手を腰の辺りで腕を広げ、手を軽く上に向けている、人差し指と中指を揃え、他の指は自然体にする\n  - 「ラピ」は左下の「アニス」を見下げている\n  - 「ラピ」吹き出しでコメント：指揮官は、アニスの嫁にはならないのだよ！\n- ネオン\n  - 位置：画面左上\n  - 裁判台で、木槌を何度も打っている\n  - 「カンカンカンカン」という擬音を入れる\n  - 「ネオン」吹き出しでコメント：静粛に！\n- 指揮官\n  - 位置：画面右下\n  - 証言台の前で縮こまっている\n\n## 重要\n- 「アニス」「ラピ」が主役であるため、この２人を大きく描いてください\n- 「指揮官」の目は前髪で隠して下さい\n\nPrompt Sample\nCreate an anime-style image incorporating the following elements in a 16:9 aspect ratio.\n\n## Scene\n- Courtroom\n\n## Composition\n- In the style of a \"courtroom battle\" poster\n\n## Camera\n- Dutch angle\n\n## Situation\n- Anis\n  - Position: Bottom left of the frame\n  - Anis is facing forward and pointing her index finger toward the upper left (the other fingers are lightly curled into her palm)\n  - Anis is looking at Rapi in the upper right\n  - Speech bubble for Anis: \"Objection!\" (Text: red lettering; the speech bubble should convey that she is shouting at the top of her voice)\n- Rapi\n  - Position: Upper right of the frame\n  - Rapi is facing forward, spreading both arms outward around waist level with her palms slightly raised; her index and middle fingers are held together, while the other fingers are relaxed naturally\n  - Rapi is looking down at Anis in the lower left\n  - Speech bubble for Rapi: \"The Commander is NOT going to become Anis's wife!\"\n- Neon\n  - Position: Upper left of the frame\n  - At the judge's bench, repeatedly striking the gavel\n  - Include the sound effect \"BANG BANG BANG BANG\"\n  - Speech bubble for Neon: \"Order in the court!\"\n- Commander\n  - Position: Bottom right of the frame\n  - Cowering in front of the witness stand\n\n## Important\n- Anis and Rapi are the main characters, so depict these two characters prominently and at a large scale\n- Hide the Commander's eyes behind his bangs",
+    "sourceRange": {
+      "start": 174,
+      "end": 2175
+    },
+    "translations": {
+      "zh": "请生成一张16:9比例、包含以下元素的动漫风图像：法庭场景，风格为法庭对决海报，采用荷兰角仰俯拍摄。画面左下方为阿尼斯，正面朝向并向左上方指出食指，看向右上方的拉皮，带有红色字体的“异议！”气泡；右上方为拉皮，双手摊开俯视阿尼斯，附带台词气泡；左上方为裁判席上的尼恩，挥舞法槌并附带“肃静！”气泡；右下方为在证言台前蜷缩的指挥官。重要要求：重点突出拉皮与阿尼斯，指挥官眼睛被刘海遮挡。",
+      "en": "Create an anime-style courtroom battle poster image in 16:9 aspect ratio with a Dutch angle. Lower-left shows Anis pointing her finger up towards Rapi with an 'Objection!' bubble. Upper-right depicts Rapi looking down at Anis with a rebuttal bubble. Upper-left features Neon striking a gavel as judge with an 'Order in the court!' bubble. Lower-right shows the Commander cowering. Highlight Anis and Rapi prominently."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "文生图角色场景海报提示词",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.65,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "NIKKE 角色同人/知识产权衍生"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
