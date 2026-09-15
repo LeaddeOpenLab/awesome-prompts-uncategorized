@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**217** Prompts · Dernier ajout: **2026-09-15**
+**218** Prompts · Dernier ajout: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099632246730760679"></a>
+
+### Traduction en cours
+
+Auteur：[@\_\_Libra1](https://x.com/__Libra1) · [Publication originale](https://x.com/__Libra1/status/2099632246730760679)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099632246730760679-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099632246730760679-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099557132538376542"></a>
 
@@ -3954,20 +3978,20 @@ Traduction en cours
 
 <a name="prompt-2099644412296901092"></a>
 
-### Traduction en cours
+### Prompt demandant une photo accidentelle prise depuis le sol par le téléphone portable montrant la personne elle-même.
 
 Auteur：[@Brunis0nGamer](https://x.com/Brunis0nGamer) · [Publication originale](https://x.com/Brunis0nGamer/status/2099644412296901092)
 
 Portrait / Selfie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt demandant une photo accidentelle prise depuis le sol par le téléphone portable montrant la personne elle-même.
 
 <img src="images/2099644412296901092-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Imagine que tu as accidentellement fait tomber ton téléphone par terre et qu'il a pris une photo de toi. Envoie-moi cette photo, n'explique rien, envoie simplement la photo.
 ```
 
 [↑ Retour aux catégories](#catalog)

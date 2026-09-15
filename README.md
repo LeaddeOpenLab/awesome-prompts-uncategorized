@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**217** Prompts · Latest addition: **2026-09-15**
+**218** Prompts · Latest addition: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099632246730760679"></a>
+
+### Portrait prompt for a 23-year-old Turkish girl in a blooming garden under soft morning sunlight with photorealistic details.
+
+Author：[@\_\_Libra1](https://x.com/__Libra1) · [Source](https://x.com/__Libra1/status/2099632246730760679)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Portrait prompt for a 23-year-old Turkish girl in a blooming garden under soft morning sunlight with photorealistic details.
+
+<img src="images/2099632246730760679-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2099632246730760679-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Elif a 23 years old Turkish girl with a slim athletic build, warm olive skin, hazel green eyes, and long dark-brown wavy hair. Keep her face and natural identity exactly the same as the reference, including her face shape, eyebrows, nose, lips, and hairline. Do not over beautify or alter her features. She wears soft, minimal natural makeup and a light, elegant outfit. Elif is standing peacefully in a beautiful garden filled with blooming flowers on a bright morning. Warm sunlight gently illuminates her face and hair, with colorful flowers surrounding her. She has a calm, gentle smile and a natural, relaxed expression. Photorealistic, high detail, realistic skin texture, soft warm morning light, natural human appearance, dreamy but authentic atmosphere.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099557132538376542"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**217** Prompt · Bổ sung mới nhất: **2026-09-15**
+**218** Prompt · Bổ sung mới nhất: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099632246730760679"></a>
+
+### Đang dịch
+
+Tác giả：[@\_\_Libra1](https://x.com/__Libra1) · [Bài gốc](https://x.com/__Libra1/status/2099632246730760679)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099632246730760679-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2099632246730760679-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099557132538376542"></a>
 
@@ -3999,20 +4023,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2099644412296901092"></a>
 
-### Đang dịch
+### Lời nhắc yêu cầu một bức ảnh vô tình chụp chính mình từ dưới sàn nhà bằng điện thoại di động.
 
 Tác giả：[@Brunis0nGamer](https://x.com/Brunis0nGamer) · [Bài gốc](https://x.com/Brunis0nGamer/status/2099644412296901092)
 
 Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc yêu cầu một bức ảnh vô tình chụp chính mình từ dưới sàn nhà bằng điện thoại di động.
 
 <img src="images/2099644412296901092-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hãy tưởng tượng bạn vô tình làm rơi điện thoại xuống sàn và nó đã chụp một bức ảnh của bạn. Hãy gửi cho tôi bức ảnh đó, không cần giải thích gì cả, chỉ cần gửi ảnh thôi.
 ```
 
 [↑ Về danh mục](#catalog)

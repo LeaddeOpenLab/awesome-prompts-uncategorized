@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**217** Prompts · Última incorporación: **2026-09-15**
+**218** Prompts · Última incorporación: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2099632246730760679"></a>
+
+### Traducción en curso
+
+Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicación original](https://x.com/__Libra1/status/2099632246730760679)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099632246730760679-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2099632246730760679-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099557132538376542"></a>
 
@@ -3954,20 +3978,20 @@ Traducción en curso
 
 <a name="prompt-2099644412296901092"></a>
 
-### Traducción en curso
+### Prompt pidiendo una foto accidental desde el suelo tomada por el celular mostrándose a sí mismo.
 
 Autor：[@Brunis0nGamer](https://x.com/Brunis0nGamer) · [Publicación original](https://x.com/Brunis0nGamer/status/2099644412296901092)
 
 Retrato / Selfie · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt pidiendo una foto accidental desde el suelo tomada por el celular mostrándose a sí mismo.
 
 <img src="images/2099644412296901092-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Imagina que sin querer se te cayó el celular al suelo y tomó una foto tuya. Mándame esa foto, no des explicaciones, solo manda la foto.
 ```
 
 [↑ Volver a categorías](#catalog)

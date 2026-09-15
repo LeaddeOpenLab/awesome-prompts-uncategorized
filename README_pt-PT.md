@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**217** Prompts · Adição mais recente: **2026-09-15**
+**218** Prompts · Adição mais recente: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099632246730760679"></a>
+
+### Tradução em curso
+
+Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicação original](https://x.com/__Libra1/status/2099632246730760679)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2099632246730760679-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099632246730760679-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099557132538376542"></a>
 
@@ -3971,20 +3995,20 @@ Tradução em curso
 
 <a name="prompt-2099644412296901092"></a>
 
-### Tradução em curso
+### Prompt a pedir uma fotografia acidental do chão tirada pelo telemóvel a mostrar a si próprio.
 
 Autor：[@Brunis0nGamer](https://x.com/Brunis0nGamer) · [Publicação original](https://x.com/Brunis0nGamer/status/2099644412296901092)
 
 Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt a pedir uma fotografia acidental do chão tirada pelo telemóvel a mostrar a si próprio.
 
 <img src="images/2099644412296901092-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Imagina que sem querer deixaste o teu telemóvel cair ao chão e ele tirou uma fotografia tua. Envia-me essa fotografia, não expliques, manda apenas a fotografia.
 ```
 
 [↑ Voltar às categorias](#catalog)

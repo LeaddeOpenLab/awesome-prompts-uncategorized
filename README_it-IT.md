@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**217** Prompt · Ultima aggiunta: **2026-09-15**
+**218** Prompt · Ultima aggiunta: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099632246730760679"></a>
+
+### Traduzione in corso
+
+Autore：[@\_\_Libra1](https://x.com/__Libra1) · [Post originale](https://x.com/__Libra1/status/2099632246730760679)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099632246730760679-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099632246730760679-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099557132538376542"></a>
 
@@ -3954,20 +3978,20 @@ Traduzione in corso
 
 <a name="prompt-2099644412296901092"></a>
 
-### Traduzione in corso
+### Prompt che richiede una foto accidentale da terra scattata dal telefono che mostra se stessi.
 
 Autore：[@Brunis0nGamer](https://x.com/Brunis0nGamer) · [Post originale](https://x.com/Brunis0nGamer/status/2099644412296901092)
 
 Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt che richiede una foto accidentale da terra scattata dal telefono che mostra se stessi.
 
 <img src="images/2099644412296901092-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Immagina di aver fatto cadere accidentalmente il telefono sul pavimento e che abbia scattato una tua foto. Inviami quella foto, non spiegare nulla, manda solo la foto.
 ```
 
 [↑ Torna alle categorie](#catalog)

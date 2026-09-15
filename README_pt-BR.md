@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**217** Prompts · Última adição: **2026-09-15**
+**218** Prompts · Última adição: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099632246730760679"></a>
+
+### Tradução em andamento
+
+Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicação original](https://x.com/__Libra1/status/2099632246730760679)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099632246730760679-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2099632246730760679-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099557132538376542"></a>
 
@@ -3971,20 +3995,20 @@ Tradução em andamento
 
 <a name="prompt-2099644412296901092"></a>
 
-### Tradução em andamento
+### Prompt pedindo uma foto acidental do chão tirada pelo celular mostrando a si mesmo.
 
 Autor：[@Brunis0nGamer](https://x.com/Brunis0nGamer) · [Publicação original](https://x.com/Brunis0nGamer/status/2099644412296901092)
 
 Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt pedindo uma foto acidental do chão tirada pelo celular mostrando a si mesmo.
 
 <img src="images/2099644412296901092-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Imagine que sem querer você deixou o seu celular cair no chão e ele tirou uma foto sua. Me mande essa foto, não explique só manda a foto.
 ```
 
 [↑ Voltar às categorias](#catalog)

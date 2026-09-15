@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**217** Prompt · Son eklenen: **2026-09-15**
+**218** Prompt · Son eklenen: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,30 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099632246730760679"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@\_\_Libra1](https://x.com/__Libra1) · [Orijinal gönderi](https://x.com/__Libra1/status/2099632246730760679)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099632246730760679-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2099632246730760679-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099557132538376542"></a>
 
@@ -3971,20 +3995,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2099644412296901092"></a>
 
-### Çeviri sürüyor
+### Yere düşen telefonun yanlışlıkla kendisini çektiği bir fotoğrafı isteyen istem.
 
 Yazar：[@Brunis0nGamer](https://x.com/Brunis0nGamer) · [Orijinal gönderi](https://x.com/Brunis0nGamer/status/2099644412296901092)
 
 Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yere düşen telefonun yanlışlıkla kendisini çektiği bir fotoğrafı isteyen istem.
 
 <img src="images/2099644412296901092-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yanlışlıkla telefonunuzu yere düşürdüğünüzü ve telefonun sizin bir fotoğrafınızı çektiğini hayal edin. Bana o fotoğrafı gönderin, açıklama yapmayın sadece fotoğrafı gönderin.
 ```
 
 [↑ Kategorilere dön](#catalog)
