@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-15T00:21:02.551Z",
+  "model": "grok",
+  "prompt": "Dominos lined up and in a long single file line , one pushed over leading to a cascading domino effect falling one after another",
+  "promptTranslations": {
+    "en": "Dominos lined up and in a long single file line , one pushed over leading to a cascading domino effect falling one after another"
+  },
+  "summaryTranslations": {
+    "en": "A single line of dominoes cascading down."
+  },
+  "translationVersion": 2,
+  "summary": "A single line of dominoes cascading down.",
+  "summaryEn": "A single line of dominoes cascading down.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099638467852439632",
+    "canonicalUrl": "https://x.com/HanVu195089/status/2099638467852439632",
+    "author": {
+      "username": "HanVu195089",
+      "displayName": "Han Vu",
+      "profileUrl": "https://x.com/HanVu195089"
+    },
+    "publishedAt": "2026-09-14T23:16:34.000Z",
+    "collectedAt": "2026-09-15T00:15:43.345Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nDominos lined up and in a long single file line , one pushed over leading to a cascading domino effect falling one after another https://t.co/9t2EbUiGAC",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/HanVu195089/status/2099638467852439632",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg",
+        "analysisUrl": "https://x.com/HanVu195089/status/2099638467852439632"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 7
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/HanVu195089/status/2099638467852439632",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099638454631993345/img/Pb_7NipDBN46oPPX.jpg",
+  "coverPath": "covers/2099638467852439632.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099638454631993345",
+    "x-post:2099638467852439632"
+  ],
+  "analysis": {
+    "summary": "A single line of dominoes cascading down.",
+    "summaryEn": "A single line of dominoes cascading down.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows white dominoes sequentially falling in a line as described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Dominos lined up and in a long single file line , one pushed over leading to a cascading domino effect falling one after another",
+    "sourceRange": {
+      "start": 22,
+      "end": 150
+    },
+    "translations": {
+      "zh": "多米诺骨牌排成一长行，一枚被推倒引发多米诺骨牌效应接连倒下",
+      "en": "Dominos lined up and in a long single file line , one pushed over leading to a cascading domino effect falling one after another"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept-visualisation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
