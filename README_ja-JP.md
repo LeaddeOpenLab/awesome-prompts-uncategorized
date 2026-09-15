@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**215** 件 · 最新の追加: **2026-09-15**
+**216** 件 · 最新の追加: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3401,20 +3401,20 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 
 <a name="prompt-2099626543857209360"></a>
 
-### 翻訳中
+### 「Malört Motors」の大きなネオンサインが掲げられたレンガ造りの建物の前に停められたヴィンテージカー。
 
 作者：[@CatrionaCgx](https://x.com/CatrionaCgx) · [元の投稿](https://x.com/CatrionaCgx/status/2099626543857209360)
 
 レトロ / ヴィンテージ · 車両 · 建築 / インテリア · 配信済み
 
-**概要:** 翻訳中
+**概要:** 「Malört Motors」の大きなネオンサインが掲げられたレンガ造りの建物の前に停められたヴィンテージカー。
 
 <img src="images/2099626543857209360-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+Malört Motorsの画像を作成してください
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -3966,6 +3966,28 @@ FIELD NOTE [番号]
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2099599567356600688"></a>
+
+### 翻訳中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [元の投稿](https://x.com/Hamburgerai/status/2099599567356600688)
+
+ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099599567356600688-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 

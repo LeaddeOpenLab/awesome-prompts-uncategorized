@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**215** Prompt · Son eklenen: **2026-09-15**
+**216** Prompt · Son eklenen: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3401,20 +3401,20 @@ Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](htt
 
 <a name="prompt-2099626543857209360"></a>
 
-### Çeviri sürüyor
+### Büyük bir 'Malört Motors' neon tabelası bulunan tuğla bir binanın önüne park edilmiş klasik araba.
 
 Yazar：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Orijinal gönderi](https://x.com/CatrionaCgx/status/2099626543857209360)
 
 Retro / Vintage · Araç · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Büyük bir 'Malört Motors' neon tabelası bulunan tuğla bir binanın önüne park edilmiş klasik araba.
 
 <img src="images/2099626543857209360-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Malört Motors'un bir görüntüsünü oluşturun
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3968,6 +3968,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2099599567356600688"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2099599567356600688)
+
+Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099599567356600688-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 

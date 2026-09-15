@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**215** Prompt · Ultima aggiunta: **2026-09-15**
+**216** Prompt · Ultima aggiunta: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3384,20 +3384,20 @@ Traduzione in corso
 
 <a name="prompt-2099626543857209360"></a>
 
-### Traduzione in corso
+### Auto d'epoca parcheggiata davanti a un edificio in mattoni con una grande insegna al neon 'Malört Motors'.
 
 Autore：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Post originale](https://x.com/CatrionaCgx/status/2099626543857209360)
 
 Retro / Vintage · Veicolo · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Auto d'epoca parcheggiata davanti a un edificio in mattoni con una grande insegna al neon 'Malört Motors'.
 
 <img src="images/2099626543857209360-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'immagine di Malört Motors
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3951,6 +3951,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2099599567356600688"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2099599567356600688)
+
+Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099599567356600688-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 

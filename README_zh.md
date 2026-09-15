@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**215** 条内容 · 最新收录: **2026-09-15**
+**216** 条内容 · 最新收录: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3402,20 +3402,20 @@ B: 3::black gakuran::, 面向A蹲着, 一只手放在膝盖附近, 另一只手�
 
 <a name="prompt-2099626543857209360"></a>
 
-### 翻译中
+### 一辆老爷车停在砖砌建筑前，建筑上挂着巨大的“Malört Motors”霓虹灯招牌。
 
 作者：[@CatrionaCgx](https://x.com/CatrionaCgx) · [查看 X 原帖](https://x.com/CatrionaCgx/status/2099626543857209360)
 
 复古 / 怀旧 · 车辆 · 建筑 / 室内设计 · 已推流
 
-**概括:** 翻译中
+**概括:** 一辆老爷车停在砖砌建筑前，建筑上挂着巨大的“Malört Motors”霓虹灯招牌。
 
 <img src="images/2099626543857209360-1.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+制作一张 Malört Motors 的图像
 ```
 
 [↑ 返回分类目录](#catalog)
@@ -3967,6 +3967,28 @@ FIELD NOTE [编号]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2099599567356600688"></a>
+
+### 翻译中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099599567356600688)
+
+人像 / 自拍 · 角色 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2099599567356600688-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**215** Prompts · Latest addition: **2026-09-15**
+**216** Prompts · Latest addition: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -4837,6 +4837,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2099599567356600688"></a>
+
+### Portrait description of an ancient-style woman in light gauze stepping by the water with her skirt hem slipping down.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2099599567356600688)
+
+Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Portrait description of an ancient-style woman in light gauze stepping by the water with her skirt hem slipping down.
+
+<img src="images/2099599567356600688-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Light gauze long dress loosely draped; skirt hem sliding down along the side of the leg; stepping forward by the water; one leg reaching forward; hair falling over the shoulders; languid expression
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 

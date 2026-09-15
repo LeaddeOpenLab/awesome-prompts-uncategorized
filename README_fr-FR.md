@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**215** Prompts · Dernier ajout: **2026-09-15**
+**216** Prompts · Dernier ajout: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3384,20 +3384,20 @@ Traduction en cours
 
 <a name="prompt-2099626543857209360"></a>
 
-### Traduction en cours
+### Voiture vintage garée devant un bâtiment en briques orné d'une grande enseigne au néon 'Malört Motors'.
 
 Auteur：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Publication originale](https://x.com/CatrionaCgx/status/2099626543857209360)
 
 Rétro / Vintage · Véhicule · Architecture / Intérieur · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Voiture vintage garée devant un bâtiment en briques orné d'une grande enseigne au néon 'Malört Motors'.
 
 <img src="images/2099626543857209360-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une image de Malört Motors
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3951,6 +3951,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2099599567356600688"></a>
+
+### Traduction en cours
+
+Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2099599567356600688)
+
+Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099599567356600688-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 

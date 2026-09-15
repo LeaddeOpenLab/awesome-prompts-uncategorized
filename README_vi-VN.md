@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**215** Prompt · Bổ sung mới nhất: **2026-09-15**
+**216** Prompt · Bổ sung mới nhất: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3419,20 +3419,20 @@ Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bả
 
 <a name="prompt-2099626543857209360"></a>
 
-### Đang dịch
+### Chiếc xe cổ đậu trước tòa nhà gạch với biển hiệu neon lớn mang tên 'Malört Motors'.
 
 Tác giả：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Bài gốc](https://x.com/CatrionaCgx/status/2099626543857209360)
 
 Cổ điển / Cổ điển · Phương tiện · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chiếc xe cổ đậu trước tòa nhà gạch với biển hiệu neon lớn mang tên 'Malört Motors'.
 
 <img src="images/2099626543857209360-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một hình ảnh về Malört Motors
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3996,6 +3996,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2099599567356600688"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2099599567356600688)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099599567356600688-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 

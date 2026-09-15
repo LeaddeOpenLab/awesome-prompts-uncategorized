@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**215** 筆內容 · 最新收錄: **2026-09-15**
+**216** 筆內容 · 最新收錄: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3402,20 +3402,20 @@ B: 3::black gakuran::, 面向A蹲著, 一隻手放在膝蓋附近, 另一隻手�
 
 <a name="prompt-2099626543857209360"></a>
 
-### 翻譯中
+### 一輛老爺車停在磚造建築前，建築上有著巨大的「Malört Motors」霓虹燈招牌。
 
 作者：[@CatrionaCgx](https://x.com/CatrionaCgx) · [查看 X 原帖](https://x.com/CatrionaCgx/status/2099626543857209360)
 
 復古 / 懷舊 · 車輛 · 建築 / 室內設計 · 已推流
 
-**概括:** 翻譯中
+**概括:** 一輛老爺車停在磚造建築前，建築上有著巨大的「Malört Motors」霓虹燈招牌。
 
 <img src="images/2099626543857209360-1.jpg" alt="圖片 1" width="480" />
 
 **提示詞**
 
 ```text
-翻譯中
+製作一張 Malört Motors 的圖像
 ```
 
 [↑ 返回分類目錄](#catalog)
@@ -3967,6 +3967,28 @@ FIELD NOTE [編號]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2099599567356600688"></a>
+
+### 翻譯中
+
+作者：[@Hamburgerai](https://x.com/Hamburgerai) · [查看 X 原帖](https://x.com/Hamburgerai/status/2099599567356600688)
+
+人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099599567356600688-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 

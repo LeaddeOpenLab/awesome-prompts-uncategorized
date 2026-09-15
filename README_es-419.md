@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**215** Prompts · Última incorporación: **2026-09-15**
+**216** Prompts · Última incorporación: **2026-09-15**
 
 <a name="catalog"></a>
 
@@ -3384,20 +3384,20 @@ Traducción en curso
 
 <a name="prompt-2099626543857209360"></a>
 
-### Traducción en curso
+### Auto clásico estacionado frente a un edificio de ladrillo con un gran letrero de neón que dice 'Malört Motors'.
 
 Autor：[@CatrionaCgx](https://x.com/CatrionaCgx) · [Publicación original](https://x.com/CatrionaCgx/status/2099626543857209360)
 
 Retro / Vintage · Vehículo · Arquitectura / Interiores · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Auto clásico estacionado frente a un edificio de ladrillo con un gran letrero de neón que dice 'Malört Motors'.
 
 <img src="images/2099626543857209360-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una imagen de Malört Motors
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3951,6 +3951,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2099599567356600688"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2099599567356600688)
+
+Retrato / Selfie · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099599567356600688-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099588359945408736"></a>
 
