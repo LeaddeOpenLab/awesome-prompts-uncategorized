@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-15T00:18:56.922Z",
+  "model": "unknown-image",
+  "prompt": "极端 Low-Key 黑场人像摄影，成年经典女角色 × 神兽动物，竖版构图，人物以极小比例置于下半部，上方与四周保留巨量纯黑负空间。角色几乎完全沉入黑暗，只保留一丝极窄冷白硬质侧光，轻微切出半侧脸缘、鼻梁边线、唇线、几缕发丝、肩线、腰线或髋线中的少数局部，其余全部融入纯黑。不要完整面部，不要完整身体，只通过发型、发饰、角、兽耳或标志性剪影辨识角色。神兽动物仅作为黑暗中的微弱轮廓陪体，只允许眼部微光、角尖、耳尖、喙、脊线或鬃毛外缘出现极少量高光。高反差 Chiaroscuro × Tenebrism，极低曝光，黑位深压，高光克制，低色彩信息，无环境叙事，整体匿名、冷峻、危险、神秘，像地下时装摄影。右下角极小“voxCAT”签名。n=5。",
+  "promptTranslations": {
+    "en": "Extreme Low-Key black-field portrait photography, adult classic female character × mythical beast animal, vertical composition, figure positioned at an extremely small scale in the lower half, leaving a massive amount of pure black negative space above and all around. The character is almost completely submerged in darkness, retaining only a sliver of ultra-narrow cold white hard sidelight subtly carving out a few sparse fragments: half the face edge, outline of the bridge of the nose, lip line, a few strands of hair, shoulder line, waistline, or hip curve, with the rest entirely melting into pure black. No full face, no full body; identify the character solely through hairstyle, hair ornaments, horns, animal ears, or iconic silhouette. The mythical beast animal serves only as a faint silhouette companion in the darkness, permitting only minimal highlights on eye glints, horn tips, ear tips, beak, spine line, or outer edge of the mane. High-contrast Chiaroscuro × Tenebrism, extremely low exposure, deeply crushed blacks, restrained highlights, minimal color information, no environmental narrative, overall anonymous, cold, dangerous, mysterious, like underground fashion photography. Very small \"voxCAT\" signature in the bottom right corner. n=5."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for low-light silhouette photography of a female character and mythical beast in an ultra-dark black field with massive negative space."
+  },
+  "translationVersion": 2,
+  "summary": "极暗黑场、大面积负空间的女角色与神兽低光轮廓摄影提示词。",
+  "summaryEn": "Prompt for extreme low-key dark portraits with mythical beasts and heavy negative space.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2014671895657074893",
+      "canonicalUrl": "https://x.com/VoxcatAI/status/2014671895657074893",
+      "author": {
+        "username": "VoxcatAI",
+        "displayName": "VoxCat",
+        "profileUrl": "https://x.com/VoxcatAI"
+      },
+      "originalText": "📐 AI生图构图篇：负空间压迫 (Negative Space Compression)\n\n为什么有的极简风格图让人感到\"窒息\"或\"震撼\"？ 因为它们不仅仅是\"空\"，而是利用巨大的空白制造了视觉重量。\n\n【核心原理】\n\n这种构图的本质是\"比例悬殊\"：\n\n极小主体 (Small Subject)：主体被压缩在画面的边缘（通常是下/左/右侧），占比极小。\n巨大留白 (Massive Void)：70%-85% 的画面被纯色、纹理或极简背景占据。\n情绪传达：压迫感：巨大的物体/空间压在小主体上方（如巨物恐惧）。\n\n孤独感：主体被无尽的空虚包围（如雪原独行）。\n静谧感：大面积的干净背景带来禅意（如极简摄影）。\n\n【通用公式】\nExtreme wide shot, minimalist composition, negative space.\n[主体] is small, positioned at the [底部/角落] of the frame.\nMassive [背景描述] dominating 80% of the image.\nSense of [isolation/scale/grandeur].\n--ar 3:4 --stylize 250\n\n【实战案例】\n案例 1：情绪人像 (The Solitude)\n适用：表现人物的孤独、内省或被环境吞没的感觉。\n\n**Subject**: A tiny silhouette of a lonely traveler walking, positioned at the very bottom edge.\n\n**Negative Space**: Massive, overwhelming grey foggy sky occupying the top 90% of the frame.\n\n**Vibe**: Minimalism, isolation, solitude, high contrast between dark subject and pale void.\n--ar 9:16\n\n案例 2：巨物科幻 (The Scale)\n适用：表现人类在科技或未知面前的渺小，巨物恐惧症风格。\n\n**Subject**: A small astronaut standing on a cliff edge, bottom left corner.\n\n**Negative Space**: A gigantic, monolithic black geometric structure floating above, filling the entire upper frame, blocking the sun.\n\n**Vibe**: Megalophobia, oppressive scale, sci-fi mystery, brutalist architecture.\n--ar 3:4\n\n案例 3：静谧自然 (The Zen)\n适用：极简主义风景，留白即是画。\n\n**Subject**: A single red plum blossom branch stretching in from the right edge.\n\n**Negative Space**: Vast, clean white snow background, absolutely minimalist.\n\n**Vibe**: Zen, tranquility, Ma (Japanese concept of negative space), soft lighting.\n--ar 16:9\n\n【避坑指南】\n\n❌ 主体别切断：虽然贴边，但要保证肢体/结构的完整性，特别是人像，不要莫名其妙切掉半个头。\n❌ 留白要\"干净\"：负空间如果充满了杂乱的纹理，那就不是\"压迫\"而是\"乱\"了。背景必须足够纯净或有规律。\n❌ 比例要狠：主体如果不够小（比如占了 50%），冲击力就没了。要敢于把主体压到 10%-20%。\n\n#AIart #摄影构图 #极简主义"
+    },
+    "id": "2099605356116951296",
+    "canonicalUrl": "https://x.com/VoxcatAI/status/2099605356116951296",
+    "author": {
+      "username": "VoxcatAI",
+      "displayName": "VoxCat",
+      "profileUrl": "https://x.com/VoxcatAI"
+    },
+    "publishedAt": "2026-09-14T21:05:00.000Z",
+    "collectedAt": "2026-09-15T00:15:43.345Z",
+    "language": "zh",
+    "originalText": "极暗黑场人像这套效果很适合做“角色 × 神兽”的匿名化视觉。\n\nPrompt：\n极端 Low-Key 黑场人像摄影，成年经典女角色 × 神兽动物，竖版构图，人物以极小比例置于下半部，上方与四周保留巨量纯黑负空间。角色几乎完全沉入黑暗，只保留一丝极窄冷白硬质侧光，轻微切出半侧脸缘、鼻梁边线、唇线、几缕发丝、肩线、腰线或髋线中的少数局部，其余全部融入纯黑。不要完整面部，不要完整身体，只通过发型、发饰、角、兽耳或标志性剪影辨识角色。神兽动物仅作为黑暗中的微弱轮廓陪体，只允许眼部微光、角尖、耳尖、喙、脊线或鬃毛外缘出现极少量高光。高反差 Chiaroscuro × Tenebrism，极低曝光，黑位深压，高光克制，低色彩信息，无环境叙事，整体匿名、冷峻、危险、神秘，像地下时装摄影。右下角极小“voxCAT”签名。n=5。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSMjqWHbAAEr7re.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSMjqWHbAAEr7re.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSMjqWNaEAAba_Z.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSMjqWNaEAAba_Z.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSMjqTBakAA_yA_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSMjqTBakAA_yA_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSMjqTCbYAAXxj7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSMjqTCbYAAXxj7.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/G_WNS9WbAAILORk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/G_WNS9WbAAILORk.jpg",
+        "sourcePostId": "2014671895657074893"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/G_WNS9UawAA8Sml.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/G_WNS9UawAA8Sml.jpg",
+        "sourcePostId": "2014671895657074893"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/G_WNS93WQAAaYb_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/G_WNS93WQAAaYb_.jpg",
+        "sourcePostId": "2014671895657074893"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/G_WNS9SbAAY1JDi.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/G_WNS9SbAAY1JDi.jpg",
+        "sourcePostId": "2014671895657074893"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 550
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/VoxcatAI/status/2099605356116951296",
+  "coverUrl": "https://pbs.twimg.com/media/HSMjqWHbAAEr7re.jpg",
+  "coverPath": "images/2099605356116951296-1.jpg",
+  "imagePaths": [
+    "images/2099605356116951296-1.jpg",
+    "images/2099605356116951296-2.jpg",
+    "images/2099605356116951296-3.jpg",
+    "images/2099605356116951296-4.jpg",
+    "images/2099605356116951296-5.jpg",
+    "images/2099605356116951296-6.jpg",
+    "images/2099605356116951296-7.jpg",
+    "images/2099605356116951296-8.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSMjqWHbAAEr7re",
+    "x-image:/media/HSMjqWNaEAAba_Z",
+    "x-image:/media/HSMjqTBakAA_yA_",
+    "x-image:/media/HSMjqTCbYAAXxj7",
+    "x-image:/media/G_WNS9WbAAILORk",
+    "x-image:/media/G_WNS9UawAA8Sml",
+    "x-image:/media/G_WNS93WQAAaYb_",
+    "x-image:/media/G_WNS9SbAAY1JDi",
+    "x-post:2099605356116951296",
+    "x-post:2014671895657074893"
+  ],
+  "analysis": {
+    "summary": "极暗黑场、大面积负空间的女角色与神兽低光轮廓摄影提示词。",
+    "summaryEn": "Prompt for extreme low-key dark portraits with mythical beasts and heavy negative space.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图像与提示词高度契合，均呈现下半部极小比例的人物及神兽剪影、冷白侧光轮廓与纯黑负空间。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "极端 Low-Key 黑场人像摄影，成年经典女角色 × 神兽动物，竖版构图，人物以极小比例置于下半部，上方与四周保留巨量纯黑负空间。角色几乎完全沉入黑暗，只保留一丝极窄冷白硬质侧光，轻微切出半侧脸缘、鼻梁边线、唇线、几缕发丝、肩线、腰线或髋线中的少数局部，其余全部融入纯黑。不要完整面部，不要完整身体，只通过发型、发饰、角、兽耳或标志性剪影辨识角色。神兽动物仅作为黑暗中的微弱轮廓陪体，只允许眼部微光、角尖、耳尖、喙、脊线或鬃毛外缘出现极少量高光。高反差 Chiaroscuro × Tenebrism，极低曝光，黑位深压，高光克制，低色彩信息，无环境叙事，整体匿名、冷峻、危险、神秘，像地下时装摄影。右下角极小“voxCAT”签名。n=5。",
+    "sourceRange": {
+      "start": 40,
+      "end": 361
+    },
+    "translations": {
+      "zh": "极端 Low-Key 黑场人像摄影，成年经典女角色 × 神兽动物，竖版构图，人物以极小比例置于下半部，上方与四周保留巨量纯黑负空间。角色几乎完全沉入黑暗，只保留一丝极窄冷白硬质侧光，轻微切出半侧脸缘、鼻梁边线、唇线、几缕发丝、肩线、腰线或髋线中的少数局部，其余全部融入纯黑。不要完整面部，不要完整身体，只通过发型、发饰、角、兽耳或标志性剪影辨识角色。神兽动物仅作为黑暗中的微弱轮廓陪体，只允许眼部微光、角尖、耳尖、喙、脊线或鬃毛外缘出现极少量高光。高反差 Chiaroscuro × Tenebrism，极低曝光，黑位深压，高光克制，低色彩信息，无环境叙事，整体匿名、冷峻、危险、神秘，像地下时装摄影。右下角极小“voxCAT”签名。n=5。",
+      "en": "Extreme low-key dark portrait photography, adult iconic female character × mythical beast, vertical composition. Character in tiny proportion at bottom, with vast pure black negative space. Silhouette edged with narrow cold white hard rim light, highlighting minimal facial or body contours. Mysterious, anonymous, high contrast chiaroscuro, minimal highlights, underground fashion style."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "暗黑极简人像与神兽构图创作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
