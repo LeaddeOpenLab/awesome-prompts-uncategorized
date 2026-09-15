@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-15T00:17:20.629Z",
+  "model": "grok",
+  "prompt": "Imagine que sem querer você deixou o seu celular cair no chão e ele tirou uma foto sua. Me mande essa foto, não explique só manda a foto.",
+  "promptTranslations": {
+    "en": "Imagine that you accidentally dropped your cell phone on the floor and it took a picture of you. Send me that photo, don't explain just send the photo."
+  },
+  "summaryTranslations": {
+    "en": "Prompt asking for an accidental photo from the floor taken by the cell phone showing oneself."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt pedindo uma foto acidental do chão tirada pelo celular mostrando a si mesmo.",
+  "summaryEn": "Prompt asking for an accidental ground-level selfie photo taken by a dropped phone.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2099644412296901092",
+    "canonicalUrl": "https://x.com/Brunis0nGamer/status/2099644412296901092",
+    "author": {
+      "username": "Brunis0nGamer",
+      "displayName": "Brunis0n",
+      "profileUrl": "https://x.com/Brunis0nGamer"
+    },
+    "publishedAt": "2026-09-14T23:40:12.000Z",
+    "collectedAt": "2026-09-15T00:15:43.345Z",
+    "language": "pt",
+    "originalText": "Pedi pro grok gerar usando esse prompt: \"Imagine que sem querer você deixou o seu celular cair no chão e ele tirou uma foto sua. Me mande essa foto, não explique só manda a foto.\"\n\nA foto de baixo foi a resposta simples, quando pedi pra pensar mais profundo ele entrou em loop igual ao chat de texto e tive que interromper se nao ele ia gastar tds os tokens.\n\nhttps://t.co/n22xX6nWM8",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSNvdnXWQAAWRJg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSNvdnXWQAAWRJg.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "custom:pt:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Brunis0nGamer/status/2099644412296901092",
+  "coverUrl": "https://pbs.twimg.com/media/HSNvdnXWQAAWRJg.jpg",
+  "coverPath": "images/2099644412296901092-1.jpg",
+  "imagePaths": [
+    "images/2099644412296901092-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSNvdnXWQAAWRJg",
+    "x-post:2099644412296901092"
+  ],
+  "analysis": {
+    "summary": "Prompt pedindo uma foto acidental do chão tirada pelo celular mostrando a si mesmo.",
+    "summaryEn": "Prompt asking for an accidental ground-level selfie photo taken by a dropped phone.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "A imagem gerada mostra um ponto de vista ao nível do chão apontando para uma figura encapuzada, exatamente como o prompt instrui."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Imagine que sem querer você deixou o seu celular cair no chão e ele tirou uma foto sua. Me mande essa foto, não explique só manda a foto.",
+    "sourceRange": {
+      "start": 41,
+      "end": 178
+    },
+    "translations": {
+      "zh": "想象一下，你不小心把手机掉在了地上，它拍下了一张你的照片。把那张照片发给我，不要解释，只发照片。",
+      "en": "Imagine you accidentally dropped your phone on the floor and it took a photo of you. Send me that photo, do not explain just send the photo."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
