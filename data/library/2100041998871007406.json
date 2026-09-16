@@ -1,0 +1,142 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T02:27:15.940Z",
+  "model": "unknown-image",
+  "prompt": "道路脇で「金沢八景まで」のボードを持ってヒッチハイクしている。その横を車が通り過ぎている。車は明確にリアの画像。禁止：車のフロント画像",
+  "promptTranslations": {
+    "en": "Hitchhiking on the side of the road holding a sign that says \"金沢八景まで\". A car is driving past beside them. The car is clearly a rear view. Prohibited: front view of the car."
+  },
+  "summaryTranslations": {
+    "en": "A prompt depicting a woman hitchhiking on the side of the road holding a \"金沢八景まで\" sign, and the rear of a passing car."
+  },
+  "translationVersion": 2,
+  "summary": "道路脇で「金沢八景まで」のボードを掲げてヒッチハイクする女性と、通り過ぎる車のリアを描くプロンプト。",
+  "summaryEn": "A prompt depicting a woman hitchhiking roadside with a \"To Kanazawa-hakkei\" sign as a car drives past from behind.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099861278751850658",
+      "canonicalUrl": "https://x.com/jins2001jp/status/2099861278751850658",
+      "author": {
+        "username": "jins2001jp",
+        "displayName": "千田結穂（せんだゆいほ）",
+        "profileUrl": "https://x.com/jins2001jp"
+      },
+      "originalText": "ヒッチハイク女子を作ってみたけど、逆走多くて、ChatGPTに交通ルールを理解させるのは難しいねぇ(笑) おやすみなさい！ https://t.co/jvrRC5hxhv"
+    },
+    "id": "2100041998871007406",
+    "canonicalUrl": "https://x.com/55hawks/status/2100041998871007406",
+    "author": {
+      "username": "55hawks",
+      "displayName": "ストップ!!さとしくん！",
+      "profileUrl": "https://x.com/55hawks"
+    },
+    "publishedAt": "2026-09-16T02:00:04.000Z",
+    "collectedAt": "2026-09-16T02:19:39.795Z",
+    "language": "ja",
+    "originalText": "行けた！\n\n#AIart #AI美女\nPrompt:\n道路脇で「金沢八景まで」のボードを持ってヒッチハイクしている。その横を車が通り過ぎている。車は明確にリアの画像。禁止：車のフロント画像 https://t.co/kITaAoYYEg",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSTZBu_b0AAu9c_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSTZBu_b0AAu9c_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSQ0HNDakAAgh1K.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSQ0HNDakAAgh1K.jpg",
+        "sourcePostId": "2099861278751850658"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSQ0HVeaYAAwxl4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSQ0HVeaYAAwxl4.jpg",
+        "sourcePostId": "2099861278751850658"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSQ0HP5agAE5GVJ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSQ0HP5agAE5GVJ.jpg",
+        "sourcePostId": "2099861278751850658"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSQ0HP2acAA_a_2.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSQ0HP2acAA_a_2.jpg",
+        "sourcePostId": "2099861278751850658"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 122
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/55hawks/status/2100041998871007406",
+  "coverUrl": "https://pbs.twimg.com/media/HSTZBu_b0AAu9c_.jpg",
+  "coverPath": "images/2100041998871007406-1.jpg",
+  "imagePaths": [
+    "images/2100041998871007406-1.jpg",
+    "images/2100041998871007406-2.jpg",
+    "images/2100041998871007406-3.jpg",
+    "images/2100041998871007406-4.jpg",
+    "images/2100041998871007406-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSTZBu_b0AAu9c_",
+    "x-image:/media/HSQ0HNDakAAgh1K",
+    "x-image:/media/HSQ0HVeaYAAwxl4",
+    "x-image:/media/HSQ0HP5agAE5GVJ",
+    "x-image:/media/HSQ0HP2acAA_a_2",
+    "x-post:2100041998871007406",
+    "x-post:2099861278751850658"
+  ],
+  "analysis": {
+    "summary": "道路脇で「金沢八景まで」のボードを掲げてヒッチハイクする女性と、通り過ぎる車のリアを描くプロンプト。",
+    "summaryEn": "A prompt depicting a woman hitchhiking roadside with a \"To Kanazawa-hakkei\" sign as a car drives past from behind.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付画像の1枚目において、女性が「金沢八景まで」と書かれたボードを持って路肩でヒッチハイクをしており、背後に走り去る車のリアが描かれてプロンプトと完全に合致している。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "道路脇で「金沢八景まで」のボードを持ってヒッチハイクしている。その横を車が通り過ぎている。車は明確にリアの画像。禁止：車のフロント画像",
+    "sourceRange": {
+      "start": 27,
+      "end": 94
+    },
+    "translations": {
+      "zh": "在路边拿着写着“到金泽八景”的牌子搭便车。旁边有一辆汽车驶过。车辆明确为车尾画面。禁止：车辆正面的画面",
+      "en": "Hitchhiking on the roadside holding a sign saying \"To Kanazawa-hakkei\". A car is passing by. The car is clearly shown from the rear. Prohibited: Front view of the car"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "写真生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
