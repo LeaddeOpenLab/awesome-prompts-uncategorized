@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**226** Prompts · Latest addition: **2026-09-16**
+**227** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,68 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099991139109736870"></a>
+
+### Realistic lifestyle photography prompt featuring an adult Japanese woman in mint-green lingerie selecting berries while enjoying breakfast on a seaside hotel terrace.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099991139109736870)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic lifestyle photography prompt featuring an adult Japanese woman in mint-green lingerie selecting berries while enjoying breakfast on a seaside hotel terrace.
+
+<img src="images/2099991139109736870-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Seaside Hotel Terrace | Mint Green & Morning Berries🌟
+
+[Subject / Art Style]
+A photorealistic lifestyle fashion photograph capturing a quiet holiday morning at a seaside hotel. An unambiguously adult Japanese woman is depicted enjoying breakfast on a private terrace, captured in the moment she picks a berry from a small white dish. Rather than an overly staged commercial advertisement, it preserves the natural feel of a candid shot taken while traveling, presenting an elegant photographic expression where the person, attire, breakfast, and seascape harmonize beautifully.
+Within its freshness, it evokes a mature, playful charm, strikingly showcasing the color contrast between mint green, white ceramics, vibrant red berries, and the blue ocean.
+
+[Location / Background / Worldview]
+A private terrace of a high-end seaside hotel. Next to the subject sits a small round breakfast table, tastefully arranged with white ceramic plates, a coffee cup, a small assortment of berries, and croissants. The chair is made of natural rattan, paired with an ecru-colored seat cushion.
+In the background, beyond glass or a low railing, extends a calm blue sea, with a softly blurred coastline and small distant buildings in pale hues. While sufficient background detail is visible, it never overpowers the subject, creating a natural depth that seamlessly connects the foreground breakfast, the mid-ground figure, and the distant ocean.
+
+[Season / Time / Weather]
+A sunny morning from early summer to midsummer. The time is between 7:00 AM and 9:00 AM; the sunlight is not yet overly harsh, and a hint of cool freshness lingers in the air. A gentle sea breeze blows, subtly stirring stray strands of hair and terrace plants.
+The sky is a bright, pale blue with few large clouds. The morning sun glints as tiny specks of light across the ocean's surface, conveying the fresh, pristine ambiance of a resort morning.
+
+[Subject Settings]
+An unambiguously adult Japanese woman, around 25 years old. She has soft, well-balanced facial features, dark and slightly large expressive eyes, natural eyebrows, a slender and elegant nasal bridge, and healthy, soft, naturally pink lips. Her skin has a bright ochre undertone with realistic texture, preserving visible pores and delicate shading. Her hair is dark brown, naturally wavy, reaching about shoulder length, loosely gathered up with soft wisps framing her face.
+Her shoulders and limbs have a delicate appearance, while her slender waist and feminine curves create a naturally harmonious, tastefully glamorous physique. Her bust is noticeably large and generously voluminous, but rendered without stiff, spherical shapes or extreme push-up effects, following the soft roundness and dimensional drape dictated by gravity and a seated posture. Her hips also feature a natural roundness well-proportioned to her overall body.
+
+[Attire / Accessories]
+A sophisticated matching bra and panties set in pale mint green. The cups are adorned with pale cream floral embroidery and delicate lace layering, finished with fine scalloped edges along the borders. The fabric has soft elasticity and a subtle satin sheen, possessing an exquisite texture that avoids excessive glossiness under morning light.
+Tailored with realistic sizing and structure to fit a generous bust, emphasizing a natural fit where fabric and cups are neither unnaturally strained nor uncomfortably digging into the skin. Accessories are kept minimal, limited to small stud earrings, with no ostentatious decorations around the neck or hands.
+
+[Pose / Action / Gaze]
+Seated somewhat forward on the rattan chair, her upper body is almost facing the camera while angling ever so slightly toward the breakfast table. Her lower back and spine are naturally upright without an excessive arch. Her legs are not tightly crossed, but positioned casually with one knee slightly offset from the other in a relaxed seated pose, leaning her body weight slightly behind the center of the chair.
+One hand naturally reaches toward the breakfast table, mid-motion of picking up a berry from the small white plate. The other hand rests lightly on the chair cushion or edge, naturally supporting her frame. Her arms do not obscure the front of her attire, keeping the lines of her décolletage and waist naturally visible. Her gaze is not directed at the camera, but across the table toward a companion.
+
+[Expression / Emotion]
+A natural smile blending innocence with a touch of mischievousness. Her mouth is gently closed or parted in a very soft, subtle smile, with cheeks lightly raised. Her eyes carry a lively, amused expression, and her brows remain natural and tension-free.
+As she selects a berry, her gaze toward the person opposite her has a playful, plotting look, as if playfully wondering, "Shall I pick this one?" It is neither a forced grin nor an exaggerated expression, but conveys the genuine, unguarded loveliness shown during breakfast with someone close.
+
+[Composition / Camera]
+A 4:5 vertical composition optimized for X (Twitter) posting. Captures the subject from the crown of her head down to mid-thigh, leaving slight negative space above her head. The subject is placed slightly off-center, allowing the breakfast table and the ocean view on the opposite side to open up, creating a sense of spaciousness typical of a terrace.
+The camera angle is at a natural level, between the seated subject's chest and eye height, positioned at a medium distance that is neither too close nor too far. Shot with a natural focal length equivalent to a standard to moderate telephoto lens (50–70mm), avoiding wide-angle distortions that exaggerate proportions. The background is softly blurred just enough so that the sea and terrace remain instantly recognizable in terms of depth of field.
+
+[Light / Color / Texture / Atmosphere]
+The subject is placed under a terrace awning or parasol, using soft, natural morning light curving around from the ocean side as the main light source rather than direct, harsh sunlight. Bright diffused light illuminates her face and décolletage, while gentle bounce light from the terrace floor and white table softens the opposite side. Shadows are thin and delicate, preserving the fine glints of morning sunlight on the sea.
+The skin is not overly smoothed, capturing natural warmth, fine pores, and subtle gradations of shadow. Individual hair strands and flyaways, the tactile depth of lace embroidery, the dry fiber texture of the rattan, the understated sheen of porcelain, and the juicy plumpness of fresh berries are all articulated. Unified in a fresh, airy color palette anchored by mint, cream, white, berry red, and oceanic blue.
+
+[Quality / Exclusions]
+Emphasizes high resolution and a natural depiction of human anatomy, light, perspective, and materials as if photographed with a real camera. Depict clearly as an adult woman; do not render with an underage, childish appearance or physique.
+Avoid extra limbs or fingers, missing fingers, fused fingers, unnatural joints, swapped hands, twisted torsos, clothing clipping into the body, broken fabric meshes, unnatural pinching or gaping, unintended exposure, extreme wide-angle distortion, warped background elements, and excessive skin-smoothing filters. Maintain a generous and natural bust volume while strictly avoiding unnatural gigantism, rigid spherical shapes, exaggerated push-ups, or anti-gravity contours. No text, logos, watermarks, or UI overlays within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100017947976851633"></a>
 
