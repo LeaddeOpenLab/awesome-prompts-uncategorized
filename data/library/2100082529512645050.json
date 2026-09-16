@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T05:30:39.088Z",
+  "model": "unknown-video",
+  "prompt": "A lone man walks through a rain-soaked futuristic city at night, surrounded by towering neon skyscrapers, glowing holographic billboards, and drifting mist. The camera slowly tracks backward as he walks toward the lens, his coat moving naturally in the wind. Reflections of neon lights shimmer across the wet streets. Suddenly, the entire city briefly loses power, leaving only a mysterious blue light behind him.\n\nUltra-cinematic, photorealistic, dramatic atmosphere, realistic rain and water physics, volumetric fog, detailed environment, natural human movement, shallow depth of field, anamorphic lens, subtle lens flare, high contrast, realistic skin texture, dynamic camera movement, Hollywood sci-fi aesthetic, 4K, 24fps.",
+  "promptTranslations": {
+    "en": "A lone man walks through a rain-soaked futuristic city at night, surrounded by towering neon skyscrapers, glowing holographic billboards, and drifting mist. The camera slowly tracks backward as he walks toward the lens, his coat moving naturally in the wind. Reflections of neon lights shimmer across the wet streets. Suddenly, the entire city briefly loses power, leaving only a mysterious blue light behind him.\n\nUltra-cinematic, photorealistic, dramatic atmosphere, realistic rain and water physics, volumetric fog, detailed environment, natural human movement, shallow depth of field, anamorphic lens, subtle lens flare, high contrast, realistic skin texture, dynamic camera movement, Hollywood sci-fi aesthetic, 4K, 24fps."
+  },
+  "summaryTranslations": {
+    "en": "A lone man walking through a rainy neon city at night before a sudden blackout leaves only blue backlighting."
+  },
+  "translationVersion": 2,
+  "summary": "A lone man walking through a rainy neon city at night before a sudden blackout leaves only blue backlighting.",
+  "summaryEn": "A lone man walking through a rainy neon city at night before a sudden blackout leaves only blue backlighting.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100082529512645050",
+    "canonicalUrl": "https://x.com/MRB_AI24/status/2100082529512645050",
+    "author": {
+      "username": "MRB_AI24",
+      "displayName": "Fiz",
+      "profileUrl": "https://x.com/MRB_AI24"
+    },
+    "publishedAt": "2026-09-16T04:41:07.000Z",
+    "collectedAt": "2026-09-16T05:18:53.564Z",
+    "language": "en",
+    "originalText": "Cinematic prompt:\nA lone man walks through a rain-soaked futuristic city at night, surrounded by towering neon skyscrapers, glowing holographic billboards, and drifting mist. The camera slowly tracks backward as he walks toward the lens, his coat moving naturally in the wind. Reflections of neon lights shimmer across the wet streets. Suddenly, the entire city briefly loses power, leaving only a mysterious blue light behind him.\n\nUltra-cinematic, photorealistic, dramatic atmosphere, realistic rain and water physics, volumetric fog, detailed environment, natural human movement, shallow depth of field, anamorphic lens, subtle lens flare, high contrast, realistic skin texture, dynamic camera movement, Hollywood sci-fi aesthetic, 4K, 24fps.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MRB_AI24/status/2100082529512645050",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100082509858144256/img/jc1cYGonvoZqmroi.jpg",
+        "analysisUrl": "https://x.com/MRB_AI24/status/2100082529512645050"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 8,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 361
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MRB_AI24/status/2100082529512645050",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100082509858144256/img/jc1cYGonvoZqmroi.jpg",
+  "coverPath": "covers/2100082529512645050.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100082509858144256",
+    "x-post:2100082529512645050"
+  ],
+  "analysis": {
+    "summary": "A lone man walking through a rainy neon city at night before a sudden blackout leaves only blue backlighting.",
+    "summaryEn": "A lone man walking through a rainy neon city at night before a sudden blackout leaves only blue backlighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a man walking forward in a rainy neon city, followed by a blackout where blue light glows behind him."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A lone man walks through a rain-soaked futuristic city at night, surrounded by towering neon skyscrapers, glowing holographic billboards, and drifting mist. The camera slowly tracks backward as he walks toward the lens, his coat moving naturally in the wind. Reflections of neon lights shimmer across the wet streets. Suddenly, the entire city briefly loses power, leaving only a mysterious blue light behind him.\n\nUltra-cinematic, photorealistic, dramatic atmosphere, realistic rain and water physics, volumetric fog, detailed environment, natural human movement, shallow depth of field, anamorphic lens, subtle lens flare, high contrast, realistic skin texture, dynamic camera movement, Hollywood sci-fi aesthetic, 4K, 24fps.",
+    "sourceRange": {
+      "start": 18,
+      "end": 745
+    },
+    "translations": {
+      "zh": "一名独行男子在雨夜漫步于未来城市，周围环绕霓虹摩天楼、全息广告牌与雾气。镜头随他迎面走来而向后运镜，风吹动大衣。霓虹倒影在湿滑街道闪烁。突然全城短暂断电，唯余他身后一道神秘蓝光。\n\n极具电影质感，逼真，戏剧张力，逼真雨水动态，体积雾，浅景深，变形镜头，微弱眩光，高对比度，科幻美学，4K，24fps。",
+      "en": "A lone man walks through a rain-soaked futuristic city at night, surrounded by towering neon skyscrapers, glowing holographic billboards, and drifting mist. The camera slowly tracks backward as he walks toward the lens, his coat moving naturally in the wind. Reflections of neon lights shimmer across the wet streets. Suddenly, the entire city briefly loses power, leaving only a mysterious blue light behind him.\n\nUltra-cinematic, photorealistic, dramatic atmosphere, realistic rain and water physics, volumetric fog, detailed environment, natural human movement, shallow depth of field, anamorphic lens, subtle lens flare, high contrast, realistic skin texture, dynamic camera movement, Hollywood sci-fi aesthetic, 4K, 24fps."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic sci-fi scene generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
