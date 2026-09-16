@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**241** Prompt · Bổ sung mới nhất: **2026-09-16**
+**242** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2073,6 +2073,28 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 <a name="category-cinematic-film-still"></a>
 
 ## Điện ảnh / Ảnh tĩnh từ phim
+
+<a name="prompt-2100082529512645050"></a>
+
+### Đang dịch
+
+Tác giả：[@MRB\_AI24](https://x.com/MRB_AI24) · [Bài gốc](https://x.com/MRB_AI24/status/2100082529512645050)
+
+Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100082529512645050.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099558680979005770"></a>
 

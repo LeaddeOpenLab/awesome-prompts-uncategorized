@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**241** Prompts · Latest addition: **2026-09-16**
+**242** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -3018,6 +3018,30 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 <a name="category-cinematic-film-still"></a>
 
 ## Cinematic / Film Still
+
+<a name="prompt-2100082529512645050"></a>
+
+### A lone man walking through a rainy neon city at night before a sudden blackout leaves only blue backlighting.
+
+Author：[@MRB\_AI24](https://x.com/MRB_AI24) · [Source](https://x.com/MRB_AI24/status/2100082529512645050)
+
+Cinematic / Film Still · Cyberpunk / Sci-Fi · Character · Published
+
+**Summary:** A lone man walking through a rainy neon city at night before a sudden blackout leaves only blue backlighting.
+
+<img src="covers/2100082529512645050.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A lone man walks through a rain-soaked futuristic city at night, surrounded by towering neon skyscrapers, glowing holographic billboards, and drifting mist. The camera slowly tracks backward as he walks toward the lens, his coat moving naturally in the wind. Reflections of neon lights shimmer across the wet streets. Suddenly, the entire city briefly loses power, leaving only a mysterious blue light behind him.
+
+Ultra-cinematic, photorealistic, dramatic atmosphere, realistic rain and water physics, volumetric fog, detailed environment, natural human movement, shallow depth of field, anamorphic lens, subtle lens flare, high contrast, realistic skin texture, dynamic camera movement, Hollywood sci-fi aesthetic, 4K, 24fps.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099558680979005770"></a>
 
