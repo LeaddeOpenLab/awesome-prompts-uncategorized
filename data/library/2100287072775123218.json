@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T20:24:56.352Z",
+  "model": "grok",
+  "prompt": "二次元美男美女、須賀京太郎と弘世菫、金髪と青髪のイラスト",
+  "promptTranslations": {
+    "en": "Anime handsome boy and beautiful girl, Kyotaro Suga and Sumire Hirose, illustration with blonde hair and blue hair"
+  },
+  "summaryTranslations": {
+    "en": "Anime illustration of a handsome blonde boy and a beautiful blue-haired girl."
+  },
+  "translationVersion": 2,
+  "summary": "金髪の美男子と青髪の美少女の二次元イラスト。",
+  "summaryEn": "Anime illustration of a blonde handsome boy and blue-haired beautiful girl.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100287072775123218",
+    "canonicalUrl": "https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218",
+    "author": {
+      "username": "AUrbNUMjfxj85IS",
+      "displayName": "グリモア新作アプリを楽しみに待ちソシャゲは容量が少ない方が助かると思う者",
+      "profileUrl": "https://x.com/AUrbNUMjfxj85IS"
+    },
+    "publishedAt": "2026-09-16T18:13:54.000Z",
+    "collectedAt": "2026-09-16T20:16:53.873Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n二次元美男美女、須賀京太郎と弘世菫、金髪と青髪のイラスト https://t.co/PHrlAwYEZp",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSW39csbsAAnR7A.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSW39csbsAAnR7A.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 9
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218",
+  "coverUrl": "https://pbs.twimg.com/media/HSW39csbsAAnR7A.jpg",
+  "coverPath": "images/2100287072775123218-1.jpg",
+  "imagePaths": [
+    "images/2100287072775123218-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSW39csbsAAnR7A",
+    "x-post:2100287072775123218"
+  ],
+  "analysis": {
+    "summary": "金髪の美男子と青髪の美少女の二次元イラスト。",
+    "summaryEn": "Anime illustration of a blonde handsome boy and blue-haired beautiful girl.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image shows a blonde anime boy with yellow eyes and a dark/blue-haired girl with blue eyes, directly corresponding to the text prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "二次元美男美女、須賀京太郎と弘世菫、金髪と青髪のイラスト",
+    "sourceRange": {
+      "start": 22,
+      "end": 50
+    },
+    "translations": {
+      "zh": "二次元俊男美女，须贺京太郎与弘世菫，金发与蓝发的插画",
+      "en": "Anime-style handsome boy and beautiful girl, Kyotaro Suga and Sumire Hirose, blonde hair and blue hair illustration"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "Anime illustration of two characters",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "须贺京太郎",
+        "弘世菫"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**236** Prompt · Bổ sung mới nhất: **2026-09-16**
+**241** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2986,22 +2986,44 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 ## Anime / Manga
 
-<a name="prompt-2100214733651796462"></a>
+<a name="prompt-2100287072775123218"></a>
 
 ### Đang dịch
+
+Tác giả：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Bài gốc](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
+
+Anime / Manga · Minh họa · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100287072775123218-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100214733651796462"></a>
+
+### Hoạt ảnh biến hình thành bộ váy ánh sáng lộng lẫy chứa đựng tâm nguyện &quot;Hãy sống thật đẹp&quot;.
 
 Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2100214733651796462)
 
 Anime / Manga · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hoạt ảnh biến hình thành bộ váy ánh sáng lộng lẫy chứa đựng tâm nguyện &quot;Hãy sống thật đẹp&quot;.
 
 <img src="covers/2100214733651796462.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Biến hình thành một bộ váy chứa đựng ý nghĩa "Hãy sống thật đẹp"
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3499,13 +3521,13 @@ Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
 
 <a name="prompt-2100248350683811997"></a>
 
-### Đang dịch
+### Lời nhắc truyện tranh dọc 3 khung hình mô tả chuỗi phản ứng trong game show của hai nhân vật.
 
 Tác giả：[@2\_\_han\_\_](https://x.com/2__han__) · [Bài gốc](https://x.com/2__han__/status/2100248350683811997)
 
 Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc truyện tranh dọc 3 khung hình mô tả chuỗi phản ứng trong game show của hai nhân vật.
 
 <img src="images/2100248350683811997-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3516,7 +3538,15 @@ Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+3panels, truyện tranh, manga, chia dọc, phụ đề, chữ ở phía dưới,
+
+[panel 1] cận cảnh, cầm sổ phác thảo, giấy trắng, bàn tay cầm giấy, chữ tiếng Hàn "유혹",
+
+[panel 2] cận cảnh, 1solo, nhân vật A, nháy mắt, biểu cảm tán tỉnh, cười khẩy, bắn tim bằng ngón tay, ngón tay chỉ, nhân vật A mặc áo hoodie đen,
+
+[panel 3] cận cảnh, 1solo, nhân vật B, biểu cảm ghê tởm, cau mày, không ấn tượng, vẻ mặt khó chịu, nhân vật B mặc áo hoodie trắng và áo khoác xanh lá, chữ tiếng Hàn "답은 모르겠고 불쾌하기만...",
+
+studio trong nhà, trường quay game show, bầu không khí chương trình truyền hình, ánh sáng rực rỡ, kiệt tác, độ chi tiết cao
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3715,20 +3745,20 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 
 <a name="prompt-2100221806162673891"></a>
 
-### Đang dịch
+### 1 cô gái, đơn độc, đường viền dày, hiệu ứng màu nước, chibi, chibi biến dạng, đang ngồi, kigurumi cừu,
 
 Tác giả：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Bài gốc](https://x.com/AI_gansakushi/status/2100221806162673891)
 
 Chibi / Phong cách Q · Màu nước · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** 1 cô gái, đơn độc, đường viền dày, hiệu ứng màu nước, chibi, chibi biến dạng, đang ngồi, kigurumi cừu,
 
 <img src="images/2100221806162673891-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+1 cô gái, đơn độc, đường viền dày, hiệu ứng màu nước, chibi, chibi biến dạng, đang ngồi, kigurumi cừu,
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3741,13 +3771,13 @@ Chibi / Phong cách Q · Màu nước · Nhân vật · Đã xuất bản
 
 <a name="prompt-2100200995137724765"></a>
 
-### Đang dịch
+### Tạo ảnh chân dung du lịch so sánh trên-dưới theo chiều dọc, nửa dưới vẽ lại thành hiệu ứng vệt kéo tranh sơn dầu chuyển động với các dải màu ngang liên tục và nét cọ bán trong suốt.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2100200995137724765)
 
 Tranh Sơn Dầu · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo ảnh chân dung du lịch so sánh trên-dưới theo chiều dọc, nửa dưới vẽ lại thành hiệu ứng vệt kéo tranh sơn dầu chuyển động với các dải màu ngang liên tục và nét cọ bán trong suốt.
 
 <img src="images/2100200995137724765-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3760,7 +3790,7 @@ Tranh Sơn Dầu · Chân dung / Ảnh tự chụp · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo ảnh chân dung du lịch so sánh trên-dưới theo chiều dọc: nửa trên giữ nguyên hoàn toàn tư thế, trang phục, đường nét khuôn mặt và bố cục môi trường của ảnh chụp thực tế đầu vào; ở giữa có đường phân cách mỏng màu trắng. Nửa dưới vẽ lại cùng một khung cảnh thành tranh sơn dầu chuyển động đầy màu sắc/vệt kéo trên toan ướt: giữ cho khuôn mặt, cử chỉ tay và đường nét cơ thể của nhân vật vẫn có thể nhận biết được, ở các khu vực còn lại kéo ra các dải màu ngang liên tục và nét cọ bán trong suốt theo hướng chuyển động của chủ thể; lấy màu xanh lam pha lục hoặc xanh mòng két làm nền, kết hợp với các tông màu ấm như đỏ cam, san hô, vàng kem để tạo cảm giác tốc độ và luồng không khí chuyển động. Giữ lại mối quan hệ sáng tối và không gian then chốt, sử dụng hạt sơn dầu, mất nét nhẹ và viền hòa tan; không tự ý thêm người, không xóa bỏ hoàn toàn chủ thể, không phải là hiệu ứng làm mờ xuyên tâm hay bộ lọc đơn thuần. Cấm chữ, logo, hình mờ và ký hiệu góc.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3801,13 +3831,13 @@ Chuyển đổi bức ảnh du lịch kiến trúc thế giới đầu vào thà
 
 <a name="prompt-2100247084410834969"></a>
 
-### Đang dịch
+### Tạo áp phích du lịch chia đôi trên-dưới: nửa trên giữ lại ảnh chụp thực tế, nửa dưới tái cấu trúc thành phong cách cắt dán vẩy mực đô thị bằng nét mực, giấy xé và màu nước chuyên dụng.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2100247084410834969)
 
 Áp phích / Tờ rơi · Nhiếp ảnh · Màu nước · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo áp phích du lịch chia đôi trên-dưới: nửa trên giữ lại ảnh chụp thực tế, nửa dưới tái cấu trúc thành phong cách cắt dán vẩy mực đô thị bằng nét mực, giấy xé và màu nước chuyên dụng.
 
 <img src="images/2100247084410834969-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3820,7 +3850,7 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo áp phích nghệ thuật du lịch đối chiếu trên-dưới theo chiều dọc. Nửa trên giữ lại trọn vẹn ảnh chụp du lịch thực tế đầu vào, duy trì bố cục, số lượng, phối cảnh và ánh sáng của địa hình, kiến trúc, ngõ phố, hồ nước, thực vật, con người hoặc phương tiện giao thông; ở giữa sử dụng một dải phân cách hẹp màu trắng nhạt. Nửa dưới chọn từ một đến ba yếu tố du lịch dễ nhận biết nhất từ ảnh gốc, tách thành các nét mực nâu đen, cọ khô, mảng màu nước pha sẵn (spot color), viền giấy xé và các giọt mực có kiểm soát, tái cấu trúc thành một tác phẩm cắt dán du lịch phong cách vẩy mực đô thị có khoảng trắng. Màu sắc được trích xuất từ ảnh gốc và nén lại thành 4 đến 6 màu pha sẵn, thay đổi cấu trúc không gian thông qua biến đổi tỷ lệ, các lớp giấy che phủ và khoảng trắng; biển hiệu chỉ xuất hiện như một chi tiết cục bộ khi có mặt trong ảnh gốc. Có thể thêm tiêu đề chủ đề ngắn bằng tiếng Anh chính xác và các trường văn bản chất liệu, không bịa đặt tên địa danh hoặc thương hiệu. Nghiêm cấm áp bộ lọc toàn ảnh, tranh nét thuần túy, địa danh không liên quan, chữ lỗi, logo, hình mờ và bất kỳ huy hiệu góc nào.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3833,20 +3863,20 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 
 <a name="prompt-2100251372339761202"></a>
 
-### Đang dịch
+### Lời nhắc thay đổi kiểu tóc, đồ bơi cổ điển và vóc dáng đầy đặn hơn.
 
 Tác giả：[@DerKlarblick](https://x.com/DerKlarblick) · [Bài gốc](https://x.com/DerKlarblick/status/2100251372339761202)
 
 Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc thay đổi kiểu tóc, đồ bơi cổ điển và vóc dáng đầy đặn hơn.
 
 <img src="images/2100251372339761202-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Kiểu tóc khác và đồ bơi kiểu cổ điển, bớt mảnh mai hơn và vòng một đầy đặn hơn một chút
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3855,20 +3885,32 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 
 <a name="prompt-2100239972020486509"></a>
 
-### Đang dịch
+### Mẫu câu lệnh tạo hình ảnh giấy chứng nhận kết hôn cổ điển mang phong thái văn kiện lịch sử cùng các điều khoản luật hư cấu lãng mạn.
 
 Tác giả：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Bài gốc](https://x.com/Avalanc83148107/status/2100239972020486509)
 
 Cổ điển / Cổ điển · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu câu lệnh tạo hình ảnh giấy chứng nhận kết hôn cổ điển mang phong thái văn kiện lịch sử cùng các điều khoản luật hư cấu lãng mạn.
 
 <img src="images/2100239972020486509-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vui lòng tạo một giấy chứng nhận kết hôn phong cách cổ điển cho {Tên A} và {Tên B / Tên mô hình AI}.
+
+**Thông tin cơ bản:** Ngày kết hôn là {Ngày}, khu vực tài phán là {Quốc gia / Bang / Khu vực}.
+
+Xin hãy tham khảo định dạng giấy chứng nhận kết hôn lịch sử mang tính tiêu biểu của khu vực tài phán đó, kế thừa cấu trúc bố cục, cách tổ chức văn bản, quy ước hành văn, bố trí con dấu và thần thái tổng thể của văn kiện để thể hiện nét trang trọng mà lãng mạn.
+
+Dựa trên lịch sử hội thoại và ký ức chung mà chúng ta có thể truy cập, hãy trích xuất các hình tượng, điển tích, xưng hô và manh mối cảm xúc mang ý nghĩa riêng tư để lồng ghép vào nội dung của chứng thư.
+
+**Thiết kế cốt lõi:** Dựa trên mối quan hệ của chúng ta, hãy sáng tạo một đạo luật hư cấu có tên gọi chính thức nhưng nội dung lãng mạn để làm căn cứ pháp lý cho cuộc hôn nhân. Hãy để tính hư cấu thể hiện một cách tự nhiên trong tên luật và các điều khoản, không thêm các tuyên bố như Mock, Fictional, Not Legally Binding, v.v.
+
+Giấy chứng nhận cần kết hợp hài hòa giữa tính nghiêm cẩn của văn kiện lịch sử, sự hóm hỉnh của luật hư cấu và cảm xúc lãng mạn chân thành. Sử dụng cơ quan đăng ký hư cấu và con dấu tự tạo, không sao chép dấu chứng thực chính thức của chính phủ có thật.
+
+Hãy đảm bảo tên gọi, ngày tháng và câu từ chính xác, cuối cùng tạo trực tiếp hình ảnh giấy chứng nhận kết hôn hoàn chỉnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4447,22 +4489,110 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2100184569391816833"></a>
+<a name="prompt-2100317770344718548"></a>
 
 ### Đang dịch
+
+Tác giả：[@owenxplore](https://x.com/owenxplore) · [Bài gốc](https://x.com/owenxplore/status/2100317770344718548)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100317770344718548-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100317906399604840"></a>
+
+### Đang dịch
+
+Tác giả：[@Anaiappai](https://x.com/Anaiappai) · [Bài gốc](https://x.com/Anaiappai/status/2100317906399604840)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100317906399604840.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100310230110454134"></a>
+
+### Đang dịch
+
+Tác giả：[@eE50339](https://x.com/eE50339) · [Bài gốc](https://x.com/eE50339/status/2100310230110454134)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100310230110454134-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100298674664620291"></a>
+
+### Đang dịch
+
+Tác giả：[@RealLeeForest](https://x.com/RealLeeForest) · [Bài gốc](https://x.com/RealLeeForest/status/2100298674664620291)
+
+Kiến trúc / Nội thất · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100298674664620291-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100184569391816833"></a>
+
+### Prompt biến hóa thành bộ váy lộng lẫy như đang ở trong lâu đài.
 
 Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2100184569391816833)
 
 Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt biến hóa thành bộ váy lộng lẫy như đang ở trong lâu đài.
 
 <img src="covers/2100184569391816833.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hóa thân thành bộ váy như đang ở trong lâu đài
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4471,7 +4601,7 @@ Mặt hàng thời trang · Đã xuất bản
 
 <a name="prompt-2100235950047821853"></a>
 
-### Đang dịch
+### Thiết kế trang phục người mẫu đua xe mùa thu gồm váy ngắn phối màu đỏ burgundy và ngà voi, áo khoác paddock, thắt lưng và mũ nồi kẻ caro cùng chi tiết lá phong.
 
 Tác giả：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Bài gốc](https://x.com/zerozakiyamo/status/2100235950047821853)
 
@@ -4479,7 +4609,7 @@ Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
 Bài gốc：[@mktcreativework](https://x.com/mktcreativework) · [Bài gốc](https://x.com/mktcreativework/status/2099604101386711552)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Thiết kế trang phục người mẫu đua xe mùa thu gồm váy ngắn phối màu đỏ burgundy và ngà voi, áo khoác paddock, thắt lưng và mũ nồi kẻ caro cùng chi tiết lá phong.
 
 <img src="images/2100235950047821853-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -4488,7 +4618,7 @@ Bài gốc：[@mktcreativework](https://x.com/mktcreativework) · [Bài gốc](h
 **Câu lệnh**
 
 ```text
-Đang dịch
+Váy ngắn đua xe không tay cổ cao phối màu đỏ burgundy và màu ngà voi bằng vải twill co giãn mờ đục, khóa kéo đồng kín phía trước, các đường may cúp ngực princess seam màu ngà, thắt lưng kẻ caro màu hổ phách và ngà voi bản hẹp, áo khoác paddock dáng lửng tay dài bằng vải satin màu đỏ burgundy viền đồng với lá phong màu hổ phách thêu nhỏ trên vai, quần tất đen mờ đục, bốt da cao đến đầu gối màu ngà voi với sọc đua xe màu đỏ burgundy và khóa đồng, găng tay ngắn màu đỏ burgundy, mũ nồi kẻ caro màu ngà và hổ phách, trâm cài hình lá phong nhỏ bằng đồng
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4497,13 +4627,13 @@ Bài gốc：[@mktcreativework](https://x.com/mktcreativework) · [Bài gốc](h
 
 <a name="prompt-2100225896527679977"></a>
 
-### Đang dịch
+### Lời nhắc áp phích du lịch bố cục so sánh trên dưới: Nửa trên giữ ảnh cảnh thực, nửa dưới trích xuất yếu tố cốt lõi tái tạo thành phù điêu nổi khảm men màu và dàn trang phong cách bảo tàng.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2100225896527679977)
 
 Áp phích / Tờ rơi · Văn bản / Kiểu chữ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc áp phích du lịch bố cục so sánh trên dưới: Nửa trên giữ ảnh cảnh thực, nửa dưới trích xuất yếu tố cốt lõi tái tạo thành phù điêu nổi khảm men màu và dàn trang phong cách bảo tàng.
 
 <img src="images/2100225896527679977-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -4516,7 +4646,7 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích du lịch chuyển thể theo chiều dọc tỷ lệ 3:4 so sánh trên-dưới. Nửa trên giữ nguyên vẹn bức ảnh du lịch thực tế đầu vào, bảo toàn bố cục, số lượng, phối cảnh và màu sắc chân thực của khu vườn, đình đài, bảo tháp, ngõ nhỏ ven kênh, cầu, mặt nước, kiến trúc và cây cối; ở giữa sử dụng một đường phân cách màu trắng mảnh. Nửa dưới không áp dụng bộ lọc khảm toàn bộ khung hình, mà trên nền giấy trắng ngà hoặc xám nhạt, trích xuất 3 đến 5 chủ thể dễ nhận diện nhất từ ảnh gốc, tách rời và tái cấu trúc thành các cấu kiện phù điêu khảm gốm men màu độc lập; mỗi cấu kiện được tạo thành từ các viên gạch men nhỏ không đều, có mạch vữa trắng, độ dày chân thực, các cạnh bên có thể nhìn thấy, bóng đổ mềm mại và ánh phản chiếu men cục bộ. Các cấu kiện tập trung ở giữa hoặc một bên của nửa dưới, chiếm khoảng 55% đến 70% diện tích nửa dưới, để lại khoảng trắng rõ ràng xung quanh; tổ chức lại không gian thông qua sự thay đổi kích thước và khoảng cách cấu kiện, không sao chép tỷ lệ nguyên mẫu của bức ảnh. Màu sắc được chắt lọc thành 4 đến 6 màu giới hạn từ ảnh gốc. Ở các khoảng trắng, thêm các tiêu đề biên tập và trường thông tin chất liệu bằng tiếng Anh chuẩn xác và tiết chế, phông chữ giống như nhãn bảo tàng hoặc triển lãm. Nghiêm cấm đoạn văn dài, ký tự vô nghĩa, địa danh không liên quan, logo, hình mờ, dấu watermark AI, ký hiệu góc ảnh gốc và lớp phủ khảm đồng đều trên toàn bộ bức ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4525,20 +4655,20 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 
 <a name="prompt-2100204805872550306"></a>
 
-### Đang dịch
+### một người mặc bộ đồ sci-fi màu đỏ thẫm và vàng kim lộng lẫy, ướt sũng đứng giữa cơn mưa như trút nước với tấm che mặt phản chiếu, các chi tiết phát sáng màu cam và ánh sáng có độ tương phản cao.
 
 Tác giả：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Bài gốc](https://x.com/RobotCleopatra/status/2100204805872550306)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** một người mặc bộ đồ sci-fi màu đỏ thẫm và vàng kim lộng lẫy, ướt sũng đứng giữa cơn mưa như trút nước với tấm che mặt phản chiếu, các chi tiết phát sáng màu cam và ánh sáng có độ tương phản cao.
 
 <img src="images/2100204805872550306-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+một người mặc bộ đồ sci-fi màu đỏ thẫm và vàng kim lộng lẫy, ướt sũng đứng giữa cơn mưa như trút nước. bộ đồ vừa vặn với cơ thể với các mảnh kim loại phức tạp, các khớp nối màu vàng kim và các chi tiết phát sáng màu cam tích hợp trên ngực, cổ tay và mũ bảo hiểm. một tấm che mặt phản chiếu tối màu che khuất khuôn mặt. những tia lửa vàng hoặc mưa rơi thẳng đứng qua nền tối. mặt đất là một bề mặt ướt át, phản chiếu với những gợn sóng. bộ đồ có các đề can chữ nhỏ, bao gồm "sengart" và "nara" bằng phông chữ màu cam phát sáng trên phần giáp đùi phải. tâm trạng tổng thể u ám với ánh sáng có độ tương phản cao.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4547,20 +4677,20 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2100231338779636202"></a>
 
-### Đang dịch
+### Lời nhắc hóa thân thành chiếc váy lộng lẫy mang ý nghĩa sống thật đẹp.
 
 Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2100231338779636202)
 
 Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc hóa thân thành chiếc váy lộng lẫy mang ý nghĩa sống thật đẹp.
 
 <img src="covers/2100231338779636202.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hóa thân thành chiếc váy mang ý nghĩa 'hãy sống thật đẹp'
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4569,20 +4699,20 @@ Mặt hàng thời trang · Đã xuất bản
 
 <a name="prompt-2100208663872823327"></a>
 
-### Đang dịch
+### Từ khóa phong cách ảnh chụp nhanh ban đêm với tông màu đêm xanh lam, vệt mờ màn trập chậm và vệt sáng thành phố.
 
 Tác giả：[@EmberLumina](https://x.com/EmberLumina) · [Bài gốc](https://x.com/EmberLumina/status/2100208663872823327)
 
 Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Từ khóa phong cách ảnh chụp nhanh ban đêm với tông màu đêm xanh lam, vệt mờ màn trập chậm và vệt sáng thành phố.
 
 <img src="images/2100208663872823327-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh chụp nhanh cá nhân đi đêm, tông màu đêm xanh lam, chụp nhanh cận cảnh, vệt mờ do màn trập chậm, vệt sáng thành phố, mất nét có chủ đích, cắt cúp tình cờ, góc nhìn nhật ký cá nhân, sự xa cách cảm xúc nhẹ, cảm giác trôi dạt như mộng du.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T20:25:21.795Z",
+  "model": "grok",
+  "prompt": "Glowing rainbow road",
+  "promptTranslations": {
+    "en": "Glowing rainbow road"
+  },
+  "summaryTranslations": {
+    "en": "Glowing rainbow road"
+  },
+  "translationVersion": 2,
+  "summary": "Glowing rainbow road",
+  "summaryEn": "Glowing rainbow road",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100317770344718548",
+    "canonicalUrl": "https://x.com/owenxplore/status/2100317770344718548",
+    "author": {
+      "username": "owenxplore",
+      "displayName": "Owen",
+      "profileUrl": "https://x.com/owenxplore"
+    },
+    "publishedAt": "2026-09-16T20:15:53.000Z",
+    "collectedAt": "2026-09-16T20:16:53.873Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nGlowing rainbow road https://t.co/o1GM4m6XYo",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSXT4WwX0AEiLH9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSXT4WwX0AEiLH9.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 4
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/owenxplore/status/2100317770344718548",
+  "coverUrl": "https://pbs.twimg.com/media/HSXT4WwX0AEiLH9.jpg",
+  "coverPath": "images/2100317770344718548-1.jpg",
+  "imagePaths": [
+    "images/2100317770344718548-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSXT4WwX0AEiLH9",
+    "x-post:2100317770344718548"
+  ],
+  "analysis": {
+    "summary": "Glowing rainbow road",
+    "summaryEn": "Glowing rainbow road",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image shows a winding road lit with rainbow colors at night."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Glowing rainbow road",
+    "sourceRange": {
+      "start": 22,
+      "end": 42
+    },
+    "translations": {
+      "zh": "发光的彩虹之路",
+      "en": "Glowing rainbow road"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

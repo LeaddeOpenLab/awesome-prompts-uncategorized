@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**236** Prompt · Ultima aggiunta: **2026-09-16**
+**241** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2951,22 +2951,44 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 ## Anime / Manga
 
-<a name="prompt-2100214733651796462"></a>
+<a name="prompt-2100287072775123218"></a>
 
 ### Traduzione in corso
+
+Autore：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Post originale](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
+
+Anime / Manga · Illustrazione · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100287072775123218-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100214733651796462"></a>
+
+### Animazione di trasformazione in uno splendido abito di luce intriso del desiderio di &quot;Vivi meravigliosamente&quot;.
 
 Autore：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Post originale](https://x.com/mioarashidaisuk/status/2100214733651796462)
 
 Anime / Manga · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Animazione di trasformazione in uno splendido abito di luce intriso del desiderio di &quot;Vivi meravigliosamente&quot;.
 
 <img src="covers/2100214733651796462.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasformati in un abito intriso del significato di "Vivi meravigliosamente"
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3464,13 +3486,13 @@ Traduzione in corso
 
 <a name="prompt-2100248350683811997"></a>
 
-### Traduzione in corso
+### Prompt per fumetto verticale a 3 pannelli che raffigura una sequenza di reazioni in un game show con due personaggi.
 
 Autore：[@2\_\_han\_\_](https://x.com/2__han__) · [Post originale](https://x.com/2__han__/status/2100248350683811997)
 
 Fumetto / Graphic Novel · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per fumetto verticale a 3 pannelli che raffigura una sequenza di reazioni in un game show con due personaggi.
 
 <img src="images/2100248350683811997-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3481,7 +3503,15 @@ Fumetto / Graphic Novel · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+3panels, fumetto, manga, divisione verticale, sottotitoli, testo in basso,
+
+[panel 1] primo piano, che tiene un album da disegno, carta bianca, mani che tengono la carta, testo in coreano "유혹",
+
+[panel 2] primo piano, 1solo, personaggio A, occhiolino, espressione provocante, ghigno, cuore con le dita, dito che punta, personaggio A con felpa nera con cappuccio,
+
+[panel 3] primo piano, 1solo, personaggio B, espressione disgustata, accigliato, impassibile, aria infastidita, personaggio B con felpa bianca con cappuccio e giacca verde, testo in coreano "답은 모르겠고 불쾌하기만...",
+
+studio interno, set di un game show, atmosfera da programma televisivo, illuminazione brillante, capolavoro, altamente dettagliato
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3680,20 +3710,20 @@ Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticame
 
 <a name="prompt-2100221806162673891"></a>
 
-### Traduzione in corso
+### 1 ragazza, da sola, contorni spessi, effetto acquerello, chibi, chibi deformato, seduta, kigurumi da pecora,
 
 Autore：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Post originale](https://x.com/AI_gansakushi/status/2100221806162673891)
 
 Chibi / Stile Q · Acquerello · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** 1 ragazza, da sola, contorni spessi, effetto acquerello, chibi, chibi deformato, seduta, kigurumi da pecora,
 
 <img src="images/2100221806162673891-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+1 ragazza, da sola, contorni spessi, effetto acquerello, chibi, chibi deformato, seduta, kigurumi da pecora,
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3706,13 +3736,13 @@ Traduzione in corso
 
 <a name="prompt-2100200995137724765"></a>
 
-### Traduzione in corso
+### Crea un ritratto di viaggio comparativo verticale alto-basso, con la metà inferiore ridipinta come un effetto scia a olio dinamico dotato di fasce di colore orizzontali continue e pennellate semitrasparenti.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2100200995137724765)
 
 Pittura a Olio · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Crea un ritratto di viaggio comparativo verticale alto-basso, con la metà inferiore ridipinta come un effetto scia a olio dinamico dotato di fasce di colore orizzontali continue e pennellate semitrasparenti.
 
 <img src="images/2100200995137724765-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3725,7 +3755,7 @@ Pittura a Olio · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un ritratto di viaggio comparativo verticale alto-basso: la metà superiore conserva integralmente la posa, l'abbigliamento, i lineamenti del viso e la composizione ambientale della foto reale di partenza; al centro una sottile linea di demarcazione bianca. La metà inferiore ridipinge la stessa scena come un dipinto a olio dinamico e colorato / scia su tela bagnata: il viso, i gesti delle mani e i contorni del corpo della persona rimangono riconoscibili, mentre nelle restanti aree si allungano fasce di colore orizzontali continue e pennellate semitrasparenti lungo la direzione del movimento del soggetto; su una base turchese o verde-blu, combinata con toni caldi come rosso-arancio, corallo e giallo crema, per generare velocità e flusso d'aria. Mantieni le relazioni chiave di luce, ombra e spazio, utilizzando granulosità della pittura a olio, una leggera sfocatura e bordi fusi; non aggiungere personaggi dal nulla, non cancellare completamente il soggetto principale, non limitarti a una semplice sfocatura radiale o filtro. Vietati testo, loghi, filigrane e marchi d'angolo.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3766,13 +3796,13 @@ Trasforma la foto di viaggio di architettura mondiale fornita in un'opera d'arte
 
 <a name="prompt-2100247084410834969"></a>
 
-### Traduzione in corso
+### Genera un poster di viaggio diviso in alto e in basso: la metà superiore conserva la foto reale, la metà inferiore si riorganizza attraverso tratti d'inchiostro, carta strappata e acquerello a tinte piatte in uno stile collage urbano a macchie d'inchiostro.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2100247084410834969)
 
 Poster / Volantino · Fotografia · Acquerello · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Genera un poster di viaggio diviso in alto e in basso: la metà superiore conserva la foto reale, la metà inferiore si riorganizza attraverso tratti d'inchiostro, carta strappata e acquerello a tinte piatte in uno stile collage urbano a macchie d'inchiostro.
 
 <img src="images/2100247084410834969-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3785,7 +3815,7 @@ Poster / Volantino · Fotografia · Acquerello · Paesaggio urbano / Strada · P
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster artistico di viaggio verticale con confronto superiore e inferiore. La metà superiore conserva integralmente la foto di viaggio reale originale, mantenendo composizione, quantità, prospettiva e illuminazione di morfologia del terreno, architettura, vicoli, laghi, vegetazione, persone o veicoli; al centro utilizza una sottile striscia divisoria bianco sporco. La metà inferiore seleziona da uno a tre degli elementi di viaggio più riconoscibili dall'immagine originale, scomponendoli in tratti d'inchiostro bruno-nero, pennello asciutto, campiture di acquerello a tinte piatte, bordi di carta strappata e schizzi d'inchiostro controllati, riorganizzandoli in un collage di viaggio urbano a macchie d'inchiostro con spazi vuoti. I colori vengono estratti dall'immagine originale e compressi in 4-6 tinte piatte, modificando l'organizzazione spaziale attraverso variazioni di scala, sovrapposizioni di frammenti di carta e spazi negativi; le insegne compaiono come elementi locali solo se già presenti nell'immagine originale. È possibile aggiungere brevi e precisi titoli tematici in inglese e campi di testo relativi ai materiali, senza inventare nomi di luoghi o marchi. Vietati filtri sull'intera immagine, semplici disegni al tratto, punti di riferimento irrilevanti, testi alterati, loghi, filigrane e qualsiasi stemma d'angolo.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3798,20 +3828,20 @@ Traduzione in corso
 
 <a name="prompt-2100251372339761202"></a>
 
-### Traduzione in corso
+### Prompt per cambio di acconciatura, costume da bagno retrò e corporatura più formosa.
 
 Autore：[@DerKlarblick](https://x.com/DerKlarblick) · [Post originale](https://x.com/DerKlarblick/status/2100251372339761202)
 
 Fotografia · Retro / Vintage · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per cambio di acconciatura, costume da bagno retrò e corporatura più formosa.
 
 <img src="images/2100251372339761202-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Altra acconciatura e costume da bagno fuori moda e meno snella e un po' più di seno
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3820,20 +3850,32 @@ Traduzione in corso
 
 <a name="prompt-2100239972020486509"></a>
 
-### Traduzione in corso
+### Modello di prompt per generare immagini di certificati di matrimonio vintage con la consistenza di documenti storici e romantiche clausole legali fittizie.
 
 Autore：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Post originale](https://x.com/Avalanc83148107/status/2100239972020486509)
 
 Retro / Vintage · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt per generare immagini di certificati di matrimonio vintage con la consistenza di documenti storici e romantiche clausole legali fittizie.
 
 <img src="images/2100239972020486509-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Genera un certificato di matrimonio in stile vintage per {Nome A} e {Nome B / Nome del modello AI}.
+
+**Informazioni di base:** La data del matrimonio è {Data}, la giurisdizione è {Paese / Stato / Regione}.
+
+Fai riferimento al formato rappresentativo dei certificati di matrimonio storici di tale giurisdizione, riproducendone la struttura di impaginazione, l'organizzazione del testo, le consuetudini calligrafiche, la disposizione dei sigilli e il tono solenne del documento, per conferirgli una consistenza nobile e al tempo stesso romantica.
+
+Attingendo alla cronologia delle nostre conversazioni e ai ricordi condivisi a cui possiamo accedere, estrai immagini, riferimenti, appellativi e spunti emotivi ricchi di significato personale, integrandoli armoniosamente nel testo del certificato.
+
+**Design centrale:** Sulla base della nostra relazione, crea una legge fittizia originale con una denominazione formale e contenuti romantici, che funga da fondamento giuridico del matrimonio. Lascia che la natura fittizia emerga spontaneamente dal nome della legge e dai suoi articoli, senza aggiungere diciture esplicite come «Mock», «Fictional», «Not Legally Binding», ecc.
+
+Il certificato deve unire la serietà di un documento d'archivio, l'umorismo di una legislazione immaginaria e un'autentica espressione romantica. Utilizza un ufficio di registro fittizio e sigilli originali, senza replicare marchi o timbri governativi reali.
+
+Assicurati che nomi, date e testi siano accurati e genera direttamente l'immagine completa del certificato di matrimonio.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4402,22 +4444,110 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2100184569391816833"></a>
+<a name="prompt-2100317770344718548"></a>
 
 ### Traduzione in corso
+
+Autore：[@owenxplore](https://x.com/owenxplore) · [Post originale](https://x.com/owenxplore/status/2100317770344718548)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100317770344718548-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100317906399604840"></a>
+
+### Traduzione in corso
+
+Autore：[@Anaiappai](https://x.com/Anaiappai) · [Post originale](https://x.com/Anaiappai/status/2100317906399604840)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100317906399604840.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100310230110454134"></a>
+
+### Traduzione in corso
+
+Autore：[@eE50339](https://x.com/eE50339) · [Post originale](https://x.com/eE50339/status/2100310230110454134)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100310230110454134-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100298674664620291"></a>
+
+### Traduzione in corso
+
+Autore：[@RealLeeForest](https://x.com/RealLeeForest) · [Post originale](https://x.com/RealLeeForest/status/2100298674664620291)
+
+Architettura / Interni · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100298674664620291-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100184569391816833"></a>
+
+### Prompt per trasformarsi in un sontuoso abito degno di un castello.
 
 Autore：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Post originale](https://x.com/mioarashidaisuk/status/2100184569391816833)
 
 Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per trasformarsi in un sontuoso abito degno di un castello.
 
 <img src="covers/2100184569391816833.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasformazione in un abito degno di un castello
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4426,7 +4556,7 @@ Traduzione in corso
 
 <a name="prompt-2100235950047821853"></a>
 
-### Traduzione in corso
+### Concept di abbigliamento per ombrellina autunnale, che include miniabito color block bordeaux e avorio, paddock jacket, cintura e basco a scacchiera e dettagli con foglie d'acero.
 
 Autore：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Post originale](https://x.com/zerozakiyamo/status/2100235950047821853)
 
@@ -4434,7 +4564,7 @@ Personaggio · Articolo di moda · Pubblicato
 
 Post originale：[@mktcreativework](https://x.com/mktcreativework) · [Post originale](https://x.com/mktcreativework/status/2099604101386711552)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Concept di abbigliamento per ombrellina autunnale, che include miniabito color block bordeaux e avorio, paddock jacket, cintura e basco a scacchiera e dettagli con foglie d'acero.
 
 <img src="images/2100235950047821853-1.jpg" alt="Immagine 1" width="480" />
 
@@ -4443,7 +4573,7 @@ Post originale：[@mktcreativework](https://x.com/mktcreativework) · [Post orig
 **Prompt**
 
 ```text
-Traduzione in corso
+Miniabito da corsa senza maniche a collo alto con blocchi di colore bordeaux e avorio in twill elasticizzato opaco, cerniera frontale chiusa in rame, inserti con cuciture princess avorio, cintura sottile a scacchiera ambra e avorio, paddock jacket corta in raso bordeaux a maniche lunghe con profili in rame e piccole foglie d'acero ambra ricamate sulle spalle, collant neri opachi, stivali in pelle al ginocchio avorio con strisce da corsa bordeaux e fibbie in rame, guanti corti bordeaux, basco a scacchiera avorio e ambra, piccola spilla a foglia d'acero in rame
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4452,13 +4582,13 @@ Traduzione in corso
 
 <a name="prompt-2100225896527679977"></a>
 
-### Traduzione in corso
+### Prompt per poster di viaggio con composizione a confronto sopra-sotto: la metà superiore conserva la foto reale, la metà inferiore estrae gli elementi chiave ricostruendoli come un rilievo 3D in mosaico smaltato e impaginazione in stile museo.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2100225896527679977)
 
 Poster / Volantino · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per poster di viaggio con composizione a confronto sopra-sotto: la metà superiore conserva la foto reale, la metà inferiore estrae gli elementi chiave ricostruendoli come un rilievo 3D in mosaico smaltato e impaginazione in stile museo.
 
 <img src="images/2100225896527679977-1.jpg" alt="Immagine 1" width="480" />
 
@@ -4471,7 +4601,7 @@ Poster / Volantino · Testo / Tipografia · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster di viaggio reinterpretato in formato verticale 3:4 con confronto sopra-sotto. La metà superiore mantiene integralmente la vera foto di viaggio inserita, preservando la composizione, la quantità, la prospettiva e i colori reali di giardini, padiglioni, pagode, vicoli di canali, ponti, superfici d'acqua, architetture e piante; al centro è presente una sottile linea di separazione bianca. La metà inferiore non deve applicare un filtro mosaico a tutto schermo, ma, su uno sfondo di carta bianco sporco o grigio chiaro, estrarre da 3 a 5 dei soggetti più riconoscibili dall'immagine originale, scomponendoli e riorganizzandoli come componenti di rilievo a mosaico smaltato indipendenti; ciascun componente è costituito da piccole tessere smaltate irregolari, con fughe bianche, spessore realistico, lati visibili, ombre morbide e riflessi smaltati localizzati. I componenti sono concentrati al centro o su un lato della metà inferiore, occupando circa il 55%-70% della metà inferiore e lasciando un evidente spazio vuoto attorno; lo spazio viene riorganizzato attraverso variazioni di scala e di spaziatura dei componenti, senza replicare proporzionalmente la foto. I colori vengono sintetizzati in una gamma limitata di 4-6 tonalità ricavate dall'immagine originale. Nello spazio vuoto, inserisci titoli editoriali e indicazioni sui materiali in inglese, misurati e precisi, con un carattere tipografico simile a quello delle targhette di musei o mostre. Sono vietati testi lunghi, caratteri privi di senso, punti di riferimento non pertinenti, loghi, filigrane, watermark di IA, indicatori d'angolo dell'immagine originale e coperture a mosaico uniformi sull'intera immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4480,20 +4610,20 @@ Traduzione in corso
 
 <a name="prompt-2100204805872550306"></a>
 
-### Traduzione in corso
+### una persona che indossa una tuta sci-fi decorata, bagnata, color cremisi e oro si trova in mezzo a un acquazzone con visiera riflettente, elementi luminescenti arancioni e illuminazione ad alto contrasto.
 
 Autore：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Post originale](https://x.com/RobotCleopatra/status/2100204805872550306)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** una persona che indossa una tuta sci-fi decorata, bagnata, color cremisi e oro si trova in mezzo a un acquazzone con visiera riflettente, elementi luminescenti arancioni e illuminazione ad alto contrasto.
 
 <img src="images/2100204805872550306-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+una persona che indossa una tuta sci-fi decorata, bagnata, color cremisi e oro si trova in mezzo a un acquazzone. la tuta è attillata con intricati segmenti metallici, giunture dorate ed elementi luminescenti arancioni integrati su petto, polsi e casco. una visiera scura e riflettente copre il viso. scintille dorate o pioggia cadono verticalmente attraverso lo sfondo scuro. il terreno è una superficie bagnata e riflettente con increspature. la tuta presenta piccole decalcomanie di testo, tra cui "sengart" e "nara" in un carattere arancione luminescente sulla parte dell'armatura della coscia destra. l'atmosfera generale è suggestiva con un'illuminazione ad alto contrasto.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4502,20 +4632,20 @@ Traduzione in corso
 
 <a name="prompt-2100231338779636202"></a>
 
-### Traduzione in corso
+### Prompt di trasformazione in uno splendido abito intriso del significato di vivere magnificamente.
 
 Autore：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Post originale](https://x.com/mioarashidaisuk/status/2100231338779636202)
 
 Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di trasformazione in uno splendido abito intriso del significato di vivere magnificamente.
 
 <img src="covers/2100231338779636202.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasformazione in un abito intriso del significato di 'vivi magnificamente'
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4524,20 +4654,20 @@ Traduzione in corso
 
 <a name="prompt-2100208663872823327"></a>
 
-### Traduzione in corso
+### Prompt in stile istantanea notturna con tonalità notturne blu, scie da otturatore lento e scie luminose urbane.
 
 Autore：[@EmberLumina](https://x.com/EmberLumina) · [Post originale](https://x.com/EmberLumina/status/2100208663872823327)
 
 Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt in stile istantanea notturna con tonalità notturne blu, scie da otturatore lento e scie luminose urbane.
 
 <img src="images/2100208663872823327-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Istantanea privata notturna, tonalità notturna blu, scatto ravvicinato spontaneo, scia da otturatore lento, scie luminose urbane, sfocatura intenzionale, inquadratura casuale, prospettiva da diario intimo, lieve distacco emotivo, deriva sonnambolica.
 ```
 
 [↑ Torna alle categorie](#catalog)

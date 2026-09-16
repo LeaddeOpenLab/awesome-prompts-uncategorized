@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**236** Prompts · Latest addition: **2026-09-16**
+**241** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -3689,6 +3689,28 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 
 ## Anime / Manga
 
+<a name="prompt-2100287072775123218"></a>
+
+### Anime illustration of a handsome blonde boy and a beautiful blue-haired girl.
+
+Author：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Source](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
+
+Anime / Manga · Illustration · Character · Published
+
+**Summary:** Anime illustration of a handsome blonde boy and a beautiful blue-haired girl.
+
+<img src="images/2100287072775123218-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Anime handsome boy and beautiful girl, Kyotaro Suga and Sumire Hirose, illustration with blonde hair and blue hair
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2100214733651796462"></a>
 
 ### A transformation animation into a gorgeous dress of light imbued with the sentiment of 'Live beautifully'.
@@ -5353,6 +5375,109 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100317770344718548"></a>
+
+### Glowing rainbow road
+
+Author：[@owenxplore](https://x.com/owenxplore) · [Source](https://x.com/owenxplore/status/2100317770344718548)
+
+Other · Published
+
+**Summary:** Glowing rainbow road
+
+<img src="images/2100317770344718548-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Glowing rainbow road
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100317906399604840"></a>
+
+### Sequential video scene of a sad girl in a garden who cheers up upon being comforted and embraced by two dogs.
+
+Author：[@Anaiappai](https://x.com/Anaiappai) · [Source](https://x.com/Anaiappai/status/2100317906399604840)
+
+Character · Published
+
+**Summary:** Sequential video scene of a sad girl in a garden who cheers up upon being comforted and embraced by two dogs.
+
+<img src="covers/2100317906399604840.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+0–2.5 s
+
+Close-up of the girl sitting or standing next to the house, in the garden. She looks to the side with a sad expression and slightly dull eyes. A slight breeze gently moves her hair and the leaves around. Very slow camera zooming in on her face.
+
+2.5–5 s
+
+The camera pans smoothly downward and to the side, revealing the black dog watching her. The dog slowly wags its tail and approaches her. The yellow dog also looks up and begins to approach.
+
+5–7.5 s
+
+Medium shot. The two dogs reach the girl. The black dog gently rests its head against her leg while the yellow dog approaches, wagging its tail. The girl looks down at them. Her expression begins to change.
+
+7.5–10  
+
+Final cinematic close-up. The girl crouches down and hugs both dogs. She briefly closes her eyes and a small, genuine smile appears. The dogs remain beside her. The warm garden light envelops the three of them.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100310230110454134"></a>
+
+### Figure adaptation prompt for the character &quot;Kay-chan&quot;.
+
+Author：[@eE50339](https://x.com/eE50339) · [Source](https://x.com/eE50339/status/2100310230110454134)
+
+Character · Published
+
+**Summary:** Figure adaptation prompt for the character &quot;Kay-chan&quot;.
+
+<img src="images/2100310230110454134-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Figure adaptation
+Kay-chan
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100298674664620291"></a>
+
+### A living seed-shaped mountain with interior halls of grain and roots, a splitting peak, and figures navigating its inner chambers.
+
+Author：[@RealLeeForest](https://x.com/RealLeeForest) · [Source](https://x.com/RealLeeForest/status/2100298674664620291)
+
+Architecture / Interior · Landscape / Nature · Published
+
+**Summary:** A living seed-shaped mountain with interior halls of grain and roots, a splitting peak, and figures navigating its inner chambers.
+
+<img src="images/2100298674664620291-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A mountain that is one living seed bark like stone interior halls of packed grain and root the peak just beginning to split roots breaking the lower slopes soil and stone lifting figures moving to higher inner roads keepers harvesting from inner walls a seeker on a high ledge grain-birds in the cracks living-root lift root-storm realistic bark grain root stone and figure texture cinematic lighting strong lifting-root versus still-peak contrast highly detailed striking composition coherent fantasy atmosphere
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100184569391816833"></a>
 

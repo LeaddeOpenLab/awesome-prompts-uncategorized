@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T20:25:19.596Z",
+  "model": "unknown-video",
+  "prompt": "0–2.5 s\n\nPrimer plano de la niña sentada o de pie junto a la casa, en el jardín. Mira hacia un lado con expresión triste y ojos ligeramente apagados. Una pequeña brisa mueve suavemente su cabello y las hojas alrededor. Cámara muy lenta acercándose a su rostro.\n\n2.5–5 s\n\nLa cámara hace un desplazamiento suave hacia abajo y hacia un lado, revelando al perro negro observándola. El perro mueve lentamente la cola y se acerca a ella. El perro amarillo también levanta la mirada y comienza a acercarse.\n\n5–7.5 s\n\nPlano medio. Los dos perros llegan junto a la niña. El perro negro apoya suavemente la cabeza contra su pierna mientras el perro amarillo se acerca moviendo la cola. La niña baja la mirada hacia ellos. Su expresión comienza a cambiar.\n\n7.5–10  \n\nAcercamiento cinematográfico final. La niña se agacha y abraza a los dos perros. Cierra brevemente los ojos y aparece una pequeña sonrisa genuina. Los perros permanecen junto a ella. La luz cálida del jardín envuelve a los tres.",
+  "promptTranslations": {
+    "en": "0–2.5 s\n\nClose-up of the girl sitting or standing next to the house, in the garden. She looks to the side with a sad expression and slightly dull eyes. A slight breeze gently moves her hair and the leaves around. Very slow camera zooming in on her face.\n\n2.5–5 s\n\nThe camera pans smoothly downward and to the side, revealing the black dog watching her. The dog slowly wags its tail and approaches her. The yellow dog also looks up and begins to approach.\n\n5–7.5 s\n\nMedium shot. The two dogs reach the girl. The black dog gently rests its head against her leg while the yellow dog approaches, wagging its tail. The girl looks down at them. Her expression begins to change.\n\n7.5–10  \n\nFinal cinematic close-up. The girl crouches down and hugs both dogs. She briefly closes her eyes and a small, genuine smile appears. The dogs remain beside her. The warm garden light envelops the three of them."
+  },
+  "summaryTranslations": {
+    "en": "Sequential video scene of a sad girl in a garden who cheers up upon being comforted and embraced by two dogs."
+  },
+  "translationVersion": 2,
+  "summary": "Escena de video secuencial de una niña triste en un jardín que se alegra al ser consolada y abrazada por dos perros.",
+  "summaryEn": "A video sequence prompt showing a sad girl in a garden cheered up and comforted by two approaching dogs.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100317906399604840",
+    "canonicalUrl": "https://x.com/Anaiappai/status/2100317906399604840",
+    "author": {
+      "username": "Anaiappai",
+      "displayName": "Anai app",
+      "profileUrl": "https://x.com/Anaiappai"
+    },
+    "publishedAt": "2026-09-16T20:16:25.000Z",
+    "collectedAt": "2026-09-16T20:16:53.873Z",
+    "language": "es",
+    "originalText": "🛑 CREA CON ANAI \n\nPROMPT: \n\n0–2.5 s\n\nPrimer plano de la niña sentada o de pie junto a la casa, en el jardín. Mira hacia un lado con expresión triste y ojos ligeramente apagados. Una pequeña brisa mueve suavemente su cabello y las hojas alrededor. Cámara muy lenta acercándose a su rostro.\n\n2.5–5 s\n\nLa cámara hace un desplazamiento suave hacia abajo y hacia un lado, revelando al perro negro observándola. El perro mueve lentamente la cola y se acerca a ella. El perro amarillo también levanta la mirada y comienza a acercarse.\n\n5–7.5 s\n\nPlano medio. Los dos perros llegan junto a la niña. El perro negro apoya suavemente la cabeza contra su pierna mientras el perro amarillo se acerca moviendo la cola. La niña baja la mirada hacia ellos. Su expresión comienza a cambiar.\n\n7.5–10  \n\nAcercamiento cinematográfico final. La niña se agacha y abraza a los dos perros. Cierra brevemente los ojos y aparece una pequeña sonrisa genuina. Los perros permanecen junto a ella. La luz cálida del jardín envuelve a los tres.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Anaiappai/status/2100317906399604840",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100317805270708224/img/91VlYX6EHNGr2NiT.jpg",
+        "analysisUrl": "https://x.com/Anaiappai/status/2100317906399604840"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Anaiappai/status/2100317906399604840",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100317805270708224/img/91VlYX6EHNGr2NiT.jpg",
+  "coverPath": "covers/2100317906399604840.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100317805270708224",
+    "x-post:2100317906399604840"
+  ],
+  "analysis": {
+    "summary": "Escena de video secuencial de una niña triste en un jardín que se alegra al ser consolada y abrazada por dos perros.",
+    "summaryEn": "A video sequence prompt showing a sad girl in a garden cheered up and comforted by two approaching dogs.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "El video muestra exactamente la progresión descrita: el primer plano de la niña triste con boina roja, la llegada progresiva de los dos perros y el abrazo cálido final."
+    },
+    "videoQuality": null,
+    "originalPrompt": "0–2.5 s\n\nPrimer plano de la niña sentada o de pie junto a la casa, en el jardín. Mira hacia un lado con expresión triste y ojos ligeramente apagados. Una pequeña brisa mueve suavemente su cabello y las hojas alrededor. Cámara muy lenta acercándose a su rostro.\n\n2.5–5 s\n\nLa cámara hace un desplazamiento suave hacia abajo y hacia un lado, revelando al perro negro observándola. El perro mueve lentamente la cola y se acerca a ella. El perro amarillo también levanta la mirada y comienza a acercarse.\n\n5–7.5 s\n\nPlano medio. Los dos perros llegan junto a la niña. El perro negro apoya suavemente la cabeza contra su pierna mientras el perro amarillo se acerca moviendo la cola. La niña baja la mirada hacia ellos. Su expresión comienza a cambiar.\n\n7.5–10  \n\nAcercamiento cinematográfico final. La niña se agacha y abraza a los dos perros. Cierra brevemente los ojos y aparece una pequeña sonrisa genuina. Los perros permanecen junto a ella. La luz cálida del jardín envuelve a los tres.",
+    "sourceRange": {
+      "start": 28,
+      "end": 1012
+    },
+    "translations": {
+      "zh": "0–2.5 秒\n女孩在花园中或坐或立于房屋旁的情绪特写。她带着忧伤且暗淡的眼神望向一侧。微风轻拂她的发丝和周围树叶。镜头极缓慢推向面部。\n\n2.5–5 秒\n镜头柔和向下及侧方平移，展现一只注视着她的黑狗。黑狗轻摇尾巴走向她。黄狗也抬头并开始靠近。\n\n5–7.5 秒\n中景。两只狗来到女孩身旁。黑狗轻靠她的腿，黄狗摇尾走近。女孩低头看向它们，神情逐渐转变。\n\n7.5–10 秒\n最终电影感特写。女孩蹲下拥抱两只狗，微闭双眼露出真诚微笑。狗狗陪伴在侧，暖色花园光线笼罩三人。",
+      "en": "0–2.5 s\nClose-up of the girl sitting or standing near the house in the garden. She looks to the side with a sad expression and dull eyes. A slight breeze gently moves her hair and nearby leaves. Very slow camera zoom into her face.\n\n2.5–5 s\nThe camera smoothly pans down and sideways, revealing the black dog watching her. The dog slowly wags its tail and approaches. The yellow dog also looks up and starts approaching.\n\n5–7.5 s\nMedium shot. Both dogs reach the girl. The black dog gently rests its head on her leg while the yellow dog approaches wagging its tail. The girl looks down at them; her expression softens.\n\n7.5–10\nFinal cinematic close-up. The girl crouches down and hugs both dogs. She briefly closes her eyes with a warm, genuine smile. The dogs stay close by her side, bathed in warm garden light."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

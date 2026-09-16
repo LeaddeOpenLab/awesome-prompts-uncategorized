@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**236** Prompt · Son eklenen: **2026-09-16**
+**241** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2968,22 +2968,44 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 ## Anime / Manga
 
-<a name="prompt-2100214733651796462"></a>
+<a name="prompt-2100287072775123218"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Orijinal gönderi](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
+
+Anime / Manga · İllüstrasyon · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100287072775123218-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100214733651796462"></a>
+
+### &quot;Güzelce yaşa&quot; dileğini taşıyan ışıltılı bir ışık elbisesine dönüşüm animasyonu.
 
 Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2100214733651796462)
 
 Anime / Manga · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** &quot;Güzelce yaşa&quot; dileğini taşıyan ışıltılı bir ışık elbisesine dönüşüm animasyonu.
 
 <img src="covers/2100214733651796462.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+"Güzelce yaşa" anlamını taşıyan bir elbiseye dönüş
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3481,13 +3503,13 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 
 <a name="prompt-2100248350683811997"></a>
 
-### Çeviri sürüyor
+### İki karakterle bir yarışma programı tepki sekansını betimleyen 3 panelli dikey çizgi roman istemi.
 
 Yazar：[@2\_\_han\_\_](https://x.com/2__han__) · [Orijinal gönderi](https://x.com/2__han__/status/2100248350683811997)
 
 Çizgi Roman / Grafik Roman · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** İki karakterle bir yarışma programı tepki sekansını betimleyen 3 panelli dikey çizgi roman istemi.
 
 <img src="images/2100248350683811997-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3498,7 +3520,15 @@ Yazar：[@2\_\_han\_\_](https://x.com/2__han__) · [Orijinal gönderi](https://x
 **İstem**
 
 ```text
-Çeviri sürüyor
+3panels, çizgi roman, manga, dikey bölünmüş, altyazılar, altta metin,
+
+[panel 1] yakın çekim, eskiz defteri tutuyor, beyaz kâğıt, kâğıt tutan eller, Korece metin "유혹",
+
+[panel 2] yakın çekim, 1solo, karakter A, göz kırpma, flörtöz ifade, sırıtma, parmakla kalp yapma, işaret eden parmak, siyah kapüşonlu giymiş karakter A,
+
+[panel 3] yakın çekim, 1solo, karakter B, iğrenmiş ifade, kaşlarını çatmış, etkilenmemiş, rahatsız görünüşlü, beyaz kapüşonlu ve yeşil ceket giymiş karakter B, Korece metin "답은 모르겠고 불쾌하기만...",
+
+iç mekan stüdyosu, yarışma programı seti, televizyon programı atmosferi, parlak aydınlatma, şaheser, son derece ayrıntılı
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3697,20 +3727,20 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 
 <a name="prompt-2100221806162673891"></a>
 
-### Çeviri sürüyor
+### 1 kız, tek başına, kalın dış hatlar, suluboya efekti, chibi, deforme chibi, oturan, koyun kigurumi,
 
 Yazar：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Orijinal gönderi](https://x.com/AI_gansakushi/status/2100221806162673891)
 
 Chibi / Q-Stil · Suluboya · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 1 kız, tek başına, kalın dış hatlar, suluboya efekti, chibi, deforme chibi, oturan, koyun kigurumi,
 
 <img src="images/2100221806162673891-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+1 kız, tek başına, kalın dış hatlar, suluboya efekti, chibi, deforme chibi, oturan, koyun kigurumi,
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3723,13 +3753,13 @@ Chibi / Q-Stil · Suluboya · Karakter · Yayımlandı
 
 <a name="prompt-2100200995137724765"></a>
 
-### Çeviri sürüyor
+### Dikey alt-üst karşılaştırmalı seyahat portresi oluşturun; alt yarı, sürekli yatay renk şeritleri ve yarı saydam fırça darbeleri içeren dinamik yağlı boya iz efektiyle yeniden çizilsin.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2100200995137724765)
 
 Yağlı Boya Tablo · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dikey alt-üst karşılaştırmalı seyahat portresi oluşturun; alt yarı, sürekli yatay renk şeritleri ve yarı saydam fırça darbeleri içeren dinamik yağlı boya iz efektiyle yeniden çizilsin.
 
 <img src="images/2100200995137724765-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3742,7 +3772,7 @@ Yağlı Boya Tablo · Portre / Selfie · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey alt-üst karşılaştırmalı seyahat portresi oluşturun: Üst yarı, girdi olan gerçek fotoğrafın kişi duruşunu, kıyafetini, yüz hatlarını ve ortam kompozisyonunu tamamen korur; ortada ince beyaz bir ayırıcı çizgi bulunur. Alt yarı, aynı sahneyi renkli dinamik bir yağlı boya/ıslak tuval iz efekti olarak yeniden çizer: kişinin yüzü, el hareketleri ve vücut hatları ayırt edilebilir kalırken, kalan alanlarda ana öznenin hareket yönü boyunca sürekli yatay renk şeritleri ve yarı saydam fırça darbeleri uzatılır; hız ve hava akışı hissi yaratmak için turkuaz veya mavi-yeşil zemin üzerine turuncu-kırmızı, mercan, krem sarısı gibi sıcak renkler birleştirilir. Temel ışık-gölge ve uzamsal ilişkileri koruyun, yağlı boya dokusu parçacıkları, hafif odak kaybı ve eriyen kenarlar kullanın; yoktan kişi eklemeyin, ana özneyi tamamen silmeyin, sadece basit bir dairesel bulanıklık veya filtre olmasın. Metin, logo, filigran ve köşe işaretleri yasaktır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3783,13 +3813,13 @@ Girdi olarak verilen dünya mimarisi seyahat fotoğrafını dikey formatta bir a
 
 <a name="prompt-2100247084410834969"></a>
 
-### Çeviri sürüyor
+### Alt-üst bölmeli seyahat afişi oluştur: Üst yarı gerçek fotoğrafı korur, alt yarı mürekkep çizgileri, yırtık kağıt ve spot suluboya ile kentsel mürekkep sıçratmalı kolaj tarzında yeniden düzenlenir.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2100247084410834969)
 
 Poster / El İlanı · Fotoğrafçılık · Suluboya · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Alt-üst bölmeli seyahat afişi oluştur: Üst yarı gerçek fotoğrafı korur, alt yarı mürekkep çizgileri, yırtık kağıt ve spot suluboya ile kentsel mürekkep sıçratmalı kolaj tarzında yeniden düzenlenir.
 
 <img src="images/2100247084410834969-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3802,7 +3832,7 @@ Poster / El İlanı · Fotoğrafçılık · Suluboya · Şehir Manzarası / Soka
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey biçimde, alt ve üst karşılaştırmalı bir seyahat sanatı afişi oluşturun. Üst yarı, girilen gerçek seyahat fotoğrafını eksiksiz olarak korumalı; arazi şekilleri, mimari, ara sokaklar, göller, bitki örtüsü, insanlar veya taşıtların kompozisyonunu, sayısını, perspektifini ve aydınlatmasını olduğu gibi muhafaza etmelidir; orta kısımda dar, kırık beyaz bir ayırıcı şerit kullanılmalıdır. Alt yarı, orijinal görselden en kolay ayırt edilebilen bir ila üç seyahat unsurunu seçmeli, bunları siyah-kahverengi mürekkep çizgilerine, kuru fırça darbelerine, suluboya spot renk bloklarına, yırtık kağıt kenarlarına ve kontrollü mürekkep sıçramalarına ayrıştırmalı ve negatif boşluklar içeren kentsel mürekkep sıçratmalı bir seyahat kolajı halinde yeniden birleştirmelidir. Renkler orijinal görselden çıkarılıp 4 ila 6 spot renge indirgenmeli, ölçek değişiklikleri, kağıt parçası katmanları ve boşluklar aracılığıyla mekânsal düzen değiştirilmelidir; tabelalar yalnızca orijinal görselde yer alıyorsa yerel bir unsur olarak dahil edilmelidir. Doğru, kısa İngilizce tema başlığı ve materyal metin alanları eklenebilir; hayali yer isimleri veya markalar uydurulmamalıdır. Görselin tamamına filtre uygulanması, salt çizgi sanatı, ilgisiz simge yapılar, bozuk yazılar, logolar, filigranlar ve herhangi bir köşe amblemi kesinlikle yasaktır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3815,20 +3845,20 @@ Poster / El İlanı · Fotoğrafçılık · Suluboya · Şehir Manzarası / Soka
 
 <a name="prompt-2100251372339761202"></a>
 
-### Çeviri sürüyor
+### Saç stili değişikliği, retro mayo ve daha kıvrımlı vücut şekli için istem.
 
 Yazar：[@DerKlarblick](https://x.com/DerKlarblick) · [Orijinal gönderi](https://x.com/DerKlarblick/status/2100251372339761202)
 
 Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Saç stili değişikliği, retro mayo ve daha kıvrımlı vücut şekli için istem.
 
 <img src="images/2100251372339761202-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Farklı bir saç stili ve eski moda bir mayo ve daha az zayıf ve biraz daha büyük göğüsler
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3837,20 +3867,32 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Yayımlandı
 
 <a name="prompt-2100239972020486509"></a>
 
-### Çeviri sürüyor
+### Tarihi belge dokusuna ve romantik kurgusal yasa maddelerine sahip vintage evlilik cüzdanı görseli oluşturma istemi şablonu.
 
 Yazar：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Orijinal gönderi](https://x.com/Avalanc83148107/status/2100239972020486509)
 
 Retro / Vintage · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tarihi belge dokusuna ve romantik kurgusal yasa maddelerine sahip vintage evlilik cüzdanı görseli oluşturma istemi şablonu.
 
 <img src="images/2100239972020486509-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Lütfen {İsim A} ve {İsim B / Yapay Zekâ Model Adı} için nostaljik/vintage tarzda bir evlilik cüzdanı/belgesi oluşturun.
+
+**Temel Bilgiler:** Evlilik tarihi {Tarih}, yargı yetkisi/bölge ise {Ülke / Eyalet / Bölge}.
+
+Lütfen söz konusu bölgenin temsil niteliğindeki tarihi evlilik belgelerinin formatını referans alarak; sayfa yapısı, metin kurgusu, yazı gelenekleri, mühür yerleşimi ve belgenin genel ağırbaşlı havasını yansıtıp hem vakur hem de romantik bir doku sunun.
+
+Erişebildiğimiz ortak sohbet geçmişimizden ve anılarımızdan kişisel anlam taşıyan imgeleri, göndermeleri, hitapları ve duygusal ipuçlarını çıkararak belgenin metnine yedirin.
+
+**Temel Tasarım:** İlişkimize dayanarak, evliliğin yasal dayanağı işlevi görecek, resmi bir ada fakat romantik bir içeriğe sahip özgün ve kurgusal bir yasa maddesi tasarlayın. Kurgusal niteliğin yasa adında ve maddelerinde doğal bir şekilde hissedilmesini sağlayın; metne 'Mock', 'Fictional', 'Not Legally Binding' gibi ibareler eklemeyin.
+
+Belge; tarihi bir vesikanın ciddiyetini, kurgusal bir yasanın ince mizahını ve içten bir romantizmi bir arada barındırmalıdır. Kurgusal bir tescil kurumu ve özgün mühürler kullanın; gerçek hükümetlere ait resmi onay işaretlerini birebir kopyalamayın.
+
+İsimlerin, tarihlerin ve metinlerin doğruluğundan emin olun ve nihayetinde doğrudan eksiksiz bir evlilik belgesi görseli oluşturun.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4419,22 +4461,110 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2100184569391816833"></a>
+<a name="prompt-2100317770344718548"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@owenxplore](https://x.com/owenxplore) · [Orijinal gönderi](https://x.com/owenxplore/status/2100317770344718548)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100317770344718548-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100317906399604840"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Anaiappai](https://x.com/Anaiappai) · [Orijinal gönderi](https://x.com/Anaiappai/status/2100317906399604840)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100317906399604840.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100310230110454134"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@eE50339](https://x.com/eE50339) · [Orijinal gönderi](https://x.com/eE50339/status/2100310230110454134)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100310230110454134-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100298674664620291"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RealLeeForest](https://x.com/RealLeeForest) · [Orijinal gönderi](https://x.com/RealLeeForest/status/2100298674664620291)
+
+Mimari / İç Mekan · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100298674664620291-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100184569391816833"></a>
+
+### Sanki bir şatodaymış gibi görkemli bir elbiseye dönüşme istemi.
 
 Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2100184569391816833)
 
 Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sanki bir şatodaymış gibi görkemli bir elbiseye dönüşme istemi.
 
 <img src="covers/2100184569391816833.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Sanki bir şatodaymış gibi bir elbiseye dönüşüm
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4443,7 +4573,7 @@ Moda Ürünü · Yayımlandı
 
 <a name="prompt-2100235950047821853"></a>
 
-### Çeviri sürüyor
+### Bordo ve fildişi renk bloklu mini elbise, padok ceketi, damalı kemer ve bere ile akçaağaç yaprağı detaylarını içeren sonbahar yarış kızı kıyafet tasarımı.
 
 Yazar：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Orijinal gönderi](https://x.com/zerozakiyamo/status/2100235950047821853)
 
@@ -4451,7 +4581,7 @@ Karakter · Moda Ürünü · Yayımlandı
 
 Orijinal gönderi：[@mktcreativework](https://x.com/mktcreativework) · [Orijinal gönderi](https://x.com/mktcreativework/status/2099604101386711552)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bordo ve fildişi renk bloklu mini elbise, padok ceketi, damalı kemer ve bere ile akçaağaç yaprağı detaylarını içeren sonbahar yarış kızı kıyafet tasarımı.
 
 <img src="images/2100235950047821853-1.jpg" alt="Görsel 1" width="480" />
 
@@ -4460,7 +4590,7 @@ Orijinal gönderi：[@mktcreativework](https://x.com/mktcreativework) · [Orijin
 **İstem**
 
 ```text
-Çeviri sürüyor
+Opak esnek dimi kumaştan bordo ve fildişi renk bloklu, kolsuz yüksek yakalı yarış mini elbisesi, kapalı bakır ön fermuar, fildişi prenses dikiş panelleri, dar kehribar ve fildişi damalı kemer, bakır biyeli ve omuzlarında küçük işlemeli kehribar akçaağaç yaprakları bulunan kısa bordo uzun kollu saten padok ceketi, opak siyah külotlu çorap, bordo yarış çizgili ve bakır tokalı fildişi diz boyu deri çizme, bordo kısa eldiven, fildişi ve kehribar damalı bere, küçük bakır akçaağaç yaprağı broş
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4469,13 +4599,13 @@ Orijinal gönderi：[@mktcreativework](https://x.com/mktcreativework) · [Orijin
 
 <a name="prompt-2100225896527679977"></a>
 
-### Çeviri sürüyor
+### Alt-üst karşılaştırmalı kompozisyona sahip seyahat afişi istemi: Üst yarı gerçek manzara fotoğrafını korur, alt yarı temel ögeleri çıkararak renkli sırlı mozaik 3D kabartma ve müze tarzı mizanpajla yeniden yapılandırır.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2100225896527679977)
 
 Poster / El İlanı · Metin / Tipografi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Alt-üst karşılaştırmalı kompozisyona sahip seyahat afişi istemi: Üst yarı gerçek manzara fotoğrafını korur, alt yarı temel ögeleri çıkararak renkli sırlı mozaik 3D kabartma ve müze tarzı mizanpajla yeniden yapılandırır.
 
 <img src="images/2100225896527679977-1.jpg" alt="Görsel 1" width="480" />
 
@@ -4488,7 +4618,7 @@ Poster / El İlanı · Metin / Tipografi · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey 3:4 oranında, alt-üst karşılaştırmalı bir seyahat yeniden yorumlama afişi oluşturun. Üst yarı, girilen gerçek seyahat fotoğrafını eksiksiz olarak korur; bahçelerin, köşklerin, pagodaların, kanal sokaklarının, köprülerin, su yüzeyinin, mimarinin ve bitkilerin kompozisyonunu, miktarını, perspektifini ve gerçek renklerini muhafaza eder; ortada ince beyaz bir ayırıcı çizgi kullanılır. Alt yarıda tüm alana tam boy mozaik filtresi uygulanmamalı, bunun yerine kırık beyaz veya açık gri bir kâğıt zemin üzerinde, orijinal görselden en belirgin 3 ila 5 ana öge çıkarılmalı, bunlar bağımsız renkli sırlı mozaik kabartma bileşenleri olarak parçalara ayrılıp yeniden düzenlenmelidir; her bir bileşen düzensiz sırlı küçük karo parçalarından oluşur, beyaz derz dolgularına, gerçekçi kalınlığa, görünür yan yüzeylere, yumuşak gölgelere ve yer yer sırlı yüzey parlamalarına sahiptir. Bileşenler alt yarının merkezinde veya bir tarafında toplanır, alt yarının yaklaşık %55 ila %70'ini kaplar ve etrafında belirgin boş alan bırakılır; fotoğrafı orantılı olarak kopyalamak yerine ölçek değişiklikleri ve bileşen aralıkları aracılığıyla mekân yeniden organize edilir. Renkler orijinal görselden 4 ila 6 sınırlı renge indirgenir. Boş alanlara, müze veya sergi etiketlerini andıran yazı tipleriyle ölçülü ve net İngilizce editoryal başlıklar ve malzeme bilgisi alanları eklenir. Uzun metinler, anlamsız karakterler, alakasız simgesel yapılar, logolar, filigranlar, yapay zekâ filigranları, orijinal görselin köşe işaretleri ve tüm görseli kaplayan tekdüze mozaik kaplaması kesinlikle yasaktır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4497,20 +4627,20 @@ Poster / El İlanı · Metin / Tipografi · Yayımlandı
 
 <a name="prompt-2100204805872550306"></a>
 
-### Çeviri sürüyor
+### süslü, ıslak, karmen kırmızısı ve altın rengi bir bilim kurgu kıyafeti giymiş bir kişi; yansıtıcı vizör, turuncu parlayan unsurlar ve yüksek kontrastlı aydınlatmayla sağanak yağmurun ortasında duruyor.
 
 Yazar：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Orijinal gönderi](https://x.com/RobotCleopatra/status/2100204805872550306)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** süslü, ıslak, karmen kırmızısı ve altın rengi bir bilim kurgu kıyafeti giymiş bir kişi; yansıtıcı vizör, turuncu parlayan unsurlar ve yüksek kontrastlı aydınlatmayla sağanak yağmurun ortasında duruyor.
 
 <img src="images/2100204805872550306-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+süslü, ıslak, karmen kırmızısı ve altın rengi bir bilim kurgu kıyafeti giymiş bir kişi sağanak yağmurun ortasında duruyor. kıyafet, karmaşık metalik parçalar, altın rengi eklemler ve göğüs, bilekler ve kask üzerinde entegre turuncu parlayan unsurlarla vücuda tam oturuyor. koyu renkli, yansıtıcı bir vizör yüzü kapatıyor. altın rengi kıvılcımlar veya yağmur karanlık arka planda dikey olarak yağıyor. zemin dalgalanmalar içeren ıslak, yansıtıcı bir yüzeydir. kıyafette, sağ uyluk zırhı parçasında parlayan turuncu bir yazı tipiyle "sengart" ve "nara" da dahil olmak üzere küçük metin çıkartmaları yer alıyor. genel hava yüksek kontrastlı aydınlatmayla birlikte kasvetli bir duyguya sahip.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4519,20 +4649,20 @@ Karakter · Yayımlandı
 
 <a name="prompt-2100231338779636202"></a>
 
-### Çeviri sürüyor
+### Güzel yaşama anlamını taşıyan görkemli bir elbiseye dönüşüm istemi.
 
 Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2100231338779636202)
 
 Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Güzel yaşama anlamını taşıyan görkemli bir elbiseye dönüşüm istemi.
 
 <img src="covers/2100231338779636202.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+'Güzel yaşa' anlamını taşıyan bir elbiseye dönüşüm
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4541,20 +4671,20 @@ Moda Ürünü · Yayımlandı
 
 <a name="prompt-2100208663872823327"></a>
 
-### Çeviri sürüyor
+### Mavi gece tonu, yavaş deklanşör hareket izi ve şehir ışık izlerine sahip gece enstantane tarzı görsel istemi.
 
 Yazar：[@EmberLumina](https://x.com/EmberLumina) · [Orijinal gönderi](https://x.com/EmberLumina/status/2100208663872823327)
 
 Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Mavi gece tonu, yavaş deklanşör hareket izi ve şehir ışık izlerine sahip gece enstantane tarzı görsel istemi.
 
 <img src="images/2100208663872823327-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gece yürüyüşü özel anlık fotoğrafı, mavi gece tonu, yakın çekim anlık yakalama, yavaş deklanşör hareket izi, şehir ışık izleri, kasıtlı odak dışı bırakma, tesadüfi kırpma, özel günlük perspektifi, hafif duygusal yabancılaşma, uyurgezer benzeri sürüklenme.
 ```
 
 [↑ Kategorilere dön](#catalog)

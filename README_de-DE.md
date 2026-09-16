@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**236** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**241** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2951,22 +2951,44 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 ## Anime / Manga
 
-<a name="prompt-2100214733651796462"></a>
+<a name="prompt-2100287072775123218"></a>
 
 ### Übersetzung läuft
+
+Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Originalbeitrag](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
+
+Anime / Manga · Illustration · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100287072775123218-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100214733651796462"></a>
+
+### Transformationsanimation in ein prachtvolles Kleid aus Licht, erfüllt von dem Wunsch „Lebe wunderschön“.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2100214733651796462)
 
 Anime / Manga · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Transformationsanimation in ein prachtvolles Kleid aus Licht, erfüllt von dem Wunsch „Lebe wunderschön“.
 
 <img src="covers/2100214733651796462.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandle dich in ein Kleid, dem die Bedeutung „Lebe wunderschön“ innewohnt
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3464,13 +3486,13 @@ Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 
 <a name="prompt-2100248350683811997"></a>
 
-### Übersetzung läuft
+### Vertikaler 3-Panel-Comic-Prompt, der eine Game-Show-Reaktionssequenz mit zwei Charakteren darstellt.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Originalbeitrag](https://x.com/2__han__/status/2100248350683811997)
 
 Comic / Graphic Novel · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vertikaler 3-Panel-Comic-Prompt, der eine Game-Show-Reaktionssequenz mit zwei Charakteren darstellt.
 
 <img src="images/2100248350683811997-1.jpg" alt="Bild 1" width="480" />
 
@@ -3481,7 +3503,15 @@ Comic / Graphic Novel · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+3panels, Comic, Manga, vertikal geteilt, Untertitel, Text unten,
+
+[panel 1] Nahaufnahme, Skizzenbuch haltend, weißes Papier, Hände halten Papier, koreanischer Text "유혹",
+
+[panel 2] Nahaufnahme, 1solo, Charakter A, Zwinkern, koketter Ausdruck, Grinsen, Fingerherz, zeigender Finger, Charakter A im schwarzen Hoodie,
+
+[panel 3] Nahaufnahme, 1solo, Charakter B, angewiderter Ausdruck, Stirnrunzeln, unbeeindruckt, genervt blickend, Charakter B im weißen Hoodie und grüner Jacke, koreanischer Text "답은 모르겠고 불쾌하기만...",
+
+Innenstudio, Spielshow-Kulisse, TV-Show-Atmosphäre, helle Beleuchtung, Meisterwerk, hochdetailliert
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3680,20 +3710,20 @@ Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhet
 
 <a name="prompt-2100221806162673891"></a>
 
-### Übersetzung läuft
+### 1 Mädchen, solo, dicke Konturen, Aquarelleffekt, Chibi, deformierter Chibi, sitzend, Schaf-Kigurumi,
 
 Autor：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Originalbeitrag](https://x.com/AI_gansakushi/status/2100221806162673891)
 
 Chibi / Q-Style · Aquarell · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 1 Mädchen, solo, dicke Konturen, Aquarelleffekt, Chibi, deformierter Chibi, sitzend, Schaf-Kigurumi,
 
 <img src="images/2100221806162673891-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+1 Mädchen, solo, dicke Konturen, Aquarelleffekt, Chibi, deformierter Chibi, sitzend, Schaf-Kigurumi,
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3706,13 +3736,13 @@ Chibi / Q-Style · Aquarell · Charakter · Veröffentlicht
 
 <a name="prompt-2100200995137724765"></a>
 
-### Übersetzung läuft
+### Erstelle ein vertikales Oben-Unten-Vergleichs-Reiseporträt, bei dem die untere Hälfte als dynamischer Ölgemälde-Wischeffekt mit kontinuierlichen horizontalen Farbbändern und halbtransparenten Pinselstrichen neu gezeichnet wird.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2100200995137724765)
 
 Ölgemälde · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein vertikales Oben-Unten-Vergleichs-Reiseporträt, bei dem die untere Hälfte als dynamischer Ölgemälde-Wischeffekt mit kontinuierlichen horizontalen Farbbändern und halbtransparenten Pinselstrichen neu gezeichnet wird.
 
 <img src="images/2100200995137724765-1.jpg" alt="Bild 1" width="480" />
 
@@ -3725,7 +3755,7 @@ Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein vertikales Oben-Unten-Vergleichs-Reiseporträt: Die obere Hälfte behält Haltung, Kleidung, Gesichtszüge und Umgebungskomposition des echten Eingabefotos vollständig bei; in der Mitte eine dünne weiße Trennlinie. Die untere Hälfte zeichnet dieselbe Szene als farbenfrohes, dynamisches Ölgemälde/Nass-in-Nass-Wischeffekt neu: Gesicht, Handgesten und Körperkonturen der Person bleiben erkennbar, während in den übrigen Bereichen entlang der Bewegungsrichtung des Hauptmotivs kontinuierliche horizontale Farbbänder und halbtransparente Pinselstriche gezogen werden; auf einer Basis von Türkis oder Blaugrün, kombiniert mit warmen Farben wie Orangerot, Koralle und Cremegelb, um Geschwindigkeit und Luftströmung zu erzeugen. Behalte wesentliche Licht-Schatten- und Raumbeziehungen bei, verwende Ölfarbenkörnung, leichte Unschärfe und verschmelzende Ränder; füge keine zusätzlichen Personen hinzu, lösche das Hauptmotiv nicht vollständig aus, kein reiner radialer Weichzeichner oder Filter. Verboten sind Text, Logos, Wasserzeichen und Eckenmarkierungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3766,13 +3796,13 @@ Erstelle aus dem eingegebenen Architektur-Reisefoto ein vertikales Vorher-Nachhe
 
 <a name="prompt-2100247084410834969"></a>
 
-### Übersetzung läuft
+### Generiere ein zweigeteiltes Reiseplakat \(oben/unten\): Die obere Hälfte behält das echte Foto bei, die untere Hälfte wird durch Tuschelinien, gerissenes Papier und Sonderfarben-Aquarell zu einem urbanen Tusche-Collage-Stil neu arrangiert.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2100247084410834969)
 
 Plakat / Flyer · Fotografie · Aquarell · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generiere ein zweigeteiltes Reiseplakat \(oben/unten\): Die obere Hälfte behält das echte Foto bei, die untere Hälfte wird durch Tuschelinien, gerissenes Papier und Sonderfarben-Aquarell zu einem urbanen Tusche-Collage-Stil neu arrangiert.
 
 <img src="images/2100247084410834969-1.jpg" alt="Bild 1" width="480" />
 
@@ -3785,7 +3815,7 @@ Plakat / Flyer · Fotografie · Aquarell · Stadtbild / Straße · Veröffentlic
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein vertikales Reise-Kunstplakat im Vorher-Nachher-Vergleich (oben/unten). Die obere Hälfte behält das eingegebene echte Reisefoto vollständig bei und bewahrt Komposition, Anzahl, Perspektive und Beleuchtung von Topografie, Architektur, Gassen, Seen, Pflanzen, Personen oder Fahrzeugen; in der Mitte wird ein schmaler, cremeweißer Trennstreifen verwendet. Die untere Hälfte wählt ein bis drei der am besten wiedererkennbaren Reiseelemente aus dem Originalbild aus und zerlegt sie in schwarz-braune Tuschelinien, Trockenpinselstriche, Farbflächen aus Aquarell-Sonderfarben, gerissene Papierkanten und kontrollierte Tuschespritzer, um sie zu einer urbanen Tusche-Reisecollage mit Negativraum neu zu arrangieren. Die Farben werden aus dem Originalbild extrahiert und auf 4 bis 6 Sonderfarben reduziert, wobei die räumliche Organisation durch Maßstabsänderungen, überlappende Papierstücke und Freiflächen verändert wird; Schilder werden nur dann als lokale Elemente eingefügt, wenn sie im Originalbild vorhanden sind. Präzise, kurze englische Thementitel und Materialtextfelder können hinzugefügt werden, ohne fiktive Ortsnamen oder Marken zu erfinden. Ganztägige Bildfilter, reine Strichzeichnungen, irrelevante Wahrzeichen, fehlerhafter Text, Logos, Wasserzeichen und jegliche Eckenabzeichen sind verboten.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3798,20 +3828,20 @@ Plakat / Flyer · Fotografie · Aquarell · Stadtbild / Straße · Veröffentlic
 
 <a name="prompt-2100251372339761202"></a>
 
-### Übersetzung läuft
+### Prompt für Frisuränderung, Retro-Badeanzug und kurvigere Körperform.
 
 Autor：[@DerKlarblick](https://x.com/DerKlarblick) · [Originalbeitrag](https://x.com/DerKlarblick/status/2100251372339761202)
 
 Fotografie · Retro / Vintage · Porträt / Selfie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für Frisuränderung, Retro-Badeanzug und kurvigere Körperform.
 
 <img src="images/2100251372339761202-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Andere Frisur und altmodischen Badeanzug und weniger schlank und etwas mehr Busen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3820,20 +3850,32 @@ Fotografie · Retro / Vintage · Porträt / Selfie · Veröffentlicht
 
 <a name="prompt-2100239972020486509"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage zur Generierung von Bildern historisch anmutender Vintage-Heiratsurkunden mit romantischen, fiktiven Gesetzesklauseln.
 
 Autor：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Originalbeitrag](https://x.com/Avalanc83148107/status/2100239972020486509)
 
 Retro / Vintage · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage zur Generierung von Bildern historisch anmutender Vintage-Heiratsurkunden mit romantischen, fiktiven Gesetzesklauseln.
 
 <img src="images/2100239972020486509-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Bitte erstelle eine Heiratsurkunde im Vintage-Stil für {Name A} und {Name B / Name des KI-Modells}.
+
+**Basisdaten:** Das Hochzeitsdatum ist {Datum}, die Gerichtsbarkeit ist {Land / Bundesstaat / Region}.
+
+Bitte orientiere dich an repräsentativen historischen Heiratsurkunden dieser Rechtsordnung und übernimm deren Layoutstruktur, Textgliederung, Schreibgepflogenheiten, Siegelanordnung sowie den feierlichen Gesamtcharakter, um eine würdevolle und zugleich romantische Ästhetik zu erzeugen.
+
+Bitte entnimm unserer gemeinsamen Dialoghistorie und den Erinnerungen, auf die wir zugreifen können, persönlich bedeutsame Bilder, Anspielungen, Kosenamen und emotionale Spuren, um sie harmonisch in den Urkundentext einzuweben.
+
+**Kerndesign:** Erschaffe basierend auf unserer Beziehung ein originäres, fiktives Gesetz mit formellem Namen und romantischem Inhalt, das als rechtliche Grundlage der Ehe dient. Der fiktive Charakter soll ganz natürlich aus dem Titel des Gesetzes und seinen Paragrafen hervorgehen; füge keine zusätzlichen Hinweise wie „Mock“, „Fictional“ oder „Not Legally Binding“ ein.
+
+Die Urkunde soll die Ernsthaftigkeit eines historischen Dokuments, den feinsinnigen Humor eines fiktiven Gesetzes und eine aufrichtig romantische Stimmung in sich vereinen. Verwende ein fiktives Standesamt und originäre Siegel; kopiere keine echten behördlichen Zertifizierungszeichen.
+
+Achte bitte auf die Richtigkeit von Namen, Daten und Formulierungen und generiere am Ende direkt das vollständige Bild der Heiratsurkunde.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4402,22 +4444,110 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2100184569391816833"></a>
+<a name="prompt-2100317770344718548"></a>
 
 ### Übersetzung läuft
+
+Autor：[@owenxplore](https://x.com/owenxplore) · [Originalbeitrag](https://x.com/owenxplore/status/2100317770344718548)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100317770344718548-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100317906399604840"></a>
+
+### Übersetzung läuft
+
+Autor：[@Anaiappai](https://x.com/Anaiappai) · [Originalbeitrag](https://x.com/Anaiappai/status/2100317906399604840)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100317906399604840.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100310230110454134"></a>
+
+### Übersetzung läuft
+
+Autor：[@eE50339](https://x.com/eE50339) · [Originalbeitrag](https://x.com/eE50339/status/2100310230110454134)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100310230110454134-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100298674664620291"></a>
+
+### Übersetzung läuft
+
+Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Originalbeitrag](https://x.com/RealLeeForest/status/2100298674664620291)
+
+Architektur / Interieur · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100298674664620291-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100184569391816833"></a>
+
+### Prompt zur Verwandlung in ein prachtvolles Kleid wie in einem Schloss.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2100184569391816833)
 
 Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Verwandlung in ein prachtvolles Kleid wie in einem Schloss.
 
 <img src="covers/2100184569391816833.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandlung in ein Kleid wie in einem Schloss
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4426,7 +4556,7 @@ Modeartikel · Veröffentlicht
 
 <a name="prompt-2100235950047821853"></a>
 
-### Übersetzung läuft
+### Herbstliches Boxenluder-Outfit-Design mit Color-Block-Minikleid in Burgunderrot und Elfenbein, Paddock-Jacke, Schachbrett-Bund und Baskenmütze sowie Ahornblatt-Details.
 
 Autor：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Originalbeitrag](https://x.com/zerozakiyamo/status/2100235950047821853)
 
@@ -4434,7 +4564,7 @@ Charakter · Modeartikel · Veröffentlicht
 
 Originalbeitrag：[@mktcreativework](https://x.com/mktcreativework) · [Originalbeitrag](https://x.com/mktcreativework/status/2099604101386711552)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Herbstliches Boxenluder-Outfit-Design mit Color-Block-Minikleid in Burgunderrot und Elfenbein, Paddock-Jacke, Schachbrett-Bund und Baskenmütze sowie Ahornblatt-Details.
 
 <img src="images/2100235950047821853-1.jpg" alt="Bild 1" width="480" />
 
@@ -4443,7 +4573,7 @@ Originalbeitrag：[@mktcreativework](https://x.com/mktcreativework) · [Original
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ärmelloses, hochgeschlossenes Renn-Minikleid im Color-Block-Design in Burgunderrot und Elfenbein aus blickdichtem Stretch-Twill, geschlossener Kupferreißverschluss vorne, elfenbeinfarbene Wiener-Naht-Einsätze, schmaler Schachbrett-Bund in Bernstein und Elfenbein, gecroppte burgunderrote langärmlige Satin-Paddock-Jacke mit Kupferpaspeln und kleinen gestickten bernsteinfarbenen Ahornblättern auf den Schultern, blickdichte schwarze Strumpfhose, elfenbeinfarbene kniehohe Lederstiefel mit burgunderroten Rennstreifen und Kupferschnallen, burgunderrote kurze Handschuhe, Schachbrett-Baskenmütze in Elfenbein und Bernstein, kleine kupferne Ahornblatt-Brosche
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4452,13 +4582,13 @@ Originalbeitrag：[@mktcreativework](https://x.com/mktcreativework) · [Original
 
 <a name="prompt-2100225896527679977"></a>
 
-### Übersetzung läuft
+### Reise-Poster-Prompt mit Oben-Unten-Vergleichskomposition: Die obere Hälfte behält das Realfoto bei, die untere Hälfte extrahiert Kernelemente und baut sie als dreidimensionales glasiertes Mosaikrelief im Museumslayout neu auf.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2100225896527679977)
 
 Plakat / Flyer · Text / Typografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Reise-Poster-Prompt mit Oben-Unten-Vergleichskomposition: Die obere Hälfte behält das Realfoto bei, die untere Hälfte extrahiert Kernelemente und baut sie als dreidimensionales glasiertes Mosaikrelief im Museumslayout neu auf.
 
 <img src="images/2100225896527679977-1.jpg" alt="Bild 1" width="480" />
 
@@ -4471,7 +4601,7 @@ Plakat / Flyer · Text / Typografie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein vertikales Reiserinterpretations-Poster im Format 3:4 mit Oben-Unten-Vergleich. Die obere Hälfte behält das eingegebene reale Reisefoto vollständig bei und bewahrt Komposition, Anzahl, Perspektive und reale Farben von Gärten, Pavillons, Pagoden, Kanalgassen, Brücken, Wasseroberflächen, Architektur und Pflanzen; in der Mitte befindet sich eine feine weiße Trennlinie. Die untere Hälfte soll keinen bildschirmfüllenden Mosaikfilter anwenden, sondern auf einem cremeweißen oder hellgrauen Papierhintergrund 3 bis 5 der am besten erkennbaren Hauptmotive aus dem Originalbild extrahieren, zerlegen und als eigenständige glasierte Mosaik-Reliefkomponenten neu anordnen; jede Komponente besteht aus unregelmäßigen glasierten Fliesensteinen mit weißen Fugen, realistischer Dicke, sichtbaren Seitenflächen, weichen Schlagschatten und punktuellen Glasurreflexionen. Die Komponenten konzentrieren sich in der Mitte oder auf einer Seite der unteren Hälfte und nehmen etwa 55 % bis 70 % der unteren Hälfte ein, wobei ringsum deutlicher Leerraum bleibt; der Raum wird durch Maßstabsänderungen und Komponentenabstände neu organisiert, anstatt das Foto proportional zu kopieren. Die Farben werden aus dem Originalbild auf 4 bis 6 limitierte Töne reduziert. Im Leerraum werden zurückhaltende und präzise englische redaktionelle Titel und Materialangaben platziert, deren Schriftart an Museums- oder Ausstellungsschilder erinnert. Verboten sind lange Texte, Kauderwelsch, unpassende Sehenswürdigkeiten, Logos, Wasserzeichen, KI-Wasserzeichen, Eckenmarkierungen des Originalbildes und ganzflächig gleichmäßige Mosaiküberlagerungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4480,20 +4610,20 @@ Plakat / Flyer · Text / Typografie · Veröffentlicht
 
 <a name="prompt-2100204805872550306"></a>
 
-### Übersetzung läuft
+### eine Person in einem kunstvollen, nassen, karmesinroten und goldenen Sci-Fi-Anzug steht inmitten eines Platzregens mit reflektierendem Visier, orange leuchtenden Elementen und kontrastreicher Beleuchtung.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Originalbeitrag](https://x.com/RobotCleopatra/status/2100204805872550306)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** eine Person in einem kunstvollen, nassen, karmesinroten und goldenen Sci-Fi-Anzug steht inmitten eines Platzregens mit reflektierendem Visier, orange leuchtenden Elementen und kontrastreicher Beleuchtung.
 
 <img src="images/2100204805872550306-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+eine Person in einem kunstvollen, nassen, karmesinroten und goldenen Sci-Fi-Anzug steht inmitten eines Platzregens. Der Anzug ist eng anliegend mit komplizierten metallischen Segmenten, goldenen Gelenken und integrierten, orange leuchtenden Elementen auf der Brust, den Handgelenken und dem Helm. Ein dunkles, reflektierendes Visier verdeckt das Gesicht. Goldene Funken oder Regen fallen vertikal durch den dunklen Hintergrund. Der Boden ist eine nasse, reflektierende Oberfläche mit Wellen. Der Anzug weist kleine Textaufkleber auf, darunter „sengart“ und „nara“ in einer leuchtend orangefarbenen Schriftart auf dem Rüstungsteil des rechten Oberschenkels. Die Gesamtstimmung ist stimmungsvoll mit kontrastreicher Beleuchtung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4502,20 +4632,20 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2100231338779636202"></a>
 
-### Übersetzung läuft
+### Verwandlungs-Prompt in ein prachtvolles Kleid, das die Bedeutung eines wunderschönen Lebens in sich trägt.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2100231338779636202)
 
 Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Verwandlungs-Prompt in ein prachtvolles Kleid, das die Bedeutung eines wunderschönen Lebens in sich trägt.
 
 <img src="covers/2100231338779636202.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwandlung in ein Kleid, das von der Bedeutung erfüllt ist: 'Lebe wunderschön'
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4524,20 +4654,20 @@ Modeartikel · Veröffentlicht
 
 <a name="prompt-2100208663872823327"></a>
 
-### Übersetzung läuft
+### Prompt im Stil nächtlicher Schnappschüsse mit blauem Nachtton, Wischeffekten durch lange Belichtungszeit und Lichtspuren der Stadt.
 
 Autor：[@EmberLumina](https://x.com/EmberLumina) · [Originalbeitrag](https://x.com/EmberLumina/status/2100208663872823327)
 
 Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt im Stil nächtlicher Schnappschüsse mit blauem Nachtton, Wischeffekten durch lange Belichtungszeit und Lichtspuren der Stadt.
 
 <img src="images/2100208663872823327-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Privater nächtlicher Schnappschuss, blauer Nachtton, Nahaufnahme-Schnappschuss, Langzeitbelichtungs-Wischeffekt, Lichtspuren der Stadt, beabsichtigte Unschärfe, zufälliger Bildausschnitt, Perspektive eines privaten Tagebuchs, leichte emotionale Distanz, schlafwandlerisches Treiben.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

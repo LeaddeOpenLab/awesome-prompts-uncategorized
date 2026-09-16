@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**236** Prompts · Adição mais recente: **2026-09-16**
+**241** Prompts · Adição mais recente: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -2968,22 +2968,44 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 ## Anime / Mangá
 
-<a name="prompt-2100214733651796462"></a>
+<a name="prompt-2100287072775123218"></a>
 
 ### Tradução em curso
+
+Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicação original](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
+
+Anime / Mangá · Ilustração · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100287072775123218-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100214733651796462"></a>
+
+### Animação de transformação num vestido de luz resplandecente imbuído do desejo de &quot;Vive magnificamente&quot;.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicação original](https://x.com/mioarashidaisuk/status/2100214733651796462)
 
 Anime / Mangá · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Animação de transformação num vestido de luz resplandecente imbuído do desejo de &quot;Vive magnificamente&quot;.
 
 <img src="covers/2100214733651796462.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Transforma-te num vestido imbuído com o significado de "Vive magnificamente"
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3481,13 +3503,13 @@ Tradução em curso
 
 <a name="prompt-2100248350683811997"></a>
 
-### Tradução em curso
+### Prompt de banda desenhada vertical de 3 painéis que retrata uma sequência de reações num concurso de televisão com dois personagens.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicação original](https://x.com/2__han__/status/2100248350683811997)
 
 Banda Desenhada / Romance Gráfico · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de banda desenhada vertical de 3 painéis que retrata uma sequência de reações num concurso de televisão com dois personagens.
 
 <img src="images/2100248350683811997-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3498,7 +3520,15 @@ Banda Desenhada / Romance Gráfico · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+3panels, banda desenhada, manga, divisão vertical, legendas, texto na parte inferior,
+
+[panel 1] grande plano, a segurar caderno de esboços, papel branco, mãos a segurar papel, texto em coreano "유혹",
+
+[panel 2] grande plano, 1solo, personagem A, piscar de olho, expressão sedutora, sorriso sarcástico, coração com os dedos, dedo a apontar, personagem A com camisola preta com capuz,
+
+[panel 3] grande plano, 1solo, personagem B, expressão de nojo, cenho franzido, indiferente, ar irritado, personagem B com camisola branca com capuz e casaco verde, texto em coreano "답은 모르겠고 불쾌하기만...",
+
+estúdio interior, cenário de concurso de televisão, atmosfera de programa de televisão, iluminação brilhante, obra-prima, altamente detalhado
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3697,20 +3727,20 @@ Cria-me um bastidor de servidores para 6 Nvidia Sparks com um design eficiente e
 
 <a name="prompt-2100221806162673891"></a>
 
-### Tradução em curso
+### 1 rapariga, a solo, contornos grossos, efeito de aguarela, chibi, chibi deformado, sentada, kigurumi de ovelha,
 
 Autor：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Publicação original](https://x.com/AI_gansakushi/status/2100221806162673891)
 
 Chibi / Estilo Q · Aquarela · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** 1 rapariga, a solo, contornos grossos, efeito de aguarela, chibi, chibi deformado, sentada, kigurumi de ovelha,
 
 <img src="images/2100221806162673891-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+1 rapariga, a solo, contornos grossos, efeito de aguarela, chibi, chibi deformado, sentada, kigurumi de ovelha,
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3723,13 +3753,13 @@ Tradução em curso
 
 <a name="prompt-2100200995137724765"></a>
 
-### Tradução em curso
+### Crie um retrato de viagem comparativo vertical superior-inferior, com a metade inferior redesenhada com um efeito de arrasto de pintura a óleo dinâmica com faixas de cor horizontais contínuas e pinceladas semitransparentes.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2100200995137724765)
 
 Pintura a Óleo · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Crie um retrato de viagem comparativo vertical superior-inferior, com a metade inferior redesenhada com um efeito de arrasto de pintura a óleo dinâmica com faixas de cor horizontais contínuas e pinceladas semitransparentes.
 
 <img src="images/2100200995137724765-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3742,7 +3772,7 @@ Pintura a Óleo · Retrato / Selfie · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um retrato de viagem comparativo vertical superior-inferior: a metade superior preserva integralmente a pose, o vestuário, os traços faciais e a composição do ambiente da fotografia real de entrada; uma linha divisória branca fina ao centro. A metade inferior redesenha a mesma cena como uma pintura a óleo dinâmica e colorida/efeito de arrasto sobre tela molhada: o rosto, os gestos das mãos e os contornos corporais da figura permanecem reconhecíveis, enquanto nas restantes áreas são puxadas faixas de cor horizontais contínuas e pinceladas semitransparentes ao longo da direção do movimento do motivo; com uma base de verde-azulado ou azul-turquesa, combinada com tons quentes como vermelho-alaranjado, coral e amarelo-creme, gerando velocidade e fluxo de ar. Mantenha as relações fundamentais de luz, sombra e espaço, recorrendo ao grão da tinta a óleo, ligeiro desfoque e contornos fundidos; não adicione figuras do nada, não elimine completamente o motivo principal, não utilize um simples desfoque radial ou filtro. Proibidos texto, logótipos, marcas de água e marcas de canto.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3783,13 +3813,13 @@ Transforme a foto de viagem de arquitetura mundial fornecida numa obra de arte v
 
 <a name="prompt-2100247084410834969"></a>
 
-### Tradução em curso
+### Gerar um cartaz de viagem com divisão superior e inferior: a metade superior preserva a foto real e a metade inferior é reorganizada através de traços de tinta, papel rasgado e aguarelas diretas num estilo de colagem urbana com salpicos de tinta.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2100247084410834969)
 
 Pôster / Folheto · Fotografia · Aquarela · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Gerar um cartaz de viagem com divisão superior e inferior: a metade superior preserva a foto real e a metade inferior é reorganizada através de traços de tinta, papel rasgado e aguarelas diretas num estilo de colagem urbana com salpicos de tinta.
 
 <img src="images/2100247084410834969-1.jpg" alt="Imagem 1" width="480" />
 
@@ -3802,7 +3832,7 @@ Pôster / Folheto · Fotografia · Aquarela · Paisagem urbana / Rua · Publicad
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz artístico de viagem vertical com comparação superior e inferior. A metade superior preserva integralmente a fotografia de viagem real de entrada, mantendo a composição, quantidade, perspetiva e iluminação do relevo, arquitetura, ruelas, lagos, vegetação, pessoas ou veículos; o centro utiliza uma faixa divisória estreita em branco-sujo. A metade inferior seleciona de um a três dos elementos de viagem mais identificáveis da imagem original, decompondo-os em traços de tinta castanho-escuro, pincel seco, blocos de cor sólida de aguarela, bordos de papel rasgado e salpicos de tinta controlados, reorganizando-os numa colagem de viagem urbana com salpicos de tinta e espaços em branco. As cores são extraídas da imagem original e comprimidas em 4 a 6 cores diretas, alterando a organização espacial através de variações de escala, sobreposição de recortes de papel e espaços negativos; letreiros só surgem como elementos locais caso existam na imagem original. É possível adicionar títulos temáticos curtos e rigorosos em inglês e campos de texto sobre os materiais, sem inventar nomes de locais ou marcas. São proibidos filtros em toda a imagem, desenhos de linhas simples, pontos de referência irrelevantes, texto ilegível, logótipos, marcas de água e quaisquer emblemas de canto.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3815,20 +3845,20 @@ Tradução em curso
 
 <a name="prompt-2100251372339761202"></a>
 
-### Tradução em curso
+### Prompt para mudança de penteado, fato de banho retro e formato de corpo mais curvilíneo.
 
 Autor：[@DerKlarblick](https://x.com/DerKlarblick) · [Publicação original](https://x.com/DerKlarblick/status/2100251372339761202)
 
 Fotografia · Retrô / Vintage · Retrato / Selfie · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para mudança de penteado, fato de banho retro e formato de corpo mais curvilíneo.
 
 <img src="images/2100251372339761202-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Penteado diferente e fato de banho antiquado e menos magra e um pouco mais de peito
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3837,20 +3867,32 @@ Tradução em curso
 
 <a name="prompt-2100239972020486509"></a>
 
-### Tradução em curso
+### Modelo de prompt para gerar imagens de certidões de casamento vintage com textura de documento histórico e cláusulas jurídicas fictícias e românticas.
 
 Autor：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Publicação original](https://x.com/Avalanc83148107/status/2100239972020486509)
 
 Retrô / Vintage · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Modelo de prompt para gerar imagens de certidões de casamento vintage com textura de documento histórico e cláusulas jurídicas fictícias e românticas.
 
 <img src="images/2100239972020486509-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Gere uma certidão de casamento em estilo vintage para {Nome A} e {Nome B / Nome do modelo de IA}.
+
+**Informações básicas:** A data do casamento é {Data}, e a jurisdição é {País / Estado / Região}.
+
+Tome como referência o formato representativo das certidões históricas de casamento dessa jurisdição, reproduzindo a estrutura de paginação, a organização do texto, as convenções de escrita, a disposição dos carimbos e selos e o porte geral do documento para criar uma atmosfera solene e romântica.
+
+A partir do nosso histórico de conversação e memórias partilhadas a que tenhamos acesso, extraia metáforas, alusões, formas de tratamento e laços emocionais com significado pessoal, integrando-os no texto da certidão.
+
+**Conceção principal:** Com base na nossa relação, crie uma legislação fictícia original com uma designação formal e conteúdo romântico, que sirva de fundamento jurídico ao casamento. Deixe que a natureza fictícia se manifeste espontaneamente no nome da lei e nas suas cláusulas, sem adicionar avisos como «Mock», «Fictional», «Not Legally Binding», etc.
+
+A certidão deve aliar a solenidade de um documento histórico, a subtileza cómica de uma lei fictícia e uma genuína declaração romântica. Utilize uma entidade de registo fictícia e selos originais, sem reproduzir símbolos de autenticação oficiais de qualquer governo real.
+
+Certifique-se de que os nomes, datas e redação estão corretos e gere diretamente a imagem final completa da certidão de casamento.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4419,22 +4461,110 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2100184569391816833"></a>
+<a name="prompt-2100317770344718548"></a>
 
 ### Tradução em curso
+
+Autor：[@owenxplore](https://x.com/owenxplore) · [Publicação original](https://x.com/owenxplore/status/2100317770344718548)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100317770344718548-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100317906399604840"></a>
+
+### Tradução em curso
+
+Autor：[@Anaiappai](https://x.com/Anaiappai) · [Publicação original](https://x.com/Anaiappai/status/2100317906399604840)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100317906399604840.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100310230110454134"></a>
+
+### Tradução em curso
+
+Autor：[@eE50339](https://x.com/eE50339) · [Publicação original](https://x.com/eE50339/status/2100310230110454134)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100310230110454134-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100298674664620291"></a>
+
+### Tradução em curso
+
+Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicação original](https://x.com/RealLeeForest/status/2100298674664620291)
+
+Arquitetura / Interiores · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100298674664620291-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100184569391816833"></a>
+
+### Prompt para transformar num vestido luxuoso como se estivesse num castelo.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicação original](https://x.com/mioarashidaisuk/status/2100184569391816833)
 
 Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para transformar num vestido luxuoso como se estivesse num castelo.
 
 <img src="covers/2100184569391816833.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Transformação num vestido digno de um castelo
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4443,7 +4573,7 @@ Tradução em curso
 
 <a name="prompt-2100235950047821853"></a>
 
-### Tradução em curso
+### Conceito de traje de race queen de outono, incluindo minivestido color block bordeaux e marfim, casaco paddock, cós e boina em padrão de tabuleiro e detalhes de folhas de ácer.
 
 Autor：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Publicação original](https://x.com/zerozakiyamo/status/2100235950047821853)
 
@@ -4451,7 +4581,7 @@ Personagem · Item de Moda · Publicado
 
 Publicação original：[@mktcreativework](https://x.com/mktcreativework) · [Publicação original](https://x.com/mktcreativework/status/2099604101386711552)
 
-**Resumo:** Tradução em curso
+**Resumo:** Conceito de traje de race queen de outono, incluindo minivestido color block bordeaux e marfim, casaco paddock, cós e boina em padrão de tabuleiro e detalhes de folhas de ácer.
 
 <img src="images/2100235950047821853-1.jpg" alt="Imagem 1" width="480" />
 
@@ -4460,7 +4590,7 @@ Publicação original：[@mktcreativework](https://x.com/mktcreativework) · [Pu
 **Prompt**
 
 ```text
-Tradução em curso
+Minivestido de corrida sem mangas de gola alta em blocos de cores bordeaux e marfim em sarja elástica opaca, fecho de correr frontal em cobre fechado, painéis com costuras princesa marfim, cós estreito em xadrez tabuleiro em âmbar e marfim, casaco paddock curto de cetim bordeaux de manga comprida com vivos em cobre e pequenas folhas de ácer em âmbar bordadas nos ombros, collants pretos opacos, botas de couro até ao joelho em marfim com riscas de corrida bordeaux e fivelas em cobre, luvas curtas bordeaux, boina em xadrez tabuleiro em marfim e âmbar, pequeno alfinete de peito em forma de folha de ácer em cobre
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4469,13 +4599,13 @@ Tradução em curso
 
 <a name="prompt-2100225896527679977"></a>
 
-### Tradução em curso
+### Prompt de cartaz de viagem com composição comparativa superior-inferior: a metade superior preserva a foto real, enquanto a metade inferior extrai elementos-chave reconstruídos como relevo 3D de mosaico esmaltado com paginação estilo museu.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2100225896527679977)
 
 Pôster / Folheto · Texto / Tipografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de cartaz de viagem com composição comparativa superior-inferior: a metade superior preserva a foto real, enquanto a metade inferior extrai elementos-chave reconstruídos como relevo 3D de mosaico esmaltado com paginação estilo museu.
 
 <img src="images/2100225896527679977-1.jpg" alt="Imagem 1" width="480" />
 
@@ -4488,7 +4618,7 @@ Pôster / Folheto · Texto / Tipografia · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz de viagem de reinterpretação vertical 3:4 com comparação superior-inferior. A metade superior preserva integralmente a fotografia de viagem real inserida, mantendo a composição, a quantidade, a perspetiva e as cores reais de jardins, pavilhões, pagodes, ruelas com canais, pontes, superfícies de água, arquitetura e plantas; ao centro, utilize uma linha divisória branca e fina. A metade inferior não deve aplicar um filtro de mosaico a toda a área, mas sim, sobre um fundo de papel branco-sujo ou cinzento-claro, extrair de 3 a 5 dos temas mais reconhecíveis da imagem original, decompondo-os e reorganizando-os como componentes de relevo de mosaico esmaltado independentes; cada componente é composto por pequenas peças de azulejo esmaltado irregulares, com juntas brancas, espessura realista, faces laterais visíveis, sombras suaves e reflexos parciais do esmalte. Os componentes concentram-se no centro ou num dos lados da metade inferior, ocupando cerca de 55% a 70% da metade inferior, com espaço negativo evidente ao redor; reorganize o espaço através de variações de escala e de espaçamento entre componentes, sem replicar a fotografia de forma proporcional. As cores são reduzidas a uma paleta restrita de 4 a 6 tons extraídos da imagem original. No espaço em branco, inclua títulos editoriais e campos de especificação de materiais em inglês, de forma contida e precisa, com tipografia semelhante a legendas de museu ou exposição. É proibido texto longo, caracteres ilegíveis, pontos de referência irrelevantes, logótipos, marcas de água, marcas de IA, marcas de canto da imagem original e coberturas uniformes de mosaico sobre toda a imagem.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4497,20 +4627,20 @@ Tradução em curso
 
 <a name="prompt-2100204805872550306"></a>
 
-### Tradução em curso
+### uma pessoa com um fato de ficção científica ornamentado, molhado, carmesim e dourado está de pé no meio de uma chuvada com viseira refletora, elementos brilhantes cor de laranja e iluminação de alto contraste.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicação original](https://x.com/RobotCleopatra/status/2100204805872550306)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** uma pessoa com um fato de ficção científica ornamentado, molhado, carmesim e dourado está de pé no meio de uma chuvada com viseira refletora, elementos brilhantes cor de laranja e iluminação de alto contraste.
 
 <img src="images/2100204805872550306-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+uma pessoa com um fato de ficção científica ornamentado, molhado, carmesim e dourado está de pé no meio de uma chuvada. o fato é justo ao corpo, com segmentos metálicos intrincados, articulações douradas e elementos brilhantes cor de laranja integrados no peito, pulsos e capacete. uma viseira escura e refletora cobre o rosto. faíscas douradas ou chuva caem verticalmente através do fundo escuro. o chão é uma superfície molhada e refletora com ondulações. o fato apresenta pequenos decalques de texto, incluindo "sengart" e "nara" numa fonte laranja brilhante na peça de armadura da coxa direita. o ambiente geral é sombrio com iluminação de alto contraste.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4519,20 +4649,20 @@ Tradução em curso
 
 <a name="prompt-2100231338779636202"></a>
 
-### Tradução em curso
+### Prompt de transformação num vestido magnífico imbuído do significado de viver magnificamente.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicação original](https://x.com/mioarashidaisuk/status/2100231338779636202)
 
 Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de transformação num vestido magnífico imbuído do significado de viver magnificamente.
 
 <img src="covers/2100231338779636202.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Transformação num vestido imbuído do significado de 'vive magnificamente'
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4541,20 +4671,20 @@ Tradução em curso
 
 <a name="prompt-2100208663872823327"></a>
 
-### Tradução em curso
+### Prompt de estilo instantâneo noturno com tom noturno azul, rastos de obturador lento e rastos de luz urbana.
 
 Autor：[@EmberLumina](https://x.com/EmberLumina) · [Publicação original](https://x.com/EmberLumina/status/2100208663872823327)
 
 Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de estilo instantâneo noturno com tom noturno azul, rastos de obturador lento e rastos de luz urbana.
 
 <img src="images/2100208663872823327-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Instantâneo privado noturno, tom noturno azul, captura espontânea em grande plano, rasto de obturador lento, rastos de luz urbana, desfoque intencional, corte acidental, perspetiva de diário íntimo, ligeiro distanciamento emocional, deriva sonambúlica.
 ```
 
 [↑ Voltar às categorias](#catalog)

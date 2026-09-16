@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T20:25:12.125Z",
+  "model": "grok",
+  "prompt": "フィギュア化\nケーちゃん",
+  "promptTranslations": {
+    "en": "Figure adaptation\nKay-chan"
+  },
+  "summaryTranslations": {
+    "en": "Figure adaptation prompt for the character \"Kay-chan\"."
+  },
+  "translationVersion": 2,
+  "summary": "キャラクター「ケーちゃん」のフィギュア化プロンプト。",
+  "summaryEn": "Prompt to generate a figure version of the character Kay-chan.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100310230110454134",
+    "canonicalUrl": "https://x.com/eE50339/status/2100310230110454134",
+    "author": {
+      "username": "eE50339",
+      "displayName": "ぽ る こ ろ",
+      "profileUrl": "https://x.com/eE50339"
+    },
+    "publishedAt": "2026-09-16T19:45:55.000Z",
+    "collectedAt": "2026-09-16T20:16:53.873Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\nフィギュア化\nケーちゃん https://t.co/Yo7TwQYJ4O",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSXM_7Ya8AA9pGS.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSXM_7Ya8AA9pGS.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 16
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/eE50339/status/2100310230110454134",
+  "coverUrl": "https://pbs.twimg.com/media/HSXM_7Ya8AA9pGS.jpg",
+  "coverPath": "images/2100310230110454134-1.jpg",
+  "imagePaths": [
+    "images/2100310230110454134-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSXM_7Ya8AA9pGS",
+    "x-post:2100310230110454134"
+  ],
+  "analysis": {
+    "summary": "キャラクター「ケーちゃん」のフィギュア化プロンプト。",
+    "summaryEn": "Prompt to generate a figure version of the character Kay-chan.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated image depicts an anime scale figure on a display stand, accurately reflecting the prompt 'フィギュア化'."
+    },
+    "videoQuality": null,
+    "originalPrompt": "フィギュア化\nケーちゃん",
+    "sourceRange": {
+      "start": 22,
+      "end": 34
+    },
+    "translations": {
+      "zh": "手办化\n小刻",
+      "en": "Figure version\nKay-chan"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI figure concept generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Potential copyrighted character reference"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

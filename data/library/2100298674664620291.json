@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T20:24:44.372Z",
+  "model": "unknown-image",
+  "prompt": "A mountain that is one living seed bark like stone interior halls of packed grain and root the peak just beginning to split roots breaking the lower slopes soil and stone lifting figures moving to higher inner roads keepers harvesting from inner walls a seeker on a high ledge grain-birds in the cracks living-root lift root-storm realistic bark grain root stone and figure texture cinematic lighting strong lifting-root versus still-peak contrast highly detailed striking composition coherent fantasy atmosphere",
+  "promptTranslations": {
+    "en": "A mountain that is one living seed bark like stone interior halls of packed grain and root the peak just beginning to split roots breaking the lower slopes soil and stone lifting figures moving to higher inner roads keepers harvesting from inner walls a seeker on a high ledge grain-birds in the cracks living-root lift root-storm realistic bark grain root stone and figure texture cinematic lighting strong lifting-root versus still-peak contrast highly detailed striking composition coherent fantasy atmosphere"
+  },
+  "summaryTranslations": {
+    "en": "A living seed-shaped mountain with interior halls of grain and roots, a splitting peak, and figures navigating its inner chambers."
+  },
+  "translationVersion": 2,
+  "summary": "A living seed-shaped mountain with interior halls of grain and roots, a splitting peak, and figures navigating its inner chambers.",
+  "summaryEn": "A living seed-shaped mountain with interior halls of grain and roots, a splitting peak, and figures navigating its inner chambers.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100298674664620291",
+    "canonicalUrl": "https://x.com/RealLeeForest/status/2100298674664620291",
+    "author": {
+      "username": "RealLeeForest",
+      "displayName": "Lee Forest",
+      "profileUrl": "https://x.com/RealLeeForest"
+    },
+    "publishedAt": "2026-09-16T19:00:00.000Z",
+    "collectedAt": "2026-09-16T20:16:53.873Z",
+    "language": "en",
+    "originalText": "Theme: Seed mountain  \nStyle: Living-root lift  \nMood: Root-storm  \n\nPrompt:  \nA mountain that is one living seed bark like stone interior halls of packed grain and root the peak just beginning to split roots breaking the lower slopes soil and stone lifting figures moving to higher inner roads keepers harvesting from inner walls a seeker on a high ledge grain-birds in the cracks living-root lift root-storm realistic bark grain root stone and figure texture cinematic lighting strong lifting-root versus still-peak contrast highly detailed striking composition coherent fantasy atmosphere",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUABsWbgAAR0bi.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUABsWbgAAR0bi.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 95
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RealLeeForest/status/2100298674664620291",
+  "coverUrl": "https://pbs.twimg.com/media/HSUABsWbgAAR0bi.jpg",
+  "coverPath": "images/2100298674664620291-1.jpg",
+  "imagePaths": [
+    "images/2100298674664620291-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUABsWbgAAR0bi",
+    "x-post:2100298674664620291"
+  ],
+  "analysis": {
+    "summary": "A living seed-shaped mountain with interior halls of grain and roots, a splitting peak, and figures navigating its inner chambers.",
+    "summaryEn": "A living seed-shaped mountain with interior halls of grain and roots, a splitting peak, and figures navigating its inner chambers.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image accurately displays the seed-shaped mountain with a split top, visible inner root-grain chambers with small figures, and lower roots lifting earth."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A mountain that is one living seed bark like stone interior halls of packed grain and root the peak just beginning to split roots breaking the lower slopes soil and stone lifting figures moving to higher inner roads keepers harvesting from inner walls a seeker on a high ledge grain-birds in the cracks living-root lift root-storm realistic bark grain root stone and figure texture cinematic lighting strong lifting-root versus still-peak contrast highly detailed striking composition coherent fantasy atmosphere",
+    "sourceRange": {
+      "start": 79,
+      "end": 591
+    },
+    "translations": {
+      "zh": "一座活体种子山，树皮如石，内部大厅满是紧密充填的谷物与根系，山顶初显裂痕，根须破土冲裂下坡，泥土碎石腾起，人物正向更高内部道路移动，守护者自内壁收割，高处壁架伫立探索者，裂缝中见谷鸟，活根升腾，根系风暴，写实树皮、谷物、根茎、岩石与人物质感，电影级光影，升腾之根与静穆峰顶的强烈反差，高细节度，醒目构图，协调的奇幻氛围",
+      "en": "A mountain that is one living seed bark like stone interior halls of packed grain and root the peak just beginning to split roots breaking the lower slopes soil and stone lifting figures moving to higher inner roads keepers harvesting from inner walls a seeker on a high ledge grain-birds in the cracks living-root lift root-storm realistic bark grain root stone and figure texture cinematic lighting strong lifting-root versus still-peak contrast highly detailed striking composition coherent fantasy atmosphere"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
