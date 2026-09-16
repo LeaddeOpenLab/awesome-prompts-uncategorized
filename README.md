@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**235** Prompts · Latest addition: **2026-09-16**
+**236** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -5540,6 +5540,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100043372387860775"></a>
+
+### A woman running in a military short skirt and camouflage shirt outdoors.
+
+Author：[@LBallz77283](https://x.com/LBallz77283) · [Source](https://x.com/LBallz77283/status/2100043372387860775)
+
+Character · Published
+
+**Summary:** A woman running in a military short skirt and camouflage shirt outdoors.
+
+<img src="covers/2100043372387860775.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A woman running in a military short skirt with a camouflage brown shirt . She looks like a sexy white woman with dark brown hair .
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100005735417397494"></a>
 
