@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**242** Prompt · Son eklenen: **2026-09-16**
+**214** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render) · [İzometrik](#category-isometric) · [Yağlı Boya Tablo](#category-oil-painting) · [Suluboya](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render) · [Yağlı Boya Tablo](#category-oil-painting) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -33,23 +33,33 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Fotoğrafçılık
 
-<a name="prompt-2100081996760531273"></a>
+<a name="prompt-2100136938921685221"></a>
 
 ### Çeviri sürüyor
 
-Yazar：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100136938921685221)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2099767415332872435)
 
 **Özet:** Çeviri sürüyor
 
-<img src="images/2100081996760531273-1.jpg" alt="Görsel 1" width="480" />
+<img src="images/2100136938921685221-1.jpg" alt="Görsel 1" width="480" />
 
-<img src="images/2100081996760531273-2.jpg" alt="Görsel 2" width="480" />
+<img src="images/2100136938921685221-2.jpg" alt="Görsel 2" width="480" />
 
-<img src="images/2100081996760531273-3.jpg" alt="Görsel 3" width="480" />
+<img src="images/2100136938921685221-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100136938921685221-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2100136938921685221-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2100136938921685221-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2100136938921685221-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2100136938921685221-8.jpg" alt="Görsel 8" width="480" />
 
 **İstem**
 
@@ -150,28 +160,6 @@ Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijin
 <img src="images/2100036195572937061-2.jpg" alt="Görsel 2" width="480" />
 
 <img src="images/2100036195572937061-3.jpg" alt="Görsel 3" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2099988959992709449"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099988959992709449)
-
-Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099988959992709449-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -353,28 +341,6 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 ---
 
-<a name="prompt-2099641928220361114"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Orijinal gönderi](https://x.com/AiPhotoDesigner/status/2099641928220361114)
-
-Fotoğrafçılık · Portre / Selfie · Karakter · Mimari / İç Mekan · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099641928220361114-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="prompt-2099632246730760679"></a>
 
 ### Yumuşak sabah güneş ışığı altında, çiçeklerle dolu bir bahçede bulunan 23 yaşındaki bir Türk kızının fotogerçekçi ayrıntılara sahip portre istemi.
@@ -516,52 +482,6 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımland�
     "size": "1080x1920"
   }
 }
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2099409502898700694"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@mumaren\_2](https://x.com/mumaren_2) · [Orijinal gönderi](https://x.com/mumaren_2/status/2099409502898700694)
-
-Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099409502898700694-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2099409502898700694-2.jpg" alt="Görsel 2" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2099379743108055415"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2099379743108055415)
-
-Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099379743108055415-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -852,28 +772,6 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Mimari / İç Mekan · Yayı
 
 ---
 
-<a name="prompt-2099106797655048428"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2099106797655048428)
-
-Fotoğrafçılık · Karakter · Moda Ürünü · Şehir Manzarası / Sokak · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099106797655048428-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="prompt-2099001599767318570"></a>
 
 ### Çeviri sürüyor
@@ -1034,52 +932,6 @@ Dramatik, low-key stüdyo aydınlatması kullanın: yüzü ve kırmızı deriyi 
 Kompozisyon lüks bir erkek giyim kampanyası gibi hissettirmeli; sofistike, etkileyici, zarif, gizemli, editoryal ve sinematik olmalıdır. 85 mm portre lensiyle çekilmiş, sığ alan derinliği, ultra gerçekçi fotoğrafçılık, yüksek dinamik aralık, keskin odaklama, gerçekçi cilt dokusu, birinci sınıf moda dergisi kalitesi, dikey 9:16 kompozisyon.
 
 Metin yok, logo yok, filigran yok, fazladan insan yok, bozuk eller yok, abartılı kaslar yok.
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098676865284407781"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Orijinal gönderi](https://x.com/YueyueforLuis/status/2098676865284407781)
-
-Fotoğrafçılık · Grup / Çift · Yiyecek / İçecek · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098676865284407781-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2098676865284407781-2.jpg" alt="Görsel 2" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098687497794711885"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Orijinal gönderi](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
-
-Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="covers/2098687497794711885.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -1248,28 +1100,6 @@ Ten üzerinde minik su damlaları, ince pembeleşmeler ve gözenek dokusu hafif�
 【Kalite ve Hariç Tutulacak Unsurlar】
 Yüksek çözünürlük, doğal insan anatomisi, gerçekçi perspektif ve sanki gerçek bir kamerayla çekilmiş gibi ışık ve malzeme dokusu hedeflenir. Reşit görünmeyen kişiler, aşırı çocuksu yüz hatları, doğal olmayan eklem ve vücut bükülmeleri, fazla uzuv ve parmaklar, eksik veya birleşik parmaklar, sol ve sağ elin karışması durumlarından kaçınılmalıdır.
 Havluda doku bozulmaları, havlunun vücutla kaynaşması, aşırı dar yapay sıkışmalar ve istenmeyen açılmalar engellenmelidir. Göğüs bölgesi doğal dolgunluğunu korumalı; devasa boyutlara, sert küresel şekillere, yapay dikleştirmelere ve yerçekimine aykırı formlara yer verilmemelidir. Aşırı geniş açı bükülmeleri, yapay pürüzsüzleştirme filtreleri, gerçek dışı arka planlar, yazılar, logolar, filigranlar ve arayüz ögeleri bulunmamalıdır.
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098639083652419714"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2098639083652419714)
-
-Fotoğrafçılık · Karakter · Moda Ürünü · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098639083652419714-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2054,20 +1884,22 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2100082529512645050"></a>
 
-### Çeviri sürüyor
+### Gece yağmurlu bir neon şehirde yürüyen yalnız bir adam ve ardından gelen ani elektrik kesintisiyle geriye yalnızca mavi bir arka aydınlatmanın kalması.
 
 Yazar：[@MRB\_AI24](https://x.com/MRB_AI24) · [Orijinal gönderi](https://x.com/MRB_AI24/status/2100082529512645050)
 
 Sinematik / Film Karesi · Siberpunk / Bilim Kurgu · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece yağmurlu bir neon şehirde yürüyen yalnız bir adam ve ardından gelen ani elektrik kesintisiyle geriye yalnızca mavi bir arka aydınlatmanın kalması.
 
 <img src="covers/2100082529512645050.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yalnız bir adam, gece vakti yağmurla ıslanmış fütüristik bir şehirde, yükselen neon gökdelenler, parıldayan holografik panolar ve sürüklenen sisle çevrili olarak yürüyor. Adam objektife doğru yürürken kamera yavaşça geriye doğru kayıyor, rüzgârda paltosu doğal bir şekilde dalgalanıyor. Neon ışıklarının yansımaları ıslak sokaklarda parıldıyor. Aniden, tüm şehrin elektriği kısa süreliğine kesiliyor ve arkasında sadece gizemli mavi bir ışık kalıyor.
+
+Ultra sinematik, fotogerçekçi, dramatik atmosfer, gerçekçi yağmur ve su fiziği, hacimsel sis, ayrıntılı ortam, doğal insan hareketi, sığ alan derinliği, anamorfik lens, ince lens parlaması, yüksek kontrast, gerçekçi cilt dokusu, dinamik kamera hareketi, Hollywood bilim kurgu estetiği, 4K, 24fps.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2098,7 +1930,7 @@ Lüks, büyük beden beyaz bir kürk manto giymiş soluk tenli sarışın bir ka
 
 <a name="prompt-2099346814327738872"></a>
 
-### Çeviri sürüyor
+### Jaluzi perdenin sıcak ışığı altında gösterişli bir sandalyede oturan Güney Asyalı bir adamın sinematik portresi.
 
 Yazar：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https://x.com/Tanvir48992/status/2099346814327738872)
 
@@ -2106,7 +1938,7 @@ Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · Y
 
 Orijinal gönderi：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https://x.com/Tanvir48992/status/2098828983488180727)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Jaluzi perdenin sıcak ışığı altında gösterişli bir sandalyede oturan Güney Asyalı bir adamın sinematik portresi.
 
 <img src="images/2099346814327738872-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2115,7 +1947,7 @@ Orijinal gönderi：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönd
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kalın kıvırcık koyu saçları ve gür sakalı olan genç bir Güney Asyalı erkeğin, oymalı ahşap vintage gösterişli bir sandalyede yan oturup sakin ve düşünceli bir ifadeyle kadrajın dışına doğru dalgın dalgın baktığı sinematik portresi. Büyük yakalı, deve tüyü/açık kahverengi fitilli kadife veya süet bir üst gömlek giymiş; gömleğin önü koyu kahverengi bir tişörtün üzerine açık, mavi kot pantolonla kombinlenmiş ve elleri sandalyenin kolçaklarına rahatça yerleştirilmiş. Sahne, jaluzi perdeli bir pencereden süzülen altın saatlerin ılık güneş ışığıyla aydınlatılıyor; yüzünde, göğsünde ve arkasındaki duvarda keskin yatay ışık ve gölge çizgileri oluşturuyor. Arka planda pencerenin yakınındaki küçük ahşap bir yan sehpa üzerinde duran eski ciltli kitaplardan oluşan bir yığın, yumuşak bir şekilde aydınlatılmış ve hafifçe odak dışı kalmış. Oda; koyu kahveler ve kehribar tonlarıyla sıcak, duygu dolu, sepya tonlarında bir renk paletine, dramatik chiaroscuro aydınlatmaya, sığ bir alan derinliğine, ışık huzmelerinde belli belirsiz görünen toz parçacıklarına, sinematik ve nostaljik bir atmosfere sahip; sanki 50mm f/1.8 lensle çekilmiş gibi, ultra gerçekçi, yüksek detaylı, film benzeri renk derecelendirmeli.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2124,13 +1956,13 @@ Orijinal gönderi：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönd
 
 <a name="prompt-2099332324538093913"></a>
 
-### Çeviri sürüyor
+### Öznenin yüz kimliğini kilitli tutarken poz, aydınlatma ve sandalye için referans görselleri kullanan dikey sinematik yönetmen tarzı portreler oluşturmaya yönelik kapsamlı bir prompt.
 
 Yazar：[@meAsifAi](https://x.com/meAsifAi) · [Orijinal gönderi](https://x.com/meAsifAi/status/2099332324538093913)
 
 Sinematik / Film Karesi · Portre / Selfie · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Öznenin yüz kimliğini kilitli tutarken poz, aydınlatma ve sandalye için referans görselleri kullanan dikey sinematik yönetmen tarzı portreler oluşturmaya yönelik kapsamlı bir prompt.
 
 <img src="images/2099332324538093913-1.jpg" alt="Görsel 1" width="480" />
 
@@ -2141,7 +1973,151 @@ Sinematik / Film Karesi · Portre / Selfie · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+ANA PROMPT — REFERANS TABANLI SİNEMATİK YÖNETMEN PORTRESİ
+
+REFERANS GÖRSELİ ZORUNLUDUR.
+
+Yüklenen referans görseli; tüm kompozisyon, kadraj, kamera açısı, öznenin konumu, poz, sandalye tasarımı, ışıklandırma kurulumu, arka plan atmosferi, gölgeler, duman, derinlik, renk derecelendirmesi, sinematik hava ve genel görsel estetik için BİRİNCİL GÖRSEL REFERANS olarak kullanın.
+
+Kullanıcının yüklediği kişisel görseli, özne için BİRİNCİL KİMLİK REFERANSI olarak kullanın.
+
+Yüklenen özne HERHANGİ BİR KİŞİ olabilir — kadın veya erkek. Yüklenen kişisel görselden kişinin tam ve tanınabilir kimliğini; yüz yapısı, gözler, burun, dudaklar, çene hattı, cilt tonu, saç çizgisi, saç modeli, yaş görünümü ve doğal yüz özellikleri dâhil olmak üzere koruyun. Kişinin kimliğini DEĞİŞTİRMEYİN, yeniden tasarlamayın, güzelleştirmeyin, maskülenleştirmeyin, feminenleştirmeyin veya başkalaştırmayın.
+
+ÖZNEYİ, REFERANS GÖRSELLE AYNI SİNEMATİK PORTRE KURULUMUNA DÖNÜŞTÜRÜN.
+
+KOMPOZİSYON:
+Kadrajın merkezinde, profesyonel siyah bir yönetmen koltuğunda kendinden emin bir şekilde oturan özneyle dramatik dikey bir sinematik portre oluşturun.
+
+Referans kompozisyonuyla birebir eşleştirin:
+- Oturur vaziyette tam vücut kompozisyonu
+- Merkezi olarak konumlandırılmış özne
+- Hafif sinematik bir perspektifle yaklaşık göz/göğüs hizasına yerleştirilmiş kamera
+- Referansla eşleşen, kendinden emin ve rahat oturma pozunda doğal olarak bacak bacak üstüne atılmış veya konumlandırılmış bacaklar
+- Koltuğun kolçağına doğal bir şekilde yaslanmış bir kol
+- Düşünceli, kendinden emin ve editoryal bir pozla yüzün/başın yakınına doğal olarak yerleştirilmiş diğer el
+- Rahat ama güçlü vücut dili
+- Güçlü simetrik görsel denge
+- Özneyi çevreleyen geniş karanlık negatif alan
+- Özneyi baskın odak noktası olarak tutun
+
+KOLTUK:
+Gerçekçi yapısal ayrıntılara, koyu renkli kumaşa, kolçaklara, çapraz destek iskeletine ve fiziksel olarak doğru oranlara sahip, birinci sınıf siyah yönetmen tarzı katlanır koltuk kullanın.
+
+IŞIKLANDIRMA:
+Referanstaki dramatik stüdyo aydınlatmasını yeniden yaratın.
+
+Güçlü ve dar bir tepe spot ışığı, karanlık ortama karşı görünür bir ışık konisi oluşturarak özneyi yukarıdan aydınlatmalıdır.
+
+Işık şunları üretmelidir:
+- Yüzde sinematik parlamalar (highlights)
+- Vücut boyunca doğal gölgeler
+- Siluet etrafında ince kenar ışığı (rim lighting)
+- Gerçekçi ışık düşüşü (falloff)
+- Derin ama detaylı gölgeler
+- Öznenin arka plandan güçlü bir şekilde ayrılması
+
+ARKA PLAN:
+Derin siyah/mavi-siyah bir arka plana sahip, neredeyse tamamen karanlık, sinematik bir stüdyo ortamı oluşturun.
+
+Öznenin arkasında ve yukarısında yükselen hafif atmosferik duman veya pus ekleyin. Duman, tepe spot ışığıyla doğal bir şekilde etkileşime girerek görünür hacimsel ışık huzmeleri oluşturmalıdır.
+
+Arka plan minimal, karanlık, zarif ve dikkat dağıtıcı unsurlardan arınmış kalmalıdır.
+
+GARDROP:
+Referanstaki aynı birinci sınıf sinematik hissi korurken, gardırobu yüklenen kişinin cinsiyetine, görünümüne ve genel estetiğine doğal olarak uyarlayın.
+
+Kıyafet sofistike, gerçekçi, şık ve editoryal görünmelidir.
+
+Yüklenen özneye doğal olarak uymuyorsa, referanstaki kıyafetleri körü körüne kopyalamayın. Bunun yerine referansın genel stil dilini koruyun: koyu, sofistike, maskülen/feminen-nötr sinematik moda, birinci sınıf dokular, gerçekçi malzemeler ve abartısız lüks.
+
+POZ VE İFADE:
+Referansın kendinden emin, sakin ve vakur tavrını koruyun.
+
+Kişinin yüz ifadesi doğal, ciddi, sofistike ve kendinden emin hissettirmelidir.
+
+Abartılı bir gülümseme veya dramatik bir ifadeye zorlamayın.
+
+Kişinin doğal yüz oranlarını ve tanınabilir kimliğini koruyun.
+
+KAMERA VE LENS:
+Profesyonel sinematik fotoğrafçılık görünümü.
+Tam kare (full-frame) kamera estetiği.
+Yaklaşık 50mm–85mm portre lensi.
+Doğal perspektif.
+Orta derecede sığ alan derinliği.
+Özne keskin bir şekilde odaklanmış.
+Arka plan kademeli olarak karanlığa ve yumuşak atmosferik derinliğe kaybolan.
+
+GERÇEKÇİLİK:
+Ultra fotogerçekçi insan anatomisi.
+Doğal cilt dokusu.
+Görünür ancak ince cilt gözenekleri.
+Gerçekçi yüz detayları.
+Doğal saç telleri.
+Fiziksel olarak doğru giysi kıvrımları.
+Gerçekçi deri/kumaş/malzeme tepkisi.
+Doğal eller ve parmaklar.
+Doğru vücut oranları.
+Gerçekçi koltuk geometrisi.
+Vücut, giysi, koltuk ve zemin arasında doğal temas gölgeleri.
+
+SİNEMATİK RENK DERECELENDİRMESİ:
+Koyu birinci sınıf sinematik renk paleti.
+Derin siyahlar.
+Soğuk mavi-siyah gölgeler.
+Ciltte ve kıyafetlerde hafif sıcak parlamalar.
+Yüksek dinamik aralık.
+Zengin kontrast.
+Kontrollü parlak alanlar.
+Profesyonel teatral renk derecelendirmesi.
+Lüks editoryal fotoğrafçılık estetiği.
+
+ATMOSFER:
+Nihai görsel; profesyonel bir film stüdyosunda çekilmiş, yüksek bütçeli bir sinematik karakter posteri veya birinci sınıf Netflix tarzı editoryal bir portre gibi hissettirmelidir.
+
+Görsel; sofistike, güçlü, gizemli, dramatik ve pahalı hissettirmelidir — sıradan bir stüdyo fotoğrafı gibi DEĞİL.
+
+KİMLİK KİLİDİ:
+Yüklenen kişisel görsel, öznenin kimliği için TEK doğruluk kaynağıdır.
+
+Kişinin yüzünü değiştirmeyin.
+Farklı bir kişi üretmeyin.
+Yüz özelliklerini referans görselle harmanlamayın.
+Referanstaki kişinin kimliğini kopyalamayın.
+Referans görseli YALNIZCA kompozisyon, poz, ortam, aydınlatma, kamera işleme, atmosfer ve görsel stil için kullanın.
+
+Nihai özne, yüklenen kişisel görseldeki kişiyle açıkça aynı kişi olarak kalmalıdır.
+
+KALİTE:
+Ultra gerçekçi.
+Fotogerçekçi.
+Sinematik fotoğrafçılık.
+8K detay.
+Yüksek çözünürlük.
+Profesyonel cilt işleme.
+Doğal mikro detaylar.
+Gerçekçi hacimsel aydınlatma.
+Gerçekçi duman.
+Doğru gölgeler.
+Temiz kenarlar.
+Yapay yapay zekâ görünümü yok.
+Plastik cilt yok.
+Balmumu yüz yok.
+CGI görünümü yok.
+Bozuk anatomi yok.
+Fazladan parmak yok.
+Deforme olmuş el yok.
+Çoğaltılmış uzuv yok.
+Yüz kusurları yok.
+Doğal olmayan gözler yok.
+Bozulmuş kıyafet yok.
+Havada asılı duran nesne yok.
+Aşırı keskinleştirme yok.
+
+NİHAİ ÇIKTI:
+Yüklenen kişisel görseli tam kimlik referansı olarak kullanırken, yüklenen referans görselin görsel diline mümkün olduğunca yakın eşleşen birinci sınıf dikey bir sinematik portre.
+
+Sonuç; yapay zekâ tarafından üretilmiş bir görsel değil, üst düzey bir kamerayla çekilmiş gerçek bir profesyonel sinematik fotoğraf gibi görünmelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2361,72 +2337,6 @@ Orijinal gönderi：[@Soranlan](https://x.com/Soranlan) · [Orijinal gönderi](h
 
 ```text
 Sinematik 35mm film karesi, retro Çin wuxia estetiği, sisli bir gece bambu korusunda yetişkin bir Doğu Asyalı wuxia kadınının rüya gibi yumuşak odaklı canlı çekim portresi. Orta yakın çekim, kameraya dönen üç çeyrek profil, sakin ve melankolik bakış, oval yüz, söğüt kaşlar, badem gözler, narin makyaj, solgun parlak ten, yana savrulan uzun siyah saçlar, açıkta kalan tutamlarıyla klasik yarı toplanmış topuz, zarif gümüş sallantılı küpeler. Soluk mavi alt katmanlara ve uzun yumuşak kollara sahip dökümlü beyaz ipek hanfu, düşen bir bambu yaprağını zarifçe yakalamak için uzatılmış bir el. Süzülen pembe taç yaprakları ve bambu yaprakları, katmanlı ön plan yaprak bulanıklığı, hafif sis, serin mavi-yeşil ay ışığı atmosferi, saçta ve yanakta yumuşak sıcak kehribar rengi kenar ışığı. Sığ alan derinliği, ince hale etkisi, görünür film greni, analog sinematik hava. Bileğe yakın kol kenarı işlemesine dokunmuş, ipek dokumaya, saç süsü damarlarına ve küpelerin ince iplik desenlerine işlenmiş "Soran". --no anime, game concept art, CGI, plastic skin, hard flash, studio lighting, sharp digital crispness, HDR, oversaturated colors, aggressive expression, direct harsh stare, modern clothing, modern accessories, distorted hands, extra fingers, missing fingers, bad anatomy, external watermark, sticker-like logo, detached letters, captions, subtitles --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098806415666077809"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2098806415666077809)
-
-Fotoğrafçılık · Sinematik / Film Karesi · Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098806415666077809-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098788910432129114"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2098788910432129114)
-
-Sinematik / Film Karesi · Portre / Selfie · Karakter · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098788910432129114-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098780787936223258"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@im\_shahid7](https://x.com/im_shahid7) · [Orijinal gönderi](https://x.com/im_shahid7/status/2098780787936223258)
-
-Fotoğrafçılık · Sinematik / Film Karesi · Karakter · Şehir Manzarası / Sokak · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="covers/2098780787936223258.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3120,28 +3030,6 @@ Sol üstten sağ alt panele geçiş yapan 2D animasyon,\nbirden fazla panel yasa
 
 ---
 
-<a name="prompt-2098669706626683027"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@ux6ovv](https://x.com/ux6ovv) · [Orijinal gönderi](https://x.com/ux6ovv/status/2098669706626683027)
-
-Anime / Manga · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="covers/2098669706626683027.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="prompt-2097918597603733849"></a>
 
 ### Luffy ile Anya arasındaki etkileşimi anlatan, altın şerit koruma kalkanı ile baş okşama ve kucaklaşma hareketlerini içeren anime görsel taslak \(storyboard\) istemi.
@@ -3519,44 +3407,6 @@ Orijinal gönderi：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](h
 
 ---
 
-<a name="prompt-2098762652491374723"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@nanyuan0412](https://x.com/nanyuan0412) · [Orijinal gönderi](https://x.com/nanyuan0412/status/2098762652491374723)
-
-İllüstrasyon · Çizgi Roman / Grafik Roman · Karakter · Yayımlandı
-
-Orijinal gönderi：[@nanyuan0412](https://x.com/nanyuan0412) · [Orijinal gönderi](https://x.com/nanyuan0412/status/2098379782669094946)
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098762652491374723-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2098762652491374723-2.jpg" alt="Görsel 2" width="480" />
-
-<img src="images/2098762652491374723-3.jpg" alt="Görsel 3" width="480" />
-
-<img src="images/2098762652491374723-4.jpg" alt="Görsel 4" width="480" />
-
-<img src="images/2098762652491374723-5.jpg" alt="Görsel 5" width="480" />
-
-<img src="images/2098762652491374723-6.jpg" alt="Görsel 6" width="480" />
-
-<img src="images/2098762652491374723-7.jpg" alt="Görsel 7" width="480" />
-
-<img src="images/2098762652491374723-8.jpg" alt="Görsel 8" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="prompt-2098359042234351871"></a>
 
 ### Stüdyo kenar aydınlatmasıyla birlikte asimetrik büyük gözlere, büyük buruna, büyük kulaklara ve grotesk bir gülümsemeye sahip, 3D abartılı komedi tarzında yetişkin kadın karikatür portresi.
@@ -3665,38 +3515,6 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 
 ---
 
-<a name="category-isometric"></a>
-
-## İzometrik
-
-<a name="prompt-2098773122107523294"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098773122107523294)
-
-Poster / El İlanı · İzometrik · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098773122107523294-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2098773122107523294-2.jpg" alt="Görsel 2" width="480" />
-
-<img src="images/2098773122107523294-3.jpg" alt="Görsel 3" width="480" />
-
-<img src="images/2098773122107523294-4.jpg" alt="Görsel 4" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="category-oil-painting"></a>
 
 ## Yağlı Boya Tablo
@@ -3729,63 +3547,61 @@ Girdi olarak verilen dünya mimarisi seyahat fotoğrafını dikey formatta bir a
 
 ---
 
-<a name="prompt-2098792248892625275"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2098792248892625275)
-
-Poster / El İlanı · Yağlı Boya Tablo · Özet / Arka Plan · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098792248892625275-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2098792248892625275-2.jpg" alt="Görsel 2" width="480" />
-
-<img src="images/2098792248892625275-3.jpg" alt="Görsel 3" width="480" />
-
-<img src="images/2098792248892625275-4.jpg" alt="Görsel 4" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="category-watercolor"></a>
-
-## Suluboya
-
-<a name="prompt-2098743938299666847"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](https://x.com/BeanieBlossom/status/2098743938299666847)
-
-İllüstrasyon · 3D Modelleme · Suluboya · Karakter · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098743938299666847-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100100687946203533"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TodayKan](https://x.com/TodayKan) · [Orijinal gönderi](https://x.com/TodayKan/status/2100100687946203533)
+
+İllüstrasyon · Retro / Vintage · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100100687946203533-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100100687946203533-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100100687946203533-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100100687946203533-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100124265752449144"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2100124265752449144)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100124265752449144-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100124265752449144-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099626543857209360"></a>
 
@@ -3803,32 +3619,6 @@ Retro / Vintage · Araç · Mimari / İç Mekan · Yayımlandı
 
 ```text
 Malört Motors'un bir görüntüsünü oluşturun
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2099473433067495508"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2099473433067495508)
-
-Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
-
-Orijinal gönderi：[@adinascozylife](https://x.com/adinascozylife) · [Orijinal gönderi](https://x.com/adinascozylife/status/2099313663827947968)
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099473433067495508-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2099473433067495508-2.jpg" alt="Görsel 2" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3896,50 +3686,6 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Yayımlan
 **Özet:** Çeviri sürüyor
 
 <img src="images/2098953133443764274-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098774914970849306"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@rotavirus1980](https://x.com/rotavirus1980) · [Orijinal gönderi](https://x.com/rotavirus1980/status/2098774914970849306)
-
-Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098774914970849306-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098786437948944643"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2098786437948944643)
-
-Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098786437948944643-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -4283,7 +4029,7 @@ Fiziksel olarak alanda bulunan tek bir kameraman tarafından tüketici tipi bir 
 
 <a name="prompt-2099605356116951296"></a>
 
-### Çeviri sürüyor
+### Son derece karanlık siyah fonda, geniş negatif alana sahip kadın karakter ve efsanevi yaratığın düşük ışıklı siluet fotoğrafı istemi.
 
 Yazar：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2099605356116951296)
 
@@ -4291,7 +4037,7 @@ Fotoğrafçılık · Minimalizm · Portre / Selfie · Karakter · Yayımlandı
 
 Orijinal gönderi：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](https://x.com/VoxcatAI/status/2014671895657074893)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Son derece karanlık siyah fonda, geniş negatif alana sahip kadın karakter ve efsanevi yaratığın düşük ışıklı siluet fotoğrafı istemi.
 
 <img src="images/2099605356116951296-1.jpg" alt="Görsel 1" width="480" />
 
@@ -4312,35 +4058,7 @@ Orijinal gönderi：[@VoxcatAI](https://x.com/VoxcatAI) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2099090732678295807"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@azed\_ai](https://x.com/azed_ai) · [Orijinal gönderi](https://x.com/azed_ai/status/2099090732678295807)
-
-Fotoğrafçılık · Minimalizm · Portre / Selfie · Influencer / Model · Moda Ürünü · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099090732678295807-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2099090732678295807-2.jpg" alt="Görsel 2" width="480" />
-
-<img src="images/2099090732678295807-3.jpg" alt="Görsel 3" width="480" />
-
-<img src="images/2099090732678295807-4.jpg" alt="Görsel 4" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
+Aşırı Low-Key siyah fon portre fotoğrafçılığı, yetişkin klasik kadın karakter × efsanevi kutsal hayvan, dikey kompozisyon, figür alt kısımda son derece küçük bir oranda yer alır, üstte ve çevrede devasa saf siyah negatif alan bırakılmıştır. Karakter neredeyse tamamen karanlığa gömülmüştür; yalnızca yarım yüz kenarını, burun kemiği çizgisini, dudak çizgisini, birkaç saç telini, omuz çizgisini, bel veya kalça çizgisindeki az sayıda bölgeyi hafifçe kesip belirginleştiren son derece dar, soğuk beyaz, sert bir yan ışık kalmıştır, geri kalanı tamamen saf siyaha karışır. Tam yüz yok, tam vücut yok; karakter yalnızca saç modeli, saç aksesuarları, boynuzlar, hayvan kulakları veya ikonik siluet üzerinden tanımlanır. Efsanevi hayvan, karanlıkta yalnızca zayıf bir siluet eşlikçisi olarak bulunur; sadece göz parıltısı, boynuz uçları, kulak uçları, gaga, omurga çizgisi veya yele dış kenarında son derece az miktarda parlama (highlight) bulunmasına izin verilir. Yüksek kontrastlı Chiaroscuro × Tenebrism, aşırı düşük pozlama, derin bastırılmış siyah seviyeleri, ölçülü parlak noktalar, düşük renk bilgisi, çevresel anlatı yok; genel olarak anonim, soğuk, tehlikeli, gizemli, yeraltı moda fotoğrafçılığı gibi. Sağ alt köşede son derece küçük "voxCAT" imzası. n=5.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4394,6 +4112,30 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2100088288304664844"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2100088288304664844)
+
+Portre / Selfie · Karakter · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100088288304664844-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100088288304664844-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100080507510034829"></a>
 
@@ -4469,20 +4211,20 @@ Askerî tarzda kısa bir etek ve kahverengi kamuflaj gömlekle koşan bir kadın
 
 <a name="prompt-2100005735417397494"></a>
 
-### Çeviri sürüyor
+### Çöl kumullarını süpüren bir kum fırtınası.
 
 Yazar：[@owenxplore](https://x.com/owenxplore) · [Orijinal gönderi](https://x.com/owenxplore/status/2100005735417397494)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Çöl kumullarını süpüren bir kum fırtınası.
 
 <img src="covers/2100005735417397494.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kum fırtınası
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4513,20 +4255,20 @@ Esmer tenli, kısa saçlı ve belirgin sakallı, doğrudan kameraya bakan, bordo
 
 <a name="prompt-2099638467852439632"></a>
 
-### Çeviri sürüyor
+### Tek sıra dominonun peş peşe devrilmesi.
 
 Yazar：[@HanVu195089](https://x.com/HanVu195089) · [Orijinal gönderi](https://x.com/HanVu195089/status/2099638467852439632)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tek sıra dominonun peş peşe devrilmesi.
 
 <img src="covers/2099638467852439632.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tek sıra halinde uzun bir kuyrukta dizilmiş dominolar, birinin itilmesiyle peş peşe devrilen basamaklı bir domino etkisine yol açıyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4557,7 +4299,7 @@ Gece havuzunun kenarında, abartılı derecede küçük bir mikro bikini giymiş
 
 <a name="prompt-2099604978868559874"></a>
 
-### Çeviri sürüyor
+### Mahkeme savaşı afişi tarzında, Anis, Rapi, Neon ve Komutan'ın kompozisyonunu ve diyaloglarını belirten &quot;NIKKE&quot; karakterleri hayran çizimi istemi.
 
 Yazar：[@TachMaru](https://x.com/TachMaru) · [Orijinal gönderi](https://x.com/TachMaru/status/2099604978868559874)
 
@@ -4565,7 +4307,7 @@ Poster / El İlanı · Karakter · Yayımlandı
 
 Orijinal gönderi：[@TachMaru](https://x.com/TachMaru) · [Orijinal gönderi](https://x.com/TachMaru/status/2067070540440027560)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Mahkeme savaşı afişi tarzında, Anis, Rapi, Neon ve Komutan'ın kompozisyonunu ve diyaloglarını belirten &quot;NIKKE&quot; karakterleri hayran çizimi istemi.
 
 <img src="images/2099604978868559874-1.jpg" alt="Görsel 1" width="480" />
 
@@ -4582,7 +4324,75 @@ Orijinal gönderi：[@TachMaru](https://x.com/TachMaru) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+Görsel boyutu: Aşağıdaki unsurları içeren 16:9 en boy oranında anime tarzı bir görsel oluşturun.
+## Sahne
+- Mahkeme salonu
+
+## Kompozisyon
+- "Mahkeme savaşı" afişi tarzında
+
+## Kamera
+- Hollanda açısı (Dutch angle)
+
+## Durum
+- Anis
+  - Konum: Ekranın sol altı
+  - Anis'in gövdesi öne dönük, işaret parmağıyla sol üstü gösteriyor (diğer parmaklar hafifçe içeri kıvrılmış)
+  - Anis, sağ üstteki Rapi'ye bakıyor
+  - Anis için konuşma balonunda yorum: 「意義あり！」 (Metin: kırmızı yazı; konuşma balonu: avazı çıktığı kadar bağırma hissi vermeli)
+- Rapi
+  - Konum: Ekranın sağ üstü
+  - Rapi'nin gövdesi öne dönük, her iki kolu bel hizasında iki yana açılmış, elleri hafifçe yukarı bakıyor, işaret ve orta parmakları bir arada, diğer parmaklar doğal duruşta
+  - Rapi, sol alttaki Anis'e yukarıdan bakıyor
+  - Rapi için konuşma balonunda yorum: 「指揮官は、アニスの嫁にはならないのだよ！」
+- Neon
+  - Konum: Ekranın sol üstü
+  - Yargıç kürsüsünde tokmağı art arda vuruyor
+  - 「カンカンカンカン」 ses efekti ekleyin
+  - Neon için konuşma balonunda yorum: 「静粛に！」
+- Komutan
+  - Konum: Ekranın sağ altı
+  - Tanık kürsüsünün önünde büzülmüş
+
+## Önemli
+- Anis ve Rapi ana karakterler olduğu için bu iki karakteri öne çıkararak büyük ölçekte çizin
+- Komutan'ın gözlerini perçemlerinin arkasına gizleyin
+
+Prompt Sample
+Create an anime-style image incorporating the following elements in a 16:9 aspect ratio.
+
+## Scene
+- Courtroom
+
+## Composition
+- In the style of a "courtroom battle" poster
+
+## Camera
+- Dutch angle
+
+## Situation
+- Anis
+  - Position: Bottom left of the frame
+  - Anis is facing forward and pointing her index finger toward the upper left (the other fingers are lightly curled into her palm)
+  - Anis is looking at Rapi in the upper right
+  - Speech bubble for Anis: "Objection!" (Text: red lettering; the speech bubble should convey that she is shouting at the top of her voice)
+- Rapi
+  - Position: Upper right of the frame
+  - Rapi is facing forward, spreading both arms outward around waist level with her palms slightly raised; her index and middle fingers are held together, while the other fingers are relaxed naturally
+  - Rapi is looking down at Anis in the lower left
+  - Speech bubble for Rapi: "The Commander is NOT going to become Anis's wife!"
+- Neon
+  - Position: Upper left of the frame
+  - At the judge's bench, repeatedly striking the gavel
+  - Include the sound effect "BANG BANG BANG BANG"
+  - Speech bubble for Neon: "Order in the court!"
+- Commander
+  - Position: Bottom right of the frame
+  - Cowering in front of the witness stand
+
+## Important
+- Anis and Rapi are the main characters, so depict these two characters prominently and at a large scale
+- Hide the Commander's eyes behind his bangs
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4769,20 +4579,20 @@ dil çıkarıp gülümseme, öpücük yüzü
 
 <a name="prompt-2099377292959265065"></a>
 
-### Çeviri sürüyor
+### 奢华浪漫的男士/女士香水视频广告分镜提示词，包含喷雾特写、男女亲密互动与产品包装特写。
 
 Yazar：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Orijinal gönderi](https://x.com/_Biy_a_/status/2099377292959265065)
 
 Çizgi Roman / Hikaye Taslağı · Ürün Pazarlaması · Grup / Çift · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 奢华浪漫的男士/女士香水视频广告分镜提示词，包含喷雾特写、男女亲密互动与产品包装特写。
 
 <img src="covers/2099377292959265065.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen görseli birebir görsel referans olarak kullanarak lüks ve romantik bir parfüm reklamı oluşturun. Kadın parfüm şişesini tutup boynuna ince bir sis püskürtürken yavaş, sinematik bir yaklaşma çekimiyle başlayın. Koku sisi onları nazikçe sararken adam daha da yaklaşır ve zarif, büyülü bir parıltı yaratır. Dramatik gece mavisi ışığı yansıtan mavi parfüm şişesinin ve ambalajının zarif bir makro çekimine geçin. Parfüm şişesi ön planda net bir şekilde odakta kalırken çiftin yumuşak, samimi bir siluetiyle sonlandırın. Seçkin gece atmosferi, derin mavi ve siyah tonlar, yumuşak bokeh, gerçekçi cilt ve saç hareketi, güzel parfüm sisi, sofistike lüks reklamcılık, sinematik aydınlatma, akıcı kamera hareketi, fotogerçekçi, 9:16 dikey, 4K tam olarak 10 saniye, ekstra metin yok, filigran yok
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4791,20 +4601,20 @@ Yazar：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Orijinal gönderi](https://x.co
 
 <a name="prompt-2099408672627851695"></a>
 
-### Çeviri sürüyor
+### mavi lateks yelek ve etek giymiş, beyaz diz üstü çizmeli yarış kraliçesi
 
 Yazar：[@AI\_Kei75](https://x.com/AI_Kei75) · [Orijinal gönderi](https://x.com/AI_Kei75/status/2099408672627851695)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** mavi lateks yelek ve etek giymiş, beyaz diz üstü çizmeli yarış kraliçesi
 
 <img src="images/2099408672627851695-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+yarış kraliçesi, renkli güneş gözlüğü, başta gözlük, renkli camlı gözlük, mavi lateks ceket, parlak mavi lateks doku, mavi ceket yelek, kısa ceket, mavi lateks yelek, (kolsuz:1.2), (açık ceket, açık giysiler), ceket altında straplez üst, (beyaz straplez üst), parlak beyaz lateks, (askısız), damalı tasma kolye, köprücük kemiği, karın, göbek deliği, (beyaz kemer), (mavi lateks etek), (mavi kalem etek), (damalı şerit), (damalı bileklik manşetleri), (yarış takımı logosu, şık baskı), (parlak beyaz lateks diz üstü çizmeler), beyaz uzun çizmeler, beyaz çizmeler, mavi şerit, topuklu ayakkabılar,
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -5013,72 +4823,6 @@ Portre / Selfie · Yayımlandı
 **Özet:** Çeviri sürüyor
 
 <img src="images/2099129364260831684-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2099109534954356977"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2099109534954356977)
-
-Poster / El İlanı · Portre / Selfie · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099109534954356977-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2099106073756192901"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](https://x.com/BeanieBlossom/status/2099106073756192901)
-
-Diğer · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2099106073756192901-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098996343255482545"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2098996343255482545)
-
-Portre / Selfie · Metin / Tipografi · Özet / Arka Plan · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098996343255482545-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -5334,72 +5078,6 @@ Om aum amin
 
 ---
 
-<a name="prompt-2098792103073476716"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@RenRose321](https://x.com/RenRose321) · [Orijinal gönderi](https://x.com/RenRose321/status/2098792103073476716)
-
-Diğer · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098792103073476716-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098790612799545375"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@owenxplore](https://x.com/owenxplore) · [Orijinal gönderi](https://x.com/owenxplore/status/2098790612799545375)
-
-Manzara / Doğa · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="covers/2098790612799545375.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098784945564983606"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@0x\_fokki](https://x.com/0x_fokki) · [Orijinal gönderi](https://x.com/0x_fokki/status/2098784945564983606)
-
-Diğer · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="covers/2098784945564983606.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="prompt-2098787760526205303"></a>
 
 ### Geleneksel Çin düğün kıyafetli kadının stüdyo portresi, kırmızı arka plan ve gösterişli çiçekli taç saç süsü.
@@ -5438,84 +5116,6 @@ düz kırmızı bir arka plan önünde geleneksel Çin düğün kıyafetleri giy
 
 ---
 
-<a name="prompt-2098760287524692407"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Orijinal gönderi](https://x.com/RobotCleopatra/status/2098760287524692407)
-
-Diğer · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098760287524692407-1.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098757292942635327"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@underwoodxie96](https://x.com/underwoodxie96) · [Orijinal gönderi](https://x.com/underwoodxie96/status/2098757292942635327)
-
-Portre / Selfie · Karakter · Araç · Yayımlandı
-
-Orijinal gönderi：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Orijinal gönderi](https://x.com/yutaka_prompt/status/2098672917479559420)
-
-**Özet:** Çeviri sürüyor
-
-<img src="images/2098757292942635327-1.jpg" alt="Görsel 1" width="480" />
-
-<img src="images/2098757292942635327-2.jpg" alt="Görsel 2" width="480" />
-
-<img src="images/2098757292942635327-3.jpg" alt="Görsel 3" width="480" />
-
-<img src="images/2098757292942635327-4.jpg" alt="Görsel 4" width="480" />
-
-<img src="images/2098757292942635327-5.jpg" alt="Görsel 5" width="480" />
-
-<img src="images/2098757292942635327-6.jpg" alt="Görsel 6" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098683941431455840"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@iadventurejacek](https://x.com/iadventurejacek) · [Orijinal gönderi](https://x.com/iadventurejacek/status/2098683941431455840)
-
-Diğer · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="covers/2098683941431455840.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
 <a name="prompt-2098686621931511841"></a>
 
 ### Bir ofiste bilgisayar kurulumu.
@@ -5532,28 +5132,6 @@ Diğer · Yayımlandı
 
 ```text
 ofiste bilgisayar
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098688166261842106"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Orijinal gönderi](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
-
-Hayvan / Yaratık · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="covers/2098688166261842106.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -6086,28 +5664,6 @@ Portre / Selfie · Karakter · Yayımlandı
 
 ```text
 Geniş yakalı gecelik; göğüste genişçe açıkta kalan ten; tamamen belirgin köprücük kemikleri; sabah uyanıp saç tarama; hafifçe kaldırılmış çene; soğuk bir yüz ifadesi; narin ve mesafeli
-```
-
-[↑ Kategorilere dön](#catalog)
-
----
-
-<a name="prompt-2098418180674773370"></a>
-
-### Çeviri sürüyor
-
-Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2098418180674773370)
-
-Karakter · Moda Ürünü · Yayımlandı
-
-**Özet:** Çeviri sürüyor
-
-<img src="covers/2098418180674773370.jpg" alt="Görsel 1" width="480" />
-
-**İstem**
-
-```text
-Çeviri sürüyor
 ```
 
 [↑ Kategorilere dön](#catalog)

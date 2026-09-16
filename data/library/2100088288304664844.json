@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T08:43:00.102Z",
+  "model": "unknown-image",
+  "prompt": "A stressed, overworked young woman sitting at a cluttered wooden desk working late on a laptop. She has light brown hair tied into a high, messy topknot bun, wearing thin black wire-rimmed round eyeglasses, drinking from a white ceramic mug with visible swirling hot steam rising from it. She is wearing an oversized beige trench coat covered in colorful sticky notes (pastel yellow, baby blue, soft pink). More handwritten post-it notes are stuck to her face, forehead, hair, and the back of her laptop screen. A desk lamp casts warm, dramatic side lighting; the background is a softly blurred, moody home office with bookshelves and potted plants. Cinematic, 35mm photograph, hyper-detailed, shallow depth of field, candid portrait, cozy yet chaotic aesthetic.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+  "promptTranslations": {
+    "en": "A stressed, overworked young woman sitting at a cluttered wooden desk working late on a laptop. She has light brown hair tied into a high, messy topknot bun, wearing thin black wire-rimmed round eyeglasses, drinking from a white ceramic mug with visible swirling hot steam rising from it. She is wearing an oversized beige trench coat covered in colorful sticky notes (pastel yellow, baby blue, soft pink). More handwritten post-it notes are stuck to her face, forehead, hair, and the back of her laptop screen. A desk lamp casts warm, dramatic side lighting; the background is a softly blurred, moody home office with bookshelves and potted plants. Cinematic, 35mm photograph, hyper-detailed, shallow depth of field, candid portrait, cozy yet chaotic aesthetic.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4"
+  },
+  "summaryTranslations": {
+    "en": "A young woman working late at night at her desk, wearing a trench coat, covered in and surrounded by colorful sticky notes, holding a hot drink."
+  },
+  "translationVersion": 2,
+  "summary": "深夜在书桌前加班的年轻女性，身穿风衣，全身及周围贴满彩色便签纸，手捧热饮。",
+  "summaryEn": "A late-night portrait of an overworked woman at her desk drinking tea, covered in colorful sticky notes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100088288304664844",
+    "canonicalUrl": "https://x.com/afrinxai/status/2100088288304664844",
+    "author": {
+      "username": "afrinxai",
+      "displayName": "𝑨𝒇𝒓𝒊𝒏",
+      "profileUrl": "https://x.com/afrinxai"
+    },
+    "publishedAt": "2026-09-16T05:04:00.000Z",
+    "collectedAt": "2026-09-16T08:24:57.587Z",
+    "language": "en",
+    "originalText": "The sticky note says Focussed & Refreshed, but my soul left the chat around 3:14 AM\n\nPrompt :A stressed, overworked young woman sitting at a cluttered wooden desk working late on a laptop. She has light brown hair tied into a high, messy topknot bun, wearing thin black wire-rimmed round eyeglasses, drinking from a white ceramic mug with visible swirling hot steam rising from it. She is wearing an oversized beige trench coat covered in colorful sticky notes (pastel yellow, baby blue, soft pink). More handwritten post-it notes are stuck to her face, forehead, hair, and the back of her laptop screen. A desk lamp casts warm, dramatic side lighting; the background is a softly blurred, moody home office with bookshelves and potted plants. Cinematic, 35mm photograph, hyper-detailed, shallow depth of field, candid portrait, cozy yet chaotic aesthetic.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSTtUXVaMAABJKI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSTtUXVaMAABJKI.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSTtVHMbsAAmbF8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSTtVHMbsAAmbF8.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 39,
+      "repostCount": 2,
+      "replyCount": 27,
+      "quoteCount": 0,
+      "viewCount": 713
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/afrinxai/status/2100088288304664844",
+  "coverUrl": "https://pbs.twimg.com/media/HSTtUXVaMAABJKI.jpg",
+  "coverPath": "images/2100088288304664844-1.jpg",
+  "imagePaths": [
+    "images/2100088288304664844-1.jpg",
+    "images/2100088288304664844-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSTtUXVaMAABJKI",
+    "x-image:/media/HSTtVHMbsAAmbF8",
+    "x-post:2100088288304664844"
+  ],
+  "analysis": {
+    "summary": "深夜在书桌前加班的年轻女性，身穿风衣，全身及周围贴满彩色便签纸，手捧热饮。",
+    "summaryEn": "A late-night portrait of an overworked woman at her desk drinking tea, covered in colorful sticky notes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "第二张图片准确呈现了提示词中所描述的丸子头、圆框眼镜、贴在脸部和米色风衣上的彩色便签纸、冒热气的杯子以及温暖的侧光书桌环境；第一张图则是参考原图。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "A stressed, overworked young woman sitting at a cluttered wooden desk working late on a laptop. She has light brown hair tied into a high, messy topknot bun, wearing thin black wire-rimmed round eyeglasses, drinking from a white ceramic mug with visible swirling hot steam rising from it. She is wearing an oversized beige trench coat covered in colorful sticky notes (pastel yellow, baby blue, soft pink). More handwritten post-it notes are stuck to her face, forehead, hair, and the back of her laptop screen. A desk lamp casts warm, dramatic side lighting; the background is a softly blurred, moody home office with bookshelves and potted plants. Cinematic, 35mm photograph, hyper-detailed, shallow depth of field, candid portrait, cozy yet chaotic aesthetic.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+    "sourceRange": {
+      "start": 93,
+      "end": 1062
+    },
+    "translations": {
+      "zh": "一位压力重重、过度劳累的年轻女性深夜坐在凌乱的木桌旁对着笔记本电脑工作。她留着浅棕色头发，扎着高而凌乱的丸子头，戴着纤细的黑色金属圆框眼镜，正捧着一个冒着缕缕热气的白色陶瓷杯喝水。她穿着一件宽大的米色风衣，上面贴满了彩色的便签纸（浅黄、粉蓝、粉红）。更多的手写便签贴在她的脸上、额头、头发和笔记本电脑屏幕背面。一盏台灯投下温暖而戏剧性的侧光；背景是柔和模糊且充满氛围感的家庭书房，带有书架和盆栽。电影感，35mm照片，超细腻，浅景深，抓拍人像，舒适却混乱的美学。使用上传的照片作为成年女性的面部特征参考。保留其具有辨识度的面部特征、自然肤色、面部比例与整体外观。将宽高比设置为3:4",
+      "en": "A stressed, overworked young woman sitting at a cluttered wooden desk working late on a laptop. She has light brown hair tied into a high, messy topknot bun, wearing thin black wire-rimmed round eyeglasses, drinking from a white ceramic mug with visible swirling hot steam rising from it. She is wearing an oversized beige trench coat covered in colorful sticky notes (pastel yellow, baby blue, soft pink). More handwritten post-it notes are stuck to her face, forehead, hair, and the back of her laptop screen. A desk lamp casts warm, dramatic side lighting; the background is a softly blurred, moody home office with bookshelves and potted plants. Cinematic, 35mm photograph, hyper-detailed, shallow depth of field, candid portrait, cozy yet chaotic aesthetic.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "AI 人像图像生成及面部参考重绘",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

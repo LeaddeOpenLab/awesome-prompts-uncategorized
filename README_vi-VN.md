@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**242** Prompt · Bổ sung mới nhất: **2026-09-16**
+**214** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render) · [Đẳng cự](#category-isometric) · [Tranh Sơn Dầu](#category-oil-painting) · [Màu nước](#category-watercolor) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render) · [Tranh Sơn Dầu](#category-oil-painting) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -33,23 +33,33 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Nhiếp ảnh
 
-<a name="prompt-2100081996760531273"></a>
+<a name="prompt-2100136938921685221"></a>
 
 ### Đang dịch
 
-Tác giả：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+Tác giả：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2100136938921685221)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+Bài gốc：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2099767415332872435)
 
 **Tóm tắt:** Đang dịch
 
-<img src="images/2100081996760531273-1.jpg" alt="Hình ảnh 1" width="480" />
+<img src="images/2100136938921685221-1.jpg" alt="Hình ảnh 1" width="480" />
 
-<img src="images/2100081996760531273-2.jpg" alt="Hình ảnh 2" width="480" />
+<img src="images/2100136938921685221-2.jpg" alt="Hình ảnh 2" width="480" />
 
-<img src="images/2100081996760531273-3.jpg" alt="Hình ảnh 3" width="480" />
+<img src="images/2100136938921685221-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100136938921685221-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2100136938921685221-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2100136938921685221-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2100136938921685221-7.jpg" alt="Hình ảnh 7" width="480" />
+
+<img src="images/2100136938921685221-8.jpg" alt="Hình ảnh 8" width="480" />
 
 **Câu lệnh**
 
@@ -150,28 +160,6 @@ Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](h
 <img src="images/2100036195572937061-2.jpg" alt="Hình ảnh 2" width="480" />
 
 <img src="images/2100036195572937061-3.jpg" alt="Hình ảnh 3" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2099988959992709449"></a>
-
-### Đang dịch
-
-Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2099988959992709449)
-
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099988959992709449-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
@@ -353,28 +341,6 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 ---
 
-<a name="prompt-2099641928220361114"></a>
-
-### Đang dịch
-
-Tác giả：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Bài gốc](https://x.com/AiPhotoDesigner/status/2099641928220361114)
-
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Kiến trúc / Nội thất · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099641928220361114-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="prompt-2099632246730760679"></a>
 
 ### Prompt chân dung cho một cô gái Thổ Nhĩ Kỳ 23 tuổi trong khu vườn nở hoa dưới ánh nắng ban mai dịu nhẹ với các chi tiết chân thực như ảnh chụp.
@@ -516,52 +482,6 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
     "size": "1080x1920"
   }
 }
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2099409502898700694"></a>
-
-### Đang dịch
-
-Tác giả：[@mumaren\_2](https://x.com/mumaren_2) · [Bài gốc](https://x.com/mumaren_2/status/2099409502898700694)
-
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099409502898700694-1.jpg" alt="Hình ảnh 1" width="480" />
-
-<img src="images/2099409502898700694-2.jpg" alt="Hình ảnh 2" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2099379743108055415"></a>
-
-### Đang dịch
-
-Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2099379743108055415)
-
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099379743108055415-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -852,28 +772,6 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Kiến trúc /
 
 ---
 
-<a name="prompt-2099106797655048428"></a>
-
-### Đang dịch
-
-Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2099106797655048428)
-
-Nhiếp ảnh · Nhân vật · Mặt hàng thời trang · Quang cảnh thành phố / Đường phố · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099106797655048428-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="prompt-2099001599767318570"></a>
 
 ### Đang dịch
@@ -1034,52 +932,6 @@ Sử dụng ánh sáng studio phong cách low-key đầy kịch tính: ánh sán
 Bố cục phải mang lại cảm giác như một chiến dịch thời trang nam xa xỉ, tinh tế, uy quyền, thanh lịch, bí ẩn, mang đậm tính biên tập và chất điện ảnh. Chụp bằng ống kính chân dung 85mm, độ sâu trường ảnh nông, nhiếp ảnh siêu thực, dải tương phản động cao (HDR), lấy nét sắc nét, kết cấu da chân thực, chất lượng tạp chí thời trang cao cấp, bố cục dọc 9:16.
 
 Không có chữ, không có logo, không có watermark, không có người thừa, không có bàn tay bị biến dạng, không có cơ bắp phóng đại.
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098676865284407781"></a>
-
-### Đang dịch
-
-Tác giả：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Bài gốc](https://x.com/YueyueforLuis/status/2098676865284407781)
-
-Nhiếp ảnh · Nhóm / Cặp đôi · Thực phẩm / Đồ uống · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098676865284407781-1.jpg" alt="Hình ảnh 1" width="480" />
-
-<img src="images/2098676865284407781-2.jpg" alt="Hình ảnh 2" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098687497794711885"></a>
-
-### Đang dịch
-
-Tác giả：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Bài gốc](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
-
-Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="covers/2098687497794711885.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -1248,28 +1100,6 @@ Trên da đọng lại những giọt nước, sắc hồng tinh tế và lỗ c
 【Chất lượng・Yếu tố loại trừ】
 Ưu tiên độ phân giải cao, giải phẫu cơ thể tự nhiên, phối cảnh chân thực, ánh sáng và chất liệu như được chụp bằng máy ảnh thực tế. Tránh tạo hình nhân vật trông vị thành niên, gương mặt quá non nớt, khớp xương hoặc cơ thể vặn vẹo bất thường, thừa tay chân hay ngón tay, thiếu ngón tay, dính ngón, nhầm lẫn tay trái phải.
 Tránh lỗi khăn tắm biến dạng, hợp nhất vào cơ thể, siết chặt bất thường, hở hang ngoài ý muốn. Vòng một giữ kích thước đầy đặn tự nhiên, không biến dạng khổng lồ, không thành khối cầu cứng đơ, không độn đẩy bất thường hay thách thức trọng lực. Không có hiện tượng méo góc rộng cực đoan, không làm mịn da quá đà, không có bối cảnh bất tự nhiên, không chứa chữ, logo, watermark, hiển thị giao diện UI.
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098639083652419714"></a>
-
-### Đang dịch
-
-Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2098639083652419714)
-
-Nhiếp ảnh · Nhân vật · Mặt hàng thời trang · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098639083652419714-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2076,20 +1906,22 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2100082529512645050"></a>
 
-### Đang dịch
+### Một người đàn ông đơn độc bước qua thành phố neon mưa gió trong đêm trước khi sự cố mất điện đột ngột chỉ để lại ánh sáng ngược màu xanh lam.
 
 Tác giả：[@MRB\_AI24](https://x.com/MRB_AI24) · [Bài gốc](https://x.com/MRB_AI24/status/2100082529512645050)
 
 Điện ảnh / Ảnh tĩnh từ phim · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một người đàn ông đơn độc bước qua thành phố neon mưa gió trong đêm trước khi sự cố mất điện đột ngột chỉ để lại ánh sáng ngược màu xanh lam.
 
 <img src="covers/2100082529512645050.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một người đàn ông đơn độc bước đi qua một thành phố tương lai ướt sũng trong mưa vào ban đêm, được bao quanh bởi những tòa nhà chọc trời bằng đèn neon cao vút, các bảng quảng cáo ba chiều phát sáng và làn sương mù lơ lửng. Máy quay từ từ lùi lại khi anh ta tiến về phía ống kính, chiếc áo khoác của anh chuyển động tự nhiên theo gió. Ánh đèn neon phản chiếu lấp lánh trên những con phố ướt át. Đột nhiên, toàn bộ thành phố mất điện trong chốc lát, chỉ để lại một luồng ánh sáng xanh lam bí ẩn phía sau lưng anh.
+
+Cực kỳ đậm chất điện ảnh, chân thực như ảnh chụp, bầu không khí kịch tính, vật lý mưa và nước chân thực, sương mù thể tích, môi trường chi tiết, chuyển động con người tự nhiên, độ sâu trường ảnh nông, ống kính anamorphic, lóe sáng ống kính tinh tế, độ tương phản cao, kết cấu da chân thực, chuyển động máy quay sống động, thẩm mỹ khoa học viễn tưởng Hollywood, 4K, 24fps.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2120,7 +1952,7 @@ Một cảnh điện ảnh thời trang cao cấp siêu thực với sự xuất
 
 <a name="prompt-2099346814327738872"></a>
 
-### Đang dịch
+### Chân dung điện ảnh của một người đàn ông Nam Á trên chiếc ghế lộng lẫy dưới ánh sáng rèm sáo ấm áp.
 
 Tác giả：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2099346814327738872)
 
@@ -2128,7 +1960,7 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh t�
 
 Bài gốc：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2098828983488180727)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung điện ảnh của một người đàn ông Nam Á trên chiếc ghế lộng lẫy dưới ánh sáng rèm sáo ấm áp.
 
 <img src="images/2099346814327738872-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2137,7 +1969,7 @@ Bài gốc：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung điện ảnh của một người đàn ông Nam Á trẻ tuổi với mái tóc đen xoăn dày và bộ râu rậm, đang ngồi nghiêng người trên chiếc ghế gỗ chạm khắc cổ điển lộng lẫy, ánh mắt trầm ngâm nhìn ra ngoài khung hình với vẻ mặt bình thản, suy tư. Anh mặc một chiếc áo khoác sơ mi chất liệu nhung tăm hoặc da lộn màu lạc đà/nâu vàng với cổ áo lớn, mở cúc khoác ngoài áo phông màu nâu sẫm, kết hợp cùng quần jean xanh, hai tay thả lỏng thư thái trên tay vịn của ghế. Cảnh tượng được chiếu sáng bởi ánh nắng ấm áp của giờ vàng rọi qua cửa sổ rèm sáo, tạo thành những dải sáng tối nằm ngang sắc nét trên khuôn mặt, lồng ngực và bức tường phía sau anh. Một chồng sách bìa cứng cũ nằm trên chiếc bàn gỗ nhỏ cạnh cửa sổ ở hậu cảnh, được chiếu sáng nhẹ nhàng và hơi mất nét. Căn phòng mang bảng màu ấm áp, giàu cảm xúc, tông màu nâu đỏ hoài cổ với sắc nâu trầm và hổ phách, ánh sáng chiaroscuro đầy kịch tính, độ sâu trường ảnh nông, các hạt bụi hiện lên mờ ảo trong các luồng sáng, tâm trạng điện ảnh và hoài niệm, được chụp như thể bằng ống kính 50mm ở f/1.8, siêu thực, độ chi tiết cao, chỉnh màu mang phong cách phim nhựa.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2146,13 +1978,13 @@ Bài gốc：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x
 
 <a name="prompt-2099332324538093913"></a>
 
-### Đang dịch
+### Một câu lệnh toàn diện để tạo chân dung đạo diễn phong cách điện ảnh khổ dọc bằng cách sử dụng các hình ảnh tham chiếu cho tư thế, ánh sáng và ghế trong khi khóa danh tính khuôn mặt của chủ thể.
 
 Tác giả：[@meAsifAi](https://x.com/meAsifAi) · [Bài gốc](https://x.com/meAsifAi/status/2099332324538093913)
 
 Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một câu lệnh toàn diện để tạo chân dung đạo diễn phong cách điện ảnh khổ dọc bằng cách sử dụng các hình ảnh tham chiếu cho tư thế, ánh sáng và ghế trong khi khóa danh tính khuôn mặt của chủ thể.
 
 <img src="images/2099332324538093913-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -2163,7 +1995,151 @@ Tác giả：[@meAsifAi](https://x.com/meAsifAi) · [Bài gốc](https://x.com/m
 **Câu lệnh**
 
 ```text
-Đang dịch
+MASTER PROMPT — CHÂN DUNG ĐẠO DIỄN ĐIỆN ẢNH DỰA TRÊN ẢNH THAM CHIẾU
+
+ẢNH THAM CHIẾU LÀ BẮT BUỘC.
+
+Sử dụng hình ảnh tham chiếu được tải lên làm HÌNH ẢNH THAM CHIẾU CHÍNH cho toàn bộ bố cục, cách đóng khung, góc máy ảnh, vị trí chủ thể, tư thế, thiết kế ghế, cách bố trí ánh sáng, không khí hậu cảnh, bóng đổ, khói, độ sâu, chỉnh màu (color grading), tâm trạng điện ảnh và tính thẩm mỹ thị giác tổng thể.
+
+Sử dụng hình ảnh cá nhân được tải lên của người dùng làm THAM CHIẾU DANH TÍNH CHÍNH cho chủ thể.
+
+Chủ thể được tải lên có thể là BẤT KỲ AI — nam hoặc nữ. Giữ nguyên danh tính nhận diện chính xác của người đó từ ảnh cá nhân được tải lên, bao gồm cấu trúc khuôn mặt, mắt, mũi, môi, đường viền hàm, tông màu da, đường chân tóc, kiểu tóc, diện mạo theo độ tuổi và các đặc điểm khuôn mặt tự nhiên. KHÔNG thay thế, thiết kế lại, làm đẹp nhân tạo, nam tính hóa, nữ tính hóa hoặc làm thay đổi danh tính của người đó.
+
+BIẾN ĐỔI CHỦ THỂ VÀO CÙNG MỘT KHUNG CẢNH CHÂN DUNG ĐIỆN ẢNH NHƯ ẢNH THAM CHIẾU.
+
+BỐ CỤC:
+Tạo một bức chân dung điện ảnh khổ dọc đầy ấn tượng với chủ thể ngồi tự tin trên chiếc ghế đạo diễn màu đen chuyên nghiệp ở trung tâm khung hình.
+
+Khớp chặt chẽ với bố cục tham chiếu:
+- Bố cục toàn thân trong tư thế ngồi
+- Chủ thể được định vị ở trung tâm
+- Máy ảnh đặt xấp xỉ ngang tầm mắt/ngực với góc nhìn đậm chất điện ảnh nhẹ
+- Chân bắt chéo tự nhiên hoặc đặt ở tư thế ngồi tự tin, thư thái tương thích với ảnh tham chiếu
+- Một tay tựa tự nhiên trên tay vịn của ghế
+- Tay còn lại đặt tự nhiên gần mặt/đầu theo tư thế biên tập đầy tự tin và trầm ngâm
+- Ngôn ngữ cơ thể thư thái nhưng quyền lực
+- Sự cân bằng thị giác đối xứng mạnh mẽ
+- Không gian âm tối (dark negative space) rộng rãi bao quanh chủ thể
+- Giữ chủ thể là tiêu điểm nổi bật nhất
+
+GHẾ:
+Sử dụng ghế xếp kiểu đạo diễn màu đen cao cấp với các chi tiết cấu trúc chân thực, vải tối màu, tay vịn, khung đỡ bắt chéo và tỷ lệ chính xác về mặt vật lý.
+
+ÁNH SÁNG:
+Tái hiện ánh sáng studio đầy kịch tính từ ảnh tham chiếu.
+
+Một chùm đèn rọi (spotlight) hẹp, mạnh từ phía trên chiếu sáng chủ thể từ đỉnh đầu xuống, tạo ra một hình nón ánh sáng rõ rệt trên nền môi trường tối.
+
+Ánh sáng cần tạo ra:
+- Vùng sáng điểm (highlights) đậm chất điện ảnh trên khuôn mặt
+- Bóng đổ tự nhiên trên cơ thể
+- Ánh sáng viền (rim lighting) tinh tế quanh đường bao cơ thể
+- Độ giảm sáng tự nhiên (realistic falloff)
+- Vùng bóng sâu nhưng giàu chi tiết
+- Tách biệt chủ thể mạnh mẽ khỏi hậu cảnh
+
+HẬU CẢNH:
+Tạo môi trường studio điện ảnh gần như tối hoàn toàn với hậu cảnh màu đen sâu/xanh đen.
+
+Thêm làn khói hoặc sương mờ khí quyển tinh tế bốc lên phía sau và phía trên chủ thể. Khói cần tương tác tự nhiên với đèn rọi trên cao, tạo ra các tia sáng thể tích (volumetric light rays) có thể nhìn thấy.
+
+Hậu cảnh phải giữ ở mức tối giản, tối tăm, thanh lịch và không gây xao nhãng.
+
+TRANG PHỤC:
+Điều chỉnh trang phục một cách tự nhiên theo giới tính, ngoại hình và thẩm mỹ tổng thể của người được tải lên, đồng thời duy trì cùng một cảm giác điện ảnh cao cấp như ảnh tham chiếu.
+
+Bộ trang phục phải trông tinh tế, chân thực, phong cách và chuẩn phong cách thời trang tạp chí (editorial).
+
+KHÔNG sao chép một cách mù quáng bộ quần áo chính xác từ ảnh tham chiếu nếu nó không phù hợp một cách tự nhiên với chủ thể được tải lên. Thay vào đó, hãy giữ ngôn ngữ tạo hình tổng thể của ảnh tham chiếu: thời trang điện ảnh tối màu, tinh tế, trung tính cho cả nam/nữ, chất liệu cao cấp, vật liệu chân thực và sự sang trọng kín đáo.
+
+TƯ THẾ & BIỂU CẢM:
+Duy trì thái độ tự tin, điềm tĩnh, đĩnh đạc như trong ảnh tham chiếu.
+
+Biểu cảm khuôn mặt của nhân vật cần tạo cảm giác tự nhiên, nghiêm túc, tinh tế và tự tin.
+
+Không gượng ép nụ cười quá mức hay biểu cảm kịch tính quá đà.
+
+Bảo toàn tỷ lệ khuôn mặt tự nhiên và danh tính nhận diện của người đó.
+
+MÁY ẢNH & ỐNG KÍNH:
+Diện mạo nhiếp ảnh điện ảnh chuyên nghiệp.
+Thẩm mỹ máy ảnh Full-frame.
+Ống kính chân dung khoảng 50mm–85mm.
+Góc nhìn tự nhiên.
+Độ sâu trường ảnh nông vừa phải.
+Chủ thể được lấy nét sắc nét.
+Hậu cảnh mờ dần vào bóng tối và chiều sâu khí quyển mềm mại.
+
+TÍNH CHÂN THỰC:
+Giải phẫu cơ thể người siêu thực tế.
+Kết cấu da tự nhiên.
+Lỗ chân lông nhìn thấy được nhưng tinh tế.
+Chi tiết khuôn mặt chân thực.
+Từng sợi tóc tự nhiên.
+Nếp gấp quần áo chính xác về mặt vật lý.
+Phản ứng chất liệu da/vải/vật liệu chân thực.
+Bàn tay và ngón tay tự nhiên.
+Tỷ lệ cơ thể chính xác.
+Hình học của ghế chân thực.
+Bóng tiếp xúc tự nhiên giữa cơ thể, quần áo, ghế và sàn nhà.
+
+CHỈNH MÀU ĐIỆN ẢNH:
+Bảng màu điện ảnh cao cấp tông tối.
+Sắc đen sâu thẳm.
+Bóng đổ xanh đen lạnh.
+Vùng sáng ấm nhẹ trên da và trang phục.
+Dải động cao (High dynamic range).
+Độ tương phản phong phú.
+Vùng sáng kiểm soát tốt.
+Chỉnh màu chuẩn rạp chiếu phim chuyên nghiệp.
+Thẩm mỹ nhiếp ảnh biên tập xa hoa.
+
+KHÔNG KHÍ:
+Hình ảnh cuối cùng phải mang lại cảm giác như áp phích nhân vật điện ảnh kinh phí cao hoặc ảnh chân dung biên tập phong cách Netflix cao cấp được chụp trong một xưởng phim chuyên nghiệp.
+
+Hình ảnh phải toát lên vẻ tinh tế, quyền lực, bí ẩn, kịch tính và đắt giá — KHÔNG giống như một bức ảnh studio thông thường.
+
+KHÓA DANH TÍNH:
+Hình ảnh cá nhân được tải lên là nguồn duy nhất xác thực cho danh tính của chủ thể.
+
+Không thay đổi khuôn mặt của người đó.
+Không tạo ra một người khác.
+Không hòa trộn đặc điểm khuôn mặt với người trong ảnh tham chiếu.
+Không sao chép danh tính của người trong ảnh tham chiếu.
+CHỈ sử dụng hình ảnh tham chiếu cho bố cục, tư thế, môi trường, ánh sáng, xử lý máy ảnh, không khí và phong cách hình ảnh.
+
+Chủ thể cuối cùng phải thể hiện rõ ràng là cùng một người từ ảnh cá nhân được tải lên.
+
+CHẤT LƯỢNG:
+Siêu chân thực.
+Photorealistic.
+Nhiếp ảnh điện ảnh.
+Chi tiết 8K.
+Độ phân giải cao.
+Kết xuất da chuyên nghiệp.
+Chi tiết vi mô tự nhiên.
+Ánh sáng thể tích chân thực.
+Khói chân thực.
+Bóng đổ chính xác.
+Đường nét sắc sảo, sạch sẽ.
+Không có vẻ ngoài giả tạo của AI.
+Không da bóng như nhựa.
+Không mặt sáp.
+Không có diện mạo CGI.
+Không biến dạng giải phẫu.
+Không thừa ngón tay.
+Không dị tật bàn tay.
+Không nhân bản chi.
+Không có lỗi tạo tác trên khuôn mặt.
+Không mắt bất thường.
+Không biến dạng quần áo.
+Không vật thể lơ lửng.
+Không làm nét quá đà.
+
+KẾT QUẢ ĐẦU RA CUỐI CÙNG:
+Một bức chân dung điện ảnh khổ dọc cao cấp khớp với ngôn ngữ thị giác của hình ảnh tham chiếu được tải lên ở mức tối đa, đồng thời sử dụng hình ảnh cá nhân được tải lên làm tham chiếu danh tính chính xác.
+
+Kết quả phải trông giống như một bức ảnh điện ảnh chuyên nghiệp thực thụ được chụp trên máy ảnh cao cấp, không phải hình ảnh do AI tạo ra.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2331,20 +2307,20 @@ Truyện tranh / Bảng phân cảnh · Điện ảnh / Ảnh tĩnh từ phim ·
 
 <a name="prompt-2098964408085205361"></a>
 
-### Đang dịch
+### Bức ảnh phiêu lưu mang phong cách điện ảnh về một chàng trai trẻ trên vách đá nhìn ra biển mây.
 
 Tác giả：[@MohdAdnanA86218](https://x.com/MohdAdnanA86218) · [Bài gốc](https://x.com/MohdAdnanA86218/status/2098964408085205361)
 
 Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Mặt hàng thời trang · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức ảnh phiêu lưu mang phong cách điện ảnh về một chàng trai trẻ trên vách đá nhìn ra biển mây.
 
 <img src="images/2098964408085205361-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh phiêu lưu sang trọng mang phong cách điện ảnh chân thực đỉnh cao về một chàng trai trẻ đầu độ tuổi 20 đẹp trai nổi bật, đang đứng đầy tự tin trên rìa một vách đá núi non hùng vĩ phía trên biển mây bao la. Anh có mái tóc đen tuyền dày gợn sóng tự nhiên bồng bềnh hơi rối nhẹ, đôi lông mày sắc nét đậm nét, đôi mắt màu nâu sẫm sâu thẳm giàu biểu cảm, sống mũi thẳng tắp như tạc, gò má nổi bật, đường quai hàm nam tính sắc cạnh và hàng râu lún phún tự nhiên mờ nhạt. Anh mặc trang phục dã ngoại cao cấp và phong trần — áo khoác chống nước màu ô liu đậm, áo giữ nhiệt đen ôm sát, quần leo núi màu than củi, ủng đi bộ leo núi bằng da và một chiếc ba lô leo núi kiểu dáng thanh lịch. Tóc và áo khoác của anh chuyển động tự nhiên trong làn gió núi mạnh mẽ. Phía sau anh, những đỉnh núi phủ tuyết sừng sững vươn lên qua làn sương sớm màu vàng kim, trong khi ánh nắng dịu nhẹ xuyên qua các tầng mây, tạo nên những luồng sáng thể tích đầy ngoạn mục. Thung lũng mênh mông chìm khuất bên dưới một đại dương mây rực rỡ. Bố cục góc rộng điện ảnh, chụp toàn thân, cảm giác quy mô sử thi, chiều sâu khí quyển tự nhiên, kết cấu núi đá chân thực, hiệu ứng lóa sáng ống kính tinh tế, bầu trời kịch tính, tâm trạng phiêu lưu nhưng tao nhã, chi tiết da và sợi vải chân thực như ảnh chụp, HDR, 8K, nhiếp ảnh thời trang dã ngoại chuyên nghiệp, ống kính điện ảnh 24mm, ánh sáng chân thực, chỉnh màu tự nhiên, không có khuôn mặt giả tạo hoặc mang vẻ AI, không chữ, không hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2383,72 +2359,6 @@ Bài gốc：[@Soranlan](https://x.com/Soranlan) · [Bài gốc](https://x.com/S
 
 ```text
 Khung hình phim 35mm điện ảnh, thẩm mỹ kiếm hiệp Trung Hoa hoài cổ, chân dung người thật lấy nét mềm như mơ của một người phụ nữ kiếm hiệp Đông Á trưởng thành trong rừng trúc đêm sương mù. Cận cảnh vừa, góc nghiêng ba phần tư quay về phía máy ảnh, ánh nhìn trầm tĩnh u sầu, khuôn mặt trái xoan, lông mày lá liễu, mắt hạnh, trang điểm tinh tế, làn da trắng sáng phát quang, mái tóc đen dài bay sang một bên, búi tóc nửa đầu cổ điển với những lọn tóc buông lơi, hoa tai bạc dáng giọt nước tinh xảo. Hán phục lụa trắng thướt tha với các lớp lót màu xanh nhạt và tay áo dài mềm mại, một tay duyên dáng đưa ra đón chiếc lá trúc đang rơi. Những cánh hoa màu hồng và lá trúc trôi lơ lửng, tiền cảnh cây lá mờ nhiều tầng, sương mờ mờ, bầu không khí ánh trăng xanh lục lam mát lạnh, ánh sáng viền màu hổ phách ấm áp mềm mại trên tóc và má. Độ sâu trường ảnh nông, quầng sáng (halation) tinh tế, hạt phim nhìn thấy rõ, tâm trạng điện ảnh analog. Chữ "Soran" được dệt vào viền thêu tay áo gần cổ tay, lồng vào thớ lụa, đường vân trâm cài tóc và các hoa văn sợi chỉ tinh xảo của hoa tai. --no hoạt hình, nghệ thuật ý tưởng game, CGI, da nhựa, đèn flash gắt, ánh sáng studio, độ sắc nét kỹ thuật số, HDR, màu sắc quá bão hòa, biểu cảm hung hăng, ánh nhìn chằm chằm gay gắt, trang phục hiện đại, phụ kiện hiện đại, bàn tay biến dạng, thừa ngón tay, thiếu ngón tay, giải phẫu sai lệch, hình mờ bên ngoài, logo dạng nhãn dán, chữ tách rời, chú thích, phụ đề --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098806415666077809"></a>
-
-### Đang dịch
-
-Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2098806415666077809)
-
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098806415666077809-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098788910432129114"></a>
-
-### Đang dịch
-
-Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2098788910432129114)
-
-Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098788910432129114-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098780787936223258"></a>
-
-### Đang dịch
-
-Tác giả：[@im\_shahid7](https://x.com/im_shahid7) · [Bài gốc](https://x.com/im_shahid7/status/2098780787936223258)
-
-Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="covers/2098780787936223258.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3138,28 +3048,6 @@ Hoạt ảnh 2D chuyển cảnh cắt từ khung hình trên cùng bên trái sa
 
 ---
 
-<a name="prompt-2098669706626683027"></a>
-
-### Đang dịch
-
-Tác giả：[@ux6ovv](https://x.com/ux6ovv) · [Bài gốc](https://x.com/ux6ovv/status/2098669706626683027)
-
-Anime / Manga · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="covers/2098669706626683027.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="prompt-2097918597603733849"></a>
 
 ### Lời nhắc phân cảnh hoạt hình tương tác giữa Luffy và Anya, bao gồm màn chắn bảo vệ ruy băng vàng và hành động xoa đầu ôm ấp.
@@ -3537,44 +3425,6 @@ Bài gốc：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/V
 
 ---
 
-<a name="prompt-2098762652491374723"></a>
-
-### Đang dịch
-
-Tác giả：[@nanyuan0412](https://x.com/nanyuan0412) · [Bài gốc](https://x.com/nanyuan0412/status/2098762652491374723)
-
-Minh họa · Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Đã xuất bản
-
-Bài gốc：[@nanyuan0412](https://x.com/nanyuan0412) · [Bài gốc](https://x.com/nanyuan0412/status/2098379782669094946)
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098762652491374723-1.jpg" alt="Hình ảnh 1" width="480" />
-
-<img src="images/2098762652491374723-2.jpg" alt="Hình ảnh 2" width="480" />
-
-<img src="images/2098762652491374723-3.jpg" alt="Hình ảnh 3" width="480" />
-
-<img src="images/2098762652491374723-4.jpg" alt="Hình ảnh 4" width="480" />
-
-<img src="images/2098762652491374723-5.jpg" alt="Hình ảnh 5" width="480" />
-
-<img src="images/2098762652491374723-6.jpg" alt="Hình ảnh 6" width="480" />
-
-<img src="images/2098762652491374723-7.jpg" alt="Hình ảnh 7" width="480" />
-
-<img src="images/2098762652491374723-8.jpg" alt="Hình ảnh 8" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="prompt-2098359042234351871"></a>
 
 ### Chân dung biếm họa phụ nữ trưởng thành phong cách hài kịch phóng đại 3D với đôi mắt to bất đối xứng, mũi to, tai to và nụ cười kỳ dị, cùng ánh sáng viền studio.
@@ -3683,38 +3533,6 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 
 ---
 
-<a name="category-isometric"></a>
-
-## Đẳng cự
-
-<a name="prompt-2098773122107523294"></a>
-
-### Đang dịch
-
-Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098773122107523294)
-
-Áp phích / Tờ rơi · Đẳng cự · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098773122107523294-1.jpg" alt="Hình ảnh 1" width="480" />
-
-<img src="images/2098773122107523294-2.jpg" alt="Hình ảnh 2" width="480" />
-
-<img src="images/2098773122107523294-3.jpg" alt="Hình ảnh 3" width="480" />
-
-<img src="images/2098773122107523294-4.jpg" alt="Hình ảnh 4" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="category-oil-painting"></a>
 
 ## Tranh Sơn Dầu
@@ -3747,63 +3565,61 @@ Chuyển đổi bức ảnh du lịch kiến trúc thế giới đầu vào thà
 
 ---
 
-<a name="prompt-2098792248892625275"></a>
-
-### Đang dịch
-
-Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2098792248892625275)
-
-Áp phích / Tờ rơi · Tranh Sơn Dầu · Tóm tắt / Bối cảnh · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098792248892625275-1.jpg" alt="Hình ảnh 1" width="480" />
-
-<img src="images/2098792248892625275-2.jpg" alt="Hình ảnh 2" width="480" />
-
-<img src="images/2098792248892625275-3.jpg" alt="Hình ảnh 3" width="480" />
-
-<img src="images/2098792248892625275-4.jpg" alt="Hình ảnh 4" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="category-watercolor"></a>
-
-## Màu nước
-
-<a name="prompt-2098743938299666847"></a>
-
-### Đang dịch
-
-Tác giả：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Bài gốc](https://x.com/BeanieBlossom/status/2098743938299666847)
-
-Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098743938299666847-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2100100687946203533"></a>
+
+### Đang dịch
+
+Tác giả：[@TodayKan](https://x.com/TodayKan) · [Bài gốc](https://x.com/TodayKan/status/2100100687946203533)
+
+Minh họa · Cổ điển / Cổ điển · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100100687946203533-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100100687946203533-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100100687946203533-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100100687946203533-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100124265752449144"></a>
+
+### Đang dịch
+
+Tác giả：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2100124265752449144)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100124265752449144-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100124265752449144-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099626543857209360"></a>
 
@@ -3821,32 +3637,6 @@ Cổ điển / Cổ điển · Phương tiện · Kiến trúc / Nội thất ·
 
 ```text
 Tạo một hình ảnh về Malört Motors
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2099473433067495508"></a>
-
-### Đang dịch
-
-Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2099473433067495508)
-
-Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
-
-Bài gốc：[@adinascozylife](https://x.com/adinascozylife) · [Bài gốc](https://x.com/adinascozylife/status/2099313663827947968)
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099473433067495508-1.jpg" alt="Hình ảnh 1" width="480" />
-
-<img src="images/2099473433067495508-2.jpg" alt="Hình ảnh 2" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3914,50 +3704,6 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 **Tóm tắt:** Đang dịch
 
 <img src="images/2098953133443764274-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098774914970849306"></a>
-
-### Đang dịch
-
-Tác giả：[@rotavirus1980](https://x.com/rotavirus1980) · [Bài gốc](https://x.com/rotavirus1980/status/2098774914970849306)
-
-Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098774914970849306-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098786437948944643"></a>
-
-### Đang dịch
-
-Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2098786437948944643)
-
-Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098786437948944643-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
@@ -4311,7 +4057,7 @@ LIÊN TỤC / CÁC YẾU TỐ PHỦ ĐỊNH: Chỉ có một phóng viên, một
 
 <a name="prompt-2099605356116951296"></a>
 
-### Đang dịch
+### Lời nhắc nhiếp ảnh đường nét thiếu sáng của nhân vật nữ và thần thú trên nền đen cực tối cùng không gian âm lớn.
 
 Tác giả：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/VoxcatAI/status/2099605356116951296)
 
@@ -4319,7 +4065,7 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Chân dung / Ảnh tự chụp · 
 
 Bài gốc：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/VoxcatAI/status/2014671895657074893)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc nhiếp ảnh đường nét thiếu sáng của nhân vật nữ và thần thú trên nền đen cực tối cùng không gian âm lớn.
 
 <img src="images/2099605356116951296-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -4340,35 +4086,7 @@ Bài gốc：[@VoxcatAI](https://x.com/VoxcatAI) · [Bài gốc](https://x.com/V
 **Câu lệnh**
 
 ```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2099090732678295807"></a>
-
-### Đang dịch
-
-Tác giả：[@azed\_ai](https://x.com/azed_ai) · [Bài gốc](https://x.com/azed_ai/status/2099090732678295807)
-
-Nhiếp ảnh · Chủ nghĩa tối giản · Chân dung / Ảnh tự chụp · Người có ảnh hưởng / Người mẫu · Mặt hàng thời trang · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099090732678295807-1.jpg" alt="Hình ảnh 1" width="480" />
-
-<img src="images/2099090732678295807-2.jpg" alt="Hình ảnh 2" width="480" />
-
-<img src="images/2099090732678295807-3.jpg" alt="Hình ảnh 3" width="480" />
-
-<img src="images/2099090732678295807-4.jpg" alt="Hình ảnh 4" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
+Nhiếp ảnh chân dung Low-Key cực độ trên nền đen, nhân vật nữ kinh điển trưởng thành × thần thú động vật, bố cục dọc, nhân vật được đặt ở nửa dưới với tỷ lệ cực nhỏ, phía trên và xung quanh để lại một lượng không gian âm đen tuyền khổng lồ. Nhân vật gần như chìm hoàn toàn vào bóng tối, chỉ giữ lại một tia sáng cạnh cứng màu trắng lạnh cực hẹp, khẽ vạch ra một vài bộ phận nhỏ như rìa nửa khuôn mặt, sống mũi, viền môi, vài lọn tóc, đường vai, eo hoặc hông, phần còn lại hoàn toàn hòa vào bóng đen thuần khiết. Không có khuôn mặt đầy đủ, không có cơ thể hoàn chỉnh, chỉ nhận diện nhân vật qua kiểu tóc, phụ kiện tóc, sừng, tai thú hoặc hình bóng biểu tượng. Thần thú chỉ đóng vai trò là bóng mờ đồng hành mờ nhạt trong bóng tối, chỉ cho phép xuất hiện lượng cực nhỏ điểm sáng ở ánh mắt, chóp sừng, chóp tai, mỏ, sống lưng hoặc rìa ngoài của bờm. Độ tương phản cao Chiaroscuro × Tenebrism, độ phơi sáng cực thấp, sắc đen bị dìm sâu, điểm sáng kiềm chế, thông tin màu sắc thấp, không có lời kể môi trường, tổng thể vô danh, lạnh lùng, nguy hiểm, bí ẩn, giống như nhiếp ảnh thời trang ngầm. Góc dưới bên phải có chữ ký "voxCAT" cực nhỏ. n=5.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4422,6 +4140,30 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2100088288304664844"></a>
+
+### Đang dịch
+
+Tác giả：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2100088288304664844)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100088288304664844-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100088288304664844-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100080507510034829"></a>
 
@@ -4497,20 +4239,20 @@ Một người phụ nữ đang chạy trong chiếc váy ngắn phong cách qu�
 
 <a name="prompt-2100005735417397494"></a>
 
-### Đang dịch
+### Một cơn bão cát quét qua các cồn cát sa mạc.
 
 Tác giả：[@owenxplore](https://x.com/owenxplore) · [Bài gốc](https://x.com/owenxplore/status/2100005735417397494)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một cơn bão cát quét qua các cồn cát sa mạc.
 
 <img src="covers/2100005735417397494.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bão cát
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4541,20 +4283,20 @@ Chân dung nhiếp ảnh siêu thực của một thanh niên, làn da ngăm, t�
 
 <a name="prompt-2099638467852439632"></a>
 
-### Đang dịch
+### Một hàng domino đơn đổ liên hoàn.
 
 Tác giả：[@HanVu195089](https://x.com/HanVu195089) · [Bài gốc](https://x.com/HanVu195089/status/2099638467852439632)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một hàng domino đơn đổ liên hoàn.
 
 <img src="covers/2099638467852439632.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Những quân cờ domino xếp thành một hàng dọc dài, một quân bị đẩy đổ dẫn đến hiệu ứng domino đổ liên hoàn cái này tiếp cái khác
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4585,7 +4327,7 @@ Một cô gái gyaru Nhật Bản bên bờ hồ bơi đêm trong bộ micro bik
 
 <a name="prompt-2099604978868559874"></a>
 
-### Đang dịch
+### Lời nhắc fanart nhân vật 《NIKKE》 theo phong cách áp phích tranh tụng tại tòa án, chỉ định bố cục và lời thoại của Anis, Rapi, Neon và Chỉ huy.
 
 Tác giả：[@TachMaru](https://x.com/TachMaru) · [Bài gốc](https://x.com/TachMaru/status/2099604978868559874)
 
@@ -4593,7 +4335,7 @@ Tác giả：[@TachMaru](https://x.com/TachMaru) · [Bài gốc](https://x.com/T
 
 Bài gốc：[@TachMaru](https://x.com/TachMaru) · [Bài gốc](https://x.com/TachMaru/status/2067070540440027560)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc fanart nhân vật 《NIKKE》 theo phong cách áp phích tranh tụng tại tòa án, chỉ định bố cục và lời thoại của Anis, Rapi, Neon và Chỉ huy.
 
 <img src="images/2099604978868559874-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -4610,7 +4352,75 @@ Bài gốc：[@TachMaru](https://x.com/TachMaru) · [Bài gốc](https://x.com/T
 **Câu lệnh**
 
 ```text
-Đang dịch
+Kích thước hình ảnh: "16:9", vui lòng tạo hình ảnh theo phong cách anime kết hợp các yếu tố sau.
+## Bối cảnh
+- Phòng xử án
+
+## Bố cục
+- Theo phong cách áp phích "đại chiến chốn công đường"
+
+## Góc máy
+- Góc nghiêng Hà Lan (Dutch angle)
+
+## Tình huống
+- Anis
+  - Vị trí: Góc dưới bên trái khung hình
+  - Thân của "Anis" hướng về phía trước, ngón trỏ chỉ lên góc trên bên trái (các ngón còn lại nắm nhẹ vào lòng bàn tay)
+  - "Anis" đang nhìn về phía "Rapi" ở góc trên bên phải
+  - Bong bóng thoại của "Anis": Phản đối! (Chữ: màu đỏ, bong bóng thoại: thể hiện cảm giác đang gào to hết cỡ)
+- Rapi
+  - Vị trí: Góc trên bên phải khung hình
+  - Thân của "Rapi" hướng về phía trước, hai tay dang rộng ngang thắt lưng với bàn tay hơi ngửa lên trên, ngón trỏ và ngón giữa khép lại, các ngón khác thả lỏng tự nhiên
+  - "Rapi" nhìn xuống "Anis" ở góc dưới bên trái
+  - Bong bóng thoại của "Rapi": Chỉ huy sẽ KHÔNG trở thành vợ của Anis đâu!
+- Neon
+  - Vị trí: Góc trên bên trái khung hình
+  - Tại bục thẩm phán, liên tục gõ búa gỗ
+  - Thêm từ tượng thanh "CỐC CỐC CỐC CỐC"
+  - Bong bóng thoại của "Neon": Trật tự!
+- Chỉ huy
+  - Vị trí: Góc dưới bên phải khung hình
+  - Co rúm sợ hãi trước bục nhân chứng
+
+## Quan trọng
+- Vì "Anis" và "Rapi" là nhân vật chính, vui lòng vẽ hai nhân vật này nổi bật và với tỷ lệ lớn
+- Hãy che mắt của "Chỉ huy" sau phần tóc mái
+
+Prompt Sample
+Create an anime-style image incorporating the following elements in a 16:9 aspect ratio.
+
+## Scene
+- Courtroom
+
+## Composition
+- In the style of a "courtroom battle" poster
+
+## Camera
+- Dutch angle
+
+## Situation
+- Anis
+  - Position: Bottom left of the frame
+  - Anis is facing forward and pointing her index finger toward the upper left (the other fingers are lightly curled into her palm)
+  - Anis is looking at Rapi in the upper right
+  - Speech bubble for Anis: "Objection!" (Text: red lettering; the speech bubble should convey that she is shouting at the top of her voice)
+- Rapi
+  - Position: Upper right of the frame
+  - Rapi is facing forward, spreading both arms outward around waist level with her palms slightly raised; her index and middle fingers are held together, while the other fingers are relaxed naturally
+  - Rapi is looking down at Anis in the lower left
+  - Speech bubble for Rapi: "The Commander is NOT going to become Anis's wife!"
+- Neon
+  - Position: Upper left of the frame
+  - At the judge's bench, repeatedly striking the gavel
+  - Include the sound effect "BANG BANG BANG BANG"
+  - Speech bubble for Neon: "Order in the court!"
+- Commander
+  - Position: Bottom right of the frame
+  - Cowering in front of the witness stand
+
+## Important
+- Anis and Rapi are the main characters, so depict these two characters prominently and at a large scale
+- Hide the Commander's eyes behind his bangs
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4803,20 +4613,20 @@ thè lưỡi cười, khuôn mặt hôn
 
 <a name="prompt-2099377292959265065"></a>
 
-### Đang dịch
+### Lời nhắc phân cảnh video quảng cáo nước hoa nam/nữ sang trọng và lãng mạn, bao gồm cận cảnh xịt sương, tương tác thân mật của cặp đôi và cận cảnh bao bì sản phẩm.
 
 Tác giả：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Bài gốc](https://x.com/_Biy_a_/status/2099377292959265065)
 
 Truyện tranh / Bảng phân cảnh · Tiếp thị sản phẩm · Nhóm / Cặp đôi · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc phân cảnh video quảng cáo nước hoa nam/nữ sang trọng và lãng mạn, bao gồm cận cảnh xịt sương, tương tác thân mật của cặp đôi và cận cảnh bao bì sản phẩm.
 
 <img src="covers/2099377292959265065.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một quảng cáo nước hoa sang trọng, lãng mạn bằng cách sử dụng hình ảnh đã tải lên làm tài liệu tham khảo hình ảnh chính xác. Bắt đầu với một cú đẩy máy chậm đậm chất điện ảnh khi người phụ nữ cầm chai nước hoa và xịt một làn sương mịn lên cổ. Người đàn ông nghiêng lại gần hơn khi làn sương nước hoa nhẹ nhàng bao quanh họ, tạo nên ánh hào quang huyền ảo tinh tế. Chuyển sang cảnh cận cảnh macro trang nhã của chai nước hoa màu xanh lam và bao bì phản chiếu ánh sáng xanh nửa đêm đầy kịch tính. Kết thúc với hình bóng bóng đen mờ ảo thân mật của cặp đôi trong khi chai nước hoa vẫn được lấy nét sắc nét ở tiền cảnh. Không khí ban đêm cao cấp, tông màu xanh thẳm và đen, bokeh mềm mại, chuyển động da và tóc chân thực, làn sương nước hoa tuyệt đẹp, phong cách quảng cáo xa xỉ tinh tế, ánh sáng điện ảnh, chuyển động máy ảnh mượt mà, chân thực như ảnh chụp, định dạng dọc 9:16, 4K đúng 10 giây, không có văn bản thừa, không có hình mờ
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4825,20 +4635,20 @@ Truyện tranh / Bảng phân cảnh · Tiếp thị sản phẩm · Nhóm / C�
 
 <a name="prompt-2099408672627851695"></a>
 
-### Đang dịch
+### người mẫu đua xe trong áo gile và váy cao su màu xanh lam cùng đôi bốt cao đến đùi màu trắng
 
 Tác giả：[@AI\_Kei75](https://x.com/AI_Kei75) · [Bài gốc](https://x.com/AI_Kei75/status/2099408672627851695)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** người mẫu đua xe trong áo gile và váy cao su màu xanh lam cùng đôi bốt cao đến đùi màu trắng
 
 <img src="images/2099408672627851695-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+người mẫu đua xe (race queen), kính râm đầy màu sắc, kính mắt trên đầu, kính mắt màu, áo khoác cao su màu xanh lam, kết cấu cao su màu xanh lam bóng, áo vest gile màu xanh lam, áo khoác ngắn, áo gile cao su màu xanh lam, (không tay:1.2), (mở áo khoác, áo mở), áo ống dưới áo khoác, (áo ống màu trắng), cao su màu trắng bóng, (không dây), vòng cổ choker kẻ caro, xương quai xanh, bụng, rốn, (thắt lưng màu trắng), (váy cao su màu xanh lam), (chân váy bút chì màu xanh lam), (viền kẻ caro), (cổ tay kẻ caro), (logo đội đua, hình in phong cách), (ủng đùi cao su màu trắng bóng), ủng dài màu trắng, ủng màu trắng, viền màu xanh lam, giày cao gót,
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5058,88 +4868,22 @@ Chân dung / Ảnh tự chụp · Đã xuất bản
 
 ---
 
-<a name="prompt-2099109534954356977"></a>
-
-### Đang dịch
-
-Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2099109534954356977)
-
-Áp phích / Tờ rơi · Chân dung / Ảnh tự chụp · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099109534954356977-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2099106073756192901"></a>
-
-### Đang dịch
-
-Tác giả：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Bài gốc](https://x.com/BeanieBlossom/status/2099106073756192901)
-
-Khác · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2099106073756192901-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098996343255482545"></a>
-
-### Đang dịch
-
-Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098996343255482545)
-
-Chân dung / Ảnh tự chụp · Văn bản / Kiểu chữ · Tóm tắt / Bối cảnh · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098996343255482545-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="prompt-2098966144203759642"></a>
 
-### Đang dịch
+### Ảnh ghép phong cách biên tập thời trang của một người đàn ông mặc bộ đồ thể thao màu ngọc lục bảo đặt trên nền bức chân dung đen trắng cỡ lớn của chính mình.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098966144203759642)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh ghép phong cách biên tập thời trang của một người đàn ông mặc bộ đồ thể thao màu ngọc lục bảo đặt trên nền bức chân dung đen trắng cỡ lớn của chính mình.
 
 <img src="images/2098966144203759642-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng ảnh đã tải lên làm tài liệu tham khảo nhận diện khuôn mặt. Sử dụng ảnh đã tải lên làm tài liệu tham khảo nhận diện khuôn mặt. Giữ nguyên các đặc điểm khuôn mặt dễ nhận biết, tông màu da, tỷ lệ khuôn mặt và diện mạo tổng thể của đối tượng một cách tự nhiên. Tạo một bức chân dung ghép mang phong cách biên tập thời trang cao cấp chân thực như ảnh chụp về một người đàn ông trưởng thành đầy tự tin với mái tóc sẫm màu dày được tạo kiểu gọn gàng và khuôn mặt cạo râu hoàn toàn sạch sẽ — không râu quai nón, không ria mép, không râu dê và không có chân râu lởm chởm. Ở tiền cảnh, thể hiện toàn thân anh ấy, đứng hơi chếch sang bên trái tâm khung hình trong tư thế ba phần tư thư thái. Mặc cho anh ấy một bộ đồ thể thao tracksuit màu xanh ngọc lục bảo cao cấp: áo hoodie chui đầu vừa vặn có dây rút và túi kangaroo phía trước, kết hợp với quần jogger ống côn đồng bộ. Hoàn thiện trang phục bằng một đôi giày thể thao cổ thấp màu trắng tối giản sạch sẽ. Giữ phong cách đơn giản và hiện đại, không đeo vòng cổ hay dây chuyền. Biểu cảm của anh ấy nên nghiêm nghị và điềm tĩnh, nhìn hơi chệch khỏi máy ảnh. Phía sau anh ấy, tạo một bức chân dung cận cảnh đen trắng khổng lồ của chính người đàn ông đó, lấp đầy gần như toàn bộ hậu cảnh từ mép này sang mép kia. Thể hiện bức chân dung khổng lồ từ góc nghiêng ba phần tư đầy ấn tượng với chi tiết khuôn mặt sắc nét, kết cấu da chân thực, đôi mắt biểu cảm và diện mạo cạo râu sạch sẽ tương tự. Bức chân dung nền kích thước lớn nên mặc một chiếc áo hoodie tối màu, hòa quyện tự nhiên vào phông nền studio màu xám than mịn màng. Sử dụng sự tương phản mạnh mẽ giữa nhân vật tiền cảnh màu xanh ngọc lục bảo sống động và bức chân dung đơn sắc cỡ lớn làm ý tưởng thị giác chủ đạo. Ánh sáng studio định hướng dịu nhẹ, bóng đổ tinh tế, tính thẩm mỹ của chiến dịch thời trang cao cấp, nếp gấp vải chân thực, chi tiết khuôn mặt sắc nét, chiều sâu điện ảnh, nhiếp ảnh siêu thực, bố cục gọn gàng, độ phân giải cao. Tỷ lệ khung hình: chân dung 3:4.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5368,72 +5112,6 @@ Om aum amen
 
 ---
 
-<a name="prompt-2098792103073476716"></a>
-
-### Đang dịch
-
-Tác giả：[@RenRose321](https://x.com/RenRose321) · [Bài gốc](https://x.com/RenRose321/status/2098792103073476716)
-
-Khác · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098792103073476716-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098790612799545375"></a>
-
-### Đang dịch
-
-Tác giả：[@owenxplore](https://x.com/owenxplore) · [Bài gốc](https://x.com/owenxplore/status/2098790612799545375)
-
-Phong cảnh / Thiên nhiên · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="covers/2098790612799545375.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098784945564983606"></a>
-
-### Đang dịch
-
-Tác giả：[@0x\_fokki](https://x.com/0x_fokki) · [Bài gốc](https://x.com/0x_fokki/status/2098784945564983606)
-
-Khác · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="covers/2098784945564983606.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="prompt-2098787760526205303"></a>
 
 ### Chân dung studio người phụ nữ mặc trang phục cưới truyền thống Trung Quốc, phông nền đỏ và phụ kiện đội đầu hoa lộng lẫy.
@@ -5472,84 +5150,6 @@ bức chân dung chụp trong studio chi tiết về một người phụ nữ t
 
 ---
 
-<a name="prompt-2098760287524692407"></a>
-
-### Đang dịch
-
-Tác giả：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Bài gốc](https://x.com/RobotCleopatra/status/2098760287524692407)
-
-Khác · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098760287524692407-1.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098757292942635327"></a>
-
-### Đang dịch
-
-Tác giả：[@underwoodxie96](https://x.com/underwoodxie96) · [Bài gốc](https://x.com/underwoodxie96/status/2098757292942635327)
-
-Chân dung / Ảnh tự chụp · Nhân vật · Phương tiện · Đã xuất bản
-
-Bài gốc：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Bài gốc](https://x.com/yutaka_prompt/status/2098672917479559420)
-
-**Tóm tắt:** Đang dịch
-
-<img src="images/2098757292942635327-1.jpg" alt="Hình ảnh 1" width="480" />
-
-<img src="images/2098757292942635327-2.jpg" alt="Hình ảnh 2" width="480" />
-
-<img src="images/2098757292942635327-3.jpg" alt="Hình ảnh 3" width="480" />
-
-<img src="images/2098757292942635327-4.jpg" alt="Hình ảnh 4" width="480" />
-
-<img src="images/2098757292942635327-5.jpg" alt="Hình ảnh 5" width="480" />
-
-<img src="images/2098757292942635327-6.jpg" alt="Hình ảnh 6" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098683941431455840"></a>
-
-### Đang dịch
-
-Tác giả：[@iadventurejacek](https://x.com/iadventurejacek) · [Bài gốc](https://x.com/iadventurejacek/status/2098683941431455840)
-
-Khác · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="covers/2098683941431455840.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
 <a name="prompt-2098686621931511841"></a>
 
 ### Một bộ máy tính được bố trí trong văn phòng.
@@ -5566,28 +5166,6 @@ Khác · Đã xuất bản
 
 ```text
 máy tính trong văn phòng
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098688166261842106"></a>
-
-### Đang dịch
-
-Tác giả：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Bài gốc](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
-
-Động vật / Sinh vật · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="covers/2098688166261842106.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -6120,28 +5698,6 @@ Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
 ```text
 Áo ngủ cổ rộng; để lộ khoảng da lớn trước ngực; xương quai xanh lộ rõ; sáng sớm thức dậy chải tóc; hơi ngẩng cằm; vẻ mặt lạnh lùng; thanh thoát xa cách
-```
-
-[↑ Về danh mục](#catalog)
-
----
-
-<a name="prompt-2098418180674773370"></a>
-
-### Đang dịch
-
-Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2098418180674773370)
-
-Nhân vật · Mặt hàng thời trang · Đã xuất bản
-
-**Tóm tắt:** Đang dịch
-
-<img src="covers/2098418180674773370.jpg" alt="Hình ảnh 1" width="480" />
-
-**Câu lệnh**
-
-```text
-Đang dịch
 ```
 
 [↑ Về danh mục](#catalog)

@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T08:44:15.512Z",
+  "model": "unknown-image",
+  "prompt": "将参考照片制作成一张竖版 3:4 艺术明信片。上半部分完整保留原始照片，突出主体特征与现场氛围，约占画面高度的 55%。照片底部采用自然、不规则且带有清晰纸张纤维的手撕边缘。撕纸边下方保留象牙白色留白，使原始照片与下方插画完全分开。留白处使用小号复古打字机字体：识别的主体内容名称。下半部分绘制一幅小巧的无边框插画，根据照片主体绘制，保留辨识度轮廓，适度简化细节，呈现丝网印刷质感、轻微噪点和低保真印刷效果，配色从照片中提取并限制为 2-4 种克制不饱和色。插画占下半部分高度的一半，四周留出大量空白。画面右侧撕纸处加入一个低调、磨损的蓝黑色圆形邮戳，刚好印在上下部分交界处。底部使用通用格式标注： 地点 · PLACE 日期 · DATE。整体呈现温暖的旧纸质感、充足留白与克制高级的杂志编辑风格。 不要添加邮票、坐标、外边框、立体样机、厚重投影、卷角、额外印章、重复文字或水印。",
+  "promptTranslations": {
+    "en": "Turn the reference photo into a vertical 3:4 artistic postcard. The upper part fully preserves the original photo, highlighting the main subject's features and the on-site atmosphere, occupying approximately 55% of the frame height. The bottom of the photo features a natural, irregular torn-paper edge with visible paper fibers. Below the torn paper edge, keep an ivory-white blank space, completely separating the original photo from the illustration below. In this blank space, use a small vintage typewriter font: the name of the identified subject. In the lower section, draw a small, borderless illustration based on the photo's main subject, retaining recognizable silhouettes with moderately simplified details, presenting a screen-printing texture, slight noise, and a lo-fi print aesthetic; the color palette is extracted from the photo and limited to 2-4 restrained, desaturated colors. The illustration occupies half the height of the lower section, leaving plenty of blank space around it. On the right side along the torn paper edge, add an understated, weathered blue-black circular postmark, stamped precisely across the boundary between the top and bottom sections. At the very bottom, label in a generic format: 地点 · PLACE 日期 · DATE. The overall visual presents a warm vintage paper texture, generous white space, and a restrained, sophisticated magazine editorial style. Do not add postage stamps, coordinates, outer frames, 3D mockups, heavy drop shadows, curled corners, extra stamps, duplicated text, or watermarks."
+  },
+  "summaryTranslations": {
+    "en": "Turn a travel photo into a postcard design featuring the original image in the upper half, torn-paper white space, a screen-printed illustration, and a vintage postmark in the lower half."
+  },
+  "translationVersion": 2,
+  "summary": "将旅行照片转为上半部原图、下半部手撕留白配合丝网插画与复古邮戳的明信片设计。",
+  "summaryEn": "Converts travel photos into an artistic postcard with a torn-paper split, silkscreen illustration, and vintage postmark.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100100687946203533",
+    "canonicalUrl": "https://x.com/TodayKan/status/2100100687946203533",
+    "author": {
+      "username": "TodayKan",
+      "displayName": "Today🦘",
+      "profileUrl": "https://x.com/TodayKan"
+    },
+    "publishedAt": "2026-09-16T05:53:16.000Z",
+    "collectedAt": "2026-09-16T08:24:57.587Z",
+    "language": "zh",
+    "originalText": "再也不愁发朋友圈没素材了，把旅行照片一键变成明信片🎑\n\nPrompt：\n将参考照片制作成一张竖版 3:4 艺术明信片。上半部分完整保留原始照片，突出主体特征与现场氛围，约占画面高度的 55%。照片底部采用自然、不规则且带有清晰纸张纤维的手撕边缘。撕纸边下方保留象牙白色留白，使原始照片与下方插画完全分开。留白处使用小号复古打字机字体：识别的主体内容名称。下半部分绘制一幅小巧的无边框插画，根据照片主体绘制，保留辨识度轮廓，适度简化细节，呈现丝网印刷质感、轻微噪点和低保真印刷效果，配色从照片中提取并限制为 2-4 种克制不饱和色。插画占下半部分高度的一半，四周留出大量空白。画面右侧撕纸处加入一个低调、磨损的蓝黑色圆形邮戳，刚好印在上下部分交界处。底部使用通用格式标注： 地点 · PLACE 日期 · DATE。整体呈现温暖的旧纸质感、充足留白与克制高级的杂志编辑风格。 不要添加邮票、坐标、外边框、立体样机、厚重投影、卷角、额外印章、重复文字或水印。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUOcBZa0AASB87.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUOcBZa0AASB87.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUOcBYbUAAOwHA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUOcBYbUAAOwHA.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUOcBZbkAAQ9Y6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUOcBZbkAAQ9Y6.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUOcBZb0AABmWL.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUOcBZb0AABmWL.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 15
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TodayKan/status/2100100687946203533",
+  "coverUrl": "https://pbs.twimg.com/media/HSUOcBZa0AASB87.jpg",
+  "coverPath": "images/2100100687946203533-1.jpg",
+  "imagePaths": [
+    "images/2100100687946203533-1.jpg",
+    "images/2100100687946203533-2.jpg",
+    "images/2100100687946203533-3.jpg",
+    "images/2100100687946203533-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUOcBZa0AASB87",
+    "x-image:/media/HSUOcBYbUAAOwHA",
+    "x-image:/media/HSUOcBZbkAAQ9Y6",
+    "x-image:/media/HSUOcBZb0AABmWL",
+    "x-post:2100100687946203533"
+  ],
+  "analysis": {
+    "summary": "将旅行照片转为上半部原图、下半部手撕留白配合丝网插画与复古邮戳的明信片设计。",
+    "summaryEn": "Converts travel photos into an artistic postcard with a torn-paper split, silkscreen illustration, and vintage postmark.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均展示了上半部分为照片、撕纸边缘、象牙白留白、下半部分丝网印刷小插画、邮戳及底部文字标注的明信片布局，完全吻合提示词描述。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "将参考照片制作成一张竖版 3:4 艺术明信片。上半部分完整保留原始照片，突出主体特征与现场氛围，约占画面高度的 55%。照片底部采用自然、不规则且带有清晰纸张纤维的手撕边缘。撕纸边下方保留象牙白色留白，使原始照片与下方插画完全分开。留白处使用小号复古打字机字体：识别的主体内容名称。下半部分绘制一幅小巧的无边框插画，根据照片主体绘制，保留辨识度轮廓，适度简化细节，呈现丝网印刷质感、轻微噪点和低保真印刷效果，配色从照片中提取并限制为 2-4 种克制不饱和色。插画占下半部分高度的一半，四周留出大量空白。画面右侧撕纸处加入一个低调、磨损的蓝黑色圆形邮戳，刚好印在上下部分交界处。底部使用通用格式标注： 地点 · PLACE 日期 · DATE。整体呈现温暖的旧纸质感、充足留白与克制高级的杂志编辑风格。 不要添加邮票、坐标、外边框、立体样机、厚重投影、卷角、额外印章、重复文字或水印。",
+    "sourceRange": {
+      "start": 36,
+      "end": 427
+    },
+    "translations": {
+      "zh": "将参考照片制作成一张竖版 3:4 艺术明信片。上半部分完整保留原始照片，突出主体特征与现场氛围，约占画面高度的 55%。照片底部采用自然、不规则且带有清晰纸张纤维的手撕边缘。撕纸边下方保留象牙白色留白，使原始照片与下方插画完全分开。留白处使用小号复古打字机字体：识别的主体内容名称。下半部分绘制一幅小巧的无边框插画，根据照片主体绘制，保留辨识度轮廓，适度简化细节，呈现丝网印刷质感、轻微噪点和低保真印刷效果，配色从照片中提取并限制为 2-4 种克制不饱和色。插画占下半部分高度的一半，四周留出大量空白。画面右侧撕纸处加入一个低调、磨损的蓝黑色圆形邮戳，刚好印在上下部分交界处。底部使用通用格式标注： 地点 · PLACE 日期 · DATE。整体呈现温暖的旧纸质感、充足留白与克制高级的杂志编辑风格。 不要添加邮票、坐标、外边框、立体样机、厚重投影、卷角、额外印章、重复文字或水印。",
+      "en": "Turn the reference photo into a vertical 3:4 artistic postcard. The upper 55% retains the original photo, torn at the bottom with paper fibers. Below the torn edge, ivory-white blank space separates the photo from a small silkscreen-style illustration simplified from the photo. A typewriter font marks the subject name. A vintage blue-black postmark rests on the torn seam. The bottom displays 'PLACE · DATE' format on warm vintage paper."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "艺术明信片排版生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

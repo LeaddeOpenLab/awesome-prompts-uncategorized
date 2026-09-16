@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T08:43:35.501Z",
+  "model": "unknown-image",
+  "prompt": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman with a dark bob haircut. She is playfully balanced on a vintage bicycle in a lush green garden, with both legs kicked out wide to the sides. She is wearing a layered outfit: a bright coral-red long-sleeved shirt underneath a muted pink floral overall dress (pinafore style). She has white ankle socks paired with classic black leather oxford shoes. The vintage bike has a woven wicker basket on the handlebars. In the background, there is a charming, weathered off-white wooden shed with multiple glass panes and a dark green-roofed shed partially visible among the trees. The image has a nostalgic, soft grain and natural summer lighting.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+  "promptTranslations": {
+    "en": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman with a dark bob haircut. She is playfully balanced on a vintage bicycle in a lush green garden, with both legs kicked out wide to the sides. She is wearing a layered outfit: a bright coral-red long-sleeved shirt underneath a muted pink floral overall dress (pinafore style). She has white ankle socks paired with classic black leather oxford shoes. The vintage bike has a woven wicker basket on the handlebars. In the background, there is a charming, weathered off-white wooden shed with multiple glass panes and a dark green-roofed shed partially visible among the trees. The image has a nostalgic, soft grain and natural summer lighting.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4"
+  },
+  "summaryTranslations": {
+    "en": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman playfully riding a vintage bicycle in a garden."
+  },
+  "translationVersion": 2,
+  "summary": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman playfully riding a vintage bicycle in a garden.",
+  "summaryEn": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman playfully riding a vintage bicycle in a garden.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100124265752449144",
+    "canonicalUrl": "https://x.com/afrinxai/status/2100124265752449144",
+    "author": {
+      "username": "afrinxai",
+      "displayName": "𝑨𝒇𝒓𝒊𝒏",
+      "profileUrl": "https://x.com/afrinxai"
+    },
+    "publishedAt": "2026-09-16T07:26:58.000Z",
+    "collectedAt": "2026-09-16T08:24:57.587Z",
+    "language": "en",
+    "originalText": "Practicing my getaway driving just in case the neighbor notices who actually 'borrowed' the roses\n\nPrompt : A sun-dappled, candid 35mm film photograph of a joyful Asian woman with a dark bob haircut. She is playfully balanced on a vintage bicycle in a lush green garden, with both legs kicked out wide to the sides. She is wearing a layered outfit: a bright coral-red long-sleeved shirt underneath a muted pink floral overall dress (pinafore style). She has white ankle socks paired with classic black leather oxford shoes. The vintage bike has a woven wicker basket on the handlebars. In the background, there is a charming, weathered off-white wooden shed with multiple glass panes and a dark green-roofed shed partially visible among the trees. The image has a nostalgic, soft grain and natural summer lighting.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HST14SgbMAAwvxY.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HST14SgbMAAwvxY.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HST15_1boAAhp6B.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HST15_1boAAhp6B.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 0,
+      "replyCount": 9,
+      "quoteCount": 0,
+      "viewCount": 116
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/afrinxai/status/2100124265752449144",
+  "coverUrl": "https://pbs.twimg.com/media/HST14SgbMAAwvxY.jpg",
+  "coverPath": "images/2100124265752449144-1.jpg",
+  "imagePaths": [
+    "images/2100124265752449144-1.jpg",
+    "images/2100124265752449144-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HST14SgbMAAwvxY",
+    "x-image:/media/HST15_1boAAhp6B",
+    "x-post:2100124265752449144"
+  ],
+  "analysis": {
+    "summary": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman playfully riding a vintage bicycle in a garden.",
+    "summaryEn": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman playfully riding a vintage bicycle in a garden.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the subject, clothing, bike with wicker basket, shed background, and film grain described in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman with a dark bob haircut. She is playfully balanced on a vintage bicycle in a lush green garden, with both legs kicked out wide to the sides. She is wearing a layered outfit: a bright coral-red long-sleeved shirt underneath a muted pink floral overall dress (pinafore style). She has white ankle socks paired with classic black leather oxford shoes. The vintage bike has a woven wicker basket on the handlebars. In the background, there is a charming, weathered off-white wooden shed with multiple glass panes and a dark green-roofed shed partially visible among the trees. The image has a nostalgic, soft grain and natural summer lighting.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+    "sourceRange": {
+      "start": 108,
+      "end": 1021
+    },
+    "translations": {
+      "zh": "一张阳光斑驳、抓拍风格的35毫米胶片照片，主体为一名留着深色波波头的快乐亚洲女性。她在郁郁葱葱的花园里俏皮地在复古自行车上保持平衡，双腿向两侧张开。身穿叠搭服装：亮珊瑚红色长袖衬衫外搭柔和粉色碎花背带裙，配白色短袜与经典黑色皮革牛津鞋。复古自行车车把上挂着编织柳条筐。背景是风化泛白的木棚与掩映在树丛中的深绿屋顶棚屋。画面具有怀旧柔和胶片颗粒与自然夏季光线。以参考图作为女性面部特征保持一致，画面比例3:4。",
+      "en": "A sun-dappled, candid 35mm film photograph of a joyful Asian woman with a dark bob haircut. She is playfully balanced on a vintage bicycle in a lush green garden, with both legs kicked out wide to the sides. She is wearing a layered outfit: a bright coral-red long-sleeved shirt underneath a muted pink floral overall dress (pinafore style). She has white ankle socks paired with classic black leather oxford shoes. The vintage bike has a woven wicker basket on the handlebars. In the background, there is a charming, weathered off-white wooden shed with multiple glass panes and a dark green-roofed shed partially visible among the trees. The image has a nostalgic, soft grain and natural summer lighting.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
