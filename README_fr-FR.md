@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**227** Prompts · Dernier ajout: **2026-09-16**
+**230** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,82 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2100041998871007406"></a>
+
+### Traduction en cours
+
+Auteur：[@55hawks](https://x.com/55hawks) · [Publication originale](https://x.com/55hawks/status/2100041998871007406)
+
+Photographie · Personnage · Véhicule · Publié
+
+Publication originale：[@jins2001jp](https://x.com/jins2001jp) · [Publication originale](https://x.com/jins2001jp/status/2099861278751850658)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100041998871007406-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100041998871007406-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100041998871007406-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100041998871007406-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2100041998871007406-5.jpg" alt="Image 5" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099992554129477996"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2099992554129477996)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099992554129477996-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099993424342737285"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2099993424342737285)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099993424342737285-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099991139109736870"></a>
 

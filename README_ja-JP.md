@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**227** 件 · 最新の追加: **2026-09-16**
+**230** 件 · 最新の追加: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,82 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-photography"></a>
 
 ## 写真撮影
+
+<a name="prompt-2100041998871007406"></a>
+
+### 翻訳中
+
+作者：[@55hawks](https://x.com/55hawks) · [元の投稿](https://x.com/55hawks/status/2100041998871007406)
+
+写真撮影 · キャラクター · 車両 · 配信済み
+
+元の投稿：[@jins2001jp](https://x.com/jins2001jp) · [元の投稿](https://x.com/jins2001jp/status/2099861278751850658)
+
+**概要:** 翻訳中
+
+<img src="images/2100041998871007406-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2100041998871007406-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2100041998871007406-3.jpg" alt="画像 3" width="480" />
+
+<img src="images/2100041998871007406-4.jpg" alt="画像 4" width="480" />
+
+<img src="images/2100041998871007406-5.jpg" alt="画像 5" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2099992554129477996"></a>
+
+### 翻訳中
+
+作者：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [元の投稿](https://x.com/muse_ai_prompt/status/2099992554129477996)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · ファッションアイテム · 風景 / 自然 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099992554129477996-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2099993424342737285"></a>
+
+### 翻訳中
+
+作者：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [元の投稿](https://x.com/muse_ai_prompt/status/2099993424342737285)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099993424342737285-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2099991139109736870"></a>
 

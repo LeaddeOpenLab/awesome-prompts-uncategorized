@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**227** 筆內容 · 最新收錄: **2026-09-16**
+**230** 筆內容 · 最新收錄: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,82 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2100041998871007406"></a>
+
+### 翻譯中
+
+作者：[@55hawks](https://x.com/55hawks) · [查看 X 原帖](https://x.com/55hawks/status/2100041998871007406)
+
+攝影 · 角色 · 車輛 · 已推流
+
+查看 X 原帖：[@jins2001jp](https://x.com/jins2001jp) · [查看 X 原帖](https://x.com/jins2001jp/status/2099861278751850658)
+
+**概括:** 翻譯中
+
+<img src="images/2100041998871007406-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2100041998871007406-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2100041998871007406-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2100041998871007406-4.jpg" alt="圖片 4" width="480" />
+
+<img src="images/2100041998871007406-5.jpg" alt="圖片 5" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099992554129477996"></a>
+
+### 翻譯中
+
+作者：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [查看 X 原帖](https://x.com/muse_ai_prompt/status/2099992554129477996)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 風景 / 大自然 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099992554129477996-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099993424342737285"></a>
+
+### 翻譯中
+
+作者：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [查看 X 原帖](https://x.com/muse_ai_prompt/status/2099993424342737285)
+
+攝影 · 人像 / 自拍 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099993424342737285-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099991139109736870"></a>
 

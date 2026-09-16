@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**227** 개 · 최근 추가: **2026-09-16**
+**230** 개 · 최근 추가: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,82 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <a name="category-photography"></a>
 
 ## 사진술
+
+<a name="prompt-2100041998871007406"></a>
+
+### 번역 중
+
+작성자：[@55hawks](https://x.com/55hawks) · [원본 게시물](https://x.com/55hawks/status/2100041998871007406)
+
+사진술 · 캐릭터 · 차량 · 배포 완료
+
+원본 게시물：[@jins2001jp](https://x.com/jins2001jp) · [원본 게시물](https://x.com/jins2001jp/status/2099861278751850658)
+
+**요약:** 번역 중
+
+<img src="images/2100041998871007406-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2100041998871007406-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2100041998871007406-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2100041998871007406-4.jpg" alt="이미지 4" width="480" />
+
+<img src="images/2100041998871007406-5.jpg" alt="이미지 5" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2099992554129477996"></a>
+
+### 번역 중
+
+작성자：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [원본 게시물](https://x.com/muse_ai_prompt/status/2099992554129477996)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 풍경 / 자연 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099992554129477996-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2099993424342737285"></a>
+
+### 번역 중
+
+작성자：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [원본 게시물](https://x.com/muse_ai_prompt/status/2099993424342737285)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099993424342737285-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2099991139109736870"></a>
 

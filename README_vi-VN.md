@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**227** Prompt · Bổ sung mới nhất: **2026-09-16**
+**230** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,82 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2100041998871007406"></a>
+
+### Đang dịch
+
+Tác giả：[@55hawks](https://x.com/55hawks) · [Bài gốc](https://x.com/55hawks/status/2100041998871007406)
+
+Nhiếp ảnh · Nhân vật · Phương tiện · Đã xuất bản
+
+Bài gốc：[@jins2001jp](https://x.com/jins2001jp) · [Bài gốc](https://x.com/jins2001jp/status/2099861278751850658)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100041998871007406-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100041998871007406-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100041998871007406-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100041998871007406-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2100041998871007406-5.jpg" alt="Hình ảnh 5" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099992554129477996"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2099992554129477996)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099992554129477996-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099993424342737285"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2099993424342737285)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099993424342737285-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099991139109736870"></a>
 

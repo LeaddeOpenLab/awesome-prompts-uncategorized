@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**227** Prompt · Son eklenen: **2026-09-16**
+**230** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,82 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2100041998871007406"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@55hawks](https://x.com/55hawks) · [Orijinal gönderi](https://x.com/55hawks/status/2100041998871007406)
+
+Fotoğrafçılık · Karakter · Araç · Yayımlandı
+
+Orijinal gönderi：[@jins2001jp](https://x.com/jins2001jp) · [Orijinal gönderi](https://x.com/jins2001jp/status/2099861278751850658)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100041998871007406-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100041998871007406-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100041998871007406-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100041998871007406-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2100041998871007406-5.jpg" alt="Görsel 5" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099992554129477996"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099992554129477996)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099992554129477996-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099993424342737285"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099993424342737285)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099993424342737285-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099991139109736870"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**227** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**230** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,82 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2100041998871007406"></a>
+
+### Übersetzung läuft
+
+Autor：[@55hawks](https://x.com/55hawks) · [Originalbeitrag](https://x.com/55hawks/status/2100041998871007406)
+
+Fotografie · Charakter · Fahrzeug · Veröffentlicht
+
+Originalbeitrag：[@jins2001jp](https://x.com/jins2001jp) · [Originalbeitrag](https://x.com/jins2001jp/status/2099861278751850658)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100041998871007406-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100041998871007406-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100041998871007406-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2100041998871007406-4.jpg" alt="Bild 4" width="480" />
+
+<img src="images/2100041998871007406-5.jpg" alt="Bild 5" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099992554129477996"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2099992554129477996)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099992554129477996-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099993424342737285"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2099993424342737285)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099993424342737285-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099991139109736870"></a>
 

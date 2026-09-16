@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**227** Prompts · Latest addition: **2026-09-16**
+**230** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,162 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100041998871007406"></a>
+
+### A prompt depicting a woman hitchhiking on the side of the road holding a &quot;金沢八景まで&quot; sign, and the rear of a passing car.
+
+Author：[@55hawks](https://x.com/55hawks) · [Source](https://x.com/55hawks/status/2100041998871007406)
+
+Photography · Character · Vehicle · Published
+
+Source：[@jins2001jp](https://x.com/jins2001jp) · [Source](https://x.com/jins2001jp/status/2099861278751850658)
+
+**Summary:** A prompt depicting a woman hitchhiking on the side of the road holding a &quot;金沢八景まで&quot; sign, and the rear of a passing car.
+
+<img src="images/2100041998871007406-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100041998871007406-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100041998871007406-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100041998871007406-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2100041998871007406-5.jpg" alt="Image 5" width="480" />
+
+**Prompt**
+
+```text
+Hitchhiking on the side of the road holding a sign that says "金沢八景まで". A car is driving past beside them. The car is clearly a rear view. Prohibited: front view of the car.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099992554129477996"></a>
+
+### A photorealistic portrait of a Japanese woman wearing pale lavender lingerie, rising from a lounge chair on a sunset rooftop terrace.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099992554129477996)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Landscape / Nature · Published
+
+**Summary:** A photorealistic portrait of a Japanese woman wearing pale lavender lingerie, rising from a lounge chair on a sunset rooftop terrace.
+
+<img src="images/2099992554129477996-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Sunset Rooftop | Lavender Lace and the Moment of Stepping Forward🌟
+
+[Subject & Art Style]
+A photorealistic fashion photograph set on a rooftop terrace at dusk, featuring an unambiguously adult 27-year-old Japanese woman as the central subject. Capturing the precise moment she rises from a low lounge chair and prepares to take a step toward the viewer. Not overly polished like an advertisement photograph, but resembling a shot from a photo book that preserves natural movement and an intimate expression.
+Naturally showcasing the texture of elegant lingerie and a feminine silhouette, while including the evening sky and cityscape in the background to create a narrative composition. A photographic aesthetic that feels urban and sophisticated, yet somehow private and serene.
+
+[Location, Background, & Setting]
+The setting is a private rooftop terrace atop a high-rise building. Directly behind the woman sits a low lounge chair, naturally arranged with pale beige cushions and a soft throw blanket. The flooring consists of understated stone-textured tiles, covered with a natural-fiber area rug.
+To the left and right are terracotta potted plants, small greenery, and modest white flowers. In the background, beyond the railing, distant city buildings, a river, and bridges stretch out in a gentle haze, creating an expansive rooftop ambiance typical of a metropolis. Furniture and plants are arranged just enough to frame the main subject without making the background overly cluttered.
+
+[Season, Time, & Weather]
+The season is a mild period between early summer and late summer. The time of day is the golden hour, right around sunset, with the sky quietly transitioning into shades of apricot, soft pink, and pale violet.
+The weather is clear to lightly overcast, with delicate clouds softly diffusing the setting sun. The breeze is gentle, barely moving the tips of her hair and stray strands. A scene conveying the pleasant, comfortable evening air rather than daytime heat.
+
+[Character Description]
+A 27-year-old, unambiguously adult Japanese woman. A soft, refined, mature facial structure with slightly large, dark, expressive eyes, natural eyebrows, a clean nasal bridge, and well-pigmented, soft lips. Dark brown, below-the-shoulder wavy hair with light wisps framing her face. Fair ochre-toned skin with a realistic texture that subtly reveals fine pores and delicate shading.
+A naturally glamorous body type featuring delicate shoulders, slender limbs, a clean waistline, and feminine curves. The bust has an unambiguously large, rich volume, yet avoids excessive exaggeration, maintaining a soft roundness and natural three-dimensionality that conforms to posture and gravity. Hips display a gentle curve balanced with her entire physique.
+
+[Attire & Accessories]
+An elegant matching bra and panty set in pale lavender. The bra is embellished with fine floral lace embroidery across the cups, accented by sections of satin with an understated sheen, creating a delicate, high-end finish.
+A realistic fit suited to a full bust, where the fabric and seams trace the body effortlessly, avoiding awkward digging in or unnatural push-up distortion. The panties combine matching embroidered lace and satin, fitting naturally around the hips. Accessories are kept minimal, limited to small silver-tone stud earrings, ensuring they do not distract from the attire or the sunset scenery.
+
+[Pose, Movement, & Gaze]
+The woman is in the process of standing up from the low lounge chair. Her body faces mostly forward, with her left hand resting lightly on the chair's armrest for support. While some weight still rests on the rear leg, she steps forward with the other leg toward the camera, expressing the transition from standing up to walking forward.
+Her free hand moves naturally at her side, keeping her shoulders and arms free of tension. Her posture demonstrates a natural shift in center of gravity, without an exaggerated arched back or body contortion. Her face is directed toward the camera, with her gaze firmly locked onto the lens.
+
+[Expression & Emotion]
+A soft, slightly teasing smile, as if approaching an intimate companion directly before her. The corners of her mouth are slightly upturned without grinning too widely, and her eyes naturally radiate warmth and playfulness.
+Her brows and cheeks soften in harmony with the expression, looking like an authentic moment of enjoying the viewer's reaction rather than a staged smile. A subtle, endearing playfulness resting beneath a mature, composed presence.
+
+[Composition & Framing]
+A 4:5 vertical composition optimized for X posts. Capturing the entire body from head to toe within the frame, leaving generous headroom to showcase the evening sky. The woman is positioned near the center of the frame, with the lounge chair and potted plants naturally framing the sides.
+The camera is positioned at waist-to-chest height, shooting from a slight distance with a standard to moderate telephoto focal length. Avoiding extreme wide angles to prioritize natural perspective without lens-induced distortion on the legs or chest. The background has a soft bokeh while keeping the cityscape and rooftop recognizable.
+
+[Lighting, Color, Texture, & Mood]
+The primary light source is the setting sun coming from the background. A delicate golden rim light outlines her hair and shoulders, while the front of her face and body remains illuminated by soft, bluish-purple ambient light from the sky and gentle reflections from the terrace floor. Her face remains bright and clear, with the exposure smoothly balanced against the sunset.
+Delicate shadows and natural rosy tones on the skin, individual strands and soft luster in the hair, fine openwork patterns in the lace, and understated sheen on the satin. Terracotta, fabric, wood, metal, and tiles each exhibit their distinct tactile textures. The pale lavender lingerie and apricot evening sky serve as the chromatic focal points, yielding a composed atmosphere that blends elegance with intimacy.
+
+[Quality & Negative Elements]
+High-resolution photorealistic rendering. Emphasizing realistic human anatomy, lighting, materials, depth, and perspective as if captured by an actual camera. Avoid figures that appear underage, overly youthful faces, unnatural anatomy, extra limbs or fingers, missing or fused fingers, awkward joints, and confused left/right hands.
+Avoid wardrobe malfunctions, body merging into fabric, unnatural pinching or digging in, unintended exposure, extreme wide-angle distortion, and excessive skin smoothing. While maintaining a naturally full bust volume, avoid giant, hard-sphere, abnormally pushed-up, or gravity-defying shapes. No text, logos, watermarks, or UI elements anywhere in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099993424342737285"></a>
+
+### A photorealistic portrait prompt depicting a Japanese woman in peach pink lingerie sitting on sage green bedding in an early afternoon bedroom, casually looking up from reading a book.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099993424342737285)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A photorealistic portrait prompt depicting a Japanese woman in peach pink lingerie sitting on sage green bedding in an early afternoon bedroom, casually looking up from reading a book.
+
+<img src="images/2099993424342737285-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Early Afternoon Bedroom | A Peachy Moment Looking Up from a Book 🌟
+
+[Subject / Art Style]
+Capture the moment an adult woman, who was reading in a quiet bedroom during the daytime, notices her nearby partner and looks up from her book. A photorealistic, lived-in fashion photograph that feels less like a staged advertisement and more like an enchanting, candid moment born naturally out of everyday life.
+Balanced to showcase the refined lingerie design, natural body curves, a gentle expression, and daylight pouring onto the bedding. While intimate, it avoids overt sexualization, yielding a photo-book style aesthetic centered on cleanliness and mature cuteness.
+
+[Location / Background / Worldview]
+A bright, serene bedroom at home. The bed is dressed with slightly muted sage green linen-textured sheets and a comforter, with pillows naturally slightly ruffled and unkempt. An open book currently being read rests beside her knee, conveying that she was reading just moments prior.
+In the background, sheer white or unbleached muslin curtains, large windows, a wooden side table, subtle lighting, and small house plants are naturally arranged. The room should not be overly tidy; creases in the bedding and the way the book is laid down preserve the atmosphere of an actual living space.
+
+[Season / Time / Weather]
+A calm, clear afternoon evocative of late spring to early summer. The time is between 1:00 PM and 3:00 PM, with ample natural light entering through the window. Outside is not a harsh midsummer sun; rather, soft light diffused through sheer curtains reaches inside.
+There is almost no breeze, with the curtains barely shifting. The room possesses an easygoing warmth and quietude, creating an atmosphere where time moves slowly, typical of a weekend early afternoon.
+
+[Character Profile]
+A distinctly adult 23-year-old Japanese woman. Soft and well-balanced facial features, with slightly large dark pupils, natural eyebrows, rosy healthy lips, and gently rounded cheeks. Dark brown hair, cut slightly past the shoulders, falls in natural loose waves with delicate wisps framing her face.
+Featuring delicate shoulders, limbs, and a slender waist, balanced harmoniously with feminine curves in a glamorous figure. Her bust has distinctly large and abundant volume, but rather than rigid spherical shapes, it retains soft, natural three-dimensionality shaped by her seated posture and the support of the garment. Skin has a fair ochre tone, preserving pores, subtle shadows, and natural flush.
+
+[Outfit / Accessories]
+An elegant matching bra and panty set in peach pink. Inspired by sophisticated Wacoal-style designs, combining delicate embroidered lace with a floral motif and subtly lustrous satin material. The lace is rendered so that fine floral patterns are discernible, without being excessively transparent or revealing.
+The bra has a realistic size and structure suited for a full bust, with straps, cups, and stitching naturally supporting the body. The panties smoothly trace the hips, avoiding awkward digging or loose fabric. Accessories are essentially absent, keeping at most tiny, simple stud earrings on the ears if needed.
+
+[Pose / Action / Gaze]
+The woman sits atop the sage green bedding, stabilizing her hips while allowing both legs to drape naturally to one side. Her upper body is opened toward the camera from the start, in a relaxed posture with an effortlessly straightened spine. No extreme torso twisting or exaggerated chest-thrusting.
+One hand lightly holds down the page of the open book beside her knee, while the other hand rests naturally against the sheet beside her body to support her posture. It is the precise moment she looks up after being called to mid-reading. Her gaze is directed straight at the camera, conveying the close, intimate distance of looking at a loved one.
+
+[Expression / Emotion]
+Her eyebrows are slightly raised, looking at the camera with gentle amusement lingering in her eyes. Not an exaggerated broad grin, but a natural, subtle smile with the corners of her mouth slightly lifted. Rather than being annoyed at being interrupted, she has an amused, cheerful "What is it?" expression.
+A friendly and playful teasing aimed at her partner, free from artificial seductiveness. Natural emotional nuance appears in her cheeks and eyes, presenting an expression that looks as if a quiet afternoon conversation is just about to unfold.
+
+[Composition / Camera]
+A 4:5 vertical composition tailored for X (Twitter) posts. A pulled-back seated shot capturing her from the top of her head to her toes, fully showcasing not just the subject, but also the expanse of the bed and the texture of the bedding. The subject is positioned slightly above the center of the frame, creating vertical depth that connects naturally down to her feet.
+The camera is positioned slightly higher than the bed, angled downward at a gentle high angle. The shooting distance encompasses the subject's full body and the surrounding bed, relying fundamentally on a natural field of view equivalent to 50–70mm. The background is softly blurred, but retains enough depth of field to discern the window, curtains, and furniture.
+
+[Light / Color / Texture / Atmosphere]
+The primary light source is daytime natural light entering through the large window at the side of the frame. While the sheer curtains softly diffuse the light, relatively broad contrasts of light and shadow are cast across the bedding. Ambient light bouncing from the white walls and bedding enters from the opposite side, preventing shadows on her face and body from falling too dark or crushed.
+A gentle palette centering on peach pink and sage green, harmonized with ecru, pale wood grain, and natural skin tones. Skin displays delicate shading and flush; hair reveals individual strands with natural sheen; lace features intricate embroidery; satin shows understated gloss; linen exhibits soft creases. An atmosphere imbued with a quiet holiday afternoon and an effortless conversation between two people.
+
+[Quality / Exclusions]
+As a high-resolution photorealistic photograph, emphasize natural human anatomy, perspective, lighting, and material textures as if shot on an actual camera. Depict her distinctly as an adult woman, avoiding childlike features that appear underage or an ambiguous age.
+Avoid extra limbs or fingers, missing or fused digits, unnatural joints, twisted anatomy, garments merging with the skin, garment tears, unintended exposure, extreme wide-angle distortion, or overprocessed smooth skin. While her bust maintains abundant natural volume, avoid abnormal enlargement, rigid spheres, excessive push-up effects, or forms defying gravity. Do not include any text, logos, watermarks, or UI overlays within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099991139109736870"></a>
 
