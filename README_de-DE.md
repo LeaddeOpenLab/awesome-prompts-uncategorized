@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**230** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**231** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,31 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 ## Fotografie
 
-<a name="prompt-2100041998871007406"></a>
+<a name="prompt-2100039611145998641"></a>
 
 ### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2100039611145998641)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100039611145998641-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100041998871007406"></a>
+
+### Ein Prompt, der eine Frau darstellt, die am Straßenrand mit einem Schild „金沢八景まで“ trampelt, sowie das Heck eines vorbeifahrenden Autos.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Originalbeitrag](https://x.com/55hawks/status/2100041998871007406)
 
@@ -43,7 +65,7 @@ Fotografie · Charakter · Fahrzeug · Veröffentlicht
 
 Originalbeitrag：[@jins2001jp](https://x.com/jins2001jp) · [Originalbeitrag](https://x.com/jins2001jp/status/2099861278751850658)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt, der eine Frau darstellt, die am Straßenrand mit einem Schild „金沢八景まで“ trampelt, sowie das Heck eines vorbeifahrenden Autos.
 
 <img src="images/2100041998871007406-1.jpg" alt="Bild 1" width="480" />
 
@@ -58,7 +80,7 @@ Originalbeitrag：[@jins2001jp](https://x.com/jins2001jp) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Per Anhalter am Straßenrand stehen und ein Schild mit der Aufschrift „金沢八景まで“ halten. Daneben fährt ein Auto vorbei. Das Auto ist eindeutig von hinten zu sehen. Verboten: Bild der Vorderseite des Autos
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

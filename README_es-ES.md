@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**230** Prompts · Última incorporación: **2026-09-16**
+**231** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,31 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 ## Fotografía
 
-<a name="prompt-2100041998871007406"></a>
+<a name="prompt-2100039611145998641"></a>
 
 ### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2100039611145998641)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100039611145998641-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100041998871007406"></a>
+
+### Prompt que describe a una mujer haciendo autostop al borde de la carretera con un cartel que dice «金沢八景まで» y la parte trasera de un coche que pasa de largo.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Publicación original](https://x.com/55hawks/status/2100041998871007406)
 
@@ -43,7 +65,7 @@ Fotografía · Personaje · Vehículo · Publicado
 
 Publicación original：[@jins2001jp](https://x.com/jins2001jp) · [Publicación original](https://x.com/jins2001jp/status/2099861278751850658)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt que describe a una mujer haciendo autostop al borde de la carretera con un cartel que dice «金沢八景まで» y la parte trasera de un coche que pasa de largo.
 
 <img src="images/2100041998871007406-1.jpg" alt="Imagen 1" width="480" />
 
@@ -58,7 +80,7 @@ Publicación original：[@jins2001jp](https://x.com/jins2001jp) · [Publicación
 **Prompt**
 
 ```text
-Traducción en curso
+Haciendo autostop al borde de la carretera sosteniendo un cartel que dice «金沢八景まで». Un coche pasa a su lado. La imagen muestra claramente la parte trasera del coche. Prohibido: imagen del frente del coche
 ```
 
 [↑ Volver a categorías](#catalog)

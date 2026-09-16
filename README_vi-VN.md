@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**230** Prompt · Bổ sung mới nhất: **2026-09-16**
+**231** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,31 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Nhiếp ảnh
 
-<a name="prompt-2100041998871007406"></a>
+<a name="prompt-2100039611145998641"></a>
 
 ### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2100039611145998641)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100039611145998641-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100041998871007406"></a>
+
+### Lời nhắc mô tả một người phụ nữ đang giơ biển 「金沢八景まで」 để xin đi nhờ xe bên lề đường, cùng phía sau chiếc xe ô tô đang chạy qua.
 
 Tác giả：[@55hawks](https://x.com/55hawks) · [Bài gốc](https://x.com/55hawks/status/2100041998871007406)
 
@@ -43,7 +65,7 @@ Nhiếp ảnh · Nhân vật · Phương tiện · Đã xuất bản
 
 Bài gốc：[@jins2001jp](https://x.com/jins2001jp) · [Bài gốc](https://x.com/jins2001jp/status/2099861278751850658)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mô tả một người phụ nữ đang giơ biển 「金沢八景まで」 để xin đi nhờ xe bên lề đường, cùng phía sau chiếc xe ô tô đang chạy qua.
 
 <img src="images/2100041998871007406-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -58,7 +80,7 @@ Bài gốc：[@jins2001jp](https://x.com/jins2001jp) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đang đi nhờ xe bên lề đường, cầm tấm biển ghi 「金沢八景まで」. Bên cạnh có một chiếc xe ô tô đang chạy qua. Xe ô tô thể hiện rõ ràng phần đuôi xe. Cấm: hình ảnh mặt trước của xe ô tô
 ```
 
 [↑ Về danh mục](#catalog)

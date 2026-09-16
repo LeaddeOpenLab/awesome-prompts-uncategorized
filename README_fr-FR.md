@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**230** Prompts · Dernier ajout: **2026-09-16**
+**231** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,31 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 ## Photographie
 
-<a name="prompt-2100041998871007406"></a>
+<a name="prompt-2100039611145998641"></a>
 
 ### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2100039611145998641)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100039611145998641-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100041998871007406"></a>
+
+### Prompt illustrant une femme faisant de l'auto-stop au bord de la route avec une pancarte « 金沢八景まで » et l'arrière d'une voiture qui passe.
 
 Auteur：[@55hawks](https://x.com/55hawks) · [Publication originale](https://x.com/55hawks/status/2100041998871007406)
 
@@ -43,7 +65,7 @@ Photographie · Personnage · Véhicule · Publié
 
 Publication originale：[@jins2001jp](https://x.com/jins2001jp) · [Publication originale](https://x.com/jins2001jp/status/2099861278751850658)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt illustrant une femme faisant de l'auto-stop au bord de la route avec une pancarte « 金沢八景まで » et l'arrière d'une voiture qui passe.
 
 <img src="images/2100041998871007406-1.jpg" alt="Image 1" width="480" />
 
@@ -58,7 +80,7 @@ Publication originale：[@jins2001jp](https://x.com/jins2001jp) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+Faisant de l'auto-stop au bord de la route en tenant une pancarte avec écrit « 金沢八景まで ». À côté, une voiture passe. L'image montre clairement l'arrière de la voiture. Interdit : image de l'avant de la voiture
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**230** Prompts · Latest addition: **2026-09-16**
+**231** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,54 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100039611145998641"></a>
+
+### Realistic full-body photography prompt of a voluptuous East Asian woman in a sexy red bodysuit before high-rise luxury apartment floor-to-ceiling windows.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2100039611145998641)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic full-body photography prompt of a voluptuous East Asian woman in a sexy red bodysuit before high-rise luxury apartment floor-to-ceiling windows.
+
+<img src="images/2100039611145998641-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic modern high-rise luxury apartment full-body portrait photography, vertical orientation approx. 2:3, a definitively adult East Asian female, 20s, standing before a luxury high-rise apartment's floor-to-ceiling window, backed by an expansive city skyline. Shot with an equivalent 35–50mm lens, photographer distance approx. 2.5–3.5 meters, camera level near the subject's waist/abdomen, essentially eye-level, capturing the subject completely from the top of the head down to the high heels, subject situated center-left of the frame, while retaining a substantial amount of the interior architecture and the outdoor cityscape.
+
+The subject possesses an unmistakable voluptuous hourglass figure: medium-narrow shoulders, very full and natural breasts, a distinctly cinched waist, wide and rounded pelvis and hips, full buttocks and hips, thick and soft thighs, and calves that taper down. The overall emphasis is on a full upper body + tiny waist + wide hips + distinctly thick thighs; avoid generating a slender wafer-thin figure, narrow hips, thin legs, or an athletic muscular physique.
+
+The subject stands facing forward with hips shifted slightly to one side, weight resting on one leg, the other leg naturally stepping forward half a step, forming a gentle S-curve. Her left hand is raised to the side of her neck / behind the ear gently adjusting her hair, elbow pointing outward; her right hand hangs naturally at her side. Head is slightly lowered and tilted to one side, eyes half-cast, expression calm and languid, non-smiling with teeth hidden.
+
+The subject has ultra-long dark brownish-black straight hair, extending past her chest, thick and voluminous, with a thick yet softly textured long straight-cut fringe/bangs on her forehead partially veiling her brow and eyes; long tresses on both sides naturally drape down her chest and shoulders. Face is small and softly oval, warm fair complexion, makeup is sophisticated yet natural: dark eyeliner, soft brown-pink eyeshadow, light blush, nude-pink lips.
+
+The subject wears a high-saturation pure red / deep scarlet sultry bodysuit set with a transparent cover-up. The inner layer is a red high-cut bodysuit, featuring an unmistakable deep plunge V-neckline structure, with extensive geometric cutouts / sheer mesh splicing beneath the bust and across the midriff/waist, a very high waistline, and high-cut leg openings that accentuate the waist-to-hip proportions while maintaining complete proper garment coverage.
+
+Draped over the outside is a matching red semi-sheer chiffon long-sleeved robe / cover-up, made of airy, see-through, soft fabric, entirely open at the front, with loose sleeves, hemlines falling naturally around the sides of her waist and hips, blending into a tone-on-tone red layering with the inner bodysuit. Overall materials are predominantly sheer tulle, stretch fabric, and subtly glossy textiles; no stacked lace or intricate prints.
+
+On her feet are a pair of red transparent / PVC pointed-toe stiletto high heels, featuring red-trimmed edges or a clear acrylic texture, heels approximately 9–11cm, exposing the instep and harmonizing with the entire red ensemble.
+
+The setting is a modern ultra-high-rise luxury apartment / hotel penthouse suite. Behind the subject is a massive full-wall floor-to-ceiling glass curtain spanning from floor to ceiling, looking down onto a dense urban matrix of buildings, green spaces, and a distant horizon; the weather is sunny with a pale blue sky. The windows are framed by sleek black narrow mullions into large rectangular panes.
+
+The most striking structural element inside is the mirrored ceiling: a vast expanse of high-reflective mirror across the ceiling reflects the cityscape outside, the architecture, and the interior layout, creating an intense top-and-bottom reflection effect. On the left sits a large dark gray-black modern modular sofa adorned with black-and-white abstract geometric throw pillows; on the right is a black slim-legged lounge chair holding a black handbag. Along the far right edge stands a dark gray fluted column / wall pillar capped with a warm orange curved accent light strip.
+
+The flooring is dark wood grain / dark gray parquet flooring; the overall interior color palette is anchored in black, gray, white, glass, and metal, allowing the red-clad subject to serve as the dominant visual focal point.
+
+Lighting comes primarily from the strong natural daylight pouring through the huge floor-to-ceiling windows; the subject's body is illuminated by cool-white daylight, while the interior glass and mirrors produce subtle blue-cyan reflections. The red attire is saturated and vivid, the skin appears natural warm-white to peachy, with highlights concentrated on the chest, shoulders, arms, and legs. No harsh on-axis front flash, no nighttime scenery.
+
+Overall aesthetic mimics a high-quality smartphone / mirrorless camera luxury lifestyle photograph: crisp and natural, slight wide-angle perspective, high dynamic range, the background city retaining abundant detail, both the subject and the interior rendered clearly, free of excessive portrait blur/bokeh.
+
+Core anchors: adult East Asian female + very voluptuous hourglass figure + full bust + tiny waist + wide rounded hips + thick thighs + ultra-long dark straight hair with thick bangs + red deep V high-cut bodysuit + midriff cutouts + red sheer long-sleeved cover-up + red transparent stiletto heels + left hand touching hair beside neck + high-rise floor-to-ceiling windows + city panorama + mirrored ceiling + black modern sofa + dark interior + bright natural daylight.
+
+Avoid: slender body, narrow hips, thin legs, athletic abs, short hair, curly hair, black clothing, standard red dress, trousers, sneakers, outdoor setting, night scene, ordinary bedroom, heavy background blur, harsh flash, plastic skin, anime face, CG look, watermarks, and scrambled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100041998871007406"></a>
 

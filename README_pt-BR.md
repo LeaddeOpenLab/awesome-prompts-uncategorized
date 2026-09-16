@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**230** Prompts · Última adição: **2026-09-16**
+**231** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,31 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 ## Fotografia
 
-<a name="prompt-2100041998871007406"></a>
+<a name="prompt-2100039611145998641"></a>
 
 ### Tradução em andamento
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2100039611145998641)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100039611145998641-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100041998871007406"></a>
+
+### Prompt retratando uma mulher pedindo carona na beira da estrada segurando uma placa &quot;金沢八景まで&quot; e a traseira de um carro passando.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Publicação original](https://x.com/55hawks/status/2100041998871007406)
 
@@ -43,7 +65,7 @@ Fotografia · Personagem · Veículo · Publicado
 
 Publicação original：[@jins2001jp](https://x.com/jins2001jp) · [Publicação original](https://x.com/jins2001jp/status/2099861278751850658)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt retratando uma mulher pedindo carona na beira da estrada segurando uma placa &quot;金沢八景まで&quot; e a traseira de um carro passando.
 
 <img src="images/2100041998871007406-1.jpg" alt="Imagem 1" width="480" />
 
@@ -58,7 +80,7 @@ Publicação original：[@jins2001jp](https://x.com/jins2001jp) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+Pedindo carona na beira da estrada segurando uma placa escrito "金沢八景まで". Um carro está passando ao lado. O carro é claramente uma imagem traseira. Proibido: imagem da frente do carro
 ```
 
 [↑ Voltar às categorias](#catalog)

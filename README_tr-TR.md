@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**230** Prompt · Son eklenen: **2026-09-16**
+**231** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,31 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Fotoğrafçılık
 
-<a name="prompt-2100041998871007406"></a>
+<a name="prompt-2100039611145998641"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2100039611145998641)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100039611145998641-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100041998871007406"></a>
+
+### Yol kenarında 「金沢八景まで」 tabelası tutarak otostop çeken bir kadını ve yanından geçen arabanın arkasını tasvir eden istem.
 
 Yazar：[@55hawks](https://x.com/55hawks) · [Orijinal gönderi](https://x.com/55hawks/status/2100041998871007406)
 
@@ -43,7 +65,7 @@ Fotoğrafçılık · Karakter · Araç · Yayımlandı
 
 Orijinal gönderi：[@jins2001jp](https://x.com/jins2001jp) · [Orijinal gönderi](https://x.com/jins2001jp/status/2099861278751850658)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yol kenarında 「金沢八景まで」 tabelası tutarak otostop çeken bir kadını ve yanından geçen arabanın arkasını tasvir eden istem.
 
 <img src="images/2100041998871007406-1.jpg" alt="Görsel 1" width="480" />
 
@@ -58,7 +80,7 @@ Orijinal gönderi：[@jins2001jp](https://x.com/jins2001jp) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yol kenarında elinde 「金沢八景まで」 yazılı bir tabela tutarak otostop çekiyor. Yanından bir araba geçiyor. Araba net bir şekilde arkadan görünümde. Yasak: arabanın ön görünümü
 ```
 
 [↑ Kategorilere dön](#catalog)

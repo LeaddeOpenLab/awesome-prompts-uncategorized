@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**230** Prompt · Ultima aggiunta: **2026-09-16**
+**231** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,31 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Fotografia
 
-<a name="prompt-2100041998871007406"></a>
+<a name="prompt-2100039611145998641"></a>
 
 ### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2100039611145998641)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100039611145998641-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100041998871007406"></a>
+
+### Prompt che ritrae una donna che fa l'autostop a bordo strada con un cartello &quot;金沢八景まで&quot; e il retro di un'auto che passa.
 
 Autore：[@55hawks](https://x.com/55hawks) · [Post originale](https://x.com/55hawks/status/2100041998871007406)
 
@@ -43,7 +65,7 @@ Fotografia · Personaggio · Veicolo · Pubblicato
 
 Post originale：[@jins2001jp](https://x.com/jins2001jp) · [Post originale](https://x.com/jins2001jp/status/2099861278751850658)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt che ritrae una donna che fa l'autostop a bordo strada con un cartello &quot;金沢八景まで&quot; e il retro di un'auto che passa.
 
 <img src="images/2100041998871007406-1.jpg" alt="Immagine 1" width="480" />
 
@@ -58,7 +80,7 @@ Post originale：[@jins2001jp](https://x.com/jins2001jp) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+Facendo l'autostop a bordo strada tenendo un cartello con la scritta "金沢八景まで". Accanto passa un'auto. L'auto è chiaramente ripresa dal retro. Vietato: immagine della parte anteriore dell'auto
 ```
 
 [↑ Torna alle categorie](#catalog)
