@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2100065897792839714"></a>
 
-### Tradução em andamento
+### Prompt de vídeo de uma flor transbordando de luz balançando com o vento e girando ao redor.
 
 Autor：[@AkioT315](https://x.com/AkioT315) · [Publicação original](https://x.com/AkioT315/status/2100065897792839714)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de vídeo de uma flor transbordando de luz balançando com o vento e girando ao redor.
 
 <img src="covers/2100065897792839714.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma flor brilha como se a luz estivesse transbordando dela, balançando suavemente com a brisa suave, reproduzida enquanto a câmera gira lentamente ao seu redor.
 ```
 
 [↑ Voltar às categorias](#catalog)

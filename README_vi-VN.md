@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2100065897792839714"></a>
 
-### Đang dịch
+### Lời nhắc video về bông hoa tràn ngập ánh sáng đung đưa trong gió và máy quay xoay quanh.
 
 Tác giả：[@AkioT315](https://x.com/AkioT315) · [Bài gốc](https://x.com/AkioT315/status/2100065897792839714)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video về bông hoa tràn ngập ánh sáng đung đưa trong gió và máy quay xoay quanh.
 
 <img src="covers/2100065897792839714.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bông hoa tỏa sáng như ánh sáng đang tràn ra ngoài, khẽ đung đưa trong làn gió thoảng, được ghi lại khi máy quay quay chậm quanh nó.
 ```
 
 [↑ Về danh mục](#catalog)

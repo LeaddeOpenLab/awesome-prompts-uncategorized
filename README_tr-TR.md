@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2100065897792839714"></a>
 
-### Çeviri sürüyor
+### Işık saçan bir çiçeğin rüzgarda sallandığı ve etrafında dönülen bir video istemi.
 
 Yazar：[@AkioT315](https://x.com/AkioT315) · [Orijinal gönderi](https://x.com/AkioT315/status/2100065897792839714)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Işık saçan bir çiçeğin rüzgarda sallandığı ve etrafında dönülen bir video istemi.
 
 <img src="covers/2100065897792839714.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Işık adeta çiçekten taşıyormuş gibi parıldar, hafif bir esintiyle sakince sallanırken etrafında yavaşça dönülerek oynatılır.
 ```
 
 [↑ Kategorilere dön](#catalog)

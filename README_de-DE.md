@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2100065897792839714"></a>
 
-### Übersetzung läuft
+### Video-Prompt einer lichtüberströmten Blume, die sich im Wind wiegt, während die Kamera um sie kreist.
 
 Autor：[@AkioT315](https://x.com/AkioT315) · [Originalbeitrag](https://x.com/AkioT315/status/2100065897792839714)
 
 Fotografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Video-Prompt einer lichtüberströmten Blume, die sich im Wind wiegt, während die Kamera um sie kreist.
 
 <img src="covers/2100065897792839714.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine Blume leuchtet, als würde Licht aus ihr überquellen, und wiegt sich sanft in der leichten Brise, während die Kamera langsam um sie herum rotiert.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

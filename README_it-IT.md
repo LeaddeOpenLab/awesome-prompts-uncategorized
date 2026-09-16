@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2100065897792839714"></a>
 
-### Traduzione in corso
+### Prompt video di un fiore traboccante di luce che ondeggia al vento con la telecamera che gli ruota attorno.
 
 Autore：[@AkioT315](https://x.com/AkioT315) · [Post originale](https://x.com/AkioT315/status/2100065897792839714)
 
 Fotografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video di un fiore traboccante di luce che ondeggia al vento con la telecamera che gli ruota attorno.
 
 <img src="covers/2100065897792839714.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un fiore brilla come se la luce traboccasse da esso, oscillando dolcemente a una leggera brezza, mentre la telecamera ruota lentamente attorno a esso.
 ```
 
 [↑ Torna alle categorie](#catalog)

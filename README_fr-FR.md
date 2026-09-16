@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2100065897792839714"></a>
 
-### Traduction en cours
+### Prompt vidéo d'une fleur débordante de lumière oscillant dans le vent avec une rotation autour d'elle.
 
 Auteur：[@AkioT315](https://x.com/AkioT315) · [Publication originale](https://x.com/AkioT315/status/2100065897792839714)
 
 Photographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt vidéo d'une fleur débordante de lumière oscillant dans le vent avec une rotation autour d'elle.
 
 <img src="covers/2100065897792839714.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une fleur qui brille comme si la lumière en débordait, se balançant doucement sous une brise légère, la caméra tournant lentement autour d'elle.
 ```
 
 [↑ Retour aux catégories](#catalog)

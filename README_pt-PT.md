@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2100065897792839714"></a>
 
-### Tradução em curso
+### Prompt de vídeo de uma flor a transbordar de luz que balança ao vento com rotação ao seu redor.
 
 Autor：[@AkioT315](https://x.com/AkioT315) · [Publicação original](https://x.com/AkioT315/status/2100065897792839714)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo de uma flor a transbordar de luz que balança ao vento com rotação ao seu redor.
 
 <img src="covers/2100065897792839714.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma flor brilha como se a luz estivesse a transbordar dela, balançando suavemente com a brisa ligeira, reproduzida enquanto a câmara gira lentamente à sua volta.
 ```
 
 [↑ Voltar às categorias](#catalog)

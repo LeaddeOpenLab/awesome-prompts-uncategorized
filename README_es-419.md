@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2100065897792839714"></a>
 
-### Traducción en curso
+### Prompt de video de una flor desbordante de luz que se mece con el viento mientras la cámara gira a su alrededor.
 
 Autor：[@AkioT315](https://x.com/AkioT315) · [Publicación original](https://x.com/AkioT315/status/2100065897792839714)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video de una flor desbordante de luz que se mece con el viento mientras la cámara gira a su alrededor.
 
 <img src="covers/2100065897792839714.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una flor que brilla como si la luz se desbordara de ella, meciéndose suavemente con la brisa, reproducida mientras la cámara gira lentamente a su alrededor.
 ```
 
 [↑ Volver a categorías](#catalog)
