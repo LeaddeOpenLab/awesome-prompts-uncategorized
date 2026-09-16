@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**239** Prompts · Última incorporación: **2026-09-16**
+**241** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,56 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2100081996760531273"></a>
+
+### Traducción en curso
+
+Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicación original](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+Publicación original：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicación original](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100081996760531273-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100085987074588710"></a>
+
+### Traducción en curso
+
+Autor：[@raves9361](https://x.com/raves9361) · [Publicación original](https://x.com/raves9361/status/2100085987074588710)
+
+Fotografía · Personaje · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2100085987074588710.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2100065897792839714"></a>
 
@@ -4353,7 +4403,7 @@ Traducción en curso
 
 <a name="prompt-2100080507510034829"></a>
 
-### Traducción en curso
+### Prompt de vídeo para fondo de pantalla animado divertido: bailarina Feitian de Dunhuang que hace caer los iconos del escritorio y los recoloca a toda prisa.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2100080507510034829)
 
@@ -4361,14 +4411,14 @@ Resumen / Antecedentes · Publicado
 
 Publicación original：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2100051139547054118)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de vídeo para fondo de pantalla animado divertido: bailarina Feitian de Dunhuang que hace caer los iconos del escritorio y los recoloca a toda prisa.
 
 <img src="covers/2100080507510034829.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una Feitian está bailando; cuando pisa fuerte, tira del telón de fondo de la pantalla, el telón tiembla y hace que todos los iconos de la izquierda caigan al suelo. La Feitian, asustada, se tapa la boca con ambas manos, deja de bailar de inmediato, corre hacia la izquierda y vuelve a presionar los iconos del suelo uno por uno en su posición original; sin embargo, debido a la prisa, dos iconos quedan torcidos. Enseguida regresa a su posición original a la derecha, retoma su pose inicial con una sonrisa forzada; sopla una brisa suave y sus ropas y cintas de seda ondean. Cámara fija, la música de fondo cambia de la tradicional música de Dunhuang del principio a un estilo cómico y divertido hacia el final.
 ```
 
 [↑ Volver a categorías](#catalog)

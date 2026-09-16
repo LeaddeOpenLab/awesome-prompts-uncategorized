@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**239** Prompt · Bổ sung mới nhất: **2026-09-16**
+**241** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,56 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2100081996760531273"></a>
+
+### Đang dịch
+
+Tác giả：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100081996760531273-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100085987074588710"></a>
+
+### Đang dịch
+
+Tác giả：[@raves9361](https://x.com/raves9361) · [Bài gốc](https://x.com/raves9361/status/2100085987074588710)
+
+Nhiếp ảnh · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100085987074588710.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100065897792839714"></a>
 
@@ -4353,7 +4403,7 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2100080507510034829"></a>
 
-### Đang dịch
+### Lời nhắc video hình nền động vui nhộn: Vũ công Phi Thiên Đôn Hoàng giẫm rơi biểu tượng màn hình và luống cuống xếp lại.
 
 Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2100080507510034829)
 
@@ -4361,14 +4411,14 @@ Tóm tắt / Bối cảnh · Đã xuất bản
 
 Bài gốc：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2100051139547054118)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video hình nền động vui nhộn: Vũ công Phi Thiên Đôn Hoàng giẫm rơi biểu tượng màn hình và luống cuống xếp lại.
 
 <img src="covers/2100080507510034829.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Phi Thiên đang múa, khi bước chân nàng giẫm xuống đã kéo giật bức màn nền của màn hình, bức màn rung chuyển làm cho các biểu tượng ở bên trái đều rơi rụng xuống đất. Phi Thiên giật mình lấy hai tay bịt miệng, vội vàng dừng múa, chạy sang bên trái và nhặt từng biểu tượng trên đất gắn lại vào vị trí cũ. Nhưng vì quá vội vàng, có hai biểu tượng bị gắn lệch. Nàng lập tức quay trở lại vị trí bên phải ban đầu, tạo lại dáng POSE như lúc đầu, gương mặt gượng cười, gió nhẹ thổi qua khiến y phục và dải lụa choàng bay phấp phới. Góc quay cố định, nhạc nền chuyển từ âm nhạc Đôn Hoàng truyền thống lúc ban đầu sang phong cách dí dỏm, hài hước ở đoạn sau.
 ```
 
 [↑ Về danh mục](#catalog)

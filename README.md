@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**239** Prompts · Latest addition: **2026-09-16**
+**241** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,110 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100081996760531273"></a>
+
+### A detailed smartphone-photo-style prompt depicting a 22-year-old Japanese woman lending a power bank to a friend at a traditional cafe.
+
+Author：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Source](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Photography · Portrait / Selfie · Character · Published
+
+Source：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Source](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Summary:** A detailed smartphone-photo-style prompt depicting a 22-year-old Japanese woman lending a power bank to a friend at a traditional cafe.
+
+<img src="images/2100081996760531273-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Character Identity:
+A fictional 22-year-old adult Japanese woman. Clearly an adult 4th-year university student majoring in computer science. A sophisticated, fair-skinned "shiro-gyaru" (fair-skinned gal). Distinctly elongated heart-shaped face, high cheekbones, slender chin, slightly hooded horizontally long almond-shaped dark hazel eyes, slightly upturned outer eye corners, sharply defined high arched eyebrows, a slender straight nose with a sharp tip, and glossy lips with a fuller lower lip. Clear, luminous neutral skin without a tan, realistic texture, retaining subtle natural asymmetries, with exactly one small beauty mark high on her anatomical right cheek. Naturally lustrous black long layered hair reaching below her chest, completely pin-straight from roots to tips without any waves or curls whatsoever. Modern, clean gyaru makeup featuring honey-brown colored contacts, long eyelashes, thin winged eyeliner, and coral-beige lipstick. Her signature expression is a broad, confident smile showing teeth. Maintain this fictional adult woman's persona, facial structure, beauty mark position, black hair color, straight hair texture, length, and mature adult age accurately across all scenes.
+
+Physique Continuity:
+168 cm tall with long legs, a confident upright posture, and a glamorous yet realistic adult physique. Her fixed physique features a naturally full bust proportionate to her ribcage, with realistic base width, forward projection, soft weight, and natural gravity. A toned yet realistic waist, with well-balanced hips and thighs proportionate to her long legs. Maintain the proportions of height, ribcage, waist, pelvis, and limbs regardless of camera angle. Conveys her physique through ordinary opaque clothing and natural fabric tension, without push-up effects, exaggerated cleavage, padding, extreme compression, implant-like spheres, or impossibly tiny waists.
+
+Shooting Situation:
+16:10. Lending a charger to a friend whose battery is about to die. A proud, toothy smile directed at her friend.
+
+Scene / Background:
+An old-fashioned kissaten (Japanese coffee shop), small wooden table, lace curtains. Half-finished iced coffee, a paper shopping bag by her feet.
+
+Outfit:
+A white, thin-stretch ribbed, form-fitting short-sleeved top. Shallow square neckline, hem reaching the hips. Dark navy high-waisted skinny jeans, white platform sneakers, a small black shoulder bag, thin gold hoop earrings, a smartwatch. Long straight black hair worn down.
+
+Pose / Action:
+Seated, opening the bag on her lap with her left hand while in the middle of taking out a small charger with her right hand to place it on the table.
+
+Composition / Framing:
+Shot from the perspective of the friend sitting opposite at a distance of 1 m, height 1.15 m, standard 1x zoom. Framing from face to knees, including bag and charger.
+Output exactly one single, unsegmented image with the specified final dimensions of 1086 × 1448 px and a 3:4 aspect ratio.
+
+Lighting / Atmosphere:
+Side lighting filtered through lace curtains and warm ambient interior lighting.
+
+Rendering / Image Quality:
+Depicted as a single minimally processed HEIC snapshot taken with a standard smartphone camera app. Follows the camera's single autofocus (AF) plane; do not separately re-light, denoise, or sharpen distant faces. Details diminish continuously with distance. For recognizable faces, simultaneously retain broad variations such as warm color on one cheek, uneven sheen on the T-zone, different undertones beneath each eye, and slight nasal redness, without rendering distant pores. On the closest resolvable skin, maintain non-repeating low-contrast tone variations, redness from pressure, wrinkle shadows, and sparse follicle irregularities. Makeup appears as actual pigment with slightly uneven edges, preserving natural color variations on lips and teeth. Retain uneven exposure and white balance, lifted or un-lifted natural shadows, stray flyaway hairs, off-center composition, shadow noise, subtle sharpening around the AF point, and HEIC compression artifacts. A raw, authentic frame from a private camera roll.
+
+Crucial Constraints:
+Output exactly one unsegmented adult smartphone photograph matching all approved scene specifications. Must satisfy both the approved scene quality criteria and the fixed natural smartphone photo quality criteria prior to acceptance.
+
+Exactly one 22-year-old adult woman. The friend/photographer is off-camera.
+Approved Acceptance Criteria:
+1) Maintain the adult female persona, straight black hair, and physique.
+2) Maintain continuity of approved costume, primary action, props, and scene setting.
+3) Natural composition, lighting, physical contact, and fingers/hands.
+4) Smartphone photo aesthetics featuring single AF plane, depth-based resolution falloff, and natural skin and material textures.
+
+Described background and props. The bag is the same small black shoulder bag used when going out. The charger is the same small, white, flat, rounded-rectangular mobile power bank.
+
+Thin fabrics remain completely opaque. Natural creasing around joints and sitting posture on form-fitting clothes. Maintain the shallow square neckline of the white top; do not turn it into a round neck or deep plunge.
+
+Maintain natural physical contact between feet and floor/seat, and between hands and objects.
+
+Single AF focused on the face. Single standalone vertical 3:4 frame. Do not crop limbs awkwardly at the specified frame edges.
+Only one image. Strictly adhere to the approved aspect ratio and keep all necessary elements inside the frame.
+
+Preserve shadow areas and natural exposure differences.
+
+Single AF focal plane. No localized facial exposure compensation, re-lighting, smoothing, or AI face restoration. Distant faces show broad tonal differences, near skin shows irregular variations, and localized smartphone-native compression/artifacts are preserved.
+
+Depict only one clearly adult fictional woman as the sole subject in a single, undivided photograph. One head, one face, exactly two anatomically connected arms belonging to her, with naturally formed hands. Additional foreground hands may appear only if explicitly specified by scene props/actions, clearly differentiated from her own body. No text, panels, duplicate figures, or multi-angle splits.
+
+Negative Prompt:
+Different scene, overly neat hotel-like background, see-through clothing, costume discrepancy, fused fingers, floating feet, unnatural joints, cropped single body parts, split images, face-only relighting, studio lighting, beauty filter, glowing porcelain face, waxy uniform face or limbs, skin bleaching, high-key beauty fill light, face relighting, face sharpening, overly perfect makeup edges, uniformly glossy lips, uniformly bright teeth, uniform screen-wide sharpness, global clarity boost, repeating textures, fake global film grain, excessive HDR, polished fashion photography, catalog-style symmetrical composition, commercial ad campaign finish, CGI, illustration, minor, teenager, child, childlike age appearance, school uniform, real person, celebrity resemblance, duplicate person, extra person, extra head, extra face, extra personal arms, missing arms, fused limbs, detached limbs, deformed hands, extra fingers, fused fingers, distorted face, cross-eyed, text, caption, letters, numbers, logo, watermark, signature, border, grid, contact sheet, collage, split screen, inset window, multi-panel
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100085987074588710"></a>
+
+### A video prompt where a finger snap signal triggers a seamless transition into a photorealistic style while keeping the exact same outfit.
+
+Author：[@raves9361](https://x.com/raves9361) · [Source](https://x.com/raves9361/status/2100085987074588710)
+
+Photography · Character · Fashion Item · Published
+
+**Summary:** A video prompt where a finger snap signal triggers a seamless transition into a photorealistic style while keeping the exact same outfit.
+
+<img src="covers/2100085987074588710.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Fast speed. Snapping fingers as a signal, the art style seamlessly transforms into photorealistic while keeping the exact same outfit and appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100065897792839714"></a>
 

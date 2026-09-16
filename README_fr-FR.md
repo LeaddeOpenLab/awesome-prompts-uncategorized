@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**239** Prompts · Dernier ajout: **2026-09-16**
+**241** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,56 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2100081996760531273"></a>
+
+### Traduction en cours
+
+Auteur：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publication originale](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+Publication originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publication originale](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100081996760531273-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100085987074588710"></a>
+
+### Traduction en cours
+
+Auteur：[@raves9361](https://x.com/raves9361) · [Publication originale](https://x.com/raves9361/status/2100085987074588710)
+
+Photographie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100085987074588710.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100065897792839714"></a>
 
@@ -4308,7 +4358,7 @@ Traduction en cours
 
 <a name="prompt-2100080507510034829"></a>
 
-### Traduction en cours
+### Prompt vidéo de fond d'écran animé amusant : une danseuse Feitian de Dunhuang fait tomber les icônes du bureau et les replace à la hâte.
 
 Auteur：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2100080507510034829)
 
@@ -4316,14 +4366,14 @@ Résumé / Contexte · Publié
 
 Publication originale：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2100051139547054118)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt vidéo de fond d'écran animé amusant : une danseuse Feitian de Dunhuang fait tomber les icônes du bureau et les replace à la hâte.
 
 <img src="covers/2100080507510034829.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une Feitian danse ; lorsqu'elle pose le pied, elle tire sur le rideau d'arrière-plan de l'écran, le rideau tremble et fait tomber par terre toutes les icônes situées sur la gauche. Effrayée, la Feitian se couvre la bouche à deux mains, interrompt précipitamment sa danse, court vers la gauche et replace une à une les icônes au sol à leur position d'origine. Mais dans sa hâte, deux icônes sont collées de travers. Elle retourne aussitôt à sa place initiale à droite, reprend sa pose de départ avec un sourire crispé ; une brise légère souffle et fait flotter ses vêtements et son ruban de soie. Plan fixe. La musique de fond passe de la musique traditionnelle de Dunhuang au début à un style comique et espiègle par la suite.
 ```
 
 [↑ Retour aux catégories](#catalog)

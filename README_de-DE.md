@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**239** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**241** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,56 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2100081996760531273"></a>
+
+### Übersetzung läuft
+
+Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Originalbeitrag](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Originalbeitrag](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100081996760531273-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100085987074588710"></a>
+
+### Übersetzung läuft
+
+Autor：[@raves9361](https://x.com/raves9361) · [Originalbeitrag](https://x.com/raves9361/status/2100085987074588710)
+
+Fotografie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100085987074588710.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100065897792839714"></a>
 
@@ -4308,7 +4358,7 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2100080507510034829"></a>
 
-### Übersetzung läuft
+### Lustiger Video-Prompt für Live-Hintergrund: Dunhuang-Feitian-Tänzerin stößt Desktop-Icons um und sortiert sie hastig wieder ein.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2100080507510034829)
 
@@ -4316,14 +4366,14 @@ Zusammenfassung / Hintergrund · Veröffentlicht
 
 Originalbeitrag：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2100051139547054118)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Lustiger Video-Prompt für Live-Hintergrund: Dunhuang-Feitian-Tänzerin stößt Desktop-Icons um und sortiert sie hastig wieder ein.
 
 <img src="covers/2100080507510034829.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine Feitian tanzt; als ihr Fuß aufsetzt, zieht sie am Hintergrundvorhang des Bildschirms, der Vorhang erzittert und lässt alle Symbole auf der linken Seite zu Boden stürzen. Erschrocken schlägt die Feitian beide Hände vor den Mund, bricht den Tanz sofort ab, eilt nach links und drückt die Symbole vom Boden eins nach dem anderen an ihren ursprünglichen Platz zurück. Vor lauter Hektik geraten jedoch zwei Symbole schief. Sofort kehrt sie zu ihrer ursprünglichen Position auf der rechten Seite zurück, nimmt wieder ihre Anfangspose ein und lächelt verlegen. Eine sanfte Brise weht, ihre Kleidung und ihr Seidenschal flattern. Feste Kameraeinstellung. Die Hintergrundmusik wechselt von anfangs traditioneller Dunhuang-Musik zu einem humorvollen, heiteren Stil.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

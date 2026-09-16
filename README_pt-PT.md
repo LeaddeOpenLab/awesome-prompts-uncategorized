@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**239** Prompts · Adição mais recente: **2026-09-16**
+**241** Prompts · Adição mais recente: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,56 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100081996760531273"></a>
+
+### Tradução em curso
+
+Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicação original](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+Publicação original：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicação original](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100081996760531273-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100085987074588710"></a>
+
+### Tradução em curso
+
+Autor：[@raves9361](https://x.com/raves9361) · [Publicação original](https://x.com/raves9361/status/2100085987074588710)
+
+Fotografia · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100085987074588710.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100065897792839714"></a>
 
@@ -4325,7 +4375,7 @@ Tradução em curso
 
 <a name="prompt-2100080507510034829"></a>
 
-### Tradução em curso
+### Prompt de vídeo para papel de parede dinâmico e divertido: bailarina Feitian de Dunhuang deita abaixo ícones do ambiente de trabalho e arruma-os à pressa.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2100080507510034829)
 
@@ -4333,14 +4383,14 @@ Resumo / Contexto · Publicado
 
 Publicação original：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2100051139547054118)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo para papel de parede dinâmico e divertido: bailarina Feitian de Dunhuang deita abaixo ícones do ambiente de trabalho e arruma-os à pressa.
 
 <img src="covers/2100080507510034829.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma Feitian está a dançar; quando assenta o pé, puxa a cortina de fundo do ecrã, a cortina treme e faz com que todos os ícones da esquerda caiam ao chão. Assustada, a Feitian tapa a boca com ambas as mãos, interrompe de imediato a dança, corre para a esquerda e volta a colocar os ícones do chão, um a um, no sítio original; no entanto, com a pressa, dois ícones ficam tortos. Regressa de imediato à sua posição original à direita, retoma a pose inicial com um sorriso forçado; uma brisa suave sopra e faz ondular as suas vestes e faixas de seda. Câmara fixa. A música de fundo transita da tradicional música de Dunhuang no início para um estilo cómico e bem-humorado na parte final.
 ```
 
 [↑ Voltar às categorias](#catalog)

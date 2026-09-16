@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**239** Prompt · Son eklenen: **2026-09-16**
+**241** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,56 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2100081996760531273"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100081996760531273-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100085987074588710"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@raves9361](https://x.com/raves9361) · [Orijinal gönderi](https://x.com/raves9361/status/2100085987074588710)
+
+Fotoğrafçılık · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100085987074588710.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100065897792839714"></a>
 
@@ -4325,7 +4375,7 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2100080507510034829"></a>
 
-### Çeviri sürüyor
+### Dunhuang Feitian dansçısının masaüstü simgelerini düşürüp telaşla yerine koyduğu eğlenceli dinamik duvar kağıdı video istemi.
 
 Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2100080507510034829)
 
@@ -4333,14 +4383,14 @@ Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.c
 
 Orijinal gönderi：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2100051139547054118)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dunhuang Feitian dansçısının masaüstü simgelerini düşürüp telaşla yerine koyduğu eğlenceli dinamik duvar kağıdı video istemi.
 
 <img src="covers/2100080507510034829.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir Feitian dans ediyor; ayağını yere bastığında ekran arka planındaki perdeyi çekiştiriyor, perde sarsılarak sol taraftaki tüm simgelerin yere düşmesine neden oluyor. Feitian korkuyla iki eliyle ağzını kapatıyor, hemen dansı bırakıp sola koşuyor ve yerdeki simgeleri tek tek eski yerlerine geri yapıştırıyor; ancak aceleden iki simge yamuk yerleşiyor. Hemen sağdaki asıl yerine geri dönüyor, zoraki bir gülümsemeyle ilk baştaki pozunu tekrar alıyor; hafif bir rüzgar eserek giysilerini ve ipek kuşağını dalgalandırıyor. Sabit kamera açısı. Arka plan müziği başlangıçtaki geleneksel Dunhuang müziğinden daha sonra esprili ve komik bir tarza dönüşüyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

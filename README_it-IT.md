@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**239** Prompt · Ultima aggiunta: **2026-09-16**
+**241** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,56 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100081996760531273"></a>
+
+### Traduzione in corso
+
+Autore：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Post originale](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+Post originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Post originale](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100081996760531273-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100085987074588710"></a>
+
+### Traduzione in corso
+
+Autore：[@raves9361](https://x.com/raves9361) · [Post originale](https://x.com/raves9361/status/2100085987074588710)
+
+Fotografia · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100085987074588710.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2100065897792839714"></a>
 
@@ -4308,7 +4358,7 @@ Traduzione in corso
 
 <a name="prompt-2100080507510034829"></a>
 
-### Traduzione in corso
+### Prompt video per sfondo animato divertente: danzatrice Feitian di Dunhuang fa cadere le icone del desktop e le risistema in tutta fretta.
 
 Autore：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2100080507510034829)
 
@@ -4316,14 +4366,14 @@ Abstract / Contesto · Pubblicato
 
 Post originale：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2100051139547054118)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt video per sfondo animato divertente: danzatrice Feitian di Dunhuang fa cadere le icone del desktop e le risistema in tutta fretta.
 
 <img src="covers/2100080507510034829.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una Feitian sta danzando; quando poggia il piede a terra, tira il tendaggio di sfondo dello schermo, la tenda vibra facendo cadere a terra tutte le icone a sinistra. Spaventata, la Feitian si copre la bocca con entrambe le mani, interrompe subito la danza, corre a sinistra e rimette a posto sul pavimento le icone una a una nella loro posizione originale; a causa della fretta, però, due icone rimangono storte. Torna immediatamente alla sua posizione originaria a destra, riassume la posa iniziale con un sorriso forzato; una leggera brezza fa ondeggiare i suoi abiti e il nastro di seta. Inquadratura fissa. La musica di sottofondo passa dall'iniziale melodia tradizionale di Dunhuang a uno stile comico e divertente nella parte successiva.
 ```
 
 [↑ Torna alle categorie](#catalog)
