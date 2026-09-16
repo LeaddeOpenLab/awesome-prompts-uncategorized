@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T15:59:59.700Z",
+  "model": "unknown-image",
+  "prompt": "This stunning image collage captures a radiant woman with beautiful curly hair modeling a chic, textured cream cardigan layered over a silky, patterned slip dress, paired with elegant tall boots. Set against a sunlit Mediterranean-style patio adorned with terracotta pots and vibrant flowering plants, the composition beautifully blends cozy knitwear with effortless elegance. The mood is warm, joyful, and deeply inviting, making it a fantastic inspiration for transitional autumn fashion.",
+  "promptTranslations": {
+    "en": "This stunning image collage captures a radiant woman with beautiful curly hair modeling a chic, textured cream cardigan layered over a silky, patterned slip dress, paired with elegant tall boots. Set against a sunlit Mediterranean-style patio adorned with terracotta pots and vibrant flowering plants, the composition beautifully blends cozy knitwear with effortless elegance. The mood is warm, joyful, and deeply inviting, making it a fantastic inspiration for transitional autumn fashion."
+  },
+  "summaryTranslations": {
+    "en": "Autumn fashion collage of a curly-haired woman in a cream cardigan and slip dress on a Mediterranean patio."
+  },
+  "translationVersion": 2,
+  "summary": "Autumn fashion collage of a curly-haired woman in a cream cardigan and slip dress on a Mediterranean patio.",
+  "summaryEn": "Autumn fashion collage of a curly-haired woman in a cream cardigan and slip dress on a Mediterranean patio.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100133379077194236",
+    "canonicalUrl": "https://x.com/Minahil42298354/status/2100133379077194236",
+    "author": {
+      "username": "Minahil42298354",
+      "displayName": "Minahil",
+      "profileUrl": "https://x.com/Minahil42298354"
+    },
+    "publishedAt": "2026-09-16T08:03:10.000Z",
+    "collectedAt": "2026-09-16T12:18:36.814Z",
+    "language": "en",
+    "originalText": "Sunlit moments and timeless style\n\nPrompt:           This stunning image collage captures a radiant woman with beautiful curly hair modeling a chic, textured cream cardigan layered over a silky, patterned slip dress, paired with elegant tall boots. Set against a sunlit Mediterranean-style patio adorned with terracotta pots and vibrant flowering plants, the composition beautifully blends cozy knitwear with effortless elegance. The mood is warm, joyful, and deeply inviting, making it a fantastic inspiration for transitional autumn fashion.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUsKRZXwAAgkqv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUsKRZXwAAgkqv.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 44,
+      "repostCount": 4,
+      "replyCount": 31,
+      "quoteCount": 0,
+      "viewCount": 659
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Minahil42298354/status/2100133379077194236",
+  "coverUrl": "https://pbs.twimg.com/media/HSUsKRZXwAAgkqv.jpg",
+  "coverPath": "images/2100133379077194236-1.jpg",
+  "imagePaths": [
+    "images/2100133379077194236-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUsKRZXwAAgkqv",
+    "x-post:2100133379077194236"
+  ],
+  "analysis": {
+    "summary": "Autumn fashion collage of a curly-haired woman in a cream cardigan and slip dress on a Mediterranean patio.",
+    "summaryEn": "Autumn fashion collage of a curly-haired woman in a cream cardigan and slip dress on a Mediterranean patio.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached media is a multi-panel collage of a woman with curly hair wearing a cream knit cardigan, patterned slip dress, and tall boots on a terracotta patio with potted flowers, matching the prompt details."
+    },
+    "videoQuality": null,
+    "originalPrompt": "This stunning image collage captures a radiant woman with beautiful curly hair modeling a chic, textured cream cardigan layered over a silky, patterned slip dress, paired with elegant tall boots. Set against a sunlit Mediterranean-style patio adorned with terracotta pots and vibrant flowering plants, the composition beautifully blends cozy knitwear with effortless elegance. The mood is warm, joyful, and deeply inviting, making it a fantastic inspiration for transitional autumn fashion.",
+    "sourceRange": {
+      "start": 53,
+      "end": 543
+    },
+    "translations": {
+      "zh": "这张令人惊艳的图片拼贴捕捉了一位容光焕发、留着漂亮卷发的女子，她身穿别致的米白色纹理开衫，内搭丝滑印花吊带裙，配以优雅高筒靴。背景是阳光明媚的地中海风格露台，点缀着陶土花盆和盛开的花卉植物，构图将惬意针织衫与随性优雅融为一体。氛围温暖、欢快且引人入胜，为初秋过渡季穿搭提供了绝佳灵感。",
+      "en": "This stunning image collage captures a radiant woman with beautiful curly hair modeling a chic, textured cream cardigan layered over a silky, patterned slip dress, paired with elegant tall boots. Set against a sunlit Mediterranean-style patio adorned with terracotta pots and vibrant flowering plants, the composition beautifully blends cozy knitwear with effortless elegance. The mood is warm, joyful, and deeply inviting, making it a fantastic inspiration for transitional autumn fashion."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

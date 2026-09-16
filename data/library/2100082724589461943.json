@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T15:59:55.533Z",
+  "model": "unknown-image",
+  "prompt": "Use the attached photo as the only reference. Strictly preserve the appearance and hair 1:1: features, proportions, eyes, nose, lips, jawline, skin tone and natural skin texture — no idealization or stylization.\n\nUltra-photorealistic fashion photo in the style of Saint Laurent / Miu Miu, 4K. Stylish editorial bathroom: white tiles, black countertop with built-in sink, mirror and warm vertical light fixtures. Shot from mid-thigh to head, camera at eye level, model centered.\n\nThe girl is standing with her legs slightly apart and her hands on her hips. Cold, confident gaze, minimal emotion. Hair exactly as in the reference: the same color, density, texture and styling.\n\nShe is wearing a black oversized jacket with pronounced shoulders, a black shirt, a slightly loosened burgundy tie, a glossy fitted burgundy mini skirt and sheer black tights. Large black sunglasses, gold earrings. On the countertop — a small structured black bag.\n\nRed lips, defined brows, light contouring. Warm artificial light, soft shadows, cinematic glow and realistic reflections. No changes to the face, hair, clothing, lighting or props; no CGI or anatomical errors.",
+  "promptTranslations": {
+    "en": "Use the attached photo as the only reference. Strictly preserve the appearance and hair 1:1: features, proportions, eyes, nose, lips, jawline, skin tone and natural skin texture — no idealization or stylization.\\n\\nUltra-photorealistic fashion photo in the style of Saint Laurent / Miu Miu, 4K. Stylish editorial bathroom: white tiles, black countertop with built-in sink, mirror and warm vertical light fixtures. Shot from mid-thigh to head, camera at eye level, model centered.\\n\\nThe girl is standing with her legs slightly apart and her hands on her hips. Cold, confident gaze, minimal emotion. Hair exactly as in the reference: the same color, density, texture and styling.\\n\\nShe is wearing a black oversized jacket with pronounced shoulders, a black shirt, a slightly loosened burgundy tie, a glossy fitted burgundy mini skirt and sheer black tights. Large black sunglasses, gold earrings. On the countertop — a small structured black bag.\\n\\nRed lips, defined brows, light contouring. Warm artificial light, soft shadows, cinematic glow and realistic reflections. No changes to the face, hair, clothing, lighting or props; no CGI or anatomical errors."
+  },
+  "summaryTranslations": {
+    "en": "Editorial fashion portrait in a bathroom wearing an oversized jacket, burgundy tie, and glossy mini skirt."
+  },
+  "translationVersion": 2,
+  "summary": "Editorial fashion portrait in a bathroom wearing an oversized jacket, burgundy tie, and glossy mini skirt.",
+  "summaryEn": "Editorial fashion portrait in a bathroom wearing an oversized jacket, burgundy tie, and glossy mini skirt.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100082724589461943",
+    "canonicalUrl": "https://x.com/oye_samia/status/2100082724589461943",
+    "author": {
+      "username": "oye_samia",
+      "displayName": "Dr. Samia",
+      "profileUrl": "https://x.com/oye_samia"
+    },
+    "publishedAt": "2026-09-16T04:41:53.000Z",
+    "collectedAt": "2026-09-16T12:18:36.814Z",
+    "language": "en",
+    "originalText": "Ready for my meeting.\n\nPrompt: \nUse the attached photo as the only reference. Strictly preserve the appearance and hair 1:1: features, proportions, eyes, nose, lips, jawline, skin tone and natural skin texture — no idealization or stylization.\n\nUltra-photorealistic fashion photo in the style of Saint Laurent / Miu Miu, 4K. Stylish editorial bathroom: white tiles, black countertop with built-in sink, mirror and warm vertical light fixtures. Shot from mid-thigh to head, camera at eye level, model centered.\n\nThe girl is standing with her legs slightly apart and her hands on her hips. Cold, confident gaze, minimal emotion. Hair exactly as in the reference: the same color, density, texture and styling.\n\nShe is wearing a black oversized jacket with pronounced shoulders, a black shirt, a slightly loosened burgundy tie, a glossy fitted burgundy mini skirt and sheer black tights. Large black sunglasses, gold earrings. On the countertop — a small structured black bag.\n\nRed lips, defined brows, light contouring. Warm artificial light, soft shadows, cinematic glow and realistic reflections. No changes to the face, hair, clothing, lighting or props; no CGI or anatomical errors.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HST-GeDaIAAHMts.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HST-GeDaIAAHMts.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 93,
+      "repostCount": 12,
+      "replyCount": 67,
+      "quoteCount": 0,
+      "viewCount": 959
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/oye_samia/status/2100082724589461943",
+  "coverUrl": "https://pbs.twimg.com/media/HST-GeDaIAAHMts.jpg",
+  "coverPath": "images/2100082724589461943-1.jpg",
+  "imagePaths": [
+    "images/2100082724589461943-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HST-GeDaIAAHMts",
+    "x-post:2100082724589461943"
+  ],
+  "analysis": {
+    "summary": "Editorial fashion portrait in a bathroom wearing an oversized jacket, burgundy tie, and glossy mini skirt.",
+    "summaryEn": "Editorial fashion portrait in a bathroom wearing an oversized jacket, burgundy tie, and glossy mini skirt.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the image: woman in black jacket, loosened burgundy tie, burgundy glossy skirt, sunglasses, standing in a bathroom."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Use the attached photo as the only reference. Strictly preserve the appearance and hair 1:1: features, proportions, eyes, nose, lips, jawline, skin tone and natural skin texture — no idealization or stylization.\n\nUltra-photorealistic fashion photo in the style of Saint Laurent / Miu Miu, 4K. Stylish editorial bathroom: white tiles, black countertop with built-in sink, mirror and warm vertical light fixtures. Shot from mid-thigh to head, camera at eye level, model centered.\n\nThe girl is standing with her legs slightly apart and her hands on her hips. Cold, confident gaze, minimal emotion. Hair exactly as in the reference: the same color, density, texture and styling.\n\nShe is wearing a black oversized jacket with pronounced shoulders, a black shirt, a slightly loosened burgundy tie, a glossy fitted burgundy mini skirt and sheer black tights. Large black sunglasses, gold earrings. On the countertop — a small structured black bag.\n\nRed lips, defined brows, light contouring. Warm artificial light, soft shadows, cinematic glow and realistic reflections. No changes to the face, hair, clothing, lighting or props; no CGI or anatomical errors.",
+    "sourceRange": {
+      "start": 32,
+      "end": 1183
+    },
+    "translations": {
+      "zh": "将附带的照片作为唯一参考。严格1:1保留外观和发型：五官、比例、眼睛、鼻子、嘴唇、下颌线、肤色及自然皮肤纹理——不进行理想化或风格化。\n\n圣罗兰/Miu Miu风格的超写实时尚大片，4K。时尚社论风浴室：白色瓷砖、带嵌入式水槽的黑色台面、镜子与暖色垂直灯具。大腿中部到头部的构图，视平线机位，模特居中。\n\n女孩双腿微开站立，双手叉腰。冷冽、自信的眼神，极少情绪流露。发型与参考图完全一致：相同的发色、发量、质感与造型。\n\n她身穿黑色垫肩廓形夹克、黑色衬衫、微松的酒红色领带、光泽修身的酒红色超短裙和黑色透肤丝袜。大号黑色太阳镜，金色耳环。台面上放着一个小巧有型的黑色包包。\n\n红唇，清晰利落的眉毛，轻度修容。暖色人造光、柔和阴影、电影感光泽与逼真倒影。面部、发型、服装、光线或道具保持原样，无CGI感或解剖学错误。",
+      "en": "Use the attached photo as the only reference. Strictly preserve the appearance and hair 1:1: features, proportions, eyes, nose, lips, jawline, skin tone and natural skin texture — no idealization or stylization.\n\nUltra-photorealistic fashion photo in the style of Saint Laurent / Miu Miu, 4K. Stylish editorial bathroom: white tiles, black countertop with built-in sink, mirror and warm vertical light fixtures. Shot from mid-thigh to head, camera at eye level, model centered.\n\nThe girl is standing with her legs slightly apart and her hands on her hips. Cold, confident gaze, minimal emotion. Hair exactly as in the reference: the same color, density, texture and styling.\n\nShe is wearing a black oversized jacket with pronounced shoulders, a black shirt, a slightly loosened burgundy tie, a glossy fitted burgundy mini skirt and sheer black tights. Large black sunglasses, gold earrings. On the countertop — a small structured black bag.\n\nRed lips, defined brows, light contouring. Warm artificial light, soft shadows, cinematic glow and realistic reflections. No changes to the face, hair, clothing, lighting or props; no CGI or anatomical errors."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "editorial portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Saint Laurent",
+        "Miu Miu"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

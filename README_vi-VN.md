@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**214** Prompt · Bổ sung mới nhất: **2026-09-16**
+**223** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,69 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Nhiếp ảnh
 
-<a name="prompt-2100136938921685221"></a>
+<a name="prompt-2100153971088482321"></a>
 
 ### Đang dịch
+
+Tác giả：[@Gdgtify](https://x.com/Gdgtify) · [Bài gốc](https://x.com/Gdgtify/status/2100153971088482321)
+
+Nhiếp ảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100153971088482321.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100190479287742842"></a>
+
+### Đang dịch
+
+Tác giả：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2100190479287742842)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2100157493871575452)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100190479287742842-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100190479287742842-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100190479287742842-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100190479287742842-4.jpg" alt="Hình ảnh 4" width="480" />
+
+<img src="images/2100190479287742842-5.jpg" alt="Hình ảnh 5" width="480" />
+
+<img src="images/2100190479287742842-6.jpg" alt="Hình ảnh 6" width="480" />
+
+<img src="images/2100190479287742842-7.jpg" alt="Hình ảnh 7" width="480" />
+
+<img src="images/2100190479287742842-8.jpg" alt="Hình ảnh 8" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100136938921685221"></a>
+
+### nhiếp ảnh đời sống ban đêm chân thực tự nhiên, phòng KTV kinh doanh riêng tư sang trọng, nhân vật chính là phụ nữ Đông Á trưởng thành ở độ tuổi 20 cùng micro.
 
 Tác giả：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2100136938921685221)
 
@@ -43,7 +103,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 Bài gốc：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2099767415332872435)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** nhiếp ảnh đời sống ban đêm chân thực tự nhiên, phòng KTV kinh doanh riêng tư sang trọng, nhân vật chính là phụ nữ Đông Á trưởng thành ở độ tuổi 20 cùng micro.
 
 <img src="images/2100136938921685221-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -64,7 +124,7 @@ Bài gốc：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/b
 **Câu lệnh**
 
 ```text
-Đang dịch
+nhiếp ảnh đời sống ban đêm chân thực tự nhiên, phòng KTV kinh doanh riêng tư sang trọng, nội thất tông đen và vàng ánh kim, ghế sofa da, các chai rượu whisky, ly thủy tinh, đĩa trái cây, đồ ăn vặt, micro, màn hình karaoke, ánh sáng môi trường vàng ấm hòa lẫn ánh neon xanh dương và tím, nhân vật chính là phụ nữ Đông Á trưởng thành ở độ tuổi 20, váy dạ tiệc sành điệu, trang điểm tự nhiên tinh tế, kết cấu da chân thực, các khách hàng nam giới trưởng thành khoảng 30-45 tuổi mặc trang phục thường nhật công sở, vóc dáng từ bình thường đến hơi đậm người, khách nam là nhân vật phụ, đang chơi trò đoán tên bài hát trong khi cầm micro và háo hức trả lời, nhiếp ảnh tài liệu đời sống ban đêm tự phát, khoảnh khắc chụp lén tự nhiên, biểu cảm chân thực, đèn flash chiếu thẳng, nhòe chuyển động nhẹ, bố cục không hoàn hảo, phong cách ảnh chụp nhanh của iPhone và máy ảnh kỹ thuật số đời đầu
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2908,6 +2968,28 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 ## Anime / Manga
 
+<a name="prompt-2099903953693708742"></a>
+
+### Đang dịch
+
+Tác giả：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Bài gốc](https://x.com/AUrbNUMjfxj85IS/status/2099903953693708742)
+
+Anime / Manga · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099903953693708742-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099566382471909568"></a>
 
 ### Prompt để biến ảnh cá nhân thành thẻ Pokémon TCG toàn phần phong cách anime bên cạnh một Pokémon.
@@ -3076,6 +3158,34 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 <a name="category-illustration"></a>
 
 ## Minh họa
+
+<a name="prompt-2100164379128021284"></a>
+
+### Đang dịch
+
+Tác giả：[@AIDream\_Project](https://x.com/AIDream_Project) · [Bài gốc](https://x.com/AIDream_Project/status/2100164379128021284)
+
+Thiết kế ứng dụng / web · Minh họa · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100164379128021284-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100164379128021284-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100164379128021284-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100164379128021284-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099269832827187204"></a>
 
@@ -3571,13 +3681,13 @@ Chuyển đổi bức ảnh du lịch kiến trúc thế giới đầu vào thà
 
 <a name="prompt-2100100687946203533"></a>
 
-### Đang dịch
+### Chuyển ảnh du lịch thành thiết kế bưu thiếp với ảnh gốc ở nửa trên, khoảng trắng xé giấy ở nửa dưới kết hợp hình minh họa in lưới và con dấu bưu điện cổ điển.
 
 Tác giả：[@TodayKan](https://x.com/TodayKan) · [Bài gốc](https://x.com/TodayKan/status/2100100687946203533)
 
 Minh họa · Cổ điển / Cổ điển · Văn bản / Kiểu chữ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chuyển ảnh du lịch thành thiết kế bưu thiếp với ảnh gốc ở nửa trên, khoảng trắng xé giấy ở nửa dưới kết hợp hình minh họa in lưới và con dấu bưu điện cổ điển.
 
 <img src="images/2100100687946203533-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3590,7 +3700,7 @@ Minh họa · Cổ điển / Cổ điển · Văn bản / Kiểu chữ · Đã x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chuyển đổi bức ảnh tham khảo thành một bưu thiếp nghệ thuật khổ dọc 3:4. Nửa trên chiếm khoảng 55% chiều cao khung hình, giữ nguyên vẹn bức ảnh gốc nhằm làm nổi bật đặc điểm của chủ thể và bầu không khí thực tế. Cạnh dưới của ảnh có viền xé giấy thủ công tự nhiên, không đều và thấy rõ các sợi giấy. Bên dưới mép giấy xé để lại khoảng trắng màu trắng ngà, phân tách hoàn toàn bức ảnh gốc với hình minh họa bên dưới. Tại khoảng trắng này, sử dụng phông chữ máy đánh chữ cổ điển cỡ nhỏ để ghi tên nội dung chủ thể được nhận diện. Nửa dưới vẽ một hình minh họa nhỏ gọn không viền dựa trên chủ thể của bức ảnh, giữ lại đường nét nhận diện đặc trưng, giản lược chi tiết vừa phải, thể hiện chất cảm in lưới (silkscreen), độ nhiễu nhẹ và hiệu ứng in ấn lo-fi, màu sắc được trích xuất từ bức ảnh và giới hạn trong 2-4 màu sắc trầm, giảm độ bão hòa. Hình minh họa chiếm một nửa chiều cao của phần dưới, xung quanh chừa nhiều khoảng trắng. Ở mép xé giấy bên phải khung hình, thêm một con dấu bưu điện hình tròn màu xanh đen mờ nhạt, hơi sờn rách, in ngay tại điểm giao thoa giữa hai phần trên và dưới. Phía dưới cùng sử dụng định dạng chung để chú thích: 地点 · PLACE 日期 · DATE. Tổng thể mang lại cảm giác ấm áp của chất liệu giấy cũ, khoảng trắng dồi dào cùng phong cách biên tập tạp chí cao cấp và tinh tế. Không thêm tem thư, tọa độ, khung viền ngoài, mockup 3D, bóng đổ đậm, góc cuộn, con dấu bổ sung, văn bản lặp lại hoặc hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3599,13 +3709,13 @@ Minh họa · Cổ điển / Cổ điển · Văn bản / Kiểu chữ · Đã x
 
 <a name="prompt-2100124265752449144"></a>
 
-### Đang dịch
+### Một bức ảnh phim 35mm chụp tự nhiên dưới ánh nắng lung linh về một người phụ nữ châu Á vui vẻ đang tinh nghịch đạp chiếc xe đạp cổ điển trong vườn.
 
 Tác giả：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2100124265752449144)
 
 Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một bức ảnh phim 35mm chụp tự nhiên dưới ánh nắng lung linh về một người phụ nữ châu Á vui vẻ đang tinh nghịch đạp chiếc xe đạp cổ điển trong vườn.
 
 <img src="images/2100124265752449144-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3614,7 +3724,7 @@ Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp �
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức ảnh phim 35mm chụp tự nhiên dưới ánh nắng lung linh ghi lại hình ảnh một người phụ nữ châu Á vui vẻ với mái tóc bob màu tối. Cô đang tinh nghịch giữ thăng bằng trên một chiếc xe đạp cổ điển trong khu vườn xanh tươi, với hai chân giạng rộng sang hai bên. Cô mặc một bộ trang phục nhiều lớp: một chiếc áo sơ mi dài tay màu đỏ san hô tươi sáng bên dưới chiếc váy yếm hoa màu hồng nhạt (kiểu pinafore). Cô mang tất trắng đến mắt cá chân kết hợp với đôi giày da oxford màu đen cổ điển. Chiếc xe đạp cổ điển có một giỏ mây đan trên ghi-đông. Ở hậu cảnh, có một nhà kho bằng gỗ màu trắng ngà đầy quyến rũ, nhuốm màu thời gian với nhiều ô kính và một nhà kho mái xanh đậm lộ ra một phần giữa những tán cây. Bức ảnh mang hạt phim mềm mại, hoài niệm và ánh sáng mùa hè tự nhiên. Sử dụng bức ảnh đã tải lên làm tài liệu tham khảo danh tính khuôn mặt cho một phụ nữ trưởng thành. Giữ nguyên các đường nét khuôn mặt dễ nhận biết, tông màu da tự nhiên, tỷ lệ khuôn mặt và diện mạo tổng thể của cô ấy. Đặt tỷ lệ khung hình thành 3:4
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4141,15 +4251,131 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2100088288304664844"></a>
+<a name="prompt-2100133379077194236"></a>
 
 ### Đang dịch
+
+Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2100133379077194236)
+
+Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100133379077194236-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100082724589461943"></a>
+
+### Đang dịch
+
+Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2100082724589461943)
+
+Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100082724589461943-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100152050525110632"></a>
+
+### Đang dịch
+
+Tác giả：[@AI\_Kei75](https://x.com/AI_Kei75) · [Bài gốc](https://x.com/AI_Kei75/status/2100152050525110632)
+
+Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100152050525110632-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100169070259863658"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2100169070259863658)
+
+Áp phích / Tờ rơi · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100169070259863658-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100169070259863658-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100169070259863658-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100169070259863658-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100180395635454153"></a>
+
+### Đang dịch
+
+Tác giả：[@3three\_AI](https://x.com/3three_AI) · [Bài gốc](https://x.com/3three_AI/status/2100180395635454153)
+
+Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100180395635454153-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100088288304664844"></a>
+
+### Người phụ nữ trẻ làm thêm giờ đêm khuya bên bàn làm việc, mặc áo khoác măng tô, khắp người và xung quanh dán đầy giấy nhớ nhiều màu sắc, cầm đồ uống nóng.
 
 Tác giả：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2100088288304664844)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Người phụ nữ trẻ làm thêm giờ đêm khuya bên bàn làm việc, mặc áo khoác măng tô, khắp người và xung quanh dán đầy giấy nhớ nhiều màu sắc, cầm đồ uống nóng.
 
 <img src="images/2100088288304664844-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -4158,7 +4384,7 @@ Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống ·
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một phụ nữ trẻ căng thẳng, làm việc quá sức đang ngồi tại chiếc bàn gỗ bừa bộn và thức khuya làm việc bên máy tính xách tay. Cô có mái tóc màu nâu sáng búi cao củ tỏi rối bù, đeo kính gọng tròn kim loại mỏng màu đen, đang uống từ một chiếc cốc gốm màu trắng với làn hơi nóng bốc lên cuộn xoáy rõ rệt. Cô mặc một chiếc áo khoác măng tô dáng rộng màu be phủ đầy những tờ giấy ghi chú nhiều màu sắc (vàng pastel, xanh da trời nhạt, hồng phấn). Thêm nhiều mẩu giấy ghi chú viết tay được dán lên mặt, trán, tóc và mặt sau màn hình máy tính xách tay của cô. Đèn bàn hắt ánh sáng cạnh ấm áp, đầy kịch tính; hậu cảnh là một văn phòng tại nhà mờ ảo êm dịu, giàu tâm trạng với giá sách và chậu cây. Đậm chất điện ảnh, ảnh chụp 35mm, cực kỳ chi tiết, độ sâu trường ảnh nông, chân dung tự nhiên chân thật, thẩm mỹ ấm cúng nhưng hỗn độn. Sử dụng bức ảnh đã tải lên làm tài liệu tham khảo danh tính khuôn mặt cho một người phụ nữ trưởng thành. Giữ nguyên các đường nét khuôn mặt có thể nhận biết, tông màu da tự nhiên, tỷ lệ khuôn mặt và diện mạo tổng thể. Đặt tỷ lệ khung hình thành 3:4
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**214** Prompts · Latest addition: **2026-09-16**
+**223** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,81 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100153971088482321"></a>
+
+### Structured prompt template for doorbell infrared night vision surveillance footage, designed to generate videos of uncanny visitors.
+
+Author：[@Gdgtify](https://x.com/Gdgtify) · [Source](https://x.com/Gdgtify/status/2100153971088482321)
+
+Photography · Published
+
+**Summary:** Structured prompt template for doorbell infrared night vision surveillance footage, designed to generate videos of uncanny visitors.
+
+<img src="covers/2100153971088482321.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+INPUT: $ SUBJECT              // cryptid, unclassified figure, something wrong at the door
+VISITOR   = infer_subject($ SUBJECT)        // scale vs doorframe, posture, awareness of lens
+BEHAVIOR  = infer_mundane_act($ SUBJECT)    // it is doing something ORDINARY — trash, doorknob, package
+PORCH     = infer_porch($ SUBJECT)          // real siding, mat, planter, hose, peeling paint
+NIGHT     = infer_ir_night($ SUBJECT)       // IR emitters on, monochrome, no color info
+BLOWOUT   = infer_ir_falloff($ SUBJECT)     // near subject blown white, background crushed black
+LENS      = infer_fisheye($ SUBJECT)        // heavy barrel warp, corners stretched
+MOUNT     = infer_camera_height($ SUBJECT)  // ~4ft, fixed, slightly off-level
+CROP      = infer_motion_trigger($ SUBJECT) // subject partly out of frame — cut off, entering
+OVERLAY   = infer_hud($ SUBJECT)            // timestamp, device name, battery icon, small font
+FLAWS     = infer_flaws($ SUBJECT)          // low bitrate smear, IR noise, compression blocks
+Φ = ir_falloff(emitter) + barrel_warp(LENS)
+MOTION: subject enters frame at edge → pauses → head turns toward lens → holds 2s → exits.
+No camera movement, fixed mount.
+Compose: fixed doorbell camera, IR night mode, monochrome, subject overexposed and
+partially cropped, timestamp overlay, heavy compression. Photoreal, 4:3 or 16:9.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100190479287742842"></a>
+
+### Japanese-style realistic campus portrait capturing a young woman in a blue and white school uniform sports jacket making a goofy eye-rolling expression.
+
+Author：[@boniusex](https://x.com/boniusex) · [Source](https://x.com/boniusex/status/2100190479287742842)
+
+Photography · Portrait / Selfie · Character · Published
+
+Source：[@boniusex](https://x.com/boniusex) · [Source](https://x.com/boniusex/status/2100157493871575452)
+
+**Summary:** Japanese-style realistic campus portrait capturing a young woman in a blue and white school uniform sports jacket making a goofy eye-rolling expression.
+
+<img src="images/2100190479287742842-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100190479287742842-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100190479287742842-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100190479287742842-4.jpg" alt="Image 4" width="480" />
+
+<img src="images/2100190479287742842-5.jpg" alt="Image 5" width="480" />
+
+<img src="images/2100190479287742842-6.jpg" alt="Image 6" width="480" />
+
+<img src="images/2100190479287742842-7.jpg" alt="Image 7" width="480" />
+
+<img src="images/2100190479287742842-8.jpg" alt="Image 8" width="480" />
+
+**Prompt**
+
+```text
+Realistic campus portrait photography, an adult East Asian woman in her 20s, long black hair naturally flowing down, hair strands tousled by a gentle breeze, clear light makeup, fair natural skin, soft pink blush, hydrated pink lips, large eyes looking slightly upward, with a playful, innocent, slightly impatient funny expression.\n\nWearing a blue and white campus sports jacket over a fitted white crewneck T-shirt, carrying a black backpack over one shoulder, with one hand naturally grasping the shoulder strap. The subject stands beside a campus basketball court, with a basketball hoop, school buildings, trees, and several blurred students in the background, bright sunlight, afternoon backlight shining from behind her hair, forming delicate rim light on hair strands.\n\nClose-up half-body composition, 35mm lens, the subject occupying most of the frame, subtle wide-angle perspective, shallow depth of field, softly blurred background, Japanese youth portrait style, iPhone candid photo texture, soft highlights, slight film grain, natural skin texture, realistic hair strand details, fresh blue and white color palette, warm sunlight, candid lifestyle snapshot, photorealistic, candid campus portrait, soft backlight, shallow depth of field, natural skin texture, realistic hair strands
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100136938921685221"></a>
 
@@ -3614,6 +3689,28 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 
 ## Anime / Manga
 
+<a name="prompt-2099903953693708742"></a>
+
+### A 2D character generation prompt depicting blonde-haired Kyotaro Suga and blue-haired Sumire Hirose.
+
+Author：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Source](https://x.com/AUrbNUMjfxj85IS/status/2099903953693708742)
+
+Anime / Manga · Character · Published
+
+**Summary:** A 2D character generation prompt depicting blonde-haired Kyotaro Suga and blue-haired Sumire Hirose.
+
+<img src="images/2099903953693708742-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Kyotaro Suga and Sumire Hirose, blonde hair and blue hair
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2099566382471909568"></a>
 
 ### Prompt to convert a personal photo into a full-art anime-style Pokémon TCG card alongside a Pokémon.
@@ -3772,6 +3869,34 @@ Comic / Storyboard · Anime / Manga · Published
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2100164379128021284"></a>
+
+### Prompt for generating an illustration in the style of a live stream screen.
+
+Author：[@AIDream\_Project](https://x.com/AIDream_Project) · [Source](https://x.com/AIDream_Project/status/2100164379128021284)
+
+App / Web Design · Illustration · Published
+
+**Summary:** Prompt for generating an illustration in the style of a live stream screen.
+
+<img src="images/2100164379128021284-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100164379128021284-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100164379128021284-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100164379128021284-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+A smartphone screen that looks like a live stream is taking place.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099269832827187204"></a>
 
@@ -5038,6 +5163,148 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100133379077194236"></a>
+
+### Autumn fashion collage of a curly-haired woman in a cream cardigan and slip dress on a Mediterranean patio.
+
+Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2100133379077194236)
+
+Character · Fashion Item · Published
+
+**Summary:** Autumn fashion collage of a curly-haired woman in a cream cardigan and slip dress on a Mediterranean patio.
+
+<img src="images/2100133379077194236-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+This stunning image collage captures a radiant woman with beautiful curly hair modeling a chic, textured cream cardigan layered over a silky, patterned slip dress, paired with elegant tall boots. Set against a sunlit Mediterranean-style patio adorned with terracotta pots and vibrant flowering plants, the composition beautifully blends cozy knitwear with effortless elegance. The mood is warm, joyful, and deeply inviting, making it a fantastic inspiration for transitional autumn fashion.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100082724589461943"></a>
+
+### Editorial fashion portrait in a bathroom wearing an oversized jacket, burgundy tie, and glossy mini skirt.
+
+Author：[@oye\_samia](https://x.com/oye_samia) · [Source](https://x.com/oye_samia/status/2100082724589461943)
+
+Portrait / Selfie · Fashion Item · Published
+
+**Summary:** Editorial fashion portrait in a bathroom wearing an oversized jacket, burgundy tie, and glossy mini skirt.
+
+<img src="images/2100082724589461943-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use the attached photo as the only reference. Strictly preserve the appearance and hair 1:1: features, proportions, eyes, nose, lips, jawline, skin tone and natural skin texture — no idealization or stylization.\n\nUltra-photorealistic fashion photo in the style of Saint Laurent / Miu Miu, 4K. Stylish editorial bathroom: white tiles, black countertop with built-in sink, mirror and warm vertical light fixtures. Shot from mid-thigh to head, camera at eye level, model centered.\n\nThe girl is standing with her legs slightly apart and her hands on her hips. Cold, confident gaze, minimal emotion. Hair exactly as in the reference: the same color, density, texture and styling.\n\nShe is wearing a black oversized jacket with pronounced shoulders, a black shirt, a slightly loosened burgundy tie, a glossy fitted burgundy mini skirt and sheer black tights. Large black sunglasses, gold earrings. On the countertop — a small structured black bag.\n\nRed lips, defined brows, light contouring. Warm artificial light, soft shadows, cinematic glow and realistic reflections. No changes to the face, hair, clothing, lighting or props; no CGI or anatomical errors.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100152050525110632"></a>
+
+### Moe-sleeve gyaru school uniform outfit with an oversized light green cardigan, loose bowtie, pleated miniskirt, and loose socks.
+
+Author：[@AI\_Kei75](https://x.com/AI_Kei75) · [Source](https://x.com/AI_Kei75/status/2100152050525110632)
+
+Fashion Item · Published
+
+**Summary:** Moe-sleeve gyaru school uniform outfit with an oversized light green cardigan, loose bowtie, pleated miniskirt, and loose socks.
+
+<img src="images/2100152050525110632-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+white choker, oversized light green cardigan, long sleeves, (sleeves past fingers), yellow button, shirt under clothes, shirt under sweater, white collared shirt, (collarbone), loose bowtie, light yellow bowtie, (light yellow pleated skirt), miniskirt, light yellow skirt, white loose socks, brown loafers,
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100169070259863658"></a>
+
+### Prompt for converting natural landscape photos into a top-and-bottom comparison style gold foil etching print poster.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2100169070259863658)
+
+Poster / Flyer · Landscape / Nature · Published
+
+**Summary:** Prompt for converting natural landscape photos into a top-and-bottom comparison style gold foil etching print poster.
+
+<img src="images/2100169070259863658-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100169070259863658-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100169070259863658-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100169070259863658-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a vertical top-and-bottom comparison travel poster. The upper half completely preserves the input real natural landscape travel photo, maintaining the original composition and authentic details of mountains, coasts, forests, canyons, lakes, clouds, or other main subjects; separated by a thin white line in the middle. The lower half recreates the same scene as a mysterious, epic gold foil etching print on deep indigo or black paper: centered around the original image's most recognizable natural contours, using heavy handmade etched linework, metallic gold-copper foil outlines, and icy blue, violet-white, or warm golden light; clouds and mist, tree canopies, rock strata, ocean waves, and mountain mass are rendered with swirling decorative patterns, dense cross-hatching, and granular textures. Select lightning, sunlight, moonlight, misty glow, or water reflections based on the original image as the visual focal point, without forcefully adding non-existent elements. Preserve the subject relationships and natural topography of the original image, compressed into a dramatic printmaking composition. Full-image filters, arbitrarily adding characters or buildings, text, logos, watermarks, signatures, and any corner badges are forbidden.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100180395635454153"></a>
+
+### 3x3 grid smartphone photo collage of candid work moments of a Chinese female train attendant on a modern train.
+
+Author：[@3three\_AI](https://x.com/3three_AI) · [Source](https://x.com/3three_AI/status/2100180395635454153)
+
+Vehicle · Published
+
+**Summary:** 3x3 grid smartphone photo collage of candid work moments of a Chinese female train attendant on a modern train.
+
+<img src="images/2100180395635454153-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hyperrealistic casual smartphone photo collage, vertical 3:4, consisting of 9 separate candid snapshots arranged in a neat 3×3 grid, capturing moments of a Chinese female train attendant during a normal workday on a modern passenger train.
+
+Maintain the same woman, same facial features, same hairstyle, same overall appearance, and same uniform across every panel. She has dark brown hair neatly tied in a low bun, delicate natural features, light makeup, and a youthful appearance.
+
+She wears a professional dark navy train attendant uniform including a tailored blazer or elegant uniform skirt, a red-and-blue patterned neck scarf, a small gold name tag, dark tights, and simple professional shoes. Her look is polished yet natural.
+
+Panel 1: An accidental close-up smartphone selfie inside the train vestibule, with a finger partially covering the lens, slightly blurry and imperfect, with train doors and safety signs visible behind her.
+
+Panel 2: A candid full-body shot of her rolling a small black roller suitcase down the narrow train aisle, slight motion blur, with passengers and rows of seats softly visible in the background.
+
+Panel 3: A close-up selfie from a window train seat, bright natural sunlight entering through the glass, slightly overexposing part of her face, relaxed expression, and casual framing.
+
+Panel 4: A candid rear-side view of her standing in the train carriage reaching toward an overhead luggage rack, showing her neat low bun, uniform silhouette, and professional posture.
+
+Panel 5: An ultra close-up candid selfie with her face filling most of the frame, a few stray hairs across her face, soft focus, slightly imperfect smartphone exposure, playful natural expression.
+
+Panel 6: A seated candid selfie inside the train, laughing with one hand covering her mouth, wearing a minimalist wristwatch, warm carriage lighting, genuine spontaneous moment.
+
+Panel 7: A close-up side-profile selfie leaning against a large train window, railway tracks, platform, and another train visible outside, natural daylight, slightly cropped face, and realistic reflections on the glass.
+
+Panel 8: A candid back view of her walking down the train carriage toward another car, slight motion blur, overhead luggage racks, seats, doors, and realistic train interior details visible.
+
+Panel 9: An accidental close-up selfie in the train vestibule, finger partially obscuring the camera lens, playfully imperfect composition, realistic train door controls and safety equipment visible behind her.
+
+Overall collage should feel like real personal smartphone memories from a train attendant's workday, not professional photography. Use inconsistent framing, slight motion blur, accidental cropping, gentle lens distortion, subtle exposure variations, realistic carriage lighting, soft focus, natural skin textures, genuine facial expressions, and small photographic imperfections.
+
+No polished studio look, no artificial beauty filters, no plastic-like skin, no CGI appearance. Raw everyday smartphone photography, authentic behind-the-scenes train attendant photo diary, realistic modern passenger train interior, spontaneous candid moments, consistent character identity across all 9 panels, thin white dividing borders between panels, neat 3×3 grid, vertical 3:4 aspect ratio
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100088288304664844"></a>
 

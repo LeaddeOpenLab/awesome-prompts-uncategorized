@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**214** Prompt · Son eklenen: **2026-09-16**
+**223** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,69 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Fotoğrafçılık
 
-<a name="prompt-2100136938921685221"></a>
+<a name="prompt-2100153971088482321"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@Gdgtify](https://x.com/Gdgtify) · [Orijinal gönderi](https://x.com/Gdgtify/status/2100153971088482321)
+
+Fotoğrafçılık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100153971088482321.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100190479287742842"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100190479287742842)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100157493871575452)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100190479287742842-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100190479287742842-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100190479287742842-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100190479287742842-4.jpg" alt="Görsel 4" width="480" />
+
+<img src="images/2100190479287742842-5.jpg" alt="Görsel 5" width="480" />
+
+<img src="images/2100190479287742842-6.jpg" alt="Görsel 6" width="480" />
+
+<img src="images/2100190479287742842-7.jpg" alt="Görsel 7" width="480" />
+
+<img src="images/2100190479287742842-8.jpg" alt="Görsel 8" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100136938921685221"></a>
+
+### fotogerçekçi samimi gece hayatı fotoğrafçılığı, lüks özel iş KTV odası, mikrofonlu ana özne olarak 20'li yaşlarında yetişkin Doğu Asyalı kadın.
 
 Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100136938921685221)
 
@@ -43,7 +103,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2099767415332872435)
 
-**Özet:** Çeviri sürüyor
+**Özet:** fotogerçekçi samimi gece hayatı fotoğrafçılığı, lüks özel iş KTV odası, mikrofonlu ana özne olarak 20'li yaşlarında yetişkin Doğu Asyalı kadın.
 
 <img src="images/2100136938921685221-1.jpg" alt="Görsel 1" width="480" />
 
@@ -64,7 +124,7 @@ Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+fotogerçekçi samimi gece hayatı fotoğrafçılığı, lüks özel iş KTV odası, siyah ve altın rengi iç mekân, deri kanepeler, viski şişeleri, bardaklar, meyve tabakları, atıştırmalıklar, mikrofonlar, karaoke ekranı, mavi ve mor neonla karışık sıcak altın rengi ortam ışığı, ana özne olarak 20'li yaşlarında yetişkin Doğu Asyalı kadın, şık gece hayatı elbisesi, doğal zarif makyaj, gerçekçi cilt dokusu, iş amaçlı gündelik kıyafetler giyen yaklaşık 30-45 yaşlarında yetişkin erkek müşteriler, normal ila hafif yapılı cüsseler, erkek misafirler yan karakterler, mikrofon tutarak ve hevesle cevap vererek şarkı tahmin etme oyunu oynuyorlar, spontane gece hayatı belgesel fotoğrafçılığı, doğal an, gerçekçi ifadeler, doğrudan flaş, hafif hareket bulanıklığı, kusurlu kadraj, iPhone ve erken dönem dijital fotoğraf makinesi anlık görüntü estetiği
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2890,6 +2950,28 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 ## Anime / Manga
 
+<a name="prompt-2099903953693708742"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Orijinal gönderi](https://x.com/AUrbNUMjfxj85IS/status/2099903953693708742)
+
+Anime / Manga · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099903953693708742-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099566382471909568"></a>
 
 ### Kişisel bir fotoğrafı bir Pokémon eşliğinde anime tarzı tam sanat Pokémon TCG kartına dönüştürme promptu.
@@ -3058,6 +3140,34 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 <a name="category-illustration"></a>
 
 ## İllüstrasyon
+
+<a name="prompt-2100164379128021284"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AIDream\_Project](https://x.com/AIDream_Project) · [Orijinal gönderi](https://x.com/AIDream_Project/status/2100164379128021284)
+
+Uygulama / Web Tasarımı · İllüstrasyon · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100164379128021284-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100164379128021284-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100164379128021284-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100164379128021284-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099269832827187204"></a>
 
@@ -3553,13 +3663,13 @@ Girdi olarak verilen dünya mimarisi seyahat fotoğrafını dikey formatta bir a
 
 <a name="prompt-2100100687946203533"></a>
 
-### Çeviri sürüyor
+### Seyahat fotoğrafını üstte orijinal resim, altta yırtık kağıt boşluğu, serigrafi illüstrasyon ve vintage posta damgası içeren bir kartpostal tasarımına dönüştürme.
 
 Yazar：[@TodayKan](https://x.com/TodayKan) · [Orijinal gönderi](https://x.com/TodayKan/status/2100100687946203533)
 
 İllüstrasyon · Retro / Vintage · Metin / Tipografi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Seyahat fotoğrafını üstte orijinal resim, altta yırtık kağıt boşluğu, serigrafi illüstrasyon ve vintage posta damgası içeren bir kartpostal tasarımına dönüştürme.
 
 <img src="images/2100100687946203533-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3572,7 +3682,7 @@ Yazar：[@TodayKan](https://x.com/TodayKan) · [Orijinal gönderi](https://x.com
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referans fotoğrafı 3:4 dikey formatta sanatsal bir kartpostala dönüştürün. Üst kısım, ana nesnenin özelliklerini ve ortamın atmosferini vurgulayacak şekilde orijinal fotoğrafı tamamen korur ve görsel yüksekliğinin yaklaşık %55'ini kaplar. Fotoğrafın alt kenarında, belirgin kağıt liflerine sahip, doğal ve düzensiz el ile yırtılmış bir kenar efekti bulunur. Yırtık kenarın altında, orijinal fotoğrafı alttaki illüstrasyondan tamamen ayıran fildişi beyazı bir boşluk bırakılır. Boşluk alanında, tanımlanan ana nesnenin adı için küçük boyutlu vintage daktilo yazı tipi kullanılır. Alt kısımda, fotoğraftaki ana nesneye dayalı, ayırt edici hatları koruyan, detayları ölçülü şekilde basitleştirilmiş, serigrafi baskı dokusu, hafif gren ve lo-fi baskı efekti sunan çerçevesiz küçük bir illüstrasyon yer alır; renk paleti fotoğraftan çıkarılmış ve 2-4 adet ölçülü, doygunluğu düşük renkle sınırlandırılmıştır. İllüstrasyon, alt kısmın yüksekliğinin yarısını kaplar ve etrafında bolca boşluk bırakılır. Görselin sağ tarafındaki yırtık kenar üzerinde, tam üst ve alt kısımların kesiştiği noktaya basılmış, sade ve aşınmış mavi-siyah dairesel bir posta damgası eklenir. En altta genel biçimle şu bilgiler belirtilir: 地点 · PLACE 日期 · DATE. Genel görünüm sıcak eski kağıt dokusu, bol boş alan ve ölçülü, kaliteli bir dergi editoryal stili sunmalıdır. Posta pulu, koordinatlar, dış çerçeve, 3B maket, ağır gölgeler, kıvrık köşeler, ekstra mühürler, yinelenen metinler veya filigran eklemeyin.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3581,13 +3691,13 @@ Yazar：[@TodayKan](https://x.com/TodayKan) · [Orijinal gönderi](https://x.com
 
 <a name="prompt-2100124265752449144"></a>
 
-### Çeviri sürüyor
+### Neşeli bir Asyalı kadının bahçede klasik bir bisiklete oyuncu bir tavırla bindiği, güneş ışığı benekli, samimi bir 35mm film fotoğrafı.
 
 Yazar：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2100124265752449144)
 
 Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Neşeli bir Asyalı kadının bahçede klasik bir bisiklete oyuncu bir tavırla bindiği, güneş ışığı benekli, samimi bir 35mm film fotoğrafı.
 
 <img src="images/2100124265752449144-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3596,7 +3706,7 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Yayımlan
 **İstem**
 
 ```text
-Çeviri sürüyor
+Koyu renkli küt saç kesimine sahip, neşeli bir Asyalı kadının güneş ışığı benekli, samimi bir 35mm film fotoğrafı. Yemyeşil bir bahçede, her iki bacağı da yanlara doğru açılmış halde klasik bir bisikletin üzerinde oyuncu bir tavırla dengede duruyor. Katmanlı bir kıyafet giymiş: soluk pembe çiçekli bir jilenin (salopet tarzı) altına parlak mercan kırmızısı uzun kollu bir gömlek. Klasik siyah deri oxford ayakkabılarla eşleştirilmiş beyaz bilek çorapları var. Klasik bisikletin gidonunda örgü bir hasır sepet bulunuyor. Arka planda, çok sayıda cam paneli olan büyüleyici, yıpranmış kirli beyaz ahşap bir kulübe ve ağaçlar arasında kısmen görünen koyu yeşil çatılı bir kulübe yer alıyor. Görüntü nostaljik, yumuşak bir gren dokusuna ve doğal yaz aydınlatmasına sahip. Yetişkin bir kadın için yüz kimliği referansı olarak yüklenen fotoğrafı kullanın. Onun tanınabilir yüz hatlarını, doğal cilt tonunu, yüz oranlarını ve genel görünümünü koruyun. En boy oranını 3:4 yapın
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4113,15 +4223,131 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2100088288304664844"></a>
+<a name="prompt-2100133379077194236"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2100133379077194236)
+
+Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100133379077194236-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100082724589461943"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2100082724589461943)
+
+Portre / Selfie · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100082724589461943-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100152050525110632"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AI\_Kei75](https://x.com/AI_Kei75) · [Orijinal gönderi](https://x.com/AI_Kei75/status/2100152050525110632)
+
+Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100152050525110632-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100169070259863658"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2100169070259863658)
+
+Poster / El İlanı · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100169070259863658-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100169070259863658-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100169070259863658-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100169070259863658-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100180395635454153"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@3three\_AI](https://x.com/3three_AI) · [Orijinal gönderi](https://x.com/3three_AI/status/2100180395635454153)
+
+Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100180395635454153-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100088288304664844"></a>
+
+### Gece geç saatlerde masasında fazla mesai yapan, trençkot giymiş, tüm vücudu ve çevresi renkli yapışkan notlarla kaplı, elinde sıcak içeceği olan genç kadın.
 
 Yazar：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2100088288304664844)
 
 Portre / Selfie · Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece geç saatlerde masasında fazla mesai yapan, trençkot giymiş, tüm vücudu ve çevresi renkli yapışkan notlarla kaplı, elinde sıcak içeceği olan genç kadın.
 
 <img src="images/2100088288304664844-1.jpg" alt="Görsel 1" width="480" />
 
@@ -4130,7 +4356,7 @@ Portre / Selfie · Karakter · Yiyecek / İçecek · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dağınık ahşap bir masada dizüstü bilgisayar başında geç saatlere kadar çalışan, stresli ve aşırı çalışmış genç bir kadın. Açık kahverengi saçları yüksek, dağınık bir topuz şeklinde toplanmış, ince siyah tel çerçeveli yuvarlak gözlükler takıyor ve içinden gözle görülür sıcak buhar yükselen beyaz seramik bir kupadan içiyor. Üzerinde renkli yapışkan notlarla (pastel sarı, bebek mavisi, açık pembe) kaplı büyük beden bej bir trençkot var. Yüzüne, alnına, saçlarına ve dizüstü bilgisayarının ekranının arkasına el yazısıyla yazılmış daha fazla post-it yapıştırılmış. Masa lambası sıcak ve dramatik bir yan aydınlatma yayıyor; arka planda kitaplıklar ve saksı bitkileri bulunan, hafifçe bulanıklaştırılmış, loş ve atmosferik bir ev ofisi var. Sinematik, 35 mm fotoğraf, aşırı ayrıntılı, sığ alan derinliği, samimi doğal portre, hem rahatlatıcı hem de kaotik bir estetik. Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4
 ```
 
 [↑ Kategorilere dön](#catalog)

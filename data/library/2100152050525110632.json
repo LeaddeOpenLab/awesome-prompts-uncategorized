@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T15:59:46.482Z",
+  "model": "unknown-image",
+  "prompt": "white choker, oversized light green cardigan, long sleeves, (sleeves past fingers), yellow button, shirt under clothes, shirt under sweater, white collared shirt, (collarbone), loose bowtie, light yellow bowtie, (light yellow pleated skirt), miniskirt, light yellow skirt, white loose socks, brown loafers,",
+  "promptTranslations": {
+    "en": "white choker, oversized light green cardigan, long sleeves, (sleeves past fingers), yellow button, shirt under clothes, shirt under sweater, white collared shirt, (collarbone), loose bowtie, light yellow bowtie, (light yellow pleated skirt), miniskirt, light yellow skirt, white loose socks, brown loafers,"
+  },
+  "summaryTranslations": {
+    "en": "Moe-sleeve gyaru school uniform outfit with an oversized light green cardigan, loose bowtie, pleated miniskirt, and loose socks."
+  },
+  "translationVersion": 2,
+  "summary": "Moe-sleeve gyaru school uniform outfit with an oversized light green cardigan, loose bowtie, pleated miniskirt, and loose socks.",
+  "summaryEn": "Moe-sleeve gyaru school uniform outfit with an oversized light green cardigan, loose bowtie, pleated miniskirt, and loose socks.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100152050525110632",
+    "canonicalUrl": "https://x.com/AI_Kei75/status/2100152050525110632",
+    "author": {
+      "username": "AI_Kei75",
+      "displayName": "Kei🍤衣装本舗",
+      "profileUrl": "https://x.com/AI_Kei75"
+    },
+    "publishedAt": "2026-09-16T09:17:22.000Z",
+    "collectedAt": "2026-09-16T12:18:36.814Z",
+    "language": "ja",
+    "originalText": "🧥【萌え袖ギャル制服／グリーン】💚\n\n先日ポストした[ギャルレンジャー]衣装のプロンプトです✨\nプロンプトはご自由にお使いください🤗\n\n【prompt】\nwhite choker, oversized light green cardigan, long sleeves, (sleeves past fingers), yellow button, shirt under clothes, shirt under sweater, white collared shirt, (collarbone), loose bowtie, light yellow bowtie, (light yellow pleated skirt), miniskirt, light yellow skirt, white loose socks, brown loafers,\n\n【negative】\n(nsfw, See-through), zipper, belt, obi, (open clothes, open cardigan),",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSU9J5gbgAAIHp0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSU9J5gbgAAIHp0.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 289,
+      "repostCount": 28,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 3512
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_Kei75/status/2100152050525110632",
+  "coverUrl": "https://pbs.twimg.com/media/HSU9J5gbgAAIHp0.jpg",
+  "coverPath": "images/2100152050525110632-1.jpg",
+  "imagePaths": [
+    "images/2100152050525110632-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSU9J5gbgAAIHp0",
+    "x-post:2100152050525110632"
+  ],
+  "analysis": {
+    "summary": "Moe-sleeve gyaru school uniform outfit with an oversized light green cardigan, loose bowtie, pleated miniskirt, and loose socks.",
+    "summaryEn": "Moe-sleeve gyaru school uniform outfit with an oversized light green cardigan, loose bowtie, pleated miniskirt, and loose socks.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image features an anime girl wearing the specified light green oversized cardigan with long sleeves covering fingers, loose yellow bowtie, pleated miniskirt, loose socks, and loafers."
+    },
+    "videoQuality": null,
+    "originalPrompt": "white choker, oversized light green cardigan, long sleeves, (sleeves past fingers), yellow button, shirt under clothes, shirt under sweater, white collared shirt, (collarbone), loose bowtie, light yellow bowtie, (light yellow pleated skirt), miniskirt, light yellow skirt, white loose socks, brown loafers,",
+    "sourceRange": {
+      "start": 77,
+      "end": 383
+    },
+    "translations": {
+      "zh": "白色项圈，超大号浅绿色开衫毛衣，长袖，（袖子盖过手指），黄色纽扣，内搭衬衫，毛衣内衬衫，白色翻领衬衫，（锁骨），宽松领结，浅黄色领结，（浅黄色百褶裙），超短裙，浅黄色短裙，白色堆堆袜，棕色乐福鞋，",
+      "en": "white choker, oversized light green cardigan, long sleeves, (sleeves past fingers), yellow button, shirt under clothes, shirt under sweater, white collared shirt, (collarbone), loose bowtie, light yellow bowtie, (light yellow pleated skirt), miniskirt, light yellow skirt, white loose socks, brown loafers,"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "outfit_design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

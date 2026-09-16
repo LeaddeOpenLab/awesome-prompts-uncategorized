@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T15:59:22.071Z",
+  "model": "kling",
+  "prompt": "INPUT: $ SUBJECT              // cryptid, unclassified figure, something wrong at the door\nVISITOR   = infer_subject($ SUBJECT)        // scale vs doorframe, posture, awareness of lens\nBEHAVIOR  = infer_mundane_act($ SUBJECT)    // it is doing something ORDINARY — trash, doorknob, package\nPORCH     = infer_porch($ SUBJECT)          // real siding, mat, planter, hose, peeling paint\nNIGHT     = infer_ir_night($ SUBJECT)       // IR emitters on, monochrome, no color info\nBLOWOUT   = infer_ir_falloff($ SUBJECT)     // near subject blown white, background crushed black\nLENS      = infer_fisheye($ SUBJECT)        // heavy barrel warp, corners stretched\nMOUNT     = infer_camera_height($ SUBJECT)  // ~4ft, fixed, slightly off-level\nCROP      = infer_motion_trigger($ SUBJECT) // subject partly out of frame — cut off, entering\nOVERLAY   = infer_hud($ SUBJECT)            // timestamp, device name, battery icon, small font\nFLAWS     = infer_flaws($ SUBJECT)          // low bitrate smear, IR noise, compression blocks\nΦ = ir_falloff(emitter) + barrel_warp(LENS)\nMOTION: subject enters frame at edge → pauses → head turns toward lens → holds 2s → exits.\nNo camera movement, fixed mount.\nCompose: fixed doorbell camera, IR night mode, monochrome, subject overexposed and\npartially cropped, timestamp overlay, heavy compression. Photoreal, 4:3 or 16:9.",
+  "promptTranslations": {
+    "en": "INPUT: $ SUBJECT              // cryptid, unclassified figure, something wrong at the door\nVISITOR   = infer_subject($ SUBJECT)        // scale vs doorframe, posture, awareness of lens\nBEHAVIOR  = infer_mundane_act($ SUBJECT)    // it is doing something ORDINARY — trash, doorknob, package\nPORCH     = infer_porch($ SUBJECT)          // real siding, mat, planter, hose, peeling paint\nNIGHT     = infer_ir_night($ SUBJECT)       // IR emitters on, monochrome, no color info\nBLOWOUT   = infer_ir_falloff($ SUBJECT)     // near subject blown white, background crushed black\nLENS      = infer_fisheye($ SUBJECT)        // heavy barrel warp, corners stretched\nMOUNT     = infer_camera_height($ SUBJECT)  // ~4ft, fixed, slightly off-level\nCROP      = infer_motion_trigger($ SUBJECT) // subject partly out of frame — cut off, entering\nOVERLAY   = infer_hud($ SUBJECT)            // timestamp, device name, battery icon, small font\nFLAWS     = infer_flaws($ SUBJECT)          // low bitrate smear, IR noise, compression blocks\nΦ = ir_falloff(emitter) + barrel_warp(LENS)\nMOTION: subject enters frame at edge → pauses → head turns toward lens → holds 2s → exits.\nNo camera movement, fixed mount.\nCompose: fixed doorbell camera, IR night mode, monochrome, subject overexposed and\npartially cropped, timestamp overlay, heavy compression. Photoreal, 4:3 or 16:9."
+  },
+  "summaryTranslations": {
+    "en": "Structured prompt template for doorbell infrared night vision surveillance footage, designed to generate videos of uncanny visitors."
+  },
+  "translationVersion": 2,
+  "summary": "门铃红外夜视监控画面的结构化提示词模板，用于生成怪异访客的视频。",
+  "summaryEn": "Structured prompt template for generating IR night-vision doorbell camera videos of bizarre visitors.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100153971088482321",
+    "canonicalUrl": "https://x.com/Gdgtify/status/2100153971088482321",
+    "author": {
+      "username": "Gdgtify",
+      "displayName": "Gadgetify",
+      "profileUrl": "https://x.com/Gdgtify"
+    },
+    "publishedAt": "2026-09-16T09:25:00.000Z",
+    "collectedAt": "2026-09-16T12:18:36.814Z",
+    "language": "en",
+    "originalText": "These videos used to go viral a lot on Sora.  I used Kling 3.0 to animate all 4 at the same time. \n\nPrompt: \nINPUT: $ SUBJECT              // cryptid, unclassified figure, something wrong at the door\nVISITOR   = infer_subject($ SUBJECT)        // scale vs doorframe, posture, awareness of lens\nBEHAVIOR  = infer_mundane_act($ SUBJECT)    // it is doing something ORDINARY — trash, doorknob, package\nPORCH     = infer_porch($ SUBJECT)          // real siding, mat, planter, hose, peeling paint\nNIGHT     = infer_ir_night($ SUBJECT)       // IR emitters on, monochrome, no color info\nBLOWOUT   = infer_ir_falloff($ SUBJECT)     // near subject blown white, background crushed black\nLENS      = infer_fisheye($ SUBJECT)        // heavy barrel warp, corners stretched\nMOUNT     = infer_camera_height($ SUBJECT)  // ~4ft, fixed, slightly off-level\nCROP      = infer_motion_trigger($ SUBJECT) // subject partly out of frame — cut off, entering\nOVERLAY   = infer_hud($ SUBJECT)            // timestamp, device name, battery icon, small font\nFLAWS     = infer_flaws($ SUBJECT)          // low bitrate smear, IR noise, compression blocks\nΦ = ir_falloff(emitter) + barrel_warp(LENS)\nMOTION: subject enters frame at edge → pauses → head turns toward lens → holds 2s → exits.\nNo camera movement, fixed mount.\nCompose: fixed doorbell camera, IR night mode, monochrome, subject overexposed and\npartially cropped, timestamp overlay, heavy compression. Photoreal, 4:3 or 16:9.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Gdgtify/status/2100153971088482321",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2099701246554734592/img/i_s63BY_n5KqkGIe.jpg",
+        "analysisUrl": "https://x.com/Gdgtify/status/2100153971088482321"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 128
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Gdgtify/status/2100153971088482321",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2099701246554734592/img/i_s63BY_n5KqkGIe.jpg",
+  "coverPath": "covers/2100153971088482321.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2099701246554734592",
+    "x-post:2100153971088482321"
+  ],
+  "analysis": {
+    "summary": "门铃红外夜视监控画面的结构化提示词模板，用于生成怪异访客的视频。",
+    "summaryEn": "Structured prompt template for generating IR night-vision doorbell camera videos of bizarre visitors.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Media shows 4 doorbell camera video panels featuring IR monochrome visuals, HUD overlays, and odd creatures matching the prompt specification."
+    },
+    "videoQuality": null,
+    "originalPrompt": "INPUT: $ SUBJECT              // cryptid, unclassified figure, something wrong at the door\nVISITOR   = infer_subject($ SUBJECT)        // scale vs doorframe, posture, awareness of lens\nBEHAVIOR  = infer_mundane_act($ SUBJECT)    // it is doing something ORDINARY — trash, doorknob, package\nPORCH     = infer_porch($ SUBJECT)          // real siding, mat, planter, hose, peeling paint\nNIGHT     = infer_ir_night($ SUBJECT)       // IR emitters on, monochrome, no color info\nBLOWOUT   = infer_ir_falloff($ SUBJECT)     // near subject blown white, background crushed black\nLENS      = infer_fisheye($ SUBJECT)        // heavy barrel warp, corners stretched\nMOUNT     = infer_camera_height($ SUBJECT)  // ~4ft, fixed, slightly off-level\nCROP      = infer_motion_trigger($ SUBJECT) // subject partly out of frame — cut off, entering\nOVERLAY   = infer_hud($ SUBJECT)            // timestamp, device name, battery icon, small font\nFLAWS     = infer_flaws($ SUBJECT)          // low bitrate smear, IR noise, compression blocks\nΦ = ir_falloff(emitter) + barrel_warp(LENS)\nMOTION: subject enters frame at edge → pauses → head turns toward lens → holds 2s → exits.\nNo camera movement, fixed mount.\nCompose: fixed doorbell camera, IR night mode, monochrome, subject overexposed and\npartially cropped, timestamp overlay, heavy compression. Photoreal, 4:3 or 16:9.",
+    "sourceRange": {
+      "start": 109,
+      "end": 1460
+    },
+    "translations": {
+      "zh": "输入：$ 主体 // 神秘生物、未分类个体、门前异常事物\n访客 = infer_subject($ 主体) // 与门框比例、姿态、镜头意识\n行为 = infer_mundane_act($ 主体) // 正在做日常动作——倒垃圾、门把手、包裹\n门廊 = infer_porch($ 主体) // 真实护墙板、地垫、花盆、水管、掉漆\n夜视 = infer_ir_night($ 主体) // 红外发射器开启、单色、无色彩信息\n过曝 = infer_ir_falloff($ 主体) // 近处主体过曝泛白、背景纯黑\n镜头 = infer_fisheye($ 主体) // 严重桶形畸变、边缘拉伸\n安装 = infer_camera_height($ 主体) // 约4英尺高、固定、轻微失平\n裁剪 = infer_motion_trigger($ 主体) // 主体部分出画——被截断、刚进入\n界面 = infer_hud($ 主体) // 时间戳、设备名称、电量图标、小字体\n瑕疵 = infer_flaws($ 主体) // 低码率涂抹、红外噪点、压缩色块\nΦ = 红外衰减(发射器) + 桶形畸变(镜头)\n动作：主体从边缘入画 → 停顿 → 头部转向镜头 → 保持2秒 → 离开。\n无镜头晃动，固定机位。\n构图：固定门铃摄像头，红外夜视模式，黑白单色，主体过曝且部分出画，时间戳覆层，强压缩感。逼真，4:3 或 16:9。",
+      "en": "INPUT: $ SUBJECT              // cryptid, unclassified figure, something wrong at the door\nVISITOR   = infer_subject($ SUBJECT)        // scale vs doorframe, posture, awareness of lens\nBEHAVIOR  = infer_mundane_act($ SUBJECT)    // it is doing something ORDINARY — trash, doorknob, package\nPORCH     = infer_porch($ SUBJECT)          // real siding, mat, planter, hose, peeling paint\nNIGHT     = infer_ir_night($ SUBJECT)       // IR emitters on, monochrome, no color info\nBLOWOUT   = infer_ir_falloff($ SUBJECT)     // near subject blown white, background crushed black\nLENS      = infer_fisheye($ SUBJECT)        // heavy barrel warp, corners stretched\nMOUNT     = infer_camera_height($ SUBJECT)  // ~4ft, fixed, slightly off-level\nCROP      = infer_motion_trigger($ SUBJECT) // subject partly out of frame — cut off, entering\nOVERLAY   = infer_hud($ SUBJECT)            // timestamp, device name, battery icon, small font\nFLAWS     = infer_flaws($ SUBJECT)          // low bitrate smear, IR noise, compression blocks\nΦ = ir_falloff(emitter) + barrel_warp(LENS)\nMOTION: subject enters frame at edge → pauses → head turns toward lens → holds 2s → exits.\nNo camera movement, fixed mount.\nCompose: fixed doorbell camera, IR night mode, monochrome, subject overexposed and\npartially cropped, timestamp overlay, heavy compression. Photoreal, 4:3 or 16:9."
+    },
+    "targetModels": [
+      "kling"
+    ],
+    "category": "text-to-video",
+    "useCase": "Doorbell camera IR night video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

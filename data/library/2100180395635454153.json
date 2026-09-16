@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T14:57:35.438Z",
+  "model": "unknown-image",
+  "prompt": "超现实休闲智能手机照片拼贴，垂直 3:4，由 9 张独立的随意快照组成，排列成整洁的 3×3 网格，捕捉一位中国女孩列车乘务员在现代客运列车上正常工作日期间的瞬间。\n\n在每个面板中保持相同的女性、相同的面部特征、相同的发型、相同的整体外貌和相同的制服。她有一头深棕色头发整齐地扎成低髻，精致的自然五官、淡妆，以及青春洋溢的外貌。\n\n她穿着专业的深海军蓝列车乘务员制服，包括合身的西装外套或优雅的制服裙、红蓝相间的图案领巾、小型金色名牌、深色丝袜，以及简约的专业鞋子。她的外貌精致却自然。\n\n面板 1：列车前厅内意外的近距离智能手机自拍，一根手指部分遮挡镜头，略微模糊且不完美，身后可见列车门和安全标志。\n\n面板 2：她在狭窄的列车走道中拉着一个黑色小滚轮行李箱的全身随意拍摄，略带动态模糊，背景中柔和可见乘客和成排的座位。\n\n面板 3：从靠窗列车座位上的近距离自拍，明亮的自然阳光透过玻璃进入，略微过曝部分脸部，放松的表情和随意构图。\n\n面板 4：她在列车车厢内站立伸手取向上方行李架的随意后侧视图，展示她整齐的低髻、制服轮廓和专业姿态。\n\n面板 5：极近距离随意自拍，她的臉占据画面大部分，几缕散落的发丝横过脸庞，柔焦、略微不完美的智能手机曝光，俏皮自然的表达。\n\n面板 6：列车内坐姿随意自拍，一只手遮住嘴大笑，戴着简约的手表，温暖的车厢灯光，真挚的自发瞬间。\n\n面板 7：靠大型列车窗的近距离侧面自拍，窗外可见铁轨站台和另一列火车，自然日光，略微裁剪的脸部和玻璃上的真实反射。\n\n面板 8：她在列车车厢中走向另一节车的随意后视图，略带动态模糊，上方行李架、座位、车门和真实的列车内部细节可见。\n\n面板 9：列车前厅内意外的近距离自拍，手指部分遮挡相机镜头，俏皮的不完美构图，身后可见真实的列车门控制装置和安全设备。\n\n整个拼贴应感觉像是列车乘务员工作日中的真实个人智能手机回忆，而不是专业摄影。使用不一致的构图、轻微动态模糊、意外裁剪、温和的镜头失真、细微的曝光变化、真实的车厢灯光、柔焦、自然的皮肤纹理、真实的的面部表情，以及小的摄影瑕疵。\n\n没有精致的摄影棚外观，没有人工美颜滤镜，没有塑料般的皮肤，没有 CGI 外观。原始的日常智能手机摄影，真实的幕后列车乘务员照片日记，真实的现代客运列车内部，自发的随意瞬间，所有 9 个面板中一致的角色形象，面板之间细白分隔线，整洁的 3×3 网格，垂直 3:4 纵横比",
+  "promptTranslations": {
+    "en": "Hyperrealistic casual smartphone photo collage, vertical 3:4, consisting of 9 separate candid snapshots arranged in a neat 3×3 grid, capturing moments of a Chinese female train attendant during a normal workday on a modern passenger train.\n\nMaintain the same woman, same facial features, same hairstyle, same overall appearance, and same uniform across every panel. She has dark brown hair neatly tied in a low bun, delicate natural features, light makeup, and a youthful appearance.\n\nShe wears a professional dark navy train attendant uniform including a tailored blazer or elegant uniform skirt, a red-and-blue patterned neck scarf, a small gold name tag, dark tights, and simple professional shoes. Her look is polished yet natural.\n\nPanel 1: An accidental close-up smartphone selfie inside the train vestibule, with a finger partially covering the lens, slightly blurry and imperfect, with train doors and safety signs visible behind her.\n\nPanel 2: A candid full-body shot of her rolling a small black roller suitcase down the narrow train aisle, slight motion blur, with passengers and rows of seats softly visible in the background.\n\nPanel 3: A close-up selfie from a window train seat, bright natural sunlight entering through the glass, slightly overexposing part of her face, relaxed expression, and casual framing.\n\nPanel 4: A candid rear-side view of her standing in the train carriage reaching toward an overhead luggage rack, showing her neat low bun, uniform silhouette, and professional posture.\n\nPanel 5: An ultra close-up candid selfie with her face filling most of the frame, a few stray hairs across her face, soft focus, slightly imperfect smartphone exposure, playful natural expression.\n\nPanel 6: A seated candid selfie inside the train, laughing with one hand covering her mouth, wearing a minimalist wristwatch, warm carriage lighting, genuine spontaneous moment.\n\nPanel 7: A close-up side-profile selfie leaning against a large train window, railway tracks, platform, and another train visible outside, natural daylight, slightly cropped face, and realistic reflections on the glass.\n\nPanel 8: A candid back view of her walking down the train carriage toward another car, slight motion blur, overhead luggage racks, seats, doors, and realistic train interior details visible.\n\nPanel 9: An accidental close-up selfie in the train vestibule, finger partially obscuring the camera lens, playfully imperfect composition, realistic train door controls and safety equipment visible behind her.\n\nOverall collage should feel like real personal smartphone memories from a train attendant's workday, not professional photography. Use inconsistent framing, slight motion blur, accidental cropping, gentle lens distortion, subtle exposure variations, realistic carriage lighting, soft focus, natural skin textures, genuine facial expressions, and small photographic imperfections.\n\nNo polished studio look, no artificial beauty filters, no plastic-like skin, no CGI appearance. Raw everyday smartphone photography, authentic behind-the-scenes train attendant photo diary, realistic modern passenger train interior, spontaneous candid moments, consistent character identity across all 9 panels, thin white dividing borders between panels, neat 3×3 grid, vertical 3:4 aspect ratio"
+  },
+  "summaryTranslations": {
+    "en": "3x3 grid smartphone photo collage of candid work moments of a Chinese female train attendant on a modern train."
+  },
+  "translationVersion": 2,
+  "summary": "3x3网格的中国女列车乘务员现代列车工作随拍智能手机拼贴照。",
+  "summaryEn": "A 3x3 smartphone collage of candid daily workday moments of a female train attendant.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100180395635454153",
+    "canonicalUrl": "https://x.com/3three_AI/status/2100180395635454153",
+    "author": {
+      "username": "3three_AI",
+      "displayName": "三个三",
+      "profileUrl": "https://x.com/3three_AI"
+    },
+    "publishedAt": "2026-09-16T11:10:00.000Z",
+    "collectedAt": "2026-09-16T12:18:36.814Z",
+    "language": "zh",
+    "originalText": "这是谁的女朋友下班了？\n\n一张图塞进 9 个下班瞬间\n\nPrompt：\n\n超现实休闲智能手机照片拼贴，垂直 3:4，由 9 张独立的随意快照组成，排列成整洁的 3×3 网格，捕捉一位中国女孩列车乘务员在现代客运列车上正常工作日期间的瞬间。\n\n在每个面板中保持相同的女性、相同的面部特征、相同的发型、相同的整体外貌和相同的制服。她有一头深棕色头发整齐地扎成低髻，精致的自然五官、淡妆，以及青春洋溢的外貌。\n\n她穿着专业的深海军蓝列车乘务员制服，包括合身的西装外套或优雅的制服裙、红蓝相间的图案领巾、小型金色名牌、深色丝袜，以及简约的专业鞋子。她的外貌精致却自然。\n\n面板 1：列车前厅内意外的近距离智能手机自拍，一根手指部分遮挡镜头，略微模糊且不完美，身后可见列车门和安全标志。\n\n面板 2：她在狭窄的列车走道中拉着一个黑色小滚轮行李箱的全身随意拍摄，略带动态模糊，背景中柔和可见乘客和成排的座位。\n\n面板 3：从靠窗列车座位上的近距离自拍，明亮的自然阳光透过玻璃进入，略微过曝部分脸部，放松的表情和随意构图。\n\n面板 4：她在列车车厢内站立伸手取向上方行李架的随意后侧视图，展示她整齐的低髻、制服轮廓和专业姿态。\n\n面板 5：极近距离随意自拍，她的臉占据画面大部分，几缕散落的发丝横过脸庞，柔焦、略微不完美的智能手机曝光，俏皮自然的表达。\n\n面板 6：列车内坐姿随意自拍，一只手遮住嘴大笑，戴着简约的手表，温暖的车厢灯光，真挚的自发瞬间。\n\n面板 7：靠大型列车窗的近距离侧面自拍，窗外可见铁轨站台和另一列火车，自然日光，略微裁剪的脸部和玻璃上的真实反射。\n\n面板 8：她在列车车厢中走向另一节车的随意后视图，略带动态模糊，上方行李架、座位、车门和真实的列车内部细节可见。\n\n面板 9：列车前厅内意外的近距离自拍，手指部分遮挡相机镜头，俏皮的不完美构图，身后可见真实的列车门控制装置和安全设备。\n\n整个拼贴应感觉像是列车乘务员工作日中的真实个人智能手机回忆，而不是专业摄影。使用不一致的构图、轻微动态模糊、意外裁剪、温和的镜头失真、细微的曝光变化、真实的车厢灯光、柔焦、自然的皮肤纹理、真实的的面部表情，以及小的摄影瑕疵。\n\n没有精致的摄影棚外观，没有人工美颜滤镜，没有塑料般的皮肤，没有 CGI 外观。原始的日常智能手机摄影，真实的幕后列车乘务员照片日记，真实的现代客运列车内部，自发的随意瞬间，所有 9 个面板中一致的角色形象，面板之间细白分隔线，整洁的 3×3 网格，垂直 3:4 纵横比",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUdtU2a0AAnX2V.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUdtU2a0AAnX2V.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 258
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/3three_AI/status/2100180395635454153",
+  "coverUrl": "https://pbs.twimg.com/media/HSUdtU2a0AAnX2V.jpg",
+  "coverPath": "images/2100180395635454153-1.jpg",
+  "imagePaths": [
+    "images/2100180395635454153-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUdtU2a0AAnX2V",
+    "x-post:2100180395635454153"
+  ],
+  "analysis": {
+    "summary": "3x3网格的中国女列车乘务员现代列车工作随拍智能手机拼贴照。",
+    "summaryEn": "A 3x3 smartphone collage of candid daily workday moments of a female train attendant.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完美呈现了九宫格布局、同一位列车乘务员的制服细节、手指遮挡镜头、放行李、拉箱子走动以及车窗自拍等各面板描述内容。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超现实休闲智能手机照片拼贴，垂直 3:4，由 9 张独立的随意快照组成，排列成整洁的 3×3 网格，捕捉一位中国女孩列车乘务员在现代客运列车上正常工作日期间的瞬间。\n\n在每个面板中保持相同的女性、相同的面部特征、相同的发型、相同的整体外貌和相同的制服。她有一头深棕色头发整齐地扎成低髻，精致的自然五官、淡妆，以及青春洋溢的外貌。\n\n她穿着专业的深海军蓝列车乘务员制服，包括合身的西装外套或优雅的制服裙、红蓝相间的图案领巾、小型金色名牌、深色丝袜，以及简约的专业鞋子。她的外貌精致却自然。\n\n面板 1：列车前厅内意外的近距离智能手机自拍，一根手指部分遮挡镜头，略微模糊且不完美，身后可见列车门和安全标志。\n\n面板 2：她在狭窄的列车走道中拉着一个黑色小滚轮行李箱的全身随意拍摄，略带动态模糊，背景中柔和可见乘客和成排的座位。\n\n面板 3：从靠窗列车座位上的近距离自拍，明亮的自然阳光透过玻璃进入，略微过曝部分脸部，放松的表情和随意构图。\n\n面板 4：她在列车车厢内站立伸手取向上方行李架的随意后侧视图，展示她整齐的低髻、制服轮廓和专业姿态。\n\n面板 5：极近距离随意自拍，她的臉占据画面大部分，几缕散落的发丝横过脸庞，柔焦、略微不完美的智能手机曝光，俏皮自然的表达。\n\n面板 6：列车内坐姿随意自拍，一只手遮住嘴大笑，戴着简约的手表，温暖的车厢灯光，真挚的自发瞬间。\n\n面板 7：靠大型列车窗的近距离侧面自拍，窗外可见铁轨站台和另一列火车，自然日光，略微裁剪的脸部和玻璃上的真实反射。\n\n面板 8：她在列车车厢中走向另一节车的随意后视图，略带动态模糊，上方行李架、座位、车门和真实的列车内部细节可见。\n\n面板 9：列车前厅内意外的近距离自拍，手指部分遮挡相机镜头，俏皮的不完美构图，身后可见真实的列车门控制装置和安全设备。\n\n整个拼贴应感觉像是列车乘务员工作日中的真实个人智能手机回忆，而不是专业摄影。使用不一致的构图、轻微动态模糊、意外裁剪、温和的镜头失真、细微的曝光变化、真实的车厢灯光、柔焦、自然的皮肤纹理、真实的的面部表情，以及小的摄影瑕疵。\n\n没有精致的摄影棚外观，没有人工美颜滤镜，没有塑料般的皮肤，没有 CGI 外观。原始的日常智能手机摄影，真实的幕后列车乘务员照片日记，真实的现代客运列车内部，自发的随意瞬间，所有 9 个面板中一致的角色形象，面板之间细白分隔线，整洁的 3×3 网格，垂直 3:4 纵横比",
+    "sourceRange": {
+      "start": 37,
+      "end": 1047
+    },
+    "translations": {
+      "zh": "超现实休闲智能手机照片拼贴，垂直 3:4，由 9 张独立的随意快照组成，排列成整洁的 3×3 网格，捕捉一位中国女孩列车乘务员在现代客运列车上正常工作日期间的瞬间。\n\n在每个面板中保持相同的女性、相同的面部特征、相同的发型、相同的整体外貌和相同的制服。她有一头深棕色头发整齐地扎成低髻，精致的自然五官、淡妆，以及青春洋溢的外貌。\n\n她穿着专业的深海军蓝列车乘务员制服，包括合身的西装外套或优雅的制服裙、红蓝相间的图案领巾、小型金色名牌、深色丝袜，以及简约的专业鞋子。她的外貌精致却自然。\n\n面板 1：列车前厅内意外的近距离智能手机自拍，一根手指部分遮挡镜头，略微模糊且不完美，身后可见列车门和安全标志。\n\n面板 2：她在狭窄的列车走道中拉着一个黑色小滚轮行李箱的全身随意拍摄，略带动态模糊，背景中柔和可见乘客和成排的座位。\n\n面板 3：从靠窗列车座位上的近距离自拍，明亮的自然阳光透过玻璃进入，略微过曝部分脸部，放松的表情和随意构图。\n\n面板 4：她在列车车厢内站立伸手取向上方行李架的随意后侧视图，展示她整齐的低髻、制服轮廓和专业姿态。\n\n面板 5：极近距离随意自拍，她的臉占据画面大部分，几缕散落的发丝横过脸庞，柔焦、略微不完美的智能手机曝光，俏皮自然的表达。\n\n面板 6：列车内坐姿随意自拍，一只手遮住嘴大笑，戴着简约的手表，温暖的车厢灯光，真挚的自发瞬间。\n\n面板 7：靠大型列车窗的近距离侧面自拍，窗外可见铁轨站台和另一列火车，自然日光，略微裁剪的脸部和玻璃上的真实反射。\n\n面板 8：她在列车车厢中走向另一节车的随意后视图，略带动态模糊，上方行李架、座位、车门和真实的列车内部细节可见。\n\n面板 9：列车前厅内意外的近距离自拍，手指部分遮挡相机镜头，俏皮的不完美构图，身后可见真实的列车门控制装置和安全设备。\n\n整个拼贴应感觉像是列车乘务员工作日中的真实个人智能手机回忆，而不是专业摄影。使用不一致的构图、轻微动态模糊、意外裁剪、温和的镜头失真、细微的曝光变化、真实的车厢灯光、柔焦、自然的皮肤纹理、真实的的面部表情，以及小的摄影瑕疵。\n\n没有精致的摄影棚外观，没有人工美颜滤镜，没有塑料般的皮肤，没有 CGI 外观。原始的日常智能手机摄影，真实的幕后列车乘务员照片日记，真实的现代客运列车内部，自发的随意瞬间，所有 9 个面板中一致的角色形象，面板之间细白分隔线，整洁的 3×3 网格，垂直 3:4 纵横比",
+      "en": "Surreal casual smartphone photo collage, vertical 3:4, composed of 9 independent casual snapshots arranged in a neat 3x3 grid, capturing moments of a Chinese female train attendant during a normal workday on a modern passenger train.\n\nKeep the same woman, same facial features, same hairstyle, same overall appearance, and same uniform across every panel. She has dark brown hair in a low bun, delicate natural features, light makeup, and a youthful look.\n\nShe wears a navy train attendant uniform, patterned neckerchief, gold nametag, dark tights, professional shoes.\n\nPanel 1: Close selfie in vestibule, finger partially covering lens, train door and safety signs behind.\nPanel 2: Full body pulling small suitcase along narrow train aisle.\nPanel 3: Close selfie by window seat with bright natural sunlight.\nPanel 4: Rear-side view reaching up for overhead luggage rack.\nPanel 5: Extreme close-up selfie filling the frame, soft focus, stray hairs.\nPanel 6: Seated selfie covering mouth laughing, wearing watch.\nPanel 7: Profile selfie by large window with tracks and another train outside.\nPanel 8: Rear view walking toward next train car.\nPanel 9: Vestibule selfie with finger partially blocking lens, door controls visible.\n\nRaw daily smartphone photography, candid train attendant photo diary, consistent character in 3x3 grid."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "中国女列车乘务员日常工作记录的3x3九宫格拼贴照片",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

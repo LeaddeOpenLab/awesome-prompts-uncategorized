@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T15:59:41.706Z",
+  "model": "unknown-image",
+  "prompt": "ライブ配信をしているような、スマホの画面。",
+  "promptTranslations": {
+    "en": "A smartphone screen that looks like a live stream is taking place."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for generating an illustration in the style of a live stream screen."
+  },
+  "translationVersion": 2,
+  "summary": "ライブ配信画面風のイラスト生成プロンプト。",
+  "summaryEn": "Prompt for generating an illustration styled as a smartphone live stream interface.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100164379128021284",
+    "canonicalUrl": "https://x.com/AIDream_Project/status/2100164379128021284",
+    "author": {
+      "username": "AIDream_Project",
+      "displayName": "AI★Dream｜一條プロダクション",
+      "profileUrl": "https://x.com/AIDream_Project"
+    },
+    "publishedAt": "2026-09-16T10:06:21.000Z",
+    "collectedAt": "2026-09-16T12:18:36.814Z",
+    "language": "ja",
+    "originalText": "ライブ配信風🎥📱\n\nPrompt→ライブ配信をしているような、スマホの画面。\n9:16 https://t.co/KqoygxIm9v",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVH-QvboAATzT2.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVH-QvboAATzT2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVH-QsbwAAlUOe.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVH-QsbwAAlUOe.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVH-QubEAAUz8M.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVH-QubEAAUz8M.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVH-QkaYAAGzLn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVH-QkaYAAGzLn.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 166
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIDream_Project/status/2100164379128021284",
+  "coverUrl": "https://pbs.twimg.com/media/HSVH-QvboAATzT2.jpg",
+  "coverPath": "images/2100164379128021284-1.jpg",
+  "imagePaths": [
+    "images/2100164379128021284-1.jpg",
+    "images/2100164379128021284-2.jpg",
+    "images/2100164379128021284-3.jpg",
+    "images/2100164379128021284-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSVH-QvboAATzT2",
+    "x-image:/media/HSVH-QsbwAAlUOe",
+    "x-image:/media/HSVH-QubEAAUz8M",
+    "x-image:/media/HSVH-QkaYAAGzLn",
+    "x-post:2100164379128021284"
+  ],
+  "analysis": {
+    "summary": "ライブ配信画面風のイラスト生成プロンプト。",
+    "summaryEn": "Prompt for generating an illustration styled as a smartphone live stream interface.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像均为竖屏手机直播UI界面及主播角色，与Prompt所要求的直播风手机画面完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "ライブ配信をしているような、スマホの画面。",
+    "sourceRange": {
+      "start": 17,
+      "end": 38
+    },
+    "translations": {
+      "zh": "像是在进行直播一样的智能手机画面。",
+      "en": "A smartphone screen that looks like a live stream."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "live stream ui illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

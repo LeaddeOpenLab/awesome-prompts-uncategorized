@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**214** Prompt · Ultima aggiunta: **2026-09-16**
+**223** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -33,9 +33,69 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Fotografia
 
-<a name="prompt-2100136938921685221"></a>
+<a name="prompt-2100153971088482321"></a>
 
 ### Traduzione in corso
+
+Autore：[@Gdgtify](https://x.com/Gdgtify) · [Post originale](https://x.com/Gdgtify/status/2100153971088482321)
+
+Fotografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100153971088482321.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100190479287742842"></a>
+
+### Traduzione in corso
+
+Autore：[@boniusex](https://x.com/boniusex) · [Post originale](https://x.com/boniusex/status/2100190479287742842)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+Post originale：[@boniusex](https://x.com/boniusex) · [Post originale](https://x.com/boniusex/status/2100157493871575452)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100190479287742842-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100190479287742842-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2100190479287742842-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2100190479287742842-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2100190479287742842-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2100190479287742842-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2100190479287742842-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2100190479287742842-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100136938921685221"></a>
+
+### fotografia spontanea e fotorealistica della vita notturna, sala KTV privata business di lusso, donna adulta dell'Asia orientale sui vent'anni come soggetto principale con microfono.
 
 Autore：[@boniusex](https://x.com/boniusex) · [Post originale](https://x.com/boniusex/status/2100136938921685221)
 
@@ -43,7 +103,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
 Post originale：[@boniusex](https://x.com/boniusex) · [Post originale](https://x.com/boniusex/status/2099767415332872435)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** fotografia spontanea e fotorealistica della vita notturna, sala KTV privata business di lusso, donna adulta dell'Asia orientale sui vent'anni come soggetto principale con microfono.
 
 <img src="images/2100136938921685221-1.jpg" alt="Immagine 1" width="480" />
 
@@ -64,7 +124,7 @@ Post originale：[@boniusex](https://x.com/boniusex) · [Post originale](https:/
 **Prompt**
 
 ```text
-Traduzione in corso
+fotografia spontanea e fotorealistica della vita notturna, sala KTV privata business di lusso, interni neri e oro, divani in pelle, bottiglie di whisky, bicchieri, piatti di frutta, snack, microfoni, schermo per karaoke, calda luce ambientale dorata mescolata a neon blu e viola, donna adulta dell'Asia orientale sui vent'anni come soggetto principale, abito da sera alla moda, trucco naturale e raffinato, texture della pelle realistica, clienti maschi adulti di circa 30-45 anni vestiti in stile business casual, corporature da normali a leggermente robuste, gli ospiti maschi sono personaggi secondari, impegnati in un gioco per indovinare la canzone mentre tengono un microfono e rispondono con entusiasmo, fotografia documentaria spontanea della vita notturna, momento candido, espressioni realistiche, flash diretto, leggero mosso, inquadratura imperfetta, estetica da scatto istantaneo con iPhone e prime fotocamere digitali
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2873,6 +2933,28 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 ## Anime / Manga
 
+<a name="prompt-2099903953693708742"></a>
+
+### Traduzione in corso
+
+Autore：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Post originale](https://x.com/AUrbNUMjfxj85IS/status/2099903953693708742)
+
+Anime / Manga · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099903953693708742-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099566382471909568"></a>
 
 ### Prompt per trasformare una foto personale in una carta Pokémon GCC a figura intera in stile anime insieme a un Pokémon.
@@ -3041,6 +3123,34 @@ Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia,
 <a name="category-illustration"></a>
 
 ## Illustrazione
+
+<a name="prompt-2100164379128021284"></a>
+
+### Traduzione in corso
+
+Autore：[@AIDream\_Project](https://x.com/AIDream_Project) · [Post originale](https://x.com/AIDream_Project/status/2100164379128021284)
+
+App / Web Design · Illustrazione · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100164379128021284-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100164379128021284-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2100164379128021284-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2100164379128021284-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099269832827187204"></a>
 
@@ -3536,13 +3646,13 @@ Trasforma la foto di viaggio di architettura mondiale fornita in un'opera d'arte
 
 <a name="prompt-2100100687946203533"></a>
 
-### Traduzione in corso
+### Trasformazione di una foto di viaggio in una cartolina con l'immagine originale in alto, strappo e spazio bianco in basso accompagnati da illustrazione serigrafica e timbro postale vintage.
 
 Autore：[@TodayKan](https://x.com/TodayKan) · [Post originale](https://x.com/TodayKan/status/2100100687946203533)
 
 Illustrazione · Retro / Vintage · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Trasformazione di una foto di viaggio in una cartolina con l'immagine originale in alto, strappo e spazio bianco in basso accompagnati da illustrazione serigrafica e timbro postale vintage.
 
 <img src="images/2100100687946203533-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3555,7 +3665,7 @@ Illustrazione · Retro / Vintage · Testo / Tipografia · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasforma la foto di riferimento in una cartolina artistica verticale in formato 3:4. La parte superiore conserva integralmente la foto originale, mettendo in risalto le caratteristiche del soggetto e l'atmosfera del luogo, occupando circa il 55% dell'altezza dell'immagine. Il bordo inferiore della foto presenta uno strappo manuale naturale e irregolare con fibre di carta chiaramente visibili. Sotto il bordo strappato è presente uno spazio bianco color avorio che separa completamente la foto originale dall'illustrazione sottostante. Nello spazio bianco è inserito il nome del soggetto identificato con un piccolo font vintage da macchina da scrivere. Nella parte inferiore è disegnata una piccola illustrazione senza bordi basata sul soggetto della foto, che mantiene un contorno riconoscibile, semplifica moderatamente i dettagli e presenta una texture serigrafica, una leggera grana e un effetto di stampa a bassa fedeltà; la palette cromatica è estratta dalla foto e limitata a 2-4 colori sobri e desaturati. L'illustrazione occupa metà dell'altezza della parte inferiore, lasciando ampi spazi vuoti attorno. Sul lato destro dell'immagine, in corrispondenza dello strappo, è inserito un timbro postale circolare discreto e usurato di colore blu-nero, impresso esattamente all'incrocio tra la parte superiore e quella inferiore. In basso è presente la dicitura nel formato generico: 地点 · PLACE 日期 · DATE. L'insieme trasmette una calda texture di carta d'epoca, abbondante spazio bianco e uno stile editoriale da rivista raffinato e sobrio. Non aggiungere francobolli, coordinate, cornici esterne, mockup 3D, ombre pesanti, angoli arricciati, timbri aggiuntivi, testo ripetuto o filigrane.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3564,13 +3674,13 @@ Traduzione in corso
 
 <a name="prompt-2100124265752449144"></a>
 
-### Traduzione in corso
+### Una fotografia spontanea su pellicola 35 mm, screziata di sole, di una gioiosa donna asiatica che va giocosamente su una bicicletta vintage in un giardino.
 
 Autore：[@afrinxai](https://x.com/afrinxai) · [Post originale](https://x.com/afrinxai/status/2100124265752449144)
 
 Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una fotografia spontanea su pellicola 35 mm, screziata di sole, di una gioiosa donna asiatica che va giocosamente su una bicicletta vintage in un giardino.
 
 <img src="images/2100124265752449144-1.jpg" alt="Immagine 1" width="480" />
 
@@ -3579,7 +3689,7 @@ Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Una fotografia spontanea su pellicola 35 mm, screziata di sole, di una gioiosa donna asiatica con un caschetto scuro. È giocosamente in bilico su una bicicletta vintage in un rigoglioso giardino verde, con entrambe le gambe allargate verso l'esterno. Indossa un abbigliamento a strati: una maglia a maniche lunghe color rosso corallo brillante sotto un abito a scamiciato a fiori rosa tenue. Ha calzini bianchi alla caviglia abbinati a classiche scarpe oxford in pelle nera. La bici vintage ha un cestino in vimini intrecciato sul manubrio. Sullo sfondo c'è un affascinante capanno di legno bianco sporco e consumato dal tempo, con molteplici vetrate, e un capanno dal tetto verde scuro parzialmente visibile tra gli alberi. L'immagine ha una grana morbida e nostalgica e un'illuminazione estiva naturale. Usa la foto caricata come riferimento per l'identità facciale di una donna adulta. Mantieni i suoi tratti somatici riconoscibili, la tonalità naturale della pelle, le proporzioni del viso e l'aspetto generale. Rendi le proporzioni 3:4
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4096,15 +4206,131 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2100088288304664844"></a>
+<a name="prompt-2100133379077194236"></a>
 
 ### Traduzione in corso
+
+Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2100133379077194236)
+
+Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100133379077194236-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100082724589461943"></a>
+
+### Traduzione in corso
+
+Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2100082724589461943)
+
+Ritratto / Selfie · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100082724589461943-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100152050525110632"></a>
+
+### Traduzione in corso
+
+Autore：[@AI\_Kei75](https://x.com/AI_Kei75) · [Post originale](https://x.com/AI_Kei75/status/2100152050525110632)
+
+Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100152050525110632-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100169070259863658"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2100169070259863658)
+
+Poster / Volantino · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100169070259863658-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100169070259863658-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2100169070259863658-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2100169070259863658-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100180395635454153"></a>
+
+### Traduzione in corso
+
+Autore：[@3three\_AI](https://x.com/3three_AI) · [Post originale](https://x.com/3three_AI/status/2100180395635454153)
+
+Veicolo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100180395635454153-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100088288304664844"></a>
+
+### Giovane donna che fa gli straordinari alla scrivania a tarda notte, indossa un trench, coperta su tutto il corpo e intorno da post-it colorati, con una bevanda calda in mano.
 
 Autore：[@afrinxai](https://x.com/afrinxai) · [Post originale](https://x.com/afrinxai/status/2100088288304664844)
 
 Ritratto / Selfie · Personaggio · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Giovane donna che fa gli straordinari alla scrivania a tarda notte, indossa un trench, coperta su tutto il corpo e intorno da post-it colorati, con una bevanda calda in mano.
 
 <img src="images/2100088288304664844-1.jpg" alt="Immagine 1" width="480" />
 
@@ -4113,7 +4339,7 @@ Ritratto / Selfie · Personaggio · Cibo / Bevande · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Una giovane donna stressata e sovraccarica di lavoro, seduta a una scrivania di legno disordinata mentre lavora fino a tardi al laptop. Ha i capelli castano chiaro raccolti in uno chignon alto e spettinato, indossa occhiali rotondi sottili con montatura in metallo nero e beve da una tazza di ceramica bianca da cui si alza vapore caldo chiaramente visibile. Indossa un trench beige oversize ricoperto di foglietti adesivi colorati (giallo pastello, celeste, rosa tenue). Altri post-it scritti a mano sono attaccati sul suo viso, sulla fronte, sui capelli e sul retro dello schermo del laptop. Una lampada da scrivania proietta un'illuminazione laterale calda e drammatica; lo sfondo è un ufficio domestico suggestivo e leggermente sfocato con librerie e piante in vaso. Fotografia cinematografica a 35 mm, iper-dettagliata, profondità di campo ridotta, ritratto spontaneo, estetica accogliente ma caotica. Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4
 ```
 
 [↑ Torna alle categorie](#catalog)

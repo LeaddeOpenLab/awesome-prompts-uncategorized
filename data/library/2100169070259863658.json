@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T15:59:38.375Z",
+  "model": "unknown-image",
+  "prompt": "制作一张竖向上下对比旅行海报。上半部分完整保留输入的真实自然风光旅游照片，保持山川、海岸、森林、峡谷、湖泊、云层或其他主体的原始构图与真实细节；中间用细白分隔线。下半部分将同一场景重绘成深靛蓝或黑色底纸上的神秘史诗金箔蚀刻版画：以原图最具辨识度的自然轮廓为核心，使用厚重手工蚀刻线条、金铜色金属箔描边，以及冰蓝、紫白或暖金色光线；云雾、树冠、岩层、海浪和山体用卷曲装饰纹、密集交叉排线与颗粒肌理表现。根据原图选择雷电、日光、月光、雾光或水面反光作为视觉中心，不强行加入不存在的元素。保留原图主体关系与自然地貌，压缩成戏剧化版画构图。禁止整图滤镜、凭空增加人物或建筑、文字、logo、水印、署名及任何角标。",
+  "promptTranslations": {
+    "en": "Create a vertical top-and-bottom comparison travel poster. The upper half completely preserves the input real natural landscape travel photo, maintaining the original composition and authentic details of mountains, coasts, forests, canyons, lakes, clouds, or other main subjects; separated by a thin white line in the middle. The lower half recreates the same scene as a mysterious, epic gold foil etching print on deep indigo or black paper: centered around the original image's most recognizable natural contours, using heavy handmade etched linework, metallic gold-copper foil outlines, and icy blue, violet-white, or warm golden light; clouds and mist, tree canopies, rock strata, ocean waves, and mountain mass are rendered with swirling decorative patterns, dense cross-hatching, and granular textures. Select lightning, sunlight, moonlight, misty glow, or water reflections based on the original image as the visual focal point, without forcefully adding non-existent elements. Preserve the subject relationships and natural topography of the original image, compressed into a dramatic printmaking composition. Full-image filters, arbitrarily adding characters or buildings, text, logos, watermarks, signatures, and any corner badges are forbidden."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for converting natural landscape photos into a top-and-bottom comparison style gold foil etching print poster."
+  },
+  "translationVersion": 2,
+  "summary": "将自然风景照片转换为上下对比样式的金箔蚀刻版画海报提示词。",
+  "summaryEn": "Prompt for generating a vertical comparison poster converting landscape photos into gold foil etching prints.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100169070259863658",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2100169070259863658",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-16T10:25:00.000Z",
+    "collectedAt": "2026-09-16T12:18:36.814Z",
+    "language": "zh",
+    "originalText": "【CELESTIAL NATURE ENGRAVING｜自然风光金箔版画风】\n\n旅游照变成镭射闪卡哈哈哈哈哈\n\nprompt：\n制作一张竖向上下对比旅行海报。上半部分完整保留输入的真实自然风光旅游照片，保持山川、海岸、森林、峡谷、湖泊、云层或其他主体的原始构图与真实细节；中间用细白分隔线。下半部分将同一场景重绘成深靛蓝或黑色底纸上的神秘史诗金箔蚀刻版画：以原图最具辨识度的自然轮廓为核心，使用厚重手工蚀刻线条、金铜色金属箔描边，以及冰蓝、紫白或暖金色光线；云雾、树冠、岩层、海浪和山体用卷曲装饰纹、密集交叉排线与颗粒肌理表现。根据原图选择雷电、日光、月光、雾光或水面反光作为视觉中心，不强行加入不存在的元素。保留原图主体关系与自然地貌，压缩成戏剧化版画构图。禁止整图滤镜、凭空增加人物或建筑、文字、logo、水印、署名及任何角标。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVGapwbkAEVk8y.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVGapwbkAEVk8y.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVGbekaEAAPAzZ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVGbekaEAAPAzZ.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVGdRwbsAEfUKx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVGdRwbsAEfUKx.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVGhAtbMAAo4Cs.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVGhAtbMAAo4Cs.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 444
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2100169070259863658",
+  "coverUrl": "https://pbs.twimg.com/media/HSVGapwbkAEVk8y.jpg",
+  "coverPath": "images/2100169070259863658-1.jpg",
+  "imagePaths": [
+    "images/2100169070259863658-1.jpg",
+    "images/2100169070259863658-2.jpg",
+    "images/2100169070259863658-3.jpg",
+    "images/2100169070259863658-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSVGapwbkAEVk8y",
+    "x-image:/media/HSVGbekaEAAPAzZ",
+    "x-image:/media/HSVGdRwbsAEfUKx",
+    "x-image:/media/HSVGhAtbMAAo4Cs",
+    "x-post:2100169070259863658"
+  ],
+  "analysis": {
+    "summary": "将自然风景照片转换为上下对比样式的金箔蚀刻版画海报提示词。",
+    "summaryEn": "Prompt for generating a vertical comparison poster converting landscape photos into gold foil etching prints.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "附带的4张图片完全符合上下分割构图：上半部分为真实自然照片，下半部分为对应的深蓝/黑底金箔蚀刻版画风格重绘。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张竖向上下对比旅行海报。上半部分完整保留输入的真实自然风光旅游照片，保持山川、海岸、森林、峡谷、湖泊、云层或其他主体的原始构图与真实细节；中间用细白分隔线。下半部分将同一场景重绘成深靛蓝或黑色底纸上的神秘史诗金箔蚀刻版画：以原图最具辨识度的自然轮廓为核心，使用厚重手工蚀刻线条、金铜色金属箔描边，以及冰蓝、紫白或暖金色光线；云雾、树冠、岩层、海浪和山体用卷曲装饰纹、密集交叉排线与颗粒肌理表现。根据原图选择雷电、日光、月光、雾光或水面反光作为视觉中心，不强行加入不存在的元素。保留原图主体关系与自然地貌，压缩成戏剧化版画构图。禁止整图滤镜、凭空增加人物或建筑、文字、logo、水印、署名及任何角标。",
+    "sourceRange": {
+      "start": 64,
+      "end": 366
+    },
+    "translations": {
+      "zh": "制作一张竖向上下对比旅行海报。上半部分完整保留输入的真实自然风光旅游照片，保持山川、海岸、森林、峡谷、湖泊、云层或其他主体的原始构图与真实细节；中间用细白分隔线。下半部分将同一场景重绘成深靛蓝或黑色底纸上的神秘史诗金箔蚀刻版画：以原图最具辨识度的自然轮廓为核心，使用厚重手工蚀刻线条、金铜色金属箔描边，以及冰蓝、紫白或暖金色光线；云雾、树冠、岩层、海浪和山体用卷曲装饰纹、密集交叉排线与颗粒肌理表现。根据原图选择雷电、日光、月光、雾光或水面反光作为视觉中心，不强行加入不存在的元素。保留原图主体关系与自然地貌，压缩成戏剧化版画构图。禁止整图滤镜、凭空增加人物或建筑、文字、logo、水印、署名及任何角标。",
+      "en": "Create a vertical split travel comparison poster. The top half preserves the input original landscape photo; separated by a thin white line. The bottom half renders the identical scene as an epic gold foil etching print on dark indigo or black paper, featuring heavy etched lines, metallic foil accents, curly ornamental textures, and matching lighting."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "自然风光转金箔版画对比海报生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
