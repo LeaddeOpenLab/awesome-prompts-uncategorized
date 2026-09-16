@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**223** Prompts · Latest addition: **2026-09-15**
+**225** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,127 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2099990033323401615"></a>
+
+### A photorealistic portrait of an adult Japanese woman relaxing near the engawa of a hot spring inn in the afternoon, wearing rose-beige lingerie.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099990033323401615)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A photorealistic portrait of an adult Japanese woman relaxing near the engawa of a hot spring inn in the afternoon, wearing rose-beige lingerie.
+
+<img src="images/2099990033323401615-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Afternoon at a Hot Spring Inn | Rose Beige and Soft Light by the Engawa🌟
+
+[Subject & Style]
+A photorealistic photo-book-style fashion photograph depicting a clearly adult Japanese woman relaxing in a guest room of a hot spring inn during the afternoon. Against the backdrop of a quiet tatami room, an engawa veranda leading to a garden, and soft natural light, delicately combines rose-beige lingerie with casual, everyday actions in an elegant manner.
+Rather than an overly posed commercial advertisement, it emphasizes naturalness, resembling a private moment captured spontaneously during a trip. A piece that conveys calm, mature charm and the peaceful passage of time unique to a traditional ryokan.
+
+[Location, Background, & Worldview]
+The setting is a tatami room in a traditional onsen ryokan. The subject sits on the tatami flooring, just inside the engawa facing the garden. Nearby are a low wooden tea table with a deep wood tone and a zabuton cushion, with a ceramic teacup and a small Japanese sweet placed modestly on the table.
+The background shows shoji paper screens, wooden pillars and lintels, the engawa, and a manicured green garden beyond. The garden naturally features shrubs, moss, and stone lanterns, creating the quiet depth characteristic of a ryokan. Background props are not overcrowded, avoiding interference with the subject and the ambient atmosphere of the Japanese room.
+
+[Season, Time of Day, & Weather]
+The season is a mild period between early summer and early autumn. The time is set between 2:00 PM and 4:00 PM, when the sun begins to lean slightly. The weather is clear to lightly overcast; rather than harsh, direct sunlight, soft natural light enters from the garden and diffuses into the room through the shoji screens.
+While warm outside, coolness remains inside the tatami room, with just a faint breeze entering from the window side. The gentle swaying of garden leaves conveys the movement of the afternoon air even within a still image.
+
+[Subject Profile]
+A clearly adult Japanese woman of about 28 years old. She has soft, well-proportioned facial features: slightly large eyes with dark irises, natural eyebrows, a slender and elegant nasal bridge, and rosy, soft lips. Her dark brown hair is about shoulder-length, loosely gathered while keeping its natural wave, with a few stray strands framing her face.
+Her skin is a bright ochre tone, retaining natural color and fine shading. She has a naturally glamorous physique with slender shoulders and limbs, a narrow waist, and harmonious feminine curves. Her bust has a distinctly large and full volume, yet avoids rigidity or exaggeration, portrayed with a soft, natural three-dimensionality that conforms realistically to her seated posture and attire. Her hips also feature a gentle, well-balanced roundness relative to her whole body.
+
+[Outfit & Accessories]
+A refined lingerie set of a bra and panties based in rose beige. The bra is adorned with pale pink-beige floral embroidery lace and finished with thin satin piping along the edges. The panties match in color tone and embroidery motif, achieving a sophisticated design that is not excessively flashy.
+The material is a combination of delicate lace and soft stretch fabric. It features a realistic cup structure and fabric width that naturally supports a full bust, neither gapping away from the body nor digging in harshly. Essentially no jewelry or accessories are worn, prioritizing the rustic, relaxed feel of lounging at a ryokan.
+
+[Pose, Action, & Gaze]
+The subject sits on the tatami near the engawa in a side-sitting posture, letting both legs flow naturally to one side of her body. While the pelvis is angled slightly, her upper body, including shoulders and décolletage, opens naturally toward the camera without severe twisting of the torso. Her weight is gently supported by her hips and one hand resting on the tatami.
+Her hand closer to the tea table is in the middle of reaching for the teacup placed beside the cushion—captured just before the fingertips touch the cup, or the moment she begins to lightly lift it. Her other hand rests naturally on the tatami beside her. Her gaze is not directed at the camera, but warmly toward an intimate companion across the tea table.
+
+[Expression & Emotion]
+A very subtle, playful smile plays across her lips. Rather than a broad laugh, one corner of her mouth lifts slightly, as if enjoying the companion's reaction. Her eyes convey gentle familiarity and a touch of playfulness.
+Her brows and cheeks remain relaxed, avoiding an artificial modeling expression. Her face is turned slightly toward the space across the tea table, expressing a natural emotion as though capturing an unscripted, candid exchange with someone close to her.
+
+[Composition & Camera]
+A 4:5 vertical composition suited for social media posts. A slightly pulled-back, full-body seated composition framing the subject from the crown of her head to the tips of her swept legs. The subject is offset slightly to the right or left of center, creating negative space on the opposite side to showcase the tea table, engawa, and the depth of the garden.
+The camera height is at or slightly below the subject's seated eye level. Shooting distance is approximately 2 to 3 meters, using a natural standard to moderate telephoto focal length around 50–70mm. Extreme wide angles are avoided to preserve natural perspective without exaggerating only the legs or chest. The background has a soft bokeh blur, retaining enough detail so the shoji and garden are clearly recognizable as a ryokan.
+
+[Lighting, Color, Texture, & Atmosphere]
+The key light source is the afternoon natural light entering from the garden and shoji screens. It softly grazes her skin from a diagonal front angle, while warm reflected light from the tatami and woodwork wraps around the opposite side. Shadows are smooth rather than sharp-edged, rendering the natural dimensional volumes of her cheeks, neck, body, and clothing.
+The color palette leans toward muted warm tones centered on rose beige, the pale yellow-green of tatami, amber wood tones, and deep garden greens. Detailed rendering captures skin pores and subtle shading, individual strands of hair and flyaways, and the fine embroidery threads and fabric weave of the lace. Tatami, wood, ceramic, and shoji paper each exhibit distinct material textures, conveying the quiet, warm ambiance of an afternoon at a ryokan.
+
+[Quality & Negative Elements]
+High-resolution photorealistic rendering. Emphasizes natural human anatomy, realistic perspective, lighting, and material textures as if photographed by an actual camera. The subject must be clearly an adult; avoid juvenile, childlike facial features or ambiguous ages.
+Avoid extra limbs or fingers, missing fingers, fused fingers, unnatural joints, twisted anatomy, confusion of left and right hands, wardrobe malfunctions, blending between clothing and skin, unintentional exposure, extreme wide-angle distortion, unnatural backgrounds, and excessive airbrushing or skin-smoothing. While maintaining a rich, natural bust volume, avoid unnatural enlargement, hard spherical shapes, abnormal push-ups, or shapes that defy gravity. No text, logos, watermarks, or UI overlays within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099641928220361114"></a>
+
+### Realistic snapshot photo prompt capturing an adult Japanese woman's everyday housekeeping scene, kneeling on a wooden floor at home and wiping the floor with a white cloth.
+
+Author：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Source](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Photography · Portrait / Selfie · Character · Architecture / Interior · Published
+
+**Summary:** Realistic snapshot photo prompt capturing an adult Japanese woman's everyday housekeeping scene, kneeling on a wooden floor at home and wiping the floor with a white cloth.
+
+<img src="images/2099641928220361114-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Subject:
+One fictional adult Japanese woman kneeling on a wooden floor at home, wiping the floor with a white cloth. A natural home-care photo depicting daily household chores being carried out meticulously.
+
+Location / Time / Background:
+Bright interior of a residence during the day. Brown wooden floor, a wooden cupboard along the wall, pale walls, preserving depth extending toward a hallway, creating a clean, lived-in interior.
+
+Outfit / Accessories:
+A gray fine-ribbed sleeveless dress, an open-front ivory cardigan. Holding a soft white cleaning cloth in one hand.
+
+Pose / Hands & Fingers / Contact:
+One knee resting on the floor, the other knee raised, leaning the upper body low and forward. Pressing the cloth flat against the floor with one hand and extending it forward, while resting the other hand on the thigh.
+
+Expression / Gaze:
+Face turned toward the floor with a calm, focused expression checking the spot being wiped. Not looking at the lens, keeping attention on the housekeeping movement.
+
+Face / Makeup:
+Natural oval face shape, dark brown eyes, unovergroomed eyebrows, light beige around the eyes, with subdued flush on the cheeks and lips to convey everyday cleanliness.
+
+Hair:
+Dark brown hair tied low in the back, with thin stray strands falling over the bangs and beside the cheeks. Some strands of hair drawn around the face following the forward-leaning motion.
+
+Light Source:
+Diffused daylight inside the room serves as the key light, softly illuminating the forehead, cheeks, shoulders, hands, and floor surface. The reflection from the wooden floor is used as a weak, warm fill light.
+
+Color / Tones:
+Coordinated in low saturation with gray, ivory, warm brown of wood, and pale wall colors. Maintaining natural mid-tone interior gradations and healthy skin tones.
+
+Materials / Fine Textures:
+Distinctly rendering the fine ribs of the dress, the knit of the cardigan, the nap of the white cloth, the grain and sheen of the wooden floor, the wood of the cupboard, and hair strands.
+
+Composition / Camera:
+Vertical 9:16 low-angle close-range snapshot. Visual center of the chest placed around 50% screen width, downcast face center placed around 45%, capturing the head, chest, raised knee, outstretched arm, cloth, and floor surface.
+
+Image Processing / Finishing:
+Preserving a wide-angle lived-in atmosphere, keeping the person and cloth sharp while softly blurring the cupboard in the background. Avoiding excessive polish on the wooden floor texture to produce a natural photo suitable for residential advertising.
+
+Artifact Avoidance / Prohibitions:
+Fixed to one adult woman, the same gray dress, cardigan, white cloth, wooden floor, and kneeling cleaning posture. Do not add extra fingers, deformed knees, overly wet floors, logos, or text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099632246730760679"></a>
 

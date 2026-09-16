@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**223** Prompt · Son eklenen: **2026-09-15**
+**225** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2099990033323401615"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099990033323401615)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099990033323401615-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099641928220361114"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Orijinal gönderi](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099641928220361114-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099632246730760679"></a>
 
@@ -4033,20 +4077,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2099618517083369624"></a>
 
-### Çeviri sürüyor
+### Bordo tişörtlü ve sakallı genç erkeğin gerçekçi portresi.
 
 Yazar：[@\_lucasvslima](https://x.com/_lucasvslima) · [Orijinal gönderi](https://x.com/_lucasvslima/status/2099618517083369624)
 
 Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bordo tişörtlü ve sakallı genç erkeğin gerçekçi portresi.
 
 <img src="images/2099618517083369624-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Esmer tenli, kısa saçlı ve belirgin sakallı, doğrudan kameraya bakan, bordo tişört giymiş genç bir erkeğin hiper gerçekçi fotoğrafik portresi.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4077,20 +4121,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2099627143735156922"></a>
 
-### Çeviri sürüyor
+### Gece havuzunun kenarında mikro bikini giyen ve enerjisi tavan yapmış Japon gyaru kızı.
 
 Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2099627143735156922)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece havuzunun kenarında mikro bikini giyen ve enerjisi tavan yapmış Japon gyaru kızı.
 
 <img src="images/2099627143735156922-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gece havuzunun kenarında, abartılı derecede küçük bir mikro bikini giymiş Japon gyaru kızı aşırı heyecandan kendini kaybediyor. Gerçekçi görsel
 ```
 
 [↑ Kategorilere dön](#catalog)

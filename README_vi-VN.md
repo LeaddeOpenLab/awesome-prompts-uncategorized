@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**223** Prompt · Bổ sung mới nhất: **2026-09-15**
+**225** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2099990033323401615"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2099990033323401615)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099990033323401615-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099641928220361114"></a>
+
+### Đang dịch
+
+Tác giả：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Bài gốc](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099641928220361114-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099632246730760679"></a>
 
@@ -4061,20 +4105,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2099618517083369624"></a>
 
-### Đang dịch
+### Chân dung chân thực của một thanh niên mặc áo thun màu đỏ rượu vang và có râu.
 
 Tác giả：[@\_lucasvslima](https://x.com/_lucasvslima) · [Bài gốc](https://x.com/_lucasvslima/status/2099618517083369624)
 
 Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung chân thực của một thanh niên mặc áo thun màu đỏ rượu vang và có râu.
 
 <img src="images/2099618517083369624-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung nhiếp ảnh siêu thực của một thanh niên, làn da ngăm, tóc ngắn và bộ râu được tỉa tót rõ nét, nhìn thẳng vào máy ảnh, mặc áo thun màu đỏ rượu vang.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4105,20 +4149,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2099627143735156922"></a>
 
-### Đang dịch
+### Cô gái gyaru Nhật Bản tràn đầy hưng phấn trong bộ micro bikini bên bờ hồ bơi đêm.
 
 Tác giả：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2099627143735156922)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cô gái gyaru Nhật Bản tràn đầy hưng phấn trong bộ micro bikini bên bờ hồ bơi đêm.
 
 <img src="images/2099627143735156922-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một cô gái gyaru Nhật Bản bên bờ hồ bơi đêm trong bộ micro bikini phóng đại quá mức, phấn khích đến điên cuồng. Hình ảnh chân thực
 ```
 
 [↑ Về danh mục](#catalog)

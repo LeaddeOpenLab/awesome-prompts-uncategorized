@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**223** Prompts · Zuletzt hinzugefügt: **2026-09-15**
+**225** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2099990033323401615"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2099990033323401615)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099990033323401615-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099641928220361114"></a>
+
+### Übersetzung läuft
+
+Autor：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Originalbeitrag](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Fotografie · Porträt / Selfie · Charakter · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099641928220361114-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099632246730760679"></a>
 
@@ -4016,20 +4060,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2099618517083369624"></a>
 
-### Übersetzung läuft
+### Realistisches Porträt eines jungen Mannes mit weinrotem T-Shirt und Bart.
 
 Autor：[@\_lucasvslima](https://x.com/_lucasvslima) · [Originalbeitrag](https://x.com/_lucasvslima/status/2099618517083369624)
 
 Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistisches Porträt eines jungen Mannes mit weinrotem T-Shirt und Bart.
 
 <img src="images/2099618517083369624-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Hyperrealistisches fotografisches Porträt eines jungen Mannes mit dunklem Teint, kurzen Haaren und gepflegtem Bart, der direkt in die Kamera blickt und ein weinrotes T-Shirt trägt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4060,20 +4104,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2099627143735156922"></a>
 
-### Übersetzung läuft
+### Ein aufgedrehtes japanisches Gyaru-Mädchen im Mikro-Bikini am Rand eines Nachtpools.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2099627143735156922)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein aufgedrehtes japanisches Gyaru-Mädchen im Mikro-Bikini am Rand eines Nachtpools.
 
 <img src="images/2099627143735156922-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein japanisches Gyaru-Mädchen am Rand eines Nachtpools in einem übertrieben knappen Mikro-Bikini flippt vor lauter Aufregung völlig aus. Realistisches Bild
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

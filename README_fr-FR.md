@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**223** Prompts · Dernier ajout: **2026-09-15**
+**225** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2099990033323401615"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2099990033323401615)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099990033323401615-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099641928220361114"></a>
+
+### Traduction en cours
+
+Auteur：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Publication originale](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Photographie · Portrait / Selfie · Personnage · Architecture / Intérieur · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099641928220361114-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099632246730760679"></a>
 
@@ -4016,20 +4060,20 @@ Traduction en cours
 
 <a name="prompt-2099618517083369624"></a>
 
-### Traduction en cours
+### Portrait réaliste d'un jeune homme avec t-shirt bordeaux et barbe.
 
 Auteur：[@\_lucasvslima](https://x.com/_lucasvslima) · [Publication originale](https://x.com/_lucasvslima/status/2099618517083369624)
 
 Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait réaliste d'un jeune homme avec t-shirt bordeaux et barbe.
 
 <img src="images/2099618517083369624-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait photographique hyperréaliste d'un jeune homme à la peau mate, cheveux courts et barbe bien taillée, regardant directement l'objectif, vêtu d'un t-shirt bordeaux.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4060,20 +4104,20 @@ Traduction en cours
 
 <a name="prompt-2099627143735156922"></a>
 
-### Traduction en cours
+### Une gyaru japonaise surexcitée en micro-bikini au bord d'une piscine nocturne.
 
 Auteur：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2099627143735156922)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une gyaru japonaise surexcitée en micro-bikini au bord d'une piscine nocturne.
 
 <img src="images/2099627143735156922-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une gyaru japonaise au bord d'une piscine nocturne, vêtue d'un micro-bikini exagérément minuscule, complètement surexcitée et déjantée. Image réaliste
 ```
 
 [↑ Retour aux catégories](#catalog)

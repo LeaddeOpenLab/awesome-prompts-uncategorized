@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**223** Prompts · Última incorporación: **2026-09-15**
+**225** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2099990033323401615"></a>
+
+### Traducción en curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2099990033323401615)
+
+Fotografía · Retrato / Selfie · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099990033323401615-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099641928220361114"></a>
+
+### Traducción en curso
+
+Autor：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Publicación original](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Fotografía · Retrato / Selfie · Personaje · Arquitectura / Interiorismo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2099641928220361114-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099632246730760679"></a>
 
@@ -4061,20 +4105,20 @@ Traducción en curso
 
 <a name="prompt-2099618517083369624"></a>
 
-### Traducción en curso
+### Retrato realista de hombre joven con camiseta color vino y barba.
 
 Autor：[@\_lucasvslima](https://x.com/_lucasvslima) · [Publicación original](https://x.com/_lucasvslima/status/2099618517083369624)
 
 Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato realista de hombre joven con camiseta color vino y barba.
 
 <img src="images/2099618517083369624-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato fotográfico hiperrealista de un hombre joven, piel morena, pelo corto y barba bien definida, mirando directamente a la cámara, con camiseta color vino.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4105,20 +4149,20 @@ Traducción en curso
 
 <a name="prompt-2099627143735156922"></a>
 
-### Traducción en curso
+### Una gyaru japonesa muy emocionada con un microbikini junto a la piscina nocturna.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2099627143735156922)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una gyaru japonesa muy emocionada con un microbikini junto a la piscina nocturna.
 
 <img src="images/2099627143735156922-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una gyaru japonesa junto a la piscina nocturna, vestida con un microbikini exageradamente diminuto, enloqueciendo de emoción. Imagen realista
 ```
 
 [↑ Volver a categorías](#catalog)

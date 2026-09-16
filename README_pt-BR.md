@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**223** Prompts · Última adição: **2026-09-15**
+**225** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099990033323401615"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2099990033323401615)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099990033323401615-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099641928220361114"></a>
+
+### Tradução em andamento
+
+Autor：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Publicação original](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Fotografia · Retrato / Selfie · Personagem · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099641928220361114-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099632246730760679"></a>
 
@@ -4033,20 +4077,20 @@ Tradução em andamento
 
 <a name="prompt-2099618517083369624"></a>
 
-### Tradução em andamento
+### Retrato realista de homem jovem com camiseta vinho e barba.
 
 Autor：[@\_lucasvslima](https://x.com/_lucasvslima) · [Publicação original](https://x.com/_lucasvslima/status/2099618517083369624)
 
 Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato realista de homem jovem com camiseta vinho e barba.
 
 <img src="images/2099618517083369624-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Retrato fotográfico hiper-realista de um homem jovem, pele morena, cabelo curto e barba bem definida, olhando diretamente para a câmera, usando camiseta vinho.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4077,20 +4121,20 @@ Tradução em andamento
 
 <a name="prompt-2099627143735156922"></a>
 
-### Tradução em andamento
+### Uma gyaru japonesa muito animada de microbiquíni na beira de uma piscina noturna.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2099627143735156922)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma gyaru japonesa muito animada de microbiquíni na beira de uma piscina noturna.
 
 <img src="images/2099627143735156922-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma gyaru japonesa na beira de uma piscina noturna com um microbiquíni exageradamente minúsculo, ficando louca de tanta empolgação. Imagem realista
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**223** Prompt · Ultima aggiunta: **2026-09-15**
+**225** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,50 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2099990033323401615"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2099990033323401615)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099990033323401615-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099641928220361114"></a>
+
+### Traduzione in corso
+
+Autore：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Post originale](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Fotografia · Ritratto / Selfie · Personaggio · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099641928220361114-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2099632246730760679"></a>
 
@@ -4016,20 +4060,20 @@ Traduzione in corso
 
 <a name="prompt-2099618517083369624"></a>
 
-### Traduzione in corso
+### Ritratto realistico di un giovane uomo con maglietta bordeaux e barba.
 
 Autore：[@\_lucasvslima](https://x.com/_lucasvslima) · [Post originale](https://x.com/_lucasvslima/status/2099618517083369624)
 
 Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto realistico di un giovane uomo con maglietta bordeaux e barba.
 
 <img src="images/2099618517083369624-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto fotografico iperrealista di un giovane uomo, pelle olivastra, capelli corti e barba ben definita, che guarda dritto nella fotocamera, indossando una maglietta color bordeaux.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4060,20 +4104,20 @@ Traduzione in corso
 
 <a name="prompt-2099627143735156922"></a>
 
-### Traduzione in corso
+### Una gyaru giapponese super eccitata in micro bikini a bordo piscina di notte.
 
 Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2099627143735156922)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una gyaru giapponese super eccitata in micro bikini a bordo piscina di notte.
 
 <img src="images/2099627143735156922-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una gyaru giapponese a bordo piscina di notte con un micro bikini esageratamente ridotto, completamente fuori di testa per l'eccitazione. Immagine realistica
 ```
 
 [↑ Torna alle categorie](#catalog)
