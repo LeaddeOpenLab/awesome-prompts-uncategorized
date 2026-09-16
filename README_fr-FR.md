@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**236** Prompts · Dernier ajout: **2026-09-16**
+**238** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2100065897792839714"></a>
+
+### Traduction en cours
+
+Auteur：[@AkioT315](https://x.com/AkioT315) · [Publication originale](https://x.com/AkioT315/status/2100065897792839714)
+
+Photographie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100065897792839714.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4284,22 +4306,48 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### Traduction en cours
+
+Auteur：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Publication originale](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+Conception d'applications / de sites web · Personnage · Publié
+
+Publication originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publication originale](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100056268690039184-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### Une femme courant en plein air vêtue d'une jupe courte militaire et d'une chemise à motif camouflage.
 
 Auteur：[@LBallz77283](https://x.com/LBallz77283) · [Publication originale](https://x.com/LBallz77283/status/2100043372387860775)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une femme courant en plein air vêtue d'une jupe courte militaire et d'une chemise à motif camouflage.
 
 <img src="covers/2100043372387860775.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une femme courant vêtue d'une jupe courte militaire et d'une chemise marron à motif camouflage. Elle ressemble à une femme blanche séduisante aux cheveux châtain foncé.
 ```
 
 [↑ Retour aux catégories](#catalog)

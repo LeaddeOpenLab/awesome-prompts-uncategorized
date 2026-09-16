@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**236** Prompts · Última incorporación: **2026-09-16**
+**238** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2100065897792839714"></a>
+
+### Traducción en curso
+
+Autor：[@AkioT315](https://x.com/AkioT315) · [Publicación original](https://x.com/AkioT315/status/2100065897792839714)
+
+Fotografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2100065897792839714.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4284,22 +4306,48 @@ Traducción en curso
 
 ## Otros
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### Traducción en curso
+
+Autor：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Publicación original](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+Diseño de aplicaciones / web · Personaje · Publicado
+
+Publicación original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicación original](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100056268690039184-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### Una mujer corriendo al aire libre con una falda corta militar y una camisa de camuflaje.
 
 Autor：[@LBallz77283](https://x.com/LBallz77283) · [Publicación original](https://x.com/LBallz77283/status/2100043372387860775)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Una mujer corriendo al aire libre con una falda corta militar y una camisa de camuflaje.
 
 <img src="covers/2100043372387860775.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una mujer corriendo con una falda corta militar y una camisa marrón de camuflaje. Se ve como una atractiva mujer blanca con cabello castaño oscuro.
 ```
 
 [↑ Volver a categorías](#catalog)

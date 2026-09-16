@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**236** 条内容 · 最新收录: **2026-09-16**
+**238** 条内容 · 最新收录: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2100065897792839714"></a>
+
+### 翻译中
+
+作者：[@AkioT315](https://x.com/AkioT315) · [查看 X 原帖](https://x.com/AkioT315/status/2100065897792839714)
+
+摄影 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2100065897792839714.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4300,22 +4322,48 @@ FIELD NOTE [编号]
 
 ## 其他
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### 翻译中
+
+作者：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [查看 X 原帖](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+App / 网页设计 · 角色 · 已推流
+
+查看 X 原帖：[@DeepBlueX0](https://x.com/DeepBlueX0) · [查看 X 原帖](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**概括:** 翻译中
+
+<img src="images/2100056268690039184-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### 一名身穿军装短裙和迷彩衬衫在户外奔跑的女人。
 
 作者：[@LBallz77283](https://x.com/LBallz77283) · [查看 X 原帖](https://x.com/LBallz77283/status/2100043372387860775)
 
 角色 · 已推流
 
-**概括:** 翻译中
+**概括:** 一名身穿军装短裙和迷彩衬衫在户外奔跑的女人。
 
 <img src="covers/2100043372387860775.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+一名身穿军装短裙和迷彩棕色衬衫奔跑的女人。她看起来是一位留着深棕色头发的性感白人女性。
 ```
 
 [↑ 返回分类目录](#catalog)

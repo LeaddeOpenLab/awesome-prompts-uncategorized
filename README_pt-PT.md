@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**236** Prompts · Adição mais recente: **2026-09-16**
+**238** Prompts · Adição mais recente: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100065897792839714"></a>
+
+### Tradução em curso
+
+Autor：[@AkioT315](https://x.com/AkioT315) · [Publicação original](https://x.com/AkioT315/status/2100065897792839714)
+
+Fotografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100065897792839714.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4301,22 +4323,48 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### Tradução em curso
+
+Autor：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Publicação original](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+Design de Aplicações / Web · Personagem · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100056268690039184-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### Uma mulher a correr ao ar livre com uma saia curta militar e uma camisa camuflada.
 
 Autor：[@LBallz77283](https://x.com/LBallz77283) · [Publicação original](https://x.com/LBallz77283/status/2100043372387860775)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma mulher a correr ao ar livre com uma saia curta militar e uma camisa camuflada.
 
 <img src="covers/2100043372387860775.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma mulher a correr com uma saia curta militar e uma camisa castanha camuflada. Ela parece uma mulher branca atraente com cabelo castanho-escuro.
 ```
 
 [↑ Voltar às categorias](#catalog)

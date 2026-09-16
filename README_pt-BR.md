@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**236** Prompts · Última adição: **2026-09-16**
+**238** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100065897792839714"></a>
+
+### Tradução em andamento
+
+Autor：[@AkioT315](https://x.com/AkioT315) · [Publicação original](https://x.com/AkioT315/status/2100065897792839714)
+
+Fotografia · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100065897792839714.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4301,22 +4323,48 @@ Tradução em andamento
 
 ## Outros
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### Tradução em andamento
+
+Autor：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Publicação original](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+Design de Aplicativos / Web · Personagem · Publicado
+
+Publicação original：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Publicação original](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100056268690039184-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### Uma mulher correndo ao ar livre com uma saia curta militar e camisa camuflada.
 
 Autor：[@LBallz77283](https://x.com/LBallz77283) · [Publicação original](https://x.com/LBallz77283/status/2100043372387860775)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma mulher correndo ao ar livre com uma saia curta militar e camisa camuflada.
 
 <img src="covers/2100043372387860775.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma mulher correndo com uma saia curta militar e uma camisa marrom camuflada. Ela parece uma mulher branca atraente com cabelo castanho-escuro.
 ```
 
 [↑ Voltar às categorias](#catalog)

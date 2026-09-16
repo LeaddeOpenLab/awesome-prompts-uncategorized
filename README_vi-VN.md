@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**236** Prompt · Bổ sung mới nhất: **2026-09-16**
+**238** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2100065897792839714"></a>
+
+### Đang dịch
+
+Tác giả：[@AkioT315](https://x.com/AkioT315) · [Bài gốc](https://x.com/AkioT315/status/2100065897792839714)
+
+Nhiếp ảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100065897792839714.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4329,22 +4351,48 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### Đang dịch
+
+Tác giả：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Bài gốc](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+Thiết kế ứng dụng / web · Nhân vật · Đã xuất bản
+
+Bài gốc：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Bài gốc](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100056268690039184-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### Một người phụ nữ đang chạy ngoài trời trong chiếc váy ngắn phong cách quân đội và áo sơ mi rằn ri.
 
 Tác giả：[@LBallz77283](https://x.com/LBallz77283) · [Bài gốc](https://x.com/LBallz77283/status/2100043372387860775)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một người phụ nữ đang chạy ngoài trời trong chiếc váy ngắn phong cách quân đội và áo sơ mi rằn ri.
 
 <img src="covers/2100043372387860775.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một người phụ nữ đang chạy trong chiếc váy ngắn phong cách quân đội cùng áo sơ mi rằn ri màu nâu. Cô ấy trông giống một phụ nữ da trắng quyến rũ với mái tóc màu nâu sẫm.
 ```
 
 [↑ Về danh mục](#catalog)

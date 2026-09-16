@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**236** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**238** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2100065897792839714"></a>
+
+### Übersetzung läuft
+
+Autor：[@AkioT315](https://x.com/AkioT315) · [Originalbeitrag](https://x.com/AkioT315/status/2100065897792839714)
+
+Fotografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100065897792839714.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4284,22 +4306,48 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### Übersetzung läuft
+
+Autor：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Originalbeitrag](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+App- / Webdesign · Charakter · Veröffentlicht
+
+Originalbeitrag：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Originalbeitrag](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100056268690039184-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### Eine Frau, die im Freien in einem kurzen Militärrock und einem Camouflage-Hemd rennt.
 
 Autor：[@LBallz77283](https://x.com/LBallz77283) · [Originalbeitrag](https://x.com/LBallz77283/status/2100043372387860775)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Eine Frau, die im Freien in einem kurzen Militärrock und einem Camouflage-Hemd rennt.
 
 <img src="covers/2100043372387860775.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine Frau, die in einem kurzen Militärrock mit einem braunen Camouflage-Hemd rennt. Sie sieht aus wie eine attraktive weiße Frau mit dunkelbraunem Haar.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

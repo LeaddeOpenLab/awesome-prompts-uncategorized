@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**236** Prompt · Ultima aggiunta: **2026-09-16**
+**238** Prompt · Ultima aggiunta: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100065897792839714"></a>
+
+### Traduzione in corso
+
+Autore：[@AkioT315](https://x.com/AkioT315) · [Post originale](https://x.com/AkioT315/status/2100065897792839714)
+
+Fotografia · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100065897792839714.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4284,22 +4306,48 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### Traduzione in corso
+
+Autore：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Post originale](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+App / Web Design · Personaggio · Pubblicato
+
+Post originale：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Post originale](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100056268690039184-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### Una donna che corre all'aperto con una gonna corta militare e una camicia mimetica.
 
 Autore：[@LBallz77283](https://x.com/LBallz77283) · [Post originale](https://x.com/LBallz77283/status/2100043372387860775)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una donna che corre all'aperto con una gonna corta militare e una camicia mimetica.
 
 <img src="covers/2100043372387860775.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una donna che corre con una gonna corta militare e una camicia mimetica marrone. Sembra un'attraente donna bianca con i capelli castano scuro.
 ```
 
 [↑ Torna alle categorie](#catalog)

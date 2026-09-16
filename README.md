@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**236** Prompts · Latest addition: **2026-09-16**
+**238** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100065897792839714"></a>
+
+### A prompt for a video of a flower overflowing with light swaying in the wind, rotating around it.
+
+Author：[@AkioT315](https://x.com/AkioT315) · [Source](https://x.com/AkioT315/status/2100065897792839714)
+
+Photography · Published
+
+**Summary:** A prompt for a video of a flower overflowing with light swaying in the wind, rotating around it.
+
+<img src="covers/2100065897792839714.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Shining as if light overflows from the flower, gently swaying in a soft breeze, played back while slowly rotating around it.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -5540,6 +5562,32 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100056268690039184"></a>
+
+### A realistic iPhone Photos app interface screenshot style prompt themed around the Neon Genesis Evangelion character Asuka traveling in Guangzhou.
+
+Author：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Source](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+App / Web Design · Character · Published
+
+Source：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Source](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Summary:** A realistic iPhone Photos app interface screenshot style prompt themed around the Neon Genesis Evangelion character Asuka traveling in Guangzhou.
+
+<img src="images/2100056268690039184-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Asuka × Guangzhou Trip iPhone Photos screenshot × iOS 27
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100043372387860775"></a>
 

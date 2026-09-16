@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**236** Prompt · Son eklenen: **2026-09-16**
+**238** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,28 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2100065897792839714"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AkioT315](https://x.com/AkioT315) · [Orijinal gönderi](https://x.com/AkioT315/status/2100065897792839714)
+
+Fotoğrafçılık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100065897792839714.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100045003200279003"></a>
 
@@ -4301,22 +4323,48 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2100043372387860775"></a>
+<a name="prompt-2100056268690039184"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@nicle\_qingfeng](https://x.com/nicle_qingfeng) · [Orijinal gönderi](https://x.com/nicle_qingfeng/status/2100056268690039184)
+
+Uygulama / Web Tasarımı · Karakter · Yayımlandı
+
+Orijinal gönderi：[@DeepBlueX0](https://x.com/DeepBlueX0) · [Orijinal gönderi](https://x.com/DeepBlueX0/status/2099684732950958440)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100056268690039184-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100056268690039184-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100043372387860775"></a>
+
+### Dışarıda askerî kısa etek ve kamuflaj gömlekle koşan bir kadın.
 
 Yazar：[@LBallz77283](https://x.com/LBallz77283) · [Orijinal gönderi](https://x.com/LBallz77283/status/2100043372387860775)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Dışarıda askerî kısa etek ve kamuflaj gömlekle koşan bir kadın.
 
 <img src="covers/2100043372387860775.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Askerî tarzda kısa bir etek ve kahverengi kamuflaj gömlekle koşan bir kadın. Koyu kahverengi saçlı, çekici beyaz bir kadına benziyor.
 ```
 
 [↑ Kategorilere dön](#catalog)
