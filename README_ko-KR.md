@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**238** 개 · 최근 추가: **2026-09-16**
+**239** 개 · 최근 추가: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -4320,6 +4320,30 @@ FIELD NOTE [번호]
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2100080507510034829"></a>
+
+### 번역 중
+
+작성자：[@PixelAigc](https://x.com/PixelAigc) · [원본 게시물](https://x.com/PixelAigc/status/2100080507510034829)
+
+초록 / 배경 · 배포 완료
+
+원본 게시물：[@PixelAigc](https://x.com/PixelAigc) · [원본 게시물](https://x.com/PixelAigc/status/2100051139547054118)
+
+**요약:** 번역 중
+
+<img src="covers/2100080507510034829.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2100056268690039184"></a>
 

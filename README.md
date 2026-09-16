@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**238** Prompts · Latest addition: **2026-09-16**
+**239** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -5562,6 +5562,30 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100080507510034829"></a>
+
+### Dunhuang Flying Apsara Dancer Steps Down and Knocks Over Desktop Icons, Scrambling to Put Them Back - Playful Live Wallpaper Video Prompt.
+
+Author：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2100080507510034829)
+
+Abstract / Background · Published
+
+Source：[@PixelAigc](https://x.com/PixelAigc) · [Source](https://x.com/PixelAigc/status/2100051139547054118)
+
+**Summary:** Dunhuang Flying Apsara Dancer Steps Down and Knocks Over Desktop Icons, Scrambling to Put Them Back - Playful Live Wallpaper Video Prompt.
+
+<img src="covers/2100080507510034829.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+An Apsara (Dunhuang flying celestial) is dancing; when her foot steps down, it tugs at the backdrop curtain of the screen, causing the curtain to shake and jolting all the icons on the left side down onto the ground. Frightened, the Apsara covers her mouth with both hands, hurriedly stops dancing, runs to the left, and presses the icons on the ground back into their original positions one by one. But being in too much of a rush, two icons are pressed on crookedly. She immediately returns to her original position on the right, resumes her opening pose, her expression wearing a forced smile. A gentle breeze blows, making her garments and silk ribbons flutter. Fixed camera shot, the background music transitions from traditional Dunhuang music at the beginning to a witty and humorous tune later on.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100056268690039184"></a>
 

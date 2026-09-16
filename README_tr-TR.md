@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**238** Prompt · Son eklenen: **2026-09-16**
+**239** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -4322,6 +4322,30 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2100080507510034829"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2100080507510034829)
+
+Özet / Arka Plan · Yayımlandı
+
+Orijinal gönderi：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2100051139547054118)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100080507510034829.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100056268690039184"></a>
 

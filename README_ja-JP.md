@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**238** 件 · 最新の追加: **2026-09-16**
+**239** 件 · 最新の追加: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -4320,6 +4320,30 @@ FIELD NOTE [番号]
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2100080507510034829"></a>
+
+### 翻訳中
+
+作者：[@PixelAigc](https://x.com/PixelAigc) · [元の投稿](https://x.com/PixelAigc/status/2100080507510034829)
+
+要旨 / 背景 · 配信済み
+
+元の投稿：[@PixelAigc](https://x.com/PixelAigc) · [元の投稿](https://x.com/PixelAigc/status/2100051139547054118)
+
+**概要:** 翻訳中
+
+<img src="covers/2100080507510034829.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2100056268690039184"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**238** 筆內容 · 最新收錄: **2026-09-16**
+**239** 筆內容 · 最新收錄: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -4321,6 +4321,30 @@ FIELD NOTE [編號]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2100080507510034829"></a>
+
+### 翻譯中
+
+作者：[@PixelAigc](https://x.com/PixelAigc) · [查看 X 原帖](https://x.com/PixelAigc/status/2100080507510034829)
+
+摘要 / 背景 · 已推流
+
+查看 X 原帖：[@PixelAigc](https://x.com/PixelAigc) · [查看 X 原帖](https://x.com/PixelAigc/status/2100051139547054118)
+
+**概括:** 翻譯中
+
+<img src="covers/2100080507510034829.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2100056268690039184"></a>
 
