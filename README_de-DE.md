@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**231** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**235** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,84 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2100045003200279003"></a>
+
+### Übersetzung läuft
+
+Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Originalbeitrag](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Originalbeitrag](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100045003200279003-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### Übersetzung läuft
+
+Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Originalbeitrag](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+Fotografie · Charakter · Veröffentlicht
+
+Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Originalbeitrag](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100036195572937061-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2099988959992709449-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -4205,6 +4283,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2100005735417397494"></a>
+
+### Übersetzung läuft
+
+Autor：[@owenxplore](https://x.com/owenxplore) · [Originalbeitrag](https://x.com/owenxplore/status/2100005735417397494)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100005735417397494.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 

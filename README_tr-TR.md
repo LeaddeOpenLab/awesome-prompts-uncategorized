@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**231** Prompt · Son eklenen: **2026-09-16**
+**235** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,84 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2100045003200279003"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100045003200279003-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+Fotoğrafçılık · Karakter · Yayımlandı
+
+Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100036195572937061-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2099988959992709449-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -4222,6 +4300,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2100005735417397494"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@owenxplore](https://x.com/owenxplore) · [Orijinal gönderi](https://x.com/owenxplore/status/2100005735417397494)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100005735417397494.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**231** 개 · 최근 추가: **2026-09-16**
+**235** 개 · 최근 추가: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,84 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <a name="category-photography"></a>
 
 ## 사진술
+
+<a name="prompt-2100045003200279003"></a>
+
+### 번역 중
+
+작성자：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [원본 게시물](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
+
+원본 게시물：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [원본 게시물](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**요약:** 번역 중
+
+<img src="images/2100045003200279003-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="이미지 3" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### 번역 중
+
+작성자：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [원본 게시물](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+사진술 · 캐릭터 · 배포 완료
+
+원본 게시물：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [원본 게시물](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**요약:** 번역 중
+
+<img src="images/2100036195572937061-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="이미지 3" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### 번역 중
+
+작성자：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [원본 게시물](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+사진술 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2099988959992709449-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -4220,6 +4298,28 @@ FIELD NOTE [번호]
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2100005735417397494"></a>
+
+### 번역 중
+
+작성자：[@owenxplore](https://x.com/owenxplore) · [원본 게시물](https://x.com/owenxplore/status/2100005735417397494)
+
+기타 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2100005735417397494.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 

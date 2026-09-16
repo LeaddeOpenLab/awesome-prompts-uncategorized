@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**231** Prompts · Última adição: **2026-09-16**
+**235** Prompts · Última adição: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,84 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100045003200279003"></a>
+
+### Tradução em andamento
+
+Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicação original](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+Publicação original：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicação original](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100045003200279003-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### Tradução em andamento
+
+Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicação original](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+Fotografia · Personagem · Publicado
+
+Publicação original：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicação original](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100036195572937061-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+Fotografia · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2099988959992709449-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -4222,6 +4300,28 @@ Tradução em andamento
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2100005735417397494"></a>
+
+### Tradução em andamento
+
+Autor：[@owenxplore](https://x.com/owenxplore) · [Publicação original](https://x.com/owenxplore/status/2100005735417397494)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100005735417397494.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 

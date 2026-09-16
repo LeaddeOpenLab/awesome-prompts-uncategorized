@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**231** Prompts · Latest addition: **2026-09-16**
+**235** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,232 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100045003200279003"></a>
+
+### Prompt depicting a 22-year-old woman trying on a light blue shirt in an apparel shop, styled like an unedited smartphone photo.
+
+Author：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Source](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+Source：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Source](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**Summary:** Prompt depicting a 22-year-old woman trying on a light blue shirt in an apparel shop, styled like an unedited smartphone photo.
+
+<img src="images/2100045003200279003-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Character Identity:
+A fictional 22-year-old adult Japanese woman. An unambiguously adult 4th-year university student majoring in information engineering. A sophisticated, fair-skinned "shiro-gal". Distinctly elongated heart-shaped face, high cheekbones, slender jaw, slightly hooded horizontally wide almond-shaped dark hazel eyes, subtly upturned outer eye corners, sharply defined high-arched eyebrows, a narrow and straight nose with a sharp tip, and glossy lips with a fuller lower lip. Clear, luminous neutral-toned skin that is not tanned, with realistic texture, subtle asymmetry, and exactly one small mole placed high on her anatomical right cheek. Naturally glossy, long, layered black hair reaching below the bust, completely pin-straight from roots to tips without any waves or curls. Modern, clean gal-style makeup featuring honey-brown colored contacts, long eyelashes, a thin winged eyeliner flick, and coral beige lipstick. Signature expression is a big, confident smile showing teeth. In all scenes, accurately maintain this fictional adult woman's character likeness, facial structure, mole position, black hair color, straight hair texture, hair length, and mature adult age appearance.
+
+Physique Continuity:
+168 cm tall with long legs, a confident straight posture, and a glamorous yet realistic adult physique. Fixed physique with a naturally full bust proportionate to her ribcage, displaying realistic base width, forward projection, soft weight, and natural gravity. A toned yet realistic waist, with well-balanced hips and thighs proportionate to her long legs. Maintain proportions of height, ribcage, waist, pelvis, and limbs across any change in perspective. Convey her figure through regular opaque clothing and natural fabric tension, without push-ups, cleavage emphasis, padding, extreme compression, implant-like spheres, or impossibly tiny waists.
+
+Shooting Situation:
+11:40 AM. Turning her face away from the store mirror toward her friend, smiling with slightly raised eyebrows.
+
+Scene / Background:
+Beside a mirror inside a clothing boutique. Clothing racks, worn wooden flooring. Her face is not reflected in the mirror.
+
+Outfit:
+A white, thin-stretch ribbed, form-fitting short-sleeved top. Shallow square neckline, hem reaching the hips. Dark navy high-waisted skinny jeans, white platform sneakers, a small black shoulder bag, thin gold hoop earrings, and a smartwatch. Wearing her long straight black hair down.
+
+Pose / Action:
+Holding a hanger with a light blue shirt up against the front of her shoulder with her right hand, lightly pinching its hem with her left hand.
+
+Composition / Framing:
+Shot by her friend from 1.8 meters away, eye-level at 1.3 meters, standard 1x zoom. Framed from the head to below the knees. The face in the mirror is out of frame.
+Output exactly one undivided image with the specified final size of 1086 × 1448 px, 3:4 aspect ratio.
+
+Lighting / Atmosphere:
+Warm interior store lighting blended with natural light coming from the entrance.
+
+Rendering / Image Quality:
+Depicted as a single, minimally processed HEIC snapshot taken with a standard smartphone camera app. Follow the camera's single AF plane without separately relighting, denoising, or sharpening distant faces. Detail gradually decreases with distance. On any recognizable face, concurrently preserve broad variations such as warmth on one cheek, uneven shine in the T-zone, differing under-eye tones between left and right, and slight redness around the nose, without drawing distant pores. On the closest resolvable skin, preserve non-repeating low-contrast variations, pressure-induced redness, crease shadows, and sparse follicle variations. Makeup should look like real pigment with slightly uneven edges, maintaining normal color irregularities across lips and teeth. Retain uneven exposure and white balance, unlifted shadows, small stray hairs, compositional off-centering, shadow noise, subtle sharpening near the AF point, and HEIC compression artifacts. A raw, authentic frame from a private camera roll.
+
+Crucial Constraints:
+Output exactly one undivided adult smartphone photograph matching all approved scene specifications. Must satisfy both the approved scene quality criteria and the fixed natural smartphone quality criteria prior to acceptance.
+
+One 22-year-old adult female. Friend/photographer is out of frame.
+Approved Acceptance Criteria:
+1) Maintain the adult female likeness, straight black hair, and physique.
+2) Maintain continuity of the approved outfit, primary action, accessories, and scene.
+3) Natural composition, lighting, contact interactions, and hands/fingers.
+4) A smartphone photo with a single AF plane, depth-based resolution gradient, and natural skin and material variances.
+
+Described background and props.
+
+Thin fabrics remain opaque. Natural creasing around joints and seated areas on form-fitting garments. Maintain the shallow square neckline of the white top. Do not change it to a crew neck or a deep plunge.
+
+Maintain natural physical contact between feet and floor, hands and props.
+
+Single AF on the face. A single standalone 3:4 vertical image. Do not crop limbs awkwardly at the edge of the specified frame.
+Only one image. Maintain the approved aspect ratio and keep the necessary elements within the frame.
+
+Preserve shadow areas and natural exposure variations.
+
+Single AF plane. No face-only exposure compensation, relighting, smoothing, or restoration. Broad tonal differences on distant faces, irregular variations on near skin, and smartphone-specific degradation locally preserved.
+
+Feature only one unambiguously adult fictional female as the primary subject in a single, undivided photograph. One head, one face, exactly two anatomically connected arms belonging to her, with naturally formed hands. Additional foreground hands are permitted only if explicitly defined in the scene or prop specs, appearing distinctly separate from the subject. No text, panels, duplicate persons, or extra viewpoints in the output.
+
+Negative Prompt:
+Different scene., overly manicured hotel-like background., sheer fabrics, outfit discrepancies., fused fingers, floating feet, unnatural joint angles., cropping only body parts, split images., face-only relighting, studio lighting., beauty skin filters, glowing porcelain face, waxy uniform face or limbs, skin whitening, high-key beauty fill light, relit face, sharpened face, overly perfect makeup edges, uniformly glossy lips, uniformly bright teeth, edge-to-edge uniform sharpness, global clarity boost, repeating textures, global fake grain, excessive HDR, polished fashion editorial look, catalog-like symmetrical composition, ad campaign finish, CGI, illustration, minor, teenager, child, childlike age appearance, school uniform, real person, likeness to celebrities, duplicated persons, extra persons, extra heads, extra faces, extra subject arms, missing subject arms, fused limbs, detached limbs, deformed hands, extra fingers, fused fingers, distorted face, cross-eyed, text, caption, letters, numbers, logos, watermarks, signatures, borders, grids, contact sheet, collage, split screen, inset window, multiple panels
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### Detailed Japanese prompt to reproduce a natural smartphone-style photo of a 22-year-old woman waving to a friend in front of a station.
+
+Author：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Source](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+Photography · Character · Published
+
+Source：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Source](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**Summary:** Detailed Japanese prompt to reproduce a natural smartphone-style photo of a 22-year-old woman waving to a friend in front of a station.
+
+<img src="images/2100036195572937061-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Character Identity:
+A fictional 22-year-old Japanese adult female. Distinctly an adult, a 4th-year university student majoring in information engineering. A sophisticated, fair-skinned 'shiro-gal'. A distinctly vertically elongated heart-shaped face, high cheekbones, a narrow jaw, slightly hooded horizontally wide almond-shaped dark hazel eyes, slightly upturned outer eye corners, well-defined high arched eyebrows, a slender straight nose with a sharp tip, and glossy lips with a fuller lower lip. Clear, fair, neutral-toned skin that is not tanned, with realistic texture, subtle asymmetry, and exactly one small mole positioned high on her anatomical right cheek. Natural glossy black long layered hair reaching below her chest, completely straight from roots to ends without any waves or curls. Modern, clean gal-style makeup featuring honey-brown colored contacts, long eyelashes, thin winged eyeliner, and coral-beige lipstick. Her characteristic expression is a broad, confident smile showing teeth. Maintain this fictional adult woman's persona, facial features, mole placement, black hair color, straight hair texture, length, and adult age perception accurately across all scenes.
+
+Physique Continuity:
+168 cm tall with long legs, a confident upright posture, and a glamorous yet realistic adult physique. Fixed physique: naturally full bust proportionate to her ribcage, with realistic base width, forward projection, soft weight, and gravity. A toned yet realistic waist, with well-balanced hips and thighs proportionate to her long legs. Maintain the proportions of height, ribcage, waist, pelvis, and limbs regardless of camera angle changes. Convey the physique through normal opaque clothing and natural fabric tension, without push-up effects, cleavage enhancement, padding, extreme compression, implant-like spheres, or an impossibly tiny waist.
+
+Shooting Situation:
+10:30 AM. Stopping upon spotting a friend in front of a train station. A big smile showing teeth while looking at her friend.
+
+Scene/Background:
+In the shade near a wall in front of the train station, with a bright sidewalk behind her.
+
+Outfit:
+White thin stretch-ribbed form-fitting short-sleeved top. Shallow square neckline, hem reaching the waist. Dark navy high-waisted skinny jeans, white platform sneakers, small black shoulder bag, thin gold hoop earrings, smartwatch. Long straight black hair worn down.
+
+Pose/Action:
+One foot half a step forward, right hand waving slightly at shoulder height, left hand holding a smartphone just about to be put away.
+
+Composition/Framing:
+Friend at 2.5m distance, height 1.4m, standard 1x zoom. Full body with margin around the station front.
+Output exactly one undivided image of the specified final size 1086 × 1448px, 3:4 aspect ratio.
+
+Lighting/Atmosphere:
+Natural light in the shade with a bright sidewalk in the background.
+
+Rendering/Image Quality:
+Depicted as a single minimally processed HEIC photo taken with a standard smartphone's default camera app. Follow the camera's single AF plane, without separate relighting, denoising, or sharpening on distant faces. Details diminish continuously with distance. For recognizable faces, simultaneously retain broad color variations such as warm tones on one cheek, uneven shine in the T-zone, different undertones under each eye, and slight nasal redness, without rendering distant pores. On the closest resolvable skin, retain non-repeating low-contrast colors, pressure-induced redness, wrinkle shadows, and sparse hair follicle variations. Makeup should appear as actual pigment with slightly uneven edges, keeping natural color irregularities on lips and teeth. Retain uneven exposure and white balance, unlifted shadows, stray flyaway hairs, off-center composition, shadow noise, subtle sharpening near the AF point, and HEIC compression artifacts. A raw, authentic frame from a private camera roll.
+
+Important Constraints:
+Output exactly one undivided adult smartphone photo matching all approved scene specifications. Must satisfy both the approved scene quality standards and fixed natural smartphone quality criteria prior to acceptance.
+
+Single 22-year-old adult female. Friend/photographer is out of frame.
+Approved Acceptance Criteria:
+1) Maintain the adult female persona, straight black hair, and physique.
+2) Continuity of approved outfit, main action, accessories, and scene is established.
+3) Composition, lighting, contact interactions, and hands/fingers look natural.
+4) Smartphone photo featuring a single AF plane, distance-dependent resolution decay, and natural skin and fabric textures.
+
+Described background and accessories.
+
+Thin fabrics remain opaque. Natural folds at joints and sitting areas on form-fitting clothes. Maintain the shallow square neckline of the white top; do not change to a round or deep neckline.
+
+Keep natural contact between feet and ground/seating, and hands and accessories.
+
+Single AF on the face. Vertical 3:4 standalone single photo. Do not crop limbs at the frame edges. Leave margins above the head and below the toes, fully including both left and right shoe tips in the frame.
+Only one image. Maintain the approved aspect ratio and framing requirements.
+
+Retain shadows and natural exposure variations.
+
+Single AF plane. Do not perform face-only exposure compensation, relighting, smoothing, or restoration. Retain broad tonal differences on distant faces, irregular variations on close skin, and localized smartphone-derived degradation.
+
+Feature only one fictional, clearly adult woman as the main subject in a single undivided photograph. One head, one face, exactly two anatomically connected arms belonging to her, with natural hand morphology. Any extra foreground hands must be clearly separated from the subject and appear only when explicitly specified in the scene/props. Do not output text, panels, duplicate persons, or alternative viewpoints.
+
+Negative Prompt:
+Different scene., overly polished hotel-like background., see-through, outfit differences., fused fingers, floating feet, impossible joints., cropped individual body parts, split images., face-only relighting, studio lighting., beauty skin filter, glowing porcelain face, waxy uniform face or limbs, skin whitening, high-key beauty fill light, face relighting, face sharpening, overly perfect makeup edges, uniformly glossy lips, uniformly bright teeth, uniform sharpness across the entire frame, global clarity boost, repeating textures, global fake grain, excessive HDR, polished fashion rendering, catalog-like symmetrical composition, ad campaign finish, CGI, illustration, minor, teenager, child, childish age perception, school uniform, real person, likeness to celebrities, duplicated persons, extra persons, extra heads, extra faces, extra subject arms, missing subject arms, fused limbs, detached limbs, deformed hands, extra fingers, fused fingers, distorted face, cross-eyed, text, captions, letters, numbers, logos, watermarks, signatures, borders, grids, contact sheet, collage, split-screen, insets, multi-panel
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### Realistic photo generation prompt of an adult Japanese woman wearing mocha beige lingerie and holding a mug in a hotel bed on a rainy day.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Realistic photo generation prompt of an adult Japanese woman wearing mocha beige lingerie and holding a mug in a hotel bed on a rainy day.
+
+<img src="images/2099988959992709449-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Hotel Room with the Sound of Rain | Mocha Beige and a Warm Mug 🌟
+
+[Subject & Art Style]
+A photorealistic lifestyle fashion photograph depicting a clearly adult Japanese woman enjoying a warm drink in a quiet hotel bed on a drizzly morning. It captures not only the refined beauty of the lingerie, but also the comfort of relaxing indoors on a rainy day, conveying a natural intimacy akin to a momentary pause in conversation with someone close.
+A natural presentation that strikes a balance between a magazine fashion editorial and a candidly captured slice of everyday life. Avoiding overly manicured commercial advertisement aesthetics, it maintains a lived-in depth of atmosphere as if shot in a real hotel, forming a calm and harmonious frame featuring the subject, outfit, window, and bedding.
+
+[Location, Background, & Worldview]
+Set in a quiet urban hotel room. The background features crisp white bed linens, large pillows, and a dark brown headboard, with a large window positioned on one side of the frame. Fine raindrops cling to the window glass, beyond which lies a softly blurred city skyline gently veiled by the rain.
+Beside the bed stands a small nightstand and a warm bedside lamp, accompanied modestly by an open book or a light blanket if needed. Props are kept minimal to retain the hotel's pristine cleanliness while immediately conveying a relaxed morning spent at leisure.
+
+[Season, Time, & Weather]
+Evoking a mild, not-too-chilly rainy day between late spring and early autumn. The time is around 8:00 AM. Outside, thick rain clouds blanket the sky as a gentle drizzle falls continuously. It is calm weather, free of strong winds or heavy downpours, with delicate water droplets trickling down the windowpane.
+Soft morning light with a hint of rainy-day blueness enters the room, contrasting with the dampness outside. The room temperature is comfortable, imparting a tranquil hush that makes one want to linger in bed with a hot drink in hand.
+
+[Subject Character Details]
+A clearly adult 28-year-old Japanese woman. Possessing soft, refined, mature facial features with natural eyebrows, calm eyes with prominent dark irises, an elegant nose bridge, and soft, naturally flushed lips. Dark brown, shoulder-length wavy hair with subtle bedhead strands and loose tendrils framing her face. Her skin has a fair ochre tone, featuring a realistic texture with visible pores, fine subtle shading, and a healthy natural flush on the cheeks.
+Her body combines delicate shoulders, slender limbs, and a narrow waist with a naturally glamorous silhouette marked by feminine curves. Her bust has a distinctly large, rich volume, yet without hard spherical shapes or excessive push-up; it settles into a soft, natural roundness and thickness that conforms to a seated posture and gravity. Her hips display a natural fullness balanced with her overall proportions.
+
+[Wardrobe & Accessories]
+A matching lingerie set in mocha beige, consisting of a bra and panties. The décolletage features delicate ivory floral lace embroidery, with subtle satin sheen accents along the edges and selective panels. A sophisticated, refined design reminiscent of high-end lingerie lines like Wacoal, never overly sweet.
+The bra features sufficient fabric width and realistic cup construction to comfortably accommodate a full bust, offering natural support without extreme push-up or digging into the skin. The panties sit smoothly along the hips, ensuring lace and seams lie flat against the body. Accessories are fundamentally omitted to prioritize morning relaxation and clean freshness.
+
+[Pose, Action, & Gaze]
+The woman sits upright naturally in bed, supported by a large white pillow behind her back. Her legs either extend forward toward the bottom of the frame or rest bent gently together, evenly distributing her weight across her hips and the mattress. Her torso faces predominantly toward the camera, with her shoulders relaxed slightly.
+She cradles a small mug low in front of her abdomen with both hands, one hand lightly supporting the handle while the other rests on the side of the cup. The positioning ensures her arms and mug do not excessively obscure her décolletage. Rather than a rigid pose frozen for a shot, it captures an unforced moment as if she paused mid-sip and casually turned her gaze back toward the lens. Her eyes look straight into the camera.
+
+[Facial Expression & Emotion]
+Her mouth is mostly neutral, resting in an effortless, relaxed state without a wide smile or upturned corners. Meanwhile, her eyes hold a subtle playful sparkle, conveying a light, mischievous look as if keeping a playful secret.
+Her brow and cheeks remain relaxed, creating a serene expression devoid of overt provocation. It carries the nuance of feigning innocence—as though saying "I didn't do anything"—while holding a conversation purely through her eyes. Within her calm maturity lies a small, playful charm reserved for someone close.
+
+[Composition & Camera]
+A 4:5 vertical portrait composition suited for social media. A medium seated shot leaving a bit of headroom and extending down to mid-thigh. The subject is positioned slightly off-center away from the window, keeping the rain-streaked window vertically visible on one side of the frame. The bedside lamp remains subtly visible in the background, anchoring the composition through the interplay of subject, window, and warm glow.
+The camera is positioned roughly at chest to eye level, slightly back from the bed facing straight on. Conceived with a natural focal length of around 50–70mm standard to short telephoto, avoiding distortion of her face or body. The background is softly blurred while preserving enough detail to clearly identify the hotel interior and the raindrops on the glass.
+
+[Lighting, Color, Texture, & Atmosphere]
+The key light is soft morning light diffused by overcast skies pouring in through the window on one side. It wraps broadly across her face and upper body, while gentle fill light bounced from the white bedding softens shadows on the opposite side. The background bedside lamp serves as a small warm accent light, creating visual depth through the color temperature contrast with the cool, rainy sky.
+The palette centers on mocha beige, ivory, white, and greige. Highlights include subtle shading and natural color on the skin, individual hair strands with a soft sheen, delicate threadwork in the lace, discreet reflections on the satin, and crisp transparency in the window raindrops. The result is a quiet, slightly warm, and comforting sanctuary unique to a rainy morning.
+
+[Quality & Negative Elements]
+High-resolution photorealistic rendering. Prioritizes natural human anatomy, lighting, textiles, raindrops, bedding, and realistic interior perspective as if captured on an authentic camera. Portrayed unmistakably as an adult woman, strictly avoiding any childish or underage facial features or proportions.
+Avoid extra limbs, missing fingers, fused fingers, unnatural joints, swapped hands, merged body and clothing, broken lace or straps, unintended exposure, extreme wide-angle distortion, or over-smoothed plastic skin filters. While preserving a naturally full bust volume, avoid abnormal enlargement, hard spherical forms, excessive push-up, or gravity-defying shapes. No text, logos, watermarks, or UI overlays within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -5314,6 +5540,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100005735417397494"></a>
+
+### A sandstorm sweeping across desert dunes.
+
+Author：[@owenxplore](https://x.com/owenxplore) · [Source](https://x.com/owenxplore/status/2100005735417397494)
+
+Other · Published
+
+**Summary:** A sandstorm sweeping across desert dunes.
+
+<img src="covers/2100005735417397494.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Sand storm
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 

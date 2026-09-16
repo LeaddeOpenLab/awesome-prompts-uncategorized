@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**231** Prompt · Bổ sung mới nhất: **2026-09-16**
+**235** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,84 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2100045003200279003"></a>
+
+### Đang dịch
+
+Tác giả：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100045003200279003-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### Đang dịch
+
+Tác giả：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+Nhiếp ảnh · Nhân vật · Đã xuất bản
+
+Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100036195572937061-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2099988959992709449-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -4250,6 +4328,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2100005735417397494"></a>
+
+### Đang dịch
+
+Tác giả：[@owenxplore](https://x.com/owenxplore) · [Bài gốc](https://x.com/owenxplore/status/2100005735417397494)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100005735417397494.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 

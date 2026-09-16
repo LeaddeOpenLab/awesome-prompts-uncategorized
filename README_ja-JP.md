@@ -19,7 +19,7 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 
 リポジトリにスターを付けて、毎日の厳選プロンプトから新しい創作のアイデアを見つけましょう。
 
-**231** 件 · 最新の追加: **2026-09-16**
+**235** 件 · 最新の追加: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,84 @@ Leadde.ai は文書、スライド、テキストから、研修、新入社員�
 <a name="category-photography"></a>
 
 ## 写真撮影
+
+<a name="prompt-2100045003200279003"></a>
+
+### 翻訳中
+
+作者：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [元の投稿](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
+
+元の投稿：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [元の投稿](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**概要:** 翻訳中
+
+<img src="images/2100045003200279003-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="画像 3" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### 翻訳中
+
+作者：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [元の投稿](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+写真撮影 · キャラクター · 配信済み
+
+元の投稿：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [元の投稿](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**概要:** 翻訳中
+
+<img src="images/2100036195572937061-1.jpg" alt="画像 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="画像 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="画像 3" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### 翻訳中
+
+作者：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [元の投稿](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+写真撮影 · ポートレート / セルフィー · キャラクター · ファッションアイテム · 配信済み
+
+**概要:** 翻訳中
+
+<img src="images/2099988959992709449-1.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -4220,6 +4298,28 @@ FIELD NOTE [番号]
 <a name="category-other"></a>
 
 ## その他
+
+<a name="prompt-2100005735417397494"></a>
+
+### 翻訳中
+
+作者：[@owenxplore](https://x.com/owenxplore) · [元の投稿](https://x.com/owenxplore/status/2100005735417397494)
+
+その他 · 配信済み
+
+**概要:** 翻訳中
+
+<img src="covers/2100005735417397494.jpg" alt="画像 1" width="480" />
+
+**プロンプト**
+
+```text
+翻訳中
+```
+
+[↑ カテゴリに戻る](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 

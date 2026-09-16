@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**231** Prompts · Dernier ajout: **2026-09-16**
+**235** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,84 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2100045003200279003"></a>
+
+### Traduction en cours
+
+Auteur：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publication originale](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+Publication originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publication originale](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100045003200279003-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### Traduction en cours
+
+Auteur：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publication originale](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+Photographie · Personnage · Publié
+
+Publication originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publication originale](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100036195572937061-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2099988959992709449-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -4205,6 +4283,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2100005735417397494"></a>
+
+### Traduction en cours
+
+Auteur：[@owenxplore](https://x.com/owenxplore) · [Publication originale](https://x.com/owenxplore/status/2100005735417397494)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100005735417397494.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 

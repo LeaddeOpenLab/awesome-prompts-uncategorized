@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**231** 筆內容 · 最新收錄: **2026-09-16**
+**235** 筆內容 · 最新收錄: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,84 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2100045003200279003"></a>
+
+### 翻譯中
+
+作者：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [查看 X 原帖](https://x.com/HObE4TLMga99335/status/2100045003200279003)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+查看 X 原帖：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [查看 X 原帖](https://x.com/HObE4TLMga99335/status/2099689157949870499)
+
+**概括:** 翻譯中
+
+<img src="images/2100045003200279003-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2100045003200279003-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2100045003200279003-3.jpg" alt="圖片 3" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2100036195572937061"></a>
+
+### 翻譯中
+
+作者：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [查看 X 原帖](https://x.com/HObE4TLMga99335/status/2100036195572937061)
+
+攝影 · 角色 · 已推流
+
+查看 X 原帖：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [查看 X 原帖](https://x.com/HObE4TLMga99335/status/2099672800206438679)
+
+**概括:** 翻譯中
+
+<img src="images/2100036195572937061-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2100036195572937061-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2100036195572937061-3.jpg" alt="圖片 3" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### 翻譯中
+
+作者：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [查看 X 原帖](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+攝影 · 人像 / 自拍 · 角色 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2099988959992709449-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2100039611145998641"></a>
 
@@ -4221,6 +4299,28 @@ FIELD NOTE [編號]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2100005735417397494"></a>
+
+### 翻譯中
+
+作者：[@owenxplore](https://x.com/owenxplore) · [查看 X 原帖](https://x.com/owenxplore/status/2100005735417397494)
+
+其他 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2100005735417397494.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2099618517083369624"></a>
 
