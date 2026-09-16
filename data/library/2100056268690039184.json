@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T04:36:55.285Z",
+  "model": "unknown-image",
+  "prompt": "明日香 ×广州游iPhone 相册截图×iOS 27",
+  "promptTranslations": {
+    "en": "Asuka × Guangzhou Trip iPhone Photos screenshot × iOS 27"
+  },
+  "summaryTranslations": {
+    "en": "A realistic iPhone Photos app interface screenshot style prompt themed around the Neon Genesis Evangelion character Asuka traveling in Guangzhou."
+  },
+  "translationVersion": 2,
+  "summary": "以《新世纪福音战士》角色明日香在广州旅游为主题的拟真 iPhone 相册界面截图风格提示词。",
+  "summaryEn": "Prompt generating an iPhone Photos album screenshot featuring Evangelion character Asuka traveling in Guangzhou under an iOS 27 theme.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099684732950958440",
+      "canonicalUrl": "https://x.com/DeepBlueX0/status/2099684732950958440",
+      "author": {
+        "username": "DeepBlueX0",
+        "displayName": "DeepBlue深藍",
+        "profileUrl": "https://x.com/DeepBlueX0"
+      },
+      "originalText": "改了一下提示词效果好多了～\n\n🔵 GPT image 2.5 Prompt:\n\n玛奇玛 ×广州游iPhone 相册截图×iOS 27 https://t.co/6l6vwsVomG"
+    },
+    "id": "2100056268690039184",
+    "canonicalUrl": "https://x.com/nicle_qingfeng/status/2100056268690039184",
+    "author": {
+      "username": "nicle_qingfeng",
+      "displayName": "wangyi",
+      "profileUrl": "https://x.com/nicle_qingfeng"
+    },
+    "publishedAt": "2026-09-16T02:56:46.000Z",
+    "collectedAt": "2026-09-16T04:17:07.209Z",
+    "language": "zh",
+    "originalText": "提示词很好用，尝试了一下效果不错，就是感觉没那么清晰\n\nprompt：明日香 ×广州游iPhone 相册截图×iOS 27 https://t.co/EdnRYudcnc",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSTl7wJaMAA2Fyr.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSTl7wJaMAA2Fyr.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSOUIYDaQAA-nXy.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSOUIYDaQAA-nXy.jpg",
+        "sourcePostId": "2099684732950958440"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 11
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/nicle_qingfeng/status/2100056268690039184",
+  "coverUrl": "https://pbs.twimg.com/media/HSTl7wJaMAA2Fyr.jpg",
+  "coverPath": "images/2100056268690039184-1.jpg",
+  "imagePaths": [
+    "images/2100056268690039184-1.jpg",
+    "images/2100056268690039184-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSTl7wJaMAA2Fyr",
+    "x-image:/media/HSOUIYDaQAA-nXy",
+    "x-post:2100056268690039184",
+    "x-post:2099684732950958440"
+  ],
+  "analysis": {
+    "summary": "以《新世纪福音战士》角色明日香在广州旅游为主题的拟真 iPhone 相册界面截图风格提示词。",
+    "summaryEn": "Prompt generating an iPhone Photos album screenshot featuring Evangelion character Asuka traveling in Guangzhou under an iOS 27 theme.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "首张配图完全呈现了明日香在广州各景点游玩（广州塔、上下九、北京路等）的照片墙及 iOS 相册 UI 界面，与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "明日香 ×广州游iPhone 相册截图×iOS 27",
+    "sourceRange": {
+      "start": 35,
+      "end": 61
+    },
+    "translations": {
+      "zh": "明日香 ×广州游iPhone 相册截图×iOS 27",
+      "en": "Asuka × Guangzhou Trip iPhone Photos screenshot × iOS 27"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "新世纪福音战士（明日香）",
+        "Apple iOS UI"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
