@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**225** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**226** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2100017947976851633"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2100017947976851633)
+
+Fotografie · Porträt / Selfie · Essen / Trinken · Stadtbild / Straße · Veröffentlicht
+
+Originalbeitrag：[@alproducer](https://x.com/alproducer) · [Originalbeitrag](https://x.com/alproducer/status/2099705999422845289)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100017947976851633-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100017947976851633-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100017947976851633-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099990033323401615"></a>
 

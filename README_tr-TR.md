@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**225** Prompt · Son eklenen: **2026-09-16**
+**226** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2100017947976851633"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2100017947976851633)
+
+Fotoğrafçılık · Portre / Selfie · Yiyecek / İçecek · Şehir Manzarası / Sokak · Yayımlandı
+
+Orijinal gönderi：[@alproducer](https://x.com/alproducer) · [Orijinal gönderi](https://x.com/alproducer/status/2099705999422845289)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100017947976851633-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100017947976851633-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100017947976851633-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099990033323401615"></a>
 

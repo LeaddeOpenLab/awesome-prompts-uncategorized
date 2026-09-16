@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en vi
 
 Dale una estrella a este repositorio para seguir nuestra selección diaria y descubrir nuevas ideas creativas.
 
-**225** Prompts · Última incorporación: **2026-09-16**
+**226** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2100017947976851633"></a>
+
+### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2100017947976851633)
+
+Fotografía · Retrato / Selfie · Comida y bebida · Paisaje urbano / Calle · Publicado
+
+Publicación original：[@alproducer](https://x.com/alproducer) · [Publicación original](https://x.com/alproducer/status/2099705999422845289)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100017947976851633-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100017947976851633-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2100017947976851633-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099990033323401615"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**225** Prompts · Dernier ajout: **2026-09-16**
+**226** Prompts · Dernier ajout: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2100017947976851633"></a>
+
+### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2100017947976851633)
+
+Photographie · Portrait / Selfie · Alimentation / Boissons · Paysage urbain / Rue · Publié
+
+Publication originale：[@alproducer](https://x.com/alproducer) · [Publication originale](https://x.com/alproducer/status/2099705999422845289)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100017947976851633-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100017947976851633-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100017947976851633-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2099990033323401615"></a>
 

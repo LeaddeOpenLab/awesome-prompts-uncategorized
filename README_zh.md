@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**225** 条内容 · 最新收录: **2026-09-16**
+**226** 条内容 · 最新收录: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2100017947976851633"></a>
+
+### 翻译中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2100017947976851633)
+
+摄影 · 人像 / 自拍 · 食品 / 饮料 · 城市风光 / 街道 · 已推流
+
+查看 X 原帖：[@alproducer](https://x.com/alproducer) · [查看 X 原帖](https://x.com/alproducer/status/2099705999422845289)
+
+**概括:** 翻译中
+
+<img src="images/2100017947976851633-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2100017947976851633-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2100017947976851633-3.jpg" alt="图片 3" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2099990033323401615"></a>
 

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**225** Prompts · Latest addition: **2026-09-16**
+**226** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,34 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100017947976851633"></a>
+
+### Japanese-style street snap portrait prompt of two young women sitting side-by-side inside a coffee shop floor-to-ceiling window, drinking coffee and chatting.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2100017947976851633)
+
+Photography · Portrait / Selfie · Food / Drink · Cityscape / Street · Published
+
+Source：[@alproducer](https://x.com/alproducer) · [Source](https://x.com/alproducer/status/2099705999422845289)
+
+**Summary:** Japanese-style street snap portrait prompt of two young women sitting side-by-side inside a coffee shop floor-to-ceiling window, drinking coffee and chatting.
+
+<img src="images/2100017947976851633-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100017947976851633-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100017947976851633-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic coffee shop street snap portrait photography, vertical aspect ratio approximately 2:3, two distinctly adult East Asian women, 20+, sitting side by side on high bar stools behind the coffee shop's street-facing floor-to-ceiling window, photographed by a photographer standing outside looking in through the glass. Captured with an equivalent ~50–70mm lens, camera angle slightly lower than their waists and angled subtly upward, fully capturing both subjects' heads, upper bodies, thighs, calves, and tall boots, while retaining the glass window frames, the coffee shop interior, and a green circular branded light sign in the upper right corner, appearing overall like a natural candid snapshot rather than a posed photoshoot. Both subjects have small-to-medium bone structures, naturally slender with subtle soft hourglass figures, narrower shoulders, tapered waists, realistic soft thigh volume, and long legs. Both maintain natural, relaxed sitting postures with knees facing forward and legs slightly parted, avoiding exaggerated poses. The subject on the left has ultra-long, slightly wavy deep brownish-black hair reaching near her waist, with a center-to-side part and natural loose waves at the ends. Her face is turned toward her friend on the right, showing a clear, natural smile while looking at her. Her right hand holds a clear plastic cup of iced coffee with a green straw brought close to her mouth, while her left hand rests naturally on the cup or beside her thigh. She wears a cream-white / light beige fitted long-sleeved knit top with a low scoop or U-neckline made of finely ribbed fabric. On her lower body, she wears a dark grey-black and off-white tweed mini skirt with subtle structure and several golden circular decorative buttons on the front. On her feet are black knee-high leather boots with slightly loose shafts, natural creasing, and low or block heels. The subject on the right has long wavy light brown / honey brown hair falling below the chest, with light wispy bangs and natural waves. Her body is turned slightly toward the woman on the left, resting her chin on her right hand with her elbow near the tabletop or side of her body, showing a cheerful open-mouthed smile as she looks at her friend on the left. She wears an off-white chunky knit cardigan / sweater coat over a grey-beige low-neck form-fitting knit dress or long top, cohesive in tone, soft and body-hugging. On her feet are black mid-calf to knee-high leather boots with soft, slightly slouchy shafts. In front of or beside each woman is a clear plastic cup of iced coffee / latte featuring a green circular coffee brand logo, with green straws clearly visible. Beside the right-hand subject rests a light grey-beige mini handbag with a metal chain or thin shoulder strap. The setting is second-floor / high-window street-front seating of a Starbucks-style coffee shop. The subjects sit on high stools close to expansive floor-to-ceiling windows with dark grey-black metal framing, featuring subtle reflections across the glass surface. Part of a massive green circular coffee shop illuminated logo enters the frame in the upper right; along the outer edge below the window, part of a branded sign with white lettering on a black background is visible. The coffee shop interior features warm grey, wood, and off-white tones, with several warm yellow circular spotlights on the ceiling. Blurred silhouettes of other patrons are visible behind the subjects, and faint decorative wall lettering resembling 'Good Coffee Brighter Lives' appears on the wall, without requiring exact textual accuracy. The glass and window frame create a horizontal bar / mullion line near the subjects' waist levels, enhancing the authentic feel of shooting through a window. Lighting consists of overcast natural window light combined with the warm interior illumination of the coffee shop. The subjects' faces and skin are soft and bright, generally leaning toward a natural warm white; the background is slightly darker, and the glass carries subtle haze and reflections. No harsh direct flash, no theatrical cinematic lighting. Overall texture exhibits high-quality Japanese street snap / natural coffee shop candid characteristics: slight soft focus, low contrast, natural skin tones, glass with a touch of hazy reflection, and a background that remains discernible without distracting from the subjects, free from excessive HDR or aggressive portrait mode blur. Key focus: two adult East Asian women + shot through coffee shop floor-to-ceiling glass + sitting side-by-side on high stools + smiling and looking at each other + left: dark long wavy hair holding iced coffee + cream-white long-sleeved top + tweed mini skirt + gold buttons + black knee-high boots + right: light brown long wavy hair resting chin smiling + off-white knit cardigan + grey-beige fitted dress + black tall boots + two clear iced coffees + green straws + large green circular coffee shop light sign in upper right + warm interior lighting + natural Japanese candid style. Avoid: solo composition, both looking at camera, short hair, high ponytail, sportswear, jeans, pantyhose, sneakers, stiletto high-heeled boots, empty coffee shop, outdoor seating, nightclub lighting, harsh flash, excessive skin smoothing, anime face, CG look, extra limbs, watermarks, and garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099990033323401615"></a>
 
