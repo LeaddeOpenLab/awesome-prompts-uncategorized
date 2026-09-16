@@ -1,0 +1,116 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T05:22:31.220Z",
+  "model": "unknown-video",
+  "prompt": "飞天在跳舞，当她的脚踩下时，扯动了屏幕背景的幕布，幕布抖动，把左边的图标全都震落在地上，飞天吓得双手捂嘴，连忙停下舞蹈，跑到左边，把地上的图标一个个重新按回原来的位置，但由于太匆忙，有两个图标按歪了，她马上返回原来的右边位置，重新摆好开始的POSE，表情勉强微笑，轻风吹来，她的衣服和披帛飘动，固定机位，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风",
+  "promptTranslations": {
+    "en": "An Apsara (Dunhuang flying celestial) is dancing; when her foot steps down, it tugs at the backdrop curtain of the screen, causing the curtain to shake and jolting all the icons on the left side down onto the ground. Frightened, the Apsara covers her mouth with both hands, hurriedly stops dancing, runs to the left, and presses the icons on the ground back into their original positions one by one. But being in too much of a rush, two icons are pressed on crookedly. She immediately returns to her original position on the right, resumes her opening pose, her expression wearing a forced smile. A gentle breeze blows, making her garments and silk ribbons flutter. Fixed camera shot, the background music transitions from traditional Dunhuang music at the beginning to a witty and humorous tune later on."
+  },
+  "summaryTranslations": {
+    "en": "Dunhuang Flying Apsara Dancer Steps Down and Knocks Over Desktop Icons, Scrambling to Put Them Back - Playful Live Wallpaper Video Prompt."
+  },
+  "translationVersion": 2,
+  "summary": "敦煌飞天舞者踩落桌面图标并手忙脚乱复位的趣味动态壁纸视频提示词。",
+  "summaryEn": "Prompt for a dynamic wallpaper featuring a Dunhuang flying dancer knocking down desktop icons and hurriedly repositioning them.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100051139547054118",
+      "canonicalUrl": "https://x.com/PixelAigc/status/2100051139547054118",
+      "author": {
+        "username": "PixelAigc",
+        "displayName": "PixelAIGC",
+        "profileUrl": "https://x.com/PixelAigc"
+      },
+      "originalText": "坏了坏了，又翻车了！\n我看大家这几天都在发美女桌面的动态壁纸，流量老高了\n我也让H3终端给我弄一个敦煌飞天的动态壁纸\n但一不小心又翻车了，壁纸一抖就把图标都震掉了，\n手忙脚乱重新摆回去又弄歪了。😀太丢人了 https://t.co/YpTUZ48FAN"
+    },
+    "id": "2100080507510034829",
+    "canonicalUrl": "https://x.com/PixelAigc/status/2100080507510034829",
+    "author": {
+      "username": "PixelAigc",
+      "displayName": "PixelAIGC",
+      "profileUrl": "https://x.com/PixelAigc"
+    },
+    "publishedAt": "2026-09-16T04:33:05.000Z",
+    "collectedAt": "2026-09-16T05:18:53.564Z",
+    "language": "zh",
+    "originalText": "看大家比较喜欢这个H3动态屏幕视频，我就来揭秘一下这个视频的提示词 prompt ：\n\n飞天在跳舞，当她的脚踩下时，扯动了屏幕背景的幕布，幕布抖动，把左边的图标全都震落在地上，飞天吓得双手捂嘴，连忙停下舞蹈，跑到左边，把地上的图标一个个重新按回原来的位置，但由于太匆忙，有两个图标按歪了，她马上返回原来的右边位置，重新摆好开始的POSE，表情勉强微笑，轻风吹来，她的衣服和披帛飘动，固定机位，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HST7sNzbsAAwicN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HST7sNzbsAAwicN.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2100080507510034829",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100050884231360512/img/2HgY5Vhc9cu31t8c.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2100080507510034829",
+        "sourcePostId": "2100051139547054118"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 140
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/PixelAigc/status/2100080507510034829",
+  "coverUrl": "https://pbs.twimg.com/media/HST7sNzbsAAwicN.jpg",
+  "coverPath": "covers/2100080507510034829.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HST7sNzbsAAwicN",
+    "x-video:2100050884231360512",
+    "x-post:2100080507510034829",
+    "x-post:2100051139547054118"
+  ],
+  "analysis": {
+    "summary": "敦煌飞天舞者踩落桌面图标并手忙脚乱复位的趣味动态壁纸视频提示词。",
+    "summaryEn": "Prompt for a dynamic wallpaper featuring a Dunhuang flying dancer knocking down desktop icons and hurriedly repositioning them.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频与附图完全展现了飞天跳舞抖落电脑桌面图标、捂嘴惊吓后上前粘回并摆回原位微笑的全过程，与提示词描述高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "飞天在跳舞，当她的脚踩下时，扯动了屏幕背景的幕布，幕布抖动，把左边的图标全都震落在地上，飞天吓得双手捂嘴，连忙停下舞蹈，跑到左边，把地上的图标一个个重新按回原来的位置，但由于太匆忙，有两个图标按歪了，她马上返回原来的右边位置，重新摆好开始的POSE，表情勉强微笑，轻风吹来，她的衣服和披帛飘动，固定机位，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风",
+    "sourceRange": {
+      "start": 44,
+      "end": 220
+    },
+    "translations": {
+      "zh": "飞天在跳舞，当她的脚踩下时，扯动了屏幕背景的幕布，幕布抖动，把左边的图标全都震落在地上，飞天吓得双手捂嘴，连忙停下舞蹈，跑到左边，把地上的图标一个个重新按回原来的位置，但由于太匆忙，有两个图标按歪了，她马上返回原来的右边位置，重新摆好开始的POSE，表情勉强微笑，轻风吹来，她的衣服和披帛飘动，固定机位，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风",
+      "en": "A Feitian maiden is dancing; as she steps down, she pulls the screen background curtain, causing it to shake and knock down all the icons on the left. Shocked, she covers her mouth with both hands, stops dancing, rushes to the left, and pastes the icons back onto the screen one by one. In her rush, two icons are pasted crookedly. She quickly returns to the right side, reassumes her starting pose with a strained smile as a light breeze ruffles her ribbons and clothes. Fixed camera shot, with background music transitioning from traditional Dunhuang style to a comical tone."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "动态壁纸动画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
