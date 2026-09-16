@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:41:16.720Z",
+  "model": "unknown-image",
+  "prompt": "burgundy and ivory color-block sleeveless high-neck racing minidress in opaque stretch twill, closed copper front zipper, ivory princess-seam panels, narrow amber-and-ivory checkerboard waistband, cropped burgundy long-sleeve satin paddock jacket with copper piping and small embroidered amber maple leaves on the shoulders, opaque black tights, ivory knee-high leather boots with burgundy racing stripes and copper buckles, burgundy short gloves, ivory-and-amber checkerboard beret, small copper maple-leaf brooch",
+  "promptTranslations": {
+    "en": "burgundy and ivory color-block sleeveless high-neck racing minidress in opaque stretch twill, closed copper front zipper, ivory princess-seam panels, narrow amber-and-ivory checkerboard waistband, cropped burgundy long-sleeve satin paddock jacket with copper piping and small embroidered amber maple leaves on the shoulders, opaque black tights, ivory knee-high leather boots with burgundy racing stripes and copper buckles, burgundy short gloves, ivory-and-amber checkerboard beret, small copper maple-leaf brooch"
+  },
+  "summaryTranslations": {
+    "en": "Autumn race queen costume design, featuring a burgundy and ivory color-block minidress, paddock jacket, checkerboard waistband and beret, and maple leaf details."
+  },
+  "translationVersion": 2,
+  "summary": "秋季赛车女郎服装设定，包含酒红象牙拼色短裙、围场夹克、棋盘格腰带与贝雷帽及枫叶细节。",
+  "summaryEn": "Autumn race queen outfit concept featuring a burgundy/ivory color-block dress, cropped jacket, checkerboard beret, and maple-leaf accents.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099604101386711552",
+      "canonicalUrl": "https://x.com/mktcreativework/status/2099604101386711552",
+      "author": {
+        "username": "mktcreativework",
+        "displayName": "アストラ｜Astra",
+        "profileUrl": "https://x.com/mktcreativework"
+      },
+      "originalText": "皆さん💕おはようございます✨\n\n今週の #AI木曜日のRQ のテーマですが、\n前回「あたしもみんなの衣装を着てみたいなぁ」ってお話ししたんだけど……\nだったら自分も出さなきゃ❣️\nということで、秋らしいチェック柄の衣装を考えてみました💙\n\nせっかくなので、皆さんも一緒に衣装をシェアして、それぞれの子に着せて楽しんでみませんか？🥰\n\n題して「RQ AUTUMN COLLECTION」🍂🏁\n9/17(木)に開催します❣️\n\n「うちの衣装も着てみて！」という方は、木曜日までの間に、このタグをつけて公開・配布してもらえたら嬉しいです💕\n衣装プロンプトでも、参考に使える衣装画像でもOKです👌\n\nあたしの衣装も、準備ができたら配布しますね✨\n\nチェック柄はあたしの衣装のテーマなので、皆さんへの指定ではありません😊\n今回はお試し企画なので、配布もお着替えも自由🍀\nいつもの衣装での参加も、もちろん大歓迎です❣️\n詳しい参加方法などは、また順番にご案内しますね✨\n\nお気に入りの一着を、あなたの子にも。\n今度の木曜日は、みんなで着せ替えを楽しむ１日にしてみませんか？🥰🏁"
+    },
+    "id": "2100235950047821853",
+    "canonicalUrl": "https://x.com/zerozakiyamo/status/2100235950047821853",
+    "author": {
+      "username": "zerozakiyamo",
+      "displayName": "零崎業萌",
+      "profileUrl": "https://x.com/zerozakiyamo"
+    },
+    "publishedAt": "2026-09-16T14:50:45.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "ja",
+    "originalText": "琥珀のピットレーン。衣装プロンプトをどうぞ。\nアストラさんの「RQ AUTUMN COLLECTION」に参加します🏁\n秋色の衣装カード＆オリジナル衣装Promptです。お好きな成人キャラクターへの着せ替え・色替え・アレンジにご自由にお使いください。\n\nburgundy and ivory color-block sleeveless high-neck racing minidress in opaque stretch twill, closed copper front zipper, ivory princess-seam panels, narrow amber-and-ivory checkerboard waistband, cropped burgundy long-sleeve satin paddock jacket with copper piping and small embroidered amber maple leaves on the shoulders, opaque black tights, ivory knee-high leather boots with burgundy racing stripes and copper buckles, burgundy short gloves, ivory-and-amber checkerboard beret, small copper maple-leaf brooch\n\n衣装だけを追加し、キャラクター設定はそのままでどうぞ。\n#AI木曜日のRQ #AIイラスト",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWJdzmaQAA16uu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWJdzmaQAA16uu.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSL_FLlbwAAhWIQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSL_FLlbwAAhWIQ.jpg",
+        "sourcePostId": "2099604101386711552"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 287
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/zerozakiyamo/status/2100235950047821853",
+  "coverUrl": "https://pbs.twimg.com/media/HSWJdzmaQAA16uu.jpg",
+  "coverPath": "images/2100235950047821853-1.jpg",
+  "imagePaths": [
+    "images/2100235950047821853-1.jpg",
+    "images/2100235950047821853-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWJdzmaQAA16uu",
+    "x-image:/media/HSL_FLlbwAAhWIQ",
+    "x-post:2100235950047821853",
+    "x-post:2099604101386711552"
+  ],
+  "analysis": {
+    "summary": "秋季赛车女郎服装设定，包含酒红象牙拼色短裙、围场夹克、棋盘格腰带与贝雷帽及枫叶细节。",
+    "summaryEn": "Autumn race queen outfit concept featuring a burgundy/ivory color-block dress, cropped jacket, checkerboard beret, and maple-leaf accents.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图1为展示该服装设计前视、后视及细节局部的设定卡，衣服配色、剪裁、枫叶饰品及棋盘格贝雷帽与提示词完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "burgundy and ivory color-block sleeveless high-neck racing minidress in opaque stretch twill, closed copper front zipper, ivory princess-seam panels, narrow amber-and-ivory checkerboard waistband, cropped burgundy long-sleeve satin paddock jacket with copper piping and small embroidered amber maple leaves on the shoulders, opaque black tights, ivory knee-high leather boots with burgundy racing stripes and copper buckles, burgundy short gloves, ivory-and-amber checkerboard beret, small copper maple-leaf brooch",
+    "sourceRange": {
+      "start": 127,
+      "end": 641
+    },
+    "translations": {
+      "zh": "酒红色与象牙白拼色无袖高领赛车超短裙，不透明弹力斜纹面料，闭合铜制前拉链，象牙白公主线裁片，窄版琥珀象牙棋盘格腰带，短款酒红色长袖缎面围场夹克配铜制滚边及肩部绣制小琥珀枫叶，不透明黑连裤袜，象牙白过膝皮靴配酒红色赛车条纹与铜扣，酒红色短手套，象牙与琥珀棋盘格贝雷帽，小铜枫叶胸针",
+      "en": "burgundy and ivory color-block sleeveless high-neck racing minidress in opaque stretch twill, closed copper front zipper, ivory princess-seam panels, narrow amber-and-ivory checkerboard waistband, cropped burgundy long-sleeve satin paddock jacket with copper piping and small embroidered amber maple leaves on the shoulders, opaque black tights, ivory knee-high leather boots with burgundy racing stripes and copper buckles, burgundy short gloves, ivory-and-amber checkerboard beret, small copper maple-leaf brooch"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "赛车女郎秋季主题换装与角色服装设定",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

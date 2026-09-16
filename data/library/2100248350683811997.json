@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:40:45.536Z",
+  "model": "unknown-image",
+  "prompt": "3panels, comic, manga, vertical split, subtitles, text at bottom,\n\n[panel 1] close-up, holding sketchbook, white paper, hands holding paper, Korean text \"유혹\",\n\n[panel 2] close-up, 1solo, character A, wink, flirty expression, smirking, finger heart, pointing finger, character A in black hoodie,\n\n[panel 3] close-up, 1solo, character B, disgusted expression, frowning, unimpressed, looking annoyed, character B in white hoodie and green jacket, Korean text \"답은 모르겠고 불쾌하기만...\",\n\nindoor studio, game show set, tv show atmosphere, bright lighting, masterpiece, highly detailed",
+  "promptTranslations": {
+    "en": "3panels, comic, manga, vertical split, subtitles, text at bottom,\\n\\n[panel 1] close-up, holding sketchbook, white paper, hands holding paper, Korean text \"유혹\",\\n\\n[panel 2] close-up, 1solo, character A, wink, flirty expression, smirking, finger heart, pointing finger, character A in black hoodie,\\n\\n[panel 3] close-up, 1solo, character B, disgusted expression, frowning, unimpressed, looking annoyed, character B in white hoodie and green jacket, Korean text \"답은 모르겠고 불쾌하기만...\",\\n\\nindoor studio, game show set, tv show atmosphere, bright lighting, masterpiece, highly detailed"
+  },
+  "summaryTranslations": {
+    "en": "3-panel vertical comic prompt depicting a game show reaction sequence with two characters."
+  },
+  "translationVersion": 2,
+  "summary": "3-panel vertical comic prompt depicting a game show reaction sequence with two characters.",
+  "summaryEn": "3-panel vertical comic prompt depicting a game show reaction sequence with two characters.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100248350683811997",
+    "canonicalUrl": "https://x.com/2__han__/status/2100248350683811997",
+    "author": {
+      "username": "2__han__",
+      "displayName": "이한",
+      "profileUrl": "https://x.com/2__han__"
+    },
+    "publishedAt": "2026-09-16T15:40:02.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "ko",
+    "originalText": "ᴾᴿᴼᴹᴾᵀ       \n프롬프트 공유 _ 자유롭게 수정, 사용  \n오류 매우 심함  \n\n3panels, comic, manga, vertical split, subtitles, text at bottom,\n\n[panel 1] close-up, holding sketchbook, white paper, hands holding paper, Korean text \"유혹\",\n\n[panel 2] close-up, 1solo, character A, wink, flirty expression, smirking, finger heart, pointing finger, character A in black hoodie,\n\n[panel 3] close-up, 1solo, character B, disgusted expression, frowning, unimpressed, looking annoyed, character B in white hoodie and green jacket, Korean text \"답은 모르겠고 불쾌하기만...\",\n\nindoor studio, game show set, tv show atmosphere, bright lighting, masterpiece, highly detailed",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWUtoNagAAqWq6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWUtoNagAAqWq6.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWUuXXaQAEyit_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWUuXXaQAEyit_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWUvHYaEAAHbDU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWUvHYaEAAHbDU.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 126
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/2__han__/status/2100248350683811997",
+  "coverUrl": "https://pbs.twimg.com/media/HSWUtoNagAAqWq6.jpg",
+  "coverPath": "images/2100248350683811997-1.jpg",
+  "imagePaths": [
+    "images/2100248350683811997-1.jpg",
+    "images/2100248350683811997-2.jpg",
+    "images/2100248350683811997-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWUtoNagAAqWq6",
+    "x-image:/media/HSWUuXXaQAEyit_",
+    "x-image:/media/HSWUvHYaEAAHbDU",
+    "x-post:2100248350683811997"
+  ],
+  "analysis": {
+    "summary": "3-panel vertical comic prompt depicting a game show reaction sequence with two characters.",
+    "summaryEn": "3-panel vertical comic prompt depicting a game show reaction sequence with two characters.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image exactly matches the 3-panel vertical layout, sketchbook with Korean text, wink/finger heart gesture, disgusted reaction, and neon game show lighting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "3panels, comic, manga, vertical split, subtitles, text at bottom,\n\n[panel 1] close-up, holding sketchbook, white paper, hands holding paper, Korean text \"유혹\",\n\n[panel 2] close-up, 1solo, character A, wink, flirty expression, smirking, finger heart, pointing finger, character A in black hoodie,\n\n[panel 3] close-up, 1solo, character B, disgusted expression, frowning, unimpressed, looking annoyed, character B in white hoodie and green jacket, Korean text \"답은 모르겠고 불쾌하기만...\",\n\nindoor studio, game show set, tv show atmosphere, bright lighting, masterpiece, highly detailed",
+    "sourceRange": {
+      "start": 50,
+      "end": 622
+    },
+    "translations": {
+      "zh": "3格, 漫画, 垂直分割, 字幕, 底部文字,\n\n[第1格] 特写, 拿着素描本, 白纸, 双手拿纸, 韩文字\"유혹\",\n\n[第2格] 特写, 单人, 角色A, 眨眼, 调情表情, 得意微笑, 手指心, 手指指着, 角色A穿着黑色连帽衫,\n\n[第3格] 特写, 单人, 角色B, 厌恶表情, 皱眉, 不为所动, 表情恼怒, 角色B穿着白色连帽衫和绿色夹克, 韩文字\"답은 모르겠고 불쾌하기만...\",\n\n室内演播室, 游戏节目布景, 电视节目氛围, 明亮光线, 杰作, 极度细节",
+      "en": "3panels, comic, manga, vertical split, subtitles, text at bottom,\n\n[panel 1] close-up, holding sketchbook, white paper, hands holding paper, Korean text \"유혹\",\n\n[panel 2] close-up, 1solo, character A, wink, flirty expression, smirking, finger heart, pointing finger, character A in black hoodie,\n\n[panel 3] close-up, 1solo, character B, disgusted expression, frowning, unimpressed, looking annoyed, character B in white hoodie and green jacket, Korean text \"답은 모르겠고 불쾌하기만...\",\n\nindoor studio, game show set, tv show atmosphere, bright lighting, masterpiece, highly detailed"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "comic",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

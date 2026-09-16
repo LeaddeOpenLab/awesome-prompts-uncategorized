@@ -19,13 +19,13 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**223** Prompts · Última incorporación: **2026-09-16**
+**236** Prompts · Última incorporación: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Explorar por categoría
 
-[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Ilustración](#category-illustration) · [Boceto / Dibujo lineal](#category-sketch-line-art) · [Cómic / Novela gráfica](#category-comic-graphic-novel) · [Render 3D](#category-3d-render) · [Pintura al óleo](#category-oil-painting) · [Retro / Vintage](#category-retro-vintage) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
+[Fotografía](#category-photography) · [Cine / Fotograma de película](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Ilustración](#category-illustration) · [Boceto / Dibujo lineal](#category-sketch-line-art) · [Cómic / Novela gráfica](#category-comic-graphic-novel) · [Render 3D](#category-3d-render) · [Chibi / Estilo Q](#category-chibi-q-style) · [Pintura al óleo](#category-oil-painting) · [Acuarela](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Ciberpunk / Ciencia ficción](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Otros](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -35,20 +35,34 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2100153971088482321"></a>
 
-### Traducción en curso
+### Plantilla de prompt estructurado de imagen de vigilancia nocturna por infrarrojos de timbre para generar vídeos de visitantes extraños.
 
 Autor：[@Gdgtify](https://x.com/Gdgtify) · [Publicación original](https://x.com/Gdgtify/status/2100153971088482321)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt estructurado de imagen de vigilancia nocturna por infrarrojos de timbre para generar vídeos de visitantes extraños.
 
 <img src="covers/2100153971088482321.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+INPUT: $ SUBJECT              // críptido, figura no clasificada, algo extraño en la puerta
+VISITOR   = infer_subject($ SUBJECT)        // escala frente al marco de la puerta, postura, consciencia de la lente
+BEHAVIOR  = infer_mundane_act($ SUBJECT)    // está haciendo algo COTIDIANO — basura, pomo de la puerta, paquete
+PORCH     = infer_porch($ SUBJECT)          // revestimiento real, felpudo, maceta, manguera, pintura desconchada
+NIGHT     = infer_ir_night($ SUBJECT)       // emisores de IR encendidos, monocromo, sin información de color
+BLOWOUT   = infer_ir_falloff($ SUBJECT)     // sujeto cercano quemado en blanco, fondo aplastado a negro absoluto
+LENS      = infer_fisheye($ SUBJECT)        // distorsión de barril pronunciada, esquinas estiradas
+MOUNT     = infer_camera_height($ SUBJECT)  // ~4 pies de altura, fijo, ligeramente desnivelado
+CROP      = infer_motion_trigger($ SUBJECT) // sujeto parcialmente fuera de encuadre — cortado, entrando
+OVERLAY   = infer_hud($ SUBJECT)            // marca de tiempo, nombre del dispositivo, icono de batería, fuente pequeña
+FLAWS     = infer_flaws($ SUBJECT)          // desenfoque por baja tasa de bits, ruido de IR, artefactos de compresión en bloques
+Φ = ir_falloff(emitter) + barrel_warp(LENS)
+MOTION: el sujeto entra en el encuadre por el borde → se detiene → gira la cabeza hacia la lente → aguanta 2 s → sale.
+Sin movimiento de cámara, soporte fijo.
+Compose: cámara de timbre fija, modo nocturno IR, monocromo, sujeto sobreexpuesto y parcialmente recortado, superposición de marca de tiempo, compresión pesada. Fotorrealista, 4:3 o 16:9.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -57,7 +71,7 @@ Traducción en curso
 
 <a name="prompt-2100190479287742842"></a>
 
-### Traducción en curso
+### Retrato realista de campus de estilo japonés de una mujer joven con chaqueta deportiva escolar azul y blanca haciendo una mueca poniendo los ojos en blanco.
 
 Autor：[@boniusex](https://x.com/boniusex) · [Publicación original](https://x.com/boniusex/status/2100190479287742842)
 
@@ -65,7 +79,7 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 
 Publicación original：[@boniusex](https://x.com/boniusex) · [Publicación original](https://x.com/boniusex/status/2100157493871575452)
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato realista de campus de estilo japonés de una mujer joven con chaqueta deportiva escolar azul y blanca haciendo una mueca poniendo los ojos en blanco.
 
 <img src="images/2100190479287742842-1.jpg" alt="Imagen 1" width="480" />
 
@@ -86,7 +100,11 @@ Publicación original：[@boniusex](https://x.com/boniusex) · [Publicación ori
 **Prompt**
 
 ```text
-Traducción en curso
+Fotografía de retrato realista en un campus universitario, una mujer adulta de Asia oriental de unos 20 años, cabello negro largo y suelto naturalmente, mechones despeinados por la brisa, maquillaje ligero y transparente, piel blanca natural, rubor rosa pálido, labios rosados e hidratados, ojos grandes mirando ligeramente hacia arriba con una expresión juguetona, inocente y ligeramente impaciente en tono gracioso.
+
+Viste una chaqueta deportiva de estilo colegial en azul y blanco, con una camiseta blanca ajustada de cuello redondo debajo, una mochila negra colgada de un hombro, con una mano sosteniendo la correa de forma natural. Está de pie junto a una cancha de baloncesto del campus; al fondo se ven canastas de baloncesto, edificios de aulas, árboles y varios estudiantes desenfocados, luz solar brillante y contraluz de la tarde que entra por detrás de su cabello, creando una delicada luz de contorno en los mechones.
+
+Composición de medio cuerpo en primer plano, lente de 35 mm, el personaje ocupa la mayor parte del encuadre, ligera perspectiva gran angular, poca profundidad de campo, fondo suavemente desenfocado, estilo de sesión fotográfica juvenil japonesa, textura realista de foto de iPhone, reflejos suaves, grano de película sutil, textura natural de la piel, detalles realistas del cabello, fresca combinación de colores azul y blanco, cálida luz solar, toma espontánea con sensación cotidiana, fotorrealista, retrato espontáneo en el campus, suave contraluz, profundidad de campo reducida, textura de piel natural, mechones de pelo realistas
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -2968,22 +2986,44 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 ## Anime / Manga
 
-<a name="prompt-2099903953693708742"></a>
+<a name="prompt-2100214733651796462"></a>
 
 ### Traducción en curso
+
+Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicación original](https://x.com/mioarashidaisuk/status/2100214733651796462)
+
+Anime / Manga · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2100214733651796462.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2099903953693708742"></a>
+
+### Prompt de generación de personajes de anime en 2D que representa a Kyotaro Suga con pelo rubio y a Sumire Hirose con pelo azul.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicación original](https://x.com/AUrbNUMjfxj85IS/status/2099903953693708742)
 
 Anime / Manga · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación de personajes de anime en 2D que representa a Kyotaro Suga con pelo rubio y a Sumire Hirose con pelo azul.
 
 <img src="images/2099903953693708742-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Kyotaro Suga y Sumire Hirose, pelo rubio y pelo azul
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3161,13 +3201,13 @@ Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodead
 
 <a name="prompt-2100164379128021284"></a>
 
-### Traducción en curso
+### Prompt de generación de ilustraciones al estilo de una pantalla de transmisión en vivo.
 
 Autor：[@AIDream\_Project](https://x.com/AIDream_Project) · [Publicación original](https://x.com/AIDream_Project/status/2100164379128021284)
 
 Diseño de aplicaciones / web · Ilustración · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación de ilustraciones al estilo de una pantalla de transmisión en vivo.
 
 <img src="images/2100164379128021284-1.jpg" alt="Imagen 1" width="480" />
 
@@ -3180,7 +3220,7 @@ Diseño de aplicaciones / web · Ilustración · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Una pantalla de teléfono inteligente que parece estar transmitiendo en directo.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3457,6 +3497,32 @@ Traducción en curso
 
 ## Cómic / Novela gráfica
 
+<a name="prompt-2100248350683811997"></a>
+
+### Traducción en curso
+
+Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicación original](https://x.com/2__han__/status/2100248350683811997)
+
+Cómic / Novela gráfica · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100248350683811997-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100248350683811997-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2100248350683811997-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2099563152388329737"></a>
 
 ### Prompt para retrato de técnica mixta que combina una persona real con una sombra de garabato animado negro dibujado a mano sobre la pared.
@@ -3643,9 +3709,63 @@ Créame un rack de servidores para 6 Nvidia Sparks que tenga un diseño eficient
 
 ---
 
+<a name="category-chibi-q-style"></a>
+
+## Chibi / Estilo Q
+
+<a name="prompt-2100221806162673891"></a>
+
+### Traducción en curso
+
+Autor：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Publicación original](https://x.com/AI_gansakushi/status/2100221806162673891)
+
+Chibi / Estilo Q · Acuarela · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100221806162673891-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="category-oil-painting"></a>
 
 ## Pintura al óleo
+
+<a name="prompt-2100200995137724765"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2100200995137724765)
+
+Pintura al óleo · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100200995137724765-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100200995137724765-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2100200995137724765-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2100200995137724765-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2099147187955675169"></a>
 
@@ -3675,9 +3795,85 @@ Transforma la foto de viajes de arquitectura mundial proporcionada en una obra d
 
 ---
 
+<a name="category-watercolor"></a>
+
+## Acuarela
+
+<a name="prompt-2100247084410834969"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2100247084410834969)
+
+Póster / Folleto · Fotografía · Acuarela · Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100247084410834969-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100247084410834969-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2100247084410834969-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2100247084410834969-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100251372339761202"></a>
+
+### Traducción en curso
+
+Autor：[@DerKlarblick](https://x.com/DerKlarblick) · [Publicación original](https://x.com/DerKlarblick/status/2100251372339761202)
+
+Fotografía · Retro / Vintage · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100251372339761202-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100239972020486509"></a>
+
+### Traducción en curso
+
+Autor：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Publicación original](https://x.com/Avalanc83148107/status/2100239972020486509)
+
+Retro / Vintage · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100239972020486509-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2100100687946203533"></a>
 
@@ -4251,22 +4447,164 @@ Traducción en curso
 
 ## Otros
 
-<a name="prompt-2100133379077194236"></a>
+<a name="prompt-2100184569391816833"></a>
 
 ### Traducción en curso
+
+Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicación original](https://x.com/mioarashidaisuk/status/2100184569391816833)
+
+Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2100184569391816833.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100235950047821853"></a>
+
+### Traducción en curso
+
+Autor：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Publicación original](https://x.com/zerozakiyamo/status/2100235950047821853)
+
+Personaje · Artículo de moda · Publicado
+
+Publicación original：[@mktcreativework](https://x.com/mktcreativework) · [Publicación original](https://x.com/mktcreativework/status/2099604101386711552)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100235950047821853-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100235950047821853-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100225896527679977"></a>
+
+### Traducción en curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2100225896527679977)
+
+Póster / Folleto · Texto / Tipografía · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100225896527679977-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2100225896527679977-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2100225896527679977-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2100225896527679977-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100204805872550306"></a>
+
+### Traducción en curso
+
+Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicación original](https://x.com/RobotCleopatra/status/2100204805872550306)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100204805872550306-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100231338779636202"></a>
+
+### Traducción en curso
+
+Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicación original](https://x.com/mioarashidaisuk/status/2100231338779636202)
+
+Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2100231338779636202.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100208663872823327"></a>
+
+### Traducción en curso
+
+Autor：[@EmberLumina](https://x.com/EmberLumina) · [Publicación original](https://x.com/EmberLumina/status/2100208663872823327)
+
+Paisaje urbano / Calle · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2100208663872823327-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2100133379077194236"></a>
+
+### Collage de moda de otoño de una mujer con cabello rizado con un cárdigan color crema y un vestido lencero en un patio mediterráneo.
 
 Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Publicación original](https://x.com/Minahil42298354/status/2100133379077194236)
 
 Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Collage de moda de otoño de una mujer con cabello rizado con un cárdigan color crema y un vestido lencero en un patio mediterráneo.
 
 <img src="images/2100133379077194236-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Este impresionante collage de imágenes captura a una mujer radiante con hermoso cabello rizado modelando un elegante cárdigan color crema con textura, superpuesto a un vestido lencero sedoso y estampado, combinado con elegantes botas altas. Con el telón de fondo de un patio bañado por el sol de estilo mediterráneo, adornado con macetas de terracota y vibrantes plantas con flores, la composición combina a la perfección prendas de punto acogedoras con una elegancia natural. El ambiente es cálido, alegre y sumamente acogedor, lo que lo convierte en una fantástica inspiración para la moda de transición otoñal.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4275,20 +4613,28 @@ Traducción en curso
 
 <a name="prompt-2100082724589461943"></a>
 
-### Traducción en curso
+### Retrato de moda editorial en un baño con chaqueta oversize, corbata burdeos y minifalda brillante.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Publicación original](https://x.com/oye_samia/status/2100082724589461943)
 
 Retrato / Selfie · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de moda editorial en un baño con chaqueta oversize, corbata burdeos y minifalda brillante.
 
 <img src="images/2100082724589461943-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Usa la foto adjunta como única referencia. Conserva estrictamente la apariencia y el cabello 1:1: rasgos, proporciones, ojos, nariz, labios, mandíbula, tono de piel y textura natural de la piel, sin idealización ni estilización.
+
+Foto de moda ultrafotorrealista al estilo de Saint Laurent / Miu Miu, 4K. Elegante baño de estilo editorial: azulejos blancos, encimera negra con lavabo integrado, espejo y apliques de luz vertical cálida. Plano de plano medio largo (desde la mitad del muslo hasta la cabeza), cámara a la altura de los ojos, modelo centrada.
+
+La chica está de pie con las piernas ligeramente separadas y las manos en las caderas. Mirada fría y segura, emoción mínima. El cabello exactamente como en la referencia: el mismo color, densidad, textura y peinado.
+
+Lleva una chaqueta oversize negra con hombros marcados, una camisa negra, una corbata burdeos ligeramente aflojada, una minifalda entallada burdeos brillante y medias negras translúcidas. Gafas de sol negras grandes, pendientes dorados. Sobre la encimera, un pequeño bolso negro estructurado.
+
+Labios rojos, cejas definidas, contorno ligero. Luz artificial cálida, sombras suaves, brillo cinematográfico y reflejos realistas. Sin cambios en el rostro, cabello, ropa, iluminación o accesorios; sin CGI ni errores anatómicos.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4297,20 +4643,20 @@ Traducción en curso
 
 <a name="prompt-2100152050525110632"></a>
 
-### Traducción en curso
+### Conjunto de uniforme escolar gyaru con mangas moe, cárdigan verde claro extragrande, pajarita holgada, minifalda plisada y calcetines caídos.
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Publicación original](https://x.com/AI_Kei75/status/2100152050525110632)
 
 Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Conjunto de uniforme escolar gyaru con mangas moe, cárdigan verde claro extragrande, pajarita holgada, minifalda plisada y calcetines caídos.
 
 <img src="images/2100152050525110632-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+gargantilla blanca, cárdigan verde claro extragrande, mangas largas, (mangas que sobrepasan los dedos), botón amarillo, camisa debajo de la ropa, camisa debajo del suéter, camisa blanca de cuello, (clavícula), pajarita holgada, pajarita amarillo claro, (falda plisada amarillo claro), minifalda, falda amarillo claro, calcetines caídos blancos, mocasines marrones,
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4319,13 +4665,13 @@ Traducción en curso
 
 <a name="prompt-2100169070259863658"></a>
 
-### Traducción en curso
+### Prompt para convertir fotos de paisajes naturales en un póster de grabado en pan de oro con contraste superior e inferior.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2100169070259863658)
 
 Póster / Folleto · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para convertir fotos de paisajes naturales en un póster de grabado en pan de oro con contraste superior e inferior.
 
 <img src="images/2100169070259863658-1.jpg" alt="Imagen 1" width="480" />
 
@@ -4338,7 +4684,7 @@ Póster / Folleto · Paisaje / Naturaleza · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster de viaje vertical con contraste superior e inferior. La mitad superior conserva intacta la fotografía real de viajes y paisajes naturales ingresada, manteniendo la composición original y los detalles auténticos de montañas, costas, bosques, cañones, lagos, nubes u otros elementos principales; en el centro, una fina línea divisoria blanca. La mitad inferior redibuja la misma escena como un grabado épico y misterioso al aguafuerte con láminas de pan de oro sobre papel base de color índigo profundo o negro: tomando como núcleo las siluetas naturales más reconocibles de la imagen original, utiliza líneas de grabado artesanales y densas, contornos de lámina metálica dorada y cobriza, y haces de luz azul hielo, blanco violáceo o dorado cálido; la niebla, las copas de los árboles, los estratos rocosos, las olas y las montañas se representan con patrones ornamentales curvados, densos sombreados cruzados y textura granulada. Selecciona relámpagos, luz solar, luz lunar, luz de niebla o reflejos en el agua según la imagen original como centro visual, sin forzar elementos inexistentes. Conserva las relaciones espaciales y la topografía natural de la imagen original, condensándolas en una composición de grabado teatral. Prohibido aplicar filtros globales, añadir personas o edificios inventados, texto, logotipos, marcas de agua, firmas y cualquier distintivo en las esquinas.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -4347,20 +4693,46 @@ Traducción en curso
 
 <a name="prompt-2100180395635454153"></a>
 
-### Traducción en curso
+### Collage de fotos de smartphone en cuadrícula 3x3 de momentos casuales de trabajo de una azafata de tren china en un tren moderno.
 
 Autor：[@3three\_AI](https://x.com/3three_AI) · [Publicación original](https://x.com/3three_AI/status/2100180395635454153)
 
 Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Collage de fotos de smartphone en cuadrícula 3x3 de momentos casuales de trabajo de una azafata de tren china en un tren moderno.
 
 <img src="images/2100180395635454153-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Collage hiperrealista e informal de fotos de smartphone, vertical 3:4, compuesto por 9 instantáneas casuales independientes organizadas en una cuadrícula limpia de 3×3, que capturan momentos de una azafata de tren china durante su jornada laboral habitual en un tren de pasajeros moderno.
+
+Mantén a la misma mujer, los mismos rasgos faciales, el mismo peinado, la misma apariencia general y el mismo uniforme en cada panel. Tiene el pelo castaño oscuro recogido cuidadosamente en un moño bajo, rasgos naturales delicados, maquillaje ligero y un aspecto juvenil.
+
+Viste un uniforme profesional de azafata de tren en azul marino oscuro, que incluye un blazer ajustado o una elegante falda de uniforme, un pañuelo al cuello con estampado rojo y azul, una pequeña placa dorada con su nombre, medias oscuras y zapatos profesionales sencillos. Su apariencia es pulcra pero natural.
+
+Panel 1: Selfie cercano e improvisado con smartphone en el vestíbulo del tren, con un dedo tapando parcialmente la lente, ligeramente borroso e imperfecto, con las puertas del tren y las señales de seguridad visibles detrás.
+
+Panel 2: Foto informal de cuerpo entero de ella arrastrando una pequeña maleta negra con ruedas por el estrecho pasillo del tren, con un ligero desenfoque de movimiento, pasajeros y filas de asientos suavemente visibles al fondo.
+
+Panel 3: Selfie en primer plano desde un asiento de tren junto a la ventana, con luz natural brillante entrando por el cristal y sobreexponiendo ligeramente parte de la cara, expresión relajada y encuadre informal.
+
+Panel 4: Vista trasera en ángulo e informal mientras está de pie alcanzando el portaequipajes superior dentro de un vagón, mostrando su moño bajo bien peinado, la silueta del uniforme y su porte profesional.
+
+Panel 5: Selfie informal en primer plano extremo con su rostro ocupando la mayor parte del encuadre, unos mechones sueltos sobre la cara, enfoque suave, exposición de smartphone ligeramente imperfecta, expresión juguetona y natural.
+
+Panel 6: Selfie casual sentada dentro del tren, con una mano tapándose la boca mientras ríe, llevando un reloj de pulsera sencillo, cálida iluminación de cabina, un momento genuino y espontáneo.
+
+Panel 7: Selfie de perfil cercano apoyada en una gran ventanilla del tren, con el andén de las vías y otro tren visibles fuera de la ventana, luz diurna natural, rostro ligeramente recortado y reflejos realistas en el cristal.
+
+Panel 8: Vista trasera informal caminando por el vagón hacia el siguiente coche, ligero desenfoque de movimiento, portaequipajes superiores, asientos, puertas y detalles realistas del interior del tren visibles.
+
+Panel 9: Selfie cercano e imprevisto en el vestíbulo del tren, con un dedo tapando parcialmente la lente de la cámara, encuadre juguetón e imperfecto, controles reales de las puertas del tren y equipo de seguridad visibles al fondo.
+
+Todo el collage debe sentirse como recuerdos personales reales tomados con un smartphone durante la jornada laboral de una azafata de tren, no como una sesión fotográfica profesional. Emplea encuadres inconsistentes, ligero desenfoque de movimiento, recortes inesperados, suave distorsión de lente, sutiles variaciones de exposición, iluminación realista de cabina, enfoque suave, textura de piel natural, expresiones faciales genuinas y pequeñas imperfecciones fotográficas.
+
+Sin aspecto de estudio pulido, sin filtros de belleza artificiales, sin piel plástica, sin apariencia de CGI. Fotografía diaria y cruda de smartphone, auténtico diario fotográfico entre bastidores de una azafata de tren, interiores realistas de trenes de pasajeros modernos, momentos espontáneos e informales, coherencia del personaje en los 9 paneles, bordes blancos finos entre paneles, cuadrícula limpia de 3×3, relación de aspecto vertical 3:4
 ```
 
 [↑ Volver a categorías](#catalog)

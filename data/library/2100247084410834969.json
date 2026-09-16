@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:40:57.826Z",
+  "model": "unknown-image",
+  "prompt": "制作一张竖向上下对比旅行转绘海报。上半完整保留输入真实旅行照片，保持地貌、建筑、街巷、湖泊、植物、人物或交通工具的构图、数量、透视与光线；中间使用窄米白分隔带。下半从原图选取一至三个最有识别度的旅行元素，拆解为黑褐墨线、干刷、水彩专色色块、撕纸边缘和受控墨点，重组为有留白的都市泼墨旅行拼贴。色彩从原图提取并压缩为4至6种专色，通过尺度变化、纸片遮叠和留白改变空间组织；招牌只在原图存在时作为局部元素。可加入准确短英文主题标题和材料字段，不虚构地名或品牌。禁止整图滤镜、纯线稿、无关地标、文字乱码、logo、水印及任何角标。",
+  "promptTranslations": {
+    "en": "Create a vertical top-and-bottom comparison travel transformation poster. The top half completely preserves the original real travel photo, maintaining the composition, quantity, perspective, and lighting of the landforms, architecture, streets, lakes, plants, figures, or vehicles; the middle uses a narrow off-white dividing band. The bottom half selects one to three of the most recognizable travel elements from the original image, disassembling them into dark brown ink lines, dry brushwork, spot watercolor color blocks, torn paper edges, and controlled ink splatters, recombined into an urban splash-ink travel collage with negative space. Colors are extracted from the original image and compressed into 4 to 6 spot colors, altering the spatial organization through scale variations, overlapping paper cutouts, and white space; signboards are only included as local elements if they exist in the original image. Accurate short English theme titles and material descriptors may be added, without fabricating place names or brands. Full-image filters, pure line art, unrelated landmarks, garbled text, logos, watermarks, and any corner badges are forbidden."
+  },
+  "summaryTranslations": {
+    "en": "Generate a top-and-bottom split travel poster: the top half retains the real photo, while the bottom half is recombined into an urban splash-ink collage style using ink lines, torn paper, and spot watercolors."
+  },
+  "translationVersion": 2,
+  "summary": "生成上下分栏旅行海报：上半保留真实照片，下半通过墨线、撕纸及专色水彩重组为都市泼墨拼贴风格。",
+  "summaryEn": "Generates a vertical split travel poster: upper half keeps the real photo, lower half recreates elements into an urban ink-and-paper collage.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100247084410834969",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2100247084410834969",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-16T15:35:00.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "zh",
+    "originalText": "【URBAN INK TRAVEL COLLAGE｜都市泼墨旅行拼贴风】\n\n把旅行照片从“写实记录”拆解成“视觉采样”，用墨线、水彩、撕纸和专色重新组织地点记忆。它不是追求还原，而是在真实现场之上做一次克制的编辑性再创作，因此会比普通旅行插画更像独立杂志或城市文化海报。\n\nprompt：\n制作一张竖向上下对比旅行转绘海报。上半完整保留输入真实旅行照片，保持地貌、建筑、街巷、湖泊、植物、人物或交通工具的构图、数量、透视与光线；中间使用窄米白分隔带。下半从原图选取一至三个最有识别度的旅行元素，拆解为黑褐墨线、干刷、水彩专色色块、撕纸边缘和受控墨点，重组为有留白的都市泼墨旅行拼贴。色彩从原图提取并压缩为4至6种专色，通过尺度变化、纸片遮叠和留白改变空间组织；招牌只在原图存在时作为局部元素。可加入准确短英文主题标题和材料字段，不虚构地名或品牌。禁止整图滤镜、纯线稿、无关地标、文字乱码、logo、水印及任何角标。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWAcicagAA-Enx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWAcicagAA-Enx.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWAeCWacAAxfE8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWAeCWacAAxfE8.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWAfvcbEAAYq6A.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWAfvcbEAAYq6A.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWAimub0AAKaWJ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWAimub0AAKaWJ.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 173
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2100247084410834969",
+  "coverUrl": "https://pbs.twimg.com/media/HSWAcicagAA-Enx.jpg",
+  "coverPath": "images/2100247084410834969-1.jpg",
+  "imagePaths": [
+    "images/2100247084410834969-1.jpg",
+    "images/2100247084410834969-2.jpg",
+    "images/2100247084410834969-3.jpg",
+    "images/2100247084410834969-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWAcicagAA-Enx",
+    "x-image:/media/HSWAeCWacAAxfE8",
+    "x-image:/media/HSWAfvcbEAAYq6A",
+    "x-image:/media/HSWAimub0AAKaWJ",
+    "x-post:2100247084410834969"
+  ],
+  "analysis": {
+    "summary": "生成上下分栏旅行海报：上半保留真实照片，下半通过墨线、撕纸及专色水彩重组为都市泼墨拼贴风格。",
+    "summaryEn": "Generates a vertical split travel poster: upper half keeps the real photo, lower half recreates elements into an urban ink-and-paper collage.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均呈现上下分栏结构，上半为实景照片，下半为对应的撕纸水彩泼墨拼贴插画，与提示词结构和视觉风格完全对应。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张竖向上下对比旅行转绘海报。上半完整保留输入真实旅行照片，保持地貌、建筑、街巷、湖泊、植物、人物或交通工具的构图、数量、透视与光线；中间使用窄米白分隔带。下半从原图选取一至三个最有识别度的旅行元素，拆解为黑褐墨线、干刷、水彩专色色块、撕纸边缘和受控墨点，重组为有留白的都市泼墨旅行拼贴。色彩从原图提取并压缩为4至6种专色，通过尺度变化、纸片遮叠和留白改变空间组织；招牌只在原图存在时作为局部元素。可加入准确短英文主题标题和材料字段，不虚构地名或品牌。禁止整图滤镜、纯线稿、无关地标、文字乱码、logo、水印及任何角标。",
+    "sourceRange": {
+      "start": 145,
+      "end": 407
+    },
+    "translations": {
+      "zh": "制作一张竖向上下对比旅行转绘海报。上半完整保留输入真实旅行照片，保持地貌、建筑、街巷、湖泊、植物、人物或交通工具的构图、数量、透视与光线；中间使用窄米白分隔带。下半从原图选取一至三个最有识别度的旅行元素，拆解为黑褐墨线、干刷、水彩专色色块、撕纸边缘和受控墨点，重组为有留白的都市泼墨旅行拼贴。色彩从原图提取并压缩为4至6种专色，通过尺度变化、纸片遮叠和留白改变空间组织；招牌只在原图存在时作为局部元素。可加入准确短英文主题标题和材料字段，不虚构地名或品牌。禁止整图滤镜、纯线稿、无关地标、文字乱码、logo、水印及任何角标。",
+      "en": "Create a vertical split travel poster. The top half retains the original travel photo with accurate composition, perspective, and lighting. A narrow off-white border divides the halves. The bottom half transforms one to three prominent elements from the photo into an urban ink-and-watercolor torn-paper collage with black/brown ink lines, dry brush, spot colors, torn edges, and controlled splatters. Colors are compressed into 4-6 spot tones extracted from the original. English title text can be included. No filters, pure line art, fake landmarks, logos, or watermarks."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "旅行摄影转都市泼墨拼贴海报设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

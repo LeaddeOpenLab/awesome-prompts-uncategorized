@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:41:31.208Z",
+  "model": "grok",
+  "prompt": "お城にいるようなドレスに変身",
+  "promptTranslations": {
+    "en": "Transform into a dress fit for a castle"
+  },
+  "summaryTranslations": {
+    "en": "A prompt for transforming into a luxurious dress fit for a castle."
+  },
+  "translationVersion": 2,
+  "summary": "お城にいるような豪華なドレスへ変身するプロンプト。",
+  "summaryEn": "Prompt for transforming into an ornate castle-style ballgown.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100184569391816833",
+    "canonicalUrl": "https://x.com/mioarashidaisuk/status/2100184569391816833",
+    "author": {
+      "username": "mioarashidaisuk",
+      "displayName": "シェルティソーラ",
+      "profileUrl": "https://x.com/mioarashidaisuk"
+    },
+    "publishedAt": "2026-09-16T11:26:35.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\nお城にいるようなドレスに変身 https://t.co/wAniIW9DL8",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mioarashidaisuk/status/2100184569391816833",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100184533530537986/img/tDYrH-urGTcqnK2d.jpg",
+        "analysisUrl": "https://x.com/mioarashidaisuk/status/2100184569391816833"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 17
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/mioarashidaisuk/status/2100184569391816833",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100184533530537986/img/tDYrH-urGTcqnK2d.jpg",
+  "coverPath": "covers/2100184569391816833.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100184533530537986",
+    "x-post:2100184569391816833"
+  ],
+  "analysis": {
+    "summary": "お城にいるような豪華なドレスへ変身するプロンプト。",
+    "summaryEn": "Prompt for transforming into an ornate castle-style ballgown.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a woman in a ballroom transforming into a sparkling golden princess dress."
+    },
+    "videoQuality": null,
+    "originalPrompt": "お城にいるようなドレスに変身",
+    "sourceRange": {
+      "start": 22,
+      "end": 36
+    },
+    "translations": {
+      "zh": "变身为仿佛身处城堡中的礼服",
+      "en": "Transform into a dress fit for a castle"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "image-to-video",
+    "useCase": "outfit transformation video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

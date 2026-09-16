@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:40:41.351Z",
+  "model": "grok",
+  "prompt": "Andere Frisur und altmodischen Badeanzug und weniger schlank und etwas mehr Busen",
+  "promptTranslations": {
+    "en": "Different hairstyle and old-fashioned swimsuit and less slender and a little more bust"
+  },
+  "summaryTranslations": {
+    "en": "Prompt for hairstyle change, retro swimsuit, and curvier body shape."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt für Frisuränderung, Retro-Badeanzug und kurvigere Körperform.",
+  "summaryEn": "Prompt for hairstyle change, vintage swimsuit, and curvier figure.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100251372339761202",
+    "canonicalUrl": "https://x.com/DerKlarblick/status/2100251372339761202",
+    "author": {
+      "username": "DerKlarblick",
+      "displayName": "DerKlarblick",
+      "profileUrl": "https://x.com/DerKlarblick"
+    },
+    "publishedAt": "2026-09-16T15:52:02.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "de",
+    "originalText": "Grok Imagine prompt:\n\nAndere Frisur und altmodischen Badeanzug und weniger schlank und etwas mehr Busen https://t.co/fKj0lqsvZC",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWXfUMXkAA2Gv6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWXfUMXkAA2Gv6.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 7
+    },
+    "matchedRuleIds": [
+      "custom:de:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:de:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/DerKlarblick/status/2100251372339761202",
+  "coverUrl": "https://pbs.twimg.com/media/HSWXfUMXkAA2Gv6.jpg",
+  "coverPath": "images/2100251372339761202-1.jpg",
+  "imagePaths": [
+    "images/2100251372339761202-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWXfUMXkAA2Gv6",
+    "x-post:2100251372339761202"
+  ],
+  "analysis": {
+    "summary": "Prompt für Frisuränderung, Retro-Badeanzug und kurvigere Körperform.",
+    "summaryEn": "Prompt for hairstyle change, vintage swimsuit, and curvier figure.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Das Bild zeigt eine Frau mit Retro-Frisur im gepunkteten Vintage-Badeanzug und kurviger Statur."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Andere Frisur und altmodischen Badeanzug und weniger schlank und etwas mehr Busen",
+    "sourceRange": {
+      "start": 22,
+      "end": 103
+    },
+    "translations": {
+      "zh": "换个发型、复古泳衣、稍微丰满、胸部稍大",
+      "en": "Different hairstyle and vintage swimsuit and less slim and slightly larger bust"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "vintage portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

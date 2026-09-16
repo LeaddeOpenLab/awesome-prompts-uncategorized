@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:41:19.804Z",
+  "model": "unknown-image",
+  "prompt": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,",
+  "promptTranslations": {
+    "en": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,"
+  },
+  "summaryTranslations": {
+    "en": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,"
+  },
+  "translationVersion": 2,
+  "summary": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,",
+  "summaryEn": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100221806162673891",
+    "canonicalUrl": "https://x.com/AI_gansakushi/status/2100221806162673891",
+    "author": {
+      "username": "AI_gansakushi",
+      "displayName": "Yuemon SUGIHARA / AI Forger",
+      "profileUrl": "https://x.com/AI_gansakushi"
+    },
+    "publishedAt": "2026-09-16T13:54:33.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "ja",
+    "originalText": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,\n\n昔のクソ雑Prompt通るのね\n#PixAITsubakiV3 https://t.co/5G3lSjS3Zb",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSV8YMdakAEcUGM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSV8YMdakAEcUGM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 292
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_gansakushi/status/2100221806162673891",
+  "coverUrl": "https://pbs.twimg.com/media/HSV8YMdakAEcUGM.jpg",
+  "coverPath": "images/2100221806162673891-1.jpg",
+  "imagePaths": [
+    "images/2100221806162673891-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSV8YMdakAEcUGM",
+    "x-post:2100221806162673891"
+  ],
+  "analysis": {
+    "summary": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,",
+    "summaryEn": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Chibi girl sitting in a sheep kigurumi with thick outlines and watercolor styling."
+    },
+    "videoQuality": null,
+    "originalPrompt": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,",
+    "sourceRange": {
+      "start": 0,
+      "end": 95
+    },
+    "translations": {
+      "zh": "1个女孩，单人，粗轮廓，水彩效果，Q版，变形Q版，坐着，羊连体服，",
+      "en": "1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "character-design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

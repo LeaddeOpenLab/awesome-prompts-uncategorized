@@ -19,13 +19,13 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**223** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**236** Prompts · Zuletzt hinzugefügt: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Nach Kategorie durchsuchen
 
-[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D-Rendering](#category-3d-render) · [Ölgemälde](#category-oil-painting) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
+[Fotografie](#category-photography) · [Kinematisch / Filmstill](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Skizze / Strichzeichnung](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D-Rendering](#category-3d-render) · [Chibi / Q-Style](#category-chibi-q-style) · [Ölgemälde](#category-oil-painting) · [Aquarell](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismus](#category-minimalism) · [Sonstige](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -35,20 +35,34 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2100153971088482321"></a>
 
-### Übersetzung läuft
+### Strukturierte Prompt-Vorlage für IR-Nachtsicht-Überwachungsaufnahmen einer Türklingelkamera zur Generierung von Videos unheimlicher Besucher.
 
 Autor：[@Gdgtify](https://x.com/Gdgtify) · [Originalbeitrag](https://x.com/Gdgtify/status/2100153971088482321)
 
 Fotografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Strukturierte Prompt-Vorlage für IR-Nachtsicht-Überwachungsaufnahmen einer Türklingelkamera zur Generierung von Videos unheimlicher Besucher.
 
 <img src="covers/2100153971088482321.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+INPUT: $ SUBJECT              // Kryptid, unklassifizierte Gestalt, etwas Unheimliches an der Tür
+VISITOR   = infer_subject($ SUBJECT)        // Größenverhältnis zum Türrahmen, Haltung, Wahrnehmung des Objektivs
+BEHAVIOR  = infer_mundane_act($ SUBJECT)    // führt eine ALLTÄGLICHE Handlung aus — Müll, Türklinke, Paket
+PORCH     = infer_porch($ SUBJECT)          // echte Fassadenverkleidung, Fußmatte, Pflanzkübel, Schlauch, abblätternde Farbe
+NIGHT     = infer_ir_night($ SUBJECT)       // IR-Strahler aktiv, monochrom, keine Farbinformationen
+BLOWOUT   = infer_ir_falloff($ SUBJECT)     // nahes Motiv weiß überstrahlt, Hintergrund ins Tiefschwarz absaufend
+LENS      = infer_fisheye($ SUBJECT)        // starke tonnenförmige Verzeichnung, Ecken verzerrt
+MOUNT     = infer_camera_height($ SUBJECT)  // ~4 Fuß, fest montiert, leicht schief
+CROP      = infer_motion_trigger($ SUBJECT) // Motiv teilweise außerhalb des Bildausschnitts — abgeschnitten, eintretend
+OVERLAY   = infer_hud($ SUBJECT)            // Zeitstempel, Gerätename, Batteriesymbol, kleine Schrift
+FLAWS     = infer_flaws($ SUBJECT)          // Schlieren durch niedrige Bitrate, IR-Rauschen, Kompressionsartefakte
+Φ = ir_falloff(emitter) + barrel_warp(LENS)
+MOTION: Motiv betritt das Bild am Rand → hält inne → Kopf dreht sich zur Linse → verharrt 2 Sek. → verlässt das Bild.
+Keine Kamerabewegung, feste Montage.
+Compose: feste Türklingelkamera, IR-Nachtmodus, monochrom, Motiv überbelichtet und teilweise abgeschnitten, Zeitstempel-Overlay, starke Kompression. Fotorealistisch, 4:3 oder 16:9.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -57,7 +71,7 @@ Fotografie · Veröffentlicht
 
 <a name="prompt-2100190479287742842"></a>
 
-### Übersetzung läuft
+### Realistisches Campus-Porträt im japanischen Stil einer jungen Frau in einer blau-weißen Sportjacke, die humorvoll die Augen verdreht.
 
 Autor：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2100190479287742842)
 
@@ -65,7 +79,7 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 Originalbeitrag：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2100157493871575452)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistisches Campus-Porträt im japanischen Stil einer jungen Frau in einer blau-weißen Sportjacke, die humorvoll die Augen verdreht.
 
 <img src="images/2100190479287742842-1.jpg" alt="Bild 1" width="480" />
 
@@ -86,7 +100,11 @@ Originalbeitrag：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https
 **Prompt**
 
 ```text
-Übersetzung läuft
+Realistische Campus-Porträtfotografie, eine erwachsene ostasiatische Frau in ihren Zwanzigern, langes schwarzes Haar, das natürlich herabfällt und von einer leichten Brise zerzaust wird, dezentes, transparentes Make-up, helle, natürliche Haut, zartrosa Rouge, feucht schimmernde rosa Lippen, große Augen, die leicht nach oben blicken, mit einem verspielten, unschuldigen und leicht ungeduldig-witzigen Gesichtsausdruck.
+
+Sie trägt eine blau-weiße Campus-Sportjacke, darunter ein figurbetontes weißes Rundhals-T-Shirt, einen schwarzen Rucksack locker über einer Schulter, eine Hand hält ganz natürlich den Schultergurt. Sie steht am Rand eines Basketballplatzes auf dem Campus, im Hintergrund ein Basketballkorb, Universitätsgebäude, Bäume und einige unscharfe Studenten, strahlender Sonnenschein, Gegenlicht am Nachmittag fällt von hinten durch ihr Haar und erzeugt ein feines Kantenlicht um die Haarsträhnen.
+
+Nahaufnahme als Halbporträt, 35mm-Objektiv, die Person füllt den Großteil des Bildes aus, leichte Weitwinkelperspektive, geringe Tiefenschärfe, weich verschwommener Hintergrund, japanischer Jugend-Fotobuchstil, Textur wie ein echtes iPhone-Foto, weiche Highlights, dezentes Filmkorn, natürliche Hautstruktur, realistische Haardetails, frische blau-weiße Farbpalette, warmes Sonnenlicht, lebendiger Schnappschuss-Charakter, fotorealistisch, ungekünsteltes Campus-Porträt, sanftes Gegenlicht, geringe Schärfentiefe, natürliche Hauttextur, realistische Haarsträhnen
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -2933,22 +2951,44 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 ## Anime / Manga
 
-<a name="prompt-2099903953693708742"></a>
+<a name="prompt-2100214733651796462"></a>
 
 ### Übersetzung läuft
+
+Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2100214733651796462)
+
+Anime / Manga · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100214733651796462.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2099903953693708742"></a>
+
+### 2D-Charakter-Generierungs-Prompt, der den blonden Kyotaro Suga und die blauhaarige Sumire Hirose darstellt.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Originalbeitrag](https://x.com/AUrbNUMjfxj85IS/status/2099903953693708742)
 
 Anime / Manga · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 2D-Charakter-Generierungs-Prompt, der den blonden Kyotaro Suga und die blauhaarige Sumire Hirose darstellt.
 
 <img src="images/2099903953693708742-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Kyotaro Suga und Sumire Hirose, blondes Haar und blaues Haar
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3126,13 +3166,13 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 <a name="prompt-2100164379128021284"></a>
 
-### Übersetzung läuft
+### Prompt zur Generierung von Illustrationen im Livestream-Bildschirm-Stil.
 
 Autor：[@AIDream\_Project](https://x.com/AIDream_Project) · [Originalbeitrag](https://x.com/AIDream_Project/status/2100164379128021284)
 
 App- / Webdesign · Illustration · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Generierung von Illustrationen im Livestream-Bildschirm-Stil.
 
 <img src="images/2100164379128021284-1.jpg" alt="Bild 1" width="480" />
 
@@ -3145,7 +3185,7 @@ App- / Webdesign · Illustration · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein Smartphone-Bildschirm, der aussieht, als würde ein Livestream laufen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3422,6 +3462,32 @@ Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 
 ## Comic / Graphic Novel
 
+<a name="prompt-2100248350683811997"></a>
+
+### Übersetzung läuft
+
+Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Originalbeitrag](https://x.com/2__han__/status/2100248350683811997)
+
+Comic / Graphic Novel · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100248350683811997-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100248350683811997-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100248350683811997-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2099563152388329737"></a>
 
 ### Mixed-Media-Porträt-Prompt, der ein reales Personenporträt mit einem schwarzen, handgezeichneten Cartoon-Doodle-Schatten an der Wand kombiniert.
@@ -3608,9 +3674,63 @@ Erstelle mir ein Server-Rack für 6 Nvidia Sparks mit einem effizienten, ästhet
 
 ---
 
+<a name="category-chibi-q-style"></a>
+
+## Chibi / Q-Style
+
+<a name="prompt-2100221806162673891"></a>
+
+### Übersetzung läuft
+
+Autor：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Originalbeitrag](https://x.com/AI_gansakushi/status/2100221806162673891)
+
+Chibi / Q-Style · Aquarell · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100221806162673891-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="category-oil-painting"></a>
 
 ## Ölgemälde
+
+<a name="prompt-2100200995137724765"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2100200995137724765)
+
+Ölgemälde · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100200995137724765-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100200995137724765-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100200995137724765-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2100200995137724765-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2099147187955675169"></a>
 
@@ -3640,9 +3760,85 @@ Erstelle aus dem eingegebenen Architektur-Reisefoto ein vertikales Vorher-Nachhe
 
 ---
 
+<a name="category-watercolor"></a>
+
+## Aquarell
+
+<a name="prompt-2100247084410834969"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2100247084410834969)
+
+Plakat / Flyer · Fotografie · Aquarell · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100247084410834969-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100247084410834969-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100247084410834969-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2100247084410834969-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100251372339761202"></a>
+
+### Übersetzung läuft
+
+Autor：[@DerKlarblick](https://x.com/DerKlarblick) · [Originalbeitrag](https://x.com/DerKlarblick/status/2100251372339761202)
+
+Fotografie · Retro / Vintage · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100251372339761202-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100239972020486509"></a>
+
+### Übersetzung läuft
+
+Autor：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Originalbeitrag](https://x.com/Avalanc83148107/status/2100239972020486509)
+
+Retro / Vintage · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100239972020486509-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100100687946203533"></a>
 
@@ -4206,22 +4402,164 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2100133379077194236"></a>
+<a name="prompt-2100184569391816833"></a>
 
 ### Übersetzung läuft
+
+Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2100184569391816833)
+
+Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100184569391816833.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100235950047821853"></a>
+
+### Übersetzung läuft
+
+Autor：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Originalbeitrag](https://x.com/zerozakiyamo/status/2100235950047821853)
+
+Charakter · Modeartikel · Veröffentlicht
+
+Originalbeitrag：[@mktcreativework](https://x.com/mktcreativework) · [Originalbeitrag](https://x.com/mktcreativework/status/2099604101386711552)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100235950047821853-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100235950047821853-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100225896527679977"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2100225896527679977)
+
+Plakat / Flyer · Text / Typografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100225896527679977-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100225896527679977-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2100225896527679977-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2100225896527679977-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100204805872550306"></a>
+
+### Übersetzung läuft
+
+Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Originalbeitrag](https://x.com/RobotCleopatra/status/2100204805872550306)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100204805872550306-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100231338779636202"></a>
+
+### Übersetzung läuft
+
+Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2100231338779636202)
+
+Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100231338779636202.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100208663872823327"></a>
+
+### Übersetzung läuft
+
+Autor：[@EmberLumina](https://x.com/EmberLumina) · [Originalbeitrag](https://x.com/EmberLumina/status/2100208663872823327)
+
+Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100208663872823327-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100133379077194236"></a>
+
+### Herbstmode-Collage einer lockigen Frau im cremefarbenen Cardigan und Slip-Kleid auf einer mediterranen Terrasse.
 
 Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Originalbeitrag](https://x.com/Minahil42298354/status/2100133379077194236)
 
 Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Herbstmode-Collage einer lockigen Frau im cremefarbenen Cardigan und Slip-Kleid auf einer mediterranen Terrasse.
 
 <img src="images/2100133379077194236-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Diese atemberaubende Bildcollage fängt eine strahlende Frau mit wunderschönem lockigem Haar ein, die einen schicken, strukturierten cremefarbenen Cardigan über einem seidigen, gemusterten Slip-Kleid präsentiert, kombiniert mit eleganten hohen Stiefeln. Vor der Kulisse einer sonnendurchfluteten Terrasse im mediterranen Stil, die mit Terrakottatöpfen und lebendigen blühenden Pflanzen geschmückt ist, verbindet die Komposition auf wunderschöne Weise gemütliche Strickmode mit müheloser Eleganz. Die Stimmung ist warm, fröhlich und zutiefst einladend, was es zu einer fantastischen Inspiration für die herbstliche Übergangsmode macht.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4230,20 +4568,28 @@ Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2100082724589461943"></a>
 
-### Übersetzung läuft
+### Editorial-Fashion-Porträt in einem Badezimmer mit Oversize-Jacke, weinroter Krawatte und glänzendem Minirock.
 
 Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2100082724589461943)
 
 Porträt / Selfie · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Editorial-Fashion-Porträt in einem Badezimmer mit Oversize-Jacke, weinroter Krawatte und glänzendem Minirock.
 
 <img src="images/2100082724589461943-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verwende das beigefügte Foto als einzige Referenz. Bewahre das Aussehen und die Haare strikt 1:1: Gesichtszüge, Proportionen, Augen, Nase, Lippen, Kieferpartie, Hautton und natürliche Hauttextur – keine Idealisierung oder Stilisierung.
+
+Ultrafotorealistisches Modefoto im Stil von Saint Laurent / Miu Miu, 4K. Stilvolles redaktionelles Badezimmer: weiße Fliesen, schwarze Arbeitsplatte mit integriertem Waschbecken, Spiegel und warme vertikale Leuchten. Aufnahme von Oberschenkelmitte bis Kopf, Kamera auf Augenhöhe, Model zentriert.
+
+Das Mädchen steht mit leicht geöffneten Beinen und den Händen auf den Hüften da. Kühler, selbstbewusster Blick, minimale Emotion. Haare genau wie in der Referenz: dieselbe Farbe, Dichte, Textur und dasselbe Styling.
+
+Sie trägt eine schwarze Oversize-Jacke mit ausgeprägten Schultern, ein schwarzes Hemd, eine leicht gelockerte weinrote Krawatte, einen glänzenden, eng anliegenden weinroten Minirock und transparente schwarze Strumpfhosen. Große schwarze Sonnenbrille, goldene Ohrringe. Auf der Arbeitsplatte – eine kleine strukturierte schwarze Tasche.
+
+Rote Lippen, definierte Augenbrauen, leichtes Contouring. Warmes Kunstlicht, weiche Schatten, filmisches Leuchten und realistische Reflexionen. Keine Änderungen an Gesicht, Haaren, Kleidung, Beleuchtung oder Requisiten; kein CGI oder anatomische Fehler.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4252,20 +4598,20 @@ Porträt / Selfie · Modeartikel · Veröffentlicht
 
 <a name="prompt-2100152050525110632"></a>
 
-### Übersetzung läuft
+### Gyaru-Schuluniform-Outfit mit Moe-Ärmeln, übergroßer hellgrüner Strickjacke, lockerer Fliege, Falten-Minirock und Loose Socks.
 
 Autor：[@AI\_Kei75](https://x.com/AI_Kei75) · [Originalbeitrag](https://x.com/AI_Kei75/status/2100152050525110632)
 
 Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Gyaru-Schuluniform-Outfit mit Moe-Ärmeln, übergroßer hellgrüner Strickjacke, lockerer Fliege, Falten-Minirock und Loose Socks.
 
 <img src="images/2100152050525110632-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+weißer Choker, übergroße hellgrüne Strickjacke, lange Ärmel, (Ärmel über die Finger reichend), gelber Knopf, Hemd unter der Kleidung, Hemd unter dem Pullover, weißes Hemd mit Kragen, (Schlüsselbein), lockere Fliege, hellgelbe Fliege, (hellgelber Faltenrock), Minirock, hellgelber Rock, weiße Loose Socks, braune Loafer,
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4274,13 +4620,13 @@ Modeartikel · Veröffentlicht
 
 <a name="prompt-2100169070259863658"></a>
 
-### Übersetzung läuft
+### Prompt zur Umwandlung von Naturlandschaftsfotos in ein Goldfolien-Radierungsplakat im Oben-Unten-Kontraststil.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2100169070259863658)
 
 Plakat / Flyer · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Umwandlung von Naturlandschaftsfotos in ein Goldfolien-Radierungsplakat im Oben-Unten-Kontraststil.
 
 <img src="images/2100169070259863658-1.jpg" alt="Bild 1" width="480" />
 
@@ -4293,7 +4639,7 @@ Plakat / Flyer · Landschaft / Natur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein vertikales Reiseplakat im Oben-Unten-Kontraststil. Die obere Hälfte behält das eingegebene echte Reisefoto einer Naturlandschaft vollständig bei und bewahrt die ursprüngliche Komposition sowie die realen Details von Bergen, Küsten, Wäldern, Schluchten, Seen, Wolken oder anderen Hauptmotiven; in der Mitte befindet sich eine feine weiße Trennlinie. Die untere Hälfte zeichnet dieselbe Szene als geheimnisvollen, epischen Goldfolien-Radierungsdruck auf tief indigoblauem oder schwarzem Basispapier neu: Mit den markantesten natürlichen Umrissen des Originalbildes als Kernstück werden kräftige, handgefertigte Ätzlinien, Umrisse aus gold- und bronzefarbener Metallfolie sowie eisblaue, violett-weiße oder warmgoldene Lichtstrahlen verwendet; Nebel, Baumkronen, Gesteinsschichten, Meereswellen und Bergmassive werden durch geschwungene Ziermuster, dichte Kreuzschraffuren und körnige Texturen dargestellt. Wähle basierend auf dem Originalbild Blitze, Sonnenlicht, Mondlicht, Nebellicht oder Wasserreflexionen als visuellen Mittelpunkt, ohne nicht vorhandene Elemente aufzuzwingen. Behalte die Beziehungen der Hauptmotive und die natürliche Topografie des Originals bei und verdichte sie zu einer dramatischen Druckgrafik-Komposition. Untersagt sind globale Bildfilter, das freie Hinzufügen von Personen oder Bauwerken, Text, Logos, Wasserzeichen, Signaturen sowie jegliche Eckmarkierungen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4302,20 +4648,46 @@ Plakat / Flyer · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2100180395635454153"></a>
 
-### Übersetzung läuft
+### 3x3-Raster-Smartphone-Collage mit Schnappschüssen einer chinesischen Zugbegleiterin bei der Arbeit in einem modernen Zug.
 
 Autor：[@3three\_AI](https://x.com/3three_AI) · [Originalbeitrag](https://x.com/3three_AI/status/2100180395635454153)
 
 Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 3x3-Raster-Smartphone-Collage mit Schnappschüssen einer chinesischen Zugbegleiterin bei der Arbeit in einem modernen Zug.
 
 <img src="images/2100180395635454153-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Fotorealistische, ungezwungene Smartphone-Fotocollage, vertikal 3:4, bestehend aus 9 einzelnen Schnappschüssen in einem sauberen 3×3-Raster, die Momente während eines normalen Arbeitstags einer jungen chinesischen Zugbegleiterin in einem modernen Personenzug festhält.
+
+Behalte dieselbe Frau, dieselben Gesichtszüge, dieselbe Frisur, dieselbe Gesamterscheinung und dieselbe Uniform in jedem Bild bei. Sie hat dunkelbraunes Haar, das ordentlich zu einem tiefen Dutt gebunden ist, zarte natürliche Gesichtszüge, leichtes Make-up und eine jugendliche Ausstrahlung.
+
+Sie trägt eine professionelle dunkelblaue Zugbegleiterinnen-Uniform mit figurbetontem Blazer oder elegantem Uniformrock, ein rot-blau gemustertes Halstuch, ein kleines goldenes Namensschild, dunkle Strümpfe und schlichte Business-Schuhe. Ihr Erscheinungsbild ist gepflegt, aber natürlich.
+
+Bild 1: Versehentliches Smartphone-Nahaufnahme-Selfie im Zugvorraum, bei dem ein Finger das Objektiv teilweise verdeckt, leicht verschwommen und unvollkommen, Zugtüren und Sicherheitsschilder sind hinter ihr sichtbar.
+
+Bild 2: Ungezwungene Ganzkörperaufnahme von ihr, wie sie einen kleinen schwarzen Rollkoffer durch den schmalen Zuggang zieht, mit leichter Bewegungsunschärfe, Passagiere und Sitzreihen im Hintergrund sanft sichtbar.
+
+Bild 3: Nahaufnahme-Selfie von einem Fensterplatz im Zug, helles natürliches Sonnenlicht fällt durch das Glas und überbelichtet Teile ihres Gesichts leicht, entspannter Gesichtsausdruck und ungezwungener Bildausschnitt.
+
+Bild 4: Beiläufige Dreiviertel-Rückansicht von ihr, wie sie im Zugabteil nach oben zur Gepäckablage greift, was ihren ordentlichen tiefen Dutt, ihre Uniformsilhouette und ihre professionelle Haltung zeigt.
+
+Bild 5: Extremes Nahaufnahme-Selfie, bei dem ihr Gesicht den Großteil des Bildes einnimmt, ein paar verirrte Haarsträhnen über dem Gesicht, weicher Fokus, leicht unvollkommene Smartphone-Belichtung, verspielter und natürlicher Ausdruck.
+
+Bild 6: Beiläufiges Selfie im Sitzen im Zug, lachend mit einer Hand vor dem Mund, schlichte Armbanduhr sichtbar, warme Abteilbeleuchtung, echter spontaner Moment.
+
+Bild 7: Nahaufnahme-Profil-Selfie an einem großen Zugfenster, Bahnsteig und ein anderer Zug draußen sichtbar, natürliches Tageslicht, leicht angeschnittenes Gesicht und realistische Reflexionen auf dem Glas.
+
+Bild 8: Beiläufige Rückansicht, wie sie durch den Zugwaggon zum nächsten Abschnitt geht, mit leichter Bewegungsunschärfe, Gepäckablagen, Sitze, Türen und realistische Zuginnendetails sichtbar.
+
+Bild 9: Versehentliches Nahaufnahme-Selfie im Vorraumbereich des Zuges, bei dem ein Finger das Kameraobjektiv teilweise verdeckt, verspielte unvollkommene Bildkomposition, realistische Zugtür-Bedienelemente und Sicherheitsausrüstung dahinter sichtbar.
+
+Die gesamte Collage sollte sich wie echte persönliche Smartphone-Erinnerungen aus dem Arbeitstag einer Zugbegleiterin anfühlen, nicht wie professionelle Fotografie. Nutze uneinheitliche Bildausschnitte, leichte Bewegungsunschärfe, versehentliche Zuschnitte, sanfte Linsenverzerrung, subtile Belichtungsunterschiede, realistische Zugbeleuchtung, weichen Fokus, natürliche Hauttextur, echte Gesichtsausdrücke und kleine fotografische Makel.
+
+Kein polierter Studio-Look, keine künstlichen Schönheitsfilter, keine Plastikhaut, kein CGI-Look. Rohe alltägliche Smartphone-Fotografie, authentisches Fototagebuch einer Zugbegleiterin hinter den Kulissen, realistische moderne Personenzug-Innenräume, spontane ungezwungene Momente, konsistenter Charakter über alle 9 Bilder, dünne weiße Trennlinien zwischen den Bildern, sauberes 3×3-Raster, vertikales Seitenverhältnis von 3:4
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

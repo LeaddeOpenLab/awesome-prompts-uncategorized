@@ -19,13 +19,13 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**223** Prompt · Son eklenen: **2026-09-16**
+**236** Prompt · Son eklenen: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Kategoriye göre göz at
 
-[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render) · [Yağlı Boya Tablo](#category-oil-painting) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
+[Fotoğrafçılık](#category-photography) · [Sinematik / Film Karesi](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [İllüstrasyon](#category-illustration) · [Çizim / Çizgi Sanatı](#category-sketch-line-art) · [Çizgi Roman / Grafik Roman](#category-comic-graphic-novel) · [3D Modelleme](#category-3d-render) · [Chibi / Q-Stil](#category-chibi-q-style) · [Yağlı Boya Tablo](#category-oil-painting) · [Suluboya](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Siberpunk / Bilim Kurgu](#category-cyberpunk-sci-fi) · [Minimalizm](#category-minimalism) · [Diğer](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -35,20 +35,34 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2100153971088482321"></a>
 
-### Çeviri sürüyor
+### Tekinsiz ziyaretçi videoları oluşturmak için kapı zili kızılötesi gece görüşü güvenlik kamerası görüntülerine yönelik yapılandırılmış istem şablonu.
 
 Yazar：[@Gdgtify](https://x.com/Gdgtify) · [Orijinal gönderi](https://x.com/Gdgtify/status/2100153971088482321)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tekinsiz ziyaretçi videoları oluşturmak için kapı zili kızılötesi gece görüşü güvenlik kamerası görüntülerine yönelik yapılandırılmış istem şablonu.
 
 <img src="covers/2100153971088482321.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+INPUT: $ SUBJECT              // kriptid, sınıflandırılmamış figür, kapıda tekinsiz bir şey
+VISITOR   = infer_subject($ SUBJECT)        // kapı kasasına göre ölçek, duruş, lensin farkında olma
+BEHAVIOR  = infer_mundane_act($ SUBJECT)    // SIRADAN bir şey yapıyor — çöp, kapı kolu, paket
+PORCH     = infer_porch($ SUBJECT)          // gerçek dış cephe kaplaması, paspas, saksı, hortum, soyulan boya
+NIGHT     = infer_ir_night($ SUBJECT)       // kızılötesi yayıcılar açık, monokrom, renk bilgisi yok
+BLOWOUT   = infer_ir_falloff($ SUBJECT)     // yakındaki özne patlamış beyaz, arka plan simsiyah ezilmiş
+LENS      = infer_fisheye($ SUBJECT)        // yoğun fıçı bükülmesi, köşeler uzatılmış
+MOUNT     = infer_camera_height($ SUBJECT)  // ~4 fit yükseklik, sabit, hafifçe terazi dışı
+CROP      = infer_motion_trigger($ SUBJECT) // özne kısmen kadraj dışı — kesilmiş, içeri giriyor
+OVERLAY   = infer_hud($ SUBJECT)            // zaman damgası, cihaz adı, pil simgesi, küçük yazı tipi
+FLAWS     = infer_flaws($ SUBJECT)          // düşük bit hızı lekesi, kızılötesi paraziti, sıkıştırma blokları
+Φ = ir_falloff(emitter) + barrel_warp(LENS)
+MOTION: özne kadraja kenardan girer → duraklar → kafa lense doğru döner → 2 saniye bekler → çıkar.
+Kamera hareketi yok, sabit montaj.
+Compose: sabit kapı zili kamerası, kızılötesi gece modu, monokrom, aşırı pozlanmış ve kısmen kırpılmış özne, zaman damgası katmanı, yoğun sıkıştırma. Fotogerçekçi, 4:3 veya 16:9.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -57,7 +71,7 @@ Fotoğrafçılık · Yayımlandı
 
 <a name="prompt-2100190479287742842"></a>
 
-### Çeviri sürüyor
+### Mavi-beyaz spor ceket giymiş, komik bir ifadeyle gözlerini deviren genç bir kadının Japon tarzı gerçekçi kampüs portresi.
 
 Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100190479287742842)
 
@@ -65,7 +79,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100157493871575452)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Mavi-beyaz spor ceket giymiş, komik bir ifadeyle gözlerini deviren genç bir kadının Japon tarzı gerçekçi kampüs portresi.
 
 <img src="images/2100190479287742842-1.jpg" alt="Görsel 1" width="480" />
 
@@ -86,7 +100,11 @@ Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gerçekçi kampüs portre fotoğrafı, 20'li yaşlarında yetişkin bir Doğu Asyalı kadın, rüzgârla hafifçe dağılmış doğal uzun siyah saçlar, duru ve hafif bir makyaj, açık ve doğal ten, açık pembe allık, nemli pembe dudaklar, hafifçe yukarı bakan iri gözler, muzip, masum ve hafif sabırsız esprili bir ifade.
+
+Mavi-beyaz renklerde kampüs spor ceketi giymiş, içinde bedene oturan beyaz bisiklet yaka tişört, tek omzuna taktığı siyah sırt çantası, bir eliyle askıyı doğal bir şekilde tutuyor. Kampüsteki basketbol sahasının kenarında duruyor, arka planda basketbol potaları, derslik binaları, ağaçlar ve flu birkaç öğrenci var, parlak güneş ışığı, saçlarının arkasından vuran öğleden sonra ters ışığı, saç tellerinde zarif bir kontur ışığı oluşturuyor.
+
+Yakın çekim bel plan kompozisyon, 35 mm lens, öznenin karenin çoğunu kapladığı hafif geniş açı perspektif, sığ alan derinliği, yumuşakça bulanıklaştırılmış arka plan, Japon tarzı gençlik fotoğraf çekimi konsepti, iPhone ile çekilmiş gibi gerçekçi doku, yumuşak parlak alanlar, hafif film greni, doğal cilt dokusu, gerçekçi saç teli detayları, ferah mavi-beyaz renk paleti, sıcak güneş ışığı, doğal anlık enstantane, fotogerçekçi, doğal kampüs portresi, yumuşak ters ışık, sığ alan derinliği, doğal cilt dokusu, gerçekçi saç telleri
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -2950,22 +2968,44 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 ## Anime / Manga
 
-<a name="prompt-2099903953693708742"></a>
+<a name="prompt-2100214733651796462"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2100214733651796462)
+
+Anime / Manga · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100214733651796462.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2099903953693708742"></a>
+
+### Sarı saçlı Kyotaro Suga ve mavi saçlı Sumire Hirose'yi tasvir eden 2D karakter oluşturma istemi.
 
 Yazar：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Orijinal gönderi](https://x.com/AUrbNUMjfxj85IS/status/2099903953693708742)
 
 Anime / Manga · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sarı saçlı Kyotaro Suga ve mavi saçlı Sumire Hirose'yi tasvir eden 2D karakter oluşturma istemi.
 
 <img src="images/2099903953693708742-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kyotaro Suga ve Sumire Hirose, sarı saç ve mavi saç
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3143,13 +3183,13 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 <a name="prompt-2100164379128021284"></a>
 
-### Çeviri sürüyor
+### Canlı yayın ekranı tarzında illüstrasyon oluşturma istemi.
 
 Yazar：[@AIDream\_Project](https://x.com/AIDream_Project) · [Orijinal gönderi](https://x.com/AIDream_Project/status/2100164379128021284)
 
 Uygulama / Web Tasarımı · İllüstrasyon · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Canlı yayın ekranı tarzında illüstrasyon oluşturma istemi.
 
 <img src="images/2100164379128021284-1.jpg" alt="Görsel 1" width="480" />
 
@@ -3162,7 +3202,7 @@ Uygulama / Web Tasarımı · İllüstrasyon · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Canlı yayın yapılıyormuş gibi görünen bir akıllı telefon ekranı.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3439,6 +3479,32 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 
 ## Çizgi Roman / Grafik Roman
 
+<a name="prompt-2100248350683811997"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@2\_\_han\_\_](https://x.com/2__han__) · [Orijinal gönderi](https://x.com/2__han__/status/2100248350683811997)
+
+Çizgi Roman / Grafik Roman · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100248350683811997-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100248350683811997-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100248350683811997-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099563152388329737"></a>
 
 ### Gerçek insan portresi ile duvarda siyah karikatür el çizimi karalama gölgeyi birleştiren karma teknik portre komutu.
@@ -3625,9 +3691,63 @@ Bana 6 Nvidia Spark için verimli ve estetik açıdan hoş bir tasarıma sahip b
 
 ---
 
+<a name="category-chibi-q-style"></a>
+
+## Chibi / Q-Stil
+
+<a name="prompt-2100221806162673891"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Orijinal gönderi](https://x.com/AI_gansakushi/status/2100221806162673891)
+
+Chibi / Q-Stil · Suluboya · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100221806162673891-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="category-oil-painting"></a>
 
 ## Yağlı Boya Tablo
+
+<a name="prompt-2100200995137724765"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2100200995137724765)
+
+Yağlı Boya Tablo · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100200995137724765-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100200995137724765-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100200995137724765-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100200995137724765-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2099147187955675169"></a>
 
@@ -3657,9 +3777,85 @@ Girdi olarak verilen dünya mimarisi seyahat fotoğrafını dikey formatta bir a
 
 ---
 
+<a name="category-watercolor"></a>
+
+## Suluboya
+
+<a name="prompt-2100247084410834969"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2100247084410834969)
+
+Poster / El İlanı · Fotoğrafçılık · Suluboya · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100247084410834969-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100247084410834969-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100247084410834969-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100247084410834969-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100251372339761202"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DerKlarblick](https://x.com/DerKlarblick) · [Orijinal gönderi](https://x.com/DerKlarblick/status/2100251372339761202)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100251372339761202-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100239972020486509"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Orijinal gönderi](https://x.com/Avalanc83148107/status/2100239972020486509)
+
+Retro / Vintage · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100239972020486509-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100100687946203533"></a>
 
@@ -4223,22 +4419,164 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2100133379077194236"></a>
+<a name="prompt-2100184569391816833"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2100184569391816833)
+
+Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100184569391816833.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100235950047821853"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Orijinal gönderi](https://x.com/zerozakiyamo/status/2100235950047821853)
+
+Karakter · Moda Ürünü · Yayımlandı
+
+Orijinal gönderi：[@mktcreativework](https://x.com/mktcreativework) · [Orijinal gönderi](https://x.com/mktcreativework/status/2099604101386711552)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100235950047821853-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100235950047821853-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100225896527679977"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2100225896527679977)
+
+Poster / El İlanı · Metin / Tipografi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100225896527679977-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100225896527679977-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2100225896527679977-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2100225896527679977-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100204805872550306"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Orijinal gönderi](https://x.com/RobotCleopatra/status/2100204805872550306)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100204805872550306-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100231338779636202"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2100231338779636202)
+
+Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100231338779636202.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100208663872823327"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@EmberLumina](https://x.com/EmberLumina) · [Orijinal gönderi](https://x.com/EmberLumina/status/2100208663872823327)
+
+Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100208663872823327-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100133379077194236"></a>
+
+### Akdeniz tarzı bir verandada krem hırka ve jile elbise giymiş kıvırcık saçlı bir kadının sonbahar modası kolajı.
 
 Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2100133379077194236)
 
 Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Akdeniz tarzı bir verandada krem hırka ve jile elbise giymiş kıvırcık saçlı bir kadının sonbahar modası kolajı.
 
 <img src="images/2100133379077194236-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bu çarpıcı görsel kolajı, ipeksi ve desenli bir jile elbisenin üzerine dokulu, şık krem rengi bir hırka giymiş ve bunu zarif uzun çizmelerle kombinlemiş, güzel kıvırcık saçlı ışıl ışıl bir kadını gözler önüne seriyor. Terakota saksılar ve canlı çiçekli bitkilerle süslenmiş, güneşle aydınlanan Akdeniz tarzı bir verandanın fonunda yer alan kompozisyon, rahat trikoları zahmetsiz bir zarafetle güzelce harmanlıyor. Sıcak, neşeli ve son derece davetkâr havasıyla, sonbahar geçiş modası için harika bir ilham kaynağı oluşturuyor.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4247,20 +4585,28 @@ Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2100082724589461943"></a>
 
-### Çeviri sürüyor
+### Banyoda oversize ceket, bordo kravat ve parlak mini etek giyen editoryal moda portresi.
 
 Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2100082724589461943)
 
 Portre / Selfie · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Banyoda oversize ceket, bordo kravat ve parlak mini etek giyen editoryal moda portresi.
 
 <img src="images/2100082724589461943-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ekli fotoğrafı tek referans olarak kullanın. Görünümü ve saçları birebir koruyun: yüz hatları, oranlar, gözler, burun, dudaklar, çene hattı, cilt tonu ve doğal cilt dokusu — idealleştirme veya stilize etme yok.
+
+Saint Laurent / Miu Miu tarzında ultra fotogerçekçi moda fotoğrafı, 4K. Şık editoryal banyo: beyaz fayanslar, gömme lavabolu siyah tezgah, ayna ve sıcak dikey aydınlatma armatürleri. Uyluk ortasından başa kadar çekim, kamera göz hizasında, model merkezde.
+
+Kız, bacakları hafifçe açık ve elleri kalçalarında duruyor. Soğuk, kendinden emin bakış, minimum duygu. Saçlar tam olarak referanstaki gibi: aynı renk, yoğunluk, doku ve şekillendirme.
+
+Belirgin omuzlara sahip siyah oversize bir ceket, siyah bir gömlek, hafifçe gevşetilmiş bordo bir kravat, vücuda oturan parlak bordo bir mini etek ve ince siyah çorap giyiyor. Büyük siyah güneş gözlüğü, altın küpeler. Tezgahın üzerinde — küçük, yapılandırılmış siyah bir çanta.
+
+Kırmızı dudaklar, belirgin kaşlar, hafif kontür. Sıcak yapay ışık, yumuşak gölgeler, sinematik parıltı ve gerçekçi yansımalar. Yüzde, saçta, giysilerde, aydınlatmada veya aksesuarlarda değişiklik yok; CGI veya anatomik hata yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4269,20 +4615,20 @@ Portre / Selfie · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2100152050525110632"></a>
 
-### Çeviri sürüyor
+### Oversize açık yeşil hırka, gevşek papyon, pileli mini etek ve bol çoraplar içeren moe kollu gyaru okul üniforması kombini.
 
 Yazar：[@AI\_Kei75](https://x.com/AI_Kei75) · [Orijinal gönderi](https://x.com/AI_Kei75/status/2100152050525110632)
 
 Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Oversize açık yeşil hırka, gevşek papyon, pileli mini etek ve bol çoraplar içeren moe kollu gyaru okul üniforması kombini.
 
 <img src="images/2100152050525110632-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+beyaz tasma kolye, oversize açık yeşil hırka, uzun kollar, (parmakları aşan kollar), sarı düğme, kıyafetin altında gömlek, kazağın altında gömlek, beyaz yakalı gömlek, (köprücük kemiği), gevşek papyon, açık sarı papyon, (açık sarı pileli etek), mini etek, açık sarı etek, beyaz bol çoraplar, kahverengi loafer ayakkabılar,
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4291,13 +4637,13 @@ Moda Ürünü · Yayımlandı
 
 <a name="prompt-2100169070259863658"></a>
 
-### Çeviri sürüyor
+### Doğal manzara fotoğraflarını alt-üst karşılaştırma tarzında altın varak gravür afişine dönüştüren istem.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2100169070259863658)
 
 Poster / El İlanı · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Doğal manzara fotoğraflarını alt-üst karşılaştırma tarzında altın varak gravür afişine dönüştüren istem.
 
 <img src="images/2100169070259863658-1.jpg" alt="Görsel 1" width="480" />
 
@@ -4310,7 +4656,7 @@ Poster / El İlanı · Manzara / Doğa · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey formatta, alt-üst karşılaştırmalı bir seyahat afişi oluşturun. Üst yarı, girilen gerçek doğal manzara seyahat fotoğrafını eksiksiz olarak korur; dağların, kıyıların, ormanların, kanyonların, göllerin, bulutların veya diğer ana ögelerin orijinal kompozisyonunu ve gerçek ayrıntılarını muhafaza eder; ortada ince beyaz bir ayırıcı çizgi yer alır. Alt yarı, aynı sahneyi koyu çivit mavisi veya siyah zemin kâğıdı üzerinde gizemli ve epik bir altın varak gravür baskı olarak yeniden çizer: Orijinal görüntünün en belirgin doğal siluetlerini merkez alarak kalın el oyması gravür çizgileri, altın-bronz metalik varak hatları ve buz mavisi, eflatun-beyaz veya sıcak altın rengi ışık huzmeleri kullanır; sis, ağaç taçları, kaya katmanları, deniz dalgaları ve dağ kütleleri kıvrımlı dekoratif desenler, yoğun çapraz taramalar ve granüllü dokularla ifade edilir. Orijinal görsele bağlı olarak şimşek, güneş ışığı, ay ışığı, sis ışığı veya su yansımaları görsel merkez olarak seçilir, var olmayan ögeler zorla eklenmez. Orijinal görselin ana öge ilişkilerini ve doğal yeryüzü şekillerini koruyarak dramatik bir gravür kompozisyonuna dönüştürür. Tüm görsele filtre uygulamak, yapay olarak insan veya bina eklemek, metin, logo, filigran, imza ve herhangi bir köşe işareti kesinlikle yasaktır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4319,20 +4665,46 @@ Poster / El İlanı · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2100180395635454153"></a>
 
-### Çeviri sürüyor
+### Modern trende çalışan Çinli kadın tren görevlisinin spontane anlarından oluşan 3x3 ızgara akıllı telefon kolajı.
 
 Yazar：[@3three\_AI](https://x.com/3three_AI) · [Orijinal gönderi](https://x.com/3three_AI/status/2100180395635454153)
 
 Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Modern trende çalışan Çinli kadın tren görevlisinin spontane anlarından oluşan 3x3 ızgara akıllı telefon kolajı.
 
 <img src="images/2100180395635454153-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Modern bir yolcu treninde Çinli genç bir kadın tren kondüktörünün normal bir iş günündeki anları yakalayan, düzenli bir 3×3 ızgara şeklinde dizilmiş 9 ayrı spontane anlık fotoğraftan oluşan, dikey 3:4 formatında, fotogerçekçi ve gündelik akıllı telefon fotoğraf kolajı.
+
+Her panelde aynı kadını, aynı yüz hatlarını, aynı saç modelini, aynı genel görünümü ve aynı üniformayı koruyun. Saçları arkada düzgünce alçak bir topuz yapılmış koyu kahverengi, narin ve doğal yüz hatlarına, hafif bir makyaja ve genç bir görünüme sahip.
+
+Üzerinde vücuda oturan bir ceket veya zarif bir üniforma eteği, kırmızı ve mavi desenli boyun fuları, küçük altın bir yaka kartı, koyu renk külotlu çorap ve sade profesyonel ayakkabılardan oluşan koyu lacivert profesyonel bir tren kondüktörü üniforması var. Görünümü bakımlı ancak doğaldır.
+
+Panel 1: Tren sahanlığında kazara çekilmiş yakın çekim akıllı telefon özçekimi, bir parmak lensi kısmen kapatıyor, hafif bulanık ve kusurlu, arkasında tren kapıları ve güvenlik işaretleri görünüyor.
+
+Panel 2: Trenin dar koridorunda küçük siyah tekerlekli bir bavulu çekerken çekilmiş, hafif hareket bulanıklığı içeren, arka planda yolcuların ve koltuk sıralarının yumuşak bir şekilde görüldüğü boydan gündelik fotoğrafı.
+
+Panel 3: Pencere kenarındaki tren koltuğundan yakın çekim özçekim, camdan içeri giren parlak doğal güneş ışığı yüzünün bazı kısımlarını hafifçe aşırı pozluyor, rahat bir yüz ifadesi ve rastgele bir kadraj.
+
+Panel 4: Tren vagonundaki üst bagaj rafına uzanırken ayakta durduğu, arkadan üç çeyrek açılı gündelik görünüm; düzgün alçak topuzunu, üniformasının siluetini ve profesyonel duruşunu sergiliyor.
+
+Panel 5: Yüzünün karenin çoğunu kapladığı aşırı yakın çekim spontane özçekim, yüzüne dökülen birkaç tel saç, yumuşak odak, hafif kusurlu akıllı telefon pozlaması, neşeli ve doğal bir ifade.
+
+Panel 6: Trenin içinde otururken bir eliyle ağzını kapatıp güldüğü gündelik özçekim, sade kol saati görünür durumda, sıcak vagon aydınlatması, samimi ve kendiliğinden bir an.
+
+Panel 7: Trenin büyük penceresinin yanında yakın profil özçekimi, dışarıda tren rayları platformu ve başka bir tren görünüyor, doğal gün ışığı, hafifçe kırpılmış yüz ve camda gerçekçi yansımalar.
+
+Panel 8: Tren vagonunda bir sonraki bölüme doğru yürürken arkadan gündelik görünüşü, hafif hareket bulanıklığı, üst bagaj rafları, koltuklar, kapılar ve gerçekçi tren içi ayrıntıları görünüyor.
+
+Panel 9: Tren sahanlığı alanında bir parmağın kamera lensini kısmen kapattığı kaza eseri yakın çekim özçekim, neşeli ve kusurlu kompozisyon, arkada gerçekçi tren kapısı kontrolleri ve güvenlik ekipmanları görünüyor.
+
+Tüm kolaj, profesyonel bir fotoğrafçılık çalışması gibi değil, bir tren kondüktörünün iş gününe ait samimi, kişisel akıllı telefon anıları hissi vermelidir. Tutarsız kadrajlar, hafif hareket bulanıklığı, kazara kırpmalar, hafif lens distorsiyonu, ince pozlama farklılıkları, gerçekçi vagon aydınlatması, yumuşak odak, doğal cilt dokusu, gerçek yüz ifadeleri ve küçük fotoğrafik kusurlar kullanın.
+
+Kusursuz stüdyo görünümü yok, yapay güzellik filtreleri yok, plastik cilt yok, CGI görünümü yok. Ham günlük akıllı telefon fotoğrafçılığı, kamera arkası otantik tren kondüktörü fotoğraf günlüğü, gerçekçi modern yolcu treni iç mekanları, anlık ve doğal dakikalar, 9 panelin tamamında tutarlı karakter görünümü, paneller arasında ince beyaz kenarlıklar, temiz 3×3 ızgara, dikey 3:4 en-boy oranı
 ```
 
 [↑ Kategorilere dön](#catalog)

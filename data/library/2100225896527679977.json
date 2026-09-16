@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:40:54.305Z",
+  "model": "unknown-image",
+  "prompt": "制作一张竖向3:4上下对比旅行转绘海报。上半完整保留输入的真实旅游照片，保持园林、亭台、塔、河巷、桥、水面、建筑和植物的构图、数量、透视与真实色彩；中间使用细白分隔线。下半不要满版套马赛克滤镜，而是在米白或浅灰纸面上，从原图提取3至5个最具识别度的主体，拆分并重组为独立的彩釉马赛克浮雕构件；每个构件由不规则釉面小砖组成，具有白色勾缝、真实厚度、可见侧面、柔和投影和局部釉面反光。构件集中于下半中央或一侧，占下半约55%至70%，周围保留明显留白；通过尺度变化和构件间距重新组织空间，不等比例复刻照片。色彩从原图提炼为4至6种有限色彩。留白处加入克制且准确的英文编辑标题与材料字段，字体像博物馆或展览标签。禁止长段文字、乱码、无关地标、Logo、水印、AI角标、原图角标和整图均匀马赛克覆盖。",
+  "promptTranslations": {
+    "en": "Create a vertical 3:4 top-and-bottom comparison travel re-illustration poster. The upper half completely preserves the input real travel photo, maintaining the composition, quantity, perspective, and authentic colors of the gardens, pavilions, pagodas, canals, bridges, water surfaces, architecture, and vegetation; use a thin white dividing line in the middle. The lower half must not be a full-bleed mosaic filter; instead, on an off-white or light gray paper surface, extract 3 to 5 of the most recognizable subjects from the original photo, deconstructing and recombining them into independent glazed mosaic relief elements; each element is composed of irregular small glazed tiles, featuring white grout lines, realistic thickness, visible profile edges, soft cast shadows, and localized glaze highlights. The elements are gathered in the center or to one side of the lower half, occupying approximately 55% to 70% of the lower section, with distinct negative space preserved around them; reorganize the space through scale variations and component spacing rather than an equal-scale replica of the photo. The color palette is distilled from the original photo into 4 to 6 limited colors. Incorporate restrained and accurate English editorial headlines and material description fields within the negative space, using typography styled like museum or exhibition labels. Prohibit long paragraphs of text, gibberish, irrelevant landmarks, logos, watermarks, AI corner marks, original photo corner marks, and uniform full-image mosaic coverage."
+  },
+  "summaryTranslations": {
+    "en": "Travel poster prompt with a top-and-bottom comparison composition: the upper half preserves the real photo, while the lower half extracts core elements restructured into glazed mosaic dimensional reliefs with museum-style typography."
+  },
+  "translationVersion": 2,
+  "summary": "上下对比构图的旅行海报提示词：上半保留实景照片，下半提取核心元素重构为彩釉马赛克立体浮雕及博物馆风排版。",
+  "summaryEn": "Prompt for a 3:4 split-layout travel poster: original photo on top, and glazed mosaic tile relief elements with editorial text below.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100225896527679977",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2100225896527679977",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-16T14:10:48.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "zh",
+    "originalText": "【MOSAIC TILE RELIEF｜彩釉马赛克浮雕旅行风】\n\n把旅行照片从“风景记录”转化成“可触摸的城市记忆”，用彩釉马赛克重新提炼一座地方最有辨识度的视觉符号。上下半不是简单的原图与滤镜对照，而是“真实现场 × 材料化再创作”，很有旅行杂志与博物馆文创的编辑感。\n\nprompt：\n制作一张竖向3:4上下对比旅行转绘海报。上半完整保留输入的真实旅游照片，保持园林、亭台、塔、河巷、桥、水面、建筑和植物的构图、数量、透视与真实色彩；中间使用细白分隔线。下半不要满版套马赛克滤镜，而是在米白或浅灰纸面上，从原图提取3至5个最具识别度的主体，拆分并重组为独立的彩釉马赛克浮雕构件；每个构件由不规则釉面小砖组成，具有白色勾缝、真实厚度、可见侧面、柔和投影和局部釉面反光。构件集中于下半中央或一侧，占下半约55%至70%，周围保留明显留白；通过尺度变化和构件间距重新组织空间，不等比例复刻照片。色彩从原图提炼为4至6种有限色彩。留白处加入克制且准确的英文编辑标题与材料字段，字体像博物馆或展览标签。禁止长段文字、乱码、无关地标、Logo、水印、AI角标、原图角标和整图均匀马赛克覆盖。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSV_rDBa4AAqeaH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSV_rDBa4AAqeaH.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSV_syLboAEJg4d.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSV_syLboAEJg4d.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSV_tsIboAAoaY_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSV_tsIboAAoaY_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSV_uv8aEAAghm-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSV_uv8aEAAghm-.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 389
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2100225896527679977",
+  "coverUrl": "https://pbs.twimg.com/media/HSV_rDBa4AAqeaH.jpg",
+  "coverPath": "images/2100225896527679977-1.jpg",
+  "imagePaths": [
+    "images/2100225896527679977-1.jpg",
+    "images/2100225896527679977-2.jpg",
+    "images/2100225896527679977-3.jpg",
+    "images/2100225896527679977-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSV_rDBa4AAqeaH",
+    "x-image:/media/HSV_syLboAEJg4d",
+    "x-image:/media/HSV_tsIboAAoaY_",
+    "x-image:/media/HSV_uv8aEAAghm-",
+    "x-post:2100225896527679977"
+  ],
+  "analysis": {
+    "summary": "上下对比构图的旅行海报提示词：上半保留实景照片，下半提取核心元素重构为彩釉马赛克立体浮雕及博物馆风排版。",
+    "summaryEn": "Prompt for a 3:4 split-layout travel poster: original photo on top, and glazed mosaic tile relief elements with editorial text below.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图清晰展示了上半部分真实旅行建筑摄影与下半部分独立彩釉立体马赛克瓷砖浮雕的上下构图，配合极简英文字体排版，与提示词要求高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张竖向3:4上下对比旅行转绘海报。上半完整保留输入的真实旅游照片，保持园林、亭台、塔、河巷、桥、水面、建筑和植物的构图、数量、透视与真实色彩；中间使用细白分隔线。下半不要满版套马赛克滤镜，而是在米白或浅灰纸面上，从原图提取3至5个最具识别度的主体，拆分并重组为独立的彩釉马赛克浮雕构件；每个构件由不规则釉面小砖组成，具有白色勾缝、真实厚度、可见侧面、柔和投影和局部釉面反光。构件集中于下半中央或一侧，占下半约55%至70%，周围保留明显留白；通过尺度变化和构件间距重新组织空间，不等比例复刻照片。色彩从原图提炼为4至6种有限色彩。留白处加入克制且准确的英文编辑标题与材料字段，字体像博物馆或展览标签。禁止长段文字、乱码、无关地标、Logo、水印、AI角标、原图角标和整图均匀马赛克覆盖。",
+    "sourceRange": {
+      "start": 145,
+      "end": 491
+    },
+    "translations": {
+      "zh": "制作一张竖向3:4上下对比旅行转绘海报。上半完整保留输入的真实旅游照片，保持园林、亭台、塔、河巷、桥、水面、建筑和植物的构图、数量、透视与真实色彩；中间使用细白分隔线。下半不要满版套马赛克滤镜，而是在米白或浅灰纸面上，从原图提取3至5个最具识别度的主体，拆分并重组为独立的彩釉马赛克浮雕构件；每个构件由不规则釉面小砖组成，具有白色勾缝、真实厚度、可见侧面、柔和投影和局部釉面反光。构件集中于下半中央或一侧，占下半约55%至70%，周围保留明显留白；通过尺度变化和构件间距重新组织空间，不等比例复刻照片。色彩从原图提炼为4至6种有限色彩。留白处加入克制且准确的英文编辑标题与材料字段，字体像博物馆或展览标签。禁止长段文字、乱码、无关地标、Logo、水印、AI角标、原图角标和整图均匀马赛克覆盖。",
+      "en": "Create a vertical 3:4 split-view travel poster. The upper half retains the authentic travel photo's composition, elements, and colors. A thin white line divides the sections. The lower half features 3-5 key subjects isolated and rearranged on off-white paper as 3D glazed ceramic mosaic reliefs with white grout, visible thickness, soft shadows, and subtle reflections. Elements occupy 55%-70% of the space with ample margins. Colors are reduced to 4-6 tones. Add minimal museum-style English editorial text. Avoid full-tile overlays, watermarks, or gibberish."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "旅行照片转彩釉马赛克浮雕艺术海报",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

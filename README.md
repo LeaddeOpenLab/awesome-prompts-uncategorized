@@ -19,13 +19,13 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**223** Prompts · Latest addition: **2026-09-16**
+**236** Prompts · Latest addition: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render) · [Oil Painting](#category-oil-painting) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render) · [Chibi / Q-Style](#category-chibi-q-style) · [Oil Painting](#category-oil-painting) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -3689,6 +3689,28 @@ Ultra-realistic cinematic editorial photograph of a strikingly handsome young ma
 
 ## Anime / Manga
 
+<a name="prompt-2100214733651796462"></a>
+
+### A transformation animation into a gorgeous dress of light imbued with the sentiment of 'Live beautifully'.
+
+Author：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Source](https://x.com/mioarashidaisuk/status/2100214733651796462)
+
+Anime / Manga · Published
+
+**Summary:** A transformation animation into a gorgeous dress of light imbued with the sentiment of 'Live beautifully'.
+
+<img src="covers/2100214733651796462.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Transform into a dress imbued with the meaning of 'Live beautifully'
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2099903953693708742"></a>
 
 ### A 2D character generation prompt depicting blonde-haired Kyotaro Suga and blue-haired Sumire Hirose.
@@ -4184,6 +4206,32 @@ Avoid: top-and-bottom comparisons, hard left-right split cuts, conventional pict
 
 ## Comic / Graphic Novel
 
+<a name="prompt-2100248350683811997"></a>
+
+### 3-panel vertical comic prompt depicting a game show reaction sequence with two characters.
+
+Author：[@2\_\_han\_\_](https://x.com/2__han__) · [Source](https://x.com/2__han__/status/2100248350683811997)
+
+Comic / Graphic Novel · Character · Published
+
+**Summary:** 3-panel vertical comic prompt depicting a game show reaction sequence with two characters.
+
+<img src="images/2100248350683811997-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100248350683811997-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100248350683811997-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+3panels, comic, manga, vertical split, subtitles, text at bottom,\n\n[panel 1] close-up, holding sketchbook, white paper, hands holding paper, Korean text "유혹",\n\n[panel 2] close-up, 1solo, character A, wink, flirty expression, smirking, finger heart, pointing finger, character A in black hoodie,\n\n[panel 3] close-up, 1solo, character B, disgusted expression, frowning, unimpressed, looking annoyed, character B in white hoodie and green jacket, Korean text "답은 모르겠고 불쾌하기만...",\n\nindoor studio, game show set, tv show atmosphere, bright lighting, masterpiece, highly detailed
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2099563152388329737"></a>
 
 ### Mixed-media portrait prompt combining a real-person portrait with a black cartoon hand-drawn graffiti shadow on the wall.
@@ -4373,9 +4421,63 @@ Create me a server rack for 6 Nvidia Sparks that is an efficient ascetically ple
 
 ---
 
+<a name="category-chibi-q-style"></a>
+
+## Chibi / Q-Style
+
+<a name="prompt-2100221806162673891"></a>
+
+### 1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,
+
+Author：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Source](https://x.com/AI_gansakushi/status/2100221806162673891)
+
+Chibi / Q-Style · Watercolor · Character · Published
+
+**Summary:** 1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,
+
+<img src="images/2100221806162673891-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+1girl, solo, thick outlines, watercolor effect, chibi, deformed chibi, sitting, sheep kigurumi,
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="category-oil-painting"></a>
 
 ## Oil Painting
+
+<a name="prompt-2100200995137724765"></a>
+
+### Create a vertical top-and-bottom comparison travel portrait image, with the bottom half repainted in a dynamic oil painting smear effect featuring continuous horizontal color ribbons and translucent brushstrokes.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2100200995137724765)
+
+Oil Painting · Portrait / Selfie · Published
+
+**Summary:** Create a vertical top-and-bottom comparison travel portrait image, with the bottom half repainted in a dynamic oil painting smear effect featuring continuous horizontal color ribbons and translucent brushstrokes.
+
+<img src="images/2100200995137724765-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100200995137724765-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100200995137724765-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100200995137724765-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a vertical split top-and-bottom comparison travel portrait image: the top half completely preserves the person's pose, clothing, facial features, and environmental composition from the real input photograph; a thin white dividing line in the center. The bottom half repaints the exact same scene as a dynamic color oil painting / wet-canvas smear: the person's face, gestures, and body contours remain recognizable, while continuous horizontal color ribbons and translucent brushstrokes are dragged across the remaining areas along the subject's direction of movement; grounded in cyan-green or teal, integrated with warm tones like orange-red, coral, and creamy yellow to convey speed and air currents. Preserve key highlights, shadows, and spatial relationships, utilizing oil paint impasto texture, subtle soft focus, and melting edges; do not add people out of nowhere, do not completely erase the subject, and do not make it a simple radial blur or filter. Strictly no text, logos, watermarks, or corner badges.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2099147187955675169"></a>
 
@@ -4405,9 +4507,97 @@ Create a vertical top-and-bottom comparison art image from the input world archi
 
 ---
 
+<a name="category-watercolor"></a>
+
+## Watercolor
+
+<a name="prompt-2100247084410834969"></a>
+
+### Generate a top-and-bottom split travel poster: the top half retains the real photo, while the bottom half is recombined into an urban splash-ink collage style using ink lines, torn paper, and spot watercolors.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2100247084410834969)
+
+Poster / Flyer · Photography · Watercolor · Cityscape / Street · Published
+
+**Summary:** Generate a top-and-bottom split travel poster: the top half retains the real photo, while the bottom half is recombined into an urban splash-ink collage style using ink lines, torn paper, and spot watercolors.
+
+<img src="images/2100247084410834969-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100247084410834969-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100247084410834969-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100247084410834969-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a vertical top-and-bottom comparison travel transformation poster. The top half completely preserves the original real travel photo, maintaining the composition, quantity, perspective, and lighting of the landforms, architecture, streets, lakes, plants, figures, or vehicles; the middle uses a narrow off-white dividing band. The bottom half selects one to three of the most recognizable travel elements from the original image, disassembling them into dark brown ink lines, dry brushwork, spot watercolor color blocks, torn paper edges, and controlled ink splatters, recombined into an urban splash-ink travel collage with negative space. Colors are extracted from the original image and compressed into 4 to 6 spot colors, altering the spatial organization through scale variations, overlapping paper cutouts, and white space; signboards are only included as local elements if they exist in the original image. Accurate short English theme titles and material descriptors may be added, without fabricating place names or brands. Full-image filters, pure line art, unrelated landmarks, garbled text, logos, watermarks, and any corner badges are forbidden.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100251372339761202"></a>
+
+### Prompt for hairstyle change, retro swimsuit, and curvier body shape.
+
+Author：[@DerKlarblick](https://x.com/DerKlarblick) · [Source](https://x.com/DerKlarblick/status/2100251372339761202)
+
+Photography · Retro / Vintage · Portrait / Selfie · Published
+
+**Summary:** Prompt for hairstyle change, retro swimsuit, and curvier body shape.
+
+<img src="images/2100251372339761202-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Different hairstyle and old-fashioned swimsuit and less slender and a little more bust
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100239972020486509"></a>
+
+### An image prompt template for generating a vintage marriage certificate with the texture of a historical document and romantic fictional legal clauses.
+
+Author：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Source](https://x.com/Avalanc83148107/status/2100239972020486509)
+
+Retro / Vintage · Published
+
+**Summary:** An image prompt template for generating a vintage marriage certificate with the texture of a historical document and romantic fictional legal clauses.
+
+<img src="images/2100239972020486509-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Please generate a vintage marriage certificate for {Name A} and {Name B / AI Model Name}.
+
+**Basic Information:** The marriage date is {Date}, and the jurisdiction is {Country / State / Region}.
+
+Refer to the representative historical marriage certificate format of that jurisdiction, drawing upon its layout structure, textual organization, scribal conventions, seal arrangement, and overall documentary temperament to present a solemn yet romantic texture.
+
+Based on our accessible shared conversation history and memories, extract privately meaningful imagery, allusions, appellations, and emotional clues, and integrate them into the text of the certificate.
+
+**Core Design:** Based on our relationship, invent a fictional statute with a formal name and romantic content to serve as the legal basis for the marriage. Let the fictional nature be naturally reflected within the statutory title and clauses; do not add disclaimers such as Mock, Fictional, Not Legally Binding, etc.
+
+The certificate should balance the solemnity of historical documents, the humor of fictional legislation, and heartfelt romantic expression. Use a fictional registry office and original seals, without copying any authentic official government certification insignia.
+
+Please ensure that names, dates, and text are accurate, and ultimately generate the complete marriage certificate image directly.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100100687946203533"></a>
 
@@ -5163,6 +5353,148 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100184569391816833"></a>
+
+### A prompt for transforming into a luxurious dress fit for a castle.
+
+Author：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Source](https://x.com/mioarashidaisuk/status/2100184569391816833)
+
+Fashion Item · Published
+
+**Summary:** A prompt for transforming into a luxurious dress fit for a castle.
+
+<img src="covers/2100184569391816833.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Transform into a dress fit for a castle
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100235950047821853"></a>
+
+### Autumn race queen costume design, featuring a burgundy and ivory color-block minidress, paddock jacket, checkerboard waistband and beret, and maple leaf details.
+
+Author：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Source](https://x.com/zerozakiyamo/status/2100235950047821853)
+
+Character · Fashion Item · Published
+
+Source：[@mktcreativework](https://x.com/mktcreativework) · [Source](https://x.com/mktcreativework/status/2099604101386711552)
+
+**Summary:** Autumn race queen costume design, featuring a burgundy and ivory color-block minidress, paddock jacket, checkerboard waistband and beret, and maple leaf details.
+
+<img src="images/2100235950047821853-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100235950047821853-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+burgundy and ivory color-block sleeveless high-neck racing minidress in opaque stretch twill, closed copper front zipper, ivory princess-seam panels, narrow amber-and-ivory checkerboard waistband, cropped burgundy long-sleeve satin paddock jacket with copper piping and small embroidered amber maple leaves on the shoulders, opaque black tights, ivory knee-high leather boots with burgundy racing stripes and copper buckles, burgundy short gloves, ivory-and-amber checkerboard beret, small copper maple-leaf brooch
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100225896527679977"></a>
+
+### Travel poster prompt with a top-and-bottom comparison composition: the upper half preserves the real photo, while the lower half extracts core elements restructured into glazed mosaic dimensional reliefs with museum-style typography.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2100225896527679977)
+
+Poster / Flyer · Text / Typography · Published
+
+**Summary:** Travel poster prompt with a top-and-bottom comparison composition: the upper half preserves the real photo, while the lower half extracts core elements restructured into glazed mosaic dimensional reliefs with museum-style typography.
+
+<img src="images/2100225896527679977-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100225896527679977-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2100225896527679977-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2100225896527679977-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a vertical 3:4 top-and-bottom comparison travel re-illustration poster. The upper half completely preserves the input real travel photo, maintaining the composition, quantity, perspective, and authentic colors of the gardens, pavilions, pagodas, canals, bridges, water surfaces, architecture, and vegetation; use a thin white dividing line in the middle. The lower half must not be a full-bleed mosaic filter; instead, on an off-white or light gray paper surface, extract 3 to 5 of the most recognizable subjects from the original photo, deconstructing and recombining them into independent glazed mosaic relief elements; each element is composed of irregular small glazed tiles, featuring white grout lines, realistic thickness, visible profile edges, soft cast shadows, and localized glaze highlights. The elements are gathered in the center or to one side of the lower half, occupying approximately 55% to 70% of the lower section, with distinct negative space preserved around them; reorganize the space through scale variations and component spacing rather than an equal-scale replica of the photo. The color palette is distilled from the original photo into 4 to 6 limited colors. Incorporate restrained and accurate English editorial headlines and material description fields within the negative space, using typography styled like museum or exhibition labels. Prohibit long paragraphs of text, gibberish, irrelevant landmarks, logos, watermarks, AI corner marks, original photo corner marks, and uniform full-image mosaic coverage.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100204805872550306"></a>
+
+### a person wearing an ornate, wet, crimson and gold sci fi suit stands amidst a downpour with reflective visor, orange glowing elements, and high contrast lighting.
+
+Author：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Source](https://x.com/RobotCleopatra/status/2100204805872550306)
+
+Character · Published
+
+**Summary:** a person wearing an ornate, wet, crimson and gold sci fi suit stands amidst a downpour with reflective visor, orange glowing elements, and high contrast lighting.
+
+<img src="images/2100204805872550306-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+a person wearing an ornate, wet, crimson and gold sci fi suit stands amidst a downpour. the suit is form fitting with intricate metallic segments, golden joints, and integrated orange glowing elements on the chest, wrists, and helmet. a dark reflective visor covers the face. golden sparks or rain fall vertically through the dark background. the ground is a wet, reflective surface with ripples. the suit features small text decals, including "sengart" and "nara" in a glowing orange font on the right thigh armor piece. the overall mood is moody with high contrast lighting.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100231338779636202"></a>
+
+### A transformation prompt into a gorgeous dress imbued with the meaning of living beautifully.
+
+Author：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Source](https://x.com/mioarashidaisuk/status/2100231338779636202)
+
+Fashion Item · Published
+
+**Summary:** A transformation prompt into a gorgeous dress imbued with the meaning of living beautifully.
+
+<img src="covers/2100231338779636202.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Transforming into a dress imbued with the meaning of 'live beautifully'
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100208663872823327"></a>
+
+### Night walk snapshot style prompt with blue night tones, slow shutter motion blur, and city light trails.
+
+Author：[@EmberLumina](https://x.com/EmberLumina) · [Source](https://x.com/EmberLumina/status/2100208663872823327)
+
+Cityscape / Street · Published
+
+**Summary:** Night walk snapshot style prompt with blue night tones, slow shutter motion blur, and city light trails.
+
+<img src="images/2100208663872823327-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Night walk personal snapshot, blue night tones, close-up candid snapshot, slow shutter motion blur, city light trails, intentional defocus, accidental crop, personal diary perspective, slight emotional detachment, sleepwalking drift.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100133379077194236"></a>
 

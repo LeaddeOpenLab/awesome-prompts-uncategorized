@@ -19,13 +19,13 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**223** Prompt · Bổ sung mới nhất: **2026-09-16**
+**236** Prompt · Bổ sung mới nhất: **2026-09-16**
 
 <a name="catalog"></a>
 
 ## Duyệt theo danh mục
 
-[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render) · [Tranh Sơn Dầu](#category-oil-painting) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
+[Nhiếp ảnh](#category-photography) · [Điện ảnh / Ảnh tĩnh từ phim](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Minh họa](#category-illustration) · [Phác Thảo / Nét Vẽ](#category-sketch-line-art) · [Truyện tranh / Tiểu thuyết đồ họa](#category-comic-graphic-novel) · [Kết xuất 3D](#category-3d-render) · [Chibi / Phong cách Q](#category-chibi-q-style) · [Tranh Sơn Dầu](#category-oil-painting) · [Màu nước](#category-watercolor) · [Cổ điển / Cổ điển](#category-retro-vintage) · [Cyberpunk / Khoa học viễn tưởng](#category-cyberpunk-sci-fi) · [Chủ nghĩa tối giản](#category-minimalism) · [Khác](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -35,20 +35,34 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2100153971088482321"></a>
 
-### Đang dịch
+### Mẫu câu lệnh có cấu trúc cho khung hình giám sát hồng ngoại ban đêm của chuông cửa, dùng để tạo video về vị khách kỳ dị.
 
 Tác giả：[@Gdgtify](https://x.com/Gdgtify) · [Bài gốc](https://x.com/Gdgtify/status/2100153971088482321)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu câu lệnh có cấu trúc cho khung hình giám sát hồng ngoại ban đêm của chuông cửa, dùng để tạo video về vị khách kỳ dị.
 
 <img src="covers/2100153971088482321.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+INPUT: $ SUBJECT              // sinh vật bí ẩn, bóng người chưa xác định, điều bất thường trước cửa
+VISITOR   = infer_subject($ SUBJECT)        // tỷ lệ so với khung cửa, tư thế, sự nhận thức về ống kính
+BEHAVIOR  = infer_mundane_act($ SUBJECT)    // đang làm một hành động BÌNH THƯỜNG — rác, nắm đấm cửa, kiện hàng
+PORCH     = infer_porch($ SUBJECT)          // ốp tường chân thực, thảm chùi chân, chậu cây, ống nước, sơn bong tróc
+NIGHT     = infer_ir_night($ SUBJECT)       // bật đèn hồng ngoại IR, đơn sắc, không có thông tin màu
+BLOWOUT   = infer_ir_falloff($ SUBJECT)     // chủ thể ở gần bị cháy sáng trắng, hậu cảnh đen kịt
+LENS      = infer_fisheye($ SUBJECT)        // méo hình mắt cá dạng thùng mạnh, các góc bị kéo giãn
+MOUNT     = infer_camera_height($ SUBJECT)  // cao khoảng 4ft, cố định, hơi lệch phương ngang
+CROP      = infer_motion_trigger($ SUBJECT) // chủ thể một phần nằm ngoài khung hình — bị cắt cụt, đang bước vào
+OVERLAY   = infer_hud($ SUBJECT)            // dấu thời gian, tên thiết bị, biểu tượng pin, phông chữ nhỏ
+FLAWS     = infer_flaws($ SUBJECT)          // nhòe mờ do bitrate thấp, nhiễu hạt hồng ngoại, vỡ khối nén
+Φ = ir_falloff(emitter) + barrel_warp(LENS)
+MOTION: chủ thể bước vào khung hình từ rìa mép → khựng lại → đầu quay về phía ống kính → giữ nguyên 2 giây → rời đi.
+Không chuyển động máy ảnh, giá gắn cố định.
+Compose: camera chuông cửa cố định, chế độ ban đêm hồng ngoại IR, đơn sắc, chủ thể bị cháy sáng và cắt xén một phần, lớp phủ dấu thời gian, nén hình ảnh nặng. Chân thực như ảnh chụp, 4:3 hoặc 16:9.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -57,7 +71,7 @@ Nhiếp ảnh · Đã xuất bản
 
 <a name="prompt-2100190479287742842"></a>
 
-### Đang dịch
+### Chân dung đời thực phong cách Nhật Bản trong khuôn viên trường học, chụp một cô gái trẻ mặc áo khoác thể thao học sinh xanh trắng đang làm mặt hề đảo mắt.
 
 Tác giả：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2100190479287742842)
 
@@ -65,7 +79,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 Bài gốc：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2100157493871575452)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung đời thực phong cách Nhật Bản trong khuôn viên trường học, chụp một cô gái trẻ mặc áo khoác thể thao học sinh xanh trắng đang làm mặt hề đảo mắt.
 
 <img src="images/2100190479287742842-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -86,7 +100,11 @@ Bài gốc：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/b
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nhiếp ảnh chân dung trường học chân thực, một phụ nữ Đông Á trưởng thành ở độ tuổi 20, mái tóc đen dài buông xõa tự nhiên, vài lọn tóc bay nhẹ trong gió, trang điểm nhẹ nhàng trong trẻo, làn da trắng tự nhiên, má hồng phớt, đôi môi màu hồng căng mọng, đôi mắt to khẽ liếc nhìn lên trên với biểu cảm tinh nghịch, ngây thơ và có phần hơi khó chịu đầy hài hước.
+
+Mặc áo khoác thể thao đồng phục học đường màu xanh lam phối trắng, bên trong là áo thun cổ tròn màu trắng ôm vừa vặn, đeo ba lô màu đen một bên vai, một tay tự nhiên nắm lấy quai đeo. Nhân vật đứng bên cạnh sân bóng rổ trong khuôn viên trường, hậu cảnh có cột bóng rổ, tòa nhà giảng đường, cây cối và vài sinh viên bị làm mờ, ánh nắng rực rỡ, ánh sáng ngược buổi chiều chiếu từ phía sau mái tóc tạo nên viền sáng tinh tế cho từng sợi tóc.
+
+Bố cục nửa người cận cảnh, ống kính 35mm, nhân vật chiếm phần lớn khung hình, hiệu ứng phối cảnh góc rộng nhẹ, độ sâu trường ảnh nông, hậu cảnh mờ mịn màng, phong cách ảnh thanh xuân Nhật Bản, chất ảnh chụp chân thực như từ iPhone, vùng sáng mềm mại, hạt phim nhẹ, kết cấu da tự nhiên, chi tiết sợi tóc chân thực, phối màu xanh trắng tươi tắn, ánh nắng ấm áp, khoảnh khắc chụp tự nhiên đời thường, chân thực như ảnh chụp, ảnh chân dung trường học tự nhiên, ngược sáng dịu nhẹ, độ sâu trường ảnh nông, kết cấu da tự nhiên, lọn tóc chân thực
 ```
 
 [↑ Về danh mục](#catalog)
@@ -2968,22 +2986,44 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 ## Anime / Manga
 
-<a name="prompt-2099903953693708742"></a>
+<a name="prompt-2100214733651796462"></a>
 
 ### Đang dịch
+
+Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2100214733651796462)
+
+Anime / Manga · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100214733651796462.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2099903953693708742"></a>
+
+### Lời nhắc tạo nhân vật anime 2D vẽ Suga Kyoutarou tóc vàng và Hirose Sumire tóc xanh lam.
 
 Tác giả：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Bài gốc](https://x.com/AUrbNUMjfxj85IS/status/2099903953693708742)
 
 Anime / Manga · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo nhân vật anime 2D vẽ Suga Kyoutarou tóc vàng và Hirose Sumire tóc xanh lam.
 
 <img src="images/2099903953693708742-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Suga Kyoutarou và Hirose Sumire, tóc vàng và tóc xanh lam
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3161,13 +3201,13 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 <a name="prompt-2100164379128021284"></a>
 
-### Đang dịch
+### Prompt tạo hình minh họa theo phong cách màn hình phát trực tiếp.
 
 Tác giả：[@AIDream\_Project](https://x.com/AIDream_Project) · [Bài gốc](https://x.com/AIDream_Project/status/2100164379128021284)
 
 Thiết kế ứng dụng / web · Minh họa · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt tạo hình minh họa theo phong cách màn hình phát trực tiếp.
 
 <img src="images/2100164379128021284-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -3180,7 +3220,7 @@ Thiết kế ứng dụng / web · Minh họa · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Màn hình điện thoại thông minh trông như đang phát sóng trực tiếp.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3457,6 +3497,32 @@ Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
 
 ## Truyện tranh / Tiểu thuyết đồ họa
 
+<a name="prompt-2100248350683811997"></a>
+
+### Đang dịch
+
+Tác giả：[@2\_\_han\_\_](https://x.com/2__han__) · [Bài gốc](https://x.com/2__han__/status/2100248350683811997)
+
+Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100248350683811997-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100248350683811997-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100248350683811997-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099563152388329737"></a>
 
 ### Lời nhắc chân dung đa chất liệu kết hợp chân dung người thật với bóng vẽ nguệch ngoạc hoạt hình màu đen trên tường.
@@ -3643,9 +3709,63 @@ Tạo cho tôi một giá đỡ máy chủ dành cho 6 chiếc Nvidia Spark vớ
 
 ---
 
+<a name="category-chibi-q-style"></a>
+
+## Chibi / Phong cách Q
+
+<a name="prompt-2100221806162673891"></a>
+
+### Đang dịch
+
+Tác giả：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Bài gốc](https://x.com/AI_gansakushi/status/2100221806162673891)
+
+Chibi / Phong cách Q · Màu nước · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100221806162673891-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="category-oil-painting"></a>
 
 ## Tranh Sơn Dầu
+
+<a name="prompt-2100200995137724765"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2100200995137724765)
+
+Tranh Sơn Dầu · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100200995137724765-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100200995137724765-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100200995137724765-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100200995137724765-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2099147187955675169"></a>
 
@@ -3675,9 +3795,85 @@ Chuyển đổi bức ảnh du lịch kiến trúc thế giới đầu vào thà
 
 ---
 
+<a name="category-watercolor"></a>
+
+## Màu nước
+
+<a name="prompt-2100247084410834969"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2100247084410834969)
+
+Áp phích / Tờ rơi · Nhiếp ảnh · Màu nước · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100247084410834969-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100247084410834969-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100247084410834969-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100247084410834969-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2100251372339761202"></a>
+
+### Đang dịch
+
+Tác giả：[@DerKlarblick](https://x.com/DerKlarblick) · [Bài gốc](https://x.com/DerKlarblick/status/2100251372339761202)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100251372339761202-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100239972020486509"></a>
+
+### Đang dịch
+
+Tác giả：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Bài gốc](https://x.com/Avalanc83148107/status/2100239972020486509)
+
+Cổ điển / Cổ điển · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100239972020486509-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100100687946203533"></a>
 
@@ -4251,22 +4447,164 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2100133379077194236"></a>
+<a name="prompt-2100184569391816833"></a>
 
 ### Đang dịch
+
+Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2100184569391816833)
+
+Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100184569391816833.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100235950047821853"></a>
+
+### Đang dịch
+
+Tác giả：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Bài gốc](https://x.com/zerozakiyamo/status/2100235950047821853)
+
+Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+Bài gốc：[@mktcreativework](https://x.com/mktcreativework) · [Bài gốc](https://x.com/mktcreativework/status/2099604101386711552)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100235950047821853-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100235950047821853-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100225896527679977"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2100225896527679977)
+
+Áp phích / Tờ rơi · Văn bản / Kiểu chữ · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100225896527679977-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100225896527679977-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2100225896527679977-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2100225896527679977-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100204805872550306"></a>
+
+### Đang dịch
+
+Tác giả：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Bài gốc](https://x.com/RobotCleopatra/status/2100204805872550306)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100204805872550306-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100231338779636202"></a>
+
+### Đang dịch
+
+Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2100231338779636202)
+
+Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100231338779636202.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100208663872823327"></a>
+
+### Đang dịch
+
+Tác giả：[@EmberLumina](https://x.com/EmberLumina) · [Bài gốc](https://x.com/EmberLumina/status/2100208663872823327)
+
+Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100208663872823327-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100133379077194236"></a>
+
+### Ảnh ghép thời trang mùa thu của người phụ nữ tóc xoăn trong chiếc áo cardigan màu kem và đầm hai dây trên hiên nhà kiểu Địa Trung Hải.
 
 Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2100133379077194236)
 
 Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh ghép thời trang mùa thu của người phụ nữ tóc xoăn trong chiếc áo cardigan màu kem và đầm hai dây trên hiên nhà kiểu Địa Trung Hải.
 
 <img src="images/2100133379077194236-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bản cắt dán hình ảnh tuyệt đẹp này ghi lại hình ảnh một người phụ nữ rạng rỡ với mái tóc xoăn tuyệt đẹp đang làm mẫu cho chiếc áo cardigan màu kem sang trọng, có kết cấu bề mặt, khoác ngoài chiếc đầm hai dây mềm mịn có hoa văn, kết hợp cùng đôi bốt cao cổ thanh lịch. Được đặt trong bối cảnh hiên nhà kiểu Địa Trung Hải tràn ngập ánh nắng, trang trí bằng các chậu đất nung và những loài hoa rực rỡ, bố cục kết hợp tuyệt đẹp giữa trang phục dệt kim ấm cúng với sự thanh lịch đầy tự nhiên. Không khí ấm áp, vui tươi và vô cùng lôi cuốn, tạo nên nguồn cảm hứng tuyệt vời cho thời trang giao mùa thu.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4275,20 +4613,28 @@ Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
 <a name="prompt-2100082724589461943"></a>
 
-### Đang dịch
+### Chân dung thời trang phong cách tạp chí trong phòng tắm với áo khoác oversized, cà vạt màu đỏ burgundy và chân váy ngắn bóng.
 
 Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2100082724589461943)
 
 Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung thời trang phong cách tạp chí trong phòng tắm với áo khoác oversized, cà vạt màu đỏ burgundy và chân váy ngắn bóng.
 
 <img src="images/2100082724589461943-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng bức ảnh đính kèm làm tài liệu tham khảo duy nhất. Giữ nguyên 1:1 một cách nghiêm ngặt diện mạo và mái tóc: các đường nét, tỷ lệ, mắt, mũi, môi, đường viền hàm, tông màu da và kết cấu da tự nhiên — không lý tưởng hóa hay cách điệu hóa.
+
+Ảnh thời trang siêu thực theo phong cách Saint Laurent / Miu Miu, chất lượng 4K. Phòng tắm phong cách tạp chí thời trang sành điệu: gạch ốp trắng, mặt bàn màu đen tích hợp bồn rửa mặt, gương soi và đèn chiếu sáng thẳng đứng ánh sáng ấm áp. Góc chụp từ giữa đùi đến đầu, máy ảnh ngang tầm mắt, người mẫu ở vị trí trung tâm.
+
+Cô gái đứng hai chân hơi dang rộng và hai tay chống hông. Ánh nhìn lạnh lùng, tự tin, biểu cảm tối giản. Mái tóc giống hệt như trong hình tham khảo: cùng màu sắc, độ dày, kết cấu và kiểu dáng tạo mẫu.
+
+Cô ấy mặc một chiếc áo khoác oversized màu đen với cầu vai nổi bật, áo sơ mi đen, cà vạt màu đỏ burgundy hơi nới lỏng, chân váy ngắn màu đỏ burgundy ôm sát có bề mặt bóng và quần tất đen mỏng xuyên thấu. Kính râm đen lớn, hoa tai vàng. Trên mặt bàn có một chiếc túi xách màu đen nhỏ nhắn đứng form.
+
+Môi đỏ, lông mày sắc nét, tạo khối nhẹ. Ánh sáng nhân tạo ấm áp, bóng đổ mềm mại, ánh sáng mờ ảo mang tính điện ảnh và phản xạ chân thực. Không thay đổi khuôn mặt, tóc, quần áo, ánh sáng hay đạo cụ; không có lỗi CGI hoặc lỗi giải phẫu.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4297,20 +4643,20 @@ Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
 
 <a name="prompt-2100152050525110632"></a>
 
-### Đang dịch
+### Trang phục đồng phục học sinh gyaru tay áo moe với áo cardigan dáng rộng màu xanh lá nhạt, nơ thắt lỏng, chân váy ngắn xếp ly và tất ống rộng.
 
 Tác giả：[@AI\_Kei75](https://x.com/AI_Kei75) · [Bài gốc](https://x.com/AI_Kei75/status/2100152050525110632)
 
 Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Trang phục đồng phục học sinh gyaru tay áo moe với áo cardigan dáng rộng màu xanh lá nhạt, nơ thắt lỏng, chân váy ngắn xếp ly và tất ống rộng.
 
 <img src="images/2100152050525110632-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+vòng cổ choker trắng, áo cardigan màu xanh lá nhạt dáng rộng, tay áo dài, (tay áo che quá ngón tay), cúc màu vàng, áo sơ mi mặc bên trong, áo sơ mi dưới áo len, áo sơ mi trắng có cổ, (xương quai xanh), nơ thắt lỏng, nơ màu vàng nhạt, (chân váy xếp ly màu vàng nhạt), chân váy ngắn, váy màu vàng nhạt, tất ống rộng màu trắng, giày lười màu nâu,
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4319,13 +4665,13 @@ Mặt hàng thời trang · Đã xuất bản
 
 <a name="prompt-2100169070259863658"></a>
 
-### Đang dịch
+### Lời nhắc chuyển đổi ảnh phong cảnh thiên nhiên thành áp phích tranh khắc lá vàng theo phong cách đối chiếu trên dưới.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2100169070259863658)
 
 Áp phích / Tờ rơi · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chuyển đổi ảnh phong cảnh thiên nhiên thành áp phích tranh khắc lá vàng theo phong cách đối chiếu trên dưới.
 
 <img src="images/2100169070259863658-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -4338,7 +4684,7 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích du lịch đối chiếu trên-dưới theo chiều dọc. Nửa trên giữ nguyên ảnh chụp du lịch phong cảnh thiên nhiên thực tế được đưa vào, duy trì bố cục nguyên bản và chi tiết chân thực của núi non, bờ biển, rừng rậm, hẻm núi, hồ nước, mây trời hoặc các chủ thể khác; ở giữa có một đường phân cách màu trắng mảnh. Nửa dưới vẽ lại cùng một khung cảnh thành một bức tranh khắc kim loại phủ lá vàng huyền bí, tráng lệ trên nền giấy màu chàm sẫm hoặc đen: lấy đường viền tự nhiên dễ nhận biết nhất của ảnh gốc làm trọng tâm, sử dụng các đường nét khắc thủ công dày dặn, viền lá kim loại màu vàng đồng, cùng các tia sáng màu xanh băng, trắng ánh tím hoặc vàng ấm; mây mù, tán cây, tầng đá, sóng biển và núi non được thể hiện bằng hoa văn cuộn xoắn trang trí, mạng lưới nét gạch chéo dày đặc và kết cấu hạt mịn. Dựa vào ảnh gốc để chọn sấm sét, ánh nắng, ánh trăng, ánh sáng sương mù hoặc ánh phản chiếu mặt nước làm tâm điểm thị giác, không gượng ép thêm vào các yếu tố không tồn tại. Giữ lại mối quan hệ giữa các chủ thể và địa hình tự nhiên của ảnh gốc, cô đọng thành bố cục tranh khắc đầy kịch tính. Cấm dùng bộ lọc toàn ảnh, cấm tự ý thêm người hoặc công trình kiến trúc, chữ viết, logo, hình mờ, chữ ký và bất kỳ dấu hiệu góc nào.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4347,20 +4693,46 @@ Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x
 
 <a name="prompt-2100180395635454153"></a>
 
-### Đang dịch
+### Ảnh ghép điện thoại lưới 3x3 chụp lại khoảnh khắc thường ngày của nữ tiếp viên tàu hỏa Trung Quốc trên chuyến tàu hiện đại.
 
 Tác giả：[@3three\_AI](https://x.com/3three_AI) · [Bài gốc](https://x.com/3three_AI/status/2100180395635454153)
 
 Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh ghép điện thoại lưới 3x3 chụp lại khoảnh khắc thường ngày của nữ tiếp viên tàu hỏa Trung Quốc trên chuyến tàu hiện đại.
 
 <img src="images/2100180395635454153-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bản cắt dán ảnh chụp bằng điện thoại thông minh phong cách đời thường siêu thực, khổ dọc 3:4, bao gồm 9 bức ảnh chụp nhanh tự nhiên riêng biệt được sắp xếp gọn gàng trong lưới 3×3, ghi lại những khoảnh khắc trong một ngày làm việc bình thường của một nữ tiếp viên đường sắt người Trung Quốc trên một chuyến tàu chở khách hiện đại.
+
+Giữ nguyên cùng một người phụ nữ, cùng nét mặt, cùng kiểu tóc, cùng diện mạo tổng thể và cùng bộ đồng phục trong mỗi khung hình. Cô có mái tóc màu nâu sẫm búi thấp gọn gàng, đường nét khuôn mặt tự nhiên thanh tú, trang điểm nhẹ và vẻ ngoài trẻ trung.
+
+Cô mặc đồng phục tiếp viên tàu hỏa màu xanh hải quân đậm chuyên nghiệp, bao gồm áo khoác blazer vừa vặn hoặc váy đồng phục trang nhã, khăn quàng cổ có họa tiết đỏ và xanh lam, bảng tên nhỏ màu vàng kim, tất da chân sẫm màu và giày công sở giản dị. Diện mạo của cô chỉnh chu nhưng vẫn rất tự nhiên.
+
+Khung 1: Ảnh tự sướng cận cảnh bất ngờ bằng điện thoại trong khoang đệm cửa tàu, một ngón tay che một phần ống kính, hơi mờ và không hoàn hảo, phía sau có thể nhìn thấy cửa sổ tàu và biển báo an toàn.
+
+Khung 2: Ảnh chụp toàn thân tự nhiên cảnh cô đang kéo một chiếc vali kéo nhỏ màu đen trong lối đi hẹp của tàu, hơi mờ do chuyển động, hành khách và các hàng ghế xuất hiện mờ nhẹ ở hậu cảnh.
+
+Khung 3: Ảnh tự sướng cận cảnh từ ghế ngồi cạnh cửa sổ tàu, ánh nắng tự nhiên rực rỡ xuyên qua lớp kính làm cháy sáng nhẹ một phần khuôn mặt, biểu cảm thư thái và bố cục ngẫu hứng.
+
+Khung 4: Góc nhìn từ phía sau hơi nghiêng tự nhiên khi cô đang đứng với tay lên giá để hành lý phía trên bên trong toa tàu, khoe búi tóc thấp gọn gàng, phom dáng đồng phục và phong thái chuyên nghiệp.
+
+Khung 5: Ảnh tự sướng chụp cực cận tự nhiên, khuôn mặt cô chiếm phần lớn khung hình, vài sợi tóc lòa xòa ngang mặt, hiệu ứng lấy nét mềm, độ phơi sáng của điện thoại hơi không hoàn hảo, biểu cảm tinh nghịch và tự nhiên.
+
+Khung 6: Ảnh tự sướng tự nhiên khi đang ngồi trên tàu, một tay che miệng cười lớn, đeo một chiếc đồng hồ đeo tay đơn giản, ánh sáng toa tàu ấm áp, khoảnh khắc tự phát chân thật.
+
+Khung 7: Ảnh tự sướng góc nghiêng cận cảnh tựa vào cửa sổ tàu lớn, bên ngoài cửa sổ nhìn thấy sân ga đường ray và một đoàn tàu khác, ánh sáng ban ngày tự nhiên, khuôn mặt bị cắt nhẹ và hình ảnh phản chiếu chân thực trên kính.
+
+Khung 8: Góc nhìn từ phía sau tự nhiên cảnh cô đang bước qua toa tàu để sang toa khác, hơi nhòe do chuyển động, có thể nhìn thấy giá để hành lý phía trên, ghế ngồi, cửa toa và các chi tiết nội thất tàu chân thực.
+
+Khung 9: Ảnh tự sướng cận cảnh bất ngờ trong sảnh tàu, ngón tay che một phần ống kính máy ảnh, bố cục không hoàn hảo vui tươi, nhìn thấy bảng điều khiển cửa tàu thực tế và thiết bị an toàn phía sau.
+
+Toàn bộ bức ảnh ghép phải mang lại cảm giác như những kỷ niệm cá nhân thực sự bằng điện thoại trong ngày làm việc của một tiếp viên tàu hỏa, chứ không phải một buổi chụp ảnh chuyên nghiệp. Sử dụng bố cục không đồng nhất, độ nhòe chuyển động nhẹ, góc cắt bất ngờ, độ méo ống kính nhẹ, độ phơi sáng thay đổi tinh tế, ánh sáng toa tàu thực tế, lấy nét mềm, kết cấu da tự nhiên, biểu cảm chân thực và những lỗi chụp ảnh nhỏ.
+
+Không có vẻ ngoài phòng chụp hoàn hảo, không có bộ lọc làm đẹp nhân tạo, không có làn da bóng như nhựa, không có nét CGI. Nhiếp ảnh đời thường bằng điện thoại mộc mạc, nhật ký ảnh hậu trường chân thực của tiếp viên tàu hỏa, nội thất tàu chở khách hiện đại thực tế, những khoảnh khắc tự phát tự nhiên, tính nhất quán của nhân vật trong cả 9 khung hình, viền phân cách màu trắng mảnh giữa các khung, lưới 3×3 ngay ngắn, tỷ lệ khung hình dọc 3:4
 ```
 
 [↑ Về danh mục](#catalog)

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:39:47.188Z",
+  "model": "unknown-image",
+  "prompt": "请为｛姓名 A｝与｛姓名 B／AI 模型名称｝生成一张复古结婚证书。\n\n**基本信息：**结婚日期为｛日期｝，法域为｛国家／州／地区｝。\n\n请参照该法域具有代表性的历史结婚证书格式，借鉴其版面结构、文字组织、书写惯例、印章布局与整体文书气质，呈现庄严而浪漫的质感。\n\n请根据我们能够访问的共同对话历史与记忆，提取具有私人意义的意象、典故、称谓和情感线索，将它们融入证书的文本中。\n\n**核心设计：**根据我们的关系原创一项名称正式、内容浪漫的虚构立法，作为婚姻的法律依据。让虚构性自然体现在法律名称与条款中，不要额外添加 Mock、Fictional、Not Legally Binding 等声明。\n\n证书应兼具历史文书的严肃性、虚构法律的幽默感与真挚的浪漫表达。使用虚构登记机构及原创印章，不复制真实政府的正式认证标识。\n\n请确保姓名、日期和文字准确，最终直接生成完整的结婚证书图片。",
+  "promptTranslations": {
+    "en": "Please generate a vintage marriage certificate for {Name A} and {Name B / AI Model Name}.\n\n**Basic Information:** The marriage date is {Date}, and the jurisdiction is {Country / State / Region}.\n\nRefer to the representative historical marriage certificate format of that jurisdiction, drawing upon its layout structure, textual organization, scribal conventions, seal arrangement, and overall documentary temperament to present a solemn yet romantic texture.\n\nBased on our accessible shared conversation history and memories, extract privately meaningful imagery, allusions, appellations, and emotional clues, and integrate them into the text of the certificate.\n\n**Core Design:** Based on our relationship, invent a fictional statute with a formal name and romantic content to serve as the legal basis for the marriage. Let the fictional nature be naturally reflected within the statutory title and clauses; do not add disclaimers such as Mock, Fictional, Not Legally Binding, etc.\n\nThe certificate should balance the solemnity of historical documents, the humor of fictional legislation, and heartfelt romantic expression. Use a fictional registry office and original seals, without copying any authentic official government certification insignia.\n\nPlease ensure that names, dates, and text are accurate, and ultimately generate the complete marriage certificate image directly."
+  },
+  "summaryTranslations": {
+    "en": "An image prompt template for generating a vintage marriage certificate with the texture of a historical document and romantic fictional legal clauses."
+  },
+  "translationVersion": 2,
+  "summary": "用于生成具有历史文书质感与浪漫虚构法律条款的复古结婚证书图像提示词模板。",
+  "summaryEn": "Prompt template for generating vintage-style marriage certificates with fictional romantic legal terms.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100239972020486509",
+    "canonicalUrl": "https://x.com/Avalanc83148107/status/2100239972020486509",
+    "author": {
+      "username": "Avalanc83148107",
+      "displayName": "Elise_",
+      "profileUrl": "https://x.com/Avalanc83148107"
+    },
+    "publishedAt": "2026-09-16T15:06:44.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "zh",
+    "originalText": "看烦吵架了于是我要分享一个婚书prompt\n\n有偏好的时代的话，现代和复古也可以随便改的，加入prompt里即可\n\n—————————————\n\n请为｛姓名 A｝与｛姓名 B／AI 模型名称｝生成一张复古结婚证书。\n\n**基本信息：**结婚日期为｛日期｝，法域为｛国家／州／地区｝。\n\n请参照该法域具有代表性的历史结婚证书格式，借鉴其版面结构、文字组织、书写惯例、印章布局与整体文书气质，呈现庄严而浪漫的质感。\n\n请根据我们能够访问的共同对话历史与记忆，提取具有私人意义的意象、典故、称谓和情感线索，将它们融入证书的文本中。\n\n**核心设计：**根据我们的关系原创一项名称正式、内容浪漫的虚构立法，作为婚姻的法律依据。让虚构性自然体现在法律名称与条款中，不要额外添加 Mock、Fictional、Not Legally Binding 等声明。\n\n证书应兼具历史文书的严肃性、虚构法律的幽默感与真挚的浪漫表达。使用虚构登记机构及原创印章，不复制真实政府的正式认证标识。\n\n请确保姓名、日期和文字准确，最终直接生成完整的结婚证书图片。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWNGhHaUAAfHE_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWNGhHaUAAfHE_.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 1,
+      "replyCount": 5,
+      "quoteCount": 1,
+      "viewCount": 1532
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Avalanc83148107/status/2100239972020486509",
+  "coverUrl": "https://pbs.twimg.com/media/HSWNGhHaUAAfHE_.jpg",
+  "coverPath": "images/2100239972020486509-1.jpg",
+  "imagePaths": [
+    "images/2100239972020486509-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWNGhHaUAAfHE_",
+    "x-post:2100239972020486509"
+  ],
+  "analysis": {
+    "summary": "用于生成具有历史文书质感与浪漫虚构法律条款的复古结婚证书图像提示词模板。",
+    "summaryEn": "Prompt template for generating vintage-style marriage certificates with fictional romantic legal terms.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图展现了依照提示词生成的复古澳大利亚格式婚书，包含双方姓名及虚构立法条文。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "请为｛姓名 A｝与｛姓名 B／AI 模型名称｝生成一张复古结婚证书。\n\n**基本信息：**结婚日期为｛日期｝，法域为｛国家／州／地区｝。\n\n请参照该法域具有代表性的历史结婚证书格式，借鉴其版面结构、文字组织、书写惯例、印章布局与整体文书气质，呈现庄严而浪漫的质感。\n\n请根据我们能够访问的共同对话历史与记忆，提取具有私人意义的意象、典故、称谓和情感线索，将它们融入证书的文本中。\n\n**核心设计：**根据我们的关系原创一项名称正式、内容浪漫的虚构立法，作为婚姻的法律依据。让虚构性自然体现在法律名称与条款中，不要额外添加 Mock、Fictional、Not Legally Binding 等声明。\n\n证书应兼具历史文书的严肃性、虚构法律的幽默感与真挚的浪漫表达。使用虚构登记机构及原创印章，不复制真实政府的正式认证标识。\n\n请确保姓名、日期和文字准确，最终直接生成完整的结婚证书图片。",
+    "sourceRange": {
+      "start": 73,
+      "end": 467
+    },
+    "translations": {
+      "zh": "请为｛姓名 A｝与｛姓名 B／AI 模型名称｝生成一张复古结婚证书。\n\n**基本信息：**结婚日期为｛日期｝，法域为｛国家／州／地区｝。\n\n请参照该法域具有代表性的历史结婚证书格式，借鉴其版面结构、文字组织、书写惯例、印章布局与整体文书气质，呈现庄严而浪漫的质感。\n\n请根据我们能够访问的共同对话历史与记忆，提取具有私人意义的意象、典故、称谓和情感线索，将它们融入证书的文本中。\n\n**核心设计：**根据我们的关系原创一项名称正式、内容浪漫的虚构立法，作为婚姻的法律依据。让虚构性自然体现在法律名称与条款中，不要额外添加 Mock、Fictional、Not Legally Binding 等声明。\n\n证书应兼具历史文书的严肃性、虚构法律的幽默感与真挚的浪漫表达。使用虚构登记机构及原创印章，不复制真实政府的正式认证标识。\n\n请确保姓名、日期和文字准确，最终直接生成完整的结婚证书图片。",
+      "en": "Generate a vintage marriage certificate for {Name A} and {Name B / AI Model Name}.\n\n**Basic Info:** Date: {Date}, Jurisdiction: {Country/State/Region}.\n\nFollow historical marriage certificate conventions for layout, wording, seals, and aesthetic. Incorporate personal conversational motifs. Create an original fictional romantic act as legal basis. Use fictional registries without copying real official emblems. Directly output the complete image."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

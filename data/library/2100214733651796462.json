@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:41:01.167Z",
+  "model": "grok",
+  "prompt": "美しく生なさいと言う意味を込められたドレスに変身して",
+  "promptTranslations": {
+    "en": "Transform into a dress imbued with the meaning of 'Live beautifully'"
+  },
+  "summaryTranslations": {
+    "en": "A transformation animation into a gorgeous dress of light imbued with the sentiment of 'Live beautifully'."
+  },
+  "translationVersion": 2,
+  "summary": "「美しく生きなさい」という想いを込めた華やかな光のドレスへの変身アニメーション。",
+  "summaryEn": "Animated transformation into an ornate, glowing gown representing the theme 'live beautifully'.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100214733651796462",
+    "canonicalUrl": "https://x.com/mioarashidaisuk/status/2100214733651796462",
+    "author": {
+      "username": "mioarashidaisuk",
+      "displayName": "シェルティソーラ",
+      "profileUrl": "https://x.com/mioarashidaisuk"
+    },
+    "publishedAt": "2026-09-16T13:26:27.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n美しく生なさいと言う意味を込められたドレスに変身して https://t.co/MkAbwnhBLd",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mioarashidaisuk/status/2100214733651796462",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100214696360230912/img/wukcdHdP1j1MbkC-.jpg",
+        "analysisUrl": "https://x.com/mioarashidaisuk/status/2100214733651796462"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 10
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/mioarashidaisuk/status/2100214733651796462",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100214696360230912/img/wukcdHdP1j1MbkC-.jpg",
+  "coverPath": "covers/2100214733651796462.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100214696360230912",
+    "x-post:2100214733651796462"
+  ],
+  "analysis": {
+    "summary": "「美しく生きなさい」という想いを込めた華やかな光のドレスへの変身アニメーション。",
+    "summaryEn": "Animated transformation into an ornate, glowing gown representing the theme 'live beautifully'.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频呈现了新娘礼服发光并长出金色与玫瑰花枝翅膀的变身动态过程，与提示词要求一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "美しく生なさいと言う意味を込められたドレスに変身して",
+    "sourceRange": {
+      "start": 22,
+      "end": 48
+    },
+    "translations": {
+      "zh": "变身为蕴含“美丽地活着”寓意的礼服",
+      "en": "Transform into a dress imbued with the meaning of 'live beautifully'"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "image-to-video",
+    "useCase": "AI video transformation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

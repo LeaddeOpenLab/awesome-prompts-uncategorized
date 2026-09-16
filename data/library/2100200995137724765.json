@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T16:39:43.691Z",
+  "model": "unknown-image",
+  "prompt": "制作竖向上下对比旅行人像图：上半完整保留输入真实照片的人物姿态、服装、脸部特征和环境构图；中间细白分隔线。下半将同一画面重绘为彩色动势油画/湿画布拖影：人物脸部、手势与身体轮廓保持可辨，在其余区域沿主体运动方向拉出连续横向色带和半透明笔触；以青绿或蓝绿为底，结合橙红、珊瑚、奶油黄等暖色，产生速度与空气流动。保留关键明暗和空间关系，使用油彩颗粒、轻微失焦和边缘融化；不要凭空增加人物，不要把主体完全抹除，不是单纯径向模糊或滤镜。禁止文字、logo、水印和角标。",
+  "promptTranslations": {
+    "en": "Create a vertical split top-and-bottom comparison travel portrait image: the top half completely preserves the person's pose, clothing, facial features, and environmental composition from the real input photograph; a thin white dividing line in the center. The bottom half repaints the exact same scene as a dynamic color oil painting / wet-canvas smear: the person's face, gestures, and body contours remain recognizable, while continuous horizontal color ribbons and translucent brushstrokes are dragged across the remaining areas along the subject's direction of movement; grounded in cyan-green or teal, integrated with warm tones like orange-red, coral, and creamy yellow to convey speed and air currents. Preserve key highlights, shadows, and spatial relationships, utilizing oil paint impasto texture, subtle soft focus, and melting edges; do not add people out of nowhere, do not completely erase the subject, and do not make it a simple radial blur or filter. Strictly no text, logos, watermarks, or corner badges."
+  },
+  "summaryTranslations": {
+    "en": "Create a vertical top-and-bottom comparison travel portrait image, with the bottom half repainted in a dynamic oil painting smear effect featuring continuous horizontal color ribbons and translucent brushstrokes."
+  },
+  "translationVersion": 2,
+  "summary": "制作竖向上下对比旅行人像图，下半重绘为带有横向连续彩色色带与半透明笔触的动势油画拖影效果。",
+  "summaryEn": "Create a vertical split-screen travel portrait with the top half retaining the original photo and the bottom half transformed into a dynamic oil painting with horizontal chromatic motion smear.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100200995137724765",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2100200995137724765",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-16T12:31:51.000Z",
+    "collectedAt": "2026-09-16T16:15:51.092Z",
+    "language": "zh",
+    "originalText": "【CHROMATIC MOTION PORTRAIT｜彩色动势人像拖影】\n\n旅游照像同一个瞬间被风和时间横向拉开\n最出彩的是对动势油画的视觉机制描述得很具体——色带、半透明笔触、边缘融化、冷暖撞色\n\nprompt：\n制作竖向上下对比旅行人像图：上半完整保留输入真实照片的人物姿态、服装、脸部特征和环境构图；中间细白分隔线。下半将同一画面重绘为彩色动势油画/湿画布拖影：人物脸部、手势与身体轮廓保持可辨，在其余区域沿主体运动方向拉出连续横向色带和半透明笔触；以青绿或蓝绿为底，结合橙红、珊瑚、奶油黄等暖色，产生速度与空气流动。保留关键明暗和空间关系，使用油彩颗粒、轻微失焦和边缘融化；不要凭空增加人物，不要把主体完全抹除，不是单纯径向模糊或滤镜。禁止文字、logo、水印和角标。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVo7fEbwAIvfmR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVo7fEbwAIvfmR.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVo9MVacAArr6X.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVo9MVacAArr6X.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVo-babUAAEGcH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVo-babUAAEGcH.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVo_VfbYAA8ehw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVo_VfbYAA8ehw.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 3,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 419
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2100200995137724765",
+  "coverUrl": "https://pbs.twimg.com/media/HSVo7fEbwAIvfmR.jpg",
+  "coverPath": "images/2100200995137724765-1.jpg",
+  "imagePaths": [
+    "images/2100200995137724765-1.jpg",
+    "images/2100200995137724765-2.jpg",
+    "images/2100200995137724765-3.jpg",
+    "images/2100200995137724765-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSVo7fEbwAIvfmR",
+    "x-image:/media/HSVo9MVacAArr6X",
+    "x-image:/media/HSVo-babUAAEGcH",
+    "x-image:/media/HSVo_VfbYAA8ehw",
+    "x-post:2100200995137724765"
+  ],
+  "analysis": {
+    "summary": "制作竖向上下对比旅行人像图，下半重绘为带有横向连续彩色色带与半透明笔触的动势油画拖影效果。",
+    "summaryEn": "Create a vertical split-screen travel portrait with the top half retaining the original photo and the bottom half transformed into a dynamic oil painting with horizontal chromatic motion smear.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "附带的4张图片完全呈现了正文 Prompt 描述的竖向上下分割效果，上半为真实旅行照片，下半为保留五官与轮廓、向横向拉出彩色色带和半透明油画笔触的动势拖影效果。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作竖向上下对比旅行人像图：上半完整保留输入真实照片的人物姿态、服装、脸部特征和环境构图；中间细白分隔线。下半将同一画面重绘为彩色动势油画/湿画布拖影：人物脸部、手势与身体轮廓保持可辨，在其余区域沿主体运动方向拉出连续横向色带和半透明笔触；以青绿或蓝绿为底，结合橙红、珊瑚、奶油黄等暖色，产生速度与空气流动。保留关键明暗和空间关系，使用油彩颗粒、轻微失焦和边缘融化；不要凭空增加人物，不要把主体完全抹除，不是单纯径向模糊或滤镜。禁止文字、logo、水印和角标。",
+    "sourceRange": {
+      "start": 108,
+      "end": 338
+    },
+    "translations": {
+      "zh": "制作竖向上下对比旅行人像图：上半完整保留输入真实照片的人物姿态、服装、脸部特征和环境构图；中间细白分隔线。下半将同一画面重绘为彩色动势油画/湿画布拖影：人物脸部、手势与身体轮廓保持可辨，在其余区域沿主体运动方向拉出连续横向色带和半透明笔触；以青绿或蓝绿为底，结合橙红、珊瑚、奶油黄等暖色，产生速度与空气流动。保留关键明暗和空间关系，使用油彩颗粒、轻微失焦和边缘融化；不要凭空增加人物，不要把主体完全抹除，不是单纯径向模糊或滤镜。禁止文字、logo、水印和角标。",
+      "en": "Create a vertical split-screen travel portrait comparison image: the upper half completely preserves the original input photo's subject posture, clothing, facial features, and background composition; a thin white dividing line separates them in the middle. The lower half repaints the same scene as a chromatic dynamic motion oil painting / wet canvas smear: keep the person's face, gestures, and body contours recognizable, while pulling continuous horizontal chromatic color bands and translucent brushstrokes along the direction of the subject's movement across the rest of the canvas; use teal or cyan-green as the base, blended with warm hues such as orange-red, coral, and cream yellow to evoke speed and airflow. Retain key light-shadow and spatial relationships, using oil paint grain, slight defocus, and edge melting; do not add characters out of nowhere, do not completely erase the subject, and avoid simple radial blur or plain filters. Prohibit text, logos, watermarks, and badges."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "制作竖向上下对比旅行人像彩色动势拖影油画",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
