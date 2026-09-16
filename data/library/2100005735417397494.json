@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-16T02:31:46.762Z",
+  "model": "grok",
+  "prompt": "Sand storm",
+  "promptTranslations": {
+    "en": "Sand storm"
+  },
+  "summaryTranslations": {
+    "en": "A sandstorm sweeping across desert dunes."
+  },
+  "translationVersion": 2,
+  "summary": "A sandstorm sweeping across desert dunes.",
+  "summaryEn": "A sandstorm sweeping across desert dunes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100005735417397494",
+    "canonicalUrl": "https://x.com/owenxplore/status/2100005735417397494",
+    "author": {
+      "username": "owenxplore",
+      "displayName": "Owen",
+      "profileUrl": "https://x.com/owenxplore"
+    },
+    "publishedAt": "2026-09-15T23:35:58.000Z",
+    "collectedAt": "2026-09-16T02:19:39.795Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nSand storm https://t.co/4wPbNUPuKp",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/owenxplore/status/2100005735417397494",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100005721127440384/img/JIU1aJOtY2H1BwEO.jpg",
+        "analysisUrl": "https://x.com/owenxplore/status/2100005735417397494"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 15
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/owenxplore/status/2100005735417397494",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100005721127440384/img/JIU1aJOtY2H1BwEO.jpg",
+  "coverPath": "covers/2100005735417397494.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100005721127440384",
+    "x-post:2100005735417397494"
+  ],
+  "analysis": {
+    "summary": "A sandstorm sweeping across desert dunes.",
+    "summaryEn": "A sandstorm sweeping across desert dunes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video depicts a sandstorm developing and blowing across desert dunes, matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Sand storm",
+    "sourceRange": {
+      "start": 22,
+      "end": 32
+    },
+    "translations": {
+      "zh": "沙尘暴",
+      "en": "Sand storm"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative_generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
