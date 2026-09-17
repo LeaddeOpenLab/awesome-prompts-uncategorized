@@ -4283,20 +4283,50 @@ Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](htt
 
 <a name="prompt-2100332541437960533"></a>
 
-### Çeviri sürüyor
+### Şova retro tarzı bir kafede puding ikram eden Japon bir kadının portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100332541437960533)
 
 Retro / Vintage · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Şova retro tarzı bir kafede puding ikram eden Japon bir kadının portre istemi.
 
 <img src="images/2100332541437960533-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟 Öğleden Sonra Klasik Kafede | Puding İkram Eden Tereyağı Sarısı Gülümseme 🌟
+
+【Konu ve Sanat Tarzı】
+Öğleden sonra geleneksel bir retro kafede, karşısında oturan sevgilisine bir kaşık puding ikram eden, açıkça yetişkin 25 yaşındaki Japon bir kadını tasvir edin. Aşırı kurgulanmış bir reklam fotoğrafından ziyade, bir buluşma sırasında tesadüfen yakalanmış doğal bir anın samimiyetine öncelik veren, gerçekçi bir yaşam hissi taşıyan fotogerçekçi bir moda fotoğrafı. Yumuşak bir sevimlilik ile yetişkinlere özgü bir dinginlik ve zarafeti harmanlayarak; kadının kendi yüz ifadesini, kıyafetini, hareketlerini ve kafenin sıcak atmosferini tek ve doğal bir sahnede birleştiren bir fotoğrafik anlatım.
+
+【Mekân, Arka Plan ve Dünya】
+Mekân, Şova döneminin izlerini taşıyan sakin ve geleneksel bir retro kafe (kissaten). Pencere kenarındaki iki kişilik küçük bir masada oturuyor; etrafta karamel renginde parlayan ahşap duvarlar, koyu yeşil kadife kaplı sandalyeler, kullanıla kullanıla eskimiş ahşap bir masa, pirinç ve camdan yapılmış sade süslemeler görünüyor. Masada, üzerinde klasik karamelli puding bulunan küçük bir tabak ve şeffaf bir bardak yer alıyor. Ön plandaki bardak hafifçe bulanıklaştırılırken, arka planda diğer masalar ve raflar yumuşak bir şekilde seçilerek kafenin derinliği ve sakin öğleden sonra atmosferi hissedilecek bir kompozisyon oluşturuluyor.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim ilkbahardan erken yaza uzanan ılıman bir dönem. Dışarıdaki ışığın hala parlaklığını koruduğu ancak hafifçe yumuşamaya başladığı saat 15.00 suları. Dışarısı açık veya hafif bulutlu; içeriye sert doğrudan güneş ışığı yerine pencereden süzülen yumuşak ve doğal bir ışık giriyor. Mekânda dış ışık ile sıcak tonlu iç aydınlatma bir arada bulunuyor; serin kafede tatlı ve kahvenin tadını çıkarırken hissedilen o huzurlu öğleden sonra atmosferini yansıtıyor.
+
+【Karakter Özellikleri】
+25 yaşında, açıkça yetişkin Japon bir kadın. Yumuşak ve muntazam yüz hatları, hafifçe iri siyah gözler, doğal kaşlar, ince ve düzgün bir burun kemeri, sağlıklı renkte yumuşak dudaklar. Cildi açık aşıboyası tonlarında; gözenekleri, ince gölgeleri ve doğal canlılığı koruyan gerçekçi bir dokuya sahip. Saçları koyu kahverengi, omuzlardan göğüs üstüne kadar inen doğal dalgalara sahip ve yüzünün çevresinde ince serbest saç telleri var. Zarif omuzlara, ince uzuvlara ve ince bir bele sahipken, kadınsı kıvrımlarla dengelenmiş doğal ve zarif bir balık etli fiziği bulunuyor. Göğüsleri belirgin şekilde iri ve dolgun; ancak kıyafete, duruşa ve yerçekimine doğal olarak uyum sağlayan yumuşak bir hacimle tasvir edilerek tüm vücutla dengesi korunuyor.
+
+【Kıyafet ve Aksesuarlar】
+Üst giysi olarak soluk ve sıcak tonlu tereyağı sarısı bir askılı bluz (kamisol). Göğüs dekoltesinde ve omuz askılarında ince fırfırlı dantel detayları bulunuyor; gövde kısmında ise iç göstermeyen kaliteli fitilli kumaş veya pürüzsüz ince bir kumaş kullanılmış. Sevimli ama çocuksu olmayan, yetişkinlere uygun zarif bir tasarım. Dolgun göğüslere de zorlanmadan oturan gerçekçi bir kalıp ve dikişe sahip; kumaşın aşırı gerilmediği veya eti sıkıştırmadığı doğal bir uyum sergiliyor. Alt giysi moka kahverengi midi boy bir etek. Aksesuarlar küçük küpeler ve ince bir kolyeyle sınırlı tutularak bir kafedeki günlük buluşma kıyafeti olarak tamamlanıyor.
+
+【Poz, Hareket ve Bakış】
+Kadın koyu yeşil sandalyede doğal bir şekilde oturuyor, vücudunun ön kısmı neredeyse tamamen karşıdaki sandalyeye dönük. Belini sandalyeye dengeli bir şekilde yaslamış, bacakları masanın altında doğal bir biçimde yan yana duruyor veya hafifçe yana doğru eğilmiş; yapay vücut bükülmeleri yok. Sağ eliyle küçük bir kaşığa aldığı pudingi tutuyor, dirseğini aşağıda tutarak karşısında oturan sevgilisine "bir lokma al" dercesine uzattığı o an yakalanmış. Sol eli masanın kenarına veya puding tabağının yanına doğal bir şekilde konmuş. Başını hafifçe yana eğmiş, vücudunu önde tutarken sadece bakışlarını kameraya çevirmiş.
+
+【İfade ve Duygu】
+Yalnızca sevgilisine gösterdiği, gardını indirmiş, samimi ve savunmasız bir ifade. Dudaklarında ölçülü bir tebessüm, kaşlarını hafifçe ve yumuşakça kaldırmış; karşı tarafın tepkisini merakla bekleyen bir şımarıklık ve muziplik içeriyor. Ağzı açarak yapılmış abartılı yapay bir gülüş değil; gözlerin, yanakların ve ağzın doğal olarak gevşediği samimi bir tebessüm. Başın hafif eğik açısı ve şefkatli bakışlar, sanki "ister misin?" diye soruyormuş gibi yakın bir mesafe hissi uyandırıyor.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey kompozisyon. Karşı koltukta oturan sevgilisinin bakış açısından, göz hizasında çekilmiş. Başın üst kısmında biraz boşluk bırakılarak figür başından masanın altındaki bel hizasına kadar doğal bir şekilde kadraja sığdırılıyor. Yüz, uzatılan kaşık, dekoltedeki fırfırlar ve puding bakış çizgisinin akışı içinde yer alan bir kompozisyonda buluşuyor. Yüzü, elleri veya vücudu abartan geniş açı yerine 50-70 mm civarında standart ile orta-telefoto arası doğal bir odak uzaklığı hedefleniyor. Kaşık kadrajın ön tarafına doğru çıkıyor ancak aşırı derecede devasa görünmüyor; arka plan ölçülü bir şekilde bulanıklaştırılırken buranın bir kafe olduğunu belirten mobilya, pencere ve aydınlatmaların varlığı korunuyor.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, kadrajın solundaki veya sol çaprazındaki pencereden giren yumuşak doğal ışıktır. Yüzün bir yanını, omuzları, tereyağı sarısı kumaşı ve pudingin yüzeyini nazikçe aydınlatırken, diğer tarafa kafenin sıcak tonlu iç ışıklandırmasından gelen zayıf yansımalar ulaşıyor. Gölgeler sert değil; yanaklarda, boyunda ve kıyafet kıvrımlarında doğal bir derinlik oluşturacak düzeyde. Tavandaki ve duvardaki kehribar rengi sarkıt lambalar; ahşap duvarlara, masaya ve karamel sosuna sıcak bir ışıltı katıyor. Ciltte doğal bir canlılık ve ince gölgeler, saçta tel tel akış ve yumuşak parlaklık, dantelde narin dokular ve ahşapta kullanılmışlığın verdiği pürüzsüz bir doku sergileniyor. Genel olarak tereyağı sarısı, moka kahvesi, koyu yeşil ve kehribar tonlarının hakim olduğu sıcak ve nostaljik bir renk paleti.
+
+【Kalite ve Hariç Tutulacak Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi fotoğraf. Gerçek bir kamerayla çekilmiş gibi doğal insan anatomisi, parmaklar, perspektif, kumaş gerilimi ve ışık-gölge dengesine öncelik verilmelidir. Reşit olmayan görünüm, aşırı çocuksu yüz, doğal olmayan vücut oranları, fazladan uzuv veya parmaklar, eksik veya birleşik parmaklar, garip eklemler, sol ve sağ ellerin karışması, kıyafetin bedenle eriyip kaynaşması, kumaşta yırtılmalar veya tuhaf sıkışmalar, istenmeyen açıklık/teşhir, aşırı geniş açı bozulması ve abartılı cilt pürüzsüzleştirme (airbrush) filtrelerinden kaçınılmalıdır. Göğüsler doğal ve dolgun hacmini korumalı; sert küreler gibi, anormal şekilde yukarı itilmiş veya yerçekimine meydan okuyan yapay formlarda olmamalıdır. Görselde hiçbir metin, logo, filigran veya kullanıcı arayüzü (UI) öğesi bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -5075,20 +5105,20 @@ Karakter · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2100343972665135401"></a>
 
-### Birbirine geçmiş devasa taş ve bronz dişlilerden oluşan ve dişlerin üzerine tünemiş figürlerin bulunduğu fantastik bir kanyon.
+### Devasa kenetlenen taş ve bronz dişlilerden oluşan ve dişlerin üzerine tünemiş figürlerin bulunduğu fantastik bir kanyon.
 
 Yazar：[@RealLeeForest](https://x.com/RealLeeForest) · [Orijinal gönderi](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Diğer · Yayımlandı
 
-**Özet:** Birbirine geçmiş devasa taş ve bronz dişlilerden oluşan ve dişlerin üzerine tünemiş figürlerin bulunduğu fantastik bir kanyon.
+**Özet:** Devasa kenetlenen taş ve bronz dişlilerden oluşan ve dişlerin üzerine tünemiş figürlerin bulunduğu fantastik bir kanyon.
 
 <img src="images/2100343972665135401-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Duvarları taştan ve bronzdan yapılmış devasa birbirine geçmiş dişlilerden oluşan bir kanyon, zemin mekanizmayı döndüren yavaş hareket eden bir kum nehri, güneşin en yüksek noktasında bir nefeslik duraklayan dişliler, kanyon yeniden çalışmaya başlamadan önce dişlerin üzerinde hareketsiz duran figürler, dişlerin üzerinde yürüyen dişli gezginleri, yüksek bir dingili yağlayan bir bekçi, tek bir dişliye binmiş çocuklar, dişli duraklaması, öğle vakti, öğle kilidi, gerçekçi taş, bronz, kum ve figür dokusu, sinematik aydınlatma, durmuş dişli ile tepedeki güneş arasında güçlü kontrast, son derece ayrıntılı, çarpıcı kompozisyon, tutarlı fantastik atmosfer
+Duvarları taştan ve bronzdan devasa kilitli dişlilerden oluşan bir kanyon zemin mekanizmayı döndüren yavaş hareket eden bir kum nehri güneşin en yüksek noktasında bir nefeslik duraklayan dişliler kanyon yeniden başlamadan önce dişlerin üzerinde hareketsiz duran figürler dişlerin üzerinde dişli yürüyüşçüleri yüksek bir dingili yağlayan bir bekçi tek bir çark dişlisine binen çocuklar dişli duraklaması öğle vakti öğle kilitlenmesi gerçekçi taş bronz kum ve figür dokusu sinematik aydınlatma durmuş dişli ile tepedeki güneş arasında güçlü kontrast son derece ayrıntılı çarpıcı kompozisyon tutarlı fantezi atmosferi
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -4301,20 +4301,60 @@ Traducción en curso
 
 <a name="prompt-2100332541437960533"></a>
 
-### Traducción en curso
+### Prompt para retrato de mujer japonesa ofreciendo pudín en una cafetería retro estilo Showa.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2100332541437960533)
 
 Retro / Vintage · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para retrato de mujer japonesa ofreciendo pudín en una cafetería retro estilo Showa.
 
 <img src="images/2100332541437960533-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟 Cafetería retro por la tarde | Sonrisa amarillo mantequilla ofreciendo pudín 🌟
+
+【Tema y estilo】
+Retrato de una mujer japonesa claramente adulta de 25 años en una cafetería tradicional por la tarde, ofreciendo una cucharada de pudín a su pareja sentada enfrente. Fotografía de moda fotorrealista y cotidiana; no una foto publicitaria excesivamente producida, sino una imagen que prioriza la intimidad, como si capturara por casualidad un instante natural durante una cita.
+Combina una suave ternura con la serenidad y la elegancia propias de una adulta, conectando de forma natural en una sola escena la expresión, el atuendo y los gestos de la mujer con la cálida atmósfera de la cafetería.
+
+【Lugar, fondo y ambientación】
+El escenario es una tranquila cafetería tradicional que conserva reminiscencias de la era Showa. Sentada en una pequeña mesa para dos junto a la ventana, a su alrededor se aprecian paredes de madera lustrosa en tono caramelo, sillas tapizadas en terciopelo verde oscuro, una mesa de madera envejecida por el uso y discretas decoraciones de latón y cristal.
+Sobre la mesa hay un platillo con un clásico pudín de caramelo y un vaso transparente. El vaso en primer plano está ligeramente desenfocado, mientras que el fondo muestra suavemente otras mesas y estanterías, logrando una composición que transmite la profundidad del local y la tranquila atmósfera de la tarde.
+
+【Estación, hora y clima】
+Una época apacible entre la primavera y principios del verano. Alrededor de las 3 de la tarde, cuando la luz exterior aún es brillante pero comienza a suavizarse. Afuera el cielo está despejado o ligeramente nublado; no hay una luz solar directa e intensa, sino una suave luz natural que entra a través de la ventana.
+En el interior conviven la luz exterior y la iluminación de tonos cálidos, transmitiendo ese aire relajado de la tarde mientras se disfruta de algo dulce y un café en un local agradablemente fresco.
+
+【Descripción del personaje】
+Mujer japonesa de 25 años, indiscutiblemente adulta. Rasgos faciales suaves y proporcionados, ojos oscuros y expresivos ligeramente grandes, cejas naturales, puente nasal fino y definido, labios suaves y de buen color. Piel de tono ocre claro con una textura realista que conserva poros, sutiles sombras y una tez sonrosada natural.
+Cabello castaño oscuro con ondas naturales desde los hombros hasta la parte superior del pecho, con mechones sueltos y finos enmarcando el rostro. Hombros y extremidades delicados, cintura esbelta y una figura curvilínea, glamurosa, natural y elegante con proporciones femeninas armoniosas. El pecho es notablemente grande y voluminoso, pero representado con un volumen tridimensional suave que se adapta con naturalidad a la ropa, la postura y la gravedad, manteniendo el equilibrio con todo el cuerpo.
+
+【Vestuario y accesorios】
+La parte superior es una camiseta de tirantes (camisola) en un tono amarillo mantequilla pálido y cálido. Presenta finos volantes de encaje en el escote y en los tirantes, confeccionada con un tejido acanalado de alta calidad no transparente o una tela fina y suave. Un diseño de buen gusto para adultos, dulce pero sin resultar infantil.
+Con un tallaje y confección realistas que se adaptan cómodamente al pecho generoso, sin que la tela se estire en exceso ni se clave de forma poco natural. La parte inferior es una falda midi marrón moca. Accesorios discretos reducidos a pequeños pendientes y un collar fino, componiendo un atuendo ideal para una cita cotidiana en una cafetería.
+
+【Pose, acción y mirada】
+La mujer está sentada con naturalidad en la silla verde oscuro, con el torso orientado casi de frente hacia el asiento opuesto. La cadera descansa firmemente sobre la silla, y ambas piernas se colocan juntas de forma natural o ligeramente ladeadas bajo la mesa, sin forzar giros corporales extraños.
+Sostiene con la mano derecha una pequeña cuchara con una porción de pudín, manteniendo el codo bajo, en el instante en que la extiende hacia su pareja enfrente como diciendo: «prueba un bocado». La mano izquierda reposa con naturalidad sobre el borde de la mesa o cerca del plato de pudín. La cabeza está ligeramente inclinada; el cuerpo se mantiene al frente mientras solo la mirada se dirige hacia la cámara.
+
+【Expresión y emoción】
+Una expresión íntima, confiada y desarmada que solo muestra a su pareja. Una sonrisa discreta en los labios, con las cejas suavemente arqueadas hacia arriba, denotando un toque de coquetería y picardía mientras espera con ilusión la reacción del otro.
+No es una risa amplia y forzada, sino una sonrisa en la que los ojos, las mejillas y la boca se relajan con naturalidad. La ligera inclinación del rostro y la mirada apacible transmiten una cercanía inmediata, como si estuviera preguntando con la voz: «¿quieres?». 
+
+【Composición y cámara】
+Composición vertical 4:5 pensada para publicaciones en X. Capturada a la altura de los ojos desde la perspectiva de la pareja sentada enfrente. Se deja un pequeño margen superior sobre la cabeza, encuadrando con naturalidad desde la cabeza hasta la cintura por debajo de la mesa. Una composición que guía la mirada a través del rostro, la cuchara extendida, los volantes del pecho y el pudín.
+Concebida con un ángulo de visión natural de entre 50 y 70 mm (de estándar a teleobjetivo medio), evitando distorsiones de gran angular que exageren el rostro, las manos o el cuerpo. La cuchara sobresale hacia el primer plano pero sin verse desproporcionadamente gigante; el fondo está adecuadamente desenfocado, preservando la presencia del mobiliario, las ventanas y las luces que identifican a la cafetería.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la suave luz natural que entra por la ventana a la izquierda o en diagonal frontal izquierda. Ilumina suavemente un lado de la cara, el hombro, la tela amarillo mantequilla y la superficie del pudín, mientras que en el lado opuesto incide una tenue luz reflejada de las lámparas cálidas del local. Las sombras no son duras, aportando un relieve natural en mejillas, cuello y arrugas de la ropa.
+Las lámparas colgantes de color ámbar en el techo y la pared otorgan un brillo cálido a las paredes de madera, la mesa y la salsa de caramelo. La piel muestra un rubor natural y sombras detalladas; el cabello, la definición mechón a mechón y un brillo suave; el encaje, delicados relieves; y la madera, una textura lisa desgastada por los años. Una paleta general cálida y nostálgica centrada en amarillo mantequilla, marrón moca, verde oscuro y ámbar.
+
+【Calidad y elementos excluidos】
+Fotografía fotorrealista de alta resolución. Prioridad en la anatomía humana natural, dedos de las manos, perspectiva, tensión de los tejidos, luces y sombras como si estuviera tomada con una cámara real.
+Evitar apariencia de menor de edad, rostro demasiado infantil, anatomía anormal, extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones extrañas, confusión entre mano izquierda y derecha, ropa fundida con el cuerpo, prendas rotas o que se claven de forma irreal, desnudez no intencionada, distorsión extrema de gran angular y retoque de piel excesivamente suavizado. El pecho debe conservar un volumen generoso y natural, sin formas esféricas rígidas, realces anómalos ni desafiar la gravedad. Sin texto, logotipos, marcas de agua ni elementos de interfaz de usuario en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -5103,20 +5143,20 @@ Traducción en curso
 
 <a name="prompt-2100343972665135401"></a>
 
-### Un cañón de fantasía formado por gigantescos engranajes entrelazados de piedra y bronce con figuras posadas sobre los dientes.
+### Un cañón de fantasía formado por gigantescos engranajes entrelazados de piedra y bronce con figuras encaramadas en los dientes.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicación original](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Otros · Publicado
 
-**Resumen:** Un cañón de fantasía formado por gigantescos engranajes entrelazados de piedra y bronce con figuras posadas sobre los dientes.
+**Resumen:** Un cañón de fantasía formado por gigantescos engranajes entrelazados de piedra y bronce con figuras encaramadas en los dientes.
 
 <img src="images/2100343972665135401-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Un cañón cuyas paredes son gigantescos engranajes entrelazados de piedra y bronce, el suelo es un río de arena de lento movimiento que hace girar el mecanismo, engranajes que se detienen por un respiro en el punto más alto del sol, figuras de pie e inmóviles sobre los dientes antes de que el cañón comience de nuevo, caminantes de engranajes sobre los dientes, un guardián aceitando un eje alto, niños montando un solo engranaje, pausa de engranajes, mediodía, bloqueo del mediodía, textura realista de piedra, bronce, arena y figuras, iluminación cinematográfica, fuerte contraste entre los engranajes detenidos y el sol en lo alto, muy detallado, composición impactante, atmósfera de fantasía coherente
+Un cañón cuyas paredes son gigantescos engranajes entrelazados de piedra y bronce el suelo es un río de arena de lento movimiento que hace girar el mecanismo los engranajes se detienen por un respiro en el punto más alto del sol figuras que permanecen inmóviles sobre los dientes antes de que el cañón comience de nuevo caminantes de engranajes sobre los dientes un guardián aceitando un eje elevado niños montando un solo diente de engranaje pausa de engranajes mediodía bloqueo del mediodía textura realista de piedra bronce arena y figuras iluminación cinematográfica fuerte contraste entre el engranaje detenido y el sol en su cenit altamente detallado composición impactante atmósfera de fantasía coherente
 ```
 
 [↑ Volver a categorías](#catalog)

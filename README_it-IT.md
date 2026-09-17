@@ -4266,20 +4266,60 @@ Traduzione in corso
 
 <a name="prompt-2100332541437960533"></a>
 
-### Traduzione in corso
+### Prompt per il ritratto di una donna giapponese che offre del budino in una caffetteria rétro in stile Showa.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2100332541437960533)
 
 Retro / Vintage · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per il ritratto di una donna giapponese che offre del budino in una caffetteria rétro in stile Showa.
 
 <img src="images/2100332541437960533-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Pomeriggio in una caffetteria rétro｜Un sorriso color giallo burro che porge un budino🌟
+
+【Soggetto e stile】
+Raffigurazione di una donna giapponese di 25 anni, chiaramente adulta, in una tradizionale caffetteria rétro (kissaten) di pomeriggio, mentre porge un cucchiaio di budino al partner seduto di fronte. Fotografia di moda fotorealistica dall'atmosfera vissuta e quotidiana; non uno scatto pubblicitario artefatto, bensì un'intima istantanea catturata con spontaneità durante un appuntamento romantico.
+Unendo una morbida dolcezza alla compostezza ed eleganza di una donna matura, l'espressione della donna, i suoi abiti, i gesti e la calda atmosfera del locale si fondono in un'unica armoniosa scena fotografica.
+
+【Luogo, sfondo e atmosfera】
+L'ambientazione è una tranquilla caffetteria d'altri tempi che custodisce il fascino dell'era Showa. Seduta a un piccolo tavolo per due vicino alla finestra, intorno a lei si notano pareti in legno dal lucido color caramello, sedie rivestite di velluto verde scuro, un tavolo in legno vissuto e sobrie decorazioni in ottone e vetro.
+Sul tavolo poggiano un piattino con un classico budino al caramello (purin) e un bicchiere trasparente. Il bicchiere in primo piano è leggermente sfocato, mentre sullo sfondo si intravedono morbidamente gli altri tavoli e gli scaffali, creando una composizione che restituisce la profondità del locale e la serena atmosfera del pomeriggio.
+
+【Stagione, orario e meteo】
+La stagione è il mite periodo tra la primavera e l'inizio dell'estate. Attorno alle 15:00, orario in cui la luce esterna conserva luminosità ma inizia a farsi più soffusa. All'esterno il tempo è sereno o leggermente velato; nessuna luce solare diretta e accecante, bensì una carezzevole luce naturale che filtra dalla finestra.
+All'interno convivono la luce naturale e l'illuminazione a toni caldi, evocando la rilassante atmosfera pomeridiana del gustare dolci e caffè in un locale piacevolmente fresco.
+
+【Dettagli del personaggio】
+Donna giapponese di 25 anni, inequivocabilmente adulta. Tratti del viso dolci e regolari, occhi scuri leggermente grandi ed espressivi, sopracciglia naturali, ponte nasale sottile e definito, labbra morbide e dal colorito sano. Incarnato ocra chiaro con una texture realistica che preserva pori, ombreggiature sottili e un naturale rossore vitale.
+Capelli castano scuro con onde naturali che scendono dalle spalle fin sopra il petto. Sottili ciocche ribelli le incorniciano delicatamente il volto. Spalle e arti affusolati, vita sottile, con una figura curvilinea, naturalmente voluttuosa ed elegante, in piena armonia con il corpo. Seno visibilmente prosperoso e generoso, rappresentato con una tridimensionalità morbida che asseconda naturalmente l'abito, la postura e la gravità, mantenendo l'equilibrio con l'intera figura.
+
+【Abbigliamento e accessori】
+Come top, una canottiera (camisole) in una calda e delicata tonalità giallo burro. La scollatura e le spalline sono impreziosite da un pizzo sottile a volant; il corpetto è realizzato in tessuto a costine coprente di alta qualità o in morbido tessuto leggero. Graziosa senza mai risultare infantile, con un design ricercato per una donna adulta.
+Taglio e fattura realistici che avvolgono comodamente il seno prosperoso, offrendo una vestibilità naturale senza eccessive tensioni o segni compressivi del tessuto. Come parte inferiore, una gonna midi marrone moka. Accessori minimalisti limitati a piccoli orecchini e una sottile collana, a completare un abbigliamento informale da appuntamento in caffetteria.
+
+【Posa, movimento e sguardo】
+La donna è seduta con naturalezza sulla sedia in velluto verde scuro, con il busto rivolto quasi frontalmente verso il posto di fronte. Il bacino è ben posato sulla seduta, le gambe sotto il tavolo sono composte naturalmente parallele o leggermente inclinate di lato, senza torsioni forzate del corpo.
+Con la mano destra impugna un cucchiaino con una porzione di budino, tenendo il gomito basso, colta nell'istante in cui lo porge verso il partner di fronte come a dire «Assaggia un boccone». La mano sinistra è posata con naturalezza sul bordo del tavolo o vicino al piattino del budino. La testa è leggermente reclinata di lato, il corpo resta frontale mentre solo lo sguardo è rivolto verso l'obiettivo.
+
+【Espressione ed emozione】
+Un'espressione confidenziale, intima e rilassata, mostrata unicamente al proprio partner. Sulle labbra aleggia un sorriso discreto, le sopracciglia appena sollevate con dolcezza, con una sfumatura vezzosa e birichina come di chi attende incuriosita la reazione dell'altro.
+Non una risata vistosa e forzata, ma un mezzo sorriso in cui occhi, guance e labbra si distendono con spontaneità. La lieve inclinazione del capo e la calma dello sguardo trasmettono una vicinanza calorosa, come se stesse chiedendo a voce bassa: «Ne vuoi?». 
+
+【Composizione e inquadratura】
+Composizione verticale 4:5 ideale per i post su X (Twitter). Scattata ad altezza occhi dal punto di vista del partner seduto al tavolo di fronte. Viene lasciato un piccolo margine d'aria sopra la testa; l'inquadratura include con naturalezza la figura dalla testa fino all'altezza della vita sotto il tavolo. Il volto, il cucchiaio offerto, i volant sulla scollatura e il budino rientrano fluidamente nella linea visiva.
+Si prevede una lunghezza focale naturale da obiettivo standard a medio-teleobiettivo (circa 50-70 mm), evitando distorsioni grandangolari che ingigantiscano volto, mani o corpo. Il cucchiaio si protende verso il primo piano senza apparire sproporzionato; lo sfondo presenta una sfocatura moderata che lascia ben riconoscibili arredi, finestre e lampade della caffetteria.
+
+【Luce, colore, texture e atmosfera】
+La sorgente luminosa principale è la morbida luce naturale che penetra dalla finestra a sinistra o diagonalmente a sinistra. Illumina delicatamente un lato del volto, la spalla, il tessuto giallo burro e la superficie del budino, mentre sul lato opposto si diffondono deboli riflessi della calda illuminazione interna. Le ombre rimangono morbide, donando un naturale rilievo tridimensionale a guance, collo e pieghe dell'abito.
+Lampade a sospensione color ambra a soffitto o a parete donano un caldo bagliore alle pareti in legno, al tavolo e alla salsa al caramello. La pelle mostra una vitalità naturale e ombreggiature sottili, i capelli una definizione ciocca per ciocca dalla lucentezza setosa, il pizzo una texture delicata e il legno una consistenza levigata dal tempo. L'insieme è dominato da una palette calda e nostalgica incentrata su giallo burro, marrone moka, verde scuro e ambra.
+
+【Qualità ed elementi da escludere】
+Fotografia fotorealistica ad alta risoluzione. Massima cura per un'anatomia umana naturale che sembri scattata da una vera macchina fotografica: mani e dita perfette, prospettiva coerente, caduta realistica del tessuto, luci e ombre bilanciate.
+Evitare sembianze da minorenne, volti eccessivamente infantili, anatomie innaturali, arti o dita in eccesso, dita mancanti o fuse, articolazioni anomale, confusione tra mano destra e sinistra, abiti fusi con la pelle, strappi o compressioni forzate della stoffa, nudità o scollature involontarie, estreme distorsioni grandangolari e filtri leviganti eccessivi per la pelle. Il seno deve conservare un volume prosperoso e naturale, senza apparire sferico rigido, innaturalmente compresso verso l'alto o incurante della gravità. Nessuna scritta, logo, filigrana o elemento di interfaccia nell'immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -5058,20 +5098,20 @@ Traduzione in corso
 
 <a name="prompt-2100343972665135401"></a>
 
-### Un canyon fantasy formato da giganteschi ingranaggi di pietra e bronzo incastrati tra loro con figure arroccate sui denti.
+### Un canyon fantasy formato da giganteschi ingranaggi incastrati di pietra e bronzo con figure appollaiate sui denti.
 
 Autore：[@RealLeeForest](https://x.com/RealLeeForest) · [Post originale](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Altro · Pubblicato
 
-**Riepilogo:** Un canyon fantasy formato da giganteschi ingranaggi di pietra e bronzo incastrati tra loro con figure arroccate sui denti.
+**Riepilogo:** Un canyon fantasy formato da giganteschi ingranaggi incastrati di pietra e bronzo con figure appollaiate sui denti.
 
 <img src="images/2100343972665135401-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Un canyon le cui pareti sono giganteschi ingranaggi interconnessi di pietra e bronzo, il suolo un fiume di sabbia che scorre lentamente e fa girare il meccanismo, ingranaggi che si fermano per un respiro nel punto più alto del sole, figure immobili sui denti prima che il canyon riprenda a muoversi, camminatori di ingranaggi sui denti, un custode che lubrifica un asse alto, bambini a cavalcioni di un singolo dente, pausa dell'ingranaggio, mezzogiorno, blocco di mezzogiorno, texture realistica di pietra, bronzo, sabbia e figure, illuminazione cinematografica, forte contrasto tra ingranaggio fermo e sole alto, estremamente dettagliato, composizione d'impatto, coerente atmosfera fantasy
+Un canyon le cui pareti sono giganteschi ingranaggi incastrati di pietra e bronzo il fondovalle un lento fiume di sabbia che fa girare il meccanismo ingranaggi che si fermano per un respiro nel punto più alto del sole figure immobili sui denti prima che il canyon riprenda a muoversi camminatori di ingranaggi sui denti un guardiano che olia un asse alto bambini che cavalcano un singolo ingranaggio pausa degli ingranaggi mezzogiorno blocco di mezzogiorno texture realistica di pietra bronzo sabbia e figure illuminazione cinematografica forte contrasto tra l'ingranaggio fermo e il sole allo zenit altamente dettagliato composizione suggestiva coerente atmosfera fantasy
 ```
 
 [↑ Torna alle categorie](#catalog)

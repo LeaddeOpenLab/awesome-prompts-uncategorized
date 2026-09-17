@@ -4266,20 +4266,60 @@ Traduction en cours
 
 <a name="prompt-2100332541437960533"></a>
 
-### Traduction en cours
+### Prompt pour le portrait d'une femme japonaise tendant un flan dans un café rétro d'époque Showa.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100332541437960533)
 
 Rétro / Vintage · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour le portrait d'une femme japonaise tendant un flan dans un café rétro d'époque Showa.
 
 <img src="images/2100332541437960533-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Après-midi dans un café rétro｜Sourire jaune beurre tendant un flan🌟
+
+【Sujet & style artistique】
+Portrait d'une femme japonaise de 25 ans, clairement adulte, dans un café traditionnel (kissaten) l'après-midi, tendant une bouchée de flan au caramel à son partenaire assis en face. Photographie de mode photoréaliste et pleine de vie du quotidien ; loin d'une photo publicitaire trop léchée, l'accent est mis sur une intimité sincère, comme un instant spontané capturé lors d'un rendez-vous amoureux.
+Alliant une douce délicatesse à la sérénité et à l'élégance d'une femme adulte, l'expression, la tenue, la gestuelle de la femme et l'atmosphère chaleureuse du café s'unissent naturellement en une seule scène photographique.
+
+【Lieu, arrière-plan & univers】
+Le décor est un café paisible d'autrefois, imprégné de la nostalgie de l'ère Showa. Assise à une petite table pour deux près de la fenêtre, elle est entourée de boiseries au lustre ambré, de chaises capitonnées de velours vert foncé, d'une table en bois patinée par le temps et de décorations discrètes en laiton et en verre.
+Sur la table reposent une soucoupe avec un flan traditionnel nappé de caramel et un verre transparent. Le verre au premier plan est légèrement flouté, tandis que l'arrière-plan laisse deviner avec douceur d'autres tables et étagères, créant une composition qui suggère la profondeur de la salle et la quiétude de l'après-midi.
+
+【Saison, heure & météo】
+La saison se situe dans la période douce entre le printemps et le début de l'été. Vers 15 heures, moment où la lumière extérieure reste claire tout en commençant à s'adoucir. Dehors, le ciel est dégagé à légèrement voilé ; pas de soleil direct intense, mais une douce lumière naturelle filtrant à travers la fenêtre.
+À l'intérieur coexistent la clarté extérieure et un éclairage aux teintes chaudes, évoquant l'atmosphère relaxante d'un après-midi passé à savourer café et douceurs dans un café agréablement frais.
+
+【Description du personnage】
+Femme japonaise de 25 ans, indiscutablement adulte. Traits fins et harmonieux, yeux sombres assez grands et expressifs, sourcils naturels, arête du nez fine et nette, lèvres douces et bien teintées. Peau ocre clair à la texture réaliste laissant paraître les pores, de subtiles ombres et un éclat rosé naturel.
+Cheveux châtain foncé aux ondulations naturelles tombant des épaules jusqu'au haut de la poitrine. De fines mèches folles encadrent délicatement son visage. Épaules et membres fins, taille menue, avec une silhouette tout en courbes, naturellement glamour et distinguée. Poitrine visiblement généreuse et pulpeuse, représentée avec un volume tridimensionnel souple qui s'adapte avec naturel au vêtement, à la posture et à la gravité, en équilibre avec l'ensemble du corps.
+
+【Tenue & accessoires】
+En haut, un caraco d'un jaune beurre pâle et chaleureux. Le décolleté et les bretelles sont bordés d'une fine dentelle à volants ; le corps du vêtement est confectionné dans une maille côtelée opaque haut de gamme ou un tissu fin et fluide. Plein de charme sans jamais paraître enfantin, avec une coupe raffinée pensée pour une adulte.
+Une coupe et une confection réalistes qui épousent harmonieusement sa poitrine généreuse, assurant un maintien naturel sans tension excessive ni pli cisaillant. En bas, une jupe midi marron moka. Des accessoires discrets limités à de petites boucles d'oreilles et un collier fin, composant une tenue de rendez-vous tout à fait naturelle dans un café.
+
+【Pose, geste & regard】
+La femme est assise naturellement sur la chaise en velours vert foncé, le buste orienté presque de face vers la personne assise en face d'elle. Les hanches bien calées sur l'assise, les jambes placées naturellement sous la table, parallèles ou légèrement de biais, sans torsion forcée du corps.
+De la main droite, elle tient une petite cuillère contenant une bouchée de flan, le coude maintenu assez bas, prise sur le vif au moment où elle la tend à son partenaire en face comme pour lui dire « Goûte ». La main gauche repose naturellement sur le bord de la table ou près de l'assiette de flan. La tête légèrement inclinée, le corps restant de face, seul son regard se tourne vers l'objectif.
+
+【Expression & émotion】
+Une expression complice, intime et sans défense, réservée à son partenaire. Un léger sourire aux lèvres, les sourcils très légèrement et doucement haussés, avec une nuance de tendresse espiègle, impatiente de découvrir sa réaction.
+Pas un grand rire forcé, mais un demi-sourire où le regard, les joues et les lèvres se détendent naturellement. La légère inclinaison de son visage et la sérénité de son regard créent une impression de proximité intime, comme si elle demandait à mi-voix : « Tu en veux ? ».
+
+【Composition & cadrage】
+Composition verticale 4:5 adaptée aux publications X (Twitter). Prise de vue à hauteur des yeux, depuis le point de vue du partenaire assis en face. Un léger espace est laissé au-dessus de la tête ; le cadrage englobe naturellement la personne depuis le sommet du crâne jusqu'au niveau des hanches sous la table. Le visage, la cuillère tendue, les volants du décolleté et le flan s'inscrivent harmonieusement dans le parcours du regard.
+Focale naturelle estimée entre 50 et 70 mm (du standard au petit téléobjectif), en évitant les déformations grand angle qui grossiraient le visage, les mains ou le corps. La cuillère avance vers le premier plan sans paraître disproportionnée ; l'arrière-plan présente un flou modéré tout en laissant bien identifiables le mobilier, les fenêtres et les luminaires du café.
+
+【Lumière, couleur, matière & ambiance】
+La source principale est la douce lumière du jour entrant par la fenêtre située sur la gauche ou en diagonale avant gauche. Elle éclaire délicatement un côté du visage, l'épaule, le tissu jaune beurre et la surface du flan, tandis que le côté opposé reçoit de faibles reflets de l'éclairage intérieur chaud. Les ombres restent douces, sculptant un relief naturel sur les joues, le cou et les plis du tissu.
+Des suspensions ambrées au plafond ou aux murs apportent un éclat chaleureux aux boiseries, à la table et au coulis de caramel. La peau révèle un teint naturel et de fines nuances d'ombre, la chevelure un tracé mèche par mèche au reflet soyeux, la dentelle un relief délicat, et le bois un toucher patiné et lisse. L'ensemble baigne dans une palette chaude et nostalgique dominée par le jaune beurre, le marron moka, le vert foncé et l'ambre.
+
+【Qualité & éléments à exclure】
+Photographie photoréaliste haute résolution. Rendu anatomique humain réaliste comme pris avec un véritable appareil photo : mains et doigts parfaits, perspective juste, tombé réaliste du tissu, équilibre des ombres et lumières.
+Éviter l'apparence mineure, les visages trop enfantins, les corps déformés, les membres ou doigts surnuméraires, les doigts manquants ou fusionnés, les articulations anormales, l'inversion main gauche/main droite, la fusion entre tissu et peau, les déchirures ou pincements anormaux du tissu, la nudité ou l'exposition involontaire, les distorsions grand angle excessives et le lissage exagéré de la peau. La poitrine doit conserver un volume généreux et naturel, sans aspect sphérique dur, sans effet push-up artificiel défiant la gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -5071,7 +5111,7 @@ Autres · Publié
 **Consigne**
 
 ```text
-Un canyon dont les parois sont de gigantesques engrenages imbriqués de pierre et de bronze, le sol un fleuve de sable au mouvement lent qui fait tourner le mécanisme, des engrenages qui s'arrêtent le temps d'un souffle au point le plus haut du soleil, des silhouettes immobiles sur les dents avant que le canyon ne redémarre, des marcheurs d'engrenages sur les dents, un gardien huilant un axe élevé, des enfants chevauchant un seul rouage, pause d'engrenage, midi, verrou de midi, texture réaliste de la pierre, du bronze, du sable et des silhouettes, éclairage cinématographique, fort contraste entre engrenages arrêtés et soleil zénithal, hautement détaillé, composition saisissante, atmosphère fantastique cohérente
+Un canyon dont les parois sont de gigantesques engrenages imbriqués de pierre et de bronze le sol est une rivière de sable au cours lent qui fait tourner le mécanisme engrenages en pause le temps d'un souffle au point culminant du soleil silhouettes immobiles sur les dents avant que le canyon ne redémarre marcheurs d'engrenages sur les dents un gardien huilant un essieu surélevé enfants chevauchant une seule roue dentée pause d'engrenage midi verrou de midi texture réaliste de pierre de bronze de sable et des silhouettes éclairage cinématographique fort contraste entre les engrenages arrêtés et le soleil au zénith extrêmement détaillé composition saisissante atmosphère de fantasy cohérente
 ```
 
 [↑ Retour aux catégories](#catalog)

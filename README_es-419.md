@@ -4266,20 +4266,60 @@ Traducción en curso
 
 <a name="prompt-2100332541437960533"></a>
 
-### Traducción en curso
+### Prompt para retrato de una mujer japonesa ofreciendo flan en una cafetería de estilo retro Showa.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2100332541437960533)
 
 Retro / Vintage · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para retrato de una mujer japonesa ofreciendo flan en una cafetería de estilo retro Showa.
 
 <img src="images/2100332541437960533-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Cafetería retro en la tarde｜Sonrisa en amarillo mantequilla ofreciendo flan🌟
+
+【Tema y estilo】
+Retrato de una mujer japonesa claramente adulta de 25 años en una cafetería tradicional (kissaten) por la tarde, ofreciendo un bocado de flan a su pareja sentada enfrente. Fotografía de moda fotorrealista con un toque cotidiano y vivido; no se busca una sesión publicitaria sobreproducida, sino una intimidad que parezca capturar espontáneamente un momento natural durante una cita.
+Combinando una suave ternura con la serenidad y elegancia de una mujer adulta, la expresión de la mujer, su atuendo, sus gestos y la cálida atmósfera de la cafetería se entrelazan de forma natural en una única escena fotográfica.
+
+【Lugar, fondo y ambientación】
+El escenario es una cafetería clásica y tranquila que conserva reminiscencias de la era Showa. Sentada en una pequeña mesa para dos junto a la ventana, a su alrededor se aprecian paredes de madera con un brillo acaramelado, sillas tapizadas en terciopelo verde oscuro, una mesa de madera gastada por el uso y discretas decoraciones de latón y vidrio.
+Sobre la mesa se disponen un platito con un clásico flan de caramelo y un vaso transparente. El vaso en primer plano queda ligeramente desenfocado, mientras que el fondo muestra suavemente otras mesas y estanterías, logrando una composición que transmite la profundidad del local y el ambiente apacible de la tarde.
+
+【Estación, hora y clima】
+La estación es un período templado entre la primavera y principios del verano. Alrededor de las 3:00 p.m., un momento en el que la luz exterior aún es brillante pero comienza a suavizarse. Afuera el clima varía de despejado a ligeramente nublado; no hay sol directo intenso, sino una suave luz natural que entra a través de la ventana.
+En el interior conviven la luz exterior y la iluminación de tonos cálidos, transmitiendo esa atmósfera relajante de la tarde al disfrutar de un café y dulces dentro de un local agradablemente fresco.
+
+【Detalles del personaje】
+Mujer japonesa de 25 años, indiscutiblemente adulta. Rasgos faciales suaves y armoniosos, ojos oscuros algo grandes y expresivos, cejas naturales, puente nasal fino y definido, labios suaves y con buen color. Tono de piel ocre claro, con una textura realista que conserva poros, sombras tenues y una vitalidad sonrosada natural.
+Cabello castaño oscuro con ondas naturales que caen desde los hombros hasta la parte superior del pecho. Mechones sueltos y finos enmarcan su rostro. Hombros y extremidades delicados, cintura esbelta, con una figura curvilínea, naturalmente glamorosa y elegante en armonía con su cuerpo. Pecho visiblemente generoso y voluminoso, pero representado con un relieve tridimensional suave que se adapta con naturalidad a la prenda, la postura y la gravedad, manteniendo el equilibrio con la figura completa.
+
+【Atuendo y accesorios】
+Como prenda superior, una camiseta de tirantes (camisola) en un tono amarillo mantequilla cálido y suave. Presenta detalles de fino encaje con volantes en el escote y en los tirantes; el cuerpo de la prenda está confeccionado en tela acanalada opaca de alta calidad o en una tela ligera y suave. Con un encanto delicado pero sin parecer infantil, con un diseño sofisticado para una mujer adulta.
+Talla realista y confección que se adapta cómodamente a su busto generoso, con un ajuste natural sin estiramientos excesivos ni pliegues que aprieten. De prenda inferior, una falda midi en color marrón moca. Accesorios discretos reducidos a pequeños aretes y un collar fino, complementando un atuendo casual de cita en una cafetería.
+
+【Pose, acción y mirada】
+La mujer está sentada con naturalidad en la silla de terciopelo verde oscuro, con el torso orientado casi de frente hacia el asiento de enfrente. Con la espalda y caderas bien apoyadas en el respaldo, las piernas se colocan de forma natural debajo de la mesa, rectas o ligeramente inclinadas de lado, sin torsiones forzadas del cuerpo.
+Con la mano derecha sostiene una cucharita con una porción de flan, manteniendo el codo bajo, captada en el momento justo en que la extiende hacia su pareja sentada enfrente como diciendo «prueba un bocado». La mano izquierda reposa con naturalidad sobre el borde de la mesa o cerca del plato de flan. Ladea levemente la cabeza, manteniendo el torso de frente y dirigiendo solo la mirada hacia la cámara.
+
+【Expresión y emoción】
+Una expresión desinhibida, íntima y confiada que solo muestra ante su pareja. En sus labios se dibuja una sonrisa sutil, arqueando ligeramente y de forma suave las cejas, con un aire travieso y cariñoso como quien espera con ilusión la reacción del otro.
+No es una sonrisa fingida ni exagerada, sino una media sonrisa relajada donde los ojos, las mejillas y los labios transmiten una calma espontánea. La ligera inclinación del rostro y su mirada serena transmiten una cercanía entrañable, como si dijera en voz baja: «¿Quieres?».  
+
+【Composición y cámara】
+Composición vertical 4:5 pensada para publicaciones en X (Twitter). Tomada al nivel de los ojos desde la perspectiva de la pareja sentada en la mesa de enfrente. Se deja un pequeño margen superior sobre la coronilla, encuadrando con naturalidad desde la cabeza hasta la cintura por debajo de la mesa. La composición guía la mirada pasando por el rostro, la cuchara ofrecida, los volantes del escote y el flan.
+Se plantea un ángulo de visión natural de objetivo estándar a teleobjetivo medio (aproximadamente 50 a 70 mm), evitando distorsiones de gran angular que exageren el rostro, las manos o el cuerpo. La cuchara sobresale hacia el primer plano pero sin verse desproporcionadamente gigante; el fondo mantiene un desenfoque moderado que permite identificar los muebles, las ventanas y las lámparas características de la cafetería.
+
+【Iluminación, color, textura y atmósfera】
+La fuente de luz principal es la suave luz natural que entra por la ventana a la izquierda o en diagonal frontal izquierda. Ilumina delicadamente un lado del rostro, el hombro, la tela amarillo mantequilla y la superficie del flan, mientras que en el lado opuesto se reflejan tenues destellos de la cálida iluminación interior. Las sombras son suaves, modelando un relieve tridimensional natural en mejillas, cuello y arrugas de la prenda.
+Lámparas colgantes de color ámbar en el techo o apliques de pared aportan un brillo cálido a las paredes de madera, la mesa y la salsa de caramelo. La piel muestra rubor natural y sombras finas; el cabello, definición mechón a mechón y un brillo sedoso; el encaje, delicados relieves; y la madera, una textura suave y pulida por los años. Paleta general cálida y nostálgica centrada en amarillo mantequilla, marrón moca, verde oscuro y ámbar.
+
+【Calidad y elementos a excluir】
+Fotografía fotorrealista de alta resolución. Priorizar anatomía humana realista que parezca tomada con una cámara real: manos y dedos naturales, perspectiva correcta, caída verosímil de la tela, luz y sombras equilibradas.
+Evitar apariencia menor de edad, rasgos faciales infantiles, anatomía deforme, extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones anómalas, confusión entre mano izquierda y derecha, ropa fundida con la piel, tela rota o que se clave de manera forzada, escotes o desnudez no deseada, distorsión extrema de gran angular y retoques excesivos de piel suavizada. El busto debe mantener un volumen generoso y natural, sin verse esférico, endurecido, exageradamente empujado hacia arriba o desafiando la gravedad. Sin textos, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -5058,20 +5098,20 @@ Traducción en curso
 
 <a name="prompt-2100343972665135401"></a>
 
-### Un cañón de fantasía formado por engranajes gigantescos entrelazados de piedra y bronce con figuras posadas en los dientes.
+### Un cañón de fantasía formado por gigantescos engranajes entrelazados de piedra y bronce con figuras encaramadas en los dientes.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicación original](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Otros · Publicado
 
-**Resumen:** Un cañón de fantasía formado por engranajes gigantescos entrelazados de piedra y bronce con figuras posadas en los dientes.
+**Resumen:** Un cañón de fantasía formado por gigantescos engranajes entrelazados de piedra y bronce con figuras encaramadas en los dientes.
 
 <img src="images/2100343972665135401-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Un cañón cuyas paredes son gigantescos engranajes entrelazados de piedra y bronce, el suelo es un río de arena de movimiento lento que hace girar el mecanismo, engranajes que se pausan por un suspiro en el punto más alto del sol, figuras de pie e inmóviles sobre los dientes antes de que el cañón comience de nuevo, caminantes de engranajes sobre los dientes, un guardián aceitando un eje alto, niños montando un solo engranaje, pausa de engranajes, mediodía, bloqueo del mediodía, textura realista de piedra, bronce, arena y figuras, iluminación cinematográfica, fuerte contraste entre engranajes pausados y el sol en su cenit, altamente detallado, composición impactante, atmósfera de fantasía coherente
+Un cañón cuyas paredes son gigantescos engranajes entrelazados de piedra y bronce el suelo es un río de arena de lento movimiento que hace girar el mecanismo los engranajes se detienen por un respiro en el punto más alto del sol figuras que permanecen inmóviles sobre los dientes antes de que el cañón comience de nuevo caminantes de engranajes sobre los dientes un guardián aceitando un eje elevado niños montando un solo diente de engranaje pausa de engranajes mediodía bloqueo del mediodía textura realista de piedra bronce arena y figuras iluminación cinematográfica fuerte contraste entre el engranaje detenido y el sol en su cenit altamente detallado composición impactante atmósfera de fantasía coherente
 ```
 
 [↑ Volver a categorías](#catalog)

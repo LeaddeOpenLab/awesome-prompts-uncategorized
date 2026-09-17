@@ -4283,20 +4283,50 @@ Tradução em curso
 
 <a name="prompt-2100332541437960533"></a>
 
-### Tradução em curso
+### Prompt de retrato de uma mulher japonesa a oferecer pudim num café retro ao estilo Showa.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100332541437960533)
 
 Retrô / Vintage · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato de uma mulher japonesa a oferecer pudim num café retro ao estilo Showa.
 
 <img src="images/2100332541437960533-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+🌟 Café Clássico à Tarde | O Sorriso Amarelo-Manteiga a Oferecer Pudim 🌟
+
+【Tema e Estilo Artístico】
+Retratar uma mulher japonesa de 25 anos, claramente adulta, num tradicional café retro à tarde, a oferecer uma colherada de pudim ao namorado sentado à sua frente. Uma foto de moda fotorrealista com atmosfera quotidiana e acolhedora, priorizando a intimidade de um instante natural capturado ao acaso durante um encontro, em vez de uma fotografia publicitária excessivamente produzida. Uma expressão fotográfica que equilibra uma suavidade delicada com serenidade e elegância adultas, interligando naturalmente as expressões da mulher, o seu vestuário, os seus gestos e o ar acolhedor do café numa única cena coesa.
+
+【Local, Cenário e Universo】
+O cenário é um café tradicional e sereno que preserva traços da era Showa. Ela está sentada numa pequena mesa de dois lugares junto à janela, rodeada por paredes de madeira com brilho cor de caramelo, cadeiras estofadas em veludo verde-escuro, uma mesa de madeira envelhecida pelo uso e decorações discretas em latão e vidro. Na mesa, encontram-se um pequeno prato com um clássico pudim de caramelo e um copo transparente. O copo em primeiro plano fica ligeiramente desfocado, enquanto o fundo revela suavemente outros lugares e prateleiras, compondo a profundidade do espaço e a atmosfera tranquila da tarde.
+
+【Estação, Horário e Clima】
+Época amena, entre a primavera e o início do verão. Por volta das 15h, horário em que a luz exterior ainda mantém claridade, mas começa a suavizar. O dia está solarengo a ligeiramente nublado, entrando pela janela uma luz natural suave e difusa, sem raios solares diretos intensos. No interior, a luz exterior coexiste com a iluminação quente do espaço, transmitindo a atmosfera calma de uma tarde em que se desfruta de um doce e de um café num ambiente levemente fresco.
+
+【Configuração da Personagem】
+Mulher japonesa de 25 anos, claramente adulta. Feições suaves e harmoniosas, olhos expressivos com íris pretas ligeiramente grandes, sobrancelhas naturais, dorso nasal fino e bem delineado, e lábios macios e corados. Pele em tom ocre claro, com textura realista que preserva poros, sombras subtis e viço natural. Cabelos castanho-escuros com ondas naturais que descem dos ombros até à parte superior do peito, com fios soltos e delicados em redor do rosto. Ombros e membros delicados, cintura fina e uma silhueta naturalmente curvilínea e elegante. Busto claramente volumoso e farto, retratado com tridimensionalidade suave que se adapta com naturalidade à roupa, à postura e à gravidade, mantendo o equilíbrio com o resto do corpo.
+
+【Vestuário e Acessórios】
+A peça superior é um top de alças em tom amarelo-manteiga suave e quente. Detalhes em renda com pequenos folhos adornam o decote e as alças, e o corpo da peça é feito de tecido canelado opaco de alta qualidade ou tecido fino e macio. Um design requintado para adultos, mantendo o charme sem parecer infantil. Corte realista e costura que acompanham suavemente o busto generoso, com ajuste natural, sem esticar excessivamente o tecido nem apertar. A parte inferior é uma saia midi castanho-moca. Os acessórios limitam-se a brincos pequenos e um colar fino, compondo um visual casual de encontro num café.
+
+【Pose, Movimento e Olhar】
+A mulher senta-se com naturalidade na cadeira verde-escura, com o tronco voltado de frente para o lugar oposto. Apoia a zona lombar com firmeza no encosto, com as pernas alinhadas com naturalidade sob a mesa ou ligeiramente inclinadas de lado, sem torções corporais artificiais. Com a mão direita, segura numa colher pequena com uma porção de pudim e, mantendo o cotovelo baixo, está a meio do gesto de oferecer uma colherada ao namorado num "prova um pouco". A mão esquerda repousa com naturalidade na borda da mesa ou perto do prato de pudim. A cabeça ligeiramente inclinada, mantendo o corpo de frente, direcionando apenas o olhar para a câmara.
+
+【Expressão e Emoção】
+Uma expressão íntima, descontraída e desarmada, reservada unicamente ao namorado. Um sorriso discreto nos lábios, com as sobrancelhas suavemente arqueadas, transmitindo uma doçura marota e a expectativa em relação à reação do companheiro. Não um sorriso forçado e rasgado, mas um sorriso espontâneo que suaviza os olhos, as bochechas e a boca. A ligeira inclinação da cabeça e o olhar afetuoso transmitem uma sensação de proximidade calorosa, como se dissesse "queres provar?".
+
+【Composição e Câmara】
+Composição vertical na proporção 4:5 para publicação no X. Fotografado à altura dos olhos a partir da perspetiva do namorado sentado no lugar oposto. Um pequeno espaço livre acima da cabeça, enquadrando a figura com naturalidade desde o topo da cabeça até à zona da cintura sob a mesa. Uma composição em que o rosto, a colher oferecida, os folhos do decote e o pudim fluem harmoniosamente na linha de visão. Ângulo de visão natural equivalente a uma objetiva padrão a média-teleobjetiva de 50 a 70 mm, evitando distorções de grande-angular que exagerem o rosto, as mãos ou o corpo. A colher projeta-se em direção ao primeiro plano sem ficar desproporcionadamente gigante, com o fundo moderadamente desfocado, mantendo a presença da mobília, janelas e iluminação que caracterizam o café.
+
+【Luz, Cor, Textura e Atmosfera】
+A fonte de luz principal é a luz natural suave proveniente da janela à esquerda ou na diagonal anterior esquerda. Ilumina com suavidade um lado do rosto, os ombros, o tecido amarelo-manteiga e a superfície do pudim, enquanto o lado oposto recebe uma suave luz refletida da iluminação quente do interior. Sombras suaves, sem contrastes duros, apenas o suficiente para conferir volume natural às bochechas, ao pescoço e às dobras do vestuário. Candeeiros suspensos em tom âmbar no teto e nas paredes conferem um brilho acolhedor às paredes de madeira, à mesa e ao molho de caramelo. Pele com viço natural e sombras subtis, cabelos com textura fio a fio e brilho suave, renda com relevos delicados e madeira com textura macia e desgastada pelo tempo. Paleta geral calorosa e nostálgica focada em amarelo-manteiga, castanho-moca, verde-escuro e tons de âmbar.
+
+【Qualidade e Elementos a Excluir】
+Fotografia fotorrealista em alta resolução. Priorizar anatomia humana natural, dedos das mãos, perspetiva, tensão dos tecidos e iluminação como se fosse capturada por uma câmara real. Evitar aparências de menor de idade, traços faciais infantis, corpo deformado, membros ou dedos adicionais, dedos em falta ou fundidos, articulações anormais, confusão entre mãos esquerda e direita, fusão de roupas com o corpo, deformações ou vincos anormais no tecido, nudez ou exposição involuntária, distorção extrema de grande-angular e suavização de pele excessiva (efeito airbrush). O busto deve manter um volume natural e generoso, sem parecer esferas rígidas, elevação artificial anormal ou formatos que desafiem a gravidade. Sem textos, logótipos, marcas de água ou elementos de interface do utilizador na imagem.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -5088,7 +5118,7 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Um desfiladeiro cujas paredes são gigantescas engrenagens entrelaçadas de pedra e bronze, o fundo um rio de areia de movimento lento que faz girar o mecanismo, engrenagens que pausam por uma respiração no ponto mais alto do sol, figuras imóveis sobre os dentes antes que o desfiladeiro recomece, caminhantes de engrenagens sobre os dentes, um guarda a olear um eixo alto, crianças a montar uma única roda dentada, pausa de engrenagem, meio-dia, bloqueio do meio-dia, textura realista de pedra, bronze, areia e figuras, iluminação cinematográfica, forte contraste entre engrenagens pausadas e o sol alto, altamente detalhado, composição impressionante, atmosfera fantástica coerente
+Um desfiladeiro cujas paredes são gigantescas engrenagens entrelaçadas de pedra e bronze o chão é um rio de areia de movimento lento que gira o mecanismo engrenagens que pausam por um fôlego no ponto mais alto do sol figuras imóveis sobre os dentes antes de o desfiladeiro recomeçar caminhantes de engrenagens sobre os dentes um guardião a lubrificar um eixo alto crianças a montar uma única engrenagem pausa das engrenagens meio-dia bloqueio do meio-dia textura realista de pedra bronze areia e figuras iluminação cinematográfica forte contraste de engrenagem parada contra o sol alto altamente detalhado composição impressionante atmosfera de fantasia coerente
 ```
 
 [↑ Voltar às categorias](#catalog)

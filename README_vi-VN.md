@@ -4301,20 +4301,60 @@ Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bả
 
 <a name="prompt-2100332541437960533"></a>
 
-### Đang dịch
+### Prompt chụp ảnh chân dung người phụ nữ Nhật Bản đưa thìa bánh pudding trong quán cà phê phong cách retro thời Showa.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100332541437960533)
 
 Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chụp ảnh chân dung người phụ nữ Nhật Bản đưa thìa bánh pudding trong quán cà phê phong cách retro thời Showa.
 
 <img src="images/2100332541437960533-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟 Quán cà phê hoài cổ buổi chiều | Nụ cười vàng bơ trao thìa bánh pudding 🌟
+
+【Chủ đề & Phong cách】
+Khắc họa một người phụ nữ Nhật Bản 25 tuổi, rõ ràng là người trưởng thành, đang ngồi trong một quán cà phê cổ điển vào buổi chiều và đưa một miếng bánh pudding cho người yêu ngồi đối diện. Phong cách nhiếp ảnh thời trang chân thực, đậm chất đời sống, không phải dạng ảnh quảng cáo dàn dựng quá mức, mà đề cao sự thân mật như thể tình cờ bắt trọn một khoảnh khắc tự nhiên trong buổi hẹn hò.
+Kết hợp nét đáng yêu mềm mại với sự điềm tĩnh, thanh lịch của người trưởng thành; biểu cảm, trang phục, cử chỉ của người phụ nữ cùng bầu không khí ấm áp của quán cà phê hòa quyện thành một khung cảnh tự nhiên liền mạch.
+
+【Địa điểm, Bối cảnh & Không gian】
+Bối cảnh là một quán cà phê truyền thống yên tĩnh mang đậm dấu ấn thời kỳ Showa. Ngồi ở bàn nhỏ dành cho hai người bên cửa sổ, xung quanh là những bức tường gỗ bóng màu hổ phách, ghế bọc nhung xanh lá đậm, bàn gỗ đã qua sử dụng lâu năm, cùng những chi tiết trang trí khiêm tốn bằng đồng thau và thủy tinh.
+Trên bàn đặt một chiếc đĩa nhỏ đựng bánh pudding caramel cổ điển và một chiếc ly trong suốt. Chiếc ly phía trước được làm mờ nhẹ, hậu cảnh giữ lại các chỗ ngồi và kệ tủ khác một cách êm dịu, tạo bố cục thể hiện chiều sâu của quán và bầu không khí tĩnh lặng của buổi chiều.
+
+【Mùa, Thời gian & Thời tiết】
+Mùa giao thoa êm dịu từ xuân sang đầu hạ. Khoảng 3 giờ chiều, thời điểm ánh sáng ngoài trời vẫn sáng nhưng bắt đầu trở nên dịu nhẹ hơn. Ngoài trời nắng nhẹ đến nhiều mây, ánh sáng tự nhiên dịu dàng xuyên qua cửa sổ chứ không phải ánh nắng chói chang trực tiếp.
+Trong phòng có sự giao thoa giữa ánh sáng ngoài trời và ánh đèn ấm áp, gợi lên bầu không khí buổi chiều thư thái, thưởng thức đồ ngọt và cà phê trong không gian quán mát mẻ dễ chịu.
+
+【Nhân vật】
+Phụ nữ Nhật Bản 25 tuổi, rõ ràng ở tuổi trưởng thành. Đường nét khuôn mặt thanh tú, mềm mại, đôi mắt to đen láy, hàng lông mày tự nhiên, sống mũi thon gọn, đôi môi mềm mại hồng hào. Làn da tông vàng sáng tự nhiên, giữ được cấu trúc da thực tế với lỗ chân lông, bóng mờ tinh tế và sắc da tươi tắn.
+Mái tóc nâu sẫm, gợn sóng tự nhiên dài từ vai đến trên ngực, có vài lọn tóc mai buông nhẹ quanh mặt. Vai và tay chân thon thả, vòng eo nhỏ nhắn, cùng vóc dáng đầy đặn, quyến rũ tự nhiên và thanh lịch với những đường cong hài hòa. Vòng một rõ ràng nở nang, đầy đặn nhưng được thể hiện mềm mại, tự nhiên theo trang phục, tư thế và trọng lực, giữ được sự cân đối với toàn bộ cơ thể.
+
+【Trang phục & Phụ kiện】
+Áo hai dây màu vàng bơ nhạt, ấm áp. Viền ren bèo nhỏ tinh tế ở phần ngực và dây áo, thân áo làm từ chất liệu dệt gân cao cấp không nhìn xuyên thấu hoặc vải mỏng mịn màng. Thiết kế thanh lịch dành cho người lớn, dễ thương nhưng không hề trẻ con.
+Kích cỡ và đường may thực tế ôm vừa vặn bầu ngực đầy đặn, không làm vải bị giãn căng quá mức hay thắt chặt một cách gượng gạo. Phía dưới là chân váy midi màu nâu mocha. Phụ kiện tiết chế với khuyên tai nhỏ và một sợi dây chuyền mảnh, tạo nên bộ trang phục hẹn hò đời thường tại quán cà phê.
+
+【Tư thế, Hành động & Ánh nhìn】
+Người phụ nữ ngồi tự nhiên trên chiếc ghế xanh đậm, thân trên hướng thẳng về phía người ngồi đối diện. Phần hông tựa vững vàng vào ghế, hai chân để tự nhiên hoặc hơi nghiêng nhẹ dưới gầm bàn, cơ thể không bị vặn vẹo gượng gạo.
+Tay phải cầm chiếc thìa nhỏ múc bánh pudding, giữ khuỷu tay ở vị trí thấp, đang trong khoảnh khắc đưa thìa về phía người yêu đối diện như muốn nói "ăn thử một miếng nhé". Tay trái đặt tự nhiên ở mép bàn hoặc gần đĩa bánh. Đầu hơi nghiêng nhẹ, cơ thể vẫn giữ hướng thẳng trong khi ánh mắt hướng thẳng vào ống kính.
+
+【Biểu cảm & Cảm xúc】
+Biểu cảm thân mật, không phòng bị, buông lỏng tự nhiên chỉ dành riêng cho người yêu. Nụ cười mỉm e ấp trên môi, đôi lông mày hơi nhướng lên mềm mại, pha chút nũng nịu và tinh nghịch như đang háo hức chờ đợi phản ứng từ đối phương.
+Không phải nụ cười gượng gạo mở lớn, mà là nụ cười mỉm tự nhiên nơi khóe mắt, gò má và bờ môi. Góc nghiêng nhẹ của khuôn mặt cùng ánh nhìn dịu dàng mang lại cảm giác gần gũi như đang thì thầm: "Ăn không nào?"
+
+【Bố cục & Máy ảnh】
+Bố cục dọc tỉ lệ 4:5 phù hợp cho bài đăng X. Chụp ở tầm mắt từ góc nhìn của người yêu ngồi ở ghế đối diện. Chừa một khoảng trống nhỏ phía trên đỉnh đầu, lấy trọn vẹn từ đầu đến ngang hông dưới bàn một cách tự nhiên. Bố cục dẫn dắt ánh nhìn qua khuôn mặt, chiếc thìa đưa ra, bèo ren trước ngực và đĩa bánh pudding.
+Sử dụng góc máy tự nhiên tương đương tiêu cự tiêu chuẩn đến tele tầm trung khoảng 50–70mm, tránh các hiệu ứng góc rộng làm phóng đại khuôn mặt, bàn tay hay cơ thể. Chiếc thìa hướng về phía trước khung hình nhưng không bị phóng to quá đà; hậu cảnh được làm mờ vừa phải nhưng vẫn giữ được sự hiện diện của nội thất, cửa sổ và ánh đèn đặc trưng của quán cà phê.
+
+【Ánh sáng, Màu sắc, Chất cảm & Không khí】
+Nguồn sáng chính là ánh sáng tự nhiên dịu nhẹ từ cửa sổ bên trái hoặc chếch bên trái phía trước. Nhẹ nhàng chiếu sáng một bên mặt, vai, chất vải vàng bơ và bề mặt bánh pudding, phía đối diện có ánh sáng phản chiếu nhẹ từ đèn vàng ấm áp trong quán. Đổ bóng mềm mại, tạo chiều sâu tự nhiên trên má, cổ và các nếp gấp trang phục.
+Đèn thả màu hổ phách trên trần và tường tạo độ bóng ấm áp cho tường gỗ, mặt bàn và sốt caramel. Làn da có sắc hồng tự nhiên và bóng đổ chi tiết, mái tóc rõ từng sợi mượt mà, ren có độ nổi tinh xảo, mặt gỗ mang cảm giác mịn màng đã qua thời gian sử dụng. Tổng thể mang tông màu ấm áp, hoài niệm với các gam màu vàng bơ, nâu mocha, xanh lá đậm và hổ phách làm chủ đạo.
+
+【Chất lượng & Yếu tố loại trừ】
+Ảnh chụp chân thực độ phân giải cao. Chú trọng cấu trúc cơ thể tự nhiên, ngón tay, phối cảnh, độ rủ của vải, ánh sáng và bóng đổ như được chụp bằng máy ảnh thực tế.
+Tránh hình ảnh trông như vị thành niên, khuôn mặt quá non nớt, cơ thể bất thường, thừa chi hoặc ngón tay, ngón tay bị thiếu hoặc dính liền, khớp xương dị dạng, nhầm lẫn tay trái phải, quần áo hòa lẫn vào cơ thể, lỗi kết cấu vải hoặc vải thắt nghẽn kỳ lạ, hở hang ngoài ý muốn, méo góc rộng cực đoan, chỉnh da láng mịn quá đà. Vòng một giữ kích thước đầy đặn tự nhiên, không phải hình cầu cứng nhắc, không nâng đẩy bất thường hay chống lại trọng lực. Không có văn bản, logo, hình mờ hoặc giao diện UI trong ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5103,20 +5143,20 @@ Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2100343972665135401"></a>
 
-### Một hẻm núi kỳ ảo được tạo thành bởi các bánh răng khổng lồ đan vào nhau bằng đá và đồng thiếc với các nhân vật đậu trên răng cưa.
+### Một hẻm núi kỳ ảo được tạo nên bởi các bánh răng khổng lồ bằng đá và đồng ăn khớp nhau với những bóng người đậu trên các răng cưa.
 
 Tác giả：[@RealLeeForest](https://x.com/RealLeeForest) · [Bài gốc](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Một hẻm núi kỳ ảo được tạo thành bởi các bánh răng khổng lồ đan vào nhau bằng đá và đồng thiếc với các nhân vật đậu trên răng cưa.
+**Tóm tắt:** Một hẻm núi kỳ ảo được tạo nên bởi các bánh răng khổng lồ bằng đá và đồng ăn khớp nhau với những bóng người đậu trên các răng cưa.
 
 <img src="images/2100343972665135401-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Một hẻm núi có vách là các bánh răng khổng lồ đan vào nhau bằng đá và đồng thiếc, lòng hẻm núi là một dòng sông cát chảy chậm làm quay bộ cơ chế, các bánh răng tạm dừng trong một nhịp thở khi mặt trời lên cao nhất, các bóng người đứng bất động trên các răng cưa trước khi hẻm núi bắt đầu vận hành trở lại, những người đi trên bánh răng, một người trông nom đang tra dầu vào trục bánh xe trên cao, trẻ em cưỡi trên một bánh răng đơn lẻ, sự tạm dừng của bánh răng, giữa trưa, chốt giữa trưa, kết cấu đá, đồng thiếc, cát và bóng người chân thực, ánh sáng điện ảnh, độ tương phản mạnh giữa bánh răng tạm dừng và mặt trời đứng bóng, cực kỳ chi tiết, bố cục nổi bật, bầu không khí kỳ ảo liền mạch
+Một hẻm núi có những vách đá là các bánh răng khổng lồ bằng đá và đồng ăn khớp vào nhau đáy hẻm là dòng sông cát chuyển động chậm rãi làm quay cỗ máy các bánh răng khựng lại trong một nhịp thở khi mặt trời ở vị trí cao nhất những bóng người đứng bất động trên các răng cưa trước khi hẻm núi bắt đầu chuyển động trở lại người đi trên bánh răng trên đỉnh răng cưa người canh giữ đang tra dầu vào trục bánh xe trên cao lũ trẻ cưỡi trên một bánh răng duy nhất bánh răng tạm dừng giữa trưa khóa đứng giữa trưa kết cấu đá đồng cát và nhân vật chân thực ánh sáng điện ảnh độ tương phản mạnh giữa bánh răng đứng yên và mặt trời đỉnh đầu cực kỳ chi tiết bố cục nổi bật bầu không khí kỳ ảo nhất quán
 ```
 
 [↑ Về danh mục](#catalog)

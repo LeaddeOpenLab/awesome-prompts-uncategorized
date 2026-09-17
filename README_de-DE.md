@@ -4266,20 +4266,60 @@ Illustration · 3D-Rendering · Aquarell · Charakter · Veröffentlicht
 
 <a name="prompt-2100332541437960533"></a>
 
-### Übersetzung läuft
+### Porträt-Prompt einer japanischen Frau, die in einem nostalgischen Showa-Retro-Café Pudding anbietet.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100332541437960533)
 
 Retro / Vintage · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Porträt-Prompt einer japanischen Frau, die in einem nostalgischen Showa-Retro-Café Pudding anbietet.
 
 <img src="images/2100332541437960533-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Nachmittag im Retro-Café｜Ein buttergelbes Lächeln beim Anbieten von Flan🌟
+
+【Thema & Bildstil】
+Darstellung einer eindeutig erwachsenen, 25-jährigen Japanerin in einem traditionellen Retro-Café (Kissaten) am Nachmittag, die ihrem gegenübersitzenden Partner einen Löffel Flan (Karamellpudding) anbietet. Fotorealistisches Fashion-Foto mit lebendiger Alltagsästhetik; keine überinszenierte Werbefotografie, sondern geprägt von einer Intimität, die wie ein zufällig eingefangener, natürlicher Moment während eines Dates wirkt.
+Mit einer weichen Liebenswürdigkeit, gepaart mit erwachsener Gelassenheit und Eleganz, verbinden sich der Gesichtsausdruck der Frau, ihre Kleidung, ihre Gesten und die warme Atmosphäre des Cafés zu einer harmonischen fotografischen Szene.
+
+【Ort, Hintergrund & Welt】
+Schauplatz ist ein ruhiges, traditionelles Café mit dem Charme der Showa-Ära. Sie sitzt an einem kleinen Zweiertisch am Fenster; im Umfeld sind honigfarben glänzende Holzwände, mit dunkelgrünem Samt bezogene Stühle, ein abgenutzter Holztisch sowie dezente Dekorationen aus Messing und Glas zu sehen.
+Auf dem Tisch stehen ein kleiner Teller mit klassischem Karamellpudding und ein transparentes Glas. Das Glas im Vordergrund ist leicht unscharf gehalten, während im Hintergrund andere Tische und Regale sanft erkennbar bleiben – eine Komposition, die die Tiefe des Raumes und die ruhige Nachmittagsstimmung spürbar macht.
+
+【Jahreszeit, Tageszeit & Wetter】
+Die Jahreszeit ist die milde Periode zwischen Frühling und Frühsommer. Gegen 15:00 Uhr nachmittags – eine Zeit, in der das Außenlicht noch hell ist, aber allmählich weicher wird. Draußen ist es heiter bis leicht bewölkt; kein grelles, direktes Sonnenlicht, sondern sanftes Tageslicht, das durch das Fenster fällt.
+Im Innenraum treffen Außenlicht und warme Innenbeleuchtung aufeinander und erzeugen die beruhigende Atmosphäre eines Nachmittags, an dem man in kühlerem Ambiente Süßes und Kaffee genießt.
+
+【Charakterbeschreibung】
+25-jährige, unverkennbar erwachsene Japanerin. Sanfte, ebenmäßige Gesichtszüge, etwas größere, ausdrucksstarke dunkle Augen, natürliche Augenbrauen, ein feiner, klarer Nasenrücken und weiche, gut durchblutete Lippen. Helle Ocker-Haut mit realistischer Textur, die Poren, feine Schattierungen und natürliche Frische bewahrt.
+Dunkelbraunes Haar mit natürlichen Wellen, die von den Schultern bis knapp über die Brust fallen. Zarte lose Strähnen umrahmen ihr Gesicht. Zierliche Schultern und Gliedmaßen, eine schlanke Taille und eine kurvige, natürlich-glamouröse und elegante Silhouette in harmonischen Proportionen. Eine deutlich große, üppige Oberweite, die sich jedoch mit weicher Dreidimensionalität natürlich in Kleidung, Haltung und Schwerkraft einfügt und das Gesamtbild ausgewogen hält.
+
+【Kleidung & Accessoires】
+Als Oberteil ein Camisole-Top in zartem, warmem Buttergelb. Der Ausschnitt und die Träger sind mit feiner Rüschenspitze verziert; das Oberteil besteht aus blickdichtem, hochwertigem Rippstrick oder glattem, feinem Stoff. Reizend, ohne kindlich zu wirken, in einem anspruchsvollen, eleganten Design für Erwachsene.
+Mit realistischer Passform und Schnittführung, die sich mühelos an die üppige Oberweite anschmiegt, mit natürlichem Sitz ohne übermäßiges Spannen oder Einschneiden des Stoffes. Dazu ein midilanger Rock in Mokkabraun. Dezente Accessoires wie kleine Ohrringe und eine zarte Halskette, passend für ein alltägliches Café-Date.
+
+【Pose, Bewegung & Blick】
+Die Frau sitzt natürlich auf dem dunkelgrünen Stuhl, der Oberkörper fast frontal dem Gegenüber zugewandt. Die Hüfte ruht stabil auf der Sitzfläche, die Beine sind unter dem Tisch natürlich parallel oder leicht schräg platziert, ohne unnatürliche Verdrehung des Körpers.
+In der rechten Hand hält sie einen kleinen Löffel mit Pudding, den Ellbogen tief gehalten, mitten in der Geste, ihn ihrem gegenübersitzenden Partner mit einem „Möchtest du probieren?“ anzubieten. Die linke Hand ruht ungezwungen am Tischrand oder nahe dem Puddingteller. Der Kopf ist leicht geneigt, der Körper bleibt frontal, während nur der Blick direkt in die Kamera gerichtet ist.
+
+【Ausdruck & Emotion】
+Ein vertrauter, unbefangener und intimer Gesichtsausdruck, den sie nur ihrem Partner zeigt. Ein dezentes Lächeln auf den Lippen, die Augenbrauen ganz leicht und weich angehoben, mit einem Hauch von Verspieltheit und Zärtlichkeit, als freue sie sich neugierig auf seine Reaktion.
+Kein breites, aufgesetztes Lachen, sondern ein Lächeln, bei dem sich Augenpartie, Wangen und Mundwinkel sanft entspannen. Die leichte Kopfneigung und der ruhige Blick schaffen eine spürbare Nähe, als würde sie gerade fragen: „Probierst du?“. 
+
+【Komposition & Kamera】
+Vertikale 4:5-Komposition für X (Twitter). Auf Augenhöhe aus der Perspektive des gegenübersitzenden Partners fotografiert. Über dem Kopf bleibt etwas Freiraum; die Figur ist vom Kopf bis zum Bereich der Hüfte unter der Tischkante natürlich im Bild. Gesicht, dargebotener Löffel, Rüschen am Ausschnitt und der Pudding liegen harmonisch im visuellen Fluss.
+Angedacht ist ein natürlicher Bildwinkel im Bereich von 50 bis 70 mm (Standard bis leichtes Tele), unter Vermeidung von Weitwinkelverzerrungen, die Gesicht, Hände oder Körper übertreiben würden. Der Löffel ragt in den Vordergrund, ohne extrem vergrößert zu wirken; der Hintergrund ist moderat unscharf, lässt aber Möbel, Fenster und Lampen des Cafés klar erkennbar.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Hauptlichtquelle ist sanftes Tageslicht, das von links oder schräg links vorn durch das Fenster einfällt. Es erhellt behutsam eine Gesichtshälfte, die Schulter, den buttergelben Stoff und die Oberfläche des Puddings, während auf der abgewandten Seite schwache Reflexionen der warmen Innenbeleuchtung wirken. Die Schatten bleiben weich und modellieren natürliche Dreidimensionalität an Wangen, Hals und Stofffalten.
+Bernsteinfarbene Pendelleuchten an Decke oder Wänden verleihen den Holzwänden, dem Tisch und der Karamellsauce einen warmen Glanz. Die Haut zeigt natürliche Vitalität und feine Schattierungen, das Haar einzelne Strähnen und sanften Glanz, die Spitze feine Reliefs und das Holz eine geschmeidig abgenutzte Haptik. Das Gesamtbild wird von warmen, nostalgischen Tönen wie Buttergelb, Mokkabraun, Dunkelgrün und Bernstein dominiert.
+
+【Qualität & Ausschlusskriterien】
+Fotorealistisches High-Resolution-Foto. Fokus auf natürliche menschliche Anatomie, Hände/Finger, Perspektive, Stoffspannung sowie Licht und Schatten wie bei einer echten Kameraaufnahme.
+Zu vermeiden sind: minderjährig wirkende Züge, zu kindliches Gesicht, anatomische Deformationen, überzählige Gliedmaßen/Finger, fehlende oder verschmolzene Finger, unnatürliche Gelenke, Verwechslung von linker und rechter Hand, Verschmelzen von Kleidung und Haut, zerrissener oder unnatürlich einschneidender Stoff, unbeabsichtigte Entblößung, extreme Weitwinkelverzerrung und übertriebene Hautglättung (Beauty-Filter). Die Brust behält ihr üppiges, natürliches Volumen und darf nicht starr kugelförmig, unnatürlich hochgedrückt oder der Schwerkraft trotzend dargestellt werden. Keinerlei Text, Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -5058,20 +5098,20 @@ Charakter · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2100343972665135401"></a>
 
-### Ein Fantasy-Canyon aus riesigen, ineinandergreifenden Stein- und Bronzezahnrädern mit auf den Zähnen thronenden Gestalten.
+### Ein Fantasy-Canyon, der aus riesigen, ineinandergreifenden Stein- und Bronzezahnrädern besteht, auf deren Zähnen Gestalten verweilen.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Originalbeitrag](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Ein Fantasy-Canyon aus riesigen, ineinandergreifenden Stein- und Bronzezahnrädern mit auf den Zähnen thronenden Gestalten.
+**Zusammenfassung:** Ein Fantasy-Canyon, der aus riesigen, ineinandergreifenden Stein- und Bronzezahnrädern besteht, auf deren Zähnen Gestalten verweilen.
 
 <img src="images/2100343972665135401-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Ein Canyon, dessen Wände riesige ineinandergreifende Zahnräder aus Stein und Bronze sind, der Boden ein sich langsam bewegender Sandfluss, der den Mechanismus antreibt, Zahnräder, die für einen Atemzug am höchsten Punkt der Sonne innehalten, Gestalten, die still auf den Zähnen stehen, bevor der Canyon wieder beginnt, Zahnradwanderer auf den Zähnen, ein Wärter, der eine hohe Achse ölt, Kinder, die auf einem einzelnen Zahnrad reiten, Zahnradpause, Mittag, Mittagssperre, realistische Stein-, Bronze-, Sand- und Figurenbeschaffenheit, filmische Beleuchtung, starker Kontrast zwischen angehaltenem Getriebe und hoher Sonne, hochdetailliert, markante Komposition, kohärente Fantasy-Atmosphäre
+Ein Canyon dessen Wände riesige ineinandergreifende Zahnräder aus Stein und Bronze sind der Boden ein langsam fließender Fluss aus Sand der den Mechanismus antreibt Zahnräder die für einen Atemzug am höchsten Stand der Sonne verharren Gestalten die regungslos auf den Zähnen stehen bevor der Canyon wieder einsetzt Zahnrad-Wanderer auf den Zähnen ein Wächter der eine hohe Achse ölt Kinder die auf einem einzelnen Zahnrad reiten Zahnrad-Pause Mittag Mittagsverriegelung realistische Stein- Bronze- Sand- und Figurenbeschaffenheit filmische Beleuchtung starker Kontrast zwischen angehaltenen Zahnrädern und hochstehender Sonne hochdetailliert auffallende Komposition kohärente Fantasy-Atmosphäre
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
