@@ -1,0 +1,120 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:26:35.745Z",
+  "model": "unknown-image",
+  "prompt": "芸術性を強く意識した写真作品。横から射し込む朝の自然光。鮮やかなポジフィルムの画質。Cleavage",
+  "promptTranslations": {
+    "en": "A photographic work strongly emphasizing artistry. Natural morning light streaming in from the side. Vivid positive film image quality. Cleavage"
+  },
+  "summaryTranslations": {
+    "en": "An artistic portrait photography prompt of a woman showing cleavage, emphasizing natural morning light and vivid positive film tones."
+  },
+  "translationVersion": 2,
+  "summary": "朝の自然光と鮮やかなポジフィルム調を意識した、谷間を見せる女性の芸術的ポートレート写真プロンプト。",
+  "summaryEn": "Artistic portrait photo prompt featuring natural morning sidelight and vivid film tones emphasizing cleavage.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100170309135376623",
+      "canonicalUrl": "https://x.com/bobbizyo/status/2100170309135376623",
+      "author": {
+        "username": "bobbizyo",
+        "displayName": "ボブ美女",
+        "profileUrl": "https://x.com/bobbizyo"
+      },
+      "originalText": "谷間を出そうとしてエラーに悩まされている人も多いと思いますが、「ボタン3つ外した白シャツ＋緩めたネクタイ」の指定なら、GrokもChatGPTもめちゃくちゃスムーズに通りました💡\n\n直接的な露出ワードを一切使わず、制服の着崩しとして描写するだけで、この破壊力...。\n\n↓リプでコピペで使えるプロンプト公開してます（grok / ChatGPT 検証済み）\n\nぜひお好きな女の子で試してみてください☺️"
+    },
+    "id": "2100414246110761243",
+    "canonicalUrl": "https://x.com/55hawks/status/2100414246110761243",
+    "author": {
+      "username": "55hawks",
+      "displayName": "ストップ!!さとしくん！",
+      "profileUrl": "https://x.com/55hawks"
+    },
+    "publishedAt": "2026-09-17T02:39:14.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "ja",
+    "originalText": "「谷間を出してみろ」と言われた気がした😅\n\n#AIart #AI美女 \nPrompt:\n芸術性を強く意識した写真作品。横から射し込む朝の自然光。鮮やかなポジフィルムの画質。Cleavage https://t.co/zFw8Z0jXgk",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSYm7Zub0AADQm_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSYm7Zub0AADQm_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVNw35bQAEStuI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVNw35bQAEStuI.jpg",
+        "sourcePostId": "2100170309135376623"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 978
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/55hawks/status/2100414246110761243",
+  "coverUrl": "https://pbs.twimg.com/media/HSYm7Zub0AADQm_.jpg",
+  "coverPath": "images/2100414246110761243-1.jpg",
+  "imagePaths": [
+    "images/2100414246110761243-1.jpg",
+    "images/2100414246110761243-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSYm7Zub0AADQm_",
+    "x-image:/media/HSVNw35bQAEStuI",
+    "x-post:2100414246110761243",
+    "x-post:2100170309135376623"
+  ],
+  "analysis": {
+    "summary": "朝の自然光と鮮やかなポジフィルム調を意識した、谷間を見せる女性の芸術的ポートレート写真プロンプト。",
+    "summaryEn": "Artistic portrait photo prompt featuring natural morning sidelight and vivid film tones emphasizing cleavage.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像表现为清晨侧逆光人像摄影，质感符合反转胶片风格，人物着内衣露出乳沟，与提示词描述高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "芸術性を強く意識した写真作品。横から射し込む朝の自然光。鮮やかなポジフィルムの画質。Cleavage",
+    "sourceRange": {
+      "start": 44,
+      "end": 94
+    },
+    "translations": {
+      "zh": "注重艺术感的摄影作品。侧面射入的清晨自然光。鲜艳的反转胶片画质。乳沟",
+      "en": "Artistic photo shoot. Morning natural light from the side. Vivid slide film quality. Cleavage"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI写真生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [
+        "mild_nudity"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:29:24.226Z",
+  "model": "unknown-video",
+  "prompt": "make a film using js, 20 seconds, the life of a request inside a GPU server, riso look, a seed dot as the anchor.",
+  "promptTranslations": {
+    "en": "make a film using js, 20 seconds, the life of a request inside a GPU server, riso look, a seed dot as the anchor."
+  },
+  "summaryTranslations": {
+    "en": "A 20-second riso-style animation showing a request's lifecycle inside a GPU server with a seed dot anchor."
+  },
+  "translationVersion": 2,
+  "summary": "A 20-second riso-style animation showing a request's lifecycle inside a GPU server with a seed dot anchor.",
+  "summaryEn": "A 20-second riso-style animation showing a request's lifecycle inside a GPU server with a seed dot anchor.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100424342123458593",
+    "canonicalUrl": "https://x.com/SandeshRajx/status/2100424342123458593",
+    "author": {
+      "username": "SandeshRajx",
+      "displayName": "Sandesh Raj",
+      "profileUrl": "https://x.com/SandeshRajx"
+    },
+    "publishedAt": "2026-09-17T03:19:21.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "en",
+    "originalText": "I tried generating videos with javascript and cheap models. Here is what that looked like. \n\nskill used: https://t.co/JIm18SrUng\nprompt: make a film using js, 20 seconds, the life of a request inside a GPU server, riso look, a seed dot as the anchor.\n\n1. Luna https://t.co/KNcDBYyTVM",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/SandeshRajx/status/2100424342123458593",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100424157569990656/img/p77lnlf8DeJRV7lk.jpg",
+        "analysisUrl": "https://x.com/SandeshRajx/status/2100424342123458593"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 20
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/SandeshRajx/status/2100424342123458593",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100424157569990656/img/p77lnlf8DeJRV7lk.jpg",
+  "coverPath": "covers/2100424342123458593.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100424157569990656",
+    "x-post:2100424342123458593"
+  ],
+  "analysis": {
+    "summary": "A 20-second riso-style animation showing a request's lifecycle inside a GPU server with a seed dot anchor.",
+    "summaryEn": "A 20-second riso-style animation showing a request's lifecycle inside a GPU server with a seed dot anchor.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video directly matches the 20-second length, riso texture, central seed dot anchor, and GPU request lifecycle stages."
+    },
+    "videoQuality": null,
+    "originalPrompt": "make a film using js, 20 seconds, the life of a request inside a GPU server, riso look, a seed dot as the anchor.",
+    "sourceRange": {
+      "start": 137,
+      "end": 250
+    },
+    "translations": {
+      "zh": "用 JS 制作一段 20 秒影片，展现请求在 GPU 服务器内的生命周期，孔版印刷风格，以种子点为锚点。",
+      "en": "make a film using js, 20 seconds, the life of a request inside a GPU server, riso look, a seed dot as the anchor."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "Technical motion graphics animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

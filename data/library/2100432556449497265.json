@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:29:17.494Z",
+  "model": "unknown-image",
+  "prompt": "a close up studio portrait of a woman with vibrant red hair, green eyes, and prominent freckles. her wet, messy hair is swept across her face, with strands falling over one eye. she wears warm, gold eye makeup, contoured blush, and glossy lips. she is dressed in an ornate high collared jacket of dark green metallic brocade adorned with heavy gold embroidery and golden charms. large, dangling gold earrings with intricate cage designs hang from her ear. the background is a soft, dark olive green gradient, and the lighting is dramatic, casting deep shadows and highlighting the texture of her skin.",
+  "promptTranslations": {
+    "en": "a close up studio portrait of a woman with vibrant red hair, green eyes, and prominent freckles. her wet, messy hair is swept across her face, with strands falling over one eye. she wears warm, gold eye makeup, contoured blush, and glossy lips. she is dressed in an ornate high collared jacket of dark green metallic brocade adorned with heavy gold embroidery and golden charms. large, dangling gold earrings with intricate cage designs hang from her ear. the background is a soft, dark olive green gradient, and the lighting is dramatic, casting deep shadows and highlighting the texture of her skin."
+  },
+  "summaryTranslations": {
+    "en": "A studio portrait of a woman with red hair, green eyes, freckles, and ornate dark green gold-embroidered clothing."
+  },
+  "translationVersion": 2,
+  "summary": "A studio portrait of a woman with red hair, green eyes, freckles, and ornate dark green gold-embroidered clothing.",
+  "summaryEn": "A studio portrait of a woman with red hair, green eyes, freckles, and ornate dark green gold-embroidered clothing.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100432556449497265",
+    "canonicalUrl": "https://x.com/RobotCleopatra/status/2100432556449497265",
+    "author": {
+      "username": "RobotCleopatra",
+      "displayName": "Skipper VanderWall",
+      "profileUrl": "https://x.com/RobotCleopatra"
+    },
+    "publishedAt": "2026-09-17T03:52:00.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "en",
+    "originalText": "GOLDEN PROMPT\na close up studio portrait of a woman with vibrant red hair, green eyes, and prominent freckles. her wet, messy hair is swept across her face, with strands falling over one eye. she wears warm, gold eye makeup, contoured blush, and glossy lips. she is dressed in an ornate high collared jacket of dark green metallic brocade adorned with heavy gold embroidery and golden charms. large, dangling gold earrings with intricate cage designs hang from her ear. the background is a soft, dark olive green gradient, and the lighting is dramatic, casting deep shadows and highlighting the texture of her skin.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUBP_uW0AAfhjg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUBP_uW0AAfhjg.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 165
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RobotCleopatra/status/2100432556449497265",
+  "coverUrl": "https://pbs.twimg.com/media/HSUBP_uW0AAfhjg.jpg",
+  "coverPath": "images/2100432556449497265-1.jpg",
+  "imagePaths": [
+    "images/2100432556449497265-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUBP_uW0AAfhjg",
+    "x-post:2100432556449497265"
+  ],
+  "analysis": {
+    "summary": "A studio portrait of a woman with red hair, green eyes, freckles, and ornate dark green gold-embroidered clothing.",
+    "summaryEn": "A studio portrait of a woman with red hair, green eyes, freckles, and ornate dark green gold-embroidered clothing.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image precisely mirrors the subject, wet red hair, freckles, gold embroidery, and dramatic lighting described in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "a close up studio portrait of a woman with vibrant red hair, green eyes, and prominent freckles. her wet, messy hair is swept across her face, with strands falling over one eye. she wears warm, gold eye makeup, contoured blush, and glossy lips. she is dressed in an ornate high collared jacket of dark green metallic brocade adorned with heavy gold embroidery and golden charms. large, dangling gold earrings with intricate cage designs hang from her ear. the background is a soft, dark olive green gradient, and the lighting is dramatic, casting deep shadows and highlighting the texture of her skin.",
+    "sourceRange": {
+      "start": 14,
+      "end": 615
+    },
+    "translations": {
+      "zh": "一位红发、绿眼、带有明显雀斑的女性特写棚拍肖像。湿乱的头发掠过脸庞，画着暖金眼妆，身着刺绣金饰的深绿织锦高领外套，佩戴垂坠金耳环，橄榄绿渐变背景与戏剧化光影。",
+      "en": "a close up studio portrait of a woman with vibrant red hair, green eyes, and prominent freckles. her wet, messy hair is swept across her face, with strands falling over one eye. she wears warm, gold eye makeup, contoured blush, and glossy lips. she is dressed in an ornate high collared jacket of dark green metallic brocade adorned with heavy gold embroidery and golden charms. large, dangling gold earrings with intricate cage designs hang from her ear. the background is a soft, dark olive green gradient, and the lighting is dramatic, casting deep shadows and highlighting the texture of her skin."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

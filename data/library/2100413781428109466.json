@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:26:31.581Z",
+  "model": "unknown-image",
+  "prompt": "超写实工业车库时尚摄影，竖版约 3:4，一名明确成年的女性，20+，半躺在一辆白色双门跑车的驾驶座内，身体大部分被车门和车窗遮住，双腿从完全打开的侧窗向外伸出并自然垂下，成为画面最醒目的视觉主体。摄影者位于车辆左后侧约 2–3 米，采用 28–35mm 等效镜头，机位略低于车窗高度，完整保留跑车后半车身、人物双腿以及大面积工业建筑环境。\n\n车辆为白色低矮双门中置/后置跑车，流畅圆润车顶、黑色轮毂、低扁轮胎、深色车窗、车侧进气口和红色尾灯清楚可见。画面以车辆右后侧三分之二视角为主，车头指向画面左侧，车尾靠近画面右下，白色车漆在昏暗环境里带柔和冷白反光。\n\n人物姿势是重点：上半身位于驾驶舱内部，几乎看不到脸部，臀胯靠在车窗下缘，两条腿从窗口伸出，一侧膝盖明显弯曲搭在窗框附近，另一条腿向下垂落，两条小腿彼此错开。动作带一点随意、叛逆的时尚抓拍感，不要改成站在车旁或坐在引擎盖上。\n\n人物腿部修长、自然纤细，大腿保持真实柔软体积。穿黑色半透明大腿袜 / thigh-high stockings，袜口位于大腿中上部，宽黑边清楚可见，袜身约 20–30D，能轻微透出肤色。脚穿黑色尖头细高跟鞋，鞋跟较高且纤细，脚尖自然朝向地面，一只鞋由于腿部姿势略向外伸展。\n\n车内人物上身服装只需露出少量黑色贴身短装 / 黑色连体衣边缘，不要强行生成完整造型，重点保持“身体隐藏在车内、只突出双腿”的构图。\n\n场景为超高挑工业 loft 车库 / 改装车展厅。背景墙是深灰色裸砖和水泥结构，层高很高，顶部窗户和大面积黑框玻璃门从左侧引入强烈自然光。黑色金属窗框、裸露梁柱、灰色混凝土地面、墙面散热器等工业元素清楚可见。\n\n左后方的大型落地玻璃门外是强烈过曝的白色日光和模糊院落，使室内形成非常明显的明暗反差。人物腿部、白色跑车和地面受到门外自然光侧向照亮，而车库深处压入阴影。\n\n画面最右侧边缘可以出现另一名成年女性被裁切的局部手臂或身体边缘，像有人站在旁边观看或拍摄，但只作为很次要的边缘元素，不抢主体。\n\n整体呈 2000s–2010s 暗调汽车时尚写真 / 数码相机抓拍质感：高反差、暗部较深、白色车漆略亮、轻微颗粒、有限动态范围、背景基本清楚，不要电影级强调色。\n\n重点锁定：白色双门跑车＋工业 loft 车库＋驾驶侧车窗打开＋成年女性身体藏在车内＋两条腿从车窗伸出垂下＋黑色半透明大腿袜＋黑色尖头细高跟鞋＋黑色轮毂＋深灰砖墙＋巨大玻璃门＋强烈侧逆光＋暗调汽车时尚抓拍。\n\n避免：人物站在车旁、坐在车顶、坐引擎盖、整个人露出车外、裸腿、白袜、网袜、运动鞋、粗跟鞋、普通家用车、户外停车场、明亮摄影棚、夜店霓虹、过度 HDR、动漫脸、CG 感、多余肢体、水印和乱码文字。",
+  "promptTranslations": {
+    "en": "Photorealistic industrial garage fashion photography, vertical aspect ratio approximately 3:4, an explicitly adult female, 20+, reclining inside the driver's seat of a white two-door sports car, most of her body obscured by the car door and window, her legs extending out from the fully open side window and dangling naturally, serving as the most striking visual subject of the composition. The photographer is positioned about 2–3 meters to the rear left of the vehicle, using a 28–35mm equivalent lens, camera angle slightly below window height, completely capturing the rear half of the sports car's body, the subject's legs, and a large expanse of the industrial architectural environment.\n\nThe vehicle is a white, low-profile two-door mid-/rear-engine sports car; sleek rounded roofline, black wheels, low-profile tires, dark tinted windows, side air intakes, and red taillights are clearly visible. The composition is dominated by a rear three-quarter view of the vehicle, with the front pointing toward the left of the frame, the rear near the bottom right, and the white paint having soft cool-white reflections in the dim setting.\n\nThe subject's pose is the focal point: the upper body is inside the cockpit, face barely visible, hips resting against the lower edge of the window frame, both legs extending out of the window, one knee noticeably bent resting near the window sill, the other leg hanging downward, the two calves staggered relative to each other. The pose carries a casual, rebellious fashion snapshot vibe; do not change to standing beside the car or sitting on the hood.\n\nThe legs are slender, naturally shapely, with thighs retaining realistic, soft volume. Wearing black semi-sheer thigh-high stockings, with the welt situated on the upper-middle thigh, wide black band clearly visible, stocking denier around 20–30D, subtly revealing skin tone beneath. On her feet are black pointed-toe stiletto high heels, with high and slender heels, toes naturally pointing toward the ground, one shoe slightly angled outward due to the leg posture.\n\nThe upper-body attire of the figure inside the car only needs to reveal a small glimpse of the edge of a black form-fitting cropped top / black bodysuit; do not force a complete outfit to be visible, prioritize maintaining the composition of 'body concealed inside the car, only highlighting the legs'.\n\nThe scene is an ultra-high-ceiling industrial loft garage / custom car showroom. The background wall consists of dark gray exposed brick and concrete structures, with high ceilings, upper clerestory windows, and large black-framed glass doors introducing strong natural light from the left side. Industrial elements such as black metal window frames, exposed beams and columns, gray concrete floor, and wall-mounted radiators are clearly visible.\n\nOutside the large floor-to-ceiling glass door at the rear left is intense, blown-out white daylight and a blurred courtyard, creating a striking chiaroscuro contrast indoors. The subject's legs, the white sports car, and the floor are illuminated laterally by natural light from outside the door, while the depths of the garage recede into deep shadows.\n\nAt the far right edge of the frame, a cropped partial arm or body edge of another adult female may appear, as if someone is standing nearby watching or photographing, but only as a minor peripheral element that does not distract from the main subject.\n\nThe overall aesthetic presents a 2000s–2010s moody automotive fashion photoshoot / digital camera snapshot texture: high contrast, deep shadows, slightly luminous white car paint, subtle grain, limited dynamic range, background largely distinct, without cinematic color grading.\n\nKey focus: white two-door sports car + industrial loft garage + driver-side window open + adult female body hidden inside car + two legs dangling out the window + black semi-sheer thigh-high stockings + black pointed-toe stiletto high heels + black wheels + dark gray brick wall + massive glass door + strong lateral backlight + moody automotive fashion snapshot.\n\nAvoid: figure standing by the car, sitting on the car roof, sitting on the hood, full body visible outside the car, bare legs, white socks, fishnets, sneakers, chunky heels, ordinary family sedan, outdoor parking lot, brightly lit studio, nightclub neon, excessive HDR, anime face, CG look, extra limbs, watermarks, and garbled text."
+  },
+  "summaryTranslations": {
+    "en": "Fashion photoshoot with a white supercar inside an industrial loft garage, female legs in black stockings and high heels dangling out the car window."
+  },
+  "translationVersion": 2,
+  "summary": "工业loft车库内白色超跑时尚写真，车内女性双腿穿黑丝高跟伸出车窗垂下。",
+  "summaryEn": "Fashion snapshot in an industrial loft garage featuring a white supercar with a woman's legs in black stockings dangling out the window.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100413781428109466",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2100413781428109466",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-17T02:37:23.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "zh",
+    "originalText": "Gm☀️\n\nPrompt：超写实工业车库时尚摄影，竖版约 3:4，一名明确成年的女性，20+，半躺在一辆白色双门跑车的驾驶座内，身体大部分被车门和车窗遮住，双腿从完全打开的侧窗向外伸出并自然垂下，成为画面最醒目的视觉主体。摄影者位于车辆左后侧约 2–3 米，采用 28–35mm 等效镜头，机位略低于车窗高度，完整保留跑车后半车身、人物双腿以及大面积工业建筑环境。\n\n车辆为白色低矮双门中置/后置跑车，流畅圆润车顶、黑色轮毂、低扁轮胎、深色车窗、车侧进气口和红色尾灯清楚可见。画面以车辆右后侧三分之二视角为主，车头指向画面左侧，车尾靠近画面右下，白色车漆在昏暗环境里带柔和冷白反光。\n\n人物姿势是重点：上半身位于驾驶舱内部，几乎看不到脸部，臀胯靠在车窗下缘，两条腿从窗口伸出，一侧膝盖明显弯曲搭在窗框附近，另一条腿向下垂落，两条小腿彼此错开。动作带一点随意、叛逆的时尚抓拍感，不要改成站在车旁或坐在引擎盖上。\n\n人物腿部修长、自然纤细，大腿保持真实柔软体积。穿黑色半透明大腿袜 / thigh-high stockings，袜口位于大腿中上部，宽黑边清楚可见，袜身约 20–30D，能轻微透出肤色。脚穿黑色尖头细高跟鞋，鞋跟较高且纤细，脚尖自然朝向地面，一只鞋由于腿部姿势略向外伸展。\n\n车内人物上身服装只需露出少量黑色贴身短装 / 黑色连体衣边缘，不要强行生成完整造型，重点保持“身体隐藏在车内、只突出双腿”的构图。\n\n场景为超高挑工业 loft 车库 / 改装车展厅。背景墙是深灰色裸砖和水泥结构，层高很高，顶部窗户和大面积黑框玻璃门从左侧引入强烈自然光。黑色金属窗框、裸露梁柱、灰色混凝土地面、墙面散热器等工业元素清楚可见。\n\n左后方的大型落地玻璃门外是强烈过曝的白色日光和模糊院落，使室内形成非常明显的明暗反差。人物腿部、白色跑车和地面受到门外自然光侧向照亮，而车库深处压入阴影。\n\n画面最右侧边缘可以出现另一名成年女性被裁切的局部手臂或身体边缘，像有人站在旁边观看或拍摄，但只作为很次要的边缘元素，不抢主体。\n\n整体呈 2000s–2010s 暗调汽车时尚写真 / 数码相机抓拍质感：高反差、暗部较深、白色车漆略亮、轻微颗粒、有限动态范围、背景基本清楚，不要电影级强调色。\n\n重点锁定：白色双门跑车＋工业 loft 车库＋驾驶侧车窗打开＋成年女性身体藏在车内＋两条腿从车窗伸出垂下＋黑色半透明大腿袜＋黑色尖头细高跟鞋＋黑色轮毂＋深灰砖墙＋巨大玻璃门＋强烈侧逆光＋暗调汽车时尚抓拍。\n\n避免：人物站在车旁、坐在车顶、坐引擎盖、整个人露出车外、裸腿、白袜、网袜、运动鞋、粗跟鞋、普通家用车、户外停车场、明亮摄影棚、夜店霓虹、过度 HDR、动漫脸、CG 感、多余肢体、水印和乱码文字。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSYrMrbbUAAmcZ-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSYrMrbbUAAmcZ-.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 892
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2100413781428109466",
+  "coverUrl": "https://pbs.twimg.com/media/HSYrMrbbUAAmcZ-.jpg",
+  "coverPath": "images/2100413781428109466-1.jpg",
+  "imagePaths": [
+    "images/2100413781428109466-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSYrMrbbUAAmcZ-",
+    "x-post:2100413781428109466"
+  ],
+  "analysis": {
+    "summary": "工业loft车库内白色超跑时尚写真，车内女性双腿穿黑丝高跟伸出车窗垂下。",
+    "summaryEn": "Fashion snapshot in an industrial loft garage featuring a white supercar with a woman's legs in black stockings dangling out the window.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图完整还原了工业 loft 车库、白色兰博基尼风格超跑、车窗伸出穿黑丝与高跟鞋的修长双腿，构图与光影完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实工业车库时尚摄影，竖版约 3:4，一名明确成年的女性，20+，半躺在一辆白色双门跑车的驾驶座内，身体大部分被车门和车窗遮住，双腿从完全打开的侧窗向外伸出并自然垂下，成为画面最醒目的视觉主体。摄影者位于车辆左后侧约 2–3 米，采用 28–35mm 等效镜头，机位略低于车窗高度，完整保留跑车后半车身、人物双腿以及大面积工业建筑环境。\n\n车辆为白色低矮双门中置/后置跑车，流畅圆润车顶、黑色轮毂、低扁轮胎、深色车窗、车侧进气口和红色尾灯清楚可见。画面以车辆右后侧三分之二视角为主，车头指向画面左侧，车尾靠近画面右下，白色车漆在昏暗环境里带柔和冷白反光。\n\n人物姿势是重点：上半身位于驾驶舱内部，几乎看不到脸部，臀胯靠在车窗下缘，两条腿从窗口伸出，一侧膝盖明显弯曲搭在窗框附近，另一条腿向下垂落，两条小腿彼此错开。动作带一点随意、叛逆的时尚抓拍感，不要改成站在车旁或坐在引擎盖上。\n\n人物腿部修长、自然纤细，大腿保持真实柔软体积。穿黑色半透明大腿袜 / thigh-high stockings，袜口位于大腿中上部，宽黑边清楚可见，袜身约 20–30D，能轻微透出肤色。脚穿黑色尖头细高跟鞋，鞋跟较高且纤细，脚尖自然朝向地面，一只鞋由于腿部姿势略向外伸展。\n\n车内人物上身服装只需露出少量黑色贴身短装 / 黑色连体衣边缘，不要强行生成完整造型，重点保持“身体隐藏在车内、只突出双腿”的构图。\n\n场景为超高挑工业 loft 车库 / 改装车展厅。背景墙是深灰色裸砖和水泥结构，层高很高，顶部窗户和大面积黑框玻璃门从左侧引入强烈自然光。黑色金属窗框、裸露梁柱、灰色混凝土地面、墙面散热器等工业元素清楚可见。\n\n左后方的大型落地玻璃门外是强烈过曝的白色日光和模糊院落，使室内形成非常明显的明暗反差。人物腿部、白色跑车和地面受到门外自然光侧向照亮，而车库深处压入阴影。\n\n画面最右侧边缘可以出现另一名成年女性被裁切的局部手臂或身体边缘，像有人站在旁边观看或拍摄，但只作为很次要的边缘元素，不抢主体。\n\n整体呈 2000s–2010s 暗调汽车时尚写真 / 数码相机抓拍质感：高反差、暗部较深、白色车漆略亮、轻微颗粒、有限动态范围、背景基本清楚，不要电影级强调色。\n\n重点锁定：白色双门跑车＋工业 loft 车库＋驾驶侧车窗打开＋成年女性身体藏在车内＋两条腿从车窗伸出垂下＋黑色半透明大腿袜＋黑色尖头细高跟鞋＋黑色轮毂＋深灰砖墙＋巨大玻璃门＋强烈侧逆光＋暗调汽车时尚抓拍。\n\n避免：人物站在车旁、坐在车顶、坐引擎盖、整个人露出车外、裸腿、白袜、网袜、运动鞋、粗跟鞋、普通家用车、户外停车场、明亮摄影棚、夜店霓虹、过度 HDR、动漫脸、CG 感、多余肢体、水印和乱码文字。",
+    "sourceRange": {
+      "start": 13,
+      "end": 1144
+    },
+    "translations": {
+      "zh": "超写实工业车库时尚摄影，竖版约 3:4，一名明确成年的女性，20+，半躺在一辆白色双门跑车的驾驶座内，身体大部分被车门和车窗遮住，双腿从完全打开的侧窗向外伸出并自然垂下，成为画面最醒目的视觉主体。摄影者位于车辆左后侧约 2–3 米，采用 28–35mm 等效镜头，机位略低于车窗高度，完整保留跑车后半车身、人物双腿以及大面积工业建筑环境。\n\n车辆为白色低矮双门中置/后置跑车，流畅圆润车顶、黑色轮毂、低扁轮胎、深色车窗、车侧进气口和红色尾灯清楚可见。画面以车辆右后侧三分之二视角为主，车头指向画面左侧，车尾靠近画面右下，白色车漆在昏暗环境里带柔和冷白反光。\n\n人物姿势是重点：上半身位于驾驶舱内部，几乎看不到脸部，臀胯靠在车窗下缘，两条腿从窗口伸出，一侧膝盖明显弯曲搭在窗框附近，另一条腿向下垂落，两条小腿彼此错开。动作带一点随意、叛逆的时尚抓拍感，不要改成站在车旁或坐在引擎盖上。\n\n人物腿部修长、自然纤细，大腿保持真实柔软体积。穿黑色半透明大腿袜 / thigh-high stockings，袜口位于大腿中上部，宽黑边清楚可见，袜身约 20–30D，能轻微透出肤色。脚穿黑色尖头细高跟鞋，鞋跟较高且纤细，脚尖自然朝向地面，一只鞋由于腿部姿势略向外伸展。\n\n车内人物上身服装只需露出少量黑色贴身短装 / 黑色连体衣边缘，不要强行生成完整造型，重点保持“身体隐藏在车内、只突出双腿”的构图。\n\n场景为超高挑工业 loft 车库 / 改装车展厅。背景墙是深灰色裸砖和水泥结构，层高很高，顶部窗户和大面积黑框玻璃门从左侧引入强烈自然光。黑色金属窗框、裸露梁柱、灰色混凝土地面、墙面散热器等工业元素清楚可见。\n\n左后方的大型落地玻璃门外是强烈过曝的白色日光和模糊院落，使室内形成非常明显的明暗反差。人物腿部、白色跑车和地面受到门外自然光侧向照亮，而车库深处压入阴影。\n\n画面最右侧边缘可以出现另一名成年女性被裁切的局部手臂或身体边缘，像有人站在旁边观看或拍摄，但只作为很次要的边缘元素，不抢主体。\n\n整体呈 2000s–2010s 暗调汽车时尚写真 / 数码相机抓拍质感：高反差、暗部较深、白色车漆略亮、轻微颗粒、有限动态范围、背景基本清楚，不要电影级强调色。\n\n重点锁定：白色双门跑车＋工业 loft 车库＋驾驶侧车窗打开＋成年女性身体藏在车内＋两条腿从车窗伸出垂下＋黑色半透明大腿袜＋黑色尖头细高跟鞋＋黑色轮毂＋深灰砖墙＋巨大玻璃门＋强烈侧逆光＋暗调汽车时尚抓拍。\n\n避免：人物站在车旁、坐在车顶、坐引擎盖、整个人露出车外、裸腿、白袜、网袜、运动鞋、粗跟鞋、普通家用车、户外停车场、明亮摄影棚、夜店霓虹、过度 HDR、动漫脸、CG 感、多余肢体、水印和乱码文字。",
+      "en": "Photorealistic industrial loft garage fashion photography, vertical 3:4 ratio. An adult female (20+) is semi-reclined in the driver's seat of a white two-door sports car, with most of her body obscured inside the cabin while her legs hang naturally out of the fully open side window as the main focal point. Shot from the rear-three-quarter perspective with a 28-35mm lens. The car features black rims, low-profile tires, side air intakes, and red taillights. The woman wears black sheer thigh-high stockings (20-30D) and black pointed stiletto high heels. The loft setting includes high ceilings, exposed brick, concrete floors, and large glass pane doors letting in strong, high-contrast daylight from the side. 2000s-2010s dark-toned automotive fashion editorial style with realistic snapshot grain and high contrast."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "汽车与时尚摄影人像生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

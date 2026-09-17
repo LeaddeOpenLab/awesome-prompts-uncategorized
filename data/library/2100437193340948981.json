@@ -1,0 +1,165 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T04:29:00.315Z",
+  "model": "unknown-image",
+  "prompt": "{角色A}把自己的{作品内容}发到朋友圈，其他角色在评论区互动。中文社交平台朋友圈截图，包含主帖、配图、正文、点赞和评论区，9:16。所有评论必须严格符合各角色的性格、经历、身份、说话方式、过往事件，以及他们与角色A之间的真实关系和权力地位。不是简单按性格发言，而是要体现谁敬畏、谁害怕、谁奉承、谁忌惮、谁阴阳、谁敢正面怼、谁只能委婉表达。公开评论与真实态度可以不一致，允许表面客气、话里有话、自我审查、站队、敷衍附和、楼中楼互呛。整体要像这些角色真的会在朋友圈这样评论。动漫或游戏角色统一转化为真人版社交平台截图。",
+  "promptTranslations": {
+    "en": "{Character A} posts their {content of the work} to Moments, and other characters interact in the comment section. A screenshot of a Chinese social media platform's Moments feed, containing the main post, accompanying images, body text, likes, and comment section, 9:16. All comments must strictly align with each character's personality, background, identity, speaking style, past events, as well as their actual relationship and power dynamics with Character A. Instead of simply speaking according to basic personality types, it must reflect who is in awe, who is fearful, who flatters, who is apprehensive, who is passive-aggressive, who dares to confront head-on, and who can only express themselves tactfully. Public comments do not have to match true attitudes, allowing for surface-level politeness, veiled subtext, self-censorship, taking sides, perfunctory chiming in, and threaded sub-comment bickering. The overall execution must look as if these characters would genuinely comment like this on Moments. Anime or game characters are uniformly converted into a live-action version of a social media platform screenshot."
+  },
+  "summaryTranslations": {
+    "en": "Prompt template for generating a 9:16 Chinese Moments screenshot where a designated character posts an update and triggers interactions from other characters based on their personalities and relationships."
+  },
+  "translationVersion": 2,
+  "summary": "生成指定角色发布动态并引发其他角色根据性格与关系互动的9:16中文朋友圈截图提示词模板。",
+  "summaryEn": "Prompt template for generating 9:16 Chinese social media Moments screenshots showing characters interacting based on lore and relationships.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100414488860316088",
+      "canonicalUrl": "https://x.com/VoxcatAI/status/2100414488860316088",
+      "author": {
+        "username": "VoxcatAI",
+        "displayName": "VoxCat",
+        "profileUrl": "https://x.com/VoxcatAI"
+      },
+      "originalText": "这个提示词很好玩：\n\n把世界观里的重大事件，做成“民间论坛爆帖”。\n\n不是官方叙事，而是偷拍视频、模糊截图、红圈分析、路线图、人物关系图，再加一群网友互相争论。\n\n最有意思的地方就是：\n真消息、假消息、猜测、阴谋论混在一起。\n\n特别适合原神、火影、LOL、EVA、艾尔登法环，也适合玄武门、赤壁、凯撒遇刺这种历史事件。\n\n提示词：\n\n{世界观重大事件}发生后，民间论坛出现大量猜测、偷拍视频、分析图和互相争论的回复，真假信息混杂。"
+    },
+    "id": "2100437193340948981",
+    "canonicalUrl": "https://x.com/VoxcatAI/status/2100437193340948981",
+    "author": {
+      "username": "VoxcatAI",
+      "displayName": "VoxCat",
+      "profileUrl": "https://x.com/VoxcatAI"
+    },
+    "publishedAt": "2026-09-17T04:10:25.000Z",
+    "collectedAt": "2026-09-17T04:16:57.158Z",
+    "language": "zh",
+    "originalText": "这次试了个“角色朋友圈”。\n\n让角色按性格随便评论，\n把人物之间的关系、地位、经历和利益也一起塞进评论区。\n\n这样出来就不只是“说话像不像这个角色”，\n而是真的像这些人有朋友圈以后，会发生的互动。😂\n\n尤其是把公开态度和真实态度拆开之后，评论区会有那种很明显的站队、奉承、自我审查、敷衍、暗讽和楼中楼互呛。\n\nPrompt：\n\n{角色A}把自己的{作品内容}发到朋友圈，其他角色在评论区互动。中文社交平台朋友圈截图，包含主帖、配图、正文、点赞和评论区，9:16。所有评论必须严格符合各角色的性格、经历、身份、说话方式、过往事件，以及他们与角色A之间的真实关系和权力地位。不是简单按性格发言，而是要体现谁敬畏、谁害怕、谁奉承、谁忌惮、谁阴阳、谁敢正面怼、谁只能委婉表达。公开评论与真实态度可以不一致，允许表面客气、话里有话、自我审查、站队、敷衍附和、楼中楼互呛。整体要像这些角色真的会在朋友圈这样评论。动漫或游戏角色统一转化为真人版社交平台截图。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZAeYVbgAAAxQU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZAeYVbgAAAxQU.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZAeVSbAAAzkfG.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZAeVSbAAAzkfG.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZAeVWaEAAK9Px.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZAeVWaEAAK9Px.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZAeYSaYAAzrMo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZAeYSaYAAzrMo.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSYr1pja8AAgIKv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSYr1pja8AAgIKv.jpg",
+        "sourcePostId": "2100414488860316088"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSYr1plbEAA4WNQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSYr1plbEAA4WNQ.jpg",
+        "sourcePostId": "2100414488860316088"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSYr1mca4AAmjBp.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSYr1mca4AAmjBp.jpg",
+        "sourcePostId": "2100414488860316088"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSYr1mga4AAl3D6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSYr1mga4AAl3D6.jpg",
+        "sourcePostId": "2100414488860316088"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 131
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/VoxcatAI/status/2100437193340948981",
+  "coverUrl": "https://pbs.twimg.com/media/HSZAeYVbgAAAxQU.jpg",
+  "coverPath": "images/2100437193340948981-1.jpg",
+  "imagePaths": [
+    "images/2100437193340948981-1.jpg",
+    "images/2100437193340948981-2.jpg",
+    "images/2100437193340948981-3.jpg",
+    "images/2100437193340948981-4.jpg",
+    "images/2100437193340948981-5.jpg",
+    "images/2100437193340948981-6.jpg",
+    "images/2100437193340948981-7.jpg",
+    "images/2100437193340948981-8.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSZAeYVbgAAAxQU",
+    "x-image:/media/HSZAeVSbAAAzkfG",
+    "x-image:/media/HSZAeVWaEAAK9Px",
+    "x-image:/media/HSZAeYSaYAAzrMo",
+    "x-image:/media/HSYr1pja8AAgIKv",
+    "x-image:/media/HSYr1plbEAA4WNQ",
+    "x-image:/media/HSYr1mca4AAmjBp",
+    "x-image:/media/HSYr1mga4AAl3D6",
+    "x-post:2100437193340948981",
+    "x-post:2100414488860316088"
+  ],
+  "analysis": {
+    "summary": "生成指定角色发布动态并引发其他角色根据性格与关系互动的9:16中文朋友圈截图提示词模板。",
+    "summaryEn": "Prompt template for generating 9:16 Chinese social media Moments screenshots showing characters interacting based on lore and relationships.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图前四张展示了明日香、DIO、祖国人、金克丝的9:16朋友圈截图，包含主帖配图、点赞及契合性格人设的评论区，与提示词模板一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "{角色A}把自己的{作品内容}发到朋友圈，其他角色在评论区互动。中文社交平台朋友圈截图，包含主帖、配图、正文、点赞和评论区，9:16。所有评论必须严格符合各角色的性格、经历、身份、说话方式、过往事件，以及他们与角色A之间的真实关系和权力地位。不是简单按性格发言，而是要体现谁敬畏、谁害怕、谁奉承、谁忌惮、谁阴阳、谁敢正面怼、谁只能委婉表达。公开评论与真实态度可以不一致，允许表面客气、话里有话、自我审查、站队、敷衍附和、楼中楼互呛。整体要像这些角色真的会在朋友圈这样评论。动漫或游戏角色统一转化为真人版社交平台截图。",
+    "sourceRange": {
+      "start": 164,
+      "end": 422
+    },
+    "translations": {
+      "zh": "{角色A}把自己的{作品内容}发到朋友圈，其他角色在评论区互动。中文社交平台朋友圈截图，包含主帖、配图、正文、点赞和评论区，9:16。所有评论必须严格符合各角色的性格、经历、身份、说话方式、过往事件，以及他们与角色A之间的真实关系和权力地位。不是简单按性格发言，而是要体现谁敬畏、谁害怕、谁奉承、谁忌惮、谁阴阳、谁敢正面怼、谁只能委婉表达。公开评论与真实态度可以不一致，允许表面客气、话里有话、自我审查、站队、敷衍附和、楼中楼互呛。整体要像这些角色真的会在朋友圈这样评论。动漫或游戏角色统一转化为真人版社交平台截图。",
+      "en": "{Character A} posts their {content} to WeChat Moments, and other characters interact in the comments. Chinese social media Moments screenshot, including main post, image, text, likes, and comment section, 9:16 ratio. All comments must strictly align with each character's personality, lore, status, tone, past events, and power dynamics relative to Character A. Reveal varying attitudes like reverence, fear, flattery, sarcasm, confrontation, or evasion. Discrepancies between public comments and true thoughts are encouraged, including passive aggression and threaded arguments. Anime or game characters are adapted into live-action styles."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "生成动漫或影视角色在社交媒体朋友圈互动的高拟真截图。",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "可能涉及第三方动漫或影视角色IP"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
