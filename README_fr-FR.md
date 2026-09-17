@@ -5058,20 +5058,20 @@ Traduction en cours
 
 <a name="prompt-2100343972665135401"></a>
 
-### Traduction en cours
+### Un canyon fantastique formé de gigantesques engrenages imbriqués de pierre et de bronze avec des silhouettes perchées sur les dents.
 
 Auteur：[@RealLeeForest](https://x.com/RealLeeForest) · [Publication originale](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un canyon fantastique formé de gigantesques engrenages imbriqués de pierre et de bronze avec des silhouettes perchées sur les dents.
 
 <img src="images/2100343972665135401-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un canyon dont les parois sont de gigantesques engrenages imbriqués de pierre et de bronze, le sol un fleuve de sable au mouvement lent qui fait tourner le mécanisme, des engrenages qui s'arrêtent le temps d'un souffle au point le plus haut du soleil, des silhouettes immobiles sur les dents avant que le canyon ne redémarre, des marcheurs d'engrenages sur les dents, un gardien huilant un axe élevé, des enfants chevauchant un seul rouage, pause d'engrenage, midi, verrou de midi, texture réaliste de la pierre, du bronze, du sable et des silhouettes, éclairage cinématographique, fort contraste entre engrenages arrêtés et soleil zénithal, hautement détaillé, composition saisissante, atmosphère fantastique cohérente
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -5080,13 +5080,13 @@ Traduction en cours
 
 <a name="prompt-2100349144896262406"></a>
 
-### Traduction en cours
+### Ancien fossile de données d'un astronaute gravé dans des ruines numériques avec des glyphes cyan lumineux.
 
 Auteur：[@Shinebynous](https://x.com/Shinebynous) · [Publication originale](https://x.com/Shinebynous/status/2100349144896262406)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Ancien fossile de données d'un astronaute gravé dans des ruines numériques avec des glyphes cyan lumineux.
 
 <img src="images/2100349144896262406-1.jpg" alt="Image 1" width="480" />
 
@@ -5095,7 +5095,7 @@ Autres · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Un ancien fossile de données d'astronaute, où le sujet est gravé dans des ruines numériques, sa forme encodée dans les vestiges d'une civilisation disparue. Des glyphes cryptiques cyan électrique pulsent contre une structure d'obsidienne décomposée, racontant une histoire oubliée d'éternité artificielle.
 ```
 
 [↑ Retour aux catégories](#catalog)

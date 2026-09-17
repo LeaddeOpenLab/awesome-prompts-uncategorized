@@ -5103,20 +5103,20 @@ Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 <a name="prompt-2100343972665135401"></a>
 
-### Đang dịch
+### Một hẻm núi kỳ ảo được tạo thành bởi các bánh răng khổng lồ đan vào nhau bằng đá và đồng thiếc với các nhân vật đậu trên răng cưa.
 
 Tác giả：[@RealLeeForest](https://x.com/RealLeeForest) · [Bài gốc](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một hẻm núi kỳ ảo được tạo thành bởi các bánh răng khổng lồ đan vào nhau bằng đá và đồng thiếc với các nhân vật đậu trên răng cưa.
 
 <img src="images/2100343972665135401-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một hẻm núi có vách là các bánh răng khổng lồ đan vào nhau bằng đá và đồng thiếc, lòng hẻm núi là một dòng sông cát chảy chậm làm quay bộ cơ chế, các bánh răng tạm dừng trong một nhịp thở khi mặt trời lên cao nhất, các bóng người đứng bất động trên các răng cưa trước khi hẻm núi bắt đầu vận hành trở lại, những người đi trên bánh răng, một người trông nom đang tra dầu vào trục bánh xe trên cao, trẻ em cưỡi trên một bánh răng đơn lẻ, sự tạm dừng của bánh răng, giữa trưa, chốt giữa trưa, kết cấu đá, đồng thiếc, cát và bóng người chân thực, ánh sáng điện ảnh, độ tương phản mạnh giữa bánh răng tạm dừng và mặt trời đứng bóng, cực kỳ chi tiết, bố cục nổi bật, bầu không khí kỳ ảo liền mạch
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5125,13 +5125,13 @@ Khác · Đã xuất bản
 
 <a name="prompt-2100349144896262406"></a>
 
-### Đang dịch
+### Hóa thạch dữ liệu cổ đại của một phi hành gia được khắc vào tàn tích kỹ thuật số với các ký tự màu xanh lơ phát sáng.
 
 Tác giả：[@Shinebynous](https://x.com/Shinebynous) · [Bài gốc](https://x.com/Shinebynous/status/2100349144896262406)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hóa thạch dữ liệu cổ đại của một phi hành gia được khắc vào tàn tích kỹ thuật số với các ký tự màu xanh lơ phát sáng.
 
 <img src="images/2100349144896262406-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -5140,7 +5140,7 @@ Khác · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hóa thạch dữ liệu cổ đại của một phi hành gia, nơi chủ thể được khắc vào tàn tích kỹ thuật số, hình hài của họ được mã hóa vào tàn dư của một nền văn minh đã mất. Những ký tự màu xanh lơ điện quang bí ẩn xung động trên khung hắc diện thạch mục nát, kể về câu chuyện bị lãng quên của sự vĩnh cửu nhân tạo.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -5058,20 +5058,20 @@ Charakter · Landschaft / Natur · Veröffentlicht
 
 <a name="prompt-2100343972665135401"></a>
 
-### Übersetzung läuft
+### Ein Fantasy-Canyon aus riesigen, ineinandergreifenden Stein- und Bronzezahnrädern mit auf den Zähnen thronenden Gestalten.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Originalbeitrag](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Fantasy-Canyon aus riesigen, ineinandergreifenden Stein- und Bronzezahnrädern mit auf den Zähnen thronenden Gestalten.
 
 <img src="images/2100343972665135401-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein Canyon, dessen Wände riesige ineinandergreifende Zahnräder aus Stein und Bronze sind, der Boden ein sich langsam bewegender Sandfluss, der den Mechanismus antreibt, Zahnräder, die für einen Atemzug am höchsten Punkt der Sonne innehalten, Gestalten, die still auf den Zähnen stehen, bevor der Canyon wieder beginnt, Zahnradwanderer auf den Zähnen, ein Wärter, der eine hohe Achse ölt, Kinder, die auf einem einzelnen Zahnrad reiten, Zahnradpause, Mittag, Mittagssperre, realistische Stein-, Bronze-, Sand- und Figurenbeschaffenheit, filmische Beleuchtung, starker Kontrast zwischen angehaltenem Getriebe und hoher Sonne, hochdetailliert, markante Komposition, kohärente Fantasy-Atmosphäre
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -5080,13 +5080,13 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2100349144896262406"></a>
 
-### Übersetzung läuft
+### Uraltes Datenfossil eines Astronauten, eingraviert in digitale Ruinen mit leuchtenden zyanfarbenen Glyphen.
 
 Autor：[@Shinebynous](https://x.com/Shinebynous) · [Originalbeitrag](https://x.com/Shinebynous/status/2100349144896262406)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Uraltes Datenfossil eines Astronauten, eingraviert in digitale Ruinen mit leuchtenden zyanfarbenen Glyphen.
 
 <img src="images/2100349144896262406-1.jpg" alt="Bild 1" width="480" />
 
@@ -5095,7 +5095,7 @@ Sonstige · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein uraltes Datenfossil eines Astronauten, dessen Gestalt in digitale Ruinen eingraviert und in die Überreste einer verlorenen Zivilisation kodiert ist. Kryptische, elektrisch zyanfarbene Glyphen pulsieren auf einem verfallenen Obsidian-Rahmenwerk und erzählen eine vergessene Geschichte künstlicher Ewigkeit.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

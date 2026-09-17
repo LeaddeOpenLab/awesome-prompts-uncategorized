@@ -5058,20 +5058,20 @@ Traduzione in corso
 
 <a name="prompt-2100343972665135401"></a>
 
-### Traduzione in corso
+### Un canyon fantasy formato da giganteschi ingranaggi di pietra e bronzo incastrati tra loro con figure arroccate sui denti.
 
 Autore：[@RealLeeForest](https://x.com/RealLeeForest) · [Post originale](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un canyon fantasy formato da giganteschi ingranaggi di pietra e bronzo incastrati tra loro con figure arroccate sui denti.
 
 <img src="images/2100343972665135401-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un canyon le cui pareti sono giganteschi ingranaggi interconnessi di pietra e bronzo, il suolo un fiume di sabbia che scorre lentamente e fa girare il meccanismo, ingranaggi che si fermano per un respiro nel punto più alto del sole, figure immobili sui denti prima che il canyon riprenda a muoversi, camminatori di ingranaggi sui denti, un custode che lubrifica un asse alto, bambini a cavalcioni di un singolo dente, pausa dell'ingranaggio, mezzogiorno, blocco di mezzogiorno, texture realistica di pietra, bronzo, sabbia e figure, illuminazione cinematografica, forte contrasto tra ingranaggio fermo e sole alto, estremamente dettagliato, composizione d'impatto, coerente atmosfera fantasy
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -5080,13 +5080,13 @@ Traduzione in corso
 
 <a name="prompt-2100349144896262406"></a>
 
-### Traduzione in corso
+### Antico fossile di dati di un astronauta inciso in rovine digitali con glifi ciano luminosi.
 
 Autore：[@Shinebynous](https://x.com/Shinebynous) · [Post originale](https://x.com/Shinebynous/status/2100349144896262406)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Antico fossile di dati di un astronauta inciso in rovine digitali con glifi ciano luminosi.
 
 <img src="images/2100349144896262406-1.jpg" alt="Immagine 1" width="480" />
 
@@ -5095,7 +5095,7 @@ Altro · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Un antico fossile di dati di un astronauta, in cui il soggetto è inciso in rovine digitali, la sua forma codificata nei resti di una civiltà perduta. Criptici glifi ciano elettrico pulsano contro una struttura di ossidiana decaduta, raccontando una storia dimenticata di eternità artificiale.
 ```
 
 [↑ Torna alle categorie](#catalog)

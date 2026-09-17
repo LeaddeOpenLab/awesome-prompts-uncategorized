@@ -5075,20 +5075,20 @@ Tradução em curso
 
 <a name="prompt-2100343972665135401"></a>
 
-### Tradução em curso
+### Um desfiladeiro de fantasia formado por gigantescas engrenagens entrelaçadas de pedra e bronze com figuras empoleiradas nos dentes.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicação original](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um desfiladeiro de fantasia formado por gigantescas engrenagens entrelaçadas de pedra e bronze com figuras empoleiradas nos dentes.
 
 <img src="images/2100343972665135401-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um desfiladeiro cujas paredes são gigantescas engrenagens entrelaçadas de pedra e bronze, o fundo um rio de areia de movimento lento que faz girar o mecanismo, engrenagens que pausam por uma respiração no ponto mais alto do sol, figuras imóveis sobre os dentes antes que o desfiladeiro recomece, caminhantes de engrenagens sobre os dentes, um guarda a olear um eixo alto, crianças a montar uma única roda dentada, pausa de engrenagem, meio-dia, bloqueio do meio-dia, textura realista de pedra, bronze, areia e figuras, iluminação cinematográfica, forte contraste entre engrenagens pausadas e o sol alto, altamente detalhado, composição impressionante, atmosfera fantástica coerente
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -5097,13 +5097,13 @@ Tradução em curso
 
 <a name="prompt-2100349144896262406"></a>
 
-### Tradução em curso
+### Antigo fóssil de dados de um astronauta gravado em ruínas digitais com glifos ciano brilhantes.
 
 Autor：[@Shinebynous](https://x.com/Shinebynous) · [Publicação original](https://x.com/Shinebynous/status/2100349144896262406)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Antigo fóssil de dados de um astronauta gravado em ruínas digitais com glifos ciano brilhantes.
 
 <img src="images/2100349144896262406-1.jpg" alt="Imagem 1" width="480" />
 
@@ -5112,7 +5112,7 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Um antigo fóssil de dados de um astronauta, onde o sujeito está gravado em ruínas digitais, com a sua forma codificada nos vestígios de uma civilização perdida. Glifos crípticos em ciano elétrico pulsam contra uma estrutura de obsidiana degradada, contando uma história esquecida de eternidade artificial.
 ```
 
 [↑ Voltar às categorias](#catalog)

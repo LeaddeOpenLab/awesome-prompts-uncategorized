@@ -5075,20 +5075,20 @@ Karakter · Manzara / Doğa · Yayımlandı
 
 <a name="prompt-2100343972665135401"></a>
 
-### Çeviri sürüyor
+### Birbirine geçmiş devasa taş ve bronz dişlilerden oluşan ve dişlerin üzerine tünemiş figürlerin bulunduğu fantastik bir kanyon.
 
 Yazar：[@RealLeeForest](https://x.com/RealLeeForest) · [Orijinal gönderi](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Birbirine geçmiş devasa taş ve bronz dişlilerden oluşan ve dişlerin üzerine tünemiş figürlerin bulunduğu fantastik bir kanyon.
 
 <img src="images/2100343972665135401-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Duvarları taştan ve bronzdan yapılmış devasa birbirine geçmiş dişlilerden oluşan bir kanyon, zemin mekanizmayı döndüren yavaş hareket eden bir kum nehri, güneşin en yüksek noktasında bir nefeslik duraklayan dişliler, kanyon yeniden çalışmaya başlamadan önce dişlerin üzerinde hareketsiz duran figürler, dişlerin üzerinde yürüyen dişli gezginleri, yüksek bir dingili yağlayan bir bekçi, tek bir dişliye binmiş çocuklar, dişli duraklaması, öğle vakti, öğle kilidi, gerçekçi taş, bronz, kum ve figür dokusu, sinematik aydınlatma, durmuş dişli ile tepedeki güneş arasında güçlü kontrast, son derece ayrıntılı, çarpıcı kompozisyon, tutarlı fantastik atmosfer
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -5097,13 +5097,13 @@ Diğer · Yayımlandı
 
 <a name="prompt-2100349144896262406"></a>
 
-### Çeviri sürüyor
+### Parlayan camgöbeği gliflerle dijital harabelere kazınmış bir astronotun kadim veri fosili.
 
 Yazar：[@Shinebynous](https://x.com/Shinebynous) · [Orijinal gönderi](https://x.com/Shinebynous/status/2100349144896262406)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Parlayan camgöbeği gliflerle dijital harabelere kazınmış bir astronotun kadim veri fosili.
 
 <img src="images/2100349144896262406-1.jpg" alt="Görsel 1" width="480" />
 
@@ -5112,7 +5112,7 @@ Diğer · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Öznenin dijital harabelere kazındığı, biçiminin kayıp bir uygarlığın kalıntılarına kodlandığı bir astronotun Kadim Veri Fosili. Gizemli elektrik camgöbeği glifler, çürümüş bir obsidyen çerçevenin üzerinde nabız gibi atarak yapay sonsuzluğun unutulmuş bir hikayesini anlatıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -5103,20 +5103,20 @@ Traducción en curso
 
 <a name="prompt-2100343972665135401"></a>
 
-### Traducción en curso
+### Un cañón de fantasía formado por gigantescos engranajes entrelazados de piedra y bronce con figuras posadas sobre los dientes.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicación original](https://x.com/RealLeeForest/status/2100343972665135401)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un cañón de fantasía formado por gigantescos engranajes entrelazados de piedra y bronce con figuras posadas sobre los dientes.
 
 <img src="images/2100343972665135401-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un cañón cuyas paredes son gigantescos engranajes entrelazados de piedra y bronce, el suelo es un río de arena de lento movimiento que hace girar el mecanismo, engranajes que se detienen por un respiro en el punto más alto del sol, figuras de pie e inmóviles sobre los dientes antes de que el cañón comience de nuevo, caminantes de engranajes sobre los dientes, un guardián aceitando un eje alto, niños montando un solo engranaje, pausa de engranajes, mediodía, bloqueo del mediodía, textura realista de piedra, bronce, arena y figuras, iluminación cinematográfica, fuerte contraste entre los engranajes detenidos y el sol en lo alto, muy detallado, composición impactante, atmósfera de fantasía coherente
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -5125,13 +5125,13 @@ Traducción en curso
 
 <a name="prompt-2100349144896262406"></a>
 
-### Traducción en curso
+### Antiguo fósil de datos de un astronauta grabado en ruinas digitales con glifos cian brillantes.
 
 Autor：[@Shinebynous](https://x.com/Shinebynous) · [Publicación original](https://x.com/Shinebynous/status/2100349144896262406)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Antiguo fósil de datos de un astronauta grabado en ruinas digitales con glifos cian brillantes.
 
 <img src="images/2100349144896262406-1.jpg" alt="Imagen 1" width="480" />
 
@@ -5140,7 +5140,7 @@ Otros · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Un antiguo fósil de datos de un astronauta, donde el sujeto está grabado en ruinas digitales, con su forma codificada en los vestigios de una civilización perdida. Crípticos glifos de color cian eléctrico pulsan contra una estructura de obsidiana deteriorada, narrando una historia olvidada de eternidad artificial.
 ```
 
 [↑ Volver a categorías](#catalog)
