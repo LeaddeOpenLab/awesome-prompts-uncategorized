@@ -3989,20 +3989,20 @@ Tanınabilir telif hakkıyla korunan karakterlerden, ünlü benzerliklerinden, m
 
 <a name="prompt-2100361373863825594"></a>
 
-### Çeviri sürüyor
+### Birlikte oturup gülen 3 kişi.
 
 Yazar：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Orijinal gönderi](https://x.com/andrew_n_carr/status/2100361373863825594)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Birlikte oturup gülen 3 kişi.
 
 <img src="covers/2100361373863825594.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Birlikte oturup gülen 3 kişi.
 ```
 
 [↑ Kategorilere dön](#catalog)

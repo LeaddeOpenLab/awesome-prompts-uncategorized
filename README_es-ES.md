@@ -4007,20 +4007,20 @@ Evita personajes reconocibles con derechos de autor, parecidos a celebridades, o
 
 <a name="prompt-2100361373863825594"></a>
 
-### Traducción en curso
+### 3 personas sentadas alrededor y riendo.
 
 Autor：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Publicación original](https://x.com/andrew_n_carr/status/2100361373863825594)
 
 Render 3D · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** 3 personas sentadas alrededor y riendo.
 
 <img src="covers/2100361373863825594.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+3 personas sentadas alrededor y riendo.
 ```
 
 [↑ Volver a categorías](#catalog)

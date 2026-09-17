@@ -3989,20 +3989,20 @@ Evite personagens reconhecíveis protegidos por direitos autorais, semelhanças 
 
 <a name="prompt-2100361373863825594"></a>
 
-### Tradução em andamento
+### 3 pessoas sentadas juntas e rindo.
 
 Autor：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Publicação original](https://x.com/andrew_n_carr/status/2100361373863825594)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** 3 pessoas sentadas juntas e rindo.
 
 <img src="covers/2100361373863825594.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+3 pessoas sentadas juntas e rindo.
 ```
 
 [↑ Voltar às categorias](#catalog)

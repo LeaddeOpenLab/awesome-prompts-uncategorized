@@ -3989,20 +3989,20 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 
 <a name="prompt-2100361373863825594"></a>
 
-### 翻訳中
+### 車座になって笑い合っている3人の人々。
 
 作者：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [元の投稿](https://x.com/andrew_n_carr/status/2100361373863825594)
 
 3D レンダリング · 配信済み
 
-**概要:** 翻訳中
+**概要:** 車座になって笑い合っている3人の人々。
 
 <img src="covers/2100361373863825594.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+車座になって笑い合っている3人の人々。
 ```
 
 [↑ カテゴリに戻る](#catalog)

@@ -3989,20 +3989,20 @@ Evite personagens reconhecíveis protegidas por direitos de autor, parecenças c
 
 <a name="prompt-2100361373863825594"></a>
 
-### Tradução em curso
+### 3 pessoas sentadas à volta a rir.
 
 Autor：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Publicação original](https://x.com/andrew_n_carr/status/2100361373863825594)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** 3 pessoas sentadas à volta a rir.
 
 <img src="covers/2100361373863825594.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+3 pessoas sentadas à volta a rir.
 ```
 
 [↑ Voltar às categorias](#catalog)

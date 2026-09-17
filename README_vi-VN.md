@@ -4007,20 +4007,20 @@ Tránh các nhân vật có bản quyền dễ nhận biết, chân dung ngườ
 
 <a name="prompt-2100361373863825594"></a>
 
-### Đang dịch
+### 3 người đang ngồi quây quần và cười đùa.
 
 Tác giả：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Bài gốc](https://x.com/andrew_n_carr/status/2100361373863825594)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** 3 người đang ngồi quây quần và cười đùa.
 
 <img src="covers/2100361373863825594.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+3 người đang ngồi quây quần và cười đùa.
 ```
 
 [↑ Về danh mục](#catalog)
