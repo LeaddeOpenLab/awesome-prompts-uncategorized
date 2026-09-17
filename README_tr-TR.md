@@ -101,20 +101,60 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2100331674039181383"></a>
 
-### Çeviri sürüyor
+### Eski bir Batı tarzı konağın pencere kenarında oturup soluk lavanta rengi narin iç çamaşırıyla kitabını kapatan yetişkin bir kadını doğal ışıkta yakalayan fotogerçekçi, editoryal portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100331674039181383)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Eski bir Batı tarzı konağın pencere kenarında oturup soluk lavanta rengi narin iç çamaşırıyla kitabını kapatan yetişkin bir kadını doğal ışıkta yakalayan fotogerçekçi, editoryal portre istemi.
 
 <img src="images/2100331674039181383-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Eski Bir Batı Tarzı Konağın Pencere Kenarı | Lavanta Rengi Dantel ve Kitabın Kapandığı Bir Öğleden Sonra🌟
+
+【Konu ve Sanat Tarzı】
+Eski bir Batı tarzı konağın pencere kenarında, okumasını bitirip kitabını kapatan ve tanıdığı fotoğrafçıya sessizce bakan yetişkin bir kadının o anını yakalayan fotogerçekçi bir fotoğraf. Zarif iç çamaşırı modasını klasik mimariyle birleştiren, sakin bir fotoğraf kitabı veya moda editoryali tarzında bir anlatım.
+Şatafatlı bir sahnelemeden ziyade, okuma sırasında aniden başlayan bir sohbet gibi doğal bir samimiyete odaklanılır. Eski ahşap, dantel perdeler, soluk lavanta tonları ve cildin yumuşak dokusunun uyum içinde olduğu, huzurlu ve hafif romantik bir kare.
+
+【Mekân, Arka Plan ve Atmosfer】
+Bakımlı, eski bir Batı tarzı konağın özel odası. Koyu kahverengi ahşap çerçeveli, dikey ve geniş bir pencere bulunur; ham beyaz renkte narin dantel perdeler usulca dökülmektedir. Kadın, pencerenin derin ve geniş ahşap pervazına oturmuştur.
+İç mekânda antika tarzı küçük bir sehpa, birkaç kitap ve içinde soluk renkli çiçekler olan bir vazo sade bir şekilde yerleştirilmiştir. Pencerenin dışında bahçenin hafifçe bulanıklaşmış yeşilliği görünür; eski binaya özgü ahşap ve sıvalı duvarların dokusu korunurken, arka planın kişiden daha fazla dikkat çekmeyeceği bir kompozisyon kurulur.
+
+【Mevsim, Zaman ve Hava Durumu】
+İlkbahardan erken yaza uzanan, sakin ve güneşli bir günün ortası. Güçlü ve doğrudan gelen bir güneş ışığı yerine, ince bulutlardan süzülen yumuşak doğal ışığın pencereden içeri girdiği saatler.
+Dışarıda aydınlık bir yeşillik seçilir ve rüzgâr son derece hafiftir. Dantel perdeleri veya saçları savurmayacak kadar dingin, odanın içine sakin bir öğleden sonra havasının dolduğu izlenimi verilir.
+
+【Kişi Tanımı】
+Kesinlikle yetişkin, 26 yaşında Japon bir kadın. Yumuşak ve muntazam yüz hatları, hafifçe büyük ve koyu gözler, doğal kaşlar, zarif bir burun köprüsü, pembeleşmiş yumuşak dudaklar. Yüzün çevresinde ince tutamlar bırakan, omuz hizasında koyu kahverengi dalgalı saçlar. Gözenekleri ve ince gölgeleri hissedilen doğal dokusuyla açık aşı boyası tonunda ten rengi.
+Narin omuzlar ve uzuvlar, ince bir bel; buna karşın kadınsı kıvrımların uyum sağladığı zarif ve doğal olarak dolgun bir vücut yapısı. Göğüsler belirgin biçimde dolgun ve yumuşak bir hacme sahiptir; giysi, duruş ve yer çekimine uygun doğal bir yuvarlaklık taşır. Kalçalar da aşırı abartılmamış, belden doğal olarak devam eden yumuşak hatlara sahiptir.
+
+【Giysi ve Aksesuarlar】
+Soluk lavanta renginde sütyen ve külot takımı. Beyaz ve açık mor küçük çiçek işlemeleriyle süslenmiş narin dantel kullanılmış ve kenarları ince fistolu (scallop) işlenmiştir. Kap kısımlarında hafif parlak saten ile opak astar birleştirilmiş olup, Japon lüks iç çamaşırı reklamlarını andıran zarif bir tasarıma sahiptir.
+Giysi, dolgun göğüslere ve bel çevresine doğal biçimde oturan gerçekçi boyut ve yapıdadır; askılar, kaplar ve dikişlerle zorlanmadan desteklenmiştir. Aşırı sıkma, tene batma veya kumaşın pot yapmasından kaçınılmalıdır. Aksesuar eklenmeyip kıyafetin ve yüz ifadesinin inceliği ön plana çıkarılmalıdır.
+
+【Poz, Hareket ve Bakış】
+Geniş pencere pervazına hafifçe oturmuş, pelvisi pencereye göre hafifçe eğik durmaktadır. Vücut ağırlığı esas olarak pervaza bırakılmış, her iki bacak doğal olarak bir arada durup kadrajın bir tarafına doğru çapraz uzanmıştır. Vücudun yalnızca üst kısmı fotoğrafçıya doğru yumuşakça dönüktür; zorlama bir bükülme veya aşırı bel kavisinden kaçınılmıştır.
+Okumayı bitirdiği kitabı kapatıp bacaklarından birinin üzerine koymuştur. Bir eli kitabın kapağına hafifçe dokunurken, diğer eli doğal bir şekilde onun yanına yerleşmiştir. Omuzlar gevşek, çene hafifçe geriye çekilmiştir. Bakışlar doğrudan fotoğrafçıya yöneltilmiş, sanki sohbet ortasında aniden başını kaldırmışçasına bir doğallık taşımaktadır.
+
+【İfade ve Duygu】
+Yakın bir sevgilinin sözlerini duyup hafifçe utanmış gibi, tedbirsiz, savunmasız ve samimi bir ifade. Dudaklarda gülümsemeye başlamak üzere olan küçük bir tebessüm, yanaklarda hafif bir canlılık ve kızarıklık hissedilir.
+Kaşlar ve gözler de duyguyu yansıtır; yapmacık bir gülümseme değil, bir sonraki anda "O da ne demek?" diyerek gülecekmiş gibi yumuşak bir tepki verir. Bakışlar güven ve samimiyet hissettirir, aşırı baştan çıkarıcı bir ifadeye kaçmaz.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey kompozisyon. Başın üzerinde bir miktar boşluk bırakılarak baştan uyluğun ortasına kadar olan kısım doğal bir şekilde kadraja alınır. Kişi kadrajın merkezinden hafifçe kaydırılmış; bir tarafta yüksek ahşap çerçeveli pencere ve dantel perde, diğer tarafta ise odanın duvarları ve mobilyaları yer alarak derinlik oluşturulmuştur.
+Kamera, oturan kişinin göğsü ile göz hizası arasındaki yükseklikte ve birkaç adım mesafeden çekim yapmaktadır. Standart ile orta-telefoto arası doğal bir odak uzaklığı kullanılarak, vücudun yalnızca bir kısmını büyük gösteren geniş açı bozulmalarından kaçınılmıştır. Arka plan hafifçe bulanıklaştırılır, ancak Batı tarzı bir konak olduğu anlaşılacak kadar ayrıntı korunur.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, kadrajın yanındaki büyük pencereden giren yumuşak doğal ışıktır. Pencere tarafındaki yanağı, omzu, saçları ve dantel kenarlarını parlak bir şekilde aydınlatırken, odanın iç tarafında kalan kısımda dingin gölgeler bırakır. Ahşap duvarlardan ve zeminden yansıyan hafif sıcak tonlu yansıma ışıkları eklenerek tenin soluk veya mavimsi görünmesi engellenir, doğal bir renk sıcaklığı sağlanır.
+Tende gözenekler, ince gölgeler ve doğal bir pembelik korunur; saçlarda tek tek tellerin akışı ve yumuşak bir parlaklık gösterilir. Satende hafif bir parlama, işlemeli dantelde ince kabartı dokuları, ahşap çerçevede ise kullanılmışlığın getirdiği derin bir cila hissi vardır. Lavanta, ham beyaz, koyu kahverengi ve bahçenin soluk yeşili etrafında toplanan, sakin ve asil bir renk paletinde birleştirilir.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi anlatım. Gerçek bir kamerayla çekilmiş gibi doğal insan anatomisine, ışığa, malzemelere ve perspektife öncelik verilir. Reşit görünmeyen kişiler, aşırı çocuksu yüz hatları, doğal olmayan vücut oranları, fazla uzuv ve parmaklar, eksik parmaklar, yapışık parmaklar, tuhaf eklemler ve sağ-sol el karışıklıklarından kaçınılmalıdır.
+Giyside yırtılma/bozulma, vücutla giysinin birbirine kaynaşması, kumaşın doğal olmayan şekilde havada kalması veya cildi kesmesi, istenmeyen açık saçıklık, aşırı geniş açı bozulması ve aşırı cilt pürüzsüzleştirme işlemlerinden kaçınılmalıdır. Göğüsler zengin ve doğal bir hacimde tutulmalı; aşırı büyüme, sert küre formu, anormal itilme veya yer çekimine meydan okuyan şekillerden uzak durulmalıdır. Görüntü içinde yazı, logo, filigran veya kullanıcı arayüzü öğeleri yer almamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

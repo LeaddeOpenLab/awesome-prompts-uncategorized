@@ -101,20 +101,60 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2100331674039181383"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Porträt-Prompt im Editorial-Stil mit natürlichem Licht: Eine erwachsene Frau sitzt am Fenster eines alten Herrenhauses im westlichen Stil, trägt feine Lingerie in zartem Lavendel und schließt ihr Buch.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100331674039181383)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Porträt-Prompt im Editorial-Stil mit natürlichem Licht: Eine erwachsene Frau sitzt am Fenster eines alten Herrenhauses im westlichen Stil, trägt feine Lingerie in zartem Lavendel und schließt ihr Buch.
 
 <img src="images/2100331674039181383-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟 Am Fenster eines alten Herrenhauses im westlichen Stil | Lavendelspitze und ein Nachmittag, an dem das Buch geschlossen wird 🌟
+
+【Motiv / Bildstil】
+Fotorealistische Aufnahme, die den Moment festhält, in dem eine erwachsene Frau nach dem Lesen ihr Buch schließt und ihren Blick ruhig auf den vertrauten Fotografen am Fenster eines alten Herrenhauses im westlichen Stil richtet. Eine ruhige Bildband- oder Mode-Editorial-Ästhetik, die elegante Lingerie mit klassischer Architektur verbindet.
+Statt überladener Inszenierung liegt der Fokus auf natürlicher Intimität, so als hätte mitten beim Lesen ganz beiläufig ein Gespräch begonnen. Ein friedliches, sanft-romantisches Bild, in dem altes Holz, Spitzengardinen, zartes Lavendel und die weiche Textur der Haut harmonieren.
+
+【Ort / Hintergrund / Weltanschauung】
+Ein gepflegtes Privatzimmer in einem alten Herrenhaus im westlichen Stil. Ein großes, vertikales Fenster mit dunkelbraunem Holzrahmen, von dem zarte, ungebleichte Spitzengardinen ruhig herabhängen. Die Frau sitzt auf der tiefen, breiten Fensterbank aus Holz.
+Im Raum sind dezent ein kleiner Beistelltisch im Antik-Look, einige Bücher und eine Vase mit zarten Blumen platziert. Durch das Fenster ist das weich verschwommene Grün des Gartens zu sehen; die für historische Gebäude typische Textur von Holz und Putzwänden bleibt spürbar, ohne dass der Hintergrund die Person überlagert.
+
+【Jahreszeit / Tageszeit / Wetter】
+Ein milder, heiterer Tag zwischen Frühling und Frühsommer. Eine Tageszeit, zu der weiches, natürliches Licht, das durch dünne Wolken gedämpft wird, durch das Fenster fällt, anstelle von grellem, direktem Sonnenlicht.
+Draußen ist helles Grün sichtbar, der Wind weht nur ganz schwach. Weder Gardinen noch Haare geraten stark in Bewegung; im Raum liegt die friedliche Stimmung eines ruhigen Nachmittags.
+
+【Personenbeschreibung】
+Eine eindeutig erwachsene, 26-jährige Japanerin. Sanfte, wohlproportionierte Gesichtszüge, etwas größere, ausdrucksstarke dunkle Augen, natürliche Augenbrauen, ein feiner Nasenrücken und weiche Lippen mit natürlicher Frische. Dunkelbraunes, schulterlanges Wellenhaar mit feinen Strähnen, die das Gesicht umspielen. Natürlicher, heller Ockerton der Haut mit authentischer Textur inklusive feiner Poren und dezenter Schattierungen.
+Zierliche Schultern und Gliedmaßen, eine schlanke Taille und eine harmonisch geschwungene, elegant-natürlich kurvige Silhouette. Ein deutlich volles Dekolleté mit weichem Volumen und natürlicher Rundung, die sich nach Kleidung, Pose und Schwerkraft richtet. Hüften ohne übermäßige Übertreibung, mit weichen Linien, die natürlich von der Taille übergehen.
+
+【Kleidung / Accessoires】
+Ein Lingerie-Set aus BH und Höschen in zartem Lavendel. Gefertigt aus feiner Spitze mit aufgestickten kleinen Blüten in Weiß und Hellviolett, abgeschlossen mit feinen Bogenkanten. Die Körbchen kombinieren dezent glänzenden Satin mit blickdichtem Futter – im Stil einer hochwertigen, geschmackvollen japanischen Lingerie-Kampagne.
+Die Kleidung besitzt realistische Maße und Schnittführung, die sich natürlich an das üppige Dekolleté und die Hüften anschmiegt und durch Träger, Körbchen und Nähte mühelos gestützt wird. Übermäßiges Einschnüren, Einschneiden oder unnatürliches Abstehen des Stoffs wird vermieden. Keine zusätzlichen Accessoires, um der Feinheit von Kleidung und Mimik die Hauptrolle zu überlassen.
+
+【Pose / Handlung / Blick】
+Leicht auf die breite Fensterbank gesetzt, das Becken leicht schräg zum Fenster ausgerichtet. Das Körpergewicht ruht hauptsächlich auf der Fensterbank; beide Beine liegen natürlich aneinander und verlaufen schräg zu einer Seite des Bildausschnitts. Nur der Oberkörper dreht sich sanft zum Fotografen, ohne künstliche Verdrehung oder extremes Hohlkreuz.
+Sie schließt das ausgelesene Buch und legt es auf einen Oberschenkel. Eine Hand berührt leicht den Buchdeckel, die andere ruht ganz natürlich daneben. Die Schultern sind entspannt, das Kinn leicht gesenkt. Der Blick richtet sich direkt auf den Fotografen, ganz so, als habe sie mitten im Gespräch aufgesehen.
+
+【Mimik / Emotion】
+Ein ungeschützter, intimer und vertrauter Ausdruck, leicht verlegen über die Worte eines geliebten Menschen. Ein leises Lächeln liegt um ihre Mundwinkel, kurz vor dem Lachen, und die Wangen zeigen einen Hauch von natürlichem Rouge.
+Augenbrauen und Augenpartie spiegeln Gefühle wider – kein aufgesetztes Lächeln, sondern eine weiche Reaktion, als würde sie im nächsten Moment mit einem „Was soll das denn?“ auflachen. Der Blick vermittelt Geborgenheit und Nähe, ohne übertrieben verführerisch zu wirken.
+
+【Komposition / Kamera】
+Vertikale 4:5-Komposition für X-Beiträge. Etwas Freiraum über dem Kopf, mit einem natürlichen Bildausschnitt vom Scheitel bis etwa zur Mitte der Oberschenkel. Die Person ist leicht außermittig platziert; auf einer Seite das hohe Holzfenster mit Spitzengardinen, auf der anderen Zimmerwand und Möbel, um räumliche Tiefe zu schaffen.
+Kamerahöhe etwa auf Höhe von Brust bis Augenhöhe der sitzenden Person, aus wenigen Schritten Entfernung aufgenommen. Natürlicher Bildwinkel vom Standard- bis zum leichten Telebereich, um Weitwinkelverzerrungen zu vermeiden, die Körperteile übermäßig vergrößern. Der Hintergrund ist sanft unscharf, lässt das Herrenhaus-Ambiente aber klar erkennen.
+
+【Licht / Farbe / Textur / Atmosphäre】
+Hauptlichtquelle ist das weiche, natürliche Licht, das durch das große Fenster an der Seite hereinfällt. Es erleuchtet die fensterseitige Wange, Schulter, Haare und Spitzenränder sanft und hinterlässt im Raum weiche Schatten. Schwache, warme Reflexionen von Holzwänden und Boden sorgen für eine natürliche Farbtemperatur, damit die Haut nicht fahl oder bläulich wirkt.
+Die Haut zeigt feine Poren, dezente Schatten und einen gesunden Farbton; das Haar offenbart jede Strähne mit sanftem Glanz. Der Satin besitzt dezente Reflexionen, die Spitzenstickerei feine Erhebungen und der Holzrahmen einen tiefen, gediegenen Patinaglanz. Eine ruhige, edle Farbharmonie aus Lavendel, Naturweiß, sattem Braun und zartem Gartengrün.
+
+【Qualität / Ausschlusskriterien】
+Fotorealistische Hochauflösung. Höchste Priorität für eine natürliche menschliche Anatomie, Lichtführung, Materialien und Perspektive wie bei einer echten Kameraaufnahme. Zu vermeiden sind minderjährig wirkende Personen, zu kindliche Gesichtszüge, unnatürliche Körperproportionen, überzählige Gliedmaßen oder Finger, fehlende Finger, verschmolzene Finger, anatomisch unkorrekte Gelenke und verwechselte Hände.
+Keine fehlerhafte Kleidung, kein Verschmelzen von Stoff und Körper, kein unnatürliches Abstehen oder Einschneiden, keine unbeabsichtigte Nacktheit, keine extremen Weitwinkelverzerrungen und keine übertriebene Hautglättung. Das Dekolleté behält ein volles, natürliches Volumen ohne unnatürliche Vergrößerung, feste Kugelformen, extremes Hochdrücken oder Schwerkraftverweigerung. Keinerlei Text, Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

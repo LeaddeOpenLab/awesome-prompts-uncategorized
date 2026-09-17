@@ -101,20 +101,60 @@ Tradução em andamento
 
 <a name="prompt-2100331674039181383"></a>
 
-### Tradução em andamento
+### Prompt para retrato editorial fotorrealista em luz natural capturando uma mulher adulta sentada à janela de um antigo casarão ocidental, vestindo lingerie delicada em lavanda pálido ao fechar um livro.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100331674039181383)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para retrato editorial fotorrealista em luz natural capturando uma mulher adulta sentada à janela de um antigo casarão ocidental, vestindo lingerie delicada em lavanda pálido ao fechar um livro.
 
 <img src="images/2100331674039181383-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟À beira da janela de um antigo casarão ocidental | Renda lavanda e uma tarde fechando o livro🌟
+
+【Tema e Estilo Artístico】
+Fotografia fotorrealista que retrata o momento em que uma mulher adulta, após terminar sua leitura à beira da janela de um antigo casarão em estilo ocidental, fecha o livro e direciona um olhar silencioso ao fotógrafo próximo. Uma expressão serena em estilo editorial de moda e livro de fotos, combinando lingerie refinada e arquitetura clássica.
+Mais do que uma produção extravagante, prioriza-se a intimidade natural, como se uma conversa tivesse acabado de começar no meio da leitura. Uma cena tranquila e suavemente romântica, harmonizando a madeira envelhecida, as cortinas de renda, os tons suaves de lavanda e a textura macia da pele.
+
+【Local, Cenário e Ambientação】
+Quarto particular em um casarão antigo e bem conservado. Há uma grande janela vertical com molduras de madeira marrom-escura, onde cortinas delicadas de renda na cor cru caem suavemente. A mulher senta-se no parapeito largo e profundo de madeira da janela.
+No interior, uma pequena mesinha lateral em estilo vintage, alguns livros e um vaso com flores delicadas estão posicionados discretamente. Do lado de fora da janela, vê-se o verde suavemente desfocado do jardim, mantendo as texturas da madeira e das paredes de reboco típicas de um edifício antigo, com uma composição onde o fundo não se destaca mais do que a modelo.
+
+【Estação, Horário e Clima】
+Dia sereno e ensolarado entre a primavera e o início do verão. Não com luz solar direta e forte, mas com luz natural suave filtrada por nuvens finas entrando pela janela.
+Lá fora avista-se um verde brilhante, com vento muito suave. Nada que balance excessivamente a cortina de renda ou o cabelo, transmitindo a sensação de um ar silencioso de tarde preenchendo o ambiente.
+
+【Perfil da Personagem】
+Mulher japonesa inequivocamente adulta, com 26 anos. Traços faciais suaves e bem delineados, olhos escuros ligeiramente grandes e expressivos, sobrancelhas naturais, ponte nasal fina e lábios macios e rosados. Cabelo castanho-escuro ondulado até os ombros, com mechas finas e soltas ao redor do rosto. Pele clara em tom ocre, com textura natural onde se notam poros e nuances sutis de sombra.
+Ombros e membros delicados, cintura fina, mas com um corpo curvilíneo natural, elegante e glamoroso em perfeita harmonia. Seios visivelmente fartos e com volume macio, mantendo um contorno arredondado natural condizente com a roupa, a postura e a gravidade. Quadril sem exageros, formando uma linha suave que flui naturalmente da cintura.
+
+【Traje e Acessórios】
+Conjunto de sutiã e calcinha em lavanda pálido. Usa renda delicada sobreposta com bordados de pequenas flores em branco e lilás-claro, com acabamento em pequenas ondas recortadas (scallops) nas bordas. As taças combinam um cetim de brilho discreto com forro opaco, lembrando o design de elegantes anúncios japoneses de lingerie de luxo.
+A roupa tem tamanho e estrutura realistas que se ajustam naturalmente aos seios fartos e aos quadris, sustentada sem esforço por alças, bojos e costuras. Evitar aperto excessivo, marcas na pele ou tecido solto/flutuante. Sem acessórios adicionais, deixando o protagonismo para o figurino e a sutileza das expressões faciais.
+
+【Pose, Ação e Olhar】
+Sentada levemente no parapeito largo da janela, com a bacia ligeiramente angulada em relação à janela. O peso do corpo repousa principalmente no parapeito, com ambas as pernas alinhadas de forma natural e estendidas diagonalmente para um lado do enquadramento. Apenas a parte superior do tronco gira suavemente em direção ao fotógrafo, sem torções forçadas ou arquear exagerado das costas.
+O livro lido é fechado e colocado sobre uma das coxas. Uma mão toca suavemente a capa do livro, enquanto a outra repousa naturalmente próxima a ela. Ombros relaxados, queixo sutilmente recolhido. O olhar direciona-se diretamente para o fotógrafo, com a naturalidade de quem acabou de erguer o rosto no meio de uma conversa.
+
+【Expressão e Emoção】
+Uma expressão desarmada, íntima e relaxada, como se estivesse um pouco tímida com as palavras de um parceiro querido. Um pequeno sorriso prestes a desabrochar nos lábios, com um leve rubor nas bochechas.
+As sobrancelhas e o olhar refletem a emoção; não um sorriso artificial, mas uma reação terna, como quem parece prestes a rir enquanto diz "O que foi isso?". O olhar transmite segurança e proximidade, sem se tornar excessivamente sedutor.
+
+【Composição e Câmera】
+Composição vertical 4:5 indicada para posts do X. Um pouco de espaço livre acima da cabeça, enquadrando naturalmente da cabeça até o meio das coxas. A pessoa fica ligeiramente deslocada do centro, com a janela alta de madeira e as cortinas de renda de um lado e as paredes e móveis do quarto do outro, criando profundidade.
+A câmera fica na altura entre o peito e os olhos da modelo sentada, posicionada a alguns passos de distância. Distância focal natural entre padrão e meia-teleobjetiva, evitando distorções de grande-angular que aumentam partes específicas do corpo. O fundo é suavemente desfocado, mantendo informação suficiente para reconhecer o casarão ocidental.
+
+【Luz, Cor, Textura e Atmosfera】
+A luz principal é a luz natural suave que entra pela grande janela lateral. Ilumina brilhantemente a bochecha do lado da janela, o ombro, o cabelo e as bordas da renda, deixando sombras suaves no lado voltado para o interior. Adição de reflexos quentes e suaves das paredes de madeira e do chão para garantir uma temperatura de cor natural sem empalidecer a pele.
+A pele mantém poros, sombras sutis e viço natural; o cabelo exibe fios individuais delineados e brilho suave. O cetim tem reflexo discreto, a renda bordada apresenta pequenas texturas tridimensionais, e a moldura de madeira exibe o brilho nobre do desgaste natural. Paleta de cores serena e refinada, centrada em lavanda, cru, marrom-profundo e o verde suave do jardim.
+
+【Qualidade e Elementos Negativos】
+Representação fotorrealista em alta resolução. Priorizar anatomia, iluminação, materiais e perspectiva naturais como se fotografados por uma câmera real. Evitar pessoas com aparência menor de idade, traços infantis, proporções corporais anormais, membros ou dedos extras, dedos faltando, dedos fundidos, articulações estranhas, confusão entre mãos direita e esquerda.
+Evitar falhas na roupa, fusão entre corpo e vestimenta, tecido flutuando ou apertando de forma estranha, nudez acidental, distorções extremas de grande-angular, pele excessivamente alisada (airbrushed). Os seios devem manter volume farto e natural, sem aumento bizarro, formato esférico rígido, elevação anormal ou desafio à gravidade. Sem textos, logotipos, marcas d'água ou elementos de interface na imagem.
 ```
 
 [↑ Voltar às categorias](#catalog)

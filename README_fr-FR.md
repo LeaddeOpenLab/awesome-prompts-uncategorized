@@ -101,20 +101,60 @@ Traduction en cours
 
 <a name="prompt-2100331674039181383"></a>
 
-### Traduction en cours
+### Prompt de portrait photoréaliste façon éditorial à la lumière naturelle : une femme adulte assise au bord de la fenêtre d'un vieux manoir occidental, vêtue d'une lingerie délicate lavande pâle et refermant un livre.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100331674039181383)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait photoréaliste façon éditorial à la lumière naturelle : une femme adulte assise au bord de la fenêtre d'un vieux manoir occidental, vêtue d'une lingerie délicate lavande pâle et refermant un livre.
 
 <img src="images/2100331674039181383-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟 Au bord de la fenêtre d'un vieux manoir de style occidental | Dentelle lavande et après-midi à refermer un livre 🌟
+
+【Sujet / Style artistique】
+Photographie photoréaliste capturant l'instant où une femme adulte, venant de terminer sa lecture, referme son livre et pose un regard serein sur le photographe qui lui est proche, au bord de la fenêtre d'une ancienne demeure de style occidental. Une esthétique feutrée d'éditorial de mode ou de recueil de photos intime, alliant lingerie raffinée et architecture classique.
+Plutôt qu'une mise en scène tape-à-l'œil, l'accent est mis sur une intimité spontanée, comme si une conversation venait de s'engager au milieu de la lecture. Une scène paisible et subtilement romantique où s'accordent le bois patiné, les rideaux de dentelle, les nuances lavande pâle et le grain délicat de la peau.
+
+【Lieu / Arrière-plan / Ambiance】
+La chambre privée et bien entretenue d'un vieux manoir de style occidental. Elle dispose d'une grande fenêtre verticale au cadre en bois brun sombre, d'où retombent calmement des rideaux en dentelle écrue ouvragée. La femme est assise sur le rebord de fenêtre en bois, large et profond.
+Dans la pièce sont disposés discrètement un petit guéridon ancien, quelques livres et un vase orné de fleurs aux teintes douces. Par la fenêtre, la verdure du jardin apparaît doucement floutée ; les textures du bois ancien et des murs enduits sont préservées sans que l'arrière-plan ne prenne le pas sur le sujet.
+
+【Saison / Moment / Météo】
+Une journée douce et sereine entre le printemps et le début de l'été. Un moment de la journée où une lumière naturelle et tamisée par de légers nuages entre par la fenêtre, loin de tout soleil direct et agressif.
+Dehors, la végétation lumineuse s'anime d'un souffle d'air imperceptible. Ni les rideaux de dentelle ni les cheveux ne sont agités ; une atmosphère de calme après-midi emplit la pièce.
+
+【Description du personnage】
+Femme japonaise de 26 ans, incontestablement adulte. Traits fins et harmonieux, yeux foncés expressifs et légèrement grands, sourcils naturels, arête nasale délicate et lèvres pulpeuses au teint frais. Cheveux ondulés brun foncé tombant sur les épaules, avec quelques mèches légères encadrant le visage. Teint ocre clair naturel, révélant la texture authentique de la peau, ses pores et ses ombres subtiles.
+Épaules et membres délicats, taille fine, le tout formant une silhouette naturellement plantureuse et harmonieusement galbée. Poitrine nettement généreuse au volume souple, aux courbes naturelles qui épousent le vêtement, la posture et la gravité. Hanches sans exagération, s'inscrivant dans la continuité fluide de la taille.
+
+【Costume / Accessoires】
+Ensemble soutien-gorge et culotte lavande pâle. Confectionné dans une dentelle fine rehaussée de broderies de petites fleurs blanches et mauve clair, avec des bordures festonnées délicates. Les bonnets associent un satin à l'éclat discret et une doublure opaque, rappelant les publicités de lingerie haut de gamme japonaises.
+Le vêtement présente une taille et une coupe réalistes qui épousent naturellement les formes généreuses de la poitrine et des hanches, maintenues avec aisance par les bretelles, les bonnets et les coutures. Aucun effet de compression excessive, de marque sur la peau ou de tissu qui flotte artificiellement. Aucun accessoire supplémentaire, afin de laisser la délicatesse de la lingerie et de l'expression au premier plan.
+
+【Pose / Action / Regard】
+Assise délicatement sur le large rebord de la fenêtre, le bassin légèrement de biais par rapport à l'ouverture. Le poids repose principalement sur le rebord ; les deux jambes sont jointes avec naturel et s'étirent en diagonale vers un côté du cadre. Seul le haut du buste est tourné en douceur vers le photographe, sans torsion excessive ni cambrure forcée.
+Elle referme le livre qu'elle vient de lire et le pose sur l'une de ses cuisses. Une main effleure la couverture du livre, l'autre se pose naturellement à côté. Les épaules sont relâchées, le menton légèrement rentré. Le regard est posé droit sur le photographe, avec la spontanéité de quelqu'un qui lève les yeux en pleine conversation.
+
+【Expression / Émotion】
+Une expression vulnérable, intime et complice, comme légèrement intimidée par les mots d'un être cher. Une ébauche de sourire éclot au coin des lèvres, prête à se muer en éclat de rire, avec une pointe d'émotion rosissant doucement les joues.
+Les sourcils et le regard trahissent l'émotion ; loin d'un sourire figé, c'est une réaction tendre, comme si elle s'apprêtait à pouffer en disant « mais qu'est-ce que tu racontes ? ». Le regard dégage confiance et tendresse, sans sensualité provocatrice.
+
+【Composition / Cadrage】
+Format vertical 4:5 idéal pour les publications sur X. Un léger espace est laissé au-dessus de la tête, cadrant harmonieusement du sommet du crâne jusqu'à mi-cuisse. Le sujet est légèrement décentré, équilibré d'un côté par la haute fenêtre en bois et ses rideaux de dentelle, et de l'autre par les murs et le mobilier créant de la profondeur.
+Appareil photo positionné à hauteur de la poitrine ou des yeux du sujet assis, à quelques pas de distance. Utilisation d'une focale naturelle, de standard à moyen téléobjectif, évitant les distorsions grand-angle qui grossiraient certaines parties du corps. Arrière-plan légèrement flou mais laissant distinctement deviner le cadre d'un vieux manoir.
+
+【Lumière / Couleur / Texture / Atmosphère】
+La source lumineuse principale est la douce lumière du jour entrant par la grande fenêtre latérale. Elle caresse la joue, l'épaule, la chevelure et les bordures de dentelle du côté de la fenêtre, tout en laissant des ombres paisibles à l'intérieur de la pièce. De faibles reflets chauds issus des boiseries et du plancher équilibrent la température de couleur pour préserver l'éclat chaleureux de la peau.
+La peau laisse apparaître ses pores, ses légères ombres et son éclat naturel ; chaque mèche de cheveux se détache avec une brillance soyeuse. Le satin offre des reflets discrets, la dentelle brodée un relief tout en finesse et les boiseries une patine noble et profonde. Une harmonie chromatique feutrée et raffinée orchestrée autour du lavande, de l'écru, du brun profond et du vert tendre du jardin.
+
+【Qualité / Éléments exclus】
+Rendu photoréaliste haute définition. Priorité absolue au naturel de l'anatomie humaine, de la lumière, des matières et de la perspective, fidèle à un véritable cliché photographique. Sont exclus : personnages à l'aspect mineur, visages enfantins, proportions corporelles irréalistes, membres ou doigts surnuméraires, manquants ou fusionnés, articulations difformes et inversion main gauche/main droite.
+Sont également proscrits : défauts de vêtements, fusion entre tissu et peau, tissus flottants ou incrustés de manière anormale, nudité involontaire, déformations extrêmes au grand-angle et lissage excessif de la peau. La poitrine conserve un volume généreux et naturel, sans grossissement disproportionné, formes sphériques rigides, surélévation artificielle ou défi à la gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)

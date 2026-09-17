@@ -101,20 +101,60 @@ Traduzione in corso
 
 <a name="prompt-2100331674039181383"></a>
 
-### Traduzione in corso
+### Prompt di ritratto fotorealistico in stile editoriale a luce naturale: una donna adulta siede accanto alla finestra di un antico palazzo occidentale, indossando una delicata lingerie lavanda tenue mentre chiude un libro.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2100331674039181383)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di ritratto fotorealistico in stile editoriale a luce naturale: una donna adulta siede accanto alla finestra di un antico palazzo occidentale, indossando una delicata lingerie lavanda tenue mentre chiude un libro.
 
 <img src="images/2100331674039181383-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟 Accanto alla finestra di un antico palazzo in stile occidentale | Pizzo lavanda e un pomeriggio a chiudere un libro 🌟
+
+【Soggetto / Stile artistico】
+Fotografia fotorealistica che ritrae il momento in cui una donna adulta, dopo aver finito di leggere, chiude il suo libro e rivolge uno sguardo calmo verso l'affezionato fotografo, accanto alla finestra di un antico palazzo in stile occidentale. Uno stile da editoriale di moda o raffinato photobook d'autore, che unisce lingerie elegante e architettura classica.
+Più che un'esibizione sfarzosa, si valorizza un'intimità spontanea, come se durante la lettura fosse appena iniziata una conversazione. Uno scatto sereno e lievemente romantico in cui legno antico, tende di pizzo, tenui tonalità lavanda e la morbida texture della pelle si fondono in perfetta armonia.
+
+【Luogo / Sfondo / Atmosfera】
+La stanza privata e curata di una vecchia dimora in stile occidentale. Vi è un'ampia finestra verticale con cornice in legno marrone scuro, da cui scendono morbidamente delicate tende di pizzo color écru. La donna è seduta sul davanzale in legno, largo e profondo.
+Nella stanza sono disposti con discrezione un piccolo tavolino antico, alcuni libri e un vaso con fiori dai toni tenui. Fuori dalla finestra si scorge il verde sfocato del giardino; le trame tipiche degli edifici d'epoca, come il legno e le pareti a intonaco, sono preservate senza rubare la scena al soggetto.
+
+【Stagione / Ora / Condizioni meteo】
+Una mite e serena giornata tra la primavera e l'inizio dell'estate. Un momento del giorno in cui una luce naturale e morbida, filtrata da leggere nuvole, penetra dalla finestra al posto di una luce solare diretta e accecante.
+All'esterno si ammira una vegetazione luminosa con una brezza quasi impercettibile. Non tale da muovere vistosamente tende o capelli; la stanza è pervasa dalla quiete tipica di un tranquillo pomeriggio.
+
+【Descrizione del personaggio】
+Donna giapponese di 26 anni, chiaramente adulta. Tratti del viso dolci e armoniosi, occhi scuri ed espressivi leggermente grandi, sopracciglia naturali, ponte nasale sottile e labbra morbide con un colorito sano. Capelli castano scuro ondulati fino alle spalle, con fini ciocche sciolte a incorniciare il viso. Incarnato naturale color ocra chiaro, con una consistenza autentica che rivela pori e leggere ombreggiature.
+Spalle e arti sottili, vita snella, con curve femminili armoniose in una figura sinuosa, elegante e naturale. Décolleté visibilmente prosperoso dal volume morbido, con una rotondità naturale dettata dall'abbigliamento, dalla posa e dalla gravità. Fianchi privi di esagerazioni, che disegnano linee morbide raccordandosi fluidamente alla vita.
+
+【Abbigliamento / Accessori】
+Completo intimo con reggiseno e slip color lavanda tenue. Realizzato in pizzo delicato con ricami floreali sovrapposti in bianco e viola chiaro, rifinito con orli smerlati sottili. Le coppe uniscono un raso dalla lucentezza discreta a una fodera opaca, richiamando l'estetica delle pubblicità giapponesi di lingerie d'alta moda.
+Il capo ha una vestibilità realistica che segue con grazia le forme piene del seno e dei fianchi, sostenuto in modo naturale da spalline, coppe e cuciture. Si evitano costrizioni eccessive, segni sulla pelle o tessuti sollevati in modo innaturale. Nessun accessorio aggiuntivo, per lasciare il ruolo di protagonista alla finezza dell'intimo e all'espressività del volto.
+
+【Posa / Azione / Sguardo】
+Seduta leggermente sul largo davanzale, con il bacino posizionato in diagonale rispetto alla finestra. Il peso del corpo poggia principalmente sul davanzale; entrambe le gambe sono accostate in modo naturale e scendono in diagonale verso un lato dell'inquadratura. Solo il busto ruota con dolcezza verso il fotografo, senza forzature o inarcamenti eccessivi della schiena.
+Chiude il libro appena terminato e lo posa su una coscia. Una mano tocca con leggerezza la copertina del libro, mentre l'altra si appoggia naturalmente accanto. Spalle rilassate, mento leggermente reclinato. Lo sguardo è rivolto dritto al fotografo, con la spontaneità di chi alza gli occhi a metà discorso.
+
+【Espressione / Emozione】
+Un'espressione confidenziale, vulnerabile e complice, come lievemente imbarazzata dalle parole della persona amata. Un accenno di sorriso indugia agli angoli della bocca sul punto di sbocciare in una risata, con un velo di rossore a ravvivare le guance.
+Le sopracciglia e gli occhi trasmettono emozione; non un sorriso forzato, ma una reazione tenera come se stesse per ridere esclamando "ma cosa dici?". Lo sguardo esprime sicurezza e affetto, senza alcuna malizia provocatoria.
+
+【Composizione / Inquadratura】
+Composizione verticale 4:5 concepita per post su X. Un leggero margine sopra la testa, con un'inquadratura naturale che va dalla sommità del capo fino a metà coscia. Il soggetto è leggermente decentrato; da un lato si ergono l'alta finestra con telaio in legno e le tende di pizzo, dall'altro compaiono pareti e arredi della stanza per donare profondità.
+Fotocamera posizionata all'altezza del petto o degli occhi del soggetto seduto, a qualche passo di distanza. Utilizzo di una lunghezza focale naturale, da standard a medio teleobiettivo, evitando distorsioni grandangolari che ingigantirebbero porzioni del corpo. Sfondo morbidamente sfocato, ma tale da lasciare riconoscibile il contesto della dimora d'epoca.
+
+【Luce / Colore / Texture / Atmosfera】
+La sorgente luminosa principale è la morbida luce naturale che filtra dalla grande finestra laterale. Illumina con delicatezza la guancia, la spalla, i capelli e i bordi in pizzo rivolti verso l'apertura, lasciando ombre tenui sul lato interno della stanza. Si aggiungono deboli riflessi caldi provenienti dal legno delle pareti e del pavimento per mantenere una temperatura colore naturale, evitando che la pelle appaia diafana o bluastra.
+La pelle mostra pori, ombre delicate e un colorito naturale; i capelli svelano la definizione di ogni singola ciocca con un soffice splendore. Il raso emana riflessi discreti, il pizzo ricamato vanta dettagli in rilievo e la cornice in legno presenta una patina profonda e vissuta. Una palette cromatica raffinata e rilassante, imperniata su lavanda, écru, marrone profondo e il verde pallido del giardino.
+
+【Qualità / Elementi da escludere】
+Resa fotorealistica ad altissima risoluzione. Massima priorità ad anatomia umana naturale, luce, materiali e prospettiva, come se fosse ripresa da una vera fotocamera. Da escludere: soggetti dall'aspetto minorenne, tratti facciali troppo infantili, proporzioni anatomiche innaturali, arti o dita in eccesso, dita mancanti o fuse, articolazioni difformi e confusione tra mano destra e sinistra.
+Da escludere difetti nei vestiti, fusione tra abito e corpo, tessuti sollevati o che stringono in modo anomalo, nudità involontaria, distorsioni grandangolari estreme e pelle eccessivamente levigata. Il seno mantiene una pienezza generosa e naturale, senza ingrandimenti grotteschi, forme sferiche rigide, sollevamenti anomali o contrasto alla forza di gravità. Nessuna scritta, logo, filigrana o elemento di interfaccia nell'immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)

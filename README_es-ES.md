@@ -101,20 +101,60 @@ Traducción en curso
 
 <a name="prompt-2100331674039181383"></a>
 
-### Traducción en curso
+### Prompt para un retrato fotorrealista de estilo editorial con luz natural, de una mujer adulta sentada junto a la ventana de una antigua mansión occidental, vestida con lencería fina en tono lavanda pálido y cerrando un libro.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2100331674039181383)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un retrato fotorrealista de estilo editorial con luz natural, de una mujer adulta sentada junto a la ventana de una antigua mansión occidental, vestida con lencería fina en tono lavanda pálido y cerrando un libro.
 
 <img src="images/2100331674039181383-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Junto a la ventana de una antigua mansión occidental | Tarde cerrando un libro con encaje lavanda🌟
+
+【Tema y estilo】
+Fotografía fotorrealista que captura el instante en que una mujer adulta, tras terminar de leer, cierra su libro y dirige una mirada serena hacia un fotógrafo cercano, junto al alféizar de una antigua mansión de estilo occidental. Una expresión con estilo de fotolibro sosegado y editorial de moda, que combina una lencería refinada con arquitectura clásica.
+Más que una puesta en escena ostentosa, se prioriza una intimidad natural, como si una conversación acabara de surgir a mitad de la lectura. Una imagen apacible y ligeramente romántica donde armonizan la madera añeja, las cortinas de encaje, el tono lavanda pálido y la suave textura de la piel.
+
+【Lugar, fondo y ambientación】
+Habitación privada de una antigua mansión occidental bien conservada. Cuenta con una gran ventana vertical de marco de madera marrón oscuro, de la que cae serenamente una delicada cortina de encaje en tono crudo. La mujer está sentada en el alféizar de madera, amplio y profundo.
+En la estancia se disponen con discreción una pequeña mesa auxiliar de estilo antiguo, varios libros y un jarrón con flores de tonos suaves. Fuera de la ventana se aprecia el verde suavemente desenfocado del jardín, conservando la textura de la madera y las paredes de yeso propias de un edificio antiguo, en una composición donde el fondo no eclipse a la figura.
+
+【Estación, hora y clima】
+Un día despejado y apacible entre la primavera y principios del verano. No es una luz solar directa e intensa, sino la franja horaria en que una luz natural suave, filtrada por nubes tenues, entra por la ventana hacia el interior.
+Afuera se observa una vegetación luminosa y la brisa es sumamente leve. No llega a agitar con fuerza las cortinas de encaje ni el cabello, transmitiendo la sensación de que el aire sereno de la tarde colma la habitación.
+
+【Detalles del personaje】
+Mujer japonesa claramente adulta de 26 años. Rasgos suaves y proporcionados, ojos oscuros ligeramente grandes, cejas naturales, puente nasal fino y labios suaves con rubor natural. Cabello castaño oscuro ondulado hasta los hombros, con mechones finos y sueltos alrededor del rostro. Piel clara de tono ocre con textura natural, donde se aprecian los poros y sombras sutiles.
+Hombros y extremidades esbeltas, cintura estrecha, combinadas armoniosamente con curvas femeninas en una silueta glamurosa, elegante y natural. Pecho con un volumen suave y claramente generoso, con una curvatura natural acorde a la prenda, la postura y la gravedad. Caderas sin exageración, trazando una línea suave que se conecta naturalmente desde la cintura.
+
+【Vestuario y accesorios】
+Conjunto de sujetador y braguita en color lavanda pálido. Confeccionado con un delicado encaje superpuesto con bordados de pequeñas flores blancas y violeta claro, y bordes con finas ondas festoneadas. Las copas combinan un satén de brillo discreto con un forro opaco, con un diseño que evoca los anuncios de lencería de lujo japonesa más elegantes.
+La prenda tiene un tamaño y una confección realistas que se adaptan con naturalidad al busto prominente y a la cintura, sostenida con soltura por los tirantes, las copas y las costuras. Se evita la compresión excesiva, que se clave en la piel o que la tela quede flotando. Sin accesorios añadidos, haciendo que la delicadeza del atuendo y la expresión sean las protagonistas.
+
+【Pose, movimiento y mirada】
+Sentada ligeramente hacia el borde del amplio alféizar, con la pelvis orientada en un ángulo suave respecto a la ventana. El peso del cuerpo reposa principalmente en el alféizar, con ambas piernas juntas de forma natural extendidas en diagonal hacia un lado del encuadre. El torso gira suavemente hacia el fotógrafo, sin torsiones forzadas ni arqueo excesivo de la espalda.
+Cierra el libro que acaba de leer y lo apoya sobre uno de los muslos. Una mano roza suavemente la portada del libro y la otra se posa de forma natural cerca de ella. Hombros relajados, barbilla ligeramente recogida. La mirada se dirige directamente al fotógrafo, con la naturalidad de quien acaba de alzar la vista en medio de una conversación.
+
+【Expresión y emoción】
+Una expresión íntima, confiada e indefensa, como si sintiera un ligero pudor ante las palabras de su pareja cercana. En la comisura de los labios se insinúa una leve sonrisa a punto de aflorar, y en las mejillas se percibe un sutil sonrojo.
+Las cejas y los ojos también reflejan emoción; no es una sonrisa fingida, sino una reacción tierna como si fuera a reírse al instante siguiente diciendo "¿Qué dices?". La mirada transmite seguridad y cercanía, sin caer en una sensualidad excesivamente seductora.
+
+【Composición y cámara】
+Composición vertical 4:5 adecuada para publicaciones de X. Dejar un poco de aire sobre la coronilla, encuadrando de forma natural desde la cabeza hasta la mitad de los muslos. La figura se desplaza ligeramente del centro, incorporando a un lado la alta ventana de madera con cortina de encaje y al otro la pared y los muebles para crear profundidad.
+Cámara situada a la altura del pecho o la mirada del sujeto sentado, disparando desde un par de pasos de distancia. Se utiliza una distancia focal natural, de estándar a teleobjetivo medio, evitando la distorsión de gran angular que agrande desproporcionadamente partes del cuerpo. Fondo con un desenfoque suave, manteniendo el nivel de detalle suficiente para reconocer que es una mansión occidental.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la suave luz natural que entra por el gran ventanal lateral. Ilumina con claridad la mejilla, el hombro, el cabello y el borde del encaje del lado de la ventana, dejando sombras apacibles hacia el interior de la habitación. Se añade una tenue luz cálida reflejada de las paredes de madera y el suelo, ajustando la temperatura de color a un tono natural para que la piel no luzca pálida.
+En la piel se aprecian los poros, sombras finas y un rubor natural, mientras que en el cabello se define el flujo de cada mechón con un brillo suave. El satén muestra reflejos sutiles, el encaje bordado tiene relieve minucioso y el marco de madera exhibe un brillo profundo por el uso. La paleta cromática es sobria y refinada, centrada en tonos lavanda, crudo, marrón oscuro y el verde suave del jardín.
+
+【Calidad y elementos excluidos】
+Acabado fotorrealista de alta resolución. Se prioriza la anatomía humana natural, la luz, los materiales y la perspectiva, como si estuviera capturado por una cámara real. Se descartan personas con aspecto de menor de edad, rasgos faciales demasiado infantiles, proporciones corporales antinaturales, extremidades o dedos adicionales, dedos faltantes, dedos fusionados, articulaciones anómalas o confusión entre mano izquierda y derecha.
+Se evitan fallos en el vestuario, fusión del cuerpo con la ropa, telas flotantes o que se claven de forma inverosímil, desnudez no intencionada, distorsión extrema de gran angular y retoque excesivo de piel de muñeca. El busto conserva un volumen generoso y natural, sin gigantismo inverosímil, formas esféricas rígidas, realces anómalos o estructuras que desafíen la gravedad. Sin texto, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)

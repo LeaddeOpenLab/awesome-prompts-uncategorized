@@ -101,20 +101,60 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 <a name="prompt-2100331674039181383"></a>
 
-### Đang dịch
+### Lời nhắc chân dung phong cách biên tập ảnh chân thực dưới ánh sáng tự nhiên, chụp một phụ nữ trưởng thành ngồi bên khung cửa sổ dinh thự cổ kiểu Tây, mặc nội y ren tinh xảo màu tím oải hương nhạt và khép lại cuốn sách.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100331674039181383)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung phong cách biên tập ảnh chân thực dưới ánh sáng tự nhiên, chụp một phụ nữ trưởng thành ngồi bên khung cửa sổ dinh thự cổ kiểu Tây, mặc nội y ren tinh xảo màu tím oải hương nhạt và khép lại cuốn sách.
 
 <img src="images/2100331674039181383-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Bên khung cửa sổ dinh thự cổ kiểu Tây | Buổi chiều khép lại trang sách cùng ren hoa oải hương🌟
+
+【Chủ đề và Phong cách】
+Bức ảnh chân thực (photorealistic) ghi lại khoảnh khắc một phụ nữ trưởng thành sau khi đọc xong đã khép cuốn sách lại, lặng lẽ hướng ánh nhìn về phía người chụp thân thiết bên khung cửa sổ của một dinh thự cổ kiểu Tây. Sự kết hợp giữa thời trang nội y thanh lịch và kiến trúc cổ điển mang phong cách sách ảnh tĩnh lặng, đậm chất biên tập thời trang (fashion editorial).
+Chú trọng vào sự gần gũi tự nhiên như thể một cuộc trò chuyện vừa bắt đầu giữa lúc đang đọc sách, hơn là sự phô diễn cầu kỳ. Một tác phẩm yên bình và có phần lãng mạn, hòa quyện giữa chất gỗ cũ, rèm ren, sắc tím oải hương nhạt và kết cấu làn da mềm mại.
+
+【Địa điểm, Bối cảnh và Không gian】
+Căn phòng riêng trong một dinh thự cổ kiểu Tây được gìn giữ cẩn thận. Có một khung cửa sổ lớn dựng đứng bằng gỗ màu nâu đậm, nơi tấm rèm ren tinh xảo màu be nhạt rủ xuống yên ả. Người phụ nữ ngồi trên bệ cửa sổ bằng gỗ rộng và có chiều sâu.
+Trong phòng bài trí kín đáo một chiếc bàn nhỏ cạnh sườn kiểu cổ điển, vài cuốn sách và bình hoa cắm những bông hoa màu nhạt. Bên ngoài cửa sổ là sắc xanh mờ ảo dịu nhẹ của khu vườn, lưu giữ kết cấu của gỗ và tường thạch cao đặc trưng của kiến trúc cổ, bố cục đảm bảo hậu cảnh không lấn át nhân vật chính.
+
+【Mùa, Thời gian và Thời tiết】
+Ban ngày trong một ngày nắng dịu từ mùa xuân sang đầu hè. Không phải ánh nắng gay gắt trực tiếp, mà là khoảng thời gian ánh sáng tự nhiên dịu nhẹ len qua những đám mây mỏng tràn qua khung cửa sổ vào phòng.
+Bên ngoài nhìn thấy sắc xanh tươi sáng, gió thoảng rất nhẹ. Không đủ làm rèm ren hay mái tóc lay động mạnh, tạo ấn tượng về bầu không khí tĩnh mịch của buổi chiều ngập tràn căn phòng.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản 26 tuổi trưởng thành rõ ràng. Khuôn mặt thanh tú mềm mại, đôi mắt to đen láy, hàng lông mày tự nhiên, sống mũi thon gọn, đôi môi mềm mại có sắc hồng hào. Mái tóc uốn gợn sóng màu nâu trầm dài ngang vai, để lại những lọn tóc con mềm mại quanh mặt. Làn da tông màu vàng sáng (light ochre) với kết cấu tự nhiên, cảm nhận rõ lỗ chân lông và các vùng đổ bóng tinh tế.
+Vóc dáng thon thả ở vai và tay chân, eo thon gọn, kết hợp hài hòa với những đường cong nữ tính tạo nên thân hình quyến rũ tự nhiên và quý phái. Vòng một đầy đặn mềm mại rõ rệt, có độ tròn tự nhiên thuận theo trang phục, tư thế và trọng lực. Vòng hông cũng không phóng đại quá mức, tạo đường nét mềm mại nối liền tự nhiên từ eo.
+
+【Trang phục và Phụ kiện】
+Bộ nội y gồm áo lót và quần lót màu tím oải hương nhạt (pale lavender). Sử dụng chất liệu ren tinh xảo thêu hoa nhỏ màu trắng và tím nhạt xếp lớp, viền ren lượn sóng (scallop) tỉ mỉ. Phần cúp ngực kết hợp vải satin bóng nhẹ với lớp lót mờ đục, thiết kế gợi nhớ đến quảng cáo nội y cao cấp thanh lịch của Nhật Bản.
+Trang phục có kích thước và cấu trúc thực tế, ôm vừa vặn tự nhiên theo khuôn ngực đầy đặn và vòng eo, được nâng đỡ dễ dàng bởi dây áo, cúp ngực và đường may. Tránh việc thắt quá chặt, hằn vào da hay vải bị phồng hở. Không thêm phụ kiện, để sự tinh tế của trang phục và nét mặt làm chủ đạo.
+
+【Tư thế, Cử chỉ và Ánh mắt】
+Ngồi nhẹ trên bệ cửa sổ rộng, xương chậu hơi chếch so với cửa sổ. Trọng lượng chủ yếu tựa vào bệ cửa sổ, hai chân khép tự nhiên duỗi chéo về một bên khung hình. Thân trên nhẹ nhàng xoay về phía người chụp, không vặn mình gượng gạo hay ưỡn lưng quá mức.
+Khép cuốn sách đã đọc xong và đặt lên một bên đùi. Một tay chạm nhẹ vào bìa sách, tay kia đặt hờ tự nhiên bên cạnh. Thả lỏng vai, hơi thu cằm lại. Ánh mắt nhìn thẳng vào người chụp, mang nét tự nhiên như vừa bất chợt ngẩng đầu lên giữa cuộc trò chuyện.
+
+【Biểu cảm và Cảm xúc】
+Biểu cảm thân mật, không phòng bị và thoải mái, dường như hơi ngượng ngùng khi nghe lời nói của người yêu thân thiết. Khóe môi thoáng nụ cười mỉm nhỏ như sắp bật cười, gò má phảng phất chút ửng hồng.
+Lông mày và ánh mắt cũng phản ánh cảm xúc, không phải nụ cười gượng gạo mà là phản ứng dịu dàng như sắp cười vào khoảnh khắc tiếp theo khi thốt lên "Cái gì thế chứ". Ánh mắt toát lên sự an tâm và gần gũi, không mang tính khêu gợi quá mức.
+
+【Bố cục và Máy ảnh】
+Bố cục dọc tỷ lệ 4:5 phù hợp cho bài đăng X (Twitter). Chừa một khoảng trống vừa phải phía trên đỉnh đầu, lấy trọn vẹn từ đầu đến giữa đùi một cách tự nhiên. Đặt nhân vật hơi lệch tâm, một bên là khung cửa sổ gỗ cao cùng rèm ren, bên kia là tường phòng và đồ nội thất để tạo chiều sâu không gian.
+Máy ảnh đặt ở tầm cao ngang ngực đến tầm mắt của người đang ngồi, chụp từ khoảng cách vài bước chân. Sử dụng tiêu cự tự nhiên từ tiêu chuẩn đến cận viễn (standard to medium telephoto), tránh hiện tượng méo góc rộng khiến một phần cơ thể to bất thường. Hậu cảnh làm mờ nhẹ, nhưng vẫn giữ đủ chi tiết để nhận biết đây là một dinh thự kiểu Tây.
+
+【Ánh sáng, Màu sắc, Kết cấu và Bầu không khí】
+Nguồn sáng chính là ánh sáng tự nhiên dịu nhẹ chiếu vào từ khung cửa sổ lớn bên cạnh. Chiếu sáng má, vai, tóc và viền ren phía cửa sổ, để lại những bóng đổ êm dịu ở phía trong phòng. Bổ sung ánh sáng phản xạ tông ấm nhẹ từ tường gỗ và sàn nhà để cân bằng nhiệt độ màu tự nhiên, giúp da không bị nhợt nhạt.
+Làn da lưu giữ lỗ chân lông, bóng mờ tinh tế và sắc hồng tự nhiên, mái tóc thể hiện từng sợi mềm mại óng ả. Vải satin có độ phản chiếu kín đáo, ren thêu có chi tiết nổi khối, khung gỗ có độ bóng sâu do đã qua sử dụng lâu năm. Tông màu tổng thể trang nhã và tĩnh lặng, xoay quanh sắc tím oải hương, màu be, nâu đậm và xanh nhạt của khu vườn.
+
+【Chất lượng và Yếu tố loại trừ】
+Thể hiện chân thực độ phân giải cao. Chú trọng cơ thể người, ánh sáng, chất liệu và phối cảnh tự nhiên như được chụp bằng máy ảnh thực tế. Tránh người trông giống vị thành niên, khuôn mặt quá non nớt, tỷ lệ cơ thể phi tự nhiên, thừa tay chân hoặc ngón tay, thiếu ngón, dính ngón, khớp xương dị dạng, nhầm lẫn tay trái phải.
+Tránh hỏng hóc trang phục, cơ thể hòa lẫn vào trang phục, vải phồng hoặc thắt hằn bất thường, hở hang ngoài ý muốn, méo góc rộng cực đoan, chỉnh mịn da quá đà. Vòng một giữ độ đầy đặn tự nhiên, không biến dạng khổng lồ bất thường, không cứng đơ hình cầu, không nâng đẩy quá mức, không tạo hình chống lại trọng lực. Không có chữ, logo, hình mờ hay giao diện người dùng (UI) trong ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
