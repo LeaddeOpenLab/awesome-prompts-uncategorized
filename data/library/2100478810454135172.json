@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T08:25:27.072Z",
+  "model": "unknown-image",
+  "prompt": "素人拍摄的各种失败照片，3×3 九宫格排列，9:16 竖式构图",
+  "promptTranslations": {
+    "en": "Various failed photos taken by amateurs, arranged in a 3×3 grid, 9:16 vertical composition"
+  },
+  "summaryTranslations": {
+    "en": "A collection of failed amateur photos featuring blur, obstructions, etc., in a 3×3 grid format"
+  },
+  "translationVersion": 2,
+  "summary": "3×3 九宫格形式的素人模糊、遮挡等失败照片集合",
+  "summaryEn": "A 3x3 grid collage of failed amateur photos featuring blurs and finger obstructions",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100478810454135172",
+    "canonicalUrl": "https://x.com/MrGafish/status/2100478810454135172",
+    "author": {
+      "username": "MrGafish",
+      "displayName": "鱼哥",
+      "profileUrl": "https://x.com/MrGafish"
+    },
+    "publishedAt": "2026-09-17T06:55:48.000Z",
+    "collectedAt": "2026-09-17T08:16:24.265Z",
+    "language": "zh",
+    "originalText": "为什么这个玩法会火，我不懂诶，看啥呢？\n\nPrompt: \n素人拍摄的各种失败照片，3×3 九宫格排列，9:16 竖式构图 https://t.co/WYCot9JsbZ",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZmPNnbwAAgAZw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZmPNnbwAAgAZw.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 352
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MrGafish/status/2100478810454135172",
+  "coverUrl": "https://pbs.twimg.com/media/HSZmPNnbwAAgAZw.jpg",
+  "coverPath": "images/2100478810454135172-1.jpg",
+  "imagePaths": [
+    "images/2100478810454135172-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSZmPNnbwAAgAZw",
+    "x-post:2100478810454135172"
+  ],
+  "analysis": {
+    "summary": "3×3 九宫格形式的素人模糊、遮挡等失败照片集合",
+    "summaryEn": "A 3x3 grid collage of failed amateur photos featuring blurs and finger obstructions",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图严格遵循了 3x3 九宫格构图，展示了手指遮挡镜头、运动模糊、拍糊的猫狗等典型的业余失败抓拍画面。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "素人拍摄的各种失败照片，3×3 九宫格排列，9:16 竖式构图",
+    "sourceRange": {
+      "start": 30,
+      "end": 61
+    },
+    "translations": {
+      "zh": "素人拍摄的各种失败照片，3×3 九宫格排列，9:16 竖式构图",
+      "en": "Various failed candid photos taken by amateurs, arranged in a 3x3 grid, 9:16 vertical composition"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "摄影与幽默网格图像生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

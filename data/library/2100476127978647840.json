@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T08:28:23.797Z",
+  "model": "unknown-video",
+  "prompt": "A cinematic 15-second viral-style horror dance video. A stylish young woman wearing a fashionable short skirt stands alone in the foreground, smoking calmly with a cool fearless attitude. Behind her, in a dark smoky hall, a crowd of creepy skeletons stands in rows. At first they are still, then as the woman slowly walks backward into the group, the skeletons begin making eerie movements and creepy sounds. The woman joins them confidently. In the final moments, the woman and the skeleton crowd perform a synchronized viral dance together with sharp head movements, shoulder pops, and rhythmic body motions. Dark moody lighting, smoky atmosphere, dramatic backlight, stylish horror aesthetic, cinematic, high detail, smooth motion, visually striking.",
+  "promptTranslations": {
+    "en": "A cinematic 15-second viral-style horror dance video. A stylish young woman wearing a fashionable short skirt stands alone in the foreground, smoking calmly with a cool fearless attitude. Behind her, in a dark smoky hall, a crowd of creepy skeletons stands in rows. At first they are still, then as the woman slowly walks backward into the group, the skeletons begin making eerie movements and creepy sounds. The woman joins them confidently. In the final moments, the woman and the skeleton crowd perform a synchronized viral dance together with sharp head movements, shoulder pops, and rhythmic body motions. Dark moody lighting, smoky atmosphere, dramatic backlight, stylish horror aesthetic, cinematic, high detail, smooth motion, visually striking."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic horror dance video of a woman smoking and performing synchronized choreography with skeletons in a smoky hall."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic horror dance video of a woman smoking and performing synchronized choreography with skeletons in a smoky hall.",
+  "summaryEn": "Cinematic horror dance video of a woman smoking and performing synchronized choreography with skeletons in a smoky hall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100476127978647840",
+    "canonicalUrl": "https://x.com/AIwithWania/status/2100476127978647840",
+    "author": {
+      "username": "AIwithWania",
+      "displayName": "Wania",
+      "profileUrl": "https://x.com/AIwithWania"
+    },
+    "publishedAt": "2026-09-17T06:45:08.000Z",
+    "collectedAt": "2026-09-17T08:16:24.265Z",
+    "language": "en",
+    "originalText": "The skeleton crowd twist makes it look unique and fun.\nIt feels cinematic more than AI if the motion stays clean.\n\nVideo prompt:-\n\nA cinematic 15-second viral-style horror dance video. A stylish young woman wearing a fashionable short skirt stands alone in the foreground, smoking calmly with a cool fearless attitude. Behind her, in a dark smoky hall, a crowd of creepy skeletons stands in rows. At first they are still, then as the woman slowly walks backward into the group, the skeletons begin making eerie movements and creepy sounds. The woman joins them confidently. In the final moments, the woman and the skeleton crowd perform a synchronized viral dance together with sharp head movements, shoulder pops, and rhythmic body motions. Dark moody lighting, smoky atmosphere, dramatic backlight, stylish horror aesthetic, cinematic, high detail, smooth motion, visually striking.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithWania/status/2100476127978647840",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100476041102082048/img/zOsBoCgcbAkXeesj.jpg",
+        "analysisUrl": "https://x.com/AIwithWania/status/2100476127978647840"
+      }
+    ],
+    "metrics": {
+      "likeCount": 37,
+      "repostCount": 8,
+      "replyCount": 20,
+      "quoteCount": 0,
+      "viewCount": 664
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithWania/status/2100476127978647840",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100476041102082048/img/zOsBoCgcbAkXeesj.jpg",
+  "coverPath": "covers/2100476127978647840.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100476041102082048",
+    "x-post:2100476127978647840"
+  ],
+  "analysis": {
+    "summary": "Cinematic horror dance video of a woman smoking and performing synchronized choreography with skeletons in a smoky hall.",
+    "summaryEn": "Cinematic horror dance video of a woman smoking and performing synchronized choreography with skeletons in a smoky hall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely depicts the woman smoking, walking backward, and performing synchronized rhythmic head and body movements with rows of skeletons under dramatic backlight."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic 15-second viral-style horror dance video. A stylish young woman wearing a fashionable short skirt stands alone in the foreground, smoking calmly with a cool fearless attitude. Behind her, in a dark smoky hall, a crowd of creepy skeletons stands in rows. At first they are still, then as the woman slowly walks backward into the group, the skeletons begin making eerie movements and creepy sounds. The woman joins them confidently. In the final moments, the woman and the skeleton crowd perform a synchronized viral dance together with sharp head movements, shoulder pops, and rhythmic body motions. Dark moody lighting, smoky atmosphere, dramatic backlight, stylish horror aesthetic, cinematic, high detail, smooth motion, visually striking.",
+    "sourceRange": {
+      "start": 131,
+      "end": 884
+    },
+    "translations": {
+      "zh": "一段15秒电影质感的病毒式恐怖舞蹈视频。前景中一位身穿时尚短裙的年轻女子独自站立，神情冷酷自信地抽烟。在她身后昏暗弥漫烟雾的大厅里，成排站立着令人毛骨悚然的骷髅。起初它们静止不动，当女子缓缓后退步入骷髅群时，骷髅开始做出诡异动作。女子自信融入，最终女子与骷髅群同步跳起带有鲜明甩头与耸肩律动的舞蹈。暗黑情绪光影，烟雾氛围，戏剧性逆光，高细节与流畅运镜。",
+      "en": "A cinematic 15-second viral-style horror dance video. A stylish young woman wearing a fashionable short skirt stands alone in the foreground, smoking calmly with a cool fearless attitude. Behind her, in a dark smoky hall, a crowd of creepy skeletons stands in rows. At first they are still, then as the woman slowly walks backward into the group, the skeletons begin making eerie movements and creepy sounds. The woman joins them confidently. In the final moments, the woman and the skeleton crowd perform a synchronized viral dance together with sharp head movements, shoulder pops, and rhythmic body motions. Dark moody lighting, smoky atmosphere, dramatic backlight, stylish horror aesthetic, cinematic, high detail, smooth motion, visually striking."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
