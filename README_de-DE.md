@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**241** Prompts · Zuletzt hinzugefügt: **2026-09-16**
+**254** Prompts · Zuletzt hinzugefügt: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,94 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2100330725056934194"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100330725056934194)
+
+Fotografie · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100330725056934194-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100334525058572615"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100334525058572615)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100334525058572615-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100333689553207759"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100333689553207759)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100333689553207759-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100331674039181383"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100331674039181383)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100331674039181383-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100153971088482321"></a>
 
@@ -2953,20 +3041,20 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2100287072775123218"></a>
 
-### Übersetzung läuft
+### 2D-Illustration eines blonden hübschen Mannes und eines blauhaarigen schönen Mädchens.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Originalbeitrag](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
 
 Anime / Manga · Illustration · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 2D-Illustration eines blonden hübschen Mannes und eines blauhaarigen schönen Mädchens.
 
 <img src="images/2100287072775123218-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+2D-Anime-Schönheiten, Kyotaro Suga und Sumire Hirose, Illustration mit blonden und blauen Haaren
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3636,6 +3724,28 @@ Vermeide erkennbare urheberrechtlich geschützte Charaktere, Ähnlichkeiten mit 
 
 ## 3D-Rendering
 
+<a name="prompt-2100361373863825594"></a>
+
+### Übersetzung läuft
+
+Autor：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Originalbeitrag](https://x.com/andrew_n_carr/status/2100361373863825594)
+
+3D-Rendering · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100361373863825594.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2097725977443131648"></a>
 
 ### Verwandlung eines Fotos in eine Sammler-Actionfigur in einer hochwertigen Verpackung, inklusive Personenmerkmalen und Miniaturzubehör im Stil von 3D-Rendering und Produktfotografie.
@@ -3825,6 +3935,28 @@ Erstelle ein vertikales Reise-Kunstplakat im Vorher-Nachher-Vergleich (oben/unte
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100332541437960533"></a>
+
+### Übersetzung läuft
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100332541437960533)
+
+Retro / Vintage · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100332541437960533-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2100251372339761202"></a>
 
@@ -4332,6 +4464,28 @@ Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto al
 
 ## Cyberpunk / Sci-Fi
 
+<a name="prompt-2100340449441685763"></a>
+
+### Übersetzung läuft
+
+Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Originalbeitrag](https://x.com/RobotCleopatra/status/2100340449441685763)
+
+Cyberpunk / Sci-Fi · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100340449441685763-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2097951816675639459"></a>
 
 ### Eine 15-sekündige Dokumentarszene aus den frühen 2000er Jahren, in der ein Reporter ein Alien in der Nähe eines gelandeten Raumschiffs interviewt und das Alien enthüllt, dass es zur Erde gekommen ist, um einen McDonald's-Gutschein einzulösen.
@@ -4444,22 +4598,156 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2100317770344718548"></a>
+<a name="prompt-2100170328689565929"></a>
 
 ### Übersetzung läuft
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2100170328689565929)
+
+Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100170328689565929-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100360689378570439"></a>
+
+### Übersetzung läuft
+
+Autor：[@InfiniteNeural](https://x.com/InfiniteNeural) · [Originalbeitrag](https://x.com/InfiniteNeural/status/2100360689378570439)
+
+Charakter · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100360689378570439.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100343972665135401"></a>
+
+### Übersetzung läuft
+
+Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Originalbeitrag](https://x.com/RealLeeForest/status/2100343972665135401)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100343972665135401-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100349144896262406"></a>
+
+### Übersetzung läuft
+
+Autor：[@Shinebynous](https://x.com/Shinebynous) · [Originalbeitrag](https://x.com/Shinebynous/status/2100349144896262406)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2100349144896262406-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2100349144896262406-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100369940817510612"></a>
+
+### Übersetzung läuft
+
+Autor：[@JohnnyJWhitaker](https://x.com/JohnnyJWhitaker) · [Originalbeitrag](https://x.com/JohnnyJWhitaker/status/2100369940817510612)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100369940817510612.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100363903028834430"></a>
+
+### Übersetzung läuft
+
+Autor：[@you8iu](https://x.com/you8iu) · [Originalbeitrag](https://x.com/you8iu/status/2100363903028834430)
+
+Sonstige · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2100363903028834430.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2100317770344718548"></a>
+
+### Leuchtende Regenbogenstraße
 
 Autor：[@owenxplore](https://x.com/owenxplore) · [Originalbeitrag](https://x.com/owenxplore/status/2100317770344718548)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Leuchtende Regenbogenstraße
 
 <img src="images/2100317770344718548-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Leuchtende Regenbogenstraße
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4468,20 +4756,34 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2100317906399604840"></a>
 
-### Übersetzung läuft
+### Sequenzielle Videoszene eines traurigen kleinen Mädchens im Garten, das aufheitert, als es von zwei Hunden getröstet und umarmt wird.
 
 Autor：[@Anaiappai](https://x.com/Anaiappai) · [Originalbeitrag](https://x.com/Anaiappai/status/2100317906399604840)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Sequenzielle Videoszene eines traurigen kleinen Mädchens im Garten, das aufheitert, als es von zwei Hunden getröstet und umarmt wird.
 
 <img src="covers/2100317906399604840.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+0–2.5 s
+
+Nahaufnahme des kleinen Mädchens, das neben dem Haus im Garten sitzt oder steht. Sie schaut mit traurigem Ausdruck und leicht mattem Blick zur Seite. Eine leichte Brise bewegt sanft ihr Haar und die Blätter um sie herum. Sehr langsame Kamerafahrt auf ihr Gesicht zu.
+
+2.5–5 s
+
+Die Kamera schwenkt sanft nach unten und zur Seite und gibt den Blick auf den schwarzen Hund frei, der sie beobachtet. Der Hund wedelt langsam mit dem Schwanz und nähert sich ihr. Auch der gelbe Hund blickt auf und beginnt sich zu nähern.
+
+5–7.5 s
+
+Halbtotale. Die beiden Hunde kommen bei dem Mädchen an. Der schwarze Hund lehnt seinen Kopf sanft an ihr Bein, während der gelbe Hund schwanzwedelnd herantritt. Das Mädchen blickt zu ihnen hinunter. Ihr Gesichtsausdruck beginnt sich zu verändern.
+
+7.5–10  
+
+Finaler filmischer Zoom. Das Mädchen hockt sich hin und umarmt die beiden Hunde. Sie schließt kurz die Augen und ein kleines, aufrichtiges Lächeln zeichnet sich ab. Die Hunde bleiben dicht bei ihr. Das warme Licht des Gartens umhüllt alle drei.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4490,20 +4792,20 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2100310230110454134"></a>
 
-### Übersetzung läuft
+### Prompt zur Erstellung einer Figur des Charakters „Ke-chan“.
 
 Autor：[@eE50339](https://x.com/eE50339) · [Originalbeitrag](https://x.com/eE50339/status/2100310230110454134)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Erstellung einer Figur des Charakters „Ke-chan“.
 
 <img src="images/2100310230110454134-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Als Figur darstellen\nKe-chan
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4512,20 +4814,20 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2100298674664620291"></a>
 
-### Übersetzung läuft
+### Ein Berg in Form eines lebenden Samens mit Innenhallen aus Getreide und Wurzeln, einem sich spaltenden Gipfel und Figuren, die durch seine inneren Kammern ziehen.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Originalbeitrag](https://x.com/RealLeeForest/status/2100298674664620291)
 
 Architektur / Interieur · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Berg in Form eines lebenden Samens mit Innenhallen aus Getreide und Wurzeln, einem sich spaltenden Gipfel und Figuren, die durch seine inneren Kammern ziehen.
 
 <img src="images/2100298674664620291-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein Berg der ein lebendiger Samen ist Rinde wie Stein innere Hallen aus dichtem Korn und Wurzeln der Gipfel beginnt gerade aufzubrechen Wurzeln durchbrechen die unteren Hänge Erde und Stein heben sich Figuren bewegen sich zu höheren inneren Pfaden Wächter ernten von den Innenwänden ein Suchender auf einem hohen Felsvorsprung Kornvögel in den Rissen lebender Wurzel-Aufzug Wurzelsturm realistische Rinden- Korn- Wurzel- Stein- und Figurenbeschaffenheit filmische Beleuchtung starker Kontrast zwischen emporhebenden Wurzeln und ruhigem Gipfel hochdetailliert markante Komposition stimmige Fantasy-Atmosphäre
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

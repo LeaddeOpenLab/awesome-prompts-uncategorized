@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**241** Prompt · Son eklenen: **2026-09-16**
+**254** Prompt · Son eklenen: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,94 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2100330725056934194"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100330725056934194)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100330725056934194-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100334525058572615"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100334525058572615)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100334525058572615-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100333689553207759"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100333689553207759)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100333689553207759-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100331674039181383"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100331674039181383)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100331674039181383-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100153971088482321"></a>
 
@@ -2970,20 +3058,20 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2100287072775123218"></a>
 
-### Çeviri sürüyor
+### Sarı saçlı yakışıklı bir erkek ve mavi saçlı güzel bir kızın 2D illüstrasyonu.
 
 Yazar：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Orijinal gönderi](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
 
 Anime / Manga · İllüstrasyon · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sarı saçlı yakışıklı bir erkek ve mavi saçlı güzel bir kızın 2D illüstrasyonu.
 
 <img src="images/2100287072775123218-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+2D yakışıklı erkek ve güzel kadın, Kyotaro Suga ve Sumire Hirose, sarı saçlı ve mavi saçlı illüstrasyon
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3653,6 +3741,28 @@ Tanınabilir telif hakkıyla korunan karakterlerden, ünlü benzerliklerinden, m
 
 ## 3D Modelleme
 
+<a name="prompt-2100361373863825594"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Orijinal gönderi](https://x.com/andrew_n_carr/status/2100361373863825594)
+
+3D Modelleme · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100361373863825594.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2097725977443131648"></a>
 
 ### Fotoğrafı, 3D işleme ve ürün fotoğrafçılığı tarzında karakter özellikleri ve minyatür aksesuarlar içeren, birinci sınıf ambalaj kutusunda koleksiyonluk bir aksiyon figürüne dönüştürme istemi.
@@ -3842,6 +3952,28 @@ Dikey biçimde, alt ve üst karşılaştırmalı bir seyahat sanatı afişi olu�
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100332541437960533"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100332541437960533)
+
+Retro / Vintage · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100332541437960533-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2100251372339761202"></a>
 
@@ -4349,6 +4481,28 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 
 ## Siberpunk / Bilim Kurgu
 
+<a name="prompt-2100340449441685763"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Orijinal gönderi](https://x.com/RobotCleopatra/status/2100340449441685763)
+
+Siberpunk / Bilim Kurgu · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100340449441685763-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2097951816675639459"></a>
 
 ### 2000'lerin başlarına ait, bir muhabirin iniş yapmış bir uzay gemisinin yanında bir uzaylıyla röportaj yaptığı ve uzaylının Dünya'ya bir McDonald's kuponunu kullanmak için geldiğini açıkladığı 15 saniyelik bir belgesel sahnesi.
@@ -4461,22 +4615,156 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2100317770344718548"></a>
+<a name="prompt-2100170328689565929"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2100170328689565929)
+
+Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100170328689565929-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100360689378570439"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@InfiniteNeural](https://x.com/InfiniteNeural) · [Orijinal gönderi](https://x.com/InfiniteNeural/status/2100360689378570439)
+
+Karakter · Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100360689378570439.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100343972665135401"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@RealLeeForest](https://x.com/RealLeeForest) · [Orijinal gönderi](https://x.com/RealLeeForest/status/2100343972665135401)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100343972665135401-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100349144896262406"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Shinebynous](https://x.com/Shinebynous) · [Orijinal gönderi](https://x.com/Shinebynous/status/2100349144896262406)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2100349144896262406-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2100349144896262406-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100369940817510612"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@JohnnyJWhitaker](https://x.com/JohnnyJWhitaker) · [Orijinal gönderi](https://x.com/JohnnyJWhitaker/status/2100369940817510612)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100369940817510612.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100363903028834430"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@you8iu](https://x.com/you8iu) · [Orijinal gönderi](https://x.com/you8iu/status/2100363903028834430)
+
+Diğer · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2100363903028834430.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2100317770344718548"></a>
+
+### Parlayan gökkuşağı yolu
 
 Yazar：[@owenxplore](https://x.com/owenxplore) · [Orijinal gönderi](https://x.com/owenxplore/status/2100317770344718548)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Parlayan gökkuşağı yolu
 
 <img src="images/2100317770344718548-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Parlayan gökkuşağı yolu
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4485,20 +4773,34 @@ Diğer · Yayımlandı
 
 <a name="prompt-2100317906399604840"></a>
 
-### Çeviri sürüyor
+### Bahçede üzgün duran bir kız çocuğunun, iki köpek tarafından teselli edilip sarılınarak neşelendiği sıralı video sahnesi.
 
 Yazar：[@Anaiappai](https://x.com/Anaiappai) · [Orijinal gönderi](https://x.com/Anaiappai/status/2100317906399604840)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bahçede üzgün duran bir kız çocuğunun, iki köpek tarafından teselli edilip sarılınarak neşelendiği sıralı video sahnesi.
 
 <img src="covers/2100317906399604840.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+0–2.5 s
+
+Evin yanında, bahçede oturan veya ayakta duran kız çocuğunun yakın çekimi. Üzgün bir ifadeyle ve hafifçe donuk gözlerle yana bakıyor. Hafif bir esinti saçlarını ve etraftaki yaprakları nazikçe dalgalandırıyor. Yüzüne doğru çok yavaşça yaklaşan kamera.
+
+2.5–5 s
+
+Kamera yumuşak bir hareketle aşağıya ve yana doğru kayarak onu izleyen siyah köpeği ortaya çıkarıyor. Köpek kuyruğunu yavaşça sallıyor ve ona doğru yaklaşıyor. Sarı köpek de başını kaldırıp yaklaşmaya başlıyor.
+
+5–7.5 s
+
+Orta plan. İki köpek kızın yanına ulaşıyor. Sarı köpek kuyruğunu sallayarak yaklaşırken, siyah köpek başını nazikçe kızın bacağına yaslıyor. Kız bakışlarını onlara doğru indiriyor. Yüz ifadesi değişmeye başlıyor.
+
+7.5–10  
+
+Son sinematik yakınlaşma. Kız çömelerek iki köpeğe sarılıyor. Gözlerini kısaca kapatıyor ve yüzünde içten, hafif bir tebessüm beliriyor. Köpekler onun yanında kalıyor. Bahçenin sıcak ışığı üçünü birden sarıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4507,20 +4809,20 @@ Karakter · Yayımlandı
 
 <a name="prompt-2100310230110454134"></a>
 
-### Çeviri sürüyor
+### &quot;Ke-chan&quot; karakterinin figür haline getirilmesi için istem.
 
 Yazar：[@eE50339](https://x.com/eE50339) · [Orijinal gönderi](https://x.com/eE50339/status/2100310230110454134)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** &quot;Ke-chan&quot; karakterinin figür haline getirilmesi için istem.
 
 <img src="images/2100310230110454134-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Figürleştirme\nKe-chan
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4529,20 +4831,20 @@ Karakter · Yayımlandı
 
 <a name="prompt-2100298674664620291"></a>
 
-### Çeviri sürüyor
+### Tahıl ve köklerden iç salonları, yarılan bir zirvesi ve iç odalarında ilerleyen figürleri olan canlı tohum şeklinde bir dağ.
 
 Yazar：[@RealLeeForest](https://x.com/RealLeeForest) · [Orijinal gönderi](https://x.com/RealLeeForest/status/2100298674664620291)
 
 Mimari / İç Mekan · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tahıl ve köklerden iç salonları, yarılan bir zirvesi ve iç odalarında ilerleyen figürleri olan canlı tohum şeklinde bir dağ.
 
 <img src="images/2100298674664620291-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tek bir canlı tohum olan bir dağ taş gibi kabuk sıkışmış tahıl ve kökten iç salonlar zirve henüz yarılmaya başlıyor kökler alt yamaçları kırıyor toprak ve taş yükseliyor daha yüksek iç yollara doğru ilerleyen figürler iç duvarlardan hasat yapan koruyucular yüksek bir çıkıntı üzerinde bir arayıcı çatlaklarda tahıl kuşları canlı kök asansörü kök fırtınası gerçekçi kabuk tahıl kök taş ve figür dokusu sinematik aydınlatma yükselen kök ile durgun zirve arasında güçlü kontrast son derece ayrıntılı çarpıcı kompozisyon tutarlı fantastik atmosfer
 ```
 
 [↑ Kategorilere dön](#catalog)

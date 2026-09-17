@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**241** Prompt · Ultima aggiunta: **2026-09-16**
+**254** Prompt · Ultima aggiunta: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,94 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100330725056934194"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2100330725056934194)
+
+Fotografia · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100330725056934194-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100334525058572615"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2100334525058572615)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100334525058572615-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100333689553207759"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2100333689553207759)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100333689553207759-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100331674039181383"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2100331674039181383)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100331674039181383-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2100153971088482321"></a>
 
@@ -2953,20 +3041,20 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2100287072775123218"></a>
 
-### Traduzione in corso
+### Illustrazione in 2D di un bel ragazzo biondo e una bellissima ragazza dai capelli blu.
 
 Autore：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Post originale](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
 
 Anime / Manga · Illustrazione · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Illustrazione in 2D di un bel ragazzo biondo e una bellissima ragazza dai capelli blu.
 
 <img src="images/2100287072775123218-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ragazzo e ragazza affascinanti in stile 2D, Kyotaro Suga e Sumire Hirose, illustrazione con capelli biondi e capelli blu
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3636,6 +3724,28 @@ Evita personaggi riconoscibili protetti da copyright, somiglianze con celebrità
 
 ## Rendering 3D
 
+<a name="prompt-2100361373863825594"></a>
+
+### Traduzione in corso
+
+Autore：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Post originale](https://x.com/andrew_n_carr/status/2100361373863825594)
+
+Rendering 3D · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100361373863825594.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097725977443131648"></a>
 
 ### Trasformazione di una foto in un'action figure da collezione in una confezione premium, con tratti distintivi e accessori in miniatura correlati in stile rendering 3D e fotografia di prodotto.
@@ -3825,6 +3935,28 @@ Crea un poster artistico di viaggio verticale con confronto superiore e inferior
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100332541437960533"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2100332541437960533)
+
+Retro / Vintage · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100332541437960533-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2100251372339761202"></a>
 
@@ -4332,6 +4464,28 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 
 ## Cyberpunk / Sci-Fi
 
+<a name="prompt-2100340449441685763"></a>
+
+### Traduzione in corso
+
+Autore：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Post originale](https://x.com/RobotCleopatra/status/2100340449441685763)
+
+Cyberpunk / Sci-Fi · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100340449441685763-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2097951816675639459"></a>
 
 ### Una scena documentaristica di 15 secondi dei primi anni 2000 in cui un reporter intervista un alieno vicino a un'astronave atterrata, e l'alieno rivela di essere venuto sulla Terra per riscattare un coupon di McDonald's.
@@ -4444,22 +4598,156 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2100317770344718548"></a>
+<a name="prompt-2100170328689565929"></a>
 
 ### Traduzione in corso
+
+Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2100170328689565929)
+
+Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100170328689565929-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100360689378570439"></a>
+
+### Traduzione in corso
+
+Autore：[@InfiniteNeural](https://x.com/InfiniteNeural) · [Post originale](https://x.com/InfiniteNeural/status/2100360689378570439)
+
+Personaggio · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100360689378570439.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100343972665135401"></a>
+
+### Traduzione in corso
+
+Autore：[@RealLeeForest](https://x.com/RealLeeForest) · [Post originale](https://x.com/RealLeeForest/status/2100343972665135401)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100343972665135401-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100349144896262406"></a>
+
+### Traduzione in corso
+
+Autore：[@Shinebynous](https://x.com/Shinebynous) · [Post originale](https://x.com/Shinebynous/status/2100349144896262406)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100349144896262406-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100349144896262406-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100369940817510612"></a>
+
+### Traduzione in corso
+
+Autore：[@JohnnyJWhitaker](https://x.com/JohnnyJWhitaker) · [Post originale](https://x.com/JohnnyJWhitaker/status/2100369940817510612)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100369940817510612.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100363903028834430"></a>
+
+### Traduzione in corso
+
+Autore：[@you8iu](https://x.com/you8iu) · [Post originale](https://x.com/you8iu/status/2100363903028834430)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2100363903028834430.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100317770344718548"></a>
+
+### Strada arcobaleno luminosa
 
 Autore：[@owenxplore](https://x.com/owenxplore) · [Post originale](https://x.com/owenxplore/status/2100317770344718548)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Strada arcobaleno luminosa
 
 <img src="images/2100317770344718548-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Strada arcobaleno luminosa
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4468,20 +4756,34 @@ Traduzione in corso
 
 <a name="prompt-2100317906399604840"></a>
 
-### Traduzione in corso
+### Scena video sequenziale di una bambina triste in un giardino che ritrova il sorriso venendo consolata e abbracciata da due cani.
 
 Autore：[@Anaiappai](https://x.com/Anaiappai) · [Post originale](https://x.com/Anaiappai/status/2100317906399604840)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena video sequenziale di una bambina triste in un giardino che ritrova il sorriso venendo consolata e abbracciata da due cani.
 
 <img src="covers/2100317906399604840.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+0–2.5 s
+
+Primo piano della bambina seduta o in piedi accanto alla casa, in giardino. Guarda di lato con un'espressione triste e gli occhi leggermente spenti. Una leggera brezza muove dolcemente i suoi capelli e le foglie intorno. Carrellata molto lenta in avvicinamento al suo viso.
+
+2.5–5 s
+
+La telecamera compie una morbida panoramica verso il basso e di lato, rivelando il cane nero che la osserva. Il cane scodinzola lentamente e si avvicina a lei. Anche il cane giallo alza lo sguardo e comincia ad avvicinarsi.
+
+5–7.5 s
+
+Mezzo busto. I due cani arrivano accanto alla bambina. Il cane nero appoggia delicatamente la testa contro la sua gamba mentre il cane giallo si avvicina scodinzolando. La bambina abbassa lo sguardo verso di loro. La sua espressione comincia a cambiare.
+
+7.5–10  
+
+Primo piano cinematografico finale. La bambina si accovaccia e abbraccia i due cani. Chiude brevemente gli occhi e appare un piccolo sorriso genuino. I cani rimangono vicino a lei. La luce calda del giardino avvolge tutti e tre.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4490,20 +4792,20 @@ Traduzione in corso
 
 <a name="prompt-2100310230110454134"></a>
 
-### Traduzione in corso
+### Prompt per trasformare in statuetta il personaggio &quot;Ke-chan&quot;.
 
 Autore：[@eE50339](https://x.com/eE50339) · [Post originale](https://x.com/eE50339/status/2100310230110454134)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per trasformare in statuetta il personaggio &quot;Ke-chan&quot;.
 
 <img src="images/2100310230110454134-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Trasformazione in statuetta\nKe-chan
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4512,20 +4814,20 @@ Traduzione in corso
 
 <a name="prompt-2100298674664620291"></a>
 
-### Traduzione in corso
+### Una montagna vivente a forma di seme con sale interne di grano e radici, una vetta che si fende e figure che attraversano le sue camere interne.
 
 Autore：[@RealLeeForest](https://x.com/RealLeeForest) · [Post originale](https://x.com/RealLeeForest/status/2100298674664620291)
 
 Architettura / Interni · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Una montagna vivente a forma di seme con sale interne di grano e radici, una vetta che si fende e figure che attraversano le sue camere interne.
 
 <img src="images/2100298674664620291-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una montagna che è un seme vivente corteccia come pietra sale interne di grano compatto e radici la vetta che ha appena iniziato a spaccarsi radici che rompono i pendii inferiori terra e pietra che si sollevano figure che si spostano verso percorsi interni più elevati custodi che raccolgono dalle pareti interne un cercatore su una sporgenza alta uccelli del grano nelle fessure ascensore di radici viventi tempesta di radici texture realistica di corteccia grano radice pietra e figure illuminazione cinematografica forte contrasto tra radici che si sollevano e vetta immobile altamente dettagliato composizione suggestiva atmosfera fantasy coerente
 ```
 
 [↑ Torna alle categorie](#catalog)

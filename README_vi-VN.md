@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**241** Prompt · Bổ sung mới nhất: **2026-09-16**
+**254** Prompt · Bổ sung mới nhất: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,94 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2100330725056934194"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100330725056934194)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100330725056934194-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100334525058572615"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100334525058572615)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100334525058572615-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100333689553207759"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100333689553207759)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100333689553207759-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100331674039181383"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100331674039181383)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100331674039181383-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100153971088482321"></a>
 
@@ -2988,20 +3076,20 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2100287072775123218"></a>
 
-### Đang dịch
+### Tranh minh họa 2D về một mỹ nam tóc vàng và một mỹ nữ tóc xanh lam.
 
 Tác giả：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Bài gốc](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
 
 Anime / Manga · Minh họa · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tranh minh họa 2D về một mỹ nam tóc vàng và một mỹ nữ tóc xanh lam.
 
 <img src="images/2100287072775123218-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Trai xinh gái đẹp 2D, Suga Kyotaro và Hirose Sumire, tranh minh họa tóc vàng và tóc xanh lam
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3671,6 +3759,28 @@ Tránh các nhân vật có bản quyền dễ nhận biết, chân dung ngườ
 
 ## Kết xuất 3D
 
+<a name="prompt-2100361373863825594"></a>
+
+### Đang dịch
+
+Tác giả：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Bài gốc](https://x.com/andrew_n_carr/status/2100361373863825594)
+
+Kết xuất 3D · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100361373863825594.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2097725977443131648"></a>
 
 ### Chuyển đổi ảnh thành mô hình hành động phiên bản sưu tầm trong hộp bao bì cao cấp, gồm đặc điểm nhận dạng cùng phụ kiện thu nhỏ liên quan theo phong cách kết xuất 3D và chụp ảnh sản phẩm.
@@ -3860,6 +3970,28 @@ Tạo áp phích nghệ thuật du lịch đối chiếu trên-dưới theo chi�
 <a name="category-retro-vintage"></a>
 
 ## Cổ điển / Cổ điển
+
+<a name="prompt-2100332541437960533"></a>
+
+### Đang dịch
+
+Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100332541437960533)
+
+Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100332541437960533-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2100251372339761202"></a>
 
@@ -4365,6 +4497,28 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 
 ## Cyberpunk / Khoa học viễn tưởng
 
+<a name="prompt-2100340449441685763"></a>
+
+### Đang dịch
+
+Tác giả：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Bài gốc](https://x.com/RobotCleopatra/status/2100340449441685763)
+
+Cyberpunk / Khoa học viễn tưởng · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100340449441685763-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2097951816675639459"></a>
 
 ### Một cảnh tài liệu dài 15 giây đầu những năm 2000, trong đó một phóng viên phỏng vấn một người ngoài hành tinh gần phi thuyền vừa hạ cánh, và người ngoài hành tinh tiết lộ rằng nó đến Trái Đất để đổi phiếu giảm giá McDonald's.
@@ -4489,22 +4643,156 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2100317770344718548"></a>
+<a name="prompt-2100170328689565929"></a>
 
 ### Đang dịch
+
+Tác giả：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2100170328689565929)
+
+Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100170328689565929-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100360689378570439"></a>
+
+### Đang dịch
+
+Tác giả：[@InfiniteNeural](https://x.com/InfiniteNeural) · [Bài gốc](https://x.com/InfiniteNeural/status/2100360689378570439)
+
+Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100360689378570439.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100343972665135401"></a>
+
+### Đang dịch
+
+Tác giả：[@RealLeeForest](https://x.com/RealLeeForest) · [Bài gốc](https://x.com/RealLeeForest/status/2100343972665135401)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100343972665135401-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100349144896262406"></a>
+
+### Đang dịch
+
+Tác giả：[@Shinebynous](https://x.com/Shinebynous) · [Bài gốc](https://x.com/Shinebynous/status/2100349144896262406)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2100349144896262406-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2100349144896262406-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100369940817510612"></a>
+
+### Đang dịch
+
+Tác giả：[@JohnnyJWhitaker](https://x.com/JohnnyJWhitaker) · [Bài gốc](https://x.com/JohnnyJWhitaker/status/2100369940817510612)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100369940817510612.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100363903028834430"></a>
+
+### Đang dịch
+
+Tác giả：[@you8iu](https://x.com/you8iu) · [Bài gốc](https://x.com/you8iu/status/2100363903028834430)
+
+Khác · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2100363903028834430.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2100317770344718548"></a>
+
+### Con đường cầu vồng phát sáng
 
 Tác giả：[@owenxplore](https://x.com/owenxplore) · [Bài gốc](https://x.com/owenxplore/status/2100317770344718548)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Con đường cầu vồng phát sáng
 
 <img src="images/2100317770344718548-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Con đường cầu vồng phát sáng
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4513,20 +4801,34 @@ Khác · Đã xuất bản
 
 <a name="prompt-2100317906399604840"></a>
 
-### Đang dịch
+### Cảnh video tuần tự về một cô bé buồn bã trong vườn trở nên vui vẻ khi được hai chú chó an ủi và ôm lấy.
 
 Tác giả：[@Anaiappai](https://x.com/Anaiappai) · [Bài gốc](https://x.com/Anaiappai/status/2100317906399604840)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh video tuần tự về một cô bé buồn bã trong vườn trở nên vui vẻ khi được hai chú chó an ủi và ôm lấy.
 
 <img src="covers/2100317906399604840.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+0–2.5 giây
+
+Cận cảnh cô bé đang ngồi hoặc đứng cạnh ngôi nhà, trong khu vườn. Cô bé nhìn sang một bên với vẻ mặt buồn bã và đôi mắt hơi u uất. Một làn gió nhẹ khẽ lay động mái tóc và những chiếc lá xung quanh. Máy quay tiến lại gần khuôn mặt cô bé thật chậm rãi.
+
+2.5–5 giây
+
+Máy quay lia mượt mà xuống dưới và sang một bên, để lộ chú chó đen đang chăm chú nhìn cô bé. Chú chó chậm rãi vẫy đuôi và tiến lại gần cô. Chú chó màu vàng cũng ngước nhìn và bắt đầu đi lại gần.
+
+5–7.5 giây
+
+Trung cảnh. Hai chú chó đến bên cạnh cô bé. Chú chó đen nhẹ nhàng tựa đầu vào chân cô trong khi chú chó vàng tiến lại gần và vẫy đuôi. Cô bé nhìn xuống chúng. Nét mặt cô bé bắt đầu thay đổi.
+
+7.5–10 giây
+
+Cú zoom điện ảnh cuối cùng. Cô bé ngồi xổm xuống và ôm lấy hai chú chó. Cô bé khẽ nhắm mắt lại và một nụ cười chân thành, nhẹ nhàng hé nở. Những chú chó vẫn ở bên cạnh cô. Ánh sáng ấm áp của khu vườn bao trùm lấy cả ba.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4535,20 +4837,20 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2100310230110454134"></a>
 
-### Đang dịch
+### Lời nhắc biến nhân vật &quot;Ke-chan&quot; thành mô hình figure.
 
 Tác giả：[@eE50339](https://x.com/eE50339) · [Bài gốc](https://x.com/eE50339/status/2100310230110454134)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc biến nhân vật &quot;Ke-chan&quot; thành mô hình figure.
 
 <img src="images/2100310230110454134-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Biến thành mô hình figure\nKe-chan
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4557,20 +4859,20 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2100298674664620291"></a>
 
-### Đang dịch
+### Một ngọn núi hình hạt giống sống động với những đại sảnh bên trong bằng ngũ cốc và rễ cây, một đỉnh núi đang nứt ra và các bóng người định hướng qua các gian phòng bên trong.
 
 Tác giả：[@RealLeeForest](https://x.com/RealLeeForest) · [Bài gốc](https://x.com/RealLeeForest/status/2100298674664620291)
 
 Kiến trúc / Nội thất · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một ngọn núi hình hạt giống sống động với những đại sảnh bên trong bằng ngũ cốc và rễ cây, một đỉnh núi đang nứt ra và các bóng người định hướng qua các gian phòng bên trong.
 
 <img src="images/2100298674664620291-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một ngọn núi là một hạt giống sống vỏ cây như đá những đại sảnh bên trong chứa đầy hạt ngũ cốc và rễ cây đỉnh núi vừa bắt đầu nứt toác rễ cây phá vỡ các sườn dốc thấp hơn đất và đá nâng lên các bóng người di chuyển lên những con đường bên trong cao hơn những người trông coi thu hoạch từ các bức tường bên trong một người tìm kiếm trên gờ đá cao chim ăn hạt trong các khe nứt thang máy rễ cây sống cơn bão rễ cây kết cấu vỏ cây hạt rễ đá và nhân vật chân thực ánh sáng điện ảnh độ tương phản mạnh mẽ giữa rễ cây đang nâng lên và đỉnh núi tĩnh lặng cực kỳ chi tiết bố cục ấn tượng bầu không khí kỳ ảo mạch lạc
 ```
 
 [↑ Về danh mục](#catalog)

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**241** Prompts · Latest addition: **2026-09-16**
+**254** Prompts · Latest addition: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,254 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2100330725056934194"></a>
+
+### Photorealistic night portrait prompt of a woman in a milky pink camisole pressing a cold bottled drink to her cheek in front of a vending machine at night.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2100330725056934194)
+
+Photography · Portrait / Selfie · Character · Cityscape / Street · Published
+
+**Summary:** Photorealistic night portrait prompt of a woman in a milky pink camisole pressing a cold bottled drink to her cheek in front of a vending machine at night.
+
+<img src="images/2100330725056934194-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 In Front of a Nighttime Vending Machine | A Detour with a Milky Pink Camisole and a Cold Bottle 🌟
+
+[Subject & Art Style]
+Depict an adult Japanese woman standing at a vending machine nook in a residential area on an early autumn night, rendered as a photorealistic, intimate fashion snapshot. While using a lived-in street corner as the background, evoke a natural atmosphere like a walk back home stopping for drinks with her partner, creating a shot that feels like an uncalculated movie scene.
+The photographic expression prioritizes high resolution with natural perspective and depth, as if captured by a real camera. Emphasize not only the cute charm of the subject, but also capture the night alley, the glow of the vending machine, and the slightly humid night air, bringing together a clean, approachable, urban night portrait.
+
+[Location, Background, & Worldview]
+The setting is a small vending machine nook in a Japanese residential neighborhood. Position a brightly glowing white vending machine on one side of the frame, giving the bright display of lined-up beverages a strong presence near the subject. The surroundings include neat sidewalks, building walls, utility poles, and roadside shrubs, establishing an approachable night street that feels like a natural extension of everyday life.
+Keep the background organized enough not to distract from the subject, while adding depth with a narrow path extending into the distance, dotted streetlights, distant buildings, and the road shoulder. Avoid excessive clutter, retaining a quiet, poetic atmosphere that makes this detour feel slightly special.
+
+[Season, Time, & Weather]
+The season is early autumn. It is a night when the summer heat has begun to lift; the air is soft, comfortable without quite being chilly. The time is nighttime, after the residential neighborhood has grown completely dark, with vending machines and streetlights serving as the primary sources of light.
+The weather is calm, either like just after a rain or with a subtle, gentle sheen remaining on the street surface. The wind is gentle, preserving a quiet stillness where hair and clothing are not wildly disheveled. Imbue a slightly cool air that naturally suits the gesture of pressing a cold bottle to her cheek.
+
+[Character Description]
+A clearly adult Japanese woman around 20 to 28 years old. Soft, well-proportioned facial features with slightly large eyes, natural eyebrows, and softly flushed lips. Her hair is dark brown, slightly longer than shoulder-length, with natural waves. Bangs lightly brush near her eyes, and loose strands softly fall around her cheeks. Her skin is a bright ochre tone, retaining a natural, un-overly-smoothed texture and gentle healthy complexion.
+Her body type is naturally, elegantly glamorous with feminine curves amidst a slender frame. Her shoulders, arms, and legs look clean and slender, while a slim waist, full bust, and naturally rounded hips harmonize across her entire proportions. The bust has a distinctly large, plump volume, avoiding unnatural enlargement or stiffness, rendered as a soft, three-dimensional form that conforms naturally to the outfit, posture, and gravity.
+
+[Outfit & Accessories]
+The outfit consists of a milky pink frilled lace camisole paired with ivory high-waisted shorts. The camisole features delicate frilled lace adorning the neckline and shoulder straps, crafted from a soft, finely ribbed fabric with a lining that makes it suitable as outerwear. It fits her full bust comfortably and naturally, without causing tightness or digging in.
+The shorts are made of a moderately structured material, naturally tracing the silhouette from hips to thighs. Accessories are kept minimal and not flashy, limited to a petite necklace and a small shoulder bag. The color palette centers on pink, ivory, and gold tones, creating an elegant look that stands out gently in the night scene.
+
+[Pose, Action, & Gaze]
+The woman stands right beside the vending machine, with her body facing mostly forward. Her center of gravity rests naturally on the front leg, while the other leg is pulled a half-step back, imparting subtle motion to a quiet standing posture. With one hand, she lightly presses the newly retrieved cold bottle against her cheek; her other arm hangs relaxed or naturally rests by her side.
+The positioning of her hands is clearly defined: the hand holding the bottle softly touches her cheek, and her shoulder slightly shrugs in reaction to the chill. Her gaze is directed at the camera with an intimate closeness, as if saying "It's cold!" to her partner. Avoid unnatural arching of the back or extreme twisting, ensuring a grounded, natural posture.
+
+[Expression & Emotion]
+Her expression blends intimacy—reserved only for someone she feels comfortable with—and a slightly mischievous cuteness. One eyebrow is raised ever so slightly, her eyes are soft, and a gentle smile plays on her lips. Rather than an exaggerated laugh, her expression is natural and lively, savoring the cool sensation of the bottle while playfully gauging the viewer's reaction.
+The core emotion is one of security and closeness, enjoying this nighttime detour. Neither too guarded nor overly dressed up, her whole face conveys an air of being softly affectionate exclusively in front of her partner.
+
+[Composition & Camera]
+A 4:5 vertical portrait composition suited for an X post. The subject is framed naturally from the crown of her head to above the knees, positioned slightly off-center. Place the vending machine on one side of the frame, leaving negative space and depth of the night street on the opposite side to balance subject and background.
+The camera height is between the subject's chest and eye level at a relatively close shooting distance. Use a natural standard to moderate telephoto focal length, avoiding excessive distortion of the face and body. The background is softly blurred to preserve atmosphere while keeping the ambiance of the vending machine and residential neighborhood recognizable.
+
+[Lighting, Color, Texture, & Mood]
+The key light source is the cool white glow from the vending machine, softly illuminating one side of the woman's face, shoulder, and outfit. Subtly, warm light from streetlights in the distance accents her hair, silhouette, and the pavement, producing a classic nighttime interplay between cool and warm tones. Shadows remain soft without crushing the blacks, enhancing the subject's dimensionality while preserving the night scene's atmosphere.
+Her skin carries a natural warmth and delicate shading, with visible hair flow and subdued shine. The camisole fabric exhibits a soft stretch and the delicateness of frilled lace, while the shorts convey a slightly crisp texture. The overall mood is a harmonious blend of cuteness and refined elegance, capturing a moment where one's heart gently unwinds on a quiet night street.
+
+[Quality & Negative Elements]
+Prioritize high resolution with realistic anatomy, material textures, lighting, and natural perspective. Maintain an age that clearly depicts an adult woman, keeping facial, bodily, clothing, and background consistency intact.
+Avoid depictions that look underage or too childlike, unnatural anatomy, extra limbs or fingers, missing fingers, fused fingers, awkward joints, broken clothing rendering, clothing fusing into the body, unintended exposure, extreme wide-angle distortion, or overprocessed smooth skin filters. Ensure the bust maintains full volume without looking unnaturally massive, rigid like spheres, or excessively pushed up. No text, logos, watermarks, or UI overlays in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100334525058572615"></a>
+
+### Photorealistic portrait prompt of an adult woman in a morning washroom, wearing peach pink embroidered lace lingerie and dabbing her cheek with a towel.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2100334525058572615)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic portrait prompt of an adult woman in a morning washroom, wearing peach pink embroidered lace lingerie and dabbing her cheek with a towel.
+
+<img src="images/2100334525058572615-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Morning Washroom | Peach Pink Embroidered Lace and Soft Morning Light 🌟
+
+[Subject / Style]
+A photorealistic fashion photo with a slice-of-life feel, capturing an adult woman in her home washroom in the morning, having just washed her face and gently pressing a small towel to her cheek to absorb moisture. Styled like a natural snapshot from a photo book that casually captures an everyday moment, exuding cleanliness, mature cuteness, and an unguarded intimacy shown only in front of a romantic partner.
+Rather than an overly staged gravure style, prioritize natural skin, posture, lighting, and spatial depth as if captured by an actual real-world camera. Create a cohesive piece where the delicate lingerie design and morning atmosphere harmonize with the subject's expression and the lived-in washroom feel.
+
+[Location / Background / Worldview]
+The setting is a bright, tidy home washroom. Position a white sink basin and a light wood-grain vanity next to the subject, incorporating a round mirror with a thin metallic frame on the wall. The background features light gray tiled walls, accented with just enough morning-routine props such as a clear soap dispenser bottle, a toothbrush holder, and small white flowers or greenery.
+The mirror discreetly reflects the subject's shoulder or back, serving as a subtle reflection that doesn't distract from the main subject. In the distance, reveal a towel rack and a bright window, creating a natural sense of depth: vanity in the foreground, subject in the midground, and window in the background.
+
+[Season / Time / Weather]
+A calm morning reminiscent of spring to early summer. The time is around 7:00 AM to 8:00 AM; outside is clear and sunny, but soft diffused light enters through the window rather than harsh, direct sunlight.
+The room retains that unique early-morning stillness, with air that feels slightly cool and fresh. A slight dampness can be felt in the hair and towel, conveying the fresh, dewy morning atmosphere of having just finished washing one's face.
+
+[Character Setting]
+A distinctly adult 23-year-old Japanese woman. Possesses soft, well-defined features typical of a mature adult woman, with slightly large, dark, expressive eyes, natural eyebrows, a slender and neat nasal bridge, and healthy, softly colored lips. Skin is a light, natural ochre tone, featuring realistic texture with visible pores and subtle shading.
+Dark brown hair is tied up casually for morning preparation, leaving delicate wisps of hair framing the face. An elegantly glamorous physique balancing slender shoulders and limbs, a narrow waist, and naturally rounded hips. The bust is distinctly large and full, maintaining a soft roundness and natural volume following natural posture and gravity, well-balanced with the overall body.
+
+[Outfit / Accessories]
+A matching bra and panty set in peach pink. Delicately decorated all over with small ivory floral embroidery, detailed with dainty scalloped lace along the edges, and thin satin trim along the straps and seams. The fabric has an elegant, predominantly matte texture with opaque lining.
+The bra features realistic cup and underwire construction that conforms naturally to a full bust, avoiding artificial push-up or pinching. The panties fit naturally around the hips without the fabric gaping away from the body. Essentially no jewelry or accessories are worn, prioritizing a simple, natural morning-routine appearance.
+
+[Pose / Action / Gaze]
+Standing in front of the vanity, her torso is oriented almost directly toward the camera, with only one shoulder pulled back slightly toward the mirror. Feet are set at a natural stance width, lightly resting her weight on the leg away from the vanity to create a subtle, completely natural curve in her hip.
+With one hand, she holds a small white towel, gently pressing it against her cheek midway through dabbing away moisture. Her other hand rests lightly on the edge of the vanity, fingers placed softly without bearing excessive weight. Her face is turned slightly toward the mirror while her gaze meets ours through the mirror's reflection, avoiding unnatural twisting of the neck or torso.
+
+[Expression / Emotion]
+Soft eyes holding a touch of lingering sleepiness, as if not yet fully awake. Noticing eye contact with her partner through the mirror, her brows and eyes soften just a hint, forming a subtle, shy smile on her lips.
+Not a forced smile, but an unguarded, intimate expression shown naturally to someone she trusts. Cheeks retain a faint flush typical of post-face washing, which, combined with the gesture of holding the towel, creates a warm atmosphere like being caught in an unpretentious, quiet morning moment.
+
+[Composition / Camera]
+A 4:5 vertical composition tailored for X (Twitter) posting. Frame the subject naturally from the top of the head down to below the hips / upper panties, ensuring a well-balanced frame displaying her face, garment embroidery, vanity, and round mirror. Place the subject slightly off-center, allowing negative space on the opposite side for the mirror and vanity.
+Camera height is positioned at the subject's chest to shoulder level, at a relatively close shooting distance. Assume a natural angle of view around 50–70mm standard to medium-telephoto, avoiding wide-angle distortion of the body and face. The background has a soft bokeh blur while preserving enough detail to clearly recognize the setting as a washroom.
+
+[Lighting / Color / Texture / Atmosphere]
+The key light source is natural morning light entering from a window positioned diagonally behind or to the side of the frame. Subtle reflected bounce light from the white walls and vanity gently lifts the opposite cheek and body, preventing harsh shadows or blown highlights. Color temperature of the light is a warm, slightly neutral morning illumination.
+Skin displays natural vitality, delicate shading, and subtle moisture, while hair exhibits fine strand flow and soft wisps. Lace shows textile fiber texture, satin edges have a discreet sheen, the ceramic sink shows smooth reflections, and metal hardware holds small highlights. Overall color palette centers on soft peach pink, ivory, and light gray, coalescing into a calm, clean morning tone.
+
+[Quality / Negative Elements]
+Rendered in high-resolution photorealism, preserving accurate perspective for the human anatomy, lighting, fabric, mirror, and bathroom fixtures as seen through a real camera. The subject must be distinctly an adult, avoiding youthful, underage facial features or an overly childlike appearance.
+Avoid extra limbs or fingers, missing fingers, fused fingers, unnatural joints, swapped hands, clothes merging into the body, warped or floating fabric, unintended nudity or exposure, distorted mirror reflections, and extreme wide-angle distortion. While maintaining natural full bust volume, avoid rigid spherical shapes, unnatural heavy push-up effects, or gravity-defying forms. No over-smoothed airbrushed skin, text, logos, watermarks, or UI overlays.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100333689553207759"></a>
+
+### Photorealistic portrait photo prompt of an adult Japanese woman relaxing on the engawa veranda of a morning ryokan in floral embroidered lingerie.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2100333689553207759)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic portrait photo prompt of an adult Japanese woman relaxing on the engawa veranda of a morning ryokan in floral embroidered lingerie.
+
+<img src="images/2100333689553207759-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Morning Ryokan Engawa | A Quiet Moment Turning Around After Setting Down a Teacup🌟
+
+[Subject / Art Style]
+A photorealistic photographic depiction of an unambiguously adult Japanese woman relaxing on the engawa (veranda) of a morning ryokan (traditional Japanese inn). Strike a balance between luxury lingerie advertisement photography and an intimate, natural snapshot casually taken by her partner sitting right beside her. Rather than ornate staging, portray it as an unforced, spontaneous moment that unfolds on a morning during a trip.
+The wooden engawa, moss garden, pale-toned lingerie, and soft morning light harmonize together, creating an image exuding a clean aesthetic, mature cuteness, and quiet intimacy. Rather than emphasizing only the subject, craft the appeal of the overall photograph by incorporating the unique space of the ryokan and the spatial depth of the garden.
+
+[Location / Background / Worldview]
+The setting is the private engawa of a guest room with an exclusive private garden, located in a quiet, high-end Japanese ryokan. Polished wooden floorboards, open shoji sliding doors, and the tatami guest room connect naturally; beside the woman sits a small wooden tray with a ceramic teacup (yunomi). The zabuton cushion features a subdued Japanese pattern in tones less prominent than the subject.
+Outside the engawa sits a moss garden glistening with morning dew, natural stepping stones, low-lying garden plants, and a small stone lantern (tōrō). In the depth of the garden, a wooden fence and elements of the ryokan architecture are gently visible, establishing natural depth: the teaware in the foreground, the subject in the midground, and the garden in the background.
+
+[Season / Time / Weather]
+The season is late spring to early summer when fresh greenery is beautiful. The time of day is around 7:00 AM, with a lingering cool freshness in the air. The weather is clear, with faint traces of night dew remaining in the garden, and leaves and moss reflecting the soft morning sun.
+A quiet morning with virtually no wind. A gentle outdoor breeze drifts in through the open shoji, barely stirring stray strands of hair. The light is not a harsh summer glare, but a pale, clear light signaling the start of a new day.
+
+[Character Setting]
+An unambiguously adult Japanese woman of about 25 years old. Soft, well-proportioned facial features, slightly large dark-brown eyes, natural eyebrows, a slender and gentle nasal bridge, and softly flushed, soft lips. Skin is a light-ocher tone with realistic texture, retaining pores, subtle shading, and natural rosy cheeks.
+Hair is dark brown, shoulder-length natural wavy hair. Loosely tied up in a casual morning style, leaving fine stray wisps of hair framing the face. Body type is naturally glamorous, balancing delicate shoulders and limbs, a slender waist, and feminine curves. The bust is clearly large and full, yet possesses natural weight and realistic three-dimensionality, well-proportioned with her waist and hips.
+
+[Attire / Accessories]
+An ivory-based bra and panty set. Dotted with pale peach miniature floral embroidery, detailed with delicate scalloped lace along the edges and small satin ribbon accents. An elegant, clean design reminiscent of high-end Japanese lingerie brands.
+The bra features a realistic cup structure and strap width that naturally support a full bust without gaping or excessive digging in. The panties also contour naturally along the hips. Lined with non-sheer fabric in essential areas; no excessive sheer transparency or gratuitous exposure. No accessories or jewelry, prioritizing the unadorned simplicity suited to a ryokan morning.
+
+[Pose / Action / Gaze]
+The woman sits sideways (yokozuwari) on the zabuton, with both legs swept naturally to one side of her body. Sitting stably on her hips and thighs, her upper body is turned slightly toward the viewer rather than directly facing the garden. Having just placed a warm teacup back onto the wooden tray, her fingertips still rest close to the cup. Her other hand rests lightly on the floorboards beside her body, naturally supporting her posture.
+Having just been spoken to by the person beside her the moment she set down the teacup, she gently raises only her neck and face. No severe twist of the torso; the shoulders remain naturally oriented. Her gaze is not aimed directly into the camera lens itself, but toward her partner sitting right beside it.
+
+[Facial Expression / Emotion]
+A completely relaxed, unguarded, and intimate expression shown only to a lover. Depict the moment right after being spoken to, where the eyes soften gently, the eyebrows remain in a natural resting position, and a subtle smile is just beginning to form at the corners of her mouth.
+Rather than a full-blown grin, capture the effortless naturalness of responding with a gentle, questioning look like "Hmm? What is it?". The entire face radiates a slightly shy warmth and the tranquil reassurance of sharing a travel morning together.
+
+[Composition / Camera]
+A 4:5 vertical portrait composition suited for X (Twitter) posting. Leave a small amount of headroom above the crown of the head, naturally framing from head down to her sideways-seated legs. Position the woman slightly off-center to one side, leaving ample space on the other side to reveal the moss garden extending beyond the engawa.
+The camera height is roughly level with the seated woman's chest to face. Assume a natural distance as if her partner is seated right next to her taking the photo, using a standard to short-telephoto focal length of around 50–70mm. Avoid wide-angle distortion that enlarges only certain parts of the body; keep the background gently blurred while retaining enough clarity for the stone lantern and moss garden to be clearly recognized as a ryokan garden.
+
+[Lighting / Color / Texture / Atmosphere]
+The primary light source is soft natural morning light coming from the garden side and through the shoji screen. It strikes the face, shoulders, and décolletage gently from an oblique front angle, while ambient bounce light from within the room softly lifts the shadows. Mingle warm, subtle bounce light across the wooden floor with cool, soft greenish ambient light reflecting from the garden.
+Render subtle tonal gradation and natural flush on the skin, individual hair strands with soft sheen, and distinct tactile textures for lace, embroidery, and satin on the lingerie. Differentiate the warmth of the polished wooden floorboards, the smooth glaze of the ceramic teacup, and the damp softness of the moss. The overall color palette is anchored in ivory, warm wood browns, deep moss greens, and pale peach, creating a quiet, warm morning atmosphere.
+
+[Quality / Negative Elements]
+High-resolution photorealistic rendering. Prioritize natural human anatomy, realistic lighting, perspective, and material textures as if captured by a real camera. Clearly portray an adult woman; avoid juvenile, underage-looking features.
+Avoid extra limbs, extra fingers, missing fingers, fused fingers, unnatural joints, swapped left/right hands, unnatural torso twisting, wardrobe clipping/fusing with the body, unintended exposure, extreme wide-angle distortion, distorted backgrounds, or excessive beauty-filter skin smoothing. The bust should maintain a naturally full volume and must not be gigantic, rigidly spherical, abnormally pushed up, or gravity-defying. Do not include any text, logos, watermarks, or UI overlays within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100331674039181383"></a>
+
+### A photorealistic editorial-style portrait prompt capturing an adult woman sitting by the window of an old Western-style mansion, wearing delicate pale lavender lingerie and closing a book in soft natural light.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2100331674039181383)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A photorealistic editorial-style portrait prompt capturing an adult woman sitting by the window of an old Western-style mansion, wearing delicate pale lavender lingerie and closing a book in soft natural light.
+
+<img src="images/2100331674039181383-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟By the Window of an Old Western-Style Mansion | Lavender Lace and an Afternoon Closing a Book🌟
+
+[Subject & Style]
+A photorealistic photograph capturing the moment an adult woman, having finished reading, closes her book by the window of an old Western-style mansion and turns a quiet gaze toward a familiar photographer. Presented in the style of a tranquil photobook or fashion editorial combining refined lingerie fashion with classic architecture.
+Rather than ostentatious staging, it emphasizes a natural intimacy as if a conversation has casually begun midway through reading. A serene, gently romantic image in which aged wood, lace curtains, pale lavender tones, and soft skin textures harmonize together.
+
+[Location, Background, & Setting]
+A private room in a well-maintained old Western-style mansion. There is a tall, large window with deep brown wooden frames, from which delicate unbleached ecru lace curtains hang softly. The woman is seated on the wide, deep wooden window sill.
+Inside the room, an antique-style small side table, a few books, and a vase with subtle pale flowers are understatedly arranged. Outside the window, soft, blurred garden greenery is visible; the composition retains the distinctive textures of aged wood and plaster walls characteristic of historic architecture while ensuring the background does not distract from the subject.
+
+[Season, Time, & Weather]
+A mild, clear daytime between spring and early summer. Not harsh direct sunlight, but the time of day when soft natural daylight diffuses through thin clouds and enters through the window into the room.
+Bright greenery is visible outside, and the breeze is very gentle. It is not strong enough to dramatically blow the lace curtains or hair, giving the impression of quiet afternoon air filling the room.
+
+[Character Design]
+A clearly adult 26-year-old Japanese woman. Soft and well-proportioned facial features, slightly large, dark-toned eyes, natural eyebrows, a slender bridge of the nose, and soft, naturally flushed lips. Dark brown, shoulder-length wavy hair with delicate wisps framing her face. Fair ochre-toned skin with a natural texture revealing fine pores and subtle shading.
+Featuring delicate shoulders, limbs, and a slim waist, balanced with feminine curves in an elegant, naturally glamorous physique. Her bust is distinctly full with soft volume, showing a natural roundness shaped by the garment, posture, and gravity. Her hips are also not overly exaggerated, forming a soft, natural line connecting from her waist.
+
+[Outfit & Accessories]
+A pale lavender bra and panties set. Made of delicate lace layered with white and light-purple small floral embroidery, finished with fine scalloped edges. The cups combine low-sheen satin with an opaque lining, in a design reminiscent of refined Japanese luxury lingerie advertisements.
+The garment fits naturally to her full bust and waist with a realistic size and structure, comfortably supported by straps, cups, and stitching. Avoid excessive constriction, digging into flesh, or awkward floating fabric. No additional accessories are worn, letting the delicacy of the lingerie and facial expression take center stage.
+
+[Pose, Action, & Gaze]
+Sitting shallowly on the wide window sill, pelvis angled slightly diagonally toward the window. Her body weight is rested primarily on the sill, with both legs gathered naturally and cast diagonally toward one side of the frame. Only her upper body is gently turned toward the photographer, without unnatural twisting or excessive arching of the lower back.
+She has closed the book she finished reading and placed it on top of one thigh. One hand lightly touches the book's cover, while the other rests naturally nearby. Shoulders are relaxed, chin slightly tucked. Her gaze is directed straight at the photographer, looking as natural as someone who just looked up in the middle of a conversation.
+
+[Expression & Emotion]
+An unguarded, intimate expression, looking slightly shy and completely at ease as if hearing words from a beloved partner. A small smile rests on her lips just before breaking into laughter, with a subtle blush warming her cheeks.
+Her eyebrows and eyes also reflect this emotion—not a staged smile, but a soft reaction as if she's about to laugh while saying "What's that supposed to mean?" Her gaze carries a sense of security and familiarity, without being overly seductive.
+
+[Composition & Camera]
+A 4:5 vertical composition tailored for social media posts. A little headroom is left at the top, naturally framing the subject from the head down to mid-thigh. The figure is positioned slightly off-center, with the tall wood-framed window and lace curtain on one side, and the interior wall and furniture on the other to create depth.
+The camera is set at chest-to-eye level relative to the seated figure, taken from a few steps away. Shot with a natural focal length ranging from standard to moderate telephoto, avoiding wide-angle distortion that exaggerates specific body parts. The background is softly blurred, but retains enough detail to clearly convey the Western-style mansion setting.
+
+[Lighting, Color, Texture, & Atmosphere]
+The main light source is soft natural daylight streaming in from the large window at the side of the frame. It brightly illuminates the cheek, shoulder, hair, and lace edges facing the window, while leaving gentle, soft shading on the indoor side. Weak, warm bounce light from the wooden walls and floor is added, balancing the color temperature so the skin does not appear pale or bluish.
+The skin retains fine pores, subtle shading, and a natural rosy glow; individual strands and a gentle sheen are rendered in the hair. Low-key reflections on the satin, fine tactile relief on the embroidered lace, and a deep, well-worn patina on the wood frames. The palette is unified in a quiet, refined tone centered on lavender, ecru, deep brown, and the soft green of the garden.
+
+[Quality & Negative Prompts]
+High-resolution photorealistic rendering. Prioritizes natural human anatomy, lighting, textures, and perspective as if shot with a real camera. Avoid underage appearance, overly childish facial features, unnatural body proportions, extra limbs, extra fingers, missing fingers, fused fingers, unnatural joints, or confused left/right hands.
+Avoid garment glitches, blending between body and clothing, unnatural floating or biting of fabric, unintended exposure, extreme wide-angle distortion, or excessive airbrushed beauty filtering. While the bust maintains rich natural volume, avoid unnatural enlargement, rigid spherical shapes, abnormal push-up effects, or forms that defy gravity. Do not include any text, logos, watermarks, or UI overlays in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100153971088482321"></a>
 
@@ -4375,6 +4623,28 @@ Source：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tan
 
 ## 3D Render
 
+<a name="prompt-2100361373863825594"></a>
+
+### 3 people sitting around and laughing.
+
+Author：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Source](https://x.com/andrew_n_carr/status/2100361373863825594)
+
+3D Render · Published
+
+**Summary:** 3 people sitting around and laughing.
+
+<img src="covers/2100361373863825594.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+3 people sitting around and laughing.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2097725977443131648"></a>
 
 ### Prompt for transforming a photo into a collectible action figure inside premium retail packaging, featuring the person's likeness, related miniature accessories, 3D rendering, and product photography style.
@@ -4564,6 +4834,68 @@ Create a vertical top-and-bottom comparison travel transformation poster. The to
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2100332541437960533"></a>
+
+### Portrait prompt of a Japanese woman offering pudding in a retro Showa-era café.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2100332541437960533)
+
+Retro / Vintage · Portrait / Selfie · Character · Published
+
+**Summary:** Portrait prompt of a Japanese woman offering pudding in a retro Showa-era café.
+
+<img src="images/2100332541437960533-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Afternoon Pure Kissaten | A Butter-Yellow Smile Offering Pudding🌟
+
+[Subject / Art Style]
+A photorealistic, authentic lifestyle fashion photo depicting a distinctly adult, 25-year-old Japanese woman in an old-fashioned afternoon kissaten (Japanese-style traditional café), offering a bite of pudding to her partner seated across from her. Rather than an overly staged advertising shot, emphasize an intimate feel, as if casually capturing an unprompted, natural moment during a date.
+Infuse a mature calm and refinement within a soft cuteness, creating a photographic expression where her facial expression, outfit, gestures, and the warm atmosphere of the café connect naturally as a single coherent scene.
+
+[Location / Background / Worldview]
+The setting is a quiet, vintage kissaten retaining echoes of the Showa era. She sits in a small two-person window booth surrounded by amber-toned, lustrous wooden walls, dark-green velvet-upholstered chairs, a well-worn wooden table, and understated brass and glass fixtures.
+On the table rest a small plate with a classic caramel flan pudding and a clear glass. With the foreground glass slightly blurred and other seats and shelves softly retained in the background, frame the composition to convey the café's spatial depth and tranquil afternoon atmosphere.
+
+[Season / Time / Weather]
+The season is a mild period between spring and early summer. Around 3:00 PM, a time when the outdoor light is still bright yet beginning to soften. Outdoors is clear to lightly overcast; gentle natural light filters in through the window rather than harsh, direct sunlight.
+Inside, natural light coexists with warm indoor lighting, evoking the relaxed afternoon mood of enjoying sweets and coffee in a slightly cool café interior.
+
+[Character Settings]
+A distinctly adult 25-year-old Japanese woman. Soft, well-balanced facial features: slightly large dark eyes, natural eyebrows, a slender and neat nose bridge, and healthy, soft rosy lips. Skin tone is light ochre with a realistic texture that preserves pores, subtle shading, and a natural complexion.
+Hair is dark brown, falling with natural waves from shoulder to upper chest length, with delicate stray strands framing her face. She has slender shoulders and limbs, and a narrow waist, balanced into a naturally elegant, glamorous silhouette with feminine curves. Her bust is clearly large with abundant volume, yet depicted with a soft, natural three-dimensionality that conforms realistically to her attire, posture, and gravity, maintaining harmony with her entire body.
+
+[Costume / Accessories]
+Top: A pale, warm butter-yellow camisole. Fine ruffled lace trims the neckline and shoulder straps, while the bodice is made of a non-sheer, high-quality ribbed or smooth lightweight fabric. It possesses cuteness without appearing childish, maintaining an elegant, adult design.
+Tailored with realistic sizing and sewing that comfortably accommodates her full bust, achieving a natural fit where fabric neither over-stretches nor digs in unnaturally. Bottom: A mocha-brown midi skirt. Accessories are kept minimal, just small stud earrings and a delicate slender necklace, completing an everyday café date outfit.
+
+[Pose / Action / Gaze]
+The woman sits naturally on the dark-green chair, facing almost square to the opposite seat. Her hips rest securely on the seat, and her legs are neatly aligned or tilted gently under the table without any unnatural body twists.
+With her right hand holding a small spoon filled with pudding and her elbow kept low, she is caught mid-motion offering it across the table to her partner as if saying, "Have a bite." Her left hand rests naturally on the table edge or near the pudding plate. Her face tilts slightly; maintaining a frontal posture, she directs only her gaze straight into the camera lens.
+
+[Expression / Emotion]
+A relaxed, intimate, and unguarded expression shown only to a lover. A modest smile graces her lips, her eyebrows are softly raised just a bit, tinged with a playful, sweet coyness as if eagerly awaiting your reaction.
+Not a forced, wide grin, but a genuine smile with softly relaxed eyes, cheeks, and lips. The subtle tilt of her head and gentle gaze convey an affectionate closeness, as though she were gently asking, "Want some?"
+
+[Composition / Camera]
+Vertical 4:5 aspect ratio optimized for an X (Twitter) post. Shot from the eye-level point of view of the partner seated across the table. Leave a small amount of headroom at the top, naturally framing the subject from the crown of her head down to around her waist below the table. Compose the shot so that her face, the offered spoon, the ruffled neckline, and the pudding seamlessly guide the viewer's eye.
+A natural focal length of around 50–70mm (standard to short telephoto), avoiding wide-angle distortions that exaggerate faces, hands, or bodies. The spoon extends toward the foreground without being unnaturally magnified; the background is softly blurred while preserving the presence of the furniture, windows, and lamps characteristic of a traditional kissaten.
+
+[Light / Color / Texture / Mood]
+The primary light source is soft natural light entering from the window on the left or oblique front-left. It gently illuminates one side of her face, shoulder, butter-yellow fabric, and the glossy pudding surface, complemented on the other side by subtle ambient fill light from the warm indoor lighting. Shadows are kept soft, giving natural depth to her cheeks, neck, and the folds of her clothing.
+Amber-colored pendant lights on the ceiling and walls impart a warm glow to the wooden walls, table, and caramel sauce. Depict skin with a natural, healthy flush and fine tonal gradations, hair with soft luster and individually discernible flowing strands, lace with delicate tactile relief, and wood with a well-used, smooth texture. An overall warm, nostalgic color palette centered on butter yellow, mocha brown, deep green, and amber.
+
+[Quality / Negative Prompt / Exclusions]
+High-resolution photorealistic photography. Prioritize natural human anatomy, hands, fingers, perspective, fabric tension, light, and shadow as if captured with an authentic physical camera.
+Avoid underage appearance, overly childlike faces, unnatural proportions, extra limbs or fingers, missing or fused fingers, unnatural joints, swapped left/right hands, clothing fused to the body, broken fabric meshes or unnatural digging into the skin, unintended overexposure or nudity, extreme wide-angle distortion, and excessive skin-smoothing filters. Maintain a rich, natural volume for the bust without making it rigidly spherical, abnormally pushed up, or defying gravity. Do not include any text, logos, watermarks, or UI elements in the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100251372339761202"></a>
 
@@ -5226,6 +5558,28 @@ What would I have looked like in the 1980s? Use the attached photo as the refere
 
 ## Cyberpunk / Sci-Fi
 
+<a name="prompt-2100340449441685763"></a>
+
+### Full-body prompt for a robotic Anubis made of black and gold chrome standing amidst golden smoke.
+
+Author：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Source](https://x.com/RobotCleopatra/status/2100340449441685763)
+
+Cyberpunk / Sci-Fi · Character · Published
+
+**Summary:** Full-body prompt for a robotic Anubis made of black and gold chrome standing amidst golden smoke.
+
+<img src="images/2100340449441685763-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+a full body depiction of a sci fi robotic anubis. the character is a tall, slender mechanical being made of black chrome and gold chrome materials. the head is a stylized jackal with glowing orange yellow eyes. around its neck is a large, ornate golden necklace with segmented bands. the torso, arms, and legs are detailed with complex mechanical assemblies, gold trim, and exposed internal wiring. a tattered black cloth with thin gold chains is draped around its waist. the robot is set against a dark background obscured by thick, swirling golden dust and smoke, standing on a reflective surface that shows a faint reflection.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2097951816675639459"></a>
 
 ### A 15-second early-2000s documentary scene where a reporter interviews an alien near a landed spaceship, and the alien reveals it came to Earth to redeem a McDonald's coupon.
@@ -5375,6 +5729,140 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2100170328689565929"></a>
+
+### Colorful floral-print micro bikini with a strapless bandeau top and side-tie bottoms on a dark base.
+
+Author：[@AI\_money\_club](https://x.com/AI_money_club) · [Source](https://x.com/AI_money_club/status/2100170328689565929)
+
+Fashion Item · Published
+
+**Summary:** Colorful floral-print micro bikini with a strapless bandeau top and side-tie bottoms on a dark base.
+
+<img src="images/2100170328689565929-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Colorful floral-print micro bikini with a tiny strapless bandeau top, deep center separation, matching very low-rise high-cut bottoms, and ultra-thin side-tie strings at both hips. Vivid pink, purple, blue, turquoise and green floral pattern on a dark base.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100360689378570439"></a>
+
+### An ethereal woman standing in an ancient enchanted landscape at twilight surrounded by mystical trees and glowing flowers.
+
+Author：[@InfiniteNeural](https://x.com/InfiniteNeural) · [Source](https://x.com/InfiniteNeural/status/2100360689378570439)
+
+Character · Landscape / Nature · Published
+
+**Summary:** An ethereal woman standing in an ancient enchanted landscape at twilight surrounded by mystical trees and glowing flowers.
+
+<img src="covers/2100360689378570439.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+An extraordinary surreal masterpiece depicting an ethereal woman standing in an ancient enchanted landscape at twilight, surrounded by enormous mystical trees, floating luminous flowers.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100343972665135401"></a>
+
+### A fantasy canyon formed by giant interlocking stone and bronze gears with figures perched on the teeth.
+
+Author：[@RealLeeForest](https://x.com/RealLeeForest) · [Source](https://x.com/RealLeeForest/status/2100343972665135401)
+
+Other · Published
+
+**Summary:** A fantasy canyon formed by giant interlocking stone and bronze gears with figures perched on the teeth.
+
+<img src="images/2100343972665135401-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A canyon whose walls are giant interlocking gears of stone and bronze the floor a slow-moving river of sand that turns the mechanism gears pausing for one breath at the sun’s highest point figures standing still on the teeth before the canyon starts again gear-walkers on the teeth a keeper oiling a high axle children riding a single cog gear-pause noon noon lock realistic stone bronze sand and figure texture cinematic lighting strong paused-gear versus sun-high contrast highly detailed striking composition coherent fantasy atmosphere
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100349144896262406"></a>
+
+### Ancient data fossil of an astronaut etched into digital ruins with glowing cyan glyphs.
+
+Author：[@Shinebynous](https://x.com/Shinebynous) · [Source](https://x.com/Shinebynous/status/2100349144896262406)
+
+Other · Published
+
+**Summary:** Ancient data fossil of an astronaut etched into digital ruins with glowing cyan glyphs.
+
+<img src="images/2100349144896262406-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100349144896262406-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+An Ancient Data Fossil of Astronaut, where the subject is etched into digital ruins, their form encoded into the remnants of a lost civilization. Cryptic electric cyan glyphs pulse against a decayed obsidian framework, telling a forgotten story of artificial eternity.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100369940817510612"></a>
+
+### Enraged Jesus in the US Congress throwing furniture and expelling politicians with text in English.
+
+Author：[@JohnnyJWhitaker](https://x.com/JohnnyJWhitaker) · [Source](https://x.com/JohnnyJWhitaker/status/2100369940817510612)
+
+Other · Published
+
+**Summary:** Enraged Jesus in the US Congress throwing furniture and expelling politicians with text in English.
+
+<img src="covers/2100369940817510612.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create an image of Jesus in the US Congress breaking chairs and tables and throwing out all those bastards, have the image say in English, (salgan todos de aqui paracitos
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2100363903028834430"></a>
+
+### Per it's high \(with a serious tone and a cigarette in the mouth\)
+
+Author：[@you8iu](https://x.com/you8iu) · [Source](https://x.com/you8iu/status/2100363903028834430)
+
+Other · Published
+
+**Summary:** Per it's high \(with a serious tone and a cigarette in the mouth\)
+
+<img src="covers/2100363903028834430.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Per it's high (with a serious tone and a cigarette in the mouth)
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2100317770344718548"></a>
 

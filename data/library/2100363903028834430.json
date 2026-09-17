@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T00:25:35.505Z",
+  "model": "grok",
+  "prompt": "Per c’est high (avec un ton grave et une clope dans la bouche)",
+  "promptTranslations": {
+    "en": "Per it's high (with a serious tone and a cigarette in the mouth)"
+  },
+  "summaryTranslations": {
+    "en": "Per it's high (with a serious tone and a cigarette in the mouth)"
+  },
+  "translationVersion": 2,
+  "summary": "Per c’est high (avec un ton grave et une clope dans la bouche)",
+  "summaryEn": "Per c'est high (with a deep voice and a cigarette in mouth)",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100363903028834430",
+    "canonicalUrl": "https://x.com/you8iu/status/2100363903028834430",
+    "author": {
+      "username": "you8iu",
+      "displayName": "Walter",
+      "profileUrl": "https://x.com/you8iu"
+    },
+    "publishedAt": "2026-09-16T23:19:12.000Z",
+    "collectedAt": "2026-09-17T00:15:54.843Z",
+    "language": "fr",
+    "originalText": "Grok Imagine prompt:\n\nPer c’est high (avec un ton grave et une clope dans la bouche) https://t.co/VDhm13JjXb",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/you8iu/status/2100363903028834430",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100363876558577665/img/N-jwiofXacFU8LEn.jpg",
+        "analysisUrl": "https://x.com/you8iu/status/2100363903028834430"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 17
+    },
+    "matchedRuleIds": [
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/you8iu/status/2100363903028834430",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100363876558577665/img/N-jwiofXacFU8LEn.jpg",
+  "coverPath": "covers/2100363903028834430.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100363876558577665",
+    "x-post:2100363903028834430"
+  ],
+  "analysis": {
+    "summary": "Per c’est high (avec un ton grave et une clope dans la bouche)",
+    "summaryEn": "Per c'est high (with a deep voice and a cigarette in mouth)",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The prompt describes saying 'Per c’est high' with a cigarette in mouth and deep tone, matched by the video animation."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Per c’est high (avec un ton grave et une clope dans la bouche)",
+    "sourceRange": {
+      "start": 22,
+      "end": 84
+    },
+    "translations": {
+      "zh": "Per c’est high（用低沉的声音，嘴里叼着烟）",
+      "en": "\"Per c'est high\" (with a deep voice and a cigarette in mouth)"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "image-to-video",
+    "useCase": "video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

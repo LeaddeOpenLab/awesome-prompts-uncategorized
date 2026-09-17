@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**241** Prompts · Dernier ajout: **2026-09-16**
+**254** Prompts · Dernier ajout: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,94 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2100330725056934194"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100330725056934194)
+
+Photographie · Portrait / Selfie · Personnage · Paysage urbain / Rue · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100330725056934194-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100334525058572615"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100334525058572615)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100334525058572615-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100333689553207759"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100333689553207759)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100333689553207759-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100331674039181383"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100331674039181383)
+
+Photographie · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100331674039181383-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100153971088482321"></a>
 
@@ -2953,20 +3041,20 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2100287072775123218"></a>
 
-### Traduction en cours
+### Illustration en 2D d'un beau jeune homme blond et d'une belle jeune fille aux cheveux bleus.
 
 Auteur：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publication originale](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
 
 Anime / Manga · Illustration · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Illustration en 2D d'un beau jeune homme blond et d'une belle jeune fille aux cheveux bleus.
 
 <img src="images/2100287072775123218-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Beaux jeune homme et jeune femme style 2D, Kyotaro Suga et Sumire Hirose, illustration aux cheveux blonds et cheveux bleus
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -3636,6 +3724,28 @@ Ambiance : absurde, drôle, bizarre, espiègle, exagérée, légèrement grotesq
 
 ## Rendu 3D
 
+<a name="prompt-2100361373863825594"></a>
+
+### Traduction en cours
+
+Auteur：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Publication originale](https://x.com/andrew_n_carr/status/2100361373863825594)
+
+Rendu 3D · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100361373863825594.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2097725977443131648"></a>
 
 ### Conversion d'une photo en figurine d'action de collection dans un emballage haut de gamme, avec traits du personnage et accessoires miniatures, style rendu 3D et photographie de produit.
@@ -3825,6 +3935,28 @@ Créer une affiche d'art de voyage verticale avec comparaison haut-bas. La moiti
 <a name="category-retro-vintage"></a>
 
 ## Rétro / Vintage
+
+<a name="prompt-2100332541437960533"></a>
+
+### Traduction en cours
+
+Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100332541437960533)
+
+Rétro / Vintage · Portrait / Selfie · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100332541437960533-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2100251372339761202"></a>
 
@@ -4332,6 +4464,28 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 
 ## Cyberpunk / Science-fiction
 
+<a name="prompt-2100340449441685763"></a>
+
+### Traduction en cours
+
+Auteur：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publication originale](https://x.com/RobotCleopatra/status/2100340449441685763)
+
+Cyberpunk / Science-fiction · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100340449441685763-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2097951816675639459"></a>
 
 ### Une scène de documentaire de 15 secondes du début des années 2000 où un reporter interviewe un extraterrestre près d'un vaisseau spatial ayant atterri, et l'extraterrestre révèle qu'il est venu sur Terre pour utiliser un coupon McDonald's.
@@ -4444,22 +4598,156 @@ Traduction en cours
 
 ## Autres
 
-<a name="prompt-2100317770344718548"></a>
+<a name="prompt-2100170328689565929"></a>
 
 ### Traduction en cours
+
+Auteur：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2100170328689565929)
+
+Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100170328689565929-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100360689378570439"></a>
+
+### Traduction en cours
+
+Auteur：[@InfiniteNeural](https://x.com/InfiniteNeural) · [Publication originale](https://x.com/InfiniteNeural/status/2100360689378570439)
+
+Personnage · Paysage / Nature · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100360689378570439.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100343972665135401"></a>
+
+### Traduction en cours
+
+Auteur：[@RealLeeForest](https://x.com/RealLeeForest) · [Publication originale](https://x.com/RealLeeForest/status/2100343972665135401)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100343972665135401-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100349144896262406"></a>
+
+### Traduction en cours
+
+Auteur：[@Shinebynous](https://x.com/Shinebynous) · [Publication originale](https://x.com/Shinebynous/status/2100349144896262406)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2100349144896262406-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2100349144896262406-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100369940817510612"></a>
+
+### Traduction en cours
+
+Auteur：[@JohnnyJWhitaker](https://x.com/JohnnyJWhitaker) · [Publication originale](https://x.com/JohnnyJWhitaker/status/2100369940817510612)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100369940817510612.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100363903028834430"></a>
+
+### Traduction en cours
+
+Auteur：[@you8iu](https://x.com/you8iu) · [Publication originale](https://x.com/you8iu/status/2100363903028834430)
+
+Autres · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2100363903028834430.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2100317770344718548"></a>
+
+### Route arc-en-ciel lumineuse
 
 Auteur：[@owenxplore](https://x.com/owenxplore) · [Publication originale](https://x.com/owenxplore/status/2100317770344718548)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Route arc-en-ciel lumineuse
 
 <img src="images/2100317770344718548-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Route arc-en-ciel lumineuse
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4468,20 +4756,34 @@ Traduction en cours
 
 <a name="prompt-2100317906399604840"></a>
 
-### Traduction en cours
+### Scène vidéo séquentielle d'une fillette triste dans un jardin qui retrouve le sourire en étant consolée et entourée par deux chiens.
 
 Auteur：[@Anaiappai](https://x.com/Anaiappai) · [Publication originale](https://x.com/Anaiappai/status/2100317906399604840)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène vidéo séquentielle d'une fillette triste dans un jardin qui retrouve le sourire en étant consolée et entourée par deux chiens.
 
 <img src="covers/2100317906399604840.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+0–2.5 s
+
+Gros plan de la fillette assise ou debout près de la maison, dans le jardin. Elle regarde de côté avec une expression triste et le regard légèrement terne. Une légère brise fait doucement bouger ses cheveux et les feuilles tout autour. Caméra très lente se rapprochant de son visage.
+
+2.5–5 s
+
+La caméra effectue un mouvement fluide vers le bas et sur le côté, révélant le chien noir qui la regarde. Le chien remue lentement la queue et s'approche d'elle. Le chien jaune lève également la tête et commence à s'approcher.
+
+5–7.5 s
+
+Plan moyen. Les deux chiens arrivent auprès de la fillette. Le chien noir pose doucement sa tête contre sa jambe pendant que le chien jaune s'approche en remuant la queue. La fillette baisse les yeux vers eux. Son expression commence à changer.
+
+7.5–10  
+
+Zoom cinématographique final. La fillette s'accroupit et enlace les deux chiens. Elle ferme brièvement les yeux et un petit sourire sincère apparaît. Les chiens restent blottis contre elle. La lumière chaleureuse du jardin enveloppe tous les trois.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4490,20 +4792,20 @@ Traduction en cours
 
 <a name="prompt-2100310230110454134"></a>
 
-### Traduction en cours
+### Prompt de création de figurine du personnage « Ke-chan ».
 
 Auteur：[@eE50339](https://x.com/eE50339) · [Publication originale](https://x.com/eE50339/status/2100310230110454134)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de création de figurine du personnage « Ke-chan ».
 
 <img src="images/2100310230110454134-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Création de figurine\nKe-chan
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -4512,20 +4814,20 @@ Traduction en cours
 
 <a name="prompt-2100298674664620291"></a>
 
-### Traduction en cours
+### Une montagne vivante en forme de graine avec des salles intérieures de céréales et de racines, un sommet qui se fend et des silhouettes naviguant dans ses chambres intérieures.
 
 Auteur：[@RealLeeForest](https://x.com/RealLeeForest) · [Publication originale](https://x.com/RealLeeForest/status/2100298674664620291)
 
 Architecture / Intérieur · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Une montagne vivante en forme de graine avec des salles intérieures de céréales et de racines, un sommet qui se fend et des silhouettes naviguant dans ses chambres intérieures.
 
 <img src="images/2100298674664620291-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une montagne qui est une graine vivante écorce comme de la pierre salles intérieures de grains tassés et de racines le sommet commençant tout juste à se fendre racines brisant les pentes inférieures terre et pierre se soulevant silhouettes se déplaçant vers des voies intérieures plus élevées gardiens récoltant sur les parois intérieures un chercheur sur un haut rebord oiseaux de grain dans les fissures ascenseur de racines vivantes tempête de racines texture réaliste d'écorce de grain de racine de pierre et de silhouette éclairage cinématographique fort contraste entre racines qui s'élèvent et sommet immobile très détaillé composition saisissante atmosphère de fantasy cohérente
 ```
 
 [↑ Retour aux catégories](#catalog)

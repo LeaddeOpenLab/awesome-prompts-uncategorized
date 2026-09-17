@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipes a transformar documentos, slides e textos em vídeos e
 
 Dê uma estrela a este repositório para acompanhar nossa seleção diária de prompts e descobrir novas ideias.
 
-**241** Prompts · Última adição: **2026-09-16**
+**254** Prompts · Última adição: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,94 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100330725056934194"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100330725056934194)
+
+Fotografia · Retrato / Selfie · Personagem · Paisagem Urbana / Rua · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100330725056934194-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100334525058572615"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100334525058572615)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100334525058572615-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100333689553207759"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100333689553207759)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100333689553207759-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100331674039181383"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100331674039181383)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100331674039181383-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100153971088482321"></a>
 
@@ -2970,20 +3058,20 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2100287072775123218"></a>
 
-### Tradução em andamento
+### Ilustração em 2D de um belo rapaz loiro e uma linda garota de cabelos azuis.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicação original](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
 
 Anime / Mangá · Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Ilustração em 2D de um belo rapaz loiro e uma linda garota de cabelos azuis.
 
 <img src="images/2100287072775123218-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Homem e mulher bonitos em estilo 2D, Kyotaro Suga e Sumire Hirose, ilustração de cabelo loiro e cabelo azul
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3653,6 +3741,28 @@ Evite personagens reconhecíveis protegidos por direitos autorais, semelhanças 
 
 ## Renderização 3D
 
+<a name="prompt-2100361373863825594"></a>
+
+### Tradução em andamento
+
+Autor：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Publicação original](https://x.com/andrew_n_carr/status/2100361373863825594)
+
+Renderização 3D · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100361373863825594.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097725977443131648"></a>
 
 ### Transforme uma foto em um boneco de ação colecionável dentro de uma embalagem de produto premium, com traços do personagem e acessórios em miniatura no estilo de renderização 3D e foto de produto.
@@ -3842,6 +3952,28 @@ Crie um pôster artístico de viagem vertical com comparação superior e inferi
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2100332541437960533"></a>
+
+### Tradução em andamento
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100332541437960533)
+
+Retrô / Vintage · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100332541437960533-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100251372339761202"></a>
 
@@ -4349,6 +4481,28 @@ Como eu teria parecido nos anos 1980? Use a foto anexada como referência. Prese
 
 ## Cyberpunk / Ficção Científica
 
+<a name="prompt-2100340449441685763"></a>
+
+### Tradução em andamento
+
+Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicação original](https://x.com/RobotCleopatra/status/2100340449441685763)
+
+Cyberpunk / Ficção Científica · Personagem · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100340449441685763-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097951816675639459"></a>
 
 ### Uma cena de documentário de 15 segundos do início dos anos 2000 em que um repórter entrevista um alienígena perto de uma nave espacial pousada, e o alienígena revela que veio à Terra para resgatar um cupom do McDonald's.
@@ -4461,22 +4615,156 @@ Tradução em andamento
 
 ## Outros
 
-<a name="prompt-2100317770344718548"></a>
+<a name="prompt-2100170328689565929"></a>
 
 ### Tradução em andamento
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2100170328689565929)
+
+Item de Moda · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100170328689565929-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100360689378570439"></a>
+
+### Tradução em andamento
+
+Autor：[@InfiniteNeural](https://x.com/InfiniteNeural) · [Publicação original](https://x.com/InfiniteNeural/status/2100360689378570439)
+
+Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100360689378570439.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100343972665135401"></a>
+
+### Tradução em andamento
+
+Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicação original](https://x.com/RealLeeForest/status/2100343972665135401)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100343972665135401-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100349144896262406"></a>
+
+### Tradução em andamento
+
+Autor：[@Shinebynous](https://x.com/Shinebynous) · [Publicação original](https://x.com/Shinebynous/status/2100349144896262406)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="images/2100349144896262406-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100349144896262406-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100369940817510612"></a>
+
+### Tradução em andamento
+
+Autor：[@JohnnyJWhitaker](https://x.com/JohnnyJWhitaker) · [Publicação original](https://x.com/JohnnyJWhitaker/status/2100369940817510612)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100369940817510612.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100363903028834430"></a>
+
+### Tradução em andamento
+
+Autor：[@you8iu](https://x.com/you8iu) · [Publicação original](https://x.com/you8iu/status/2100363903028834430)
+
+Outros · Publicado
+
+**Resumo:** Tradução em andamento
+
+<img src="covers/2100363903028834430.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em andamento
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100317770344718548"></a>
+
+### Estrada arco-íris brilhante
 
 Autor：[@owenxplore](https://x.com/owenxplore) · [Publicação original](https://x.com/owenxplore/status/2100317770344718548)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Estrada arco-íris brilhante
 
 <img src="images/2100317770344718548-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Estrada arco-íris brilhante
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4485,20 +4773,34 @@ Tradução em andamento
 
 <a name="prompt-2100317906399604840"></a>
 
-### Tradução em andamento
+### Cena de vídeo sequencial de uma menina triste em um jardim que se alegra ao ser consolada e abraçada por dois cachorros.
 
 Autor：[@Anaiappai](https://x.com/Anaiappai) · [Publicação original](https://x.com/Anaiappai/status/2100317906399604840)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena de vídeo sequencial de uma menina triste em um jardim que se alegra ao ser consolada e abraçada por dois cachorros.
 
 <img src="covers/2100317906399604840.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+0–2.5 s
+
+Plano fechado da menina sentada ou em pé perto da casa, no jardim. Ela olha para o lado com expressão triste e olhar ligeiramente apagado. Uma brisa suave balança delicadamente seu cabelo e as folhas ao redor. Câmera muito lenta aproximando-se do rosto dela.
+
+2.5–5 s
+
+A câmera faz um movimento suave para baixo e para o lado, revelando o cachorro preto a observá-la. O cachorro abana a cauda devagar e aproxima-se dela. O cachorro amarelo também levanta o olhar e começa a se aproximar.
+
+5–7.5 s
+
+Plano médio. Os dois cachorros chegam junto à menina. O cachorro preto apoia delicadamente a cabeça contra a perna dela enquanto o cachorro amarelo se aproxima abanando o rabo. A menina abaixa o olhar em direção a eles. Sua expressão começa a mudar.
+
+7.5–10  
+
+Aproximação cinematográfica final. A menina se abaixa e abraça os dois cachorros. Fecha brevemente os olhos e surge um pequeno sorriso genuíno. Os cachorros permanecem junto dela. A luz suave e acolhedora do jardim envolve os três.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4507,20 +4809,20 @@ Tradução em andamento
 
 <a name="prompt-2100310230110454134"></a>
 
-### Tradução em andamento
+### Prompt de criação de figure do personagem &quot;Ke-chan&quot;.
 
 Autor：[@eE50339](https://x.com/eE50339) · [Publicação original](https://x.com/eE50339/status/2100310230110454134)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de criação de figure do personagem &quot;Ke-chan&quot;.
 
 <img src="images/2100310230110454134-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Transformar em figure\nKe-chan
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4529,20 +4831,20 @@ Tradução em andamento
 
 <a name="prompt-2100298674664620291"></a>
 
-### Tradução em andamento
+### Uma montanha viva em forma de semente com salões interiores de grãos e raízes, um pico que se divide e figuras navegando por suas câmaras interiores.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicação original](https://x.com/RealLeeForest/status/2100298674664620291)
 
 Arquitetura / Interiores · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Uma montanha viva em forma de semente com salões interiores de grãos e raízes, um pico que se divide e figuras navegando por suas câmaras interiores.
 
 <img src="images/2100298674664620291-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma montanha que é uma semente viva casca como pedra salões interiores de grãos compactados e raízes o pico apenas começando a se dividir raízes quebrando as encostas inferiores solo e pedra se elevando figuras se movendo para caminhos interiores mais altos guardiões colhendo das paredes interiores um buscador em uma saliência alta pássaros de grãos nas fendas elevador de raízes vivas tempestade de raízes textura realista de casca grão raiz pedra e figuras iluminação cinematográfica forte contraste de raiz ascendente versus pico imóvel altamente detalhado composição marcante atmosfera de fantasia coerente
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T00:26:08.340Z",
+  "model": "grok",
+  "prompt": "Crea una imagen de jesus en el congreso de usa rompiendo sillas y mesas y sacando a todos esos bastardo , que la imagen diga en ingles , (salgan todos de aqui paracitos",
+  "promptTranslations": {
+    "en": "Create an image of Jesus in the US Congress breaking chairs and tables and throwing out all those bastards, have the image say in English, (salgan todos de aqui paracitos"
+  },
+  "summaryTranslations": {
+    "en": "Enraged Jesus in the US Congress throwing furniture and expelling politicians with text in English."
+  },
+  "translationVersion": 2,
+  "summary": "Jesús enfurecido en el Congreso de EE. UU. arrojando muebles y expulsando a los políticos con texto en inglés.",
+  "summaryEn": "Jesus overturning desks and chairs in the US Congress, expelling politicians with English text.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100369940817510612",
+    "canonicalUrl": "https://x.com/JohnnyJWhitaker/status/2100369940817510612",
+    "author": {
+      "username": "JohnnyJWhitaker",
+      "displayName": "Author: Johnny J. Whitaker",
+      "profileUrl": "https://x.com/JohnnyJWhitaker"
+    },
+    "publishedAt": "2026-09-16T23:43:11.000Z",
+    "collectedAt": "2026-09-17T00:15:54.843Z",
+    "language": "es",
+    "originalText": "Grok Imagine prompt:\n\nCrea una imagen de jesus en el congreso de usa rompiendo sillas y mesas y sacando a todos esos bastardo , que la imagen diga en ingles , (salgan todos de aqui paracitos https://t.co/owgVAvGBBm",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/JohnnyJWhitaker/status/2100369940817510612",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100369923356696576/img/cbBmnAE0Q_1-N8KZ.jpg",
+        "analysisUrl": "https://x.com/JohnnyJWhitaker/status/2100369940817510612"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 15
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/JohnnyJWhitaker/status/2100369940817510612",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100369923356696576/img/cbBmnAE0Q_1-N8KZ.jpg",
+  "coverPath": "covers/2100369940817510612.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100369923356696576",
+    "x-post:2100369940817510612"
+  ],
+  "analysis": {
+    "summary": "Jesús enfurecido en el Congreso de EE. UU. arrojando muebles y expulsando a los políticos con texto en inglés.",
+    "summaryEn": "Jesus overturning desks and chairs in the US Congress, expelling politicians with English text.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Media shows Jesus in US Congress smashing furniture and shouting at fleeing politicians, with the text '(Get out of here, parasites)'."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Crea una imagen de jesus en el congreso de usa rompiendo sillas y mesas y sacando a todos esos bastardo , que la imagen diga en ingles , (salgan todos de aqui paracitos",
+    "sourceRange": {
+      "start": 22,
+      "end": 190
+    },
+    "translations": {
+      "zh": "生成一张耶稣在美国国会破坏桌椅并驱逐政客的图像，附带英文文字：“寄生虫们，全从这里滚出去”。",
+      "en": "Create an image of Jesus in the US Congress breaking chairs and tables, kicking out the politicians, with English text: (get out of here parasites"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [
+        "political",
+        "violence_symbolic"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**241** Prompts · Adição mais recente: **2026-09-16**
+**254** Prompts · Adição mais recente: **2026-09-17**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,94 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2100330725056934194"></a>
+
+### Tradução em curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100330725056934194)
+
+Fotografia · Retrato / Selfie · Personagem · Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100330725056934194-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100334525058572615"></a>
+
+### Tradução em curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100334525058572615)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100334525058572615-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100333689553207759"></a>
+
+### Tradução em curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100333689553207759)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100333689553207759-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100331674039181383"></a>
+
+### Tradução em curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100331674039181383)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100331674039181383-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100153971088482321"></a>
 
@@ -2970,20 +3058,20 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2100287072775123218"></a>
 
-### Tradução em curso
+### Ilustração em 2D de um belo rapaz louro e uma linda rapariga de cabelos azuis.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicação original](https://x.com/AUrbNUMjfxj85IS/status/2100287072775123218)
 
 Anime / Mangá · Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Ilustração em 2D de um belo rapaz louro e uma linda rapariga de cabelos azuis.
 
 <img src="images/2100287072775123218-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Homem e mulher bonitos em estilo 2D, Kyotaro Suga e Sumire Hirose, ilustração de cabelo louro e cabelo azul
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -3653,6 +3741,28 @@ Evite personagens reconhecíveis protegidas por direitos de autor, parecenças c
 
 ## Renderização 3D
 
+<a name="prompt-2100361373863825594"></a>
+
+### Tradução em curso
+
+Autor：[@andrew\_n\_carr](https://x.com/andrew_n_carr) · [Publicação original](https://x.com/andrew_n_carr/status/2100361373863825594)
+
+Renderização 3D · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100361373863825594.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097725977443131648"></a>
 
 ### Transformação de uma fotografia numa figura de ação colecionável dentro de uma caixa premium, incluindo características da personagem e acessórios miniatura em estilo de renderização 3D e fotografia de produto.
@@ -3842,6 +3952,28 @@ Crie um cartaz artístico de viagem vertical com comparação superior e inferio
 <a name="category-retro-vintage"></a>
 
 ## Retrô / Vintage
+
+<a name="prompt-2100332541437960533"></a>
+
+### Tradução em curso
+
+Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100332541437960533)
+
+Retrô / Vintage · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100332541437960533-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2100251372339761202"></a>
 
@@ -4349,6 +4481,28 @@ Como teria sido o meu aspeto nos anos 1980? Usa a fotografia em anexo como refer
 
 ## Cyberpunk / Ficção Científica
 
+<a name="prompt-2100340449441685763"></a>
+
+### Tradução em curso
+
+Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicação original](https://x.com/RobotCleopatra/status/2100340449441685763)
+
+Cyberpunk / Ficção Científica · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100340449441685763-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2097951816675639459"></a>
 
 ### Uma cena de documentário de 15 segundos do início dos anos 2000 em que um repórter entrevista um extraterrestre perto de uma nave espacial aterrada, e o extraterrestre revela que veio à Terra para utilizar um cupão da McDonald's.
@@ -4461,22 +4615,156 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2100317770344718548"></a>
+<a name="prompt-2100170328689565929"></a>
 
 ### Tradução em curso
+
+Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2100170328689565929)
+
+Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100170328689565929-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100360689378570439"></a>
+
+### Tradução em curso
+
+Autor：[@InfiniteNeural](https://x.com/InfiniteNeural) · [Publicação original](https://x.com/InfiniteNeural/status/2100360689378570439)
+
+Personagem · Paisagem / Natureza · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100360689378570439.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100343972665135401"></a>
+
+### Tradução em curso
+
+Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicação original](https://x.com/RealLeeForest/status/2100343972665135401)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100343972665135401-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100349144896262406"></a>
+
+### Tradução em curso
+
+Autor：[@Shinebynous](https://x.com/Shinebynous) · [Publicação original](https://x.com/Shinebynous/status/2100349144896262406)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2100349144896262406-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2100349144896262406-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100369940817510612"></a>
+
+### Tradução em curso
+
+Autor：[@JohnnyJWhitaker](https://x.com/JohnnyJWhitaker) · [Publicação original](https://x.com/JohnnyJWhitaker/status/2100369940817510612)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100369940817510612.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100363903028834430"></a>
+
+### Tradução em curso
+
+Autor：[@you8iu](https://x.com/you8iu) · [Publicação original](https://x.com/you8iu/status/2100363903028834430)
+
+Outros · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2100363903028834430.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2100317770344718548"></a>
+
+### Estrada de arco-íris brilhante
 
 Autor：[@owenxplore](https://x.com/owenxplore) · [Publicação original](https://x.com/owenxplore/status/2100317770344718548)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Estrada de arco-íris brilhante
 
 <img src="images/2100317770344718548-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Estrada de arco-íris brilhante
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4485,20 +4773,34 @@ Tradução em curso
 
 <a name="prompt-2100317906399604840"></a>
 
-### Tradução em curso
+### Cena de vídeo sequencial de uma menina triste num jardim que se alegra ao ser consolada e abraçada por dois cães.
 
 Autor：[@Anaiappai](https://x.com/Anaiappai) · [Publicação original](https://x.com/Anaiappai/status/2100317906399604840)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena de vídeo sequencial de uma menina triste num jardim que se alegra ao ser consolada e abraçada por dois cães.
 
 <img src="covers/2100317906399604840.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+0–2.5 s
+
+Plano aproximado da menina sentada ou em pé junto à casa, no jardim. Olha para o lado com uma expressão triste e olhos ligeiramente baços. Uma leve brisa move suavemente o seu cabelo e as folhas em redor. Câmara muito lenta a aproximar-se do seu rosto.
+
+2.5–5 s
+
+A câmara faz um movimento suave para baixo e para o lado, revelando o cão preto a observá-la. O cão abana lentamente a cauda e aproxima-se dela. O cão amarelo também ergue o olhar e começa a aproximar-se.
+
+5–7.5 s
+
+Plano médio. Os dois cães chegam junto da menina. O cão preto encosta suavemente a cabeça na perna dela enquanto o cão amarelo se aproxima a abanar a cauda. A menina baixa o olhar em direção a eles. A sua expressão começa a mudar.
+
+7.5–10  
+
+Aproximação cinematográfica final. A menina agacha-se e abraça os dois cães. Fecha brevemente os olhos e surge um pequeno sorriso genuíno. Os cães permanecem junto dela. A luz quente do jardim envolve os três.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4507,20 +4809,20 @@ Tradução em curso
 
 <a name="prompt-2100310230110454134"></a>
 
-### Tradução em curso
+### Prompt para transformar a personagem &quot;Ke-chan&quot; em figura.
 
 Autor：[@eE50339](https://x.com/eE50339) · [Publicação original](https://x.com/eE50339/status/2100310230110454134)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para transformar a personagem &quot;Ke-chan&quot; em figura.
 
 <img src="images/2100310230110454134-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Transformar em figura\nKe-chan
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -4529,20 +4831,20 @@ Tradução em curso
 
 <a name="prompt-2100298674664620291"></a>
 
-### Tradução em curso
+### Uma montanha viva em forma de semente com salões interiores de grãos e raízes, um pico a fender-se e figuras a navegar pelas suas câmaras interiores.
 
 Autor：[@RealLeeForest](https://x.com/RealLeeForest) · [Publicação original](https://x.com/RealLeeForest/status/2100298674664620291)
 
 Arquitetura / Interiores · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Uma montanha viva em forma de semente com salões interiores de grãos e raízes, um pico a fender-se e figuras a navegar pelas suas câmaras interiores.
 
 <img src="images/2100298674664620291-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma montanha que é uma semente viva casca como pedra salões interiores de grãos compactados e raízes o pico a começar a fender raízes a romper as encostas inferiores solo e pedra a erguerem-se figuras a moverem-se para caminhos interiores mais elevados guardiões a colher das paredes interiores um explorador numa saliência alta pássaros de grãos nas fendas elevador de raízes vivas tempestade de raízes textura realista de casca grão raiz pedra e figuras iluminação cinematográfica forte contraste entre raízes a erguerem-se e pico imóvel altamente detalhado composição impressionante atmosfera de fantasia coerente
 ```
 
 [↑ Voltar às categorias](#catalog)

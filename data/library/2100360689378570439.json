@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T00:26:35.790Z",
+  "model": "unknown-video",
+  "prompt": "An extraordinary surreal masterpiece depicting an ethereal woman standing in an ancient enchanted landscape at twilight, surrounded by enormous mystical trees, floating luminous flowers.",
+  "promptTranslations": {
+    "en": "An extraordinary surreal masterpiece depicting an ethereal woman standing in an ancient enchanted landscape at twilight, surrounded by enormous mystical trees, floating luminous flowers."
+  },
+  "summaryTranslations": {
+    "en": "An ethereal woman standing in an ancient enchanted landscape at twilight surrounded by mystical trees and glowing flowers."
+  },
+  "translationVersion": 2,
+  "summary": "An ethereal woman standing in an ancient enchanted landscape at twilight surrounded by mystical trees and glowing flowers.",
+  "summaryEn": "An ethereal woman standing in an ancient enchanted landscape at twilight surrounded by mystical trees and glowing flowers.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100360689378570439",
+    "canonicalUrl": "https://x.com/InfiniteNeural/status/2100360689378570439",
+    "author": {
+      "username": "InfiniteNeural",
+      "displayName": "InfiniteNeural",
+      "profileUrl": "https://x.com/InfiniteNeural"
+    },
+    "publishedAt": "2026-09-16T23:06:25.000Z",
+    "collectedAt": "2026-09-17T00:15:54.843Z",
+    "language": "en",
+    "originalText": "🎨 8K AI Art Masterpiece Prompt\n\nAn extraordinary surreal masterpiece depicting an ethereal woman standing in an ancient enchanted landscape at twilight, surrounded by enormous mystical trees, floating luminous flowers. 🌹🌹🌹🥀🌺.\n\n#8KAIArtMasterpiecePrompt #AiArtist https://t.co/YJLB9fDONB",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/InfiniteNeural/status/2100360689378570439",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100360666276335616/img/Vpergz9wvBl-5yKq.jpg",
+        "analysisUrl": "https://x.com/InfiniteNeural/status/2100360689378570439"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 7
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/InfiniteNeural/status/2100360689378570439",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100360666276335616/img/Vpergz9wvBl-5yKq.jpg",
+  "coverPath": "covers/2100360689378570439.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100360666276335616",
+    "x-post:2100360689378570439"
+  ],
+  "analysis": {
+    "summary": "An ethereal woman standing in an ancient enchanted landscape at twilight surrounded by mystical trees and glowing flowers.",
+    "summaryEn": "An ethereal woman standing in an ancient enchanted landscape at twilight surrounded by mystical trees and glowing flowers.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows an ethereal woman in an enchanted forest with giant trees, glowing lotuses, waterfalls, and twilight scenery consistent with the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "An extraordinary surreal masterpiece depicting an ethereal woman standing in an ancient enchanted landscape at twilight, surrounded by enormous mystical trees, floating luminous flowers.",
+    "sourceRange": {
+      "start": 32,
+      "end": 218
+    },
+    "translations": {
+      "zh": "超现实杰作，展现暮色中古老迷人风景中的空灵女子，四周环绕着巨大的神秘树木和漂浮的发光花朵。",
+      "en": "An extraordinary surreal masterpiece depicting an ethereal woman standing in an ancient enchanted landscape at twilight, surrounded by enormous mystical trees, floating luminous flowers."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "artistic_showcase",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

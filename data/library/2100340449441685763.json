@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T00:26:40.493Z",
+  "model": "unknown-image",
+  "prompt": "a full body depiction of a sci fi robotic anubis. the character is a tall, slender mechanical being made of black chrome and gold chrome materials. the head is a stylized jackal with glowing orange yellow eyes. around its neck is a large, ornate golden necklace with segmented bands. the torso, arms, and legs are detailed with complex mechanical assemblies, gold trim, and exposed internal wiring. a tattered black cloth with thin gold chains is draped around its waist. the robot is set against a dark background obscured by thick, swirling golden dust and smoke, standing on a reflective surface that shows a faint reflection.",
+  "promptTranslations": {
+    "en": "a full body depiction of a sci fi robotic anubis. the character is a tall, slender mechanical being made of black chrome and gold chrome materials. the head is a stylized jackal with glowing orange yellow eyes. around its neck is a large, ornate golden necklace with segmented bands. the torso, arms, and legs are detailed with complex mechanical assemblies, gold trim, and exposed internal wiring. a tattered black cloth with thin gold chains is draped around its waist. the robot is set against a dark background obscured by thick, swirling golden dust and smoke, standing on a reflective surface that shows a faint reflection."
+  },
+  "summaryTranslations": {
+    "en": "Full-body prompt for a robotic Anubis made of black and gold chrome standing amidst golden smoke."
+  },
+  "translationVersion": 2,
+  "summary": "Full-body prompt for a robotic Anubis made of black and gold chrome standing amidst golden smoke.",
+  "summaryEn": "Full-body prompt for a robotic Anubis made of black and gold chrome standing amidst golden smoke.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100340449441685763",
+    "canonicalUrl": "https://x.com/RobotCleopatra/status/2100340449441685763",
+    "author": {
+      "username": "RobotCleopatra",
+      "displayName": "Skipper VanderWall",
+      "profileUrl": "https://x.com/RobotCleopatra"
+    },
+    "publishedAt": "2026-09-16T21:46:00.000Z",
+    "collectedAt": "2026-09-17T00:15:54.843Z",
+    "language": "en",
+    "originalText": "MASTER PROMPT\na full body depiction of a sci fi robotic anubis. the character is a tall, slender mechanical being made of black chrome and gold chrome materials. the head is a stylized jackal with glowing orange yellow eyes. around its neck is a large, ornate golden necklace with segmented bands. the torso, arms, and legs are detailed with complex mechanical assemblies, gold trim, and exposed internal wiring. a tattered black cloth with thin gold chains is draped around its waist. the robot is set against a dark background obscured by thick, swirling golden dust and smoke, standing on a reflective surface that shows a faint reflection.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSUAwS4XQAANFU4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSUAwS4XQAANFU4.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 441
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RobotCleopatra/status/2100340449441685763",
+  "coverUrl": "https://pbs.twimg.com/media/HSUAwS4XQAANFU4.jpg",
+  "coverPath": "images/2100340449441685763-1.jpg",
+  "imagePaths": [
+    "images/2100340449441685763-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSUAwS4XQAANFU4",
+    "x-post:2100340449441685763"
+  ],
+  "analysis": {
+    "summary": "Full-body prompt for a robotic Anubis made of black and gold chrome standing amidst golden smoke.",
+    "summaryEn": "Full-body prompt for a robotic Anubis made of black and gold chrome standing amidst golden smoke.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely features the slender robotic jackal-headed Anubis with glowing eyes, golden segmented collar, black and gold mechanical body, waist cloth, and swirling gold smoke on a reflective surface."
+    },
+    "videoQuality": null,
+    "originalPrompt": "a full body depiction of a sci fi robotic anubis. the character is a tall, slender mechanical being made of black chrome and gold chrome materials. the head is a stylized jackal with glowing orange yellow eyes. around its neck is a large, ornate golden necklace with segmented bands. the torso, arms, and legs are detailed with complex mechanical assemblies, gold trim, and exposed internal wiring. a tattered black cloth with thin gold chains is draped around its waist. the robot is set against a dark background obscured by thick, swirling golden dust and smoke, standing on a reflective surface that shows a faint reflection.",
+    "sourceRange": {
+      "start": 14,
+      "end": 643
+    },
+    "translations": {
+      "zh": "全身科幻机械阿努比斯形象。角色修长高大，由黑铬和金铬材质制成。头部为发光黄橙色眼睛的胡狼造型。颈部配戴宽大华丽的金色分节颈圈。躯干四肢具有复杂机械结构、金色装饰及外露线缆。腰间围着带细金链的破损黑布。置于被浓郁金色烟尘笼罩的暗黑背景中，伫立在微倒影的反射地面上。",
+      "en": "a full body depiction of a sci fi robotic anubis. the character is a tall, slender mechanical being made of black chrome and gold chrome materials. the head is a stylized jackal with glowing orange yellow eyes. around its neck is a large, ornate golden necklace with segmented bands. the torso, arms, and legs are detailed with complex mechanical assemblies, gold trim, and exposed internal wiring. a tattered black cloth with thin gold chains is draped around its waist. the robot is set against a dark background obscured by thick, swirling golden dust and smoke, standing on a reflective surface that shows a faint reflection."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "sci-fi character design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

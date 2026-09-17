@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-17T00:26:30.663Z",
+  "model": "seedream",
+  "prompt": "An Ancient Data Fossil of Astronaut, where the subject is etched into digital ruins, their form encoded into the remnants of a lost civilization. Cryptic electric cyan glyphs pulse against a decayed obsidian framework, telling a forgotten story of artificial eternity.",
+  "promptTranslations": {
+    "en": "An Ancient Data Fossil of Astronaut, where the subject is etched into digital ruins, their form encoded into the remnants of a lost civilization. Cryptic electric cyan glyphs pulse against a decayed obsidian framework, telling a forgotten story of artificial eternity."
+  },
+  "summaryTranslations": {
+    "en": "Ancient data fossil of an astronaut etched into digital ruins with glowing cyan glyphs."
+  },
+  "translationVersion": 2,
+  "summary": "Ancient data fossil of an astronaut etched into digital ruins with glowing cyan glyphs.",
+  "summaryEn": "Ancient data fossil of an astronaut etched into digital ruins with glowing cyan glyphs.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100349144896262406",
+    "canonicalUrl": "https://x.com/Shinebynous/status/2100349144896262406",
+    "author": {
+      "username": "Shinebynous",
+      "displayName": "Shine by Nous ✨",
+      "profileUrl": "https://x.com/Shinebynous"
+    },
+    "publishedAt": "2026-09-16T22:20:33.000Z",
+    "collectedAt": "2026-09-17T00:15:54.843Z",
+    "language": "en",
+    "originalText": "Same prompt with Seedream 4.5 and with Seedream 5 \n\nPrompt:\n\nAn Ancient Data Fossil of Astronaut, where the subject is etched into digital ruins, their form encoded into the remnants of a lost civilization. Cryptic electric cyan glyphs pulse against a decayed obsidian framework, telling a forgotten story of artificial eternity.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSXwUm-XUAAA1Ch.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSXwUm-XUAAA1Ch.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSXwaELXgAAIrg4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSXwaELXgAAIrg4.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 78
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Shinebynous/status/2100349144896262406",
+  "coverUrl": "https://pbs.twimg.com/media/HSXwUm-XUAAA1Ch.jpg",
+  "coverPath": "images/2100349144896262406-1.jpg",
+  "imagePaths": [
+    "images/2100349144896262406-1.jpg",
+    "images/2100349144896262406-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSXwUm-XUAAA1Ch",
+    "x-image:/media/HSXwaELXgAAIrg4",
+    "x-post:2100349144896262406"
+  ],
+  "analysis": {
+    "summary": "Ancient data fossil of an astronaut etched into digital ruins with glowing cyan glyphs.",
+    "summaryEn": "Ancient data fossil of an astronaut etched into digital ruins with glowing cyan glyphs.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Both generated images depict an astronaut integrated into dark obsidian digital ruins with glowing cyan glyphs."
+    },
+    "videoQuality": null,
+    "originalPrompt": "An Ancient Data Fossil of Astronaut, where the subject is etched into digital ruins, their form encoded into the remnants of a lost civilization. Cryptic electric cyan glyphs pulse against a decayed obsidian framework, telling a forgotten story of artificial eternity.",
+    "sourceRange": {
+      "start": 61,
+      "end": 329
+    },
+    "translations": {
+      "zh": "宇航员的古代数据化石，主体被蚀刻进数字废墟中，其形态被编码进失落文明的残骸。神秘的电光青色符号在衰败的黑曜石框架上闪烁，讲述着一段关于人造永恒的被遗忘故事。",
+      "en": "An Ancient Data Fossil of Astronaut, where the subject is etched into digital ruins, their form encoded into the remnants of a lost civilization. Cryptic electric cyan glyphs pulse against a decayed obsidian framework, telling a forgotten story of artificial eternity."
+    },
+    "targetModels": [
+      "seedream"
+    ],
+    "category": "text-to-image",
+    "useCase": "creative artwork",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
