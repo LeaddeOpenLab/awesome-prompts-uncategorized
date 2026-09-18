@@ -6521,7 +6521,7 @@ Tradução em curso
 
 <a name="prompt-2100509464021664158"></a>
 
-### Tradução em curso
+### Prompt de imagem de contraste quotidiano de professora em formato de captura de ecrã em grelha do álbum do iPhone
 
 Autor：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2100509464021664158)
 
@@ -6529,7 +6529,7 @@ Outros · Publicado
 
 Publicação original：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2100213110791389581)
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de imagem de contraste quotidiano de professora em formato de captura de ecrã em grelha do álbum do iPhone
 
 <img src="images/2100509464021664158-1.jpg" alt="Imagem 1" width="480" />
 
@@ -6546,7 +6546,7 @@ Publicação original：[@boniusex](https://x.com/boniusex) · [Publicação ori
 **Prompt**
 
 ```text
-Tradução em curso
+Captura de ecrã do álbum de fotografias do iPhone × A aparência formal e regrada da professora × Uma parte já fora de controlo × O cartão de identificação de professora que nunca é retirado
 ```
 
 [↑ Voltar às categorias](#catalog)

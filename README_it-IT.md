@@ -6500,7 +6500,7 @@ Traduzione in corso
 
 <a name="prompt-2100509464021664158"></a>
 
-### Traduzione in corso
+### Prompt per immagine di contrasto quotidiano di un'insegnante in formato screenshot a griglia dell'album iPhone
 
 Autore：[@boniusex](https://x.com/boniusex) · [Post originale](https://x.com/boniusex/status/2100509464021664158)
 
@@ -6508,7 +6508,7 @@ Altro · Pubblicato
 
 Post originale：[@boniusex](https://x.com/boniusex) · [Post originale](https://x.com/boniusex/status/2100213110791389581)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per immagine di contrasto quotidiano di un'insegnante in formato screenshot a griglia dell'album iPhone
 
 <img src="images/2100509464021664158-1.jpg" alt="Immagine 1" width="480" />
 
@@ -6525,7 +6525,7 @@ Post originale：[@boniusex](https://x.com/boniusex) · [Post originale](https:/
 **Prompt**
 
 ```text
-Traduzione in corso
+Screenshot dell'album foto di iPhone × L'aspetto composto e formale dell'insegnante × Una parte ormai fuori controllo × Il tesserino da insegnante mai tolto
 ```
 
 [↑ Torna alle categorie](#catalog)

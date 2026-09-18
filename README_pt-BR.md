@@ -6521,7 +6521,7 @@ Tradução em andamento
 
 <a name="prompt-2100509464021664158"></a>
 
-### Tradução em andamento
+### Prompt de imagem de contraste cotidiano de professora em formato de captura de tela em grade do álbum do iPhone
 
 Autor：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2100509464021664158)
 
@@ -6529,7 +6529,7 @@ Outros · Publicado
 
 Publicação original：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2100213110791389581)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de imagem de contraste cotidiano de professora em formato de captura de tela em grade do álbum do iPhone
 
 <img src="images/2100509464021664158-1.jpg" alt="Imagem 1" width="480" />
 
@@ -6546,7 +6546,7 @@ Publicação original：[@boniusex](https://x.com/boniusex) · [Publicação ori
 **Prompt**
 
 ```text
-Tradução em andamento
+Captura de tela do álbum de fotos do iPhone × A aparência formal e comportada da professora × Uma parte já fora de controle × O crachá de professora nunca retirado
 ```
 
 [↑ Voltar às categorias](#catalog)

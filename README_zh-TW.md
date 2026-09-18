@@ -6535,7 +6535,7 @@ FIELD NOTE [編號]
 
 <a name="prompt-2100509464021664158"></a>
 
-### 翻譯中
+### iPhone相簿格狀截圖形式的女教師日常反差圖提示詞
 
 作者：[@boniusex](https://x.com/boniusex) · [查看 X 原帖](https://x.com/boniusex/status/2100509464021664158)
 
@@ -6543,7 +6543,7 @@ FIELD NOTE [編號]
 
 查看 X 原帖：[@boniusex](https://x.com/boniusex) · [查看 X 原帖](https://x.com/boniusex/status/2100213110791389581)
 
-**概括:** 翻譯中
+**概括:** iPhone相簿格狀截圖形式的女教師日常反差圖提示詞
 
 <img src="images/2100509464021664158-1.jpg" alt="圖片 1" width="480" />
 
@@ -6560,7 +6560,7 @@ FIELD NOTE [編號]
 **提示詞**
 
 ```text
-翻譯中
+iPhone相簿截圖 × 教師的規矩外殼 × 已經失控的局部 × 教師證永遠沒摘
 ```
 
 [↑ 返回分類目錄](#catalog)

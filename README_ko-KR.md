@@ -6534,7 +6534,7 @@ FIELD NOTE [번호]
 
 <a name="prompt-2100509464021664158"></a>
 
-### 번역 중
+### iPhone 사진첩 그리드 스크린샷 형태의 여교사 일상 반전 이미지 프롬프트
 
 작성자：[@boniusex](https://x.com/boniusex) · [원본 게시물](https://x.com/boniusex/status/2100509464021664158)
 
@@ -6542,7 +6542,7 @@ FIELD NOTE [번호]
 
 원본 게시물：[@boniusex](https://x.com/boniusex) · [원본 게시물](https://x.com/boniusex/status/2100213110791389581)
 
-**요약:** 번역 중
+**요약:** iPhone 사진첩 그리드 스크린샷 형태의 여교사 일상 반전 이미지 프롬프트
 
 <img src="images/2100509464021664158-1.jpg" alt="이미지 1" width="480" />
 
@@ -6559,7 +6559,7 @@ FIELD NOTE [번호]
 **프롬프트**
 
 ```text
-번역 중
+iPhone 사진첩 스크린샷 × 교사의 단정한 겉모습 × 이미 통제력을 잃은 부분 × 결코 벗지 않은 교사증
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

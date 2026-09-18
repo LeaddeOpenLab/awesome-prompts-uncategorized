@@ -6500,7 +6500,7 @@ Charakter · Fahrzeug · Veröffentlicht
 
 <a name="prompt-2100509464021664158"></a>
 
-### Übersetzung läuft
+### Prompt für ein Kontrastbild aus dem Alltag einer Lehrerin im Format eines iPhone-Album-Gitter-Screenshots
 
 Autor：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2100509464021664158)
 
@@ -6508,7 +6508,7 @@ Sonstige · Veröffentlicht
 
 Originalbeitrag：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2100213110791389581)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein Kontrastbild aus dem Alltag einer Lehrerin im Format eines iPhone-Album-Gitter-Screenshots
 
 <img src="images/2100509464021664158-1.jpg" alt="Bild 1" width="480" />
 
@@ -6525,7 +6525,7 @@ Originalbeitrag：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https
 **Prompt**
 
 ```text
-Übersetzung läuft
+iPhone-Fotoalbum-Screenshot × Die ordentliche Fassade einer Lehrerin × Ein bereits außer Kontrolle geratener Teil × Der Lehrerausweis, der niemals abgenommen wird
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

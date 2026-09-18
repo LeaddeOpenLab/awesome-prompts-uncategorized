@@ -6500,7 +6500,7 @@ Traduction en cours
 
 <a name="prompt-2100509464021664158"></a>
 
-### Traduction en cours
+### Prompt d'image de contraste quotidien d'une enseignante sous forme de capture d'écran en grille d'album iPhone
 
 Auteur：[@boniusex](https://x.com/boniusex) · [Publication originale](https://x.com/boniusex/status/2100509464021664158)
 
@@ -6508,7 +6508,7 @@ Autres · Publié
 
 Publication originale：[@boniusex](https://x.com/boniusex) · [Publication originale](https://x.com/boniusex/status/2100213110791389581)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'image de contraste quotidien d'une enseignante sous forme de capture d'écran en grille d'album iPhone
 
 <img src="images/2100509464021664158-1.jpg" alt="Image 1" width="480" />
 
@@ -6525,7 +6525,7 @@ Publication originale：[@boniusex](https://x.com/boniusex) · [Publication orig
 **Consigne**
 
 ```text
-Traduction en cours
+Capture d'écran de l'album photo de l'iPhone × L'apparence sage et ordonnée de l'enseignante × Une partie déjà hors de contrôle × Le badge d'enseignante qui n'est jamais retiré
 ```
 
 [↑ Retour aux catégories](#catalog)

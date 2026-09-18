@@ -6521,7 +6521,7 @@ Karakter · Araç · Yayımlandı
 
 <a name="prompt-2100509464021664158"></a>
 
-### Çeviri sürüyor
+### iPhone albüm ızgarası ekran görüntüsü formatında kadın öğretmenin günlük zıtlık görseli istemi
 
 Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100509464021664158)
 
@@ -6529,7 +6529,7 @@ Diğer · Yayımlandı
 
 Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100213110791389581)
 
-**Özet:** Çeviri sürüyor
+**Özet:** iPhone albüm ızgarası ekran görüntüsü formatında kadın öğretmenin günlük zıtlık görseli istemi
 
 <img src="images/2100509464021664158-1.jpg" alt="Görsel 1" width="480" />
 
@@ -6546,7 +6546,7 @@ Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+iPhone fotoğraf albümü ekran görüntüsü × Bir öğretmenin kuralcı dış kabuğu × Zaten kontrolden çıkmış bir kısım × Asla çıkarılmayan öğretmen kimlik kartı
 ```
 
 [↑ Kategorilere dön](#catalog)
