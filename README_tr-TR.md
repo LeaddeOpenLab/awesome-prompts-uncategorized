@@ -5767,20 +5767,52 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2100721468363719074"></a>
 
-### Çeviri sürüyor
+### Buz sahnelerini, kapak açılışını, sıçramaları ve nihai hero kompozisyonunu detaylandıran 10 saniyelik dikey Coca-Cola reklamı.
 
 Yazar：[@FuturoemTeste](https://x.com/FuturoemTeste) · [Orijinal gönderi](https://x.com/FuturoemTeste/status/2100721468363719074)
 
 Ürün Pazarlaması · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Buz sahnelerini, kapak açılışını, sıçramaları ve nihai hero kompozisyonunu detaylandıran 10 saniyelik dikey Coca-Cola reklamı.
 
 <img src="covers/2100721468363719074.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey formatta (9:16), 8K fotogerçekçi kalitede, ultra detaylı yüksek hızlı içecek sinematografisi, dramatik kırmızı sinematik aydınlatma ve ferahlatıcı buz ve sıçrama atmosferine sahip 10 saniyelik premium bir Coca-Cola reklamı oluşturun.
+
+KONSEPT: BUZ → SIÇRAMA → ŞİŞE AÇIĞA ÇIKIŞI → SIVI ÇARPMASI → ÇOKLU ŞİŞELİ HERO KOMPOZİSYONU
+
+01 | 0–1,2 sn — BUZ ÇARPMASI
+Coca-Cola'nın karakteristik parlak kırmızı ortamında patlayan kristal berraklığında buz küplerinin aşırı yakın çekimi (extreme close-up). Buz gibi su damlacıkları ve minik buz parçacıkları dramatik bir ağır çekimde kameraya doğru uçuşur. Güçlü bir ters ışık ışıltılı yansımalar yaratır.
+
+02 | 1,2–2,4 sn — ŞİŞE AÇIĞA ÇIKIŞI
+Buz gibi bir cam Coca-Cola şişesi, su ve buzun arasından süzülerek havada doğal bir şekilde dönerek belirir. İkonik *contour* şişe formu, kırmızı etiket, beyaz logo, gümüş metal kapak ve gerçekçi yoğuşma damlaları mükemmel netlikte ve kusursuz kalır.
+
+03 | 2,4–3,6 sn — FERATLATICI SIÇRAMA
+Şişenin etrafına çarpan güçlü bir Coca-Cola dalgası. Kamera sıçramanın içinden hızla ilerlerken yakın plan damlacıklar ürünü çevreler.
+
+04 | 3,6–4,8 sn — AÇILIŞ VE KÖPÜRME
+Cam şişenin boynunun ve metal kapağının aşırı yakın çekimi. Kapak, gerçekçi bir gaz çıkışıyla açılarak küçük kabarcıklar ve ferahlatıcı bir sis oluşturur.
+
+05 | 4,8–6,0 sn — SIVI HAREKETİ
+Koyu renkli Coca-Cola sıvısı, şişenin etrafında zarif ve akıcı bir dalga oluşturarak dinamik ve heykelsi bir sıçrama yaratır. Buz küpleri ve su damlacıkları kare içinde doğal bir şekilde hareket eder.
+
+06 | 6,0–7,2 sn — ŞİŞE DİZİLİMİ
+Kırmızı ortamda süzülen ve dönen, farklı derinliklerde çoklu Coca-Cola şişeleri belirir. Su izleri ve buz parçacıkları bu harekete eşlik ederek enerjik ve premium bir reklam görseli sunar.
+
+07 | 7,2–8,6 sn — HERO DÜZENİ
+Üç Coca-Cola şişesi, çarpıcı bir ürün kompozisyonu oluşturacak şekilde zarifçe bir araya gelir. Bir şişe ön planda odak noktası olarak kalırken diğerleri arkada konumlanır. Yoğun yoğuşma damlacıkları, gerçekçi yansımalar ve su damlaları buz gibi ferahlığı vurgular.
+
+08 | 8,6–10 sn — NİHAİ HERO ÇEKİMİ (HERO SHOT)
+Öne çıkan ürünün temiz ve sinematik görüntüsü: buzla kaplı, havada asılı su damlaları ve hafif bir Coca-Cola sıvısı sıçramasıyla çevrili Coca-Cola şişeleri. Yoğun ve canlı kırmızı arka plan, parıltılı stüdyo yansımaları, dramatik kenar ışığı (rim light). Kamera yumuşak bir yakınlaşma hareketi (push-in) yapar.
+
+ÜRÜN STANDARDI: Coca-Cola Contour şişesinin birebir oranlarını, kırmızı etiket tasarımını, beyaz Coca-Cola logosunu/yazısını, tipografisini, gümüş-beyaz metal kapağını ve genel ambalaj kimliğini koruyun. Yeniden tasarım yok, bozuk logo yok, yazım hatası yok, yinelenen etiketler yok, deforme olmuş şişeler yok.
+
+GÖRSEL STİL: Fotogerçekçi, ultra premium içecek reklamı, 8K detaylar, yüksek hızlı makro fotoğrafçılık, gerçekçi sıvı fiziği, keskin yoğuşma damlaları, ışıltılı buz, sinematik alan derinliği, dramatik stüdyo aydınlatması, gerçekçi yansımalar, zengin kırmızı tonlu atmosfer, akıcı kamera hareketi.
+
+NEGATİF PROMPT: Bulanık logo, bozuk şişe, deforme tipografi, hatalı markalama, fazladan logolar, biçimsiz ürünler, gerçekçi olmayan sıvı fiziği, birbirine eriyen çift şişeler, düşük çözünürlük, çizgi film görünümü, plastik görünümlü sıvı, filigran, metin kusurları.
 ```
 
 [↑ Kategorilere dön](#catalog)

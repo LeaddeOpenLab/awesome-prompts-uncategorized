@@ -5805,20 +5805,52 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2100721468363719074"></a>
 
-### Đang dịch
+### Quảng cáo dọc 10 giây của Coca-Cola mô tả chi tiết các cảnh đá lạnh, mở nắp, nước bắn tung tóe và bố cục hero shot cuối cùng.
 
 Tác giả：[@FuturoemTeste](https://x.com/FuturoemTeste) · [Bài gốc](https://x.com/FuturoemTeste/status/2100721468363719074)
 
 Tiếp thị sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Quảng cáo dọc 10 giây của Coca-Cola mô tả chi tiết các cảnh đá lạnh, mở nắp, nước bắn tung tóe và bố cục hero shot cuối cùng.
 
 <img src="covers/2100721468363719074.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video quảng cáo Coca-Cola cao cấp dài 10 giây định dạng dọc (9:16), với chất lượng chân thực như ảnh chụp 8K, kỹ thuật quay phim đồ uống tốc độ cao siêu chi tiết, ánh sáng điện ảnh tông đỏ đầy kịch tính cùng bầu không khí sảng khoái của đá lạnh và nước bắn tung tóe.
+
+Ý TƯỞNG: ĐÁ LẠNH → TUNG TÓE → HIỆN RÕ CHAI → VA CHẠM CỦA CHẤT LỎNG → BỐ CỤC ANH HÙNG VỚI NHIỀU CHAI
+
+01 | 0–1,2s — CÚ VA CHẠM CỦA ĐÁ LẠNH
+Cận cảnh cực đại (extreme close-up) những viên đá trong suốt như pha lê nổ tung trong không gian màu đỏ rực rỡ đặc trưng của Coca-Cola. Các giọt nước băng giá và những hạt đá li ti bay về phía máy quay theo chuyển động chậm (slow motion) đầy ấn tượng. Ánh sáng ngược (backlight) mạnh mẽ tạo nên những tia sáng lấp lánh.
+
+02 | 1,2–2,4s — HIỆN RÕ CHAI
+Một chai thủy tinh Coca-Cola ướp lạnh trồi lên qua làn nước và đá, xoay tròn tự nhiên giữa không trung. Kiểu dáng chai cong (contour) mang tính biểu tượng, nhãn đỏ, logo chữ trắng, nắp kim loại màu bạc và lớp hơi nước ngưng tụ chân thực vẫn giữ được độ sắc nét và chính xác hoàn hảo.
+
+03 | 2,4–3,6s — TUNG TÓE SẢNG KHOÁI
+Một làn sóng Coca-Cola mạnh mẽ cuộn trào xung quanh chai. Các giọt nước cận cảnh bao quanh sản phẩm trong khi máy quay lướt nhanh qua luồng nước bắn tung tóe.
+
+04 | 3,6–4,8s — MỞ NẮP VÀ SỦI BỌT
+Cận cảnh cực đại phần cổ chai thủy tinh và nắp kim loại. Nắp bật mở với luồng khí giải phóng chân thực, tạo ra những bọt khí nhỏ li ti và làn sương mát lạnh sảng khoái.
+
+05 | 4,8–6,0s — CHUYỂN ĐỘNG CỦA CHẤT LỎNG
+Dòng chất lỏng Coca-Cola màu sẫm tạo thành một làn sóng mềm mại, uyển chuyển bao quanh chai, mang lại hiệu ứng nước bắn đầy tính điêu khắc và sống động. Các viên đá và giọt nước chuyển động tự nhiên trong khung hình.
+
+06 | 6,0–7,2s — CHUỖI NHIỀU CHAI
+Nhiều chai Coca-Cola xuất hiện ở các độ sâu trường ảnh khác nhau, lơ lửng và xoay tròn trong không gian màu đỏ. Những vệt nước và vụn đá chuyển động theo, tạo nên hình ảnh quảng cáo tràn đầy năng lượng và cao cấp.
+
+07 | 7,2–8,6s — ĐỘI HÌNH ANH HÙNG (HERO FORMATION)
+Ba chai Coca-Cola hội tụ mượt mà thành một bố cục sản phẩm nổi bật. Một chai đứng vị trí chủ đạo ở tiền cảnh, trong khi các chai còn lại được bố trí phía sau. Lớp hơi nước ngưng tụ dày đặc, phản chiếu chân thực và các giọt nước nhấn mạnh sự mát lạnh băng giá.
+
+08 | 8,6–10s — CÚ BẤM MÁY CHỦ ĐẠO CUỐI CÙNG (HERO SHOT)
+Cú máy sản phẩm chủ đạo mang tính điện ảnh và gọn gàng: các chai Coca-Cola phủ đầy đá tuyết, bao quanh bởi những giọt nước lơ lửng và làn sóng nước Coca-Cola bắn nhẹ. Nền đỏ rực rỡ và đậm đà, ánh phản chiếu studio lấp lánh, ánh sáng viền (rim light) đầy kịch tính. Máy quay thực hiện cú đẩy tới (push-in) mượt mà.
+
+TIÊU CHUẨN SẢN PHẨM: Giữ nguyên tỷ lệ chính xác của chai Contour Coca-Cola, thiết kế nhãn đỏ, logo/chữ viết Coca-Cola màu trắng, kiểu chữ, nắp kim loại trắng bạc và nhận diện bao bì tổng thể. Không tái thiết kế, không làm méo mó logo, không sai lỗi chính tả, không trùng lặp nhãn mác, không biến dạng chai.
+
+PHONG CÁCH HÌNH ẢNH: Chân thực như ảnh chụp, quảng cáo đồ uống siêu cao cấp, chi tiết 8K, nhiếp ảnh macro tốc độ cao, vật lý chất lỏng chân thực, hơi nước ngưng tụ sắc nét, đá lấp lánh, độ sâu trường ảnh điện ảnh, ánh sáng studio kịch tính, phản chiếu chân thực, bầu không khí tông đỏ đậm đà, chuyển động máy quay mượt mà.
+
+PROMPT PHỦ ĐỊNH (NEGATIVE PROMPT): Logo bị mờ, chai bị méo mó, kiểu chữ biến dạng, sai nhận diện thương hiệu, thêm logo thừa, sản phẩm dị dạng, vật lý chất lỏng phi thực tế, các chai bị nhân đôi dính vào nhau, độ phân giải thấp, phong cách hoạt hình, chất lỏng trông như nhựa, watermark, lỗi ký tự văn bản.
 ```
 
 [↑ Về danh mục](#catalog)

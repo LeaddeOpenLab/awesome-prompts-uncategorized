@@ -5746,20 +5746,52 @@ Traduction en cours
 
 <a name="prompt-2100721468363719074"></a>
 
-### Traduction en cours
+### Spot publicitaire vertical de 10 s pour Coca-Cola détaillant des scènes de glace, ouverture de capsule, éclaboussures et composition héroïque finale.
 
 Auteur：[@FuturoemTeste](https://x.com/FuturoemTeste) · [Publication originale](https://x.com/FuturoemTeste/status/2100721468363719074)
 
 Marketing produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Spot publicitaire vertical de 10 s pour Coca-Cola détaillant des scènes de glace, ouverture de capsule, éclaboussures et composition héroïque finale.
 
 <img src="covers/2100721468363719074.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un spot publicitaire premium de 10 secondes pour Coca-Cola au format vertical (9:16), avec une qualité photoréaliste 8K, une cinématographie haute vitesse ultra-détaillée de boisson, un éclairage cinématographique rouge dramatique et une atmosphère rafraîchissante de glace et d'éclaboussures.
+
+CONCEPT : GLACE → ÉCLABOUSSURE → RÉVÉLATION DE LA BOUTEILLE → IMPACT DU LIQUIDE → COMPOSITION HÉROÏQUE AVEC PLUSIEURS BOUTEILLES
+
+01 | 0–1,2s — IMPACT DE LA GLACE
+Très gros plan sur des glaçons cristallins qui explosent dans un environnement rouge éclatant caractéristique de Coca-Cola. Des gouttelettes d'eau glacée et de minuscules particules de glace volent vers la caméra dans un ralenti dramatique. Un fort rétroéclairage crée des reflets scintillants.
+
+02 | 1,2–2,4s — RÉVÉLATION DE LA BOUTEILLE
+Une bouteille en verre de Coca-Cola glacée émerge à travers l'eau et la glace, tournoyant naturellement dans les airs. La forme emblématique de la bouteille Contour, l'étiquette rouge, le logo blanc, la capsule métallique argentée et la condensation réaliste restent parfaitement nets et précis.
+
+03 | 2,4–3,6s — ÉCLABOUSSURE RAFRAÎCHISSANTE
+Une puissante vague de Coca-Cola se fracasse autour de la bouteille. Des gouttelettes en gros plan entourent le produit tandis que la caméra avance rapidement à travers l'éclaboussure.
+
+04 | 3,6–4,8s — OUVERTURE ET EFFERVESCENCE
+Très gros plan sur le goulot de la bouteille en verre et la capsule métallique. La capsule s'ouvre avec une libération réaliste de gaz, créant de petites bulles et une brume rafraîchissante.
+
+05 | 4,8–6,0s — MOUVEMENT DU LIQUIDE
+Le liquide sombre de Coca-Cola forme une vague fluide et élégante autour de la bouteille, créant une éclaboussure sculpturale et dynamique. Des glaçons et des gouttelettes se déplacent naturellement dans le cadre.
+
+06 | 6,0–7,2s — SÉQUENCE DE BOUTEILLES
+Plusieurs bouteilles de Coca-Cola apparaissent à différentes profondeurs de champ, flottant et tournoyant dans l'environnement rouge. Des traînées d'eau et des particules de glace accompagnent le mouvement, créant un rendu publicitaire premium et énergique.
+
+07 | 7,2–8,6s — FORMATION HÉROÏQUE
+Trois bouteilles de Coca-Cola convergent en douceur pour former une composition de produit percutante. Une bouteille reste mise en valeur au premier plan, tandis que les autres sont positionnées à l'arrière. Une condensation intense, des reflets réalistes et des gouttelettes d'eau soulignent la fraîcheur glaciale.
+
+08 | 8,6–10s — PLAN HÉROÏQUE FINAL (HERO SHOT)
+Plan cinématographique épuré du produit vedette : des bouteilles de Coca-Cola couvertes de glace, entourées de gouttes d'eau en suspension et d'une légère éclaboussure de liquide Coca-Cola. Arrière-plan rouge vibrant et intense, reflets de studio éclatants, rétroéclairage de contour (rim light) dramatique. La caméra effectue un mouvement fluide d'approche (push-in).
+
+STANDARD DU PRODUIT : Préserver les proportions exactes de la bouteille Contour de Coca-Cola, le design de l'étiquette rouge, le logo/lettrage blanc Coca-Cola, la typographie, la capsule métallique argentée et blanche et l'identité générale de l'emballage. Aucun redesign, aucun logo déformé, aucune faute d'orthographe, aucune étiquette dupliquée, aucune bouteille déformée.
+
+STYLE VISUEL : Photoréaliste, publicité de boisson ultra-premium, détails 8K, macrophotographie à haute vitesse, physique des fluides réaliste, condensation nette, glace scintillante, profondeur de champ cinématographique, éclairage de studio dramatique, reflets réalistes, atmosphère aux nuances de rouge profond, mouvement de caméra fluide.
+
+PROMPT NÉGATIF : Logo flou, bouteille déformée, typographie altérée, image de marque incorrecte, logos supplémentaires, produits déformés, physique des liquides irréaliste, bouteilles dupliquées fusionnées, basse résolution, aspect dessin animé, liquide à l'aspect plastique, filigrane, artefacts textuels.
 ```
 
 [↑ Retour aux catégories](#catalog)

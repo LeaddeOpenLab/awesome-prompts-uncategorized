@@ -5805,20 +5805,52 @@ Traducción en curso
 
 <a name="prompt-2100721468363719074"></a>
 
-### Traducción en curso
+### Anuncio vertical de 10s de Coca-Cola que detalla escenas de hielo, apertura de chapa, salpicaduras y composición heroica final.
 
 Autor：[@FuturoemTeste](https://x.com/FuturoemTeste) · [Publicación original](https://x.com/FuturoemTeste/status/2100721468363719074)
 
 Marketing de producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Anuncio vertical de 10s de Coca-Cola que detalla escenas de hielo, apertura de chapa, salpicaduras y composición heroica final.
 
 <img src="covers/2100721468363719074.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio prémium de 10 segundos de Coca-Cola en formato vertical (9:16), con calidad fotorrealista 8K, cinematografía de bebidas a alta velocidad ultradetallada, iluminación cinematográfica roja dramática y una atmósfera refrescante de hielo y salpicaduras.
+
+CONCEPTO: HIELO → SALPICADURA → REVELACIÓN DE LA BOTELLA → IMPACTO DEL LÍQUIDO → COMPOSICIÓN HEROICA CON MÚLTIPLES BOTELLAS
+
+01 | 0–1,2s — IMPACTO DEL HIELO
+Primer plano extremo de cubitos de hielo cristalinos que explotan en un entorno rojo brillante característico de Coca-Cola. Gotas de agua helada y diminutas partículas de hielo vuelan hacia la cámara en una dramática cámara lenta. Una potente luz de contra crea reflejos brillantes.
+
+02 | 1,2–2,4s — REVELACIÓN DE LA BOTELLA
+Una botella de vidrio de Coca-Cola helada emerge a través del agua y el hielo, girando de forma natural en el aire. La icónica forma de la botella *contour*, la etiqueta roja, el logotipo tipográfico blanco, la chapa metálica plateada y la condensación realista se mantienen perfectamente nítidos y precisos.
+
+03 | 2,4–3,6s — SALPICADURA REFRESCANTE
+Una poderosa ola de Coca-Cola choca alrededor de la botella. Gotas en primer plano rodean el producto mientras la cámara avanza rápidamente a través de la salpicadura.
+
+04 | 3,6–4,8s — APERTURA Y EFERVESCENCIA
+Primer plano extremo del cuello de la botella de vidrio y la chapa metálica. La chapa se abre con una liberación realista de gas, generando pequeñas burbujas y una niebla refrescante.
+
+05 | 4,8–6,0s — MOVIMIENTO DEL LÍQUIDO
+El líquido oscuro de Coca-Cola forma una ola elegante y fluida alrededor de la botella, creando una salpicadura dinámica y escultural. Cubitos de hielo y gotas se mueven con naturalidad por el encuadre.
+
+06 | 6,0–7,2s — SECUENCIA DE BOTELLAS
+Múltiples botellas de Coca-Cola aparecen a diferentes profundidades, flotando y girando en el entorno rojo. Estelas de agua y partículas de hielo acompañan el movimiento, logrando un aspecto publicitario prémium y enérgico.
+
+07 | 7,2–8,6s — FORMACIÓN HEROICA
+Tres botellas de Coca-Cola convergen suavemente en una impactante composición de producto. Una botella se mantiene destacada en primer plano, mientras que las demás se ubican detrás. Una condensación intensa, reflejos realistas y gotas de agua enfatizan la frescura helada.
+
+08 | 8,6–10s — PLANO DE PRODUCTO FINAL (HERO SHOT)
+Plano cinematográfico y limpio del producto principal: botellas de Coca-Cola cubiertas de hielo, rodeadas de gotas de agua suspendidas y una suave salpicadura de líquido de Coca-Cola. Fondo rojo intenso y vibrante, reflejos de estudio brillantes, iluminación de contorno (rim light) dramática. La cámara realiza un suave movimiento de aproximación (push-in).
+
+ESTÁNDAR DEL PRODUCTO: Conservar las proporciones exactas de la botella Contour de Coca-Cola, el diseño de la etiqueta roja, el logotipo/letrero blanco de Coca-Cola, la tipografía, la chapa metálica plateada y blanca, y la identidad general del envase. Sin rediseños, sin logotipos distorsionados, sin errores ortográficos, sin etiquetas duplicadas, sin botellas deformadas.
+
+ESTILO VISUAL: Fotorrealista, anuncio de bebida ultraprémium, detalles en 8K, fotografía macro de alta velocidad, física de fluidos realista, condensación nítida, hielo brillante, profundidad de campo cinematográfica, iluminación dramática de estudio, reflejos realistas, atmósfera en tonos rojos intensos, movimiento de cámara fluido.
+
+PROMPT NEGATIVO: Logotipo borroso, botella distorsionada, tipografía deformada, branding incorrecto, logotipos adicionales, productos deformados, física de líquidos poco realista, botellas duplicadas fusionándose, baja resolución, aspecto de dibujo animado, líquido con apariencia de plástico, marcas de agua, artefactos en el texto.
 ```
 
 [↑ Volver a categorías](#catalog)

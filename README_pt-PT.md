@@ -5767,20 +5767,52 @@ Tradução em curso
 
 <a name="prompt-2100721468363719074"></a>
 
-### Tradução em curso
+### Anúncio vertical de 10s da Coca-Cola detalhando cenas de gelo, abertura de carica, salpicos e composição heroica final.
 
 Autor：[@FuturoemTeste](https://x.com/FuturoemTeste) · [Publicação original](https://x.com/FuturoemTeste/status/2100721468363719074)
 
 Marketing de Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Anúncio vertical de 10s da Coca-Cola detalhando cenas de gelo, abertura de carica, salpicos e composição heroica final.
 
 <img src="covers/2100721468363719074.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um anúncio premium de 10 segundos da Coca-Cola em formato vertical (9:16), com qualidade fotorrealista 8K, cinematografia de alta velocidade ultradetalhada da bebida, iluminação cinematográfica vermelha dramática e uma atmosfera refrescante de gelo e salpicos.
+
+CONCEITO: GELO → SALPICO → REVELAÇÃO DA GARRAFA → IMPACTO DO LÍQUIDO → COMPOSIÇÃO HEROICA COM MÚLTIPLAS GARRAFAS
+
+01 | 0–1,2s — IMPACTO DO GELO
+Grande plano extremo de cubos de gelo cristalinos a explodir num ambiente vermelho brilhante característico da Coca-Cola. Gotículas de água gelada e minúsculas partículas de gelo voam em direção à câmara em câmara lenta dramática. Uma forte contraluz cria reflexos cintilantes.
+
+02 | 1,2–2,4s — REVELAÇÃO DA GARRAFA
+Uma garrafa de vidro de Coca-Cola gelada emerge através da água e do gelo, girando naturalmente no ar. A forma icónica da garrafa *contour*, o rótulo vermelho, o logótipo branco, a carica metálica prateada e a condensação realista permanecem perfeitamente nítidos e precisos.
+
+03 | 2,4–3,6s — SALPICO REFRESCANTE
+Uma onda poderosa de Coca-Cola embate ao redor da garrafa. Gotículas em grande plano rodeiam o produto enquanto a câmara avança rapidamente através do salpico.
+
+04 | 3,6–4,8s — ABERTURA E EFERVESCÊNCIA
+Grande plano extremo do gargalo da garrafa de vidro e da carica metálica. A carica solta-se com uma libertação realista de gás, criando pequenas bolhas e uma névoa refrescante.
+
+05 | 4,8–6,0s — MOVIMENTO DO LÍQUIDO
+O líquido escuro da Coca-Cola forma uma onda elegante e fluida ao redor da garrafa, criando um salpico dinâmico e escultural. Cubos de gelo e gotículas movem-se naturalmente pelo enquadramento.
+
+06 | 6,0–7,2s — SEQUÊNCIA DE GARRAFAS
+Múltiplas garrafas de Coca-Cola surgem em diferentes profundidades, a flutuar e a girar no ambiente vermelho. Rastos de água e partículas de gelo acompanham o movimento, criando um visual publicitário premium e energético.
+
+07 | 7,2–8,6s — FORMAÇÃO HEROICA
+Três garrafas de Coca-Cola convergem suavemente para uma composição de produto marcante. Uma garrafa permanece em destaque no primeiro plano, enquanto as outras estão posicionadas atrás. Condensação intensa, reflexos realistas e gotículas de água enfatizam a frescura gelada.
+
+08 | 8,6–10s — IMAGEM FINAL DE DESTAQUE (HERO SHOT)
+Imagem cinematográfica e limpa do produto em destaque: garrafas de Coca-Cola cobertas de gelo, rodeadas por gotas de água em suspensão e um ligeiro salpico de líquido da Coca-Cola. Fundo vermelho intenso e vibrante, reflexos de estúdio com brilho, iluminação de contorno (rim light) dramática. A câmara realiza um movimento suave de aproximação (push-in).
+
+PADRÃO DO PRODUTO: Preservar as proporções exatas da garrafa Contour da Coca-Cola, o design do rótulo vermelho, o logótipo/lettering branco da Coca-Cola, a tipografia, a carica metálica branca e prateada e a identidade geral da embalagem. Sem redesign, sem logótipo distorcido, sem erros ortográficos, sem rótulos duplicados, sem garrafas deformadas.
+
+ESTILO VISUAL: Fotorrealista, anúncio de bebida ultra-premium, detalhes em 8K, fotografia macro de alta velocidade, física de líquidos realista, condensação nítida, gelo cintilante, profundidade de campo cinematográfica, iluminação de estúdio dramática, reflexos realistas, atmosfera em tons de vermelho rico, movimento de câmara suave.
+
+PROMPT NEGATIVO: Logótipo desfocado, garrafa distorcida, tipografia deformada, branding incorreto, logótipos adicionais, produtos deformados, física de líquidos irrealista, garrafas duplicadas a fundir-se, baixa resolução, visual de desenho animado, líquido com aspeto de plástico, marca de água, artefactos de texto.
 ```
 
 [↑ Voltar às categorias](#catalog)

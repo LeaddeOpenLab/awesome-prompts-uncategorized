@@ -5746,20 +5746,52 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2100721468363719074"></a>
 
-### Übersetzung läuft
+### Vertikaler 10-Sekunden-Coca-Cola-Werbespot mit Eisszenen, Kronkorkenöffnung, Spritzern und finaler Hero-Komposition.
 
 Autor：[@FuturoemTeste](https://x.com/FuturoemTeste) · [Originalbeitrag](https://x.com/FuturoemTeste/status/2100721468363719074)
 
 Produktmarketing · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vertikaler 10-Sekunden-Coca-Cola-Werbespot mit Eisszenen, Kronkorkenöffnung, Spritzern und finaler Hero-Komposition.
 
 <img src="covers/2100721468363719074.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 10-sekündigen Premium-Coca-Cola-Werbespot im Hochformat (9:16) mit fotorealistischer 8K-Qualität, hochdetaillierter High-Speed-Getränkekinematografie, dramatischer roter Kinobeleuchtung und einer erfrischenden Atmosphäre aus Eis und Spritzern.
+
+KONZEPT: EIS → SPRITZER → FLASCHENENTHÜLLUNG → FLÜSSIGKEITSAUFRALL → HERO-KOMPOSITION MIT MEHREREN FLASCHEN
+
+01 | 0–1,2s — EIS-AUFPRALL
+Extreme Nahaufnahme von kristallklaren Eiswürfeln, die in einer für Coca-Cola charakteristischen, leuchtend roten Umgebung explodieren. Eiskalte Wassertropfen und winzige Eispartikel fliegen in dramatischer Zeitlupe auf die Kamera zu. Starkes Gegenlicht erzeugt funkelnde Reflexionen.
+
+02 | 1,2–2,4s — FLASCHENENTHÜLLUNG
+Eine eiskalte Coca-Cola-Glasflasche taucht durch Wasser und Eis auf und dreht sich natürlich in der Luft. Die ikonische Konturflaschenform, das rote Etikett, der weiße Schriftzug, der silberne Kronkorken und die realistische Kondensation bleiben absolut scharf und präzise.
+
+03 | 2,4–3,6s — ERFRISCHENDER SPRITZER
+Eine kraftvolle Welle von Coca-Cola bricht um die Flasche herum. Nahaufnahmen von Tropfen umgeben das Produkt, während sich die Kamera zügig durch den Spritzer nach vorne bewegt.
+
+04 | 3,6–4,8s — ÖFFNUNG UND ZISCHEN
+Extreme Nahaufnahme des Flaschenhalses und des Metallverschlusses. Der Verschluss löst sich mit einem realistischen Zischen entweichender Kohlensäure, wodurch winzige Bläschen und ein erfrischender Sprühnebel entstehen.
+
+05 | 4,8–6,0s — FLÜSSIGKEITSBEWEGUNG
+Die dunkle Coca-Cola-Flüssigkeit bildet eine elegante, fließende Welle um die Flasche und erzeugt einen dynamischen, skulpturalen Spritzer. Eiswürfel und Tropfen bewegen sich natürlich durch das Bild.
+
+06 | 6,0–7,2s — FLASCHENSEQUENZ
+Mehrere Coca-Cola-Flaschen erscheinen in unterschiedlichen Tiefenebenen, schwebend und rotierend in der roten Umgebung. Wasserspuren und Eispartikel begleiten die Bewegung und erzeugen einen erstklassigen, energiegeladenen Werbelook.
+
+07 | 7,2–8,6s — HERO-FORMATION
+Drei Coca-Cola-Flaschen laufen sanft zu einer markanten Produktkomposition zusammen. Eine Flasche steht prominent im Vordergrund, während die anderen dahinter positioniert sind. Intensive Kondensation, realistische Reflexionen und Wassertropfen betonen die eiskalte Frische.
+
+08 | 8,6–10s — FINALE HERO-AUFNAHME (HERO SHOT)
+Kinoreife, saubere Aufnahme des Hauptprodukts: von Eis bedeckte Coca-Cola-Flaschen, umgeben von schwebenden Wassertropfen und einem feinen Spritzer Coca-Cola-Flüssigkeit. Kräftiger, lebendiger roter Hintergrund, glänzende Studio-Highlights, dramatisches Kantenlicht (Rim Light). Die Kamera führt eine sanfte Heranfahrt (Push-in) durch.
+
+PRODUKTSTANDARD: Exakte Proportionen der Coca-Cola-Konturflasche, rotes Etikettendesign, weißer Coca-Cola-Schriftzug/Logo, Typografie, silber-weißer Metallverschluss und die allgemeine Verpackungsidentität beibehalten. Kein Re-Design, kein verzerrtes Logo, keine Rechtschreibfehler, keine doppelten Etiketten, keine deformierten Flaschen.
+
+VISUELLER STIL: Fotorealistisch, Ultra-Premium-Getränkewerbung, 8K-Details, High-Speed-Makrofotografie, realistische Flüssigkeitsphysik, gestochen scharfe Kondensation, funkelndes Eis, kinoreife Tiefenschärfe, dramatische Studiobeleuchtung, realistische Reflexionen, satte rote Farbstimmung, sanfte Kamerabewegung.
+
+NEGATIVER PROMPT: Verschwommenes Logo, verzerrte Flasche, deformierte Typografie, falsches Branding, zusätzliche Logos, deformierte Produkte, unrealistische Flüssigkeitsphysik, verschmelzende Doppelgänger-Flaschen, niedrige Auflösung, Cartoon-Look, plastikartiges Aussehen der Flüssigkeit, Wasserzeichen, Textartefakte.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

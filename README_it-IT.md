@@ -5746,20 +5746,52 @@ Traduzione in corso
 
 <a name="prompt-2100721468363719074"></a>
 
-### Traduzione in corso
+### Spot verticale di 10 s per Coca-Cola che descrive scene di ghiaccio, apertura del tappo, schizzi e composizione hero finale.
 
 Autore：[@FuturoemTeste](https://x.com/FuturoemTeste) · [Post originale](https://x.com/FuturoemTeste/status/2100721468363719074)
 
 Marketing di Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Spot verticale di 10 s per Coca-Cola che descrive scene di ghiaccio, apertura del tappo, schizzi e composizione hero finale.
 
 <img src="covers/2100721468363719074.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea uno spot premium di 10 secondi per Coca-Cola in formato verticale (9:16), con qualità fotorealistica 8K, cinematografia ad alta velocità ultra-dettagliata per bevande, illuminazione cinematografica rossa drammatica e un'atmosfera rinfrescante di ghiaccio e schizzi.
+
+CONCETTO: GHIACCIO → SCHIZZO → RIVELAZIONE DELLA BOTTIGLIA → IMPATTO DEL LIQUIDO → COMPOSIZIONE HERO CON PIÙ BOTTIGLIE
+
+01 | 0–1,2s — IMPATTO DEL GHIACCIO
+Primissimo piano di cubetti di ghiaccio cristallini che esplodono in un ambiente rosso brillante caratteristico di Coca-Cola. Goccioline d'acqua ghiacciata e minuscole particelle di ghiaccio volano verso la telecamera in un drammatico slow motion. Un forte controluce crea riflessi scintillanti.
+
+02 | 1,2–2,4s — RIVELAZIONE DELLA BOTTIGLIA
+Una bottiglia di vetro di Coca-Cola ghiacciata emerge attraverso l'acqua e il ghiaccio, ruotando naturalmente a mezz'aria. L'iconica forma della bottiglia Contour, l'etichetta rossa, il logo bianco, il tappo metallico argentato e la condensa realistica rimangono perfettamente nitidi e precisi.
+
+03 | 2,4–3,6s — SCHIZZO RINFRESCANTE
+Una potente onda di Coca-Cola si infrange attorno alla bottiglia. Goccioline in primo piano circondano il prodotto mentre la telecamera avanza rapidamente attraverso lo schizzo.
+
+04 | 3,6–4,8s — APERTURA ED EFFERVESCENZA
+Primissimo piano del collo della bottiglia di vetro e del tappo metallico. Il tappo si apre con un rilascio realistico di gas, creando piccole bollicine e una nebbia rinfrescante.
+
+05 | 4,8–6,0s — MOVIMENTO DEL LIQUIDO
+Il liquido scuro della Coca-Cola forma un'onda elegante e fluida attorno alla bottiglia, creando uno schizzo dinamico e scultoreo. Cubetti di ghiaccio e goccioline si muovono con naturalezza all'interno dell'inquadratura.
+
+06 | 6,0–7,2s — SEQUENZA DI BOTTIGLIE
+Più bottiglie di Coca-Cola appaiono a diverse profondità, fluttuando e ruotando nell'ambiente rosso. Scie d'acqua e particelle di ghiaccio accompagnano il movimento, creando un look pubblicitario premium ed energico.
+
+07 | 7,2–8,6s — FORMAZIONE HERO
+Tre bottiglie di Coca-Cola convergono dolcemente in una composizione di prodotto d'impatto. Una bottiglia rimane prominente in primo piano, mentre le altre sono posizionate dietro. Condensa intensa, riflessi realistici e goccioline d'acqua enfatizzano la freschezza glaciale.
+
+08 | 8,6–10s — HERO SHOT FINALE
+Inquadratura cinematografica e pulita del prodotto protagonista: bottiglie di Coca-Cola coperte di ghiaccio, circondate da gocce d'acqua sospese e un leggero schizzo di liquido Coca-Cola. Sfondo rosso intenso e vibrante, riflessi di studio brillanti, drammatica illuminazione di contorno (rim light). La telecamera esegue un fluido movimento di avvicinamento (push-in).
+
+STANDARD DEL PRODOTTO: Preservare le proporzioni esatte della bottiglia Contour di Coca-Cola, il design dell'etichetta rossa, il logo/scritta bianca di Coca-Cola, la tipografia, il tappo metallico bianco-argentato e l'identità visiva generale della confezione. Nessun redesign, nessun logo distorto, nessun errore di ortografia, nessuna etichetta duplicata, nessuna bottiglia deformata.
+
+STILE VISIVO: Fotorealistico, spot pubblicitario per bevande ultra-premium, dettagli in 8K, macrofotografia ad alta velocità, fisica dei fluidi realistica, condensa nitida, ghiaccio scintillante, profondità di campo cinematografica, illuminazione di studio drammatica, riflessi realistici, atmosfera in ricche tonalità di rosso, movimento di telecamera fluido.
+
+PROMPT NEGATIVO: Logo sfocato, bottiglia distorta, tipografia deformata, branding errato, loghi extra, prodotti deformati, fisica dei liquidi irrealistica, bottiglie duplicate fuse insieme, bassa risoluzione, aspetto da cartone animato, liquido dall'aspetto plastico, filigrana, artefatti di testo.
 ```
 
 [↑ Torna alle categorie](#catalog)
