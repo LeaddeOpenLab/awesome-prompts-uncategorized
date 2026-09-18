@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2100812308952096963"></a>
 
-### Traduzione in corso
+### Foto lifestyle all'aperto di una donna dell'Asia orientale seduta sul portapacchi di un SUV arancione vicino a un lago di montagna.
 
 Autore：[@afrinxai](https://x.com/afrinxai) · [Post originale](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Fotografia · Personaggio · Paesaggio / Natura · Pubblicato
 
 Post originale：[@afrinxai](https://x.com/afrinxai) · [Post originale](https://x.com/afrinxai/status/2100586320393339321)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Foto lifestyle all'aperto di una donna dell'Asia orientale seduta sul portapacchi di un SUV arancione vicino a un lago di montagna.
 
 <img src="images/2100812308952096963-1.jpg" alt="Immagine 1" width="480" />
 
@@ -58,7 +58,7 @@ Post originale：[@afrinxai](https://x.com/afrinxai) · [Post originale](https:/
 **Prompt**
 
 ```text
-Traduzione in corso
+Una fotografia lifestyle a figura intera di una giovane donna dell'Asia orientale seduta in modo rilassato sul portapacchi di un SUV fuoristrada arancione brillante. È leggermente reclinata all'indietro con la testa inclinata verso il cielo, gli occhi dolcemente chiusi in un'espressione serena e spensierata.\n\nAbbigliamento e stile: Indossa un top a costine nero corto e aderente abbinato a pantaloni cargo parachute neri a vita alta e morbidi, stretti alle caviglie. Ai piedi indossa classiche sneaker alte in tela bianche e nere. Indossa un cappellino da baseball nero al contrario su lunghi capelli scuri e lisci, e un discreto orologio da polso metallico al polso.\n\nAmbiente e atmosfera: Suggestiva ambientazione d'avventura all'aperto con uno sfondo sfocato caratterizzato da un lago calmo e cime montuose innevate sotto un cielo limpido e dai toni freddi. Luce diurna morbida e naturale, color grading cinematografico, scattata con obiettivo 85mm a f/2.8, profondità di campo ridotta, soggetto a fuoco nitido, risoluzione 8k\nUsa la foto caricata come riferimento per l'identità facciale di una donna adulta. Mantieni i suoi lineamenti riconoscibili, la tonalità naturale della pelle, le proporzioni del viso e l'aspetto generale. Rendi il rapporto d'aspetto 3:4
 ```
 
 [↑ Torna alle categorie](#catalog)

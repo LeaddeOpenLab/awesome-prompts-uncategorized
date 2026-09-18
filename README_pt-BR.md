@@ -35,7 +35,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2100812308952096963"></a>
 
-### Tradução em andamento
+### Foto de estilo de vida ao ar livre de uma mulher do Leste Asiático sentada no bagageiro de um SUV laranja perto de um lago de montanha.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Fotografia · Personagem · Paisagem / Natureza · Publicado
 
 Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2100586320393339321)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Foto de estilo de vida ao ar livre de uma mulher do Leste Asiático sentada no bagageiro de um SUV laranja perto de um lago de montanha.
 
 <img src="images/2100812308952096963-1.jpg" alt="Imagem 1" width="480" />
 
@@ -58,7 +58,7 @@ Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação ori
 **Prompt**
 
 ```text
-Tradução em andamento
+Uma fotografia de estilo de vida de corpo inteiro de uma jovem mulher do Leste Asiático sentada de forma relaxada no bagageiro de teto de um SUV off-road laranja brilhante. Ela está ligeiramente inclinada para trás com a cabeça virada para cima em direção ao céu, olhos suavemente fechados em uma expressão serena e despreocupada.\n\nTraje e estilo: Ela veste um cropped regata canelado preto justo combinado com calças cargo parachute pretas soltas e de cintura alta franzidas nos tornozelos. Nos pés, usa tênis clássicos de cano alto em lona preto e branco. Ela usa um boné de beisebol preto virado para trás sobre cabelos escuros, longos e lisos, e um discreto relógio de pulso metálico no pulso.\n\nAmbiente e clima: Cenário pitoresco de aventura ao ar livre com fundo em foco suave apresentando um lago calmo e picos de montanhas cobertos de neve sob um céu limpo de tons frios. Luz natural suave do dia, gradação de cor cinematográfica, foto tirada com lente de 85mm em f/2.8, profundidade de campo rasa, foco nítido no sujeito, resolução 8k\nUse a foto enviada como referência de identidade facial para uma mulher adulta. Preserve seus traços faciais reconhecíveis, tom de pele natural, proporções faciais e aparência geral. Defina a proporção da tela como 3:4
 ```
 
 [↑ Voltar às categorias](#catalog)

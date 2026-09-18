@@ -35,7 +35,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2100812308952096963"></a>
 
-### Traducción en curso
+### Foto de estilo de vida al aire libre de una mujer de Asia oriental sentada en la baca de un SUV naranja junto a un lago de montaña.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Publicación original](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Fotografía · Personaje · Paisaje / Naturaleza · Publicado
 
 Publicación original：[@afrinxai](https://x.com/afrinxai) · [Publicación original](https://x.com/afrinxai/status/2100586320393339321)
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto de estilo de vida al aire libre de una mujer de Asia oriental sentada en la baca de un SUV naranja junto a un lago de montaña.
 
 <img src="images/2100812308952096963-1.jpg" alt="Imagen 1" width="480" />
 
@@ -58,7 +58,12 @@ Publicación original：[@afrinxai](https://x.com/afrinxai) · [Publicación ori
 **Prompt**
 
 ```text
-Traducción en curso
+Una fotografía de estilo de vida de cuerpo entero de una joven mujer de Asia oriental sentada de manera relajada en la baca de un todoterreno SUV de color naranja brillante. Está ligeramente inclinada hacia atrás con la cabeza alzada hacia el cielo, con los ojos suavemente cerrados y una expresión serena y despreocupada.
+
+Atuendo y estilismo: Viste una camiseta de tirantes corta acanalada negra y ajustada, combinada con unos pantalones cargo de paracaídas negros, holgados y de cintura alta, fruncidos en los tobillos. En los pies lleva unas clásicas zapatillas de lona altas en blanco y negro. Lleva una gorra de béisbol negra puesta hacia atrás sobre su largo y liso cabello oscuro, y un sutil reloj de pulsera metálico.
+
+Entorno y ambiente: Entorno de aventura al aire libre con un fondo suavemente desenfocado que muestra un lago tranquilo y picos montañosos cubiertos de nieve bajo un cielo despejado de tonos fríos. Luz diurna natural y suave, etalonaje cinematográfico, tomada con un objetivo de 85 mm a f/2.8, profundidad de campo reducida, sujeto con un enfoque nítido, resolución 8k.
+Usa la foto subida como referencia de identidad facial para una mujer adulta. Conserva sus rasgos faciales reconocibles, el tono natural de la piel, las proporciones faciales y la apariencia general. Haz que la relación de aspecto sea 3:4.
 ```
 
 [↑ Volver a categorías](#catalog)

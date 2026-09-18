@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2100812308952096963"></a>
 
-### Çeviri sürüyor
+### Bir dağ gölü kenarında turuncu bir SUV'nin tavanında oturan Doğu Asyalı bir kadının açık hava yaşam tarzı fotoğrafı.
 
 Yazar：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
 Orijinal gönderi：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2100586320393339321)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir dağ gölü kenarında turuncu bir SUV'nin tavanında oturan Doğu Asyalı bir kadının açık hava yaşam tarzı fotoğrafı.
 
 <img src="images/2100812308952096963-1.jpg" alt="Görsel 1" width="480" />
 
@@ -58,7 +58,7 @@ Orijinal gönderi：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](h
 **İstem**
 
 ```text
-Çeviri sürüyor
+Parlak turuncu bir arazi SUV'sinin tavan bagajında rahat bir şekilde oturan genç bir Doğu Asyalı kadının boydan yaşam tarzı fotoğrafı. Gökyüzüne doğru başını hafifçe yukarı kaldırmış, dingin ve tasasız bir ifadeyle gözleri nazikçe kapalı şekilde arkaya doğru hafifçe yaslanmış.\n\nKıyafet ve Tarz: Ayak bileklerinde toplanan, bol, yüksek belli siyah paraşüt kargo pantolon ile kombinlenmiş, vücuda oturan siyah fitilli crop atlet giyiyor. Ayaklarında klasik siyah-beyaz yüksek bilekli kanvas spor ayakkabılar var. Uzun, düz koyu saçlarının üzerine geriye doğru takılmış siyah bir beyzbol şapkası ve bileğinde zarif metalik bir kol saati takıyor.\n\nOrtam ve Ruh Hali: Berrak, soğuk tonlu bir gökyüzünün altında sakin bir göl ve karla kaplı dağ zirvelerinin yer aldığı yumuşak odaklı arka plana sahip manzaralı açık hava macera ortamı. Doğal yumuşak gün ışığı, sinematik renk derecelendirmesi, f/2.8'de 85 mm lens ile çekilmiş, sığ alan derinliği, keskin odaklanmış özne, 8k çözünürlük\nYetişkin bir kadın için yüz kimliği referansı olarak yüklenen fotoğrafı kullanın. Onun tanınabilir yüz hatlarını, doğal cilt tonunu, yüz oranlarını ve genel görünümünü koruyun. En boy oranını 3:4 yapın
 ```
 
 [↑ Kategorilere dön](#catalog)

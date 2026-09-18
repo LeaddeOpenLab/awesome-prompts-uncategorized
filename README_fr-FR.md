@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2100812308952096963"></a>
 
-### Traduction en cours
+### Photo de style de vie en plein air d'une femme est-asiatique assise sur la galerie d'un SUV orange près d'un lac de montagne.
 
 Auteur：[@afrinxai](https://x.com/afrinxai) · [Publication originale](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Photographie · Personnage · Paysage / Nature · Publié
 
 Publication originale：[@afrinxai](https://x.com/afrinxai) · [Publication originale](https://x.com/afrinxai/status/2100586320393339321)
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo de style de vie en plein air d'une femme est-asiatique assise sur la galerie d'un SUV orange près d'un lac de montagne.
 
 <img src="images/2100812308952096963-1.jpg" alt="Image 1" width="480" />
 
@@ -58,7 +58,7 @@ Publication originale：[@afrinxai](https://x.com/afrinxai) · [Publication orig
 **Consigne**
 
 ```text
-Traduction en cours
+Une photographie de style de vie en pied d'une jeune femme est-asiatique assise de manière détendue sur la galerie de toit d'un SUV tout-terrain orange vif. Elle est légèrement penchée en arrière, la tête inclinée vers le ciel, les yeux doucement fermés dans une expression sereine et insouciante.\n\nTenue et style : Elle porte un débardeur court côtelé noir ajusté associé à un pantalon cargo parachute noir ample et taille haute resserré aux chevilles. À ses pieds, elle porte des baskets montantes classiques en toile noire et blanche. Elle porte une casquette de baseball noire à l'envers sur de longs cheveux noirs et lisses, ainsi qu'une montre métallique subtile au poignet.\n\nEnvironnement et ambiance : Décor d'aventure en plein air pittoresque avec un arrière-plan flou présentant un lac calme et des sommets montagneux enneigés sous un ciel clair aux tons froids. Lumière du jour douce et naturelle, étalonnage cinématographique, prise avec un objectif 85 mm à f/2.8, faible profondeur de champ, mise au point nette sur le sujet, résolution 8k\nUtilisez la photo téléversée comme référence d'identité faciale pour une femme adulte. Conservez ses traits du visage reconnaissables, son teint naturel, les proportions de son visage et son apparence générale. Définir le format d'image à 3:4
 ```
 
 [↑ Retour aux catégories](#catalog)

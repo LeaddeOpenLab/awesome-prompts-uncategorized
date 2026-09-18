@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2100812308952096963"></a>
 
-### Đang dịch
+### Ảnh phong cách sống ngoài trời của một phụ nữ Đông Á ngồi trên giá nóc xe SUV màu cam bên hồ trên núi.
 
 Tác giả：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bả
 
 Bài gốc：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2100586320393339321)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh phong cách sống ngoài trời của một phụ nữ Đông Á ngồi trên giá nóc xe SUV màu cam bên hồ trên núi.
 
 <img src="images/2100812308952096963-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -58,7 +58,12 @@ Bài gốc：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/a
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức ảnh phong cách sống toàn thân của một người phụ nữ trẻ Đông Á đang ngồi thư giãn trên giá nóc của một chiếc xe SUV địa hình màu cam sáng. Cô hơi ngả người ra sau, ngửa đầu lên trời, khẽ nhắm mắt với biểu cảm thanh thản, vô tư lự.
+
+Trang phục & Tạo mẫu: Cô mặc một chiếc áo ba lỗ croptop dệt kim gân màu đen ôm sát kết hợp với quần túi hộp dù cạp cao màu đen dáng rộng bo gấu ở mắt cá chân. Dưới chân là đôi giày thể thao vải cổ cao màu đen trắng cổ điển. Cô đội một chiếc mũ lưỡi trai bóng chày màu đen đội ngược trên mái tóc đen dài thẳng, và một chiếc đồng hồ đeo tay kim loại tinh tế trên cổ tay.
+
+Không gian & Tâm trạng: Bối cảnh phiêu lưu ngoài trời tuyệt đẹp với phông nền làm mờ nhẹ nhàng có hồ nước êm đềm và những đỉnh núi phủ tuyết trắng dưới bầu trời trong vắt, tông màu mát mẻ. Ánh sáng ban ngày tự nhiên dịu nhẹ, chỉnh màu chuẩn điện ảnh, chụp bằng ống kính 85mm ở f/2.8, độ sâu trường ảnh nông, chủ thể sắc nét, độ phân giải 8k
+Sử dụng bức ảnh đã tải lên làm tham chiếu nhận dạng khuôn mặt cho một phụ nữ trưởng thành. Giữ nguyên các đường nét khuôn mặt dễ nhận biết, tông màu da tự nhiên, tỷ lệ khuôn mặt và diện mạo tổng thể của người đó. Đặt tỷ lệ khung hình thành 3:4
 ```
 
 [↑ Về danh mục](#catalog)

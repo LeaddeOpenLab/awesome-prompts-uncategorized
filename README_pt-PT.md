@@ -35,7 +35,7 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2100812308952096963"></a>
 
-### Tradução em curso
+### Foto de estilo de vida ao ar livre de uma mulher do Leste Asiático sentada nas barras de tejadilho de um SUV cor-de-laranja junto a um lago de montanha.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Fotografia · Personagem · Paisagem / Natureza · Publicado
 
 Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação original](https://x.com/afrinxai/status/2100586320393339321)
 
-**Resumo:** Tradução em curso
+**Resumo:** Foto de estilo de vida ao ar livre de uma mulher do Leste Asiático sentada nas barras de tejadilho de um SUV cor-de-laranja junto a um lago de montanha.
 
 <img src="images/2100812308952096963-1.jpg" alt="Imagem 1" width="480" />
 
@@ -58,7 +58,7 @@ Publicação original：[@afrinxai](https://x.com/afrinxai) · [Publicação ori
 **Prompt**
 
 ```text
-Tradução em curso
+Uma fotografia de estilo de vida de corpo inteiro de uma jovem mulher do Leste Asiático sentada de forma descontraída nas barras de tejadilho de um SUV todo-o-terreno cor-de-laranja brilhante. Está ligeiramente recostada para trás com a cabeça inclinada para o céu, com os olhos suavemente fechados numa expressão serena e despreocupada.\n\nVestuário e estilo: Veste um top cropped de alças canelado preto justo, combinado com calças cargo parachute pretas largas de cintura subida e apanhadas nos tornozelos. Nos pés tem ténis clássicos de cano alto em lona pretos e brancos. Usa um boné de basebol preto ao contrário sobre cabelos compridos, lisos e escuros, e um discreto relógio de pulso metálico no pulso.\n\nAmbiente e atmosfera: Cenário cénico de aventura ao ar livre com um fundo desfocado que apresenta um lago calmo e picos montanhosos cobertos de neve sob um céu limpo de tons frios. Luz diurna suave e natural, gradação de cor cinematográfica, captada com uma lente de 85 mm a f/2.8, profundidade de campo reduzida, foco nítido no sujeito, resolução 8k\nUse a fotografia carregada como referência de identidade facial para uma mulher adulta. Preserve os seus traços faciais reconhecíveis, tom de pele natural, proporções faciais e aparência geral. Defina a proporção da imagem para 3:4
 ```
 
 [↑ Voltar às categorias](#catalog)

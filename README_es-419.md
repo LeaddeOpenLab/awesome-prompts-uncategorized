@@ -35,7 +35,7 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2100812308952096963"></a>
 
-### Traducción en curso
+### Foto de estilo de vida al aire libre de una mujer de Asia oriental sentada en el portaequipajes de un SUV naranja junto a un lago de montaña.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Publicación original](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Fotografía · Personaje · Paisaje / Naturaleza · Publicado
 
 Publicación original：[@afrinxai](https://x.com/afrinxai) · [Publicación original](https://x.com/afrinxai/status/2100586320393339321)
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto de estilo de vida al aire libre de una mujer de Asia oriental sentada en el portaequipajes de un SUV naranja junto a un lago de montaña.
 
 <img src="images/2100812308952096963-1.jpg" alt="Imagen 1" width="480" />
 
@@ -58,7 +58,7 @@ Publicación original：[@afrinxai](https://x.com/afrinxai) · [Publicación ori
 **Prompt**
 
 ```text
-Traducción en curso
+Una fotografía de estilo de vida de cuerpo entero de una joven mujer de Asia oriental sentada de forma relajada en el portaequipajes del techo de un todoterreno SUV de color naranja brillante. Está ligeramente recostada hacia atrás con la cabeza inclinada hacia el cielo, con los ojos suavemente cerrados en una expresión serena y despreocupada.\n\nAtuendo y estilo: Viste una camiseta sin mangas corta y ajustada de canalé negro combinada con pantalones cargo holgados de paracaídas negros de tiro alto recogidos en los tobillos. En sus pies lleva zapatillas clásicas de lona de caña alta en blanco y negro. Lleva una gorra de béisbol negra puesta hacia atrás sobre su cabello largo, liso y oscuro, y un sutil reloj de pulsera metálico en su muñeca.\n\nEntorno y atmósfera: Entorno escénico de aventura al aire libre con un fondo desenfocado que presenta un lago tranquilo y picos montañosos cubiertos de nieve bajo un cielo despejado de tonos fríos. Luz diurna suave y natural, gradación de color cinematográfica, tomada con un lente de 85 mm a f/2.8, profundidad de campo reducida, enfoque nítido en el sujeto, resolución de 8k\nUsa la foto subida como referencia de identidad facial para una mujer adulta. Preserva sus rasgos faciales reconocibles, tono de piel natural, proporciones faciales y apariencia general. Haz que la relación de aspecto sea 3:4
 ```
 
 [↑ Volver a categorías](#catalog)

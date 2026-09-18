@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2100812308952096963"></a>
 
-### Übersetzung läuft
+### Outdoor-Lifestyle-Foto einer ostasiatischen Frau, die auf dem Dachträger eines orangefarbenen Geländewagens an einem Bergsee sitzt.
 
 Autor：[@afrinxai](https://x.com/afrinxai) · [Originalbeitrag](https://x.com/afrinxai/status/2100812308952096963)
 
@@ -43,7 +43,7 @@ Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
 
 Originalbeitrag：[@afrinxai](https://x.com/afrinxai) · [Originalbeitrag](https://x.com/afrinxai/status/2100586320393339321)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Outdoor-Lifestyle-Foto einer ostasiatischen Frau, die auf dem Dachträger eines orangefarbenen Geländewagens an einem Bergsee sitzt.
 
 <img src="images/2100812308952096963-1.jpg" alt="Bild 1" width="480" />
 
@@ -58,7 +58,7 @@ Originalbeitrag：[@afrinxai](https://x.com/afrinxai) · [Originalbeitrag](https
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein Ganzkörper-Lifestyle-Foto einer jungen ostasiatischen Frau, die entspannt auf dem Dachträger eines leuchtend orangefarbenen Offroad-Geländewagens sitzt. Sie lehnt sich leicht nach hinten, den Kopf nach oben zum Himmel geneigt, die Augen sanft geschlossen in einem gelassenen, unbeschwerten Ausdruck.\n\nOutfit & Styling: Sie trägt ein eng anliegendes, geripptes, bauchfreies Tanktop in Schwarz, kombiniert mit einer lockeren, hoch taillierten schwarzen Fallschirm-Cargohose, die an den Knöcheln gerafft ist. An ihren Füßen trägt sie klassische schwarz-weiße High-Top-Leinwandsneaker. Sie trägt eine schwarze Baseballkappe verkehrt herum über langem, glattem, dunklem Haar und eine dezente metallische Armbanduhr am Handgelenk.\n\nUmgebung & Stimmung: Malerische Outdoor-Abenteuerkulisse mit einem weichgezeichneten Hintergrund, der einen ruhigen See und schneebedeckte Berggipfel unter einem klaren, kühltönigen Himmel zeigt. Natürliches, sanftes Tageslicht, filmisches Color Grading, aufgenommen mit einem 85-mm-Objektiv bei f/2.8, geringe Schärfentiefe, scharfer Fokus auf das Motiv, 8k-Auflösung\nVerwende das hochgeladene Foto als Referenz für die Gesichtsidentität einer erwachsenen Frau. Behalte seine erkennbaren Gesichtszüge, den natürlichen Hautton, die Gesichtsproportionen und das allgemeine Erscheinungsbild bei. Das Seitenverhältnis soll 3:4 sein
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
