@@ -229,13 +229,13 @@ Tradução em andamento
 
 <a name="prompt-2100769495879209137"></a>
 
-### Tradução em andamento
+### Fotografia de retrato estética e etérea de um rosto oriental com vestido de gaze de decote profundo, semioculta atrás de uma cortina.
 
 Autor：[@zhang\_baoqing](https://x.com/zhang_baoqing) · [Publicação original](https://x.com/zhang_baoqing/status/2100769495879209137)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Fotografia de retrato estética e etérea de um rosto oriental com vestido de gaze de decote profundo, semioculta atrás de uma cortina.
 
 <img src="images/2100769495879209137-1.jpg" alt="Imagem 1" width="480" />
 
@@ -248,7 +248,7 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Decote profundo com ombros à mostra; roupa de gaze escorregando; busto delicado parcialmente exposto, semioculto atrás da cortina; perfil envolto em ternura e afeto; sombras de flores difusas; querendo falar mas se contendo; beleza deslumbrante que quebra padrões
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -229,13 +229,13 @@ Traduction en cours
 
 <a name="prompt-2100769495879209137"></a>
 
-### Traduction en cours
+### Photographie de portrait esthétique et vaporeuse d'un visage oriental en robe de gaze décolletée, à demi dissimulée derrière un rideau.
 
 Auteur：[@zhang\_baoqing](https://x.com/zhang_baoqing) · [Publication originale](https://x.com/zhang_baoqing/status/2100769495879209137)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photographie de portrait esthétique et vaporeuse d'un visage oriental en robe de gaze décolletée, à demi dissimulée derrière un rideau.
 
 <img src="images/2100769495879209137-1.jpg" alt="Image 1" width="480" />
 
@@ -248,7 +248,7 @@ Photographie · Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Décolleté plongeant dévoilant les épaules ; vêtement de gaze glissant ; délicate poitrine à demi révélée, à demi cachée derrière le rideau ; profil empreint de tendresse ; ombres de fleurs vaporeuses ; voulant parler mais retenant ses mots ; beauté époustouflante et hors du commun
 ```
 
 [↑ Retour aux catégories](#catalog)

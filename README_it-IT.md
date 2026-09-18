@@ -229,13 +229,13 @@ Traduzione in corso
 
 <a name="prompt-2100769495879209137"></a>
 
-### Traduzione in corso
+### Fotografia di ritratto eterea ed estetica di un volto orientale in abito di garza scollato, seminascosto dietro una tenda.
 
 Autore：[@zhang\_baoqing](https://x.com/zhang_baoqing) · [Post originale](https://x.com/zhang_baoqing/status/2100769495879209137)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Fotografia di ritratto eterea ed estetica di un volto orientale in abito di garza scollato, seminascosto dietro una tenda.
 
 <img src="images/2100769495879209137-1.jpg" alt="Immagine 1" width="480" />
 
@@ -248,7 +248,7 @@ Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Scollatura profonda e spalle scoperte; abito di garza che scivola; seno delicato seminudo, parzialmente velato dietro una tenda; profilo colmo di dolcezza e passione; ombre floreali sfumate; nell'atto di parlare ma esitante; bellezza sbalorditiva che rompe gli schemi
 ```
 
 [↑ Torna alle categorie](#catalog)

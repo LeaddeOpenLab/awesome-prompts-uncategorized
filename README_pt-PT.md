@@ -229,13 +229,13 @@ Tradução em curso
 
 <a name="prompt-2100769495879209137"></a>
 
-### Tradução em curso
+### Fotografia de retrato estética e etérea de um rosto oriental em vestido de gaze de decote pronunciado, semioculto atrás de uma cortina.
 
 Autor：[@zhang\_baoqing](https://x.com/zhang_baoqing) · [Publicação original](https://x.com/zhang_baoqing/status/2100769495879209137)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Fotografia de retrato estética e etérea de um rosto oriental em vestido de gaze de decote pronunciado, semioculto atrás de uma cortina.
 
 <img src="images/2100769495879209137-1.jpg" alt="Imagem 1" width="480" />
 
@@ -248,7 +248,7 @@ Fotografia · Retrato / Selfie · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Decote pronunciado com ombros nus; veste de gaze a deslizar; busto delicado parcialmente revelado, semioculto atrás da cortina; pose de perfil repleta de sentimento; sombras de flores difusas; querendo falar mas contendo-se; beleza deslumbrante que quebra convenções
 ```
 
 [↑ Voltar às categorias](#catalog)

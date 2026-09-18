@@ -229,13 +229,13 @@ Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](h
 
 <a name="prompt-2100769495879209137"></a>
 
-### Đang dịch
+### Nhiếp ảnh chân dung gương mặt phương Đông đẹp mơ màng, nửa che sau rèm trong tà áo mỏng cổ sâu.
 
 Tác giả：[@zhang\_baoqing](https://x.com/zhang_baoqing) · [Bài gốc](https://x.com/zhang_baoqing/status/2100769495879209137)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Nhiếp ảnh chân dung gương mặt phương Đông đẹp mơ màng, nửa che sau rèm trong tà áo mỏng cổ sâu.
 
 <img src="images/2100769495879209137-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -248,7 +248,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cổ áo khoét sâu để lộ vai trần; áo lụa mỏng manh trượt xuống; nửa phần ngực nõn nà e ấp, nửa ẩn nửa hiện sau rèm; dáng người nghiêng tràn đầy tình ý; bóng hoa mờ ảo; muốn nói lại thôi; vẻ đẹp kinh diễm phá cách
 ```
 
 [↑ Về danh mục](#catalog)

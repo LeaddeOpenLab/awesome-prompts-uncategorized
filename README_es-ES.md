@@ -229,13 +229,13 @@ Traducción en curso
 
 <a name="prompt-2100769495879209137"></a>
 
-### Traducción en curso
+### Fotografía de retrato estética y brumosa de un rostro oriental con vestido de gasa de escote bajo entreabierto tras una cortina.
 
 Autor：[@zhang\_baoqing](https://x.com/zhang_baoqing) · [Publicación original](https://x.com/zhang_baoqing/status/2100769495879209137)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotografía de retrato estética y brumosa de un rostro oriental con vestido de gasa de escote bajo entreabierto tras una cortina.
 
 <img src="images/2100769495879209137-1.jpg" alt="Imagen 1" width="480" />
 
@@ -248,7 +248,7 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Escote bajo con hombros descubiertos; vestimenta de gasa deslizándose; busto delicado parcialmente insinuado, semioculto tras la cortina; perfil lleno de ternura y afecto; sombras de flores difusas; queriendo hablar pero conteniéndose; belleza deslumbrante que rompe moldes
 ```
 
 [↑ Volver a categorías](#catalog)

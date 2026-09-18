@@ -229,13 +229,13 @@ Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Original
 
 <a name="prompt-2100769495879209137"></a>
 
-### Übersetzung läuft
+### Verschwommene, ästhetische Porträtfotografie eines asiatischen Gesichts in tief ausgeschnittenem Gazekleid, halb verdeckt hinter einem Vorhang.
 
 Autor：[@zhang\_baoqing](https://x.com/zhang_baoqing) · [Originalbeitrag](https://x.com/zhang_baoqing/status/2100769495879209137)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Verschwommene, ästhetische Porträtfotografie eines asiatischen Gesichts in tief ausgeschnittenem Gazekleid, halb verdeckt hinter einem Vorhang.
 
 <img src="images/2100769495879209137-1.jpg" alt="Bild 1" width="480" />
 
@@ -248,7 +248,7 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Tiefer Ausschnitt und schulterfrei; herabgleitendes Gazekleid; zarter Busen halb enthüllt, halb verborgen hinter dem Vorhang; hingebungsvolle Seitenansicht; verschwommene Blumenschatten; zögernd wie im Begriff zu sprechen; atemberaubende, regellose Schönheit
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

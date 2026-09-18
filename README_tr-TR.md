@@ -229,13 +229,13 @@ Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijin
 
 <a name="prompt-2100769495879209137"></a>
 
-### Çeviri sürüyor
+### Tül kumaşlı derin yakalı giysisiyle perdenin ardına yarı gizlenmiş, Doğulu yüze sahip puslu ve estetik portre fotoğrafçılığı.
 
 Yazar：[@zhang\_baoqing](https://x.com/zhang_baoqing) · [Orijinal gönderi](https://x.com/zhang_baoqing/status/2100769495879209137)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tül kumaşlı derin yakalı giysisiyle perdenin ardına yarı gizlenmiş, Doğulu yüze sahip puslu ve estetik portre fotoğrafçılığı.
 
 <img src="images/2100769495879209137-1.jpg" alt="Görsel 1" width="480" />
 
@@ -248,7 +248,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Düşük yaka ve açık omuzlar; kayıp düşen tül giysi; narin göğsü yarı açık, perdenin arkasında yarı gizlenmiş; duygu dolu yan profil duruşu; puslu çiçek gölgeleri; konuşmak ister gibi ama suskun; kalıpları yıkan nefes kesici güzellik
 ```
 
 [↑ Kategorilere dön](#catalog)
