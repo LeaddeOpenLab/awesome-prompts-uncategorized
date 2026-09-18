@@ -3176,20 +3176,32 @@ Tradução em curso
 
 <a name="prompt-2100821608911048833"></a>
 
-### Tradução em curso
+### Prompt de anúncio cinematográfico vertical de produto para DJI Osmo Pocket 3 apresentando cenas detalhadas plano a plano com gimbal e na rua.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicação original](https://x.com/Urwa_345/status/2100821608911048833)
 
 Marketing de Produto · Cena de Cinema / Fotograma · Produto · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de anúncio cinematográfico vertical de produto para DJI Osmo Pocket 3 apresentando cenas detalhadas plano a plano com gimbal e na rua.
 
 <img src="covers/2100821608911048833.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um anúncio cinematográfico premium de 8 segundos para a autêntica DJI Osmo Pocket 3, formato vertical 9:16.
+
+0–2 seg: Aproximação lenta da câmara em direção à DJI Osmo Pocket 3 pousada numa secretária moderna, com o ecrã tátil a brilhar suavemente.
+
+2–4 seg: Movimento de câmara macro em redor da objetiva e do mecanismo do gimbal, destacando o design compacto e premium.
+
+4–7 seg: Transição suave para um criador a segurar a câmara enquanto filma uma bela rua da cidade durante a hora dourada, movimento realista de câmara na mão.
+
+7–9 seg: Transição para a câmara montada num pequeno tripé com vista para uma paisagem montanhosa ao pôr do sol.
+
+9–10 seg: Plano heroico final da DJI Osmo Pocket 3, órbita cinematográfica lenta com o ecrã e a objetiva da câmara claramente visíveis.
+
+Anúncio fotorrealista de câmara profissional, movimento realista de gimbal, transições suaves, profundidade de campo cinematográfica, publicidade de tecnologia premium, design de produto autêntico, iluminação natural, altamente detalhado, sem sobreposições de texto, sem marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

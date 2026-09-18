@@ -3162,20 +3162,32 @@ Kinematisch / Filmstill · Veröffentlicht
 
 <a name="prompt-2100821608911048833"></a>
 
-### Übersetzung läuft
+### Filmischer Prompt für einen vertikalen Produktwerbespot für die DJI Osmo Pocket 3 mit detaillierten Einstellung-für-Einstellung-Gimbal- und Straßenszenen.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Originalbeitrag](https://x.com/Urwa_345/status/2100821608911048833)
 
 Produktmarketing · Kinematisch / Filmstill · Produkt · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmischer Prompt für einen vertikalen Produktwerbespot für die DJI Osmo Pocket 3 mit detaillierten Einstellung-für-Einstellung-Gimbal- und Straßenszenen.
 
 <img src="covers/2100821608911048833.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen filmischen 8-sekündigen Premium-Werbespot für die authentische DJI Osmo Pocket 3 im vertikalen 9:16-Format.
+
+0–2 Sek.: Langsame Kamerafahrt auf die DJI Osmo Pocket 3 zu, die auf einem modernen Schreibtisch steht, während der Touchscreen sanft leuchtet.
+
+2–4 Sek.: Makro-Kamerabewegung um das Objektiv und den Gimbal-Mechanismus, die das kompakte Premium-Design zur Schau stellt.
+
+4–7 Sek.: Sanfter Übergang zu einem Creator, der die Kamera hält, während er während der goldenen Stunde eine wunderschöne Straße in der Stadt filmt, realistische Handkamerabewegung.
+
+7–9 Sek.: Übergang zur Kamera, die auf einem kleinen Stativ montiert ist und bei Sonnenuntergang eine Berglandschaft überblickt.
+
+9–10 Sek.: Finaler Hero-Shot der DJI Osmo Pocket 3, langsame filmische Kreisbewegung, bei der Bildschirm und Kameraobjektiv deutlich sichtbar sind.
+
+Fotorealistischer professioneller Kamera-Werbespot, realistische Gimbal-Bewegung, sanfte Übergänge, filmische Schärfentiefe, Premium-Technologiewerbung, authentisches Produktdesign, natürliches Licht, hochdetailliert, keine Texteinblendungen, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

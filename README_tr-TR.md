@@ -3176,20 +3176,32 @@ Sinematik / Film Karesi · Yayımlandı
 
 <a name="prompt-2100821608911048833"></a>
 
-### Çeviri sürüyor
+### Ayrıntılı çekim çekim gimbal ve sokak sahneleri içeren DJI Osmo Pocket 3 için sinematik dikey ürün reklamı istemi.
 
 Yazar：[@Urwa\_345](https://x.com/Urwa_345) · [Orijinal gönderi](https://x.com/Urwa_345/status/2100821608911048833)
 
 Ürün Pazarlaması · Sinematik / Film Karesi · Ürün · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Ayrıntılı çekim çekim gimbal ve sokak sahneleri içeren DJI Osmo Pocket 3 için sinematik dikey ürün reklamı istemi.
 
 <img src="covers/2100821608911048833.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Orijinal DJI Osmo Pocket 3 için dikey 9:16 formatında, 8 saniyelik sinematik ve birinci sınıf bir reklam filmi oluşturun.
+
+0–2 sn: Dokunmatik ekranı yumuşak bir şekilde parıldayan, modern bir masanın üzerinde duran DJI Osmo Pocket 3'e doğru kameranın yavaşça yaklaşması.
+
+2–4 sn: Kompakt ve birinci sınıf tasarımı sergileyen, lens ve gimbal mekanizması etrafında makro kamera hareketi.
+
+4–7 sn: Altın saatte güzel bir şehir sokağını çeken, kamerayı tutan bir içerik üreticisine akıcı geçiş, gerçekçi elde çekim hareketi.
+
+7–9 sn: Gün batımında dağ manzarasına bakan küçük bir tripoda monte edilmiş kameraya geçiş.
+
+9–10 sn: Ekran ve kamera lensi net bir şekilde görülebilen, yavaş sinematik yörünge dönüşüyle DJI Osmo Pocket 3'ün son kahraman çekimi.
+
+Fotogerçekçi profesyonel kamera reklamı, gerçekçi gimbal hareketi, akıcı geçişler, sinematik alan derinliği, birinci sınıf teknoloji reklamcılığı, özgün ürün tasarımı, doğal aydınlatma, son derece detaylı, metin katmanı yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

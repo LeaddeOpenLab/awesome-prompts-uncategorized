@@ -3203,20 +3203,32 @@ Tác giả：[@mys1111](https://x.com/mys1111) · [Bài gốc](https://x.com/mys
 
 <a name="prompt-2100821608911048833"></a>
 
-### Đang dịch
+### Lời nhắc quảng cáo thương mại dạng dọc chuẩn điện ảnh cho DJI Osmo Pocket 3 với các cảnh quay gimbal và đường phố chi tiết từng khung hình.
 
 Tác giả：[@Urwa\_345](https://x.com/Urwa_345) · [Bài gốc](https://x.com/Urwa_345/status/2100821608911048833)
 
 Tiếp thị sản phẩm · Điện ảnh / Ảnh tĩnh từ phim · Sản phẩm · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc quảng cáo thương mại dạng dọc chuẩn điện ảnh cho DJI Osmo Pocket 3 với các cảnh quay gimbal và đường phố chi tiết từng khung hình.
 
 <img src="covers/2100821608911048833.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một quảng cáo cao cấp đậm chất điện ảnh dài 8 giây cho sản phẩm DJI Osmo Pocket 3 chính hãng, định dạng dọc 9:16.
+
+0–2 giây: Máy quay từ từ tiến lại gần (push-in) chiếc DJI Osmo Pocket 3 đang đứng trên bàn làm việc hiện đại, màn hình cảm ứng phát sáng dịu nhẹ.
+
+2–4 giây: Chuyển động máy quay cận cảnh (macro) quanh ống kính và cơ chế gimbal, tôn lên thiết kế nhỏ gọn cao cấp.
+
+4–7 giây: Chuyển cảnh mượt mà sang hình ảnh một nhà sáng tạo nội dung cầm máy quay một con phố tuyệt đẹp trong khung giờ vàng, chuyển động cầm tay chân thực.
+
+7–9 giây: Chuyển cảnh sang máy quay được gắn trên một chân máy nhỏ nhìn ra khung cảnh núi non lúc hoàng hôn.
+
+9–10 giây: Cảnh quay tiêu điểm (hero shot) cuối cùng của DJI Osmo Pocket 3, chuyển động xoay quanh chậm rãi đầy chất điện ảnh, nhìn rõ màn hình và ống kính máy ảnh.
+
+Quảng cáo máy quay chuyên nghiệp chân thực như ảnh chụp, chuyển động gimbal chân thực, chuyển cảnh mượt mà, độ sâu trường ảnh chuẩn điện ảnh, quảng cáo công nghệ cao cấp, thiết kế sản phẩm chuẩn xác, ánh sáng tự nhiên, độ chi tiết cao, không chèn chữ, không có watermark.
 ```
 
 [↑ Về danh mục](#catalog)

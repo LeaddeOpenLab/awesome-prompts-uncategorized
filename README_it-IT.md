@@ -3162,20 +3162,32 @@ Traduzione in corso
 
 <a name="prompt-2100821608911048833"></a>
 
-### Traduzione in corso
+### Prompt per spot pubblicitario verticale e cinematografico di prodotto per DJI Osmo Pocket 3 con scene dettagliate inquadratura per inquadratura su gimbal e per strada.
 
 Autore：[@Urwa\_345](https://x.com/Urwa_345) · [Post originale](https://x.com/Urwa_345/status/2100821608911048833)
 
 Marketing di Prodotto · Fermo immagine cinematografico / Still fotografico · Prodotto · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per spot pubblicitario verticale e cinematografico di prodotto per DJI Osmo Pocket 3 con scene dettagliate inquadratura per inquadratura su gimbal e per strada.
 
 <img src="covers/2100821608911048833.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea uno spot cinematografico premium di 8 secondi per l'autentica DJI Osmo Pocket 3, in formato verticale 9:16.
+
+0–2 sec: Lento avvicinamento della telecamera verso la DJI Osmo Pocket 3 posata su una scrivania moderna, con il touchscreen che si illumina delicatamente.
+
+2–4 sec: Movimento di camera macro attorno all'obiettivo e al meccanismo del gimbal, mettendo in mostra il design compatto e premium.
+
+4–7 sec: Transizione fluida verso un creator che tiene la telecamera mentre riprende una splendida strada cittadina durante l'ora d'oro, movimento realistico a mano libera.
+
+7–9 sec: Transizione alla telecamera montata su un piccolo treppiede che si affaccia su un paesaggio montano al tramonto.
+
+9–10 sec: Hero shot finale della DJI Osmo Pocket 3, lenta orbita cinematografica con schermo e obiettivo della telecamera chiaramente visibili.
+
+Spot pubblicitario fotorealistico per fotocamera professionale, movimento realistico del gimbal, transizioni fluide, profondità di campo cinematografica, pubblicità tecnologica premium, design autentico del prodotto, illuminazione naturale, altamente dettagliato, nessuna sovrapposizione di testo, nessun watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

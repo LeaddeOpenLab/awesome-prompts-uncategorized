@@ -3162,20 +3162,32 @@ Traduction en cours
 
 <a name="prompt-2100821608911048833"></a>
 
-### Traduction en cours
+### Prompt de publicité produit cinématographique verticale pour DJI Osmo Pocket 3 présentant des scènes de rue et de nacelle détaillées plan par plan.
 
 Auteur：[@Urwa\_345](https://x.com/Urwa_345) · [Publication originale](https://x.com/Urwa_345/status/2100821608911048833)
 
 Marketing produit · Image cinématographique / Photogramme de film · Produit · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de publicité produit cinématographique verticale pour DJI Osmo Pocket 3 présentant des scènes de rue et de nacelle détaillées plan par plan.
 
 <img src="covers/2100821608911048833.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une publicité cinématographique haut de gamme de 8 secondes pour l'authentique DJI Osmo Pocket 3, au format vertical 9:16.
+
+0–2 s : Rapprochement lent de la caméra vers le DJI Osmo Pocket 3 posé sur un bureau moderne, l'écran tactile brillant doucement.
+
+2–4 s : Mouvement de caméra macro autour de l'objectif et du mécanisme de la nacelle, mettant en valeur le design compact haut de gamme.
+
+4–7 s : Transition fluide vers un créateur tenant la caméra tout en filmant une magnifique rue de la ville pendant l'heure dorée, mouvement réaliste caméra au poing.
+
+7–9 s : Transition vers la caméra montée sur un petit trépied avec vue plongeante sur un paysage de montagne au coucher du soleil.
+
+9–10 s : Plan héroïque final du DJI Osmo Pocket 3, orbite cinématographique lente avec l'écran et l'objectif de la caméra clairement visibles.
+
+Publicité fotoréaliste pour caméra professionnelle, mouvement de nacelle réaliste, transitions fluides, profondeur de champ cinématographique, publicité technologique haut de gamme, design de produit authentique, éclairage naturel, hautement détaillé, pas d'incrustation de texte, pas de filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -3162,20 +3162,32 @@ Traducción en curso
 
 <a name="prompt-2100821608911048833"></a>
 
-### Traducción en curso
+### Prompt para comercial cinematográfico vertical de producto para DJI Osmo Pocket 3 con escenas detalladas toma a toma de cardán y callejeras.
 
 Autor：[@Urwa\_345](https://x.com/Urwa_345) · [Publicación original](https://x.com/Urwa_345/status/2100821608911048833)
 
 Marketing de producto · Cine / Fotograma · Producto · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para comercial cinematográfico vertical de producto para DJI Osmo Pocket 3 con escenas detalladas toma a toma de cardán y callejeras.
 
 <img src="covers/2100821608911048833.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio cinematográfico prémium de 8 segundos para el DJI Osmo Pocket 3 auténtico, formato vertical 9:16.
+
+0–2 s: Acercamiento lento de la cámara hacia el DJI Osmo Pocket 3 colocado sobre un escritorio moderno, con la pantalla táctil brillando suavemente.
+
+2–4 s: Movimiento macro de cámara alrededor del lente y del mecanismo del cardán, destacando el diseño compacto prémium.
+
+4–7 s: Transición fluida hacia un creador sosteniendo la cámara mientras graba una hermosa calle de la ciudad durante la hora dorada, movimiento realista a mano alzada.
+
+7–9 s: Transición a la cámara montada en un pequeño trípode con vista a un paisaje montañoso al atardecer.
+
+9–10 s: Toma heroica final del DJI Osmo Pocket 3, órbita cinematográfica lenta con la pantalla y el lente de la cámara claramente visibles.
+
+Comercial de cámara profesional fotorrealista, movimiento realista de cardán, transiciones fluidas, profundidad de campo cinematográfica, publicidad de tecnología prémium, diseño de producto auténtico, iluminación natural, altamente detallado, sin superposiciones de texto, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)
