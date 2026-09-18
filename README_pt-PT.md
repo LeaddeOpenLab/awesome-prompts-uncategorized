@@ -3074,7 +3074,7 @@ Tradução em curso
 
 <a name="prompt-2100802747654181375"></a>
 
-### Tradução em curso
+### Cena subaquática cinematográfica a mostrar uma baleia maciça e um peixe robótico a caçar juntos perto de recifes de coral sob luz solar volumétrica.
 
 Autor：[@ICare\_MHB](https://x.com/ICare_MHB) · [Publicação original](https://x.com/ICare_MHB/status/2100802747654181375)
 
@@ -3082,14 +3082,14 @@ Cena de Cinema / Fotograma · Publicado
 
 Publicação original：[@ICare\_MHB](https://x.com/ICare_MHB) · [Publicação original](https://x.com/ICare_MHB/status/2100631156844818697)
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena subaquática cinematográfica a mostrar uma baleia maciça e um peixe robótico a caçar juntos perto de recifes de coral sob luz solar volumétrica.
 
 <img src="covers/2100802747654181375.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Cena subaquática cinematográfica ultrarrealista, uma enorme baleia-azul e um peixe robótico futurista a nadar juntos nas profundezas do oceano, a caçar presas ativamente. A baleia move-se vigorosamente através da água azul-escura enquanto o peixe robótico analisa as redondezas com sensores azuis brilhantes e muda rapidamente de direção. Pequenos cardumes de peixes dispersam-se em pânico enquanto são perseguidos por entre rochas submarinas e corais. Raios de sol dramáticos penetram a partir da superfície, bolhas e partículas flutuam na água, plano de seguimento de câmara dinâmico, atmosfera de caça intensa, física oceânica realista, texturas altamente detalhadas, 4K cinematográfico, iluminação volumétrica, movimento suave, 10 segundos, vertical 9:16, sem texto, sem marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

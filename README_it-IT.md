@@ -3060,7 +3060,7 @@ Traduzione in corso
 
 <a name="prompt-2100802747654181375"></a>
 
-### Traduzione in corso
+### Scena subacquea cinematografica che mostra un'enorme balena e un pesce robotico che cacciano insieme vicino a barriere coralline sotto la luce solare volumetrica.
 
 Autore：[@ICare\_MHB](https://x.com/ICare_MHB) · [Post originale](https://x.com/ICare_MHB/status/2100802747654181375)
 
@@ -3068,14 +3068,14 @@ Fermo immagine cinematografico / Still fotografico · Pubblicato
 
 Post originale：[@ICare\_MHB](https://x.com/ICare_MHB) · [Post originale](https://x.com/ICare_MHB/status/2100631156844818697)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena subacquea cinematografica che mostra un'enorme balena e un pesce robotico che cacciano insieme vicino a barriere coralline sotto la luce solare volumetrica.
 
 <img src="covers/2100802747654181375.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Scena subacquea cinematografica ultra-realistica, un'enorme balenottera azzurra e un futuristico pesce robotico che nuotano insieme nelle profondità dell'oceano, a caccia attiva di prede. La balena si muove con potenza attraverso l'acqua blu scuro mentre il pesce robotico scansiona i dintorni con sensori blu luminosi e cambia rapidamente direzione. Piccoli banchi di pesci si disperdono nel panico mentre vengono inseguiti attraverso rocce sottomarine e coralli. Raggi di sole drammatici penetrano dalla superficie, bolle e particelle fluttuano nell'acqua, ripresa dinamica di tracciamento della telecamera, intensa atmosfera di caccia, fisica oceanica realistica, texture altamente dettagliate, 4K cinematografico, illuminazione volumetrica, movimento fluido, 10 secondi, verticale 9:16, nessun testo, nessuna filigrana.
 ```
 
 [↑ Torna alle categorie](#catalog)

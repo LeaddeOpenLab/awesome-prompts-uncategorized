@@ -3060,7 +3060,7 @@ Traduction en cours
 
 <a name="prompt-2100802747654181375"></a>
 
-### Traduction en cours
+### Scène sous-marine cinématographique montrant une baleine massive et un poisson robotique chassant ensemble près de récifs coralliens sous une lumière solaire volumétrique.
 
 Auteur：[@ICare\_MHB](https://x.com/ICare_MHB) · [Publication originale](https://x.com/ICare_MHB/status/2100802747654181375)
 
@@ -3068,14 +3068,14 @@ Image cinématographique / Photogramme de film · Publié
 
 Publication originale：[@ICare\_MHB](https://x.com/ICare_MHB) · [Publication originale](https://x.com/ICare_MHB/status/2100631156844818697)
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène sous-marine cinématographique montrant une baleine massive et un poisson robotique chassant ensemble près de récifs coralliens sous une lumière solaire volumétrique.
 
 <img src="covers/2100802747654181375.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Scène sous-marine cinématographique ultra-réaliste, une immense baleine bleue et un poisson robotique futuriste nageant ensemble dans les profondeurs de l'océan, chassant activement des proies. La baleine se déplace puissamment à travers l'eau bleu foncé tandis que le poisson robotique scanne les environs avec des capteurs bleus luminescents et change rapidement de direction. De petits bancs de poissons s'éparpillent en panique alors qu'ils sont pourchassés à travers rochers sous-marins et coraux. De spectaculaires rayons de soleil pénètrent depuis la surface, des bulles et des particules flottent dans l'eau, plan de suivi dynamique à la caméra, atmosphère de chasse intense, physique océanique réaliste, textures très détaillées, 4K cinématographique, éclairage volumétrique, mouvement fluide, 10 secondes, vertical 9:16, sans texte, sans filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

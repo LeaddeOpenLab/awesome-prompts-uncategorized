@@ -3074,7 +3074,7 @@ Sinematik / Film Karesi · Yayımlandı
 
 <a name="prompt-2100802747654181375"></a>
 
-### Çeviri sürüyor
+### Hacimsel güneş ışığı altında, mercan resiflerinin yakınında birlikte avlanan devasa bir balina ve robotik bir balığı gösteren sinematik su altı sahnesi.
 
 Yazar：[@ICare\_MHB](https://x.com/ICare_MHB) · [Orijinal gönderi](https://x.com/ICare_MHB/status/2100802747654181375)
 
@@ -3082,14 +3082,14 @@ Sinematik / Film Karesi · Yayımlandı
 
 Orijinal gönderi：[@ICare\_MHB](https://x.com/ICare_MHB) · [Orijinal gönderi](https://x.com/ICare_MHB/status/2100631156844818697)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Hacimsel güneş ışığı altında, mercan resiflerinin yakınında birlikte avlanan devasa bir balina ve robotik bir balığı gösteren sinematik su altı sahnesi.
 
 <img src="covers/2100802747654181375.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ultra gerçekçi sinematik su altı sahnesi, devasa bir mavi balina ve fütüristik bir robotik balık okyanusun derinliklerinde birlikte yüzüyor, aktif olarak avlanıyor. Balina koyu mavi suda güçlü bir şekilde ilerlerken robotik balık parlayan mavi sensörleriyle çevreyi tarar ve hızla yön değiştirir. Sualtı kayalıkları ve mercanlar arasında kovalanırken küçük balık sürüleri panik içinde dağılır. Yüzeyden içeri süzülen dramatik güneş ışınları, suda yüzen kabarcıklar ve parçacıklar, dinamik kamera takip çekimi, yoğun avlanma atmosferi, gerçekçi okyanus fiziği, son derece detaylı dokular, sinematik 4K, hacimsel aydınlatma, akıcı hareket, 10 saniye, dikey 9:16, metin yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

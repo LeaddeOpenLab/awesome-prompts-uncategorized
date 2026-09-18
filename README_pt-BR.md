@@ -3074,7 +3074,7 @@ Tradução em andamento
 
 <a name="prompt-2100802747654181375"></a>
 
-### Tradução em andamento
+### Cena subaquática cinematográfica mostrando uma baleia gigante e um peixe robótico caçando juntos perto de recifes de corais sob a luz solar volumétrica.
 
 Autor：[@ICare\_MHB](https://x.com/ICare_MHB) · [Publicação original](https://x.com/ICare_MHB/status/2100802747654181375)
 
@@ -3082,14 +3082,14 @@ Cinematográfico / Imagem de Filme · Publicado
 
 Publicação original：[@ICare\_MHB](https://x.com/ICare_MHB) · [Publicação original](https://x.com/ICare_MHB/status/2100631156844818697)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Cena subaquática cinematográfica mostrando uma baleia gigante e um peixe robótico caçando juntos perto de recifes de corais sob a luz solar volumétrica.
 
 <img src="covers/2100802747654181375.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Cena subaquática cinematográfica ultrarrealista, uma enorme baleia-azul e um peixe robótico futurista nadando juntos nas profundezas do oceano, caçando presas ativamente. A baleia se move com força através da água azul-escura enquanto o peixe robótico escaneia os arredores com sensores azuis brilhantes e muda rapidamente de direção. Pequenos cardumes de peixes se dispersam em pânico enquanto são perseguidos através de rochas submarinas e corais. Raios dramáticos de sol penetram a partir da superfície, bolhas e partículas flutuam na água, plano de rastreamento dinâmico de câmera, atmosfera intensa de caça, física oceânica realista, texturas altamente detalhadas, 4K cinematográfico, iluminação volumétrica, movimento suave, 10 segundos, vertical 9:16, sem texto, sem marca d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

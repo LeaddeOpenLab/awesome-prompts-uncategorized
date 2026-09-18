@@ -3096,7 +3096,7 @@ Tác giả：[@Inshrah\_ali\_](https://x.com/Inshrah_ali_) · [Bài gốc](https
 
 <a name="prompt-2100802747654181375"></a>
 
-### Đang dịch
+### Cảnh quay dưới nước đậm chất điện ảnh mô tả một con cá voi khổng lồ và một chú cá robot cùng nhau săn mồi gần các rạn san hô dưới ánh nắng thể tích.
 
 Tác giả：[@ICare\_MHB](https://x.com/ICare_MHB) · [Bài gốc](https://x.com/ICare_MHB/status/2100802747654181375)
 
@@ -3104,14 +3104,14 @@ Tác giả：[@ICare\_MHB](https://x.com/ICare_MHB) · [Bài gốc](https://x.co
 
 Bài gốc：[@ICare\_MHB](https://x.com/ICare_MHB) · [Bài gốc](https://x.com/ICare_MHB/status/2100631156844818697)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh quay dưới nước đậm chất điện ảnh mô tả một con cá voi khổng lồ và một chú cá robot cùng nhau săn mồi gần các rạn san hô dưới ánh nắng thể tích.
 
 <img src="covers/2100802747654181375.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh quay dưới nước đậm chất điện ảnh siêu thực, một con cá voi xanh khổng lồ và một chú cá robot tương lai đang bơi cùng nhau dưới đáy đại dương sâu thẳm, tích cực săn mồi. Cá voi di chuyển mạnh mẽ qua làn nước xanh thẳm trong khi cá robot quét xung quanh bằng các cảm biến phát sáng màu xanh lam và nhanh chóng đổi hướng. Các đàn cá nhỏ hoảng loạn tản ra khi chúng đuổi theo qua những tảng đá ngầm và san hô. Những tia nắng mặt trời đầy kịch tính xuyên qua mặt nước, bong bóng và các hạt nhỏ trôi lơ lửng trong nước, cú máy theo dõi chuyển động sống động, bầu không khí săn mồi căng thẳng, vật lý đại dương chân thực, kết cấu chi tiết cao, điện ảnh 4K, ánh sáng thể tích, chuyển động mượt mà, 10 giây, khung hình dọc 9:16, không có văn bản, không có watermark.
 ```
 
 [↑ Về danh mục](#catalog)

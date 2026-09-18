@@ -3060,7 +3060,7 @@ Kinematisch / Filmstill · Veröffentlicht
 
 <a name="prompt-2100802747654181375"></a>
 
-### Übersetzung läuft
+### Filmische Unterwasserszene, die einen riesigen Wal und einen Roboterfisch zeigt, die gemeinsam in der Nähe von Korallenriffen unter volumetrischem Sonnenlicht jagen.
 
 Autor：[@ICare\_MHB](https://x.com/ICare_MHB) · [Originalbeitrag](https://x.com/ICare_MHB/status/2100802747654181375)
 
@@ -3068,14 +3068,14 @@ Kinematisch / Filmstill · Veröffentlicht
 
 Originalbeitrag：[@ICare\_MHB](https://x.com/ICare_MHB) · [Originalbeitrag](https://x.com/ICare_MHB/status/2100631156844818697)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Filmische Unterwasserszene, die einen riesigen Wal und einen Roboterfisch zeigt, die gemeinsam in der Nähe von Korallenriffen unter volumetrischem Sonnenlicht jagen.
 
 <img src="covers/2100802747654181375.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultra-realistische, filmische Unterwasserszene: Ein riesiger Blauwal und ein futuristischer Roboterfisch schwimmen tief im Ozean zusammen und jagen aktiv nach Beute. Der Wal bewegt sich kraftvoll durch das dunkelblaue Wasser, während der Roboterfisch die Umgebung mit leuchtend blauen Sensoren scannt und rasch die Richtung ändert. Kleine Fischschwärme stieben in Panik auseinander, während sie durch Unterwasserfelsen und Korallen gejagt werden. Dramatische Sonnenstrahlen dringen von der Oberfläche ein, Blasen und Partikel schweben im Wasser, dynamische Kamera-Verfolgungsfahrt, intensive Jagdatmosphäre, realistische Meeresphysik, hochdetaillierte Texturen, filmisches 4K, volumetrisches Licht, flüssige Bewegung, 10 Sekunden, vertikal 9:16, kein Text, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

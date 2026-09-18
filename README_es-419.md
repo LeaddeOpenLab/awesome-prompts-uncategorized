@@ -3060,7 +3060,7 @@ Traducción en curso
 
 <a name="prompt-2100802747654181375"></a>
 
-### Traducción en curso
+### Escena submarina cinematográfica que muestra a una ballena gigante y un pez robótico cazando juntos cerca de arrecifes de coral bajo luz solar volumétrica.
 
 Autor：[@ICare\_MHB](https://x.com/ICare_MHB) · [Publicación original](https://x.com/ICare_MHB/status/2100802747654181375)
 
@@ -3068,14 +3068,14 @@ Cine / Fotograma · Publicado
 
 Publicación original：[@ICare\_MHB](https://x.com/ICare_MHB) · [Publicación original](https://x.com/ICare_MHB/status/2100631156844818697)
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena submarina cinematográfica que muestra a una ballena gigante y un pez robótico cazando juntos cerca de arrecifes de coral bajo luz solar volumétrica.
 
 <img src="covers/2100802747654181375.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Escena submarina cinematográfica ultrarrealista, una enorme ballena azul y un pez robótico futurista nadando juntos en las profundidades del océano, cazando presas activamente. La ballena se mueve con fuerza a través del agua azul oscuro mientras el pez robótico escanea los alrededores con sensores azules brillantes y cambia de dirección rápidamente. Pequeños cardúmenes de peces se dispersan presas del pánico mientras son perseguidos a través de rocas submarinas y corales. Espectaculares rayos de sol penetran desde la superficie, burbujas y partículas flotan en el agua, toma dinámica de seguimiento de cámara, atmósfera de caza intensa, física oceánica realista, texturas sumamente detalladas, 4K cinematográfico, iluminación volumétrica, movimiento suave, 10 segundos, vertical 9:16, sin texto, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)
