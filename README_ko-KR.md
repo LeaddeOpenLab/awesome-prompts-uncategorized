@@ -140,13 +140,13 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 <a name="prompt-2100840912700244431"></a>
 
-### 번역 중
+### 3x3 격자의 스마트폰 일상 캔디드 사진 갤러리를 생성하기 위한 프롬프트 템플릿입니다.
 
 작성자：[@OiCLhoXau40xUBx](https://x.com/OiCLhoXau40xUBx) · [원본 게시물](https://x.com/OiCLhoXau40xUBx/status/2100840912700244431)
 
 사진술 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 3x3 격자의 스마트폰 일상 캔디드 사진 갤러리를 생성하기 위한 프롬프트 템플릿입니다.
 
 <img src="images/2100840912700244431-1.jpg" alt="이미지 1" width="480" />
 
@@ -159,7 +159,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 **프롬프트**
 
 ```text
-번역 중
+[캐릭터 외형 프롬프트], photorealistic real-person interpretation, smartphone photo gallery screen showing a 3x3 grid of 9 candid photos of the same person, casual personal camera roll, each photo taken in a different everyday situation, outfit, pose, expression, and camera angle, mix of selfies, mirror selfies, and photos taken by someone else, imperfect handheld smartphone photography, ★noticeable natural motion blur, slightly missed focus(+natural motion blur from hand movement, imperfect autofocus, accidental snapshot)★, shaky +camera, accidental framing, uneven exposure, low-light grain, realistic phone camera noise, spontaneous unposed moments, authentic private photo album, consistent identity across all 9 photos, not professional photography, not studio shots.
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

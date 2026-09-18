@@ -135,13 +135,13 @@ Photographie réaliste de vie nocturne, format vertical 9:16, salon privé de KT
 
 <a name="prompt-2100840912700244431"></a>
 
-### Traduction en cours
+### Modèle de prompt pour générer une galerie photo de smartphone sur le vif du quotidien sous forme de grille 3x3.
 
 Auteur：[@OiCLhoXau40xUBx](https://x.com/OiCLhoXau40xUBx) · [Publication originale](https://x.com/OiCLhoXau40xUBx/status/2100840912700244431)
 
 Photographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt pour générer une galerie photo de smartphone sur le vif du quotidien sous forme de grille 3x3.
 
 <img src="images/2100840912700244431-1.jpg" alt="Image 1" width="480" />
 
@@ -154,7 +154,7 @@ Photographie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+[prompt d'apparence du personnage], interprétation photoréaliste d'une personne réelle, écran de galerie photo de smartphone montrant une grille 3x3 de 9 photos sur le vif de la même personne, pellicule photo personnelle et décontractée, chaque photo prise dans une situation quotidienne, une tenue, une pose, une expression et un angle de prise de vue différents, mélange de selfies, selfies dans le miroir et photos prises par quelqu'un d'autre, photographie imparfaite prise au smartphone à main levée, ★flou de mouvement naturel perceptible, mise au point légèrement manquée(+flou de mouvement naturel dû au mouvement de la main, mise au point automatique imparfaite, instantané accidentel)★, +caméra tremblante, cadrage accidentel, exposition inégale, grain en basse lumière, bruit réaliste d'appareil photo de téléphone, moments spontanés non posés, album photo privé authentique, identité cohérente sur l'ensemble des 9 photos, pas de photographie professionnelle, pas de photos de studio.
 ```
 
 [↑ Retour aux catégories](#catalog)

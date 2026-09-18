@@ -135,13 +135,13 @@ Fotografía realista de vida nocturna, formato vertical 9:16, sala privada de KT
 
 <a name="prompt-2100840912700244431"></a>
 
-### Traducción en curso
+### Plantilla de prompt para generar una galería de fotos espontáneas cotidianas de smartphone en cuadrícula de 3x3.
 
 Autor：[@OiCLhoXau40xUBx](https://x.com/OiCLhoXau40xUBx) · [Publicación original](https://x.com/OiCLhoXau40xUBx/status/2100840912700244431)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para generar una galería de fotos espontáneas cotidianas de smartphone en cuadrícula de 3x3.
 
 <img src="images/2100840912700244431-1.jpg" alt="Imagen 1" width="480" />
 
@@ -154,7 +154,7 @@ Fotografía · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+[prompt de apariencia del personaje], interpretación fotorrealista de persona real, pantalla de galería de fotos de smartphone que muestra una cuadrícula de 3x3 con 9 fotos espontáneas de la misma persona, rollo de cámara personal y casual, cada foto tomada en una situación cotidiana, atuendo, pose, expresión y ángulo de cámara diferentes, mezcla de selfies, selfies frente al espejo y fotos tomadas por otra persona, fotografía imperfecta con smartphone sostenido a mano, ★desenfoque de movimiento natural perceptible, enfoque ligeramente errado(+desenfoque de movimiento natural por el movimiento de la mano, enfoque automático imperfecto, foto instantánea accidental)★, +cámara temblorosa, encuadre accidental, exposición desigual, grano de poca luz, ruido realista de cámara de teléfono, momentos espontáneos sin posar, álbum de fotos privado y auténtico, identidad consistente en las 9 fotos, no fotografía profesional, no tomas de estudio.
 ```
 
 [↑ Volver a categorías](#catalog)

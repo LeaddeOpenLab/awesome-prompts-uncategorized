@@ -135,13 +135,13 @@ Fotografia realistica di vita notturna, formato verticale 9:16, sala privata di 
 
 <a name="prompt-2100840912700244431"></a>
 
-### Traduzione in corso
+### Modello di prompt per generare una galleria fotografica di smartphone con scatti spontanei quotidiani in una griglia 3x3.
 
 Autore：[@OiCLhoXau40xUBx](https://x.com/OiCLhoXau40xUBx) · [Post originale](https://x.com/OiCLhoXau40xUBx/status/2100840912700244431)
 
 Fotografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt per generare una galleria fotografica di smartphone con scatti spontanei quotidiani in una griglia 3x3.
 
 <img src="images/2100840912700244431-1.jpg" alt="Immagine 1" width="480" />
 
@@ -154,7 +154,7 @@ Fotografia · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+[prompt aspetto del personaggio], interpretazione fotorealistica di una persona reale, schermata della galleria fotografica dello smartphone che mostra una griglia 3x3 di 9 foto spontanee della stessa persona, rullino fotografico personale informale, ogni foto scattata in una situazione quotidiana, abbigliamento, posa, espressione e angolazione della fotocamera diverse, mix di selfie, selfie allo specchio e foto scattate da qualcun altro, fotografia imperfetta scattata a mano con smartphone, ★evidente sfocatura da movimento naturale, messa a fuoco leggermente mancata(+sfocatura da movimento naturale dovuta al movimento della mano, messa a fuoco automatica imperfetta, scatto accidentale)★, +fotocamera mossa, inquadratura casuale, esposizione non uniforme, grana da scarsa illuminazione, rumore realistico della fotocamera del telefono, momenti spontanei non in posa, autentico album fotografico privato, identità coerente in tutte e 9 le foto, non fotografia professionale, non scatti da studio.
 ```
 
 [↑ Torna alle categorie](#catalog)

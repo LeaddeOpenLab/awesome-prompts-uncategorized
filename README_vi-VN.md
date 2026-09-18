@@ -140,13 +140,13 @@ Nhiếp ảnh đời sống ban đêm chân thực, khổ dọc 9:16, phòng ri�
 
 <a name="prompt-2100840912700244431"></a>
 
-### Đang dịch
+### Mẫu prompt để tạo thư viện ảnh chụp lén đời thường trên điện thoại thông minh dạng lưới 3x3.
 
 Tác giả：[@OiCLhoXau40xUBx](https://x.com/OiCLhoXau40xUBx) · [Bài gốc](https://x.com/OiCLhoXau40xUBx/status/2100840912700244431)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu prompt để tạo thư viện ảnh chụp lén đời thường trên điện thoại thông minh dạng lưới 3x3.
 
 <img src="images/2100840912700244431-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -159,7 +159,7 @@ Nhiếp ảnh · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+[prompt ngoại hình nhân vật], diễn giải người thật chụp ảnh chân thực, màn hình thư viện ảnh trên điện thoại thông minh hiển thị lưới 3x3 gồm 9 bức ảnh chụp lén tự nhiên của cùng một người, cuộn camera cá nhân đời thường, mỗi bức ảnh được chụp trong một tình huống thường ngày, trang phục, tư thế, biểu cảm và góc máy khác nhau, kết hợp giữa ảnh tự sướng, tự sướng qua gương và ảnh do người khác chụp, nhiếp ảnh điện thoại cầm tay không hoàn hảo, ★vệt mờ chuyển động tự nhiên dễ nhận thấy, lấy nét hơi lệch(+vệt mờ chuyển động tự nhiên do chuyển động của tay, tự động lấy nét không hoàn hảo, ảnh chụp nhanh tình cờ)★, +camera rung lắc, căn khung ngẫu nhiên, phơi sáng không đều, hạt nhiễu trong điều kiện thiếu sáng, độ nhiễu máy ảnh điện thoại chân thực, những khoảnh khắc tự phát không tạo dáng, album ảnh cá nhân chân thực, nhận dạng nhất quán trên cả 9 bức ảnh, không phải nhiếp ảnh chuyên nghiệp, không phải chụp trong studio.
 ```
 
 [↑ Về danh mục](#catalog)

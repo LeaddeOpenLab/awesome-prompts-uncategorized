@@ -135,13 +135,13 @@ Gerçekçi gece hayatı fotoğrafçılığı, 9:16 dikey format, lüks iş düny
 
 <a name="prompt-2100840912700244431"></a>
 
-### Çeviri sürüyor
+### 3x3 ızgarada akıllı telefon günlük anlık fotoğraf galerisi oluşturmak için bir istem şablonu.
 
 Yazar：[@OiCLhoXau40xUBx](https://x.com/OiCLhoXau40xUBx) · [Orijinal gönderi](https://x.com/OiCLhoXau40xUBx/status/2100840912700244431)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 3x3 ızgarada akıllı telefon günlük anlık fotoğraf galerisi oluşturmak için bir istem şablonu.
 
 <img src="images/2100840912700244431-1.jpg" alt="Görsel 1" width="480" />
 
@@ -154,7 +154,7 @@ Fotoğrafçılık · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+[karakter görünüm istemi], fotogerçekçi gerçek insan yorumu, aynı kişinin 9 doğal anlık fotoğrafından oluşan 3x3 ızgarayı gösteren akıllı telefon fotoğraf galerisi ekranı, gündelik kişisel kamera rulosu, her fotoğraf farklı bir günlük durum, kıyafet, poz, ifade ve kamera açısında çekilmiş, selfie'ler, ayna selfie'leri ve başkası tarafından çekilmiş fotoğrafların karışımı, kusurlu elde taşınan akıllı telefon fotoğrafçılığı, ★fark edilir doğal hareket bulanıklığı, hafifçe kaçırılmış odak(+el hareketinden kaynaklanan doğal hareket bulanıklığı, kusurlu otomatik odaklama, kazara çekilmiş anlık fotoğraf)★, titrek +kamera, kazara kadrajlama, dengesiz pozlama, düşük ışık greni, gerçekçi telefon kamerası paraziti, kendiliğinden poz verilmemiş anlar, özgün özel fotoğraf albümü, 9 fotoğrafın tamamında tutarlı kimlik, profesyonel fotoğrafçılık değil, stüdyo çekimi değil.
 ```
 
 [↑ Kategorilere dön](#catalog)

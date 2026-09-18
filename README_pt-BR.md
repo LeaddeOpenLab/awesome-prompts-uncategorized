@@ -135,13 +135,13 @@ Fotografia realista de vida noturna, formato vertical 9:16, sala privativa de KT
 
 <a name="prompt-2100840912700244431"></a>
 
-### Tradução em andamento
+### Modelo de prompt para gerar uma galeria de fotos espontâneas cotidianas de smartphone em grade 3x3.
 
 Autor：[@OiCLhoXau40xUBx](https://x.com/OiCLhoXau40xUBx) · [Publicação original](https://x.com/OiCLhoXau40xUBx/status/2100840912700244431)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Modelo de prompt para gerar uma galeria de fotos espontâneas cotidianas de smartphone em grade 3x3.
 
 <img src="images/2100840912700244431-1.jpg" alt="Imagem 1" width="480" />
 
@@ -154,7 +154,7 @@ Fotografia · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+[prompt de aparência do personagem], interpretação fotorrealista de pessoa real, tela de galeria de fotos de smartphone mostrando uma grade 3x3 de 9 fotos espontâneas da mesma pessoa, rolo da câmera pessoal casual, cada foto tirada em uma situação cotidiana, roupa, pose, expressão e ângulo de câmera diferentes, mistura de selfies, selfies no espelho e fotos tiradas por outra pessoa, fotografia imperfeita com smartphone na mão, ★desfoque de movimento natural perceptível, foco ligeiramente perdido(+desfoque de movimento natural pelo movimento das mãos, foco automático imperfeito, instantâneo acidental)★, +câmera trêmula, enquadramento acidental, exposição irregular, granulação em baixa luminosidade, ruído realista de câmera de telefone, momentos espontâneos e sem pose, álbum de fotos privado autêntico, identidade consistente em todas as 9 fotos, não é fotografia profissional, não são fotos de estúdio.
 ```
 
 [↑ Voltar às categorias](#catalog)

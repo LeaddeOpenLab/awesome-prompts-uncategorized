@@ -135,13 +135,13 @@ Realistische Nachtleben-Fotografie, 9:16 Hochformat, luxuriöse KTV-Geschäftspr
 
 <a name="prompt-2100840912700244431"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage zum Generieren einer Smartphone-Galerie mit alltäglichen Schnappschüssen im 3x3-Raster.
 
 Autor：[@OiCLhoXau40xUBx](https://x.com/OiCLhoXau40xUBx) · [Originalbeitrag](https://x.com/OiCLhoXau40xUBx/status/2100840912700244431)
 
 Fotografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage zum Generieren einer Smartphone-Galerie mit alltäglichen Schnappschüssen im 3x3-Raster.
 
 <img src="images/2100840912700244431-1.jpg" alt="Bild 1" width="480" />
 
@@ -154,7 +154,7 @@ Fotografie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+[Charakter-Erscheinungsbild-Prompt], fotorealistische Interpretation einer echten Person, Smartphone-Fotogalerie-Bildschirm mit einem 3x3-Raster aus 9 Schnappschüssen derselben Person, ungezwungene persönliche Kamerarolle, jedes Foto in einer anderen alltäglichen Situation, Kleidung, Pose, Mimik und Kameraperspektive aufgenommen, Mischung aus Selfies, Spiegel-Selfies und von jemand anderem aufgenommenen Fotos, unvollkommene Handheld-Smartphone-Fotografie, ★spürbare natürliche Bewegungsunschärfe, leicht verfehlter Fokus(+natürliche Bewegungsunschärfe durch Handbewegung, unvollkommener Autofokus, zufälliger Schnappschuss)★, verwackelte +Kamera, zufälliger Bildausschnitt, ungleichmäßige Belichtung, Low-Light-Korn, realistisches Rauschen der Telefonkamera, spontane, ungestellte Momente, authentisches privates Fotoalbum, konsistente Identität über alle 9 Fotos hinweg, keine professionelle Fotografie, keine Studioaufnahmen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
