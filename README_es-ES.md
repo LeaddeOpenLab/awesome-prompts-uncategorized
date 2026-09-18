@@ -4691,20 +4691,20 @@ Evita personajes reconocibles con derechos de autor, parecidos a celebridades, o
 
 <a name="prompt-2100767176168722867"></a>
 
-### Traducción en curso
+### Primer plano de producto de un ídolo tiki de piedra cubierto de musgo.
 
 Autor：[@nightandwknd](https://x.com/nightandwknd) · [Publicación original](https://x.com/nightandwknd/status/2100767176168722867)
 
 Render 3D · Producto · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Primer plano de producto de un ídolo tiki de piedra cubierto de musgo.
 
 <img src="covers/2100767176168722867.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+un ídolo tiki de piedra cubierto de musgo, fondo gris neutro, objeto completo centrado, foto de producto
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -4642,20 +4642,20 @@ Evita personaggi riconoscibili protetti da copyright, somiglianze con celebrità
 
 <a name="prompt-2100767176168722867"></a>
 
-### Traduzione in corso
+### Primo piano di prodotto di un idolo tiki di pietra ricoperto di muschio.
 
 Autore：[@nightandwknd](https://x.com/nightandwknd) · [Post originale](https://x.com/nightandwknd/status/2100767176168722867)
 
 Rendering 3D · Prodotto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Primo piano di prodotto di un idolo tiki di pietra ricoperto di muschio.
 
 <img src="covers/2100767176168722867.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+un idolo tiki di pietra ricoperto di muschio, sfondo grigio neutro, oggetto intero centrato, scatto di prodotto
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -4691,20 +4691,20 @@ Tránh các nhân vật có bản quyền dễ nhận biết, chân dung ngườ
 
 <a name="prompt-2100767176168722867"></a>
 
-### Đang dịch
+### Ảnh cận cảnh sản phẩm tượng thần tiki bằng đá phủ đầy rêu.
 
 Tác giả：[@nightandwknd](https://x.com/nightandwknd) · [Bài gốc](https://x.com/nightandwknd/status/2100767176168722867)
 
 Kết xuất 3D · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh cận cảnh sản phẩm tượng thần tiki bằng đá phủ đầy rêu.
 
 <img src="covers/2100767176168722867.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+một bức tượng thần tiki bằng đá phủ đầy rêu, phông nền xám trung tính, toàn bộ vật thể ở trung tâm, ảnh chụp sản phẩm
 ```
 
 [↑ Về danh mục](#catalog)

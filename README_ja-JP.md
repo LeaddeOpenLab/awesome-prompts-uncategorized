@@ -4673,20 +4673,20 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 
 <a name="prompt-2100767176168722867"></a>
 
-### 翻訳中
+### 苔むした石造りのティキ像のプロダクト特写。
 
 作者：[@nightandwknd](https://x.com/nightandwknd) · [元の投稿](https://x.com/nightandwknd/status/2100767176168722867)
 
 3D レンダリング · 製品 · 配信済み
 
-**概要:** 翻訳中
+**概要:** 苔むした石造りのティキ像のプロダクト特写。
 
 <img src="covers/2100767176168722867.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+苔むした石造りのティキ像、ニュートラルグレーの背景、オブジェクト全体が中央に配置、プロダクトショット
 ```
 
 [↑ カテゴリに戻る](#catalog)

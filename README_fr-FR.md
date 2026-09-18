@@ -4642,20 +4642,20 @@ Ambiance : absurde, drôle, bizarre, espiègle, exagérée, légèrement grotesq
 
 <a name="prompt-2100767176168722867"></a>
 
-### Traduction en cours
+### Gros plan de produit d'une idole tiki en pierre moussue.
 
 Auteur：[@nightandwknd](https://x.com/nightandwknd) · [Publication originale](https://x.com/nightandwknd/status/2100767176168722867)
 
 Rendu 3D · Produit · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Gros plan de produit d'une idole tiki en pierre moussue.
 
 <img src="covers/2100767176168722867.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+une idole tiki en pierre moussue, fond gris neutre, objet entier centré, photo de produit
 ```
 
 [↑ Retour aux catégories](#catalog)

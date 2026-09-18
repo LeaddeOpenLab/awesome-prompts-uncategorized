@@ -4673,20 +4673,20 @@ Tanınabilir telif hakkıyla korunan karakterlerden, ünlü benzerliklerinden, m
 
 <a name="prompt-2100767176168722867"></a>
 
-### Çeviri sürüyor
+### Yosunlu taş tiki idolü ürün yakın çekimi.
 
 Yazar：[@nightandwknd](https://x.com/nightandwknd) · [Orijinal gönderi](https://x.com/nightandwknd/status/2100767176168722867)
 
 3D Modelleme · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yosunlu taş tiki idolü ürün yakın çekimi.
 
 <img src="covers/2100767176168722867.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+yosunlu taştan bir tiki idolü, nötr gri arka plan, nesnenin tamamı ortalanmış, ürün çekimi
 ```
 
 [↑ Kategorilere dön](#catalog)

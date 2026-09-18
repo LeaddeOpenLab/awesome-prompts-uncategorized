@@ -4673,20 +4673,20 @@ Evite personagens reconhecíveis protegidos por direitos autorais, semelhanças 
 
 <a name="prompt-2100767176168722867"></a>
 
-### Tradução em andamento
+### Close-up de produto de um ídolo tiki de pedra coberto de musgo.
 
 Autor：[@nightandwknd](https://x.com/nightandwknd) · [Publicação original](https://x.com/nightandwknd/status/2100767176168722867)
 
 Renderização 3D · Produto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Close-up de produto de um ídolo tiki de pedra coberto de musgo.
 
 <img src="covers/2100767176168722867.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+um ídolo tiki de pedra coberto de musgo, fundo cinza neutro, objeto inteiro centralizado, foto de produto
 ```
 
 [↑ Voltar às categorias](#catalog)

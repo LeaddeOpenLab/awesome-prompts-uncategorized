@@ -4642,20 +4642,20 @@ Vermeide erkennbare urheberrechtlich geschützte Charaktere, Ähnlichkeiten mit 
 
 <a name="prompt-2100767176168722867"></a>
 
-### Übersetzung läuft
+### Produkt-Nahaufnahme eines moosigen Stein-Tiki-Götzen.
 
 Autor：[@nightandwknd](https://x.com/nightandwknd) · [Originalbeitrag](https://x.com/nightandwknd/status/2100767176168722867)
 
 3D-Rendering · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Produkt-Nahaufnahme eines moosigen Stein-Tiki-Götzen.
 
 <img src="covers/2100767176168722867.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+ein moosiges Tiki-Götzenbild aus Stein, neutraler grauer Hintergrund, vollständiges Objekt zentriert, Produktaufnahme
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
