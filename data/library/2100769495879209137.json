@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:30:14.293Z",
+  "model": "grok",
+  "prompt": "低领露肩；纱衣滑落；酥胸半路，帘后半遮；侧身含情；花影朦胧；欲语还休；惊鸿破格",
+  "promptTranslations": {
+    "en": "Low-cut off-the-shoulder collar; slipping gauze garment; delicate bosom half-revealed, half-hidden behind a curtain; turned sideways with tender affection; hazy floral shadows; hesitant to speak, holding words back; a breathtaking elegance breaking conventional boundaries"
+  },
+  "summaryTranslations": {
+    "en": "Hazy and aesthetically beautiful portrait photography of an East Asian face half-hidden behind a curtain, wearing a low-cut gauze dress."
+  },
+  "translationVersion": 2,
+  "summary": "朦胧唯美的半遮帘低领纱衣东方面孔人像摄影。",
+  "summaryEn": "Hazy, aesthetic portrait of an East Asian woman draped in slipping sheer gauze behind curtains.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100769495879209137",
+    "canonicalUrl": "https://x.com/zhang_baoqing/status/2100769495879209137",
+    "author": {
+      "username": "zhang_baoqing",
+      "displayName": "一地鸡毛",
+      "profileUrl": "https://x.com/zhang_baoqing"
+    },
+    "publishedAt": "2026-09-18T02:10:52.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "zh",
+    "originalText": "看群里说这个提示词很火\nprompt:\n低领露肩；纱衣滑落；酥胸半路，帘后半遮；侧身含情；花影朦胧；欲语还休；惊鸿破格\n\n拿grok抽了几张，选了四张出来 https://t.co/8VbbxqZqpM",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSdut-taAAAJeYT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSdut-taAAAJeYT.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSdut-rb0AADYPG.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSdut-rb0AADYPG.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSdut-pasAARLEc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSdut-pasAARLEc.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSdut-ybYAAszY7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSdut-ybYAAszY7.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 8
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/zhang_baoqing/status/2100769495879209137",
+  "coverUrl": "https://pbs.twimg.com/media/HSdut-taAAAJeYT.jpg",
+  "coverPath": "images/2100769495879209137-1.jpg",
+  "imagePaths": [
+    "images/2100769495879209137-1.jpg",
+    "images/2100769495879209137-2.jpg",
+    "images/2100769495879209137-3.jpg",
+    "images/2100769495879209137-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSdut-taAAAJeYT",
+    "x-image:/media/HSdut-rb0AADYPG",
+    "x-image:/media/HSdut-pasAARLEc",
+    "x-image:/media/HSdut-ybYAAszY7",
+    "x-post:2100769495879209137"
+  ],
+  "analysis": {
+    "summary": "朦胧唯美的半遮帘低领纱衣东方面孔人像摄影。",
+    "summaryEn": "Hazy, aesthetic portrait of an East Asian woman draped in slipping sheer gauze behind curtains.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面展现了低领露肩的薄纱衣饰、帘影与朦胧花影，人物侧身表情含蓄，与提示词特征完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "低领露肩；纱衣滑落；酥胸半路，帘后半遮；侧身含情；花影朦胧；欲语还休；惊鸿破格",
+    "sourceRange": {
+      "start": 20,
+      "end": 59
+    },
+    "translations": {
+      "zh": "低领露肩；纱衣滑落；酥胸半露，帘后半遮；侧身含情；花影朦胧；欲语还休；惊鸿破格",
+      "en": "Off-shoulder low neckline; slipping gauze robe; half-revealed bosom, semi-hidden behind curtains; glancing affectionately sideways; hazy floral shadows; hesitant to speak; striking and unconventional grace"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "mild_suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

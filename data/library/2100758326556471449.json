@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:33:16.384Z",
+  "model": "unknown-image",
+  "prompt": "An orange tabby cat lounging on the hood of a tiny mint-green car parked in a field of giant daisies, naive folk art with flat shapes and decorative dots, coral sunflower and sky-blue palette, playful and sunny",
+  "promptTranslations": {
+    "en": "An orange tabby cat lounging on the hood of a tiny mint-green car parked in a field of giant daisies, naive folk art with flat shapes and decorative dots, coral sunflower and sky-blue palette, playful and sunny"
+  },
+  "summaryTranslations": {
+    "en": "An orange tabby cat lounging on a mint-green car in a field of giant daisies in naive folk art style."
+  },
+  "translationVersion": 2,
+  "summary": "An orange tabby cat lounging on a mint-green car in a field of giant daisies in naive folk art style.",
+  "summaryEn": "An orange tabby cat lounging on a mint-green car in a field of giant daisies in naive folk art style.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100758326556471449",
+    "canonicalUrl": "https://x.com/RenRose321/status/2100758326556471449",
+    "author": {
+      "username": "RenRose321",
+      "displayName": "Ren Rose 321",
+      "profileUrl": "https://x.com/RenRose321"
+    },
+    "publishedAt": "2026-09-18T01:26:29.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "en",
+    "originalText": "Ai Art Prompt Share Party 🥳🎨👇🏻 \nThread with more in the replies 🧵👀👇🏻 \n\nAn orange tabby cat lounging on the hood of a tiny mint-green car parked in a field of giant daisies, naive folk art with flat shapes and decorative dots, coral sunflower and sky-blue palette, playful and sunny",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSdkj23WgAA4Ky7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSdkj23WgAA4Ky7.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 198
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RenRose321/status/2100758326556471449",
+  "coverUrl": "https://pbs.twimg.com/media/HSdkj23WgAA4Ky7.jpg",
+  "coverPath": "images/2100758326556471449-1.jpg",
+  "imagePaths": [
+    "images/2100758326556471449-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSdkj23WgAA4Ky7",
+    "x-post:2100758326556471449"
+  ],
+  "analysis": {
+    "summary": "An orange tabby cat lounging on a mint-green car in a field of giant daisies in naive folk art style.",
+    "summaryEn": "An orange tabby cat lounging on a mint-green car in a field of giant daisies in naive folk art style.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image depicts an orange tabby lounging on a mint car among oversized daisies in folk art style."
+    },
+    "videoQuality": null,
+    "originalPrompt": "An orange tabby cat lounging on the hood of a tiny mint-green car parked in a field of giant daisies, naive folk art with flat shapes and decorative dots, coral sunflower and sky-blue palette, playful and sunny",
+    "sourceRange": {
+      "start": 71,
+      "end": 281
+    },
+    "translations": {
+      "zh": "一只趴在巨型雏菊田里的薄荷绿微型车引擎盖上的橙色虎斑猫，朴素民间艺术风格，扁平形状与装饰圆点，珊瑚色向日葵与天蓝色调，欢快而阳光明媚",
+      "en": "An orange tabby cat lounging on the hood of a tiny mint-green car parked in a field of giant daisies, naive folk art with flat shapes and decorative dots, coral sunflower and sky-blue palette, playful and sunny"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

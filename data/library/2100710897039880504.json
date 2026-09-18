@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:30:21.612Z",
+  "model": "hailuo",
+  "prompt": "Use the supplied video <video 1> exactly as the source and convert it to 16:9 widescreen by outpainting ONLY the missing areas on the left and right sides. Preserve the original video in the center exactly as it is, including the woman, her movement, body direction, pose, timing, camera angle, background, lighting, colors and composition. Do not recreate or reinterpret the scene, do not change the camera angle or make the woman move differently, and do not crop, zoom, stretch or reposition the original footage. Simply extend the existing environment naturally to the left and right to create a seamless 16:9 video. Maintain the original visual quality with no added noise, grain, flicker or warping. No Music.",
+  "promptTranslations": {
+    "en": "Use the supplied video <video 1> exactly as the source and convert it to 16:9 widescreen by outpainting ONLY the missing areas on the left and right sides. Preserve the original video in the center exactly as it is, including the woman, her movement, body direction, pose, timing, camera angle, background, lighting, colors and composition. Do not recreate or reinterpret the scene, do not change the camera angle or make the woman move differently, and do not crop, zoom, stretch or reposition the original footage. Simply extend the existing environment naturally to the left and right to create a seamless 16:9 video. Maintain the original visual quality with no added noise, grain, flicker or warping. No Music."
+  },
+  "summaryTranslations": {
+    "en": "Extend a 2:3 vertical video horizontally to a 16:9 widescreen format using outpainting instructions, while strictly preserving the original female subject, movements, and background composition."
+  },
+  "translationVersion": 2,
+  "summary": "通过扩画指令将 2:3 纵向视频左右扩展为 16:9 宽屏，同时严格保留原画女性主体、动作及背景构图。",
+  "summaryEn": "Prompt for outpainting a 2:3 vertical video into a 16:9 widescreen format while preserving central subjects, motion, and composition.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100710897039880504",
+    "canonicalUrl": "https://x.com/EndFolding79421/status/2100710897039880504",
+    "author": {
+      "username": "EndFolding79421",
+      "displayName": "FoldingEnd A.I.",
+      "profileUrl": "https://x.com/EndFolding79421"
+    },
+    "publishedAt": "2026-09-17T22:18:01.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "en",
+    "originalText": "Expanding my old 2:3 portrait AI video \"When I close My Eyes\"  into full 16:9 cinematic widescreen With H3 Minimax . Side by side comparision\n\n( Special note: One thing I learned is to chop the video into individual scenes before putting them into H3 (it is labeled in the example video). If you give H3 a longer sequence with multiple shots, it can stretch certain scenes out longer than they should be, which throws off the timing and completely messes with the beat of the music.)\n\nPrompt Used: Use the supplied video <video 1> exactly as the source and convert it to 16:9 widescreen by outpainting ONLY the missing areas on the left and right sides. Preserve the original video in the center exactly as it is, including the woman, her movement, body direction, pose, timing, camera angle, background, lighting, colors and composition. Do not recreate or reinterpret the scene, do not change the camera angle or make the woman move differently, and do not crop, zoom, stretch or reposition the original footage. Simply extend the existing environment naturally to the left and right to create a seamless 16:9 video. Maintain the original visual quality with no added noise, grain, flicker or warping. No Music.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSc10JoXYAA8D-J.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSc10JoXYAA8D-J.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/EndFolding79421/status/2100710897039880504",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100709802691162112/img/alD_ZA-MhDI6te12.jpg",
+        "analysisUrl": "https://x.com/EndFolding79421/status/2100710897039880504"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 142
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/EndFolding79421/status/2100710897039880504",
+  "coverUrl": "https://pbs.twimg.com/media/HSc10JoXYAA8D-J.jpg",
+  "coverPath": "covers/2100710897039880504.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HSc10JoXYAA8D-J",
+    "x-video:2100709802691162112",
+    "x-post:2100710897039880504"
+  ],
+  "analysis": {
+    "summary": "通过扩画指令将 2:3 纵向视频左右扩展为 16:9 宽屏，同时严格保留原画女性主体、动作及背景构图。",
+    "summaryEn": "Prompt for outpainting a 2:3 vertical video into a 16:9 widescreen format while preserving central subjects, motion, and composition.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Media demonstrates exact side-by-side outpainting from vertical 2:3 to 16:9 widescreen preserving central contents as instructed."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Use the supplied video <video 1> exactly as the source and convert it to 16:9 widescreen by outpainting ONLY the missing areas on the left and right sides. Preserve the original video in the center exactly as it is, including the woman, her movement, body direction, pose, timing, camera angle, background, lighting, colors and composition. Do not recreate or reinterpret the scene, do not change the camera angle or make the woman move differently, and do not crop, zoom, stretch or reposition the original footage. Simply extend the existing environment naturally to the left and right to create a seamless 16:9 video. Maintain the original visual quality with no added noise, grain, flicker or warping. No Music.",
+    "sourceRange": {
+      "start": 498,
+      "end": 1213
+    },
+    "translations": {
+      "zh": "将提供的视频 <video 1> 严格作为源视频，仅通过向左右两侧未填充区域进行扩画将其转换为 16:9 宽屏。完整保留中央的原始视频，包括其中的女性、其动作、身体朝向、姿势、节奏时机、摄像机角度、背景、光影、色彩与构图。请勿重建或重新演绎场景，不要改变摄像机视角或改变女性动作，且不要对原始素材进行裁剪、缩放、拉伸或重定位。只需自然向左右延伸现有环境以生成无缝的 16:9 视频。保持原有画质，不添加噪点、颗粒、闪烁或变形。无音乐。",
+      "en": "Use the supplied video <video 1> exactly as the source and convert it to 16:9 widescreen by outpainting ONLY the missing areas on the left and right sides. Preserve the original video in the center exactly as it is, including the woman, her movement, body direction, pose, timing, camera angle, background, lighting, colors and composition. Do not recreate or reinterpret the scene, do not change the camera angle or make the woman move differently, and do not crop, zoom, stretch or reposition the original footage. Simply extend the existing environment naturally to the left and right to create a seamless 16:9 video. Maintain the original visual quality with no added noise, grain, flicker or warping. No Music."
+    },
+    "targetModels": [
+      "hailuo"
+    ],
+    "category": "image-to-video",
+    "useCase": "AI video outpainting expansion",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

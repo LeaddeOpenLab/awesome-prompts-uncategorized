@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:33:19.191Z",
+  "model": "flux",
+  "prompt": "a mossy stone tiki idol, neutral grey background, full object centered, product shot",
+  "promptTranslations": {
+    "en": "a mossy stone tiki idol, neutral grey background, full object centered, product shot"
+  },
+  "summaryTranslations": {
+    "en": "Product shot of a mossy stone tiki idol."
+  },
+  "translationVersion": 2,
+  "summary": "长满苔藓的石头提基神像产品特写。",
+  "summaryEn": "Product shot of a mossy stone tiki idol.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100767176168722867",
+    "canonicalUrl": "https://x.com/nightandwknd/status/2100767176168722867",
+    "author": {
+      "username": "nightandwknd",
+      "displayName": "night_and_wknd",
+      "profileUrl": "https://x.com/nightandwknd"
+    },
+    "publishedAt": "2026-09-18T02:01:39.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "en",
+    "originalText": "Working through proofs on hosted generation models for Asset Tap using @modal apps.\n\nPrompt = \"a mossy stone tiki idol, neutral grey background, full object centered, product shot\"\n-&gt;\nImage = FLUX.2 [klein] 4B (from @bfl_ai)\n-&gt;\n3D Model = TRELLIS.2 4B https://t.co/lWDprVZhD8",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/nightandwknd/status/2100767176168722867",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100762758748770304/img/Cd0bKNIgHmielG-M.jpg",
+        "analysisUrl": "https://x.com/nightandwknd/status/2100767176168722867"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/nightandwknd/status/2100767176168722867",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100762758748770304/img/Cd0bKNIgHmielG-M.jpg",
+  "coverPath": "covers/2100767176168722867.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100762758748770304",
+    "x-post:2100767176168722867"
+  ],
+  "analysis": {
+    "summary": "长满苔藓的石头提基神像产品特写。",
+    "summaryEn": "Product shot of a mossy stone tiki idol.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated image and rotating 3D model accurately present the centered mossy stone tiki statue on a grey backdrop."
+    },
+    "videoQuality": null,
+    "originalPrompt": "a mossy stone tiki idol, neutral grey background, full object centered, product shot",
+    "sourceRange": {
+      "start": 95,
+      "end": 179
+    },
+    "translations": {
+      "zh": "长满苔藓的石头提基神像，中性灰色背景，完整主体居中，产品拍摄风格",
+      "en": "a mossy stone tiki idol, neutral grey background, full object centered, product shot"
+    },
+    "targetModels": [
+      "flux"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3d_asset",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

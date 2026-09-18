@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:34:00.536Z",
+  "model": "unknown-image",
+  "prompt": "竖幅构图，比例9:16。一幅看上去像从宋代皇家画库里翻出来的古老水墨山水，画面气势相当严肃：远处群峰高耸入云，云雾在山腰缓慢流动，奇松立于悬崖，枯枝和乱石散落近景，大量留白，仿佛天地正在认真讨论什么千古大事。\n\n然而画面右下方，偏偏站着一只明显不太正经的灰狼。它身形和毛发依然按照传统水墨工笔认真描绘，四肢结构准确，尾巴自然垂下，耳朵竖起；但脑袋微微歪着，两只眼睛瞪得又大又圆，嘴角挂着一丝憨憨的礼貌微笑，表情像是刚刚偷吃完东西，却努力装作：“不是我，我只是路过。”既无辜、又心虚，还有一点莫名其妙的自信，萌得很认真，傻得很高级。\n\n整体采用宋代水墨山水与古代动物画结合的风格，墨色层次丰富，湿笔晕染与干笔皴擦并用，狼的毛发细腻但保持手绘笔触，山石厚重，云雾空灵。旧宣纸底色，温暖的米黄色与淡淡茶渍感，纸张有自然斑驳、折痕和岁月痕迹。左上方以古朴行书竖写“子丹图画”，下方配一枚小巧朱红印章。整幅画第一眼是古画，第二眼发现狼不对劲，第三眼忍不住笑出声。\n\n画面幽默但不低幼，可爱却不做成卡通贴纸；保持东方绘画的含蓄、留白与高级感。不要现代物品，不要夸张大头，不要动漫风，不要3D渲染，不要塑料质感，不要凶恶表情，不要血腥，不要多余肢体，不要错误爪子，不要文字乱码。超精细传统手绘质感，博物馆级古画复刻效果，比例9:16。",
+  "promptTranslations": {
+    "en": "Vertical composition, 9:16 aspect ratio. An ancient ink-wash landscape painting that looks as though it was retrieved from an imperial archive of the Song Dynasty, with a rather solemn and grandiose atmosphere: distant peaks tower into the clouds, mist slowly drifts across the mountainsides, bizarre pines stand on cliffs, while withered branches and scattered rocks are dispersed across the foreground, accompanied by abundant negative space, as if heaven and earth were solemnly debating some monumental affair of the ages. However, in the lower right of the painting, there stands a distinctly un-serious grey wolf. Its body shape and fur are still meticulously depicted according to traditional fine-brush ink-wash techniques (Gongbi), with accurate limb anatomy, a naturally drooping tail, and perked-up ears; yet its head is tilted slightly, its eyes are wide and round, and a goofy, polite faint smile hangs at the corners of its mouth, wearing an expression as if it just stole a snack and is trying hard to act like: \"It wasn't me, I'm just passing through.\" Innocent yet guilty, with a hint of inexplicable confidence, adorably earnest, and high-class goofy. The overall style combines Song Dynasty ink-wash landscapes with ancient animal paintings, featuring rich gradations of ink, combining wet-brush washes and dry-brush texture strokes (cun). The wolf's fur is delicate yet maintains hand-painted brushstrokes; the mountain rocks are heavy, and the clouds and mist are ethereal. Old Xuan paper backdrop, warm beige tones with faint tea-stain effects, showing natural mottling, creases, and traces of age. In the upper left, the inscription \"子丹图画\" is written vertically in archaic running script, accompanied by a small vermilion seal below. At first glance, the entire painting appears to be an ancient masterpiece; at second glance, the wolf seems off; at third glance, one cannot help but laugh out loud. The scene is humorous without being juvenile, cute without resembling a cartoon sticker; it preserves the subtlety, negative space, and refined aesthetic of traditional Oriental painting. No modern items, no exaggerated chibi heads, no anime style, no 3D rendering, no plastic texture, no fierce expressions, no gore, no extra limbs, no incorrect paws, no garbled text. Ultra-fine traditional hand-painted texture, museum-grade ancient painting reproduction effect, 9:16 aspect ratio."
+  },
+  "summaryTranslations": {
+    "en": "Ancient Song Dynasty ink-wash landscape style, featuring a traditional Gongbi grey wolf in the lower right corner with a silly, innocent expression and a tilted-head smile, with calligraphy and a vermilion seal in the upper left."
+  },
+  "translationVersion": 2,
+  "summary": "宋代古老水墨山水画风，右下角配以表情憨憨无辜、歪头微笑的传统工笔灰狼，左上题字及朱红印章。",
+  "summaryEn": "Song Dynasty ink landscape painting featuring a traditionally painted grey wolf in the foreground with a comical, innocent tilted-head expression, on aged paper with calligraphy and a red seal.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100505656231096481",
+    "canonicalUrl": "https://x.com/liluocheng13/status/2100505656231096481",
+    "author": {
+      "username": "liluocheng13",
+      "displayName": "Zidan 子丹",
+      "profileUrl": "https://x.com/liluocheng13"
+    },
+    "publishedAt": "2026-09-17T08:42:28.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "zh",
+    "originalText": "我平时很少用中文写提示词，大家看到的我写的一些英文提示词实际上也是我用英文转过来的。不过今天我构思的这幅图，特意是用中文写，因为今天这张图，用中文提示词更能表达我的意思。只是我的中文提示词不太像平时大家常见的提示词。\n\nPrompt：竖幅构图，比例9:16。一幅看上去像从宋代皇家画库里翻出来的古老水墨山水，画面气势相当严肃：远处群峰高耸入云，云雾在山腰缓慢流动，奇松立于悬崖，枯枝和乱石散落近景，大量留白，仿佛天地正在认真讨论什么千古大事。\n\n然而画面右下方，偏偏站着一只明显不太正经的灰狼。它身形和毛发依然按照传统水墨工笔认真描绘，四肢结构准确，尾巴自然垂下，耳朵竖起；但脑袋微微歪着，两只眼睛瞪得又大又圆，嘴角挂着一丝憨憨的礼貌微笑，表情像是刚刚偷吃完东西，却努力装作：“不是我，我只是路过。”既无辜、又心虚，还有一点莫名其妙的自信，萌得很认真，傻得很高级。\n\n整体采用宋代水墨山水与古代动物画结合的风格，墨色层次丰富，湿笔晕染与干笔皴擦并用，狼的毛发细腻但保持手绘笔触，山石厚重，云雾空灵。旧宣纸底色，温暖的米黄色与淡淡茶渍感，纸张有自然斑驳、折痕和岁月痕迹。左上方以古朴行书竖写“子丹图画”，下方配一枚小巧朱红印章。整幅画第一眼是古画，第二眼发现狼不对劲，第三眼忍不住笑出声。\n\n画面幽默但不低幼，可爱却不做成卡通贴纸；保持东方绘画的含蓄、留白与高级感。不要现代物品，不要夸张大头，不要动漫风，不要3D渲染，不要塑料质感，不要凶恶表情，不要血腥，不要多余肢体，不要错误爪子，不要文字乱码。超精细传统手绘质感，博物馆级古画复刻效果，比例9:16。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZ6SG4bgAAnBGz.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZ6SG4bgAAnBGz.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 60,
+      "repostCount": 0,
+      "replyCount": 8,
+      "quoteCount": 0,
+      "viewCount": 1245
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/liluocheng13/status/2100505656231096481",
+  "coverUrl": "https://pbs.twimg.com/media/HSZ6SG4bgAAnBGz.jpg",
+  "coverPath": "images/2100505656231096481-1.jpg",
+  "imagePaths": [
+    "images/2100505656231096481-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSZ6SG4bgAAnBGz",
+    "x-post:2100505656231096481"
+  ],
+  "analysis": {
+    "summary": "宋代古老水墨山水画风，右下角配以表情憨憨无辜、歪头微笑的传统工笔灰狼，左上题字及朱红印章。",
+    "summaryEn": "Song Dynasty ink landscape painting featuring a traditionally painted grey wolf in the foreground with a comical, innocent tilted-head expression, on aged paper with calligraphy and a red seal.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片精确呈现了Prompt中所述的宋代水墨山水、右下角表情憨态可掬的工笔灰狼、旧宣纸质感以及左上角的题字'子丹图画'与红印章。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "竖幅构图，比例9:16。一幅看上去像从宋代皇家画库里翻出来的古老水墨山水，画面气势相当严肃：远处群峰高耸入云，云雾在山腰缓慢流动，奇松立于悬崖，枯枝和乱石散落近景，大量留白，仿佛天地正在认真讨论什么千古大事。\n\n然而画面右下方，偏偏站着一只明显不太正经的灰狼。它身形和毛发依然按照传统水墨工笔认真描绘，四肢结构准确，尾巴自然垂下，耳朵竖起；但脑袋微微歪着，两只眼睛瞪得又大又圆，嘴角挂着一丝憨憨的礼貌微笑，表情像是刚刚偷吃完东西，却努力装作：“不是我，我只是路过。”既无辜、又心虚，还有一点莫名其妙的自信，萌得很认真，傻得很高级。\n\n整体采用宋代水墨山水与古代动物画结合的风格，墨色层次丰富，湿笔晕染与干笔皴擦并用，狼的毛发细腻但保持手绘笔触，山石厚重，云雾空灵。旧宣纸底色，温暖的米黄色与淡淡茶渍感，纸张有自然斑驳、折痕和岁月痕迹。左上方以古朴行书竖写“子丹图画”，下方配一枚小巧朱红印章。整幅画第一眼是古画，第二眼发现狼不对劲，第三眼忍不住笑出声。\n\n画面幽默但不低幼，可爱却不做成卡通贴纸；保持东方绘画的含蓄、留白与高级感。不要现代物品，不要夸张大头，不要动漫风，不要3D渲染，不要塑料质感，不要凶恶表情，不要血腥，不要多余肢体，不要错误爪子，不要文字乱码。超精细传统手绘质感，博物馆级古画复刻效果，比例9:16。",
+    "sourceRange": {
+      "start": 117,
+      "end": 677
+    },
+    "translations": {
+      "zh": "竖幅构图，比例9:16。一幅看上去像从宋代皇家画库里翻出来的古老水墨山水，画面气势相当严肃：远处群峰高耸入云，云雾在山腰缓慢流动，奇松立于悬崖，枯枝和乱石散落近景，大量留白，仿佛天地正在认真讨论什么千古大事。\n\n然而画面右下方，偏偏站着一只明显不太正经的灰狼。它身形和毛发依然按照传统水墨工笔认真描绘，四肢结构准确，尾巴自然垂下，耳朵竖起；但脑袋微微歪着，两只眼睛瞪得又大又圆，嘴角挂着一丝憨憨的礼貌微笑，表情像是刚刚偷吃完东西，却努力装作：“不是我，我只是路过。”既无辜、又心虚，还有一点莫名其妙的自信，萌得很认真，傻得很高级。\n\n整体采用宋代水墨山水与古代动物画结合的风格，墨色层次丰富，湿笔晕染与干笔皴擦并用，狼的毛发细腻但保持手绘笔触，山石厚重，云雾空灵。旧宣纸底色，温暖的米黄色与淡淡茶渍感，纸张有自然斑驳、折痕和岁月痕迹。左上方以古朴行书竖写“子丹图画”，下方配一枚小巧朱红印章。整幅画第一眼是古画，第二眼发现狼不对劲，第三眼忍不住笑出声。\n\n画面幽默但不低幼，可爱却不做成卡通贴纸；保持东方绘画的含蓄、留白与高级感。不要现代物品，不要夸张大头，不要动漫风，不要3D渲染，不要塑料质感，不要凶恶表情，不要血腥，不要多余肢体，不要错误爪子，不要文字乱码。超精细传统手绘质感，博物馆级古画复刻效果，比例9:16。",
+      "en": "Vertical composition, 9:16 ratio. A traditional Song Dynasty-style ink landscape painting with towering misty peaks and crags, appearing solemn. In the lower right foreground, a detailed ink-wash grey wolf stands with an innocent, slightly goofy, tilted-head expression and wide eyes. Textured antique Xuan paper with tea stains and aged creases. Traditional Chinese calligraphy reading '子丹图画' with a red seal in the upper left corner."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "宋代水墨风格的幽默拟人动物山水画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:31:11.750Z",
+  "model": "grok",
+  "prompt": "今朝見た夢。\n空港の広いエントランスか大きな学校の体育館内。\n明治時代をイメージさせる正装をした若い人々。\n\nこれからなにかの催しかパーティがある感じ。\n多分祝い事だと思う。\n\n画像の5倍は広い空間だった。\n\n胸に勲章がある。",
+  "promptTranslations": {
+    "en": "A dream I had this morning.\nInside a spacious airport entrance or a large school gymnasium.\nYoung people in formal attire reminiscent of the Meiji era.\n\nIt feels like an upcoming event or party is about to take place.\nI think it is probably a celebration.\n\nThe space was five times wider than in the image.\n\nThere are medals on their chests."
+  },
+  "summaryTranslations": {
+    "en": "A scene of young people wearing Meiji-era style formal attire and medals gathering in a spacious entrance or gymnasium."
+  },
+  "translationVersion": 2,
+  "summary": "明治時代風の正装と勲章を身につけた若者たちが集まる広いエントランスや体育館の光景。",
+  "summaryEn": "A scene of young people in Meiji-era formal attire with medals gathered in a spacious hall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100716570540720516",
+    "canonicalUrl": "https://x.com/RainSeekerRemi/status/2100716570540720516",
+    "author": {
+      "username": "RainSeekerRemi",
+      "displayName": "REMI",
+      "profileUrl": "https://x.com/RainSeekerRemi"
+    },
+    "publishedAt": "2026-09-17T22:40:34.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n今朝見た夢。\n空港の広いエントランスか大きな学校の体育館内。\n明治時代をイメージさせる正装をした若い人々。\n\nこれからなにかの催しかパーティがある感じ。\n多分祝い事だと思う。\n\n画像の5倍は広い空間だった。\n\n胸に勲章がある。\n\nnext https://t.co/CPFEy8Np2K",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSc-lhDa8AAZcYJ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSc-lhDa8AAZcYJ.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 31
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RainSeekerRemi/status/2100716570540720516",
+  "coverUrl": "https://pbs.twimg.com/media/HSc-lhDa8AAZcYJ.jpg",
+  "coverPath": "images/2100716570540720516-1.jpg",
+  "imagePaths": [
+    "images/2100716570540720516-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSc-lhDa8AAZcYJ",
+    "x-post:2100716570540720516"
+  ],
+  "analysis": {
+    "summary": "明治時代風の正装と勲章を身につけた若者たちが集まる広いエントランスや体育館の光景。",
+    "summaryEn": "A scene of young people in Meiji-era formal attire with medals gathered in a spacious hall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image matches the prompt depicting young Asian men dressed in Meiji-era style formal tailcoats with medals on their chests gathered in a large hall."
+    },
+    "videoQuality": null,
+    "originalPrompt": "今朝見た夢。\n空港の広いエントランスか大きな学校の体育館内。\n明治時代をイメージさせる正装をした若い人々。\n\nこれからなにかの催しかパーティがある感じ。\n多分祝い事だと思う。\n\n画像の5倍は広い空間だった。\n\n胸に勲章がある。",
+    "sourceRange": {
+      "start": 22,
+      "end": 135
+    },
+    "translations": {
+      "zh": "今早做的梦。在机场宽阔的大厅或大型学校体育馆内。身着让人联想到明治时代正装的年轻人。感觉接下来有什么活动或宴会，大概是庆典。胸前佩戴着勋章。",
+      "en": "A dream seen this morning. Inside a spacious airport entrance or large school gymnasium. Young people in formal attire reminiscent of the Meiji era, preparing for an event or celebration, wearing medals on their chests."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

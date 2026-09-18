@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:31:17.965Z",
+  "model": "unknown-video",
+  "prompt": "Crie um comercial premium de 10 segundos da Coca-Cola em formato vertical (9:16), com qualidade fotorrealista 8K, cinematografia de alta velocidade ultra-detalhada da bebida, iluminação cinematográfica vermelha dramática e uma atmosfera refrescante de gelo e respingos.\n\nCONCEITO: GELO → RESPINGO → REVELAÇÃO DA GARRAFA → IMPACTO DO LÍQUIDO → COMPOSIÇÃO HEROICA COM MÚLTIPLAS GARRAFAS\n\n01 | 0–1,2s — IMPACTO DO GELO\nClose-up extremo de cubos de gelo cristalinos explodindo em um ambiente vermelho brilhante característico da Coca-Cola. Gotículas de água gelada e minúsculas partículas de gelo voam em direção à câmera em câmera lenta dramática. Uma forte contraluz cria reflexos cintilantes.\n\n02 | 1,2–2,4s — REVELAÇÃO DA GARRAFA\nUma garrafa de vidro de Coca-Cola gelada emerge através da água e do gelo, girando naturalmente no ar. O formato icônico da garrafa *contour*, o rótulo vermelho, a logomarca branca, a tampa metálica prateada e a condensação realista permanecem perfeitamente nítidos e precisos.\n\n03 | 2,4–3,6s — RESPINGO REFRESCANTE\nUma onda poderosa de Coca-Cola se choca ao redor da garrafa. Gotículas em close cercam o produto enquanto a câmera avança rapidamente através do respingo.\n\n04 | 3,6–4,8s — ABERTURA E EFERVESCÊNCIA\nClose-up extremo do gargalo da garrafa de vidro e da tampa metálica. A tampa se solta com uma liberação realista de gás, criando pequenas bolhas e uma névoa refrescante.\n\n05 | 4,8–6,0s — MOVIMENTO DO LÍQUIDO\nO líquido escuro da Coca-Cola forma uma onda elegante e fluida ao redor da garrafa, criando um respingo dinâmico e escultural. Cubos de gelo e gotículas movem-se naturalmente pelo quadro.\n\n06 | 6,0–7,2s — SEQUÊNCIA DE GARRAFAS\nMúltiplas garrafas de Coca-Cola aparecem em diferentes profundidades, flutuando e girando no ambiente vermelho. Rastros de água e partículas de gelo acompanham o movimento, criando um visual publicitário premium e energético.\n\n07 | 7,2–8,6s — FORMAÇÃO HEROICA\nTrês garrafas de Coca-Cola convergem suavemente para uma composição de produto marcante. Uma garrafa permanece em destaque no primeiro plano, enquanto as outras estão posicionadas atrás. Condensação intensa, reflexos realistas e gotículas de água enfatizam a refrescância gelada.\n\n08 | 8,6–10s — IMAGEM FINAL DE DESTAQUE (HERO SHOT)\nImagem cinematográfica e limpa do produto em destaque: garrafas de Coca-Cola cobertas de gelo, cercadas por gotas de água em suspensão e um leve respingo de líquido da Coca-Cola. Fundo vermelho intenso e vibrante, reflexos de estúdio com brilho, iluminação de contorno (rim light) dramática. A câmera realiza um movimento suave de aproximação (push-in).\n\nPADRÃO DO PRODUTO: Preservar as proporções exatas da garrafa Contour da Coca-Cola, o design do rótulo vermelho, o logotipo/letreiro branco da Coca-Cola, a tipografia, a tampa metálica branco-prateada e a identidade geral da embalagem. Sem redesign, sem logotipo distorcido, sem erros de ortografia, sem rótulos duplicados, sem garrafas deformadas.\n\nESTILO VISUAL: Fotorrealista, comercial de bebida ultra-premium, detalhes em 8K, fotografia macro de alta velocidade, física de líquidos realista, condensação nítida, gelo cintilante, profundidade de campo cinematográfica, iluminação de estúdio dramática, reflexos realistas, atmosfera em tons de vermelho rico, movimento de câmera suave.\n\nPROMPT NEGATIVO: Logotipo borrado, garrafa distorcida, tipografia deformada, branding incorreto, logotipos extras, produtos deformados, física de líquidos irrealista, garrafas duplicadas fundindo-se, baixa resolução, visual de desenho animado, líquido com aspecto de plástico, marca d'água, artefatos de texto.",
+  "promptTranslations": {
+    "en": "Create a premium 10-second Coca-Cola commercial in vertical format (9:16), with photorealistic 8K quality, ultra-detailed high-speed beverage cinematography, dramatic red cinematic lighting, and a refreshing atmosphere of ice and splashes.\n\nCONCEPT: ICE → SPLASH → BOTTLE REVEAL → LIQUID IMPACT → HEROIC COMPOSITION WITH MULTIPLE BOTTLES\n\n01 | 0–1.2s — ICE IMPACT\nExtreme close-up of crystal-clear ice cubes shattering in a signature Coca-Cola glowing red environment. Ice water droplets and tiny ice particles fly toward the camera in dramatic slow motion. Strong backlighting creates sparkling highlights.\n\n02 | 1.2–2.4s — BOTTLE REVEAL\nAn ice-cold Coca-Cola glass bottle emerges through water and ice, rotating naturally in mid-air. The iconic contour bottle shape, red label, white wordmark logo, silver metallic cap, and realistic condensation remain sharp and perfectly accurate.\n\n03 | 2.4–3.6s — REFRESHING SPLASH\nA powerful wave of Coca-Cola liquid crashes around the bottle. Close-up droplets surround the product as the camera moves quickly forward through the splash.\n\n04 | 3.6–4.8s — OPENING & FIZZ\nExtreme close-up of the glass bottle neck and the metallic cap. The cap pops off with a realistic release of gas, creating fine bubbles and a refreshing mist.\n\n05 | 4.8–6.0s — LIQUID MOTION\nThe dark Coca-Cola liquid forms an elegant, fluid wave wrapping around the bottle, creating a dynamic, sculptural splash. Ice cubes and droplets move naturally across the frame.\n\n06 | 6.0–7.2s — BOTTLE SEQUENCE\nMultiple Coca-Cola bottles appear at various depths, floating and rotating within the red environment. Water trails and ice particles accompany the movement, creating an energetic, premium advertising visual.\n\n07 | 7.2–8.6s — HERO FORMATION\nThree Coca-Cola bottles converge smoothly into a striking product composition. One bottle stands prominently in the foreground while the others are positioned behind. Heavy condensation, realistic reflections, and water droplets emphasize ice-cold refreshment.\n\n08 | 8.6–10s — FINAL HERO SHOT\nClean, cinematic hero product shot: ice-cold Coca-Cola bottles surrounded by suspended water droplets and a subtle splash of Coca-Cola liquid. Deep, vibrant red background, glossy studio reflections, dramatic rim lighting. The camera performs a smooth push-in.\n\nPRODUCT STANDARD: Preserve the exact Coca-Cola Contour bottle proportions, red label design, white Coca-Cola script logo, typography, silver-white metal cap, and overall packaging identity. No redesign, no distorted logo, no spelling errors, no duplicated labels, no deformed bottles.\n\nVISUAL STYLE: Photorealistic, ultra-premium beverage commercial, 8K detail, high-speed macro cinematography, realistic liquid physics, sharp condensation, glistening ice, cinematic depth of field, dramatic studio lighting, realistic reflections, rich red color atmosphere, smooth camera movement.\n\nNEGATIVE PROMPT: Blurry logo, distorted bottle, deformed typography, incorrect branding, extra logos, warped products, unrealistic liquid physics, duplicated bottles merging, low resolution, cartoon look, plastic-looking liquid, watermark, text artifacts."
+  },
+  "summaryTranslations": {
+    "en": "10s vertical Coca-Cola commercial detailing ice scenes, cap opening, splashes, and a final hero composition."
+  },
+  "translationVersion": 2,
+  "summary": "Comercial vertical de 10s da Coca-Cola detalhando cenas de gelo, abertura de tampa, respingos e composição heroica final.",
+  "summaryEn": "A 10-second vertical Coca-Cola commercial prompt detailing ice impacts, bottle reveals, liquid splashes, and a final hero shot.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100721468363719074",
+    "canonicalUrl": "https://x.com/FuturoemTeste/status/2100721468363719074",
+    "author": {
+      "username": "FuturoemTeste",
+      "displayName": "FUTURO EM TESTE",
+      "profileUrl": "https://x.com/FuturoemTeste"
+    },
+    "publishedAt": "2026-09-17T23:00:02.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "pt",
+    "originalText": "Comercial Coca Cola.\nCriador do prompt: Claude.\nDesenvolvedor do vídeo: Flow Omni 1.1\n\nPrompt:\n\nCrie um comercial premium de 10 segundos da Coca-Cola em formato vertical (9:16), com qualidade fotorrealista 8K, cinematografia de alta velocidade ultra-detalhada da bebida, iluminação cinematográfica vermelha dramática e uma atmosfera refrescante de gelo e respingos.\n\nCONCEITO: GELO → RESPINGO → REVELAÇÃO DA GARRAFA → IMPACTO DO LÍQUIDO → COMPOSIÇÃO HEROICA COM MÚLTIPLAS GARRAFAS\n\n01 | 0–1,2s — IMPACTO DO GELO\nClose-up extremo de cubos de gelo cristalinos explodindo em um ambiente vermelho brilhante característico da Coca-Cola. Gotículas de água gelada e minúsculas partículas de gelo voam em direção à câmera em câmera lenta dramática. Uma forte contraluz cria reflexos cintilantes.\n\n02 | 1,2–2,4s — REVELAÇÃO DA GARRAFA\nUma garrafa de vidro de Coca-Cola gelada emerge através da água e do gelo, girando naturalmente no ar. O formato icônico da garrafa *contour*, o rótulo vermelho, a logomarca branca, a tampa metálica prateada e a condensação realista permanecem perfeitamente nítidos e precisos.\n\n03 | 2,4–3,6s — RESPINGO REFRESCANTE\nUma onda poderosa de Coca-Cola se choca ao redor da garrafa. Gotículas em close cercam o produto enquanto a câmera avança rapidamente através do respingo.\n\n04 | 3,6–4,8s — ABERTURA E EFERVESCÊNCIA\nClose-up extremo do gargalo da garrafa de vidro e da tampa metálica. A tampa se solta com uma liberação realista de gás, criando pequenas bolhas e uma névoa refrescante.\n\n05 | 4,8–6,0s — MOVIMENTO DO LÍQUIDO\nO líquido escuro da Coca-Cola forma uma onda elegante e fluida ao redor da garrafa, criando um respingo dinâmico e escultural. Cubos de gelo e gotículas movem-se naturalmente pelo quadro.\n\n06 | 6,0–7,2s — SEQUÊNCIA DE GARRAFAS\nMúltiplas garrafas de Coca-Cola aparecem em diferentes profundidades, flutuando e girando no ambiente vermelho. Rastros de água e partículas de gelo acompanham o movimento, criando um visual publicitário premium e energético.\n\n07 | 7,2–8,6s — FORMAÇÃO HEROICA\nTrês garrafas de Coca-Cola convergem suavemente para uma composição de produto marcante. Uma garrafa permanece em destaque no primeiro plano, enquanto as outras estão posicionadas atrás. Condensação intensa, reflexos realistas e gotículas de água enfatizam a refrescância gelada.\n\n08 | 8,6–10s — IMAGEM FINAL DE DESTAQUE (HERO SHOT)\nImagem cinematográfica e limpa do produto em destaque: garrafas de Coca-Cola cobertas de gelo, cercadas por gotas de água em suspensão e um leve respingo de líquido da Coca-Cola. Fundo vermelho intenso e vibrante, reflexos de estúdio com brilho, iluminação de contorno (rim light) dramática. A câmera realiza um movimento suave de aproximação (push-in).\n\nPADRÃO DO PRODUTO: Preservar as proporções exatas da garrafa Contour da Coca-Cola, o design do rótulo vermelho, o logotipo/letreiro branco da Coca-Cola, a tipografia, a tampa metálica branco-prateada e a identidade geral da embalagem. Sem redesign, sem logotipo distorcido, sem erros de ortografia, sem rótulos duplicados, sem garrafas deformadas.\n\nESTILO VISUAL: Fotorrealista, comercial de bebida ultra-premium, detalhes em 8K, fotografia macro de alta velocidade, física de líquidos realista, condensação nítida, gelo cintilante, profundidade de campo cinematográfica, iluminação de estúdio dramática, reflexos realistas, atmosfera em tons de vermelho rico, movimento de câmera suave.\n\nPROMPT NEGATIVO: Logotipo borrado, garrafa distorcida, tipografia deformada, branding incorreto, logotipos extras, produtos deformados, física de líquidos irrealista, garrafas duplicadas fundindo-se, baixa resolução, visual de desenho animado, líquido com aspecto de plástico, marca d'água, artefatos de texto.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/FuturoemTeste/status/2100721468363719074",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100586315678908416/img/tn-uQr3jrz5xNV1w.jpg",
+        "analysisUrl": "https://x.com/FuturoemTeste/status/2100721468363719074"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 538
+    },
+    "matchedRuleIds": [
+      "custom:pt:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:pt:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/FuturoemTeste/status/2100721468363719074",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100586315678908416/img/tn-uQr3jrz5xNV1w.jpg",
+  "coverPath": "covers/2100721468363719074.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100586315678908416",
+    "x-post:2100721468363719074"
+  ],
+  "analysis": {
+    "summary": "Comercial vertical de 10s da Coca-Cola detalhando cenas de gelo, abertura de tampa, respingos e composição heroica final.",
+    "summaryEn": "A 10-second vertical Coca-Cola commercial prompt detailing ice impacts, bottle reveals, liquid splashes, and a final hero shot.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video matches the prompt's sequence: exploding ice cubes, bottle reveal through splash, cap opening fizz, multiple bottles, and final three-bottle hero shot against a red background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Crie um comercial premium de 10 segundos da Coca-Cola em formato vertical (9:16), com qualidade fotorrealista 8K, cinematografia de alta velocidade ultra-detalhada da bebida, iluminação cinematográfica vermelha dramática e uma atmosfera refrescante de gelo e respingos.\n\nCONCEITO: GELO → RESPINGO → REVELAÇÃO DA GARRAFA → IMPACTO DO LÍQUIDO → COMPOSIÇÃO HEROICA COM MÚLTIPLAS GARRAFAS\n\n01 | 0–1,2s — IMPACTO DO GELO\nClose-up extremo de cubos de gelo cristalinos explodindo em um ambiente vermelho brilhante característico da Coca-Cola. Gotículas de água gelada e minúsculas partículas de gelo voam em direção à câmera em câmera lenta dramática. Uma forte contraluz cria reflexos cintilantes.\n\n02 | 1,2–2,4s — REVELAÇÃO DA GARRAFA\nUma garrafa de vidro de Coca-Cola gelada emerge através da água e do gelo, girando naturalmente no ar. O formato icônico da garrafa *contour*, o rótulo vermelho, a logomarca branca, a tampa metálica prateada e a condensação realista permanecem perfeitamente nítidos e precisos.\n\n03 | 2,4–3,6s — RESPINGO REFRESCANTE\nUma onda poderosa de Coca-Cola se choca ao redor da garrafa. Gotículas em close cercam o produto enquanto a câmera avança rapidamente através do respingo.\n\n04 | 3,6–4,8s — ABERTURA E EFERVESCÊNCIA\nClose-up extremo do gargalo da garrafa de vidro e da tampa metálica. A tampa se solta com uma liberação realista de gás, criando pequenas bolhas e uma névoa refrescante.\n\n05 | 4,8–6,0s — MOVIMENTO DO LÍQUIDO\nO líquido escuro da Coca-Cola forma uma onda elegante e fluida ao redor da garrafa, criando um respingo dinâmico e escultural. Cubos de gelo e gotículas movem-se naturalmente pelo quadro.\n\n06 | 6,0–7,2s — SEQUÊNCIA DE GARRAFAS\nMúltiplas garrafas de Coca-Cola aparecem em diferentes profundidades, flutuando e girando no ambiente vermelho. Rastros de água e partículas de gelo acompanham o movimento, criando um visual publicitário premium e energético.\n\n07 | 7,2–8,6s — FORMAÇÃO HEROICA\nTrês garrafas de Coca-Cola convergem suavemente para uma composição de produto marcante. Uma garrafa permanece em destaque no primeiro plano, enquanto as outras estão posicionadas atrás. Condensação intensa, reflexos realistas e gotículas de água enfatizam a refrescância gelada.\n\n08 | 8,6–10s — IMAGEM FINAL DE DESTAQUE (HERO SHOT)\nImagem cinematográfica e limpa do produto em destaque: garrafas de Coca-Cola cobertas de gelo, cercadas por gotas de água em suspensão e um leve respingo de líquido da Coca-Cola. Fundo vermelho intenso e vibrante, reflexos de estúdio com brilho, iluminação de contorno (rim light) dramática. A câmera realiza um movimento suave de aproximação (push-in).\n\nPADRÃO DO PRODUTO: Preservar as proporções exatas da garrafa Contour da Coca-Cola, o design do rótulo vermelho, o logotipo/letreiro branco da Coca-Cola, a tipografia, a tampa metálica branco-prateada e a identidade geral da embalagem. Sem redesign, sem logotipo distorcido, sem erros de ortografia, sem rótulos duplicados, sem garrafas deformadas.\n\nESTILO VISUAL: Fotorrealista, comercial de bebida ultra-premium, detalhes em 8K, fotografia macro de alta velocidade, física de líquidos realista, condensação nítida, gelo cintilante, profundidade de campo cinematográfica, iluminação de estúdio dramática, reflexos realistas, atmosfera em tons de vermelho rico, movimento de câmera suave.\n\nPROMPT NEGATIVO: Logotipo borrado, garrafa distorcida, tipografia deformada, branding incorreto, logotipos extras, produtos deformados, física de líquidos irrealista, garrafas duplicadas fundindo-se, baixa resolução, visual de desenho animado, líquido com aspecto de plástico, marca d'água, artefatos de texto.",
+    "sourceRange": {
+      "start": 96,
+      "end": 3721
+    },
+    "translations": {
+      "zh": "创建一段9:16竖屏的10秒可口可乐高端商业广告，呈现8K逼真画质与高速宏观摄影。画面包含冰块撞击、水花飞溅、经典玻璃瓶亮相、开盖气泡喷发、流动液体环绕及最终三瓶聚合并推镜的特写，红色背景配戏剧化打光。",
+      "en": "Create a 10-second premium Coca-Cola commercial in 9:16 vertical format with 8K photorealistic quality and high-speed beverage cinematography. It features ice impacts, splashing, contour bottle reveals, cap release, dynamic fluid waves, and a final three-bottle hero shot against a rich red backdrop."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Coca-Cola brand and contour bottle trademark"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

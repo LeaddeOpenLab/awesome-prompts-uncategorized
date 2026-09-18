@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T02:33:21.488Z",
+  "model": "unknown-image",
+  "prompt": "A photorealistic portrait of Liza, a beautiful young woman with long wavy dark brown hair, standing on an elegant American street at golden hour. She faces the camera with a bright natural smile, one hand lightly touching her hair and the other resting near her hip. She wears a white long-sleeve blouse and high-waisted blue jeans. Warm sunrise light, long soft shadows, cafe awnings and classic buildings in the background, cinematic lighting, sharp details, natural skin, realistic photography.",
+  "promptTranslations": {
+    "en": "A photorealistic portrait of Liza, a beautiful young woman with long wavy dark brown hair, standing on an elegant American street at golden hour. She faces the camera with a bright natural smile, one hand lightly touching her hair and the other resting near her hip. She wears a white long-sleeve blouse and high-waisted blue jeans. Warm sunrise light, long soft shadows, cafe awnings and classic buildings in the background, cinematic lighting, sharp details, natural skin, realistic photography."
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic portrait of a young woman on an American street during golden hour."
+  },
+  "translationVersion": 2,
+  "summary": "Photorealistic portrait of a young woman on an American street during golden hour.",
+  "summaryEn": "Photorealistic portrait of a young woman on an American street during golden hour.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100759330815431128",
+    "canonicalUrl": "https://x.com/AiWithliza/status/2100759330815431128",
+    "author": {
+      "username": "AiWithliza",
+      "displayName": "Lizza",
+      "profileUrl": "https://x.com/AiWithliza"
+    },
+    "publishedAt": "2026-09-18T01:30:29.000Z",
+    "collectedAt": "2026-09-18T02:15:35.232Z",
+    "language": "en",
+    "originalText": "Liza’s golden morning on a quiet American street — warm sunrise, soft smile, fresh start 🌞\n\nPrompt:\n\nA photorealistic portrait of Liza, a beautiful young woman with long wavy dark brown hair, standing on an elegant American street at golden hour. She faces the camera with a bright natural smile, one hand lightly touching her hair and the other resting near her hip. She wears a white long-sleeve blouse and high-waisted blue jeans. Warm sunrise light, long soft shadows, cafe awnings and classic buildings in the background, cinematic lighting, sharp details, natural skin, realistic photography.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSdleGGaYAAKcVg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSdleGGaYAAKcVg.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 10,
+      "replyCount": 18,
+      "quoteCount": 1,
+      "viewCount": 429
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AiWithliza/status/2100759330815431128",
+  "coverUrl": "https://pbs.twimg.com/media/HSdleGGaYAAKcVg.jpg",
+  "coverPath": "images/2100759330815431128-1.jpg",
+  "imagePaths": [
+    "images/2100759330815431128-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSdleGGaYAAKcVg",
+    "x-post:2100759330815431128"
+  ],
+  "analysis": {
+    "summary": "Photorealistic portrait of a young woman on an American street during golden hour.",
+    "summaryEn": "Photorealistic portrait of a young woman on an American street during golden hour.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image accurately reflects woman's pose, hair, clothing, golden hour lighting, and street background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A photorealistic portrait of Liza, a beautiful young woman with long wavy dark brown hair, standing on an elegant American street at golden hour. She faces the camera with a bright natural smile, one hand lightly touching her hair and the other resting near her hip. She wears a white long-sleeve blouse and high-waisted blue jeans. Warm sunrise light, long soft shadows, cafe awnings and classic buildings in the background, cinematic lighting, sharp details, natural skin, realistic photography.",
+    "sourceRange": {
+      "start": 101,
+      "end": 598
+    },
+    "translations": {
+      "zh": "一张莉萨的逼真肖像摄影，她是一位留着深棕色波浪长发的美丽年轻女子，在黄金时段站在优雅的美国街头。她带着灿烂自然的微笑面对镜头，一只手轻抚头发，另一只手放在臀部附近。她身穿白色长袖衬衫和高腰蓝色牛仔裤。温暖的日出光线，柔和的修长阴影，背景有咖啡馆遮阳棚和经典建筑，电影感光影，清晰细节，自然肤质，写实摄影风格。",
+      "en": "A photorealistic portrait of Liza, a beautiful young woman with long wavy dark brown hair, standing on an elegant American street at golden hour. She faces the camera with a bright natural smile, one hand lightly touching her hair and the other resting near her hip. She wears a white long-sleeve blouse and high-waisted blue jeans. Warm sunrise light, long soft shadows, cafe awnings and classic buildings in the background, cinematic lighting, sharp details, natural skin, realistic photography."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI 人像摄影生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
