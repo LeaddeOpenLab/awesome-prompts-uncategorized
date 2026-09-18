@@ -89,13 +89,13 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımland�
 
 <a name="prompt-2100796631960670531"></a>
 
-### Çeviri sürüyor
+### Lüks iş KTV'sinde gerçekçi gece hayatı enstantane sahnesi; ana figür çakırkeyif genç bir kadın ve ona eşlik eden iş müşterileri, doğrudan telefon flaşı ve yüksek ISO dokusunu taklit eder.
 
 Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2100796631960670531)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Lüks iş KTV'sinde gerçekçi gece hayatı enstantane sahnesi; ana figür çakırkeyif genç bir kadın ve ona eşlik eden iş müşterileri, doğrudan telefon flaşı ve yüksek ISO dokusunu taklit eder.
 
 <img src="images/2100796631960670531-1.jpg" alt="Görsel 1" width="480" />
 
@@ -108,7 +108,7 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gerçekçi gece hayatı fotoğrafçılığı, 9:16 dikey format, lüks iş dünyası KTV özel odası, koyu renkli deri kanepe, siyah-altın mermer masa, mavi-mor neonla karışan sıcak altın ışık şeritleri, telefonun doğrudan flaşıyla çekilmiş anlık fotoğraf dokusu, hafif gren, gerçekçi cilt dokusu, hafif aşırı pozlama, yüksek ISO gece fotoğrafçılığı, 28mm yakın çekim lensi, kişisel albüm hissi, rastgele anlık çekim, stüdyo çekimi gibi görünmeyen bir tarz. Ana konu, 20'li yaşlarında yetişkin bir Doğu Asyalı kadın, zarif ve doğal makyaj, koyu renk uzun saç, şık bir gece elbisesi giymiş, doğal vücut hatları, rahat ve çakırkeyif bir yüz ifadesi. Odada ayrıca eğlenmeye gelmiş yaklaşık 30 ila 45 yaşlarında yetişkin erkek müşteriler bulunuyor; normal ofis çalışanı fiziğinden hafif kiloluya kadar, iş amaçlı gündelik kıyafet veya gömlek giymiş, ana konunun önüne geçmeyen tamamlayıcı karakterler olarak yer alıyorlar. Masada viski, cam bardaklar, buz kovası, meyve tabağı, atıştırmalıklar, mikrofonlar, peçeteler ve dağınık içki masası malzemeleri bulunuyor. Arka planda KTV ekranı, kanepeler ve diğer arkadaşlar yer alıyor; Çin'in lüks iş KTV'lerinin otantik gece hayatı atmosferini yansıtıyor. Karakterlerin yüz tipleri tamamen birbirinden farklıdır, kopyalanmış yüzlerden kaçınılmıştır, herkesin aynı yaş ve vücut tipinde olmasından kaçınılmıştır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -195,20 +195,20 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Araç · Şehir Manzarası /
 
 <a name="prompt-2100812124109091018"></a>
 
-### Çeviri sürüyor
+### Vogue editoryal estetiğinde, uçuşan yarı saydam beyaz kumaşlarla çevrili bir kadının ultra gerçekçi moda portresi.
 
 Yazar：[@arsalannazir07](https://x.com/arsalannazir07) · [Orijinal gönderi](https://x.com/arsalannazir07/status/2100812124109091018)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Vogue editoryal estetiğinde, uçuşan yarı saydam beyaz kumaşlarla çevrili bir kadının ultra gerçekçi moda portresi.
 
 <img src="images/2100812124109091018-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Uçuşan yarı saydam beyaz kumaşlarla çevrili güzel bir kadının ultra gerçekçi moda portresi, saçları doğal bir şekilde dalgalandıran yumuşak rüzgar, zarif beyaz kolsuz elbise, minimalist monokrom estetik, çerçeveyi saran havadar ipek kumaş, rüya gibi sinematik aydınlatma, yumuşak dağınık gün ışığı, lüks editoryal fotoğrafçılık, ruhani atmosfer, narin cilt dokusu, yumuşak gölgeler, yüksek moda Vogue tarzı, ortalanmış kompozisyon, temiz beyaz arka plan, zarif hareket, 85 mm lens, sığ alan derinliği, ultra ayrıntılı, birinci sınıf güzellik kampanyası, yumuşak mat tonlar, doğal yüz ifadesi, süzülen kumaş hareketi, sofistike feminen estetik
 ```
 
 [↑ Kategorilere dön](#catalog)

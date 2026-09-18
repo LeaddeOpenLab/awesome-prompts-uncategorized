@@ -89,13 +89,13 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2100796631960670531"></a>
 
-### Übersetzung läuft
+### Realistische Nachtleben-Schnappschussszene in einer gehobenen Business-KTV-Lounge, mit einer leicht angetrunkenen jungen Frau als Hauptmotiv und begleitenden Geschäftsherren, simuliert Smartphone-Direktblitz und High-ISO-Textur.
 
 Autor：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2100796631960670531)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistische Nachtleben-Schnappschussszene in einer gehobenen Business-KTV-Lounge, mit einer leicht angetrunkenen jungen Frau als Hauptmotiv und begleitenden Geschäftsherren, simuliert Smartphone-Direktblitz und High-ISO-Textur.
 
 <img src="images/2100796631960670531-1.jpg" alt="Bild 1" width="480" />
 
@@ -108,7 +108,7 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Realistische Nachtleben-Fotografie, 9:16 Hochformat, luxuriöse KTV-Geschäftsprivatlounge, dunkles Ledersofa, schwarz-goldener Marmortisch, warmgoldene Lichtstreifen gemischt mit blau-violettem Neonlicht, Schnappschuss-Textur mit direktem Smartphone-Blitz, leichtes Korn, echte Hauttextur, leichte Überbelichtung, Nachtfotografie mit hoher ISO, 28mm Nahaufnahme-Objektiv, Gefühl eines privaten Fotoalbums, zufälliger Schnappschuss, wirkt nicht wie eine Studioaufnahme. Hauptmotiv ist eine erwachsene ostasiatische Frau in den Zwanzigern, dezentes natürliches Make-up, langes dunkles Haar, trägt ein feines Club-Kleid, natürliche Figur, entspannter und leicht angetrunkener Gesichtsausdruck. Im Raum befinden sich zudem erwachsene männliche Kunden im Alter von etwa 30 bis 45 Jahren, mit normaler Bürofigur bis hin zu leicht korpulent, in Business-Casual oder Hemden gekleidet, als Begleitfiguren, die dem Hauptmotiv nicht die Show stehlen. Auf dem Tisch stehen Whisky, Gläser, ein Eiseimer, ein Obstteller, Snacks, Mikrofone, Papiertaschentücher und unordentliche Party-Utensilien. Im Hintergrund sind der KTV-Bildschirm, Sofas und andere Freunde zu sehen, die eine authentische Atmosphäre des gehobenen chinesischen Business-KTV-Nachtlebens schaffen. Die Gesichtsformen aller Personen sind unterschiedlich; keine kopierten Gesichter und kein identisches Alter oder Körpertyp bei allen Personen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -195,20 +195,20 @@ Fotografie · Porträt / Selfie · Charakter · Fahrzeug · Stadtbild / Straße 
 
 <a name="prompt-2100812124109091018"></a>
 
-### Übersetzung läuft
+### Ultrarealistisches Modeporträt einer Frau, umgeben von fließenden, durchscheinenden weißen Stoffen in einer Vogue-Editorial-Ästhetik.
 
 Autor：[@arsalannazir07](https://x.com/arsalannazir07) · [Originalbeitrag](https://x.com/arsalannazir07/status/2100812124109091018)
 
 Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultrarealistisches Modeporträt einer Frau, umgeben von fließenden, durchscheinenden weißen Stoffen in einer Vogue-Editorial-Ästhetik.
 
 <img src="images/2100812124109091018-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultrarealistisches Modeporträt einer wunderschönen Frau, umgeben von fließenden, durchscheinenden weißen Stoffen, sanfter Wind weht das Haar natürlich, elegantes weißes ärmelloses Kleid, minimalistische monochrome Ästhetik, luftiger Seidenstoff, der den Rahmen umhüllt, verträumte filmische Beleuchtung, weiches diffuses Tageslicht, luxuriöse Editorial-Fotografie, ätherische Atmosphäre, zarte Hauttextur, weiche Schatten, High-Fashion-Vogue-Stil, zentrierte Komposition, sauberer weißer Hintergrund, anmutige Bewegung, 85-mm-Objektiv, geringe Schärfentiefe, extrem detailliert, erstklassige Beauty-Kampagne, weiche matte Farbtöne, natürlicher Gesichtsausdruck, schwebende Stoffbewegung, anspruchsvolle feminine Ästhetik
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

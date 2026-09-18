@@ -89,13 +89,13 @@ Traducción en curso
 
 <a name="prompt-2100796631960670531"></a>
 
-### Traducción en curso
+### Escena de instantánea realista de vida nocturna en un KTV de negocios de alta gama, protagonizada por una joven achispada junto a clientes masculinos de negocios como acompañamiento, simulando el flash directo del móvil y la textura de alto ISO.
 
 Autor：[@boniusex](https://x.com/boniusex) · [Publicación original](https://x.com/boniusex/status/2100796631960670531)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escena de instantánea realista de vida nocturna en un KTV de negocios de alta gama, protagonizada por una joven achispada junto a clientes masculinos de negocios como acompañamiento, simulando el flash directo del móvil y la textura de alto ISO.
 
 <img src="images/2100796631960670531-1.jpg" alt="Imagen 1" width="480" />
 
@@ -108,7 +108,7 @@ Fotografía · Retrato / Selfie · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Fotografía realista de vida nocturna, formato vertical 9:16, sala privada de KTV de negocios de lujo, sofá de cuero oscuro, mesa de mármol negro y dorado, tira de luces doradas cálidas mezclada con neón azul y púrpura, textura de instantánea con flash directo de móvil, grano ligero, textura de piel real, ligera sobreexposición, fotografía nocturna con ISO alto, lente de 28 mm para primeros planos, sensación de álbum privado, instantánea espontánea, que no parezca de estudio. El sujeto principal es una mujer adulta de Asia oriental de unos 20 años, maquillaje fino y natural, pelo largo y oscuro, vestida con un sofisticado vestido de fiesta, cuerpo natural, expresión relajada y ligeramente achispada. En la sala también hay clientes masculinos adultos de entre 30 y 45 años aproximadamente, con complexión desde oficinista normal hasta ligeramente rellena, vistiendo ropa casual de negocios o camisas, actuando como personajes de fondo sin eclipsar al sujeto principal. En la mesa hay whisky, vasos de cristal, cubitera de hielo, plato de frutas, aperitivos, micrófonos, pañuelos de papel y restos desordenados de la fiesta. De fondo hay una pantalla de KTV, sofás y otros amigos, con la auténtica atmósfera de la vida nocturna de un KTV de negocios de alta gama en China. Las formas faciales de los personajes son todas diferentes, evitando caras duplicadas y evitando que todos tengan la misma edad y tipo de cuerpo.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -195,20 +195,20 @@ Traducción en curso
 
 <a name="prompt-2100812124109091018"></a>
 
-### Traducción en curso
+### Retrato de moda ultrarrealista de una mujer rodeada de telas blancas translúcidas y fluidas con una estética editorial de Vogue.
 
 Autor：[@arsalannazir07](https://x.com/arsalannazir07) · [Publicación original](https://x.com/arsalannazir07/status/2100812124109091018)
 
 Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato de moda ultrarrealista de una mujer rodeada de telas blancas translúcidas y fluidas con una estética editorial de Vogue.
 
 <img src="images/2100812124109091018-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato de moda ultrarrealista de una hermosa mujer rodeada de telas blancas translúcidas y fluidas, viento suave que ondea el cabello de forma natural, elegante vestido blanco sin mangas, estética minimalista monocromática, tela de seda etérea que envuelve el encuadre, iluminación cinematográfica de ensueño, luz diurna suave y difusa, fotografía editorial de lujo, atmósfera etérea, textura de piel delicada, sombras suaves, estilo de alta costura de Vogue, composición centrada, fondo blanco limpio, movimiento elegante, lente de 85 mm, profundidad de campo reducida, ultradetallado, campaña de belleza de primera calidad, tonos mate suaves, expresión facial natural, movimiento de tela flotante, estética femenina sofisticada
 ```
 
 [↑ Volver a categorías](#catalog)

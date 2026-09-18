@@ -89,13 +89,13 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 <a name="prompt-2100796631960670531"></a>
 
-### Đang dịch
+### Cảnh chụp nhanh cuộc sống ban đêm chân thực tại KTV doanh nhân cao cấp, nhân vật chính là cô gái trẻ hơi say cùng các khách nam doanh nhân phụ trợ, mô phỏng đèn flash trực tiếp của điện thoại và độ nhạy sáng ISO cao.
 
 Tác giả：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2100796631960670531)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh chụp nhanh cuộc sống ban đêm chân thực tại KTV doanh nhân cao cấp, nhân vật chính là cô gái trẻ hơi say cùng các khách nam doanh nhân phụ trợ, mô phỏng đèn flash trực tiếp của điện thoại và độ nhạy sáng ISO cao.
 
 <img src="images/2100796631960670531-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -108,7 +108,7 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nhiếp ảnh đời sống ban đêm chân thực, khổ dọc 9:16, phòng riêng KTV doanh nhân sang trọng, ghế sofa da sẫm màu, mặt bàn đá cẩm thạch đen vàng, dải đèn vàng ấm hòa cùng ánh đèn neon xanh tím, hiệu ứng chụp nhanh bằng đèn flash trực tiếp của điện thoại, hạt nhiễu nhẹ, vân da chân thực, hơi cháy sáng nhẹ, chụp ảnh đêm ISO cao, ống kính góc gần 28mm, cảm giác như ảnh trong album cá nhân, chụp khoảnh khắc ngẫu nhiên, không giống chụp trong studio. Nhân vật chính là một phụ nữ Đông Á trưởng thành ngoài 20 tuổi, trang điểm tinh tế tự nhiên, tóc dài sẫm màu, mặc váy đầm đi bar tinh tế, vóc dáng tự nhiên, biểu cảm thư thái hơi say men. Trong phòng còn có các khách nam trưởng thành khoảng 30 đến 45 tuổi đến giải trí, vóc dáng từ nhân viên văn phòng bình thường đến hơi mập mạp, mặc trang phục công sở thoải mái hoặc áo sơ mi, làm nhân vật nền không lấn át nhân vật chính. Trên bàn có rượu whisky, ly thủy tinh, xô đá, đĩa trái cây, đồ ăn vặt, micro, khăn giấy và các vật dụng bàn tiệc lộn xộn. Hậu cảnh có màn hình KTV, sofa và những người bạn khác, bầu không khí cuộc sống ban đêm KTV doanh nhân cao cấp thực tế của Trung Quốc. Khuôn mặt của các nhân vật đều khác nhau, tránh khuôn mặt sao chép, tránh mọi người cùng độ tuổi hoặc cùng vóc dáng.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -195,20 +195,20 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phương tiệ
 
 <a name="prompt-2100812124109091018"></a>
 
-### Đang dịch
+### Chân dung thời trang siêu thực của một người phụ nữ được bao quanh bởi lớp vải trắng mờ bồng bềnh mang đậm tính thẩm mỹ biên tập Vogue.
 
 Tác giả：[@arsalannazir07](https://x.com/arsalannazir07) · [Bài gốc](https://x.com/arsalannazir07/status/2100812124109091018)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung thời trang siêu thực của một người phụ nữ được bao quanh bởi lớp vải trắng mờ bồng bềnh mang đậm tính thẩm mỹ biên tập Vogue.
 
 <img src="images/2100812124109091018-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung thời trang siêu thực của một người phụ nữ xinh đẹp được bao quanh bởi dải vải trắng mờ bồng bềnh, làn gió nhẹ thổi tóc tự nhiên, chiếc váy trắng không tay thanh lịch, thẩm mỹ đơn sắc tối giản, vải lụa nhẹ nhàng quấn quanh khung hình, ánh sáng điện ảnh mơ màng, ánh sáng ban ngày khuếch tán mềm mại, nhiếp ảnh biên tập cao cấp, bầu không khí thanh tao, kết cấu da tinh tế, bóng đổ mềm mại, phong cách Vogue thời trang cao cấp, bố cục trung tâm, nền trắng sạch sẽ, chuyển động duyên dáng, ống kính 85mm, độ sâu trường ảnh nông, cực kỳ chi tiết, chiến dịch làm đẹp cao cấp, tông màu lì mềm mại, biểu cảm khuôn mặt tự nhiên, chuyển động vải bồng bềnh, thẩm mỹ nữ tính tinh tế
 ```
 
 [↑ Về danh mục](#catalog)

@@ -89,13 +89,13 @@ Traduction en cours
 
 <a name="prompt-2100796631960670531"></a>
 
-### Traduction en cours
+### Scène d'instantané nocturne réaliste dans un KTV d'affaires haut de gamme, avec pour sujet principal une jeune femme éméchée accompagnée de clients d'affaires en arrière-plan, simulant un flash direct de smartphone et une texture à ISO élevé.
 
 Auteur：[@boniusex](https://x.com/boniusex) · [Publication originale](https://x.com/boniusex/status/2100796631960670531)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Scène d'instantané nocturne réaliste dans un KTV d'affaires haut de gamme, avec pour sujet principal une jeune femme éméchée accompagnée de clients d'affaires en arrière-plan, simulant un flash direct de smartphone et une texture à ISO élevé.
 
 <img src="images/2100796631960670531-1.jpg" alt="Image 1" width="480" />
 
@@ -108,7 +108,7 @@ Photographie · Portrait / Selfie · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Photographie réaliste de vie nocturne, format vertical 9:16, salon privé de KTV d'affaires luxueux, canapé en cuir sombre, table en marbre noir et doré, ruban lumineux doré chaud mêlé à des néons bleu et violet, texture de cliché pris au flash direct de smartphone, léger grain, texture de peau réelle, légère surexposition, photographie de nuit à ISO élevé, objectif 28 mm pour plans rapprochés, sensation d'album photo personnel, instantané spontané, ne ressemble pas à une prise de vue en studio. Le sujet principal est une femme adulte d'Asie de l'Est dans la vingtaine, maquillage raffiné et naturel, longs cheveux sombres, vêtue d'une robe de soirée soignée, silhouette naturelle, expression détendue et légèrement éméchée. Sont également présents dans le salon des clients masculins adultes âgés d'environ 30 à 45 ans, à la corpulence allant de l'employé de bureau ordinaire à légèrement enveloppée, vêtus de tenues d'affaires décontractées ou de chemises, servant de personnages secondaires sans voler la vedette au sujet principal. Sur la table se trouvent du whisky, des verres, un seau à glace, un plateau de fruits, des snacks, des microphones, des mouchoirs en papier et des accessoires de soirée en désordre. En arrière-plan, on aperçoit l'écran du KTV, des canapés et d'autres amis, créant l'ambiance authentique de la vie nocturne des KTV d'affaires haut de gamme en Chine. Les traits du visage de chaque personnage sont tous différents, évitant les visages dupliqués, ainsi que les âges ou morphologies uniformes.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -195,20 +195,20 @@ Traduction en cours
 
 <a name="prompt-2100812124109091018"></a>
 
-### Traduction en cours
+### Portrait de mode ultra réaliste d'une femme entourée de tissu blanc translucide et fluide dans une esthétique éditoriale de Vogue.
 
 Auteur：[@arsalannazir07](https://x.com/arsalannazir07) · [Publication originale](https://x.com/arsalannazir07/status/2100812124109091018)
 
 Photographie · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait de mode ultra réaliste d'une femme entourée de tissu blanc translucide et fluide dans une esthétique éditoriale de Vogue.
 
 <img src="images/2100812124109091018-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait de mode ultra réaliste d'une belle femme entourée de tissu blanc translucide et fluide, vent doux soufflant naturellement dans les cheveux, élégante robe blanche sans manches, esthétique monochrome minimaliste, tissu en soie vaporeux enveloppant le cadre, éclairage cinématographique onirique, lumière du jour douce et diffuse, photographie éditoriale de luxe, atmosphère éthérée, texture de peau délicate, ombres douces, style haute couture Vogue, composition centrée, arrière-plan blanc épuré, mouvement gracieux, objectif 85 mm, faible profondeur de champ, ultra détaillé, campagne de beauté haut de gamme, tons mats doux, expression faciale naturelle, mouvement de tissu flottant, esthétique féminine sophistiquée
 ```
 
 [↑ Retour aux catégories](#catalog)
