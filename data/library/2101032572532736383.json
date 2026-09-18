@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T20:25:41.000Z",
+  "model": "grok",
+  "prompt": "Draw me a seductive picture of a digital mistress with the text ASSX",
+  "promptTranslations": {
+    "en": "Draw me a seductive picture of a digital mistress with the text ASSX"
+  },
+  "summaryTranslations": {
+    "en": "A seductive digital mistress illustration with text overlay."
+  },
+  "translationVersion": 2,
+  "summary": "A seductive digital mistress illustration with text overlay.",
+  "summaryEn": "A seductive digital mistress illustration with text overlay.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101032572532736383",
+    "canonicalUrl": "https://x.com/shroudspeeders/status/2101032572532736383",
+    "author": {
+      "username": "shroudspeeders",
+      "displayName": "Sats Nakamondo",
+      "profileUrl": "https://x.com/shroudspeeders"
+    },
+    "publishedAt": "2026-09-18T19:36:15.000Z",
+    "collectedAt": "2026-09-18T20:16:43.822Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nDraw me a seductive picture of a digital mistress with the text ASSX https://t.co/0hVBIDLJkA",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HShd_RUXEAA0zYp.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HShd_RUXEAA0zYp.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 11
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/shroudspeeders/status/2101032572532736383",
+  "coverUrl": "https://pbs.twimg.com/media/HShd_RUXEAA0zYp.jpg",
+  "coverPath": "images/2101032572532736383-1.jpg",
+  "imagePaths": [
+    "images/2101032572532736383-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HShd_RUXEAA0zYp",
+    "x-post:2101032572532736383"
+  ],
+  "analysis": {
+    "summary": "A seductive digital mistress illustration with text overlay.",
+    "summaryEn": "A seductive digital mistress illustration with text overlay.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image depicts a seductive stylized digital woman with the prominent overlay text ASSX."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Draw me a seductive picture of a digital mistress with the text ASSX",
+    "sourceRange": {
+      "start": 22,
+      "end": 90
+    },
+    "translations": {
+      "zh": "画一张富有魅力的数字化女主人诱人图片，并带有文字 ASSX",
+      "en": "Draw me a seductive picture of a digital mistress with the text ASSX"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "nsfw_suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

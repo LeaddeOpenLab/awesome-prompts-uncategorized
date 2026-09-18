@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T20:25:53.059Z",
+  "model": "unknown-image",
+  "prompt": "[animal] formado completamente por [material o fenómeno natural], anatomía realista, texturas detalladas, iluminación cinematográfica, fondo atmosférico, fotografía surrealista editorial, detalle extremo",
+  "promptTranslations": {
+    "en": "[animal] formed completely of [material or natural phenomenon], realistic anatomy, detailed textures, cinematic lighting, atmospheric background, editorial surrealist photography, extreme detail"
+  },
+  "summaryTranslations": {
+    "en": "Prompt template to generate animals composed entirely of materials or natural phenomena."
+  },
+  "translationVersion": 2,
+  "summary": "Plantilla de prompt para generar animales compuestos enteramente de materiales o fenómenos naturales.",
+  "summaryEn": "Prompt template for generating animals composed entirely of natural materials or phenomena.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101033686162427912",
+    "canonicalUrl": "https://x.com/hmontilla_/status/2101033686162427912",
+    "author": {
+      "username": "hmontilla_",
+      "displayName": "Henry M. | IA Práctica",
+      "profileUrl": "https://x.com/hmontilla_"
+    },
+    "publishedAt": "2026-09-18T19:40:40.000Z",
+    "collectedAt": "2026-09-18T20:16:43.822Z",
+    "language": "es",
+    "originalText": "PROMPT PARA GUARDAR #2 🐾✨\n\n¿Y si los animales estuvieran hechos de fenómenos naturales?\n\nPrompt:\n\n“[animal] formado completamente por [material o fenómeno natural], anatomía realista, texturas detalladas, iluminación cinematográfica, fondo atmosférico, fotografía surrealista editorial, detalle extremo”\n\n1️⃣ 🍂 Zorro de hojas\n2️⃣ 🌊 Ballena de océano\n3️⃣ 💎 Colibrí de cristal\n4️⃣ ⛈️ Elefante de tormenta\n\n¿Cuál elegirías como fondo de pantalla?",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HShdo96WEAAZl7D.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HShdo96WEAAZl7D.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HShdpMNWkAA2pa-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HShdpMNWkAA2pa-.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HShdo9wWMAAT0gc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HShdo9wWMAAT0gc.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HShdo9qXkAAWlLq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HShdo9qXkAAWlLq.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/hmontilla_/status/2101033686162427912",
+  "coverUrl": "https://pbs.twimg.com/media/HShdo96WEAAZl7D.jpg",
+  "coverPath": "images/2101033686162427912-1.jpg",
+  "imagePaths": [
+    "images/2101033686162427912-1.jpg",
+    "images/2101033686162427912-2.jpg",
+    "images/2101033686162427912-3.jpg",
+    "images/2101033686162427912-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HShdo96WEAAZl7D",
+    "x-image:/media/HShdpMNWkAA2pa-",
+    "x-image:/media/HShdo9wWMAAT0gc",
+    "x-image:/media/HShdo9qXkAAWlLq",
+    "x-post:2101033686162427912"
+  ],
+  "analysis": {
+    "summary": "Plantilla de prompt para generar animales compuestos enteramente de materiales o fenómenos naturales.",
+    "summaryEn": "Prompt template for generating animals composed entirely of natural materials or phenomena.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Las imágenes corresponden con precisión a las variantes sugeridas: zorro de hojas, ballena de agua oceánica, colibrí de cristal y elefante de tormenta eléctrica."
+    },
+    "videoQuality": null,
+    "originalPrompt": "[animal] formado completamente por [material o fenómeno natural], anatomía realista, texturas detalladas, iluminación cinematográfica, fondo atmosférico, fotografía surrealista editorial, detalle extremo",
+    "sourceRange": {
+      "start": 99,
+      "end": 302
+    },
+    "translations": {
+      "zh": "[动物]完全由[天然材料或自然现象]构成，写实解剖结构，细腻纹理，电影级光影，氛围背景，社论超现实摄影，极致细节",
+      "en": "[animal] formed entirely of [natural material or phenomenon], realistic anatomy, detailed textures, cinematic lighting, atmospheric background, editorial surrealist photography, extreme detail"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

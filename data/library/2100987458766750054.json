@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T20:25:35.122Z",
+  "model": "unknown-image",
+  "prompt": "A sleepy white rabbit curled into a patchwork quilt in a sunlit meadow of clover and daisies, soft pastel illustration with layered fabric-like textures, blush cream sage and butter-yellow palette, peaceful refreshing morning mood",
+  "promptTranslations": {
+    "en": "A sleepy white rabbit curled into a patchwork quilt in a sunlit meadow of clover and daisies, soft pastel illustration with layered fabric-like textures, blush cream sage and butter-yellow palette, peaceful refreshing morning mood"
+  },
+  "summaryTranslations": {
+    "en": "A sleepy white rabbit curled in a patchwork quilt within a sunlit daisy meadow."
+  },
+  "translationVersion": 2,
+  "summary": "A sleepy white rabbit curled in a patchwork quilt within a sunlit daisy meadow.",
+  "summaryEn": "A sleepy white rabbit curled in a patchwork quilt within a sunlit daisy meadow.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100987458766750054",
+    "canonicalUrl": "https://x.com/RenRose321/status/2100987458766750054",
+    "author": {
+      "username": "RenRose321",
+      "displayName": "Ren Rose 321",
+      "profileUrl": "https://x.com/RenRose321"
+    },
+    "publishedAt": "2026-09-18T16:36:59.000Z",
+    "collectedAt": "2026-09-18T20:16:43.822Z",
+    "language": "en",
+    "originalText": "Ai Art Prompt Share Party 🎨👇🏻 \n\nThread with more in the replies 😁👀👇🏻🧵 \n\nAffirmations to help keep us happy for the weekend 🥳 \n\nAffirmation:\nI can begin again softly.\n\nPrompt:\nA sleepy white rabbit curled into a patchwork quilt in a sunlit meadow of clover and daisies, soft pastel illustration with layered fabric-like textures, blush cream sage and butter-yellow palette, peaceful refreshing morning mood",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSg09GwW0AA3Nhf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSg09GwW0AA3Nhf.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 0,
+      "replyCount": 18,
+      "quoteCount": 1,
+      "viewCount": 416
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RenRose321/status/2100987458766750054",
+  "coverUrl": "https://pbs.twimg.com/media/HSg09GwW0AA3Nhf.jpg",
+  "coverPath": "images/2100987458766750054-1.jpg",
+  "imagePaths": [
+    "images/2100987458766750054-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSg09GwW0AA3Nhf",
+    "x-post:2100987458766750054"
+  ],
+  "analysis": {
+    "summary": "A sleepy white rabbit curled in a patchwork quilt within a sunlit daisy meadow.",
+    "summaryEn": "A sleepy white rabbit curled in a patchwork quilt within a sunlit daisy meadow.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image shows a sleeping white rabbit in a patchwork quilt surrounded by daisies and clover under morning sunlight, matching the prompt's subject and style."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A sleepy white rabbit curled into a patchwork quilt in a sunlit meadow of clover and daisies, soft pastel illustration with layered fabric-like textures, blush cream sage and butter-yellow palette, peaceful refreshing morning mood",
+    "sourceRange": {
+      "start": 175,
+      "end": 405
+    },
+    "translations": {
+      "zh": "一只沉睡的白兔蜷缩在阳光明媚的三叶草和雏菊草地的拼布被褥中，柔和粉彩插画，带有分层织物般质感，腮红粉、奶油色、鼠尾草绿与黄油黄调色板，宁静清新的清晨氛围",
+      "en": "A sleepy white rabbit curled into a patchwork quilt in a sunlit meadow of clover and daisies, soft pastel illustration with layered fabric-like textures, blush cream sage and butter-yellow palette, peaceful refreshing morning mood"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
