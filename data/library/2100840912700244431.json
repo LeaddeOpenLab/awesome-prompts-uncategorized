@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:35:34.661Z",
+  "model": "unknown-image",
+  "prompt": "[캐릭터 외형 프롬프트], photorealistic real-person interpretation, smartphone photo gallery screen showing a 3x3 grid of 9 candid photos of the same person, casual personal camera roll, each photo taken in a different everyday situation, outfit, pose, expression, and camera angle, mix of selfies, mirror selfies, and photos taken by someone else, imperfect handheld smartphone photography, ★noticeable natural motion blur, slightly missed focus(+natural motion blur from hand movement, imperfect autofocus, accidental snapshot)★, shaky +camera, accidental framing, uneven exposure, low-light grain, realistic phone camera noise, spontaneous unposed moments, authentic private photo album, consistent identity across all 9 photos, not professional photography, not studio shots.",
+  "promptTranslations": {
+    "en": "[Character appearance prompt], photorealistic real-person interpretation, smartphone photo gallery screen showing a 3x3 grid of 9 candid photos of the same person, casual personal camera roll, each photo taken in a different everyday situation, outfit, pose, expression, and camera angle, mix of selfies, mirror selfies, and photos taken by someone else, imperfect handheld smartphone photography, ★noticeable natural motion blur, slightly missed focus(+natural motion blur from hand movement, imperfect autofocus, accidental snapshot)★, shaky +camera, accidental framing, uneven exposure, low-light grain, realistic phone camera noise, spontaneous unposed moments, authentic private photo album, consistent identity across all 9 photos, not professional photography, not studio shots."
+  },
+  "summaryTranslations": {
+    "en": "A prompt template for generating a 3x3 grid smartphone daily candid photo gallery."
+  },
+  "translationVersion": 2,
+  "summary": "3x3 격자의 스마트폰 일상 캔디드 사진 갤러리를 생성하기 위한 프롬프트 템플릿입니다.",
+  "summaryEn": "A prompt template for generating a 3x3 smartphone camera roll grid of candid, unposed photos.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100840912700244431",
+    "canonicalUrl": "https://x.com/OiCLhoXau40xUBx/status/2100840912700244431",
+    "author": {
+      "username": "OiCLhoXau40xUBx",
+      "displayName": "코링고",
+      "profileUrl": "https://x.com/OiCLhoXau40xUBx"
+    },
+    "publishedAt": "2026-09-18T06:54:39.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "ko",
+    "originalText": "((GPT 일 시키기))\n\n★Candid Camera Roll 3×3 Prompt\n\n⚠️요즘 이 프롬프트가 유행하는 것 같은데, 정확한 명령어를 몰라 그냥 제 스타일대로 자체 제작해봤습니다. AI가 좀 더 명확하게 인식하도록 구체적이고 강하게 다듬어두었으니, 참고해서 연성해보세요.\n\n---\n\n+GPT가 샘플로 참고할 외형 이미지 하나 첨부할 것.\n\n[캐릭터 외형 프롬프트], photorealistic real-person interpretation, smartphone photo gallery screen showing a 3x3 grid of 9 candid photos of the same person, casual personal camera roll, each photo taken in a different everyday situation, outfit, pose, expression, and camera angle, mix of selfies, mirror selfies, and photos taken by someone else, imperfect handheld smartphone photography, ★noticeable natural motion blur, slightly missed focus(+natural motion blur from hand movement, imperfect autofocus, accidental snapshot)★, shaky +camera, accidental framing, uneven exposure, low-light grain, realistic phone camera noise, spontaneous unposed moments, authentic private photo album, consistent identity across all 9 photos, not professional photography, not studio shots.  / 이대로 이미지 출력.\n\n---",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSetjTlagAAFy90.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSetjTlagAAFy90.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSevZgnawAAEEq-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSevZgnawAAEEq-.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSevbUVbEAAJYIg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSevbUVbEAAJYIg.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSevcWOaEAAumb8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSevcWOaEAAumb8.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 6,
+      "replyCount": 0,
+      "quoteCount": 2,
+      "viewCount": 372
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/OiCLhoXau40xUBx/status/2100840912700244431",
+  "coverUrl": "https://pbs.twimg.com/media/HSetjTlagAAFy90.jpg",
+  "coverPath": "images/2100840912700244431-1.jpg",
+  "imagePaths": [
+    "images/2100840912700244431-1.jpg",
+    "images/2100840912700244431-2.jpg",
+    "images/2100840912700244431-3.jpg",
+    "images/2100840912700244431-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSetjTlagAAFy90",
+    "x-image:/media/HSevZgnawAAEEq-",
+    "x-image:/media/HSevbUVbEAAJYIg",
+    "x-image:/media/HSevcWOaEAAumb8",
+    "x-post:2100840912700244431"
+  ],
+  "analysis": {
+    "summary": "3x3 격자의 스마트폰 일상 캔디드 사진 갤러리를 생성하기 위한 프롬프트 템플릿입니다.",
+    "summaryEn": "A prompt template for generating a 3x3 smartphone camera roll grid of candid, unposed photos.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The prompt precisely details the 3x3 smartphone camera roll format, casual selfie angles, and motion blur seen in the attached gallery images."
+    },
+    "videoQuality": null,
+    "originalPrompt": "[캐릭터 외형 프롬프트], photorealistic real-person interpretation, smartphone photo gallery screen showing a 3x3 grid of 9 candid photos of the same person, casual personal camera roll, each photo taken in a different everyday situation, outfit, pose, expression, and camera angle, mix of selfies, mirror selfies, and photos taken by someone else, imperfect handheld smartphone photography, ★noticeable natural motion blur, slightly missed focus(+natural motion blur from hand movement, imperfect autofocus, accidental snapshot)★, shaky +camera, accidental framing, uneven exposure, low-light grain, realistic phone camera noise, spontaneous unposed moments, authentic private photo album, consistent identity across all 9 photos, not professional photography, not studio shots.",
+    "sourceRange": {
+      "start": 196,
+      "end": 965
+    },
+    "translations": {
+      "zh": "[角色外观提示词]，逼真真人演绎，智能手机照片图库屏幕显示同一个人在不同日常情境下的3x3九宫格抓拍相册，包含自拍、镜面自拍与他人拍摄，带自然动态模糊与真实手机噪点。",
+      "en": "[Character appearance prompt], photorealistic real-person interpretation, smartphone photo gallery screen showing a 3x3 grid of 9 candid photos of the same person, casual camera roll with natural motion blur and phone noise."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

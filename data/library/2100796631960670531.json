@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:36:22.963Z",
+  "model": "unknown-image",
+  "prompt": "写实夜生活摄影，9:16 竖幅，豪华商务 KTV 私人包厢，深色皮质沙发，黑金大理石桌面，暖金灯带混合蓝紫霓虹，手机直闪抓拍质感，轻微颗粒，真实皮肤纹理，轻微过曝，高 ISO 夜间摄影，28mm 近距离镜头，私人相册感，随机抓拍，不看起来像棚拍。 画面主体为 20 多岁成年东亚女性，精致自然妆，深色长发，穿精致夜店连衣裙，身材自然，表情放松微醺。包厢内同时存在来消费的成年男性客人，约 30 到 45 岁，普通办公室体型到微胖，商务休闲或衬衫穿搭，作为陪衬人物，不抢主体。 桌上有威士忌、玻璃杯、冰桶、水果盘、零食、麦克风、纸巾和杂乱酒局用品。背景有 KTV 屏幕、沙发和其他朋友，真实中国高端商务 KTV 夜生活氛围。人物脸型全部不同，避免复制脸，避免所有人同年龄同体型。",
+  "promptTranslations": {
+    "en": "Realistic nightlife photography, 9:16 vertical ratio, luxury business KTV private room, dark leather sofa, black-and-gold marble tabletop, warm gold LED strip lighting mixed with blue-purple neon, phone direct-flash candid snapshot texture, slight grain, realistic skin texture, slight overexposure, high ISO night photography, 28mm close-range lens, private photo album feel, spontaneous candid shot, does not look like a studio shoot. The main subject is an adult East Asian woman in her 20s, with delicate natural makeup, long dark hair, wearing an exquisite club dress, natural body shape, with a relaxed, slightly tipsy expression. In the private room, there are also adult male paying guests, around 30 to 45 years old, average office build to slightly chubby, dressed in business casual or button-up shirts, acting as secondary background figures without overshadowing the main subject. On the table are whiskey, glass tumblers, an ice bucket, a fruit platter, snacks, microphones, tissues, and messy party drinking supplies. In the background are the KTV screen, sofas, and other friends, capturing an authentic Chinese high-end business KTV nightlife atmosphere. All characters have distinct face shapes, avoiding cloned faces, and avoiding having everyone of the same age and body type."
+  },
+  "summaryTranslations": {
+    "en": "Authentic snapshot scene of high-end business KTV nightlife, featuring a slightly tipsy young woman as the main subject and business male guests as supporting characters, simulating phone direct-flash and high ISO texture."
+  },
+  "translationVersion": 2,
+  "summary": "高端商务 KTV 真实夜生活抓拍场景，主体为微醺年轻女性与陪衬商务男客，模拟手机直闪与高 ISO 质感。",
+  "summaryEn": "Candid realistic nightlife photography prompt in a luxury KTV private room, featuring a tipsy young woman alongside supporting business male guests with direct-flash and high-ISO aesthetic.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100796631960670531",
+    "canonicalUrl": "https://x.com/boniusex/status/2100796631960670531",
+    "author": {
+      "username": "boniusex",
+      "displayName": "王大锤",
+      "profileUrl": "https://x.com/boniusex"
+    },
+    "publishedAt": "2026-09-18T03:58:42.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "zh",
+    "originalText": "prompt：写实夜生活摄影，9:16 竖幅，豪华商务 KTV 私人包厢，深色皮质沙发，黑金大理石桌面，暖金灯带混合蓝紫霓虹，手机直闪抓拍质感，轻微颗粒，真实皮肤纹理，轻微过曝，高 ISO 夜间摄影，28mm 近距离镜头，私人相册感，随机抓拍，不看起来像棚拍。 画面主体为 20 多岁成年东亚女性，精致自然妆，深色长发，穿精致夜店连衣裙，身材自然，表情放松微醺。包厢内同时存在来消费的成年男性客人，约 30 到 45 岁，普通办公室体型到微胖，商务休闲或衬衫穿搭，作为陪衬人物，不抢主体。 桌上有威士忌、玻璃杯、冰桶、水果盘、零食、麦克风、纸巾和杂乱酒局用品。背景有 KTV 屏幕、沙发和其他朋友，真实中国高端商务 KTV 夜生活氛围。人物脸型全部不同，避免复制脸，避免所有人同年龄同体型。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWhu9ZbMAMHAOu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWhu9ZbMAMHAOu.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWh3CQbMAAseDN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWh3CQbMAAseDN.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWh6fFbMAAFXhc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWh6fFbMAAFXhc.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSWh_vPagAACFMA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSWh_vPagAACFMA.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 41,
+      "repostCount": 5,
+      "replyCount": 6,
+      "quoteCount": 1,
+      "viewCount": 10344
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/boniusex/status/2100796631960670531",
+  "coverUrl": "https://pbs.twimg.com/media/HSWhu9ZbMAMHAOu.jpg",
+  "coverPath": "images/2100796631960670531-1.jpg",
+  "imagePaths": [
+    "images/2100796631960670531-1.jpg",
+    "images/2100796631960670531-2.jpg",
+    "images/2100796631960670531-3.jpg",
+    "images/2100796631960670531-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSWhu9ZbMAMHAOu",
+    "x-image:/media/HSWh3CQbMAAseDN",
+    "x-image:/media/HSWh6fFbMAAFXhc",
+    "x-image:/media/HSWh_vPagAACFMA",
+    "x-post:2100796631960670531"
+  ],
+  "analysis": {
+    "summary": "高端商务 KTV 真实夜生活抓拍场景，主体为微醺年轻女性与陪衬商务男客，模拟手机直闪与高 ISO 质感。",
+    "summaryEn": "Candid realistic nightlife photography prompt in a luxury KTV private room, featuring a tipsy young woman alongside supporting business male guests with direct-flash and high-ISO aesthetic.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均精确展示了豪华KTV包厢场景、直闪微醺成年女性、中年男性商务客人、黑金大理石桌面上的酒水冰桶以及高ISO颗粒夜拍质感，与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "写实夜生活摄影，9:16 竖幅，豪华商务 KTV 私人包厢，深色皮质沙发，黑金大理石桌面，暖金灯带混合蓝紫霓虹，手机直闪抓拍质感，轻微颗粒，真实皮肤纹理，轻微过曝，高 ISO 夜间摄影，28mm 近距离镜头，私人相册感，随机抓拍，不看起来像棚拍。 画面主体为 20 多岁成年东亚女性，精致自然妆，深色长发，穿精致夜店连衣裙，身材自然，表情放松微醺。包厢内同时存在来消费的成年男性客人，约 30 到 45 岁，普通办公室体型到微胖，商务休闲或衬衫穿搭，作为陪衬人物，不抢主体。 桌上有威士忌、玻璃杯、冰桶、水果盘、零食、麦克风、纸巾和杂乱酒局用品。背景有 KTV 屏幕、沙发和其他朋友，真实中国高端商务 KTV 夜生活氛围。人物脸型全部不同，避免复制脸，避免所有人同年龄同体型。",
+    "sourceRange": {
+      "start": 7,
+      "end": 345
+    },
+    "translations": {
+      "zh": "写实夜生活摄影，9:16 竖幅，豪华商务 KTV 私人包厢，深色皮质沙发，黑金大理石桌面，暖金灯带混合蓝紫霓虹，手机直闪抓拍质感，轻微颗粒，真实皮肤纹理，轻微过曝，高 ISO 夜间摄影，28mm 近距离镜头，私人相册感，随机抓拍，不看起来像棚拍。 画面主体为 20 多岁成年东亚女性，精致自然妆，深色长发，穿精致夜店连衣裙，身材自然，表情放松微醺。包厢内同时存在来消费的成年男性客人，约 30 到 45 岁，普通办公室体型到微胖，商务休闲或衬衫穿搭，作为陪衬人物，不抢主体。 桌上有威士忌、玻璃杯、冰桶、水果盘、零食、麦克风、纸巾和杂乱酒局用品。背景有 KTV 屏幕、沙发和其他朋友，真实中国高端商务 KTV 夜生活氛围。人物脸型全部不同，避免复制脸，避免所有人同年龄同体型。",
+      "en": "Realistic nightlife photography, 9:16 vertical aspect ratio, private luxury business KTV room, dark leather sofa, black-and-gold marble tabletop, warm gold light strips mixed with blue-purple neon, phone direct-flash candid snapshot aesthetic, slight film grain, authentic skin texture, slight overexposure, high-ISO night photography, 28mm close-up lens, personal photo album feel, spontaneous snapshot, doesn't look staged or studio-shot. Main subject is a 20-something adult East Asian woman, delicate natural makeup, dark long hair, wearing an elegant club dress, natural body shape, relaxed and tipsy expression. Also present in the room are paying adult male customers, around 30 to 45 years old, average office to slightly chubby build, dressed in business casual or button-up shirts, acting as background supporting figures without overshadowing the main subject. The table holds whisky, glassware, ice bucket, fruit platter, snacks, microphones, tissues, and messy party essentials. In the background are KTV screens, sofas, and other friends, authentic Chinese high-end business KTV nightlife vibe. All face shapes are distinct, avoiding duplicate faces, avoiding same age and body types across characters."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "商务KTV写实夜生活人像抓拍",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

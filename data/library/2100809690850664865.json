@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:37:05.098Z",
+  "model": "wan",
+  "prompt": "Create a 30-second ultra-realistic open-world GANGSTER gameplay cinematic featuring two rival street gangs fighting in a gritty modern city at night. Make the entire video feel like a trending AAA gameplay recording, as if a player is actively controlling the main character.\n\nGAMEPLAY SCREEN / HUD — VERY IMPORTANT:\nAdd a polished, original modern gameplay interface that stays visible naturally throughout the video:\n\nTop-left: small circular character portrait + green HEALTH BAR and blue STAMINA BAR\n\nTop-right: compact MISSION OBJECTIVE panel\n\nBottom-left: detailed MINIMAP, circular radar, player arrow, enemy indicators, nearby vehicle icons and objective marker\n\nBottom-right: transparent action-button icons for punch, dodge, sprint, interact and crouch\n\nCenter: small dynamic crosshair/aim indicator when appropriate\n\nEnemy targets: red diamond markers above hostile characters\n\nTeammates: blue/green indicators above friendly characters\n\nCombat feedback: subtle hit indicator, combo counter and XP/reward notification\n\nMission notifications: sleek pop-up messages such as “RIVAL GANG DETECTED”, “SURVIVE THE AMBUSH”, and “BOSS FIGHT INCOMING”\n\nAdd subtle controller-style button prompts when the player approaches objects or enemies\n\nHUD should be semi-transparent, futuristic and minimal, integrated naturally into the scene rather than covering the action.\n\nUI animations should feel responsive: icons pulse, objectives update, health decreases realistically, enemy markers move with characters.\n\nMake the interface original and not an exact recreation of any existing game UI.\n\n0–5 SEC — RIVAL GANG DETECTED\n\nThird-person camera follows the protagonist walking through a neon-lit city street.\n\nHUD:\nMinimap activates → several red enemy markers appear → objective panel displays:\n\nMISSION\nRIVAL GANG DETECTED\n\nAn enemy warning icon flashes briefly.\n\n5–10 SEC — STREET FIGHT\n\nA rival gangster attacks. The player-controlled protagonist blocks, dodges and counterattacks.\n\nShow bottom-right action icons responding to the player's movements. Red enemy markers appear above opponents. Add a small COMBO ×3 indicator after consecutive successful moves.\n\n10–15 SEC — CHAOS\n\nThe fight spreads across the street. Gang members run between cars and barriers.\n\nThe minimap becomes crowded with moving red and blue indicators.\n\nOBJECTIVE UPDATED:\nSURVIVE THE AMBUSH\n\nAdd subtle screen shake and damage feedback when the protagonist gets hit.\n\n15–20 SEC — SLOW-MOTION COUNTER\n\nThe protagonist becomes surrounded. Gameplay suddenly enters dramatic slow motion.\n\nA DODGE prompt appears near the bottom-right controls. He dodges an incoming attack and performs a counterattack.\n\nThe HUD smoothly returns to normal speed.\n\n20–26 SEC — GANG WAR\n\nBoth gangs charge toward each other.\n\nThe protagonist runs through the battlefield while teammates fight alongside him.\n\nOBJECTIVE:\nDEFEAT THE RIVAL GANG\n\nShow dynamic enemy markers, teammate indicators, minimap movement, stamina depletion while sprinting, and realistic combat feedback.\n\n26–30 SEC — BOSS FIGHT\n\nA black SUV arrives. The rival gang leader steps out.\n\nAll enemy indicators converge around him.\n\nA dramatic BOSS HEALTH BAR appears across the top-center:\n\nRIVAL GANG LEADER\n████████████████████\n\nThen a large original gameplay notification appears:\n\n⚠ BOSS FIGHT INCOMING\n\nThe protagonist raises his fists. Camera moves behind him into a classic third-person gameplay position.\n\nCUT TO BLACK.",
+  "promptTranslations": {
+    "en": "Create a 30-second ultra-realistic open-world GANGSTER gameplay cinematic featuring two rival street gangs fighting in a gritty modern city at night. Make the entire video feel like a trending AAA gameplay recording, as if a player is actively controlling the main character.\n\nGAMEPLAY SCREEN / HUD — VERY IMPORTANT:\nAdd a polished, original modern gameplay interface that stays visible naturally throughout the video:\n\nTop-left: small circular character portrait + green HEALTH BAR and blue STAMINA BAR\n\nTop-right: compact MISSION OBJECTIVE panel\n\nBottom-left: detailed MINIMAP, circular radar, player arrow, enemy indicators, nearby vehicle icons and objective marker\n\nBottom-right: transparent action-button icons for punch, dodge, sprint, interact and crouch\n\nCenter: small dynamic crosshair/aim indicator when appropriate\n\nEnemy targets: red diamond markers above hostile characters\n\nTeammates: blue/green indicators above friendly characters\n\nCombat feedback: subtle hit indicator, combo counter and XP/reward notification\n\nMission notifications: sleek pop-up messages such as “RIVAL GANG DETECTED”, “SURVIVE THE AMBUSH”, and “BOSS FIGHT INCOMING”\n\nAdd subtle controller-style button prompts when the player approaches objects or enemies\n\nHUD should be semi-transparent, futuristic and minimal, integrated naturally into the scene rather than covering the action.\n\nUI animations should feel responsive: icons pulse, objectives update, health decreases realistically, enemy markers move with characters.\n\nMake the interface original and not an exact recreation of any existing game UI.\n\n0–5 SEC — RIVAL GANG DETECTED\n\nThird-person camera follows the protagonist walking through a neon-lit city street.\n\nHUD:\nMinimap activates → several red enemy markers appear → objective panel displays:\n\nMISSION\nRIVAL GANG DETECTED\n\nAn enemy warning icon flashes briefly.\n\n5–10 SEC — STREET FIGHT\n\nA rival gangster attacks. The player-controlled protagonist blocks, dodges and counterattacks.\n\nShow bottom-right action icons responding to the player's movements. Red enemy markers appear above opponents. Add a small COMBO ×3 indicator after consecutive successful moves.\n\n10–15 SEC — CHAOS\n\nThe fight spreads across the street. Gang members run between cars and barriers.\n\nThe minimap becomes crowded with moving red and blue indicators.\n\nOBJECTIVE UPDATED:\nSURVIVE THE AMBUSH\n\nAdd subtle screen shake and damage feedback when the protagonist gets hit.\n\n15–20 SEC — SLOW-MOTION COUNTER\n\nThe protagonist becomes surrounded. Gameplay suddenly enters dramatic slow motion.\n\nA DODGE prompt appears near the bottom-right controls. He dodges an incoming attack and performs a counterattack.\n\nThe HUD smoothly returns to normal speed.\n\n20–26 SEC — GANG WAR\n\nBoth gangs charge toward each other.\n\nThe protagonist runs through the battlefield while teammates fight alongside him.\n\nOBJECTIVE:\nDEFEAT THE RIVAL GANG\n\nShow dynamic enemy markers, teammate indicators, minimap movement, stamina depletion while sprinting, and realistic combat feedback.\n\n26–30 SEC — BOSS FIGHT\n\nA black SUV arrives. The rival gang leader steps out.\n\nAll enemy indicators converge around him.\n\nA dramatic BOSS HEALTH BAR appears across the top-center:\n\nRIVAL GANG LEADER\n████████████████████\n\nThen a large original gameplay notification appears:\n\n⚠ BOSS FIGHT INCOMING\n\nThe protagonist raises his fists. Camera moves behind him into a classic third-person gameplay position.\n\nCUT TO BLACK."
+  },
+  "summaryTranslations": {
+    "en": "30-second realistic AAA gangster gameplay combat video prompt, featuring a complete HUD and timeline-based street brawl with a boss entrance."
+  },
+  "translationVersion": 2,
+  "summary": "30秒拟真3A级黑帮实机战斗视频提示词，包含完整HUD与按时间线展开的街头格斗与Boss登场过程。",
+  "summaryEn": "Prompt for a 30-second AAA gangster gameplay cinematic featuring functional HUD overlays and a timeline-based combat encounter.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100809690850664865",
+    "canonicalUrl": "https://x.com/Inshrah_ali_/status/2100809690850664865",
+    "author": {
+      "username": "Inshrah_ali_",
+      "displayName": "Ai Girllie",
+      "profileUrl": "https://x.com/Inshrah_ali_"
+    },
+    "publishedAt": "2026-09-18T04:50:36.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "en",
+    "originalText": "The gameplay is getting way too realistic. 🎮🔥\nWould you survive this mission?\n\nWan 3.0 on @budgetpixel  is absolute amazing ❤️ \n\nPrompt :\nCreate a 30-second ultra-realistic open-world GANGSTER gameplay cinematic featuring two rival street gangs fighting in a gritty modern city at night. Make the entire video feel like a trending AAA gameplay recording, as if a player is actively controlling the main character.\n\nGAMEPLAY SCREEN / HUD — VERY IMPORTANT:\nAdd a polished, original modern gameplay interface that stays visible naturally throughout the video:\n\nTop-left: small circular character portrait + green HEALTH BAR and blue STAMINA BAR\n\nTop-right: compact MISSION OBJECTIVE panel\n\nBottom-left: detailed MINIMAP, circular radar, player arrow, enemy indicators, nearby vehicle icons and objective marker\n\nBottom-right: transparent action-button icons for punch, dodge, sprint, interact and crouch\n\nCenter: small dynamic crosshair/aim indicator when appropriate\n\nEnemy targets: red diamond markers above hostile characters\n\nTeammates: blue/green indicators above friendly characters\n\nCombat feedback: subtle hit indicator, combo counter and XP/reward notification\n\nMission notifications: sleek pop-up messages such as “RIVAL GANG DETECTED”, “SURVIVE THE AMBUSH”, and “BOSS FIGHT INCOMING”\n\nAdd subtle controller-style button prompts when the player approaches objects or enemies\n\nHUD should be semi-transparent, futuristic and minimal, integrated naturally into the scene rather than covering the action.\n\nUI animations should feel responsive: icons pulse, objectives update, health decreases realistically, enemy markers move with characters.\n\nMake the interface original and not an exact recreation of any existing game UI.\n\n0–5 SEC — RIVAL GANG DETECTED\n\nThird-person camera follows the protagonist walking through a neon-lit city street.\n\nHUD:\nMinimap activates → several red enemy markers appear → objective panel displays:\n\nMISSION\nRIVAL GANG DETECTED\n\nAn enemy warning icon flashes briefly.\n\n5–10 SEC — STREET FIGHT\n\nA rival gangster attacks. The player-controlled protagonist blocks, dodges and counterattacks.\n\nShow bottom-right action icons responding to the player's movements. Red enemy markers appear above opponents. Add a small COMBO ×3 indicator after consecutive successful moves.\n\n10–15 SEC — CHAOS\n\nThe fight spreads across the street. Gang members run between cars and barriers.\n\nThe minimap becomes crowded with moving red and blue indicators.\n\nOBJECTIVE UPDATED:\nSURVIVE THE AMBUSH\n\nAdd subtle screen shake and damage feedback when the protagonist gets hit.\n\n15–20 SEC — SLOW-MOTION COUNTER\n\nThe protagonist becomes surrounded. Gameplay suddenly enters dramatic slow motion.\n\nA DODGE prompt appears near the bottom-right controls. He dodges an incoming attack and performs a counterattack.\n\nThe HUD smoothly returns to normal speed.\n\n20–26 SEC — GANG WAR\n\nBoth gangs charge toward each other.\n\nThe protagonist runs through the battlefield while teammates fight alongside him.\n\nOBJECTIVE:\nDEFEAT THE RIVAL GANG\n\nShow dynamic enemy markers, teammate indicators, minimap movement, stamina depletion while sprinting, and realistic combat feedback.\n\n26–30 SEC — BOSS FIGHT\n\nA black SUV arrives. The rival gang leader steps out.\n\nAll enemy indicators converge around him.\n\nA dramatic BOSS HEALTH BAR appears across the top-center:\n\nRIVAL GANG LEADER\n████████████████████\n\nThen a large original gameplay notification appears:\n\n⚠ BOSS FIGHT INCOMING\n\nThe protagonist raises his fists. Camera moves behind him into a classic third-person gameplay position.\n\nCUT TO BLACK.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Inshrah_ali_/status/2100809690850664865",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100809599503003648/img/TRRCs14lWqMQLiwP.jpg",
+        "analysisUrl": "https://x.com/Inshrah_ali_/status/2100809690850664865"
+      }
+    ],
+    "metrics": {
+      "likeCount": 84,
+      "repostCount": 3,
+      "replyCount": 26,
+      "quoteCount": 1,
+      "viewCount": 548
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Inshrah_ali_/status/2100809690850664865",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100809599503003648/img/TRRCs14lWqMQLiwP.jpg",
+  "coverPath": "covers/2100809690850664865.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100809599503003648",
+    "x-post:2100809690850664865"
+  ],
+  "analysis": {
+    "summary": "30秒拟真3A级黑帮实机战斗视频提示词，包含完整HUD与按时间线展开的街头格斗与Boss登场过程。",
+    "summaryEn": "Prompt for a 30-second AAA gangster gameplay cinematic featuring functional HUD overlays and a timeline-based combat encounter.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video closely reflects the timing, camera perspectives, street setting, hand-to-hand combat, and precise HUD elements specified in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a 30-second ultra-realistic open-world GANGSTER gameplay cinematic featuring two rival street gangs fighting in a gritty modern city at night. Make the entire video feel like a trending AAA gameplay recording, as if a player is actively controlling the main character.\n\nGAMEPLAY SCREEN / HUD — VERY IMPORTANT:\nAdd a polished, original modern gameplay interface that stays visible naturally throughout the video:\n\nTop-left: small circular character portrait + green HEALTH BAR and blue STAMINA BAR\n\nTop-right: compact MISSION OBJECTIVE panel\n\nBottom-left: detailed MINIMAP, circular radar, player arrow, enemy indicators, nearby vehicle icons and objective marker\n\nBottom-right: transparent action-button icons for punch, dodge, sprint, interact and crouch\n\nCenter: small dynamic crosshair/aim indicator when appropriate\n\nEnemy targets: red diamond markers above hostile characters\n\nTeammates: blue/green indicators above friendly characters\n\nCombat feedback: subtle hit indicator, combo counter and XP/reward notification\n\nMission notifications: sleek pop-up messages such as “RIVAL GANG DETECTED”, “SURVIVE THE AMBUSH”, and “BOSS FIGHT INCOMING”\n\nAdd subtle controller-style button prompts when the player approaches objects or enemies\n\nHUD should be semi-transparent, futuristic and minimal, integrated naturally into the scene rather than covering the action.\n\nUI animations should feel responsive: icons pulse, objectives update, health decreases realistically, enemy markers move with characters.\n\nMake the interface original and not an exact recreation of any existing game UI.\n\n0–5 SEC — RIVAL GANG DETECTED\n\nThird-person camera follows the protagonist walking through a neon-lit city street.\n\nHUD:\nMinimap activates → several red enemy markers appear → objective panel displays:\n\nMISSION\nRIVAL GANG DETECTED\n\nAn enemy warning icon flashes briefly.\n\n5–10 SEC — STREET FIGHT\n\nA rival gangster attacks. The player-controlled protagonist blocks, dodges and counterattacks.\n\nShow bottom-right action icons responding to the player's movements. Red enemy markers appear above opponents. Add a small COMBO ×3 indicator after consecutive successful moves.\n\n10–15 SEC — CHAOS\n\nThe fight spreads across the street. Gang members run between cars and barriers.\n\nThe minimap becomes crowded with moving red and blue indicators.\n\nOBJECTIVE UPDATED:\nSURVIVE THE AMBUSH\n\nAdd subtle screen shake and damage feedback when the protagonist gets hit.\n\n15–20 SEC — SLOW-MOTION COUNTER\n\nThe protagonist becomes surrounded. Gameplay suddenly enters dramatic slow motion.\n\nA DODGE prompt appears near the bottom-right controls. He dodges an incoming attack and performs a counterattack.\n\nThe HUD smoothly returns to normal speed.\n\n20–26 SEC — GANG WAR\n\nBoth gangs charge toward each other.\n\nThe protagonist runs through the battlefield while teammates fight alongside him.\n\nOBJECTIVE:\nDEFEAT THE RIVAL GANG\n\nShow dynamic enemy markers, teammate indicators, minimap movement, stamina depletion while sprinting, and realistic combat feedback.\n\n26–30 SEC — BOSS FIGHT\n\nA black SUV arrives. The rival gang leader steps out.\n\nAll enemy indicators converge around him.\n\nA dramatic BOSS HEALTH BAR appears across the top-center:\n\nRIVAL GANG LEADER\n████████████████████\n\nThen a large original gameplay notification appears:\n\n⚠ BOSS FIGHT INCOMING\n\nThe protagonist raises his fists. Camera moves behind him into a classic third-person gameplay position.\n\nCUT TO BLACK.",
+    "sourceRange": {
+      "start": 138,
+      "end": 3587
+    },
+    "translations": {
+      "zh": "生成一段30秒逼真的现代黑帮开放世界游戏实机演播视频，展现两帮派在夜间霓虹城市战斗。全程包含完整游戏HUD界面（左上血条与精力条、右上目标面板、左下雷达小地图、右下动作按键及敌人头顶菱形标记），分阶段演绎从遭遇敌帮、街头格斗、闪避反击到黑车首领登场触发Boss战的全流程。",
+      "en": "Create a 30-second ultra-realistic open-world gangster gameplay cinematic with night street gang combat. Features a complete AAA gameplay HUD including health/stamina bars, minimap, objective panel, action buttons, dynamic enemy markers, and scripted timeline progression leading to an SUV boss encounter."
+    },
+    "targetModels": [
+      "wan"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic AAA open-world gangster combat gameplay simulation with dynamic HUD elements.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

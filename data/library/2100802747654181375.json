@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:36:49.639Z",
+  "model": "unknown-video",
+  "prompt": "Ultra-realistic cinematic underwater scene, a massive blue whale and a futuristic robotic fish swimming together deep in the ocean, actively hunting for prey. The whale moves powerfully through the dark blue water while the robotic fish scans the surroundings with glowing blue sensors and rapidly changes direction. Small schools of fish scatter in panic as they chase through underwater rocks and coral. Dramatic sunlight rays penetrate from the surface, bubbles and particles floating in the water, dynamic camera tracking shot, intense hunting atmosphere, realistic ocean physics, highly detailed textures, cinematic 4K, volumetric lighting, smooth motion, 10 seconds, vertical 9:16, no text, no watermark.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic underwater scene, a massive blue whale and a futuristic robotic fish swimming together deep in the ocean, actively hunting for prey. The whale moves powerfully through the dark blue water while the robotic fish scans the surroundings with glowing blue sensors and rapidly changes direction. Small schools of fish scatter in panic as they chase through underwater rocks and coral. Dramatic sunlight rays penetrate from the surface, bubbles and particles floating in the water, dynamic camera tracking shot, intense hunting atmosphere, realistic ocean physics, highly detailed textures, cinematic 4K, volumetric lighting, smooth motion, 10 seconds, vertical 9:16, no text, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic underwater scene showing a massive whale and a robotic fish hunting together near coral reefs under volumetric sunlight."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic underwater scene showing a massive whale and a robotic fish hunting together near coral reefs under volumetric sunlight.",
+  "summaryEn": "Cinematic underwater scene showing a massive whale and a robotic fish hunting together near coral reefs under volumetric sunlight.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100631156844818697",
+      "canonicalUrl": "https://x.com/ICare_MHB/status/2100631156844818697",
+      "author": {
+        "username": "ICare_MHB",
+        "displayName": "Mari Tec AI",
+        "profileUrl": "https://x.com/ICare_MHB"
+      },
+      "originalText": "AI + DaVinci Resolve is a powerful combo 🔥\n\nTurning raw photos and videos into polished social content with just a few prompts is a huge time-saver for creators and businesses."
+    },
+    "id": "2100802747654181375",
+    "canonicalUrl": "https://x.com/ICare_MHB/status/2100802747654181375",
+    "author": {
+      "username": "ICare_MHB",
+      "displayName": "Mari Tec AI",
+      "profileUrl": "https://x.com/ICare_MHB"
+    },
+    "publishedAt": "2026-09-18T04:23:00.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "en",
+    "originalText": "Video Prompt:\n\n> Ultra-realistic cinematic underwater scene, a massive blue whale and a futuristic robotic fish swimming together deep in the ocean, actively hunting for prey. The whale moves powerfully through the dark blue water while the robotic fish scans the surroundings with glowing blue sensors and rapidly changes direction. Small schools of fish scatter in panic as they chase through underwater rocks and coral. Dramatic sunlight rays penetrate from the surface, bubbles and particles floating in the water, dynamic camera tracking shot, intense hunting atmosphere, realistic ocean physics, highly detailed textures, cinematic 4K, volumetric lighting, smooth motion, 10 seconds, vertical 9:16, no text, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ICare_MHB/status/2100802747654181375",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100802715752550400/img/Agdzeln0Irh04xeW.jpg",
+        "analysisUrl": "https://x.com/ICare_MHB/status/2100802747654181375"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 10,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 375
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ICare_MHB/status/2100802747654181375",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100802715752550400/img/Agdzeln0Irh04xeW.jpg",
+  "coverPath": "covers/2100802747654181375.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100802715752550400",
+    "x-post:2100802747654181375",
+    "x-post:2100631156844818697"
+  ],
+  "analysis": {
+    "summary": "Cinematic underwater scene showing a massive whale and a robotic fish hunting together near coral reefs under volumetric sunlight.",
+    "summaryEn": "Cinematic underwater scene showing a massive whale and a robotic fish hunting together near coral reefs under volumetric sunlight.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video accurately depicts a realistic whale alongside a mechanical fish emitting blue light, swimming over coral with penetrating sunbeams."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic underwater scene, a massive blue whale and a futuristic robotic fish swimming together deep in the ocean, actively hunting for prey. The whale moves powerfully through the dark blue water while the robotic fish scans the surroundings with glowing blue sensors and rapidly changes direction. Small schools of fish scatter in panic as they chase through underwater rocks and coral. Dramatic sunlight rays penetrate from the surface, bubbles and particles floating in the water, dynamic camera tracking shot, intense hunting atmosphere, realistic ocean physics, highly detailed textures, cinematic 4K, volumetric lighting, smooth motion, 10 seconds, vertical 9:16, no text, no watermark.",
+    "sourceRange": {
+      "start": 17,
+      "end": 727
+    },
+    "translations": {
+      "zh": "超逼真电影感水下场景，一条巨大的蓝鲸和一条未来感机械鱼在深海共同游动并捕食。蓝鲸穿行动力强劲，机械鱼发光传感器扫描环境。鱼群在珊瑚礁间惊慌散开，光束穿透水面，细节精致。",
+      "en": "Ultra-realistic cinematic underwater scene, a massive blue whale and a futuristic robotic fish swimming together deep in the ocean, actively hunting for prey. The whale moves powerfully through the dark blue water while the robotic fish scans the surroundings with glowing blue sensors and rapidly changes direction. Small schools of fish scatter in panic as they chase through underwater rocks and coral. Dramatic sunlight rays penetrate from the surface, bubbles and particles floating in the water, dynamic camera tracking shot, intense hunting atmosphere, realistic ocean physics, highly detailed textures, cinematic 4K, volumetric lighting, smooth motion, 10 seconds, vertical 9:16, no text, no watermark."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

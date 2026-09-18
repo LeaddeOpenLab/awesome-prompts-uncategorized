@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:36:43.756Z",
+  "model": "unknown-image",
+  "prompt": "A full-body lifestyle photograph of a young East Asian woman sitting relaxed on the roof rack of a bright orange off-road SUV. She is leaning back slightly with her head tilted upward toward the sky, eyes gently closed in a serene, carefree expression.\n\nOutfit & Styling: She wears a fitted black ribbed cropped tank top paired with loose, high-waisted black parachute cargo pants gathered at the ankles. On her feet are classic black-and-white high-top canvas sneakers. She is wearing a black baseball cap worn backwards over long, straight dark hair, and a subtle metallic wristwatch on her wrist.\n\nEnvironment & Mood: Scenic outdoor adventure setting with a soft-focus background featuring a calm lake and snow-capped mountain peaks under a clear, cool-toned sky. Natural soft daylight, cinematic color grading, shot on a 85mm lens at f/2.8, shallow depth of field, sharp subject focus, 8k resolution\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+  "promptTranslations": {
+    "en": "A full-body lifestyle photograph of a young East Asian woman sitting relaxed on the roof rack of a bright orange off-road SUV. She is leaning back slightly with her head tilted upward toward the sky, eyes gently closed in a serene, carefree expression.\\n\\nOutfit & Styling: She wears a fitted black ribbed cropped tank top paired with loose, high-waisted black parachute cargo pants gathered at the ankles. On her feet are classic black-and-white high-top canvas sneakers. She is wearing a black baseball cap worn backwards over long, straight dark hair, and a subtle metallic wristwatch on her wrist.\\n\\nEnvironment & Mood: Scenic outdoor adventure setting with a soft-focus background featuring a calm lake and snow-capped mountain peaks under a clear, cool-toned sky. Natural soft daylight, cinematic color grading, shot on a 85mm lens at f/2.8, shallow depth of field, sharp subject focus, 8k resolution\\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4"
+  },
+  "summaryTranslations": {
+    "en": "Outdoor lifestyle photo of an East Asian woman sitting on an orange SUV rack by a mountain lake."
+  },
+  "translationVersion": 2,
+  "summary": "Outdoor lifestyle photo of an East Asian woman sitting on an orange SUV rack by a mountain lake.",
+  "summaryEn": "Outdoor lifestyle photo of an East Asian woman sitting on an orange SUV rack by a mountain lake.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100586320393339321",
+      "canonicalUrl": "https://x.com/afrinxai/status/2100586320393339321",
+      "author": {
+        "username": "afrinxai",
+        "displayName": "𝑨𝒇𝒓𝒊𝒏",
+        "profileUrl": "https://x.com/afrinxai"
+      },
+      "originalText": "Proof that my mood improves by 200% the exact second sugar is involved.\n\nPrompt :A candid medium close-up portrait of a cheerful young woman laughing genuinely outdoors. She has voluminous, shoulder-length wavy brown curly hair with soft bangs framing her face, fair porcelain skin, and a wide, authentic smile showing teeth. She wears a vibrant tropical-print floral camisole top with thin spaghetti straps, layered with an oversized, casual blue denim jacket falling off-the-shoulder on one side. Bright natural daylight, shallow depth of field with a soft, blurred urban street and blooming spring flower background, sharp focus on her face, 35mm photography, natural color grading, high detail, photorealistic.Use the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4"
+    },
+    "id": "2100812308952096963",
+    "canonicalUrl": "https://x.com/afrinxai/status/2100812308952096963",
+    "author": {
+      "username": "afrinxai",
+      "displayName": "𝑨𝒇𝒓𝒊𝒏",
+      "profileUrl": "https://x.com/afrinxai"
+    },
+    "publishedAt": "2026-09-18T05:01:00.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "en",
+    "originalText": "Nature is healing, but my posture on this roof definitely isn’t.\n\nPrompt :A full-body lifestyle photograph of a young East Asian woman sitting relaxed on the roof rack of a bright orange off-road SUV. She is leaning back slightly with her head tilted upward toward the sky, eyes gently closed in a serene, carefree expression.\n\nOutfit & Styling: She wears a fitted black ribbed cropped tank top paired with loose, high-waisted black parachute cargo pants gathered at the ankles. On her feet are classic black-and-white high-top canvas sneakers. She is wearing a black baseball cap worn backwards over long, straight dark hair, and a subtle metallic wristwatch on her wrist.\n\nEnvironment & Mood: Scenic outdoor adventure setting with a soft-focus background featuring a calm lake and snow-capped mountain peaks under a clear, cool-toned sky. Natural soft daylight, cinematic color grading, shot on a 85mm lens at f/2.8, shallow depth of field, sharp subject focus, 8k resolution\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbni5TagAE_LnD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbni5TagAE_LnD.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbnjW6agAEwl1M.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbnjW6agAEwl1M.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbnj0UaUAAbnlV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbnj0UaUAAbnlV.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZZO8hbgAAsM5h.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZZO8hbgAAsM5h.jpg",
+        "sourcePostId": "2100586320393339321"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZZPRibUAA9pyE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZZPRibUAA9pyE.jpg",
+        "sourcePostId": "2100586320393339321"
+      }
+    ],
+    "metrics": {
+      "likeCount": 58,
+      "repostCount": 2,
+      "replyCount": 38,
+      "quoteCount": 0,
+      "viewCount": 739
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/afrinxai/status/2100812308952096963",
+  "coverUrl": "https://pbs.twimg.com/media/HSbni5TagAE_LnD.jpg",
+  "coverPath": "images/2100812308952096963-1.jpg",
+  "imagePaths": [
+    "images/2100812308952096963-1.jpg",
+    "images/2100812308952096963-2.jpg",
+    "images/2100812308952096963-3.jpg",
+    "images/2100812308952096963-4.jpg",
+    "images/2100812308952096963-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSbni5TagAE_LnD",
+    "x-image:/media/HSbnjW6agAEwl1M",
+    "x-image:/media/HSbnj0UaUAAbnlV",
+    "x-image:/media/HSZZO8hbgAAsM5h",
+    "x-image:/media/HSZZPRibUAA9pyE",
+    "x-post:2100812308952096963",
+    "x-post:2100586320393339321"
+  ],
+  "analysis": {
+    "summary": "Outdoor lifestyle photo of an East Asian woman sitting on an orange SUV rack by a mountain lake.",
+    "summaryEn": "Outdoor lifestyle photo of an East Asian woman sitting on an orange SUV rack by a mountain lake.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the first image precisely: East Asian woman sitting on an orange SUV roof rack, wearing black crop tank, cargo pants, backwards cap, with snow mountains and lake behind."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A full-body lifestyle photograph of a young East Asian woman sitting relaxed on the roof rack of a bright orange off-road SUV. She is leaning back slightly with her head tilted upward toward the sky, eyes gently closed in a serene, carefree expression.\n\nOutfit & Styling: She wears a fitted black ribbed cropped tank top paired with loose, high-waisted black parachute cargo pants gathered at the ankles. On her feet are classic black-and-white high-top canvas sneakers. She is wearing a black baseball cap worn backwards over long, straight dark hair, and a subtle metallic wristwatch on her wrist.\n\nEnvironment & Mood: Scenic outdoor adventure setting with a soft-focus background featuring a calm lake and snow-capped mountain peaks under a clear, cool-toned sky. Natural soft daylight, cinematic color grading, shot on a 85mm lens at f/2.8, shallow depth of field, sharp subject focus, 8k resolution\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4",
+    "sourceRange": {
+      "start": 74,
+      "end": 1185
+    },
+    "translations": {
+      "zh": "一张年轻东亚女性的全景生活方式照片，她放松地坐在亮橙色越野SUV的车顶行李架上。她微微后仰，抬头朝向天空，双眼轻闭，神态宁静无忧。\n\n服装与造型：穿着黑色修身罗纹短款背心，搭配脚踝收口的高腰黑色工装降落伞裤。脚穿经典的黑白高帮帆布鞋。反戴黑色棒球帽，长直黑发，手腕配有小巧金属腕表。\n\n环境与氛围：户外冒险场景，柔焦背景为平静湖泊与雪山，天空晴朗冷色调。自然柔光，电影感调色，85mm镜头f/2.8拍摄，浅景深，主体清晰对焦，8k分辨率。使用上传照片作为成人女性的面部参考，保持面部特征、肤色及比例，画面比例3:4",
+      "en": "A full-body lifestyle photograph of a young East Asian woman sitting relaxed on the roof rack of a bright orange off-road SUV. She is leaning back slightly with her head tilted upward toward the sky, eyes gently closed in a serene, carefree expression.\n\nOutfit & Styling: She wears a fitted black ribbed cropped tank top paired with loose, high-waisted black parachute cargo pants gathered at the ankles. On her feet are classic black-and-white high-top canvas sneakers. She is wearing a black baseball cap worn backwards over long, straight dark hair, and a subtle metallic wristwatch on her wrist.\n\nEnvironment & Mood: Scenic outdoor adventure setting with a soft-focus background featuring a calm lake and snow-capped mountain peaks under a clear, cool-toned sky. Natural soft daylight, cinematic color grading, shot on a 85mm lens at f/2.8, shallow depth of field, sharp subject focus, 8k resolution\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance. make the aspect ratio 3:4"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "AI photography lifestyle shoot reference",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

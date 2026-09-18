@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T07:35:29.051Z",
+  "model": "unknown-image",
+  "prompt": "2panels, comic, manga, vertical stack, vertical split, 2 vertically stacked panels,  \n\n[panel 1] full body, 2people, walking together, linking arms, arm in arm, side-by-side, date, happy smile, walking on street, character A in oversized denim jacket, black turtleneck, trousers, character B in cream trench coat, pleated skirt, loafers, city street background, store front, daytime, soft lighting,   \n\n[panel 2] low angle, feet focus, legs focus, character B bare legs, character B unclothed lower body, skin focus, character B legs lifted, feet off ground, floating feet, tiptoes, pointed toes, trembling legs, sweat drops on thighs, character B wearing white socks, socked feet, character A legs back view, character A legs facing away, character A legs from behind, character B feet between character A legs, discarded shoes on floor, discarded clothes on floor, dark room, bedroom, dim lighting, moody shadows, (small heart:1.2), floating heart, pink heart, pop-up heart,   \n\ncinematic lighting, masterpiece, highly detailed",
+  "promptTranslations": {
+    "en": "2panels, comic, manga, vertical stack, vertical split, 2 vertically stacked panels, [panel 1] full body, 2people, walking together, linking arms, arm in arm, side-by-side, date, happy smile, walking on street, character A in oversized denim jacket, black turtleneck, trousers, character B in cream trench coat, pleated skirt, loafers, city street background, store front, daytime, soft lighting, [panel 2] low angle, feet focus, legs focus, character B bare legs, character B unclothed lower body, skin focus, character B legs lifted, feet off ground, floating feet, tiptoes, pointed toes, trembling legs, sweat drops on thighs, character B wearing white socks, socked feet, character A legs back view, character A legs facing away, character A legs from behind, character B feet between character A legs, discarded shoes on floor, discarded clothes on floor, dark room, bedroom, dim lighting, moody shadows, (small heart:1.2), floating heart, pink heart, pop-up heart, cinematic lighting, masterpiece, highly detailed"
+  },
+  "summaryTranslations": {
+    "en": "2-panel comic prompt: daytime street date in panel 1, bedroom low-angle leg focus in panel 2."
+  },
+  "translationVersion": 2,
+  "summary": "2-panel comic prompt: daytime street date in panel 1, bedroom low-angle leg focus in panel 2.",
+  "summaryEn": "2-panel comic prompt: daytime street date in panel 1, bedroom low-angle leg focus in panel 2.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100793684895965264",
+    "canonicalUrl": "https://x.com/2__han__/status/2100793684895965264",
+    "author": {
+      "username": "2__han__",
+      "displayName": "이한",
+      "profileUrl": "https://x.com/2__han__"
+    },
+    "publishedAt": "2026-09-18T03:46:59.000Z",
+    "collectedAt": "2026-09-18T07:24:59.561Z",
+    "language": "ko",
+    "originalText": "ᴾᴿᴼᴹᴾᵀ         \n프롬프트 공유 _ 자유롭게 수정, 사용\n오류 매우 심함 \n\n2panels, comic, manga, vertical stack, vertical split, 2 vertically stacked panels,  \n\n[panel 1] full body, 2people, walking together, linking arms, arm in arm, side-by-side, date, happy smile, walking on street, character A in oversized denim jacket, black turtleneck, trousers, character B in cream trench coat, pleated skirt, loafers, city street background, store front, daytime, soft lighting,   \n\n[panel 2] low angle, feet focus, legs focus, character B bare legs, character B unclothed lower body, skin focus, character B legs lifted, feet off ground, floating feet, tiptoes, pointed toes, trembling legs, sweat drops on thighs, character B wearing white socks, socked feet, character A legs back view, character A legs facing away, character A legs from behind, character B feet between character A legs, discarded shoes on floor, discarded clothes on floor, dark room, bedroom, dim lighting, moody shadows, (small heart:1.2), floating heart, pink heart, pop-up heart,   \n\ncinematic lighting, masterpiece, highly detailed",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSeEtB7a8AA0lxn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSeEtB7a8AA0lxn.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 3,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 304
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/2__han__/status/2100793684895965264",
+  "coverUrl": "https://pbs.twimg.com/media/HSeEtB7a8AA0lxn.jpg",
+  "coverPath": "images/2100793684895965264-1.jpg",
+  "imagePaths": [
+    "images/2100793684895965264-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSeEtB7a8AA0lxn",
+    "x-post:2100793684895965264"
+  ],
+  "analysis": {
+    "summary": "2-panel comic prompt: daytime street date in panel 1, bedroom low-angle leg focus in panel 2.",
+    "summaryEn": "2-panel comic prompt: daytime street date in panel 1, bedroom low-angle leg focus in panel 2.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image matches the two-panel layout: couple linking arms outdoors above, and socked feet lifted in bedroom below."
+    },
+    "videoQuality": null,
+    "originalPrompt": "2panels, comic, manga, vertical stack, vertical split, 2 vertically stacked panels,  \n\n[panel 1] full body, 2people, walking together, linking arms, arm in arm, side-by-side, date, happy smile, walking on street, character A in oversized denim jacket, black turtleneck, trousers, character B in cream trench coat, pleated skirt, loafers, city street background, store front, daytime, soft lighting,   \n\n[panel 2] low angle, feet focus, legs focus, character B bare legs, character B unclothed lower body, skin focus, character B legs lifted, feet off ground, floating feet, tiptoes, pointed toes, trembling legs, sweat drops on thighs, character B wearing white socks, socked feet, character A legs back view, character A legs facing away, character A legs from behind, character B feet between character A legs, discarded shoes on floor, discarded clothes on floor, dark room, bedroom, dim lighting, moody shadows, (small heart:1.2), floating heart, pink heart, pop-up heart,   \n\ncinematic lighting, masterpiece, highly detailed",
+    "sourceRange": {
+      "start": 49,
+      "end": 1078
+    },
+    "translations": {
+      "zh": "双格漫，漫画，上下排列，垂直分割，两格垂直堆叠画格，\n\n[画格 1] 全身，2人，一起散步，挽着手臂，并肩，约会，开心的笑容，走在街上，角色A穿着大号牛仔夹克、黑色高领毛衣、长裤，角色B穿着米色风衣、百褶裙、乐福鞋，城市街道背景，店面，白天，柔和光线，\n\n[画格 2] 低角度，足部特写，腿部特写，角色B裸露双腿，角色B下半身无衣物，皮肤特写，角色B双腿抬起，脚离地，悬空的脚，踮脚，绷直脚尖，颤抖的双腿，大腿上有汗滴，角色B穿着白袜子，穿袜子的脚，角色A双腿背影，角色A双腿背对，角色A双腿后视图，角色B的双脚在角色A双腿之间，地板上散落的鞋子，地板上脱弃的衣物，暗室，卧室，昏暗照明，情绪阴影，(小爱心:1.2)，漂浮爱心，粉色爱心，弹出爱心，\n\n电影级光照，杰作，高度精细",
+      "en": "2panels, comic, manga, vertical stack, vertical split, 2 vertically stacked panels,  \n\n[panel 1] full body, 2people, walking together, linking arms, arm in arm, side-by-side, date, happy smile, walking on street, character A in oversized denim jacket, black turtleneck, trousers, character B in cream trench coat, pleated skirt, loafers, city street background, store front, daytime, soft lighting,   \n\n[panel 2] low angle, feet focus, legs focus, character B bare legs, character B unclothed lower body, skin focus, character B legs lifted, feet off ground, floating feet, tiptoes, pointed toes, trembling legs, sweat drops on thighs, character B wearing white socks, socked feet, character A legs back view, character A legs facing away, character A legs from behind, character B feet between character A legs, discarded shoes on floor, discarded clothes on floor, dark room, bedroom, dim lighting, moody shadows, (small heart:1.2), floating heart, pink heart, pop-up heart,   \n\ncinematic lighting, masterpiece, highly detailed"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "comic_strip",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [
+        "nsfw_suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
