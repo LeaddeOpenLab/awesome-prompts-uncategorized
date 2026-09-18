@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2100759330815431128"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Porträt einer jungen Frau auf einer amerikanischen Straße während der goldenen Stunde.
 
 Autor：[@AiWithliza](https://x.com/AiWithliza) · [Originalbeitrag](https://x.com/AiWithliza/status/2100759330815431128)
 
 Fotografie · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Porträt einer jungen Frau auf einer amerikanischen Straße während der goldenen Stunde.
 
 <img src="images/2100759330815431128-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein fotorealistisches Porträt von Liza, einer wunderschönen jungen Frau mit langem, welligem, dunkelbraunem Haar, die zur goldenen Stunde auf einer eleganten amerikanischen Straße steht. Sie blickt mit einem strahlenden, natürlichen Lächeln in die Kamera, während eine Hand sanft ihr Haar berührt und die andere nahe ihrer Hüfte ruht. Sie trägt eine weiße langärmelige Bluse und blaue High-Waist-Jeans. Warmes Sonnenaufgangslicht, lange weiche Schatten, Café-Markisen und klassische Gebäude im Hintergrund, filmische Beleuchtung, scharfe Details, natürliche Haut, realistische Fotografie.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

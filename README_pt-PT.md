@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2100759330815431128"></a>
 
-### Tradução em curso
+### Retrato fotorrealista de uma jovem mulher numa rua americana durante a hora dourada.
 
 Autor：[@AiWithliza](https://x.com/AiWithliza) · [Publicação original](https://x.com/AiWithliza/status/2100759330815431128)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Retrato fotorrealista de uma jovem mulher numa rua americana durante a hora dourada.
 
 <img src="images/2100759330815431128-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um retrato fotorrealista de Liza, uma bela jovem de longos cabelos castanho-escuros ondulados, de pé numa elegante rua americana durante a hora dourada. Olha para a câmara com um sorriso radiante e natural, com uma mão a tocar ao de leve no cabelo e a outra apoiada junto à anca. Veste uma blusa branca de manga comprida e calças de ganga azuis de cintura subida. Luz quente do nascer do sol, sombras longas e suaves, toldos de cafés e edifícios clássicos em segundo plano, iluminação cinematográfica, detalhes nítidos, pele natural, fotografia realista.
 ```
 
 [↑ Voltar às categorias](#catalog)

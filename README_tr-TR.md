@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2100759330815431128"></a>
 
-### Çeviri sürüyor
+### Altın saatte bir Amerikan caddesindeki genç bir kadının fotogerçekçi portresi.
 
 Yazar：[@AiWithliza](https://x.com/AiWithliza) · [Orijinal gönderi](https://x.com/AiWithliza/status/2100759330815431128)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Altın saatte bir Amerikan caddesindeki genç bir kadının fotogerçekçi portresi.
 
 <img src="images/2100759330815431128-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Altın saatte zarif bir Amerikan caddesinde duran, uzun dalgalı koyu kahverengi saçlı güzel bir genç kadın olan Liza'nın fotogerçekçi bir portresi. Kameraya doğru parlak ve doğal bir gülümsemeyle bakıyor, bir eli hafifçe saçına dokunurken diğer eli kalçasının yakınında duruyor. Beyaz uzun kollu bir bluz ve yüksek belli mavi kot pantolon giyiyor. Sıcak gün doğumu ışığı, uzun yumuşak gölgeler, arka planda kafe tenteleri ve klasik binalar, sinematik aydınlatma, keskin detaylar, doğal cilt, gerçekçi fotoğrafçılık.
 ```
 
 [↑ Kategorilere dön](#catalog)

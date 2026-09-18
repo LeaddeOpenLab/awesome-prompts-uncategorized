@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2100759330815431128"></a>
 
-### Traduzione in corso
+### Ritratto fotorealistico di una giovane donna in una strada americana durante l'ora d'oro.
 
 Autore：[@AiWithliza](https://x.com/AiWithliza) · [Post originale](https://x.com/AiWithliza/status/2100759330815431128)
 
 Fotografia · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto fotorealistico di una giovane donna in una strada americana durante l'ora d'oro.
 
 <img src="images/2100759330815431128-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto fotorealistico di Liza, una bellissima giovane donna con lunghi capelli castano scuro ondulati, in piedi in un'elegante strada americana durante l'ora d'oro. Guarda verso la fotocamera con un sorriso radioso e naturale, con una mano che le tocca leggermente i capelli e l'altra appoggiata vicino al fianco. Indossa una camicetta bianca a maniche lunghe e jeans blu a vita alta. Calda luce dell'alba, ombre lunghe e morbide, tende da sole di caffè ed edifici classici sullo sfondo, illuminazione cinematografica, dettagli nitidi, pelle naturale, fotografia realistica.
 ```
 
 [↑ Torna alle categorie](#catalog)

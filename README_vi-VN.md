@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2100759330815431128"></a>
 
-### Đang dịch
+### Chân dung chân thực như ảnh chụp của một phụ nữ trẻ trên đường phố Mỹ trong giờ vàng.
 
 Tác giả：[@AiWithliza](https://x.com/AiWithliza) · [Bài gốc](https://x.com/AiWithliza/status/2100759330815431128)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung chân thực như ảnh chụp của một phụ nữ trẻ trên đường phố Mỹ trong giờ vàng.
 
 <img src="images/2100759330815431128-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức chân dung chân thực như ảnh chụp của Liza, một phụ nữ trẻ xinh đẹp với mái tóc dài gợn sóng màu nâu sẫm, đang đứng trên một con phố thanh lịch của Mỹ vào giờ vàng. Cô đối diện với máy ảnh với nụ cười tự nhiên rạng rỡ, một tay khẽ chạm vào tóc và tay kia đặt gần hông. Cô mặc chiếc áo sơ mi dài tay màu trắng và quần jean xanh cạp cao. Ánh bình minh ấm áp, bóng đổ dài mềm mại, mái hiên quán cà phê và các tòa nhà cổ điển ở hậu cảnh, ánh sáng điện ảnh, chi tiết sắc nét, làn da tự nhiên, nhiếp ảnh thực tế.
 ```
 
 [↑ Về danh mục](#catalog)

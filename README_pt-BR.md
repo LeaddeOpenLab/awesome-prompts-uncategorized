@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2100759330815431128"></a>
 
-### Tradução em andamento
+### Retrato fotorrealista de uma jovem mulher em uma rua americana durante a hora de ouro.
 
 Autor：[@AiWithliza](https://x.com/AiWithliza) · [Publicação original](https://x.com/AiWithliza/status/2100759330815431128)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato fotorrealista de uma jovem mulher em uma rua americana durante a hora de ouro.
 
 <img src="images/2100759330815431128-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um retrato fotorrealista de Liza, uma linda jovem de cabelos castanho-escuros longos e ondulados, em pé em uma elegante rua americana durante a hora de ouro. Ela olha para a câmera com um sorriso radiante e natural, com uma mão tocando suavemente o cabelo e a outra repousando perto do quadril. Ela veste uma blusa branca de manga comprida e calça jeans azul de cintura alta. Luz quente do nascer do sol, sombras longas e suaves, toldos de cafés e edifícios clássicos ao fundo, iluminação cinematográfica, detalhes nítidos, pele natural, fotografia realista.
 ```
 
 [↑ Voltar às categorias](#catalog)

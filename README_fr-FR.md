@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2100759330815431128"></a>
 
-### Traduction en cours
+### Portrait photoréaliste d'une jeune femme dans une rue américaine à l'heure dorée.
 
 Auteur：[@AiWithliza](https://x.com/AiWithliza) · [Publication originale](https://x.com/AiWithliza/status/2100759330815431128)
 
 Photographie · Portrait / Selfie · Personnage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait photoréaliste d'une jeune femme dans une rue américaine à l'heure dorée.
 
 <img src="images/2100759330815431128-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait photoréaliste de Liza, une belle jeune femme aux longs cheveux bruns ondulés, debout dans une élégante rue américaine à l'heure dorée. Elle fait face à l'objectif avec un sourire radieux et naturel, une main touchant légèrement ses cheveux et l'autre posée près de sa hanche. Elle porte un chemisier blanc à manches longues et un jean bleu taille haute. Lumière chaude du lever du soleil, ombres longues et douces, stores de cafés et bâtiments classiques en arrière-plan, éclairage cinématographique, détails nets, peau naturelle, photographie réaliste.
 ```
 
 [↑ Retour aux catégories](#catalog)
