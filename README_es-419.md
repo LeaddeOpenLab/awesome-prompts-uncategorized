@@ -4772,20 +4772,26 @@ Traducción en curso
 
 <a name="prompt-2100793684895965264"></a>
 
-### Traducción en curso
+### Prompt de cómic de 2 paneles: cita callejera diurna en el panel 1, enfoque en piernas en ángulo bajo en el dormitorio en el panel 2.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicación original](https://x.com/2__han__/status/2100793684895965264)
 
 Cómic / Novela gráfica · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de cómic de 2 paneles: cita callejera diurna en el panel 1, enfoque en piernas en ángulo bajo en el dormitorio en el panel 2.
 
 <img src="images/2100793684895965264-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+2panels, cómic, manga, pila vertical, división vertical, 2 paneles apilados verticalmente,  
+
+[panel 1] cuerpo completo, 2personas, caminando juntos, entrelazando brazos, del brazo, lado a lado, cita, sonrisa feliz, caminando por la calle, personaje A con chaqueta de mezclilla oversized, cuello de tortuga negro, pantalones, personaje B con gabardina color crema, falda plisada, mocasines, fondo de calle de la ciudad, escaparate de tienda, de día, iluminación suave,   
+
+[panel 2] ángulo bajo, enfoque en los pies, enfoque en las piernas, piernas desnudas del personaje B, parte inferior del cuerpo desvestida del personaje B, enfoque en la piel, piernas del personaje B levantadas, pies despegados del suelo, pies flotando, de puntillas, dedos de los pies en punta, piernas temblorosas, gotas de sudor en los muslos, personaje B usando calcetines blancos, pies con calcetines, piernas del personaje A vista trasera, piernas del personaje A de espaldas, piernas del personaje A desde atrás, pies del personaje B entre las piernas del personaje A, zapatos desechados en el suelo, ropa desechada en el suelo, habitación oscura, dormitorio, iluminación tenue, sombras atmosféricas, (pequeño corazón:1.2), corazón flotante, corazón rosa, corazón emergente,   
+
+iluminación cinematográfica, obra maestra, altamente detallado
 ```
 
 [↑ Volver a categorías](#catalog)

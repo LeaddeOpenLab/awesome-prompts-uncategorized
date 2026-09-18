@@ -4821,20 +4821,26 @@ Traducción en curso
 
 <a name="prompt-2100793684895965264"></a>
 
-### Traducción en curso
+### Prompt de cómic de 2 paneles: cita diurna en la calle en el panel 1, enfoque en las piernas en ángulo bajo en el dormitorio en el panel 2.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicación original](https://x.com/2__han__/status/2100793684895965264)
 
 Cómic / Novela gráfica · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de cómic de 2 paneles: cita diurna en la calle en el panel 1, enfoque en las piernas en ángulo bajo en el dormitorio en el panel 2.
 
 <img src="images/2100793684895965264-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+2 paneles, cómic, manga, apilado vertical, división vertical, 2 paneles apilados verticalmente, 
+
+[panel 1] cuerpo entero, 2 personas, caminando juntos, del brazo, brazo con brazo, uno al lado del otro, cita, sonrisa feliz, caminando por la calle, personaje A con chaqueta vaquera oversize, cuello alto negro, pantalones, personaje B con gabardina color crema, falda plisada, mocasines, fondo de calle de la ciudad, escaparate, de día, iluminación suave, 
+
+[panel 2] ángulo bajo, enfoque en los pies, enfoque en las piernas, personaje B piernas desnudas, personaje B parte inferior del cuerpo desvestida, enfoque en la piel, personaje B piernas levantadas, pies separados del suelo, pies flotando, de puntillas, dedos de los pies en punta, piernas temblorosas, gotas de sudor en los muslos, personaje B con calcetines blancos, pies con calcetines, vista trasera de las piernas del personaje A, piernas del personaje A de espaldas, piernas del personaje A desde atrás, pies del personaje B entre las piernas del personaje A, zapatos desechados en el suelo, ropa tirada en el suelo, habitación oscura, dormitorio, iluminación tenue, sombras atmosféricas, (corazón pequeño:1.2), corazón flotante, corazón rosa, corazón emergente, 
+
+iluminación cinematográfica, obra maestra, altamente detallado
 ```
 
 [↑ Volver a categorías](#catalog)

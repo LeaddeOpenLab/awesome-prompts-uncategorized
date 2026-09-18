@@ -4772,20 +4772,26 @@ Traduction en cours
 
 <a name="prompt-2100793684895965264"></a>
 
-### Traduction en cours
+### Prompt de bande dessinée à 2 panneaux : rendez-vous dans la rue de jour dans le panneau 1, focus sur les jambes en contre-plongée dans une chambre dans le panneau 2.
 
 Auteur：[@2\_\_han\_\_](https://x.com/2__han__) · [Publication originale](https://x.com/2__han__/status/2100793684895965264)
 
 Bande dessinée / Roman graphique · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de bande dessinée à 2 panneaux : rendez-vous dans la rue de jour dans le panneau 1, focus sur les jambes en contre-plongée dans une chambre dans le panneau 2.
 
 <img src="images/2100793684895965264-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+2panels, bande dessinée, manga, empilement vertical, division verticale, 2 panneaux empilés verticalement,  
+
+[panel 1] corps entier, 2personnes, marchant ensemble, bras dessus bras dessous, côte à côte, rendez-vous amoureux, sourire heureux, marchant dans la rue, personnage A portant une veste en jean surdimensionnée, col roulé noir, pantalon, personnage B portant un trench-coat crème, jupe plissée, mocassins, arrière-plan de rue urbaine, devanture de magasin, de jour, lumière douce,   
+
+[panel 2] contre-plongée, focus sur les pieds, focus sur les jambes, jambes nues du personnage B, bas du corps dénudé du personnage B, focus sur la peau, jambes du personnage B levées, pieds décollés du sol, pieds flottants, pointes des pieds, orteils pointés, jambes tremblantes, gouttes de sueur sur les cuisses, personnage B portant des chaussettes blanches, pieds en chaussettes, jambes du personnage A vue de dos, jambes du personnage A tournées vers l'extérieur, jambes du personnage A de derrière, pieds du personnage B entre les jambes du personnage A, chaussures abandonnées au sol, vêtements jetés au sol, pièce sombre, chambre, éclairage tamisé, ombres d'ambiance, (petit cœur:1.2), cœur flottant, cœur rose, cœur pop-up,   
+
+éclairage cinématographique, chef-d'œuvre, très détaillé
 ```
 
 [↑ Retour aux catégories](#catalog)

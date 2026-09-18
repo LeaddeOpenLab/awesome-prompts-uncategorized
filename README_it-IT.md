@@ -4772,20 +4772,26 @@ Traduzione in corso
 
 <a name="prompt-2100793684895965264"></a>
 
-### Traduzione in corso
+### Prompt per fumetto a 2 vignette: appuntamento diurno in strada nella vignetta 1, focus sulle gambe ad angolo dal basso in camera da letto nella vignetta 2.
 
 Autore：[@2\_\_han\_\_](https://x.com/2__han__) · [Post originale](https://x.com/2__han__/status/2100793684895965264)
 
 Fumetto / Graphic Novel · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per fumetto a 2 vignette: appuntamento diurno in strada nella vignetta 1, focus sulle gambe ad angolo dal basso in camera da letto nella vignetta 2.
 
 <img src="images/2100793684895965264-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+2panels, fumetto, manga, impilamento verticale, divisione verticale, 2 vignette impilate verticalmente,  
+
+[panel 1] figura intera, 2persone, che camminano insieme, a braccetto, braccio nel braccio, fianco a fianco, appuntamento, sorriso felice, camminando per strada, personaggio A in giacca di jeans oversize, dolcevita nero, pantaloni, personaggio B in trench crema, gonna a pieghe, mocassini, sfondo di strada cittadina, vetrina del negozio, giorno, luce morbida,   
+
+[panel 2] angolo dal basso, focus sui piedi, focus sulle gambe, gambe nude del personaggio B, parte inferiore del corpo svestita del personaggio B, focus sulla pelle, gambe del personaggio B sollevate, piedi sollevati da terra, piedi fluttuanti, in punta di piedi, dita dei piedi puntate, gambe tremanti, gocce di sudore sulle cosce, personaggio B che indossa calzini bianchi, piedi con i calzini, gambe del personaggio A vista da dietro, gambe del personaggio A rivolte altrove, gambe del personaggio A da dietro, piedi del personaggio B tra le gambe del personaggio A, scarpe abbandonate sul pavimento, vestiti sparsi sul pavimento, stanza buia, camera da letto, luce fioca, ombre suggestive, (piccolo cuore:1.2), cuore fluttuante, cuore rosa, cuore pop-up,   
+
+illuminazione cinematografica, capolavoro, altamente dettagliato
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -4821,20 +4821,26 @@ Phác Thảo / Nét Vẽ · Màu nước · Đã xuất bản
 
 <a name="prompt-2100793684895965264"></a>
 
-### Đang dịch
+### Prompt truyện tranh 2 khung hình: hẹn hò trên phố ban ngày ở khung 1, cận cảnh đôi chân góc thấp trong phòng ngủ ở khung 2.
 
 Tác giả：[@2\_\_han\_\_](https://x.com/2__han__) · [Bài gốc](https://x.com/2__han__/status/2100793684895965264)
 
 Truyện tranh / Tiểu thuyết đồ họa · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt truyện tranh 2 khung hình: hẹn hò trên phố ban ngày ở khung 1, cận cảnh đôi chân góc thấp trong phòng ngủ ở khung 2.
 
 <img src="images/2100793684895965264-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+2 khung hình, truyện tranh, manga, xếp dọc, chia dọc, 2 khung hình xếp dọc, 
+
+[khung 1] toàn thân, 2 người, đi cùng nhau, khoác tay, tay trong tay, cạnh nhau, hẹn hò, nụ cười hạnh phúc, đi bộ trên phố, nhân vật A mặc áo khoác denim rộng quá cỡ, áo cổ lọ đen, quần tây, nhân vật B mặc áo khoác măng tô màu kem, váy xếp ly, giày lười loafer, bối cảnh đường phố đô thị, mặt tiền cửa hàng, ban ngày, ánh sáng dịu nhẹ, 
+
+[khung 2] góc thấp, lấy nét vào bàn chân, lấy nét vào đôi chân, nhân vật B để chân trần, nhân vật B phần thân dưới không mặc quần áo, lấy nét vào làn da, nhân vật B đôi chân được nâng lên, chân nhấc khỏi mặt đất, bàn chân lơ lửng, kiễng ngón chân, mũi chân duỗi thẳng nhọn, đôi chân run rẩy, giọt mồ hôi trên đùi, nhân vật B đi tất trắng, bàn chân mang tất, đôi chân nhân vật A nhìn từ phía sau, đôi chân nhân vật A quay lưng đi, đôi chân nhân vật A nhìn từ đằng sau, bàn chân nhân vật B nằm giữa hai chân nhân vật A, giày vứt bừa trên sàn, quần áo vứt bừa trên sàn, căn phòng tối, phòng ngủ, ánh sáng mờ ảo, bóng tối đầy tâm trạng, (trái tim nhỏ:1.2), trái tim trôi nổi, trái tim màu hồng, trái tim nổi bật, 
+
+ánh sáng điện ảnh, kiệt tác, chi tiết cao
 ```
 
 [↑ Về danh mục](#catalog)

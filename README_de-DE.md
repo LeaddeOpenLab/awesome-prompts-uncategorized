@@ -4772,20 +4772,26 @@ Skizze / Strichzeichnung · Aquarell · Veröffentlicht
 
 <a name="prompt-2100793684895965264"></a>
 
-### Übersetzung läuft
+### 2-Panel-Comic-Prompt: Tageslicht-Date auf der Straße in Panel 1, Froschperspektive mit Beinfokus im Schlafzimmer in Panel 2.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Originalbeitrag](https://x.com/2__han__/status/2100793684895965264)
 
 Comic / Graphic Novel · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 2-Panel-Comic-Prompt: Tageslicht-Date auf der Straße in Panel 1, Froschperspektive mit Beinfokus im Schlafzimmer in Panel 2.
 
 <img src="images/2100793684895965264-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+2panels, Comic, Manga, vertikaler Stapel, vertikaler Schnitt, 2 vertikal gestapelte Panels,  
+
+[panel 1] Ganzkörper, 2Personen, zusammen gehend, Arme eingehakt, Arm in Arm, Seite an Seite, Date, glückliches Lächeln, auf der Straße gehend, Charakter A in übergroßer Jeansjacke, schwarzem Rollkragenpullover, Hose, Charakter B in cremefarbenem Trenchcoat, Faltenrock, Loafers, Hintergrund mit Stadtstraße, Schaufenster, tagsüber, sanftes Licht,   
+
+[panel 2] Froschperspektive, Fokus auf Füße, Fokus auf Beine, nackte Beine von Charakter B, unbekleideter Unterkörper von Charakter B, Hautfokus, Beine von Charakter B angehoben, Füße vom Boden abgehoben, schwebende Füße, Zehenspitzen, gestreckte Zehen, zitternde Beine, Schweißtropfen auf den Oberschenkeln, Charakter B trägt weiße Socken, Füße in Socken, Beine von Charakter A in Rückansicht, Beine von Charakter A abgewandt, Beine von Charakter A von hinten, Füße von Charakter B zwischen den Beinen von Charakter A, abgelegte Schuhe auf dem Boden, weggeworfene Kleidung auf dem Boden, dunkler Raum, Schlafzimmer, gedimmtes Licht, stimmungsvolle Schatten, (kleines Herz:1.2), schwebendes Herz, rosa Herz, Pop-up-Herz,   
+
+kinematografische Beleuchtung, Meisterwerk, hochdetailliert
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

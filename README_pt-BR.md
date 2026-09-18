@@ -4803,20 +4803,26 @@ Tradução em andamento
 
 <a name="prompt-2100793684895965264"></a>
 
-### Tradução em andamento
+### Prompt de quadrinhos de 2 painéis: encontro diurno na rua no painel 1, foco nas pernas em ângulo baixo no quarto no painel 2.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicação original](https://x.com/2__han__/status/2100793684895965264)
 
 Quadrinhos / Graphic Novel · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de quadrinhos de 2 painéis: encontro diurno na rua no painel 1, foco nas pernas em ângulo baixo no quarto no painel 2.
 
 <img src="images/2100793684895965264-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+2panels, quadrinhos, mangá, empilhamento vertical, divisão vertical, 2 painéis empilhados verticalmente,  
+
+[panel 1] corpo inteiro, 2pessoas, caminhando juntas, de braços dados, braço a braço, lado a lado, encontro, sorriso feliz, caminhando na rua, personagem A em jaqueta jeans oversized, gola alta preta, calças, personagem B em sobretudo creme, saia plissada, mocassins, fundo de rua da cidade, fachada de loja, dia, iluminação suave,   
+
+[panel 2] ângulo baixo, foco nos pés, foco nas pernas, pernas nuas do personagem B, parte inferior do corpo despida do personagem B, foco na pele, pernas do personagem B levantadas, pés fora do chão, pés flutuando, pontas dos pés, dedos dos pés apontados, pernas trêmulas, gotas de suor nas coxas, personagem B usando meias brancas, pés de meia, pernas do personagem A em vista traseira, pernas do personagem A viradas de costas, pernas do personagem A por trás, pés do personagem B entre as pernas do personagem A, sapatos descartados no chão, roupas descartadas no chão, quarto escuro, quarto, iluminação fraca, sombras temperamentais, (coração pequeno:1.2), coração flutuante, coração rosa, coração pop-up,   
+
+iluminação cinematográfica, obra-prima, altamente detalhado
 ```
 
 [↑ Voltar às categorias](#catalog)

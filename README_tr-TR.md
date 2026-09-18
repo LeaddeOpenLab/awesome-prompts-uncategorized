@@ -4803,20 +4803,26 @@ Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https:/
 
 <a name="prompt-2100793684895965264"></a>
 
-### Çeviri sürüyor
+### 2 panelli çizgi roman istemi: 1. panelde gündüz sokak randevusu, 2. panelde yatak odasında alt açıdan bacak odağı.
 
 Yazar：[@2\_\_han\_\_](https://x.com/2__han__) · [Orijinal gönderi](https://x.com/2__han__/status/2100793684895965264)
 
 Çizgi Roman / Grafik Roman · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 2 panelli çizgi roman istemi: 1. panelde gündüz sokak randevusu, 2. panelde yatak odasında alt açıdan bacak odağı.
 
 <img src="images/2100793684895965264-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+2panels, çizgi roman, manga, dikey yığın, dikey bölünme, dikey olarak istiflenmiş 2 panel,  
+
+[panel 1] tam vücut, 2kişi, birlikte yürüyor, kolları birbirine kenetlenmiş, kol kola, yan yana, randevu, mutlu gülümseme, sokakta yürüyor, büyük beden kot ceketli karakter A, siyah balıkçı yaka kazak, pantolon, krem rengi trençkotlu karakter B, pileli etek, makosen ayakkabılar, şehir sokağı arka planı, dükkân vitrini, gündüz vakti, yumuşak ışıklandırma,   
+
+[panel 2] alt açı, ayak odağı, bacak odağı, karakter B çıplak bacaklar, karakter B giyinik olmayan alt vücut, ten odağı, karakter B bacaklar havaya kaldırılmış, ayaklar yerden kesilmiş, havada duran ayaklar, parmak uçları, sivrilmiş ayak parmakları, titreyen bacaklar, uyluklarda ter damlaları, karakter B beyaz çorap giyiyor, çoraplı ayaklar, karakter A bacakları arkadan görünüş, karakter A bacakları uzağa dönük, karakter A bacakları arkadan, karakter A bacakları arasında karakter B ayakları, yere atılmış ayakkabılar, yere atılmış kıyafetler, karanlık oda, yatak odası, loş ışıklandırma, atmosferik gölgeler, (küçük kalp:1.2), süzülen kalp, pembe kalp, açılır pencere tarzı kalp,   
+
+sinematik ışıklandırma, şaheser, son derece detaylı
 ```
 
 [↑ Kategorilere dön](#catalog)

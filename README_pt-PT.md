@@ -4803,20 +4803,26 @@ Tradução em curso
 
 <a name="prompt-2100793684895965264"></a>
 
-### Tradução em curso
+### Prompt de banda desenhada de 2 painéis: encontro de dia na rua no painel 1, foco nas pernas em ângulo de baixo para cima no quarto no painel 2.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicação original](https://x.com/2__han__/status/2100793684895965264)
 
 Banda Desenhada / Romance Gráfico · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de banda desenhada de 2 painéis: encontro de dia na rua no painel 1, foco nas pernas em ângulo de baixo para cima no quarto no painel 2.
 
 <img src="images/2100793684895965264-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+2panels, banda desenhada, manga, empilhamento vertical, divisão vertical, 2 painéis empilhados verticalmente,  
+
+[panel 1] corpo inteiro, 2pessoas, a caminhar juntas, de braço dado, braço com braço, lado a lado, encontro, sorriso feliz, a caminhar na rua, personagem A com casaco de ganga oversized, camisola de gola alta preta, calças, personagem B com gabardina bege-clara, saia plissada, mocassins, fundo de rua citadina, montra de loja, dia, iluminação suave,   
+
+[panel 2] ângulo picado de baixo para cima, foco nos pés, foco nas pernas, pernas nuas da personagem B, parte inferior do corpo despida da personagem B, foco na pele, pernas da personagem B levantadas, pés fora do chão, pés a flutuar, pontas dos pés, dedos dos pés esticados, pernas a tremer, gotas de suor nas coxas, personagem B a usar meias brancas, pés com meias, pernas da personagem A em vista traseira, pernas da personagem A viradas para o lado oposto, pernas da personagem A vistas por trás, pés da personagem B entre as pernas da personagem A, sapatos descalçados no chão, roupas despidas no chão, quarto escuro, quarto, iluminação ténue, sombras expressivas, (coração pequeno:1.2), coração flutuante, coração cor-de-rosa, coração pop-up,   
+
+iluminação cinematográfica, obra-prima, altamente detalhado
 ```
 
 [↑ Voltar às categorias](#catalog)
