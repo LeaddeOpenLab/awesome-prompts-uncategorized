@@ -6129,13 +6129,13 @@ Tradução em andamento
 
 <a name="prompt-2100824363100672251"></a>
 
-### Tradução em andamento
+### Instantâneos engraçados/que deram errado brincando na praia dispostos em uma grade 3×3
 
 Autor：[@MrGafish](https://x.com/MrGafish) · [Publicação original](https://x.com/MrGafish/status/2100824363100672251)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instantâneos engraçados/que deram errado brincando na praia dispostos em uma grade 3×3
 
 <img src="images/2100824363100672251-1.jpg" alt="Imagem 1" width="480" />
 
@@ -6144,7 +6144,7 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Várias fotos que deram errado tiradas brincando na água na praia, organizadas em uma grade 3×3, composição vertical 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)

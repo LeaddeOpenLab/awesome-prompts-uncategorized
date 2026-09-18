@@ -6129,13 +6129,13 @@ Tradução em curso
 
 <a name="prompt-2100824363100672251"></a>
 
-### Tradução em curso
+### Instantâneos divertidos/falhados a brincar na praia dispostos numa grelha 3×3
 
 Autor：[@MrGafish](https://x.com/MrGafish) · [Publicação original](https://x.com/MrGafish/status/2100824363100672251)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instantâneos divertidos/falhados a brincar na praia dispostos numa grelha 3×3
 
 <img src="images/2100824363100672251-1.jpg" alt="Imagem 1" width="480" />
 
@@ -6144,7 +6144,7 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Várias fotos falhadas tiradas a brincar na água na praia, dispostas numa grelha 3×3, composição vertical 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)

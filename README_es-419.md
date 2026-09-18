@@ -6108,13 +6108,13 @@ Traducción en curso
 
 <a name="prompt-2100824363100672251"></a>
 
-### Traducción en curso
+### Fotos espontáneas divertidas/fallidas jugando en la playa dispuestas en una cuadrícula de 3×3
 
 Autor：[@MrGafish](https://x.com/MrGafish) · [Publicación original](https://x.com/MrGafish/status/2100824363100672251)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fotos espontáneas divertidas/fallidas jugando en la playa dispuestas en una cuadrícula de 3×3
 
 <img src="images/2100824363100672251-1.jpg" alt="Imagen 1" width="480" />
 
@@ -6123,7 +6123,7 @@ Otros · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Varias fotos fallidas tomadas jugando en el agua en la playa, dispuestas en una cuadrícula de 3×3, composición vertical 9:16
 ```
 
 [↑ Volver a categorías](#catalog)

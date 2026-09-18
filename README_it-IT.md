@@ -6108,13 +6108,13 @@ Traduzione in corso
 
 <a name="prompt-2100824363100672251"></a>
 
-### Traduzione in corso
+### Scatti spontanei divertenti/falliti mentre si gioca in spiaggia disposti in una griglia 3×3
 
 Autore：[@MrGafish](https://x.com/MrGafish) · [Post originale](https://x.com/MrGafish/status/2100824363100672251)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scatti spontanei divertenti/falliti mentre si gioca in spiaggia disposti in una griglia 3×3
 
 <img src="images/2100824363100672251-1.jpg" alt="Immagine 1" width="480" />
 
@@ -6123,7 +6123,7 @@ Altro · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Varie foto fallite scattate mentre si gioca nell'acqua in riva al mare, disposte in una griglia 3×3, composizione verticale 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)

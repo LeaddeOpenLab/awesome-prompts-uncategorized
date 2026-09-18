@@ -6108,13 +6108,13 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2100824363100672251"></a>
 
-### Übersetzung läuft
+### Lustige/misslungene Schnappschüsse vom Planschen am Strand, angeordnet in einem 3×3-Raster
 
 Autor：[@MrGafish](https://x.com/MrGafish) · [Originalbeitrag](https://x.com/MrGafish/status/2100824363100672251)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Lustige/misslungene Schnappschüsse vom Planschen am Strand, angeordnet in einem 3×3-Raster
 
 <img src="images/2100824363100672251-1.jpg" alt="Bild 1" width="480" />
 
@@ -6123,7 +6123,7 @@ Sonstige · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Verschiedene misslungene Fotos vom Planschen am Meer, angeordnet in einem 3×3-Gitter, vertikale Komposition im Format 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

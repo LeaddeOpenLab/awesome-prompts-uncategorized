@@ -6129,13 +6129,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2100824363100672251"></a>
 
-### Çeviri sürüyor
+### 3×3 ızgara düzeninde plajda suyla oynarken çekilmiş komik/başarısız anlık fotoğraflar
 
 Yazar：[@MrGafish](https://x.com/MrGafish) · [Orijinal gönderi](https://x.com/MrGafish/status/2100824363100672251)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 3×3 ızgara düzeninde plajda suyla oynarken çekilmiş komik/başarısız anlık fotoğraflar
 
 <img src="images/2100824363100672251-1.jpg" alt="Görsel 1" width="480" />
 
@@ -6144,7 +6144,7 @@ Diğer · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Deniz kenarında suyla oynarken çekilmiş çeşitli başarısız fotoğraflar, 3×3 ızgara düzeninde, 9:16 dikey kompozisyon
 ```
 
 [↑ Kategorilere dön](#catalog)

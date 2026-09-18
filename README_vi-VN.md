@@ -6172,13 +6172,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2100824363100672251"></a>
 
-### Đang dịch
+### Loạt ảnh chụp lén hài hước/hỏng khi chơi nước ở bãi biển sắp xếp theo lưới 3x3
 
 Tác giả：[@MrGafish](https://x.com/MrGafish) · [Bài gốc](https://x.com/MrGafish/status/2100824363100672251)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Loạt ảnh chụp lén hài hước/hỏng khi chơi nước ở bãi biển sắp xếp theo lưới 3x3
 
 <img src="images/2100824363100672251-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -6187,7 +6187,7 @@ Khác · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nhiều bức ảnh chụp hỏng khác nhau khi chơi đùa dưới nước ở bãi biển, sắp xếp theo lưới 3×3, bố cục dọc 9:16
 ```
 
 [↑ Về danh mục](#catalog)

@@ -6108,13 +6108,13 @@ Traduction en cours
 
 <a name="prompt-2100824363100672251"></a>
 
-### Traduction en cours
+### Instantanés drôles/ratés de baignade à la plage disposés en grille 3×3
 
 Auteur：[@MrGafish](https://x.com/MrGafish) · [Publication originale](https://x.com/MrGafish/status/2100824363100672251)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Instantanés drôles/ratés de baignade à la plage disposés en grille 3×3
 
 <img src="images/2100824363100672251-1.jpg" alt="Image 1" width="480" />
 
@@ -6123,7 +6123,7 @@ Autres · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Diverses photos ratées prises en jouant dans l'eau au bord de la mer, disposées en grille 3×3, composition verticale 9:16
 ```
 
 [↑ Retour aux catégories](#catalog)
