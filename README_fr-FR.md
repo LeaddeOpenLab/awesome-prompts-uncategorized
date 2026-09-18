@@ -97,20 +97,36 @@ Traduction en cours
 
 <a name="prompt-2100833209965494721"></a>
 
-### Traduction en cours
+### Photo de voyage réaliste d'un randonneur faisant un geste de cœur avec les doigts devant une haute cascade tropicale.
 
 Auteur：[@abs\_uiux](https://x.com/abs_uiux) · [Publication originale](https://x.com/abs_uiux/status/2100833209965494721)
 
 Photographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo de voyage réaliste d'un randonneur faisant un geste de cœur avec les doigts devant une haute cascade tropicale.
 
 <img src="images/2100833209965494721-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une photographie de voyage verticale hautement réaliste d'un homme adulte debout devant une immense cascade tropicale entourée d'une forêt tropicale dense et verdoyante et de falaises escarpées recouvertes de mousse.
+
+Utilisez une composition spectaculaire en contre-plongée et en pied, faisant paraître le sujet grand tandis que la haute cascade s'élève directement derrière lui. Il se tient fièrement sur un sentier rocheux et herbeux, regardant légèrement vers le bas en direction de l'appareil photo avec une expression sereine.
+
+Habillez-le d'un t-shirt de randonnée ajusté gris anthracite foncé, d'un short cargo de randonnée beige, de chaussures de trail marron/gris robustes, d'un sac à dos noir et d'une montre-bracelet noire épurée. Conservez un style pratique, naturel et aventurier.
+
+Faites-le poser avec une main tenant la bretelle du sac à dos, tandis que l'autre main est levée de manière décontractée devant sa poitrine en faisant un petit geste de cœur avec les doigts.
+
+L'arrière-plan doit présenter une spectaculaire et haute cascade plongeant d'une falaise abrupte, avec plusieurs ruisseaux plus petits coulant le long des parois rocheuses environnantes. Incluez une végétation tropicale dense, des lianes, des rochers humides, de la brume provenant de la cascade, de l'herbe vert vif au premier plan et un ciel bleu partiellement nuageux au-dessus.
+
+Utilisez une lumière naturelle vive du jour, un grain de peau réaliste, des couleurs d'extérieur authentiques, une brume atmosphérique subtile, une végétation détaillée, un mouvement d'eau réaliste, des ombres naturelles et des détails photographiques nets.
+
+Prise de vue très près du sol avec un objectif ultra grand-angle de 24–28 mm de style smartphone, créant une forte perspective de premier plan tout en gardant la cascade clairement visible.
+
+Style : photographie d'aventure réaliste, expédition de randonnée tropicale, photo de voyage spontanée, éclairage naturel, plage dynamique élevée, détails nets, photographie authentique de smartphone, cinématographique mais sans retouche excessive.
+
+Format d'image : 9:16 vertical.
 ```
 
 [↑ Retour aux catégories](#catalog)

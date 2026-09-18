@@ -97,20 +97,36 @@ Traduzione in corso
 
 <a name="prompt-2100833209965494721"></a>
 
-### Traduzione in corso
+### Foto di viaggio realistica di un escursionista che fa il gesto del cuore con le dita davanti a un'alta cascata tropicale.
 
 Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2100833209965494721)
 
 Fotografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Foto di viaggio realistica di un escursionista che fa il gesto del cuore con le dita davanti a un'alta cascata tropicale.
 
 <img src="images/2100833209965494721-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fotografia di viaggio verticale altamente realistica di un uomo adulto in piedi davanti a un'imponente cascata tropicale circondata da una fitta foresta pluviale verdeggiante e da scogliere impervie coperte di muschio.
+
+Usa una drammatica composizione a figura intera dal basso verso l'alto, facendo apparire il soggetto slanciato mentre l'imponente cascata svetta direttamente dietro di lui. L'uomo si trova in piedi con sicurezza su un sentiero roccioso ed erboso, guardando leggermente in basso verso la fotocamera con un'espressione serena.
+
+Vestilo con una maglietta da trekking aderente color antracite scuro, pantaloncini cargo da trekking beige, robuste scarpe da trail marroni/grigie, uno zaino nero e un semplice orologio da polso nero. Mantieni uno stile pratico, naturale e avventuroso.
+
+Fallo posare con una mano che regge la cinghia dello zaino mentre l'altra mano è sollevata con disinvoltura davanti al petto, facendo un piccolo gesto del cuore con le dita.
+
+Lo sfondo deve mostrare una spettacolare e alta cascata che precipita da una ripida scogliera, con diversi ruscelli più piccoli che scorrono lungo le pareti rocciose circostanti. Includi una fitta vegetazione tropicale, liane, rocce bagnate, foschia proveniente dalla cascata, erba verde brillante in primo piano e un cielo blu parzialmente nuvoloso sopra.
+
+Usa una luminosa luce diurna naturale, una texture della pelle realistica, autentici colori all'aperto, una sottile foschia atmosferica, vegetazione dettagliata, movimento dell'acqua realistico, ombre naturali e nitidi dettagli fotografici.
+
+Scatto realizzato vicinissimo al livello del suolo con un obiettivo ultragrandangolare da 24–28 mm in stile smartphone, creando una forte prospettiva in primo piano mantenendo la cascata chiaramente visibile.
+
+Stile: fotografia d'avventura realistica, spedizione di trekking tropicale, foto di viaggio spontanea, illuminazione naturale, elevata gamma dinamica, dettagli nitidi, autentica fotografia da smartphone, cinematografica ma non eccessivamente modificata.
+
+Rapporto d'aspetto: 9:16 verticale.
 ```
 
 [↑ Torna alle categorie](#catalog)

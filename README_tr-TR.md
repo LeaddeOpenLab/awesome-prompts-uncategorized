@@ -97,20 +97,36 @@ Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijin
 
 <a name="prompt-2100833209965494721"></a>
 
-### Çeviri sürüyor
+### Yüksek bir tropikal şelalenin önünde parmaklarıyla kalp işareti yapan bir doğa yürüyüşçüsünün gerçekçi seyahat fotoğrafı.
 
 Yazar：[@abs\_uiux](https://x.com/abs_uiux) · [Orijinal gönderi](https://x.com/abs_uiux/status/2100833209965494721)
 
 Fotoğrafçılık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yüksek bir tropikal şelalenin önünde parmaklarıyla kalp işareti yapan bir doğa yürüyüşçüsünün gerçekçi seyahat fotoğrafı.
 
 <img src="images/2100833209965494721-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gür yeşil yağmur ormanları ve engebeli, yosun kaplı kayalıklarla çevrili devasa bir tropikal şelalenin önünde duran yetişkin bir erkeğin son derece gerçekçi, dikey bir seyahat fotoğrafını oluşturun.
+
+Özneyi uzun gösteren dramatik, alt açıdan tam boy bir kompozisyon kullanın; devasa şelale doğrudan arkasında yükselmektedir. Çimenli, kayalık bir patikada kendinden emin bir şekilde durmakta, sakin bir ifadeyle kameraya doğru hafifçe aşağıya bakmaktadır.
+
+Üzerine koyu antrasit renkte bedene oturan bir trekking tişörtü, bej kargo yürüyüş şortu, sağlam kahverengi/gri patika ayakkabıları, siyah bir sırt çantası ve sade siyah bir kol saati giydirin. Tarzı pratik, doğal ve maceracı tutun.
+
+Bir eliyle sırt çantasının askısını tutarken diğer elini göğsünün önünde rahatça kaldırıp parmaklarıyla küçük bir kalp işareti yapacak şekilde poz verdirin.
+
+Arka planda sarp bir uçurumdan dökülen görkemli, yüksek bir şelale ve çevredeki kaya duvarlarından aşağı süzülen birkaç küçük akıntı yer almalıdır. Yoğun tropikal bitki örtüsü, sarmaşıklar, ıslak kayalar, şelaleden yayılan su sisi, ön planda parlak yeşil çimenler ve yukarıda parçalı bulutlu mavi bir gökyüzü ekleyin.
+
+Parlak doğal gün ışığı, gerçekçi cilt dokusu, otantik dış mekân renkleri, ince atmosferik sis, ayrıntılı bitki örtüsü, gerçekçi su hareketi, doğal gölgeler ve net fotoğrafik detaylar kullanın.
+
+Şelaleyi net bir şekilde görünür kılarken güçlü bir ön plan perspektifi oluşturan, akıllı telefon tarzı 24–28 mm ultra geniş açılı bir lensle yere çok yakın bir seviyeden çekilmiş olsun.
+
+Tarz: gerçekçi macera fotoğrafçılığı, tropikal doğa yürüyüşü keşif gezisi, samimi seyahat fotoğrafı, doğal aydınlatma, yüksek dinamik aralık, keskin ayrıntılar, özgün akıllı telefon fotoğrafçılığı, sinematik ancak aşırı düzenlenmemiş.
+
+En-boy oranı: 9:16 dikey.
 ```
 
 [↑ Kategorilere dön](#catalog)

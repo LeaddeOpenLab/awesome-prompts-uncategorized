@@ -97,20 +97,36 @@ Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Original
 
 <a name="prompt-2100833209965494721"></a>
 
-### Übersetzung läuft
+### Realistisches Reisefoto eines Wanderers, der vor einem hohen tropischen Wasserfall eine Fingerherz-Geste macht.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Originalbeitrag](https://x.com/abs_uiux/status/2100833209965494721)
 
 Fotografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Realistisches Reisefoto eines Wanderers, der vor einem hohen tropischen Wasserfall eine Fingerherz-Geste macht.
 
 <img src="images/2100833209965494721-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein hochrealistisches vertikales Reisefoto eines erwachsenen Mannes, der vor einem gewaltigen tropischen Wasserfall steht, umgeben von dichtem grünem Regenwald und schroffen, moosbewachsenen Klippen.
+
+Wähle eine dramatische Ganzkörperkomposition aus der Froschperspektive, die das Motiv groß wirken lässt, während der hoch aufragende Wasserfall direkt hinter ihm emporsteigt. Er steht selbstbewusst auf einem grasbewachsenen, felsigen Pfad und blickt mit ruhigem Ausdruck leicht nach unten in die Kamera.
+
+Kleide ihn in ein dunkelanthrazitfarbenes, tailliertes Wander-T-Shirt, beige Cargo-Wandershorts, robuste braun/graue Trailschuhe, einen schwarzen Rucksack und eine schlichte schwarze Armbanduhr. Halte das Styling praktisch, natürlich und abenteuerlich.
+
+Posiere ihn so, dass eine Hand den Rucksackriemen hält, während die andere Hand lässig vor der Brust angehoben ist und eine kleine Fingerherz-Geste formt.
+
+Der Hintergrund sollte einen spektakulären, hohen Wasserfall zeigen, der von einer steilen Klippe herabstürzt, mit mehreren kleineren Bächen, die an den umliegenden Felswänden hinabfließen. Beziehe dichte tropische Vegetation, Lianen, feuchte Felsen, Gischt vom Wasserfall, leuchtend grünes Gras im Vordergrund und einen leicht bewölkten blauen Himmel darüber mit ein.
+
+Verwende helles natürliches Tageslicht, realistische Hauttextur, authentische Outdoor-Farben, feinen atmosphärischen Dunst, detaillierte Vegetation, realistische Wasserbewegung, natürliche Schatten und gestochen scharfe fotografische Details.
+
+Aufgenommen sehr nah am Boden mit einem Ultraweitwinkelobjektiv im Smartphone-Stil (24–28 mm), was eine starke Vordergrundperspektive erzeugt, während der Wasserfall deutlich sichtbar bleibt.
+
+Stil: realistische Abenteuerfotografie, tropische Wanderexpedition, spontanes Reisefoto, natürliche Beleuchtung, hoher Dynamikumfang, scharfe Details, authentische Smartphone-Fotografie, filmisch, aber nicht überbearbeitet.
+
+Seitenverhältnis: 9:16 vertikal.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

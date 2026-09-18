@@ -97,20 +97,36 @@ Traducción en curso
 
 <a name="prompt-2100833209965494721"></a>
 
-### Traducción en curso
+### Foto de viaje realista de un excursionista haciendo un gesto de corazón con los dedos frente a una alta cascada tropical.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicación original](https://x.com/abs_uiux/status/2100833209965494721)
 
 Fotografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Foto de viaje realista de un excursionista haciendo un gesto de corazón con los dedos frente a una alta cascada tropical.
 
 <img src="images/2100833209965494721-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una fotografía de viajes vertical y muy realista de un hombre adulto de pie frente a una enorme cascada tropical rodeada por una densa selva verde y escarpados acantilados cubiertos de musgo.
+
+Usa una composición dramática de cuerpo entero en contrapicado, haciendo que el sujeto se vea alto mientras la imponente cascada se eleva directamente detrás de él. Está de pie con confianza en un sendero rocoso y cubierto de hierba, mirando ligeramente hacia abajo en dirección a la cámara con una expresión tranquila.
+
+Vístelo con una camiseta de senderismo entallada de color gris carbón oscuro, pantalones cortos cargo de senderismo color beige, calzado de montaña resistente en marrón/gris, una mochila negra y un reloj de pulsera negro sencillo. Mantén el estilo práctico, natural y aventurero.
+
+Posalo con una mano sosteniendo la correa de la mochila mientras la otra mano se levanta casualmente frente a su pecho haciendo un pequeño gesto de corazón con los dedos.
+
+El fondo debe mostrar una espectacular y alta cascada que cae desde un acantilado escarpado, con varios arroyos más pequeños fluyendo por las paredes rocosas circundantes. Incluye densa vegetación tropical, lianas, rocas húmedas, neblina procedente de la cascada, hierba verde brillante en primer plano y un cielo azul parcialmente nublado arriba.
+
+Usa luz natural brillante, textura de piel realista, colores auténticos de exteriores, sutil neblina atmosférica, vegetación detallada, movimiento realista del agua, sombras naturales y detalles fotográficos nítidos.
+
+Tomada muy cerca del nivel del suelo con un lente ultra gran angular estilo smartphone de 24–28 mm, creando una fuerte perspectiva de primer plano mientras se mantiene la cascada claramente visible.
+
+Estilo: fotografía de aventura realista, expedición de senderismo tropical, foto de viaje espontánea, iluminación natural, alto rango dinámico, detalles nítidos, fotografía de smartphone auténtica, cinematográfica pero sin exceso de edición.
+
+Relación de aspecto: 9:16 vertical.
 ```
 
 [↑ Volver a categorías](#catalog)

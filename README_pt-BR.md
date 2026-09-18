@@ -97,20 +97,36 @@ Tradução em andamento
 
 <a name="prompt-2100833209965494721"></a>
 
-### Tradução em andamento
+### Foto de viagem realista de um trilheiro fazendo um gesto de coração com os dedos diante de uma alta cachoeira tropical.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2100833209965494721)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Foto de viagem realista de um trilheiro fazendo um gesto de coração com os dedos diante de uma alta cachoeira tropical.
 
 <img src="images/2100833209965494721-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma fotografia de viagem vertical altamente realista de um homem adulto em frente a uma enorme cachoeira tropical cercada por uma densa floresta tropical verdejante e penhascos íngremes cobertos de musgo.
+
+Use uma composição dramática de corpo inteiro em ângulo baixo (contra-plongée), fazendo com que o sujeito pareça alto enquanto a imponente cachoeira se ergue diretamente atrás dele. Ele está em pé com confiança em uma trilha rochosa e gramada, olhando levemente para baixo em direção à câmera com uma expressão tranquila.
+
+Vista-o com uma camiseta de trilha ajustada na cor grafite escuro, bermuda cargo de trilha bege, calçados de trilha robustos em marrom/cinza, uma mochila preta e um relógio de pulso preto simples. Mantenha o estilo prático, natural e aventureiro.
+
+Posicione-o com uma mão segurando a alça da mochila enquanto a outra mão está levantada casualmente em frente ao peito fazendo um pequeno gesto de coração com os dedos.
+
+O fundo deve apresentar uma cachoeira alta e espetacular despencando de um penhasco íngreme, com vários pequenos riachos descendo pelas paredes rochosas ao redor. Inclua vegetação tropical densa, trepadeiras, pedras molhadas, névoa vinda da cachoeira, grama verde brilhante em primeiro plano e um céu azul parcialmente nublado acima.
+
+Use luz natural brilhante do dia, textura de pele realista, cores autênticas de ambiente externo, névoa atmosférica sutil, vegetação detalhada, movimento de água realista, sombras naturais e detalhes fotográficos nítidos.
+
+Foto tirada bem rente ao chão com uma lente ultra-angular de 24–28 mm no estilo smartphone, criando uma forte perspectiva em primeiro plano enquanto mantém a cachoeira claramente visível.
+
+Estilo: fotografia de aventura realista, expedição de trilha tropical, foto de viagem espontânea, iluminação natural, alto alcance dinâmico, detalhes nítidos, fotografia autêntica de smartphone, cinematográfica mas sem edição excessiva.
+
+Proporção de tela: 9:16 vertical.
 ```
 
 [↑ Voltar às categorias](#catalog)

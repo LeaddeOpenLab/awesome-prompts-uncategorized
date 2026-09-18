@@ -97,20 +97,36 @@ Tradução em curso
 
 <a name="prompt-2100833209965494721"></a>
 
-### Tradução em curso
+### Fotografia de viagem realista de um caminhante a fazer um gesto de coração com os dedos diante de uma cascata tropical alta.
 
 Autor：[@abs\_uiux](https://x.com/abs_uiux) · [Publicação original](https://x.com/abs_uiux/status/2100833209965494721)
 
 Fotografia · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Fotografia de viagem realista de um caminhante a fazer um gesto de coração com os dedos diante de uma cascata tropical alta.
 
 <img src="images/2100833209965494721-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie uma fotografia de viagem vertical altamente realista de um homem adulto em frente a uma enorme cascata tropical rodeada por uma densa floresta tropical verdejante e escarpadas falésias cobertas de musgo.
+
+Use uma composição dramática de corpo inteiro em contra-picado, fazendo com que o sujeito pareça alto enquanto a imponente cascata se ergue diretamente atrás dele. Ele está de pé com confiança num trilho rochoso e relvado, a olhar ligeiramente para baixo em direção à câmara com uma expressão tranquila.
+
+Vista-o com uma t-shirt de caminhada justa em tom cinzento-antracite escuro, calções cargo de caminhada bege, calçado de montanha robusto em castanho/cinzento, uma mochila preta e um relógio de pulso preto simples. Mantenha o estilo prático, natural e aventureiro.
+
+Coloque-o na pose com uma mão a segurar a alça da mochila enquanto a outra mão se levanta descontraidamente em frente ao peito a fazer um pequeno gesto de coração com os dedos.
+
+O fundo deve apresentar uma cascata alta e espetacular a precipitar-se de uma escarpa íngreme, com vários pequenos riachos a correr pelas paredes rochosas circundantes. Inclua vegetação tropical espessa, lianas, rochas húmidas, névoa da cascata, relva verde brilhante em primeiro plano e um céu azul parcialmente nublado no topo.
+
+Use luz diurna natural brilhante, textura de pele realista, cores autênticas de exterior, névoa atmosférica subtil, vegetação detalhada, movimento de água realista, sombras naturais e detalhes fotográficos nítidos.
+
+Captada muito perto do nível do solo com uma lente ultra grande angular de 24–28 mm estilo smartphone, criando uma forte perspetiva de primeiro plano enquanto mantém a cascata claramente visível.
+
+Estilo: fotografia de aventura realista, expedição de caminhada tropical, fotografia de viagem espontânea, iluminação natural, alto alcance dinâmico, detalhes nítidos, fotografia autêntica de smartphone, cinematográfica mas sem edição excessiva.
+
+Proporção: 9:16 vertical.
 ```
 
 [↑ Voltar às categorias](#catalog)

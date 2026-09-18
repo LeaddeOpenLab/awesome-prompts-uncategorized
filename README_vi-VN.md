@@ -97,20 +97,20 @@ Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](h
 
 <a name="prompt-2100833209965494721"></a>
 
-### Đang dịch
+### Bức ảnh du lịch chân thực về một người đi bộ đường dài đang bắn tim bằng ngón tay trước một thác nước nhiệt đới cao lớn.
 
 Tác giả：[@abs\_uiux](https://x.com/abs_uiux) · [Bài gốc](https://x.com/abs_uiux/status/2100833209965494721)
 
 Nhiếp ảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức ảnh du lịch chân thực về một người đi bộ đường dài đang bắn tim bằng ngón tay trước một thác nước nhiệt đới cao lớn.
 
 <img src="images/2100833209965494721-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh du lịch khổ dọc có độ chân thực cao chụp một người đàn ông trưởng thành đứng trước một thác nước nhiệt đới khổng lồ, bao quanh bởi rừng mưa xanh tươi rậm rạp và những vách đá gồ ghề phủ đầy rêu. Sử dụng bố cục chụp toàn thân góc thấp đầy ấn tượng, làm cho chủ thể trông cao lớn trong khi thác nước cao chọc trời sừng sững ngay phía sau anh ấy. Anh đứng tự tin trên một con đường mòn đầy sỏi đá và cỏ xanh, hơi cúi nhìn về phía máy ảnh với vẻ mặt điềm tĩnh. Cho anh mặc áo phông leo núi vừa vặn màu than chì đậm, quần đùi túi hộp dã ngoại màu be, giày chạy địa hình màu nâu/xám bền bỉ, ba lô màu đen và một chiếc đồng hồ đeo tay màu đen đơn giản. Giữ phong cách mang tính thực tế, tự nhiên và phiêu lưu. Tạo dáng một tay nắm dây đeo ba lô trong khi tay kia nhấc nhẹ nhàng trước ngực tạo cử chỉ bắn tim bằng ngón tay nhỏ nhắn. Hậu cảnh có một thác nước cao ngoạn mục đổ xuống từ vách đá dựng đứng, với một vài dòng suối nhỏ chảy dọc theo các bức tường đá xung quanh. Bao gồm thảm thực vật nhiệt đới dày đặc, dây leo, đá ẩm ướt, sương mờ từ thác nước, thảm cỏ xanh tươi sáng ở tiền cảnh và bầu trời trong xanh có mây rải rác phía trên. Sử dụng ánh sáng ban ngày tự nhiên tươi sáng, kết cấu da chân thực, màu sắc ngoài trời chân phương, sương mù khí quyển nhẹ nhàng, thảm thực vật chi tiết, chuyển động của nước sống động, bóng đổ tự nhiên và chi tiết nhiếp ảnh sắc nét. Chụp từ vị trí rất sát mặt đất bằng ống kính góc siêu rộng 24–28mm phong cách điện thoại thông minh, tạo hiệu ứng chiều sâu tiền cảnh mạnh mẽ nhưng vẫn giữ cho thác nước hiển thị rõ ràng. Phong cách: nhiếp ảnh phiêu lưu chân thực, chuyến thám hiểm đi bộ đường dài nhiệt đới, ảnh du lịch chụp tự nhiên, ánh sáng tự nhiên, dải tương phản động cao, chi tiết sắc nét, chất lượng ảnh chụp bằng điện thoại chân thực, mang tính điện ảnh nhưng không bị chỉnh sửa quá đà. Tỉ lệ khung hình: 9:16 chiều dọc.
 ```
 
 [↑ Về danh mục](#catalog)
