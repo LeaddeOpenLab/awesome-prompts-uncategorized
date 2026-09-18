@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T16:48:28.648Z",
+  "model": "unknown-image",
+  "prompt": "3:4，自然光数码古装写真，粉白古装 × 深色木质回廊 × 强烈庭院日光 × 高光溢出 × 深暗背景 × 清甜灵动\n\n人物为成年女性；轻盈纤细，漂亮自然，黑色长发半束高髻，粉珠银链额饰、白花与粉白羽毛头饰、银色长链耳坠；淡粉半哑光妆容。\n\n服装固定：\n粉白长裙 / 淡粉胸前拼片 / 白色半透明宽袖薄纱 / 浅粉披帛，轻薄透光材质。\n\n【场景】\n木柱旁 / 雕花门边 / 回廊栏杆内侧 / 廊道入口 / 格窗旁 / 门槛边\n\n【事件动作】\n托着白兔观察 / 抚摸兔耳 / 从柱后探身 / 抬手展开披帛 / 双手牵起薄纱观察透光 / 扶柱探头 / 整理耳边发丝 / 靠栏向外看 / 提裙跨门槛 / 转身时披帛被风带起\n\n【表情】\n好奇 / 忍笑 / 轻微惊讶 / 若有所思 / 刚准备开口 / 嘴角轻扬 / 短暂走神\n\n【视线】\n看兔子 / 看手中薄纱 / 看向画外 / 沿回廊远望 / 偶尔看向镜头后的某个人\n\n【景别构图】\n环境大半身 / 半身 / 胸像近景 / 3/4侧面 / 木柱前景遮挡 / 门框框景 / 人物偏置构图 / 大片暗色建筑负空间\n\n【光线】\n人物位于回廊阳光与阴影交界处，强烈侧前方自然日光；脸部明亮但保留五官，白纱与浅粉织物局部自然过曝，深色木质建筑明显欠曝，暗部接近黑色，不进行HDR式提亮。\n\n【成片】\n真实自然光数码写真，偏高反差，柔和肤色，轻微高光溢出，不过度锐化，非棚拍，非现代商业古风写真。",
+  "promptTranslations": {
+    "en": "3:4, natural light digital period costume portrait photography, pink and white period costume × dark wooden corridor × intense courtyard daylight × blown-out highlight bloom × deep dark background × sweet and lively\n\nSubject is an adult female; lithe and slender, naturally beautiful, long black hair half-tied in a high bun, forehead ornament with pink beads and silver chains, white flowers and pinkish-white feather headdress, long silver chain earrings; soft pink semi-matte makeup.\n\nFixed Attire:\nPink and white long skirt / pale pink chest patch / white translucent wide-sleeved sheer gauze / light pink pibo scarf, lightweight and translucent material.\n\n[Scene]\nBeside a wooden pillar / next to a carved wooden door / inside the corridor railing / corridor entrance / beside a latticed window / by the threshold\n\n[Action / Movement]\nHolding a white rabbit and observing it / stroking the rabbit's ears / leaning out from behind a pillar / raising hands to spread the scarf / lifting the sheer gauze with both hands to observe light transmission / holding the pillar and peeking out / tucking hair behind the ear / leaning on the railing looking out / lifting skirt stepping over threshold / scarf caught by the wind while turning around\n\n[Expression]\nCurious / suppressing a smile / slight surprise / thoughtful / just about to speak / slight upward curve of the lips / briefly daydreaming\n\n[Gaze]\nLooking at the rabbit / looking at the sheer fabric in hand / looking outside the frame / gazing into the distance along the corridor / occasionally looking at someone behind the camera\n\n[Shot Framing & Composition]\nEnvironmental three-quarter shot / medium shot / bust close-up / 3/4 profile / wooden pillar foreground occlusion / doorframe framing / off-center character composition / large areas of dark architectural negative space\n\n[Lighting]\nThe subject is situated at the boundary between sunlight and shadow in the corridor, strong natural daylight from the front-side; face is bright yet retains facial features, white gauze and light pink fabrics naturally overexposed in parts, dark wooden architecture noticeably underexposed, shadows near black, no HDR-style brightening.\n\n[Final Look]\nRealistic natural light digital portrait photography, slightly high contrast, soft skin tones, subtle highlight bloom, not over-sharpened, not studio-shot, not modern commercial period-costume portrait photography."
+  },
+  "summaryTranslations": {
+    "en": "High-contrast natural light portrait photography prompt of a woman in pink and white traditional Chinese costume in a dark wooden corridor courtyard, including attire, scene, and action details."
+  },
+  "translationVersion": 2,
+  "summary": "粉白古装女子在深色木廊庭院中的高反差自然光写真提示词，包含服饰、场景与动作细节。",
+  "summaryEn": "Prompt for natural-light high-contrast portraits of a woman in pink-white traditional costume along a wooden corridor.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100961447631311163",
+      "canonicalUrl": "https://x.com/nanyuan0412/status/2100961447631311163",
+      "author": {
+        "username": "nanyuan0412",
+        "displayName": "南鸢 nuyoah",
+        "profileUrl": "https://x.com/nanyuan0412"
+      },
+      "originalText": "一天没有GPT 跑图了，晚上想跑一跑，结果还降质了\n\n但是这拼图的效果可真好啊。\n\n左是拼图，右是正常 https://t.co/bhCTi4UDlw"
+    },
+    "id": "2100969699387568544",
+    "canonicalUrl": "https://x.com/nanyuan0412/status/2100969699387568544",
+    "author": {
+      "username": "nanyuan0412",
+      "displayName": "南鸢 nuyoah",
+      "profileUrl": "https://x.com/nanyuan0412"
+    },
+    "publishedAt": "2026-09-18T15:26:25.000Z",
+    "collectedAt": "2026-09-18T16:16:16.321Z",
+    "language": "zh",
+    "originalText": "挑几个好看的发一下～ \n\nprompt 大概是这样的，能不能出效果就看你们自己啦\n\n3:4，自然光数码古装写真，粉白古装 × 深色木质回廊 × 强烈庭院日光 × 高光溢出 × 深暗背景 × 清甜灵动\n\n人物为成年女性；轻盈纤细，漂亮自然，黑色长发半束高髻，粉珠银链额饰、白花与粉白羽毛头饰、银色长链耳坠；淡粉半哑光妆容。\n\n服装固定：\n粉白长裙 / 淡粉胸前拼片 / 白色半透明宽袖薄纱 / 浅粉披帛，轻薄透光材质。\n\n【场景】\n木柱旁 / 雕花门边 / 回廊栏杆内侧 / 廊道入口 / 格窗旁 / 门槛边\n\n【事件动作】\n托着白兔观察 / 抚摸兔耳 / 从柱后探身 / 抬手展开披帛 / 双手牵起薄纱观察透光 / 扶柱探头 / 整理耳边发丝 / 靠栏向外看 / 提裙跨门槛 / 转身时披帛被风带起\n\n【表情】\n好奇 / 忍笑 / 轻微惊讶 / 若有所思 / 刚准备开口 / 嘴角轻扬 / 短暂走神\n\n【视线】\n看兔子 / 看手中薄纱 / 看向画外 / 沿回廊远望 / 偶尔看向镜头后的某个人\n\n【景别构图】\n环境大半身 / 半身 / 胸像近景 / 3/4侧面 / 木柱前景遮挡 / 门框框景 / 人物偏置构图 / 大片暗色建筑负空间\n\n【光线】\n人物位于回廊阳光与阴影交界处，强烈侧前方自然日光；脸部明亮但保留五官，白纱与浅粉织物局部自然过曝，深色木质建筑明显欠曝，暗部接近黑色，不进行HDR式提亮。\n\n【成片】\n真实自然光数码写真，偏高反差，柔和肤色，轻微高光溢出，不过度锐化，非棚拍，非现代商业古风写真。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSgklbsbkAE1X2y.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSgklbsbkAE1X2y.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSgklbwaEAAJY53.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSgklbwaEAAJY53.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSgklbwa0AI8oJm.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSgklbwa0AI8oJm.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSgklbubUAEacJn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSgklbubUAEacJn.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSgdJyEa0AA4hxO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSgdJyEa0AA4hxO.jpg",
+        "sourcePostId": "2100961447631311163"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSgdSNfakAA1U_L.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSgdSNfakAA1U_L.jpg",
+        "sourcePostId": "2100961447631311163"
+      }
+    ],
+    "metrics": {
+      "likeCount": 7,
+      "repostCount": 3,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 1066
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/nanyuan0412/status/2100969699387568544",
+  "coverUrl": "https://pbs.twimg.com/media/HSgklbsbkAE1X2y.jpg",
+  "coverPath": "images/2100969699387568544-1.jpg",
+  "imagePaths": [
+    "images/2100969699387568544-1.jpg",
+    "images/2100969699387568544-2.jpg",
+    "images/2100969699387568544-3.jpg",
+    "images/2100969699387568544-4.jpg",
+    "images/2100969699387568544-5.jpg",
+    "images/2100969699387568544-6.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSgklbsbkAE1X2y",
+    "x-image:/media/HSgklbwaEAAJY53",
+    "x-image:/media/HSgklbwa0AI8oJm",
+    "x-image:/media/HSgklbubUAEacJn",
+    "x-image:/media/HSgdJyEa0AA4hxO",
+    "x-image:/media/HSgdSNfakAA1U_L",
+    "x-post:2100969699387568544",
+    "x-post:2100961447631311163"
+  ],
+  "analysis": {
+    "summary": "粉白古装女子在深色木廊庭院中的高反差自然光写真提示词，包含服饰、场景与动作细节。",
+    "summaryEn": "Prompt for natural-light high-contrast portraits of a woman in pink-white traditional costume along a wooden corridor.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完美呈现了粉白古风服饰、羽毛花朵头饰、深木色回廊、白兔以及强烈的侧逆光与高光溢出效果。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "3:4，自然光数码古装写真，粉白古装 × 深色木质回廊 × 强烈庭院日光 × 高光溢出 × 深暗背景 × 清甜灵动\n\n人物为成年女性；轻盈纤细，漂亮自然，黑色长发半束高髻，粉珠银链额饰、白花与粉白羽毛头饰、银色长链耳坠；淡粉半哑光妆容。\n\n服装固定：\n粉白长裙 / 淡粉胸前拼片 / 白色半透明宽袖薄纱 / 浅粉披帛，轻薄透光材质。\n\n【场景】\n木柱旁 / 雕花门边 / 回廊栏杆内侧 / 廊道入口 / 格窗旁 / 门槛边\n\n【事件动作】\n托着白兔观察 / 抚摸兔耳 / 从柱后探身 / 抬手展开披帛 / 双手牵起薄纱观察透光 / 扶柱探头 / 整理耳边发丝 / 靠栏向外看 / 提裙跨门槛 / 转身时披帛被风带起\n\n【表情】\n好奇 / 忍笑 / 轻微惊讶 / 若有所思 / 刚准备开口 / 嘴角轻扬 / 短暂走神\n\n【视线】\n看兔子 / 看手中薄纱 / 看向画外 / 沿回廊远望 / 偶尔看向镜头后的某个人\n\n【景别构图】\n环境大半身 / 半身 / 胸像近景 / 3/4侧面 / 木柱前景遮挡 / 门框框景 / 人物偏置构图 / 大片暗色建筑负空间\n\n【光线】\n人物位于回廊阳光与阴影交界处，强烈侧前方自然日光；脸部明亮但保留五官，白纱与浅粉织物局部自然过曝，深色木质建筑明显欠曝，暗部接近黑色，不进行HDR式提亮。\n\n【成片】\n真实自然光数码写真，偏高反差，柔和肤色，轻微高光溢出，不过度锐化，非棚拍，非现代商业古风写真。",
+    "sourceRange": {
+      "start": 42,
+      "end": 655
+    },
+    "translations": {
+      "zh": "3:4，自然光数码古装写真，粉白古装 × 深色木质回廊 × 强烈庭院日光 × 高光溢出 × 深暗背景 × 清甜灵动\n\n人物为成年女性；轻盈纤细，漂亮自然，黑色长发半束高髻，粉珠银链额饰、白花与粉白羽毛头饰、银色长链耳坠；淡粉半哑光妆容。\n\n服装固定：\n粉白长裙 / 淡粉胸前拼片 / 白色半透明宽袖薄纱 / 浅粉披帛，轻薄透光材质。\n\n【场景】\n木柱旁 / 雕花门边 / 回廊栏杆内侧 / 廊道入口 / 格窗旁 / 门槛边\n\n【事件动作】\n托着白兔观察 / 抚摸兔耳 / 从柱后探身 / 抬手展开披帛 / 双手牵起薄纱观察透光 / 扶柱探头 / 整理耳边发丝 / 靠栏向外看 / 提裙跨门槛 / 转身时披帛被风带起\n\n【表情】\n好奇 / 忍笑 / 轻微惊讶 / 若有所思 / 刚准备开口 / 嘴角轻扬 / 短暂走神\n\n【视线】\n看兔子 / 看手中薄纱 / 看向画外 / 沿回廊远望 / 偶尔看向镜头后的某个人\n\n【景别构图】\n环境大半身 / 半身 / 胸像近景 / 3/4侧面 / 木柱前景遮挡 / 门框框景 / 人物偏置构图 / 大片暗色建筑负空间\n\n【光线】\n人物位于回廊阳光与阴影交界处，强烈侧前方自然日光；脸部明亮但保留五官，白纱与浅粉织物局部自然过曝，深色木质建筑明显欠曝，暗部接近黑色，不进行HDR式提亮。\n\n【成片】\n真实自然光数码写真，偏高反差，柔和肤色，轻微高光溢出，不过度锐化，非棚拍，非现代商业古风写真。",
+      "en": "3:4, natural light digital period costume portrait, pink and white traditional dress × dark wooden corridor × intense courtyard sunlight × highlight bloom × deep dark background × sweet and lively.\n\nSubject: adult female, slender, delicate, natural beauty, long black hair in a half-up bun, forehead ornament with pink beads and silver chains, white flowers and pinkish-white feather headdress, long silver chain earrings, subtle pink semi-matte makeup.\n\nAttire:\nPink-and-white long gown, light pink chest patchwork, white translucent wide-sleeve chiffon, pale pink drape scarf, airy and sheer fabric.\n\nScene:\nBeside wooden pillars, carved doors, corridor railings, corridor entrance, lattice windows, door threshold.\n\nActions:\nHolding or petting a white rabbit, peeking from behind a pillar, raising arm to spread the scarf, holding up gauze to see light filtration, touching hair, leaning on railing, lifting skirt over threshold, turning around with scarf catching the wind.\n\nExpressions & Gaze:\nCurious, suppressing a smile, slightly surprised, pensive, smiling subtly; looking at rabbit, looking at scarf, gazing off-camera, or looking toward the lens.\n\nComposition & Lighting:\nMedium to close-up shots, 3/4 profile, wooden pillar foreground, framing, dark negative space. Located at light-shadow boundary with strong side sunlight, luminous face, natural overexposure on sheer fabrics, underexposed dark wood background, high contrast natural portrait look."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "艺术创作",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
