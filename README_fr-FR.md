@@ -57,20 +57,60 @@ Un portrait photoréaliste de Liza, une belle jeune femme aux longs cheveux brun
 
 <a name="prompt-2100768295884624177"></a>
 
-### Traduction en cours
+### Prompt de style photographique d'une femme japonaise en lingerie beige avoine se retournant avec douceur dans un sauna privé au coucher du soleil.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100768295884624177)
 
 Photographie · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de style photographique d'une femme japonaise en lingerie beige avoine se retournant avec douceur dans un sauna privé au coucher du soleil.
 
 <img src="images/2100768295884624177-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Sauna près de la fenêtre au crépuscule | Doux retournement en beige avoine🌟
+
+【Sujet / Style artistique】
+Œuvre photoréaliste mettant en scène une femme japonaise incontestablement adulte se relaxant dans un sauna privé en fin d'après-midi. Elle capture l'instant où, après avoir contemplé le paysage extérieur, elle perçoit la présence de son partenaire et tourne doucement son visage vers lui.
+Possédant la finesse d'une page de livre de photos haut de gamme, elle conserve une atmosphère intime et vivante. Une expression photographique cinématographique qui transmet le calme, la tiédeur et une féminité naturelle plutôt qu'une sensualité éclatante.
+
+【Lieu / Arrière-plan / Ambiance】
+Un sauna privé avec fenêtre à l'atmosphère paisible, entouré de murs en bois et de bancs en gradins. Le sujet est assise sur le banc inférieur près de la fenêtre ; à proximité se trouve une serviette de sauna, au fond le poêle de sauna, et sous les bancs un éclairage indirect discret.
+À travers la petite fenêtre, les arbres du jardin baignés par le soleil couchant créent de la profondeur par contraste avec l'intérieur. L'arrière-plan n'a pas l'air d'un hôtel de luxe trop apprêté, mais dégage la chaleur du bois et un confort douillet et tranquille.
+
+【Saison / Heure / Météo】
+La saison évoque une douce fin de journée de début d'automne. Le ciel extérieur est dégagé, et le soleil déclinant projette une douce lumière dorée.
+L'intérieur est enveloppé de la chaleur sèche propre au sauna, dont le contraste avec la fraîcheur extérieure donne de la profondeur à l'atmosphère. L'expression de ce moment serein rappelant la fin d'une journée paisible est soigneusement préservée.
+
+【Personnage】
+Femme japonaise incontestablement adulte âgée d'environ 20 à 28 ans. Aux traits doux et harmonieux, avec de grands yeux sombres, des sourcils naturels et des lèvres au teint sain, elle allie accessibilité et raffinement. Ses cheveux châtain foncé, coiffés en douces ondulations naturelles jusqu'aux épaules, sont attachés de manière lâche avec des mèches humides encadrant son visage.
+Sa peau présente un teint ocre clair à la texture naturelle et sans lissage excessif. Silhouette élégante, naturellement pulpeuse et harmonieuse, alliant la délicatesse des épaules et des membres à une taille fine et des courbes féminines. La poitrine est nettement volumineuse tout en épousant de manière douce et naturelle la tenue et la posture, en parfait équilibre avec l'ensemble du corps.
+
+【Tenue / Accessoires】
+La tenue se compose d'un soutien-gorge et d'une culotte de couleur beige avoine. Un design raffiné associant une dentelle à broderies florales ivoire et des empiècements en satin à l'éclat discret, avec une doublure opaque ton sur ton sur les zones clés.
+On évitera les transparences excessives et les ornements superflus pour privilégier une coupe réaliste qui épouse les formes. Elle s'ajuste sans effort à la poitrine et aux hanches, sans bâiller ni comprimer. Aucun accessoire en principe, ou tout au plus de très discrètes petites boucles d'oreilles si nécessaire.
+
+【Pose / Mouvement / Regard】
+La femme est assise sur la serviette de sauna du banc inférieur, jambes tendues jointes vers l'avant, la pointe des pieds reposant naturellement sur le sol. Le torse est légèrement orienté vers la fenêtre, mais avec une douce torsion du haut du corps, traduisant le mouvement en cours de reporter son regard vers son partenaire après avoir admiré le paysage.
+Ses deux mains effleurent le banc à côté de son corps : l'une en appui vers l'arrière, l'autre posée naturellement près de la cuisse. Le regard ne fixe pas directement l'objectif, mais se dirige vers le partenaire situé légèrement au-dessus de l'appareil, dans une direction naturelle comme pour demander : « Qu'y a-t-il ? ».
+
+【Expression / Émotion】
+L'expression met l'accent sur la réaction douce à l'instant où elle entend l'appel. Le regard s'adoucit avec tendresse, les sourcils sont détendus et un léger sourire paisible se dessine sur ses lèvres.
+Sans rire exagéré, en tournant légèrement la tête pour regarder l'autre, elle laisse transparaître ce sentiment de sécurité et de chaleur réservé aux êtres chers. Une expression sans artifice mais mémorable, empreinte d'une calme intimité.
+
+【Composition / Cadrage】
+Format vertical 4:5 adapté aux publications sur X. Un cadrage laissant suffisamment d'espace pour englober tout le corps assis jusqu'aux pieds, intégrant naturellement la fenêtre, le paysage extérieur, le poêle et une partie des bancs. Le personnage est placé plutôt vers le centre, tout en laissant la fenêtre sur un côté pour aérer la composition.
+La hauteur de caméra se situe à un niveau naturel, entre la poitrine et les yeux de la personne assise. Focale sereine, standard à téléobjectif moyen, sans exagération corporelle artificielle. L'arrière-plan est légèrement épuré tout en conservant assez d'informations pour identifier l'espace du sauna.
+
+【Lumière / Couleur / Texture / Atmosphère】
+La source principale est la lumière rasante du soir pénétrant par la fenêtre, créant de doux rehauts sur les joues, les épaules, les clavicules et les mèches folles de la chevelure. En lumière d'appoint intérieure s'ajoutent l'éclairage indirect sous les bancs et la lueur chaleureuse du poêle ; les ombres ne sont pas trop denses, délicatement adoucies par les reflets du bois.
+La palette de couleurs s'articule autour de l'or, du brun miel et du beige avoine pour un rendu global chaud et harmonieux. Les joues sont subtilement rosées par la chaleur du sauna, de fines perles de sueur perlent sur le front, le cou, la clavicule et les épaules, conférant à la peau un modelé satiné. Les mèches de cheveux légèrement moites, le relief délicat de la dentelle et le grain du bois sec des murs et des bancs sont minutieusement restitués.
+
+【Qualité / Éléments exclus】
+Haute résolution, privilégiant une anatomie humaine, une perspective, un éclairage et des matières d'un naturel comparable à une prise de vue réelle. Éviter toute apparence juvénile ou mineure, les visages trop enfantins, les proportions corporelles contre nature, les tailles trop fines et les cadrages exagérant artificiellement la poitrine.
+Éviter les membres ou doigts surnuméraires, manquants ou fusionnés, les articulations anormales, la confusion main gauche/droite, les défauts de vêtement, la fusion entre tissu et peau, les nudités involontaires, les déformations au grand-angle et le lissage excessif de la peau. La poitrine doit conserver un volume généreux sans aspect sphérique rigide ni effet pigeonnant excessif. Aucun texte, logo, filigrane ou élément d'interface.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -151,20 +191,60 @@ Traduction en cours
 
 <a name="prompt-2100765199888531906"></a>
 
-### Traduction en cours
+### Prompt de photographie photoréaliste d'une femme japonaise adulte souriant dans un lit d'hôtel le matin, vêtue d'une lingerie ivoire brodée de petites fleurs.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2100765199888531906)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de photographie photoréaliste d'une femme japonaise adulte souriant dans un lit d'hôtel le matin, vêtue d'une lingerie ivoire brodée de petites fleurs.
 
 <img src="images/2100765199888531906-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Lit d'hôtel blanc｜Sourire ivoire éclos dans la lumière du matin🌟
+
+【Sujet et style】
+Photographie photoréaliste d'une femme japonaise clairement adulte de 24 ans, profitant d'un moment paisible peu après son réveil dans un lit d'hôtel le matin. Donnant l'impression d'une proximité intime, comme un matin partagé avec son amoureux, l'image capte un instant où la complicité se transmet naturellement par des expressions et une posture spontanées, sans mise en scène explicite.
+Conçu à mi-chemin entre une publicité de lingerie raffinée et un portrait intimiste du quotidien, ce n'est pas une simple photo de produit pour exhiber un vêtement, mais une scène complète intégrant l'air du matin, l'expression du visage, le linge de lit blanc et la douce lumière de la fenêtre. Un rendu photographique naturel, propre, lumineux et élégant, comme pris dans un véritable hôtel.
+
+【Lieu, arrière-plan et ambiance】
+Le lieu de prise de vue est la chambre d'un hôtel haut de gamme et feutré, dominée par le blanc. Derrière la femme, des oreillers blancs moelleux superposés et une couette blanche aux plis légers et naturels. D'un côté de l'image, une grande fenêtre laisse entrer la lumière matinale à travers un voilage en dentelle fine.
+En arrière-plan, la tête de lit sobre typique d'un hôtel, une petite table de chevet et une lampe discrète apparaissent dans un doux flou. Sans encombrer l'espace d'accessoires inutiles, l'agencement épuré met en valeur le linge blanc et la lumière naturelle, permettant au visage et à la tenue de devenir naturellement les sujets principaux.
+
+【Saison, heure et météo】
+Une saison douce évoquant le passage du printemps au début de l'été. Il est tôt le matin, vers 7h00, et le jour commence à se lever dehors. C'est un matin ensoleillé mais sans soleil direct agressif ; une lumière diffuse et soyeuse, filtrée par les rideaux de dentelle, se répand dans la pièce.
+L'air intérieur conserve la fraîcheur claire et pure propre au matin, et la lumière tombant sur le lit varie du blanc à un crème très doux. Une température de couleur sereine et chaleureuse qui préserve la fraîcheur matinale sans paraître froide.
+
+【Description du modèle】
+Femme japonaise clairement adulte de 24 ans. Traits doux et harmonieux, yeux foncés expressifs et légèrement agrandis, sourcils naturels, arête nasale fine et lèvres délicates joliment teintées. Cheveux châtain foncé, légèrement plus longs que les épaules, avec le léger désordre naturel du réveil, de douces ondulations et quelques mèches fines encadrant le visage.
+Peau claire aux nuances ocre avec un grain réaliste, conservant pores et ombres subtiles. Épaules et bras délicats, taille fine et silhouette féminine harmonieuse et naturellement voluptueuse. Poitrine généreuse et pleine, mais sans rigidité ni effet push-up artificiel, dotée d'un volume doux qui s'accorde naturellement avec la gravité et sa posture appuyée contre les oreillers.
+
+【Tenue et accessoires】
+Ensemble lingerie raffiné couleur ivoire comprenant soutien-gorge et culotte, rappelant le style délicat de Wacoal. Le cadrage montre principalement le soutien-gorge, la culotte restant hors champ. Les bonnets sont ornés de fines broderies de petites fleurs dans des teintes abricot pâle et beige, avec une fine bordure festonnée en dentelle sur le haut.
+Les bonnets possèdent une doublure opaque ne laissant pas transparaître la peau, dans une matière de qualité pas trop fine. Une coupe et une taille réalistes offrant un maintien naturel à une poitrine généreuse, sans tension excessive du tissu ni pincements artificiels. Aucun accessoire pour privilégier la fraîcheur simple et la pureté matinale.
+
+【Pose, mouvement et regard】
+La femme redresse doucement le haut du corps, s'appuyant depuis le dos jusqu'aux omoplates sur les oreillers blancs. Son corps est presque de face par rapport à l'appareil, mais ses épaules sont détendues et légèrement inclinées d'un côté, créant une posture spontanée de réveil. Sans cambrure excessive, elle adopte une position stable en reposant son poids sur les coussins.
+Une partie de sa chevelure retombe délicatement derrière l'épaule, tandis que ses bras reposent naturellement vers le bas du cadre ou sur les draps, sans pose forcée. Son regard ne se pose pas directement sur l'objectif, mais juste à côté, vers son compagnon, traduisant l'instant précis où elle vient d'entendre un « bonjour ».
+
+【Expression et émotion】
+Au moment où son compagnon lui dit « bonjour », ses yeux encore un peu embrumés de sommeil se plissent doucement en un léger sourire. Non seulement son regard mais aussi ses joues s'adoucissent, exprimant une confiance totale et un apaisement naturel.
+Ses lèvres restent détendues, à peine entrouvertes. Une légère rougeur sur ses joues évoque la douce tiédeur matinale ; ce n'est pas un sourire posé pour la photo, mais un sourire involontaire né en voyant un être cher. Sans minauderie, mêlant calme adulte et tendre complicité.
+
+【Composition et cadrage】
+Format vertical 4:5 idéal pour les publications sur X. Plan poitrine (bust-up) cadrant généreusement du décolleté jusqu'au sommet de la tête, laissant un petit espace au-dessus. Un plan rapproché où l'expression, les yeux, la bouche et les broderies florales ivoire sont nettement visibles en même temps.
+L'appareil est placé presque à hauteur des yeux de la femme, orienté de face, avec une focale standard à moyen téléobjectif naturelle (équivalent 50-85 mm). Aucune déformation grand angle ni perspective exagérée du corps. L'arrière-plan est délicatement flouté tout en laissant deviner oreillers blancs, fenêtre et rideaux caractéristiques d'un matin à l'hôtel.
+
+【Lumière, couleur, texture et atmosphère】
+La lumière principale provient de la grande fenêtre à gauche du cadre. La lumière douce diffusée par le voilage éclaire avec délicatesse un côté du visage, l'épaule et la dentelle de la poitrine, créant de subtiles ombres sur le côté opposé. Les reflets des draps blancs compensent les zones ombragées pour illuminer le visage de façon naturelle et équilibrée.
+La peau conserve son grain, ses pores, de fines ombres et un teint naturel sans lissage excessif. Les cheveux révèlent des mèches fines et les reflets du matin, la dentelle offre le relief tactile de ses fils délicats, et les draps montrent la texture souple du coton ou du lin. Une palette harmonieuse de blanc, d'ivoire et d'abricot pâle créant une atmosphère matinale lumineuse, paisible et complice.
+
+【Qualité et éléments exclus】
+Haute résolution, privilégiant une anatomie humaine réaliste, une lumière naturelle, des textures authentiques et une perspective photographique réelle. Éviter toute apparence de mineure, visage trop enfantin, corps anormal, membres ou doigts en trop, doigts manquants ou fusionnés, articulations difformes, inversion des mains gauche et droite.
+Défauts vestimentaires, fusion du tissu avec la peau, pincement irréaliste du tissu, nudité ou exposition non désirée, déformation grand-angle extrême et lissage excessif de la peau sont à proscrire. La poitrine conserve un volume généreux et naturel, sans disproportion gigantesque, formes sphériques rigides, push-up excessif ou formes défiant la gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)

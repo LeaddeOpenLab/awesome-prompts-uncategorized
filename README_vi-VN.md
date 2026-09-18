@@ -57,20 +57,60 @@ Bức chân dung chân thực như ảnh chụp của Liza, một phụ nữ tr�
 
 <a name="prompt-2100768295884624177"></a>
 
-### Đang dịch
+### Lời nhắc phong cách ảnh chụp phụ nữ Nhật Bản mặc nội y màu be yến mạch, dịu dàng quay lại nhìn trong phòng xông hơi riêng tư lúc hoàng hôn.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100768295884624177)
 
 Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc phong cách ảnh chụp phụ nữ Nhật Bản mặc nội y màu be yến mạch, dịu dàng quay lại nhìn trong phòng xông hơi riêng tư lúc hoàng hôn.
 
 <img src="images/2100768295884624177-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟 Phòng xông hơi bên cửa sổ lúc hoàng hôn | Cái ngoái nhìn dịu dàng trong sắc be yến mạch 🌟
+
+【Chủ đề và Phong cách】
+Tác phẩm nhiếp ảnh chân thực lấy chủ thể là một phụ nữ Nhật Bản trưởng thành rõ rệt đang thư giãn trong phòng xông hơi riêng tư vào buổi chiều tà. Khoảnh khắc ghi lại khi cô đang ngắm nhìn phong cảnh bên ngoài, nhận ra sự hiện diện của người yêu và dịu dàng quay mặt lại.
+Mang chất lượng cao cấp như một trang trong sách ảnh, đồng thời giữ lại bầu không khí thân mật, gần gũi của đời thực. Biểu đạt nhiếp ảnh mang tính điện ảnh truyền tải sự tĩnh lặng, ấm áp và nét nữ tính tự nhiên hơn là sự quyến rũ gợi cảm lộ liễu.
+
+【Địa điểm, Bối cảnh và Không gian】
+Phòng xông hơi riêng tư có cửa sổ với bầu không khí êm dịu, bao quanh bởi tường gỗ và các bậc ghế ngồi. Nhân vật ngồi ở băng ghế tầng dưới gần cửa sổ, bên cạnh là thảm xông hơi, phía sau là bếp lò xông hơi, và dưới băng ghế có ánh đèn gián tiếp dịu nhẹ.
+Bên ngoài ô cửa sổ nhỏ có thể thấy những hàng cây trong vườn nhuộm sắc hoàng hôn, tạo chiều sâu tương phản với không gian bên trong. Bối cảnh không mang phong cách khách sạn sang trọng quá mức cứng nhắc, mà là một không gian truyền tải hơi ấm của gỗ và sự thư thái, tĩnh lặng.
+
+【Mùa, Thời gian và Thời tiết】
+Mùa thu êm dịu lúc chớm thu vào buổi chiều tà. Bên ngoài trời quang đãng, ánh hoàng hôn ở góc thấp rọi vào những vệt sáng vàng mềm mại.
+Bên trong ngập tràn hơi nóng khô ráo đặc trưng của phòng sauna, tương phản với cái mát mẻ bên ngoài tạo nên chiều sâu trong không khí. Coi trọng biểu cảm tĩnh tại của khoảnh khắc gợi nhớ về một ngày sắp kết thúc trong bình yên.
+
+【Thiết lập nhân vật】
+Phụ nữ Nhật Bản rõ ràng là người trưởng thành, khoảng 20 đến 28 tuổi. Gương mặt thanh tú, mềm mại, đôi mắt to với tròng đen rõ rệt, lông mày tự nhiên, đôi môi hồng hào khỏe khoắn, hòa quyện giữa sự gần gũi và nét tinh tế. Mái tóc màu nâu trầm, gợn sóng tự nhiên dài chấm vai được buộc hờ, vài lọn tóc ẩm vương vấn quanh mặt.
+Làn da tông màu vàng sáng (ochre) tự nhiên, không phẳng lì quá mức. Vóc dáng quyến rũ, thanh lịch và tự nhiên với sự hài hòa giữa bờ vai và tứ chi thon thả, vòng eo nhỏ nhắn và những đường cong nữ tính. Vòng một đầy đặn rõ rệt nhưng nằm mềm mại, tự nhiên theo trang phục và tư thế, duy trì sự cân đối với toàn bộ cơ thể.
+
+【Trang phục và Phụ kiện】
+Trang phục là bộ nội y gồm áo lót và quần lót màu be yến mạch (oatmeal beige). Thiết kế tao nhã kết hợp giữa ren thêu hoa văn màu trắng ngà và các mảng lụa satin bóng nhẹ, các phần nhạy cảm có lớp lót mờ đục cùng tông màu.
+Tránh độ xuyên thấu quá mỏng hay trang trí rườm rà, kích thước ôm vừa vặn thực tế với cơ thể. Vừa vặn thoải mái ở ngực và hông, vải không bị phồng hay hằn sâu vào da. Về cơ bản không mang trang sức, nếu có chỉ là đôi khuyên tai cực kỳ nhỏ nhắn.
+
+【Tư thế, Động tác và Ánh mắt】
+Người phụ nữ ngồi trên thảm sauna ở tầng dưới, hai chân khép lại duỗi thẳng về phía trước, mũi chân chạm sàn một cách tự nhiên. Thân trước hơi hướng về phía cửa sổ, nhưng phần thân trên xoay nhẹ nhàng, thể hiện chuyển động đang từ việc ngắm cảnh quay mặt lại nhìn người yêu.
+Hai tay chạm nhẹ vào mặt ghế bên cạnh người, một tay hơi đưa về sau để nâng đỡ cơ thể, tay kia đặt tự nhiên trên mặt ghế cạnh đùi. Ánh mắt không nhìn thẳng vào máy ảnh mà hướng về phía người yêu đứng hơi cao hơn máy ảnh, tự nhiên như đang đáp lại câu hỏi "Có chuyện gì thế anh?".
+
+【Biểu cảm và Cảm xúc】
+Biểu cảm chú trọng vào phản ứng dịu dàng ngay khoảnh khắc nhận ra tiếng gọi. Đôi mắt thư thái hiền từ, chân mày tự nhiên, khóe môi khẽ nở nụ cười mỉm nhẹ nhàng.
+Không cười lớn cường điệu, việc khẽ nghiêng đầu nhìn đối phương toát lên sự an tâm và ấm áp chỉ dành cho người thân thiết. Một biểu cảm không làm bộ nhưng để lại ấn tượng sâu sắc, cảm nhận được sự thân mật tĩnh lặng.
+
+【Bố cục và Máy ảnh】
+Bố cục dọc 4:5 phù hợp đăng tải trên X. Thu trọn toàn thân từ tư thế ngồi đến đầu ngón chân một cách thoải mái, khoảng cách chụp vừa đủ để lấy được cửa sổ, khung cảnh bên ngoài, lò sauna và một phần băng ghế. Nhân vật đặt hơi lệch về trung tâm khung hình, để lộ một bên cửa sổ tạo cảm giác thoáng đãng cho bố cục.
+Chiều cao máy ảnh ở tầm tự nhiên, ngang ngực đến tầm mắt của nhân vật đang ngồi. Góc máy ổn định từ tiêu chuẩn đến tele tầm trung, không phóng đại cơ thể một cách bất thường. Hậu cảnh được tinh giản nhẹ nhàng nhưng vẫn giữ đủ lượng thông tin để nhận diện không gian phòng sauna.
+
+【Ánh sáng, Màu sắc, Chất cảm và Bầu không khí】
+Nguồn sáng chính là ánh hoàng hôn xiên qua cửa sổ, tạo nên những vệt sáng mềm mại trên má, vai, xương quai xanh và các lọn tóc vương của nhân vật. Bổ sung ánh sáng gián tiếp dưới băng ghế và ánh sáng ấm áp quanh lò sưởi làm nguồn sáng phụ, bóng đổ không quá sâu và được nâng sáng tự nhiên nhờ ánh phản xạ từ gỗ.
+Tông màu chủ đạo là vàng kim, nâu mật ong và be yến mạch, tạo sự thống nhất ấm áp cho toàn bộ khung hình. Gò má ửng hồng nhẹ do nhiệt độ của phòng xông hơi, những giọt mồ hôi li ti lấm tấm trên trán, cổ, xương quai xanh và vai, tạo nên khối nổi mọng nước cho làn da. Tóc có độ lọn ẩm nhẹ, ren có độ nổi tinh xảo, tường gỗ và băng ghế được khắc họa kỹ lưỡng chất cảm vân gỗ khô ráo.
+
+【Chất lượng và Yếu tố loại trừ】
+Độ phân giải cao, chú trọng vào cơ thể người, phối cảnh, ánh sáng và chất cảm vật liệu tự nhiên như được chụp bằng máy ảnh thực tế. Tránh các biểu hiện trông như trẻ vị thành niên, khuôn mặt quá non nớt, dáng người dị thường, eo thon cực đoan hoặc phô trương vòng một quá đà.
+Tránh thừa chi hoặc ngón tay, thiếu ngón, dính ngón, khớp xương bất thường, nhầm lẫn tay trái phải, lỗi trang phục, sự hòa lẫn giữa cơ thể và trang phục, hở hang ngoài ý muốn, méo hình do góc rộng quá mức, làm mịn da quá đà. Vòng một giữ độ đầy đặn nhưng không tròn cứng như quả bóng hay nâng đẩy quá mức. Không có chữ viết, logo, hình mờ (watermark) hay hiển thị giao diện người dùng (UI).
 ```
 
 [↑ Về danh mục](#catalog)
@@ -151,20 +191,60 @@ Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](h
 
 <a name="prompt-2100765199888531906"></a>
 
-### Đang dịch
+### Lời nhắc ảnh chân thực về người phụ nữ Nhật Bản trưởng thành mỉm cười trên giường khách sạn buổi sáng trong bộ nội y thêu hoa nhỏ màu ngà.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2100765199888531906)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc ảnh chân thực về người phụ nữ Nhật Bản trưởng thành mỉm cười trên giường khách sạn buổi sáng trong bộ nội y thêu hoa nhỏ màu ngà.
 
 <img src="images/2100765199888531906-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Giường khách sạn màu trắng｜Nụ cười màu ngà tan chảy trong ánh ban mai🌟
+
+【Chủ đề / Phong cách hình ảnh】
+Bức ảnh chân thực (photoreal) về một người phụ nữ Nhật Bản 24 tuổi rõ ràng đã trưởng thành, đang tận hưởng khoảng thời gian yên bình vừa mới thức dậy trên giường khách sạn vào buổi sáng. Tạo cảm giác khoảng cách như một buổi sáng đón chào cùng người yêu, không phải sự dàn dựng lộ liễu mà khắc họa khoảnh khắc sự thân mật được truyền tải tự nhiên qua biểu cảm và tư thế giản dị.
+Chú trọng điểm cân bằng giữa quảng cáo nội y tinh tế và ảnh chân dung mang hơi thở đời sống, không chỉ là ảnh sản phẩm phô diễn trang phục, mà hòa quyện cả không khí buổi sáng, biểu cảm, bộ chăn ga trắng và ánh sáng cửa sổ mềm mại thành một khung cảnh hoàn chỉnh. Mang lại cảm giác sạch sẽ, tươi sáng, trang nhã và biểu đạt nhiếp ảnh tự nhiên như được chụp tại một khách sạn có thật.
+
+【Địa điểm / Bối cảnh / Thế giới quan】
+Địa điểm chụp là phòng ngủ khách sạn tông màu trắng chủ đạo, mang lại cảm giác cao cấp và tĩnh lặng. Phía sau người phụ nữ là những chiếc gối trắng xếp chồng êm ái và chiếc chăn trắng có nếp nhăn tự nhiên nhẹ. Một bên khung hình có cửa sổ lớn, ánh sáng ban mai lọt qua lớp rèm ren mỏng.
+Phần hậu cảnh làm mờ nhẹ đầu giường đơn giản đặc trưng của khách sạn, bàn đầu giường nhỏ và ngọn đèn kín đáo. Không nhồi nhét quá nhiều đạo cụ, tập trung sắp xếp bộ chăn ga trắng và ánh sáng cửa sổ, tạo nên một không gian tĩnh lặng để gương mặt và trang phục của nhân vật tự nhiên trở thành tâm điểm.
+
+【Mùa / Thời gian / Thời tiết】
+Thời điểm ôn hòa gợi nhớ đến khoảng giao mùa từ xuân sang đầu hạ. Thời gian là sáng sớm vào khoảng 7 giờ sáng, bên ngoài trời bắt đầu sáng rõ. Một buổi sáng nắng đẹp nhưng không có ánh nắng gay gắt chiếu trực tiếp, ánh sáng dịu nhẹ xuyên qua rèm ren lan tỏa khắp phòng.
+Căn phòng vẫn lưu giữ cảm giác không khí trong trẻo, se lạnh đặc trưng của buổi sáng, ánh sáng chiếu vào chăn ga chuyển từ màu trắng sang màu kem nhạt. Giữ sự tươi mát với nhiệt độ màu êm dịu, không tạo ấn tượng lạnh lẽo.
+
+【Thiết lập nhân vật】
+Phụ nữ Nhật Bản 24 tuổi rõ ràng đã trưởng thành. Đường nét khuôn mặt mềm mại, thanh tú, đôi mắt to đen láy, hàng mày tự nhiên, sống mũi thon gọn, đôi môi mềm mại có sắc hồng tự nhiên. Mái tóc màu nâu trầm dài qua vai một chút, có chút rối nhẹ và lượn sóng tự nhiên sau khi ngủ dậy, quanh mặt còn vương những sợi tóc con mềm mại.
+Làn da tông màu be sáng (ocher), kết cấu thực tế giữ nguyên lỗ chân lông và các bóng đổ tinh tế. Vai và cánh tay mảnh mai, thân hình đầy đặn quyến rũ tự nhiên hài hòa giữa vòng eo thon gọn và những đường cong nữ tính. Vòng một nở nang, đầy đặn rõ rệt nhưng không bị cứng hay bị đẩy lên giả tạo, có độ nổi khối mềm mại thuận theo trọng lực và tư thế tựa lưng vào chăn gối.
+
+【Trang phục / Phụ kiện】
+Bộ đồ lót gồm áo ngực và quần lót màu ngà thanh lịch gợi nhớ đến phong cách Wacoal. Trong khung hình chủ yếu nhìn thấy phần áo ngực, quần lót nằm ngoài bố cục. Bề mặt cúp ngực điểm xuyết họa tiết thêu hoa nhỏ màu mơ nhạt và màu be, viền trên có viền ren vỏ sò (scallop) tinh xảo.
+Phần cúp ngực sử dụng lớp lót mờ đục không nhìn xuyên thấu da, không dùng chất liệu quá mỏng. Kích thước và cấu trúc thực tế có thể nâng đỡ vòng một đầy đặn một cách tự nhiên, vừa vặn không làm vải bị kéo căng quá mức hay thắt chặt vào da một cách bất thường. Không dùng phụ kiện, ưu tiên sự mộc mạc và sạch sẽ của buổi sáng.
+
+【Tư thế / Hành động / Ánh nhìn】
+Người phụ nữ dùng gối trắng đỡ từ lưng đến gần xương bả vai, nhẹ nhàng nâng nửa thân trên dậy. Cơ thể gần như đối diện với máy ảnh, nhưng thả lỏng vai và hơi nghiêng nhẹ sang một bên tạo tư thế tự nhiên như vừa thức giấc. Không ưỡn hông hay lưng quá mức, tư thế ổn định tựa trọng lượng vào gối.
+Một bên tóc được vén ra sau vai, hai tay đặt tự nhiên ở mép dưới khung hình hoặc trên chăn ga, không tạo dáng quá gượng ép. Ánh mắt không nhìn thẳng vào ống kính mà hướng về người yêu đứng ngay cạnh máy ảnh, thể hiện khoảnh khắc ngay sau khi nghe lời chào buổi sáng.
+
+【Biểu cảm / Cảm xúc】
+Khoảnh khắc được người yêu cất tiếng chào "Chào buổi sáng", đôi mắt còn vương chút ngái ngủ khẽ nheo lại dịu dàng, nở nụ cười mỉm nhỏ. Không chỉ khóe mắt mà gò má cũng khẽ giãn ra, biểu cảm tự nhiên cho thấy sự an tâm và mở lòng tin tưởng.
+Đôi môi không mở rộng, thả lỏng khép hờ. Đôi má ửng hồng nhạt mang lại cảm giác ấm áp của buổi sáng, không phải nụ cười gượng gạo mà là nụ cười tự nhiên hé nở khi nhìn thấy người thân thiết. Không phóng đại sự ngọt ngào, dung hòa giữa sự điềm tĩnh trưởng thành và nét gần gũi thân thương.
+
+【Bố cục / Máy ảnh】
+Bố cục dọc tỉ lệ 4:5 phù hợp đăng tải trên X. Chụp cận cảnh từ ngực lên đến đỉnh đầu (bust-up), để lại một khoảng trống nhỏ phía trên đỉnh đầu. Chụp ở khoảng cách gần nhìn rõ đồng thời biểu cảm gương mặt, đôi mắt, khóe môi và họa tiết thêu hoa nhỏ màu ngà.
+Máy ảnh đặt gần ngang tầm mắt của người phụ nữ, góc chụp gần chính diện, tiêu cự tự nhiên tương đương 50-85mm từ tiêu chuẩn đến tele tầm trung. Tránh góc siêu rộng hoặc phối cảnh làm phóng đại cơ thể. Hậu cảnh làm mờ nhẹ, nhưng vẫn giữ lại các yếu tố nhận diện buổi sáng khách sạn như gối trắng, cửa sổ, rèm cửa.
+
+【Ánh sáng / Màu sắc / Kết cấu / Bầu không khí】
+Nguồn sáng chính là ánh sáng tự nhiên ban mai chiếu qua cửa sổ lớn bên trái khung hình. Ánh sáng khuếch tán qua rèm ren chiếu sáng dịu nhẹ lên một bên mặt, vai và viền ren ở ngực, tạo bóng mờ rất nhạt ở phía đối diện. Ánh sáng phản xạ từ bộ chăn ga trắng bổ trợ cho vùng tối, giúp toàn bộ khuôn mặt trông sáng và tự nhiên.
+Làn da giữ nguyên lỗ chân lông, bóng đổ tinh xảo và sắc hồng tự nhiên, tránh xử lý làm mịn da quá đà. Mái tóc có những lọn tóc chi tiết và độ bóng mềm dưới ánh sáng sáng, ren có độ nổi khối của sợi chỉ tinh xảo, chăn ga thể hiện nếp nhăn mềm mại đặc trưng của cotton hoặc linen. Thống nhất tông màu chủ đạo là trắng, màu ngà và màu mơ nhạt, tạo nên bầu không khí buổi sáng tươi sáng, yên tĩnh và thân mật.
+
+【Chất lượng / Yếu tố loại trừ】
+Độ phân giải cao, chú trọng cơ thể người, ánh sáng, chất liệu và phối cảnh tự nhiên như được chụp bằng máy ảnh thực tế. Tránh nhân vật trông như vị thành niên, gương mặt quá non nớt, cơ thể dị dạng, thừa tay chân hoặc ngón tay, thiếu ngón hoặc ngón dính liền, khớp xương bất thường, nhầm lẫn tay trái phải.
+Tránh trang phục bị lỗi hỏng, cơ thể hòa lẫn vào vải, vải thắt chặt bất thường vào da, hở hang ngoài ý muốn, méo hình do góc siêu rộng, làm mịn da quá mức. Vòng một duy trì độ đầy đặn tự nhiên, không biến dạng to lớn bất thường, hình cầu cứng đờ, đẩy ngực dị thường, hay hình dạng chống lại trọng lực. Không đưa chữ, logo, watermark, giao diện UI vào trong ảnh.
 ```
 
 [↑ Về danh mục](#catalog)

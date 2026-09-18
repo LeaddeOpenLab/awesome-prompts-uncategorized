@@ -57,20 +57,60 @@ Ein fotorealistisches Porträt von Liza, einer wunderschönen jungen Frau mit la
 
 <a name="prompt-2100768295884624177"></a>
 
-### Übersetzung läuft
+### Fotografischer Prompt einer japanischen Frau in haferflocken-beiger Lingerie, die sich in einer privaten Sauna im Abendrot sanft umwendet.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100768295884624177)
 
 Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotografischer Prompt einer japanischen Frau in haferflocken-beiger Lingerie, die sich in einer privaten Sauna im Abendrot sanft umwendet.
 
 <img src="images/2100768295884624177-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Fensterplatz-Sauna im Abendrot | Sanftes Umwenden in Haferflocken-Beige🌟
+
+【Hauptmotiv / Bildstil】
+Fotorealistisches Werk mit einer eindeutig erwachsenen japanischen Frau als Hauptmotiv, die sich in einer privaten Sauna am Abend entspannt. Es fängt den Moment ein, in dem sie, die eben noch die Aussicht nach draußen betrachtete, die Anwesenheit ihres Partners bemerkt und ihr Gesicht sanft zurückwendet.
+Es besitzt die erlesene Qualität einer Bildband-Seite und bewahrt gleichzeitig eine vertraute Atmosphäre des Alltags. Ein filmischer fotografischer Ausdruck, der eher Stille, Wärme und natürliche Weiblichkeit als auffällige Sinnlichkeit vermittelt.
+
+【Ort / Hintergrund / Welt】
+Eine ruhige private Sauna mit Fenster, umgeben von Holzwänden und gestuften Bänken. Die Person sitzt auf der unteren Bank nahe dem Fenster; in der Nähe ist eine Saunamatte zu sehen, im Hintergrund der Saunaofen und unter den Bänken eine dezente indirekte Beleuchtung.
+Durch das kleine Fenster sind im Abendlicht gefärbte Gartenbäume zu sehen, was im Kontrast zum Innenraum Tiefe erzeugt. Der Hintergrund wirkt nicht wie ein übertrieben schickes Luxushotel, sondern wie ein Raum, der die Wärme des Holzes und eine ruhige Behaglichkeit ausstrahlt.
+
+【Jahreszeit / Uhrzeit / Wetter】
+Die Jahreszeit ist ein friedlicher Vorabend, der an den Frühherbst erinnert. Draußen ist es heiter, und die tiefstehende Abendsonne lässt weiches, goldenes Licht hineinfallen.
+Der Innenraum ist von der saunatypischen trockenen Hitze erfüllt, und der Kontrast zur Kühle draußen verleiht der Atmosphäre Tiefe. Der Ausdruck dieser ruhigen Tageszeit, die an das Ende eines friedvollen Tages erinnert, wird sorgfältig gepflegt.
+
+【Charakterbeschreibung】
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Mit sanften, ebenmäßigen Gesichtszügen, eher großen, dunklen Augen, natürlichen Augenbrauen und gesunder Lippenfarbe verbindet sie Nahbarkeit mit Eleganz. Das Haar ist dunkelbraun, in schulterlangen, natürlichen Wellen locker zusammengebunden, wobei feuchte Strähnen das Gesicht umspielen.
+Die Haut hat einen hellen Ockerton mit einer natürlichen, nicht übermäßig glatten Textur. Eine anmutige, natürlich-glamouröse Figur, bei der zarte Schultern und Gliedmaßen, eine schmale Taille und feminine Rundungen harmonieren. Die Brust besitzt ein deutlich üppiges Volumen, fügt sich jedoch weich und natürlich in Kleidung und Haltung ein und bewahrt die Balance zum gesamten Körper.
+
+【Kleidung / Accessoires】
+Die Kleidung besteht aus einem BH und Slip in Haferflocken-Beige. Ein geschmackvolles Design, das elfenbeinfarbene florale Stickereien auf Spitze mit dezent glänzenden Satineinsätzen kombiniert, wobei die wesentlichen Bereiche mit einem farblich abgestimmten, blickdichten Futter versehen sind.
+Zu dünne Transparenz und übermäßige Verzierungen werden vermieden; die Passform schmiegt sich realistisch an den Körper an. Auch an Brust und Hüfte sitzt alles mühelos, ohne dass der Stoff absteht oder einschneidet. Accessoires gibt es grundsätzlich keine, höchstens ganz kleine, dezente Ohrstecker.
+
+【Pose / Bewegung / Blick】
+Die Frau sitzt auf der Saunamatte der unteren Bank, streckt beide Beine geschlossen nach vorne aus und setzt die Zehen natürlich auf dem Boden auf. Ihr Oberkörper ist leicht zum Fenster hin ausgerichtet, vollzieht aber eine sanfte Drehung im Rumpf – dargestellt als fließende Bewegung, bei der sie, die eben noch die Landschaft betrachtete, ihr Gesicht wieder dem Partner zuwendet.
+Beide Hände berühren leicht die Sitzfläche neben dem Körper: eine stützend weiter hinten, die andere natürlich neben dem Oberschenkel abgelegt. Der Blick ist nicht direkt in die Kamera gerichtet, sondern auf den leicht über der Kamera befindlichen Partner, in einer natürlichen Richtung, als würde sie fragen: „Was gibt es denn?“.
+
+【Ausdruck / Emotion】
+Der Ausdruck legt Wert auf die sanfte Reaktion im Moment des Bemerktwerdens. Die Augenpartie entspannt sich weich, die Brauen sind natürlich, und die Lippen tragen ein kleines, ruhiges Lächeln.
+Ohne übertriebenes Lachen neigt sie den Kopf leicht zurück, während sie ihr Gegenüber ansieht, wodurch jene Geborgenheit und Wärme durchscheint, die man nur vertrauten Personen zeigt. Ein unaufdringlicher, aber einprägsamer Gesichtsausdruck voll stiller Intimität.
+
+【Komposition / Kamera】
+Vertikale 4:5-Komposition für X-Beiträge. Der sitzende Körper wird samt Fußspitzen mit ausreichend Raum erfasst, und die Aufnahme erfolgt aus einer Distanz, die das Fenster samt Außenszenerie, den Ofen und einen Teil der Bänke ungezwungen einbindet. Die Person ist eher mittig platziert, während das Fenster zu einer Seite hin Raum und Tiefe in der Komposition schafft.
+Die Kamerahöhe ist auf einer natürlichen Ebene nahe an Brust- bis Augenhöhe der sitzenden Person. Eine ruhige Brennweite im Bereich Standard bis leichtes Teleobjektiv, die den Körper nicht unnatürlich verzerrt. Der Hintergrund ist leicht aufgeräumt, behält aber genügend Details, um den Saunaraum erkennbar zu machen.
+
+【Licht / Farbe / Textur / Atmosphäre】
+Die Hauptlichtquelle ist das schräge Abendlicht, das durch das Fenster fällt und weiche Glanzlichter auf Wangen, Schultern, Schlüsselbeinen und Haarsträhnen der Person erzeugt. Als Innenraum-Zusatzlicht dienen die indirekte Beleuchtung unter der Bank und der warme Schein um den Ofen; die Schatten werden nicht zu tief gehalten und durch die Holzreflexionen natürlich aufgehellt.
+Die Farbgebung basiert auf Gold, Honigbraun und Haferflocken-Beige, was das Gesamtbild harmonisch und warm zusammenhält. Die Wangen sind von der Saunahitze leicht gerötet, auf Stirn, Hals, Schlüsselbeinen und Schultern zeichnen sich feine Schweißperlen ab und verleihen der Haut eine geschmeidige Plastizität. Leicht feuchte Haarsträhnen, die zarte Textur der Spitze und die trockene Maserung des Holzes an Wänden und Bänken sind detailreich ausgearbeitet.
+
+【Qualität / Ausschlusskriterien】
+Hohe Auflösung mit Fokus auf natürliche menschliche Anatomie, Perspektive, Beleuchtung und Materialtexturen wie bei einer echten Kameraaufnahme. Darstellungen, die minderjährig wirken, zu kindliche Gesichtszüge, unnatürliche Körperformen, extreme Wespentaillen und unnatürlich hervorgehobene Brüste sind zu vermeiden.
+Zusätzliche Gliedmaßen oder Finger, fehlende oder verschmolzene Finger, unnatürliche Gelenke, vertauschte Hände, fehlerhafte Kleidung, Verschmelzung von Körper und Kleidung, unbeabsichtigte Nacktheit, extreme Weitwinkelverzerrungen und übermäßige Hautglättung sind zu vermeiden. Die Brust soll ihr üppiges Volumen behalten, ohne wie eine starre Kugel oder übertrieben hochgepusht zu wirken. Keine Schriftzeichen, Logos, Wasserzeichen oder UI-Elemente.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -151,20 +191,60 @@ Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Original
 
 <a name="prompt-2100765199888531906"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Fotoprompt einer erwachsenen japanischen Frau, die morgens in einem Hotelbett in elfenbeinfarbener Wäsche mit feiner Blumenstickerei lächelt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2100765199888531906)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Fotoprompt einer erwachsenen japanischen Frau, die morgens in einem Hotelbett in elfenbeinfarbener Wäsche mit feiner Blumenstickerei lächelt.
 
 <img src="images/2100765199888531906-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Weißes Hotelbett｜Ein elfenbeinfarbenes Lächeln im Morgenlicht🌟
+
+【Motiv & Stil】
+Fotorealistische Fotografie einer eindeutig erwachsenen, 24-jährigen japanischen Frau, die kurz nach dem Aufwachen eine ruhige, friedliche Zeit in einem Hotelbett am Morgen verbringt. Mit einer spürbaren Nähe wie an einem Morgen zu zweit mit dem Partner, fängt das Bild einen intimen Moment ein, der sich ganz natürlich durch ungezwungene Mimik und Haltung statt durch explizite Inszenierung vermittelt.
+In der Balance zwischen anspruchsvoller Dessous-Werbung und lebendigem Porträt konzipiert; es handelt sich nicht um ein reines Produktfoto für Unterwäsche, sondern um eine stimmige Gesamtszene, die die Morgenluft, den Gesichtsausdruck, die weiße Bettwäsche und das sanfte Fensterlicht einschließt. Ein sauberer, heller, eleganter und natürlicher fotografischer Ausdruck, als wäre er in einem echten Hotel aufgenommen worden.
+
+【Ort, Hintergrund & Atmosphäre】
+Der Aufnahmeort ist das geschmackvolle, hochwertige und in Weiß gehaltene Schlafzimmer eines Hotels. Hinter der Frau befinden sich weiche, aufgetürmte weiße Kissen und eine weiße Bettdecke mit dezenten, natürlichen Falten. Auf einer Seite des Bildes befindet sich ein großes Fenster, durch dessen zarte Spitzengardinen das Morgenlicht einfällt.
+Im Hintergrund sind das schlichte Hotelkopfteil des Bettes, ein kleiner Nachttisch und eine dezente Lampe sanft unscharf angedeutet. Ohne überflüssige Requisiten bleibt der Raum ruhig und fokussiert sich auf die weiße Bettwäsche und das Fensterlicht, sodass Gesicht und Kleidung der Person wie von selbst im Mittelpunkt stehen.
+
+【Jahreszeit, Tageszeit & Wetter】
+Eine milde Jahreszeit, die an den Übergang vom Frühling zum Frühsommer erinnert. Die Tageszeit ist der frühe Morgen gegen 7:00 Uhr, draußen dämmert es hell. Ein klarer Morgen, doch ohne grelles direktes Sonnenlicht; stattdessen breitet sich ein weiches, durch die Spitzenvorhänge gefiltertes Licht im Raum aus.
+Im Zimmer liegt noch die morgendliche, leicht kühle und klare Frische, während das auf die Bettwäsche treffende Licht von Weiß bis zu zartem Cremeton reicht. Eine ruhige, angenehme Farbtemperatur, die Frische bewahrt, ohne kühl zu wirken.
+
+【Personenbeschreibung】
+Eine eindeutig erwachsene, 24-jährige japanische Frau. Sanfte, ebenmäßige Gesichtszüge mit leicht vergrößerten, ausdrucksstarken dunklen Augen, natürlichen Augenbrauen, schmalem Nasenrücken und weichen, rosigen Lippen. Dunkelbraunes Haar, etwas länger als schulterlang, mit einer leichten Unordnung vom Schlafen, natürlichen Wellen und feinen Strähnen rund um das Gesicht.
+Die Haut hat einen hellen Ockerton mit realistischer Textur, sichtbaren Poren und feinen Schattierungen. Zierliche Schultern und Arme, eine schlanke Taille und harmonische weibliche Rundungen ergeben eine natürlich glamouröse Figur. Ein deutlich voller, üppiger Busen, der jedoch ohne Härte oder unnatürliche Push-Up-Effekte dargestellt wird; eine weiche Dreidimensionalität, die der Schwerkraft und der an die Kissen gelehnten Haltung folgt.
+
+【Kleidung & Accessoires】
+Ein elegantes, an Wacoal erinnerndes Dessous-Set aus BH und Slip in edlem Elfenbein. Im Bildausschnitt ist hauptsächlich der BH zu sehen; der Slip liegt außerhalb der Komposition. Auf den Körbchen finden sich dezente Stickereien kleiner Blüten in zartem Apricot und Beige, am oberen Rand ziert feine Bogenkanten-Spitze das Dekolleté.
+Die Körbchen sind mit blickdichtem Futter unterlegt, sodass die Haut nicht durchscheint, und bestehen aus griffigem, nicht zu dünnem Material. Realistische Passform und Schnittführung, die einen üppigen Busen mühelos und natürlich stützen, ohne dass der Stoff überdehnt wirkt oder einschneidet. Keine Accessoires, um die schlichte Reinheit und Frische des Morgens zu betonen.
+
+【Pose, Bewegung & Blick】
+Die Frau stützt ihren Oberkörper sanft auf die Kissen, die ihren Rücken bis hinauf zu den Schulterblättern tragen. Ihr Körper ist der Kamera fast frontal zugewandt, die Schultern sind jedoch entspannt und leicht zu einer Seite geneigt, was eine ungezwungene Aufwachhaltung erzeugt. Ohne extremes Hohlkreuz ruht ihr Gewicht stabil an den Kissen.
+Ein Teil der Haare fällt nach hinten über die Schulter, beide Arme liegen natürlich am unteren Bildrand oder auf der Bettdecke – keine übertrieben konstruierte Pose. Ihr Blick richtet sich nicht direkt in die Linse, sondern knapp daneben auf ihren Partner, passend zu dem Moment unmittelbar nach dem morgendlichen Gruß.
+
+【Mimik & Emotion】
+In dem Moment, als ihr Partner ihr ein „Guten Morgen“ zuflüstert, verengen sich ihre noch leicht verschlafenen Augen sanft zu einem zarten Lächeln. Nicht nur die Augenpartie, auch die Wangen entspannen sich sichtlich – ein natürlicher Ausdruck von Geborgenheit und Vertrauen.
+Die Lippen sind nicht weit geöffnet, sondern entspannt leicht geschlossen. Ein sanftes Wangenrot verleiht dem Gesicht die Frische des Morgens; kein aufgesetztes Lächeln, sondern eines, das beim Anblick des geliebten Menschen ganz von allein entsteht. Ohne übertriebene Niedlichkeit vereint sie erwachsene Ruhe mit herzlicher Nähe.
+
+【Komposition & Kamera】
+Vertikales 4:5-Format für X-Posts. Eine Nahaufnahme von der Brust bis zum Scheitel (Bust-up) mit minimalem Freiraum über dem Kopf. Eine Nahaufnahme, bei der Mimik, Augen, Mund und die elfenbeinfarbenen Blumenstickereien gleichzeitig gestochen scharf zur Geltung kommen.
+Die Kamera befindet sich etwa auf Augenhöhe der Frau in frontaler Ausrichtung mit einem natürlichen Bildwinkel im Bereich von 50 bis 85 mm (Standard bis leichtes Teleobjektiv). Extreme Weitwinkelverzerrungen oder perspektivische Übertreibungen des Körpers werden vermieden. Der Hintergrund ist sanft unscharf, lässt jedoch weiße Kissen, Fenster und Vorhänge als typische Elemente eines Hotelmorgens erkennen.
+
+【Licht, Farbe, Textur & Stimmung】
+Hauptlichtquelle ist das natürliche Morgenlicht aus dem großen Fenster auf der linken Bildseite. Das von der Spitzenstore gestreute Licht erhellt sanft eine Gesichtshälfte, die Schulter und die Spitze des BHs, während auf der abgewandten Seite ganz weiche Schatten entstehen. Reflexionen der weißen Bettwäsche hellen die Schattenpartien dezent auf und lassen das gesamte Gesicht klar und natürlich wirken.
+Die Haut bewahrt Poren, feine Schattierungen und natürliche Durchblutung ohne künstliche Glättung. Das Haar zeigt feine Strähnen und einen zarten Morgenglanz, die Spitze greifbare Dreidimensionalität feiner Fäden und die Bettwäsche die sanften Knitterfalten von Baumwolle oder Leinen. Farblich harmonisch abgestimmt auf Weiß, Elfenbein und zartes Apricot entsteht eine helle, ruhige und intime Morgenstimmung.
+
+【Qualität & Negative Prompts】
+Hohe Auflösung mit Fokus auf natürlicher menschlicher Anatomie, realistischem Licht, echten Texturen und korrekter Kameraperspektive. Keine minderjährig wirkenden Personen, keine kindlichen Gesichtszüge, keine unnatürlichen Körperproportionen, keine überzähligen Gliedmaßen oder Finger, keine fehlenden oder verschmolzenen Finger, keine unnatürlichen Gelenke, keine Verwechslung von linker und rechter Hand.
+Keine fehlerhafte Kleidung, kein Verschmelzen von Stoff und Haut, kein unnatürliches Einschneiden, keine unbeabsichtigte Nacktheit, keine extremen Weitwinkelverzerrungen, keine übertriebene Weichzeichnung der Haut. Der Busen behält sein natürliches, volles Volumen – keine unnatürlich gigantische Größe, keine starren Kugeln, kein übertriebener Push-Up, keine der Schwerkraft trotzenden Formen. Keine Schriftzeichen, Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -57,20 +57,60 @@ Um retrato fotorrealista de Liza, uma bela jovem de longos cabelos castanho-escu
 
 <a name="prompt-2100768295884624177"></a>
 
-### Tradução em curso
+### Prompt de estilo fotográfico de uma mulher japonesa em lingerie bege aveia, a virar-se suavemente para trás numa sauna privada ao entardecer.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100768295884624177)
 
 Fotografia · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de estilo fotográfico de uma mulher japonesa em lingerie bege aveia, a virar-se suavemente para trás numa sauna privada ao entardecer.
 
 <img src="images/2100768295884624177-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+🌟Sauna à Beira da Janela ao Pôr do Sol | Um Suave Olhar para Trás em Bege Aveia🌟
+
+【Tema e Estilo】
+Uma obra fotorrealista focada numa mulher japonesa claramente adulta a relaxar numa sauna privada ao entardecer. Capta o momento em que ela, que observava a paisagem exterior, apercebe-se da presença do companheiro e vira o rosto com suavidade.
+Com a qualidade requintada de uma página de um livro de fotografia, preservando uma atmosfera íntima e de quotidiano. Em vez de uma sensualidade ostensiva, é uma expressão fotográfica cinematográfica que transmite tranquilidade, calor e feminilidade natural.
+
+【Local, Cenário e Mundo】
+Uma sauna privada com janela, de atmosfera acolhedora, cercada por paredes de madeira e bancos em degraus. A mulher está sentada no banco inferior, perto da janela; por perto vê-se uma toalha de sauna, ao fundo um aquecedor de sauna e, sob o banco, uma iluminação indireta discreta.
+Do lado de fora da pequena janela, avistam-se árvores do jardim banhadas pelo pôr do sol, criando profundidade pelo contraste com o interior. O fundo não deve parecer um hotel de luxo excessivamente arranjado, mas sim um espaço que transmite o calor da madeira e um conforto tranquilo.
+
+【Estação, Horário e Clima】
+A estação é o início suave do outono, ao entardecer. O tempo lá fora está limpo, com o sol poente em posição baixa a projetar uma luz dourada suave.
+O ambiente interior está envolto pelo calor seco típico de uma sauna, aprofundando a atmosfera pelo contraste com a frescura exterior. Valoriza a expressão serena de um período que evoca o fim calmo do dia.
+
+【Caracterização da Personagem】
+Mulher japonesa claramente adulta, com cerca de 20 a 28 anos. Traços faciais suaves e harmoniosos, olhos escuros ligeiramente grandes, sobrancelhas naturais e lábios com boa cor, combinando proximidade e sofisticação. Cabelo castanho-escuro pelos ombros com ondas naturais, apanhado de forma ligeira, com mechas húmidas soltas em redor do rosto.
+Pele em tom ocre claro com textura natural, não excessivamente uniforme. Físico que harmoniza ombros e membros delicados, cintura fina e curvas femininas, resultando numa silhueta elegante, naturalmente curvilínea. Busto visivelmente volumoso, que assenta de forma suave e natural conforme a roupa e a postura, mantendo o equilíbrio com o resto do corpo.
+
+【Vestuário e Acessórios】
+O vestuário é um conjunto de soutien e cuecas bege aveia. Um design requintado que combina renda com bordados florais marfim sobrepostos e detalhes em cetim de brilho discreto, com forro opaco em tom condizente nas partes principais.
+Evitar transparências excessivas ou ornamentos exagerados; deve ter um corte realista que acompanhe o corpo. Ajusta-se confortavelmente ao peito e às ancas, sem folgas nem vincos apertados no tecido. Em princípio, sem acessórios; se necessário, apenas brincos extremamente pequenos.
+
+【Pose, Ação e Olhar】
+A mulher senta-se na toalha de sauna no degrau inferior, com as duas pernas esticadas para a frente e juntas, e as pontas dos pés a tocar no chão naturalmente. A frente do corpo está ligeiramente virada para a janela, mas apenas a parte superior do tronco roda suavemente, expressando o movimento contínuo de quem contemplava a paisagem e vira o rosto na direção do companheiro.
+Ambas as mãos tocam levemente o banco ao lado do corpo: uma apoiada mais atrás a suster a postura, e a outra poisada naturalmente sobre o assento ao lado da coxa. O olhar não se dirige diretamente à câmara, mas sim ligeiramente acima dela, em direção ao parceiro, com uma orientação natural como quem responde: "O que foi?".
+
+【Expressão e Emoção】
+A expressão dá primazia à reação suave no momento em que repara no chamamento. O olhar suaviza-se docemente, as sobrancelhas estão naturais e os lábios esboçam um sorriso subtil e calmo.
+Sem sorrisos exagerados, virando ligeiramente o pescoço ao olhar para o outro, transparece a sensação de segurança e aconchego demonstrada apenas a alguém próximo. Uma expressão que transmite uma intimidade calma, despretensiosa, mas marcante.
+
+【Composição e Câmara】
+Composição vertical 4:5 indicada para publicação no X. Enquadra com folga todo o corpo sentado até às pontas dos pés, a uma distância onde a janela, a paisagem exterior, o aquecedor e parte dos bancos surjam na cena sem esforço. A pessoa fica posicionada perto do centro, mantendo a janela de um dos lados para dar respiração à composição.
+A altura da câmara é natural, próxima do nível do peito até à linha dos olhos da pessoa sentada. Ângulo sereno equivalente a uma objetiva padrão ou média teleobjetiva, sem distorções anormais do corpo. O fundo é ligeiramente organizado, mantendo informação suficiente para reconhecer o espaço da sauna.
+
+【Luz, Cor, Textura e Atmosfera】
+A luz principal é a luz oblíqua do entardecer a entrar pela janela, criando realces suaves nas maçãs do rosto, ombros, clavículas e fios soltos de cabelo. A luz indireta sob o banco e o brilho quente em redor do aquecedor somam-se como iluminação secundária interior, sem aprofundar demasiado as sombras, aclarando-as naturalmente com o reflexo da madeira.
+A paleta de cores é unificada em tons quentes, com destaque para dourado, castanho-mel e bege aveia. Maçãs do rosto levemente coradas pelo calor da sauna, com suor fino na testa, pescoço, clavículas e ombros, conferindo à pele uma tridimensionalidade acetinada. Cabelo com textura de mechas ligeiramente húmidas, relevos delicados da renda e a textura dos veios secos da madeira nas paredes e bancos cuidadosamente representados.
+
+【Qualidade e Elementos Negativos】
+Alta resolução, priorizando anatomia humana natural, perspetiva, iluminação e texturas como se captadas por uma câmara real. Evitar expressões que pareçam menores de idade, rostos infantis, proporções corporais anómalas, cinturas extremas ou ênfase desproporcional apenas nos seios.
+Evitar membros ou dedos adicionais, dedos em falta, dedos fundidos, articulações anormais, confusão entre mãos esquerda e direita, falhas no vestuário, fusão entre corpo e roupa, nudez involuntária, distorção extrema de grande angular e pós-processamento excessivo de pele. O busto deve manter um volume pleno, sem parecer esferas rígidas ou excessivamente empurrado para cima. Sem texto, logótipos, marcas de água ou elementos de interface.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -151,20 +191,60 @@ Tradução em curso
 
 <a name="prompt-2100765199888531906"></a>
 
-### Tradução em curso
+### Prompt de fotografia fotorrealista de uma mulher japonesa adulta a sorrir na cama de um hotel pela manhã, vestindo lingerie marfim com bordados florais delicados.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2100765199888531906)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de fotografia fotorrealista de uma mulher japonesa adulta a sorrir na cama de um hotel pela manhã, vestindo lingerie marfim com bordados florais delicados.
 
 <img src="images/2100765199888531906-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+🌟Cama de Hotel Branca｜Sorriso Marfim a Desfazer-se na Luz da Manhã🌟
+
+【Tema e Estilo】
+Fotografia fotorrealista de uma mulher japonesa de 24 anos, claramente adulta, a desfrutar de um momento calmo e tranquilo pouco depois de acordar na cama de um hotel pela manhã. Mantendo a proximidade de uma manhã partilhada a dois entre namorados, capta-se um instante em que a intimidade é transmitida com naturalidade através de uma expressão e postura espontâneas, sem encenações explícitas.
+Procurando um equilíbrio entre um anúncio requintado de lingerie e um retrato com vida e autenticidade, a cena não funciona como uma simples foto de produto focada apenas no vestuário, mas afirma-se como um todo que abrange o ar matinal, as expressões, a roupa de cama branca e a suave luz da janela. Uma linguagem fotográfica natural, limpa, luminosa, distinta, como se tivesse sido tirada num hotel verdadeiro.
+
+【Local, Cenário e Ambiente】
+O local é o quarto de hotel de qualidade superior, sereno e em tons de branco. Por trás da mulher encontram-se almofadas brancas volumosas sobrepostas e um edredão branco com rugas suaves e naturais. A um dos lados da imagem, há uma grande janela por onde entra a luz matinal através de cortinas de renda translúcidas.
+Em segundo plano, surgem suavemente desfocados elementos típicos de hotel, como uma cabeceira simples, uma pequena mesa de cabeceira e um candeeiro discreto. O espaço não está sobrecarregado com objetos, compondo-se em redor da roupa de cama branca e da luz da janela, para criar um ambiente sereno onde o rosto e a roupa da modelo se tornam os protagonistas naturais.
+
+【Estação, Hora e Clima】
+A estação evoca um período ameno entre a primavera e o início do verão. A hora situa-se no início da manhã, cerca das 7h, com o exterior a começar a clarear. Trata-se de uma manhã soalheira, mas sem luz solar direta forte; a luz suave filtrada pelas cortinas de renda espalha-se pelo quarto.
+O interior conserva aquela sensação límpida e fresca típica da manhã, e a luz que recai sobre a cama varia entre o branco e um creme suave. A temperatura de cor é tranquila, preservando a frescura sem passar uma impressão fria.
+
+【Definição da Personagem】
+Mulher japonesa de 24 anos, categoricamente adulta. Feições suaves e harmoniosas, olhos escuros relativamente grandes, sobrancelhas naturais, ponte nasal fina e lábios macios e corados. Cabelo castanho-escuro ligeiramente abaixo dos ombros, com aquele leve desalinho de quem acabou de despertar e ondas naturais, com pequenas madeixas soltas em torno do rosto.
+Pele em tom ocre claro com textura realista, mantendo poros e sombras subtis. Ombros e braços delicados, cintura estreita combinada com curvas femininas numa silhueta naturalmente curvilínea e elegante. Busto marcadamente farto e cheio, sem rigidez nem elevações artificiais forçadas, apresentando um volume tridimensional e suave que acompanha a gravidade e a posição recostada na cama.
+
+【Vestuário e Acessórios】
+Conjunto requintado de soutien e cuecas em tom marfim, a lembrar o estilo refinado da Wacoal. Na composição, vê-se sobretudo o soutien, ficando as cuecas fora do enquadramento. A superfície das copas apresenta pequenos bordados florais espalhados em tons suaves de alperce e bege, com renda delicada e recortada no rebordo superior.
+As copas têm um forro opaco que impede transparências na pele, sem recurso a materiais excessivamente finos. Apresenta dimensões e estrutura realistas para suportar confortavelmente o peito farto, assentando de forma natural, sem repuxar excessivamente o tecido nem marcar a pele de modo artificial. Não há uso de acessórios, dando-se primazia à simplicidade e à frescura da manhã.
+
+【Postura, Ação e Olhar】
+A mulher apoia as costas e a zona das omoplatas nas almofadas brancas, erguendo suavemente a parte superior do corpo. O tronco fica quase de frente para a câmara, mas com os ombros descontraídos e ligeiramente inclinados para um dos lados, conferindo uma pose espontânea de despertar. Sem curvar exageradamente a lombar ou a coluna, mantém uma posição estável com o peso suavemente entregue às almofadas.
+O cabelo de um dos lados cai para trás do ombro e ambos os braços repousam com naturalidade na parte inferior do enquadramento ou sobre a roupa de cama, evitando poses demasiado encenadas. O olhar não se fixa na objetiva, mas imediatamente ao lado desta, fitando o parceiro e captando o momento imediatamente a seguir a ouvir o cumprimento matinal.
+
+【Expressão e Emoção】
+No momento em que o parceiro lhe deseja os "bons-dias", cerra suavemente os olhos ainda com algum sono e esboça um pequeno sorriso. Não só a zona ocular, mas também as maçãs do rosto relaxam ligeiramente, transmitindo uma expressão espontânea de segurança e à-vontade.
+Os lábios não se abrem excessivamente, permanecendo suavemente encostados e descontraídos. As faces exibem um rubor subtil condizente com a temperatura da manhã, um sorriso que surge espontaneamente ao olhar para alguém chegado, e não uma pose fingida. Sem doçura artificial, combinando compostura adulta e proximidade calorosa.
+
+【Composição e Câmara】
+Composição vertical 4:5 indicada para publicação no X. Plano médio fechado (plano do busto), abrangendo amplamente desde o peito até ao topo da cabeça, com um ligeiro respiro superior. Enquadramento de proximidade onde a expressão do rosto, os olhos, os lábios e os pequenos bordados florais cor de marfim são visíveis em detalhe ao mesmo tempo.
+A câmara está colocada quase ao nível dos olhos da modelo, ligeiramente frontal, com um ângulo de visão natural correspondente a uma distância focal entre 50 e 85 mm (padrão a meia-teleobjetiva). Evitam-se distorções de grande-angular acentuada ou perspetivas que deformem o corpo. O fundo é ligeiramente desfocado, mas mantendo percetíveis elementos que identificam uma manhã de hotel, como as almofadas brancas, a janela e as cortinas.
+
+【Luz, Cor, Textura e Atmosfera】
+A fonte luminosa principal é a luz natural matinal proveniente da grande janela à esquerda do enquadramento. A luz difundida pelas cortinas de renda banha suavemente um dos lados do rosto, o ombro e a renda do soutien, gerando sombras muito ténues no lado oposto. O reflexo da luz na roupa de cama branca compensa as sombras, iluminando o rosto de forma uniforme e natural.
+A pele conserva os poros, sombreados finos e uma tonalidade corada natural, sem excessos de retoque. O cabelo exibe a definição das mechas e o brilho suave da claridade matinal; a renda revela a textura tridimensional dos fios delicados; os lençóis evidenciam vincos suaves típicos do algodão ou do linho. A paleta cromática estrutura-se em redor do branco, do marfim e do alperce suave, gerando uma atmosfera matinal luminosa, serena e íntima.
+
+【Qualidade e Elementos a Excluir】
+Alta definição, dando prioridade à anatomia humana, iluminação, textura de materiais e perspetiva credíveis, como numa captura fotográfica autêntica. Evitar figuras com aspeto menor de idade, traços excessivamente infantis, anatomia distorcida, membros ou dedos supranumerários, dedos em falta ou fundidos, articulações incorretas ou inversão entre mãos esquerda e direita.
+Evitar falhas na confeção do vestuário, fusão do tecido com o corpo, vincos anormais na pele, exposição corporal não intencional, deformações causadas por grande-angular e suavização excessiva da tez. Manter o peito farto com volume realista, rejeitando proporções aberrantes, formatos esféricos rígidos, efeito de sustentação artificial excessivo ou formatos que contrariem a gravidade. Não incluir qualquer texto, logótipo, marca de água ou elementos de interface.
 ```
 
 [↑ Voltar às categorias](#catalog)

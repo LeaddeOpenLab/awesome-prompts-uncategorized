@@ -57,20 +57,60 @@ Altın saatte zarif bir Amerikan caddesinde duran, uzun dalgalı koyu kahverengi
 
 <a name="prompt-2100768295884624177"></a>
 
-### Çeviri sürüyor
+### Gün batımında özel bir saunada yulaf ezmesi beji renginde iç çamaşırı giymiş, nazikçe geriye bakan bir Japon kadınının fotoğraf tarzı istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100768295884624177)
 
 Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gün batımında özel bir saunada yulaf ezmesi beji renginde iç çamaşırı giymiş, nazikçe geriye bakan bir Japon kadınının fotoğraf tarzı istemi.
 
 <img src="images/2100768295884624177-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Gün Batımı Pencere Kenarı Saunası | Yulaf Ezmesi Beji Renginde Zarif Bir Geriye Bakış🌟
+
+【Konu ve Sanat Tarzı】
+Akşam saatlerinde özel bir saunada dinlenen, kesinlikle yetişkin bir Japon kadını konu alan fotogerçekçi bir çalışma. Dışarıdaki manzarayı izlerken sevgilisinin varlığını fark edip yüzünü nazikçe ona doğru çevirdiği anı yakalar.
+Bir fotoğraf albümü sayfası kadar kaliteli olmakla birlikte, yaşanmışlık hissi veren samimi bir havayı korur. Belirgin bir cazibeden ziyade dinginlik, sıcaklık ve doğal kadınsılığı yansıtan sinematik bir fotoğraf ifadesidir.
+
+【Mekân, Arka Plan ve Dünya】
+Ahşap duvarlar ve kademeli banklarla çevrili, pencereli, huzurlu bir özel sauna. Kişi, pencereye yakın olan alt bankta oturmaktadır; yakınında bir sauna minderi, arkada sauna sobası ve bankın altında göze çarpmayan dolaylı bir aydınlatma görülür.
+Küçük pencerenin dışında gün batımına boyanmış bahçe ağaçları görünür ve iç mekânla oluşturduğu tezat derinlik katar. Arka plan, aşırı kusursuz lüks bir otel tarzında değil, ahşabın sıcaklığını ve sessiz bir konforu hissettiren bir mekân olmalıdır.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim, erken sonbaharı hissettiren ılık bir akşamüstüdür. Dışarısı açık olup, alçak konumdaki batan güneş içeriye yumuşak altın sarısı bir ışık süzmektedir.
+İç mekân saunaya özgü kuru bir ısıyla sarılmış olup, dışarının serinliğiyle oluşan tezat havaya derinlik katar. Sakin bir günün sonunu anımsatan, dingin bir zaman diliminin ifadesi özenle vurgulanır.
+
+【Kişi Tanımı】
+Yaklaşık 20-28 yaşlarında, açıkça yetişkin bir Japon kadın. Yumuşak ve dengeli yüz hatları, hafif iri koyu renkli gözleri, doğal kaşları ve canlı dudakları ile hem cana yakınlığı hem de zarafeti bir arada taşır. Saçları koyu kahverengidir, omuz hizasında doğal dalgalarla hafifçe toplanmış olup yüz çevresinde nemli ince saç telleri kalmıştır.
+Teni açık aşı boyası (açık buğday) tonundadır ve aşırı pürüzsüzleştirilmemiş doğal bir dokuya sahiptir. Narin omuz ve uzuvlar, ince bir bel ve feminen kıvrımlarla uyum sağlayan zarif ve doğal olarak dolgun bir vücut yapısı vardır. Göğüsleri belirgin bir dolgunluğa sahip olmakla birlikte, giysiye ve duruşa göre yumuşak ve doğal biçimde oturur, tüm vücutla dengesini korur.
+
+【Kıyafet ve Aksesuarlar】
+Kıyafet, yulaf ezmesi beji renginde sütyen ve külottan oluşur. Fildişi rengi çiçek nakışlarıyla bezenmiş dantel ile hafif parlak saten geçişlerini birleştiren zarif bir tasarıma sahiptir; ana kısımlarda aynı tonlarda opak astar bulunur.
+Aşırı şeffaflıktan veya abartılı süslemelerden kaçınılmalı, vücuda gerçekçi bir şekilde oturan bir ölçüde olmalıdır. Göğüs ve bel çevresine kasmadan oturmalı, kumaş havada kalmamalı veya teni sıkmamalıdır. Prensip olarak takı kullanılmamalı, gerekirse yalnızca son derece küçük bir küpe ile sınırlandırılmalıdır.
+
+【Poz, Hareket ve Bakış】
+Kadın alt basamaktaki sauna minderinde oturur, iki bacağını öne doğru uzatıp birleştirmiştir ve ayak uçları doğal olarak yere temas eder. Gövdesi hafifçe pencereye dönüktür, ancak yalnızca üst bedenini nazikçe döndürerek, manzarayı izleme anının devamında yüzünü sevgilisine doğru çevirdiği hareket anı olarak ifade edilir.
+İki eli de vücudunun yanındaki oturma yüzeyine hafifçe dokunur; bir eli geriye doğru durarak vücudunu destekler, diğeri ise uyluğunun yanındaki oturma alanına doğal bir şekilde konmuştur. Bakışı doğrudan kameraya değil, kameranın biraz yukarısındaki sevgilisine yöneliktir ve "Ne oldu?" dercesine doğal bir yöne bakar.
+
+【İfade ve Duygu】
+İfadede, seslenmeyi fark ettiği andaki yumuşak tepki ön plandadır. Gözleri sevgiyle yumuşamış, kaşları doğal ve dudaklarında küçük, sakin bir tebessüm vardır.
+Abartılı bir gülüş yerine, başını hafifçe çevirip karşısındakine bakarak yalnızca çok yakın birine gösterilecek güven ve sıcaklığı hissettirir. Gösterişsiz ama akılda kalıcı, sessiz bir yakınlığı yansıtan bir ifade olmalıdır.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey kompozisyon. Oturur vaziyetteki tüm vücudu ve ayak parmak uçlarını ferah bir şekilde içine alacak; pencereyi, dış manzarayı, sobayı ve bankların bir kısmını zorlanmadan kareye sığdıracak bir mesafeden çekilir. Kişi kadrajın merkezine yakın konumlandırılırken, bir yanda pencere gösterilerek kompozisyona ferahlık kazandırılır.
+Kamera yüksekliği, oturan kişinin göğsü ile göz hizası arasında doğal bir yüksekliktedir. Vücudu doğal olmayan şekilde abartmayan, standart ile orta telefoto arası sakin bir görüş açısı kullanılır. Arka plan hafifçe toparlanmış olmakla birlikte, sauna mekânını hissettirecek düzeyde bilgi barındırır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı pencereden içeri süzülen akşamın eğik ışığıdır; kişinin yanaklarında, omuzlarında, köprücük kemiklerinde ve saç tellerinde yumuşak parlamalar oluşturur. İç mekân yardımcı ışığı olarak bankın altındaki dolaylı aydınlatma ve soba çevresindeki sıcak ışık eklenir; gölgeler çok derinleştirilmez, ahşabın yansıyan ışığıyla doğal bir şekilde aydınlatılır.
+Renk paleti altın sarısı, bal kahvesi ve yulaf ezmesi beji etrafında toplanarak genele sıcak bir bütünlük kazandırır. Yanaklar saunanın ısısıyla hafifçe kızarmış; alın, boyun, köprücük kemikleri ve omuzlarda ince ter damlacıkları belirmiş olup cilde nemli, üç boyutlu bir his verir. Saçlar hafif nemli tutam dokusuna sahip olmalı, dantelin narin kabartıları ve ahşap duvarlar ile banklardaki kuru ahşap damarlarının dokusu özenle yansıtılmalıdır.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü olup, gerçek bir fotoğraf makinesiyle çekilmiş gibi doğal insan anatomisine, perspektife, aydınlatmaya ve malzeme dokusuna öncelik verilir. Reşit görünmeyen tasvirlerden, aşırı çocuksu yüz hatlarından, doğal olmayan vücut oranlarından, aşırı ince bellerden ve yalnızca göğüsleri yapay olarak vurgulayan sunumlardan kaçınılmalıdır.
+Fazladan uzuv ve parmaklar, eksik veya birleşik parmaklar, doğal olmayan eklemler, sol-sağ el karmaşası, kıyafet deformasyonları, vücutla giysinin birbirine kaynaşması, istenmeyen açıklıklar, aşırı geniş açı bozulmaları ve aşırı cilt pürüzsüzleştirme işlemlerinden kaçınılmalıdır. Göğüsler dolgun hacmini korumalı, ancak sert küreler şeklinde veya aşırı yukarı itilmiş olmamalıdır. Yazı, logo, filigran veya arayüz öğeleri içermemelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -151,20 +191,60 @@ Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijin
 
 <a name="prompt-2100765199888531906"></a>
 
-### Çeviri sürüyor
+### Sabah otel yatağında fildişi küçük çiçek işlemeli iç çamaşırıyla gülümseyen yetişkin Japon kadınının fotogerçekçi fotoğraf istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2100765199888531906)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabah otel yatağında fildişi küçük çiçek işlemeli iç çamaşırıyla gülümseyen yetişkin Japon kadınının fotogerçekçi fotoğraf istemi.
 
 <img src="images/2100765199888531906-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Beyaz Otel Yatağı｜Sabah Işığında Çözülen Fildişi Tebessüm🌟
+
+【Konu ve Tarz】
+24 yaşında, belirgin şekilde yetişkin bir Japon kadınının, sabah saatlerinde otel yatağında uyandıktan kısa bir süre sonra geçirdiği sakin ve huzurlu anları yansıtan fotogerçekçi fotoğraf. Sevgilisiyle birlikte karşılanan bir sabahın samimiyetini hissettirirken, aşırıya kaçan mizansenler yerine sıradan bir yüz ifadesi ve doğal bir duruşla yakınlığın kendiliğinden aktarıldığı bir anı tasvir eder.
+Zarif bir iç çamaşırı reklamı ile hayat dolu bir portrenin dengesi hedeflenir; yalnızca kıyafeti sergileyen bir ürün fotoğrafı olmak yerine, sabahın havasını, yüz ifadesini, beyaz yatak takımlarını ve pencereden süzülen yumuşak ışığı da katarak tek bir bütünsel sahne oluşturur. Temiz, aydınlık, zarif ve gerçek bir otelde çekilmiş hissi veren doğal bir fotoğrafik anlatım.
+
+【Mekân, Arka Plan ve Dünya】
+Çekim mekânı, beyaz tonların hâkim olduğu, sakin ve kaliteli bir otel yatak odasıdır. Kadının arkasında dolgunca üst üste konmuş beyaz yastıklar ve üzerinde hafif, doğal kırışıklıklar bulunan beyaz bir yorgan yer alır. Karenin bir yanında geniş bir pencere bulunur ve tül perdelerin ardından içeriye sabah ışığı süzülür.
+Arka planda otele özgü sade bir yatak başlığı, küçük bir komodin ve gösterişsiz bir abajur hafifçe flu olarak görünür. Ortam eşyalarla aşırı doldurulmaz; beyaz yatak takımı ve pencere ışığı etrafında düzenlenerek, kişinin yüzü ve kıyafetinin doğal biçimde ön plana çıktığı sessiz bir alan yaratılır.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim, ilkbahardan erken yaza geçişi andıran ılıman bir dönemdir. Zaman dilimi sabah saat 07:00 civarı olup, dışarısı yeni yeni aydınlanmaktadır. Güneşli bir sabahtır ancak doğrudan gelen güneş ışığı sert değildir; tül perdelerden süzülen yumuşak ışık odanın içine yayılır.
+Oda içerisinde sabaha özgü, hafif serin ve berrak hava hissedilir; yatak takımına vuran ışık beyazdan açık krem tonlarına uzanır. Ferahlığı korurken soğuk bir izlenim yaratmayan ılıman bir renk sıcaklığı tercih edilir.
+
+【Karakter Özellikleri】
+24 yaşında, kesinlikle yetişkin bir Japon kadın. Yumuşak ve muntazam yüz hatları, nispeten iri ve koyu renk gözler, doğal kaşlar, zarif bir burun köprüsü ve canlı, yumuşak dudaklar. Omuz hizasından biraz daha uzun koyu kahverengi saçlar, yeni uyanmış olmanın getirdiği hafif dağınıklık ve doğal dalgalarla yüz çevresinde serbestçe kalan ince saç telleriyle dökülür.
+Cilt, gözenekleri ve ince gölgeleri koruyan gerçekçi bir dokuya sahip açık aşıboyası tonlarındadır. Omuzlar ve kollar narin; ince bel ile feminen kıvrımların uyum sağladığı, doğal olarak dolgun ve çekici bir vücut yapısı. Göğüsler belirgin biçimde dolgun ve iridir; ancak sertlik veya yapay bir dikleştirme olmadan, yatağa yaslanmış duruşa ve yerçekimine uygun, yumuşak üç boyutlu bir hacme sahiptir.
+
+【Kıyafet ve Aksesuarlar】
+Wacoal tarzını anımsatan zarif fildişi sütyen ve külot takımı. Kadrajda ağırlıklı olarak sütyen kısmı görünür, külot kompozisyonun dışında kalır. Kupların yüzeyinde açık kayısı ve bej tonlarında küçük çiçek işlemeleri serpiştirilmiştir; üst kenarda ise ince fistolu dantel detayları yer alır.
+Kuplarda teni göstermeyen opak bir astar kullanılmıştır; aşırı ince materyallerden kaçınılmıştır. Dolgun göğüsleri zorlanmadan destekleyen gerçekçi bir boyut ve yapıya sahip olup, kumaşın aşırı gerilmediği veya vücudu rahatsız edici şekilde sıkmadığı doğal bir oturuş sunar. Aksesuar kullanılmaz; sabahın yalınlığı ve temizliği ön planda tutulur.
+
+【Duruş, Hareket ve Bakış】
+Kadın, sırtını ve kürek kemiklerine kadar olan kısmı beyaz yastıklara yaslayarak üst gövdesini hafifçe doğrultmuştur. Vücut kameraya neredeyse cepheden dönüktür; ancak omuzlar serbest bırakılmış ve hafifçe bir yana eğilerek yeni uyanmaya özgü doğal bir duruş sergilenmiştir. Bel ve sırt aşırı bükülmemiş, ağırlık yastığa rahatça bırakılarak dengeli bir pozisyon alınmıştır.
+Saçların bir kısmı omzun arkasına atılmış, iki kol da kadrajın altına ya da yatağın üzerine doğal bir biçimde yerleştirilmiştir; yapay bir poz verilmesinden kaçınılmıştır. Bakışlar doğrudan kameraya değil, objektifin hemen yanında duran sevgiliye yöneltilmiştir; sabah selamını işittiği anın hemen sonrasını yansıtır.
+
+【Yüz İfadesi ve Duygu】
+Sevgilisinin "günaydın" dediği anda, mahmurluğun izlerini taşıyan gözlerini hafifçe kısarak küçük bir tebessüm sergiler. Yalnızca göz çevresi değil, yanaklar da hafifçe gevşemiştir; güven duyduğunu ve kendini rahat hissettiğini belli eden doğal bir yüz ifadesidir.
+Dudaklar fazla açılmamış, gevşekçe ve hafifçe kapalı tutulmuştur. Yanaklarda sabahın tazeliğini yansıtan hafif bir pembelik bulunur; bu, zorlama bir gülümseme değil, sevilen birine bakıldığında kendiliğinden beliren içten bir tebessümdür. Aşırı tatlılığa kaçmadan, yetişkinlere özgü bir dinginlik ile samimiyeti bir arada sunar.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey kompozisyon. Göğüsten başın tepesine kadar genişçe içine alan, başın üstünde hafif bir boşluk bırakan büst çekimi. Yüz ifadesinin, gözlerin, ağzın ve fildişi çiçek işlemelerinin aynı anda net bir biçimde görülebildiği yakın çekim.
+Kamera, kadının göz hizasına yakın ve cepheye dönük yerleştirilmiştir; 50-85mm standardında veya hafif teleobjektife yakın doğal bir görüş açısı kullanılır. Aşırı geniş açı veya perspektif bozulmalarıyla vücudun abartılmasından kaçınılır. Arka plan hafifçe bulanıklaştırılır ancak beyaz yastıklar, pencere ve perdeler gibi bir otel sabahını belirten unsurlar tanınabilir biçimde korunur.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, kadrajın solundaki geniş pencereden giren doğal sabah ışığıdır. Tül perdeden yayılan ışık yüzün bir tarafını, omuzları ve sütyendeki danteli yumuşakça aydınlatır; diğer tarafta ise son derece hafif gölgeler oluşturur. Beyaz yatak takımından yansıyan ışık gölgede kalan kısmı destekleyerek tüm yüzün aydınlık ve doğal görünmesini sağlar.
+Ciltte gözenekler, ince gölgeler ve doğal ten rengi korunur; aşırı pürüzsüzleştirme filtrelerinden kaçınılır. Saçlarda tek tek saç tellerinin akışı ve sabah ışığının yumuşak parıltısı; dantellerde ipliklerin zarif üç boyutlu dokusu; yatak takımında ise pamuk veya ketene özgü yumuşak kırışıklıklar yansıtılır. Beyaz, fildişi ve açık kayısı tonlarında bütünlük sağlanarak aydınlık, dingin ve samimi bir sabah atmosferi oluşturulur.
+
+【Kalite ve Hariç Tutulacak Unsurlar】
+Yüksek çözünürlük; gerçek bir fotoğraf makinesiyle çekilmiş gibi doğal insan anatomisi, ışık, malzeme dokusu ve perspektif ön plandadır. Reşit görünmeyen bireyler, aşırı çocuksu yüz hatları, anormal vücut oranları, fazla uzuvlar veya parmaklar, eksik veya birleşik parmaklar, doğal olmayan eklemler, sağ-sol el karışıklıkları hariç tutulmalıdır.
+Kıyafet bozulmaları, kumaşın tenle kaynaşması, deriye anormal batmalar, istenmeyen açık saçıklık, aşırı geniş açı deformasyonu ve abartılı cilt pürüzsüzleştirmesi önlenmelidir. Göğüsler doğal ve dolgun hacmini korumalı; yapay biçimde devasa, sert küre formunda, anormal derecede yukarı itilmiş veya yerçekimine aykırı bir biçimde tasvir edilmemelidir. Görsel üzerinde metin, logo, filigran veya kullanıcı arayüzü ögeleri bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
