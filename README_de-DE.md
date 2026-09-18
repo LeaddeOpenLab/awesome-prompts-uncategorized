@@ -67,20 +67,38 @@ Ein Ganzkörper-Lifestyle-Foto einer jungen ostasiatischen Frau, die entspannt a
 
 <a name="prompt-2100819610987811160"></a>
 
-### Übersetzung läuft
+### Ultraphotorealistisches Mode-Editorial-Porträt einer Frau in einer extravaganten karmesinroten Couture-Robe, die bei bedecktem Tageslicht auf einem schwarzen Pferd in windgepeitschter Umgebung reitet.
 
 Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Originalbeitrag](https://x.com/Tanvir48992/status/2100819610987811160)
 
 Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultraphotorealistisches Mode-Editorial-Porträt einer Frau in einer extravaganten karmesinroten Couture-Robe, die bei bedecktem Tageslicht auf einem schwarzen Pferd in windgepeitschter Umgebung reitet.
 
 <img src="images/2100819610987811160-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultraphotorealistisches, filmisches Mode-Editorial-Porträt einer eleganten erwachsenen Frau, die auf einem kraftvollen schwarzen Pferd reitet, aufgenommen in einer dramatischen, windgepeitschten Kulisse im Freien. Die Komposition ist vertikal und dynamisch, aus einer leichten Untersicht von vorne fotografiert, wodurch Pferd und Reiterin kraftvoll und imposant wirken.
+
+Die Frau ist im oberen Zentrum des Bildausschnitts positioniert und sitzt selbstbewusst auf dem Pferd. Sie trägt eine extravagante, tief karmesinrote Couture-Robe aus schwer strukturiertem, fließendem Stoff. Das Kleid verfügt über enorme, voluminöse Lagen, die sich dramatisch um das Pferd ausbreiten und eine skulpturale Silhouette erzeugen. Der Stoff wirkt ungebügelt, zerknittert, leicht distresst und bewegt sich natürlich im Wind, mit reichen Nuancen von dunklem Burgunderrot, Scharlachrot und tiefen Rottönen.
+
+Sie hat langes, natürlich zerzaustes schwarzes Haar, das von starkem Wind dramatisch zur Seite geweht wird. Einzelne Strähnen und lockere Locken wehen sichtbar um ihr Gesicht und ihre Schultern. Ihr Ausdruck ist intensiv, ernst und geheimnisvoll, mit einem ruhigen, aber gebieterischen Blick direkt in die Kamera. Natürliche, realistische Hauttextur, feine Poren, zarte Gesichtsdetails, authentische Unvollkommenheiten und filmische Gesichtsbeleuchtung.
+
+Das Pferd ist ein großes, kraftvolles schwarz/dunkelbraunes Pferd, das prominent im Vordergrund platziert ist. Sein Kopf und sein Oberkörper dominieren den unteren Teil des Rahmens und schaffen eine ausgeprägte Tiefe und Dimension. Das Pferd besitzt ein glänzendes, aber natürlich strukturiertes Fell, eine detaillierte Mähne, ausdrucksstarke Augen, realistisches Lederzaumzeug und Zügel sowie dezente Glanzlichter auf seinem muskulösen Kopf und Hals. Eine leichte Bewegungsunschärfe in der Mähne und im Stoff deutet Bewegung an.
+
+Die Reiterin hält die Zügel ganz natürlich und bewahrt eine selbstbewusste Haltung zu Pferde. Die gewaltige rote Robe fällt kaskadenartig um das Pferd herab und füllt weite Teile der unteren und seitlichen Bildbereiche aus, was einen dramatischen Kontrast zum dunklen Pferd bildet.
+
+Beleuchtung: sanftes, bedecktes natürliches Tageslicht, diffuse filmische Ausleuchtung, dezente Glanzlichter auf dem Gesicht der Frau und dem roten Stoff, tiefe natürliche Schatten, gedämpfte atmosphärische Töne.
+
+Hintergrund: minimalistischer, blassgrauer/cremeweißer Himmel und sanft verschwommene, neutrale Umgebung, sodass die gesamte Aufmerksamkeit auf der Reiterin, dem Pferd und der fließenden roten Couture liegt. Starke Trennung zwischen Vordergrund und Hintergrund.
+
+Fotografiestil: High-Fashion-Editorial-Fotografie, avantgardistische Couture-Kampagne, filmischer Realismus, dramatische Bewegung, anspruchsvolle Komposition, realistische Stoffphysik, natürlicher Wind, geringe Schärfentiefe, feines Filmkorn, hoher Dynamikumfang, realistische Texturen, professioneller Vollformat-Kamera-Look, Ästhetik eines 85mm-Objektivs, scharfe Details des Motivs, atmosphärische Tiefe.
+
+Farbpalette: tiefes Karmesinrot, Burgunderrot, Schwarz, Anthrazit, gedämpftes Grau, mit zurückhaltendem Kontrast und eleganter dunkel-romantischer Stimmung.
+
+Negativer Prompt: cartoon, anime, illustration, CGI look, plastic skin, excessive makeup, distorted face, deformed hands, extra limbs, malformed horse, duplicate horse, unrealistic anatomy, floating fabric, oversaturated colors, artificial lighting, low resolution, blurry face, excessive sharpening, text, logo, watermark.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -3038,20 +3056,116 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2100809690850664865"></a>
 
-### Übersetzung läuft
+### 30-Sekunden-Prompt für ein fotorealistisches AAA-Gangster-Gameplay-Video mit vollständigem HUD und chronologisch ablaufenden Straßenkämpfen samt Boss-Auftritt.
 
 Autor：[@Inshrah\_ali\_](https://x.com/Inshrah_ali_) · [Originalbeitrag](https://x.com/Inshrah_ali_/status/2100809690850664865)
 
 Kinematisch / Filmstill · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 30-Sekunden-Prompt für ein fotorealistisches AAA-Gangster-Gameplay-Video mit vollständigem HUD und chronologisch ablaufenden Straßenkämpfen samt Boss-Auftritt.
 
 <img src="covers/2100809690850664865.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine 30-sekündige, ultra-realistische Open-World-GANGSTER-Gameplay-Cinematic, die zwei rivalisierende Straßenbanden zeigt, die nachts in einer rauen modernen Stadt kämpfen. Lass das gesamte Video wie eine virale AAA-Gameplay-Aufnahme wirken, als ob ein Spieler die Hauptfigur aktiv steuert.
+
+GAMEPLAY-BILDSCHIRM / HUD — SEHR WICHTIG:
+Füge eine ausgefeilte, originelle moderne Gameplay-Benutzeroberfläche hinzu, die während des gesamten Videos natürlich sichtbar bleibt:
+
+Oben links: kleines kreisförmiges Charakterporträt + grüner GESUNDHEITSBALKEN und blauer AUSDAUERBALKEN
+
+Oben rechts: kompaktes MISSIONSZIEL-Bedienfeld
+
+Unten links: detaillierte MINIKARTE, kreisförmiges Radar, Spielerpfeil, Feindindikatoren, Symbole für nahegelegene Fahrzeuge und Zielmarkierung
+
+Unten rechts: transparente Aktionsschaltflächen-Symbole für Schlagen, Ausweichen, Sprinten, Interagieren und Ducken
+
+Mitte: kleines dynamisches Fadenkreuz/Zielkreuz, wenn passend
+
+Feindliche Ziele: rote Rautensymbole über feindlichen Charakteren
+
+Teammitglieder: blau/grüne Anzeigen über verbündeten Charakteren
+
+Kampf-Feedback: dezente Trefferanzeige, Combo-Zähler und EP/Belohnungsbenachrichtigung
+
+Missionsbenachrichtigungen: elegante Pop-up-Nachrichten wie „RIVAL GANG DETECTED“, „SURVIVE THE AMBUSH“ und „BOSS FIGHT INCOMING“
+
+Füge subtile Controller-Tastenaufforderungen hinzu, wenn sich der Spieler Objekten oder Feinden nähert
+
+Das HUD sollte halbtransparent, futuristisch und minimalistisch sein und sich natürlich in die Szene einfügen, anstatt das Geschehen zu verdecken.
+
+UI-Animationen sollten sich reaktionsschnell anfühlen: Symbole pulsieren, Ziele aktualisieren sich, Gesundheit sinkt realistisch, Feindmarkierungen bewegen sich mit den Charakteren mit.
+
+Gestalte die Benutzeroberfläche originell und nicht als exakte Nachbildung einer bestehenden Spiel-UI.
+
+0–5 SEK — RIVAL GANG DETECTED
+
+Die Third-Person-Kamera folgt dem Protagonisten, der durch eine neonbeleuchtete Stadtstraße geht.
+
+HUD:
+Minikarte aktiviert sich → mehrere rote Feindmarkierungen erscheinen → Zielbedienfeld zeigt:
+
+MISSION
+RIVAL GANG DETECTED
+
+Ein Feindwarnsymbol blinkt kurz auf.
+
+5–10 SEK — STRASSENKAMPF
+
+Ein rivalisierender Gangster greift an. Der vom Spieler gesteuerte Protagonist blockt, weicht aus und kontert.
+
+Zeige, wie die Aktionssymbole unten rechts auf die Bewegungen des Spielers reagieren. Rote Feindmarkierungen erscheinen über den Gegnern. Füge nach aufeinanderfolgenden erfolgreichen Aktionen eine kleine COMBO ×3-Anzeige hinzu.
+
+10–15 SEK — CHAOS
+
+Der Kampf breitet sich über die Straße aus. Gangmitglieder rennen zwischen Autos und Barrikaden hin und her.
+
+Die Minikarte füllt sich mit sich bewegenden roten und blauen Symbolen.
+
+ZIEL AKTUALISIERT:
+SURVIVE THE AMBUSH
+
+Füge subtiles Bildschirmwackeln und Schadens-Feedback hinzu, wenn der Protagonist getroffen wird.
+
+15–20 SEK — ZEITLUPEN-KONTER
+
+Der Protagonist wird umzingelt. Das Gameplay geht plötzlich in eine dramatische Zeitlupe über.
+
+Eine DODGE-Aufforderung erscheint nahe den Bedienelementen unten rechts. Er weicht einem ankommenden Angriff aus und führt einen Konterangriff aus.
+
+Das HUD kehrt fließend zur normalen Geschwindigkeit zurück.
+
+20–26 SEK — BANDEKRIEG
+
+Beide Banden stürmen aufeinander zu.
+
+Der Protagonist rennt über das Schlachtfeld, während Teammitglieder an seiner Seite kämpfen.
+
+ZIEL:
+DEFEAT THE RIVAL GANG
+
+Zeige dynamische Feindmarkierungen, Team-Symbole, Bewegung auf der Minikarte, Ausdauerverlust beim Sprinten und realistisches Kampf-Feedback.
+
+26–30 SEK — BOSS-KAMPF
+
+Ein schwarzer SUV trifft ein. Der Anführer der rivalisierenden Bande steigt aus.
+
+Alle Feindmarkierungen sammeln sich um ihn herum.
+
+Ein dramatischer BOSS-GESUNDHEITSBALKEN erscheint oben in der Mitte:
+
+RIVAL GANG LEADER
+████████████████████
+
+Dann erscheint eine große originelle Gameplay-Benachrichtigung:
+
+⚠ BOSS FIGHT INCOMING
+
+Der Protagonist hebt die Fäuste. Die Kamera fährt hinter ihn in eine klassische Third-Person-Gameplay-Position.
+
+BLENDE AUF SCHWARZ.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

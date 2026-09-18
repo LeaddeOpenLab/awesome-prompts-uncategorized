@@ -72,20 +72,38 @@ Sử dụng bức ảnh đã tải lên làm tham chiếu nhận dạng khuôn m
 
 <a name="prompt-2100819610987811160"></a>
 
-### Đang dịch
+### Bức ảnh chân dung thời trang biên tập chân thực tột đỉnh chụp một người phụ nữ trong bộ váy dạ hội cao cấp màu đỏ thẫm lộng lẫy đang cưỡi ngựa đen trong khung cảnh lộng gió dưới ánh sáng ban ngày u ám.
 
 Tác giả：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2100819610987811160)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức ảnh chân dung thời trang biên tập chân thực tột đỉnh chụp một người phụ nữ trong bộ váy dạ hội cao cấp màu đỏ thẫm lộng lẫy đang cưỡi ngựa đen trong khung cảnh lộng gió dưới ánh sáng ban ngày u ám.
 
 <img src="images/2100819610987811160-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức ảnh chân dung thời trang biên tập mang phong cách điện ảnh chân thực tột đỉnh chụp một người phụ nữ trưởng thành thanh lịch đang cưỡi một con ngựa đen dũng mãnh, được ghi lại trong khung cảnh ngoài trời đầy kịch tính và lộng gió. Bố cục dọc và năng động, được chụp từ góc thấp chính diện nhẹ, làm cho ngựa và người cưỡi toát lên vẻ quyền uy và bệ vệ.
+
+Người phụ nữ ở vị trí trung tâm phía trên của khung hình, ngồi đầy tự tin trên lưng ngựa. Cô mặc một bộ váy dạ hội cao cấp màu đỏ thẫm lộng lẫy làm từ chất liệu vải rủ, có vân nổi dày dặn. Chiếc váy có nhiều tầng lớp bồng bềnh khổng lồ xòe ra đầy kịch tính quanh con ngựa, tạo nên một phom dáng như điêu khắc. Chất vải trông thô mộc, nhăn tự nhiên, hơi sờn và chuyển động tự nhiên theo gió, với các biến thể phong phú của tông màu đỏ burgundy trầm, đỏ tươi và đỏ thẫm sâu thẳm.
+
+Cô có mái tóc đen dài, rối tự nhiên, bị gió mạnh thổi tạt sang một bên đầy kịch tính. Từng sợi tóc và lọn tóc xoăn buông lơi bay quanh khuôn mặt và bờ vai của cô. Biểu cảm của cô sắc sảo, nghiêm nghị và bí ẩn, với ánh nhìn điềm tĩnh nhưng đầy uy quyền hướng về phía máy ảnh. Kết cấu da tự nhiên chân thực, lỗ chân lông tinh tế, các chi tiết khuôn mặt sắc nét, khuyết điểm chân thực và ánh sáng khuôn mặt chuẩn điện ảnh.
+
+Con ngựa là một con ngựa lớn, dũng mãnh màu đen/nâu sẫm, nổi bật ở tiền cảnh. Đầu và thân trên của nó chiếm ưu thế ở phần dưới của khung hình, tạo ra chiều sâu và tỷ lệ ấn tượng. Con ngựa có bộ lông bóng mượt nhưng có kết cấu tự nhiên, bờm chi tiết, đôi mắt biểu cảm, dây cương và hàm thiếc bằng da chân thực, cùng những điểm nhấn sáng tinh tế trên gương mặt và chiếc cổ cơ bắp. Độ mờ chuyển động nhẹ ở bờm và vải gợi lên sự chuyển động.
+
+Người cưỡi cầm dây cương tự nhiên, giữ tư thế cưỡi ngựa đầy tự tin. Bộ váy đỏ đồ sộ rủ xuống quanh con ngựa và lấp đầy phần lớn khu vực phía dưới cũng như hai bên của bố cục, tương phản đầy ấn tượng với chú ngựa đen.
+
+Ánh sáng: ánh sáng ban ngày tự nhiên dịu nhẹ của trời u ám, ánh sáng điện ảnh khuếch tán, điểm sáng tinh tế trên gương mặt người phụ nữ và tấm vải đỏ, bóng đổ tự nhiên sâu thẳm, tông màu không khí trầm lắng.
+
+Bối cảnh: bầu trời xám nhạt/trắng ngà tối giản và môi trường trung tính mờ nhẹ, giữ trọn mọi sự chú ý vào người cưỡi, ngựa và tà váy đỏ bồng bềnh. Sự tách biệt rõ ràng giữa tiền cảnh và hậu cảnh.
+
+Phong cách nhiếp ảnh: nhiếp ảnh thời trang cao cấp biên tập, chiến dịch thời trang cao cấp tiên phong, chủ nghĩa hiện thực điện ảnh, chuyển động kịch tính, bố cục tinh tế, cơ học vải chân thực, gió tự nhiên, độ sâu trường ảnh nông, hạt phim tinh tế, dải tương phản động cao, kết cấu chân thực, chất ảnh máy ảnh full-frame chuyên nghiệp, tính thẩm mỹ của ống kính 85mm, chi tiết chủ thể sắc nét, chiều sâu khí quyển.
+
+Bảng màu: đỏ thẫm, đỏ burgundy, đen, than củi, xám trầm, với độ tương phản được tiết chế và tâm trạng lãng mạn đen tối đầy thanh lịch.
+
+Lời nhắc phủ định (Negative prompt): phim hoạt hình, anime, hình minh họa, giao diện CGI, da nhựa, trang điểm quá mức, khuôn mặt biến dạng, bàn tay biến dạng, thừa chi, ngựa dị tật, ngựa nhân đôi, giải phẫu phi thực tế, vải lơ lửng, màu sắc quá bão hòa, ánh sáng nhân tạo, độ phân giải thấp, khuôn mặt mờ, làm nét quá mức, văn bản, logo, hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -3079,20 +3097,116 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2100809690850664865"></a>
 
-### Đang dịch
+### Lời nhắc video gameplay chiến đấu xã hội đen chuẩn AAA siêu thực 30 giây, bao gồm HUD đầy đủ cùng diễn biến màn ẩu đả đường phố và trùm xuất hiện theo dòng thời gian.
 
 Tác giả：[@Inshrah\_ali\_](https://x.com/Inshrah_ali_) · [Bài gốc](https://x.com/Inshrah_ali_/status/2100809690850664865)
 
 Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video gameplay chiến đấu xã hội đen chuẩn AAA siêu thực 30 giây, bao gồm HUD đầy đủ cùng diễn biến màn ẩu đả đường phố và trùm xuất hiện theo dòng thời gian.
 
 <img src="covers/2100809690850664865.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một đoạn phim điện ảnh gameplay XÃ HỘI ĐEN thế giới mở siêu thực dài 30 giây với cảnh hai băng đảng đường phố đối địch giao tranh tại một thành phố hiện đại tăm tối vào ban đêm. Làm cho toàn bộ video mang lại cảm giác như một bản ghi gameplay AAA đang thịnh hành, như thể người chơi đang chủ động điều khiển nhân vật chính.
+
+MÀN HÌNH GAMEPLAY / HUD — RẤT QUAN TRỌNG:
+Thêm giao diện gameplay hiện đại, chỉn chu và nguyên bản, hiển thị một cách tự nhiên xuyên suốt video:
+
+Góc trên bên trái: ảnh chân dung nhân vật hình tròn nhỏ + THANH MÁU (HEALTH BAR) màu xanh lá và THANH THỂ LỰC (STAMINA BAR) màu xanh dương
+
+Góc trên bên phải: bảng MỤC TIÊU NHIỆM VỤ (MISSION OBJECTIVE) gọn gàng
+
+Góc dưới bên trái: BẢN ĐỒ THU NHỎ (MINIMAP) chi tiết, radar hình tròn, mũi tên người chơi, các chỉ báo kẻ thù, biểu tượng phương tiện gần đó và điểm đánh dấu mục tiêu
+
+Góc dưới bên phải: các biểu tượng nút hành động trong suốt cho các thao tác đấm, né, chạy nhanh, tương tác và ngồi xổm
+
+Chính giữa: tâm ngắm/chỉ báo ngắm bắn động kích thước nhỏ khi thích hợp
+
+Mục tiêu kẻ thù: dấu hình thoi màu đỏ phía trên các nhân vật thù địch
+
+Đồng đội: các chỉ báo màu xanh dương/xanh lá cây phía trên các nhân vật đồng minh
+
+Phản hồi chiến đấu: chỉ báo đánh trúng tinh tế, bộ đếm combo và thông báo XP/phần thưởng
+
+Thông báo nhiệm vụ: các tin nhắn bật lên bóng bẩy như “RIVAL GANG DETECTED”, “SURVIVE THE AMBUSH”, và “BOSS FIGHT INCOMING”
+
+Thêm các gợi ý nút bấm kiểu tay cầm điều khiển tinh tế khi người chơi tiếp cận đồ vật hoặc kẻ thù
+
+HUD phải bán trong suốt, mang phong cách tương lai và tối giản, hòa nhập tự nhiên vào khung cảnh thay vì che khuất hành động.
+
+Hoạt ảnh UI cần tạo cảm giác phản hồi nhanh: các biểu tượng nhấp nháy theo nhịp, mục tiêu cập nhật, máu giảm một cách chân thực, các dấu kẻ thù di chuyển theo nhân vật.
+
+Tạo giao diện nguyên bản và không phải là bản sao chép y hệt của bất kỳ UI game hiện có nào.
+
+0–5 GIÂY — RIVAL GANG DETECTED
+
+Camera góc nhìn thứ ba theo chân nhân vật chính đang đi bộ qua con phố rực rỡ ánh đèn neon.
+
+HUD:
+Minimap kích hoạt → vài dấu chỉ báo kẻ thù màu đỏ xuất hiện → bảng mục tiêu hiển thị:
+
+MISSION
+RIVAL GANG DETECTED
+
+Biểu tượng cảnh báo kẻ thù nhấp nháy nhanh.
+
+5–10 GIÂY — STREET FIGHT
+
+Một tên cướp đối địch tấn công. Nhân vật chính do người chơi điều khiển đỡ đòn, né tránh và phản công.
+
+Hiển thị các biểu tượng hành động ở góc dưới bên phải phản hồi theo chuyển động của người chơi. Các dấu kẻ thù màu đỏ xuất hiện phía trên đối thủ. Thêm chỉ báo nhỏ COMBO ×3 sau các chuỗi động tác thành công liên tiếp.
+
+10–15 GIÂY — CHAOS
+
+Cuộc ẩu đả lan rộng khắp đường phố. Các thành viên băng đảng chạy giữa những chiếc xe hơi và rào chắn.
+
+Minimap trở nên đông đúc với các chỉ báo di chuyển màu đỏ và xanh dương.
+
+OBJECTIVE UPDATED:
+SURVIVE THE AMBUSH
+
+Thêm hiệu ứng rung màn hình nhẹ và phản hồi sát thương khi nhân vật chính bị trúng đòn.
+
+15–20 GIÂY — SLOW-MOTION COUNTER
+
+Nhân vật chính bị bao vây. Gameplay đột ngột chuyển sang cảnh quay chậm kịch tính.
+
+Lời nhắc DODGE xuất hiện gần các nút điều khiển ở góc dưới bên phải. Anh ta né một đòn tấn công đang lao tới và thực hiện một pha phản công.
+
+HUD mượt mà trở lại tốc độ bình thường.
+
+20–26 GIÂY — GANG WAR
+
+Cả hai băng đảng lao vào nhau.
+
+Nhân vật chính chạy qua chiến trường trong khi các đồng đội chiến đấu bên cạnh anh ta.
+
+OBJECTIVE:
+DEFEAT THE RIVAL GANG
+
+Hiển thị các dấu kẻ thù động, chỉ báo đồng đội, chuyển động trên minimap, sự tiêu hao thể lực khi chạy nhanh và phản hồi chiến đấu chân thực.
+
+26–30 GIÂY — BOSS FIGHT
+
+Một chiếc SUV màu đen xuất hiện. Thủ lĩnh băng đảng đối thủ bước ra.
+
+Tất cả các chỉ báo kẻ thù hội tụ xung quanh hắn.
+
+Một THANH MÁU TRÙM (BOSS HEALTH BAR) đầy kịch tính xuất hiện trên đầu ở vị trí chính giữa:
+
+RIVAL GANG LEADER
+████████████████████
+
+Sau đó, một thông báo gameplay lớn nguyên bản xuất hiện:
+
+⚠ BOSS FIGHT INCOMING
+
+Nhân vật chính giơ nắm đấm lên. Camera di chuyển ra phía sau anh ta vào vị trí gameplay góc nhìn thứ ba kinh điển.
+
+CHUYỂN SANG MÀN HÌNH ĐEN.
 ```
 
 [↑ Về danh mục](#catalog)

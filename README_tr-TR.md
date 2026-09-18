@@ -67,20 +67,38 @@ Parlak turuncu bir arazi SUV'sinin tavan bagajında rahat bir şekilde oturan ge
 
 <a name="prompt-2100819610987811160"></a>
 
-### Çeviri sürüyor
+### Kapalı gün ışığı altında, rüzgarlı bir ortamda siyah bir ata binen, abartılı kızıl couture elbiseli bir kadının ultra fotogerçekçi moda editoryal portresi.
 
 Yazar：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https://x.com/Tanvir48992/status/2100819610987811160)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kapalı gün ışığı altında, rüzgarlı bir ortamda siyah bir ata binen, abartılı kızıl couture elbiseli bir kadının ultra fotogerçekçi moda editoryal portresi.
 
 <img src="images/2100819610987811160-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Güçlü siyah bir ata binen zarif bir yetişkin kadının, dramatik ve rüzgarlı bir açık hava ortamında çekilmiş ultra fotogerçekçi sinematik moda editoryal portresi. Kompozisyon dikey ve dinamik olup, hafifçe aşağıdan karşı açıdan çekilmiştir; bu da atı ve binicisini güçlü ve heybetli hissettirir.
+
+Kadın, karenin üst-orta kısmında, atın üzerinde kendinden emin bir şekilde oturmaktadır. Yoğun dokulu, dökümlü kumaştan yapılmış abartılı, koyu kızıl-kırmızı bir couture elbise giymektedir. Elbise, atın etrafına dramatik bir şekilde yayılan ve heykelsi bir silüet oluşturan devasa hacimli katmanlara sahiptir. Kumaş ham, kırışık, hafif yıpranmış ve rüzgarla doğal olarak hareket eden bir görünümdedir; koyu bordo, kızıl ve koyu kırmızı tonların zengin varyasyonlarını barındırır.
+
+Güçlü rüzgarla dramatik bir şekilde yana savrulan uzun, doğal olarak dağınık siyah saçları vardır. Yüzünün ve omuzlarının etrafında uçuşan tek tek saç telleri ve gevşek bukleler görünmektedir. İfadesi yoğun, ciddi ve gizemlidir; kameraya yöneltilmiş sakin fakat buyurgan bir bakışı vardır. Doğal gerçekçi cilt dokusu, ince gözenekler, narin yüz detayları, otantik kusurlar ve sinematik yüz aydınlatması mevcuttur.
+
+At, ön planda belirgin bir şekilde konumlanmış, iri ve güçlü siyah/koyu kahverengi bir attır. Başı ve vücudunun üst kısmı karenin alt bölümüne hakim olarak güçlü bir derinlik ve ölçek yaratır. At, parlak ancak doğal dokulu bir kürke, detaylı bir yeleye, etkileyici gözlere, gerçekçi deri başlık ve dizginlere, kaslı yüzü ve boynunda zarif parıltılara sahiptir. Yelede ve kumaştaki hafif hareket bulanıklığı hareketi hissettirir.
+
+Binici, dizginleri doğal bir şekilde tutarak kendinden emin bir binicilik duruşunu korur. Devasa kırmızı elbise atın etrafından aşağıya doğru süzülür ve kompozisyonun alt ve yan alanlarının çoğunu doldurarak karanlık atla dramatik bir tezat oluşturur.
+
+Aydınlatma: yumuşak kapalı hava doğal gün ışığı, difüze sinematik aydınlatma, kadının yüzünde ve kırmızı kumaşta zarif parıltılar, derin doğal gölgeler, sönük atmosferik tonlar.
+
+Arka plan: minimal soluk gri/kirli beyaz gökyüzü ve hafifçe bulanıklaştırılmış nötr ortam, tüm dikkati biniciye, ata ve dalgalanan kırmızı couture elbiseye çeker. Ön plan ile arka plan arasında güçlü bir ayrım vardır.
+
+Fotoğraf tarzı: yüksek moda editoryal fotoğrafçılığı, avangart couture kampanyası, sinematik gerçekçilik, dramatik hareket, sofistike kompozisyon, gerçekçi kumaş fiziği, doğal rüzgar, sığ alan derinliği, ince film greni, yüksek dinamik aralık, gerçekçi dokular, profesyonel tam kare kamera görünümü, 85mm lens estetiği, keskin özne detayları, atmosferik derinlik.
+
+Renk paleti: koyu kızıl, bordo, siyah, antrasit, sönük gri, dengeli bir kontrast ve zarif, karanlık-romantik bir hava.
+
+Negatif prompt: çizgi film, anime, illüstrasyon, CGI görünümü, plastik cilt, aşırı makyaj, bozuk yüz, deforme olmuş eller, fazla uzuvlar, şekilsiz at, kopya at, gerçekçi olmayan anatomi, havada duran kumaş, aşırı doygun renkler, yapay aydınlatma, düşük çözünürlük, bulanık yüz, aşırı keskinleştirme, metin, logo, filigran.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -3052,20 +3070,116 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2100809690850664865"></a>
 
-### Çeviri sürüyor
+### Eksiksiz HUD ile zaman çizelgesine göre sokak dövüşünü ve Baş Düşman gelişini içeren 30 saniyelik ultra gerçekçi AAA gangster oynanış videosu istemi.
 
 Yazar：[@Inshrah\_ali\_](https://x.com/Inshrah_ali_) · [Orijinal gönderi](https://x.com/Inshrah_ali_/status/2100809690850664865)
 
 Sinematik / Film Karesi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Eksiksiz HUD ile zaman çizelgesine göre sokak dövüşünü ve Baş Düşman gelişini içeren 30 saniyelik ultra gerçekçi AAA gangster oynanış videosu istemi.
 
 <img src="covers/2100809690850664865.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Geceleri tekinsiz ve karanlık modern bir şehirde savaşan iki rakip sokak çetesini konu alan, 30 saniyelik ultra gerçekçi açık dünya GANGSTER oynanış sinematiği oluşturun. Tüm videoyu, sanki bir oyuncu ana karakteri aktif olarak kontrol ediyormuş gibi, trend olan bir AAA oynanış kaydı hissi verecek şekilde hazırlayın.
+
+OYNANIŞ EKRANI / HUD — ÇOK ÖNEMLİ:
+Video boyunca doğal olarak görünür kalan, özenle tasarlanmış, orijinal ve modern bir oynanış arayüzü ekleyin:
+
+Sol üst: küçük dairesel karakter portresi + yeşil SAĞLIK ÇUBUĞU ve mavi DAYANIKLILIK ÇUBUĞU
+
+Sağ üst: kompakt GÖREV HEDEFİ paneli
+
+Sol alt: ayrıntılı MİNİ HARİTA, dairesel radar, oyuncu oku, düşman göstergeleri, yakındaki araç simgeleri ve hedef işareti
+
+Sağ alt: yumruk, kaçınma, depar atma, etkileşim ve çömelme için şeffaf eylem düğmesi simgeleri
+
+Orta: uygun olduğunda küçük dinamik nişangah/hedef göstergesi
+
+Düşman hedefleri: düşman karakterlerin üzerinde kırmızı elmas işaretleri
+
+Takım arkadaşları: dost karakterlerin üzerinde mavi/yeşil göstergeler
+
+Çatışma geri bildirimi: hafif vuruş göstergesi, kombo sayacı ve TP/ödül bildirimi
+
+Görev bildirimleri: “RIVAL GANG DETECTED”, “SURVIVE THE AMBUSH” ve “BOSS FIGHT INCOMING” gibi şık açılır mesajlar
+
+Oyuncu nesnelere veya düşmanlara yaklaştığında hafif kontrolcü tarzı düğme komutları ekleyin
+
+HUD yarı saydam, fütüristik ve minimalist olmalı; aksiyonu kapatmak yerine sahneye doğal bir şekilde entegre edilmelidir.
+
+Kullanıcı arayüzü animasyonları duyarlı hissettirmelidir: simgeler yanıp söner, hedefler güncellenir, sağlık gerçekçi şekilde azalır, düşman işaretleri karakterlerle birlikte hareket eder.
+
+Arayüzü orijinal yapın ve mevcut herhangi bir oyun arayüzünün birebir kopyası olmamasını sağlayın.
+
+0–5 SANİYE — RIVAL GANG DETECTED
+
+Üçüncü şahıs kamerası, neon ışıklı bir şehir sokağında yürüyen ana karakteri takip eder.
+
+HUD:
+Mini harita aktifleşir → birkaç kırmızı düşman işareti görünür → hedef paneli şunu gösterir:
+
+MISSION
+RIVAL GANG DETECTED
+
+Kısa bir süre bir düşman uyarı simgesi yanıp söner.
+
+5–10 SANİYE — STREET FIGHT
+
+Rakip bir gangster saldırır. Oyuncunun kontrol ettiği ana karakter bloklar, kaçınır ve karşı saldırı yapar.
+
+Sağ alttaki eylem simgelerinin oyuncunun hareketlerine tepki verdiğini gösterin. Rakiplerin üzerinde kırmızı düşman işaretleri belirir. Art arda gelen başarılı hamlelerin ardından küçük bir COMBO ×3 göstergesi ekleyin.
+
+10–15 SANİYE — CHAOS
+
+Kavga sokağa yayılır. Çete üyeleri arabaların ve barikatların arasında koşar.
+
+Mini harita hareket eden kırmızı ve mavi göstergelerle dolar.
+
+OBJECTIVE UPDATED:
+SURVIVE THE AMBUSH
+
+Ana karakter darbe aldığında hafif ekran sarsıntısı ve hasar geri bildirimi ekleyin.
+
+15–20 SANİYE — SLOW-MOTION COUNTER
+
+Ana karakterin etrafı sarılır. Oynanış aniden dramatik bir ağır çekime geçer.
+
+Sağ alttaki kontrollerin yakınında bir DODGE komutu belirir. Gelen saldırıdan sıyrılır ve bir karşı saldırı gerçekleştirir.
+
+HUD sorunsuz bir şekilde normal hıza geri döner.
+
+20–26 SANİYE — GANG WAR
+
+Her iki çete de birbirine doğru hücum eder.
+
+Takım arkadaşları yanında savaşırken ana karakter savaş alanında koşar.
+
+OBJECTIVE:
+DEFEAT THE RIVAL GANG
+
+Dinamik düşman işaretlerini, takım arkadaşı göstergelerini, mini harita hareketini, depar atarken dayanıklılık tükenmesini ve gerçekçi çatışma geri bildirimini gösterin.
+
+26–30 SANİYE — BOSS FIGHT
+
+Siyah bir SUV gelir. Rakip çete lideri dışarı çıkar.
+
+Tüm düşman göstergeleri onun etrafında toplanır.
+
+Üst-orta kısımda dramatik bir BOSS SAĞLIK ÇUBUĞU belirir:
+
+RIVAL GANG LEADER
+████████████████████
+
+Ardından büyük ve özgün bir oynanış bildirimi görünür:
+
+⚠ BOSS FIGHT INCOMING
+
+Ana karakter yumruklarını kaldırır. Kamera, onun arkasına geçerek klasik bir üçüncü şahıs oynanış pozisyonuna yerleşir.
+
+KARARTMA.
 ```
 
 [↑ Kategorilere dön](#catalog)

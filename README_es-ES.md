@@ -72,20 +72,38 @@ Usa la foto subida como referencia de identidad facial para una mujer adulta. Co
 
 <a name="prompt-2100819610987811160"></a>
 
-### Traducción en curso
+### Retrato editorial de moda ultrafotorrealista de una mujer con un extravagante vestido de alta costura carmesí montando un caballo negro en un entorno azotado por el viento bajo luz diurna nublada.
 
 Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Publicación original](https://x.com/Tanvir48992/status/2100819610987811160)
 
 Fotografía · Retrato / Selfie · Personaje · Artículo de moda · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato editorial de moda ultrafotorrealista de una mujer con un extravagante vestido de alta costura carmesí montando un caballo negro en un entorno azotado por el viento bajo luz diurna nublada.
 
 <img src="images/2100819610987811160-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato editorial de moda cinematográfico ultrafotorrealista de una elegante mujer adulta montando un poderoso caballo negro, capturado en un entorno exterior dramático y azotado por el viento. La composición es vertical y dinámica, fotografiada desde un ángulo frontal ligeramente bajo, lo que hace que el caballo y la amazona se sientan imponentes y poderosos.
+
+La mujer está ubicada en la parte central superior del encuadre, sentada con seguridad sobre el caballo. Viste un extravagante vestido de alta costura en color rojo carmesí profundo, confeccionado con un tejido fluido y de textura densa. El vestido tiene capas voluminosas enormes que se extienden dramáticamente alrededor del caballo, creando una silueta escultural. La tela parece rústica, arrugada, ligeramente desgastada y moviéndose de forma natural con el viento, con ricas variaciones de tonos borgoña oscuro, escarlata y rojo intenso.
+
+Tiene el pelo largo, negro y naturalmente despeinado, ondeando dramáticamente hacia un lado por el fuerte viento. Se aprecian mechones individuales y rizos sueltos volando alrededor de su rostro y hombros. Su expresión es intensa, seria y misteriosa, con una mirada tranquila pero imponente dirigida hacia la cámara. Textura de piel natural y realista, poros sutiles, detalles faciales delicados, imperfecciones auténticas e iluminación facial cinematográfica.
+
+El caballo es un ejemplar grande y poderoso de color negro/marrón oscuro, situado de manera prominente en primer plano. Su cabeza y parte superior del cuerpo dominan la parte inferior del encuadre, creando una fuerte profundidad y escala. El caballo tiene un pelaje brillante pero de textura natural, crin detallada, ojos expresivos, brida y riendas de cuero realistas, y sutiles reflejos en su rostro y cuello musculosos. Un ligero desenfoque de movimiento en la crin y la tela sugiere movimiento.
+
+La amazona sostiene las riendas con naturalidad, manteniendo una postura ecuestre segura. El enorme vestido rojo cae en cascada alrededor del caballo y llena gran parte de las áreas inferiores y laterales de la composición, contrastando dramáticamente contra el caballo oscuro.
+
+Iluminación: luz diurna natural suave y nublada, iluminación cinematográfica difusa, reflejos sutiles en el rostro de la mujer y en la tela roja, sombras naturales profundas, tonos atmosféricos apagados.
+
+Fondo: cielo minimalista gris pálido/blanco roto y entorno neutro suavemente desenfocado, manteniendo toda la atención en la amazona, el caballo y la alta costura roja flotante. Fuerte separación entre el primer plano y el fondo.
+
+Estilo de fotografía: fotografía editorial de alta costura, campaña de costura vanguardista, realismo cinematográfico, movimiento dramático, composición sofisticada, física de telas realista, viento natural, baja profundidad de campo, grano de película sutil, alto rango dinámico, texturas realistas, aspecto de cámara full-frame profesional, estética de lente de 85 mm, detalles nítidos del sujeto, profundidad atmosférica.
+
+Paleta de colores: carmesí profundo, borgoña, negro, carbón, gris apagado, con un contraste contenido y un ambiente oscuro-romántico elegante.
+
+Prompt negativo: dibujo animado, anime, ilustración, aspecto CGI, piel de plástico, maquillaje excesivo, rostro distorsionado, manos deformes, extremidades adicionales, caballo malformado, caballo duplicado, anatomía poco realista, tela flotante, colores sobresaturados, iluminación artificial, baja resolución, rostro borroso, nitidez excesiva, texto, logotipo, marca de agua.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -3079,20 +3097,116 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2100809690850664865"></a>
 
-### Traducción en curso
+### Prompt para video cinemático de combate de gángsters AAA ultrarrealista de 30 segundos, que incluye HUD completo y el desarrollo cronológico de una pelea callejera y la aparición del jefe.
 
 Autor：[@Inshrah\_ali\_](https://x.com/Inshrah_ali_) · [Publicación original](https://x.com/Inshrah_ali_/status/2100809690850664865)
 
 Cine / Fotograma de película · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para video cinemático de combate de gángsters AAA ultrarrealista de 30 segundos, que incluye HUD completo y el desarrollo cronológico de una pelea callejera y la aparición del jefe.
 
 <img src="covers/2100809690850664865.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una cinemática de gameplay de GÁNGSTERS en mundo abierto ultrarrealista de 30 segundos que muestre a dos bandas callejeras rivales luchando en una ciudad moderna y sórdida por la noche. Haz que todo el video se sienta como una grabación de gameplay de juego AAA en tendencia, como si un jugador estuviera controlando activamente al personaje principal.
+
+PANTALLA DE JUEGO / HUD — MUY IMPORTANTE:
+Añade una interfaz de gameplay moderna, pulida y original que permanezca visible de forma natural a lo largo de todo el video:
+
+Arriba a la izquierda: pequeño retrato circular del personaje + BARRA DE SALUD (HEALTH BAR) verde y BARRA DE RESISTENCIA (STAMINA BAR) azul
+
+Arriba a la derecha: panel compacto de OBJETIVO DE MISIÓN (MISSION OBJECTIVE)
+
+Abajo a la izquierda: MINIMAPA (MINIMAP) detallado, radar circular, flecha del jugador, indicadores de enemigos, íconos de vehículos cercanos y marcador de objetivo
+
+Abajo a la derecha: íconos de botones de acción transparentes para golpear, esquivar, esprintar, interactuar y agacharse
+
+Centro: retícula/indicador de puntería dinámico y pequeño cuando sea apropiado
+
+Objetivos enemigos: marcadores de rombo rojo sobre los personajes hostiles
+
+Compañeros de equipo: indicadores azules/verdes sobre los personajes aliados
+
+Retroalimentación de combate: indicador sutil de impacto, contador de combos y notificación de XP/recompensa
+
+Notificaciones de misión: elegantes mensajes emergentes como “RIVAL GANG DETECTED”, “SURVIVE THE AMBUSH”, y “BOSS FIGHT INCOMING”
+
+Añade avisos sutiles de botones estilo mando cuando el jugador se acerque a objetos o enemigos
+
+El HUD debe ser semitransparente, futurista y minimalista, integrado de forma natural en la escena en lugar de tapar la acción.
+
+Las animaciones de la interfaz deben sentirse reactivas: los íconos pulsan, los objetivos se actualizan, la salud disminuye de forma realista, los marcadores de enemigos se mueven con los personajes.
+
+Haz que la interfaz sea original y no una recreación exacta de la interfaz de ningún juego existente.
+
+0–5 SEG — RIVAL GANG DETECTED
+
+La cámara en tercera persona sigue al protagonista caminando por una calle de la ciudad iluminada con luces de neón.
+
+HUD:
+El minimapa se activa → aparecen varios marcadores rojos de enemigos → el panel de objetivos muestra:
+
+MISSION
+RIVAL GANG DETECTED
+
+Un ícono de advertencia de enemigo parpadea brevemente.
+
+5–10 SEG — STREET FIGHT
+
+Un gángster rival ataca. El protagonista controlado por el jugador bloquea, esquiva y contraataca.
+
+Muestra los íconos de acción inferiores derechos respondiendo a los movimientos del jugador. Aparecen marcadores rojos de enemigo sobre los oponentes. Añade un pequeño indicador de COMBO ×3 tras movimientos consecutivos exitosos.
+
+10–15 SEG — CHAOS
+
+La pelea se extiende por la calle. Miembros de las bandas corren entre coches y barreras.
+
+El minimapa se satura con indicadores rojos y azules en movimiento.
+
+OBJECTIVE UPDATED:
+SURVIVE THE AMBUSH
+
+Añade una sutil sacudida de pantalla y retroalimentación de daño cuando el protagonista recibe un golpe.
+
+15–20 SEG — SLOW-MOTION COUNTER
+
+El protagonista queda rodeado. El juego entra repentinamente en una dramática cámara lenta.
+
+Aparece un aviso de DODGE cerca de los controles inferiores derechos. Esquiva un ataque entrante y realiza un contraataque.
+
+El HUD regresa suavemente a la velocidad normal.
+
+20–26 SEG — GANG WAR
+
+Ambas bandas cargan una contra la otra.
+
+El protagonista corre por el campo de batalla mientras sus compañeros luchan junto a él.
+
+OBJECTIVE:
+DEFEAT THE RIVAL GANG
+
+Muestra marcadores de enemigos dinámicos, indicadores de compañeros de equipo, movimiento en el minimapa, agotamiento de resistencia al esprintar y retroalimentación de combate realista.
+
+26–30 SEG — BOSS FIGHT
+
+Llega un SUV negro. El líder de la banda rival baja del vehículo.
+
+Todos los indicadores de enemigos convergen a su alrededor.
+
+Aparece una dramática BARRA DE SALUD DE JEFE (BOSS HEALTH BAR) en la parte superior central:
+
+RIVAL GANG LEADER
+████████████████████
+
+Luego aparece una gran notificación original del juego:
+
+⚠ BOSS FIGHT INCOMING
+
+El protagonista levanta los puños. La cámara se sitúa detrás de él en una clásica posición de juego en tercera persona.
+
+CORTE A NEGRO.
 ```
 
 [↑ Volver a categorías](#catalog)
