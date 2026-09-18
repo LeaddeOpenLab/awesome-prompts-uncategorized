@@ -6456,20 +6456,20 @@ Produkt · Veröffentlicht
 
 <a name="prompt-2100557439556849968"></a>
 
-### Übersetzung läuft
+### Anweisung: Charakter spannt Muskeln an, schreit und verwandelt sich auf allen vieren
 
 Autor：[@mikeb5222094828](https://x.com/mikeb5222094828) · [Originalbeitrag](https://x.com/mikeb5222094828/status/2100557439556849968)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anweisung: Charakter spannt Muskeln an, schreit und verwandelt sich auf allen vieren
 
 <img src="covers/2100557439556849968.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Lass ihn die Muskeln anspannen und wiehernd schreien, während er auf alle viere geht, Hufe entstehen und ein Schwanz aus seinen Shorts hervorspringt, während er auf allen vieren ist
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -6478,20 +6478,165 @@ Charakter · Veröffentlicht
 
 <a name="prompt-2100716874048971156"></a>
 
-### Übersetzung läuft
+### Master-Prompt zur Generierung eines Character Sheets, das zeigt, wie sich ein fotoreferenziertes Motorrad über progressive Stufen logisch in einen humanoiden Heldenroboter verwandelt.
 
 Autor：[@er1029iu](https://x.com/er1029iu) · [Originalbeitrag](https://x.com/er1029iu/status/2100716874048971156)
 
 Charakter · Fahrzeug · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Master-Prompt zur Generierung eines Character Sheets, das zeigt, wie sich ein fotoreferenziertes Motorrad über progressive Stufen logisch in einen humanoiden Heldenroboter verwandelt.
 
 <img src="covers/2100716874048971156.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+UNIVERSAL-MOTORRAD → HELDENROBOTER
+TRANSFORMATIONS-CHARACTER-SHEET-MASTER-PROMPT
+
+Analysieren Sie das bereitgestellte Motorradfoto sorgfältig und verwenden Sie das Motorrad selbst als absolute visuelle Referenz.
+
+Gehen Sie nicht im Voraus von einem bestimmten Motorradmodell, einer Farbpalette, einem Karosseriestil oder einer mechanischen Konfiguration aus.
+
+Analysieren Sie ZUERST visuell das tatsächliche Motorrad, das auf dem hochgeladenen Foto zu sehen ist.
+
+Identifizieren und bewahren Sie automatisch seine wiedererkennbarsten visuellen Merkmale, einschließlich:
+
+Motorradtyp und Gesamtsilhouette,
+Karosserieproportionen,
+Primär- und Sekundärfarben,
+lackierte Karosserieteile,
+Vorder- und Hinterräder,
+Radgröße und -dicke,
+Reifen,
+Felgen,
+Vordergabel,
+Hinterradaufhängung,
+Motor- oder Antriebskomponenten,
+Auspuffanlage,
+Rahmen,
+Kraftstofftank oder zentrale Karosseriestruktur,
+Sitzform und -material,
+Lenker,
+Spiegel,
+Scheinwerfer,
+Rücklicht,
+Blinker,
+vordere und hintere Schutzbleche,
+Transportbox oder Gepäckausrüstung, falls vorhanden,
+Windschutzscheibe, falls vorhanden,
+Trittbrett oder Fußrasten,
+freiliegende Kabel,
+mechanische Gelenke,
+Platzierung von Abziehbildern und Grafiken,
+Oberflächenkratzer,
+Lackabnutzung,
+Staub,
+gealterte Materialien,
+und andere markante physische Details, die in der Referenz sichtbar sind.
+
+Der endgültige Roboter muss die visuelle DNA DIESES EXAKTEN MOTORRADS eindeutig beibehalten.
+
+Ein Betrachter sollte sofort denken:
+
+„Dieser Roboter hat sich aus diesem Motorrad transformiert.“
+
+==================================================
+CHARACTER-SHEET-KONZEPT
+==================================================
+
+Erstellen Sie ein filmisches Transformations-Character-Sheet, das zeigt, wie sich EIN Motorrad schrittweise in EINEN humanoiden Heldenroboter verwandelt.
+
+Zeigen Sie die Transformation als klare physische Progression:
+
+STUFE 1:
+Original-Motorrad.
+
+Das Motorrad bleibt fast vollständig unverändert und eindeutig wiedererkennbar.
+
+STUFE 2:
+Frühe mechanische Aktivierung.
+
+Kleine Karosserieteile trennen sich leicht.
+
+Mechanische Verriegelungen lösen sich.
+
+Aufhängungskomponenten verschieben sich.
+
+Interne mechanische Strukturen werden sichtbar.
+
+Das Motorrad muss weiterhin zu etwa 80–90 % wiedererkennbar bleiben.
+
+STUFE 3:
+Zwischentransformation.
+
+Die Räder positionieren sich natürlich um.
+
+Das Fahrgestell beginnt sich auszudehnen.
+
+Bestehende Motorradkomponenten rotieren, entfalten sich, gleiten und verbinden sich neu.
+
+Die Ansätze von humanoiden Beinen, Torso und Armen werden sichtbar.
+
+Das Motorrad bleibt zu etwa 50–70 % wiedererkennbar.
+
+STUFE 4:
+Fortgeschrittene Transformation.
+
+Die ursprünglichen Motorradkarosserieteile werden zur Rüstung.
+
+Räder integrieren sich natürlich in die Anatomie des Roboters.
+
+Der Auspuff wird zu einer erkennbaren mechanischen Rüstungskomponente.
+
+Lenker, Spiegel, Lichter, Aufhängung, Rahmen, Sitz, Gepäckausrüstung und andere sichtbare Motorradkomponenten werden logisch über den Roboter umverteilt.
+
+Die humanoide Silhouette wird dominant.
+
+STUFE 5:
+VOLLSTÄNDIGER HELDENROBOTER.
+
+Ein großartiger mechanischer Ganzkörper-Held, der vollständig aus der visuellen Identität des Original-Motorrads erschaffen wurde.
+
+==================================================
+TRANSFORMATIONSPHYSIK
+==================================================
+
+Die Transformation muss mechanisch glaubwürdig wirken.
+
+Jede wichtige Motorradkomponente sollte eine logische Bestimmung am endgültigen Roboter haben.
+
+Teile rotieren um realistische Scharniere.
+
+Paneele gleiten entlang mechanischer Schienen.
+
+Rahmen erweitern sich durch Teleskopstrukturen.
+
+Aufhängungskomponenten werden zu funktionalen mechanischen Gelenken.
+
+Bestehende Motorradkomponenten werden zur Rüstung, anstatt zu verschwinden.
+
+Räder bleiben physisch erkennbar.
+
+Der Auspuff bleibt erkennbar.
+
+Die original lackierten Paneele bleiben erkennbar.
+
+Markantes Motorradzubehör bleibt erkennbar, wann immer dies physisch möglich ist.
+
+KEIN augenblickliches Morphen.
+
+KEINE Flüssigmetall-Transformation.
+
+KEIN magischer Austausch.
+
+KEINE willkürlich teleportierenden Teile.
+
+KEIN unerklärliches Verschwinden wichtiger Motorradkomponenten.
+
+KEIN generischer Roboter, der das Motorrad ersetzt.
+
+Die Transformation sollte sich langsam, schwer, überlegt und physisch verbunden anfühlen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

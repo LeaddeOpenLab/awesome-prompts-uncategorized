@@ -6456,20 +6456,20 @@ Traduzione in corso
 
 <a name="prompt-2100557439556849968"></a>
 
-### Traduzione in corso
+### Istruzione per far mostrare i muscoli al personaggio, ragliare e trasformarsi mettendosi a quattro zampe
 
 Autore：[@mikeb5222094828](https://x.com/mikeb5222094828) · [Post originale](https://x.com/mikeb5222094828/status/2100557439556849968)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Istruzione per far mostrare i muscoli al personaggio, ragliare e trasformarsi mettendosi a quattro zampe
 
 <img src="covers/2100557439556849968.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Fagli flettere i muscoli e ragliare mentre si mette a quattro zampe, formandosi gli zoccoli e con una coda che spunta dai suoi pantaloncini mentre è a quattro zampe
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -6478,20 +6478,165 @@ Traduzione in corso
 
 <a name="prompt-2100716874048971156"></a>
 
-### Traduzione in corso
+### Master prompt per generare un character sheet che mostra una moto con riferimento fotografico che si trasforma logicamente in un robot eroe umanoide attraverso fasi progressive.
 
 Autore：[@er1029iu](https://x.com/er1029iu) · [Post originale](https://x.com/er1029iu/status/2100716874048971156)
 
 Personaggio · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Master prompt per generare un character sheet che mostra una moto con riferimento fotografico che si trasforma logicamente in un robot eroe umanoide attraverso fasi progressive.
 
 <img src="covers/2100716874048971156.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+MOTO UNIVERSALE → ROBOT EROE
+MASTER PROMPT PER CHARACTER SHEET DI TRASFORMAZIONE
+
+Analizza attentamente la fotografia della moto fornita e usa la moto stessa come riferimento visivo assoluto.
+
+Non dare per scontato in anticipo un modello di moto, una tavolozza di colori, uno stile di carrozzeria o una configurazione meccanica.
+
+PER PRIMA COSA, analizza visivamente la moto reale mostrata nella fotografia caricata.
+
+Identifica e preserva automaticamente le sue caratteristiche visive più riconoscibili, tra cui:
+
+tipo di moto e silhouette complessiva,
+proporzioni della carrozzeria,
+colori primari e secondari,
+pannelli della carrozzeria verniciati,
+ruote anteriori e posteriori,
+dimensioni e spessore delle ruote,
+pneumatici,
+cerchioni,
+forcella anteriore,
+sospensione posteriore,
+componenti del motore o del propulsore,
+sistema di scarico,
+telaio,
+serbatoio del carburante o struttura centrale della carrozzeria,
+forma e materiale della sella,
+manubrio,
+specchietti,
+fanale anteriore,
+luce posteriore,
+indicatori di direzione,
+parafanghi anteriore e posteriore,
+baulletto o attrezzatura per bagagli, se presente,
+parabrezza, se presente,
+pedana o pedane poggiapiedi,
+cavi a vista,
+giunti meccanici,
+posizionamento di decalcomanie e grafiche,
+graffi superficiali,
+usura della vernice,
+polvere,
+materiali invecchiati,
+e altri dettagli fisici distintivi visibili nel riferimento.
+
+Il robot finale deve chiaramente conservare il DNA visivo di QUESTA ESATTA MOTO.
+
+Un osservatore dovrebbe pensare immediatamente:
+
+"Quel robot è nato dalla trasformazione di quella moto".
+
+==================================================
+CONCETTO DEL CHARACTER SHEET
+==================================================
+
+Crea un character sheet cinematico di trasformazione che mostri UNA moto che si trasforma gradualmente in UN robot eroe umanoide.
+
+Mostra la trasformazione come una chiara progressione fisica:
+
+FASE 1:
+Moto originale.
+
+La moto rimane quasi completamente invariata e chiaramente riconoscibile.
+
+FASE 2:
+Attivazione meccanica iniziale.
+
+Piccoli pannelli della carrozzeria si separano leggermente.
+
+I blocchi meccanici si rilasciano.
+
+I componenti della sospensione si spostano.
+
+Le strutture meccaniche interne diventano visibili.
+
+La moto deve comunque rimanere riconoscibile all'incirca per l'80–90%.
+
+FASE 3:
+Trasformazione intermedia.
+
+Le ruote si riposizionano naturalmente.
+
+Il telaio inizia a estendersi.
+
+I componenti esistenti della moto ruotano, si aprono, scorrono e si riconnettono.
+
+Diventano visibili gli inizi di gambe, busto e braccia umanoidi.
+
+La moto rimane riconoscibile all'incirca per il 50–70%.
+
+FASE 4:
+Trasformazione avanzata.
+
+I pannelli originali della carrozzeria della moto diventano armatura.
+
+Le ruote si integrano naturalmente nell'anatomia del robot.
+
+Lo scarico diventa un componente di armatura meccanica riconoscibile.
+
+Manubrio, specchietti, luci, sospensioni, telaio, sella, equipaggiamento per bagagli e altri componenti visibili della moto vengono ridistribuiti logicamente su tutto il robot.
+
+La silhouette umanoide diventa dominante.
+
+FASE 5:
+ROBOT EROE COMPLETO.
+
+Un magnifico eroe meccanico a figura intera creato interamente dall'identità visiva della moto originale.
+
+==================================================
+FISICA DELLA TRASFORMAZIONE
+==================================================
+
+La trasformazione deve apparire meccanicamente credibile.
+
+Ogni componente principale della moto dovrebbe avere una destinazione logica sul robot finale.
+
+Le parti ruotano attorno a cerniere realistiche.
+
+I pannelli scorrono lungo guide meccaniche.
+
+I telai si estendono attraverso strutture telescopiche.
+
+I componenti delle sospensioni diventano giunti meccanici funzionali.
+
+I componenti esistenti della moto diventano armatura anziché scomparire.
+
+Le ruote rimangono fisicamente riconoscibili.
+
+Lo scarico rimane riconoscibile.
+
+I pannelli verniciati originali rimangono riconoscibili.
+
+Gli accessori distintivi della moto rimangono riconoscibili ogni volta che sia fisicamente possibile.
+
+NESSUN morphing istantaneo.
+
+NESSUNA trasformazione in metallo liquido.
+
+NESSUNA sostituzione magica.
+
+NESSUNA parte che si teletrasporta a caso.
+
+NESSUNA scomparsa inspiegabile dei componenti principali della moto.
+
+NESSUN robot generico che sostituisce la moto.
+
+La trasformazione deve sembrare lenta, pesante, deliberata e fisicamente connessa.
 ```
 
 [↑ Torna alle categorie](#catalog)

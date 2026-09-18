@@ -6456,20 +6456,20 @@ Traducción en curso
 
 <a name="prompt-2100557439556849968"></a>
 
-### Traducción en curso
+### Instrucción para que el personaje presuma músculos, rebuzne y se ponga a cuatro patas transformándose
 
 Autor：[@mikeb5222094828](https://x.com/mikeb5222094828) · [Publicación original](https://x.com/mikeb5222094828/status/2100557439556849968)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Instrucción para que el personaje presuma músculos, rebuzne y se ponga a cuatro patas transformándose
 
 <img src="covers/2100557439556849968.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Haz que flexione los músculos y rebuzne mientras se pone a cuatro patas, formándose pezuñas y saliendo una cola de sus shorts a medida que se coloca a cuatro patas
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -6478,20 +6478,165 @@ Traducción en curso
 
 <a name="prompt-2100716874048971156"></a>
 
-### Traducción en curso
+### Prompt maestro para generar una hoja de personaje que muestra una motocicleta referenciada por foto transformándose lógicamente en un robot héroe humanoide a través de etapas progresivas.
 
 Autor：[@er1029iu](https://x.com/er1029iu) · [Publicación original](https://x.com/er1029iu/status/2100716874048971156)
 
 Personaje · Vehículo · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt maestro para generar una hoja de personaje que muestra una motocicleta referenciada por foto transformándose lógicamente en un robot héroe humanoide a través de etapas progresivas.
 
 <img src="covers/2100716874048971156.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+MOTOCICLETA UNIVERSAL → ROBOT HÉROE
+PROMPT MAESTRO PARA HOJA DE PERSONAJE DE TRANSFORMACIÓN
+
+Analiza detenidamente la fotografía de la motocicleta proporcionada y utiliza la motocicleta misma como la referencia visual absoluta.
+
+No asumas de antemano un modelo de motocicleta, paleta de colores, estilo de carrocería o configuración mecánica.
+
+PRIMERO, analiza visualmente la motocicleta real mostrada en la fotografía subida.
+
+Identifica y preserva automáticamente sus características visuales más reconocibles, incluyendo:
+
+tipo de motocicleta y silueta general,
+proporciones del cuerpo,
+colores primarios y secundarios,
+paneles de carrocería pintados,
+ruedas delanteras y traseras,
+tamaño y grosor de las ruedas,
+neumáticos,
+rines de las ruedas,
+horquilla delantera,
+suspensión trasera,
+componentes del motor o impulsor,
+sistema de escape,
+chasis,
+tanque de combustible o estructura central de la carrocería,
+forma y material del asiento,
+manubrio,
+espejos,
+faro delantero,
+luz trasera,
+direccionales,
+salpicaderas delantera y trasera,
+caja de carga o equipo de equipaje si está presente,
+parabrisas si está presente,
+estribos o posapiés,
+cables expuestos,
+articulaciones mecánicas,
+colocación de calcomanías y gráficos,
+rayones en la superficie,
+desgaste de la pintura,
+polvo,
+materiales envejecidos,
+y otros detalles físicos distintivos visibles en la referencia.
+
+El robot final debe conservar claramente el ADN visual de ESTA MOTOCICLETA EXACTA.
+
+Un espectador debería pensar de inmediato:
+
+"Ese robot se transformó a partir de esa motocicleta".
+
+==================================================
+CONCEPTO DE LA HOJA DE PERSONAJE
+==================================================
+
+Crea una hoja de personaje de transformación cinematográfica que muestre UNA motocicleta transformándose gradualmente en UN robot héroe humanoide.
+
+Muestra la transformación como una progresión física clara:
+
+ETAPA 1:
+Motocicleta original.
+
+La motocicleta permanece casi completamente inalterada y claramente reconocible.
+
+ETAPA 2:
+Activación mecánica temprana.
+
+Pequeños paneles de la carrocería se separan ligeramente.
+
+Los seguros mecánicos se liberan.
+
+Los componentes de la suspensión se desplazan.
+
+Las estructuras mecánicas internas se vuelven visibles.
+
+La motocicleta aún debe permanecer reconocible en aproximadamente un 80–90%.
+
+ETAPA 3:
+Transformación intermedia.
+
+Las ruedas se reposicionan de forma natural.
+
+El chasis comienza a extenderse.
+
+Los componentes existentes de la motocicleta rotan, se despliegan, se deslizan y se reconectan.
+
+Los inicios de piernas, torso y brazos humanoides se vuelven visibles.
+
+La motocicleta permanece reconocible en aproximadamente un 50–70%.
+
+ETAPA 4:
+Transformación avanzada.
+
+Los paneles originales de la carrocería de la motocicleta se convierten en armadura.
+
+Las ruedas se integran naturalmente en la anatomía del robot.
+
+El escape se convierte en un componente reconocible de armadura mecánica.
+
+Manubrio, espejos, luces, suspensión, chasis, asiento, equipo de carga y otros componentes visibles de la motocicleta se redistribuyen lógicamente a lo largo del robot.
+
+La silueta humanoide se vuelve dominante.
+
+ETAPA 5:
+ROBOT HÉROE COMPLETO.
+
+Un magnífico héroe mecánico de cuerpo entero creado enteramente a partir de la identidad visual de la motocicleta original.
+
+==================================================
+FÍSICA DE LA TRANSFORMACIÓN
+==================================================
+
+La transformación debe verse mecánicamente creíble.
+
+Cada componente principal de la motocicleta debe tener un destino lógico en el robot final.
+
+Las piezas rotan sobre bisagras realistas.
+
+Los paneles se deslizan a lo largo de rieles mecánicos.
+
+Los bastidores se extienden mediante estructuras telescópicas.
+
+Los componentes de suspensión se convierten en articulaciones mecánicas funcionales.
+
+Los componentes existentes de la motocicleta se convierten en armadura en lugar de desaparecer.
+
+Las ruedas siguen siendo físicamente reconocibles.
+
+El escape sigue siendo reconocible.
+
+Los paneles pintados originales siguen siendo reconocibles.
+
+Los accesorios distintivos de la motocicleta siguen siendo reconocibles siempre que sea físicamente posible.
+
+SIN metamorfosis instantánea.
+
+SIN transformación de metal líquido.
+
+SIN reemplazo mágico.
+
+SIN partes que se teletransportan al azar.
+
+SIN desaparición inexplicada de componentes principales de la motocicleta.
+
+SIN un robot genérico reemplazando a la motocicleta.
+
+La transformación debe sentirse lenta, pesada, deliberada y físicamente conectada.
 ```
 
 [↑ Volver a categorías](#catalog)

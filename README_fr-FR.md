@@ -6456,20 +6456,20 @@ Traduction en cours
 
 <a name="prompt-2100557439556849968"></a>
 
-### Traduction en cours
+### Consigne : le personnage montre ses muscles, brait et se met à quatre pattes pour se transformer
 
 Auteur：[@mikeb5222094828](https://x.com/mikeb5222094828) · [Publication originale](https://x.com/mikeb5222094828/status/2100557439556849968)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Consigne : le personnage montre ses muscles, brait et se met à quatre pattes pour se transformer
 
 <img src="covers/2100557439556849968.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Faites-le contracter ses muscles et braire alors qu'il se met à quatre pattes, que des sabots se forment et qu'une queue sort de son short pendant qu'il se met à quatre pattes
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -6478,20 +6478,165 @@ Traduction en cours
 
 <a name="prompt-2100716874048971156"></a>
 
-### Traduction en cours
+### Prompt maître pour générer une fiche de personnage montrant une moto référencée par photo se transformant logiquement en un robot héros humanoïde à travers des étapes progressives.
 
 Auteur：[@er1029iu](https://x.com/er1029iu) · [Publication originale](https://x.com/er1029iu/status/2100716874048971156)
 
 Personnage · Véhicule · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt maître pour générer une fiche de personnage montrant une moto référencée par photo se transformant logiquement en un robot héros humanoïde à travers des étapes progressives.
 
 <img src="covers/2100716874048971156.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+MOTO UNIVERSELLE → ROBOT HÉROS
+PROMPT MAÎTRE POUR FICHE DE PERSONNAGE DE TRANSFORMATION
+
+Analysez attentivement la photographie de moto fournie et utilisez la moto elle-même comme référence visuelle absolue.
+
+Ne présumez pas à l'avance d'un modèle de moto, d'une palette de couleurs, d'un style de carrosserie ou d'une configuration mécanique.
+
+TOUT D'ABORD, analysez visuellement la moto réelle présentée sur la photographie téléchargée.
+
+Identifiez et préservez automatiquement ses caractéristiques visuelles les plus reconnaissables, notamment :
+
+le type de moto et la silhouette globale,
+les proportions de la carrosserie,
+les couleurs primaires et secondaires,
+les panneaux de carrosserie peints,
+les roues avant et arrière,
+la taille et l'épaisseur des roues,
+les pneus,
+les jantes,
+la fourche avant,
+la suspension arrière,
+les composants du moteur ou de la motorisation,
+le système d'échappement,
+le cadre,
+le réservoir de carburant ou la structure centrale de la carrosserie,
+la forme et le matériau de la selle,
+le guidon,
+les rétroviseurs,
+le phare avant,
+le feu arrière,
+les clignotants,
+les garde-boue avant et arrière,
+le top-case ou l'équipement de bagagerie si présent,
+le pare-brise si présent,
+le marchepied ou les repose-pieds,
+les câbles apparents,
+les articulations mécaniques,
+l'emplacement des autocollants et des graphismes,
+les rayures de surface,
+l'usure de la peinture,
+la poussière,
+les matériaux vieillis,
+et les autres détails physiques distinctifs visibles dans la référence.
+
+Le robot final doit clairement conserver l'ADN visuel de CETTE MOTO EXACTE.
+
+Un spectateur devrait immédiatement penser :
+
+« Ce robot est issu de la transformation de cette moto. »
+
+==================================================
+CONCEPT DE LA FICHE DE PERSONNAGE
+==================================================
+
+Créez une fiche de personnage de transformation cinématographique montrant UNE moto se transformant progressivement en UN robot héros humanoïde.
+
+Montrez la transformation comme une progression physique claire :
+
+ÉTAPE 1 :
+Moto originale.
+
+La moto reste presque totalement inchangée et clairement reconnaissable.
+
+ÉTAPE 2 :
+Activation mécanique précoce.
+
+De petits panneaux de carrosserie se séparent légèrement.
+
+Les verrous mécaniques se libèrent.
+
+Les composants de suspension se déplacent.
+
+Les structures mécaniques internes deviennent visibles.
+
+La moto doit encore rester reconnaissable à environ 80–90 %.
+
+ÉTAPE 3 :
+Transformation intermédiaire.
+
+Les roues se repositionnent naturellement.
+
+Le châssis commence à s'étendre.
+
+Les composants existants de la moto pivotent, se déplient, glissent et se reconnectent.
+
+Les prémices de jambes, d'un torse et de bras humanoïdes deviennent visibles.
+
+La moto reste reconnaissable à environ 50–70 %.
+
+ÉTAPE 4 :
+Transformation avancée.
+
+Les panneaux de carrosserie d'origine de la moto deviennent une armure.
+
+Les roues s'intègrent naturellement dans l'anatomie du robot.
+
+L'échappement devient un composant d'armure mécanique reconnaissable.
+
+Le guidon, les rétroviseurs, les feux, la suspension, le cadre, la selle, l'équipement de bagagerie et les autres composants visibles de la moto sont redistribués logiquement sur l'ensemble du robot.
+
+La silhouette humanoïde devient dominante.
+
+ÉTAPE 5 :
+ROBOT HÉROS COMPLET.
+
+Un magnifique héros mécanique en pied entièrement créé à partir de l'identité visuelle de la moto d'origine.
+
+==================================================
+PHYSIQUE DE LA TRANSFORMATION
+==================================================
+
+La transformation doit paraître mécaniquement crédible.
+
+Chaque composant majeur de la moto doit avoir une destination logique sur le robot final.
+
+Les pièces pivotent autour de charnières réalistes.
+
+Les panneaux glissent le long de rails mécaniques.
+
+Les structures de cadre s'étendent par des systèmes télescopiques.
+
+Les composants de suspension deviennent des articulations mécaniques fonctionnelles.
+
+Les composants existants de la moto deviennent une armure au lieu de disparaître.
+
+Les roues restent physiquement reconnaissables.
+
+L'échappement reste reconnaissable.
+
+Les panneaux peints d'origine restent reconnaissables.
+
+Les accessoires distinctifs de la moto restent reconnaissables chaque fois que cela est physiquement possible.
+
+PAS de morphing instantané.
+
+PAS de transformation en métal liquide.
+
+PAS de remplacement magique.
+
+PAS de pièces se téléportant au hasard.
+
+PAS de disparition inexpliquée des composants majeurs de la moto.
+
+PAS de robot générique remplaçant la moto.
+
+La transformation doit sembler lente, lourde, délibérée et physiquement connectée.
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -6520,20 +6520,20 @@ Sản phẩm · Đã xuất bản
 
 <a name="prompt-2100557439556849968"></a>
 
-### Đang dịch
+### Lệnh cho nhân vật gồng cơ, kêu lên và biến hình khi bò bằng bốn chân
 
 Tác giả：[@mikeb5222094828](https://x.com/mikeb5222094828) · [Bài gốc](https://x.com/mikeb5222094828/status/2100557439556849968)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lệnh cho nhân vật gồng cơ, kêu lên và biến hình khi bò bằng bốn chân
 
 <img src="covers/2100557439556849968.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Làm cho anh ta gồng cơ bắp và kêu lên khi bò bằng bốn chân, trong khi móng guốc hình thành và một cái đuôi bật ra khỏi quần đùi của anh ấy khi anh ta cúi xuống bằng cả bốn chi
 ```
 
 [↑ Về danh mục](#catalog)
@@ -6542,20 +6542,165 @@ Nhân vật · Đã xuất bản
 
 <a name="prompt-2100716874048971156"></a>
 
-### Đang dịch
+### Master prompt dùng để tạo bảng thiết kế nhân vật thể hiện một chiếc xe máy dựa trên ảnh tham chiếu biến hình một cách hợp lý thành robot anh hùng dạng người qua các giai đoạn tịnh tiến.
 
 Tác giả：[@er1029iu](https://x.com/er1029iu) · [Bài gốc](https://x.com/er1029iu/status/2100716874048971156)
 
 Nhân vật · Phương tiện · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Master prompt dùng để tạo bảng thiết kế nhân vật thể hiện một chiếc xe máy dựa trên ảnh tham chiếu biến hình một cách hợp lý thành robot anh hùng dạng người qua các giai đoạn tịnh tiến.
 
 <img src="covers/2100716874048971156.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+XE MÁY TOÀN NĂNG → ROBOT ANH HÙNG
+MASTER PROMPT CHO BẢNG THIẾT KẾ NHÂN VẬT BIẾN HÌNH (TRANSFORMATION CHARACTER SHEET)
+
+Hãy phân tích kỹ lưỡng bức ảnh xe máy được cung cấp và sử dụng chính chiếc xe máy đó làm tài liệu tham chiếu thị giác tuyệt đối.
+
+Không giả định trước về mẫu xe máy, bảng màu, kiểu dáng thân xe hay cấu hình cơ khí.
+
+ĐẦU TIÊN, phân tích trực quan chiếc xe máy thực tế xuất hiện trong bức ảnh được tải lên.
+
+Tự động nhận diện và bảo tồn các đặc điểm thị giác dễ nhận biết nhất của nó, bao gồm:
+
+loại xe máy và hình bóng tổng thể,
+tỷ lệ thân xe,
+màu sắc chính và phụ,
+các tấm ốp thân xe được sơn,
+bánh trước và bánh sau,
+kích thước và độ dày của bánh xe,
+lốp xe,
+vành xe,
+phuộc trước,
+hệ thống giảm xóc sau,
+các bộ phận động cơ hoặc mô-tơ,
+hệ thống ống xả,
+khung xe,
+bình xăng hoặc kết cấu thân giữa,
+hình dáng và chất liệu yên xe,
+ghi-đông (tay lái),
+gương chiếu hậu,
+đèn pha,
+đèn hậu,
+đèn xi-nhan,
+chắn bùn trước và sau,
+thùng chở hàng hoặc trang bị hành lý nếu có,
+kính chắn gió nếu có,
+sàn để chân hoặc gác chân,
+dây cáp lộ ra ngoài,
+các khớp cơ khí,
+vị trí tem dán và họa tiết đồ họa,
+vết xước trên bề mặt,
+sơn mòn,
+bụi bẩn,
+vật liệu đã qua thời gian sử dụng,
+và các chi tiết vật lý đặc trưng khác có thể nhìn thấy trong ảnh tham chiếu.
+
+Robot cuối cùng phải giữ lại rõ ràng mã gen thị giác (DNA) của CHÍNH CHIẾC XE MÁY NÀY.
+
+Người xem phải nghĩ ngay rằng:
+
+"Con robot đó được biến hình từ chính chiếc xe máy kia."
+
+==================================================
+Ý TƯỞNG BẢNG THIẾT KẾ NHÂN VẬT (CHARACTER SHEET CONCEPT)
+==================================================
+
+Tạo một bảng thiết kế nhân vật biến hình mang tính điện ảnh thể hiện MỘT chiếc xe máy dần biến hình thành MỘT robot anh hùng dạng người.
+
+Thể hiện sự biến hình dưới dạng một tiến trình vật lý rõ ràng:
+
+GIAI ĐOẠN 1:
+Xe máy nguyên bản.
+
+Xe máy hầu như hoàn toàn không thay đổi và có thể nhận ra rõ ràng.
+
+GIAI ĐOẠN 2:
+Kích hoạt cơ khí ban đầu.
+
+Các tấm ốp nhỏ của thân xe tách nhẹ ra.
+
+Các khóa cơ khí mở chốt.
+
+Các bộ phận giảm xóc dịch chuyển.
+
+Các cấu trúc cơ khí bên trong lộ diện.
+
+Xe máy vẫn phải giữ được khoảng 80–90% mức độ nhận diện.
+
+GIAI ĐOẠN 3:
+Biến hình trung gian.
+
+Các bánh xe định vị lại một cách tự nhiên.
+
+Khung gầm bắt đầu kéo dài ra.
+
+Các bộ phận hiện có của xe máy xoay, mở ra, trượt và kết nối lại.
+
+Khởi đầu của đôi chân, thân mình và cánh tay dạng người bắt đầu lộ diện.
+
+Xe máy vẫn giữ được khoảng 50–70% mức độ nhận diện.
+
+GIAI ĐOẠN 4:
+Biến hình nâng cao.
+
+Các tấm ốp thân xe máy ban đầu trở thành giáp.
+
+Các bánh xe tích hợp tự nhiên vào giải phẫu cơ thể của robot.
+
+Ống xả trở thành một bộ phận giáp cơ khí có thể nhận biết được.
+
+Tay lái, gương, đèn, giảm xóc, khung xe, yên xe, trang bị hành lý và các bộ phận xe máy nhìn thấy khác được phân bổ lại một cách hợp lý trên khắp cơ thể robot.
+
+Hình bóng dạng người trở nên chiếm ưu thế.
+
+GIAI ĐOẠN 5:
+ROBOT ANH HÙNG HOÀN CHỈNH.
+
+Một anh hùng cơ khí toàn thân tráng lệ được tạo ra hoàn toàn từ bản sắc thị giác của chiếc xe máy ban đầu.
+
+==================================================
+VẬT LÝ BIẾN HÌNH (TRANSFORMATION PHYSICS)
+==================================================
+
+Quá trình biến hình phải trông đáng tin cậy về mặt cơ khí.
+
+Mọi bộ phận chính của xe máy đều phải có đích đến hợp lý trên robot cuối cùng.
+
+Các bộ phận xoay quanh các bản lề thực tế.
+
+Các tấm ốp trượt dọc theo các thanh ray cơ khí.
+
+Khung xe kéo dài thông qua các kết cấu lồng vào nhau (telescoping).
+
+Các bộ phận giảm xóc trở thành các khớp cơ khí có chức năng thực tế.
+
+Các bộ phận xe máy hiện có trở thành giáp thay vì biến mất.
+
+Bánh xe vẫn có thể nhận biết được về mặt vật lý.
+
+Ống xả vẫn có thể nhận biết được.
+
+Các tấm ốp sơn ban đầu vẫn có thể nhận biết được.
+
+Các phụ kiện xe máy đặc trưng vẫn có thể nhận diện được bất cứ khi nào khả thi về mặt vật lý.
+
+KHÔNG biến đổi hình dạng tức thì (instant morphing).
+
+KHÔNG biến hình dạng kim loại lỏng.
+
+KHÔNG thay thế bằng phép thuật.
+
+KHÔNG dịch chuyển tức thời ngẫu nhiên các bộ phận.
+
+KHÔNG có sự biến mất không giải thích được của các bộ phận xe máy quan trọng.
+
+KHÔNG có robot chung chung thay thế cho xe máy.
+
+Sự biến hình phải mang lại cảm giác chậm rãi, nặng nề, có chủ ý và kết nối vật lý với nhau.
 ```
 
 [↑ Về danh mục](#catalog)

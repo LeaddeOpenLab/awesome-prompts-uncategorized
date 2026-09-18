@@ -6477,20 +6477,20 @@ Tradução em andamento
 
 <a name="prompt-2100557439556849968"></a>
 
-### Tradução em andamento
+### Instrução de personagem flexionando músculos, zurrando e ficando de quatro para se transformar
 
 Autor：[@mikeb5222094828](https://x.com/mikeb5222094828) · [Publicação original](https://x.com/mikeb5222094828/status/2100557439556849968)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Instrução de personagem flexionando músculos, zurrando e ficando de quatro para se transformar
 
 <img src="covers/2100557439556849968.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Faça-o flexionar os músculos e zurrar enquanto fica de quatro, com cascos se formando e uma cauda saindo de seus shorts enquanto ele fica de quatro
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -6499,20 +6499,165 @@ Tradução em andamento
 
 <a name="prompt-2100716874048971156"></a>
 
-### Tradução em andamento
+### Prompt mestre para gerar uma ficha de personagem mostrando uma motocicleta referenciada por foto se transformando logicamente em um robô heróico humanoide através de estágios progressivos.
 
 Autor：[@er1029iu](https://x.com/er1029iu) · [Publicação original](https://x.com/er1029iu/status/2100716874048971156)
 
 Personagem · Veículo · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt mestre para gerar uma ficha de personagem mostrando uma motocicleta referenciada por foto se transformando logicamente em um robô heróico humanoide através de estágios progressivos.
 
 <img src="covers/2100716874048971156.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+MOTOCICLETA UNIVERSAL → ROBÔ HERÓICO
+PROMPT MESTRE DE FICHA DE PERSONAGEM DE TRANSFORMAÇÃO
+
+Analise cuidadosamente a fotografia de motocicleta fornecida e use a própria motocicleta como a referência visual absoluta.
+
+Não presuma com antecedência um modelo de motocicleta, paleta de cores, estilo de carroceria ou configuração mecânica.
+
+PRIMEIRO, analise visualmente a motocicleta real mostrada na fotografia enviada.
+
+Identifique e preserve automaticamente suas características visuais mais reconhecíveis, incluindo:
+
+tipo de motocicleta e silhueta geral,
+proporções da carroceria,
+cores primárias e secundárias,
+painéis pintados da carroceria,
+rodas dianteira e traseira,
+tamanho e espessura das rodas,
+pneus,
+aros das rodas,
+garfo dianteiro,
+suspensão traseira,
+componentes do motor,
+sistema de escapamento,
+chassi,
+tanque de combustível ou estrutura central da carroceria,
+formato e material do assento,
+guidão,
+espelhos retrovisores,
+farol,
+lanterna traseira,
+setas direcionais,
+paralamas dianteiro e traseiro,
+baú de carga ou equipamento de bagagem se presente,
+para-brisa se presente,
+estribos ou pedaleiras,
+cabos expostos,
+juntas mecânicas,
+decais e posicionamento de grafismos,
+arranhões superficiais,
+desgaste da pintura,
+poeira,
+materiais envelhecidos,
+e outros detalhes físicos distintivos visíveis na referência.
+
+O robô final deve reter claramente o DNA visual DESTA MOTOCICLETA EXATA.
+
+O espectador deve pensar imediatamente:
+
+"Aquele robô foi transformado a partir daquela motocicleta."
+
+==================================================
+CONCEITO DA FICHA DE PERSONAGEM
+==================================================
+
+Crie uma ficha de personagem de transformação cinematográfica mostrando UMA motocicleta se transformando gradualmente em UM robô heróico humanoide.
+
+Mostre a transformação como uma progressão física clara:
+
+ESTÁGIO 1:
+Motocicleta original.
+
+A motocicleta permanece quase completamente inalterada e claramente reconhecível.
+
+ESTÁGIO 2:
+Ativação mecânica inicial.
+
+Pequenos painéis da carroceria se separam levemente.
+
+Travas mecânicas se soltam.
+
+Componentes da suspensão se deslocam.
+
+Estruturas mecânicas internas tornam-se visíveis.
+
+A motocicleta ainda deve permanecer aproximadamente 80–90% reconhecível.
+
+ESTÁGIO 3:
+Transformação intermediária.
+
+As rodas se reposicionam naturalmente.
+
+O chassi começa a se estender.
+
+Componentes existentes da motocicleta giram, se desdobram, deslizam e se reconectam.
+
+Os inícios de pernas, tronco e braços humanoides tornam-se visíveis.
+
+A motocicleta permanece aproximadamente 50–70% reconhecível.
+
+ESTÁGIO 4:
+Transformação avançada.
+
+Os painéis originais da carroceria da motocicleta tornam-se armadura.
+
+As rodas se integram naturalmente à anatomia do robô.
+
+O escapamento se torna um componente mecânico reconhecível da armadura.
+
+Guidão, espelhos, luzes, suspensão, chassi, assento, equipamento de carga e outros componentes visíveis da motocicleta são redistribuídos logicamente pelo robô.
+
+A silhueta humanoide se torna dominante.
+
+ESTÁGIO 5:
+ROBÔ HERÓICO COMPLETO.
+
+Um magnífico herói mecânico de corpo inteiro criado inteiramente a partir da identidade visual da motocicleta original.
+
+==================================================
+FÍSICA DA TRANSFORMAÇÃO
+==================================================
+
+A transformação deve parecer mecanicamente crível.
+
+Cada componente principal da motocicleta deve ter um destino lógico no robô final.
+
+Partes giram em torno de dobradiças realistas.
+
+Painéis deslizam ao longo de trilhos mecânicos.
+
+Chassis se estendem por meio de estruturas telescópicas.
+
+Componentes da suspensão tornam-se juntas mecânicas funcionais.
+
+Componentes existentes da motocicleta tornam-se armadura em vez de desaparecer.
+
+As rodas permanecem fisicamente reconhecíveis.
+
+O escapamento permanece reconhecível.
+
+Os painéis pintados originais permanecem reconhecíveis.
+
+Acessórios distintivos da motocicleta permanecem reconhecíveis sempre que for fisicamente possível.
+
+SEM transição instantânea de formato.
+
+SEM transformação de metal líquido.
+
+SEM substituição mágica.
+
+SEM peças se teletransportando aleatoriamente.
+
+SEM desaparecimento inexplicável dos principais componentes da motocicleta.
+
+SEM robô genérico substituindo a motocicleta.
+
+A transformação deve parecer lenta, pesada, deliberada e fisicamente conectada.
 ```
 
 [↑ Voltar às categorias](#catalog)

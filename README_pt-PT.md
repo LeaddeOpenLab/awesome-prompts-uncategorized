@@ -6477,20 +6477,20 @@ Tradução em curso
 
 <a name="prompt-2100557439556849968"></a>
 
-### Tradução em curso
+### Instrução de personagem a exibir músculos, a zurrar e a pôr-se de quatro para se transformar
 
 Autor：[@mikeb5222094828](https://x.com/mikeb5222094828) · [Publicação original](https://x.com/mikeb5222094828/status/2100557439556849968)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instrução de personagem a exibir músculos, a zurrar e a pôr-se de quatro para se transformar
 
 <img src="covers/2100557439556849968.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Faça-o flexionar os músculos e zurrar enquanto se põe de quatro, com cascos a formar-se e uma cauda a saltar dos seus calções enquanto se põe de quatro
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -6499,20 +6499,165 @@ Tradução em curso
 
 <a name="prompt-2100716874048971156"></a>
 
-### Tradução em curso
+### Prompt mestre para gerar uma ficha de personagem mostrando um motociclo referenciado por foto a transformar-se logicamente num robô heroico humanoide ao longo de estágios progressivos.
 
 Autor：[@er1029iu](https://x.com/er1029iu) · [Publicação original](https://x.com/er1029iu/status/2100716874048971156)
 
 Personagem · Veículo · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt mestre para gerar uma ficha de personagem mostrando um motociclo referenciado por foto a transformar-se logicamente num robô heroico humanoide ao longo de estágios progressivos.
 
 <img src="covers/2100716874048971156.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+MOTOCICLO UNIVERSAL → ROBÔ HEROICO
+PROMPT MESTRE DE FICHA DE PERSONAGEM DE TRANSFORMAÇÃO
+
+Analise cuidadosamente a fotografia de motociclo fornecida e utilize o próprio motociclo como a referência visual absoluta.
+
+Não presuma antecipadamente um modelo de motociclo, paleta de cores, estilo de carroçaria ou configuração mecânica.
+
+PRIMEIRO, analise visualmente o motociclo real apresentado na fotografia carregada.
+
+Identifique e preserve automaticamente as suas características visuais mais reconhecíveis, incluindo:
+
+tipo de motociclo e silhueta geral,
+proporções da carroçaria,
+cores primárias e secundárias,
+painéis pintados da carroçaria,
+rodas dianteira e traseira,
+tamanho e espessura das rodas,
+pneus,
+jantes,
+forquilha dianteira,
+suspensão traseira,
+componentes do motor,
+sistema de escape,
+quadro,
+depósito de combustível ou estrutura central da carroçaria,
+formato e material do assento,
+guiador,
+espelhos retrovisores,
+farol,
+farolim traseiro,
+piscas,
+guarda-lamas dianteiro e traseiro,
+top case ou equipamento de bagagem se presente,
+ecrã para-brisas se presente,
+estribos ou pousa-pés,
+cabos expostos,
+juntas mecânicas,
+decalques e posicionamento de grafismos,
+riscos na superfície,
+desgaste da pintura,
+poeira,
+materiais envelhecidos,
+e outros detalhes físicos distintivos visíveis na referência.
+
+O robô final deve reter claramente o ADN visual DESTE MOTOCICLO EXATO.
+
+O observador deve pensar de imediato:
+
+"Aquele robô foi transformado a partir daquele motociclo."
+
+==================================================
+CONCEITO DA FICHA DE PERSONAGEM
+==================================================
+
+Crie uma ficha de personagem de transformação cinematográfica mostrando UM motociclo a transformar-se gradualmente num robô heroico humanoide.
+
+Mostre a transformação como uma progressão física clara:
+
+ESTÁGIO 1:
+Motociclo original.
+
+O motociclo permanece quase completamente inalterado e claramente reconhecível.
+
+ESTÁGIO 2:
+Ativação mecânica inicial.
+
+Pequenos painéis da carroçaria separam-se ligeiramente.
+
+Trincos mecânicos soltam-se.
+
+Componentes da suspensão deslocam-se.
+
+Estruturas mecânicas internas tornam-se visíveis.
+
+O motociclo ainda deve permanecer aproximadamente 80–90% reconhecível.
+
+ESTÁGIO 3:
+Transformação intermédia.
+
+As rodas reposicionam-se naturalmente.
+
+O quadro começa a estender-se.
+
+Componentes existentes do motociclo rodam, desdobram-se, deslizam e voltam a ligar-se.
+
+Os inícios de pernas, tronco e braços humanoides tornam-se visíveis.
+
+O motociclo permanece aproximadamente 50–70% reconhecível.
+
+ESTÁGIO 4:
+Transformação avançada.
+
+Os painéis originais da carroçaria do motociclo tornam-se blindagem.
+
+As rodas integram-se naturalmente na anatomia do robô.
+
+O escape torna-se um componente mecânico reconhecível da blindagem.
+
+Guiador, espelhos, luzes, suspensão, quadro, assento, equipamento de carga e outros componentes visíveis do motociclo são redistribuídos logicamente pelo robô.
+
+A silhueta humanoide torna-se dominante.
+
+ESTÁGIO 5:
+ROBÔ HEROICO COMPLETO.
+
+Um magnífico herói mecânico de corpo inteiro criado inteiramente a partir da identidade visual do motociclo original.
+
+==================================================
+FÍSICA DA TRANSFORMAÇÃO
+==================================================
+
+A transformação deve parecer mecanicamente credível.
+
+Cada componente principal do motociclo deve ter um destino lógico no robô final.
+
+As peças rodam em torno de dobradiças realistas.
+
+Os painéis deslizam ao longo de calhas mecânicas.
+
+Os quadros estendem-se através de estruturas telescópicas.
+
+Componentes da suspensão tornam-se articulações mecânicas funcionais.
+
+Componentes existentes do motociclo tornam-se blindagem em vez de desaparecerem.
+
+As rodas permanecem fisicamente reconhecíveis.
+
+O escape permanece reconhecível.
+
+Os painéis pintados originais permanecem reconhecíveis.
+
+Acessórios distintivos do motociclo permanecem reconhecíveis sempre que fisicamente possível.
+
+SEM metamorfose instantânea.
+
+SEM transformação de metal líquido.
+
+SEM substituição mágica.
+
+SEM peças a teletransportarem-se aleatoriamente.
+
+SEM desaparecimento inexplicável dos principais componentes do motociclo.
+
+SEM robô genérico a substituir o motociclo.
+
+A transformação deve parecer lenta, pesada, deliberada e fisicamente conectada.
 ```
 
 [↑ Voltar às categorias](#catalog)

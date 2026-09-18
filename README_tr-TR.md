@@ -6477,20 +6477,20 @@ Yazar：[@Anaiappai](https://x.com/Anaiappai) · [Orijinal gönderi](https://x.c
 
 <a name="prompt-2100557439556849968"></a>
 
-### Çeviri sürüyor
+### Karakterin kaslarını sergilemesi, anırması ve dört ayak üzerine çökerek dönüşmesi için talimat
 
 Yazar：[@mikeb5222094828](https://x.com/mikeb5222094828) · [Orijinal gönderi](https://x.com/mikeb5222094828/status/2100557439556849968)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Karakterin kaslarını sergilemesi, anırması ve dört ayak üzerine çökerek dönüşmesi için talimat
 
 <img src="covers/2100557439556849968.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dört ayak üzerine çökerken kaslarını esnetmesini ve anırmasını sağlayın; dört ayak üzerine çöktükçe toynaklar oluşsun ve şortundan bir kuyruk fırlasın
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -6499,20 +6499,165 @@ Karakter · Yayımlandı
 
 <a name="prompt-2100716874048971156"></a>
 
-### Çeviri sürüyor
+### Aşamalı evreler boyunca fotoğraf referanslı bir motosikletin mantıksal olarak insansı bir kahraman robota dönüşmesini gösteren bir karakter sayfası oluşturmak için ana istem.
 
 Yazar：[@er1029iu](https://x.com/er1029iu) · [Orijinal gönderi](https://x.com/er1029iu/status/2100716874048971156)
 
 Karakter · Araç · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Aşamalı evreler boyunca fotoğraf referanslı bir motosikletin mantıksal olarak insansı bir kahraman robota dönüşmesini gösteren bir karakter sayfası oluşturmak için ana istem.
 
 <img src="covers/2100716874048971156.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+EVRENSEL MOTOSİKLET → KAHRAMAN ROBOT
+DÖNÜŞÜM KARAKTER SAYFASI ANA İSTEMİ
+
+Sağlanan motosiklet fotoğrafını dikkatlice analiz edin ve motosikletin kendisini mutlak görsel referans olarak kullanın.
+
+Önceden bir motosiklet modeli, renk paleti, gövde stili veya mekanik konfigürasyon varsaymayın.
+
+İLK OLARAK, yüklenen fotoğrafta gösterilen gerçek motosikleti görsel olarak analiz edin.
+
+Aşağıdakiler de dahil olmak üzere, en tanınabilir görsel özelliklerini otomatik olarak tanımlayın ve koruyun:
+
+motosiklet tipi ve genel silüet,
+gövde oranları,
+birincil ve ikincil renkler,
+boyalı gövde panelleri,
+ön ve arka tekerlekler,
+tekerlek boyutu ve kalınlığı,
+lastikler,
+jantlar,
+ön çatal,
+arka süspansiyon,
+motor bileşenleri,
+egzoz sistemi,
+şasi,
+yakıt deposu veya merkezi gövde yapısı,
+koltuk şekli ve malzemesi,
+gidon,
+aynalar,
+far,
+arka stop lambası,
+sinyaller,
+ön ve arka çamurluklar,
+varsa kargo kutusu veya bagaj ekipmanı,
+varsa ön cam,
+ayaklık veya ayak basamakları,
+açıkta kalan kablolar,
+mekanik eklemler,
+çıkartmalar ve grafik yerleşimi,
+yüzey çizikleri,
+boya aşınması,
+toz,
+yıpranmış malzemeler,
+ve referansta görünen diğer belirgin fiziksel ayrıntılar.
+
+Nihai robot, BU TAM MOTOSİKLETİN görsel DNA'sını açıkça korumalıdır.
+
+Bir izleyici anında şunu düşünmelidir:
+
+"O robot, o motosikletten dönüştürüldü."
+
+==================================================
+KARAKTER SAYFASI KONSEPTİ
+==================================================
+
+BİR motosikletin kademeli olarak BİR insansı kahraman robota dönüşmesini gösteren sinematik bir dönüşüm karakter sayfası oluşturun.
+
+Dönüşümü net bir fiziksel ilerleme olarak gösterin:
+
+AŞAMA 1:
+Orijinal motosiklet.
+
+Motosiklet neredeyse tamamen değişmeden ve net bir şekilde tanınabilir kalır.
+
+AŞAMA 2:
+Erken mekanik aktivasyon.
+
+Küçük gövde panelleri hafifçe ayrılır.
+
+Mekanik kilitler açılır.
+
+Süspansiyon bileşenleri yer değiştirir.
+
+İç mekanik yapılar görünür hale gelir.
+
+Motosiklet yaklaşık %80–90 oranında tanınabilir kalmalıdır.
+
+AŞAMA 3:
+Ara dönüşüm.
+
+Tekerlekler doğal bir şekilde yeniden konumlanır.
+
+Şasi uzamaya başlar.
+
+Mevcut motosiklet bileşenleri döner, açılır, kayar ve yeniden bağlanır.
+
+İnsansı bacaklar, gövde ve kolların başlangıcı görünür hale gelir.
+
+Motosiklet yaklaşık %50–70 oranında tanınabilir kalır.
+
+AŞAMA 4:
+İleri dönüşüm.
+
+Orijinal motosiklet gövde panelleri zırha dönüşür.
+
+Tekerlekler robot anatomisine doğal bir şekilde entegre olur.
+
+Egzoz, tanınabilir mekanik bir zırh bileşeni haline gelir.
+
+Gidon, aynalar, ışıklar, süspansiyon, şasi, koltuk, kargo ekipmanı ve diğer görünür motosiklet bileşenleri robotun üzerine mantıksal olarak yeniden dağıtılır.
+
+İnsansı silüet baskın hale gelir.
+
+AŞAMA 5:
+TAMAMLANMIŞ KAHRAMAN ROBOT.
+
+Tamamen orijinal motosikletin görsel kimliğinden yaratılmış muhteşem, tam vücut mekanik bir kahraman.
+
+==================================================
+DÖNÜŞÜM FİZİĞİ
+==================================================
+
+Dönüşüm mekanik olarak inandırıcı görünmelidir.
+
+Her büyük motosiklet bileşeni, nihai robot üzerinde mantıklı bir varış noktasına sahip olmalıdır.
+
+Parçalar gerçekçi menteşeler etrafında döner.
+
+Paneller mekanik raylar boyunca kayar.
+
+Şasiler teleskopik yapılar aracılığıyla uzar.
+
+Süspansiyon bileşenleri işlevsel mekanik eklemler haline gelir.
+
+Mevcut motosiklet bileşenleri yok olmak yerine zırh haline gelir.
+
+Tekerlekler fiziksel olarak tanınabilir kalır.
+
+Egzoz tanınabilir kalır.
+
+Orijinal boyalı paneller tanınabilir kalır.
+
+Belirgin motosiklet aksesuarları, fiziksel olarak mümkün olan her durumda tanınabilir kalır.
+
+Anında biçim değiştirme YOK.
+
+Sıvı metal dönüşümü YOK.
+
+Büyülü değişim YOK.
+
+Rastgele ışınlanan parçalar YOK.
+
+Büyük motosiklet bileşenlerinin açıklanamayan kayboluşu YOK.
+
+Motosikletin yerini alan genel, sıradan bir robot YOK.
+
+Dönüşüm yavaş, ağır, kasıtlı ve fiziksel olarak bağlantılı hissettirmelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)
