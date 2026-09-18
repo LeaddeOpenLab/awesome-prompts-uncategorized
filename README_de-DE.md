@@ -4431,20 +4431,20 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2100703296302588303"></a>
 
-### Übersetzung läuft
+### Prompt zur Erstellung einer Illustration im Animationsstil einer Tonsur-Zeremonie eines hübschen Mädchens.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Originalbeitrag](https://x.com/AUrbNUMjfxj85IS/status/2100703296302588303)
 
 Anime / Manga · Illustration · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Erstellung einer Illustration im Animationsstil einer Tonsur-Zeremonie eines hübschen Mädchens.
 
 <img src="images/2100703296302588303-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Animation der Tonsur-Zeremonie eines hübschen Mädchens
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

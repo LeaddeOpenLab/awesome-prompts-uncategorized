@@ -4462,20 +4462,20 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2100703296302588303"></a>
 
-### Çeviri sürüyor
+### Güzel bir kızın saç kazıtma törenini gösteren animasyon tarzı illüstrasyon oluşturma istemi.
 
 Yazar：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Orijinal gönderi](https://x.com/AUrbNUMjfxj85IS/status/2100703296302588303)
 
 Anime / Manga · İllüstrasyon · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Güzel bir kızın saç kazıtma törenini gösteren animasyon tarzı illüstrasyon oluşturma istemi.
 
 <img src="images/2100703296302588303-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Güzel kızın saç kazıtma töreni animasyonu
 ```
 
 [↑ Kategorilere dön](#catalog)

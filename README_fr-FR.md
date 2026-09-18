@@ -4431,20 +4431,20 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2100703296302588303"></a>
 
-### Traduction en cours
+### Prompt de génération d'illustration de style animation pour la cérémonie de rasage de tête d'une belle jeune fille.
 
 Auteur：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publication originale](https://x.com/AUrbNUMjfxj85IS/status/2100703296302588303)
 
 Anime / Manga · Illustration · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération d'illustration de style animation pour la cérémonie de rasage de tête d'une belle jeune fille.
 
 <img src="images/2100703296302588303-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Animation de la cérémonie de rasage de tête d'une belle jeune fille
 ```
 
 [↑ Retour aux catégories](#catalog)

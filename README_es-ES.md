@@ -4469,20 +4469,20 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2100703296302588303"></a>
 
-### Traducción en curso
+### Prompt para generar ilustración estilo animación de la ceremonia de afeitado de cabeza de una chica hermosa.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicación original](https://x.com/AUrbNUMjfxj85IS/status/2100703296302588303)
 
 Anime / Manga · Ilustración · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para generar ilustración estilo animación de la ceremonia de afeitado de cabeza de una chica hermosa.
 
 <img src="images/2100703296302588303-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Animación de la ceremonia de afeitado de cabeza de una chica hermosa
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -4469,20 +4469,20 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2100703296302588303"></a>
 
-### Đang dịch
+### Lời nhắc tạo hình minh họa phong cách hoạt hình về lễ xuống tóc của thiếu nữ xinh đẹp.
 
 Tác giả：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Bài gốc](https://x.com/AUrbNUMjfxj85IS/status/2100703296302588303)
 
 Anime / Manga · Minh họa · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo hình minh họa phong cách hoạt hình về lễ xuống tóc của thiếu nữ xinh đẹp.
 
 <img src="images/2100703296302588303-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hoạt hình lễ xuống tóc của thiếu nữ xinh đẹp
 ```
 
 [↑ Về danh mục](#catalog)

@@ -4431,20 +4431,20 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2100703296302588303"></a>
 
-### Traduzione in corso
+### Prompt per la generazione di illustrazioni in stile animazione della cerimonia di rasatura della testa di una bella ragazza.
 
 Autore：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Post originale](https://x.com/AUrbNUMjfxj85IS/status/2100703296302588303)
 
 Anime / Manga · Illustrazione · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per la generazione di illustrazioni in stile animazione della cerimonia di rasatura della testa di una bella ragazza.
 
 <img src="images/2100703296302588303-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Animazione della cerimonia di rasatura della testa di una bella ragazza
 ```
 
 [↑ Torna alle categorie](#catalog)

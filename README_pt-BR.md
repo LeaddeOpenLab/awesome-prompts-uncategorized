@@ -4462,20 +4462,20 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2100703296302588303"></a>
 
-### Tradução em andamento
+### Prompt para geração de ilustração em estilo de animação de cerimônia de raspagem de cabeça de uma linda garota.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicação original](https://x.com/AUrbNUMjfxj85IS/status/2100703296302588303)
 
 Anime / Mangá · Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para geração de ilustração em estilo de animação de cerimônia de raspagem de cabeça de uma linda garota.
 
 <img src="images/2100703296302588303-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Animação de cerimônia de raspagem de cabeça de uma linda garota
 ```
 
 [↑ Voltar às categorias](#catalog)

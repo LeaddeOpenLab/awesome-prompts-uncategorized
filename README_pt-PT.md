@@ -4462,20 +4462,20 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2100703296302588303"></a>
 
-### Tradução em curso
+### Prompt de geração de ilustrações em estilo de animação da cerimónia de rapagem de cabeça de uma rapariga bonita.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicação original](https://x.com/AUrbNUMjfxj85IS/status/2100703296302588303)
 
 Anime / Mangá · Ilustração · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de geração de ilustrações em estilo de animação da cerimónia de rapagem de cabeça de uma rapariga bonita.
 
 <img src="images/2100703296302588303-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Animação da cerimónia de rapagem de cabeça de uma rapariga bonita
 ```
 
 [↑ Voltar às categorias](#catalog)
