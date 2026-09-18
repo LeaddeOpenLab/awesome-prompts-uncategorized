@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:30:37.867Z",
+  "model": "unknown-image",
+  "prompt": "参照画像を元に、実写の写真を生成する。iPhoneで撮影したようなリアルで自然な画像を作成する。",
+  "promptTranslations": {
+    "en": "Generate a realistic photo based on the reference image. Create a realistic and natural image as if taken with an iPhone."
+  },
+  "summaryTranslations": {
+    "en": "A prompt to generate natural and realistic photos in the style of an iPhone shot, based on a reference image."
+  },
+  "translationVersion": 2,
+  "summary": "参照画像を元に、iPhone撮影風の自然でリアルな実写写真を生成するプロンプト。",
+  "summaryEn": "Prompt to generate a realistic and natural live-action photo from a reference image, styled like an iPhone photograph.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100523713619992970",
+      "canonicalUrl": "https://x.com/sakisuta_/status/2100523713619992970",
+      "author": {
+        "username": "sakisuta_",
+        "displayName": "さきすた AI artist",
+        "profileUrl": "https://x.com/sakisuta_"
+      },
+      "originalText": "これオススメ\nGPT Image 2.5で進化してる\n現実に飛び出てきたレベルでリアル\n\n参照画像を元に、実写の写真を生成する。\niPhoneで撮影したようなリアルで自然な画像を作成する。 https://t.co/ECr5wm2535"
+    },
+    "id": "2100572149778112835",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2100572149778112835",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-17T13:06:41.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "ja",
+    "originalText": "原推这个 Prompt 我替大家试了。\n\n不是照骗，是真能打。\n\nPrompt：参照画像を元に、実写の写真を生成する。iPhoneで撮影したようなリアルで自然な画像を作成する。 https://t.co/EpRbdFDU1S",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSa7O5LbEAAOz_9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSa7O5LbEAAOz_9.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSa7O5GaQAAwTi1.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSa7O5GaQAAwTi1.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZ9UCOb0AANH0e.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZ9UCOb0AANH0e.jpg",
+        "sourcePostId": "2100523713619992970"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZ9WF-bUAADUUm.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZ9WF-bUAADUUm.jpg",
+        "sourcePostId": "2100523713619992970"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZ9ZD6bsAADe0G.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZ9ZD6bsAADe0G.jpg",
+        "sourcePostId": "2100523713619992970"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSZ9ba4bIAARQow.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSZ9ba4bIAARQow.jpg",
+        "sourcePostId": "2100523713619992970"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 1,
+      "replyCount": 9,
+      "quoteCount": 0,
+      "viewCount": 3971
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2100572149778112835",
+  "coverUrl": "https://pbs.twimg.com/media/HSa7O5LbEAAOz_9.jpg",
+  "coverPath": "images/2100572149778112835-1.jpg",
+  "imagePaths": [
+    "images/2100572149778112835-1.jpg",
+    "images/2100572149778112835-2.jpg",
+    "images/2100572149778112835-3.jpg",
+    "images/2100572149778112835-4.jpg",
+    "images/2100572149778112835-5.jpg",
+    "images/2100572149778112835-6.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSa7O5LbEAAOz_9",
+    "x-image:/media/HSa7O5GaQAAwTi1",
+    "x-image:/media/HSZ9UCOb0AANH0e",
+    "x-image:/media/HSZ9WF-bUAADUUm",
+    "x-image:/media/HSZ9ZD6bsAADe0G",
+    "x-image:/media/HSZ9ba4bIAARQow",
+    "x-post:2100572149778112835",
+    "x-post:2100523713619992970"
+  ],
+  "analysis": {
+    "summary": "参照画像を元に、iPhone撮影風の自然でリアルな実写写真を生成するプロンプト。",
+    "summaryEn": "Prompt to generate a realistic and natural live-action photo from a reference image, styled like an iPhone photograph.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt clearly asks to convert reference images into realistic iPhone-style photos; images show 2D anime/illustration inputs converted into realistic photos matching the request."
+    },
+    "videoQuality": null,
+    "originalPrompt": "参照画像を元に、実写の写真を生成する。iPhoneで撮影したようなリアルで自然な画像を作成する。",
+    "sourceRange": {
+      "start": 40,
+      "end": 88
+    },
+    "translations": {
+      "zh": "基于参考图像生成真实写实照片。制作像用iPhone拍摄一样真实且自然的图像。",
+      "en": "Generate a realistic live-action photo based on the reference image. Create a realistic and natural image as if taken with an iPhone."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "image_to_image_realism",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

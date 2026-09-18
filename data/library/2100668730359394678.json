@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:30:18.494Z",
+  "model": "imagen",
+  "prompt": "La mascota comienza caminando felizmente hacia imagen de referencia con un movimiento natural, juguetón y adorable. Cuando llega, se detiene, mira hacia arriba y coloca ambas manos contra uno de sus lados. Intenta empujarlo con todas sus fuerzas, inclinando todo su cuerpo hacia adelante y haciendo fuerza con los pies, pero es demasiado pesado y no se mueve en absoluto.\n\nLa mascota se detiene, retrocede unos pasos y observa imagen de referencia por un momento, como si estuviera pensando. De repente, se le ocurre una idea y hace una pequeña reacción de emoción. Luego salta hacia la parte superior de imagen de referencia, se agarra del borde superior con ambas manos y queda colgando de manera juguetona. La mascota alcanza la abertura y, felizmente, toma un sorbo directamente de imagen de referencia.\n\nTermina con la mascota luciendo feliz y satisfecha mientras continúa interactuando con el producto.\n\nMantén exactamente la apariencia original de la mascota durante toda la animación: la misma cabeza redonda, cuerpo blanco, contorno marrón oscuro, mejillas rosadas, rasgos faciales y estilo de ilustración tierno.\n\nMantén imagen de referencia completamente intacta y estática. Conserva todos los elementos de marca y textos presentes en imagen de referencia. No deformes a la mascota ni al producto. No agregues personajes, brazos, piernas ni objetos adicionales.\n\nMantén el fondo y la cámara completamente estáticos. Sin movimientos de cámara, sin zoom y sin cortes.\n\nUtiliza una animación comercial fluida y juguetona, con un lenguaje corporal claro y expresivo y una física creíble.",
+  "promptTranslations": {
+    "en": "The mascot begins by happily walking toward reference image with a natural, playful, and adorable movement. When it arrives, it stops, looks up, and places both hands against one of its sides. It tries to push it with all its might, leaning its entire body forward and straining with its feet, but it is too heavy and does not move at all.\n\nThe mascot stops, takes a few steps back, and observes reference image for a moment, as if thinking. Suddenly, an idea comes to mind, and it shows a small reaction of excitement. Then it jumps toward the top of reference image, grabs the upper edge with both hands, and hangs playfully. The mascot reaches the opening and, happily, takes a sip directly from reference image.\n\nIt ends with the mascot looking happy and satisfied as it continues interacting with the product.\n\nMaintain the mascot's exact original appearance throughout the animation: the same round head, white body, dark brown outline, pink cheeks, facial features, and cute illustration style.\n\nKeep reference image completely intact and static. Preserve all branding elements and text present in reference image. Do not deform the mascot or the product. Do not add extra characters, arms, legs, or objects.\n\nKeep the background and camera completely static. No camera movements, no zooms, and no cuts.\n\nUse smooth, playful commercial animation, with clear, expressive body language and believable physics."
+  },
+  "summaryTranslations": {
+    "en": "Commercial animation where a mascot interacts with a static product by trying to move it and then climbing onto it."
+  },
+  "translationVersion": 2,
+  "summary": "Animación publicitaria donde una mascota interactúa con un producto estático intentando moverlo y luego subiendo a él.",
+  "summaryEn": "Ad animation where a cute mascot approaches, tries to push a product, gets an idea, and climbs it.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100668730359394678",
+    "canonicalUrl": "https://x.com/Anaiappai/status/2100668730359394678",
+    "author": {
+      "username": "Anaiappai",
+      "displayName": "Anai app",
+      "profileUrl": "https://x.com/Anaiappai"
+    },
+    "publishedAt": "2026-09-17T19:30:28.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "es",
+    "originalText": "🛑 PROMPT ANIMACIONES PUBLICITARIAS DE PRODUCTO\n\nPROMPT: \n\nLa mascota comienza caminando felizmente hacia imagen de referencia con un movimiento natural, juguetón y adorable. Cuando llega, se detiene, mira hacia arriba y coloca ambas manos contra uno de sus lados. Intenta empujarlo con todas sus fuerzas, inclinando todo su cuerpo hacia adelante y haciendo fuerza con los pies, pero es demasiado pesado y no se mueve en absoluto.\n\nLa mascota se detiene, retrocede unos pasos y observa imagen de referencia por un momento, como si estuviera pensando. De repente, se le ocurre una idea y hace una pequeña reacción de emoción. Luego salta hacia la parte superior de imagen de referencia, se agarra del borde superior con ambas manos y queda colgando de manera juguetona. La mascota alcanza la abertura y, felizmente, toma un sorbo directamente de imagen de referencia.\n\nTermina con la mascota luciendo feliz y satisfecha mientras continúa interactuando con el producto.\n\nMantén exactamente la apariencia original de la mascota durante toda la animación: la misma cabeza redonda, cuerpo blanco, contorno marrón oscuro, mejillas rosadas, rasgos faciales y estilo de ilustración tierno.\n\nMantén imagen de referencia completamente intacta y estática. Conserva todos los elementos de marca y textos presentes en imagen de referencia. No deformes a la mascota ni al producto. No agregues personajes, brazos, piernas ni objetos adicionales.\n\nMantén el fondo y la cámara completamente estáticos. Sin movimientos de cámara, sin zoom y sin cortes.\n\nUtiliza una animación comercial fluida y juguetona, con un lenguaje corporal claro y expresivo y una física creíble.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Anaiappai/status/2100668730359394678",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100668700193939456/img/KxNEBpGojvd78XPK.jpg",
+        "analysisUrl": "https://x.com/Anaiappai/status/2100668730359394678"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 10
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Anaiappai/status/2100668730359394678",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100668700193939456/img/KxNEBpGojvd78XPK.jpg",
+  "coverPath": "covers/2100668730359394678.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100668700193939456",
+    "x-post:2100668730359394678"
+  ],
+  "analysis": {
+    "summary": "Animación publicitaria donde una mascota interactúa con un producto estático intentando moverlo y luego subiendo a él.",
+    "summaryEn": "Ad animation where a cute mascot approaches, tries to push a product, gets an idea, and climbs it.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频完全按照提示词展现：白猫吉祥物走向粉色香水瓶、推瓶子、思考冒出灯泡、跳上瓶盖互动。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "La mascota comienza caminando felizmente hacia imagen de referencia con un movimiento natural, juguetón y adorable. Cuando llega, se detiene, mira hacia arriba y coloca ambas manos contra uno de sus lados. Intenta empujarlo con todas sus fuerzas, inclinando todo su cuerpo hacia adelante y haciendo fuerza con los pies, pero es demasiado pesado y no se mueve en absoluto.\n\nLa mascota se detiene, retrocede unos pasos y observa imagen de referencia por un momento, como si estuviera pensando. De repente, se le ocurre una idea y hace una pequeña reacción de emoción. Luego salta hacia la parte superior de imagen de referencia, se agarra del borde superior con ambas manos y queda colgando de manera juguetona. La mascota alcanza la abertura y, felizmente, toma un sorbo directamente de imagen de referencia.\n\nTermina con la mascota luciendo feliz y satisfecha mientras continúa interactuando con el producto.\n\nMantén exactamente la apariencia original de la mascota durante toda la animación: la misma cabeza redonda, cuerpo blanco, contorno marrón oscuro, mejillas rosadas, rasgos faciales y estilo de ilustración tierno.\n\nMantén imagen de referencia completamente intacta y estática. Conserva todos los elementos de marca y textos presentes en imagen de referencia. No deformes a la mascota ni al producto. No agregues personajes, brazos, piernas ni objetos adicionales.\n\nMantén el fondo y la cámara completamente estáticos. Sin movimientos de cámara, sin zoom y sin cortes.\n\nUtiliza una animación comercial fluida y juguetona, con un lenguaje corporal claro y expresivo y una física creíble.",
+    "sourceRange": {
+      "start": 58,
+      "end": 1652
+    },
+    "translations": {
+      "zh": "吉祥物开心地走向参考图主体，试图用力推动却推不动。随后后退思考，灵光一现后跳上参考图顶端攀附并互动，最终表情愉快满足。保持吉祥物和参考图静态一致，固定机位与背景，商业流畅动画风格。",
+      "en": "The mascot walks toward the reference image, tries to push it, steps back to think, gets an idea, jumps onto the top and happily interacts with it. Keep camera and background static, preserving reference appearance."
+    },
+    "targetModels": [
+      "imagen"
+    ],
+    "category": "image-to-video",
+    "useCase": "吉祥物与产品交互的商业广告动画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

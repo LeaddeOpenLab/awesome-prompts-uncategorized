@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:28:40.319Z",
+  "model": "unknown-video",
+  "prompt": "Create a cinematic 8-second premium advertisement for the authentic DJI Osmo Pocket 3, vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the DJI Osmo Pocket 3 standing on a modern desk, touchscreen glowing softly.\n\n2–4 sec: Macro camera movement around the lens and gimbal mechanism, showcasing the compact premium design.\n\n4–7 sec: Smooth transition to a creator holding the camera while filming a beautiful city street during golden hour, realistic handheld movement.\n\n7–9 sec: Transition to the camera mounted on a small tripod overlooking a mountain landscape at sunset.\n\n9–10 sec: Final hero shot of the DJI Osmo Pocket 3, slow cinematic orbit with the screen and camera lens clearly visible.\n\nPhotorealistic professional camera commercial, realistic gimbal movement, smooth transitions, cinematic depth of field, premium technology advertising, authentic product design, natural lighting, highly detailed, no text overlays, no watermark.",
+  "promptTranslations": {
+    "en": "Create a cinematic 8-second premium advertisement for the authentic DJI Osmo Pocket 3, vertical 9:16 format.\\n\\n0–2 sec: Slow camera push-in toward the DJI Osmo Pocket 3 standing on a modern desk, touchscreen glowing softly.\\n\\n2–4 sec: Macro camera movement around the lens and gimbal mechanism, showcasing the compact premium design.\\n\\n4–7 sec: Smooth transition to a creator holding the camera while filming a beautiful city street during golden hour, realistic handheld movement.\\n\\n7–9 sec: Transition to the camera mounted on a small tripod overlooking a mountain landscape at sunset.\\n\\n9–10 sec: Final hero shot of the DJI Osmo Pocket 3, slow cinematic orbit with the screen and camera lens clearly visible.\\n\\nPhotorealistic professional camera commercial, realistic gimbal movement, smooth transitions, cinematic depth of field, premium technology advertising, authentic product design, natural lighting, highly detailed, no text overlays, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic vertical product commercial prompt for DJI Osmo Pocket 3 featuring detailed shot-by-shot gimbal and street scenes."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic vertical product commercial prompt for DJI Osmo Pocket 3 featuring detailed shot-by-shot gimbal and street scenes.",
+  "summaryEn": "Cinematic vertical product commercial prompt for DJI Osmo Pocket 3 featuring detailed shot-by-shot gimbal and street scenes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100821608911048833",
+    "canonicalUrl": "https://x.com/Urwa_345/status/2100821608911048833",
+    "author": {
+      "username": "Urwa_345",
+      "displayName": "𝐔𝐫𝐰𝐚 𝐀𝐈",
+      "profileUrl": "https://x.com/Urwa_345"
+    },
+    "publishedAt": "2026-09-18T05:37:57.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "en",
+    "originalText": "“Pocket-sized camera. Big-screen moments. 🎥✨\n\nPrompt 👇 \n\nCreate a cinematic 8-second premium advertisement for the authentic DJI Osmo Pocket 3, vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the DJI Osmo Pocket 3 standing on a modern desk, touchscreen glowing softly.\n\n2–4 sec: Macro camera movement around the lens and gimbal mechanism, showcasing the compact premium design.\n\n4–7 sec: Smooth transition to a creator holding the camera while filming a beautiful city street during golden hour, realistic handheld movement.\n\n7–9 sec: Transition to the camera mounted on a small tripod overlooking a mountain landscape at sunset.\n\n9–10 sec: Final hero shot of the DJI Osmo Pocket 3, slow cinematic orbit with the screen and camera lens clearly visible.\n\nPhotorealistic professional camera commercial, realistic gimbal movement, smooth transitions, cinematic depth of field, premium technology advertising, authentic product design, natural lighting, highly detailed, no text overlays, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Urwa_345/status/2100821608911048833",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100820794846908416/img/wbhVYBASBZqxbqdO.jpg",
+        "analysisUrl": "https://x.com/Urwa_345/status/2100821608911048833"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSeeG9_bgAAuJA8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSeeG9_bgAAuJA8.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 57,
+      "repostCount": 5,
+      "replyCount": 6,
+      "quoteCount": 2,
+      "viewCount": 35185
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Urwa_345/status/2100821608911048833",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100820794846908416/img/wbhVYBASBZqxbqdO.jpg",
+  "coverPath": "covers/2100821608911048833.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100820794846908416",
+    "x-image:/media/HSeeG9_bgAAuJA8",
+    "x-post:2100821608911048833"
+  ],
+  "analysis": {
+    "summary": "Cinematic vertical product commercial prompt for DJI Osmo Pocket 3 featuring detailed shot-by-shot gimbal and street scenes.",
+    "summaryEn": "Cinematic vertical product commercial prompt for DJI Osmo Pocket 3 featuring detailed shot-by-shot gimbal and street scenes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached video matches the prompt's sequence: desk push-in, macro gimbal shot, golden hour street walk, and cliff sunset shot."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a cinematic 8-second premium advertisement for the authentic DJI Osmo Pocket 3, vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the DJI Osmo Pocket 3 standing on a modern desk, touchscreen glowing softly.\n\n2–4 sec: Macro camera movement around the lens and gimbal mechanism, showcasing the compact premium design.\n\n4–7 sec: Smooth transition to a creator holding the camera while filming a beautiful city street during golden hour, realistic handheld movement.\n\n7–9 sec: Transition to the camera mounted on a small tripod overlooking a mountain landscape at sunset.\n\n9–10 sec: Final hero shot of the DJI Osmo Pocket 3, slow cinematic orbit with the screen and camera lens clearly visible.\n\nPhotorealistic professional camera commercial, realistic gimbal movement, smooth transitions, cinematic depth of field, premium technology advertising, authentic product design, natural lighting, highly detailed, no text overlays, no watermark.",
+    "sourceRange": {
+      "start": 57,
+      "end": 1009
+    },
+    "translations": {
+      "zh": "为正品大疆 Osmo Pocket 3 创作一段电影级8秒高端广告，竖屏 9:16 规格。\n\n0–2秒：慢镜头推进至现代办公桌上的 Pocket 3，触摸屏泛着柔光。\n\n2–4秒：镜头围绕云台镜头微距旋转，展示小巧高端机身。\n\n4–7秒：平滑过渡至创作者在黄昏街头手持拍摄的逼真手持运镜。\n\n7–9秒：过渡至相机架在小三脚架上俯瞰落日山景。\n\n9–10秒：Pocket 3 终极主角镜头，慢速电影级环绕运镜，屏幕与镜头清晰可见。\n\n逼真商业广告级画质，真实云台运镜，平滑转场，电影级景深，自然光影，高细节，无文字水印。",
+      "en": "Create a cinematic 8-second premium advertisement for the authentic DJI Osmo Pocket 3, vertical 9:16 format.\n\n0–2 sec: Slow camera push-in toward the DJI Osmo Pocket 3 standing on a modern desk, touchscreen glowing softly.\n\n2–4 sec: Macro camera movement around the lens and gimbal mechanism, showcasing the compact premium design.\n\n4–7 sec: Smooth transition to a creator holding the camera while filming a beautiful city street during golden hour, realistic handheld movement.\n\n7–9 sec: Transition to the camera mounted on a small tripod overlooking a mountain landscape at sunset.\n\n9–10 sec: Final hero shot of the DJI Osmo Pocket 3, slow cinematic orbit with the screen and camera lens clearly visible.\n\nPhotorealistic professional camera commercial, realistic gimbal movement, smooth transitions, cinematic depth of field, premium technology advertising, authentic product design, natural lighting, highly detailed, no text overlays, no watermark."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "DJI Osmo Pocket 3"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

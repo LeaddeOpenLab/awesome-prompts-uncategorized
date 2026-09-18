@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:29:40.202Z",
+  "model": "unknown-video",
+  "prompt": "UNIVERSAL MOTORCYCLE → HERO ROBOT\nTRANSFORMATION CHARACTER SHEET MASTER PROMPT\n\nAnalyze the provided motorcycle photograph carefully and use the motorcycle itself as the absolute visual reference.\n\nDo not assume a motorcycle model, color palette, body style, or mechanical configuration in advance.\n\nFIRST, visually analyze the actual motorcycle shown in the uploaded photograph.\n\nAutomatically identify and preserve its most recognizable visual characteristics, including:\n\nmotorcycle type and overall silhouette,\nbody proportions,\nprimary and secondary colors,\npainted body panels,\nfront and rear wheels,\nwheel size and thickness,\ntires,\nwheel rims,\nfront fork,\nrear suspension,\nengine or motor components,\nexhaust system,\nframe,\nfuel tank or central body structure,\nseat shape and material,\nhandlebars,\nmirrors,\nheadlight,\ntail light,\nturn signals,\nfront and rear fenders,\ncargo box or luggage equipment if present,\nwindscreen if present,\nfootboard or foot pegs,\nexposed cables,\nmechanical joints,\ndecals and graphic placement,\nsurface scratches,\npaint wear,\n dust,\naged materials,\nand other distinctive physical details visible in the reference.\n\nThe final robot must clearly retain the visual DNA of THIS EXACT MOTORCYCLE.\n\nA viewer should immediately think:\n\n\"That robot was transformed from that motorcycle.\"\n\n==================================================\nCHARACTER SHEET CONCEPT\n==================================================\n\nCreate a cinematic transformation character sheet showing ONE motorcycle gradually transforming into ONE humanoid heroic robot.\n\nShow the transformation as a clear physical progression:\n\nSTAGE 1:\nOriginal motorcycle.\n\nThe motorcycle remains almost completely unchanged and clearly recognizable.\n\nSTAGE 2:\nEarly mechanical activation.\n\nSmall body panels separate slightly.\n\nMechanical locks release.\n\nSuspension components shift.\n\nInternal mechanical structures become visible.\n\nThe motorcycle must still remain approximately 80–90% recognizable.\n\nSTAGE 3:\nIntermediate transformation.\n\nThe wheels reposition naturally.\n\nThe chassis begins extending.\n\nExisting motorcycle components rotate, unfold, slide and reconnect.\n\nThe beginnings of humanoid legs, torso and arms become visible.\n\nThe motorcycle remains approximately 50–70% recognizable.\n\nSTAGE 4:\nAdvanced transformation.\n\nThe original motorcycle body panels become armor.\n\nWheels integrate naturally into the robot anatomy.\n\nThe exhaust becomes a recognizable mechanical armor component.\n\nHandlebars, mirrors, lights, suspension, frame, seat, cargo equipment and other visible motorcycle components are redistributed logically across the robot.\n\nThe humanoid silhouette becomes dominant.\n\nSTAGE 5:\nCOMPLETE HERO ROBOT.\n\nA magnificent full-body mechanical hero created entirely from the visual identity of the original motorcycle.\n\n==================================================\nTRANSFORMATION PHYSICS\n==================================================\n\nThe transformation must look mechanically believable.\n\nEvery major motorcycle component should have a logical destination on the final robot.\n\nParts rotate around realistic hinges.\n\nPanels slide along mechanical rails.\n\nFrames extend through telescoping structures.\n\nSuspension components become functional mechanical joints.\n\nExisting motorcycle components become armor rather than disappearing.\n\nWheels remain physically recognizable.\n\nThe exhaust remains recognizable.\n\nThe original painted panels remain recognizable.\n\nDistinctive motorcycle accessories remain recognizable whenever physically possible.\n\nNO instant morphing.\n\nNO liquid-metal transformation.\n\nNO magical replacement.\n\nNO random teleporting parts.\n\nNO unexplained disappearance of major motorcycle components.\n\nNO generic robot replacing the motorcycle.\n\nThe transformation should feel slow, heavy, deliberate and physically connected.",
+  "promptTranslations": {
+    "en": "UNIVERSAL MOTORCYCLE → HERO ROBOT\nTRANSFORMATION CHARACTER SHEET MASTER PROMPT\n\nAnalyze the provided motorcycle photograph carefully and use the motorcycle itself as the absolute visual reference.\n\nDo not assume a motorcycle model, color palette, body style, or mechanical configuration in advance.\n\nFIRST, visually analyze the actual motorcycle shown in the uploaded photograph.\n\nAutomatically identify and preserve its most recognizable visual characteristics, including:\n\nmotorcycle type and overall silhouette,\nbody proportions,\nprimary and secondary colors,\npainted body panels,\nfront and rear wheels,\nwheel size and thickness,\ntires,\nwheel rims,\nfront fork,\nrear suspension,\nengine or motor components,\nexhaust system,\nframe,\nfuel tank or central body structure,\nseat shape and material,\nhandlebars,\nmirrors,\nheadlight,\ntail light,\nturn signals,\nfront and rear fenders,\ncargo box or luggage equipment if present,\nwindscreen if present,\nfootboard or foot pegs,\nexposed cables,\nmechanical joints,\ndecals and graphic placement,\nsurface scratches,\npaint wear,\n dust,\naged materials,\nand other distinctive physical details visible in the reference.\n\nThe final robot must clearly retain the visual DNA of THIS EXACT MOTORCYCLE.\n\nA viewer should immediately think:\n\n\"That robot was transformed from that motorcycle.\"\n\n==================================================\nCHARACTER SHEET CONCEPT\n==================================================\n\nCreate a cinematic transformation character sheet showing ONE motorcycle gradually transforming into ONE humanoid heroic robot.\n\nShow the transformation as a clear physical progression:\n\nSTAGE 1:\nOriginal motorcycle.\n\nThe motorcycle remains almost completely unchanged and clearly recognizable.\n\nSTAGE 2:\nEarly mechanical activation.\n\nSmall body panels separate slightly.\n\nMechanical locks release.\n\nSuspension components shift.\n\nInternal mechanical structures become visible.\n\nThe motorcycle must still remain approximately 80–90% recognizable.\n\nSTAGE 3:\nIntermediate transformation.\n\nThe wheels reposition naturally.\n\nThe chassis begins extending.\n\nExisting motorcycle components rotate, unfold, slide and reconnect.\n\nThe beginnings of humanoid legs, torso and arms become visible.\n\nThe motorcycle remains approximately 50–70% recognizable.\n\nSTAGE 4:\nAdvanced transformation.\n\nThe original motorcycle body panels become armor.\n\nWheels integrate naturally into the robot anatomy.\n\nThe exhaust becomes a recognizable mechanical armor component.\n\nHandlebars, mirrors, lights, suspension, frame, seat, cargo equipment and other visible motorcycle components are redistributed logically across the robot.\n\nThe humanoid silhouette becomes dominant.\n\nSTAGE 5:\nCOMPLETE HERO ROBOT.\n\nA magnificent full-body mechanical hero created entirely from the visual identity of the original motorcycle.\n\n==================================================\nTRANSFORMATION PHYSICS\n==================================================\n\nThe transformation must look mechanically believable.\n\nEvery major motorcycle component should have a logical destination on the final robot.\n\nParts rotate around realistic hinges.\n\nPanels slide along mechanical rails.\n\nFrames extend through telescoping structures.\n\nSuspension components become functional mechanical joints.\n\nExisting motorcycle components become armor rather than disappearing.\n\nWheels remain physically recognizable.\n\nThe exhaust remains recognizable.\n\nThe original painted panels remain recognizable.\n\nDistinctive motorcycle accessories remain recognizable whenever physically possible.\n\nNO instant morphing.\n\nNO liquid-metal transformation.\n\nNO magical replacement.\n\nNO random teleporting parts.\n\nNO unexplained disappearance of major motorcycle components.\n\nNO generic robot replacing the motorcycle.\n\nThe transformation should feel slow, heavy, deliberate and physically connected."
+  },
+  "summaryTranslations": {
+    "en": "Master prompt for generating a character sheet showing a photo-referenced motorcycle logically transforming into a humanoid hero robot across progressive stages."
+  },
+  "translationVersion": 2,
+  "summary": "Master prompt for generating a character sheet showing a photo-referenced motorcycle logically transforming into a humanoid hero robot across progressive stages.",
+  "summaryEn": "Master prompt for generating a character sheet showing a photo-referenced motorcycle logically transforming into a humanoid hero robot across progressive stages.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100716874048971156",
+    "canonicalUrl": "https://x.com/er1029iu/status/2100716874048971156",
+    "author": {
+      "username": "er1029iu",
+      "displayName": "프로스",
+      "profileUrl": "https://x.com/er1029iu"
+    },
+    "publishedAt": "2026-09-17T22:41:46.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "ko",
+    "originalText": "엑친님들 모닝이예요😍\n첨부한 사진처럼 로봇을 만들어주는 프롬프트 공유해요!\n\n저처럼 로봇 좋아하는 엑친님 있나요ㅎ\n\n이미지 제작\n\n1\n\nUNIVERSAL MOTORCYCLE → HERO ROBOT\nTRANSFORMATION CHARACTER SHEET MASTER PROMPT\n\nAnalyze the provided motorcycle photograph carefully and use the motorcycle itself as the absolute visual reference.\n\nDo not assume a motorcycle model, color palette, body style, or mechanical configuration in advance.\n\nFIRST, visually analyze the actual motorcycle shown in the uploaded photograph.\n\nAutomatically identify and preserve its most recognizable visual characteristics, including:\n\nmotorcycle type and overall silhouette,\nbody proportions,\nprimary and secondary colors,\npainted body panels,\nfront and rear wheels,\nwheel size and thickness,\ntires,\nwheel rims,\nfront fork,\nrear suspension,\nengine or motor components,\nexhaust system,\nframe,\nfuel tank or central body structure,\nseat shape and material,\nhandlebars,\nmirrors,\nheadlight,\ntail light,\nturn signals,\nfront and rear fenders,\ncargo box or luggage equipment if present,\nwindscreen if present,\nfootboard or foot pegs,\nexposed cables,\nmechanical joints,\ndecals and graphic placement,\nsurface scratches,\npaint wear,\n dust,\naged materials,\nand other distinctive physical details visible in the reference.\n\nThe final robot must clearly retain the visual DNA of THIS EXACT MOTORCYCLE.\n\nA viewer should immediately think:\n\n\"That robot was transformed from that motorcycle.\"\n\n==================================================\nCHARACTER SHEET CONCEPT\n==================================================\n\nCreate a cinematic transformation character sheet showing ONE motorcycle gradually transforming into ONE humanoid heroic robot.\n\nShow the transformation as a clear physical progression:\n\nSTAGE 1:\nOriginal motorcycle.\n\nThe motorcycle remains almost completely unchanged and clearly recognizable.\n\nSTAGE 2:\nEarly mechanical activation.\n\nSmall body panels separate slightly.\n\nMechanical locks release.\n\nSuspension components shift.\n\nInternal mechanical structures become visible.\n\nThe motorcycle must still remain approximately 80–90% recognizable.\n\nSTAGE 3:\nIntermediate transformation.\n\nThe wheels reposition naturally.\n\nThe chassis begins extending.\n\nExisting motorcycle components rotate, unfold, slide and reconnect.\n\nThe beginnings of humanoid legs, torso and arms become visible.\n\nThe motorcycle remains approximately 50–70% recognizable.\n\nSTAGE 4:\nAdvanced transformation.\n\nThe original motorcycle body panels become armor.\n\nWheels integrate naturally into the robot anatomy.\n\nThe exhaust becomes a recognizable mechanical armor component.\n\nHandlebars, mirrors, lights, suspension, frame, seat, cargo equipment and other visible motorcycle components are redistributed logically across the robot.\n\nThe humanoid silhouette becomes dominant.\n\nSTAGE 5:\nCOMPLETE HERO ROBOT.\n\nA magnificent full-body mechanical hero created entirely from the visual identity of the original motorcycle.\n\n==================================================\nTRANSFORMATION PHYSICS\n==================================================\n\nThe transformation must look mechanically believable.\n\nEvery major motorcycle component should have a logical destination on the final robot.\n\nParts rotate around realistic hinges.\n\nPanels slide along mechanical rails.\n\nFrames extend through telescoping structures.\n\nSuspension components become functional mechanical joints.\n\nExisting motorcycle components become armor rather than disappearing.\n\nWheels remain physically recognizable.\n\nThe exhaust remains recognizable.\n\nThe original painted panels remain recognizable.\n\nDistinctive motorcycle accessories remain recognizable whenever physically possible.\n\nNO instant morphing.\n\nNO liquid-metal transformation.\n\nNO magical replacement.\n\nNO random teleporting parts.\n\nNO unexplained disappearance of major motorcycle components.\n\nNO generic robot replacing the motorcycle.\n\nThe transformation should feel slow, heavy, deliberate and physically connected.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSc-1ASbwAAN0ol.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSc-1ASbwAAN0ol.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSc-1n9agAAoEX-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSc-1n9agAAoEX-.jpg"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/er1029iu/status/2100716874048971156",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100716849872945152/img/8G6W1XAfyrtuTays.jpg",
+        "analysisUrl": "https://x.com/er1029iu/status/2100716874048971156"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 78
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/er1029iu/status/2100716874048971156",
+  "coverUrl": "https://pbs.twimg.com/media/HSc-1ASbwAAN0ol.jpg",
+  "coverPath": "covers/2100716874048971156.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-image:/media/HSc-1ASbwAAN0ol",
+    "x-image:/media/HSc-1n9agAAoEX-",
+    "x-video:2100716849872945152",
+    "x-post:2100716874048971156"
+  ],
+  "analysis": {
+    "summary": "Master prompt for generating a character sheet showing a photo-referenced motorcycle logically transforming into a humanoid hero robot across progressive stages.",
+    "summaryEn": "Master prompt for generating a character sheet showing a photo-referenced motorcycle logically transforming into a humanoid hero robot across progressive stages.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached 9-panel transformation sheet faithfully follows the multi-stage transformation logic and physical mechanical elements derived from the reference scooter photo."
+    },
+    "videoQuality": null,
+    "originalPrompt": "UNIVERSAL MOTORCYCLE → HERO ROBOT\nTRANSFORMATION CHARACTER SHEET MASTER PROMPT\n\nAnalyze the provided motorcycle photograph carefully and use the motorcycle itself as the absolute visual reference.\n\nDo not assume a motorcycle model, color palette, body style, or mechanical configuration in advance.\n\nFIRST, visually analyze the actual motorcycle shown in the uploaded photograph.\n\nAutomatically identify and preserve its most recognizable visual characteristics, including:\n\nmotorcycle type and overall silhouette,\nbody proportions,\nprimary and secondary colors,\npainted body panels,\nfront and rear wheels,\nwheel size and thickness,\ntires,\nwheel rims,\nfront fork,\nrear suspension,\nengine or motor components,\nexhaust system,\nframe,\nfuel tank or central body structure,\nseat shape and material,\nhandlebars,\nmirrors,\nheadlight,\ntail light,\nturn signals,\nfront and rear fenders,\ncargo box or luggage equipment if present,\nwindscreen if present,\nfootboard or foot pegs,\nexposed cables,\nmechanical joints,\ndecals and graphic placement,\nsurface scratches,\npaint wear,\n dust,\naged materials,\nand other distinctive physical details visible in the reference.\n\nThe final robot must clearly retain the visual DNA of THIS EXACT MOTORCYCLE.\n\nA viewer should immediately think:\n\n\"That robot was transformed from that motorcycle.\"\n\n==================================================\nCHARACTER SHEET CONCEPT\n==================================================\n\nCreate a cinematic transformation character sheet showing ONE motorcycle gradually transforming into ONE humanoid heroic robot.\n\nShow the transformation as a clear physical progression:\n\nSTAGE 1:\nOriginal motorcycle.\n\nThe motorcycle remains almost completely unchanged and clearly recognizable.\n\nSTAGE 2:\nEarly mechanical activation.\n\nSmall body panels separate slightly.\n\nMechanical locks release.\n\nSuspension components shift.\n\nInternal mechanical structures become visible.\n\nThe motorcycle must still remain approximately 80–90% recognizable.\n\nSTAGE 3:\nIntermediate transformation.\n\nThe wheels reposition naturally.\n\nThe chassis begins extending.\n\nExisting motorcycle components rotate, unfold, slide and reconnect.\n\nThe beginnings of humanoid legs, torso and arms become visible.\n\nThe motorcycle remains approximately 50–70% recognizable.\n\nSTAGE 4:\nAdvanced transformation.\n\nThe original motorcycle body panels become armor.\n\nWheels integrate naturally into the robot anatomy.\n\nThe exhaust becomes a recognizable mechanical armor component.\n\nHandlebars, mirrors, lights, suspension, frame, seat, cargo equipment and other visible motorcycle components are redistributed logically across the robot.\n\nThe humanoid silhouette becomes dominant.\n\nSTAGE 5:\nCOMPLETE HERO ROBOT.\n\nA magnificent full-body mechanical hero created entirely from the visual identity of the original motorcycle.\n\n==================================================\nTRANSFORMATION PHYSICS\n==================================================\n\nThe transformation must look mechanically believable.\n\nEvery major motorcycle component should have a logical destination on the final robot.\n\nParts rotate around realistic hinges.\n\nPanels slide along mechanical rails.\n\nFrames extend through telescoping structures.\n\nSuspension components become functional mechanical joints.\n\nExisting motorcycle components become armor rather than disappearing.\n\nWheels remain physically recognizable.\n\nThe exhaust remains recognizable.\n\nThe original painted panels remain recognizable.\n\nDistinctive motorcycle accessories remain recognizable whenever physically possible.\n\nNO instant morphing.\n\nNO liquid-metal transformation.\n\nNO magical replacement.\n\nNO random teleporting parts.\n\nNO unexplained disappearance of major motorcycle components.\n\nNO generic robot replacing the motorcycle.\n\nThe transformation should feel slow, heavy, deliberate and physically connected.",
+    "sourceRange": {
+      "start": 76,
+      "end": 3939
+    },
+    "translations": {
+      "zh": "通用摩托车 → 英雄机器人变形角色设定表核心提示词。请仔细分析所提供的摩托车照片，并将其实体作为绝对视觉参考。不要预先设定摩托车款式、配色、结构，精确提取车体轮廓、配件、磨损及颜色细节。最终机器人必须完全继承该摩托车的视觉基因。创建电影级连续变形设定表，分5个阶段逐步展示摩托车从原始状态、机械激活、结构展开、机甲重构到最终完全体人形机器人的机械变形全过程，注重物理机械铰链与构件逻辑性，严禁瞬间形变或魔法替换。",
+      "en": "Universal motorcycle to hero robot transformation character sheet master prompt. Analyzes the provided motorcycle photo as a strict visual reference to retain its colors, parts, and wear. It outlines a five-stage realistic mechanical transformation process progressing from the original bike into a fully formed humanoid hero robot with logical physical mechanics."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "character-design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

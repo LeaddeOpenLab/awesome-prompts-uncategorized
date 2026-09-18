@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:29:23.520Z",
+  "model": "unknown-image",
+  "prompt": "iPhone相册截图 × 教师的规矩的外壳 ×已经失控的局部 ×教师证永远没摘",
+  "promptTranslations": {
+    "en": "iPhone photo album screenshot × a teacher's well-behaved exterior × sections that are already out of control × the teacher's ID badge never taken off"
+  },
+  "summaryTranslations": {
+    "en": "Prompt for a female teacher's daily contrast image in the form of an iPhone photo album grid screenshot"
+  },
+  "translationVersion": 2,
+  "summary": "iPhone相册网格截图形式的女教师日常反差图提示词",
+  "summaryEn": "Prompt for generating iPhone gallery screenshots depicting a female teacher's contrasting daily life",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100213110791389581",
+      "canonicalUrl": "https://x.com/boniusex/status/2100213110791389581",
+      "author": {
+        "username": "boniusex",
+        "displayName": "王大锤",
+        "profileUrl": "https://x.com/boniusex"
+      },
+      "originalText": "不要问我人生建议 了\n在你该喝酒的年纪，\n千万别说你只喝绿茶\n\nprompt：写实夜生活摄影，9:16 竖幅，豪华商务 KTV 私人包厢，女主坐在沙发前沿，身体微微前倾，正在和一位成年男性客人玩大话骰，桌上散落骰盅和酒杯，她一边笑一边伸手指向骰盅，表情俏皮又微醺，周围还有其他模糊人影，近距离抓拍，直闪效果，真实热闹。"
+    },
+    "id": "2100509464021664158",
+    "canonicalUrl": "https://x.com/boniusex/status/2100509464021664158",
+    "author": {
+      "username": "boniusex",
+      "displayName": "王大锤",
+      "profileUrl": "https://x.com/boniusex"
+    },
+    "publishedAt": "2026-09-17T08:57:36.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "zh",
+    "originalText": "教师日常拍摄🎬\n\nprompt:\n\niPhone相册截图 × 教师的规矩的外壳 ×已经失控的局部 ×教师证永远没摘 https://t.co/4dkci0Uo4P",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSaAocobAAA4ao2.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSaAocobAAA4ao2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSaCNThaQAA3nlH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSaCNThaQAA3nlH.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVkbGZboAAdpoN.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVkbGZboAAdpoN.jpg",
+        "sourcePostId": "2100213110791389581"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVkdGaaEAEvLTT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVkdGaaEAEvLTT.jpg",
+        "sourcePostId": "2100213110791389581"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVkgF1asAAcTNz.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVkgF1asAAcTNz.jpg",
+        "sourcePostId": "2100213110791389581"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSVkjCWbMAEGVhb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSVkjCWbMAEGVhb.jpg",
+        "sourcePostId": "2100213110791389581"
+      }
+    ],
+    "metrics": {
+      "likeCount": 46,
+      "repostCount": 1,
+      "replyCount": 25,
+      "quoteCount": 2,
+      "viewCount": 25262
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/boniusex/status/2100509464021664158",
+  "coverUrl": "https://pbs.twimg.com/media/HSaAocobAAA4ao2.jpg",
+  "coverPath": "images/2100509464021664158-1.jpg",
+  "imagePaths": [
+    "images/2100509464021664158-1.jpg",
+    "images/2100509464021664158-2.jpg",
+    "images/2100509464021664158-3.jpg",
+    "images/2100509464021664158-4.jpg",
+    "images/2100509464021664158-5.jpg",
+    "images/2100509464021664158-6.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSaAocobAAA4ao2",
+    "x-image:/media/HSaCNThaQAA3nlH",
+    "x-image:/media/HSVkbGZboAAdpoN",
+    "x-image:/media/HSVkdGaaEAEvLTT",
+    "x-image:/media/HSVkgF1asAAcTNz",
+    "x-image:/media/HSVkjCWbMAEGVhb",
+    "x-post:2100509464021664158",
+    "x-post:2100213110791389581"
+  ],
+  "analysis": {
+    "summary": "iPhone相册网格截图形式的女教师日常反差图提示词",
+    "summaryEn": "Prompt for generating iPhone gallery screenshots depicting a female teacher's contrasting daily life",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片1和2呈现了iPhone相册界面截图，网格内人物均佩戴教师证，直观展现了规范外壳与失控日常的反差，与提示词高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "iPhone相册截图 × 教师的规矩的外壳 ×已经失控的局部 ×教师证永远没摘",
+    "sourceRange": {
+      "start": 18,
+      "end": 57
+    },
+    "translations": {
+      "zh": "iPhone相册截图 × 教师的规矩的外壳 ×已经失控的局部 ×教师证永远没摘",
+      "en": "iPhone photo album screenshot × Teacher's disciplined exterior × Out-of-control moments × Teacher ID badge never taken off"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "生成iPhone相册网格风格的反差日常照片",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

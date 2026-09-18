@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:29:16.831Z",
+  "model": "unknown-image",
+  "prompt": "Create a highly realistic vertical travel photograph of an adult man standing in front of a massive tropical waterfall surrounded by dense green rainforest and rugged moss-covered cliffs.\n\nUse a dramatic low-angle, full-body composition, making the subject appear tall while the towering waterfall rises directly behind him. He stands confidently on a grassy, rocky trail, looking slightly down toward the camera with a calm expression.\n\nDress him in a dark charcoal fitted hiking T-shirt, beige cargo hiking shorts, rugged brown/grey trail shoes, a black backpack, and a simple black wristwatch. Keep the styling practical, natural, and adventurous.\n\nPose him with one hand holding the backpack strap while the other hand is raised casually in front of his chest making a small finger-heart gesture.\n\nThe background should feature a spectacular tall waterfall plunging from a steep cliff, with several smaller streams flowing down the surrounding rock walls. Include thick tropical vegetation, vines, wet rocks, mist from the waterfall, bright green grass in the foreground, and a partly cloudy blue sky above.\n\nUse bright natural daylight, realistic skin texture, authentic outdoor colors, subtle atmospheric mist, detailed vegetation, realistic water movement, natural shadows, and crisp photographic detail.\n\nShot from very close to ground level with an ultra-wide 24–28mm smartphone-style lens, creating strong foreground perspective while keeping the waterfall clearly visible.\n\nStyle: realistic adventure photography, tropical hiking expedition, candid travel photo, natural lighting, high dynamic range, sharp details, authentic smartphone photography, cinematic but not over-edited.\n\nAspect ratio: 9:16 vertical.",
+  "promptTranslations": {
+    "en": "Create a highly realistic vertical travel photograph of an adult man standing in front of a massive tropical waterfall surrounded by dense green rainforest and rugged moss-covered cliffs.\\n\\nUse a dramatic low-angle, full-body composition, making the subject appear tall while the towering waterfall rises directly behind him. He stands confidently on a grassy, rocky trail, looking slightly down toward the camera with a calm expression.\\n\\nDress him in a dark charcoal fitted hiking T-shirt, beige cargo hiking shorts, rugged brown/grey trail shoes, a black backpack, and a simple black wristwatch. Keep the styling practical, natural, and adventurous.\\n\\nPose him with one hand holding the backpack strap while the other hand is raised casually in front of his chest making a small finger-heart gesture.\\n\\nThe background should feature a spectacular tall waterfall plunging from a steep cliff, with several smaller streams flowing down the surrounding rock walls. Include thick tropical vegetation, vines, wet rocks, mist from the waterfall, bright green grass in the foreground, and a partly cloudy blue sky above.\\n\\nUse bright natural daylight, realistic skin texture, authentic outdoor colors, subtle atmospheric mist, detailed vegetation, realistic water movement, natural shadows, and crisp photographic detail.\\n\\nShot from very close to ground level with an ultra-wide 24–28mm smartphone-style lens, creating strong foreground perspective while keeping the waterfall clearly visible.\\n\\nStyle: realistic adventure photography, tropical hiking expedition, candid travel photo, natural lighting, high dynamic range, sharp details, authentic smartphone photography, cinematic but not over-edited.\\n\\nAspect ratio: 9:16 vertical."
+  },
+  "summaryTranslations": {
+    "en": "Realistic travel photo of a hiker making a finger-heart gesture before a tall tropical waterfall."
+  },
+  "translationVersion": 2,
+  "summary": "Realistic travel photo of a hiker making a finger-heart gesture before a tall tropical waterfall.",
+  "summaryEn": "Realistic travel photo of a hiker making a finger-heart gesture before a tall tropical waterfall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100833209965494721",
+    "canonicalUrl": "https://x.com/abs_uiux/status/2100833209965494721",
+    "author": {
+      "username": "abs_uiux",
+      "displayName": "Abkr Sadiq | AI",
+      "profileUrl": "https://x.com/abs_uiux"
+    },
+    "publishedAt": "2026-09-18T06:24:03.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "en",
+    "originalText": "Some views don’t need a filter. \n\nJust me, the trail, and a reminder that the world is way bigger than our daily problems.\n\nPrompt:\nAdd a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.\n\nPrompt:\n\nCreate a highly realistic vertical travel photograph of an adult man standing in front of a massive tropical waterfall surrounded by dense green rainforest and rugged moss-covered cliffs.\n\nUse a dramatic low-angle, full-body composition, making the subject appear tall while the towering waterfall rises directly behind him. He stands confidently on a grassy, rocky trail, looking slightly down toward the camera with a calm expression.\n\nDress him in a dark charcoal fitted hiking T-shirt, beige cargo hiking shorts, rugged brown/grey trail shoes, a black backpack, and a simple black wristwatch. Keep the styling practical, natural, and adventurous.\n\nPose him with one hand holding the backpack strap while the other hand is raised casually in front of his chest making a small finger-heart gesture.\n\nThe background should feature a spectacular tall waterfall plunging from a steep cliff, with several smaller streams flowing down the surrounding rock walls. Include thick tropical vegetation, vines, wet rocks, mist from the waterfall, bright green grass in the foreground, and a partly cloudy blue sky above.\n\nUse bright natural daylight, realistic skin texture, authentic outdoor colors, subtle atmospheric mist, detailed vegetation, realistic water movement, natural shadows, and crisp photographic detail.\n\nShot from very close to ground level with an ultra-wide 24–28mm smartphone-style lens, creating strong foreground perspective while keeping the waterfall clearly visible.\n\nStyle: realistic adventure photography, tropical hiking expedition, candid travel photo, natural lighting, high dynamic range, sharp details, authentic smartphone photography, cinematic but not over-edited.\n\nAspect ratio: 9:16 vertical.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSeopsbXYAAdFoo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSeopsbXYAAdFoo.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 0,
+      "replyCount": 10,
+      "quoteCount": 0,
+      "viewCount": 565
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/abs_uiux/status/2100833209965494721",
+  "coverUrl": "https://pbs.twimg.com/media/HSeopsbXYAAdFoo.jpg",
+  "coverPath": "images/2100833209965494721-1.jpg",
+  "imagePaths": [
+    "images/2100833209965494721-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSeopsbXYAAdFoo",
+    "x-post:2100833209965494721"
+  ],
+  "analysis": {
+    "summary": "Realistic travel photo of a hiker making a finger-heart gesture before a tall tropical waterfall.",
+    "summaryEn": "Realistic travel photo of a hiker making a finger-heart gesture before a tall tropical waterfall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image accurately matches subject outfit, low-angle perspective, finger-heart pose, and waterfall background described in prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a highly realistic vertical travel photograph of an adult man standing in front of a massive tropical waterfall surrounded by dense green rainforest and rugged moss-covered cliffs.\n\nUse a dramatic low-angle, full-body composition, making the subject appear tall while the towering waterfall rises directly behind him. He stands confidently on a grassy, rocky trail, looking slightly down toward the camera with a calm expression.\n\nDress him in a dark charcoal fitted hiking T-shirt, beige cargo hiking shorts, rugged brown/grey trail shoes, a black backpack, and a simple black wristwatch. Keep the styling practical, natural, and adventurous.\n\nPose him with one hand holding the backpack strap while the other hand is raised casually in front of his chest making a small finger-heart gesture.\n\nThe background should feature a spectacular tall waterfall plunging from a steep cliff, with several smaller streams flowing down the surrounding rock walls. Include thick tropical vegetation, vines, wet rocks, mist from the waterfall, bright green grass in the foreground, and a partly cloudy blue sky above.\n\nUse bright natural daylight, realistic skin texture, authentic outdoor colors, subtle atmospheric mist, detailed vegetation, realistic water movement, natural shadows, and crisp photographic detail.\n\nShot from very close to ground level with an ultra-wide 24–28mm smartphone-style lens, creating strong foreground perspective while keeping the waterfall clearly visible.\n\nStyle: realistic adventure photography, tropical hiking expedition, candid travel photo, natural lighting, high dynamic range, sharp details, authentic smartphone photography, cinematic but not over-edited.\n\nAspect ratio: 9:16 vertical.",
+    "sourceRange": {
+      "start": 313,
+      "end": 2034
+    },
+    "translations": {
+      "zh": "生成一张写实的竖版旅行照片：成年男子站在热带瀑布前，四周是茂密雨林与长满青苔的岩壁。采用低角度全身构图，瀑布高耸于身后。男子身穿深灰徒步T恤、卡其工装短裤与越野鞋，背黑色背包，一手抓背带，一手在胸前比心。背景展现从峭壁倾泻的瀑布、水雾与葱郁植被，自然日光，广角智能手机实拍质感。9:16竖版。",
+      "en": "Create a realistic vertical travel photo of an adult man before a massive tropical waterfall in a rainforest. Shot from a low angle, full-body perspective with the waterfall rising behind him. He wears a charcoal hiking t-shirt, khaki shorts, and a backpack, making a finger-heart gesture. Features lush greenery, natural daylight, smartphone camera aesthetic, and 9:16 aspect ratio."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "realistic travel photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

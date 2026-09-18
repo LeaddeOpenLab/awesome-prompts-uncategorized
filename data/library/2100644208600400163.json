@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:29:33.788Z",
+  "model": "grok",
+  "prompt": "Viaje al fondo del mar en estilo cinematográfico realista e hipnotizante.\n\nUn descenso suave y continuo desde la superficie soleada del océano hacia las profundidades abisales. La luz del sol se filtra en haces dorados y azules que se van desvaneciendo gradualmente. Bancos de peces plateados cruzan el encuadre, corales vibrantes, medusas luminosas y criaturas bioluminiscentes aparecen a medida que se gana profundidad. El agua se vuelve cada vez más oscura, profunda e infinita, con partículas flotantes y un ambiente de misterio y asombro.\n\nLa cámara avanza en un plano continuo y fluido, empujando suavemente hacia adelante y hacia abajo, creando una sensación de inmersión total y vértigo controlado. Iluminación realista con contraste dramático entre la luz que se pierde y los destellos bioluminiscentes.\n\nMúsica clásica orquestal majestuosa e intensa, con cuerdas profundas, metales y crescendos que evocan asombro y grandiosidad, sincronizada con el descenso.",
+  "promptTranslations": {
+    "en": "Journey to the bottom of the sea in a realistic and mesmerizing cinematic style.\n\nA smooth and continuous descent from the sunlit ocean surface into the abyssal depths. Sunlight filters through in golden and blue beams that gradually fade away. Schools of silver fish cross the frame, vibrant corals, luminous jellyfish, and bioluminescent creatures appear as depth is gained. The water becomes increasingly darker, deep, and infinite, with floating particles and an atmosphere of mystery and wonder.\n\nThe camera moves in a smooth, continuous shot, gently pushing forward and downward, creating a sense of total immersion and controlled vertigo. Realistic lighting with dramatic contrast between the fading light and bioluminescent flashes.\n\nMajestic and intense classical orchestral music, with deep strings, brass, and crescendos that evoke awe and grandeur, synchronized with the descent."
+  },
+  "summaryTranslations": {
+    "en": "Continuous underwater cinematic descent from the sunlit surface to the abyss with marine life and bioluminescent jellyfish."
+  },
+  "translationVersion": 2,
+  "summary": "Descenso cinematográfico submarino continuo desde la superficie soleada hasta el abismo con fauna y medusas bioluminiscentes.",
+  "summaryEn": "Continuous cinematic underwater descent from the sunlit surface into the dark abyss with marine life and bioluminescent jellyfish.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100644208600400163",
+    "canonicalUrl": "https://x.com/mys1111/status/2100644208600400163",
+    "author": {
+      "username": "mys1111",
+      "displayName": "MYS AI",
+      "profileUrl": "https://x.com/mys1111"
+    },
+    "publishedAt": "2026-09-17T17:53:02.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "es",
+    "originalText": "Prompt\n\nViaje al fondo del mar en estilo cinematográfico realista e hipnotizante.\n\nUn descenso suave y continuo desde la superficie soleada del océano hacia las profundidades abisales. La luz del sol se filtra en haces dorados y azules que se van desvaneciendo gradualmente. Bancos de peces plateados cruzan el encuadre, corales vibrantes, medusas luminosas y criaturas bioluminiscentes aparecen a medida que se gana profundidad. El agua se vuelve cada vez más oscura, profunda e infinita, con partículas flotantes y un ambiente de misterio y asombro.\n\nLa cámara avanza en un plano continuo y fluido, empujando suavemente hacia adelante y hacia abajo, creando una sensación de inmersión total y vértigo controlado. Iluminación realista con contraste dramático entre la luz que se pierde y los destellos bioluminiscentes.\n\nMúsica clásica orquestal majestuosa e intensa, con cuerdas profundas, metales y crescendos que evocan asombro y grandiosidad, sincronizada con el descenso.\n\n#GrokImagine #Ocean #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #PromptShare",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mys1111/status/2100644208600400163",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2100644159182790656/img/WV_SNJ_BkLyqCNP-.jpg",
+        "analysisUrl": "https://x.com/mys1111/status/2100644208600400163"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 48
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/mys1111/status/2100644208600400163",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2100644159182790656/img/WV_SNJ_BkLyqCNP-.jpg",
+  "coverPath": "covers/2100644208600400163.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2100644159182790656",
+    "x-post:2100644208600400163"
+  ],
+  "analysis": {
+    "summary": "Descenso cinematográfico submarino continuo desde la superficie soleada hasta el abismo con fauna y medusas bioluminiscentes.",
+    "summaryEn": "Continuous cinematic underwater descent from the sunlit surface into the dark abyss with marine life and bioluminescent jellyfish.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows the exact continuous descent from sunbeams and corals into dark depths with glowing jellyfish."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Viaje al fondo del mar en estilo cinematográfico realista e hipnotizante.\n\nUn descenso suave y continuo desde la superficie soleada del océano hacia las profundidades abisales. La luz del sol se filtra en haces dorados y azules que se van desvaneciendo gradualmente. Bancos de peces plateados cruzan el encuadre, corales vibrantes, medusas luminosas y criaturas bioluminiscentes aparecen a medida que se gana profundidad. El agua se vuelve cada vez más oscura, profunda e infinita, con partículas flotantes y un ambiente de misterio y asombro.\n\nLa cámara avanza en un plano continuo y fluido, empujando suavemente hacia adelante y hacia abajo, creando una sensación de inmersión total y vértigo controlado. Iluminación realista con contraste dramático entre la luz que se pierde y los destellos bioluminiscentes.\n\nMúsica clásica orquestal majestuosa e intensa, con cuerdas profundas, metales y crescendos que evocan asombro y grandiosidad, sincronizada con el descenso.",
+    "sourceRange": {
+      "start": 8,
+      "end": 977
+    },
+    "translations": {
+      "zh": "逼真且引人入胜的电影级海底之旅。从阳光明媚的海面平稳连续地下潜至深海。光线渐暗，鱼群、珊瑚、发光水母及生物随深度逐次显现。镜头连续下推，光影反差强烈，伴随雄壮的管弦乐。",
+      "en": "A realistic cinematic journey into the ocean depths, smoothly descending from the sunlit surface to the abyss with schools of fish, corals, and bioluminescent jellyfish under dramatic lighting."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic deep-sea descent",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:28:35.939Z",
+  "model": "unknown-image",
+  "prompt": "masterpiece, best quality, very aesthetic, detailed face, high contrast, smooth skin,\n1girl, solo, adult woman,\nvery long hair, purple hair, gradient hair, straight hair, hair between eyes, sidelocks,\nred eyes, blush, closed mouth, sulking, looking at viewer,\nblack headdress, frilled headwear, purple bow,\nstretching, arms up, armpits, elbow gloves, black gloves, lace-trimmed gloves,\nblack dress, strapless dress, shiny clothes, latex, corset, cleavage, large breasts,\npurple ascot, purple bow, waist bow,\nindoors, bedroom, window, daylight, plant, blurry background, depth of field,\nstuffed animal, stuffed rabbit,\nupper body, anime style",
+  "promptTranslations": {
+    "en": "masterpiece, best quality, very aesthetic, detailed face, high contrast, smooth skin,\n1girl, solo, adult woman,\nvery long hair, purple hair, gradient hair, straight hair, hair between eyes, sidelocks,\nred eyes, blush, closed mouth, sulking, looking at viewer,\nblack headdress, frilled headwear, purple bow,\nstretching, arms up, armpits, elbow gloves, black gloves, lace-trimmed gloves,\nblack dress, strapless dress, shiny clothes, latex, corset, cleavage, large breasts,\npurple ascot, purple bow, waist bow,\nindoors, bedroom, window, daylight, plant, blurry background, depth of field,\nstuffed animal, stuffed rabbit,\nupper body, anime style"
+  },
+  "summaryTranslations": {
+    "en": "High-definition anime upper body illustration prompt of a purple-haired, red-eyed female character stretching, featuring rich outfit and scene details."
+  },
+  "translationVersion": 2,
+  "summary": "紫发红瞳女性角色伸懒腰的高清动漫上半身插画提示词，包含丰富的服饰与场景细节。",
+  "summaryEn": "Prompt for an anime upper-body illustration of a purple-haired girl stretching in a strapless dress.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100855355928621063",
+    "canonicalUrl": "https://x.com/studio_yebisu/status/2100855355928621063",
+    "author": {
+      "username": "studio_yebisu",
+      "displayName": "StudioYebisu",
+      "profileUrl": "https://x.com/studio_yebisu"
+    },
+    "publishedAt": "2026-09-18T07:52:03.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "ja",
+    "originalText": "【紳士向けAI画像生成講座】\n～プロンプト編～\n紳士淑女の皆様。ごきげんよう。\n紳士向けのえっっっっっ画像を生成するための専門講座、第2回でございます。\n極めて真面目に解説していきます。\n\n前回の基礎編でStability MatrixとBaseModelを導入したところまで話しました。\n生成の為の準備、、、ですね。\n\n無事、お使いのPCで使えました！なんならAIが生成までやってくれた！等のお声が私の方にいくつか届いております。お役に立てましたようで、幸いです。\n未履修の方向けに第1回講座はリプライに貼っておきます。\n\nしかし、生成してみると分かりますが、デフォルトのまま特に何も考えずに生成すると\n【なんか…微妙】な画像が出てきます。\nここからが本番です。えっっっな画像の命運は、まずはプロンプトにかかっています。\n\nプロンプトとは、AIへの注文書ですね。\n「1girl, solo, long hair, …」みたいに、英語のカンマ区切りで要素を並べていきます。\n\n例えるなら\n・どんな子か（髪色、目、容姿）\n・どんな服か（布の少なさは紳士の嗜みで）\n・どんな構図か（アップ、全身、振り返り）\n・どんな場所か（ベッド、教室、プール）\n・どんな表情か（笑顔、真顔、照れ顔\nこのような情報をBaseModelに与えることで、生成時のノイズの重みをControlするということです。\n\nまず実感していただくため、実験をしました。\n同じモデル(MiaoMiao Harem系のAnima 2.9B)。同じSeed。SamplerもStepsもCFGも全部同じ。\n違うのはプロンプトだけです。\n\n一枚目。プロンプトが【1girl, bunnygirl】だけの場合。\n普通のバニーちゃんが来ました。かわいい。健全。むしろ絵として悪くない。\n\n二枚目。こちらは要素をガッツリ書いた場合。\n今回は解説ですので、SFW範囲で生成してますが2枚目の方が、、どうでしょう？色気があるとは思いませんでしょうか？\n\nでは本題。注文書の書き方です。\nプロンプトとは、AIへの注文書。英語のカンマ区切りで要素を並べていきます。まずは二枚目の注文書、丸ごと公開します。\n\n```\nmasterpiece, best quality, very aesthetic, detailed face, high contrast, smooth skin,\n1girl, solo, adult woman,\nvery long hair, purple hair, gradient hair, straight hair, hair between eyes, sidelocks,\nred eyes, blush, closed mouth, sulking, looking at viewer,\nblack headdress, frilled headwear, purple bow,\nstretching, arms up, armpits, elbow gloves, black gloves, lace-trimmed gloves,\nblack dress, strapless dress, shiny clothes, latex, corset, cleavage, large breasts,\npurple ascot, purple bow, waist bow,\nindoors, bedroom, window, daylight, plant, blurry background, depth of field,\nstuffed animal, stuffed rabbit,\nupper body, anime style\n```\n\n長い。しかしこいつは適当に並べたんじゃありません。部位ごとにブロック分けされています。解剖します\n。\nこのプロンプトの概念を正しく理解することは皆様の今後の紳士ライフに多大な影響を与えるので少し長くなりますが、お付き合いください。\n\n【1. 品質タグと画風アンカー】\n'masterpiece, best quality, very aesthetic, detailed face, high contrast, smooth skin,'\n冒頭の挨拶ブロック。「良い絵で頼むぞ」の合図です。\n実はこれ、侮れません。弱く効かせれば挨拶程度ですが、強く効かせるとモデルの「高詳細モード」が起動します。今回はハイコントラスト、きれいな肌。も入れてます。\n\n【2. 人物の指定】\n`1girl, solo, adult woman, very long hair, purple hair, multicolored hair, red eyes, black hairband`\n誰を出すか。髪の長さ・色・グラデーション・目の色。\n紳士の皆様は `adult woman` の明記を怠らぬように。紳士の矜持でもあります。逆に。。。。おっと。これ以上は私の口からは言えません…\n\n【3：体型・肌】 \n'fair skin, medium breasts'\n肌の質感と胸のサイズ。medium breasts = 普通サイズの指定です。\n構図次第ではお尻のサイズや、足の太さなんかも指定することがあります。指定するとその箇所が描画されやすかったりもします。\n今回は上半身だけの構図なので指定はシンプル。\nmedium breastsは通常サイズの胸の指定ですが、\n\n…画像をご覧ください。普通じゃない。でかい。ここでもAIの忖度が働いています。紳士特化モデルはこういう「おもてなし」をしてくる。今回使用したMiaoMiao Haremの癖みたいなものです。Small breastsとかと比較しましょう。\n\n【ブロック4：衣装】\n'strapless dress, bare shoulders, black gloves, purple ascot, purple bow'\n服です。ストラップレスのドレス、露出した肩、黒い手袋、紫のアスコットとリボン。 \n\nちなみに画像のドレス、ツヤツヤしてませんか。これ、注文に無い質感です。strapless dress という注文を、モデルが「紳士ならこれでしょ」と皮っぽい質感で描いた。先ほどのヘッドドレスと同じく、モデルの拡大解釈です。\n\nMiaoMiao Harem2.9BはAnima系モデルですが、BaseModelの選択がいかに作風に影響を与えるかわかりますね。\n\n【ブロック5：表情】\n'blush, closed mouth'\nえっっな画像の生命線は、顔の「色気」にあります。\n今回は控えめに、赤面と閉じた口だけ。画像の通り、顔を赤らめた真顔が来ました。\n他にも覚えておきたい表情タグを挙げておきます。\n・seductive smile(色っぽい微笑み)\n・narrowed eyes(いかにもな目つき)\n・parted lips(唇をわずかに開く)\n・sulking(少し不機嫌そうな顔。いじらしさが出ます)\n表情を書かないと、一枚目のバニーちゃんのような【何も考えてなさそうな顔】になります。必ず書け。\n\n【ブロック6：ポーズ・構図】\n'stretching, arm up, armpits, looking at viewer, upper body'\n体の動きとカメラの位置です。\n・stretching：伸びをする\n・arm up：腕を上げる\n・armpits：腋を見せる\n・looking at viewer：こちらを見る\n・upper body：上半身で切り取る\nとなってます。\n特にAIモデルは近い距離の方が高画質に顔を書くので、まずはUpperBodyがオススメ。\n\n【ブロック7：背景・小物】\n'indoors, blurry background, stuffed animal, stuffed rabbit'\n場所と空気感です。室内、ぼかした背景、ぬいぐるみ(うさぎ)。今回は特にかいてませんが、顔に影が入る場合は光源位置を指定したり、明るさを指定したりします。\nまぁざっくりわけてこんな感じでプロンプトタグの種類があるので、なんとなく理解しておきましょう。\n\nあとは逆の注文書、negative promptです。\n`worst quality, low quality, score_1, score_2, score_3, bad anatomy, extra fingers, deformed face, child, teen, underage, ...`\nNGワードをぶち込むと、指が6本になる事故が減ります。減ります。完全になくならんのが恐ろしいところですが。\n`score_1, score_2, score_3` は低品質スコアを突き放すタグ。先ほどの品質タグと対になっています。\n\n…と、ここまで書くと難しそうに見えますが、実際は\n「こういう子が欲しいんだけど」\nと画面を自分のAIに見せれば、プロンプトを全部組み立ててくれます。\nそう。結局みんなAIがやってくれるんです。本講座は一体何だったのか。\nえ？NSFWの場合は拒否されるって？まぁおちんついて…次回以降でやりますから…\n\nただ、何がどう効くか、何が必要なのかの本質を知っておくと、ただAIに指示をだすだけではなく。\n「あー、Skinタグをもう少しつやのあるやつにして、構図はUpperBodyにしてくれる？」など具体的なPrompt指示が出来ます。\nそういう意味では、注文の言葉を覚えるのは紳士の嗜みですね。\n\n…疲れてきたので今日はここまで。\n次回は「設定編」です。\nでは、また次回の紳士向けAI画像生成のコーナーでお会いしましょう。\n#紳士向けAI画像生成講座\n#地元のv100クラブ",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSe0rHUaUAATGs9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSe0rHUaUAATGs9.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSe0svIbkAA6NZp.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSe0svIbkAA6NZp.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 184
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/studio_yebisu/status/2100855355928621063",
+  "coverUrl": "https://pbs.twimg.com/media/HSe0rHUaUAATGs9.jpg",
+  "coverPath": "images/2100855355928621063-1.jpg",
+  "imagePaths": [
+    "images/2100855355928621063-1.jpg",
+    "images/2100855355928621063-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSe0rHUaUAATGs9",
+    "x-image:/media/HSe0svIbkAA6NZp",
+    "x-post:2100855355928621063"
+  ],
+  "analysis": {
+    "summary": "紫发红瞳女性角色伸懒腰的高清动漫上半身插画提示词，包含丰富的服饰与场景细节。",
+    "summaryEn": "Prompt for an anime upper-body illustration of a purple-haired girl stretching in a strapless dress.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "第二张图片精确呈现了提示词中的紫发、红瞳、伸展抬臂、黑色抹胸裙、手套、紫色领结及背景中的毛绒兔子。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "masterpiece, best quality, very aesthetic, detailed face, high contrast, smooth skin,\n1girl, solo, adult woman,\nvery long hair, purple hair, gradient hair, straight hair, hair between eyes, sidelocks,\nred eyes, blush, closed mouth, sulking, looking at viewer,\nblack headdress, frilled headwear, purple bow,\nstretching, arms up, armpits, elbow gloves, black gloves, lace-trimmed gloves,\nblack dress, strapless dress, shiny clothes, latex, corset, cleavage, large breasts,\npurple ascot, purple bow, waist bow,\nindoors, bedroom, window, daylight, plant, blurry background, depth of field,\nstuffed animal, stuffed rabbit,\nupper body, anime style",
+    "sourceRange": {
+      "start": 929,
+      "end": 1570
+    },
+    "translations": {
+      "zh": "杰作，最高画质，极具美感，精致的面孔，高对比度，光滑的皮肤，1个女孩，单人，成年女性，极长的头发，紫色头发，渐变发色，直发，眼间碎发，鬓角碎发，红眼，脸红，闭嘴，闹情绪，注视镜头，黑色头饰，花边头饰，紫色蝴蝶结，伸懒腰，双臂抬起，腋下，肘长手套，黑色手套，蕾丝镶边手套，黑裙，抹胸裙，有光泽的衣服，乳胶，紧身胸衣，乳沟，大胸，紫色阿斯科特领巾，紫色蝴蝶结，腰间蝴蝶结，室内，卧室，窗户，日光，植物，模糊背景，景深，毛绒玩具，毛绒兔，上半身，动漫风格",
+      "en": "masterpiece, best quality, very aesthetic, detailed face, high contrast, smooth skin, 1girl, solo, adult woman, very long hair, purple hair, gradient hair, straight hair, hair between eyes, sidelocks, red eyes, blush, closed mouth, sulking, looking at viewer, black headdress, frilled headwear, purple bow, stretching, arms up, armpits, elbow gloves, black gloves, lace-trimmed gloves, black dress, strapless dress, shiny clothes, latex, corset, cleavage, large breasts, purple ascot, purple bow, waist bow, indoors, bedroom, window, daylight, plant, blurry background, depth of field, stuffed animal, stuffed rabbit, upper body, anime style"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "动漫女性角色上半身插画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "suggestive_pose",
+        "cleavage"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

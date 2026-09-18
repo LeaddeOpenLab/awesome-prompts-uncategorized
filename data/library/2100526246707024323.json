@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-18T08:30:29.132Z",
+  "model": "unknown-image",
+  "prompt": "由任意未来主题提供核心概念、短句信息和少量辅助说明，将主题转译为一个极端放大的文字或符号主体：第一眼必须是几乎撑满画面的粗重无衬线字形横向压入版面，字身像结构梁一样占据中心，局部被裁切或越界，使阅读先成为强烈的形体事件，再在其边缘读到副标题。背景保持大面积冷白留空，叠加极细、浅暖色的构图线、基准线和竖向分栏线，线条像设计稿未隐藏的骨架而非装饰。主色只用高饱和橙红承担全部视觉重量，灰色用于小段说明文字，避免多彩和渐变。信息模块稀疏地贴在网格交点和边缘：小图标由简单几何角、点、短横构成，标题短促加粗，正文窄列轻灰，整体呈现精确、克制、实验性的版式教学感。字形构造要求低对比、厚笔画、大开放内白、平直端点、紧密字距，标点和附属符号也服从网格节奏；若换成其他文字系统，保持同等的粗块量、内外空间关系、裁切压力和横向阅读动势。禁止插画化背景、阴影、纹理纸感、居中卡片、圆润可爱化、商业海报光效和过度排满信息。\n\n——————\n主题：乐\n比例：9:16\n注意：适当的中秋元素\n字体颜色：古驰安可拉红",
+  "promptTranslations": {
+    "en": "Translate any futuristic theme into an extremely enlarged textual or symbolic subject using its core concept, short-phrase information, and minimal auxiliary descriptions: at first glance, it must be an ultra-heavy sans-serif glyph almost bursting out of the canvas, pressing horizontally into the layout, its body occupying the center like a structural beam, partially cropped or overflowing the borders, so that reading first becomes a powerful spatial, sculptural event before the subtitle is noticed along its perimeter. The background maintains extensive cool-white negative space, overlaid with ultra-fine, pale-warm compositional lines, baselines, and vertical column divisions that resemble the unhidden structural skeleton of a design blueprint rather than decoration. The primary visual weight is carried exclusively by a single high-saturation orange-red hue, with gray reserved for short explanatory text blocks, avoiding multicolor schemes and gradients. Information modules are sparsely anchored at grid intersections and margins: small icons are composed of simple geometric angles, dots, and short dashes; headlines are concise and bold; body text is set in narrow columns of light gray—conveying an overall precise, restrained, and experimental editorial typography masterclass feel. Glyph construction requires low contrast, thick strokes, large open counters, flat squared terminals, and tight tracking, with punctuation and auxiliary symbols strictly obeying the grid rhythm; if adapted to other writing systems, maintain the equivalent blocky mass, internal-external spatial balance, cropping tension, and horizontal reading momentum. Illustrated backgrounds, shadows, paper textures, centered card layouts, rounded cute styling, commercial poster lighting effects, and cluttered information overfill are strictly prohibited.\n\n——————\nTheme: 乐\nAspect Ratio: 9:16\nNote: Appropriate Mid-Autumn Festival elements\nFont Color: Gucci Ancora Red"
+  },
+  "summaryTranslations": {
+    "en": "Minimalist big-type typographic poster prompt featuring an extremely enlarged bold Chinese character as the focal point, paired with precise grid guide lines and a minimalist color palette."
+  },
+  "translationVersion": 2,
+  "summary": "极简主义大字版式海报提示词，以极端放大的粗体汉字为主体，结合精密网格辅助线与极简配色。",
+  "summaryEn": "A minimalist typographic poster prompt featuring an oversized, bold Chinese glyph within an experimental grid system.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2100526246707024323",
+    "canonicalUrl": "https://x.com/xiaoxiaodong01/status/2100526246707024323",
+    "author": {
+      "username": "xiaoxiaodong01",
+      "displayName": "小小东",
+      "profileUrl": "https://x.com/xiaoxiaodong01"
+    },
+    "publishedAt": "2026-09-17T10:04:17.000Z",
+    "collectedAt": "2026-09-18T08:16:23.885Z",
+    "language": "zh",
+    "originalText": "GPT2 x 中秋 x 字 x 海报 x 美学提示词\n\n借助这组纯字体提示词\n\n祝大家中秋节快乐\n\n有一点小巧思：每个颜色都是一个奢侈品用色\n\n内含财气~ dddd\n\nprompt by xiaoxiaodong:\n\n```\n由任意未来主题提供核心概念、短句信息和少量辅助说明，将主题转译为一个极端放大的文字或符号主体：第一眼必须是几乎撑满画面的粗重无衬线字形横向压入版面，字身像结构梁一样占据中心，局部被裁切或越界，使阅读先成为强烈的形体事件，再在其边缘读到副标题。背景保持大面积冷白留空，叠加极细、浅暖色的构图线、基准线和竖向分栏线，线条像设计稿未隐藏的骨架而非装饰。主色只用高饱和橙红承担全部视觉重量，灰色用于小段说明文字，避免多彩和渐变。信息模块稀疏地贴在网格交点和边缘：小图标由简单几何角、点、短横构成，标题短促加粗，正文窄列轻灰，整体呈现精确、克制、实验性的版式教学感。字形构造要求低对比、厚笔画、大开放内白、平直端点、紧密字距，标点和附属符号也服从网格节奏；若换成其他文字系统，保持同等的粗块量、内外空间关系、裁切压力和横向阅读动势。禁止插画化背景、阴影、纹理纸感、居中卡片、圆润可爱化、商业海报光效和过度排满信息。\n\n——————\n主题：乐\n比例：9:16\n注意：适当的中秋元素\n字体颜色：古驰安可拉红\n```",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSaRCE7aEAARvTd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSaRCE7aEAARvTd.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSaRC59bYAAXf7B.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSaRC59bYAAXf7B.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSaREJmaYAAuJbb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSaREJmaYAAuJbb.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSaRFJ4bcAATWUq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSaRFJ4bcAATWUq.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 29,
+      "repostCount": 6,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 2791
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/xiaoxiaodong01/status/2100526246707024323",
+  "coverUrl": "https://pbs.twimg.com/media/HSaRCE7aEAARvTd.jpg",
+  "coverPath": "images/2100526246707024323-1.jpg",
+  "imagePaths": [
+    "images/2100526246707024323-1.jpg",
+    "images/2100526246707024323-2.jpg",
+    "images/2100526246707024323-3.jpg",
+    "images/2100526246707024323-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSaRCE7aEAARvTd",
+    "x-image:/media/HSaRC59bYAAXf7B",
+    "x-image:/media/HSaREJmaYAAuJbb",
+    "x-image:/media/HSaRFJ4bcAATWUq",
+    "x-post:2100526246707024323"
+  ],
+  "analysis": {
+    "summary": "极简主义大字版式海报提示词，以极端放大的粗体汉字为主体，结合精密网格辅助线与极简配色。",
+    "summaryEn": "A minimalist typographic poster prompt featuring an oversized, bold Chinese glyph within an experimental grid system.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片精确呈现了提示词要求的巨幅无衬线字形破格排版、安可拉红主色、网格辅助线及中秋元素细节。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "由任意未来主题提供核心概念、短句信息和少量辅助说明，将主题转译为一个极端放大的文字或符号主体：第一眼必须是几乎撑满画面的粗重无衬线字形横向压入版面，字身像结构梁一样占据中心，局部被裁切或越界，使阅读先成为强烈的形体事件，再在其边缘读到副标题。背景保持大面积冷白留空，叠加极细、浅暖色的构图线、基准线和竖向分栏线，线条像设计稿未隐藏的骨架而非装饰。主色只用高饱和橙红承担全部视觉重量，灰色用于小段说明文字，避免多彩和渐变。信息模块稀疏地贴在网格交点和边缘：小图标由简单几何角、点、短横构成，标题短促加粗，正文窄列轻灰，整体呈现精确、克制、实验性的版式教学感。字形构造要求低对比、厚笔画、大开放内白、平直端点、紧密字距，标点和附属符号也服从网格节奏；若换成其他文字系统，保持同等的粗块量、内外空间关系、裁切压力和横向阅读动势。禁止插画化背景、阴影、纹理纸感、居中卡片、圆润可爱化、商业海报光效和过度排满信息。\n\n——————\n主题：乐\n比例：9:16\n注意：适当的中秋元素\n字体颜色：古驰安可拉红",
+    "sourceRange": {
+      "start": 113,
+      "end": 559
+    },
+    "translations": {
+      "zh": "基于特定主题将其转译为极大字号的粗重无衬线文字排版海报。字形居中撑满画面并略带裁切，背景冷白留空配极细设计辅助线网格。主视觉采用单色重彩，辅以灰色实验性排版说明文字与极简图标，构图克制严谨，无复杂插画或渐变。",
+      "en": "Minimalist typographic poster featuring an ultra-bold, oversized sans-serif character dominating the frame with subtle cropping. Off-white negative space layered with faint design gridlines, single-accent color typography, experimental structural layout, and sparse technical subtext without gradients or illustrative clutter."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "graphic_design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
