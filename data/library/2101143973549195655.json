@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T04:26:21.884Z",
+  "model": "unknown-image",
+  "prompt": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, arms behind waist, soldier, boy, defined leg muscles, military pants, boots, a face that looks a bit strained, firm breasts, defined abs, jacket loose, jacket falling open, jacket slipping down, exposing chest, exposing abs, dog tag dangling, flushed face, dripping sweat, small wound, bruises, Distinct bruises and small wounds on the upper body and face., soil floor background",
+  "promptTranslations": {
+    "en": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, arms behind waist, soldier, boy, defined leg muscles, military pants, boots, a face that looks a bit strained, firm breasts, defined abs, jacket loose, jacket falling open, jacket slipping down, exposing chest, exposing abs, dog tag dangling, flushed face, dripping sweat, small wound, bruises, Distinct bruises and small wounds on the upper body and face., soil floor background"
+  },
+  "summaryTranslations": {
+    "en": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, soldier boy, defined abs, military pants, boots, dog tag dangling, flushed face, small wound, bruises, soil floor background"
+  },
+  "translationVersion": 2,
+  "summary": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, soldier boy, defined abs, military pants, boots, dog tag dangling, flushed face, small wound, bruises, soil floor background",
+  "summaryEn": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, soldier boy, defined abs, military pants, boots, dog tag dangling, flushed face, small wound, bruises, soil floor background",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101143973549195655",
+    "canonicalUrl": "https://x.com/2__han__/status/2101143973549195655",
+    "author": {
+      "username": "2__han__",
+      "displayName": "이한",
+      "profileUrl": "https://x.com/2__han__"
+    },
+    "publishedAt": "2026-09-19T02:58:55.000Z",
+    "collectedAt": "2026-09-19T04:17:21.560Z",
+    "language": "ko",
+    "originalText": "ᴾᴿᴼᴹᴾᵀ          \n프롬프트 공유 _ 자유롭게 수정, 사용 \n타율 매우 안 좋음\n\nlow-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, arms behind waist, soldier, boy, defined leg muscles, military pants, boots, a face that looks a bit strained, firm breasts, defined abs, jacket loose, jacket falling open, jacket slipping down, exposing chest, exposing abs, dog tag dangling, flushed face, dripping sweat, small wound, bruises, Distinct bruises and small wounds on the upper body and face., soil floor background",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSjDDmAbIAA1vEn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSjDDmAbIAA1vEn.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 8,
+      "repostCount": 2,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 132
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/2__han__/status/2101143973549195655",
+  "coverUrl": "https://pbs.twimg.com/media/HSjDDmAbIAA1vEn.jpg",
+  "coverPath": "images/2101143973549195655-1.jpg",
+  "imagePaths": [
+    "images/2101143973549195655-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSjDDmAbIAA1vEn",
+    "x-post:2101143973549195655"
+  ],
+  "analysis": {
+    "summary": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, soldier boy, defined abs, military pants, boots, dog tag dangling, flushed face, small wound, bruises, soil floor background",
+    "summaryEn": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, soldier boy, defined abs, military pants, boots, dog tag dangling, flushed face, small wound, bruises, soil floor background",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面构图为两腿之间倒看地面的仰角视角，人物为军裤长靴、敞开上衣露出肌肉与伤痕的汗湿士兵，与 Prompt 描述完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, arms behind waist, soldier, boy, defined leg muscles, military pants, boots, a face that looks a bit strained, firm breasts, defined abs, jacket loose, jacket falling open, jacket slipping down, exposing chest, exposing abs, dog tag dangling, flushed face, dripping sweat, small wound, bruises, Distinct bruises and small wounds on the upper body and face., soil floor background",
+    "sourceRange": {
+      "start": 52,
+      "end": 583
+    },
+    "translations": {
+      "zh": "后方低角度视角，焦点从腿部开始，从两腿之间向后看，头靠在地面上，双脚着地，双手置于身后，双臂在腰后，士兵，男孩，清晰的腿部肌肉，军裤，军靴，略带紧绷的神情，结实的胸膛，清晰的腹肌，宽松的夹克，夹克敞开滑落，露出胸膛与腹肌，晃动的身份牌，泛红的脸颊，流淌的汗水，微小的伤口，瘀伤，上半身和面部有明显的瘀伤和轻微伤痕，泥土地面背景",
+      "en": "low-angle view from behind, focus starting from legs, looking backward between legs, head resting on the ground, feet on the ground, hands behind back, arms behind waist, soldier, boy, defined leg muscles, military pants, boots, a face that looks a bit strained, firm breasts, defined abs, jacket loose, jacket falling open, jacket slipping down, exposing chest, exposing abs, dog tag dangling, flushed face, dripping sweat, small wound, bruises, Distinct bruises and small wounds on the upper body and face., soil floor background"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI插画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

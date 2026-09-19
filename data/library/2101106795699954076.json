@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T04:26:17.804Z",
+  "model": "unknown-image",
+  "prompt": "concept:\n  - \"a real human displayed like a living fashion doll inside a deep multi-layered paper-craft shadow box\"\n  - \"the person remains fully photorealistic; only the surrounding world is paper craft\"\n  - \"derive the entire art direction from the reference image\"\n\nreference:\n  identity:\n    - \"faithfully preserve the person's recognizable face, proportions, skin tone, age, hairstyle, and distinctive features\"\n    - \"no beautification or facial reinterpretation\"\n\n  visual_direction:\n    - \"derive colors, accessories, motifs, textures, and mood from the reference image\"\n    - \"creatively enlarge, repeat, or reinterpret meaningful reference details\"\n    - \"do not introduce unrelated generic motifs\"\n\nworld:\n  - \"luxurious pop-fantasy shadow box with extreme physical depth\"\n  - \"many individually cut paper layers with visible gaps and cast shadows\"\n  - \"clear foreground, middle-ground, and background\"\n  - \"foreground decorations may partially overlap the subject\"\n  - \"avoid flat collage appearance\"\n\nsubject:\n  - \"real human, photorealistic skin, realistic anatomy\"\n  - \"upper-body composition\"\n  - \"preserve the visible outfit as faithfully as possible\"\n  - \"keep its colors, silhouette, materials, trims, accessories, and styling\"\n  - \"unseen clothing areas may be naturally completed to match the visible design\"\n  - \"real fabric, never paper clothing\"\n  - \"preserve the original expression, hairstyle, pose, and body proportions\"\n\ncamera:\n  - \"front-facing, eye-level, centered upper-body portrait\"\n  - \"approximately chest or waist upward\"\n  - \"35mm, deep depth of field\"\n\nlighting:\n  - \"realistic studio light on skin\"\n  - \"distinct shadows between paper layers\"\n  - \"adapt the lighting mood to the reference image\"\n\navoid:\n  - \"chibi, miniature, toy, plastic, porcelain, or paper-doll person\"\n  - \"cartoon face or identity drift\"\n  - \"generic beautification\"\n  - \"flat collage\"\n  - \"paper clothing\"\n  - \"unrelated decorations\"\n  - \"major outfit redesign\"\n  - \"full-body composition\"",
+  "promptTranslations": {
+    "en": "concept:\n  - \"a real human displayed like a living fashion doll inside a deep multi-layered paper-craft shadow box\"\n  - \"the person remains fully photorealistic; only the surrounding world is paper craft\"\n  - \"derive the entire art direction from the reference image\"\n\nreference:\n  identity:\n    - \"faithfully preserve the person's recognizable face, proportions, skin tone, age, hairstyle, and distinctive features\"\n    - \"no beautification or facial reinterpretation\"\n\n  visual_direction:\n    - \"derive colors, accessories, motifs, textures, and mood from the reference image\"\n    - \"creatively enlarge, repeat, or reinterpret meaningful reference details\"\n    - \"do not introduce unrelated generic motifs\"\n\nworld:\n  - \"luxurious pop-fantasy shadow box with extreme physical depth\"\n  - \"many individually cut paper layers with visible gaps and cast shadows\"\n  - \"clear foreground, middle-ground, and background\"\n  - \"foreground decorations may partially overlap the subject\"\n  - \"avoid flat collage appearance\"\n\nsubject:\n  - \"real human, photorealistic skin, realistic anatomy\"\n  - \"upper-body composition\"\n  - \"preserve the visible outfit as faithfully as possible\"\n  - \"keep its colors, silhouette, materials, trims, accessories, and styling\"\n  - \"unseen clothing areas may be naturally completed to match the visible design\"\n  - \"real fabric, never paper clothing\"\n  - \"preserve the original expression, hairstyle, pose, and body proportions\"\n\ncamera:\n  - \"front-facing, eye-level, centered upper-body portrait\"\n  - \"approximately chest or waist upward\"\n  - \"35mm, deep depth of field\"\n\nlighting:\n  - \"realistic studio light on skin\"\n  - \"distinct shadows between paper layers\"\n  - \"adapt the lighting mood to the reference image\"\n\navoid:\n  - \"chibi, miniature, toy, plastic, porcelain, or paper-doll person\"\n  - \"cartoon face or identity drift\"\n  - \"generic beautification\"\n  - \"flat collage\"\n  - \"paper clothing\"\n  - \"unrelated decorations\"\n  - \"major outfit redesign\"\n  - \"full-body composition\""
+  },
+  "summaryTranslations": {
+    "en": "Reference-based upper-body 3D paper-cut shadow box style transfer prompt, keeping the person and clothing highly photorealistic and faithful to the original."
+  },
+  "translationVersion": 2,
+  "summary": "基于参考图的人物上半身立体纸雕画框风格转换提示词，保持人物与服装高度写实与原样。",
+  "summaryEn": "Structured prompt turning a reference portrait into a multi-layered papercraft shadow box while keeping the subject photorealistic.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101097668269449550",
+      "canonicalUrl": "https://x.com/1ldk_aroma/status/2101097668269449550",
+      "author": {
+        "username": "1ldk_aroma",
+        "displayName": "スピリチュアル・あろまちゃん",
+        "profileUrl": "https://x.com/1ldk_aroma"
+      },
+      "originalText": "かわいいめっちゃ服装変えられてるケド https://t.co/EHkNlaTtTw"
+    },
+    "id": "2101106795699954076",
+    "canonicalUrl": "https://x.com/elle_elle_e/status/2101106795699954076",
+    "author": {
+      "username": "elle_elle_e",
+      "displayName": "のえる",
+      "profileUrl": "https://x.com/elle_elle_e"
+    },
+    "publishedAt": "2026-09-19T00:31:11.000Z",
+    "collectedAt": "2026-09-19T04:17:21.560Z",
+    "language": "ja",
+    "originalText": "元々服装アレンジ加えるようにしてありましたが、少しぷろんぷと直しましたので、ご査収ください👼🪽\n上半身のみになるようにしたので、お顔の維持も多少精度上がっております🫶✨\n・服装アレンジ無し\n・上半身のみver.\n\n▼prompt\nconcept:\n  - \"a real human displayed like a living fashion doll inside a deep multi-layered paper-craft shadow box\"\n  - \"the person remains fully photorealistic; only the surrounding world is paper craft\"\n  - \"derive the entire art direction from the reference image\"\n\nreference:\n  identity:\n    - \"faithfully preserve the person's recognizable face, proportions, skin tone, age, hairstyle, and distinctive features\"\n    - \"no beautification or facial reinterpretation\"\n\n  visual_direction:\n    - \"derive colors, accessories, motifs, textures, and mood from the reference image\"\n    - \"creatively enlarge, repeat, or reinterpret meaningful reference details\"\n    - \"do not introduce unrelated generic motifs\"\n\nworld:\n  - \"luxurious pop-fantasy shadow box with extreme physical depth\"\n  - \"many individually cut paper layers with visible gaps and cast shadows\"\n  - \"clear foreground, middle-ground, and background\"\n  - \"foreground decorations may partially overlap the subject\"\n  - \"avoid flat collage appearance\"\n\nsubject:\n  - \"real human, photorealistic skin, realistic anatomy\"\n  - \"upper-body composition\"\n  - \"preserve the visible outfit as faithfully as possible\"\n  - \"keep its colors, silhouette, materials, trims, accessories, and styling\"\n  - \"unseen clothing areas may be naturally completed to match the visible design\"\n  - \"real fabric, never paper clothing\"\n  - \"preserve the original expression, hairstyle, pose, and body proportions\"\n\ncamera:\n  - \"front-facing, eye-level, centered upper-body portrait\"\n  - \"approximately chest or waist upward\"\n  - \"35mm, deep depth of field\"\n\nlighting:\n  - \"realistic studio light on skin\"\n  - \"distinct shadows between paper layers\"\n  - \"adapt the lighting mood to the reference image\"\n\navoid:\n  - \"chibi, miniature, toy, plastic, porcelain, or paper-doll person\"\n  - \"cartoon face or identity drift\"\n  - \"generic beautification\"\n  - \"flat collage\"\n  - \"paper clothing\"\n  - \"unrelated decorations\"\n  - \"major outfit redesign\"\n  - \"full-body composition\"",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSihegWawAANYgz.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSihegWawAANYgz.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSihegVbQAAG8CL.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSihegVbQAAG8CL.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSihegIbwAAh7YO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSihegIbwAAh7YO.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSihef_bQAAIwIx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSihef_bQAAIwIx.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSiZL54aAAASU5i.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSiZL54aAAASU5i.jpg",
+        "sourcePostId": "2101097668269449550"
+      }
+    ],
+    "metrics": {
+      "likeCount": 204,
+      "repostCount": 18,
+      "replyCount": 2,
+      "quoteCount": 13,
+      "viewCount": 17595
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/elle_elle_e/status/2101106795699954076",
+  "coverUrl": "https://pbs.twimg.com/media/HSihegWawAANYgz.jpg",
+  "coverPath": "images/2101106795699954076-1.jpg",
+  "imagePaths": [
+    "images/2101106795699954076-1.jpg",
+    "images/2101106795699954076-2.jpg",
+    "images/2101106795699954076-3.jpg",
+    "images/2101106795699954076-4.jpg",
+    "images/2101106795699954076-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSihegWawAANYgz",
+    "x-image:/media/HSihegVbQAAG8CL",
+    "x-image:/media/HSihegIbwAAh7YO",
+    "x-image:/media/HSihef_bQAAIwIx",
+    "x-image:/media/HSiZL54aAAASU5i",
+    "x-post:2101106795699954076",
+    "x-post:2101097668269449550"
+  ],
+  "analysis": {
+    "summary": "基于参考图的人物上半身立体纸雕画框风格转换提示词，保持人物与服装高度写实与原样。",
+    "summaryEn": "Structured prompt turning a reference portrait into a multi-layered papercraft shadow box while keeping the subject photorealistic.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the paper-craft shadow box framing, preserving the reference person's appearance and clothing."
+    },
+    "videoQuality": null,
+    "originalPrompt": "concept:\n  - \"a real human displayed like a living fashion doll inside a deep multi-layered paper-craft shadow box\"\n  - \"the person remains fully photorealistic; only the surrounding world is paper craft\"\n  - \"derive the entire art direction from the reference image\"\n\nreference:\n  identity:\n    - \"faithfully preserve the person's recognizable face, proportions, skin tone, age, hairstyle, and distinctive features\"\n    - \"no beautification or facial reinterpretation\"\n\n  visual_direction:\n    - \"derive colors, accessories, motifs, textures, and mood from the reference image\"\n    - \"creatively enlarge, repeat, or reinterpret meaningful reference details\"\n    - \"do not introduce unrelated generic motifs\"\n\nworld:\n  - \"luxurious pop-fantasy shadow box with extreme physical depth\"\n  - \"many individually cut paper layers with visible gaps and cast shadows\"\n  - \"clear foreground, middle-ground, and background\"\n  - \"foreground decorations may partially overlap the subject\"\n  - \"avoid flat collage appearance\"\n\nsubject:\n  - \"real human, photorealistic skin, realistic anatomy\"\n  - \"upper-body composition\"\n  - \"preserve the visible outfit as faithfully as possible\"\n  - \"keep its colors, silhouette, materials, trims, accessories, and styling\"\n  - \"unseen clothing areas may be naturally completed to match the visible design\"\n  - \"real fabric, never paper clothing\"\n  - \"preserve the original expression, hairstyle, pose, and body proportions\"\n\ncamera:\n  - \"front-facing, eye-level, centered upper-body portrait\"\n  - \"approximately chest or waist upward\"\n  - \"35mm, deep depth of field\"\n\nlighting:\n  - \"realistic studio light on skin\"\n  - \"distinct shadows between paper layers\"\n  - \"adapt the lighting mood to the reference image\"\n\navoid:\n  - \"chibi, miniature, toy, plastic, porcelain, or paper-doll person\"\n  - \"cartoon face or identity drift\"\n  - \"generic beautification\"\n  - \"flat collage\"\n  - \"paper clothing\"\n  - \"unrelated decorations\"\n  - \"major outfit redesign\"\n  - \"full-body composition\"",
+    "sourceRange": {
+      "start": 115,
+      "end": 2118
+    },
+    "translations": {
+      "zh": "概念：\n  - 真实人物如时尚玩偶置于多层纸雕立体阴影盒内\n  - 人物写实，仅周围为纸雕\n  - 艺术方向源自参考图\n\n参考：\n  身份：忠实保留人脸、比例、肤色及特征，不美化\n  视觉方向：提取颜色、饰品与氛围，不加入无关元素\n\n世界：\n  - 深度感纸雕阴影盒，层次分明，前景微遮主体\n\n主体：\n  - 真实人物，半身构图，忠实复刻原服装和姿态\n\n相机与光影：\n  - 正面平视胸部以上特写，35mm深景深，真实影棚光，纸层投影\n\n避免：\n  - 玩具化、卡通脸、平面剪贴、纸制服装及全身构图",
+      "en": "concept:\n  - \"a real human displayed like a living fashion doll inside a deep multi-layered paper-craft shadow box\"\n  - \"the person remains fully photorealistic; only the surrounding world is paper craft\"\n  - \"derive the entire art direction from the reference image\"\n\nreference:\n  identity:\n    - \"faithfully preserve the person's recognizable face, proportions, skin tone, age, hairstyle, and distinctive features\"\n    - \"no beautification or facial reinterpretation\"\n\n  visual_direction:\n    - \"derive colors, accessories, motifs, textures, and mood from the reference image\"\n    - \"creatively enlarge, repeat, or reinterpret meaningful reference details\"\n    - \"do not introduce unrelated generic motifs\"\n\nworld:\n  - \"luxurious pop-fantasy shadow box with extreme physical depth\"\n  - \"many individually cut paper layers with visible gaps and cast shadows\"\n  - \"clear foreground, middle-ground, and background\"\n  - \"foreground decorations may partially overlap the subject\"\n  - \"avoid flat collage appearance\"\n\nsubject:\n  - \"real human, photorealistic skin, realistic anatomy\"\n  - \"upper-body composition\"\n  - \"preserve the visible outfit as faithfully as possible\"\n  - \"keep its colors, silhouette, materials, trims, accessories, and styling\"\n  - \"unseen clothing areas may be naturally completed to match the visible design\"\n  - \"real fabric, never paper clothing\"\n  - \"preserve the original expression, hairstyle, pose, and body proportions\"\n\ncamera:\n  - \"front-facing, eye-level, centered upper-body portrait\"\n  - \"approximately chest or waist upward\"\n  - \"35mm, deep depth of field\"\n\nlighting:\n  - \"realistic studio light on skin\"\n  - \"distinct shadows between paper layers\"\n  - \"adapt the lighting mood to the reference image\"\n\navoid:\n  - \"chibi, miniature, toy, plastic, porcelain, or paper-doll person\"\n  - \"cartoon face or identity drift\"\n  - \"generic beautification\"\n  - \"flat collage\"\n  - \"paper clothing\"\n  - \"unrelated decorations\"\n  - \"major outfit redesign\"\n  - \"full-body composition\""
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "image-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

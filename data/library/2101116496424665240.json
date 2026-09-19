@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T04:25:59.084Z",
+  "model": "unknown-video",
+  "prompt": "这是一支「十八層地獄主題樂園」）的萬聖節宣传短片：一位女生穿著清代殭屍獵人／道士造型服裝（黑色刺繡長袍、藍色立領、額頭貼黃色符咒、骷髏項鍊），站在燈籠高掛的「奈何橋」牌樓前，對鏡頭比出嚇人的鬼爪動作，搭配可愛的卡通小鬼特效、驚嚇反應、以及優惠券式的宣傳文字",
+  "promptTranslations": {
+    "en": "This is a Halloween promotional short video for the \"Eighteen Levels of Hell Theme Park\": a girl dressed in a Qing Dynasty zombie hunter / Taoist priest costume (black embroidered robe, blue mandarin collar, yellow talisman stuck to her forehead, skull necklace) stands in front of the \"Naihe Bridge\" archway hung with high lanterns, making a scary ghost-claw gesture towards the camera, accompanied by cute cartoon little ghost special effects, startled reactions, and coupon-style promotional text."
+  },
+  "summaryTranslations": {
+    "en": "Halloween-themed promotional video featuring a girl in a Taoist robe making a ghost-claw gesture in front of the Naihe Bridge archway, accompanied by cartoon ghost special effects and promotional text."
+  },
+  "translationVersion": 2,
+  "summary": "万圣节主题宣传片，女生身着道士长袍在奈何桥牌楼前做鬼爪动作，配合卡通小鬼特效与宣传文字。",
+  "summaryEn": "Halloween promo video featuring a girl in a Taoist outfit gesturing at the camera before Naihe Bridge, with cartoon ghost VFX.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101116496424665240",
+    "canonicalUrl": "https://x.com/cngshtng10/status/2101116496424665240",
+    "author": {
+      "username": "cngshtng10",
+      "displayName": "TRACY",
+      "profileUrl": "https://x.com/cngshtng10"
+    },
+    "publishedAt": "2026-09-19T01:09:44.000Z",
+    "collectedAt": "2026-09-19T04:17:21.560Z",
+    "language": "zh",
+    "originalText": "prompt:\n这是一支「十八層地獄主題樂園」）的萬聖節宣传短片：一位女生穿著清代殭屍獵人／道士造型服裝（黑色刺繡長袍、藍色立領、額頭貼黃色符咒、骷髏項鍊），站在燈籠高掛的「奈何橋」牌樓前，對鏡頭比出嚇人的鬼爪動作，搭配可愛的卡通小鬼特效、驚嚇反應、以及優惠券式的宣傳文字 https://t.co/vH0R4Ong94",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/cngshtng10/status/2101116496424665240",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101116441240141824/img/Z96DYbMCye_zM7kc.jpg",
+        "analysisUrl": "https://x.com/cngshtng10/status/2101116496424665240"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 16
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/cngshtng10/status/2101116496424665240",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101116441240141824/img/Z96DYbMCye_zM7kc.jpg",
+  "coverPath": "covers/2101116496424665240.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101116441240141824",
+    "x-post:2101116496424665240"
+  ],
+  "analysis": {
+    "summary": "万圣节主题宣传片，女生身着道士长袍在奈何桥牌楼前做鬼爪动作，配合卡通小鬼特效与宣传文字。",
+    "summaryEn": "Halloween promo video featuring a girl in a Taoist outfit gesturing at the camera before Naihe Bridge, with cartoon ghost VFX.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频中的女性角色装扮（黑袍、额头符咒、骷髅项链）、奈何桥牌楼背景、鬼爪动作、卡通小鬼特效及宣传排版文字与提示词完全相符。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "这是一支「十八層地獄主題樂園」）的萬聖節宣传短片：一位女生穿著清代殭屍獵人／道士造型服裝（黑色刺繡長袍、藍色立領、額頭貼黃色符咒、骷髏項鍊），站在燈籠高掛的「奈何橋」牌樓前，對鏡頭比出嚇人的鬼爪動作，搭配可愛的卡通小鬼特效、驚嚇反應、以及優惠券式的宣傳文字",
+    "sourceRange": {
+      "start": 8,
+      "end": 136
+    },
+    "translations": {
+      "zh": "这是一支「十八層地獄主題樂園」的萬聖節宣传短片：一位女生穿著清代殭屍獵人／道士造型服裝（黑色刺繡長袍、藍色立領、額頭貼黃色符咒、骷髏項鍊），站在燈籠高掛的「奈何橋」牌樓前，對鏡頭比出嚇人的鬼爪動作，搭配可愛的卡通小鬼特效、驚嚇反應、以及優惠券式的宣傳文字",
+      "en": "A Halloween promo clip for '18 Levels of Hell Theme Park': A girl dressed as a Qing-dynasty zombie hunter/Taoist priest (black embroidered robe, blue mandarin collar, yellow talisman on forehead, skull necklace) stands before the lantern-lit Naihe Bridge archway, posing claw hands at the camera, featuring cute cartoon ghost effects, a startled reaction, and promotional coupon text."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "宣传视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T04:26:46.599Z",
+  "model": "unknown-image",
+  "prompt": "人物同一性：\n架空の23歳の日本人成人女性。小さな丸顔、大きく穏やかな垂れ目のダークブラウンの瞳、短くまっすぐな眉、小さな鼻、柔らかく自然な唇、明るいニュートラルな日本人の肌色。本人の解剖学的右目の下に小さなほくろが正確に1つある。つやのある黒いセミロングヘアを低いツインテールにし、下側の毛先の内側だけにダスティピンクが見える。成人らしい可愛らしい地雷系の雰囲気、恥ずかしげに口を閉じた微笑み。学生や子どもには見せない。成人の顔立ち、ほくろ、黒髪、ピンクの内側の配置、髪の長さ、年齢感を保ち、実在人物に似せない。\n\n体格：\n身長約152cm。小柄で柔らかな女性らしい成人体格。現実的な肩と胸郭、自然な胸の比率、小柄で現実的なウエスト、柔らかく均整の取れた腰と成人の四肢。身長と各部の比率を保つ。子どもっぽい体格、プッシュアップ、極端な圧迫、ありえない細さのウエストにしない。\n\n撮影状況：\n11:00。友達と古着屋へ。派手なオレンジのサングラスを目に掛け、ふざけて真顔を作るが口元に笑いをこらえている。鏡の方向を見てカメラ目線にしない。\n\n場所と背景：\n小さな古着屋、雑多な服のラック、細い姿見の縁。友人は撮影者で画面外。\n\n衣装：\nダスティピンクの身体に沿う短丈ノースリーブ、襟元に黒い細レースと小さな黒リボン。黒いワイドカーゴパンツ、白黒の厚底スニーカー、小さな銀色ハートのブレスレット。すべて不透明な普段着。低いツインテールは黒い小さなリボンで結び、毛先の内側だけダスティピンク。オレンジ色の太いフレーム、薄色レンズのサングラスを試着。\n\nポーズと動作：\n立ったまま片手でサングラスのつるを軽くつまむ。反対の手は自然に下ろす。肩は水平、首を傾けない。\n\n構図とカメラ：\n友人のスマホ、約2.3m、高さ1.3m、斜め正面から頭から靴までの全身。AFは顔。姿見の反射はフレーム外。\n最終サイズ1086×1448px、縦3:4の分割のない独立した画像を正確に1枚出力する。\n\n照明と雰囲気：\n店内の白い天井灯と入口からの昼光が混じる。\n\n写真画質：\n普通のスマートフォンの標準カメラで撮った、加工を最小限にとどめたHEICのような一枚。人物の同一性、体格、髪の形状と、表面の仕上げを区別し、自然な撮影処理と肌の細部の尺度を守る。指定された単一のAF面に従い、奥の顔だけを再照明、ノイズ除去、シャープ化しない。細部の解像は距離とともに連続的に落ちる。顔が識別できる範囲で、片側の頬の暖色、Tゾーンの不均一なつや、左右で異なる目の下の色調、鼻のわずかな赤みという複数の広い色調差を同時に残し、遠い顔に毛穴を描かない。近く解像できる肌には、繰り返しのない低コントラストの色差、圧迫による赤み、しわの影、まばらな毛穴や毛包の差を残す。化粧は実際の色素に見え、縁は少し不均一。唇と歯には通常の色の違いを残す。不均一な露出とホワイトバランス、持ち上げない暗部、細い飛び毛、構図のわずかな偏り、暗部のノイズ、AF付近の控えめなシャープ処理とHEIC圧縮を保つ。未加工の私的なカメラロールの一コマ。\n\n必須条件：\n各場面の指定を満たす、分割のない成人女性のスマートフォン写真を正確に1枚。場面の条件と自然なスマホ画質の条件の両方を満たす。\n23歳の架空の成人女性1人。場面ごとの表情を優先して毎回同じ笑顔にしない。\n採用条件：\n1) 23歳の成人顔、152cmの成人体格、黒髪低ツインとピンクの内側、本人の右目下のほくろ。\n2) 指定衣装、主動作、場面の表情を確認。\n3) 自宅は東京のコンパクトなワンルーム。自然なスマホ写真。\n指定時刻と場所。指定衣装を通常着用。腕2本、脚2本、自然な指と接触。縦3:4の独立画像1枚。指定の縦横比と全体の収まりを保つ。自然な明暗差。\nAFの階層は一つ。顔だけの露出調整、再照明、平滑化、復元をしない。奥の顔の広い色調差、近くの肌の不規則な微細差、局所的なスマホの画質上の癖を残す。\n明らかに成人である架空女性1人を、分割のない写真の唯一の主役として写す。頭1つ、顔1つ、解剖学的につながった腕が正確に2本、自然な手。前景の追加の手は場面や小物で明示されたときのみ許可し、人物自身の手と明確に分離する。文字、パネル、人物の重複、別アングルは生成しない。\n\nNegative Prompt：\n別人物、決めポーズ、読めるロゴや文字、他人の主役化、透け、衣服のずれ、衣装変更、余分な手足、不自然な捻り、分割画像、過剰なボケ、不要なクロップ、スタジオ照明、顔だけの美肌補正、美顔フィルター、発光する陶器のような顔、蝋のように均一な顔や四肢、肌の白色化、美容撮影の明るい補助光、顔だけの再照明、顔だけのシャープ化、完璧すぎる化粧の縁、一様につやのある唇、一様に真っ白な歯、全域の鮮明さ、全体への明瞭度処理、反復する肌模様、全域への偽の粒子、過剰なHDR、洗練されすぎたファッション演出、カタログ的な左右対称、広告キャンペーンの仕上がり、CGI、イラスト、未成年、十代、子ども、幼い年齢感、制服、実在人物、有名人に似た顔、人物の重複、追加の人物、追加の頭、追加の顔、本人の腕の追加や欠落、融合した四肢、離れた四肢、不自然な手、余分な指、融合した指、ゆがんだ顔、寄り目、文字、字幕、字、数字、ロゴ、透かし、署名、枠線、グリッド、コンタクトシート、コラージュ、分割画面、小窓、複数パネル。",
+  "promptTranslations": {
+    "en": "Character Identity:\nA fictional 23-year-old adult Japanese woman. Small round face, large, gentle, droopy dark brown eyes, short, straight eyebrows, a small nose, soft, natural lips, light neutral Japanese skin tone. Exactly one small mole under her anatomical right eye. Glossy black medium-length hair tied in low twin tails, with dusty pink visible only on the inner side of the lower tips. An adult-like cute Jirai-kei vibe, a shy closed-mouth smile. Do not make her look like a student or a child. Maintain adult facial features, the mole, black hair, pink inner placement, hair length, and age appearance, without resembling any real person.\n\nPhysique:\nHeight approximately 152 cm. Petite, soft, feminine adult physique. Realistic shoulders and rib cage, natural bust proportions, petite realistic waist, soft, well-proportioned hips, and adult limbs. Maintain height and regional proportions. Do not depict a childish physique, push-up effects, extreme compression, or an impossibly thin waist.\n\nShooting Situation:\n11:00. At a vintage clothing store with a friend. Wearing flashy orange sunglasses over her eyes, playfully holding a straight face while stifling a laugh at the corners of her mouth. Looking in the direction of a mirror, not making eye contact with the camera.\n\nLocation and Background:\nA small vintage clothing store, cluttered clothes racks, the edge of a slender full-length mirror. The friend is the photographer and is off-screen.\n\nOutfit:\nA dusty pink form-fitting cropped sleeveless top, with fine black lace and a small black ribbon at the neckline. Black wide cargo pants, black and white platform sneakers, a small silver heart bracelet. All opaque everyday wear. Low twin tails tied with small black ribbons, dusty pink only on the inner side of the tips. Trying on sunglasses with thick orange frames and lightly tinted lenses.\n\nPose and Action:\nStanding, lightly pinching the temple of the sunglasses with one hand. The other hand hangs naturally. Shoulders are level, head is not tilted.\n\nComposition and Camera:\nFriend's smartphone, approximately 2.3 m away, 1.3 m height, oblique front angle showing full body from head to shoes. Autofocus on face. Reflection in the full-length mirror is outside the frame.\nOutput exactly one single, undivided standalone image with a final size of 1086×1448 px, vertical 3:4 aspect ratio.\n\nLighting and Atmosphere:\nA mix of the store's white ceiling lights and daylight coming from the entrance.\n\nPhoto Quality:\nA shot resembling a minimally processed HEIC taken with a standard camera on an ordinary smartphone. Distinguish character identity, physique, hair shape, and surface finish, preserving natural capture processing and skin detail scaling. Follow the specified single AF plane; do not relight, denoise, or sharpen only the face in the background. Detail resolution falls off continuously with distance. Within the recognizable range of the face, simultaneously preserve multiple broad tonal differences—warmth on one cheek, uneven shine in the T-zone, different tones under the left and right eyes, and slight redness on the nose—without rendering visible pores on a distant face. On close, resolvable skin, preserve non-repeating low-contrast color differences, redness from pressure, wrinkle shadows, and sparse differences in pores and hair follicles. Makeup looks like real pigment, with slightly uneven edges. Retain normal color differences in lips and teeth. Preserve uneven exposure and white balance, non-lifted shadows, fine flyaway hairs, slight compositional bias, shadow noise, modest sharpening near the AF point, and HEIC compression. An unedited private snapshot from a camera roll.\n\nMandatory Requirements:\nExactly one undivided smartphone photograph of an adult woman meeting each scene specification. Fulfill both the scene conditions and natural smartphone image quality conditions.\nOne fictional 23-year-old adult woman. Prioritize scene-specific facial expressions rather than using the same smile every time.\nAcceptance Criteria:\n1) 23-year-old adult face, 152 cm adult physique, black low twin tails with pink inner layer, mole under her right eye.\n2) Confirm specified outfit, primary action, and scene expression.\n3) Home is a compact Tokyo studio apartment. Natural smartphone photo.\nSpecified time and location. Specified outfit worn normally. Two arms, two legs, natural fingers and contact. One single, independent vertical 3:4 image. Maintain specified aspect ratio and overall framing. Natural contrast.\nSingle AF depth level. No exposure adjustments, relighting, smoothing, or restoration applied only to the face. Retain broad tonal differences on the distant face, irregular micro-variations on near skin, and localized smartphone image quirks.\nDepict one clearly adult fictional woman as the sole subject of an undivided photo. One head, one face, exactly two anatomically connected arms, natural hands. Additional hands in the foreground are permitted only when explicitly specified by scene or props, clearly separated from the subject's own hands. Do not generate text, panels, duplicate figures, or alternate angles.\n\nNegative Prompt:\nDifferent person, posed glamour shot, readable logos or text, another person as the subject, sheer, wardrobe malfunction, outfit change, extra limbs, unnatural twisting, split image, excessive bokeh, unnecessary cropping, studio lighting, beauty retouching on face only, beauty filters, glowing porcelain face, wax-like uniform face or limbs, skin whitening, bright fill light from beauty shoots, relighting face only, sharpening face only, overly perfect makeup edges, uniformly glossy lips, uniformly pure white teeth, full-frame edge-to-edge sharpness, global clarity processing, repeating skin patterns, full-frame fake grain, excessive HDR, over-polished fashion production, catalog-like symmetry, ad campaign finish, CGI, illustration, minor, teenager, child, youthful age appearance, uniform, real person, celebrity lookalike, duplicate figures, additional people, additional heads, additional faces, extra or missing arms of the subject, fused limbs, detached limbs, unnatural hands, extra fingers, fused fingers, distorted face, crossed eyes, text, subtitles, letters, numbers, logos, watermarks, signatures, borders, grids, contact sheets, collages, split screens, insets, multiple panels."
+  },
+  "summaryTranslations": {
+    "en": "Realistic smartphone photo prompt of a 23-year-old Japanese woman trying on orange sunglasses at a vintage clothing store."
+  },
+  "translationVersion": 2,
+  "summary": "古着屋でオレンジのサングラスを試着する23歳日本人女性のリアルなスマホ写真プロンプト。",
+  "summaryEn": "Prompt for a realistic smartphone photo of a 23-year-old Japanese woman trying on orange sunglasses in a thrift shop.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100753923737108520",
+      "canonicalUrl": "https://x.com/HObE4TLMga99335/status/2100753923737108520",
+      "author": {
+        "username": "HObE4TLMga99335",
+        "displayName": "架空美女のカメラロール｜AI美女",
+        "profileUrl": "https://x.com/HObE4TLMga99335"
+      },
+      "originalText": "【11:00｜見るだけのつもりだった】\n\n見るだけのつもりが、もう鏡の前。\n「これ、似合ってる？」って聞く前に笑われた。\n\nネイリストのましろ、23歳・152cmの休日。\n#AI美女 #AI写真館 https://t.co/2jjTfiL1yS"
+    },
+    "id": "2101140974894457078",
+    "canonicalUrl": "https://x.com/HObE4TLMga99335/status/2101140974894457078",
+    "author": {
+      "username": "HObE4TLMga99335",
+      "displayName": "架空美女のカメラロール｜AI美女",
+      "profileUrl": "https://x.com/HObE4TLMga99335"
+    },
+    "publishedAt": "2026-09-19T02:47:00.000Z",
+    "collectedAt": "2026-09-19T04:17:21.560Z",
+    "language": "ja",
+    "originalText": "【11:00｜Prompt & Variation Lab｜見るだけのつもりだった】\n\n顔指定なし。この日本語Promptによる生成例2枚です。\n\n▼日本語Prompt全文\n人物同一性：\n架空の23歳の日本人成人女性。小さな丸顔、大きく穏やかな垂れ目のダークブラウンの瞳、短くまっすぐな眉、小さな鼻、柔らかく自然な唇、明るいニュートラルな日本人の肌色。本人の解剖学的右目の下に小さなほくろが正確に1つある。つやのある黒いセミロングヘアを低いツインテールにし、下側の毛先の内側だけにダスティピンクが見える。成人らしい可愛らしい地雷系の雰囲気、恥ずかしげに口を閉じた微笑み。学生や子どもには見せない。成人の顔立ち、ほくろ、黒髪、ピンクの内側の配置、髪の長さ、年齢感を保ち、実在人物に似せない。\n\n体格：\n身長約152cm。小柄で柔らかな女性らしい成人体格。現実的な肩と胸郭、自然な胸の比率、小柄で現実的なウエスト、柔らかく均整の取れた腰と成人の四肢。身長と各部の比率を保つ。子どもっぽい体格、プッシュアップ、極端な圧迫、ありえない細さのウエストにしない。\n\n撮影状況：\n11:00。友達と古着屋へ。派手なオレンジのサングラスを目に掛け、ふざけて真顔を作るが口元に笑いをこらえている。鏡の方向を見てカメラ目線にしない。\n\n場所と背景：\n小さな古着屋、雑多な服のラック、細い姿見の縁。友人は撮影者で画面外。\n\n衣装：\nダスティピンクの身体に沿う短丈ノースリーブ、襟元に黒い細レースと小さな黒リボン。黒いワイドカーゴパンツ、白黒の厚底スニーカー、小さな銀色ハートのブレスレット。すべて不透明な普段着。低いツインテールは黒い小さなリボンで結び、毛先の内側だけダスティピンク。オレンジ色の太いフレーム、薄色レンズのサングラスを試着。\n\nポーズと動作：\n立ったまま片手でサングラスのつるを軽くつまむ。反対の手は自然に下ろす。肩は水平、首を傾けない。\n\n構図とカメラ：\n友人のスマホ、約2.3m、高さ1.3m、斜め正面から頭から靴までの全身。AFは顔。姿見の反射はフレーム外。\n最終サイズ1086×1448px、縦3:4の分割のない独立した画像を正確に1枚出力する。\n\n照明と雰囲気：\n店内の白い天井灯と入口からの昼光が混じる。\n\n写真画質：\n普通のスマートフォンの標準カメラで撮った、加工を最小限にとどめたHEICのような一枚。人物の同一性、体格、髪の形状と、表面の仕上げを区別し、自然な撮影処理と肌の細部の尺度を守る。指定された単一のAF面に従い、奥の顔だけを再照明、ノイズ除去、シャープ化しない。細部の解像は距離とともに連続的に落ちる。顔が識別できる範囲で、片側の頬の暖色、Tゾーンの不均一なつや、左右で異なる目の下の色調、鼻のわずかな赤みという複数の広い色調差を同時に残し、遠い顔に毛穴を描かない。近く解像できる肌には、繰り返しのない低コントラストの色差、圧迫による赤み、しわの影、まばらな毛穴や毛包の差を残す。化粧は実際の色素に見え、縁は少し不均一。唇と歯には通常の色の違いを残す。不均一な露出とホワイトバランス、持ち上げない暗部、細い飛び毛、構図のわずかな偏り、暗部のノイズ、AF付近の控えめなシャープ処理とHEIC圧縮を保つ。未加工の私的なカメラロールの一コマ。\n\n必須条件：\n各場面の指定を満たす、分割のない成人女性のスマートフォン写真を正確に1枚。場面の条件と自然なスマホ画質の条件の両方を満たす。\n23歳の架空の成人女性1人。場面ごとの表情を優先して毎回同じ笑顔にしない。\n採用条件：\n1) 23歳の成人顔、152cmの成人体格、黒髪低ツインとピンクの内側、本人の右目下のほくろ。\n2) 指定衣装、主動作、場面の表情を確認。\n3) 自宅は東京のコンパクトなワンルーム。自然なスマホ写真。\n指定時刻と場所。指定衣装を通常着用。腕2本、脚2本、自然な指と接触。縦3:4の独立画像1枚。指定の縦横比と全体の収まりを保つ。自然な明暗差。\nAFの階層は一つ。顔だけの露出調整、再照明、平滑化、復元をしない。奥の顔の広い色調差、近くの肌の不規則な微細差、局所的なスマホの画質上の癖を残す。\n明らかに成人である架空女性1人を、分割のない写真の唯一の主役として写す。頭1つ、顔1つ、解剖学的につながった腕が正確に2本、自然な手。前景の追加の手は場面や小物で明示されたときのみ許可し、人物自身の手と明確に分離する。文字、パネル、人物の重複、別アングルは生成しない。\n\nNegative Prompt：\n別人物、決めポーズ、読めるロゴや文字、他人の主役化、透け、衣服のずれ、衣装変更、余分な手足、不自然な捻り、分割画像、過剰なボケ、不要なクロップ、スタジオ照明、顔だけの美肌補正、美顔フィルター、発光する陶器のような顔、蝋のように均一な顔や四肢、肌の白色化、美容撮影の明るい補助光、顔だけの再照明、顔だけのシャープ化、完璧すぎる化粧の縁、一様につやのある唇、一様に真っ白な歯、全域の鮮明さ、全体への明瞭度処理、反復する肌模様、全域への偽の粒子、過剰なHDR、洗練されすぎたファッション演出、カタログ的な左右対称、広告キャンペーンの仕上がり、CGI、イラスト、未成年、十代、子ども、幼い年齢感、制服、実在人物、有名人に似た顔、人物の重複、追加の人物、追加の頭、追加の顔、本人の腕の追加や欠落、融合した四肢、離れた四肢、不自然な手、余分な指、融合した指、ゆがんだ顔、寄り目、文字、字幕、字、数字、ロゴ、透かし、署名、枠線、グリッド、コンタクトシート、コラージュ、分割画面、小窓、複数パネル。\n\n#AI美女 #PromptLab #VariationLab #AI美女プロンプト\nhttps://t.co/rMbPkCeW14",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSiTA--asAErkTS.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSiTA--asAErkTS.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSiTA-_bUAAooml.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSiTA-_bUAAooml.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbnlHcagAYrbgE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbnlHcagAYrbgE.jpg",
+        "sourcePostId": "2100753923737108520"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 497
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/HObE4TLMga99335/status/2101140974894457078",
+  "coverUrl": "https://pbs.twimg.com/media/HSiTA--asAErkTS.jpg",
+  "coverPath": "images/2101140974894457078-1.jpg",
+  "imagePaths": [
+    "images/2101140974894457078-1.jpg",
+    "images/2101140974894457078-2.jpg",
+    "images/2101140974894457078-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSiTA--asAErkTS",
+    "x-image:/media/HSiTA-_bUAAooml",
+    "x-image:/media/HSbnlHcagAYrbgE",
+    "x-post:2101140974894457078",
+    "x-post:2100753923737108520"
+  ],
+  "analysis": {
+    "summary": "古着屋でオレンジのサングラスを試着する23歳日本人女性のリアルなスマホ写真プロンプト。",
+    "summaryEn": "Prompt for a realistic smartphone photo of a 23-year-old Japanese woman trying on orange sunglasses in a thrift shop.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成画像はプロンプトで指定された低ツインテールのピンクインナーカラー、古着屋の店内、オレンジ色のサングラス、ダスティピンクのトップスと黒のカーゴパンツの組み合わせに合致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "人物同一性：\n架空の23歳の日本人成人女性。小さな丸顔、大きく穏やかな垂れ目のダークブラウンの瞳、短くまっすぐな眉、小さな鼻、柔らかく自然な唇、明るいニュートラルな日本人の肌色。本人の解剖学的右目の下に小さなほくろが正確に1つある。つやのある黒いセミロングヘアを低いツインテールにし、下側の毛先の内側だけにダスティピンクが見える。成人らしい可愛らしい地雷系の雰囲気、恥ずかしげに口を閉じた微笑み。学生や子どもには見せない。成人の顔立ち、ほくろ、黒髪、ピンクの内側の配置、髪の長さ、年齢感を保ち、実在人物に似せない。\n\n体格：\n身長約152cm。小柄で柔らかな女性らしい成人体格。現実的な肩と胸郭、自然な胸の比率、小柄で現実的なウエスト、柔らかく均整の取れた腰と成人の四肢。身長と各部の比率を保つ。子どもっぽい体格、プッシュアップ、極端な圧迫、ありえない細さのウエストにしない。\n\n撮影状況：\n11:00。友達と古着屋へ。派手なオレンジのサングラスを目に掛け、ふざけて真顔を作るが口元に笑いをこらえている。鏡の方向を見てカメラ目線にしない。\n\n場所と背景：\n小さな古着屋、雑多な服のラック、細い姿見の縁。友人は撮影者で画面外。\n\n衣装：\nダスティピンクの身体に沿う短丈ノースリーブ、襟元に黒い細レースと小さな黒リボン。黒いワイドカーゴパンツ、白黒の厚底スニーカー、小さな銀色ハートのブレスレット。すべて不透明な普段着。低いツインテールは黒い小さなリボンで結び、毛先の内側だけダスティピンク。オレンジ色の太いフレーム、薄色レンズのサングラスを試着。\n\nポーズと動作：\n立ったまま片手でサングラスのつるを軽くつまむ。反対の手は自然に下ろす。肩は水平、首を傾けない。\n\n構図とカメラ：\n友人のスマホ、約2.3m、高さ1.3m、斜め正面から頭から靴までの全身。AFは顔。姿見の反射はフレーム外。\n最終サイズ1086×1448px、縦3:4の分割のない独立した画像を正確に1枚出力する。\n\n照明と雰囲気：\n店内の白い天井灯と入口からの昼光が混じる。\n\n写真画質：\n普通のスマートフォンの標準カメラで撮った、加工を最小限にとどめたHEICのような一枚。人物の同一性、体格、髪の形状と、表面の仕上げを区別し、自然な撮影処理と肌の細部の尺度を守る。指定された単一のAF面に従い、奥の顔だけを再照明、ノイズ除去、シャープ化しない。細部の解像は距離とともに連続的に落ちる。顔が識別できる範囲で、片側の頬の暖色、Tゾーンの不均一なつや、左右で異なる目の下の色調、鼻のわずかな赤みという複数の広い色調差を同時に残し、遠い顔に毛穴を描かない。近く解像できる肌には、繰り返しのない低コントラストの色差、圧迫による赤み、しわの影、まばらな毛穴や毛包の差を残す。化粧は実際の色素に見え、縁は少し不均一。唇と歯には通常の色の違いを残す。不均一な露出とホワイトバランス、持ち上げない暗部、細い飛び毛、構図のわずかな偏り、暗部のノイズ、AF付近の控えめなシャープ処理とHEIC圧縮を保つ。未加工の私的なカメラロールの一コマ。\n\n必須条件：\n各場面の指定を満たす、分割のない成人女性のスマートフォン写真を正確に1枚。場面の条件と自然なスマホ画質の条件の両方を満たす。\n23歳の架空の成人女性1人。場面ごとの表情を優先して毎回同じ笑顔にしない。\n採用条件：\n1) 23歳の成人顔、152cmの成人体格、黒髪低ツインとピンクの内側、本人の右目下のほくろ。\n2) 指定衣装、主動作、場面の表情を確認。\n3) 自宅は東京のコンパクトなワンルーム。自然なスマホ写真。\n指定時刻と場所。指定衣装を通常着用。腕2本、脚2本、自然な指と接触。縦3:4の独立画像1枚。指定の縦横比と全体の収まりを保つ。自然な明暗差。\nAFの階層は一つ。顔だけの露出調整、再照明、平滑化、復元をしない。奥の顔の広い色調差、近くの肌の不規則な微細差、局所的なスマホの画質上の癖を残す。\n明らかに成人である架空女性1人を、分割のない写真の唯一の主役として写す。頭1つ、顔1つ、解剖学的につながった腕が正確に2本、自然な手。前景の追加の手は場面や小物で明示されたときのみ許可し、人物自身の手と明確に分離する。文字、パネル、人物の重複、別アングルは生成しない。\n\nNegative Prompt：\n別人物、決めポーズ、読めるロゴや文字、他人の主役化、透け、衣服のずれ、衣装変更、余分な手足、不自然な捻り、分割画像、過剰なボケ、不要なクロップ、スタジオ照明、顔だけの美肌補正、美顔フィルター、発光する陶器のような顔、蝋のように均一な顔や四肢、肌の白色化、美容撮影の明るい補助光、顔だけの再照明、顔だけのシャープ化、完璧すぎる化粧の縁、一様につやのある唇、一様に真っ白な歯、全域の鮮明さ、全体への明瞭度処理、反復する肌模様、全域への偽の粒子、過剰なHDR、洗練されすぎたファッション演出、カタログ的な左右対称、広告キャンペーンの仕上がり、CGI、イラスト、未成年、十代、子ども、幼い年齢感、制服、実在人物、有名人に似た顔、人物の重複、追加の人物、追加の頭、追加の顔、本人の腕の追加や欠落、融合した四肢、離れた四肢、不自然な手、余分な指、融合した指、ゆがんだ顔、寄り目、文字、字幕、字、数字、ロゴ、透かし、署名、枠線、グリッド、コンタクトシート、コラージュ、分割画面、小窓、複数パネル。",
+    "sourceRange": {
+      "start": 87,
+      "end": 2334
+    },
+    "translations": {
+      "zh": "人物设定：23岁虚构日本成年女性，小圆脸、柔和下垂眼、右眼下有单颗泪痣、黑发低双马尾内侧粉色挑染。体格：约152cm微胖娇小比例。场景：11点在古着店试戴橙色墨镜，神情憋笑看向穿衣镜。服装：粉色无袖上衣、黑工装裤配厚底鞋。画质：手机自然抓拍感。",
+      "en": "Character identity: 23yo fictional Japanese adult female, round face, beauty mark under right eye, low twintails with pink inner dye. Body: petite ~152cm. Scene: thrift store at 11am, trying on orange sunglasses with a suppressed smile. Outfit: dusty pink tank top, black cargo pants, platform sneakers. Style: raw candid smartphone photo."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "photorealism",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
