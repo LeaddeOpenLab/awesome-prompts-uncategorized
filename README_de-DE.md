@@ -3751,20 +3751,20 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2101311302841078204"></a>
 
-### Übersetzung läuft
+### 15-sekündiger filmischer High-End-Uhrenwerbespot mit dunklen Nahaufnahmen, Makrodetails, urbanen Street-Aufnahmen und einer Hero-Produktaufnahme.
 
 Autor：[@navi\_Ai2](https://x.com/navi_Ai2) · [Originalbeitrag](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Produktmarketing · Kinematisch / Filmstill · Charakter · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** 15-sekündiger filmischer High-End-Uhrenwerbespot mit dunklen Nahaufnahmen, Makrodetails, urbanen Street-Aufnahmen und einer Hero-Produktaufnahme.
 
 <img src="covers/2101311302841078204.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen 15-sekündigen, hochwertigen, filmischen Werbespot für eine globale Lifestyle-Marke. Beginne mit einer dramatischen Nahaufnahme des Produkts in einer dunklen, luxuriösen Umgebung mit sanfter, filmischer Beleuchtung und dezenten atmosphärischen Partikeln. Gehe bei Sekunde 3 nahtlos in dynamische Makroaufnahmen über, die das erstklassige Design und die Details des Produkts zeigen. Zeige von Sekunde 7 bis 11 eine stilvolle junge Fachkraft, die das Produkt selbstbewusst in einer modernen internationalen Großstadtumgebung verwendet, mit eleganten Kamerabewegungen und geringer Schärfentiefe. Kehre von Sekunde 11 bis 15 zu einer Hero-Produktaufnahme mit sauberem Hintergrund, dramatischer Kantenbeleuchtung und Platz für Markenlogo und Slogan zurück. Ultrarealistische High-End-Werbefilmkunst, erstklassiges Color Grading, weiche Übergänge, realistische Reflexionen, 4K-Detailgenauigkeit, anspruchsvolle internationale Werbeästhetik, kein zusätzlicher Text, kein Wasserzeichen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

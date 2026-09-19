@@ -3751,20 +3751,20 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2101311302841078204"></a>
 
-### Traduzione in corso
+### Spot cinematografico di 15 secondi per un orologio di alta gamma, con primi piani a toni scuri, dettagli macro, riprese urbane e inquadratura hero finale.
 
 Autore：[@navi\_Ai2](https://x.com/navi_Ai2) · [Post originale](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Marketing di Prodotto · Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Spot cinematografico di 15 secondi per un orologio di alta gamma, con primi piani a toni scuri, dettagli macro, riprese urbane e inquadratura hero finale.
 
 <img src="covers/2101311302841078204.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea uno spot cinematografico di alta gamma di 15 secondi per un marchio lifestyle globale. Inizia con un drammatico primo piano del prodotto in un ambiente buio e lussuoso, con un'illuminazione cinematografica morbida e sottili particelle atmosferiche. A 3 secondi, passa fluidamente a dinamiche riprese macro che mostrano il design e i dettagli raffinati del prodotto. Da 7 a 11 secondi, mostra un giovane professionista elegante che utilizza con sicurezza il prodotto nell'ambiente di una moderna metropoli internazionale, con movimenti di camera eleganti e una profondità di campo ridotta. Da 11 a 15 secondi, torna a un'inquadratura hero del prodotto con uno sfondo pulito, un'illuminazione drammatica sui bordi e spazio per il logo del brand e il claim. Cinematografia pubblicitaria di fascia alta ultra-realistica, color grading premium, transizioni fluide, riflessi realistici, dettagli 4K, estetica pubblicitaria internazionale sofisticata, nessun testo aggiuntivo, nessun watermark.
 ```
 
 [↑ Torna alle categorie](#catalog)

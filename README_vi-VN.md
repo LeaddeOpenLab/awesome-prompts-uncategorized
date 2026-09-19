@@ -3776,20 +3776,20 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2101311302841078204"></a>
 
-### Đang dịch
+### Quảng cáo điện ảnh 15 giây dành cho đồng hồ cao cấp, bao gồm cận cảnh tông tối, chi tiết macro, chụp đường phố nhân vật đô thị và cảnh tĩnh sản phẩm chính.
 
 Tác giả：[@navi\_Ai2](https://x.com/navi_Ai2) · [Bài gốc](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Tiếp thị sản phẩm · Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Quảng cáo điện ảnh 15 giây dành cho đồng hồ cao cấp, bao gồm cận cảnh tông tối, chi tiết macro, chụp đường phố nhân vật đô thị và cảnh tĩnh sản phẩm chính.
 
 <img src="covers/2101311302841078204.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video quảng cáo điện ảnh cao cấp dài 15 giây cho một thương hiệu phong cách sống toàn cầu. Bắt đầu với một cận cảnh kịch tính của sản phẩm trong không gian tối tăm, sang trọng, cùng ánh sáng điện ảnh mềm mại và các hạt không khí tinh tế. Ở giây thứ 3, chuyển cảnh mượt mà sang các khung hình macro động thể hiện thiết kế và chi tiết cao cấp của sản phẩm. Từ giây thứ 7–11, thể hiện một chuyên gia trẻ trung, phong cách đang tự tin sử dụng sản phẩm trong môi trường thành phố quốc tế hiện đại, với chuyển động máy quay thanh lịch và độ sâu trường ảnh nông. Ở giây thứ 11–15, quay trở lại khung hình sản phẩm chính (hero shot) với phông nền sạch sẽ, ánh sáng viền kịch tính cùng khoảng trống dành cho logo và khẩu hiệu thương hiệu. Siêu thực, quay phim quảng cáo cao cấp, chỉnh màu cao cấp, chuyển cảnh mượt mà, phản chiếu chân thực, chi tiết 4K, thẩm mỹ quảng cáo quốc tế tinh tế, không có văn bản thừa, không có hình mờ.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -3751,20 +3751,20 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2101311302841078204"></a>
 
-### Traducción en curso
+### Comercial cinematográfico de 15 segundos para un reloj de alta gama, que incluye primeros planos oscuros, detalles macro, tomas urbanas de estilo de vida y una toma estelar del producto.
 
 Autor：[@navi\_Ai2](https://x.com/navi_Ai2) · [Publicación original](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Marketing de producto · Cine / Fotograma · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Comercial cinematográfico de 15 segundos para un reloj de alta gama, que incluye primeros planos oscuros, detalles macro, tomas urbanas de estilo de vida y una toma estelar del producto.
 
 <img src="covers/2101311302841078204.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un comercial cinematográfico prémium de 15 segundos para una marca global de estilo de vida. Comienza con un primer plano dramático del producto en un entorno oscuro y lujoso, con iluminación cinematográfica suave y sutiles partículas atmosféricas. A los 3 segundos, haz una transición fluida hacia tomas macro dinámicas que muestren el diseño prémium y los detalles del producto. De los 7 a los 11 segundos, muestra a un joven profesional elegante usando el producto con confianza en el entorno de una moderna ciudad internacional, con movimientos de cámara elegantes y poca profundidad de campo. De los 11 a los 15 segundos, regresa a una toma estelar del producto con un fondo limpio, una dramática iluminación de contorno y espacio para el logotipo y el eslogan de la marca. Cinematografía comercial de alta gama ultrarrealista, etalonaje de color prémium, transiciones fluidas, reflejos realistas, detalle 4K, estética sofisticada de publicidad internacional, sin texto adicional, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

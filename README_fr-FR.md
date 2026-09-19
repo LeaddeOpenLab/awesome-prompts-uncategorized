@@ -3751,20 +3751,20 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2101311302841078204"></a>
 
-### Traduction en cours
+### Publicité cinématographique de 15 secondes pour une montre haut de gamme, comprenant des gros plans sombres, des détails macro, des prises de vue urbaines et un plan produit héroïque.
 
 Auteur：[@navi\_Ai2](https://x.com/navi_Ai2) · [Publication originale](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Marketing produit · Image cinématographique / Photogramme de film · Personnage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Publicité cinématographique de 15 secondes pour une montre haut de gamme, comprenant des gros plans sombres, des détails macro, des prises de vue urbaines et un plan produit héroïque.
 
 <img src="covers/2101311302841078204.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une publicité cinématographique haut de gamme de 15 secondes pour une marque internationale de style de vie. Commencez par un gros plan dramatique du produit dans un environnement sombre et luxueux, avec un éclairage cinématographique doux et de subtiles particules atmosphériques. À 3 secondes, effectuez une transition fluide vers des plans macro dynamiques montrant le design haut de gamme et les détails du produit. De 7 à 11 secondes, montrez un jeune professionnel élégant utilisant le produit avec assurance dans un environnement urbain international moderne, avec des mouvements de caméra élégants et une faible profondeur de champ. De 11 à 15 secondes, revenez à un plan héroïque du produit avec un arrière-plan épuré, un éclairage de contour dramatique et de l'espace pour le logo et le slogan de la marque. Cinématographie publicitaire ultra-réaliste haut de gamme, étalonnage des couleurs premium, transitions fluides, reflets réalistes, détails en 4K, esthétique publicitaire internationale sophistiquée, aucun texte superflu, aucun filigrane.
 ```
 
 [↑ Retour aux catégories](#catalog)

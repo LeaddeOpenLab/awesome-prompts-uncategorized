@@ -3765,20 +3765,20 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2101311302841078204"></a>
 
-### Tradução em andamento
+### Comercial cinematográfico de 15 segundos para relógio de alto padrão, apresentando close-ups em tons escuros, detalhes macro, cenas urbanas de lifestyle e um plano principal de destaque.
 
 Autor：[@navi\_Ai2](https://x.com/navi_Ai2) · [Publicação original](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Marketing de Produto · Cinematográfico / Imagem de Filme · Personagem · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Comercial cinematográfico de 15 segundos para relógio de alto padrão, apresentando close-ups em tons escuros, detalhes macro, cenas urbanas de lifestyle e um plano principal de destaque.
 
 <img src="covers/2101311302841078204.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um comercial cinematográfico premium de 15 segundos para uma marca global de estilo de vida. Comece com um close-up dramático do produto em um ambiente escuro e luxuoso, com iluminação cinematográfica suave e partículas atmosféricas sutis. Aos 3 segundos, faça uma transição suave para tomadas macro dinâmicas mostrando o design premium e os detalhes do produto. Dos 7 aos 11 segundos, mostre um jovem profissional elegante usando o produto com confiança em um ambiente urbano internacional moderno, com movimentos de câmera elegantes e profundidade de campo rasa. Dos 11 aos 15 segundos, retorne a uma tomada principal (hero shot) do produto com um fundo limpo, iluminação de contorno dramática e espaço para o logotipo e slogan da marca. Cinematografia comercial de alto nível ultrarrealista, gradação de cores premium, transições suaves, reflexos realistas, detalhes em 4K, estética publicitária internacional sofisticada, sem texto extra, sem marca d'água.
 ```
 
 [↑ Voltar às categorias](#catalog)

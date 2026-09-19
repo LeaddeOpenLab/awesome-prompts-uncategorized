@@ -3776,20 +3776,20 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 <a name="prompt-2101311302841078204"></a>
 
-### Traducción en curso
+### Anuncio cinematográfico de 15 segundos para un reloj de alta gama, con primer plano en tono oscuro, detalles macro, tomas urbanas de personajes y toma fija protagonista.
 
 Autor：[@navi\_Ai2](https://x.com/navi_Ai2) · [Publicación original](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Marketing de producto · Cine / Fotograma de película · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Anuncio cinematográfico de 15 segundos para un reloj de alta gama, con primer plano en tono oscuro, detalles macro, tomas urbanas de personajes y toma fija protagonista.
 
 <img src="covers/2101311302841078204.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un anuncio cinematográfico prémium de 15 segundos para una marca global de estilo de vida. Comienza con un primer plano dramático del producto en un entorno oscuro y lujoso, con una iluminación cinematográfica suave y sutiles partículas atmosféricas. A los 3 segundos, realiza una transición fluida hacia tomas macro dinámicas que muestren el diseño y los detalles prémium del producto. De los 7 a los 11 segundos, muestra a un joven profesional con estilo usando con confianza el producto en un entorno urbano moderno e internacional, con un movimiento de cámara elegante y una profundidad de campo reducida. De los 11 a los 15 segundos, regresa a una toma heroica del producto con un fondo limpio, una iluminación de contorno dramática y espacio para el logotipo y el eslogan de la marca. Ultrarrealista, cinematografía publicitaria de alta gama, gradación de color prémium, transiciones suaves, reflejos realistas, detalle en 4K, estética publicitaria internacional sofisticada, sin texto adicional, sin marcas de agua.
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -3765,20 +3765,20 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2101311302841078204"></a>
 
-### Tradução em curso
+### Anúncio cinematográfico de 15 segundos para um relógio de gama alta, com grandes planos escuros, detalhes macro, filmagens urbanas de estilo de vida e um plano de destaque do produto.
 
 Autor：[@navi\_Ai2](https://x.com/navi_Ai2) · [Publicação original](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Marketing de Produto · Cena de Cinema / Fotograma · Personagem · Paisagem urbana / Rua · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Anúncio cinematográfico de 15 segundos para um relógio de gama alta, com grandes planos escuros, detalhes macro, filmagens urbanas de estilo de vida e um plano de destaque do produto.
 
 <img src="covers/2101311302841078204.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um anúncio cinematográfico premium de 15 segundos para uma marca global de estilo de vida. Comece com um grande plano dramático do produto num ambiente escuro e luxuoso, com iluminação cinematográfica suave e partículas atmosféricas subtis. Aos 3 segundos, faça uma transição suave para planos macro dinâmicos que mostrem o design premium e os detalhes do produto. Dos 7 aos 11 segundos, mostre um jovem profissional elegante a utilizar o produto com confiança num ambiente citadino internacional moderno, com movimentos de câmara elegantes e profundidade de campo reduzida. Dos 11 aos 15 segundos, regresse a um plano de destaque (hero shot) do produto com um fundo limpo, iluminação de contorno dramática e espaço para o logótipo e o slogan da marca. Cinematografia publicitária de topo ultrarrealista, gradação de cor premium, transições suaves, reflexos realistas, detalhe em 4K, estética publicitária internacional sofisticada, sem texto extra, sem marca de água.
 ```
 
 [↑ Voltar às categorias](#catalog)

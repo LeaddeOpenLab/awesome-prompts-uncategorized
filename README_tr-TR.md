@@ -3765,20 +3765,20 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2101311302841078204"></a>
 
-### Çeviri sürüyor
+### Karanlık yakın planlar, makro ayrıntılar, kentsel sokak çekimleri ve ana ürün dondurma karesini içeren 15 saniyelik üst düzey sinematik saat reklamı.
 
 Yazar：[@navi\_Ai2](https://x.com/navi_Ai2) · [Orijinal gönderi](https://x.com/navi_Ai2/status/2101311302841078204)
 
 Ürün Pazarlaması · Sinematik / Film Karesi · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Karanlık yakın planlar, makro ayrıntılar, kentsel sokak çekimleri ve ana ürün dondurma karesini içeren 15 saniyelik üst düzey sinematik saat reklamı.
 
 <img src="covers/2101311302841078204.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Küresel bir yaşam tarzı markası için 15 saniyelik üst düzey sinematik bir reklam filmi oluşturun. Karanlık ve lüks bir ortamda, yumuşak sinematik aydınlatma ve ince atmosferik partiküller eşliğinde ürünün dramatik bir yakın plan çekimiyle başlayın. 3. saniyede, ürünün birinci sınıf tasarımını ve ayrıntılarını gösteren dinamik makro çekimlere sorunsuz bir şekilde geçin. 7 ila 11. saniyeler arasında, modern bir uluslararası şehir ortamında, zarif kamera hareketleri ve sığ alan derinliği eşliğinde ürünü özgüvenle kullanan şık ve genç bir profesyoneli gösterin. 11 ila 15. saniyeler arasında, sade bir arka plan, dramatik kenar aydınlatması ve marka logosu ile sloganı için ayrılmış alan içeren bir ana ürün (hero shot) çekimine geri dönün. Ultra gerçekçi, üst düzey reklam sinematografisi, birinci sınıf renk derecelendirmesi, akıcı geçişler, gerçekçi yansımalar, 4K detay, sofistike uluslararası reklam estetiği, ekstra metin yok, filigran yok.
 ```
 
 [↑ Kategorilere dön](#catalog)
