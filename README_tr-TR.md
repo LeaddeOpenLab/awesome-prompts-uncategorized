@@ -57,20 +57,60 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Manzara / Doğa · Şehir Ma
 
 <a name="prompt-2101079216791920720"></a>
 
-### Çeviri sürüyor
+### Alacakaranlıkta bir çarşıda sevgilisini öpmek üzere yaklaşan iç çamaşırlı bir kadını tasvir eden fotogerçekçi bir görsel üretim komutu.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2101079216791920720)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Alacakaranlıkta bir çarşıda sevgilisini öpmek üzere yaklaşan iç çamaşırlı bir kadını tasvir eden fotogerçekçi bir görsel üretim komutu.
 
 <img src="images/2101079216791920720-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟 Alacakaranlıkta Çarşı | Fildişi Minik Çiçek İşlemeleri ve Öpücük Öncesi An 🌟
+
+【Konu ve Tarz】
+Akşamüstü bir çarşıyı arka plan alan, sevgilisiyle yan yana yürürken aniden durup yüzünü yavaşça ona doğru yaklaştıran bir kadının anını yakalayan fotogerçekçi bir fotoğraf. Gündelik yaşamın içindeki samimiyeti doğal bir şekilde yansıtan, bir film sahnesi havasına ve moda fotoğrafı estetiğine sahip bir kare.
+Gündelik hayatın aktığı sokak dokusu ile kadının zarif ve narin çekiciliğinin bir arada var olduğu bir anlatım. Aşırıya kaçmayan, yakın mesafeden nefesinin bile hissedilebildiği, ince ve sıcak bir fotoğrafik tasvire öncelik verilir.
+
+【Mekan, Arka Plan ve Atmosfer】
+Mekan, akşam saatlerinde tipik bir Japon alışveriş caddesidir (shotengai). Pasaj girişi, art arda sıralanmış dükkan cepheleri, sıcak tonlu tabela ışıkları, cam vitrinlerdeki ürün rafları ve sokağın derinliklerine uzanan caddenin silueti doğal bir biçimde görünür. Arka plan, ana karakteri gölgelemeyecek şekilde sadeleştirilirken, çarşıya özgü derinlik ve hafif insan akışı korunur.
+Ön planda kadının omuzları ve saç çevresi odaklanırken, orta planda dükkan ışıkları, uzak planda ise batan güneşin kızıllaştırdığı sokak yer alır; böylece eve dönüş yolunun sıcaklığını taşıyan, aşırı kentsel olmayan, samimi bir atmosfer oluşturulur.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim, ilk yazdan erken sonbahara geçişi andıran, havanın yumuşak olduğu bir akşamüstüdür. Zaman dilimi gün batımından hemen öncedir; alçalan akşam güneşi caddenin derinliklerinden süzülür ve gökyüzünde hala doğal ışık mevcuttur.
+Hava açık ve güneşlidir. Rüzgar hafif olup sadece saç tellerini ve yüzü çevreleyen lüleleri hafifçe kıpırdatacak şiddettedir. Ne çok sıcak ne de çok soğuk olan, yürümek için keyifli bir alacakaranlık havası resmedilir.
+
+【Karakter Tanımı】
+Karakter, 24 yaşında, kesinlikle yetişkin bir Japon kadındır. Yumuşak ve dengeli yüz hatlarına, hafifçe iri ve koyu renkli gözlere, doğal kaşlara, zarif ve ince bir burun yapısına ile canlı ve yumuşak dudaklara sahiptir. Saçları omuz hizasında dökülen dalgalı, koyu kahverengi tonlarındadır. Yüzünün çevresinde ince, serbest saç telleri bulunur.
+Ten rengi açık aşı boyası (açık buğday) tonunda olup aşırı pürüzsüzleştirilmemiş doğal bir dokuya sahiptir. Narin omuzlar ve kollar, ince bir bel ve kadınsı kıvrımlarla uyum sağlayan doğal olarak dolgun bir vücut yapısı vardır. Göğüsleri iri ve dolgun bir hacme sahip olmakla birlikte iç çamaşırının kesimine ve duruşuna uygun olarak doğal bir yuvarlaklık ve yumuşaklık sergiler. Genel olarak temiz, duru ve olgun bir sevimlilik taşır.
+
+【Kıyafet ve Aksesuarlar】
+Kıyafet, fildişi renginde minik çiçek işlemeli bir iç çamaşırı takımıdır. Sütyen, ince işlemeli kuplara ve detaylı fistolu dantellere sahiptir; yumuşak ışık altında desenler zarif bir biçimde belirir. Külot da aynı renk tonundadır ve takım genel olarak Wacoal tarzını anımsatan kaliteli ve seçkin bir tasarıma sahiptir.
+Malzemesi vücuda sıkmadan doğal bir şekilde oturan yumuşak kumaş ve ince danteldir. Dekoltede, koltuk altında veya göğüs altında yapay katlanmalar ya da boşluklar bulunmaz, doğal bir oturuş korunur. Aksesuarlar sade tutulmalı, gerekirse yalnızca küçük bir küpe ile sınırlandırılmalıdır.
+
+【Poz, Hareket ve Bakış】
+Kadın, çarşıda yürürken aniden adımlarını durdurmuş durumdadır. Vücudu hafifçe sevgilisine doğru dönüktür; ağırlık merkezini hafifçe arka ayağına vermiş ve omuzlarını rahatlatmıştır. Bir omzunu hafifçe öne çıkarıp yalnızca üst gövdesini nazikçe yaklaştırarak mesafeyi doğal bir şekilde kapatır.
+Eller kadraj dışında kalabilir, ancak kollar gerginlikten uzak, doğal bir şekilde aşağıda durmalı ve vücuttaki bükülme asgari düzeyde olmalıdır. Bakışlar önce sevgilisine yönelip ardından yavaşça aşağıya iner; göz kapakları kapanmadan hemen önceki akış yakalanır. Yüz aşırı yukarı kalkık olmamalı, dudakların usulca yaklaşacağı açı gözetilmelidir.
+
+【İfade ve Duygu】
+İfadesi, sevgilisine yaklaşmanın getirdiği tatlı bir utangaçlık ile yakınlığın harmanlandığı, öpücük öncesi son derece doğal bir ifadedir. Göz çevresi yumuşamış, göz kapakları kapanmak üzere yarı iniktir.
+Ağız çevresi gevşektir; hafifçe birleşmiş dudaklar çok az öne doğru uzanır. Dudak kenarlarında beliren küçük bir tebessümle gerginlikten ziyade samimiyet ve güven hissi uyandıran sıcak bir duygusal dışavurum yansıtılır.
+
+【Kompozisyon ve Kamera】
+X (Twitter) paylaşımlarına uygun 4:5 dikey kompozisyon. Göğüs bölgesinden başın tepesine kadar geniş bir alanı içine alan büst çekimi (göğüs üstü portre); başın üzerinde hafif bir boşluk bırakılır. Karakter kadrajın merkezine yakın konumlandırılırken yüzünü yaklaştırma hareketini hissettirmek adına sevgilinin bulunduğu tarafta hafif bir boşluk payı bırakılır.
+Kamera, kadının yüzü ile göğsü arasındaki bir hizada bulunur; yakın mesafeden çekilmiş, standart ila hafif telefoto açısındadır. Aşırı geniş açı bükülmelerinden kaçınılmalı, arka plan hafifçe bulanıklaştırılırken çarşının ve akşam saatlerinin atmosferi hissedilecek düzeyde korunmalıdır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı sokağın derinliklerinden süzülen akşam güneşidir; kadının yanaklarında, saç kenarlarında ve omuzlarında yumuşak bir ters ışık silüeti oluşturur. Buna ek olarak dükkanların sıcak ışıkları önden ve yanlardan yüzü hafifçe aydınlatıp yüz gölgelerini yumuşakça dengeler. Gölgeler aşırı derinleşmez, yansıyan ışık boyun ve yanaklarda sıcak bir his bırakır.
+Renk paleti fildişi, bej, turuncu ve açık kahverengi gibi sıcak tonlara odaklanır. Ciltte doğal bir canlılık, saçlarda ince tel detayları, dantellerde hassas örgü dokusu, arka plandaki cam ve metal tabelalarda ise akşam vaktine özgü yumuşak yansımalar yer alır. Genel atmosfer, eve dönüş yolunda yaşanan samimi, hafif utangaç ve tatlı bir anı yansıtır.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlük ile gerçek bir kamerayla çekilmiş gibi doğal insan anatomisi, perspektif, ışık ve malzeme dokusu hedeflenmelidir. Reşit görünmeyen unsurlardan, çocuksu yüz hatlarından, dengesiz vücut oranlarından, fazladan uzuv veya parmaklardan, eksik ya da yapışık parmaklardan, yapay eklemlerden ve sağ-sol karmaşasından kaçınılmalıdır.
+Kıyafet bozulmalarından, kıyafetin ciltle kaynaşmasından, istenmeyen açık saçıklıktan, göğüslerin yapay şekilde devasa ya da sert küreler halinde durmasından, aşırı push-up etkisinden, aşırı geniş açı distorsiyonundan, aşırı pürüzsüzleştirilmiş ten rötuşundan ve yapay arka plan işlemelerinden kaçınılmalıdır. Metin, logo, filigran ve arayüz ögeleri eklenmemelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)

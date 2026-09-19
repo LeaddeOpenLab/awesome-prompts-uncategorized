@@ -57,20 +57,60 @@ Tradução em andamento
 
 <a name="prompt-2101079216791920720"></a>
 
-### Tradução em andamento
+### Um prompt fotorrealista descrevendo uma mulher de lingerie se aproximando para beijar o namorado em uma rua comercial ao entardecer.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2101079216791920720)
 
 Fotografia · Retrato / Selfie · Personagem · Paisagem Urbana / Rua · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um prompt fotorrealista descrevendo uma mulher de lingerie se aproximando para beijar o namorado em uma rua comercial ao entardecer.
 
 <img src="images/2101079216791920720-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟 Rua Comercial ao Entardecer | Bordado Floral Miúdo Marfim e a Sensação Antes do Beijo 🌟
+
+【Tema e Estilo】
+Tendo como cenário uma rua comercial japonesa ao entardecer, esta fotografia fotorrealista captura o instante em que uma mulher, caminhando lado a lado com seu parceiro, de repente para e aproxima suavemente o rosto. Uma foto com estética de fotografia de moda e atmosfera de cena de filme, capturando de forma natural a intimidade no cotidiano.
+Uma representação que equilibra o charme suave e elegante da mulher com as ruas cheias de vida cotidiana. Enfatiza uma descrição fotográfica delicada e calorosa, sem exagero, que permite sentir até a respiração a curta distância.
+
+【Local, Cenário e Ambientação】
+O local é uma rua comercial (shotengai) japonesa ao entardecer. A entrada da galeria coberta, as fachadas de lojas contíguas, a luz quente das placas luminosas, as vitrines com prateleiras de produtos e o movimento da rua que se estende ao fundo aparecem com naturalidade. O fundo é organizado para não atrapalhar a protagonista, mantendo sutilmente a profundidade típica de uma rua comercial e o fluxo suave de pessoas.
+O primeiro plano foca nos ombros e cabelos da mulher, com as luzes das lojas no plano médio e a rua tingida pelo pôr do sol ao fundo, criando um universo acolhedor e familiar do caminho de volta para casa, sem ser urbano em excesso.
+
+【Estação, Horário e Clima】
+A estação lembra o final da primavera ao início do outono, um entardecer com ar ameno. O horário é logo antes do pôr do sol; o sol poente baixo entra do fundo da rua e ainda há luz natural no céu.
+O tempo está aberto. O vento é leve, apenas o suficiente para mover suavemente a superfície dos cabelos e os fios soltos. Retrata a sensação agradável de caminhar em um fim de tarde, nem muito quente nem muito frio.
+
+【Descrição da Personagem】
+A personagem é uma mulher japonesa inconfundivelmente adulta, de 24 anos. Feições suaves e proporcionais, olhos pretos ligeiramente grandes e expressivos, sobrancelhas naturais, ponte nasal fina e graciosa, e lábios macios e corados. Cabelo castanho-escuro em ondas suaves na altura dos ombros. Pequenos fios soltos emolduram o rosto.
+Pele em tom ocre claro, com textura natural e sem excesso de suavização. Físico naturalmente glamouroso, harmonizando ombros e membros delicados, cintura fina e curvas femininas. Seios grandes e volumosos, mantendo arredondamento e maciez naturais de acordo com a lingerie e a postura. No geral, um charme adulto com ar de pureza e limpeza.
+
+【Traje e Acessórios】
+A vestimenta é uma lingerie marfim com bordado de flores miúdas. O sutiã apresenta taças bordadas delicadas e renda recortada detalhada, com os padrões se destacando suavemente sob a luz tênue. A calcinha segue a mesma paleta de cores, formando um design refinado e de alta qualidade que lembra a estética da Wacoal.
+Feita de tecido macio e renda delicada, ajustando-se com realismo ao corpo sem apertar. Sem marcas exageradas ou vãos artificiais no decote, laterais ou base, garantindo um caimento natural. Acessórios discretos, limitando-se a pequenos brincos se necessário.
+
+【Pose, Ação e Olhar】
+A mulher para subitamente enquanto caminhava pela rua comercial. Seu corpo está ligeiramente voltado para o parceiro, o peso descansando suavemente na perna de trás e os ombros relaxados. Ela projeta um dos ombros suavemente para a frente e aproxima com delicadeza apenas a parte superior do tronco, encurtando a distância de forma natural.
+As mãos podem estar fora do enquadramento, mas os braços repousam relaxados e para baixo, com pouca torção do corpo. O olhar começa no parceiro e depois desce lentamente, logo antes de fechar as pálpebras. O rosto está suavemente inclinado para cima, num ângulo consciente de lábios que se aproximam docemente.
+
+【Expressão e Emoção】
+A expressão é natural para o momento que antecede um beijo, mesclando doçura e uma leve timidez ao se aproximar do amado. O olhar relaxa ternamente, com as pálpebras semi-cerradas instantes antes de fechar.
+A boca está sem tensão, com os lábios suavemente unidos projetados bem de leve para a frente. Um pequeno sorriso repousa nos cantos dos lábios, transmitindo intimidade e segurança em vez de tensão, expressando um calor emocional reconfortante.
+
+【Composição e Câmera】
+Composição vertical em proporção 4:5 adequada para publicações no X. Plano médio fechado (busto), enquadrando desde o colo até o topo da cabeça, com um leve respiro no topo. A personagem fica um pouco descentralizada em direção ao meio, reservando espaço do lado do parceiro para que o movimento de aproximação do rosto seja bem percebido.
+A câmera está na altura média entre o rosto e o colo da mulher, a curta distância, com ângulo natural de lente padrão a teleobjetiva média. Evita distorções extremas de grande-angular, mantendo o fundo suavemente desfocado, mas ainda legível quanto à atmosfera da rua comercial e do entardecer.
+
+【Luz, Cor, Textura e Atmosfera】
+A luz principal é o sol poente vindo do fundo da rua, desenhando um contorno suave em contraluz nas bochechas, bordas do cabelo e ombros da mulher. Além disso, a iluminação quente das lojas atinge suavemente a frente e as laterais, equilibrando com delicadeza as sombras do rosto. As sombras não são muito profundas, deixando calor no pescoço e bochechas por luz refletida.
+A paleta de cores foca em tons quentes como marfim, bege, laranja e castanho claro. Pele com viço natural, fios de cabelo detalhados, renda com trama minuciosa, e vidro e placas metálicas ao fundo exibindo reflexos suaves típicos do fim de tarde. O clima geral é íntimo, um instante doce e levemente envergonhado do caminho para casa.
+
+【Qualidade e Elementos Negativos】
+Prioriza alta resolução, corpo humano realista como se tivesse sido fotografado por uma câmera real, perspectiva correta, iluminação e texturas autênticas. Evitar aparências menores de idade, rostos infantis demais, proporções corporais anormais, membros ou dedos extras, dedos ausentes ou fundidos, articulações artificiais e confusão entre esquerda e direita.
+Evitar falhas na roupa, fusão da roupa com o corpo, nudez acidental, seios com aumento artificial ou aspecto esférico e rígido, efeito push-up exagerado, distorção de grande-angular, pele excessivamente plastificada e fundos com renderização artificial. Não incluir textos, logotipos, marcas d'água ou elementos de interface.
 ```
 
 [↑ Voltar às categorias](#catalog)

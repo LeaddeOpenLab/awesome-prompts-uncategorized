@@ -57,20 +57,60 @@ Traduction en cours
 
 <a name="prompt-2101079216791920720"></a>
 
-### Traduction en cours
+### Prompt réaliste mettant en scène une femme en lingerie s'approchant pour embrasser son partenaire dans une rue commerçante au crépuscule.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2101079216791920720)
 
 Photographie · Portrait / Selfie · Personnage · Paysage urbain / Rue · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt réaliste mettant en scène une femme en lingerie s'approchant pour embrasser son partenaire dans une rue commerçante au crépuscule.
 
 <img src="images/2101079216791920720-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Rue commerçante au crépuscule | Broderie florale ivoire et prémices d'un baiser🌟
+
+【Sujet et style artistique】
+Photo photoréaliste capturant l'instant où une femme marchant aux côtés de son partenaire s'arrête soudainement dans une rue commerçante en fin de journée et approche doucement son visage. Une prise de vue proche de la photographie de mode, telle une scène de cinéma capturant avec naturel l'intimité du quotidien.
+Une représentation conciliant l'atmosphère vivante du quartier et le charme délicat et raffiné de la femme. Sans extravagance excessive, l'accent est mis sur un rendu photographique subtil et chaleureux, au point de presque ressentir son souffle à courte distance.
+
+【Lieu, arrière-plan et ambiance】
+Le décor est une rue commerçante japonaise au crépuscule. L'entrée d'une galerie marchande, les devantures de magasins alignées, la lueur chaleureuse des enseignes, les vitrines et la profondeur de la rue qui s'étire au loin sont visibles de manière naturelle. L'arrière-plan est épuré afin de ne pas gêner le sujet principal, tout en conservant subtilement la perspective et le passage des passants propres à une rue commerçante.
+Le premier plan met l'accent sur les épaules et la chevelure de la femme, le plan moyen accueille les lumières des boutiques et l'arrière-plan dévoile la rue baignée par le soleil couchant, instaurant une atmosphère chaleureuse de chemin du retour, conviviale et sans froideur urbaine.
+
+【Saison, heure et météo】
+La saison évoque le début de l'été ou le début de l'automne, avec un air doux de fin de journée. L'heure se situe juste avant le coucher du soleil, une lumière dorée et basse provenant du fond de la rue, tandis que le ciel conserve encore une lueur naturelle.
+Le temps est dégagé. Le vent est très léger, tout juste suffisant pour animer la surface des cheveux et quelques mèches rebelles. Ni trop chaud ni trop froid, retranscrivant la sensation agréable d'une promenade au crépuscule.
+
+【Description du personnage】
+Le personnage est une femme japonaise de 24 ans, clairement adulte. Ses traits sont doux et harmonieux, avec des yeux légèrement grands au regard sombre expressif, des sourcils naturels, une arête nasale fine et élégante, et des lèvres douces et bien colorées. Ses cheveux sont châtain foncé, ondulant souplement jusqu'aux épaules, avec de fines mèches légères autour du visage.
+Son teint est ocre clair avec un grain de peau naturel, sans lissage excessif. Sa silhouette est naturellement pulpeuse et harmonieuse, alliant des épaules et des membres fins, une taille marquée et des courbes féminines. Sa poitrine affiche un volume généreux et ample, conservant une rondeur et une souplesse naturelles adaptées à la posture et au vêtement. L'ensemble dégage une séduction adulte, fraîche et soignée.
+
+【Tenue et accessoires】
+La tenue est un ensemble de lingerie couleur ivoire brodé de petites fleurs. Le soutien-gorge présente des bonnets délicatement brodés ornés d'une fine dentelle festonnée, dont les motifs se révèlent discrètement sous la lumière douce. La culotte est coordonnée dans les mêmes tons, l'ensemble offrant un design élégant et haut de gamme évoquant les créations de Wacoal.
+Les matières sont un tissu souple et une dentelle fine, avec une taille réaliste qui épouse le corps sans le comprimer. Pas d'effet de pincement ni de bâillement disgracieux au décolleté, sous les aisselles ou sous la poitrine, préservant un ajustement parfaitement naturel. Les accessoires sont discrets, réduits au maximum à de petites boucles d'oreilles si nécessaire.
+
+【Pose, geste et regard】
+La femme s'arrête net au cours de sa marche dans la rue commerçante. Son corps est légèrement orienté vers son partenaire, son poids reposant sur la jambe arrière, les épaules détendues. Elle avance subtilement une épaule et penche doucement le haut du buste vers lui, rendant très naturel le geste de réduire la distance.
+Les deux mains peuvent être hors cadre, les bras retombant souplement sans tension, avec une torsion minimale du buste. Son regard se pose d'abord sur son partenaire avant de descendre doucement, juste avant de fermer les paupières. Le visage n'est pas trop relevé, orienté selon l'angle parfait où les lèvres s'approchent délicatement.
+
+【Expression et émotion】
+Son expression traduit toute la tendresse et la timidité naturelle précédant un baiser. Le regard est doux et détendu, les paupières mi-closes sur le point de se sceller.
+La bouche, doucement fermée sans crispation, s'avance très légèrement. Un subtil sourire flotte au coin des lèvres, traduisant davantage de complicité et de sérénité qu'une quelconque anxiété, dans une expression pleine de chaleur émotionnelle.
+
+【Composition et cadrage】
+Cadrage vertical au format 4:5 adapté aux publications sur X. Un plan poitrine généreux allant du décolleté jusqu'au sommet du crâne, laissant un léger espace au-dessus de la tête. Le sujet est placé vers le centre tout en ménageant un espace du côté du partenaire pour souligner le mouvement d'approche du visage.
+La caméra est positionnée à mi-hauteur entre le visage et la poitrine de la femme, avec un angle de vue naturel allant du standard au petit téléobjectif à courte distance. Éviter toute distorsion grand angle excessive ; l'arrière-plan est délicatement flouté tout en laissant deviner l'ambiance crépusculaire de la rue commerçante.
+
+【Lumière, couleur, texture et atmosphère】
+La source lumineuse principale est le soleil couchant rasant qui arrive du bout de la rue, créant un subtil contre-jour qui dessine les joues, les contours de la chevelure et les épaules. De plus, l'éclairage chaud des devantures éclaire doucement de face et de côté, modelant délicatement les ombres du visage. Les ombres ne sont pas trop denses, les reflets conservant une douce chaleur sur le cou et les joues.
+La palette de couleurs privilégie les tonalités chaudes autour de l'ivoire, du beige, de l'orange et du brun clair. Teint naturel et frais, détails fins des mèches de cheveux, maille délicate de la dentelle, et reflets vespéraux doux sur les vitres et les enseignes métalliques en fond. L'ambiance générale est intime, capturant un instant tendre et légèrement timide sur le chemin du retour.
+
+【Qualité et éléments exclus】
+Haute résolution exigée, privilégiant une anatomie humaine réaliste digne d'une prise de vue à l'appareil photo réel, avec une gestion fidèle de la perspective, de la lumière et des matières. Exclure tout aspect pouvant évoquer une personne mineure, les visages trop enfantins, les proportions corporelles anormales, les membres ou doigts surnuméraires, manquants ou fusionnés, les articulations contre nature et les confusions gauche/droite.
+Éviter les défauts de vêtements, la fusion entre tissu et peau, la nudité involontaire, une poitrine disproportionnée de manière grotesque ou rigide comme une sphère, un effet push-up outrancier, les déformations extrêmes au grand-angle, le lissage excessif de la peau et les arrière-plans artificiels. Aucun texte, logo, filigrane ou élément d'interface.
 ```
 
 [↑ Retour aux catégories](#catalog)

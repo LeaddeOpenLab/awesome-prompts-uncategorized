@@ -57,20 +57,60 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh /
 
 <a name="prompt-2101079216791920720"></a>
 
-### Đang dịch
+### Lời nhắc mang tính tả thực khắc họa người phụ nữ mặc nội y ghé sát nụ hôn với người yêu trên khu phố mua sắm lúc hoàng hôn.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2101079216791920720)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh thành phố / Đường phố · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mang tính tả thực khắc họa người phụ nữ mặc nội y ghé sát nụ hôn với người yêu trên khu phố mua sắm lúc hoàng hôn.
 
 <img src="images/2101079216791920720-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Khu phố mua sắm lúc hoàng hôn｜Họa tiết hoa thêu nhỏ màu ngà và khoảnh khắc trước nụ hôn🌟
+
+【Chủ đề・Phong cách nghệ thuật】
+Bức ảnh chân thực ghi lại khoảnh khắc một cô gái đang đi dạo cùng người yêu trên khu phố mua sắm vào buổi chiều tối bỗng dừng bước và nhẹ nhàng ghé sát gương mặt lại gần. Đây là một bức ảnh mang hơi hướng nhiếp ảnh thời trang với bầu không khí như một cảnh phim, lột tả sự thân mật tự nhiên trong cuộc sống thường nhật.
+Sự thể hiện hài hòa giữa khung cảnh đường phố tràn đầy hơi thở cuộc sống và sức hút thanh lịch, dịu dàng của người phụ nữ. Chú trọng vào lối miêu tả nhiếp ảnh tinh tế và ấm áp, không quá phô trương, có thể cảm nhận được cả hơi thở ở cự ly gần.
+
+【Địa điểm・Bối cảnh・Thế giới quan】
+Địa điểm là khu phố mua sắm (shotengai) của Nhật Bản vào buổi chiều tà. Lối vào có mái vòm, các mặt tiền cửa hàng san sát, ánh đèn biển hiệu màu ấm, các kệ hàng sau lớp kính và dư vị của con phố kéo dài vào sâu bên trong hiện lên một cách tự nhiên. Hậu cảnh được tinh chỉnh ở mức độ không làm ảnh hưởng đến nhân vật chính, đồng thời vẫn giữ lại mờ ảo chiều sâu và dòng người qua lại đặc trưng của khu phố mua sắm.
+Tiền cảnh tập trung quanh vai và mái tóc của cô gái, trung cảnh là ánh đèn trước hiên cửa hàng, và hậu cảnh là con phố nhuộm màu hoàng hôn, tạo nên một thế giới ấm áp trên đường về nhà và gần gũi, không quá xa hoa nơi đô thị.
+
+【Mùa・Thời gian・Thời tiết】
+Mùa gợi nhớ từ đầu hè đến đầu thu, với bầu không khí chiều tối êm dịu. Thời điểm là ngay trước khi mặt trời lặn, ánh hoàng hôn chiếu thấp từ phía cuối con phố và trên bầu trời vẫn còn vương lại ánh sáng tự nhiên.
+Thời tiết quang đãng. Gió không quá mạnh, chỉ vừa đủ để làm lay động nhẹ bề mặt tóc và những lọn tóc mai con. Khắc họa không khí hoàng hôn dễ chịu khi dạo bước, không quá nóng cũng không quá lạnh.
+
+【Thiết lập nhân vật】
+Nhân vật là một phụ nữ Nhật Bản 24 tuổi, rõ ràng là người trưởng thành. Đường nét khuôn mặt mềm mại và thanh tú, đôi mắt to tròn đen láy, lông mày tự nhiên, sống mũi thon gọn thanh thoát và đôi môi mềm mại có sắc hồng hào. Mái tóc màu nâu trầm, dài chấm vai với những lọn sóng buông lơi. Xung quanh mặt có những sợi tóc mai con tinh tế.
+Làn da tông màu vàng sáng (ochre), kết cấu tự nhiên không quá láng mịn nhân tạo. Vóc dáng có bờ vai và tay chân thanh mảnh, vòng eo thon gọn, kết hợp hài hòa các đường cong nữ tính tạo nên thân hình quyến rũ tự nhiên. Vòng một căng tràn và đầy đặn, đồng thời thể hiện độ tròn trịa và mềm mại tự nhiên theo dáng điệu và trang phục. Tổng thể toát lên vẻ đáng yêu của người trưởng thành và sạch sẽ thanh lịch.
+
+【Trang phục・Phụ kiện】
+Trang phục là nội y màu ngà thêu hoa nhỏ. Áo ngực có cúp ngực thêu tinh xảo cùng viền ren lượn sóng tỉ mỉ, hoa văn hiện lên kín đáo dưới ánh sáng dịu nhẹ. Quần lót đồng bộ về màu sắc, tổng thể mang thiết kế cao cấp, thanh lịch gợi nhớ đến phong cách của Wacoal.
+Chất liệu vải mềm mại và ren tinh tế, kích cỡ chân thực ôm vừa vặn cơ thể mà không bị gượng ép. Không có vết hằn hay khoảng hở bất tự nhiên ở ngực, nách hay chân ngực, giữ được độ ôm sát tự nhiên. Phụ kiện tối giản, nếu cần chỉ dừng lại ở đôi khuyên tai nhỏ.
+
+【Tư thế・Hành động・Ánh nhìn】
+Cô gái trong trạng thái bất chợt dừng lại khi đang bước đi trên con phố. Cơ thể hơi hướng chéo về phía người yêu, trọng tâm hơi dồn vào chân phía sau, thả lỏng vai. Đưa một bên vai ra trước một chút, nhẹ nhàng ghé nửa thân trên lại gần để thể hiện hành động thu hẹp khoảng cách một cách tự nhiên.
+Hai tay có thể ở ngoài khung hình, nhưng vị trí cánh tay buông xuống tự nhiên không căng thẳng, độ vặn của cơ thể ở mức vừa phải. Ánh nhìn thoạt đầu nhìn người yêu rồi từ từ hạ xuống, trong khoảnh khắc ngay trước khi khép mi mắt lại. Hướng mặt không ngửa lên quá cao, chú ý đến góc độ đôi môi nhẹ nhàng tiến lại gần.
+
+【Biểu cảm・Cảm xúc】
+Biểu cảm trước nụ hôn rất tự nhiên, pha trộn giữa sự e thẹn và ngọt ngào khi đến gần người yêu. Đuôi mắt giãn ra êm dịu, mí mắt khép hờ ngay trước khi nhắm hẳn.
+Khóe môi không dùng lực quá nhiều, đôi môi khép mềm mại hơi đưa về phía trước một chút. Nơi khóe miệng vẫn còn vương nụ cười mỉm nhẹ, tạo nên biểu cảm cảm xúc ấm áp, truyền tải sự thân mật và an tâm hơn là sự căng thẳng.
+
+【Bố cục・Máy ảnh】
+Bố cục dọc 4:5 phù hợp cho bài đăng trên X. Khung hình chụp từ ngực trở lên (bust-up) ôm trọn từ phần ngực đến đỉnh đầu, để lại một khoảng trống nhỏ phía trên đỉnh đầu. Đặt nhân vật hơi lệch về trung tâm khung hình, đồng thời chừa lại một khoảng trống vừa phải ở phía người yêu để truyền tải chuyển động ghé sát mặt.
+Máy ảnh đặt ở độ cao khoảng giữa mặt và ngực cô gái, cự ly gần với góc nhìn từ tiêu chuẩn tự nhiên đến tele tầm trung. Tránh hiện tượng méo do góc rộng cực đoan, hậu cảnh làm mờ nhẹ nhưng vẫn giữ lại mức độ đủ để nhận biết khu phố mua sắm và bầu không khí buổi chiều.
+
+【Ánh sáng・Màu sắc・Chất cảm・Không khí】
+Nguồn sáng chính là ánh hoàng hôn chiếu xuyên từ cuối con phố, tạo đường viền ngược sáng (rim light) mềm mại trên má, mép tóc và vai của cô gái. Thêm vào đó, ánh đèn màu ấm từ các cửa hàng chiếu nhẹ từ phía trước và bên cạnh, làm dịu đi các mảng tối trên khuôn mặt. Bóng không quá sâu, ánh sáng phản xạ để lại sự ấm áp nơi cổ và má.
+Tông màu ấm áp với các màu chủ đạo là ngà, be, cam và nâu nhạt. Da có sắc hồng hào tự nhiên, tóc có thớ sợi mảnh chi tiết, ren có đường đan tinh xảo, kính và biển hiệu kim loại ở hậu cảnh có độ phản xạ mềm mại mang đậm chất chiều tà. Không khí tổng thể thân mật, là một khoảnh khắc ngọt ngào hơi bẽn lẽn trên đường về nhà.
+
+【Chất lượng・Yếu tố loại trừ】
+Độ phân giải cao, coi trọng cơ thể người tự nhiên, phối cảnh, ánh sáng và chất cảm vật liệu như thể được chụp bằng máy ảnh thực tế. Tránh các biểu hiện trông giống vị thành niên, khuôn mặt quá non nớt, tỷ lệ cơ thể bất thường, thừa tay chân hoặc ngón tay, thiếu ngón, dính ngón, khớp xương bất thường, nhầm lẫn giữa trái và phải.
+Tránh hỏng hóc trang phục, cơ thể và trang phục bị hòa lẫn vào nhau, lộ hàng ngoài ý muốn, ngực to bất thường hoặc có hình cầu cứng nhắc, nâng đẩy quá mức, méo góc rộng cực đoan, chỉnh mịn da quá đà, xử lý hậu cảnh bất tự nhiên. Không đưa vào chữ viết, logo, hình mờ (watermark), hiển thị giao diện UI.
 ```
 
 [↑ Về danh mục](#catalog)

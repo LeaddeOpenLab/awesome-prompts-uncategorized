@@ -57,20 +57,60 @@ Fotografie · Porträt / Selfie · Charakter · Landschaft / Natur · Stadtbild 
 
 <a name="prompt-2101079216791920720"></a>
 
-### Übersetzung läuft
+### Ein fotorealistischer Prompt, der eine Frau in Dessous zeigt, die sich in einer Einkaufsstraße in der Abenddämmerung zu einem Kuss an ihren Partner schmiegt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2101079216791920720)
 
 Fotografie · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein fotorealistischer Prompt, der eine Frau in Dessous zeigt, die sich in einer Einkaufsstraße in der Abenddämmerung zu einem Kuss an ihren Partner schmiegt.
 
 <img src="images/2101079216791920720-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Einkaufsstraße in der Abenddämmerung | Elfenbeinfarbene Blütenstickerei und das Vorgefühl eines Kusses🌟
+
+【Thema & Bildstil】
+Ein fotorealistisches Foto, das den Moment festhält, in dem eine Frau, die mit ihrem Partner durch eine Einkaufsstraße in der Abenddämmerung spaziert, unvermittelt innehält und sanft ihr Gesicht nähert. Eine Aufnahme mit der Anmutung eines Modefotos und der Atmosphäre einer Filmszene, die die alltägliche Intimität ganz natürlich einfängt.
+Ein Ausdruck, in dem das lebendige Treiben der Straße und der elegante, sanfte Charme der Frau harmonisch verschmelzen. Nicht übertrieben auffällig, sondern mit Fokus auf einer feinen, warmen fotografischen Darstellung, bei der man aus nächster Nähe fast den Atem spüren kann.
+
+【Ort, Hintergrund & Welt】
+Der Schauplatz ist eine japanische Einkaufsstraße am Abend. Der Eingang zu einer überdachten Passage, aneinandergereihte Schaufenster, das warme Licht von Reklameschildern, Auslagen hinter Glas und die Tiefe der Straße, die sich nach hinten erstreckt, wirken ganz natürlich. Der Hintergrund ist so aufgeräumt, dass er die Hauptfigur nicht stört, lässt aber die für eine Einkaufsstraße typische Tiefe und den sanften Fluss der Passanten erahnen.
+Der Vordergrund konzentriert sich auf die Schultern und das Haar der Frau, im Mittelgrund liegen die Lichter der Läden und im Hintergrund die von der Abendsonne gefärbte Straße – so entsteht die vertraute, warme Stimmung eines Heimwegs, die nicht zu kühl-urban wirkt.
+
+【Jahreszeit, Uhrzeit & Wetter】
+Die Jahreszeit erinnert an den Frühsommer bis Frühherbst mit milder Abendluft. Die Zeit ist kurz vor Sonnenuntergang; die tief stehende Westsonne fällt von hinten in die Straße, während am Himmel noch natürliches Restlicht liegt.
+Das Wetter ist heiter. Der Wind ist sanft, gerade stark genug, um die Haaroberfläche und einzelne lose Strähnen leicht zu bewegen. Weder zu heiß noch zu kalt – die behagliche Atmosphäre eines abendlichen Spaziergangs.
+
+【Personenbeschreibung】
+Die Person ist eine 24-jährige, eindeutig erwachsene Japanerin. Sie hat weiche, ebenmäßige Gesichtszüge, eher große, dunkle Augen mit lebendigem Glanz, natürliche Augenbrauen, einen feinen, eleganten Nasenrücken und weiche, gut durchblutete Lippen. Ihr Haar ist dunkelbraun, reicht bis zu den Schultern und fällt in sanften Wellen, mit feinen Babyhaaren um das Gesicht.
+Ihr Teint ist ein heller Ockerton mit einer natürlichen, nicht übermäßig glatten Textur. Ihre Figur ist natürlich glamourös und harmonisch: zierliche Schultern und Gliedmaßen, eine schlanke Taille und feminine Rundungen. Ihre Brust hat ein großes, üppiges Volumen und zeigt je nach Pose und Kleidung eine natürliche Rundung und Weichheit. Insgesamt verkörpert sie eine gepflegte, erwachsene Lieblichkeit.
+
+【Kleidung & Accessoires】
+Die Kleidung besteht aus elfenbeinfarbener Lingerie mit zarter Blütenstickerei. Der BH verfügt über Cups mit feiner Stickerei und filigraner Bogenkanten-Spitze, deren Muster im sanften Licht dezent hervortritt. Das Höschen ist farblich passend abgestimmt; das Gesamtdesign ist edel und erinnert an hochwertige Marken wie Wacoal.
+Das Material besteht aus weichem Stoff und feiner Spitze mit einer realistischen Passform, die sich natürlich an den Körper schmiegt. Kein unnatürliches Einschneiden oder Abstehen an Dekolleté, Seiten oder Unterbrustband. Accessoires sind zurückhaltend gewählt, maximal kleine Ohrstecker falls nötig.
+
+【Pose, Bewegung & Blick】
+Die Frau ist mitten im Gehen durch die Einkaufsstraße plötzlich stehen geblieben. Ihr Körper ist leicht schräg zum Partner gewandt, das Gewicht ruht auf dem hinteren Bein, die Schultern sind entspannt. Indem sie eine Schulter leicht nach vorne schiebt und sanft nur den Oberkörper heranführt, wirkt die Annäherung vollkommen natürlich.
+Beide Hände dürfen außerhalb des Bildausschnitts liegen, die Arme hängen gelöst und ohne Anspannung herab, die Drehung des Körpers bleibt dezent. Ihr Blick richtet sich zuerst auf den Partner und senkt sich dann langsam, kurz bevor sich die Lider schließen. Der Kopf ist nicht zu stark angehoben, im perfekten Winkel, in dem sich die Lippen sanft nähern.
+
+【Ausdruck & Emotion】
+Der Gesichtsausdruck fängt das natürliche Gefühl unmittelbar vor einem Kuss ein – eine Mischung aus Verliebtheit, Süße und leichter Verlegenheit beim Herantreten an den Partner. Die Augenpartie wirkt weich entspannt, die Lider sind halb gesenkt, kurz vor dem Schließen.
+Die Lippen sind ohne Verkrampfung weich geschlossen und ganz leicht nach vorne geschürzt. Ein feines Lächeln liegt auf den Mundwinkeln; der emotionale Ausdruck strahlt Wärme, Vertrautheit und Geborgenheit statt Anspannung aus.
+
+【Bildkomposition & Kamera】
+Ein vertikales 4:5-Format für X-Posts. Eine Brustansicht (Bust-up), die den Bereich vom Dekolleté bis zum Scheitel großformatig einfängt, mit etwas Freiraum über dem Kopf. Die Figur ist leicht zur Mitte hin platziert, lässt jedoch zur Seite des Partners etwas Raum frei, um die Bewegung des Heranbeugens spürbar zu machen.
+Die Kamera befindet sich auf mittlerer Höhe zwischen Gesicht und Brust der Frau, mit einem natürlichen Standard- bis leichten Tele-Blickwinkel aus kurzer Distanz. Extreme Weitwinkelverzerrungen werden vermieden; der Hintergrund ist leicht unscharf, lässt aber die abendliche Einkaufsstraße noch gut erkennen.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Die Hauptlichtquelle ist die untergehende Sonne, die von hinten durch die Straße scheint und ein sanftes Gegenlicht-Streiflicht auf den Wangen, Haarkanten und Schultern der Frau erzeugt. Ergänzend trifft das warme Licht der Schaufenster von vorne und der Seite sanft ein und modelliert die Schatten des Gesichts harmonisch. Die Schatten sind nicht zu tief; reflektiertes Licht spendet Wärme an Hals und Wangen.
+Die Farbgebung basiert auf warmen Tönen um Elfenbein, Beige, Orange und zartem Braun. Natürliche Hauttöne mit frischer Durchblutung, feine Haarsträhnen, detailreiche Spitzenstrukturen sowie weiche Abendreflexionen auf Glas und Metallschildern im Hintergrund. Die Gesamtstimmung ist intim, vertraut und voller verliebter Süße auf dem Heimweg.
+
+【Qualität & Ausschlusskriterien】
+Fokus auf hoher Auflösung, natürlicher menschlicher Anatomie wie mit einer echten Kamera fotografiert, realistischer Perspektive, Lichtführung und Materialtexturen. Keine Darstellungen von Minderjährigen, keine zu kindlichen Gesichter, keine unnatürlichen Körperproportionen, keine überzähligen Gliedmaßen oder Finger, keine fehlenden oder verschmolzenen Finger, keine verrenkten Gelenke oder vertauschten Seiten.
+Keine fehlerhafte Kleidung, kein Verschmelzen von Kleidung und Haut, keine unbeabsichtigte Nacktheit, keine unnatürlich gigantischen oder unnatürlich harten, kugeligen Brüste, kein übermäßiger Push-up-Effekt, keine extremen Weitwinkelverzerrungen, keine übertriebene Hautglättung und keine unnatürliche Hintergrundbearbeitung. Keine Texte, Logos, Wasserzeichen oder UI-Elemente.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

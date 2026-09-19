@@ -57,20 +57,60 @@ Traducción en curso
 
 <a name="prompt-2101079216791920720"></a>
 
-### Traducción en curso
+### Prompt fotorrealista que retrata a una mujer en lencería acercándose para besar a su pareja en una calle comercial al atardecer.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2101079216791920720)
 
 Fotografía · Retrato / Selfie · Personaje · Paisaje urbano / Calle · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt fotorrealista que retrata a una mujer en lencería acercándose para besar a su pareja en una calle comercial al atardecer.
 
 <img src="images/2101079216791920720-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Calle comercial al atardecer｜Bordado de pequeñas flores en marfil y la antesala de un beso🌟
+
+【Tema・Estilo visual】
+Fotografía fotorrealista que captura el instante en que una mujer que caminaba junto a su pareja en una calle comercial al atardecer se detiene de repente y acerca suavemente su rostro. Una toma con tendencia a la fotografía de moda y con la atmósfera de una escena cinematográfica, que retrata con naturalidad la intimidad de la vida cotidiana.
+Una representación que equilibra el encanto urbano y cotidiano del vecindario con el atractivo elegante y suave de la mujer. Se enfatiza un estilo fotográfico delicado y cálido, sin estridencias, donde casi se puede percibir la respiración a corta distancia.
+
+【Lugar・Fondo・Universo】
+El lugar es una calle comercial (shotengai) japonesa al atardecer. La entrada a una arcada, las fachadas de tiendas contiguas, las luces cálidas de los letreros, los estantes de productos a través de los cristales y la atmósfera de la calle que se extiende hacia el fondo se perciben con naturalidad. El fondo está compuesto de manera que no estorbe a la protagonista, manteniendo a la vez y de forma sutil la profundidad y el flujo de personas característicos de una calle comercial.
+El primer plano se centra en los hombros y el cabello de la mujer, el plano medio presenta la iluminación de los escaparates y el fondo muestra la calle teñida por el atardecer, creando un ambiente acogedor de regreso a casa, entrañable y sin ser excesivamente urbano.
+
+【Estación・Hora・Clima】
+La estación evoca desde principios de verano hasta principios de otoño, con un aire suave de atardecer. La hora es justo antes de la puesta de sol, con una luz dorada y baja que entra desde el fondo de la calle, mientras aún queda luz natural en el cielo.
+El clima es despejado. El viento no es demasiado fuerte, apenas lo suficiente para mover suavemente la superficie del cabello y algunos mechones sueltos. Describe la atmósfera agradable de pasear al atardecer, ni demasiado calurosa ni demasiado fría.
+
+【Definición del personaje】
+El personaje es una mujer japonesa de 24 años, claramente adulta. De facciones suaves y armoniosas, ojos oscuros ligeramente grandes, cejas naturales, puente nasal fino y elegante, y labios suaves y sonrosados. Su cabello es castaño oscuro, con ondas sueltas que llegan a los hombros. Pequeños mechones sueltos enmarcan su rostro.
+Su piel es de tono ocre claro con una textura natural no excesivamente lisa. Su complexión presenta hombros y extremidades delicados, cintura estrecha y curvas femeninas en armonía, conformando una figura naturalmente voluptuosa. Su pecho es voluminoso y lleno, mostrando una redondez y suavidad naturales acordes con la postura y la lencería. En conjunto, transmite una ternura madura con una sensación de pulcritud.
+
+【Vestuario・Accesorios】
+El atuendo es lencería de color marfil con bordado de pequeñas flores. El sujetador cuenta con copas delicadamente bordadas y un fino encaje festoneado, cuyo patrón resalta discretamente bajo la suave luz. Las bragas van a juego en el mismo tono, conformando un diseño de alta calidad y elegancia que recuerda al estilo de Wacoal.
+Los materiales son tejidos suaves y encaje delicado, con un ajuste realista que se ciñe al cuerpo sin forzarlo. No hay hendiduras ni holguras antinaturales en el escote, las axilas o el bajo busto, manteniendo un ajuste natural. Los accesorios son discretos; si acaso, se limitan a unos pequeños pendientes.
+
+【Pose・Movimiento・Mirada】
+La mujer se encuentra en el momento de haber detenido su paso mientras caminaba por la calle comercial. Su cuerpo está ligeramente orientado hacia su pareja, el peso recae un poco sobre la pierna trasera y los hombros están relajados. Al adelantar ligeramente un hombro y acercar suavemente solo la parte superior del cuerpo, el movimiento de acortar la distancia parece completamente natural.
+Las manos pueden quedar fuera de plano, pero los brazos cuelgan de forma natural y sin tensión, con una torsión corporal discreta. La mirada primero se dirige a su pareja y luego baja despacio, en ese instante justo antes de cerrar los párpados. La inclinación del rostro no está demasiado levantada, cuidando el ángulo para que los labios se aproximen con suavidad.
+
+【Expresión・Emoción】
+La expresión es la natural antes de un beso, mezclando timidez y dulzura al acercarse a su pareja. La mirada se relaja suavemente, con los párpados entrecerrados justo antes de cerrarse por completo.
+La boca no está tensa; los labios, suavemente cerrados, se inclinan apenas hacia adelante. Una leve sonrisa permanece en la comisura de los labios, logrando una expresión emocional cálida que transmite cercanía y tranquilidad en lugar de tensión.
+
+【Composición・Cámara】
+Composición vertical 4:5 pensada para publicaciones en X. Plano medio corto (bust-up) que abarca ampliamente desde el pecho hasta la coronilla, dejando un pequeño espacio sobre la cabeza. La figura se ubica hacia el centro del encuadre, manteniendo un poco de espacio en el lado de la pareja para que se perciba el movimiento de acercar el rostro.
+La cámara está situada a la altura intermedia entre el rostro y el pecho de la mujer, con una distancia corta y un ángulo de visión natural de estándar a teleobjetivo medio. Se evita la distorsión extrema de gran angular, desenfocando ligeramente el fondo pero permitiendo que se reconozcan la calle comercial y la atmósfera del atardecer.
+
+【Luz・Color・Textura・Atmósfera】
+La fuente de luz principal es el sol poniente que se filtra desde el fondo de la calle, dibujando un suave contraluz (rim light) en las mejillas, el contorno del cabello y los hombros de la mujer. Además, la iluminación cálida de los escaparates incide suavemente desde el frente y los laterales, suavizando las sombras del rostro. Las sombras no son demasiado profundas, y la luz reflejada deja calidez en el cuello y las mejillas.
+La paleta cromática es cálida, centrada en tonos marfil, beige, naranja y marrón suave. La piel muestra un rubor natural, el cabello tiene una definición fina de mechones, el encaje luce un tejido detallado y el cristal y los letreros metálicos del fondo tienen suaves reflejos propios del atardecer. La atmósfera general es íntima, un instante en el camino de vuelta a casa cargado de una dulzura ligeramente tímida.
+
+【Calidad・Elementos excluidos】
+Alta resolución, priorizando la anatomía humana natural, la perspectiva, la iluminación y la textura de los materiales como si hubiese sido tomada con una cámara real. Se deben evitar representaciones que parezcan de menores de edad, rostros demasiado infantiles, proporciones corporales antinaturales, extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones anómalas y confusión entre izquierda y derecha.
+Evitar desperfectos en la ropa, fusión entre el cuerpo y las prendas, desnudez no intencionada, pechos anormalmente gigantescos o con forma esférica rígida, realce excesivo (push-up exagerado), distorsión extrema de gran angular, piel excesivamente retocada y procesado artificial del fondo. No incluir textos, logotipos, marcas de agua ni elementos de interfaz de usuario (UI).
 ```
 
 [↑ Volver a categorías](#catalog)

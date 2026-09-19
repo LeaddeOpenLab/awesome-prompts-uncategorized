@@ -57,20 +57,60 @@ Traduzione in corso
 
 <a name="prompt-2101079216791920720"></a>
 
-### Traduzione in corso
+### Prompt realistico che ritrae una donna in lingerie mentre si avvicina per baciare il partner in una strada commerciale al tramonto.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2101079216791920720)
 
 Fotografia · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt realistico che ritrae una donna in lingerie mentre si avvicina per baciare il partner in una strada commerciale al tramonto.
 
 <img src="images/2101079216791920720-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Strada commerciale al tramonto | Ricamo floreale avorio e l'accenno di un bacio🌟
+
+【Soggetto e stile artistico】
+Fotografia fotorealistica che coglie il momento in cui una donna, passeggiando accanto al partner con una via commerciale al tramonto sullo sfondo, si ferma all'improvviso e avvicina dolcemente il viso. Uno scatto vicino alla fotografia di moda, con l'atmosfera di una scena cinematografica che ritrae con naturalezza l'intimità della vita quotidiana.
+Un'espressione visiva in cui convivono il calore autentico del quartiere e il fascino raffinato e morbido della donna. Senza eccessi vistosi, si privilegia una resa fotografica delicata e ricca di calore, tanto da far percepire il respiro da distanza ravvicinata.
+
+【Luogo, sfondo e atmosfera】
+L'ambientazione è una via commerciale giapponese al calar della sera. L'ingresso di una galleria coperta, le vetrine dei negozi allineati, la luce calda delle insegne, gli scaffali dietro i vetri e la prospettiva della strada che prosegue in lontananza appaiono in modo naturale. Lo sfondo è composto con cura per non distrarre dal soggetto principale, pur conservando la profondità e il leggero passaggio di persone tipici di un borgo commerciale.
+Il primo piano mette in risalto le spalle e la chioma della donna, il piano medio accoglie le luci delle botteghe e lo sfondo la via tinta dai colori del tramonto, creando l'atmosfera intima e accogliente del ritorno a casa, non troppo urbana.
+
+【Stagione, orario e meteo】
+La stagione richiama l'inizio dell'estate o l'inizio dell'autunno, con una mite aria serale. L'orario è poco prima del tramonto, con una luce radente e calda che filtra dal fondo della via mentre nel cielo resta ancora un bagliore naturale.
+Il meteo è sereno. Il vento è tenue, appena sufficiente a muovere leggermente le ciocche superficiali e i ciuffi ribelli. Né troppo caldo né freddo, evoca la piacevole sensazione di una passeggiata al crepuscolo.
+
+【Caratteristiche del personaggio】
+Il personaggio è una donna giapponese di 24 anni, chiaramente adulta. Ha lineamenti morbidi e armoniosi, occhi grandi e scuri espressivi, sopracciglia naturali, un ponte nasale sottile ed elegante e labbra morbide dal colorito sano. I capelli sono castano scuro, lunghi fino alle spalle con onde morbide, con fini ciocche sciolte attorno al viso.
+La pelle ha una tonalità ocra chiara e una texture naturale, non eccessivamente levigata. La corporatura è naturalmente prosperosa e armoniosa, con spalle e arti affusolati, vita sottile e curve femminili proporzionate. Il seno è pieno e voluminoso, mostrando rotondità e morbidezza naturali assecondando la posa e il capo indossato. L'aspetto d'insieme esprime una dolcezza matura e curata.
+
+【Abbigliamento e accessori】
+L'abbigliamento è un completino intimo avorio con ricami a piccoli fiori. Il reggiseno presenta coppe finemente ricamate e pizzo smerlato delicato, con motivi che risaltano discretamente sotto la luce tenue. Gli slip sono coordinati nella stessa nuance, definendo un design raffinato e di alta gamma che ricorda lo stile Wacoal.
+I tessuti sono morbidi e arricchiti da pizzo delicato, con una vestibilità realistica che segue il corpo senza costringerlo. Nessun segno innaturale di compressione o vuoto sul décolleté, sui fianchi o sotto il seno, preservando un'aderenza impeccabile. Gli accessori sono minimi, limitati al massimo a piccoli orecchini a lobo se necessario.
+
+【Posa, movimento e sguardo】
+La donna si è fermata improvvisamente mentre camminava lungo la strada commerciale. Il corpo è leggermente orientato verso il partner, il baricentro poggia sulla gamba posteriore e le spalle sono rilassate. Portando appena in avanti una spalla e inclinando con dolcezza solo la parte superiore del busto, accorcia la distanza in modo fluido e spontaneo.
+Entrambe le mani possono restare fuori campo, con le braccia distese naturalmente senza rigidità e una torsione minima del busto. Lo sguardo incrocia prima il partner per poi abbassarsi lentamente, un attimo prima di chiudere le palpebre. Il viso non è troppo sollevato, curando l'angolatura in cui le labbra si avvicinano con delicatezza.
+
+【Espressione ed emozione】
+L'espressione ritrae quel momento spontaneo prima del bacio, in cui si fondono dolcezza e un filo di timidezza nell'avvicinarsi all'amato. Gli occhi sono morbidi e rilassati, con le palpebre semichiuse sul punto di serrarsi.
+La bocca, chiusa con morbidezza senza tensioni, è leggermente protesa in avanti. Un sottile sorriso aleggia agli angoli delle labbra, trasmettendo complicità e rassicurante vicinanza piuttosto che imbarazzo, per un'espressione carica di calore emotivo.
+
+【Composizione e inquadratura】
+Inquadratura verticale 4:5 pensata per i post su X. Un piano a mezzo busto che include generosamente dal décolleté fino alla sommità del capo, lasciando un piccolo margine sopra la testa. La figura è posizionata verso il centro, preservando un po' di spazio sul lato del partner per evidenziare il movimento di avvicinamento del viso.
+La fotocamera è all'altezza intermedia tra il viso e il petto della donna, con un angolo di campo naturale da obiettivo standard a medio teleobiettivo da distanza ravvicinata. Si evitano distorsioni grandangolari estreme; lo sfondo è leggermente sfocato ma permette di cogliere l'atmosfera della strada commerciale al tramonto.
+
+【Luce, colore, texture e atmosfera】
+La sorgente luminosa principale è il sole calante che proviene dal fondo della strada, disegnando un morbido controluce sui profili delle guance, sui contorni dei capelli e sulle spalle. Inoltre, la luce calda delle vetrine illumina delicatamente il viso frontalmente e lateralmente, attenuando le ombre. I chiaroscuri non sono mai troppo marcati, e la luce riflessa scalda il collo e le guance.
+La gamma cromatica privilegia toni caldi imperniati su avorio, beige, arancio e marrone tenue. Carnagione dal colorito naturale, ciocche di capelli definite con precisione, trama delicata del pizzo e riflessi serali morbidi su vetri e insegne metalliche nello sfondo. L'atmosfera generale è intima, il fotogramma tenero e leggermente timido di un ritorno a casa insieme.
+
+【Qualità ed elementi da escludere】
+Si richiede alta risoluzione con proporzioni corporee realistiche come in un vero scatto fotografico, fedeltà prospettica, illuminazione e consistenza materica credibili. Escludere rappresentazioni di minori, volti eccessivamente infantili, anatomia sbilanciata, arti o dita in soprannumero, dita mancanti o fuse, articolazioni innaturali ed errori di simmetria destra/sinistra.
+Evitare difetti nel vestiario, fusione tra abiti e corpo, nudità non voluta, seni ingigantiti in modo innaturale o rigidi a sfera, effetto push-up esagerato, distorsioni grandangolari marcate, pelle eccessivamente levigata e sfondi artificiosi. Nessun testo, logo, filigrana o elemento di interfaccia grafica.
 ```
 
 [↑ Torna alle categorie](#catalog)
