@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T16:43:49.696Z",
+  "model": "grok",
+  "prompt": "Imagine à grok burger",
+  "promptTranslations": {
+    "en": "Imagine a grok burger"
+  },
+  "summaryTranslations": {
+    "en": "Imagine a grok burger"
+  },
+  "translationVersion": 2,
+  "summary": "Imagine a grok burger",
+  "summaryEn": "Imagine a grok burger",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101294459711263101",
+    "canonicalUrl": "https://x.com/VanessaJoeiy/status/2101294459711263101",
+    "author": {
+      "username": "VanessaJoeiy",
+      "displayName": "Vanessa Joelle Bechard Nunez",
+      "profileUrl": "https://x.com/VanessaJoeiy"
+    },
+    "publishedAt": "2026-09-19T12:56:54.000Z",
+    "collectedAt": "2026-09-19T16:15:37.146Z",
+    "language": "fr",
+    "originalText": "Grok Imagine prompt:\n\nImagine à grok burger https://t.co/1nqJlYzQ0W",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/VanessaJoeiy/status/2101294459711263101",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101294435912884224/img/W28EprJZdOT7WqN_.jpg",
+        "analysisUrl": "https://x.com/VanessaJoeiy/status/2101294459711263101"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 5
+    },
+    "matchedRuleIds": [
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/VanessaJoeiy/status/2101294459711263101",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101294435912884224/img/W28EprJZdOT7WqN_.jpg",
+  "coverPath": "covers/2101294459711263101.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101294435912884224",
+    "x-post:2101294459711263101"
+  ],
+  "analysis": {
+    "summary": "Imagine a grok burger",
+    "summaryEn": "Imagine a grok burger",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video showcases a steaming gourmet burger branded with 'GROK' on the bun, directly matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Imagine à grok burger",
+    "sourceRange": {
+      "start": 22,
+      "end": 43
+    },
+    "translations": {
+      "zh": "想象一个 Grok 汉堡",
+      "en": "Imagine a grok burger"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

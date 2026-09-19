@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T16:44:42.129Z",
+  "model": "wan",
+  "prompt": "Create a premium 15-second cinematic commercial for a global lifestyle brand. Start with a dramatic close-up of the product in a dark, luxurious environment, with soft cinematic lighting and subtle atmospheric particles. At 3 seconds, smoothly transition into dynamic macro shots showing the product’s premium design and details. From 7–11 seconds, show a stylish young professional confidently using the product in a modern international city environment, with elegant camera movement and shallow depth of field. At 11–15 seconds, return to a hero product shot with a clean background, dramatic rim lighting, and space for the brand logo and tagline. Ultra-realistic, high-end commercial cinematography, premium color grading, smooth transitions, realistic reflections, 4K detail, sophisticated international advertising aesthetic, no extra text, no watermark.",
+  "promptTranslations": {
+    "en": "Create a premium 15-second cinematic commercial for a global lifestyle brand. Start with a dramatic close-up of the product in a dark, luxurious environment, with soft cinematic lighting and subtle atmospheric particles. At 3 seconds, smoothly transition into dynamic macro shots showing the product’s premium design and details. From 7–11 seconds, show a stylish young professional confidently using the product in a modern international city environment, with elegant camera movement and shallow depth of field. At 11–15 seconds, return to a hero product shot with a clean background, dramatic rim lighting, and space for the brand logo and tagline. Ultra-realistic, high-end commercial cinematography, premium color grading, smooth transitions, realistic reflections, 4K detail, sophisticated international advertising aesthetic, no extra text, no watermark."
+  },
+  "summaryTranslations": {
+    "en": "15-second high-end watch cinematic commercial featuring dark-toned close-ups, macro details, urban lifestyle scenes, and hero product shots."
+  },
+  "translationVersion": 2,
+  "summary": "15秒高端腕表电影感商业广告，包含暗调特写、微距细节、都市人物街拍及主角定格镜头。",
+  "summaryEn": "A 15-second cinematic watch commercial prompt featuring dark luxury close-ups, macro details, urban model usage, and a hero ending shot.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101311302841078204",
+    "canonicalUrl": "https://x.com/navi_Ai2/status/2101311302841078204",
+    "author": {
+      "username": "navi_Ai2",
+      "displayName": "𝐍𝐚𝐯𝐞𝐞 𝐀𝐢",
+      "profileUrl": "https://x.com/navi_Ai2"
+    },
+    "publishedAt": "2026-09-19T14:03:49.000Z",
+    "collectedAt": "2026-09-19T16:15:37.146Z",
+    "language": "en",
+    "originalText": "Where innovation meets style. \n\nDesigned to elevate the everyday, built for those who expect more.\n\nCreated with Wan 3.0 on @budgetpixel & @budgetpixelclip\n\nPrompt \nCreate a premium 15-second cinematic commercial for a global lifestyle brand. Start with a dramatic close-up of the product in a dark, luxurious environment, with soft cinematic lighting and subtle atmospheric particles. At 3 seconds, smoothly transition into dynamic macro shots showing the product’s premium design and details. From 7–11 seconds, show a stylish young professional confidently using the product in a modern international city environment, with elegant camera movement and shallow depth of field. At 11–15 seconds, return to a hero product shot with a clean background, dramatic rim lighting, and space for the brand logo and tagline. Ultra-realistic, high-end commercial cinematography, premium color grading, smooth transitions, realistic reflections, 4K detail, sophisticated international advertising aesthetic, no extra text, no watermark.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/navi_Ai2/status/2101311302841078204",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101310828624363520/img/DlZmDwBakSKO8AYU.jpg",
+        "analysisUrl": "https://x.com/navi_Ai2/status/2101311302841078204"
+      }
+    ],
+    "metrics": {
+      "likeCount": 132,
+      "repostCount": 7,
+      "replyCount": 23,
+      "quoteCount": 0,
+      "viewCount": 13567
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/navi_Ai2/status/2101311302841078204",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101310828624363520/img/DlZmDwBakSKO8AYU.jpg",
+  "coverPath": "covers/2101311302841078204.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101310828624363520",
+    "x-post:2101311302841078204"
+  ],
+  "analysis": {
+    "summary": "15秒高端腕表电影感商业广告，包含暗调特写、微距细节、都市人物街拍及主角定格镜头。",
+    "summaryEn": "A 15-second cinematic watch commercial prompt featuring dark luxury close-ups, macro details, urban model usage, and a hero ending shot.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely replicates the prompt timeline: 0-3s dark luxury watch close-up, 3-6s macro crown details, 7-11s model on a city street, and 11-15s hero watch shot with rim lighting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a premium 15-second cinematic commercial for a global lifestyle brand. Start with a dramatic close-up of the product in a dark, luxurious environment, with soft cinematic lighting and subtle atmospheric particles. At 3 seconds, smoothly transition into dynamic macro shots showing the product’s premium design and details. From 7–11 seconds, show a stylish young professional confidently using the product in a modern international city environment, with elegant camera movement and shallow depth of field. At 11–15 seconds, return to a hero product shot with a clean background, dramatic rim lighting, and space for the brand logo and tagline. Ultra-realistic, high-end commercial cinematography, premium color grading, smooth transitions, realistic reflections, 4K detail, sophisticated international advertising aesthetic, no extra text, no watermark.",
+    "sourceRange": {
+      "start": 165,
+      "end": 1026
+    },
+    "translations": {
+      "zh": "为全球生活方式品牌制作一条15秒高端电影级商业广告。以暗调奢华环境中的产品特写开场，辅以柔和打光与微粒光斑。第3秒平滑切至宏观细节镜头。7-11秒展示时尚专业人士在现代都市街头佩戴展示。11-15秒切回主角产品展示镜头，配以轮廓光与留白。超写实、高阶广告调色及4K细节。",
+      "en": "Create a premium 15-second cinematic commercial for a global lifestyle brand. Start with a dramatic close-up of the product in a dark, luxurious environment, with soft cinematic lighting and subtle atmospheric particles. At 3 seconds, smoothly transition into dynamic macro shots showing the product’s premium design and details. From 7–11 seconds, show a stylish young professional confidently using the product in a modern international city environment, with elegant camera movement and shallow depth of field. At 11–15 seconds, return to a hero product shot with a clean background, dramatic rim lighting, and space for the brand logo and tagline. Ultra-realistic, high-end commercial cinematography, premium color grading, smooth transitions, realistic reflections, 4K detail, sophisticated international advertising aesthetic, no extra text, no watermark."
+    },
+    "targetModels": [
+      "wan"
+    ],
+    "category": "text-to-video",
+    "useCase": "commercial advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Rolex brand mark / watch design"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
