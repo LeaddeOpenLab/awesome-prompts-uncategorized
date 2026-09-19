@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-19T00:27:00.936Z",
+  "model": "grok",
+  "prompt": "先住民の彼にお誕生日おめでとうのカード，愛と信頼と夢と希望の願いを込めて作られたカードを、オルゴールの上に乗せた状態で、happy birthdayを口に出して話しながら祝福する動画風のシーン",
+  "promptTranslations": {
+    "en": "A video-style scene celebrating while speaking \"happy birthday\" out loud, with a happy birthday card for an Indigenous boyfriend, a card crafted with wishes of love, trust, dreams, and hope, placed on top of a music box"
+  },
+  "summaryTranslations": {
+    "en": "A video-style scene of an Indigenous man speaking words of blessing with a birthday card on top of a music box."
+  },
+  "translationVersion": 2,
+  "summary": "オルゴール上の誕生日カードと祝福の言葉を述べる先住民男性の動画風シーン。",
+  "summaryEn": "A video-like scene showing an indigenous man speaking birthday wishes next to a card on a music box.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101047785563066843",
+    "canonicalUrl": "https://x.com/Z8YxUEUzCCdCEI1/status/2101047785563066843",
+    "author": {
+      "username": "Z8YxUEUzCCdCEI1",
+      "displayName": "楳森志保Z8YxUEUzCCdCEIO",
+      "profileUrl": "https://x.com/Z8YxUEUzCCdCEI1"
+    },
+    "publishedAt": "2026-09-18T20:36:42.000Z",
+    "collectedAt": "2026-09-19T00:16:44.488Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n先住民の彼にお誕生日おめでとうのカード，愛と信頼と夢と希望の願いを込めて作られたカードを、オルゴールの上に乗せた状態で、happy birthdayを口に出して話しながら祝福する動画風のシーン https://t.co/cfrtFHBX8E",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Z8YxUEUzCCdCEI1/status/2101047785563066843",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101047753946390528/img/ppsV8hKI4EkckFzQ.jpg",
+        "analysisUrl": "https://x.com/Z8YxUEUzCCdCEI1/status/2101047785563066843"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 16
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Z8YxUEUzCCdCEI1/status/2101047785563066843",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101047753946390528/img/ppsV8hKI4EkckFzQ.jpg",
+  "coverPath": "covers/2101047785563066843.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101047753946390528",
+    "x-post:2101047785563066843"
+  ],
+  "analysis": {
+    "summary": "オルゴール上の誕生日カードと祝福の言葉を述べる先住民男性の動画風シーン。",
+    "summaryEn": "A video-like scene showing an indigenous man speaking birthday wishes next to a card on a music box.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video features an indigenous-style man speaking birthday wishes beside a card set on a music box."
+    },
+    "videoQuality": null,
+    "originalPrompt": "先住民の彼にお誕生日おめでとうのカード，愛と信頼と夢と希望の願いを込めて作られたカードを、オルゴールの上に乗せた状態で、happy birthdayを口に出して話しながら祝福する動画風のシーン",
+    "sourceRange": {
+      "start": 22,
+      "end": 118
+    },
+    "translations": {
+      "zh": "为原住民男友制作的生日贺卡放在八音盒上，伴随口述祝词庆祝生日的视频场景。",
+      "en": "A video-style scene wishing a native boyfriend happy birthday, with a heartfelt card on a music box while speaking congratulations."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
