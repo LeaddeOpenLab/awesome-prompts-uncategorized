@@ -79,20 +79,60 @@ Tradução em andamento
 
 <a name="prompt-2101077637305340004"></a>
 
-### Tradução em andamento
+### Retrato fotorrealista de uma mulher vestindo camisola marfim olhando para cima em direção ao namorado no terraço de um café à tarde.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2101077637305340004)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato fotorrealista de uma mulher vestindo camisola marfim olhando para cima em direção ao namorado no terraço de um café à tarde.
 
 <img src="images/2101077637305340004-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟 Terraço de Café no Meio da Tarde | Camisola Marfim e Sorriso Olhando para Cima 🌟
+
+【Tema e Estilo Visual】
+Retratar o momento em que uma mulher japonesa adulta se levanta de uma cadeira no terraço de um café durante o dia, aproximando-se enquanto olha para cima em direção ao namorado ligeiramente mais alto. Uma expressão fotográfica fotorrealista que transmite simultaneamente a intimidade voltada ao namorado e a atmosfera leve de uma esquina da cidade.
+Priorizar a naturalidade, como a página de um fotolivro, criando uma foto de moda com sensação autêntica de vida cotidiana. Uma imagem que comunique não apenas fofura, mas também frescor, elegância e a suave sensação de liberdade do meio da tarde.
+
+【Local, Fundo e Cenário】
+O local é o limite entre as mesas externas de um café e a calçada durante o dia. Uma mesa redonda, cadeiras de vime ou madeira, um chá gelado pela metade e oliveiras em vasos dispostas naturalmente transmitem a sensação de uma agradável pausa na esquina da cidade.
+O fundo mostra a calçada, a fachada externa da loja, o toldo e a continuação da calçada sem atrapalhar a protagonista. Coloque mesa e cadeira no primeiro plano, a figura no plano médio e a rua iluminada ao fundo, criando a profundidade e a sensação de amplitude típicas de um terraço de café.
+
+【Estação, Horário e Clima】
+A estação sugere um período agradável entre o início do verão e o início do outono. O horário é no meio da tarde, não muito tarde, com luminosidade plena, porém sem ser excessiva; o ar é leve e sereno.
+O tempo está ensolarado. O toldo acima do terraço suaviza a luz solar direta, destacando naturalmente a figura em contraste com o brilho vindo da calçada. Sem sensação de calor opressivo, uma brisa suave agita de leve as pontas dos cabelos e as bordas das roupas.
+
+【Definição da Personagem】
+Uma mulher japonesa claramente adulta, com cerca de 20 a 28 anos. Traços faciais suaves e bem proporcionados, olhos ligeiramente grandes, sobrancelhas naturais e lábios corados. Cabelos castanho-escuros ondulados até os ombros, com algumas mechas soltas emoldurando as bochechas. Pele clara em tom ocre, com textura natural e sem excesso de suavização.
+Silhueta feminina elegante, naturalmente voluptuosa e harmoniosa, com ombros e membros delicados, cintura fina e curvas femininas. Busto nitidamente farto e volumoso, acomodando-se de forma suave e natural conforme a roupa e a postura, mantendo o equilíbrio com todo o corpo. Quadris com curvas moderadas e naturais.
+
+【Figurino e Acessórios】
+Veste uma camisola marfim adornada com delicados bordados florais e renda fina. O design apresenta alças finas, tecido suave e bordados e rendas sofisticados no decote, com caimento realista e natural no corpo. Na parte inferior, shorts de cintura alta na cor mocha. Silhueta limpa que combina muito bem com a leveza da camisola.
+Nos pés, sandálias rasteiras de tiras finas. Acessórios mínimos, apenas pequenos brincos ou uma pulseira delicada. Sem adornos chamativos, priorizando a leveza apropriada para uma esquina urbana diurna.
+
+【Pose, Ação e Olhar】
+Ação logo após se levantar da cadeira. O centro de gravidade permanece ligeiramente na perna de trás, enquanto a outra perna dá meio passo à frente em direção ao namorado. Uma mão toca suavemente o topo do encosto da cadeira, mostrando a fluidez natural do ato de se levantar. A outra mão repousa relaxada ao lado do corpo, sem torções forçadas nos ombros ou no quadril.
+A parte superior do corpo está moderadamente voltada para o namorado, com o pescoço e o queixo ligeiramente erguidos, olhando para cima em direção à pessoa mais alta. O olhar vai da região dos olhos à boca do namorado, expressando a leveza como se estivesse prestes a ficar na ponta dos pés e a intimidade do momento em que a distância entre eles encurta.
+
+【Expressão e Emoção】
+A expressão é um sorriso suave voltado ao namorado com carinho. As pálpebras estão levemente caídas, revelando tranquilidade e doçura no olhar. Os lábios não estão tensos, aproximando-se delicadamente de forma a demonstrar intimidade natural.
+A emoção é uma palpitação serena, misturando timidez e alegria. Sem exageros de bico para beijo, mantendo uma expressão adorável e elegante que transmite discretamente a atmosfera particular compartilhada entre os dois.
+
+【Composição e Câmera】
+Composição vertical 4:5 otimizada para postagens no X. Composição de corpo inteiro cobrindo com folga do topo da cabeça até a ponta das sandálias, sem diminuir excessivamente a figura e preservando bastante o clima do terraço. A mulher fica posicionada próxima ao centro do enquadramento, mostrando mesa e cadeiras de um lado e o espaço aberto da calçada do outro.
+Altura da câmera na meia-altura entre o quadril e o busto da mulher em pé, com distância de disparo moderadamente próxima. Ângulo de visão natural, tendendo da lente padrão para teleobjetiva média, priorizando uma perspectiva onde o corpo e as pernas não sejam exagerados. Fundo levemente organizado, mantendo detalhes suficientes para perceber o movimento da loja e da calçada.
+
+【Luz, Cor, Textura e Atmosfera】
+A fonte de luz principal é a luz natural suave filtrada pelo toldo. A iluminação vem de cima e do lado da calçada, conferindo um brilho sereno ao rosto, ombros e à renda do figurino. Do lado oposto, circula uma luz refletida suave, criando sombras brandas. Mantém a claridade típica do dia com uma temperatura de cor equilibrada que evita superexposição.
+Tons de marfim, mocha, verde e pedras claras da calçada se harmonizam, resultando em um tom geral luminoso e sofisticado. A pele tem corado natural, o cabelo exibe fluxo fino de fios e brilho suave, o tecido revela a delicadeza da renda e a estrutura dos shorts, e a cadeira de vime, a madeira e o vidro apresentam suas respectivas texturas distintas. A atmosfera tem a gentileza leve e íntima própria de uma tarde na cidade.
+
+【Qualidade e Elementos Excluídos】
+Alta resolução, priorizando anatomia humana, materiais, iluminação e perspectiva naturais, como se capturados por uma câmera real. Retratar claramente como uma mulher adulta, evitando qualquer traço infantil. Mãos, pés, contagem de dedos, articulações e apoio no chão devem ser naturais, e a roupa deve acompanhar a forma do corpo de maneira realista.
+Evitar membros ou dedos extras, dedos ausentes, dedos fundidos, articulações anormais, fusão entre corpo e roupa, roupas desestruturadas, nudez involuntária, distorção extrema de grande-angular, desfoque de fundo artificial e tratamento excessivo de pele. O busto deve manter um volume tridimensional natural e abundante, evitando aumento absurdo, formato esférico rígido ou elevação excessiva forçada. Sem textos, logotipos, marcas d'água ou elementos de interface.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -101,20 +141,60 @@ Tradução em andamento
 
 <a name="prompt-2101078383195247043"></a>
 
-### Tradução em andamento
+### Retrato fotorrealista de uma mulher japonesa em loungewear verde-sálvia sentada em uma cadeira de vime com um leque uchiwa para se refrescar ao entardecer em um ryokan com termas.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2101078383195247043)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Retrato fotorrealista de uma mulher japonesa em loungewear verde-sálvia sentada em uma cadeira de vime com um leque uchiwa para se refrescar ao entardecer em um ryokan com termas.
 
 <img src="images/2101078383195247043-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟Ryokan com Termas ao Entardecer | Momento Pós-Banho Refrescante em Verde-Sálvia🌟
+
+【Tema / Estilo Visual】
+Retratar o momento em que uma mulher, após o banho termal, reclina-se profundamente em uma poltrona lounge de vime em uma tranquila área de descanso de um ryokan de fontes termais ao entardecer, resfriando lentamente o calor do corpo. Uma fotografia fotorrealista com foco em uma mulher japonesa inconfundivelmente adulta, transmitindo uma sensação de cotidiano e intimidade, como se tivesse sido capturada espontaneamente pelo parceiro durante uma viagem.
+Mantendo a elegância da fotografia de moda, evita poses excessivamente encenadas, priorizando uma postura natural e relaxada pós-banho termal. A pessoa, a cadeira de vime, o ambiente tradicional japonês e o verde do jardim compõem uma cena única e harmoniosa, unindo serenidade e um charme adulto delicado.
+
+【Local / Cenário / Universo】
+O local é uma área de descanso silenciosa para uso reservado dos hóspedes do ryokan. Pilares e pisos de madeira com iluminação suave, divisórias feitas com shoji e papel washi, e, através da janela ou da porta de correr aberta, avista-se um pequeno jardim japonês. O jardim é discretamente decorado com pedras naturais, arbustos baixos, musgo e lanternas de pedra, criando a profundidade típica de uma pousada tradicional.
+Ao redor da personagem, há uma poltrona lounge de vime com formas arredondadas e almofadas em tom cru claro. Próximo a ela, há uma mesa de madeira baixa com pequenos objetos como uma xícara de chá yunomi, mantendo o fundo desimpedido para transmitir de imediato a atmosfera de um refúgio tranquilo.
+
+【Estação / Horário / Clima】
+Fim de tarde no início do outono ou final do verão. O calor do dia ainda persiste de forma sutil, mas uma brisa ligeiramente fresca começa a soprar do jardim. O céu transita de um dia limpo para o crepúsculo; em vez de luz solar direta e forte, uma suave luz natural com tons azulados penetra no ambiente vinda do jardim.
+Evidencia o contraste entre o calor residual do corpo recém-saído do banho e o ar fresco do entardecer. Tempo calmo, sem chuva ou ventos fortes, apenas o suficiente para que as folhas do jardim balancem levemente.
+
+【Caracterização da Personagem】
+Mulher japonesa de 27 anos, inconfundivelmente adulta. Traços faciais suaves e harmoniosos, olhos pretos relativamente grandes, sobrancelhas naturais, ponte nasal refinada e lábios macios com cor natural saudável. Cabelos castanho-escuros na altura dos ombros, presos de maneira despojada e natural típica de quem acabou de sair do banho, com mechas finas soltas ao redor do rosto. Pele em tom ocre claro, com textura realista revelando poros e sombras delicadas.
+Silhueta naturalmente glamourosa que harmoniza ombros e membros delicados com uma cintura fina e curvas femininas. Seios claramente fartos e volumosos, mas sem proporções irreais ou formato esférico rígido, exibindo uma curvatura suave e tridimensionalidade natural que segue a gravidade e a posição sentada. Quadris e pernas com curvas saudáveis e proporcionais ao corpo.
+
+【Vestuário / Acessórios】
+Elegante conjunto de loungewear composto por uma regata estilo camisola com babados de renda em tom verde-sálvia e calças compridas folgadas da mesma cor. A regata é feita de tecido macio e opaco, com detalhes delicados de renda com babados no decote e nos ombros. O decote possui modelagem e costura realistas para a sua silhueta, acomodando confortavelmente o busto farto sem esticar excessivamente o tecido nem apertar a pele, proporcionando um caimento natural.
+As calças são de tecido leve com caimento fluido, apresentando uma silhueta descontraída que não delineia excessivamente as pernas. Acessórios mantidos ao mínimo absoluto, limitando-se a pequenos brincos discretos. Sem decorações chamativas ou brilho intenso, incompatíveis com um momento de relaxamento pós-banho.
+
+【Pose / Ação / Olhar】
+A mulher está profundamente sentada na poltrona lounge de vime, descansando as costas e os ombros de forma natural na almofada. A frente do seu corpo está quase voltada para a câmera, com uma leve inclinação diagonal, e a parte inferior do corpo está completamente relaxada. Ambas as pernas estão estendidas diagonalmente para a frente com os joelhos juntos, e as pontas dos pés seguem naturalmente alinhadas na mesma direção.
+Uma das mãos repousa ao lado do joelho, segurando suavemente o cabo de um leque redondo uchiwa. A outra mão repousa naturalmente sobre a coxa ou no apoio de braço da poltrona. Apenas o pescoço está levemente virado para o lado, desviando o olhar sutilmente para o lado da câmera, como se olhasse para o parceiro ao seu lado. Postura estável e descansada na cadeira, sem torções corporais exageradas.
+
+【Expressão / Emoção】
+Expressão levemente sonolenta e aliviada logo após sair das águas termais e finalmente descansar o corpo. Pálpebras não totalmente fechadas, com um olhar suave e ligeiramente semicerrado. Músculos das sobrancelhas e bochechas relaxados, lábios suavemente fechados em uma forma natural e descontraída.
+Não totalmente inexpressiva, pois percebe a presença do parceiro, mantendo uma sutil suavidade nos cantos da boca. Em vez de um sorriso forçado ou largo, expressa uma intimidade serena e acolhedora, como se dissesse silenciosamente: "Que delícia estar aqui".
+
+【Composição / Câmera】
+Composição vertical de proporção 4:5 para postagem no X. Enquadramento de corpo inteiro sentada, abrangendo desde o topo da cabeça até as pontas dos pés alinhados, com a câmera afastada o suficiente para mostrar a poltrona inteira e parte do jardim. A personagem fica ligeiramente deslocada do centro para um dos lados, deixando espaço negativo do outro para o jardim e o espaço japonês tradicional.
+A câmera está posicionada na altura entre o peito e a cintura da mulher sentada, sem ângulos excessivos de plongée ou contra-plongée. Ângulo de visão natural equivalente a uma lente padrão a meia-teleobjetiva de cerca de 50 a 70 mm, evitando distorções corporais ou alongamentos artificiais dos pés. Fundo com leve desfoque, mas mantendo profundidade de campo suficiente para reconhecer os elementos característicos do ryokan, como o jardim, as portas shoji e as madeiras.
+
+【Luz / Cor / Textura / Atmosfera】
+A fonte de luz principal é a suave luz natural do entardecer que entra do lado do jardim. Ela ilumina delicadamente o rosto, os ombros e um lado da roupa, enquanto uma iluminação indireta de tons quentes do interior atua como luz de preenchimento do outro lado. A mistura da luz natural ligeiramente azulada com o âmbar suave da luz interior cria um contraste agradável de temperatura de cor, característico do crepúsculo.
+A pele exibe sombras minuciosas e uma coloração saudável natural; os cabelos revelam a textura dos fios e o brilho das mechas soltas. O tecido verde-sálvia apresenta dobras suaves e caimento fluido, a renda tem textura de fibras detalhadas, e a poltrona de vime mostra sua trama e a textura de material vegetal seco. Madeira, papel washi, pedras e plantas preservam suas respectivas texturas distintas, compondo uma paleta de cores serena e acolhedora de fim de tarde.
+
+【Qualidade / Elementos Negativos】
+Representação fotorrealista em alta resolução. Priorizar anatomia humana, iluminação, texturas de materiais e perspectiva naturais, como se capturadas por uma câmera fotográfica real.
+Evitar aparência de menor de idade, traços excessivamente infantis, anatomia não natural, membros ou dedos extras, dedos faltando, dedos fundidos, articulações anormais, confusão entre mãos esquerda e direita, deformidades nas roupas, fusão entre corpo e roupas, nudez ou exposição involuntária, distorção extrema de grande-angular, e filtros excessivos de pele lisa. Manter os seios fartos com volume natural, sem formatos esféricos rígidos, sustentação anormal, aumento desproporcional ou formas que desafiem a gravidade. Sem textos, logotipos, marcas d'água ou elementos de interface gráfica na imagem.
 ```
 
 [↑ Voltar às categorias](#catalog)

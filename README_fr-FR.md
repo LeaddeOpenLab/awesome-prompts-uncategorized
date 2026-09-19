@@ -79,20 +79,60 @@ Traduction en cours
 
 <a name="prompt-2101077637305340004"></a>
 
-### Traduction en cours
+### Portrait photoréaliste d'une femme en caraco ivoire levant les yeux vers son amoureux sur la terrasse d'un café en début d'après-midi.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2101077637305340004)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait photoréaliste d'une femme en caraco ivoire levant les yeux vers son amoureux sur la terrasse d'un café en début d'après-midi.
 
 <img src="images/2101077637305340004-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Terrasse de café en début d'après-midi | Caraco ivoire et sourire vers le haut🌟
+
+【Sujet et style artistique】
+Sur la terrasse d'un café en plein jour, saisissez l'instant où une femme japonaise adulte se lève de sa chaise et réduit la distance tout en levant les yeux vers son amoureux, légèrement plus grand qu'elle. Une approche photographique photoréaliste qui transmet à la fois l'intimité envers son partenaire et la légèreté de l'ambiance au coin d'une rue.
+Privilégiant le naturel, à la manière d'une page d'artbook photo, conçue comme une photographie de mode empreinte de vie quotidienne. Une image qui dégage non seulement de la mignonnerie, mais aussi de la fraîcheur, de l'élégance et la douce ouverture du milieu de journée.
+
+【Lieu, arrière-plan et univers】
+Le lieu se situe à la limite entre les tables de terrasse d'un café de jour et le trottoir. Tables rondes, chaises en bois ou en rotin, thé glacé entamé et oliviers en pot sont disposés naturellement, évoquant une agréable pause citadine.
+L'arrière-plan montre, sans voler la vedette au sujet principal, le trottoir pavé, la façade de la boutique, le store banne et le passage qui se prolonge au loin. Tables et chaises au premier plan, personnage au plan moyen et rue lumineuse à l'arrière-plan créent la profondeur et l'aération typiques d'une terrasse.
+
+【Saison, heure et météo】
+Une saison agréable évoquant la fin du printemps ou le début de l'automne. L'heure se situe en début d'après-midi, pas trop tard ; la clarté est abondante sans être agressive, et l'air est doux et serein.
+Le temps est ensoleillé. Le store au-dessus de la terrasse adoucit la lumière directe du soleil, mettant naturellement en valeur la silhouette par contraste avec la luminosité côté trottoir. Sans lourdeur étouffante, une brise légère fait délicatement onduler les pointes des cheveux et les bords des vêtements.
+
+【Description du personnage】
+Une femme japonaise indéniablement adulte, âgée de 20 à 28 ans environ. Des traits doux et réguliers, des yeux légèrement grands, des sourcils naturels et des lèvres bien teintées. Cheveux bruns foncés descendant jusqu'aux épaules en ondulations légères, avec quelques mèches folles encadrant les joues. Teint ocre clair avec un grain de peau naturel, sans lissage excessif.
+Silhouette fine et élancée aux épaules et membres délicats, taille étroite et courbes féminines harmonieuses, offrant une silhouette glamour, naturelle et soignée. La poitrine est nettement généreuse et volumineuse, mais s'intègre avec souplesse et naturel selon la tenue et la posture, en parfait équilibre avec l'ensemble du corps. Hanches dessinant une rondeur discrète et naturelle.
+
+【Tenue et accessoires】
+Vêtue d'un caraco couleur ivoire orné de broderies de petites fleurs et d'une dentelle délicate. Bretelles fines, tissu fluide, broderies au décolleté et bordures en dentelle d'une grande élégance, épousant le corps avec un ajustement réaliste. En bas, un short taille haute couleur moka. D'une silhouette épurée, il s'accorde parfaitement avec la légèreté du caraco.
+Aux pieds, des sandales plates à fines lanières. Accessoires réduits au minimum : petites boucles d'oreilles ou délicat bracelet. Aucun ornement ostentatoire, privilégiant la fraîcheur adaptée à une rue ensoleillée.
+
+【Pose, mouvement et regard】
+Le mouvement pris sur le vif juste après s'être levée de sa chaise. Le centre de gravité repose encore légèrement sur la jambe arrière, tandis que l'autre avance d'un demi-pas vers son compagnon. Une main effleure le haut du dossier pour illustrer naturellement le mouvement du lever. L'autre main repose relâchée le long du corps, sans torsion artificielle des épaules ni des hanches.
+Le haut du corps s'ouvre avec mesure vers son compagnon, le cou et le menton légèrement relevés pour contempler la personne plus grande. Le regard se porte entre les yeux et les lèvres de son amoureux, évoquant la légèreté de l'instant juste avant de se hisser sur la pointe des pieds et l'intimité du rapprochement.
+
+【Expression et émotion】
+Un sourire doux et affectueux dirigé vers son amoureux. Les paupières légèrement baissées, le regard empreint de tendresse et de quiétude. La bouche détendue, les lèvres doucement réunies comme sur le point d'embrasser, traduisant une proximité naturelle.
+L'émotion est un frisson serein, mêlant timidité et bonheur. Sans mimique de baiser exagérée, une expression charmante et distinguée qui fait ressentir le doux tête-à-tête des deux amants.
+
+【Composition et cadrage】
+Composition verticale 4:5 conçue pour une publication sur X. Plan en pied englobant confortablement du sommet du crâne jusqu'au bout des sandales, sans trop rétrécir le sujet et en préservant pleinement l'ambiance de la terrasse. Le personnage est placé près du centre, avec d'un côté la table et les chaises, et de l'autre la perspective dégagée du trottoir.
+Hauteur de caméra à mi-chemin entre la taille et la poitrine de la femme debout, à une distance de prise de vue modérément rapprochée. Focale naturelle standard à moyen téléobjectif, privilégiant une perspective sans déformation du corps ni des jambes. Arrière-plan légèrement épuré, conservant juste ce qu'il faut d'éléments pour deviner la vitrine et l'animation du trottoir.
+
+【Lumière, couleur, texture et ambiance】
+La source principale est une lumière naturelle douce filtrée par le store. La lumière provient d'en haut et du trottoir, illuminant paisiblement le visage, les épaules et la dentelle de la tenue. Du côté opposé, une faible réflexion diffuse crée des ombres douces. Clarté diurne préservée, avec une température de couleur équilibrée évitant les blancs brûlés.
+Harmonie d'ivoire, de moka, de vert végétal et de pavés clairs, formant une tonalité d'ensemble lumineuse et raffinée. Teint de peau naturellement coloré, cheveux détaillés au reflet soyeux, dentelle aérienne et belle tenue du short, textures distinctes pour le rotin, le bois et le verre. Ambiance urbaine d'après-midi, douce, intime et bienveillante.
+
+【Qualité et éléments à exclure】
+Haute résolution, privilégiant l'anatomie, les textures, la lumière et la perspective naturelles d'une véritable prise de vue photographique. Représenter clairement une femme adulte, en évitant toute apparence enfantine. Nombre exact de membres et de doigts, articulations et ancrage au sol naturels, tenue épousant fidèlement le corps.
+Éviter membres ou doigts en surnombre, doigts manquants, doigts fusionnés, articulations difformes, fusion du corps et des vêtements, déformations de la tenue, nudité ou exposition non voulue, distorsion grand-angle excessive, flou d'arrière-plan artificiel et lissage outrancier de la peau. La poitrine doit conserver un relief ample et naturel, sans grossissement irréaliste, effet sphérique rigide ou effet push-up excessif. Ni texte, ni logo, ni filigrane, ni élément d'interface.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -101,20 +141,60 @@ Traduction en cours
 
 <a name="prompt-2101078383195247043"></a>
 
-### Traduction en cours
+### Portrait photoréaliste d'une femme japonaise dans un ryokan thermal au crépuscule, vêtue d'une tenue d'intérieur vert sauge et se rafraîchissant avec un éventail assise dans un fauteuil en rotin.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2101078383195247043)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait photoréaliste d'une femme japonaise dans un ryokan thermal au crépuscule, vêtue d'une tenue d'intérieur vert sauge et se rafraîchissant avec un éventail assise dans un fauteuil en rotin.
 
 <img src="images/2101078383195247043-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Crépuscule dans un ryokan thermal | Moment de fraîcheur après le bain en vert sauge🌟
+
+【Sujet et style】
+Dépeindre un instant dans un salon de repos paisible d'une auberge thermale ryokan en fin d'après-midi, où une femme sortant du bain est profondément assise dans un fauteuil lounge en rotin, laissant lentement la chaleur de son corps s'apaiser. Une photographie photoréaliste mettant en scène une femme japonaise manifestement adulte, empreinte d'une authenticité quotidienne et d'une intimité naturelle, comme si son partenaire l'avait prise en photo sur le vif lors d'un voyage.
+Tout en conservant l'élégance d'une photo de mode, la pose ne doit pas être exagérément mise en scène, privilégiant une attitude détendue et spontanée après le bain thermal. La personne, le fauteuil en rotin, l'espace traditionnel japonais et la verdure du jardin forment une scène unie, créant une image où se marient sérénité et charme adulte.
+
+【Lieu, arrière-plan et univers】
+L'endroit est un espace de repos calme réservé aux clients du ryokan. Avec des poutres et un sol en bois aux teintes douces, des portes coulissantes et des cloisons en papier washi et shoji, un petit jardin japonais est visible à travers les fenêtres ou les portes entrouvertes. Dans le jardin, des pierres naturelles, des arbustes bas, de la mousse et une lanterne en pierre sont disposés sobrement, créant la profondeur caractéristique d'un ryokan.
+Autour de la femme se trouvent un fauteuil lounge en rotin aux courbes douces et des coussins d'une teinte écrue pâle. À proximité, une table basse en bois et de discrets accessoires comme une tasse de thé sont disposés sans surcharger l'arrière-plan, afin de composer une atmosphère dont la vocation de repos paisible est immédiatement perceptible.
+
+【Saison, heure et météo】
+Fin d'après-midi au début de l'automne ou à la fin de l'été. La chaleur de la journée persiste encore légèrement, mais une brise un peu fraîche commence à s'engouffrer depuis le jardin. Le ciel passe d'un temps clair au crépuscule ; il n'y a pas de soleil direct intense, mais une douce lumière naturelle aux reflets bleutés qui pénètre dans la pièce depuis le jardin.
+On ressent le contraste entre la tiédeur restant sur la peau après le bain et la fraîcheur de l'air du soir. Un temps serein, sans pluie ni vent fort, où les feuilles du jardin s'agitent à peine.
+
+【Description du personnage】
+Femme japonaise de 27 ans, manifestement adulte. Traits du visage doux et équilibrés, grands yeux sombres, sourcils naturels, arête du nez délicate et lèvres souples teintées d'une nuance rosée naturelle. Cheveux châtain foncé descendant jusqu'aux épaules, coiffés négligemment et sans apprêt comme au sortir du bain, laissant de fines mèches libres encadrer le visage. Peau claire aux sous-tons ocre offrant une texture réaliste avec pores et ombres subtiles visibles.
+Silhouette naturellement pulpeuse et harmonieuse, avec des épaules et des membres fins, une taille marquée et des courbes féminines. Poitrine nettement généreuse et volumineuse, sans excès irréaliste ni aspect sphérique rigide, présentant une rondeur souple et un relief naturel suivant la posture assise et la gravité. Hanches et jambes aux rondeurs saines, parfaitement proportionnées à l'ensemble du corps.
+
+【Tenue et accessoires】
+Élégante tenue d'intérieur composée d'un caraco en dentelle à volants vert sauge et d'un pantalon fluide assorti. Le caraco est fait d'un tissu opaque et doux, bordé d'une fine dentelle à volants au décolleté et aux épaules. Le décolleté présente une coupe et une confection réalistes adaptées à sa morphologie, enveloppant confortablement sa poitrine généreuse sans tension excessive ni coupure inconfortable du tissu, pour un ajustement naturel.
+Le pantalon est taillé dans une étoffe fine et fluide, offrant une coupe décontractée qui n'épouse pas excessivement la ligne des jambes. Accessoires réduits au strict minimum, limités à de petites boucles d'oreilles discrètes. Pas d'ornements tape-à-l'œil ni d'éclats vifs qui jureraient avec la quiétude d'un repos d'après-bain.
+
+【Pose, gestes et regard】
+La femme est assise au fond du fauteuil en rotin, dos et épaules naturellement calés contre le coussin. Son buste est presque de face par rapport à l'appareil, légèrement de biais, tandis que le bas du corps est totalement relâché. Ses jambes sont allongées vers l'avant en diagonale, genoux serrés et pointes de pieds orientées naturellement dans la même direction.
+Une main repose à côté de son genou, tenant délicatement par le manche un éventail rond uchiwa. L'autre main est posée naturellement sur sa cuisse ou sur l'accoudoir. La tête est doucement tournée sur le côté, son regard dérivant légèrement à côté de l'objectif comme si elle regardait son compagnon assis près d'elle. Sans torsion forcée, elle adopte une posture assise stable, tout son poids reposant sur le fauteuil.
+
+【Expression et émotion】
+Une expression légèrement somnolente et apaisée, propre à quelqu'un qui se détend enfin après un bain chaud. Les paupières ne sont pas tout à fait closes, les yeux mi-clos d'un air paisible. Les sourcils et les joues sont complètement détendus, les lèvres closes sans crispation.
+Consciente de la présence de son partenaire, son visage n'est pas totalement impassible : une délicate douceur se dessine au coin de ses lèvres. Loin d'un sourire forcé ou éclatant, elle dégage une intimité et une sérénité rassurante, comme si elle s'apprêtait à murmurer : « Qu'est-ce qu'on est bien ici ».
+
+【Composition et cadrage】
+Composition verticale 4:5 adaptée aux publications X. Cadrage en pied de la personne assise, du sommet de la tête jusqu'aux pointes des pieds joints, avec un recul suffisant pour englober tout le fauteuil et une portion du jardin. Le sujet est légèrement décentré, laissant l'autre côté ouvert sur le jardin et l'architecture japonaise.
+Appareil photo positionné à hauteur de la poitrine ou de la taille de la femme assise, sans plongée ni contre-plongée excessives. Focale naturelle équivalente à un 50–70 mm (du standard au léger téléobjectif), évitant toute déformation ou élongation anormale des proportions du corps et des pieds. Arrière-plan légèrement flou, tout en conservant une profondeur de champ suffisante pour distinguer les éléments typiques du ryokan (jardin, shoji, boiseries).
+
+【Lumière, couleur, texture et ambiance】
+La lumière principale est la douce lumière naturelle du crépuscule venant du jardin. Elle caresse délicatement un côté du visage, de l'épaule et de la tenue, tandis que de l'autre côté, l'éclairage indirect chaleureux de la pièce apporte une douce lumière d'appoint. La lueur naturelle légèrement bleutée et l'ambre réconfortant de l'éclairage intérieur se mêlent, créant un contraste thermique feutré propre au crépuscule.
+La peau révèle des ombres subtiles et un teint frais ; les cheveux dévoilent le mouvement des mèches et la brillance des petits cheveux rebelles. Le tissu vert sauge présente des plis soyeux et un beau tombé, la dentelle révèle la finesse de ses fibres, et le fauteuil en rotin expose son tressage et la texture mate de la matière végétale. Bois, papier washi, pierres et feuillages conservent leurs textures respectives, harmonisant l'ensemble dans une atmosphère vespérale douce et silencieuse.
+
+【Qualité et éléments exclus】
+Rendu photoréaliste haute résolution. Privilégier une anatomie humaine réaliste, une lumière naturelle, des textures tangibles et une perspective fidèle à une véritable prise de vue photographique.
+Éviter les apparences mineures, les visages enfantins, les anatomies aberrantes, les membres ou doigts surnuméraires, manquants ou fusionnés, les articulations anormales, les mains inversées, les défauts vestimentaires, la fusion corps-vêtement, la nudité involontaire, les distorsions grand-angle excessives et le lissage outrancier de la peau. La poitrine doit conserver un volume naturel et généreux, sans aspect de sphère rigide, galbe disproportionné, gigantisme artificiel ou forme défiant la gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)

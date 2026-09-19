@@ -79,20 +79,60 @@ Traducción en curso
 
 <a name="prompt-2101077637305340004"></a>
 
-### Traducción en curso
+### Retrato fotorrealista de una mujer con una camisola color marfil que mira hacia arriba a su pareja en la terraza de un café a primera hora de la tarde.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2101077637305340004)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato fotorrealista de una mujer con una camisola color marfil que mira hacia arriba a su pareja en la terraza de un café a primera hora de la tarde.
 
 <img src="images/2101077637305340004-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Terraza de café a primera hora de la tarde | Camisola marfil y sonrisa hacia arriba🌟
+
+【Tema y estilo artístico】
+Captura el momento en la terraza de un café durante el día en el que una mujer japonesa adulta se levanta de su silla y acorta la distancia mientras mira hacia arriba a su pareja, que es ligeramente más alta. Una expresión fotográfica fotorrealista que transmite simultáneamente la intimidad hacia su pareja y la atmósfera ligera de una esquina de la ciudad.
+Con énfasis en la naturalidad, como una página de un libro de fotos, realizada como una fotografía de moda con sensación de vida cotidiana. Una toma que transmite no solo ternura, sino también pulcritud, elegancia y la suave sensación de apertura del mediodía.
+
+【Lugar, fondo y atmósfera】
+El lugar es el límite entre las mesas de la terraza de un café de día y la acera. Mesas redondas, sillas de madera o ratán, un té helado a medio beber y olivos en macetas están dispuestos de forma natural, evocando un agradable descanso en una esquina urbana.
+El fondo muestra la acera, la fachada del local, el toldo y el camino que continúa hacia el fondo, sin distraer la atención del sujeto principal. Mesas y sillas en primer plano, el sujeto en el plano medio y una calle luminosa al fondo, creando la profundidad y ligereza características de una terraza.
+
+【Estación, hora y clima】
+Una época agradable que evoca desde principios de verano hasta principios de otoño. El momento del día es a primera hora de la tarde, no demasiado tarde; la luz es abundante pero no excesivamente intensa, y el aire se siente ligero y sereno.
+El clima es soleado. El toldo superior de la terraza suaviza la luz solar directa, haciendo que la figura resalte de manera natural en contraste con el brillo del lado de la acera. Sin sensación de calor agobiante, una suave brisa mueve ligeramente las puntas del cabello y los bordes de la ropa.
+
+【Características del personaje】
+Una mujer japonesa claramente adulta, de entre 20 y 28 años. De facciones suaves y armoniosas, ojos ligeramente grandes, cejas naturales y labios de tono saludable. Cabello castaño oscuro hasta los hombros con ondas suaves, con algunos mechones sueltos enmarcando sus mejillas. Piel de tono ocre claro, con una textura natural sin verse excesivamente lisa.
+Silueta esbelta y elegante, con hombros y extremidades delicados, cintura delgada y curvas femeninas armoniosas que componen un cuerpo glamoroso, fino y natural. Pecho notablemente grande y con volumen abundante, pero que se acomoda de forma suave y natural siguiendo la prenda y la postura, manteniendo el equilibrio con todo el cuerpo. Caderas con una redondez discreta y natural.
+
+【Vestuario y accesorios】
+Lleva una camisola color marfil adornada con bordados de pequeñas flores y encaje delicado. Con tirantes finos, tela suave y un diseño donde el bordado del escote y los bordes de encaje lucen elegantes, con un ajuste realista que se adapta con naturalidad al cuerpo. En la parte inferior, unos shorts de tiro alto color moca. Con una silueta limpia, combinan a la perfección con la ligereza de la camisola.
+En los pies, sandalias planas de tiras finas. Accesorios mínimos, apenas unos aretes pequeños o una pulsera delicada. Sin adornos llamativos, priorizando la ligereza adecuada para una esquina de la ciudad a la luz del día.
+
+【Pose, movimiento y mirada】
+El movimiento justo después de levantarse de la silla. Manteniendo el centro de gravedad ligeramente en la pierna trasera, adelanta medio paso la otra pierna hacia su pareja. Una mano toca levemente la parte superior del respaldo, mostrando de forma natural la transición al ponerse de pie. La otra mano descansa relajada al costado del cuerpo, sin torsiones forzadas en los hombros ni en la cadera.
+El torso se abre suavemente hacia su pareja, con el cuello y la barbilla ligeramente inclinados hacia arriba para mirar a la persona más alta. La mirada se dirige entre los ojos y los labios de su pareja, expresando la ligereza previa a ponerse de puntillas y la intimidad del momento en que se acorta la distancia.
+
+【Expresión y emoción】
+Una sonrisa suave que expresa afecto hacia su pareja. Con los párpados ligeramente caídos, su mirada refleja dulzura y tranquilidad. La boca relajada, con los labios sutilmente dispuestos como si se acercaran con delicadeza, transmitiendo una cercanía natural.
+La emoción es una emoción tranquila, una mezcla de timidez y felicidad. Sin hacer una expresión de beso exagerada, una expresión elegante y adorable que transmite en silencio la complicidad de los dos.
+
+【Composición y cámara】
+Composición vertical 4:5 adecuada para publicaciones en X. Encuadre de cuerpo entero que abarca holgadamente desde la coronilla hasta la punta de las sandalias, sin hacer al sujeto demasiado pequeño y preservando plenamente la atmósfera de la terraza. La figura se ubica cerca del centro de la imagen, mostrando mesas y sillas a un lado y la apertura hacia la acera al otro.
+Altura de cámara intermedia entre la cintura y el pecho de la mujer de pie, con una distancia de disparo ligeramente cercana. Ángulo de visión natural con un objetivo estándar a telefoto medio, priorizando una perspectiva donde el cuerpo y las piernas no se vean exagerados. Fondo suavemente despejado, pero conservando la información suficiente para percibir la presencia del local y la acera.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es luz natural suave a través del toldo. La luz entra desde arriba y desde el lado de la acera, brindando un brillo apacible al rostro, los hombros y el encaje de la prenda. Del lado opuesto actúa una luz reflejada tenue, generando sombras suaves. Manteniendo la luminosidad propia del día, con una temperatura de color serena y sin sobreexposición.
+Armonía de tonos marfil, moca, verdes y el color tenue de los adoquines, con un tono general luminoso y refinado. Tono saludable y natural en la piel, cabello con hebras detalladas y brillo sutil, tela con la delicadeza del encaje y la firmeza de los shorts, y texturas diferenciadas para las sillas de ratán, la madera y el vidrio. Una atmósfera de suavidad ligera e íntima, propia de una tarde tranquila en la ciudad.
+
+【Calidad y elementos a excluir】
+Alta resolución, priorizando la anatomía humana, materiales, iluminación y perspectiva naturales, como si hubiera sido capturada con una cámara real. Representar claramente a una mujer adulta, evitando apariencias infantiles. Número correcto de extremidades y dedos, articulaciones y apoyo en el suelo naturales, con ropa que se ajuste de forma realista al cuerpo.
+Evitar extremidades o dedos adicionales, dedos faltantes, dedos fusionados, articulaciones antinaturales, fusión del cuerpo con la ropa, deformidades en la ropa, desnudez o exposición no deseada, distorsión angular extrema, desenfoque de fondo artificial y suavizado de piel excesivo. El pecho debe mantener una tridimensionalidad natural y abundante, evitando tamaños desmesurados, formas esféricas rígidas o realces exagerados. Sin texto, logotipos, marcas de agua ni elementos de interfaz.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -101,20 +141,60 @@ Traducción en curso
 
 <a name="prompt-2101078383195247043"></a>
 
-### Traducción en curso
+### Retrato fotorrealista de una mujer japonesa en una posada ryokan al atardecer, refrescándose con un abanico uchiwa en un sillón de ratán y vistiendo ropa de descanso verde salvia.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2101078383195247043)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Retrato fotorrealista de una mujer japonesa en una posada ryokan al atardecer, refrescándose con un abanico uchiwa en un sillón de ratán y vistiendo ropa de descanso verde salvia.
 
 <img src="images/2101078383195247043-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Ryokan con aguas termales al atardecer | Tiempo para refrescarse tras el baño en verde salvia🌟
+
+【Tema y estilo】
+Representa un momento en una tranquila sala de descanso de una posada ryokan con aguas termales al atardecer, donde una mujer que acaba de salir del baño se sienta profundamente en un sillón lounge de ratán, enfriando lentamente el calor de su cuerpo. Una fotografía fotorrealista protagonizada por una mujer japonesa claramente adulta, transmitiendo una sensación cotidiana e íntima, como si su pareja la hubiera fotografiado de manera natural durante un viaje.
+Manteniendo la pulcritud de una fotografía de moda, la pose no debe ser excesivamente actuada, priorizando una postura relajada y natural después de un baño termal. La persona, el sillón de ratán, el espacio tradicional japonés y el verdor del jardín deben mostrarse como una escena unificada, logrando una fotografía donde coexisten la serenidad y la dulzura madura.
+
+【Lugar, fondo y ambientación】
+El lugar es una tranquila sala de descanso que los huéspedes del ryokan pueden utilizar de forma privada. Cuenta con columnas y suelos de madera de tono moderado, puertas y divisiones de papel washi y shoji, y al otro lado de las ventanas o puertas corredizas abiertas se aprecia un pequeño jardín japonés. En el jardín se disponen de forma discreta piedras naturales, arbustos bajos, musgo y una linterna de piedra, creando la profundidad característica de un ryokan.
+Alrededor de la mujer hay un sillón lounge de ratán de formas redondeadas con cojines en color crudo pálido. Cerca hay una mesa baja de madera y accesorios discretos como una taza de té, pero sin sobrecargar el fondo, logrando una composición que transmita de un vistazo que se trata de un lugar de descanso sereno.
+
+【Estación, hora y clima】
+Atardecer de principios de otoño o finales de verano. El calor del día aún persiste ligeramente, pero una brisa algo fresca comienza a entrar desde el jardín. El cielo transita de un día despejado al crepúsculo; no hay luz solar directa intensa, sino una luz natural suave con matices azulados que entra a la habitación desde el jardín.
+Se percibe el contraste entre la calidez que permanece en el cuerpo tras el baño y el aire fresco del atardecer. Clima apacible sin lluvia ni viento fuerte, donde apenas se mecen levemente las hojas del jardín.
+
+【Descripción del personaje】
+Mujer japonesa claramente adulta de 27 años. Rasgos suaves y proporcionados, ojos oscuros grandes, cejas naturales, puente nasal elegante y labios suaves con rubor natural. Cabello castaño oscuro hasta los hombros, recogido de forma natural y descontraída propia de quien acaba de salir del baño, dejando mechones sueltos y finos alrededor del rostro. Piel clara de tono ocre con textura realista que muestra poros y sutiles sombras.
+Silueta naturalmente curvilínea y armoniosa, con hombros y extremidades delicados, cintura esbelta y curvas femeninas. Busto notablemente grande y de volumen generoso, pero sin ser anormalmente gigante ni tener forma esférica rígida, mostrando una redondez suave y un volumen tridimensional natural que sigue la postura sentada y la gravedad. Caderas y piernas con una redondez saludable y proporcionada respecto al cuerpo entero.
+
+【Vestimenta y accesorios】
+Elegante ropa de descanso compuesta por una camisola de encaje con volantes en verde salvia y pantalones largos holgados a juego. La camisola es de tela suave no transparente, con finos encajes con volantes a lo largo del escote y los hombros. El escote tiene un corte y costuras realistas adaptados a su figura, envolviendo cómodamente el generoso busto sin estirar la tela en exceso ni apretar de forma incómoda, con un ajuste natural.
+Los pantalones son de tela ligera y fluida, con una silueta relajada que no marca demasiado las piernas. Accesorios mínimos, limitados a unos pequeños pendientes. Sin decoraciones llamativas ni brillos intensos que desentonen con la escena de descanso tras el baño.
+
+【Pose, acción y mirada】
+La mujer está sentada profundamente en el sillón de ratán, apoyando la espalda y los hombros de forma natural sobre el cojín. Su cuerpo está orientado casi de frente a la cámara con una ligera inclinación, y de la cintura hacia abajo muestra una postura relajada. Sus piernas extendidas hacia adelante en diagonal con las rodillas juntas y las puntas de los pies alineadas de forma natural en la misma dirección.
+Una mano descansa al lado de su rodilla, sosteniendo suavemente por el mango un abanico redondo uchiwa. La otra mano reposa con naturalidad sobre el muslo o el apoyabrazos de la silla. Gira suavemente el cuello de lado, desviando la mirada ligeramente a un lado de la cámara como si mirara a su pareja sentada junto a ella. Sin torsiones forzadas del cuerpo, una postura sentada estable con el peso entregado a la silla.
+
+【Expresión y emoción】
+Una expresión relajada y algo somnolienta de quien por fin descansa el cuerpo tras salir de las aguas termales. Los párpados no están totalmente cerrados, sino ligeramente entornados con una mirada plácida. Músculos de las cejas y mejillas relajados, labios suavemente cerrados sin tensión.
+Al ser consciente de la presencia de su pareja no tiene un rostro completamente inexpresivo, manteniendo una sutil y cálida suavidad en la comisura de los labios. No es una sonrisa forzada ni amplia, sino que expresa una serena intimidad y confort, como si estuviera a punto de decir: «Qué agradable se siente aquí».
+
+【Composición y cámara】
+Composición vertical 4:5 orientada a publicaciones de X. Encuadre de cuerpo entero sentada, desde la coronilla hasta las puntas de los pies alineadas dentro del marco, con una toma lo suficientemente abierta para mostrar toda la silla y parte del jardín. La mujer está ligeramente desplazada del centro, dejando espacio libre para el jardín y el ambiente tradicional japonés al otro lado.
+Cámara posicionada a la altura del pecho o la cintura de la persona sentada, sin ángulos cenitales ni contrapicados extremos. Ángulo de visión natural correspondiente a una lente estándar a teleobjetivo medio de entre 50 y 70 mm, evitando alargar de manera no natural las proporciones corporales o los pies. Fondo con desenfoque suave, manteniendo una profundidad de campo que permita distinguir los elementos típicos del ryokan como el jardín, las puertas shoji y la madera.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la suave luz natural del atardecer que entra desde el jardín. Ilumina sutilmente un lado del rostro, hombro y vestimenta, mientras que en el lado opuesto entra como luz de relleno la iluminación indirecta cálida del interior. La luz natural ligeramente azulada y el suave ámbar de las luces interiores se mezclan, creando una agradable diferencia de temperatura de color típica del crepúsculo.
+Piel con sombras detalladas y tono sonrosado natural; cabello que muestra el flujo de los mechones y el brillo de los cabellos sueltos. La tela verde salvia exhibe suaves arrugas y caída fluida, el encaje muestra la textura de sus finas fibras, y el ratán revela el tejido y la textura seca del material natural. La madera, el papel washi, las piedras y las plantas conservan sus respectivas texturas, armonizando el conjunto en un tono crepuscular tranquilo y suave.
+
+【Calidad y elementos excluidos】
+Representación fotorrealista de alta resolución. Priorizar la anatomía humana natural, la iluminación, las texturas de materiales y la perspectiva como si fuera una fotografía tomada con una cámara real.
+Evitar apariencia menor de edad, rostros demasiado infantiles, anatomía antinatural, miembros o dedos adicionales, dedos faltantes o fusionados, articulaciones extrañas, manos cruzadas o erróneas, fallos en la vestimenta, fusión entre cuerpo y ropa, exposición involuntaria, distorsión extrema de gran angular y retoques excesivos de piel lisa. El busto debe conservar un volumen generoso y natural, sin formas esféricas duras, realces anormales, gigantismo artificial ni desafío a la gravedad. Sin texto, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)

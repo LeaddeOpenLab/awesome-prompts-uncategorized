@@ -79,20 +79,60 @@ Traduzione in corso
 
 <a name="prompt-2101077637305340004"></a>
 
-### Traduzione in corso
+### Ritratto fotorealistico di una donna con un top a canotta color avorio che guarda verso l'alto il suo partner sulla terrazza di un caffè nel primo pomeriggio.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2101077637305340004)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto fotorealistico di una donna con un top a canotta color avorio che guarda verso l'alto il suo partner sulla terrazza di un caffè nel primo pomeriggio.
 
 <img src="images/2101077637305340004-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Terrazza di un caffè nel primo pomeriggio | Canotta avorio e sorriso rivolto verso l'alto🌟
+
+【Soggetto e stile artistico】
+Cattura il momento sulla terrazza diurna di un caffè in cui una donna giapponese adulta si alza dalla sedia e accorcia le distanze guardando verso l'alto il partner, leggermente più alto di lei. Un'espressione fotografica fotorealistica che trasmette simultaneamente l'intimità verso il partner e l'atmosfera leggera di un angolo di strada.
+Con un'attenzione particolare alla naturalezza, come la pagina di un fotolibro, realizzata come una fotografia di moda dal sapore quotidiano. Uno scatto che trasmette non solo dolcezza, ma anche freschezza, raffinatezza e il senso di rilassata apertura del meriggio.
+
+【Luogo, sfondo e atmosfera】
+Il luogo è il confine tra i tavolini all'aperto di un caffè diurno e il marciapiede. Tavolini rotondi, sedie in legno o rattan, un tè freddo a metà e ulivi in vaso disposti con naturalezza evocano una piacevole pausa all'angolo della strada.
+Lo sfondo mostra il selciato, la facciata del locale, la tenda parasole e il marciapiede che prosegue in lontananza, senza distogliere l'attenzione dal soggetto principale. Tavoli e sedie in primo piano, il soggetto a media distanza e la strada luminosa sullo sfondo creano la profondità e l'ariosità tipiche di una terrazza.
+
+【Stagione, ora e meteo】
+Una stagione gradevole che evoca l'inizio dell'estate o il principio dell'autunno. L'orario è il primo pomeriggio, non troppo tardi; la luce è abbondante ma non aggressiva, e l'aria è fresca e serena.
+Il tempo è soleggiato. La tenda parasole sopra la terrazza attenua la luce diretta del sole, facendo risaltare con naturalezza la figura in contrasto con la luminosità del marciapiede. Nessuna afa opprimente; una brezza leggera muove appena le punte dei capelli e i bordi degli abiti.
+
+【Caratteristiche del soggetto】
+Una donna giapponese chiaramente adulta, tra i 20 e i 28 anni circa. Tratti del viso morbidi e armoniosi, occhi leggermente grandi, sopracciglia naturali e labbra dal colorito sano. Capelli castano scuro lunghi fino alle spalle con onde morbide, con alcune ciocche che incorniciano delicatamente le guance. Carnagione ocra chiara, con una texture naturale senza levigature eccessive.
+Corporatura slanciata ed elegante con spalle e arti affusolati, vita sottile e curve femminili armoniose, che delineano una figura naturalmente glamour e raffinata. Il seno è chiaramente prosperoso e dal volume generoso, ma si adatta in modo morbido e naturale all'abito e alla postura, mantenendo un perfetto equilibrio con l'intero corpo. Fianchi dalla rotondità discreta e armoniosa.
+
+【Abbigliamento e accessori】
+Indossa una canotta color avorio impreziosita da piccoli ricami floreali e pizzo delicato. Spalline sottili, tessuto morbido e finiture eleganti di ricami e pizzo sulla scollatura, con una vestibilità realistica che segue armoniosamente il corpo. Nella parte inferiore, shorts a vita alta color moka. Dal taglio pulito, si abbinano alla perfezione alla leggerezza del top.
+Ai piedi, sandali bassi con cinturini sottili. Accessori ridotti al minimo: piccoli orecchini a lobo o un braccialetto sottile. Nessun ornamento vistoso, privilegiando la freschezza adatta a un angolo di strada alla luce del giorno.
+
+【Posa, movimento e sguardo】
+Il movimento colto nell'istante successivo all'essersi alzata dalla sedia. Il peso del corpo poggia ancora leggermente sulla gamba posteriore, mentre l'altra avanza di mezzo passo verso il partner. Una mano sfiora delicatamente la parte superiore dello schienale per rendere fluido il movimento del rialzarsi. L'altra mano è rilassata lungo il fianco, senza torsioni forzate di spalle o bacino.
+Il busto si apre con grazia verso il partner, con il collo e il mento leggermente sollevati per guardare la persona più alta. Lo sguardo è rivolto tra gli occhi e le labbra del partner, esprimendo la leggerezza di chi sta per sollevarsi sulle punte e l'intimità del momento in cui la distanza si accorcia.
+
+【Espressione ed emozione】
+Un sorriso dolce e affettuoso rivolto al compagno. Le palpebre leggermente abbassate, con lo sguardo che emana dolcezza e serenità. La bocca rilassata, con le labbra morbidamente socchiuse come per un bacio accennato, a comunicare una spontanea vicinanza.
+L'emozione è un batticuore calmo, fatto di timidezza e felicità. Senza pose ammiccanti esagerate, un'espressione raffinata e adorabile che trasmette silenziosamente la speciale intesa a due.
+
+【Composizione e inquadratura】
+Composizione verticale 4:5 pensata per post su X. Inquadratura a figura intera che include con ampio respiro dalla sommità del capo alla punta dei sandali, senza rimpicciolire troppo il soggetto e preservando appieno l'atmosfera della terrazza. La figura è posizionata vicino al centro, con tavoli e sedie da un lato e l'apertura del marciapiede dall'altro.
+Altezza della fotocamera compresa tra la vita e il seno della donna in piedi, a una distanza di scatto moderatamente ravvicinata. Angolo di campo naturale da obiettivo standard a medio teleobiettivo, privilegiando una prospettiva che non alteri le proporzioni di corpo e gambe. Sfondo leggermente riordinato, ma con dettagli sufficienti a percepire la vita del locale e del marciapiede.
+
+【Luce, colore, texture e atmosfera】
+La sorgente luminosa principale è una luce naturale morbida che filtra dalla tenda. La luce penetra dall'alto e dal lato del marciapiede, donando un chiarore sereno al volto, alle spalle e al pizzo dell'abito. Dal lato opposto agisce una delicata luce riflessa, creando ombre morbide. Luminosità diurna ben conservata, con una temperatura colore rilassata che evita le alte luci bruciate.
+I toni dell'avorio, del moka, del verde e del grigio chiaro dei ciottoli si fondono in una tonalità complessiva luminosa e raffinata. Colorito sano della pelle, capelli definiti da riflessi setosi, tessuto caratterizzato dalla finezza del pizzo e dalla consistenza degli shorts, con texture distinte per rattan, legno e vetro. Un'atmosfera da meriggio metropolitano, leggera, intima e calorosa.
+
+【Qualità ed elementi da escludere】
+Alta risoluzione con resa realistica di anatomia, texture, luce e prospettiva come se scattata da una vera macchina fotografica. Raffigurare inequivocabilmente una donna adulta, evitando sembianze infantili. Numero esatto di arti e dita, articolazioni e appoggio a terra naturali, con abiti che vestono il corpo in modo realistico.
+Evitare arti o dita extra, dita mancanti, dita fuse, articolazioni innaturali, compenetrazione tra corpo e abiti, difetti sartoriali, nudità involontaria, eccessive distorsioni grandangolari, sfocature artificiose dello sfondo e pelle eccessivamente levigata. Il seno deve mantenere una naturale e morbida tridimensionalità prosperosa, evitando ingrandimenti mostruosi, forme sferiche rigide o spinte eccessive verso l'alto. Nessuna scritta, logo, filigrana o elemento di interfaccia grafica.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -101,20 +141,60 @@ Traduzione in corso
 
 <a name="prompt-2101078383195247043"></a>
 
-### Traduzione in corso
+### Ritratto fotorealistico di una donna giapponese in un ryokan al crepuscolo, vestita con un completo da casa verde salvia mentre si rinfresca con un ventaglio seduta su una poltrona in rattan.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2101078383195247043)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto fotorealistico di una donna giapponese in un ryokan al crepuscolo, vestita con un completo da casa verde salvia mentre si rinfresca con un ventaglio seduta su una poltrona in rattan.
 
 <img src="images/2101078383195247043-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Crepuscolo in un ryokan termale | Momento di freschezza dopo il bagno in verde salvia🌟
+
+【Soggetto e stile】
+Raffigura il momento in una quieta sala relax di un ryokan termale al tramonto, in cui una donna appena uscita dal bagno si siede comodamente su una poltrona lounge in rattan, lasciando raffreddare lentamente il calore del corpo. Una fotografia fotorealistica che ha per protagonista una donna giapponese chiaramente adulta, trasmettendo un senso di intimità e quotidianità, come se fosse stata scattata con naturalezza dal suo compagno durante un viaggio.
+Pur mantenendo la compostezza di una foto di moda, la posa non deve apparire eccessivamente costruita, privilegiando la postura rilassata e spontanea dopo le terme. La figura, la poltrona in rattan, lo spazio tradizionale giapponese e il verde del giardino si fondono in un'unica scena, creando una fotografia in cui convivono serenità e fascino maturo.
+
+【Luogo, sfondo e atmosfera】
+Il luogo è una tranquilla sala relax a uso riservato degli ospiti del ryokan. Caratterizzata da pilastri e pavimenti in legno dalle tonalità sobrie, e da infissi in carta washi e shoji, oltre le finestre o le porte scorrevoli aperte si scorge un piccolo giardino giapponese. Nel giardino, pietre naturali, bassi arbusti, muschio e una lanterna in pietra sono disposti con discrezione, creando la profondità tipica di un ryokan.
+Attorno alla donna si trovano una poltrona lounge in rattan dalle linee arrotondate e cuscini color ecrù chiaro. Vicino ci sono un tavolino basso in legno e piccoli oggetti discreti come una tazza da tè, ma senza affollare lo sfondo, componendo un'inquadratura che trasmetta a prima vista l'idea di un pacifico luogo di riposo.
+
+【Stagione, orario e clima】
+Tardo pomeriggio di inizio autunno o fine estate. Il calore del giorno persiste appena, ma dal giardino inizia a entrare una brezza leggermente fresca. Il cielo volge dal sereno al crepuscolo; non vi è luce solare diretta intensa, ma una morbida luce naturale con sfumature bluastre che filtra dal giardino all'interno della stanza.
+Si percepisce il contrasto tra il tepore rimasto sul corpo dopo il bagno e l'aria fresca della sera. Clima placido, senza pioggia né vento forte, in cui le foglie del giardino oscillano appena.
+
+【Descrizione del personaggio】
+Donna giapponese di 27 anni, chiaramente adulta. Lineamenti dolci e armoniosi, occhi scuri grandi, sopracciglia naturali, ponte nasale elegante e labbra morbide con una colorazione sana. Capelli castano scuro fino alle spalle, raccolti in modo morbido e non troppo rigido come tipico di chi è appena uscito dal bagno, lasciando ciocche sottili e naturali attorno al viso. Pelle chiara con sottotono ocra e una texture realistica con pori e delicate ombreggiature visibili.
+Fisico naturalmente procace e armonioso, con spalle e arti sottili, vita snella e forme femminili morbide. Seno visibilmente generoso e voluminoso, ma senza forme sferiche rigide o ingrandimenti innaturali, dotato di una rotondità morbida e di una volumetria naturale che asseconda la postura seduta e la gravità. Fianchi e gambe dalle curve piene e sane, ben bilanciate con l'intera figura.
+
+【Abbigliamento e accessori】
+Elegante completo da casa composto da un top a canotta con volant in pizzo verde salvia e pantaloni lunghi morbidi coordinati. Il top è realizzato in tessuto morbido e coprente, impreziosito da sottili volant in pizzo lungo la scollatura e sulle spalle. Lo scollo ha un taglio e una cucitura realistici che si adattano al fisico, accogliendo comodamente il seno generoso senza tirare eccessivamente o stringere, garantendo una vestibilità naturale.
+I pantaloni sono in tessuto leggero e cascante, con una linea rilassata che non fascia troppo le gambe. Accessori ridotti al minimo, limitati a piccoli orecchini discreti. Nessuna decorazione appariscente o finitura troppo lucida che contrasti con la quiete del riposo post-bagno.
+
+【Posa, gesti e sguardo】
+La donna è seduta comodamente sulla poltrona in rattan, appoggiando schiena e spalle in modo rilassato al cuscino. Il busto è rivolto quasi frontalmente verso la fotocamera con una leggera inclinazione, mentre dalla vita in giù la postura è distesa. Le gambe sono allungate in diagonale in avanti con le ginocchia unite, e le punte dei piedi sono allineate naturalmente nella stessa direzione.
+Una mano è posata accanto al ginocchio e tiene delicatamente per il manico un ventaglio rotondo uchiwa. L'altra mano poggia con naturalezza sulla coscia o sul bracciolo della poltrona. Il capo è leggermente reclinato di lato, con lo sguardo che devia appena a lato dell'obiettivo, come a guardare il partner seduto accanto a lei. Senza torsioni forzate del corpo, una seduta stabile che scarica naturalmente il peso sulla poltrona.
+
+【Espressione ed emozione】
+Un'espressione distesa e leggermente assonnata, tipica di chi ha appena terminato il bagno e si concede finalmente il meritato riposo. Palpebre non del tutto chiuse, occhi socchiusi con sguardo sereno. Muscoli di sopracciglia e guance privi di tensione, labbra morbidamente socchiuse in modo naturale.
+Consapevole della presenza del compagno, il volto non è del tutto inespressivo: agli angoli della bocca indugia una dolce morbidezza. Non un sorriso forzato o vistoso, bensì un senso di serena intimità e sicurezza, come se stesse per dire: «Che meraviglia stare qui».
+
+【Composizione e inquadratura】
+Inquadratura verticale 4:5 pensata per post su X. Figura intera da seduta, dalla sommità del capo fino alle punte dei piedi uniti all'interno dell'inquadratura, con un campo sufficientemente ampio da mostrare l'intera poltrona e parte del giardino. La figura è leggermente decentrata, lasciando spazio libero sull'altro lato per il giardino e l'architettura tradizionale giapponese.
+Altezza di ripresa impostata al livello del petto o della vita della figura seduta, senza prospettive estreme dall'alto o dal basso. Angolo di campo naturale equivalente a un obiettivo standard o medio tele da 50-70 mm, evitando di allungare in modo innaturale le proporzioni del corpo o dei piedi. Sfondo con una leggera sfocatura, mantenendo comunque una profondità di campo sufficiente a riconoscere gli elementi tipici del ryokan (giardino, shoji, legno).
+
+【Luce, colore, texture e atmosfera】
+La sorgente luminosa principale è la morbida luce naturale della sera che entra dal giardino. Illumina delicatamente un lato del viso, delle spalle e dell'abito, mentre sul lato opposto l'illuminazione indiretta calda degli interni fa da luce di riempimento. La luce naturale dai riflessi azzurrini e il caldo ambra delle lampade interne si fondono, creando un piacevole contrasto di temperatura colore tipico del crepuscolo.
+Sulla pelle si notano ombre sottili e un colorito roseo naturale; tra i capelli risaltano l'andamento delle ciocche e la lucentezza dei capelli ribelli. Il tessuto verde salvia mostra pieghe morbide e una bella caduta, il pizzo svela la finezza delle sue fibre, e la poltrona in rattan rivela l'intreccio e la matericità asciutta del materiale naturale. Legno, carta washi, pietra e piante conservano ciascuno la propria texture, componendo un'atmosfera serale intima e distesa.
+
+【Qualità ed elementi da escludere】
+Resa fotorealistica ad alta risoluzione. Priorità ad anatomia umana naturale, illuminazione, resa dei materiali e prospettiva paragonabili a una fotografia scattata con una vera fotocamera.
+Evitare personaggi che sembrino minorenni, volti troppo fanciulleschi, anatomie innaturali, arti o dita in eccesso, dita mancanti o fuse, articolazioni anomale, mani invertite, difetti nell'abbigliamento, fusione tra corpo e vestiti, nudità involontaria, distorsioni estreme da grandangolo ed eccessivo effetto pelle levigata. Il seno deve mantenere un volume pieno e naturale, senza forme sferiche rigide, push-up esagerati, gigantismi innaturali o sagome che sfidano la gravità. Nessuna scritta, logo, watermark o elemento d'interfaccia nell'immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)

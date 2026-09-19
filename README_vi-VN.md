@@ -79,20 +79,60 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Quang cảnh t
 
 <a name="prompt-2101077637305340004"></a>
 
-### Đang dịch
+### Bức chân dung phong cách nhiếp ảnh chân thực về một người phụ nữ mặc áo hai dây màu ngà đang ngước nhìn người yêu ở hiên quán cà phê đầu giờ chiều.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2101077637305340004)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức chân dung phong cách nhiếp ảnh chân thực về một người phụ nữ mặc áo hai dây màu ngà đang ngước nhìn người yêu ở hiên quán cà phê đầu giờ chiều.
 
 <img src="images/2101077637305340004-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Hiên cà phê đầu giờ chiều | Áo hai dây màu ngà và nụ cười ngước nhìn🌟
+
+【Chủ đề & Phong cách】
+Khắc họa khoảnh khắc tại hiên cà phê ban ngày, một người phụ nữ Nhật Bản trưởng thành đứng dậy khỏi ghế, thu hẹp khoảng cách đồng thời ngước nhìn người yêu cao hơn mình một chút. Thể hiện qua nhiếp ảnh chân thực (photorealistic), truyền tải đồng thời sự thân mật hướng về người yêu và bầu không khí nhẹ nhàng nơi góc phố.
+Chú trọng tính tự nhiên như một trang trong tập sách ảnh, hoàn thiện như một bức ảnh thời trang mang hơi thở cuộc sống đời thường. Một bức ảnh không chỉ thể hiện nét dễ thương mà còn toát lên sự tinh tươm, thanh lịch và cảm giác cởi mở, dịu dàng của buổi trưa.
+
+【Địa điểm, Bối cảnh & Thế giới quan】
+Địa điểm là ranh giới giữa chỗ ngồi ngoài hiên của một quán cà phê ban ngày và vỉa hè. Bàn tròn, ghế mây hoặc gỗ, ly trà đá uống dở, chậu cây ô liu được bố trí tự nhiên, gợi cảm giác về khoảng thời gian nghỉ ngơi dễ chịu nơi góc phố.
+Bối cảnh mở ra vỉa hè, tường ngoài mặt tiền quán, mái hiên che và lối đi bộ trải dài về phía sau ở mức độ không làm phiền chủ thể. Tiền cảnh là bàn ghế, trung cảnh là nhân vật, hậu cảnh là con phố sáng sủa, tạo nên chiều sâu và sự thông thoáng đặc trưng của hiên quán.
+
+【Mùa, Thời gian & Thời tiết】
+Mùa là thời điểm dễ chịu gợi nhớ đến khoảng giao mùa từ đầu hè sang đầu thu. Thời gian là đầu giờ chiều không quá muộn của ban ngày, ánh sáng đầy đủ nhưng không quá gắt, không khí nhẹ nhàng và êm dịu.
+Thời tiết nắng ráo. Mái hiên phía trên làm dịu ánh nắng trực tiếp, sự tương phản với độ sáng bên phía vỉa hè giúp nhân vật nổi bật một cách tự nhiên. Không hề oi bức, một làn gió nhẹ thoảng qua làm lay động nhẹ ngọn tóc và mép trang phục.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản trưởng thành rõ ràng, khoảng 20-28 tuổi. Khuôn mặt thanh tú, mềm mại với đôi mắt hơi to, lông mày tự nhiên, đôi môi hồng hào. Tóc màu nâu trầm uốn sóng nhẹ dài ngang vai, vài lọn tóc mai buông lơi quanh má. Làn da tông màu be sáng (ocher), có kết cấu tự nhiên không quá nhẵn bóng.
+Vóc dáng quyến rũ tự nhiên, thanh lịch với sự hài hòa giữa bờ vai, tay chân thanh mảnh, vòng eo thon gọn và những đường cong nữ tính. Vòng một căng đầy đặn rõ rệt nhưng nằm êm ái, tự nhiên theo trang phục và tư thế, giữ sự cân đối với toàn bộ cơ thể. Vòng ba cũng có độ cong tròn tự nhiên, vừa phải.
+
+【Trang phục & Phụ kiện】
+Mặc áo hai dây (camisole) màu ngà điểm xuyết thêu hoa nhỏ và ren tinh xảo. Thiết kế toát lên vẻ thanh nhã với dây áo mảnh mai, chất vải mềm mại, đường viền thêu và ren trước ngực, mang lại độ ôm thực tế uốn lượn tự nhiên theo cơ thể. Thân dưới là quần soóc cạp cao màu mocha. Phom dáng gọn gàng, kết hợp hài hòa với nét nhẹ nhàng của chiếc áo hai dây.
+Dưới chân là đôi dép xăng-đan đế bệt quai mảnh. Phụ kiện giữ ở mức tối giản, chỉ là đôi khuyên tai nhỏ hoặc chiếc lắc tay thanh mảnh. Không thêm thắt trang sức phô trương, ưu tiên sự thanh thoát phù hợp với góc phố ban ngày.
+
+【Tư thế, Động tác & Ánh mắt】
+Động tác ngay sau khi đứng dậy khỏi ghế. Trọng tâm vẫn hơi dồn vào chân sau, trong khi chân kia bước nửa bước về phía người yêu. Một tay chạm nhẹ vào phần trên lưng ghế, thể hiện chuyển động đứng dậy một cách tự nhiên. Tay còn lại thả lỏng bên hông, không vặn vẹo vai hay eo một cách gượng gạo.
+Thân trên mở vừa phải hướng về phía người yêu, hơi ngửa cổ và cằm, ngước nhìn đối phương cao hơn mình. Ánh mắt hướng về khoảng từ mắt đến khóe môi của người yêu, thể hiện sự nhẹ nhàng như sắp nhón chân và sự thân mật trong khoảnh khắc khoảng cách được rút ngắn.
+
+【Biểu cảm & Cảm xúc】
+Biểu cảm là nụ cười mỉm dịu dàng gửi gắm tâm tư về phía người yêu. Mí mắt hơi hạ xuống một chút, nơi khóe mắt ánh lên cảm giác an tâm và ngọt ngào. Khóe miệng không gồng cứng, đôi môi khẽ khép lại tự nhiên, toát lên sự thân mật mộc mạc.
+Cảm xúc là sự rung động êm đềm pha lẫn giữa bẽn lẽn và niềm vui. Không làm biểu cảm chu môi hôn thái quá, mà là một nét mặt thanh lịch, đáng yêu, truyền tải êm đềm bầu không khí chỉ riêng hai người.
+
+【Bố cục & Máy ảnh】
+Bố cục dọc 4:5 dành cho bài đăng X. Bố cục toàn thân lấy trọn vẹn từ đỉnh đầu đến mũi dép xăng-đan với khoảng cách thoải mái, không làm nhân vật quá nhỏ và vẫn giữ đủ không khí của chỗ ngồi ngoài hiên. Nhân vật được đặt hơi lệch về trung tâm khung hình, một bên là bàn ghế, bên kia mở ra lối đi bộ thoáng đãng.
+Chiều cao máy ảnh ở khoảng giữa eo và ngực của người phụ nữ đang đứng, khoảng cách chụp hơi gần. Góc máy tự nhiên thiên về tiêu cự tiêu chuẩn đến tele tầm trung, ưu tiên luật xa gần không làm phóng đại cơ thể hay đôi chân. Hậu cảnh được tinh giản nhẹ nhàng nhưng vẫn giữ đủ lượng thông tin để nhận biết không khí mặt tiền quán và lối đi bộ.
+
+【Ánh sáng, Màu sắc, Chất liệu & Bầu không khí】
+Nguồn sáng chính là ánh sáng tự nhiên dịu nhẹ xuyên qua mái hiên. Ánh sáng chiếu từ phía trên và từ phía vỉa hè, mang lại độ sáng êm dịu cho gương mặt, bờ vai và ren của trang phục. Phía đối diện có ánh sáng phản xạ nhẹ bao quanh, bóng đổ mềm mại. Giữ được độ sáng của ban ngày với nhiệt độ màu điềm đạm, không bị cháy sáng (cháy trắng).
+Màu ngà, màu mocha, sắc xanh lá và màu đá lát nhạt hòa quyện tạo nên tông màu tổng thể tươi sáng, tao nhã. Làn da có sắc hồng tự nhiên, mái tóc có từng lọn tóc chi tiết và độ bóng mềm mại, vải vóc thể hiện sự tinh xảo của ren và độ đứng của quần soóc, ghế mây, gỗ và thủy tinh đều toát lên chất cảm riêng biệt. Bầu không khí mang nét dịu dàng nhẹ nhàng, thân mật của một buổi trưa đô thị.
+
+【Chất lượng & Yếu tố loại trừ (Negative)】
+Độ phân giải cao, chú trọng cơ thể người, chất liệu, ánh sáng và luật xa gần tự nhiên như được chụp bằng máy ảnh thực tế. Khắc họa rõ ràng là một phụ nữ trưởng thành, tránh những cách thể hiện trông như trẻ vị thành niên. Số lượng tay chân, ngón tay, khớp xương và cảm giác chạm đất tự nhiên, trang phục ôm theo cơ thể một cách thực tế.
+Tránh thừa thiếu ngón tay, ngón tay dính liền, khớp xương bất thường, cơ thể dính liền vào trang phục, lỗi trang phục, hở hang ngoài ý muốn, méo góc rộng cực đoan, mờ hậu cảnh giả tạo, xử lý mịn da quá đà. Vòng một giữ độ nổi khối tự nhiên đầy đặn, tránh làm to bất thường, cứng nhắc như hình cầu hoặc nâng đẩy quá mức. Không chèn chữ, logo, hình mờ (watermark) hay hiển thị giao diện UI.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -101,20 +141,60 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 <a name="prompt-2101078383195247043"></a>
 
-### Đang dịch
+### Bức chân dung chân thực về một phụ nữ Nhật Bản mặc đồ ở nhà màu xanh xô thơm, ngồi trên ghế mây cầm quạt hóng mát tại ryokan onsen lúc hoàng hôn.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2101078383195247043)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức chân dung chân thực về một phụ nữ Nhật Bản mặc đồ ở nhà màu xanh xô thơm, ngồi trên ghế mây cầm quạt hóng mát tại ryokan onsen lúc hoàng hôn.
 
 <img src="images/2101078383195247043-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Ryokan Onsen lúc hoàng hôn | Khoảnh khắc thư giãn sau khi tắm với trang phục màu xanh xô thơm🌟
+
+【Chủ đề & Phong cách hình ảnh】
+Khắc họa khoảnh khắc tại một góc nghỉ ngơi yên tĩnh trong ryokan onsen vào buổi chiều tà, một người phụ nữ vừa tắm xong ngồi tựa lưng sâu vào chiếc ghế tựa mây, thong thả để cơ thể hạ nhiệt. Bức ảnh mang phong cách chân thực (photorealistic) với nhân vật chính rõ ràng là một phụ nữ Nhật Bản trưởng thành, mang lại cảm giác đời thường và thân mật như được người yêu chụp tự nhiên trong chuyến du lịch.
+Vẫn giữ được nét chỉn chu của ảnh thời trang nhưng không tạo dáng quá gượng gạo, chú trọng vào vẻ tự nhiên, thư thả sau khi tắm onsen. Thể hiện nhân vật, ghế mây, không gian kiểu Nhật và mảng xanh của khu vườn thành một cảnh tượng hài hòa, tạo nên bức ảnh vừa có sự tĩnh lặng vừa toát lên vẻ đáng yêu, trưởng thành.
+
+【Địa điểm, Bối cảnh & Thế giới quan】
+Địa điểm là khu vực nghỉ ngơi yên tĩnh dành riêng cho khách trọ tại ryokan onsen. Cột và sàn gỗ có độ sáng vừa phải, các cánh cửa ngăn làm bằng giấy washi và shoji, ngoài cửa sổ hoặc cửa lùa mở rộng là một khu vườn Nhật Bản nhỏ. Trong vườn điểm xuyết đá tự nhiên, bụi cây thấp, rêu và đèn lồng đá một cách tinh tế, tạo chiều sâu đặc trưng của ryokan.
+Xung quanh nhân vật đặt một chiếc ghế tựa mây bo tròn cùng đệm ngồi màu trắng ngà tự nhiên nhạt. Gần đó có một chiếc bàn gỗ thấp và vài món đồ nhỏ như tách trà, bố cục không quá rườm rà, giúp người xem nhận ra ngay đây là chốn nghỉ ngơi thanh tịnh.
+
+【Mùa, Thời gian & Thời tiết】
+Buổi chiều tà vào đầu thu hoặc cuối hè. Cái nóng ban ngày vẫn còn vương lại chút ít, nhưng làn gió mát mẻ từ khu vườn đã bắt đầu thổi vào. Bầu trời đang chuyển dần từ trong xanh sang chạng vạng, không có ánh nắng gắt trực tiếp mà là ánh sáng tự nhiên dịu nhẹ mang sắc xanh lam lan tỏa từ phía vườn vào trong phòng.
+Cảm nhận được sự tương phản giữa hơi ấm còn đọng lại trên cơ thể sau khi tắm và không khí mát lành của buổi chiều tà. Không có mưa hay gió mạnh, thời tiết êm đềm với những tán lá trong vườn chỉ khẽ đung đưa.
+
+【Thiết lập nhân vật】
+Phụ nữ Nhật Bản 27 tuổi, rõ ràng là người trưởng thành. Đường nét khuôn mặt mềm mại, thanh tú với đôi mắt đen to, lông mày tự nhiên, sống mũi thanh tú và đôi môi mềm mại vẫn còn sắc hồng hào. Mái tóc màu nâu trầm dài ngang vai được buộc hờ tự nhiên sau khi tắm, để rơi vài lọn tóc mai con quanh mặt. Làn da tông màu be sáng (ochre) với kết cấu chân thực, thấy rõ lỗ chân lông và bóng đổ tinh tế.
+Vóc dáng đẫy đà tự nhiên với bờ vai và tay chân thanh mảnh, eo thon kết hợp hài hòa với những đường cong nữ tính. Vòng một rõ ràng là đầy đặn và nở nang, nhưng không to bất thường hay cứng như hình cầu mà có độ tròn mềm mại, độ nổi khối tự nhiên theo tư thế ngồi và trọng lực. Hông và chân cũng có độ nở nang khỏe khoắn, cân đối với toàn bộ cơ thể.
+
+【Trang phục & Phụ kiện】
+Bộ đồ mặc nhà thanh lịch gồm áo hai dây ren viền bèo màu xanh xô thơm (sage green) kết hợp cùng quần dài ống rộng cùng màu. Áo hai dây làm từ chất vải mềm không xuyên thấu, điểm xuyết ren bèo nhỏ quanh ngực và vai. Phần ngực áo có độ rộng và đường may thực tế phù hợp với vóc dáng, ôm lấy vòng một đầy đặn một cách tự nhiên, vải không bị kéo căng quá mức hay bó thít vào da.
+Quần làm bằng chất vải mỏng có độ rủ, phom dáng thoải mái không bó sát đường nét đôi chân. Phụ kiện tiết chế tối đa, chỉ đeo khuyên tai nhỏ. Không thêm phụ kiện rực rỡ hay có độ bóng quá mức vì không phù hợp với bối cảnh nghỉ ngơi sau khi tắm.
+
+【Tư thế, Cử động & Ánh mắt】
+Người phụ nữ ngồi sâu vào ghế tựa mây, lưng và vai tựa tự nhiên vào đệm. Thân trước hướng gần như chính diện hoặc hơi chếch nhẹ so với máy ảnh, từ thắt lưng trở xuống trong tư thế thả lỏng. Hai chân khép đầu gối duỗi chéo về phía trước, mũi chân cũng hướng tự nhiên về cùng một phía.
+Một tay buông nhẹ bên gối, cầm nhẹ cán chiếc quạt tròn uchiwa. Tay còn lại đặt tự nhiên trên đùi hoặc tay vịn ghế. Chỉ khẽ quay cổ sang một bên, ánh mắt hơi lệch khỏi máy ảnh như đang nhìn người yêu ngồi bên cạnh. Không vặn người quá mức, tư thế ngồi vững chãi, thả lỏng toàn bộ trọng lượng lên ghế.
+
+【Biểu cảm & Cảm xúc】
+Vẻ mặt hơi mơ màng, an tâm vừa mới tắm xong và cuối cùng cũng được nghỉ ngơi. Mí mắt không nhắm hẳn mà hơi nheo lại dịu dàng. Cơ lông mày và má không gồng, môi khép nhẹ thả lỏng tự nhiên.
+Vì cảm nhận được sự hiện diện của người yêu nên không hoàn toàn vô cảm, khóe miệng vẫn giữ nét mềm mại nhẹ nhàng. Không phải nụ cười gượng gạo hay cười lớn, mà thể hiện sự thân mật điềm tĩnh và cảm giác an toàn như muốn nói: "Ở đây dễ chịu thật đấy".
+
+【Bố cục & Máy ảnh】
+Bố cục khung hình dọc 4:5 cho bài đăng trên X. Khung hình toàn thân ở tư thế ngồi từ đỉnh đầu đến các ngón chân khép lại, lùi góc chụp đủ để thấy toàn bộ chiếc ghế và một phần khu vườn. Nhân vật hơi lệch nhẹ sang một bên so với tâm khung hình, để lại khoảng trống ở phía đối diện cho khu vườn và không gian Nhật Bản.
+Đặt máy ảnh ngang tầm ngực đến thắt lưng của người đang ngồi, không dùng góc chụp quá cao từ trên xuống hay hất từ dưới lên. Dự kiến tiêu cự tự nhiên khoảng 50-70mm từ tiêu chuẩn đến tele tầm trung, không làm kéo dài tỷ lệ cơ thể hay bàn chân một cách bất thường. Hậu cảnh làm mờ nhẹ, nhưng vẫn giữ độ sâu trường ảnh (DoF) đủ để nhận diện các yếu tố ryokan như khu vườn, cửa shoji, chất liệu gỗ.
+
+【Ánh sáng, Màu sắc, Chất cảm & Không khí】
+Nguồn sáng chính là ánh sáng tự nhiên dịu nhẹ buổi chiều tà rọi vào từ phía vườn. Ánh sáng chiếu nhẹ lên khuôn mặt, bờ vai và một bên trang phục, phía đối diện có ánh đèn gián tiếp tông ấm trong phòng làm sáng phụ. Sắc xanh lam nhẹ của ánh sáng tự nhiên hòa quyện với ánh hổ phách êm dịu của đèn phòng, tạo nên sự chênh lệch nhiệt độ màu dễ chịu đặc trưng của hoàng hôn.
+Làn da giữ được bóng đổ chi tiết và sắc hồng tự nhiên, mái tóc thể hiện rõ nếp tóc và độ bóng của lọn tóc con. Vải màu xanh xô thơm có nếp nhăn mềm mại và độ rủ, ren có cảm giác sợi vải chi tiết, ghế mây thể hiện rõ mắt đan và chất liệu tự nhiên khô ráo. Gỗ, giấy washi, đá, cây cỏ đều giữ chất cảm riêng biệt, gom toàn bộ bức ảnh vào tông màu hoàng hôn tĩnh lặng, dịu dàng.
+
+【Chất lượng & Yếu tố loại trừ (Negative)】
+Biểu đạt hình ảnh chân thực độ phân giải cao. Ưu tiên cơ thể người, ánh sáng, chất cảm vật liệu và phối cảnh tự nhiên như chụp bằng máy ảnh thực tế.
+Tránh: nhân vật trông giống vị thành niên, khuôn mặt quá non nớt, cơ thể dị dạng, thừa ngón/tay chân, thiếu ngón, dính ngón, khớp xương bất thường, nhầm lẫn tay trái phải, lỗi trang phục, cơ thể dính vào quần áo, lộ hàng không chủ đích, méo góc rộng cực đoan, làm mịn da quá đà. Vòng một giữ kích thước đầy đặn tự nhiên, không tạo hình cầu cứng nhắc, không nâng đẩy bất thường, không to phì đại dị thường hay đi ngược trọng lực. Không có chữ, logo, watermark hay giao diện UI trong ảnh.
 ```
 
 [↑ Về danh mục](#catalog)

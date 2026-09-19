@@ -79,20 +79,60 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Şehir Manzarası / Sokak ·
 
 <a name="prompt-2101077637305340004"></a>
 
-### Çeviri sürüyor
+### Öğleden sonra bir kafe terasında, fildişi büstiyer giymiş kadının sevgilisine yukarı baktığı fotogerçekçi bir portre.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2101077637305340004)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Öğleden sonra bir kafe terasında, fildişi büstiyer giymiş kadının sevgilisine yukarı baktığı fotogerçekçi bir portre.
 
 <img src="images/2101077637305340004-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟 Öğleden Sonra Kafe Terası | Fildişi Büstiyer ve Yukarı Bakan Gülümseme 🌟
+
+【Tema ve Görsel Tarz】
+Öğle saatlerinde bir kafe terasında sandalyeden kalkan yetişkin bir Japon kadının, kendisinden biraz daha uzun olan sevgilisine yukarı doğru bakarak aralarındaki mesafeyi kısalttığı anı tasvir etmek. Sevgilisine duyduğu yakınlığı ve sokak köşesinin ferah havasını aynı anda hissettiren fotogerçekçi bir fotoğrafik ifade.
+Bir fotoğraf albümü sayfası gibi doğallığı ön planda tutarak, içinde yaşanmışlık barındıran bir moda fotoğrafı olarak hazırlamak. Yalnızca sevimliliği değil; temizliği, zarafeti ve öğle vaktinin yumuşak ferahlığını da hissettiren bir kare oluşturmak.
+
+【Mekân, Arka Plan ve Atmosfer】
+Mekân, gündüz vakti bir kafenin açık terası ile kaldırımın kesiştiği sınırdır. Yuvarlak masa, hasır veya ahşap sandalyeler, yarım içilmiş buzlu çay ve saksıdaki zeytin ağaçları gibi unsurlar doğal biçimde yerleştirilerek sokak köşesindeki o keyifli dinlenme anı hissettirilir.
+Arka plan, ana karakterin önüne geçmeyecek ölçüde kaldırımı, dükkân cephesini, tenteyi ve arkaya doğru uzanan yürüyüş yolunu gösterir. Ön plana masa ve sandalyeler, orta plana figür, arka plana ise aydınlık sokak yerleştirilerek terasa özgü derinlik ve açıklık hissi verilir.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim, erken yaz ile erken sonbahar arasındaki ılıman ve keyifli bir dönemi anımsatır. Zaman dilimi, çok geç olmayan bir öğleden sonra vaktidir; aydınlık yeterli düzeyde olmakla birlikte sert değildir, hava hafif ve dingindir.
+Hava açıktır. Terasın üzerindeki tente doğrudan gelen güneş ışığını yumuşatır; kaldırım tarafındaki aydınlıkla olan kontrast sayesinde karakter doğal olarak öne çıkar. Bunaltıcı bir sıcaklık yoktur; tatlı bir esinti saç uçlarını ve giysilerin kenarlarını hafifçe dalgalandırır.
+
+【Karakter Tanımı】
+20 ila 28 yaşlarında, belirgin biçimde yetişkin bir Japon kadın. Yumuşak ve dengeli yüz hatlarına, hafifçe iri gözlere, doğal kaşlara ve canlı dudaklara sahiptir. Saçları omuz hizasında koyu kahverengi ve gevşek dalgalı olup yanaklarının etrafında birkaç serbest tutam kalmıştır. Cildi açık aşıboyası tonlarında, aşırı pürüzsüzleştirilmemiş doğal bir dokuya sahiptir.
+Vücut tipi; zarif omuzlar ve kollar, ince bir bel ve feminen kıvrımların uyum içinde olduğu zarif ve doğal olarak dolgun bir yapıdadır. Göğüsler belirgin biçimde dolgun ve hacimlidir; ancak kıyafete ve duruşa uyumlu şekilde yumuşak ve doğal oturarak tüm vücutla dengesini korur. Kalçalar da ölçülü ve doğal bir yuvarlaklığa sahiptir.
+
+【Kıyafet ve Aksesuarlar】
+Üzerinde fildişi renginde minik çiçek nakışları ve zarif dantellerle süslenmiş bir büstiyer (askılı üst) vardır. İncecik omuz askıları, yumuşak kumaşı ve yaka kısmındaki nakış ve dantel biyeleriyle son derece şık duran, vücuda doğal oturan gerçekçi bir kesime sahiptir. Alt kısımda moka rengi yüksek belli şort bulunur. Düzgün silüetiyle büstiyerin hafifliğiyle uyum sağlar.
+Ayağında ince bantlı düz sandaletler vardır. Aksesuarlar minimumda tutulmuş, yalnızca küçük küpeler veya ince bir bileklik tercih edilmiştir. Gösterişli süslemelerden kaçınılarak gündüz vakti sokak köşesine yakışan o ferah hafiflik öne çıkarılmıştır.
+
+【Poz, Hareket ve Bakış】
+Sandalyeden henüz kalktığı anın hareketi. Ağırlık merkezini hafifçe arka bacakta tutarken, diğer bacağıyla sevgilisine doğru yarım adım atmıştır. Bir eliyle sandalyenin sırtlığının üst kısmına hafifçe dokunarak ayağa kalkış akışını doğal biçimde yansıtır. Diğer eli vücudun yanında gevşek durur; omuzlarda veya belde zorlama bir bükülme yoktur.
+Vücudun üst kısmı sevgilisine doğru ölçülü biçimde dönüktür; boynunu ve çenesini hafifçe kaldırarak kendisinden uzun olan sevgilisine yukarı doğru bakar. Bakışları sevgilisinin gözleri ile dudakları arasına yönelmiştir; tam parmak ucuna kalkmak üzereymiş gibi bir hafiflik ve mesafenin daraldığı o anın samimiyeti yansıtılır.
+
+【İfade ve Duygu】
+Yüz ifadesi, sevgilisine sevgisini sunan tatlı ve yumuşak bir tebessümdür. Göz kapakları hafifçe iniktir; bakışlarına güven ve tatlılık sinmiştir. Dudaklarında kasılma yoktur; doğal bir yakınlık hissettirecek şekilde dudaklarını hafifçe öne doğru toparlamıştır.
+Duygu; utangaçlık ve mutluluğun harmanlandığı dingin bir heyecandır. Abartılı bir öpücük ifadesi yerine, yalnızca ikisine ait o özel havanın sessizce hissedildiği, zarif ve sevimli bir ifade oluşturulur.
+
+【Kompozisyon ve Kamera】
+X paylaşımları için uygun 4:5 dikey kompozisyon. Başın tepesinden sandaletli ayak uçlarına kadar rahatça içine alan tam boy bir kompozisyonla figür çok küçültülmez ve terasın atmosferi bolca korunur. Figür karenin ortasına yakın konumlandırılır; bir yanında masa ve sandalyeler, diğer yanında ise açık kaldırım boşluğu gösterilir.
+Kamera yüksekliği, ayaktaki kadının beli ile göğsü arasındaki orta hizadadır ve çekim mesafesi nispeten yakındır. Standart ile orta-telefoto arası doğal bir odak uzaklığı kullanılarak vücudun veya bacakların abartılı görünmediği bir perspektife öncelik verilir. Arka plan hafifçe sadeleştirilir; fakat dükkânın ve kaldırımın havasının hissedileceği ölçüde detay korunur.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı tentenin arasından süzülen yumuşak doğal ışıktır. Işık yukarıdan ve kaldırım tarafından gelerek yüze, omuzlara ve kıyafetin dantellerine dingin bir aydınlık kazandırır. Karşı tarafta zayıf bir yansıyan ışık dolaşır ve gölgeler yumuşak düşer. Gündüze özgü aydınlık korunurken patlama yapmayan dengeli bir renk sıcaklığı sağlanır.
+Fildişi, moka, yeşil ve açık renkli kaldırım taşlarının uyumuyla genel olarak aydınlık ve zarif bir ton hâkimdir. Ciltte doğal bir canlılık, saçlarda ince tel detayları ve yumuşak bir parlaklık, kumaşta dantelin inceliği ile şortun dokusu, hasır sandalyede, ahşapta ve camda ise her birine özgü farklı dokular açığa çıkarılır. Atmosfer, şehirdeki bir öğleden sonraya yakışır şekilde ferah, samimi ve tatlıdır.
+
+【Kalite ve Hariç Tutulan Unsurlar】
+Yüksek çözünürlük; gerçek bir fotoğraf makinesiyle çekilmiş gibi doğal insan anatomisi, materyal, ışık ve perspektif odaklıdır. Karakter açıkça yetişkin bir kadın olarak çizilmeli, çocuksu görünümlerden kaçınılmalıdır. El, ayak, parmak sayıları, eklemler ve yere basış hissi doğal olmalı; kıyafet vücuda gerçekçi şekilde oturmalıdır.
+Fazladan el, kol veya bacak, eksik veya birleşik parmaklar, doğal olmayan eklemler, vücut ile giysinin iç içe geçmesi, kıyafet deformasyonları, istenmeyen açılmalar, aşırı geniş açı bozulması, yapay arka plan bulanıklığı ve aşırı cilt pürüzsüzleştirme filtrelerinden kaçınılmalıdır. Göğüsler zengin ve doğal bir üç boyutluluğa sahip olmalı; yapay büyüklükten, sert küresel formlardan ve aşırı yukarı itilmiş görünümlerden kaçınılmalıdır. Metin, logo, filigran veya arayüz göstergeleri yer almamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -101,20 +141,60 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2101078383195247043"></a>
 
-### Çeviri sürüyor
+### Alacakaranlıkta bir kaplıca ryokan'ında adaçayı yeşili ev giysisiyle hasır koltukta oturup uchiwa yelpazesiyle serinleyen Japon bir kadının gerçekçi portresi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2101078383195247043)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Alacakaranlıkta bir kaplıca ryokan'ında adaçayı yeşili ev giysisiyle hasır koltukta oturup uchiwa yelpazesiyle serinleyen Japon bir kadının gerçekçi portresi.
 
 <img src="images/2101078383195247043-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Alacakaranlıkta Kaplıca Ryokan'ı | Adaçayı Yeşiliyle Banyo Sonrası Serinleme Zamanı🌟
+
+【Ana Konu / Görsel Tarz】
+Akşam saatlerinde bir kaplıca ryokan'ının sakin dinlenme salonunda, banyodan yeni çıkmış bir kadının hasır dinlenme koltuğuna derinlemesine oturup vücudunun sıcaklığını yavaşça serinlettiği anı tasvir etmek. Açıkça yetişkin bir Japon kadının başrolde olduğu fotogerçekçi bir fotoğraf; bir seyahatte sevgilisi tarafından doğal bir şekilde çekilmiş gibi samimi ve yaşanmışlık hissi veren bir atmosfer taşımalıdır.
+Moda fotoğrafçılığının zarafetini korurken, aşırı kurgulanmış pozlardan kaçınılmalı, kaplıca sonrasının rehavetiyle oluşan doğal duruşa odaklanılmalıdır. Kişi, hasır koltuk, geleneksel Japon mekanı ve bahçenin yeşilliği tek bir sahne olarak sunulmalı; dinginlik ile yetişkin sevimliliğini bir arada barındıran bir fotoğraf olmalıdır.
+
+【Mekan / Arka Plan / Dünya Görüşü】
+Mekan, kaplıca ryokan'ı misafirlerinin özel olarak kullanabileceği sakin bir dinlenme alanıdır. Çok parlak olmayan ahşap sütunlar ve zeminler, shoji ve washi kağıdı kullanılmış doğramalar bulunur; pencerenin veya açık kayar kapının ardında küçük bir Japon bahçesi görünür. Bahçede doğal taşlar, bodur çalılar, yosunlar ve taş fenerler ölçülü bir şekilde yerleştirilerek ryokan'a özgü bir derinlik hissi yaratılmıştır.
+Karakterin çevresinde yuvarlak hatlı hasır bir dinlenme koltuğu ve açık ekru renkli minderler yer alır. Yakınlarda alçak ahşap bir sehpa ve çay fincanı gibi sade objeler bulunmalı, ancak arka plan aşırı kalabalıklaştırılmadan buranın huzurlu bir dinlenme köşesi olduğu ilk bakışta anlaşılmalıdır.
+
+【Mevsim / Zaman / Hava Durumu】
+İlk sonbahar veya yaz sonunun akşam saatleri. Günün sıcaklığı hafifçe hissedilmekte ancak bahçeden hafif serin bir rüzgar esmeye başlamaktadır. Gökyüzü açık havadan alacakaranlığa geçerken, sert doğrudan güneş ışığı yerine bahçe tarafından içeriye doğru mavimsi, yumuşak bir doğal ışık süzülür.
+Banyo sonrasında vücutta kalan sıcaklık ile akşamın serin havası arasındaki kontrast hissettirilir. Yağmur veya şiddetli rüzgar yoktur; bahçedeki yaprakların hafifçe kımıldadığı sakin bir hava hakimdir.
+
+【Karakter Özellikleri】
+27 yaşında, tartışmasız yetişkin bir Japon kadın. Yumuşak ve düzgün yüz hatları, iri siyah gözler, doğal kaşlar, zarif bir burun kemeri ve hafif pembeleşmiş yumuşak dudaklar. Banyo sonrasına yakışır şekilde çok sıkı toplanmamış, omuz hizasında koyu kahverengi saçlar; yüz çevresinde ince, serbest tutamlar bırakılmıştır. Cilt açık aşı boyası (açık buğday) tonlarında, gözeneklerin ve ince gölgelerin hissedildiği gerçekçi bir dokuya sahiptir.
+Narin omuzlar ve uzuvlar, ince bir bel ve feminen kıvrımlarla uyum içinde doğal ve çekici bir vücut yapısı. Göğüsler belirgin şekilde dolgun ve hacimlidir; ancak yapay bir büyüklükte veya sert küresel yapıda değil, oturma pozisyonuna ve yerçekimine uygun yumuşak bir yuvarlaklık ve doğal üç boyutluluk taşır. Kalça ve bacaklar da genel vücutla dengeli, sağlıklı bir dolgunluğa sahiptir.
+
+【Kıyafet / Aksesuarlar】
+Adaçayı yeşili fırfırlı dantelli askılı bluz ve aynı renkte dökümlü uzun pantolondan oluşan zarif bir ev giysisi takımı. Bluz iç göstermeyen yumuşak kumaştan yapılmıştır; göğüs dekoltesi ve omuz çevresinde ince fırfırlı danteller yer alır. Göğüs kısmı vücut yapısına uygun gerçekçi dikiş ve kalıba sahip olup, dolgun göğsü sıkıştırmadan veya kumaşı aşırı gerdirmeden doğal bir şekilde sarar.
+Pantolon, bacak hatlarını fazla belli etmeyen, rahat kesimli ve dökümlü ince bir kumaştandır. Aksesuarlar son derece asgari düzeyde tutulmuş, yalnızca küçük küpelerle sınırlandırılmıştır. Banyo sonrası dinlenme anına uygun düşmeyecek gösterişli süslemelerden veya yoğun parlaklıktan kaçınılmıştır.
+
+【Poz / Hareket / Bakış】
+Kadın hasır dinlenme koltuğuna derinlemesine oturmuş, sırtını ve omuzlarını doğal bir şekilde mindere yaslamıştır. Vücudunun ön kısmı kameraya neredeyse düz, çok hafif çapraz bakar; belden aşağısı ise rahatlamış bir pozisyondadır. Bacaklar dizler bitişik olarak çapraz ileriye doğru uzatılmış, ayak uçları da doğal olarak aynı yöne hizalanmıştır.
+Bir eli dizinin yanına inmiş, sapını hafifçe kavradığı yuvarlak bir uchiwa yelpazesini tutmaktadır. Diğer eli ise uyluğunun veya koltuğun kolçağının üzerine doğal olarak konmuştur. Yalnızca boynunu hafifçe yana çevirerek, yanındaki sevgilisine bakar gibi bakışlarını kameranın biraz yanına çevirmiştir. Vücudunu aşırı bükmeden, ağırlığını koltuğa bırakmış dengeli bir oturuş sergiler.
+
+【Yüz İfadesi / Duygu】
+Kaplıcadan çıkıp nihayet dinlenmeye başladığı anın getirdiği hafif uykulu ve huzurlu bir ifade. Göz kapakları tamamen kapalı değil, hafifçe kısılmış dingin gözler. Kaş ve yanak kasları gergin değil; dudaklar hafifçe kapalı, rahatlamış doğal bir formdadır.
+Sevgilisinin varlığının farkında olduğu için tamamen ifadesiz değildir; dudak kenarlarında çok hafif bir yumuşaklık kalmıştır. Yapmacık veya abartılı bir gülümseme yerine, "Burası ne kadar güzel, değil mi?" dercesine sakin bir samimiyet ve güven duygusu yansıtır.
+
+【Kompozisyon / Kamera】
+X (Twitter) paylaşımlarına uygun 4:5 dikey kompozisyon. Başın tepesinden hizalanmış ayak uçlarına kadar karenin içine alan oturur vaziyette tam boy kadraj; koltuğun tamamı ve bahçenin bir kısmı görünecek mesafeden çekilmiştir. Karakter merkezden hafifçe bir yana kaydırılmış, diğer tarafta ise bahçe ve Japon odasının boşluğuna yer bırakılmıştır.
+Kamera oturan kişinin göğüs ile bel hizasında konumlandırılmış; aşırı üst veya alt açılardan kaçınılmıştır. 50-70 mm civarında standart ile orta telefoto arası doğal bir görüş açısı öngörülmüş olup, vücut oranları veya ayak uçları yapay şekilde uzatılmamıştır. Arka plan hafifçe bulanıklaştırılmıştır ancak bahçe, shoji ve ahşap gibi ryokan unsurlarının tanınabileceği bir alan derinliği korunmuştur.
+
+【Işık / Renk / Doku / Atmosfer】
+Ana ışık kaynağı bahçe tarafından giren akşamın yumuşak doğal ışığıdır. Kişinin yüzünü, omuzlarını ve kıyafetinin bir tarafını hafifçe aydınlatırken, diğer tarafta iç mekanın sıcak tonlu endirekt aydınlatması dolgu ışığı işlevi görür. Doğal ışığın hafif mavimsi tonu ile iç aydınlatmanın sakin kehribar rengi karışarak alacakaranlığa özgü hoş bir renk sıcaklığı kontrastı oluşturur.
+Ciltte ince gölgeler ve doğal bir canlılık görünür; saçlarda tel dokusu ve serbest tutamların parlaklığı işlenmiştir. Adaçayı yeşili kumaşta yumuşak kırışıklıklar ve döküm hissi, dantelde ince lif dokusu, hasır koltukta ise örgü detayları ve kurumuş doğal malzeme dokusu öne çıkarılır. Ahşap, washi kağıdı, taş ve bitkiler de kendilerine has dokularını korur; tüm sahne dingin ve nazik bir akşam tonunda bütünleşir.
+
+【Kalite / Hariç Tutulacak Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi anlatım. Gerçek bir kamerayla çekilmiş gibi doğal insan anatomisi, ışık, malzeme dokuları ve perspektif ön planda tutulmalıdır.
+Reşit görünmeyen kişiler, aşırı çocuksu yüzler, yapay anatomi, fazla kol/bacak/parmak, eksik veya birleşik parmaklar, doğal olmayan eklemler, sol ve sağ elin karışması, kıyafet deformasyonları, vücutla kıyafetin birbirine kaynaşması, istenmeyen teşhir, aşırı geniş açı distorsiyonu ve aşırı pürüzsüzleştirilmiş cilt efektlerinden kaçınılmalıdır. Göğüsler doğal dolgunluğunu korumalı; ancak sert küreler halinde, aşırı yukarı itilmiş, gerçek dışı büyüklükte veya yerçekimine meydan okuyan formda olmamalıdır. Görselde yazı, logo, filigran veya arayüz (UI) öğeleri yer almamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -79,20 +79,60 @@ Fotografie · Porträt / Selfie · Charakter · Stadtbild / Straße · Veröffen
 
 <a name="prompt-2101077637305340004"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Porträt einer Frau im elfenbeinfarbenen Camisole, die auf der Café-Terrasse am frühen Nachmittag zu ihrem Partner aufblickt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2101077637305340004)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Porträt einer Frau im elfenbeinfarbenen Camisole, die auf der Café-Terrasse am frühen Nachmittag zu ihrem Partner aufblickt.
 
 <img src="images/2101077637305340004-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Café-Terrasse am frühen Nachmittag | Elfenbeinfarbenes Camisole und aufblickendes Lächeln🌟
+
+【Thema & Bildstil】
+Zeigt den Moment auf einer Café-Terrasse am Tag, in dem eine erwachsene japanische Frau von ihrem Stuhl aufsteht und die Distanz zu ihrem etwas größeren Partner verringert, während sie zu ihm aufblickt. Ein fotorealistischer fotografischer Ausdruck, der zugleich die Intimität zu ihrem Partner und die luftige Leichtigkeit einer Straßenecke vermittelt.
+Mit Fokus auf Natürlichkeit wie eine Seite aus einem Fotoband, gestaltet als lebendige Modefotografie. Ein Bild, das nicht nur Niedlichkeit, sondern auch Frische, Eleganz und das sanfte, befreiende Gefühl des Tages transportiert.
+
+【Ort, Hintergrund & Welt】
+Der Ort ist der Übergang zwischen den Terrassenplätzen eines Tagescafés und dem Bürgersteig. Runde Tische, Stühle aus Rattan oder Holz, ein halb ausgetrunkener Eistee und Olivenbäumchen im Topf sind natürlich arrangiert und erzeugen das Gefühl einer behaglichen Pause an der Straßenecke.
+Der Hintergrund zeigt, ohne vom Hauptmotiv abzulenken, das Pflaster, die Ladenfassade, die Markise und den weiterführenden Gehweg. Im Vordergrund Tische und Stühle, im Mittelgrund die Person, im Hintergrund eine helle Straße – für eine terrassentypische Tiefe und Weite.
+
+【Jahreszeit, Tageszeit & Wetter】
+Eine angenehme Jahreszeit, die an Frühsommer bis Frühherbst erinnert. Die Tageszeit ist der frühe Nachmittag, nicht zu spät; das Licht ist reichlich vorhanden, aber nicht zu grell, und die Luft ist leicht und friedlich.
+Das Wetter ist sonnig. Die Markise über der Terrasse mildert das direkte Sonnenlicht ab, sodass sich die Figur im Kontrast zur Helligkeit des Bürgersteigs natürlich abhebt. Keine drückende Hitze; ein sanfter Wind bewegt Haarspitzen und Kleidungssäume ganz leicht.
+
+【Figurenbeschreibung】
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Weiche, ebenmäßige Gesichtszüge mit etwas größeren Augen, natürlichen Augenbrauen und wohlgenährten Lippen. Dunkelbraunes, schulterlanges Haar mit sanften Wellen, wobei einige feine Strähnen sanft die Wangen umspielen. Helle ockerfarbene Haut mit natürlicher, nicht übermäßig glatter Textur.
+Ein zierlicher Oberkörper mit feinen Schultern und Gliedmaßen, einer schlanken Taille und harmonischen weiblichen Kurven in einer eleganten, natürlich glamourösen Figur. Die Brust ist deutlich groß und üppig geformt, fügt sich jedoch weich und natürlich an Kleidung und Haltung an und bewahrt die Ausgewogenheit zum Gesamtkörper. Auch die Hüften weisen eine dezente, natürliche Rundung auf.
+
+【Kleidung & Accessoires】
+Sie trägt ein elfenbeinfarbenes Camisole mit feinen floralen Stickereien und zarter Spitze. Zarte Träger, weicher Stoff sowie Stickereien und Spitzenabschlüsse am Dekolleté wirken elegant und schmiegen sich mit einer realistischen Passform natürlich an den Körper. Unten trägt sie mokkafarbene High-Waist-Shorts. Mit klarer Silhouette harmonieren sie perfekt mit der Leichtigkeit des Camisoles.
+An den Füßen flache Riemchensandalen mit schmalen Riemen. Minimale Accessoires, lediglich kleine Ohrringe oder ein zartes Armband. Kein auffälliger Schmuck; stattdessen steht die unbeschwerte Leichtigkeit im Vordergrund, die zu einer Straßenecke am Tag passt.
+
+【Pose, Bewegung & Blick】
+Die Bewegung unmittelbar nach dem Aufstehen vom Stuhl. Das Körpergewicht ruht noch leicht auf dem hinteren Bein, während das andere einen halben Schritt auf den Partner zugeht. Eine Hand berührt leicht die Oberkante der Stuhllehne, um den Fluss des Aufstehens natürlich darzustellen. Die andere Hand ruht entspannt an der Seite, ohne unnatürliche Drehungen in Schultern oder Hüfte.
+Der Oberkörper wendet sich dem Partner sanft zu, Hals und Kinn sind leicht angehoben, um zu der größeren Person aufzublicken. Der Blick richtet sich auf die Augen- und Mundpartie des Partners und drückt jene Leichtigkeit kurz vor dem Sich-Aufrichten auf Zehenspitzen sowie die Intimität des Näherkommens aus.
+
+【Ausdruck & Emotion】
+Ein sanftes Lächeln voller Zuneigung für den Partner. Die Lider sind leicht gesenkt, in den Augen liegt Geborgenheit und Süße. Die Mundpartie ist unverkrampft, die Lippen sanft wie zum Kuss bereit, was natürliche Nähe ausstrahlt.
+Das Gefühl ist ein ruhiges, kribbelndes Herzklopfen, gemischt aus Verlegenheit und Freude. Kein übertriebenes Kussgesicht, sondern ein eleganter, liebenswerter Ausdruck, der die stille Zweisamkeit spürbar macht.
+
+【Komposition & Kamera】
+Vertikale 4:5-Komposition für X-Posts. Eine Ganzkörperaufnahme, die vom Scheitel bis zu den Zehen der Sandalen ausreichend Raum lässt, die Person nicht zu klein wirken lässt und die Atmosphäre der Terrasse voll einfängt. Die Person ist leicht außermittig platziert, auf der einen Seite Tisch und Stühle, auf der anderen der offene Blick auf den Gehweg.
+Kamerahöhe etwa zwischen Taille und Brust der stehenden Frau, mit moderat naher Aufnahmedistanz. Natürlicher Bildwinkel im Standard- bis leichten Telebereich, mit Fokus auf eine unverzerrte Perspektive von Körper und Beinen. Der Hintergrund ist dezent aufgeräumt, bewahrt aber genügend Details, um das Geschehen vor dem Café und auf dem Bürgersteig erlebbar zu machen.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Hauptlichtquelle ist weiches natürliches Licht durch die Markise. Das Licht fällt von oben und von der Bürgersteigseite ein und verleiht Gesicht, Schultern und Spitzenbesatz eine ruhige Helligkeit. Auf der Gegenseite wirkt sanftes Streulicht, die Schatten fallen weich. Tageshelle Stimmung mit gedämpfter, natürlicher Farbtemperatur ohne Überbelichtung.
+Elfenbein, Mokka, Pflanzengrün und das dezente Grau des Kopfsteinpflasters harmonieren zu einem hellen, noblen Gesamtton. Natürliche Frische auf der Haut, feine Haarsträhnen mit sanftem Glanz, der Stoff mit der Feinheit der Spitze und der Griffigkeit der Shorts sowie unterschiedliche Materialtexturen für Rattan, Holz und Glas. Eine Atmosphäre städtischer Nachmittagsruhe – leicht, intim und herzlich.
+
+【Qualität & Ausschlusskriterien】
+Hohe Auflösung, orientiert an realer Kameraoptik mit natürlicher Anatomie, echten Materialien, Lichtführung und Perspektive. Eindeutig als erwachsene Frau dargestellt, kindliche Erscheinung vermeiden. Korrekte Anzahl an Gliedmaßen und Fingern, natürliche Gelenke und Bodenhaftung, Kleidung realistisch am Körper anliegend.
+Keine zusätzlichen Gliedmaßen oder Finger, fehlenden Finger, verschmolzenen Finger, unnatürlichen Gelenke, Verschmelzungen von Körper und Kleidung, fehlerhafte Kleidung, unbeabsichtigte Nacktheit, extreme Weitwinkelverzerrungen, künstliche Hintergrundunschärfe oder übermäßige Hautglättung. Die Brust behält eine üppige, natürliche Dreidimensionalität; unnatürliche Übergröße, harte Kugelformen oder übertriebener Push-up-Effekt sind zu vermeiden. Keine Texte, Logos, Wasserzeichen oder UI-Elemente.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -101,20 +141,60 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2101078383195247043"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Porträt einer Japanerin in salbeigrüner Loungewear, die sich am Abend in einem Onsen-Ryokan auf einem Rattansessel mit einem Uchiwa-Fächer abkühlt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2101078383195247043)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Porträt einer Japanerin in salbeigrüner Loungewear, die sich am Abend in einem Onsen-Ryokan auf einem Rattansessel mit einem Uchiwa-Fächer abkühlt.
 
 <img src="images/2101078383195247043-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Abenddämmerung im Onsen-Ryokan | Abkühlung nach dem Bad in Salbeigrün🌟
+
+【Motiv & Stil】
+Zeige den Moment in einem ruhigen Ruheraum eines Onsen-Ryokans am Abend, in dem sich eine Frau nach dem heißen Bad tief in einen Rattan-Loungesessel setzt und ihren erhitzten Körper langsam abkühlt. Ein fotorealistisches Foto mit einer eindeutig erwachsenen Japanerin als Hauptfigur, das Alltagsnähe und Intimität vermittelt, als wäre es ganz natürlich von ihrem Partner während einer Reise aufgenommen worden.
+Unter Beibehaltung der Eleganz eines Modefotos soll auf übertrieben inszenierte Posen verzichtet werden; im Vordergrund steht die entspannte, natürliche Haltung nach dem Onsen-Besuch. Person, Rattansessel, traditioneller japanischer Raum und das Grün des Gartens bilden eine harmonische Szene, die Ruhe und reife Anmut vereint.
+
+【Ort, Hintergrund & Welt】
+Der Ort ist ein ruhiger Ruheraum, der von Ryokan-Gästen privat genutzt werden kann. Mit dezenten Holzpfeilern und -böden sowie Schiebetüren und Raumteilern aus Washi-Papier und Shoji versehen, eröffnet sich hinter Fenstern oder geöffneten Schiebetüren der Blick auf einen kleinen japanischen Garten. Im Garten sind Natursteine, niedrige Sträucher, Moos und eine Steinlaterne unaufdringlich arrangiert, um die für ein Ryokan typische Tiefe zu schaffen.
+Um die Frau herum stehen ein geschwungener Rattan-Loungesessel und dezente, ungebleichte Kissen. In der Nähe befinden sich ein niedriger Holztisch und dezente Accessoires wie eine Teetasse, doch der Hintergrund bleibt ruhig und unaufgeregt, sodass auf einen Blick ersichtlich ist, dass es sich um einen friedvollen Ort der Erholung handelt.
+
+【Jahreszeit, Tageszeit & Wetter】
+Vorabend im Frühherbst oder Spätsommer. Die Tageshitze ist noch leicht spürbar, aber vom Garten her beginnt eine kühle Brise hereinzuwehen. Der Himmel wechselt von heiter zu dämmerig; kein grelles, direktes Sonnenlicht, sondern ein sanftes, leicht bläuliches Naturlicht dringt vom Garten aus in den Raum.
+Der Kontrast zwischen der im Körper verbliebenen Wärme nach dem Bad und der kühlen Abendluft wird spürbar. Ruhiges Wetter ohne Regen oder starken Wind, bei dem sich die Blätter im Garten kaum merklich wiegen.
+
+【Charakterbeschreibung】
+Eine 27-jährige, eindeutig erwachsene Japanerin. Sanfte, ebenmäßige Gesichtszüge, relativ große dunkle Augen, natürliche Brauen, ein eleganter Nasenrücken und weiche Lippen mit natürlicher Frische. Schulterlanges, dunkelbraunes Haar, das nach dem Baden locker und unaufwendig hochgesteckt ist, mit feinen Strähnen um das Gesicht. Helle Haut mit Ockerton und realistischer Textur, auf der Poren und feine Schattennuancen erkennbar sind.
+Eine zierliche Statur an Schultern und Gliedmaßen, eine schmale Taille und harmonische weibliche Rundungen ergeben eine natürlich kurvige Figur. Der Busen ist spürbar groß und voll, jedoch ohne künstliche Übergroße oder starre Kugelform, mit weicher Rundung und natürlicher Dreidimensionalität, die der Sitzhaltung und der Schwerkraft folgt. Hüfte und Beine weisen gesunde, zum Gesamtkörper passende Proportionen auf.
+
+【Kleidung & Accessoires】
+Elegante Loungewear bestehend aus einem Rüschen-Spitzencamisol in Salbeigrün und einer passenden, locker fallenden langen Hose. Das Camisol besteht aus weichem, blickdichtem Stoff mit feinen Rüschenspitzen an Ausschnitt und Schultern. Der Ausschnitt ist realistisch geschnitten und verarbeitet, umspielt die üppige Brust angenehm, ohne den Stoff übermäßig zu dehnen oder unangenehm einzuschneiden, und sitzt ganz natürlich.
+Die Hose ist aus leichtem, fließendem Stoff mit entspannter Silhouette, die die Beinkonturen nicht zu stark betont. Accessoires sind auf ein Minimum beschränkt, maximal dezente Ohrstecker. Keine auffälligen Verzierungen oder starken Glanzeffekte, die der entspannten Atmosphäre nach dem Bad widersprechen würden.
+
+【Pose, Haltung & Blick】
+Die Frau sitzt tief im Rattansessel und lehnt Rücken und Schultern entspannt an das Kissen an. Der Oberkörper ist der Kamera fast frontal bis leicht schräg zugewandt, ab der Hüfte abwärts vollkommen entspannt. Beide Beine sind mit geschlossenen Knien schräg nach vorne gestreckt, die Fußspitzen zeigen natürlich in dieselbe Richtung.
+Eine Hand ruht seitlich am Knie und hält locker einen runden Uchiwa-Fächer am Griff. Die andere Hand liegt ungezwungen auf dem Oberschenkel oder der Armlehne. Der Kopf ist leicht zur Seite geneigt, der Blick geht knapp an der Kamera vorbei, als blicke sie zu ihrem neben ihr sitzenden Partner. Ohne unnatürliche Körperverdrehungen ruht ihr Gewicht stabil im Sessel.
+
+【Mimik & Emotion】
+Ein leicht schläfriger, gelöster Gesichtsausdruck von jemandem, der sich nach dem heißen Bad endlich ausruhen kann. Die Lider sind nicht ganz geschlossen, die Augen leicht verengt mit sanftem Blick. Brauen und Wangenmuskeln sind vollkommen entspannt, die Lippen locker geschlossen ohne Anspannung.
+Da sie sich der Anwesenheit ihres Partners bewusst ist, ist der Ausdruck nicht völlig neutral, sondern bewahrt eine feine, zarte Weichheit um die Mundwinkel. Kein aufgesetztes Lachen oder breites Lächeln, sondern eine ruhige Vertrautheit und Geborgenheit, als würde sie gleich sagen: „Hier ist es herrlich entspannend.“
+
+【Bildaufbau & Kamera】
+Vertikale 4:5-Komposition für X-Posts. Eine Ganzkörperaufnahme im Sitzen vom Scheitel bis zu den geschlossenen Fußspitzen, so weit aufgezogen, dass der gesamte Sessel und ein Teil des Gartens sichtbar sind. Die Person ist leicht außermittig platziert, wodurch auf der anderen Seite Raum für Garten und traditionelles japanisches Interieur bleibt.
+Kamerahöhe auf Brust- bis Hüfthöhe der sitzenden Person, ohne extreme Vogel- oder Froschperspektiven. Natürlicher Bildwinkel eines Standard- bis leichten Teleobjektivs (ca. 50–70 mm), der Körperproportionen und Füße nicht unnatürlich verzerrt. Der Hintergrund ist sanft unscharf, behält jedoch genügend Schärfentiefe, um typische Ryokan-Elemente wie Garten, Shoji und Holz zu erkennen.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Hauptlichtquelle ist das sanfte Abendlicht aus dem Garten. Es beleuchtet dezent eine Seite von Gesicht, Schultern und Kleidung, während auf der anderen Seite die warme, indirekte Innenbeleuchtung als Aufhelllicht dient. Das leicht bläuliche Naturlicht und der warme Bernsteinton der Innenbeleuchtung vermischen sich zu einem angenehmen, für die Dämmerung typischen Farbtemperaturkontrast.
+Die Haut zeigt feine Schatten und natürliche Frische; im Haar spiegeln sich Strähnenverlauf und der Glanz einzelner Härchen wider. Der salbeigrüne Stoff weist weiche Falten und fließenden Fall auf, die Spitze feine Faserstrukturen und der Rattansessel das Geflecht und die trockene Haptik des Naturmaterials. Holz, Washi-Papier, Steine und Pflanzen behalten ihre jeweiligen Texturen bei und vereinen das Bild in einer ruhigen, sanften Abendstimmung.
+
+【Qualität & Ausschlusskriterien】
+Fotorealistische Darstellung in hoher Auflösung. Priorität auf natürliche menschliche Anatomie, Lichtführung, Materialität und Perspektive wie bei einer echten Kameraaufnahme.
+Keine minderjährig wirkenden Personen, zu kindlichen Gesichter, unnatürlichen Körperteile, überzähligen Gliedmaßen oder Finger, fehlenden oder verschmolzenen Finger, fehlerhaften Gelenke, vertauschten Hände, zerrissenen Kleidungsstücke, Verschmelzungen von Körper und Kleidung, unbeabsichtigte Nacktheit, extreme Weitwinkelverzerrungen oder übertriebene Hautglättung. Der Busen soll ein volles, natürliches Volumen behalten, ohne harte Kugelform, unnatürliches Hochdrücken, gigantische Ausmaße oder der Schwerkraft trotzende Haltung. Kein Text, keine Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
