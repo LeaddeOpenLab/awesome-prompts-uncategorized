@@ -7571,13 +7571,13 @@ Bouts des seins entièrement dissimulés par le drap ou le bras. Parties génita
 
 <a name="prompt-2101295448661303530"></a>
 
-### Traduction en cours
+### Générer une affiche 3:4 divisée en deux parties égales à partir de la photo fournie : la moitié supérieure affine l'image originale, la moitié inférieure la réinterprète en art du papier découpé en couches, intégrant une mise en page soignée digne d'un magazine.
 
 Auteur：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Publication originale](https://x.com/SadiaMalik182/status/2101295448661303530)
 
 Affiche / Flyer · Texte / Typographie · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Générer une affiche 3:4 divisée en deux parties égales à partir de la photo fournie : la moitié supérieure affine l'image originale, la moitié inférieure la réinterprète en art du papier découpé en couches, intégrant une mise en page soignée digne d'un magazine.
 
 <img src="images/2101295448661303530-1.jpg" alt="Image 1" width="480" />
 
@@ -7590,7 +7590,48 @@ Affiche / Flyer · Texte / Typographie · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche de style éditorial indépendante pour chaque photo téléversée. Ne réalisez pas de collage. Traitez et produisez chaque photo séparément.
+
+Utilisez une composition verticale stricte de 3:4, divisée horizontalement en deux sections exactement égales, chacune occupant 50 % de la toile.
+
+MOITIÉ SUPÉRIEURE — PHOTOGRAPHIE ORIGINALE
+Conservez la photo originale. Gardez le sujet principal inchangé tout en préservant sa texture réaliste, son éclairage naturel et son ambiance chromatique d'origine. Appliquez uniquement une subtile correction colorimétrique de qualité éditoriale pour créer l'élégance raffinée d'un magazine d'art, d'une publication indépendante ou d'une photographie d'exposition.
+
+Pour adapter la composition, vous pouvez étendre délicatement le ciel, le sol ou l'arrière-plan de l'environnement, mais n'étirez pas, ne déformez pas et ne modifiez pas le sujet principal.
+
+MOITIÉ INFÉRIEURE — RÉINTERPRÉTATION EN PAPIER DÉCOUPÉ PAR COUCHES / ART DU PAPIER
+Réinterprétez le sujet, la silhouette, la pose et les relations spatiales les plus reconnaissables de la photo sous la forme d'une composition minimaliste en papier découpé par couches / art du papier.
+
+Utilisez un sujet principal comme ancrage visuel. Ne reproduisez pas mécaniquement chaque détail. Reconstruisez plutôt la silhouette clé, les proportions et la structure par pliage, découpage, superposition et emboîtement.
+
+Ne transformez que quelques éléments environnementaux d'accompagnement en couches de papier de premier plan, de plan intermédiaire et d'arrière-plan. Utilisez le contraste d'échelle, l'espace négatif, un alignement net et la superposition d'avant en arrière pour rendre le sujet immédiatement reconnaissable tout en maintenant une composition éditoriale sobre.
+
+COULEUR ET MATÉRIAU
+Extrayez les couleurs les plus distinctives et reconnaissables de la photo d'origine, puis réduisez-les en une palette d'art papier limitée et harmonieuse.
+
+Utilisez du papier ivoire chaud ou de couleur claire comme base, soutenu par une petite quantité de couleurs d'accentuation plus intenses, des tons structurels plus foncés, de douces couleurs de transition et des rehauts très limités.
+
+Le matériau doit évoquer un papier cartonné mat de haute qualité, avec des fibres de papier subtilement visibles, des bords découpés avec netteté et de douces ombres portées sous un éclairage naturel diffus. Mettez l'accent sur la qualité tactile d'un véritable art du papier artisanal.
+
+Évitez les effets 3D d'aspect plastique brillant, l'esthétique de papier kraft bon marché, les couleurs néon et les dégradés trop saturés ou complexes.
+
+SYSTÈME DE TYPOGRAPHIE ÉDITORIALE
+Ajoutez un système de typographie éditoriale raffiné. En vous basant sur l'identité, le lieu, l'action, le matériau, l'émotion ou la signification symbolique du sujet, créez un court titre principal.
+
+Ajoutez 2 à 4 groupes de texte secondaire plus petit. Ceux-ci peuvent inclure des noms d'objets, des informations de lieu, des chiffres, des repères de séquence, des chiffres de type coordonnées, des termes de direction, des termes d'état, des descriptions de matériaux, des étiquettes de classification ou une très courte phrase poétique.
+
+N'utilisez aucune année ni aucune date.
+
+Le titre principal doit exprimer de l'émotion et de l'identité, tandis que le texte plus petit doit apporter du rythme, de la structure et du raffinement.
+
+INTÉGRATION TYPOGRAPHIQUE
+Intégrez la typographie naturellement dans la composition afin qu'elle interagisse avec les formes découpées dans le papier. Disposez le texte le long des bords des couches de papier, des contours du sujet, des axes géométriques ou des zones d'espace négatif.
+
+Utilisez une composition horizontale ou verticale, du texte orienté, un interlettrage généreux, un alignement sur les bords, un placement dans les coins, des mises en page transversales, une typographie incrustée ou du texte partiellement superposé.
+
+Le titre principal peut présenter une subtile texture de papier découpé ou plié, tandis que le texte secondaire doit rester fin, moderne, sobre et précis.
+
+Le résultat final doit paraître élégant, tactile, équilibré, avec une direction artistique affirmée et un caractère distinctement éditorial.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -7621,20 +7662,20 @@ Imagine un burger grok
 
 <a name="prompt-2101298207745540237"></a>
 
-### Traduction en cours
+### Prompt de génération de burger Grok
 
 Auteur：[@VanessaJoeiy](https://x.com/VanessaJoeiy) · [Publication originale](https://x.com/VanessaJoeiy/status/2101298207745540237)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération de burger Grok
 
 <img src="images/2101298207745540237-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Imagine un burger Grok
 ```
 
 [↑ Retour aux catégories](#catalog)

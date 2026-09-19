@@ -7571,13 +7571,13 @@ Brustwarzen vollständig durch Laken oder Arm bedeckt. Genitalien vollständig d
 
 <a name="prompt-2101295448661303530"></a>
 
-### Übersetzung läuft
+### Basierend auf dem eingegebenen Foto wird ein horizontal geteiltes 3:4-Poster erstellt: Die obere Hälfte zeigt das fein abgestimmte Originalbild, die untere Hälfte eine ebenenreiche Scherenschnitt-Nachbildung, ergänzt durch edles Magazin-Layout.
 
 Autor：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Originalbeitrag](https://x.com/SadiaMalik182/status/2101295448661303530)
 
 Plakat / Flyer · Text / Typografie · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Basierend auf dem eingegebenen Foto wird ein horizontal geteiltes 3:4-Poster erstellt: Die obere Hälfte zeigt das fein abgestimmte Originalbild, die untere Hälfte eine ebenenreiche Scherenschnitt-Nachbildung, ergänzt durch edles Magazin-Layout.
 
 <img src="images/2101295448661303530-1.jpg" alt="Bild 1" width="480" />
 
@@ -7590,7 +7590,48 @@ Plakat / Flyer · Text / Typografie · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle für jedes hochgeladene Foto ein eigenständiges Poster im Editorial-Stil. Erstelle keine Collage. Verarbeite und gib jedes Foto separat aus.
+
+Verwende eine strikte vertikale 3:4-Komposition, die horizontal in zwei exakt gleiche Abschnitte unterteilt ist, von denen jeder 50 % der Leinwand einnimmt.
+
+OBERE HÄLFTE — ORIGINALFOTOGRAFIE
+Bewahre das Originalfoto. Behalte das Hauptmotiv unverändert bei und bewahre seine realistische Textur, sein natürliches Licht und seine ursprüngliche Farbstimmung. Wende nur eine dezente Farbkorrektur auf redaktionellem Niveau an, um das edle Flair eines Kunstmagazins, einer unabhängigen Publikation oder einer Ausstellungsfotografie zu erzeugen.
+
+Um die Komposition auszufüllen, darfst du den Himmel, den Boden oder den umgebenden Hintergrund sanft erweitern, aber das Hauptmotiv nicht dehnen, verzerren oder verändern.
+
+UNTERE HÄLFTE — SCHICHTWEISE SCHERENSCHNITT- / PAPIERKUNST-REINTERPRETATION
+Reinterpretiere das am besten wiedererkennbare Motiv, die Silhouette, die Pose und die räumlichen Beziehungen aus dem Foto als minimalistische, geschichtete Scherenschnitt- / Papierkunst-Komposition.
+
+Verwende ein primäres Motiv als visuellen Anker. Reproduziere nicht jedes Detail mechanisch. Rekonstruiere stattdessen die wesentliche Silhouette, die Proportionen und die Struktur durch Falten, Schneiden, Schichten und Überlappen.
+
+Verwandle nur wenige unterstützende Umgebungselemente in Vordergrund-, Mittelgrund- und Hintergrund-Papierebenen. Nutze Größenkontraste, Negativraum, klare Ausrichtung und eine Schichtung von vorn nach hinten, um das Motiv sofort erkennbar zu machen und gleichzeitig eine zurückhaltende redaktionelle Komposition beizubehalten.
+
+FARBE & MATERIAL
+Extrahiere die markantesten und am besten wiedererkennbaren Farben aus dem Originalfoto und reduziere sie auf eine begrenzte und harmonische Papierkunst-Palette.
+
+Verwende warmes Elfenbein oder helles Papier als Basis, unterstützt durch eine kleine Menge kräftigerer Akzentfarben, dunklere Strukturtöne, sanfte Übergangsschichtfarben und sehr sparsam eingesetzte Glanzlichter.
+
+Das Material sollte hochwertigem mattem Karton ähneln, mit dezent sichtbaren Papierfasern, sauberen Schnittkanten und weichen Kontaktschatten unter natürlichem, diffusem Licht. Betone die haptische Qualität echter handgefertigter Papierkunst.
+
+Vermeide glänzende, plastikartige 3D-Effekte, billige Bastelpapier-Ästhetik, Neonfarben und übermäßig gesättigte oder komplexe Verläufe.
+
+EDITORIAL-TYPOGRAFIE-SYSTEM
+Füge ein feines redaktionelles Typografiesystem hinzu. Erstelle basierend auf der Identität, dem Ort, der Handlung, dem Material, der Emotion oder der symbolischen Bedeutung des Motivs einen kurzen Haupttitel.
+
+Füge 2–4 Gruppen kleineren Begleittextes hinzu. Dazu können Objektnamen, Ortsangaben, Zahlen, Sequenzmarker, koordinatenähnliche Zahlen, Richtungswörter, Statuswörter, Materialbeschreibungen, Klassifizierungsetiketten oder eine sehr kurze poetische Phrase gehören.
+
+Verwende weder ein Jahr noch ein Datum.
+
+Der Haupttitel sollte Emotion und Identität vermitteln, während der kleinere Text Rhythmus, Struktur und Raffinesse beisteuern sollte.
+
+TYPOGRAFISCHE INTEGRATION
+Integriere die Typografie natürlich in die Komposition, sodass sie mit den Scherenschnittformen interagiert. Ordne Text entlang von Papierkanten, Motivkonturen, geometrischen Achsen oder Bereichen mit Negativraum an.
+
+Verwende horizontalen oder vertikalen Schriftsatz, gedrehten Text, großzügigen Zeichenabstand, Kantenausrichtung, Eckenplatzierung, Querschnittslayouts, eingebettete Typografie oder teilweise überlappenden Text.
+
+Der Haupttitel darf eine dezente Scherenschnitt- oder Faltpapier-Qualität aufweisen, während der unterstützende Text dünn, modern, zurückhaltend und präzise bleiben sollte.
+
+Das Endergebnis sollte elegant, haptisch, ausgewogen, kunstvoll inszeniert und deutlich redaktionell wirken.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -7621,20 +7662,20 @@ Stelle dir einen Grok-Burger vor
 
 <a name="prompt-2101298207745540237"></a>
 
-### Übersetzung läuft
+### Prompt zur Generierung eines Grok-Burgers
 
 Autor：[@VanessaJoeiy](https://x.com/VanessaJoeiy) · [Originalbeitrag](https://x.com/VanessaJoeiy/status/2101298207745540237)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Generierung eines Grok-Burgers
 
 <img src="images/2101298207745540237-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Stelle dir einen Grok-Burger vor
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

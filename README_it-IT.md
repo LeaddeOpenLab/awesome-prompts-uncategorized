@@ -7571,13 +7571,13 @@ Capezzoli completamente coperti dal lenzuolo o dal braccio. Genitali completamen
 
 <a name="prompt-2101295448661303530"></a>
 
-### Traduzione in corso
+### Genera un poster 3:4 diviso a metà orizzontalmente basato sulla foto caricata: la parte superiore è l'immagine originale ritoccata con cura, la parte inferiore è una reinterpretazione artistica in carta ritagliata a strati, arricchita da una raffinata impaginazione editoriale.
 
 Autore：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Post originale](https://x.com/SadiaMalik182/status/2101295448661303530)
 
 Poster / Volantino · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Genera un poster 3:4 diviso a metà orizzontalmente basato sulla foto caricata: la parte superiore è l'immagine originale ritoccata con cura, la parte inferiore è una reinterpretazione artistica in carta ritagliata a strati, arricchita da una raffinata impaginazione editoriale.
 
 <img src="images/2101295448661303530-1.jpg" alt="Immagine 1" width="480" />
 
@@ -7590,7 +7590,48 @@ Poster / Volantino · Testo / Tipografia · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster indipendente in stile editoriale per ogni foto caricata. Non fare un collage. Elabora e genera ogni foto separatamente.
+
+Utilizza una rigorosa composizione verticale 3:4, divisa orizzontalmente in due sezioni esattamente uguali, ciascuna delle quali occupa il 50% della tela.
+
+METÀ SUPERIORE — FOTOGRAFIA ORIGINALE
+Conserva la foto originale. Mantieni il soggetto principale inalterato preservandone la texture realistica, l'illuminazione naturale e l'atmosfera cromatica originale. Applica solo una sottile correzione del colore di livello editoriale per creare l'aspetto raffinato di una rivista d'arte, di una pubblicazione indipendente o di una fotografia da esposizione.
+
+Per adattare la composizione, puoi estendere delicatamente il cielo, il terreno o lo sfondo ambientale circostante, ma non allungare, distorcere o alterare il soggetto principale.
+
+METÀ INFERIORE — REINTERPRETAZIONE IN CARTA RITAGLIATA A STRATI / PAPER ART
+Reinterpreta il soggetto, la silhouette, la posa e le relazioni spaziali più riconoscibili della foto come una composizione minimalista in paper art / carta ritagliata a strati.
+
+Utilizza un soggetto primario come punto focale visivo. Non riprodurre meccanicamente ogni dettaglio. Ricostruisci invece la silhouette chiave, le proporzioni e la struttura mediante piegature, tagli, sovrapposizioni e stratificazioni.
+
+Trasforma solo pochi elementi ambientali di supporto in strati di carta di primo piano, piano intermedio e sfondo. Usa il contrasto di scala, lo spazio negativo, un allineamento pulito e la stratificazione dal fronte al retro per rendere il soggetto immediatamente riconoscibile, mantenendo al contempo una composizione editoriale misurata.
+
+COLORE E MATERIALE
+Estrai i colori più distintivi e riconoscibili dalla foto originale, quindi riducili in una tavolozza di paper art limitata e armoniosa.
+
+Usa carta avorio calda o di colore chiaro come base, supportata da una piccola quantità di colori d'accento più intensi, tonalità strutturali più scure, morbidi colori per gli strati di transizione e punti luce molto limitati.
+
+Il materiale dovrebbe ricordare un cartoncino opaco di alta qualità, con fibre di carta leggermente visibili, bordi di taglio netti e morbide ombre di contatto sotto un'illuminazione naturale diffusa. Enfatizza la qualità tattile della vera arte cartacea artigianale.
+
+Evita effetti 3D plastici e lucidi, l'estetica della carta da pacchi economica, colori al neon e sfumature eccessivamente sature o complesse.
+
+SISTEMA DI TIPOGRAFIA EDITORIALE
+Aggiungi un raffinato sistema di tipografia editoriale. In base all'identità, alla posizione, all'azione, al materiale, all'emozione o al significato simbolico del soggetto, crea un breve titolo principale.
+
+Aggiungi da 2 a 4 gruppi di testo secondario più piccolo. Questi possono includere nomi di oggetti, informazioni sulla posizione, numeri, indicatori di sequenza, numeri simili a coordinate, parole di direzione, parole di stato, descrizioni di materiali, etichette di classificazione o una brevissima frase poetica.
+
+Non utilizzare alcun anno o data.
+
+Il titolo principale deve trasmettere emozione e identità, mentre il testo più piccolo deve aggiungere ritmo, struttura e raffinatezza.
+
+INTEGRAZIONE DELLA TIPOGRAFIA
+Integra la tipografia in modo naturale nella composizione affinché interagisca con le forme ritagliate nella carta. Disponi il testo lungo i bordi degli strati di carta, i contorni del soggetto, gli assi geometrici o le aree di spazio negativo.
+
+Utilizza impaginazione orizzontale o verticale, testo ruotato, generosa spaziatura tra le lettere, allineamento ai bordi, posizionamento negli angoli, layout a sezione trasversale, tipografia incastonata o testo parzialmente sovrapposto.
+
+Il titolo principale può presentare una sottile qualità di carta ritagliata o piegata, mentre il testo di supporto deve rimanere sottile, moderno, sobrio e preciso.
+
+Il risultato finale deve apparire elegante, tattile, equilibrato, con una direzione artistica curata e marcatamente editoriale.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7621,20 +7662,20 @@ Immagina un hamburger grok
 
 <a name="prompt-2101298207745540237"></a>
 
-### Traduzione in corso
+### Prompt per la generazione di un burger Grok
 
 Autore：[@VanessaJoeiy](https://x.com/VanessaJoeiy) · [Post originale](https://x.com/VanessaJoeiy/status/2101298207745540237)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per la generazione di un burger Grok
 
 <img src="images/2101298207745540237-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Immagina un burger Grok
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -7592,13 +7592,13 @@ Mamilos totalmente cobertos pelo lençol ou pelo braço. Genitais totalmente cob
 
 <a name="prompt-2101295448661303530"></a>
 
-### Tradução em andamento
+### Gere um pôster 3:4 dividido horizontalmente em partes iguais com base na foto enviada: a metade superior com a foto original sutilmente ajustada e a metade inferior com uma reinterpretação em arte de recorte de papel em camadas, combinada com uma tipografia de revista refinada.
 
 Autor：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Publicação original](https://x.com/SadiaMalik182/status/2101295448661303530)
 
 Pôster / Flyer · Texto / Tipografia · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Gere um pôster 3:4 dividido horizontalmente em partes iguais com base na foto enviada: a metade superior com a foto original sutilmente ajustada e a metade inferior com uma reinterpretação em arte de recorte de papel em camadas, combinada com uma tipografia de revista refinada.
 
 <img src="images/2101295448661303530-1.jpg" alt="Imagem 1" width="480" />
 
@@ -7611,7 +7611,48 @@ Pôster / Flyer · Texto / Tipografia · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um pôster independente em estilo editorial para cada foto enviada. Não faça uma colagem. Processe e produza cada foto separadamente.
+
+Use uma composição vertical rigorosa de 3:4, dividida horizontalmente em duas seções exatamente iguais, cada uma ocupando 50% da tela.
+
+METADE SUPERIOR — FOTOGRAFIA ORIGINAL
+Preserve a foto original. Mantenha o assunto principal inalterado, retendo sua textura realista, iluminação natural e atmosfera de cores originais. Aplique apenas uma correção de cor sutil de nível editorial para criar a sensação refinada de uma revista de arte, publicação independente ou fotografia de exposição.
+
+Para ajustar à composição, você pode estender suavemente o céu, o chão ou o fundo do ambiente ao redor, mas não estique, distorça ou altere o assunto principal.
+
+METADE INFERIOR — REINTERPRETAÇÃO EM CORTE DE PAPEL EM CAMADAS / ARTE EM PAPEL
+Reinterprete o assunto mais reconhecível, a silhueta, a pose e as relações espaciais da foto como uma composição minimalista em corte de papel / arte em papel em camadas.
+
+Use um assunto principal como âncora visual. Não reproduza mecanicamente cada detalhe. Em vez disso, reconstrua a silhueta principal, as proporções e a estrutura por meio de dobras, cortes, camadas e sobreposições.
+
+Transforme apenas alguns elementos ambientais de apoio em camadas de papel de primeiro plano, plano médio e fundo. Use contraste de escala, espaço negativo, alinhamento limpo e camadas de frente para trás para tornar o assunto imediatamente reconhecível, mantendo uma composição editorial comedida.
+
+COR E MATERIAL
+Extraia as cores mais distintas e reconhecíveis da foto original e, em seguida, reduza-as a uma paleta limitada e harmoniosa de arte em papel.
+
+Use papel marfim quente ou de cor clara como base, apoiado por uma pequena quantidade de cores de destaque mais fortes, tons estruturais mais escuros, cores suaves de camadas de transição e realces muito limitados.
+
+O material deve se assemelhar a cartolina fosca de alta qualidade, com fibras de papel sutis e visíveis, bordas de corte limpas e sombras de contato suaves sob iluminação difusa natural. Enfatize a qualidade tátil da verdadeira arte em papel feita à mão.
+
+Evite efeitos 3D plásticos e brilhantes, estética de papel artesanal barato, cores neon e gradientes excessivamente saturados ou complexos.
+
+SISTEMA DE TIPOGRAFIA EDITORIAL
+Adicione um sistema de tipografia editorial refinado. Com base na identidade, localização, ação, material, emoção ou significado simbólico do assunto, crie um título principal curto.
+
+Adicione de 2 a 4 grupos de textos de apoio menores. Estes podem incluir nomes de objetos, informações de localização, números, marcadores de sequência, números semelhantes a coordenadas, palavras de direção, palavras de status, descrições de materiais, etiquetas de classificação ou uma frase poética muito curta.
+
+Não use nenhum ano ou data.
+
+O título principal deve transmitir emoção e identidade, enquanto o texto menor deve adicionar ritmo, estrutura e refinamento.
+
+INTEGRAÇÃO DA TIPOGRAFIA
+Integre a tipografia naturalmente à composição para que ela interaja com as formas recortadas em papel. Organize o texto ao longo das bordas das camadas de papel, contornos do assunto, eixos geométricos ou áreas de espaço negativo.
+
+Use diagramação horizontal ou vertical, texto rotacionado, espaçamento entre letras generoso, alinhamento de bordas, posicionamento nos cantos, layouts de corte transversal, tipografia incorporada ou texto parcialmente sobreposto.
+
+O título principal pode ter uma qualidade sutil de papel recortado ou dobrado, enquanto o texto de apoio deve permanecer fino, moderno, contido e preciso.
+
+O resultado final deve parecer elegante, tátil, equilibrado, com direção de arte e distintamente editorial.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -7642,20 +7683,20 @@ Imagine um hambúrguer grok
 
 <a name="prompt-2101298207745540237"></a>
 
-### Tradução em andamento
+### Prompt de geração de hambúrguer Grok
 
 Autor：[@VanessaJoeiy](https://x.com/VanessaJoeiy) · [Publicação original](https://x.com/VanessaJoeiy/status/2101298207745540237)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de geração de hambúrguer Grok
 
 <img src="images/2101298207745540237-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Imagine um hambúrguer Grok
 ```
 
 [↑ Voltar às categorias](#catalog)

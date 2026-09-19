@@ -7619,13 +7619,13 @@ Pezones completamente cubiertos por la sábana o el brazo. Genitales completamen
 
 <a name="prompt-2101295448661303530"></a>
 
-### Traducción en curso
+### Genera un póster de 3:4 dividido equitativamente arriba y abajo a partir de la foto ingresada: la mitad superior es la foto original ligeramente ajustada, la mitad inferior es una reinterpretación de arte en papel cortado por capas, integrada con una exquisita tipografía de revista.
 
 Autor：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Publicación original](https://x.com/SadiaMalik182/status/2101295448661303530)
 
 Póster / Folleto · Texto / Tipografía · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Genera un póster de 3:4 dividido equitativamente arriba y abajo a partir de la foto ingresada: la mitad superior es la foto original ligeramente ajustada, la mitad inferior es una reinterpretación de arte en papel cortado por capas, integrada con una exquisita tipografía de revista.
 
 <img src="images/2101295448661303530-1.jpg" alt="Imagen 1" width="480" />
 
@@ -7638,7 +7638,48 @@ Póster / Folleto · Texto / Tipografía · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un póster independiente de estilo editorial para cada foto subida. No hagas un collage. Procesa y genera cada foto por separado.
+
+Utiliza una composición vertical estricta de 3:4, dividida horizontalmente en dos secciones exactamente iguales, cada una ocupando el 50% del lienzo.
+
+MITAD SUPERIOR — FOTOGRAFÍA ORIGINAL
+Conserva la foto original. Mantén el sujeto principal sin cambios conservando su textura realista, iluminación natural y atmósfera de color original. Aplica únicamente una sutil corrección de color de nivel editorial para crear la sensación refinada de una revista de arte, publicación independiente o fotografía de exposición.
+
+Para ajustarse a la composición, puedes extender suavemente el cielo, el suelo o el fondo del entorno circundante, pero no estires, distorsiones ni alteres el sujeto principal.
+
+MITAD INFERIOR — REINTERPRETACIÓN EN ARTE DE PAPEL / PAPEL CORTADO EN CAPAS
+Reinterpreta el sujeto, la silueta, la pose y las relaciones espaciales más reconocibles de la foto como una composición minimalista de papel cortado / arte en papel por capas.
+
+Utiliza un único sujeto principal como ancla visual. No reproduzcas mecánicamente cada detalle. En su lugar, reconstruye la silueta clave, las proporciones y la estructura mediante plegado, corte, capas y superposiciones.
+
+Transforma solo unos pocos elementos ambientales de apoyo en capas de papel de primer plano, término medio y fondo. Utiliza el contraste de escala, el espacio negativo, una alineación limpia y la superposición de adelante hacia atrás para que el sujeto sea inmediatamente reconocible manteniendo una composición editorial comedida.
+
+COLOR Y MATERIAL
+Extrae los colores más distintivos y reconocibles de la foto original y luego redúcelos a una paleta de arte en papel limitada y armoniosa.
+
+Utiliza papel de color marfil cálido o claro como base, respaldado por una pequeña cantidad de colores de acento más fuertes, tonos estructurales más oscuros, colores suaves de capas de transición y reflejos muy limitados.
+
+El material debe parecerse a una cartulina mate de alta calidad, con fibras de papel sutilmente visibles, bordes de corte limpios y sombras de contacto suaves bajo una iluminación natural difusa. Enfatiza la calidad táctil del auténtico arte en papel hecho a mano.
+
+Evita los efectos 3D de plástico brillante, la estética de papel artesanal barato, los colores neón y los degradados excesivamente saturados o complejos.
+
+SISTEMA DE TIPOGRAFÍA EDITORIAL
+Añade un sistema de tipografía editorial refinado. Basándote en la identidad, ubicación, acción, material, emoción o significado simbólico del sujeto, crea un título principal corto.
+
+Añade de 2 a 4 grupos de texto secundario más pequeño. Estos pueden incluir nombres de objetos, información de ubicación, números, marcadores de secuencia, números tipo coordenadas, palabras de dirección, palabras de estado, descripciones de materiales, etiquetas de clasificación o una frase poética muy corta.
+
+No utilices ningún año ni fecha.
+
+El título principal debe transmitir emoción e identidad, mientras que el texto más pequeño debe aportar ritmo, estructura y refinamiento.
+
+INTEGRACIÓN TIPOGRÁFICA
+Integra la tipografía de forma natural en la composición para que interactúe con las formas de papel cortado. Organiza el texto a lo largo de los bordes de las capas de papel, los contornos del sujeto, los ejes geométricos o las áreas de espacio negativo.
+
+Utiliza tipografía horizontal o vertical, texto rotado, espaciado entre letras generoso, alineación de bordes, colocación en esquinas, diseños de sección transversal, tipografía incrustada o texto parcialmente superpuesto.
+
+El título principal puede tener una sutil cualidad de papel cortado o doblado, mientras que el texto de apoyo debe seguir siendo fino, moderno, sobrio y preciso.
+
+El resultado final debe sentirse elegante, táctil, equilibrado, con dirección de arte y claramente editorial.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -7669,20 +7710,20 @@ Imagina una hamburguesa grok
 
 <a name="prompt-2101298207745540237"></a>
 
-### Traducción en curso
+### Prompt de generación de hamburguesa Grok
 
 Autor：[@VanessaJoeiy](https://x.com/VanessaJoeiy) · [Publicación original](https://x.com/VanessaJoeiy/status/2101298207745540237)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación de hamburguesa Grok
 
 <img src="images/2101298207745540237-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Imagina una hamburguesa Grok
 ```
 
 [↑ Volver a categorías](#catalog)

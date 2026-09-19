@@ -7592,13 +7592,13 @@ Göğüs uçları çarşaf veya kol ile tamamen örtülmüş. Genital bölge tan
 
 <a name="prompt-2101295448661303530"></a>
 
-### Çeviri sürüyor
+### Yüklenen fotoğrafa dayalı olarak yatayda eşit ikiye bölünmüş 3:4 oranında bir poster oluşturun: Üst yarı hafifçe ayarlanmış orijinal fotoğraf, alt yarı ise rafine dergi tipografisiyle harmanlanmış belirgin katmanlı kâğıt kesme sanatı yeniden üretimi.
 
 Yazar：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Orijinal gönderi](https://x.com/SadiaMalik182/status/2101295448661303530)
 
 Poster / El İlanı · Metin / Tipografi · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yüklenen fotoğrafa dayalı olarak yatayda eşit ikiye bölünmüş 3:4 oranında bir poster oluşturun: Üst yarı hafifçe ayarlanmış orijinal fotoğraf, alt yarı ise rafine dergi tipografisiyle harmanlanmış belirgin katmanlı kâğıt kesme sanatı yeniden üretimi.
 
 <img src="images/2101295448661303530-1.jpg" alt="Görsel 1" width="480" />
 
@@ -7611,7 +7611,48 @@ Poster / El İlanı · Metin / Tipografi · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüklenen her fotoğraf için bağımsız, editoryal tarzda bir poster oluşturun. Kolaj yapmayın. Her fotoğrafı ayrı ayrı işleyip çıktı alın.
+
+Yatay olarak tam olarak eşit iki bölüme ayrılmış, her biri tuvalin %50'sini kaplayan kesin bir 3:4 dikey kompozisyon kullanın.
+
+ÜST YARI — ORIJİNAL FOTOĞRAF
+Orijinal fotoğrafı koruyun. Ana konuyu değiştirmeden tutarken gerçekçi dokusunu, doğal aydınlatmasını ve orijinal renk atmosferini muhafaza edin. Bir sanat dergisinin, bağımsız yayının veya sergi fotoğrafçılığının rafine hissini yaratmak için yalnızca hafif, editoryal düzeyde renk düzeltmesi uygulayın.
+
+Kompozisyona uydurmak için gökyüzünü, zemini veya çevredeki ortam arka planını nazikçe genişletebilirsiniz; ancak ana konuyu uzatmayın, bozmayın veya değiştirmeyin.
+
+ALT YARI — KATMANLI KÂĞIT KESME / KÂĞIT SANATI YENİDEN YORUMU
+Fotoğraftaki en belirgin konuyu, silüeti, pozu ve uzamsal ilişkileri minimalist, katmanlı bir kâğıt kesme / kâğıt sanatı kompozisyonu olarak yeniden yorumlayın.
+
+Görsel çapa olarak birincil bir konu kullanın. Her ayrıntıyı mekanik olarak yeniden üretmeyin. Bunun yerine ana silüeti, oranları ve yapıyı katlama, kesme, katmanlama ve üst üste bindirme yoluyla yeniden inşa edin.
+
+Yalnızca birkaç destekleyici ortam unsurunu ön plan, orta plan ve arka plan kâğıt katmanlarına dönüştürün. Ölçülü bir editoryal kompozisyonu korurken konuyu anında tanınabilir kılmak için ölçek kontrastı, negatif alan, temiz hizalama ve önden arkaya katmanlama kullanın.
+
+RENK VE MALZEME
+Orijinal fotoğraftan en belirgin ve tanınabilir renkleri çıkarın, ardından bunları sınırlı ve uyumlu bir kâğıt sanatı paletine indirgeyin.
+
+Temel olarak sıcak fildişi veya açık renkli kâğıt kullanın; bunu az miktarda daha güçlü vurgu renkleri, daha koyu yapısal tonlar, yumuşak geçiş katmanı renkleri ve çok sınırlı parlak noktalarla destekleyin.
+
+Malzeme; doğal dağınık ışık altında hafifçe görünen kâğıt lifleri, temiz kesim kenarları ve yumuşak temas gölgeleri ile yüksek kaliteli mat kartona benzemelidir. Gerçek el yapımı kâğıt sanatının dokunsal kalitesini vurgulayın.
+
+Parlak plastik benzeri 3D efektlerden, ucuz el işi kâğıdı estetiğinden, neon renklerden ve aşırı doygun veya karmaşık degradelerden kaçının.
+
+EDİTORYAL TİPOGRAFİ SİSTEMİ
+Rafine bir editoryal tipografi sistemi ekleyin. Konunun kimliğine, konumuna, eylemine, malzemesine, duygusuna veya sembolik anlamına dayanarak kısa bir ana başlık oluşturun.
+
+2–4 grup daha küçük destekleyici metin ekleyin. Bunlar nesne adlarını, konum bilgilerini, sayıları, sıra işaretleyicilerini, koordinat benzeri sayıları, yön bildiren kelimeleri, durum bildiren kelimeleri, malzeme açıklamalarını, sınıflandırma etiketlerini veya çok kısa şiirsel bir ifadeyi içerebilir.
+
+Hiçbir yıl veya tarih kullanmayın.
+
+Ana başlık duygu ve kimliği aktarırken, daha küçük metinler ritim, yapı ve zarafet katmalıdır.
+
+TİPOGRAFİ ENTEGRASYONU
+Tipografiyi kompozisyona doğal bir şekilde entegre edin, böylece kâğıt kesim formlarıyla etkileşime girsin. Metni kâğıt katmanı kenarları, konu konturları, geometrik eksenler veya negatif alan bölgeleri boyunca düzenleyin.
+
+Yatay veya dikey dizgi, döndürülmüş metin, cömert harf aralığı, kenar hizalama, köşe yerleşimi, enine kesit düzenleri, gömülü tipografi veya kısmen üst üste binen metin kullanın.
+
+Ana başlık ince bir kâğıt kesiği veya katlanmış kâğıt niteliğine sahip olabilir; destekleyici metin ise ince, modern, ölçülü ve hassas kalmalıdır.
+
+Nihai sonuç zarif, dokunsal, dengeli, sanat yönetimi hissi veren ve belirgin şekilde editoryal hissettirmelidir.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -7642,20 +7683,20 @@ Bir grok burgeri hayal edin
 
 <a name="prompt-2101298207745540237"></a>
 
-### Çeviri sürüyor
+### Grok burger oluşturma istemi
 
 Yazar：[@VanessaJoeiy](https://x.com/VanessaJoeiy) · [Orijinal gönderi](https://x.com/VanessaJoeiy/status/2101298207745540237)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Grok burger oluşturma istemi
 
 <img src="images/2101298207745540237-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir Grok burgeri hayal edin
 ```
 
 [↑ Kategorilere dön](#catalog)

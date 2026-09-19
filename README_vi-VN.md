@@ -7619,13 +7619,13 @@ Khung hình biên tập (editorial) nằm ngang. Toàn thân hoặc 3/4 cơ th�
 
 <a name="prompt-2101295448661303530"></a>
 
-### Đang dịch
+### Tạo áp phích 3:4 chia đôi trên dưới dựa trên ảnh đầu vào: nửa trên là ảnh gốc được chỉnh nhẹ, nửa dưới là tái hiện nghệ thuật cắt giấy nhiều lớp, kết hợp bố cục chữ tạp chí tinh tế.
 
 Tác giả：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Bài gốc](https://x.com/SadiaMalik182/status/2101295448661303530)
 
 Áp phích / Tờ rơi · Văn bản / Kiểu chữ · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo áp phích 3:4 chia đôi trên dưới dựa trên ảnh đầu vào: nửa trên là ảnh gốc được chỉnh nhẹ, nửa dưới là tái hiện nghệ thuật cắt giấy nhiều lớp, kết hợp bố cục chữ tạp chí tinh tế.
 
 <img src="images/2101295448661303530-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -7638,7 +7638,48 @@ Tác giả：[@SadiaMalik182](https://x.com/SadiaMalik182) · [Bài gốc](https
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một áp phích phong cách biên tập độc lập cho mỗi bức ảnh được tải lên. Không ghép ảnh. Xử lý và xuất riêng từng ảnh.
+
+Sử dụng bố cục dọc tỷ lệ 3:4 nghiêm ngặt, chia theo chiều ngang thành hai phần bằng nhau chính xác, mỗi phần chiếm 50% khung vẽ.
+
+NỬA TRÊN — ẢNH GỐC
+Giữ nguyên ảnh gốc. Giữ cho chủ thể chính không thay đổi đồng thời vẫn giữ lại kết cấu chân thực, ánh sáng tự nhiên và bầu không khí màu sắc nguyên bản. Chỉ áp dụng hiệu chỉnh màu sắc tinh tế chuẩn biên tập để tạo cảm giác trang nhã của một tạp chí nghệ thuật, ấn phẩm độc lập hoặc nhiếp ảnh triển lãm.
+
+Để phù hợp với bố cục, bạn có thể nhẹ nhàng mở rộng bầu trời, mặt đất hoặc nền môi trường xung quanh, nhưng không được kéo giãn, làm biến dạng hoặc thay đổi chủ thể chính.
+
+NỬA DƯỚI — TÁI HIỆN BẰNG NGHỆ THUẬT CẮT GIẤY / TRANH GIẤY ĐA TẦNG
+Tái hiện chủ thể, bóng hình, tư thế và mối quan hệ không gian dễ nhận biết nhất từ bức ảnh dưới dạng một bố cục nghệ thuật cắt giấy / tranh giấy đa tầng tối giản.
+
+Sử dụng một chủ thể chính làm điểm neo thị giác. Không sao chép máy móc từng chi tiết. Thay vào đó, hãy tái cấu trúc bóng hình, tỷ lệ và cấu trúc then chốt thông qua việc gấp, cắt, xếp lớp và chồng lớp.
+
+Chỉ biến đổi một vài yếu tố môi trường phụ trợ thành các lớp giấy tiền cảnh, trung cảnh và hậu cảnh. Sử dụng độ tương phản tỷ lệ, không gian âm, sự căn chỉnh gọn gàng và phân lớp từ trước ra sau để làm cho chủ thể có thể nhận ra ngay lập tức trong khi vẫn duy trì bố cục biên tập tiết chế.
+
+MÀU SẮC & VẬT LIỆU
+Trích xuất các màu sắc đặc trưng và dễ nhận biết nhất từ bức ảnh gốc, sau đó tinh giảm chúng thành một bảng màu nghệ thuật giấy hài hòa và có giới hạn.
+
+Sử dụng giấy màu ngà ấm hoặc màu nhạt làm nền, được hỗ trợ bởi một lượng nhỏ các màu nhấn mạnh mẽ hơn, các tông màu cấu trúc tối hơn, các màu lớp chuyển tiếp mềm mại và các điểm sáng rất hạn chế.
+
+Vật liệu phải giống như bìa cứng mờ cao cấp, với các sợi giấy có thể nhìn thấy một cách tinh tế, các cạnh cắt gọn gàng và bóng tiếp xúc mềm mại dưới ánh sáng khuếch tán tự nhiên. Nhấn mạnh chất lượng xúc giác của nghệ thuật giấy thủ công thực sự.
+
+Tránh các hiệu ứng 3D giống như nhựa bóng, tính thẩm mỹ của giấy thủ công rẻ tiền, màu neon và các dải chuyển màu quá bão hòa hoặc phức tạp.
+
+HỆ THỐNG NGHỆ THUẬT CHỮ BIÊN TẬP
+Thêm một hệ thống nghệ thuật chữ biên tập tinh tế. Dựa trên danh tính, vị trí, hành động, vật liệu, cảm xúc hoặc ý nghĩa biểu tượng của chủ thể, hãy tạo một tiêu đề chính ngắn gọn.
+
+Thêm 2–4 nhóm văn bản phụ nhỏ hơn. Các nhóm này có thể bao gồm tên đồ vật, thông tin vị trí, số, ký hiệu thứ tự, các con số giống như tọa độ, từ ngữ chỉ hướng, từ ngữ trạng thái, mô tả vật liệu, nhãn phân loại hoặc một cụm từ thơ ca rất ngắn.
+
+Không sử dụng bất kỳ năm hoặc ngày tháng nào.
+
+Tiêu đề chính nên truyền tải cảm xúc và danh tính, trong khi văn bản nhỏ hơn nên thêm nhịp điệu, cấu trúc và sự tinh tế.
+
+TÍCH HỢP NGHỆ THUẬT CHỮ
+Tích hợp nghệ thuật chữ một cách tự nhiên vào bố cục để nó tương tác với các hình thức cắt giấy. Sắp xếp văn bản dọc theo các cạnh lớp giấy, đường viền chủ thể, các trục hình học hoặc các vùng không gian âm.
+
+Sử dụng kiểu sắp chữ theo chiều ngang hoặc chiều dọc, văn bản xoay, giãn cách chữ rộng rãi, căn lề cạnh, đặt ở góc, bố cục cắt ngang, nghệ thuật chữ nhúng hoặc văn bản chồng lên một phần.
+
+Tiêu đề chính có thể mang chất lượng cắt giấy hoặc gấp giấy tinh tế, trong khi văn bản bổ trợ nên giữ nét mảnh, hiện đại, tiết chế và chuẩn xác.
+
+Kết quả cuối cùng phải mang lại cảm giác thanh lịch, gợi cảm giác xúc giác, cân bằng, có định hướng nghệ thuật và mang đậm tính biên tập.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -7669,20 +7710,20 @@ Hãy tưởng tượng một chiếc burger grok
 
 <a name="prompt-2101298207745540237"></a>
 
-### Đang dịch
+### Lời nhắc tạo bánh burger Grok
 
 Tác giả：[@VanessaJoeiy](https://x.com/VanessaJoeiy) · [Bài gốc](https://x.com/VanessaJoeiy/status/2101298207745540237)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo bánh burger Grok
 
 <img src="images/2101298207745540237-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hãy tưởng tượng một chiếc burger Grok
 ```
 
 [↑ Về danh mục](#catalog)
