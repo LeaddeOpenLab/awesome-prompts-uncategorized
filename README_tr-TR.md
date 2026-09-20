@@ -5711,20 +5711,20 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2101637673349988798"></a>
 
-### Çeviri sürüyor
+### Yürümeye başlayan plastik maket animasyonu.
 
 Yazar：[@SanShiroH\_X](https://x.com/SanShiroH_X) · [Orijinal gönderi](https://x.com/SanShiroH_X/status/2101637673349988798)
 
 Anime / Manga · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yürümeye başlayan plastik maket animasyonu.
 
 <img src="covers/2101637673349988798.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yürümeye başlayan model
 ```
 
 [↑ Kategorilere dön](#catalog)

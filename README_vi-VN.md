@@ -5754,20 +5754,20 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2101637673349988798"></a>
 
-### Đang dịch
+### Hoạt hình về mô hình nhựa bắt đầu bước đi.
 
 Tác giả：[@SanShiroH\_X](https://x.com/SanShiroH_X) · [Bài gốc](https://x.com/SanShiroH_X/status/2101637673349988798)
 
 Anime / Manga · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hoạt hình về mô hình nhựa bắt đầu bước đi.
 
 <img src="covers/2101637673349988798.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Mô hình bắt đầu bước đi
 ```
 
 [↑ Về danh mục](#catalog)

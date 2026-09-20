@@ -5711,20 +5711,20 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2101637673349988798"></a>
 
-### Tradução em curso
+### Animação de um modelo de plástico a começar a andar.
 
 Autor：[@SanShiroH\_X](https://x.com/SanShiroH_X) · [Publicação original](https://x.com/SanShiroH_X/status/2101637673349988798)
 
 Anime / Mangá · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Animação de um modelo de plástico a começar a andar.
 
 <img src="covers/2101637673349988798.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Modelo que começa a andar
 ```
 
 [↑ Voltar às categorias](#catalog)

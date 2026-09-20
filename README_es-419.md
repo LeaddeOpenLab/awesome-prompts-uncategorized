@@ -5706,20 +5706,20 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2101637673349988798"></a>
 
-### Traducción en curso
+### Animación de un modelo de plástico que empieza a caminar.
 
 Autor：[@SanShiroH\_X](https://x.com/SanShiroH_X) · [Publicación original](https://x.com/SanShiroH_X/status/2101637673349988798)
 
 Anime / Manga · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Animación de un modelo de plástico que empieza a caminar.
 
 <img src="covers/2101637673349988798.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Modelo a escala que empieza a caminar
 ```
 
 [↑ Volver a categorías](#catalog)

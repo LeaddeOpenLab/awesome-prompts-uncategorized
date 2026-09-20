@@ -5706,20 +5706,20 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2101637673349988798"></a>
 
-### Übersetzung läuft
+### Animation eines Plastikmodells, das zu gehen beginnt.
 
 Autor：[@SanShiroH\_X](https://x.com/SanShiroH_X) · [Originalbeitrag](https://x.com/SanShiroH_X/status/2101637673349988798)
 
 Anime / Manga · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Animation eines Plastikmodells, das zu gehen beginnt.
 
 <img src="covers/2101637673349988798.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Modell, das zu gehen beginnt
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

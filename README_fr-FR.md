@@ -5706,20 +5706,20 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2101637673349988798"></a>
 
-### Traduction en cours
+### Animation d'une maquette en plastique qui commence à marcher.
 
 Auteur：[@SanShiroH\_X](https://x.com/SanShiroH_X) · [Publication originale](https://x.com/SanShiroH_X/status/2101637673349988798)
 
 Anime / Manga · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Animation d'une maquette en plastique qui commence à marcher.
 
 <img src="covers/2101637673349988798.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Maquette qui commence à marcher
 ```
 
 [↑ Retour aux catégories](#catalog)

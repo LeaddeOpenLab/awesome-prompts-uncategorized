@@ -5754,20 +5754,20 @@ Negative prompt: modern luxury car, sports car interior, clean white leather, fo
 
 <a name="prompt-2101637673349988798"></a>
 
-### กำลังแปล
+### แอนิเมชันของพลาสติกโมเดลที่เริ่มก้าวเดิน
 
 ผู้เขียน：[@SanShiroH\_X](https://x.com/SanShiroH_X) · [โพสต์ต้นฉบับ](https://x.com/SanShiroH_X/status/2101637673349988798)
 
 อนิเมะ / มังงะ · เผยแพร่แล้ว
 
-**สรุป:** กำลังแปล
+**สรุป:** แอนิเมชันของพลาสติกโมเดลที่เริ่มก้าวเดิน
 
 <img src="covers/2101637673349988798.jpg" alt="รูปภาพ 1" width="480" />
 
 **พรอมต์**
 
 ```text
-กำลังแปล
+โมเดลที่เริ่มก้าวเดิน
 ```
 
 [↑ กลับสู่หมวดหมู่](#catalog)
