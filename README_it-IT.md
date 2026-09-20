@@ -85,20 +85,56 @@ Traduzione in corso
 
 <a name="prompt-2101438280239861785"></a>
 
-### Traduzione in corso
+### Prompt per ritratto fotorealistico di alta qualità di una donna giapponese in una stanza di ryokan nel pomeriggio, in lingerie lavanda chiaro, sorridente accanto a un tavolino mentre gusta un budino.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2101438280239861785)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto fotorealistico di alta qualità di una donna giapponese in una stanza di ryokan nel pomeriggio, in lingerie lavanda chiaro, sorridente accanto a un tavolino mentre gusta un budino.
 
 <img src="images/2101438280239861785-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Pomeriggio al ryokan｜Pizzo lavanda e la dolcezza di un budino🌟
+
+【Soggetto e stile】
+Raffigurare una donna giapponese chiaramente adulta in una stanza tradizionale (washitsu) di un ryokan nel pomeriggio, mentre sorride felicemente al partner assaporando un budino (purin). Stile fotografico fotorealistico di alta qualità, a metà tra un fotolibro d'autore e uno scatto di lifestyle naturale. Pur indossando lingerie, l'immagine non deve essere eccessivamente sensuale; il focus è esprimere intimità, dolcezza ed eleganza, come se si stesse condividendo un tranquillo pomeriggio durante un viaggio.
+
+【Luogo, sfondo e atmosfera】
+Una serena stanza washitsu in un ryokan affacciata su un giardino. Nella stanza con pavimentazione in tatami sono disposti con naturalezza un tavolino basso in legno (zataku), cuscini (zabuton), porte scorrevoli shoji e un'alcova tokonoma. Il tavolino è collocato verso il bordo dell'inquadratura per non coprire il corpo né l'abbigliamento del soggetto. Oltre lo shoji si scorgono morbidamente il verde brillante del giardino, le piante e parte di una lanterna di pietra, componendo una scena in cui la profondità si estende dall'interno verso il giardino. La coppetta di vetro con il budino, una tazza yunomi e piccoli fiori aggiungono un tocco discreto di vita quotidiana.
+
+【Stagione, orario e meteo】
+Un pomeriggio dal clima mite e sereno che evoca il passaggio dalla primavera all'inizio dell'estate. Niente luce solare diretta intensa, bensì una luce naturale chiara e morbida che si diffonde nella stanza filtrando attraverso lo shoji. Nel giardino si percepisce il sole tra le foglie, mentre l'interno mantiene una luminosità calma e rilassante. L'aria è quasi immobile, trasmettendo il tranquillo scorrere del tempo durante una sosta riposante nella camera del ryokan.
+
+【Dettagli del personaggio】
+Una donna giapponese di circa 25 anni, chiaramente adulta. Tratti del viso morbidi e armoniosi, occhi grandi e scuri, sopracciglia naturali e labbra dal colorito sano. Capelli castano scuro lunghi fino alle spalle con onde naturali e morbide ciocche che incorniciano il viso. Carnagione chiara con sottotono ocra, resa con texture realistica, sfumature delicate e una naturale luminosità cutanea.
+Fisico naturalmente procace e armonioso, con spalle e arti affusolati, vita sottile e curve femminili proporzionate. Décolleté visibilmente prosperoso e generoso, ma senza rigidità sferica o sollevamenti innaturali, con una morbida tridimensionalità che segue la posa seduta e la forza di gravità. Fianchi dolcemente arrotondati che proseguono con fluidità dalla vita.
+
+【Abbigliamento e accessori】
+Un completo intimo composto da reggiseno e slip in pizzo lavanda chiaro. Design raffinato in stile Wacoal, arricchito da ricami a piccoli fiori bianchi e lilla tenue, pizzo delicato e bordature fini. Le coppe presentano fodera e cuciture realistiche, avvolgendo naturalmente il seno prosperoso con una vestibilità perfetta, senza che il tessuto tiri o rimanga staccato dal corpo.
+Anche lo slip è coordinato nello stesso tono con pizzo e ricami floreali, seguendo con naturalezza le linee dei fianchi. Sostanzialmente priva di accessori per privilegiare l'atmosfera sobria e distesa del ryokan. A piedi nudi, senza ornamenti vistosi.
+
+【Posa, movimento e sguardo】
+La donna è seduta su uno zabuton accanto al tavolino, con il bacino stabile e le gambe piegate e adagiate morbidamente di lato. Ginocchia leggermente flesse e piedi rilassati che poggiano sul tatami. Il busto è rivolto leggermente verso la fotocamera, con la schiena dritta ma non rigida.
+Con una mano tiene la piccola coppetta di vetro con il budino poco sotto il petto, mentre con l'altra regge un cucchiaino. È colta nel momento esatto in cui, dopo aver assaggiato un boccone, sta riportando il cucchiaino verso la coppetta. Il suo sguardo è rivolto in avanti verso il partner, non solo verso il dolce, condividendo con lui quel momento di gioia.
+
+【Espressione ed emozione】
+Un sorriso naturale con gli occhi socchiusi per la delizia del budino. Sopracciglia e guance rilassate, con gli angoli della bocca dolcemente sollevati. Un'espressione affettuosa e complice, come se dicesse al compagno: «È buonissimo!». Senza risate esagerate o sorrisi finti, privilegiando la spontaneità di un'emozione autentica colta nella quotidianità.
+
+【Composizione e inquadratura】
+Composizione verticale 4:5 ideale per i post di X. Inquadratura a figura intera (full body) che racchiude comodamente il soggetto dalla cima della testa fino ai piedi scalzi. Distanza adeguata per mostrare chiaramente il corpo seduto, le gambe piegate lateralmente, i piedi e le mani con il budino. La fotocamera è posizionata all'altezza del petto o delle spalle della donna seduta, con una ripresa leggermente diagonale.
+Lunghezza focale naturale tra standard e medio teleobiettivo, evitando distorsioni grandangolari eccessive. La figura è posizionata leggermente decentrata, mostrando sull'altro lato il tavolino e il giardino per restituire il senso di ampiezza tipico della stanza tradizionale. Lo sfondo presenta una leggera sfocatura che permette comunque di distinguere chiaramente tatami, shoji e giardino.
+
+【Luce, colore, texture e atmosfera】
+La fonte di luce primaria è la luce naturale del pomeriggio che entra dalle porte shoji e dall'apertura sul giardino. Illumina morbidamente un lato del viso e del corpo, mentre il lato opposto riceve un delicato riflesso dal tatami e dal legno. Ombre dai contorni morbidi che donano una profondità naturale alla pelle e all'intimo.
+Texture dettagliata della pelle e colorito roseo naturale; ciocche di capelli ben definite con singoli fili ribelli; pizzo con ricami preziosi e consistenza del tessuto percepibile. La trama asciutta del tatami, le venature del legno del tavolo, i riflessi sul vetro e la consistenza cremosa del budino sono resi minuziosamente. Armonia tra il lavanda tenue, il beige del tatami, il verde del giardino e l'ambrato del caramello del budino, creando un'atmosfera pomeridiana serena e dolce.
+
+【Qualità ed elementi da escludere】
+Alta risoluzione con resa realistica di anatomia, materiali, illuminazione e prospettiva, come se fosse scattata da una vera macchina fotografica. Evitare soggetti dall'aspetto minorenne, volti infantili, proporzioni innaturali del corpo, arti o dita extra, dita mancanti o fuse, articolazioni anomale, inversione di mano destra e sinistra, abbigliamento difettoso o fuso con la pelle e nudità involontaria.
+Il décolleté deve mantenere un volume prosperoso e naturale, senza ingigantimenti mostruosi, forme sferiche rigide, push-up esagerati o sagome che sfidano la gravità. Evitare distorsioni grandangolari estreme, sfondi artefatti, levigatura della pelle eccessiva, sfocature esagerate, testo, loghi, watermark e icone di interfaccia.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -107,20 +143,50 @@ Traduzione in corso
 
 <a name="prompt-2101439698120155531"></a>
 
-### Traduzione in corso
+### Prompt fotorealistico che ritrae una donna giapponese in lingerie sulla spiaggia al tramonto, mentre schiva un'onda sorridendo con un ghiacciolo rosa in mano.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2101439698120155531)
 
 Fotografia · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotorealistico che ritrae una donna giapponese in lingerie sulla spiaggia al tramonto, mentre schiva un'onda sorridendo con un ghiacciolo rosa in mano.
 
 <img src="images/2101439698120155531-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟 Sulla battigia al tramonto | Ghiacciolo rosa e un radioso sorriso estivo 🌟
+
+【Tema e stile artistico】
+Rappresenta una donna giapponese chiaramente adulta su una spiaggia tranquilla al calar del sole, mentre schiva una piccola onda che avanza gustando un ghiacciolo. Una fotografia di moda fotorealistica in stile fotolibro, che cattura un momento spontaneo, come se il suo partner le avesse scattato una foto al volo durante una vacanza estiva. Più che un servizio posato di glamour, è un'espressione vicina a un'istantanea naturale che conserva il senso di libertà in riva al mare, una lieve sorpresa e una dolce intimità. Mantenendo raffinatezza e grazia, lo scatto deve far percepire non solo la persona, ma anche il mare della sera, le onde e l'atmosfera della spiaggia come un'unica narrazione.
+
+【Luogo, sfondo e atmosfera】
+La battigia di un litorale calmo e poco affollato. In primo piano, sabbia fine e asciutta; nel piano medio, piccole onde bianche che raggiungono i suoi piedi e i riflessi della sabbia bagnata; sullo sfondo, l'orizzonte e il profilo delicato di un piccolo promontorio o di scogli in lontananza. Nessun elemento artificiale evidente, privilegiando la quiete della costa naturale. Sulla sabbia umida si riflettono dolcemente i colori caldi del cielo al tramonto, lasciando lievi segni della risacca e impronte naturali. Lo sfondo presenta una sfocatura leggera per non distrarre dal soggetto, mantenendo però la profondità necessaria per riconoscere immediatamente l'ambientazione marina.
+
+【Stagione, orario e meteo】
+Un tardo pomeriggio tra piena estate e fine estate. L'ora d'oro, quando il sole inizia ad avvicinarsi all'orizzonte e la calura intensa del giorno si è attenuata. Cielo perlopiù sereno, con solo qualche velatura sottile vicino all'orizzonte. Una leggera brezza soffia dal mare, muovendo appena le punte e le ciocche libere dei capelli. Il moto ondoso è calmo e privo di asperità, creando un'atmosfera calda e leggera, tipica di una passeggiata in spiaggia a fine giornata.
+
+【Caratteristiche del personaggio】
+Donna giapponese chiaramente adulta di 23 anni. Lineamenti del viso morbidi e armoniosi, occhi scuri leggermente grandi ed espressivi, sopracciglia naturali e labbra morbide con una sana tonalità rosata. Capelli castano scuro, lunghi fino alle spalle o poco oltre, con onde naturali e alcune ciocche mosse attorno al viso dalla brezza marina. Carnagione ocra chiara che lascia trasparire la grana della pelle, ombre delicate e un naturale colorito. Spalle e arti affusolati, vita sottile armonizzata con forme femminili per una silhouette sinuosa e naturale. Il seno è chiaramente generoso e abbondante, ma con una tridimensionalità morbida che asseconda postura e gravità, in perfetto equilibrio con l'intero corpo. Fianchi dalle linee naturalmente arrotondate che proseguono armoniosamente dalla vita.
+
+【Abbigliamento e accessori】
+Completino intimo composto da reggiseno e slip rosa pallido, ispirato all'eleganza raffinata delle collezioni Wacoal. Impreziosito da minuti ricami floreali e pizzo delicato, con fodera coprente sulle coppe e sulle parti principali dello slip per evitare trasparenze sulla pelle. Taglia realistica in cui coppe e spalline sostengono comodamente il seno generoso senza stringere eccessivamente né segnare la pelle. Lo slip si adatta con naturalezza ai fianchi. Nessun accessorio vistoso; un abbigliamento estivo semplice, a piedi nudi sulla sabbia.
+
+【Posa, movimento e sguardo】
+La donna è in piedi sulla battigia, nell'attimo preciso in cui una piccola onda si avvicina ai suoi piedi dal lato del mare. Sposta il peso sulla gamba rimasta sulla sabbia asciutta, sollevando leggermente l'altra gamba all'indietro o di lato per evitare l'acqua. Vita e spalle presentano una naturale torsione tipica del movimento in corso. In una mano tiene un ghiacciolo rosa che comincia appena a sciogliersi, tenuto leggermente scostato dalla bocca dopo averne dato un morso. L'altra mano è aperta di lato con naturalezza per mantenere l'equilibrio. La parte superiore del corpo è rivolta spontaneamente verso la fotocamera dove si trova il partner, e lo sguardo torna verso l'obiettivo. Evitare inarcamenti eccessivi della schiena o torsioni forzate.
+
+【Espressione ed emozione】
+Un'espressione di lieve stupore per aver schivato l'onda per un soffio, seguita subito da una risata spontanea. Sopracciglia appena sollevate come a dire con complicità «Hai visto?», con occhi luminosi e rilassati. Un sorriso naturale e misurato, non impostato, che coinvolge guance e sguardo. Per evitare che il gesto di mangiare il ghiacciolo contrasti con il sorriso, il ghiacciolo è ritratto già scostato dalla bocca. Un'espressione che unisce confidenza, spensieratezza e la grazia posata di una donna adulta.
+
+【Inquadratura e fotocamera】
+Formato verticale 4:5 adatto ai post di X. Inquadratura a figura intera che include completamente dalla testa alla punta dei piedi nudi, lasciando una proporzionata aria sopra e sotto. Nessun taglio troppo ravvicinato, mantenendo una distanza di ripresa sufficiente per ammirare la battigia e il mare al tramonto. Fotocamera posizionata ad altezza naturale tra vita e petto, con un'angolatura leggermente diagonale rispetto alla linea della riva. Lunghezza focale naturale equivalente a 50-70 mm (da standard a medio teleobiettivo), evitando distorsioni grandangolari che ingrandirebbero a sproposito gambe o seno. Profondità di campo che mantiene il soggetto a fuoco pur lasciando ben riconoscibile la linea di costa sullo sfondo.
+
+【Luce, colore, texture e atmosfera】
+Luce principale data dal sole basso del tramonto, posizionato alle spalle o lateralmente dietro al soggetto. Crea una morbida luce di contorno (rim light) dorata sui capelli e sulle spalle, mentre i riflessi naturali dell'acqua e della sabbia chiara illuminano delicatamente il volto evidenziandone l'espressione. Ombre morbide con un contrasto tenue tipico dell'ora serale. Pelle con finiture dettagliate e colorito naturale; capelli resi ciocca per ciocca mossi dal vento. Resa materica differenziata: pizzo e ricami della lingerie, lucentezza della sabbia bagnata, spuma delle onde e riflessi sull'acqua. Armonia cromatica tra rosa pallido, blu marino, tonalità ambrate della sabbia e arancione del cielo, per un'atmosfera fresca pervasa da una calda intimità.
+
+【Qualità ed elementi da escludere】
+Foto fotorealistica ad alta risoluzione con anatomia umana, abiti, dita di mani e piedi, onde, sabbia e direzione della luce assolutamente naturali. Soggetto inequivocabilmente adulto; evitare lineamenti o corporatura dall'aspetto minorile. Nessun arto o dito in più, mancante o fuso, nessuna articolazione innaturale, nessuna confusione tra arti destri e sinistri, abiti integri e non fusi con la pelle, nessuna nudità o esposizione accidentale, nessuna distorsione grandangolare estrema e nessun effetto pelle levigata artificiale. Il seno conserva un volume generoso e naturale, senza ingrandimenti anomali, forme sferiche rigide, push-up eccessivo o assenza di gravità. Nessun testo, logo, filigrana o elemento di interfaccia nell'immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)

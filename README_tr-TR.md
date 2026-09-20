@@ -85,20 +85,20 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımland�
 
 <a name="prompt-2101438280239861785"></a>
 
-### Çeviri sürüyor
+### Öğleden sonra bir ryokanın Japon odasında, açık lavanta rengi iç çamaşırıyla alçak masanın yanında oturup puding yerken gülümseyen Japon kadının yüksek kaliteli, fotogerçekçi portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2101438280239861785)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Öğleden sonra bir ryokanın Japon odasında, açık lavanta rengi iç çamaşırıyla alçak masanın yanında oturup puding yerken gülümseyen Japon kadının yüksek kaliteli, fotogerçekçi portre istemi.
 
 <img src="images/2101438280239861785-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟 Ryokanda Öğleden Sonra | Lavanta Rengi Dantel ve Pudingin Tatlı Anları 🌟\n\n【Ana Tema / Görsel Tarz】\nBir ryokanın geleneksel Japon odasında (washitsu) öğleden sonra pudingini tadarken karşısındaki sevgilisine neşeyle gülümseyen, açıkça yetişkin bir Japon kadın tasvir edilsin. Bir fotoğraf albümü ile doğal bir yaşam tarzı çekimi arasında duran, fotogerçekçi ve yüksek kaliteli fotoğraf estetiği. İç çamaşırı giymiş olmasına rağmen aşırı erotik bir havadan kaçınılmalı; bir seyahatte sakin bir öğleden sonrayı birlikte geçirmenin getirdiği samimiyet, sevimlilik ve zarafet ön plana çıkarılmalıdır.\n\n【Mekân / Arka Plan / Dünya Tasarımı】\nBahçeye bakan, huzurlu bir ryokan Japon odası. Tatami kaplı odada alçak ahşap bir masa (zataku), oturma minderleri (zabuton), shoji sürme paneller ve tokonoma girintisi doğal bir yerleşimle sunulmalıdır. Alçak masa, kadının bedenini veya giysisini kapatmayacak şekilde kadrajın kenarına çekilmelidir. Shoji panellerinin ardından bahçenin taze yeşilliği, ağaçlar ve bir taş fenerin (ishidourou) bir kısmı yumuşakça seçilmeli, odadan bahçeye uzanan derinlik hissi vurgulanmalıdır. Pudingin cam kâsesi, Japon çay fincanı (yunomi) ve küçük çiçekler mekana mütevazı bir yaşanmışlık katmalıdır.\n\n【Mevsim / Zaman / Hava Durumu】\nİlkbahardan erken yaza geçişi anımsatan, ılık ve açık bir öğleden sonra. Sert ve doğrudan gelen güneş ışığı yerine, shoji kâğıtlarından süzülerek odaya yayılan aydınlık ve yumuşak doğal ışık hâkimdir. Bahçedeki yeşilliklerde güneşin ışıltısı hissedilirken, oda içi dingin bir aydınlığı korur. Rüzgâr neredeyse hiç yoktur; ryokan odasında sakince dinlenilen anın durağan ve huzurlu akışı hissedilmelidir.\n\n【Karakter Tanımı】\n25 yaşlarında, açıkça yetişkin bir Japon kadın. Yumuşak ve muntazam yüz hatları, hafifçe iri ve koyu renk gözler, doğal kaşlar ve canlı dudaklar. Omuz hizasında, doğal dalgalara sahip koyu kahverengi saçlar ve yüz çevresinde serbest kalan zarif saç telleri. Doğal renk tonlarına ve gölgelere sahip, gerçekçi dokulu açık aşıboyası tonunda ten.\nNarin omuzlar ve kollar, ince bir bel ve feminen kıvrımların uyum içinde olduğu doğal ve göz alıcı bir vücut yapısı. Belirgin şekilde dolgun ve hacimli göğüsler; ancak sert küre formunda veya abartılı bir push-up etkisinde olmadan, oturma pozisyonuna ve yer çekimine doğal olarak uyum sağlayan yumuşak üç boyutlulukla sunulmalıdır. Kalçalar da belden itibaren pürüzsüz ve doğal kıvrımlarla devam etmelidir.\n\n【Kıyafet / Aksesuarlar】\nAçık lavanta rengi sütyen ve külot takımı. Wacoal çizgisini andıran asil bir tasarım; beyaz ve açık mor küçük çiçek işlemeleri, narin danteller ve ince bordürlerle süslenmiştir. Sütyen kaplarında gerçekçi astar ve dikiş detayları bulunmalı, dolgun göğsü doğal biçimde sararken kumaşın aşırı gerilmesine ya da pot yapmasına meydan vermeyen ideal bir kalıp sergilemelidir.\nKülot da aynı tonlardaki dantel ve çiçek işlemeleriyle uyumlu olup kalça hattını doğal biçimde sarmalıdır. Ryokanda rahatça dinlenme atmosferini korumak adına neredeyse hiç takı kullanılmamalıdır. Ayaklar çıplak olmalı, gösterişli süslemelerden kaçınılmalıdır.\n\n【Poz / Hareket / Bakış】\nKadın, alçak masanın yanındaki zabuton minderinde oturmakta, kalçası sağlam bir dengedeyken bacaklarını zarifçe vücudunun bir yanına doğru uzatmaktadır. Dizler doğal şekilde bükülmüş, ayak uçları tamamen gevşemiş halde tatamiye yaslanmıştır. Üst gövde tam cepheden hafifçe kameraya doğru dönük, sırt ise kasmadan doğal bir dikliktedir.\nBir eliyle göğüs hizasının hemen altında küçük cam puding kâsesini tutarken, diğer elinde küçük bir tatlı kaşığı tutmaktadır. Bir lokmayı yeni bitirmiş, kaşığı kâsenin üzerine geri koymak üzere olduğu o an yakalanmıştır. Bakışları tam karşısındaki sevgilisine yönelmiştir; sadece tatlıya odaklanmak yerine bu neşeli anı paylaşmanın yarattığı bağ vurgulanmalıdır.\n\n【İfade / Duygu】\nPudingin lezzetiyle içten gelen bir mutluluk duyan, gözleri tatlı bir zevkle hafifçe kısılan doğal bir tebessüm. Kaşlar ve yanaklardaki gerginlik çözülmüş, dudak kenarları hafifçe yukarı kıvrılmıştır. Sevgilisine 'Bu gerçekten çok lezzetliymiş!' der gibi samimi bir yüz ifadesi. Aşırı kahkaha veya yapmacık pozlardan uzak, sıradan bir hayat anını yakalayan doğal bir duygu ön planda olmalıdır.\n\n【Kompozisyon / Kamera Açısı】\nX paylaşımları için uygun 4:5 dikey kompozisyon. Başın tepesinden çıplak ayak uçlarına kadar tüm vücudu rahatça içine alan tam boy (full-body) çekim. Oturan bedeni, yana uzatılmış bacakları, ayak uçlarını ve pudingi tutan elleri net biçimde kavrayan bir mesafe. Kamera oturan kadının göğüs ile omuz hizası arasına yerleştirilmeli ve hafif çapraz ön açıdan çekim yapılmalıdır.\nAşırı geniş açı bükülmelerini engelleyecek standart ile orta-telefoto arası doğal bir odak uzaklığı kullanılmalıdır. Karakter kadraj merkezinin hafifçe bir yanına konumlandırılmalı, diğer tarafta alçak masa ve bahçe gösterilerek Japon odasının mekânsal ferahlığı yansıtılmalıdır. Arka plan hafifçe flulaştırılmalı; ancak tatami, shoji ve bahçenin varlığı seçilebilir netlikte bırakılmalıdır.\n\n【Işık / Renk / Doku / Atmosfer】\nAna ışık kaynağı, bahçe tarafındaki shoji panellerinden ve açıklıklardan süzülen öğleden sonra doğal ışığıdır. Yüzün ve bedenin bir tarafını yumuşakça aydınlatırken, diğer taraf tatami ve ahşap yüzeylerden yansıyan ılık ışıkla dengelenir. Gölgeler sert kesitler barındırmamalı, tenin ve kumaşın hacmini doğal biçimde ortaya koyacak geçişli bir yumuşaklıkta olmalıdır.\nTende gözenekleri ve doğal canlılığı gösteren ince dokular, saçlarda tek tek seçilebilen teller ve dağınık bukleler, dantelde ise narin nakış detayları ve kumaş kalınlığı hissedilmelidir. Tataminin kuru lifli yapısı, alçak masanın ahşap damarları, cam kâsedeki ışık yansımaları ve pudingin ipeksi pürüzsüzlüğü özenle işlenmelidir. Açık lavanta rengi, tataminin beji, bahçenin yeşili ve pudingin karamel tonları birbiriyle kaynaşarak dingin ve tatlı bir öğleden sonra atmosferi oluşturmalıdır.\n\n【Kalite / Hariç Tutulacak Unsurlar】\nGerçek bir fotoğraf makinesiyle çekilmiş hissi uyandıran yüksek çözünürlük; doğal insan anatomisi, materyaller, ışık ve perspektif esastır. Reşit görünmeyen kimseler, çocuksu yüz hatları, deforme vücutlar, fazladan kol, bacak veya parmaklar, eksik veya kaynaşmış parmaklar, bozuk eklemler, sağ-sol el karışıklıkları, giysi yırtılmaları veya hataları, kumaşın tenle kaynaşması ve istenmeyen uygunsuz çıplaklıklar engellenmelidir.\nGöğüsler dolgun ve doğal hacmini korumalı; fakat yapay bir devasalıkta, sert küre formunda, aşırı kalkık veya yer çekimine meydan okuyan bir biçimde olmamalıdır. Aşırı geniş açı distorsiyonu, mantıksız arka planlar, abartılı pürüzsüzleştirilmiş plastik cilt, aşırı bulanıklık, yazı, logo, filigran ve kullanıcı arayüzü ögeleri bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -107,20 +107,60 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2101439698120155531"></a>
 
-### Çeviri sürüyor
+### Gün batımı sahilinde pembe dondurma tutan ve dalgadan kaçarken gülümseyen iç çamaşırlı bir Japon kadınını tasvir eden gerçekçi istem.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2101439698120155531)
 
 Fotoğrafçılık · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gün batımı sahilinde pembe dondurma tutan ve dalgadan kaçarken gülümseyen iç çamaşırlı bir Japon kadınını tasvir eden gerçekçi istem.
 
 <img src="images/2101439698120155531-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Gün Batımında Dalgaların Kıyısı | Pembe Dondurma ve Yazın Canlı Gülümsemesi🌟
+
+【Konu ve Görsel Tarz】
+Güneşin battığı sakin bir kumsalda, dondurmasını yerken kıyıya vuran küçük bir dalgadan kaçınan, açıkça yetişkin bir Japon kadını tasvir edin. Yaz tatilinde sevgilisinin aniden çektiği doğal bir anı yakalamış gibi, fotogerçekçi fotoğraf kitabı tarzında bir moda fotoğrafı.
+Aşırı kurgulanmış bir gravür çekiminden ziyade; deniz kenarının ferahlığını, hafif bir şaşkınlığı ve samimi bir yakınlığı barındıran doğal bir enstantaneye yakın bir ifade. Zarafeti ve sevimliliği koruyarak, yalnızca kişiyi değil, gün batımındaki denizi, dalgaları ve kumsalın atmosferini de tek bir hikâye gibi hissettiren bir fotoğraf oluşturun.
+
+【Mekân, Arka Plan ve Dünya】
+İnsan kalabalığından uzak, sakin bir sahilin kıyı şeridi. Ön planda kuru ve ince kum; orta planda ayakların dibine kadar gelen beyaz küçük dalgalar ve ıslak kumun yansıması; uzak planda ise ufuk çizgisi ile belli belirsiz görünen küçük bir burun veya kayalıklar. Doğal bir sahilin sükunetine öncelik verilmeli, yapay unsurlar göze çarpmamalıdır.
+Islak kum, gün batımı gökyüzünün sıcak renklerini hafifçe yansıtır; çekilen dalgaların bıraktığı izler ve doğal ayak izleri hafifçe seçilir. Arka plan, ana figürü rahatsız etmeyecek derecede hafifçe bulanıklaştırılırken deniz kenarında çekildiği ilk bakışta anlaşılabilecek bir derinlik korunur.
+
+【Mevsim, Zaman ve Hava Durumu】
+Yaz ortasından yaz sonuna uzanan bir dönemin akşamüstü vakti. Güneşin ufka doğru alçalmaya başladığı, gündüzün yoğun sıcağının biraz hafiflediği altın saatler (golden hour). Gökyüzü genel olarak açık, sadece ufuk çizgisi yakınlarında hafif bulutlar süzülmektedir.
+Denizden hafif bir esinti gelmekte, saç uçlarını ve yüzden taşan ince telleri nazikçe dalgalandırmaktadır. Dalgalar sakindir, fırtına hissi yoktur; yaz gününün sonunda deniz kenarında yapılan bir yürüyüş gibi sıcak ve hafif bir atmosfer oluşturur.
+
+【Karakter Özellikleri】
+Açıkça yetişkin, 23 yaşında bir Japon kadın. Yumuşak ve dengeli yüz hatları, hafifçe iri ve koyu renkli gözler, doğal kaşlar, canlı ve yumuşak dudaklar. Omuz hizasında veya biraz daha uzun, doğal dalgalara sahip koyu kahverengi saçlar; deniz esintisiyle yüzünün etrafında hafifçe hareket eden birkaç tutam saç teli.
+Açık aşıboyası tonlarında, gözenekleri, ince gölgeleri ve doğal canlılığını koruyan bir cilt. Zarif omuzlar ve uzuvlar, ince bir bel ve kadınsı kıvrımların uyum sağladığı doğal ve çekici bir vücut hatları. Göğüsler belirgin şekilde dolgun ve hacimlidir; ancak duruşa ve yerçekimine doğal olarak uyum sağlayan yumuşak üç boyutlu bir formdadır ve tüm vücutla dengelidir. Kalçalar da belden doğal bir kıvrımla bağlanır.
+
+【Kıyafet ve Aksesuarlar】
+Wacoal tarzının zarif tasarımını anımsatan soluk pembe sütyen ve külot takımı. Uçuk renkli küçük çiçek nakışları ve zarif danteller kullanılmış; kupların ve külodun ana kısımlarında teni göstermeyen opak bir astar yer almaktadır.
+Dolgun göğsü kupların ve askıların rahatça desteklediği gerçekçi bir kalıp; kumaş aşırı gerilmez veya vücudu sıkıştırmaz. Külot da bel çevresine doğal bir şekilde oturur. Gösterişli aksesuarlar kullanılmaz; kumsalda çıplak ayakla duran sade bir yaz tarzıdır.
+
+【Poz, Hareket ve Bakış】
+Kadın dalgaların kıyısında durmaktadır; deniz tarafından ayağının dibine küçük bir dalganın ulaştığı o an. Ağırlığını kuru kum tarafındaki tek bacağına aktarmış, diğer bacağını ise dalgadan kaçırmak için hafifçe geriye veya yana doğru kaldırmıştır. Bel ve omuzlarda hareketin tam ortasında olmayı yansıtan doğal bir kıvrım bulunur.
+Bir elinde hafifçe erimeye başlamış pembe bir dondurma tutmakta, bir ısırık aldıktan sonra ağzından biraz uzaklaştırdığı noktada durmaktadır. Diğer elini ise dengesini sağlamak için vücudunun yanına doğru hafifçe açmıştır. Gövdesinin üst kısmı doğal bir şekilde sevgilisinin bulunduğu kamera yönüne dönüktür, bakışları da kameraya çevrilmiştir. Aşırı bel çukurluğu veya doğal olmayan vücut bükülmelerinden kaçınılmalıdır.
+
+【İfade ve Duygu】
+Ayağına gelen dalgadan son anda kaçabilmiş olmanın hafif şaşkınlığı ve hemen ardından kendini tutamayıp gülümsediği bir ifade. Sevgilisine "Gördün mü bunu?" dercesine kaşlarını çok hafifçe yukarı kaldırmış, göz çevresi neşeyle gevşemiştir.
+Ağzında aşırı büyük olmayan doğal bir tebessüm; yapmacık bir gülüş değil, yanaklarına ve gözlerine kadar ulaşan samimi bir duygu vardır. Dondurma yeme eylemi ile gülümsemenin çakışmaması için dondurmanın ağızdan uzaklaştığı an resmedilmelidir. Cana yakınlık, masumiyet ve yetişkin bir kadının dinginliğinin aynı anda hissedildiği bir yüz ifadesi.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey format. Başın tepe noktasından çıplak ayak parmaklarına kadar tüm vücudu tamamen içine alan boydan (full body) kompozisyon; başın üstünde ve ayakların altında uygun boşluklar bırakılmalıdır. Yalnızca kişiyi yakın plana sıkıştırmayan, dalgaların kıyısını ve akşam denizini yeterince gösteren bir çekim mesafesi.
+Kamera, kişinin bel ile göğüs hizasına yakın doğal bir göz hizasındadır ve kıyı şeridine hafifçe çapraz bir açıdan çekim yapar. 50-70 mm civarını andıran standart ile orta telefoto arası doğal bir görüş açısı tercih edilmeli; yalnızca bacakların veya göğsün büyük görünmesine yol açan geniş açı bozulmalarından kaçınılmalıdır. Kişiye odaklanırken arka plandaki sahil şeridinin de ayırt edilebileceği bir alan derinliği sağlanmalıdır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, karenin arkasından veya çapraz arkasından vuran alçak akşam güneşidir. Saç hatlarında ve omuzlarda yumuşak altın rengi bir kontur ışığı (rim light) oluşturur; yüzün ön kısmına ise deniz yüzeyinden ve parlak kumdan gelen doğal yansıma ışığı düşerek ifadenin net görünmesini sağlar. Gölgeler sertleştirilmez, akşama özgü yumuşak bir kontrast yakalanır.
+Ciltte ince gölgeler ve doğal canlılık korunur; saçlar tek tek telleri ve uçuşan kısımlarıyla işlenir. İç çamaşırının danteli ve işlemesi, ıslak kumun parıltısı, köpüren dalgalar ve su yüzeyindeki yansımalar farklı dokusal özellikleriyle betimlenir. Soluk pembe, denizin mavisi, kumsalın kehribar tonu ve akşam gökyüzünün turuncusu ahenkle harmanlanarak, ferahlığın içinde sıcak bir yakınlığın hissedildiği bir atmosfer yaratılır.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi bir fotoğraf olarak insan anatomisi, giysiler, el parmakları, ayaklar, dalgalar, kumsal ve ışık yönü doğal bir uyum içinde olmalıdır. Kişi açıkça yetişkin olmalı; çocuksu görünen yüz hatları veya aşırı ufak tefek vücut yapısından kaçınılmalıdır.
+Fazla uzuv veya parmak, eksik parmak, yapışık parmaklar, doğal olmayan eklemler, sağ-sol uzuvların karışması, kıyafet deformasyonları, vücutla kıyafetin birbirine kaynaması, istenmeyen dekolte/çıplaklık, aşırı geniş açı bükülmeleri ve aşırı pürüzsüzleştirilmiş cilt efektlerinden kaçınılmalıdır. Göğüsler dolgun ve doğal hacmini korumalı; anormal derecede devasa, sert küre şeklinde, aşırı yukarı itilmiş veya yerçekimine aykırı bir formda olmamalıdır. Görselde yazı, logo, filigran veya arayüz (UI) öğeleri bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

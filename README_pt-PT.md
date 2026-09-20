@@ -85,20 +85,20 @@ Tradução em curso
 
 <a name="prompt-2101438280239861785"></a>
 
-### Tradução em curso
+### Prompt para retrato realista de alta qualidade de uma mulher japonesa num quarto de ryokan à tarde, usando lingerie lavanda clara e sorrindo junto a uma mesa baixa enquanto saboreia um pudim.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2101438280239861785)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para retrato realista de alta qualidade de uma mulher japonesa num quarto de ryokan à tarde, usando lingerie lavanda clara e sorrindo junto a uma mesa baixa enquanto saboreia um pudim.
 
 <img src="images/2101438280239861785-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+🌟 Tarde no Ryokan | Doces Momentos com Renda Lavanda e Pudim 🌟\n\n【Tema / Estilo Visual】\nRetratar uma mulher japonesa claramente adulta num quarto em estilo japonês de um ryokan durante a tarde, saboreando um pudim e esboçando um sorriso radiante e cúmplice para o seu companheiro. Expressão fotográfica fotorrealista de alta qualidade, a meio caminho entre um livro de fotografia de autor e um registo intimista de lifestyle. Apesar de estar em lingerie, o registo não deve ser abertamente erótico, privilegiando a intimidade serena, a graciosidade e a elegância de partilhar uma tarde tranquila durante uma viagem.\n\n【Local / Cenário / Universo Visual】\nUm quarto sereno em estilo tradicional japonês num ryokan, virado para um jardim. No interior com pavimento de tatami, dispor com naturalidade uma mesa baixa de madeira (zataku), almofadas de chão (zabuton), divisórias shoji e uma reentrância tokonoma. A mesa baixa encontra-se encostada ao limite do enquadramento para não tapar o corpo nem a lingerie da figura. Para além das portas shoji, vislumbram-se suavemente a vegetação luminosa do jardim, arbustos e parte de uma lanterna de pedra, compondo uma cena com profundidade que se estende do quarto para o exterior. A taça de vidro do pudim, uma chávena yunomi e pequenas flores introduzem um toque discreto de vida quotidiana.\n\n【Estação / Hora / Clima】\nUma tarde amena e luminosa que remete para o final da primavera ou início do verão. Em vez de luz solar direta intensa, difunde-se pelo aposento uma luminosidade natural, suave e clara, filtrada através do papel das shoji. O sol faz-se notar na vegetação do jardim, mantendo o interior com uma claridade repousante. Praticamente sem vento, transmitindo a perceção do vagaroso correr do tempo enquanto se descansa calmamente no quarto do ryokan.\n\n【Definição da Personagem】\nMulher japonesa perfeitamente adulta, por volta dos 25 anos. Feições suaves e proporcionadas, olhos escuros ligeiramente grandes e expressivos, sobrancelhas bem desenhadas e lábios viçosos com boa cor. Cabelo castanho-escuro pelos ombros, com ondulação natural e madeixas finas e soltas em torno do rosto. Tez ocre clara, exibindo sombras subtis, rubor natural e textura de pele autêntica.\nSilhueta feminina e naturalmente curvilínea, articulando ombros delicados, membros delgados e cintura estreita. Peito assumidamente volumoso e generoso, sem contornos esféricos rígidos ou efeito push-up exagerado, revelando uma tridimensionalidade macia que respeita a gravidade e a postura sentada. Ancas com curvas harmoniosas que se desenham suavemente a partir da cintura.\n\n【Vestuário / Acessórios】\nConjunto de soutien e cuecas em tom lavanda suave. Desenho sóbrio e requintado que recorda a lingerie de alta qualidade japonesa, enriquecido com bordados de pequenas flores brancas e lilases, renda subtil e remates finos. As copas do soutien apresentam forro e costuras realistas, aconchegando o peito farto com um caimento justo, sem tecidos repuxados nem folgas despropositadas.\nAs cuecas mantêm o mesmo padrão de renda e bordados florais da mesma gama de cores, adaptando-se com naturalidade à linha das ancas. Ausência quase total de adornos ou joias, sublinhando a simplicidade descontraída do retiro no ryokan. Pés descalços, sem adereços ostensivos.\n\n【Pose / Ação / Olhar】\nA mulher encontra-se sentada numa almofada zabuton junto à mesa baixa, com a bacia apoiada e ambas as pernas recolhidas de lado num ângulo suave. Joelhos dobrados de forma natural e pés relaxados a repousar no tatami. A parte superior do corpo inclina-se ligeiramente para a câmara em relação ao plano frontal, com as costas direitas mas descontraídas.\nCom uma mão, segura a pequena taça de vidro com o pudim um pouco abaixo da linha do peito, segurando uma colher pequena com a outra mão. Capta-se o preciso instante em que termina de provar uma colherada e começa a recolocar a colher sobre a taça. O olhar dirige-se ao companheiro que está à sua frente, evidenciando o momento em que partilha o seu deleite em vez de se focar unicamente na sobremesa.\n\n【Expressão / Emoção】\nUm sorriso límpido e involuntário com os olhos ligeiramente semicerrados de pura satisfação pelo sabor do pudim. Sobrancelhas e maçãs do rosto relaxam de modo subtil, com os cantos dos lábios a erguerem-se suavemente. Uma expressão de carinho e cumplicidade, sugerindo a frase: 'Isto é tão bom!'. Sem gargalhadas artificiais nem trejeitos forçados, privilegiando a autenticidade de um instante quotidiano.\n\n【Composição / Enquadramento de Câmara】\nComposição vertical na proporção 4:5 pensada para publicações na rede X. Plano de corpo inteiro (full-body), integrando comodamente desde o cimo da cabeça até à ponta dos pés descalços. Distância suficiente para identificar com precisão a postura sentada, as pernas dispostas lateralmente, os pés e as mãos a segurar o pudim. Câmara colocada à altura do peito aos ombros da figura sentada, filmando em ligeira diagonal a partir da frente.\nDistância focal de padrão a teleobjetiva intermédia, afastando distorções de grande-angular acentuadas. Figura colocada ligeiramente ao lado do eixo central, facultando a visualização da mesa baixa e do jardim no lado oposto para valorizar o espaço interior tradicional. Fundo com desfoque moderado, permitindo reconhecer a textura do tatami, as divisórias shoji e a envolvência do jardim.\n\n【Iluminação / Cor / Textura / Atmosfera】\nA luz principal advém da claridade natural da tarde que entra pelas shoji e aberturas viradas ao jardim. Bate com suavidade numa das faces do corpo e do rosto, sendo o outro lado preenchido pelos reflexos cálidos do tatami e dos elementos em madeira. Linhas de sombra ténues e orgânicas, revelando a volumetria natural da pele e do têxtil.\nTextura microscópica com poros visíveis e circulação aparente na pele, fios de cabelo e madeixas rebeldes recortados a rigor, renda com bordados minuciosos e espessura palpável de tecido. Aspeto seco das fibras do tatami, grão da madeira da mesa, brilho e reflexos na taça de vidro e consistência lisa do pudim minuciosamente reproduzidos. Conjugação de tons lavanda, ocre do tatami, verdejante da vegetação exterior e caramelo reluzente do doce, moldando uma atmosfera de fim de tarde calma e doce.\n\n【Qualidade / Elementos a Excluir】\nResolução máxima, realçando proporcionalidade anatómica, materialidade, iluminação e perspetiva credíveis como numa fotografia real. Excluir: aparência infantil ou de menoridade, feições juvenis em demasia, anatomia truncada, membros ou dedos a mais, dedos amputados ou unidos, articulações invertidas, mãos trocadas, incongruências no vestuário, tecido fundido com a derme ou exposições anatómicas involuntárias.\nO peito deve exibir volume generoso e orgânico, sem esferas duras, sem efeitos push-up artificiais e sem desacatar as leis da gravidade. Rejeitar distorções óticas extremas, fundos inverosímeis, peles artificialmente aveludadas por edição digital, desfoque excessivo, inscrições tipográficas, logótipos, marcas de água ou barras de navegação.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -107,20 +107,60 @@ Tradução em curso
 
 <a name="prompt-2101439698120155531"></a>
 
-### Tradução em curso
+### Um prompt fotorrealista que retrata uma mulher japonesa em lingerie, segurando um gelado cor-de-rosa e a sorrir ao esquivar-se de uma onda na praia ao entardecer.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2101439698120155531)
 
 Fotografia · Personagem · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt fotorrealista que retrata uma mulher japonesa em lingerie, segurando um gelado cor-de-rosa e a sorrir ao esquivar-se de uma onda na praia ao entardecer.
 
 <img src="images/2101439698120155531-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+🌟À beira-mar ao entardecer | Gelado de pauzinho cor-de-rosa e um sorriso vibrante de verão🌟
+
+【Tema e Estilo Visual】
+Retratar uma mulher japonesa claramente adulta que, numa praia serena onde o sol se põe, desvia-se de uma pequena onda que se aproxima enquanto come um gelado de pauzinho. Uma fotografia de moda fotorrealista ao estilo de fotolivro, captando um instante espontâneo como se tivesse sido tirada de repente pelo namorado durante uma viagem de verão.
+Mais do que uma sessão fotográfica de gravure artificialmente produzida, é uma expressão próxima de um instantâneo natural que preserva a sensação de liberdade à beira-mar, uma leve surpresa e uma distância íntima. Mantendo a elegância e a graciosidade, crie uma foto onde não apenas a pessoa, mas também o mar ao entardecer, as ondas e a atmosfera do areal possam ser sentidos como uma única narrativa.
+
+【Local, Cenário e Contexto】
+A linha de rebentação de uma costa calma com poucas pessoas. Em primeiro plano, areia fina e seca; no plano médio, pequenas ondas brancas que chegam aos pés e o reflexo da areia molhada; ao longe, a linha do horizonte e um pequeno promontório ou rochedos ténues podem ser avistados. Sem elementos artificiais em destaque, priorizando a tranquilidade própria de uma costa natural.
+A areia molhada reflete suavemente os tons quentes do céu crepuscular, deixando marcas subtis de ondas que recuaram e pegadas naturais. O fundo é ligeiramente desfocado para não interferir com a figura, mantendo a profundidade necessária para que se compreenda de imediato que foi fotografada à beira-mar.
+
+【Estação, Hora e Clima】
+Fim de tarde, entre o pico e o final do verão. A hora dourada (golden hour), quando o sol começa a aproximar-se do horizonte e o calor intenso do dia arrefece ligeiramente. O céu é predominantemente limpo, com apenas algumas nuvens ténues a pairar junto ao horizonte.
+Uma brisa suave sopra do mar, fazendo com que as pontas do cabelo e os fios soltos oscilem subtilmente. As ondas são calmas, sem qualquer sensação de tempestade, criando uma atmosfera calorosa e leve, como a de um passeio à beira-mar no final de um dia de verão.
+
+【Definição da Personagem】
+Mulher japonesa claramente adulta, de 23 anos. Traços faciais suaves e harmoniosos, olhos escuros ligeiramente grandes, sobrancelhas naturais e lábios macios e corados. Cabelo castanho-escuro pelo ombro ou ligeiramente mais comprido, com ondas naturais, e alguns fios soltos a moverem-se ao redor do rosto com a brisa marítima.
+Pele clara de tom ocre, preservando poros, sombras subtis e uma tez natural. Ombros e membros delicados, cintura fina em harmonia com curvas femininas, resultando numa silhueta curvilínea natural. O peito é claramente farto e volumoso, mas com uma tridimensionalidade suave que se adapta à postura e à gravidade, mantendo o equilíbrio com o resto do corpo. As ancas apresentam também uma curva arredondada que se liga naturalmente à cintura.
+
+【Vestuário e Acessórios】
+Conjunto de soutien e cuecas rosa-pálido, evocando os designs requintados da linha Wacoal. Confecionado com bordados delicados de pequenas flores e renda fina, com forro opaco que não permite transparências nas áreas principais das copas e das cuecas.
+Tamanho realista no qual as copas e alças sustentam confortavelmente o peito farto, sem que o tecido fique demasiado esticado nem aperte a pele. As cuecas ajustam-se também de forma natural à volta da bacia. Sem acessórios vistosos; um visual estival simples, descalça no areal.
+
+【Pose, Ação e Olhar】
+A mulher encontra-se de pé à beira da água, no preciso momento em que uma pequena onda chega aos seus pés pelo lado do mar. O peso do corpo é transferido para a perna que fica na areia seca, enquanto levanta ligeiramente a outra perna para trás ou para o lado para se esquivar da onda. As ancas e os ombros mantêm uma torção natural própria de um movimento a meio.
+Numa das mãos, segura um gelado de pauzinho cor-de-rosa a começar a derreter, afastado ligeiramente da boca após ter dado uma dentada. A outra mão está ligeiramente aberta ao lado do corpo para manter o equilíbrio. A parte superior do tronco vira-se naturalmente na direção da câmara (onde se encontra o namorado), e o olhar regressa igualmente para a câmara. Evite hiperlordoses acentuadas ou torções corporais artificiais.
+
+【Expressão e Emoção】
+Uma expressão de ligeira surpresa por ter conseguido desviar-se da onda à justa, seguida imediatamente por um riso espontâneo. Com as sobrancelhas subtilmente erguidas e o olhar iluminado e descontraído, como se perguntasse ao namorado: "Viste isto agora?".
+Um sorriso natural nos lábios, sem ser excessivo; não é um sorriso forçado, mas algo que transmite emoção até às faces e aos olhos. Para que a ação de comer o gelado e o sorriso não entrem em conflito, represente o gelado já afastado da boca. Uma expressão que alia simultaneamente acessibilidade, inocência e a maturidade serena de uma mulher adulta.
+
+【Composição e Câmara】
+Formato vertical 4:5 próprio para publicações no X. Enquadramento de corpo inteiro (full body), incluindo na perfeição desde o topo da cabeça até às pontas dos pés descalços, deixando margens adequadas acima da cabeça e abaixo dos pés. Uma distância de captação que permita ver nitidamente a rebentação e o mar ao entardecer, sem fechar o plano exclusivamente na pessoa.
+Câmara a um nível de visão natural, próximo da altura da cintura ou do peito da modelo, fotografando ligeiramente na diagonal em relação à linha da rebentação. Ângulo de visão natural a condizer com uma objetiva padrão a meia-teleobjetiva (cerca de 50 a 70 mm), evitando distorções de grande-angular que façam apenas as pernas ou o peito parecerem desproporcionados. Profundidade de campo que foca a pessoa mas permite discernir a linha costeira em segundo plano.
+
+【Luz, Cor, Textura e Atmosfera】
+A fonte de luz principal é o sol poente baixo, por trás ou na diagonal traseira da composição. Cria uma suave luz de contorno dourada (rim light) nos ombros e no contorno do cabelo, enquanto a luz refletida natural da superfície do mar e da areia clara ilumina a parte frontal do rosto para permitir ler a expressão com clareza. As sombras não são duras, proporcionando um contraste sereno típico do entardecer.
+A pele preserva sombras finas e um tom saudável natural, e os cabelos e mechas rebeldes são delineados individualmente. Retrate com texturas distintas a renda e os bordados da lingerie, o brilho da areia húmida, a espuma das ondas e os reflexos na água. Harmonize o rosa-pálido, o azul do mar, o tom âmbar da areia e o laranja do céu poente, gerando um ambiente onde a frescura se cruza com uma calorosa intimidade.
+
+【Qualidade e Elementos a Excluir】
+Fotografia fotorrealista de alta resolução, com anatomia humana, vestuário, dedos das mãos, pés, ondas, areia e direção da luz rigorosamente naturais. A pessoa deve ser claramente adulta, rejeitando feições infantis ou um tipo de corpo demasiado juvenil.
+Evite membros ou dedos adicionais, dedos em falta, dedos fundidos, articulações anómalas, confusão entre membros esquerdos e direitos, vestuário deformado, fusão entre o corpo e o tecido, exposição corporal involuntária, distorção extrema de grande-angular e suavização de pele exagerada. Mantenha o peito com um volume farto e natural, sem proporções bizarras, formato esférico rígido, suporte exagerado ou a desafiar a gravidade. Não incluir qualquer texto, logótipo, marca de água ou elementos de interface (UI) na imagem.
 ```
 
 [↑ Voltar às categorias](#catalog)

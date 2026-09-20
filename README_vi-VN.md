@@ -85,20 +85,56 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 <a name="prompt-2101438280239861785"></a>
 
-### Đang dịch
+### Lời nhắc chân dung nhiếp ảnh chân thực chất lượng cao về một phụ nữ Nhật Bản mặc nội y ren màu tím oải hương nhạt, ngồi cạnh bàn trà và mỉm cười thưởng thức bánh pudding trong phòng tatami tại ryokan vào buổi chiều.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2101438280239861785)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung nhiếp ảnh chân thực chất lượng cao về một phụ nữ Nhật Bản mặc nội y ren màu tím oải hương nhạt, ngồi cạnh bàn trà và mỉm cười thưởng thức bánh pudding trong phòng tatami tại ryokan vào buổi chiều.
 
 <img src="images/2101438280239861785-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟 Buổi chiều tại ryokan ｜ Khoảnh khắc ngọt ngào của ren oải hương và bánh pudding 🌟
+
+【Chủ đề & Phong cách nghệ thuật】
+Khắc họa một người phụ nữ Nhật Bản trưởng thành rõ rệt đang thưởng thức bánh pudding và nở nụ cười hạnh phúc với người yêu trong căn phòng kiểu Nhật (washitsu) tại một ryokan vào buổi chiều. Thể hiện qua phong cách nhiếp ảnh chất lượng cao, chân thực (photorealistic), nằm ở ranh giới giữa một cuốn sách ảnh nghệ thuật và ảnh phong cách sống tự nhiên. Dù mặc nội y nhưng không quá gợi dục, tập trung thể hiện sự thân mật, dễ thương và thanh lịch như đang cùng nhau trải qua một buổi chiều yên tĩnh trong chuyến du lịch.
+
+【Địa điểm, Bối cảnh & Thế giới quan】
+Căn phòng tatami kiểu Nhật thanh tịnh nhìn ra khu vườn trong ryokan. Bên trong căn phòng trải chiếu tatami, bố trí tự nhiên chiếc bàn trà thấp bằng gỗ (zataku), đệm ngồi (zabuton), cửa trượt shoji và hốc tường tokonoma. Bàn trà được đặt nép về phía rìa khung hình để không che khuất cơ thể hay trang phục của nhân vật. Xuyên qua cửa shoji, màu xanh tươi sáng của khu vườn, cây cảnh và một phần đèn lồng đá hiện lên mềm mại, tạo bố cục có chiều sâu trải dài từ trong phòng ra vườn. Thêm vào các chi tiết mang hơi thở đời sống một cách kín đáo như hũ thủy tinh đựng pudding, tách trà yunomi và bông hoa nhỏ.
+
+【Mùa, Thời gian & Thời tiết】
+Một buổi chiều nắng dịu gợi nhớ đến tiết trời cuối xuân đầu hạ. Không phải ánh nắng gắt trực tiếp, mà là ánh sáng tự nhiên tươi sáng, dịu nhẹ khuếch tán qua cửa shoji vào khắp căn phòng. Cây cỏ trong vườn đón ánh nắng ấm áp nhưng trong phòng vẫn duy trì độ sáng êm dịu, tĩnh lặng. Hầu như không có gió, gợi lên dòng chảy thời gian yên bình khi đang thư thả nghỉ ngơi trong phòng ryokan.
+
+【Thiết lập nhân vật】
+Một người phụ nữ Nhật Bản trưởng thành rõ rệt, khoảng 25 tuổi. Đường nét khuôn mặt thanh tú, mềm mại, đôi mắt to tròn long lanh hơi sẫm màu, đôi mày tự nhiên, đôi môi tươi tắn hồng hào. Mái tóc màu nâu trầm dài ngang vai uốn lượn sóng tự nhiên, với những lọn tóc con mềm mại buông lơi quanh khuôn mặt. Làn da tông màu be sáng (ochre), với chất da thực tế thấy rõ bóng đổ chi tiết và sắc hồng tự nhiên.
+Vóc dáng quyến rũ tự nhiên, hài hòa giữa bờ vai và tứ chi mảnh mai, vòng eo thon gọn cùng những đường cong nữ tính. Vòng một căng tròn, nảy nở rõ rệt nhưng không tạo hình cầu cứng nhắc hay bị đẩy nâng quá đà, mà có độ cong ba chiều mềm mại tự nhiên theo tư thế ngồi và trọng lực. Hông nở nang, cong tròn mềm mại nối tiếp tự nhiên từ thắt lưng.
+
+【Trang phục & Phụ kiện】
+Bộ nội y gồm áo lót và quần lót màu hoa oải hương (lavender) nhạt. Thiết kế trang nhã mang hơi hướng phong cách Wacoal, điểm xuyết hoa thêu nhỏ màu trắng và tím nhạt, ren tinh tế cùng đường viền tỉ mỉ. Phần cúp ngực có lớp lót và đường may chân thực, ôm trọn lấy khuôn ngực đầy đặn một cách tự nhiên, kích cỡ vừa vặn không làm vải bị căng thắt quá mức hay phồng xộc xệch.
+Quần lót cũng đồng bộ với chất liệu ren và hoa thêu nhỏ cùng tông màu, ôm sát tự nhiên quanh hông. Hầu như không đeo phụ kiện nào để ưu tiên không khí mộc mạc khi thư giãn tại ryokan. Đi chân trần, không thêm bất kỳ phụ kiện trang trí cầu kỳ nào.
+
+【Tư thế, Cử động & Ánh nhìn】
+Người phụ nữ ngồi trên đệm zabuton đặt cạnh bàn trà, giữ hông vững vàng và khẽ nghiêng cả hai chân sang một bên cơ thể. Đầu gối gập tự nhiên, thả lỏng đến tận ngón chân tựa trên mặt chiếu tatami. Thân trên hơi xoay về phía máy ảnh nhiều hơn một chút so với góc chính diện, lưng thẳng tự nhiên không gồng cứng.
+Một tay cầm hũ thủy tinh đựng pudding nhỏ ở vị trí hơi thấp hơn ngực một chút, tay kia cầm chiếc thìa nhỏ. Khoảnh khắc vừa nếm xong một thìa và đang chuẩn bị đưa thìa trở lại miệng hũ. Ánh mắt hướng thẳng về phía người yêu đối diện, không chỉ chăm chú nhìn món ăn mà thể hiện khoảnh khắc chia sẻ niềm vui ngọt ngào.
+
+【Biểu cảm & Cảm xúc】
+Nụ cười tự nhiên với đôi mắt khẽ híp lại vì niềm vui thích chân thành trước vị ngon của bánh pudding. Chân mày và gò má thả lỏng nhẹ nhàng, khóe môi khẽ cong lên mềm mại. Nét mặt thân thương như đang thủ thỉ với người yêu: "Cái này ngon tuyệt này". Không cười quá lớn hay giả tạo, mà chú trọng vào cảm xúc chân thực ghi lại một khoảnh khắc của đời thường.
+
+【Bố cục & Máy ảnh】
+Bố cục dọc 4:5 thích hợp cho bài đăng trên X. Khung hình toàn thân (full body) rộng rãi từ đỉnh đầu đến tận ngón chân trần. Khoảng cách chụp vừa vặn để thấy được toàn bộ cơ thể đang ngồi, hai chân nghiêng sang bên, ngón chân và cả đôi tay đang cầm hũ pudding. Máy ảnh đặt ở độ cao ngang tầm ngực đến vai của người ngồi, chụp từ góc hơi chéo phía trước.
+Sử dụng tiêu cự tự nhiên từ tiêu chuẩn đến tele tầm trung để tránh méo góc rộng cực đoan. Đặt nhân vật hơi lệch sang một bên so với tâm khung hình, để lộ chiếc bàn trà và khu vườn ở phía đối diện, tạo độ thoáng đãng không gian đặc trưng của phòng tatami. Hậu cảnh làm mờ nhẹ nhưng vẫn nhận biết rõ ràng được chiếu tatami, cửa shoji và khu vườn.
+
+【Ánh sáng, Màu sắc, Chất cảm & Không khí】
+Nguồn sáng chính là ánh sáng tự nhiên buổi chiều chiếu vào từ cửa shoji và các khoảng mở hướng ra vườn. Ánh sáng nhẹ nhàng chiếu lên khuôn mặt và một bên cơ thể nhân vật, bên còn lại được bù sáng êm dịu bởi ánh phản xạ từ chiếu tatami và gỗ. Đường ranh giới bóng đổ không quá gắt, tạo độ tương phản bóng mờ dịu mắt vừa đủ để thể hiện khối cơ thể và trang phục một cách tự nhiên.
+Thể hiện chất da chân thực với độ mịn và sắc máu tự nhiên, từng sợi tóc mượt mà cùng những lọn tóc con buông lơi, chất ren tinh xảo với hoa thêu và độ dày của vải. Khắc họa tỉ mỉ chất thô ráo của sợi chiếu tatami, vân gỗ của bàn trà, độ bóng phản chiếu của hũ thủy tinh và độ mềm mượt của bánh pudding. Sự hòa quyện giữa sắc tím oải hương nhạt, sắc be của chiếu tatami, màu xanh tươi của khu vườn và sắc caramel của pudding tạo nên bầu không khí buổi chiều vừa tĩnh lặng vừa ngọt ngào.
+
+【Chất lượng & Yếu tố loại trừ】
+Độ phân giải cao, chú trọng cơ thể người, chất liệu, ánh sáng và luật xa gần tự nhiên như được chụp bằng máy ảnh thực tế. Tránh các nhân vật trông như vị thành niên, khuôn mặt quá non nớt, cơ thể biến dạng, thừa chi hoặc ngón tay, ngón tay bị thiếu hoặc dính liền, khớp xương bất thường, nhầm lẫn tay trái phải, lỗi trang phục, trang phục hòa lẫn vào da thịt, hở hang ngoài ý muốn.
+Vòng một giữ nét nảy nở tự nhiên, không phình to dị thường, không tròn cứng như quả cầu, không ép nâng quá mức và không chống lại trọng lực. Không méo góc rộng cực đoan, không bối cảnh phi thực tế, không chỉnh da láng mịn quá đà, không xóa phông quá mức, không chữ viết, logo, watermark hay giao diện người dùng (UI).
 ```
 
 [↑ Về danh mục](#catalog)
@@ -107,20 +143,60 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 <a name="prompt-2101439698120155531"></a>
 
-### Đang dịch
+### Prompt ảnh chân thực mô tả một người phụ nữ Nhật Bản mặc nội y cầm que kem màu hồng, mỉm cười né sóng bên bờ biển lúc hoàng hôn.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2101439698120155531)
 
 Nhiếp ảnh · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chân thực mô tả một người phụ nữ Nhật Bản mặc nội y cầm que kem màu hồng, mỉm cười né sóng bên bờ biển lúc hoàng hôn.
 
 <img src="images/2101439698120155531-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Bờ biển lúc hoàng hôn | Que kem màu hồng và nụ cười rạng rỡ ngày hè🌟
+
+【Chủ đề・Phong cách nghệ thuật】
+Khắc họa một người phụ nữ Nhật Bản rõ ràng đã trưởng thành trên bãi cát yên tĩnh khi mặt trời lặn, vừa ăn que kem vừa tránh đợt sóng nhỏ đang vỗ vào bờ. Một bức ảnh thời trang phong cách photobook chân thực, ghi lại khoảnh khắc tự nhiên như thể người yêu tình cờ chụp lại trong chuyến du lịch mùa hè.
+Không phải là buổi chụp ảnh gravure dàn dựng cầu kỳ, mà là cách thể hiện gần gũi với một bức ảnh chụp nhanh tự nhiên lưu giữ cảm giác tự do nơi bờ biển, chút bất ngờ nhẹ nhàng và khoảng cách thân mật. Giữ được nét thanh lịch và đáng yêu, tạo nên một bức ảnh khiến người xem cảm nhận được câu chuyện không chỉ qua nhân vật mà còn qua biển lúc hoàng hôn, từng con sóng và bầu không khí của bãi cát.
+
+【Địa điểm・Bối cảnh・Thế giới quan】
+Bờ sóng của một bờ biển êm đềm, vắng bóng người. Tiền cảnh là bãi cát mịn khô ráo, trung cảnh là những con sóng nhỏ màu trắng vỗ đến chân và sự phản chiếu của cát ướt, hậu cảnh là đường chân trời thấp thoáng mũi đất nhỏ hoặc bãi đá. Không để các vật thể nhân tạo nổi bật, ưu tiên sự tĩnh lặng tự nhiên của bờ biển.
+Trên nền cát ướt phản chiếu nhạt màu sắc ấm áp của bầu trời chiều tà, để lại chút dấu vết của bọt sóng vừa rút và những dấu chân tự nhiên. Hậu cảnh được làm mờ nhẹ vừa đủ để không làm phiền nhân vật, đồng thời vẫn giữ được chiều sâu để nhận ra ngay đây là bãi biển.
+
+【Mùa・Thời gian・Thời tiết】
+Buổi chiều từ giữa hè đến cuối hè. Giờ vàng (golden hour) khi mặt trời bắt đầu tiến gần đến đường chân trời, khoảng thời gian cái nóng gay gắt của ban ngày đã dịu đi. Bầu trời về cơ bản là trong xanh, chỉ có vài đám mây mỏng lơ lửng gần đường chân trời.
+Gió nhẹ thổi từ biển làm ngọn tóc và những lọn tóc con khẽ lay động. Sóng êm đềm không có cảm giác giông bão, tạo nên bầu không khí ấm áp, nhẹ nhàng như đang dạo bước bên bờ biển vào cuối một ngày hè.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản 23 tuổi, rõ ràng đã trưởng thành. Đường nét khuôn mặt mềm mại, thanh tú, đôi mắt to đen láy, hàng lông mày tự nhiên, đôi môi mềm mại hồng hào. Mái tóc màu nâu trầm dài ngang vai đến hơi dài uốn gợn sóng tự nhiên, vài sợi tóc con quanh mặt chuyển động nhẹ theo làn gió biển.
+Làn da màu trắng ngà ấm (light ochre) tươi sáng, giữ lại lỗ chân lông, bóng mờ chi tiết và sắc hồng tự nhiên. Bờ vai và tay chân thon thả, vòng eo nhỏ nhắn hài hòa với những đường cong nữ tính tạo nên thân hình quyến rũ tự nhiên. Vòng một căng đầy, nở nang rõ rệt nhưng có độ nổi khối mềm mại thuận theo tư thế và trọng lực, cân đối với tổng thể cơ thể. Vòng ba cũng có độ cong tròn nối tiếp tự nhiên từ thắt lưng.
+
+【Trang phục・Phụ kiện】
+Bộ đồ lót gồm áo ngực và quần lót màu hồng nhạt (pale pink) gợi nhớ đến thiết kế trang nhã của thương hiệu Wacoal. Sử dụng họa tiết thêu hoa nhỏ tao nhã và ren tinh tế, các phần chính của cúp ngực và quần lót đều có lớp lót mờ đục không nhìn xuyên thấu vào da.
+Kích cỡ cúp ngực và dây áo nâng đỡ vòng một đầy đặn một cách tự nhiên và thực tế, vải không bị kéo căng quá mức hay hằn sâu vào cơ thể. Quần lót cũng ôm vừa vặn tự nhiên quanh hông. Không đeo phụ kiện cầu kỳ, đứng chân trần trên bãi cát trong trang phục mùa hè giản dị.
+
+【Tư thế・Hành động・Ánh mắt】
+Người phụ nữ đứng ở mép nước, ngay khoảnh khắc một con sóng nhỏ vỗ vào chân phía biển. Trọng tâm dồn vào một chân đứng trên phần cát khô, chân kia hơi nhấc ra sau hoặc sang bên để tránh sóng. Hông và vai giữ độ vặn tự nhiên như đang ở giữa một cử động.
+Một tay cầm que kem màu hồng bắt đầu hơi tan chảy, sau khi cắn một miếng thì dừng lại ở vị trí cách xa miệng một chút. Tay còn lại hơi dang sang bên cạnh thân để giữ thăng bằng. Thân trên hướng tự nhiên về phía máy ảnh nơi người yêu đang đứng, ánh mắt cũng nhìn lại ống kính. Tránh ưỡn lưng quá mức hoặc vặn vẹo cơ thể thiếu tự nhiên.
+
+【Biểu cảm・Cảm xúc】
+Biểu cảm hơi giật mình khi vừa kịp tránh con sóng dưới chân trong gang tấc, rồi ngay sau đó bật cười không kìm được. Đôi mày khẽ nhướn lên như muốn nói với người yêu: "Vừa thấy không?", khóe mắt sáng lên và dịu dàng.
+Khoe nụ cười tự nhiên vừa phải, không phải nụ cười gượng gạo mà cảm xúc lan tỏa đến cả gò má và ánh mắt. Để hành động ăn kem không xung đột với nụ cười, kem được vẽ ở khoảnh khắc đã rời khỏi miệng. Một biểu cảm mang lại đồng thời cảm giác gần gũi, ngây thơ và sự điềm tĩnh của người phụ nữ trưởng thành.
+
+【Bố cục・Máy ảnh】
+Khung hình dọc 4:5 dành cho bài đăng trên X. Bố cục toàn thân (full body) thu trọn từ đỉnh đầu đến đầu ngón chân trần, để lại khoảng trống vừa phải phía trên đầu và dưới chân. Không cắt cúp quá sát nhân vật mà giữ khoảng cách chụp đủ để nhìn thấy rõ mép nước và biển chiều tà.
+Máy ảnh đặt ở tầm mắt tự nhiên, gần ngang tầm eo đến ngực của nhân vật, chụp hơi chéo so với mép sóng. Góc nhìn tự nhiên từ tiêu chuẩn đến tele tầm trung khoảng 50-70mm, tránh hiện tượng méo góc rộng khiến chân hoặc ngực to bất thường. Lấy nét vào nhân vật đồng thời giữ độ sâu trường ảnh vừa đủ để nhận biết được đường bờ biển phía sau.
+
+【Ánh sáng・Màu sắc・Chất liệu・Bầu không khí】
+Nguồn sáng chính là ánh hoàng hôn thấp ở phía sau hoặc chéo phía sau khung hình. Tạo viền sáng vàng mềm mại (rim light) trên đường viền tóc và bờ vai, phía trước khuôn mặt có ánh sáng phản xạ tự nhiên từ mặt biển và bãi cát sáng giúp nhìn rõ biểu cảm. Bóng đổ không bị gắt, tạo độ tương phản êm dịu đặc trưng của buổi chiều tà.
+Làn da lưu lại bóng mờ tinh tế và sắc hồng tự nhiên, mái tóc thể hiện rõ từng lọn và những sợi tóc con. Miêu tả chất cảm khác nhau của ren và thêu trên đồ lót, độ bóng của cát ướt, bọt sóng và sự phản chiếu của mặt nước. Kết hợp hài hòa giữa màu hồng nhạt, màu xanh của biển, màu hổ phách của bãi cát và màu cam của bầu trời hoàng hôn, tạo nên bầu không khí tươi mát nhưng thoang thoảng sự ấm áp, thân mật.
+
+【Chất lượng・Yếu tố loại trừ】
+Là ảnh chụp chân thực độ phân giải cao, cơ thể người, trang phục, ngón tay, chân, sóng, bãi cát và hướng sáng phải tự nhiên, chính xác. Nhân vật phải rõ ràng là người trưởng thành, tránh khuôn mặt giống vị thành niên hoặc vóc dáng quá trẻ con.
+Tránh thừa thiếu ngón tay, ngón tay bị dính, khớp nối bất thường, nhầm lẫn chi trái phải, trang phục rách hỏng, cơ thể hòa lẫn vào trang phục, lộ hàng ngoài ý muốn, méo góc rộng cực đoan, làm mịn da quá đà. Vòng một duy trì độ đầy đặn tự nhiên, không phì đại bất thường, không cứng như hình cầu, không nâng đẩy quá mức, không trái quy luật trọng lực. Không có chữ, logo, watermark hoặc giao diện UI trong ảnh.
 ```
 
 [↑ Về danh mục](#catalog)

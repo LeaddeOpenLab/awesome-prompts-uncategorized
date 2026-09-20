@@ -85,20 +85,56 @@ Traducción en curso
 
 <a name="prompt-2101438280239861785"></a>
 
-### Traducción en curso
+### Prompt de retrato fotorrealista de alta calidad de una mujer japonesa en una habitación de ryokan por la tarde, vistiendo lencería lavanda claro, sonriendo junto a una mesa baja mientras disfruta de un pudín.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2101438280239861785)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato fotorrealista de alta calidad de una mujer japonesa en una habitación de ryokan por la tarde, vistiendo lencería lavanda claro, sonriendo junto a una mesa baja mientras disfruta de un pudín.
 
 <img src="images/2101438280239861785-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Tarde en el ryokan｜Encaje lavanda y el dulce momento de un pudín🌟
+
+【Tema y estilo】
+Retratar a una mujer japonesa claramente adulta en una habitación de estilo japonés (washitsu) de un ryokan por la tarde, sonriendo felizmente a su pareja mientras disfruta de un pudín. Expresión fotográfica fotorrealista de alta calidad, con un acabado a medio camino entre un libro de fotos y una fotografía natural de estilo de vida. Aunque viste lencería, no se muestra excesivamente sensual; el enfoque principal está en expresar la intimidad, ternura y elegancia de compartir una tarde tranquila durante un viaje.
+
+【Ubicación, fondo y ambientación】
+Una serena habitación de estilo japonés en un ryokan con vista a un jardín. En la estancia con suelo de tatami, se disponen de manera natural una mesa baja de madera (zataku), cojines (zabuton), puertas corredizas de papel shoji y una alcoba tokonoma. La mesa baja está apartada hacia el borde del encuadre para no tapar el cuerpo ni la vestimenta del sujeto. Al otro lado del shoji, se aprecian suavemente el verde brillante del jardín, las plantas y parte de una linterna de piedra, creando una composición donde la profundidad se extiende desde el interior hacia el jardín. Un recipiente de vidrio con pudín, una taza de té yunomi y pequeñas flores se incluyen sutilmente para aportar un toque de vida cotidiana.
+
+【Estación, hora y clima】
+Una tarde de clima apacible y despejado que evoca la transición de la primavera a principios de verano. En lugar de una luz solar directa e intensa, la luz natural que entra difusa y suavemente a través del shoji se expande por la habitación. Se siente la luz del sol sobre la vegetación del jardín, pero el interior mantiene una luminosidad sosegada. Apenas hay viento, transmitiendo el fluir apacible del tiempo mientras se descansa plácidamente en una habitación de ryokan.
+
+【Detalles del personaje】
+Una mujer japonesa de aproximadamente 25 años, claramente adulta. Facciones suaves y equilibradas, ojos grandes y oscuros, cejas naturales y labios de tono saludable. Cabello castaño oscuro hasta los hombros con ondas naturales y mechones sueltos enmarcando el rostro. Piel clara de matiz ocre con sombras sutiles y un rubor natural que refleja una textura realista.
+Complexión física naturalmente glamorosa y curvilínea en armonía con hombros y extremidades delicados y una cintura estrecha. Busto notablemente generoso y lleno, pero sin rigidez esférica ni un realce exagerado, mostrando un volumen suave que sigue la postura sentada y la gravedad. Caderas con curvas suaves que fluyen de forma natural desde la cintura.
+
+【Vestuario y accesorios】
+Un conjunto de sostén y bragas de encaje en color lavanda claro. Diseño refinado de estilo Wacoal, adornado con bordados de pequeñas flores en blanco y violeta pálido, encaje delicado y finos ribetes. Las copas cuentan con forro y costuras realistas, envolviendo el busto generoso con naturalidad y con un ajuste perfecto, sin que la tela se tense excesivamente ni quede despegada.
+Las bragas hacen juego con el encaje del mismo tono y los bordados florales, adaptándose de forma natural a la cintura y cadera. Prácticamente sin accesorios, priorizando el ambiente sencillo y relajado del descanso en el ryokan. Descalza, sin adornos ostentosos.
+
+【Pose, movimiento y mirada】
+La mujer está sentada sobre un zabuton junto a la mesa baja, con la cadera estable y las piernas dobladas e inclinadas de lado de manera natural. Rodillas flexionadas con suavidad, con los pies relajados reposando sobre el tatami. El torso está orientado ligeramente hacia la cámara con la espalda erguida sin rigidez.
+Sostiene con una mano el pequeño recipiente de vidrio con pudín un poco por debajo del pecho, y en la otra sostiene una pequeña cuchara. El instante capturado es justo después de haber tomado un bocado, devolviendo la cuchara hacia el recipiente. Su mirada se dirige al frente hacia su pareja, no mirando solo la comida, sino compartiendo ese momento de felicidad.
+
+【Expresión y emoción】
+Una sonrisa natural con los ojos entrecerrados por la satisfacción del delicioso sabor del pudín. Las cejas y mejillas relajadas, con las comisuras de los labios suavemente elevadas. Una expresión cercana y afectuosa, como si dijera «Esto está delicioso» a su pareja. Sin una risa exagerada ni una sonrisa forzada, priorizando la emoción espontánea capturada en un instante cotidiano.
+
+【Composición y cámara】
+Composición vertical 4:5 adecuada para publicaciones de X. Plano de cuerpo entero (full body) que abarca con holgura desde la parte superior de la cabeza hasta los pies descalzos. Distancia que permite apreciar con claridad el cuerpo sentado, las piernas hacia el lado, los pies y las manos que sostienen el pudín. La cámara está situada aproximadamente a la altura del pecho o los hombros de la persona sentada, con una toma en ligero ángulo diagonal.
+Distancia focal natural estándar a teleobjetivo medio, evitando deformaciones extremas de gran angular. El sujeto se ubica ligeramente ladeado respecto al centro, mostrando la mesa baja y el jardín al otro lado para brindar la amplitud espacial típica de una habitación tradicional. El fondo tiene un suave desenfoque que permite reconocer el tatami, el shoji y el jardín.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la luz natural de la tarde que entra por el shoji y el ventanal hacia el jardín. Ilumina suavemente un lado del rostro y el cuerpo de la mujer, mientras que el otro lado se compensa cálidamente con el reflejo del tatami y la madera. Sombras de bordes suaves que revelan de forma natural el volumen de la piel y la ropa.
+Textura detallada y rubor natural en la piel; mechones individuales y cabellos sueltos definidos; encaje con bordados sutiles y grosor de tela perceptible. Textura de fibra seca del tatami, vetas de la madera en la mesa, reflejos en el recipiente de vidrio y la textura cremosa del pudín representadas minuciosamente. Armonía entre el lavanda pálido, el beige del tatami, el verde del jardín y el color caramelo del pudín, creando una atmósfera vespertina cargada de calma y dulzura.
+
+【Calidad y elementos excluidos】
+Alta resolución, priorizando anatomía humana creíble, materiales, iluminación y perspectiva que luzcan como si hubieran sido capturados por una cámara real. Excluir personas con apariencia menor de edad, rasgos faciales demasiado infantiles, anatomía antinatural, extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones anómalas, confusión entre manos izquierda y derecha, ropa rota o con fallas, ropa fusionada con la piel y desnudez involuntaria.
+El busto debe mantener un volumen generoso y natural, sin gigantismo deforme, rigidez de esferas, realce excesivo o formas que desafíen la gravedad. Evitar distorsiones extremas de gran angular, fondos irreales, suavizado de piel excesivo, desenfoques exagerados, texto, logotipos, marcas de agua y elementos de interfaz de usuario.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -107,20 +143,50 @@ Traducción en curso
 
 <a name="prompt-2101439698120155531"></a>
 
-### Traducción en curso
+### Prompt fotorrealista que retrata a una mujer japonesa en lencería en una playa al atardecer, esquivando una ola con una paleta de helado rosa y sonriendo.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2101439698120155531)
 
 Fotografía · Personaje · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt fotorrealista que retrata a una mujer japonesa en lencería en una playa al atardecer, esquivando una ola con una paleta de helado rosa y sonriendo.
 
 <img src="images/2101439698120155531-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟 Orilla al atardecer | Helado rosa y una radiante sonrisa de verano 🌟
+
+【Tema y estilo artístico】
+Representa a una mujer japonesa claramente adulta en una playa tranquila mientras cae el sol, esquivando una pequeña ola que se acerca mientras disfruta de una paleta de hielo. Una fotografía de moda estilo libro fotográfico fotorrealista que captura un momento natural y espontáneo, como si su pareja le hubiera tomado una foto desprevenida durante un viaje de verano. Más que una sesión de modelaje sobreproducida, se trata de una expresión cercana a una instantánea natural que conserva la sensación de libertad junto al mar, una ligera sorpresa y una distancia íntima. Manteniendo la elegancia y la dulzura, la foto debe permitir sentir no solo a la persona, sino también el mar al atardecer, las olas y la atmósfera de la arena como una sola historia.
+
+【Lugar, fondo y ambientación】
+La orilla de una costa tranquila con poca gente. En primer plano, arena fina y seca; en el plano medio, pequeñas olas blancas que llegan a sus pies y el reflejo de la arena mojada; a lo lejos, el horizonte y una silueta tenue de un pequeño cabo o rocas. Las estructuras artificiales no deben destacar, priorizando la serenidad propia de una costa natural. En la arena húmeda se reflejan suavemente los tonos cálidos del cielo vespertino, dejando leves marcas de la marea al retirarse y pisadas naturales. El fondo debe tener un desenfoque sutil para no restar protagonismo a la mujer, manteniendo la profundidad suficiente para reconocer al instante que la foto fue tomada junto al mar.
+
+【Estación, hora y clima】
+Atardecer entre pleno verano y finales de verano. La hora dorada, cuando el sol comienza a acercarse al horizonte y el intenso calor del mediodía se ha suavizado. Cielo despejado en su mayor parte, con apenas algunas nubes delgadas flotando cerca del horizonte. Una brisa suave sopla desde el mar, haciendo oscilar ligeramente las puntas y los mechones sueltos del cabello. Las olas son mansas, sin sensación de tormenta, creando una atmósfera cálida y ligera, como pasear por la playa al final de un día de verano.
+
+【Características del personaje】
+Mujer japonesa claramente adulta de 23 años. Rostro de facciones suaves y armoniosas, ojos oscuros ligeramente grandes y expresivos, cejas naturales y labios suaves con tono sonrosado natural. Cabello castaño oscuro, a la altura de los hombros o un poco más largo, con ondas naturales, y varios mechones sueltos moviéndose alrededor del rostro por la brisa marina. Piel de tono ocre claro que deja ver poros, sombras sutiles y una complexión saludable. Hombros y extremidades delicados, cintura esbelta combinada con curvas femeninas en una figura curvilínea y natural. El busto es notablemente generoso y voluminoso, pero con una caída suave y tridimensional adaptada a la postura y la gravedad, manteniendo el equilibrio con el resto del cuerpo. Caderas con curvas redondeadas que se conectan de forma natural desde la cintura.
+
+【Vestuario y accesorios】
+Conjunto de sujetador y bragas en tono rosa pálido, evocador de los diseños refinados de Wacoal. Confeccionado con bordados florales sutiles y encaje delicado, con forro opaco en las copas y las partes clave de la prenda inferior para que la piel no se transparente. Tamaño realista donde las copas y los tirantes sujetan el busto generoso cómodamente, sin telas excesivamente tensadas ni que se claven en el cuerpo. Las bragas se ajustan con naturalidad al contorno de la cadera. Sin accesorios llamativos; una vestimenta estival sencilla, descalza sobre la arena.
+
+【Pose, movimiento y mirada】
+La mujer está de pie en la orilla, en el momento exacto en que una pequeña ola se acerca a sus pies desde el lado del mar. Apoya su peso sobre la pierna situada en la arena seca, mientras levanta ligeramente la otra pierna hacia atrás o a un lado para esquivar la ola. Su cintura y hombros conservan una torsión natural propia de una acción en curso. En una mano sostiene una paleta de hielo rosa que empieza a derretirse ligeramente, deteniéndola un poco apartada de los labios tras haber dado un mordisco. Con la otra mano hace un ligero gesto hacia un lado para mantener el equilibrio. La parte superior del cuerpo se orienta con naturalidad hacia la cámara, donde está su pareja, y su mirada regresa al objetivo. Evitar arquear la espalda en exceso o torsiones corporales forzadas.
+
+【Expresión y emoción】
+Una expresión de leve sorpresa por haber esquivado la ola por muy poco, seguida de una risa espontánea. Levanta ligeramente las cejas como diciendo a su pareja «¿viste eso?», con ojos brillantes y relajados. Sonrisa natural, no exagerada, sincera y compartida tanto en las mejillas como en la mirada. Para que el acto de comer el helado y la sonrisa no compitan, se representa el momento en que el helado ya se ha apartado de la boca. Una expresión en la que conviven la cercanía, la ingenuidad y la serenidad de una mujer adulta.
+
+【Composición y cámara】
+Formato vertical 4:5 adecuado para publicaciones en X. Composición de cuerpo entero que abarca completamente desde la coronilla hasta la punta de los pies descalzos, dejando un margen adecuado arriba y abajo. Sin recortar en exceso a la persona, manteniendo una distancia de disparo suficiente para apreciar la orilla y el mar al atardecer. Cámara a una altura natural a nivel de cintura o pecho de la mujer, disparando ligeramente en ángulo hacia la orilla. Distancia focal equivalente a 50-70 mm (estándar a teleobjetivo medio), evitando distorsiones de gran angular que hagan ver desproporcionadas las piernas o el busto. Profundidad de campo que mantenga enfocada a la mujer y permita distinguir la línea costera del fondo.
+
+【Luz, color, textura y atmósfera】
+Fuente de luz principal: sol poniente bajo, ubicado detrás o en diagonal detrás del encuadre. Genera una luz de contorno (rim light) dorada y suave sobre el cabello y los hombros, mientras que el reflejo natural de la superficie marina y la arena clara ilumina suavemente el rostro para mostrar claramente la expresión. Sombras suaves con un contraste apacible propio del atardecer. Piel con textura sutil y rubor natural; cabello con definición de hebras individuales y mechones al viento. Representación diferenciada de las texturas: encaje y bordados de la lencería, brillo de la arena húmeda, espuma de las olas y reflejos del agua. Armonía entre rosa pálido, azul marino, ámbar de la arena y naranja del cielo vespertino, creando una atmósfera fresca con una cálida sensación de intimidad.
+
+【Calidad y elementos excluidos】
+Fotografía fotorrealista de alta resolución con anatomía humana, prendas, dedos de manos y pies, olas, arena y dirección de la luz perfectamente naturales. Persona inequívocamente adulta; evitar rasgos faciales o complexión que parezcan de menor de edad. Evitar extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones antinaturales, confusión entre extremidades izquierdas y derechas, prendas rotas o fusionadas con la piel, desnudez o exposición no intencionada, distorsión angular extrema y retoques excesivos de piel. El busto debe mantener un volumen generoso y natural, sin hipertrofia anómala, formas esféricas rígidas, realces excesivos ni desafiar la gravedad. No incluir texto, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)

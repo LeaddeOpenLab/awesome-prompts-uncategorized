@@ -85,20 +85,56 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2101438280239861785"></a>
 
-### Übersetzung läuft
+### Hochwertiger, fotorealistischer Porträt-Prompt einer japanischen Frau in zartem Lavendel-Dessous, die an einem Nachmittag im Ryokan-Zimmer neben einem Holztisch lächelnd Pudding genießt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2101438280239861785)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Hochwertiger, fotorealistischer Porträt-Prompt einer japanischen Frau in zartem Lavendel-Dessous, die an einem Nachmittag im Ryokan-Zimmer neben einem Holztisch lächelnd Pudding genießt.
 
 <img src="images/2101438280239861785-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Nachmittag im Ryokan｜Lavendelspitze und der süße Moment mit Pudding🌟
+
+【Thema & Stil】
+Eine eindeutig erwachsene japanische Frau an einem Nachmittag im traditionellen Zimmer (Washitsu) eines Ryokan, die puddingessend ihrem Partner ein glückliches Lächeln schenkt. Fotorealistische, hochwertige fotografische Darstellung, stilistisch angesiedelt zwischen Bildband und natürlicher Lifestyle-Fotografie. Obwohl sie Dessous trägt, soll das Bild nicht übermäßig sinnlich wirken; im Mittelpunkt stehen Intimität, Lieblichkeit und Eleganz, als verbringe man gemeinsam einen ruhigen Nachmittag auf Reisen.
+
+【Ort, Hintergrund & Welt】
+Ein ruhiges Washitsu in einem Ryokan mit Blick auf den Garten. Im Raum mit Tatami-Böden sind ein niedriger Holztisch (Zataku), Sitzkissen (Zabuton), Shoji-Schiebetüren und eine Tokonoma-Nische harmonisch angeordnet. Der Holztisch ist an den Bildrand gerückt, damit er weder den Körper noch die Kleidung der Person verdeckt. Hinter den Shoji-Türen sind das helle Grün des Gartens, Sträucher und ein Teil einer Steinlaterne sanft erkennbar, wodurch eine Bildkomposition mit natürlicher Tiefenwirkung vom Innenraum in den Garten entsteht. Das Glasdessertschälchen mit Pudding, eine Yunomi-Teetasse und zarte Blumen setzen dezente Akzente alltäglicher Behaglichkeit.
+
+【Jahreszeit, Zeit & Wetter】
+Ein milder, heiterer Nachmittag, der an den Übergang vom Frühling zum Frühsommer erinnert. Kein grelles, direktes Sonnenlicht, sondern ein helles, sanftes natürliches Licht, das durch das Shoji-Papier in den Raum fällt. Im Garten ist das Sonnenlicht auf den Pflanzen spürbar, während der Raum eine ruhige Helligkeit bewahrt. Es weht kaum Wind; die Szene vermittelt das ruhige Verstreichen der Zeit bei einer erholsamen Pause im Ryokan-Zimmer.
+
+【Charakterdetails】
+Eine etwa 25 Jahre alte, eindeutig erwachsene japanische Frau. Sanfte, ebenmäßige Gesichtszüge, etwas größere dunkle Augen, natürliche Augenbrauen und Lippen mit gesunder Farbe. Dunkelbraunes, schulterlanges Haar mit natürlichen Wellen und feinen Strähnen um das Gesicht. Die Haut ist hell-ockerfarben mit realistischer Textur, sanften Schattierungen und natürlicher Durchblutung.
+Die Figur ist natürlich kurvig und glamourös, mit zarten Schultern und Gliedmaßen, einer schlanken Taille und harmonischen weiblichen Kurven. Die Oberweite ist deutlich füllig und üppig, jedoch ohne harte Kugelform oder übertriebenes Push-up, mit einem weichen dreidimensionalen Fall, der der sitzenden Haltung und der Schwerkraft folgt. Sanft gerundete Hüften, die fließend von der Taille ausgehen.
+
+【Kleidung & Accessoires】
+Ein Dessous-Set aus BH und Höschen in zartem Lavendelton. Ein edles Design im Stil von Wacoal, verziert mit Stickereien kleiner Blüten in Weiß und zartem Violett, feiner Spitze und filigranen Säumen. Die Cups haben ein realistisches Futter und feine Nähte, die die üppige Brust natürlich umschließen, mit perfekter Passform, ohne dass der Stoff übermäßig spannt oder absteht.
+Das Höschen ist farblich und stilistisch mit passender Spitze und Blütenstickereien abgestimmt und schmiegt sich natürlich an die Hüfte. Grundsätzlich kein Schmuck, um die schlichte und entspannte Atmosphäre des Ryokans zu betonen. Barfuß, ohne prunkvollen Zierrat.
+
+【Pose, Bewegung & Blick】
+Die Frau sitzt auf einem Zabuton neben dem Tisch, die Hüfte stabil und beide Beine natürlich zur Seite angewinkelt. Die Knie sind sanft gebeugt, die Füße liegen entspannt auf den Tatami-Matten. Der Oberkörper ist leicht zur Kamera gedreht, der Rücken aufrecht, aber entspannt.
+In einer Hand hält sie knapp unter Brusthöhe ein kleines Glasschälchen mit Pudding, in der anderen einen kleinen Löffel. Der Moment fängt ein, wie sie gerade einen Bissen beendet hat und den Löffel wieder zum Schälchen führt. Ihr Blick ist nach vorne auf ihren Partner gerichtet – nicht nur auf das Essen –, um diesen glücklichen Moment zu teilen.
+
+【Ausdruck & Emotion】
+Ein ungezwungenes, herzerwärmendes Lächeln mit sanft zusammengekniffenen Augen, erfreut über den köstlichen Pudding. Augenbrauen und Wangen sind entspannt, die Mundwinkel leicht nach oben gezogen. Ein vertrauter, inniger Ausdruck, als würde sie ihrem Partner sagen: „Das ist so lecker!“. Kein lautes Lachen oder aufgesetztes Grinsen, sondern ein echtes, im Alltag festgehaltenes Gefühl.
+
+【Komposition & Kamera】
+4:5-Hochformatkomposition, optimiert für X-Beiträge. Ganzkörperaufnahme mit ausreichend Spielraum vom Scheitel bis zu den nackten Zehen. Eine Distanz, die den sitzenden Körper, die zur Seite gelegten Beine, die Füße und die Hand mit dem Pudding gut erkennbar macht. Die Kamera befindet sich etwa auf Brust- bis Schulterhöhe der sitzenden Person und nimmt die Szene leicht schräg von vorne auf.
+Natürliche Brennweite von Standard bis leichtem Telebereich, um extreme Weitwinkelverzerrungen zu vermeiden. Die Person ist leicht außermittig platziert, während auf der anderen Seite der Tisch und der Garten sichtbar sind, um die räumliche Tiefe des traditionellen Zimmers hervorzuheben. Der Hintergrund ist leicht unscharf, lässt aber Tatami, Shoji und den Garten noch gut erkennen.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Die Hauptlichtquelle ist das natürliche Nachmittagslicht, das durch die Shoji-Türen und die Öffnung zum Garten einfällt. Es beleuchtet sanft eine Seite von Gesicht und Körper, während die andere Seite durch weiche Reflexionen von Tatami und Holz ausgeleuchtet wird. Weiche Schattenübergänge, die der Haut und der Kleidung eine natürliche plastische Tiefe verleihen.
+Detaillierte Texturen und natürliche Rötung auf der Haut, klar definierte Haarsträhnen mit feinen Härchen, zarte Stickereien und spürbare Stoffdicke der Spitze. Die trockene Faserstruktur der Tatami-Matten, die Holzmaserung des Tisches, die Reflexionen auf dem Glas und die cremige Textur des Puddings sind sorgfältig herausgearbeitet. Sanftes Lavendel, das Beige des Tatami, das Gartengrün und das Karamellbraun des Puddings harmonieren miteinander und schaffen eine friedliche, süße Nachmittagsatmosphäre.
+
+【Qualität & Ausschlusskriterien】
+Hohe Auflösung mit Fokus auf eine realistische Anatomie, Materialien, Beleuchtung und Perspektive wie bei einer echten Kameraaufnahme. Zu vermeiden sind minderjährig wirkende Personen, kindliche Gesichter, unnatürliche Körperformen, zusätzliche Gliedmaßen oder Finger, fehlende oder verschmolzene Finger, anatomisch unkorrekte Gelenke, Verwechslung von linker und rechter Hand, fehlerhafte Kleidung, mit der Haut verschmolzene Kleidung und unbeabsichtigte Nacktheit.
+Die üppige Brust soll ein natürliches Volumen behalten, ohne monströse Proportionen, starre Kugelformen, übertriebenes Push-up oder Formen, die der Schwerkraft trotzen. Keine extremen Weitwinkelverzerrungen, künstlichen Hintergründe, übermäßige Hautglättung, übertriebene Unschärfe, Texte, Logos, Wasserzeichen oder UI-Elemente.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -107,20 +143,50 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2101439698120155531"></a>
 
-### Übersetzung läuft
+### Ein fotorealistischer Prompt, der eine japanische Frau in Lingerie zeigt, die am abendlichen Strand mit einem rosa Eis am Stiel lächelnd einer Welle ausweicht.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2101439698120155531)
 
 Fotografie · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein fotorealistischer Prompt, der eine japanische Frau in Lingerie zeigt, die am abendlichen Strand mit einem rosa Eis am Stiel lächelnd einer Welle ausweicht.
 
 <img src="images/2101439698120155531-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟 Am Ufersaum im Abendrot | Rosafarbenes Eis und ein beschwingtes Sommerlächeln 🌟
+
+【Thema & Bildstil】
+Darstellung einer eindeutig erwachsenen japanischen Frau an einem ruhigen Sandstrand bei sinkender Abendsonne, die einem heranspülenden Wellenausläufer ausweicht, während sie ein Eis am Stiel genießt. Ein fotorealistisches Modefoto im Bildband-Stil, das einen natürlichen Moment einfängt, als hätte ihr Partner sie während einer Sommerreise spontan fotografiert. Weniger wie ein inszeniertes Gravure-Shooting, sondern eher wie ein ungestellter Schnappschuss, der die maritime Weite, eine leichte Überraschung und vertraute Nähe bewahrt. Unter Beibehaltung von Eleganz und Liebreiz soll das Bild nicht nur die Person, sondern auch das abendliche Meer, die Wellen und die Atmosphäre des Sandstrands als zusammenhängende Erzählung spürbar machen.
+
+【Ort, Hintergrund & Weltanschauung】
+Ufersaum eines ruhigen Strandes mit wenigen Menschen. Im Vordergrund feiner, trockener Sand; in der Mitte sanfte, weiße Wellen, die bis an ihre Füße schwappen, und der Glanz des nassen Sandes; in der Ferne sind der Horizont sowie eine kleine Landzunge oder Felsen schwach zu erkennen. Keine auffälligen menschengemachten Bauten, die natürliche Ruhe der Küste steht im Vordergrund. Der feuchte Sand reflektiert zart die warmen Farben des Abendhimmels und zeigt sanfte Spuren des ablaufenden Wassers sowie dezente Fußspuren. Der Hintergrund ist leicht weichgezeichnet, um das Motiv nicht zu stören, bewahrt jedoch genügend Tiefe, sodass die maritime Kulisse auf den ersten Blick erkennbar bleibt.
+
+【Jahreszeit, Tageszeit & Wetter】
+Abendstunde zwischen Hoch- und Spätsommer. Die goldene Stunde, wenn die Sonne sich dem Horizont nähert und die drückende Tageshitze spürbar nachgelassen hat. Grundsätzlich heiterer Himmel mit lediglich dünnen Wolkenbändern nahe dem Horizont. Eine sanfte Meeresbrise weht und bringt die Haarspitzen und einzelne Strähnen leicht in Bewegung. Die Wellen sind ruhig ohne Anzeichen von stürmischem Wetter; die Stimmung ist warm und leicht, wie bei einem Strandspaziergang am Ende eines Sommertages.
+
+【Charakter-Einstellungen】
+Eine eindeutig erwachsene, 23-jährige japanische Frau. Sanfte, ebenmäßige Gesichtszüge, leicht vergrößerte, ausdrucksstarke dunkle Augen, natürliche Brauen und zarte Lippen mit natürlicher Rötung. Dunkelbraunes, schulterlanges bis etwas längeres Haar mit natürlichen Wellen, einzelne Strähnen wehen durch den Seewind sanft ums Gesicht. Heller, ockerfarbener Hautton mit feiner Porigkeit, dezenten Schatten und natürlicher Vitalität. Zierliche Schultern und Gliedmaßen, eine schlanke Taille gepaart mit weiblichen Rundungen in einer natürlich kurvigen Figur. Die Brust ist deutlich groß und füllig geformt, passt sich jedoch Haltung und Schwerkraft mit weicher Dreidimensionalität an und steht im Einklang mit dem gesamten Körper. Hüften mit weicher, natürlicher Rundung ausgehend von der Taille.
+
+【Kleidung & Accessoires】
+Ein Set aus BH und Höschen in zartem Rosa, angelehnt an die eleganten Designs von Wacoal. Versehen mit feinen kleinen Blumenstickereien und zarter Spitze; die Cups sowie die wesentlichen Partien des Höschens sind mit blickdichtem Futter versehen, sodass die Haut nicht durchscheint. Realistische Passform, bei der Körbchen und Träger die üppige Brust mühelos stützen, ohne dass der Stoff übermäßig spannt oder einschnürt. Das Höschen schmiegt sich natürlich an die Hüftpartie an. Keine auffälligen Accessoires; ein schlichter sommerlicher Look, barfuß im Sand stehend.
+
+【Pose, Bewegung & Blick】
+Die Frau steht am Ufersaum in jenem Augenblick, als eine kleine Welle vom Meer her ihre Füße erreicht. Ihr Gewicht ruht auf dem Bein im trockenen Sand, während sie das andere Bein leicht nach hinten oder zur Seite anhebt, um der Welle auszuweichen. Taille und Schultern weisen eine natürliche, bewegungstypische Drehung auf. In einer Hand hält sie ein leicht antauendes, rosafarbenes Eis am Stiel, das sie nach einem Bissen etwas vom Mund entfernt hält. Die andere Hand ist zur Seite leicht geöffnet, um das Gleichgewicht zu halten. Der Oberkörper wendet sich ganz natürlich der Kamera zu, wo ihr Partner steht, und ihr Blick richtet sich ebenfalls wieder auf die Linse. Ein übertriebenes Hohlkreuz oder unnatürliche Verrenkungen sind zu vermeiden.
+
+【Gesichtsausdruck & Emotion】
+Ein Ausdruck leichter Überraschung, da sie der Welle gerade noch rechtzeitig ausgewichen ist, gefolgt von einem spontanen Kichern. Leicht gehobene Augenbrauen wie mit der Frage „Hast du das gesehen?“, die Augen leuchtend und entspannt. Ein natürliches, unaufdringliches Lächeln, das nicht aufgesetzt wirkt, sondern Wangen und Augenpartie lebendig einbezieht. Um die Bewegung des Eisschleckens nicht mit dem Lächeln kollidieren zu lassen, ist das Eis bereits vom Mund gelöst. Ein Ausdruck, der Vertrautheit, Unbeschwertheit und die Reife einer erwachsenen Frau zugleich transportiert.
+
+【Komposition & Kamera】
+Vertikales 4:5-Format für X-Posts. Ganzkörper-Komposition, die von Kopf bis zu den nackten Zehen vollständig abbildet, mit angemessenem Freiraum über dem Kopf und unter den Füßen. Kein zu enger Zuschnitt, sondern ein Abstand, der den Ufersaum und das abendliche Meer gut sichtbar lässt. Kamera auf Augenhöhe von Hüfte bis Brust der Person, leicht schräg zum Wellensaum ausgerichtet. Natürlicher Bildwinkel entsprechend 50–70 mm (Standard bis leichtes Tele), um Weitwinkelverzerrungen zu vermeiden, die Beine oder Brust unproportional vergrößern würden. Schärfentiefe so gewählt, dass die Person fokussiert bleibt, die Küstenlinie im Hintergrund jedoch erkennbar ist.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Hauptlichtquelle ist die tiefstehende Abendsonne hinter oder schräg hinter dem Motiv. Sie erzeugt ein weiches, goldenes Streiflicht (Rim Light) an Haaren und Schultern, während sanfte Reflexionen von Wasseroberfläche und hellem Sand das Gesicht aufhellen, um den Gesichtsausdruck klar zur Geltung zu bringen. Weiche Schatten mit abendtypischem, sanftem Kontrast. Haut mit feinen Schattierungen und natürlicher Durchblutung; Haar mit sichtbaren Einzelsträhnen und Verwehungen. Differenzierte Materialdarstellung von Spitzen und Stickereien der Lingerie, dem Glanz des feuchten Sandes, schäumenden Wellen und Wasserspiegelungen. Harmonischer Dreiklang aus Zartrosa, Meeresblau, Bernsteintönen des Sandes und dem Orange des Abendhimmels für eine frische, zugleich intime und warme Stimmung.
+
+【Qualität & Ausschlusskriterien】
+Hochaufgelöstes, fotorealistisches Bild mit anatomisch korrekter Gestalt, Kleidung, Fingern, Zehen, Wellen, Sand und realistischer Lichtführung. Eindeutig erwachsene Person; keine minderjährig wirkenden Gesichtszüge oder kindlichen Proportionen. Keine überzähligen, fehlenden oder verschmolzenen Gliedmaßen und Finger, keine unnatürlichen Gelenkstellungen, keine Verwechslung von links und rechts, keine defekte Kleidung oder Verschmelzung von Stoff und Körper, keine unbeabsichtigte Nacktheit, keine extremen Weitwinkelverzerrungen und kein übermäßiger Weichzeichner auf der Haut. Die Brust behält ihr volles, natürliches Volumen ohne abnormale Vergrößerung, feste Kugelformen, übertriebenes Push-up oder Schwerelosigkeit. Keinerlei Text, Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -85,20 +85,56 @@ Traduction en cours
 
 <a name="prompt-2101438280239861785"></a>
 
-### Traduction en cours
+### Prompt de portrait photoréaliste de haute qualité d'une femme japonaise dans une chambre de ryokan l'après-midi, vêtue d'une lingerie lavande pâle et souriant près d'une table basse en dégustant un flan.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2101438280239861785)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait photoréaliste de haute qualité d'une femme japonaise dans une chambre de ryokan l'après-midi, vêtue d'une lingerie lavande pâle et souriant près d'une table basse en dégustant un flan.
 
 <img src="images/2101438280239861785-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Après-midi au ryokan｜Dentelle lavande et doux moment autour d'un flan🌟
+
+【Sujet et style】
+Représenter une femme japonaise clairement adulte dans une pièce traditionnelle japonaise (washitsu) d'un ryokan l'après-midi, adressant un sourire radieux à son partenaire tout en dégustant un flan (purin). Style photographique photoréaliste de haute qualité, à mi-chemin entre un recueil photo artistique et une photo de style de vie naturelle. Bien qu'elle soit en lingerie, l'image ne doit pas être excessivement suggestive ; elle met en valeur l'intimité, le charme et l'élégance d'un après-midi paisible partagé en voyage.
+
+【Lieu, arrière-plan et univers】
+Une paisible pièce washitsu de ryokan donnant sur un jardin. Dans cet espace recouvert de tatamis, une table basse en bois (zataku), des coussins (zabuton), des cloisons shoji et un tokonoma sont disposés avec naturel. La table basse est décalée vers le bord du cadre pour ne masquer ni le corps ni la tenue du sujet. Derrière les cloisons shoji, la verdure lumineuse du jardin, des arbustes et une partie d'une lanterne en pierre apparaissent avec douceur, créant une composition où la profondeur s'étire de l'intérieur vers le jardin. Le ramequin en verre contenant le flan, une tasse yunomi et de petites fleurs apportent une discrète touche de vie quotidienne.
+
+【Saison, heure et météo】
+Un après-midi au temps doux et clair, évoquant la transition du printemps au début de l'été. Sans soleil direct aveuglant, une lumière naturelle douce et diffuse traverse le shoji pour baigner la pièce. Les rayons illuminent la verdure du jardin, mais l'intérieur conserve une clarté feutrée et apaisante. Presque aucun souffle de vent ; on ressent l'écoulement tranquille du temps lors d'un moment de détente dans la chambre du ryokan.
+
+【Détails du personnage】
+Une femme japonaise d'environ 25 ans, indéniablement adulte. Traits fins et harmonieux, yeux légèrement grands au regard sombre, sourcils naturels et lèvres délicatement rosées. Cheveux châtain foncé descendant jusqu'aux épaules avec des ondulations naturelles et de fines mèches rebelles encadrant le visage. Teint ocre clair à la texture réaliste, révélant des ombres subtiles et un teint frais et vivant.
+Silhouette naturellement généreuse et galbée, en harmonie avec des épaules et des membres fins ainsi qu'une taille marquée. Poitrine nettement volumineuse et généreuse, sans aspect sphérique rigide ni effet pigeonnant excessif, adoptant un galbe souple dicté par la posture assise et la gravité. Hanches douces et arrondies s'inscrivant naturellement dans la continuité de la taille.
+
+【Tenue et accessoires】
+Un ensemble soutien-gorge et culotte en dentelle lavande pâle. Design raffiné rappelant les créations haut de gamme de style Wacoal, orné de broderies de fleurettes blanches et parme, d'une dentelle délicate et de finitions soignées. Les bonnets disposent d'une doublure et de coutures réalistes, épousant parfaitement la poitrine voluptueuse avec un ajustement impeccable, sans tension excessive du tissu ni bâillement.
+La culotte est assortie avec la même dentelle et les mêmes broderies florales, épousant harmonieusement le bassin. Pratiquement aucun bijou afin de privilégier l'atmosphère simple et décontractée du ryokan. Pieds nus, sans ornements ostentatoires.
+
+【Pose, mouvement et regard】
+La femme est assise sur un zabuton à côté de la table basse, le bassin bien calé, les deux jambes ramenées et repliées naturellement sur le côté. Genoux doucement fléchis, pieds détendus reposant sur le tatami. Le haut du corps est légèrement tourné vers l'appareil photo, le dos droit mais sans raideur.
+D'une main, elle tient le petit pot en verre contenant le flan un peu en dessous de la poitrine, et de l'autre, elle tient une petite cuillère. C'est l'instant où, venant de savourer une bouchée, elle ramène la cuillère vers le pot. Son regard est tourné vers son partenaire en face d'elle, ne regardant pas seulement la nourriture, mais partageant un moment de joie complice.
+
+【Expression et émotion】
+Un sourire naturel les yeux plissés par le délice du flan. Les sourcils et les joues sont détendus, les commissures des lèvres doucement relevées. Une expression tendre et intime, comme si elle disait à son partenaire : « C'est tellement bon ». Pas de rire forcé ni de sourire figé, privilégiant une émotion spontanée saisie sur le vif du quotidien.
+
+【Composition et cadrage】
+Composition verticale 4:5 adaptée aux publications X. Prise de vue en pied (full body) englobant aisément le sujet du sommet de la tête jusqu'aux pieds nus. Cadrage à distance permettant de distinguer nettement le corps assis, les jambes pliées sur le côté, les pieds et les mains tenant le flan. L'appareil est placé à hauteur de la poitrine ou des épaules de la femme assise, sous un angle légèrement oblique.
+Focale naturelle comprise entre standard et moyen téléobjectif, évitant les déformations excessives du grand-angle. Le personnage est légèrement décentré pour laisser apparaître la table basse et le jardin de l'autre côté, donnant une sensation d'espace propre aux pièces traditionnelles. L'arrière-plan présente un léger flou qui laisse néanmoins deviner les tatamis, les shoji et le jardin.
+
+【Lumière, couleur, texture et ambiance】
+La source lumineuse principale est la lumière naturelle de l'après-midi filtrant à travers le shoji et l'ouverture sur le jardin. Elle éclaire doucement un côté du visage et du corps, tandis que l'autre côté est subtilement adouci par la réflexion des tatamis et du bois. Ombres aux transitions douces révélant fidèlement le relief de la peau et du vêtement.
+Texture de peau détaillée et teint naturellement rosé ; mèches de cheveux distinctes et duvet délicat ; dentelle aux broderies subtiles et épaisseur de tissu réaliste. Le tissage sec des tatamis, le veinage du bois de la table, les reflets sur le verre et la texture onctueuse du flan sont soigneusement restitués. Harmonie entre la lavande pâle, le beige des tatamis, le vert du jardin et la teinte caramel du flan, créant une ambiance d'après-midi sereine et suave.
+
+【Qualité et éléments exclus】
+Haute résolution, privilégiant une anatomie humaine, des matières, une lumière et une perspective réalistes, comparables à celles d'un véritable appareil photo. Éviter les personnes d'apparence mineure, les visages trop enfantins, les anatomies difformes, les membres ou doigts supernuméraires, les doigts manquants ou fusionnés, les articulations anormales, l'inversion des mains gauche et droite, les défauts vestimentaires, les vêtements fusionnés avec la peau et la nudité accidentelle.
+La poitrine doit conserver un volume naturel et généreux, sans proportions monstrueuses, sans forme sphérique figée, sans effet pigeonnant excessif ni forme défiant la gravité. Pas de distorsion grand-angle extrême, d'arrière-plans artificiels, de lissage excessif de la peau, de flou exagéré, de texte, de logo, de filigrane ni d'éléments d'interface utilisateur.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -107,20 +143,50 @@ Traduction en cours
 
 <a name="prompt-2101439698120155531"></a>
 
-### Traduction en cours
+### Prompt photoréaliste mettant en scène une femme japonaise en lingerie sur une plage au crépuscule, évitant une vague en souriant avec une glace à l'eau rose à la main.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2101439698120155531)
 
 Photographie · Personnage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt photoréaliste mettant en scène une femme japonaise en lingerie sur une plage au crépuscule, évitant une vague en souriant avec une glace à l'eau rose à la main.
 
 <img src="images/2101439698120155531-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟 Au bord de l'eau au crépuscule | Glace rose et sourire éclatant d'été 🌟
+
+【Thème et style artistique】
+Représentation d'une femme japonaise clairement adulte sur une plage paisible au soleil couchant, évitant une petite vague qui arrive tout en dégustant une glace à l'eau. Une photo de mode photoréaliste de style livre photo, capturant un instant naturel comme si son amoureux l'avait prise sur le vif lors d'un voyage estival. Plus proche d'un cliché spontané conservant la sensation de liberté du bord de mer, une légère surprise et une douce intimité que d'une séance photo trop posée. Tout en préservant raffinement et charme, la photo doit faire ressentir non seulement la personne, mais aussi la mer au crépuscule, les vagues et l'atmosphère de la plage comme un seul récit.
+
+【Lieu, arrière-plan et univers】
+Le bord de l'eau sur une côte paisible et peu fréquentée. Au premier plan, du sable fin et sec ; au plan moyen, de petites vagues blanches venant lécher ses pieds et les reflets du sable mouillé ; à l'arrière-plan, la ligne d'horizon ainsi qu'un cap ou des rochers subtilement visibles au loin. Aucun élément artificiel marquant, en privilégiant la sérénité naturelle du littoral. Sur le sable humide, les teintes chaudes du ciel du soir se reflètent avec délicatesse, laissant de légères marques du reflux et quelques empreintes de pas naturelles. L'arrière-plan présente un léger flou pour ne pas gêner le sujet, tout en conservant une profondeur suffisante pour reconnaître immédiatement une scène de bord de mer.
+
+【Saison, heure et météo】
+Soirée entre le plein été et la fin de l'été. L'heure dorée, quand le soleil commence à descendre vers l'horizon et que la lourde chaleur diurne s'estompe doucement. Ciel globalement dégagé, avec seulement quelques légers voiles nuageux près de l'horizon. Une brise marine légère souffle, faisant onduler les pointes et quelques mèches folles de ses cheveux. Les vagues sont calmes et sans tempête, créant une ambiance chaleureuse et légère, semblable à une promenade sur la plage à la fin d'une journée d'été.
+
+【Profil du personnage】
+Femme japonaise clairement adulte de 23 ans. Traits du visage doux et équilibrés, yeux sombres légèrement grands et expressifs, sourcils naturels, lèvres douces et bien teintées. Cheveux châtain foncé descendant jusqu'aux épaules ou un peu plus bas avec des ondulations naturelles, quelques mèches balayées autour du visage par la brise marine. Teint ocre clair révélant le grain de peau, des ombres délicates et un éclat sanguin naturel. Épaules et membres délicats, taille fine harmonisée avec des courbes féminines pour une silhouette galbée et naturelle. Poitrine généreuse et volumineuse, mais dotée d'un relief souple et tridimensionnel qui épouse la posture et la gravité, en équilibre avec l'ensemble du corps. Hanches aux courbes douces reliées naturellement depuis la taille.
+
+【Tenue et accessoires】
+Ensemble soutien-gorge et culotte rose pâle rappelant le raffinement des créations Wacoal. Agrémenté de fines broderies florales et de dentelle délicate, avec une doublure opaque sur les bonnets et les parties principales de la culotte pour éviter toute transparence sur la peau. Taille réaliste où les bonnets et les bretelles maintiennent confortablement la poitrine généreuse sans tension excessive ni coupure dans la peau. La culotte épouse naturellement les hanches. Aucun bijou ostentatoire ; une tenue d'été sobre, pieds nus sur le sable.
+
+【Pose, mouvement et regard】
+La femme se tient au bord de l'eau, à l'instant précis où une petite vaguelette s'approche de ses pieds côté mer. Son poids repose sur la jambe restée sur le sable sec, tandis qu'elle soulève légèrement l'autre jambe vers l'arrière ou sur le côté pour échapper à l'eau. Sa taille et ses épaules conservent une torsion naturelle propre au mouvement. D'une main, elle tient une glace à l'eau rose commençant à fondre légèrement, tenue un peu à l'écart des lèvres après en avoir pris une bouchée. L'autre main s'écarte doucement sur le côté pour garder l'équilibre. Le haut du corps s'oriente naturellement vers l'appareil photo où se trouve son amoureux, son regard se tournant vers l'objectif. Éviter une cambrure excessive ou des contorsions forcées.
+
+【Expression et émotion】
+Une expression mêlant une légère surprise d'avoir évité la vague de justesse et un rire spontané immédiat. Sourcils légèrement haussés comme pour lancer un complice « Tu as vu ça ? », regard pétillant et détendu. Sourire naturel sans excès, non forcé, illuminant les joues et les yeux. Afin que l'action de manger la glace n'interfère pas avec le sourire, la glace est représentée déjà éloignée de la bouche. Une expression dégageant à la fois proximité, innocence et l'élégance posée d'une femme adulte.
+
+【Composition et cadrage】
+Format vertical 4:5 adapté aux publications X. Cadrage en pied complet englobant du sommet de la tête jusqu'aux orteils nus, avec un espace équilibré au-dessus et en dessous. Sans plan trop serré, avec une distance de prise de vue suffisante pour bien apprécier le rivage et la mer au crépuscule. Appareil photo placé à hauteur de la taille ou de la poitrine du sujet, orienté légèrement en diagonale par rapport à la rive. Focale naturelle équivalente à 50-70 mm (standard à léger téléobjectif), évitant les distorsions grand-angle qui grossiraient exagérément les jambes ou la poitrine. Profondeur de champ gardant le sujet net tout en laissant la côte à l'arrière-plan parfaitement identifiable.
+
+【Lumière, couleur, texture et ambiance】
+Lumière principale venant d'un soleil couchant bas, placé derrière ou de trois-quarts arrière. Elle crée un doux liseré doré (rim light) sur la chevelure et les épaules, tandis que la réflexion naturelle de l'eau et du sable clair déborde doucement sur le visage pour bien éclairer son expression. Ombres douces avec un contraste paisible propre à la fin de journée. Peau au grain fin et aux teintes naturelles ; chevelure montrant les mèches détaillées et le vent dans les cheveux. Rendu tactile des textures : dentelle et broderie de la lingerie, éclat satiné du sable mouillé, écume des vagues et reflets aquatiques. Harmonie entre rose pâle, bleu de mer, nuances ambrées du sable et orange du crépuscule, pour une atmosphère fraîche teintée d'une douce intimité.
+
+【Qualité et éléments à exclure】
+Photographie photoréaliste haute résolution avec anatomie humaine, vêtements, doigts, orteils, vagues, sable et direction de la lumière parfaitement naturels. Personnage résolument adulte ; proscrire tout trait du visage ou morphologie d'apparence mineure. Pas de membres ou doigts supplémentaires, manquants ou fusionnés, pas d'articulations surnaturelles, pas d'inversion gauche/droite, pas de vêtements déchirés ou fusionnés avec le corps, pas de nudité involontaire, pas de distorsion grand-angle extrême ni de lissage excessif de la peau. La poitrine conserve un volume généreux et naturel sans hypertrophie anormale, forme sphérique rigide, effet push-up excessif ni défi à la gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)
