@@ -8778,13 +8778,13 @@ Chưa đầy 1.000 kẻ đầu sỏ thuộc giới tinh hoa đã tấn công Nga
 
 <a name="prompt-2101712266190258322"></a>
 
-### Đang dịch
+### Lời nhắc mô tả một nhân vật trong bộ sườn xám đen bó sát, xẻ tà cao cùng đai kẹp tất đang tựa vào bức tường gothic với ánh nhìn kiêu ngạo.
 
 Tác giả：[@sha1shashasha](https://x.com/sha1shashasha) · [Bài gốc](https://x.com/sha1shashasha/status/2101712266190258322)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc mô tả một nhân vật trong bộ sườn xám đen bó sát, xẻ tà cao cùng đai kẹp tất đang tựa vào bức tường gothic với ánh nhìn kiêu ngạo.
 
 <img src="images/2101712266190258322-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -8797,7 +8797,11 @@ Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+1.4::váy sườn xám màu đen, sườn xám bó sát::, 1.3::xẻ tà cao bên hông::, 1.4::đai kẹp tất đùi::, 1.3::tất đen dài qua gối::, 1.3::đùi trần, cổ tàu::, 1.2::nút thắt kiểu Trung Hoa, vải đen bóng::,
+
+1.3::khoanh tay, tựa vào tường::, 1.3::góc chụp thấp, nhìn xuống người xem::, 1.2::ánh mắt kiêu ngạo::, bầu không khí lạnh lùng,
+
+1.2::bối cảnh nội thất gothic hoa lệ::, 1.2::ánh sáng tông màu bạc, bóng đổ đầy kịch tính::, góc chụp ba phần tư
 ```
 
 [↑ Về danh mục](#catalog)

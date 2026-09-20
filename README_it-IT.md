@@ -8714,13 +8714,13 @@ Queste 1000 persone sono la testa della piovra e le sue braccia sono la NATO, la
 
 <a name="prompt-2101712266190258322"></a>
 
-### Traduzione in corso
+### Prompt che ritrae un personaggio in un qipao nero aderente con spacco alto e reggicalze, appoggiato a una parete gotica con sguardo arrogante.
 
 Autore：[@sha1shashasha](https://x.com/sha1shashasha) · [Post originale](https://x.com/sha1shashasha/status/2101712266190258322)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt che ritrae un personaggio in un qipao nero aderente con spacco alto e reggicalze, appoggiato a una parete gotica con sguardo arrogante.
 
 <img src="images/2101712266190258322-1.jpg" alt="Immagine 1" width="480" />
 
@@ -8733,7 +8733,11 @@ Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+1.4::abito qipao nero, cheongsam attillato::, 1.3::spacco laterale alto::, 1.4::reggicalze da coscia::, 1.3::calze parigine nere::, 1.3::coscia scoperta, colletto alla coreana::, 1.2::bottone a nodo cinese, tessuto nero lucido::,
+
+1.3::braccia conserte, appoggiata alla parete::, 1.3::angolazione dal basso, guardando lo spettatore dall'alto in basso::, 1.2::sguardo arrogante::, atmosfera fredda,
+
+1.2::sfondo interno gotico ornato::, 1.2::illuminazione dai toni argentei, ombre drammatiche::, piano a tre quarti
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -8714,13 +8714,13 @@ Ces 1 000 personnes sont la tête de la pieuvre et ses bras sont l'OTAN, l'Allem
 
 <a name="prompt-2101712266190258322"></a>
 
-### Traduction en cours
+### Prompt représentant un personnage vêtu d'un qipao noir moulant et fendu haut avec des porte-jarretelles, appuyé contre un mur gothique avec un regard arrogant.
 
 Auteur：[@sha1shashasha](https://x.com/sha1shashasha) · [Publication originale](https://x.com/sha1shashasha/status/2101712266190258322)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt représentant un personnage vêtu d'un qipao noir moulant et fendu haut avec des porte-jarretelles, appuyé contre un mur gothique avec un regard arrogant.
 
 <img src="images/2101712266190258322-1.jpg" alt="Image 1" width="480" />
 
@@ -8733,7 +8733,11 @@ Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+1.4::robe qipao noire, cheongsam moulante::, 1.3::fente latérale haute::, 1.4::porte-jarretelles de cuisse::, 1.3::bas cuisses noirs::, 1.3::cuisse nue, col mandarin::, 1.2::bouton à nœud chinois, tissu noir brillant::,
+
+1.3::bras croisés, appuyée contre le mur::, 1.3::contre-plongée, regardant le spectateur de haut::, 1.2::regard arrogant::, atmosphère froide,
+
+1.2::arrière-plan d'intérieur gothique orné::, 1.2::éclairage aux tons argentés, ombres dramatiques::, plan trois-quarts
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -8725,13 +8725,13 @@ Estas 1000 pessoas são a cabeça do polvo e os seus tentáculos são a NATO, a 
 
 <a name="prompt-2101712266190258322"></a>
 
-### Tradução em curso
+### Prompt que retrata uma personagem com um qipao preto justo e com abertura subida com ligas, encostada a uma parede gótica com um olhar arrogante.
 
 Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Publicação original](https://x.com/sha1shashasha/status/2101712266190258322)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt que retrata uma personagem com um qipao preto justo e com abertura subida com ligas, encostada a uma parede gótica com um olhar arrogante.
 
 <img src="images/2101712266190258322-1.jpg" alt="Imagem 1" width="480" />
 
@@ -8744,7 +8744,11 @@ Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+1.4::vestido qipao preto, cheongsam justo::, 1.3::abertura lateral subida::, 1.4::liga na coxa::, 1.3::meias altas pretas até à coxa::, 1.3::coxa nua, gola mandarim::, 1.2::botão de nó chinês, tecido preto brilhante::,
+
+1.3::braços cruzados, encostada à parede::, 1.3::ângulo baixo, a olhar para baixo para o observador::, 1.2::olhar arrogante::, atmosfera fria,
+
+1.2::fundo de interior gótico ornamentado::, 1.2::iluminação de tom prateado, sombras dramáticas::, plano de três quartos
 ```
 
 [↑ Voltar às categorias](#catalog)

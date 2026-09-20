@@ -8714,13 +8714,13 @@ Diese 1000 Personen ist der Kopf der Krake und ihre Arme sind NATO Deutschland E
 
 <a name="prompt-2101712266190258322"></a>
 
-### Übersetzung läuft
+### Prompt, der einen Charakter in einem engen, hoch geschlitzten schwarzen Qipao mit Strumpfhaltern darstellt, der mit arrogantem Blick an einer gotischen Wand lehnt.
 
 Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Originalbeitrag](https://x.com/sha1shashasha/status/2101712266190258322)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt, der einen Charakter in einem engen, hoch geschlitzten schwarzen Qipao mit Strumpfhaltern darstellt, der mit arrogantem Blick an einer gotischen Wand lehnt.
 
 <img src="images/2101712266190258322-1.jpg" alt="Bild 1" width="480" />
 
@@ -8733,7 +8733,11 @@ Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+1.4::schwarzes Qipao-Kleid, enges Cheongsam::, 1.3::hoher Seitenschlitz::, 1.4::Oberschenkel-Strumpfband::, 1.3::schwarze halterlose Schenkelstrümpfe::, 1.3::bloßer Oberschenkel, Stehkragen::, 1.2::chinesischer Posamentenknopf, glänzender schwarzer Stoff::,
+
+1.3::verschränkte Arme, an die Wand gelehnt::, 1.3::Froschperspektive, blickt auf den Betrachter herab::, 1.2::arroganter Blick::, kalte Atmosphäre,
+
+1.2::reich verzierter gotischer Innenraumhintergrund::, 1.2::silberfarbene Beleuchtung, dramatische Schatten::, Dreiviertelaufnahme
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

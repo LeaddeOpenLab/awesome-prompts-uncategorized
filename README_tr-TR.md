@@ -8725,13 +8725,13 @@ Bu 1000 kişi ahtapotun başıdır ve kolları NATO, Almanya, Avrupa, Ukrayna ve
 
 <a name="prompt-2101712266190258322"></a>
 
-### Çeviri sürüyor
+### Kibirli bir bakışla gotik bir duvara yaslanmış, jartiyerli, dar ve yüksek yırtmaçlı siyah bir qipao giymiş bir karakteri tasvir eden istem.
 
 Yazar：[@sha1shashasha](https://x.com/sha1shashasha) · [Orijinal gönderi](https://x.com/sha1shashasha/status/2101712266190258322)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kibirli bir bakışla gotik bir duvara yaslanmış, jartiyerli, dar ve yüksek yırtmaçlı siyah bir qipao giymiş bir karakteri tasvir eden istem.
 
 <img src="images/2101712266190258322-1.jpg" alt="Görsel 1" width="480" />
 
@@ -8744,7 +8744,11 @@ Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+1.4::siyah qipao elbise, dar çongsam::, 1.3::yüksek yan yırtmaç::, 1.4::uyluk jartiyeri::, 1.3::siyah dizüstü çorap::, 1.3::çıplak uyluk, dik yaka::, 1.2::çin düğümü düğme, parlak siyah kumaş::,
+
+1.3::kolları bağlı, duvara yaslanmış::, 1.3::düşük açı, izleyiciye tepeden bakan::, 1.2::kibirli bakış::, soğuk atmosfer,
+
+1.2::süslü gotik iç mekân arka planı::, 1.2::gümüş tonlu aydınlatma, dramatik gölge::, üç çeyrek çekim
 ```
 
 [↑ Kategorilere dön](#catalog)

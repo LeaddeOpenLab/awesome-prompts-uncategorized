@@ -8778,13 +8778,13 @@ Estas 1000 personas son la cabeza del pulpo y sus tentáculos son la OTAN, Alema
 
 <a name="prompt-2101712266190258322"></a>
 
-### Traducción en curso
+### Prompt que representa a un personaje con un qipao negro ajustado y con abertura alta, con ligueros, apoyado contra una pared gótica con una mirada arrogante.
 
 Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Publicación original](https://x.com/sha1shashasha/status/2101712266190258322)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt que representa a un personaje con un qipao negro ajustado y con abertura alta, con ligueros, apoyado contra una pared gótica con una mirada arrogante.
 
 <img src="images/2101712266190258322-1.jpg" alt="Imagen 1" width="480" />
 
@@ -8797,7 +8797,11 @@ Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+1.4::vestido qipao negro, cheongsam ajustado::, 1.3::abertura lateral alta::, 1.4::liguero de muslo::, 1.3::medias altas negras hasta el muslo::, 1.3::muslo descubierto, cuello mandarín::, 1.2::botón de nudo chino, tela negra brillante::,
+
+1.3::brazos cruzados, apoyada contra la pared::, 1.3::ángulo bajo, mirando hacia abajo al espectador::, 1.2::mirada arrogante::, atmósfera fría,
+
+1.2::fondo interior gótico recargado::, 1.2::iluminación de tono plateado, sombras dramáticas::, plano de tres cuartos
 ```
 
 [↑ Volver a categorías](#catalog)

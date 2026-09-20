@@ -8725,13 +8725,13 @@ Essas 1.000 pessoas são a cabeça do polvo e seus tentáculos são a OTAN, a Al
 
 <a name="prompt-2101712266190258322"></a>
 
-### Tradução em andamento
+### Prompt retratando uma personagem em um qipao preto justo com fenda alta e cinta-liga encostada em uma parede gótica com um olhar arrogante.
 
 Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Publicação original](https://x.com/sha1shashasha/status/2101712266190258322)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt retratando uma personagem em um qipao preto justo com fenda alta e cinta-liga encostada em uma parede gótica com um olhar arrogante.
 
 <img src="images/2101712266190258322-1.jpg" alt="Imagem 1" width="480" />
 
@@ -8744,7 +8744,11 @@ Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+1.4::vestido qipao preto, cheongsam justo::, 1.3::fenda lateral alta::, 1.4::cinta-liga na coxa::, 1.3::meias 7/8 pretas::, 1.3::coxa nua, gola mandarim::, 1.2::botão de nó chinês, tecido preto brilhante::,
+
+1.3::braços cruzados, encostada na parede::, 1.3::ângulo baixo, olhando para baixo em direção ao espectador::, 1.2::olhar arrogante::, atmosfera fria,
+
+1.2::fundo de interior gótico ornamentado::, 1.2::iluminação em tom prateado, sombras dramáticas::, plano americano
 ```
 
 [↑ Voltar às categorias](#catalog)
