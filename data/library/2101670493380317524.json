@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T16:26:01.504Z",
+  "model": "unknown-image",
+  "prompt": "A cinematic, low-angle nighttime portrait on a modern rooftop terrace, featuring one adult East Asian woman in a glossy black satin mini dress, leaning toward the camera.\n\nHigh ponytail, delicate jewelry, chain-strap purse, direct eye contact, poised and subtly seductive expression.\n\nExtreme low-angle wide-angle smartphone perspective, very close foreground, exaggerated near-far scale, strong diagonal geometry, dramatic depth, prominent legs and high-heeled sandals in the foreground.\n\nA reflective table with a bottle and glass partially blurred close to the lens, creating strong foreground framing and immersive spatial depth.\n\nModern rooftop terrace at night, glass railings, illuminated skyscrapers and city lights in the background, warm interior lighting mixed with cool urban night glow.\n\nPhotorealistic skin texture, realistic anatomy, natural fabric folds, candid editorial photography, strong foreground-midground-background separation, cinematic negative space, single subject, no second person, no collage, no readable text, vertical 9:16.",
+  "promptTranslations": {
+    "en": "A cinematic, low-angle nighttime portrait on a modern rooftop terrace, featuring one adult East Asian woman in a glossy black satin mini dress, leaning toward the camera.\\n\\nHigh ponytail, delicate jewelry, chain-strap purse, direct eye contact, poised and subtly seductive expression.\\n\\nExtreme low-angle wide-angle smartphone perspective, very close foreground, exaggerated near-far scale, strong diagonal geometry, dramatic depth, prominent legs and high-heeled sandals in the foreground.\\n\\nA reflective table with a bottle and glass partially blurred close to the lens, creating strong foreground framing and immersive spatial depth.\\n\\nModern rooftop terrace at night, glass railings, illuminated skyscrapers and city lights in the background, warm interior lighting mixed with cool urban night glow.\\n\\nPhotorealistic skin texture, realistic anatomy, natural fabric folds, candid editorial photography, strong foreground-midground-background separation, cinematic negative space, single subject, no second person, no collage, no readable text, vertical 9:16."
+  },
+  "summaryTranslations": {
+    "en": "Modern rooftop terrace night scene, low-angle wide-angle shot of an East Asian woman in a black satin mini dress, emphasizing foreground leg lines and the depth of the city nightscape."
+  },
+  "translationVersion": 2,
+  "summary": "现代屋顶露台夜晚场景，低角度广角拍摄穿黑色缎面短裙的东亚女性，突出前景腿部线条与城市夜景纵深。",
+  "summaryEn": "Cinematic low-angle rooftop night portrait of an East Asian woman in a black satin dress, with exaggerated perspective emphasizing legs and skyline.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101666495625609256",
+      "canonicalUrl": "https://x.com/boniusex/status/2101666495625609256",
+      "author": {
+        "username": "boniusex",
+        "displayName": "王大锤",
+        "profileUrl": "https://x.com/boniusex"
+      },
+      "originalText": "这种图真是可遇不可求的  每次都是降智的时候出神图 哈哈哈哈 https://t.co/7Gbrl8AJO6"
+    },
+    "id": "2101670493380317524",
+    "canonicalUrl": "https://x.com/nicebabycat/status/2101670493380317524",
+    "author": {
+      "username": "nicebabycat",
+      "displayName": "韦小宝",
+      "profileUrl": "https://x.com/nicebabycat"
+    },
+    "publishedAt": "2026-09-20T13:51:07.000Z",
+    "collectedAt": "2026-09-20T16:16:34.155Z",
+    "language": "zh",
+    "originalText": "超低机位\n近距离广角\n前景腿部放大\n桌面和酒瓶贴近镜头\n人物身体向镜头前倾\n城市夜景做远景\n\nprompt:\nA cinematic, low-angle nighttime portrait on a modern rooftop terrace, featuring one adult East Asian woman in a glossy black satin mini dress, leaning toward the camera.\n\nHigh ponytail, delicate jewelry, chain-strap purse, direct eye contact, poised and subtly seductive expression.\n\nExtreme low-angle wide-angle smartphone perspective, very close foreground, exaggerated near-far scale, strong diagonal geometry, dramatic depth, prominent legs and high-heeled sandals in the foreground.\n\nA reflective table with a bottle and glass partially blurred close to the lens, creating strong foreground framing and immersive spatial depth.\n\nModern rooftop terrace at night, glass railings, illuminated skyscrapers and city lights in the background, warm interior lighting mixed with cool urban night glow.\n\nPhotorealistic skin texture, realistic anatomy, natural fabric folds, candid editorial photography, strong foreground-midground-background separation, cinematic negative space, single subject, no second person, no collage, no readable text, vertical 9:16.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSqiIYIbIAAMu2g.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSqiIYIbIAAMu2g.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSqednsasAAt6yP.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSqednsasAAt6yP.jpg",
+        "sourcePostId": "2101666495625609256"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 423
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/nicebabycat/status/2101670493380317524",
+  "coverUrl": "https://pbs.twimg.com/media/HSqiIYIbIAAMu2g.jpg",
+  "coverPath": "images/2101670493380317524-1.jpg",
+  "imagePaths": [
+    "images/2101670493380317524-1.jpg",
+    "images/2101670493380317524-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSqiIYIbIAAMu2g",
+    "x-image:/media/HSqednsasAAt6yP",
+    "x-post:2101670493380317524",
+    "x-post:2101666495625609256"
+  ],
+  "analysis": {
+    "summary": "现代屋顶露台夜晚场景，低角度广角拍摄穿黑色缎面短裙的东亚女性，突出前景腿部线条与城市夜景纵深。",
+    "summaryEn": "Cinematic low-angle rooftop night portrait of an East Asian woman in a black satin dress, with exaggerated perspective emphasizing legs and skyline.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "第一张图片完全对应提示词：极低机位广角、黑裙前倾的东亚女性、高马尾、前景极度靠近镜头的酒瓶与高跟凉鞋腿部、背景摩天大楼夜景及玻璃护栏均完美吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic, low-angle nighttime portrait on a modern rooftop terrace, featuring one adult East Asian woman in a glossy black satin mini dress, leaning toward the camera.\n\nHigh ponytail, delicate jewelry, chain-strap purse, direct eye contact, poised and subtly seductive expression.\n\nExtreme low-angle wide-angle smartphone perspective, very close foreground, exaggerated near-far scale, strong diagonal geometry, dramatic depth, prominent legs and high-heeled sandals in the foreground.\n\nA reflective table with a bottle and glass partially blurred close to the lens, creating strong foreground framing and immersive spatial depth.\n\nModern rooftop terrace at night, glass railings, illuminated skyscrapers and city lights in the background, warm interior lighting mixed with cool urban night glow.\n\nPhotorealistic skin texture, realistic anatomy, natural fabric folds, candid editorial photography, strong foreground-midground-background separation, cinematic negative space, single subject, no second person, no collage, no readable text, vertical 9:16.",
+    "sourceRange": {
+      "start": 55,
+      "end": 1111
+    },
+    "translations": {
+      "zh": "现代屋顶露台上的电影感低角度夜间肖像，主体为一名身着黑色缎面光泽迷你连衣裙的东亚成年女性，身体向前倾斜看向镜头。高马尾发型，佩戴精美首饰，单肩链条包，眼神直视，神情从容微带诱惑。极低视角广角手机透视，极近前景，夸张的远近透视比例，强烈的对角线构图与纵深感，前景突出腿部和高跟凉鞋。前景有反光桌子、瓶子与酒杯虚化作为框架。背景为夜晚带玻璃栏杆的屋顶露台和灯火通明的摩天大楼。真实皮肤纹理、解剖结构和布料褶皱，真实抓拍时尚大片质感，单人无拼接，9:16竖屏。",
+      "en": "A cinematic, low-angle nighttime portrait on a modern rooftop terrace, featuring one adult East Asian woman in a glossy black satin mini dress, leaning toward the camera.\n\nHigh ponytail, delicate jewelry, chain-strap purse, direct eye contact, poised and subtly seductive expression.\n\nExtreme low-angle wide-angle smartphone perspective, very close foreground, exaggerated near-far scale, strong diagonal geometry, dramatic depth, prominent legs and high-heeled sandals in the foreground.\n\nA reflective table with a bottle and glass partially blurred close to the lens, creating strong foreground framing and immersive spatial depth.\n\nModern rooftop terrace at night, glass railings, illuminated skyscrapers and city lights in the background, warm interior lighting mixed with cool urban night glow.\n\nPhotorealistic skin texture, realistic anatomy, natural fabric folds, candid editorial photography, strong foreground-midground-background separation, cinematic negative space, single subject, no second person, no collage, no readable text, vertical 9:16."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI 人像写真摄影与极低视角构图生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T16:26:52.114Z",
+  "model": "grok",
+  "prompt": "Unter 1000 Köpfe einer Elite haben heute Russland angegriffen es war nicht Deutschland die Nato oder die urkraine als ganzes Volk .\nDiese 1000 Personen ist der Kopf der Krake und ihre Arme sind NATO Deutschland Europa urkraine und vieles mehr .",
+  "promptTranslations": {
+    "en": "Fewer than 1,000 heads of an elite attacked Russia today; it was not Germany, NATO, or Ukraine as an entire people. These 1,000 people are the head of the octopus, and its arms are NATO, Germany, Europe, Ukraine, and much more."
+  },
+  "summaryTranslations": {
+    "en": "A metaphorical prompt about an octopus with heads of an elite and tentacles for NATO, Germany, Europe, and Ukraine."
+  },
+  "translationVersion": 2,
+  "summary": "Ein metaphorischer Prompt über eine Krake mit Köpfen einer Elite und Tentakeln für NATO, Deutschland, Europa und die Ukraine.",
+  "summaryEn": "A metaphorical prompt depicting an octopus whose head is made of elite faces and whose tentacles represent NATO, Germany, Europe, and Ukraine.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101706509264601555",
+    "canonicalUrl": "https://x.com/Masssiana/status/2101706509264601555",
+    "author": {
+      "username": "Masssiana",
+      "displayName": "Mo",
+      "profileUrl": "https://x.com/Masssiana"
+    },
+    "publishedAt": "2026-09-20T16:14:14.000Z",
+    "collectedAt": "2026-09-20T16:16:34.155Z",
+    "language": "de",
+    "originalText": "Grok Imagine prompt:\n\nUnter 1000 Köpfe einer Elite haben heute Russland angegriffen es war nicht Deutschland die Nato oder die urkraine als ganzes Volk .\nDiese 1000 Personen ist der Kopf der Krake und ihre Arme sind NATO Deutschland Europa urkraine und vieles mehr .@Grok Insha’Allah geht das weltweit viral .",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Masssiana/status/2101706509264601555",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101706487819055104/img/JHOBNmCaYjsoPQ9d.jpg",
+        "analysisUrl": "https://x.com/Masssiana/status/2101706509264601555"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 5
+    },
+    "matchedRuleIds": [
+      "custom:de:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:de:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Masssiana/status/2101706509264601555",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101706487819055104/img/JHOBNmCaYjsoPQ9d.jpg",
+  "coverPath": "covers/2101706509264601555.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101706487819055104",
+    "x-post:2101706509264601555"
+  ],
+  "analysis": {
+    "summary": "Ein metaphorischer Prompt über eine Krake mit Köpfen einer Elite und Tentakeln für NATO, Deutschland, Europa und die Ukraine.",
+    "summaryEn": "A metaphorical prompt depicting an octopus whose head is made of elite faces and whose tentacles represent NATO, Germany, Europe, and Ukraine.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Das generierte Bild/Video zeigt eine riesige Krake, deren Kopf aus vielen Gesichtern besteht, mit Tentakeln, die mit NATO-, Deutschland-, Europa- und Ukraine-Symbolen versehen sind, exakt entsprechend der metaphorischen Beschreibung im Prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Unter 1000 Köpfe einer Elite haben heute Russland angegriffen es war nicht Deutschland die Nato oder die urkraine als ganzes Volk .\nDiese 1000 Personen ist der Kopf der Krake und ihre Arme sind NATO Deutschland Europa urkraine und vieles mehr .",
+    "sourceRange": {
+      "start": 22,
+      "end": 266
+    },
+    "translations": {
+      "zh": "不到1000名精英的头目今天袭击了俄罗斯，不是德国、北约或作为整个民族的乌克兰。这1000个人就是章鱼的头部，而他们的触手是北约、德国、欧洲、乌克兰等等。",
+      "en": "Fewer than 1,000 elite heads attacked Russia today, it was not Germany, NATO, or Ukraine as an entire people. These 1,000 people are the head of the octopus, and their arms are NATO, Germany, Europe, Ukraine, and much more."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "political_poster",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [
+        "political"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T16:27:03.842Z",
+  "model": "unknown-image",
+  "prompt": "[캐릭터 외형 프롬프트/ + GPT가 샘플로 참고할 외형 이미지 한 장 첨부], photorealistic real-person interpretation, official passport ID photo, neat and presentable appearance, straight-on camera, centered symmetrical composition, neutral expression, looking directly at camera, tidy hair, clean simple outfit, plain light-gray studio background, soft even ID-photo lighting, head-and-shoulders framing, 2x2 grid of four identical ID photos on one printed photo sheet, realistic physical photo print, subtle pixel-level blur, slight compression artifacts and natural camera noise, authentic consumer photo-lab quality, highly realistic, not overly polished, not AI-looking / 이대로 이미지 출력.",
+  "promptTranslations": {
+    "en": "[Character appearance prompt / + attach one reference appearance image for GPT to refer to as a sample], photorealistic real-person interpretation, official passport ID photo, neat and presentable appearance, straight-on camera, centered symmetrical composition, neutral expression, looking directly at camera, tidy hair, clean simple outfit, plain light-gray studio background, soft even ID-photo lighting, head-and-shoulders framing, 2x2 grid of four identical ID photos on one printed photo sheet, realistic physical photo print, subtle pixel-level blur, slight compression artifacts and natural camera noise, authentic consumer photo-lab quality, highly realistic, not overly polished, not AI-looking / Output the image as is."
+  },
+  "summaryTranslations": {
+    "en": "A prompt template that generates a 2x2 4-grid printed ID photo sheet based on character appearance."
+  },
+  "translationVersion": 2,
+  "summary": "캐릭터 외형을 기반으로 2x2 4분할 출력 증명사진 시트를 생성하는 프롬프트 템플릿.",
+  "summaryEn": "Prompt template for generating a 2x2 4-cut printed ID photo sheet based on character appearance.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101693353012404308",
+    "canonicalUrl": "https://x.com/OiCLhoXau40xUBx/status/2101693353012404308",
+    "author": {
+      "username": "OiCLhoXau40xUBx",
+      "displayName": "코링고",
+      "profileUrl": "https://x.com/OiCLhoXau40xUBx"
+    },
+    "publishedAt": "2026-09-20T15:21:57.000Z",
+    "collectedAt": "2026-09-20T16:16:34.155Z",
+    "language": "ko",
+    "originalText": "((GPT 일 시키기))\n\n★MY CHARACTER ID PHOTO Prompt\n\n⚠️4분할 증명사진 출력 프롬프트입니다.\n\n---\n\n[캐릭터 외형 프롬프트/ + GPT가 샘플로 참고할 외형 이미지 한 장 첨부], photorealistic real-person interpretation, official passport ID photo, neat and presentable appearance, straight-on camera, centered symmetrical composition, neutral expression, looking directly at camera, tidy hair, clean simple outfit, plain light-gray studio background, soft even ID-photo lighting, head-and-shoulders framing, 2x2 grid of four identical ID photos on one printed photo sheet, realistic physical photo print, subtle pixel-level blur, slight compression artifacts and natural camera noise, authentic consumer photo-lab quality, highly realistic, not overly polished, not AI-looking / 이대로 이미지 출력.\n\n---",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSq2bzTbQAAZIA5.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSq2bzTbQAAZIA5.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSq2dDiawAA7PHJ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSq2dDiawAA7PHJ.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSq2ePUbcAAIIlz.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSq2ePUbcAAIIlz.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 6,
+      "replyCount": 1,
+      "quoteCount": 3,
+      "viewCount": 754
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/OiCLhoXau40xUBx/status/2101693353012404308",
+  "coverUrl": "https://pbs.twimg.com/media/HSq2bzTbQAAZIA5.jpg",
+  "coverPath": "images/2101693353012404308-1.jpg",
+  "imagePaths": [
+    "images/2101693353012404308-1.jpg",
+    "images/2101693353012404308-2.jpg",
+    "images/2101693353012404308-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSq2bzTbQAAZIA5",
+    "x-image:/media/HSq2dDiawAA7PHJ",
+    "x-image:/media/HSq2ePUbcAAIIlz",
+    "x-post:2101693353012404308"
+  ],
+  "analysis": {
+    "summary": "캐릭터 외형을 기반으로 2x2 4분할 출력 증명사진 시트를 생성하는 프롬프트 템플릿.",
+    "summaryEn": "Prompt template for generating a 2x2 4-cut printed ID photo sheet based on character appearance.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt clearly describes the 2x2 grid ID sheet layout, studio lighting, camera angle, and printed photo texture matching the images."
+    },
+    "videoQuality": null,
+    "originalPrompt": "[캐릭터 외형 프롬프트/ + GPT가 샘플로 참고할 외형 이미지 한 장 첨부], photorealistic real-person interpretation, official passport ID photo, neat and presentable appearance, straight-on camera, centered symmetrical composition, neutral expression, looking directly at camera, tidy hair, clean simple outfit, plain light-gray studio background, soft even ID-photo lighting, head-and-shoulders framing, 2x2 grid of four identical ID photos on one printed photo sheet, realistic physical photo print, subtle pixel-level blur, slight compression artifacts and natural camera noise, authentic consumer photo-lab quality, highly realistic, not overly polished, not AI-looking / 이대로 이미지 출력.",
+    "sourceRange": {
+      "start": 75,
+      "end": 733
+    },
+    "translations": {
+      "zh": "[角色外形提示词 / + 附带一张供GPT参考外形的样本图]，逼真真人诠释，正式护照证件照，整洁大方的容貌，正对镜头，居中对称构图，中性表情，直视镜头，整洁发型，干净简约服装，纯色浅灰摄影棚背景，柔和均匀证件照光线，齐胸齐肩构图，单张打印相纸上呈2x2排列的四张相同证件照，逼真实体冲印照片，轻微像素级模糊，微弱压缩杂色与自然相机噪点，地道民用照相馆质感，高度真实，不过度修饰，无AI质感 / 按此生成图像。",
+      "en": "[Character appearance prompt / + attach 1 reference image for GPT], photorealistic real-person interpretation, official passport ID photo, neat and presentable appearance, straight-on camera, centered symmetrical composition, neutral expression, looking directly at camera, tidy hair, clean simple outfit, plain light-gray studio background, soft even ID-photo lighting, head-and-shoulders framing, 2x2 grid of four identical ID photos on one printed photo sheet, realistic physical photo print, subtle pixel-level blur, slight compression artifacts and natural camera noise, authentic consumer photo-lab quality, highly realistic, not overly polished, not AI-looking / output image as is."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "4분할 증명사진 시트 생성",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

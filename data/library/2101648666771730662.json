@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T16:26:27.074Z",
+  "model": "vidu",
+  "prompt": "镜头慢慢推进，镜头慢慢向左环绕，展现天上宫殿的壮丽",
+  "promptTranslations": {
+    "en": "The camera slowly pushes in, the camera slowly orbits to the left, showcasing the magnificence of the heavenly palace"
+  },
+  "summaryTranslations": {
+    "en": "Prompt for slow push-in and left orbiting camera movement of the celestial palace panorama among the sea of clouds."
+  },
+  "translationVersion": 2,
+  "summary": "云海仙宫全景的慢推与左环绕镜头运动提示词。",
+  "summaryEn": "Prompt for slow push-in and left orbiting camera movement showing a celestial palace above clouds.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101648666771730662",
+    "canonicalUrl": "https://x.com/PixelAigc/status/2101648666771730662",
+    "author": {
+      "username": "PixelAigc",
+      "displayName": "PixelAIGC",
+      "profileUrl": "https://x.com/PixelAigc"
+    },
+    "publishedAt": "2026-09-20T12:24:23.000Z",
+    "collectedAt": "2026-09-20T16:16:34.155Z",
+    "language": "zh",
+    "originalText": "不知天上宫阙，今夕是何年\nVidu平台在图生视频方面，还是可以的\n今天试了一下，很稳定\n背景音乐由SUNO生成，四段五秒剪映后期合并\n图片由MJ生成\n\nprompt 视频提示词：\n镜头慢慢推进，镜头慢慢向左环绕，展现天上宫殿的壮丽 https://t.co/rf3N0NBmG1",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2101648666771730662",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101648403725987840/img/ctvtdnDgeUPu4lqk.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2101648666771730662"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 858
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/PixelAigc/status/2101648666771730662",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101648403725987840/img/ctvtdnDgeUPu4lqk.jpg",
+  "coverPath": "covers/2101648666771730662.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101648403725987840",
+    "x-post:2101648666771730662"
+  ],
+  "analysis": {
+    "summary": "云海仙宫全景的慢推与左环绕镜头运动提示词。",
+    "summaryEn": "Prompt for slow push-in and left orbiting camera movement showing a celestial palace above clouds.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频画面呈现云海中宏伟的中式天上宫殿与人物，运镜缓慢推进并向左环绕，与提示词描述完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "镜头慢慢推进，镜头慢慢向左环绕，展现天上宫殿的壮丽",
+    "sourceRange": {
+      "start": 90,
+      "end": 115
+    },
+    "translations": {
+      "zh": "镜头慢慢推进，镜头慢慢向左环绕，展现天上宫殿的壮丽",
+      "en": "The camera slowly pushes forward and pans left to reveal the grand celestial palace."
+    },
+    "targetModels": [
+      "vidu"
+    ],
+    "category": "image-to-video",
+    "useCase": "展现仙境宫殿的图生视频运镜控制",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

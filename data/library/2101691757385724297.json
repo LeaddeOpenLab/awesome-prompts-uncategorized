@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T16:28:02.547Z",
+  "model": "unknown-image",
+  "prompt": "A cozy autumn-themed sticker, die-cut vector. A girl with warm, soft facial features and a gentle smile, framed by swirling golden maple leaves. The design includes the Arabic text \"سلام داخلي\" in a soft, graceful Arabic calligraphy style. Rich warm tones, elegant clean vector art, high definition, white background.",
+  "promptTranslations": {
+    "en": "A cozy autumn-themed sticker, die-cut vector. A girl with warm, soft facial features and a gentle smile, framed by swirling golden maple leaves. The design includes the Arabic text \"سلام داخلي\" in a soft, graceful Arabic calligraphy style. Rich warm tones, elegant clean vector art, high definition, white background."
+  },
+  "summaryTranslations": {
+    "en": "A cozy autumn-themed sticker featuring a smiling girl, golden maple leaves, and Arabic calligraphy on a white background."
+  },
+  "translationVersion": 2,
+  "summary": "A cozy autumn-themed sticker featuring a smiling girl, golden maple leaves, and Arabic calligraphy on a white background.",
+  "summaryEn": "A cozy autumn-themed sticker featuring a smiling girl, golden maple leaves, and Arabic calligraphy on a white background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101691757385724297",
+    "canonicalUrl": "https://x.com/81soud81/status/2101691757385724297",
+    "author": {
+      "username": "81soud81",
+      "displayName": "سعود الشمري",
+      "profileUrl": "https://x.com/81soud81"
+    },
+    "publishedAt": "2026-09-20T15:15:37.000Z",
+    "collectedAt": "2026-09-20T16:16:34.155Z",
+    "language": "en",
+    "originalText": "Prompt :\n\nA cozy autumn-themed sticker, die-cut vector. A girl with warm, soft facial features and a gentle smile, framed by swirling golden maple leaves. The design includes the Arabic text \"سلام داخلي\" in a soft, graceful Arabic calligraphy style. Rich warm tones, elegant clean vector art, high definition, white background.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSq1gpnXUAEzpsn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSq1gpnXUAEzpsn.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 180
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/81soud81/status/2101691757385724297",
+  "coverUrl": "https://pbs.twimg.com/media/HSq1gpnXUAEzpsn.jpg",
+  "coverPath": "images/2101691757385724297-1.jpg",
+  "imagePaths": [
+    "images/2101691757385724297-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSq1gpnXUAEzpsn",
+    "x-post:2101691757385724297"
+  ],
+  "analysis": {
+    "summary": "A cozy autumn-themed sticker featuring a smiling girl, golden maple leaves, and Arabic calligraphy on a white background.",
+    "summaryEn": "A cozy autumn-themed sticker featuring a smiling girl, golden maple leaves, and Arabic calligraphy on a white background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image displays a die-cut autumn sticker of a smiling girl surrounded by maple leaves with the specified Arabic calligraphy 'سلام داخلي'."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cozy autumn-themed sticker, die-cut vector. A girl with warm, soft facial features and a gentle smile, framed by swirling golden maple leaves. The design includes the Arabic text \"سلام داخلي\" in a soft, graceful Arabic calligraphy style. Rich warm tones, elegant clean vector art, high definition, white background.",
+    "sourceRange": {
+      "start": 10,
+      "end": 327
+    },
+    "translations": {
+      "zh": "一个舒适秋季主题的模切矢量贴纸。一位面部柔和、带着温和微笑的女孩，周围环绕着旋转的金色枫叶。设计包含柔和优美阿拉伯书法风格的阿拉伯文字“سلام داخلي”。丰富的暖色调，优雅简洁的矢量艺术，高清，白色背景。",
+      "en": "A cozy autumn-themed sticker, die-cut vector. A girl with warm, soft facial features and a gentle smile, framed by swirling golden maple leaves. The design includes the Arabic text \"سلام داخلي\" in a soft, graceful Arabic calligraphy style. Rich warm tones, elegant clean vector art, high definition, white background."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

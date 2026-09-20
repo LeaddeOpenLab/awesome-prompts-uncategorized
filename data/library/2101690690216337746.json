@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T16:26:30.789Z",
+  "model": "unknown-image",
+  "prompt": "A premium puffy 3D sticker of a joyful Middle Eastern girl with highly detailed, symmetrical facial features, chubby glossy cheeks, and a big beautiful smile. The design has a soft plastic inflated texture with realistic highlights and shadows. Vibrant candy color palette (bubblegum pink, bright lemon, and soft teal). Thick white die-cut border, commercial icon asset, isolated on a pure white background.",
+  "promptTranslations": {
+    "en": "A premium puffy 3D sticker of a joyful Middle Eastern girl with highly detailed, symmetrical facial features, chubby glossy cheeks, and a big beautiful smile. The design has a soft plastic inflated texture with realistic highlights and shadows. Vibrant candy color palette (bubblegum pink, bright lemon, and soft teal). Thick white die-cut border, commercial icon asset, isolated on a pure white background."
+  },
+  "summaryTranslations": {
+    "en": "3D puffy sticker style Middle Eastern girl avatar design, featuring candy colors and a die-cut white border."
+  },
+  "translationVersion": 2,
+  "summary": "3D充气贴纸风格的中东女孩头像设计，包含糖果色调与模切白边。",
+  "summaryEn": "3D puffy sticker design of a smiling Middle Eastern girl in vibrant candy colors with a white die-cut border.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101690690216337746",
+    "canonicalUrl": "https://x.com/81soud81/status/2101690690216337746",
+    "author": {
+      "username": "81soud81",
+      "displayName": "سعود الشمري",
+      "profileUrl": "https://x.com/81soud81"
+    },
+    "publishedAt": "2026-09-20T15:11:22.000Z",
+    "collectedAt": "2026-09-20T16:16:34.155Z",
+    "language": "en",
+    "originalText": "Prompt :\n\nA premium puffy 3D sticker of a joyful Middle Eastern girl with highly detailed, symmetrical facial features, chubby glossy cheeks, and a big beautiful smile. The design has a soft plastic inflated texture with realistic highlights and shadows. Vibrant candy color palette (bubblegum pink, bright lemon, and soft teal). Thick white die-cut border, commercial icon asset, isolated on a pure white background.\n\nSignature : Manal",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSq0ifGWMAA7cIg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSq0ifGWMAA7cIg.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 160
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/81soud81/status/2101690690216337746",
+  "coverUrl": "https://pbs.twimg.com/media/HSq0ifGWMAA7cIg.jpg",
+  "coverPath": "images/2101690690216337746-1.jpg",
+  "imagePaths": [
+    "images/2101690690216337746-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSq0ifGWMAA7cIg",
+    "x-post:2101690690216337746"
+  ],
+  "analysis": {
+    "summary": "3D充气贴纸风格的中东女孩头像设计，包含糖果色调与模切白边。",
+    "summaryEn": "3D puffy sticker design of a smiling Middle Eastern girl in vibrant candy colors with a white die-cut border.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated image matches the prompt's puffy 3D sticker aesthetic, Middle Eastern female subject, candy color scheme, and thick die-cut border."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A premium puffy 3D sticker of a joyful Middle Eastern girl with highly detailed, symmetrical facial features, chubby glossy cheeks, and a big beautiful smile. The design has a soft plastic inflated texture with realistic highlights and shadows. Vibrant candy color palette (bubblegum pink, bright lemon, and soft teal). Thick white die-cut border, commercial icon asset, isolated on a pure white background.",
+    "sourceRange": {
+      "start": 10,
+      "end": 417
+    },
+    "translations": {
+      "zh": "一张优质的膨胀3D贴纸，画着一位面带喜悦的中东女孩，五官精致对称，脸颊圆润有光泽，笑容灿烂。设计具有柔软塑料充气质感，带有逼真的高光和阴影。充满活力的糖果配色（泡泡糖粉、明亮柠檬黄和柔和青绿色）。白色模切厚边框，商业图标素材，纯白背景隔离。",
+      "en": "A premium puffy 3D sticker of a joyful Middle Eastern girl with highly detailed, symmetrical facial features, chubby glossy cheeks, and a big beautiful smile. The design has a soft plastic inflated texture with realistic highlights and shadows. Vibrant candy color palette (bubblegum pink, bright lemon, and soft teal). Thick white die-cut border, commercial icon asset, isolated on a pure white background."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "sticker design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

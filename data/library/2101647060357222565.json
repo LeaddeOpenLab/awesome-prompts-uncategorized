@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T16:27:50.893Z",
+  "model": "unknown-image",
+  "prompt": "人物同一性：\n女性1は22歳の成人日本人女性、168cm、情報工学科4年生。縦長のハート形の顔、横長のアーモンド目、アーチ眉、右頬の小さなほくろ、胸下までの完全にまっすぐな黒髪。女性2は30歳の成人日本人女性、166cm、ベーカリーカフェ店長。柔らかな丸卵型の顔、鼻の薄いそばかす、左目尻の下のほくろ、笑ったときのえくぼ。黒い肩丈ボブでグレーは耳まわりと下層の内側だけ。海では眼鏡を外す。女性3は23歳の成人日本人女性、152cm、ネイリスト。丸い小顔、垂れ目、右目の下のほくろ、黒髪の低いツインテール、毛先の内側にだけダスティピンク。3人の成人らしい顔と自然な全身比率を維持し、別人同士の特徴を混ぜない。\n\n髪型：\n女性1の胸下までの長い黒髪ストレートを、後頭部で一本のポニーテールに結ぶ。長さとまっすぐな毛質を保ち、濡れた長い髪が顔や前身頃を覆わない。女性2の肩丈ストレートボブは襟足で小さな低い一つ結びにし、届かない短い毛は耳にかける。頭頂と表面と根元は黒、耳の内側と結び目の下の毛先だけにスモーキーグレーを残す。女性2の髪を長く伸ばさず、大きい団子にしない。女性3は黒髪の低いツインテールと毛先の内側のダスティピンクを維持する。\n\n衣装：\n女性1は水色、女性2はチャコール、女性3はダスティピンクの、前が完全に閉じた不透明な半袖ラッシュガード。それぞれ不透明なスポーツ水着の上に着ており、胸元・腹部・肩を覆う。女性1と女性3は紺、女性2は黒の膝上丈スイムショーツ。裸足。衣装を透けさせたり脱がせたりしない。\n\n場面と構図：\n横長3:2の一続きの写真1枚。午後の江ノ島の海の浅瀬。3人を横並び・等間隔の記念撮影の整列にしない。穏やかな浅瀬で3人が互いの方を向いて、小さな三角形に位置する。左寄り手前の女性1は横向き寄りの三分の二向きで、右奥の女性3へ少量の水を片手で弾いている。もう片方の手は水面近くに自然に添える。女性1の顔は横顔気味で相手を見ながら笑う。右寄りの少し奥にいる女性3は淡いピンクの浮き輪を使い、左手で輪の縁をつかみ、女性1の小さな水しぶきに驚いて右の前腕を軽く上げる。笑いながら目を少し細めるが顔は見える。女性3の隣のさらに奥、画面中央寄りの女性2は、女性3の浮き輪の奥側の縁を片手で軽く支えて一緒に遊ぶ。女性2のもう片方の腕は自分の脇で自然に水面へ下ろす。女性2は女性3を見て笑っている。3人の頭や肩に前後差があり、女性1の肩と女性3の浮き輪のごく一部が自然に重なるが、顔や手の所有が曖昧になる重なりは避ける。浮き輪は女性3のピンク1個だけ。女性1と女性2には浮き輪を付けず、青白や黄色の輪は描かない。\n\n撮影：\n友人の遊びに割り込まない斜めからのスマホ写真。誰もカメラを見ない。頭上と左右に余白を取り、3人の上半身、女性3の浮き輪1個、全員が水に入っている様子、前景の水面を入れる。平行な肩の列や均等配置を作らない。3人は近い距離で会話できる配置だが、奥行きは約1mずつずらす。手前の女性1の顔付近へ単一AF、奥の2人は自然な距離差に従い少し柔らかくても、顔立ちと動作は判別できる。局所的に水滴と動く手の軽いブレがあり、肌と顔だけを鮮明化しない。\n\n背景と光：\n穏やかな青緑の海、遠くに柔らかく写る海岸線と江ノ島、午後の自然光。水面からの弱い反射が服や顔へ届き、髪の影は残る。\n\n必須と避ける表現：\n海水は太ももから腰付近、3人の足は海底についている。小さい水しぶきだけで、大波、潜水、転倒、危険な動作はない。浮き輪と腕の接触、人物ごとの腕2本・手2つを正しく描く。顔や腕が重複せず、浮き輪に身体が融合しない。背景に海岸線と江ノ島が見える。文字、ロゴ、分割画面を足さない。\n\n固定実写品質：\n普通のスマートフォンの標準カメラアプリで撮った、未加工に近い単体HEIC写真。ポートレートモード、美肌フィルター、顔だけの再照明・露出補正・再シャープ・ノイズ除去・肌補正を使わない。AFはカメラ節で指定した一面だけに置き、その面を最も自然に明瞭にし、前後の人物・手足・小物・背景は距離と動きに従って連続的に甘くする。遠い顔に偽の毛穴や全域8K解像を加えず、片頬の弱い赤み、均一でないTゾーン反射、左右差のある目の下、鼻まわりの軽い赤みなど複数の広い色調差を残す。近く解像する露出肌には、反復しない弱い肌色差、関節や圧の自然な赤み、細かな陰影を残す。肌、髪、布、金属、木、壁、水などは素材ごとに異なる反射・エッジ・細部を持たせ、同じツヤや同じシャープさにしない。控えめなHDR、わずかなAWB差、暗部だけの微細ノイズ、弱いHEIC圧縮、局所的な軽い手ブレと構図ずれを許容するが、全画面への偽粒子、一律ぼかし、過剰シャープは行わない。個人のカメラロールに残った未完成な瞬間として成立させ、広告、グラビア、ファッションキャンペーン、スタジオ美容写真、映画的カラーグレーディング、完璧な左右対称構図にしない。",
+  "promptTranslations": {
+    "en": "Character Identity:\nFemale 1 is a 22-year-old adult Japanese woman, 168 cm tall, a 4th-year computer science student. Vertically elongated heart-shaped face, wide almond eyes, arched eyebrows, a small mole on her right cheek, and completely straight black hair reaching below the bust. Female 2 is a 30-year-old adult Japanese woman, 166 cm tall, a bakery cafe manager. Soft round-oval face, faint freckles on her nose, a mole below the outer corner of her left eye, dimples when smiling. Black shoulder-length bob with gray only around the ears and the inner lower layers. Removes her glasses at the sea. Female 3 is a 23-year-old adult Japanese woman, 152 cm tall, a nail technician. Small round face, drooping/downturned eyes, a mole under her right eye, black hair tied in low twin tails with dusty pink only on the inner tips. Maintain the adult facial features and natural full-body proportions of the three, without blending characteristics between distinct individuals.\n\nHairstyles:\nFemale 1's long, straight black hair reaching below the bust is tied into a single ponytail at the back of her head. Preserving its length and straight texture, the wet long hair does not cover her face or the front of her torso. Female 2's shoulder-length straight bob is tied into a small, low ponytail at the nape of the neck, with short strands that do not reach tucked behind her ears. The crown, outer surface, and roots remain black, leaving smoky gray only on the inner sides behind the ears and the tips below the tie. Do not lengthen Female 2's hair or form it into a large bun. Female 3 maintains her black low twin tails with dusty pink on the inner tips.\n\nOutfits:\nFemale 1 wears a light blue, Female 2 a charcoal, and Female 3 a dusty pink completely closed, opaque short-sleeve rash guard. Each is worn over an opaque athletic swimsuit, covering the chest, abdomen, and shoulders. Female 1 and Female 3 wear navy, and Female 2 wears black above-the-knee swim shorts. Barefoot. Outfits must not be translucent or removed.\n\nScene and Composition:\nA single continuous horizontal 3:2 photograph. In the shallow waters of the Enoshima sea in the afternoon. Do not arrange the three side-by-side or equally spaced like a commemorative photo lineup. The three stand in a small triangle in the calm shallows, facing toward each other. Female 1, closer in the foreground to the left, is in a near three-quarter profile, flicking a small splash of water with one hand toward Female 3 in the right background. Her other hand rests naturally near the water surface. Female 1's face is angled almost in profile, smiling as she looks at her friend. Female 3, slightly deeper in the background to the right, uses a pale pink swim ring, holding its rim with her left hand and lightly raising her right forearm in mild surprise at Female 1's small splash. She narrows her eyes slightly in laughter, but her face remains clearly visible. Female 2, next to Female 3 and further back toward the center of the frame, lightly supports the far edge of Female 3's swim ring with one hand, playing along. Female 2's other arm hangs naturally at her side into the water. Female 2 is smiling as she watches Female 3. There is depth between the heads and shoulders of the three; Female 1's shoulder naturally overlaps a very small part of Female 3's swim ring, but avoid overlapping that obscures ownership of faces or hands. There is only one pink swim ring belonging to Female 3. Do not give swim rings to Female 1 or Female 2, and do not depict blue-and-white or yellow rings.\n\nShot Style:\nA smartphone snapshot taken from an oblique angle without interrupting the friends' play. No one looks at the camera. Leave margin overhead and to the left and right, capturing the upper bodies of the three, Female 3's single swim ring, the fact that everyone is in the water, and the foreground water surface. Do not create parallel shoulder lines or even spacing. The three are positioned close enough for conversation, staggered in depth by roughly 1 meter each. A single AF plane near Female 1's face in the foreground; the two in the back may be slightly softer following natural distance falloff, yet their features and actions remain distinguishable. There is localized slight motion blur on water droplets and moving hands, without artificially sharpening only the skin and faces.\n\nBackground and Lighting:\nCalm blue-green sea, a soft-focused distant coastline and Enoshima, natural afternoon daylight. Weak reflections from the water surface reach clothing and faces, while hair shadows remain.\n\nRequired and Excluded Elements:\nSeawater reaches from thigh to around waist height, and the feet of all three touch the seabed. Only small water splashes; no large waves, diving, falling, or hazardous actions. Accurately depict contact between arms and the swim ring, with two arms and two hands per person. No duplicated faces or arms, and no merging of bodies with the swim ring. Coastline and Enoshima visible in the background. Do not add text, logos, or split screens.\n\nFixed Photorealistic Quality:\nA single, near-raw HEIC photo taken with a standard smartphone camera app. Do not use portrait mode, beauty filters, face-only relighting, exposure correction, resharpening, noise reduction, or skin smoothing. AF is placed only on the single plane specified in the camera section, rendering that plane most naturally clear, while figures, limbs, props, and background before and behind it soften progressively according to distance and movement. Do not apply fake pores or global 8K sharpness to distant faces; retain broad tonal variations such as faint redness on one cheek, uneven T-zone highlights, asymmetrical under-eye areas, and mild redness around the nose. On resolving exposed skin nearby, retain non-repeating subtle skin tone shifts, natural redness at joints and pressure points, and fine shading. Render skin, hair, fabric, metal, wood, walls, and water with distinct material-specific reflections, edges, and textures, rather than uniform gloss or uniform sharpness. Allow modest HDR, subtle AWB variations, fine noise limited to shadow areas, slight HEIC compression, and mild localized hand-shake or framing deviation, but avoid full-frame fake grain, uniform blur, or over-sharpening. Let it exist as an unpolished, authentic moment preserved in a personal camera roll, avoiding any resemblance to an advertisement, gravure, fashion campaign, studio beauty photography, cinematic color grading, or perfect symmetrical composition."
+  },
+  "summaryTranslations": {
+    "en": "An image generation prompt resembling a smartphone snapshot of three Japanese women playing in the shallow waters of Enoshima."
+  },
+  "translationVersion": 2,
+  "summary": "江ノ島の浅瀬で水遊びをする日本人女性3人を、スマートフォンの標準カメラで撮影したスナップ写真風の画像生成プロンプト。",
+  "summaryEn": "Prompt for generating candid smartphone-style photos of three Japanese women playing in the shallow waters of Enoshima with a pink float ring.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101189292827779362",
+      "canonicalUrl": "https://x.com/HObE4TLMga99335/status/2101189292827779362",
+      "author": {
+        "username": "HObE4TLMga99335",
+        "displayName": "架空美女のカメラロール｜AI美女",
+        "profileUrl": "https://x.com/HObE4TLMga99335"
+      },
+      "originalText": "【江ノ島の休日｜浮き輪はひとつで足りた】\n\n髪を結んで、海の中へ。\n水をかけたあかりも、支えるみおも、逃げきれないましろも。\n\n情報工学科4年のあかり（22歳・168cm）、ベーカリーカフェ店長のみお（30歳・166cm）、ネイリストのましろ（23歳・152cm）。\n\n#AI美女 #AI写真館 https://t.co/U6AiitPbnA"
+    },
+    "id": "2101647060357222565",
+    "canonicalUrl": "https://x.com/HObE4TLMga99335/status/2101647060357222565",
+    "author": {
+      "username": "HObE4TLMga99335",
+      "displayName": "架空美女のカメラロール｜AI美女",
+      "profileUrl": "https://x.com/HObE4TLMga99335"
+    },
+    "publishedAt": "2026-09-20T12:18:00.000Z",
+    "collectedAt": "2026-09-20T16:16:34.155Z",
+    "language": "ja",
+    "originalText": "【Prompt & Variation Lab｜浮き輪はひとつで足りた】\n\n顔指定なし。この日本語Promptによる生成例2枚です。\n\n▼日本語Prompt全文\n人物同一性：\n女性1は22歳の成人日本人女性、168cm、情報工学科4年生。縦長のハート形の顔、横長のアーモンド目、アーチ眉、右頬の小さなほくろ、胸下までの完全にまっすぐな黒髪。女性2は30歳の成人日本人女性、166cm、ベーカリーカフェ店長。柔らかな丸卵型の顔、鼻の薄いそばかす、左目尻の下のほくろ、笑ったときのえくぼ。黒い肩丈ボブでグレーは耳まわりと下層の内側だけ。海では眼鏡を外す。女性3は23歳の成人日本人女性、152cm、ネイリスト。丸い小顔、垂れ目、右目の下のほくろ、黒髪の低いツインテール、毛先の内側にだけダスティピンク。3人の成人らしい顔と自然な全身比率を維持し、別人同士の特徴を混ぜない。\n\n髪型：\n女性1の胸下までの長い黒髪ストレートを、後頭部で一本のポニーテールに結ぶ。長さとまっすぐな毛質を保ち、濡れた長い髪が顔や前身頃を覆わない。女性2の肩丈ストレートボブは襟足で小さな低い一つ結びにし、届かない短い毛は耳にかける。頭頂と表面と根元は黒、耳の内側と結び目の下の毛先だけにスモーキーグレーを残す。女性2の髪を長く伸ばさず、大きい団子にしない。女性3は黒髪の低いツインテールと毛先の内側のダスティピンクを維持する。\n\n衣装：\n女性1は水色、女性2はチャコール、女性3はダスティピンクの、前が完全に閉じた不透明な半袖ラッシュガード。それぞれ不透明なスポーツ水着の上に着ており、胸元・腹部・肩を覆う。女性1と女性3は紺、女性2は黒の膝上丈スイムショーツ。裸足。衣装を透けさせたり脱がせたりしない。\n\n場面と構図：\n横長3:2の一続きの写真1枚。午後の江ノ島の海の浅瀬。3人を横並び・等間隔の記念撮影の整列にしない。穏やかな浅瀬で3人が互いの方を向いて、小さな三角形に位置する。左寄り手前の女性1は横向き寄りの三分の二向きで、右奥の女性3へ少量の水を片手で弾いている。もう片方の手は水面近くに自然に添える。女性1の顔は横顔気味で相手を見ながら笑う。右寄りの少し奥にいる女性3は淡いピンクの浮き輪を使い、左手で輪の縁をつかみ、女性1の小さな水しぶきに驚いて右の前腕を軽く上げる。笑いながら目を少し細めるが顔は見える。女性3の隣のさらに奥、画面中央寄りの女性2は、女性3の浮き輪の奥側の縁を片手で軽く支えて一緒に遊ぶ。女性2のもう片方の腕は自分の脇で自然に水面へ下ろす。女性2は女性3を見て笑っている。3人の頭や肩に前後差があり、女性1の肩と女性3の浮き輪のごく一部が自然に重なるが、顔や手の所有が曖昧になる重なりは避ける。浮き輪は女性3のピンク1個だけ。女性1と女性2には浮き輪を付けず、青白や黄色の輪は描かない。\n\n撮影：\n友人の遊びに割り込まない斜めからのスマホ写真。誰もカメラを見ない。頭上と左右に余白を取り、3人の上半身、女性3の浮き輪1個、全員が水に入っている様子、前景の水面を入れる。平行な肩の列や均等配置を作らない。3人は近い距離で会話できる配置だが、奥行きは約1mずつずらす。手前の女性1の顔付近へ単一AF、奥の2人は自然な距離差に従い少し柔らかくても、顔立ちと動作は判別できる。局所的に水滴と動く手の軽いブレがあり、肌と顔だけを鮮明化しない。\n\n背景と光：\n穏やかな青緑の海、遠くに柔らかく写る海岸線と江ノ島、午後の自然光。水面からの弱い反射が服や顔へ届き、髪の影は残る。\n\n必須と避ける表現：\n海水は太ももから腰付近、3人の足は海底についている。小さい水しぶきだけで、大波、潜水、転倒、危険な動作はない。浮き輪と腕の接触、人物ごとの腕2本・手2つを正しく描く。顔や腕が重複せず、浮き輪に身体が融合しない。背景に海岸線と江ノ島が見える。文字、ロゴ、分割画面を足さない。\n\n固定実写品質：\n普通のスマートフォンの標準カメラアプリで撮った、未加工に近い単体HEIC写真。ポートレートモード、美肌フィルター、顔だけの再照明・露出補正・再シャープ・ノイズ除去・肌補正を使わない。AFはカメラ節で指定した一面だけに置き、その面を最も自然に明瞭にし、前後の人物・手足・小物・背景は距離と動きに従って連続的に甘くする。遠い顔に偽の毛穴や全域8K解像を加えず、片頬の弱い赤み、均一でないTゾーン反射、左右差のある目の下、鼻まわりの軽い赤みなど複数の広い色調差を残す。近く解像する露出肌には、反復しない弱い肌色差、関節や圧の自然な赤み、細かな陰影を残す。肌、髪、布、金属、木、壁、水などは素材ごとに異なる反射・エッジ・細部を持たせ、同じツヤや同じシャープさにしない。控えめなHDR、わずかなAWB差、暗部だけの微細ノイズ、弱いHEIC圧縮、局所的な軽い手ブレと構図ずれを許容するが、全画面への偽粒子、一律ぼかし、過剰シャープは行わない。個人のカメラロールに残った未完成な瞬間として成立させ、広告、グラビア、ファッションキャンペーン、スタジオ美容写真、映画的カラーグレーディング、完璧な左右対称構図にしない。\n\n#AI美女 #PromptLab #VariationLab #AI美女プロンプト\n\nhttps://t.co/dbC2Xeg0E3",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSp3OXeaAAABIE4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSp3OXeaAAABIE4.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSp3OXdbEAA01dM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSp3OXdbEAA01dM.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSjWb3waMAAnLVg.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSjWb3waMAAnLVg.jpg",
+        "sourcePostId": "2101189292827779362"
+      }
+    ],
+    "metrics": {
+      "likeCount": 10,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 2143
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/HObE4TLMga99335/status/2101647060357222565",
+  "coverUrl": "https://pbs.twimg.com/media/HSp3OXeaAAABIE4.jpg",
+  "coverPath": "images/2101647060357222565-1.jpg",
+  "imagePaths": [
+    "images/2101647060357222565-1.jpg",
+    "images/2101647060357222565-2.jpg",
+    "images/2101647060357222565-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSp3OXeaAAABIE4",
+    "x-image:/media/HSp3OXdbEAA01dM",
+    "x-image:/media/HSjWb3waMAAnLVg",
+    "x-post:2101647060357222565",
+    "x-post:2101189292827779362"
+  ],
+  "analysis": {
+    "summary": "江ノ島の浅瀬で水遊びをする日本人女性3人を、スマートフォンの標準カメラで撮影したスナップ写真風の画像生成プロンプト。",
+    "summaryEn": "Prompt for generating candid smartphone-style photos of three Japanese women playing in the shallow waters of Enoshima with a pink float ring.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images faithfully present the three women in matching rashguards (blue, charcoal, pink), playing in shallow water with a single pink ring in front of Enoshima, perfectly reflecting the detailed prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "人物同一性：\n女性1は22歳の成人日本人女性、168cm、情報工学科4年生。縦長のハート形の顔、横長のアーモンド目、アーチ眉、右頬の小さなほくろ、胸下までの完全にまっすぐな黒髪。女性2は30歳の成人日本人女性、166cm、ベーカリーカフェ店長。柔らかな丸卵型の顔、鼻の薄いそばかす、左目尻の下のほくろ、笑ったときのえくぼ。黒い肩丈ボブでグレーは耳まわりと下層の内側だけ。海では眼鏡を外す。女性3は23歳の成人日本人女性、152cm、ネイリスト。丸い小顔、垂れ目、右目の下のほくろ、黒髪の低いツインテール、毛先の内側にだけダスティピンク。3人の成人らしい顔と自然な全身比率を維持し、別人同士の特徴を混ぜない。\n\n髪型：\n女性1の胸下までの長い黒髪ストレートを、後頭部で一本のポニーテールに結ぶ。長さとまっすぐな毛質を保ち、濡れた長い髪が顔や前身頃を覆わない。女性2の肩丈ストレートボブは襟足で小さな低い一つ結びにし、届かない短い毛は耳にかける。頭頂と表面と根元は黒、耳の内側と結び目の下の毛先だけにスモーキーグレーを残す。女性2の髪を長く伸ばさず、大きい団子にしない。女性3は黒髪の低いツインテールと毛先の内側のダスティピンクを維持する。\n\n衣装：\n女性1は水色、女性2はチャコール、女性3はダスティピンクの、前が完全に閉じた不透明な半袖ラッシュガード。それぞれ不透明なスポーツ水着の上に着ており、胸元・腹部・肩を覆う。女性1と女性3は紺、女性2は黒の膝上丈スイムショーツ。裸足。衣装を透けさせたり脱がせたりしない。\n\n場面と構図：\n横長3:2の一続きの写真1枚。午後の江ノ島の海の浅瀬。3人を横並び・等間隔の記念撮影の整列にしない。穏やかな浅瀬で3人が互いの方を向いて、小さな三角形に位置する。左寄り手前の女性1は横向き寄りの三分の二向きで、右奥の女性3へ少量の水を片手で弾いている。もう片方の手は水面近くに自然に添える。女性1の顔は横顔気味で相手を見ながら笑う。右寄りの少し奥にいる女性3は淡いピンクの浮き輪を使い、左手で輪の縁をつかみ、女性1の小さな水しぶきに驚いて右の前腕を軽く上げる。笑いながら目を少し細めるが顔は見える。女性3の隣のさらに奥、画面中央寄りの女性2は、女性3の浮き輪の奥側の縁を片手で軽く支えて一緒に遊ぶ。女性2のもう片方の腕は自分の脇で自然に水面へ下ろす。女性2は女性3を見て笑っている。3人の頭や肩に前後差があり、女性1の肩と女性3の浮き輪のごく一部が自然に重なるが、顔や手の所有が曖昧になる重なりは避ける。浮き輪は女性3のピンク1個だけ。女性1と女性2には浮き輪を付けず、青白や黄色の輪は描かない。\n\n撮影：\n友人の遊びに割り込まない斜めからのスマホ写真。誰もカメラを見ない。頭上と左右に余白を取り、3人の上半身、女性3の浮き輪1個、全員が水に入っている様子、前景の水面を入れる。平行な肩の列や均等配置を作らない。3人は近い距離で会話できる配置だが、奥行きは約1mずつずらす。手前の女性1の顔付近へ単一AF、奥の2人は自然な距離差に従い少し柔らかくても、顔立ちと動作は判別できる。局所的に水滴と動く手の軽いブレがあり、肌と顔だけを鮮明化しない。\n\n背景と光：\n穏やかな青緑の海、遠くに柔らかく写る海岸線と江ノ島、午後の自然光。水面からの弱い反射が服や顔へ届き、髪の影は残る。\n\n必須と避ける表現：\n海水は太ももから腰付近、3人の足は海底についている。小さい水しぶきだけで、大波、潜水、転倒、危険な動作はない。浮き輪と腕の接触、人物ごとの腕2本・手2つを正しく描く。顔や腕が重複せず、浮き輪に身体が融合しない。背景に海岸線と江ノ島が見える。文字、ロゴ、分割画面を足さない。\n\n固定実写品質：\n普通のスマートフォンの標準カメラアプリで撮った、未加工に近い単体HEIC写真。ポートレートモード、美肌フィルター、顔だけの再照明・露出補正・再シャープ・ノイズ除去・肌補正を使わない。AFはカメラ節で指定した一面だけに置き、その面を最も自然に明瞭にし、前後の人物・手足・小物・背景は距離と動きに従って連続的に甘くする。遠い顔に偽の毛穴や全域8K解像を加えず、片頬の弱い赤み、均一でないTゾーン反射、左右差のある目の下、鼻まわりの軽い赤みなど複数の広い色調差を残す。近く解像する露出肌には、反復しない弱い肌色差、関節や圧の自然な赤み、細かな陰影を残す。肌、髪、布、金属、木、壁、水などは素材ごとに異なる反射・エッジ・細部を持たせ、同じツヤや同じシャープさにしない。控えめなHDR、わずかなAWB差、暗部だけの微細ノイズ、弱いHEIC圧縮、局所的な軽い手ブレと構図ずれを許容するが、全画面への偽粒子、一律ぼかし、過剰シャープは行わない。個人のカメラロールに残った未完成な瞬間として成立させ、広告、グラビア、ファッションキャンペーン、スタジオ美容写真、映画的カラーグレーディング、完璧な左右対称構図にしない。",
+    "sourceRange": {
+      "start": 81,
+      "end": 2141
+    },
+    "translations": {
+      "zh": "人物一致性：女性1为22岁成年日本女性，身高168cm，信息工程大四学生。倒心形长脸，横向杏眼，弯眉，右颊有小痣，及胸垂直黑发。女性2为30岁成年日本女性，身高166cm，咖啡面包店店长。柔和椭圆脸，鼻梁有浅雀斑，左眼尾下方有痣，微笑时有酒窝。齐肩黑色短发，内层及耳周留灰。海边摘掉眼镜。女性3为23岁成年日本女性，身高152cm，美甲师。圆脸小巧，下垂眼，右眼下方有痣，黑发低双马尾，发尾内侧带灰粉色。保持三人成人面容与自然比例，特征互不混淆。\n\n发型：女性1及胸长直发在脑后扎成单马尾，保持垂坠质感；女性2齐肩直发在颈后扎低马尾，碎发别于耳后；女性3保持黑发低双马尾及发尾灰粉挑染。\n\n服装：女性1浅蓝、女性2炭灰、女性3灰粉的前拉链半袖防晒潜水服，内搭不透光运动泳衣。女性1与3穿深蓝泳裤，女性2穿黑色过膝泳裤，均赤足。\n\n场景构图：3:2横向构图。午后江之岛浅滩。三人呈小三角形互动，左前方女性1向右后方女性3泼浅水，女性3套着粉色泳圈微缩前臂欢笑，中央稍后处的女性2扶着泳圈微笑陪伴。单粉色泳圈，无多余浮圈。\n\n拍摄与质感：随行抓拍视角的智能手机未加工照片，单点对焦女性1，自然景深及微动态模糊，保留真实肤色与材质细节，无美颜或过度HDR。",
+      "en": "Identity: Female 1 (22yo, 168cm, long straight black ponytail, blue rashguard), Female 2 (30yo, 166cm, bob tied in low ponytail, charcoal rashguard), Female 3 (23yo, 152cm, low pigtails with dusty pink tips, pink rashguard). Distinct natural proportions.\n\nSetting & Action: Afternoon shallow water at Enoshima. Triangle composition. Female 1 splashes water towards Female 3 in a single pink swim ring, while Female 2 lightly supports the ring and smiles. Casual phone snapshot perspective, natural lighting, realistic phone camera texture without beauty filters."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Generating candid, photorealistic smartphone snapshots of three Japanese women playing in shallow sea water at Enoshima.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
