@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:30:06.933Z",
+  "model": "unknown-image",
+  "prompt": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste (circuit boards, keyboards, copper wires, remotes, phones, computer mice, CRT screens, cables). Neutral light-grey backdrop, soft product lighting, intricate assemblage clearly readable as the animal. Small French label naming the subject (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). No English, no logos, no watermarks. Aspect ratio 3:4",
+  "promptTranslations": {
+    "en": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste (circuit boards, keyboards, copper wires, remotes, phones, computer mice, CRT screens, cables). Neutral light-grey backdrop, soft product lighting, intricate assemblage clearly readable as the animal. Small French label naming the subject (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). No English, no logos, no watermarks. Aspect ratio 3:4"
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste with a small French label on a neutral grey background."
+  },
+  "translationVersion": 2,
+  "summary": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste with a small French label on a neutral grey background.",
+  "summaryEn": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste with a small French label on a neutral grey background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101630333850456318",
+    "canonicalUrl": "https://x.com/Weilnes/status/2101630333850456318",
+    "author": {
+      "username": "Weilnes",
+      "displayName": "Weilnes 🫀",
+      "profileUrl": "https://x.com/Weilnes"
+    },
+    "publishedAt": "2026-09-20T11:11:32.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "fr",
+    "originalText": "Quatre prédateurs. Circuits recyclés, zéro CGI.\n\nPrompt :\n```\nPhotorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste (circuit boards, keyboards, copper wires, remotes, phones, computer mice, CRT screens, cables). Neutral light-grey backdrop, soft product lighting, intricate assemblage clearly readable as the animal. Small French label naming the subject (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). No English, no logos, no watermarks. Aspect ratio 3:4\n```",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSp9gFWWAAAQc2G.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSp9gFWWAAAQc2G.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSp9gFWXgAA5Eh4.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSp9gFWXgAA5Eh4.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSp9gGTXcAEH5uO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSp9gGTXcAEH5uO.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSp9gFWWIAAq9RP.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSp9gFWWIAAq9RP.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 5
+    },
+    "matchedRuleIds": [
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:fr:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Weilnes/status/2101630333850456318",
+  "coverUrl": "https://pbs.twimg.com/media/HSp9gFWWAAAQc2G.jpg",
+  "coverPath": "images/2101630333850456318-1.jpg",
+  "imagePaths": [
+    "images/2101630333850456318-1.jpg",
+    "images/2101630333850456318-2.jpg",
+    "images/2101630333850456318-3.jpg",
+    "images/2101630333850456318-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSp9gFWWAAAQc2G",
+    "x-image:/media/HSp9gFWXgAA5Eh4",
+    "x-image:/media/HSp9gGTXcAEH5uO",
+    "x-image:/media/HSp9gFWWIAAq9RP",
+    "x-post:2101630333850456318"
+  ],
+  "analysis": {
+    "summary": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste with a small French label on a neutral grey background.",
+    "summaryEn": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste with a small French label on a neutral grey background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the animal subjects (lion, shark, eagle, polar bear) constructed out of electronic waste components, featuring studio lighting and the requested French labels."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste (circuit boards, keyboards, copper wires, remotes, phones, computer mice, CRT screens, cables). Neutral light-grey backdrop, soft product lighting, intricate assemblage clearly readable as the animal. Small French label naming the subject (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). No English, no logos, no watermarks. Aspect ratio 3:4",
+    "sourceRange": {
+      "start": 62,
+      "end": 539
+    },
+    "translations": {
+      "zh": "由回收电子废弃物（电路板、键盘、铜线、遥控器、手机、鼠标、CRT屏幕、电缆）制作的[动物]逼真影棚雕塑。中性浅灰背景，柔和产品光照，结构精细且可辨识。带法语标牌。无英文、无徽标、无水印。纵横比3:4",
+      "en": "Photorealistic studio sculpture of [ANIMAL] made entirely from recycled electronics and e-waste (circuit boards, keyboards, copper wires, remotes, phones, computer mice, CRT screens, cables). Neutral light-grey backdrop, soft product lighting, intricate assemblage clearly readable as the animal. Small French label naming the subject (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). No English, no logos, no watermarks. Aspect ratio 3:4"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept-art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

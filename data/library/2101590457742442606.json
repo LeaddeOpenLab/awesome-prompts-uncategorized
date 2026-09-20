@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:30:46.553Z",
+  "model": "unknown-image",
+  "prompt": "超写实室内居家人像摄影，竖版约 4:5。一名明确成年的东亚女性，20+，半躺在黑色绒面沙发上，身体沿沙发斜向展开，摄影者位于人物正前方略偏左，以 28–35mm 等效镜头近距离拍摄，完整保留头部、躯干、双腿和脚部。\n\n人物为自然纤细沙漏型身材，肩部偏窄，腰部收束，髋部圆润",
+  "promptTranslations": {
+    "en": "Hyperrealistic indoor home portrait photography, vertical orientation approximately 4:5. An unambiguously adult East Asian female, 20+, reclining on a black velvet sofa, her body stretching diagonally along the couch, the photographer positioned directly in front of the subject slightly to the left, shot at close range with a 28–35mm equivalent lens, completely capturing the head, torso, legs, and feet.\\n\\nThe subject has a naturally slender hourglass figure, with rather narrow shoulders, a cinched waist, and rounded hips"
+  },
+  "summaryTranslations": {
+    "en": "Indoor hyperrealistic portrait photography depicting a full-body view of a young East Asian female reclining on a black velvet sofa."
+  },
+  "translationVersion": 2,
+  "summary": "室内超写实人像摄影，描绘斜躺在黑绒沙发上的年轻东亚女性全景。",
+  "summaryEn": "Indoor realistic portrait of a young East Asian female reclining on a black sofa.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101590457742442606",
+    "canonicalUrl": "https://x.com/naxingxiaochen/status/2101590457742442606",
+    "author": {
+      "username": "naxingxiaochen",
+      "displayName": "徐徐升华",
+      "profileUrl": "https://x.com/naxingxiaochen"
+    },
+    "publishedAt": "2026-09-20T08:33:05.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "zh",
+    "originalText": "Prompt：超写实室内居家人像摄影，竖版约 4:5。一名明确成年的东亚女性，20+，半躺在黑色绒面沙发上，身体沿沙发斜向展开，摄影者位于人物正前方略偏左，以 28–35mm 等效镜头近距离拍摄，完整保留头部、躯干、双腿和脚部。\n\n人物为自然纤细沙漏型身材，肩部偏窄，腰部收束，髋部圆润 https://t.co/YmyMbBYVvi",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSpZXz3XYAAMeVb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSpZXz3XYAAMeVb.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/naxingxiaochen/status/2101590457742442606",
+  "coverUrl": "https://pbs.twimg.com/media/HSpZXz3XYAAMeVb.jpg",
+  "coverPath": "images/2101590457742442606-1.jpg",
+  "imagePaths": [
+    "images/2101590457742442606-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSpZXz3XYAAMeVb",
+    "x-post:2101590457742442606"
+  ],
+  "analysis": {
+    "summary": "室内超写实人像摄影，描绘斜躺在黑绒沙发上的年轻东亚女性全景。",
+    "summaryEn": "Indoor realistic portrait of a young East Asian female reclining on a black sofa.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确展现了半躺在黑色沙发上的年轻东亚女性，构图、视角和身材特征与描述高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实室内居家人像摄影，竖版约 4:5。一名明确成年的东亚女性，20+，半躺在黑色绒面沙发上，身体沿沙发斜向展开，摄影者位于人物正前方略偏左，以 28–35mm 等效镜头近距离拍摄，完整保留头部、躯干、双腿和脚部。\n\n人物为自然纤细沙漏型身材，肩部偏窄，腰部收束，髋部圆润",
+    "sourceRange": {
+      "start": 7,
+      "end": 143
+    },
+    "translations": {
+      "zh": "超写实室内居家人像摄影，竖版约 4:5。一名明确成年的东亚女性，20+，半躺在黑色绒面沙发上，身体沿沙发斜向展开，摄影者位于人物正前方略偏左，以 28–35mm 等效镜头近距离拍摄，完整保留头部、躯干、双腿和脚部。\n\n人物为自然纤细沙漏型身材，肩部偏窄，腰部收束，髋部圆润",
+      "en": "Hyperrealistic indoor portrait photography, vertical approx 4:5. An adult East Asian female, 20+, reclining diagonally on a black velvet sofa. Shot up-close from slightly left of front with 28-35mm equivalent lens, fully capturing head, torso, legs, and feet. Slender hourglass figure, narrow shoulders, slim waist, rounded hips."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

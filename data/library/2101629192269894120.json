@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:30:01.909Z",
+  "model": "unknown-image",
+  "prompt": "人物同一性：\n女性1：架空の成人日本人女性22歳、情報工学科4年生。身長168cm、脚が長く姿勢のよい、自然で現実的なグラマラス体型。胸郭に釣り合う自然な重みと幅、現実的なウエスト、脚と釣り合う骨盤とヒップを保つ。押し上げや身体部位の強調はしない。縦長寄りのハート形の顔、高い頬骨、細い顎、軽い奥二重の横長アーモンド目、わずかに上がる目尻、高いアーチ眉、細くまっすぐな鼻とシャープな鼻先、厚みのある唇。日焼けしていない明るいニュートラル肌、本人右頬の高い位置に小さなほくろ1個。黒髪ロングレイヤーは胸下まで完全なストレート。ハニーブラウンの瞳、細い跳ね上げアイライン、コーラルベージュの唇、細い金のフープ。自信のある歯見せ笑顔が特徴だが、本シーンの指定表情を優先して同じ表情を反復しない。\n女性2：架空の成人日本人女性30歳、ベーカリーカフェ店長。166cmで脚が長く、健康的で現実的な砂時計型。自然なの重みと胸郭に釣り合う幅、現実的なウエスト、やや丸みのあるヒップと骨盤から上腿への自然な連続を保つ。極端な細腰、球状の胸、過剰なヒップにしない。コンパクトな丸卵型の顔、柔らかな頬と丸い顎、大きな二重のアーモンド寄りの丸い濃茶の目、ごく軽い垂れ目、柔らかなアーチ眉、自然な鼻筋と丸い鼻先、厚みのある唇。明るいウォームニュートラル肌、鼻上の薄いそばかす、本人左目尻の下の小さなほくろ、笑ったときの両頬のえくぼ。肩丈のストレートなレイヤーボブ、頭頂・根元・表面・前髪は黒〜ダークチャコール。スモーキーグレーは耳まわりと下層の毛先の内側だけ。中央分割やグレーの表面髪にしない。トープの目元、ローズベージュの唇、細い銀のフープ。丸い細い黒縁眼鏡。場面に応じた生きた表情。\n女性3：架空の成人日本人女性23歳、ネイリスト。152cmの小柄で柔らかな成人体型、自然な体格、現実的な肩と胸郭、ウエスト、比例した骨盤とヒップ、成人の四肢比率。丸い小顔、大きな濃茶の垂れ目、短い平行眉、小さな鼻、柔らかな唇、明るいニュートラル肌、本人右目の下に小さなほくろ1個。艶のある黒髪セミロングの低いツインテール。ダスティピンクは下層の毛先の内側だけ、頭頂や根元は黒。成人らしいピンク系の目元で白塗りにしない。照れた閉じ口の笑みが特徴。朝は髪を結んでいる途中、帰宅後は髪をほどいた状態という指定アレンジを適用する。未成年・制服・コスプレにしない。\n3人の顔、年齢、髪、体型、ほくろ、衣装、持ち物を混ぜない。3人とも首を傾けて笑う同じポーズにしない。小柄な女性3を子供にしない。記述した顔・体格を維持し、広告的な表面加工はしない。\n\n場面：待ち合わせ\n江ノ島へ向かう駅前の明るい日陰。女性1が画面左手前から片手で撮る広角の3人自撮り。自撮り端末そのものは画面内に重複させない。中央の女性2と右の女性3が近づいて入る。女性1は女性3の大きな黒いトートを見て少し眉を上げ、笑いを含んだ驚きの顔。女性2はトートの口から見える大きなタオルに気づいて笑う。女性3はバッグの持ち手を両手で持ち、少し得意そうに閉じ口で笑う。バッグの上部も下端へ入れる。168cm、166cm、152cmの自然な差。3人の顔は隠れず、他人の顔や読める駅名は入れない。普通のスマホ広角前面カメラ、手前女性1の目付近に単一AF、後ろの2人は距離相応に少し柔らかい。\n\n衣装：\n女性1は白いフィットした不透明なノースリーブとブルーのデニムショートパンツ、白い歩きやすいスニーカー、細い金のフープとスマートウォッチ。女性2はチャコールの不透明なノースリーブと黒い薄手ワイドパンツ、フラットサンダル、細い銀のフープと黒縁丸眼鏡。女性3は小さなリボン付きの黒い不透明ノースリーブとくすみピンクのキュロット、歩きやすい黒いサンダル。\n\n画面構成：\n横長3:2、一続きの写真1枚。3人が同じ空間に一緒にいる。分割・コラージュ・枠・名前・文字はない。主役は女性1・女性2・女性3の計3人だけ。\n\n固定実写品質：\n普通のスマートフォンの標準カメラアプリで撮った、未加工に近い単体HEIC写真。ポートレートモード、美肌フィルター、顔だけの再照明・露出補正・再シャープ・ノイズ除去・肌補正を使わない。AFはカメラ節で指定した一面だけに置き、その面を最も自然に明瞭にし、前後の人物・手足・小物・背景は距離と動きに従って連続的に甘くする。遠い顔に偽の毛穴や全域8K解像を加えず、片頬の弱い赤み、均一でないTゾーン反射、左右差のある目の下、鼻まわりの軽い赤みなど複数の広い色調差を残す。近く解像する露出肌には、反復しない弱い肌色差、関節や圧の自然な赤み、細かな陰影を残す。肌、髪、布、金属、木、壁、水などは素材ごとに異なる反射・エッジ・細部を持たせ、同じツヤや同じシャープさにしない。控えめなHDR、わずかなAWB差、暗部だけの微細ノイズ、弱いHEIC圧縮、局所的な軽い手ブレと構図ずれを許容するが、全画面への偽粒子、一律ぼかし、過剰シャープは行わない。個人のカメラロールに残った未完成な瞬間として成立させ、広告、グラビア、ファッションキャンペーン、スタジオ美容写真、映画的カラーグレーディング、完璧な左右対称構図にしない。\n\n必須と避ける表現：各人は1つの頭・顔・胴と、解剖学的につながる2本の腕と2本の脚。手は持ち主と小物との接触が明瞭。余分な人物、人物の複製、顔の平均化、顔や髪や衣装の交換、余分・欠落した四肢、融合した指、不自然な手掌、物を貫通する手、浮く物、左右の特徴の反転、未成年、幼い成人表現、制服、実在人物、露骨なヌード、透けた衣服、下着化、身体部位のみの切り取り、読める文字・ロゴ・透かし、アニメ、CG、全員同じ笑顔・同じ首の傾き・同じカメラ目線を避ける。",
+  "promptTranslations": {
+    "en": "Character Identity:\nFemale 1: A fictional adult Japanese woman, 22 years old, 4th-year computer science student. Height 168 cm, with long legs and good posture, naturally and realistically glamorous physique. Maintains natural weight and width proportionate to the ribcage, a realistic waist, and pelvis and hips proportionate to the legs. No push-up or exaggeration of body parts. Slightly vertically elongated heart-shaped face, high cheekbones, slender jaw, horizontal almond eyes with slight hooded double eyelids, slightly upturned outer corners, high arched eyebrows, slim and straight nose with a sharp nasal tip, full lips. Fair, untanned neutral skin with a single small mole high on her right cheek. Long black layered hair falling completely straight below the bust. Honey-brown eyes, thin winged eyeliner, coral-beige lips, thin gold hoops. Characterized by a confident smile showing teeth, but prioritizing the designated expression for this scene without repeating identical expressions.\nFemale 2: A fictional adult Japanese woman, 30 years old, bakery cafe manager. Height 166 cm with long legs, healthy and realistic hourglass figure. Maintains natural weight and width proportionate to the ribcage, a realistic waist, slightly rounded hips with a natural transition from pelvis to upper thighs. No extreme wasp waist, spherical bust, or excessive hips. Compact, round-oval face, soft cheeks and rounded jaw, large deep brown rounded almond eyes with double eyelids, very slight drooping outer corners, softly arched eyebrows, natural nasal bridge with a rounded tip, full lips. Fair warm-neutral skin, faint freckles across the nose, a small mole beneath the outer corner of her left eye, dimples on both cheeks when smiling. Shoulder-length straight layered bob; crown, roots, surface hair, and bangs are black to dark charcoal. Smoky gray is applied only to the inner underlayer around the ears and ends. No middle parts or gray surface hair. Taupe eye makeup, rose-beige lips, thin silver hoops. Round, thin black-rimmed glasses. Vivid, contextual expressions.\nFemale 3: A fictional adult Japanese woman, 23 years old, manicurist. Petite 152 cm with a soft adult physique, natural build, realistic shoulders and ribcage, waist, proportionate pelvis and hips, adult limb proportions. Small round face, large dark brown droopy eyes, short straight eyebrows, small nose, soft lips, fair neutral skin, a single small mole under her right eye. Glossy black semi-long hair in low pigtails. Dusty pink is only in the inner underlayer tips; crown and roots are black. Adult-appropriate pink-toned eye makeup without stark white face paint. Characterized by a shy, closed-mouth smile. Applies designated hair styling: tied hair during the morning, loose hair after returning home. Not a minor, no uniforms, no cosplay.\nDo not mix up the faces, ages, hair, physiques, moles, clothing, or belongings of the three individuals. Do not have all three tilt their heads and smile in the same pose. Do not portray the petite Female 3 as a child. Maintain the described facial and physical characteristics without commercial post-processing gloss.\n\nScene: Meeting Up\nBright shade in front of the station heading to Enoshima. A wide-angle group selfie of the three taken one-handed by Female 1 from the near left foreground of the frame. The selfie device itself is not shown redundantly in the frame. Female 2 in the center and Female 3 on the right lean in close. Female 1 slightly raises an eyebrow at Female 3's large black tote bag, with an amused, surprised expression. Female 2 laughs upon noticing a large towel peeking out from the opening of the tote. Female 3 holds the tote bag handles with both hands, smiling with a closed mouth and a slightly proud expression. The upper portion of the bag is included at the bottom edge. Natural height differences of 168 cm, 166 cm, and 152 cm. The faces of the three are unobscured; no other people's faces or legible station names are included. Ordinary smartphone wide-angle front camera, single autofocus near the eyes of Female 1 in the foreground; the two behind her are naturally slightly softer depending on distance.\n\nCostumes:\nFemale 1 wears a fitted, opaque white sleeveless top, blue denim shorts, comfortable white walking sneakers, thin gold hoops, and a smartwatch. Female 2 wears an opaque charcoal sleeveless top, lightweight black wide-leg trousers, flat sandals, thin silver hoops, and round black-rimmed glasses. Female 3 wears an opaque black sleeveless top with a small ribbon accent, muted dusty pink culottes, and comfortable black walking sandals.\n\nFraming:\nHorizontal 3:2 aspect ratio, a single continuous photograph. All three are together in the same physical space. No split screens, collages, borders, names, or text. The only main subjects are the three people: Female 1, Female 2, and Female 3.\n\nFixed Photorealistic Quality:\nAn unedited, raw-like standalone HEIC photograph taken with a standard smartphone camera app. No portrait mode, beauty filters, selective facial relighting, exposure correction, resharpening, noise reduction, or skin smoothing. Autofocus is placed strictly on the single plane specified in the camera section, rendering that plane most naturally sharp, while subjects, limbs, accessories, and background in front or behind become continuously softer according to distance and motion. No artificial pores or uniform 8K sharpness added to distant faces; wide, natural tonal variations are preserved, such as faint redness on one cheek, uneven T-zone highlights, subtle asymmetry under the eyes, and mild redness around the nose. Close-up resolved exposed skin retains non-repeating subtle skin tone shifts, natural joint and pressure redness, and fine shading. Skin, hair, fabric, metal, wood, walls, and water possess distinct reflections, edges, and details tailored to each material, avoiding identical gloss or uniform sharpness. Subdued HDR, slight auto white balance variance, fine noise confined strictly to shadow areas, mild HEIC compression, and local minor hand tremor or slight framing misalignment are permitted, but no full-screen artificial film grain, uniform blur, or over-sharpening. Formed as an unpolished, authentic moment captured in an individual's personal camera roll, avoiding looks of advertising, gravure, fashion campaigns, beauty studio shoots, cinematic color grading, or perfect symmetrical composition.\n\nMandatory and Negative Constraints: Each person has one head, face, torso, and anatomically connected two arms and two legs. Hands have clear contact points with their owner and props. Avoid extra persons, person duplication, face averaging, face/hair/costume swapping, extra or missing limbs, fused fingers, unnatural palms, hands clipping through objects, floating items, left-right feature reversal, minors, childish adult portrayals, school uniforms, real people, explicit nudity, translucent clothing, look of underwear, isolated cropped body parts, readable text/logos/watermarks, anime, CG, identical smiles, identical head tilts, and all looking directly into the camera at once."
+  },
+  "summaryTranslations": {
+    "en": "Realistic smartphone selfie prompt of three adult women gathered in front of a station heading to Enoshima, happily posing around a large tote bag."
+  },
+  "translationVersion": 2,
+  "summary": "江ノ島へ向かう駅前で集合した3人の成人女性が、大きなトートバッグをネタに楽しげに撮るリアルなスマホ自撮り写真プロンプト。",
+  "summaryEn": "A detailed realistic prompt for a smartphone selfie of three distinct Japanese women gathering in front of a station with a large tote bag.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101114802370498616",
+      "canonicalUrl": "https://x.com/HObE4TLMga99335/status/2101114802370498616",
+      "author": {
+        "username": "HObE4TLMga99335",
+        "displayName": "架空美女のカメラロール｜AI美女",
+        "profileUrl": "https://x.com/HObE4TLMga99335"
+      },
+      "originalText": "【江ノ島の休日｜その荷物、何泊分？】\n\n待ち合わせから、もう笑ってる。\nましろの大きなバッグには、今日を楽しむ準備がぎっしり。\n\n情報工学科4年のあかり（22歳・168cm）、ベーカリーカフェ店長のみお（30歳・166cm）、ネイリストのましろ（23歳・152cm）。\n\n#AI美女 #AI写真館 https://t.co/EoMOmsGwDs"
+    },
+    "id": "2101629192269894120",
+    "canonicalUrl": "https://x.com/HObE4TLMga99335/status/2101629192269894120",
+    "author": {
+      "username": "HObE4TLMga99335",
+      "displayName": "架空美女のカメラロール｜AI美女",
+      "profileUrl": "https://x.com/HObE4TLMga99335"
+    },
+    "publishedAt": "2026-09-20T11:07:00.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "ja",
+    "originalText": "【Prompt & Variation Lab｜その荷物、何泊分？】\n\n顔指定なし。この日本語Promptによる生成例2枚です。\n\n▼日本語Prompt全文\n人物同一性：\n女性1：架空の成人日本人女性22歳、情報工学科4年生。身長168cm、脚が長く姿勢のよい、自然で現実的なグラマラス体型。胸郭に釣り合う自然な重みと幅、現実的なウエスト、脚と釣り合う骨盤とヒップを保つ。押し上げや身体部位の強調はしない。縦長寄りのハート形の顔、高い頬骨、細い顎、軽い奥二重の横長アーモンド目、わずかに上がる目尻、高いアーチ眉、細くまっすぐな鼻とシャープな鼻先、厚みのある唇。日焼けしていない明るいニュートラル肌、本人右頬の高い位置に小さなほくろ1個。黒髪ロングレイヤーは胸下まで完全なストレート。ハニーブラウンの瞳、細い跳ね上げアイライン、コーラルベージュの唇、細い金のフープ。自信のある歯見せ笑顔が特徴だが、本シーンの指定表情を優先して同じ表情を反復しない。\n女性2：架空の成人日本人女性30歳、ベーカリーカフェ店長。166cmで脚が長く、健康的で現実的な砂時計型。自然なの重みと胸郭に釣り合う幅、現実的なウエスト、やや丸みのあるヒップと骨盤から上腿への自然な連続を保つ。極端な細腰、球状の胸、過剰なヒップにしない。コンパクトな丸卵型の顔、柔らかな頬と丸い顎、大きな二重のアーモンド寄りの丸い濃茶の目、ごく軽い垂れ目、柔らかなアーチ眉、自然な鼻筋と丸い鼻先、厚みのある唇。明るいウォームニュートラル肌、鼻上の薄いそばかす、本人左目尻の下の小さなほくろ、笑ったときの両頬のえくぼ。肩丈のストレートなレイヤーボブ、頭頂・根元・表面・前髪は黒〜ダークチャコール。スモーキーグレーは耳まわりと下層の毛先の内側だけ。中央分割やグレーの表面髪にしない。トープの目元、ローズベージュの唇、細い銀のフープ。丸い細い黒縁眼鏡。場面に応じた生きた表情。\n女性3：架空の成人日本人女性23歳、ネイリスト。152cmの小柄で柔らかな成人体型、自然な体格、現実的な肩と胸郭、ウエスト、比例した骨盤とヒップ、成人の四肢比率。丸い小顔、大きな濃茶の垂れ目、短い平行眉、小さな鼻、柔らかな唇、明るいニュートラル肌、本人右目の下に小さなほくろ1個。艶のある黒髪セミロングの低いツインテール。ダスティピンクは下層の毛先の内側だけ、頭頂や根元は黒。成人らしいピンク系の目元で白塗りにしない。照れた閉じ口の笑みが特徴。朝は髪を結んでいる途中、帰宅後は髪をほどいた状態という指定アレンジを適用する。未成年・制服・コスプレにしない。\n3人の顔、年齢、髪、体型、ほくろ、衣装、持ち物を混ぜない。3人とも首を傾けて笑う同じポーズにしない。小柄な女性3を子供にしない。記述した顔・体格を維持し、広告的な表面加工はしない。\n\n場面：待ち合わせ\n江ノ島へ向かう駅前の明るい日陰。女性1が画面左手前から片手で撮る広角の3人自撮り。自撮り端末そのものは画面内に重複させない。中央の女性2と右の女性3が近づいて入る。女性1は女性3の大きな黒いトートを見て少し眉を上げ、笑いを含んだ驚きの顔。女性2はトートの口から見える大きなタオルに気づいて笑う。女性3はバッグの持ち手を両手で持ち、少し得意そうに閉じ口で笑う。バッグの上部も下端へ入れる。168cm、166cm、152cmの自然な差。3人の顔は隠れず、他人の顔や読める駅名は入れない。普通のスマホ広角前面カメラ、手前女性1の目付近に単一AF、後ろの2人は距離相応に少し柔らかい。\n\n衣装：\n女性1は白いフィットした不透明なノースリーブとブルーのデニムショートパンツ、白い歩きやすいスニーカー、細い金のフープとスマートウォッチ。女性2はチャコールの不透明なノースリーブと黒い薄手ワイドパンツ、フラットサンダル、細い銀のフープと黒縁丸眼鏡。女性3は小さなリボン付きの黒い不透明ノースリーブとくすみピンクのキュロット、歩きやすい黒いサンダル。\n\n画面構成：\n横長3:2、一続きの写真1枚。3人が同じ空間に一緒にいる。分割・コラージュ・枠・名前・文字はない。主役は女性1・女性2・女性3の計3人だけ。\n\n固定実写品質：\n普通のスマートフォンの標準カメラアプリで撮った、未加工に近い単体HEIC写真。ポートレートモード、美肌フィルター、顔だけの再照明・露出補正・再シャープ・ノイズ除去・肌補正を使わない。AFはカメラ節で指定した一面だけに置き、その面を最も自然に明瞭にし、前後の人物・手足・小物・背景は距離と動きに従って連続的に甘くする。遠い顔に偽の毛穴や全域8K解像を加えず、片頬の弱い赤み、均一でないTゾーン反射、左右差のある目の下、鼻まわりの軽い赤みなど複数の広い色調差を残す。近く解像する露出肌には、反復しない弱い肌色差、関節や圧の自然な赤み、細かな陰影を残す。肌、髪、布、金属、木、壁、水などは素材ごとに異なる反射・エッジ・細部を持たせ、同じツヤや同じシャープさにしない。控えめなHDR、わずかなAWB差、暗部だけの微細ノイズ、弱いHEIC圧縮、局所的な軽い手ブレと構図ずれを許容するが、全画面への偽粒子、一律ぼかし、過剰シャープは行わない。個人のカメラロールに残った未完成な瞬間として成立させ、広告、グラビア、ファッションキャンペーン、スタジオ美容写真、映画的カラーグレーディング、完璧な左右対称構図にしない。\n\n必須と避ける表現：各人は1つの頭・顔・胴と、解剖学的につながる2本の腕と2本の脚。手は持ち主と小物との接触が明瞭。余分な人物、人物の複製、顔の平均化、顔や髪や衣装の交換、余分・欠落した四肢、融合した指、不自然な手掌、物を貫通する手、浮く物、左右の特徴の反転、未成年、幼い成人表現、制服、実在人物、露骨なヌード、透けた衣服、下着化、身体部位のみの切り取り、読める文字・ロゴ・透かし、アニメ、CG、全員同じ笑顔・同じ首の傾き・同じカメラ目線を避ける。\n\n#AI美女 #PromptLab #VariationLab #AI美女プロンプト\n\nhttps://t.co/UEs4PnBvX7",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSp13J4aUAAJqLz.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSp13J4aUAAJqLz.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSp13KxbkAAEbl0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSp13KxbkAAEbl0.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSif0BmbEAAjN2O.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSif0BmbEAAjN2O.jpg",
+        "sourcePostId": "2101114802370498616"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 2081
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/HObE4TLMga99335/status/2101629192269894120",
+  "coverUrl": "https://pbs.twimg.com/media/HSp13J4aUAAJqLz.jpg",
+  "coverPath": "images/2101629192269894120-1.jpg",
+  "imagePaths": [
+    "images/2101629192269894120-1.jpg",
+    "images/2101629192269894120-2.jpg",
+    "images/2101629192269894120-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSp13J4aUAAJqLz",
+    "x-image:/media/HSp13KxbkAAEbl0",
+    "x-image:/media/HSif0BmbEAAjN2O",
+    "x-post:2101629192269894120",
+    "x-post:2101114802370498616"
+  ],
+  "analysis": {
+    "summary": "江ノ島へ向かう駅前で集合した3人の成人女性が、大きなトートバッグをネタに楽しげに撮るリアルなスマホ自撮り写真プロンプト。",
+    "summaryEn": "A detailed realistic prompt for a smartphone selfie of three distinct Japanese women gathering in front of a station with a large tote bag.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图与Prompt的人物外貌、发型、眼镜、服装、站位、自拍角度、车站背景及黑色大托特包内露出毛巾等细节高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "人物同一性：\n女性1：架空の成人日本人女性22歳、情報工学科4年生。身長168cm、脚が長く姿勢のよい、自然で現実的なグラマラス体型。胸郭に釣り合う自然な重みと幅、現実的なウエスト、脚と釣り合う骨盤とヒップを保つ。押し上げや身体部位の強調はしない。縦長寄りのハート形の顔、高い頬骨、細い顎、軽い奥二重の横長アーモンド目、わずかに上がる目尻、高いアーチ眉、細くまっすぐな鼻とシャープな鼻先、厚みのある唇。日焼けしていない明るいニュートラル肌、本人右頬の高い位置に小さなほくろ1個。黒髪ロングレイヤーは胸下まで完全なストレート。ハニーブラウンの瞳、細い跳ね上げアイライン、コーラルベージュの唇、細い金のフープ。自信のある歯見せ笑顔が特徴だが、本シーンの指定表情を優先して同じ表情を反復しない。\n女性2：架空の成人日本人女性30歳、ベーカリーカフェ店長。166cmで脚が長く、健康的で現実的な砂時計型。自然なの重みと胸郭に釣り合う幅、現実的なウエスト、やや丸みのあるヒップと骨盤から上腿への自然な連続を保つ。極端な細腰、球状の胸、過剰なヒップにしない。コンパクトな丸卵型の顔、柔らかな頬と丸い顎、大きな二重のアーモンド寄りの丸い濃茶の目、ごく軽い垂れ目、柔らかなアーチ眉、自然な鼻筋と丸い鼻先、厚みのある唇。明るいウォームニュートラル肌、鼻上の薄いそばかす、本人左目尻の下の小さなほくろ、笑ったときの両頬のえくぼ。肩丈のストレートなレイヤーボブ、頭頂・根元・表面・前髪は黒〜ダークチャコール。スモーキーグレーは耳まわりと下層の毛先の内側だけ。中央分割やグレーの表面髪にしない。トープの目元、ローズベージュの唇、細い銀のフープ。丸い細い黒縁眼鏡。場面に応じた生きた表情。\n女性3：架空の成人日本人女性23歳、ネイリスト。152cmの小柄で柔らかな成人体型、自然な体格、現実的な肩と胸郭、ウエスト、比例した骨盤とヒップ、成人の四肢比率。丸い小顔、大きな濃茶の垂れ目、短い平行眉、小さな鼻、柔らかな唇、明るいニュートラル肌、本人右目の下に小さなほくろ1個。艶のある黒髪セミロングの低いツインテール。ダスティピンクは下層の毛先の内側だけ、頭頂や根元は黒。成人らしいピンク系の目元で白塗りにしない。照れた閉じ口の笑みが特徴。朝は髪を結んでいる途中、帰宅後は髪をほどいた状態という指定アレンジを適用する。未成年・制服・コスプレにしない。\n3人の顔、年齢、髪、体型、ほくろ、衣装、持ち物を混ぜない。3人とも首を傾けて笑う同じポーズにしない。小柄な女性3を子供にしない。記述した顔・体格を維持し、広告的な表面加工はしない。\n\n場面：待ち合わせ\n江ノ島へ向かう駅前の明るい日陰。女性1が画面左手前から片手で撮る広角の3人自撮り。自撮り端末そのものは画面内に重複させない。中央の女性2と右の女性3が近づいて入る。女性1は女性3の大きな黒いトートを見て少し眉を上げ、笑いを含んだ驚きの顔。女性2はトートの口から見える大きなタオルに気づいて笑う。女性3はバッグの持ち手を両手で持ち、少し得意そうに閉じ口で笑う。バッグの上部も下端へ入れる。168cm、166cm、152cmの自然な差。3人の顔は隠れず、他人の顔や読める駅名は入れない。普通のスマホ広角前面カメラ、手前女性1の目付近に単一AF、後ろの2人は距離相応に少し柔らかい。\n\n衣装：\n女性1は白いフィットした不透明なノースリーブとブルーのデニムショートパンツ、白い歩きやすいスニーカー、細い金のフープとスマートウォッチ。女性2はチャコールの不透明なノースリーブと黒い薄手ワイドパンツ、フラットサンダル、細い銀のフープと黒縁丸眼鏡。女性3は小さなリボン付きの黒い不透明ノースリーブとくすみピンクのキュロット、歩きやすい黒いサンダル。\n\n画面構成：\n横長3:2、一続きの写真1枚。3人が同じ空間に一緒にいる。分割・コラージュ・枠・名前・文字はない。主役は女性1・女性2・女性3の計3人だけ。\n\n固定実写品質：\n普通のスマートフォンの標準カメラアプリで撮った、未加工に近い単体HEIC写真。ポートレートモード、美肌フィルター、顔だけの再照明・露出補正・再シャープ・ノイズ除去・肌補正を使わない。AFはカメラ節で指定した一面だけに置き、その面を最も自然に明瞭にし、前後の人物・手足・小物・背景は距離と動きに従って連続的に甘くする。遠い顔に偽の毛穴や全域8K解像を加えず、片頬の弱い赤み、均一でないTゾーン反射、左右差のある目の下、鼻まわりの軽い赤みなど複数の広い色調差を残す。近く解像する露出肌には、反復しない弱い肌色差、関節や圧の自然な赤み、細かな陰影を残す。肌、髪、布、金属、木、壁、水などは素材ごとに異なる反射・エッジ・細部を持たせ、同じツヤや同じシャープさにしない。控えめなHDR、わずかなAWB差、暗部だけの微細ノイズ、弱いHEIC圧縮、局所的な軽い手ブレと構図ずれを許容するが、全画面への偽粒子、一律ぼかし、過剰シャープは行わない。個人のカメラロールに残った未完成な瞬間として成立させ、広告、グラビア、ファッションキャンペーン、スタジオ美容写真、映画的カラーグレーディング、完璧な左右対称構図にしない。\n\n必須と避ける表現：各人は1つの頭・顔・胴と、解剖学的につながる2本の腕と2本の脚。手は持ち主と小物との接触が明瞭。余分な人物、人物の複製、顔の平均化、顔や髪や衣装の交換、余分・欠落した四肢、融合した指、不自然な手掌、物を貫通する手、浮く物、左右の特徴の反転、未成年、幼い成人表現、制服、実在人物、露骨なヌード、透けた衣服、下着化、身体部位のみの切り取り、読める文字・ロゴ・透かし、アニメ、CG、全員同じ笑顔・同じ首の傾き・同じカメラ目線を避ける。",
+    "sourceRange": {
+      "start": 79,
+      "end": 2470
+    },
+    "translations": {
+      "zh": "人物设定：三位性格与外形各异的成年日本女性在前往江之岛的车站前集合并自拍。女性1（22岁，高挑黑长直）手持广角前置镜头自拍，面带惊讶笑容看着女性3的大托特包；女性2（30岁，戴黑框眼镜，波浪及肩发）指着包中露出的大毛巾微笑；女性3（23岁，双马尾）双手拎着黑色大托特包得意微笑。服装为日常清凉夏装，画面呈现无美颜、保留真实皮肤质感与轻微景深的真实手机抓拍照，构图自然，无任何拼接与文字水印。",
+      "en": "Character identity: Three distinct Japanese adult women gathering in front of a station to Enoshima for a wide-angle selfie. Woman 1 (22yo, tall straight hair) holds the front-camera smiling in surprise at Woman 3's large tote bag; Woman 2 (30yo, spectacles, lob) notices the towel inside and laughs; Woman 3 (23yo, twin tails) holds the tote handles proudly. Casual summer wear, authentic unedited smartphone snapshot aesthetic with natural skin textures and slight depth of field."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI女性角色群像摄影与真实手机质感生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

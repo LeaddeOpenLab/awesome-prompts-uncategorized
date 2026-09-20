@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:30:10.992Z",
+  "model": "unknown-image",
+  "prompt": "Fósil de [TECNOLOGÍA QUE AÚN NO EXISTE] descubierto dentro de una roca de pizarra abierta, el objeto combina minerales, metal oxidado y circuitos translúcidos preservados como vetas geológicas, fotografía macro ultradetallada de espécimen de museo científico, vista ligeramente cenital, composición centrada, mesa oscura de conservación, iluminación controlada de exhibición, paleta carbón, cobre oxidado, cian y ámbar muy sutiles, realista, misterioso y arqueológicamente creíble, sin personas, sin logos, sin texto legible, sin marcas de agua, formato cuadrado 1:1",
+  "promptTranslations": {
+    "en": "Fossil of [TECHNOLOGY THAT DOES NOT YET EXIST] discovered inside an open slate rock, the object combines minerals, oxidized metal, and translucent circuitry preserved as geological veins, ultra-detailed macro photograph of a scientific museum specimen, slightly overhead angle, centered composition, dark conservation table, controlled display lighting, charcoal palette, oxidized copper, very subtle cyan and amber, realistic, mysterious, and archaeologically credible, no people, no logos, no legible text, no watermarks, 1:1 square format"
+  },
+  "summaryTranslations": {
+    "en": "Fossil of future technology embedded in slate rock as a scientific museum specimen."
+  },
+  "translationVersion": 2,
+  "summary": "Fósil de tecnología futura incrustado en roca de pizarra como espécimen de museo científico.",
+  "summaryEn": "Fossil of future technology embedded in slate rock as a scientific museum specimen.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101644987809018175",
+    "canonicalUrl": "https://x.com/hmontilla_/status/2101644987809018175",
+    "author": {
+      "username": "hmontilla_",
+      "displayName": "Henry M. | IA Práctica",
+      "profileUrl": "https://x.com/hmontilla_"
+    },
+    "publishedAt": "2026-09-20T12:09:46.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "es",
+    "originalText": "PROMPT PARA GUARDAR #4 🪨🔮\n\n¿Y si los arqueólogos del futuro encontraran fósiles de tecnologías que todavía no hemos inventado?\n\nCreé una pequeña colección de museo:\n\n1️⃣ Brújula holográfica\n2️⃣ Semilla de memoria\n3️⃣ Polilla lunar mecánica\n4️⃣ Llave de portales\n\nEl truco visual está en combinar un objeto imposible con fotografía científica creíble, minerales reales y señales tecnológicas muy sutiles.\n\nPrompt reutilizable:\n\n“Fósil de [TECNOLOGÍA QUE AÚN NO EXISTE] descubierto dentro de una roca de pizarra abierta, el objeto combina minerales, metal oxidado y circuitos translúcidos preservados como vetas geológicas, fotografía macro ultradetallada de espécimen de museo científico, vista ligeramente cenital, composición centrada, mesa oscura de conservación, iluminación controlada de exhibición, paleta carbón, cobre oxidado, cian y ámbar muy sutiles, realista, misterioso y arqueológicamente creíble, sin personas, sin logos, sin texto legible, sin marcas de agua, formato cuadrado 1:1”\n\nGuárdalo y sustituye el objeto entre corchetes. 👇",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSqKw17WIAAxbRn.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSqKw17WIAAxbRn.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSqKw15XcAAr9Hh.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSqKw15XcAAr9Hh.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSqKw16XkAArjy7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSqKw16XkAArjy7.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSqKw16WwAA10C-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSqKw16WwAA10C-.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 7
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/hmontilla_/status/2101644987809018175",
+  "coverUrl": "https://pbs.twimg.com/media/HSqKw17WIAAxbRn.jpg",
+  "coverPath": "images/2101644987809018175-1.jpg",
+  "imagePaths": [
+    "images/2101644987809018175-1.jpg",
+    "images/2101644987809018175-2.jpg",
+    "images/2101644987809018175-3.jpg",
+    "images/2101644987809018175-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSqKw17WIAAxbRn",
+    "x-image:/media/HSqKw15XcAAr9Hh",
+    "x-image:/media/HSqKw16XkAArjy7",
+    "x-image:/media/HSqKw16WwAA10C-",
+    "x-post:2101644987809018175"
+  ],
+  "analysis": {
+    "summary": "Fósil de tecnología futura incrustado en roca de pizarra como espécimen de museo científico.",
+    "summaryEn": "Fossil of future technology embedded in slate rock as a scientific museum specimen.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Las cuatro imágenes muestran especímenes de museo que incrustan objetos tecnológicos imposibles dentro de pizarras fracturadas con iluminación y paleta coincidentes."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Fósil de [TECNOLOGÍA QUE AÚN NO EXISTE] descubierto dentro de una roca de pizarra abierta, el objeto combina minerales, metal oxidado y circuitos translúcidos preservados como vetas geológicas, fotografía macro ultradetallada de espécimen de museo científico, vista ligeramente cenital, composición centrada, mesa oscura de conservación, iluminación controlada de exhibición, paleta carbón, cobre oxidado, cian y ámbar muy sutiles, realista, misterioso y arqueológicamente creíble, sin personas, sin logos, sin texto legible, sin marcas de agua, formato cuadrado 1:1",
+    "sourceRange": {
+      "start": 428,
+      "end": 994
+    },
+    "translations": {
+      "zh": "在劈开的板岩中发现的[尚未存在的技术]化石，该物体融合了矿物、生锈的金属和如地质纹理般保存的半透明电路，科学博物馆标本的超精细微距摄影，微俯视角，居中构图，深色保存台，受控的展览灯光，炭黑、生锈铜绿、极其微妙的青色与琥珀色调，写实、神秘且考古上具有说服力，无人物，无徽标，无易读文字，无水印，1:1 正方形比例",
+      "en": "Fossil of [TECHNOLOGY THAT DOES NOT EXIST YET] discovered inside an open slate rock, the object combines minerals, oxidized metal, and translucent circuits preserved as geological veins, ultra-detailed macro photography of a scientific museum specimen, slightly top-down view, centered composition, dark conservation table, controlled exhibition lighting, charcoal palette, oxidized copper, subtle cyan and amber, realistic, mysterious, and archaeologically credible, no people, no logos, no legible text, no watermarks, square format 1:1"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

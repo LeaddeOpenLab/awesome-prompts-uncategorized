@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:30:41.815Z",
+  "model": "unknown-image",
+  "prompt": "超写实搞怪宠物群像摄影，竖版约 9:16。七只真实家猫挤在狭窄昏暗的楼梯间里，全部穿着统一的黑色长袍＋红色云纹斗篷造型，头戴金属忍者护额，整体明显是《火影忍者》晓组织风格 Cosplay。摄影者位于楼梯最下方，使用约 20–24mm 广角镜头向上近距离拍摄，形成强烈的层层堆叠与近大远小透视。\n\n七只猫沿狭窄楼梯从前到后分成多层排列，几乎完全填满画面。最前方是一只橘白猫，距离镜头最近，头部被广角明显放大，占据画面下方约三分之一，戴黑色兜帽和银色金属护额，黄色眼睛直视镜头，嘴巴微张，露出一点牙齿，表情凶狠又滑稽。\n\n右侧中前景是一只体型较大的灰白猫，脸宽圆，绿色眼睛半眯，黑色兜帽包住头部，只露出脸，护额中央有黑色忍者符号。左侧是一只虎斑白猫，神情严肃，黄色绿色眼睛看向镜头。\n\n中央是一只纯白圆脸猫，穿完整黑红长袍，兜帽收紧，额头佩戴金属护额，鼻梁和额头附近带一列黑色装饰点，神情冷静。左后方还有一只白猫，右后方是一只纯黑猫，绿色眼睛在暗处非常醒目，背后斜背一把短刀 / 忍者刀。\n\n最上方是一只棕色虎斑猫，头顶增加夸张的金黄色刺状假发，模仿动漫忍者发型，佩戴金属护额，蓝绿色双眼直视镜头，身体只露出上半部。\n\n所有猫都保持真实猫咪头部、毛发、胡须、耳朵和眼睛结构，不要做人脸化、不要拟人手臂。服装为黑色高领长袍，边缘带暗红色滚边，胸前和身体侧面分布醒目的红色云朵图案；部分猫戴黑色兜帽，部分耳朵从兜帽中露出。护额为银灰色金属片＋黑色布带，表面带刻蚀符号和使用痕迹。\n\n场景是非常狭窄的老旧室内楼梯 / 水泥通道，两侧为灰白色粗糙墙面，顶部光线极少，整体空间压迫。右上墙面可以出现一只猫爪从破损墙洞探出作为搞怪细节。\n\n光线采用正面相机闪光＋昏暗环境光，最前方橘猫和中层猫脸被强烈照亮，后排逐渐进入绿色灰暗阴影。色调偏冷绿、灰黑，红色云纹形成明显色彩点。加入轻微胶片颗粒、老式数码相机质感、边缘柔化和暗角。\n\n重点锁定：七只真实家猫＋晓组织黑红云纹长袍＋金属忍者护额＋狭窄楼梯层层堆叠＋最前方橘白猫超近距离大脸＋中间白猫＋右侧黑猫＋顶部虎斑猫黄色刺发＋广角仰拍＋直闪＋暗绿色老旧楼梯间＋搞怪但写实。\n\n避免：人类身体、猫娘、动漫画风、卡通猫、四肢畸形、猫数量错误、服装颜色错误、明亮背景、户外场景、整齐排队、过度CG、水印、文字乱码。",
+  "promptTranslations": {
+    "en": "Hyper-realistic comical pet group portrait photography, vertical aspect ratio approximately 9:16. Seven real domestic cats crowded together in a narrow, dimly lit staircase, all dressed in matching black cloaks with red cloud patterns, wearing metallic ninja forehead protectors, visibly cosplaying the Akatsuki style from Naruto. The photographer is positioned at the very bottom of the stairs, shooting upward at close range with an approximate 20–24mm wide-angle lens, creating a strong tiered layering and exaggerated perspective distortion.\\n\\nThe seven cats are arranged in multiple tiers from front to back along the narrow stairs, almost entirely filling the frame. In the very foreground is an orange-and-white cat, closest to the lens, its head noticeably enlarged by the wide angle, occupying about the lower third of the frame, wearing a black hood and silver metal forehead protector, with yellow eyes staring directly into the lens, mouth slightly open showing a bit of teeth, with a fierce yet hilarious expression.\\n\\nOn the right mid-foreground is a larger grey-and-white cat with a broad round face, green eyes half-squinted, its head wrapped in a black hood with only the face showing, and a black ninja symbol in the center of its forehead protector. On the left is a tabby-and-white cat, looking serious, with yellow-green eyes gazing at the camera.\\n\\nIn the center is a pure white, round-faced cat wearing a full black-and-red cloak with a cinched hood, a metal forehead protector on its brow, a row of black decorative piercings/dots near the bridge of its nose and forehead, looking calm and stoic. In the rear left is another white cat, and in the rear right is a solid black cat with striking green eyes glowing in the dark, diagonally carrying a short blade / ninja sword on its back.\\n\\nAt the very top is a brown tabby cat sporting an exaggerated spiky blonde wig mimicking an anime ninja hairstyle, wearing a metal forehead protector, with blue-green eyes staring straight into the lens, only its upper body visible.\\n\\nAll cats maintain authentic feline head, fur, whisker, ear, and eye anatomy; no humanized faces, no anthropomorphic arms. The costumes are black high-collared robes with dark red trim, adorned with striking red cloud patterns on the chest and flanks; some cats wear black hoods, with some ears poking through. The forehead protectors feature silver-grey metal plates on black cloth bands, etched with engraved symbols and signs of wear.\\n\\nThe setting is an extremely narrow, old indoor staircase / concrete passage, flanked by rough grey-white walls with minimal overhead light, creating an oppressive atmosphere. As a comical detail, a cat paw pokes out from a broken hole in the upper-right wall.\\n\\nThe lighting utilizes direct camera flash plus dim ambient light, harshly illuminating the front orange cat and mid-tier cat faces, while the rear ranks fade into greenish, murky shadows. The color palette leans toward cool greenish, grey-black tones, with the red cloud patterns acting as vivid pops of color. Subtle film grain, vintage digital camera texture, soft edges, and vignetting are added.\\n\\nKey elements: seven real domestic cats + Akatsuki black-and-red cloud robes + metal ninja forehead protectors + narrow staircase layered stack + extreme close-up large face of orange-and-white cat in the foreground + central white cat + right-side black cat + top tabby cat with spiky yellow hair + wide-angle low-angle shot + direct flash + dark greenish dingy staircase + comical yet realistic.\\n\\nAvoid: human bodies, catgirls, anime art style, cartoon cats, deformed limbs, incorrect number of cats, incorrect costume colors, bright backgrounds, outdoor scenes, neat orderly queues, overly CG look, watermarks, garbled text."
+  },
+  "summaryTranslations": {
+    "en": "Realistic wide-angle low-angle photography of seven domestic cats wearing Naruto Akatsuki black-and-red robes in a narrow staircase."
+  },
+  "translationVersion": 2,
+  "summary": "七只家猫身穿火影忍者晓组织黑红袍在狭窄楼梯间的广角仰拍写实摄影。",
+  "summaryEn": "Photorealistic wide-angle shot of seven cats cosplaying Naruto's Akatsuki in a narrow stairwell.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101265659204133276",
+      "canonicalUrl": "https://x.com/yrn_not_slime/status/2101265659204133276",
+      "author": {
+        "username": "yrn_not_slime",
+        "displayName": "𝐃𝐚𝐞𝐦𝐨𝐧𝐗",
+        "profileUrl": "https://x.com/yrn_not_slime"
+      },
+      "originalText": "WHAT SHALL WE CALL THEM?? https://t.co/y4AyqFtKnV"
+    },
+    "id": "2101596690809758103",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2101596690809758103",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-20T08:57:51.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "ja",
+    "originalText": "猫の暁 - ナルト\n\nPrompt：超写实搞怪宠物群像摄影，竖版约 9:16。七只真实家猫挤在狭窄昏暗的楼梯间里，全部穿着统一的黑色长袍＋红色云纹斗篷造型，头戴金属忍者护额，整体明显是《火影忍者》晓组织风格 Cosplay。摄影者位于楼梯最下方，使用约 20–24mm 广角镜头向上近距离拍摄，形成强烈的层层堆叠与近大远小透视。\n\n七只猫沿狭窄楼梯从前到后分成多层排列，几乎完全填满画面。最前方是一只橘白猫，距离镜头最近，头部被广角明显放大，占据画面下方约三分之一，戴黑色兜帽和银色金属护额，黄色眼睛直视镜头，嘴巴微张，露出一点牙齿，表情凶狠又滑稽。\n\n右侧中前景是一只体型较大的灰白猫，脸宽圆，绿色眼睛半眯，黑色兜帽包住头部，只露出脸，护额中央有黑色忍者符号。左侧是一只虎斑白猫，神情严肃，黄色绿色眼睛看向镜头。\n\n中央是一只纯白圆脸猫，穿完整黑红长袍，兜帽收紧，额头佩戴金属护额，鼻梁和额头附近带一列黑色装饰点，神情冷静。左后方还有一只白猫，右后方是一只纯黑猫，绿色眼睛在暗处非常醒目，背后斜背一把短刀 / 忍者刀。\n\n最上方是一只棕色虎斑猫，头顶增加夸张的金黄色刺状假发，模仿动漫忍者发型，佩戴金属护额，蓝绿色双眼直视镜头，身体只露出上半部。\n\n所有猫都保持真实猫咪头部、毛发、胡须、耳朵和眼睛结构，不要做人脸化、不要拟人手臂。服装为黑色高领长袍，边缘带暗红色滚边，胸前和身体侧面分布醒目的红色云朵图案；部分猫戴黑色兜帽，部分耳朵从兜帽中露出。护额为银灰色金属片＋黑色布带，表面带刻蚀符号和使用痕迹。\n\n场景是非常狭窄的老旧室内楼梯 / 水泥通道，两侧为灰白色粗糙墙面，顶部光线极少，整体空间压迫。右上墙面可以出现一只猫爪从破损墙洞探出作为搞怪细节。\n\n光线采用正面相机闪光＋昏暗环境光，最前方橘猫和中层猫脸被强烈照亮，后排逐渐进入绿色灰暗阴影。色调偏冷绿、灰黑，红色云纹形成明显色彩点。加入轻微胶片颗粒、老式数码相机质感、边缘柔化和暗角。\n\n重点锁定：七只真实家猫＋晓组织黑红云纹长袍＋金属忍者护额＋狭窄楼梯层层堆叠＋最前方橘白猫超近距离大脸＋中间白猫＋右侧黑猫＋顶部虎斑猫黄色刺发＋广角仰拍＋直闪＋暗绿色老旧楼梯间＋搞怪但写实。\n\n避免：人类身体、猫娘、动漫画风、卡通猫、四肢畸形、猫数量错误、服装颜色错误、明亮背景、户外场景、整齐排队、过度CG、水印、文字乱码。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSpfC9sbgAA8GTa.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSpfC9sbgAA8GTa.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSkx9XwWQAAWNNX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSkx9XwWQAAWNNX.jpg",
+        "sourcePostId": "2101265659204133276"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1466
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2101596690809758103",
+  "coverUrl": "https://pbs.twimg.com/media/HSpfC9sbgAA8GTa.jpg",
+  "coverPath": "images/2101596690809758103-1.jpg",
+  "imagePaths": [
+    "images/2101596690809758103-1.jpg",
+    "images/2101596690809758103-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSpfC9sbgAA8GTa",
+    "x-image:/media/HSkx9XwWQAAWNNX",
+    "x-post:2101596690809758103",
+    "x-post:2101265659204133276"
+  ],
+  "analysis": {
+    "summary": "七只家猫身穿火影忍者晓组织黑红袍在狭窄楼梯间的广角仰拍写实摄影。",
+    "summaryEn": "Photorealistic wide-angle shot of seven cats cosplaying Naruto's Akatsuki in a narrow stairwell.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图完整对应Prompt中七只猫的站位、晓袍、护额、神态及楼梯间广角直闪视角。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实搞怪宠物群像摄影，竖版约 9:16。七只真实家猫挤在狭窄昏暗的楼梯间里，全部穿着统一的黑色长袍＋红色云纹斗篷造型，头戴金属忍者护额，整体明显是《火影忍者》晓组织风格 Cosplay。摄影者位于楼梯最下方，使用约 20–24mm 广角镜头向上近距离拍摄，形成强烈的层层堆叠与近大远小透视。\n\n七只猫沿狭窄楼梯从前到后分成多层排列，几乎完全填满画面。最前方是一只橘白猫，距离镜头最近，头部被广角明显放大，占据画面下方约三分之一，戴黑色兜帽和银色金属护额，黄色眼睛直视镜头，嘴巴微张，露出一点牙齿，表情凶狠又滑稽。\n\n右侧中前景是一只体型较大的灰白猫，脸宽圆，绿色眼睛半眯，黑色兜帽包住头部，只露出脸，护额中央有黑色忍者符号。左侧是一只虎斑白猫，神情严肃，黄色绿色眼睛看向镜头。\n\n中央是一只纯白圆脸猫，穿完整黑红长袍，兜帽收紧，额头佩戴金属护额，鼻梁和额头附近带一列黑色装饰点，神情冷静。左后方还有一只白猫，右后方是一只纯黑猫，绿色眼睛在暗处非常醒目，背后斜背一把短刀 / 忍者刀。\n\n最上方是一只棕色虎斑猫，头顶增加夸张的金黄色刺状假发，模仿动漫忍者发型，佩戴金属护额，蓝绿色双眼直视镜头，身体只露出上半部。\n\n所有猫都保持真实猫咪头部、毛发、胡须、耳朵和眼睛结构，不要做人脸化、不要拟人手臂。服装为黑色高领长袍，边缘带暗红色滚边，胸前和身体侧面分布醒目的红色云朵图案；部分猫戴黑色兜帽，部分耳朵从兜帽中露出。护额为银灰色金属片＋黑色布带，表面带刻蚀符号和使用痕迹。\n\n场景是非常狭窄的老旧室内楼梯 / 水泥通道，两侧为灰白色粗糙墙面，顶部光线极少，整体空间压迫。右上墙面可以出现一只猫爪从破损墙洞探出作为搞怪细节。\n\n光线采用正面相机闪光＋昏暗环境光，最前方橘猫和中层猫脸被强烈照亮，后排逐渐进入绿色灰暗阴影。色调偏冷绿、灰黑，红色云纹形成明显色彩点。加入轻微胶片颗粒、老式数码相机质感、边缘柔化和暗角。\n\n重点锁定：七只真实家猫＋晓组织黑红云纹长袍＋金属忍者护额＋狭窄楼梯层层堆叠＋最前方橘白猫超近距离大脸＋中间白猫＋右侧黑猫＋顶部虎斑猫黄色刺发＋广角仰拍＋直闪＋暗绿色老旧楼梯间＋搞怪但写实。\n\n避免：人类身体、猫娘、动漫画风、卡通猫、四肢畸形、猫数量错误、服装颜色错误、明亮背景、户外场景、整齐排队、过度CG、水印、文字乱码。",
+    "sourceRange": {
+      "start": 18,
+      "end": 987
+    },
+    "translations": {
+      "zh": "超写实搞怪宠物摄影：七只家猫挤在昏暗楼梯间，身穿火影晓组织黑红云纹斗篷并佩戴忍者护额。广角仰拍直闪，前排橘白猫大脸特写，层层堆叠，真实写实质感。",
+      "en": "Photorealistic funny pet photo: seven domestic cats crowded in a dark stairwell, wearing Naruto Akatsuki cloaks and ninja headbands. Low-angle wide shot with direct flash, featuring a close-up orange cat in front."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "宠物群像写实摄影生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "火影忍者 (Naruto)",
+        "晓组织 (Akatsuki)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

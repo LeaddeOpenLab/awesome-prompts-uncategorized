@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:30:59.387Z",
+  "model": "unknown-image",
+  "prompt": "grand full length ceremonial composition, the standing figure complete and unbroken from headpiece to footwear, god of iron, blazing amber eyes, forge burned hands, divine power, sci fi, high tech armor, holographic interfaces, luminous power cores, his gaze burning straight into the lens, skin warm and alive with subsurface glow, hair lifting in the updraft, wearing ancient titan king elaborate stone and bronze regalia the scale of ages in every proportion stars in the fabric of his cloak the universe in his eyes, the ground beneath him strewn with fallen petals and ash his armored greaves and footwear fully rendered, in the great loom of fate outside of time every thread a life visible the enormous tapestry of history being woven warm amber light on every thread, bold primary triad, pure saturated crimson red, deep royal blue and brilliant gold, clean separated color blocks, zero muddy tones, painted realism masterpiece in the classic comic cover manner, gouache and oil finish, bold heroic primary color, iconic monumental pose, dramatic idealized light, bold saturated color, ornamental, playful casual stance, living character, full body head to toe, sharp focus, ultra detailed 8k",
+  "promptTranslations": {
+    "en": "grand full length ceremonial composition, the standing figure complete and unbroken from headpiece to footwear, god of iron, blazing amber eyes, forge burned hands, divine power, sci fi, high tech armor, holographic interfaces, luminous power cores, his gaze burning straight into the lens, skin warm and alive with subsurface glow, hair lifting in the updraft, wearing ancient titan king elaborate stone and bronze regalia the scale of ages in every proportion stars in the fabric of his cloak the universe in his eyes, the ground beneath him strewn with fallen petals and ash his armored greaves and footwear fully rendered, in the great loom of fate outside of time every thread a life visible the enormous tapestry of history being woven warm amber light on every thread, bold primary triad, pure saturated crimson red, deep royal blue and brilliant gold, clean separated color blocks, zero muddy tones, painted realism masterpiece in the classic comic cover manner, gouache and oil finish, bold heroic primary color, iconic monumental pose, dramatic idealized light, bold saturated color, ornamental, playful casual stance, living character, full body head to toe, sharp focus, ultra detailed 8k"
+  },
+  "summaryTranslations": {
+    "en": "Full-body painted composition of an ornate iron god in glowing stone and bronze armor."
+  },
+  "translationVersion": 2,
+  "summary": "Full-body painted composition of an ornate iron god in glowing stone and bronze armor.",
+  "summaryEn": "Full-body painted composition of an ornate iron god in glowing stone and bronze armor.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101428619725734323",
+    "canonicalUrl": "https://x.com/RobotCleopatra/status/2101428619725734323",
+    "author": {
+      "username": "RobotCleopatra",
+      "displayName": "Skipper VanderWall",
+      "profileUrl": "https://x.com/RobotCleopatra"
+    },
+    "publishedAt": "2026-09-19T21:50:00.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "en",
+    "originalText": "GOLDEN PROMPT\ngrand full length ceremonial composition, the standing figure complete and unbroken from headpiece to footwear, god of iron, blazing amber eyes, forge burned hands, divine power, sci fi, high tech armor, holographic interfaces, luminous power cores, his gaze burning straight into the lens, skin warm and alive with subsurface glow, hair lifting in the updraft, wearing ancient titan king elaborate stone and bronze regalia the scale of ages in every proportion stars in the fabric of his cloak the universe in his eyes, the ground beneath him strewn with fallen petals and ash his armored greaves and footwear fully rendered, in the great loom of fate outside of time every thread a life visible the enormous tapestry of history being woven warm amber light on every thread, bold primary triad, pure saturated crimson red, deep royal blue and brilliant gold, clean separated color blocks, zero muddy tones, painted realism masterpiece in the classic comic cover manner, gouache and oil finish, bold heroic primary color, iconic monumental pose, dramatic idealized light, bold saturated color, ornamental, playful casual stance, living character, full body head to toe, sharp focus, ultra detailed 8k",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSjqiKLXUAAdWaB.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSjqiKLXUAAdWaB.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 44,
+      "repostCount": 3,
+      "replyCount": 13,
+      "quoteCount": 2,
+      "viewCount": 1525
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/RobotCleopatra/status/2101428619725734323",
+  "coverUrl": "https://pbs.twimg.com/media/HSjqiKLXUAAdWaB.jpg",
+  "coverPath": "images/2101428619725734323-1.jpg",
+  "imagePaths": [
+    "images/2101428619725734323-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSjqiKLXUAAdWaB",
+    "x-post:2101428619725734323"
+  ],
+  "analysis": {
+    "summary": "Full-body painted composition of an ornate iron god in glowing stone and bronze armor.",
+    "summaryEn": "Full-body painted composition of an ornate iron god in glowing stone and bronze armor.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image shows a full-body standing armored deity adorned in intricate bronze, gold, and blue armor with glowing cores and fallen petals at the feet."
+    },
+    "videoQuality": null,
+    "originalPrompt": "grand full length ceremonial composition, the standing figure complete and unbroken from headpiece to footwear, god of iron, blazing amber eyes, forge burned hands, divine power, sci fi, high tech armor, holographic interfaces, luminous power cores, his gaze burning straight into the lens, skin warm and alive with subsurface glow, hair lifting in the updraft, wearing ancient titan king elaborate stone and bronze regalia the scale of ages in every proportion stars in the fabric of his cloak the universe in his eyes, the ground beneath him strewn with fallen petals and ash his armored greaves and footwear fully rendered, in the great loom of fate outside of time every thread a life visible the enormous tapestry of history being woven warm amber light on every thread, bold primary triad, pure saturated crimson red, deep royal blue and brilliant gold, clean separated color blocks, zero muddy tones, painted realism masterpiece in the classic comic cover manner, gouache and oil finish, bold heroic primary color, iconic monumental pose, dramatic idealized light, bold saturated color, ornamental, playful casual stance, living character, full body head to toe, sharp focus, ultra detailed 8k",
+    "sourceRange": {
+      "start": 14,
+      "end": 1214
+    },
+    "translations": {
+      "zh": "盛大的全身礼仪构图，全身立像从头饰到足部完整无缺，钢铁之神，燃烧的琥珀色眼睛，锻造灼烧的双手，神圣力量，科幻，高科技装甲，全息界面，发光能量核心，凝视直逼镜头，皮肤温润并散发次表面光芒，头发随上升气流飘动，身着古老泰坦之王繁复的石质与青铜礼服，各个比例尽显岁月沧桑，披风织物中蕴含星辰，眼中包含宇宙，脚下地面散落着落花与灰烬，铠甲护胫与鞋履完整呈现，在时间之外的命运巨织机中每一根线都显现着生命，历史的宏伟织锦正在编织，温暖的琥珀光照亮每一根丝线，鲜艳的原色三联体，纯净饱和的绯红、深皇家蓝与璀璨金色，干净分明的色块，绝无混浊色调，经典漫画封面风格的写实绘画杰作，水粉与油画质感，鲜明英雄原色，标志性纪念碑式姿态，戏剧性理想化光影，装饰性，生动角色，从头到脚全身照，清晰对焦，8k超细节",
+      "en": "grand full length ceremonial composition, the standing figure complete and unbroken from headpiece to footwear, god of iron, blazing amber eyes, forge burned hands, divine power, sci fi, high tech armor, holographic interfaces, luminous power cores, his gaze burning straight into the lens, skin warm and alive with subsurface glow, hair lifting in the updraft, wearing ancient titan king elaborate stone and bronze regalia the scale of ages in every proportion stars in the fabric of his cloak the universe in his eyes, the ground beneath him strewn with fallen petals and ash his armored greaves and footwear fully rendered, in the great loom of fate outside of time every thread a life visible the enormous tapestry of history being woven warm amber light on every thread, bold primary triad, pure saturated crimson red, deep royal blue and brilliant gold, clean separated color blocks, zero muddy tones, painted realism masterpiece in the classic comic cover manner, gouache and oil finish, bold heroic primary color, iconic monumental pose, dramatic idealized light, bold saturated color, ornamental, playful casual stance, living character, full body head to toe, sharp focus, ultra detailed 8k"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI artwork generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

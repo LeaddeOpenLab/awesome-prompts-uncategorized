@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T12:28:16.449Z",
+  "model": "unknown-image",
+  "prompt": "超精细日系二次元数字插画，清透高亮商业插画质感，细腻板绘，柔和赛璐璐＋半厚涂，干净线稿，透明塑料、玻璃与金属高光，浅景深，柔焦 bloom，梦幻高调曝光。\n\n角色：纲手成年版。自动保留原角色最核心的发型、发色、瞳色、代表性服装结构、标志性饰品、武器或符号，服装轻度融合日系制服与现代时装设计，不改变角色辨识度。\n\n第一人称近距离 POV，画面左右前景伸入一双手，举着透明浅冰蓝色蛋形电子宠物机。设备占据画面中心并遮住后方角色面部，使电子屏幕成为角色的“第二张脸”。\n\n宠物机为透明冰蓝外壳，内部电子结构可见，中央像素 LCD 屏幕带红色边框，下方三枚红色圆形按钮。屏幕显示角色对应的低像素肖像，明显像素网格、CRT 扫描线和轻微 glitch，屏幕表情与真人同步但更加克制、焦虑、像隐藏情绪被机器读取。\n\n设备顶部连接银色钥匙圈与大量垂坠挂饰，包括苦无、手里剑、卷轴、角色专属符号、玻璃心形吊坠、透明珠子、金属铃铛、红绳与微型花朵。部分挂饰贴近镜头严重虚化，形成强烈前后景纵深。\n\n后方角色接近全身入镜，身体轻微内收，双手抓住衣领、袖口或胸前布料，表达克制、焦虑、隐秘期待、幻想、脆弱与纯真，非情色。\n\n背景为奶白、浅蓝灰、冷粉色高调梦境空间，悬浮模糊挂件、花瓣、纸片与微小光尘。\n\n强烈透视：前景双手巨大，中景宠物机极近，后景人物缩小。每张随机改变俯拍、仰拍、Dutch angle、镜头距离、设备倾斜角度、角色姿态和表情，禁止普通平视证件照。\n\n右上角一条极细横线，线上写细小潦草手写签名「playforge」，约80%透明度，低调不抢主体。\n\n3:4 竖构图，高清，梦幻但克制，大量透明材质细节。",
+  "promptTranslations": {
+    "en": "Ultra-detailed Japanese anime digital illustration, clear and luminous commercial illustration texture, delicate tablet drawing, soft cel-shading + semi-thick painting, clean line art, transparent plastic, glass and metallic highlights, shallow depth of field, soft focus bloom, dreamy high-key exposure.\n\nCharacter: Tsunade adult version. Automatically retain the original character's most core hairstyle, hair color, eye color, representative costume structure, iconic accessories, weapons or symbols, with the outfit subtly blending Japanese uniform and modern fashion design without altering character recognizability.\n\nFirst-person close-up POV, a pair of hands reaches in from the left and right foreground, holding a transparent light ice-blue egg-shaped virtual pet device. The device occupies the center of the frame and covers the face of the character behind, turning the electronic screen into the character's \"second face\".\n\nThe virtual pet device features a transparent ice-blue shell with visible internal electronic circuitry, a central pixel LCD screen framed in red, and three red circular buttons underneath. The screen displays a corresponding low-pixel portrait of the character, with an obvious pixel grid, CRT scanlines, and slight glitch effects; the screen expression syncs with the real person but appears more restrained, anxious, as if hidden emotions are being read by the machine.\n\nAttached to the top of the device is a silver keyring with numerous dangling charms, including kunai, shuriken, scrolls, character-specific symbols, glass heart-shaped pendants, transparent beads, metallic bells, red cords, and miniature flowers. Some charms are extremely close to the lens and heavily blurred, creating a strong foreground-to-background depth of field.\n\nThe character in the background is framed nearly full-body, body slightly curled inward, hands grasping her collar, cuffs, or the fabric at her chest, expressing restraint, anxiety, secret anticipation, fantasy, vulnerability, and innocence, non-erotic.\n\nThe background is a milky-white, light blue-gray, and cool pink high-key dreamscape, with floating blurred charms, flower petals, paper scraps, and tiny motes of light dust.\n\nStrong perspective: huge hands in the foreground, the virtual pet device extremely close in the midground, and the character scaled down in the background. Randomly vary overhead shot, low-angle shot, Dutch angle, lens distance, device tilt angle, character posture, and expression; no generic eye-level ID-photo angles.\n\nAn extremely thin horizontal line in the upper right corner, with a tiny, scribbled handwritten signature \"playforge\" written above the line, at approximately 80% opacity, understated so as not to distract from the main subject.\n\n3:4 vertical composition, high definition, dreamy yet restrained, abundant transparent material details."
+  },
+  "summaryTranslations": {
+    "en": "Japanese high-key anime illustration prompt featuring a first-person POV holding a transparent virtual pet device blocking Tsunade's face, with the screen synchronously displaying a pixelated expression."
+  },
+  "translationVersion": 2,
+  "summary": "第一人称视角手持透明电子宠物机遮挡纲手面部，屏幕同步显示像素表情的日系高亮二次元插画提示词。",
+  "summaryEn": "First-person POV anime prompt featuring hands holding a transparent pet device blocking Tsunade's face with a synced pixel display.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101611865969238144",
+      "canonicalUrl": "https://x.com/94vanAI/status/2101611865969238144",
+      "author": {
+        "username": "94vanAI",
+        "displayName": "𝟡𝟜 ᴾᴸᴬʸᶠᴼᴿᴳᴱ",
+        "profileUrl": "https://x.com/94vanAI"
+      },
+      "originalText": "都说GPT的记忆功能🧠非常强，能记住用户的生图习惯从而在生图上表现出色同一种提示词也会有区别🤔\n\n所以说，不同的用户在用相同提示词的时候\n\n出现的效果和质感会不一样？👀\n\n这个 电子宠物搭配二次元风格 有印象可以试试看，我把提示词放评论区了⬇️\n\n看看会不会比我的实感更好一些？\n（为什么我的好Q）"
+    },
+    "id": "2101634180312670313",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2101634180312670313",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-20T11:26:49.000Z",
+    "collectedAt": "2026-09-20T12:17:01.493Z",
+    "language": "zh",
+    "originalText": "对纲手又心动了💗\n\n提示词太无敌了😍\n\nPrompt：超精细日系二次元数字插画，清透高亮商业插画质感，细腻板绘，柔和赛璐璐＋半厚涂，干净线稿，透明塑料、玻璃与金属高光，浅景深，柔焦 bloom，梦幻高调曝光。\n\n角色：纲手成年版。自动保留原角色最核心的发型、发色、瞳色、代表性服装结构、标志性饰品、武器或符号，服装轻度融合日系制服与现代时装设计，不改变角色辨识度。\n\n第一人称近距离 POV，画面左右前景伸入一双手，举着透明浅冰蓝色蛋形电子宠物机。设备占据画面中心并遮住后方角色面部，使电子屏幕成为角色的“第二张脸”。\n\n宠物机为透明冰蓝外壳，内部电子结构可见，中央像素 LCD 屏幕带红色边框，下方三枚红色圆形按钮。屏幕显示角色对应的低像素肖像，明显像素网格、CRT 扫描线和轻微 glitch，屏幕表情与真人同步但更加克制、焦虑、像隐藏情绪被机器读取。\n\n设备顶部连接银色钥匙圈与大量垂坠挂饰，包括苦无、手里剑、卷轴、角色专属符号、玻璃心形吊坠、透明珠子、金属铃铛、红绳与微型花朵。部分挂饰贴近镜头严重虚化，形成强烈前后景纵深。\n\n后方角色接近全身入镜，身体轻微内收，双手抓住衣领、袖口或胸前布料，表达克制、焦虑、隐秘期待、幻想、脆弱与纯真，非情色。\n\n背景为奶白、浅蓝灰、冷粉色高调梦境空间，悬浮模糊挂件、花瓣、纸片与微小光尘。\n\n强烈透视：前景双手巨大，中景宠物机极近，后景人物缩小。每张随机改变俯拍、仰拍、Dutch angle、镜头距离、设备倾斜角度、角色姿态和表情，禁止普通平视证件照。\n\n右上角一条极细横线，线上写细小潦草手写签名「playforge」，约80%透明度，低调不抢主体。\n\n3:4 竖构图，高清，梦幻但克制，大量透明材质细节。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSqBJNSboAAWbmC.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSqBJNSboAAWbmC.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSps2JWbUAAwhUV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSps2JWbUAAwhUV.jpg",
+        "sourcePostId": "2101611865969238144"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSps2LlaYAADvkx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSps2LlaYAADvkx.jpg",
+        "sourcePostId": "2101611865969238144"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSps2JYbcAEbA1e.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSps2JYbcAEbA1e.jpg",
+        "sourcePostId": "2101611865969238144"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSps2LoaAAAR7qR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSps2LoaAAAR7qR.jpg",
+        "sourcePostId": "2101611865969238144"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 479
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2101634180312670313",
+  "coverUrl": "https://pbs.twimg.com/media/HSqBJNSboAAWbmC.jpg",
+  "coverPath": "images/2101634180312670313-1.jpg",
+  "imagePaths": [
+    "images/2101634180312670313-1.jpg",
+    "images/2101634180312670313-2.jpg",
+    "images/2101634180312670313-3.jpg",
+    "images/2101634180312670313-4.jpg",
+    "images/2101634180312670313-5.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSqBJNSboAAWbmC",
+    "x-image:/media/HSps2JWbUAAwhUV",
+    "x-image:/media/HSps2LlaYAADvkx",
+    "x-image:/media/HSps2JYbcAEbA1e",
+    "x-image:/media/HSps2LoaAAAR7qR",
+    "x-post:2101634180312670313",
+    "x-post:2101611865969238144"
+  ],
+  "analysis": {
+    "summary": "第一人称视角手持透明电子宠物机遮挡纲手面部，屏幕同步显示像素表情的日系高亮二次元插画提示词。",
+    "summaryEn": "First-person POV anime prompt featuring hands holding a transparent pet device blocking Tsunade's face with a synced pixel display.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图清晰展示了第一人称双手手持透明电子宠物机挡住后方角色面部，屏幕呈现对应的像素脸，带有大量挂饰与透视景深，与提示词描述完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超精细日系二次元数字插画，清透高亮商业插画质感，细腻板绘，柔和赛璐璐＋半厚涂，干净线稿，透明塑料、玻璃与金属高光，浅景深，柔焦 bloom，梦幻高调曝光。\n\n角色：纲手成年版。自动保留原角色最核心的发型、发色、瞳色、代表性服装结构、标志性饰品、武器或符号，服装轻度融合日系制服与现代时装设计，不改变角色辨识度。\n\n第一人称近距离 POV，画面左右前景伸入一双手，举着透明浅冰蓝色蛋形电子宠物机。设备占据画面中心并遮住后方角色面部，使电子屏幕成为角色的“第二张脸”。\n\n宠物机为透明冰蓝外壳，内部电子结构可见，中央像素 LCD 屏幕带红色边框，下方三枚红色圆形按钮。屏幕显示角色对应的低像素肖像，明显像素网格、CRT 扫描线和轻微 glitch，屏幕表情与真人同步但更加克制、焦虑、像隐藏情绪被机器读取。\n\n设备顶部连接银色钥匙圈与大量垂坠挂饰，包括苦无、手里剑、卷轴、角色专属符号、玻璃心形吊坠、透明珠子、金属铃铛、红绳与微型花朵。部分挂饰贴近镜头严重虚化，形成强烈前后景纵深。\n\n后方角色接近全身入镜，身体轻微内收，双手抓住衣领、袖口或胸前布料，表达克制、焦虑、隐秘期待、幻想、脆弱与纯真，非情色。\n\n背景为奶白、浅蓝灰、冷粉色高调梦境空间，悬浮模糊挂件、花瓣、纸片与微小光尘。\n\n强烈透视：前景双手巨大，中景宠物机极近，后景人物缩小。每张随机改变俯拍、仰拍、Dutch angle、镜头距离、设备倾斜角度、角色姿态和表情，禁止普通平视证件照。\n\n右上角一条极细横线，线上写细小潦草手写签名「playforge」，约80%透明度，低调不抢主体。\n\n3:4 竖构图，高清，梦幻但克制，大量透明材质细节。",
+    "sourceRange": {
+      "start": 27,
+      "end": 728
+    },
+    "translations": {
+      "zh": "超精细日系二次元数字插画，清透高亮商业插画质感，细腻板绘，柔和赛璐璐＋半厚涂，干净线稿，透明塑料、玻璃与金属高光，浅景深，柔焦 bloom，梦幻高调曝光。\n\n角色：纲手成年版。自动保留原角色最核心的发型、发色、瞳色、代表性服装结构、标志性饰品、武器或符号，服装轻度融合日系制服与现代时装设计，不改变角色辨识度。\n\n第一人称近距离 POV，画面左右前景伸入一双手，举着透明浅冰蓝色蛋形电子宠物机。设备占据画面中心并遮住后方角色面部，使电子屏幕成为角色的“第二张脸”。\n\n宠物机为透明冰蓝外壳，内部电子结构可见，中央像素 LCD 屏幕带红色边框，下方三枚红色圆形按钮。屏幕显示角色对应的低像素肖像，明显像素网格、CRT 扫描线和轻微 glitch，屏幕表情与真人同步但更加克制、焦虑、像隐藏情绪被机器读取。\n\n设备顶部连接银色钥匙圈与大量垂坠挂饰，包括苦无、手里剑、卷轴、角色专属符号、玻璃心形吊坠、透明珠子、金属铃铛、红绳与微型花朵。部分挂饰贴近镜头严重虚化，形成强烈前后景纵深。\n\n后方角色接近全身入镜，身体轻微内收，双手抓住衣领、袖口或胸前布料，表达克制、焦虑、隐秘期待、幻想、脆弱与纯真，非情色。\n\n背景为奶白、浅蓝灰、冷粉色高调梦境空间，悬浮模糊挂件、花瓣、纸片与微小光尘。\n\n强烈透视：前景双手巨大，中景宠物机极近，后景人物缩小。每张随机改变俯拍、仰拍、Dutch angle、镜头距离、设备倾斜角度、角色姿态和表情，禁止普通平视证件照。\n\n右上角一条极细横线，线上写细小潦草手写签名「playforge」，约80%透明度，低调不抢主体。\n\n3:4 竖构图，高清，梦幻但克制，大量透明材质细节。",
+      "en": "Ultra-detailed Japanese anime digital illustration with a clean commercial aesthetic, soft cel shading, semi-thick paint, and dreamy bloom. Adult Tsunade retains core traits combined with modern uniform accents. First-person POV shows hands holding a transparent ice-blue egg-shaped virtual pet device centered to cover her face, its pixel LCD displaying her emotional face with scanlines. Rich hanging accessories, strong foreground/background depth, dreamlike soft background, 3:4 aspect ratio."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "纲手 (Tsunade / Naruto IP)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
