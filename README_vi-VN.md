@@ -7231,20 +7231,20 @@ Tránh các nhân vật có bản quyền dễ nhận biết, chân dung ngườ
 
 <a name="prompt-2101690690216337746"></a>
 
-### Đang dịch
+### Thiết kế avatar cô gái Trung Đông theo phong cách nhãn dán 3D bơm hơi, bao gồm tông màu kẹo và viền cắt bế màu trắng.
 
 Tác giả：[@81soud81](https://x.com/81soud81) · [Bài gốc](https://x.com/81soud81/status/2101690690216337746)
 
 Hồ sơ / Ảnh đại diện · Kết xuất 3D · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Thiết kế avatar cô gái Trung Đông theo phong cách nhãn dán 3D bơm hơi, bao gồm tông màu kẹo và viền cắt bế màu trắng.
 
 <img src="images/2101690690216337746-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một nhãn dán 3D phồng cao cấp hình cô gái Trung Đông vui vẻ với các đường nét khuôn mặt đối xứng, cực kỳ chi tiết, đôi má phúng phính bóng bẩy và nụ cười rạng rỡ xinh đẹp. Thiết kế có kết cấu nhựa mềm bơm phồng với những điểm sáng và bóng chân thực. Bảng màu kẹo ngọt rực rỡ (hồng kẹo cao su, vàng chanh tươi và xanh mòng két dịu nhẹ). Viền cắt bế (die-cut) màu trắng dày, tài nguyên biểu tượng thương mại, cô lập trên nền trắng tinh khiết.
 ```
 
 [↑ Về danh mục](#catalog)

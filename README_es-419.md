@@ -7193,20 +7193,20 @@ Evita personajes reconocibles con derechos de autor, parecidos con celebridades,
 
 <a name="prompt-2101690690216337746"></a>
 
-### Traducción en curso
+### Diseño de avatar de niña de Oriente Medio en estilo de calcomanía 3D inflable, con tonos de caramelo y borde blanco troquelado.
 
 Autor：[@81soud81](https://x.com/81soud81) · [Publicación original](https://x.com/81soud81/status/2101690690216337746)
 
 Perfil / Avatar · Renderizado 3D · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Diseño de avatar de niña de Oriente Medio en estilo de calcomanía 3D inflable, con tonos de caramelo y borde blanco troquelado.
 
 <img src="images/2101690690216337746-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una calcomanía 3D inflada prémium de una alegre niña de Oriente Medio con rasgos faciales simétricos y altamente detallados, mejillas regordetas y brillantes, y una gran y hermosa sonrisa. El diseño tiene una textura inflada de plástico suave con luces y sombras realistas. Paleta vibrante de colores caramelo (rosa chicle, limón brillante y verde azulado suave). Borde troquelado blanco y grueso, recurso de icono comercial, aislado sobre un fondo blanco puro.
 ```
 
 [↑ Volver a categorías](#catalog)

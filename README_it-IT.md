@@ -7193,20 +7193,20 @@ Evita personaggi riconoscibili protetti da copyright, somiglianze con celebrità
 
 <a name="prompt-2101690690216337746"></a>
 
-### Traduzione in corso
+### Design dell'avatar di una ragazza mediorientale in stile adesivo 3D gonfiabile, con tonalità caramella e bordo bianco fustellato.
 
 Autore：[@81soud81](https://x.com/81soud81) · [Post originale](https://x.com/81soud81/status/2101690690216337746)
 
 Profilo / Avatar · Rendering 3D · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Design dell'avatar di una ragazza mediorientale in stile adesivo 3D gonfiabile, con tonalità caramella e bordo bianco fustellato.
 
 <img src="images/2101690690216337746-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un adesivo 3D bombato di alta qualità di una gioiosa ragazza mediorientale con tratti del viso altamente dettagliati e simmetrici, guance paffute e lucide e un grande e splendido sorriso. Il design ha una consistenza gonfiata in plastica morbida con luci e ombre realistiche. Vivace tavolozza di colori caramella (rosa gomma da masticare, limone brillante e verde acqua tenue). Spesso bordo fustellato bianco, risorsa icona commerciale, isolato su uno sfondo bianco puro.
 ```
 
 [↑ Torna alle categorie](#catalog)

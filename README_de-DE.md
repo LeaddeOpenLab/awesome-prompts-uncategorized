@@ -7193,20 +7193,20 @@ Vermeide erkennbare urheberrechtlich geschützte Charaktere, Ähnlichkeiten mit 
 
 <a name="prompt-2101690690216337746"></a>
 
-### Übersetzung läuft
+### Avatar-Design eines Mädchens aus dem Nahen Osten im Stil eines aufblasbaren 3D-Aufklebers, mit Bonbontönen und gestanztem weißen Rand.
 
 Autor：[@81soud81](https://x.com/81soud81) · [Originalbeitrag](https://x.com/81soud81/status/2101690690216337746)
 
 Profil / Avatar · 3D-Rendering · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Avatar-Design eines Mädchens aus dem Nahen Osten im Stil eines aufblasbaren 3D-Aufklebers, mit Bonbontönen und gestanztem weißen Rand.
 
 <img src="images/2101690690216337746-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein hochwertiger, bauschiger 3D-Sticker eines fröhlichen Mädchens aus dem Nahen Osten mit hochdetaillierten, symmetrischen Gesichtszügen, molligen, glänzenden Wangen und einem großen, wunderschönen Lächeln. Das Design hat eine weiche, aufgeblasene Kunststofftextur mit realistischen Glanzlichtern und Schatten. Lebendige Bonbon-Farbpalette (Kaugummirosa, helles Zitronengelb und sanftes Blaugrün). Dicker weißer gestanzter Rand, kommerzielles Icon-Asset, isoliert auf rein weißem Hintergrund.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

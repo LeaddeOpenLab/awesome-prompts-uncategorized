@@ -7198,20 +7198,20 @@ Evite personagens reconhecíveis protegidos por direitos autorais, semelhanças 
 
 <a name="prompt-2101690690216337746"></a>
 
-### Tradução em andamento
+### Design de avatar de garota do Oriente Médio no estilo de adesivo 3D inflável, com tons de doces e borda branca cortada em matriz.
 
 Autor：[@81soud81](https://x.com/81soud81) · [Publicação original](https://x.com/81soud81/status/2101690690216337746)
 
 Perfil / Avatar · Renderização 3D · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Design de avatar de garota do Oriente Médio no estilo de adesivo 3D inflável, com tons de doces e borda branca cortada em matriz.
 
 <img src="images/2101690690216337746-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um adesivo 3D tufado premium de uma alegre garota do Oriente Médio com traços faciais altamente detalhados e simétricos, bochechas gordinhas e brilhantes e um grande e lindo sorriso. O design tem uma textura inflada de plástico macio com realces e sombras realistas. Paleta vibrante de cores doces (rosa chiclete, limão brilhante e cerceta suave). Borda grossa branca cortada em matriz, recurso de ícone comercial, isolado em um fundo branco puro.
 ```
 
 [↑ Voltar às categorias](#catalog)

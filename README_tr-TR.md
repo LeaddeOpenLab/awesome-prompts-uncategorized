@@ -7198,20 +7198,20 @@ Tanınabilir telif hakkıyla korunan karakterlerden, ünlü benzerliklerinden, m
 
 <a name="prompt-2101690690216337746"></a>
 
-### Çeviri sürüyor
+### Şeker tonları ve beyaz kalıp kesim kenarlık içeren, 3D şişme çıkartma tarzında Orta Doğulu kız avatarı tasarımı.
 
 Yazar：[@81soud81](https://x.com/81soud81) · [Orijinal gönderi](https://x.com/81soud81/status/2101690690216337746)
 
 Profil / Avatar · 3D Modelleme · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Şeker tonları ve beyaz kalıp kesim kenarlık içeren, 3D şişme çıkartma tarzında Orta Doğulu kız avatarı tasarımı.
 
 <img src="images/2101690690216337746-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Son derece ayrıntılı, simetrik yüz hatlarına, tombul parlak yanaklara ve büyük, güzel bir gülümsemeye sahip, neşeli bir Orta Doğulu kızın birinci sınıf kabarık 3D çıkartması. Tasarım, gerçekçi parlak noktalar ve gölgeler içeren yumuşak plastik şişirilmiş bir dokuya sahiptir. Canlı şeker rengi paleti (sakız pembesi, parlak limon ve yumuşak camgöbeği). Kalın beyaz kesimli kenarlık, ticari simge içeriği, saf beyaz arka planda izole edilmiş.
 ```
 
 [↑ Kategorilere dön](#catalog)

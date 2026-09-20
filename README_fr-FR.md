@@ -7193,20 +7193,20 @@ Ambiance : absurde, drôle, bizarre, espiègle, exagérée, légèrement grotesq
 
 <a name="prompt-2101690690216337746"></a>
 
-### Traduction en cours
+### Conception d'avatar d'une fille du Moyen-Orient dans le style d'un autocollant 3D gonflable, avec des tons bonbon et une bordure blanche découpée.
 
 Auteur：[@81soud81](https://x.com/81soud81) · [Publication originale](https://x.com/81soud81/status/2101690690216337746)
 
 Profil / Avatar · Rendu 3D · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Conception d'avatar d'une fille du Moyen-Orient dans le style d'un autocollant 3D gonflable, avec des tons bonbon et une bordure blanche découpée.
 
 <img src="images/2101690690216337746-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un autocollant 3D gonflé haut de gamme d'une joyeuse fille du Moyen-Orient avec des traits du visage symétriques et très détaillés, des joues rebondies et brillantes, et un grand et beau sourire. Le design présente une texture gonflée en plastique souple avec des reflets et des ombres réalistes. Palette vibrante de couleurs bonbon (rose bubble-gum, citron éclatant et sarcelle doux). Épaisse bordure blanche découpée à la forme, élément d'icône commerciale, isolé sur fond blanc pur.
 ```
 
 [↑ Retour aux catégories](#catalog)

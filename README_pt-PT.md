@@ -7198,20 +7198,20 @@ Evite personagens reconhecíveis protegidas por direitos de autor, parecenças c
 
 <a name="prompt-2101690690216337746"></a>
 
-### Tradução em curso
+### Design de avatar de menina do Médio Oriente no estilo de autocolante 3D insuflável, com tons de doces e borda branca recortada.
 
 Autor：[@81soud81](https://x.com/81soud81) · [Publicação original](https://x.com/81soud81/status/2101690690216337746)
 
 Perfil / Avatar · Renderização 3D · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Design de avatar de menina do Médio Oriente no estilo de autocolante 3D insuflável, com tons de doces e borda branca recortada.
 
 <img src="images/2101690690216337746-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um autocolante 3D tufado premium de uma alegre menina do Médio Oriente com traços faciais altamente detalhados e simétricos, bochechas rechonchudas e brilhantes e um grande e bonito sorriso. O design tem uma textura inflada de plástico macio com destaques e sombras realistas. Paleta vibrante de cores doces (rosa pastilha elástica, limão brilhante e cerceta suave). Borda grossa branca recortada, recurso de ícone comercial, isolado num fundo branco puro.
 ```
 
 [↑ Voltar às categorias](#catalog)
