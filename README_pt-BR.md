@@ -35,7 +35,7 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2101647060357222565"></a>
 
-### Tradução em andamento
+### Prompt para geração de imagem no estilo de foto instantânea tirada com a câmera padrão de um smartphone, mostrando três mulheres japonesas brincando nas águas rasas de Enoshima.
 
 Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicação original](https://x.com/HObE4TLMga99335/status/2101647060357222565)
 
@@ -43,7 +43,7 @@ Fotografia · Publicado
 
 Publicação original：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicação original](https://x.com/HObE4TLMga99335/status/2101189292827779362)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para geração de imagem no estilo de foto instantânea tirada com a câmera padrão de um smartphone, mostrando três mulheres japonesas brincando nas águas rasas de Enoshima.
 
 <img src="images/2101647060357222565-1.jpg" alt="Imagem 1" width="480" />
 
@@ -54,7 +54,29 @@ Publicação original：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Pu
 **Prompt**
 
 ```text
-Tradução em andamento
+Identidade das personagens:
+A Mulher 1 é uma mulher japonesa adulta de 22 anos, 168 cm, estudante do 4º ano de engenharia da computação. Rosto em formato de coração alongado, olhos amendoados horizontais, sobrancelhas arqueadas, uma pequena pinta na bochecha direita, cabelos pretos completamente lisos até abaixo do peito. A Mulher 2 é uma mulher japonesa adulta de 30 anos, 166 cm, gerente de confeitaria/cafeteria. Rosto oval arredondado e suave, sardas leves no nariz, uma pinta abaixo do canto externo do olho esquerdo, covinhas ao sorrir. Cabelo preto estilo bob na altura dos ombros, com cinza apenas ao redor das orelhas e no interior da camada inferior. Tira os óculos na praia. A Mulher 3 é uma mulher japonesa adulta de 23 anos, 152 cm, manicure. Rosto pequeno e redondo, olhos caídos (droopy eyes), uma pinta sob o olho direito, maria-chiquinha baixa de cabelos pretos, com rosa empoeirado apenas na parte interna das pontas. Mantenha os rostos adultos e as proporções corporais naturais das três, sem misturar os traços de uma com a outra.
+
+Penteados:
+O cabelo longo, liso e preto da Mulher 1, que vai até abaixo do peito, é preso em um único rabo de cavalo na parte de trás da cabeça. Mantenha o comprimento e a textura perfeitamente lisa, sem que o cabelo longo e molhado cubra o rosto ou a frente do corpo. O bob liso na altura dos ombros da Mulher 2 é preso em um pequeno rabo de cavalo baixo na nuca, e os fios mais curtos que não alcançam são colocados atrás da orelha. O topo da cabeça, a superfície e as raízes são pretos, mantendo o cinza esfumaçado apenas na parte interna das orelhas e nas pontas abaixo da amarração. Não alongue o cabelo da Mulher 2 e não faça um coque grande. A Mulher 3 mantém a maria-chiquinha baixa de cabelos pretos com rosa empoeirado na parte interna das pontas.
+
+Trajes:
+Mulher 1 com rashguard azul-claro, Mulher 2 com cinza-chumbo e Mulher 3 com rosa empoeirado; rashguards de mangas curtas opacos e totalmente fechados na frente. Cada uma veste por cima de um traje de banho esportivo opaco, cobrindo peito, abdômen e ombros. Mulher 1 e Mulher 3 usam shorts de natação azul-marinho acima do joelho, e a Mulher 2 usa preto. Descalças. Não torne as roupas transparentes e não as remova.
+
+Cena e Composição:
+Uma única foto horizontal contínua de proporção 3:2. Águas rasas no mar de Enoshima à tarde. Não alinhe as três lado a lado com espaçamento uniforme como em uma foto comemorativa. Nas águas calmas e rasas, as três estão posicionadas em um pequeno triângulo, voltadas umas para as outras. A Mulher 1, mais à frente e à esquerda, está voltada quase de perfil (três quartos), jogando uma pequena quantidade de água com uma das mãos em direção à Mulher 3, que está mais ao fundo à direita. A outra mão repousa naturalmente perto da superfície da água. O rosto da Mulher 1 está quase de perfil, sorrindo enquanto olha para a outra. A Mulher 3, ligeiramente mais ao fundo e à direita, usa uma boia inflável rosa-clara, segurando a borda da boia com a mão esquerda e levantando ligeiramente o antebraço direito, surpresa com o pequeno respingo de água da Mulher 1. Ela aperta levemente os olhos ao rir, mas seu rosto permanece visível. A Mulher 2, ao lado e ainda mais ao fundo que a Mulher 3, mais perto do centro da imagem, apoia levemente a borda oposta da boia da Mulher 3 com uma mão, brincando junto. O outro braço da Mulher 2 desce naturalmente ao lado do seu corpo em direção à água. A Mulher 2 está sorrindo olhando para a Mulher 3. Há profundidade e sobreposição natural entre as cabeças e ombros das três; o ombro da Mulher 1 e uma pequena parte da boia da Mulher 3 se sobrepõem naturalmente, mas evite sobreposições que tornem ambígua a posse de rostos ou mãos. Há apenas uma única boia rosa, a da Mulher 3. A Mulher 1 e a Mulher 2 não usam boias; não desenhe boias azuis e brancas ou amarelas.
+
+Fotografia:
+Foto de smartphone tirada em ângulo, sem interromper a brincadeira das amigas. Ninguém olha para a câmera. Deixe margens acima da cabeça e nas laterais, incluindo a parte superior do corpo das três, a única boia da Mulher 3, todas dentro da água e a superfície da água em primeiro plano. Não crie linhas de ombros paralelas nem distribuições simétricas. As três estão posicionadas perto o suficiente para conversar, mas com uma defasagem de profundidade de cerca de 1 metro entre cada uma. AF único focado perto do rosto da Mulher 1 em primeiro plano; as duas mais ao fundo podem estar ligeiramente mais suaves de acordo com a distância natural, mas seus traços faciais e ações continuam identificáveis. Leve desfoque de movimento local em gotas d'água e mãos em movimento, sem nitidez artificial apenas na pele e no rosto.
+
+Cenário e Iluminação:
+Mar verde-azulado calmo, linha costeira e Enoshima suavemente visíveis ao longe, luz natural da tarde. Reflexos fracos da superfície da água atingem as roupas e rostos, mantendo as sombras nos cabelos.
+
+Obrigatório e a Evitar:
+A água do mar vai da coxa até a cintura, com os pés das três tocando o fundo do mar. Apenas pequenos respingos de água; sem ondas grandes, mergulhos, quedas ou ações perigosas. Contato correto entre a boia e os braços; exatamente dois braços e duas mãos por pessoa. Sem duplicação de rostos ou braços, e o corpo não se funde com a boia. A linha costeira e Enoshima são visíveis ao fundo. Sem adicionar textos, logotipos ou telas divididas.
+
+Qualidade Fotográfica Real Fixa:
+Foto HEIC única e quase sem processamento, tirada com o aplicativo de câmera padrão de um smartphone comum. Sem modo retrato, filtros de embelezamento, reiluminação apenas no rosto, correção excessiva de exposição, reenfatização de nitidez artificial, redução agressiva de ruído ou retoques de pele. O AF é colocado apenas no plano especificado na seção de fotografia, tornando esse plano o mais naturalmente nítido, enquanto as pessoas, membros, acessórios e fundo à frente e atrás suavizam progressivamente de acordo com a distância e o movimento. Sem poros falsos ou resolução 8K uniforme em rostos distantes; mantenha variações tonais naturais e amplas, como leve vermelhidão em uma das bochechas, reflexos irregulares na zona T, assimetria sob os olhos e leve rubor ao redor do nariz. Na pele exposta resolvida de perto, mantenha variações sutis e não repetitivas no tom da pele, vermelhidão natural nas articulações ou áreas de pressão e sombras finas. Pele, cabelo, tecido, metal, madeira, paredes e água devem ter reflexos, bordas e detalhes distintos de acordo com cada material, sem o mesmo brilho ou a mesma nitidez genérica. HDR discreto, leve variação de balanço de branco automático (AWB), ruído sutil apenas em áreas escuras, leve compressão HEIC, pequenos tremores locais e desalinhamento composicional aceitáveis, mas sem grão falso em tela cheia, sem desfoque uniforme e sem nitidez excessiva. Parecendo um momento imperfeito e autêntico salvo no rolo da câmera de alguém, e não um anúncio publicitário, ensaio de gravure, campanha de moda, fotografia de beleza em estúdio, color grading cinematográfico ou composição perfeitamente simétrica.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -5847,13 +5869,13 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2101679499935129630"></a>
 
-### Tradução em andamento
+### Prompt que retrata o envio de foto na tela de mensagens do smartphone, mostrando uma garota na cama usando camisa e segurando calcinha preta.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicação original](https://x.com/2__han__/status/2101679499935129630)
 
 Design de Aplicativos / Web · Anime / Mangá · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt que retrata o envio de foto na tela de mensagens do smartphone, mostrando uma garota na cama usando camisa e segurando calcinha preta.
 
 <img src="images/2101679499935129630-1.jpg" alt="Imagem 1" width="480" />
 
@@ -5866,7 +5888,7 @@ Design de Aplicativos / Web · Anime / Mangá · Retrato / Selfie · Personagem 
 **Prompt**
 
 ```text
-Tradução em andamento
+(((moldura de smartphone))), (((tela de telefone))), foco na tela, interface móvel, interface de aplicativo de mensagens, histórico de bate-papo, foto anexada, balão de imagem,\n\ndentro da foto anexada: (garota, interior, noite, quarto escuro, cama, selfie, POV, vestindo camisa social oversized, camisa com colarinho, camisa branca, segurando calcinha preta, exibindo, pose sugestiva),\n\nbalão de fala esquerdo, texto em coreano, "집에 언제 와?", interface limpa, interface detalhada, arte oficial,
 ```
 
 [↑ Voltar às categorias](#catalog)

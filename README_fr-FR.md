@@ -35,7 +35,7 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2101647060357222565"></a>
 
-### Traduction en cours
+### Prompt de génération d'image façon instantané pris avec l'appareil photo standard d'un smartphone, montrant trois femmes japonaises jouant dans les eaux peu profondes d'Enoshima.
 
 Auteur：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publication originale](https://x.com/HObE4TLMga99335/status/2101647060357222565)
 
@@ -43,7 +43,7 @@ Photographie · Publié
 
 Publication originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publication originale](https://x.com/HObE4TLMga99335/status/2101189292827779362)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération d'image façon instantané pris avec l'appareil photo standard d'un smartphone, montrant trois femmes japonaises jouant dans les eaux peu profondes d'Enoshima.
 
 <img src="images/2101647060357222565-1.jpg" alt="Image 1" width="480" />
 
@@ -54,7 +54,29 @@ Publication originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Pu
 **Consigne**
 
 ```text
-Traduction en cours
+Identité des personnages :
+Femme 1 est une femme japonaise adulte de 22 ans, 168 cm, étudiante de 4e année en génie informatique. Visage allongé en forme de cœur, yeux en amande horizontaux, sourcils arqués, un petit grain de beauté sur la joue droite, cheveux noirs parfaitement raides descendant sous la poitrine. Femme 2 est une femme japonaise adulte de 30 ans, 166 cm, gérante d'un café-boulangerie. Visage ovale et doux, légères taches de rousseur sur le nez, un grain de beauté sous le coin externe de l'œil gauche, fossettes en souriant. Carré noir droit jusqu'aux épaules avec du gris uniquement autour des oreilles et sur la couche inférieure interne. Elle retire ses lunettes à la mer. Femme 3 est une femme japonaise adulte de 23 ans, 152 cm, prothésiste ongulaire. Petit visage rond, yeux tombants, un grain de beauté sous l'œil droit, couettes basses noires avec du rose poudré uniquement sur la face intérieure des pointes. Conserver des visages adultes et des proportions corporelles naturelles pour toutes les trois, sans mélanger les traits distinctifs de l'une avec l'autre.
+
+Coiffure :
+Les longs cheveux noirs et raides de Femme 1 descendant sous la poitrine sont attachés en une seule queue-de-cheval à l'arrière de la tête. Conserver la longueur et la texture raide, sans que les cheveux longs et mouillés ne recouvrent le visage ou le devant du torse. Le carré droit aux épaules de Femme 2 est attaché en une petite queue basse sur la nuque, les mèches plus courtes ne pouvant être attachées étant glissées derrière les oreilles. Le dessus de la tête, la surface et les racines sont noirs, ne laissant de gris fumé que sur la face interne des oreilles et sur les pointes sous l'élastique. Ne pas allonger les cheveux de Femme 2 ni lui faire un gros chignon. Femme 3 conserve ses couettes basses noires et le rose poudré à l'intérieur des pointes.
+
+Tenue :
+Rashguards opaques à manches courtes entièrement fermés sur le devant : bleu clair pour Femme 1, anthracite pour Femme 2 et rose poudré pour Femme 3. Chacun est porté par-dessus des maillots de bain de sport opaques, couvrant le décolleté, l'abdomen et les épaules. Shorts de bain au-dessus du genou : bleu marine pour Femme 1 et Femme 3, noir pour Femme 2. Pieds nus. Les vêtements ne doivent être ni transparents ni retirés.
+
+Scène et composition :
+Une seule photo horizontale continue au format 3:2. Les eaux peu profondes de la mer d'Enoshima dans l'après-midi. Ne pas aligner les trois personnes côte à côte à intervalles réguliers comme pour une photo commémorative posée. Dans les eaux calmes et peu profondes, les trois sont orientées les unes vers les autres en formant un petit triangle. Au premier plan à gauche, Femme 1 est de trois-quarts profil et éclabousse d'une main une petite quantité d'eau vers Femme 3 située au fond à droite. Son autre main repose naturellement près de la surface de l'eau. Le visage de Femme 1 est presque de profil alors qu'elle sourit en regardant son amie. Femme 3, légèrement en retrait à droite, utilise une bouée gonflable rose pâle, tenant le rebord de la main gauche et levant légèrement l'avant-bras droit, surprise par les petites éclaboussures de Femme 1. Elle plisse légèrement les yeux en riant, mais son visage reste bien visible. À côté de Femme 3 et encore plus en retrait vers le centre du cadre, Femme 2 soutient légèrement d'une main le bord arrière de la bouée de Femme 3 pour jouer ensemble. L'autre bras de Femme 2 descend naturellement à ses côtés vers la surface de l'eau. Femme 2 regarde Femme 3 en souriant. Il y a une différence nette de profondeur entre les têtes et les épaules des trois personnes ; l'épaule de Femme 1 chevauche naturellement une infime partie de la bouée de Femme 3, mais tout chevauchement rendant l'appartenance des visages ou des mains ambiguë doit être évité. Il n'y a qu'une seule bouée rose, celle de Femme 3. Ne pas donner de bouée à Femme 1 ni à Femme 2, et ne pas dessiner de bouées bleu et blanc ou jaunes.
+
+Prise de vue :
+Photo prise au smartphone sous un angle oblique sans interrompre le jeu des amies. Personne ne regarde l'appareil. Laisser un espace au-dessus de la tête et sur les côtés, en incluant le haut du corps des trois femmes, l'unique bouée de Femme 3, toutes les trois dans l'eau et la surface de l'eau au premier plan. Ne pas créer de rangée d'épaules parallèles ni de disposition uniforme. Les trois sont assez proches pour converser, mais décalées d'environ 1 mètre en profondeur les unes par rapport aux autres. Autofocus unique près du visage de Femme 1 au premier plan ; les deux personnes plus en retrait peuvent être légèrement plus douces en raison de la distance naturelle, mais leurs traits et leurs gestes restent clairement reconnaissables. Léger flou de mouvement localisé sur les gouttes d'eau et les mains en mouvement, sans accentuer artificiellement la netteté uniquement sur la peau et les visages.
+
+Arrière-plan et lumière :
+Mer calme bleu-vert, littoral et Enoshima doucement visibles au loin, lumière naturelle de l'après-midi. De faibles reflets de l'eau atteignent les vêtements et les visages, tout en préservant les ombres dans les cheveux.
+
+Éléments requis et à éviter :
+L'eau de mer arrive entre les cuisses et la taille ; les pieds des trois personnes touchent le fond marin. Seules de petites éclaboussures d'eau sont présentes, sans grosses vagues, plongeons, chutes ou gestes dangereux. Représenter correctement le contact entre la bouée et les bras, avec exactement deux bras et deux mains par personne. Aucun dédoublement de visage ou de bras, et pas de fusion entre le corps et la bouée. Le littoral et Enoshima sont visibles à l'arrière-plan. Ne pas ajouter de texte, de logos ou d'écrans partagés.
+
+Qualité photoréaliste brute :
+Une photo HEIC unique et quasi brute, prise avec l'application appareil photo standard d'un smartphone ordinaire. Aucun mode portrait, filtre de beauté, rééclairage ciblé sur le visage, compensation d'exposition sélective, réaccentuation excessive de la netteté, réduction de bruit agressive ou retouche de peau. L'autofocus est positionné uniquement sur le plan spécifié dans la section prise de vue, rendant ce plan le plus naturellement net, tandis que les sujets, membres, accessoires et l'arrière-plan en avant ou en arrière s'adoucissent progressivement selon la distance et le mouvement. Pas de faux pores ni de résolution 8K uniforme sur les visages éloignés ; conserver de larges variations de tons comme une légère rougeur sur une joue, des reflets inégaux sur la zone T, des cernes asymétriques et une légère rougeur autour du nez. Sur la peau exposée nette au premier plan, conserver de légères variations non répétitives de carnation, des rougeurs naturelles aux articulations et aux points de pression, ainsi que des ombres subtiles. La peau, les cheveux, le tissu, le métal, le bois, les murs et l'eau doivent présenter des reflets, des contours et des détails distincts selon les matériaux, sans éclat ni netteté uniformes. Un HDR discret, de légères variations de balance des blancs, un bruit fin uniquement dans les zones sombres, une faible compression HEIC et de légers flous de bougé ou de légers décalages de cadrage sont acceptés, mais aucun faux grain global, flou uniforme ou excès de netteté. Donner l'impression d'un instant spontané et imparfait conservé dans la pellicule photo d'un smartphone personnel, sans ressemblance avec une publicité, une séance gravure, une campagne de mode, une photo beauté de studio, un étalonnage cinématographique ou une composition parfaitement symétrique.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -5842,13 +5864,13 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2101679499935129630"></a>
 
-### Traduction en cours
+### Prompt illustrant l'envoi d'une photo sur l'écran d'une messagerie pour smartphone, montrant une fille au lit en chemise tenant une culotte noire.
 
 Auteur：[@2\_\_han\_\_](https://x.com/2__han__) · [Publication originale](https://x.com/2__han__/status/2101679499935129630)
 
 Conception d'applications / de sites web · Anime / Manga · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt illustrant l'envoi d'une photo sur l'écran d'une messagerie pour smartphone, montrant une fille au lit en chemise tenant une culotte noire.
 
 <img src="images/2101679499935129630-1.jpg" alt="Image 1" width="480" />
 
@@ -5861,7 +5883,7 @@ Conception d'applications / de sites web · Anime / Manga · Portrait / Selfie �
 **Consigne**
 
 ```text
-Traduction en cours
+(((cadre de smartphone))), (((écran de téléphone))), focus sur l'écran, interface mobile, interface d'application de messagerie, journal de discussion, pièce jointe photo, bulle d'image,\n\nà l'intérieur de la photo jointe : (fille, intérieur, nuit, chambre sombre, lit, selfie, point de vue subjectif, portant une chemise habillée oversize, chemise à col, chemise blanche, tenant une culotte noire, présentant, pose suggestive),\n\nbulle de parole à gauche, texte coréen, "집에 언제 와?", interface épurée, interface détaillée, art officiel,
 ```
 
 [↑ Retour aux catégories](#catalog)

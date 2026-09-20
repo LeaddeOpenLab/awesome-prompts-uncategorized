@@ -35,7 +35,7 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2101647060357222565"></a>
 
-### Đang dịch
+### Lời nhắc tạo ảnh mang phong cách ảnh chụp nhanh bằng camera tiêu chuẩn của điện thoại thông minh, ghi lại cảnh ba người phụ nữ Nhật Bản đang đùa nghịch dưới làn nước nông ở Enoshima.
 
 Tác giả：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2101647060357222565)
 
@@ -43,7 +43,7 @@ Nhiếp ảnh · Đã xuất bản
 
 Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](https://x.com/HObE4TLMga99335/status/2101189292827779362)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo ảnh mang phong cách ảnh chụp nhanh bằng camera tiêu chuẩn của điện thoại thông minh, ghi lại cảnh ba người phụ nữ Nhật Bản đang đùa nghịch dưới làn nước nông ở Enoshima.
 
 <img src="images/2101647060357222565-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -54,7 +54,29 @@ Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](h
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đặc điểm nhận dạng nhân vật:
+Nữ 1 là phụ nữ Nhật Bản trưởng thành 22 tuổi, cao 168 cm, sinh viên năm 4 ngành kỹ thuật thông tin. Khuôn mặt hình trái tim thuôn dài, mắt hạnh nhân dài, lông mày cong, một nốt ruồi nhỏ trên má phải, tóc đen thẳng hoàn toàn dài qua ngực. Nữ 2 là phụ nữ Nhật Bản trưởng thành 30 tuổi, cao 166 cm, quản lý tiệm bánh mì kiêm cà phê. Khuôn mặt trái xoan tròn trịa mềm mại, tàn nhang mờ trên mũi, nốt ruồi dưới đuôi mắt trái, má lúm đồng tiền khi cười. Tóc bob thẳng ngang vai màu đen với màu xám khói chỉ xuất hiện quanh tai và lớp bên trong phía dưới. Bỏ kính khi đi biển. Nữ 3 là phụ nữ Nhật Bản trưởng thành 23 tuổi, cao 152 cm, thợ làm móng. Khuôn mặt nhỏ tròn, mắt cụp, nốt ruồi dưới mắt phải, tóc đen buộc hai bên thấp, chỉ có phần ngọn tóc bên trong là màu hồng tro. Giữ nguyên khuôn mặt trưởng thành và tỷ lệ cơ thể tự nhiên của cả 3 người, không trộn lẫn các đặc điểm của nhau.
+
+Kiểu tóc:
+Mái tóc đen dài thẳng qua ngực của Nữ 1 được buộc thành một đuôi ngựa phía sau đầu. Giữ nguyên độ dài và chất tóc thẳng, không để tóc ướt dài che phủ mặt hay phần thân trước. Mái tóc bob thẳng ngang vai của Nữ 2 được buộc túm thấp nhỏ ở gáy, các lọn tóc ngắn không buộc tới thì vén sau tai. Đỉnh đầu, bề mặt và chân tóc màu đen, chỉ giữ lại màu xám khói ở bên trong tai và đuôi tóc dưới mối buộc. Không làm tóc Nữ 2 dài ra, không búi củ tỏi lớn. Nữ 3 giữ nguyên tóc đen buộc hai bên thấp và màu hồng tro ở ngọn tóc bên trong.
+
+Trang phục:
+Nữ 1 mặc áo bơi chống nắng (rashguard) cộc tay màu xanh nhạt, Nữ 2 màu xám than, Nữ 3 màu hồng tro; tất cả đều kín phía trước và không xuyên thấu. Mỗi người mặc bên ngoài một bộ đồ bơi thể thao kín đáo, che kín ngực, bụng và vai. Nữ 1 và Nữ 3 mặc quần đùi bơi dài trên đầu gối màu xanh navy, Nữ 2 màu đen. Đi chân trần. Trang phục không xuyên thấu hay bị cởi bỏ.
+
+Bối cảnh và bố cục:
+Một bức ảnh liền mạch duy nhất nằm ngang tỷ lệ 3:2. Vùng nước nông ven biển Enoshima vào buổi chiều. Không xếp 3 người đứng thành hàng ngang cách đều nhau như chụp ảnh kỷ niệm. Ở vùng nước nông êm ả, 3 người đứng hướng về phía nhau, tạo thành hình tam giác nhỏ. Nữ 1 ở phía trước bên trái quay nghiêng khoảng hai phần ba, dùng một tay hất nhẹ một ít nước về phía Nữ 3 ở phía sau bên phải. Tay còn lại thả tự nhiên gần mặt nước. Mặt Nữ 1 hơi nghiêng, vừa nhìn đối phương vừa cười. Nữ 3 ở hơi lùi về sau phía bên phải dùng một chiếc phao bơi màu hồng nhạt, tay trái nắm vành phao, hơi nâng cẳng tay phải lên vì bất ngờ trước tia nước nhỏ của Nữ 1. Mắt hơi híp lại khi cười nhưng vẫn nhìn rõ khuôn mặt. Nữ 2 ở cạnh Nữ 3 sâu hơn về hậu cảnh, hơi lệch vào giữa khung hình, dùng một tay đỡ nhẹ vành ngoài phao của Nữ 3 để cùng chơi. Tay còn lại của Nữ 2 buông tự nhiên xuống mặt nước bên hông. Nữ 2 đang cười nhìn Nữ 3. Đầu và vai của 3 người có khoảng cách trước sau rõ rệt, vai của Nữ 1 và một phần nhỏ phao của Nữ 3 hơi chồng lên nhau một cách tự nhiên, nhưng tránh các vị trí chồng chéo làm nhập nhằng khuôn mặt hay tay của ai. Chỉ có duy nhất một chiếc phao màu hồng của Nữ 3. Nữ 1 và Nữ 2 không dùng phao, không vẽ phao màu xanh trắng hay màu vàng.
+
+Chụp ảnh:
+Ảnh chụp bằng điện thoại thông minh từ góc nghiêng, không can thiệp vào trò vui của bạn bè. Không ai nhìn vào máy ảnh. Để chừa khoảng trống phía trên đầu và hai bên trái phải, lấy được nửa thân trên của 3 người, 1 chiếc phao bơi của Nữ 3, cảnh mọi người đều đang ở dưới nước, và mặt nước tiền cảnh. Không tạo thành hàng vai song song hay bố cục chia đều. 3 người ở cự ly có thể trò chuyện nhưng độ sâu lệch nhau khoảng 1 mét. Lấy nét đơn (AF) gần khuôn mặt của Nữ 1 ở tiền cảnh, 2 người phía sau có thể hơi mềm nét theo khoảng cách tự nhiên nhưng vẫn nhận biết rõ đường nét và cử động. Có độ mờ nhẹ cục bộ do giọt nước và bàn tay chuyển động, không làm nét nhân tạo chỉ riêng vùng da và khuôn mặt.
+
+Bối cảnh và ánh sáng:
+Biển màu xanh lam pha lục êm ả, bờ biển và đảo Enoshima hiện lên mềm mại ở phía xa, ánh sáng tự nhiên buổi chiều. Ánh phản chiếu nhẹ từ mặt nước chiếu lên quần áo và khuôn mặt, bóng của tóc vẫn được giữ lại.
+
+Điều bắt buộc và cần tránh:
+Nước biển ngang đùi đến hông, chân của cả 3 người chạm đáy biển. Chỉ có bọt nước nhỏ bắn lên, không có sóng lớn, lặn biển, ngã, hay hành động nguy hiểm. Thể hiện chính xác sự tiếp xúc giữa phao và cánh tay, mỗi người có đúng 2 cánh tay và 2 bàn tay. Không trùng lặp khuôn mặt hay cánh tay, cơ thể không bị hòa lẫn vào phao bơi. Nhìn thấy đường bờ biển và đảo Enoshima ở hậu cảnh. Không thêm chữ, logo hay chia khung hình.
+
+Chất lượng ảnh thực tế cố định:
+Ảnh đơn định dạng HEIC gần như nguyên bản, chụp bằng ứng dụng máy ảnh tiêu chuẩn của điện thoại thông minh thông thường. Không sử dụng chế độ chân dung (portrait mode), bộ lọc làm đẹp da, chiếu sáng lại chỉ riêng khuôn mặt, bù trừ sáng, làm nét lại, khử nhiễu hay chỉnh sửa da. Điểm lấy nét AF chỉ đặt trên một mặt phẳng duy nhất như đã chỉ định trong phần chụp ảnh, làm cho mặt phẳng đó rõ nét tự nhiên nhất; người, tay chân, phụ kiện và hậu cảnh phía trước sau sẽ mềm nét dần theo khoảng cách và chuyển động. Không thêm lỗ chân lông giả hay độ phân giải 8K trên toàn ảnh cho các khuôn mặt ở xa; giữ lại nhiều mảng sắc thái màu sắc rộng như vết ửng đỏ nhẹ trên một bên má, phản chiếu không đều ở vùng chữ T, bọng mắt hai bên không đối xứng, vết đỏ nhẹ quanh mũi. Vùng da hở có độ phân giải cao ở cự ly gần giữ lại sự biến thiên màu da tự nhiên không lặp lại, vết đỏ tự nhiên ở khớp và điểm tỳ nén, cùng các chi tiết bóng đổ nhỏ. Da, tóc, vải, kim loại, gỗ, tường, nước... mỗi chất liệu có độ phản xạ, đường viền và chi tiết riêng biệt, không có cùng một độ bóng hay độ sắc nét giống nhau. Chấp nhận HDR vừa phải, chênh lệch nhẹ của cân bằng trắng tự động (AWB), nhiễu hạt mịn chỉ ở vùng tối, nén HEIC nhẹ, độ rung tay nhẹ cục bộ và bố cục hơi lệch, nhưng không phủ hạt giả toàn màn hình, không làm mờ đồng loạt và không làm nét quá đà. Thể hiện như một khoảnh khắc chưa qua chỉnh sửa được lưu lại trong thư viện ảnh cá nhân; không tạo cảm giác ảnh quảng cáo, gravure, chiến dịch thời trang, ảnh làm đẹp trong studio, chỉnh màu điện ảnh hay bố cục đối xứng hoàn hảo.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -5880,13 +5902,13 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2101679499935129630"></a>
 
-### Đang dịch
+### Lời nhắc dàn dựng gửi ảnh trên màn hình ứng dụng nhắn tin điện thoại thông minh, hình cô gái mặc áo sơ mi trên giường cầm quần lót màu đen.
 
 Tác giả：[@2\_\_han\_\_](https://x.com/2__han__) · [Bài gốc](https://x.com/2__han__/status/2101679499935129630)
 
 Thiết kế ứng dụng / web · Anime / Manga · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc dàn dựng gửi ảnh trên màn hình ứng dụng nhắn tin điện thoại thông minh, hình cô gái mặc áo sơ mi trên giường cầm quần lót màu đen.
 
 <img src="images/2101679499935129630-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -5899,7 +5921,7 @@ Thiết kế ứng dụng / web · Anime / Manga · Chân dung / Ảnh tự ch�
 **Câu lệnh**
 
 ```text
-Đang dịch
+(((khung điện thoại thông minh))), (((màn hình điện thoại))), tiêu điểm màn hình, giao diện di động, UI ứng dụng nhắn tin, nhật ký trò chuyện, tệp đính kèm ảnh, bong bóng hình ảnh,\n\nbên trong ảnh đính kèm: (cô gái, trong nhà, ban đêm, phòng ngủ tối, giường, chụp ảnh tự sướng, góc nhìn thứ nhất POV, mặc áo sơ mi quá khổ, áo sơ mi có cổ, áo sơ mi trắng, cầm quần lót đen, đưa ra, tạo dáng khêu gợi),\n\nbong bóng lời thoại bên trái, văn bản tiếng Hàn, "집에 언제 와?", UI gọn gàng, UI chi tiết, tác phẩm nghệ thuật chính thức,
 ```
 
 [↑ Về danh mục](#catalog)

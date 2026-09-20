@@ -35,7 +35,7 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2101647060357222565"></a>
 
-### Çeviri sürüyor
+### Enoshima'nın sığ sularında deniz keyfi yapan üç Japon kadını standart bir akıllı telefon kamerasıyla çekilmiş enstantane fotoğraf tarzında gösteren görsel üretim istemi.
 
 Yazar：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2101647060357222565)
 
@@ -43,7 +43,7 @@ Fotoğrafçılık · Yayımlandı
 
 Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijinal gönderi](https://x.com/HObE4TLMga99335/status/2101189292827779362)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Enoshima'nın sığ sularında deniz keyfi yapan üç Japon kadını standart bir akıllı telefon kamerasıyla çekilmiş enstantane fotoğraf tarzında gösteren görsel üretim istemi.
 
 <img src="images/2101647060357222565-1.jpg" alt="Görsel 1" width="480" />
 
@@ -54,7 +54,29 @@ Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijin
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kişi Kimlikleri:
+1. Kadın, 22 yaşında yetişkin bir Japon kadın, 168 cm boyunda, bilgisayar mühendisliği 4. sınıf öğrencisi. Uzun kalp şeklinde yüz, yatay badem gözler, kavisli kaşlar, sağ yanağında küçük bir ben, göğüs altına kadar uzanan tamamen düz siyah saçlar. 2. Kadın, 30 yaşında yetişkin bir Japon kadın, 166 cm boyunda, fırın-kafe müdürü. Yumuşak yuvarlak-oval yüz, burun üzerinde hafif çiller, sol gözün dış köşesinin altında bir ben, gülümsediğinde beliren gamzeler. Omuz hizasında siyah küt saç (bob), gri tonlar yalnızca kulak çevresinde ve alt katmanın iç kısmında yer alır. Denizde gözlüklerini çıkarır. 3. Kadın, 23 yaşında yetişkin bir Japon kadın, 152 cm boyunda, tırnak teknisyeni (manikürcü). Küçük yuvarlak yüz, düşük göz kapakları/düşük gözler, sağ gözün altında bir ben, siyah saçlardan alçak çift atkuyruğu, yalnızca uçların iç kısmında tozlu pembe tonlar. Üçünün yetişkin yüz hatlarını ve doğal tüm vücut oranlarını koruyun, farklı kişilerin özelliklerini birbirine karıştırmayın.
+
+Saç Modelleri:
+1. Kadının göğüs altına kadar uzanan uzun, düz siyah saçları başın arkasında tek bir atkuyruğu şeklinde toplanmıştır. Uzunluğu ve düz saç dokusunu koruyun; ıslak uzun saçların yüzü veya gövdenin önünü kapatmasına izin vermeyin. 2. Kadının omuz hizasındaki düz küt saçı ensede küçük ve alçak bir atkuyruğu ile toplanmış, toplanmayan kısa kısımlar kulağın arkasına sıkıştırılmıştır. Başın tepesi, yüzeyi ve kökleri siyah kalırken dumanlı gri renk yalnızca kulakların iç kısmında ve bağın altındaki uçlarda kalır. 2. Kadının saçını uzatmayın ve büyük bir topuz yapmayın. 3. Kadın, alçak siyah çift atkuyruğunu ve uçların iç kısmındaki tozlu pembe tonu korur.
+
+Kıyafetler:
+1. Kadın açık mavi, 2. Kadın antrasit, 3. Kadın tozlu pembe renkte; önü tamamen kapalı, iç göstermeyen (opak) kısa kollu sörf tişörtü (rashguard) giymektedir. Her biri iç göstermeyen sportif mayoların üzerine giyilmiş olup göğsü, karnı ve omuzları kapatır. 1. ve 3. Kadın lacivert, 2. Kadın ise siyah diz üstü yüzme şortu giymektedir. Çıplak ayaklıdırlar. Kıyafetleri şeffaf yapmayın veya üzerlerinden çıkarmayın.
+
+Sahne ve Kompozisyon:
+3:2 yatay formatta tek bir kesintisiz fotoğraf. Öğleden sonra Enoshima denizinin sığ suları. Üç kişiyi yan yana, eşit aralıklı hatıra fotoğrafı gibi hizalamayın. Sakin sığ suda üç kişi birbirine dönük şekilde küçük bir üçgen oluşturacak biçimde konumlanmıştır. Sol öndeki 1. Kadın neredeyse profil (üçte iki açıyla) durmakta, sağ arkadaki 3. Kadına tek eliyle hafifçe su sıçratmaktadır. Diğer elini su yüzeyine yakın bir şekilde doğal olarak tutar. 1. Kadının yüzü hafifçe yandan görünür, karşısındakine bakarak gülümser. Sağ tarafta biraz daha geride bulunan 3. Kadın açık pembe bir deniz simidi kullanmakta, sol eliyle simidin kenarını tutmakta ve 1. Kadının sıçrattığı hafif sudan şaşırarak sağ ön kolunu hafifçe kaldırmaktadır. Gülerken gözlerini hafifçe kısar ama yüzü seçilebilir durumdadır. 3. Kadının yanında ve daha da geride, karenin merkezine yakın duran 2. Kadın, 3. Kadının simidinin arka kenarını tek eliyle hafifçe tutarak oyuna ortak olur. 2. Kadının diğer kolu yan tarafında doğal bir şekilde su yüzeyine doğru inmiştir. 2. Kadın 3. Kadına bakarak gülümsemektedir. Üçünün baş ve omuz hizalarında derinlik farkı vardır; 1. Kadının omzu ile 3. Kadının simidinin çok küçük bir kısmı doğal olarak örtüşür, ancak yüzlerin veya ellerin kime ait olduğunu belirsizleştiren örtüşmelerden kaçının. Deniz simidi yalnızca 3. Kadına ait pembe simitten ibarettir (1 adet). 1. ve 2. Kadında simit bulunmaz; mavi-beyaz veya sarı simitler çizmeyin.
+
+Çekim:
+Arkadaşların oyununu bölmeyen, hafif çapraz açıdan çekilmiş bir akıllı telefon fotoğrafı. Kimse kameraya bakmaz. Baş üstünde ve yanlarda boşluk bırakın; üçünün üst gövdesini, 3. Kadının 1 adet simidini, herkesin suyun içinde olduğu hâli ve ön plandaki su yüzeyini kadraja dahil edin. Paralel omuz sıraları veya simetrik düzenlemeler oluşturmayın. Üç kişi konuşabilecek yakınlıkta konumlanmıştır ancak aralarında yaklaşık birer metre derinlik farkı vardır. Tekli otomatik odaklama (AF) öndeki 1. Kadının yüz çevresine yapılmıştır; arkadaki iki kişi doğal mesafe farkına bağlı olarak biraz daha yumuşak odakta olsa da yüz hatları ve hareketleri net biçimde ayırt edilebilir. Su damlacıklarında ve hareket eden ellerde bölgesel hafif hareket bulanıklığı (motion blur) bulunmalı, sadece ten ve yüz yapay olarak keskinleştirilmemelidir.
+
+Arka Plan ve Işık:
+Sakin mavi-yeşil deniz, uzakta yumuşak bir şekilde görünen sahil şeridi ve Enoshima, öğleden sonrasının doğal ışığı. Su yüzeyinden gelen hafif yansımalar kıyafetlere ve yüzlere ulaşırken saç gölgeleri belirginliğini korur.
+
+Zorunlu ve Kaçınılması Gereken Unsurlar:
+Deniz suyu uyluk ile bel hizası arasındadır, üçünün de ayakları deniz tabanına basmaktadır. Yalnızca küçük su sıçramaları olmalıdır; büyük dalgalar, dalış, düşme veya tehlikeli hareketler olmamalıdır. Deniz simidi ile kolların teması ve her kişi için tam olarak 2 kol ve 2 el doğru şekilde çizilmelidir. Yüzler veya kollar kopyalanmamalı, vücutlar simitle kaynaşmamalıdır. Arka planda kıyı şeridi ve Enoshima görünmelidir. Yazı, logo veya bölünmüş ekran eklemeyin.
+
+Sabit Gerçekçi Fotoğraf Kalitesi:
+Sıradan bir akıllı telefonun standart kamera uygulamasıyla çekilmiş, neredeyse hiç işlenmemiş tek bir HEIC fotoğrafı. Portre modu, güzellik filtreleri, yalnızca yüze uygulanan yeniden aydınlatma, pozlama düzeltmesi, aşırı yapay keskinleştirme, gürültü giderme veya cilt pürüzsüzleştirme kullanılmamalıdır. AF yalnızca kamera bölümünde belirtilen düzleme odaklanmalı, o düzlem en doğal netliğe sahip olurken öndeki ve arkadaki kişiler, uzuvlar, aksesuarlar ve arka plan mesafeye ve harekete bağlı olarak kademeli olarak yumuşamalıdır. Uzaktaki yüzlere sahte gözenekler veya her alanda homojen 8K çözünürlük eklemeyin; tek yanakta hafif kızarıklık, homojen olmayan T bölgesi parlaması, göz altlarında hafif asimetri ve burun çevresinde hafif kızarıklık gibi geniş ton farklarını koruyun. Yakından çözümlenen açıkta kalan ciltte, tekrar etmeyen hafif ten rengi değişimleri, eklemlerde veya baskı noktalarında doğal kızarıklıklar ve ince gölgeler bırakın. Cilt, saç, kumaş, metal, ahşap, duvar ve su gibi yüzeylerin her biri malzemesine özgü yansıma, kenar ve ayrıntılara sahip olmalı; hepsi aynı parlaklıkta veya aynı keskinlikte olmamalıdır. Ölçülü HDR, hafif otomatik beyaz dengesi (AWB) sapması, yalnızca karanlık alanlarda mikro kumlanma (noise), hafif HEIC sıkıştırması, bölgesel hafif el titremesi ve kadraj kayması kabul edilebilir; ancak tüm ekrana sahte gren, tekdüze bulanıklık veya aşırı keskinleştirme uygulanmamalıdır. Birinin kişisel fotoğraf galerisinde kalmış tamamlanmamış ve doğal bir an gibi görünmeli; reklam, gravür dergi çekimi, moda kampanyası, stüdyo güzellik fotoğrafı, sinematik renk derecelendirmesi veya kusursuz simetrik bir kompozisyon olmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -5847,13 +5869,13 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2101679499935129630"></a>
 
-### Çeviri sürüyor
+### Akıllı telefon mesajlaşma ekranında, yatakta gömlekli siyah iç çamaşırı tutan bir kızın fotoğraf göndermesini canlandıran istem.
 
 Yazar：[@2\_\_han\_\_](https://x.com/2__han__) · [Orijinal gönderi](https://x.com/2__han__/status/2101679499935129630)
 
 Uygulama / Web Tasarımı · Anime / Manga · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Akıllı telefon mesajlaşma ekranında, yatakta gömlekli siyah iç çamaşırı tutan bir kızın fotoğraf göndermesini canlandıran istem.
 
 <img src="images/2101679499935129630-1.jpg" alt="Görsel 1" width="480" />
 
@@ -5866,7 +5888,7 @@ Uygulama / Web Tasarımı · Anime / Manga · Portre / Selfie · Karakter · Yay
 **İstem**
 
 ```text
-Çeviri sürüyor
+(((akıllı telefon çerçevesi))), (((telefon ekranı))), ekran odağı, mobil arayüz, mesajlaşma uygulaması kullanıcı arayüzü, sohbet geçmişi, fotoğraf eki, resim balonu,\n\nfotoğraf ekinin içi: (kız, iç mekân, gece, karanlık yatak odası, yatak, selfie, birinci şahıs bakış açısı, bol kesim gömlek giymiş, yakalı gömlek, beyaz gömlek, siyah külot tutuyor, sergiliyor, davetkâr poz),\n\nsol konuşma balonu, Korece metin, "집에 언제 와?", temiz arayüz, ayrıntılı arayüz, resmi sanat,
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -35,7 +35,7 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2101647060357222565"></a>
 
-### Übersetzung läuft
+### Prompt zur Generierung eines schnappschussartigen Bildes im Stil einer normalen Smartphone-Kamera, das drei japanische Frauen beim Spielen im seichten Wasser von Enoshima zeigt.
 
 Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Originalbeitrag](https://x.com/HObE4TLMga99335/status/2101647060357222565)
 
@@ -43,7 +43,7 @@ Fotografie · Veröffentlicht
 
 Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Originalbeitrag](https://x.com/HObE4TLMga99335/status/2101189292827779362)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Generierung eines schnappschussartigen Bildes im Stil einer normalen Smartphone-Kamera, das drei japanische Frauen beim Spielen im seichten Wasser von Enoshima zeigt.
 
 <img src="images/2101647060357222565-1.jpg" alt="Bild 1" width="480" />
 
@@ -54,7 +54,29 @@ Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Original
 **Prompt**
 
 ```text
-Übersetzung läuft
+Personenidentität:
+Frau 1 ist eine 22-jährige erwachsene Japanerin, 168 cm groß, Studentin der Informatik im 4. Jahr. Längliches herzförmiges Gesicht, mandelförmige horizontale Augen, geschwungene Augenbrauen, ein kleines Muttermal auf der rechten Wange, komplett glattes schwarzes Haar, das bis unter die Brust reicht. Frau 2 ist eine 30-jährige erwachsene Japanerin, 166 cm groß, Leiterin eines Bäckerei-Cafés. Weiches, rund-ovales Gesicht, leichte Sommersprossen auf der Nase, ein Muttermal unter dem äußeren linken Augenwinkel, Grübchen beim Lächeln. Schulterlanger schwarzer Bob mit Grau nur um die Ohren und in der inneren Unterschicht. Im Meer trägt sie keine Brille. Frau 3 ist eine 23-jährige erwachsene Japanerin, 152 cm groß, Nageldesignerin. Rundes, zierliches Gesicht, leicht nach unten geneigte Augen, ein Muttermal unter dem rechten Auge, tief sitzende schwarze Zöpfe (Twin Tails) mit Altrosa nur an den Innenseiten der Spitzen. Reife, erwachsene Gesichter und natürliche Ganzkörperproportionen für alle drei beibehalten; Merkmale verschiedener Personen nicht vermischen.
+
+Frisur:
+Das lange, glatte schwarze Haar von Frau 1, das bis unter die Brust reicht, ist am Hinterkopf zu einem einzelnen Pferdeschwanz zusammengebunden. Länge und glatte Textur beibehalten; langes, nasses Haar darf Gesicht und vorderen Oberkörper nicht verdecken. Der schulterlange glatte Bob von Frau 2 ist im Nacken zu einem kleinen, tiefen Pferdeschwanz gebunden, wobei nicht erreichbare kürzere Strähnen hinter die Ohren gesteckt sind. Oberkopf, Oberfläche und Ansätze sind schwarz, rauchiges Grau bleibt nur an den Ohreninnenseiten und an den Spitzen unter dem Zopfband. Das Haar von Frau 2 nicht lang wachsen lassen und keinen großen Dutt machen. Frau 3 behält ihre tiefen schwarzen Twin Tails und das Altrosa an der Innenseite der Spitzen.
+
+Kleidung:
+Vorne vollständig geschlossene, blickdichte kurzärmelige Rashguards: Hellblau für Frau 1, Anthrazit für Frau 2 und Altrosa für Frau 3. Jeweils über blickdichter Sportbadebekleidung getragen, die Dekolleté, Bauch und Schultern bedeckt. Knielange Badeshorts: Dunkelblau für Frau 1 und Frau 3, Schwarz für Frau 2. Barfuß. Kleidung nicht transparent machen oder ausziehen.
+
+Szene und Bildkomposition:
+Ein einzelnes, horizontales Foto im Format 3:2. Nachmittag im seichten Wasser des Meeres bei Enoshima. Die drei Personen nicht nebeneinander in gleichmäßigen Abständen wie für ein Gedenkfoto aufstellen. Im ruhigen, seichten Wasser sind die drei einander zugewandt in einem kleinen Dreieck positioniert. Frau 1 vorne links, in einer Dreiviertelansicht zur Seite gewandt, spritzt mit einer Hand eine kleine Menge Wasser in Richtung von Frau 3 hinten rechts. Ihre andere Hand ruht natürlich nahe der Wasseroberfläche. Das Gesicht von Frau 1 ist im Halbprofil zu sehen, während sie die andere anlächelt. Frau 3, etwas weiter hinten rechts, benutzt einen hellrosa Schwimmreifen, greift mit der linken Hand den Rand des Reifens und hebt überrascht vom leichten Wasserspritzer der Frau 1 ihren rechten Unterarm leicht an. Sie kneift lächelnd leicht die Augen zusammen, ihr Gesicht bleibt jedoch gut erkennbar. Neben Frau 3 und noch weiter hinten zur Bildmitte hin stützt Frau 2 den hinteren Rand von Frau 3s Schwimmreifen leicht mit einer Hand, um gemeinsam zu spielen. Frau 2s anderer Arm hängt an ihrer Seite natürlich zur Wasseroberfläche herab. Frau 2 blickt Frau 3 an und lacht. Es gibt deutliche Tiefenunterschiede zwischen den Köpfen und Schultern der drei; die Schulter von Frau 1 überlappt auf natürliche Weise einen winzigen Teil von Frau 3s Schwimmreifen, aber Überlappungen, die die Zuordnung von Gesichtern oder Händen unklar machen, sind zu vermeiden. Es gibt nur einen einzigen rosa Schwimmreifen für Frau 3. Weder Frau 1 noch Frau 2 haben einen Schwimmreifen, und es sind keine blau-weißen oder gelben Reifen darzustellen.
+
+Aufnahme:
+Ein schräg aufgenommenes Smartphone-Foto, das das Spiel der Freundinnen nicht stört. Niemand schaut in die Kamera. Oben und an den Seiten Freiraum lassen; die Oberkörper aller drei, der eine Schwimmreifen von Frau 3, alle Personen im Wasser und die Wasseroberfläche im Vordergrund sind sichtbar. Keine parallele Schulterlinie oder gleichmäßige Anordnung bilden. Die drei sind nah genug platziert, um sich zu unterhalten, jedoch in der Tiefe jeweils um ca. 1 Meter versetzt. Einzel-Autofokus nahe dem Gesicht von Frau 1 im Vordergrund; die beiden Personen im Hintergrund können entsprechend der natürlichen Entfernungsdifferenz etwas weicher sein, ihre Gesichtszüge und Aktionen bleiben jedoch klar unterscheidbar. Leichte lokale Bewegungsunschärfe bei Wassertropfen und sich bewegenden Händen; nicht nur Haut und Gesichter künstlich schärfen.
+
+Hintergrund und Licht:
+Ruhiges, blaugrünes Meer, in der Ferne weich gezeichnete Küstenlinie und Enoshima, natürliches Nachmittagslicht. Schwache Reflexionen von der Wasseroberfläche erreichen Kleidung und Gesichter, Schattierungen im Haar bleiben erhalten.
+
+Erforderliche und zu vermeidende Darstellungen:
+Das Meerwasser reicht etwa von den Oberschenkeln bis zur Taille; die Füße aller drei Personen berühren den Meeresboden. Nur kleine Wasserspritzer, keine großen Wellen, kein Tauchen, Stürzen oder gefährliche Aktionen. Den Kontakt zwischen Schwimmreifen und Armen korrekt darstellen, mit genau zwei Armen und zwei Händen pro Person. Keine doppelten Gesichter oder Arme, keine Verschmelzung von Körper und Schwimmreifen. Küstenlinie und Enoshima im Hintergrund sichtbar. Keine Texte, Logos oder Splitscreens hinzufügen.
+
+Feste Fotorealismus-Qualität:
+Ein einzelnes, nahezu unbearbeitetes HEIC-Foto, aufgenommen mit der Standard-Kamera-App eines gewöhnlichen Smartphones. Kein Porträtmodus, keine Beauty-Filter, keine Neuausleuchtung, Belichtungskorrektur, Nachschärfung, Rauschunterdrückung oder Hautkorrektur rein auf Gesichtern. Der Autofokus liegt nur auf der im Kamera-Abschnitt angegebenen Ebene und macht diese am natürlichsten scharf, während Personen, Gliedmaßen, Requisiten und der Hintergrund davor und dahinter kontinuierlich mit Abstand und Bewegung weicher werden. Keine falschen Poren oder globale 8K-Auflösung auf entfernten Gesichtern; breite tonale Variationen wie leichte Rötung auf einer Wange, ungleichmäßige Reflexionen in der T-Zone, asymmetrische Augenringe und leichte Rötungen um die Nase beibehalten. Bei der aufgelösten Haut im Nahbereich nicht-repetitive leichte Hauttonunterschiede, natürliche Rötungen an Gelenken und Druckstellen sowie feine Schattierungen beibehalten. Haut, Haare, Stoff, Metall, Holz, Wände und Wasser müssen je nach Material unterschiedliche Reflexionen, Kanten und Details aufweisen, ohne denselben Glanz oder dieselbe Schärfe zu teilen. Dezentes HDR, minimale Weißabgleich-Abweichungen, feines Rauschen nur in dunklen Bereichen, leichte HEIC-Kompression, lokale leichte Bewegungsunschärfe und leichte Bildausschnittsungenauigkeiten sind zulässig, jedoch keine künstliche Körnung über das gesamte Bild, keine einheitliche Unschärfe und keine Überschärfung. Das Bild muss wie ein unvollkommener Schnappschuss aus einer persönlichen Fotogalerie wirken, nicht wie Werbung, Gravure-Shooting, Modekampagne, Studio-Beauty-Fotografie, cineastisches Color Grading oder eine perfekt symmetrische Komposition.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -5842,13 +5864,13 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2101679499935129630"></a>
 
-### Übersetzung läuft
+### Prompt zur Darstellung einer Fotoübertragung auf einem Smartphone-Messenger-Bildschirm mit einem Mädchen im Hemd auf dem Bett, das ein schwarzes Höschen hält.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Originalbeitrag](https://x.com/2__han__/status/2101679499935129630)
 
 App- / Webdesign · Anime / Manga · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Darstellung einer Fotoübertragung auf einem Smartphone-Messenger-Bildschirm mit einem Mädchen im Hemd auf dem Bett, das ein schwarzes Höschen hält.
 
 <img src="images/2101679499935129630-1.jpg" alt="Bild 1" width="480" />
 
@@ -5861,7 +5883,7 @@ App- / Webdesign · Anime / Manga · Porträt / Selfie · Charakter · Veröffen
 **Prompt**
 
 ```text
-Übersetzung läuft
+(((Smartphone-Rahmen))), (((Telefonbildschirm))), Bildschirmfokus, mobile Benutzeroberfläche, Messaging-App-Benutzeroberfläche, Chatverlauf, Fotoanhang, Bildblase,\n\nim Fotoanhang: (Mädchen, Innenbereich, Nacht, dunkles Schlafzimmer, Bett, Selfie, Ego-Perspektive POV, übergroßes Hemd tragend, Hemd mit Kragen, weißes Hemd, hält ein schwarzes Höschen, präsentierend, suggestive Pose),\n\nlinke Sprechblase, koreanischer Text, "집에 언제 와?", saubere Benutzeroberfläche, detaillierte Benutzeroberfläche, offizielle Kunst,
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

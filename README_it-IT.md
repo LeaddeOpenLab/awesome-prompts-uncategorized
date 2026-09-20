@@ -35,7 +35,7 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2101647060357222565"></a>
 
-### Traduzione in corso
+### Prompt per la generazione di un'immagine in stile istantanea scattata con la fotocamera standard di uno smartphone, raffigurante tre donne giapponesi che giocano nelle acque basse di Enoshima.
 
 Autore：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Post originale](https://x.com/HObE4TLMga99335/status/2101647060357222565)
 
@@ -43,7 +43,7 @@ Fotografia · Pubblicato
 
 Post originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Post originale](https://x.com/HObE4TLMga99335/status/2101189292827779362)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per la generazione di un'immagine in stile istantanea scattata con la fotocamera standard di uno smartphone, raffigurante tre donne giapponesi che giocano nelle acque basse di Enoshima.
 
 <img src="images/2101647060357222565-1.jpg" alt="Immagine 1" width="480" />
 
@@ -54,7 +54,29 @@ Post originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Post orig
 **Prompt**
 
 ```text
-Traduzione in corso
+Identità dei personaggi:
+Donna 1 è una donna giapponese adulta di 22 anni, 168 cm, studentessa al 4° anno di ingegneria informatica. Viso allungato a forma di cuore, occhi a mandorla orizzontali, sopracciglia arcuate, un piccolo neo sulla guancia destra, capelli neri perfettamente lisci che scendono fin sotto il petto. Donna 2 è una donna giapponese adulta di 30 anni, 166 cm, direttrice di una caffetteria-panetteria. Viso morbido, tondo-ovale, leggere lentiggini sul naso, un neo sotto l'angolo esterno dell'occhio sinistro, fossette quando sorride. Bob nero lungo fino alle spalle con grigio solo attorno alle orecchie e nello strato inferiore interno. Si toglie gli occhiali in mare. Donna 3 è una donna giapponese adulta di 23 anni, 152 cm, onicotecnica. Viso piccolo e rotondo, occhi all'ingiù, un neo sotto l'occhio destro, codini bassi neri (twin tails) con rosa polvere solo all'interno delle punte. Mantenere volti adulti e proporzioni corporee naturali per tutte e tre, senza confondere le caratteristiche distintive dell'una con l'altra.
+
+Acconciatura:
+I capelli neri lunghi e lisci di Donna 1, che scendono sotto il petto, sono raccolti in una singola coda di cavallo dietro la testa. Mantenere la lunghezza e la consistenza liscia, evitando che i capelli lunghi e bagnati coprano il viso o la parte anteriore del busto. Il bob liscio alle spalle di Donna 2 è legato in una piccola coda bassa sulla nuca, con le ciocche più corte che non arrivano alla legatura infilate dietro le orecchie. Sommità del capo, superficie e radici sono nere, lasciando il grigio fumo solo all'interno delle orecchie e sulle punte sotto l'elastico. Non allungare i capelli di Donna 2 né farle uno chignon grande. Donna 3 mantiene i suoi codini bassi neri e il rosa polvere all'interno delle punte.
+
+Abbigliamento:
+Rashguard a maniche corte completamente chiusi sul davanti e opachi: azzurro per Donna 1, antracite per Donna 2 e rosa polvere per Donna 3. Ciascuno indossato sopra costumi sportivi opachi, coprendo scollatura, addome e spalle. Boxer da bagno sopra il ginocchio: blu scuro per Donna 1 e Donna 3, nero per Donna 2. A piedi nudi. Gli indumenti non devono essere trasparenti né tolti.
+
+Scena e composizione:
+Una singola fotografia orizzontale continua in formato 3:2. Pomeriggio nelle acque basse del mare di Enoshima. Non disporre le tre persone affiancate a intervalli regolari come in una foto posata ricordo. Nelle acque calme e basse, le tre sono posizionate rivolte l'una verso l'altra a formare un piccolo triangolo. Donna 1, in primo piano sulla sinistra e orientata per tre quarti di profilo, spruzza con una mano una piccola quantità d'acqua verso Donna 3 in fondo a destra. L'altra mano poggia naturalmente vicino alla superficie dell'acqua. Il viso di Donna 1 è quasi di profilo mentre sorride guardando l'amica. Donna 3, leggermente più indietro a destra, usa un salvagente gonfiabile rosa chiaro, afferrando il bordo con la mano sinistra e alzando leggermente l'avambraccio destro, sorpresa dal piccolo schizzo d'acqua di Donna 1. Sorride socchiudendo leggermente gli occhi, ma il viso resta chiaramente visibile. Accanto a Donna 3 e ancora più indietro verso il centro dell'inquadratura, Donna 2 sostiene leggermente con una mano il bordo posteriore del salvagente di Donna 3 per giocare insieme. L'altro braccio di Donna 2 scende naturalmente lungo il fianco verso la superficie dell'acqua. Donna 2 guarda Donna 3 e ride. C'è una chiara differenza di profondità tra le teste e le spalle delle tre; la spalla di Donna 1 si sovrappone naturalmente a una piccolissima porzione del salvagente di Donna 3, ma vanno evitate sovrapposizioni che rendano ambigua l'appartenenza di volti o mani. C'è un solo salvagente, quello rosa di Donna 3. Non inserire salvagenti per Donna 1 né Donna 2, e non disegnare salvagenti bianchi e blu o gialli.
+
+Inquadratura:
+Una foto da smartphone scattata da un'angolazione obliqua, senza interrompere il gioco delle amiche. Nessuna guarda verso la fotocamera. Lasciare spazio sopra la testa e ai lati, includendo la parte superiore del corpo delle tre donne, l'unico salvagente di Donna 3, tutte le persone immerse in acqua e la superficie dell'acqua in primo piano. Non creare una linea parallela di spalle o una disposizione uniforme. Le tre sono posizionate abbastanza vicine da poter conversare, ma sfalsate in profondità di circa 1 metro l'una dall'altra. Autofocus singolo vicino al volto di Donna 1 in primo piano; le due persone più lontane possono apparire leggermente più morbide a causa della naturale differenza di distanza, ma i lineamenti e le azioni rimangono chiaramente distinguibili. Leggero mosso locale su gocce d'acqua e mani in movimento, senza aumentare artificialmente la nitidezza solo su pelle e volti.
+
+Sfondo e luce:
+Mare calmo verde-azzurro, linea costiera ed Enoshima visibili morbidamente in lontananza, luce naturale pomeridiana. Deboli riflessi dalla superficie dell'acqua raggiungono abiti e volti, preservando le ombreggiature tra i capelli.
+
+Elementi obbligatori e da evitare:
+L'acqua di mare arriva tra le cosce e la vita; i piedi di tutte e tre toccano il fondale. Solo piccoli schizzi d'acqua, senza onde grandi, immersioni, cadute o azioni pericolose. Rappresentare correttamente il contatto tra salvagente e braccia, con esattamente due braccia e due mani per persona. Nessun volto o braccio duplicato, e nessuna fusione tra corpo e salvagente. La costa ed Enoshima sono visibili sullo sfondo. Non aggiungere scritte, loghi o schermate divise.
+
+Qualità fotorealistica fissa:
+Una singola foto HEIC quasi priva di elaborazione, scattata con l'app fotocamera standard di un normale smartphone. Nessuna modalità ritratto, filtro bellezza, re-illuminazione solo sul viso, compensazione dell'esposizione selettiva, nitidezza artificiale eccessiva, riduzione aggressiva del rumore o ritocco della pelle. L'autofocus è posizionato esclusivamente sul piano indicato nella sezione della fotocamera, rendendo quel piano il più naturalmente nitido, mentre soggetti, arti, accessori e sfondo si ammorbidiscono in modo continuo in base a distanza e movimento. Niente pori finti o risoluzione 8K uniforme sui volti lontani; mantenere ampie variazioni tonali come un lieve rossore su una guancia, riflessi irregolari sulla zona T, occhiaie asimmetriche e un leggero rossore intorno al naso. Sulla pelle esposta a fuoco da vicino, preservare sottili variazioni non ripetitive dell'incarnato, rossori naturali su articolazioni e punti di pressione, e ombreggiature delicate. Pelle, capelli, tessuto, metallo, legno, pareti e acqua devono presentare riflessi, contorni e dettagli distinti a seconda del materiale, senza condividere la stessa lucentezza o la stessa nitidezza. Sono ammessi un HDR discreto, minime variazioni del bilanciamento del bianco, rumore fine solo nelle zone d'ombra, leggera compressione HEIC, lievi sfocature di movimento e un'inquadratura non perfettamente allineata, ma senza finta grana su tutto il fotogramma, sfocatura uniforme o nitidezza eccessiva. Rendere l'immagine come un momento imperfetto e autentico conservato nel rullino fotografico personale, senza sembrare una pubblicità, un servizio gravure, una campagna di moda, una foto di bellezza da studio, un color grading cinematografico o una composizione perfettamente simmetrica.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -5842,13 +5864,13 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2101679499935129630"></a>
 
-### Traduzione in corso
+### Prompt che rappresenta l'invio di una foto sullo schermo dell'app di messaggistica di uno smartphone, con una ragazza a letto in camicia che tiene delle mutandine nere.
 
 Autore：[@2\_\_han\_\_](https://x.com/2__han__) · [Post originale](https://x.com/2__han__/status/2101679499935129630)
 
 App / Web Design · Anime / Manga · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt che rappresenta l'invio di una foto sullo schermo dell'app di messaggistica di uno smartphone, con una ragazza a letto in camicia che tiene delle mutandine nere.
 
 <img src="images/2101679499935129630-1.jpg" alt="Immagine 1" width="480" />
 
@@ -5861,7 +5883,7 @@ App / Web Design · Anime / Manga · Ritratto / Selfie · Personaggio · Pubblic
 **Prompt**
 
 ```text
-Traduzione in corso
+(((cornice dello smartphone))), (((schermo del telefono))), messa a fuoco dello schermo, interfaccia mobile, interfaccia utente dell'app di messaggistica, registro chat, allegato foto, fumetto immagine,\n\nall'interno della foto allegata: (ragazza, interni, notte, camera da letto buia, letto, selfie, punto di vista soggettivo, indossa una camicia elegante oversize, camicia con colletto, camicia bianca, tiene in mano mutandine nere, presentando, posa suggestiva),\n\nfumetto di dialogo a sinistra, testo in coreano, "집에 언제 와?", interfaccia pulita, interfaccia dettagliata, arte ufficiale,
 ```
 
 [↑ Torna alle categorie](#catalog)

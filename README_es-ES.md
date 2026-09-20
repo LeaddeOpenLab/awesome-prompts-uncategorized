@@ -35,7 +35,7 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2101647060357222565"></a>
 
-### Traducción en curso
+### Prompt de generación de imágenes estilo fotografía instantánea tomada con la cámara estándar de un smartphone, que muestra a tres mujeres japonesas jugando en las aguas poco profundas de Enoshima.
 
 Autor：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicación original](https://x.com/HObE4TLMga99335/status/2101647060357222565)
 
@@ -43,7 +43,7 @@ Fotografía · Publicado
 
 Publicación original：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Publicación original](https://x.com/HObE4TLMga99335/status/2101189292827779362)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación de imágenes estilo fotografía instantánea tomada con la cámara estándar de un smartphone, que muestra a tres mujeres japonesas jugando en las aguas poco profundas de Enoshima.
 
 <img src="images/2101647060357222565-1.jpg" alt="Imagen 1" width="480" />
 
@@ -54,7 +54,29 @@ Publicación original：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Pu
 **Prompt**
 
 ```text
-Traducción en curso
+Identidad de los personajes:
+La mujer 1 es una adulta japonesa de 22 años, 168 cm, estudiante de cuarto año de ingeniería informática. Rostro alargado en forma de corazón, ojos almendrados horizontales, cejas arqueadas, un pequeño lunar en la mejilla derecha, cabello negro completamente liso que le llega por debajo del pecho. La mujer 2 es una adulta japonesa de 30 años, 166 cm, gerente de una panadería-cafetería. Rostro ovalado y redondeado suave, pecas tenues en la nariz, un lunar debajo de la comisura exterior del ojo izquierdo, hoyuelos al sonreír. Cabello negro liso estilo bob a la altura de los hombros con reflejos gris ceniza únicamente alrededor de las orejas y en la capa inferior interna. Se quita las gafas en el mar. La mujer 3 es una adulta japonesa de 23 años, 152 cm, manicurista. Rostro pequeño y redondo, ojos caídos, un lunar debajo del ojo derecho, cabello negro en dos coletas bajas, con rosa empolvado únicamente en la parte interior de las puntas. Mantener las expresiones adultas y las proporciones corporales naturales de las tres, sin mezclar los rasgos característicos de cada una.
+
+Peinado:
+El cabello negro, largo y liso de la mujer 1, que llega por debajo del pecho, está recogido en una sola coleta en la parte posterior de la cabeza. Mantener la longitud y la textura lisa, sin que el cabello largo y mojado cubra la cara o la parte delantera del torso. El bob liso hasta los hombros de la mujer 2 está recogido en una pequeña coleta baja a la altura de la nuca, y los mechones cortos que no alcanzan se colocan detrás de las orejas. La coronilla, la superficie y las raíces son negras, dejando el gris ahumado únicamente en el interior de las orejas y en las puntas bajo el recogido. No alargar el cabello de la mujer 2 ni hacer un moño grande. La mujer 3 mantiene sus coletas bajas de cabello negro y el tono rosa empolvado en el interior de las puntas.
+
+Vestimenta:
+La mujer 1 lleva una camiseta de natación (rashguard) de manga corta opaca y de color azul claro, completamente cerrada por delante; la mujer 2 lleva una de color gris marengo y la mujer 3 una de color rosa empolvado. Cada una la lleva puesta sobre un bañador deportivo opaco, cubriendo el escote, el abdomen y los hombros. La mujer 1 y la mujer 3 visten pantalones cortos de natación por encima de la rodilla en azul marino; la mujer 2 viste unos de color negro. Descalzas. No hacer que la vestimenta sea transparente ni que se la quiten.
+
+Escena y composición:
+Una única fotografía horizontal continua en proporción 3:2. Aguas poco profundas en la costa de Enoshima por la tarde. No alinear a las tres mujeres en fila horizontal a distancias iguales como en una foto de recuerdo. En las aguas tranquilas y poco profundas, las tres están orientadas unas hacia otras formando un pequeño triángulo. La mujer 1, en primer plano hacia la izquierda, está en una postura de tres cuartos y salpica suavemente una pequeña cantidad de agua con una mano hacia la mujer 3, que se encuentra al fondo a la derecha. La otra mano descansa de forma natural cerca de la superficie del agua. El rostro de la mujer 1 está de semiperfil mientras sonríe mirando a su compañera. La mujer 3, situada un poco más al fondo a la derecha, utiliza un flotador circular de color rosa claro, sujeta el borde del flotador con la mano izquierda y levanta ligeramente el antebrazo derecho, sorprendida por las pequeñas salpicaduras de la mujer 1. Entorna un poco los ojos mientras ríe, pero su rostro es perfectamente visible. La mujer 2, junto a la mujer 3 y más hacia el fondo, cerca del centro del encuadre, sostiene suavemente con una mano el borde exterior del flotador de la mujer 3 para jugar juntas. El otro brazo de la mujer 2 cae con naturalidad hacia la superficie del agua a un costado de su cuerpo. La mujer 2 sonríe mirando a la mujer 3. Hay una clara diferencia de profundidad entre las cabezas y hombros de las tres; el hombro de la mujer 1 y una pequeña parte del flotador de la mujer 3 se superponen de manera natural, pero se evitan solapamientos confusos que hagan ambiguo a quién pertenecen los rostros o las manos. Solo hay un flotador rosa, el de la mujer 3. La mujer 1 y la mujer 2 no llevan flotadores, y no se deben dibujar flotadores azules y blancos ni amarillos.
+
+Fotografía:
+Fotografía tomada con un teléfono inteligente desde un ángulo diagonal, sin interrumpir el momento de diversión de las amigas. Nadie mira a la cámara. Dejar márgenes por encima de la cabeza y a ambos lados, encuadrando la parte superior del cuerpo de las tres, el único flotador de la mujer 3, a todas dentro del agua y la superficie del agua en primer plano. No formar líneas paralelas de hombros ni una distribución uniforme. Las tres están a una distancia que les permite conversar, pero escalonadas con una diferencia de profundidad de aproximadamente 1 metro entre sí. Enfoque automático único (AF) cerca del rostro de la mujer 1 en primer plano; las dos del fondo pueden verse ligeramente más suaves debido a la distancia natural, pero sus rasgos faciales y movimientos siguen siendo identificables. Hay un ligero desenfoque de movimiento localizado en las gotas de agua y en las manos en movimiento; no enfocar de forma nítida únicamente la piel y el rostro.
+
+Fondo e iluminación:
+Mar tranquilo de color azul verdoso, la costa y la isla de Enoshima visibles con suavidad a lo lejos, luz natural de la tarde. Los reflejos débiles de la superficie del agua inciden en la ropa y los rostros, conservando las sombras naturales del cabello.
+
+Elementos obligatorios y a evitar:
+El agua del mar llega desde los muslos hasta cerca de la cintura, con los pies de las tres personas apoyados en el fondo marino. Solo hay pequeñas salpicaduras de agua; no hay olas grandes, buceo, caídas ni acciones peligrosas. Representar correctamente el contacto entre el flotador y los brazos, con dos brazos y dos manos exactos por persona. Sin duplicación de rostros ni de extremidades, y sin que los cuerpos se fusionen con el flotador. La costa y Enoshima deben ser visibles en el fondo. No añadir texto, logotipos ni pantallas divididas.
+
+Calidad fotorrealista fija:
+Fotografía única en formato HEIC prácticamente sin procesar, tomada con la aplicación de cámara estándar de un smartphone común. Sin modo retrato, sin filtros de belleza, sin reiluminación selectiva de rostros, sin compensación artificial de exposición, sin reenfocado excesivo, sin reducción de ruido agresiva ni retoques de piel. El AF se sitúa únicamente en el plano especificado en la sección de fotografía, haciendo que ese plano sea el más nítido de forma natural, mientras que las personas, extremidades, accesorios y el fondo situados delante y detrás se suavizan de forma progresiva según la distancia y el movimiento. Sin poros falsos ni resolución 8K artificial en los rostros lejanos; conservar variaciones tonales amplias como un leve enrojecimiento en una mejilla, reflejos desiguales en la zona T, ojeras asimétricas y un ligero tono rojizo alrededor de la nariz. La piel descubierta y enfocada de cerca conserva sutiles diferencias tonales no repetitivas, el enrojecimiento natural en articulaciones o zonas de presión, y sombras detalladas. La piel, el cabello, la tela, el metal, la madera, las paredes y el agua deben mostrar diferentes reflejos, bordes y detalles según el material, sin un brillo o nitidez uniformes. Se admite un HDR sutil, ligeras variaciones de balance de blancos automático (AWB), ruido fino únicamente en las zonas oscuras, compresión HEIC moderada y un ligero temblor de cámara o inclinación de composición localizados, pero sin añadir grano falso a toda la pantalla, desenfoque homogéneo ni sobreenfoque. Concebida como un instante imperfecto guardado en el carrete personal del teléfono, sin parecer publicidad, fotografía gravure, campaña de moda, foto de belleza de estudio, etalonaje cinematográfico ni una composición perfectamente simétrica.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -5880,13 +5902,13 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2101679499935129630"></a>
 
-### Traducción en curso
+### Prompt que representa el envío de una foto en la pantalla de mensajería de un smartphone, con una chica en la cama en camisa sosteniendo unas bragas negras.
 
 Autor：[@2\_\_han\_\_](https://x.com/2__han__) · [Publicación original](https://x.com/2__han__/status/2101679499935129630)
 
 Diseño de aplicaciones / web · Anime / Manga · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt que representa el envío de una foto en la pantalla de mensajería de un smartphone, con una chica en la cama en camisa sosteniendo unas bragas negras.
 
 <img src="images/2101679499935129630-1.jpg" alt="Imagen 1" width="480" />
 
@@ -5899,7 +5921,7 @@ Diseño de aplicaciones / web · Anime / Manga · Retrato / Selfie · Personaje 
 **Prompt**
 
 ```text
-Traducción en curso
+(((marco de smartphone))), (((pantalla de teléfono))), foco en pantalla, interfaz móvil, IU de app de mensajería, historial de chat, foto adjunta, burbuja de imagen,\n\ndentro de la foto adjunta: (chica, interiores, noche, dormitorio oscuro, cama, selfi, POV, vistiendo camisa oversize, camisa con cuello, camisa blanca, sosteniendo bragas negras, mostrando, pose sugerente),\n\nburbuja de diálogo izquierda, texto en coreano, "집에 언제 와?", interfaz de usuario limpia, interfaz de usuario detallada, arte oficial,
 ```
 
 [↑ Volver a categorías](#catalog)
