@@ -19,7 +19,7 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 
 為儲存庫加上 Star，追蹤每日精選提示詞，持續獲得創作靈感。
 
-**357** 筆內容 · 最新收錄: **2026-09-20**
+**366** 筆內容 · 最新收錄: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Leadde.ai 協助團隊將文件、簡報和文字轉換為 AI 商業影片，適
 <a name="category-photography"></a>
 
 ## 攝影
+
+<a name="prompt-2101584399359975634"></a>
+
+### 翻譯中
+
+作者：[@wyi1988](https://x.com/wyi1988) · [查看 X 原帖](https://x.com/wyi1988/status/2101584399359975634)
+
+攝影 · 人像 / 自拍 · 時尚單品 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101584399359975634-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### 翻譯中
+
+作者：[@MrGafish](https://x.com/MrGafish) · [查看 X 原帖](https://x.com/MrGafish/status/2101571702694285681)
+
+攝影 · 人像 / 自拍 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101571702694285681-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### 翻譯中
+
+作者：[@MrGafish](https://x.com/MrGafish) · [查看 X 原帖](https://x.com/MrGafish/status/2101560114746622072)
+
+攝影 · 人像 / 自拍 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101560114746622072-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="圖片 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="圖片 4" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### 翻譯中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2101577581099360262)
+
+攝影 · 人像 / 自拍 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101577581099360262-1.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -5031,6 +5125,54 @@ CGI毛髮、
 
 ## 電影感 / 電影劇照
 
+<a name="prompt-2101569698319958447"></a>
+
+### 翻譯中
+
+作者：[@KevinVailAI](https://x.com/KevinVailAI) · [查看 X 原帖](https://x.com/KevinVailAI/status/2101569698319958447)
+
+電影感 / 電影劇照 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2101569698319958447.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### 翻譯中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2101548200981393654)
+
+電影感 / 電影劇照 · 人像 / 自拍 · 已推流
+
+查看 X 原帖：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2101521394739900701)
+
+**概括:** 翻譯中
+
+<img src="images/2101548200981393654-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="圖片 2" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### 15秒高端腕錶電影感商業廣告，包含暗調特寫、微距細節、都市人物街拍及主角定格鏡頭。
@@ -7036,6 +7178,32 @@ B：寬鬆柔軟的米白色連帽衫，3::頭枕在A的腿上，溫柔地抬頭
 
 ## 插圖
 
+<a name="prompt-2101577158112235568"></a>
+
+### 翻譯中
+
+作者：[@sha1shashasha](https://x.com/sha1shashasha) · [查看 X 原帖](https://x.com/sha1shashasha/status/2101577158112235568)
+
+插圖 · 角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="images/2101577158112235568-1.jpg" alt="圖片 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="圖片 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="圖片 3" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### 超現實心理恐怖插畫，描繪了一個身穿白色睡裙的纖細身影，背景是黑暗中一張巨大的發光紅臉。
@@ -7677,6 +7845,28 @@ B: 3::black gakuran::, 面向A蹲著, 一隻手放在膝蓋附近, 另一隻手�
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2101548945269002366"></a>
+
+### 翻譯中
+
+作者：[@StatsWire](https://x.com/StatsWire) · [查看 X 原帖](https://x.com/StatsWire/status/2101548945269002366)
+
+3D 渲染 · 車輛 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2101548945269002366.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -8929,6 +9119,28 @@ FIELD NOTE [編號]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2101565768932663386"></a>
+
+### 翻譯中
+
+作者：[@Jr1301387296491](https://x.com/Jr1301387296491) · [查看 X 原帖](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+角色 · 已推流
+
+**概括:** 翻譯中
+
+<img src="covers/2101565768932663386.jpg" alt="圖片 1" width="480" />
+
+**提示詞**
+
+```text
+翻譯中
+```
+
+[↑ 返回分類目錄](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

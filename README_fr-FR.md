@@ -19,7 +19,7 @@ Leadde.ai aide les équipes à transformer documents, diapositives et textes en 
 
 Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de prompts et trouver de nouvelles idées.
 
-**357** Prompts · Dernier ajout: **2026-09-20**
+**366** Prompts · Dernier ajout: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 <a name="category-photography"></a>
 
 ## Photographie
+
+<a name="prompt-2101584399359975634"></a>
+
+### Traduction en cours
+
+Auteur：[@wyi1988](https://x.com/wyi1988) · [Publication originale](https://x.com/wyi1988/status/2101584399359975634)
+
+Photographie · Portrait / Selfie · Article de mode · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101584399359975634-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### Traduction en cours
+
+Auteur：[@MrGafish](https://x.com/MrGafish) · [Publication originale](https://x.com/MrGafish/status/2101571702694285681)
+
+Photographie · Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101571702694285681-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### Traduction en cours
+
+Auteur：[@MrGafish](https://x.com/MrGafish) · [Publication originale](https://x.com/MrGafish/status/2101560114746622072)
+
+Photographie · Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101560114746622072-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="Image 4" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2101577581099360262)
+
+Photographie · Portrait / Selfie · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101577581099360262-1.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -3720,6 +3814,54 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 ## Image cinématographique / Photogramme de film
 
+<a name="prompt-2101569698319958447"></a>
+
+### Traduction en cours
+
+Auteur：[@KevinVailAI](https://x.com/KevinVailAI) · [Publication originale](https://x.com/KevinVailAI/status/2101569698319958447)
+
+Image cinématographique / Photogramme de film · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101569698319958447.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### Traduction en cours
+
+Auteur：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2101548200981393654)
+
+Image cinématographique / Photogramme de film · Portrait / Selfie · Publié
+
+Publication originale：[@DDJCXX](https://x.com/DDJCXX) · [Publication originale](https://x.com/DDJCXX/status/2101521394739900701)
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101548200981393654-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="Image 2" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### Publicité cinématographique de 15 secondes pour une montre haut de gamme, comprenant des gros plans sombres, des détails macro, des prises de vue urbaines et un plan produit héroïque.
@@ -5725,6 +5867,32 @@ Luffy caresse tendrement la tête d'Anya, Anya se jette dans ses bras, entourés
 
 ## Illustration
 
+<a name="prompt-2101577158112235568"></a>
+
+### Traduction en cours
+
+Auteur：[@sha1shashasha](https://x.com/sha1shashasha) · [Publication originale](https://x.com/sha1shashasha/status/2101577158112235568)
+
+Illustration · Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="images/2101577158112235568-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="Image 3" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### Illustration d'horreur psychologique surréaliste mettant en scène une silhouette élancée en chemise de nuit blanche sur fond d'un visage rouge géant et luisant dans l'obscurité.
@@ -6366,6 +6534,28 @@ Ambiance : absurde, drôle, bizarre, espiègle, exagérée, légèrement grotesq
 <a name="category-3d-render"></a>
 
 ## Rendu 3D
+
+<a name="prompt-2101548945269002366"></a>
+
+### Traduction en cours
+
+Auteur：[@StatsWire](https://x.com/StatsWire) · [Publication originale](https://x.com/StatsWire/status/2101548945269002366)
+
+Rendu 3D · Véhicule · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101548945269002366.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -7458,6 +7648,28 @@ Traduction en cours
 <a name="category-other"></a>
 
 ## Autres
+
+<a name="prompt-2101565768932663386"></a>
+
+### Traduction en cours
+
+Auteur：[@Jr1301387296491](https://x.com/Jr1301387296491) · [Publication originale](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+Personnage · Publié
+
+**Résumé:** Traduction en cours
+
+<img src="covers/2101565768932663386.jpg" alt="Image 1" width="480" />
+
+**Consigne**
+
+```text
+Traduction en cours
+```
+
+[↑ Retour aux catégories](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

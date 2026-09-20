@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**357** Prompts · Adição mais recente: **2026-09-20**
+**366** Prompts · Adição mais recente: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2101584399359975634"></a>
+
+### Tradução em curso
+
+Autor：[@wyi1988](https://x.com/wyi1988) · [Publicação original](https://x.com/wyi1988/status/2101584399359975634)
+
+Fotografia · Retrato / Selfie · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101584399359975634-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### Tradução em curso
+
+Autor：[@MrGafish](https://x.com/MrGafish) · [Publicação original](https://x.com/MrGafish/status/2101571702694285681)
+
+Fotografia · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101571702694285681-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### Tradução em curso
+
+Autor：[@MrGafish](https://x.com/MrGafish) · [Publicação original](https://x.com/MrGafish/status/2101560114746622072)
+
+Fotografia · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101560114746622072-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### Tradução em curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2101577581099360262)
+
+Fotografia · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101577581099360262-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -3708,6 +3802,54 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 ## Cena de Cinema / Fotograma
 
+<a name="prompt-2101569698319958447"></a>
+
+### Tradução em curso
+
+Autor：[@KevinVailAI](https://x.com/KevinVailAI) · [Publicação original](https://x.com/KevinVailAI/status/2101569698319958447)
+
+Cena de Cinema / Fotograma · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2101569698319958447.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### Tradução em curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2101548200981393654)
+
+Cena de Cinema / Fotograma · Retrato / Selfie · Publicado
+
+Publicação original：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2101521394739900701)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101548200981393654-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="Imagem 2" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### Anúncio cinematográfico de 15 segundos para um relógio de gama alta, com grandes planos escuros, detalhes macro, filmagens urbanas de estilo de vida e um plano de destaque do produto.
@@ -5730,6 +5872,32 @@ Luffy afaga com ternura a cabeça de Anya, Anya atira-se para os seus braços, e
 
 ## Ilustração
 
+<a name="prompt-2101577158112235568"></a>
+
+### Tradução em curso
+
+Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Publicação original](https://x.com/sha1shashasha/status/2101577158112235568)
+
+Ilustração · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101577158112235568-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### Ilustração de terror psicológico surrealista apresentando uma figura esbelta numa camisa de noite branca contra um rosto vermelho gigante brilhante no fundo escuro.
@@ -6371,6 +6539,28 @@ Evite personagens reconhecíveis protegidas por direitos de autor, parecenças c
 <a name="category-3d-render"></a>
 
 ## Renderização 3D
+
+<a name="prompt-2101548945269002366"></a>
+
+### Tradução em curso
+
+Autor：[@StatsWire](https://x.com/StatsWire) · [Publicação original](https://x.com/StatsWire/status/2101548945269002366)
+
+Renderização 3D · Veículo · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2101548945269002366.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -7453,6 +7643,28 @@ Tradução em curso
 <a name="category-other"></a>
 
 ## Outros
+
+<a name="prompt-2101565768932663386"></a>
+
+### Tradução em curso
+
+Autor：[@Jr1301387296491](https://x.com/Jr1301387296491) · [Publicação original](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2101565768932663386.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

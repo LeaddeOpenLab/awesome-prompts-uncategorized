@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**357** Prompt · Ultima aggiunta: **2026-09-20**
+**366** Prompt · Ultima aggiunta: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2101584399359975634"></a>
+
+### Traduzione in corso
+
+Autore：[@wyi1988](https://x.com/wyi1988) · [Post originale](https://x.com/wyi1988/status/2101584399359975634)
+
+Fotografia · Ritratto / Selfie · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101584399359975634-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### Traduzione in corso
+
+Autore：[@MrGafish](https://x.com/MrGafish) · [Post originale](https://x.com/MrGafish/status/2101571702694285681)
+
+Fotografia · Ritratto / Selfie · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101571702694285681-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### Traduzione in corso
+
+Autore：[@MrGafish](https://x.com/MrGafish) · [Post originale](https://x.com/MrGafish/status/2101560114746622072)
+
+Fotografia · Ritratto / Selfie · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101560114746622072-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2101577581099360262)
+
+Fotografia · Ritratto / Selfie · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101577581099360262-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -3720,6 +3814,54 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2101569698319958447"></a>
+
+### Traduzione in corso
+
+Autore：[@KevinVailAI](https://x.com/KevinVailAI) · [Post originale](https://x.com/KevinVailAI/status/2101569698319958447)
+
+Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101569698319958447.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2101548200981393654)
+
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Pubblicato
+
+Post originale：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2101521394739900701)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101548200981393654-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### Spot cinematografico di 15 secondi per un orologio di alta gamma, con primi piani a toni scuri, dettagli macro, riprese urbane e inquadratura hero finale.
@@ -5725,6 +5867,32 @@ Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia,
 
 ## Illustrazione
 
+<a name="prompt-2101577158112235568"></a>
+
+### Traduzione in corso
+
+Autore：[@sha1shashasha](https://x.com/sha1shashasha) · [Post originale](https://x.com/sha1shashasha/status/2101577158112235568)
+
+Illustrazione · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2101577158112235568-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### Illustrazione surrealista di horror psicologico con una figura snella in camicia da notte bianca sullo sfondo di un gigantesco volto rosso brillante nell'oscurità.
@@ -6366,6 +6534,28 @@ Evita personaggi riconoscibili protetti da copyright, somiglianze con celebrità
 <a name="category-3d-render"></a>
 
 ## Rendering 3D
+
+<a name="prompt-2101548945269002366"></a>
+
+### Traduzione in corso
+
+Autore：[@StatsWire](https://x.com/StatsWire) · [Post originale](https://x.com/StatsWire/status/2101548945269002366)
+
+Rendering 3D · Veicolo · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101548945269002366.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -7458,6 +7648,28 @@ Traduzione in corso
 <a name="category-other"></a>
 
 ## Altro
+
+<a name="prompt-2101565768932663386"></a>
+
+### Traduzione in corso
+
+Autore：[@Jr1301387296491](https://x.com/Jr1301387296491) · [Post originale](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2101565768932663386.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

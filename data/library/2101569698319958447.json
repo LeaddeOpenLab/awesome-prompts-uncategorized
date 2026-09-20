@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T08:27:22.421Z",
+  "model": "unknown-video",
+  "prompt": "A young man in an oversized dark hoodie standing in an ancient cobblestone alley at dusk. Glowing neon-cyan energy surges around his hands as floating particles and leaves levitate around him in slow motion. He thrusts his hands forward, releasing a shockwave of bright luminescent light and glowing mist toward the camera, ending with floating embers. 9:16 vertical aspect ratio, ultra-realistic, cinematic lighting, photorealistic VFX rendering.",
+  "promptTranslations": {
+    "en": "A young man in an oversized dark hoodie standing in an ancient cobblestone alley at dusk. Glowing neon-cyan energy surges around his hands as floating particles and leaves levitate around him in slow motion. He thrusts his hands forward, releasing a shockwave of bright luminescent light and glowing mist toward the camera, ending with floating embers. 9:16 vertical aspect ratio, ultra-realistic, cinematic lighting, photorealistic VFX rendering."
+  },
+  "summaryTranslations": {
+    "en": "A young man in a dark hoodie channels and unleashes cyan energy shockwaves in a cobblestone alley."
+  },
+  "translationVersion": 2,
+  "summary": "A young man in a dark hoodie channels and unleashes cyan energy shockwaves in a cobblestone alley.",
+  "summaryEn": "A young man in a dark hoodie channels and unleashes cyan energy shockwaves in a cobblestone alley.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101569698319958447",
+    "canonicalUrl": "https://x.com/KevinVailAI/status/2101569698319958447",
+    "author": {
+      "username": "KevinVailAI",
+      "displayName": "Kevin",
+      "profileUrl": "https://x.com/KevinVailAI"
+    },
+    "publishedAt": "2026-09-20T07:10:36.000Z",
+    "collectedAt": "2026-09-20T08:16:11.247Z",
+    "language": "en",
+    "originalText": "Created with Seadance 2.5\n\nStill processing how crazy good AI video generation has gotten. This energy flare sequence came out ridiculously crisp.\n\nPrompt:\nA young man in an oversized dark hoodie standing in an ancient cobblestone alley at dusk. Glowing neon-cyan energy surges around his hands as floating particles and leaves levitate around him in slow motion. He thrusts his hands forward, releasing a shockwave of bright luminescent light and glowing mist toward the camera, ending with floating embers. 9:16 vertical aspect ratio, ultra-realistic, cinematic lighting, photorealistic VFX rendering.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/KevinVailAI/status/2101569698319958447",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101567571975901184/img/juz_38sUsmdi-V-q.jpg",
+        "analysisUrl": "https://x.com/KevinVailAI/status/2101569698319958447"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 5,
+      "quoteCount": 0,
+      "viewCount": 2832
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/KevinVailAI/status/2101569698319958447",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101567571975901184/img/juz_38sUsmdi-V-q.jpg",
+  "coverPath": "covers/2101569698319958447.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101567571975901184",
+    "x-post:2101569698319958447"
+  ],
+  "analysis": {
+    "summary": "A young man in a dark hoodie channels and unleashes cyan energy shockwaves in a cobblestone alley.",
+    "summaryEn": "A young man in a dark hoodie channels and unleashes cyan energy shockwaves in a cobblestone alley.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows a young man in a dark hoodie gathering glowing cyan energy and thrusting it forward in a cobblestone alley."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A young man in an oversized dark hoodie standing in an ancient cobblestone alley at dusk. Glowing neon-cyan energy surges around his hands as floating particles and leaves levitate around him in slow motion. He thrusts his hands forward, releasing a shockwave of bright luminescent light and glowing mist toward the camera, ending with floating embers. 9:16 vertical aspect ratio, ultra-realistic, cinematic lighting, photorealistic VFX rendering.",
+    "sourceRange": {
+      "start": 156,
+      "end": 603
+    },
+    "translations": {
+      "zh": "黄昏时分，一名穿着宽大深色连帽衫的年轻男子站在古老鹅卵石小巷中。双手周围涌动着发光的霓虹青色能量，悬浮颗粒与落叶慢动作升起。他双手前推，向镜头释放强光震波与发光薄雾，最后以漂浮余烬收尾。超逼真电影光效与写实特效渲染。",
+      "en": "A young man in an oversized dark hoodie standing in an ancient cobblestone alley at dusk. Glowing neon-cyan energy surges around his hands as floating particles and leaves levitate around him in slow motion. He thrusts his hands forward, releasing a shockwave of bright luminescent light and glowing mist toward the camera, ending with floating embers. 9:16 vertical aspect ratio, ultra-realistic, cinematic lighting, photorealistic VFX rendering."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "vfx_cinematic_character",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

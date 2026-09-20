@@ -19,7 +19,7 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 
 저장소에 별을 눌러 매일 엄선한 프롬프트와 새로운 창작 아이디어를 확인하세요.
 
-**357** 개 · 최근 추가: **2026-09-20**
+**366** 개 · 최근 추가: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Leadde.ai는 문서, 슬라이드, 텍스트를 교육, 온보딩, 마케팅용 
 <a name="category-photography"></a>
 
 ## 사진술
+
+<a name="prompt-2101584399359975634"></a>
+
+### 번역 중
+
+작성자：[@wyi1988](https://x.com/wyi1988) · [원본 게시물](https://x.com/wyi1988/status/2101584399359975634)
+
+사진술 · 인물 사진 / 셀카 · 패션 아이템 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2101584399359975634-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### 번역 중
+
+작성자：[@MrGafish](https://x.com/MrGafish) · [원본 게시물](https://x.com/MrGafish/status/2101571702694285681)
+
+사진술 · 인물 사진 / 셀카 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2101571702694285681-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### 번역 중
+
+작성자：[@MrGafish](https://x.com/MrGafish) · [원본 게시물](https://x.com/MrGafish/status/2101560114746622072)
+
+사진술 · 인물 사진 / 셀카 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2101560114746622072-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="이미지 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="이미지 4" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### 번역 중
+
+작성자：[@DDJCXX](https://x.com/DDJCXX) · [원본 게시물](https://x.com/DDJCXX/status/2101577581099360262)
+
+사진술 · 인물 사진 / 셀카 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2101577581099360262-1.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -5033,6 +5127,54 @@ CGI 털,
 
 ## 시네마틱 / 영화 스틸컷
 
+<a name="prompt-2101569698319958447"></a>
+
+### 번역 중
+
+작성자：[@KevinVailAI](https://x.com/KevinVailAI) · [원본 게시물](https://x.com/KevinVailAI/status/2101569698319958447)
+
+시네마틱 / 영화 스틸컷 · 캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101569698319958447.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### 번역 중
+
+작성자：[@DDJCXX](https://x.com/DDJCXX) · [원본 게시물](https://x.com/DDJCXX/status/2101548200981393654)
+
+시네마틱 / 영화 스틸컷 · 인물 사진 / 셀카 · 배포 완료
+
+원본 게시물：[@DDJCXX](https://x.com/DDJCXX) · [원본 게시물](https://x.com/DDJCXX/status/2101521394739900701)
+
+**요약:** 번역 중
+
+<img src="images/2101548200981393654-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="이미지 2" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### 15초 고급 시계 시네마틱 커머셜, 다크 톤 클로즈업, 매크로 디테일, 도시 인물 스트리트 컷 및 히어로 스틸 샷 포함.
@@ -7038,6 +7180,32 @@ B: oversized soft cream hoodie, 3::resting head on A's lap, looking up softly::,
 
 ## 일러스트레이션
 
+<a name="prompt-2101577158112235568"></a>
+
+### 번역 중
+
+작성자：[@sha1shashasha](https://x.com/sha1shashasha) · [원본 게시물](https://x.com/sha1shashasha/status/2101577158112235568)
+
+일러스트레이션 · 캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="images/2101577158112235568-1.jpg" alt="이미지 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="이미지 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="이미지 3" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### 어두운 배경 속 거대하게 붉게 빛나는 얼굴을 마주하고 선 흰색 나이트가운을 입은 날씬한 인물을 특징으로 하는 초현실적 심리 공포 일러스트.
@@ -7679,6 +7847,28 @@ B: 3::black gakuran::, A를 마주보고 웅크리고 있음, 한 손은 무릎 
 <a name="category-3d-render"></a>
 
 ## 3D 렌더링
+
+<a name="prompt-2101548945269002366"></a>
+
+### 번역 중
+
+작성자：[@StatsWire](https://x.com/StatsWire) · [원본 게시물](https://x.com/StatsWire/status/2101548945269002366)
+
+3D 렌더링 · 차량 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101548945269002366.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -8931,6 +9121,28 @@ FIELD NOTE [번호]
 <a name="category-other"></a>
 
 ## 기타
+
+<a name="prompt-2101565768932663386"></a>
+
+### 번역 중
+
+작성자：[@Jr1301387296491](https://x.com/Jr1301387296491) · [원본 게시물](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+캐릭터 · 배포 완료
+
+**요약:** 번역 중
+
+<img src="covers/2101565768932663386.jpg" alt="이미지 1" width="480" />
+
+**프롬프트**
+
+```text
+번역 중
+```
+
+[↑ 카테고리로 돌아가기](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

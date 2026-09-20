@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T08:27:07.353Z",
+  "model": "unknown-image",
+  "prompt": "超写实真人东方武侠电影画面，16:9宽银幕构图，极近距离面部特写，真实电影摄影质感。\n\n一名成年东亚女侠正面对镜头，摄影机距离极近，构图只包含她的脸、双手、黑色长发和少量肩部。人物位于画面中央，身体微微前倾，眼睛直视镜头，目光凌厉、冷静、具有攻击性。\n\n她的双手抬到镜头前方，一只手从画面右上伸入，另一只手从画面右下与中央伸入，两只手交错形成不规则框架，把双眼夹在手指之间。前景手掌和手指距离镜头非常近，因此明显失焦，并占据画面右侧较大面积，动作自然锋利。\n\n成年东亚女性面孔，20–30岁，精致、英气、冷峻，有武侠电影女主角感，真实皮肤纹理。\n\n黑色长发高束，细长发丝被强风吹过额头、双眼和脸颊，部分发丝从左侧横穿整个画面。\n\n脸部明暗关系：整张脸必须以暗部为主，约65%–75%处于阴影中。主光是一束来自画面右上方的真实硬质自然阳光，方向明确，形成非常清晰的明暗边界。前景手指、手掌和发丝挡住部分太阳，因此在人物脸上投下真实、不规则、锋利的阴影。只有一小块阳光从手指和发丝之间穿过，斜切过一只眼睛、眉骨、鼻梁和小块脸颊，形成窄而明确的亮区。另一只眼睛大部分在阴影中，但瞳孔仍可见。嘴唇、下巴、下颌和颈部保持明显暗度，不要正面补光。\n\n背景极简，只有低饱和淡蓝天空。双眼位于画面中央附近，眼睛是最清晰区域，前景手掌严重失焦，左侧大量黑色长发进入画面，右侧由前景手指占据，形成强烈包围感。\n\nARRI Alexa 35 / Alexa Mini LF cinematic look, 65mm lens, T2.0, ISO 800, 1/1000s, focus on the eyes, hard natural sunlight, face slightly underexposed, strong chiaroscuro lighting, deep facial shadows, subtle film grain.",
+  "promptTranslations": {
+    "en": "Hyperrealistic live-action Eastern martial arts film still, 16:9 widescreen composition, extreme close-up on the face, authentic cinematic photography texture.\n\nAn adult East Asian female warrior facing the camera directly; the camera is extremely close, with the framing containing only her face, both hands, long black hair, and a small part of her shoulders. The subject is in the center of the frame, body leaning slightly forward, eyes looking straight into the camera lens with a sharp, calm, and aggressive gaze.\n\nBoth of her hands are raised in front of the lens: one hand reaches in from the upper right of the frame, while the other reaches in from the lower right and center, crossing to form an irregular frame that sandwiches her eyes between her fingers. The foreground palms and fingers are positioned very close to the lens, thus visibly out of focus and occupying a large area on the right side of the frame, with natural and sharp movement.\n\nAdult East Asian female face, 20–30 years old, delicate, heroic, stoic, possessing the aura of a martial arts movie heroine, realistic skin texture.\n\nLong black hair tied up high, slender strands of hair blown by strong wind across her forehead, eyes, and cheeks, with some strands crossing the entire frame from the left.\n\nFacial chiaroscuro relationship: The entire face must be dominated by shadows, with about 65%–75% in shadow. The key light is a shaft of authentic, hard natural sunlight coming from the upper right of the frame, with a clear direction that forms a very distinct light-and-dark boundary. The foreground fingers, palms, and strands of hair block part of the sun, casting authentic, irregular, and sharp shadows onto her face. Only a small sliver of sunlight passes through between the fingers and hair, slicing diagonally across one eye, the brow bone, bridge of the nose, and a small patch of cheek, forming a narrow, distinct highlighted zone. The other eye is mostly in shadow, but the pupil remains visible. Lips, chin, jawline, and neck maintain pronounced darkness, with no frontal fill light.\n\nMinimalist background, featuring only a desaturated, pale blue sky. The eyes are positioned near the center of the frame and serve as the sharpest focal zone; the foreground hands are heavily out of focus; a large amount of long black hair enters the frame from the left, while the right side is occupied by the foreground fingers, creating a strong sense of enclosure.\n\nARRI Alexa 35 / Alexa Mini LF cinematic look, 65mm lens, T2.0, ISO 800, 1/1000s, focus on the eyes, hard natural sunlight, face slightly underexposed, strong chiaroscuro lighting, deep facial shadows, subtle film grain."
+  },
+  "summaryTranslations": {
+    "en": "Eastern martial arts film-style female warrior extreme close-up, foreground out-of-focus hands framing with hard chiaroscuro light and shadow."
+  },
+  "translationVersion": 2,
+  "summary": "东方武侠电影风格女侠极近特写，前景手部虚焦构框与硬质明暗光影。",
+  "summaryEn": "Extreme cinematic close-up of a wuxia swordswoman with foreground blurred hand-framing and strong chiaroscuro.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101521394739900701",
+      "canonicalUrl": "https://x.com/DDJCXX/status/2101521394739900701",
+      "author": {
+        "username": "DDJCXX",
+        "displayName": "硅基废话",
+        "profileUrl": "https://x.com/DDJCXX"
+      },
+      "originalText": "中式美学-第二弹\n\nPrompt：16:9超宽横构图，东方武侠概念绘画，中国水墨、厚涂油画、丝绸质感与干刷笔触融合。\n\n背景几乎完全是深黑、墨黑、极深青黑色，形成巨大黑色负空间。\n\n一名成年东亚剑客位于画面左侧约三分之一处，人物偏小。他穿灰白、象牙白、旧白色宽大武侠长袍，身体明显前倾，处于高速前冲、滑步瞬间。头微低，不看镜头，神情冷峻。黑发高束，碎发向后飞散。\n\n人物双手握住一柄极长东方长剑，剑身细长笔直，银白冷灰色，从人物手部向画面右侧近水平延伸，成为画面最明确的锋利横向线条。\n\n最重要的是巨大白色衣摆：人物下半身长袍、披风和裙摆被高速拖向画面右侧，形成一整片巨大连续的白色流动结构，像白色丝绸、水流、水墨笔触被一笔拉长。靠近人物保留真实布料褶皱，越往右越逐渐变成丝绸流线、水墨干刷拖痕、半透明白色液体感、轻微水雾感和柔滑笔刷尾迹。\n\n衣摆内部颜色为象牙白、灰白、珍珠白、浅灰、少量暖米白，局部厚涂、局部飞白、局部露出黑底，末端在画面右侧逐渐破碎成白色墨丝、水痕、雾丝和飞散颗粒。\n\n画面最下方只有一条很窄的灰白水平地面或白色笔触，人物像在白色画布上高速掠过，衣摆末端与地面自然融合。\n\n光线低调高反差，主光来自左上或右上方侧光，白衣是主要受光区域，脸部只受少量光，黑发与背景几乎融合。\n\nhigh-end Chinese wuxia concept painting, lone swordsman in flowing white robe, pure black negative space, extremely long white trailing robe, silk-like brushstroke, ink wash and impasto fusion, horizontal sword, strong lateral motion, cinematic high contrast."
+    },
+    "id": "2101548200981393654",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2101548200981393654",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-20T05:45:10.000Z",
+    "collectedAt": "2026-09-20T08:16:11.247Z",
+    "language": "zh",
+    "originalText": "中式美学——第三弹\n\nPrompt: 超写实真人东方武侠电影画面，16:9宽银幕构图，极近距离面部特写，真实电影摄影质感。\n\n一名成年东亚女侠正面对镜头，摄影机距离极近，构图只包含她的脸、双手、黑色长发和少量肩部。人物位于画面中央，身体微微前倾，眼睛直视镜头，目光凌厉、冷静、具有攻击性。\n\n她的双手抬到镜头前方，一只手从画面右上伸入，另一只手从画面右下与中央伸入，两只手交错形成不规则框架，把双眼夹在手指之间。前景手掌和手指距离镜头非常近，因此明显失焦，并占据画面右侧较大面积，动作自然锋利。\n\n成年东亚女性面孔，20–30岁，精致、英气、冷峻，有武侠电影女主角感，真实皮肤纹理。\n\n黑色长发高束，细长发丝被强风吹过额头、双眼和脸颊，部分发丝从左侧横穿整个画面。\n\n脸部明暗关系：整张脸必须以暗部为主，约65%–75%处于阴影中。主光是一束来自画面右上方的真实硬质自然阳光，方向明确，形成非常清晰的明暗边界。前景手指、手掌和发丝挡住部分太阳，因此在人物脸上投下真实、不规则、锋利的阴影。只有一小块阳光从手指和发丝之间穿过，斜切过一只眼睛、眉骨、鼻梁和小块脸颊，形成窄而明确的亮区。另一只眼睛大部分在阴影中，但瞳孔仍可见。嘴唇、下巴、下颌和颈部保持明显暗度，不要正面补光。\n\n背景极简，只有低饱和淡蓝天空。双眼位于画面中央附近，眼睛是最清晰区域，前景手掌严重失焦，左侧大量黑色长发进入画面，右侧由前景手指占据，形成强烈包围感。\n\nARRI Alexa 35 / Alexa Mini LF cinematic look, 65mm lens, T2.0, ISO 800, 1/1000s, focus on the eyes, hard natural sunlight, face slightly underexposed, strong chiaroscuro lighting, deep facial shadows, subtle film grain.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSoy8V3b0AAF9Og.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSoy8V3b0AAF9Og.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSoakNca8AA1agK.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSoakNca8AA1agK.jpg",
+        "sourcePostId": "2101521394739900701"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 739
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2101548200981393654",
+  "coverUrl": "https://pbs.twimg.com/media/HSoy8V3b0AAF9Og.jpg",
+  "coverPath": "images/2101548200981393654-1.jpg",
+  "imagePaths": [
+    "images/2101548200981393654-1.jpg",
+    "images/2101548200981393654-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSoy8V3b0AAF9Og",
+    "x-image:/media/HSoakNca8AA1agK",
+    "x-post:2101548200981393654",
+    "x-post:2101521394739900701"
+  ],
+  "analysis": {
+    "summary": "东方武侠电影风格女侠极近特写，前景手部虚焦构框与硬质明暗光影。",
+    "summaryEn": "Extreme cinematic close-up of a wuxia swordswoman with foreground blurred hand-framing and strong chiaroscuro.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图首张完美重现了Prompt要求的东亚女侠近距特写、失焦手部前景框景、飞扬发丝及强对比侧逆光阴影。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实真人东方武侠电影画面，16:9宽银幕构图，极近距离面部特写，真实电影摄影质感。\n\n一名成年东亚女侠正面对镜头，摄影机距离极近，构图只包含她的脸、双手、黑色长发和少量肩部。人物位于画面中央，身体微微前倾，眼睛直视镜头，目光凌厉、冷静、具有攻击性。\n\n她的双手抬到镜头前方，一只手从画面右上伸入，另一只手从画面右下与中央伸入，两只手交错形成不规则框架，把双眼夹在手指之间。前景手掌和手指距离镜头非常近，因此明显失焦，并占据画面右侧较大面积，动作自然锋利。\n\n成年东亚女性面孔，20–30岁，精致、英气、冷峻，有武侠电影女主角感，真实皮肤纹理。\n\n黑色长发高束，细长发丝被强风吹过额头、双眼和脸颊，部分发丝从左侧横穿整个画面。\n\n脸部明暗关系：整张脸必须以暗部为主，约65%–75%处于阴影中。主光是一束来自画面右上方的真实硬质自然阳光，方向明确，形成非常清晰的明暗边界。前景手指、手掌和发丝挡住部分太阳，因此在人物脸上投下真实、不规则、锋利的阴影。只有一小块阳光从手指和发丝之间穿过，斜切过一只眼睛、眉骨、鼻梁和小块脸颊，形成窄而明确的亮区。另一只眼睛大部分在阴影中，但瞳孔仍可见。嘴唇、下巴、下颌和颈部保持明显暗度，不要正面补光。\n\n背景极简，只有低饱和淡蓝天空。双眼位于画面中央附近，眼睛是最清晰区域，前景手掌严重失焦，左侧大量黑色长发进入画面，右侧由前景手指占据，形成强烈包围感。\n\nARRI Alexa 35 / Alexa Mini LF cinematic look, 65mm lens, T2.0, ISO 800, 1/1000s, focus on the eyes, hard natural sunlight, face slightly underexposed, strong chiaroscuro lighting, deep facial shadows, subtle film grain.",
+    "sourceRange": {
+      "start": 19,
+      "end": 834
+    },
+    "translations": {
+      "zh": "超写实真人东方武侠电影画面，16:9宽银幕构图，极近距离面部特写，真实电影摄影质感。\n\n一名成年东亚女侠正面对镜头，摄影机距离极近，构图只包含她的脸、双手、黑色长发和少量肩部。人物位于画面中央，身体微微前倾，眼睛直视镜头，目光凌厉、冷静、具有攻击性。\n\n她的双手抬到镜头前方，一只手从画面右上伸入，另一只手从画面右下与中央伸入，两只手交错形成不规则框架，把双眼夹在手指之间。前景手掌和手指距离镜头非常近，因此明显失焦，并占据画面右侧较大面积，动作自然锋利。\n\n成年东亚女性面孔，20–30岁，精致、英气、冷峻，有武侠电影女主角感，真实皮肤纹理。\n\n黑色长发高束，细长发丝被强风吹过额头、双眼和脸颊，部分发丝从左侧横穿整个画面。\n\n脸部明暗关系：整张脸必须以暗部为主，约65%–75%处于阴影中。主光是一束来自画面右上方的真实硬质自然阳光，方向明确，形成非常清晰的明暗边界。前景手指、手掌和发丝挡住部分太阳，因此在人物脸上投下真实、不规则、锋利的阴影。只有一小块阳光从手指和发丝之间穿过，斜切过一只眼睛、眉骨、鼻梁和小块脸颊，形成窄而明确的亮区。另一只眼睛大部分在阴影中，但瞳孔仍可见。嘴唇、下巴、下颌和颈部保持明显暗度，不要正面补光。\n\n背景极简，只有低饱和淡蓝天空。双眼位于画面中央附近，眼睛是最清晰区域，前景手掌严重失焦，左侧大量黑色长发进入画面，右侧由前景手指占据，形成强烈包围感。\n\nARRI Alexa 35 / Alexa Mini LF cinematic look, 65mm lens, T2.0, ISO 800, 1/1000s, focus on the eyes, hard natural sunlight, face slightly underexposed, strong chiaroscuro lighting, deep facial shadows, subtle film grain.",
+      "en": "Photorealistic live-action Eastern wuxia cinematic still, 16:9 widescreen, extreme close-up of face, realistic cinematography. An adult East Asian swordswoman faces camera head-on with sharp, fierce gaze. Her hands frame her eyes in extreme foreground bokeh blur. Wind-blown black hair, hard chiaroscuro sunlight creating deep facial shadows, minimalistic sky background, ARRI film look."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "东方武侠电影风特写人像生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T08:27:11.961Z",
+  "model": "unknown-image",
+  "prompt": "日系办公室三人职场写真 × 轻柔焦清透长焦杂志质感 × 白衬衫黑短裙·左右烟黑薄丝袜·中央裸腿·黑色尖头高跟鞋 × 左坐桌沿交叉腿·中间正坐并腿·右坐办公椅交叉腿紧密合照",
+  "promptTranslations": {
+    "en": "Japanese style office three-person workplace photoshoot × soft focus clear telephoto magazine texture × white shirts and black short skirts · sheer smoky black pantyhose on left and right · bare legs in the center · black pointed high heels × left sitting on the edge of the desk with crossed legs · center sitting upright with legs together · right sitting on an office chair with crossed legs tight group photo"
+  },
+  "summaryTranslations": {
+    "en": "Japanese style office three-person workplace photoshoot prompt, featuring specific attire and sitting pose composition."
+  },
+  "translationVersion": 2,
+  "summary": "日系办公室三人职场写真提示词，包含特定着装与坐姿构图。",
+  "summaryEn": "Prompt for a Japanese office trio portrait featuring specific outfits and seated poses.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101584399359975634",
+    "canonicalUrl": "https://x.com/wyi1988/status/2101584399359975634",
+    "author": {
+      "username": "wyi1988",
+      "displayName": "老王",
+      "profileUrl": "https://x.com/wyi1988"
+    },
+    "publishedAt": "2026-09-20T08:09:01.000Z",
+    "collectedAt": "2026-09-20T08:16:11.247Z",
+    "language": "zh",
+    "originalText": "Prompt：日系办公室三人职场写真 × 轻柔焦清透长焦杂志质感 × 白衬衫黑短裙·左右烟黑薄丝袜·中央裸腿·黑色尖头高跟鞋 × 左坐桌沿交叉腿·中间正坐并腿·右坐办公椅交叉腿紧密合照 https://t.co/S3Ijv6XgSI",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSpTy52bQAEVZe7.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSpTy52bQAEVZe7.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 28
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/wyi1988/status/2101584399359975634",
+  "coverUrl": "https://pbs.twimg.com/media/HSpTy52bQAEVZe7.jpg",
+  "coverPath": "images/2101584399359975634-1.jpg",
+  "imagePaths": [
+    "images/2101584399359975634-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSpTy52bQAEVZe7",
+    "x-post:2101584399359975634"
+  ],
+  "analysis": {
+    "summary": "日系办公室三人职场写真提示词，包含特定着装与坐姿构图。",
+    "summaryEn": "Prompt for a Japanese office trio portrait featuring specific outfits and seated poses.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面中的三名女性、白衬衫短裙、左右黑丝与中间裸腿搭配、坐姿及办公室背景均与提示词高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "日系办公室三人职场写真 × 轻柔焦清透长焦杂志质感 × 白衬衫黑短裙·左右烟黑薄丝袜·中央裸腿·黑色尖头高跟鞋 × 左坐桌沿交叉腿·中间正坐并腿·右坐办公椅交叉腿紧密合照",
+    "sourceRange": {
+      "start": 7,
+      "end": 92
+    },
+    "translations": {
+      "zh": "日系办公室三人职场写真 × 轻柔焦清透长焦杂志质感 × 白衬衫黑短裙·左右烟黑薄丝袜·中央裸腿·黑色尖头高跟鞋 × 左坐桌沿交叉腿·中间正坐并腿·右坐办公椅交叉腿紧密合照",
+      "en": "Japanese office trio workplace portrait photoshoot × soft focus clear telephoto magazine texture × white shirts and black miniskirts, sheer black pantyhose on left and right, bare legs in center, black pointed high heels × left sitting on desk edge with legs crossed, center sitting upright with legs together, right sitting in office chair with legs crossed, close group shot"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "photo",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -19,7 +19,7 @@ Leadde.ai ayuda a los equipos a convertir documentos, diapositivas y texto en v�
 
 Marca este repositorio con una estrella para seguir nuestra selección diaria e inspirarte con nuevas ideas.
 
-**357** Prompts · Última incorporación: **2026-09-20**
+**366** Prompts · Última incorporación: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 <a name="category-photography"></a>
 
 ## Fotografía
+
+<a name="prompt-2101584399359975634"></a>
+
+### Traducción en curso
+
+Autor：[@wyi1988](https://x.com/wyi1988) · [Publicación original](https://x.com/wyi1988/status/2101584399359975634)
+
+Fotografía · Retrato / Selfie · Artículo de moda · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101584399359975634-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### Traducción en curso
+
+Autor：[@MrGafish](https://x.com/MrGafish) · [Publicación original](https://x.com/MrGafish/status/2101571702694285681)
+
+Fotografía · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101571702694285681-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### Traducción en curso
+
+Autor：[@MrGafish](https://x.com/MrGafish) · [Publicación original](https://x.com/MrGafish/status/2101560114746622072)
+
+Fotografía · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101560114746622072-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="Imagen 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="Imagen 4" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2101577581099360262)
+
+Fotografía · Retrato / Selfie · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101577581099360262-1.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -3755,6 +3849,54 @@ Enfatiza la textura realista de la piel, vellos de barba detallados, ojos nítid
 
 ## Cine / Fotograma de película
 
+<a name="prompt-2101569698319958447"></a>
+
+### Traducción en curso
+
+Autor：[@KevinVailAI](https://x.com/KevinVailAI) · [Publicación original](https://x.com/KevinVailAI/status/2101569698319958447)
+
+Cine / Fotograma de película · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101569698319958447.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### Traducción en curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2101548200981393654)
+
+Cine / Fotograma de película · Retrato / Selfie · Publicado
+
+Publicación original：[@DDJCXX](https://x.com/DDJCXX) · [Publicación original](https://x.com/DDJCXX/status/2101521394739900701)
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101548200981393654-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="Imagen 2" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### Anuncio cinematográfico de 15 segundos para un reloj de alta gama, con primer plano en tono oscuro, detalles macro, tomas urbanas de personajes y toma fija protagonista.
@@ -5773,6 +5915,32 @@ Luffy acaricia con ternura la cabeza de Anya, Anya se lanza a sus brazos, rodead
 
 ## Ilustración
 
+<a name="prompt-2101577158112235568"></a>
+
+### Traducción en curso
+
+Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Publicación original](https://x.com/sha1shashasha/status/2101577158112235568)
+
+Ilustración · Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="images/2101577158112235568-1.jpg" alt="Imagen 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="Imagen 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="Imagen 3" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### Ilustración de terror psicológico surrealista con una figura esbelta en camisón blanco frente a un rostro rojo gigante que brilla en la oscuridad del fondo.
@@ -6414,6 +6582,28 @@ Evita personajes reconocibles con derechos de autor, parecidos a celebridades, o
 <a name="category-3d-render"></a>
 
 ## Render 3D
+
+<a name="prompt-2101548945269002366"></a>
+
+### Traducción en curso
+
+Autor：[@StatsWire](https://x.com/StatsWire) · [Publicación original](https://x.com/StatsWire/status/2101548945269002366)
+
+Render 3D · Vehículo · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101548945269002366.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -7516,6 +7706,28 @@ Traducción en curso
 <a name="category-other"></a>
 
 ## Otros
+
+<a name="prompt-2101565768932663386"></a>
+
+### Traducción en curso
+
+Autor：[@Jr1301387296491](https://x.com/Jr1301387296491) · [Publicación original](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+Personaje · Publicado
+
+**Resumen:** Traducción en curso
+
+<img src="covers/2101565768932663386.jpg" alt="Imagen 1" width="480" />
+
+**Prompt**
+
+```text
+Traducción en curso
+```
+
+[↑ Volver a categorías](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

@@ -1,0 +1,124 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T08:26:57.013Z",
+  "model": "unknown-image",
+  "prompt": "20–25岁东方成年女性，纤细匀称身材，上围丰满，锁骨清晰，三角比基尼上衣，细肩带设计，真人摄影质感，生成 10 个完全不同版本",
+  "promptTranslations": {
+    "en": "20–25 year old East Asian adult female, slender and well-proportioned figure, full bust, distinct collarbones, triangle bikini top, thin shoulder strap design, real photography texture, generate 10 completely different versions"
+  },
+  "summaryTranslations": {
+    "en": "East Asian young female triangle bikini portrait photo, with realistic photography texture."
+  },
+  "translationVersion": 2,
+  "summary": "东方年轻女性三角比基尼人像写真，具真实摄影质感。",
+  "summaryEn": "Photorealistic portraits of a young East Asian female in a triangle bikini.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101560114746622072",
+    "canonicalUrl": "https://x.com/MrGafish/status/2101560114746622072",
+    "author": {
+      "username": "MrGafish",
+      "displayName": "鱼哥",
+      "profileUrl": "https://x.com/MrGafish"
+    },
+    "publishedAt": "2026-09-20T06:32:31.000Z",
+    "collectedAt": "2026-09-20T08:16:11.247Z",
+    "language": "zh",
+    "originalText": "开窍了，原来 ChatGPT 可以批量生成图片\n\n之前每次生成图片都是生成一张，觉得不合适再生成下一张，10张图下来，差不多1小时就过去了\n\n今天才发现加个提示词\"生成 10 个完全不同版本\"就可以批量生成\n\nPrompt:\n20–25岁东方成年女性，纤细匀称身材，上围丰满，锁骨清晰，三角比基尼上衣，细肩带设计，真人摄影质感，生成 10 个完全不同版本",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSo9l-sbQAA4gGd.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSo9l-sbQAA4gGd.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSo9oD6bcAAz-G6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSo9oD6bcAAz-G6.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSo9pf5bUAASfKX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSo9pf5bUAASfKX.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSo9q2uacAABfeI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSo9q2uacAABfeI.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 1526
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/MrGafish/status/2101560114746622072",
+  "coverUrl": "https://pbs.twimg.com/media/HSo9l-sbQAA4gGd.jpg",
+  "coverPath": "images/2101560114746622072-1.jpg",
+  "imagePaths": [
+    "images/2101560114746622072-1.jpg",
+    "images/2101560114746622072-2.jpg",
+    "images/2101560114746622072-3.jpg",
+    "images/2101560114746622072-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSo9l-sbQAA4gGd",
+    "x-image:/media/HSo9oD6bcAAz-G6",
+    "x-image:/media/HSo9pf5bUAASfKX",
+    "x-image:/media/HSo9q2uacAABfeI",
+    "x-post:2101560114746622072"
+  ],
+  "analysis": {
+    "summary": "东方年轻女性三角比基尼人像写真，具真实摄影质感。",
+    "summaryEn": "Photorealistic portraits of a young East Asian female in a triangle bikini.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展示了多张符合提示词特征的年轻东方女性三角比基尼真人质感写真照。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "20–25岁东方成年女性，纤细匀称身材，上围丰满，锁骨清晰，三角比基尼上衣，细肩带设计，真人摄影质感，生成 10 个完全不同版本",
+    "sourceRange": {
+      "start": 113,
+      "end": 177
+    },
+    "translations": {
+      "zh": "20–25岁东方成年女性，纤细匀称身材，上围丰满，锁骨清晰，三角比基尼上衣，细肩带设计，真人摄影质感，生成 10 个完全不同版本",
+      "en": "East Asian adult female aged 20–25, slim and well-proportioned figure with ample bust, defined collarbones, triangle bikini top with thin straps, realistic photographic quality, generate 10 completely different versions"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI 人像写真与比基尼摄影批量生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "nsfw-risk"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

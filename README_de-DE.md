@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**357** Prompts · Zuletzt hinzugefügt: **2026-09-20**
+**366** Prompts · Zuletzt hinzugefügt: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2101584399359975634"></a>
+
+### Übersetzung läuft
+
+Autor：[@wyi1988](https://x.com/wyi1988) · [Originalbeitrag](https://x.com/wyi1988/status/2101584399359975634)
+
+Fotografie · Porträt / Selfie · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101584399359975634-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### Übersetzung läuft
+
+Autor：[@MrGafish](https://x.com/MrGafish) · [Originalbeitrag](https://x.com/MrGafish/status/2101571702694285681)
+
+Fotografie · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101571702694285681-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### Übersetzung läuft
+
+Autor：[@MrGafish](https://x.com/MrGafish) · [Originalbeitrag](https://x.com/MrGafish/status/2101560114746622072)
+
+Fotografie · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101560114746622072-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2101577581099360262)
+
+Fotografie · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101577581099360262-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -3720,6 +3814,54 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2101569698319958447"></a>
+
+### Übersetzung läuft
+
+Autor：[@KevinVailAI](https://x.com/KevinVailAI) · [Originalbeitrag](https://x.com/KevinVailAI/status/2101569698319958447)
+
+Kinematisch / Filmstill · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101569698319958447.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2101548200981393654)
+
+Kinematisch / Filmstill · Porträt / Selfie · Veröffentlicht
+
+Originalbeitrag：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2101521394739900701)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101548200981393654-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### 15-sekündiger filmischer High-End-Uhrenwerbespot mit dunklen Nahaufnahmen, Makrodetails, urbanen Street-Aufnahmen und einer Hero-Produktaufnahme.
@@ -5725,6 +5867,32 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 ## Illustration
 
+<a name="prompt-2101577158112235568"></a>
+
+### Übersetzung läuft
+
+Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Originalbeitrag](https://x.com/sha1shashasha/status/2101577158112235568)
+
+Illustration · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101577158112235568-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### Surreale psychologische Horror-Illustration mit einer schlanken Gestalt im weißen Nachthemd vor einem riesigen, leuchtend roten Gesicht im dunklen Hintergrund.
@@ -6366,6 +6534,28 @@ Vermeide erkennbare urheberrechtlich geschützte Charaktere, Ähnlichkeiten mit 
 <a name="category-3d-render"></a>
 
 ## 3D-Rendering
+
+<a name="prompt-2101548945269002366"></a>
+
+### Übersetzung läuft
+
+Autor：[@StatsWire](https://x.com/StatsWire) · [Originalbeitrag](https://x.com/StatsWire/status/2101548945269002366)
+
+3D-Rendering · Fahrzeug · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101548945269002366.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -7458,6 +7648,28 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 <a name="category-other"></a>
 
 ## Sonstige
+
+<a name="prompt-2101565768932663386"></a>
+
+### Übersetzung läuft
+
+Autor：[@Jr1301387296491](https://x.com/Jr1301387296491) · [Originalbeitrag](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101565768932663386.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

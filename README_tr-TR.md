@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**357** Prompt · Son eklenen: **2026-09-20**
+**366** Prompt · Son eklenen: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2101584399359975634"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@wyi1988](https://x.com/wyi1988) · [Orijinal gönderi](https://x.com/wyi1988/status/2101584399359975634)
+
+Fotoğrafçılık · Portre / Selfie · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101584399359975634-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MrGafish](https://x.com/MrGafish) · [Orijinal gönderi](https://x.com/MrGafish/status/2101571702694285681)
+
+Fotoğrafçılık · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101571702694285681-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@MrGafish](https://x.com/MrGafish) · [Orijinal gönderi](https://x.com/MrGafish/status/2101560114746622072)
+
+Fotoğrafçılık · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101560114746622072-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2101577581099360262)
+
+Fotoğrafçılık · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101577581099360262-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -3708,6 +3802,54 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2101569698319958447"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@KevinVailAI](https://x.com/KevinVailAI) · [Orijinal gönderi](https://x.com/KevinVailAI/status/2101569698319958447)
+
+Sinematik / Film Karesi · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101569698319958447.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2101548200981393654)
+
+Sinematik / Film Karesi · Portre / Selfie · Yayımlandı
+
+Orijinal gönderi：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2101521394739900701)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101548200981393654-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### Karanlık yakın planlar, makro ayrıntılar, kentsel sokak çekimleri ve ana ürün dondurma karesini içeren 15 saniyelik üst düzey sinematik saat reklamı.
@@ -5730,6 +5872,32 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 ## İllüstrasyon
 
+<a name="prompt-2101577158112235568"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@sha1shashasha](https://x.com/sha1shashasha) · [Orijinal gönderi](https://x.com/sha1shashasha/status/2101577158112235568)
+
+İllüstrasyon · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101577158112235568-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### Karanlık arka planda parlayan devasa kırmızı bir yüze karşı beyaz gecelikli narin bir figürün yer aldığı gerçeküstü psikolojik korku illüstrasyonu.
@@ -6371,6 +6539,28 @@ Tanınabilir telif hakkıyla korunan karakterlerden, ünlü benzerliklerinden, m
 <a name="category-3d-render"></a>
 
 ## 3D Modelleme
+
+<a name="prompt-2101548945269002366"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@StatsWire](https://x.com/StatsWire) · [Orijinal gönderi](https://x.com/StatsWire/status/2101548945269002366)
+
+3D Modelleme · Araç · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101548945269002366.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -7453,6 +7643,28 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 <a name="category-other"></a>
 
 ## Diğer
+
+<a name="prompt-2101565768932663386"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Jr1301387296491](https://x.com/Jr1301387296491) · [Orijinal gönderi](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101565768932663386.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

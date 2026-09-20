@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**357** Prompts · Latest addition: **2026-09-20**
+**366** Prompts · Latest addition: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,124 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2101584399359975634"></a>
+
+### Japanese style office three-person workplace photoshoot prompt, featuring specific attire and sitting pose composition.
+
+Author：[@wyi1988](https://x.com/wyi1988) · [Source](https://x.com/wyi1988/status/2101584399359975634)
+
+Photography · Portrait / Selfie · Fashion Item · Published
+
+**Summary:** Japanese style office three-person workplace photoshoot prompt, featuring specific attire and sitting pose composition.
+
+<img src="images/2101584399359975634-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Japanese style office three-person workplace photoshoot × soft focus clear telephoto magazine texture × white shirts and black short skirts · sheer smoky black pantyhose on left and right · bare legs in the center · black pointed high heels × left sitting on the edge of the desk with crossed legs · center sitting upright with legs together · right sitting on an office chair with crossed legs tight group photo
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### Prompt for a high-angle composition of an East Asian bride getting makeup done at a wedding venue.
+
+Author：[@MrGafish](https://x.com/MrGafish) · [Source](https://x.com/MrGafish/status/2101571702694285681)
+
+Photography · Portrait / Selfie · Published
+
+**Summary:** Prompt for a high-angle composition of an East Asian bride getting makeup done at a wedding venue.
+
+<img src="images/2101571702694285681-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+East Asian adult bride, high-angle shot composition, getting makeup done at the wedding venue, 9:16
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### East Asian young female triangle bikini portrait photo, with realistic photography texture.
+
+Author：[@MrGafish](https://x.com/MrGafish) · [Source](https://x.com/MrGafish/status/2101560114746622072)
+
+Photography · Portrait / Selfie · Published
+
+**Summary:** East Asian young female triangle bikini portrait photo, with realistic photography texture.
+
+<img src="images/2101560114746622072-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+20–25 year old East Asian adult female, slender and well-proportioned figure, full bust, distinct collarbones, triangle bikini top, thin shoulder strap design, real photography texture, generate 10 completely different versions
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### Candid portrait lying on a hotel bed, adult female wearing a light blue shirt and pleated skirt, hand blocking her face.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2101577581099360262)
+
+Photography · Portrait / Selfie · Published
+
+**Summary:** Candid portrait lying on a hotel bed, adult female wearing a light blue shirt and pleated skirt, hand blocking her face.
+
+<img src="images/2101577581099360262-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hyper-realistic indoor bed portrait photography, vertical aspect ratio approx. 3:4. A clearly adult East Asian female, 20+, adult academy-style cosplay model, reclining diagonally on a large bed covered with pure white sheets. The photographer stands at a slightly elevated position to the left side of the foot of the bed, shooting from a slight high-angle using an equivalent 28–35mm lens, capturing the subject entirely from head, torso, skirt, and legs down to shoes, retaining ample white bedding and the hotel room environment.
+
+The subject has a small-to-medium bone structure, a naturally slender, slightly hourglass figure with rather narrow shoulders, a naturally cinched waist, realistic soft volume in the thighs, and well-proportioned calves. She lies on her back, slightly angled toward the right of the frame, her upper body resting on the mattress, head near the top right of the frame; hips and waist positioned slightly left of the bed's center.
+
+Pose focus: Both legs hang naturally over the foot of the bed, held slightly together and crossed, knees close, with the left leg slightly pressing in front of the right leg, calves extending toward the bottom of the frame. Her right hand is raised to block the front of her face, palm facing the camera with fingers spread, nearly obscuring her eyes and most of her face; her other hand rests near her cheek or the side of her head. The motion resembles a subconscious reaction to block the camera when caught off guard by a snapshot, carrying a distinct candid snapshot feel.
+
+The subject has jet-black medium-length straight hair extending below the shoulders or near the chest, with strands naturally scattered across the white bedsheet, and light, wispy bangs on her forehead. Due to the palm obstruction, only part of the bridge of her nose, lips, and jawline are visible; do not force a fully revealed full frontal face.
+
+Upper body: Wearing a light blue-grey long-sleeve button-down shirt with a standard fold-over collar, made of thin cotton or shirting fabric, slightly relaxed fit, cuffs naturally gathered/bunched, color close to mist blue / pale denim blue. The shirt hem is tucked into the waistband of the skirt, overall clean and neat.
+
+Lower body: Wearing a dark grey-black plaid high-waisted pleated mini skirt, with the plaid pattern composed of black, charcoal grey, and fine white lines, medium pleat width, naturally fanning out to the sides as she reclines. Maintains normal full coverage, distinctly an adult cosplay styling.
+
+Bare legs, no pantyhose or stockings, maintaining natural bare skin. On the lower legs, dark navy blue knee-high ribbed socks, sock cuffs resting just below the knees, thicker material with distinct vertical knit texture. The sock tubes fit the calves snugly, with slight natural wrinkles around the ankles.
+
+On the feet, dark brown glossy loafers / penny loafers with round toes, low heels, traditional penny keeper strap construction, the leather showing subtle specular highlights and wear creases. Both shoes remain fully visible within the frame, not turned into black shoes or sneakers.
+
+The setting is a standard hotel / B&B bedroom. The bed features a generous expanse of pure white sheets and white pillows, with a dark brown wooden bed frame. The headboard wall is a solid grey-white marble veneer panel with distinct black-and-grey natural veining, topped by a perimeter band of dark grey-black small mosaic accent tiles. The floor is grey wood-grain / stone-tile flooring, overall clean and minimalist.
+
+Lighting uses bright indoor overhead ceiling lights combined with smartphone auto-exposure / subtle fill light; the white bedsheets are bright, while the subject's legs, pale blue shirt, and plaid skirt maintain natural tonal gradations. The overall color temperature is neutral slightly leaning warm, skin tones are authentic, avoiding cinematic lighting.
+
+Overall presentation has the texture of a high-quality smartphone / digital camera candid hotel snapshot: natural sharpness, slight wide-angle, minor phone HDR look, realistic skin texture, background generally in focus, no aggressive portrait blur/bokeh.
+
+Key focal points: Adult East Asian female + reclining on a large white bed + right hand spread blocking face + pale blue long-sleeve shirt + dark grey-black plaid pleated skirt + bare legs + dark navy knee-high ribbed socks + dark brown loafers + legs hanging off the foot of the bed slightly crossed + white sheets + grey-white marble headboard wall + authentic hotel candid snapshot.
+
+Avoid: Minors, actual student identity, standing pose, sitting upright, high-raised legs, pantyhose, white socks, fishnets, high heels, sneakers, long skirts, shorts, fully exposed face, luxury European-style bedroom, harsh flash, excessive background blur, anime face, CG look, plastic skin, extra limbs, watermarks, and gibberish text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -5269,6 +5387,68 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 
 ## Cinematic / Film Still
 
+<a name="prompt-2101569698319958447"></a>
+
+### A young man in a dark hoodie channels and unleashes cyan energy shockwaves in a cobblestone alley.
+
+Author：[@KevinVailAI](https://x.com/KevinVailAI) · [Source](https://x.com/KevinVailAI/status/2101569698319958447)
+
+Cinematic / Film Still · Character · Published
+
+**Summary:** A young man in a dark hoodie channels and unleashes cyan energy shockwaves in a cobblestone alley.
+
+<img src="covers/2101569698319958447.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A young man in an oversized dark hoodie standing in an ancient cobblestone alley at dusk. Glowing neon-cyan energy surges around his hands as floating particles and leaves levitate around him in slow motion. He thrusts his hands forward, releasing a shockwave of bright luminescent light and glowing mist toward the camera, ending with floating embers. 9:16 vertical aspect ratio, ultra-realistic, cinematic lighting, photorealistic VFX rendering.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### Eastern martial arts film-style female warrior extreme close-up, foreground out-of-focus hands framing with hard chiaroscuro light and shadow.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2101548200981393654)
+
+Cinematic / Film Still · Portrait / Selfie · Published
+
+Source：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2101521394739900701)
+
+**Summary:** Eastern martial arts film-style female warrior extreme close-up, foreground out-of-focus hands framing with hard chiaroscuro light and shadow.
+
+<img src="images/2101548200981393654-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+Hyperrealistic live-action Eastern martial arts film still, 16:9 widescreen composition, extreme close-up on the face, authentic cinematic photography texture.
+
+An adult East Asian female warrior facing the camera directly; the camera is extremely close, with the framing containing only her face, both hands, long black hair, and a small part of her shoulders. The subject is in the center of the frame, body leaning slightly forward, eyes looking straight into the camera lens with a sharp, calm, and aggressive gaze.
+
+Both of her hands are raised in front of the lens: one hand reaches in from the upper right of the frame, while the other reaches in from the lower right and center, crossing to form an irregular frame that sandwiches her eyes between her fingers. The foreground palms and fingers are positioned very close to the lens, thus visibly out of focus and occupying a large area on the right side of the frame, with natural and sharp movement.
+
+Adult East Asian female face, 20–30 years old, delicate, heroic, stoic, possessing the aura of a martial arts movie heroine, realistic skin texture.
+
+Long black hair tied up high, slender strands of hair blown by strong wind across her forehead, eyes, and cheeks, with some strands crossing the entire frame from the left.
+
+Facial chiaroscuro relationship: The entire face must be dominated by shadows, with about 65%–75% in shadow. The key light is a shaft of authentic, hard natural sunlight coming from the upper right of the frame, with a clear direction that forms a very distinct light-and-dark boundary. The foreground fingers, palms, and strands of hair block part of the sun, casting authentic, irregular, and sharp shadows onto her face. Only a small sliver of sunlight passes through between the fingers and hair, slicing diagonally across one eye, the brow bone, bridge of the nose, and a small patch of cheek, forming a narrow, distinct highlighted zone. The other eye is mostly in shadow, but the pupil remains visible. Lips, chin, jawline, and neck maintain pronounced darkness, with no frontal fill light.
+
+Minimalist background, featuring only a desaturated, pale blue sky. The eyes are positioned near the center of the frame and serve as the sharpest focal zone; the foreground hands are heavily out of focus; a large amount of long black hair enters the frame from the left, while the right side is occupied by the foreground fingers, creating a strong sense of enclosure.
+
+ARRI Alexa 35 / Alexa Mini LF cinematic look, 65mm lens, T2.0, ISO 800, 1/1000s, focus on the eyes, hard natural sunlight, face slightly underexposed, strong chiaroscuro lighting, deep facial shadows, subtle film grain.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### 15-second high-end watch cinematic commercial featuring dark-toned close-ups, macro details, urban lifestyle scenes, and hero product shots.
@@ -7221,6 +7401,38 @@ Comic / Storyboard · Anime / Manga · Published
 
 ## Illustration
 
+<a name="prompt-2101577158112235568"></a>
+
+### Oriental fantasy illustration of a topless muscular man with tattoos biting a ribbon, set against prayer flags and snowy peaks.
+
+Author：[@sha1shashasha](https://x.com/sha1shashasha) · [Source](https://x.com/sha1shashasha/status/2101577158112235568)
+
+Illustration · Character · Published
+
+**Summary:** Oriental fantasy illustration of a topless muscular man with tattoos biting a ribbon, set against prayer flags and snowy peaks.
+
+<img src="images/2101577158112235568-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+oriental fantasy illustration, 1.3::back view::, looking over shoulder at viewer::,
+
+1.3::topless male::, 1.2::muscular back::, 1.4::oriental dragon tattoo on arm and shoulder::,
+
+1.5::biting white ribbon in mouth::, accessories, 1.3::bandages wrapped around arm and waist, fur collar cape on shoulders, traditional oriental robes draped around waist::, 1.2::orange sash ribbons::, 1.3::colorful prayer flags floating::,
+
+1.1::flying birds in sky, snowy mountain peak background, bright blue sky, vivid sunlight::, upper body shot
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### Surreal psychological horror illustration featuring a slender figure in a white nightgown set against a giant glowing red face in the dark background.
@@ -7867,6 +8079,28 @@ Source：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tan
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2101548945269002366"></a>
+
+### red F1 car as an exploded museum plate in three.js
+
+Author：[@StatsWire](https://x.com/StatsWire) · [Source](https://x.com/StatsWire/status/2101548945269002366)
+
+3D Render · Vehicle · Published
+
+**Summary:** red F1 car as an exploded museum plate in three.js
+
+<img src="covers/2101548945269002366.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+red F1 car as an exploded museum plate in three.js
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -9175,6 +9409,28 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101565768932663386"></a>
+
+### Woman in bikini bouncing and rubbing chest.
+
+Author：[@Jr1301387296491](https://x.com/Jr1301387296491) · [Source](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+Character · Published
+
+**Summary:** Woman in bikini bouncing and rubbing chest.
+
+<img src="covers/2101565768932663386.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+In bikini bouncing rubing chest
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

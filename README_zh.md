@@ -19,7 +19,7 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 
 给仓库点亮 Star，关注每日精选提示词，持续获取创作灵感。
 
-**357** 条内容 · 最新收录: **2026-09-20**
+**366** 条内容 · 最新收录: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Leadde.ai 帮助团队将文档、幻灯片和文字转化为 AI 商业视频，
 <a name="category-photography"></a>
 
 ## 摄影
+
+<a name="prompt-2101584399359975634"></a>
+
+### 翻译中
+
+作者：[@wyi1988](https://x.com/wyi1988) · [查看 X 原帖](https://x.com/wyi1988/status/2101584399359975634)
+
+摄影 · 人像 / 自拍 · 时尚单品 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101584399359975634-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### 翻译中
+
+作者：[@MrGafish](https://x.com/MrGafish) · [查看 X 原帖](https://x.com/MrGafish/status/2101571702694285681)
+
+摄影 · 人像 / 自拍 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101571702694285681-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### 翻译中
+
+作者：[@MrGafish](https://x.com/MrGafish) · [查看 X 原帖](https://x.com/MrGafish/status/2101560114746622072)
+
+摄影 · 人像 / 自拍 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101560114746622072-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="图片 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="图片 4" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### 翻译中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2101577581099360262)
+
+摄影 · 人像 / 自拍 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101577581099360262-1.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -5031,6 +5125,54 @@ CGI毛发、
 
 ## 电影 / 电影剧照
 
+<a name="prompt-2101569698319958447"></a>
+
+### 翻译中
+
+作者：[@KevinVailAI](https://x.com/KevinVailAI) · [查看 X 原帖](https://x.com/KevinVailAI/status/2101569698319958447)
+
+电影 / 电影剧照 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2101569698319958447.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### 翻译中
+
+作者：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2101548200981393654)
+
+电影 / 电影剧照 · 人像 / 自拍 · 已推流
+
+查看 X 原帖：[@DDJCXX](https://x.com/DDJCXX) · [查看 X 原帖](https://x.com/DDJCXX/status/2101521394739900701)
+
+**概括:** 翻译中
+
+<img src="images/2101548200981393654-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="图片 2" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### 15秒高端腕表电影感商业广告，包含暗调特写、微距细节、都市人物街拍及主角定格镜头。
@@ -7036,6 +7178,32 @@ B：宽松柔软的米白色连帽衫，3::头枕在A的腿上，温柔地抬头
 
 ## 插画
 
+<a name="prompt-2101577158112235568"></a>
+
+### 翻译中
+
+作者：[@sha1shashasha](https://x.com/sha1shashasha) · [查看 X 原帖](https://x.com/sha1shashasha/status/2101577158112235568)
+
+插画 · 角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="images/2101577158112235568-1.jpg" alt="图片 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="图片 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="图片 3" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### 超现实心理恐怖插画，描绘了一个身穿白色睡裙的纤细身影，背景是黑暗中一张巨大的发光红脸。
@@ -7677,6 +7845,28 @@ B: 3::black gakuran::, 面向A蹲着, 一只手放在膝盖附近, 另一只手�
 <a name="category-3d-render"></a>
 
 ## 3D 渲染
+
+<a name="prompt-2101548945269002366"></a>
+
+### 翻译中
+
+作者：[@StatsWire](https://x.com/StatsWire) · [查看 X 原帖](https://x.com/StatsWire/status/2101548945269002366)
+
+3D 渲染 · 车辆 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2101548945269002366.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -8929,6 +9119,28 @@ FIELD NOTE [编号]
 <a name="category-other"></a>
 
 ## 其他
+
+<a name="prompt-2101565768932663386"></a>
+
+### 翻译中
+
+作者：[@Jr1301387296491](https://x.com/Jr1301387296491) · [查看 X 原帖](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+角色 · 已推流
+
+**概括:** 翻译中
+
+<img src="covers/2101565768932663386.jpg" alt="图片 1" width="480" />
+
+**提示词**
+
+```text
+翻译中
+```
+
+[↑ 返回分类目录](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 

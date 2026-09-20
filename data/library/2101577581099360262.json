@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T08:26:52.207Z",
+  "model": "pixverse",
+  "prompt": "超写实室内床上人像摄影，竖版约 3:4。一名明确成年的东亚女性，20+，成年学院风 Cosplay 模特，斜躺在一张铺着纯白床单的大床上，摄影者站在床尾左侧略高位置，使用约 28–35mm 等效镜头轻微俯拍，完整拍到人物从头部、躯干、裙摆、双腿到鞋子，保留大量白色床铺和酒店房间环境。\n\n人物为中小骨架、自然纤细偏轻沙漏型身材，肩部偏窄，腰部自然收束，大腿有真实柔软体积，小腿匀称。人物仰躺并略微侧向画面右侧，上半身靠在床面，头部位于画面右上附近；臀部和腰部位于床中央偏左。\n\n姿势重点：双腿从床尾自然垂下并略微并拢交叠，膝盖靠近，左腿稍微压在右腿前方，小腿向画面下方延伸。右手抬起挡在脸部前方，手掌朝向镜头，五指张开，几乎遮住眼睛和大半张脸；另一只手靠近脸颊或头侧。动作像被突然拍到时下意识用手遮镜头，带明显随手抓拍感。\n\n人物留乌黑色中长直发，长度到肩下或胸口附近，发丝自然散在白色床单上，额前有轻薄碎刘海。由于手掌遮挡，脸只露出部分鼻梁、嘴唇和下颌，不要强行露完整正脸。\n\n上身穿浅蓝灰色长袖衬衫，标准翻领，面料为薄棉或衬衫布，版型略宽松，袖口自然堆叠，颜色接近雾蓝 / 淡牛仔蓝。衬衫下摆塞进裙腰附近，整体干净简洁。\n\n下身穿深灰黑色格纹高腰百褶短裙，格纹由黑色、炭灰和细白线组成，裙褶宽度中等，躺下后裙摆自然向两侧散开。保持正常完整覆盖，明确是成年 Cosplay 造型。\n\n双腿不穿丝袜，保持自然裸腿。小腿穿深藏蓝色及膝罗纹长袜，袜口位于膝盖下方，材质较厚，有明显竖向针织纹理。袜筒贴合小腿，但脚踝处略有自然褶皱。\n\n脚穿深棕色亮面乐福鞋 / penny loafers，圆头、低跟、传统横向搭带结构，皮革有轻微反光和使用褶皱。双鞋都完整保留在画面中，不要变成黑鞋或运动鞋。\n\n场景为普通酒店 / 民宿卧室。床铺为大面积纯白床单和白色枕头，床架为深棕色木质。床头背景是一整块灰白色大理石纹墙板，带明显黑灰色天然裂纹，上方还有一圈深灰黑色小型马赛克装饰砖。地面为灰色木纹 / 石纹地板，整体简洁。\n\n光线采用明亮室内顶灯＋手机自动曝光 / 轻微补光，白色床单较亮，人物腿部、浅蓝衬衫和格纹裙保持自然层次。整体色温中性略偏暖，皮肤真实，不要电影级光影。\n\n整体呈 高质量手机 / 数码相机酒店随手抓拍质感：自然锐度、轻微广角、少量手机 HDR、真实肤质，背景基本清楚，不使用强人像虚化。\n\n重点锁定：成年东亚女性＋白色大床仰躺＋右手张开挡脸＋浅蓝长袖衬衫＋深灰黑格纹百褶短裙＋裸腿＋深藏蓝及膝罗纹袜＋深棕色乐福鞋＋双腿从床尾垂下并略交叠＋白色床单＋灰白大理石纹床头墙＋真实酒店随手拍。\n\n避免：未成年人、真实学生身份、站姿、坐直、双腿高抬、丝袜、白袜、网袜、高跟鞋、运动鞋、长裙、短裤、完整露脸、豪华欧式卧室、强闪光、过度背景虚化、动漫脸、CG 感、塑料皮肤、多余肢体、水印和乱码文字。",
+  "promptTranslations": {
+    "en": "Hyper-realistic indoor bed portrait photography, vertical aspect ratio approx. 3:4. A clearly adult East Asian female, 20+, adult academy-style cosplay model, reclining diagonally on a large bed covered with pure white sheets. The photographer stands at a slightly elevated position to the left side of the foot of the bed, shooting from a slight high-angle using an equivalent 28–35mm lens, capturing the subject entirely from head, torso, skirt, and legs down to shoes, retaining ample white bedding and the hotel room environment.\n\nThe subject has a small-to-medium bone structure, a naturally slender, slightly hourglass figure with rather narrow shoulders, a naturally cinched waist, realistic soft volume in the thighs, and well-proportioned calves. She lies on her back, slightly angled toward the right of the frame, her upper body resting on the mattress, head near the top right of the frame; hips and waist positioned slightly left of the bed's center.\n\nPose focus: Both legs hang naturally over the foot of the bed, held slightly together and crossed, knees close, with the left leg slightly pressing in front of the right leg, calves extending toward the bottom of the frame. Her right hand is raised to block the front of her face, palm facing the camera with fingers spread, nearly obscuring her eyes and most of her face; her other hand rests near her cheek or the side of her head. The motion resembles a subconscious reaction to block the camera when caught off guard by a snapshot, carrying a distinct candid snapshot feel.\n\nThe subject has jet-black medium-length straight hair extending below the shoulders or near the chest, with strands naturally scattered across the white bedsheet, and light, wispy bangs on her forehead. Due to the palm obstruction, only part of the bridge of her nose, lips, and jawline are visible; do not force a fully revealed full frontal face.\n\nUpper body: Wearing a light blue-grey long-sleeve button-down shirt with a standard fold-over collar, made of thin cotton or shirting fabric, slightly relaxed fit, cuffs naturally gathered/bunched, color close to mist blue / pale denim blue. The shirt hem is tucked into the waistband of the skirt, overall clean and neat.\n\nLower body: Wearing a dark grey-black plaid high-waisted pleated mini skirt, with the plaid pattern composed of black, charcoal grey, and fine white lines, medium pleat width, naturally fanning out to the sides as she reclines. Maintains normal full coverage, distinctly an adult cosplay styling.\n\nBare legs, no pantyhose or stockings, maintaining natural bare skin. On the lower legs, dark navy blue knee-high ribbed socks, sock cuffs resting just below the knees, thicker material with distinct vertical knit texture. The sock tubes fit the calves snugly, with slight natural wrinkles around the ankles.\n\nOn the feet, dark brown glossy loafers / penny loafers with round toes, low heels, traditional penny keeper strap construction, the leather showing subtle specular highlights and wear creases. Both shoes remain fully visible within the frame, not turned into black shoes or sneakers.\n\nThe setting is a standard hotel / B&B bedroom. The bed features a generous expanse of pure white sheets and white pillows, with a dark brown wooden bed frame. The headboard wall is a solid grey-white marble veneer panel with distinct black-and-grey natural veining, topped by a perimeter band of dark grey-black small mosaic accent tiles. The floor is grey wood-grain / stone-tile flooring, overall clean and minimalist.\n\nLighting uses bright indoor overhead ceiling lights combined with smartphone auto-exposure / subtle fill light; the white bedsheets are bright, while the subject's legs, pale blue shirt, and plaid skirt maintain natural tonal gradations. The overall color temperature is neutral slightly leaning warm, skin tones are authentic, avoiding cinematic lighting.\n\nOverall presentation has the texture of a high-quality smartphone / digital camera candid hotel snapshot: natural sharpness, slight wide-angle, minor phone HDR look, realistic skin texture, background generally in focus, no aggressive portrait blur/bokeh.\n\nKey focal points: Adult East Asian female + reclining on a large white bed + right hand spread blocking face + pale blue long-sleeve shirt + dark grey-black plaid pleated skirt + bare legs + dark navy knee-high ribbed socks + dark brown loafers + legs hanging off the foot of the bed slightly crossed + white sheets + grey-white marble headboard wall + authentic hotel candid snapshot.\n\nAvoid: Minors, actual student identity, standing pose, sitting upright, high-raised legs, pantyhose, white socks, fishnets, high heels, sneakers, long skirts, shorts, fully exposed face, luxury European-style bedroom, harsh flash, excessive background blur, anime face, CG look, plastic skin, extra limbs, watermarks, and gibberish text."
+  },
+  "summaryTranslations": {
+    "en": "Candid portrait lying on a hotel bed, adult female wearing a light blue shirt and pleated skirt, hand blocking her face."
+  },
+  "translationVersion": 2,
+  "summary": "酒店床上躺姿抓拍人像，成年女性身穿浅蓝衬衫与百褶裙，手挡脸部。",
+  "summaryEn": "Candid hotel bed portrait of an adult female in a blue shirt and pleated skirt covering her face.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101577581099360262",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2101577581099360262",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-20T07:41:55.000Z",
+    "collectedAt": "2026-09-20T08:16:11.247Z",
+    "language": "zh",
+    "originalText": "床很软，但不要偷拍我！\n\nPrompt：超写实室内床上人像摄影，竖版约 3:4。一名明确成年的东亚女性，20+，成年学院风 Cosplay 模特，斜躺在一张铺着纯白床单的大床上，摄影者站在床尾左侧略高位置，使用约 28–35mm 等效镜头轻微俯拍，完整拍到人物从头部、躯干、裙摆、双腿到鞋子，保留大量白色床铺和酒店房间环境。\n\n人物为中小骨架、自然纤细偏轻沙漏型身材，肩部偏窄，腰部自然收束，大腿有真实柔软体积，小腿匀称。人物仰躺并略微侧向画面右侧，上半身靠在床面，头部位于画面右上附近；臀部和腰部位于床中央偏左。\n\n姿势重点：双腿从床尾自然垂下并略微并拢交叠，膝盖靠近，左腿稍微压在右腿前方，小腿向画面下方延伸。右手抬起挡在脸部前方，手掌朝向镜头，五指张开，几乎遮住眼睛和大半张脸；另一只手靠近脸颊或头侧。动作像被突然拍到时下意识用手遮镜头，带明显随手抓拍感。\n\n人物留乌黑色中长直发，长度到肩下或胸口附近，发丝自然散在白色床单上，额前有轻薄碎刘海。由于手掌遮挡，脸只露出部分鼻梁、嘴唇和下颌，不要强行露完整正脸。\n\n上身穿浅蓝灰色长袖衬衫，标准翻领，面料为薄棉或衬衫布，版型略宽松，袖口自然堆叠，颜色接近雾蓝 / 淡牛仔蓝。衬衫下摆塞进裙腰附近，整体干净简洁。\n\n下身穿深灰黑色格纹高腰百褶短裙，格纹由黑色、炭灰和细白线组成，裙褶宽度中等，躺下后裙摆自然向两侧散开。保持正常完整覆盖，明确是成年 Cosplay 造型。\n\n双腿不穿丝袜，保持自然裸腿。小腿穿深藏蓝色及膝罗纹长袜，袜口位于膝盖下方，材质较厚，有明显竖向针织纹理。袜筒贴合小腿，但脚踝处略有自然褶皱。\n\n脚穿深棕色亮面乐福鞋 / penny loafers，圆头、低跟、传统横向搭带结构，皮革有轻微反光和使用褶皱。双鞋都完整保留在画面中，不要变成黑鞋或运动鞋。\n\n场景为普通酒店 / 民宿卧室。床铺为大面积纯白床单和白色枕头，床架为深棕色木质。床头背景是一整块灰白色大理石纹墙板，带明显黑灰色天然裂纹，上方还有一圈深灰黑色小型马赛克装饰砖。地面为灰色木纹 / 石纹地板，整体简洁。\n\n光线采用明亮室内顶灯＋手机自动曝光 / 轻微补光，白色床单较亮，人物腿部、浅蓝衬衫和格纹裙保持自然层次。整体色温中性略偏暖，皮肤真实，不要电影级光影。\n\n整体呈 高质量手机 / 数码相机酒店随手抓拍质感：自然锐度、轻微广角、少量手机 HDR、真实肤质，背景基本清楚，不使用强人像虚化。\n\n重点锁定：成年东亚女性＋白色大床仰躺＋右手张开挡脸＋浅蓝长袖衬衫＋深灰黑格纹百褶短裙＋裸腿＋深藏蓝及膝罗纹袜＋深棕色乐福鞋＋双腿从床尾垂下并略交叠＋白色床单＋灰白大理石纹床头墙＋真实酒店随手拍。\n\n避免：未成年人、真实学生身份、站姿、坐直、双腿高抬、丝袜、白袜、网袜、高跟鞋、运动鞋、长裙、短裤、完整露脸、豪华欧式卧室、强闪光、过度背景虚化、动漫脸、CG 感、塑料皮肤、多余肢体、水印和乱码文字。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSpNqsqaMAA4qgo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSpNqsqaMAA4qgo.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 557
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2101577581099360262",
+  "coverUrl": "https://pbs.twimg.com/media/HSpNqsqaMAA4qgo.jpg",
+  "coverPath": "images/2101577581099360262-1.jpg",
+  "imagePaths": [
+    "images/2101577581099360262-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSpNqsqaMAA4qgo",
+    "x-post:2101577581099360262"
+  ],
+  "analysis": {
+    "summary": "酒店床上躺姿抓拍人像，成年女性身穿浅蓝衬衫与百褶裙，手挡脸部。",
+    "summaryEn": "Candid hotel bed portrait of an adult female in a blue shirt and pleated skirt covering her face.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确呈现了提示词描述的人物姿势（右手挡脸仰躺、腿部下垂）、浅蓝长袖衬衫、深灰格纹短裙、深蓝长袜与棕色乐福鞋，以及白色床品和大理石床头背景。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实室内床上人像摄影，竖版约 3:4。一名明确成年的东亚女性，20+，成年学院风 Cosplay 模特，斜躺在一张铺着纯白床单的大床上，摄影者站在床尾左侧略高位置，使用约 28–35mm 等效镜头轻微俯拍，完整拍到人物从头部、躯干、裙摆、双腿到鞋子，保留大量白色床铺和酒店房间环境。\n\n人物为中小骨架、自然纤细偏轻沙漏型身材，肩部偏窄，腰部自然收束，大腿有真实柔软体积，小腿匀称。人物仰躺并略微侧向画面右侧，上半身靠在床面，头部位于画面右上附近；臀部和腰部位于床中央偏左。\n\n姿势重点：双腿从床尾自然垂下并略微并拢交叠，膝盖靠近，左腿稍微压在右腿前方，小腿向画面下方延伸。右手抬起挡在脸部前方，手掌朝向镜头，五指张开，几乎遮住眼睛和大半张脸；另一只手靠近脸颊或头侧。动作像被突然拍到时下意识用手遮镜头，带明显随手抓拍感。\n\n人物留乌黑色中长直发，长度到肩下或胸口附近，发丝自然散在白色床单上，额前有轻薄碎刘海。由于手掌遮挡，脸只露出部分鼻梁、嘴唇和下颌，不要强行露完整正脸。\n\n上身穿浅蓝灰色长袖衬衫，标准翻领，面料为薄棉或衬衫布，版型略宽松，袖口自然堆叠，颜色接近雾蓝 / 淡牛仔蓝。衬衫下摆塞进裙腰附近，整体干净简洁。\n\n下身穿深灰黑色格纹高腰百褶短裙，格纹由黑色、炭灰和细白线组成，裙褶宽度中等，躺下后裙摆自然向两侧散开。保持正常完整覆盖，明确是成年 Cosplay 造型。\n\n双腿不穿丝袜，保持自然裸腿。小腿穿深藏蓝色及膝罗纹长袜，袜口位于膝盖下方，材质较厚，有明显竖向针织纹理。袜筒贴合小腿，但脚踝处略有自然褶皱。\n\n脚穿深棕色亮面乐福鞋 / penny loafers，圆头、低跟、传统横向搭带结构，皮革有轻微反光和使用褶皱。双鞋都完整保留在画面中，不要变成黑鞋或运动鞋。\n\n场景为普通酒店 / 民宿卧室。床铺为大面积纯白床单和白色枕头，床架为深棕色木质。床头背景是一整块灰白色大理石纹墙板，带明显黑灰色天然裂纹，上方还有一圈深灰黑色小型马赛克装饰砖。地面为灰色木纹 / 石纹地板，整体简洁。\n\n光线采用明亮室内顶灯＋手机自动曝光 / 轻微补光，白色床单较亮，人物腿部、浅蓝衬衫和格纹裙保持自然层次。整体色温中性略偏暖，皮肤真实，不要电影级光影。\n\n整体呈 高质量手机 / 数码相机酒店随手抓拍质感：自然锐度、轻微广角、少量手机 HDR、真实肤质，背景基本清楚，不使用强人像虚化。\n\n重点锁定：成年东亚女性＋白色大床仰躺＋右手张开挡脸＋浅蓝长袖衬衫＋深灰黑格纹百褶短裙＋裸腿＋深藏蓝及膝罗纹袜＋深棕色乐福鞋＋双腿从床尾垂下并略交叠＋白色床单＋灰白大理石纹床头墙＋真实酒店随手拍。\n\n避免：未成年人、真实学生身份、站姿、坐直、双腿高抬、丝袜、白袜、网袜、高跟鞋、运动鞋、长裙、短裤、完整露脸、豪华欧式卧室、强闪光、过度背景虚化、动漫脸、CG 感、塑料皮肤、多余肢体、水印和乱码文字。",
+    "sourceRange": {
+      "start": 20,
+      "end": 1217
+    },
+    "translations": {
+      "zh": "超写实室内床上人像摄影，竖版约 3:4。一名明确成年的东亚女性，20+，成年学院风 Cosplay 模特，斜躺在一张铺着纯白床单的大床上，摄影者站在床尾左侧略高位置，使用约 28–35mm 等效镜头轻微俯拍，完整拍到人物从头部、躯干、裙摆、双腿到鞋子，保留大量白色床铺和酒店房间环境。\n\n人物为中小骨架、自然纤细偏轻沙漏型身材，肩部偏窄，腰部自然收束，大腿有真实柔软体积，小腿匀称。人物仰躺并略微侧向画面右侧，上半身靠在床面，头部位于画面右上附近；臀部和腰部位于床中央偏左。\n\n姿势重点：双腿从床尾自然垂下并略微并拢交叠，膝盖靠近，左腿稍微压在右腿前方，小腿向画面下方延伸。右手抬起挡在脸部前方，手掌朝向镜头，五指张开，几乎遮住眼睛和大半张脸；另一只手靠近脸颊或头侧。动作像被突然拍到时下意识用手遮镜头，带明显随手抓拍感。\n\n人物留乌黑色中长直发，长度到肩下或胸口附近，发丝自然散在白色床单上，额前有轻薄碎刘海。由于手掌遮挡，脸只露出部分鼻梁、嘴唇和下颌，不要强行露完整正脸。\n\n上身穿浅蓝灰色长袖衬衫，标准翻领，面料为薄棉或衬衫布，版型略宽松，袖口自然堆叠，颜色接近雾蓝 / 淡牛仔蓝。衬衫下摆塞进裙腰附近，整体干净简洁。\n\n下身穿深灰黑色格纹高腰百褶短裙，格纹由黑色、炭灰和细白线组成，裙褶宽度中等，躺下后裙摆自然向两侧散开。保持正常完整覆盖，明确是成年 Cosplay 造型。\n\n双腿不穿丝袜，保持自然裸腿。小腿穿深藏蓝色及膝罗纹长袜，袜口位于膝盖下方，材质较厚，有明显竖向针织纹理。袜筒贴合小腿，但脚踝处略有自然褶皱。\n\n脚穿深棕色亮面乐福鞋 / penny loafers，圆头、低跟、传统横向搭带结构，皮革有轻微反光和使用褶皱。双鞋都完整保留在画面中，不要变成黑鞋或运动鞋。\n\n场景为普通酒店 / 民宿卧室。床铺为大面积纯白床单和白色枕头，床架为深棕色木质。床头背景是一整块灰白色大理石纹墙板，带明显黑灰色天然裂纹，上方还有一圈深灰黑色小型马赛克装饰砖。地面为灰色木纹 / 石纹地板，整体简洁。\n\n光线采用明亮室内顶灯＋手机自动曝光 / 轻微补光，白色床单较亮，人物腿部、浅蓝衬衫和格纹裙保持自然层次。整体色温中性略偏暖，皮肤真实，不要电影级光影。\n\n整体呈 高质量手机 / 数码相机酒店随手抓拍质感：自然锐度、轻微广角、少量手机 HDR、真实肤质，背景基本清楚，不使用强人像虚化。\n\n重点锁定：成年东亚女性＋白色大床仰躺＋右手张开挡脸＋浅蓝长袖衬衫＋深灰黑格纹百褶短裙＋裸腿＋深藏蓝及膝罗纹袜＋深棕色乐福鞋＋双腿从床尾垂下并略交叠＋白色床单＋灰白大理石纹床头墙＋真实酒店随手拍。\n\n避免：未成年人、真实学生身份、站姿、坐直、双腿高抬、丝袜、白袜、网袜、高跟鞋、运动鞋、长裙、短裤、完整露脸、豪华欧式卧室、强闪光、过度背景虚化、动漫脸、CG 感、塑料皮肤、多余肢体、水印和乱码文字。",
+      "en": "Photorealistic indoor bed portrait, vertical 3:4. An adult East Asian female (20+) in academy cosplay reclining on a white bed, shot from slightly high angle at the foot of the bed with a 28-35mm lens showing full body from head to shoes.\n\nShe has a slender hourglass build, reclining facing slightly right. Her legs drape off the bed crossed, right hand raised shielding her face with an open palm candidly hiding eyes and face.\n\nBlack medium-length hair on white sheets, light blue long-sleeve collared shirt tucked into a dark grey plaid pleated mini skirt. Bare legs with dark navy ribbed knee-high socks and glossy dark brown penny loafers.\n\nHotel bedroom setting: white bedding, dark wood frame, grey-white marble headboard wall with dark mosaic tiles above. Bright indoor ceiling light, candid smartphone snapshot style, natural sharpness without heavy bokeh."
+    },
+    "targetModels": [
+      "pixverse"
+    ],
+    "category": "text-to-image",
+    "useCase": "photorealistic portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**357** Prompt · Bổ sung mới nhất: **2026-09-20**
+**366** Prompt · Bổ sung mới nhất: **2026-09-20**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,100 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2101584399359975634"></a>
+
+### Đang dịch
+
+Tác giả：[@wyi1988](https://x.com/wyi1988) · [Bài gốc](https://x.com/wyi1988/status/2101584399359975634)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101584399359975634-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101571702694285681"></a>
+
+### Đang dịch
+
+Tác giả：[@MrGafish](https://x.com/MrGafish) · [Bài gốc](https://x.com/MrGafish/status/2101571702694285681)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101571702694285681-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101560114746622072"></a>
+
+### Đang dịch
+
+Tác giả：[@MrGafish](https://x.com/MrGafish) · [Bài gốc](https://x.com/MrGafish/status/2101560114746622072)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101560114746622072-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101560114746622072-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2101560114746622072-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2101560114746622072-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101577581099360262"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2101577581099360262)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101577581099360262-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101428013095145597"></a>
 
@@ -3755,6 +3849,54 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2101569698319958447"></a>
+
+### Đang dịch
+
+Tác giả：[@KevinVailAI](https://x.com/KevinVailAI) · [Bài gốc](https://x.com/KevinVailAI/status/2101569698319958447)
+
+Điện ảnh / Ảnh tĩnh từ phim · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101569698319958447.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101548200981393654"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2101548200981393654)
+
+Điện ảnh / Ảnh tĩnh từ phim · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+Bài gốc：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2101521394739900701)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101548200981393654-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101548200981393654-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101311302841078204"></a>
 
 ### Quảng cáo điện ảnh 15 giây dành cho đồng hồ cao cấp, bao gồm cận cảnh tông tối, chi tiết macro, chụp đường phố nhân vật đô thị và cảnh tĩnh sản phẩm chính.
@@ -5773,6 +5915,32 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 ## Minh họa
 
+<a name="prompt-2101577158112235568"></a>
+
+### Đang dịch
+
+Tác giả：[@sha1shashasha](https://x.com/sha1shashasha) · [Bài gốc](https://x.com/sha1shashasha/status/2101577158112235568)
+
+Minh họa · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101577158112235568-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101577158112235568-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2101577158112235568-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101233469070168278"></a>
 
 ### Hình minh họa kinh dị tâm lý siêu thực mô tả một dáng người mảnh mai trong chiếc váy ngủ màu trắng trên nền một khuôn mặt màu đỏ khổng lồ phát sáng trong bóng tối.
@@ -6414,6 +6582,28 @@ Tránh các nhân vật có bản quyền dễ nhận biết, chân dung ngườ
 <a name="category-3d-render"></a>
 
 ## Kết xuất 3D
+
+<a name="prompt-2101548945269002366"></a>
+
+### Đang dịch
+
+Tác giả：[@StatsWire](https://x.com/StatsWire) · [Bài gốc](https://x.com/StatsWire/status/2101548945269002366)
+
+Kết xuất 3D · Phương tiện · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101548945269002366.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101433530777755699"></a>
 
@@ -7516,6 +7706,28 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 <a name="category-other"></a>
 
 ## Khác
+
+<a name="prompt-2101565768932663386"></a>
+
+### Đang dịch
+
+Tác giả：[@Jr1301387296491](https://x.com/Jr1301387296491) · [Bài gốc](https://x.com/Jr1301387296491/status/2101565768932663386)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101565768932663386.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101416885312987365"></a>
 
