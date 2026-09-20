@@ -103,13 +103,13 @@ Kaçınılması gerekenler: insan vücudu, kedi kızlar, anime çizim tarzı, ç
 
 <a name="prompt-2101630333850456318"></a>
 
-### Çeviri sürüyor
+### Nötr gri arka plan üzerinde küçük bir Fransızca etiket bulunan, tamamen geri dönüştürülmüş elektroniklerden ve e-atıklardan yapılmış \[ANIMAL\] hayvanının fotogerçekçi stüdyo heykeli.
 
 Yazar：[@Weilnes](https://x.com/Weilnes) · [Orijinal gönderi](https://x.com/Weilnes/status/2101630333850456318)
 
 Fotoğrafçılık · Hayvan / Yaratık · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Nötr gri arka plan üzerinde küçük bir Fransızca etiket bulunan, tamamen geri dönüştürülmüş elektroniklerden ve e-atıklardan yapılmış \[ANIMAL\] hayvanının fotogerçekçi stüdyo heykeli.
 
 <img src="images/2101630333850456318-1.jpg" alt="Görsel 1" width="480" />
 
@@ -122,7 +122,7 @@ Fotoğrafçılık · Hayvan / Yaratık · Özet / Arka Plan · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tamamen geri dönüştürülmüş elektroniklerden ve e-atıklardan (devre kartları, klavyeler, bakır teller, uzaktan kumandalar, telefonlar, bilgisayar fareleri, CRT ekranlar, kablolar) yapılmış [ANIMAL] hayvanının fotogerçekçi stüdyo heykeli. Nötr açık gri fon, yumuşak ürün aydınlatması, hayvan olduğu açıkça anlaşılabilen karmaşık asamblaj. Konuyu adlandıran küçük Fransızca etiket (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). İngilizce yok, logo yok, filigran yok. En-boy oranı 3:4
 ```
 
 [↑ Kategorilere dön](#catalog)

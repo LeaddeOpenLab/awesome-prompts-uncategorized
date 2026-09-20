@@ -103,13 +103,13 @@ A evitar: cuerpo humano, chicas gato, estilo de dibujo anime, gatos caricaturesc
 
 <a name="prompt-2101630333850456318"></a>
 
-### Traducción en curso
+### Escultura de estudio fotorrealista de \[ANIMAL\] hecha completamente de desechos electrónicos y componentes reciclados con una pequeña etiqueta en francés sobre un fondo gris neutro.
 
 Autor：[@Weilnes](https://x.com/Weilnes) · [Publicación original](https://x.com/Weilnes/status/2101630333850456318)
 
 Fotografía · Animal / Criatura · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Escultura de estudio fotorrealista de \[ANIMAL\] hecha completamente de desechos electrónicos y componentes reciclados con una pequeña etiqueta en francés sobre un fondo gris neutro.
 
 <img src="images/2101630333850456318-1.jpg" alt="Imagen 1" width="480" />
 
@@ -122,7 +122,7 @@ Fotografía · Animal / Criatura · Resumen / Antecedentes · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Escultura de estudio fotorrealista de [ANIMAL] hecha completamente de aparatos electrónicos reciclados y desechos electrónicos (placas de circuitos, teclados, cables de cobre, mandos a distancia, teléfonos, ratones de ordenador, pantallas CRT, cables). Fondo neutro gris claro, iluminación suave de producto, intrincado ensamblaje claramente reconocible como el animal. Pequeña etiqueta en francés que nombra el sujeto (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). Sin inglés, sin logotipos, sin marcas de agua. Relación de aspecto 3:4
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -103,13 +103,13 @@ Vermeiden: menschliche Körper, Katzenmädchen, Anime-Zeichenstil, Cartoon-Katze
 
 <a name="prompt-2101630333850456318"></a>
 
-### Übersetzung läuft
+### Fotorealistische Studioskulptur von \[ANIMAL\], vollständig aus recycelter Elektronik und Elektroschrott hergestellt, mit einem kleinen französischen Etikett auf neutralem grauem Hintergrund.
 
 Autor：[@Weilnes](https://x.com/Weilnes) · [Originalbeitrag](https://x.com/Weilnes/status/2101630333850456318)
 
 Fotografie · Tier / Kreatur · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistische Studioskulptur von \[ANIMAL\], vollständig aus recycelter Elektronik und Elektroschrott hergestellt, mit einem kleinen französischen Etikett auf neutralem grauem Hintergrund.
 
 <img src="images/2101630333850456318-1.jpg" alt="Bild 1" width="480" />
 
@@ -122,7 +122,7 @@ Fotografie · Tier / Kreatur · Zusammenfassung / Hintergrund · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Fotorealistische Studioskulptur von [ANIMAL], vollständig aus recycelter Elektronik und Elektroschrott (Leiterplatten, Tastaturen, Kupferdrähte, Fernbedienungen, Telefone, Computermäuse, CRT-Bildschirme, Kabel) hergestellt. Neutraler hellgrauer Hintergrund, weiche Produktbeleuchtung, komplizierte Assemblage, die eindeutig als das Tier erkennbar ist. Kleines französisches Etikett, das das Motiv benennt (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). Kein Englisch, keine Logos, keine Wasserzeichen. Seitenverhältnis 3:4
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

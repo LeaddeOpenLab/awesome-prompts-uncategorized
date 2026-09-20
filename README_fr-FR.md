@@ -103,13 +103,13 @@ Points clés : sept vrais chats domestiques + robes noires à nuages rouges Akat
 
 <a name="prompt-2101630333850456318"></a>
 
-### Traduction en cours
+### Sculpture de studio photoréaliste de \[ANIMAL\] entièrement faite d'appareils électroniques recyclés et de déchets électroniques avec une petite étiquette en français sur un fond gris neutre.
 
 Auteur：[@Weilnes](https://x.com/Weilnes) · [Publication originale](https://x.com/Weilnes/status/2101630333850456318)
 
 Photographie · Animal / Créature · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Sculpture de studio photoréaliste de \[ANIMAL\] entièrement faite d'appareils électroniques recyclés et de déchets électroniques avec une petite étiquette en français sur un fond gris neutre.
 
 <img src="images/2101630333850456318-1.jpg" alt="Image 1" width="480" />
 
@@ -122,7 +122,7 @@ Photographie · Animal / Créature · Résumé / Contexte · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Sculpture de studio photoréaliste de [ANIMAL] entièrement fabriquée à partir d'appareils électroniques recyclés et de déchets électroniques (circuits imprimés, claviers, fils de cuivre, télécommandes, téléphones, souris d'ordinateur, écrans cathodiques, câbles). Fond gris clair neutre, éclairage doux de produit, assemblage complexe clairement lisible comme étant l'animal. Petite étiquette en français nommant le sujet (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). Pas d'anglais, pas de logos, pas de filigranes. Format d'image 3:4
 ```
 
 [↑ Retour aux catégories](#catalog)

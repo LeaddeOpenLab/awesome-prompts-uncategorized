@@ -103,13 +103,13 @@ Da evitare: corpi umani, catgirl, stile disegno anime, gatti cartoon, arti defor
 
 <a name="prompt-2101630333850456318"></a>
 
-### Traduzione in corso
+### Scultura da studio fotorealistica di \[ANIMAL\] realizzata interamente con dispositivi elettronici riciclati e rifiuti elettronici con una piccola etichetta francese su sfondo grigio neutro.
 
 Autore：[@Weilnes](https://x.com/Weilnes) · [Post originale](https://x.com/Weilnes/status/2101630333850456318)
 
 Fotografia · Animale / Creatura · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scultura da studio fotorealistica di \[ANIMAL\] realizzata interamente con dispositivi elettronici riciclati e rifiuti elettronici con una piccola etichetta francese su sfondo grigio neutro.
 
 <img src="images/2101630333850456318-1.jpg" alt="Immagine 1" width="480" />
 
@@ -122,7 +122,7 @@ Fotografia · Animale / Creatura · Abstract / Contesto · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Scultura da studio fotorealistica di [ANIMAL] realizzata interamente con dispositivi elettronici riciclati e rifiuti elettronici (circuiti stampati, tastiere, cavi di rame, telecomandi, telefoni, mouse per computer, schermi CRT, cavi). Sfondo neutro grigio chiaro, illuminazione morbida da prodotto, intricato assemblaggio chiaramente leggibile come l'animale. Piccola etichetta francese che nomina il soggetto (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). Niente inglese, niente loghi, niente filigrane. Rapporto d'aspetto 3:4
 ```
 
 [↑ Torna alle categorie](#catalog)

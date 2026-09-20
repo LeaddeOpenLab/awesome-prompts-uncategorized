@@ -103,13 +103,13 @@ Tránh: Cơ thể người, miêu nữ nhân hóa, phong cách anime, mèo hoạ
 
 <a name="prompt-2101630333850456318"></a>
 
-### Đang dịch
+### Tác phẩm điêu khắc trong studio chân thực như ảnh chụp của \[ANIMAL\] được làm hoàn toàn từ thiết bị điện tử tái chế và rác thải điện tử với nhãn nhỏ bằng tiếng Pháp trên nền xám trung tính.
 
 Tác giả：[@Weilnes](https://x.com/Weilnes) · [Bài gốc](https://x.com/Weilnes/status/2101630333850456318)
 
 Nhiếp ảnh · Động vật / Sinh vật · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tác phẩm điêu khắc trong studio chân thực như ảnh chụp của \[ANIMAL\] được làm hoàn toàn từ thiết bị điện tử tái chế và rác thải điện tử với nhãn nhỏ bằng tiếng Pháp trên nền xám trung tính.
 
 <img src="images/2101630333850456318-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -122,7 +122,7 @@ Nhiếp ảnh · Động vật / Sinh vật · Tóm tắt / Bối cảnh · Đã
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tác phẩm điêu khắc trong studio chân thực như ảnh chụp của [ANIMAL] được làm hoàn toàn từ đồ điện tử tái chế và rác thải điện tử (bo mạch, bàn phím, dây đồng, điều khiển từ xa, điện thoại, chuột máy tính, màn hình CRT, dây cáp). Phông nền màu xám nhạt trung tính, ánh sáng sản phẩm dịu nhẹ, sự lắp ráp tinh xảo có thể nhận diện rõ ràng thành hình con vật. Nhãn nhỏ bằng tiếng Pháp đặt tên cho đối tượng (le lion des circuits, le requin clavier, l'aigle télécommandes, l'ours polaire souris). Không có tiếng Anh, không có logo, không có hình mờ. Tỷ lệ khung hình 3:4
 ```
 
 [↑ Về danh mục](#catalog)
