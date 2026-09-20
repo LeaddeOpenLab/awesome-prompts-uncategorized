@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T20:23:37.067Z",
+  "model": "grok",
+  "prompt": "Tesla CyberSUV by Grok",
+  "promptTranslations": {
+    "en": "Tesla CyberSUV by Grok"
+  },
+  "summaryTranslations": {
+    "en": "Tesla CyberSUV concept car driving off-road."
+  },
+  "translationVersion": 2,
+  "summary": "Tesla CyberSUV 概念车越野行驶。",
+  "summaryEn": "A Tesla CyberSUV concept driving off-road.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101728827819135413",
+    "canonicalUrl": "https://x.com/HarveyJS/status/2101728827819135413",
+    "author": {
+      "username": "HarveyJS",
+      "displayName": "harvey",
+      "profileUrl": "https://x.com/HarveyJS"
+    },
+    "publishedAt": "2026-09-20T17:42:55.000Z",
+    "collectedAt": "2026-09-20T20:15:35.699Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nTesla CyberSUV by Grok https://t.co/ExlDhdInKb",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/HarveyJS/status/2101728827819135413",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101728813562667008/img/YoSkq73vN_s2zNm4.jpg",
+        "analysisUrl": "https://x.com/HarveyJS/status/2101728827819135413"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/HarveyJS/status/2101728827819135413",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101728813562667008/img/YoSkq73vN_s2zNm4.jpg",
+  "coverPath": "covers/2101728827819135413.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101728813562667008",
+    "x-post:2101728827819135413"
+  ],
+  "analysis": {
+    "summary": "Tesla CyberSUV 概念车越野行驶。",
+    "summaryEn": "A Tesla CyberSUV concept driving off-road.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated video depicts a Tesla-branded CyberSUV moving across rocky off-road terrain."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Tesla CyberSUV by Grok",
+    "sourceRange": {
+      "start": 22,
+      "end": 44
+    },
+    "translations": {
+      "zh": "Grok 设计的特斯拉 CyberSUV",
+      "en": "Tesla CyberSUV by Grok"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Tesla"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

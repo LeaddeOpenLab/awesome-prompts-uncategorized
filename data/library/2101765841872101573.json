@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T20:23:39.755Z",
+  "model": "unknown-video",
+  "prompt": "Colossal Attack on Titan style giant with exposed muscle and no skin standing in Earth orbit above a coastal city, one massive foot stepping into the ocean and throwing a wall of water and cloud, bald head above the atmosphere, photoreal aerial view, tiny buildings under the heel, dramatic sunlight, cinematic IMAX scale",
+  "promptTranslations": {
+    "en": "Colossal Attack on Titan style giant with exposed muscle and no skin standing in Earth orbit above a coastal city, one massive foot stepping into the ocean and throwing a wall of water and cloud, bald head above the atmosphere, photoreal aerial view, tiny buildings under the heel, dramatic sunlight, cinematic IMAX scale"
+  },
+  "summaryTranslations": {
+    "en": "Colossal Attack on Titan style giant stepping into the ocean over a coastal city from Earth orbit."
+  },
+  "translationVersion": 2,
+  "summary": "Colossal Attack on Titan style giant stepping into the ocean over a coastal city from Earth orbit.",
+  "summaryEn": "Colossal Attack on Titan style giant stepping into the ocean over a coastal city from Earth orbit.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2099566345511657974",
+      "canonicalUrl": "https://x.com/0x_fokki/status/2099566345511657974",
+      "author": {
+        "username": "0x_fokki",
+        "displayName": "Fokki",
+        "profileUrl": "https://x.com/0x_fokki"
+      },
+      "originalText": "https://t.co/tMDJJVwLSu"
+    },
+    "id": "2101765841872101573",
+    "canonicalUrl": "https://x.com/magsimich/status/2101765841872101573",
+    "author": {
+      "username": "magsimich",
+      "displayName": "magsimich",
+      "profileUrl": "https://x.com/magsimich"
+    },
+    "publishedAt": "2026-09-20T20:10:00.000Z",
+    "collectedAt": "2026-09-20T20:15:35.699Z",
+    "language": "en",
+    "originalText": "AN 11 YEAR OLD IN INDIA POSTED A 12 SECOND SHORT. 123M VIEWS. $17,300 IN UNDER A WEEK.\n\nThis is the clip\n\nA collosal titan walking on Earth. Head in the clouds. One foot crushing the coast. City under the spray.\n\nHe did not shoot it. He did not hire VFX. He made the still with AI\n\nThen he dropped that still into a video model and told it to move.\n\nPrompt for the image you are looking at:\n\nColossal Attack on Titan style giant with exposed muscle and no skin standing in Earth orbit above a coastal city, one massive foot stepping into the ocean and throwing a wall of water and cloud, bald head above the atmosphere, photoreal aerial view, tiny buildings under the heel, dramatic sunlight, cinematic IMAX scale\n\nThen the move part is even dumber. Upload that image to any AI video tool. Type animate it. Slow walk. Water exploding. Camera holding the giant in frame.\n\nThat is the whole workflow. Still. Animate. Post as a Short.\n\nKids are doing this from a phone. Studios are still sending quotes.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/magsimich/status/2101765841872101573",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101734468537188353/img/s68oySNxapCvQ5ER.jpg",
+        "analysisUrl": "https://x.com/magsimich/status/2101765841872101573"
+      }
+    ],
+    "metrics": {
+      "likeCount": 2,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/magsimich/status/2101765841872101573",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101734468537188353/img/s68oySNxapCvQ5ER.jpg",
+  "coverPath": "covers/2101765841872101573.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101734468537188353",
+    "x-post:2101765841872101573",
+    "x-post:2099566345511657974"
+  ],
+  "analysis": {
+    "summary": "Colossal Attack on Titan style giant stepping into the ocean over a coastal city from Earth orbit.",
+    "summaryEn": "Colossal Attack on Titan style giant stepping into the ocean over a coastal city from Earth orbit.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Media shows a Colossal Titan stepping into coastal water from an orbital scale exactly matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Colossal Attack on Titan style giant with exposed muscle and no skin standing in Earth orbit above a coastal city, one massive foot stepping into the ocean and throwing a wall of water and cloud, bald head above the atmosphere, photoreal aerial view, tiny buildings under the heel, dramatic sunlight, cinematic IMAX scale",
+    "sourceRange": {
+      "start": 392,
+      "end": 713
+    },
+    "translations": {
+      "zh": "进击的巨人风格的超大型巨人，肌肉外露且无皮肤，站在沿海城市上空的地球轨道上，一只巨大的脚踏入海洋激起水墙和云雾，光头位于大气层之上，写实航拍视角，脚跟下有微小建筑，戏剧性阳光，电影级IMAX规模",
+      "en": "Colossal Attack on Titan style giant with exposed muscle and no skin standing in Earth orbit above a coastal city, one massive foot stepping into the ocean and throwing a wall of water and cloud, bald head above the atmosphere, photoreal aerial view, tiny buildings under the heel, dramatic sunlight, cinematic IMAX scale"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Attack on Titan"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

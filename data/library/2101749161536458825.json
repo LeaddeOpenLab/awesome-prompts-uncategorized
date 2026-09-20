@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T20:23:33.447Z",
+  "model": "pixverse",
+  "prompt": "The Graphene Web: A materials scientist activates a vacuum chamber. Ultra-thin graphene sheets wrap around their clothes, weaving tightly into a dark, featherweight stealth suit with pulsing electric-blue kinetic lines.",
+  "promptTranslations": {
+    "en": "The Graphene Web: A materials scientist activates a vacuum chamber. Ultra-thin graphene sheets wrap around their clothes, weaving tightly into a dark, featherweight stealth suit with pulsing electric-blue kinetic lines."
+  },
+  "summaryTranslations": {
+    "en": "A materials scientist dons a dark graphene stealth suit with pulsing electric-blue lines."
+  },
+  "translationVersion": 2,
+  "summary": "A materials scientist dons a dark graphene stealth suit with pulsing electric-blue lines.",
+  "summaryEn": "A materials scientist dons a dark graphene stealth suit with pulsing electric-blue lines.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101749161536458825",
+    "canonicalUrl": "https://x.com/tappyai007/status/2101749161536458825",
+    "author": {
+      "username": "tappyai007",
+      "displayName": "Tappy",
+      "profileUrl": "https://x.com/tappyai007"
+    },
+    "publishedAt": "2026-09-20T19:03:43.000Z",
+    "collectedAt": "2026-09-20T20:15:35.699Z",
+    "language": "en",
+    "originalText": "#PromptShare (QT/ RT) :\nI'm interested to see the effect on different portraits in different AI models. No pressure!\n\nPrompt below 👇 \n\nThe Graphene Web: A materials scientist activates a vacuum chamber. Ultra-thin graphene sheets wrap around their clothes, weaving tightly into a dark, featherweight stealth suit with pulsing electric-blue kinetic lines.\n\n#TappysAIPrompt #pixverse",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/tappyai007/status/2101749161536458825",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101749143354097664/img/_pFJo1VSHTfMgD8p.jpg",
+        "analysisUrl": "https://x.com/tappyai007/status/2101749161536458825"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 90
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/tappyai007/status/2101749161536458825",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101749143354097664/img/_pFJo1VSHTfMgD8p.jpg",
+  "coverPath": "covers/2101749161536458825.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101749143354097664",
+    "x-post:2101749161536458825"
+  ],
+  "analysis": {
+    "summary": "A materials scientist dons a dark graphene stealth suit with pulsing electric-blue lines.",
+    "summaryEn": "A materials scientist dons a dark graphene stealth suit with pulsing electric-blue lines.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a scientist in a lab activating a mechanism as thin sheets wrap around her into a dark suit with glowing electric-blue lines."
+    },
+    "videoQuality": null,
+    "originalPrompt": "The Graphene Web: A materials scientist activates a vacuum chamber. Ultra-thin graphene sheets wrap around their clothes, weaving tightly into a dark, featherweight stealth suit with pulsing electric-blue kinetic lines.",
+    "sourceRange": {
+      "start": 135,
+      "end": 354
+    },
+    "translations": {
+      "zh": "石墨烯之网：一位材料科学家启动了真空室。超薄石墨烯薄片包裹住他们的衣服，紧密编织成一套轻如羽翼的深色隐身战衣，带有脉动的电光蓝动能线条。",
+      "en": "The Graphene Web: A materials scientist activates a vacuum chamber. Ultra-thin graphene sheets wrap around their clothes, weaving tightly into a dark, featherweight stealth suit with pulsing electric-blue kinetic lines."
+    },
+    "targetModels": [
+      "pixverse"
+    ],
+    "category": "text-to-video",
+    "useCase": "Sci-Fi Video Generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
