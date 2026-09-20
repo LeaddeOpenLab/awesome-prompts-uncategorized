@@ -8314,13 +8314,13 @@ Orijinal gönderi：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Orijin
 
 <a name="prompt-2101644987809018175"></a>
 
-### Çeviri sürüyor
+### Bilim müzesi örneği olarak arduvaz kayasına gömülmüş gelecek teknolojisi fosili.
 
 Yazar：[@hmontilla\_](https://x.com/hmontilla_) · [Orijinal gönderi](https://x.com/hmontilla_/status/2101644987809018175)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bilim müzesi örneği olarak arduvaz kayasına gömülmüş gelecek teknolojisi fosili.
 
 <img src="images/2101644987809018175-1.jpg" alt="Görsel 1" width="480" />
 
@@ -8333,7 +8333,7 @@ Diğer · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Açılmış bir arduvaz kayasının içinde keşfedilen [HENÜZ VAR OLMAYAN TEKNOLOJİ] fosili, nesne mineralleri, oksitlenmiş metali ve jeolojik damarlar gibi korunmuş yarı saydam devreleri birleştiriyor, bilim müzesi örneğinin ultra detaylı makro fotoğrafı, hafif üstten bakış açısı, ortalanmış kompozisyon, koyu renkli koruma masası, kontrollü sergi aydınlatması, antrasit, oksitlenmiş bakır, çok ince camgöbeği ve kehribar renk paleti, gerçekçi, gizemli ve arkeolojik olarak inandırıcı, insan yok, logo yok, okunabilir metin yok, filigran yok, 1:1 kare format
 ```
 
 [↑ Kategorilere dön](#catalog)

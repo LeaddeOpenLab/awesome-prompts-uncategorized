@@ -8382,13 +8382,13 @@ Bài gốc：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Bài gốc](h
 
 <a name="prompt-2101644987809018175"></a>
 
-### Đang dịch
+### Hóa thạch công nghệ tương lai được nhúng trong đá phiến như một mẫu vật bảo tàng khoa học.
 
 Tác giả：[@hmontilla\_](https://x.com/hmontilla_) · [Bài gốc](https://x.com/hmontilla_/status/2101644987809018175)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hóa thạch công nghệ tương lai được nhúng trong đá phiến như một mẫu vật bảo tàng khoa học.
 
 <img src="images/2101644987809018175-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -8401,7 +8401,7 @@ Khác · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hóa thạch của [CÔNG NGHỆ CHƯA TỒN TẠI] được phát hiện bên trong một tảng đá phiến nứt mở, vật thể kết hợp giữa khoáng vật, kim loại bị oxy hóa và các vi mạch mờ ảo được bảo tồn như những mạch địa chất, ảnh chụp macro siêu chi tiết về một mẫu vật bảo tàng khoa học, góc nhìn hơi chếch từ trên xuống, bố cục trung tâm, bàn bảo quản màu tối, ánh sáng trưng bày có kiểm soát, bảng màu than chì, đồng oxy hóa, điểm xuyết lục lam và hổ phách rất tinh tế, chân thực, bí ẩn và đáng tin cậy về mặt khảo cổ học, không có người, không có logo, không có văn bản đọc được, không có watermark, định dạng vuông 1:1
 ```
 
 [↑ Về danh mục](#catalog)

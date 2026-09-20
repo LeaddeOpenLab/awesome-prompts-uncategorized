@@ -8382,13 +8382,13 @@ Traducción en curso
 
 <a name="prompt-2101644987809018175"></a>
 
-### Traducción en curso
+### Fósil de tecnología futura incrustado en roca de pizarra como espécimen de museo científico.
 
 Autor：[@hmontilla\_](https://x.com/hmontilla_) · [Publicación original](https://x.com/hmontilla_/status/2101644987809018175)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Fósil de tecnología futura incrustado en roca de pizarra como espécimen de museo científico.
 
 <img src="images/2101644987809018175-1.jpg" alt="Imagen 1" width="480" />
 
@@ -8401,7 +8401,7 @@ Otros · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Fósil de [TECNOLOGÍA QUE AÚN NO EXISTE] descubierto dentro de una roca de pizarra abierta, el objeto combina minerales, metal oxidado y circuitos translúcidos preservados como vetas geológicas, fotografía macro ultradetallada de espécimen de museo científico, vista ligeramente cenital, composición centrada, mesa oscura de conservación, iluminación controlada de exhibición, paleta carbón, cobre oxidado, cian y ámbar muy sutiles, realista, misterioso y arqueológicamente creíble, sin personas, sin logos, sin texto legible, sin marcas de agua, formato cuadrado 1:1
 ```
 
 [↑ Volver a categorías](#catalog)

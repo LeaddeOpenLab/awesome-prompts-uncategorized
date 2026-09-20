@@ -8319,13 +8319,13 @@ Traduzione in corso
 
 <a name="prompt-2101644987809018175"></a>
 
-### Traduzione in corso
+### Fossile di tecnologia futura incastonato nella roccia di ardesia come reperto da museo scientifico.
 
 Autore：[@hmontilla\_](https://x.com/hmontilla_) · [Post originale](https://x.com/hmontilla_/status/2101644987809018175)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Fossile di tecnologia futura incastonato nella roccia di ardesia come reperto da museo scientifico.
 
 <img src="images/2101644987809018175-1.jpg" alt="Immagine 1" width="480" />
 
@@ -8338,7 +8338,7 @@ Altro · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Fossile di [TECNOLOGIA CHE ANCORA NON ESISTE] scoperto all'interno di una roccia di ardesia spaccata, l'oggetto unisce minerali, metallo ossidato e circuiti traslucidi preservati come venature geologiche, fotografia macro ultradettagliata di un reperto da museo scientifico, vista leggermente zenitale, composizione centrata, tavolo da conservazione scuro, illuminazione controllata da esposizione, tavolozza antracite, rame ossidato, ciano e ambra molto sottili, realistico, misterioso e archeologicamente credibile, senza persone, senza loghi, senza testo leggibile, senza filigrane, formato quadrato 1:1
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -8314,13 +8314,13 @@ Tradução em curso
 
 <a name="prompt-2101644987809018175"></a>
 
-### Tradução em curso
+### Fóssil de tecnologia futura incrustado em rocha de ardósia como espécime de museu científico.
 
 Autor：[@hmontilla\_](https://x.com/hmontilla_) · [Publicação original](https://x.com/hmontilla_/status/2101644987809018175)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Fóssil de tecnologia futura incrustado em rocha de ardósia como espécime de museu científico.
 
 <img src="images/2101644987809018175-1.jpg" alt="Imagem 1" width="480" />
 
@@ -8333,7 +8333,7 @@ Outros · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+Fóssil de [TECNOLOGIA QUE AINDA NÃO EXISTE] descoberto dentro de uma rocha de ardósia aberta, o objeto combina minerais, metal oxidado e circuitos translúcidos preservados como veios geológicos, fotografia macro ultradetalhada de espécime de museu científico, vista ligeiramente zenital, composição centrada, mesa escura de conservação, iluminação controlada de exposição, paleta de carvão, cobre oxidado, ciano e âmbar muito subtis, realista, misterioso e arqueologicamente credível, sem pessoas, sem logótipos, sem texto legível, sem marcas de água, formato quadrado 1:1
 ```
 
 [↑ Voltar às categorias](#catalog)

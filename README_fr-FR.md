@@ -8319,13 +8319,13 @@ Traduction en cours
 
 <a name="prompt-2101644987809018175"></a>
 
-### Traduction en cours
+### Fossile de technologie future incrusté dans une roche de schiste en tant que spécimen de musée scientifique.
 
 Auteur：[@hmontilla\_](https://x.com/hmontilla_) · [Publication originale](https://x.com/hmontilla_/status/2101644987809018175)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Fossile de technologie future incrusté dans une roche de schiste en tant que spécimen de musée scientifique.
 
 <img src="images/2101644987809018175-1.jpg" alt="Image 1" width="480" />
 
@@ -8338,7 +8338,7 @@ Autres · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Fossile d'une [TECHNOLOGIE QUI N'EXISTE PAS ENCORE] découvert à l'intérieur d'une roche de schiste brisée, l'objet combine des minéraux, du métal oxydé et des circuits translucides préservés comme des veines géologiques, photographie macro ultra-détaillée d'un spécimen de musée scientifique, vue légèrement zénithale, composition centrée, table de conservation sombre, éclairage d'exposition contrôlé, palette de charbon, cuivre oxydé, cyan et ambre très subtils, réaliste, mystérieux et archéologiquement crédible, sans personnes, sans logos, sans texte lisible, sans filigranes, format carré 1:1
 ```
 
 [↑ Retour aux catégories](#catalog)

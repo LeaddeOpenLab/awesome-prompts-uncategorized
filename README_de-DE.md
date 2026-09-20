@@ -8319,13 +8319,13 @@ Originalbeitrag：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Original
 
 <a name="prompt-2101644987809018175"></a>
 
-### Übersetzung läuft
+### In Schiefergestein eingebettetes Fossil zukünftiger Technologie als wissenschaftliches Museumsexponat.
 
 Autor：[@hmontilla\_](https://x.com/hmontilla_) · [Originalbeitrag](https://x.com/hmontilla_/status/2101644987809018175)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** In Schiefergestein eingebettetes Fossil zukünftiger Technologie als wissenschaftliches Museumsexponat.
 
 <img src="images/2101644987809018175-1.jpg" alt="Bild 1" width="480" />
 
@@ -8338,7 +8338,7 @@ Sonstige · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Fossil einer [NOCH NICHT EXISTIERENDEN TECHNOLOGIE], entdeckt in einem aufgebrochenen Schiefergestein, das Objekt kombiniert Mineralien, oxidiertes Metall und lichtdurchlässige Schaltkreise, die wie geologische Adern erhalten sind, hochdetaillierte Makrofotografie eines wissenschaftlichen Museumsexponats, leichte Draufsicht, zentrierte Komposition, dunkler Konservierungstisch, kontrollierte Ausstellungsbeleuchtung, Farbpalette aus Anthrazit, oxidiertem Kupfer, sehr dezentem Cyan und Bernstein, realistisch, geheimnisvoll und archäologisch glaubwürdig, keine Personen, keine Logos, kein lesbarer Text, keine Wasserzeichen, quadratisches 1:1-Format
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
