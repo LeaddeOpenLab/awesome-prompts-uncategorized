@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:23:15.463Z",
+  "model": "grok",
+  "prompt": "金髪の須賀京太郎君は男の子、アニメ風の少年スタイル。黒髪のカルストンライトオウは女の子のウマ娘、ウマ娘スタイル",
+  "promptTranslations": {
+    "en": "Kyotaro Suga with blonde hair is a boy, anime-style young boy look. Calstone Light O with black hair is an Uma Musume girl, Uma Musume style"
+  },
+  "summaryTranslations": {
+    "en": "An illustration of a blonde anime-style young boy and a black-haired Uma Musume character."
+  },
+  "translationVersion": 2,
+  "summary": "金髪のアニメ風少年と黒髪のウマ娘キャラクターのイラスト。",
+  "summaryEn": "Anime illustration of a blonde boy and a black-haired Umamusume girl.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101422388022046935",
+    "canonicalUrl": "https://x.com/AUrbNUMjfxj85IS/status/2101422388022046935",
+    "author": {
+      "username": "AUrbNUMjfxj85IS",
+      "displayName": "グリモア新作アプリを楽しみに待ちソシャゲは容量が少ない方が助かると思う者",
+      "profileUrl": "https://x.com/AUrbNUMjfxj85IS"
+    },
+    "publishedAt": "2026-09-19T21:25:14.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n金髪の須賀京太郎君は男の子、アニメ風の少年スタイル。黒髪のカルストンライトオウは女の子のウマ娘、ウマ娘スタイル https://t.co/EdNRSvSgqI",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSnAhgEbIAAi3qX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSnAhgEbIAAi3qX.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 18
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AUrbNUMjfxj85IS/status/2101422388022046935",
+  "coverUrl": "https://pbs.twimg.com/media/HSnAhgEbIAAi3qX.jpg",
+  "coverPath": "images/2101422388022046935-1.jpg",
+  "imagePaths": [
+    "images/2101422388022046935-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSnAhgEbIAAi3qX",
+    "x-post:2101422388022046935"
+  ],
+  "analysis": {
+    "summary": "金髪のアニメ風少年と黒髪のウマ娘キャラクターのイラスト。",
+    "summaryEn": "Anime illustration of a blonde boy and a black-haired Umamusume girl.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画像には金髪の少年と馬耳を持つ黒髪の少女がアニメスタイルで描かれており、プロンプトの指定と完全に一致しています。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "金髪の須賀京太郎君は男の子、アニメ風の少年スタイル。黒髪のカルストンライトオウは女の子のウマ娘、ウマ娘スタイル",
+    "sourceRange": {
+      "start": 22,
+      "end": 77
+    },
+    "translations": {
+      "zh": "金发的须贺京太郎是个男孩子，动漫少年风格。黑发的卡斯通盛泉是个女孩子赛马娘，赛马娘风格",
+      "en": "Blonde Kyotaro Suga is a boy in anime boy style. Black-haired Calstone Light O is an Umamusume girl in Umamusume style."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "character",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "ウマ娘 (Umamusume)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

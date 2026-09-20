@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:22:47.482Z",
+  "model": "unknown-image",
+  "prompt": "Baroque oil painting of [SUBJECT], partial ornate gold frame, dramatic old-master light, sliced with digital glitch: RGB split, scanlines, pixel shatter",
+  "promptTranslations": {
+    "en": "Baroque oil painting of [SUBJECT], partial ornate gold frame, dramatic old-master light, sliced with digital glitch: RGB split, scanlines, pixel shatter"
+  },
+  "summaryTranslations": {
+    "en": "Baroque oil painting template infused with digital glitch effects including RGB split and pixel shattering."
+  },
+  "translationVersion": 2,
+  "summary": "Baroque oil painting template infused with digital glitch effects including RGB split and pixel shattering.",
+  "summaryEn": "Baroque oil painting template infused with digital glitch effects including RGB split and pixel shattering.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101423231081107581",
+    "canonicalUrl": "https://x.com/L4STD4ZE/status/2101423231081107581",
+    "author": {
+      "username": "L4STD4ZE",
+      "displayName": "L4STD4ZE",
+      "profileUrl": "https://x.com/L4STD4ZE"
+    },
+    "publishedAt": "2026-09-19T21:28:35.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "en",
+    "originalText": "One Prompt. Baroque Glitch. ✨️\n\nBaroque oil painting of [SUBJECT], partial ornate gold frame, dramatic old-master light, sliced with digital glitch: RGB split, scanlines, pixel shatter\n\nCopy it. Make it yours.\n\nShow off your results below. 👇\n\n#PromptShare #AIArt https://t.co/HTVcUBEA5p",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSnBSkDXUAAJAOE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSnBSkDXUAAJAOE.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 31,
+      "repostCount": 5,
+      "replyCount": 15,
+      "quoteCount": 4,
+      "viewCount": 684
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/L4STD4ZE/status/2101423231081107581",
+  "coverUrl": "https://pbs.twimg.com/media/HSnBSkDXUAAJAOE.jpg",
+  "coverPath": "images/2101423231081107581-1.jpg",
+  "imagePaths": [
+    "images/2101423231081107581-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSnBSkDXUAAJAOE",
+    "x-post:2101423231081107581"
+  ],
+  "analysis": {
+    "summary": "Baroque oil painting template infused with digital glitch effects including RGB split and pixel shattering.",
+    "summaryEn": "Baroque oil painting template infused with digital glitch effects including RGB split and pixel shattering.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image matches prompt: a baroque portrait featuring an ornate gold frame sliced by digital RGB glitch and pixel shatter."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Baroque oil painting of [SUBJECT], partial ornate gold frame, dramatic old-master light, sliced with digital glitch: RGB split, scanlines, pixel shatter",
+    "sourceRange": {
+      "start": 32,
+      "end": 184
+    },
+    "translations": {
+      "zh": "【主体】的巴洛克油画，局部华丽金色画框，戏剧性古典大师光影，切入数字故障：RGB色彩分离、扫描线、像素破碎",
+      "en": "Baroque oil painting of [SUBJECT], partial ornate gold frame, dramatic old-master light, sliced with digital glitch: RGB split, scanlines, pixel shatter"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

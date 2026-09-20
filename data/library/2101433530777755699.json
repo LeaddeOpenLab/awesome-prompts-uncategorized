@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:22:51.447Z",
+  "model": "unknown-video",
+  "prompt": "Design and create a very creative, elaborate, and detailed voxel art scene of the Eiffel tower in a beautiful garden with the city around it at night, including some lights and animations. Make the scene impressive and varied and use colorful voxels. Use whatever libraries to get this done but make sure I can paste it all into a single HTML file.",
+  "promptTranslations": {
+    "en": "Design and create a very creative, elaborate, and detailed voxel art scene of the Eiffel tower in a beautiful garden with the city around it at night, including some lights and animations. Make the scene impressive and varied and use colorful voxels. Use whatever libraries to get this done but make sure I can paste it all into a single HTML file."
+  },
+  "summaryTranslations": {
+    "en": "Prompt to generate a detailed 3D voxel Eiffel Tower night scene with animations in a single HTML file."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt to generate a detailed 3D voxel Eiffel Tower night scene with animations in a single HTML file.",
+  "summaryEn": "Prompt to generate a detailed 3D voxel Eiffel Tower night scene with animations in a single HTML file.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101433530777755699",
+    "canonicalUrl": "https://x.com/PeasantSmith/status/2101433530777755699",
+    "author": {
+      "username": "PeasantSmith",
+      "displayName": "Peasant Smith",
+      "profileUrl": "https://x.com/PeasantSmith"
+    },
+    "publishedAt": "2026-09-19T22:09:31.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "en",
+    "originalText": "Qwen3.8 Flash Next (xHigh) on a used Tesla V100 32GB VRAM PCIe\n\n🟨CPU+RAM Offload\n💾256k ctx \n🐌19.37 t/s decode\n💭1 hour thinking \n⏱️1h37 min total task (2 runs as the first run had code issues and the model used the second run to fix them)\n📝162599 output tokens \n🪄364 lines of code → an interactive Voxel Paris (Eiffel Tower at night, Three.js/WebGL)\n\nQuant: UD-IQ4_XS\nParameters: temperature=1.0, top_p=0.95, top_k=20, min_p=0.0, presence_penalty=0.0, repetition_penalty=1.0\n\nTools: Ollama + Open WebUI\n\nPrompt: Design and create a very creative, elaborate, and detailed voxel art scene of the Eiffel tower in a beautiful garden with the city around it at night, including some lights and animations. Make the scene impressive and varied and use colorful voxels. Use whatever libraries to get this done but make sure I can paste it all into a single HTML file.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PeasantSmith/status/2101433530777755699",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101431221028835328/img/TcqW0PwZPaMBd-sQ.jpg",
+        "analysisUrl": "https://x.com/PeasantSmith/status/2101433530777755699"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 1,
+      "replyCount": 10,
+      "quoteCount": 1,
+      "viewCount": 374
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/PeasantSmith/status/2101433530777755699",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101431221028835328/img/TcqW0PwZPaMBd-sQ.jpg",
+  "coverPath": "covers/2101433530777755699.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101431221028835328",
+    "x-post:2101433530777755699"
+  ],
+  "analysis": {
+    "summary": "Prompt to generate a detailed 3D voxel Eiffel Tower night scene with animations in a single HTML file.",
+    "summaryEn": "Prompt to generate a detailed 3D voxel Eiffel Tower night scene with animations in a single HTML file.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video demonstrates an interactive 3D WebGL voxel Eiffel Tower at night surrounded by gardens and city lights, matching the prompt requirements."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Design and create a very creative, elaborate, and detailed voxel art scene of the Eiffel tower in a beautiful garden with the city around it at night, including some lights and animations. Make the scene impressive and varied and use colorful voxels. Use whatever libraries to get this done but make sure I can paste it all into a single HTML file.",
+    "sourceRange": {
+      "start": 511,
+      "end": 859
+    },
+    "translations": {
+      "zh": "设计并创作一个极其富有创意、精致且细节丰富的埃菲尔铁塔体素艺术场景，其坐落于美丽的花园中，周围环绕着夜晚的城市，包含部分灯光与动画效果。让场景令人印象深刻且富有多样性，并使用色彩斑斓的体素。可任意使用相关库来完成，但确保能整体整合进单个 HTML 文件中。",
+      "en": "Design and create a very creative, elaborate, and detailed voxel art scene of the Eiffel tower in a beautiful garden with the city around it at night, including some lights and animations. Make the scene impressive and varied and use colorful voxels. Use whatever libraries to get this done but make sure I can paste it all into a single HTML file."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-3d",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

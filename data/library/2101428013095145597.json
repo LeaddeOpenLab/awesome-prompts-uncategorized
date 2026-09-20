@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:24:11.920Z",
+  "model": "grok",
+  "prompt": "Full-body portrait of a majestic fantasy queen standing gracefully on stone terrace stairs surrounded by scattered autumn leaves at twilight. She wears an opulent dark emerald green corset dress embellished with elaborate gold leaf embroidery and crimson jewel accents, featuring a daring high thigh slit and a sweeping burgundy velvet cape adorned with gold floral patterns. Her long, dark wavy hair is crowned with an intricate golden tiara, complemented by matching dangling earrings and jeweled strappy golden heels. In the background, an illuminated grand medieval fantasy castle stands against a dark evening sky, framed by warm glowing lanterns, stone balustrades, and a deep red heraldic banner featuring a golden lion crest. Ultra-detailed, cinematic atmospheric lighting, rich autumnal color palette.",
+  "promptTranslations": {
+    "en": "Full-body portrait of a majestic fantasy queen standing gracefully on stone terrace stairs surrounded by scattered autumn leaves at twilight. She wears an opulent dark emerald green corset dress embellished with elaborate gold leaf embroidery and crimson jewel accents, featuring a daring high thigh slit and a sweeping burgundy velvet cape adorned with gold floral patterns. Her long, dark wavy hair is crowned with an intricate golden tiara, complemented by matching dangling earrings and jeweled strappy golden heels. In the background, an illuminated grand medieval fantasy castle stands against a dark evening sky, framed by warm glowing lanterns, stone balustrades, and a deep red heraldic banner featuring a golden lion crest. Ultra-detailed, cinematic atmospheric lighting, rich autumnal color palette."
+  },
+  "summaryTranslations": {
+    "en": "Full-body portrait of a fantasy queen on castle terrace stairs in autumn at twilight."
+  },
+  "translationVersion": 2,
+  "summary": "Full-body portrait of a fantasy queen on castle terrace stairs in autumn at twilight.",
+  "summaryEn": "Full-body portrait of a fantasy queen on castle terrace stairs in autumn at twilight.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101428013095145597",
+    "canonicalUrl": "https://x.com/TaliaAariz/status/2101428013095145597",
+    "author": {
+      "username": "TaliaAariz",
+      "displayName": "Talia",
+      "profileUrl": "https://x.com/TaliaAariz"
+    },
+    "publishedAt": "2026-09-19T21:47:35.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "en",
+    "originalText": "Reigning over the twilight hours where crimson velvet gold leaf and emerald shadows meet regal majesty. \n\nCreated with Grok Imagine Image\n\nPrompt:\n\nFull-body portrait of a majestic fantasy queen standing gracefully on stone terrace stairs surrounded by scattered autumn leaves at twilight. She wears an opulent dark emerald green corset dress embellished with elaborate gold leaf embroidery and crimson jewel accents, featuring a daring high thigh slit and a sweeping burgundy velvet cape adorned with gold floral patterns. Her long, dark wavy hair is crowned with an intricate golden tiara, complemented by matching dangling earrings and jeweled strappy golden heels. In the background, an illuminated grand medieval fantasy castle stands against a dark evening sky, framed by warm glowing lanterns, stone balustrades, and a deep red heraldic banner featuring a golden lion crest. Ultra-detailed, cinematic atmospheric lighting, rich autumnal color palette.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSnFoIIWQAEOhPo.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSnFoIIWQAEOhPo.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSnFoIKX0AMN8eE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSnFoIKX0AMN8eE.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSnFoLLWwAAib7S.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSnFoLLWwAAib7S.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSnFoITW4AEwS2W.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSnFoITW4AEwS2W.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 0,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 184
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TaliaAariz/status/2101428013095145597",
+  "coverUrl": "https://pbs.twimg.com/media/HSnFoIIWQAEOhPo.jpg",
+  "coverPath": "images/2101428013095145597-1.jpg",
+  "imagePaths": [
+    "images/2101428013095145597-1.jpg",
+    "images/2101428013095145597-2.jpg",
+    "images/2101428013095145597-3.jpg",
+    "images/2101428013095145597-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSnFoIIWQAEOhPo",
+    "x-image:/media/HSnFoIKX0AMN8eE",
+    "x-image:/media/HSnFoLLWwAAib7S",
+    "x-image:/media/HSnFoITW4AEwS2W",
+    "x-post:2101428013095145597"
+  ],
+  "analysis": {
+    "summary": "Full-body portrait of a fantasy queen on castle terrace stairs in autumn at twilight.",
+    "summaryEn": "Full-body portrait of a fantasy queen on castle terrace stairs in autumn at twilight.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The images precisely depict the full-body queen in an emerald dress with a high slit, velvet cape, gold crown, stone stairs with autumn leaves, glowing lamps, and a medieval castle with a golden lion banner in the background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Full-body portrait of a majestic fantasy queen standing gracefully on stone terrace stairs surrounded by scattered autumn leaves at twilight. She wears an opulent dark emerald green corset dress embellished with elaborate gold leaf embroidery and crimson jewel accents, featuring a daring high thigh slit and a sweeping burgundy velvet cape adorned with gold floral patterns. Her long, dark wavy hair is crowned with an intricate golden tiara, complemented by matching dangling earrings and jeweled strappy golden heels. In the background, an illuminated grand medieval fantasy castle stands against a dark evening sky, framed by warm glowing lanterns, stone balustrades, and a deep red heraldic banner featuring a golden lion crest. Ultra-detailed, cinematic atmospheric lighting, rich autumnal color palette.",
+    "sourceRange": {
+      "start": 148,
+      "end": 958
+    },
+    "translations": {
+      "zh": "全身肖像，一位威严的奇幻女王优雅地伫立在暮色中的石阶露台上，周围落叶纷飞。她身穿华丽的深墨绿束腰长裙，缀有精细的金箔刺绣和深红宝石装饰，开衩高挑，外披带有金色花卉纹饰的酒红色天鹅绒斗篷。深色长卷发佩戴精美金冠，配有相衬的耳坠与珠宝细带高跟鞋。背景为暮色下灯火辉煌的中世纪奇幻城堡、温暖的提灯、石栏杆以及饰有金狮纹章的深红旗帜。极致细节，电影级氛围光效，浓郁秋季色调。",
+      "en": "Full-body portrait of a majestic fantasy queen standing gracefully on stone terrace stairs surrounded by scattered autumn leaves at twilight. She wears an opulent dark emerald green corset dress embellished with elaborate gold leaf embroidery and crimson jewel accents, featuring a daring high thigh slit and a sweeping burgundy velvet cape adorned with gold floral patterns. Her long, dark wavy hair is crowned with an intricate golden tiara, complemented by matching dangling earrings and jeweled strappy golden heels. In the background, an illuminated grand medieval fantasy castle stands against a dark evening sky, framed by warm glowing lanterns, stone balustrades, and a deep red heraldic banner featuring a golden lion crest. Ultra-detailed, cinematic atmospheric lighting, rich autumnal color palette."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait photography and character design for a fantasy queen in an autumnal medieval castle setting.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.98,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

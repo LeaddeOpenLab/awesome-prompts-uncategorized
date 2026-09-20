@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:22:54.962Z",
+  "model": "grok",
+  "prompt": "东亚壮硕熟男，只穿紧身内裤，脚很壮，没有皱纹，有少量性感体毛，胸部很凸很圆，乳头突出，表情豪放开心",
+  "promptTranslations": {
+    "en": "Muscular mature East Asian man, wearing only tight briefs, very strong muscular legs, wrinkle-free, light sexy body hair, very prominent and round chest, protruding nipples, bold and cheerful happy expression"
+  },
+  "summaryTranslations": {
+    "en": "Dynamic bodybuilding scene of a muscular mature East Asian man wearing tight briefs"
+  },
+  "translationVersion": 2,
+  "summary": "穿紧身内裤的壮硕东亚熟男健美动态画面",
+  "summaryEn": "Dynamic shot of a muscular mature East Asian man in briefs",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101425970817167835",
+    "canonicalUrl": "https://x.com/Bernd0202/status/2101425970817167835",
+    "author": {
+      "username": "Bernd0202",
+      "displayName": "Bernd",
+      "profileUrl": "https://x.com/Bernd0202"
+    },
+    "publishedAt": "2026-09-19T21:39:28.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "zh",
+    "originalText": "Grok Imagine prompt:\n\n东亚壮硕熟男，只穿紧身内裤，脚很壮，没有皱纹，有少量性感体毛，胸部很凸很圆，乳头突出，表情豪放开心 https://t.co/J2GveG7yUz",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Bernd0202/status/2101425970817167835",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101425952983068672/img/4sWobJbUXGxaubgQ.jpg",
+        "analysisUrl": "https://x.com/Bernd0202/status/2101425970817167835"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 5
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Bernd0202/status/2101425970817167835",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101425952983068672/img/4sWobJbUXGxaubgQ.jpg",
+  "coverPath": "covers/2101425970817167835.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101425952983068672",
+    "x-post:2101425970817167835"
+  ],
+  "analysis": {
+    "summary": "穿紧身内裤的壮硕东亚熟男健美动态画面",
+    "summaryEn": "Dynamic shot of a muscular mature East Asian man in briefs",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面主体为穿紧身内裤健硕东亚男性，肌肉体态及开怀表情与提示词一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "东亚壮硕熟男，只穿紧身内裤，脚很壮，没有皱纹，有少量性感体毛，胸部很凸很圆，乳头突出，表情豪放开心",
+    "sourceRange": {
+      "start": 22,
+      "end": 71
+    },
+    "translations": {
+      "zh": "东亚壮硕熟男，只穿紧身内裤，脚很壮，没有皱纹，有少量性感体毛，胸部很凸很圆，乳头突出，表情豪放开心",
+      "en": "Muscular mature East Asian man, wearing only tight briefs, strong legs, smooth skin, light body hair, prominent chest, laughing boldly"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "character_design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "nsfw_mild"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

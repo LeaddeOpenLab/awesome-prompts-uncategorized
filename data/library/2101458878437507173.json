@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:23:58.020Z",
+  "model": "grok",
+  "prompt": "雨天なので、タクシー🚕で東京ゲームショウにむかう。",
+  "promptTranslations": {
+    "en": "Because it's raining, taking a taxi 🚕 to head to the Tokyo Game Show."
+  },
+  "summaryTranslations": {
+    "en": "A first-person account of taking a taxi to the Tokyo Game Show on a rainy day."
+  },
+  "translationVersion": 2,
+  "summary": "雨天坐出租车前往东京电玩展的自述场景。",
+  "summaryEn": "A passenger taking a taxi to Tokyo Game Show in the rain.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101458878437507173",
+    "canonicalUrl": "https://x.com/ahTama/status/2101458878437507173",
+    "author": {
+      "username": "ahTama",
+      "displayName": "嗚呼タマ",
+      "profileUrl": "https://x.com/ahTama"
+    },
+    "publishedAt": "2026-09-19T23:50:14.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n雨天なので、タクシー🚕で東京ゲームショウにむかう。 https://t.co/UMXG1qlthI",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ahTama/status/2101458878437507173",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101458815199891456/img/Q70omZdJFHlKhVEw.jpg",
+        "analysisUrl": "https://x.com/ahTama/status/2101458878437507173"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 136
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ahTama/status/2101458878437507173",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101458815199891456/img/Q70omZdJFHlKhVEw.jpg",
+  "coverPath": "covers/2101458878437507173.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101458815199891456",
+    "x-post:2101458878437507173"
+  ],
+  "analysis": {
+    "summary": "雨天坐出租车前往东京电玩展的自述场景。",
+    "summaryEn": "A passenger taking a taxi to Tokyo Game Show in the rain.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频呈现一名男子在雨天的出租车后座自述并前往东京电玩展，与提示词描述完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "雨天なので、タクシー🚕で東京ゲームショウにむかう。",
+    "sourceRange": {
+      "start": 22,
+      "end": 47
+    },
+    "translations": {
+      "zh": "因为下雨，所以坐出租车去东京电玩展。",
+      "en": "Because it's raining, taking a taxi to Tokyo Game Show."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "creative",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

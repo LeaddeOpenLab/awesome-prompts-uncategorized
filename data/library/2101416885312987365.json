@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:24:16.319Z",
+  "model": "grok",
+  "prompt": "Remove the mum and put a statue of Joe Paterno",
+  "promptTranslations": {
+    "en": "Remove the mum and put a statue of Joe Paterno"
+  },
+  "summaryTranslations": {
+    "en": "Remove the mum and put a statue of Joe Paterno"
+  },
+  "translationVersion": 2,
+  "summary": "Remove the mum and put a statue of Joe Paterno",
+  "summaryEn": "Remove the mum and put a statue of Joe Paterno",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101416885312987365",
+    "canonicalUrl": "https://x.com/TomTxd101/status/2101416885312987365",
+    "author": {
+      "username": "TomTxd101",
+      "displayName": "The OBSERVER",
+      "profileUrl": "https://x.com/TomTxd101"
+    },
+    "publishedAt": "2026-09-19T21:03:22.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nRemove the mum and put a statue of Joe Paterno https://t.co/UXomGeTYQS",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/TomTxd101/status/2101416885312987365",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101416868586127360/img/X2ORJ3f5ZV-AQyPl.jpg",
+        "analysisUrl": "https://x.com/TomTxd101/status/2101416885312987365"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 12
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/TomTxd101/status/2101416885312987365",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101416868586127360/img/X2ORJ3f5ZV-AQyPl.jpg",
+  "coverPath": "covers/2101416885312987365.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101416868586127360",
+    "x-post:2101416885312987365"
+  ],
+  "analysis": {
+    "summary": "Remove the mum and put a statue of Joe Paterno",
+    "summaryEn": "Remove the mum and put a statue of Joe Paterno",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频呈现了将壁龛中的菊花盆栽移出并替换为乔·帕特诺全身雕像的动画过程，与指令严格吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Remove the mum and put a statue of Joe Paterno",
+    "sourceRange": {
+      "start": 22,
+      "end": 68
+    },
+    "translations": {
+      "zh": "移走菊花，换上乔·帕特诺的雕像",
+      "en": "Remove the mum and put a statue of Joe Paterno"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "image-to-video",
+    "useCase": "视频主体替换与编辑",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Joe Paterno (public figure / statue likeness)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

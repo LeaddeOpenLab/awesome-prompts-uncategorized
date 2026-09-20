@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-20T00:23:00.859Z",
+  "model": "grok",
+  "prompt": "The video must show: [C/M] walking in place, the camera rotating around him to show off different angles of how [C/M] is walking. Character test scene.\nThe video must use: realistic [hair type] mens hair animation, realistic clothing animations, realistic walking animations, 0 limping, 0 jumping, 0 skipping, one foot in front of the other, slow hunters walk, with mild shoulder movement matching, realistic human skeleton animation, 0 rubber joints, 0 disconnected limbs, 0 disconnected shapes, quick camera cuts, an up-down angle, an down-up angle, a walk by cut, ending the full walking scene by zooming in on [C/M] face as [C/M] gives a partial semi half smile smile to the viewer, Hollywood level production quality, Hollywood level camera work, realistic expressions, object placement recognition, object placement tracking, character placement recognition, character placement tracking, 0 talking, 0 voice over, dark, slow, instrumental, phonk music, do not remove items, do not give [C/M] feminine aspects, do not give [C/M] feminine hair.",
+  "promptTranslations": {
+    "en": "The video must show: [C/M] walking in place, the camera rotating around him to show off different angles of how [C/M] is walking. Character test scene.\\nThe video must use: realistic [hair type] mens hair animation, realistic clothing animations, realistic walking animations, 0 limping, 0 jumping, 0 skipping, one foot in front of the other, slow hunters walk, with mild shoulder movement matching, realistic human skeleton animation, 0 rubber joints, 0 disconnected limbs, 0 disconnected shapes, quick camera cuts, an up-down angle, an down-up angle, a walk by cut, ending the full walking scene by zooming in on [C/M] face as [C/M] gives a partial semi half smile smile to the viewer, Hollywood level production quality, Hollywood level camera work, realistic expressions, object placement recognition, object placement tracking, character placement recognition, character placement tracking, 0 talking, 0 voice over, dark, slow, instrumental, phonk music, do not remove items, do not give [C/M] feminine aspects, do not give [C/M] feminine hair."
+  },
+  "summaryTranslations": {
+    "en": "A prompt for a realistic 360-degree character walking test with camera cuts and a final zoom-in smile."
+  },
+  "translationVersion": 2,
+  "summary": "A prompt for a realistic 360-degree character walking test with camera cuts and a final zoom-in smile.",
+  "summaryEn": "A prompt for a realistic 360-degree character walking test with camera cuts and a final zoom-in smile.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101446310935060529",
+    "canonicalUrl": "https://x.com/EtoileAniko/status/2101446310935060529",
+    "author": {
+      "username": "EtoileAniko",
+      "displayName": "VsArt.AI",
+      "profileUrl": "https://x.com/EtoileAniko"
+    },
+    "publishedAt": "2026-09-19T23:00:18.000Z",
+    "collectedAt": "2026-09-20T00:16:23.524Z",
+    "language": "en",
+    "originalText": "Now that I have gotten all the rampaging creation needs out of me for today, maybe I can focus on a Caturday thing lol, maybe.\n\nPrompt below for those interested.\n\nThe walk in the prompt works just fine, I think Dimitri D Don is just so pretty Grok keeps mistaking him for a woman. Took me a while to get that part to stop happening. Feel free to adjust whatever desired, this is just to help smooth walking animations, as much as I can anyway.\n\nDimitris Walk\nThe video must show: [C/M] walking in place, the camera rotating around him to show off different angles of how [C/M] is walking. Character test scene.\nThe video must use: realistic [hair type] mens hair animation, realistic clothing animations, realistic walking animations, 0 limping, 0 jumping, 0 skipping, one foot in front of the other, slow hunters walk, with mild shoulder movement matching, realistic human skeleton animation, 0 rubber joints, 0 disconnected limbs, 0 disconnected shapes, quick camera cuts, an up-down angle, an down-up angle, a walk by cut, ending the full walking scene by zooming in on [C/M] face as [C/M] gives a partial semi half smile smile to the viewer, Hollywood level production quality, Hollywood level camera work, realistic expressions, object placement recognition, object placement tracking, character placement recognition, character placement tracking, 0 talking, 0 voice over, dark, slow, instrumental, phonk music, do not remove items, do not give [C/M] feminine aspects, do not give [C/M] feminine hair.\n\n#AIart #AIArtist #AIArtistCommunity #FantasyAIArt #FantasyAICharacter #MaleCharacter",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/EtoileAniko/status/2101446310935060529",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101446170769756160/img/3pDdaWvaptgiD-rY.jpg",
+        "analysisUrl": "https://x.com/EtoileAniko/status/2101446310935060529"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSnWQiWWsAAigFD.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSnWQiWWsAAigFD.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 67
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/EtoileAniko/status/2101446310935060529",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101446170769756160/img/3pDdaWvaptgiD-rY.jpg",
+  "coverPath": "covers/2101446310935060529.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101446170769756160",
+    "x-image:/media/HSnWQiWWsAAigFD",
+    "x-post:2101446310935060529"
+  ],
+  "analysis": {
+    "summary": "A prompt for a realistic 360-degree character walking test with camera cuts and a final zoom-in smile.",
+    "summaryEn": "A prompt for a realistic 360-degree character walking test with camera cuts and a final zoom-in smile.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video reflects the prompt's rotating camera walking cycle, cuts, and ending face zoom with a half smile."
+    },
+    "videoQuality": null,
+    "originalPrompt": "The video must show: [C/M] walking in place, the camera rotating around him to show off different angles of how [C/M] is walking. Character test scene.\nThe video must use: realistic [hair type] mens hair animation, realistic clothing animations, realistic walking animations, 0 limping, 0 jumping, 0 skipping, one foot in front of the other, slow hunters walk, with mild shoulder movement matching, realistic human skeleton animation, 0 rubber joints, 0 disconnected limbs, 0 disconnected shapes, quick camera cuts, an up-down angle, an down-up angle, a walk by cut, ending the full walking scene by zooming in on [C/M] face as [C/M] gives a partial semi half smile smile to the viewer, Hollywood level production quality, Hollywood level camera work, realistic expressions, object placement recognition, object placement tracking, character placement recognition, character placement tracking, 0 talking, 0 voice over, dark, slow, instrumental, phonk music, do not remove items, do not give [C/M] feminine aspects, do not give [C/M] feminine hair.",
+    "sourceRange": {
+      "start": 460,
+      "end": 1508
+    },
+    "translations": {
+      "zh": "视频必须展示：[C/M] 原地行走，镜头围绕他旋转以展示行走的各个角度。角色测试场景。视频必须采用：逼真的[发型]男性头发动画、逼真的服装和行走动画、无跛行、无跳跃、步伐稳健、慢速猎人步伐配轻微肩部摆动、逼真骨骼动画、无肢体脱节、快速镜头切换、多角度拍摄、走过镜头，最后特写面部并露出微笑，好莱坞级制作质感，无说话与旁白，暗黑慢节奏器乐，保留物品，避免女性化特征。",
+      "en": "The video must show: [C/M] walking in place, the camera rotating around him to show off different angles of how [C/M] is walking. Character test scene. The video must use: realistic [hair type] mens hair animation, realistic clothing animations, realistic walking animations, 0 limping, 0 jumping, 0 skipping, one foot in front of the other, slow hunters walk, with mild shoulder movement matching, realistic human skeleton animation, 0 rubber joints, 0 disconnected limbs, 0 disconnected shapes, quick camera cuts, an up-down angle, an down-up angle, a walk by cut, ending the full walking scene by zooming in on [C/M] face as [C/M] gives a partial semi half smile smile to the viewer, Hollywood level production quality, Hollywood level camera work, realistic expressions, object placement recognition, object placement tracking, character placement recognition, character placement tracking, 0 talking, 0 voice over, dark, slow, instrumental, phonk music, do not remove items, do not give [C/M] feminine aspects, do not give [C/M] feminine hair."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "image-to-video",
+    "useCase": "character animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
