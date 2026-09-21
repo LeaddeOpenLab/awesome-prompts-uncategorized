@@ -9079,20 +9079,20 @@ Quang cảnh thành phố / Đường phố · Đã xuất bản
 
 <a name="prompt-2101996518026907755"></a>
 
-### Đang dịch
+### Lời nhắc miêu tả một người phụ nữ ngồi trên chiếc ghế sofa bong bóng bay lơ lửng và nổ tung thành hoa giấy.
 
 Tác giả：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Bài gốc](https://x.com/Arzoo12sh/status/2101996518026907755)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc miêu tả một người phụ nữ ngồi trên chiếc ghế sofa bong bóng bay lơ lửng và nổ tung thành hoa giấy.
 
 <img src="covers/2101996518026907755.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một người phụ nữ trẻ trung sành điệu đang ngồi thoải mái trên chiếc ghế sofa phong cách bong bóng rực rỡ sắc màu trong một phòng khách hiện đại tối giản ngập tràn ánh sáng. Cửa sổ lớn cho phép ánh nắng tự nhiên ấm áp tràn ngập căn phòng. Đột nhiên, chiếc ghế sofa từ từ bắt đầu lơ lửng cách sàn nhà vài inch, tạo nên một khoảnh khắc kỳ diệu và đầy bất ngờ. Sau khi lơ lửng một lúc ngắn, chiếc sofa kiểu bong bóng nổ tung một cách ngoạn mục thành một đám mây tuyệt đẹp gồm pháo hoa giấy lấp lánh đầy màu sắc và những mảnh vụn li ti như thủy tinh. Các hạt phân tán tự nhiên trong không khí ở chế độ chuyển động chậm, đón lấy ánh nắng và tạo ra những hình ảnh phản chiếu chân thực. Người phụ nữ phản ứng tự nhiên với vẻ hơi ngạc nhiên nhưng vẫn hoàn toàn an toàn và không hề hấn gì. Những hạt sắc màu nhẹ nhàng rơi xuống sàn, và chiếc ghế sofa trở lại vị trí cũ một cách duyên dáng. Hiệu ứng vật lý chân thực, chuyển động lơ lửng mượt mà, mô phỏng hạt chi tiết, ánh sáng chuẩn điện ảnh, bóng đổ tự nhiên, chuyển động chậm tốc độ khung hình cao, vân bề mặt chân thực như ảnh chụp, chuyển động camera năng động, độ sâu trường ảnh chân thực, cực kỳ chi tiết, chuyển động liền mạch, chất lượng video chuẩn điện ảnh 4K.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -8995,20 +8995,20 @@ Paesaggio urbano / Strada · Pubblicato
 
 <a name="prompt-2101996518026907755"></a>
 
-### Traduzione in corso
+### Un prompt che descrive una donna seduta su un divano di palloncini che fluttua ed esplode in coriandoli.
 
 Autore：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Post originale](https://x.com/Arzoo12sh/status/2101996518026907755)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt che descrive una donna seduta su un divano di palloncini che fluttua ed esplode in coriandoli.
 
 <img src="covers/2101996518026907755.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un'elegante giovane donna è seduta comodamente su un vivace e colorato divano in stile palloncino in un luminoso soggiorno moderno e minimalista. Grandi finestre permettono alla calda luce naturale del sole di riempire la stanza. All'improvviso, il divano inizia lentamente a fluttuare a pochi centimetri dal pavimento, creando un momento sorprendente e magico. Dopo essere rimasto a mezz'aria per un breve istante, il divano in stile palloncino esplode drammaticamente in una bellissima nuvola di coriandoli colorati e scintillanti e minuscoli frammenti simili al vetro. Le particelle si disperdono naturalmente nell'aria al rallentatore, catturando la luce del sole e creando riflessi realistici. La donna reagisce con naturalezza e una leggera sorpresa, rimanendo illesa e al sicuro. Le particelle colorate cadono dolcemente verso il pavimento e il divano torna graziosamente al suo posto. Fisica realistica, movimento di fluttuazione fluido, simulazione dettagliata delle particelle, illuminazione cinematografica, ombre naturali, slow motion ad alto framerate, texture fotorealistiche, movimento dinamico della cinepresa, profondità di campo realistica, ultra-dettagliato, movimento senza soluzione di continuità, qualità video cinematografica 4K.
 ```
 
 [↑ Torna alle categorie](#catalog)

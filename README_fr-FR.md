@@ -8995,20 +8995,20 @@ Paysage urbain / Rue · Publié
 
 <a name="prompt-2101996518026907755"></a>
 
-### Traduction en cours
+### Un prompt décrivant une femme assise sur un canapé en ballons qui flotte et éclate en confettis.
 
 Auteur：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Publication originale](https://x.com/Arzoo12sh/status/2101996518026907755)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un prompt décrivant une femme assise sur un canapé en ballons qui flotte et éclate en confettis.
 
 <img src="covers/2101996518026907755.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une jeune femme élégante est confortablement assise sur un canapé vibrant et coloré de style ballon, dans un salon moderne, lumineux et minimaliste. De grandes fenêtres laissent entrer une lumière naturelle et chaleureuse qui inonde la pièce. Soudain, le canapé commence lentement à flotter à quelques centimètres du sol, créant un moment surprenant et magique. Après avoir plané brièvement, le canapé de style ballon éclate de manière spectaculaire en un magnifique nuage de confettis multicolores scintillants et de minuscules fragments semblables à du verre. Les particules se dispersent naturellement dans l'air au ralenti, captant la lumière du soleil et créant des reflets réalistes. La femme réagit naturellement avec une légère surprise tout en restant saine et sauve. Les particules colorées retombent doucement vers le sol, et le canapé se réinstalle gracieusement à sa place. Physique réaliste, mouvement de flottement fluide, simulation détaillée des particules, éclairage cinématographique, ombres naturelles, ralenti à fréquence d'images élevée, textures photoréalistes, mouvement dynamique de la caméra, profondeur de champ réaliste, ultra-détaillé, mouvement fluide, qualité vidéo cinématographique 4K.
 ```
 
 [↑ Retour aux catégories](#catalog)

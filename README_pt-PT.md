@@ -9006,20 +9006,20 @@ Paisagem urbana / Rua · Publicado
 
 <a name="prompt-2101996518026907755"></a>
 
-### Tradução em curso
+### Um prompt que descreve uma mulher sentada num sofá de balões que flutua e rebenta em confetes.
 
 Autor：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Publicação original](https://x.com/Arzoo12sh/status/2101996518026907755)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um prompt que descreve uma mulher sentada num sofá de balões que flutua e rebenta em confetes.
 
 <img src="covers/2101996518026907755.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma jovem elegante senta-se confortavelmente num sofá vibrante e colorido em estilo de balão numa sala de estar moderna, luminosa e minimalista. Grandes janelas permitem que a luz natural e quente do sol preencha a divisão. De repente, o sofá começa a flutuar lentamente a alguns centímetros do chão, criando um momento surpreendente e mágico. Após pairar brevemente, o sofá em estilo de balão rebenta dramaticamente numa bela nuvem de confetes coloridos e cintilantes e minúsculos fragmentos semelhantes a vidro. As partículas espalham-se naturalmente pelo ar em câmara lenta, captando a luz solar e criando reflexos realistas. A mulher reage naturalmente com uma ligeira surpresa, permanecendo segura e ilesa. As partículas coloridas caem suavemente em direção ao chão, e o sofá assenta graciosamente de volta no seu lugar. Física realista, movimento de flutuação suave, simulação detalhada de partículas, iluminação cinematográfica, sombras naturais, câmara lenta com elevada taxa de fotogramas, texturas fotorrealistas, movimento dinâmico de câmara, profundidade de campo realista, ultradetalhado, movimento fluido, qualidade de vídeo cinematográfica 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)

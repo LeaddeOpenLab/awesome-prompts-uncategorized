@@ -9079,20 +9079,20 @@ Paisaje urbano / Calle · Publicado
 
 <a name="prompt-2101996518026907755"></a>
 
-### Traducción en curso
+### Un prompt que describe a una mujer sentada en un sofá de globos que flota y estalla en confeti.
 
 Autor：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Publicación original](https://x.com/Arzoo12sh/status/2101996518026907755)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un prompt que describe a una mujer sentada en un sofá de globos que flota y estalla en confeti.
 
 <img src="covers/2101996518026907755.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una joven elegante se sienta cómodamente en un vibrante y colorido sofá estilo globo en una luminosa sala de estar moderna y minimalista. Grandes ventanales permiten que la cálida luz natural del sol llene la habitación. De repente, el sofá comienza a flotar lentamente a unos centímetros del suelo, creando un momento sorprendente y mágico. Tras flotar brevemente, el sofá estilo globo estalla de forma dramática en una hermosa nube de brillante confeti multicolor y diminutos fragmentos similares al vidrio. Las partículas se esparcen de manera natural por el aire en cámara lenta, capturando la luz del sol y creando reflejos realistas. La mujer reacciona con naturalidad y una leve sorpresa mientras permanece a salvo e ilesa. Las coloridas partículas caen suavemente hacia el suelo, y el sofá vuelve a acomodarse con gracia en su lugar. Física realista, movimiento de flotación suave, simulación de partículas detallada, iluminación cinematográfica, sombras naturales, cámara lenta de alta tasa de cuadros, texturas fotorrealistas, movimiento dinámico de cámara, profundidad de campo realista, ultra detallado, movimiento fluido, calidad de video cinematográfico 4K.
 ```
 
 [↑ Volver a categorías](#catalog)

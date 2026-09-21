@@ -9006,20 +9006,20 @@ Dinamik şekiller ve renklerle bir şehir duvarını kaplayan Canlı bir Duvar R
 
 <a name="prompt-2101996518026907755"></a>
 
-### Çeviri sürüyor
+### Havada süzülen ve konfetilere dönüşerek patlayan bir balon kanepede oturan bir kadını betimleyen bir prompt.
 
 Yazar：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Orijinal gönderi](https://x.com/Arzoo12sh/status/2101996518026907755)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Havada süzülen ve konfetilere dönüşerek patlayan bir balon kanepede oturan bir kadını betimleyen bir prompt.
 
 <img src="covers/2101996518026907755.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Şık bir genç kadın, aydınlık, minimalist ve modern bir oturma odasında canlı, renkli balon tarzı bir kanepede rahatça oturuyor. Büyük pencereler, sıcak doğal güneş ışığının odayı doldurmasını sağlıyor. Aniden, kanepe şaşırtıcı ve büyülü bir an yaratarak zeminden birkaç santim yukarıda yavaşça süzülmeye başlıyor. Kısa bir süre havada asılı kaldıktan sonra balon tarzı kanepe, renkli, parıltılı konfetiler ve cam benzeri minik parçacıklardan oluşan güzel bir bulut halinde dramatik bir şekilde patlıyor. Parçacıklar, güneş ışığını yakalayarak ve gerçekçi yansımalar yaratarak ağır çekimde havaya doğal bir şekilde yayılıyor. Kadın, güvende ve zarar görmemiş bir şekilde hafif bir şaşkınlıkla doğal bir tepki veriyor. Renkli parçacıklar yavaşça yere doğru süzülüyor ve kanepe zarifçe tekrar yerine oturuyor. Gerçekçi fizik, pürüzsüz süzülme hareketi, ayrıntılı parçacık simülasyonu, sinematik aydınlatma, doğal gölgeler, yüksek kare hızlı ağır çekim, fotogerçekçi dokular, dinamik kamera hareketi, gerçekçi alan derinliği, ultra ayrıntılı, kesintisiz hareket, 4K sinematik video kalitesi.
 ```
 
 [↑ Kategorilere dön](#catalog)

@@ -8995,20 +8995,20 @@ Stadtbild / Straße · Veröffentlicht
 
 <a name="prompt-2101996518026907755"></a>
 
-### Übersetzung läuft
+### Ein Prompt, der eine Frau beschreibt, die auf einem Ballon-Sofa sitzt, das schwebt und in Konfetti platzt.
 
 Autor：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Originalbeitrag](https://x.com/Arzoo12sh/status/2101996518026907755)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt, der eine Frau beschreibt, die auf einem Ballon-Sofa sitzt, das schwebt und in Konfetti platzt.
 
 <img src="covers/2101996518026907755.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine stilvolle junge Frau sitzt bequem auf einem lebhaften, farbenfrohen Sofa im Ballon-Stil in einem hellen, minimalistischen, modernen Wohnzimmer. Große Fenster lassen warmes, natürliches Sonnenlicht den Raum durchfluten. Plötzlich beginnt das Sofa langsam, einige Zentimeter über dem Boden zu schweben, was einen überraschenden und magischen Moment erzeugt. Nach kurzem Schweben platzt das Sofa im Ballon-Stil dramatisch auseinander und verwandelt sich in eine wunderschöne Wolke aus buntem, glitzerndem Konfetti und winzigen, glasartigen Fragmenten. Die Partikel verteilen sich ganz natürlich in Zeitlupe in der Luft, fangen das Sonnenlicht ein und erzeugen realistische Reflexionen. Die Frau reagiert natürlich mit leichter Überraschung, bleibt jedoch vollkommen sicher und unversehrt. Die bunten Partikel fallen sanft zu Boden, und das Sofa setzt sich wieder anmutig an seinen Platz. Realistische Physik, sanfte Schwebefunktion, detaillierte Partikelsimulation, filmische Beleuchtung, natürliche Schatten, Zeitlupe mit hoher Bildrate, fotorealistische Texturen, dynamische Kamerabewegung, realistische Schärfentiefe, ultradetailliert, nahtlose Bewegung, filmische 4K-Videoqualität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
