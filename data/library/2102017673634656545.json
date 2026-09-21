@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T20:25:53.687Z",
+  "model": "unknown-image",
+  "prompt": "Diseña una maqueta arquitectónica inspirada en [SONIDO COTIDIANO]. Traduce su ritmo, intensidad y textura en la silueta de un pabellón construible, con materiales que evoquen ese sonido de manera sutil. Fotografía arquitectónica realista de maqueta a escala 1:50 sobre pedestal gris cálido, fondo de estudio azul marino oscuro, vista de tres cuartos, iluminación lateral suave, detalles materiales precisos, composición cuadrada 1:1, sin personas, texto, logos ni gráficos de ondas sonoras",
+  "promptTranslations": {
+    "en": "Design an architectural model inspired by [EVERYDAY SOUND]. Translate its rhythm, intensity, and texture into the silhouette of a buildable pavilion, using materials that subtly evoke that sound. Realistic architectural photography of a 1:50 scale model on a warm gray pedestal, dark navy blue studio background, three-quarter view, soft side lighting, precise material details, 1:1 square composition, no people, text, logos, or sound wave graphics"
+  },
+  "summaryTranslations": {
+    "en": "Template for generating 1:50 scale architectural models based on everyday sounds, photographed on a pedestal in a studio."
+  },
+  "translationVersion": 2,
+  "summary": "Plantilla para generar maquetas arquitectónicas a escala 1:50 basadas en sonidos cotidianos, fotografiadas sobre pedestal en estudio.",
+  "summaryEn": "Template generating 1:50 architectural scale models inspired by everyday sounds, photographed on a studio pedestal.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102017673634656545",
+    "canonicalUrl": "https://x.com/hmontilla_/status/2102017673634656545",
+    "author": {
+      "username": "hmontilla_",
+      "displayName": "Henry M. | IA Práctica",
+      "profileUrl": "https://x.com/hmontilla_"
+    },
+    "publishedAt": "2026-09-21T12:50:41.000Z",
+    "collectedAt": "2026-09-21T20:15:28.694Z",
+    "language": "es",
+    "originalText": "PROMPT PARA GUARDAR #5 🔊🏛️\n\n¿Y si pudiéramos construir un edificio a partir de un sonido?\n\nConvertí cuatro sonidos cotidianos en maquetas arquitectónicas:\n\n1️⃣ Lluvia sobre un techo\n2️⃣ Un metro llegando\n3️⃣ Pájaros al amanecer\n4️⃣ Olas rompiendo en la costa\n\nLa clave: traducir el ritmo del sonido en estructura, materiales y luz, sin dibujar una onda de audio literal.\n\nPrompt para crear el tuyo:\n\n“Diseña una maqueta arquitectónica inspirada en [SONIDO COTIDIANO]. Traduce su ritmo, intensidad y textura en la silueta de un pabellón construible, con materiales que evoquen ese sonido de manera sutil. Fotografía arquitectónica realista de maqueta a escala 1:50 sobre pedestal gris cálido, fondo de estudio azul marino oscuro, vista de tres cuartos, iluminación lateral suave, detalles materiales precisos, composición cuadrada 1:1, sin personas, texto, logos ni gráficos de ondas sonoras”.\n\n¿Qué sonido convertirías en edificio?",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvcKqtW0AAq8Dv.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvcKqtW0AAq8Dv.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvcKquW4AALUGq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvcKquW4AALUGq.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvcKqrXcAAPLTa.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvcKqrXcAAPLTa.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvcKqsXgAABZSR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvcKqsXgAABZSR.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 9
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/hmontilla_/status/2102017673634656545",
+  "coverUrl": "https://pbs.twimg.com/media/HSvcKqtW0AAq8Dv.jpg",
+  "coverPath": "images/2102017673634656545-1.jpg",
+  "imagePaths": [
+    "images/2102017673634656545-1.jpg",
+    "images/2102017673634656545-2.jpg",
+    "images/2102017673634656545-3.jpg",
+    "images/2102017673634656545-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSvcKqtW0AAq8Dv",
+    "x-image:/media/HSvcKquW4AALUGq",
+    "x-image:/media/HSvcKqrXcAAPLTa",
+    "x-image:/media/HSvcKqsXgAABZSR",
+    "x-post:2102017673634656545"
+  ],
+  "analysis": {
+    "summary": "Plantilla para generar maquetas arquitectónicas a escala 1:50 basadas en sonidos cotidianos, fotografiadas sobre pedestal en estudio.",
+    "summaryEn": "Template generating 1:50 architectural scale models inspired by everyday sounds, photographed on a studio pedestal.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Las cuatro imágenes muestran modelos arquitectónicos a escala 1:50 sobre base gris con fondo azul marino correspondientes a los sonidos descritos (lluvia, metro, pájaros y olas)."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Diseña una maqueta arquitectónica inspirada en [SONIDO COTIDIANO]. Traduce su ritmo, intensidad y textura en la silueta de un pabellón construible, con materiales que evoquen ese sonido de manera sutil. Fotografía arquitectónica realista de maqueta a escala 1:50 sobre pedestal gris cálido, fondo de estudio azul marino oscuro, vista de tres cuartos, iluminación lateral suave, detalles materiales precisos, composición cuadrada 1:1, sin personas, texto, logos ni gráficos de ondas sonoras",
+    "sourceRange": {
+      "start": 401,
+      "end": 890
+    },
+    "translations": {
+      "zh": "设计一个灵感来自[日常声音]的建筑模型。将其节奏、强度和质感转化为可建造展馆的轮廓，并采用隐约呼应这种声音的材质。暖灰色底座上 1:50 比例模型的写实建筑摄影，深海军蓝工作室背景，四分之三视角，柔和侧光，精准材质细节，1:1 正方形构图，无人物、文字、徽标或声波图形",
+      "en": "Design an architectural scale model inspired by [EVERYDAY SOUND]. Translate its rhythm, intensity, and texture into the silhouette of a buildable pavilion, using materials that subtly evoke that sound. Realistic architectural photography of a 1:50 scale model on a warm gray pedestal, dark navy blue studio background, three-quarters view, soft side lighting, precise material details, 1:1 square composition, without people, text, logos, or sound wave graphics"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "设计与概念构思",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

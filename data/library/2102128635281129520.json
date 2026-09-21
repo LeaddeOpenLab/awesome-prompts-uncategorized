@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T20:25:08.125Z",
+  "model": "grok",
+  "prompt": "Ewa and Stanislaw harvesting wheat in 1903, Lomza Poland",
+  "promptTranslations": {
+    "en": "Ewa and Stanislaw harvesting wheat in 1903, Lomza Poland"
+  },
+  "summaryTranslations": {
+    "en": "Historical scene of harvesting wheat in Lomza, Poland in 1903."
+  },
+  "translationVersion": 2,
+  "summary": "1903年波兰沃姆扎收割小麦的历史风貌场景。",
+  "summaryEn": "Historical scene of wheat harvesting in Lomza, Poland in 1903.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102128635281129520",
+    "canonicalUrl": "https://x.com/Trad_Teodor/status/2102128635281129520",
+    "author": {
+      "username": "Trad_Teodor",
+      "displayName": "Traditional_Teodor",
+      "profileUrl": "https://x.com/Trad_Teodor"
+    },
+    "publishedAt": "2026-09-21T20:11:36.000Z",
+    "collectedAt": "2026-09-21T20:15:28.694Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nEwa and Stanislaw harvesting wheat in 1903, Lomza Poland 🇵🇱 https://t.co/sk4zq0kBjy",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Trad_Teodor/status/2102128635281129520",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102128577080860673/img/nW87DigiTpEcA7uQ.jpg",
+        "analysisUrl": "https://x.com/Trad_Teodor/status/2102128635281129520"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 20
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Trad_Teodor/status/2102128635281129520",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102128577080860673/img/nW87DigiTpEcA7uQ.jpg",
+  "coverPath": "covers/2102128635281129520.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102128577080860673",
+    "x-post:2102128635281129520"
+  ],
+  "analysis": {
+    "summary": "1903年波兰沃姆扎收割小麦的历史风貌场景。",
+    "summaryEn": "Historical scene of wheat harvesting in Lomza, Poland in 1903.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video depicts a man and a woman in period clothing harvesting wheat in a field with a traditional Polish town in the background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ewa and Stanislaw harvesting wheat in 1903, Lomza Poland",
+    "sourceRange": {
+      "start": 22,
+      "end": 78
+    },
+    "translations": {
+      "zh": "1903年波兰沃姆扎，埃娃和斯坦尼斯瓦夫正在收割小麦",
+      "en": "Ewa and Stanislaw harvesting wheat in 1903, Lomza Poland"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "historical reenactment",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

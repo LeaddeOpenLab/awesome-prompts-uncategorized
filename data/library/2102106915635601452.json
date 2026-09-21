@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T20:24:59.949Z",
+  "model": "hailuo",
+  "prompt": "A man #Image1  sits on a park bench. His neck stretches upward in surprise as a tiny eagle with USA Flag on its body lands on his head. Medium locked shot, expressive hand-drawn motion. He starts screaming and running!",
+  "promptTranslations": {
+    "en": "A man #Image1  sits on a park bench. His neck stretches upward in surprise as a tiny eagle with USA Flag on its body lands on his head. Medium locked shot, expressive hand-drawn motion. He starts screaming and running!"
+  },
+  "summaryTranslations": {
+    "en": "A hand-drawn animation shot of a man sitting on a bench, a USA flag eagle landing on his head, and the man screaming and running."
+  },
+  "translationVersion": 2,
+  "summary": "男子坐在长椅上，一只美国国旗鹰落在头上，男子尖叫奔跑的手绘动画镜头。",
+  "summaryEn": "Hand-drawn animation shot of a man screaming and fleeing after a US flag eagle lands on his head.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2102102544331784493",
+      "canonicalUrl": "https://x.com/fal/status/2102102544331784493",
+      "author": {
+        "username": "fal",
+        "displayName": "fal",
+        "profileUrl": "https://x.com/fal"
+      },
+      "originalText": "H3 Max Styles are now live on fal.\n\nH3 Max is our fastest frontier video model. Now, you can generate with a specific visual aesthetic built directly into the model:\n\n- 16-bit pixel art, hand-drawn, low-poly, 70s retro toon, and VHS\n- Generate from a text prompt or reference image\n- Each style captures its own textures, color palettes, motion, and visual details\n\nChoose a style and start creating"
+    },
+    "id": "2102106915635601452",
+    "canonicalUrl": "https://x.com/1littlecoder/status/2102106915635601452",
+    "author": {
+      "username": "1littlecoder",
+      "displayName": "1LittleCoder💻",
+      "profileUrl": "https://x.com/1littlecoder"
+    },
+    "publishedAt": "2026-09-21T18:45:18.000Z",
+    "collectedAt": "2026-09-21T20:15:28.694Z",
+    "language": "en",
+    "originalText": "This is insane - This Minimax H3 Style works extremely well with reference images as well! \n\nThe first frame is the reference image added and the prompt 👇\n\nA man #Image1  sits on a park bench. His neck stretches upward in surprise as a tiny eagle with USA Flag on its body lands on his head. Medium locked shot, expressive hand-drawn motion. He starts screaming and running!",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/1littlecoder/status/2102106915635601452",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102106736094244864/img/dVLnLjY-_YN18sBt.jpg",
+        "analysisUrl": "https://x.com/1littlecoder/status/2102106915635601452"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/1littlecoder/status/2102106915635601452",
+        "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/2102102498861264896/pu/img/DWHCt4pQmFoaYK4X.jpg",
+        "analysisUrl": "https://x.com/1littlecoder/status/2102106915635601452",
+        "sourcePostId": "2102102544331784493"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 571
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/1littlecoder/status/2102106915635601452",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102106736094244864/img/dVLnLjY-_YN18sBt.jpg",
+  "coverPath": "covers/2102106915635601452.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102106736094244864",
+    "x-video:2102102498861264896",
+    "x-post:2102106915635601452",
+    "x-post:2102102544331784493"
+  ],
+  "analysis": {
+    "summary": "男子坐在长椅上，一只美国国旗鹰落在头上，男子尖叫奔跑的手绘动画镜头。",
+    "summaryEn": "Hand-drawn animation shot of a man screaming and fleeing after a US flag eagle lands on his head.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video starts with the reference portrait on a park bench, the patriotic eagle landing, and the man screaming and running away in hand-drawn animation."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A man #Image1  sits on a park bench. His neck stretches upward in surprise as a tiny eagle with USA Flag on its body lands on his head. Medium locked shot, expressive hand-drawn motion. He starts screaming and running!",
+    "sourceRange": {
+      "start": 156,
+      "end": 374
+    },
+    "translations": {
+      "zh": "一名男子 #Image1 坐在公园长椅上。当一只身上带有美国国旗图案的幼鹰落在他头上时，他惊讶地伸长脖子。中景固定镜头，生动的手绘动作。他开始尖叫并奔跑起来！",
+      "en": "A man #Image1  sits on a park bench. His neck stretches upward in surprise as a tiny eagle with USA Flag on its body lands on his head. Medium locked shot, expressive hand-drawn motion. He starts screaming and running!"
+    },
+    "targetModels": [
+      "hailuo"
+    ],
+    "category": "image-to-video",
+    "useCase": "hand-drawn animated video generation with image reference",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

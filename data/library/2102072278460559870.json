@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T20:24:19.683Z",
+  "model": "imagen",
+  "prompt": "Retrato ultra realista y espontáneo de estilo callejero veraniego de un hombre adulto de pie en un mercado al aire libre de fin de semana, fotografiado con luz natural brillante del día. La imagen debe transmitir una sensación relajada, masculina, accesible y con un estilo effortless, como una instantánea de viaje espontánea en lugar de una campaña de moda pulida.\n\nTiene cabello del color y forma de la referencia, cejas definidas, piel cálida besada por el sol y una sonrisa amistosa sutil mientras mira directamente hacia la cámara.\n\nCuerpo: complexión atlética delgada con hombros naturalmente anchos y proporciones realistas. Mantén el físico en forma y discreto en lugar de exagerado.\n\nVestimenta: una playera oversized en tono azul pálido. El cuello está relajado y las mangas son cortas.\nCombina con shorts de jeans hasta la mitad del muslo.\n\nZapatos: sandalias de goma simples en azul marino, casuales y ligeramente gastadas.\n\nAccesorios: collar delgado de cadena plateada, un par de gafas de sol rectangulares oscuras colgando casualmente del borde delantero de la cintura o la abertura de la camisa, anillos mínimos y una bolsa tote de lona crema colgando de un hombro.\n\nPose: de pie de manera casual con ambas manos metidas en los bolsillos de los shorts, hombros relajados, pies ligeramente separados. Torso angulado muy ligeramente hacia un lado mientras el rostro permanece hacia la cámara. Mantén la postura natural, como alguien que hace una pausa para una foto rápida mientras camina por el mercado.\n\nEntorno: mercado animado al aire libre de vecindario bajo árboles maduros y frondosos, con carpas de vendedores, toldos a rayas, pequeños puestos y personas vestidas de manera casual moviéndose en el fondo. Agrega pavimento de piedra gris entrelazada, hojas secas dispersas, doseles de mercado de lona y parches cálidos de luz solar filtrándose a través de los árboles.\n\nEl fondo debe sentirse genuinamente ajetreado pero ligeramente suavizado, con personas en ropa de verano, bolsas tote y calzado casual. Evita que cualquier rostro del fondo sea excesivamente prominente.\n\nIluminación: luz diurna brillante filtrada a mediodía con sombra de árboles suavizando el rostro y el cuerpo. Tonos de piel cálidos, reflejos naturales en la camisa de lino azul y sombras suaves moteadas en el pavimento. Sin flash duro.\n\nFotografía: foto callejera vertical tomada con smartphone o cámara compacta, nitidez realista de cámara de teléfono, profundidad de campo moderada, grano sutil, reproducción de color ligeramente cálida, textura natural de tela y piel, retoque mínimo, estética contemporánea de viajes de verano, fotorrealista, alta resolución.\n\nComposición: retrato vertical de tres cuartos de cuerpo en formato 3:4, sujeto centrado en el encuadre, actividad del mercado llenando el fondo, playera azul pálido creando el acento de color principal,\n\nPrompt negativo: traje formal, pantalones, zapatillas deportivas, resort de lujo, fondo vacío, físico de fisicoculturismo, barba pesada, ropa neón brillante, campaña de moda posada, flash directo duro, bokeh extremo, piel plástica, manos distorsionadas, dedos extra, sandalias malformadas, extremidades duplicadas, puestos de mercado deformados, superposición de texto, marca de agua, caricatura, anime, ilustración, CGI.",
+  "promptTranslations": {
+    "en": "Ultra-realistic, candid summer street-style portrait of an adult man standing in an open-air weekend market, photographed in bright natural daylight. The image should convey a relaxed, masculine, approachable, and effortlessly stylish vibe, like a spontaneous travel snapshot rather than a polished fashion campaign.\n\nHe has hair with the color and shape from the reference, defined eyebrows, warm sun-kissed skin, and a subtle friendly smile while looking directly into the camera.\n\nBody: slim athletic build with naturally broad shoulders and realistic proportions. Keep the physique fit and understated rather than exaggerated.\n\nOutfit: an oversized t-shirt in a pale blue tone. The collar is relaxed and the sleeves are short.\nPaired with mid-thigh denim shorts.\n\nShoes: simple rubber slide sandals in navy blue, casual and slightly worn.\n\nAccessories: a thin silver chain necklace, a pair of dark rectangular sunglasses casually hanging from the front edge of the waistband or the shirt collar opening, minimal rings, and a cream canvas tote bag slung over one shoulder.\n\nPose: standing casually with both hands tucked into the shorts pockets, relaxed shoulders, feet slightly apart. Torso angled very slightly to one side while the face remains directed toward the camera. Keep the posture natural, like someone pausing for a quick photo while strolling through the market.\n\nEnvironment: lively open-air neighborhood market beneath mature, leafy trees, with vendor tents, striped awnings, small stalls, and casually dressed people moving around in the background. Add interlocking gray stone paving, scattered dry leaves, canvas market canopies, and warm patches of sunlight filtering through the trees.\n\nThe background should feel genuinely bustling yet slightly softened, with people in summer attire, tote bags, and casual footwear. Avoid having any background face be overly prominent.\n\nLighting: bright filtered midday daylight with tree shade softening the face and body. Warm skin tones, natural highlights on the blue linen shirt, and soft dappled shadows on the pavement. No harsh flash.\n\nPhotography: vertical street photo shot with a smartphone or compact camera, realistic phone camera sharpness, moderate depth of field, subtle grain, slightly warm color rendering, natural fabric and skin texture, minimal retouching, contemporary summer travel aesthetic, photorealistic, high resolution.\n\nComposition: vertical 3:4 three-quarter body portrait, subject centered in the frame, market activity filling the background, pale blue t-shirt creating the main color accent,\n\nNegative prompt: formal suit, pants, sneakers, luxury resort, empty background, bodybuilder physique, heavy beard, bright neon clothes, posed fashion campaign, harsh direct flash, extreme bokeh, plastic skin, distorted hands, extra fingers, malformed sandals, duplicated limbs, deformed market stalls, text overlay, watermark, cartoon, anime, illustration, CGI."
+  },
+  "summaryTranslations": {
+    "en": "Realistic summer street portrait of a man in an open-air market wearing an oversized blue t-shirt and denim shorts."
+  },
+  "translationVersion": 2,
+  "summary": "Retrato callejero veraniego y realista de un hombre en un mercado al aire libre con playera azul oversize y bermudas de mezclilla.",
+  "summaryEn": "Realistic summer street-style portrait of a man in an open-air market wearing an oversized pale blue t-shirt and denim shorts.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102072278460559870",
+    "canonicalUrl": "https://x.com/rotavirus1980/status/2102072278460559870",
+    "author": {
+      "username": "rotavirus1980",
+      "displayName": "Dr. Fernando",
+      "profileUrl": "https://x.com/rotavirus1980"
+    },
+    "publishedAt": "2026-09-21T16:27:40.000Z",
+    "collectedAt": "2026-09-21T20:15:28.694Z",
+    "language": "es",
+    "originalText": "Retrato ultra realista y espontáneo de estilo callejero veraniego de un hombre adulto de pie en un mercado al aire libre de fin de semana, fotografiado con luz natural brillante del día. La imagen debe transmitir una sensación relajada, masculina, accesible y con un estilo effortless, como una instantánea de viaje espontánea en lugar de una campaña de moda pulida.\n\nTiene cabello del color y forma de la referencia, cejas definidas, piel cálida besada por el sol y una sonrisa amistosa sutil mientras mira directamente hacia la cámara.\n\nCuerpo: complexión atlética delgada con hombros naturalmente anchos y proporciones realistas. Mantén el físico en forma y discreto en lugar de exagerado.\n\nVestimenta: una playera oversized en tono azul pálido. El cuello está relajado y las mangas son cortas.\nCombina con shorts de jeans hasta la mitad del muslo.\n\nZapatos: sandalias de goma simples en azul marino, casuales y ligeramente gastadas.\n\nAccesorios: collar delgado de cadena plateada, un par de gafas de sol rectangulares oscuras colgando casualmente del borde delantero de la cintura o la abertura de la camisa, anillos mínimos y una bolsa tote de lona crema colgando de un hombro.\n\nPose: de pie de manera casual con ambas manos metidas en los bolsillos de los shorts, hombros relajados, pies ligeramente separados. Torso angulado muy ligeramente hacia un lado mientras el rostro permanece hacia la cámara. Mantén la postura natural, como alguien que hace una pausa para una foto rápida mientras camina por el mercado.\n\nEntorno: mercado animado al aire libre de vecindario bajo árboles maduros y frondosos, con carpas de vendedores, toldos a rayas, pequeños puestos y personas vestidas de manera casual moviéndose en el fondo. Agrega pavimento de piedra gris entrelazada, hojas secas dispersas, doseles de mercado de lona y parches cálidos de luz solar filtrándose a través de los árboles.\n\nEl fondo debe sentirse genuinamente ajetreado pero ligeramente suavizado, con personas en ropa de verano, bolsas tote y calzado casual. Evita que cualquier rostro del fondo sea excesivamente prominente.\n\nIluminación: luz diurna brillante filtrada a mediodía con sombra de árboles suavizando el rostro y el cuerpo. Tonos de piel cálidos, reflejos naturales en la camisa de lino azul y sombras suaves moteadas en el pavimento. Sin flash duro.\n\nFotografía: foto callejera vertical tomada con smartphone o cámara compacta, nitidez realista de cámara de teléfono, profundidad de campo moderada, grano sutil, reproducción de color ligeramente cálida, textura natural de tela y piel, retoque mínimo, estética contemporánea de viajes de verano, fotorrealista, alta resolución.\n\nComposición: retrato vertical de tres cuartos de cuerpo en formato 3:4, sujeto centrado en el encuadre, actividad del mercado llenando el fondo, playera azul pálido creando el acento de color principal,\n\nPrompt negativo: traje formal, pantalones, zapatillas deportivas, resort de lujo, fondo vacío, físico de fisicoculturismo, barba pesada, ropa neón brillante, campaña de moda posada, flash directo duro, bokeh extremo, piel plástica, manos distorsionadas, dedos extra, sandalias malformadas, extremidades duplicadas, puestos de mercado deformados, superposición de texto, marca de agua, caricatura, anime, ilustración, CGI.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSwPmEeXAAAVXf8.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSwPmEeXAAAVXf8.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 77
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/rotavirus1980/status/2102072278460559870",
+  "coverUrl": "https://pbs.twimg.com/media/HSwPmEeXAAAVXf8.jpg",
+  "coverPath": "images/2102072278460559870-1.jpg",
+  "imagePaths": [
+    "images/2102072278460559870-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSwPmEeXAAAVXf8",
+    "x-post:2102072278460559870"
+  ],
+  "analysis": {
+    "summary": "Retrato callejero veraniego y realista de un hombre en un mercado al aire libre con playera azul oversize y bermudas de mezclilla.",
+    "summaryEn": "Realistic summer street-style portrait of a man in an open-air market wearing an oversized pale blue t-shirt and denim shorts.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确展现了身着浅蓝色大号T恤、牛仔短裤、深色凉鞋并背着帆布袋的男子，背景为绿树掩映、带条纹遮阳棚的热闹户外集市，构图与光影均与提示词吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Retrato ultra realista y espontáneo de estilo callejero veraniego de un hombre adulto de pie en un mercado al aire libre de fin de semana, fotografiado con luz natural brillante del día. La imagen debe transmitir una sensación relajada, masculina, accesible y con un estilo effortless, como una instantánea de viaje espontánea en lugar de una campaña de moda pulida.\n\nTiene cabello del color y forma de la referencia, cejas definidas, piel cálida besada por el sol y una sonrisa amistosa sutil mientras mira directamente hacia la cámara.\n\nCuerpo: complexión atlética delgada con hombros naturalmente anchos y proporciones realistas. Mantén el físico en forma y discreto en lugar de exagerado.\n\nVestimenta: una playera oversized en tono azul pálido. El cuello está relajado y las mangas son cortas.\nCombina con shorts de jeans hasta la mitad del muslo.\n\nZapatos: sandalias de goma simples en azul marino, casuales y ligeramente gastadas.\n\nAccesorios: collar delgado de cadena plateada, un par de gafas de sol rectangulares oscuras colgando casualmente del borde delantero de la cintura o la abertura de la camisa, anillos mínimos y una bolsa tote de lona crema colgando de un hombro.\n\nPose: de pie de manera casual con ambas manos metidas en los bolsillos de los shorts, hombros relajados, pies ligeramente separados. Torso angulado muy ligeramente hacia un lado mientras el rostro permanece hacia la cámara. Mantén la postura natural, como alguien que hace una pausa para una foto rápida mientras camina por el mercado.\n\nEntorno: mercado animado al aire libre de vecindario bajo árboles maduros y frondosos, con carpas de vendedores, toldos a rayas, pequeños puestos y personas vestidas de manera casual moviéndose en el fondo. Agrega pavimento de piedra gris entrelazada, hojas secas dispersas, doseles de mercado de lona y parches cálidos de luz solar filtrándose a través de los árboles.\n\nEl fondo debe sentirse genuinamente ajetreado pero ligeramente suavizado, con personas en ropa de verano, bolsas tote y calzado casual. Evita que cualquier rostro del fondo sea excesivamente prominente.\n\nIluminación: luz diurna brillante filtrada a mediodía con sombra de árboles suavizando el rostro y el cuerpo. Tonos de piel cálidos, reflejos naturales en la camisa de lino azul y sombras suaves moteadas en el pavimento. Sin flash duro.\n\nFotografía: foto callejera vertical tomada con smartphone o cámara compacta, nitidez realista de cámara de teléfono, profundidad de campo moderada, grano sutil, reproducción de color ligeramente cálida, textura natural de tela y piel, retoque mínimo, estética contemporánea de viajes de verano, fotorrealista, alta resolución.\n\nComposición: retrato vertical de tres cuartos de cuerpo en formato 3:4, sujeto centrado en el encuadre, actividad del mercado llenando el fondo, playera azul pálido creando el acento de color principal,\n\nPrompt negativo: traje formal, pantalones, zapatillas deportivas, resort de lujo, fondo vacío, físico de fisicoculturismo, barba pesada, ropa neón brillante, campaña de moda posada, flash directo duro, bokeh extremo, piel plástica, manos distorsionadas, dedos extra, sandalias malformadas, extremidades duplicadas, puestos de mercado deformados, superposición de texto, marca de agua, caricatura, anime, ilustración, CGI.",
+    "sourceRange": {
+      "start": 0,
+      "end": 3287
+    },
+    "translations": {
+      "zh": "成年男性在周末户外市集的写实街拍肖像，采用自然日光明亮拍摄，展现轻松随性的夏日旅行抓拍风格。身穿浅蓝色宽版短袖T恤与牛仔短裤，脚踩深蓝橡胶凉鞋，背着米色帆布袋，双手插兜立于树荫下的热闹市集街道中。",
+      "en": "Realistic summer street-style portrait of a man standing in a weekend open-air market, shot under bright natural daylight with a relaxed travel-snapshot feel. Wearing an oversized pale blue t-shirt, denim shorts, navy rubber sandals, and carrying a cream canvas tote bag amid a lively outdoor setting."
+    },
+    "targetModels": [
+      "imagen"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI摄影肖像生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

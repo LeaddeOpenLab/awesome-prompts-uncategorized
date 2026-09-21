@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T20:24:44.927Z",
+  "model": "hailuo",
+  "prompt": "high quality anime style, detailed anime line art, cel shading, anime lighting, 2D anime aesthetic, consistent anime character design。女人、僵尸、走廊与全部动作均采用同一套高质量2D动画美学；女人必须具有精致动画角色的清晰线条、成束头发、统一赛璐璐着色与光影，不让她变成真人演员或3D模型。不是真人实拍、cosplay、3D游戏画面、普通gameplay或写实风格。画面原生填满整个横屏16:9，重新组织主体构图，不保留竖屏黑底、嵌套视频框或圆角边框；全程没有任何文字、字幕、标题、标识或水印。环境：阳光明媚的学校走廊，浅绿色与奶油色墙壁，光滑的水磨石地板，右侧窗户持续透入柔和自然日光。光线干净明亮，色调为柔和的日间动画光影，保持低饱和的清爽感，不加入霓虹、阴暗滤镜或室外大全景。正好一个主要主体与多名临时攻击者：A为年轻成年女性，妆容干净，黑色头发梳成利落低发髻，戴细框眼镜，穿金色无袖缎面上衣、黑色皮革迷你裙、透明丝袜与黑色细高跟鞋，左手自然抱着深蓝色文件夹贴在胸前。她始终表情平静、步伐从容，嘴角带有极淡的了然微笑。攻击者们全部为僵尸：皮肤苍白灰暗、眼神空洞、动作僵硬迟缓，穿着破损的深色运动服或校服，外表凌乱，但全部被轻松化解。不添加喷血、飞溅或严重破损表现。开场：A从一扇滑动门平静走出，步伐稳定优雅，高跟鞋踩在光滑地板上发出清晰节奏。一名苍白僵硬的僵尸从她身后突然扑来。她几乎不回头、不改变步伐与表情，仅用空闲的右手随意轻弹，那名僵尸立刻被超乎常理的力量弹飞向后，身体在空中划出弧线后重重落地滑行。她继续以放松的速度向前走。随后多名僵尸（破损深色运动服与校服混杂）从正面与两侧一波波僵硬地冲向她。她始终保持同样从容的步伐与平静表情，用极少、精准、近乎懒散的动作逐一化解：一次轻轻推掌、一次抬手、一次优美的踢腿（鞋跟在空中划出利落弧线）。每一次接触都带有不可能的超人力道，僵尸们被弹飞、翻滚、在地板上滑行，身体以夸张却不血腥的动画物理效果四散。全程无喷血、无伤口特写、无残酷表现，只强调力量反差与她的毫不在意。镜头风格：以低角度侧跟镜头为主，机位保持在她腰部与腿部高度，强调高跟鞋的清晰步伐与从容步态；穿插少量动态慢动作插入镜头，捕捉僵尸被弹飞的空中姿态与落地滑行。摄影机运动平稳流畅，带有轻微手持感但不晃动过度。自然窗户光线从右侧持续洒入，形成柔和的赛璐璐光影与轻微运动模糊。对比强烈：她始终优雅平静，僵尸则呈现夸张的僵硬翻滚物理效果。节奏与摄影：本片为冷静幽默的超级英雄式动作段落，不改编成激烈格斗或血腥场面。保留“平静走出滑动门—身后一只僵尸被随意弹飞—继续前行并逐一轻松化解多只僵尸攻击”的连续流程。所有慢动作仅用于僵尸被弹飞的瞬间，不额外加入ultra slow motion、speed ramp或冻结画面。保持同一明亮日间动画光影与走廊地理连续性。连续性：A始终是同一年轻成年女性、同一金色无袖缎面上衣、黑色皮革迷你裙、透明丝袜、黑色细高跟鞋、低发髻与细框眼镜，左手始终抱着深蓝色文件夹，表情与步伐从头到尾保持平静从容；僵尸们被弹飞后不再起身追击。重点呈现优雅最小动作与夸张力量反差，不添加喷血、飞溅内脏、严重破损或残酷镜头。严格禁止背景音乐：全片任何时段均不得生成背景音乐、电影配乐、音乐音轨、旋律、节奏性打击乐、合唱、歌曲、音乐性持续音或音调性氛围铺底。仅允许与画面同步且物理上属于场景的画内声（diegetic audio）：高跟鞋踩在水磨石地板上的清晰节奏声、滑动门开合轻响、衣料与空气摩擦、僵尸被弹飞时的短促低哑声响与身体落地滑行声、文件夹轻微晃动声。没有对白、旁白、可懂喊词或字幕；不得用配乐、低频持续音、鼓点或节奏性脉冲填补空缺。出现任何背景音乐或配乐即判定为不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 全片原生满幅，无黑边、圆角框、任何文字、字幕、标题、logo、interface、播放器控件或watermark。",
+  "promptTranslations": {
+    "en": "high quality anime style, detailed anime line art, cel shading, anime lighting, 2D anime aesthetic, consistent anime character design. The woman, zombies, hallway, and all actions adopt the same unified high-quality 2D anime aesthetic; the woman must feature the crisp line work, clustered hair, and uniform cel shading and lighting of an exquisite anime character, without turning into a live-action actor or 3D model. Not live-action filming, cosplay, 3D game graphics, generic gameplay, or realistic style. The image natively fills the entire widescreen 16:9 frame, reorganizing the subject composition without retaining vertical black borders, nested video frames, or rounded borders; no text, subtitles, titles, logos, or watermarks throughout. Environment: A sunlit school hallway with pale green and cream-colored walls, polished terrazzo flooring, and soft natural daylight steadily streaming in through windows on the right side. Clean and bright lighting with soft daytime anime shading, maintaining a low-saturation refreshing feel, without adding neon, gloomy filters, or outdoor wide panoramas. Exactly one main subject and multiple disposable attackers: Subject A is a young adult woman with clean makeup, black hair styled into a neat low bun, wearing thin-frame glasses, a golden sleeveless satin top, a black leather miniskirt, sheer stockings, and black stiletto high heels, holding a dark blue folder naturally against her chest with her left hand. She maintains a calm expression and leisurely pace throughout, with a faint, knowing smile at the corners of her mouth. The attackers are all zombies: pale and gray dull skin, hollow eyes, stiff and sluggish movements, wearing tattered dark athletic wear or school uniforms, disheveled in appearance, yet all easily dispelled. Do not add blood sprays, splatters, or severe gore effects. Opening: A calmly walks out of a sliding door with steady and elegant strides, her high heels tapping with a crisp rhythm on the polished floor. A pale, stiff zombie suddenly lunges at her from behind. Barely turning her head, without altering her pace or expression, she simply uses her free right hand to give a casual flick; the zombie is instantly hurled backward by an unnatural force, arching through the air before heavily sliding across the floor. She continues walking forward at a relaxed pace. Afterward, multiple zombies (a mix of tattered dark sportswear and school uniforms) charge stiffly at her in waves from the front and flanks. Consistently maintaining the same composed pace and tranquil expression, she dispels each of them one by one with minimal, precise, almost lazy movements: a gentle palm thrust, a raised hand, an elegant kick (with the heel tracing a clean arc in the air). Every contact carries impossible superhuman strength, sending the zombies flying, tumbling, and skidding along the floor, their bodies scattering with exaggerated yet non-bloody anime physics. Throughout, there is no blood spraying, no wound close-ups, and no cruel depictions, highlighting only the power contrast and her complete nonchalance. Camera Style: Primarily low-angle side tracking shots, keeping the camera at waist and leg level to emphasize the crisp steps of the high heels and her composed gait; interspersed with a few dynamic slow-motion insert shots capturing the zombies' airborne postures as they are flicked away and sliding upon impact. Camera movement is smooth and steady, possessing a subtle handheld feel without excessive shaking. Natural window light steadily pours in from the right, creating soft cel-shaded lighting and subtle motion blur. Strong contrast: she remains perpetually elegant and tranquil, while the zombies exhibit exaggerated stiff tumbling ragdoll physics. Pacing and Cinematography: This video is a cool, humorous superhero-style action sequence, not adapted into intense combat or gory scenes. Preserve the continuous progression of 'calmly walking out of the sliding door — casually flicking away a zombie from behind — continuing forward and effortlessly neutralizing multiple attacking zombies one after another.' All slow-motion is reserved strictly for the moments zombies are launched backward, without adding extra ultra slow motion, speed ramping, or freeze frames. Maintain the same bright daytime anime lighting and hallway geographical continuity. Continuity: A remains the exact same young adult female throughout, in the same gold sleeveless satin top, black leather miniskirt, sheer stockings, black stiletto high heels, low bun, and thin-framed glasses, always carrying the dark blue folder in her left hand, maintaining a calm and composed expression and gait from start to finish; once knocked back, the zombies do not get back up to give chase. Focus on presenting the contrast between elegant minimal motions and exaggerated strength, without blood sprays, splattering entrails, severe mutilation, or brutal shots. Strictly prohibit background music: At no point during the entire video may background music, cinematic score, music tracks, melody, rhythmic percussion, choir, songs, musical drones, or tonal ambient beds be generated. Only diegetic audio physically belonging to the scene and synchronized with visuals is permitted: the distinct rhythmic sound of high heels tapping on the terrazzo floor, the light sliding sound of the door opening and closing, friction of fabric against air, brief muffled grunts as zombies are knocked away and the sliding sound of bodies hitting the floor, the subtle rustling of the folder. No dialogue, narration, intelligible shouts, or subtitles; do not fill voids with musical score, low-frequency drones, drumbeats, or rhythmic pulses. The appearance of any background music or score will be judged non-compliant. music=0; no_music=1; strict_no_music=1; audio=diegetic_only; Native full frame throughout, no black bars, rounded frames, any text, subtitles, titles, logos, interface, player controls, or watermarks."
+  },
+  "summaryTranslations": {
+    "en": "A 2D Japanese anime action short of an elegant woman strolling through a bright school hallway, casually flicking away zombies."
+  },
+  "translationVersion": 2,
+  "summary": "优雅女性在明亮学校走廊中漫步并轻松随手击飞僵尸的2D日漫动作短片。",
+  "summaryEn": "A 2D anime sequence of an elegant woman calmly walking down a school hallway while effortlessly knocking away zombies.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102126625760715047",
+    "canonicalUrl": "https://x.com/AesterCreatives/status/2102126625760715047",
+    "author": {
+      "username": "AesterCreatives",
+      "displayName": "Aester",
+      "profileUrl": "https://x.com/AesterCreatives"
+    },
+    "publishedAt": "2026-09-21T20:03:37.000Z",
+    "collectedAt": "2026-09-21T20:15:28.694Z",
+    "language": "en",
+    "originalText": "Absolutely nothing but zombie?!\n\nMiniMax  \n\nPrompt:\nhigh quality anime style, detailed anime line art, cel shading, anime lighting, 2D anime aesthetic, consistent anime character design。女人、僵尸、走廊与全部动作均采用同一套高质量2D动画美学；女人必须具有精致动画角色的清晰线条、成束头发、统一赛璐璐着色与光影，不让她变成真人演员或3D模型。不是真人实拍、cosplay、3D游戏画面、普通gameplay或写实风格。画面原生填满整个横屏16:9，重新组织主体构图，不保留竖屏黑底、嵌套视频框或圆角边框；全程没有任何文字、字幕、标题、标识或水印。环境：阳光明媚的学校走廊，浅绿色与奶油色墙壁，光滑的水磨石地板，右侧窗户持续透入柔和自然日光。光线干净明亮，色调为柔和的日间动画光影，保持低饱和的清爽感，不加入霓虹、阴暗滤镜或室外大全景。正好一个主要主体与多名临时攻击者：A为年轻成年女性，妆容干净，黑色头发梳成利落低发髻，戴细框眼镜，穿金色无袖缎面上衣、黑色皮革迷你裙、透明丝袜与黑色细高跟鞋，左手自然抱着深蓝色文件夹贴在胸前。她始终表情平静、步伐从容，嘴角带有极淡的了然微笑。攻击者们全部为僵尸：皮肤苍白灰暗、眼神空洞、动作僵硬迟缓，穿着破损的深色运动服或校服，外表凌乱，但全部被轻松化解。不添加喷血、飞溅或严重破损表现。开场：A从一扇滑动门平静走出，步伐稳定优雅，高跟鞋踩在光滑地板上发出清晰节奏。一名苍白僵硬的僵尸从她身后突然扑来。她几乎不回头、不改变步伐与表情，仅用空闲的右手随意轻弹，那名僵尸立刻被超乎常理的力量弹飞向后，身体在空中划出弧线后重重落地滑行。她继续以放松的速度向前走。随后多名僵尸（破损深色运动服与校服混杂）从正面与两侧一波波僵硬地冲向她。她始终保持同样从容的步伐与平静表情，用极少、精准、近乎懒散的动作逐一化解：一次轻轻推掌、一次抬手、一次优美的踢腿（鞋跟在空中划出利落弧线）。每一次接触都带有不可能的超人力道，僵尸们被弹飞、翻滚、在地板上滑行，身体以夸张却不血腥的动画物理效果四散。全程无喷血、无伤口特写、无残酷表现，只强调力量反差与她的毫不在意。镜头风格：以低角度侧跟镜头为主，机位保持在她腰部与腿部高度，强调高跟鞋的清晰步伐与从容步态；穿插少量动态慢动作插入镜头，捕捉僵尸被弹飞的空中姿态与落地滑行。摄影机运动平稳流畅，带有轻微手持感但不晃动过度。自然窗户光线从右侧持续洒入，形成柔和的赛璐璐光影与轻微运动模糊。对比强烈：她始终优雅平静，僵尸则呈现夸张的僵硬翻滚物理效果。节奏与摄影：本片为冷静幽默的超级英雄式动作段落，不改编成激烈格斗或血腥场面。保留“平静走出滑动门—身后一只僵尸被随意弹飞—继续前行并逐一轻松化解多只僵尸攻击”的连续流程。所有慢动作仅用于僵尸被弹飞的瞬间，不额外加入ultra slow motion、speed ramp或冻结画面。保持同一明亮日间动画光影与走廊地理连续性。连续性：A始终是同一年轻成年女性、同一金色无袖缎面上衣、黑色皮革迷你裙、透明丝袜、黑色细高跟鞋、低发髻与细框眼镜，左手始终抱着深蓝色文件夹，表情与步伐从头到尾保持平静从容；僵尸们被弹飞后不再起身追击。重点呈现优雅最小动作与夸张力量反差，不添加喷血、飞溅内脏、严重破损或残酷镜头。严格禁止背景音乐：全片任何时段均不得生成背景音乐、电影配乐、音乐音轨、旋律、节奏性打击乐、合唱、歌曲、音乐性持续音或音调性氛围铺底。仅允许与画面同步且物理上属于场景的画内声（diegetic audio）：高跟鞋踩在水磨石地板上的清晰节奏声、滑动门开合轻响、衣料与空气摩擦、僵尸被弹飞时的短促低哑声响与身体落地滑行声、文件夹轻微晃动声。没有对白、旁白、可懂喊词或字幕；不得用配乐、低频持续音、鼓点或节奏性脉冲填补空缺。出现任何背景音乐或配乐即判定为不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 全片原生满幅，无黑边、圆角框、任何文字、字幕、标题、logo、interface、播放器控件或watermark。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AesterCreatives/status/2102126625760715047",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102126539831922688/img/syLdsNqU6W8K-Uzf.jpg",
+        "analysisUrl": "https://x.com/AesterCreatives/status/2102126625760715047"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 47
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AesterCreatives/status/2102126625760715047",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102126539831922688/img/syLdsNqU6W8K-Uzf.jpg",
+  "coverPath": "covers/2102126625760715047.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102126539831922688",
+    "x-post:2102126625760715047"
+  ],
+  "analysis": {
+    "summary": "优雅女性在明亮学校走廊中漫步并轻松随手击飞僵尸的2D日漫动作短片。",
+    "summaryEn": "A 2D anime sequence of an elegant woman calmly walking down a school hallway while effortlessly knocking away zombies.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频角色着装（金黄色无袖上衣、黑色短裙、黑丝高跟鞋、眼镜、抱文件夹）、日漫风格、阳光走廊场景及僵尸被轻易击飞的动态与提示词描述完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "high quality anime style, detailed anime line art, cel shading, anime lighting, 2D anime aesthetic, consistent anime character design。女人、僵尸、走廊与全部动作均采用同一套高质量2D动画美学；女人必须具有精致动画角色的清晰线条、成束头发、统一赛璐璐着色与光影，不让她变成真人演员或3D模型。不是真人实拍、cosplay、3D游戏画面、普通gameplay或写实风格。画面原生填满整个横屏16:9，重新组织主体构图，不保留竖屏黑底、嵌套视频框或圆角边框；全程没有任何文字、字幕、标题、标识或水印。环境：阳光明媚的学校走廊，浅绿色与奶油色墙壁，光滑的水磨石地板，右侧窗户持续透入柔和自然日光。光线干净明亮，色调为柔和的日间动画光影，保持低饱和的清爽感，不加入霓虹、阴暗滤镜或室外大全景。正好一个主要主体与多名临时攻击者：A为年轻成年女性，妆容干净，黑色头发梳成利落低发髻，戴细框眼镜，穿金色无袖缎面上衣、黑色皮革迷你裙、透明丝袜与黑色细高跟鞋，左手自然抱着深蓝色文件夹贴在胸前。她始终表情平静、步伐从容，嘴角带有极淡的了然微笑。攻击者们全部为僵尸：皮肤苍白灰暗、眼神空洞、动作僵硬迟缓，穿着破损的深色运动服或校服，外表凌乱，但全部被轻松化解。不添加喷血、飞溅或严重破损表现。开场：A从一扇滑动门平静走出，步伐稳定优雅，高跟鞋踩在光滑地板上发出清晰节奏。一名苍白僵硬的僵尸从她身后突然扑来。她几乎不回头、不改变步伐与表情，仅用空闲的右手随意轻弹，那名僵尸立刻被超乎常理的力量弹飞向后，身体在空中划出弧线后重重落地滑行。她继续以放松的速度向前走。随后多名僵尸（破损深色运动服与校服混杂）从正面与两侧一波波僵硬地冲向她。她始终保持同样从容的步伐与平静表情，用极少、精准、近乎懒散的动作逐一化解：一次轻轻推掌、一次抬手、一次优美的踢腿（鞋跟在空中划出利落弧线）。每一次接触都带有不可能的超人力道，僵尸们被弹飞、翻滚、在地板上滑行，身体以夸张却不血腥的动画物理效果四散。全程无喷血、无伤口特写、无残酷表现，只强调力量反差与她的毫不在意。镜头风格：以低角度侧跟镜头为主，机位保持在她腰部与腿部高度，强调高跟鞋的清晰步伐与从容步态；穿插少量动态慢动作插入镜头，捕捉僵尸被弹飞的空中姿态与落地滑行。摄影机运动平稳流畅，带有轻微手持感但不晃动过度。自然窗户光线从右侧持续洒入，形成柔和的赛璐璐光影与轻微运动模糊。对比强烈：她始终优雅平静，僵尸则呈现夸张的僵硬翻滚物理效果。节奏与摄影：本片为冷静幽默的超级英雄式动作段落，不改编成激烈格斗或血腥场面。保留“平静走出滑动门—身后一只僵尸被随意弹飞—继续前行并逐一轻松化解多只僵尸攻击”的连续流程。所有慢动作仅用于僵尸被弹飞的瞬间，不额外加入ultra slow motion、speed ramp或冻结画面。保持同一明亮日间动画光影与走廊地理连续性。连续性：A始终是同一年轻成年女性、同一金色无袖缎面上衣、黑色皮革迷你裙、透明丝袜、黑色细高跟鞋、低发髻与细框眼镜，左手始终抱着深蓝色文件夹，表情与步伐从头到尾保持平静从容；僵尸们被弹飞后不再起身追击。重点呈现优雅最小动作与夸张力量反差，不添加喷血、飞溅内脏、严重破损或残酷镜头。严格禁止背景音乐：全片任何时段均不得生成背景音乐、电影配乐、音乐音轨、旋律、节奏性打击乐、合唱、歌曲、音乐性持续音或音调性氛围铺底。仅允许与画面同步且物理上属于场景的画内声（diegetic audio）：高跟鞋踩在水磨石地板上的清晰节奏声、滑动门开合轻响、衣料与空气摩擦、僵尸被弹飞时的短促低哑声响与身体落地滑行声、文件夹轻微晃动声。没有对白、旁白、可懂喊词或字幕；不得用配乐、低频持续音、鼓点或节奏性脉冲填补空缺。出现任何背景音乐或配乐即判定为不合格。music=0; no_music=1; strict_no_music=1; audio=diegetic_only; 全片原生满幅，无黑边、圆角框、任何文字、字幕、标题、logo、interface、播放器控件或watermark。",
+    "sourceRange": {
+      "start": 52,
+      "end": 1791
+    },
+    "translations": {
+      "zh": "高质量日漫美学、赛璐璐上色风格。阳光洒入的学校走廊中，一名戴眼镜、身穿金色无袖上衣、黑皮短裙与高跟鞋的从容女性抱着文件夹行走，随手以超人体术将扑来的多只僵尸轻松弹飞击倒，动作优美克制无血腥，仅保留场景自然环境音效。",
+      "en": "High-quality anime cel-shaded style. In a sunlit school corridor, a calm woman in a gold sleeveless top, black mini skirt, and high heels holds a folder while effortlessly swatting away attacking zombies with superhuman power. Clean, non-gory action with strictly diegetic audio."
+    },
+    "targetModels": [
+      "hailuo"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

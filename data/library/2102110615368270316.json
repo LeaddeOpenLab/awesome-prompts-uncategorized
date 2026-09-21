@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T20:25:15.288Z",
+  "model": "unknown-image",
+  "prompt": "SUBJECT: [NAME / MALE or FEMALE]\nUse the uploaded photo as the ONLY identity reference. Preserve the person’s exact recognizable identity, facial structure, eyes, nose, lips, jawline, hairstyle OR natural baldness, skin tone, age and distinctive features. No identity drift, no unwanted hair, no feminizing or masculinizing.\nCreate a powerful artistic black-and-white portrait inspired by the reference: extreme close-up side-profile, the subject partially hidden behind a soft foreground edge, looking thoughtfully toward the side with one eye clearly visible. One hand rests naturally near the mouth/chin in a contemplative pose. Dramatic low-key lighting, deep shadows, soft highlights, rich monochrome tones, authentic skin texture, subtle film grain, shallow depth of field, dark minimalist background, intimate emotional atmosphere, fine-art documentary photography, ultra-detailed, vertical 4:5.\nKeep the pose natural and gender-appropriate. No text or logos except my signature.\nAdd only at bottom-left:\n“Prompt & Idea 𝕏 @EhabSalahArt - Lady @MFH_1984 \"\n“https://t.co/yKUOLllJYo”",
+  "promptTranslations": {
+    "en": "SUBJECT: [NAME / MALE or FEMALE]\nUse the uploaded photo as the ONLY identity reference. Preserve the person’s exact recognizable identity, facial structure, eyes, nose, lips, jawline, hairstyle OR natural baldness, skin tone, age and distinctive features. No identity drift, no unwanted hair, no feminizing or masculinizing.\nCreate a powerful artistic black-and-white portrait inspired by the reference: extreme close-up side-profile, the subject partially hidden behind a soft foreground edge, looking thoughtfully toward the side with one eye clearly visible. One hand rests naturally near the mouth/chin in a contemplative pose. Dramatic low-key lighting, deep shadows, soft highlights, rich monochrome tones, authentic skin texture, subtle film grain, shallow depth of field, dark minimalist background, intimate emotional atmosphere, fine-art documentary photography, ultra-detailed, vertical 4:5.\nKeep the pose natural and gender-appropriate. No text or logos except my signature.\nAdd only at bottom-left:\n“Prompt & Idea 𝕏 @EhabSalahArt - Lady @MFH_1984 \"\n“https://t.co/yKUOLllJYo”"
+  },
+  "summaryTranslations": {
+    "en": "Dramatic low-key B&W artistic close-up portrait template preserving identity behind a foreground edge."
+  },
+  "translationVersion": 2,
+  "summary": "Dramatic low-key B&W artistic close-up portrait template preserving identity behind a foreground edge.",
+  "summaryEn": "Dramatic low-key B&W artistic close-up portrait template preserving identity behind a foreground edge.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102110615368270316",
+    "canonicalUrl": "https://x.com/EhabSalahArt/status/2102110615368270316",
+    "author": {
+      "username": "EhabSalahArt",
+      "displayName": "Ehab Salah",
+      "profileUrl": "https://x.com/EhabSalahArt"
+    },
+    "publishedAt": "2026-09-21T19:00:00.000Z",
+    "collectedAt": "2026-09-21T20:15:28.694Z",
+    "language": "en",
+    "originalText": "A-Black and white Vote Prompt:\nSUBJECT: [NAME / MALE or FEMALE]\nUse the uploaded photo as the ONLY identity reference. Preserve the person’s exact recognizable identity, facial structure, eyes, nose, lips, jawline, hairstyle OR natural baldness, skin tone, age and distinctive features. No identity drift, no unwanted hair, no feminizing or masculinizing.\nCreate a powerful artistic black-and-white portrait inspired by the reference: extreme close-up side-profile, the subject partially hidden behind a soft foreground edge, looking thoughtfully toward the side with one eye clearly visible. One hand rests naturally near the mouth/chin in a contemplative pose. Dramatic low-key lighting, deep shadows, soft highlights, rich monochrome tones, authentic skin texture, subtle film grain, shallow depth of field, dark minimalist background, intimate emotional atmosphere, fine-art documentary photography, ultra-detailed, vertical 4:5.\nKeep the pose natural and gender-appropriate. No text or logos except my signature.\nAdd only at bottom-left:\n“Prompt & Idea 𝕏 @EhabSalahArt - Lady @MFH_1984 \"\n“https://t.co/yKUOLllJYo”",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuifqcW4AAET_Q.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuifqcW4AAET_Q.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSujuRBWsAADyrp.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSujuRBWsAADyrp.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 1,
+      "replyCount": 10,
+      "quoteCount": 2,
+      "viewCount": 350
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/EhabSalahArt/status/2102110615368270316",
+  "coverUrl": "https://pbs.twimg.com/media/HSuifqcW4AAET_Q.jpg",
+  "coverPath": "images/2102110615368270316-1.jpg",
+  "imagePaths": [
+    "images/2102110615368270316-1.jpg",
+    "images/2102110615368270316-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSuifqcW4AAET_Q",
+    "x-image:/media/HSujuRBWsAADyrp",
+    "x-post:2102110615368270316"
+  ],
+  "analysis": {
+    "summary": "Dramatic low-key B&W artistic close-up portrait template preserving identity behind a foreground edge.",
+    "summaryEn": "Dramatic low-key B&W artistic close-up portrait template preserving identity behind a foreground edge.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches black-and-white close-up side profiles partially framed behind foreground with contemplative hand pose."
+    },
+    "videoQuality": null,
+    "originalPrompt": "SUBJECT: [NAME / MALE or FEMALE]\nUse the uploaded photo as the ONLY identity reference. Preserve the person’s exact recognizable identity, facial structure, eyes, nose, lips, jawline, hairstyle OR natural baldness, skin tone, age and distinctive features. No identity drift, no unwanted hair, no feminizing or masculinizing.\nCreate a powerful artistic black-and-white portrait inspired by the reference: extreme close-up side-profile, the subject partially hidden behind a soft foreground edge, looking thoughtfully toward the side with one eye clearly visible. One hand rests naturally near the mouth/chin in a contemplative pose. Dramatic low-key lighting, deep shadows, soft highlights, rich monochrome tones, authentic skin texture, subtle film grain, shallow depth of field, dark minimalist background, intimate emotional atmosphere, fine-art documentary photography, ultra-detailed, vertical 4:5.\nKeep the pose natural and gender-appropriate. No text or logos except my signature.\nAdd only at bottom-left:\n“Prompt & Idea 𝕏 @EhabSalahArt - Lady @MFH_1984 \"\n“https://t.co/yKUOLllJYo”",
+    "sourceRange": {
+      "start": 31,
+      "end": 1118
+    },
+    "translations": {
+      "zh": "主体：[姓名 / 男性或女性]\n使用上传的照片作为唯一的身份参考。保留人物确切可辨识的身份、面部结构、眼睛、鼻子、嘴唇、下颌轮廓、发型或自然秃顶、肤色、年龄和独特特征。不产生身份偏差，无多余毛发，不发生女性化或男性化偏移。\n根据参考创建具有冲击力的艺术黑白肖像：极近景侧脸，主体部分遮挡在柔和的前景边缘后，若有所思地望向侧方，单眼清晰可见。一只手自然地停留在嘴唇/下巴附近呈沉思姿态。戏剧性的低调布光、浓厚阴影、柔和高光、层次丰富的单色调、真实皮肤质感、微弱胶片颗粒、浅景深、暗调简约背景、亲密的情感氛围、艺术纪实摄影风格、超高细节、4:5竖版。\n保持姿态自然且符合性别特征。除我的签名外不要任何文字或图标。\n仅在左下角添加：\n“Prompt & Idea 𝕏 @EhabSalahArt - Lady @MFH_1984 ”\n“https://t.co/yKUOLllJYo”",
+      "en": "SUBJECT: [NAME / MALE or FEMALE]\nUse the uploaded photo as the ONLY identity reference. Preserve the person’s exact recognizable identity, facial structure, eyes, nose, lips, jawline, hairstyle OR natural baldness, skin tone, age and distinctive features. No identity drift, no unwanted hair, no feminizing or masculinizing.\nCreate a powerful artistic black-and-white portrait inspired by the reference: extreme close-up side-profile, the subject partially hidden behind a soft foreground edge, looking thoughtfully toward the side with one eye clearly visible. One hand rests naturally near the mouth/chin in a contemplative pose. Dramatic low-key lighting, deep shadows, soft highlights, rich monochrome tones, authentic skin texture, subtle film grain, shallow depth of field, dark minimalist background, intimate emotional atmosphere, fine-art documentary photography, ultra-detailed, vertical 4:5.\nKeep the pose natural and gender-appropriate. No text or logos except my signature.\nAdd only at bottom-left:\n“Prompt & Idea 𝕏 @EhabSalahArt - Lady @MFH_1984 \"\n“https://t.co/yKUOLllJYo”"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
