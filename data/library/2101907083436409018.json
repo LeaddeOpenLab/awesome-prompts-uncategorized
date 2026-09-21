@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:30:12.124Z",
+  "model": "unknown-image",
+  "prompt": "在內衣賣場的試衣間裡，彼此展示服裝的場景。服裝隨機，攝影機角度與姿勢隨機。",
+  "promptTranslations": {
+    "en": "A scene of showing outfits to each other inside the fitting room of an underwear store. Random outfits, random camera angles and poses."
+  },
+  "summaryTranslations": {
+    "en": "A showcase scene in an underwear store fitting room with random outfits, angles, and poses."
+  },
+  "translationVersion": 2,
+  "summary": "在內衣賣場試衣間中隨機服裝、角度與姿勢的展示場景。",
+  "summaryEn": "A fitting room showcase scene with random outfits, angles, and poses.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101907083436409018",
+    "canonicalUrl": "https://x.com/Dokislime_TTV/status/2101907083436409018",
+    "author": {
+      "username": "Dokislime_TTV",
+      "displayName": "💗心跳笑💗 Dokislime 偶爾開台的傢伙",
+      "profileUrl": "https://x.com/Dokislime_TTV"
+    },
+    "publishedAt": "2026-09-21T05:31:14.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "zh",
+    "originalText": "上班閒著沒事在滑fb看到一串不錯用的指令\n\nPrompt：在內衣賣場的試衣間裡，彼此展示服裝的場景。服裝隨機，攝影機角度與姿勢隨機。\n若gpt因為規則無法產圖\n就補一句：在合規範圍內自由創作就行\n後續情境是gpt自己幫我弄的\n#AI https://t.co/D8BEMIqntd",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSt5WUva8AABdai.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSt5WUva8AABdai.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 17
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Dokislime_TTV/status/2101907083436409018",
+  "coverUrl": "https://pbs.twimg.com/media/HSt5WUva8AABdai.jpg",
+  "coverPath": "images/2101907083436409018-1.jpg",
+  "imagePaths": [
+    "images/2101907083436409018-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSt5WUva8AABdai",
+    "x-post:2101907083436409018"
+  ],
+  "analysis": {
+    "summary": "在內衣賣場試衣間中隨機服裝、角度與姿勢的展示場景。",
+    "summaryEn": "A fitting room showcase scene with random outfits, angles, and poses.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图展示了粉发角色在试衣间内以多种角度与服饰摆姿势自拍，与提示词中的试衣间场景及随机服饰、姿势和视角一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "在內衣賣場的試衣間裡，彼此展示服裝的場景。服裝隨機，攝影機角度與姿勢隨機。",
+    "sourceRange": {
+      "start": 29,
+      "end": 66
+    },
+    "translations": {
+      "zh": "在內衣賣場的試衣間裡，彼此展示服裝的場景。服裝隨機，攝影機角度與姿勢隨機。",
+      "en": "A scene in the fitting room of an underwear store, showing each other outfits. Random clothing, random camera angles and poses."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [
+        "suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

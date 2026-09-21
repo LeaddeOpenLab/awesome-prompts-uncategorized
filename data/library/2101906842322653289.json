@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:30:06.817Z",
+  "model": "unknown-image",
+  "prompt": "生成一张高质量、超写实的 AI 女性角色设定参考图，采用专业影视角色设计 Character Reference Sheet 版式。整体为浅米白背景，柔和自然光，干净高级，统一摄影棚质感。\n\n角色为一名成年东亚女性，年龄约 22 至 26 岁。人物气质自然、温柔、清冷中带一点柔美感。要求整张角色卡中的所有人物均为同一个人，严格统一五官、脸型、头身比例、身材比例、肤色、发型、发色和年龄感。\n\n【核心身份锁定】\n\n成年东亚女性，鹅蛋偏小脸，脸部轮廓柔和流畅，下颌线自然纤细。额头比例自然，颧骨轻微，面中柔和。\n\n眉毛为自然平缓眉形，略带细小弧度，眉色深棕灰。\n\n眼睛偏大，杏仁形双眼，轻微卧蚕，深棕色瞳孔，眼尾自然，目光柔和。\n\n鼻梁纤细自然，鼻尖圆润精致，鼻翼较窄。\n\n嘴唇自然饱满，上唇略薄，下唇稍丰满，唇峰柔和，天然粉色唇色。\n\n皮肤白皙通透，象牙白偏中性冷调，保持真实皮肤纹理、毛孔和细小绒毛，不进行塑料感磨皮。\n\n深棕偏黑长发，中长发长度，头发柔软蓬松，带有自然碎发。主要发型为低盘发或松散盘发，鬓角留有自然垂落的细碎发丝。发髻加入少量淡粉色花朵发饰。\n\n身材纤细匀称，肩颈线条柔和，腰部自然纤细，腿部修长，四肢比例协调。身体曲线自然真实，不夸张塑形。\n\n整体人物感觉真实、自然、柔和、年轻，像真实存在的人物摄影档案。\n\n【基础服装】\n\n淡粉色蕾丝修身连衣短裙，柔软蕾丝与薄纱材质，长袖设计，腰部自然收束，裙摆带轻微花瓣式蕾丝边缘。搭配浅粉色高跟鞋。\n\n服装只作为角色卡基础造型，用于展示人物体型和比例。\n\n版面 1｜全身角度\n\n在角色卡上方生成同一人物的五个完整全身视角：\n\n正面\n\n左侧面\n\n背面\n\n左前方约 45 度\n\n右后方约 45 度\n\n人物采用自然站姿，双腿自然伸展，手臂轻松放置。保持所有视角中的身体比例完全一致。\n\n镜头约 70mm 至 85mm 人像镜头效果，避免广角形变。\n\n版面 2｜脸部角度\n\n生成同一人物的五个头肩近景：\n\n正面\n\n45 度侧脸\n\n完整侧脸\n\n微微仰头\n\n微微低头\n\n严格保持鼻型、眼型、唇形、下颌线、耳朵位置和发际线一致。\n\n版面 3｜发型细节\n\n展示三个角度：\n\n正面\n\n侧面\n\n背面\n\n重点记录发际线、头顶蓬松程度、低盘发结构、鬓角碎发、后脑勺发髻结构以及淡粉色花朵发饰位置。\n\n版面 4｜表情参考\n\n使用同一个人物制作五种自然表情：\n\n平静\n\n自然微笑\n\n认真\n\n轻微惊讶\n\n轻微委屈或沉思\n\n所有表情只改变面部肌肉状态，保持人物身份完全一致。\n\n版面 5｜五官特写\n\n分别制作高清局部特写：\n\n双眼\n\n眉毛\n\n鼻子\n\n嘴唇\n\n耳朵\n\n保持真实皮肤细节和自然光影，可清晰观察五官形状和比例。\n\n版面 6｜皮肤与身体细节\n\n展示：\n\n脸颊皮肤纹理\n\n锁骨与肩部\n\n腰腹比例\n\n背部线条\n\n腿部比例\n\n手部与手指\n\n所有细节保持自然人体结构，真实摄影质感。\n\n版面 7｜日常环境适配\n\n最下方增加五张同一角色的小型生活摄影参考：\n\n居家状态\n\n日常休闲穿搭\n\n咖啡店\n\n工作或学习状态\n\n旅行状态\n\n可以改变衣服和场景，但人物的脸、身材、发型核心特征和年龄必须保持稳定。\n\n整体视觉采用超写实人物摄影、真实皮肤质感、自然柔光、85mm 人像镜头、轻微浅景深、高动态范围、细腻发丝、自然人体比例、电影级色彩管理。\n\n角色设定页采用专业 Character Design Sheet 和 Model Sheet 排版方式，浅米白底色，淡粉灰色标题栏，整齐网格布局，所有图片曝光、肤色和色温统一。\n\n整张图片重点强调：\n\nSame Character\n\nSame Face\n\nSame Identity\n\nSame Facial Geometry\n\nSame Body Proportions\n\nSame Skin Tone\n\nSame Hair Structure\n\nConsistent Character Design\n\nIdentity Locked\n\nCharacter Consistency",
+  "promptTranslations": {
+    "en": "Generate a high-quality, ultra-realistic AI female character design reference sheet using a professional cinematic Character Reference Sheet layout. Set against a light off-white/beige background with soft natural light, clean and sophisticated, with a unified studio photography texture.\n\nThe character is an adult East Asian female, approximately 22 to 26 years old. Her temperament is natural, gentle, and poised with a delicate softness. All depictions across the character sheet must feature the exact same individual, strictly maintaining unified facial features, face shape, head-to-body ratio, body proportions, skin tone, hairstyle, hair color, and perceived age.\n\n[Core Identity Lock]\nAdult East Asian female with a petite oval face, soft and smooth facial contours, and a naturally slender jawline. Natural forehead proportions, subtle cheekbones, and a gentle midface.\n\nEyebrows are naturally smooth and flat with a slight, subtle curve, colored dark brownish-gray.\n\nEyes are relatively large, almond-shaped with double eyelids, subtle aegyo sal, dark brown irises, natural outer corners, and a gentle gaze.\n\nNose has a slender and natural bridge, a delicately rounded tip, and narrow nasal alae.\n\nLips are naturally full, with a slightly thinner upper lip, a slightly plumper lower lip, a soft Cupid's bow, and a natural pink tint.\n\nSkin is fair and translucent, ivory white with neutral-cool undertones, preserving authentic skin texture, pores, and fine vellus hair without plastic-like airbrushed smoothing.\n\nDark brown-black medium-long hair that is soft and voluminous with natural wisps. The primary hairstyle is a low bun or a loose updo, with delicate flyaway strands naturally falling at the temples. The bun is accented with a few pale pink floral hair accessories.\n\nFigure is slender and well-proportioned, featuring soft shoulder and neck contours, a naturally slim waist, long legs, and harmoniously balanced limbs. Body curves are natural and authentic, without exaggerated shaping.\n\nOverall character aura feels authentic, natural, gentle, and youthful, resembling an archival photographic record of a real person.\n\n[Base Outfit]\nA pale pink lace body-hugging mini dress made of soft lace and sheer tulle, featuring long sleeves, a naturally cinched waist, and a skirt hem with subtle petal-style lace trim. Paired with light pink high heels.\n\nThe attire serves solely as the character sheet's baseline styling to display the figure and body proportions.\n\nPanel 1 | Full-Body Angles\nGenerate five full-length full-body perspectives of the same character across the upper section of the sheet:\n- Front view\n- Left profile view\n- Back view\n- Left front ~45-degree angle\n- Right rear ~45-degree angle\nThe character maintains a natural standing pose with legs extended naturally and arms resting comfortably. Ensure body proportions remain completely identical across all perspectives.\nRendered with an approximate 70mm to 85mm portrait lens effect, avoiding wide-angle distortion.\n\nPanel 2 | Facial Angles\nGenerate five head-and-shoulders close-ups of the same character:\n- Front view\n- 45-degree three-quarter view\n- Full profile view\n- Slight upward tilt\n- Slight downward tilt\nStrictly preserve consistent nose shape, eye shape, lip shape, jawline, ear position, and hairline.\n\nPanel 3 | Hairstyle Details\nShowcase three angles:\n- Front\n- Side\n- Back\nFocus on capturing the hairline, crown volume, low bun structure, temple flyaways, back-of-head chignon structure, and the placement of the pale pink floral hair accessories.\n\nPanel 4 | Expression Reference\nCreate five natural expressions using the exact same person:\n- Neutral / Calm\n- Natural smile\n- Serious / Focused\n- Slight surprise\n- Slight pout or contemplative\nAll expressions should solely alter facial muscle states, keeping the character's identity completely identical.\n\nPanel 5 | Facial Feature Close-ups\nProduce separate high-definition macro close-ups:\n- Both eyes\n- Eyebrows\n- Nose\n- Lips\n- Ears\nRetain authentic skin texture and natural lighting, allowing clear inspection of facial feature geometry and proportions.\n\nPanel 6 | Skin and Body Details\nShowcase:\n- Cheek skin texture\n- Collarbone and shoulders\n- Waist and abdominal proportions\n- Backline\n- Leg proportions\n- Hands and fingers\nAll details preserve natural human anatomy and genuine photographic quality.\n\nPanel 7 | Daily Environment Adaptation\nAt the very bottom, add five small lifestyle photography reference shots of the same character:\n- Relaxed at home\n- Casual daily outfit\n- In a coffee shop\n- Working or studying\n- Traveling\nClothing and environments may change, but the character's face, physique, core hairstyle attributes, and age must remain completely consistent.\n\nOverall visual style features ultra-realistic portrait photography, authentic skin texture, soft natural lighting, 85mm portrait lens, subtle shallow depth of field, high dynamic range, delicate individual hair strands, natural human proportions, and cinematic color grading.\n\nThe character sheet layout utilizes a professional Character Design Sheet and Model Sheet arrangement, set on a light off-white background with pale pinkish-gray header banners, an organized grid structure, and unified exposure, skin tone, and color temperature across all panels.\n\nThe entire sheet strictly emphasizes:\nSame Character\nSame Face\nSame Identity\nSame Facial Geometry\nSame Body Proportions\nSame Skin Tone\nSame Hair Structure\nConsistent Character Design\nIdentity Locked\nCharacter Consistency"
+  },
+  "summaryTranslations": {
+    "en": "Professional cinematic character design reference sheet prompt to generate an East Asian female character sheet featuring multi-angle views, expressions, close-ups, and lifestyle scenes."
+  },
+  "translationVersion": 2,
+  "summary": "专业影视角色设定参考卡提示词，生成包含多视角、表情、特写及生活场景的东亚女性角色卡。",
+  "summaryEn": "A detailed character reference sheet prompt for an East Asian female, featuring multiple angles, expressions, and outfits for consistency.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101507137323078057",
+      "canonicalUrl": "https://x.com/3three_AI/status/2101507137323078057",
+      "author": {
+        "username": "3three_AI",
+        "displayName": "三个三",
+        "profileUrl": "https://x.com/3three_AI"
+      },
+      "originalText": "AI 美女最好先做一张角色卡。\n\n不然换个姿势、衣服、场景，脸和身材很容易飘。\n\n我把自己在用的角色卡 Prompt 放下面了 https://t.co/q2v8WkY2DY"
+    },
+    "id": "2101906842322653289",
+    "canonicalUrl": "https://x.com/XiaoKooeye/status/2101906842322653289",
+    "author": {
+      "username": "XiaoKooeye",
+      "displayName": "Xiao Yang",
+      "profileUrl": "https://x.com/XiaoKooeye"
+    },
+    "publishedAt": "2026-09-21T05:30:17.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "zh",
+    "originalText": "感觉可以了！ \n\n作者的提示词忘了贴了。直接拿原图给GPT反推就行。\n\nChatGPT推出了的提示词：\n\n可以。你这张图的核心思路非常适合做 AI 人物长期一致性控制。它本质上是一张“角色视觉圣经”，把脸、身材、发型、表情、服装和不同视角一次性固定下来。\n\n我建议把它整理成下面这种可直接复用的角色卡 Prompt。以后生成新场景时，只需要引用这张角色卡，再改服装、动作和环境。\n\n角色参考图 Prompt\n\n生成一张高质量、超写实的 AI 女性角色设定参考图，采用专业影视角色设计 Character Reference Sheet 版式。整体为浅米白背景，柔和自然光，干净高级，统一摄影棚质感。\n\n角色为一名成年东亚女性，年龄约 22 至 26 岁。人物气质自然、温柔、清冷中带一点柔美感。要求整张角色卡中的所有人物均为同一个人，严格统一五官、脸型、头身比例、身材比例、肤色、发型、发色和年龄感。\n\n【核心身份锁定】\n\n成年东亚女性，鹅蛋偏小脸，脸部轮廓柔和流畅，下颌线自然纤细。额头比例自然，颧骨轻微，面中柔和。\n\n眉毛为自然平缓眉形，略带细小弧度，眉色深棕灰。\n\n眼睛偏大，杏仁形双眼，轻微卧蚕，深棕色瞳孔，眼尾自然，目光柔和。\n\n鼻梁纤细自然，鼻尖圆润精致，鼻翼较窄。\n\n嘴唇自然饱满，上唇略薄，下唇稍丰满，唇峰柔和，天然粉色唇色。\n\n皮肤白皙通透，象牙白偏中性冷调，保持真实皮肤纹理、毛孔和细小绒毛，不进行塑料感磨皮。\n\n深棕偏黑长发，中长发长度，头发柔软蓬松，带有自然碎发。主要发型为低盘发或松散盘发，鬓角留有自然垂落的细碎发丝。发髻加入少量淡粉色花朵发饰。\n\n身材纤细匀称，肩颈线条柔和，腰部自然纤细，腿部修长，四肢比例协调。身体曲线自然真实，不夸张塑形。\n\n整体人物感觉真实、自然、柔和、年轻，像真实存在的人物摄影档案。\n\n【基础服装】\n\n淡粉色蕾丝修身连衣短裙，柔软蕾丝与薄纱材质，长袖设计，腰部自然收束，裙摆带轻微花瓣式蕾丝边缘。搭配浅粉色高跟鞋。\n\n服装只作为角色卡基础造型，用于展示人物体型和比例。\n\n版面 1｜全身角度\n\n在角色卡上方生成同一人物的五个完整全身视角：\n\n正面\n\n左侧面\n\n背面\n\n左前方约 45 度\n\n右后方约 45 度\n\n人物采用自然站姿，双腿自然伸展，手臂轻松放置。保持所有视角中的身体比例完全一致。\n\n镜头约 70mm 至 85mm 人像镜头效果，避免广角形变。\n\n版面 2｜脸部角度\n\n生成同一人物的五个头肩近景：\n\n正面\n\n45 度侧脸\n\n完整侧脸\n\n微微仰头\n\n微微低头\n\n严格保持鼻型、眼型、唇形、下颌线、耳朵位置和发际线一致。\n\n版面 3｜发型细节\n\n展示三个角度：\n\n正面\n\n侧面\n\n背面\n\n重点记录发际线、头顶蓬松程度、低盘发结构、鬓角碎发、后脑勺发髻结构以及淡粉色花朵发饰位置。\n\n版面 4｜表情参考\n\n使用同一个人物制作五种自然表情：\n\n平静\n\n自然微笑\n\n认真\n\n轻微惊讶\n\n轻微委屈或沉思\n\n所有表情只改变面部肌肉状态，保持人物身份完全一致。\n\n版面 5｜五官特写\n\n分别制作高清局部特写：\n\n双眼\n\n眉毛\n\n鼻子\n\n嘴唇\n\n耳朵\n\n保持真实皮肤细节和自然光影，可清晰观察五官形状和比例。\n\n版面 6｜皮肤与身体细节\n\n展示：\n\n脸颊皮肤纹理\n\n锁骨与肩部\n\n腰腹比例\n\n背部线条\n\n腿部比例\n\n手部与手指\n\n所有细节保持自然人体结构，真实摄影质感。\n\n版面 7｜日常环境适配\n\n最下方增加五张同一角色的小型生活摄影参考：\n\n居家状态\n\n日常休闲穿搭\n\n咖啡店\n\n工作或学习状态\n\n旅行状态\n\n可以改变衣服和场景，但人物的脸、身材、发型核心特征和年龄必须保持稳定。\n\n整体视觉采用超写实人物摄影、真实皮肤质感、自然柔光、85mm 人像镜头、轻微浅景深、高动态范围、细腻发丝、自然人体比例、电影级色彩管理。\n\n角色设定页采用专业 Character Design Sheet 和 Model Sheet 排版方式，浅米白底色，淡粉灰色标题栏，整齐网格布局，所有图片曝光、肤色和色温统一。\n\n整张图片重点强调：\n\nSame Character\n\nSame Face\n\nSame Identity\n\nSame Facial Geometry\n\nSame Body Proportions\n\nSame Skin Tone\n\nSame Hair Structure\n\nConsistent Character Design\n\nIdentity Locked\n\nCharacter Consistency\n\n如果你准备长期使用这个人物，我还建议额外做一个更强的“身份锚点 Prompt”。以后换旗袍、泳装、汉服、礼服、职业装，甚至换时代背景，都可以把这一段放在最前面：\n\n严格使用角色参考图中的同一名成年东亚女性。锁定人物身份，完整保持原角色的脸型、五官几何结构、眼距、眼型、眉形、鼻梁宽度、鼻尖形状、嘴唇轮廓、下颌线、耳朵、发际线、肤色、年龄感和身体比例。任何服装、姿势、镜头、光线和环境变化都不得改变人物身份。保持同一真人在不同时间、不同服装和不同环境中被拍摄的感觉。严格避免换脸、脸型漂移、年龄漂移、身材漂移、眼睛放大、鼻子变化、下巴变化、肤色变化和发型结构无故改变。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSt4sXcawAAtpGw.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSt4sXcawAAtpGw.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSn5CjDbwAASdqm.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSn5CjDbwAASdqm.jpg",
+        "sourcePostId": "2101507137323078057"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 718
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/XiaoKooeye/status/2101906842322653289",
+  "coverUrl": "https://pbs.twimg.com/media/HSt4sXcawAAtpGw.jpg",
+  "coverPath": "images/2101906842322653289-1.jpg",
+  "imagePaths": [
+    "images/2101906842322653289-1.jpg",
+    "images/2101906842322653289-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSt4sXcawAAtpGw",
+    "x-image:/media/HSn5CjDbwAASdqm",
+    "x-post:2101906842322653289",
+    "x-post:2101507137323078057"
+  ],
+  "analysis": {
+    "summary": "专业影视角色设定参考卡提示词，生成包含多视角、表情、特写及生活场景的东亚女性角色卡。",
+    "summaryEn": "A detailed character reference sheet prompt for an East Asian female, featuring multiple angles, expressions, and outfits for consistency.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "附图2中的角色版面布局、粉色蕾丝短裙、盘发发饰以及各分区板块与提示词完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "生成一张高质量、超写实的 AI 女性角色设定参考图，采用专业影视角色设计 Character Reference Sheet 版式。整体为浅米白背景，柔和自然光，干净高级，统一摄影棚质感。\n\n角色为一名成年东亚女性，年龄约 22 至 26 岁。人物气质自然、温柔、清冷中带一点柔美感。要求整张角色卡中的所有人物均为同一个人，严格统一五官、脸型、头身比例、身材比例、肤色、发型、发色和年龄感。\n\n【核心身份锁定】\n\n成年东亚女性，鹅蛋偏小脸，脸部轮廓柔和流畅，下颌线自然纤细。额头比例自然，颧骨轻微，面中柔和。\n\n眉毛为自然平缓眉形，略带细小弧度，眉色深棕灰。\n\n眼睛偏大，杏仁形双眼，轻微卧蚕，深棕色瞳孔，眼尾自然，目光柔和。\n\n鼻梁纤细自然，鼻尖圆润精致，鼻翼较窄。\n\n嘴唇自然饱满，上唇略薄，下唇稍丰满，唇峰柔和，天然粉色唇色。\n\n皮肤白皙通透，象牙白偏中性冷调，保持真实皮肤纹理、毛孔和细小绒毛，不进行塑料感磨皮。\n\n深棕偏黑长发，中长发长度，头发柔软蓬松，带有自然碎发。主要发型为低盘发或松散盘发，鬓角留有自然垂落的细碎发丝。发髻加入少量淡粉色花朵发饰。\n\n身材纤细匀称，肩颈线条柔和，腰部自然纤细，腿部修长，四肢比例协调。身体曲线自然真实，不夸张塑形。\n\n整体人物感觉真实、自然、柔和、年轻，像真实存在的人物摄影档案。\n\n【基础服装】\n\n淡粉色蕾丝修身连衣短裙，柔软蕾丝与薄纱材质，长袖设计，腰部自然收束，裙摆带轻微花瓣式蕾丝边缘。搭配浅粉色高跟鞋。\n\n服装只作为角色卡基础造型，用于展示人物体型和比例。\n\n版面 1｜全身角度\n\n在角色卡上方生成同一人物的五个完整全身视角：\n\n正面\n\n左侧面\n\n背面\n\n左前方约 45 度\n\n右后方约 45 度\n\n人物采用自然站姿，双腿自然伸展，手臂轻松放置。保持所有视角中的身体比例完全一致。\n\n镜头约 70mm 至 85mm 人像镜头效果，避免广角形变。\n\n版面 2｜脸部角度\n\n生成同一人物的五个头肩近景：\n\n正面\n\n45 度侧脸\n\n完整侧脸\n\n微微仰头\n\n微微低头\n\n严格保持鼻型、眼型、唇形、下颌线、耳朵位置和发际线一致。\n\n版面 3｜发型细节\n\n展示三个角度：\n\n正面\n\n侧面\n\n背面\n\n重点记录发际线、头顶蓬松程度、低盘发结构、鬓角碎发、后脑勺发髻结构以及淡粉色花朵发饰位置。\n\n版面 4｜表情参考\n\n使用同一个人物制作五种自然表情：\n\n平静\n\n自然微笑\n\n认真\n\n轻微惊讶\n\n轻微委屈或沉思\n\n所有表情只改变面部肌肉状态，保持人物身份完全一致。\n\n版面 5｜五官特写\n\n分别制作高清局部特写：\n\n双眼\n\n眉毛\n\n鼻子\n\n嘴唇\n\n耳朵\n\n保持真实皮肤细节和自然光影，可清晰观察五官形状和比例。\n\n版面 6｜皮肤与身体细节\n\n展示：\n\n脸颊皮肤纹理\n\n锁骨与肩部\n\n腰腹比例\n\n背部线条\n\n腿部比例\n\n手部与手指\n\n所有细节保持自然人体结构，真实摄影质感。\n\n版面 7｜日常环境适配\n\n最下方增加五张同一角色的小型生活摄影参考：\n\n居家状态\n\n日常休闲穿搭\n\n咖啡店\n\n工作或学习状态\n\n旅行状态\n\n可以改变衣服和场景，但人物的脸、身材、发型核心特征和年龄必须保持稳定。\n\n整体视觉采用超写实人物摄影、真实皮肤质感、自然柔光、85mm 人像镜头、轻微浅景深、高动态范围、细腻发丝、自然人体比例、电影级色彩管理。\n\n角色设定页采用专业 Character Design Sheet 和 Model Sheet 排版方式，浅米白底色，淡粉灰色标题栏，整齐网格布局，所有图片曝光、肤色和色温统一。\n\n整张图片重点强调：\n\nSame Character\n\nSame Face\n\nSame Identity\n\nSame Facial Geometry\n\nSame Body Proportions\n\nSame Skin Tone\n\nSame Hair Structure\n\nConsistent Character Design\n\nIdentity Locked\n\nCharacter Consistency",
+    "sourceRange": {
+      "start": 205,
+      "end": 1882
+    },
+    "translations": {
+      "zh": "生成一张高质量、超写实的 AI 女性角色设定参考图，采用专业影视角色设计 Character Reference Sheet 版式。整体为浅米白背景，柔和自然光，干净高级，统一摄影棚质感。\n\n角色为一名成年东亚女性，年龄约 22 至 26 岁。人物气质自然、温柔、清冷中带一点柔美感。要求整张角色卡中的所有人物均为同一个人，严格统一五官、脸型、头身比例、身材比例、肤色、发型、发色和年龄感。\n\n【核心身份锁定】\n\n成年东亚女性，鹅蛋偏小脸，脸部轮廓柔和流畅，下颌线自然纤细。额头比例自然，颧骨轻微，面中柔和。\n\n眉毛为自然平缓眉形，略带细小弧度，眉色深棕灰。\n\n眼睛偏大，杏仁形双眼，轻微卧蚕，深棕色瞳孔，眼尾自然，目光柔和。\n\n鼻梁纤细自然，鼻尖圆润精致，鼻翼较窄。\n\n嘴唇自然饱满，上唇略薄，下唇稍丰满，唇峰柔和，天然粉色唇色。\n\n皮肤白皙通透，象牙白偏中性冷调，保持真实皮肤纹理、毛孔和细小绒毛，不进行塑料感磨皮。\n\n深棕偏黑长发，中长发长度，头发柔软蓬松，带有自然碎发。主要发型为低盘发或松散盘发，鬓角留有自然垂落的细碎发丝。发髻加入少量淡粉色花朵发饰。\n\n身材纤细匀称，肩颈线条柔和，腰部自然纤细，腿部修长，四肢比例协调。身体曲线自然真实，不夸张塑形。\n\n整体人物感觉真实、自然、柔和、年轻，像真实存在的人物摄影档案。\n\n【基础服装】\n\n淡粉色蕾丝修身连衣短裙，柔软蕾丝与薄纱材质，长袖设计，腰部自然收束，裙摆带轻微花瓣式蕾丝边缘。搭配浅粉色高跟鞋。\n\n服装只作为角色卡基础造型，用于展示人物体型和比例。\n\n版面 1｜全身角度\n\n在角色卡上方生成同一人物的五个完整全身视角：\n\n正面\n\n左侧面\n\n背面\n\n左前方约 45 度\n\n右后方约 45 度\n\n人物采用自然站姿，双腿自然伸展，手臂轻松放置。保持所有视角中的身体比例完全一致。\n\n镜头约 70mm 至 85mm 人像镜头效果，避免广角形变。\n\n版面 2｜脸部角度\n\n生成同一人物的五个头肩近景：\n\n正面\n\n45 度侧脸\n\n完整侧脸\n\n微微仰头\n\n微微低头\n\n严格保持鼻型、眼型、唇形、下颌线、耳朵位置和发际线一致。\n\n版面 3｜发型细节\n\n展示三个角度：\n\n正面\n\n侧面\n\n背面\n\n重点记录发际线、头顶蓬松程度、低盘发结构、鬓角碎发、后脑勺发髻结构以及淡粉色花朵发饰位置。\n\n版面 4｜表情参考\n\n使用同一个人物制作五种自然表情：\n\n平静\n\n自然微笑\n\n认真\n\n轻微惊讶\n\n轻微委屈或沉思\n\n所有表情只改变面部肌肉状态，保持人物身份完全一致。\n\n版面 5｜五官特写\n\n分别制作高清局部特写：\n\n双眼\n\n眉毛\n\n鼻子\n\n嘴唇\n\n耳朵\n\n保持真实皮肤细节和自然光影，可清晰观察五官形状和比例。\n\n版面 6｜皮肤与身体细节\n\n展示：\n\n脸颊皮肤纹理\n\n锁骨与肩部\n\n腰腹比例\n\n背部线条\n\n腿部比例\n\n手部与手指\n\n所有细节保持自然人体结构，真实摄影质感。\n\n版面 7｜日常环境适配\n\n最下方增加五张同一角色的小型生活摄影参考：\n\n居家状态\n\n日常休闲穿搭\n\n咖啡店\n\n工作或学习状态\n\n旅行状态\n\n可以改变衣服和场景，但人物的脸、身材、发型核心特征和年龄必须保持稳定。\n\n整体视觉采用超写实人物摄影、真实皮肤质感、自然柔光、85mm 人像镜头、轻微浅景深、高动态范围、细腻发丝、自然人体比例、电影级色彩管理。\n\n角色设定页采用专业 Character Design Sheet 和 Model Sheet 排版方式，浅米白底色，淡粉灰色标题栏，整齐网格布局，所有图片曝光、肤色和色温统一。\n\n整张图片重点强调：\n\nSame Character\n\nSame Face\n\nSame Identity\n\nSame Facial Geometry\n\nSame Body Proportions\n\nSame Skin Tone\n\nSame Hair Structure\n\nConsistent Character Design\n\nIdentity Locked\n\nCharacter Consistency",
+      "en": "Generate a high-quality, photorealistic AI female character reference sheet in a professional model sheet format. The background is light off-white with soft natural light and clean studio quality.\n\nThe character is an adult East Asian woman, 22-26 years old, with an oval face, almond brown eyes, and dark brown updo hair with small pink floral hairpins. She is wearing a light pink lace mini dress and pale pink heels.\n\nThe layout includes 7 distinct sections: 5 full-body angles, 5 headshots, 3 hairstyle angles, 5 facial expressions, 5 close-ups of facial features, 6 body and skin texture details, and 5 daily lifestyle environmental shots at the bottom. Consistent lighting, proportions, face, and identity across all panels."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "角色设定与一致性参考图生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

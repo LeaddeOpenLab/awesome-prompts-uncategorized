@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:31:27.901Z",
+  "model": "grok",
+  "prompt": "Capitán Tsubasa",
+  "promptTranslations": {
+    "en": "Captain Tsubasa"
+  },
+  "summaryTranslations": {
+    "en": "Captain Tsubasa"
+  },
+  "translationVersion": 2,
+  "summary": "Capitán Tsubasa",
+  "summaryEn": "Captain Tsubasa",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101911381888864305",
+    "canonicalUrl": "https://x.com/JorgeRival67623/status/2101911381888864305",
+    "author": {
+      "username": "JorgeRival67623",
+      "displayName": "Jorge Rivaldo Martinez Carrillo",
+      "profileUrl": "https://x.com/JorgeRival67623"
+    },
+    "publishedAt": "2026-09-21T05:48:19.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "es",
+    "originalText": "Grok Imagine prompt:\n\nCapitán Tsubasa https://t.co/hVnam4EZqz",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSt9QgyXEAAzOHi.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSt9QgyXEAAzOHi.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 4
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/JorgeRival67623/status/2101911381888864305",
+  "coverUrl": "https://pbs.twimg.com/media/HSt9QgyXEAAzOHi.jpg",
+  "coverPath": "images/2101911381888864305-1.jpg",
+  "imagePaths": [
+    "images/2101911381888864305-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSt9QgyXEAAzOHi",
+    "x-post:2101911381888864305"
+  ],
+  "analysis": {
+    "summary": "Capitán Tsubasa",
+    "summaryEn": "Captain Tsubasa",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像准确呈现《足球小将》大空翼特写画面与经典动画画风。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Capitán Tsubasa",
+    "sourceRange": {
+      "start": 22,
+      "end": 37
+    },
+    "translations": {
+      "zh": "足球小将（大空翼）",
+      "en": "Captain Tsubasa"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "fan_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Captain Tsubasa (IP)"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

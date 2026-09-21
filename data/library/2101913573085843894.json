@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:31:25.027Z",
+  "model": "grok",
+  "prompt": "9月21日の誕生日祝う風にして",
+  "promptTranslations": {
+    "en": "Make it look like a celebration for a September 21st birthday"
+  },
+  "summaryTranslations": {
+    "en": "Generation prompt for a scene celebrating a September 21st birthday."
+  },
+  "translationVersion": 2,
+  "summary": "9月21日の誕生日を祝うシーンの生成プロンプト。",
+  "summaryEn": "Prompt to generate a celebratory September 21st birthday scene.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101913573085843894",
+    "canonicalUrl": "https://x.com/mioarashidaisuk/status/2101913573085843894",
+    "author": {
+      "username": "mioarashidaisuk",
+      "displayName": "シェルティソーラ",
+      "profileUrl": "https://x.com/mioarashidaisuk"
+    },
+    "publishedAt": "2026-09-21T05:57:02.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n9月21日の誕生日祝う風にして https://t.co/SbLCi5BstK",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/mioarashidaisuk/status/2101913573085843894",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101913539476901888/img/RALlsuHk8dCA7KHC.jpg",
+        "analysisUrl": "https://x.com/mioarashidaisuk/status/2101913573085843894"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 4
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/mioarashidaisuk/status/2101913573085843894",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101913539476901888/img/RALlsuHk8dCA7KHC.jpg",
+  "coverPath": "covers/2101913573085843894.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101913539476901888",
+    "x-post:2101913573085843894"
+  ],
+  "analysis": {
+    "summary": "9月21日の誕生日を祝うシーンの生成プロンプト。",
+    "summaryEn": "Prompt to generate a celebratory September 21st birthday scene.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows a lavish ballroom celebration with balloons, cake, and text displaying '9/21 Happy Birthday'."
+    },
+    "videoQuality": null,
+    "originalPrompt": "9月21日の誕生日祝う風にして",
+    "sourceRange": {
+      "start": 22,
+      "end": 37
+    },
+    "translations": {
+      "zh": "制作成庆祝9月21日生日的风格",
+      "en": "Make it in the style of celebrating a September 21st birthday"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "birthday celebration video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

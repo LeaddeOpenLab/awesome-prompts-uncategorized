@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T08:30:41.810Z",
+  "model": "unknown-video",
+  "prompt": "Create a high-end, ultra-realistic 10-second Sprite Lemon-Lime soft drink commercial in vertical 9:16 format. Use the uploaded Sprite product image as the exact product reference. Preserve the bottle’s original shape, proportions, green cap, Sprite logo, label design, colors, typography, and branding. Do not redesign, distort, duplicate, or alter the product.\n\nOverall Style:\nBright summer daylight, fresh green and blue color palette, sparkling carbonation, realistic ice, juicy lemon and lime slices, energetic commercial cinematography, premium beverage advertising, photorealistic 4K/8K, crisp macro details, realistic water droplets, high-speed liquid photography, cinematic lighting, shallow depth of field.\n\nScene 1 — 0–2s | Fresh Day\nA chilled Sprite bottle stands heroically on a bright outdoor table during a sunny afternoon. Fresh lemon and lime slices and ice surround the bottle. Sunlight creates beautiful highlights and subtle lens flare. Camera slowly pushes toward the product.\nMood: Fresh, sunny, refreshing.\n\nScene 2 — 2–5s | Product Macro\nExtreme close-up of the Sprite bottle covered in realistic condensation and water droplets. The camera performs a smooth cinematic push-in toward the Sprite logo while ice and sparkling droplets move around the bottle.\nMotion: Fast macro push-in + water splash + carbonation bubbles.\n\nScene 3 — 5–7s | Lemon-Lime Splash\nFresh lemon and lime slices burst through sparkling carbonated water in slow motion. Tiny bubbles, droplets, and citrus juice particles fly through the air against a clean blue-green background.\nCamera: High-speed macro slow motion.\n\nScene 4 — 7–10s | Perfect Pour\nCold Sprite is poured from the chilled bottle into a transparent glass filled with crystal-clear ice cubes. The liquid creates a beautiful fizzy splash, with bubbles rapidly rising through the glass. Lemon and lime slices sit beside the glass.\nCamera: Smooth side-angle tracking shot.\n\nScene 5 — 10–13s | Extreme Freshness\nExtreme macro shot of lime slices, sparkling ice, carbonation bubbles, and refreshing Sprite droplets. Light catches every water droplet, creating a vibrant, energetic summer feeling.\nMotion: Slow-motion splash + floating bubbles.\n\nScene 6 — 13–16s | Product Hero\nThe Sprite bottle stands centered among floating ice cubes, lemon and lime slices, and sparkling droplets. The background is bright, fresh, and slightly blurred. The bottle remains perfectly sharp and dominant in frame.\nCamera: Smooth cinematic orbit around the product.\n\nScene 7 — 16–18s | Refreshing Sip Moment\nClose-up of a transparent glass filled with ice-cold Sprite, garnished with fresh lemon and lime. Carbonation bubbles rise continuously while sunlight creates sparkling highlights across the glass.\nCamera: Slow push-in with subtle sparkle effects.\n\nScene 8 — 18–20s | Final Hero Shot\nEnd with a premium Sprite product hero shot. The exact Sprite bottle stands beside a chilled glass, surrounded by ice, lemon, and lime slices. Fresh water droplets remain visible on the bottle. Bright sunlight and subtle green/blue atmospheric effects create a powerful final commercial frame.\n\nFinal visual feeling: Cold. Crisp. Fresh. Refreshing.\n\nProduct & Quality Lock\nExact Sprite bottle reference. Exact logo and label. Exact green branding. No altered packaging. No extra bottles. No distorted text. No random logos. No watermark. No people. No hands. No unrealistic liquid physics. Keep the product sharp and recognizable throughout.",
+  "promptTranslations": {
+    "en": "Create a high-end, ultra-realistic 10-second Sprite Lemon-Lime soft drink commercial in vertical 9:16 format. Use the uploaded Sprite product image as the exact product reference. Preserve the bottle’s original shape, proportions, green cap, Sprite logo, label design, colors, typography, and branding. Do not redesign, distort, duplicate, or alter the product.\n\nOverall Style:\nBright summer daylight, fresh green and blue color palette, sparkling carbonation, realistic ice, juicy lemon and lime slices, energetic commercial cinematography, premium beverage advertising, photorealistic 4K/8K, crisp macro details, realistic water droplets, high-speed liquid photography, cinematic lighting, shallow depth of field.\n\nScene 1 — 0–2s | Fresh Day\nA chilled Sprite bottle stands heroically on a bright outdoor table during a sunny afternoon. Fresh lemon and lime slices and ice surround the bottle. Sunlight creates beautiful highlights and subtle lens flare. Camera slowly pushes toward the product.\nMood: Fresh, sunny, refreshing.\n\nScene 2 — 2–5s | Product Macro\nExtreme close-up of the Sprite bottle covered in realistic condensation and water droplets. The camera performs a smooth cinematic push-in toward the Sprite logo while ice and sparkling droplets move around the bottle.\nMotion: Fast macro push-in + water splash + carbonation bubbles.\n\nScene 3 — 5–7s | Lemon-Lime Splash\nFresh lemon and lime slices burst through sparkling carbonated water in slow motion. Tiny bubbles, droplets, and citrus juice particles fly through the air against a clean blue-green background.\nCamera: High-speed macro slow motion.\n\nScene 4 — 7–10s | Perfect Pour\nCold Sprite is poured from the chilled bottle into a transparent glass filled with crystal-clear ice cubes. The liquid creates a beautiful fizzy splash, with bubbles rapidly rising through the glass. Lemon and lime slices sit beside the glass.\nCamera: Smooth side-angle tracking shot.\n\nScene 5 — 10–13s | Extreme Freshness\nExtreme macro shot of lime slices, sparkling ice, carbonation bubbles, and refreshing Sprite droplets. Light catches every water droplet, creating a vibrant, energetic summer feeling.\nMotion: Slow-motion splash + floating bubbles.\n\nScene 6 — 13–16s | Product Hero\nThe Sprite bottle stands centered among floating ice cubes, lemon and lime slices, and sparkling droplets. The background is bright, fresh, and slightly blurred. The bottle remains perfectly sharp and dominant in frame.\nCamera: Smooth cinematic orbit around the product.\n\nScene 7 — 16–18s | Refreshing Sip Moment\nClose-up of a transparent glass filled with ice-cold Sprite, garnished with fresh lemon and lime. Carbonation bubbles rise continuously while sunlight creates sparkling highlights across the glass.\nCamera: Slow push-in with subtle sparkle effects.\n\nScene 8 — 18–20s | Final Hero Shot\nEnd with a premium Sprite product hero shot. The exact Sprite bottle stands beside a chilled glass, surrounded by ice, lemon, and lime slices. Fresh water droplets remain visible on the bottle. Bright sunlight and subtle green/blue atmospheric effects create a powerful final commercial frame.\n\nFinal visual feeling: Cold. Crisp. Fresh. Refreshing.\n\nProduct & Quality Lock\nExact Sprite bottle reference. Exact logo and label. Exact green branding. No altered packaging. No extra bottles. No distorted text. No random logos. No watermark. No people. No hands. No unrealistic liquid physics. Keep the product sharp and recognizable throughout."
+  },
+  "summaryTranslations": {
+    "en": "Sprite lemon-lime soft drink 9:16 vertical commercial storyboard generation prompt, featuring splashes, pouring, and product close-up camera control."
+  },
+  "translationVersion": 2,
+  "summary": "Sprite 柠檬汽水 9:16 竖版分镜头商业广告生成提示词，含水花、倒酒与产品特写镜头控制。",
+  "summaryEn": "A detailed multi-scene prompt for a 9:16 Sprite commercial featuring citrus splashes, liquid pouring, and hero shots.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101910957022912557",
+    "canonicalUrl": "https://x.com/HeyRu0by/status/2101910957022912557",
+    "author": {
+      "username": "HeyRu0by",
+      "displayName": "Ruby Ai",
+      "profileUrl": "https://x.com/HeyRu0by"
+    },
+    "publishedAt": "2026-09-21T05:46:38.000Z",
+    "collectedAt": "2026-09-21T08:16:47.517Z",
+    "language": "en",
+    "originalText": "Prompt:\n\nCreate a high-end, ultra-realistic 10-second Sprite Lemon-Lime soft drink commercial in vertical 9:16 format. Use the uploaded Sprite product image as the exact product reference. Preserve the bottle’s original shape, proportions, green cap, Sprite logo, label design, colors, typography, and branding. Do not redesign, distort, duplicate, or alter the product.\n\nOverall Style:\nBright summer daylight, fresh green and blue color palette, sparkling carbonation, realistic ice, juicy lemon and lime slices, energetic commercial cinematography, premium beverage advertising, photorealistic 4K/8K, crisp macro details, realistic water droplets, high-speed liquid photography, cinematic lighting, shallow depth of field.\n\nScene 1 — 0–2s | Fresh Day\nA chilled Sprite bottle stands heroically on a bright outdoor table during a sunny afternoon. Fresh lemon and lime slices and ice surround the bottle. Sunlight creates beautiful highlights and subtle lens flare. Camera slowly pushes toward the product.\nMood: Fresh, sunny, refreshing.\n\nScene 2 — 2–5s | Product Macro\nExtreme close-up of the Sprite bottle covered in realistic condensation and water droplets. The camera performs a smooth cinematic push-in toward the Sprite logo while ice and sparkling droplets move around the bottle.\nMotion: Fast macro push-in + water splash + carbonation bubbles.\n\nScene 3 — 5–7s | Lemon-Lime Splash\nFresh lemon and lime slices burst through sparkling carbonated water in slow motion. Tiny bubbles, droplets, and citrus juice particles fly through the air against a clean blue-green background.\nCamera: High-speed macro slow motion.\n\nScene 4 — 7–10s | Perfect Pour\nCold Sprite is poured from the chilled bottle into a transparent glass filled with crystal-clear ice cubes. The liquid creates a beautiful fizzy splash, with bubbles rapidly rising through the glass. Lemon and lime slices sit beside the glass.\nCamera: Smooth side-angle tracking shot.\n\nScene 5 — 10–13s | Extreme Freshness\nExtreme macro shot of lime slices, sparkling ice, carbonation bubbles, and refreshing Sprite droplets. Light catches every water droplet, creating a vibrant, energetic summer feeling.\nMotion: Slow-motion splash + floating bubbles.\n\nScene 6 — 13–16s | Product Hero\nThe Sprite bottle stands centered among floating ice cubes, lemon and lime slices, and sparkling droplets. The background is bright, fresh, and slightly blurred. The bottle remains perfectly sharp and dominant in frame.\nCamera: Smooth cinematic orbit around the product.\n\nScene 7 — 16–18s | Refreshing Sip Moment\nClose-up of a transparent glass filled with ice-cold Sprite, garnished with fresh lemon and lime. Carbonation bubbles rise continuously while sunlight creates sparkling highlights across the glass.\nCamera: Slow push-in with subtle sparkle effects.\n\nScene 8 — 18–20s | Final Hero Shot\nEnd with a premium Sprite product hero shot. The exact Sprite bottle stands beside a chilled glass, surrounded by ice, lemon, and lime slices. Fresh water droplets remain visible on the bottle. Bright sunlight and subtle green/blue atmospheric effects create a powerful final commercial frame.\n\nFinal visual feeling: Cold. Crisp. Fresh. Refreshing.\n\nProduct & Quality Lock\nExact Sprite bottle reference. Exact logo and label. Exact green branding. No altered packaging. No extra bottles. No distorted text. No random logos. No watermark. No people. No hands. No unrealistic liquid physics. Keep the product sharp and recognizable throughout.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/HeyRu0by/status/2101910957022912557",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101910924160622592/img/MKoXVm3y2L8e7x8p.jpg",
+        "analysisUrl": "https://x.com/HeyRu0by/status/2101910957022912557"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSt83q7a0AAxkmq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSt83q7a0AAxkmq.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 118,
+      "repostCount": 15,
+      "replyCount": 23,
+      "quoteCount": 0,
+      "viewCount": 1125
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/HeyRu0by/status/2101910957022912557",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101910924160622592/img/MKoXVm3y2L8e7x8p.jpg",
+  "coverPath": "covers/2101910957022912557.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101910924160622592",
+    "x-image:/media/HSt83q7a0AAxkmq",
+    "x-post:2101910957022912557"
+  ],
+  "analysis": {
+    "summary": "Sprite 柠檬汽水 9:16 竖版分镜头商业广告生成提示词，含水花、倒酒与产品特写镜头控制。",
+    "summaryEn": "A detailed multi-scene prompt for a 9:16 Sprite commercial featuring citrus splashes, liquid pouring, and hero shots.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video and storyboard scenes match the listed shots: outdoor bottle, macro push-in, citrus splash, glass pouring, and the final hero setup."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a high-end, ultra-realistic 10-second Sprite Lemon-Lime soft drink commercial in vertical 9:16 format. Use the uploaded Sprite product image as the exact product reference. Preserve the bottle’s original shape, proportions, green cap, Sprite logo, label design, colors, typography, and branding. Do not redesign, distort, duplicate, or alter the product.\n\nOverall Style:\nBright summer daylight, fresh green and blue color palette, sparkling carbonation, realistic ice, juicy lemon and lime slices, energetic commercial cinematography, premium beverage advertising, photorealistic 4K/8K, crisp macro details, realistic water droplets, high-speed liquid photography, cinematic lighting, shallow depth of field.\n\nScene 1 — 0–2s | Fresh Day\nA chilled Sprite bottle stands heroically on a bright outdoor table during a sunny afternoon. Fresh lemon and lime slices and ice surround the bottle. Sunlight creates beautiful highlights and subtle lens flare. Camera slowly pushes toward the product.\nMood: Fresh, sunny, refreshing.\n\nScene 2 — 2–5s | Product Macro\nExtreme close-up of the Sprite bottle covered in realistic condensation and water droplets. The camera performs a smooth cinematic push-in toward the Sprite logo while ice and sparkling droplets move around the bottle.\nMotion: Fast macro push-in + water splash + carbonation bubbles.\n\nScene 3 — 5–7s | Lemon-Lime Splash\nFresh lemon and lime slices burst through sparkling carbonated water in slow motion. Tiny bubbles, droplets, and citrus juice particles fly through the air against a clean blue-green background.\nCamera: High-speed macro slow motion.\n\nScene 4 — 7–10s | Perfect Pour\nCold Sprite is poured from the chilled bottle into a transparent glass filled with crystal-clear ice cubes. The liquid creates a beautiful fizzy splash, with bubbles rapidly rising through the glass. Lemon and lime slices sit beside the glass.\nCamera: Smooth side-angle tracking shot.\n\nScene 5 — 10–13s | Extreme Freshness\nExtreme macro shot of lime slices, sparkling ice, carbonation bubbles, and refreshing Sprite droplets. Light catches every water droplet, creating a vibrant, energetic summer feeling.\nMotion: Slow-motion splash + floating bubbles.\n\nScene 6 — 13–16s | Product Hero\nThe Sprite bottle stands centered among floating ice cubes, lemon and lime slices, and sparkling droplets. The background is bright, fresh, and slightly blurred. The bottle remains perfectly sharp and dominant in frame.\nCamera: Smooth cinematic orbit around the product.\n\nScene 7 — 16–18s | Refreshing Sip Moment\nClose-up of a transparent glass filled with ice-cold Sprite, garnished with fresh lemon and lime. Carbonation bubbles rise continuously while sunlight creates sparkling highlights across the glass.\nCamera: Slow push-in with subtle sparkle effects.\n\nScene 8 — 18–20s | Final Hero Shot\nEnd with a premium Sprite product hero shot. The exact Sprite bottle stands beside a chilled glass, surrounded by ice, lemon, and lime slices. Fresh water droplets remain visible on the bottle. Bright sunlight and subtle green/blue atmospheric effects create a powerful final commercial frame.\n\nFinal visual feeling: Cold. Crisp. Fresh. Refreshing.\n\nProduct & Quality Lock\nExact Sprite bottle reference. Exact logo and label. Exact green branding. No altered packaging. No extra bottles. No distorted text. No random logos. No watermark. No people. No hands. No unrealistic liquid physics. Keep the product sharp and recognizable throughout.",
+    "sourceRange": {
+      "start": 9,
+      "end": 3480
+    },
+    "translations": {
+      "zh": "创建一条高端、超逼真的 9:16 竖版雪碧青柠汽水 10 秒商业广告。使用上传的雪碧产品图作为精准参考，保留瓶身原始形状、比例、绿盖、标志与标签。明亮夏日日光、清新绿蓝配色、碳酸气泡与逼真冰块。分场景呈现户外特写、水滴推进、柠檬慢动作飞溅、倒饮入杯及全景产品定格展示。",
+      "en": "Create a high-end, ultra-realistic 10-second Sprite Lemon-Lime soft drink commercial in vertical 9:16 format using the provided product reference. Multi-scene breakdown covering outdoor table hero shot, condensation macro push-in, lemon-lime water splash, pouring into an iced glass, macro bubbles, and final hero display."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-video",
+    "useCase": "commercial advertising",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Sprite"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
