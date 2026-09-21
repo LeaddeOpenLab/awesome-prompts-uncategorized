@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T00:26:03.639Z",
+  "model": "unknown-video",
+  "prompt": "Create a photorealistic cinematic macro video of a young corn/maize plant growing in a freshly cultivated agricultural field. Start with a tiny corn seedling emerging from rich brown soil, then show smooth natural time-lapse growth as the green stem becomes taller, leaves unfold and expand, and the central corn tassel gradually develops. Warm golden-hour sunlight, soft morning haze, realistic soil texture, shallow depth of field, gentle breeze moving the leaves, natural agricultural field in the background, realistic botanical growth, detailed green leaves, smooth continuous transformation, cinematic camera slowly pushing in toward the plant, ultra-realistic, 4K, vertical 9:16, no people, no text, no artificial-looking growth.",
+  "promptTranslations": {
+    "en": "Create a photorealistic cinematic macro video of a young corn/maize plant growing in a freshly cultivated agricultural field. Start with a tiny corn seedling emerging from rich brown soil, then show smooth natural time-lapse growth as the green stem becomes taller, leaves unfold and expand, and the central corn tassel gradually develops. Warm golden-hour sunlight, soft morning haze, realistic soil texture, shallow depth of field, gentle breeze moving the leaves, natural agricultural field in the background, realistic botanical growth, detailed green leaves, smooth continuous transformation, cinematic camera slowly pushing in toward the plant, ultra-realistic, 4K, vertical 9:16, no people, no text, no artificial-looking growth."
+  },
+  "summaryTranslations": {
+    "en": "A cinematic macro time-lapse video prompt depicting a young corn plant growing and developing in an agricultural field."
+  },
+  "translationVersion": 2,
+  "summary": "A cinematic macro time-lapse video prompt depicting a young corn plant growing and developing in an agricultural field.",
+  "summaryEn": "A cinematic macro time-lapse video prompt depicting a young corn plant growing and developing in an agricultural field.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101582317319840038",
+    "canonicalUrl": "https://x.com/de_mon010/status/2101582317319840038",
+    "author": {
+      "username": "de_mon010",
+      "displayName": "Karlos",
+      "profileUrl": "https://x.com/de_mon010"
+    },
+    "publishedAt": "2026-09-20T08:00:44.000Z",
+    "collectedAt": "2026-09-21T00:16:04.144Z",
+    "language": "en",
+    "originalText": "Video generation prompt\nCreate a photorealistic cinematic macro video of a young corn/maize plant growing in a freshly cultivated agricultural field. Start with a tiny corn seedling emerging from rich brown soil, then show smooth natural time-lapse growth as the green stem becomes taller, leaves unfold and expand, and the central corn tassel gradually develops. Warm golden-hour sunlight, soft morning haze, realistic soil texture, shallow depth of field, gentle breeze moving the leaves, natural agricultural field in the background, realistic botanical growth, detailed green leaves, smooth continuous transformation, cinematic camera slowly pushing in toward the plant, ultra-realistic, 4K, vertical 9:16, no people, no text, no artificial-looking growth.”",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/de_mon010/status/2101582317319840038",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101582280850624512/img/f6qX8sNjNX5ufKdl.jpg",
+        "analysisUrl": "https://x.com/de_mon010/status/2101582317319840038"
+      }
+    ],
+    "metrics": {
+      "likeCount": 43,
+      "repostCount": 8,
+      "replyCount": 20,
+      "quoteCount": 0,
+      "viewCount": 1342
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/de_mon010/status/2101582317319840038",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101582280850624512/img/f6qX8sNjNX5ufKdl.jpg",
+  "coverPath": "covers/2101582317319840038.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101582280850624512",
+    "x-post:2101582317319840038"
+  ],
+  "analysis": {
+    "summary": "A cinematic macro time-lapse video prompt depicting a young corn plant growing and developing in an agricultural field.",
+    "summaryEn": "A cinematic macro time-lapse video prompt depicting a young corn plant growing and developing in an agricultural field.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频完整呈现了玉米种子在土壤中发芽破土、茎叶逐步展开延展生长以及玉米抽穗结实的宏观微距延时摄影过程，光影氛围与镜头语言均与提示词描述高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a photorealistic cinematic macro video of a young corn/maize plant growing in a freshly cultivated agricultural field. Start with a tiny corn seedling emerging from rich brown soil, then show smooth natural time-lapse growth as the green stem becomes taller, leaves unfold and expand, and the central corn tassel gradually develops. Warm golden-hour sunlight, soft morning haze, realistic soil texture, shallow depth of field, gentle breeze moving the leaves, natural agricultural field in the background, realistic botanical growth, detailed green leaves, smooth continuous transformation, cinematic camera slowly pushing in toward the plant, ultra-realistic, 4K, vertical 9:16, no people, no text, no artificial-looking growth.",
+    "sourceRange": {
+      "start": 24,
+      "end": 760
+    },
+    "translations": {
+      "zh": "创作一段逼真电影质感的微距视频，展现一株玉米幼苗在刚翻耕的农田里生长。从一株破出肥沃棕色土壤的微小玉米苗开始，以流畅自然的延时摄影呈现其生长过程：绿色茎秆逐渐拔高，叶片舒展伸展，中央的玉米雄穗逐渐发育。伴有温暖的黄金时刻阳光、柔和晨雾、逼真的土壤质感、浅景深、微风吹动叶片、背景为自然的农田、符合植物学生长规律、叶片细节精致、连续流畅变化、电影感镜头缓缓推近植物、超逼真、4K、竖屏 9:16、无人物、无文字、无不自然生长的瑕疵。",
+      "en": "Create a photorealistic cinematic macro video of a young corn/maize plant growing in a freshly cultivated agricultural field. Start with a tiny corn seedling emerging from rich brown soil, then show smooth natural time-lapse growth as the green stem becomes taller, leaves unfold and expand, and the central corn tassel gradually develops. Warm golden-hour sunlight, soft morning haze, realistic soil texture, shallow depth of field, gentle breeze moving the leaves, natural agricultural field in the background, realistic botanical growth, detailed green leaves, smooth continuous transformation, cinematic camera slowly pushing in toward the plant, ultra-realistic, 4K, vertical 9:16, no people, no text, no artificial-looking growth."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

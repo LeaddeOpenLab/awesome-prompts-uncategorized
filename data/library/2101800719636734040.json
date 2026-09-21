@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T00:25:34.988Z",
+  "model": "unknown-image",
+  "prompt": "Young blonde Caucasian fashion model, fair skin, sharp jawline, piercing light eyes, serious introspective gaze, scooping straight fine hair up with both hands, elbows raised, loose strands framing her face. White silky strappy dress with knotted shoulders, cobalt-blue enamel V pendant, matte navy background, natural diffused side light, luxury editorial aesthetic, shallow depth of field, 85mm eye-level, crown-to-sternum crop, ultra-realistic high-resolution photography.",
+  "promptTranslations": {
+    "en": "Young blonde Caucasian fashion model, fair skin, sharp jawline, piercing light eyes, serious introspective gaze, scooping straight fine hair up with both hands, elbows raised, loose strands framing her face. White silky strappy dress with knotted shoulders, cobalt-blue enamel V pendant, matte navy background, natural diffused side light, luxury editorial aesthetic, shallow depth of field, 85mm eye-level, crown-to-sternum crop, ultra-realistic high-resolution photography."
+  },
+  "summaryTranslations": {
+    "en": "Young blonde fashion model portrait in a white dress with a blue V pendant against a navy background."
+  },
+  "translationVersion": 2,
+  "summary": "Young blonde fashion model portrait in a white dress with a blue V pendant against a navy background.",
+  "summaryEn": "Young blonde fashion model portrait in a white dress with a blue V pendant against a navy background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101800719636734040",
+    "canonicalUrl": "https://x.com/Milliekio/status/2101800719636734040",
+    "author": {
+      "username": "Milliekio",
+      "displayName": "Millie",
+      "profileUrl": "https://x.com/Milliekio"
+    },
+    "publishedAt": "2026-09-20T22:28:35.000Z",
+    "collectedAt": "2026-09-21T00:16:04.144Z",
+    "language": "en",
+    "originalText": "Prompt:\n\nYoung blonde Caucasian fashion model, fair skin, sharp jawline, piercing light eyes, serious introspective gaze, scooping straight fine hair up with both hands, elbows raised, loose strands framing her face. White silky strappy dress with knotted shoulders, cobalt-blue enamel V pendant, matte navy background, natural diffused side light, luxury editorial aesthetic, shallow depth of field, 85mm eye-level, crown-to-sternum crop, ultra-realistic high-resolution photography.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSsYmz1akAA9FyS.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSsYmz1akAA9FyS.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 183
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Milliekio/status/2101800719636734040",
+  "coverUrl": "https://pbs.twimg.com/media/HSsYmz1akAA9FyS.jpg",
+  "coverPath": "images/2101800719636734040-1.jpg",
+  "imagePaths": [
+    "images/2101800719636734040-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSsYmz1akAA9FyS",
+    "x-post:2101800719636734040"
+  ],
+  "analysis": {
+    "summary": "Young blonde fashion model portrait in a white dress with a blue V pendant against a navy background.",
+    "summaryEn": "Young blonde fashion model portrait in a white dress with a blue V pendant against a navy background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The attached image displays a blonde Caucasian female model holding up her hair with raised elbows, wearing a white knotted-strap dress and a blue V pendant against a navy background, perfectly aligned with the prompt description."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Young blonde Caucasian fashion model, fair skin, sharp jawline, piercing light eyes, serious introspective gaze, scooping straight fine hair up with both hands, elbows raised, loose strands framing her face. White silky strappy dress with knotted shoulders, cobalt-blue enamel V pendant, matte navy background, natural diffused side light, luxury editorial aesthetic, shallow depth of field, 85mm eye-level, crown-to-sternum crop, ultra-realistic high-resolution photography.",
+    "sourceRange": {
+      "start": 9,
+      "end": 484
+    },
+    "translations": {
+      "zh": "年轻白人金发时尚模特，白皙皮肤，清晰下颌线，目光深邃，双手向上撩起直发，手肘抬起，碎发修饰脸型。白色丝绸细吊带裙带有打结肩带，佩戴钴蓝色珐琅V形吊坠，哑光深蓝背景，自然柔和侧光，奢华时尚杂志风格，浅景深，85mm平视视角，胸部以上特写，超写实高清摄影。",
+      "en": "Young blonde Caucasian fashion model, fair skin, sharp jawline, piercing light eyes, serious introspective gaze, scooping straight fine hair up with both hands, elbows raised, loose strands framing her face. White silky strappy dress with knotted shoulders, cobalt-blue enamel V pendant, matte navy background, natural diffused side light, luxury editorial aesthetic, shallow depth of field, 85mm eye-level, crown-to-sternum crop, ultra-realistic high-resolution photography."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

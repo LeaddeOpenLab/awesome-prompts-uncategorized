@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T00:25:21.163Z",
+  "model": "seedream",
+  "prompt": "A vintage-style illustration depicts a ghost carrying a jack-o'-lantern through a spooky forest at night. The ghost, a simple white sheet with two black eyeholes, stands in the center, holding a carved pumpkin with a menacing grin. The background features dark, gnarled trees, a crescent moon, and scattered stars and orange dots in a blue, stippled sky. A path winds through the foreground, lined with dark green foliage. The overall aesthetic is reminiscent of old Halloween decorations or comic book art, with a limited color palette and a textured, linocut appearance.",
+  "promptTranslations": {
+    "en": "A vintage-style illustration depicts a ghost carrying a jack-o'-lantern through a spooky forest at night. The ghost, a simple white sheet with two black eyeholes, stands in the center, holding a carved pumpkin with a menacing grin. The background features dark, gnarled trees, a crescent moon, and scattered stars and orange dots in a blue, stippled sky. A path winds through the foreground, lined with dark green foliage. The overall aesthetic is reminiscent of old Halloween decorations or comic book art, with a limited color palette and a textured, linocut appearance."
+  },
+  "summaryTranslations": {
+    "en": "Vintage Halloween print-style illustration: A white sheet ghost carrying a carved jack-o'-lantern through a spooky forest at night."
+  },
+  "translationVersion": 2,
+  "summary": "复古万圣节版画风插画：白床单幽灵手提雕刻南瓜灯穿过夜间诡异森林。",
+  "summaryEn": "Vintage Halloween linocut illustration of a sheet ghost holding a jack-o'-lantern in a spooky night forest.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101823731350065296",
+    "canonicalUrl": "https://x.com/heathergreen/status/2101823731350065296",
+    "author": {
+      "username": "heathergreen",
+      "displayName": "Heather Green",
+      "profileUrl": "https://x.com/heathergreen"
+    },
+    "publishedAt": "2026-09-21T00:00:02.000Z",
+    "collectedAt": "2026-09-21T00:16:04.144Z",
+    "language": "en",
+    "originalText": "#promptshare with Seedream 5 Pro generated with @magnific \nPROMPT: A vintage-style illustration depicts a ghost carrying a jack-o'-lantern through a spooky forest at night. The ghost, a simple white sheet with two black eyeholes, stands in the center, holding a carved pumpkin with a menacing grin. The background features dark, gnarled trees, a crescent moon, and scattered stars and orange dots in a blue, stippled sky. A path winds through the foreground, lined with dark green foliage. The overall aesthetic is reminiscent of old Halloween decorations or comic book art, with a limited color palette and a textured, linocut appearance.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSalMWBXkAAub98.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSalMWBXkAAub98.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 10
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/heathergreen/status/2101823731350065296",
+  "coverUrl": "https://pbs.twimg.com/media/HSalMWBXkAAub98.jpg",
+  "coverPath": "images/2101823731350065296-1.jpg",
+  "imagePaths": [
+    "images/2101823731350065296-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSalMWBXkAAub98",
+    "x-post:2101823731350065296"
+  ],
+  "analysis": {
+    "summary": "复古万圣节版画风插画：白床单幽灵手提雕刻南瓜灯穿过夜间诡异森林。",
+    "summaryEn": "Vintage Halloween linocut illustration of a sheet ghost holding a jack-o'-lantern in a spooky night forest.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches image: central sheet ghost holding a carved pumpkin, spooky trees, crescent moon, and retro linocut style."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A vintage-style illustration depicts a ghost carrying a jack-o'-lantern through a spooky forest at night. The ghost, a simple white sheet with two black eyeholes, stands in the center, holding a carved pumpkin with a menacing grin. The background features dark, gnarled trees, a crescent moon, and scattered stars and orange dots in a blue, stippled sky. A path winds through the foreground, lined with dark green foliage. The overall aesthetic is reminiscent of old Halloween decorations or comic book art, with a limited color palette and a textured, linocut appearance.",
+    "sourceRange": {
+      "start": 67,
+      "end": 639
+    },
+    "translations": {
+      "zh": "复古风格插画，夜间穿过阴森森林、手提南瓜灯的幽灵。幽灵为简单白床单且有两个黑眼孔，立于画面中央，手持咧嘴狞笑的雕刻南瓜。背景为阴暗虬曲的树木、月牙以及点画蓝色夜空中的星芒与橙点，前景是绿植小径，整体呈复古万圣节装饰与版画质感。",
+      "en": "A vintage-style illustration depicts a ghost carrying a jack-o'-lantern through a spooky forest at night. The ghost, a simple white sheet with two black eyeholes, stands in the center, holding a carved pumpkin with a menacing grin. The background features dark, gnarled trees, a crescent moon, and scattered stars and orange dots in a blue, stippled sky. A path winds through the foreground, lined with dark green foliage. The overall aesthetic is reminiscent of old Halloween decorations or comic book art, with a limited color palette and a textured, linocut appearance."
+    },
+    "targetModels": [
+      "seedream"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

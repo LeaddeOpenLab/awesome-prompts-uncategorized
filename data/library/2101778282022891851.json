@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T00:24:18.016Z",
+  "model": "unknown-image",
+  "prompt": "中国唐代的士兵拿着兵器站在城门口盘查过往行人.",
+  "promptTranslations": {
+    "en": "Soldiers of the Chinese Tang Dynasty holding weapons and standing at the city gate inspecting passing pedestrians."
+  },
+  "summaryTranslations": {
+    "en": "Chinese Tang Dynasty soldiers holding weapons inspect pedestrians at the city gate."
+  },
+  "translationVersion": 2,
+  "summary": "中国唐代士兵执兵器在城门盘查行人。",
+  "summaryEn": "Tang Dynasty Chinese soldiers standing with weapons at city gate inspecting passersby.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101555565214461970",
+      "canonicalUrl": "https://x.com/mtrainier2020/status/2101555565214461970",
+      "author": {
+        "username": "mtrainier2020",
+        "displayName": "Rainier",
+        "profileUrl": "https://x.com/mtrainier2020"
+      },
+      "originalText": "哎。我觉得如果要质量还是要用第一流模型啊。比如生图，openai的生图模型，又快又好。 本地模型，qwen的生图模型，慢而且比openai差两个段位。"
+    },
+    "id": "2101778282022891851",
+    "canonicalUrl": "https://x.com/mtrainier2020/status/2101778282022891851",
+    "author": {
+      "username": "mtrainier2020",
+      "displayName": "Rainier",
+      "profileUrl": "https://x.com/mtrainier2020"
+    },
+    "publishedAt": "2026-09-20T20:59:26.000Z",
+    "collectedAt": "2026-09-21T00:16:04.144Z",
+    "language": "zh",
+    "originalText": "我测试了一下：\n用了最简单的prompt：\n中国唐代的士兵拿着兵器站在城门口盘查过往行人.\nopenai是最好的。\nwho，where， what，都能覆盖到。\n\nqwen的两个，明显过分强调了who。对于盘查路人这个覆盖不明显。\n从画质来讲，openai的真实感，也要更胜一筹。 https://t.co/0pL319tJbf",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSsEMtHa4AAuevT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSsEMtHa4AAuevT.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSsEMs-boAAXdpy.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSsEMs-boAAXdpy.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSsEMtPaUAAWrp5.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSsEMtPaUAAWrp5.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 31,
+      "repostCount": 1,
+      "replyCount": 9,
+      "quoteCount": 0,
+      "viewCount": 17965
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/mtrainier2020/status/2101778282022891851",
+  "coverUrl": "https://pbs.twimg.com/media/HSsEMtHa4AAuevT.jpg",
+  "coverPath": "images/2101778282022891851-1.jpg",
+  "imagePaths": [
+    "images/2101778282022891851-1.jpg",
+    "images/2101778282022891851-2.jpg",
+    "images/2101778282022891851-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSsEMtHa4AAuevT",
+    "x-image:/media/HSsEMs-boAAXdpy",
+    "x-image:/media/HSsEMtPaUAAWrp5",
+    "x-post:2101778282022891851",
+    "x-post:2101555565214461970"
+  ],
+  "analysis": {
+    "summary": "中国唐代士兵执兵器在城门盘查行人。",
+    "summaryEn": "Tang Dynasty Chinese soldiers standing with weapons at city gate inspecting passersby.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片展示了身穿唐代盔甲手持兵器的士兵在城门前盘查过往百姓与路人的场景，与提示词高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "中国唐代的士兵拿着兵器站在城门口盘查过往行人.",
+    "sourceRange": {
+      "start": 22,
+      "end": 45
+    },
+    "translations": {
+      "zh": "中国唐代的士兵拿着兵器站在城门口盘查过往行人.",
+      "en": "Tang Dynasty Chinese soldiers holding weapons standing at the city gate inspecting passersby."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "文生图测试对比",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
