@@ -57,7 +57,7 @@ Jovem modelo de moda caucasiana e loira, pele clara, maxilar bem definido, olhos
 
 <a name="prompt-2101823724576002228"></a>
 
-### Tradução em curso
+### Foto em grande plano com flash direto e ângulo alto em plongée, exibindo uma mulher sentada no chão com a mão em primeiro plano a apoiar o queixo, com composição íntima e pormenores de iluminação e vestuário.
 
 Autor：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Publicação original](https://x.com/AIna_dailylooks/status/2101823724576002228)
 
@@ -65,7 +65,7 @@ Fotografia · Personagem · Publicado
 
 Publicação original：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Publicação original](https://x.com/AIna_dailylooks/status/2101728093106815214)
 
-**Resumo:** Tradução em curso
+**Resumo:** Foto em grande plano com flash direto e ângulo alto em plongée, exibindo uma mulher sentada no chão com a mão em primeiro plano a apoiar o queixo, com composição íntima e pormenores de iluminação e vestuário.
 
 <img src="images/2101823724576002228-1.jpg" alt="Imagem 1" width="480" />
 
@@ -82,7 +82,27 @@ Publicação original：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [P
 **Prompt**
 
 ```text
-Tradução em curso
+ASSUNTO E COMPOSIÇÃO:
+Uma fotografia vertical fotorrealista em grande plano de (CHARACTER), uma mulher adulta com 21 anos ou mais, sentada num chão de mosaicos em ambiente interior. O seu rosto é grande e centrado no enquadramento. A câmara olha para ela a partir de um ângulo extremamente alto, quase zenital. Uma mão grande pertencente a outro adulto entra pelo primeiro plano inferior esquerdo e apoia suavemente o seu queixo e bochechas. O antebraço estende-se diagonalmente a partir do canto inferior esquerdo em direção ao centro, criando uma composição invulgar, íntima e de curto alcance.
+
+PERSONAGEM E EXPRESSÃO:
+Preserve os traços faciais estabelecidos, penteado, cor do cabelo, tom de pele e identidade geral de (CHARACTER). Ela levanta o rosto e olha diretamente para a câmara, com os lábios brilhantes ligeiramente entreabertos. A sua expressão é cativante, confiante e subtilmente sensual. Um blush rosado suave e pronunciado confere calor às suas bochechas. O cabelo cai naturalmente sobre os ombros e espalha-se ligeiramente em direção ao chão.
+
+ROUPA E POSE:
+Ela veste uma camisola de malha canelada justa em tom vermelho-vinho profundo, com decote em V pronunciado, pequenos botões frontais e um laço delicado logo abaixo do busto. Combine com uma saia preta curta. Ela senta-se no chão com os joelhos juntos. Os seus próprios braços permanecem fora do enquadramento. A mão do outro adulto entra a partir do bordo inferior esquerdo e apoia suavemente o seu queixo e ambas as bochechas, sem apertar ou distorcer o seu rosto.
+
+FUNDO E ILUMINAÇÃO:
+Cortinas castanho-chocolate escuro, chão de mosaicos brancos e uma pequena porção de mobiliário preto ao longo do bordo direito do enquadramento. Iluminação frontal suave com uma qualidade subtil de flash direto ilumina o seu rosto e decote, enquanto o fundo permanece mais escuro e suave. Enfatize o contraste entre o tecido rico vermelho-vinho, a saia preta, os tons de pele quentes e a maquilhagem suavemente rosada.
+
+CÂMARA E ENQUADRAMENTO:
+Uma fotografia vertical 3:4 capturada a partir de um ângulo extremamente alto a uma distância muito próxima com uma lente grande-angular. Posicione o rosto dela em destaque no centro superior da imagem, com o seu decote e joelhos a estenderem-se para baixo através da composição. Faça com que a mão em primeiro plano e o antebraço diagonal grosso pareçam dramaticamente ampliados pela perspetiva, ocupando uma porção substancial da área inferior esquerda e central do enquadramento. Mantenha a anatomia da mão natural e o seu contacto com o rosto suave. Corte o corpo visível de forma natural nos bordos do enquadramento. Inclua uma pequena secção suavemente desfocada de roupa preta ao longo do bordo inferior.
+
+Foquet com nitidez o seu rosto e a mão em primeiro plano, com um fundo naturalmente desfocado. Preserve uma visão clara de ambos os olhos, nariz e lábios, apesar da perspetiva invulgar.
+
+TEXTURA E ESTILO:
+Fotografia com flash direto de ultra-fotorrealismo e alta resolução. Textura de pele realista e brilho subtil, pestanas finamente detalhadas, lábios brilhantes, canelado visível no tecido de malha e textura realista na mão e no antebraço em primeiro plano. Tons ricos de vermelho-vinho e rosados, sombras credíveis, perspetiva grande-angular autêntica e pormenores anatómicos precisos.
+
+Uma mulher adulta e uma mão e antebraço visíveis pertencentes a outro adulto. Sem mãos extras, sem dedos extras, sem traços faciais distorcidos, sem pessoa duplicada, sem texto, sem marca de água, sem colagem.
 ```
 
 [↑ Voltar às categorias](#catalog)

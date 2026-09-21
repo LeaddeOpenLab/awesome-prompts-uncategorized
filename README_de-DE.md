@@ -57,7 +57,7 @@ Junges blondes kaukasisches Modemodell, helle Haut, scharfe Kieferpartie, durchd
 
 <a name="prompt-2101823724576002228"></a>
 
-### Übersetzung läuft
+### Nahaufnahme aus extremer Aufsicht mit Direktblitz, die eine am Boden sitzende Frau zeigt, deren Kinn von einer Hand im Vordergrund gestützt wird, mit intimer Komposition sowie feinen Kleidungs- und Lichtdetails.
 
 Autor：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Originalbeitrag](https://x.com/AIna_dailylooks/status/2101823724576002228)
 
@@ -65,7 +65,7 @@ Fotografie · Charakter · Veröffentlicht
 
 Originalbeitrag：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Originalbeitrag](https://x.com/AIna_dailylooks/status/2101728093106815214)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Nahaufnahme aus extremer Aufsicht mit Direktblitz, die eine am Boden sitzende Frau zeigt, deren Kinn von einer Hand im Vordergrund gestützt wird, mit intimer Komposition sowie feinen Kleidungs- und Lichtdetails.
 
 <img src="images/2101823724576002228-1.jpg" alt="Bild 1" width="480" />
 
@@ -82,7 +82,27 @@ Originalbeitrag：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Origina
 **Prompt**
 
 ```text
-Übersetzung läuft
+SUBJEKT UND KOMPOSITION:
+Ein fotorealistisches, vertikales Nahaufnahme-Foto von (CHARACTER), einer erwachsenen Frau im Alter von 21 Jahren oder älter, die auf einem gefliesten Innenboden sitzt. Ihr Gesicht ist groß und im Bild zentriert. Die Kamera blickt aus einem extrem hohen, fast senkrechten Winkel auf sie herab. Eine große Hand eines anderen Erwachsenen kommt von vorne links unten ins Bild und umfasst sanft ihr Kinn und ihre Wangen. Der Unterarm verläuft diagonal von der unteren linken Ecke zur Mitte und erzeugt eine ungewöhnliche, intime Nahaufnahme-Komposition.
+
+CHARAKTER UND AUSDRUCK:
+Behalte die etablierten Gesichtszüge, die Frisur, die Haarfarbe, den Hautton und die allgemeine Identität von (CHARACTER) bei. Sie hebt ihr Gesicht und blickt direkt in die Kamera, ihre glänzenden Lippen sind leicht geöffnet. Ihr Ausdruck ist fesselnd, selbstbewusst und subtil verführerisch. Zartes, ausgeprägtes rosiges Rouge verleiht ihren Wangen Wärme. Ihr Haar fällt natürlich um ihre Schultern und breitet sich leicht auf dem Boden aus.
+
+OUTFIT UND POSE:
+Sie trägt ein eng anliegendes, tief weinrotes Rippstrick-Top mit tiefem V-Ausschnitt, kleinen Knöpfen vorne und einer zarten Schleife direkt unter der Brust. Kombiniert mit einem kurzen schwarzen Rock. Sie sitzt mit geschlossenen Knien auf dem Boden. Ihre eigenen Arme bleiben außerhalb des Bildes. Die Hand des anderen Erwachsenen kommt vom unteren linken Rand und stützt sanft ihr Kinn und beide Wangen, ohne ihr Gesicht zu quetschen oder zu verzerren.
+
+HINTERGRUND UND BELEUCHTUNG:
+Dunkle schokoladenbraune Vorhänge, ein weißer Fliesenboden und ein kleiner Teil schwarzer Möbel am rechten Rand des Bildes. Sanftes Frontallicht mit einer subtilen Direktblitz-Qualität erhellt ihr Gesicht und ihr Dekolleté, während der Hintergrund dunkler und gedämpft bleibt. Betone den Kontrast zwischen dem satten weinroten Stoff, dem schwarzen Rock, den warmen Hauttönen und dem sanft rosigen Make-up.
+
+KAMERA UND BILDGESTALTUNG:
+Ein vertikales 3:4-Foto, aufgenommen aus einem extrem hohen Winkel aus sehr kurzer Distanz mit einem Weitwinkelobjektiv. Platziere ihr Gesicht prominent im oberen Zentrum des Bildes, wobei ihr Ausschnitt und ihre Knie sich nach unten durch die Komposition erstrecken. Lass die Hand im Vordergrund und den dicken diagonalen Unterarm durch die Perspektive dramatisch vergrößert wirken, sodass sie einen beträchtlichen Teil des unteren linken und mittleren Bildbereichs einnehmen. Halte die Anatomie der Hand natürlich und ihren Kontakt mit dem Gesicht sanft. Schneide den sichtbaren Körper an den Bildrändern natürlich ab. Binde einen kleinen, weich gezeichneten Bereich schwarzer Kleidung am unteren Rand ein.
+
+Fokussiere scharf auf ihr Gesicht und die Hand im Vordergrund, mit einem natürlich unscharfen Hintergrund. Bewahre trotz der ungewöhnlichen Perspektive eine freie Sicht auf beide Augen, ihre Nase und ihre Lippen.
+
+TEXTUR UND STIL:
+Ultrafotorealistische, hochauflösende Direktblitz-Fotografie. Lebensechte Hauttextur und subtiler Glanz, fein detaillierte Wimpern, glänzende Lippen, sichtbare Rippenstruktur im Strickstoff und realistische Textur an Hand und Unterarm im Vordergrund. Satte weinrote und rosige Töne, glaubwürdige Schatten, authentische Weitwinkelperspektive und präzise anatomische Details.
+
+Eine erwachsene Frau und eine sichtbare Hand samt Unterarm eines anderen Erwachsenen. Keine zusätzlichen Hände, keine zusätzlichen Finger, keine verzerrten Gesichtszüge, keine duplizierte Person, kein Text, kein Wasserzeichen, keine Collage.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

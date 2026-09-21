@@ -57,7 +57,7 @@ Joven modelo de moda caucásica y rubia, piel clara, mandíbula afilada, ojos cl
 
 <a name="prompt-2101823724576002228"></a>
 
-### Traducción en curso
+### 高角度俯拍直闪特写照片，展现女子坐在地上被前景手掌托腮的亲密构图与服饰光影细节。
 
 Autor：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Publicación original](https://x.com/AIna_dailylooks/status/2101823724576002228)
 
@@ -65,7 +65,7 @@ Fotografía · Personaje · Publicado
 
 Publicación original：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Publicación original](https://x.com/AIna_dailylooks/status/2101728093106815214)
 
-**Resumen:** Traducción en curso
+**Resumen:** 高角度俯拍直闪特写照片，展现女子坐在地上被前景手掌托腮的亲密构图与服饰光影细节。
 
 <img src="images/2101823724576002228-1.jpg" alt="Imagen 1" width="480" />
 
@@ -82,7 +82,27 @@ Publicación original：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [P
 **Prompt**
 
 ```text
-Traducción en curso
+SUJETO Y COMPOSICIÓN:
+Una fotografía vertical en primer plano y fotorrealista de (CHARACTER), una mujer adulta de 21 años o más, sentada en el suelo de baldosas de un interior. Su rostro es grande y está centrado en el encuadre. La cámara la mira desde un ángulo extremadamente alto, casi cenital. Una mano grande perteneciente a otro adulto entra desde el primer plano inferior izquierdo y sostiene suavemente su barbilla y mejillas. El antebrazo se extiende diagonalmente desde la esquina inferior izquierda hacia el centro, creando una composición inusual, íntima y de corta distancia.
+
+PERSONAJE Y EXPRESIÓN:
+Conserva los rasgos faciales establecidos, el peinado, el color de pelo, el tono de piel y la identidad general de (CHARACTER). Levanta la cara y mira directamente a la cámara, con sus labios brillantes ligeramente entreabiertos. Su expresión es cautivadora, segura y sutilmente sensual. Un rubor rosado suave y pronunciado aporta calidez a sus mejillas. Su cabello cae de forma natural alrededor de sus hombros y se esparce ligeramente hacia el suelo.
+
+ATUENDO Y POSTURA:
+Lleva una camiseta ajustada de punto acanalado en color rojo vino oscuro con un escote en V pronunciado, pequeños botones delanteros y un lazo delicado justo debajo del busto. Combínala con una falda corta negra. Está sentada en el suelo con las rodillas juntas. Sus propios brazos permanecen fuera del encuadre. La mano del otro adulto entra desde el borde inferior izquierdo y sostiene suavemente su barbilla y ambas mejillas, sin apretar ni deformar su rostro.
+
+FONDO E ILUMINACIÓN:
+Cortinas de color marrón chocolate oscuro, un suelo de baldosas blancas y una pequeña porción de muebles negros a lo largo del borde derecho del encuadre. Una iluminación frontal suave con una sutil cualidad de flash directo ilumina su rostro y escote, mientras que el fondo permanece más oscuro y tenue. Enfatiza el contraste entre la rica tela rojo vino, la falda negra, los tonos cálidos de la piel y el maquillaje suavemente rosado.
+
+CÁMARA Y ENCUADRE:
+Una fotografía vertical de 3:4 capturada desde un ángulo cenital extremo a muy corta distancia con un objetivo gran angular. Coloca su rostro de manera prominente en la parte superior central de la imagen, con su escote y rodillas extendiéndose hacia abajo a través de la composición. Haz que la mano en primer plano y el grueso antebrazo diagonal parezcan dramáticamente agrandados por la perspectiva, ocupando una porción sustancial de la parte inferior izquierda y central del encuadre. Mantén la anatomía de la mano natural y su contacto con el rostro de ella suave. Recorta el cuerpo visible de forma natural en los bordes del encuadre. Incluye una sección pequeña y suavemente desenfocada de ropa negra a lo largo del borde inferior.
+
+Enfoca con nitidez su rostro y la mano en primer plano, con un fondo naturalmente desenfocado. Conserva una vista clara de ambos ojos, su nariz y sus labios a pesar de la perspectiva inusual.
+
+TEXTURA Y ESTILO:
+Fotografía con flash directo de ultra alta resolución y ultrarrealista. Textura de piel realista y brillo sutil, pestañas finamente detalladas, labios brillantes, acanalado visible en el tejido de punto y textura realista en la mano y el antebrazo en primer plano. Tonos intensos rojo vino y rosados, sombras creíbles, perspectiva gran angular auténtica y detalles anatómicos precisos.
+
+Una mujer adulta y una mano y antebrazo visibles pertenecientes a otro adulto. Sin manos adicionales, sin dedos adicionales, sin rasgos faciales distorsionados, sin personas duplicadas, sin texto, sin marcas de agua, sin collage.
 ```
 
 [↑ Volver a categorías](#catalog)

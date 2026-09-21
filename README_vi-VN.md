@@ -57,7 +57,7 @@ Người mẫu thời trang nữ da trắng tóc vàng trẻ tuổi, làn da tr�
 
 <a name="prompt-2101823724576002228"></a>
 
-### Đang dịch
+### 高角度俯拍直闪特写照片，展现女子坐在地上被前景手掌托腮的亲密构图与服饰光影细节。
 
 Tác giả：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Bài gốc](https://x.com/AIna_dailylooks/status/2101823724576002228)
 
@@ -65,7 +65,7 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 
 Bài gốc：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Bài gốc](https://x.com/AIna_dailylooks/status/2101728093106815214)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** 高角度俯拍直闪特写照片，展现女子坐在地上被前景手掌托腮的亲密构图与服饰光影细节。
 
 <img src="images/2101823724576002228-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -82,7 +82,27 @@ Bài gốc：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Bài gốc](
 **Câu lệnh**
 
 ```text
-Đang dịch
+CHỦ THỂ VÀ BỐ CỤC:
+Một bức ảnh cận cảnh theo chiều dọc, chân thực như ảnh chụp của (CHARACTER), một phụ nữ trưởng thành từ 21 tuổi trở lên, đang ngồi trên sàn nhà lát gạch trong nhà. Khuôn mặt cô ấy to và nằm ở vị trí trung tâm khung hình. Máy ảnh nhìn xuống cô ấy từ một góc cực cao, gần như góc nhìn từ trên đỉnh đầu xuống. Một bàn tay lớn của một người lớn khác tiến vào từ tiền cảnh phía dưới bên trái và nhẹ nhàng nâng cằm cùng má cô ấy. Cẳng tay kéo dài theo đường chéo từ góc dưới bên trái về phía trung tâm, tạo nên một bố cục góc chụp gần khác lạ và thân mật.
+
+NHÂN VẬT VÀ BIỂU CẢM:
+Giữ nguyên các đường nét trên khuôn mặt, kiểu tóc, màu tóc, tông màu da và nhận diện tổng thể vốn có của (CHARACTER). Cô ngước mặt lên và nhìn thẳng vào máy ảnh, đôi môi bóng hơi hé mở. Biểu cảm của cô đầy cuốn hút, tự tin và quyến rũ một cách tinh tế. Phấn má hồng sắc nét nhưng mềm mại tạo thêm sự ấm áp cho đôi má. Tóc cô buông xõa tự nhiên quanh vai và hơi trải dài xuống sàn.
+
+TRANG PHỤC VÀ TƯ THẾ:
+Cô mặc một chiếc áo len dệt kim gân bó sát màu đỏ rượu vang đậm với đường viền cổ chữ V khoét sâu, hàng cúc nhỏ phía trước và một chiếc nơ tinh tế ngay dưới ngực. Phối cùng một chiếc váy ngắn màu đen. Cô ngồi trên sàn với hai đầu gối khép lại. Cánh tay của chính cô nằm ngoài khung hình. Bàn tay của người lớn khác tiến vào từ mép dưới bên trái và nhẹ nhàng đỡ cằm cùng hai má của cô, không bóp chặt hay làm biến dạng khuôn mặt cô.
+
+BỐI CẢNH VÀ ÁNH SÁNG:
+Rèm cửa màu nâu sô-cô-la tối, sàn gạch trắng và một phần nhỏ đồ nội thất màu đen dọc theo mép phải của khung hình. Ánh sáng dịu phía trước với chất lượng ánh sáng đèn flash trực tiếp nhẹ nhàng chiếu sáng khuôn mặt và đường viền cổ của cô, trong khi hậu cảnh vẫn tối hơn và dịu lại. Nhấn mạnh sự tương phản giữa chất liệu vải đỏ rượu vang đậm, váy đen, tông màu da ấm áp và lớp trang điểm ửng hồng mềm mại.
+
+MÁY ẢNH VÀ KHUNG HÌNH:
+Một bức ảnh dọc tỷ lệ 3:4 được chụp từ góc cực cao ở cự ly rất gần với ống kính góc rộng. Đặt khuôn mặt của cô ấy nổi bật ở phần trên - trung tâm của hình ảnh, với đường viền cổ và đầu gối kéo dài xuống phía dưới bố cục. Làm cho bàn tay ở tiền cảnh và cẳng tay dày theo đường chéo trông to lớn rõ rệt nhờ phối cảnh, chiếm một phần đáng kể ở góc dưới bên trái và trung tâm khung hình. Giữ cho giải phẫu của bàn tay tự nhiên và sự tiếp xúc với khuôn mặt của cô ấy thật nhẹ nhàng. Cắt cúp cơ thể có thể nhìn thấy một cách tự nhiên ở các cạnh khung hình. Bao gồm một phần trang phục màu đen nhỏ, được làm mờ nhẹ dọc theo mép dưới.
+
+Lấy nét sắc nét vào khuôn mặt cô ấy và bàn tay ở tiền cảnh, với hậu cảnh mờ tự nhiên. Giữ một góc nhìn rõ ràng của cả hai mắt, mũi và môi của cô ấy bất chấp góc nhìn khác thường.
+
+KẾT CẤU VÀ PHONG CÁCH:
+Nhiếp ảnh dùng đèn flash trực tiếp độ phân giải cao, siêu chân thực. Kết cấu da như thật với độ bóng nhẹ, hàng mi chi tiết tinh xảo, đôi môi căng bóng, đường gân nhìn thấy rõ trên vải dệt kim, cùng kết cấu thực tế trên bàn tay và cẳng tay ở tiền cảnh. Tông màu đỏ rượu vang và hồng phong phú, bóng đổ chân thực, phối cảnh góc rộng đích thực và chi tiết giải phẫu chính xác.
+
+Một người phụ nữ trưởng thành cùng một bàn tay và cẳng tay có thể nhìn thấy của một người lớn khác. Không có thêm tay, không có thêm ngón tay, không có đường nét khuôn mặt bị biến dạng, không có người nhân bản, không có văn bản, không có hình mờ, không có ảnh ghép.
 ```
 
 [↑ Về danh mục](#catalog)

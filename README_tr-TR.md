@@ -57,7 +57,7 @@ Genç sarışın Kafkasyalı moda modeli, açık ten, belirgin çene hattı, del
 
 <a name="prompt-2101823724576002228"></a>
 
-### Çeviri sürüyor
+### Yüksek açıdan doğrudan flaşla çekilmiş yakın çekim fotoğraf; yerde oturan bir kadını, ön plandaki bir elin çenesini tuttuğu samimi bir kompozisyon ve kıyafet ile ışık-gölge detaylarıyla sergiliyor.
 
 Yazar：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Orijinal gönderi](https://x.com/AIna_dailylooks/status/2101823724576002228)
 
@@ -65,7 +65,7 @@ Fotoğrafçılık · Karakter · Yayımlandı
 
 Orijinal gönderi：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Orijinal gönderi](https://x.com/AIna_dailylooks/status/2101728093106815214)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yüksek açıdan doğrudan flaşla çekilmiş yakın çekim fotoğraf; yerde oturan bir kadını, ön plandaki bir elin çenesini tuttuğu samimi bir kompozisyon ve kıyafet ile ışık-gölge detaylarıyla sergiliyor.
 
 <img src="images/2101823724576002228-1.jpg" alt="Görsel 1" width="480" />
 
@@ -82,7 +82,27 @@ Orijinal gönderi：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Oriji
 **İstem**
 
 ```text
-Çeviri sürüyor
+ÖZNE VE KOMPOZİSYON:
+İç mekanda karo zemin üzerinde oturan, 21 yaşında veya daha büyük yetişkin bir kadın olan (CHARACTER)'ın fotogerçekçi, dikey bir yakın çekim fotoğrafı. Yüzü büyük ve karenin merkezindedir. Kamera ona son derece yüksek, neredeyse tam tepeden bir açıyla bakar. Başka bir yetişkine ait büyük bir el, sol alt ön plandan girerek çenesini ve yanaklarını nazikçe kavrar. Ön kol, sol alt köşeden merkeze doğru çapraz olarak uzanarak alışılmadık, samimi ve yakın mesafeli bir kompozisyon oluşturur.
+
+KARAKTER VE İFADE:
+(CHARACTER)'ın belirlenmiş yüz hatlarını, saç stilini, saç rengini, ten rengini ve genel kimliğini koruyun. Yüzünü yukarı kaldırır ve parlak dudakları hafifçe aralık halde doğrudan kameraya bakar. İfadesi büyüleyici, kendinden emin ve ince bir şekilde çekicidir. Yumuşak, belirgin pembe bir allık yanaklarına sıcaklık katar. Saçları omuzlarının etrafına doğal bir şekilde dökülür ve zemine doğru hafifçe yayılır.
+
+KIYAFET VE DURUŞ:
+Derin V yakalı, önden küçük düğmeli ve göğsün hemen altında narin bir fiyonk bulunan, vücuda oturan, koyu şarap kırmızısı fitilli örgü bir üst giymektedir. Bunu kısa siyah bir etekle kombinleyin. Dizleri bitişik şekilde yerde oturur. Kendi kolları kadrajın dışında kalır. Diğer yetişkinin eli sol alt kenardan girer ve yüzünü sıkmadan veya bozmadan çenesini ve her iki yanağını nazikçe destekler.
+
+ARKA PLAN VE AYDINLATMA:
+Koyu çikolata kahvesi perdeler, beyaz karo zemin ve kadrajın sağ kenarı boyunca siyah mobilyanın küçük bir kısmı. Yüzünü ve dekoltesini aydınlatan, ince bir doğrudan flaş kalitesine sahip yumuşak ön aydınlatma; arka plan ise daha karanlık ve loş kalır. Zengin şarap kırmızısı kumaş, siyah etek, sıcak ten tonları ve yumuşak pembe makyaj arasındaki kontrastı vurgulayın.
+
+KAMERA VE KADRAJ:
+Geniş açılı bir lensle çok yakın mesafeden ve aşırı yüksek bir açıdan çekilmiş 3:4 dikey bir fotoğraf. Yüzünü görüntünün üst-orta kısmına belirgin bir şekilde yerleştirin; dekoltesi ve dizleri kompozisyon boyunca aşağıya doğru uzansın. Ön plandaki elin ve kalın çapraz ön kolun perspektif nedeniyle belirgin şekilde büyütülmüş görünmesini sağlayın; bu da kadrajın sol alt ve orta kısmının önemli bir bölümünü kaplasın. Elin anatomisini doğal ve yüzüyle temasını nazik tutun. Görünen vücudu kadraj kenarlarında doğal bir şekilde kırpın. Alt kenar boyunca siyah giysinin yumuşakça bulanıklaştırılmış küçük bir bölümüne yer verin.
+
+Alışılmadık perspektife rağmen her iki gözün, burnun ve dudakların net bir görünümünü koruyarak, doğal olarak bulanıklaştırılmış bir arka planla birlikte yüzüne ve ön plandaki ele keskin bir şekilde odaklanın.
+
+DOKU VE STİL:
+Ultra fotogerçekçi, yüksek çözünürlüklü doğrudan flaş fotoğrafçılığı. Gerçekçi cilt dokusu ve hafif parlaklık, ince ayrıntılara sahip kirpikler, parlak dudaklar, örgü kumaşta görünür fitiller ve ön plandaki el ile ön kolda gerçekçi doku. Zengin şarap kırmızısı ve pembe tonlar, inandırıcı gölgeler, özgün geniş açı perspektifi ve hassas anatomik ayrıntılar.
+
+Bir yetişkin kadın ve başka bir yetişkine ait bir görünür el ve ön kol. Fazladan el yok, fazladan parmak yok, bozulmuş yüz hatları yok, yinelenen kişi yok, metin yok, filigran yok, kolaj yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

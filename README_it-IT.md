@@ -57,7 +57,7 @@ Giovane modella caucasica bionda, pelle chiara, mascella scolpita, occhi chiari 
 
 <a name="prompt-2101823724576002228"></a>
 
-### Traduzione in corso
+### Primo piano scattato dall'alto con flash diretto, che ritrae una donna seduta sul pavimento con il mento sorretto da una mano in primo piano, in una composizione intima con dettagli di abiti e luci e ombre.
 
 Autore：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Post originale](https://x.com/AIna_dailylooks/status/2101823724576002228)
 
@@ -65,7 +65,7 @@ Fotografia · Personaggio · Pubblicato
 
 Post originale：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Post originale](https://x.com/AIna_dailylooks/status/2101728093106815214)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Primo piano scattato dall'alto con flash diretto, che ritrae una donna seduta sul pavimento con il mento sorretto da una mano in primo piano, in una composizione intima con dettagli di abiti e luci e ombre.
 
 <img src="images/2101823724576002228-1.jpg" alt="Immagine 1" width="480" />
 
@@ -82,7 +82,27 @@ Post originale：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Post ori
 **Prompt**
 
 ```text
-Traduzione in corso
+SOGGETTO E COMPOSIZIONE:
+Una fotografia fotorealistica e verticale in primo piano di (CHARACTER), una donna adulta di 21 anni o più, seduta su un pavimento piastrellato per interni. Il suo viso è grande e centrato nell'inquadratura. La fotocamera la guarda dall'alto verso il basso da un'angolazione estremamente elevata, quasi zenitale. Una grande mano appartenente a un altro adulto entra dal primo piano in basso a sinistra e le sostiene delicatamente il mento e le guance a coppa. L'avambraccio si estende diagonalmente dall'angolo inferiore sinistro verso il centro, creando una composizione insolita, intima e a distanza ravvicinata.
+
+PERSONAGGIO ED ESPRESSIONE:
+Conserva i tratti del viso stabiliti, l'acconciatura, il colore dei capelli, la tonalità della pelle e l'identità generale di (CHARACTER). Alza il viso e guarda direttamente nella fotocamera, con le labbra lucide leggermente socchiuse. La sua espressione è accattivante, sicura e sottilmente sensuale. Un fard rosato morbido e pronunciato dona calore alle sue guance. I suoi capelli cadono naturalmente intorno alle spalle e si spargono leggermente verso il pavimento.
+
+OUTFIT E POSA:
+Indossa un top aderente in maglia a costine color rosso vino intenso con una profonda scollatura a V, piccoli bottoni frontali e un delicato fiocco appena sotto il busto. Abbinalo a una gonna corta nera. È seduta sul pavimento con le ginocchia unite. Le sue braccia rimangono fuori dall'inquadratura. La mano dell'altro adulto entra dal bordo inferiore sinistro e sostiene delicatamente il mento ed entrambe le guance, senza schiacciare o distorcere il viso.
+
+SFONDO E ILLUMINAZIONE:
+Tende marrone cioccolato scuro, un pavimento piastrellato bianco e una piccola porzione di mobile nero lungo il bordo destro dell'inquadratura. Un'illuminazione frontale morbida con una sottile qualità da flash diretto illumina il suo viso e la scollatura, mentre lo sfondo rimane più scuro e soffuso. Enfatizza il contrasto tra il ricco tessuto rosso vino, la gonna nera, le calde tonalità della pelle e il trucco delicatamente rosato.
+
+FOTOCAMERA E INQUADRATURA:
+Una fotografia verticale in 3:4 scattata da un'angolazione estremamente dall'alto a distanza molto ravvicinata con un obiettivo grandangolare. Posiziona il suo viso in modo prominente nella parte superiore centrale dell'immagine, con la scollatura e le ginocchia che si estendono verso il basso attraverso la composizione. Rendi la mano in primo piano e lo spesso avambraccio diagonale drammaticamente ingranditi dalla prospettiva, occupando una porzione sostanziale della parte inferiore sinistra e centrale dell'inquadratura. Mantieni naturale l'anatomia della mano e delicato il suo contatto con il viso. Taglia il corpo visibile in modo naturale ai bordi dell'inquadratura. Includi una piccola sezione leggermente sfocata di abiti neri lungo il bordo inferiore.
+
+Metti a fuoco nitidamente il suo viso e la mano in primo piano, con uno sfondo naturalmente sfocato. Mantieni una visione chiara di entrambi gli occhi, del naso e delle labbra nonostante la prospettiva insolita.
+
+TEXTURE E STILE:
+Fotografia con flash diretto ultra-fotorealistica e ad alta risoluzione. Texture della pelle realistica e lucentezza sottile, ciglia finemente dettagliate, labbra lucide, costine visibili nel tessuto in maglia e texture realistica sulla mano e sull'avambraccio in primo piano. Toni intensi rosso vino e rosati, ombre credibili, autentica prospettiva grandangolare e precisi dettagli anatomici.
+
+Una donna adulta e una mano e un avambraccio visibili appartenenti a un altro adulto. Nessuna mano extra, nessun dito extra, nessun tratto del viso distorto, nessuna persona duplicata, nessun testo, nessuna filigrana, nessun collage.
 ```
 
 [↑ Torna alle categorie](#catalog)

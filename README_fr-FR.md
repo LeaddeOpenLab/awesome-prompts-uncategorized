@@ -57,7 +57,7 @@ Jeune mannequin femme caucasienne et blonde, peau claire, mâchoire nette, yeux 
 
 <a name="prompt-2101823724576002228"></a>
 
-### Traduction en cours
+### Photo rapprochée au flash direct en plongée haute, montrant une femme assise au sol dont le menton est soutenu par une main au premier plan, dans une composition intime avec détails de vêtements, d'ombres et de lumières.
 
 Auteur：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Publication originale](https://x.com/AIna_dailylooks/status/2101823724576002228)
 
@@ -65,7 +65,7 @@ Photographie · Personnage · Publié
 
 Publication originale：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [Publication originale](https://x.com/AIna_dailylooks/status/2101728093106815214)
 
-**Résumé:** Traduction en cours
+**Résumé:** Photo rapprochée au flash direct en plongée haute, montrant une femme assise au sol dont le menton est soutenu par une main au premier plan, dans une composition intime avec détails de vêtements, d'ombres et de lumières.
 
 <img src="images/2101823724576002228-1.jpg" alt="Image 1" width="480" />
 
@@ -82,7 +82,27 @@ Publication originale：[@AIna\_dailylooks](https://x.com/AIna_dailylooks) · [P
 **Consigne**
 
 ```text
-Traduction en cours
+SUJET ET COMPOSITION :
+Une photographie photoréaliste et verticale en gros plan de (CHARACTER), une femme adulte âgée de 21 ans ou plus, assise sur un sol carrelé en intérieur. Son visage est grand et centré dans le cadre. La caméra la regarde d'en haut selon un angle extrêmement plongeant, presque zénithal. Une grande main appartenant à un autre adulte entre par le premier plan en bas à gauche et soutient délicatement son menton et ses joues. L'avant-bras s'étend en diagonale depuis le coin inférieur gauche vers le centre, créant une composition inhabituelle, intime et rapprochée.
+
+PERSONNAGE ET EXPRESSION :
+Préservez les traits du visage établis, la coiffure, la couleur des cheveux, le teint de la peau et l'identité générale de (CHARACTER). Elle lève le visage et regarde directement l'objectif, ses lèvres brillantes légèrement entrouvertes. Son expression est captivante, confiante et subtilement sensuelle. Un blush rosé doux et prononcé apporte de la chaleur à ses joues. Ses cheveux tombent naturellement autour de ses épaules et s'étalent légèrement vers le sol.
+
+TENUE ET POSE :
+Elle porte un haut ajusté en tricot côtelé rouge bordeaux profond avec un décolleté plongeant en V, de petits boutons sur le devant et un délicat nœud juste sous la poitrine. Associé à une jupe courte noire. Elle est assise sur le sol, les genoux joints. Ses propres bras restent hors champ. La main de l'autre adulte entre par le bord inférieur gauche et soutient délicatement son menton et ses deux joues, sans presser ni déformer son visage.
+
+ARRIÈRE-PLAN ET ÉCLAIRAGE :
+Des rideaux brun chocolat foncé, un sol en carrelage blanc et une petite portion de meuble noir le long du bord droit du cadre. Un éclairage frontal doux avec une subtile qualité de flash direct illumine son visage et son décolleté, tandis que l'arrière-plan reste plus sombre et tamisé. Mettez l'accent sur le contraste entre le riche tissu rouge bordeaux, la jupe noire, les tons chauds de la peau et le maquillage délicatement rosé.
+
+APPAREIL PHOTO ET CADRAGE :
+Une photographie verticale 3:4 prise d'un angle extrêmement plongeant à très courte distance avec un objectif grand-angle. Placez son visage bien en vue dans le centre supérieur de l'image, avec son décolleté et ses genoux s'étendant vers le bas à travers la composition. Donnez à la main au premier plan et à l'épais avant-bras diagonal un aspect dramatiquement agrandi par la perspective, occupant une part substantielle de la zone inférieure gauche et centrale du cadre. Conservez une anatomie naturelle de la main et un contact doux avec son visage. Cadrez le corps visible de manière naturelle aux bords de l'image. Incluez une petite section doucement floutée de vêtement noir le long du bord inférieur.
+
+Faites une mise au point nette sur son visage et la main au premier plan, avec un arrière-plan naturellement flou. Conservez une vue dégagée des deux yeux, de son nez et de ses lèvres malgré la perspective inhabituelle.
+
+TEXTURE ET STYLE :
+Photographie au flash direct ultra-photoréaliste et haute résolution. Texture de peau réaliste et éclat subtil, cils finement détaillés, lèvres brillantes, côtes visibles dans le tricot et texture réaliste sur la main et l'avant-bras au premier plan. Tons bordeaux riches et rosés, ombres crédibles, perspective authentique au grand-angle et détails anatomiques précis.
+
+Une femme adulte et une main et un avant-bras visibles appartenant à un autre adulte. Pas de mains supplémentaires, pas de doigts supplémentaires, pas de traits du visage déformés, pas de personne dupliquée, pas de texte, pas de filigrane, pas de collage.
 ```
 
 [↑ Retour aux catégories](#catalog)
