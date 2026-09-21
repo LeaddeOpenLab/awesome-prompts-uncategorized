@@ -19,13 +19,13 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**434** Prompt · Ultima aggiunta: **2026-09-21**
+**467** Prompt · Ultima aggiunta: **2026-09-21**
 
 <a name="catalog"></a>
 
 ## Sfoglia per categoria
 
-[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Fumetto / Graphic Novel](#category-comic-graphic-novel) · [Rendering 3D](#category-3d-render) · [Chibi / Stile Q](#category-chibi-q-style) · [Pittura a Olio](#category-oil-painting) · [Acquerello](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
+[Fotografia](#category-photography) · [Fermo immagine cinematografico / Still fotografico](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustrazione](#category-illustration) · [Schizzo / Line Art](#category-sketch-line-art) · [Fumetto / Graphic Novel](#category-comic-graphic-novel) · [Rendering 3D](#category-3d-render) · [Chibi / Stile Q](#category-chibi-q-style) · [Isometrico](#category-isometric) · [Pittura a Olio](#category-oil-painting) · [Acquerello](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalismo](#category-minimalism) · [Altro](#category-other)
 
 <a name="all-prompts"></a>
 
@@ -57,13 +57,13 @@ Traduzione in corso
 
 <a name="prompt-2102017673634656545"></a>
 
-### Traduzione in corso
+### Template per generare modelli architettonici in scala 1:50 basati su suoni quotidiani, fotografati su piedistallo in studio.
 
 Autore：[@hmontilla\_](https://x.com/hmontilla_) · [Post originale](https://x.com/hmontilla_/status/2102017673634656545)
 
 Fotografia · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Template per generare modelli architettonici in scala 1:50 basati su suoni quotidiani, fotografati su piedistallo in studio.
 
 <img src="images/2102017673634656545-1.jpg" alt="Immagine 1" width="480" />
 
@@ -76,7 +76,7 @@ Fotografia · Architettura / Interni · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Progetta un plastico architettonico ispirato a [SUONO QUOTIDIANO]. Traduci il suo ritmo, la sua intensità e la sua texture nella silhouette di un padiglione costruibile, con materiali che evochino quel suono in modo sottile. Fotografia architettonica realistica di un modello in scala 1:50 su piedistallo grigio caldo, sfondo da studio blu navy scuro, vista a tre quarti, illuminazione laterale morbida, dettagli materici precisi, composizione quadrata 1:1, senza persone, testo, loghi né grafiche di onde sonore.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -85,13 +85,13 @@ Traduzione in corso
 
 <a name="prompt-2102110615368270316"></a>
 
-### Traduzione in corso
+### Modello di ritratto artistico ravvicinato drammatico in B&amp;N low-key che preserva l'identità dietro un bordo in primo piano.
 
 Autore：[@EhabSalahArt](https://x.com/EhabSalahArt) · [Post originale](https://x.com/EhabSalahArt/status/2102110615368270316)
 
 Fotografia · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di ritratto artistico ravvicinato drammatico in B&amp;N low-key che preserva l'identità dietro un bordo in primo piano.
 
 <img src="images/2102110615368270316-1.jpg" alt="Immagine 1" width="480" />
 
@@ -100,7 +100,13 @@ Fotografia · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+SOGGETTO: [NOME / MASCHIO o FEMMINA]
+Usa la foto caricata come UNICA referenza d'identità. Preserva l'esatta identità riconoscibile della persona, la struttura facciale, occhi, naso, labbra, linea della mascella, acconciatura O calvizie naturale, tono della pelle, età e tratti distintivi. Nessuna alterazione dell'identità, nessun capello indesiderato, nessuna femminilizzazione o mascolinizzazione.
+Crea un potente ritratto artistico in bianco e nero ispirato alla referenza: primissimo piano di profilo laterale, il soggetto parzialmente nascosto dietro un morbido bordo in primo piano, che guarda pensieroso verso il lato con un occhio chiaramente visibile. Una mano riposa naturalmente vicino alla bocca/mento in una posa contemplativa. Illuminazione drammatica low-key, ombre profonde, luci morbide, ricchi toni monocromatici, texture autentica della pelle, sottile grana della pellicola, profondità di campo ridotta, sfondo scuro minimalista, atmosfera emotiva intima, fotografia documentaria fine-art, ultra-dettagliato, verticale 4:5.
+Mantieni la posa naturale e appropriata al genere. Nessun testo o logo eccetto la mia firma.
+Aggiungi solo in basso a sinistra:
+“Prompt & Idea 𝕏 @EhabSalahArt - Lady @MFH_1984 "
+“https://t.co/yKUOLllJYo”
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -109,20 +115,20 @@ Traduzione in corso
 
 <a name="prompt-2102093685483618730"></a>
 
-### Traduzione in corso
+### Ritratto da studio di una donna in un abito aderente rosso ricamato in pizzo contro uno sfondo materico rosso scuro coordinato.
 
 Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2102093685483618730)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto da studio di una donna in un abito aderente rosso ricamato in pizzo contro uno sfondo materico rosso scuro coordinato.
 
 <img src="images/2102093685483618730-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una fotografia a mezzo busto cattura una donna con lunghi capelli scuri e ondulati, con la riga in mezzo, che indossa un abito rosso aderente a maniche lunghe che scende fino alle caviglie. L'abito presenta un collo alto, un corpetto e maniche lunghe trasparenti ricamati in pizzo, in contrasto con il tessuto liscio e setoso del resto dell'abito. Posa con la mano destra che le tocca delicatamente il collo e la mano sinistra lungo il fianco, guardando dritta verso l'obiettivo con un'espressione neutra. Lo sfondo è una parete materica a tinta unita rosso scuro, che offre una tavolozza di colori drammatica e uniforme. L'illuminazione è morbida e diffusa, proiettando ombre sottili che definiscono i suoi lineamenti e la trama del pizzo. La fotografia è un ritratto professionale da studio, dalla composizione pulita ed essenziale.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -131,20 +137,20 @@ Traduzione in corso
 
 <a name="prompt-2102072278460559870"></a>
 
-### Traduzione in corso
+### Ritratto street estivo e realistico di un uomo in un mercato all'aperto con maglietta blu oversize e bermuda di jeans.
 
 Autore：[@rotavirus1980](https://x.com/rotavirus1980) · [Post originale](https://x.com/rotavirus1980/status/2102072278460559870)
 
 Fotografia · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto street estivo e realistico di un uomo in un mercato all'aperto con maglietta blu oversize e bermuda di jeans.
 
 <img src="images/2102072278460559870-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto ultra realistico e spontaneo in stile street estivo di un uomo adulto in piedi in un mercato all'aperto del fine settimana, fotografato con una luce naturale e luminosa del giorno. L'immagine deve trasmettere una sensazione rilassata, maschile, accessibile e dal fascino disinvolto, come un'istantanea di viaggio spontanea piuttosto che una campagna di moda patinata. Ha capelli del colore e della forma del riferimento, sopracciglia definite, pelle calda baciata dal sole e un sorriso amichevole e discreto mentre guarda direttamente verso la fotocamera. Corpo: corporatura atletica e snella con spalle naturalmente larghe e proporzioni realistiche. Mantieni il fisico in forma e sobrio anziché esagerato. Abbigliamento: una t-shirt oversize in una tonalità azzurro pallido. Il colletto è morbido e le maniche sono corte. Abbina a bermuda di jeans a metà coscia. Scarpe: semplici sandali in gomma blu navy, casual e leggermente consumati. Accessori: sottile collana a catena d'argento, un paio di occhiali da sole rettangolari scuri appesi con disinvoltura al bordo anteriore della cintura o all'apertura della maglietta, anelli minimali e una borsa tote in tela color crema appesa a una spalla. Posa: in piedi in modo rilassato con entrambe le mani infilate nelle tasche dei pantaloncini, spalle rilassate, piedi leggermente distanziati. Busto leggermente angolato di lato mentre il viso rimane rivolto verso la fotocamera. Mantieni una postura naturale, come quella di qualcuno che si ferma per una foto al volo mentre passeggia per il mercato. Ambiente: vivace mercato di quartiere all'aperto sotto alberi frondosi e maturi, con tende di venditori, tendoni a righe, piccole bancarelle e persone vestite in modo casual che si muovono sullo sfondo. Aggiungi pavimentazione in pietra grigia autobloccante, foglie secche sparse, coperture in tela da mercato e chiazze calde di luce solare che filtrano tra gli alberi. Lo sfondo deve sembrare genuinamente affollato ma leggermente sfocato, con persone in abiti estivi, borse tote e calzature casual. Evita che i volti sullo sfondo risultino eccessivamente evidenti. Illuminazione: luce diurna brillante e filtrata di mezzogiorno con l'ombra degli alberi che ammorbidisce il viso e il corpo. Toni caldi della pelle, riflessi naturali sulla camicia di lino blu e morbide ombre punteggiate sul marciapiede. Nessun flash duro. Fotografia: foto street verticale scattata con smartphone o fotocamera compatta, nitidezza realistica da fotocamera di smartphone, profondità di campo moderata, grana sottile, resa cromatica leggermente calda, trama naturale del tessuto e della pelle, fotoritocco minimo, estetica contemporanea da viaggi estivi, fotorealistica, alta risoluzione. Composizione: ritratto verticale a tre quarti in formato 3:4, soggetto centrato nell'inquadratura, attività del mercato che riempie lo sfondo, maglietta azzurro pallido che crea l'accento cromatico principale. Prompt negativo: abito formale, pantaloni lunghi, scarpe da ginnastica sportive, resort di lusso, sfondo vuoto, fisico da culturista, barba folta e pesante, vestiti fluo brillanti, campagna di moda in posa, flash diretto duro, bokeh estremo, pelle di plastica, mani distorte, dita extra, sandali deformati, arti duplicati, bancarelle deformate, testo in sovrimpressione, filigrana, caricatura, anime, illustrazione, CGI.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -1508,7 +1514,7 @@ Traduzione in corso
 
 <a name="prompt-2100572149778112835"></a>
 
-### Prompt per generare una fotografia dal vero naturale e realistica in stile iPhone basata su un'immagine di riferimento.
+### Traduzione in corso
 
 Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2100572149778112835)
 
@@ -1516,7 +1522,7 @@ Fotografia · Pubblicato
 
 Post originale：[@sakisuta\_](https://x.com/sakisuta_) · [Post originale](https://x.com/sakisuta_/status/2100523713619992970)
 
-**Riepilogo:** Prompt per generare una fotografia dal vero naturale e realistica in stile iPhone basata su un'immagine di riferimento.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100572149778112835-1.jpg" alt="Immagine 1" width="480" />
 
@@ -1533,7 +1539,7 @@ Post originale：[@sakisuta\_](https://x.com/sakisuta_) · [Post originale](http
 **Prompt**
 
 ```text
-Genera una fotografia dal vero basata sull'immagine di riferimento. Crea un'immagine realistica e naturale come se fosse stata scattata con un iPhone.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -2598,6 +2604,58 @@ fotografia spontanea e fotorealistica della vita notturna, sala KTV privata busi
 
 ---
 
+<a name="prompt-2100057486099431839"></a>
+
+### Traduzione in corso
+
+Autore：[@itxsarmadd](https://x.com/itxsarmadd) · [Post originale](https://x.com/itxsarmadd/status/2100057486099431839)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100057486099431839-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100057486099431839-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2100081996760531273"></a>
+
+### Traduzione in corso
+
+Autore：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Post originale](https://x.com/HObE4TLMga99335/status/2100081996760531273)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+Post originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Post originale](https://x.com/HObE4TLMga99335/status/2099738231155691801)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2100081996760531273-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2100081996760531273-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2100081996760531273-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2100085987074588710"></a>
 
 ### Traduzione in corso
@@ -2687,6 +2745,28 @@ Post originale：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Post orig
 <img src="images/2100036195572937061-2.jpg" alt="Immagine 2" width="480" />
 
 <img src="images/2100036195572937061-3.jpg" alt="Immagine 3" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099988959992709449"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2099988959992709449)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099988959992709449-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -2868,6 +2948,28 @@ Traduzione in corso
 
 ---
 
+<a name="prompt-2099641928220361114"></a>
+
+### Traduzione in corso
+
+Autore：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Post originale](https://x.com/AiPhotoDesigner/status/2099641928220361114)
+
+Fotografia · Ritratto / Selfie · Personaggio · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099641928220361114-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099632246730760679"></a>
 
 ### Prompt di ritratto per una ragazza turca di 23 anni in un giardino fiorito sotto una morbida luce mattutina con dettagli fotorealistici.
@@ -3009,6 +3111,52 @@ Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
     "size": "1080x1920"
   }
 }
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099409502898700694"></a>
+
+### Traduzione in corso
+
+Autore：[@mumaren\_2](https://x.com/mumaren_2) · [Post originale](https://x.com/mumaren_2/status/2099409502898700694)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099409502898700694-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099409502898700694-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099379743108055415"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2099379743108055415)
+
+Fotografia · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099379743108055415-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3299,6 +3447,28 @@ Traduzione in corso
 
 ---
 
+<a name="prompt-2099106797655048428"></a>
+
+### Traduzione in corso
+
+Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2099106797655048428)
+
+Fotografia · Personaggio · Articolo di moda · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099106797655048428-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099001599767318570"></a>
 
 ### Traduzione in corso
@@ -3459,6 +3629,52 @@ Usa un'illuminazione da studio low-key drammatica: luce chiave morbida che illum
 La composizione deve sembrare quella di una campagna di moda maschile di lusso, sofisticata, autorevole, elegante, misteriosa, editoriale e cinematografica. Scattata con un obiettivo da ritratto da 85 mm, profondità di campo ridotta, fotografia ultra-realistica, ampia gamma dinamica, messa a fuoco nitida, texture della pelle realistica, qualità da rivista di moda premium, composizione verticale in 9:16.
 
 Nessun testo, nessun logo, nessun watermark, nessuna persona in più, nessuna mano distorta, nessun muscolo esagerato.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098676865284407781"></a>
+
+### Traduzione in corso
+
+Autore：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Post originale](https://x.com/YueyueforLuis/status/2098676865284407781)
+
+Fotografia · Gruppo / Coppia · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098676865284407781-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098676865284407781-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098687497794711885"></a>
+
+### Traduzione in corso
+
+Autore：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Post originale](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
+
+Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098687497794711885.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -3627,6 +3843,28 @@ Sulla pelle si notano gocce d'acqua, un lieve rossore naturale e una delicata gr
 【Qualità ed elementi da escludere】
 Massima cura per alta risoluzione, anatomia umana naturale, prospettiva realistica, nonché resa di luce e materiali paragonabile a quella di una fotocamera reale. Evitare soggetti dall'aspetto minorenne, tratti somatici troppo infantili, articolazioni innaturali, torsioni corporee forzate, arti o dita in eccesso, dita mancanti, dita fuse o confusione tra mano destra e sinistra.
 Evitare difetti visivi nel telo, fusione con il corpo, solchi innaturali o nudità involontaria. Mantenendo il volume naturale e generoso del seno, evitare dimensioni gigantesche, forme sferiche rigide, sollevamenti anomali o sagome che sfidano la gravità. Escludere distorsioni estreme da grandangolo, pelle eccessivamente ritoccata, sfondi artificiali, scritte, loghi, watermark ed elementi di interfaccia grafica.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098639083652419714"></a>
+
+### Traduzione in corso
+
+Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2098639083652419714)
+
+Fotografia · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098639083652419714-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4397,7 +4635,7 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2102106915635601452"></a>
 
-### Traduzione in corso
+### Inquadratura animata disegnata a mano di un uomo seduto su una panchina, con un'aquila a stelle e strisce che gli atterra sulla testa, mentre l'uomo urla e corre.
 
 Autore：[@1littlecoder](https://x.com/1littlecoder) · [Post originale](https://x.com/1littlecoder/status/2102106915635601452)
 
@@ -4405,14 +4643,14 @@ Fermo immagine cinematografico / Still fotografico · Personaggio · Pubblicato
 
 Post originale：[@fal](https://x.com/fal) · [Post originale](https://x.com/fal/status/2102102544331784493)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Inquadratura animata disegnata a mano di un uomo seduto su una panchina, con un'aquila a stelle e strisce che gli atterra sulla testa, mentre l'uomo urla e corre.
 
 <img src="covers/2102106915635601452.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un uomo #Image1 siede su una panchina del parco. Il suo collo si allunga verso l'alto per la sorpresa mentre una minuscola aquila con la bandiera degli Stati Uniti sul corpo atterra sulla sua testa. Inquadratura media fissa, movimento espressivo disegnato a mano. Inizia a urlare e a correre!
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4849,26 +5087,20 @@ Nessuna persona reale.
 
 <a name="prompt-2100644208600400163"></a>
 
-### Discesa sottomarina cinematografica continua dalla superficie soleggiata all'abisso con fauna e meduse bioluminescenti.
+### Traduzione in corso
 
 Autore：[@mys1111](https://x.com/mys1111) · [Post originale](https://x.com/mys1111/status/2100644208600400163)
 
 Fermo immagine cinematografico / Still fotografico · Pubblicato
 
-**Riepilogo:** Discesa sottomarina cinematografica continua dalla superficie soleggiata all'abisso con fauna e meduse bioluminescenti.
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2100644208600400163.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Viaggio in fondo al mare in uno stile cinematografico realistico e ipnotico.
-
-Una discesa fluida e continua dalla superficie soleggiata dell'oceano verso le profondità abissali. La luce del sole filtra in fasci dorati e blu che svaniscono gradualmente. Banchi di pesci argentati attraversano l'inquadratura, coralli vivaci, meduse luminose e creature bioluminescenti compaiono man mano che si scende in profondità. L'acqua diventa sempre più scura, profonda e infinita, con particelle fluttuanti e un'atmosfera di mistero e meraviglia.
-
-La telecamera avanza in un piano sequenza continuo e fluido, spingendo dolcemente in avanti e verso il basso, creando una sensazione di immersione totale e vertigine controllata. Illuminazione realistica con un contrasto drammatico tra la luce che scompare e i bagliori bioluminescenti.
-
-Musica classica orchestrale maestosa e intensa, con archi profondi, ottoni e crescendo che evocano stupore e grandiosità, sincronizzata con la discesa.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -5215,7 +5447,7 @@ Una scena cinematografica surreale di alta moda con protagonista una donna biond
 
 <a name="prompt-2099346814327738872"></a>
 
-### Ritratto cinematografico di un uomo dell'Asia meridionale su una sedia ornata sotto la calda luce di persiane veneziane.
+### Traduzione in corso
 
 Autore：[@Tanvir48992](https://x.com/Tanvir48992) · [Post originale](https://x.com/Tanvir48992/status/2099346814327738872)
 
@@ -5223,7 +5455,7 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Ritratto / S
 
 Post originale：[@Tanvir48992](https://x.com/Tanvir48992) · [Post originale](https://x.com/Tanvir48992/status/2098828983488180727)
 
-**Riepilogo:** Ritratto cinematografico di un uomo dell'Asia meridionale su una sedia ornata sotto la calda luce di persiane veneziane.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099346814327738872-1.jpg" alt="Immagine 1" width="480" />
 
@@ -5232,7 +5464,7 @@ Post originale：[@Tanvir48992](https://x.com/Tanvir48992) · [Post originale](h
 **Prompt**
 
 ```text
-Ritratto cinematografico di un giovane uomo dell'Asia meridionale con folti capelli scuri e ricci e una barba piena, seduto di traverso su una sedia vintage ornata in legno intagliato, che guarda pensieroso fuori campo con un'espressione calma e contemplativa. Indossa una sovracamicia in velluto a coste o pelle scamosciata color cammello/cuoio con un colletto ampio, aperta sopra una maglietta marrone scuro, abbinata a jeans blu, con le mani rilassate sui braccioli della sedia. La scena è illuminata dalla calda luce dell'ora d'oro che filtra attraverso una finestra con veneziane, proiettando nitide strisce orizzontali di luce e ombra sul suo viso, sul petto e sulla parete dietro di lui. Una pila di vecchi libri con copertina rigida si trova su un piccolo tavolino di legno vicino alla finestra sullo sfondo, dolcemente illuminata e leggermente fuori fuoco. La stanza presenta una tavolozza di colori caldi, suggestivi e dai toni seppia con marroni profondi e tonalità ambrate, drammatica illuminazione chiaroscurale, profondità di campo ridotta, particelle di polvere sottilmente visibili nei fasci di luce, atmosfera cinematografica e nostalgica, scattata come con un obiettivo da 50mm a f/1.8, ultra-realistico, dettaglio elevato, color grading in stile pellicola.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -5241,13 +5473,13 @@ Ritratto cinematografico di un giovane uomo dell'Asia meridionale con folti cape
 
 <a name="prompt-2099332324538093913"></a>
 
-### Un prompt completo per generare ritratti cinematografici verticali in stile regista utilizzando immagini di riferimento per posa, illuminazione e sedia, bloccando al contempo l'identità facciale del soggetto.
+### Traduzione in corso
 
 Autore：[@meAsifAi](https://x.com/meAsifAi) · [Post originale](https://x.com/meAsifAi/status/2099332324538093913)
 
 Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Un prompt completo per generare ritratti cinematografici verticali in stile regista utilizzando immagini di riferimento per posa, illuminazione e sedia, bloccando al contempo l'identità facciale del soggetto.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099332324538093913-1.jpg" alt="Immagine 1" width="480" />
 
@@ -5258,151 +5490,7 @@ Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Pubbl
 **Prompt**
 
 ```text
-MASTER PROMPT — RITRATTO CINEMATOGRAFICO DA REGISTA BASATO SU RIFERIMENTO
-
-L'IMMAGINE DI RIFERIMENTO È OBBLIGATORIA.
-
-Usa l'immagine di riferimento caricata come RIFERIMENTO VISIVO PRINCIPALE per l'intera composizione, l'inquadratura, l'angolazione della fotocamera, il posizionamento del soggetto, la posa, il design della sedia, l'impostazione dell'illuminazione, l'atmosfera dello sfondo, le ombre, il fumo, la profondità, il color grading, il mood cinematografico e l'estetica visiva complessiva.
-
-Usa l'immagine personale caricata dall'utente come RIFERIMENTO DI IDENTITÀ PRINCIPALE per il soggetto.
-
-Il soggetto caricato può essere QUALSIASI PERSONA — uomo o donna. Preserva l'esatta identità riconoscibile della persona dall'immagine personale caricata, inclusi struttura facciale, occhi, naso, labbra, linea della mascella, tonalità della pelle, attaccatura dei capelli, acconciatura, età apparente e caratteristiche facciali naturali. NON sostituire, riprogettare, abbellire, mascolinizzare, femminilizzare o alterare l'identità della persona.
-
-TRASFORMA IL SOGGETTO NELLA STESSA CONFIGURAZIONE DI RITRATTO CINEMATOGRAFICO DELL'IMMAGINE DI RIFERIMENTO.
-
-COMPOSIZIONE:
-Crea un drammatico ritratto cinematografico verticale con il soggetto seduto con sicurezza su una sedia da regista nera professionale al centro dell'inquadratura.
-
-Replica fedelmente la composizione di riferimento:
-- Composizione a figura intera da seduto
-- Soggetto posizionato centralmente
-- Fotocamera posizionata approssimativamente all'altezza degli occhi/del petto con una prospettiva leggermente cinematografica
-- Gambe naturalmente incrociate o posizionate in una posa seduta rilassata e sicura corrispondente al riferimento
-- Un braccio appoggiato naturalmente sul bracciolo della sedia
-- L'altra mano posizionata naturalmente vicino al viso/alla testa in una posa editoriale pensierosa e sicura
-- Linguaggio del corpo rilassato ma potente
-- Forte equilibrio visivo simmetrico
-- Generoso spazio negativo scuro che circonda il soggetto
-- Mantieni il soggetto come punto focale dominante
-
-SEDIA:
-Usa una sedia pieghevole premium in stile regista di colore nero con dettagli strutturali realistici, tessuto scuro, braccioli, telaio di supporto a croce e proporzioni fisicamente accurate.
-
-ILLUMINAZIONE:
-Ricrea la drammatica illuminazione da studio del riferimento.
-
-Un faretto zenitale superiore, potente e stretto, deve illuminare il soggetto dall'alto, creando un cono di luce visibile contro l'ambiente scuro.
-
-La luce deve produrre:
-- Punti luce cinematografici sul viso
-- Ombre naturali su tutto il corpo
-- Sottile luce di contorno attorno alla silhouette
-- Decadimento della luce realistico
-- Ombre profonde ma dettagliate
-- Forte separazione del soggetto dallo sfondo
-
-SFONDO:
-Crea un ambiente da studio cinematografico quasi completamente buio con uno sfondo nero profondo/blu-nero.
-
-Aggiungi fumo o foschia atmosferica sottile che sale dietro e sopra il soggetto. Il fumo deve interagire naturalmente con il faretto superiore, creando raggi di luce volumetrica visibili.
-
-Lo sfondo deve rimanere minimale, scuro, elegante e privo di distrazioni.
-
-GUARDAROBA:
-Adatta il guardaroba in modo naturale al genere, all'aspetto e all'estetica generale della persona caricata, mantenendo la stessa sensazione cinematografica premium del riferimento.
-
-L'outfit deve apparire sofisticato, realistico, elegante ed editoriale.
-
-NON copiare ciecamente l'abbigliamento esatto dal riferimento se non si adatta naturalmente al soggetto caricato. Preserva invece il linguaggio di stile generale del riferimento: moda cinematografica scura, sofisticata, neutra/maschile/femminile, texture premium, materiali realistici e lusso discreto.
-
-POSA ED ESPRESSIONE:
-Mantieni l'atteggiamento sicuro, calmo e composto del riferimento.
-
-L'espressione facciale della persona deve apparire naturale, seria, sofisticata e sicura di sé.
-
-Non forzare un sorriso esagerato o un'espressione drammatica.
-
-Preserva le proporzioni facciali naturali e l'identità riconoscibile della persona.
-
-FOTOCAMERA E OBIETTIVO:
-Look fotografico cinematografico professionale.
-Estetica da fotocamera full-frame.
-Obiettivo da ritratto di circa 50mm–85mm.
-Prospettiva naturale.
-Profondità di campo moderatamente ridotta.
-Soggetto nitidamente a fuoco.
-Sfondo che sfuma gradualmente nell'oscurità e in una morbida profondità atmosferica.
-
-REALISMO:
-Anatomia umana ultra-fotorealistica.
-Texture della pelle naturale.
-Pori della pelle visibili ma sottili.
-Dettagli facciali realistici.
-Ciocche di capelli naturali.
-Pieghe degli abiti fisicamente accurate.
-Risposta realistica di pelle/tessuto/materiale.
-Mani e dita naturali.
-Proporzioni corporee corrette.
-Geometria della sedia realistica.
-Ombre di contatto naturali tra corpo, abiti, sedia e pavimento.
-
-COLOR GRADING CINEMATOGRAFICO:
-Palette di colori cinematografica scura e premium.
-Neri profondi.
-Ombre fredde blu-nere.
-Sottili punti luce caldi su pelle e vestiti.
-Ampia gamma dinamica.
-Contrasto ricco.
-Alte luci controllate.
-Color grading professionale di livello teatrale/cinematografico.
-Estetica fotografica editoriale di lusso.
-
-ATMOSFERA:
-L'immagine finale deve sembrare un poster di personaggi cinematografici ad alto budget o un ritratto editoriale premium in stile Netflix fotografato all'interno di uno studio cinematografico professionale.
-
-L'immagine deve apparire sofisticata, potente, misteriosa, drammatica e lussuosa — NON come una normale fotografia da studio.
-
-BLOCCO DELL'IDENTITÀ:
-L'immagine personale caricata è l'UNICA fonte di verità per l'identità del soggetto.
-
-Non cambiare il viso della persona.
-Non generare una persona diversa.
-Non fondere i tratti del viso con l'immagine di riferimento.
-Non copiare l'identità della persona di riferimento.
-Usa l'immagine di riferimento SOLO per composizione, posa, ambiente, illuminazione, trattamento della fotocamera, atmosfera e stile visivo.
-
-Il soggetto finale deve chiaramente rimanere la stessa persona dell'immagine personale caricata.
-
-QUALITÀ:
-Ultra-realistico.
-Fotorealistico.
-Fotografia cinematografica.
-Dettaglio 8K.
-Alta risoluzione.
-Rendering professionale della pelle.
-Micro-dettagli naturali.
-Illuminazione volumetrica realistica.
-Fumo realistico.
-Ombre accurate.
-Bordi puliti.
-Nessun aspetto artificiale da IA.
-Nessuna pelle di plastica.
-Nessun viso ceroso.
-Nessun look da CGI.
-Nessuna anatomia distorta.
-Nessun dito in più.
-Nessuna mano deformata.
-Nessun arto duplicato.
-Nessun artefatto facciale.
-Nessun occhio innaturale.
-Nessun vestito deformato.
-Nessun oggetto fluttuante.
-Nessuna nitidezza eccessiva.
-
-OUTPUT FINALE:
-Un ritratto cinematografico verticale premium che corrisponda il più fedelmente possibile al linguaggio visivo dell'immagine di riferimento caricata, utilizzando l'immagine personale caricata come riferimento esatto dell'identità.
-
-Il risultato deve sembrare una vera fotografia cinematografica professionale scattata con una fotocamera di fascia alta, non un'immagine generata dall'IA.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -5622,6 +5710,72 @@ Post originale：[@Soranlan](https://x.com/Soranlan) · [Post originale](https:/
 
 ```text
 Fotogramma cinematografico in pellicola 35mm, estetica retro wuxia cinese, ritratto onirico dal vivo a fuoco morbido di una donna wuxia dell'Asia orientale adulta in un boschetto di bambù notturno e nebbioso. Mezzo primo piano, profilo a tre quarti rivolto verso la telecamera, sguardo calmo e malinconico, viso ovale, sopracciglia a foglia di salice, occhi a mandorla, trucco delicato, pelle pallida e luminosa, lunghi capelli neri mossi lateralmente dal vento, classico chignon semiraccolto con ciocche sciolte, delicati orecchini pendenti in argento. Fluido hanfu di seta bianca con strati inferiori azzurro pallido e lunghe maniche morbide, una mano tesa con grazia per afferrare una foglia di bambù che cade. Petali rosa e foglie di bambù fluttuanti, sfocatura a strati della vegetazione in primo piano, nebbia leggera, atmosfera fresca di luna blu-verde, morbida e calda luce di contorno ambrata sui capelli e sulla guancia. Bassa profondità di campo, sottile alonatura, grana della pellicola visibile, atmosfera cinematografica analogica. "Soran" intrecciato nel ricamo del bordo della manica vicino al polso, incorporato nella trama della seta, nelle venature dell'ornamento per capelli e nei sottili motivi a filo degli orecchini. --no anime, game concept art, CGI, plastic skin, hard flash, studio lighting, sharp digital crispness, HDR, oversaturated colors, aggressive expression, direct harsh stare, modern clothing, modern accessories, distorted hands, extra fingers, missing fingers, bad anatomy, external watermark, sticker-like logo, detached letters, captions, subtitles --chaos 18 --ar 16:9 --raw --profile r6rgev6 --stylize 220 --hd
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098806415666077809"></a>
+
+### Traduzione in corso
+
+Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2098806415666077809)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098806415666077809-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098788910432129114"></a>
+
+### Traduzione in corso
+
+Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2098788910432129114)
+
+Fermo immagine cinematografico / Still fotografico · Ritratto / Selfie · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098788910432129114-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098780787936223258"></a>
+
+### Traduzione in corso
+
+Autore：[@im\_shahid7](https://x.com/im_shahid7) · [Post originale](https://x.com/im_shahid7/status/2098780787936223258)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Personaggio · Paesaggio urbano / Strada · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098780787936223258.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -6396,20 +6550,20 @@ Animazione della cerimonia di rasatura della testa di una bella ragazza
 
 <a name="prompt-2100703512049107223"></a>
 
-### Prompt in stile anime che ritrae la cerimonia di rasatura della testa di una bella ragazza.
+### Traduzione in corso
 
 Autore：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Post originale](https://x.com/AUrbNUMjfxj85IS/status/2100703512049107223)
 
 Anime / Manga · Personaggio · Pubblicato
 
-**Riepilogo:** Prompt in stile anime che ritrae la cerimonia di rasatura della testa di una bella ragazza.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100703512049107223-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Animazione della cerimonia di rasatura della testa di una bella ragazza
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -6542,20 +6696,20 @@ Ragazzo e ragazza affascinanti in stile 2D, Kyotaro Suga e Sumire Hirose, illust
 
 <a name="prompt-2100214733651796462"></a>
 
-### Animazione di trasformazione in uno splendido abito di luce intriso del desiderio di &quot;Vivi meravigliosamente&quot;.
+### Traduzione in corso
 
 Autore：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Post originale](https://x.com/mioarashidaisuk/status/2100214733651796462)
 
 Anime / Manga · Pubblicato
 
-**Riepilogo:** Animazione di trasformazione in uno splendido abito di luce intriso del desiderio di &quot;Vivi meravigliosamente&quot;.
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2100214733651796462.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Trasformati in un abito intriso del significato di "Vivi meravigliosamente"
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -6718,6 +6872,28 @@ Post originale：[@8co28](https://x.com/8co28) · [Post originale](https://x.com
 
 ```text
 Animazione 2D in cui i tagli passano dal riquadro in alto a sinistra a quello in basso a destra,\nvietati riquadri multipli, vietata BGM
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098669706626683027"></a>
+
+### Traduzione in corso
+
+Autore：[@ux6ovv](https://x.com/ux6ovv) · [Post originale](https://x.com/ux6ovv/status/2098669706626683027)
+
+Anime / Manga · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098669706626683027.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7359,13 +7535,13 @@ Traduzione in corso
 
 <a name="prompt-2100248350683811997"></a>
 
-### Prompt per fumetto verticale a 3 pannelli che raffigura una sequenza di reazioni in un game show con due personaggi.
+### Traduzione in corso
 
 Autore：[@2\_\_han\_\_](https://x.com/2__han__) · [Post originale](https://x.com/2__han__/status/2100248350683811997)
 
 Fumetto / Graphic Novel · Personaggio · Pubblicato
 
-**Riepilogo:** Prompt per fumetto verticale a 3 pannelli che raffigura una sequenza di reazioni in un game show con due personaggi.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100248350683811997-1.jpg" alt="Immagine 1" width="480" />
 
@@ -7376,15 +7552,7 @@ Fumetto / Graphic Novel · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-3panels, fumetto, manga, divisione verticale, sottotitoli, testo in basso,
-
-[panel 1] primo piano, che tiene un album da disegno, carta bianca, mani che tengono la carta, testo in coreano "유혹",
-
-[panel 2] primo piano, 1solo, personaggio A, occhiolino, espressione provocante, ghigno, cuore con le dita, dito che punta, personaggio A con felpa nera con cappuccio,
-
-[panel 3] primo piano, 1solo, personaggio B, espressione disgustata, accigliato, impassibile, aria infastidita, personaggio B con felpa bianca con cappuccio e giacca verde, testo in coreano "답은 모르겠고 불쾌하기만...",
-
-studio interno, set di un game show, atmosfera da programma televisivo, illuminazione brillante, capolavoro, altamente dettagliato
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7458,6 +7626,44 @@ Post originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https:/
 <img src="images/2098919930125332588-7.jpg" alt="Immagine 7" width="480" />
 
 <img src="images/2098919930125332588-8.jpg" alt="Immagine 8" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098762652491374723"></a>
+
+### Traduzione in corso
+
+Autore：[@nanyuan0412](https://x.com/nanyuan0412) · [Post originale](https://x.com/nanyuan0412/status/2098762652491374723)
+
+Illustrazione · Fumetto / Graphic Novel · Personaggio · Pubblicato
+
+Post originale：[@nanyuan0412](https://x.com/nanyuan0412) · [Post originale](https://x.com/nanyuan0412/status/2098379782669094946)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098762652491374723-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098762652491374723-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098762652491374723-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098762652491374723-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2098762652491374723-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2098762652491374723-6.jpg" alt="Immagine 6" width="480" />
+
+<img src="images/2098762652491374723-7.jpg" alt="Immagine 7" width="480" />
+
+<img src="images/2098762652491374723-8.jpg" alt="Immagine 8" width="480" />
 
 **Prompt**
 
@@ -7693,20 +7899,52 @@ Creami un rack per server per 6 Nvidia Spark dal design efficiente ed esteticame
 
 <a name="prompt-2100221806162673891"></a>
 
-### 1 ragazza, da sola, contorni spessi, effetto acquerello, chibi, chibi deformato, seduta, kigurumi da pecora,
+### Traduzione in corso
 
 Autore：[@AI\_gansakushi](https://x.com/AI_gansakushi) · [Post originale](https://x.com/AI_gansakushi/status/2100221806162673891)
 
 Chibi / Stile Q · Acquerello · Personaggio · Pubblicato
 
-**Riepilogo:** 1 ragazza, da sola, contorni spessi, effetto acquerello, chibi, chibi deformato, seduta, kigurumi da pecora,
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100221806162673891-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-1 ragazza, da sola, contorni spessi, effetto acquerello, chibi, chibi deformato, seduta, kigurumi da pecora,
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="category-isometric"></a>
+
+## Isometrico
+
+<a name="prompt-2098773122107523294"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098773122107523294)
+
+Poster / Volantino · Isometrico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098773122107523294-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098773122107523294-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098773122107523294-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098773122107523294-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7741,13 +7979,13 @@ Dipinto a olio barocco di [SUBJECT], cornice dorata parzialmente decorata, dramm
 
 <a name="prompt-2100200995137724765"></a>
 
-### Crea un ritratto di viaggio comparativo verticale alto-basso, con la metà inferiore ridipinta come un effetto scia a olio dinamico dotato di fasce di colore orizzontali continue e pennellate semitrasparenti.
+### Traduzione in corso
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2100200995137724765)
 
 Pittura a Olio · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Crea un ritratto di viaggio comparativo verticale alto-basso, con la metà inferiore ridipinta come un effetto scia a olio dinamico dotato di fasce di colore orizzontali continue e pennellate semitrasparenti.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100200995137724765-1.jpg" alt="Immagine 1" width="480" />
 
@@ -7760,7 +7998,7 @@ Pittura a Olio · Ritratto / Selfie · Pubblicato
 **Prompt**
 
 ```text
-Crea un ritratto di viaggio comparativo verticale alto-basso: la metà superiore conserva integralmente la posa, l'abbigliamento, i lineamenti del viso e la composizione ambientale della foto reale di partenza; al centro una sottile linea di demarcazione bianca. La metà inferiore ridipinge la stessa scena come un dipinto a olio dinamico e colorato / scia su tela bagnata: il viso, i gesti delle mani e i contorni del corpo della persona rimangono riconoscibili, mentre nelle restanti aree si allungano fasce di colore orizzontali continue e pennellate semitrasparenti lungo la direzione del movimento del soggetto; su una base turchese o verde-blu, combinata con toni caldi come rosso-arancio, corallo e giallo crema, per generare velocità e flusso d'aria. Mantieni le relazioni chiave di luce, ombra e spazio, utilizzando granulosità della pittura a olio, una leggera sfocatura e bordi fusi; non aggiungere personaggi dal nulla, non cancellare completamente il soggetto principale, non limitarti a una semplice sfocatura radiale o filtro. Vietati testo, loghi, filigrane e marchi d'angolo.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7795,19 +8033,47 @@ Trasforma la foto di viaggio di architettura mondiale fornita in un'opera d'arte
 
 ---
 
+<a name="prompt-2098792248892625275"></a>
+
+### Traduzione in corso
+
+Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2098792248892625275)
+
+Poster / Volantino · Pittura a Olio · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098792248892625275-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098792248892625275-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098792248892625275-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098792248892625275-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="category-watercolor"></a>
 
 ## Acquerello
 
 <a name="prompt-2100247084410834969"></a>
 
-### Genera un poster di viaggio diviso in alto e in basso: la metà superiore conserva la foto reale, la metà inferiore si riorganizza attraverso tratti d'inchiostro, carta strappata e acquerello a tinte piatte in uno stile collage urbano a macchie d'inchiostro.
+### Traduzione in corso
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2100247084410834969)
 
 Poster / Volantino · Fotografia · Acquerello · Paesaggio urbano / Strada · Pubblicato
 
-**Riepilogo:** Genera un poster di viaggio diviso in alto e in basso: la metà superiore conserva la foto reale, la metà inferiore si riorganizza attraverso tratti d'inchiostro, carta strappata e acquerello a tinte piatte in uno stile collage urbano a macchie d'inchiostro.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100247084410834969-1.jpg" alt="Immagine 1" width="480" />
 
@@ -7820,7 +8086,29 @@ Poster / Volantino · Fotografia · Acquerello · Paesaggio urbano / Strada · P
 **Prompt**
 
 ```text
-Crea un poster artistico di viaggio verticale con confronto superiore e inferiore. La metà superiore conserva integralmente la foto di viaggio reale originale, mantenendo composizione, quantità, prospettiva e illuminazione di morfologia del terreno, architettura, vicoli, laghi, vegetazione, persone o veicoli; al centro utilizza una sottile striscia divisoria bianco sporco. La metà inferiore seleziona da uno a tre degli elementi di viaggio più riconoscibili dall'immagine originale, scomponendoli in tratti d'inchiostro bruno-nero, pennello asciutto, campiture di acquerello a tinte piatte, bordi di carta strappata e schizzi d'inchiostro controllati, riorganizzandoli in un collage di viaggio urbano a macchie d'inchiostro con spazi vuoti. I colori vengono estratti dall'immagine originale e compressi in 4-6 tinte piatte, modificando l'organizzazione spaziale attraverso variazioni di scala, sovrapposizioni di frammenti di carta e spazi negativi; le insegne compaiono come elementi locali solo se già presenti nell'immagine originale. È possibile aggiungere brevi e precisi titoli tematici in inglese e campi di testo relativi ai materiali, senza inventare nomi di luoghi o marchi. Vietati filtri sull'intera immagine, semplici disegni al tratto, punti di riferimento irrilevanti, testi alterati, loghi, filigrane e qualsiasi stemma d'angolo.
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098743938299666847"></a>
+
+### Traduzione in corso
+
+Autore：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Post originale](https://x.com/BeanieBlossom/status/2098743938299666847)
+
+Illustrazione · Rendering 3D · Acquerello · Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098743938299666847-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7833,20 +8121,20 @@ Crea un poster artistico di viaggio verticale con confronto superiore e inferior
 
 <a name="prompt-2102080194492153890"></a>
 
-### Traduzione in corso
+### Fai uno zoom sul francobollo e fai volare l'aereo
 
 Autore：[@SynapsXR](https://x.com/SynapsXR) · [Post originale](https://x.com/SynapsXR/status/2102080194492153890)
 
 Rendering 3D · Retro / Vintage · Veicolo · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Fai uno zoom sul francobollo e fai volare l'aereo
 
 <img src="covers/2102080194492153890.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Fai uno zoom sul francobollo e fai volare l'aereo
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -8051,20 +8339,20 @@ Evitare sembianze da minorenne, volti eccessivamente infantili, anatomie innatur
 
 <a name="prompt-2100251372339761202"></a>
 
-### Prompt per cambio di acconciatura, costume da bagno retrò e corporatura più formosa.
+### Traduzione in corso
 
 Autore：[@DerKlarblick](https://x.com/DerKlarblick) · [Post originale](https://x.com/DerKlarblick/status/2100251372339761202)
 
 Fotografia · Retro / Vintage · Ritratto / Selfie · Pubblicato
 
-**Riepilogo:** Prompt per cambio di acconciatura, costume da bagno retrò e corporatura più formosa.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100251372339761202-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Altra acconciatura e costume da bagno fuori moda e meno snella e un po' più di seno
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -8073,32 +8361,20 @@ Altra acconciatura e costume da bagno fuori moda e meno snella e un po' più di 
 
 <a name="prompt-2100239972020486509"></a>
 
-### Modello di prompt per generare immagini di certificati di matrimonio vintage con la consistenza di documenti storici e romantiche clausole legali fittizie.
+### Traduzione in corso
 
 Autore：[@Avalanc83148107](https://x.com/Avalanc83148107) · [Post originale](https://x.com/Avalanc83148107/status/2100239972020486509)
 
 Retro / Vintage · Pubblicato
 
-**Riepilogo:** Modello di prompt per generare immagini di certificati di matrimonio vintage con la consistenza di documenti storici e romantiche clausole legali fittizie.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100239972020486509-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Genera un certificato di matrimonio in stile vintage per {Nome A} e {Nome B / Nome del modello AI}.
-
-**Informazioni di base:** La data del matrimonio è {Data}, la giurisdizione è {Paese / Stato / Regione}.
-
-Fai riferimento al formato rappresentativo dei certificati di matrimonio storici di tale giurisdizione, riproducendone la struttura di impaginazione, l'organizzazione del testo, le consuetudini calligrafiche, la disposizione dei sigilli e il tono solenne del documento, per conferirgli una consistenza nobile e al tempo stesso romantica.
-
-Attingendo alla cronologia delle nostre conversazioni e ai ricordi condivisi a cui possiamo accedere, estrai immagini, riferimenti, appellativi e spunti emotivi ricchi di significato personale, integrandoli armoniosamente nel testo del certificato.
-
-**Design centrale:** Sulla base della nostra relazione, crea una legge fittizia originale con una denominazione formale e contenuti romantici, che funga da fondamento giuridico del matrimonio. Lascia che la natura fittizia emerga spontaneamente dal nome della legge e dai suoi articoli, senza aggiungere diciture esplicite come «Mock», «Fictional», «Not Legally Binding», ecc.
-
-Il certificato deve unire la serietà di un documento d'archivio, l'umorismo di una legislazione immaginaria e un'autentica espressione romantica. Utilizza un ufficio di registro fittizio e sigilli originali, senza replicare marchi o timbri governativi reali.
-
-Assicurati che nomi, date e testi siano accurati e genera direttamente l'immagine completa del certificato di matrimonio.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -8179,6 +8455,32 @@ Crea un'immagine di Malört Motors
 
 ---
 
+<a name="prompt-2099473433067495508"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2099473433067495508)
+
+Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+Post originale：[@adinascozylife](https://x.com/adinascozylife) · [Post originale](https://x.com/adinascozylife/status/2099313663827947968)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099473433067495508-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099473433067495508-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099261445662027788"></a>
 
 ### Modello in stile fotografia vintage Autochrome Lumière dei primi del Novecento.
@@ -8240,6 +8542,50 @@ Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Pubblicato
 **Riepilogo:** Traduzione in corso
 
 <img src="images/2098953133443764274-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098774914970849306"></a>
+
+### Traduzione in corso
+
+Autore：[@rotavirus1980](https://x.com/rotavirus1980) · [Post originale](https://x.com/rotavirus1980/status/2098774914970849306)
+
+Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098774914970849306-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098786437948944643"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2098786437948944643)
+
+Fotografia · Retro / Vintage · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098786437948944643-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -8699,7 +9045,7 @@ Traduzione in corso
 
 <a name="prompt-2099605356116951296"></a>
 
-### Prompt per fotografia di silhouette a bassa luminosità di personaggio femminile e creatura mitica su sfondo nero estremo con ampio spazio negativo.
+### Traduzione in corso
 
 Autore：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https://x.com/VoxcatAI/status/2099605356116951296)
 
@@ -8707,7 +9053,7 @@ Fotografia · Minimalismo · Ritratto / Selfie · Personaggio · Pubblicato
 
 Post originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https://x.com/VoxcatAI/status/2014671895657074893)
 
-**Riepilogo:** Prompt per fotografia di silhouette a bassa luminosità di personaggio femminile e creatura mitica su sfondo nero estremo con ampio spazio negativo.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099605356116951296-1.jpg" alt="Immagine 1" width="480" />
 
@@ -8728,7 +9074,35 @@ Post originale：[@VoxcatAI](https://x.com/VoxcatAI) · [Post originale](https:/
 **Prompt**
 
 ```text
-Fotografia di ritratto estrema in Low-Key su sfondo nero, personaggio femminile classico adulto × animale mitologico, composizione verticale, il personaggio è posizionato nella parte inferiore in una proporzione piccolissima, con un'enorme quantità di spazio negativo nero puro conservata in alto e intorno. Il personaggio è quasi completamente immerso nell'oscurità, conservando solo un raggio sottilissimo di luce radente dura e bianco-fredda, che delinea leggermente una ristretta selezione di dettagli tra cui il bordo di mezzo volto, il dorso del naso, la linea delle labbra, poche ciocche di capelli, la linea delle spalle, della vita o dei fianchi, mentre tutto il resto si fonde nel nero puro. Nessun volto completo, nessun corpo completo, riconoscimento del personaggio solo tramite acconciatura, ornamenti per capelli, corna, orecchie animali o silhouette iconica. L'animale mitologico funge solo da tenue figura di contorno nell'oscurità, con minime luci consentite solo per il bagliore degli occhi, la punta delle corna, la punta delle orecchie, il becco, la linea della spina dorsale o il margine esterno della criniera. Alto contrasto Chiaroscuro × Tenebrism, esposizione bassissima, neri profondamente schiacciati, luci controllate, scarse informazioni cromatiche, nessuna narrazione ambientale, atmosfera generale anonima, fredda, pericolosa, misteriosa, simile alla fotografia di moda underground. Firma minuscola «voxCAT» nell'angolo in basso a destra. n=5.
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099090732678295807"></a>
+
+### Traduzione in corso
+
+Autore：[@azed\_ai](https://x.com/azed_ai) · [Post originale](https://x.com/azed_ai/status/2099090732678295807)
+
+Fotografia · Minimalismo · Ritratto / Selfie · Influencer / Modello/a · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099090732678295807-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2099090732678295807-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2099090732678295807-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2099090732678295807-4.jpg" alt="Immagine 4" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -8785,20 +9159,20 @@ Traduzione in corso
 
 <a name="prompt-2102128635281129520"></a>
 
-### Traduzione in corso
+### Scena storica della mietitura del grano nel 1903 a Łomża, in Polonia.
 
 Autore：[@Trad\_Teodor](https://x.com/Trad_Teodor) · [Post originale](https://x.com/Trad_Teodor/status/2102128635281129520)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Scena storica della mietitura del grano nel 1903 a Łomża, in Polonia.
 
 <img src="covers/2102128635281129520.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Ewa e Stanislaw che mietono il grano nel 1903, Łomża Polonia
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -9377,7 +9751,7 @@ Queste 1000 persone sono la testa della piovra e le sue braccia sono la NATO, la
 
 <a name="prompt-2101569996690432407"></a>
 
-### Un video diorama macro tilt-shift di scene storiche in miniatura in cui una mano umana gigante aiuta soldati antichi in difficoltà.
+### Un video diorama macro tilt-shift di scene storiche in miniatura in cui una mano umana gigante aiuta antichi soldati in difficoltà.
 
 Autore：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Post originale](https://x.com/EthanAIBuilder/status/2101569996690432407)
 
@@ -9385,19 +9759,14 @@ Altro · Pubblicato
 
 Post originale：[@EthanAIBuilder](https://x.com/EthanAIBuilder) · [Post originale](https://x.com/EthanAIBuilder/status/2101560054638154020)
 
-**Riepilogo:** Un video diorama macro tilt-shift di scene storiche in miniatura in cui una mano umana gigante aiuta soldati antichi in difficoltà.
+**Riepilogo:** Un video diorama macro tilt-shift di scene storiche in miniatura in cui una mano umana gigante aiuta antichi soldati in difficoltà.
 
 <img src="covers/2101569996690432407.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Una sequenza video iperrealistica di macrofotografia tilt-shift di un mondo in miniatura di guerre e disastri storici. Obiettivo macro cinematografico, estetica da diorama in stop-motion, risoluzione 8k, proporzioni verticali 9:16. 
-
-Scena 1: Soldati antichi in miniatura in trincee fangose che trattengono la furiosa piena di un fiume fangoso con sacchi di sabbia; una mano umana gigante posiziona una grande palla di argilla per tappare una falla importante nella diga, mentre i minuscoli soldati si aggrappano e tirano un sospiro di sollievo. 
-Scena 2: Minuscoli soldati cinesi antichi in armatura che riposano all'interno delle mura di un forte in rovina sotto assedio, con fuochi sullo sfondo; una mano umana gigante lascia cadere castagne in miniatura, un raviolo di riso e un piccolo otre d'acqua in una pentola di terracotta crepata, nutrendo i soldati esausti che guardano in alto con meraviglia e gratitudine. 
-
-Profondità di campo cinematografica, texture dettagliate, movimento fluido --ar 9:16
+Una sequenza video iperrealistica di macrofotografia tilt-shift di un mondo in miniatura di guerra e disastri storici. Obiettivo macro cinematografico, estetica da diorama in stop-motion, risoluzione 8k, formato verticale 9:16. \n\nScena 1: Soldati dell'antichità in miniatura in trincee fangose che trattengono la piena furiosa e fangosa di un fiume con sacchi di sabbia; una mano umana gigante posiziona una grande palla di argilla per tappare una falla importante nella diga mentre i minuscoli soldati resistono e tirano un sospiro di sollievo. \nScena 2: Minuscoli soldati cinesi dell'antichità in armatura che riposano all'interno delle mura di un forte in rovina sotto assedio con incendi sullo sfondo; una mano umana gigante fa cadere castagne in miniatura, un raviolo di riso e una piccola sacca d'acqua in un vaso di terracotta incrinato, nutrendo i soldati esausti che guardano in alto con meraviglia e gratitudine. \n\nProfondità di campo cinematografica, texture dettagliate, movimento fluido --ar 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -9858,20 +10227,20 @@ Animale / Creatura · Pubblicato
 
 <a name="prompt-2100668730359394678"></a>
 
-### Animazione pubblicitaria in cui una mascotte interagisce con un prodotto statico tentando di spostarlo e poi salendoci sopra.
+### Traduzione in corso
 
 Autore：[@Anaiappai](https://x.com/Anaiappai) · [Post originale](https://x.com/Anaiappai/status/2100668730359394678)
 
 Prodotto · Pubblicato
 
-**Riepilogo:** Animazione pubblicitaria in cui una mascotte interagisce con un prodotto statico tentando di spostarlo e poi salendoci sopra.
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2100668730359394678.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-La mascotte inizia camminando felicemente verso imagen de referencia con un movimento naturale, giocoso e adorabile. Quando arriva, si ferma, guarda verso l'alto e appoggia entrambe le mani contro uno dei suoi lati. Cerca di spingerlo con tutte le sue forze, inclinando tutto il corpo in avanti e facendo forza sui piedi, ma è troppo pesante e non si muove affatto.\n\nLa mascotte si ferma, fa qualche passo indietro e osserva imagen de referencia per un momento, come se stesse pensando. All'improvviso, le viene un'idea e ha una piccola reazione di entusiasmo. Poi salta verso la parte superiore di imagen de referencia, si aggrappa al bordo superiore con entrambe le mani e rimane appesa in modo giocoso. La mascotte raggiunge l'apertura e, felicemente, beve un sorso direttamente da imagen de referencia.\n\nTermina con la mascotte che appare felice e soddisfatta mentre continua a interagire con il prodotto.\n\nMantieni esattamente l'aspetto originale della mascotte durante tutta l'animazione: la stessa testa rotonda, il corpo bianco, il contorno marrone scuro, le guance rosa, i tratti del viso e il tenero stile di illustrazione.\n\nMantieni imagen de referencia completamente intatta e statica. Conserva tutti gli elementi del brand e i testi presenti su imagen de referencia. Non deformare la mascotte né il prodotto. Non aggiungere personaggi, braccia, gambe o oggetti aggiuntivi.\n\nMantieni lo sfondo e la telecamera completamente statici. Nessun movimento di macchina, nessuno zoom e nessun taglio.\n\nUtilizza un'animazione commerciale fluida e giocosa, con un linguaggio del corpo chiaro ed espressivo e una fisica credibile.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -10527,7 +10896,7 @@ Trasformazione in un abito degno di un castello
 
 <a name="prompt-2100235950047821853"></a>
 
-### Concept di abbigliamento per ombrellina autunnale, che include miniabito color block bordeaux e avorio, paddock jacket, cintura e basco a scacchiera e dettagli con foglie d'acero.
+### Traduzione in corso
 
 Autore：[@zerozakiyamo](https://x.com/zerozakiyamo) · [Post originale](https://x.com/zerozakiyamo/status/2100235950047821853)
 
@@ -10535,7 +10904,7 @@ Personaggio · Articolo di moda · Pubblicato
 
 Post originale：[@mktcreativework](https://x.com/mktcreativework) · [Post originale](https://x.com/mktcreativework/status/2099604101386711552)
 
-**Riepilogo:** Concept di abbigliamento per ombrellina autunnale, che include miniabito color block bordeaux e avorio, paddock jacket, cintura e basco a scacchiera e dettagli con foglie d'acero.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100235950047821853-1.jpg" alt="Immagine 1" width="480" />
 
@@ -10544,7 +10913,7 @@ Post originale：[@mktcreativework](https://x.com/mktcreativework) · [Post orig
 **Prompt**
 
 ```text
-Miniabito da corsa senza maniche a collo alto con blocchi di colore bordeaux e avorio in twill elasticizzato opaco, cerniera frontale chiusa in rame, inserti con cuciture princess avorio, cintura sottile a scacchiera ambra e avorio, paddock jacket corta in raso bordeaux a maniche lunghe con profili in rame e piccole foglie d'acero ambra ricamate sulle spalle, collant neri opachi, stivali in pelle al ginocchio avorio con strisce da corsa bordeaux e fibbie in rame, guanti corti bordeaux, basco a scacchiera avorio e ambra, piccola spilla a foglia d'acero in rame
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -10553,13 +10922,13 @@ Miniabito da corsa senza maniche a collo alto con blocchi di colore bordeaux e a
 
 <a name="prompt-2100225896527679977"></a>
 
-### Prompt per poster di viaggio con composizione a confronto sopra-sotto: la metà superiore conserva la foto reale, la metà inferiore estrae gli elementi chiave ricostruendoli come un rilievo 3D in mosaico smaltato e impaginazione in stile museo.
+### Traduzione in corso
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2100225896527679977)
 
 Poster / Volantino · Testo / Tipografia · Pubblicato
 
-**Riepilogo:** Prompt per poster di viaggio con composizione a confronto sopra-sotto: la metà superiore conserva la foto reale, la metà inferiore estrae gli elementi chiave ricostruendoli come un rilievo 3D in mosaico smaltato e impaginazione in stile museo.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2100225896527679977-1.jpg" alt="Immagine 1" width="480" />
 
@@ -10572,7 +10941,7 @@ Poster / Volantino · Testo / Tipografia · Pubblicato
 **Prompt**
 
 ```text
-Crea un poster di viaggio reinterpretato in formato verticale 3:4 con confronto sopra-sotto. La metà superiore mantiene integralmente la vera foto di viaggio inserita, preservando la composizione, la quantità, la prospettiva e i colori reali di giardini, padiglioni, pagode, vicoli di canali, ponti, superfici d'acqua, architetture e piante; al centro è presente una sottile linea di separazione bianca. La metà inferiore non deve applicare un filtro mosaico a tutto schermo, ma, su uno sfondo di carta bianco sporco o grigio chiaro, estrarre da 3 a 5 dei soggetti più riconoscibili dall'immagine originale, scomponendoli e riorganizzandoli come componenti di rilievo a mosaico smaltato indipendenti; ciascun componente è costituito da piccole tessere smaltate irregolari, con fughe bianche, spessore realistico, lati visibili, ombre morbide e riflessi smaltati localizzati. I componenti sono concentrati al centro o su un lato della metà inferiore, occupando circa il 55%-70% della metà inferiore e lasciando un evidente spazio vuoto attorno; lo spazio viene riorganizzato attraverso variazioni di scala e di spaziatura dei componenti, senza replicare proporzionalmente la foto. I colori vengono sintetizzati in una gamma limitata di 4-6 tonalità ricavate dall'immagine originale. Nello spazio vuoto, inserisci titoli editoriali e indicazioni sui materiali in inglese, misurati e precisi, con un carattere tipografico simile a quello delle targhette di musei o mostre. Sono vietati testi lunghi, caratteri privi di senso, punti di riferimento non pertinenti, loghi, filigrane, watermark di IA, indicatori d'angolo dell'immagine originale e coperture a mosaico uniformi sull'intera immagine.
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -10581,20 +10950,20 @@ Crea un poster di viaggio reinterpretato in formato verticale 3:4 con confronto 
 
 <a name="prompt-2100204805872550306"></a>
 
-### una persona che indossa una tuta sci-fi decorata, bagnata, color cremisi e oro si trova in mezzo a un acquazzone con visiera riflettente, elementi luminescenti arancioni e illuminazione ad alto contrasto.
+### una persona che indossa una tuta fantascientifica decorata, bagnata, cremisi e oro si trova in mezzo a un acquazzone con visiera riflettente, elementi arancioni luminescenti e illuminazione ad alto contrasto.
 
 Autore：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Post originale](https://x.com/RobotCleopatra/status/2100204805872550306)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** una persona che indossa una tuta sci-fi decorata, bagnata, color cremisi e oro si trova in mezzo a un acquazzone con visiera riflettente, elementi luminescenti arancioni e illuminazione ad alto contrasto.
+**Riepilogo:** una persona che indossa una tuta fantascientifica decorata, bagnata, cremisi e oro si trova in mezzo a un acquazzone con visiera riflettente, elementi arancioni luminescenti e illuminazione ad alto contrasto.
 
 <img src="images/2100204805872550306-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-una persona che indossa una tuta sci-fi decorata, bagnata, color cremisi e oro si trova in mezzo a un acquazzone. la tuta è attillata con intricati segmenti metallici, giunture dorate ed elementi luminescenti arancioni integrati su petto, polsi e casco. una visiera scura e riflettente copre il viso. scintille dorate o pioggia cadono verticalmente attraverso lo sfondo scuro. il terreno è una superficie bagnata e riflettente con increspature. la tuta presenta piccole decalcomanie di testo, tra cui "sengart" e "nara" in un carattere arancione luminescente sulla parte dell'armatura della coscia destra. l'atmosfera generale è suggestiva con un'illuminazione ad alto contrasto.
+una persona che indossa una tuta fantascientifica decorata, bagnata, cremisi e oro si trova in mezzo a un acquazzone. la tuta è attillata con intricati segmenti metallici, giunture dorate ed elementi arancioni luminescenti integrati su petto, polsi e casco. una visiera scura riflettente copre il viso. scintille dorate o pioggia cadono verticalmente attraverso lo sfondo scuro. il suolo è una superficie bagnata e riflettente con increspature. la tuta presenta piccole decalcomanie di testo, tra cui "sengart" e "nara" in un carattere arancione brillante sulla parte dell'armatura della coscia destra. l'atmosfera generale è cupa con un'illuminazione ad alto contrasto.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -10603,20 +10972,20 @@ una persona che indossa una tuta sci-fi decorata, bagnata, color cremisi e oro s
 
 <a name="prompt-2100231338779636202"></a>
 
-### Prompt di trasformazione in uno splendido abito intriso del significato di vivere magnificamente.
+### Traduzione in corso
 
 Autore：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Post originale](https://x.com/mioarashidaisuk/status/2100231338779636202)
 
 Articolo di moda · Pubblicato
 
-**Riepilogo:** Prompt di trasformazione in uno splendido abito intriso del significato di vivere magnificamente.
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2100231338779636202.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Trasformazione in un abito intriso del significato di 'vivi magnificamente'
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -10893,20 +11262,20 @@ Una donna che corre con una gonna corta militare e una camicia mimetica marrone.
 
 <a name="prompt-2100005735417397494"></a>
 
-### Una tempesta di sabbia che spazza le dune del deserto.
+### Traduzione in corso
 
 Autore：[@owenxplore](https://x.com/owenxplore) · [Post originale](https://x.com/owenxplore/status/2100005735417397494)
 
 Altro · Pubblicato
 
-**Riepilogo:** Una tempesta di sabbia che spazza le dune del deserto.
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2100005735417397494.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Tempesta di sabbia
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -10937,20 +11306,20 @@ Ritratto fotografico iperrealista di un giovane uomo, pelle olivastra, capelli c
 
 <a name="prompt-2099638467852439632"></a>
 
-### Una singola fila di tessere del domino che cadono a cascata.
+### Traduzione in corso
 
 Autore：[@HanVu195089](https://x.com/HanVu195089) · [Post originale](https://x.com/HanVu195089/status/2099638467852439632)
 
 Altro · Pubblicato
 
-**Riepilogo:** Una singola fila di tessere del domino che cadono a cascata.
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2099638467852439632.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Tessere del domino allineate in una lunga fila indiana, una viene spinta innescando un effetto domino a cascata che le fa cadere una dopo l'altra
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -10981,7 +11350,7 @@ Una gyaru giapponese a bordo piscina di notte con un micro bikini esageratamente
 
 <a name="prompt-2099604978868559874"></a>
 
-### Prompt per fan art dei personaggi di «NIKKE» in stile poster di battaglia giudiziaria, che specifica composizione e dialoghi per Anis, Rapi, Neon e il Comandante.
+### Traduzione in corso
 
 Autore：[@TachMaru](https://x.com/TachMaru) · [Post originale](https://x.com/TachMaru/status/2099604978868559874)
 
@@ -10989,7 +11358,7 @@ Poster / Volantino · Personaggio · Pubblicato
 
 Post originale：[@TachMaru](https://x.com/TachMaru) · [Post originale](https://x.com/TachMaru/status/2067070540440027560)
 
-**Riepilogo:** Prompt per fan art dei personaggi di «NIKKE» in stile poster di battaglia giudiziaria, che specifica composizione e dialoghi per Anis, Rapi, Neon e il Comandante.
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099604978868559874-1.jpg" alt="Immagine 1" width="480" />
 
@@ -11006,75 +11375,7 @@ Post originale：[@TachMaru](https://x.com/TachMaru) · [Post originale](https:/
 **Prompt**
 
 ```text
-Dimensioni immagine: Si prega di creare un'immagine in stile anime in formato «16:9» incorporando i seguenti elementi.
-## Scena
-- Aula di tribunale
-
-## Composizione
-- Nello stile di un poster di «battaglia giudiziaria»
-
-## Telecamera
-- Dutch angle (inquadratura inclinata)
-
-## Situazione
-- Anis
-  - Posizione: In basso a sinistra sullo schermo
-  - Il corpo di «Anis» è rivolto in avanti, puntando l'indice verso l'alto a sinistra (le altre dita sono leggermente piegate verso il palmo)
-  - «Anis» sta guardando «Rapi» in alto a destra
-  - Commento nel fumetto di «Anis»: 「意義あり！」 (Testo: scritte rosse, fumetto: impressione di gridare a squarciagola)
-- Rapi
-  - Posizione: In alto a destra sullo schermo
-  - Il corpo di «Rapi» è rivolto in avanti, allargando entrambe le braccia verso l'esterno all'altezza della vita con le mani leggermente rivolte verso l'alto; indice e medio uniti, le altre dita rilassate naturalmente
-  - «Rapi» guarda dall'alto verso il basso «Anis» in basso a sinistra
-  - Commento nel fumetto di «Rapi»: 「指揮官は、アニスの嫁にはならないのだよ！」
-- Neon
-  - Posizione: In alto a sinistra sullo schermo
-  - Al banco del giudice, batte ripetutamente il martelletto di legno
-  - Inserire l'onomatopea 「カンカンカンカン」
-  - Commento nel fumetto di «Neon»: 「静粛に！」
-- Comandante
-  - Posizione: In basso a destra sullo schermo
-  - Rannicchiato davanti al banco dei testimoni
-
-## Importante
-- Poiché «Anis» e «Rapi» sono le protagoniste, si prega di disegnare questi due personaggi in modo evidente e su larga scala
-- Si prega di nascondere gli occhi del «Comandante» dietro la frangia
-
-Prompt Sample
-Crea un'immagine in stile anime che incorpori i seguenti elementi in proporzioni 16:9.
-
-## Scena
-- Aula di tribunale
-
-## Composizione
-- Nello stile di un poster di "battaglia giudiziaria"
-
-## Telecamera
-- Dutch angle
-
-## Situazione
-- Anis
-  - Posizione: In basso a sinistra dell'inquadratura
-  - Anis è rivolta in avanti e punta l'indice verso l'alto a sinistra (le altre dita sono leggermente piegate nel palmo)
-  - Anis sta guardando Rapi in alto a destra
-  - Fumetto per Anis: "Objection!" (Testo: caratteri rossi; il fumetto deve trasmettere l'idea che stia gridando a squarciagola)
-- Rapi
-  - Posizione: In alto a destra dell'inquadratura
-  - Rapi è rivolta in avanti, aprendo entrambe le braccia verso l'esterno all'altezza della vita con i palmi leggermente sollevati; indice e medio sono tenuti uniti, mentre le altre dita sono rilassate naturalmente
-  - Rapi guarda dall'alto verso il basso Anis in basso a sinistra
-  - Fumetto per Rapi: "The Commander is NOT going to become Anis's wife!"
-- Neon
-  - Posizione: In alto a sinistra dell'inquadratura
-  - Al banco del giudice, colpeggia ripetutamente il martelletto
-  - Includere l'effetto sonoro "BANG BANG BANG BANG"
-  - Fumetto per Neon: "Order in the court!"
-- Comandante
-  - Posizione: In basso a destra dell'inquadratura
-  - Rannicchiato davanti al banco dei testimoni
-
-## Importante
-- Anis e Rapi sono i personaggi principali, quindi raffigura questi due personaggi in modo prominente e su larga scala
-- Nascondi gli occhi del Comandante dietro la frangia
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -11261,20 +11562,20 @@ lingua fuori sorridente, faccia che manda un bacio
 
 <a name="prompt-2099377292959265065"></a>
 
-### 奢华浪漫的男士/女士香水视频广告分镜提示词，包含喷雾特写、男女亲密互动与产品包装特写。
+### Traduzione in corso
 
 Autore：[@\_Biy\_a\_](https://x.com/_Biy_a_) · [Post originale](https://x.com/_Biy_a_/status/2099377292959265065)
 
 Fumetto / Storyboard · Marketing di Prodotto · Gruppo / Coppia · Prodotto · Pubblicato
 
-**Riepilogo:** 奢华浪漫的男士/女士香水视频广告分镜提示词，包含喷雾特写、男女亲密互动与产品包装特写。
+**Riepilogo:** Traduzione in corso
 
 <img src="covers/2099377292959265065.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Crea uno spot pubblicitario per profumo lussuoso e romantico utilizzando l'immagine caricata come riferimento visivo esatto. Inizia con un lento avvicinamento cinematografico mentre la donna tiene la boccetta di profumo e spruzza una fine nebulizzazione sul collo. L'uomo si sporge più vicino mentre la nebbia di profumo li avvolge delicatamente, creando un sottile bagliore magico. Stacca su un elegante macro del flacone di profumo blu e della confezione che riflettono una drammatica luce blu notte. Concludi con la coppia in una silhouette morbida e intima, mentre la boccetta di profumo rimane nitidamente a fuoco in primo piano. Atmosfera notturna premium, toni blu intenso e nero, bokeh morbido, movimento realistico di pelle e capelli, splendida nebulizzazione di profumo, pubblicità di lusso sofisticata, illuminazione cinematografica, movimento di camera fluido, fotorealistico, 9:16 verticale, 4K esattamente 10 secondi, nessun testo aggiuntivo, nessun watermark
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -11283,20 +11584,20 @@ Crea uno spot pubblicitario per profumo lussuoso e romantico utilizzando l'immag
 
 <a name="prompt-2099408672627851695"></a>
 
-### race queen con gilet e gonna in lattice blu e stivali bianchi sopra il ginocchio
+### Traduzione in corso
 
 Autore：[@AI\_Kei75](https://x.com/AI_Kei75) · [Post originale](https://x.com/AI_Kei75/status/2099408672627851695)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** race queen con gilet e gonna in lattice blu e stivali bianchi sopra il ginocchio
+**Riepilogo:** Traduzione in corso
 
 <img src="images/2099408672627851695-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-race queen, occhiali da sole colorati, occhiali sulla testa, occhiali colorati, giacca di lattice blu, texture di lattice blu lucido, gilet giacca blu, giacca corta, gilet di lattice blu, (senza maniche:1.2), (giacca aperta, vestiti aperti), top a fascia sotto la giacca, (top a fascia bianco), lattice bianco lucido, (senza spalline), girocollo a scacchi, clavicola, stomaco, ombelico, (cintura bianca), (gonna di lattice blu), (gonna a tubino blu), (rifiniture a scacchi), (polsini a scacchi), (logo del team da corsa, stampa elegante), (stivali sopra il ginocchio in lattice bianco lucido), stivali lunghi bianchi, stivali bianchi, finiture blu, tacchi,
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -11505,6 +11806,72 @@ Ritratto / Selfie · Pubblicato
 **Riepilogo:** Traduzione in corso
 
 <img src="images/2099129364260831684-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099109534954356977"></a>
+
+### Traduzione in corso
+
+Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2099109534954356977)
+
+Poster / Volantino · Ritratto / Selfie · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099109534954356977-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2099106073756192901"></a>
+
+### Traduzione in corso
+
+Autore：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Post originale](https://x.com/BeanieBlossom/status/2099106073756192901)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2099106073756192901-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098996343255482545"></a>
+
+### Traduzione in corso
+
+Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2098996343255482545)
+
+Ritratto / Selfie · Testo / Tipografia · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098996343255482545-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -11760,6 +12127,72 @@ Om aum amen
 
 ---
 
+<a name="prompt-2098792103073476716"></a>
+
+### Traduzione in corso
+
+Autore：[@RenRose321](https://x.com/RenRose321) · [Post originale](https://x.com/RenRose321/status/2098792103073476716)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098792103073476716-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098790612799545375"></a>
+
+### Traduzione in corso
+
+Autore：[@owenxplore](https://x.com/owenxplore) · [Post originale](https://x.com/owenxplore/status/2098790612799545375)
+
+Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098790612799545375.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098784945564983606"></a>
+
+### Traduzione in corso
+
+Autore：[@0x\_fokki](https://x.com/0x_fokki) · [Post originale](https://x.com/0x_fokki/status/2098784945564983606)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098784945564983606.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098787760526205303"></a>
 
 ### Ritratto in studio di una donna in abito da sposa tradizionale cinese, sfondo rosso e sontuoso copricapo a corona floreale.
@@ -11798,6 +12231,84 @@ un dettagliato ritratto in studio di una donna in abito da sposa tradizionale ci
 
 ---
 
+<a name="prompt-2098760287524692407"></a>
+
+### Traduzione in corso
+
+Autore：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Post originale](https://x.com/RobotCleopatra/status/2098760287524692407)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098760287524692407-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098757292942635327"></a>
+
+### Traduzione in corso
+
+Autore：[@underwoodxie96](https://x.com/underwoodxie96) · [Post originale](https://x.com/underwoodxie96/status/2098757292942635327)
+
+Ritratto / Selfie · Personaggio · Veicolo · Pubblicato
+
+Post originale：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Post originale](https://x.com/yutaka_prompt/status/2098672917479559420)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2098757292942635327-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2098757292942635327-2.jpg" alt="Immagine 2" width="480" />
+
+<img src="images/2098757292942635327-3.jpg" alt="Immagine 3" width="480" />
+
+<img src="images/2098757292942635327-4.jpg" alt="Immagine 4" width="480" />
+
+<img src="images/2098757292942635327-5.jpg" alt="Immagine 5" width="480" />
+
+<img src="images/2098757292942635327-6.jpg" alt="Immagine 6" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098683941431455840"></a>
+
+### Traduzione in corso
+
+Autore：[@iadventurejacek](https://x.com/iadventurejacek) · [Post originale](https://x.com/iadventurejacek/status/2098683941431455840)
+
+Altro · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098683941431455840.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2098686621931511841"></a>
 
 ### Una postazione computer in un ufficio.
@@ -11814,6 +12325,28 @@ Altro · Pubblicato
 
 ```text
 computer in ufficio
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098688166261842106"></a>
+
+### Traduzione in corso
+
+Autore：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Post originale](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
+
+Animale / Creatura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098688166261842106.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -12346,6 +12879,28 @@ Ritratto / Selfie · Personaggio · Pubblicato
 
 ```text
 Abito da notte dal colletto ampio; ampia parte del petto scoperta; clavicole ben evidenti; si pettina al risveglio mattutino; mento leggermente sollevato; espressione fredda; eterea e distante
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2098418180674773370"></a>
+
+### Traduzione in corso
+
+Autore：[@abs\_uiux](https://x.com/abs_uiux) · [Post originale](https://x.com/abs_uiux/status/2098418180674773370)
+
+Personaggio · Articolo di moda · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2098418180674773370.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
 ```
 
 [↑ Torna alle categorie](#catalog)
