@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:27:03.931Z",
+  "model": "unknown-image",
+  "prompt": "Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame. FORMAT: 3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line. Do not stretch, warp, tilt, or unnaturally reposition the structure. TOP HALF — THE REAL SHOT: Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood. Add only a subtle high-end color grade and the faintest film grain. BOTTOM HALF — THE PRINTED RECONSTRUCTION: Rebuild the same structure as an experimental printed architectural collage using torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework. The structure must remain immediately recognizable. Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar. Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent. Leave 22–38% of the paper visibly untouched. TYPOGRAPHY — all visible text in French only: [NOM DU MONUMENT] / [VILLE, PAYS] / ÉTUDE ARCH. 0N / short French observational caption. Mood: early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial. Avoid: solid black terminal backgrounds, cyberpunk neon, excessive ASCII, distorted architecture, English text, logos, watermarks. Subjects: Tour Eiffel (Paris), Sagrada Família (Barcelone), Taj Mahal (Agra), Mont Saint-Michel (Normandie).",
+  "promptTranslations": {
+    "en": "Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame. FORMAT: 3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line. Do not stretch, warp, tilt, or unnaturally reposition the structure. TOP HALF — THE REAL SHOT: Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood. Add only a subtle high-end color grade and the faintest film grain. BOTTOM HALF — THE PRINTED RECONSTRUCTION: Rebuild the same structure as an experimental printed architectural collage using torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework. The structure must remain immediately recognizable. Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar. Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent. Leave 22–38% of the paper visibly untouched. TYPOGRAPHY — all visible text in French only: [NOM DU MONUMENT] / [VILLE, PAYS] / ÉTUDE ARCH. 0N / short French observational caption. Mood: early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial. Avoid: solid black terminal backgrounds, cyberpunk neon, excessive ASCII, distorted architecture, English text, logos, watermarks. Subjects: Tour Eiffel (Paris), Sagrada Família (Barcelone), Taj Mahal (Agra), Mont Saint-Michel (Normandie)."
+  },
+  "summaryTranslations": {
+    "en": "Transform an architectural photo into a vertically split halftone vintage collage poster, preserving real photography on top and reconstructing it below with torn paper grids, ASCII characters, and vintage printing."
+  },
+  "translationVersion": 2,
+  "summary": "将建筑照片制作成上下分割的半调复古拼贴海报，上方保留真实摄影，下方用撕纸网格、ASCII字符和复古印刷进行重构。",
+  "summaryEn": "Converts architectural photos into split-screen halftone collage posters, featuring real photography on top and experimental printed reconstruction below.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101992096857002180",
+    "canonicalUrl": "https://x.com/Weilnes/status/2101992096857002180",
+    "author": {
+      "username": "Weilnes",
+      "displayName": "Weilnes 🫀",
+      "profileUrl": "https://x.com/Weilnes"
+    },
+    "publishedAt": "2026-09-21T11:09:03.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "en",
+    "originalText": "Quatre monuments. Photo en haut, archive imprimée en bas.\n\nPrompt :\n```\nTurn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame. FORMAT: 3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line. Do not stretch, warp, tilt, or unnaturally reposition the structure. TOP HALF — THE REAL SHOT: Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood. Add only a subtle high-end color grade and the faintest film grain. BOTTOM HALF — THE PRINTED RECONSTRUCTION: Rebuild the same structure as an experimental printed architectural collage using torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework. The structure must remain immediately recognizable. Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar. Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent. Leave 22–38% of the paper visibly untouched. TYPOGRAPHY — all visible text in French only: [NOM DU MONUMENT] / [VILLE, PAYS] / ÉTUDE ARCH. 0N / short French observational caption. Mood: early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial. Avoid: solid black terminal backgrounds, cyberpunk neon, excessive ASCII, distorted architecture, English text, logos, watermarks. Subjects: Tour Eiffel (Paris), Sagrada Família (Barcelone), Taj Mahal (Agra), Mont Saint-Michel (Normandie).\n```",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvGRz8XUAAST76.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvGRz8XUAAST76.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvGRz6WEAAQVYX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvGRz6WEAAQVYX.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvGRz9WsAARWmK.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvGRz9WsAARWmK.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvGR0DXsAASF-N.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvGR0DXsAASF-N.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Weilnes/status/2101992096857002180",
+  "coverUrl": "https://pbs.twimg.com/media/HSvGRz8XUAAST76.jpg",
+  "coverPath": "images/2101992096857002180-1.jpg",
+  "imagePaths": [
+    "images/2101992096857002180-1.jpg",
+    "images/2101992096857002180-2.jpg",
+    "images/2101992096857002180-3.jpg",
+    "images/2101992096857002180-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSvGRz8XUAAST76",
+    "x-image:/media/HSvGRz6WEAAQVYX",
+    "x-image:/media/HSvGRz9WsAARWmK",
+    "x-image:/media/HSvGR0DXsAASF-N",
+    "x-post:2101992096857002180"
+  ],
+  "analysis": {
+    "summary": "将建筑照片制作成上下分割的半调复古拼贴海报，上方保留真实摄影，下方用撕纸网格、ASCII字符和复古印刷进行重构。",
+    "summaryEn": "Converts architectural photos into split-screen halftone collage posters, featuring real photography on top and experimental printed reconstruction below.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像精确呈现了提示词要求的上下两分版式、四处建筑主体、下方撕纸拼贴、ASCII字符网点及法文排版。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame. FORMAT: 3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line. Do not stretch, warp, tilt, or unnaturally reposition the structure. TOP HALF — THE REAL SHOT: Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood. Add only a subtle high-end color grade and the faintest film grain. BOTTOM HALF — THE PRINTED RECONSTRUCTION: Rebuild the same structure as an experimental printed architectural collage using torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework. The structure must remain immediately recognizable. Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar. Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent. Leave 22–38% of the paper visibly untouched. TYPOGRAPHY — all visible text in French only: [NOM DU MONUMENT] / [VILLE, PAYS] / ÉTUDE ARCH. 0N / short French observational caption. Mood: early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial. Avoid: solid black terminal backgrounds, cyberpunk neon, excessive ASCII, distorted architecture, English text, logos, watermarks. Subjects: Tour Eiffel (Paris), Sagrada Família (Barcelone), Taj Mahal (Agra), Mont Saint-Michel (Normandie).",
+    "sourceRange": {
+      "start": 72,
+      "end": 1933
+    },
+    "translations": {
+      "zh": "将此建筑照片制成一张高端半调复古建筑旅行拼贴海报。每张上传照片生成一张海报。格式：3:4竖版画布。分为上下等分两个区域：上方真实建筑照片，下方印刷重构，以一条清晰水平线分割。上半部分（真实实拍）：忠实保留原建筑、光影及色彩，仅添加微妙调色与微弱胶片噪点。下半部分（印刷重构）：使用撕裂碎片、定宽ASCII字符、复印半调网点及建筑线条重构建筑。质感：粗糙白纸边缘、复印瑕疵、轻微套印不准、褪色墨迹、旧纸污渍及红色校准条。法文排版：[建筑名称] / [城市, 国家] / ÉTUDE ARCH. 0N / 简短法文评语。",
+      "en": "Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo. FORMAT: 3:4 vertical canvas. Split into two roughly equal zones: real architectural photo on top, printed reconstruction below, divided by a clean horizontal line. TOP HALF (THE REAL SHOT): Faithfully preserve structure, lighting, and palette with subtle color grading and faint film grain. BOTTOM HALF (THE PRINTED RECONSTRUCTION): Rebuild structure via torn photo fragments, fixed-width ASCII fields, halftone dots, and linework. French typography: [MONUMENT NAME] / [CITY, COUNTRY] / ÉTUDE ARCH. 0N / French observational caption."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "海报设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

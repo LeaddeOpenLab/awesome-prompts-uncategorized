@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:27:41.220Z",
+  "model": "unknown-image",
+  "prompt": "图1：人物面部基准，这个人的脸原样使用\n图2（如有）：发型、服装、配饰参考\n\n【生成内容】\n把图1中的人物生成为一张正面免冠半身照，脸正对镜头，柔和正面光，阴影最少，纯白背景。\n\n【必须保留】\n图1的人物身份必须完全一致，逐项保持不变：脸型轮廓、颧骨和下颌线、眼睛的形状和大小、眼皮类型、眼距、眉毛粗细和走向、山根起点高度、鼻梁宽度、鼻头形状、人中长度、唇形和唇厚、下巴形状、年龄感、肤色和皮肤质感。\n发型、发色、发长、配饰、服装按图1（有图2则按图2）原样保留。\n参考图中因为逆光、暖光或滤镜产生的偏色不算作发色和肤色本身，按中性光下的真实颜色还原。\n参考图是实拍就输出实拍，是插画就保持同一种插画风格。\n\n【禁止】\n不得变成另一个人。不得美化、瘦脸、放大眼睛、拉长腿、年轻化、磨皮。不得添加图1中没有的面部特征。不得添加文字。",
+  "promptTranslations": {
+    "en": "Image 1: Character facial reference, use this person's face as is\nImage 2 (if any): Reference for hairstyle, clothing, accessories\n\n[Generated Content]\nGenerate the character from Image 1 as a front-facing, bareheaded, half-body portrait photo, face looking directly at the camera, soft frontal lighting, minimal shadows, pure white background.\n\n[Must Retain]\nThe identity of the character in Image 1 must remain completely identical, kept unchanged item by item: facial contour, cheekbones and jawline, eye shape and size, eyelid type, interpupillary distance, eyebrow thickness and direction, radix/nose bridge starting height, nose bridge width, nose tip shape, philtrum length, lip shape and thickness, chin shape, perceived age, skin tone and skin texture.\nHairstyle, hair color, hair length, accessories, and clothing should be retained exactly as in Image 1 (or as in Image 2 if Image 2 is provided).\nColor casts in the reference images caused by backlighting, warm lighting, or filters are not to be taken as the actual hair or skin color; restore them to their true colors under neutral lighting.\nIf the reference image is a real photo, output a real photo; if it is an illustration, maintain the same illustration style.\n\n[Forbidden]\nMust not turn into another person. Must not beautify, slim the face, enlarge the eyes, elongate the legs, make younger, or smooth the skin. Must not add facial features not present in Image 1. Must not add text."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for generating a front-facing bareheaded half-body portrait on a pure white background based on reference images while maintaining consistent facial features and identity."
+  },
+  "translationVersion": 2,
+  "summary": "基于参考图保持面部特征与身份一致，生成纯白背景的正面免冠半身肖像提示词。",
+  "summaryEn": "Prompt for generating a consistent, front-facing ID-style bust portrait against a white background using reference images.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101938737072746983",
+      "canonicalUrl": "https://x.com/boniusex/status/2101938737072746983",
+      "author": {
+        "username": "boniusex",
+        "displayName": "王大锤",
+        "profileUrl": "https://x.com/boniusex"
+      },
+      "originalText": "再次什么时候见Dario，偶想你了 https://t.co/2bhFB8wttw"
+    },
+    "id": "2101955473520095698",
+    "canonicalUrl": "https://x.com/boniusex/status/2101955473520095698",
+    "author": {
+      "username": "boniusex",
+      "displayName": "王大锤",
+      "profileUrl": "https://x.com/boniusex"
+    },
+    "publishedAt": "2026-09-21T08:43:31.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "zh",
+    "originalText": "分享一个自用的角色参考 / 人物参考的提示词\n\nprompt：\n\n图1：人物面部基准，这个人的脸原样使用\n图2（如有）：发型、服装、配饰参考\n\n【生成内容】\n把图1中的人物生成为一张正面免冠半身照，脸正对镜头，柔和正面光，阴影最少，纯白背景。\n\n【必须保留】\n图1的人物身份必须完全一致，逐项保持不变：脸型轮廓、颧骨和下颌线、眼睛的形状和大小、眼皮类型、眼距、眉毛粗细和走向、山根起点高度、鼻梁宽度、鼻头形状、人中长度、唇形和唇厚、下巴形状、年龄感、肤色和皮肤质感。\n发型、发色、发长、配饰、服装按图1（有图2则按图2）原样保留。\n参考图中因为逆光、暖光或滤镜产生的偏色不算作发色和肤色本身，按中性光下的真实颜色还原。\n参考图是实拍就输出实拍，是插画就保持同一种插画风格。\n\n【禁止】\n不得变成另一个人。不得美化、瘦脸、放大眼睛、拉长腿、年轻化、磨皮。不得添加图1中没有的面部特征。不得添加文字。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSulVtSaIAA2UWU.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSulVtSaIAA2UWU.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSulWfRbEAA2NwX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSulWfRbEAA2NwX.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuWCrNa8AAk4qr.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuWCrNa8AAk4qr.jpg",
+        "sourcePostId": "2101938737072746983"
+      }
+    ],
+    "metrics": {
+      "likeCount": 32,
+      "repostCount": 3,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 2352
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/boniusex/status/2101955473520095698",
+  "coverUrl": "https://pbs.twimg.com/media/HSulVtSaIAA2UWU.jpg",
+  "coverPath": "images/2101955473520095698-1.jpg",
+  "imagePaths": [
+    "images/2101955473520095698-1.jpg",
+    "images/2101955473520095698-2.jpg",
+    "images/2101955473520095698-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSulVtSaIAA2UWU",
+    "x-image:/media/HSulWfRbEAA2NwX",
+    "x-image:/media/HSuWCrNa8AAk4qr",
+    "x-post:2101955473520095698",
+    "x-post:2101938737072746983"
+  ],
+  "analysis": {
+    "summary": "基于参考图保持面部特征与身份一致，生成纯白背景的正面免冠半身肖像提示词。",
+    "summaryEn": "Prompt for generating a consistent, front-facing ID-style bust portrait against a white background using reference images.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图2严格依照提示词，将图1参考人物转化为纯白背景下的正面免冠肖像，五官与风格保持高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "图1：人物面部基准，这个人的脸原样使用\n图2（如有）：发型、服装、配饰参考\n\n【生成内容】\n把图1中的人物生成为一张正面免冠半身照，脸正对镜头，柔和正面光，阴影最少，纯白背景。\n\n【必须保留】\n图1的人物身份必须完全一致，逐项保持不变：脸型轮廓、颧骨和下颌线、眼睛的形状和大小、眼皮类型、眼距、眉毛粗细和走向、山根起点高度、鼻梁宽度、鼻头形状、人中长度、唇形和唇厚、下巴形状、年龄感、肤色和皮肤质感。\n发型、发色、发长、配饰、服装按图1（有图2则按图2）原样保留。\n参考图中因为逆光、暖光或滤镜产生的偏色不算作发色和肤色本身，按中性光下的真实颜色还原。\n参考图是实拍就输出实拍，是插画就保持同一种插画风格。\n\n【禁止】\n不得变成另一个人。不得美化、瘦脸、放大眼睛、拉长腿、年轻化、磨皮。不得添加图1中没有的面部特征。不得添加文字。",
+    "sourceRange": {
+      "start": 33,
+      "end": 398
+    },
+    "translations": {
+      "zh": "图1：人物面部基准，这个人的脸原样使用\n图2（如有）：发型、服装、配饰参考\n\n【生成内容】\n把图1中的人物生成为一张正面免冠半身照，脸正对镜头，柔和正面光，阴影最少，纯白背景。\n\n【必须保留】\n图1的人物身份必须完全一致，逐项保持不变：脸型轮廓、颧骨和下颌线、眼睛的形状和大小、眼皮类型、眼距、眉毛粗细和走向、山根起点高度、鼻梁宽度、鼻头形状、人中长度、唇形和唇厚、下巴形状、年龄感、肤色和皮肤质感。\n发型、发色、发长、配饰、服装按图1（有图2则按图2）原样保留。\n参考图中因为逆光、暖光或滤镜产生的偏色不算作发色和肤色本身，按中性光下的真实颜色还原。\n参考图是实拍就输出实拍，是插画就保持同一种插画风格。\n\n【禁止】\n不得变成另一个人。不得美化、瘦脸、放大眼睛、拉长腿、年轻化、磨皮。不得添加图1中没有的面部特征。不得添加文字。",
+      "en": "Image 1: Facial reference, use original face.\nImage 2 (optional): Hair, clothing, accessories.\n\n[Generation]\nRender Image 1 subject as a front-facing bust portrait facing camera, soft frontal light, minimal shadows, pure white background.\n\n[Retain]\nKeep subject identity identical: face shape, jawline, eyes, eyelids, nose, lips, age, and skin texture. Retain hair and clothing accurately without lighting cast.\n\n[Prohibited]\nNo altering identity, slimming, eye enlargement, de-aging, skin smoothing, extra features, or text."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "人物参考一致性正面半身照生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

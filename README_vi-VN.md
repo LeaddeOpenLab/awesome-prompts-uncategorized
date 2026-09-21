@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**416** Prompt · Bổ sung mới nhất: **2026-09-21**
+**425** Prompt · Bổ sung mới nhất: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,78 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 <a name="category-photography"></a>
 
 ## Nhiếp ảnh
+
+<a name="prompt-2101838003236962807"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2101838003236962807)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101838003236962807-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101972762806071784"></a>
+
+### Đang dịch
+
+Tác giả：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Bài gốc](https://x.com/FuguiChen1314/status/2101972762806071784)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101972762806071784-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101988560278573259"></a>
+
+### Đang dịch
+
+Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2101988560278573259)
+
+Áp phích / Tờ rơi · Nhiếp ảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101988560278573259-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101988560278573259-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2101988560278573259-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2101988560278573259-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101800719636734040"></a>
 
@@ -4239,20 +4311,59 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2101910957022912557"></a>
 
-### Đang dịch
+### Lời nhắc tạo quảng cáo thương mại dạng phân cảnh dọc 9:16 cho Sprite Lemon, bao gồm kiểm soát các cảnh bắn nước, rót nước và cận cảnh sản phẩm.
 
 Tác giả：[@HeyRu0by](https://x.com/HeyRu0by) · [Bài gốc](https://x.com/HeyRu0by/status/2101910957022912557)
 
 Truyện tranh / Bảng phân cảnh · Tiếp thị sản phẩm · Điện ảnh / Ảnh tĩnh từ phim · Sản phẩm · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo quảng cáo thương mại dạng phân cảnh dọc 9:16 cho Sprite Lemon, bao gồm kiểm soát các cảnh bắn nước, rót nước và cận cảnh sản phẩm.
 
 <img src="covers/2101910957022912557.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một quảng cáo nước ngọt Sprite Lemon-Lime dài 10 giây siêu thực, cao cấp ở định dạng dọc 9:16. Sử dụng hình ảnh sản phẩm Sprite đã tải lên làm tài liệu tham khảo sản phẩm chính xác. Giữ nguyên hình dáng ban đầu của chai, tỷ lệ, nắp xanh lá cây, logo Sprite, thiết kế nhãn, màu sắc, kiểu chữ và nhận diện thương hiệu. Không thiết kế lại, làm biến dạng, nhân bản hoặc thay đổi sản phẩm.
+
+Phong cách tổng thể:
+Ánh sáng ban ngày mùa hè rực rỡ, bảng màu xanh lá cây và xanh lam tươi mát, bọt sủi lấp lánh, đá viên chân thực, các lát chanh vàng và chanh xanh mọng nước, kỹ thuật quay phim quảng cáo tràn đầy năng lượng, quảng cáo đồ uống cao cấp, ảnh chân thực 4K/8K, chi tiết cận cảnh sắc nét, giọt nước chân thực, chụp ảnh chất lỏng tốc độ cao, ánh sáng điện ảnh, độ sâu trường ảnh nông.
+
+Cảnh 1 — 0–2 giây | Ngày tươi mới
+Một chai Sprite ướp lạnh đứng uy nghi trên chiếc bàn ngoài trời ngập tràn ánh nắng vào một buổi chiều rực rỡ. Các lát chanh vàng, chanh xanh tươi và đá viên bao quanh chai. Ánh nắng mặt trời tạo ra những điểm sáng tuyệt đẹp và hiện tượng lóe sáng ống kính tinh tế. Máy quay từ từ đẩy về phía sản phẩm.
+Tâm trạng: Tươi mới, ngập tràn ánh nắng, sảng khoái.
+
+Cảnh 2 — 2–5 giây | Cận cảnh sản phẩm
+Cận cảnh cực độ chai Sprite phủ đầy hơi nước ngưng tụ và giọt nước chân thực. Máy quay thực hiện cú đẩy mượt mà đầy chất điện ảnh hướng về logo Sprite trong khi đá và các giọt nước sủi bọt chuyển động xung quanh chai.
+Chuyển động: Đẩy cận cảnh nhanh + nước bắn tóe + bọt khí sủi tăm.
+
+Cảnh 3 — 5–7 giây | Vụ nổ chanh vàng - chanh xanh
+Các lát chanh vàng và chanh xanh tươi vỡ tung qua làn nước có ga sủi bọt trong chuyển động chậm (slow motion). Những bong bóng nhỏ li ti, giọt nước và hạt nước cốt cam chanh bay qua không trung trên nền xanh lục lam sạch sẽ.
+Máy quay: Quay cận cảnh tốc độ cao chuyển động chậm.
+
+Cảnh 4 — 7–10 giây | Dòng rót hoàn hảo
+Sprite mát lạnh được rót từ chai ướp lạnh vào một ly thủy tinh trong suốt chứa đầy những viên đá pha lê trong vắt. Chất lỏng tạo ra một tia nước sủi bọt tuyệt đẹp, với các bọt khí nổi lên nhanh chóng trong ly. Các lát chanh vàng và chanh xanh nằm cạnh ly.
+Máy quay: Cú quay theo góc nghiêng bên mượt mà.
+
+Cảnh 5 — 10–13 giây | Độ tươi mát cực đỉnh
+Cú bấm máy cận cảnh cực độ vào các lát chanh xanh, đá lấp lánh, bọt sủi và những giọt Sprite sảng khoái. Ánh sáng bắt trọn từng giọt nước, tạo nên cảm giác mùa hè rực rỡ, tràn đầy năng lượng.
+Chuyển động: Nước bắn chuyển động chậm + bong bóng lơ lửng.
+
+Cảnh 6 — 13–16 giây | Sản phẩm chủ đạo
+Chai Sprite đứng ở vị trí trung tâm giữa những viên đá lơ lửng, các lát chanh vàng, chanh xanh và các giọt nước lấp lánh. Nền sáng, tươi mát và hơi mờ. Chai vẫn giữ được độ sắc nét hoàn hảo và chiếm ưu thế trong khung hình.
+Máy quay: Chuyển động xoay quanh sản phẩm mượt mà đậm chất điện ảnh.
+
+Cảnh 7 — 16–18 giây | Khoảnh khắc nhấp ngụm sảng khoái
+Cận cảnh ly thủy tinh trong suốt chứa đầy Sprite lạnh buốt, được trang trí bằng chanh vàng và chanh xanh tươi. Bọt khí ga liên tục nổi lên trong khi ánh nắng mặt trời tạo ra những điểm sáng lấp lánh khắp mặt ly.
+Máy quay: Đẩy chậm vào với hiệu ứng lấp lánh tinh tế.
+
+Cảnh 8 — 18–20 giây | Cảnh quay ấn định cuối cùng
+Kết thúc bằng một cảnh quay sản phẩm Sprite chủ đạo cao cấp. Đúng chai Sprite đó đứng cạnh ly ướp lạnh, xung quanh là đá, các lát chanh vàng và chanh xanh. Những giọt nước tươi mát vẫn đọng rõ trên chai. Ánh nắng rực rỡ cùng hiệu ứng khí quyển xanh lục/xanh lam tinh tế tạo nên một khung hình quảng cáo cuối cùng đầy ấn tượng.
+
+Cảm giác thị giác cuối cùng: Lạnh buốt. Sắc nét. Tươi mới. Sảng khoái.
+
+Khóa sản phẩm & chất lượng
+Tham chiếu chính xác chai Sprite. Đúng logo và nhãn hiệu. Đúng nhận diện màu xanh lá cây. Không thay đổi bao bì. Không thêm chai phụ. Không làm biến dạng văn bản. Không có logo ngẫu nhiên. Không có hình mờ (watermark). Không có người. Không có bàn tay. Không có hiệu ứng vật lý chất lỏng phi thực tế. Giữ cho sản phẩm sắc nét và dễ nhận biết xuyên suốt.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -6529,6 +6640,34 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 ## Minh họa
 
+<a name="prompt-2101985224838299818"></a>
+
+### Đang dịch
+
+Tác giả：[@sha1shashasha](https://x.com/sha1shashasha) · [Bài gốc](https://x.com/sha1shashasha/status/2101985224838299818)
+
+Minh họa · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101985224838299818-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101985224838299818-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2101985224838299818-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2101985224838299818-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101691757385724297"></a>
 
 ### Một nhãn dán chủ đề mùa thu ấm cúng có hình một cô gái mỉm cười, lá phong vàng và thư pháp Ả Rập trên nền trắng.
@@ -7569,6 +7708,56 @@ Tạo áp phích nghệ thuật du lịch đối chiếu trên-dưới theo chi�
 
 ## Cổ điển / Cổ điển
 
+<a name="prompt-2101980767345856601"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2101980767345856601)
+
+Nhiếp ảnh · Cổ điển / Cổ điển · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101980767345856601-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101992096857002180"></a>
+
+### Đang dịch
+
+Tác giả：[@Weilnes](https://x.com/Weilnes) · [Bài gốc](https://x.com/Weilnes/status/2101992096857002180)
+
+Áp phích / Tờ rơi · Nhiếp ảnh · Cổ điển / Cổ điển · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101992096857002180-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101992096857002180-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2101992096857002180-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2101992096857002180-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101823731350065296"></a>
 
 ### Minh họa phong cách tranh khắc Halloween cổ điển: Bóng ma trùm khăn trắng cầm đèn lồng bí ngô khắc đi qua khu rừng ma quái ban đêm.
@@ -8459,22 +8648,100 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2101911381888864305"></a>
+<a name="prompt-2101952087026172345"></a>
 
 ### Đang dịch
+
+Tác giả：[@LudovicCreator](https://x.com/LudovicCreator) · [Bài gốc](https://x.com/LudovicCreator/status/2101952087026172345)
+
+Quang cảnh thành phố / Đường phố · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101952087026172345-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101952087026172345-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2101952087026172345-3.jpg" alt="Hình ảnh 3" width="480" />
+
+<img src="images/2101952087026172345-4.jpg" alt="Hình ảnh 4" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101996518026907755"></a>
+
+### Đang dịch
+
+Tác giả：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Bài gốc](https://x.com/Arzoo12sh/status/2101996518026907755)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2101996518026907755.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101955473520095698"></a>
+
+### Đang dịch
+
+Tác giả：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2101955473520095698)
+
+Chân dung / Ảnh tự chụp · Nhân vật · Tóm tắt / Bối cảnh · Đã xuất bản
+
+Bài gốc：[@boniusex](https://x.com/boniusex) · [Bài gốc](https://x.com/boniusex/status/2101938737072746983)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2101955473520095698-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2101955473520095698-2.jpg" alt="Hình ảnh 2" width="480" />
+
+<img src="images/2101955473520095698-3.jpg" alt="Hình ảnh 3" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2101911381888864305"></a>
+
+### Đội trưởng Tsubasa
 
 Tác giả：[@JorgeRival67623](https://x.com/JorgeRival67623) · [Bài gốc](https://x.com/JorgeRival67623/status/2101911381888864305)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Đội trưởng Tsubasa
 
 <img src="images/2101911381888864305-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Đội trưởng Tsubasa
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8483,20 +8750,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2101913573085843894"></a>
 
-### Đang dịch
+### Lời nhắc tạo cảnh chúc mừng sinh nhật ngày 21 tháng 9.
 
 Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2101913573085843894)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo cảnh chúc mừng sinh nhật ngày 21 tháng 9.
 
 <img src="covers/2101913573085843894.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Hãy làm theo phong cách chúc mừng sinh nhật ngày 21 tháng 9
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8505,20 +8772,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2101915530101989784"></a>
 
-### Đang dịch
+### Lời nhắc thay đổi bầu không khí để chúc mừng sinh nhật ngày 21 tháng 9.
 
 Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2101915530101989784)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc thay đổi bầu không khí để chúc mừng sinh nhật ngày 21 tháng 9.
 
 <img src="covers/2101915530101989784.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Làm theo phong cách chúc mừng sinh nhật ngày 21 tháng 9, thay đổi bầu không khí
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8527,20 +8794,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2101910971338170857"></a>
 
-### Đang dịch
+### Chỉ dẫn tạo cảnh mừng Ngày Kính lão và sinh nhật vào ngày 21 tháng 9.
 
 Tác giả：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Bài gốc](https://x.com/mioarashidaisuk/status/2101910971338170857)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chỉ dẫn tạo cảnh mừng Ngày Kính lão và sinh nhật vào ngày 21 tháng 9.
 
 <img src="covers/2101910971338170857.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Làm theo phong cách chúc mừng Ngày Kính lão 21 tháng 9 và sinh nhật
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8549,20 +8816,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2101907083436409018"></a>
 
-### Đang dịch
+### Cảnh trưng bày trang phục trong phòng thử đồ cửa hàng đồ lót với trang phục, góc máy và tư thế ngẫu nhiên.
 
 Tác giả：[@Dokislime\_TTV](https://x.com/Dokislime_TTV) · [Bài gốc](https://x.com/Dokislime_TTV/status/2101907083436409018)
 
 Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Cảnh trưng bày trang phục trong phòng thử đồ cửa hàng đồ lót với trang phục, góc máy và tư thế ngẫu nhiên.
 
 <img src="images/2101907083436409018-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Cảnh trong phòng thay đồ của một cửa hàng đồ lót, nơi mọi người khoe trang phục với nhau. Trang phục ngẫu nhiên, góc máy và tư thế ngẫu nhiên.
 ```
 
 [↑ Về danh mục](#catalog)

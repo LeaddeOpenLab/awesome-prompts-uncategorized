@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**416** Prompt · Son eklenen: **2026-09-21**
+**425** Prompt · Son eklenen: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,78 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 <a name="category-photography"></a>
 
 ## Fotoğrafçılık
+
+<a name="prompt-2101838003236962807"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2101838003236962807)
+
+Fotoğrafçılık · Portre / Selfie · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101838003236962807-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101972762806071784"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Orijinal gönderi](https://x.com/FuguiChen1314/status/2101972762806071784)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101972762806071784-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101988560278573259"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2101988560278573259)
+
+Poster / El İlanı · Fotoğrafçılık · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101988560278573259-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101988560278573259-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2101988560278573259-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2101988560278573259-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101800719636734040"></a>
 
@@ -4192,20 +4264,59 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2101910957022912557"></a>
 
-### Çeviri sürüyor
+### Sprite 柠檬汽水 9:16 竖版分镜头商业广告生成提示词，含水花、倒酒与产品特写镜头控制。
 
 Yazar：[@HeyRu0by](https://x.com/HeyRu0by) · [Orijinal gönderi](https://x.com/HeyRu0by/status/2101910957022912557)
 
 Çizgi Roman / Hikaye Taslağı · Ürün Pazarlaması · Sinematik / Film Karesi · Ürün · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sprite 柠檬汽水 9:16 竖版分镜头商业广告生成提示词，含水花、倒酒与产品特写镜头控制。
 
 <img src="covers/2101910957022912557.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dikey 9:16 formatında, üst düzey, ultra gerçekçi 10 saniyelik bir Sprite Limon-Misket Limonu gazlı içecek reklamı oluşturun. Yüklenen Sprite ürün görselini birebir ürün referansı olarak kullanın. Şişenin orijinal şeklini, oranlarını, yeşil kapağını, Sprite logosunu, etiket tasarımını, renklerini, tipografisini ve marka kimliğini koruyun. Ürünü yeniden tasarlamayın, deforme etmeyin, çoğaltmayın veya değiştirmeyin.
+
+Genel Tarz:
+Parlak yaz gün ışığı, ferah yeşil ve mavi renk paleti, ışıltılı gaz kabarcıkları, gerçekçi buz, sulu limon ve misket limonu dilimleri, enerjik reklam sinematografisi, birinci sınıf içecek reklamcılığı, fotogerçekçi 4K/8K, net makro ayrıntılar, gerçekçi su damlacıkları, yüksek hızlı sıvı fotoğrafçılığı, sinematik aydınlatma, sığ alan derinliği.
+
+Sahne 1 — 0–2sn | Ferah Gün
+Güneşli bir öğleden sonra açık havadaki aydınlık bir masanın üzerinde soğuk bir Sprite şişesi görkemli bir şekilde duruyor. Taze limon ve misket limonu dilimleri ile buzlar şişenin etrafını çevreliyor. Güneş ışığı güzel parıltılar ve zarif bir lens parlaması (lens flare) oluşturuyor. Kamera yavaşça ürüne doğru yaklaşıyor.
+Atmosfer: Ferah, güneşli, serinletici.
+
+Sahne 2 — 2–5sn | Ürün Makrosu
+Gerçekçi yoğuşma ve su damlacıklarıyla kaplı Sprite şişesinin aşırı yakın çekimi. Buzlar ve ışıltılı damlacıklar şişenin etrafında hareket ederken kamera Sprite logosuna doğru pürüzsüz, sinematik bir yaklaşma hareketi yapıyor.
+Hareket: Hızlı makro yaklaşma + su sıçraması + gaz kabarcıkları.
+
+Sahne 3 — 5–7sn | Limon-Misket Limonu Sıçraması
+Taze limon ve misket limonu dilimleri, ağır çekimde köpüren gazlı suyun içinden fırlıyor. Minik kabarcıklar, damlacıklar ve narenciye suyu partikülleri, temiz mavi-yeşil bir arka planda havada uçuşuyor.
+Kamera: Yüksek hızlı makro ağır çekim.
+
+Sahne 4 — 7–10sn | Mükemmel Döküş
+Soğuk Sprite, buğulu şişeden kristal berraklığında buz küpleriyle dolu şeffaf bir bardağa dökülüyor. Sıvı, bardakta hızla yükselen kabarcıklarla birlikte harika köpüklü bir sıçrama yaratıyor. Limon ve misket limonu dilimleri bardağın yanında duruyor.
+Kamera: Pürüzsüz yan açı takip çekimi.
+
+Sahne 5 — 10–13sn | Aşırı Tazelik
+Misket limonu dilimleri, parıldayan buzlar, gaz kabarcıkları ve ferahlatıcı Sprite damlacıklarının aşırı makro çekimi. Işık her bir su damlasına çarparak canlı, enerjik bir yaz hissi yaratıyor.
+Hareket: Ağır çekim sıçrama + süzülen kabarcıklar.
+
+Sahne 6 — 13–16sn | Ürün Odağı (Hero Shot)
+Sprite şişesi; süzülen buz küpleri, limon ve misket limonu dilimleri ile ışıltılı damlacıkların arasında ortalanmış şekilde duruyor. Arka plan parlak, ferah ve hafifçe bulanık. Şişe, karede kusursuz biçimde keskin ve baskın kalıyor.
+Kamera: Ürünün etrafında pürüzsüz sinematik yörünge hareketi (orbit).
+
+Sahne 7 — 16–18sn | Ferahlatıcı Yudum Anı
+Taze limon ve misket limonu ile süslenmiş, buz gibi Sprite ile dolu şeffaf bir bardağın yakın çekimi. Güneş ışığı bardakta ışıltılı parıltılar yaratırken gaz kabarcıkları sürekli yükseliyor.
+Kamera: Zarif ışıltı efektleriyle yavaş yaklaşma çekimi.
+
+Sahne 8 — 18–20sn | Final Ürün Çekimi
+Birinci sınıf bir Sprite ürün odaklı final çekimiyle sonlandırın. Birebir Sprite şişesi, buzlar, limon ve misket limonu dilimleriyle çevrili soğuk bir bardağın yanında duruyor. Şişe üzerindeki taze su damlacıkları görünürlüğünü koruyor. Parlak güneş ışığı ve zarif yeşil/mavi atmosferik efektler, etkileyici bir final reklam karesi oluşturuyor.
+
+Nihai görsel his: Soğuk. Keskin. Taze. Serinletici.
+
+Ürün ve Kalite Sabitleme
+Birebir Sprite şişesi referansı. Birebir logo ve etiket. Birebir yeşil marka kimliği. Değiştirilmiş ambalaj yok. Fazladan şişe yok. Bozulmuş yazı yok. Rastgele logolar yok. Filigran yok. İnsan yok. El yok. Gerçek dışı sıvı fiziği yok. Ürünün baştan sona keskin ve tanınabilir kalmasını sağlayın.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -6496,6 +6607,34 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 ## İllüstrasyon
 
+<a name="prompt-2101985224838299818"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@sha1shashasha](https://x.com/sha1shashasha) · [Orijinal gönderi](https://x.com/sha1shashasha/status/2101985224838299818)
+
+İllüstrasyon · Karakter · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101985224838299818-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101985224838299818-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2101985224838299818-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2101985224838299818-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101691757385724297"></a>
 
 ### Beyaz arka plan üzerinde gülümseyen bir kız, altın akçaağaç yaprakları ve Arapça hat sanatı içeren, sonbahar temalı sıcacık bir çıkartma.
@@ -7536,6 +7675,56 @@ Dikey biçimde, alt ve üst karşılaştırmalı bir seyahat sanatı afişi olu�
 
 ## Retro / Vintage
 
+<a name="prompt-2101980767345856601"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2101980767345856601)
+
+Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101980767345856601-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101992096857002180"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Weilnes](https://x.com/Weilnes) · [Orijinal gönderi](https://x.com/Weilnes/status/2101992096857002180)
+
+Poster / El İlanı · Fotoğrafçılık · Retro / Vintage · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101992096857002180-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101992096857002180-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2101992096857002180-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2101992096857002180-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101823731350065296"></a>
 
 ### Nostaljik Cadılar Bayramı baskı sanatı tarzı illüstrasyon: Beyaz çarşaflı hayalet, gece vakti tekinsiz ormandan geçerken oyulmuş balkabağı feneri taşıyor.
@@ -8406,22 +8595,100 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2101911381888864305"></a>
+<a name="prompt-2101952087026172345"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@LudovicCreator](https://x.com/LudovicCreator) · [Orijinal gönderi](https://x.com/LudovicCreator/status/2101952087026172345)
+
+Şehir Manzarası / Sokak · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101952087026172345-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101952087026172345-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2101952087026172345-3.jpg" alt="Görsel 3" width="480" />
+
+<img src="images/2101952087026172345-4.jpg" alt="Görsel 4" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101996518026907755"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Orijinal gönderi](https://x.com/Arzoo12sh/status/2101996518026907755)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2101996518026907755.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101955473520095698"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2101955473520095698)
+
+Portre / Selfie · Karakter · Özet / Arka Plan · Yayımlandı
+
+Orijinal gönderi：[@boniusex](https://x.com/boniusex) · [Orijinal gönderi](https://x.com/boniusex/status/2101938737072746983)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2101955473520095698-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2101955473520095698-2.jpg" alt="Görsel 2" width="480" />
+
+<img src="images/2101955473520095698-3.jpg" alt="Görsel 3" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2101911381888864305"></a>
+
+### Kaptan Tsubasa
 
 Yazar：[@JorgeRival67623](https://x.com/JorgeRival67623) · [Orijinal gönderi](https://x.com/JorgeRival67623/status/2101911381888864305)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kaptan Tsubasa
 
 <img src="images/2101911381888864305-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kaptan Tsubasa
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -8430,20 +8697,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2101913573085843894"></a>
 
-### Çeviri sürüyor
+### 21 Eylül doğum gününü kutlayan bir sahne için üretim istemi.
 
 Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2101913573085843894)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 21 Eylül doğum gününü kutlayan bir sahne için üretim istemi.
 
 <img src="covers/2101913573085843894.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+21 Eylül doğum gününü kutlama havasında yap
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -8452,20 +8719,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2101915530101989784"></a>
 
-### Çeviri sürüyor
+### Atmosferi 21 Eylül doğum gününü kutlayacak şekilde değiştiren istem.
 
 Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2101915530101989784)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Atmosferi 21 Eylül doğum gününü kutlayacak şekilde değiştiren istem.
 
 <img src="covers/2101915530101989784.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+21 Eylül doğum gününü kutlar gibi yapın, atmosferi değiştirin
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -8474,20 +8741,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2101910971338170857"></a>
 
-### Çeviri sürüyor
+### 21 Eylül Yaşlılara Saygı Günü ve doğum günü kutlama sahnesi oluşturma talimatı.
 
 Yazar：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Orijinal gönderi](https://x.com/mioarashidaisuk/status/2101910971338170857)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** 21 Eylül Yaşlılara Saygı Günü ve doğum günü kutlama sahnesi oluşturma talimatı.
 
 <img src="covers/2101910971338170857.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+21 Eylül Yaşlılara Saygı Günü'nü ve bir doğum gününü kutlama havasında yap
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -8496,20 +8763,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2101907083436409018"></a>
 
-### Çeviri sürüyor
+### Bir iç çamaşırı mağazasının deneme kabininde rastgele kıyafet, açı ve pozların sergilendiği bir sahne.
 
 Yazar：[@Dokislime\_TTV](https://x.com/Dokislime_TTV) · [Orijinal gönderi](https://x.com/Dokislime_TTV/status/2101907083436409018)
 
 Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bir iç çamaşırı mağazasının deneme kabininde rastgele kıyafet, açı ve pozların sergilendiği bir sahne.
 
 <img src="images/2101907083436409018-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bir iç çamaşırı mağazasının deneme kabininde birbirine kıyafet gösterenlerin sahnesi. Rastgele kıyafetler, rastgele kamera açıları ve pozlar.
 ```
 
 [↑ Kategorilere dön](#catalog)

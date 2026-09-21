@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:26:55.832Z",
+  "model": "unknown-image",
+  "prompt": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::,\n\n1.4::brass steampunk goggles on forehead::, 1.3::very short cargo pants::, short pants, 1.4::leather belt with large brass cogwheel gear, distressed leather boots with buckles and straps::,1.3::brown leather fingerless glove on right hand::,\n\n0.8::muscular back::, thighs are exposed,\n\n1.2::dynamic low crouching pose, dynamic low angle, seated crouch, torso twisted::, 1.1::waist twisted, leaning backward::, low center of gravity, asymmetrical posture,\n\none arm extended backward to the floor, straight supporting arm, palm planted on floor, weight supported by one hand, other arm raised overhead, hand held above head,\n\nasymmetrical bent legs, two knees lowered, 1.2::two feet planted on floor, arched back::, elongated neck, head turned over shoulder, 1.1::looking backward, 3/4 side profile::, natural anatomy, balanced pose::, 2::white clear background::, dramatic soft lighting, defined muscle shadow",
+  "promptTranslations": {
+    "en": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::,\n\n1.4::brass steampunk goggles on forehead::, 1.3::very short cargo pants::, short pants, 1.4::leather belt with large brass cogwheel gear, distressed leather boots with buckles and straps::,1.3::brown leather fingerless glove on right hand::,\n\n0.8::muscular back::, thighs are exposed,\n\n1.2::dynamic low crouching pose, dynamic low angle, seated crouch, torso twisted::, 1.1::waist twisted, leaning backward::, low center of gravity, asymmetrical posture,\n\none arm extended backward to the floor, straight supporting arm, palm planted on floor, weight supported by one hand, other arm raised overhead, hand held above head,\n\nasymmetrical bent legs, two knees lowered, 1.2::two feet planted on floor, arched back::, elongated neck, head turned over shoulder, 1.1::looking backward, 3/4 side profile::, natural anatomy, balanced pose::, 2::white clear background::, dramatic soft lighting, defined muscle shadow"
+  },
+  "summaryTranslations": {
+    "en": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::, steampunk goggles, dynamic crouching pose with one arm planted on floor against white background."
+  },
+  "translationVersion": 2,
+  "summary": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::, steampunk goggles, dynamic crouching pose with one arm planted on floor against white background.",
+  "summaryEn": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::, steampunk goggles, dynamic crouching pose with one arm planted on floor against white background.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101985224838299818",
+    "canonicalUrl": "https://x.com/sha1shashasha/status/2101985224838299818",
+    "author": {
+      "username": "sha1shashasha",
+      "displayName": "마라샤샤궈",
+      "profileUrl": "https://x.com/sha1shashasha"
+    },
+    "publishedAt": "2026-09-21T10:41:45.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "ja",
+    "originalText": "🔫[프롬 공유] 장난감 총인 것 같아 보여?\n\n[Prompt Sharing] / [プロンプトの共有]\n* v5 / v4.5 둘 다 타율 확인했습니다.\n* 필요한 만큼 가중치를 조정해주세요.\n* 남자캐릭터, 여자캐릭터 모두 사용 가능. 수정 가능.\n* 탐넘 편하게 사용해주세요.\n* 오류가 꽤나… 나오는 편입니다.\n\n1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::,\n\n1.4::brass steampunk goggles on forehead::, 1.3::very short cargo pants::, short pants, 1.4::leather belt with large brass cogwheel gear, distressed leather boots with buckles and straps::,1.3::brown leather fingerless glove on right hand::,\n\n0.8::muscular back::, thighs are exposed,\n\n1.2::dynamic low crouching pose, dynamic low angle, seated crouch, torso twisted::, 1.1::waist twisted, leaning backward::, low center of gravity, asymmetrical posture,\n\none arm extended backward to the floor, straight supporting arm, palm planted on floor, weight supported by one hand, other arm raised overhead, hand held above head,\n\nasymmetrical bent legs, two knees lowered, 1.2::two feet planted on floor, arched back::, elongated neck, head turned over shoulder, 1.1::looking backward, 3/4 side profile::, natural anatomy, balanced pose::, 2::white clear background::, dramatic soft lighting, defined muscle shadow\n\n여자(woman/girl)일 경우: bandaged chest 를 따로 넣어주세요.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvAappbAAAQ8sZ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvAappbAAAQ8sZ.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvAapxasAEl8_e.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvAapxasAEl8_e.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvAapoaIAA-V9-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvAapoaIAA-V9-.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvAappa0AA68ZM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvAappa0AA68ZM.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 6,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 569
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/sha1shashasha/status/2101985224838299818",
+  "coverUrl": "https://pbs.twimg.com/media/HSvAappbAAAQ8sZ.jpg",
+  "coverPath": "images/2101985224838299818-1.jpg",
+  "imagePaths": [
+    "images/2101985224838299818-1.jpg",
+    "images/2101985224838299818-2.jpg",
+    "images/2101985224838299818-3.jpg",
+    "images/2101985224838299818-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSvAappbAAAQ8sZ",
+    "x-image:/media/HSvAapxasAEl8_e",
+    "x-image:/media/HSvAapoaIAA-V9-",
+    "x-image:/media/HSvAappa0AA68ZM",
+    "x-post:2101985224838299818"
+  ],
+  "analysis": {
+    "summary": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::, steampunk goggles, dynamic crouching pose with one arm planted on floor against white background.",
+    "summaryEn": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::, steampunk goggles, dynamic crouching pose with one arm planted on floor against white background.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像准确呈现了提示词中要求的黄色蒸汽朋克枪、额头黄铜护目镜、大齿轮腰带、工装短裤、皮靴、单臂向后撑地扭身回眸的动态低重心蹲姿及纯白背景。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::,\n\n1.4::brass steampunk goggles on forehead::, 1.3::very short cargo pants::, short pants, 1.4::leather belt with large brass cogwheel gear, distressed leather boots with buckles and straps::,1.3::brown leather fingerless glove on right hand::,\n\n0.8::muscular back::, thighs are exposed,\n\n1.2::dynamic low crouching pose, dynamic low angle, seated crouch, torso twisted::, 1.1::waist twisted, leaning backward::, low center of gravity, asymmetrical posture,\n\none arm extended backward to the floor, straight supporting arm, palm planted on floor, weight supported by one hand, other arm raised overhead, hand held above head,\n\nasymmetrical bent legs, two knees lowered, 1.2::two feet planted on floor, arched back::, elongated neck, head turned over shoulder, 1.1::looking backward, 3/4 side profile::, natural anatomy, balanced pose::, 2::white clear background::, dramatic soft lighting, defined muscle shadow",
+    "sourceRange": {
+      "start": 175,
+      "end": 1173
+    },
+    "translations": {
+      "zh": "1.4::回头看向左肩::，1.4::手持黄色蒸汽朋克枪指向斜上方::，\n\n1.4::额头上戴着黄铜蒸汽朋克护目镜::，1.3::超短工装短裤::，短裤，1.4::带有大黄铜齿轮的皮带，带有搭扣和系带的磨损做旧皮靴::，1.3::右手戴棕色皮质露指手套::，\n\n0.8::肌肉线条分明的后背::，大腿露出，\n\n1.2::动态低姿深蹲姿势，动态低角度，坐蹲，躯干扭转::，1.1::腰部扭曲，向后倾斜::，低重心，不对称姿势，\n\n一只手臂向后伸展撑在地面上，伸直的支撑臂，手掌贴地，重心由单手支撑，另一只手臂举过头顶，手放在头上方，\n\n不对称弯曲的双腿，双膝放低，1.2::双脚着地，弓形后背::，修长的颈部，头偏过肩膀，1.1::回头凝视，3/4侧脸轮廓::，自然解剖结构，均衡姿态::，2::纯白干净背景::，戏剧性柔和光照，清晰分明的肌肉阴影",
+      "en": "1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::,\n\n1.4::brass steampunk goggles on forehead::, 1.3::very short cargo pants::, short pants, 1.4::leather belt with large brass cogwheel gear, distressed leather boots with buckles and straps::,1.3::brown leather fingerless glove on right hand::,\n\n0.8::muscular back::, thighs are exposed,\n\n1.2::dynamic low crouching pose, dynamic low angle, seated crouch, torso twisted::, 1.1::waist twisted, leaning backward::, low center of gravity, asymmetrical posture,\n\none arm extended backward to the floor, straight supporting arm, palm planted on floor, weight supported by one hand, other arm raised overhead, hand held above head,\n\nasymmetrical bent legs, two knees lowered, 1.2::two feet planted on floor, arched back::, elongated neck, head turned over shoulder, 1.1::looking backward, 3/4 side profile::, natural anatomy, balanced pose::, 2::white clear background::, dramatic soft lighting, defined muscle shadow"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "蒸汽朋克风格角色低角度单手支撑后仰蹲姿与背部线条插画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

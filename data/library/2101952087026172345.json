@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:29:26.724Z",
+  "model": "unknown-image",
+  "prompt": "[SUBJECT] transformed into a Vibrant Mural Metamorphosis, covering an urban wall with dynamic shapes and colors. Incorporate bold [COLOR1] and [COLOR2] to capture the energy and creativity of street art.",
+  "promptTranslations": {
+    "en": "[SUBJECT] transformed into a Vibrant Mural Metamorphosis, covering an urban wall with dynamic shapes and colors. Incorporate bold [COLOR1] and [COLOR2] to capture the energy and creativity of street art."
+  },
+  "summaryTranslations": {
+    "en": "Prompt template depicting a subject as a vibrant street art mural on an urban wall."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt template depicting a subject as a vibrant street art mural on an urban wall.",
+  "summaryEn": "Prompt template depicting a subject as a vibrant street art mural on an urban wall.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101952087026172345",
+    "canonicalUrl": "https://x.com/LudovicCreator/status/2101952087026172345",
+    "author": {
+      "username": "LudovicCreator",
+      "displayName": "LudovicCreator",
+      "profileUrl": "https://x.com/LudovicCreator"
+    },
+    "publishedAt": "2026-09-21T08:30:04.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "en",
+    "originalText": "🎨 MURAL METAMORPHOSIS 🎨\n\nPrompt  :\n\n[SUBJECT] transformed into a Vibrant Mural Metamorphosis, covering an urban wall with dynamic shapes and colors. Incorporate bold [COLOR1] and [COLOR2] to capture the energy and creativity of street art.\n\nCheck ALTS https://t.co/R7vr7VXhQP",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuiRc0XoAAcHOq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuiRc0XoAAcHOq.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuiRvHXoAAwzd9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuiRvHXoAAwzd9.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuiR5iW4AAdfUX.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuiR5iW4AAdfUX.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuiSHxWYAEx8uH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuiSHxWYAEx8uH.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 28,
+      "repostCount": 5,
+      "replyCount": 6,
+      "quoteCount": 2,
+      "viewCount": 1016
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/LudovicCreator/status/2101952087026172345",
+  "coverUrl": "https://pbs.twimg.com/media/HSuiRc0XoAAcHOq.jpg",
+  "coverPath": "images/2101952087026172345-1.jpg",
+  "imagePaths": [
+    "images/2101952087026172345-1.jpg",
+    "images/2101952087026172345-2.jpg",
+    "images/2101952087026172345-3.jpg",
+    "images/2101952087026172345-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSuiRc0XoAAcHOq",
+    "x-image:/media/HSuiRvHXoAAwzd9",
+    "x-image:/media/HSuiR5iW4AAdfUX",
+    "x-image:/media/HSuiSHxWYAEx8uH",
+    "x-post:2101952087026172345"
+  ],
+  "analysis": {
+    "summary": "Prompt template depicting a subject as a vibrant street art mural on an urban wall.",
+    "summaryEn": "Prompt template depicting a subject as a vibrant street art mural on an urban wall.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images show urban wall murals of animals and a portrait with bold contrasting colors and dynamic street art textures matching the template."
+    },
+    "videoQuality": null,
+    "originalPrompt": "[SUBJECT] transformed into a Vibrant Mural Metamorphosis, covering an urban wall with dynamic shapes and colors. Incorporate bold [COLOR1] and [COLOR2] to capture the energy and creativity of street art.",
+    "sourceRange": {
+      "start": 36,
+      "end": 239
+    },
+    "translations": {
+      "zh": "[主体] 蜕变为充满活力的壁画变形，以动态形状与色彩覆盖城市墙面。融入鲜明强烈的 [颜色1] 与 [颜色2]，展现街头艺术的活力与创意。",
+      "en": "[SUBJECT] transformed into a Vibrant Mural Metamorphosis, covering an urban wall with dynamic shapes and colors. Incorporate bold [COLOR1] and [COLOR2] to capture the energy and creativity of street art."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "street_art_mural",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

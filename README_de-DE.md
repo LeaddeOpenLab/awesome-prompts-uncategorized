@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**416** Prompts · Zuletzt hinzugefügt: **2026-09-21**
+**425** Prompts · Zuletzt hinzugefügt: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,78 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 <a name="category-photography"></a>
 
 ## Fotografie
+
+<a name="prompt-2101838003236962807"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2101838003236962807)
+
+Fotografie · Porträt / Selfie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101838003236962807-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101972762806071784"></a>
+
+### Übersetzung läuft
+
+Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Originalbeitrag](https://x.com/FuguiChen1314/status/2101972762806071784)
+
+Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101972762806071784-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101988560278573259"></a>
+
+### Übersetzung läuft
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2101988560278573259)
+
+Plakat / Flyer · Fotografie · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101988560278573259-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101988560278573259-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2101988560278573259-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2101988560278573259-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101800719636734040"></a>
 
@@ -4204,20 +4276,59 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2101910957022912557"></a>
 
-### Übersetzung läuft
+### Prompt zur Erstellung eines vertikalen 9:16-Storyboard-Werbespots für Sprite Zitronenlimonade mit Kontrolle von Wasserspritzern, Einschenk- und Produktnahaufnahmen.
 
 Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Originalbeitrag](https://x.com/HeyRu0by/status/2101910957022912557)
 
 Comic / Storyboard · Produktmarketing · Kinematisch / Filmstill · Produkt · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt zur Erstellung eines vertikalen 9:16-Storyboard-Werbespots für Sprite Zitronenlimonade mit Kontrolle von Wasserspritzern, Einschenk- und Produktnahaufnahmen.
 
 <img src="covers/2101910957022912557.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen hochmodernen, ultrarealistischen 10-sekündigen Werbespot für das Erfrischungsgetränk Sprite Lemon-Lime im vertikalen 9:16-Format. Verwende das hochgeladene Sprite-Produktbild als exakte Produktreferenz. Bewahre die Originalform der Flasche, die Proportionen, den grünen Verschluss, das Sprite-Logo, das Etikettendesign, die Farben, die Typografie und das Branding. Das Produkt darf nicht neu gestaltet, verzerrt, dupliziert oder verändert werden.
+
+Gesamter Stil:
+Helles sommerliches Tageslicht, frische grüne und blaue Farbpalette, perlende Kohlensäure, realistisches Eis, saftige Zitronen- und Limettenscheiben, energiegeladene Werbefilm-Kinematografie, erstklassige Getränkewerbung, fotorealistisches 4K/8K, gestochen scharfe Makrodetails, realistische Wassertropfen, High-Speed-Flüssigkeitsfotografie, filmische Beleuchtung, geringe Schärfentiefe.
+
+Szene 1 — 0–2s | Frischer Tag
+Eine gekühlte Sprite-Flasche steht heroisch auf einem hellen Tisch im Freien an einem sonnigen Nachmittag. Frische Zitronen- und Limettenscheiben sowie Eis umgeben die Flasche. Sonnenlicht erzeugt wunderschöne Glanzlichter und ein dezentes Lens Flare. Die Kamera fährt langsam auf das Produkt zu.
+Stimmung: Frisch, sonnig, erfrischend.
+
+Szene 2 — 2–5s | Produkt-Makro
+Extremes Nahaufnahme der Sprite-Flasche, bedeckt mit realistischer Kondensation und Wassertropfen. Die Kamera vollzieht eine sanfte, filmische Vorwärtsfahrt auf das Sprite-Logo, während sich Eis und funkelnde Tropfen um die Flasche bewegen.
+Bewegung: Schnelle Makro-Vorwärtsfahrt + Wasserspritzer + Kohlensäurebläschen.
+
+Szene 3 — 5–7s | Lemon-Lime-Spritzer
+Frische Zitronen- und Limettenscheiben durchbrechen sprudelndes kohlensäurehaltiges Wasser in Zeitlupe. Winzige Bläschen, Tropfen und Zitrussaftpartikel fliegen vor einem sauberen blaugrünen Hintergrund durch die Luft.
+Kamera: High-Speed-Makro-Zeitlupe.
+
+Szene 4 — 7–10s | Perfektes Einschenken
+Eiskalte Sprite wird aus der gekühlten Flasche in ein transparentes Glas gegossen, das mit kristallklaren Eiswürfeln gefüllt ist. Die Flüssigkeit erzeugt einen wunderschönen sprudelnden Spritzer, während Bläschen rasch durch das Glas aufsteigen. Zitronen- und Limettenscheiben liegen neben dem Glas.
+Kamera: Ruhige Kameraschwenk-/Tracking-Aufnahme aus seitlichem Winkel.
+
+Szene 5 — 10–13s | Extreme Frische
+Extreme Makroaufnahme von Limettenscheiben, funkelndem Eis, Kohlensäurebläschen und erfrischenden Sprite-Tropfen. Das Licht bricht sich in jedem Wassertropfen und erzeugt ein lebendiges, energiegeladenes Sommerfeeling.
+Bewegung: Zeitlupenspritzer + schwebende Bläschen.
+
+Szene 6 — 13–16s | Produkt-Hero
+Die Sprite-Flasche steht zentriert inmitten von schwebenden Eiswürfeln, Zitronen- und Limettenscheiben sowie funkelnden Tropfen. Der Hintergrund ist hell, frisch und leicht unscharf. Die Flasche bleibt im Bild perfekt scharf und dominant.
+Kamera: Sanfte filmische Kreisbewegung (Orbit) um das Produkt.
+
+Szene 7 — 16–18s | Erfrischender Schluck-Moment
+Nahaufnahme eines transparenten Glases, gefüllt mit eiskalter Sprite, garniert mit frischer Zitrone und Limette. Kohlensäurebläschen steigen kontinuierlich auf, während Sonnenlicht glitzernde Reflexionen auf dem gesamten Glas erzeugt.
+Kamera: Langsames Heranfahren mit subtilen Glitzereffekten.
+
+Szene 8 — 18–20s | Finaler Hero-Shot
+Abschluss mit einer erstklassigen Sprite-Produkt-Hero-Aufnahme. Die exakte Sprite-Flasche steht neben einem gekühlten Glas, umgeben von Eis-, Zitronen- und Limettenscheiben. Frische Wassertropfen bleiben auf der Flasche sichtbar. Helles Sonnenlicht und dezente grün-blaue atmosphärische Effekte erzeugen ein kraftvolles finales Werbebild.
+
+Finales visuelles Gefühl: Kalt. Knackig. Frisch. Erfrischend.
+
+Produkt- und Qualitätsbindung
+Exakte Sprite-Flaschenreferenz. Exaktes Logo und Etikett. Exaktes grünes Branding. Keine veränderten Verpackungen. Keine zusätzlichen Flaschen. Kein verzerrter Text. Keine willkürlichen Logos. Kein Wasserzeichen. Keine Personen. Keine Hände. Keine unrealistische Flüssigkeitsphysik. Halte das Produkt durchgehend scharf und wiedererkennbar.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -6475,6 +6586,34 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 ## Illustration
 
+<a name="prompt-2101985224838299818"></a>
+
+### Übersetzung läuft
+
+Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Originalbeitrag](https://x.com/sha1shashasha/status/2101985224838299818)
+
+Illustration · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101985224838299818-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101985224838299818-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2101985224838299818-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2101985224838299818-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101691757385724297"></a>
 
 ### Ein gemütlicher Aufkleber zum Thema Herbst mit einem lächelnden Mädchen, goldenen Ahornblättern und arabischer Kalligrafie auf weißem Hintergrund.
@@ -7515,6 +7654,56 @@ Erstelle ein vertikales Reise-Kunstplakat im Vorher-Nachher-Vergleich (oben/unte
 
 ## Retro / Vintage
 
+<a name="prompt-2101980767345856601"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2101980767345856601)
+
+Fotografie · Retro / Vintage · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101980767345856601-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101992096857002180"></a>
+
+### Übersetzung läuft
+
+Autor：[@Weilnes](https://x.com/Weilnes) · [Originalbeitrag](https://x.com/Weilnes/status/2101992096857002180)
+
+Plakat / Flyer · Fotografie · Retro / Vintage · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101992096857002180-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101992096857002180-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2101992096857002180-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2101992096857002180-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101823731350065296"></a>
 
 ### Vintage-Halloween-Druckgrafik-Illustration: Geist aus weißem Laken trägt nachts eine geschnitzte Kürbislaterne durch einen unheimlichen Wald.
@@ -8395,22 +8584,100 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2101911381888864305"></a>
+<a name="prompt-2101952087026172345"></a>
 
 ### Übersetzung läuft
+
+Autor：[@LudovicCreator](https://x.com/LudovicCreator) · [Originalbeitrag](https://x.com/LudovicCreator/status/2101952087026172345)
+
+Stadtbild / Straße · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101952087026172345-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101952087026172345-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2101952087026172345-3.jpg" alt="Bild 3" width="480" />
+
+<img src="images/2101952087026172345-4.jpg" alt="Bild 4" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101996518026907755"></a>
+
+### Übersetzung läuft
+
+Autor：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Originalbeitrag](https://x.com/Arzoo12sh/status/2101996518026907755)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2101996518026907755.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101955473520095698"></a>
+
+### Übersetzung läuft
+
+Autor：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2101955473520095698)
+
+Porträt / Selfie · Charakter · Zusammenfassung / Hintergrund · Veröffentlicht
+
+Originalbeitrag：[@boniusex](https://x.com/boniusex) · [Originalbeitrag](https://x.com/boniusex/status/2101938737072746983)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2101955473520095698-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2101955473520095698-2.jpg" alt="Bild 2" width="480" />
+
+<img src="images/2101955473520095698-3.jpg" alt="Bild 3" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2101911381888864305"></a>
+
+### Captain Tsubasa
 
 Autor：[@JorgeRival67623](https://x.com/JorgeRival67623) · [Originalbeitrag](https://x.com/JorgeRival67623/status/2101911381888864305)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Captain Tsubasa
 
 <img src="images/2101911381888864305-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Captain Tsubasa
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -8419,20 +8686,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2101913573085843894"></a>
 
-### Übersetzung läuft
+### Generierungs-Prompt für eine Szene, die einen Geburtstag am 21. September feiert.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2101913573085843894)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generierungs-Prompt für eine Szene, die einen Geburtstag am 21. September feiert.
 
 <img src="covers/2101913573085843894.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Mach es im Stil einer Geburtstagsfeier am 21. September
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -8441,20 +8708,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2101915530101989784"></a>
 
-### Übersetzung läuft
+### Prompt, um die Atmosphäre so zu verändern, dass ein Geburtstag am 21. September gefeiert wird.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2101915530101989784)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt, um die Atmosphäre so zu verändern, dass ein Geburtstag am 21. September gefeiert wird.
 
 <img src="covers/2101915530101989784.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Mache es so, als würde ein Geburtstag am 21. September gefeiert, und ändere die Atmosphäre
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -8463,20 +8730,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2101910971338170857"></a>
 
-### Übersetzung läuft
+### Anweisung zur Generierung einer Szene zur Feier des Tags der Ehrung der Alten am 21. September und eines Geburtstags.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Originalbeitrag](https://x.com/mioarashidaisuk/status/2101910971338170857)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Anweisung zur Generierung einer Szene zur Feier des Tags der Ehrung der Alten am 21. September und eines Geburtstags.
 
 <img src="covers/2101910971338170857.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Gestalte es im Stil einer Feier zum Tag der Ehrung der Alten am 21. September und zum Geburtstag
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -8485,20 +8752,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2101907083436409018"></a>
 
-### Übersetzung läuft
+### Präsentationsszene in der Umkleidekabine eines Dessous-Geschäfts mit zufälliger Kleidung, zufälligen Winkeln und Posen.
 
 Autor：[@Dokislime\_TTV](https://x.com/Dokislime_TTV) · [Originalbeitrag](https://x.com/Dokislime_TTV/status/2101907083436409018)
 
 Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Präsentationsszene in der Umkleidekabine eines Dessous-Geschäfts mit zufälliger Kleidung, zufälligen Winkeln und Posen.
 
 <img src="images/2101907083436409018-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine Szene in der Umkleidekabine eines Dessous-Geschäfts, in der man sich gegenseitig Outfits zeigt. Zufällige Kleidung, zufällige Kamerawinkel und Posen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

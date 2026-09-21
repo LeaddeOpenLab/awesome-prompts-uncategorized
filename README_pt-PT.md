@@ -19,7 +19,7 @@ A Leadde.ai ajuda equipas a transformar documentos, diapositivos e textos em ví
 
 Adicione uma estrela a este repositório para acompanhar a nossa seleção diária de prompts e descobrir novas ideias.
 
-**416** Prompts · Adição mais recente: **2026-09-21**
+**425** Prompts · Adição mais recente: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,78 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 <a name="category-photography"></a>
 
 ## Fotografia
+
+<a name="prompt-2101838003236962807"></a>
+
+### Tradução em curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2101838003236962807)
+
+Fotografia · Retrato / Selfie · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101838003236962807-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101972762806071784"></a>
+
+### Tradução em curso
+
+Autor：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Publicação original](https://x.com/FuguiChen1314/status/2101972762806071784)
+
+Fotografia · Retrato / Selfie · Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101972762806071784-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101988560278573259"></a>
+
+### Tradução em curso
+
+Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2101988560278573259)
+
+Pôster / Folheto · Fotografia · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101988560278573259-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101988560278573259-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101988560278573259-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2101988560278573259-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
 
 <a name="prompt-2101800719636734040"></a>
 
@@ -4192,20 +4264,59 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2101910957022912557"></a>
 
-### Tradução em curso
+### Sprite 柠檬汽水 9:16 竖版分镜头商业广告生成提示词，含水花、倒酒与产品特写镜头控制。
 
 Autor：[@HeyRu0by](https://x.com/HeyRu0by) · [Publicação original](https://x.com/HeyRu0by/status/2101910957022912557)
 
 Banda desenhada / Storyboard · Marketing de Produto · Cena de Cinema / Fotograma · Produto · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Sprite 柠檬汽水 9:16 竖版分镜头商业广告生成提示词，含水花、倒酒与产品特写镜头控制。
 
 <img src="covers/2101910957022912557.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um anúncio sofisticado e ultrarrealista de 10 segundos do refrigerante Sprite Limão-Lima no formato vertical 9:16. Utilize a imagem do produto Sprite carregada como referência exata do produto. Preserve a forma original da garrafa, proporções, tampa verde, logótipo da Sprite, design do rótulo, cores, tipografia e imagem de marca. Não redesenhe, distorça, duplique ou altere o produto.
+
+Estilo Geral:
+Luz do dia brilhante de verão, paleta de cores verde e azul fresca, gaseificação efervescente, gelo realista, fatias suculentas de limão e lima, cinematografia comercial enérgica, publicidade de bebidas premium, fotorrealista em 4K/8K, detalhes macro nítidos, gotas de água realistas, fotografia de líquidos em alta velocidade, iluminação cinematográfica, profundidade de campo reduzida.
+
+Cena 1 — 0–2s | Dia Fresco
+Uma garrafa fresca de Sprite ergue-se heroicamente sobre uma mesa exterior luminosa durante uma tarde soalheira. Fatias frescas de limão e lima e gelo rodeiam a garrafa. A luz solar cria belos reflexos e um subtil reflexo de lente (lens flare). A câmara avança lentamente em direção ao produto.
+Ambiente: Fresco, soalheiro, refrescante.
+
+Cena 2 — 2–5s | Macro do Produto
+Grande plano extremo da garrafa de Sprite coberta por condensação realista e gotas de água. A câmara efetua um avanço suave e cinematográfico em direção ao logótipo da Sprite, enquanto gelo e gotas efervescentes se movem em redor da garrafa.
+Movimento: Avanço macro rápido + salpico de água + bolhas de gaseificação.
+
+Cena 3 — 5–7s | Salpico de Limão-Lima
+Fatias frescas de limão e lima irrompem através de água gaseificada efervescente em câmara lenta. Pequenas bolhas, gotículas e partículas de sumo cítrico voam pelo ar contra um fundo limpo azul-esverdeado.
+Câmara: Câmara lenta macro de alta velocidade.
+
+Cena 4 — 7–10s | O Servir Perfeito
+Sprite fresca é vertida da garrafa refrigerada para um copo transparente repleto de cubos de gelo cristalinos. O líquido cria um belo salpico efervescente, com bolhas a subir rapidamente pelo copo. Fatias de limão e lima repousam ao lado do copo.
+Câmara: Plano de seguimento suave em ângulo lateral.
+
+Cena 5 — 10–13s | Frescura Extrema
+Plano macro extremo de fatias de lima, gelo cintilante, bolhas de gaseificação e gotas refrescantes de Sprite. A luz reflete-se em cada gota de água, criando uma sensação estival vibrante e enérgica.
+Movimento: Salpico em câmara lenta + bolhas flutuantes.
+
+Cena 6 — 13–16s | Herói do Produto
+A garrafa de Sprite surge centrada por entre cubos de gelo flutuantes, fatias de limão e lima e gotas efervescentes. O fundo é luminoso, fresco e ligeiramente desfocado. A garrafa permanece perfeitamente nítida e dominante no enquadramento.
+Câmara: Órbita cinematográfica suave em redor do produto.
+
+Cena 7 — 16–18s | Momento do Gole Refrescante
+Grande plano de um copo transparente repleto de Sprite gelada, decorado com limão e lima frescos. Bolhas de gaseificação sobem continuamente enquanto a luz do sol cria reflexos cintilantes através do copo.
+Câmara: Avanço lento com subtis efeitos de brilho.
+
+Cena 8 — 18–20s | Plano Heroico Final
+Termine com um plano heroico premium do produto Sprite. A garrafa exata de Sprite está ao lado de um copo fresco, rodeada por gelo e fatias de limão e lima. Gotas de água fresca permanecem visíveis na garrafa. A luz solar brilhante e os subtis efeitos atmosféricos verdes/azuis criam um enquadramento comercial final de grande impacto.
+
+Sensação visual final: Frio. Nítido. Fresco. Refrescante.
+
+Bloqueio de Produto e Qualidade
+Referência exata da garrafa de Sprite. Logótipo e rótulo exatos. Imagem de marca verde exata. Nenhuma embalagem alterada. Sem garrafas adicionais. Sem texto distorcido. Sem logótipos aleatórios. Sem marcas de água. Sem pessoas. Sem mãos. Sem física de líquidos irrealista. Mantenha o produto nítido e reconhecível ao longo de todo o vídeo.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -6496,6 +6607,34 @@ Luffy afaga com ternura a cabeça de Anya, Anya atira-se para os seus braços, e
 
 ## Ilustração
 
+<a name="prompt-2101985224838299818"></a>
+
+### Tradução em curso
+
+Autor：[@sha1shashasha](https://x.com/sha1shashasha) · [Publicação original](https://x.com/sha1shashasha/status/2101985224838299818)
+
+Ilustração · Personagem · Resumo / Contexto · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101985224838299818-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101985224838299818-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101985224838299818-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2101985224838299818-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101691757385724297"></a>
 
 ### Um autocolante acolhedor com tema de outono que apresenta uma rapariga a sorrir, folhas de ácer douradas e caligrafia árabe sobre um fundo branco.
@@ -7536,6 +7675,56 @@ Crie um cartaz artístico de viagem vertical com comparação superior e inferio
 
 ## Retrô / Vintage
 
+<a name="prompt-2101980767345856601"></a>
+
+### Tradução em curso
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Publicação original](https://x.com/DDJCXX/status/2101980767345856601)
+
+Fotografia · Retrô / Vintage · Retrato / Selfie · Personagem · Item de Moda · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101980767345856601-1.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101992096857002180"></a>
+
+### Tradução em curso
+
+Autor：[@Weilnes](https://x.com/Weilnes) · [Publicação original](https://x.com/Weilnes/status/2101992096857002180)
+
+Pôster / Folheto · Fotografia · Retrô / Vintage · Arquitetura / Interiores · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101992096857002180-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101992096857002180-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101992096857002180-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2101992096857002180-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
 <a name="prompt-2101823731350065296"></a>
 
 ### Ilustração estilo gravura vintage de Halloween: fantasma de lençol branco carregando uma abóbora esculpida através de uma floresta sinistra à noite.
@@ -8406,22 +8595,100 @@ Tradução em curso
 
 ## Outros
 
-<a name="prompt-2101911381888864305"></a>
+<a name="prompt-2101952087026172345"></a>
 
 ### Tradução em curso
+
+Autor：[@LudovicCreator](https://x.com/LudovicCreator) · [Publicação original](https://x.com/LudovicCreator/status/2101952087026172345)
+
+Paisagem urbana / Rua · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101952087026172345-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101952087026172345-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101952087026172345-3.jpg" alt="Imagem 3" width="480" />
+
+<img src="images/2101952087026172345-4.jpg" alt="Imagem 4" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101996518026907755"></a>
+
+### Tradução em curso
+
+Autor：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Publicação original](https://x.com/Arzoo12sh/status/2101996518026907755)
+
+Personagem · Publicado
+
+**Resumo:** Tradução em curso
+
+<img src="covers/2101996518026907755.jpg" alt="Imagem 1" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101955473520095698"></a>
+
+### Tradução em curso
+
+Autor：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2101955473520095698)
+
+Retrato / Selfie · Personagem · Resumo / Contexto · Publicado
+
+Publicação original：[@boniusex](https://x.com/boniusex) · [Publicação original](https://x.com/boniusex/status/2101938737072746983)
+
+**Resumo:** Tradução em curso
+
+<img src="images/2101955473520095698-1.jpg" alt="Imagem 1" width="480" />
+
+<img src="images/2101955473520095698-2.jpg" alt="Imagem 2" width="480" />
+
+<img src="images/2101955473520095698-3.jpg" alt="Imagem 3" width="480" />
+
+**Prompt**
+
+```text
+Tradução em curso
+```
+
+[↑ Voltar às categorias](#catalog)
+
+---
+
+<a name="prompt-2101911381888864305"></a>
+
+### Capitão Tsubasa
 
 Autor：[@JorgeRival67623](https://x.com/JorgeRival67623) · [Publicação original](https://x.com/JorgeRival67623/status/2101911381888864305)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Capitão Tsubasa
 
 <img src="images/2101911381888864305-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Capitão Tsubasa
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -8430,20 +8697,20 @@ Tradução em curso
 
 <a name="prompt-2101913573085843894"></a>
 
-### Tradução em curso
+### Prompt de geração para uma cena a celebrar um aniversário a 21 de setembro.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicação original](https://x.com/mioarashidaisuk/status/2101913573085843894)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de geração para uma cena a celebrar um aniversário a 21 de setembro.
 
 <img src="covers/2101913573085843894.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Faz no estilo de celebração de aniversário do dia 21 de setembro
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -8452,20 +8719,20 @@ Tradução em curso
 
 <a name="prompt-2101915530101989784"></a>
 
-### Tradução em curso
+### Prompt para alterar a atmosfera para celebrar um aniversário a 21 de setembro.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicação original](https://x.com/mioarashidaisuk/status/2101915530101989784)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para alterar a atmosfera para celebrar um aniversário a 21 de setembro.
 
 <img src="covers/2101915530101989784.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Faz ao estilo de celebração de aniversário a 21 de setembro, muda a atmosfera
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -8474,20 +8741,20 @@ Tradução em curso
 
 <a name="prompt-2101910971338170857"></a>
 
-### Tradução em curso
+### Instruções para gerar uma cena de celebração do Dia do Respeito pelos Idosos e de aniversário a 21 de setembro.
 
 Autor：[@mioarashidaisuk](https://x.com/mioarashidaisuk) · [Publicação original](https://x.com/mioarashidaisuk/status/2101910971338170857)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Instruções para gerar uma cena de celebração do Dia do Respeito pelos Idosos e de aniversário a 21 de setembro.
 
 <img src="covers/2101910971338170857.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Faça ao estilo de uma celebração do Dia do Respeito pelos Idosos a 21 de setembro e de um aniversário
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -8496,20 +8763,20 @@ Tradução em curso
 
 <a name="prompt-2101907083436409018"></a>
 
-### Tradução em curso
+### Cena de exibição no provador de uma loja de lingerie com roupas, ângulos e poses aleatórios.
 
 Autor：[@Dokislime\_TTV](https://x.com/Dokislime_TTV) · [Publicação original](https://x.com/Dokislime_TTV/status/2101907083436409018)
 
 Item de Moda · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Cena de exibição no provador de uma loja de lingerie com roupas, ângulos e poses aleatórios.
 
 <img src="images/2101907083436409018-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma cena no provador de uma loja de lingerie onde mostram as roupas uns aos outros. Roupas aleatórias, ângulos de câmara e poses aleatórias.
 ```
 
 [↑ Voltar às categorias](#catalog)

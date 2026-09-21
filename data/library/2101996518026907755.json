@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:28:53.618Z",
+  "model": "unknown-video",
+  "prompt": "A stylish young woman sits comfortably on a vibrant, colorful balloon-style sofa in a bright minimalist modern living room. Large windows allow warm natural sunlight to fill the room. Suddenly, the sofa slowly begins to float a few inches above the floor, creating a surprising and magical moment. After hovering briefly, the balloon-style sofa dramatically bursts apart into a beautiful cloud of colorful sparkling confetti and tiny glass-like fragments. The particles spread naturally through the air in slow motion, catching the sunlight and creating realistic reflections. The woman reacts naturally with slight surprise while remaining safe and unharmed. The colorful particles gently fall toward the floor, and the sofa settles gracefully back into place. Realistic physics, smooth floating motion, detailed particle simulation, cinematic lighting, natural shadows, high-frame-rate slow motion, photorealistic textures, dynamic camera movement, realistic depth of field, ultra-detailed, seamless motion, 4K cinematic video quality.",
+  "promptTranslations": {
+    "en": "A stylish young woman sits comfortably on a vibrant, colorful balloon-style sofa in a bright minimalist modern living room. Large windows allow warm natural sunlight to fill the room. Suddenly, the sofa slowly begins to float a few inches above the floor, creating a surprising and magical moment. After hovering briefly, the balloon-style sofa dramatically bursts apart into a beautiful cloud of colorful sparkling confetti and tiny glass-like fragments. The particles spread naturally through the air in slow motion, catching the sunlight and creating realistic reflections. The woman reacts naturally with slight surprise while remaining safe and unharmed. The colorful particles gently fall toward the floor, and the sofa settles gracefully back into place. Realistic physics, smooth floating motion, detailed particle simulation, cinematic lighting, natural shadows, high-frame-rate slow motion, photorealistic textures, dynamic camera movement, realistic depth of field, ultra-detailed, seamless motion, 4K cinematic video quality."
+  },
+  "summaryTranslations": {
+    "en": "A prompt describing a woman sitting on a balloon sofa that floats and bursts into confetti."
+  },
+  "translationVersion": 2,
+  "summary": "A prompt describing a woman sitting on a balloon sofa that floats and bursts into confetti.",
+  "summaryEn": "A prompt describing a woman sitting on a balloon sofa that floats and bursts into confetti.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101996518026907755",
+    "canonicalUrl": "https://x.com/Arzoo12sh/status/2101996518026907755",
+    "author": {
+      "username": "Arzoo12sh",
+      "displayName": "Arzoo Ai",
+      "profileUrl": "https://x.com/Arzoo12sh"
+    },
+    "publishedAt": "2026-09-21T11:26:37.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "en",
+    "originalText": "1️⃣Video Prompt:\nA stylish young woman sits comfortably on a vibrant, colorful balloon-style sofa in a bright minimalist modern living room. Large windows allow warm natural sunlight to fill the room. Suddenly, the sofa slowly begins to float a few inches above the floor, creating a surprising and magical moment. After hovering briefly, the balloon-style sofa dramatically bursts apart into a beautiful cloud of colorful sparkling confetti and tiny glass-like fragments. The particles spread naturally through the air in slow motion, catching the sunlight and creating realistic reflections. The woman reacts naturally with slight surprise while remaining safe and unharmed. The colorful particles gently fall toward the floor, and the sofa settles gracefully back into place. Realistic physics, smooth floating motion, detailed particle simulation, cinematic lighting, natural shadows, high-frame-rate slow motion, photorealistic textures, dynamic camera movement, realistic depth of field, ultra-detailed, seamless motion, 4K cinematic video quality.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Arzoo12sh/status/2101996518026907755",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2101996100194590720/img/YR0WVvl_IjozOXxm.jpg",
+        "analysisUrl": "https://x.com/Arzoo12sh/status/2101996518026907755"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvKUPcaAAAqOfE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvKUPcaAAAqOfE.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvKUPRakAALv0-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvKUPRakAALv0-.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvKUPbbEAAtP2v.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvKUPbbEAAtP2v.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 7,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 451
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Arzoo12sh/status/2101996518026907755",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2101996100194590720/img/YR0WVvl_IjozOXxm.jpg",
+  "coverPath": "covers/2101996518026907755.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2101996100194590720",
+    "x-image:/media/HSvKUPcaAAAqOfE",
+    "x-image:/media/HSvKUPRakAALv0-",
+    "x-image:/media/HSvKUPbbEAAtP2v",
+    "x-post:2101996518026907755"
+  ],
+  "analysis": {
+    "summary": "A prompt describing a woman sitting on a balloon sofa that floats and bursts into confetti.",
+    "summaryEn": "A prompt describing a woman sitting on a balloon sofa that floats and bursts into confetti.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video demonstrates the exact sequence: a woman on a balloon sofa floating up and bursting into colorful particles."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A stylish young woman sits comfortably on a vibrant, colorful balloon-style sofa in a bright minimalist modern living room. Large windows allow warm natural sunlight to fill the room. Suddenly, the sofa slowly begins to float a few inches above the floor, creating a surprising and magical moment. After hovering briefly, the balloon-style sofa dramatically bursts apart into a beautiful cloud of colorful sparkling confetti and tiny glass-like fragments. The particles spread naturally through the air in slow motion, catching the sunlight and creating realistic reflections. The woman reacts naturally with slight surprise while remaining safe and unharmed. The colorful particles gently fall toward the floor, and the sofa settles gracefully back into place. Realistic physics, smooth floating motion, detailed particle simulation, cinematic lighting, natural shadows, high-frame-rate slow motion, photorealistic textures, dynamic camera movement, realistic depth of field, ultra-detailed, seamless motion, 4K cinematic video quality.",
+    "sourceRange": {
+      "start": 17,
+      "end": 1054
+    },
+    "translations": {
+      "zh": "一位时尚年轻女性坐在明亮现代简约客厅里的气球造型沙发上。房间阳光充足。沙发突然开始浮空数英寸。短暂停留后，气球沙发碎裂成绚丽的碎屑和玻璃微粒并在空中慢速飞散。女性略带惊喜且安全无恙。碎屑落下，沙发恢复原状。写实物理、慢动作和4K画质。",
+      "en": "A stylish young woman sits comfortably on a vibrant, colorful balloon-style sofa in a bright minimalist modern living room. Large windows allow warm natural sunlight to fill the room. Suddenly, the sofa slowly begins to float a few inches above the floor, creating a surprising and magical moment. After hovering briefly, the balloon-style sofa dramatically bursts apart into a beautiful cloud of colorful sparkling confetti and tiny glass-like fragments. The particles spread naturally through the air in slow motion, catching the sunlight and creating realistic reflections. The woman reacts naturally with slight surprise while remaining safe and unharmed. The colorful particles gently fall toward the floor, and the sofa settles gracefully back into place. Realistic physics, smooth floating motion, detailed particle simulation, cinematic lighting, natural shadows, high-frame-rate slow motion, photorealistic textures, dynamic camera movement, realistic depth of field, ultra-detailed, seamless motion, 4K cinematic video quality."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI video generation of a magical balloon sofa floating and bursting into confetti.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**416** Prompts · Latest addition: **2026-09-21**
+**425** Prompts · Latest addition: **2026-09-21**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,98 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2101838003236962807"></a>
+
+### Prompt for a CCD flash snapshot of four East Asian women wrapped in down duvets on a hotel bed with a night view.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2101838003236962807)
+
+Photography · Portrait / Selfie · Published
+
+**Summary:** Prompt for a CCD flash snapshot of four East Asian women wrapped in down duvets on a hotel bed with a night view.
+
+<img src="images/2101838003236962807-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic nighttime hotel bedroom group snapshot photography, vertical aspect ratio around 3:4. Four distinctly adult East Asian women, 20s, semi-reclining or lying on their stomachs on a large bed covered with a white down duvet, nestled very close together, like a casual group photo snapped in a high-rise hotel room after a late-night party. The photographer is positioned directly in front of the foot of the bed about 1–1.5 meters away, using a 28–35mm equivalent lens + direct frontal flash; subjects are framed mainly from the shoulders to the upper body, with white bedding occupying the lower half of the frame.
+
+All four have their bodies wrapped in white down duvets / bedsheets, exposing only their shoulders, necks, collarbones, arms, and parts of their upper backs, maintaining complete natural coverage with no explicit nudity. Their poses vary yet they remain closely huddled together:
+
+Foreground center woman is closest to the lens, lying on her stomach and slightly turned toward the left side, arms hidden inside the duvet, shoulders and upper back exposed, head turned back looking into the camera. She has dark brownish-black, ultra-long slightly wavy hair with light wispy bangs; her hair spills extensively across her back and the white bedding, with quiet eyes and a subtle gentle smile on her lips.
+
+Right foreground woman is lying on her side on the bed, propping her cheek with one hand, head tilted slightly looking at the camera, with jet-black medium-long loose updo / wispy hair strands, sporting a soft expression.
+
+Left background woman is leaning near the pillows, shoulders wrapped in a white bedsheet, holding a slender champagne flute near the side of her face with her right hand, slightly messy dark brown medium-length hair, smiling at the camera.
+
+Right background woman is semi-seated near the headboard area, body turned back toward the camera, jet-black hair tied up loosely, shoulders wrapped in white bedding, with a relaxed, natural expression.
+
+The setting is a high-rise luxury hotel night-view bedroom. The entire floor-to-ceiling window behind shows a dense city nightscape, office building lights, and scattered red aviation obstruction lights; the interior features dark brown wood paneling, warm yellow bedside lamps, and beige upholstered furniture. A small side table in the right background holds champagne bottles, slender glasses, and a few party remnants, enhancing the realistic atmosphere of an ended late-night gathering.
+
+Lighting uses a compact digital camera direct frontal flash combined with warm hotel ambient lighting. The subjects' faces, shoulders, necks, and white bedding are distinctly illuminated, with skin showing subtle dewy highlights; the background falls off quickly into darkness, with city lights forming scattered points of light. The white duvet is slightly overexposed but still retains fabric folds and creases.
+
+Overall aesthetic presents a 2000s–2010s high-rise hotel late-night party CCD / digital camera snapshot texture: slight grain, limited dynamic range, harsh direct flash, warm fair skin tones, subtle JPEG artifacts, no modern HDR or commercial studio photography look.
+
+Key focus: four adult East Asian women + wrapped in white down duvets + close group photo on a high-rise hotel bed + foreground woman with long wavy hair looking back at the camera + right-side woman resting chin in hand + left background woman holding champagne flute + floor-to-ceiling window with city nightscape + warm yellow lamp + champagne bottle and flutes + direct frontal flash + late-night party snapshot.
+
+Avoid: explicit nudity, visible underwear, incorrect number of people, daytime, ordinary residential apartment, photo studio, sitting neatly in a row, heavy makeup, anime face, CG look, plastic skin, extra limbs, watermarks, and garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101972762806071784"></a>
+
+### Realistic photo prompt of a young East Asian woman opening the door to welcome a visitor.
+
+Author：[@FuguiChen1314](https://x.com/FuguiChen1314) · [Source](https://x.com/FuguiChen1314/status/2101972762806071784)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Realistic photo prompt of a young East Asian woman opening the door to welcome a visitor.
+
+<img src="images/2101972762806071784-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+9:16 medium shot, guy's POV, East Asian female mature around 24 years old, small face with plump cheeks, double eyelids, large moist eyes, delicate eyebrows, small nose bridge, moist cherry lips with a pursed-lip smile, fair and even skin with slightly blushed cheeks, straight black hair in a high ponytail with wispy bangs. Expression: just opened the door and saw him, both shy and happy, looking at the camera as if looking at the person who came to pick her up.\nApartment foyer at night. Beige silk slip dress, draped with a light beige cardigan. She stands inside the doorway, holding a bag in one hand, body facing the camera. Candid, not posing.\nCamera angle from the perspective of someone standing at the door, chest level, 35mm, distance about 1.2 meters, subject takes up about 65% of the frame, cropped from hair to mid-thigh, face slightly to the right. Hallway light is golden and blurred.\nFoyer lighting is low-key and even. Color proportion about 36% skin tone, 22% beige, 18% light beige, 24% hallway. Realistic photo snapshot.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101988560278573259"></a>
+
+### Convert a real Japan travel photo into a top-and-bottom comparison poster with the photo on top and a handcrafted 3D textile embroidery collage on the bottom.
+
+Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2101988560278573259)
+
+Poster / Flyer · Photography · Published
+
+**Summary:** Convert a real Japan travel photo into a top-and-bottom comparison poster with the photo on top and a handcrafted 3D textile embroidery collage on the bottom.
+
+<img src="images/2101988560278573259-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101988560278573259-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101988560278573259-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2101988560278573259-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Create a vertical 3:4 top-and-bottom comparison travel transformation poster in the style of 'FUJI TEXTILE TRAVEL | Fuji Textile Patchwork Travel Style'. The top half completely preserves the input real Japan travel photograph: maintaining the original photo's location subjects, count, composition, perspective, viewing angle, spatial relationships, and natural colors, with only subtle publication color grading; the photograph must be clearly discernible and must not become an illustration or small thumbnail. A restrained, thin white dividing line sits in the middle. The bottom half reconstructs the same scene into a handcrafted textile collage with tangible thickness, neither a photo filter nor a flat vector illustration. Using an off-white coarse woven fabric as the base, strictly map element-by-element from the original photograph: mountains, lakes, torii gates, temples, streets, buildings, vehicles, people, trees, or sky are respectively converted into layered fabric scraps, felt, suede fibers, embroidery threads, chain stitches, and sparse small bead embellishments; do not fabricate elements that do not exist in the photo out of thin air. Water surfaces and roads use continuous curved or parallel stitch lines to express direction, mountains and buildings use layered fabric edges with visible thickness to convey volumetric mass, and window frames, eaves, torii crossbeams, and human silhouettes use fine stitches to maintain recognizability. Materials must exhibit hand-sewn undulations, needle holes, frayed fiber edges, layered cast shadows, and localized raised relief, forming a tactile 3D textile model. The bottom half retains the primary contours, subject count, and spatial relationships of the original image, but allows splitting, scaling down, offsetting, and rearranging subjects with negative space, avoiding an identical isomorphic and identically dense replication of the top half. Colors are distilled from the photo into a limited palette of 4 to 7 hues, varying with each original photo rather than adhering strictly to a Mount Fuji blue-and-red palette. Retain sufficient negative space of the off-white coarse woven fabric to allow the textile components and background room to breathe. Do not add text, location names, logos, watermarks, AI badges, or original image corner marks; no plastic, metal, glass, 3D game assets, purely flat cartoons, photo collages, uniform mosaic filters, unrelated landmarks, faux Chinese characters, or garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101800719636734040"></a>
 
@@ -8156,6 +8248,44 @@ Comic / Storyboard · Anime / Manga · Published
 
 ## Illustration
 
+<a name="prompt-2101985224838299818"></a>
+
+### 1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::, steampunk goggles, dynamic crouching pose with one arm planted on floor against white background.
+
+Author：[@sha1shashasha](https://x.com/sha1shashasha) · [Source](https://x.com/sha1shashasha/status/2101985224838299818)
+
+Illustration · Character · Abstract / Background · Published
+
+**Summary:** 1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::, steampunk goggles, dynamic crouching pose with one arm planted on floor against white background.
+
+<img src="images/2101985224838299818-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101985224838299818-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101985224838299818-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2101985224838299818-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+1.4::looking back over left shoulder::, 1.4::holding yellow steampunk gun pointing up::,
+
+1.4::brass steampunk goggles on forehead::, 1.3::very short cargo pants::, short pants, 1.4::leather belt with large brass cogwheel gear, distressed leather boots with buckles and straps::,1.3::brown leather fingerless glove on right hand::,
+
+0.8::muscular back::, thighs are exposed,
+
+1.2::dynamic low crouching pose, dynamic low angle, seated crouch, torso twisted::, 1.1::waist twisted, leaning backward::, low center of gravity, asymmetrical posture,
+
+one arm extended backward to the floor, straight supporting arm, palm planted on floor, weight supported by one hand, other arm raised overhead, hand held above head,
+
+asymmetrical bent legs, two knees lowered, 1.2::two feet planted on floor, arched back::, elongated neck, head turned over shoulder, 1.1::looking backward, 3/4 side profile::, natural anatomy, balanced pose::, 2::white clear background::, dramatic soft lighting, defined muscle shadow
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2101691757385724297"></a>
 
 ### A cozy autumn-themed sticker featuring a smiling girl, golden maple leaves, and Arabic calligraphy on a white background.
@@ -9200,6 +9330,85 @@ Create a vertical top-and-bottom comparison travel transformation poster. The to
 <a name="category-retro-vintage"></a>
 
 ## Retro / Vintage
+
+<a name="prompt-2101980767345856601"></a>
+
+### Photorealistic Paris street night photography, phone flash snapshot style of an adult East Asian woman in a vintage tank top and low-rise jeans.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2101980767345856601)
+
+Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** Photorealistic Paris street night photography, phone flash snapshot style of an adult East Asian woman in a vintage tank top and low-rise jeans.
+
+<img src="images/2101980767345856601-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hyper-realistic urban street night photography, vertical orientation approximately 9:16. An unmistakably adult East Asian woman, 20+, standing near the center of a historic European old town street, captured in a candid smartphone snapshot. The camera is about 1 meter away from the subject, shot with a 28–35mm mobile wide-angle lens from slightly below eye level. Framing covers from head to slightly below the waist, occupying the center of the frame while preserving a substantial amount of the urban architectural background.
+
+The overall aura of the subject is cool, chic fashion street-style. Her body maintains natural adult female proportions: moderate shoulders, a well-defined waistline, and natural body contours, not exaggeratedly skinny.
+
+She has a natural standing posture, body turned slightly toward the camera, hands resting naturally at her sides or casually slipped into her jeans pockets. Her head is slightly tilted up, lips softly pouting, eyes looking directly into the camera lens with a hint of nonchalant, languid street-fashion coolness.
+
+She has extra-long, straight, dark brown-black hair that is smooth and thick, reaching below her chest, with sections naturally draping over the front of her shoulders. Makeup leans toward Western street-style: sleek elongated black eyeliner, slightly deep eyeshadow, natural highlighter, and pale pinkish-nude lip gloss on her lips.
+
+Wearing a pair of black narrow-frame rectangular fashion glasses with subtle lens reflections, accentuating a Y2K urban trendy vibe. Her ears are adorned with minimalist metallic hoop earrings, and around her neck is a thin chain with a cross pendant necklace.
+
+Her top is a white slim-fit sleeveless tank top hugging her body curves, printed on the chest with black vintage English typography and graphic elements reminiscent of street brand prints, slightly distressed. The length reaches around the waist, revealing a small glimpse of midriff.
+
+On the bottom, she wears dark blue low-rise jeans; the denim features natural fading, washed textures, and subtle distressed details, with a low waistband complemented by a metal buckle and belt accents.
+
+She wears a gold watch or metallic accessories on her wrist, creating an overall look leaning toward 2000s Western street fashion.
+
+The setting is a nighttime street in Paris / a European historic old town. On the left side of the background stands a classic stone building with light-gray stone walls, arched windows, and prominent traditional European facade details; on the right side extends a row of plane trees and street lamps. In the far distance at the street corner, there are warm yellow shop lights and blurred silhouettes of pedestrians.
+
+The road is an empty urban street with asphalt bearing subtle reflections, where the architecture and trees form deep vanishing perspective. No modern skyscrapers in the background; maintain the historic European quarter atmosphere.
+
+Lighting adopts a twilight blue hour + warm street lamp glow + subtle phone flash fill-light. The subject's face is crisp and bright, while the background preserves natural shadow gradations; the flash creates slightly edgy, crisp highlights, similar to Instagram / Xiaohongshu street style.
+
+Overall presentation:
+Authentic phone street snap, Paris night walk, 2000s fashion magazine aesthetic, subtle CCD digital camera texture, natural grain, authentic skin texture, low-saturation cinematic color grading.
+
+Key focuses:
+Adult East Asian woman + extra-long dark straight hair + black narrow-frame glasses + metallic earrings + cross necklace + white vintage graphic tank top + low-rise dark blue jeans + European historic architectural street + blue hour night + warm street lamps + phone flash street snap.
+
+Avoid:
+Over-smoothed skin, commercial studio shoot, heavy background blur / bokeh, anime face, CG look, plastic skin, exaggerated body proportions, modern commercial strip, neon nightclub, misspelled text, watermarks, phone screenshot UI.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101992096857002180"></a>
+
+### Transform an architectural photo into a vertically split halftone vintage collage poster, preserving real photography on top and reconstructing it below with torn paper grids, ASCII characters, and vintage printing.
+
+Author：[@Weilnes](https://x.com/Weilnes) · [Source](https://x.com/Weilnes/status/2101992096857002180)
+
+Poster / Flyer · Photography · Retro / Vintage · Architecture / Interior · Published
+
+**Summary:** Transform an architectural photo into a vertically split halftone vintage collage poster, preserving real photography on top and reconstructing it below with torn paper grids, ASCII characters, and vintage printing.
+
+<img src="images/2101992096857002180-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101992096857002180-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101992096857002180-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2101992096857002180-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+Turn this structure photo into a single high-end halftone architectural travel-collage poster. Output one poster per uploaded photo — never merge multiple structures or photos into one frame. FORMAT: 3:4 vertical canvas. Split into two roughly equal zones — real architectural photo on top, printed reconstruction below — divided by one clean, sharp horizontal line. Do not stretch, warp, tilt, or unnaturally reposition the structure. TOP HALF — THE REAL SHOT: Preserve the original structure faithfully: same architecture, proportions, perspective, distinctive details, surrounding elements, natural light and shadow, and original color mood. Add only a subtle high-end color grade and the faintest film grain. BOTTOM HALF — THE PRINTED RECONSTRUCTION: Rebuild the same structure as an experimental printed architectural collage using torn photographic fragments + fixed-width ASCII character fields + photocopy halftone dots + architectural linework. The structure must remain immediately recognizable. Texture: rough white paper-fiber edges, subtle photocopy imperfections, slight print misregistration, faded ink, old-paper stains, a few restrained crop marks, and one small red calibration bar. Color: warm gray old-paper background + black ink + the structure’s original muted colors + a single restrained red accent. Leave 22–38% of the paper visibly untouched. TYPOGRAPHY — all visible text in French only: [NOM DU MONUMENT] / [VILLE, PAYS] / ÉTUDE ARCH. 0N / short French observational caption. Mood: early digital systems × analog photocopy × architectural archive × underground zine × modern travel editorial. Avoid: solid black terminal backgrounds, cyberpunk neon, excessive ASCII, distorted architecture, English text, logos, watermarks. Subjects: Tour Eiffel (Paris), Sagrada Família (Barcelone), Taj Mahal (Agra), Mont Saint-Michel (Normandie).
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101823731350065296"></a>
 
@@ -10296,6 +10505,97 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2101952087026172345"></a>
+
+### Prompt template depicting a subject as a vibrant street art mural on an urban wall.
+
+Author：[@LudovicCreator](https://x.com/LudovicCreator) · [Source](https://x.com/LudovicCreator/status/2101952087026172345)
+
+Cityscape / Street · Published
+
+**Summary:** Prompt template depicting a subject as a vibrant street art mural on an urban wall.
+
+<img src="images/2101952087026172345-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101952087026172345-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101952087026172345-3.jpg" alt="Image 3" width="480" />
+
+<img src="images/2101952087026172345-4.jpg" alt="Image 4" width="480" />
+
+**Prompt**
+
+```text
+[SUBJECT] transformed into a Vibrant Mural Metamorphosis, covering an urban wall with dynamic shapes and colors. Incorporate bold [COLOR1] and [COLOR2] to capture the energy and creativity of street art.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101996518026907755"></a>
+
+### A prompt describing a woman sitting on a balloon sofa that floats and bursts into confetti.
+
+Author：[@Arzoo12sh](https://x.com/Arzoo12sh) · [Source](https://x.com/Arzoo12sh/status/2101996518026907755)
+
+Character · Published
+
+**Summary:** A prompt describing a woman sitting on a balloon sofa that floats and bursts into confetti.
+
+<img src="covers/2101996518026907755.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A stylish young woman sits comfortably on a vibrant, colorful balloon-style sofa in a bright minimalist modern living room. Large windows allow warm natural sunlight to fill the room. Suddenly, the sofa slowly begins to float a few inches above the floor, creating a surprising and magical moment. After hovering briefly, the balloon-style sofa dramatically bursts apart into a beautiful cloud of colorful sparkling confetti and tiny glass-like fragments. The particles spread naturally through the air in slow motion, catching the sunlight and creating realistic reflections. The woman reacts naturally with slight surprise while remaining safe and unharmed. The colorful particles gently fall toward the floor, and the sofa settles gracefully back into place. Realistic physics, smooth floating motion, detailed particle simulation, cinematic lighting, natural shadows, high-frame-rate slow motion, photorealistic textures, dynamic camera movement, realistic depth of field, ultra-detailed, seamless motion, 4K cinematic video quality.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2101955473520095698"></a>
+
+### Prompt for generating a front-facing bareheaded half-body portrait on a pure white background based on reference images while maintaining consistent facial features and identity.
+
+Author：[@boniusex](https://x.com/boniusex) · [Source](https://x.com/boniusex/status/2101955473520095698)
+
+Portrait / Selfie · Character · Abstract / Background · Published
+
+Source：[@boniusex](https://x.com/boniusex) · [Source](https://x.com/boniusex/status/2101938737072746983)
+
+**Summary:** Prompt for generating a front-facing bareheaded half-body portrait on a pure white background based on reference images while maintaining consistent facial features and identity.
+
+<img src="images/2101955473520095698-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101955473520095698-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101955473520095698-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+Image 1: Character facial reference, use this person's face as is
+Image 2 (if any): Reference for hairstyle, clothing, accessories
+
+[Generated Content]
+Generate the character from Image 1 as a front-facing, bareheaded, half-body portrait photo, face looking directly at the camera, soft frontal lighting, minimal shadows, pure white background.
+
+[Must Retain]
+The identity of the character in Image 1 must remain completely identical, kept unchanged item by item: facial contour, cheekbones and jawline, eye shape and size, eyelid type, interpupillary distance, eyebrow thickness and direction, radix/nose bridge starting height, nose bridge width, nose tip shape, philtrum length, lip shape and thickness, chin shape, perceived age, skin tone and skin texture.
+Hairstyle, hair color, hair length, accessories, and clothing should be retained exactly as in Image 1 (or as in Image 2 if Image 2 is provided).
+Color casts in the reference images caused by backlighting, warm lighting, or filters are not to be taken as the actual hair or skin color; restore them to their true colors under neutral lighting.
+If the reference image is a real photo, output a real photo; if it is an illustration, maintain the same illustration style.
+
+[Forbidden]
+Must not turn into another person. Must not beautify, slim the face, enlarge the eyes, elongate the legs, make younger, or smooth the skin. Must not add facial features not present in Image 1. Must not add text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101911381888864305"></a>
 

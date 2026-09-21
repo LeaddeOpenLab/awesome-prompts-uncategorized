@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:27:51.761Z",
+  "model": "unknown-image",
+  "prompt": "超写实城市街头夜景摄影，竖版约 9:16。一名明确成年的东亚女性，20+，站在欧洲老城区街道中央附近，被手机抓拍。摄影机距离人物约 1 米，采用 28–35mm 手机广角镜头，略低于眼睛高度拍摄，人物从头部到腰部偏下位置，占据画面中央，保留大量城市建筑背景。\n\n人物整体气质为冷感时尚街拍风。身材保持自然成年女性比例：肩部适中，腰线清晰，身体线条自然，不夸张瘦削。\n\n人物站姿自然，身体略微朝镜头方向转动，双手自然放在身体两侧或轻轻插入牛仔裤口袋。头部微微抬起，嘴唇轻微嘟起，眼神直接看向镜头，带一点冷淡、慵懒的街头时尚感。\n\n人物留深棕黑色超长直发，发丝顺滑浓密，长度到胸口以下，部分头发自然落在肩前。妆容偏欧美街拍风：细长黑色眼线、略深眼影、自然高光，嘴唇带淡粉裸色唇釉。\n\n佩戴一副黑色窄框矩形时尚眼镜，镜片略有反光，增加 Y2K 都市潮流感。耳朵佩戴简约金属圆环耳饰，脖子戴一条细链十字架项链。\n\n上身穿白色修身无袖背心 / tank top，贴合身体曲线，胸前印有黑色复古英文排版文字和图形元素，文字像街头品牌印花，略有做旧感。衣服长度到腰部附近，露出少量腰腹。\n\n下身穿深蓝色低腰牛仔裤，牛仔布有自然褪色、水洗纹理和轻微磨损细节，裤腰较低，搭配金属扣和皮带细节。\n\n手腕佩戴金色手表或金属饰品，整体搭配偏 2000 年代欧美街头时尚。\n\n场景为巴黎 / 欧洲老城区夜晚街道。背景左侧是一栋古典石材建筑，浅灰色石墙、拱形窗户、传统欧式立面细节明显；右侧延伸出一排梧桐树和街灯。远处街角有暖黄色商店灯光和行人虚影。\n\n道路为空旷城市街道，柏油路面带轻微反光，建筑和树木形成纵深透视。背景不要现代高楼，保持欧洲历史街区氛围。\n\n光线采用黄昏蓝调时刻＋街灯暖光＋手机闪光灯轻微补光。人物脸部清晰明亮，背景保持自然暗部层次；闪光灯形成轻微硬朗高光，类似 Instagram / 小红书街拍。\n\n整体呈现：\n真实手机街拍、巴黎夜晚散步、2000s 时尚杂志感、轻微 CCD 数码相机质感、自然颗粒、真实皮肤纹理、低饱和电影色调。\n\n重点锁定：\n成年东亚女性＋超长深色直发＋黑色窄框眼镜＋金属耳环＋十字架项链＋白色复古印花背心＋低腰深蓝牛仔裤＋欧洲老建筑街道＋蓝调夜晚＋暖色街灯＋手机闪光街拍。\n\n避免：\n过度磨皮、商业棚拍、强背景虚化、动漫脸、CG感、塑料皮肤、夸张身材比例、现代商业街、霓虹夜店、错误文字、水印、手机截图界面。",
+  "promptTranslations": {
+    "en": "Hyper-realistic urban street night photography, vertical orientation approximately 9:16. An unmistakably adult East Asian woman, 20+, standing near the center of a historic European old town street, captured in a candid smartphone snapshot. The camera is about 1 meter away from the subject, shot with a 28–35mm mobile wide-angle lens from slightly below eye level. Framing covers from head to slightly below the waist, occupying the center of the frame while preserving a substantial amount of the urban architectural background.\n\nThe overall aura of the subject is cool, chic fashion street-style. Her body maintains natural adult female proportions: moderate shoulders, a well-defined waistline, and natural body contours, not exaggeratedly skinny.\n\nShe has a natural standing posture, body turned slightly toward the camera, hands resting naturally at her sides or casually slipped into her jeans pockets. Her head is slightly tilted up, lips softly pouting, eyes looking directly into the camera lens with a hint of nonchalant, languid street-fashion coolness.\n\nShe has extra-long, straight, dark brown-black hair that is smooth and thick, reaching below her chest, with sections naturally draping over the front of her shoulders. Makeup leans toward Western street-style: sleek elongated black eyeliner, slightly deep eyeshadow, natural highlighter, and pale pinkish-nude lip gloss on her lips.\n\nWearing a pair of black narrow-frame rectangular fashion glasses with subtle lens reflections, accentuating a Y2K urban trendy vibe. Her ears are adorned with minimalist metallic hoop earrings, and around her neck is a thin chain with a cross pendant necklace.\n\nHer top is a white slim-fit sleeveless tank top hugging her body curves, printed on the chest with black vintage English typography and graphic elements reminiscent of street brand prints, slightly distressed. The length reaches around the waist, revealing a small glimpse of midriff.\n\nOn the bottom, she wears dark blue low-rise jeans; the denim features natural fading, washed textures, and subtle distressed details, with a low waistband complemented by a metal buckle and belt accents.\n\nShe wears a gold watch or metallic accessories on her wrist, creating an overall look leaning toward 2000s Western street fashion.\n\nThe setting is a nighttime street in Paris / a European historic old town. On the left side of the background stands a classic stone building with light-gray stone walls, arched windows, and prominent traditional European facade details; on the right side extends a row of plane trees and street lamps. In the far distance at the street corner, there are warm yellow shop lights and blurred silhouettes of pedestrians.\n\nThe road is an empty urban street with asphalt bearing subtle reflections, where the architecture and trees form deep vanishing perspective. No modern skyscrapers in the background; maintain the historic European quarter atmosphere.\n\nLighting adopts a twilight blue hour + warm street lamp glow + subtle phone flash fill-light. The subject's face is crisp and bright, while the background preserves natural shadow gradations; the flash creates slightly edgy, crisp highlights, similar to Instagram / Xiaohongshu street style.\n\nOverall presentation:\nAuthentic phone street snap, Paris night walk, 2000s fashion magazine aesthetic, subtle CCD digital camera texture, natural grain, authentic skin texture, low-saturation cinematic color grading.\n\nKey focuses:\nAdult East Asian woman + extra-long dark straight hair + black narrow-frame glasses + metallic earrings + cross necklace + white vintage graphic tank top + low-rise dark blue jeans + European historic architectural street + blue hour night + warm street lamps + phone flash street snap.\n\nAvoid:\nOver-smoothed skin, commercial studio shoot, heavy background blur / bokeh, anime face, CG look, plastic skin, exaggerated body proportions, modern commercial strip, neon nightclub, misspelled text, watermarks, phone screenshot UI."
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic Paris street night photography, phone flash snapshot style of an adult East Asian woman in a vintage tank top and low-rise jeans."
+  },
+  "translationVersion": 2,
+  "summary": "超写实巴黎街头夜景摄影，成年东亚女性身着复古背心和低腰牛仔裤的手机闪光抓拍风格。",
+  "summaryEn": "Photorealistic night snapshot of an East Asian woman walking in Paris, styled in Y2K fashion under flash light.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101980767345856601",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2101980767345856601",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-21T10:24:02.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "zh",
+    "originalText": "漫步巴黎街头🇫🇷\n\nPrompt：超写实城市街头夜景摄影，竖版约 9:16。一名明确成年的东亚女性，20+，站在欧洲老城区街道中央附近，被手机抓拍。摄影机距离人物约 1 米，采用 28–35mm 手机广角镜头，略低于眼睛高度拍摄，人物从头部到腰部偏下位置，占据画面中央，保留大量城市建筑背景。\n\n人物整体气质为冷感时尚街拍风。身材保持自然成年女性比例：肩部适中，腰线清晰，身体线条自然，不夸张瘦削。\n\n人物站姿自然，身体略微朝镜头方向转动，双手自然放在身体两侧或轻轻插入牛仔裤口袋。头部微微抬起，嘴唇轻微嘟起，眼神直接看向镜头，带一点冷淡、慵懒的街头时尚感。\n\n人物留深棕黑色超长直发，发丝顺滑浓密，长度到胸口以下，部分头发自然落在肩前。妆容偏欧美街拍风：细长黑色眼线、略深眼影、自然高光，嘴唇带淡粉裸色唇釉。\n\n佩戴一副黑色窄框矩形时尚眼镜，镜片略有反光，增加 Y2K 都市潮流感。耳朵佩戴简约金属圆环耳饰，脖子戴一条细链十字架项链。\n\n上身穿白色修身无袖背心 / tank top，贴合身体曲线，胸前印有黑色复古英文排版文字和图形元素，文字像街头品牌印花，略有做旧感。衣服长度到腰部附近，露出少量腰腹。\n\n下身穿深蓝色低腰牛仔裤，牛仔布有自然褪色、水洗纹理和轻微磨损细节，裤腰较低，搭配金属扣和皮带细节。\n\n手腕佩戴金色手表或金属饰品，整体搭配偏 2000 年代欧美街头时尚。\n\n场景为巴黎 / 欧洲老城区夜晚街道。背景左侧是一栋古典石材建筑，浅灰色石墙、拱形窗户、传统欧式立面细节明显；右侧延伸出一排梧桐树和街灯。远处街角有暖黄色商店灯光和行人虚影。\n\n道路为空旷城市街道，柏油路面带轻微反光，建筑和树木形成纵深透视。背景不要现代高楼，保持欧洲历史街区氛围。\n\n光线采用黄昏蓝调时刻＋街灯暖光＋手机闪光灯轻微补光。人物脸部清晰明亮，背景保持自然暗部层次；闪光灯形成轻微硬朗高光，类似 Instagram / 小红书街拍。\n\n整体呈现：\n真实手机街拍、巴黎夜晚散步、2000s 时尚杂志感、轻微 CCD 数码相机质感、自然颗粒、真实皮肤纹理、低饱和电影色调。\n\n重点锁定：\n成年东亚女性＋超长深色直发＋黑色窄框眼镜＋金属耳环＋十字架项链＋白色复古印花背心＋低腰深蓝牛仔裤＋欧洲老建筑街道＋蓝调夜晚＋暖色街灯＋手机闪光街拍。\n\n避免：\n过度磨皮、商业棚拍、强背景虚化、动漫脸、CG感、塑料皮肤、夸张身材比例、现代商业街、霓虹夜店、错误文字、水印、手机截图界面。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSu8XSmaYAAQH5s.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSu8XSmaYAAQH5s.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 3,
+      "quoteCount": 0,
+      "viewCount": 596
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2101980767345856601",
+  "coverUrl": "https://pbs.twimg.com/media/HSu8XSmaYAAQH5s.jpg",
+  "coverPath": "images/2101980767345856601-1.jpg",
+  "imagePaths": [
+    "images/2101980767345856601-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSu8XSmaYAAQH5s",
+    "x-post:2101980767345856601"
+  ],
+  "analysis": {
+    "summary": "超写实巴黎街头夜景摄影，成年东亚女性身着复古背心和低腰牛仔裤的手机闪光抓拍风格。",
+    "summaryEn": "Photorealistic night snapshot of an East Asian woman walking in Paris, styled in Y2K fashion under flash light.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面主体为身穿白色印花背心和低腰牛仔裤的黑长发东亚女性，佩戴黑框眼镜与十字架项链，背景为巴黎老式建筑街景及暖黄路灯，高度吻合提示词描述。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实城市街头夜景摄影，竖版约 9:16。一名明确成年的东亚女性，20+，站在欧洲老城区街道中央附近，被手机抓拍。摄影机距离人物约 1 米，采用 28–35mm 手机广角镜头，略低于眼睛高度拍摄，人物从头部到腰部偏下位置，占据画面中央，保留大量城市建筑背景。\n\n人物整体气质为冷感时尚街拍风。身材保持自然成年女性比例：肩部适中，腰线清晰，身体线条自然，不夸张瘦削。\n\n人物站姿自然，身体略微朝镜头方向转动，双手自然放在身体两侧或轻轻插入牛仔裤口袋。头部微微抬起，嘴唇轻微嘟起，眼神直接看向镜头，带一点冷淡、慵懒的街头时尚感。\n\n人物留深棕黑色超长直发，发丝顺滑浓密，长度到胸口以下，部分头发自然落在肩前。妆容偏欧美街拍风：细长黑色眼线、略深眼影、自然高光，嘴唇带淡粉裸色唇釉。\n\n佩戴一副黑色窄框矩形时尚眼镜，镜片略有反光，增加 Y2K 都市潮流感。耳朵佩戴简约金属圆环耳饰，脖子戴一条细链十字架项链。\n\n上身穿白色修身无袖背心 / tank top，贴合身体曲线，胸前印有黑色复古英文排版文字和图形元素，文字像街头品牌印花，略有做旧感。衣服长度到腰部附近，露出少量腰腹。\n\n下身穿深蓝色低腰牛仔裤，牛仔布有自然褪色、水洗纹理和轻微磨损细节，裤腰较低，搭配金属扣和皮带细节。\n\n手腕佩戴金色手表或金属饰品，整体搭配偏 2000 年代欧美街头时尚。\n\n场景为巴黎 / 欧洲老城区夜晚街道。背景左侧是一栋古典石材建筑，浅灰色石墙、拱形窗户、传统欧式立面细节明显；右侧延伸出一排梧桐树和街灯。远处街角有暖黄色商店灯光和行人虚影。\n\n道路为空旷城市街道，柏油路面带轻微反光，建筑和树木形成纵深透视。背景不要现代高楼，保持欧洲历史街区氛围。\n\n光线采用黄昏蓝调时刻＋街灯暖光＋手机闪光灯轻微补光。人物脸部清晰明亮，背景保持自然暗部层次；闪光灯形成轻微硬朗高光，类似 Instagram / 小红书街拍。\n\n整体呈现：\n真实手机街拍、巴黎夜晚散步、2000s 时尚杂志感、轻微 CCD 数码相机质感、自然颗粒、真实皮肤纹理、低饱和电影色调。\n\n重点锁定：\n成年东亚女性＋超长深色直发＋黑色窄框眼镜＋金属耳环＋十字架项链＋白色复古印花背心＋低腰深蓝牛仔裤＋欧洲老建筑街道＋蓝调夜晚＋暖色街灯＋手机闪光街拍。\n\n避免：\n过度磨皮、商业棚拍、强背景虚化、动漫脸、CG感、塑料皮肤、夸张身材比例、现代商业街、霓虹夜店、错误文字、水印、手机截图界面。",
+    "sourceRange": {
+      "start": 17,
+      "end": 1031
+    },
+    "translations": {
+      "zh": "超写实城市街头夜景摄影，竖版约 9:16。一名明确成年的东亚女性，20+，站在欧洲老城区街道中央附近，被手机抓拍。摄影机距离人物约 1 米，采用 28–35mm 手机广角镜头，略低于眼睛高度拍摄，人物从头部到腰部偏下位置，占据画面中央，保留大量城市建筑背景。\n\n人物整体气质为冷感时尚街拍风。身材保持自然成年女性比例：肩部适中，腰线清晰，身体线条自然，不夸张瘦削。\n\n人物站姿自然，身体略微朝镜头方向转动，双手自然放在身体两侧或轻轻插入牛仔裤口袋。头部微微抬起，嘴唇轻微嘟起，眼神直接看向镜头，带一点冷淡、慵懒的街头时尚感。\n\n人物留深棕黑色超长直发，发丝顺滑浓密，长度到胸口以下，部分头发自然落在肩前。妆容偏欧美街拍风：细长黑色眼线、略深眼影、自然高光，嘴唇带淡粉裸色唇釉。\n\n佩戴一副黑色窄框矩形时尚眼镜，镜片略有反光，增加 Y2K 都市潮流感。耳朵佩戴简约金属圆环耳饰，脖子戴一条细链十字架项链。\n\n上身穿白色修身无袖背心 / tank top，贴合身体曲线，胸前印有黑色复古英文排版文字和图形元素，文字像街头品牌印花，略有做旧感。衣服长度到腰部附近，露出少量腰腹。\n\n下身穿深蓝色低腰牛仔裤，牛仔布有自然褪色、水洗纹理和轻微磨损细节，裤腰较低，搭配金属扣和皮带细节。\n\n手腕佩戴金色手表或金属饰品，整体搭配偏 2000 年代欧美街头时尚。\n\n场景为巴黎 / 欧洲老城区夜晚街道。背景左侧是一栋古典石材建筑，浅灰色石墙、拱形窗户、传统欧式立面细节明显；右侧延伸出一排梧桐树和街灯。远处街角有暖黄色商店灯光和行人虚影。\n\n道路为空旷城市街道，柏油路面带轻微反光，建筑和树木形成纵深透视。背景不要现代高楼，保持欧洲历史街区氛围。\n\n光线采用黄昏蓝调时刻＋街灯暖光＋手机闪光灯轻微补光。人物脸部清晰明亮，背景保持自然暗部层次；闪光灯形成轻微硬朗高光，类似 Instagram / 小红书街拍。\n\n整体呈现：\n真实手机街拍、巴黎夜晚散步、2000s 时尚杂志感、轻微 CCD 数码相机质感、自然颗粒、真实皮肤纹理、低饱和电影色调。\n\n重点锁定：\n成年东亚女性＋超长深色直发＋黑色窄框眼镜＋金属耳环＋十字架项链＋白色复古印花背心＋低腰深蓝牛仔裤＋欧洲老建筑街道＋蓝调夜晚＋暖色街灯＋手机闪光街拍。\n\n避免：\n过度磨皮、商业棚拍、强背景虚化、动漫脸、CG感、塑料皮肤、夸张身材比例、现代商业街、霓虹夜店、错误文字、水印、手机截图界面。",
+      "en": "Photorealistic urban street night photography, vertical 9:16. An adult East Asian female, 20+, standing in a historic European street captured by a phone camera at 1m distance, 28-35mm wide angle, slightly below eye level. Cool Y2K street style, natural proportions, long dark hair, black rectangular glasses, hoop earrings, cross necklace, white vintage graphic tank top, low-rise jeans, flash snapshot aesthetic."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI 人像摄影",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

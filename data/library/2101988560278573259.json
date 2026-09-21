@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-21T12:28:05.505Z",
+  "model": "unknown-image",
+  "prompt": "制作一张竖向3:4上下对比旅行转绘海报，风格为“FUJI TEXTILE TRAVEL｜富士织物拼接旅行风”。上半完整保留输入的真实日本旅行照片：保持原图的地点主体、数量、构图、透视、观察角度、空间关系和自然色彩，只做轻微出版物调色；照片必须清晰可辨，不能变成插画或小缩略图。中间用一条克制的细白分隔线。下半把同一场景重构为具有真实厚度的手工纺织拼贴，不是照片滤镜，也不是平面矢量插画。以米白色粗织布为底，严格从原照片逐元素映射：山体、湖水、鸟居、寺庙、街道、建筑、车辆、人物、树木或天空分别转成分层布片、毛毡、绒面纤维、刺绣线、链式针迹和少量小珠装饰；不要凭空增加照片中不存在的元素。水面和道路用连续弧形或平行线迹表达方向，山体与建筑用有可见厚度的叠布边缘表达体块，窗格、屋檐、鸟居横梁和人物轮廓用精细针迹保留识别度。材料要有手工缝制的起伏、针孔、纤维毛边、层叠阴影和局部凸起，形成可触摸的立体织物模型。下半保留原图的主要轮廓、主体数量和空间关系，但允许将主体拆分、缩小、错位和重新留白组合，不能与上半完全同构、同密度复刻。色彩从照片提炼为有限的4至7色，每张随原图变化，不固定使用富士山蓝红配色。保留足够米白粗织布空场，让织物构件与背景有呼吸感。不得添加文字、地点名、Logo、水印、AI角标或原图角标；不得出现塑料、金属、玻璃、3D游戏资产、纯平面卡通、照片拼贴、统一马赛克滤镜、无关地标、假中文和乱码。",
+  "promptTranslations": {
+    "en": "Create a vertical 3:4 top-and-bottom comparison travel transformation poster in the style of 'FUJI TEXTILE TRAVEL | Fuji Textile Patchwork Travel Style'. The top half completely preserves the input real Japan travel photograph: maintaining the original photo's location subjects, count, composition, perspective, viewing angle, spatial relationships, and natural colors, with only subtle publication color grading; the photograph must be clearly discernible and must not become an illustration or small thumbnail. A restrained, thin white dividing line sits in the middle. The bottom half reconstructs the same scene into a handcrafted textile collage with tangible thickness, neither a photo filter nor a flat vector illustration. Using an off-white coarse woven fabric as the base, strictly map element-by-element from the original photograph: mountains, lakes, torii gates, temples, streets, buildings, vehicles, people, trees, or sky are respectively converted into layered fabric scraps, felt, suede fibers, embroidery threads, chain stitches, and sparse small bead embellishments; do not fabricate elements that do not exist in the photo out of thin air. Water surfaces and roads use continuous curved or parallel stitch lines to express direction, mountains and buildings use layered fabric edges with visible thickness to convey volumetric mass, and window frames, eaves, torii crossbeams, and human silhouettes use fine stitches to maintain recognizability. Materials must exhibit hand-sewn undulations, needle holes, frayed fiber edges, layered cast shadows, and localized raised relief, forming a tactile 3D textile model. The bottom half retains the primary contours, subject count, and spatial relationships of the original image, but allows splitting, scaling down, offsetting, and rearranging subjects with negative space, avoiding an identical isomorphic and identically dense replication of the top half. Colors are distilled from the photo into a limited palette of 4 to 7 hues, varying with each original photo rather than adhering strictly to a Mount Fuji blue-and-red palette. Retain sufficient negative space of the off-white coarse woven fabric to allow the textile components and background room to breathe. Do not add text, location names, logos, watermarks, AI badges, or original image corner marks; no plastic, metal, glass, 3D game assets, purely flat cartoons, photo collages, uniform mosaic filters, unrelated landmarks, faux Chinese characters, or garbled text."
+  },
+  "summaryTranslations": {
+    "en": "Convert a real Japan travel photo into a top-and-bottom comparison poster with the photo on top and a handcrafted 3D textile embroidery collage on the bottom."
+  },
+  "translationVersion": 2,
+  "summary": "将真实日本旅行照片转换为上半照片、下半手工立体织物刺绣拼贴的上下对比海报。",
+  "summaryEn": "Transforms Japanese travel photos into split posters comparing the original photo with a handcrafted textile embroidery collage.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101988560278573259",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2101988560278573259",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-21T10:55:00.000Z",
+    "collectedAt": "2026-09-21T12:15:57.670Z",
+    "language": "zh",
+    "originalText": "【FUJI TEXTILE TRAVEL｜富士织物拼接旅行风】\n\n重点是把照片中的不同元素转换成对应的织物语言：山体和建筑用叠布表现体块，水面和道路用连续针迹表现方向，树木和细节用绒面纤维与小珠增加触感。\n\nprompt：\n制作一张竖向3:4上下对比旅行转绘海报，风格为“FUJI TEXTILE TRAVEL｜富士织物拼接旅行风”。上半完整保留输入的真实日本旅行照片：保持原图的地点主体、数量、构图、透视、观察角度、空间关系和自然色彩，只做轻微出版物调色；照片必须清晰可辨，不能变成插画或小缩略图。中间用一条克制的细白分隔线。下半把同一场景重构为具有真实厚度的手工纺织拼贴，不是照片滤镜，也不是平面矢量插画。以米白色粗织布为底，严格从原照片逐元素映射：山体、湖水、鸟居、寺庙、街道、建筑、车辆、人物、树木或天空分别转成分层布片、毛毡、绒面纤维、刺绣线、链式针迹和少量小珠装饰；不要凭空增加照片中不存在的元素。水面和道路用连续弧形或平行线迹表达方向，山体与建筑用有可见厚度的叠布边缘表达体块，窗格、屋檐、鸟居横梁和人物轮廓用精细针迹保留识别度。材料要有手工缝制的起伏、针孔、纤维毛边、层叠阴影和局部凸起，形成可触摸的立体织物模型。下半保留原图的主要轮廓、主体数量和空间关系，但允许将主体拆分、缩小、错位和重新留白组合，不能与上半完全同构、同密度复刻。色彩从照片提炼为有限的4至7色，每张随原图变化，不固定使用富士山蓝红配色。保留足够米白粗织布空场，让织物构件与背景有呼吸感。不得添加文字、地点名、Logo、水印、AI角标或原图角标；不得出现塑料、金属、玻璃、3D游戏资产、纯平面卡通、照片拼贴、统一马赛克滤镜、无关地标、假中文和乱码。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HStjZRmaMAAlbEr.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HStjZRmaMAAlbEr.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HStjZOiaUAA48nx.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HStjZOiaUAA48nx.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HStjZOgaEAA12ix.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HStjZOgaEAA12ix.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HStjZRnaIAARlu0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HStjZRnaIAARlu0.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 368
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2101988560278573259",
+  "coverUrl": "https://pbs.twimg.com/media/HStjZRmaMAAlbEr.jpg",
+  "coverPath": "images/2101988560278573259-1.jpg",
+  "imagePaths": [
+    "images/2101988560278573259-1.jpg",
+    "images/2101988560278573259-2.jpg",
+    "images/2101988560278573259-3.jpg",
+    "images/2101988560278573259-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HStjZRmaMAAlbEr",
+    "x-image:/media/HStjZOiaUAA48nx",
+    "x-image:/media/HStjZOgaEAA12ix",
+    "x-image:/media/HStjZRnaIAARlu0",
+    "x-post:2101988560278573259"
+  ],
+  "analysis": {
+    "summary": "将真实日本旅行照片转换为上半照片、下半手工立体织物刺绣拼贴的上下对比海报。",
+    "summaryEn": "Transforms Japanese travel photos into split posters comparing the original photo with a handcrafted textile embroidery collage.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图均呈现上半为真实日本街景/自然照片，下半为对应的立体针织刺绣拼贴画，米白粗布打底且完全契合Prompt定义。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张竖向3:4上下对比旅行转绘海报，风格为“FUJI TEXTILE TRAVEL｜富士织物拼接旅行风”。上半完整保留输入的真实日本旅行照片：保持原图的地点主体、数量、构图、透视、观察角度、空间关系和自然色彩，只做轻微出版物调色；照片必须清晰可辨，不能变成插画或小缩略图。中间用一条克制的细白分隔线。下半把同一场景重构为具有真实厚度的手工纺织拼贴，不是照片滤镜，也不是平面矢量插画。以米白色粗织布为底，严格从原照片逐元素映射：山体、湖水、鸟居、寺庙、街道、建筑、车辆、人物、树木或天空分别转成分层布片、毛毡、绒面纤维、刺绣线、链式针迹和少量小珠装饰；不要凭空增加照片中不存在的元素。水面和道路用连续弧形或平行线迹表达方向，山体与建筑用有可见厚度的叠布边缘表达体块，窗格、屋檐、鸟居横梁和人物轮廓用精细针迹保留识别度。材料要有手工缝制的起伏、针孔、纤维毛边、层叠阴影和局部凸起，形成可触摸的立体织物模型。下半保留原图的主要轮廓、主体数量和空间关系，但允许将主体拆分、缩小、错位和重新留白组合，不能与上半完全同构、同密度复刻。色彩从照片提炼为有限的4至7色，每张随原图变化，不固定使用富士山蓝红配色。保留足够米白粗织布空场，让织物构件与背景有呼吸感。不得添加文字、地点名、Logo、水印、AI角标或原图角标；不得出现塑料、金属、玻璃、3D游戏资产、纯平面卡通、照片拼贴、统一马赛克滤镜、无关地标、假中文和乱码。",
+    "sourceRange": {
+      "start": 112,
+      "end": 717
+    },
+    "translations": {
+      "zh": "制作一张竖向3:4上下对比旅行转绘海报，风格为“FUJI TEXTILE TRAVEL｜富士织物拼接旅行风”。上半完整保留输入的真实日本旅行照片：保持原图的地点主体、数量、构图、透视、观察角度、空间关系和自然色彩，只做轻微出版物调色；照片必须清晰可辨，不能变成插画或小缩略图。中间用一条克制的细白分隔线。下半把同一场景重构为具有真实厚度的手工纺织拼贴，不是照片滤镜，也不是平面矢量插画。以米白色粗织布为底，严格从原照片逐元素映射：山体、湖水、鸟居、寺庙、街道、建筑、车辆、人物、树木或天空分别转成分层布片、毛毡、绒面纤维、刺绣线、链式针迹和少量小珠装饰；不要凭空增加照片中不存在的元素。水面和道路用连续弧形或平行线迹表达方向，山体与建筑用有可见厚度的叠布边缘表达体块，窗格、屋檐、鸟居横梁和人物轮廓用精细针迹保留识别度。材料要有手工缝制的起伏、针孔、纤维毛边、层叠阴影和局部凸起，形成可触摸的立体织物模型。下半保留原图的主要轮廓、主体数量和空间关系，但允许将主体拆分、缩小、错位和重新留白组合，不能与上半完全同构、同密度复刻。色彩从照片提炼为有限的4至7色，每张随原图变化，不固定使用富士山蓝红配色。保留足够米白粗织布空场，让织物构件与背景有呼吸感。不得添加文字、地点名、Logo、水印、AI角标或原图角标；不得出现塑料、金属、玻璃、3D游戏资产、纯平面卡通、照片拼贴、统一马赛克滤镜、无关地标、假中文和乱码。",
+      "en": "Create a vertical 3:4 split-view travel poster in \"FUJI TEXTILE TRAVEL\" style. The top half preserves the original Japan travel photo with slight publication grading. A subtle white line divides the panels. The bottom half reconstructs the scene as a textured textile collage on off-white coarse canvas, mapping elements into fabric layers, felt, embroidery, and beads without adding extra items. It retains the general composition and limited 4-7 colors while leaving breathable canvas space. No text, logos, or digital artifacts."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "日本旅行摄影重构成立体织物刺绣拼贴艺术的上下对比海报",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
