@@ -7778,20 +7778,20 @@ Yazar：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Orijinal gönderi](htt
 
 <a name="prompt-2101823731350065296"></a>
 
-### Çeviri sürüyor
+### Nostaljik Cadılar Bayramı baskı sanatı tarzı illüstrasyon: Beyaz çarşaflı hayalet, gece vakti tekinsiz ormandan geçerken oyulmuş balkabağı feneri taşıyor.
 
 Yazar：[@heathergreen](https://x.com/heathergreen) · [Orijinal gönderi](https://x.com/heathergreen/status/2101823731350065296)
 
 İllüstrasyon · Retro / Vintage · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Nostaljik Cadılar Bayramı baskı sanatı tarzı illüstrasyon: Beyaz çarşaflı hayalet, gece vakti tekinsiz ormandan geçerken oyulmuş balkabağı feneri taşıyor.
 
 <img src="images/2101823731350065296-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Nostaljik tarzdaki bir illüstrasyon, gece vakti tekinsiz bir ormanda balkabağı feneri taşıyan bir hayaleti tasvir ediyor. İki siyah göz deliği olan sade beyaz bir çarşaftan ibaret hayalet, ortada durmuş, tehditkâr bir sırıtışla oyulmuş bir balkabağı tutuyor. Arka planda karanlık, budaklı ağaçlar, bir hilal ve mavi, noktalı gökyüzüne dağılmış yıldızlar ile turuncu noktalar yer alıyor. Ön planda koyu yeşil yapraklarla çevrili kıvrımlı bir patika uzanıyor. Genel estetik, sınırlı bir renk paleti ve dokulu bir linolyum baskı görünümüyle eski Cadılar Bayramı süslemelerini veya çizgi roman sanatını anımsatıyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

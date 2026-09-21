@@ -7811,20 +7811,20 @@ Minh họa · Kết xuất 3D · Màu nước · Nhân vật · Đã xuất bả
 
 <a name="prompt-2101823731350065296"></a>
 
-### Đang dịch
+### Minh họa phong cách tranh khắc Halloween cổ điển: Bóng ma trùm khăn trắng cầm đèn lồng bí ngô khắc đi qua khu rừng ma quái ban đêm.
 
 Tác giả：[@heathergreen](https://x.com/heathergreen) · [Bài gốc](https://x.com/heathergreen/status/2101823731350065296)
 
 Minh họa · Cổ điển / Cổ điển · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Minh họa phong cách tranh khắc Halloween cổ điển: Bóng ma trùm khăn trắng cầm đèn lồng bí ngô khắc đi qua khu rừng ma quái ban đêm.
 
 <img src="images/2101823731350065296-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một hình minh họa mang phong cách cổ điển miêu tả một bóng ma đang cầm đèn bí ngô jack-o'-lantern đi qua khu rừng ma quái vào ban đêm. Bóng ma là một tấm vải trắng đơn giản với hai lỗ mắt đen, đứng ở trung tâm, tay cầm quả bí ngô chạm khắc nụ cười đầy đe dọa. Nền phía sau là những hàng cây gồ ghề tăm tối, vầng trăng lưỡi liềm, cùng những vì sao và chấm màu cam rải rác trên bầu trời điểm xuyết màu xanh lam. Một con đường uốn lượn ở tiền cảnh, hai bên viền tán lá xanh thẫm. Tính thẩm mỹ tổng thể gợi nhớ đến các đồ trang trí Halloween xưa cũ hoặc nghệ thuật truyện tranh, với bảng màu giới hạn và diện mạo có kết cấu vân tranh khắc linocut.
 ```
 
 [↑ Về danh mục](#catalog)

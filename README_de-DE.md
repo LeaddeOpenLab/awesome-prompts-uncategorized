@@ -7757,20 +7757,20 @@ Illustration · 3D-Rendering · Aquarell · Charakter · Veröffentlicht
 
 <a name="prompt-2101823731350065296"></a>
 
-### Übersetzung läuft
+### Vintage-Halloween-Druckgrafik-Illustration: Geist aus weißem Laken trägt nachts eine geschnitzte Kürbislaterne durch einen unheimlichen Wald.
 
 Autor：[@heathergreen](https://x.com/heathergreen) · [Originalbeitrag](https://x.com/heathergreen/status/2101823731350065296)
 
 Illustration · Retro / Vintage · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vintage-Halloween-Druckgrafik-Illustration: Geist aus weißem Laken trägt nachts eine geschnitzte Kürbislaterne durch einen unheimlichen Wald.
 
 <img src="images/2101823731350065296-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine Illustration im Vintage-Stil zeigt einen Geist, der nachts mit einer Kürbislaterne durch einen unheimlichen Wald wandert. Der Geist, ein einfaches weißes Laken mit zwei schwarzen Augenlöchern, steht im Mittelpunkt und hält einen geschnitzten Kürbis mit einem bedrohlichen Grinsen in der Hand. Im Hintergrund sind dunkle, knorrige Bäume, eine Mondsichel sowie verstreute Sterne und orangefarbene Punkte an einem blauen, punktierten Himmel zu sehen. Im Vordergrund schlängelt sich ein Pfad, gesäumt von dunkelgrünem Blattwerk. Die Gesamtästhetik erinnert an alte Halloween-Dekorationen oder Comic-Kunst, mit einer begrenzten Farbpalette und einer texturierten Linolschnitt-Optik.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

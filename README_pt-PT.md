@@ -7778,20 +7778,20 @@ Tradução em curso
 
 <a name="prompt-2101823731350065296"></a>
 
-### Tradução em curso
+### Ilustração estilo gravura vintage de Halloween: fantasma de lençol branco carregando uma abóbora esculpida através de uma floresta sinistra à noite.
 
 Autor：[@heathergreen](https://x.com/heathergreen) · [Publicação original](https://x.com/heathergreen/status/2101823731350065296)
 
 Ilustração · Retrô / Vintage · Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Ilustração estilo gravura vintage de Halloween: fantasma de lençol branco carregando uma abóbora esculpida através de uma floresta sinistra à noite.
 
 <img src="images/2101823731350065296-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma ilustração em estilo vintage retrata um fantasma a carregar uma lanterna de abóbora através de uma floresta assustadora à noite. O fantasma, um simples lençol branco com dois orifícios pretos para os olhos, surge no centro, segurando uma abóbora esculpida com um sorriso ameaçador. O fundo apresenta árvores escuras e retorcidas, uma lua em quarto crescente e estrelas e pontos cor-de-laranja dispersos num céu azul pontilhado. Um caminho serpenteia em primeiro plano, ladeado por folhagem verde-escura. A estética geral faz lembrar antigas decorações de Halloween ou arte de banda desenhada, com uma paleta de cores limitada e uma aparência texturada de linogravura.
 ```
 
 [↑ Voltar às categorias](#catalog)

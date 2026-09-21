@@ -7757,20 +7757,20 @@ Traduction en cours
 
 <a name="prompt-2101823731350065296"></a>
 
-### Traduction en cours
+### Illustration de style estampe d'Halloween vintage : fantôme en drap blanc portant une citrouille sculptée à travers une forêt inquiétante la nuit.
 
 Auteur：[@heathergreen](https://x.com/heathergreen) · [Publication originale](https://x.com/heathergreen/status/2101823731350065296)
 
 Illustration · Rétro / Vintage · Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Illustration de style estampe d'Halloween vintage : fantôme en drap blanc portant une citrouille sculptée à travers une forêt inquiétante la nuit.
 
 <img src="images/2101823731350065296-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une illustration de style vintage représente un fantôme portant une citrouille d'Halloween à travers une forêt effrayante la nuit. Le fantôme, un simple drap blanc avec deux trous noirs pour les yeux, se tient au centre, tenant une citrouille sculptée au sourire menaçant. L'arrière-plan présente des arbres sombres et noueux, un croissant de lune, ainsi que des étoiles et des points orange dispersés dans un ciel bleu pointilliste. Un chemin serpente au premier plan, bordé d'un feuillage vert foncé. L'esthétique générale rappelle les anciennes décorations d'Halloween ou l'art des bandes dessinées, avec une palette de couleurs limitée et un aspect texturé façon linogravure.
 ```
 
 [↑ Retour aux catégories](#catalog)

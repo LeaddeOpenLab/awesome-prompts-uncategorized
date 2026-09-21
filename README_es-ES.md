@@ -7811,20 +7811,20 @@ Traducción en curso
 
 <a name="prompt-2101823731350065296"></a>
 
-### Traducción en curso
+### Ilustración de estilo grabado de Halloween vintage: fantasma de sábana blanca llevando una calabaza tallada a través de un bosque espeluznante por la noche.
 
 Autor：[@heathergreen](https://x.com/heathergreen) · [Publicación original](https://x.com/heathergreen/status/2101823731350065296)
 
 Ilustración · Retro / Vintage · Paisaje / Naturaleza · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Ilustración de estilo grabado de Halloween vintage: fantasma de sábana blanca llevando una calabaza tallada a través de un bosque espeluznante por la noche.
 
 <img src="images/2101823731350065296-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una ilustración de estilo vintage muestra a un fantasma llevando una calabaza de Halloween a través de un bosque espeluznante por la noche. El fantasma, una simple sábana blanca con dos agujeros negros como ojos, se encuentra en el centro, sosteniendo una calabaza tallada con una sonrisa amenazante. El fondo presenta árboles oscuros y nudosos, una luna creciente y estrellas y puntos naranjas dispersos en un cielo azul punteado. Un camino serpentea en primer plano, flanqueado por follaje verde oscuro. La estética general recuerda a las antiguas decoraciones de Halloween o al arte de los cómics, con una paleta de colores limitada y un aspecto texturizado de linograbado.
 ```
 
 [↑ Volver a categorías](#catalog)

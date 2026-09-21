@@ -7757,20 +7757,20 @@ Traduzione in corso
 
 <a name="prompt-2101823731350065296"></a>
 
-### Traduzione in corso
+### Illustrazione in stile linoleografia vintage di Halloween: fantasma con lenzuolo bianco che trasporta una zucca intagliata attraverso una foresta spettrale notturna.
 
 Autore：[@heathergreen](https://x.com/heathergreen) · [Post originale](https://x.com/heathergreen/status/2101823731350065296)
 
 Illustrazione · Retro / Vintage · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Illustrazione in stile linoleografia vintage di Halloween: fantasma con lenzuolo bianco che trasporta una zucca intagliata attraverso una foresta spettrale notturna.
 
 <img src="images/2101823731350065296-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un'illustrazione in stile vintage raffigura un fantasma che porta una zucca di Halloween attraverso una foresta spettrale di notte. Il fantasma, un semplice lenzuolo bianco con due fori neri per gli occhi, si trova al centro, mentre regge una zucca intagliata con un sorriso minaccioso. Lo sfondo presenta alberi scuri e nodosi, una falce di luna e stelle e puntini arancioni sparsi in un cielo blu punteggiato. Un sentiero si snoda in primo piano, costeggiato da fogliame verde scuro. L'estetica generale ricorda le vecchie decorazioni di Halloween o l'arte dei fumetti, con una tavolozza di colori limitata e un aspetto materico da linoleografia.
 ```
 
 [↑ Torna alle categorie](#catalog)
