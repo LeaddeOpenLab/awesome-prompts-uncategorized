@@ -8814,20 +8814,20 @@ Phong cách: nền sáng, chuyển động UI SaaS sắc nét, điểm nhấn m�
 
 <a name="prompt-2101822975771107383"></a>
 
-### Đang dịch
+### tác phẩm nghệ thuật mô tả hành trình của Starship tới Sao Hỏa
 
 Tác giả：[@JoshuaBalianSR](https://x.com/JoshuaBalianSR) · [Bài gốc](https://x.com/JoshuaBalianSR/status/2101822975771107383)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** tác phẩm nghệ thuật mô tả hành trình của Starship tới Sao Hỏa
 
 <img src="covers/2101822975771107383.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+tác phẩm nghệ thuật mô tả hành trình của Starship tới Sao Hỏa
 ```
 
 [↑ Về danh mục](#catalog)

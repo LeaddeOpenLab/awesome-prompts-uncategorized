@@ -8761,20 +8761,20 @@ Tarz: açık arka plan, net SaaS arayüz hareketi, camgöbeği vurgular, mobilde
 
 <a name="prompt-2101822975771107383"></a>
 
-### Çeviri sürüyor
+### Starship'in Mars'a yolculuğunu tasvir eden sanat eseri
 
 Yazar：[@JoshuaBalianSR](https://x.com/JoshuaBalianSR) · [Orijinal gönderi](https://x.com/JoshuaBalianSR/status/2101822975771107383)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Starship'in Mars'a yolculuğunu tasvir eden sanat eseri
 
 <img src="covers/2101822975771107383.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Starship'in Mars'a yolculuğunu tasvir eden sanat eseri
 ```
 
 [↑ Kategorilere dön](#catalog)

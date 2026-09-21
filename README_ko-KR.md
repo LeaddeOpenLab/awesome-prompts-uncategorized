@@ -8783,20 +8783,20 @@ FIELD NOTE [번호]
 
 <a name="prompt-2101822975771107383"></a>
 
-### 번역 중
+### 화성으로 향하는 스타쉽의 여정을 묘사한 예술 작품
 
 작성자：[@JoshuaBalianSR](https://x.com/JoshuaBalianSR) · [원본 게시물](https://x.com/JoshuaBalianSR/status/2101822975771107383)
 
 기타 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 화성으로 향하는 스타쉽의 여정을 묘사한 예술 작품
 
 <img src="covers/2101822975771107383.jpg" alt="이미지 1" width="480" />
 
 **프롬프트**
 
 ```text
-번역 중
+화성으로 향하는 스타쉽의 여정을 묘사한 예술 작품
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

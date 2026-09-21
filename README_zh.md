@@ -8784,20 +8784,20 @@ App / 网页设计 · 已推流
 
 <a name="prompt-2101822975771107383"></a>
 
-### 翻译中
+### 描绘星舰前往火星之旅的艺术作品
 
 作者：[@JoshuaBalianSR](https://x.com/JoshuaBalianSR) · [查看 X 原帖](https://x.com/JoshuaBalianSR/status/2101822975771107383)
 
 其他 · 已推流
 
-**概括:** 翻译中
+**概括:** 描绘星舰前往火星之旅的艺术作品
 
 <img src="covers/2101822975771107383.jpg" alt="图片 1" width="480" />
 
 **提示词**
 
 ```text
-翻译中
+描绘星舰前往火星之旅的艺术作品
 ```
 
 [↑ 返回分类目录](#catalog)
