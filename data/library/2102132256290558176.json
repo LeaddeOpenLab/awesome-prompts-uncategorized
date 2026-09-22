@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T00:27:29.377Z",
+  "model": "unknown-image",
+  "prompt": "2x2 grid, 16:9, do this for 4 unusual subjects: INPUT: $ SUBJECT              // creature, structure, geometry that should not be down there FIND      = infer_subject($ SUBJECT)        // scale vs ROV arm, translucency, motion or stillness SCALE_REF = infer_reference($ SUBJECT)      // manipulator arm, sampling basket in FG for size WATER     = infer_water_column($ SUBJECT)   // particulate density, blue-green absorption SNOW      = infer_marine_snow($ SUBJECT)    // constant drifting flecks lit by lamps LAMPS     = infer_rov_lighting($ SUBJECT)   // twin hard lamps, sharp falloff to pure black FLOOR     = infer_seafloor($ SUBJECT)       // silt, disturbed sediment plume, rock OPTIC     = infer_rov_cam($ SUBJECT)        // wide, slight fisheye, fixed focus OVERLAY   = infer_telemetry($ SUBJECT)      // depth, temp, heading, lat/long, dive number FLAWS     = infer_flaws($ SUBJECT)          // backscatter glare, focus hunting, chroma noise Φ = lamp_cone(LAMPS) + backscatter(SNOW) MOTION: slow ROV drift → subject enters lamp cone → thruster nudge, silt plume rises → subject reacts or does not → lamps lose it to the dark. Compose: ROV submersible footage, twin lamps with hard falloff to black, marine snow backscatter, telemetry overlay, wide slightly-fisheye lens. Photoreal, 16:9.",
+  "promptTranslations": {
+    "en": "2x2 grid, 16:9, do this for 4 unusual subjects: INPUT: $ SUBJECT              // creature, structure, geometry that should not be down there FIND      = infer_subject($ SUBJECT)        // scale vs ROV arm, translucency, motion or stillness SCALE_REF = infer_reference($ SUBJECT)      // manipulator arm, sampling basket in FG for size WATER     = infer_water_column($ SUBJECT)   // particulate density, blue-green absorption SNOW      = infer_marine_snow($ SUBJECT)    // constant drifting flecks lit by lamps LAMPS     = infer_rov_lighting($ SUBJECT)   // twin hard lamps, sharp falloff to pure black FLOOR     = infer_seafloor($ SUBJECT)       // silt, disturbed sediment plume, rock OPTIC     = infer_rov_cam($ SUBJECT)        // wide, slight fisheye, fixed focus OVERLAY   = infer_telemetry($ SUBJECT)      // depth, temp, heading, lat/long, dive number FLAWS     = infer_flaws($ SUBJECT)          // backscatter glare, focus hunting, chroma noise Φ = lamp_cone(LAMPS) + backscatter(SNOW) MOTION: slow ROV drift → subject enters lamp cone → thruster nudge, silt plume rises → subject reacts or does not → lamps lose it to the dark. Compose: ROV submersible footage, twin lamps with hard falloff to black, marine snow backscatter, telemetry overlay, wide slightly-fisheye lens. Photoreal, 16:9."
+  },
+  "summaryTranslations": {
+    "en": "Deep-sea ROV perspective prompt template featuring unusual deep-water subjects in a 2x2 grid with realistic telemetry overlays."
+  },
+  "translationVersion": 2,
+  "summary": "Deep-sea ROV perspective prompt template featuring unusual deep-water subjects in a 2x2 grid with realistic telemetry overlays.",
+  "summaryEn": "Deep-sea ROV perspective prompt template featuring unusual deep-water subjects in a 2x2 grid with realistic telemetry overlays.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102132256290558176",
+    "canonicalUrl": "https://x.com/Gdgtify/status/2102132256290558176",
+    "author": {
+      "username": "Gdgtify",
+      "displayName": "Gadgetify",
+      "profileUrl": "https://x.com/Gdgtify"
+    },
+    "publishedAt": "2026-09-21T20:26:00.000Z",
+    "collectedAt": "2026-09-22T00:16:28.442Z",
+    "language": "en",
+    "originalText": "A prompt template for underwater POV shots. can be used for viral videos if you have the right subject. \n\n2x2 grid, 16:9, do this for 4 unusual subjects: INPUT: $ SUBJECT              // creature, structure, geometry that should not be down there FIND      = infer_subject($ SUBJECT)        // scale vs ROV arm, translucency, motion or stillness SCALE_REF = infer_reference($ SUBJECT)      // manipulator arm, sampling basket in FG for size WATER     = infer_water_column($ SUBJECT)   // particulate density, blue-green absorption SNOW      = infer_marine_snow($ SUBJECT)    // constant drifting flecks lit by lamps LAMPS     = infer_rov_lighting($ SUBJECT)   // twin hard lamps, sharp falloff to pure black FLOOR     = infer_seafloor($ SUBJECT)       // silt, disturbed sediment plume, rock OPTIC     = infer_rov_cam($ SUBJECT)        // wide, slight fisheye, fixed focus OVERLAY   = infer_telemetry($ SUBJECT)      // depth, temp, heading, lat/long, dive number FLAWS     = infer_flaws($ SUBJECT)          // backscatter glare, focus hunting, chroma noise Φ = lamp_cone(LAMPS) + backscatter(SNOW) MOTION: slow ROV drift → subject enters lamp cone → thruster nudge, silt plume rises → subject reacts or does not → lamps lose it to the dark. Compose: ROV submersible footage, twin lamps with hard falloff to black, marine snow backscatter, telemetry overlay, wide slightly-fisheye lens. Photoreal, 16:9.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSsKKQgWgAAkBSO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSsKKQgWgAAkBSO.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 114
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Gdgtify/status/2102132256290558176",
+  "coverUrl": "https://pbs.twimg.com/media/HSsKKQgWgAAkBSO.jpg",
+  "coverPath": "images/2102132256290558176-1.jpg",
+  "imagePaths": [
+    "images/2102132256290558176-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSsKKQgWgAAkBSO",
+    "x-post:2102132256290558176"
+  ],
+  "analysis": {
+    "summary": "Deep-sea ROV perspective prompt template featuring unusual deep-water subjects in a 2x2 grid with realistic telemetry overlays.",
+    "summaryEn": "Deep-sea ROV perspective prompt template featuring unusual deep-water subjects in a 2x2 grid with realistic telemetry overlays.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The 2x2 grid image precisely displays ROV POV underwater captures of anomalous subjects with mechanical arms and telemetry overlays."
+    },
+    "videoQuality": null,
+    "originalPrompt": "2x2 grid, 16:9, do this for 4 unusual subjects: INPUT: $ SUBJECT              // creature, structure, geometry that should not be down there FIND      = infer_subject($ SUBJECT)        // scale vs ROV arm, translucency, motion or stillness SCALE_REF = infer_reference($ SUBJECT)      // manipulator arm, sampling basket in FG for size WATER     = infer_water_column($ SUBJECT)   // particulate density, blue-green absorption SNOW      = infer_marine_snow($ SUBJECT)    // constant drifting flecks lit by lamps LAMPS     = infer_rov_lighting($ SUBJECT)   // twin hard lamps, sharp falloff to pure black FLOOR     = infer_seafloor($ SUBJECT)       // silt, disturbed sediment plume, rock OPTIC     = infer_rov_cam($ SUBJECT)        // wide, slight fisheye, fixed focus OVERLAY   = infer_telemetry($ SUBJECT)      // depth, temp, heading, lat/long, dive number FLAWS     = infer_flaws($ SUBJECT)          // backscatter glare, focus hunting, chroma noise Φ = lamp_cone(LAMPS) + backscatter(SNOW) MOTION: slow ROV drift → subject enters lamp cone → thruster nudge, silt plume rises → subject reacts or does not → lamps lose it to the dark. Compose: ROV submersible footage, twin lamps with hard falloff to black, marine snow backscatter, telemetry overlay, wide slightly-fisheye lens. Photoreal, 16:9.",
+    "sourceRange": {
+      "start": 106,
+      "end": 1403
+    },
+    "translations": {
+      "zh": "2x2网格，16:9，针对4个异常物体生成：输入主体（生物、结构或几何体），推断主体比例、水体密度、浮游碎屑、ROV双探照灯与深海沉积物。画面带ROV机械臂参考、广角微鱼眼镜头、遥测数据覆层与杂散光噪点。逼真写实，16:9。",
+      "en": "2x2 grid, 16:9, do this for 4 unusual subjects: INPUT: $ SUBJECT              // creature, structure, geometry that should not be down there FIND      = infer_subject($ SUBJECT)        // scale vs ROV arm, translucency, motion or stillness SCALE_REF = infer_reference($ SUBJECT)      // manipulator arm, sampling basket in FG for size WATER     = infer_water_column($ SUBJECT)   // particulate density, blue-green absorption SNOW      = infer_marine_snow($ SUBJECT)    // constant drifting flecks lit by lamps LAMPS     = infer_rov_lighting($ SUBJECT)   // twin hard lamps, sharp falloff to pure black FLOOR     = infer_seafloor($ SUBJECT)       // silt, disturbed sediment plume, rock OPTIC     = infer_rov_cam($ SUBJECT)        // wide, slight fisheye, fixed focus OVERLAY   = infer_telemetry($ SUBJECT)      // depth, temp, heading, lat/long, dive number FLAWS     = infer_flaws($ SUBJECT)          // backscatter glare, focus hunting, chroma noise Φ = lamp_cone(LAMPS) + backscatter(SNOW) MOTION: slow ROV drift → subject enters lamp cone → thruster nudge, silt plume rises → subject reacts or does not → lamps lose it to the dark. Compose: ROV submersible footage, twin lamps with hard falloff to black, marine snow backscatter, telemetry overlay, wide slightly-fisheye lens. Photoreal, 16:9."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Prompt template for underwater ROV POV shots",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

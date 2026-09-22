@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T00:27:39.424Z",
+  "model": "unknown-video",
+  "prompt": "A masterful antique oil painting in the dramatic Baroque style of Caravaggio and 17th-century Italian masters, with rich chiaroscuro lighting, deep shadows and warm golden highlights. A noble Renaissance gentleman stands in a dignified pose wearing a luxurious dark wine-burgundy velvet doublet and flowing cape, dark knee-length breeches, light cream stockings, black leather shoes, and a black beret-style hat with a feather. He stands in front of an ornate, lavishly gilded golden carriage pulled by two magnificent white horses adorned with elaborate golden harnesses, plumes and feathers. The scene takes place on a clear day with a slightly dramatic sky of swirling clouds. In the background, an elegant Italian palace garden with tall cypress trees and ornate golden wrought-iron gates and porticos. The entire artwork is presented as an old oil painting enclosed in a richly carved, elaborate golden Baroque frame of the period. Highly detailed textures of velvet, gold leaf, horse tack, stone architecture and aged canvas. Aspect ratio 3:2.",
+  "promptTranslations": {
+    "en": "A masterful antique oil painting in the dramatic Baroque style of Caravaggio and 17th-century Italian masters, with rich chiaroscuro lighting, deep shadows and warm golden highlights. A noble Renaissance gentleman stands in a dignified pose wearing a luxurious dark wine-burgundy velvet doublet and flowing cape, dark knee-length breeches, light cream stockings, black leather shoes, and a black beret-style hat with a feather. He stands in front of an ornate, lavishly gilded golden carriage pulled by two magnificent white horses adorned with elaborate golden harnesses, plumes and feathers. The scene takes place on a clear day with a slightly dramatic sky of swirling clouds. In the background, an elegant Italian palace garden with tall cypress trees and ornate golden wrought-iron gates and porticos. The entire artwork is presented as an old oil painting enclosed in a richly carved, elaborate golden Baroque frame of the period. Highly detailed textures of velvet, gold leaf, horse tack, stone architecture and aged canvas. Aspect ratio 3:2."
+  },
+  "summaryTranslations": {
+    "en": "Baroque oil painting of a Renaissance nobleman, golden carriage, and white horses in a gilded frame."
+  },
+  "translationVersion": 2,
+  "summary": "Baroque oil painting of a Renaissance nobleman, golden carriage, and white horses in a gilded frame.",
+  "summaryEn": "Baroque oil painting of a Renaissance nobleman, golden carriage, and white horses in a gilded frame.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102150362945687807",
+    "canonicalUrl": "https://x.com/arco0369/status/2102150362945687807",
+    "author": {
+      "username": "arco0369",
+      "displayName": "Arco",
+      "profileUrl": "https://x.com/arco0369"
+    },
+    "publishedAt": "2026-09-21T21:37:57.000Z",
+    "collectedAt": "2026-09-22T00:16:28.442Z",
+    "language": "en",
+    "originalText": "Prompt Share:\n\nA masterful antique oil painting in the dramatic Baroque style of Caravaggio and 17th-century Italian masters, with rich chiaroscuro lighting, deep shadows and warm golden highlights. A noble Renaissance gentleman stands in a dignified pose wearing a luxurious dark wine-burgundy velvet doublet and flowing cape, dark knee-length breeches, light cream stockings, black leather shoes, and a black beret-style hat with a feather. He stands in front of an ornate, lavishly gilded golden carriage pulled by two magnificent white horses adorned with elaborate golden harnesses, plumes and feathers. The scene takes place on a clear day with a slightly dramatic sky of swirling clouds. In the background, an elegant Italian palace garden with tall cypress trees and ornate golden wrought-iron gates and porticos. The entire artwork is presented as an old oil painting enclosed in a richly carved, elaborate golden Baroque frame of the period. Highly detailed textures of velvet, gold leaf, horse tack, stone architecture and aged canvas. Aspect ratio 3:2.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/arco0369/status/2102150362945687807",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102150305081131008/img/EJkbkdijNMQCkcEY.jpg",
+        "analysisUrl": "https://x.com/arco0369/status/2102150362945687807"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSxWkJQXsAA36sC.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSxWkJQXsAA36sC.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 120
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/arco0369/status/2102150362945687807",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102150305081131008/img/EJkbkdijNMQCkcEY.jpg",
+  "coverPath": "covers/2102150362945687807.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102150305081131008",
+    "x-image:/media/HSxWkJQXsAA36sC",
+    "x-post:2102150362945687807"
+  ],
+  "analysis": {
+    "summary": "Baroque oil painting of a Renaissance nobleman, golden carriage, and white horses in a gilded frame.",
+    "summaryEn": "Baroque oil painting of a Renaissance nobleman, golden carriage, and white horses in a gilded frame.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The media directly displays the antique baroque oil painting within an ornate golden frame, featuring the gentleman in burgundy velvet, two white horses, and a gilded carriage."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A masterful antique oil painting in the dramatic Baroque style of Caravaggio and 17th-century Italian masters, with rich chiaroscuro lighting, deep shadows and warm golden highlights. A noble Renaissance gentleman stands in a dignified pose wearing a luxurious dark wine-burgundy velvet doublet and flowing cape, dark knee-length breeches, light cream stockings, black leather shoes, and a black beret-style hat with a feather. He stands in front of an ornate, lavishly gilded golden carriage pulled by two magnificent white horses adorned with elaborate golden harnesses, plumes and feathers. The scene takes place on a clear day with a slightly dramatic sky of swirling clouds. In the background, an elegant Italian palace garden with tall cypress trees and ornate golden wrought-iron gates and porticos. The entire artwork is presented as an old oil painting enclosed in a richly carved, elaborate golden Baroque frame of the period. Highly detailed textures of velvet, gold leaf, horse tack, stone architecture and aged canvas. Aspect ratio 3:2.",
+    "sourceRange": {
+      "start": 15,
+      "end": 1064
+    },
+    "translations": {
+      "zh": "卡拉瓦乔及17世纪意大利大师巴洛克风格的古典油画，带有明暗对照光影与暖金高光。一位身穿酒红天鹅绒紧身上衣、披风、浅色长袜及带羽毛黑色贝雷帽的贵族男子端庄站立。他身前是一辆华丽镀金马车，由两匹佩戴金色挽具与羽饰的白马拉着。背景为带丝柏树与镀金铁门柱廊的意大利宫殿花园。整幅作品装裱于繁复精美的巴洛克金色画框中。宽高比 3:2。",
+      "en": "A masterful antique oil painting in the dramatic Baroque style of Caravaggio and 17th-century Italian masters, with rich chiaroscuro lighting, deep shadows and warm golden highlights. A noble Renaissance gentleman stands in a dignified pose wearing a luxurious dark wine-burgundy velvet doublet and flowing cape, dark knee-length breeches, light cream stockings, black leather shoes, and a black beret-style hat with a feather. He stands in front of an ornate, lavishly gilded golden carriage pulled by two magnificent white horses adorned with elaborate golden harnesses, plumes and feathers. The scene takes place on a clear day with a slightly dramatic sky of swirling clouds. In the background, an elegant Italian palace garden with tall cypress trees and ornate golden wrought-iron gates and porticos. The entire artwork is presented as an old oil painting enclosed in a richly carved, elaborate golden Baroque frame of the period. Highly detailed textures of velvet, gold leaf, horse tack, stone architecture and aged canvas. Aspect ratio 3:2."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "artwork",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

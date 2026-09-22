@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T00:26:30.741Z",
+  "model": "unknown-image",
+  "prompt": "少女より先に光が目覚める朝。透過光が室内を満たし、影は遅れて静かに形を持ち始める。",
+  "promptTranslations": {
+    "en": "A morning when light awakens before the girl. Translucent light fills the room, and shadows, lagging behind, quietly begin to take shape."
+  },
+  "summaryTranslations": {
+    "en": "A prompt depicting a girl in a room bathed in morning light and shadows."
+  },
+  "translationVersion": 2,
+  "summary": "朝の光と影が差し込む室内の少女を描くプロンプト。",
+  "summaryEn": "A prompt portraying a girl in a sunlit morning room with soft shadows.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102173572764766661",
+    "canonicalUrl": "https://x.com/55hawks/status/2102173572764766661",
+    "author": {
+      "username": "55hawks",
+      "displayName": "ストップ!!さとしくん！",
+      "profileUrl": "https://x.com/55hawks"
+    },
+    "publishedAt": "2026-09-21T23:10:10.000Z",
+    "collectedAt": "2026-09-22T00:16:28.442Z",
+    "language": "ja",
+    "originalText": "おはようございます☀\n久々に青空の朝です😊\n\nPrompt:\n「少女より先に光が目覚める朝。透過光が室内を満たし、影は遅れて静かに形を持ち始める。」\n#AIart #AI美女 #ブルバ100 https://t.co/n8uyIKA7jF",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSxrLhMawAAOejc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSxrLhMawAAOejc.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 16,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 449
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/55hawks/status/2102173572764766661",
+  "coverUrl": "https://pbs.twimg.com/media/HSxrLhMawAAOejc.jpg",
+  "coverPath": "images/2102173572764766661-1.jpg",
+  "imagePaths": [
+    "images/2102173572764766661-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSxrLhMawAAOejc",
+    "x-post:2102173572764766661"
+  ],
+  "analysis": {
+    "summary": "朝の光と影が差し込む室内の少女を描くプロンプト。",
+    "summaryEn": "A prompt portraying a girl in a sunlit morning room with soft shadows.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面呈现晨光照耀卧室床上的少女，光影与描述一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "少女より先に光が目覚める朝。透過光が室内を満たし、影は遅れて静かに形を持ち始める。",
+    "sourceRange": {
+      "start": 32,
+      "end": 73
+    },
+    "translations": {
+      "zh": "晨光比少女更早苏醒的清晨。透射光洒满室内，阴影缓缓成形。",
+      "en": "A morning where light wakes before the girl. Light fills the room as shadows gently form."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

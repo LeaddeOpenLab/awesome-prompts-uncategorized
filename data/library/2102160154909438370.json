@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T00:27:22.839Z",
+  "model": "unknown-image",
+  "prompt": "A charming, composite image featuring a realistic photograph on the top half and a corresponding watercolor illustration on the bottom half, both set against a textured, warm white paper background. The top half presents a hyper-realistic photograph of a joyful young woman with long, wavy brown hair and a blush on her cheeks, wearing a straw hat with a flower and a floral maxi dress. She is smiling up at an apple tree, reaching to pick a red apple, holding a large, wicker basket filled with apples on her arm. The background is a bright, sun-dappled apple orchard. The bottom half, directly below the photo, is a delicate, artistic watercolor illustration capturing the exact same subject and pose in a painterly, soft-focus style, appearing as if rendered on the paper. The illustration maintains the woman's expression, dress, hat, and the entire orchard scene, but with visible brushstrokes and color washes. Both sections are centered, with a distinct, artistic transition between the photograph's border and the illustration's edge, which features soft, feathered paint marks dissolving into the paper. The overall composition feels like an art journal page or a fine art print.",
+  "promptTranslations": {
+    "en": "A charming, composite image featuring a realistic photograph on the top half and a corresponding watercolor illustration on the bottom half, both set against a textured, warm white paper background. The top half presents a hyper-realistic photograph of a joyful young woman with long, wavy brown hair and a blush on her cheeks, wearing a straw hat with a flower and a floral maxi dress. She is smiling up at an apple tree, reaching to pick a red apple, holding a large, wicker basket filled with apples on her arm. The background is a bright, sun-dappled apple orchard. The bottom half, directly below the photo, is a delicate, artistic watercolor illustration capturing the exact same subject and pose in a painterly, soft-focus style, appearing as if rendered on the paper. The illustration maintains the woman's expression, dress, hat, and the entire orchard scene, but with visible brushstrokes and color washes. Both sections are centered, with a distinct, artistic transition between the photograph's border and the illustration's edge, which features soft, feathered paint marks dissolving into the paper. The overall composition feels like an art journal page or a fine art print."
+  },
+  "summaryTranslations": {
+    "en": "An image combining realistic photography and watercolor illustration of a young woman picking apples in an orchard."
+  },
+  "translationVersion": 2,
+  "summary": "写实摄影与水彩插画结合的果园摘苹果年轻女子图像。",
+  "summaryEn": "A realistic photo and watercolor illustration pairing of a young woman picking apples in an orchard.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102160154909438370",
+    "canonicalUrl": "https://x.com/Minahil42298354/status/2102160154909438370",
+    "author": {
+      "username": "Minahil42298354",
+      "displayName": "Minahil",
+      "profileUrl": "https://x.com/Minahil42298354"
+    },
+    "publishedAt": "2026-09-21T22:16:51.000Z",
+    "collectedAt": "2026-09-22T00:16:28.442Z",
+    "language": "en",
+    "originalText": "Joyful apple picking; a painterly dream.\n\nPrompt:             A charming, composite image featuring a realistic photograph on the top half and a corresponding watercolor illustration on the bottom half, both set against a textured, warm white paper background. The top half presents a hyper-realistic photograph of a joyful young woman with long, wavy brown hair and a blush on her cheeks, wearing a straw hat with a flower and a floral maxi dress. She is smiling up at an apple tree, reaching to pick a red apple, holding a large, wicker basket filled with apples on her arm. The background is a bright, sun-dappled apple orchard. The bottom half, directly below the photo, is a delicate, artistic watercolor illustration capturing the exact same subject and pose in a painterly, soft-focus style, appearing as if rendered on the paper. The illustration maintains the woman's expression, dress, hat, and the entire orchard scene, but with visible brushstrokes and color washes. Both sections are centered, with a distinct, artistic transition between the photograph's border and the illustration's edge, which features soft, feathered paint marks dissolving into the paper. The overall composition feels like an art journal page or a fine art print.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSxffUlWgAAFJSb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSxffUlWgAAFJSb.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSxfgf7W0AALpES.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSxfgf7W0AALpES.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 12,
+      "repostCount": 1,
+      "replyCount": 7,
+      "quoteCount": 0,
+      "viewCount": 378
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Minahil42298354/status/2102160154909438370",
+  "coverUrl": "https://pbs.twimg.com/media/HSxffUlWgAAFJSb.jpg",
+  "coverPath": "images/2102160154909438370-1.jpg",
+  "imagePaths": [
+    "images/2102160154909438370-1.jpg",
+    "images/2102160154909438370-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSxffUlWgAAFJSb",
+    "x-image:/media/HSxfgf7W0AALpES",
+    "x-post:2102160154909438370"
+  ],
+  "analysis": {
+    "summary": "写实摄影与水彩插画结合的果园摘苹果年轻女子图像。",
+    "summaryEn": "A realistic photo and watercolor illustration pairing of a young woman picking apples in an orchard.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Attached images depict the described photo and watercolor halves separately, showing the woman picking apples in an orchard."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A charming, composite image featuring a realistic photograph on the top half and a corresponding watercolor illustration on the bottom half, both set against a textured, warm white paper background. The top half presents a hyper-realistic photograph of a joyful young woman with long, wavy brown hair and a blush on her cheeks, wearing a straw hat with a flower and a floral maxi dress. She is smiling up at an apple tree, reaching to pick a red apple, holding a large, wicker basket filled with apples on her arm. The background is a bright, sun-dappled apple orchard. The bottom half, directly below the photo, is a delicate, artistic watercolor illustration capturing the exact same subject and pose in a painterly, soft-focus style, appearing as if rendered on the paper. The illustration maintains the woman's expression, dress, hat, and the entire orchard scene, but with visible brushstrokes and color washes. Both sections are centered, with a distinct, artistic transition between the photograph's border and the illustration's edge, which features soft, feathered paint marks dissolving into the paper. The overall composition feels like an art journal page or a fine art print.",
+    "sourceRange": {
+      "start": 62,
+      "end": 1250
+    },
+    "translations": {
+      "zh": "一张迷人的合成图像，上半部分为写实照片，下半部分为相应的水彩插画，均以带纹理的暖白色纸张为背景。上半部展现一位笑容灿烂的年轻女子的高清写实照片，她留着波浪卷棕发，面带红晕，头戴带花草帽，身穿碎花长裙。她仰头微笑着望向苹果树伸手摘红苹果，臂弯挎着装满苹果的大柳条筐，背景为阳光斑驳的明亮苹果园。下半部分紧随其下，是一幅精致柔焦风格的水彩插画，完全复现相同的主体与姿势，笔触与水彩晕染清晰可见。两部分边缘过渡柔和羽化，整体呈现艺术手账页或版画风格。",
+      "en": "A charming, composite image featuring a realistic photograph on the top half and a corresponding watercolor illustration on the bottom half, both set against a textured, warm white paper background. The top half presents a hyper-realistic photograph of a joyful young woman with long, wavy brown hair and a blush on her cheeks, wearing a straw hat with a flower and a floral maxi dress. She is smiling up at an apple tree, reaching to pick a red apple, holding a large, wicker basket filled with apples on her arm. The background is a bright, sun-dappled apple orchard. The bottom half, directly below the photo, is a delicate, artistic watercolor illustration capturing the exact same subject and pose in a painterly, soft-focus style, appearing as if rendered on the paper. The illustration maintains the woman's expression, dress, hat, and the entire orchard scene, but with visible brushstrokes and color washes. Both sections are centered, with a distinct, artistic transition between the photograph's border and the illustration's edge, which features soft, feathered paint marks dissolving into the paper. The overall composition feels like an art journal page or a fine art print."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "artwork",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

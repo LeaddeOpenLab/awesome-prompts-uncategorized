@@ -19,19 +19,328 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**467** Prompts · Latest addition: **2026-09-21**
+**449** Prompts · Latest addition: **2026-09-22**
 
 <a name="catalog"></a>
 
 ## Browse by Category
 
-[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render) · [Chibi / Q-Style](#category-chibi-q-style) · [Isometric](#category-isometric) · [Oil Painting](#category-oil-painting) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
+[Photography](#category-photography) · [Cinematic / Film Still](#category-cinematic-film-still) · [Anime / Manga](#category-anime-manga) · [Illustration](#category-illustration) · [Sketch / Line Art](#category-sketch-line-art) · [Comic / Graphic Novel](#category-comic-graphic-novel) · [3D Render](#category-3d-render) · [Chibi / Q-Style](#category-chibi-q-style) · [Oil Painting](#category-oil-painting) · [Watercolor](#category-watercolor) · [Retro / Vintage](#category-retro-vintage) · [Cyberpunk / Sci-Fi](#category-cyberpunk-sci-fi) · [Minimalism](#category-minimalism) · [Other](#category-other)
 
 <a name="all-prompts"></a>
 
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2102149669896012031"></a>
+
+### A realistic portrait prompt of a woman wearing pale pink lace lingerie, lying on her back on a bed in a morning bedroom.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2102149669896012031)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A realistic portrait prompt of a woman wearing pale pink lace lingerie, lying on her back on a bed in a morning bedroom.
+
+<img src="images/2102149669896012031-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Morning Bedroom | Soft Morning Light and a Shy Pale Pink Smile🌟
+
+[Subject / Art Style]
+A photorealistic image capturing a moment where a clearly adult Japanese woman is lying on her back on a bed in a morning bedroom, suddenly locking eyes with her lover. Combining delicate pale pink floral lace, white bedding, and natural morning light, this portrays the elegance of a photo book scene alongside an intimate cuteness casually revealed in daily life.
+Rather than an overly staged gravure shot, emphasize a natural sense of distance as if taken from the lover's point of view. Soft facial expressions, details of the lace, and the texture of the bedding are all depicted realistically like a genuine photograph.
+
+[Location / Background / Worldview]
+A quiet bedroom styled in a base of white and muted dusty pink. On the large bed, clean white sheets, a duvet, and fluffy white pillows are arranged; the woman lies atop the duvet. The duvet spreads out beneath her body and does not cover her legs or attire.
+Sheer white curtains hang over the window, and at the bedside are a small round table, understated lighting, and softly colored flowers. Without cluttering the space with too many props, create an environment that feels both clean and lived-in, where the white bedding and pale pink outfit naturally take center stage.
+
+[Season / Time / Weather]
+A calm, clear morning reminiscent of spring to early summer. Not immediately after sunrise, but at a time when ample natural light has begun to filter into the room through the curtains.
+The breeze outside is gentle, causing the sheer curtains to sway only slightly. Rather than harsh direct sunlight, the diffused light passing through the white curtains creates a quiet, soft atmosphere typical of a room just awakening from sleep.
+
+[Character Setting]
+A distinctly adult 23-year-old Japanese woman. Soft and well-proportioned facial features with slightly large dark-irised eyes, natural eyebrows, gently rounded cheeks, and soft lips with healthy color. Dark brown, shoulder-length naturally wavy hair spreading softly over the pillow. Her skin is a bright ochre tone, retaining natural color and fine shading.
+With slender shoulders and limbs and a narrow waist, she has an elegantly glamorous physique where feminine curves connect naturally. Her breasts possess distinctly large, rich volume, yet without unnatural exaggeration, displaying soft roundness and depth that conform to her supine posture and gravity.
+
+[Costume / Accessories]
+A halter-neck babydoll based on a pale pink sheer material. The bust area features detailed floral lace with matching color lining, ensuring realistic cup width and fabric coverage that effortlessly cradles her full bust. A small ribbon or understated accent is placed at the center of the neckline.
+The hem is made of a light, translucent lace material that spreads softly over the white bedding. Paired with matching floral lace panties, which include matching colored lining. No jewelry or accessories are worn, prioritizing a natural morning feel.
+
+[Pose / Action / Gaze]
+Resting her head on a white pillow, she lies on her back across the bed, stretching her body along the frame's diagonal. Shoulders and back naturally relax into the bedding, in an unarched, relaxed posture. Her legs are extended almost straight, ankles lightly crossed.
+One hand gently pinches the edge of the pillow with her fingertips near her head, while the other hand rests relaxed beside her body. Realizing her lover is gazing at her, she turns her face slightly away from the camera, yet shifts her eyes back to meet their gaze.
+
+[Expression / Emotion]
+A shy, embarrassed smile at the sudden eye contact with her lover. Not laughing with an open mouth, her lips remain lightly closed as the corners slightly lift. A slight tension forms in her cheeks while her eyes soften warmly.
+Her gaze carries an intimacy that seems to ask, "Were you watching me?" Rather than an artificial cuteness, it captures a natural, slightly vulnerable emotion—turning her face away yet unable to stop looking back.
+
+[Composition / Camera]
+A 4:5 vertical portrait orientation suited for X posts. A full-body composition that comfortably fits her entire body from the crown of her head to her bare toes, without cropping overhead, fingers, or feet. The woman's body is arranged along the diagonal of the frame, generating natural motion within the vertical composition.
+The camera is positioned beside the bed, aimed diagonally downward from above, captured from a height where both the bedding and the woman's full body are simultaneously visible. Using a natural focal length ranging from standard to slightly medium telephoto, avoiding wide-angle distortion of limbs or bust. The background is softly blurred while preserving enough detail to clearly identify it as a bedroom.
+
+[Light / Color / Texture / Atmosphere]
+The main light source is the natural morning light entering from the window on the left side of the frame, softly diffused by white curtains. Weak reflected light from the white walls and bedding illuminates the opposite side, naturally lifting shadows on her face and body. Shadows are faint, with a color temperature that is morning-fresh, neutral to slightly warm.
+The skin retains pores, fine shading, and natural flush, while the hair shows individual strand movement and soft spread across the pillow. The floral lace features delicate embroidery and sheer fabric transparency, and the bedding depicts the fine wrinkles and softness of cotton. Coordinated in white, pale pink, and muted dusty pink to evoke the intimacy and cleanliness of a quiet morning.
+
+[Quality / Excluded Elements]
+As a high-resolution photorealistic photograph, prioritize realistic human anatomy, lighting, textures, and perspective as if shot on a real camera. Depict as a distinctly adult woman, avoiding overly youthful facial features or expressions that look underage.
+Avoid extra limbs or fingers, missing or fused digits, unnatural joints, reversed left/right hands, merging of body parts with clothing, wardrobe malfunctions, or unintended exposure. While maintaining full, natural breast volume, avoid hard spherical shapes, unnatural enlargement, excessive push-up effects, or forms contradicting a supine posture and gravity. Exclude extreme wide-angle distortion, overprocessed beauty smoothing, unnatural backgrounds, text, logos, watermarks, and UI elements.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102150582949830849"></a>
+
+### A photorealistic portrait of a Japanese woman lying on her back in a morning bedroom in a peach-pink babydoll, giving a small wave.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2102150582949830849)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** A photorealistic portrait of a Japanese woman lying on her back in a morning bedroom in a peach-pink babydoll, giving a small wave.
+
+<img src="images/2102150582949830849-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Morning Bedroom | Soft Light and a "Good Morning" Smile🌟
+
+[Subject & Art Style]
+A photorealistic photograph capturing a very natural, intimate moment between lovers waking up in a morning bedroom. Depicts a clearly adult Japanese woman lying in bed, noticing her lover entering the bedroom, and giving a small wave. Giving it the aesthetic beauty of a photo book, not overly staged, but rendered with soft photographic expression that conveys a sense of everyday life and the close distance between lovers.
+Rather than glamour, the core charm lies in the morning tranquility, the natural expression upon waking, and the combination of peach-pink attire and white bedding. Exudes a refined cuteness mingled with a slightly heart-fluttering intimacy.
+
+[Location, Background, & Worldview]
+A clean home bedroom based on pale beige and white tones. White sheets, plump pillows, an ecru-colored duvet, and a soft knit blanket are naturally arranged on the bed. Sheer white curtains hang over the window, through which morning sunlight filters in.
+Beside the bed sits a small side table in light wood grain, holding a minimal amount of everyday morning items such as an understated flower vase and an alarm clock. The background is tidy yet not sterile like a hotel, retaining the warmth of two people actually living together.
+
+[Season, Time, & Weather]
+A morning evoking mild spring to early summer. The time is around 7:00 AM; it is sunny outside, but rather than harsh direct sunlight, soft morning light filtered through sheer curtains spreads throughout the room.
+There is almost no breeze, just enough to sway the curtains ever so slightly. A quietness typical of the start of the day lingers, creating an atmosphere where the slightly cool morning air and the warmth of the bedding can be felt simultaneously.
+
+[Character Profile]
+A clearly adult Japanese woman around 27 years old. Features soft, well-proportioned, mature adult facial contours, slightly large dark eyes, natural eyebrows, an elegant nose bridge, and rosy, soft lips. Dark brown, naturally wavy hair reaching slightly past the shoulders, with stray strands around the face and hair ends characteristic of waking up.
+Her skin has a bright ochre undertone, not overly airbrushed, naturally retaining cheek flush and subtle shading. Possessing slender shoulders, limbs, and a narrow waist contrasted with feminine rounded hips and a distinctly large, rich bust, forming a naturally glamorous figure. The bust has a soft weight and volume, blending naturally with her reclining posture and clothing.
+
+[Outfit & Accessories]
+Wears a peach-pink halter-neck babydoll and matching panties. The babydoll is primarily made of thin, soft sheer fabric, adorned with delicate small floral embroidered lace at the bust. The bust area and panties are lined with matching opaque fabric, creating an elegant design that properly covers essential areas.
+The fabric fits naturally to her generous bust without being overly stretched or digging in, maintaining realistic clothing proportions. The fabric around the torso has a light sheer translucency and a soft drape, creating natural folds and creases conforming to her lying posture. No accessories are worn, prioritizing a morning-appropriate simplicity.
+
+[Pose, Action, & Gaze]
+The woman lies on her back on the bed, her head resting naturally on the center pillow. Her body is slightly angled relative to the camera, with legs comfortably extended without undue tension in the knees or ankles. Only the toes of one foot are turned slightly outward, expressing a natural sense of relaxed waking.
+Noticing her lover entering the bedroom, she turns only her face slightly in that direction. One hand rests naturally on the bedding, while the other hand is lightly raised beside her shoulder, fingers gently open in a small wave. Her gaze meets her lover's eyes not intensely, but in a gentle, tender alignment.
+
+[Facial Expression & Emotion]
+Eyes naturally open, bearing an expression mixing relief and delight the moment she spots her lover entering the bedroom. Tension is released from the brows and cheeks, and the eyes soften gently. A subtle, natural smile graces her mouth, with lips parted just slightly as if beginning to say "Good morning."
+Not a forced smile, but keeping the slightly defenseless aura of having just woken up. Rather than performing happiness overtly, it conveys the intimacy of naturally smiling upon realizing "You're here," along with the gentle expressions unique to morning.
+
+[Composition & Camera]
+A 4:5 vertical aspect ratio suited for X posts. A full-body composition that comfortably accommodates the entire figure from head to toe. The subject is positioned slightly diagonally along the vertical frame, naturally showing the breadth of the bed and part of the bedroom. Leaving margins so the top of the head, fingertips, and toes are not cropped, maintaining a distance that allows her entire posture and small wave to be understood at a glance.
+The camera is positioned slightly high to the side of the bed, angled diagonally downward. The focal length is in the standard to short-telephoto range, avoiding unnatural distortion of the face, bust, or limbs. The background has only mild depth-of-field blur, preserving enough depth to clearly indicate it is a bedroom.
+
+[Light, Color, Texture, & Atmosphere]
+The primary light source is soft natural morning light entering from the window on the left side of the frame. Diffuse light passing through the white curtains falls diagonally across her cheek, bust, hair, and lace, while gentle ambient bounce light from the bedding fills the opposite side. Shadows are kept gentle, just enough to naturally reveal facial contours and clothing dimensions.
+A gentle color palette centered around peach pink, ivory, pale beige, and light wood grain. The skin preserves pores, fine shading, and natural flush; the hair shows delicate strands and wisps; and the lace depicts the fine texture of embroidery and sheer fabric. The entire image conveys a quiet, sweet, and warm atmosphere marking the start of a day with a lover.
+
+[Quality & Negative Elements]
+Rendered as a high-resolution photorealistic photograph, depicting the human body, clothing, light, bedding, and perspective realistically. Depicted clearly as an adult woman, avoiding juvenile facial features or an overly childish physique.
+Avoid extra limbs or fingers, missing fingers, fused fingers, unnatural joints, twisted anatomy, swapped left/right hands, clothing fused to the body, broken clothing, and unintentional exposure. The bust maintains natural, ample volume without appearing as hard spheres, unnaturally pushed up, or defying gravity. No extreme wide-angle distortion, excessive skin-smoothing/airbrushing, unnatural backgrounds, text, logos, watermarks, or UI overlays.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102151729752211626"></a>
+
+### Photorealistic portrait prompt of a woman in a coral bikini extending her hand on a beach at dusk.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2102151729752211626)
+
+Photography · Portrait / Selfie · Character · Landscape / Nature · Published
+
+**Summary:** Photorealistic portrait prompt of a woman in a coral bikini extending her hand on a beach at dusk.
+
+<img src="images/2102151729752211626-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟 Shoreline in the Sunset Glow | A Smile Reaching Out a Hand in a Coral Bikini 🌟
+
+[Subject & Art Style]
+A photorealistic portrait set on a quiet sandy beach at dusk, capturing the intimacy of a moment spent walking side by side with a lover. A natural, photo-book style shot that conveys not only the subject's charm, but also the coastal air, the waves at her feet, and the warm colors of the setting sun.
+Emphasize the realism of a shot taken with an actual camera without excessive staging, expressing a gentle sense of emotion and open-air freedom simultaneously.
+
+[Location, Background & Worldview]
+The setting is a quiet sandy beach and shoreline at dusk. The foreground features damp, glistening sand and shallow lapping waves; the midground shows the walking woman; the background reveals a calm sea, low silhouettes of rocks, and a softly tinted sky.
+The background is a serene, sparsely populated beach with a short trail of footprints leading behind her feet. The worldview naturally portrays a peaceful vacation moment with a partner, feeling open yet never desolate.
+
+[Season, Time of Day & Weather]
+The season is early to mid-summer at the seaside. The time is late afternoon just before sunset; the air still holds gentle warmth, and a light sea breeze softly ruffles her hair and bikini frills.
+The weather is clear. The oblique rays of the setting western sun cast long reflections across the ocean's surface, while the sky softly blends orange, pink, and pale blue. The air is crisp and calm, imbued with a quiet sense of exhilaration.
+
+[Character Description]
+A clearly adult Japanese woman, around 20 to 28 years old. She has soft, well-balanced facial features, dark expressive eyes, natural eyebrows, and healthy, rosy lips, exuding an approachable and mature charm. Her hair is dark brown, shoulder-length with natural waves, with loose strands and tips gently swaying in the coastal breeze.
+Her skin has a bright ochre tone with a natural, realistic texture rather than an overly airbrushed smoothness. Her physique features delicate shoulders and limbs, a slender waist, and feminine curves harmoniously combined in an elegant, naturally glamorous build. Her bust has a distinctly generous, voluminous fullness, rendered with soft, three-dimensional realism that sits naturally with her posture and outfit.
+
+[Outfit & Accessories]
+She wears a coral orange halter-neck bikini with ruffled lace. The top features delicate, petite overlapping frills lining the neckline, accented by halter straps and a small center tie knot. The bottoms are in a matching colorway with thin side-tie strings, creating a coordinated look.
+The fabric feels like soft, stretchy swimwear layered with light lace detailing. It follows the natural contours of her body with a realistic fit, free from unnatural bunching, gaps, or pinching around the chest and hips. Accessories are kept minimal, limited to small stud earrings if any.
+
+[Pose, Movement & Gaze]
+While walking along the shoreline, the woman slightly eases her stride, keeping her body turned naturally in her direction of travel while turning only her upper torso and face slightly toward her lover to her left. Mid-stride with one leg forward, her weight rests lightly on the back leg as the toes of her front foot gently touch the wet sand.
+She extends her left hand from below hip level toward her partner, a natural gesture just moments before holding hands. Her fingertips are relaxed, and her right arm hangs naturally by her side. Her gaze is directed at her lover; the camera adopts the point of view of the partner walking beside her, without showing the partner's figure or hand in the frame.
+
+[Expression & Emotion]
+Her expression is an intimate, natural smile meant only for her lover. Her eyes soften gently, and a modest, refined smile plays on her lips, revealing a delicate blend of shyness and happiness.
+Prioritize the quiet reassurance of walking side by side and the tender affection of unspoken feelings over an elaborately staged pose. The emotional tone is sweet yet grounded, conveying a calm, endearing warmth.
+
+[Composition & Camera]
+Vertical 4:5 aspect ratio optimized for social media posts. A full-body composition that comfortably frames her from the top of her head to her feet, naturally capturing her outstretched hand, walking feet, and the water's reflection. The subject is positioned slightly off-center to balance the negative space on both sides, emphasizing her walking direction and the expansive sea.
+The camera height is at chest-to-eye level, closely matching the point of view of a lover walking alongside her. The shooting distance is a medium shot capturing both her full figure and her expression, using a standard to mild telephoto focal length to avoid extreme wide-angle body distortion. The background maintains a natural depth of field, keeping enough detail to convey the setting.
+
+[Lighting, Color, Texture & Atmosphere]
+The primary light source is the low setting sun positioned in the far right background. It casts a warm rim light along the contours of her hair and shoulders from a diagonal back-angle, while ambient light reflected from the sky and sand illuminates the front, rendering her facial expression soft and bright. Shadows remain gentle, avoiding harsh contrast.
+The color palette centers around the coral orange of her swimwear, harmonizing with the orange of the sunset sky, the blue-gray of the ocean, and the soft brown of the wet sand. Her skin has a natural flush, her hair shows fluid strand definition, the water sparkles with subtle ripples, and the sand displays a moist, granular texture, cultivating an overall tender and romantic atmosphere.
+
+[Quality & Negative Elements]
+High resolution emphasizing natural human anatomy, realistic lighting, and tactile textures of fabric, water, and sand as if captured by a real-world camera. Avoid expressions or features that appear underage or excessively childish, as well as unnatural body proportions or extreme exaggerations.
+Do not include extra limbs or fingers, missing digits, unnatural joints, wardrobe glitches, clothing merging into skin, unintended exposure, extreme wide-angle distortion, artificial bokeh, or text, logos, watermarks, and UI overlays. The bust must remain naturally voluminous without looking unnaturally massive, rigid, spherical, or artificially pushed up.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102153577913573851"></a>
+
+### A photorealistic prompt depicting an adult Japanese woman smiling in saxe-blue embroidered lingerie within a twilight dressing space.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2102153577913573851)
+
+Photography · Portrait / Selfie · Character · Fashion Item · Published
+
+**Summary:** A photorealistic prompt depicting an adult Japanese woman smiling in saxe-blue embroidered lingerie within a twilight dressing space.
+
+<img src="images/2102153577913573851-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Dressing Table at Twilight | Saxe Blue and a Shy Smile🌟
+
+[Subject / Art Style]
+A photorealistic portrait depicting an unmistakably adult Japanese woman getting dressed in a dressing space at twilight. Capturing an intimate, candid moment in daily life, she sits on a round stool, resting her fingertips near her ear as she turns her face toward her lover. It combines the refined aesthetic of fashion photography with the lived-in realism and gentle closeness of an impromptu indoor shot.
+Emphasis is placed on the naturalness of an accidental capture with a real-world camera, rather than an overly staged gravure aesthetic. An elegant, serene photobook-style finish where the delicate embroidery of the lingerie, the twilight window, and the warm glow of the dressing table harmonize gracefully.
+
+[Location / Background / Worldview]
+A calm dressing space featuring a light wood-grain vanity and a beige, fabric-upholstered round stool. On the right side of the frame sits the wooden vanity, its surface naturally arranged with a wooden hairbrush, small perfume bottles, an accessory tray, and a vase holding pale flowers. The mirror is partially visible only at the edge of the frame, angled so that the subject's face does not prominently reflect or duplicate.
+In the background to the left is a large window with sheer curtains, beyond which the twilight sky and a distant cityscape are softly visible. The floor is light-toned wood, with a soft, medium-pile rug underfoot. Plants and subtle botanical art pieces are placed discreetly in the background, enhancing the residential warmth without distracting from the subject.
+
+[Season / Time of Day / Weather]
+A mild season reminiscent of early autumn or early spring. The time is the transition from late afternoon into dusk, with the sky outside the window presenting a soft gradient of pale orange and blue-violet. The weather is clear to lightly overcast, with no harsh direct sunlight, allowing gentle natural light to fill the room.
+The hour when the slightly cool, blue-tinted window light begins to mingle with the warm indoor illumination. It evokes a serene, restful atmosphere heading toward the quiet end of a day.
+
+[Character Settings]
+An unmistakably adult Japanese woman around 25 years old. She has soft, well-proportioned adult facial features with slightly large eyes, natural eyebrows, flushed lips, and gently rounded cheeks. Her dark brown hair reaches just past her shoulders, featuring natural soft waves, bangs, and delicate loose strands framing her face. Her skin has a bright ochre undertone with realistic texture, preserving pores and subtle shading.
+Her body type harmoniously balances slender shoulders, graceful limbs, and a slim waist with feminine curves, resulting in a naturally glamorous figure. Her bust is noticeably full and ample, yet represented with soft roundness, natural weight, and adherence to her posture and attire without unnatural exaggeration. Gentle curves continue through her hips, prioritizing full-body balance.
+
+[Attire & Accessories]
+A matching bra and panty set in saxe blue (soft dusty blue). Embroidered atop a smooth, opaque fabric are white and pale ivory florets with delicate leaves, finished with subtle scalloped lace along the upper edge of the bra cups and the panty borders. The embroidery is tastefully arranged with a natural, refined asymmetry.
+The bra is realistically sized to accommodate her full bust; the cups naturally support and cradle the breasts without excessive pulling, pinching, or digging. Thin shoulder straps rest naturally along her body. The panties fit smoothly around her hips without bunching, maintaining the integrity of the lace and embroidery. No additional accessories are worn, keeping the aesthetic clean and simple.
+
+[Pose / Movement / Gaze]
+The woman sits lightly perched on the round stool, angling her body diagonally relative to the vanity. Her legs extend naturally forward without being pressed tightly together, both bare feet resting gently on the floor. Her seated posture naturally distributes her weight onto the stool without excessive arching of the lower back or spine.
+Her left hand lingers near her ear, capturing the motion of just having tucked her hair behind it. Her right hand rests relaxed upon her right knee, fingers naturally grouped together. While her body remains angled toward the vanity, her head turns back toward her partner, her gaze meeting the camera straight-on. The movement of her neck and shoulders flows seamlessly without awkward twisting.
+
+[Expression & Emotion]
+A gentle, softening look in her eyes accompanied by a small, closed-lip smile. Rather than a wide grin, it is an intimate, slightly bashful expression, as if playfully checking in with her partner who is watching her dress—asking "How do I look?" Her eyebrows remain in a relaxed position, and a delicate flush graces her cheeks.
+With a subtle tilt of her head, her gaze conveys security, comfort, and warmth. Rendered not as a forced smile, but as a genuine moment where her features naturally soften upon seeing someone dear.
+
+[Composition / Camera]
+Vertical 4:5 aspect ratio suitable for an X post. A full-body framing from the top of her head to the tips of her bare feet, leaving adequate negative space above her head, at her hands, and beneath her feet. The subject is positioned slightly to the left of the center, with the vanity included on the right to ground the setting. The camera is placed at roughly chest-to-waist height relative to the subject, shooting diagonally from the front toward the dressing table.
+A natural focal length (standard to moderate telephoto) is used to avoid wide-angle distortion on the body or feet. Maintained at a distance that allows her expression to be clearly read while capturing the stool, vanity, window, and floor. The background has a gentle depth-of-field blur, keeping enough depth to distinguish the dressing area and the twilight window.
+
+[Lighting / Color / Texture / Atmosphere]
+The primary light source is the soft evening natural light streaming from the window on the left. A faint blue-tinted cool light grazes the left side of her skin, while the warm, incandescent-toned lamp at the vanity provides gentle fill light from the opposite side. The soft gradations create three-dimensional depth without harsh shadows on her face or body. Outside the window, a blend of soft twilight orange and blue-gray contrasts with the warm interior palette of beige and natural wood.
+The skin retains fine gradations, subtle shadows, and a natural rosy glow rather than being airbrushed smooth. Hair displays individual strands, sheen, and fine flyaways; embroidered lace exhibits tactile thread texture and soft fabric tension. Material nuances are realistically rendered across wooden furniture, upholstered stool, glass perfume bottles, and the plush rug. The overall ambiance is peaceful, intimate, and touched with a quiet sense of romantic thrill.
+
+[Quality & Exclusions]
+High-resolution photorealistic rendering. Prioritizes natural human anatomy, realistic lighting, perspective, and tactile textures as captured by an authentic camera. Avoid underage appearance, overly childish facial features, anatomical flaws, extra limbs or fingers, missing fingers, fused fingers, unnatural joints, and swapped left/right hands.
+Avoid wardrobe malfunctions, fabric fusing into skin, unnatural flesh pinching, unintended exposure, extreme wide-angle distortion, and excessive skin-smoothing filters. Maintain a rich, natural volume for the bust without stiff spherical shapes, unnatural push-up artifacts, or anti-gravity shapes. No text, logos, watermarks, speech bubbles, or UI overlays within the image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102148560078954751"></a>
+
+### Photorealistic portrait of a woman smiling in a bedroom on a heavily rainy night, wearing white floral-embroidered lingerie.
+
+Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2102148560078954751)
+
+Photography · Portrait / Selfie · Character · Published
+
+**Summary:** Photorealistic portrait of a woman smiling in a bedroom on a heavily rainy night, wearing white floral-embroidered lingerie.
+
+<img src="images/2102148560078954751-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+🌟Heavy Rainy Night | White Floral Embroidery and a Smile Before "Good Night"🌟
+
+【Subject / Art Style】
+A photorealistic, photo-book style capture of a clearly adult Japanese woman sitting on a bed in her bedroom on a night of heavy rain, in the moment just before saying goodnight to her lover standing right in front of her. Rather than an elaborately staged gravure shoot, the image retains an intimate, lived-in feel, as if naturally photographed at close range by her lover. The scene contrasts the warm interior against the rain-soaked, blue night within a single frame.
+
+【Location / Background / Worldview】
+A quiet bedroom decorated in tones of white and pale beige. Behind the woman sits a bed with fluffy white pillows and a soft white duvet. On the left side of the frame is a closed window with the curtains pulled back, clearly depicting raindrops of various sizes and flowing rivulets of water streaking across the glass surface.
+Outside the window, a muted night cityscape is visible, showing wet streets, distant building lights, and reflections of streetlamps. Indoor furniture and accessories are kept to a minimum, creating a calm, private sanctuary with just the bed, window, and a warm lamp.
+
+【Season / Time / Weather】
+A slightly cool night without specifying an exact season. Outside, torrential rain continues to fall, heavy enough that diagonal streaks of rain can be seen slicing through the streetlamp glow. The wind and rain exist strictly outside the window; the woman's hair, skin, bedding, and room interior remain completely dry.
+The time is deep night just before sleep. Outside is a dark, bluish tone rather than pure black, retaining just enough ambient night light to discern raindrops and the glistening city.
+
+【Character Details】
+A clearly adult 27-year-old Japanese woman. Soft, well-proportioned facial features, slightly large dark-pupiled eyes, natural eyebrows, and soft lips with a natural flush. Natural shoulder-length wavy dark brown hair, with fine loose tendrils framing the face without obscuring her eyes or mouth.
+Fair warm-toned skin with visible pores and subtle shading. A naturally glamorous physique featuring delicate shoulders and arms, a slim waist, and soft feminine curves. Her bust is distinctly large and full, yet rendered with soft, realistic volume that conforms to her clothing, posture, and gravity, maintaining a natural balance with her overall body.
+
+【Outfit / Accessories】
+A white base bra adorned with delicate small floral embroidery, and matching panties. In this bust-up crop from the chest to the face, the panties remain out of frame, naturally revealing the bra's shoulder straps, the lace trimming at the top of the cups, and the subtle floral embroidery.
+The cups feature an opaque white lining layered with delicate floral embroidery and narrow lace trim. Properly sized to comfortably support her full bust without extreme stretching or digging in, offering a realistic fit. No jewelry or accessories are worn, prioritizing an unadorned, pre-bedtime simplicity.
+
+【Pose / Action / Gaze】
+The woman sits naturally on the edge of the bed, gently angling her upper body toward her lover. Her left hand rests on the mattress slightly behind her body to support her upper torso, while her right hand rests lightly on the bedsheet beside her thigh. Both hands are placed out of frame in this bust-up composition.
+Her shoulders are relaxed and her back is gently straightened without tension. With her head tilted ever so slightly, her gaze looks straight at her lover behind the camera. She avoids any unnatural arching of the back or forced thrusting forward of the chest.
+
+【Facial Expression / Emotion】
+A gentle, intimate, and natural smile directed at her lover. Her eyes are softly relaxed, conveying the tranquil ease of feeling safe and winding down the day. Her lips are naturally closed, forming a gentle, unforced smile that captures the exact moment she is about to softly whisper "good night."
+A natural flush from the warm indoor lighting graces her cheeks, with the warmth of her smile extending to her eyebrows and eyes. Prioritizing the tender, slightly shy softness shown only to an intimate partner over a self-conscious model smile.
+
+【Composition / Camera】
+A 4:5 vertical aspect ratio suited for an X (Twitter) post. A bust-up composition prominently framing from the upper chest to the top of the head, leaving a small amount of headroom. The woman is positioned slightly to the right of center, allowing ample space on the left to display the rain-streaked window.
+The camera is positioned at nearly eye-level with the woman's face at close range. Assuming a natural focal length of around 50–70mm (standard to short telephoto), avoiding wide-angle distortion of the face or chest. The background is softly blurred while preserving enough detail to convey the raindrops on the glass and the intensity of the rain outside.
+
+【Lighting / Color / Texture / Atmosphere】
+The primary light source is a warm bedside lamp located in the back-right of the frame, casting soft, warm light across her face, cheeks, chest, and white lace. From the window side, faint, bluish night light filters in, creating a subtle cool rim light along the contours of her hair and shoulder. A nighttime lighting scheme where warm and cool tones blend naturally.
+Skin shows subtle shading and natural vitality; hair displays individual strands and healthy sheen; lingerie retains the physical texture of the fabric, embroidery threads, and dimensional lace. The wet transparency of the window glass contrasts sharply with the soft fabric of the bedding, heightening the mood between the calm interior and the fierce storm outside.
+
+【Quality / Negative Prompts】
+High resolution, natural human proportions, photorealistic photography with realistic lighting and perspective. Clearly an adult subject; avoid overly youthful facial features or any appearance of a minor.
+Avoid extra limbs, fingers, unnatural joints, merging of body and clothing, damaged garments or unintended wardrobe malfunctions, extreme wide-angle distortion, or excessive airbrushing/skin smoothing. While preserving natural full bust volume, avoid rigid spherical shapes, exaggerated push-ups, or unnatural anti-gravity forms. Avoid any rain entering indoors or touching the subject, as well as text, logos, watermarks, speech bubbles, and UI overlays.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101855527278178459"></a>
 
@@ -3579,122 +3888,6 @@ photorealistic candid nightlife photography, luxury private business KTV room, b
 
 ---
 
-<a name="prompt-2100057486099431839"></a>
-
-### Candid 9:16 nighttime smartphone flash photo of a woman in an oversized white shirt sitting on a dark beach.
-
-Author：[@itxsarmadd](https://x.com/itxsarmadd) · [Source](https://x.com/itxsarmadd/status/2100057486099431839)
-
-Photography · Portrait / Selfie · Character · Published
-
-**Summary:** Candid 9:16 nighttime smartphone flash photo of a woman in an oversized white shirt sitting on a dark beach.
-
-<img src="images/2100057486099431839-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2100057486099431839-2.jpg" alt="Image 2" width="480" />
-
-**Prompt**
-
-```text
-Use the person from the reference photo as the strict identity reference. Preserve her face, facial features, skin tone, hairstyle, and overall identity exactly.
-
-Create a photorealistic vertical 9:16 nighttime smartphone photograph at a dark beach. She is sitting naturally on dark, slightly damp sand near the shoreline, surrounded by a nearly black ocean with softly blurred waves and a very dark sky. Capture the moment as an authentic candid snapshot rather than a posed portrait.
-
-She wears a loose, oversized white button-up shirt that looks slightly damp and naturally wrinkled, with the collar casually unbuttoned. Her very long hair is being blown dramatically by the coastal wind, with strands partially covering her face. One hand is naturally raised as she brushes the windblown hair away. Keep the expression relaxed and spontaneous. Light, natural-looking makeup and realistic skin texture.
-
-Use a strong direct smartphone on-camera flash from the front, producing bright illumination on her face and clothing while the surrounding beach and ocean remain deep and dark. Create realistic flash falloff and strong contrast between the subject and background.
-
-Add authentic smartphone-camera imperfections: noticeable motion blur in the moving hair and waves, subtle film grain, digital noise, slight atmospheric haze, imperfect focus, mild lens softness, realistic highlight clipping, and natural computational-camera processing. The image should feel like a spontaneous late-night beach snapshot rather than a professionally staged photoshoot.
-
-Overall aesthetic: cinematic dark mood, raw Pinterest-inspired photography, realistic skin texture, natural imperfections, candid composition, believable smartphone photography, no studio lighting, no artificial-looking retouching, no text, no logos, no watermark.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2100081996760531273"></a>
-
-### A detailed smartphone-photo-style prompt depicting a 22-year-old Japanese woman lending a power bank to a friend at a traditional cafe.
-
-Author：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Source](https://x.com/HObE4TLMga99335/status/2100081996760531273)
-
-Photography · Portrait / Selfie · Character · Published
-
-Source：[@HObE4TLMga99335](https://x.com/HObE4TLMga99335) · [Source](https://x.com/HObE4TLMga99335/status/2099738231155691801)
-
-**Summary:** A detailed smartphone-photo-style prompt depicting a 22-year-old Japanese woman lending a power bank to a friend at a traditional cafe.
-
-<img src="images/2100081996760531273-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2100081996760531273-2.jpg" alt="Image 2" width="480" />
-
-<img src="images/2100081996760531273-3.jpg" alt="Image 3" width="480" />
-
-**Prompt**
-
-```text
-Character Identity:
-A fictional 22-year-old adult Japanese woman. Clearly an adult 4th-year university student majoring in computer science. A sophisticated, fair-skinned "shiro-gyaru" (fair-skinned gal). Distinctly elongated heart-shaped face, high cheekbones, slender chin, slightly hooded horizontally long almond-shaped dark hazel eyes, slightly upturned outer eye corners, sharply defined high arched eyebrows, a slender straight nose with a sharp tip, and glossy lips with a fuller lower lip. Clear, luminous neutral skin without a tan, realistic texture, retaining subtle natural asymmetries, with exactly one small beauty mark high on her anatomical right cheek. Naturally lustrous black long layered hair reaching below her chest, completely pin-straight from roots to tips without any waves or curls whatsoever. Modern, clean gyaru makeup featuring honey-brown colored contacts, long eyelashes, thin winged eyeliner, and coral-beige lipstick. Her signature expression is a broad, confident smile showing teeth. Maintain this fictional adult woman's persona, facial structure, beauty mark position, black hair color, straight hair texture, length, and mature adult age accurately across all scenes.
-
-Physique Continuity:
-168 cm tall with long legs, a confident upright posture, and a glamorous yet realistic adult physique. Her fixed physique features a naturally full bust proportionate to her ribcage, with realistic base width, forward projection, soft weight, and natural gravity. A toned yet realistic waist, with well-balanced hips and thighs proportionate to her long legs. Maintain the proportions of height, ribcage, waist, pelvis, and limbs regardless of camera angle. Conveys her physique through ordinary opaque clothing and natural fabric tension, without push-up effects, exaggerated cleavage, padding, extreme compression, implant-like spheres, or impossibly tiny waists.
-
-Shooting Situation:
-16:10. Lending a charger to a friend whose battery is about to die. A proud, toothy smile directed at her friend.
-
-Scene / Background:
-An old-fashioned kissaten (Japanese coffee shop), small wooden table, lace curtains. Half-finished iced coffee, a paper shopping bag by her feet.
-
-Outfit:
-A white, thin-stretch ribbed, form-fitting short-sleeved top. Shallow square neckline, hem reaching the hips. Dark navy high-waisted skinny jeans, white platform sneakers, a small black shoulder bag, thin gold hoop earrings, a smartwatch. Long straight black hair worn down.
-
-Pose / Action:
-Seated, opening the bag on her lap with her left hand while in the middle of taking out a small charger with her right hand to place it on the table.
-
-Composition / Framing:
-Shot from the perspective of the friend sitting opposite at a distance of 1 m, height 1.15 m, standard 1x zoom. Framing from face to knees, including bag and charger.
-Output exactly one single, unsegmented image with the specified final dimensions of 1086 × 1448 px and a 3:4 aspect ratio.
-
-Lighting / Atmosphere:
-Side lighting filtered through lace curtains and warm ambient interior lighting.
-
-Rendering / Image Quality:
-Depicted as a single minimally processed HEIC snapshot taken with a standard smartphone camera app. Follows the camera's single autofocus (AF) plane; do not separately re-light, denoise, or sharpen distant faces. Details diminish continuously with distance. For recognizable faces, simultaneously retain broad variations such as warm color on one cheek, uneven sheen on the T-zone, different undertones beneath each eye, and slight nasal redness, without rendering distant pores. On the closest resolvable skin, maintain non-repeating low-contrast tone variations, redness from pressure, wrinkle shadows, and sparse follicle irregularities. Makeup appears as actual pigment with slightly uneven edges, preserving natural color variations on lips and teeth. Retain uneven exposure and white balance, lifted or un-lifted natural shadows, stray flyaway hairs, off-center composition, shadow noise, subtle sharpening around the AF point, and HEIC compression artifacts. A raw, authentic frame from a private camera roll.
-
-Crucial Constraints:
-Output exactly one unsegmented adult smartphone photograph matching all approved scene specifications. Must satisfy both the approved scene quality criteria and the fixed natural smartphone photo quality criteria prior to acceptance.
-
-Exactly one 22-year-old adult woman. The friend/photographer is off-camera.
-Approved Acceptance Criteria:
-1) Maintain the adult female persona, straight black hair, and physique.
-2) Maintain continuity of approved costume, primary action, props, and scene setting.
-3) Natural composition, lighting, physical contact, and fingers/hands.
-4) Smartphone photo aesthetics featuring single AF plane, depth-based resolution falloff, and natural skin and material textures.
-
-Described background and props. The bag is the same small black shoulder bag used when going out. The charger is the same small, white, flat, rounded-rectangular mobile power bank.
-
-Thin fabrics remain completely opaque. Natural creasing around joints and sitting posture on form-fitting clothes. Maintain the shallow square neckline of the white top; do not turn it into a round neck or deep plunge.
-
-Maintain natural physical contact between feet and floor/seat, and between hands and objects.
-
-Single AF focused on the face. Single standalone vertical 3:4 frame. Do not crop limbs awkwardly at the specified frame edges.
-Only one image. Strictly adhere to the approved aspect ratio and keep all necessary elements inside the frame.
-
-Preserve shadow areas and natural exposure differences.
-
-Single AF focal plane. No localized facial exposure compensation, re-lighting, smoothing, or AI face restoration. Distant faces show broad tonal differences, near skin shows irregular variations, and localized smartphone-native compression/artifacts are preserved.
-
-Depict only one clearly adult fictional woman as the sole subject in a single, undivided photograph. One head, one face, exactly two anatomically connected arms belonging to her, with naturally formed hands. Additional foreground hands may appear only if explicitly specified by scene props/actions, clearly differentiated from her own body. No text, panels, duplicate figures, or multi-angle splits.
-
-Negative Prompt:
-Different scene, overly neat hotel-like background, see-through clothing, costume discrepancy, fused fingers, floating feet, unnatural joints, cropped single body parts, split images, face-only relighting, studio lighting, beauty filter, glowing porcelain face, waxy uniform face or limbs, skin bleaching, high-key beauty fill light, face relighting, face sharpening, overly perfect makeup edges, uniformly glossy lips, uniformly bright teeth, uniform screen-wide sharpness, global clarity boost, repeating textures, fake global film grain, excessive HDR, polished fashion photography, catalog-style symmetrical composition, commercial ad campaign finish, CGI, illustration, minor, teenager, child, childlike age appearance, school uniform, real person, celebrity resemblance, duplicate person, extra person, extra head, extra face, extra personal arms, missing arms, fused limbs, detached limbs, deformed hands, extra fingers, fused fingers, distorted face, cross-eyed, text, caption, letters, numbers, logo, watermark, signature, border, grid, contact sheet, collage, split screen, inset window, multi-panel
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2100085987074588710"></a>
 
 ### A video prompt where a finger snap signal triggers a seamless transition into a photorealistic style while keeping the exact same outfit.
@@ -3897,68 +4090,6 @@ Feature only one fictional, clearly adult woman as the main subject in a single 
 
 Negative Prompt:
 Different scene., overly polished hotel-like background., see-through, outfit differences., fused fingers, floating feet, impossible joints., cropped individual body parts, split images., face-only relighting, studio lighting., beauty skin filter, glowing porcelain face, waxy uniform face or limbs, skin whitening, high-key beauty fill light, face relighting, face sharpening, overly perfect makeup edges, uniformly glossy lips, uniformly bright teeth, uniform sharpness across the entire frame, global clarity boost, repeating textures, global fake grain, excessive HDR, polished fashion rendering, catalog-like symmetrical composition, ad campaign finish, CGI, illustration, minor, teenager, child, childish age perception, school uniform, real person, likeness to celebrities, duplicated persons, extra persons, extra heads, extra faces, extra subject arms, missing subject arms, fused limbs, detached limbs, deformed hands, extra fingers, fused fingers, distorted face, cross-eyed, text, captions, letters, numbers, logos, watermarks, signatures, borders, grids, contact sheet, collage, split-screen, insets, multi-panel
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2099988959992709449"></a>
-
-### Realistic photo generation prompt of an adult Japanese woman wearing mocha beige lingerie and holding a mug in a hotel bed on a rainy day.
-
-Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2099988959992709449)
-
-Photography · Portrait / Selfie · Character · Fashion Item · Published
-
-**Summary:** Realistic photo generation prompt of an adult Japanese woman wearing mocha beige lingerie and holding a mug in a hotel bed on a rainy day.
-
-<img src="images/2099988959992709449-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-🌟 Hotel Room with the Sound of Rain | Mocha Beige and a Warm Mug 🌟
-
-[Subject & Art Style]
-A photorealistic lifestyle fashion photograph depicting a clearly adult Japanese woman enjoying a warm drink in a quiet hotel bed on a drizzly morning. It captures not only the refined beauty of the lingerie, but also the comfort of relaxing indoors on a rainy day, conveying a natural intimacy akin to a momentary pause in conversation with someone close.
-A natural presentation that strikes a balance between a magazine fashion editorial and a candidly captured slice of everyday life. Avoiding overly manicured commercial advertisement aesthetics, it maintains a lived-in depth of atmosphere as if shot in a real hotel, forming a calm and harmonious frame featuring the subject, outfit, window, and bedding.
-
-[Location, Background, & Worldview]
-Set in a quiet urban hotel room. The background features crisp white bed linens, large pillows, and a dark brown headboard, with a large window positioned on one side of the frame. Fine raindrops cling to the window glass, beyond which lies a softly blurred city skyline gently veiled by the rain.
-Beside the bed stands a small nightstand and a warm bedside lamp, accompanied modestly by an open book or a light blanket if needed. Props are kept minimal to retain the hotel's pristine cleanliness while immediately conveying a relaxed morning spent at leisure.
-
-[Season, Time, & Weather]
-Evoking a mild, not-too-chilly rainy day between late spring and early autumn. The time is around 8:00 AM. Outside, thick rain clouds blanket the sky as a gentle drizzle falls continuously. It is calm weather, free of strong winds or heavy downpours, with delicate water droplets trickling down the windowpane.
-Soft morning light with a hint of rainy-day blueness enters the room, contrasting with the dampness outside. The room temperature is comfortable, imparting a tranquil hush that makes one want to linger in bed with a hot drink in hand.
-
-[Subject Character Details]
-A clearly adult 28-year-old Japanese woman. Possessing soft, refined, mature facial features with natural eyebrows, calm eyes with prominent dark irises, an elegant nose bridge, and soft, naturally flushed lips. Dark brown, shoulder-length wavy hair with subtle bedhead strands and loose tendrils framing her face. Her skin has a fair ochre tone, featuring a realistic texture with visible pores, fine subtle shading, and a healthy natural flush on the cheeks.
-Her body combines delicate shoulders, slender limbs, and a narrow waist with a naturally glamorous silhouette marked by feminine curves. Her bust has a distinctly large, rich volume, yet without hard spherical shapes or excessive push-up; it settles into a soft, natural roundness and thickness that conforms to a seated posture and gravity. Her hips display a natural fullness balanced with her overall proportions.
-
-[Wardrobe & Accessories]
-A matching lingerie set in mocha beige, consisting of a bra and panties. The décolletage features delicate ivory floral lace embroidery, with subtle satin sheen accents along the edges and selective panels. A sophisticated, refined design reminiscent of high-end lingerie lines like Wacoal, never overly sweet.
-The bra features sufficient fabric width and realistic cup construction to comfortably accommodate a full bust, offering natural support without extreme push-up or digging into the skin. The panties sit smoothly along the hips, ensuring lace and seams lie flat against the body. Accessories are fundamentally omitted to prioritize morning relaxation and clean freshness.
-
-[Pose, Action, & Gaze]
-The woman sits upright naturally in bed, supported by a large white pillow behind her back. Her legs either extend forward toward the bottom of the frame or rest bent gently together, evenly distributing her weight across her hips and the mattress. Her torso faces predominantly toward the camera, with her shoulders relaxed slightly.
-She cradles a small mug low in front of her abdomen with both hands, one hand lightly supporting the handle while the other rests on the side of the cup. The positioning ensures her arms and mug do not excessively obscure her décolletage. Rather than a rigid pose frozen for a shot, it captures an unforced moment as if she paused mid-sip and casually turned her gaze back toward the lens. Her eyes look straight into the camera.
-
-[Facial Expression & Emotion]
-Her mouth is mostly neutral, resting in an effortless, relaxed state without a wide smile or upturned corners. Meanwhile, her eyes hold a subtle playful sparkle, conveying a light, mischievous look as if keeping a playful secret.
-Her brow and cheeks remain relaxed, creating a serene expression devoid of overt provocation. It carries the nuance of feigning innocence—as though saying "I didn't do anything"—while holding a conversation purely through her eyes. Within her calm maturity lies a small, playful charm reserved for someone close.
-
-[Composition & Camera]
-A 4:5 vertical portrait composition suited for social media. A medium seated shot leaving a bit of headroom and extending down to mid-thigh. The subject is positioned slightly off-center away from the window, keeping the rain-streaked window vertically visible on one side of the frame. The bedside lamp remains subtly visible in the background, anchoring the composition through the interplay of subject, window, and warm glow.
-The camera is positioned roughly at chest to eye level, slightly back from the bed facing straight on. Conceived with a natural focal length of around 50–70mm standard to short telephoto, avoiding distortion of her face or body. The background is softly blurred while preserving enough detail to clearly identify the hotel interior and the raindrops on the glass.
-
-[Lighting, Color, Texture, & Atmosphere]
-The key light is soft morning light diffused by overcast skies pouring in through the window on one side. It wraps broadly across her face and upper body, while gentle fill light bounced from the white bedding softens shadows on the opposite side. The background bedside lamp serves as a small warm accent light, creating visual depth through the color temperature contrast with the cool, rainy sky.
-The palette centers on mocha beige, ivory, white, and greige. Highlights include subtle shading and natural color on the skin, individual hair strands with a soft sheen, delicate threadwork in the lace, discreet reflections on the satin, and crisp transparency in the window raindrops. The result is a quiet, slightly warm, and comforting sanctuary unique to a rainy morning.
-
-[Quality & Negative Elements]
-High-resolution photorealistic rendering. Prioritizes natural human anatomy, lighting, textiles, raindrops, bedding, and realistic interior perspective as if captured on an authentic camera. Portrayed unmistakably as an adult woman, strictly avoiding any childish or underage facial features or proportions.
-Avoid extra limbs, missing fingers, fused fingers, unnatural joints, swapped hands, merged body and clothing, broken lace or straps, unintended exposure, extreme wide-angle distortion, or over-smoothed plastic skin filters. While preserving a naturally full bust volume, avoid abnormal enlargement, hard spherical forms, excessive push-up, or gravity-defying shapes. No text, logos, watermarks, or UI overlays within the image.
 ```
 
 [↑ Back to categories](#catalog)
@@ -4321,65 +4452,6 @@ Avoid extra limbs or fingers, missing fingers, fused fingers, unnatural joints, 
 
 ---
 
-<a name="prompt-2099641928220361114"></a>
-
-### Realistic snapshot photo prompt capturing an adult Japanese woman's everyday housekeeping scene, kneeling on a wooden floor at home and wiping the floor with a white cloth.
-
-Author：[@AiPhotoDesigner](https://x.com/AiPhotoDesigner) · [Source](https://x.com/AiPhotoDesigner/status/2099641928220361114)
-
-Photography · Portrait / Selfie · Character · Architecture / Interior · Published
-
-**Summary:** Realistic snapshot photo prompt capturing an adult Japanese woman's everyday housekeeping scene, kneeling on a wooden floor at home and wiping the floor with a white cloth.
-
-<img src="images/2099641928220361114-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Subject:
-One fictional adult Japanese woman kneeling on a wooden floor at home, wiping the floor with a white cloth. A natural home-care photo depicting daily household chores being carried out meticulously.
-
-Location / Time / Background:
-Bright interior of a residence during the day. Brown wooden floor, a wooden cupboard along the wall, pale walls, preserving depth extending toward a hallway, creating a clean, lived-in interior.
-
-Outfit / Accessories:
-A gray fine-ribbed sleeveless dress, an open-front ivory cardigan. Holding a soft white cleaning cloth in one hand.
-
-Pose / Hands & Fingers / Contact:
-One knee resting on the floor, the other knee raised, leaning the upper body low and forward. Pressing the cloth flat against the floor with one hand and extending it forward, while resting the other hand on the thigh.
-
-Expression / Gaze:
-Face turned toward the floor with a calm, focused expression checking the spot being wiped. Not looking at the lens, keeping attention on the housekeeping movement.
-
-Face / Makeup:
-Natural oval face shape, dark brown eyes, unovergroomed eyebrows, light beige around the eyes, with subdued flush on the cheeks and lips to convey everyday cleanliness.
-
-Hair:
-Dark brown hair tied low in the back, with thin stray strands falling over the bangs and beside the cheeks. Some strands of hair drawn around the face following the forward-leaning motion.
-
-Light Source:
-Diffused daylight inside the room serves as the key light, softly illuminating the forehead, cheeks, shoulders, hands, and floor surface. The reflection from the wooden floor is used as a weak, warm fill light.
-
-Color / Tones:
-Coordinated in low saturation with gray, ivory, warm brown of wood, and pale wall colors. Maintaining natural mid-tone interior gradations and healthy skin tones.
-
-Materials / Fine Textures:
-Distinctly rendering the fine ribs of the dress, the knit of the cardigan, the nap of the white cloth, the grain and sheen of the wooden floor, the wood of the cupboard, and hair strands.
-
-Composition / Camera:
-Vertical 9:16 low-angle close-range snapshot. Visual center of the chest placed around 50% screen width, downcast face center placed around 45%, capturing the head, chest, raised knee, outstretched arm, cloth, and floor surface.
-
-Image Processing / Finishing:
-Preserving a wide-angle lived-in atmosphere, keeping the person and cloth sharp while softly blurring the cupboard in the background. Avoiding excessive polish on the wooden floor texture to produce a natural photo suitable for residential advertising.
-
-Artifact Avoidance / Prohibitions:
-Fixed to one adult woman, the same gray dress, cardigan, white cloth, wooden floor, and kneeling cleaning posture. Do not add extra fingers, deformed knees, overly wet floors, logos, or text.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2099632246730760679"></a>
 
 ### Portrait prompt for a 23-year-old Turkish girl in a blooming garden under soft morning sunlight with photorealistic details.
@@ -4523,74 +4595,6 @@ Photography · Portrait / Selfie · Character · Fashion Item · Published
     "size": "1080x1920"
   }
 }
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2099409502898700694"></a>
-
-### Portrait photo of an East Asian woman in a bathrobe brushing damp hair in front of a bathroom mirror.
-
-Author：[@mumaren\_2](https://x.com/mumaren_2) · [Source](https://x.com/mumaren_2/status/2099409502898700694)
-
-Photography · Portrait / Selfie · Character · Published
-
-**Summary:** Portrait photo of an East Asian woman in a bathrobe brushing damp hair in front of a bathroom mirror.
-
-<img src="images/2099409502898700694-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2099409502898700694-2.jpg" alt="Image 2" width="480" />
-
-**Prompt**
-
-```text
-16:9, adult sensual East Asian woman in a bright bathroom, wrapped in a thin white robe slipping off one shoulder, leaning lightly toward the mirror, one hand brushing damp hair back, eyes half-lowered, soft parted lips, introspective and vulnerable mood, pale stone sink, natural daylight, close medium shot from over-shoulder perspective, luminous skin, understated sensuality, clean modern interior, gentle realism, subtle moisture and softness, elegant private-moment atmosphere.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2099379743108055415"></a>
-
-### Japanese soft-light indoor portrait photography of a young East Asian woman wearing a white off-shoulder lace-up asymmetrical lace dress.
-
-Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2099379743108055415)
-
-Photography · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
-
-**Summary:** Japanese soft-light indoor portrait photography of a young East Asian woman wearing a white off-shoulder lace-up asymmetrical lace dress.
-
-<img src="images/2099379743108055415-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Ultra-realistic indoor soft-light portrait photography, vertical aspect ratio around 4:5, an adult East Asian woman in her 20s, standing before a light grayish-white wall, framed completely from the top of the head to below the knees, body turned slightly toward the left of the frame, with her waist and hips creating an obvious natural S-curve. Shot with an equivalent 50–70mm lens from a distance of about 2–3 meters, camera placed around chest-to-abdomen height, natural perspective, conveying a soft, hazy, low-contrast Japanese photo-book portrait texture throughout.
-
-The subject has a petite to medium bone structure with a naturally voluptuous hourglass figure, slightly narrow shoulders, a noticeably full bust, an extremely slender waist, rounded hips, and soft realistic thigh volume. The overall visual emphasis is on a full upper body + pronounced tiny waist + natural hip curves; no athletic musculature, broad shoulders, thick back, extreme oversized hips, or flat paper-thin proportions.
-
-Pose: hips slightly shifted to one side, one leg serving as the weight-bearing leg while the other relaxes naturally forward. The upper torso leans subtly to the right of the frame, head tilted gently to one side with the chin slightly tucked, eyes looking directly into the camera lens with a quiet, gentle, subtly aloof expression. Her left hand rests naturally near the dress hem, gently lifting one side of the skirt; the other arm hangs naturally slightly behind her body.
-
-Hair and face: medium-long dark brownish-black hair, loosely tied behind the head into a low bun / low ponytail, with thin wispy bangs across the forehead and plenty of natural loose tendrils brushing along her cheeks and neck, styled slightly undone and relaxed. Delicate, slightly oval facial contour, fair skin with soft pinkish undertones, gentle eye makeup, defined eyelashes, a petite nose bridge, and muted low-saturation pink lips. Around her neck is an ultra-fine silver necklace with a tiny cross / slender pendant at the center.
-
-Outfit: a pure white off-shoulder form-fitting asymmetrical lace dress. The bodice features a low-cut sweetheart neckline structure paired with off-shoulder short sleeves, leaving shoulders and collarbones completely bare, with tiny white lace ruffles trimming the cuffs. The chest area showcases a distinct white crisscross lace-up / corset lacing detail extending downward from the center bust into a tight X-pattern cord structure.
-
-The dress fits snugly from below the bust down through the waist, accented with subtle corset boning lines and vertical seams that sharply carve out a slim waistline. The lower skirt features an asymmetrical high-low hem, noticeably shorter on her left thigh while the right panel cascades down near the calf, creating soft fluid draping layers.
-
-The left hem incorporates a high side slit / panel cutout revealing an underlayer of white semi-sheer floral lace mesh, patterned with delicate miniature flowers and vines, allowing partial thigh skin to show through. The outer white skirt edge is soft and lightweight, with gentle natural folds and lace trimmings. The primary fabric is matte stretch knit combined with sheer lace netting; avoid shiny satin or heavy bridal gown materials.
-
-Background: extremely minimalist—a light grayish-white wall, light gray-brown wood flooring, with only a tiny corner of white bedding / duvet peeking through at the bottom-left corner, and a dark vertical doorframe or mirror frame visible at the right edge. No complex furniture or clutter.
-
-Lighting: expansive soft natural window light with subtle intentional overexposure. The subject's face, neck, shoulders, chest, and white dress are enveloped in soft glow; skin appears creamy white, with exceptionally light shadows. The entire scene is bright, low-contrast, and gently bloomed/diffused, with parts of the white wall and dress approaching blown-out highlights while preserving lace and fabric folds.
-
-Overall aesthetic: Japanese soft-focus portrait / subtle vintage digicam bloom aesthetic: gentle haziness, low sharpness, soft highlights, soft pinkish skin tones, delicate airy ambience; no heavy HDR, no sharp commercial studio glare.
-
-Key anchors: adult East Asian woman + loose low bun updo + wispy bangs + voluptuous hourglass body + pure white off-shoulder low-cut sweetheart dress + white crisscross chest lacing + tiny waist + asymmetrical high-low hemline + one-sided high slit + white semi-sheer floral lace insert + one hand lightly lifting dress hem + light grayish-white wall + soft overexposed window illumination + hazy Japanese photo-book style.
-
-Avoid: black dress, colorful dress, long sleeves, generic spaghetti strap dress, missing chest lacing, symmetrical hemline, slit without lace, straight loose hair, high ponytail, bodybuilder physique, broad shoulders, thick waist, extreme hyper hips, opulent interior, harsh camera flash, cold hard cinematic lighting, over-sharpening, plastic skin, anime face, CG look, watermarks, and scrambled text.
 ```
 
 [↑ Back to categories](#catalog)
@@ -4941,28 +4945,6 @@ Photography · Portrait / Selfie · Character · Architecture / Interior · Publ
 
 ```text
 Hyperrealistic indoor cosplay portrait photography, vertical orientation approx. 4:5, an unambiguously adult East Asian female, 20+, kneeling on a white leather sofa, body in a distinct side profile facing towards the left side of the frame, upper body leaning forward, both hands bracing against the top of the sofa backrest, hips and buttocks pushed back and raised, both knees kneeling on the seat cushions, lower legs folded backward. The photographer is located approx. 1.5–2 meters to the front-left of the subject, using a 35–50mm equivalent lens, camera angle near waist-hip height, fully keeping the head, torso, hips/legs, and high heels in frame, with a clear lateral S-curve profile.\n\nThe subject has a small-to-medium bone structure, natural hourglass figure, relatively narrow shoulders, a noticeably slender waist, naturally full hips and buttocks, soft realistic volume in the thighs, and slender calves. Avoid athletic musculature, extreme paper-thin figures, or exaggerated massive buttocks.\n\nThe subject has jet-black ultra-long straight hair extending to around the waist and hips, thin wispy straight bangs across the forehead, with long locks on both sides naturally draping along the cheeks. Wearing thin-framed transparent glasses, looking toward the camera from behind the lenses, head tilted slightly back, cold and languid expression, lips naturally slightly parted. Wearing a very striking pair of black glossy bunny ear headbands, the ears are slender and upright, with one tilted slightly outwards.\n\nOn top, wearing a deep royal blue / indigo semi-sheer chiffon long-sleeve top; the fabric is light and thin with clear sheer transparency while maintaining proper coverage, high neckline hugging the neck, loose sleeves with gathered cuffs, natural wrinkles around shoulders and arms. The top features prominent cutout designs on the back and sides, revealing the skin of the lower back and flanks.\n\nOn the bottom, wearing deep purple-blue high-waisted tight shorts / one-piece stage shorts, fitting snugly around the waist, with small cutouts and fine black lace-up string accents near the side waist and upper thighs, buttock contours naturally distinct yet fully covered. The overall color scheme is dominated by deep blue-violet, black, and skin tones.\n\nWearing black semi-sheer over-the-knee / thigh-high stockings on the legs, with the tops located on the mid-to-upper thighs, wide black welts, stocking denier around 20–30D revealing natural skin tone through the fabric. Wearing black glossy stiletto high heels on feet, slightly pointed or subtly square toes, heels approximately 9–11cm, soles and heels facing towards the right side of the frame in the kneeling pose.\n\nThe scene is a modern minimalist white living room. The subject is kneeling on a large white leather sofa with soft cushions and backrest showing slight indentation marks. On the right side of the background is a full-wall white built-in display shelf, displaying black-and-white photography artworks, light-colored picture frames, green potted plants, pink transparent glass bottles, and a few decorative ornaments. On the upper-left wall hangs a larger vintage black-and-white painting with a silver-gray frame. The main room colors are white and light gray, clean, bright, and modern.\n\nLighting adopts soft natural window light + indoor white ambient light, the subject's skin is bright and leans cool white, with black hair and blue-violet clothing forming a strong contrast against the white sofa. The background is clear without overpowering the subject, without strong cinematic lighting or deep background blur.\n\nOverall quality features high-quality smartphone / mirrorless camera indoor cosplay photoshoot texture: natural sharpness, realistic skin texture, subtle phone HDR, clean colors, clear layered transparency in the chiffon clothing and black stockings, without plastic airbrushed skin or over-sharpening.\n\nKey locked elements: adult East Asian female + ultra-long black straight hair + thin wispy bangs + thin-framed glasses + long black bunny ears + deep royal blue semi-sheer long-sleeve top + deep purple-blue high-waisted shorts + black semi-sheer thigh-high stockings + black stiletto high heels + side-profile kneeling pose on white sofa + both hands bracing backrest + forward leaning torso + hips shifted back + modern white living room + display shelf with picture frames and greenery background.\n\nAvoid: minors, youthful child-like face, standing pose, upright sitting, short hair, no bunny ears, no glasses, red clothing, white stockings, fishnet stockings, sneakers, platform shoes, completely transparent clothing, nudity, extreme exaggerated body proportions, luxurious palace background, strong neon lights, heavily blurred background, anime face, CG look, extra limbs, watermarks and gibberish text.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2099106797655048428"></a>
-
-### Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall.
-
-Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2099106797655048428)
-
-Photography · Character · Fashion Item · Cityscape / Street · Published
-
-**Summary:** Commercial fashion advertisement photo of a woman in black streetwear and sneakers by a concrete wall.
-
-<img src="images/2099106797655048428-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-A high-end commercial fashion advertisement photograph featuring a young woman with dark, wavy hair posing dynamically against a dark, textured concrete wall. She is dressed in a casual black oversized hoodie and black cargo joggers, paired with stylish black-and-white leather sneakers that feature prominent branding. Shot from a low angle to enhance the bold, confident posture, one foot is planted firmly forward while the other is raised, capturing a sense of urban movement and streetwear edge. Dramatic, directional lighting casts deep shadows and highlights the texture of her outfit and the rugged wall. In the upper right corner, clean white typography displays the brand name "EMA'S" alongside the tagline "STEP INTO YOUR MOMENT."
 ```
 
 [↑ Back to categories](#catalog)
@@ -5342,68 +5324,6 @@ Use the uploaded photo as the facial identity reference. Create a premium cinema
 
 ---
 
-<a name="prompt-2098676865284407781"></a>
-
-### A young couple in a narrow, cluttered Japanese kitchen cooking dumplings and drinking beer in a casual everyday atmosphere.
-
-Author：[@YueyueforLuis](https://x.com/YueyueforLuis) · [Source](https://x.com/YueyueforLuis/status/2098676865284407781)
-
-Photography · Group / Couple · Food / Drink · Published
-
-**Summary:** A young couple in a narrow, cluttered Japanese kitchen cooking dumplings and drinking beer in a casual everyday atmosphere.
-
-<img src="images/2098676865284407781-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2098676865284407781-2.jpg" alt="Image 2" width="480" />
-
-**Prompt**
-
-```text
-The scene depicts a woman and a man in their twenties preparing dinner in the small, cluttered kitchen of a Japanese-style apartment, exuding a realistic and relaxed everyday atmosphere.
-
-The girl stands in front of the gas stove, leaning slightly back, holding an open silver can of beverage in one hand and tilting her head back to drink. Her eyes are comfortably squinted, and her face shows a relaxed expression after a busy day, with a few small beads of sweat on her forehead. Her other hand hangs naturally at her side, her posture unpretentious and very natural.
-
-She wears a simple low-cut, spaghetti-strap tank top and dark gray sweatpants, standing barefoot on the kitchen floor. Her proportions are soft and realistic, conveying a sense of fullness and life. Her hair is casually tied in a low bun, with a few stray strands of bangs and loose hair framing her face.
-
-On the left side of the scene, a man, shirtless, draped in a towel, and wearing shorts, is frying a circle of half-cooked dumplings on a very narrow gas stove and counter. The dumplings are neatly arranged in a radial pattern, with a small amount of oil and browning marks in the pan, and wooden chopsticks casually resting on the rim. The kitchen counter is cluttered with dumpling wrappers, condiment bottles, cooking oil, large plastic bottles, empty cans, and other food packaging. Used dishes are piled up beside the sink.
-
-Behind the scenes is the narrow layout of an old-style Japanese apartment. Open cabinets are piled with bowls, plates, tea bags, snack wrappers, and a red kettle. The door to the back room is open, revealing a small room, window, curtains, office chair, mattress, and some miscellaneous household items.
-
-The composition uses a slightly downward, ultra-wide-angle close-up, with a touch of cartoonish perspective exaggeration. The gas stove and frying pan in the foreground are large, and the figure is positioned slightly to the right of center, creating a strong sense of being "peeking into everyday life from the kitchen doorway."
-
-The low-contrast warm color palette features off-white walls, light wood floors, and pale blue-green clothing as the main colors. Natural indoor lighting and soft shadows avoid overly refined or ornate elements, preserving a realistic sense of clutter and everyday life. The image is rich in detail.
-
-Composition: 2:3 vertical format, full-body figure, the entire kitchen environment is captured in the frame.
-
-No text, no logo, no watermark.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098687497794711885"></a>
-
-### Home portrait of an East Asian woman in black lace sleepwear lying on a bed
-
-Author：[@o6qLZZ0KC1uPd8b](https://x.com/o6qLZZ0KC1uPd8b) · [Source](https://x.com/o6qLZZ0KC1uPd8b/status/2098687497794711885)
-
-Photography · Portrait / Selfie · Character · Published
-
-**Summary:** Home portrait of an East Asian woman in black lace sleepwear lying on a bed
-
-<img src="covers/2098687497794711885.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-CCD casual lifestyle snapshot, slightly out of focus, an East Asian woman wearing an old sheer black lace set that has become very loose and baggy from long-term wear, one shoulder strap slipped down, chest partially covered yet not completely concealed, golden ratio figure, wasp waist and large breasts, slender and toned thighs, nestled on an unmade bed in an ambiguous and seductive pose, messy clothing, relaxed and cozy atmosphere
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2098636136130457930"></a>
 
 ### Realistic portrait prompt of a Japanese woman wearing a light pink camisole mini dress on a spring-hued flower path.
@@ -5616,78 +5536,6 @@ The skin features subtle water droplets, delicate flushing, and a natural pore t
 [Quality & Excluded Elements]
 Emphasize high resolution, natural human anatomy, realistic perspective, and authentic lighting and material textures as if captured with an actual camera. Avoid figures that look underage, excessively youthful facial features, unnatural joint bends or body twists, extra limbs or fingers, missing fingers, fused fingers, or confusion between left and right hands.
 Avoid towel rendering artifacts, towel fusing with the body, unnatural skin pinching, and unintended exposure. While maintaining full, natural bust volume, avoid giant proportions, rigid spherical shapes, abnormal push-up effects, or gravity-defying forms. Avoid extreme wide-angle distortion, excessive skin smoothing, artificial backgrounds, text, logos, watermarks, and UI elements.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098639083652419714"></a>
-
-### A photorealistic photography prompt of a Japanese woman wearing peach-pink lingerie and reaching for white flowers in a Western-style garden in the afternoon.
-
-Author：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Source](https://x.com/muse_ai_prompt/status/2098639083652419714)
-
-Photography · Character · Fashion Item · Published
-
-**Summary:** A photorealistic photography prompt of a Japanese woman wearing peach-pink lingerie and reaching for white flowers in a Western-style garden in the afternoon.
-
-<img src="images/2098639083652419714-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-🌟 White Flower Garden | Afternoon Light and Peach Pink Lace 🌟
-
-[Subject & Art Style]
-A photorealistic fashion photograph capturing the moment a clearly adult Japanese woman reaches toward white flowers in a bright afternoon flower garden. It combines the sophisticated texture of a lingerie commercial with the airy, natural beauty typical of a spring/summer garden shoot.
-
-Rather than solely emphasizing the person, the white flowers, pale greens, and soft sunlight are integrated to form a single cohesive world. Avoid skewing overly cute or sweet; aim for an advertising photography style marked by mature female composure and natural elegance.
-
-[Location, Background, & Setting]
-The shoot location is a serene Western-style garden filled with an abundance of small white blossoms. Near the subject are a low flowerbed and a cobblestone pathway, with pale green foliage and slender branches spreading naturally all around. Slightly blurred white flowers are placed in the foreground, creating a three-dimensional sense of depth that leads from around the subject into the distance.
-
-In the background, a small ivory or white garden shed, a wooden fence, and understated garden chairs are softly blurred. The background props should not overpower the main subject, naturally conveying the impression of a peaceful afternoon garden enveloped in flowers.
-
-[Season, Time, & Weather]
-The season is late spring to early summer—a warm, comfortable time when flowers and foliage are vibrant and thriving. The time of day is around 2:00 PM to 4:00 PM, with the sun beginning its descent yet remaining fully bright.
-
-The weather is sunny with light, scattered clouds. Natural light is gently diffused by clouds and surrounding foliage rather than being harsh direct sunlight. A gentle breeze slightly rustles the ends of her hair and the leaves, evoking a sense of calm air flowing even within a still image.
-
-[Subject Details]
-A clearly adult Japanese woman around 20 to 28 years old. She has soft, well-balanced facial features: naturally large eyes, a refined nasal bridge, healthy flushed lips, and gentle eyebrows. Her dark brown hair reaches just past her shoulders with natural soft waves, with a few stray strands framing her face.
-
-Her skin has a bright warm-ocher tone, retaining natural color and subtle shading rather than appearing excessively smooth. She has delicate shoulders, limbs, and a slender waist, balanced harmoniously with feminine curves in a natural, glamorous physique. Her bust has distinct, natural fullness with soft, three-dimensional realism that naturally conforms to her outfit, posture, and gravity, complemented by gently rounded hips well-proportioned to her entire frame.
-
-[Outfit & Accessories]
-An elegant lingerie set based in peach pink. The bra features delicate lace with small white and pale beige floral embroidery, slender straps, and subtle ribbon accents. The panties share matching lace and embroidery, establishing a cohesive look.
-
-The fabric is lightweight yet possesses realistic thickness and elasticity, fitting properly and naturally following the curves of her full bust and hips. The fabric neither gaps nor digs in excessively, supported effortlessly by stitching and cup construction. Accessories are kept minimal, limited to small pearl earrings so as not to distract from the garden's natural beauty.
-
-[Pose, Movement, & Gaze]
-The subject lowers her hips slightly beside the flowerbed in a natural low stance without crouching too deeply. Her body is angled about 30 to 40 degrees relative to the camera, with both knees gently bent and slightly more weight placed on her right leg. Her upper body leans subtly forward while maintaining a natural posture without hunching her back excessively.
-
-Her right hand reaches out toward a small white flower in front, her fingertips gently touching the petals or stem. Her left hand rests naturally near her left knee. Her face tilts slightly downward in the direction of her reaching hand, and her gaze is directed toward the flower. Without extreme twisting or arching of the body, the pose looks like a natural, candid moment of discovering a flower and instinctively touching it.
-
-[Expression & Emotion]
-Her eyes are gently narrowed, gazing delightfully at the white flower before her. Her lips hold an understated smile that is not an overt grin, and her cheeks show a faint, natural flush.
-
-Not a posed expression tailored for the camera, but a tranquil smile naturally emerging the moment she touches the flower. The emotional expression simultaneously conveys the comfort of spending time in a quiet garden, the joy of discovering a small flower, and mature composure.
-
-[Composition & Camera]
-A 4:5 vertical composition suited for social media posts. It comfortably captures the subject from the crown of her head to her feet while adequately showcasing her crouching posture and the surrounding flowers. The subject is positioned slightly to the right of center, with the white flower she is reaching toward placed on the left to create a visual flow of gaze and motion.
-
-The camera is positioned at roughly the height of the subject's chest to waist and shot from a slight distance. A standard to short telephoto focal length of around 50–70mm is used, prioritizing natural perspective without body distortion. Foreground white flowers are gently blurred, maintaining a medium depth of field that keeps the subject as the focus while keeping the garden background recognizable.
-
-[Lighting, Color, Texture, & Mood]
-The main light source is soft afternoon natural light entering from the upper left. It casts gentle highlights across her face, shoulders, hair, and the lingerie lace, while natural ambient bounce from the white flowers and cobblestones fills the opposite side so shadows do not become overly dark. Shadows are soft, bearing a slightly warm color temperature characteristic of the afternoon.
-
-The skin exhibits fine shading and natural flush; the hair shows individual strand definition and a soft sheen; and the lace reveals the fine knit of threads and three-dimensional embroidery. The cobblestones have a slightly dry, grainy texture, leaves possess a faint gloss, and flower petals appear soft and delicate. The overall palette is harmonized in bright, refined tones centered on peach pink, white, and pale green.
-
-[Quality & Exclusions]
-As a high-resolution, photorealistic photograph, priority is placed on natural human anatomy, realistic perspective, authentic lighting, and material rendering as if captured by a real camera. The subject must be distinctly adult, avoiding childlike facial features or physique that appear underage.
-
-Avoid extra limbs, extra fingers, missing fingers, fused fingers, unnatural joints, swapped left/right hands, costume glitches, blending of body and fabric, unintentional exposure, awkward poses, extreme wide-angle distortion, distorted background structures, and over-processed smooth skin. While her bust maintains a naturally full volume, avoid ballooning sizes, rigid spherical shapes, abnormal push-up effects, or forms defying gravity. Do not include any text, logos, watermarks, or UI overlays in the image.
 ```
 
 [↑ Back to categories](#catalog)
@@ -7842,77 +7690,6 @@ Cinematic 35mm film still, retro Chinese wuxia aesthetic, dreamlike soft focus l
 
 ---
 
-<a name="prompt-2098806415666077809"></a>
-
-### Cinematic portrait of a woman looking over her shoulder on a dusk cobblestone street.
-
-Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2098806415666077809)
-
-Photography · Cinematic / Film Still · Portrait / Selfie · Character · Cityscape / Street · Published
-
-**Summary:** Cinematic portrait of a woman looking over her shoulder on a dusk cobblestone street.
-
-<img src="images/2098806415666077809-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-A cinematic, medium-shot portrait of a young woman with warm brown, wavy hair and soft freckles, looking back over her shoulder with a mysterious and intense expression. She is wearing an ornate, vintage lace-patterned high-collared dress. The background features a moody, narrow European cobblestone street at dusk, flanked by old dark architecture under a twilight sky, with distant warm lights glowing from a Gothic-style building or cathedral tower. The lighting is soft and directional, highlighting the contours of her face and the texture of her hair, creating a dramatic, atmospheric, and timeless mood.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098788910432129114"></a>
-
-### Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting.
-
-Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2098788910432129114)
-
-Cinematic / Film Still · Portrait / Selfie · Character · Published
-
-**Summary:** Cinematic medium-shot portrait of a young woman in an embroidered sheer pink ruffled gown, glancing over her shoulder in warm dim lighting.
-
-<img src="images/2098788910432129114-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-A cinematic, medium-shot portrait of a young woman with warm brown hair styled in an elegant, soft updo with loose strands framing her face, looking gently over her shoulder with a serene and captivating expression. She is wearing a delicate, sheer pink ruffled gown featuring intricate embroidery along the cold-shoulder straps and neckline. The background is softly blurred and moody, with warm, dim interior lighting highlighting her features and creating a romantic, timeless, and sophisticated atmosphere.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098780787936223258"></a>
-
-### 15-second cinematic shot sequence: A young man strolling through rainy neon streets at night, featuring a three-part camera movement of a rear view, side tracking shot, and frontal close-up, complete with audio instructions.
-
-Author：[@im\_shahid7](https://x.com/im_shahid7) · [Source](https://x.com/im_shahid7/status/2098780787936223258)
-
-Photography · Cinematic / Film Still · Character · Cityscape / Street · Published
-
-**Summary:** 15-second cinematic shot sequence: A young man strolling through rainy neon streets at night, featuring a three-part camera movement of a rear view, side tracking shot, and frontal close-up, complete with audio instructions.
-
-<img src="covers/2098780787936223258.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Create a 15-second cinematic film sequence of a young man walking slowly through a modern city at night. Light rain falls continuously, creating reflections of glowing streetlights, colorful neon signs, storefronts, and passing cars across the wet pavement.
-0–5 seconds: Start with a wide cinematic shot from behind as the young man walks calmly down the rain-soaked street. His clothes and hair move naturally with the light breeze. Neon lights softly illuminate the surroundings.
-5–10 seconds: The camera smoothly moves alongside him in a slow tracking shot. He briefly looks toward the glowing city lights while rain droplets pass naturally in front of the lens. Background pedestrians and vehicles move realistically, slightly blurred.
-10–15 seconds: The camera slowly moves toward a front three-quarter close-up of his face. He continues walking with a peaceful, thoughtful expression while colorful city lights create beautiful soft bokeh behind him. End with a gentle cinematic push-in.
-Realistic human walking motion, natural body movement, realistic rain physics, wet pavement reflections, soft volumetric lighting, subtle atmospheric haze, shallow depth of field, realistic skin and clothing textures, smooth stabilized camera movement, cinematic 35mm lens, subtle film grain, high dynamic range, photorealistic 4K cinematic movie quality.
-Audio: Add soothing, relaxing cinematic background music throughout the entire sequence — soft ambient piano with gentle atmospheric pads, subtle rain ambience and distant city sounds. Music should feel peaceful, emotional and slightly nostalgic, remain low and unobtrusive, and smoothly build toward the final close-up. No vocals, no dialogue, no sudden beats, no dramatic music.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2098605916199456804"></a>
 
 ### Cinematic luxury portrait of a handsome young man in a dark academia library beside an antique desk.
@@ -8973,28 +8750,6 @@ Source：[@8co28](https://x.com/8co28) · [Source](https://x.com/8co28/status/20
 
 ---
 
-<a name="prompt-2098669706626683027"></a>
-
-### Anime-style motion instruction for drawing a sword, spinning, and transforming from pants to a skirt.
-
-Author：[@ux6ovv](https://x.com/ux6ovv) · [Source](https://x.com/ux6ovv/status/2098669706626683027)
-
-Anime / Manga · Published
-
-**Summary:** Anime-style motion instruction for drawing a sword, spinning, and transforming from pants to a skirt.
-
-<img src="covers/2098669706626683027.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Drawing a sword, spinning around once, and transforming into a skirt appearance
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2097918597603733849"></a>
 
 ### Anime storyboard prompt of Luffy and Anya interacting, featuring a golden ribbon protective light shield and a head pat with a hug.
@@ -9020,6 +8775,32 @@ Comic / Storyboard · Anime / Manga · Published
 <a name="category-illustration"></a>
 
 ## Illustration
+
+<a name="prompt-2101956517557883076"></a>
+
+### Fashion editorial illustration of a walking man in a tailored gray suit draped in a colorful Korean shaman robe with sumi-e ink smoke on a mustard yellow backdrop.
+
+Author：[@leftbypeace](https://x.com/leftbypeace) · [Source](https://x.com/leftbypeace/status/2101956517557883076)
+
+Illustration · Character · Fashion Item · Published
+
+**Summary:** Fashion editorial illustration of a walking man in a tailored gray suit draped in a colorful Korean shaman robe with sumi-e ink smoke on a mustard yellow backdrop.
+
+<img src="images/2101956517557883076-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2101956517557883076-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2101956517557883076-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+full body, 3::side profile, natural walking pose, mid-stride, one leg forward, other leg back::, smoking cigarette, 3::black ink-like cigarette smoke, sumi-e smoke, flowing ink wash::, 2::gray tailored suit, white dress shirt, gray necktie::, 3::colorful Korean shaman robe worn loosely over suit::, long flowing sleeves, robe fluttering behind, colorful ritual beads and tassels at waist, 2::one hand in pocket, other arm relaxed at side::, fashion editorial, flat mustard yellow background
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101985224838299818"></a>
 
@@ -9752,44 +9533,6 @@ Overall, a lighthearted parody style blending a child's doodle sketchbook, indie
 
 ---
 
-<a name="prompt-2098762652491374723"></a>
-
-### Prompt for an ancient-style comic cover featuring a mythical beast from the Classic of Mountains and Seas and a maiden in contract armor.
-
-Author：[@nanyuan0412](https://x.com/nanyuan0412) · [Source](https://x.com/nanyuan0412/status/2098762652491374723)
-
-Illustration · Comic / Graphic Novel · Character · Published
-
-Source：[@nanyuan0412](https://x.com/nanyuan0412) · [Source](https://x.com/nanyuan0412/status/2098379782669094946)
-
-**Summary:** Prompt for an ancient-style comic cover featuring a mythical beast from the Classic of Mountains and Seas and a maiden in contract armor.
-
-<img src="images/2098762652491374723-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2098762652491374723-2.jpg" alt="Image 2" width="480" />
-
-<img src="images/2098762652491374723-3.jpg" alt="Image 3" width="480" />
-
-<img src="images/2098762652491374723-4.jpg" alt="Image 4" width="480" />
-
-<img src="images/2098762652491374723-5.jpg" alt="Image 5" width="480" />
-
-<img src="images/2098762652491374723-6.jpg" alt="Image 6" width="480" />
-
-<img src="images/2098762652491374723-7.jpg" alt="Image 7" width="480" />
-
-<img src="images/2098762652491374723-8.jpg" alt="Image 8" width="480" />
-
-**Prompt**
-
-```text
-A 23-year-old adult female, heroic female general archetype, tall and athletic, with an upright back and shoulders, a slender waist, and long legs, while preserving distinct, fluid feminine curves; high black ponytail, wearing a vermilion narrow-sleeved combat tunic with a small amount of black and gold armor. She stands in the dead center of a desolate valley, holding a spear that hangs naturally downward, looking calmly out of the frame. Crouching behind her is a Zheng as massive as a mountain, its giant red-leopard-like beast body covered with dark crimson and inky black markings, multiple long tails spreading to the left and right, and a solitary horn towering between its brows, forming an approximately symmetrical, colossal silhouette. The crimson beast emblem on the young woman's armor matches the pattern on the Zheng's forehead, distinctly expressing a guardian contract. The young woman is positioned at the lower exact center of the frame, with the mythical beast's head directly above her; the two sides of the valley are minimally symmetrical, retaining only mist and rock cliffs. Ancient picture-story book (lianhuanhua) × modern comic cover style, thick black ink lineart, localized hatching, cinnabar mineral pigment coloring, with ink black, vermilion, cream white, and antique gold as dominant colors.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2098359042234351871"></a>
 
 ### A 3D exaggerated comedic-style caricature portrait of an adult woman featuring asymmetrical large eyes, a big nose, oversized ears, and a goofy grin, complemented by studio rim lighting.
@@ -9819,6 +9562,50 @@ Source：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tan
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2102166553701597551"></a>
+
+### Prompt generating an interactive GLSL fragment shader planet with terrain, oceans, atmosphere, and seasonal ice caps.
+
+Author：[@WescheNex1q](https://x.com/WescheNex1q) · [Source](https://x.com/WescheNex1q/status/2102166553701597551)
+
+3D Render · Landscape / Nature · Published
+
+**Summary:** Prompt generating an interactive GLSL fragment shader planet with terrain, oceans, atmosphere, and seasonal ice caps.
+
+<img src="covers/2102166553701597551.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+a planet from orbit, terrain, oceans, drifting clouds, day/night terminator with city lights, atmosphere at the limb, slow rotation, drag to tilt, a "Season" button that shifts the ice caps.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102155360505053659"></a>
+
+### Generate a 3D scene of a pelican riding a bicycle in a single-file HTML using Three.js.
+
+Author：[@\_kaichen](https://x.com/_kaichen) · [Source](https://x.com/_kaichen/status/2102155360505053659)
+
+3D Render · Published
+
+**Summary:** Generate a 3D scene of a pelican riding a bicycle in a single-file HTML using Three.js.
+
+<img src="covers/2102155360505053659.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use three.js to implement a pelican riding a bicycle in a standalone HTML file
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101690690216337746"></a>
 
@@ -10024,41 +9811,31 @@ Chibi / Q-Style · Watercolor · Character · Published
 
 ---
 
-<a name="category-isometric"></a>
+<a name="category-oil-painting"></a>
 
-## Isometric
+## Oil Painting
 
-<a name="prompt-2098773122107523294"></a>
+<a name="prompt-2102150362945687807"></a>
 
-### Top-bottom comparison poster: Original photo on top, converted into an isometric paper-cut miniature diorama below.
+### Baroque oil painting of a Renaissance nobleman, golden carriage, and white horses in a gilded frame.
 
-Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098773122107523294)
+Author：[@arco0369](https://x.com/arco0369) · [Source](https://x.com/arco0369/status/2102150362945687807)
 
-Poster / Flyer · Isometric · Published
+Oil Painting · Published
 
-**Summary:** Top-bottom comparison poster: Original photo on top, converted into an isometric paper-cut miniature diorama below.
+**Summary:** Baroque oil painting of a Renaissance nobleman, golden carriage, and white horses in a gilded frame.
 
-<img src="images/2098773122107523294-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2098773122107523294-2.jpg" alt="Image 2" width="480" />
-
-<img src="images/2098773122107523294-3.jpg" alt="Image 3" width="480" />
-
-<img src="images/2098773122107523294-4.jpg" alt="Image 4" width="480" />
+<img src="covers/2102150362945687807.jpg" alt="Image 1" width="480" />
 
 **Prompt**
 
 ```text
-Create a 3:4 vertical top-bottom comparison poster from this ordinary travel photo. The upper half preserves the real travel photo of the same scene, labeled "ORIGINAL PHOTO". The lower half reconstructs the same scene into a centered isometric papercraft memory diorama: a floating square terrain base, 3/4 isometric perspective, retaining the relationships of the main architecture, mountains, coastline, roads, or arches from the original photo, using layered paper cutouts, facets, fine black line art, natural low-saturation colors, paper grain texture, and soft shadows. The lower half must be a true structured miniature model, not a photo filter or a flat illustration. Labeled "ISOMETRIC MEMORY DIORAMA", without people, logos, watermarks, or irrelevant objects.
+A masterful antique oil painting in the dramatic Baroque style of Caravaggio and 17th-century Italian masters, with rich chiaroscuro lighting, deep shadows and warm golden highlights. A noble Renaissance gentleman stands in a dignified pose wearing a luxurious dark wine-burgundy velvet doublet and flowing cape, dark knee-length breeches, light cream stockings, black leather shoes, and a black beret-style hat with a feather. He stands in front of an ornate, lavishly gilded golden carriage pulled by two magnificent white horses adorned with elaborate golden harnesses, plumes and feathers. The scene takes place on a clear day with a slightly dramatic sky of swirling clouds. In the background, an elegant Italian palace garden with tall cypress trees and ornate golden wrought-iron gates and porticos. The entire artwork is presented as an old oil painting enclosed in a richly carved, elaborate golden Baroque frame of the period. Highly detailed textures of velvet, gold leaf, horse tack, stone architecture and aged canvas. Aspect ratio 3:2.
 ```
 
 [↑ Back to categories](#catalog)
 
 ---
-
-<a name="category-oil-painting"></a>
-
-## Oil Painting
 
 <a name="prompt-2101423231081107581"></a>
 
@@ -10138,37 +9915,33 @@ Create a vertical top-and-bottom comparison art image from the input world archi
 
 ---
 
-<a name="prompt-2098792248892625275"></a>
+<a name="category-watercolor"></a>
 
-### Convert a travel photo into a gallery-style top-and-bottom comparison poster, with the original photo on top and an abstract impasto palette knife oil painting below.
+## Watercolor
 
-Author：[@Hamburgerai](https://x.com/Hamburgerai) · [Source](https://x.com/Hamburgerai/status/2098792248892625275)
+<a name="prompt-2102160154909438370"></a>
 
-Poster / Flyer · Oil Painting · Abstract / Background · Published
+### An image combining realistic photography and watercolor illustration of a young woman picking apples in an orchard.
 
-**Summary:** Convert a travel photo into a gallery-style top-and-bottom comparison poster, with the original photo on top and an abstract impasto palette knife oil painting below.
+Author：[@Minahil42298354](https://x.com/Minahil42298354) · [Source](https://x.com/Minahil42298354/status/2102160154909438370)
 
-<img src="images/2098792248892625275-1.jpg" alt="Image 1" width="480" />
+Photography · Illustration · Watercolor · Character · Published
 
-<img src="images/2098792248892625275-2.jpg" alt="Image 2" width="480" />
+**Summary:** An image combining realistic photography and watercolor illustration of a young woman picking apples in an orchard.
 
-<img src="images/2098792248892625275-3.jpg" alt="Image 3" width="480" />
+<img src="images/2102160154909438370-1.jpg" alt="Image 1" width="480" />
 
-<img src="images/2098792248892625275-4.jpg" alt="Image 4" width="480" />
+<img src="images/2102160154909438370-2.jpg" alt="Image 2" width="480" />
 
 **Prompt**
 
 ```text
-Turn this ordinary travel photo into a 3:4 vertical gallery wall top-and-bottom comparison poster. The entire background is a warm white plaster wall, leaving a generous amount of continuous blank wall space. At the top, place a small real photo occupying only about 62%–68% of the canvas width, maintaining the original scene, perspective, subject relationships, and authentic photographic texture, labeled in small text with "ORIGINAL PHOTO". Below it, place an even smaller oil painting canvas, occupying only about 58%–64% of the width, with distinct wall space preserved all around. The oil painting must be derived from the same photo, but more heavily impastoed and more abstract: use extremely thick palette knife layering, raised paint, rough broken brushstrokes, scraped edges, prominent canvas texture, and large generalized color blocks, retaining only the silhouette of the subject, the direction of roads or landmarks, the horizon line, and primary color relationships. No detailed realism, no photo filters, no smooth digital painting. Only include "ORIGINAL PHOTO" and "OIL ON CANVAS", with no brands, logos, watermarks, or extraneous text.
+A charming, composite image featuring a realistic photograph on the top half and a corresponding watercolor illustration on the bottom half, both set against a textured, warm white paper background. The top half presents a hyper-realistic photograph of a joyful young woman with long, wavy brown hair and a blush on her cheeks, wearing a straw hat with a flower and a floral maxi dress. She is smiling up at an apple tree, reaching to pick a red apple, holding a large, wicker basket filled with apples on her arm. The background is a bright, sun-dappled apple orchard. The bottom half, directly below the photo, is a delicate, artistic watercolor illustration capturing the exact same subject and pose in a painterly, soft-focus style, appearing as if rendered on the paper. The illustration maintains the woman's expression, dress, hat, and the entire orchard scene, but with visible brushstrokes and color washes. Both sections are centered, with a distinct, artistic transition between the photograph's border and the illustration's edge, which features soft, feathered paint marks dissolving into the paper. The overall composition feels like an art journal page or a fine art print.
 ```
 
 [↑ Back to categories](#catalog)
 
 ---
-
-<a name="category-watercolor"></a>
-
-## Watercolor
 
 <a name="prompt-2100247084410834969"></a>
 
@@ -10198,31 +9971,31 @@ Create a vertical top-and-bottom comparison travel transformation poster. The to
 
 ---
 
-<a name="prompt-2098743938299666847"></a>
+<a name="category-retro-vintage"></a>
 
-### A lone woman in a vivid red coat walks along a long wooden pier disappearing into thick morning fog, rendered in a soft watercolor style.
+## Retro / Vintage
 
-Author：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Source](https://x.com/BeanieBlossom/status/2098743938299666847)
+<a name="prompt-2102173528900428060"></a>
 
-Illustration · 3D Render · Watercolor · Character · Published
+### Vintage minimalist fashion illustration, woman in side profile with oversized wide-brim white hat and red lips, solid terracotta-orange background.
 
-**Summary:** A lone woman in a vivid red coat walks along a long wooden pier disappearing into thick morning fog, rendered in a soft watercolor style.
+Author：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tanvir48992/status/2102173528900428060)
 
-<img src="images/2098743938299666847-1.jpg" alt="Image 1" width="480" />
+Illustration · Retro / Vintage · Minimalism · Character · Fashion Item · Abstract / Background · Published
+
+**Summary:** Vintage minimalist fashion illustration, woman in side profile with oversized wide-brim white hat and red lips, solid terracotta-orange background.
+
+<img src="images/2102173528900428060-1.jpg" alt="Image 1" width="480" />
 
 **Prompt**
 
 ```text
-A lone woman in a vivid red coat walks along a long wooden pier disappearing into thick morning fog, with only the nearest posts and railings still visible around her. The calm water below reflects just a faint trace of colour before everything fades into mist. Soft pastel-and-charcoal watercolor style, hazy layered textures, restrained tones, strong depth and a quiet cinematic atmosphere.
+Ultra-detailed minimalist editorial fashion illustration, vertical composition, sophisticated vintage glamour aesthetic, elegant Art Deco-inspired digital painting with clean geometric shapes, subtle painterly texture, and cinematic poster-like composition. An elegant adult woman is shown in a three-quarter side profile, facing toward the right side of the frame. Her head is tilted slightly upward, creating a graceful, confident and mysterious pose. Her facial features are refined and stylized with a long elegant nose, softly defined cheekbones, smooth warm beige skin, a delicate jawline, and full deep-red crimson lips. Her eyes are mostly hidden beneath the oversized hat brim, creating an enigmatic and fashion-editorial mood.She has dark brown to jet-black hair, gathered into a low, neat bun at the back of her head, with a few subtle loose strands framing the side of her face and neck. The hair has smooth, controlled shapes with very subtle strand texture rather than photorealistic detail.She wears a dramatically oversized wide-brim white/ivory hat. The hat is the dominant visual element in the composition. Its enormous curved brim stretches diagonally from the lower-left corner toward the upper-right side of the frame, partially covering her eyes and upper face. The brim has a smooth ivory-white surface with extremely subtle fabric/paper-like texture and soft tonal variations. The crown of the hat is large, rounded, and structured, appearing almost sculptural, positioned behind and above her head.Her outfit is an elegant flowing ivory-white dress or blouse, covering the shoulders and upper torso. The garment has a soft draped silhouette with broad folds and smooth fabric surfaces. The neckline is modest and graceful, with subtle layered folds around the neck and shoulder area. The clothing blends naturally into the minimalist aesthetic while maintaining visible textile texture.Pose and composition: tightly framed portrait from approximately the upper chest upward. The woman occupies most of the frame, positioned slightly left of center while her face points toward the right. The oversized hat creates a strong diagonal visual line across the composition. Her neck and shoulder create elegant curved shapes that contrast with the geometric hat brim. The composition should feel carefully balanced, sophisticated and editorial.Background: a completely flat burnt orange / terracotta background, with subtle hand-painted brush texture and gentle tonal variation. No objects, scenery or additional elements. The warm orange background strongly contrasts with the black hair and ivory-white hat and clothing.Color palette: burnt orange, terracotta, warm beige, ivory white, cream, deep black, dark brown and muted crimson-red lips. Keep colors rich but slightly desaturated, with a refined vintage print quality. Lighting: soft, diffuse studio-style illumination represented through clean tonal transitions rather than realistic photographic shadows. Gentle highlights on the cheek, nose, lips and white clothing. Subtle shadows beneath the hat brim and around the neck and hair.Visual style: luxury fashion editorial illustration, minimalist modernist poster, vintage 1960s–1970s fashion magazine aesthetic, sophisticated geometric digital painting, elegant silhouette design, smooth vector-like shapes combined with subtle hand-painted texture, restrained details, artistic negative space, high-end fashion campaign artwork.Rendering: extremely clean edges, precise facial proportions, smooth skin shapes, sophisticated tonal layering, subtle canvas/paper grain, controlled brush texture, premium editorial finish, high resolution, museum-quality fashion illustration, visually striking, timeless and elegant.Negative Prompt: photorealistic photography, 3D render, anime, cartoon, childish style, exaggerated facial features, distorted anatomy, extra limbs, extra fingers, malformed face, visible eyes, overly detailed background, clutter, text, typography, logo, watermark, harsh shadows, neon colors, oversaturated colors, glossy plastic skin, excessive skin texture, messy hair, distorted hat, asymmetrical brim, low resolution, blurry edges, noise, poor composition.
 ```
 
 [↑ Back to categories](#catalog)
 
 ---
-
-<a name="category-retro-vintage"></a>
-
-## Retro / Vintage
 
 <a name="prompt-2102080194492153890"></a>
 
@@ -10600,32 +10373,6 @@ Make an image of Malört Motors
 
 ---
 
-<a name="prompt-2099473433067495508"></a>
-
-### Vintage indoor mirror selfie of an East Asian woman wearing an academy-style shirt, pleated plaid skirt, layered stockings, and high heels, sitting on a carpet.
-
-Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2099473433067495508)
-
-Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
-
-Source：[@adinascozylife](https://x.com/adinascozylife) · [Source](https://x.com/adinascozylife/status/2099313663827947968)
-
-**Summary:** Vintage indoor mirror selfie of an East Asian woman wearing an academy-style shirt, pleated plaid skirt, layered stockings, and high heels, sitting on a carpet.
-
-<img src="images/2099473433067495508-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2099473433067495508-2.jpg" alt="Image 2" width="480" />
-
-**Prompt**
-
-```text
-Ultra-realistic vintage indoor mirror selfie photography, vertical orientation around 4:5, an unmistakably adult East Asian woman, 20+, in an academy-style cosplay outfit, sitting on the floor of a room covered with a vintage patterned carpet, taking a mirror selfie through a large classical carved full-length floor mirror. The photographer is the subject herself, using a dark blue smartphone, with an equivalent ~24–28mm mobile wide-angle lens, the mirror slightly tilted, giving the image an evident candid casual selfie feel. The subject is captured from head to toe, her body forming a diagonal composition from upper left to lower right. Small-to-medium frame, somewhat narrow shoulders, slender waist, naturally rounded hips, soft and realistic thigh volume, overall long and slender legs. The subject sits on the floor, upper body leaning slightly forward, one leg bent with the knee raised high close to the body, the other leg extended forward and downward, legs naturally crossing. Her right hand holds the dark blue phone obscuring most of her face, exposing only one eye and part of her forehead; her left hand braces on the floor behind her body for balance. The subject has jet-black ultra-long straight hair extending to around the waist, thick hair volume, center-parted leaning slightly to the side, hair naturally cascading over shoulders and chest, with some strands covering the side of her face. The visible eye looks straight at the phone screen, makeup is natural and slightly cool-toned, fair complexion, no heavy makeup. On top, she wears a white long-sleeve academy-style button-down shirt made of light and soft fabric, with small ruffles at the cuffs, and a slim dark navy tie / narrow necktie tied at the collar. The shirt is tucked into the skirt waistband, with a clear waistline. On the bottom, she wears a dark navy and white fine-plaid high-waisted pleated miniskirt, the plaid composed of dark blue, slate blue, and fine white lines, medium pleat width, naturally fanning out to the sides in a sitting posture. The waistband sits high, distinctly emphasizing the slim waist. Legs are the most crucial: base layer is a pair of smoky charcoal-black ultra-sheer translucent pantyhose / sheer tights, around 10–15D, through which natural skin tone is visibly seen at the thighs and hips; outer layer is a pair of high-saturation royal blue over-the-knee socks / thigh-high stockings, with the tops resting at the mid-to-upper thigh, featuring a matching wide lace trim, the sock fabric being thicker and opaque, in a deep royal blue / cobalt blue color. This forms a dual-layer hosiery effect of 'sheer charcoal-black tights + blue lace thigh-high socks'. On her feet are a pair of pure white pointed-toe high heels with slender stiletto heels around 9–11cm, crafted from clean white leather. The blue sock surface peeks out from the shoe opening, while the sheer black-gray pantyhose still creates subtle layering near the ankles. Both shoes appear completely. The setting is a residential living room / dressing space with vintage European-style furniture. The floor is covered with an expansive vintage patterned carpet alternating in sage green and beige-gray; to the subject's lower left rests a dark blue hardcover book with classical embossed patterns. The mirror frame is a thick, wide gold / bronze Baroque carved wooden frame, with abundant scrolling acanthus and curved ornaments entering from the edges of the frame. In the background, a vintage wooden writing desk, a rattan chair, light-colored walls, and a metal floor lamp are visible, with an overall color palette leaning toward beige-white, brownish-gold, and sage-gray. Wooden blinds are on the right, with natural daylight streaming in from the window. The lighting is soft natural window light combined with mobile auto-exposure, skin looking bright and slightly cool-white, the blue skirt and stockings exhibiting high saturation, while the room retains a gentle warm tone. The overall image has the texture of a 2000s–2010s mobile mirror selfie / Tumblr, Japanese vintage fashion outfit photo: slight wide-angle distortion, natural sharpness, subtle JPEG compression, and no excessive HDR. Key focal points: adult female + ultra-long straight black hair + blue phone obscuring face + floor sitting pose + one knee bent high, one leg stretched forward + white long-sleeve shirt + dark blue slim tie + blue-and-white plaid pleated miniskirt + smoky charcoal-black ultra-sheer pantyhose + worn-over royal blue lace thigh-high socks + white pointed-toe stilettos + golden classical carved mirror + sage-green vintage carpet + dark blue patterned book + European vintage room + authentic mobile mirror selfie aesthetic. Avoid: minors, real student identity, short hair, high ponytail, black thigh-high socks, white socks, bare legs, sneakers, round-toe chunky heels, solid-colored miniskirt, standing pose, plain upright sitting, modern minimalist room, harsh studio lighting, anime face, CG look, watermarks, and garbled text.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2099261445662027788"></a>
 
 ### Autochrome Lumière early 20th-century vintage photograph style template.
@@ -10746,50 +10493,6 @@ Overall visual quality presents a 2000s–2010s Japanese cosplay photo / compact
 Key focuses: adult East Asian female + short black bob + wispy bangs + black-and-white maid headwear + black long-sleeved maid mini dress + abundant white ruffles + white apron and large bow + pure white semi-sheer thigh-high stockings + black thin-strap high heels + lying on side curled up + hands stacked beneath cheek + legs bent and crossed toward camera + close-up wide-angle perspective + deep burgundy velvet Baroque armchair + golden carved wood frame + warm dim vintage interior + weak flash old digital camera texture.
 
 Avoid: standing pose, sitting upright, long hair, high ponytail, modern maid café background, white dress, black stockings, fishnets, bare legs, sneakers, platform shoes, modern sofa, bright minimalist bedroom, harsh cinematic lighting, heavy background blur, fisheye distortion, athletic muscular physique, excessively skinny legs, plastic skin, anime face, CG look, extra fingers, extra legs, watermarks, and gibberish text.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098774914970849306"></a>
-
-### Realistic fashion editorial portrait of a man under a lifeguard tower on the beach with a raised-arms pose and early 2000s retro styling.
-
-Author：[@rotavirus1980](https://x.com/rotavirus1980) · [Source](https://x.com/rotavirus1980/status/2098774914970849306)
-
-Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Published
-
-**Summary:** Realistic fashion editorial portrait of a man under a lifeguard tower on the beach with a raised-arms pose and early 2000s retro styling.
-
-<img src="images/2098774914970849306-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Ultra-realistic fashion editorial portrait of an adult man identical to the reference image 1:1. He is standing under a metal lifeguard tower on a quiet sandy beach, photographed in soft golden hour light. The image should convey introspection, a touch of awkwardness, youth, and fashion-forwardness—like a late 90s or early 2000s European menswear editorial shot by the sea. He has hair of the color and shape from the reference. Clean-shaven face, defined cheekbones, straight eyebrows, natural pale lips, and a calm, slightly tired expression. His eyes are cast downward instead of looking directly at the camera, creating a quiet and distant mood. Clothing: an open three-button white shirt with a relaxed straight silhouette. Paired with very low-rise jeans in indigo blue with a relaxed straight-leg cut, visible contrast stitching, and a slightly worn vintage wash. A narrow strip of the lower abdomen is visible between the layered top and the low waistline, reinforcing the early 2000s style. Minimal accessories, no heavy jewelry, no hat, no sunglasses. Pose: standing directly under the metal structure with both arms fully raised above his head, hands gripping a weathered horizontal metal bar above him. Elbows extended, shoulders slightly raised, elongated torso. His head tilts gently downward, eyes nearly closed or looking toward the ground. Setting: quiet sandy beach with a calm blue-gray ocean stretching into the background and a clear pale sky. The subject is framed by a tall metal lifeguard tower. Empty beach, no crowds, no umbrellas. Lighting: soft coastal late afternoon light from one side, creating warm highlights across the face, the texture of the coat, the metal structure, and the sand, while maintaining an overall cool and muted palette. Soft shadows, subtle rim light, no harsh flash. Photography: 35mm analog fashion editorial, slight medium format softness, visible fine film grain, muted palette of blue, gray, butter-yellow, and dark denim, moderate depth of field, realistic skin texture, slightly underexposed shadows, understated vintage color grading, minimal retouching, photorealistic, high resolution. Composition: 4:5 vertical portrait, framed approximately from mid-thigh to above the raised hands, subject centered under the metal frame, ocean horizon crossing behind the shoulders, structural bars creating strong vertical and diagonal lines around the body, slightly imperfect editorial framing. Negative prompt: tropical resort, swimwear, shirtless styling, summer shorts, bright saturated beach colors, modern sportswear, formal suit, luxury yacht, crowded beach, exaggerated bodybuilder physique, bright studio lighting, harsh flash, extreme bokeh, plastic skin, distorted arms, extra fingers, malformed metal structure, duplicated limbs, cartoon, anime, illustration, CGI.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098786437948944643"></a>
-
-### Outdoor terrace portrait of a young East Asian woman with a short bob haircut, wearing a black strapless mini dress, black garter belt and sheer stockings, sitting on a woven chair, presenting a 2000s CCD flash photography aesthetic.
-
-Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2098786437948944643)
-
-Photography · Retro / Vintage · Portrait / Selfie · Character · Fashion Item · Published
-
-**Summary:** Outdoor terrace portrait of a young East Asian woman with a short bob haircut, wearing a black strapless mini dress, black garter belt and sheer stockings, sitting on a woven chair, presenting a 2000s CCD flash photography aesthetic.
-
-<img src="images/2098786437948944643-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Hyper-realistic outdoor terrace portrait photography, vertical orientation around 3:4 aspect ratio, a young adult East Asian woman, definitively adult, sitting sideways on a gray woven lounge chair, with a dark green forest, calm lake surface, and warm brown wooden railing behind her. The photographer is positioned roughly 1.5–2 meters directly in front and slightly to the left of the subject, using a 28–35mm equivalent focal length lens, with a camera position close to seat height tilted slightly upward, capturing the subject entirely from top of head to high heels, with the main subject occupying about 80% of the frame, showing slight smartphone wide-angle perspective distortion. The subject has a small-to-medium frame, narrow shoulders, a slender waist, naturally soft volume at the hips and thighs, and long legs, forming an overall compact and natural light hourglass proportion. No muscular/athletic physique, extreme wide hips, or overly thin waif-like proportions. The subject sits diagonally on the right side of the chair, torso oriented about 30° toward the front-left of the frame, upper body leaning slightly back, right hand propped on the right side of the seat cushion with the arm mostly straight; the outer side of the right forearm features a set of black-and-gray linework text/pattern tattoos. Her head tilts slightly to the left, face turned toward the camera, wearing a calm and aloof expression, lips naturally closed. The leg pose is the focal point: one leg is raised high with the knee bent, knee reaching near chest and abdomen height, with the lower leg slanting down to the left; the other leg is folded horizontally in front of the chair seat, creating a distinct interlaced layering between the two legs, a pose that is lazy yet stable. She has jet-black short bob hair, chin-length, smoothly rounded at the crown, with ends curled slightly inward; thick and neat blunt fringe bangs with slight texture graze the upper edge of her eyes, and the short side hair frames her face closely. Cool-toned fair skin, petite oval face shape, dark almond-shaped eyes, light pink eye makeup, and nude-pink lips, creating an overall Japanese cool-toned aesthetic makeup look. She wears a solid black strapless mini dress; the chest features a horizontal bandeau tube top structure with delicate tiny ruffles along the top edge, made of soft lightweight cotton or subtly crinkled fabric. The dress is loose-fitting yet naturally cinched at the waist, falling from the chest down to the upper thighs, with a hem that features multi-layered irregular micro-pleats and subtle ruffles. No tight bodycon skirts, no glossy leather. On her legs, she wears sheer black thigh-high stockings paired with a garter belt structure. The raised leg wears approximately 15–20D sheer smoky black stockings that clearly show skin tone underneath, with the welt situated near the upper thigh featuring a narrow black band. The other leg features a prominent wide black floral lace welt / garter band on the upper thigh, the lace showing semi-sheer patterns and subtle shimmering threads; several thin black garter straps extend diagonally from beneath the skirt hem down to the stockings' top band, creating a distinct yet clean garter structure. The stockings continue down, covering the calves and feet. No thick black socks, fishnets, or pantyhose. On her feet are black patent leather open-toe stiletto heeled sandals; the upper is composed of multiple thin black straps, with an ankle buckle strap accented by small silver metal hardware, featuring stilettos around 9–11cm high. The heel of the raised leg rests near the edge of the chair, while the other shoe is partially obscured by the legs. The chair has a gray metal frame with a gray-black woven backrest and a gray seat cushion. Behind the subject runs a warm brownish-red wooden terrace railing, with horizontal beams stretching across the frame; beyond the railing is a dense dark green forest and a quiet, elongated lake/river channel with deep dark-green water, layered with distant trees. The sky is overcast white and slightly overexposed, with no visible sun. The lighting combines natural overcast daylight with a subtle front direct flash / compact digital camera fill light; the subject's face, neck, shoulders, and exposed thighs are visibly illuminated, rendering the skin a cool fair tone; the forest and lake are slightly dim, creating subject-background separation. The overall image presents a 2000s Japanese digital camera / CCD outdoor photoshoot aesthetic: slight soft focus, direct flash look, minimal grain, limited dynamic range, and natural skin texture; avoid modern HDR and commercial over-sharpening. Key elements to retain: short black bob + thick bangs + black strapless ruffled mini dress + sitting sideways on gray chair + one leg raised with knee bent high + other leg folded horizontally + sheer black thigh-high stockings + wide floral lace welt bands + thin garter straps + black open-toe stiletto heels + right forearm tattoo + wooden terrace railing + forest and lake + overcast sky + vintage digital camera subtle direct flash aesthetic. Avoid: long hair, high ponytail, standing pose, straightened legs, standard black tights/pantyhose, white socks, lack of garter belt, thick cotton socks, long dresses, tight leather skirts, sneakers, chunky heels, indoor background, city streets, beach, harsh direct sunlight, cinematic color grading, heavy background blur/bokeh, anime face, CG look, plastic skin, extra limbs, watermarks, and garbled text.
 ```
 
 [↑ Back to categories](#catalog)
@@ -11405,34 +11108,6 @@ Extreme Low-Key black-field portrait photography, adult classic female character
 
 ---
 
-<a name="prompt-2099090732678295807"></a>
-
-### Extreme low-angle studio fashion model portrait prompt template, emphasizing elongated silhouettes and minimalist reflective material textures.
-
-Author：[@azed\_ai](https://x.com/azed_ai) · [Source](https://x.com/azed_ai/status/2099090732678295807)
-
-Photography · Minimalism · Portrait / Selfie · Influencer / Model · Fashion Item · Published
-
-**Summary:** Extreme low-angle studio fashion model portrait prompt template, emphasizing elongated silhouettes and minimalist reflective material textures.
-
-<img src="images/2099090732678295807-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2099090732678295807-2.jpg" alt="Image 2" width="480" />
-
-<img src="images/2099090732678295807-3.jpg" alt="Image 3" width="480" />
-
-<img src="images/2099090732678295807-4.jpg" alt="Image 4" width="480" />
-
-**Prompt**
-
-```text
-A [subject] photographed from an extreme low-angle ground-level view, camera positioned near the floor and tilted upward, standing alone in an off-white studio void, confident pose, dominant elongated silhouette, stylised proportions, sleek fashion styling, reflective textures, bold accessories, soft studio light, single beauty-dish flash casting crisp shadows, subtle Kodak Portra-inspired grain, candid editorial energy, minimalist composition, sharp detail, premium studio photography
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2098878777556410480"></a>
 
 ### Conceptual minimalism: A single wooden chair in an empty white room.
@@ -11518,6 +11193,102 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2102144332148957251"></a>
+
+### A gentle okapi wandering through an enormous layered world of floating stripes, translucent rectangles and curved paper forms that visually echo its markings, sophisticated cut-paper collage fused with dry pastel, teal, burgundy, cobalt and gold, stylish playful surrealism.
+
+Author：[@RenRose321](https://x.com/RenRose321) · [Source](https://x.com/RenRose321/status/2102144332148957251)
+
+Other · Published
+
+**Summary:** A gentle okapi wandering through an enormous layered world of floating stripes, translucent rectangles and curved paper forms that visually echo its markings, sophisticated cut-paper collage fused with dry pastel, teal, burgundy, cobalt and gold, stylish playful surrealism.
+
+<img src="images/2102144332148957251-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A gentle okapi wandering through an enormous layered world of floating stripes, translucent rectangles and curved paper forms that visually echo its markings, sophisticated cut-paper collage fused with dry pastel, teal, burgundy, cobalt and gold, stylish playful surrealism.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102132256290558176"></a>
+
+### Deep-sea ROV perspective prompt template featuring unusual deep-water subjects in a 2x2 grid with realistic telemetry overlays.
+
+Author：[@Gdgtify](https://x.com/Gdgtify) · [Source](https://x.com/Gdgtify/status/2102132256290558176)
+
+Other · Published
+
+**Summary:** Deep-sea ROV perspective prompt template featuring unusual deep-water subjects in a 2x2 grid with realistic telemetry overlays.
+
+<img src="images/2102132256290558176-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+2x2 grid, 16:9, do this for 4 unusual subjects: INPUT: $ SUBJECT              // creature, structure, geometry that should not be down there FIND      = infer_subject($ SUBJECT)        // scale vs ROV arm, translucency, motion or stillness SCALE_REF = infer_reference($ SUBJECT)      // manipulator arm, sampling basket in FG for size WATER     = infer_water_column($ SUBJECT)   // particulate density, blue-green absorption SNOW      = infer_marine_snow($ SUBJECT)    // constant drifting flecks lit by lamps LAMPS     = infer_rov_lighting($ SUBJECT)   // twin hard lamps, sharp falloff to pure black FLOOR     = infer_seafloor($ SUBJECT)       // silt, disturbed sediment plume, rock OPTIC     = infer_rov_cam($ SUBJECT)        // wide, slight fisheye, fixed focus OVERLAY   = infer_telemetry($ SUBJECT)      // depth, temp, heading, lat/long, dive number FLAWS     = infer_flaws($ SUBJECT)          // backscatter glare, focus hunting, chroma noise Φ = lamp_cone(LAMPS) + backscatter(SNOW) MOTION: slow ROV drift → subject enters lamp cone → thruster nudge, silt plume rises → subject reacts or does not → lamps lose it to the dark. Compose: ROV submersible footage, twin lamps with hard falloff to black, marine snow backscatter, telemetry overlay, wide slightly-fisheye lens. Photoreal, 16:9.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102173572764766661"></a>
+
+### A prompt depicting a girl in a room bathed in morning light and shadows.
+
+Author：[@55hawks](https://x.com/55hawks) · [Source](https://x.com/55hawks/status/2102173572764766661)
+
+Character · Architecture / Interior · Published
+
+**Summary:** A prompt depicting a girl in a room bathed in morning light and shadows.
+
+<img src="images/2102173572764766661-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A morning when light awakens before the girl. Translucent light fills the room, and shadows, lagging behind, quietly begin to take shape.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102152221572174045"></a>
+
+### An Art Nouveau typography generation template that directly fills the interior of letter contours with thematic imagery, miniature scenes, and textures.
+
+Author：[@deebeeeff](https://x.com/deebeeeff) · [Source](https://x.com/deebeeeff/status/2102152221572174045)
+
+Landscape / Nature · Text / Typography · Published
+
+Source：[@lordknight\_ai](https://x.com/lordknight_ai) · [Source](https://x.com/lordknight_ai/status/2102136343581061351)
+
+**Summary:** An Art Nouveau typography generation template that directly fills the interior of letter contours with thematic imagery, miniature scenes, and textures.
+
+<img src="images/2102152221572174045-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102152221572174045-2.jpg" alt="Image 2" width="480" />
+
+<img src="images/2102152221572174045-3.jpg" alt="Image 3" width="480" />
+
+**Prompt**
+
+```text
+EVENT/SUBJECT=Art Nouveau/Art Nouveau Babies
+TEXT=Art Nouveau/Sweet Baby 
+A [EVENT/SUBJECT] styled typography representation of "[TEXT]", where [EVENT/SUBJECT] imagery, patterns, and colors live inside the letterforms themselves — as textures, fills, or small scenes contained within each letter's shape — rather than as separate decorations surrounding the text. No  border, or scattered objects around the letters. Softly blurred background contains thematic elements and scenery related to [EVENT/SUBJECT]. Letters remain the entire image.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102128635281129520"></a>
 
@@ -14368,88 +14139,6 @@ The subject faces the camera head-on, body held steady and upright, shoulder lin
 
 ---
 
-<a name="prompt-2099109534954356977"></a>
-
-### Personal branding poster collage featuring a central main portrait surrounded by six smaller vignettes showcasing business, boxing, travel, and other dimensions, in an editorial collage and geometric color block style.
-
-Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2099109534954356977)
-
-Poster / Flyer · Portrait / Selfie · Published
-
-**Summary:** Personal branding poster collage featuring a central main portrait surrounded by six smaller vignettes showcasing business, boxing, travel, and other dimensions, in an editorial collage and geometric color block style.
-
-<img src="images/2099109534954356977-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Use the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.
-
-Build the composition around a large central chest-up portrait of the man wearing a sophisticated black blazer over a black shirt, facing the camera with a calm, confident expression. Give him a neat short low-cut haircut, clean natural hairline, clean-shaven appearance, and polished professional styling. The central portrait should dominate the artwork and overlap the surrounding collage elements.
-
-Surround the main portrait with six smaller versions of the same man, each representing a different dimension of his life and career: upper-left — wearing a sharp black suit and white shirt, looking upward toward the side with ambition; upper-right — wearing an all-black casual outfit, dark sunglasses and backpack, representing travel and exploration, with an airplane silhouette nearby; middle-left — seated behind a laptop in a black T-shirt, hand beneath chin in a thoughtful working pose, representing AI, technology and creativity; middle-right — speaking confidently into a handheld microphone on a modern conference stage, representing public speaking and leadership; lower-left — athletic boxing scene wearing a black sleeveless sports top and boxing gloves in a focused fighting stance, representing discipline and resilience; lower-right — wearing a premium cream hoodie while working on a laptop beside a takeaway coffee cup and a vertical stack of books representing business, technology, health, wealth, freedom and impact.
-
-Create the background as a bold mixed-media editorial collage combining monochrome skyscrapers, modern city architecture, black-and-white photographic fragments, ink textures, torn-paper edges, halftone/grain effects, geometric blocks and architectural silhouettes. Add a subtle traditional Asian-style building silhouette on one side, airport/travel imagery, vertical city towers and abstract urban photography. Use a warm ivory/off-white paper texture as the overall background.
-
-Introduce strong geometric graphic elements throughout the poster: oversized burnt-orange circular shapes and vertical rectangles, solid matte-black blocks, and smaller vibrant electric-purple rectangles. Layer these elements behind and between the portraits for a sophisticated contemporary magazine-cover aesthetic. Use rough paint edges, distressed screen-print texture and subtle paper grain while keeping the portraits photorealistic and crisp.
-
-Place small editorial typography around the composition with generous letter spacing. Suggested upper-left text: “IDEAS / SYSTEMS / PEOPLE / IMPACT.” Upper-right: “A BRIGHTER TOMORROW.” Additional supporting words can include “BUILD / TEACH / CREATE / INVEST / GIVE BACK” and “DISCIPLINE / CLARITY / BETTER / EVERYDAY.”
-
-At the bottom, create a massive bold headline: “IMPACT”, using an ultra-heavy geometric sans-serif font. Make “IM” bright orange and “PACT” warm ivory/white, positioned over a deep-black rectangular base. Beneath it, add the smaller widely spaced tagline: “A MORE EMPOWERED WORLD THROUGH AI.” Add a small personal-brand signature in the lower-left such as “ABKR SADIQ”, followed by tiny category text: “DESIGN • AI • PEOPLE • IMPACT.”
-
-Overall visual direction: Forbes-meets-modern-tech-editorial, motivational personal branding, AI entrepreneur visual identity, cinematic urban lifestyle, sophisticated magazine collage, premium poster design, strong masculine styling, realistic skin texture, crisp cutout edges, dramatic but natural lighting, balanced asymmetrical composition, luxury print finish, subtle film grain, high contrast, extremely detailed, professional graphic design.
-
-Format: vertical 4:5 poster, high resolution, print-quality, sharp typography, photorealistic portraits, consistent facial identity across every scene,
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2099106073756192901"></a>
-
-### A spectral hand assembling clockwork orchids in a cobalt-blue laboratory setting.
-
-Author：[@BeanieBlossom](https://x.com/BeanieBlossom) · [Source](https://x.com/BeanieBlossom/status/2099106073756192901)
-
-Other · Published
-
-**Summary:** A spectral hand assembling clockwork orchids in a cobalt-blue laboratory setting.
-
-<img src="images/2099106073756192901-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-in a cobalt-blue laboratory, a spectral hand meticulously assembles a bouquet of clockwork orchids, each petal a miniature gear, the light diffused and filtered through panes of aged glass, emphasizing the delicate precision and melancholic beauty of the process, soft focus, rich detail, textured brushstrokes, volumetric lighting
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098996343255482545"></a>
-
-### Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo.
-
-Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2098996343255482545)
-
-Portrait / Selfie · Text / Typography · Abstract / Background · Published
-
-**Summary:** Luxury menswear editorial portrait prompt featuring a tailored navy suit, green tie, background typography, and monogram logo.
-
-<img src="images/2098996343255482545-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Add a small premium gold crown-and-shield monogram emblem in the lower-right corner featuring elegant initials such as “ABS”, designed like a luxury personal-brand crest.\n\nUse the uploaded photo as the facial identity reference and preserve the subject’s recognizable facial features, skin tone, and overall appearance naturally.\n\nCreate a photorealistic luxury menswear editorial portrait of an adult man standing confidently against a clean off-white studio wall. Frame him from approximately mid-thigh upward, centered slightly to the right.\n\nDress him in a perfectly tailored deep navy-blue two-piece suit with a structured blazer, matching trousers, crisp white dress shirt, and a muted forest-green necktie. Add a refined silver wristwatch on his left wrist. Keep the styling minimal and sophisticated with no chain or necklace.\n\nGive him a neat short haircut with clean sides and natural texture on top. Pose him standing upright with both hands at the front of his blazer as though he is fastening the jacket button. His shoulders should be relaxed, posture confident, and expression calm and serious while looking slightly off-camera to the right.\n\nBehind him, place oversized elegant dark forest-green serif typography reading “MADE”, spanning almost the entire width of the background. Allow parts of the letters to sit naturally behind the subject, creating a premium fashion-magazine composition.\n\nUse soft diffused studio lighting from the front-left, subtle natural shadows on the wall, realistic skin texture, accurate fabric detail, clean highlights, and balanced neutral tones.\n\nStyle: luxury menswear campaign, modern corporate fashion, minimalist editorial photography, premium magazine aesthetic, sharp tailoring, realistic proportions, subtle depth of field, high-end commercial photography, ultra-photorealistic, crisp 8K detail.\n\nAspect ratio: 4:5 portrait.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2098966144203759642"></a>
 
 ### Fashion editorial composite of a man in an emerald tracksuit set against an oversized black-and-white portrait of himself.
@@ -14962,90 +14651,6 @@ Om aum amen
 
 ---
 
-<a name="prompt-2098792103073476716"></a>
-
-### Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower.
-
-Author：[@RenRose321](https://x.com/RenRose321) · [Source](https://x.com/RenRose321/status/2098792103073476716)
-
-Other · Published
-
-**Summary:** Mosaic artwork of an elephant family dust bathing beneath afternoon sunlight, framed by a tiny foreground wildflower.
-
-<img src="images/2098792103073476716-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Elephants at the Dust Bath,  Mosaic\n\nA playful elephant family tossing fine dust over themselves beneath bright afternoon sunlight, viewed from behind a tiny foreground wildflower so the elephants feel enormous in the distance. Hand-cut mosaic tiles, irregular stone pieces, sparkling ceramic surfaces and warm earth-and-sky colors.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098790612799545375"></a>
-
-### Ocean
-
-Author：[@owenxplore](https://x.com/owenxplore) · [Source](https://x.com/owenxplore/status/2098790612799545375)
-
-Landscape / Nature · Published
-
-**Summary:** Ocean
-
-<img src="covers/2098790612799545375.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Ocean
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098784945564983606"></a>
-
-### 2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid.
-
-Author：[@0x\_fokki](https://x.com/0x_fokki) · [Source](https://x.com/0x_fokki/status/2098784945564983606)
-
-Other · Published
-
-**Summary:** 2000s camcorder documentary footage of ancient laborers hauling massive stones to construct the Great Pyramid.
-
-<img src="covers/2098784945564983606.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Subject / Setting
-
-Handheld historical documentary footage captured on a vintage early-2000s consumer digital video camcorder, depicting the active construction site of the Great Pyramid of Giza as if it were documented in real time.
-
-Action & Environment
-
-Hundreds of laborers and overseers operating on a massive stone ramp under a bright, dusty sky, hauling colossal limestone blocks on wooden sledges via thick ropes. The unfinished pyramid towers in the background, surrounded by heavy physical exertion, organized chaos, and swirling airborne dust.
-
-Camera Movement & Framing
-
-An organic, moving point-of-view perspective tracking right alongside a work crew. Features natural cuts between labor groups, tight close-ups on strained ropes and moving stone, and sudden upward tilts to emphasize the massive height of the monument.
-
-Technical Artifacts
-
-Authentic low-res digital imperfections including persistent hand shake, drifting composition, harsh exposure shifts, natural motion blur, and autofocus hunting reacting to bright sunlight and dust particles.
-
-Audio
-
-Purely diegetic ambient soundscape featuring rhythmic worker chants, heavy breathing, grunting, ropes groaning under immense tension, and stone grinding against the earth - completely devoid of musical score.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2098787760526205303"></a>
 
 ### Studio portrait of a woman in traditional Chinese wedding attire, red background and ornate floral crown headdress.
@@ -15084,84 +14689,6 @@ a detailed studio portrait of a woman in traditional chinese wedding attire agai
 
 ---
 
-<a name="prompt-2098760287524692407"></a>
-
-### Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes.
-
-Author：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Source](https://x.com/RobotCleopatra/status/2098760287524692407)
-
-Other · Published
-
-**Summary:** Futuristic cyborg face with stone-like texture, glowing orange liquid stream, and blue eyes.
-
-<img src="images/2098760287524692407-1.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-a close up shot focusing on a futuristic female cyborg face. her skin has a dark, weathered, stone like texture covered in subtle hieroglyphic patterns. a stream of glowing, fiery orange and gold liquid flows vertically down her face, creating a strong contrast. her eyes glow with a cold blue light, and her lips are dark and metallic. braided blue and gold cables hang down as hair, and the atmosphere is filled with small, warm glowing particles. the lighting is high contrast, accentuating the textures and glowing elements.
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098757292942635327"></a>
-
-### A realistic portrait prompt of a 24-year-old Japanese woman looking down from a train seat POV.
-
-Author：[@underwoodxie96](https://x.com/underwoodxie96) · [Source](https://x.com/underwoodxie96/status/2098757292942635327)
-
-Portrait / Selfie · Character · Vehicle · Published
-
-Source：[@yutaka\_prompt](https://x.com/yutaka_prompt) · [Source](https://x.com/yutaka_prompt/status/2098672917479559420)
-
-**Summary:** A realistic portrait prompt of a 24-year-old Japanese woman looking down from a train seat POV.
-
-<img src="images/2098757292942635327-1.jpg" alt="Image 1" width="480" />
-
-<img src="images/2098757292942635327-2.jpg" alt="Image 2" width="480" />
-
-<img src="images/2098757292942635327-3.jpg" alt="Image 3" width="480" />
-
-<img src="images/2098757292942635327-4.jpg" alt="Image 4" width="480" />
-
-<img src="images/2098757292942635327-5.jpg" alt="Image 5" width="480" />
-
-<img src="images/2098757292942635327-6.jpg" alt="Image 6" width="480" />
-
-**Prompt**
-
-```text
-24 years old, Japanese woman, train, standing directly in front, holding onto a high hanging strap, showing armpit, sleeveless, low-cut clothing, looking straight ahead, condescending expression, POV of a person sitting in a seat, smartphone photo, realistic texture, vertical orientation
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098683941431455840"></a>
-
-### spacex
-
-Author：[@iadventurejacek](https://x.com/iadventurejacek) · [Source](https://x.com/iadventurejacek/status/2098683941431455840)
-
-Other · Published
-
-**Summary:** spacex
-
-<img src="covers/2098683941431455840.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-spacex
-```
-
-[↑ Back to categories](#catalog)
-
----
-
 <a name="prompt-2098686621931511841"></a>
 
 ### A computer setup in an office.
@@ -15178,28 +14705,6 @@ Other · Published
 
 ```text
 computer in office
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098688166261842106"></a>
-
-### Please read a video of animals fight in rivero
-
-Author：[@AnimalBuzzWorld](https://x.com/AnimalBuzzWorld) · [Source](https://x.com/AnimalBuzzWorld/status/2098688166261842106)
-
-Animal / Creature · Published
-
-**Summary:** Please read a video of animals fight in rivero
-
-<img src="covers/2098688166261842106.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Please read a video of animals fight in rivero
 ```
 
 [↑ Back to categories](#catalog)
@@ -15732,141 +15237,6 @@ Portrait / Selfie · Character · Published
 
 ```text
 Wide-collar nightgown; generous expanse of bare skin on the chest; fully exposed collarbones; combing hair in the morning; chin slightly raised; cold and indifferent expression; light, ethereal and aloof
-```
-
-[↑ Back to categories](#catalog)
-
----
-
-<a name="prompt-2098418180674773370"></a>
-
-### A realistic UGC-style vertical fashion video of a man casually trying on and showcasing sneakers in his bedroom with a brief playful friend interruption.
-
-Author：[@abs\_uiux](https://x.com/abs_uiux) · [Source](https://x.com/abs_uiux/status/2098418180674773370)
-
-Character · Fashion Item · Published
-
-**Summary:** A realistic UGC-style vertical fashion video of a man casually trying on and showcasing sneakers in his bedroom with a brief playful friend interruption.
-
-<img src="covers/2098418180674773370.jpg" alt="Image 1" width="480" />
-
-**Prompt**
-
-```text
-Create a realistic UGC-style fashion video of a stylish adult man filming himself casually in his bedroom while getting ready and showcasing a pair of statement sneakers.
-
-The room should feel authentic and lived-in — full-length mirror, clothes casually placed around, shoe boxes nearby, soft natural daylight coming through a window, and a slightly messy but aesthetic bedroom setup.
-
-Shot on an iPhone front camera, vertical 9:16, natural HDR, realistic skin texture, subtle handheld camera movement, natural exposure, and no heavy cinematic color grading.
-
-The man has a clean short low-cut haircut and a clean-shaven face. He wears a relaxed streetwear outfit such as:
-
-- oversized neutral T-shirt
-- loose black or dark cargo trousers
-- bold premium sneakers as the main focus
-- simple wristwatch
-
-No chain, no necklace, no earrings, no pendant, and no visible neck jewelry.
-
-The sneakers must remain clearly visible and consistent throughout the video.
-
-ACTION — ONE CONTINUOUS SHOT:
-
-He walks into frame holding one sneaker while already wearing the other.
-
-He looks at the camera and says:
-
-“Okay, these shoes might actually be carrying the whole fit…”
-
-He sits briefly and puts on the second shoe.
-
-Cut-free natural movement as he stands and adjusts his trousers slightly so the sneakers are clearly visible.
-
-INTERRUPTION / HOOK:
-
-Just as he begins showing the shoes, one of his friends casually walks into frame from the side.
-
-He immediately reacts:
-
-“Bro— not now, get out!”
-
-He laughs and lightly gestures for his friend to leave the frame.
-
-He turns straight back toward the camera as though nothing happened.
-
-“Anyway…”
-
-He points the phone slightly downward toward the sneakers.
-
-“Look at these.”
-
-SHOE SHOWCASE:
-
-He steps closer to the camera and slowly lifts one foot slightly to reveal the side profile of the sneaker.
-
-Then show:
-
-a quick front view of both shoes
-
-a natural side angle
-
-him stepping backward
-
-a small turn to reveal the heel
-
-a few casual walking steps toward the mirror
-
-Keep everything feeling spontaneous rather than like a professional commercial shoot.
-
-DIALOGUE:
-
-“I wasn’t even planning the outfit around them…”
-
-He looks down at the shoes.
-
-“But now they’re basically the whole outfit.”
-
-He steps back into a full-body view.
-
-ENDING:
-
-He gives the sneakers one final look, nods slightly, and says:
-
-“Yeah… I’m wearing these.”
-
-He walks casually out of frame.
-
-STYLE & DETAILS:
-
-Natural messy UGC bedroom atmosphere.
-
-Authentic male fashion creator energy.
-
-Playful interruption moment.
-
-Confident but relaxed personality.
-
-Sneakers are the hero product.
-
-Clear full-body visibility.
-
-Multiple natural shoe angles within one continuous recording.
-
-Realistic walking and foot movement.
-
-No exaggerated posing.
-
-Natural facial expressions and small imperfections.
-
-Subtle humor.
-
-Realistic iPhone footage.
-
-No chain or necklace.
-
-No flashy jewelry.
-
-No overly polished commercial appearance.
 ```
 
 [↑ Back to categories](#catalog)

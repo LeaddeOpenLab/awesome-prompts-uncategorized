@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T00:27:43.341Z",
+  "model": "grok",
+  "prompt": "a planet from orbit, terrain, oceans, drifting clouds, day/night terminator with city lights, atmosphere at the limb, slow rotation, drag to tilt, a \"Season\" button that shifts the ice caps.",
+  "promptTranslations": {
+    "en": "a planet from orbit, terrain, oceans, drifting clouds, day/night terminator with city lights, atmosphere at the limb, slow rotation, drag to tilt, a \"Season\" button that shifts the ice caps."
+  },
+  "summaryTranslations": {
+    "en": "Prompt generating an interactive GLSL fragment shader planet with terrain, oceans, atmosphere, and seasonal ice caps."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt generating an interactive GLSL fragment shader planet with terrain, oceans, atmosphere, and seasonal ice caps.",
+  "summaryEn": "Prompt generating an interactive GLSL fragment shader planet with terrain, oceans, atmosphere, and seasonal ice caps.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102166553701597551",
+    "canonicalUrl": "https://x.com/WescheNex1q/status/2102166553701597551",
+    "author": {
+      "username": "WescheNex1q",
+      "displayName": "Wësche",
+      "profileUrl": "https://x.com/WescheNex1q"
+    },
+    "publishedAt": "2026-09-21T22:42:17.000Z",
+    "collectedAt": "2026-09-22T00:16:28.442Z",
+    "language": "en",
+    "originalText": "Grok 4.7 vs 4.6, but not another Three.js scene: one GLSL fragment shader, no libraries, no CDN. Pure math to pixels.\n\nPrompt: a planet from orbit, terrain, oceans, drifting clouds, day/night terminator with city lights, atmosphere at the limb, slow rotation, drag to tilt, a \"Season\" button that shifts the ice caps.\n\nNothing to copy from a tutorial. Noise, lighting and atmosphere have to be composed correctly or it's mud.\n\n4.6: 353 s · 23.1K tokens (17.7K thinking) · 12.4 KB\n4.7: 723 s · 54.4K tokens (48.5K thinking) · 14.1 KB\n\nBoth compiled first try, zero repairs. 4.7: sharper coastlines, visible atmosphere ring, labeled season cycle. 4.6: softer surface, warmer terminator glow.\n\n Try them:\n https://t.co/bSr5TmRPAb\n https://t.co/9IneKLFilI",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/WescheNex1q/status/2102166553701597551",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102165722205921280/img/Ssv4oFaVPf6QD67g.jpg",
+        "analysisUrl": "https://x.com/WescheNex1q/status/2102166553701597551"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 267
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/WescheNex1q/status/2102166553701597551",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102165722205921280/img/Ssv4oFaVPf6QD67g.jpg",
+  "coverPath": "covers/2102166553701597551.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102165722205921280",
+    "x-post:2102166553701597551"
+  ],
+  "analysis": {
+    "summary": "Prompt generating an interactive GLSL fragment shader planet with terrain, oceans, atmosphere, and seasonal ice caps.",
+    "summaryEn": "Prompt generating an interactive GLSL fragment shader planet with terrain, oceans, atmosphere, and seasonal ice caps.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows the rendered interactive 3D planet matching all visual specs, including rotation, atmosphere, terminator, and season toggle."
+    },
+    "videoQuality": null,
+    "originalPrompt": "a planet from orbit, terrain, oceans, drifting clouds, day/night terminator with city lights, atmosphere at the limb, slow rotation, drag to tilt, a \"Season\" button that shifts the ice caps.",
+    "sourceRange": {
+      "start": 127,
+      "end": 317
+    },
+    "translations": {
+      "zh": "从轨道看行星，地形、海洋、漂移的云层、带城市灯光的晨昏线、边缘大气层、缓慢旋转、拖动倾斜，以及一个改变冰盖的“季节”按钮。",
+      "en": "a planet from orbit, terrain, oceans, drifting clouds, day/night terminator with city lights, atmosphere at the limb, slow rotation, drag to tilt, a \"Season\" button that shifts the ice caps."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-3d",
+    "useCase": "Shader/3D planet generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

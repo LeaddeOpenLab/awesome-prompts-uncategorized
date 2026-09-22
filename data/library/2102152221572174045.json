@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T00:26:05.515Z",
+  "model": "unknown-image",
+  "prompt": "EVENT/SUBJECT=Art Nouveau/Art Nouveau Babies\nTEXT=Art Nouveau/Sweet Baby \nA [EVENT/SUBJECT] styled typography representation of \"[TEXT]\", where [EVENT/SUBJECT] imagery, patterns, and colors live inside the letterforms themselves — as textures, fills, or small scenes contained within each letter's shape — rather than as separate decorations surrounding the text. No  border, or scattered objects around the letters. Softly blurred background contains thematic elements and scenery related to [EVENT/SUBJECT]. Letters remain the entire image.",
+  "promptTranslations": {
+    "en": "EVENT/SUBJECT=Art Nouveau/Art Nouveau Babies\nTEXT=Art Nouveau/Sweet Baby \nA [EVENT/SUBJECT] styled typography representation of \"[TEXT]\", where [EVENT/SUBJECT] imagery, patterns, and colors live inside the letterforms themselves — as textures, fills, or small scenes contained within each letter's shape — rather than as separate decorations surrounding the text. No  border, or scattered objects around the letters. Softly blurred background contains thematic elements and scenery related to [EVENT/SUBJECT]. Letters remain the entire image."
+  },
+  "summaryTranslations": {
+    "en": "An Art Nouveau typography generation template that directly fills the interior of letter contours with thematic imagery, miniature scenes, and textures."
+  },
+  "translationVersion": 2,
+  "summary": "新艺术风格的排版生成模板，将主题意象、微缩风景与纹理直接填充于字母轮廓内部。",
+  "summaryEn": "Art Nouveau typography template embedding themed imagery and textures directly inside letterforms.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2102136343581061351",
+      "canonicalUrl": "https://x.com/lordknight_ai/status/2102136343581061351",
+      "author": {
+        "username": "lordknight_ai",
+        "displayName": "⚔️ 𝕷𝖔𝖗𝖉 𝕶𝖓𝖎𝖌𝖍𝖙 ⚔️",
+        "profileUrl": "https://x.com/lordknight_ai"
+      },
+      "originalText": "QT your Art Nouveau\n\nTagging @deebeeeff @averagepoet @McC3Kat \n\n#AIart #digitalart #AIcommunity #AIArtCommunity #AIArtists https://t.co/TWYBaTbbrl"
+    },
+    "id": "2102152221572174045",
+    "canonicalUrl": "https://x.com/deebeeeff/status/2102152221572174045",
+    "author": {
+      "username": "deebeeeff",
+      "displayName": "Uncle Dave (aka deebeeeff): The Dreamwalkers",
+      "profileUrl": "https://x.com/deebeeeff"
+    },
+    "publishedAt": "2026-09-21T21:45:20.000Z",
+    "collectedAt": "2026-09-22T00:16:28.442Z",
+    "language": "en",
+    "originalText": "TFTT (again)\nArt Nouveau (again & again)\nThis prompt tries to fill each letter with something representing the EVENT/SUBJECT.\nprompt(s):\nEVENT/SUBJECT=Art Nouveau/Art Nouveau Babies\nTEXT=Art Nouveau/Sweet Baby \nA [EVENT/SUBJECT] styled typography representation of \"[TEXT]\", where [EVENT/SUBJECT] imagery, patterns, and colors live inside the letterforms themselves — as textures, fills, or small scenes contained within each letter's shape — rather than as separate decorations surrounding the text. No  border, or scattered objects around the letters. Softly blurred background contains thematic elements and scenery related to [EVENT/SUBJECT]. Letters remain the entire image.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSxX2YtbgAAuYUa.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSxX2YtbgAAuYUa.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSxX-lEaMAAGk0U.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSxX-lEaMAAGk0U.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSxJ1tSWkAERwTQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSxJ1tSWkAERwTQ.jpg",
+        "sourcePostId": "2102136343581061351"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 1,
+      "replyCount": 2,
+      "quoteCount": 0,
+      "viewCount": 26
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/deebeeeff/status/2102152221572174045",
+  "coverUrl": "https://pbs.twimg.com/media/HSxX2YtbgAAuYUa.jpg",
+  "coverPath": "images/2102152221572174045-1.jpg",
+  "imagePaths": [
+    "images/2102152221572174045-1.jpg",
+    "images/2102152221572174045-2.jpg",
+    "images/2102152221572174045-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSxX2YtbgAAuYUa",
+    "x-image:/media/HSxX-lEaMAAGk0U",
+    "x-image:/media/HSxJ1tSWkAERwTQ",
+    "x-post:2102152221572174045",
+    "x-post:2102136343581061351"
+  ],
+  "analysis": {
+    "summary": "新艺术风格的排版生成模板，将主题意象、微缩风景与纹理直接填充于字母轮廓内部。",
+    "summaryEn": "Art Nouveau typography template embedding themed imagery and textures directly inside letterforms.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完整再现了'Art Nouveau'与'Sweet Baby'字样，字形内部填充新艺术风格植物、人物及婴儿微缩画，背景轻度虚化。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "EVENT/SUBJECT=Art Nouveau/Art Nouveau Babies\nTEXT=Art Nouveau/Sweet Baby \nA [EVENT/SUBJECT] styled typography representation of \"[TEXT]\", where [EVENT/SUBJECT] imagery, patterns, and colors live inside the letterforms themselves — as textures, fills, or small scenes contained within each letter's shape — rather than as separate decorations surrounding the text. No  border, or scattered objects around the letters. Softly blurred background contains thematic elements and scenery related to [EVENT/SUBJECT]. Letters remain the entire image.",
+    "sourceRange": {
+      "start": 137,
+      "end": 679
+    },
+    "translations": {
+      "zh": "事件/主题=新艺术运动/新艺术运动婴儿\n文本=新艺术运动/甜美宝贝\n以[事件/主题]风格呈现的\"[文本]\"排版表达，[事件/主题]的意象、图案和色彩直接融入字形内部——作为每个字母形状内的纹理、填充或微缩场景——而非围绕文字的独立装饰。字母周围无边框或散落物体。柔和模糊的背景包含与[事件/主题]相关的主题元素与风景。字母构成整个画面主体。",
+      "en": "EVENT/SUBJECT=Art Nouveau/Art Nouveau Babies\nTEXT=Art Nouveau/Sweet Baby \nA [EVENT/SUBJECT] styled typography representation of \"[TEXT]\", where [EVENT/SUBJECT] imagery, patterns, and colors live inside the letterforms themselves — as textures, fills, or small scenes contained within each letter's shape — rather than as separate decorations surrounding the text. No  border, or scattered objects around the letters. Softly blurred background contains thematic elements and scenery related to [EVENT/SUBJECT]. Letters remain the entire image."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "艺术字排版与主题字母填充设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T00:27:47.272Z",
+  "model": "unknown-image",
+  "prompt": "full body, 3::side profile, natural walking pose, mid-stride, one leg forward, other leg back::, smoking cigarette, 3::black ink-like cigarette smoke, sumi-e smoke, flowing ink wash::, 2::gray tailored suit, white dress shirt, gray necktie::, 3::colorful Korean shaman robe worn loosely over suit::, long flowing sleeves, robe fluttering behind, colorful ritual beads and tassels at waist, 2::one hand in pocket, other arm relaxed at side::, fashion editorial, flat mustard yellow background",
+  "promptTranslations": {
+    "en": "full body, 3::side profile, natural walking pose, mid-stride, one leg forward, other leg back::, smoking cigarette, 3::black ink-like cigarette smoke, sumi-e smoke, flowing ink wash::, 2::gray tailored suit, white dress shirt, gray necktie::, 3::colorful Korean shaman robe worn loosely over suit::, long flowing sleeves, robe fluttering behind, colorful ritual beads and tassels at waist, 2::one hand in pocket, other arm relaxed at side::, fashion editorial, flat mustard yellow background"
+  },
+  "summaryTranslations": {
+    "en": "Fashion editorial illustration of a walking man in a tailored gray suit draped in a colorful Korean shaman robe with sumi-e ink smoke on a mustard yellow backdrop."
+  },
+  "translationVersion": 2,
+  "summary": "Fashion editorial illustration of a walking man in a tailored gray suit draped in a colorful Korean shaman robe with sumi-e ink smoke on a mustard yellow backdrop.",
+  "summaryEn": "Fashion editorial illustration of a walking man in a tailored gray suit draped in a colorful Korean shaman robe with sumi-e ink smoke on a mustard yellow backdrop.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2101956517557883076",
+    "canonicalUrl": "https://x.com/leftbypeace/status/2101956517557883076",
+    "author": {
+      "username": "leftbypeace",
+      "displayName": "평화",
+      "profileUrl": "https://x.com/leftbypeace"
+    },
+    "publishedAt": "2026-09-21T08:47:40.000Z",
+    "collectedAt": "2026-09-22T00:16:28.442Z",
+    "language": "en",
+    "originalText": "* 🚬\n* 자유롭게 사용해 주세요\n\nPrompt\n\nfull body, 3::side profile, natural walking pose, mid-stride, one leg forward, other leg back::, smoking cigarette, 3::black ink-like cigarette smoke, sumi-e smoke, flowing ink wash::, 2::gray tailored suit, white dress shirt, gray necktie::, 3::colorful Korean shaman robe worn loosely over suit::, long flowing sleeves, robe fluttering behind, colorful ritual beads and tassels at waist, 2::one hand in pocket, other arm relaxed at side::, fashion editorial, flat mustard yellow background",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSukMacaYAA6ntq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSukMacaYAA6ntq.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSukM_gbwAIrBWM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSukM_gbwAIrBWM.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSulocKa0AAMfJb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSulocKa0AAMfJb.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 115,
+      "repostCount": 26,
+      "replyCount": 3,
+      "quoteCount": 45,
+      "viewCount": 18407
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/leftbypeace/status/2101956517557883076",
+  "coverUrl": "https://pbs.twimg.com/media/HSukMacaYAA6ntq.jpg",
+  "coverPath": "images/2101956517557883076-1.jpg",
+  "imagePaths": [
+    "images/2101956517557883076-1.jpg",
+    "images/2101956517557883076-2.jpg",
+    "images/2101956517557883076-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSukMacaYAA6ntq",
+    "x-image:/media/HSukM_gbwAIrBWM",
+    "x-image:/media/HSulocKa0AAMfJb",
+    "x-post:2101956517557883076"
+  ],
+  "analysis": {
+    "summary": "Fashion editorial illustration of a walking man in a tailored gray suit draped in a colorful Korean shaman robe with sumi-e ink smoke on a mustard yellow backdrop.",
+    "summaryEn": "Fashion editorial illustration of a walking man in a tailored gray suit draped in a colorful Korean shaman robe with sumi-e ink smoke on a mustard yellow backdrop.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the prompt's specified walking stance, tailored gray suit, loose colorful shaman robe with tassels, cigarette with sumi-e ink-like smoke, and flat mustard yellow background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "full body, 3::side profile, natural walking pose, mid-stride, one leg forward, other leg back::, smoking cigarette, 3::black ink-like cigarette smoke, sumi-e smoke, flowing ink wash::, 2::gray tailored suit, white dress shirt, gray necktie::, 3::colorful Korean shaman robe worn loosely over suit::, long flowing sleeves, robe fluttering behind, colorful ritual beads and tassels at waist, 2::one hand in pocket, other arm relaxed at side::, fashion editorial, flat mustard yellow background",
+    "sourceRange": {
+      "start": 28,
+      "end": 519
+    },
+    "translations": {
+      "zh": "全身照，3::侧脸轮廓，自然行走姿态，步伐迈开，一腿在前，另一腿在后::，抽烟，3::黑色墨水般香烟烟雾，水墨风烟雾，流淌的水墨::，2::灰色剪裁西装，白色正装衬衫，灰色领带::，3::西装外宽松套着多彩韩国萨满神袍::，飘逸的长袖，神袍在身后飘扬，腰间挂有多彩仪式念珠和流苏，2::一手插兜，另一只手臂自然垂在身侧::，时尚大片风格，平涂芥末黄背景",
+      "en": "full body, 3::side profile, natural walking pose, mid-stride, one leg forward, other leg back::, smoking cigarette, 3::black ink-like cigarette smoke, sumi-e smoke, flowing ink wash::, 2::gray tailored suit, white dress shirt, gray necktie::, 3::colorful Korean shaman robe worn loosely over suit::, long flowing sleeves, robe fluttering behind, colorful ritual beads and tassels at waist, 2::one hand in pocket, other arm relaxed at side::, fashion editorial, flat mustard yellow background"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
