@@ -5004,7 +5004,7 @@ CGI毛皮、
 
 <a name="prompt-2102219008845971613"></a>
 
-### 翻訳中
+### Three.js による映画のようなロケット打ち上げの全景：発射台、タワー、固定クランプ、点火、煙、リフトオフ、雲の中へと追従するカメラ。ボタンなし、HUD なし、自動再生。
 
 作者：[@WescheNex1q](https://x.com/WescheNex1q) · [元の投稿](https://x.com/WescheNex1q/status/2102219008845971613)
 
@@ -5012,14 +5012,14 @@ CGI毛皮、
 
 元の投稿：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [元の投稿](https://x.com/Bhavani_00007/status/2098134452283334781)
 
-**概要:** 翻訳中
+**概要:** Three.js による映画のようなロケット打ち上げの全景：発射台、タワー、固定クランプ、点火、煙、リフトオフ、雲の中へと追従するカメラ。ボタンなし、HUD なし、自動再生。
 
 <img src="covers/2102219008845971613.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+Three.js による映画のようなロケット打ち上げの全景：発射台、タワー、固定クランプ、点火、煙、リフトオフ、雲の中へと追従するカメラ。ボタンなし、HUD なし、自動再生。
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -7816,7 +7816,7 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 
 <a name="prompt-2102193031583588643"></a>
 
-### 翻訳中
+### スケッチブックで身体を隠した素描モデルと手前の画家の手。
 
 作者：[@BorderleSint](https://x.com/BorderleSint) · [元の投稿](https://x.com/BorderleSint/status/2102193031583588643)
 
@@ -7824,7 +7824,7 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 
 元の投稿：[@Zackjpnman](https://x.com/Zackjpnman) · [元の投稿](https://x.com/Zackjpnman/status/2101687832557527435)
 
-**概要:** 翻訳中
+**概要:** スケッチブックで身体を隠した素描モデルと手前の画家の手。
 
 <img src="images/2102193031583588643-1.jpg" alt="画像 1" width="480" />
 
@@ -7833,7 +7833,7 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 **プロンプト**
 
 ```text
-翻訳中
+3:4、フォトリアル、AIで作成した20代美女、デッサンモデル、手前にスケッチブックと絵師の手と鉛筆、スケッチブックで彼女の身体は隠れている、デコルテと脚のみ見える、  ネガティヴ:トップス
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -8190,20 +8190,20 @@ teacher, white collared shirt, frilled blouse, long sleeves, collarbone, no neck
 
 <a name="prompt-2102213593043226881"></a>
 
-### 翻訳中
+### 単一のHTMLファイル内で自転車に乗る3Dペリカンを生成するThree.jsのプロンプト。
 
 作者：[@ralejandrots88](https://x.com/ralejandrots88) · [元の投稿](https://x.com/ralejandrots88/status/2102213593043226881)
 
 3D レンダリング · 配信済み
 
-**概要:** 翻訳中
+**概要:** 単一のHTMLファイル内で自転車に乗る3Dペリカンを生成するThree.jsのプロンプト。
 
 <img src="covers/2102213593043226881.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+単一の独立したHTMLファイル内で、three.jsを使用して自転車に乗るペリカンを実装する
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -9534,20 +9534,20 @@ FIELD NOTE [番号]
 
 <a name="prompt-2102209728663437419"></a>
 
-### 翻訳中
+### テック・ボルテックス・シティのデジタルドラゴン
 
 作者：[@TheEerieHollows](https://x.com/TheEerieHollows) · [元の投稿](https://x.com/TheEerieHollows/status/2102209728663437419)
 
 サイバーパンク / SF · 配信済み
 
-**概要:** 翻訳中
+**概要:** テック・ボルテックス・シティのデジタルドラゴン
 
 <img src="images/2102209728663437419-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+テック・ボルテックス・シティのデジタルドラゴン
 ```
 
 [↑ カテゴリに戻る](#catalog)
@@ -9834,20 +9834,20 @@ SFロボットアヌビスの全身描写。キャラクターはブラックク
 
 <a name="prompt-2102204400768876741"></a>
 
-### 翻訳中
+### 黒い砂、ターコイズ色の海、青い植物、ギザギザの山峰、そして赤い太陽が特徴の異世界の風景。
 
 作者：[@MakunaMars](https://x.com/MakunaMars) · [元の投稿](https://x.com/MakunaMars/status/2102204400768876741)
 
 風景 / 自然 · 配信済み
 
-**概要:** 翻訳中
+**概要:** 黒い砂、ターコイズ色の海、青い植物、ギザギザの山峰、そして赤い太陽が特徴の異世界の風景。
 
 <img src="images/2102204400768876741-1.jpg" alt="画像 1" width="480" />
 
 **プロンプト**
 
 ```text
-翻訳中
+異世界の惑星の穏やかな風景を作成してください。黒い砂浜の海岸線とターコイズグリーンの海水、ビーチに打ち寄せる波。遠くには紫色の霧の柔らかな靄が漂い、湾の向こう側にはギザギザした険しい峰々が点在しています。前景には、青い茎と葉を持つ青々とした熱帯植物、半透明の花びらと長い白い雄しべを持つ黄色い花、節くれだった暗い淡い青の幹にねじれた枝と鋸歯状の青い葉を持つ木々。淡い青紫色の空は、淡いターコイズ色のふわふわした雲で部分的に曇っています。夕方の空に位置する赤い太陽、雲の端を突き抜ける光の筋。細部まで描き込まれた、シネマティックでシュールな環境。
 ```
 
 [↑ カテゴリに戻る](#catalog)

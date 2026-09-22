@@ -4918,7 +4918,7 @@ Falcon 14 Starship'in Dünya Yörüngesine ulaşmaya yönelik ilk denemesi
 
 <a name="prompt-2102219008845971613"></a>
 
-### Çeviri sürüyor
+### Three.js ile tam sinematik roket fırlatması: rampa, kule, kenetler, ateşleme, duman, havalanma, bulutlara doğru kamera takibi. Düğme yok, HUD yok, otomatik oynatma.
 
 Yazar：[@WescheNex1q](https://x.com/WescheNex1q) · [Orijinal gönderi](https://x.com/WescheNex1q/status/2102219008845971613)
 
@@ -4926,14 +4926,14 @@ Fotoğrafçılık · Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
 
 Orijinal gönderi：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Orijinal gönderi](https://x.com/Bhavani_00007/status/2098134452283334781)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Three.js ile tam sinematik roket fırlatması: rampa, kule, kenetler, ateşleme, duman, havalanma, bulutlara doğru kamera takibi. Düğme yok, HUD yok, otomatik oynatma.
 
 <img src="covers/2102219008845971613.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Three.js ile tam sinematik roket fırlatması: rampa, kule, kenetler, ateşleme, duman, havalanma, bulutlara doğru kamera takibi. Düğme yok, HUD yok, otomatik oynatma.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -7757,7 +7757,7 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 
 <a name="prompt-2102193031583588643"></a>
 
-### Çeviri sürüyor
+### Eskiz defteriyle vücudunu gizleyen çizim modeli ve ön planda ressamın eli.
 
 Yazar：[@BorderleSint](https://x.com/BorderleSint) · [Orijinal gönderi](https://x.com/BorderleSint/status/2102193031583588643)
 
@@ -7765,7 +7765,7 @@ Yazar：[@BorderleSint](https://x.com/BorderleSint) · [Orijinal gönderi](https
 
 Orijinal gönderi：[@Zackjpnman](https://x.com/Zackjpnman) · [Orijinal gönderi](https://x.com/Zackjpnman/status/2101687832557527435)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Eskiz defteriyle vücudunu gizleyen çizim modeli ve ön planda ressamın eli.
 
 <img src="images/2102193031583588643-1.jpg" alt="Görsel 1" width="480" />
 
@@ -7774,7 +7774,7 @@ Orijinal gönderi：[@Zackjpnman](https://x.com/Zackjpnman) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+3:4, fotogerçekçi, yapay zeka ile oluşturulmuş 20'li yaşlarda güzel kadın, çizim modeli, ön planda bir eskiz defteri, ressamın eli ve kurşun kalem, vücudu eskiz defteriyle gizlenmiş, sadece dekoltesi ve bacakları görünüyor, Negatif:üst giysi
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -8131,20 +8131,20 @@ Tanınabilir telif hakkıyla korunan karakterlerden, ünlü benzerliklerinden, m
 
 <a name="prompt-2102213593043226881"></a>
 
-### Çeviri sürüyor
+### Bağımsız bir HTML dosyası içinde bisiklete binen 3D pelikan oluşturan Three.js istemi.
 
 Yazar：[@ralejandrots88](https://x.com/ralejandrots88) · [Orijinal gönderi](https://x.com/ralejandrots88/status/2102213593043226881)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bağımsız bir HTML dosyası içinde bisiklete binen 3D pelikan oluşturan Three.js istemi.
 
 <img src="covers/2102213593043226881.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Bağımsız bir HTML dosyasında bisiklete binen bir pelikan uygulamak için three.js kullanın
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -9467,20 +9467,20 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 
 <a name="prompt-2102209728663437419"></a>
 
-### Çeviri sürüyor
+### Teknoloji Girdabı Şehrindeki Dijital Ejderhalar
 
 Yazar：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Orijinal gönderi](https://x.com/TheEerieHollows/status/2102209728663437419)
 
 Siberpunk / Bilim Kurgu · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Teknoloji Girdabı Şehrindeki Dijital Ejderhalar
 
 <img src="images/2102209728663437419-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Teknoloji Girdabı Şehrindeki Dijital Ejderhalar
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -9767,20 +9767,20 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2102204400768876741"></a>
 
-### Çeviri sürüyor
+### Siyah kum, turkuaz sular, mavi yapraklar, sarp zirveler ve kırmızı bir güneş içeren uzaylı manzarası.
 
 Yazar：[@MakunaMars](https://x.com/MakunaMars) · [Orijinal gönderi](https://x.com/MakunaMars/status/2102204400768876741)
 
 Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Siyah kum, turkuaz sular, mavi yapraklar, sarp zirveler ve kırmızı bir güneş içeren uzaylı manzarası.
 
 <img src="images/2102204400768876741-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yabancı bir gezegende dingin bir manzara oluşturun. Turkuaz yeşili okyanus sularına sahip siyah kumlu sahil şeridi, kumsal boyunca çarpan dalgalar. Körfezin uzak tarafında sıralanan sarp dağ zirveleri ve uzakta süzülen mor sisin hafif pusu. Ön planda mavi gövdeleri ve yaprakları olan gür tropik bitkiler, yarı saydam taç yapraklı ve uzun beyaz organlı sarı çiçekler, bükülmüş dalları ve tırtıklı mavi yaprakları olan budaklı koyu soluk mavi gövdeli ağaçlar. Açık turkuaz kabarık bulutlarla kısmen kaplı açık mavimsi mor bir gökyüzü. İkindi vaktinde gökyüzünde yer alan ve ışık huzmeleri bulutların kenarlarından sızan kırmızı bir güneş. Yüksek detaylı, sinematik sürreal bir ortam.
 ```
 
 [↑ Kategorilere dön](#catalog)

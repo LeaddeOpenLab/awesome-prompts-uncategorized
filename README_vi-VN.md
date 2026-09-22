@@ -5009,7 +5009,7 @@ Nỗ lực đầu tiên của tàu vũ trụ Falcon 14 Starship nhằm tiếp c�
 
 <a name="prompt-2102219008845971613"></a>
 
-### Đang dịch
+### Vụ phóng tên lửa phong cách điện ảnh hoàn chỉnh trong Three.js: bệ phóng, tháp, ngàm kẹp, đánh lửa, khói, cất cánh, máy quay đuổi theo vào các đám mây. Không nút bấm, không HUD, tự động phát.
 
 Tác giả：[@WescheNex1q](https://x.com/WescheNex1q) · [Bài gốc](https://x.com/WescheNex1q/status/2102219008845971613)
 
@@ -5017,14 +5017,14 @@ Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Đ�
 
 Bài gốc：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Bài gốc](https://x.com/Bhavani_00007/status/2098134452283334781)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Vụ phóng tên lửa phong cách điện ảnh hoàn chỉnh trong Three.js: bệ phóng, tháp, ngàm kẹp, đánh lửa, khói, cất cánh, máy quay đuổi theo vào các đám mây. Không nút bấm, không HUD, tự động phát.
 
 <img src="covers/2102219008845971613.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Vụ phóng tên lửa phong cách điện ảnh hoàn chỉnh trong Three.js: bệ phóng, tháp, ngàm kẹp, đánh lửa, khói, cất cánh, máy quay đuổi theo vào các đám mây. Không nút bấm, không HUD, tự động phát.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -7834,7 +7834,7 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 
 <a name="prompt-2102193031583588643"></a>
 
-### Đang dịch
+### Người mẫu vẽ hình thể dùng sổ phác thảo che cơ thể và bàn tay họa sĩ ở tiền cảnh.
 
 Tác giả：[@BorderleSint](https://x.com/BorderleSint) · [Bài gốc](https://x.com/BorderleSint/status/2102193031583588643)
 
@@ -7842,7 +7842,7 @@ Phác Thảo / Nét Vẽ · Đã xuất bản
 
 Bài gốc：[@Zackjpnman](https://x.com/Zackjpnman) · [Bài gốc](https://x.com/Zackjpnman/status/2101687832557527435)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Người mẫu vẽ hình thể dùng sổ phác thảo che cơ thể và bàn tay họa sĩ ở tiền cảnh.
 
 <img src="images/2102193031583588643-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -7851,7 +7851,7 @@ Bài gốc：[@Zackjpnman](https://x.com/Zackjpnman) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+3:4, ảnh chân thực, người đẹp độ tuổi 20 do AI tạo ra, người mẫu vẽ ký họa, tiền cảnh có cuốn sổ phác thảo cùng bàn tay và bút chì của họa sĩ, cơ thể cô ấy bị che khuất bởi cuốn sổ phác thảo, chỉ nhìn thấy phần ngực cổ và đôi chân, Phủ định:áo trên
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8208,20 +8208,20 @@ Tránh các nhân vật có bản quyền dễ nhận biết, chân dung ngườ
 
 <a name="prompt-2102213593043226881"></a>
 
-### Đang dịch
+### Lời nhắc cho Three.js tạo một con bồ nông 3D đang đi xe đạp bên trong một tệp HTML độc lập.
 
 Tác giả：[@ralejandrots88](https://x.com/ralejandrots88) · [Bài gốc](https://x.com/ralejandrots88/status/2102213593043226881)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc cho Three.js tạo một con bồ nông 3D đang đi xe đạp bên trong một tệp HTML độc lập.
 
 <img src="covers/2102213593043226881.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng three.js để tạo một con bồ nông đang đạp xe trong một tệp HTML độc lập
 ```
 
 [↑ Về danh mục](#catalog)
@@ -9552,20 +9552,20 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 
 <a name="prompt-2102209728663437419"></a>
 
-### Đang dịch
+### Những con rồng kỹ thuật số trong thành phố xoáy công nghệ
 
 Tác giả：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Bài gốc](https://x.com/TheEerieHollows/status/2102209728663437419)
 
 Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Những con rồng kỹ thuật số trong thành phố xoáy công nghệ
 
 <img src="images/2102209728663437419-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Những con rồng kỹ thuật số trong thành phố xoáy công nghệ
 ```
 
 [↑ Về danh mục](#catalog)
@@ -9864,20 +9864,20 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2102204400768876741"></a>
 
-### Đang dịch
+### Phong cảnh ngoài hành tinh nổi bật với cát đen, làn nước xanh ngọc lam, thảm thực vật màu xanh lam, những đỉnh núi lởm chởm và mặt trời đỏ.
 
 Tác giả：[@MakunaMars](https://x.com/MakunaMars) · [Bài gốc](https://x.com/MakunaMars/status/2102204400768876741)
 
 Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Phong cảnh ngoài hành tinh nổi bật với cát đen, làn nước xanh ngọc lam, thảm thực vật màu xanh lam, những đỉnh núi lởm chởm và mặt trời đỏ.
 
 <img src="images/2102204400768876741-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một phong cảnh thanh bình trên một hành tinh ngoài Trái Đất. Bờ cát đen với làn nước biển xanh ngọc lam, sóng vỗ dồn dập dọc theo bờ biển. Lớp sương mù màu tím nhạt lơ lửng ở đằng xa cùng những đỉnh núi lởm chởm rải rác bên kia bờ vịnh. Ở tiền cảnh là những loài thực vật nhiệt đới tươi tốt với thân và lá màu xanh lam, những bông hoa màu vàng có cánh bán trong suốt và nhị hoa dài màu trắng, những thân cây màu xanh lam nhạt tối uốn lượn đầy mấu mắt với cành ngoằn ngoèo và lá răng cưa màu xanh lam. Bầu trời màu tím hơi xanh nhạt phủ mây một phần với những đám mây xốp màu xanh ngọc lam nhạt. Mặt trời đỏ rực lúc xế chiều trên bầu trời với những tia sáng xuyên qua mép mây. Môi trường siêu thực mang phong cách điện ảnh, chi tiết cao.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -4921,7 +4921,7 @@ La toute première tentative du Falcon 14 Starship pour atteindre l'orbite terre
 
 <a name="prompt-2102219008845971613"></a>
 
-### Traduction en cours
+### Lancement de fusée cinématographique complet dans Three.js : pas de tir, tour, pinces, allumage, fumée, décollage, poursuite de la caméra dans les nuages. Pas de boutons, pas de HUD, lecture automatique.
 
 Auteur：[@WescheNex1q](https://x.com/WescheNex1q) · [Publication originale](https://x.com/WescheNex1q/status/2102219008845971613)
 
@@ -4929,14 +4929,14 @@ Photographie · Image cinématographique / Photogramme de film · Rendu 3D · Pu
 
 Publication originale：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Publication originale](https://x.com/Bhavani_00007/status/2098134452283334781)
 
-**Résumé:** Traduction en cours
+**Résumé:** Lancement de fusée cinématographique complet dans Three.js : pas de tir, tour, pinces, allumage, fumée, décollage, poursuite de la caméra dans les nuages. Pas de boutons, pas de HUD, lecture automatique.
 
 <img src="covers/2102219008845971613.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Lancement de fusée cinématographique complet dans Three.js : pas de tir, tour, pinces, allumage, fumée, décollage, poursuite de la caméra dans les nuages. Pas de boutons, pas de HUD, lecture automatique.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -7727,7 +7727,7 @@ Transformez la photo en une caricature à la gouache peinte à la main sur du pa
 
 <a name="prompt-2102193031583588643"></a>
 
-### Traduction en cours
+### Modèle de dessin cachant son corps derrière un carnet de croquis et la main du peintre au premier plan.
 
 Auteur：[@BorderleSint](https://x.com/BorderleSint) · [Publication originale](https://x.com/BorderleSint/status/2102193031583588643)
 
@@ -7735,7 +7735,7 @@ Croquis / Dessin au trait · Publié
 
 Publication originale：[@Zackjpnman](https://x.com/Zackjpnman) · [Publication originale](https://x.com/Zackjpnman/status/2101687832557527435)
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de dessin cachant son corps derrière un carnet de croquis et la main du peintre au premier plan.
 
 <img src="images/2102193031583588643-1.jpg" alt="Image 1" width="480" />
 
@@ -7744,7 +7744,7 @@ Publication originale：[@Zackjpnman](https://x.com/Zackjpnman) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+3:4, photoréaliste, belle femme dans la vingtaine créée par IA, modèle de dessin, au premier plan un carnet de croquis, la main de l'artiste et un crayon, son corps est caché par le carnet de croquis, seuls le décolleté et les jambes sont visibles, Négatif:hauts
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -8101,20 +8101,20 @@ Ambiance : absurde, drôle, bizarre, espiègle, exagérée, légèrement grotesq
 
 <a name="prompt-2102213593043226881"></a>
 
-### Traduction en cours
+### Prompt pour Three.js qui génère un pélican 3D faisant du vélo dans un fichier HTML autonome.
 
 Auteur：[@ralejandrots88](https://x.com/ralejandrots88) · [Publication originale](https://x.com/ralejandrots88/status/2102213593043226881)
 
 Rendu 3D · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour Three.js qui génère un pélican 3D faisant du vélo dans un fichier HTML autonome.
 
 <img src="covers/2102213593043226881.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Utiliser three.js pour implémenter un pélican faisant du vélo dans un fichier HTML autonome
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -9447,20 +9447,20 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 
 <a name="prompt-2102209728663437419"></a>
 
-### Traduction en cours
+### Dragons numériques dans une ville à vortex technologique
 
 Auteur：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publication originale](https://x.com/TheEerieHollows/status/2102209728663437419)
 
 Cyberpunk / Science-fiction · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Dragons numériques dans une ville à vortex technologique
 
 <img src="images/2102209728663437419-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Dragons numériques dans une ville à vortex technologique
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -9747,20 +9747,20 @@ Traduction en cours
 
 <a name="prompt-2102204400768876741"></a>
 
-### Traduction en cours
+### Paysage extraterrestre présentant du sable noir, des eaux turquoise, un feuillage bleu, des pics déchiquetés et un soleil rouge.
 
 Auteur：[@MakunaMars](https://x.com/MakunaMars) · [Publication originale](https://x.com/MakunaMars/status/2102204400768876741)
 
 Paysage / Nature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Paysage extraterrestre présentant du sable noir, des eaux turquoise, un feuillage bleu, des pics déchiquetés et un soleil rouge.
 
 <img src="images/2102204400768876741-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez un paysage serein sur une planète extraterrestre. Un rivage de sable noir avec des eaux océaniques vert turquoise, des vagues se brisant le long de la plage. Une douce brume de brouillard violet flottant au loin avec des pics montagneux déchiquetés parsemant l'autre côté de la baie. Au premier plan, des plantes tropicales luxuriantes aux tiges et feuilles bleues, des fleurs jaunes aux pétales semi-transparents et aux longues étamines blanches, des arbres aux troncs noueux bleu pâle foncé avec des branches torsadées et des feuilles bleues dentelées. Un ciel bleu violacé clair partiellement couvert de nuages cotonneux turquoise clair. Un soleil rouge positionné en fin d'après-midi dans le ciel avec des rayons de lumière perçant les bords des nuages. Environnement surréaliste cinématographique hautement détaillé.
 ```
 
 [↑ Retour aux catégories](#catalog)

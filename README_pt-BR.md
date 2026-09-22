@@ -4918,7 +4918,7 @@ A primeiríssima tentativa da Starship Falcon 14 de alcançar a órbita da Terra
 
 <a name="prompt-2102219008845971613"></a>
 
-### Tradução em andamento
+### Lançamento cinematográfico completo de foguete em Three.js: plataforma, torre, travas, ignição, fumaça, decolagem, perseguição de câmera até as nuvens. Sem botões, sem HUD, reprodução automática.
 
 Autor：[@WescheNex1q](https://x.com/WescheNex1q) · [Publicação original](https://x.com/WescheNex1q/status/2102219008845971613)
 
@@ -4926,14 +4926,14 @@ Fotografia · Cinematográfico / Imagem de Filme · Renderização 3D · Publica
 
 Publicação original：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Publicação original](https://x.com/Bhavani_00007/status/2098134452283334781)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Lançamento cinematográfico completo de foguete em Three.js: plataforma, torre, travas, ignição, fumaça, decolagem, perseguição de câmera até as nuvens. Sem botões, sem HUD, reprodução automática.
 
 <img src="covers/2102219008845971613.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Lançamento cinematográfico completo de foguete em Three.js: plataforma, torre, travas, ignição, fumaça, decolagem, perseguição de câmera até as nuvens. Sem botões, sem HUD, reprodução automática.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -7757,7 +7757,7 @@ Transforme a foto em uma caricatura em guache pintada à mão sobre papel de alg
 
 <a name="prompt-2102193031583588643"></a>
 
-### Tradução em andamento
+### Modelo de desenho escondendo o corpo com um caderno de desenho e a mão do pintor em primeiro plano.
 
 Autor：[@BorderleSint](https://x.com/BorderleSint) · [Publicação original](https://x.com/BorderleSint/status/2102193031583588643)
 
@@ -7765,7 +7765,7 @@ Esboço / Arte Linear · Publicado
 
 Publicação original：[@Zackjpnman](https://x.com/Zackjpnman) · [Publicação original](https://x.com/Zackjpnman/status/2101687832557527435)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Modelo de desenho escondendo o corpo com um caderno de desenho e a mão do pintor em primeiro plano.
 
 <img src="images/2102193031583588643-1.jpg" alt="Imagem 1" width="480" />
 
@@ -7774,7 +7774,7 @@ Publicação original：[@Zackjpnman](https://x.com/Zackjpnman) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+3:4, fotorrealista, bela mulher de vinte e poucos anos criada por IA, modelo de desenho, em primeiro plano um caderno de desenho, a mão do artista e um lápis, o corpo dela está escondido pelo caderno de desenho, apenas o colo e as pernas são visíveis, Negativo:blusas
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -8131,20 +8131,20 @@ Evite personagens reconhecíveis protegidos por direitos autorais, semelhanças 
 
 <a name="prompt-2102213593043226881"></a>
 
-### Tradução em andamento
+### Prompt para Three.js que gera um pelicano 3D andando de bicicleta dentro de um arquivo HTML independente.
 
 Autor：[@ralejandrots88](https://x.com/ralejandrots88) · [Publicação original](https://x.com/ralejandrots88/status/2102213593043226881)
 
 Renderização 3D · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt para Three.js que gera um pelicano 3D andando de bicicleta dentro de um arquivo HTML independente.
 
 <img src="covers/2102213593043226881.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Usar three.js para implementar em um arquivo HTML independente um pelicano andando de bicicleta
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -9467,20 +9467,20 @@ Como eu teria parecido nos anos 1980? Use a foto anexada como referência. Prese
 
 <a name="prompt-2102209728663437419"></a>
 
-### Tradução em andamento
+### Dragões digitais em uma cidade de vórtice tecnológico
 
 Autor：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Publicação original](https://x.com/TheEerieHollows/status/2102209728663437419)
 
 Cyberpunk / Ficção Científica · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Dragões digitais em uma cidade de vórtice tecnológico
 
 <img src="images/2102209728663437419-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Dragões digitais em uma cidade de vórtice tecnológico
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -9767,20 +9767,20 @@ Tradução em andamento
 
 <a name="prompt-2102204400768876741"></a>
 
-### Tradução em andamento
+### Paisagem alienígena com areia preta, águas azul-turquesa, folhagem azul, picos pontiagudos e um sol vermelho.
 
 Autor：[@MakunaMars](https://x.com/MakunaMars) · [Publicação original](https://x.com/MakunaMars/status/2102204400768876741)
 
 Paisagem / Natureza · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Paisagem alienígena com areia preta, águas azul-turquesa, folhagem azul, picos pontiagudos e um sol vermelho.
 
 <img src="images/2102204400768876741-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma paisagem serena em um planeta alienígena. Litoral de areia preta com águas oceânicas verde-turquesa, ondas quebrando ao longo da praia. Uma névoa suave de neblina roxa pairando à distância com picos de montanhas pontiagudos pontilhando o lado oposto da baía. Em primeiro plano, plantas tropicais exuberantes com caules e folhas azuis, flores amarelas com pétalas semitransparentes e longos estames brancos, árvores com troncos nodosos em azul pálido escuro com galhos retorcidos e folhas azuis serrilhadas. Um céu azul-arroxeado claro parcialmente nublado com nuvens fofas em turquesa claro. Um sol vermelho posicionado no final da tarde no céu com raios de luz penetrando as bordas das nuvens. Ambiente cinematográfico surreal altamente detalhado.
 ```
 
 [↑ Voltar às categorias](#catalog)

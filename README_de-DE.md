@@ -4921,7 +4921,7 @@ Der allererste Versuch des Falcon 14 Starship, die Erdumlaufbahn zu erreichen
 
 <a name="prompt-2102219008845971613"></a>
 
-### Übersetzung läuft
+### Vollständiger kinoreifer Raketenstart in Three.js: Startrampe, Turm, Halteklammern, Zündung, Rauch, Abheben, Kameraverfolgung bis in die Wolken. Keine Schaltflächen, kein HUD, automatische Wiedergabe.
 
 Autor：[@WescheNex1q](https://x.com/WescheNex1q) · [Originalbeitrag](https://x.com/WescheNex1q/status/2102219008845971613)
 
@@ -4929,14 +4929,14 @@ Fotografie · Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
 
 Originalbeitrag：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Originalbeitrag](https://x.com/Bhavani_00007/status/2098134452283334781)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vollständiger kinoreifer Raketenstart in Three.js: Startrampe, Turm, Halteklammern, Zündung, Rauch, Abheben, Kameraverfolgung bis in die Wolken. Keine Schaltflächen, kein HUD, automatische Wiedergabe.
 
 <img src="covers/2102219008845971613.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Vollständiger kinoreifer Raketenstart in Three.js: Startrampe, Turm, Halteklammern, Zündung, Rauch, Abheben, Kameraverfolgung bis in die Wolken. Keine Schaltflächen, kein HUD, automatische Wiedergabe.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -7727,7 +7727,7 @@ Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumw
 
 <a name="prompt-2102193031583588643"></a>
 
-### Übersetzung läuft
+### Zeichenmodell, das ihren Körper mit einem Skizzenbuch verdeckt, und die Hand des Malers im Vordergrund.
 
 Autor：[@BorderleSint](https://x.com/BorderleSint) · [Originalbeitrag](https://x.com/BorderleSint/status/2102193031583588643)
 
@@ -7735,7 +7735,7 @@ Skizze / Strichzeichnung · Veröffentlicht
 
 Originalbeitrag：[@Zackjpnman](https://x.com/Zackjpnman) · [Originalbeitrag](https://x.com/Zackjpnman/status/2101687832557527435)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Zeichenmodell, das ihren Körper mit einem Skizzenbuch verdeckt, und die Hand des Malers im Vordergrund.
 
 <img src="images/2102193031583588643-1.jpg" alt="Bild 1" width="480" />
 
@@ -7744,7 +7744,7 @@ Originalbeitrag：[@Zackjpnman](https://x.com/Zackjpnman) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+3:4, fotorealistisch, KI-generierte schöne Frau in ihren 20ern, Zeichenmodell, im Vordergrund ein Skizzenbuch, die Hand des Künstlers und ein Bleistift, ihr Körper ist durch das Skizzenbuch verdeckt, nur Dekolleté und Beine sind sichtbar, Negativ:Oberteil
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -8101,20 +8101,20 @@ Vermeide erkennbare urheberrechtlich geschützte Charaktere, Ähnlichkeiten mit 
 
 <a name="prompt-2102213593043226881"></a>
 
-### Übersetzung läuft
+### Prompt für Three.js zur Generierung eines fahrradfahrenden 3D-Pelikans in einer eigenständigen HTML-Datei.
 
 Autor：[@ralejandrots88](https://x.com/ralejandrots88) · [Originalbeitrag](https://x.com/ralejandrots88/status/2102213593043226881)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für Three.js zur Generierung eines fahrradfahrenden 3D-Pelikans in einer eigenständigen HTML-Datei.
 
 <img src="covers/2102213593043226881.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Three.js verwenden, um in einer eigenständigen HTML-Datei einen Pelikan auf einem Fahrrad zu implementieren
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -9447,20 +9447,20 @@ Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto al
 
 <a name="prompt-2102209728663437419"></a>
 
-### Übersetzung läuft
+### Digitale Drachen in einer Tech-Vortex-Stadt
 
 Autor：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Originalbeitrag](https://x.com/TheEerieHollows/status/2102209728663437419)
 
 Cyberpunk / Sci-Fi · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Digitale Drachen in einer Tech-Vortex-Stadt
 
 <img src="images/2102209728663437419-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Digitale Drachen in einer Tech-Vortex-Stadt
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -9747,20 +9747,20 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2102204400768876741"></a>
 
-### Übersetzung läuft
+### Außerirdische Landschaft mit schwarzem Sand, türkisblauem Wasser, blauem Blattwerk, zerklüfteten Gipfeln und einer roten Sonne.
 
 Autor：[@MakunaMars](https://x.com/MakunaMars) · [Originalbeitrag](https://x.com/MakunaMars/status/2102204400768876741)
 
 Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Außerirdische Landschaft mit schwarzem Sand, türkisblauem Wasser, blauem Blattwerk, zerklüfteten Gipfeln und einer roten Sonne.
 
 <img src="images/2102204400768876741-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine ruhige Landschaft auf einem fremden Planeten. Ein Ufer aus schwarzem Sand mit türkisgrünem Ozeanwasser, brechende Wellen am Strand entlang. Ein sanfter Schleier aus lila Nebel, der in der Ferne schwebt, mit zerklüfteten Berggipfeln auf der gegenüberliegenden Seite der Bucht. Im Vordergrund üppige tropische Pflanzen mit blauen Stängeln und Blättern, gelbe Blumen mit halbtransparenten Blütenblättern und langen weißen Staubfäden, Bäume mit knorrigen dunkel-blassblauen Stämmen mit verdrehten Ästen und gezackten blauen Blättern. Ein hellbläulich-violetter Himmel, teilweise bewölkt mit helltürkisen, flauschigen Wolken. Eine rote Sonne am späten Nachmittagshimmel, deren Lichtstrahlen die Wolkenränder durchdringen. Hochdetaillierte, filmische surreale Umgebung.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

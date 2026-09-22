@@ -4921,7 +4921,7 @@ Il primissimo tentativo della Starship Falcon 14 di raggiungere l'orbita terrest
 
 <a name="prompt-2102219008845971613"></a>
 
-### Traduzione in corso
+### Lancio cinematografico completo di un razzo in Three.js: rampa, torre, morsetti, accensione, fumo, decollo, inseguimento della telecamera tra le nuvole. Nessun pulsante, nessun HUD, riproduzione automatica.
 
 Autore：[@WescheNex1q](https://x.com/WescheNex1q) · [Post originale](https://x.com/WescheNex1q/status/2102219008845971613)
 
@@ -4929,14 +4929,14 @@ Fotografia · Fermo immagine cinematografico / Still fotografico · Rendering 3D
 
 Post originale：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Post originale](https://x.com/Bhavani_00007/status/2098134452283334781)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Lancio cinematografico completo di un razzo in Three.js: rampa, torre, morsetti, accensione, fumo, decollo, inseguimento della telecamera tra le nuvole. Nessun pulsante, nessun HUD, riproduzione automatica.
 
 <img src="covers/2102219008845971613.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Lancio cinematografico completo di un razzo in Three.js: rampa, torre, morsetti, accensione, fumo, decollo, inseguimento della telecamera tra le nuvole. Nessun pulsante, nessun HUD, riproduzione automatica.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7727,7 +7727,7 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 
 <a name="prompt-2102193031583588643"></a>
 
-### Traduzione in corso
+### Modella per disegno che nasconde il corpo con un album da disegno e la mano del pittore in primo piano.
 
 Autore：[@BorderleSint](https://x.com/BorderleSint) · [Post originale](https://x.com/BorderleSint/status/2102193031583588643)
 
@@ -7735,7 +7735,7 @@ Schizzo / Line Art · Pubblicato
 
 Post originale：[@Zackjpnman](https://x.com/Zackjpnman) · [Post originale](https://x.com/Zackjpnman/status/2101687832557527435)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modella per disegno che nasconde il corpo con un album da disegno e la mano del pittore in primo piano.
 
 <img src="images/2102193031583588643-1.jpg" alt="Immagine 1" width="480" />
 
@@ -7744,7 +7744,7 @@ Post originale：[@Zackjpnman](https://x.com/Zackjpnman) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+3:4, fotorealistico, bella donna ventenne creata da IA, modella per disegno, in primo piano un album da disegno, la mano dell'artista e una matita, il suo corpo è nascosto dall'album da disegno, si vedono solo il décolleté e le gambe, Negativo:top
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -8101,20 +8101,20 @@ Evita personaggi riconoscibili protetti da copyright, somiglianze con celebrità
 
 <a name="prompt-2102213593043226881"></a>
 
-### Traduzione in corso
+### Prompt per Three.js che genera un pellicano 3D in sella a una bicicletta all'interno di un file HTML autonomo.
 
 Autore：[@ralejandrots88](https://x.com/ralejandrots88) · [Post originale](https://x.com/ralejandrots88/status/2102213593043226881)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per Three.js che genera un pellicano 3D in sella a una bicicletta all'interno di un file HTML autonomo.
 
 <img src="covers/2102213593043226881.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Utilizzare three.js per implementare un pellicano che va in bicicletta in un file HTML autonomo
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -9447,20 +9447,20 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 
 <a name="prompt-2102209728663437419"></a>
 
-### Traduzione in corso
+### Draghi digitali in una città a vortice tecnologico
 
 Autore：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Post originale](https://x.com/TheEerieHollows/status/2102209728663437419)
 
 Cyberpunk / Sci-Fi · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Draghi digitali in una città a vortice tecnologico
 
 <img src="images/2102209728663437419-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Draghi digitali in una città a vortice tecnologico
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -9747,20 +9747,20 @@ Traduzione in corso
 
 <a name="prompt-2102204400768876741"></a>
 
-### Traduzione in corso
+### Paesaggio alieno caratterizzato da sabbia nera, acque turchesi, fogliame blu, picchi frastagliati e un sole rosso.
 
 Autore：[@MakunaMars](https://x.com/MakunaMars) · [Post originale](https://x.com/MakunaMars/status/2102204400768876741)
 
 Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Paesaggio alieno caratterizzato da sabbia nera, acque turchesi, fogliame blu, picchi frastagliati e un sole rosso.
 
 <img src="images/2102204400768876741-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un paesaggio sereno su un pianeta alieno. Litorale di sabbia nera con acque oceaniche verde turchese, onde che si infrangono lungo la spiaggia. Una leggera foschia di nebbia viola che aleggia in lontananza con picchi montuosi frastagliati che costellano il lato opposto della baia. In primo piano, lussureggianti piante tropicali con steli e foglie blu, fiori gialli con petali semitrasparenti e lunghi stami bianchi, alberi con tronchi nodosi di un blu pallido scuro con rami contorti e foglie blu seghettate. Un cielo viola bluastro chiaro parzialmente coperto da soffici nuvole turchese chiaro. Un sole rosso posizionato nel tardo pomeriggio nel cielo con raggi di luce che penetrano i bordi delle nuvole. Ambiente surreale cinematografico ad alto dettaglio.
 ```
 
 [↑ Torna alle categorie](#catalog)
