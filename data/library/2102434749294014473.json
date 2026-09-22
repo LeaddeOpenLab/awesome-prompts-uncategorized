@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T20:25:40.863Z",
+  "model": "grok",
+  "prompt": "鳥のような機械の翼を持つ頭も体も甲冑姿の巨大ロボットが空で剣を奮う",
+  "promptTranslations": {
+    "en": "A giant robot in full armor from head to body with bird-like mechanical wings wielding a sword in the sky"
+  },
+  "summaryTranslations": {
+    "en": "A prompt depicting a giant robot in armor with mechanical bird wings holding a sword in mid-air."
+  },
+  "translationVersion": 2,
+  "summary": "空中で剣を構える機械の鳥翼を持つ甲冑姿の巨大ロボットを描写するプロンプト。",
+  "summaryEn": "Prompt depicting an armored giant robot with mechanical bird wings wielding a sword in the sky.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102434749294014473",
+    "canonicalUrl": "https://x.com/hsuenaga626/status/2102434749294014473",
+    "author": {
+      "username": "hsuenaga626",
+      "displayName": "ユタソン",
+      "profileUrl": "https://x.com/hsuenaga626"
+    },
+    "publishedAt": "2026-09-22T16:28:00.000Z",
+    "collectedAt": "2026-09-22T20:16:59.664Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n鳥のような機械の翼を持つ頭も体も甲冑姿の巨大ロボットが空で剣を奮う https://t.co/Xs524RSrTV",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1ZQiDbcAUJNcf.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1ZQiDbcAUJNcf.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/hsuenaga626/status/2102434749294014473",
+  "coverUrl": "https://pbs.twimg.com/media/HS1ZQiDbcAUJNcf.jpg",
+  "coverPath": "images/2102434749294014473-1.jpg",
+  "imagePaths": [
+    "images/2102434749294014473-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS1ZQiDbcAUJNcf",
+    "x-post:2102434749294014473"
+  ],
+  "analysis": {
+    "summary": "空中で剣を構える機械の鳥翼を持つ甲冑姿の巨大ロボットを描写するプロンプト。",
+    "summaryEn": "Prompt depicting an armored giant robot with mechanical bird wings wielding a sword in the sky.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image shows a fully armored robotic figure with mechanical feathered wings wielding a sword in the sky."
+    },
+    "videoQuality": null,
+    "originalPrompt": "鳥のような機械の翼を持つ頭も体も甲冑姿の巨大ロボットが空で剣を奮う",
+    "sourceRange": {
+      "start": 22,
+      "end": 55
+    },
+    "translations": {
+      "zh": "拥有鸟状机械翅膀、头部和全身覆盖铠甲的巨大机器人在天空中挥舞着剑",
+      "en": "A giant robot in full armor with bird-like mechanical wings wielding a sword in the sky"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept-art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

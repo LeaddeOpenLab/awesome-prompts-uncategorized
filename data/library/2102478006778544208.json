@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T20:25:50.082Z",
+  "model": "grok",
+  "prompt": "雪の魔女に金髪の男騎士からプロポーズされる",
+  "promptTranslations": {
+    "en": "A blonde male knight proposing to a snow witch"
+  },
+  "summaryTranslations": {
+    "en": "A fantasy scene where a blonde male knight proposes to a snow witch."
+  },
+  "translationVersion": 2,
+  "summary": "金髪の男騎士が雪の魔女にプロポーズするファンタジーシーン。",
+  "summaryEn": "A fantasy scene where a blonde male knight proposes to a Snow Witch.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102478006778544208",
+    "canonicalUrl": "https://x.com/hsuenaga626/status/2102478006778544208",
+    "author": {
+      "username": "hsuenaga626",
+      "displayName": "ユタソン",
+      "profileUrl": "https://x.com/hsuenaga626"
+    },
+    "publishedAt": "2026-09-22T19:19:53.000Z",
+    "collectedAt": "2026-09-22T20:16:59.664Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n雪の魔女に金髪の男騎士からプロポーズされる https://t.co/IJfk7R7SwP",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/hsuenaga626/status/2102478006778544208",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102477985089806336/img/7iFvRHROiyiwCNoP.jpg",
+        "analysisUrl": "https://x.com/hsuenaga626/status/2102478006778544208"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/hsuenaga626/status/2102478006778544208",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102477985089806336/img/7iFvRHROiyiwCNoP.jpg",
+  "coverPath": "covers/2102478006778544208.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102477985089806336",
+    "x-post:2102478006778544208"
+  ],
+  "analysis": {
+    "summary": "金髪の男騎士が雪の魔女にプロポーズするファンタジーシーン。",
+    "summaryEn": "A fantasy scene where a blonde male knight proposes to a Snow Witch.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video accurately depicts a blonde male knight kneeling and proposing to a tall Snow Witch in front of an icy gothic castle, directly matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "雪の魔女に金髪の男騎士からプロポーズされる",
+    "sourceRange": {
+      "start": 22,
+      "end": 43
+    },
+    "translations": {
+      "zh": "金发男骑士向雪之魔女求婚",
+      "en": "A blonde male knight proposes to the Snow Witch"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "fantasy narrative video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

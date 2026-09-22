@@ -1,0 +1,103 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T20:26:05.524Z",
+  "model": "qwen-image",
+  "prompt": "左の女性は小柄で長い黒髪\n中央の女性は胸が大きく肩までの長さの茶褐色の髪\n右の女性は日焼けした肌で短い黒髪",
+  "promptTranslations": {
+    "en": "The woman on the left is petite with long black hair\nThe woman in the center has a large bust and shoulder-length brownish-black hair\nThe woman on the right has tanned skin and short black hair"
+  },
+  "summaryTranslations": {
+    "en": "Portrait specifying the characteristics of three women (hairstyle, body type, skin tone)"
+  },
+  "translationVersion": 2,
+  "summary": "3人の女性の特徴（髪型・体型・肌色）を指定したポートレート",
+  "summaryEn": "Portrait specifying traits of three women: hair, build, and skin tone.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102476044783804731",
+    "canonicalUrl": "https://x.com/minami_gunma/status/2102476044783804731",
+    "author": {
+      "username": "minami_gunma",
+      "displayName": "minami_gunma",
+      "profileUrl": "https://x.com/minami_gunma"
+    },
+    "publishedAt": "2026-09-22T19:12:05.000Z",
+    "collectedAt": "2026-09-22T20:16:59.664Z",
+    "language": "ja",
+    "originalText": "Qwen-Image-2.1\n｢左の女性は小柄で長い黒髪\n中央の女性は胸が大きく肩までの長さの茶褐色の髪\n右の女性は日焼けした肌で短い黒髪｣と指定\nちゃんとそうなった。偉い。\n(雑PromptはALTにあります)\n\n1MPで生成してQwen-Image-2.1で4MPまで\nアップスケールしました、いいと思います。 https://t.co/OH5oXyC2Co",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS19Li5bQAAC1zC.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS19Li5bQAAC1zC.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 236
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/minami_gunma/status/2102476044783804731",
+  "coverUrl": "https://pbs.twimg.com/media/HS19Li5bQAAC1zC.jpg",
+  "coverPath": "images/2102476044783804731-1.jpg",
+  "imagePaths": [
+    "images/2102476044783804731-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS19Li5bQAAC1zC",
+    "x-post:2102476044783804731"
+  ],
+  "analysis": {
+    "summary": "3人の女性の特徴（髪型・体型・肌色）を指定したポートレート",
+    "summaryEn": "Portrait specifying traits of three women: hair, build, and skin tone.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面中的三位女性完美对应提示词中的身材、发型、发色及肤色特征描述。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "左の女性は小柄で長い黒髪\n中央の女性は胸が大きく肩までの長さの茶褐色の髪\n右の女性は日焼けした肌で短い黒髪",
+    "sourceRange": {
+      "start": 16,
+      "end": 69
+    },
+    "translations": {
+      "zh": "左边的女性身材娇小留着黑色长发，中间的女性丰满留着齐肩茶褐色头发，右边的女性皮肤呈小麦色留着黑色短发",
+      "en": "The woman on the left is petite with long black hair, the center woman is busty with shoulder-length brownish hair, and the woman on the right has tanned skin with short black hair"
+    },
+    "targetModels": [
+      "qwen-image"
+    ],
+    "category": "text-to-image",
+    "useCase": "portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [
+        "lingerie"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

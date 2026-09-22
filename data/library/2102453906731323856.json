@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T20:26:12.041Z",
+  "model": "unknown-image",
+  "prompt": "**Photo 9:16, shot on iPhone at night with flash in Paris.**  \nPalais de Chaillot terrace, the Eiffel Tower fully visible on the left.\n\nThe girl is to the right of center, photographed from a distance, full body.  \nLight-beige short trench coat with voluminous straight shoulders, wide sleeves, and a belt.\n\nBlack stirrup leggings, patent pointed-toe slingbacks with no back on a high gold stiletto.  \nSmall black quilted bag on a chain worn across the shoulder.\n\nSlim, toned figure, long thin legs, tanned skin.  \nOne leg straight, the other stepped to the side.  \nChin lifted, arms along the body.\n\nHair as in the photo, in motion, as if she has just turned around.  \nShort square French manicure.\n\nThe Eiffel Tower is sparkling, visible in full up to the antenna.  \nStone parapet, terrace, and steps.  \nBackground is sharp, no strong bokeh.\n\nA live night photo on iPhone, realistic flash and skin, no CGI and no excessive retouching.",
+  "promptTranslations": {
+    "en": "**Photo 9:16, shot on iPhone at night with flash in Paris.**  \nPalais de Chaillot terrace, the Eiffel Tower fully visible on the left.\n\nThe girl is to the right of center, photographed from a distance, full body.  \nLight-beige short trench coat with voluminous straight shoulders, wide sleeves, and a belt.\n\nBlack stirrup leggings, patent pointed-toe slingbacks with no back on a high gold stiletto.  \nSmall black quilted bag on a chain worn across the shoulder.\n\nSlim, toned figure, long thin legs, tanned skin.  \nOne leg straight, the other stepped to the side.  \nChin lifted, arms along the body.\n\nHair as in the photo, in motion, as if she has just turned around.  \nShort square French manicure.\n\nThe Eiffel Tower is sparkling, visible in full up to the antenna.  \nStone parapet, terrace, and steps.  \nBackground is sharp, no strong bokeh.\n\nA live night photo on iPhone, realistic flash and skin, no CGI and no excessive retouching."
+  },
+  "summaryTranslations": {
+    "en": "Full-body flash photo of a woman in a beige trench coat on a Paris terrace at night with the Eiffel Tower."
+  },
+  "translationVersion": 2,
+  "summary": "Full-body flash photo of a woman in a beige trench coat on a Paris terrace at night with the Eiffel Tower.",
+  "summaryEn": "Full-body flash photo of a woman in a beige trench coat on a Paris terrace at night with the Eiffel Tower.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102453906731323856",
+    "canonicalUrl": "https://x.com/oye_samia/status/2102453906731323856",
+    "author": {
+      "username": "oye_samia",
+      "displayName": "Dr. Samia",
+      "profileUrl": "https://x.com/oye_samia"
+    },
+    "publishedAt": "2026-09-22T17:44:07.000Z",
+    "collectedAt": "2026-09-22T20:16:59.664Z",
+    "language": "en",
+    "originalText": "midnight in paris 🌙\n\nPrompt: **Photo 9:16, shot on iPhone at night with flash in Paris.**  \nPalais de Chaillot terrace, the Eiffel Tower fully visible on the left.\n\nThe girl is to the right of center, photographed from a distance, full body.  \nLight-beige short trench coat with voluminous straight shoulders, wide sleeves, and a belt.\n\nBlack stirrup leggings, patent pointed-toe slingbacks with no back on a high gold stiletto.  \nSmall black quilted bag on a chain worn across the shoulder.\n\nSlim, toned figure, long thin legs, tanned skin.  \nOne leg straight, the other stepped to the side.  \nChin lifted, arms along the body.\n\nHair as in the photo, in motion, as if she has just turned around.  \nShort square French manicure.\n\nThe Eiffel Tower is sparkling, visible in full up to the antenna.  \nStone parapet, terrace, and steps.  \nBackground is sharp, no strong bokeh.\n\nA live night photo on iPhone, realistic flash and skin, no CGI and no excessive retouching.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1qqeNa8AAJZVP.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1qqeNa8AAJZVP.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1qrZHaoAAKWgt.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1qrZHaoAAKWgt.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 52,
+      "repostCount": 9,
+      "replyCount": 38,
+      "quoteCount": 0,
+      "viewCount": 584
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/oye_samia/status/2102453906731323856",
+  "coverUrl": "https://pbs.twimg.com/media/HS1qqeNa8AAJZVP.jpg",
+  "coverPath": "images/2102453906731323856-1.jpg",
+  "imagePaths": [
+    "images/2102453906731323856-1.jpg",
+    "images/2102453906731323856-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS1qqeNa8AAJZVP",
+    "x-image:/media/HS1qrZHaoAAKWgt",
+    "x-post:2102453906731323856"
+  ],
+  "analysis": {
+    "summary": "Full-body flash photo of a woman in a beige trench coat on a Paris terrace at night with the Eiffel Tower.",
+    "summaryEn": "Full-body flash photo of a woman in a beige trench coat on a Paris terrace at night with the Eiffel Tower.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The images depict a woman in a belted beige trench coat and stirrup leggings posing at night on the Palais de Chaillot steps with the illuminated Eiffel Tower on the left, matching the prompt composition and flash aesthetic."
+    },
+    "videoQuality": null,
+    "originalPrompt": "**Photo 9:16, shot on iPhone at night with flash in Paris.**  \nPalais de Chaillot terrace, the Eiffel Tower fully visible on the left.\n\nThe girl is to the right of center, photographed from a distance, full body.  \nLight-beige short trench coat with voluminous straight shoulders, wide sleeves, and a belt.\n\nBlack stirrup leggings, patent pointed-toe slingbacks with no back on a high gold stiletto.  \nSmall black quilted bag on a chain worn across the shoulder.\n\nSlim, toned figure, long thin legs, tanned skin.  \nOne leg straight, the other stepped to the side.  \nChin lifted, arms along the body.\n\nHair as in the photo, in motion, as if she has just turned around.  \nShort square French manicure.\n\nThe Eiffel Tower is sparkling, visible in full up to the antenna.  \nStone parapet, terrace, and steps.  \nBackground is sharp, no strong bokeh.\n\nA live night photo on iPhone, realistic flash and skin, no CGI and no excessive retouching.",
+    "sourceRange": {
+      "start": 29,
+      "end": 965
+    },
+    "translations": {
+      "zh": "9:16 照片，夜间在巴黎用 iPhone 闪光灯拍摄。夏乐宫露台，埃菲尔铁塔在左侧完整可见。女孩位于画面偏右，远距离全身拍摄。浅米色短款风衣，带有挺括直肩、宽袖和腰带。黑色踩脚打底裤，金色高细跟尖头露跟漆皮鞋。黑色小号菱格链条包斜挎。身材苗条紧致，双腿修长，肤色微黑。一腿笔直，另一腿向侧面跨开。下巴扬起，双臂自然垂放身体两侧。头发如照片所示呈动态飘逸感，如同刚转过身。短款方形法式美甲。埃菲尔铁塔闪闪发光，直至天线全部可见。石质矮墙、露台和台阶。背景清晰，无强烈虚化。iPhone 实况夜景照片，闪光灯与皮肤质感逼真，无 CGI，无过度精修。",
+      "en": "**Photo 9:16, shot on iPhone at night with flash in Paris.**  \nPalais de Chaillot terrace, the Eiffel Tower fully visible on the left.\n\nThe girl is to the right of center, photographed from a distance, full body.  \nLight-beige short trench coat with voluminous straight shoulders, wide sleeves, and a belt.\n\nBlack stirrup leggings, patent pointed-toe slingbacks with no back on a high gold stiletto.  \nSmall black quilted bag on a chain worn across the shoulder.\n\nSlim, toned figure, long thin legs, tanned skin.  \nOne leg straight, the other stepped to the side.  \nChin lifted, arms along the body.\n\nHair as in the photo, in motion, as if she has just turned around.  \nShort square French manicure.\n\nThe Eiffel Tower is sparkling, visible in full up to the antenna.  \nStone parapet, terrace, and steps.  \nBackground is sharp, no strong bokeh.\n\nA live night photo on iPhone, realistic flash and skin, no CGI and no excessive retouching."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "text-to-image",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

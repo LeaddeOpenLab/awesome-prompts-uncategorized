@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T20:25:29.921Z",
+  "model": "unknown-image",
+  "prompt": "纪实抓拍，成年新娘穿红色吊带婚纱缩在老式木床角，紧抓大红牡丹被子遮挡胸口，亲友围聚在床边嬉笑掀被起哄，门外窥探半遮挡视角，暖黄色低沉光线，漂浮烟尘颗粒，真实粗粝感，电影故事感。",
+  "promptTranslations": {
+    "en": "Documentary snapshot, adult bride wearing a red slip wedding dress huddled in the corner of an old-fashioned wooden bed, clutching a large red peony-patterned quilt tightly to cover her chest, relatives and friends gathered around the bed laughing, lifting the quilt and making a rowdy scene, half-obscured voyeuristic perspective from outside the door, warm yellow subdued lighting, floating dust particles, gritty authentic texture, cinematic narrative atmosphere."
+  },
+  "summaryTranslations": {
+    "en": "Chinese rural wedding hazing documentary-style prompt, depicting a half-obscured snapshot from outside the door of a bride on an old-fashioned wooden bed clutching a peony quilt while relatives and friends laughingly pull at the quilt and heckle."
+  },
+  "translationVersion": 2,
+  "summary": "中式乡村婚闹纪实风格提示词，刻画老式木床上新娘紧抓牡丹被子、亲友嬉笑掀被起哄的门外半遮挡抓拍画面。",
+  "summaryEn": "A cinematic documentary prompt capturing a rural Chinese wedding hazing scene with a voyeuristic doorway angle, featuring a bride huddled on an old bed as relatives lift the quilt.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102437998826750305",
+    "canonicalUrl": "https://x.com/boniusex/status/2102437998826750305",
+    "author": {
+      "username": "boniusex",
+      "displayName": "王大锤",
+      "profileUrl": "https://x.com/boniusex"
+    },
+    "publishedAt": "2026-09-22T16:40:54.000Z",
+    "collectedAt": "2026-09-22T20:16:59.664Z",
+    "language": "zh",
+    "originalText": "农村的陋习之一：婚闹\n\n有句话怎么说：我在商 k 点一个，朋友都不会上了帮我摸\n\nprompt：纪实抓拍，成年新娘穿红色吊带婚纱缩在老式木床角，紧抓大红牡丹被子遮挡胸口，亲友围聚在床边嬉笑掀被起哄，门外窥探半遮挡视角，暖黄色低沉光线，漂浮烟尘颗粒，真实粗粝感，电影故事感。 https://t.co/h9YS96tlz4",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1bwUQasAIZm4J.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1bwUQasAIZm4J.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1bxJLbcAQHMIO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1bxJLbcAQHMIO.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1bzz-bcAMTAZI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1bzz-bcAMTAZI.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1b3uHbcAMVW19.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1b3uHbcAMVW19.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 495
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/boniusex/status/2102437998826750305",
+  "coverUrl": "https://pbs.twimg.com/media/HS1bwUQasAIZm4J.jpg",
+  "coverPath": "images/2102437998826750305-1.jpg",
+  "imagePaths": [
+    "images/2102437998826750305-1.jpg",
+    "images/2102437998826750305-2.jpg",
+    "images/2102437998826750305-3.jpg",
+    "images/2102437998826750305-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS1bwUQasAIZm4J",
+    "x-image:/media/HS1bxJLbcAQHMIO",
+    "x-image:/media/HS1bzz-bcAMTAZI",
+    "x-image:/media/HS1b3uHbcAMVW19",
+    "x-post:2102437998826750305"
+  ],
+  "analysis": {
+    "summary": "中式乡村婚闹纪实风格提示词，刻画老式木床上新娘紧抓牡丹被子、亲友嬉笑掀被起哄的门外半遮挡抓拍画面。",
+    "summaryEn": "A cinematic documentary prompt capturing a rural Chinese wedding hazing scene with a voyeuristic doorway angle, featuring a bride huddled on an old bed as relatives lift the quilt.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图中第一张完全展现了提示词所描述的门外半遮挡构图、老式木床、大红牡丹被子、亲友围聚嬉笑掀被以及暖黄光影与烟尘颗粒感。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "纪实抓拍，成年新娘穿红色吊带婚纱缩在老式木床角，紧抓大红牡丹被子遮挡胸口，亲友围聚在床边嬉笑掀被起哄，门外窥探半遮挡视角，暖黄色低沉光线，漂浮烟尘颗粒，真实粗粝感，电影故事感。",
+    "sourceRange": {
+      "start": 48,
+      "end": 136
+    },
+    "translations": {
+      "zh": "纪实抓拍，成年新娘穿红色吊带婚纱缩在老式木床角，紧抓大红牡丹被子遮挡胸口，亲友围聚在床边嬉笑掀被起哄，门外窥探半遮挡视角，暖黄色低沉光线，漂浮烟尘颗粒，真实粗粝感，电影故事感。",
+      "en": "Documentary snapshot, adult bride wearing a red slip wedding dress huddled in the corner of an old wooden bed, clutching a large red peony quilt to cover her chest, relatives and friends gathered around the bedside laughing and lifting the quilt, half-obscured peeping perspective from outside the door, warm yellow dim lighting, floating dust particles, authentic gritty texture, cinematic storytelling."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "中式乡村婚闹纪实叙事场景生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "婚闹题材/轻度争议场景"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
