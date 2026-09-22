@@ -9725,13 +9725,13 @@ Filmagem de documentário de televisão ultrarrealista de 15 segundos do início
 
 <a name="prompt-2102254699202166846"></a>
 
-### Tradução em andamento
+### Construa uma imagem de comparação superior-inferior no &quot;estilo silhueta conceitual com espaço negativo&quot;, com a metade superior preservando o sujeito fotográfico original e a metade inferior destilando uma silhueta minimalista e abstrata em tinta preta com ampla área de espaço negativo em branco-quente.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicação original](https://x.com/Hamburgerai/status/2102254699202166846)
 
 Fotografia · Minimalismo · Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Construa uma imagem de comparação superior-inferior no &quot;estilo silhueta conceitual com espaço negativo&quot;, com a metade superior preservando o sujeito fotográfico original e a metade inferior destilando uma silhueta minimalista e abstrata em tinta preta com ampla área de espaço negativo em branco-quente.
 
 <img src="images/2102254699202166846-1.jpg" alt="Imagem 1" width="480" />
 
@@ -9740,7 +9740,12 @@ Fotografia · Minimalismo · Resumo / Contexto · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma imagem de comparação vertical superior-inferior na proporção 3:4, no estilo denominado 【CONCEPTUAL SILHOUETTE VOID｜Estilo silhueta conceitual com espaço negativo】. Adequado para pessoas, animais, plantas, arquitetura, cidades, veículos, comida, objetos, interiores, natureza e fotos de viagem, sem se limitar a "viagem" ou a qualquer cenário único.
+A metade superior (cerca de 42%–48%) preserva a foto original: mantém com precisão o sujeito principal, a quantidade, a pose, a perspectiva, as relações espaciais, a iluminação, as texturas e as cores reconhecíveis, aplicando apenas uma gradação de cor natural de nível editorial, sem transformar em ilustração, sem mudar de local e sem adicionar ou remover sujeitos-chave. Deixe uma junção limpa em branco-quente entre as partes superior e inferior, sem bordas grossas, etiquetas de foto ou selos de imagem original/IA.
+Na metade inferior, não copie a foto inteira nem desenhe uma ilustração completa. Primeiro, extraia da foto original a relação semântica, ação, silhueta ou ritmo material mais significativo: por exemplo, a postura de uma pessoa, a curva da cauda de um animal, o desabrochar de uma flor, a extensão dos galhos de uma árvore, a curva de uma estrada, o arco de um edifício, a direção da velocidade de um veículo, a relação circular de pratos e tigelas, o ritmo repetitivo das janelas, a ondulação de uma crista de montanha ou as marolas na água. Escolha apenas um elemento condutor principal e reconstrua-o como uma silhueta plana abstrata, contorno em faixa, símbolo em bloco ou um único gesto linear em preto-carvão, tinta nanquim ou grafite escuro. Essa forma deve poder ser rastreada até o sujeito real da metade superior, mas pode ser esticada, reduzida, deslocada, rotacionada, cortada ou atravessar o espaço negativo.
+A metade inferior mantém de 60% a 80% de espaço negativo contínuo em branco-quente, com a superfície do papel apresentando apenas fibras muito sutis e granulação fosca. As bordas da forma principal podem ter retícula leve, textura de pincel seco ou densidade irregular de tinta, mas o conjunto deve ser sóbrio, plano e limpo, sem se dissolver em aguada de tinta nem virar um desenho linear detalhado. Pessoas e animais podem ser comprimidos em silhuetas gerais sem rosto e sem textura de roupas; arquitetura, plantas, comida e utensílios mantêm apenas a estrutura mínima para reconhecer a relação formal, sem restaurar detalhes fotográficos. Use no máximo uma ou duas linhas auxiliares ultrafinas para indicar a direção, sem adicionar um segundo objeto abstrato.
+A forma abstrata é dominada por preto-carvão, tinta nanquim ou grafite escuro, extraindo no máximo um único ponto de cor com saturação extremamente baixa da imagem original; a cor varia conforme a foto, sem impor paletas fixas de azul, verde ou tons urbanos. Na parte inferior, pode ser inserida uma nota editorial em inglês, muito pequena e precisa, descrevendo essa semântica, como ONE GESTURE / OPEN SPACE, ARC / STILLNESS ou SINGLE FORM; não adicione títulos grandes, parágrafos longos ou informações sobre locais fictícios.
+No geral, a metade superior deve carregar a realidade fotográfica, enquanto a metade inferior assume o conceito único, o julgamento formal e o ritmo do espaço negativo. É proibido: redesenho de cena em página inteira, múltiplos objetos flutuantes, nós de rota contínuos, modelos de skyline urbano completo, janelas fotográficas, tinta nanquim ocupando a página toda, pôsteres geométricos coloridos, papercraft pesado, renderizações 3D, contornos automáticos, logos, marcas-d'água, caracteres chineses falsos, selos de IA e selos de imagem original.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -9981,13 +9986,13 @@ Tradução em andamento
 
 <a name="prompt-2102276302539812995"></a>
 
-### Tradução em andamento
+### Um personagem com orelhas de animal em um terno preto sob medida sentado de costas em uma cadeira de escritório suplicando.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicação original](https://x.com/leftbypeace/status/2102276302539812995)
 
 Personagem · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um personagem com orelhas de animal em um terno preto sob medida sentado de costas em uma cadeira de escritório suplicando.
 
 <img src="images/2102276302539812995-1.jpg" alt="Imagem 1" width="480" />
 
@@ -9996,7 +10001,7 @@ Personagem · Animal / Criatura · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+solo, corpo inteiro, visão frontal, fundo branco, fundo simples, 3::sentado ao contrário em uma cadeira de escritório, montado na cadeira::, 3::peito apoiado contra o encosto da cadeira, pernas abertas de cada lado da cadeira::, 4::ambas as mãos juntas diretamente na frente da boca::, 4::pontas dos dedos esquerdo e direito se tocando::, pontas dos dedos tocando os lábios, palmas voltadas uma para a outra, mãos bem juntas, cotovelos próximos, 2::terno sob medida preto, camisa social preta, calça social preta::, 2::sapatos sociais de couro preto::, 2::orelhas de animal::, 2::cauda de animal, cauda abanando de um lado para o outro::, cadeira de escritório, 3::pequenos efeitos de brilho ao redor do personagem::, estrelas cintilantes, minúsculos vislumbres, brilhos sutis, atmosfera fofa de súplica
 ```
 
 [↑ Voltar às categorias](#catalog)

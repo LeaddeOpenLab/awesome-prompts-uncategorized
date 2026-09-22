@@ -9823,13 +9823,13 @@ CONTINUIDAD / NEGATIVOS: un solo reportero, un solo alienígena, un solo camaró
 
 <a name="prompt-2102254699202166846"></a>
 
-### Traducción en curso
+### Construye una imagen comparativa arriba-abajo con el &quot;estilo silueta conceptual con espacio negativo&quot;, donde la parte superior conserva el sujeto fotográfico original y la parte inferior extrae una silueta abstracta minimalista en tinta negra con una amplia área de espacio negativo en blanco cálido.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2102254699202166846)
 
 Fotografía · Minimalismo · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Construye una imagen comparativa arriba-abajo con el &quot;estilo silueta conceptual con espacio negativo&quot;, donde la parte superior conserva el sujeto fotográfico original y la parte inferior extrae una silueta abstracta minimalista en tinta negra con una amplia área de espacio negativo en blanco cálido.
 
 <img src="images/2102254699202166846-1.jpg" alt="Imagen 1" width="480" />
 
@@ -9838,7 +9838,12 @@ Fotografía · Minimalismo · Resumen / Antecedentes · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una imagen de transformación comparativa vertical arriba-abajo en proporción 3:4, con el estilo denominado 【CONCEPTUAL SILHOUETTE VOID｜Estilo silueta conceptual con espacio negativo】. Es aplicable a retratos, animales, plantas, arquitectura, ciudades, vehículos, comida, utensilios/objetos, interiores, naturaleza y fotos de viajes, sin limitarse a "viajes" ni a ningún escenario único.
+La parte superior, aproximadamente del 42% al 48%, conserva la foto de entrada en sí: mantiene con precisión el sujeto principal, la cantidad, la postura, la perspectiva, las relaciones espaciales, la luz, la textura y los colores reconocibles, realizando únicamente una gradación de color natural de nivel editorial, sin convertir en ilustración, sin cambiar de lugar y sin añadir o eliminar sujetos clave. Entre la parte superior e inferior se deja una unión limpia en blanco cálido, sin marcos gruesos, etiquetas de fotos ni insignias de imagen original/IA.
+En la parte inferior no copies la foto entera ni dibujes una ilustración completa. Primero extrae de la foto original una única relación semántica, acción, contorno o ritmo de textura que sea el más significativo: por ejemplo, la postura de pie de una persona, la curva de la cola de un animal, la apertura de una flor, la extensión de las ramas, la curva de un camino, la línea de arco de un edificio, la dirección de velocidad de un vehículo, la relación circular de platos y cuencos, el ritmo repetitivo de las ventanas, las ondulaciones de una cordillera o las ondas en el agua. Elige solo un elemento portador principal y reconfíguralo en una silueta plana abstracta de color negro carbón, negro tinta o grafito oscuro, un contorno en banda, un símbolo de bloques o un único gesto lineal. Dicha forma debe remitir al sujeto real de la parte superior, pero se permite estirarla, reducirla, desplazarla, rotarla, seccionarla o cruzar el espacio en blanco.
+La parte inferior mantiene un 60%–80% de espacio negativo continuo en blanco cálido, con solo fibras muy tenues y grano mate en la superficie del papel. Los bordes de la forma principal pueden tener un ligero tramado de puntos, grano de pincel seco o densidad de tinta desigual, pero en conjunto debe ser sobrio, plano y limpio, sin difuminarse como aguada de tinta ni convertirse en un dibujo lineal minucioso. Las personas y los animales se pueden comprimir en siluetas integrales sin rostro ni textura de ropa; la arquitectura, las plantas, la comida y los objetos solo conservan la estructura mínima que permita reconocer la relación de formas, sin recuperar los detalles fotográficos. Se permite utilizar como máximo una o dos líneas guía extremadamente finas para sugerir dirección, sin añadir un segundo objeto abstracto.
+La forma abstracta se basa principalmente en negro carbón, negro tinta o grafito oscuro, extrayendo como máximo un punto de color de saturación extremadamente baja de la foto original; el color varía según la foto, sin imponer paletas fijas de azules, verdes o urbanas. En la parte inferior se puede incluir una línea de nota editorial en inglés muy pequeña y precisa que describa dicha semántica, por ejemplo ONE GESTURE / OPEN SPACE, ARC / STILLNESS o SINGLE FORM; no incluyas títulos grandes, párrafos largos ni información de ubicaciones ficticias.
+En conjunto, la parte superior debe asumir la realidad fotográfica, mientras que la parte inferior asume el concepto único, el juicio formal y el ritmo del espacio negativo. Queda prohibido el redibujado de escenas a página completa, múltiples objetos flotantes, nodos de ruta continuos, plantillas de horizontes urbanos completos, ventanas de fotos, tinta china en toda la página, carteles geométricos de colores, arte en papel pesado, renderizado 3D, delineado automático, logotipos, marcas de agua, caracteres chinos simulados, insignias de IA e insignias de la foto original.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -10079,13 +10084,13 @@ Traducción en curso
 
 <a name="prompt-2102276302539812995"></a>
 
-### Traducción en curso
+### Un personaje con orejas de animal en un traje negro a medida sentado al revés en una silla de oficina suplicando.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicación original](https://x.com/leftbypeace/status/2102276302539812995)
 
 Personaje · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un personaje con orejas de animal en un traje negro a medida sentado al revés en una silla de oficina suplicando.
 
 <img src="images/2102276302539812995-1.jpg" alt="Imagen 1" width="480" />
 
@@ -10094,7 +10099,7 @@ Personaje · Animal / Criatura · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+en solitario, cuerpo entero, vista frontal, fondo blanco, fondo simple, 3::sentado al revés en una silla de oficina, a horcajadas sobre la silla::, 3::pecho apoyado contra el respaldo de la silla, piernas abiertas a ambos lados de la silla::, 4::ambas manos unidas directamente delante de la boca::, 4::las yemas de los dedos izquierdo y derecho tocándose::, yemas de los dedos tocando los labios, palmas enfrentadas, manos muy juntas, codos juntos, 2::traje a medida negro, camisa de vestir negra, pantalones negros::, 2::zapatos de vestir de cuero negro::, 2::orejas de animal::, 2::cola de animal, cola moviéndose de lado a lado::, silla de oficina, 3::pequeños efectos brillantes alrededor del personaje::, estrellas parpadeantes, diminutos destellos, brillos sutiles, atmósfera linda de súplica
 ```
 
 [↑ Volver a categorías](#catalog)

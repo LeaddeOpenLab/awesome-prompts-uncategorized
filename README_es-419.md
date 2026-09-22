@@ -9705,13 +9705,13 @@ Material de documental de televisión de principios de los años 2000, ultrarrea
 
 <a name="prompt-2102254699202166846"></a>
 
-### Traducción en curso
+### Construye una imagen de comparación arriba-abajo con el &quot;estilo silueta conceptual con espacio negativo&quot;, conservando el sujeto fotográfico original en la parte superior y extrayendo una silueta minimalista y abstracta en tinta negra con un amplio espacio negativo en blanco cálido en la parte inferior.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Publicación original](https://x.com/Hamburgerai/status/2102254699202166846)
 
 Fotografía · Minimalismo · Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Construye una imagen de comparación arriba-abajo con el &quot;estilo silueta conceptual con espacio negativo&quot;, conservando el sujeto fotográfico original en la parte superior y extrayendo una silueta minimalista y abstracta en tinta negra con un amplio espacio negativo en blanco cálido en la parte inferior.
 
 <img src="images/2102254699202166846-1.jpg" alt="Imagen 1" width="480" />
 
@@ -9720,7 +9720,12 @@ Fotografía · Minimalismo · Resumen / Antecedentes · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una imagen de comparación vertical arriba-abajo en proporción 3:4, con el estilo denominado 【CONCEPTUAL SILHOUETTE VOID｜Estilo silueta conceptual con espacio negativo】. Es aplicable a personas, animales, plantas, arquitectura, ciudades, vehículos, comida, objetos, interiores, naturaleza y fotos de viajes, sin limitarse a "viajes" ni a ningún escenario único.
+La mitad superior (aproximadamente 42%–48%) conserva la foto original: mantiene con precisión el sujeto principal, la cantidad, la postura, la perspectiva, las relaciones espaciales, la luz, los materiales y los colores reconocibles, aplicando solo una gradación de color natural de nivel editorial, sin convertir en ilustración, sin cambiar de lugar y sin agregar ni quitar sujetos clave. Deja una unión limpia en blanco cálido entre la parte superior e inferior, sin marcos gruesos, etiquetas de foto o distintivos de imagen original/IA.
+En la mitad inferior no copies la foto entera ni dibujes una ilustración completa. Primero extrae de la foto original la relación semántica, acción, silueta o ritmo material más significativo: por ejemplo, la postura de una persona, la curva de la cola de un animal, la flor que se abre, la extensión de las ramas de un árbol, la curva de un camino, la línea de arco de un edificio, la dirección de velocidad de un vehículo, las relaciones circulares de platos y cuencos, el ritmo repetitivo de las ventanas, las ondulaciones de una cresta montañosa o las ondas del agua. Elige solo un portador principal y reconstrúyelo en una silueta plana abstracta, contorno en cinta, símbolo en bloque o un único gesto lineal en color negro carbón, tinta china o grafito oscuro. Dicha forma debe poder rastrearse hasta el sujeto real de la mitad superior, pero se le permite alargarse, reducirse, desplazarse, rotarse, cortarse o cruzar el espacio negativo.
+La mitad inferior mantiene entre un 60% y un 80% de espacio negativo continuo en blanco cálido, con una superficie de papel que solo presenta fibras muy tenues y grano mate. Los bordes de la forma principal pueden tener un ligero medio tono, grano de pincel seco o una densidad de tinta irregular, pero en general debe ser sobria, plana y limpia, sin difuminarse en tinta china aguada ni convertirse en un dibujo lineal detallado. Las personas y animales pueden comprimirse en siluetas completas sin rostro ni texturas de vestimenta; la arquitectura, plantas, comida y objetos solo conservan la estructura mínima que permita reconocer la relación formal, sin recuperar los detalles de la foto. Usa como máximo una o dos líneas auxiliares extremadamente finas para insinuar la dirección, y no añadas un segundo objeto abstracto.
+La forma abstracta está dominada por negro carbón, tinta china o grafito oscuro, extrayendo como máximo un único acento de color de saturación extremadamente baja de la imagen original; el color varía según la foto, sin recurrir a una paleta fija de azul, verde o colores urbanos. En la parte inferior se puede agregar una línea muy pequeña y precisa de texto editorial en inglés que describa dicha semántica, por ejemplo ONE GESTURE / OPEN SPACE, ARC / STILLNESS o SINGLE FORM; no agregues títulos grandes, párrafos largos ni información de lugares ficticios.
+En conjunto, la mitad superior debe asumir los hechos fotográficos, y la mitad inferior debe asumir el concepto único, el juicio formal y el ritmo del espacio negativo. Quedan prohibidos el redibujado de escenas a página completa, múltiples objetos flotantes, nodos de ruta continuos, plantillas de horizontes urbanos completos, ventanas fotográficas, tinta china de página completa, pósteres geométricos a color, artesanía de papel grueso, renderizado 3D, delineado automático, logotipos, marcas de agua, caracteres chinos falsos, distintivos de IA e insignias de imagen original.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -9961,13 +9966,13 @@ Traducción en curso
 
 <a name="prompt-2102276302539812995"></a>
 
-### Traducción en curso
+### Un personaje con orejas de animal en un traje negro a medida sentado al revés en una silla de oficina suplicando.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicación original](https://x.com/leftbypeace/status/2102276302539812995)
 
 Personaje · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un personaje con orejas de animal en un traje negro a medida sentado al revés en una silla de oficina suplicando.
 
 <img src="images/2102276302539812995-1.jpg" alt="Imagen 1" width="480" />
 
@@ -9976,7 +9981,7 @@ Personaje · Animal / Criatura · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+en solitario, cuerpo completo, vista frontal, fondo blanco, fondo simple, 3::sentado al revés en una silla de oficina, a horcajadas sobre la silla::, 3::pecho apoyado contra el respaldo de la silla, piernas abiertas a ambos lados de la silla::, 4::ambas manos juntas directamente frente a la boca::, 4::las yemas de los dedos izquierdo y derecho tocándose::, yemas de los dedos tocando los labios, palmas enfrentadas, manos juntas, codos juntos, 2::traje a medida negro, camisa de vestir negra, pantalones negros::, 2::zapatos de vestir de cuero negro::, 2::orejas de animal::, 2::cola de animal, cola moviéndose de lado a lado::, silla de oficina, 3::pequeños efectos brillantes alrededor del personaje::, estrellas parpadeantes, destellos diminutos, brillos sutiles, atmósfera linda de súplica
 ```
 
 [↑ Volver a categorías](#catalog)

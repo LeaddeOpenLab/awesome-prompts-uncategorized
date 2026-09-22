@@ -9822,13 +9822,13 @@ LIÊN TỤC / CÁC YẾU TỐ PHỦ ĐỊNH: Chỉ có một phóng viên, một
 
 <a name="prompt-2102254699202166846"></a>
 
-### Đang dịch
+### Xây dựng hình ảnh so sánh trên-dưới bằng &quot;Phong cách bóng khoảng trắng ý niệm&quot;, nửa trên giữ lại chủ thể nhiếp ảnh gốc, nửa dưới chắt lọc bóng đen mực trừu tượng tối giản cùng khoảng trắng màu trắng ấm diện tích lớn.
 
 Tác giả：[@Hamburgerai](https://x.com/Hamburgerai) · [Bài gốc](https://x.com/Hamburgerai/status/2102254699202166846)
 
 Nhiếp ảnh · Chủ nghĩa tối giản · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Xây dựng hình ảnh so sánh trên-dưới bằng &quot;Phong cách bóng khoảng trắng ý niệm&quot;, nửa trên giữ lại chủ thể nhiếp ảnh gốc, nửa dưới chắt lọc bóng đen mực trừu tượng tối giản cùng khoảng trắng màu trắng ấm diện tích lớn.
 
 <img src="images/2102254699202166846-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -9837,7 +9837,12 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Tóm tắt / Bối cảnh · Đã 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một hình ảnh chuyển họa so sánh trên-dưới khổ dọc 3:4, phong cách được đặt tên là 【CONCEPTUAL SILHOUETTE VOID｜Phong cách bóng bóng khoảng trắng ý niệm】. Áp dụng cho ảnh chụp người, động vật, thực vật, kiến trúc, thành phố, phương tiện giao thông, đồ ăn, đồ vật, nội thất, thiên nhiên và du lịch, không giới hạn ở "hành trình" hay bất kỳ bối cảnh đơn lẻ nào.
+Khoảng 42%–48% ở nửa trên giữ nguyên bản thân bức ảnh đầu vào: duy trì chính xác chủ thể chính, số lượng, tư thế, góc nhìn, mối quan hệ không gian, ánh sáng, chất liệu và màu sắc có thể nhận diện, chỉ thực hiện chỉnh màu tự nhiên đạt chuẩn xuất bản, không biến thành tranh minh họa, không đổi địa điểm, không thêm bớt chủ thể then chốt. Giữa phần trên và phần dưới để lại một đường nối màu trắng ấm sạch sẽ, không thêm khung viền dày, nhãn ảnh hoặc huy hiệu ảnh gốc/AI.
+Nửa dưới không sao chép toàn bộ bức ảnh, cũng không vẽ minh họa hoàn chỉnh. Trước tiên hãy chắt lọc từ ảnh gốc một mối quan hệ ngữ nghĩa, động tác, đường nét hoặc nhịp điệu chất liệu có ý nghĩa nhất: ví dụ như tư thế đứng của nhân vật, đường cong đuôi động vật, bông hoa nở, cành cây vươน ra, khúc quanh của con đường, vòm cong kiến trúc, hướng tốc độ của xe cộ, mối quan hệ hình tròn của bát đĩa, nhịp điệu lặp lại của cửa sổ, sự nhấp nhô của rặng núi hay gợn sóng mặt nước. Chỉ chọn một vật mang chính, tái cấu trúc nó thành một bóng phẳng trừu tượng, đường viền dạng dải, biểu tượng khối mảng hoặc một cử chỉ tuyến tính đơn lẻ mang màu đen than, đen mực hoặc màu than chì đậm. Hình dạng này phải có thể truy nguyên về chủ thể thực tế ở nửa trên, nhưng cho phép kéo dài, thu nhỏ, lệch tâm, xoay, cắt đứt hoặc băng qua khoảng trắng.
+Nửa dưới duy trì 60%–80% khoảng trắng màu trắng ấm liên tục, mặt giấy chỉ có sợi giấy cực mờ và hạt mờ mịn. Mép của hình dạng chính có thể có chấm tram nhẹ, hạt cọ khô hoặc mật độ mực không đều, nhưng tổng thể phải tiết chế, phẳng, sạch sẽ, không nhòe thành tranh thủy mặc, cũng không biến thành bản vẽ nét tỉ mỉ. Con người và động vật có thể nén thành khối bóng tổng thể không có khuôn mặt, không vân vải quần áo; kiến trúc, thực vật, đồ ăn và đồ vật chỉ giữ lại cấu trúc tối thiểu đủ để nhận diện mối quan hệ hình khối, không khôi phục chi tiết ảnh chụp. Tối đa chỉ sử dụng một hoặc hai đường phụ trợ cực mảnh để gợi ý phương hướng, không được thêm vật thể trừu tượng thứ hai.
+Hình dạng trừu tượng chủ yếu là đen than, đen mực hoặc than chì đậm, tối đa trích xuất một điểm màu có độ bão hòa cực thấp từ ảnh gốc, màu sắc thay đổi theo bức ảnh, không áp dụng bảng màu xanh lam, xanh lục hay bảng màu đô thị cố định. Phần đáy có thể thêm một dòng chú thích biên tập bằng tiếng Anh rất nhỏ và chuẩn xác để mô tả ngữ nghĩa đó, ví dụ: ONE GESTURE / OPEN SPACE, ARC / STILLNESS hoặc SINGLE FORM; không thêm tiêu đề lớn, đoạn văn dài hay thông tin địa điểm hư cấu.
+Tổng thể cần để nửa trên gánh vác sự thật nhiếp ảnh, nửa dưới gánh vác ý niệm đơn lẻ, phán đoán hình thể và nhịp điệu khoảng trắng. Nghiêm cấm vẽ lại cảnh toàn trang, nhiều vật thể trôi nổi, các điểm nút lộ trình liên tục, khuôn mẫu đường chân trời đô thị hoàn chỉnh, khung cửa sổ ảnh, tranh thủy mặc toàn trang, áp phích hình học màu sắc, nghệ thuật cắt giấy dày, dựng hình 3D, tự động viền nét, logo, hình mờ, chữ tiếng Trung giả, huy hiệu AI và huy hiệu ảnh gốc.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -10078,13 +10083,13 @@ Khác · Đã xuất bản
 
 <a name="prompt-2102276302539812995"></a>
 
-### Đang dịch
+### Một nhân vật có tai thú trong bộ vest đen may đo ngồi ngược trên ghế văn phòng đang cầu xin.
 
 Tác giả：[@leftbypeace](https://x.com/leftbypeace) · [Bài gốc](https://x.com/leftbypeace/status/2102276302539812995)
 
 Nhân vật · Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một nhân vật có tai thú trong bộ vest đen may đo ngồi ngược trên ghế văn phòng đang cầu xin.
 
 <img src="images/2102276302539812995-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -10093,7 +10098,7 @@ Nhân vật · Động vật / Sinh vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+đơn độc, toàn thân, góc nhìn chính diện, nền trắng, nền đơn giản, 3::ngồi ngược trên ghế văn phòng, ngồi dạng chân qua ghế::, 3::ngực tựa vào lưng ghế, hai chân mở rộng sang hai bên ghế::, 4::hai tay chắp lại ngay trước miệng::, 4::các đầu ngón tay trái và phải chạm vào nhau::, đầu ngón tay chạm môi, lòng bàn tay hướng vào nhau, hai tay áp sát, cùi chỏ khép gần, 2::bộ vest may đo màu đen, áo sơ mi màu đen, quần tây màu đen::, 2::giày tây da màu đen::, 2::tai thú::, 2::đuôi thú, đuôi vẫy qua lại hai bên::, ghế văn phòng, 3::hiệu ứng lấp lánh nhỏ xung quanh nhân vật::, các ngôi sao lấp lánh, ánh sáng lung linh nhỏ xíu, tia sáng tinh tế, bầu không khí nài nỉ dễ thương
 ```
 
 [↑ Về danh mục](#catalog)

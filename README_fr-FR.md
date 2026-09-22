@@ -9705,13 +9705,13 @@ Séquence documentaire télévisée ultra-réaliste de 15 secondes du début des
 
 <a name="prompt-2102254699202166846"></a>
 
-### Traduction en cours
+### Construisez une image de comparaison haut-bas dans le « style silhouette conceptuelle en espace négatif », où la partie supérieure conserve le sujet photographique original et la partie inférieure distille une silhouette abstraite minimaliste à l'encre noire avec un large espace négatif blanc chaud.
 
 Auteur：[@Hamburgerai](https://x.com/Hamburgerai) · [Publication originale](https://x.com/Hamburgerai/status/2102254699202166846)
 
 Photographie · Minimalisme · Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Construisez une image de comparaison haut-bas dans le « style silhouette conceptuelle en espace négatif », où la partie supérieure conserve le sujet photographique original et la partie inférieure distille une silhouette abstraite minimaliste à l'encre noire avec un large espace négatif blanc chaud.
 
 <img src="images/2102254699202166846-1.jpg" alt="Image 1" width="480" />
 
@@ -9720,7 +9720,12 @@ Photographie · Minimalisme · Résumé / Contexte · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une image comparative verticale haut-bas au format 3:4, dans le style nommé 【CONCEPTUAL SILHOUETTE VOID｜Style silhouette conceptuelle en espace négatif】. Convient aux portraits, animaux, plantes, architecture, villes, véhicules, nourriture, objets, intérieurs, nature et photos de voyage, sans se limiter au thème du « voyage » ni à un scénario unique.
+La partie supérieure (environ 42%–48%) conserve la photo originale : maintien précis du sujet principal, du nombre, de la posture, de l'angle de vue, des relations spatiales, de la lumière, des textures et des couleurs reconnaissables, avec uniquement un étalonnage naturel de niveau éditorial, sans transformation en illustration, sans changement de lieu et sans ajout ni suppression de sujets clés. Laissez une jonction blanc chaud nette entre le haut et le bas, sans bordures épaisses, étiquettes photo ou badges image d'origine/IA.
+La partie inférieure ne doit ni reproduire toute la photo, ni dessiner une illustration complète. Extrayez d'abord de la photo originale la relation sémantique, l'action, la silhouette ou le rythme matériel le plus signifiant : par exemple la posture d'une personne, la courbe de la queue d'un animal, l'éclosion d'une fleur, le déploiement des branches d'un arbre, le virage d'une route, la ligne d'arc d'un bâtiment, la direction de la vitesse d'un véhicule, la relation circulaire d'assiettes et de bols, le rythme répétitif de fenêtres, l'ondulation d'une crête montagneuse ou les rides de l'eau. Ne choisissez qu'un seul élément porteur principal et reconstruisez-le sous forme de silhouette plane abstraite, de contour en ruban, de symbole par aplat ou d'un geste linéaire unique en noir charbon, noir d'encre ou graphite foncé. Cette forme doit pouvoir être rattachée au sujet réel de la moitié supérieure, mais peut être étirée, réduite, décalée, pivotée, coupée ou traverser l'espace négatif.
+La moitié inférieure conserve 60%–80% d'espace négatif continu blanc chaud, la surface du papier ne présentant que de très légères fibres et un grain mat. Les bords de la forme principale peuvent comporter une légère trame en demi-teinte, du grain de pinceau sec ou une densité d'encre inégale, mais l'ensemble doit rester sobre, plat et épuré, sans se dissoudre en lavis d'encre ni devenir un dessin au trait détaillé. Les personnes et les animaux peuvent être condensés en silhouettes globales sans visage ni texture de vêtement ; l'architecture, les plantes, la nourriture et les objets ne conservent que la structure minimale permettant de reconnaître la relation formelle, sans restaurer les détails de la photo. Utilisez au maximum une ou deux lignes auxiliaires extrêmement fines pour indiquer la direction, sans ajouter de second objet abstrait.
+La forme abstraite est dominée par le noir charbon, le noir d'encre ou le graphite foncé, en extrayant au maximum une seule touche de couleur à très faible saturation depuis l'image originale ; la couleur varie selon la photo, sans appliquer de palette fixe bleue, verte ou urbaine. En bas, une note éditoriale en anglais, très petite et précise, peut être ajoutée pour décrire cette sémantique, par exemple ONE GESTURE / OPEN SPACE, ARC / STILLNESS ou SINGLE FORM ; n'ajoutez pas de grands titres, de longs paragraphes ni d'informations de lieux fictifs.
+Dans l'ensemble, la moitié supérieure doit porter la réalité photographique, tandis que la moitié inférieure prend en charge le concept unique, le jugement de forme et le rythme de l'espace négatif. Sont interdits : le redessin de scène pleine page, les multiples objets flottants, les nœuds de parcours continus, les gabarits complets de skyline urbaine, les fenêtres photo, l'encre de Chine sur toute la page, les affiches géométriques colorées, le papercraft épais, les rendus 3D, le contourage automatique, les logos, les filigranes, les faux caractères chinois, les badges IA et les badges de photo originale.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -9961,13 +9966,13 @@ Traduction en cours
 
 <a name="prompt-2102276302539812995"></a>
 
-### Traduction en cours
+### Un personnage aux oreilles d'animaux vêtu d'un costume noir sur mesure, assis à l'envers sur une chaise de bureau et suppliant.
 
 Auteur：[@leftbypeace](https://x.com/leftbypeace) · [Publication originale](https://x.com/leftbypeace/status/2102276302539812995)
 
 Personnage · Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un personnage aux oreilles d'animaux vêtu d'un costume noir sur mesure, assis à l'envers sur une chaise de bureau et suppliant.
 
 <img src="images/2102276302539812995-1.jpg" alt="Image 1" width="480" />
 
@@ -9976,7 +9981,7 @@ Personnage · Animal / Créature · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+solo, corps entier, vue de face, fond blanc, fond simple, 3::assis à l'envers sur une chaise de bureau, à califourchon sur la chaise::, 3::torse appuyé contre le dossier de la chaise, jambes écartées de chaque côté de la chaise::, 4::les deux mains jointes directement devant la bouche::, 4::le bout des doigts gauche et droit se touchant::, bout des doigts touchant les lèvres, paumes l'une en face de l'autre, mains rapprochées, coudes serrés, 2::costume noir sur mesure, chemise habillée noire, pantalon noir::, 2::chaussures habillées en cuir noir::, 2::oreilles d'animaux::, 2::queue d'animal, queue remuant d'un côté à l'autre::, chaise de bureau, 3::petits effets scintillants autour du personnage::, étoiles scintillantes, minuscules lueurs, scintillements subtils, atmosphère suppliante mignonne
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -9705,13 +9705,13 @@ Filmato documentaristico televisivo ultra-realistico di 15 secondi dei primi ann
 
 <a name="prompt-2102254699202166846"></a>
 
-### Traduzione in corso
+### Costruisci un'immagine di confronto sopra-sotto in &quot;stile silhouette concettuale con spazio vuoto&quot;, con la parte superiore che preserva il soggetto fotografico originale e la parte inferiore che distilla una silhouette minimalista astratta in nero inchiostro e un'ampia area di spazio vuoto bianco caldo.
 
 Autore：[@Hamburgerai](https://x.com/Hamburgerai) · [Post originale](https://x.com/Hamburgerai/status/2102254699202166846)
 
 Fotografia · Minimalismo · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Costruisci un'immagine di confronto sopra-sotto in &quot;stile silhouette concettuale con spazio vuoto&quot;, con la parte superiore che preserva il soggetto fotografico originale e la parte inferiore che distilla una silhouette minimalista astratta in nero inchiostro e un'ampia area di spazio vuoto bianco caldo.
 
 <img src="images/2102254699202166846-1.jpg" alt="Immagine 1" width="480" />
 
@@ -9720,7 +9720,12 @@ Fotografia · Minimalismo · Abstract / Contesto · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un'immagine di confronto verticale sopra-sotto in formato 3:4, nello stile denominato 【CONCEPTUAL SILHOUETTE VOID｜Stile silhouette concettuale con spazio vuoto】. Adatto a persone, animali, piante, architettura, città, veicoli, cibo, oggetti, interni, natura e foto di viaggio, senza limitarsi al "viaggio" o a un singolo scenario.
+La metà superiore (circa 42%–48%) conserva la foto originale: mantiene accuratamente il soggetto principale, la quantità, la posa, la prospettiva, le relazioni spaziali, la luce, le texture e i colori riconoscibili, applicando solo una gradazione del colore naturale di livello editoriale, senza trasformare in illustrazione, senza cambiare location e senza aggiungere o togliere soggetti chiave. Lascia una giunzione pulita bianco caldo tra la parte superiore e inferiore, senza cornici spesse, etichette fotografiche o badge immagine originale/IA.
+Nella metà inferiore non copiare l'intera foto né disegnare un'illustrazione completa. Estrai prima dalla foto originale la relazione semantica, l'azione, la silhouette o il ritmo materico più significativo: ad esempio la postura di una persona, la curva della coda di un animale, lo sbocciare di un fiore, l'estensione dei rami di un albero, la curva di una strada, l'arco di un edificio, la direzione della velocità di un veicolo, il rapporto circolare di piatti e ciotole, il ritmo ripetitivo delle finestre, l'ondulazione di una cresta montuosa o le increspature dell'acqua. Scegli un solo elemento portante principale e ricostruiscilo come silhouette piatta astratta, contorno a nastro, simbolo a campitura o singolo gesto lineare in nero carbone, nero inchiostro o grafite scura. Tale forma deve poter essere ricondotta al soggetto reale della metà superiore, ma può essere allungata, ridotta, sfalsata, ruotata, tagliata o attraversare lo spazio vuoto.
+La metà inferiore mantiene il 60%–80% di spazio vuoto continuo bianco caldo, con la superficie della carta che presenta solo fibre leggerissime e grana opaca. I bordi della forma principale possono presentare una leggera retinatura, grana a pennello asciutto o densità d'inchiostro non uniforme, ma nel complesso deve rimanere sobria, piatta e pulita, senza sfumare in acquerello d'inchiostro né diventare un disegno al tratto dettagliato. Persone e animali possono essere compressi in silhouette d'insieme senza volto né texture dei vestiti; architettura, piante, cibo e utensili conservano solo la struttura minima per riconoscere la relazione formale, senza ripristinare i dettagli fotografici. Usa al massimo una o due linee ausiliarie sottilissime per indicare la direzione, senza aggiungere un secondo oggetto astratto.
+La forma astratta è dominata da nero carbone, nero inchiostro o grafite scura, estraendo al massimo un singolo punto di colore a saturazione bassissima dall'immagine originale; il colore varia con la foto, senza applicare palette fisse blu, verdi o urbane. In basso è possibile inserire una piccolissima e precisa nota editoriale in inglese che descriva tale semantica, ad esempio ONE GESTURE / OPEN SPACE, ARC / STILLNESS o SINGLE FORM; non aggiungere titoli grandi, lunghi paragrafi o informazioni su luoghi fittizi.
+Nel complesso, la metà superiore deve farsi carico della realtà fotografica, mentre la metà inferiore deve farsi carico del singolo concetto, del giudizio formale e del ritmo dello spazio vuoto. Sono vietati: ridisegno della scena a tutta pagina, molteplici oggetti fluttuanti, nodi di percorso continui, modelli di skyline urbani completi, finestre fotografiche, inchiostro a tutta pagina, poster geometrici colorati, papercraft pesante, rendering 3D, contorni automatici, loghi, filigrane, finti caratteri cinesi, badge IA e badge foto originale.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -9961,13 +9966,13 @@ Traduzione in corso
 
 <a name="prompt-2102276302539812995"></a>
 
-### Traduzione in corso
+### Un personaggio con orecchie da animale in un abito sartoriale nero seduto al contrario su una sedia da ufficio mentre supplica.
 
 Autore：[@leftbypeace](https://x.com/leftbypeace) · [Post originale](https://x.com/leftbypeace/status/2102276302539812995)
 
 Personaggio · Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un personaggio con orecchie da animale in un abito sartoriale nero seduto al contrario su una sedia da ufficio mentre supplica.
 
 <img src="images/2102276302539812995-1.jpg" alt="Immagine 1" width="480" />
 
@@ -9976,7 +9981,7 @@ Personaggio · Animale / Creatura · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+da solo, corpo intero, vista frontale, sfondo bianco, sfondo semplice, 3::seduto al contrario su una sedia da ufficio, a cavalcioni sulla sedia::, 3::petto appoggiato contro lo schienale della sedia, gambe divaricate su entrambi i lati della sedia::, 4::entrambe le mani unite direttamente davanti alla bocca::, 4::i polpastrelli della mano sinistra e destra si toccano::, polpastrelli che toccano le labbra, palmi rivolti l'uno verso l'altro, mani vicine, gomiti stretti, 2::abito sartoriale nero, camicia elegante nera, pantaloni neri::, 2::scarpe eleganti in pelle nera::, 2::orecchie da animale::, 2::coda da animale, coda che ondeggia da un lato all'altro::, sedia da ufficio, 3::piccoli effetti scintillanti intorno al personaggio::, stelle scintillanti, minuscoli barlumi, sottili scintillii, atmosfera carina di supplica
 ```
 
 [↑ Torna alle categorie](#catalog)

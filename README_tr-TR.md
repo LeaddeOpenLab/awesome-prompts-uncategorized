@@ -9725,13 +9725,13 @@ Fiziksel olarak alanda bulunan tek bir kameraman tarafından tüketici tipi bir 
 
 <a name="prompt-2102254699202166846"></a>
 
-### Çeviri sürüyor
+### &quot;Kavramsal Boşluk Siluet Tarzı&quot; ile alt-üst karşılaştırmalı bir görsel oluşturun; üst yarı orijinal fotoğrafik özneyi korurken, alt yarı minimalist soyut mürekkep siyahı bir siluet ile geniş sıcak beyaz boşluğu damıtır.
 
 Yazar：[@Hamburgerai](https://x.com/Hamburgerai) · [Orijinal gönderi](https://x.com/Hamburgerai/status/2102254699202166846)
 
 Fotoğrafçılık · Minimalizm · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** &quot;Kavramsal Boşluk Siluet Tarzı&quot; ile alt-üst karşılaştırmalı bir görsel oluşturun; üst yarı orijinal fotoğrafik özneyi korurken, alt yarı minimalist soyut mürekkep siyahı bir siluet ile geniş sıcak beyaz boşluğu damıtır.
 
 <img src="images/2102254699202166846-1.jpg" alt="Görsel 1" width="480" />
 
@@ -9740,7 +9740,12 @@ Fotoğrafçılık · Minimalizm · Özet / Arka Plan · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+【CONCEPTUAL SILHOUETTE VOID｜Kavramsal Boşluk Siluet Tarzı】 olarak adlandırılan stilde, dikey 3:4 oranında bir alt-üst karşılaştırma görseli oluşturun. Yalnızca "seyahat" veya tek bir sahneyle sınırlı olmaksızın portreler, hayvanlar, bitkiler, mimari, şehirler, araçlar, yemekler, nesneler, iç mekânlar, doğa ve gezi fotoğrafları için uygundur.
+Üst yarısı (yaklaşık %42–%48) orijinal fotoğrafı korur: Ana özneyi, sayıyı, pozu, perspektifi, mekânsal ilişkileri, ışığı, dokuları ve tanınabilir renkleri aslına sadık kalarak muhafaza eder; illüstrasyona dönüştürmeden, mekânı değiştirmeden, kilit özneleri ekleyip çıkarmadan yalnızca yayın kalitesinde doğal bir renk tonlaması uygular. Üst ve alt arasında kalın çerçeveler, fotoğraf etiketleri veya orijinal görüntü/YZ rozetleri olmadan temiz, sıcak beyaz bir birleşim yeri bırakın.
+Alt yarıda fotoğrafın tamamını kopyalamayın ve eksiksiz bir illüstrasyon çizmeyin. Önce orijinal fotoğraftan en anlamlı anlamsal ilişkiyi, hareketi, silueti veya dokusal ritmi damıtın: örneğin bir kişinin duruşu, bir hayvanın kuyruk kıvrımı, bir çiçeğin açılışı, ağaç dallarının uzanışı, bir yolun bükülüşü, bir binanın kemer çizgisi, bir aracın hız yönü, tabak ve kâselerin dairesel ilişkisi, pencerelerin tekrar eden ritmi, bir dağ sırtının dalgalanması veya su yüzeyindeki halkalar. Yalnızca tek bir ana taşıyıcı seçin ve onu kömür karası, mürekkep siyahı veya koyu grafit tonunda soyut, düz bir siluete, şerit kontura, blok sembole veya tek bir doğrusal jeste dönüştürün. Bu şekil, üst yarıdaki gerçek özneye kadar izlenebilmelidir; ancak uzatılmasına, küçültülmesine, kaydırılmasına, döndürülmesine, kesilmesine veya boşluğu aşmasına izin verilir.
+Alt yarı, kağıt yüzeyinde yalnızca son derece hafif lifler ve mat gren bulunan %60–%80 oranında kesintisiz sıcak beyaz boşluğu korur. Ana şeklin kenarlarında hafif yarı ton, kuru fırça greni veya düzensiz mürekkep yoğunluğu bulunabilir; ancak genel olarak mürekkep lekesine dönüşmeden veya ayrıntılı çizgi resim haline gelmeden ölçülü, düz ve temiz kalmalıdır. İnsanlar ve hayvanlar yüzsüz, kıyafet dokusu olmayan bütünsel siluetlere indirgenebilir; mimari, bitkiler, yiyecekler ve eşyalar fotoğraf detaylarını geri getirmeden, yalnızca biçimsel ilişkiyi tanınabilir kılacak asgari yapıyı korur. Yön belirtmek için en fazla bir veya iki son derece ince yardımcı çizgi kullanın, ikinci bir soyut nesne eklemeyin.
+Soyut şekle kömür karası, mürekkep siyahı veya koyu grafit hakimdir; orijinal görüntüden en fazla aşırı düşük doygunlukta tek bir nokta rengi çıkarılır, renk fotoğrafa göre değişir ve sabit mavi, yeşil veya kentsel renk paletleri zorlanmaz. Alt kısma bu anlamı tanımlayan çok küçük, kesin bir İngilizce editoryal not eklenebilir; örneğin ONE GESTURE / OPEN SPACE, ARC / STILLNESS veya SINGLE FORM; büyük başlıklar, uzun paragraflar veya kurgusal konum bilgileri eklemeyin.
+Genel olarak üst yarı fotoğrafik gerçekliği üstlenmeli, alt yarı ise tek kavramı, biçimsel yargıyı ve negatif alan ritmini üstlenmelidir. Tam sayfa sahne yeniden çizimleri, birden fazla yüzen nesne, ardışık rota düğümleri, tam şehir silueti şablonları, fotoğraf pencereleri, tam sayfa mürekkep yıkamaları, renkli geometrik afişler, ağır kağıt sanatı, 3D renderlar, otomatik dış çizgiler, logolar, filigranlar, sahte Çince karakterler, YZ rozetleri ve orijinal görsel rozetleri yasaktır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -9981,13 +9986,13 @@ Diğer · Yayımlandı
 
 <a name="prompt-2102276302539812995"></a>
 
-### Çeviri sürüyor
+### Özel dikim siyah takım elbiseli, hayvan kulaklı bir karakter ofis sandalyesine ters oturmuş yalvarıyor.
 
 Yazar：[@leftbypeace](https://x.com/leftbypeace) · [Orijinal gönderi](https://x.com/leftbypeace/status/2102276302539812995)
 
 Karakter · Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Özel dikim siyah takım elbiseli, hayvan kulaklı bir karakter ofis sandalyesine ters oturmuş yalvarıyor.
 
 <img src="images/2102276302539812995-1.jpg" alt="Görsel 1" width="480" />
 
@@ -9996,7 +10001,7 @@ Karakter · Hayvan / Yaratık · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+tek başına, tam vücut, önden görünüş, beyaz arka plan, sade arka plan, 3::ofis sandalyesine ters oturmuş, sandalyeye ata biner gibi oturmuş::, 3::göğsü sandalyenin arkalığına yaslanmış, bacakları sandalyenin iki yanına açılmış::, 4::iki elini doğrudan ağzının önünde birleştirmiş::, 4::sol ve sağ parmak uçları birbirine değiyor::, parmak uçları dudaklara değiyor, avuç içleri birbirine bakıyor, eller birbirine yakın, dirsekler bitişik, 2::siyah özel dikim takım elbise, siyah gömlek, siyah kumaş pantolon::, 2::siyah deri klasik ayakkabılar::, 2::hayvan kulakları::, 2::hayvan kuyruğu, kuyruk bir yandan diğer yana sallanıyor::, ofis sandalyesi, 3::karakterin etrafında küçük ışıltı efektleri::, parıldayan yıldızlar, minik parıltılar, zarif ışıltılar, sevimli yalvaran bir atmosfer
 ```
 
 [↑ Kategorilere dön](#catalog)

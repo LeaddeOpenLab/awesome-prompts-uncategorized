@@ -9705,13 +9705,13 @@ Cyberpunk / Sci-Fi · Veröffentlicht
 
 <a name="prompt-2102254699202166846"></a>
 
-### Übersetzung läuft
+### Erstelle ein Oben-Unten-Vergleichsbild im „Konzeptionellen Negativraum-Silhouettenstil“, bei dem die obere Hälfte das ursprüngliche Fotomotiv beibehält und die untere Hälfte eine minimalistische, abstrakte tuscheschwarze Silhouette mit großflächigem, warmweißem Negativraum destilliert.
 
 Autor：[@Hamburgerai](https://x.com/Hamburgerai) · [Originalbeitrag](https://x.com/Hamburgerai/status/2102254699202166846)
 
 Fotografie · Minimalismus · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Erstelle ein Oben-Unten-Vergleichsbild im „Konzeptionellen Negativraum-Silhouettenstil“, bei dem die obere Hälfte das ursprüngliche Fotomotiv beibehält und die untere Hälfte eine minimalistische, abstrakte tuscheschwarze Silhouette mit großflächigem, warmweißem Negativraum destilliert.
 
 <img src="images/2102254699202166846-1.jpg" alt="Bild 1" width="480" />
 
@@ -9720,7 +9720,12 @@ Fotografie · Minimalismus · Zusammenfassung / Hintergrund · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein vertikales 3:4-Vergleichsbild (oben/unten) im Stil namens 【CONCEPTUAL SILHOUETTE VOID｜Konzeptioneller Negativraum-Silhouettenstil】. Geeignet für Porträts, Tiere, Pflanzen, Architektur, Städte, Fahrzeuge, Speisen, Objekte, Innenräume, Natur- und Reisefotos, ohne auf „Reisen“ oder eine einzelne Szene beschränkt zu sein.
+Die obere Hälfte (ca. 42%–48%) behält das Originalfoto bei: Das Hauptmotiv, die Anzahl, Pose, Perspektive, räumliche Beziehungen, Licht, Texturen und erkennbaren Farben bleiben präzise erhalten, nur mit einem natürlichen Color-Grading auf Verlagsniveau, ohne Illustrationseffekt, ohne Ortswechsel und ohne Hinzufügen oder Entfernen wesentlicher Motive. Zwischen oberem und unterem Teil bleibt ein sauberer, warmweißer Übergang ohne dicke Ränder, Fotobeschriftungen oder Originalbild-/KI-Badges.
+Die untere Hälfte darf weder das gesamte Foto kopieren noch eine vollständige Illustration zeichnen. Destilliere zuerst die bedeutungsvollste semantische Beziehung, Bewegung, Kontur oder Materialrhythmik aus dem Originalfoto: z. B. die Haltung einer Person, den Schwung eines Tierschwanzes, das Aufblühen einer Blume, das Ausstrecken von Ästen, das Biegen einer Straße, den Bogen eines Gebäudes, die Geschwindigkeitsrichtung eines Fahrzeugs, die Kreisbeziehung von Geschirr, den Wiederholungsrhythmus von Fenstern, die Wellenform eines Bergkamms oder die Kräuselungen auf dem Wasser. Wähle nur einen Hauptträger und rekonstruiere ihn als abstrakte, flache Silhouette, bandförmigen Umriss, Flächensymbol oder eine einzelne lineare Geste in Kohleschwarz, Tuscheschwarz oder dunklem Graphit. Diese Form muss auf das reale Motiv in der oberen Hälfte zurückführbar sein, darf jedoch gestreckt, verkleinert, versetzt, gedreht, abgeschnitten werden oder den Negativraum durchqueren.
+Die untere Hälfte behält 60%–80% kontinuierlichen warmweißen Negativraum bei, wobei die Papieroberfläche nur extrem feine Fasern und matte Körnung aufweist. Die Ränder der Hauptform können leichte Halbtöne, Trockenpinselkörnung oder ungleichmäßige Tintendichte aufweisen, müssen aber insgesamt zurückhaltend, flächig und sauber bleiben, ohne in Tuschewaschungen zu zerfließen oder zu einer detaillierten Strichzeichnung zu werden. Personen und Tiere können zu gesichtslosen Gesamtsilhouetten ohne Kleidungsstrukturen komprimiert werden; Architektur, Pflanzen, Speisen und Utensilien behalten nur die minimale Struktur bei, die zur Erkennung der Formbeziehung nötig ist, ohne Fotodetails wiederherzustellen. Verwende maximal eine oder zwei extrem feine Hilfslinien zur Richtungsanzeige; füge kein zweites abstraktes Objekt hinzu.
+Die abstrakte Form wird von Kohleschwarz, Tuscheschwarz oder dunklem Graphit dominiert, wobei höchstens eine einzige Farbnuance mit extrem niedriger Sättigung aus dem Originalbild entnommen wird; die Farbe variiert je nach Foto, ohne feste blaue, grüne oder urbane Farbpaletten zu erzwingen. Am unteren Rand kann eine sehr kleine, präzise englische redaktionelle Anmerkung eingefügt werden, die diese Semantik beschreibt, z. B. ONE GESTURE / OPEN SPACE, ARC / STILLNESS oder SINGLE FORM; füge keine großen Überschriften, langen Absätze oder fiktiven Ortsangaben hinzu.
+Insgesamt sollte die obere Hälfte die fotografische Realität tragen, während die untere Hälfte das einzelne Konzept, die Formentscheidung und den Rhythmus des Negativraums übernimmt. Verboten sind: ganzflächig neu gezeichnete Szenen, mehrere schwebende Objekte, kontinuierliche Routenknotenpunkte, vollständige Skyline-Vorlagen, Fotofenster, ganzseitige Tuschwaschungen, farbige geometrische Poster, schweres Papercraft, 3D-Renderings, automatische Konturen, Logos, Wasserzeichen, unechte chinesische Zeichen, KI-Badges und Originalbild-Badges.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -9961,13 +9966,13 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2102276302539812995"></a>
 
-### Übersetzung läuft
+### Ein Charakter mit Tierohren in einem maßgeschneiderten schwarzen Anzug, der verkehrt herum auf einem Bürostuhl sitzt und fleht.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Originalbeitrag](https://x.com/leftbypeace/status/2102276302539812995)
 
 Charakter · Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Charakter mit Tierohren in einem maßgeschneiderten schwarzen Anzug, der verkehrt herum auf einem Bürostuhl sitzt und fleht.
 
 <img src="images/2102276302539812995-1.jpg" alt="Bild 1" width="480" />
 
@@ -9976,7 +9981,7 @@ Charakter · Tier / Kreatur · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+solo, Ganzkörper, Frontansicht, weißer Hintergrund, einfacher Hintergrund, 3::verkehrt herum auf einem Bürostuhl sitzend, rittlings auf dem Stuhl::, 3::Brust an die Stuhllehne gelehnt, Beine auf beiden Seiten des Stuhls gespreizt::, 4::beide Hände direkt vor dem Mund zusammengehalten::, 4::linke und rechte Fingerspitzen berühren einander::, Fingerspitzen berühren die Lippen, Handflächen zueinander gerichtet, Hände nah beieinander, Ellbogen nah beieinander, 2::schwarzer maßgeschneiderter Anzug, schwarzes Hemd, schwarze Anzughose::, 2::schwarze Leder-Halbschuhe::, 2::Tierohren::, 2::Tierschwanz, Schwanz wedelt von Seite zu Seite::, Bürostuhl, 3::kleine Glitzereffekte um die Figur::, funkelnde Sterne, winziges Schimmern, subtiler Glanz, süße bittende Atmosphäre
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
