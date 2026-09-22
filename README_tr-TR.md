@@ -10422,20 +10422,20 @@ Yüz, saç, vücut ve kıyafet dahil olmak üzere tamamen kurgusal bir yetişkin
 
 <a name="prompt-2102426880016253191"></a>
 
-### Çeviri sürüyor
+### Pekin operası Dan rolü opera hareketleri videosu ve karakter çizimi komutu
 
 Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2102426880016253191)
 
 Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Pekin operası Dan rolü opera hareketleri videosu ve karakter çizimi komutu
 
 <img src="covers/2102426880016253191.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Oyuncu Pekin operasının geleneksel hareketlerini sergileyerek Pekin operası sanatını icra ediyor, kostüm ve sırt flamaları dalgalanıyor, karakter ellerini dramatik bir şekilde savuruyor, kamera yavaşça yaklaşıyor.\n\nGörsel üretim komutu:\n\nArtgerm tarafından tasarlanan bu eser, Çin operasının fantastik sanat tarzını sergileyerek geleneksel opera kostümleri giymiş son derece estetik bir kadını tasvir etmekte ve canlı renk kontrastları kullanmaktadır. Kenarında “梨园春色” yazısı yer almaktadır.
 ```
 
 [↑ Kategorilere dön](#catalog)

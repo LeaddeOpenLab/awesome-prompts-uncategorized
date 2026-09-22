@@ -10520,20 +10520,20 @@ Crear una plantilla desplegable de papercraft recortable y ensamblable de una id
 
 <a name="prompt-2102426880016253191"></a>
 
-### Traducción en curso
+### Prompt de vídeo de movimientos teatrales del papel Dan de la ópera de Pekín y dibujo de personajes
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2102426880016253191)
 
 Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de vídeo de movimientos teatrales del papel Dan de la ópera de Pekín y dibujo de personajes
 
 <img src="covers/2102426880016253191.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+El actor realiza movimientos tradicionales de la ópera de Pekín, expresando el arte de la ópera de Pekín, el vestuario y las banderas de la espalda ondean, el personaje ondea sus manos dramáticamente y la cámara avanza lentamente.\n\nPrompt de generación de imagen:\n\nEsta obra diseñada por Artgerm muestra el estilo artístico de fantasía de la ópera tradicional china, retratando a una mujer extremadamente bella vestida con trajes tradicionales de ópera, utilizando marcados contrastes de color. A un lado lleva la inscripción “梨园春色”
 ```
 
 [↑ Volver a categorías](#catalog)

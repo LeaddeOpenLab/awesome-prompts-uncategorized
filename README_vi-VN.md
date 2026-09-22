@@ -10519,20 +10519,20 @@ Tạo bản thiết kế mô hình giấy (papercraft) có thể lắp ráp củ
 
 <a name="prompt-2102426880016253191"></a>
 
-### Đang dịch
+### Lời nhắc video động tác hý kịch Đán giác Kinh kịch và vẽ nhân vật
 
 Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2102426880016253191)
 
 Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video động tác hý kịch Đán giác Kinh kịch và vẽ nhân vật
 
 <img src="covers/2102426880016253191.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Diễn viên thực hiện các động tác hý kịch Kinh kịch truyền thống, thể hiện nghệ thuật Kinh kịch, y phục và cờ lệnh bay phấp phới, đôi tay nhân vật vung lên đầy kịch tính, ống kính từ từ tiến lại gần.\n\nLời nhắc tạo ảnh:\n\nTác phẩm này do Artgerm thiết kế thể hiện phong cách nghệ thuật kỳ ảo của hý kịch Trung Hoa, khắc họa một người phụ nữ tuyệt mỹ trong trang phục hý kịch truyền thống, sử dụng sự tương phản màu sắc rõ nét. Bên cạnh có đề chữ “梨园春色”
 ```
 
 [↑ Về danh mục](#catalog)

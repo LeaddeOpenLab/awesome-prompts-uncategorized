@@ -10402,20 +10402,20 @@ Erstelle einen zusammenbaubaren Papiermodell-Bastelbogen (Papercraft) eines völ
 
 <a name="prompt-2102426880016253191"></a>
 
-### Übersetzung läuft
+### Video der Gesten einer Dan-Rolle der Peking-Oper und Prompt zum Zeichnen von Charakteren
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2102426880016253191)
 
 Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Video der Gesten einer Dan-Rolle der Peking-Oper und Prompt zum Zeichnen von Charakteren
 
 <img src="covers/2102426880016253191.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Der Schauspieler vollführt traditionelle Peking-Opern-Bewegungen und bringt die Kunst der Peking-Oper zum Ausdruck, das Kostüm und die Rückenfahnen wehen im Wind, die Hände der Figur bewegen sich dramatisch und die Kamera fährt langsam heran.\n\nBildgenerierungs-Prompt:\n\nDieses von Artgerm gestaltete Werk zeigt den Fantasy-Kunststil der chinesischen Oper und porträtiert eine äußerst ästhetische Frau in traditionellen Operngewändern unter Verwendung lebendiger Farbkontraste. Am Rand befindet sich der Schriftzug „梨园春色“
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

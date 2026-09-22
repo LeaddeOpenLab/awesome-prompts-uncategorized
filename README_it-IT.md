@@ -10402,20 +10402,20 @@ Crea un modello di papercraft assemblabile di una idol giapponese adulta complet
 
 <a name="prompt-2102426880016253191"></a>
 
-### Traduzione in corso
+### Prompt per video di movimenti scenici del ruolo Dan dell'opera di Pechino e disegno del personaggio
 
 Autore：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2102426880016253191)
 
 Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per video di movimenti scenici del ruolo Dan dell'opera di Pechino e disegno del personaggio
 
 <img src="covers/2102426880016253191.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+L'attore esegue movimenti tradizionali dell'opera di Pechino, esprimendo l'arte dell'opera di Pechino, i costumi e le bandiere sulla schiena fluttuano, il personaggio muove le mani in modo teatrale, la telecamera si avvicina lentamente.\n\nPrompt per la generazione di immagini:\n\nQuest'opera ideata da Artgerm mostra lo stile artistico fantasy dell'opera cinese, ritraendo una donna di grande bellezza che indossa costumi d'opera tradizionali, con l'uso di vividi contrasti cromatici. Sul bordo c'è l'iscrizione “梨园春色”
 ```
 
 [↑ Torna alle categorie](#catalog)

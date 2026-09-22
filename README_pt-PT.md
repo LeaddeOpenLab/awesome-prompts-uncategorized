@@ -10422,20 +10422,20 @@ Crie um modelo de papercraft montável de uma idol japonesa adulta totalmente fi
 
 <a name="prompt-2102426880016253191"></a>
 
-### Tradução em curso
+### Prompt de vídeo de movimentos cénicos de Dan da ópera de Pequim e desenho de personagem
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2102426880016253191)
 
 Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo de movimentos cénicos de Dan da ópera de Pequim e desenho de personagem
 
 <img src="covers/2102426880016253191.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+O ator executa movimentos tradicionais da ópera de Pequim, expressando a arte da ópera de Pequim, os trajes e as bandeiras dorsais flutuam, o personagem agita as mãos de forma dramática, a câmara aproxima-se lentamente.\n\nPrompt de geração de imagem:\n\nEsta obra criada por Artgerm apresenta o estilo de arte de fantasia da ópera chinesa, retratando uma mulher de enorme beleza vestida com trajes tradicionais de ópera, utilizando contrastes de cores vivos. Na margem, encontra-se a inscrição “梨园春色”
 ```
 
 [↑ Voltar às categorias](#catalog)

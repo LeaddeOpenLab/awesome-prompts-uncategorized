@@ -10402,20 +10402,20 @@ Créer un patron de papercraft à assembler représentant une idole féminine ja
 
 <a name="prompt-2102426880016253191"></a>
 
-### Traduction en cours
+### Prompt de vidéo de mouvements théâtraux du rôle Dan de l'opéra de Pékin et de dessin de personnage
 
 Auteur：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2102426880016253191)
 
 Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo de mouvements théâtraux du rôle Dan de l'opéra de Pékin et de dessin de personnage
 
 <img src="covers/2102426880016253191.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+L'acteur effectue des mouvements traditionnels de l'opéra de Pékin, exprimant l'art de l'opéra de Pékin, le costume et les bannières dorsales flottent, les mains du personnage s'agitent de manière spectaculaire, la caméra avance lentement.\n\nPrompt de génération d'image :\n\nCette œuvre conçue par Artgerm illustre le style artistique fantastique de l'opéra chinois, dépeignant une femme d'une grande beauté vêtue de costumes d'opéra traditionnels, avec des contrastes de couleurs saisissants. Sur le côté est inscrit « 梨园春色 »
 ```
 
 [↑ Retour aux catégories](#catalog)
