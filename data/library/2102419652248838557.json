@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:27:48.615Z",
+  "model": "unknown-image",
+  "prompt": "保留真实照片主体和摄影质感，从照片中选择一个最有意义的结构、物件边缘、材质或视觉动线，让它从照片边界实体延展到暖象牙色纸面。延展物可以是地面、墙面、桌面、栏杆、屋檐、布料、水面、影子、物件轮廓或其他照片中真实存在的元素；它必须带有纸片、布带、卷曲、折面、厚度、撕边或浅浮雕结构，不能凭空生成装饰性丝带。加入 2–4 个极小的无脸黑色线描小人，让他们与延展物发生明确互动，例如搬运、测量、攀爬、推车、观察、绘制或拉动。保留原照片中的人物、建筑、物件、透视和光线，不要把整张照片卡通化，不要做成普通贴纸、路径模板或拼贴网格。",
+  "promptTranslations": {
+    "en": "Preserve the realistic photo subject and photographic texture. Select the most meaningful structure, object edge, material, or visual flow line from the photo, allowing it to physically extend outward from the photo's border onto a warm ivory paper surface. The extended element can be the ground, a wall, a tabletop, a railing, eaves, fabric, a water surface, shadows, object silhouettes, or other elements genuinely existing in the photo; it must feature paper scraps, cloth bands, curls, folded facets, thickness, torn edges, or bas-relief structures, and must not be an arbitrary decorative ribbon generated out of nowhere. Add 2–4 tiny faceless black line-drawn figures and have them engage in explicit interactions with the extended element, such as carrying, measuring, climbing, pushing carts, observing, drawing, or pulling. Preserve the people, architecture, objects, perspective, and lighting in the original photo; do not cartoonize the entire photo, and do not make it into ordinary stickers, path templates, or collage grids."
+  },
+  "summaryTranslations": {
+    "en": "Maintain the original photo's texture, extend its internal structure beyond the frame onto paper, and integrate miniature line-drawn figures for interactive storytelling."
+  },
+  "translationVersion": 2,
+  "summary": "保持原照片质感并将内部结构延展出画框至纸面，结合微型线描小人进行互动叙事。",
+  "summaryEn": "Extends elements from a real photo onto an ivory background with interacting doodle figures.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102419652248838557",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2102419652248838557",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-22T15:28:00.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "zh",
+    "originalText": "【CONTINUATION DOODLE EXPANSION｜实景延展小人叙事风】\n\n让原照片中的某个真实结构继续出框，并通过实体厚度和小人的动作把它变成一个可以继续发生故事的小世界。\n\nprompt：\n保留真实照片主体和摄影质感，从照片中选择一个最有意义的结构、物件边缘、材质或视觉动线，让它从照片边界实体延展到暖象牙色纸面。延展物可以是地面、墙面、桌面、栏杆、屋檐、布料、水面、影子、物件轮廓或其他照片中真实存在的元素；它必须带有纸片、布带、卷曲、折面、厚度、撕边或浅浮雕结构，不能凭空生成装饰性丝带。加入 2–4 个极小的无脸黑色线描小人，让他们与延展物发生明确互动，例如搬运、测量、攀爬、推车、观察、绘制或拉动。保留原照片中的人物、建筑、物件、透视和光线，不要把整张照片卡通化，不要做成普通贴纸、路径模板或拼贴网格。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0f9rGbsAAQ0jM.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0f9rGbsAAQ0jM.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0f_BXaQAEVcS-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0f_BXaQAEVcS-.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0f_2ebUAExJWq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0f_2ebUAExJWq.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 9,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 387
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2102419652248838557",
+  "coverUrl": "https://pbs.twimg.com/media/HS0f9rGbsAAQ0jM.jpg",
+  "coverPath": "images/2102419652248838557-1.jpg",
+  "imagePaths": [
+    "images/2102419652248838557-1.jpg",
+    "images/2102419652248838557-2.jpg",
+    "images/2102419652248838557-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS0f9rGbsAAQ0jM",
+    "x-image:/media/HS0f_BXaQAEVcS-",
+    "x-image:/media/HS0f_2ebUAExJWq",
+    "x-post:2102419652248838557"
+  ],
+  "analysis": {
+    "summary": "保持原照片质感并将内部结构延展出画框至纸面，结合微型线描小人进行互动叙事。",
+    "summaryEn": "Extends elements from a real photo onto an ivory background with interacting doodle figures.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图中的水果篮延展、缆绳延展、桌面延展均与提示词要求的实体延展及黑色线描互动小人高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "保留真实照片主体和摄影质感，从照片中选择一个最有意义的结构、物件边缘、材质或视觉动线，让它从照片边界实体延展到暖象牙色纸面。延展物可以是地面、墙面、桌面、栏杆、屋檐、布料、水面、影子、物件轮廓或其他照片中真实存在的元素；它必须带有纸片、布带、卷曲、折面、厚度、撕边或浅浮雕结构，不能凭空生成装饰性丝带。加入 2–4 个极小的无脸黑色线描小人，让他们与延展物发生明确互动，例如搬运、测量、攀爬、推车、观察、绘制或拉动。保留原照片中的人物、建筑、物件、透视和光线，不要把整张照片卡通化，不要做成普通贴纸、路径模板或拼贴网格。",
+    "sourceRange": {
+      "start": 102,
+      "end": 362
+    },
+    "translations": {
+      "zh": "保留真实照片主体和摄影质感，从照片中选择一个最有意义的结构、物件边缘、材质或视觉动线，让它从照片边界实体延展到暖象牙色纸面。延展物可以是地面、墙面、桌面、栏杆、屋檐、布料、水面、影子、物件轮廓或其他照片中真实存在的元素；它必须带有纸片、布带、卷曲、折面、厚度、撕边或浅浮雕结构，不能凭空生成装饰性丝带。加入 2–4 个极小的无脸黑色线描小人，让他们与延展物发生明确互动，例如搬运、测量、攀爬、推车、观察、绘制或拉动。保留原照片中的人物、建筑、物件、透视和光线，不要把整张照片卡通化，不要做成普通贴纸、路径模板或拼贴网格。",
+      "en": "Retain the original photograph's subject and photographic texture. Select a meaningful structure, edge, texture, or leading line to physically extend beyond the photo border onto warm ivory paper. The extension should feature physical depth, folds, torn edges, or bas-relief structure. Add 2–4 miniature faceless black-line doodle figures interacting with the extended element (e.g., carrying, measuring, climbing, pulling). Keep original perspective and lighting without cartoonifying the photo or turning it into a generic collage."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "image-to-image",
+    "useCase": "实景延展与插画涂鸦叙事设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

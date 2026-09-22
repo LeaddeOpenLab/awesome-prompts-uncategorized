@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:27:29.058Z",
+  "model": "unknown-image",
+  "prompt": "超写实户外日落人像摄影，竖版约 4:5。一名明确成年的东亚女性，20+，趴卧在郊外草地铺开的白色薄毯上，摄影者位于人物正前方非常低的位置，以约 28–35mm 镜头近距离拍摄，人物脸部位于左下前景，身体向画面右后方延伸，形成明显的近大远小纵深。\n\n人物为自然柔软的轻沙漏型身材，腰部收束，髋部圆润。姿势重点：胸腹贴近毯面趴卧，上半身略向镜头侧转，脸颊几乎贴在白色布料上；双腿从膝盖处向上弯曲，小腿竖起，双脚并拢悬在画面右上方，赤脚，脚趾自然放松。臀胯因趴姿和低机位形成自然圆润轮廓，不要夸张变形。\n\n留乌黑色短款 Bob / 齐下巴碎发，额前长碎刘海散落遮住部分眼睛和脸颊，发丝被夕阳照出暖棕色边缘光。脸型小巧，肤色白皙，妆容极淡，眼神从发丝间看向镜头，嘴唇自然微张，神情安静、慵懒。\n\n穿一件纯白色轻薄褶皱长裙 / 连衣裙，面料类似棉纱、皱纱或薄亚麻，带明显细密纵向肌理。上身为宽松长袖，袖口蓬松；腰部略微收束；下半身裙料柔软贴合身体后自然堆叠，整体不透明但带轻盈透气感。赤脚，不穿鞋袜。\n\n场景位于傍晚金色时刻的荒野草地 / 林缘空地，人物下面铺一大片白色床单或野餐布。背景是一片被夕阳照亮的干草地和深绿色树林，太阳位于画面左上接近地平线，产生明显金黄色逆光、光晕和轻微镜头耀斑。\n\n光线采用真实夕阳逆光＋自然环境补光，人物头发、白裙褶皱、肩背和腿部形成柔和金色轮廓光，脸部处于较柔和阴影中。色调以奶油白、暖金、浅棕和深绿为主，低对比、略带胶片感。\n\n整体呈 日系自然写真＋郊外日落抓拍质感：轻微柔焦、自然肤质、浅中等景深、暖色胶片颗粒，不要商业棚拍感。\n\n重点锁定：成年东亚女性＋黑色短 Bob＋脸贴白色毯面趴卧＋身体向后延伸＋双膝弯曲双脚向上并拢＋赤脚＋白色轻薄皱纱长裙＋夕阳草地＋树林逆光＋金色轮廓光＋低机位近距离构图。\n\n避免：站姿、坐姿、仰躺、长直发、高跟鞋、丝袜、短裙、比基尼、室内卧室、正午硬光、复杂背景、夸张臀胯比例、强磨皮、动漫脸、CG感、多余肢体、水印和文字。",
+  "promptTranslations": {
+    "en": "Ultra-realistic outdoor sunset portrait photography, vertical aspect ratio approximately 4:5. An unambiguously adult East Asian woman, 20+, lying prone on a thin white blanket spread across suburban grass. The photographer is positioned directly in front of the subject at a very low angle, shooting close-up with an approximately 28–35mm lens; the subject's face is in the lower-left foreground, with her body extending toward the upper right background, creating a distinct near-large-far-small perspective depth.\n\nThe subject has a naturally soft, gentle hourglass figure with a defined waist and rounded hips. Pose focus: chest and abdomen resting close against the blanket in a prone position, upper torso turned slightly toward the camera, cheek almost resting against the white fabric; legs bent upward from the knees with calves raised, feet together suspended in the upper right of the frame, barefoot, toes naturally relaxed. The hips and buttocks form a natural, rounded contour due to the prone posture and low angle, without exaggerated distortion.\n\nJet-black short bob / chin-length textured hair, with long wispy bangs falling across the forehead partially covering her eyes and cheek, hair strands catching warm brown rim light from the setting sun. Petite face shape, fair complexion, extremely light makeup, gaze directed at the camera through the strands of hair, lips naturally slightly parted, peaceful and languid expression.\n\nWearing a pure white lightweight crinkled maxi dress / one-piece dress, fabric resembling cotton gauze, crinkle crepe, or light linen, with distinct fine vertical texture. The upper body features loose long sleeves with puffy cuffs; a slightly tapered waist; the skirt fabric softly drapes over the body and folds naturally, entirely opaque yet giving a light, breathable feel. Barefoot, no shoes or socks.\n\nThe scene is set in a wild grassy meadow / forest-edge clearing during the evening golden hour, with a large white sheet or picnic blanket spread beneath the subject. The background consists of sunlit dry grass and deep green woods, with the sun situated near the horizon in the upper left of the frame, generating noticeable golden-yellow backlighting, haze, and subtle lens flare.\n\nLighting uses authentic sunset backlight + natural environmental fill light, creating a soft golden rim light along the subject's hair, white dress folds, shoulders, back, and legs, while the face remains in gentle soft shadow. Color palette predominantly features creamy white, warm gold, light brown, and deep green, low contrast with a slight film feel.\n\nOverall aesthetic: Japanese-style natural portrait + suburban sunset candid snapshot texture: subtle soft focus, natural skin texture, shallow-to-medium depth of field, warm film grain, avoiding any commercial studio feel.\n\nKey focuses: adult East Asian woman + black short bob + cheek resting on white blanket lying prone + body extending backward + bent knees with feet raised together + barefoot + pure white lightweight crinkled maxi dress + sunset grass meadow + backlit woods + golden rim light + low-angle close-up composition.\n\nAvoid: standing, sitting, lying on back, long straight hair, high heels, stockings, short skirts, bikini, indoor bedroom, harsh midday light, busy background, exaggerated hip/buttock proportions, heavy skin smoothing, anime face, CG look, extra limbs, watermarks, and text."
+  },
+  "summaryTranslations": {
+    "en": "Ultra-realistic Japanese-style outdoor sunset portrait photography prompt depicting a short-haired East Asian woman lying prone on a white blanket on the grass, facing the backlit sunset from a low-angle shot."
+  },
+  "translationVersion": 2,
+  "summary": "超写实日系户外日落人像摄影提示词，描绘短发东亚女性趴在草地白毯上迎着逆光夕阳的低机位写真。",
+  "summaryEn": "Photorealistic outdoor sunset portrait prompt depicting a short-haired East Asian woman lying prone on a white blanket under golden backlight from a low camera angle.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102415353636954412",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2102415353636954412",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-22T15:10:55.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "zh",
+    "originalText": "享受午后阳光☀️\n\nPrompt：超写实户外日落人像摄影，竖版约 4:5。一名明确成年的东亚女性，20+，趴卧在郊外草地铺开的白色薄毯上，摄影者位于人物正前方非常低的位置，以约 28–35mm 镜头近距离拍摄，人物脸部位于左下前景，身体向画面右后方延伸，形成明显的近大远小纵深。\n\n人物为自然柔软的轻沙漏型身材，腰部收束，髋部圆润。姿势重点：胸腹贴近毯面趴卧，上半身略向镜头侧转，脸颊几乎贴在白色布料上；双腿从膝盖处向上弯曲，小腿竖起，双脚并拢悬在画面右上方，赤脚，脚趾自然放松。臀胯因趴姿和低机位形成自然圆润轮廓，不要夸张变形。\n\n留乌黑色短款 Bob / 齐下巴碎发，额前长碎刘海散落遮住部分眼睛和脸颊，发丝被夕阳照出暖棕色边缘光。脸型小巧，肤色白皙，妆容极淡，眼神从发丝间看向镜头，嘴唇自然微张，神情安静、慵懒。\n\n穿一件纯白色轻薄褶皱长裙 / 连衣裙，面料类似棉纱、皱纱或薄亚麻，带明显细密纵向肌理。上身为宽松长袖，袖口蓬松；腰部略微收束；下半身裙料柔软贴合身体后自然堆叠，整体不透明但带轻盈透气感。赤脚，不穿鞋袜。\n\n场景位于傍晚金色时刻的荒野草地 / 林缘空地，人物下面铺一大片白色床单或野餐布。背景是一片被夕阳照亮的干草地和深绿色树林，太阳位于画面左上接近地平线，产生明显金黄色逆光、光晕和轻微镜头耀斑。\n\n光线采用真实夕阳逆光＋自然环境补光，人物头发、白裙褶皱、肩背和腿部形成柔和金色轮廓光，脸部处于较柔和阴影中。色调以奶油白、暖金、浅棕和深绿为主，低对比、略带胶片感。\n\n整体呈 日系自然写真＋郊外日落抓拍质感：轻微柔焦、自然肤质、浅中等景深、暖色胶片颗粒，不要商业棚拍感。\n\n重点锁定：成年东亚女性＋黑色短 Bob＋脸贴白色毯面趴卧＋身体向后延伸＋双膝弯曲双脚向上并拢＋赤脚＋白色轻薄皱纱长裙＋夕阳草地＋树林逆光＋金色轮廓光＋低机位近距离构图。\n\n避免：站姿、坐姿、仰躺、长直发、高跟鞋、丝袜、短裙、比基尼、室内卧室、正午硬光、复杂背景、夸张臀胯比例、强磨皮、动漫脸、CG感、多余肢体、水印和文字。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1HnefawAA8VLZ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1HnefawAA8VLZ.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 5,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 645
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2102415353636954412",
+  "coverUrl": "https://pbs.twimg.com/media/HS1HnefawAA8VLZ.jpg",
+  "coverPath": "images/2102415353636954412-1.jpg",
+  "imagePaths": [
+    "images/2102415353636954412-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS1HnefawAA8VLZ",
+    "x-post:2102415353636954412"
+  ],
+  "analysis": {
+    "summary": "超写实日系户外日落人像摄影提示词，描绘短发东亚女性趴在草地白毯上迎着逆光夕阳的低机位写真。",
+    "summaryEn": "Photorealistic outdoor sunset portrait prompt depicting a short-haired East Asian woman lying prone on a white blanket under golden backlight from a low camera angle.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面呈现的机位角度、女性短发与神态、趴卧姿势、白色褶皱连衣裙、草地林缘背景及夕阳逆光效果与提示词描写高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实户外日落人像摄影，竖版约 4:5。一名明确成年的东亚女性，20+，趴卧在郊外草地铺开的白色薄毯上，摄影者位于人物正前方非常低的位置，以约 28–35mm 镜头近距离拍摄，人物脸部位于左下前景，身体向画面右后方延伸，形成明显的近大远小纵深。\n\n人物为自然柔软的轻沙漏型身材，腰部收束，髋部圆润。姿势重点：胸腹贴近毯面趴卧，上半身略向镜头侧转，脸颊几乎贴在白色布料上；双腿从膝盖处向上弯曲，小腿竖起，双脚并拢悬在画面右上方，赤脚，脚趾自然放松。臀胯因趴姿和低机位形成自然圆润轮廓，不要夸张变形。\n\n留乌黑色短款 Bob / 齐下巴碎发，额前长碎刘海散落遮住部分眼睛和脸颊，发丝被夕阳照出暖棕色边缘光。脸型小巧，肤色白皙，妆容极淡，眼神从发丝间看向镜头，嘴唇自然微张，神情安静、慵懒。\n\n穿一件纯白色轻薄褶皱长裙 / 连衣裙，面料类似棉纱、皱纱或薄亚麻，带明显细密纵向肌理。上身为宽松长袖，袖口蓬松；腰部略微收束；下半身裙料柔软贴合身体后自然堆叠，整体不透明但带轻盈透气感。赤脚，不穿鞋袜。\n\n场景位于傍晚金色时刻的荒野草地 / 林缘空地，人物下面铺一大片白色床单或野餐布。背景是一片被夕阳照亮的干草地和深绿色树林，太阳位于画面左上接近地平线，产生明显金黄色逆光、光晕和轻微镜头耀斑。\n\n光线采用真实夕阳逆光＋自然环境补光，人物头发、白裙褶皱、肩背和腿部形成柔和金色轮廓光，脸部处于较柔和阴影中。色调以奶油白、暖金、浅棕和深绿为主，低对比、略带胶片感。\n\n整体呈 日系自然写真＋郊外日落抓拍质感：轻微柔焦、自然肤质、浅中等景深、暖色胶片颗粒，不要商业棚拍感。\n\n重点锁定：成年东亚女性＋黑色短 Bob＋脸贴白色毯面趴卧＋身体向后延伸＋双膝弯曲双脚向上并拢＋赤脚＋白色轻薄皱纱长裙＋夕阳草地＋树林逆光＋金色轮廓光＋低机位近距离构图。\n\n避免：站姿、坐姿、仰躺、长直发、高跟鞋、丝袜、短裙、比基尼、室内卧室、正午硬光、复杂背景、夸张臀胯比例、强磨皮、动漫脸、CG感、多余肢体、水印和文字。",
+    "sourceRange": {
+      "start": 17,
+      "end": 859
+    },
+    "translations": {
+      "zh": "超写实户外日落人像摄影，竖版约 4:5。一名明确成年的东亚女性，20+，趴卧在郊外草地铺开的白色薄毯上，摄影者位于人物正前方非常低的位置，以约 28–35mm 镜头近距离拍摄，人物脸部位于左下前景，身体向画面右后方延伸，形成明显的近大远小纵深。\n\n人物为自然柔软的轻沙漏型身材，腰部收束，髋部圆润。姿势重点：胸腹贴近毯面趴卧，上半身略向镜头侧转，脸颊几乎贴在白色布料上；双腿从膝盖处向上弯曲，小腿竖起，双脚并拢悬在画面右上方，赤脚，脚趾自然放松。臀胯因趴姿和低机位形成自然圆润轮廓，不要夸张变形。\n\n留乌黑色短款 Bob / 齐下巴碎发，额前长碎刘海散落遮住部分眼睛和脸颊，发丝被夕阳照出暖棕色边缘光。脸型小巧，肤色白皙，妆容极淡，眼神从发丝间看向镜头，嘴唇自然微张，神情安静、慵懒。\n\n穿一件纯白色轻薄褶皱长裙 / 连衣裙，面料类似棉纱、皱纱或薄亚麻，带明显细密纵向肌理。上身为宽松长袖，袖口蓬松；腰部略微收束；下半身裙料柔软贴合身体后自然堆叠，整体不透明但带轻盈透气感。赤脚，不穿鞋袜。\n\n场景位于傍晚金色时刻的荒野草地 / 林缘空地，人物下面铺一大片白色床单或野餐布。背景是一片被夕阳照亮的干草地和深绿色树林，太阳位于画面左上接近地平线，产生明显金黄色逆光、光晕和轻微镜头耀斑。\n\n光线采用真实夕阳逆光＋自然环境补光，人物头发、白裙褶皱、肩背和腿部形成柔和金色轮廓光，脸部处于较柔和阴影中。色调以奶油白、暖金、浅棕和深绿为主，低对比、略带胶片感。\n\n整体呈 日系自然写真＋郊外日落抓拍质感：轻微柔焦、自然肤质、浅中等景深、暖色胶片颗粒，不要商业棚拍感。\n\n重点锁定：成年东亚女性＋黑色短 Bob＋脸贴白色毯面趴卧＋身体向后延伸＋双膝弯曲双脚向上并拢＋赤脚＋白色轻薄皱纱长裙＋夕阳草地＋树林逆光＋金色轮廓光＋低机位近距离构图。\n\n避免：站姿、坐姿、仰躺、长直发、高跟鞋、丝袜、短裙、比基尼、室内卧室、正午硬光、复杂背景、夸张臀胯比例、强磨皮、动漫脸、CG感、多余肢体、水印和文字。",
+      "en": "Photorealistic outdoor sunset portrait photography, vertical ~4:5. An adult East Asian female, 20+, lying prone on a white blanket spread across a grassy field. Shot from an ultra-low front angle with a 28–35mm lens, face in the lower-left foreground and body receding to the upper right for depth. She wears a lightweight, textured white dress, has a black bob with bangs, resting barefoot with legs bent upward, illuminated by warm golden rim light and lens flare from the setting sun against a forest backdrop."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "户外日系写真人像摄影生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.98,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

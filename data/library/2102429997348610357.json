@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:28:51.281Z",
+  "model": "unknown-image",
+  "prompt": "Character reference sheet combining Cristiano Ronaldo (Portugal kit #7, athletic muscular build, 6'2\", iconic smile, determined/charismatic expression) and Mohamed Salah (Egypt kit #10, lean athletic build, 5'9\", beard/short hair, humble/professional focused expression), styled as a multi-panel visual reference poster featuring character profiles, 360-degree full-body turnarounds, facial detail angles, multi-expression sheets (happy, worried, confident, determined, neutral, sad, suron), pose and body language studies (standing, seated, action-ready/celebration), zoomed costume/crest details, and split red/green/white/gold material color palettes.",
+  "promptTranslations": {
+    "en": "Character reference sheet combining Cristiano Ronaldo (Portugal kit #7, athletic muscular build, 6'2\", iconic smile, determined/charismatic expression) and Mohamed Salah (Egypt kit #10, lean athletic build, 5'9\", beard/short hair, humble/professional focused expression), styled as a multi-panel visual reference poster featuring character profiles, 360-degree full-body turnarounds, facial detail angles, multi-expression sheets (happy, worried, confident, determined, neutral, sad, suron), pose and body language studies (standing, seated, action-ready/celebration), zoomed costume/crest details, and split red/green/white/gold material color palettes."
+  },
+  "summaryTranslations": {
+    "en": "Multi-panel character reference sheet poster for footballers Cristiano Ronaldo and Mohamed Salah with turnarounds, expressions, and palettes."
+  },
+  "translationVersion": 2,
+  "summary": "Multi-panel character reference sheet poster for footballers Cristiano Ronaldo and Mohamed Salah with turnarounds, expressions, and palettes.",
+  "summaryEn": "Multi-panel character reference sheet poster for footballers Cristiano Ronaldo and Mohamed Salah with turnarounds, expressions, and palettes.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102429997348610357",
+    "canonicalUrl": "https://x.com/Minahil42298354/status/2102429997348610357",
+    "author": {
+      "username": "Minahil42298354",
+      "displayName": "Minahil",
+      "profileUrl": "https://x.com/Minahil42298354"
+    },
+    "publishedAt": "2026-09-22T16:09:07.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "en",
+    "originalText": "Ronaldo and Salah character reference sheets.\n\nPrompt:          Character reference sheet combining Cristiano Ronaldo (Portugal kit #7, athletic muscular build, 6'2\", iconic smile, determined/charismatic expression) and Mohamed Salah (Egypt kit #10, lean athletic build, 5'9\", beard/short hair, humble/professional focused expression), styled as a multi-panel visual reference poster featuring character profiles, 360-degree full-body turnarounds, facial detail angles, multi-expression sheets (happy, worried, confident, determined, neutral, sad, suron), pose and body language studies (standing, seated, action-ready/celebration), zoomed costume/crest details, and split red/green/white/gold material color palettes.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1U6UcXgAAltUk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1U6UcXgAAltUk.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS1U7XBWwAAJKJu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS1U7XBWwAAJKJu.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 1,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 96
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Minahil42298354/status/2102429997348610357",
+  "coverUrl": "https://pbs.twimg.com/media/HS1U6UcXgAAltUk.jpg",
+  "coverPath": "images/2102429997348610357-1.jpg",
+  "imagePaths": [
+    "images/2102429997348610357-1.jpg",
+    "images/2102429997348610357-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS1U6UcXgAAltUk",
+    "x-image:/media/HS1U7XBWwAAJKJu",
+    "x-post:2102429997348610357"
+  ],
+  "analysis": {
+    "summary": "Multi-panel character reference sheet poster for footballers Cristiano Ronaldo and Mohamed Salah with turnarounds, expressions, and palettes.",
+    "summaryEn": "Multi-panel character reference sheet poster for footballers Cristiano Ronaldo and Mohamed Salah with turnarounds, expressions, and palettes.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the prompt layout, displaying turnaround views, facial expressions, poses, kit details, and color palettes for Ronaldo and Salah."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Character reference sheet combining Cristiano Ronaldo (Portugal kit #7, athletic muscular build, 6'2\", iconic smile, determined/charismatic expression) and Mohamed Salah (Egypt kit #10, lean athletic build, 5'9\", beard/short hair, humble/professional focused expression), styled as a multi-panel visual reference poster featuring character profiles, 360-degree full-body turnarounds, facial detail angles, multi-expression sheets (happy, worried, confident, determined, neutral, sad, suron), pose and body language studies (standing, seated, action-ready/celebration), zoomed costume/crest details, and split red/green/white/gold material color palettes.",
+    "sourceRange": {
+      "start": 64,
+      "end": 718
+    },
+    "translations": {
+      "zh": "角色参考图表，结合了克里斯蒂亚诺·罗纳尔多（葡萄牙7号球衣、强壮运动体格、6英尺2英寸、标志性微笑、坚定而富有魅力的表情）和穆罕默德·萨拉赫（埃及10号球衣、精干运动体格、5英尺9英寸、胡须/短发、谦逊而专注的职业表情），风格为包含角色档案、360度全身展示、面部细节角度、多表情图谱、姿势与肢体语言研究、服装/队徽特写细节以及红/绿/白/金材质色板的多板块视觉参考海报。",
+      "en": "Character reference sheet combining Cristiano Ronaldo (Portugal kit #7, athletic muscular build, 6'2\", iconic smile, determined/charismatic expression) and Mohamed Salah (Egypt kit #10, lean athletic build, 5'9\", beard/short hair, humble/professional focused expression), styled as a multi-panel visual reference poster featuring character profiles, 360-degree full-body turnarounds, facial detail angles, multi-expression sheets (happy, worried, confident, determined, neutral, sad, suron), pose and body language studies (standing, seated, action-ready/celebration), zoomed costume/crest details, and split red/green/white/gold material color palettes."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept_art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Cristiano Ronaldo likeness",
+        "Mohamed Salah likeness",
+        "National football team kits"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

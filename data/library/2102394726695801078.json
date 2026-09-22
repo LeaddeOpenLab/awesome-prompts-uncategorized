@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:28:29.695Z",
+  "model": "unknown-image",
+  "prompt": "完全架空の成人日本人女性アイドルを、顔・髪・身体・衣装まで含めた組み立て可能なペーパークラフト展開図にする。ピンク×白×ゴールドの可愛いアイドル衣装。頭部には顔を印刷し、髪、胴体、腕、脚、スカート、ブーツ、リボンなど全パーツを切り取り・折り線・のりしろ付きで配置。白背景の印刷用展開図。右下に完成した3Dペーパークラフト人形の見本を表示。",
+  "promptTranslations": {
+    "en": "An assembleable papercraft net of a completely fictional adult Japanese female idol, including her face, hair, body, and outfit. Cute idol outfit in pink, white, and gold. The face is printed on the head, with all parts including hair, torso, arms, legs, skirt, boots, and ribbons arranged with cut lines, fold lines, and glue tabs. Printable net on a white background. A sample of the completed 3D papercraft doll is displayed in the lower right."
+  },
+  "summaryTranslations": {
+    "en": "Prompt for an assembleable female idol papercraft net."
+  },
+  "translationVersion": 2,
+  "summary": "組み立て可能な女性アイドルのペーパークラフト展開図のプロンプト。",
+  "summaryEn": "Prompt for a printable, assemble-ready female idol papercraft sheet.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102394726695801078",
+    "canonicalUrl": "https://x.com/AI_money_club/status/2102394726695801078",
+    "author": {
+      "username": "AI_money_club",
+      "displayName": "こやす69＠AIプロンプト屋",
+      "profileUrl": "https://x.com/AI_money_club"
+    },
+    "publishedAt": "2026-09-22T13:48:58.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "ja",
+    "originalText": "皆さんとAI画像を楽しみたくてバカみたいな事ばっかりしてる…\n\nもうすぐ10000人…\n駄作も投下してみますｗ\nもっと良くしてけろ\n-------------Prompt----------\n完全架空の成人日本人女性アイドルを、顔・髪・身体・衣装まで含めた組み立て可能なペーパークラフト展開図にする。ピンク×白×ゴールドの可愛いアイドル衣装。頭部には顔を印刷し、髪、胴体、腕、脚、スカート、ブーツ、リボンなど全パーツを切り取り・折り線・のりしろ付きで配置。白背景の印刷用展開図。右下に完成した3Dペーパークラフト人形の見本を表示。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS00Vt_bkAAUlto.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS00Vt_bkAAUlto.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1469
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_money_club/status/2102394726695801078",
+  "coverUrl": "https://pbs.twimg.com/media/HS00Vt_bkAAUlto.jpg",
+  "coverPath": "images/2102394726695801078-1.jpg",
+  "imagePaths": [
+    "images/2102394726695801078-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS00Vt_bkAAUlto",
+    "x-post:2102394726695801078"
+  ],
+  "analysis": {
+    "summary": "組み立て可能な女性アイドルのペーパークラフト展開図のプロンプト。",
+    "summaryEn": "Prompt for a printable, assemble-ready female idol papercraft sheet.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated image matches the prompt: an idol papercraft sheet with pink/white/gold outfit, foldable parts with tabs, and a finished 3D preview model at the bottom right."
+    },
+    "videoQuality": null,
+    "originalPrompt": "完全架空の成人日本人女性アイドルを、顔・髪・身体・衣装まで含めた組み立て可能なペーパークラフト展開図にする。ピンク×白×ゴールドの可愛いアイドル衣装。頭部には顔を印刷し、髪、胴体、腕、脚、スカート、ブーツ、リボンなど全パーツを切り取り・折り線・のりしろ付きで配置。白背景の印刷用展開図。右下に完成した3Dペーパークラフト人形の見本を表示。",
+    "sourceRange": {
+      "start": 96,
+      "end": 265
+    },
+    "translations": {
+      "zh": "将完全虚构的成年日本女性偶像制作成包含面部、发型、身体和服装的可组装纸模型展开图。粉色×白色×金色的可爱偶像服装。头部印有面部，头发、躯干、手臂、腿部、裙子、靴子、蝴蝶结等所有部件均附带裁剪线、折痕线和粘合边布局。白底可打印展开图。右下角显示完成的3D纸偶样品。",
+      "en": "A printable papercraft cutout template of a fictional adult Japanese female idol, including face, hair, body, and outfit. Cute idol costume in pink, white, and gold. Parts for head, hair, body, limbs, skirt, boots, and ribbons with cut lines, fold lines, and glue tabs. White background. Bottom-right displays a finished 3D paper doll preview."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "papercraft idol cutout net generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:28:46.138Z",
+  "model": "unknown-image",
+  "prompt": "2people, monochrome manga panel, black and white manga, clean lineart, screentone, single comic panel, close-up composition, dramatic emotional tension, simple blank background, 2::two large white speech bubbles on the left side::, no extra text\n\nA:\nuse separately provided appearance, left side, close side profile, calm cold expression, half-lidded eyes, face very close to B, 2::one hand resting firmly on top of B's head::, quietly intimidating presence\n\nB:\nuse separately provided appearance, right side, head lowered, avoiding eye contact, slumped posture, discouraged expression, small sweat drops on the cheek, hurt and defeated mood\n\n구도:\n2::A on the left and B on the right::, 2::A's hand on top of B's head::, 2::A leaning in close to B::, 2::B looking downward with tense shoulders::, extreme close-up, emotional imbalance, lots of empty white space, no detailed background\n\n,two white manga speech bubbles on the left side, clean black Korean lettering, no extra text\n\n\"넌 티친  따윈 만들 자격이 없어.\"\n\"그럴 필요도 없고...\"",
+  "promptTranslations": {
+    "en": "2people, monochrome manga panel, black and white manga, clean lineart, screentone, single comic panel, close-up composition, dramatic emotional tension, simple blank background, 2::two large white speech bubbles on the left side::, no extra text\n\nA:\nuse separately provided appearance, left side, close side profile, calm cold expression, half-lidded eyes, face very close to B, 2::one hand resting firmly on top of B's head::, quietly intimidating presence\n\nB:\nuse separately provided appearance, right side, head lowered, avoiding eye contact, slumped posture, discouraged expression, small sweat drops on the cheek, hurt and defeated mood\n\nComposition:\n2::A on the left and B on the right::, 2::A's hand on top of B's head::, 2::A leaning in close to B::, 2::B looking downward with tense shoulders::, extreme close-up, emotional imbalance, lots of empty white space, no detailed background\n\n,two white manga speech bubbles on the left side, clean black Korean lettering, no extra text\n\n\"넌 티친  따윈 만들 자격이 없어.\"\n\"그럴 필요도 없고...\""
+  },
+  "summaryTranslations": {
+    "en": "An intimidating manga close-up scene prompt featuring two characters with Korean dialogue and speech bubbles."
+  },
+  "translationVersion": 2,
+  "summary": "한국어 대사와 말풍선이 포함된 두 인물의 위압적인 만화 클로즈업 연출 프롬프트.",
+  "summaryEn": "Comic panel prompt for a dramatic close-up of two characters with intimidation and Korean speech bubbles.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102392576980492741",
+    "canonicalUrl": "https://x.com/leftbypeace/status/2102392576980492741",
+    "author": {
+      "username": "leftbypeace",
+      "displayName": "평화",
+      "profileUrl": "https://x.com/leftbypeace"
+    },
+    "publishedAt": "2026-09-22T13:40:25.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "ko",
+    "originalText": "* 넌 티친  따윈 만들 자격이 없어\n* 자유롭게 사용해 주세요\n\nPrompt\n\n2people, monochrome manga panel, black and white manga, clean lineart, screentone, single comic panel, close-up composition, dramatic emotional tension, simple blank background, 2::two large white speech bubbles on the left side::, no extra text\n\nA:\nuse separately provided appearance, left side, close side profile, calm cold expression, half-lidded eyes, face very close to B, 2::one hand resting firmly on top of B's head::, quietly intimidating presence\n\nB:\nuse separately provided appearance, right side, head lowered, avoiding eye contact, slumped posture, discouraged expression, small sweat drops on the cheek, hurt and defeated mood\n\n구도:\n2::A on the left and B on the right::, 2::A's hand on top of B's head::, 2::A leaning in close to B::, 2::B looking downward with tense shoulders::, extreme close-up, emotional imbalance, lots of empty white space, no detailed background\n\n,two white manga speech bubbles on the left side, clean black Korean lettering, no extra text\n\n\"넌 티친  따윈 만들 자격이 없어.\"\n\"그럴 필요도 없고...\"",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0yCCFasAAsBnb.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0yCCFasAAsBnb.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0yYjibsAACgrI.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0yYjibsAACgrI.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0yjr9aQAA9h3u.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0yjr9aQAA9h3u.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 4,
+      "replyCount": 0,
+      "quoteCount": 6,
+      "viewCount": 1368
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/leftbypeace/status/2102392576980492741",
+  "coverUrl": "https://pbs.twimg.com/media/HS0yCCFasAAsBnb.jpg",
+  "coverPath": "images/2102392576980492741-1.jpg",
+  "imagePaths": [
+    "images/2102392576980492741-1.jpg",
+    "images/2102392576980492741-2.jpg",
+    "images/2102392576980492741-3.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS0yCCFasAAsBnb",
+    "x-image:/media/HS0yYjibsAACgrI",
+    "x-image:/media/HS0yjr9aQAA9h3u",
+    "x-post:2102392576980492741"
+  ],
+  "analysis": {
+    "summary": "한국어 대사와 말풍선이 포함된 두 인물의 위압적인 만화 클로즈업 연출 프롬프트.",
+    "summaryEn": "Comic panel prompt for a dramatic close-up of two characters with intimidation and Korean speech bubbles.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated images match the prompt composition: character A looming close with a hand on character B's head, sweat drops on B's face, and speech bubbles containing the exact Korean text."
+    },
+    "videoQuality": null,
+    "originalPrompt": "2people, monochrome manga panel, black and white manga, clean lineart, screentone, single comic panel, close-up composition, dramatic emotional tension, simple blank background, 2::two large white speech bubbles on the left side::, no extra text\n\nA:\nuse separately provided appearance, left side, close side profile, calm cold expression, half-lidded eyes, face very close to B, 2::one hand resting firmly on top of B's head::, quietly intimidating presence\n\nB:\nuse separately provided appearance, right side, head lowered, avoiding eye contact, slumped posture, discouraged expression, small sweat drops on the cheek, hurt and defeated mood\n\n구도:\n2::A on the left and B on the right::, 2::A's hand on top of B's head::, 2::A leaning in close to B::, 2::B looking downward with tense shoulders::, extreme close-up, emotional imbalance, lots of empty white space, no detailed background\n\n,two white manga speech bubbles on the left side, clean black Korean lettering, no extra text\n\n\"넌 티친  따윈 만들 자격이 없어.\"\n\"그럴 필요도 없고...\"",
+    "sourceRange": {
+      "start": 45,
+      "end": 1062
+    },
+    "translations": {
+      "zh": "双人，单色漫画分镜，黑白漫画，干净线条，网点纸，单格漫画分镜，特写构图，戏剧性情感张力，纯白背景，2::左侧两个大白色对话框::，无多余文字\n\nA:\n使用单独提供的外观，左侧，侧脸特写，冷淡冷酷表情，微阖双眼，脸离B极近，2::一只手紧紧按在B头上::，静穆压抑的气场\n\nB:\n使用单独提供的外观，右侧，低头，避免视线接触，颓废姿势，失落表情，脸颊有小汗珠，受伤且挫败的情绪\n\n构图:\n2::左边A右边B::，2::A的手按在B头上::，2::A贴近B::，2::B肩膀紧绷并向下看::，极度特写，情感失衡，大量留白，无细节背景\n\n，左侧两个白色漫画对话框，清晰黑色韩文字样，无多余文字\n\n“你根本没资格交什么推友。”\n“也没有那个必要……”",
+      "en": "2people, monochrome manga panel, black and white manga, clean lineart, screentone, single comic panel, close-up composition, dramatic emotional tension, simple blank background, 2::two large white speech bubbles on the left side::, no extra text\n\nA:\nuse separately provided appearance, left side, close side profile, calm cold expression, half-lidded eyes, face very close to B, 2::one hand resting firmly on top of B's head::, quietly intimidating presence\n\nB:\nuse separately provided appearance, right side, head lowered, avoiding eye contact, slumped posture, discouraged expression, small sweat drops on the cheek, hurt and defeated mood\n\n구도:\n2::A on the left and B on the right::, 2::A's hand on top of B's head::, 2::A leaning in close to B::, 2::B looking downward with tense shoulders::, extreme close-up, emotional imbalance, lots of empty white space, no detailed background\n\n,two white manga speech bubbles on the left side, clean black Korean lettering, no extra text\n\n\"넌 티친  따윈 만들 자격이 없어.\"\n\"그럴 필요도 없고...\""
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "manga panel generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

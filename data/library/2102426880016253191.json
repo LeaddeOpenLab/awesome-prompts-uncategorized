@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T16:27:39.073Z",
+  "model": "qwen-image",
+  "prompt": "演员做着京剧传统戏曲动作，表现京剧艺术，服装和靠旗飘动，人物双手戏剧性地挥舞，镜头慢慢推进。\n\n生图提示词：\n\n这幅由 Artgerm 设计的作品展现了中国戏曲的奇幻艺术风格，描绘了一位身着传统戏曲服饰、极具美感的女性，并运用了鲜明的色彩对比。边上题字“梨园春色”",
+  "promptTranslations": {
+    "en": "An actor performing traditional Peking Opera movements, embodying the art of Peking Opera, with costumes and operational battle flags (kaoxi) fluttering, the character dramatically waving their hands, as the camera slowly zooms in.\n\nImage Generation Prompt:\n\nThis artwork designed by Artgerm showcases a fantasy art style of Chinese opera, depicting an exquisitely beautiful woman dressed in traditional opera attire, utilizing striking color contrasts. An inscription on the side reads \"梨园春色\""
+  },
+  "summaryTranslations": {
+    "en": "Peking Opera Dan Role Movements Video and Character Drawing Prompt"
+  },
+  "translationVersion": 2,
+  "summary": "京剧旦角戏曲动作视频与角色绘制提示词",
+  "summaryEn": "Prompts for Peking Opera Dan role image and dynamic video",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102426880016253191",
+    "canonicalUrl": "https://x.com/PixelAigc/status/2102426880016253191",
+    "author": {
+      "username": "PixelAigc",
+      "displayName": "PixelAIGC",
+      "profileUrl": "https://x.com/PixelAigc"
+    },
+    "publishedAt": "2026-09-22T15:56:44.000Z",
+    "collectedAt": "2026-09-22T16:16:58.333Z",
+    "language": "zh",
+    "originalText": "太惊艳了！\nQwen Image 2.1 + MiniMax H3 Design\n中国传统京剧四大名旦\n梨园春色，太美了\n\nprompt 视频提示词：\n\n演员做着京剧传统戏曲动作，表现京剧艺术，服装和靠旗飘动，人物双手戏剧性地挥舞，镜头慢慢推进。\n\n生图提示词：\n\n这幅由 Artgerm 设计的作品展现了中国戏曲的奇幻艺术风格，描绘了一位身着传统戏曲服饰、极具美感的女性，并运用了鲜明的色彩对比。边上题字“梨园春色”",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2102426880016253191",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102426084675653632/img/Qwsma1pQtc_EvoEI.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2102426880016253191"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 124
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/PixelAigc/status/2102426880016253191",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102426084675653632/img/Qwsma1pQtc_EvoEI.jpg",
+  "coverPath": "covers/2102426880016253191.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102426084675653632",
+    "x-post:2102426880016253191"
+  ],
+  "analysis": {
+    "summary": "京剧旦角戏曲动作视频与角色绘制提示词",
+    "summaryEn": "Prompts for Peking Opera Dan role image and dynamic video",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频呈现京剧旦角、靠旗飘动、挥手动作与“梨园春色”题字，与提示词描述高度一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "演员做着京剧传统戏曲动作，表现京剧艺术，服装和靠旗飘动，人物双手戏剧性地挥舞，镜头慢慢推进。\n\n生图提示词：\n\n这幅由 Artgerm 设计的作品展现了中国戏曲的奇幻艺术风格，描绘了一位身着传统戏曲服饰、极具美感的女性，并运用了鲜明的色彩对比。边上题字“梨园春色”",
+    "sourceRange": {
+      "start": 77,
+      "end": 209
+    },
+    "translations": {
+      "zh": "演员做着京剧传统戏曲动作，表现京剧艺术，服装和靠旗飘动，人物双手戏剧性地挥舞，镜头慢慢推进。\n\n生图提示词：\n\n这幅由 Artgerm 设计的作品展现了中国戏曲的奇幻艺术风格，描绘了一位身着传统戏曲服饰、极具美感的女性，并运用了鲜明的色彩对比。边上题字“梨园春色”",
+      "en": "The actor performs traditional Peking Opera movements, showcasing Peking Opera art, with costumes and battle flags fluttering, hands waving dramatically, and the camera slowly zooming in.\n\nImage Prompt:\n\nThis artwork by Artgerm showcases a fantasy art style of Chinese opera, depicting an aesthetically pleasing woman dressed in traditional opera attire with contrasting colors. Inscribed on the side: 'Spring in the Pear Garden'."
+    },
+    "targetModels": [
+      "qwen-image"
+    ],
+    "category": "image-to-video",
+    "useCase": "艺术生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "Artgerm"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
