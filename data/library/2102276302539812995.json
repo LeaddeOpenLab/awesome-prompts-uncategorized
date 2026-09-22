@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T08:27:25.715Z",
+  "model": "unknown-image",
+  "prompt": "solo, full body, front view, white background, simple background, 3::sitting backwards on an office chair, straddling the chair::, 3::chest leaning against the chair backrest, legs spread on both sides of chair::, 4::both hands held together directly in front of mouth::, 4::left and right fingertips touching each other::, fingertips touching lips, palms facing each other, hands close together, elbows close, 2::black tailored suit, black dress shirt, black trousers::, 2::black leather dress shoes::, 2::animal ears::, 2::animal tail, tail swishing side to side::, office chair, 3::small sparkling effects around character::, twinkling stars, tiny glimmers, subtle sparkles, cute pleading atmosphere",
+  "promptTranslations": {
+    "en": "solo, full body, front view, white background, simple background, 3::sitting backwards on an office chair, straddling the chair::, 3::chest leaning against the chair backrest, legs spread on both sides of chair::, 4::both hands held together directly in front of mouth::, 4::left and right fingertips touching each other::, fingertips touching lips, palms facing each other, hands close together, elbows close, 2::black tailored suit, black dress shirt, black trousers::, 2::black leather dress shoes::, 2::animal ears::, 2::animal tail, tail swishing side to side::, office chair, 3::small sparkling effects around character::, twinkling stars, tiny glimmers, subtle sparkles, cute pleading atmosphere"
+  },
+  "summaryTranslations": {
+    "en": "An animal-eared character in a tailored black suit sitting backward on an office chair pleading."
+  },
+  "translationVersion": 2,
+  "summary": "An animal-eared character in a tailored black suit sitting backward on an office chair pleading.",
+  "summaryEn": "An animal-eared character in a tailored black suit sitting backward on an office chair pleading.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102276302539812995",
+    "canonicalUrl": "https://x.com/leftbypeace/status/2102276302539812995",
+    "author": {
+      "username": "leftbypeace",
+      "displayName": "평화",
+      "profileUrl": "https://x.com/leftbypeace"
+    },
+    "publishedAt": "2026-09-22T05:58:23.000Z",
+    "collectedAt": "2026-09-22T08:16:27.776Z",
+    "language": "ko",
+    "originalText": "* 부탁 좀 드려요 선배님~ ♡\n* 자유롭게 사용해 주세요\n\nPrompt\n\nsolo, full body, front view, white background, simple background, 3::sitting backwards on an office chair, straddling the chair::, 3::chest leaning against the chair backrest, legs spread on both sides of chair::, 4::both hands held together directly in front of mouth::, 4::left and right fingertips touching each other::, fingertips touching lips, palms facing each other, hands close together, elbows close, 2::black tailored suit, black dress shirt, black trousers::, 2::black leather dress shoes::, 2::animal ears::, 2::animal tail, tail swishing side to side::, office chair, 3::small sparkling effects around character::, twinkling stars, tiny glimmers, subtle sparkles, cute pleading atmosphere",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSzJJzEbcAA5xW-.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSzJJzEbcAA5xW-.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSzJJzHasAAZh6C.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSzJJzHasAAZh6C.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 61,
+      "repostCount": 7,
+      "replyCount": 1,
+      "quoteCount": 10,
+      "viewCount": 2844
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/leftbypeace/status/2102276302539812995",
+  "coverUrl": "https://pbs.twimg.com/media/HSzJJzEbcAA5xW-.jpg",
+  "coverPath": "images/2102276302539812995-1.jpg",
+  "imagePaths": [
+    "images/2102276302539812995-1.jpg",
+    "images/2102276302539812995-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSzJJzEbcAA5xW-",
+    "x-image:/media/HSzJJzHasAAZh6C",
+    "x-post:2102276302539812995"
+  ],
+  "analysis": {
+    "summary": "An animal-eared character in a tailored black suit sitting backward on an office chair pleading.",
+    "summaryEn": "An animal-eared character in a tailored black suit sitting backward on an office chair pleading.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images match all prompt elements: black suit, animal ears/tail, reverse chair pose, and pleading hand position."
+    },
+    "videoQuality": null,
+    "originalPrompt": "solo, full body, front view, white background, simple background, 3::sitting backwards on an office chair, straddling the chair::, 3::chest leaning against the chair backrest, legs spread on both sides of chair::, 4::both hands held together directly in front of mouth::, 4::left and right fingertips touching each other::, fingertips touching lips, palms facing each other, hands close together, elbows close, 2::black tailored suit, black dress shirt, black trousers::, 2::black leather dress shoes::, 2::animal ears::, 2::animal tail, tail swishing side to side::, office chair, 3::small sparkling effects around character::, twinkling stars, tiny glimmers, subtle sparkles, cute pleading atmosphere",
+    "sourceRange": {
+      "start": 42,
+      "end": 744
+    },
+    "translations": {
+      "zh": "单人，全身，正视图，纯白背景，简单背景，反坐在办公椅上，跨坐在椅子上，胸膛靠在椅背上，双腿分跨在椅子两侧，双手合拢放在嘴前，左右指尖相碰，指尖触碰嘴唇，手掌相对，双手紧靠，手肘并拢，黑色剪裁西装，黑色正装衬衫，黑色长裤，黑色皮鞋，兽耳，兽尾，尾巴左右摇摆，办公椅，人物周围微弱闪烁效果，闪烁星星，微光，可爱祈求氛围",
+      "en": "solo, full body, front view, white background, simple background, 3::sitting backwards on an office chair, straddling the chair::, 3::chest leaning against the chair backrest, legs spread on both sides of chair::, 4::both hands held together directly in front of mouth::, 4::left and right fingertips touching each other::, fingertips touching lips, palms facing each other, hands close together, elbows close, 2::black tailored suit, black dress shirt, black trousers::, 2::black leather dress shoes::, 2::animal ears::, 2::animal tail, tail swishing side to side::, office chair, 3::small sparkling effects around character::, twinkling stars, tiny glimmers, subtle sparkles, cute pleading atmosphere"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "character_design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T08:26:02.506Z",
+  "model": "unknown-video",
+  "prompt": "制作一张关于\"手冲咖啡\"的高级电影质感制作流程分镜海报。\n\n格式：\n竖向 9:16 编辑风格分镜页，呈现精致的商业美食摄影效果；包含 12 个电影级微距镜头，以整洁的 3 列 × 4 行网格排列。每个分镜格上方为逼真的美食照片，下方为简短的技术分镜说明，涵盖动作、机位、运镜、转场及音效 (SFX) 备注。\n\n标题：\n顶部标题：\n「CFSP-15」\n「POUR-OVER COFFEE」（手冲咖啡）\n副标题：\n「RICHER MOMENTS IN EVERY SIP」（每一口，尽享浓郁）\n右上角：\n「15 Seconds」（15 秒）\n「12 Micro-Shots」（12 个微距镜头）\n\n视觉风格：\n奢华精品咖啡广告，超写实微距美食摄影，浓郁深棕咖啡色调，温暖侧逆光效，浅景深，油亮的 crema 质感，逼真的咖啡粉与银皮碎屑，奶油般绵密的奶泡高光，电影级光影反射，高级广告美学，照片级 8K 细节，专业美食造型，所有分镜中的咖啡豆、器具与成品保持一致。\n\n12 个连续镜头：\n\n01 — 0.0–1.2s — 咖啡之源\n新鲜烘焙的深烘咖啡豆落入黄铜磨豆机料斗，银皮碎屑散落在质朴的木质工作台上。\n动作：咖啡豆落入磨豆机。\n机位：75mm 微距。\n运镜：推镜头（Push-in）。\n转场：匹配剪辑（Match cut）。\n音效：豆粒清脆的碰撞声。\n\n02 — 1.2–2.4s — 研磨\n刀盘高速研磨，深褐色咖啡粉如细沙倾泻而出，扬起一层细微的粉末雾。\n动作：咖啡豆被研磨成均匀粉末。\n机位：90–100mm 微距。\n运镜：围绕出粉口紧凑环绕拍摄。\n转场：挥动式转场（Whip motion）。\n音效：研磨的沙沙声。\n\n03 — 2.4–3.6s — 焖蒸注水\n细口壶的热水以螺旋轨迹注入咖啡粉床，粉层膨胀鼓起（bloom），细密气泡翻涌。\n动作：热水浸润并唤醒咖啡粉。\n机位：50mm 特写。\n运镜：俯仰镜头（向下倾斜）。\n转场：匹配剪辑（Match cut）。\n音效：轻柔的注水声与气泡破裂声。\n\n04 — 3.6–4.8s — 萃取油脂\n浓缩咖啡从冲煮头喷涌而出，深棕色的 crema 油脂在杯中缓慢晕开、反射暖光。\n动作：浓缩咖啡萃取出金黄油脂层。\n机位：50mm 特写。\n运镜：推镜头（Push-in）。\n转场：匹配剪辑（Match cut）。\n音效：萃取的低鸣与油脂滋滋声。\n\n05 — 4.8–6.0s — 奶泡拉花\n打发的绵密奶泡注入杯中，与浓缩咖啡交融，勾勒出细腻对称的拉花纹理。\n动作：奶泡与浓缩交融成形。\n机位：50mm 特写。\n运镜：缓推镜头。\n转场：匹配剪辑（Match cut）。\n音效：奶泡注入的柔和声。\n\n06 — 6.0–7.1s — 顶部点缀\n筛网轻抖，细腻的可可粉如雪般飘落在奶泡表面，形成一层绒面质感。\n动作：可可粉均匀撒落。\n机位：75mm 微距。\n运镜：俯拍缓降。\n转场：匹配剪辑（Match cut）。\n音效：粉末轻拂声。\n\n07 — 7.1–8.3s — 热气氤氲\n袅袅蒸汽从咖啡表面升腾，暖光穿透蒸汽，在杯沿形成一圈柔和光晕。\n动作：热气自然蒸腾。\n机位：50mm 特写。\n运镜：缓慢上摇。\n转场：叠化转场（Dissolve）。\n音效：静谧的环境底噪。\n\n08 — 8.3–9.4s — 端杯\n手指轻触温热的陶瓷杯壁，浅景深下指节与杯身质感清晰，背景虚化。\n动作：手指端起咖啡杯。\n机位：50mm 特写。\n运镜：跟随手部横移。\n转场：匹配剪辑（Match cut）。\n音效：瓷杯轻触台面的轻响。\n\n09 — 9.4–10.6s — 油面掠过\n镜头紧贴液面掠过，crema 表面的油润反光与拉花纹路形成流动的镜面光泽。\n动作：镜头掠过咖啡表面。\n机位：100mm 微距。\n运镜：贴地横移。\n转场：匹配剪辑（Match cut）。\n音效：低沉的弦乐滑音。\n\n10 — 10.6–11.7s — 轻搅\n银勺轻轻搅动咖啡，奶泡与咖啡在杯内旋出优雅的漩涡纹理。\n动作：银勺缓慢搅拌。\n机位：75mm 微距。\n运镜：环绕银勺旋转。\n转场：挥动式转场（Whip motion）。\n音效：银勺碰壁的清脆声。\n\n11 — 11.7–13.0s — 举杯共饮\n咖啡杯被举至唇边，前景虚化的蒸汽与后景暖光勾勒出惬意氛围。\n动作：举杯浅酌。\n机位：35mm 近景。\n运镜：缓推镜头。\n转场：匹配剪辑（Match cut）。\n音效：轻柔的啜饮声。\n\n12 — 13.0–15.0s — 品牌定格\n完整一杯手冲咖啡置于暖光工作台中央，LOGO 与产品名在深棕背景上优雅定格。\n动作：静态定格。\n机位：50mm 中景。\n运镜：缓慢拉远。\n转场：淡出（Fade out）。\n音效：收束的品牌和弦。",
+  "promptTranslations": {
+    "en": "Create a premium cinematic storyboard poster depicting the \"pour-over coffee\" making process.\n\nFormat:\nA vertical 9:16 editorial-style storyboard sheet presenting an exquisite commercial food photography aesthetic; featuring 12 cinematic macro shots arranged in a clean 3-column × 4-row grid. Above each storyboard cell is a realistic culinary photograph, and below is a concise technical storyboard description covering Action, Camera, Movement, Transition, and Sound Effects (SFX) notes.\n\nTitles:\nTop Header:\n\"CFSP-15\"\n\"POUR-OVER COFFEE\"\nSubtitle:\n\"RICHER MOMENTS IN EVERY SIP\"\nTop Right Corner:\n\"15 Seconds\"\n\"12 Micro-Shots\"\n\nVisual Style:\nLuxury specialty coffee commercial, hyper-realistic macro food photography, rich deep-brown coffee tones, warm rim and backlighting, shallow depth of field, glossy crema texture, realistic ground coffee and chaff flecks, creamy microfoam highlights, cinematic light and shadow reflections, high-end advertising aesthetic, photorealistic 8K detail, professional food styling, with coffee beans, equipment, and the finished drink remaining consistent across all frames.\n\n12 Sequential Shots:\n\n01 — 0.0–1.2s — Origin of Coffee\nFreshly roasted dark roast coffee beans tumble into a brass grinder hopper, with chaff flecks scattered across a rustic wooden workbench.\nAction: Coffee beans fall into the grinder.\nCamera: 75mm Macro.\nMovement: Push-in.\nTransition: Match cut.\nSFX: Crisp clatter of coffee beans colliding.\n\n02 — 1.2–2.4s — Grinding\nBurrs grind at high speed as dark brown coffee grounds pour out like fine sand, kicking up a subtle dust mist.\nAction: Coffee beans are ground into an even powder.\nCamera: 90–100mm Macro.\nMovement: Tight orbital pan around the chute.\nTransition: Whip motion.\nSFX: Rustling, crunchy sound of grinding.\n\n03 — 2.4–3.6s — Blooming Pour\nHot water from a gooseneck kettle pours in a spiral pattern over the coffee bed, causing the coffee bed to swell and bloom with bubbling micro-bubbles.\nAction: Hot water saturates and awakens the coffee grounds.\nCamera: 50mm Close-up.\nMovement: Tilt shot (tilting downward).\nTransition: Match cut.\nSFX: Gentle pouring stream and popping bubbles.\n\n04 — 3.6–4.8s — Crema Extraction\nEspresso surges from the group head as deep brown crema slowly blossoms and ripples across the cup, reflecting warm light.\nAction: Espresso extracts a golden layer of crema.\nCamera: 50mm Close-up.\nMovement: Push-in.\nTransition: Match cut.\nSFX: Low extraction hum and sizzling hiss of crema.\n\n05 — 4.8–6.0s — Latte Art Pour\nSteamed velvety microfoam is poured into the cup, mingling with the espresso to shape delicate, symmetrical latte art.\nAction: Milk foam and espresso blend into shape.\nCamera: 50mm Close-up.\nMovement: Slow push-in.\nTransition: Match cut.\nSFX: Soft pouring sound of silky milk foam.\n\n06 — 6.0–7.1s — Top Garnish\nA fine sieve shakes lightly, dusting fine cocoa powder like snow across the foam surface, creating a velvety suede texture.\nAction: Cocoa powder dusted evenly.\nCamera: 75mm Macro.\nMovement: Slow downward boom from a top-down angle.\nTransition: Match cut.\nSFX: Soft whisk of falling powder.\n\n07 — 7.1–8.3s — Lingering Steam\nWafting steam curls up from the coffee surface; warm light pierces through the steam, creating a soft glowing halo around the cup's rim.\nAction: Steam naturally rises.\nCamera: 50mm Close-up.\nMovement: Slow tilt-up.\nTransition: Dissolve.\nSFX: Quiet ambient room tone.\n\n08 — 8.3–9.4s — Lifting the Cup\nFingers lightly touch the warm ceramic cup wall; under shallow depth of field, knuckles and cup texture are sharp, with a softly blurred background.\nAction: Fingers lift the coffee cup.\nCamera: 50mm Close-up.\nMovement: Tracking pan following the hand.\nTransition: Match cut.\nSFX: Faint clink of the ceramic cup touching the tabletop.\n\n09 — 9.4–10.6s — Gliding over Crema\nThe camera glides close across the liquid surface; the glossy reflection on the crema and the latte art patterns create a fluid mirror-like sheen.\nAction: Camera skims across the coffee surface.\nCamera: 100mm Macro.\nMovement: Low-angle tracking pan skimming the surface.\nTransition: Match cut.\nSFX: Low string glissando.\n\n10 — 10.6–11.7s — Gentle Stir\nA silver spoon gently stirs the coffee, swirling the milk foam and coffee into elegant vortex patterns inside the cup.\nAction: Silver spoon slowly stirs.\nCamera: 75mm Macro.\nMovement: Orbiting around the silver spoon.\nTransition: Whip motion.\nSFX: Crisp chime of the silver spoon clinking the cup wall.\n\n11 — 11.7–13.0s — Raising a Cup\nThe coffee cup is brought to the lips; blurred steam in the foreground and warm backlighting craft a cozy, intimate atmosphere.\nAction: Raising the cup for a sip.\nCamera: 35mm Medium close-up.\nMovement: Slow push-in.\nTransition: Match cut.\nSFX: Soft, gentle sipping sound.\n\n12 — 13.0–15.0s — Brand Freeze Frame\nA complete cup of pour-over coffee sits centered on a warm-lit counter, with LOGO and product name elegantly frozen against the deep brown backdrop.\nAction: Static freeze frame.\nCamera: 50mm Medium shot.\nMovement: Slow pull-out.\nTransition: Fade out.\nSFX: Concluding brand chord."
+  },
+  "summaryTranslations": {
+    "en": "A prompt for a 12-frame storyboard poster showcasing a premium cinematic pour-over coffee making process."
+  },
+  "translationVersion": 2,
+  "summary": "高级电影质感手冲咖啡制作流程的12格分镜海报提示词。",
+  "summaryEn": "Prompt for generating a 12-shot cinematic pour-over coffee storyboard poster.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102276867164402042",
+    "canonicalUrl": "https://x.com/XuekaiGao/status/2102276867164402042",
+    "author": {
+      "username": "XuekaiGao",
+      "displayName": "xuekaiGao",
+      "profileUrl": "https://x.com/XuekaiGao"
+    },
+    "publishedAt": "2026-09-22T06:00:38.000Z",
+    "collectedAt": "2026-09-22T08:16:27.776Z",
+    "language": "zh",
+    "originalText": "提示词（Prompt）\n制作一张关于\"手冲咖啡\"的高级电影质感制作流程分镜海报。\n\n格式：\n竖向 9:16 编辑风格分镜页，呈现精致的商业美食摄影效果；包含 12 个电影级微距镜头，以整洁的 3 列 × 4 行网格排列。每个分镜格上方为逼真的美食照片，下方为简短的技术分镜说明，涵盖动作、机位、运镜、转场及音效 (SFX) 备注。\n\n标题：\n顶部标题：\n「CFSP-15」\n「POUR-OVER COFFEE」（手冲咖啡）\n副标题：\n「RICHER MOMENTS IN EVERY SIP」（每一口，尽享浓郁）\n右上角：\n「15 Seconds」（15 秒）\n「12 Micro-Shots」（12 个微距镜头）\n\n视觉风格：\n奢华精品咖啡广告，超写实微距美食摄影，浓郁深棕咖啡色调，温暖侧逆光效，浅景深，油亮的 crema 质感，逼真的咖啡粉与银皮碎屑，奶油般绵密的奶泡高光，电影级光影反射，高级广告美学，照片级 8K 细节，专业美食造型，所有分镜中的咖啡豆、器具与成品保持一致。\n\n12 个连续镜头：\n\n01 — 0.0–1.2s — 咖啡之源\n新鲜烘焙的深烘咖啡豆落入黄铜磨豆机料斗，银皮碎屑散落在质朴的木质工作台上。\n动作：咖啡豆落入磨豆机。\n机位：75mm 微距。\n运镜：推镜头（Push-in）。\n转场：匹配剪辑（Match cut）。\n音效：豆粒清脆的碰撞声。\n\n02 — 1.2–2.4s — 研磨\n刀盘高速研磨，深褐色咖啡粉如细沙倾泻而出，扬起一层细微的粉末雾。\n动作：咖啡豆被研磨成均匀粉末。\n机位：90–100mm 微距。\n运镜：围绕出粉口紧凑环绕拍摄。\n转场：挥动式转场（Whip motion）。\n音效：研磨的沙沙声。\n\n03 — 2.4–3.6s — 焖蒸注水\n细口壶的热水以螺旋轨迹注入咖啡粉床，粉层膨胀鼓起（bloom），细密气泡翻涌。\n动作：热水浸润并唤醒咖啡粉。\n机位：50mm 特写。\n运镜：俯仰镜头（向下倾斜）。\n转场：匹配剪辑（Match cut）。\n音效：轻柔的注水声与气泡破裂声。\n\n04 — 3.6–4.8s — 萃取油脂\n浓缩咖啡从冲煮头喷涌而出，深棕色的 crema 油脂在杯中缓慢晕开、反射暖光。\n动作：浓缩咖啡萃取出金黄油脂层。\n机位：50mm 特写。\n运镜：推镜头（Push-in）。\n转场：匹配剪辑（Match cut）。\n音效：萃取的低鸣与油脂滋滋声。\n\n05 — 4.8–6.0s — 奶泡拉花\n打发的绵密奶泡注入杯中，与浓缩咖啡交融，勾勒出细腻对称的拉花纹理。\n动作：奶泡与浓缩交融成形。\n机位：50mm 特写。\n运镜：缓推镜头。\n转场：匹配剪辑（Match cut）。\n音效：奶泡注入的柔和声。\n\n06 — 6.0–7.1s — 顶部点缀\n筛网轻抖，细腻的可可粉如雪般飘落在奶泡表面，形成一层绒面质感。\n动作：可可粉均匀撒落。\n机位：75mm 微距。\n运镜：俯拍缓降。\n转场：匹配剪辑（Match cut）。\n音效：粉末轻拂声。\n\n07 — 7.1–8.3s — 热气氤氲\n袅袅蒸汽从咖啡表面升腾，暖光穿透蒸汽，在杯沿形成一圈柔和光晕。\n动作：热气自然蒸腾。\n机位：50mm 特写。\n运镜：缓慢上摇。\n转场：叠化转场（Dissolve）。\n音效：静谧的环境底噪。\n\n08 — 8.3–9.4s — 端杯\n手指轻触温热的陶瓷杯壁，浅景深下指节与杯身质感清晰，背景虚化。\n动作：手指端起咖啡杯。\n机位：50mm 特写。\n运镜：跟随手部横移。\n转场：匹配剪辑（Match cut）。\n音效：瓷杯轻触台面的轻响。\n\n09 — 9.4–10.6s — 油面掠过\n镜头紧贴液面掠过，crema 表面的油润反光与拉花纹路形成流动的镜面光泽。\n动作：镜头掠过咖啡表面。\n机位：100mm 微距。\n运镜：贴地横移。\n转场：匹配剪辑（Match cut）。\n音效：低沉的弦乐滑音。\n\n10 — 10.6–11.7s — 轻搅\n银勺轻轻搅动咖啡，奶泡与咖啡在杯内旋出优雅的漩涡纹理。\n动作：银勺缓慢搅拌。\n机位：75mm 微距。\n运镜：环绕银勺旋转。\n转场：挥动式转场（Whip motion）。\n音效：银勺碰壁的清脆声。\n\n11 — 11.7–13.0s — 举杯共饮\n咖啡杯被举至唇边，前景虚化的蒸汽与后景暖光勾勒出惬意氛围。\n动作：举杯浅酌。\n机位：35mm 近景。\n运镜：缓推镜头。\n转场：匹配剪辑（Match cut）。\n音效：轻柔的啜饮声。\n\n12 — 13.0–15.0s — 品牌定格\n完整一杯手冲咖啡置于暖光工作台中央，LOGO 与产品名在深棕背景上优雅定格。\n动作：静态定格。\n机位：50mm 中景。\n运镜：缓慢拉远。\n转场：淡出（Fade out）。\n音效：收束的品牌和弦。",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/XuekaiGao/status/2102276867164402042",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102276733802344450/img/ZhF2sbJzxpGpN3kI.jpg",
+        "analysisUrl": "https://x.com/XuekaiGao/status/2102276867164402042"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSzJkaKacAAoxSE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSzJkaKacAAoxSE.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 60
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/XuekaiGao/status/2102276867164402042",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102276733802344450/img/ZhF2sbJzxpGpN3kI.jpg",
+  "coverPath": "covers/2102276867164402042.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102276733802344450",
+    "x-image:/media/HSzJkaKacAAoxSE",
+    "x-post:2102276867164402042"
+  ],
+  "analysis": {
+    "summary": "高级电影质感手冲咖啡制作流程的12格分镜海报提示词。",
+    "summaryEn": "Prompt for generating a 12-shot cinematic pour-over coffee storyboard poster.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "附带海报完全按提示词设定的 3x4 网格、标题排版及手冲咖啡各步骤微距细节呈现。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张关于\"手冲咖啡\"的高级电影质感制作流程分镜海报。\n\n格式：\n竖向 9:16 编辑风格分镜页，呈现精致的商业美食摄影效果；包含 12 个电影级微距镜头，以整洁的 3 列 × 4 行网格排列。每个分镜格上方为逼真的美食照片，下方为简短的技术分镜说明，涵盖动作、机位、运镜、转场及音效 (SFX) 备注。\n\n标题：\n顶部标题：\n「CFSP-15」\n「POUR-OVER COFFEE」（手冲咖啡）\n副标题：\n「RICHER MOMENTS IN EVERY SIP」（每一口，尽享浓郁）\n右上角：\n「15 Seconds」（15 秒）\n「12 Micro-Shots」（12 个微距镜头）\n\n视觉风格：\n奢华精品咖啡广告，超写实微距美食摄影，浓郁深棕咖啡色调，温暖侧逆光效，浅景深，油亮的 crema 质感，逼真的咖啡粉与银皮碎屑，奶油般绵密的奶泡高光，电影级光影反射，高级广告美学，照片级 8K 细节，专业美食造型，所有分镜中的咖啡豆、器具与成品保持一致。\n\n12 个连续镜头：\n\n01 — 0.0–1.2s — 咖啡之源\n新鲜烘焙的深烘咖啡豆落入黄铜磨豆机料斗，银皮碎屑散落在质朴的木质工作台上。\n动作：咖啡豆落入磨豆机。\n机位：75mm 微距。\n运镜：推镜头（Push-in）。\n转场：匹配剪辑（Match cut）。\n音效：豆粒清脆的碰撞声。\n\n02 — 1.2–2.4s — 研磨\n刀盘高速研磨，深褐色咖啡粉如细沙倾泻而出，扬起一层细微的粉末雾。\n动作：咖啡豆被研磨成均匀粉末。\n机位：90–100mm 微距。\n运镜：围绕出粉口紧凑环绕拍摄。\n转场：挥动式转场（Whip motion）。\n音效：研磨的沙沙声。\n\n03 — 2.4–3.6s — 焖蒸注水\n细口壶的热水以螺旋轨迹注入咖啡粉床，粉层膨胀鼓起（bloom），细密气泡翻涌。\n动作：热水浸润并唤醒咖啡粉。\n机位：50mm 特写。\n运镜：俯仰镜头（向下倾斜）。\n转场：匹配剪辑（Match cut）。\n音效：轻柔的注水声与气泡破裂声。\n\n04 — 3.6–4.8s — 萃取油脂\n浓缩咖啡从冲煮头喷涌而出，深棕色的 crema 油脂在杯中缓慢晕开、反射暖光。\n动作：浓缩咖啡萃取出金黄油脂层。\n机位：50mm 特写。\n运镜：推镜头（Push-in）。\n转场：匹配剪辑（Match cut）。\n音效：萃取的低鸣与油脂滋滋声。\n\n05 — 4.8–6.0s — 奶泡拉花\n打发的绵密奶泡注入杯中，与浓缩咖啡交融，勾勒出细腻对称的拉花纹理。\n动作：奶泡与浓缩交融成形。\n机位：50mm 特写。\n运镜：缓推镜头。\n转场：匹配剪辑（Match cut）。\n音效：奶泡注入的柔和声。\n\n06 — 6.0–7.1s — 顶部点缀\n筛网轻抖，细腻的可可粉如雪般飘落在奶泡表面，形成一层绒面质感。\n动作：可可粉均匀撒落。\n机位：75mm 微距。\n运镜：俯拍缓降。\n转场：匹配剪辑（Match cut）。\n音效：粉末轻拂声。\n\n07 — 7.1–8.3s — 热气氤氲\n袅袅蒸汽从咖啡表面升腾，暖光穿透蒸汽，在杯沿形成一圈柔和光晕。\n动作：热气自然蒸腾。\n机位：50mm 特写。\n运镜：缓慢上摇。\n转场：叠化转场（Dissolve）。\n音效：静谧的环境底噪。\n\n08 — 8.3–9.4s — 端杯\n手指轻触温热的陶瓷杯壁，浅景深下指节与杯身质感清晰，背景虚化。\n动作：手指端起咖啡杯。\n机位：50mm 特写。\n运镜：跟随手部横移。\n转场：匹配剪辑（Match cut）。\n音效：瓷杯轻触台面的轻响。\n\n09 — 9.4–10.6s — 油面掠过\n镜头紧贴液面掠过，crema 表面的油润反光与拉花纹路形成流动的镜面光泽。\n动作：镜头掠过咖啡表面。\n机位：100mm 微距。\n运镜：贴地横移。\n转场：匹配剪辑（Match cut）。\n音效：低沉的弦乐滑音。\n\n10 — 10.6–11.7s — 轻搅\n银勺轻轻搅动咖啡，奶泡与咖啡在杯内旋出优雅的漩涡纹理。\n动作：银勺缓慢搅拌。\n机位：75mm 微距。\n运镜：环绕银勺旋转。\n转场：挥动式转场（Whip motion）。\n音效：银勺碰壁的清脆声。\n\n11 — 11.7–13.0s — 举杯共饮\n咖啡杯被举至唇边，前景虚化的蒸汽与后景暖光勾勒出惬意氛围。\n动作：举杯浅酌。\n机位：35mm 近景。\n运镜：缓推镜头。\n转场：匹配剪辑（Match cut）。\n音效：轻柔的啜饮声。\n\n12 — 13.0–15.0s — 品牌定格\n完整一杯手冲咖啡置于暖光工作台中央，LOGO 与产品名在深棕背景上优雅定格。\n动作：静态定格。\n机位：50mm 中景。\n运镜：缓慢拉远。\n转场：淡出（Fade out）。\n音效：收束的品牌和弦。",
+    "sourceRange": {
+      "start": 12,
+      "end": 1972
+    },
+    "translations": {
+      "zh": "制作一张关于\"手冲咖啡\"的高级电影质感制作流程分镜海报，9:16版式，含12个3x4网格微距分镜及文字说明。",
+      "en": "Create a high-end cinematic storyboard poster for pour-over coffee in a 9:16 layout, featuring 12 micro-shots arranged in a 3x4 grid with technical shot notes."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "手冲咖啡商业分镜海报设计",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

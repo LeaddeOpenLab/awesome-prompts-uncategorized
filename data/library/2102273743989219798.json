@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T08:27:32.934Z",
+  "model": "kling",
+  "prompt": "Ultra-realistic cinematic fantasy portrait of a beautiful young woman with long flowing icy-white/silver hair, striking crystal-blue eyes, delicate facial features, soft natural pink lips, and luminous fair skin. She wears an elegant futuristic icy-blue dress with intricate silver embroidery and subtle glowing details. Dark magical blue background filled with floating luminous particles and dreamy bokeh lights, cool ethereal lighting, soft rim light highlighting her hair, intense eye contact with the camera, highly detailed hair strands and realistic skin texture, elegant fantasy atmosphere, shallow depth of field, creamy bokeh, professional editorial photography, 85mm lens, f/1.4, HDR, 8K, photorealistic, vertical 9:16 composition.",
+  "promptTranslations": {
+    "en": "Ultra-realistic cinematic fantasy portrait of a beautiful young woman with long flowing icy-white/silver hair, striking crystal-blue eyes, delicate facial features, soft natural pink lips, and luminous fair skin. She wears an elegant futuristic icy-blue dress with intricate silver embroidery and subtle glowing details. Dark magical blue background filled with floating luminous particles and dreamy bokeh lights, cool ethereal lighting, soft rim light highlighting her hair, intense eye contact with the camera, highly detailed hair strands and realistic skin texture, elegant fantasy atmosphere, shallow depth of field, creamy bokeh, professional editorial photography, 85mm lens, f/1.4, HDR, 8K, photorealistic, vertical 9:16 composition."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic portrait of an icy-blue fantasy woman with silver hair and luminous glowing elements."
+  },
+  "translationVersion": 2,
+  "summary": "Cinematic portrait of an icy-blue fantasy woman with silver hair and luminous glowing elements.",
+  "summaryEn": "Cinematic portrait of an icy-blue fantasy woman with silver hair and luminous glowing elements.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102273743989219798",
+    "canonicalUrl": "https://x.com/AIwithMinal/status/2102273743989219798",
+    "author": {
+      "username": "AIwithMinal",
+      "displayName": "AIwithMinal",
+      "profileUrl": "https://x.com/AIwithMinal"
+    },
+    "publishedAt": "2026-09-22T05:48:13.000Z",
+    "collectedAt": "2026-09-22T08:16:27.776Z",
+    "language": "en",
+    "originalText": "A vision in blue, glowing with icy beauty and a touch of fantasy magic. \n\nCreated with kling 3.0\n\nPrompt:\n\nUltra-realistic cinematic fantasy portrait of a beautiful young woman with long flowing icy-white/silver hair, striking crystal-blue eyes, delicate facial features, soft natural pink lips, and luminous fair skin. She wears an elegant futuristic icy-blue dress with intricate silver embroidery and subtle glowing details. Dark magical blue background filled with floating luminous particles and dreamy bokeh lights, cool ethereal lighting, soft rim light highlighting her hair, intense eye contact with the camera, highly detailed hair strands and realistic skin texture, elegant fantasy atmosphere, shallow depth of field, creamy bokeh, professional editorial photography, 85mm lens, f/1.4, HDR, 8K, photorealistic, vertical 9:16 composition.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AIwithMinal/status/2102273743989219798",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102273402669309953/img/ZwszyyMpZfTzIxBs.jpg",
+        "analysisUrl": "https://x.com/AIwithMinal/status/2102273743989219798"
+      }
+    ],
+    "metrics": {
+      "likeCount": 13,
+      "repostCount": 0,
+      "replyCount": 11,
+      "quoteCount": 0,
+      "viewCount": 391
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AIwithMinal/status/2102273743989219798",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102273402669309953/img/ZwszyyMpZfTzIxBs.jpg",
+  "coverPath": "covers/2102273743989219798.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102273402669309953",
+    "x-post:2102273743989219798"
+  ],
+  "analysis": {
+    "summary": "Cinematic portrait of an icy-blue fantasy woman with silver hair and luminous glowing elements.",
+    "summaryEn": "Cinematic portrait of an icy-blue fantasy woman with silver hair and luminous glowing elements.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The media showcases the silver-haired young woman in an icy-blue dress against a dark bokeh background matching the prompt elements."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic cinematic fantasy portrait of a beautiful young woman with long flowing icy-white/silver hair, striking crystal-blue eyes, delicate facial features, soft natural pink lips, and luminous fair skin. She wears an elegant futuristic icy-blue dress with intricate silver embroidery and subtle glowing details. Dark magical blue background filled with floating luminous particles and dreamy bokeh lights, cool ethereal lighting, soft rim light highlighting her hair, intense eye contact with the camera, highly detailed hair strands and realistic skin texture, elegant fantasy atmosphere, shallow depth of field, creamy bokeh, professional editorial photography, 85mm lens, f/1.4, HDR, 8K, photorealistic, vertical 9:16 composition.",
+    "sourceRange": {
+      "start": 107,
+      "end": 849
+    },
+    "translations": {
+      "zh": "超写实电影感奇幻女性肖像，白银长发，晶蓝双眸，着未来风冰蓝刺绣发光礼服，暗蓝微光粒子背景，空灵光影与精致细节。",
+      "en": "Ultra-realistic cinematic fantasy portrait of a woman with icy silver hair, blue eyes, futuristic icy-blue dress, and glowing bokeh background."
+    },
+    "targetModels": [
+      "kling"
+    ],
+    "category": "text-to-video",
+    "useCase": "Portrait video generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

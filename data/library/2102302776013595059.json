@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T08:27:28.510Z",
+  "model": "unknown-image",
+  "prompt": "现代高层写字楼内部，透明玻璃地板与天花板，从下层透过玻璃向上仰视拍摄。大量年轻职场女性，部分坐在办公桌前，部分站立交谈或行走。窗外是城市天际线，室内光线明亮洁净，白色吊顶与日光灯。超写实摄影，低角度广角构图，层次丰富，细节精细，电影质感。",
+  "promptTranslations": {
+    "en": "Interior of a modern high-rise office building, with transparent glass floors and ceilings, shot looking upward through the glass from the lower level. A large number of young professional women, some sitting at office desks, others standing, chatting, or walking. Outside the window is a city skyline, with bright and clean indoor lighting, white suspended ceilings, and fluorescent lights. Ultra-realistic photography, low-angle wide-angle composition, rich layers, exquisite details, cinematic texture."
+  },
+  "summaryTranslations": {
+    "en": "An upward-angle perspective of a high-rise office building with fully transparent glass floors, showcasing professional women working and walking around."
+  },
+  "translationVersion": 2,
+  "summary": "全透明玻璃地板高层写字楼仰拍视角，展现职场女性办公走动的场景。",
+  "summaryEn": "Low-angle shot through transparent glass floors in a high-rise office featuring businesswomen.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102302776013595059",
+    "canonicalUrl": "https://x.com/MrGafish/status/2102302776013595059",
+    "author": {
+      "username": "MrGafish",
+      "displayName": "鱼哥",
+      "profileUrl": "https://x.com/MrGafish"
+    },
+    "publishedAt": "2026-09-22T07:43:35.000Z",
+    "collectedAt": "2026-09-22T08:16:27.776Z",
+    "language": "zh",
+    "originalText": "如果办公室全是玻璃会怎么样？\n\nPrompt:\n现代高层写字楼内部，透明玻璃地板与天花板，从下层透过玻璃向上仰视拍摄。大量年轻职场女性，部分坐在办公桌前，部分站立交谈或行走。窗外是城市天际线，室内光线明亮洁净，白色吊顶与日光灯。超写实摄影，低角度广角构图，层次丰富，细节精细，电影质感。 https://t.co/xkiKCKJU8f",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSzg5MRaoAEaYfE.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSzg5MRaoAEaYfE.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSzg_GSbIAAXA-6.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSzg_GSbIAAXA-6.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 4,
+      "quoteCount": 0,
+      "viewCount": 437
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MrGafish/status/2102302776013595059",
+  "coverUrl": "https://pbs.twimg.com/media/HSzg5MRaoAEaYfE.jpg",
+  "coverPath": "images/2102302776013595059-1.jpg",
+  "imagePaths": [
+    "images/2102302776013595059-1.jpg",
+    "images/2102302776013595059-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSzg5MRaoAEaYfE",
+    "x-image:/media/HSzg_GSbIAAXA-6",
+    "x-post:2102302776013595059"
+  ],
+  "analysis": {
+    "summary": "全透明玻璃地板高层写字楼仰拍视角，展现职场女性办公走动的场景。",
+    "summaryEn": "Low-angle shot through transparent glass floors in a high-rise office featuring businesswomen.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图像呈现全透明玻璃地板、仰视视角、身穿正装的职场女性以及窗外现代写字楼天际线，与描述完全契合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "现代高层写字楼内部，透明玻璃地板与天花板，从下层透过玻璃向上仰视拍摄。大量年轻职场女性，部分坐在办公桌前，部分站立交谈或行走。窗外是城市天际线，室内光线明亮洁净，白色吊顶与日光灯。超写实摄影，低角度广角构图，层次丰富，细节精细，电影质感。",
+    "sourceRange": {
+      "start": 24,
+      "end": 143
+    },
+    "translations": {
+      "zh": "现代高层写字楼内部，透明玻璃地板与天花板，从下层透过玻璃向上仰视拍摄。大量年轻职场女性，部分坐在办公桌前，部分站立交谈或行走。窗外是城市天际线，室内光线明亮洁净，白色吊顶与日光灯。超写实摄影，低角度广角构图，层次丰富，细节精细，电影质感。",
+      "en": "Modern high-rise office interior, transparent glass floor and ceiling, upward low-angle shot from the lower level through the glass. Many young businesswomen, some seated at desks, others standing, talking, or walking. City skyline outside, bright clean indoor lighting, white ceilings and fluorescent lamps. Photorealistic photography, low-angle wide shot, cinematic feel."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "低角度玻璃地面写字楼场景概念图生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "nsfw_suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

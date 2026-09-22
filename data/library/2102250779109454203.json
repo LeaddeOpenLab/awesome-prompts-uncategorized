@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T08:24:53.873Z",
+  "model": "unknown-video",
+  "prompt": "真人电影实拍质感，东方暗黑奇幻武侠，35mm ARRI电影摄影风格，16:9，8K，真实皮肤毛孔、布料褶皱、发丝运动与物理碰撞。血月暗红主光，紫红黑金能量，冷峻电影调色，适度胶片颗粒，拒绝塑料皮肤、CG模型感、过度泛光。保持人物、武器、服装和空间方向连续。\n\n【时间轴】\n\n00.0–02.5s｜血月压境\n极远景，高速升轨环绕悬崖尖端女子，血红巨月在背景迅速放大。女子侧身站立，骨扇遮面，右膝抬起，衣裙与长发被狂风卷动。紫红黑金烟气从周身聚拢扩散，电弧与粒子随风飞散，展现悬崖深度。\n\n02.5–04.5s｜扇后之眼\n镜头极速推至面部特写，骨扇缓缓下移，露出冷冽凤眼，瞳孔映出血月金红反光，眼尾溢出细长能量烟气，嘴角微扬。镜头短暂停稳，强化人物压迫感。\n\n04.5–06.5s｜纵身坠落\n高空侧后方跟拍，女子跃出悬崖并垂直加速下坠，长发、衣摆与能量尾迹受惯性拖曳，身后形成百米紫红黑金气焰与压缩气浪。摄影机沿下坠方向高速俯冲。\n\n06.5–08.0s｜剑起水裂\n崖底水潭低机位，男子踏碎水膜，水花飞溅，拔剑向上斜斩。剑锋迸发青白电弧与水汽，镜头短促前推，建立剑锋与高空来袭者的空间关系。\n\n08.0–10.0s｜骨扇撞剑\n女子俯冲挥扇，与男子上挑长剑正面碰撞。青白电弧和紫红黑金烟气沿接触点爆发，冲击波压低水面后炸起环形水花。镜头剧烈震荡，短暂闪白抽帧后恢复连续动作。\n\n10.0–12.5s｜近身攻防\n摄影机高速半圆环绕，两人连续变招。男子挥剑斜劈，女子旋身以骨扇格挡引偏剑锋，双方交替变换身位。火花沿碰撞方向飞散，脚步踩出水痕，动作清晰连贯。\n\n12.5–14.0s｜借势重踹\n女子借男子挥剑后的失衡跃起，凌空一脚踹中其面部。镜头侧面跟随，碰撞瞬间短暂定格，男子头部偏转、身体后退，水珠与少量血迹沿冲击方向散开，避免肢体变形。\n\n14.0–17.0s｜骨扇化阵\n女子腾空结印，身后骨扇从能量涡流中层层生成，扩展成覆盖天空的巨大扇阵。扇骨逐一延伸出尖锐骨针，阵列旋转，紫红黑金能量沿骨架流动，形成压迫性的空间层次。\n\n17.0–19.0s｜万针锁定\n高空超广角俯视，密集骨针停止旋转并统一调转针尖，精准锁定崖底男子。镜头沿骨针阵列移动，男子仰望天空，骨针短暂停滞0.2秒，制造大招释放前的窒息感。\n\n19.0–20.5s｜指令落下\n女子悬浮血月前，双指指向下方，指尖凝聚紫红黑金能量，环形冲击波扩散并推动周围烟气，镜头缓慢推近，强化释放前摇。\n\n20.5–22.5s｜绝境凝视\n男子面部极近景，眉头紧锁，眼尾泪水滑落。瞳孔倒映遮天骨针阵列与血月，皮肤、水珠和细小伤痕真实可见，远处轰鸣逐渐增强。\n\n22.5–25.5s｜骨针暴雨\n亿万骨针如白色流星暴雨俯冲而下，穿透空气形成压缩气浪，轰击崖底。男子被冲击掀翻，地表裂开并塌陷成深坑，水花、碎石和泥土向外爆散，紫红黑金烟雾翻涌升腾。短暂闪白与震动强化毁灭冲击。\n\n25.5–28.5s｜血月余烬\n镜头从深坑缓慢后拉升高，烟尘散去，女子在远处血月前呈冷峻剪影，骨扇阵列逐渐消散，能量归于寂静。最终保留女子、深坑与血月的宏大构图，形成悬念收尾。\n\n【约束】\n保持人物身份、服装、发型、武器和空间方向一致；骨针必须由骨扇生成，能量具备明确来源和运动方向。禁止人物瞬移、武器消失、骨针乱飞、肢体畸变、重复人物、额外文字、UI界面及过度泛光。",
+  "promptTranslations": {
+    "en": "Live-action feature film texture, Eastern dark fantasy wuxia, 35mm ARRI cinematography style, 16:9, 8K, realistic skin pores, fabric folds, hair dynamics, and physical collisions. Dark red key light from a blood moon, purplish-red and black-gold energy, grim cinematic color grading, moderate film grain, avoiding plastic skin, CG model appearance, and excessive blooming. Maintain continuity in characters, weapons, costumes, and spatial orientation.\n\n[Timeline]\n\n00.0–02.5s | Blood Moon Descends\nExtreme long shot, high-speed overcrank orbit around a woman perched on a cliff edge, with a gigantic blood-red moon rapidly magnifying in the background. The woman stands in profile, face veiled by a bone fan, right knee raised, her robes and long hair whipped by violent winds. Purplish-red and black-gold mist gathers and disperses around her body, while electric arcs and particles scatter with the gale, showcasing the cliff's depth.\n\n02.5–04.5s | Eyes Behind the Fan\nThe camera rapidly pushes in to an extreme facial close-up; the bone fan slowly lowers, revealing chilling phoenix eyes. The pupils reflect the golden-red glow of the blood moon, slender wisps of energy mist spill from the outer corners of her eyes, and the corners of her mouth slightly curve up. The camera pauses briefly to establish an intense aura of menace.\n\n04.5–06.5s | The Plunge\nHigh-angle lateral-rear tracking shot; the woman leaps off the cliff and plunges in a vertical accelerated dive. Long hair, hem of the dress, and energy trails are dragged by inertia, forming a hundred-meter aura of purplish-red and black-gold flame with compressed shockwaves behind her. The camera dives downward at high velocity alongside her fall.\n\n06.5–08.0s | Sword Rises, Water Shatters\nLow-angle shot from a pool at the bottom of the cliff; a man stomps through the water surface, sending splashes flying, and unsheathes his sword in an upward diagonal slash. Cyan-white electric arcs and water vapor burst from the blade. A swift push-in establishes the spatial relationship between the sword edge and the airborne attacker.\n\n08.0–10.0s | Bone Fan Clashes with Sword\nThe diving woman swings her fan, colliding head-on with the man's upward thrusting longsword. Cyan-white arcs and purplish-red and black-gold mist detonate outward from the contact point, the shockwave depressing the water surface before blasting into a circular ring of water splashes. The camera shakes violently, followed by a brief white-flash frame stutter before resuming continuous motion.\n\n10.0–12.5s | Close-Quarters Exchange\nThe camera orbits rapidly in a semi-circle as both switch maneuvers in rapid succession. The man executes a diagonal slash; the woman spins, deflecting the blade tip with her bone fan, both constantly alternating positions. Sparks fly along the points of impact, footsteps leave ripples on the water, actions distinct and continuous.\n\n12.5–14.0s | Counter-Kick\nTaking advantage of the man's off-balance recovery after his swing, the woman leaps and delivers a mid-air direct kick to his face. The camera tracks laterally; the moment of impact holds for a micro-freeze, the man's head jerks back, his body stumbles backward, and water droplets with a trace of blood spray along the impact trajectory, avoiding limb deformation.\n\n14.0–17.0s | The Fan Formation\nThe woman hovers mid-air forming hand seals. Layer upon layer of bone fans manifest from an energy vortex behind her, expanding into a massive formation that blots out the sky. Needle-sharp bone spikes extend from each fan rib, the array rotating as purplish-red and black-gold energy flows along the bone armatures, forming an oppressive spatial hierarchy.\n\n17.0–19.0s | Target Lock\nHigh-angle ultra-wide top-down view; the dense array of bone needles ceases spinning and synchronizes, pointing their tips straight down, locking precisely onto the man at the ravine floor. The camera tracks along the needle array; the man gazes up at the sky. The bone needles freeze for 0.2 seconds, inducing a suffocating suspense before the ultimate release.\n\n19.0–20.5s | The Command Falls\nThe woman hovers before the blood moon, pointing two fingers downward. Purplish-red and black-gold energy condenses at her fingertips, a circular shockwave dispersing outward and pushing away the surrounding mist. The camera slowly pushes in, intensifying the wind-up of the strike.\n\n20.5–22.5s | Gaze of Despair\nExtreme close-up of the man's face, brows tightly knit, a tear slipping from the corner of his eye. His pupils reflect the sky-covering bone needle formation and the blood moon; skin texture, beads of sweat/water, and fine cuts are clearly visible as a distant roar gradually mounts.\n\n22.5–25.5s | Bone Needle Tempest\nMyriads of bone needles dive like a white meteor storm, piercing the air to create compressed shockwaves and bombarding the cliff floor. The man is blown back by the concussive force; the ground fractures and caves into a deep crater, water, rubble, and soil erupting outward, while purplish-red and black-gold smoke billows up. Brief flashes of white and violent screen tremors accentuate the devastating impact.\n\n25.5–28.5s | Embers of the Blood Moon\nThe camera slowly pulls back and cranes up from the crater. As the smoke and dust settle, the woman stands as a cold silhouette against the distant blood moon. The bone fan formation steadily dissipates, and the energy fades into silence. The final wide composition settles on the woman, the crater, and the blood moon, leaving a suspenseful denouement.\n\n[Constraints]\nMaintain consistency in character identity, costume, hairstyle, weapons, and spatial orientation; bone needles must be spawned from the bone fan, with energy possessing clear origins and vectors of motion. Avoid character teleportation, disappearing weapons, erratic bone needles, limb distortion, duplicated characters, extra text, UI elements, and excessive blooming."
+  },
+  "summaryTranslations": {
+    "en": "Eastern Dark Wuxia Blood Moon Fight Storyboard Prompt, detailing the chronological action sequence of the bone-fan woman and the swordsman from their cliff confrontation to the descent of ten thousand needles."
+  },
+  "translationVersion": 2,
+  "summary": "东方暗黑武侠风格的血月打斗分镜提示词，细化了骨扇女与执剑男从悬崖对冲到万针归宗的时间轴动作。",
+  "summaryEn": "Detailed timeline prompt for an Eastern dark wuxia duel featuring a bone-fan heroine against a swordsman beneath a blood moon.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102250779109454203",
+    "canonicalUrl": "https://x.com/GrayNoteLab/status/2102250779109454203",
+    "author": {
+      "username": "GrayNoteLab",
+      "displayName": "灰度笔记",
+      "profileUrl": "https://x.com/GrayNoteLab"
+    },
+    "publishedAt": "2026-09-22T04:16:58.000Z",
+    "collectedAt": "2026-09-22T08:16:27.776Z",
+    "language": "zh",
+    "originalText": "准备好迎接小魔女的万剑归宗了吗🥳\n\n4k60帧高燃打斗提示词prompt：\n\n真人电影实拍质感，东方暗黑奇幻武侠，35mm ARRI电影摄影风格，16:9，8K，真实皮肤毛孔、布料褶皱、发丝运动与物理碰撞。血月暗红主光，紫红黑金能量，冷峻电影调色，适度胶片颗粒，拒绝塑料皮肤、CG模型感、过度泛光。保持人物、武器、服装和空间方向连续。\n\n【时间轴】\n\n00.0–02.5s｜血月压境\n极远景，高速升轨环绕悬崖尖端女子，血红巨月在背景迅速放大。女子侧身站立，骨扇遮面，右膝抬起，衣裙与长发被狂风卷动。紫红黑金烟气从周身聚拢扩散，电弧与粒子随风飞散，展现悬崖深度。\n\n02.5–04.5s｜扇后之眼\n镜头极速推至面部特写，骨扇缓缓下移，露出冷冽凤眼，瞳孔映出血月金红反光，眼尾溢出细长能量烟气，嘴角微扬。镜头短暂停稳，强化人物压迫感。\n\n04.5–06.5s｜纵身坠落\n高空侧后方跟拍，女子跃出悬崖并垂直加速下坠，长发、衣摆与能量尾迹受惯性拖曳，身后形成百米紫红黑金气焰与压缩气浪。摄影机沿下坠方向高速俯冲。\n\n06.5–08.0s｜剑起水裂\n崖底水潭低机位，男子踏碎水膜，水花飞溅，拔剑向上斜斩。剑锋迸发青白电弧与水汽，镜头短促前推，建立剑锋与高空来袭者的空间关系。\n\n08.0–10.0s｜骨扇撞剑\n女子俯冲挥扇，与男子上挑长剑正面碰撞。青白电弧和紫红黑金烟气沿接触点爆发，冲击波压低水面后炸起环形水花。镜头剧烈震荡，短暂闪白抽帧后恢复连续动作。\n\n10.0–12.5s｜近身攻防\n摄影机高速半圆环绕，两人连续变招。男子挥剑斜劈，女子旋身以骨扇格挡引偏剑锋，双方交替变换身位。火花沿碰撞方向飞散，脚步踩出水痕，动作清晰连贯。\n\n12.5–14.0s｜借势重踹\n女子借男子挥剑后的失衡跃起，凌空一脚踹中其面部。镜头侧面跟随，碰撞瞬间短暂定格，男子头部偏转、身体后退，水珠与少量血迹沿冲击方向散开，避免肢体变形。\n\n14.0–17.0s｜骨扇化阵\n女子腾空结印，身后骨扇从能量涡流中层层生成，扩展成覆盖天空的巨大扇阵。扇骨逐一延伸出尖锐骨针，阵列旋转，紫红黑金能量沿骨架流动，形成压迫性的空间层次。\n\n17.0–19.0s｜万针锁定\n高空超广角俯视，密集骨针停止旋转并统一调转针尖，精准锁定崖底男子。镜头沿骨针阵列移动，男子仰望天空，骨针短暂停滞0.2秒，制造大招释放前的窒息感。\n\n19.0–20.5s｜指令落下\n女子悬浮血月前，双指指向下方，指尖凝聚紫红黑金能量，环形冲击波扩散并推动周围烟气，镜头缓慢推近，强化释放前摇。\n\n20.5–22.5s｜绝境凝视\n男子面部极近景，眉头紧锁，眼尾泪水滑落。瞳孔倒映遮天骨针阵列与血月，皮肤、水珠和细小伤痕真实可见，远处轰鸣逐渐增强。\n\n22.5–25.5s｜骨针暴雨\n亿万骨针如白色流星暴雨俯冲而下，穿透空气形成压缩气浪，轰击崖底。男子被冲击掀翻，地表裂开并塌陷成深坑，水花、碎石和泥土向外爆散，紫红黑金烟雾翻涌升腾。短暂闪白与震动强化毁灭冲击。\n\n25.5–28.5s｜血月余烬\n镜头从深坑缓慢后拉升高，烟尘散去，女子在远处血月前呈冷峻剪影，骨扇阵列逐渐消散，能量归于寂静。最终保留女子、深坑与血月的宏大构图，形成悬念收尾。\n\n【约束】\n保持人物身份、服装、发型、武器和空间方向一致；骨针必须由骨扇生成，能量具备明确来源和运动方向。禁止人物瞬移、武器消失、骨针乱飞、肢体畸变、重复人物、额外文字、UI界面及过度泛光。\n\nps：最好是搭配角色卡效果更棒～",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/GrayNoteLab/status/2102250779109454203",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102250382676389888/img/Lk5M1yyNh3BOItFh.jpg",
+        "analysisUrl": "https://x.com/GrayNoteLab/status/2102250779109454203"
+      }
+    ],
+    "metrics": {
+      "likeCount": 39,
+      "repostCount": 4,
+      "replyCount": 13,
+      "quoteCount": 0,
+      "viewCount": 2336
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/GrayNoteLab/status/2102250779109454203",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102250382676389888/img/Lk5M1yyNh3BOItFh.jpg",
+  "coverPath": "covers/2102250779109454203.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102250382676389888",
+    "x-post:2102250779109454203"
+  ],
+  "analysis": {
+    "summary": "东方暗黑武侠风格的血月打斗分镜提示词，细化了骨扇女与执剑男从悬崖对冲到万针归宗的时间轴动作。",
+    "summaryEn": "Detailed timeline prompt for an Eastern dark wuxia duel featuring a bone-fan heroine against a swordsman beneath a blood moon.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频画面镜头分镜、血月场景、骨扇女子与男子的近身打斗动作及万针降落过程与提示词时间轴高度吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "真人电影实拍质感，东方暗黑奇幻武侠，35mm ARRI电影摄影风格，16:9，8K，真实皮肤毛孔、布料褶皱、发丝运动与物理碰撞。血月暗红主光，紫红黑金能量，冷峻电影调色，适度胶片颗粒，拒绝塑料皮肤、CG模型感、过度泛光。保持人物、武器、服装和空间方向连续。\n\n【时间轴】\n\n00.0–02.5s｜血月压境\n极远景，高速升轨环绕悬崖尖端女子，血红巨月在背景迅速放大。女子侧身站立，骨扇遮面，右膝抬起，衣裙与长发被狂风卷动。紫红黑金烟气从周身聚拢扩散，电弧与粒子随风飞散，展现悬崖深度。\n\n02.5–04.5s｜扇后之眼\n镜头极速推至面部特写，骨扇缓缓下移，露出冷冽凤眼，瞳孔映出血月金红反光，眼尾溢出细长能量烟气，嘴角微扬。镜头短暂停稳，强化人物压迫感。\n\n04.5–06.5s｜纵身坠落\n高空侧后方跟拍，女子跃出悬崖并垂直加速下坠，长发、衣摆与能量尾迹受惯性拖曳，身后形成百米紫红黑金气焰与压缩气浪。摄影机沿下坠方向高速俯冲。\n\n06.5–08.0s｜剑起水裂\n崖底水潭低机位，男子踏碎水膜，水花飞溅，拔剑向上斜斩。剑锋迸发青白电弧与水汽，镜头短促前推，建立剑锋与高空来袭者的空间关系。\n\n08.0–10.0s｜骨扇撞剑\n女子俯冲挥扇，与男子上挑长剑正面碰撞。青白电弧和紫红黑金烟气沿接触点爆发，冲击波压低水面后炸起环形水花。镜头剧烈震荡，短暂闪白抽帧后恢复连续动作。\n\n10.0–12.5s｜近身攻防\n摄影机高速半圆环绕，两人连续变招。男子挥剑斜劈，女子旋身以骨扇格挡引偏剑锋，双方交替变换身位。火花沿碰撞方向飞散，脚步踩出水痕，动作清晰连贯。\n\n12.5–14.0s｜借势重踹\n女子借男子挥剑后的失衡跃起，凌空一脚踹中其面部。镜头侧面跟随，碰撞瞬间短暂定格，男子头部偏转、身体后退，水珠与少量血迹沿冲击方向散开，避免肢体变形。\n\n14.0–17.0s｜骨扇化阵\n女子腾空结印，身后骨扇从能量涡流中层层生成，扩展成覆盖天空的巨大扇阵。扇骨逐一延伸出尖锐骨针，阵列旋转，紫红黑金能量沿骨架流动，形成压迫性的空间层次。\n\n17.0–19.0s｜万针锁定\n高空超广角俯视，密集骨针停止旋转并统一调转针尖，精准锁定崖底男子。镜头沿骨针阵列移动，男子仰望天空，骨针短暂停滞0.2秒，制造大招释放前的窒息感。\n\n19.0–20.5s｜指令落下\n女子悬浮血月前，双指指向下方，指尖凝聚紫红黑金能量，环形冲击波扩散并推动周围烟气，镜头缓慢推近，强化释放前摇。\n\n20.5–22.5s｜绝境凝视\n男子面部极近景，眉头紧锁，眼尾泪水滑落。瞳孔倒映遮天骨针阵列与血月，皮肤、水珠和细小伤痕真实可见，远处轰鸣逐渐增强。\n\n22.5–25.5s｜骨针暴雨\n亿万骨针如白色流星暴雨俯冲而下，穿透空气形成压缩气浪，轰击崖底。男子被冲击掀翻，地表裂开并塌陷成深坑，水花、碎石和泥土向外爆散，紫红黑金烟雾翻涌升腾。短暂闪白与震动强化毁灭冲击。\n\n25.5–28.5s｜血月余烬\n镜头从深坑缓慢后拉升高，烟尘散去，女子在远处血月前呈冷峻剪影，骨扇阵列逐渐消散，能量归于寂静。最终保留女子、深坑与血月的宏大构图，形成悬念收尾。\n\n【约束】\n保持人物身份、服装、发型、武器和空间方向一致；骨针必须由骨扇生成，能量具备明确来源和运动方向。禁止人物瞬移、武器消失、骨针乱飞、肢体畸变、重复人物、额外文字、UI界面及过度泛光。",
+    "sourceRange": {
+      "start": 39,
+      "end": 1430
+    },
+    "translations": {
+      "zh": "东方暗黑奇幻武侠高燃打斗视频提示词，包含血月背景、骨扇女子与执剑男子的全流程分镜与约束。",
+      "en": "Eastern dark fantasy wuxia fight scene prompt, detailing camera timeline from blood moon cliff to bone fan storm duel."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "东方暗黑奇幻武侠打斗场景视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

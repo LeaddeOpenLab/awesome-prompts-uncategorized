@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T08:25:34.948Z",
+  "model": "unknown-image",
+  "prompt": "制作一张竖向 3:4 的上下对比转绘图，风格命名为【CONCEPTUAL SILHOUETTE VOID｜概念留白剪影风】。适用于人物、动物、植物、建筑、城市、交通工具、食物、器物、室内、自然和旅行照片，不限定“旅途”或任何单一场景。\n上半部约 42%–48% 保留输入照片本身：准确保持主要主体、数量、姿态、视角、空间关系、光线、材质和可识别色彩，只做自然的出版级调色，不插画化、不换地点、不增删关键主体。上下之间留出干净的暖白接缝，不加粗边框、照片标签或原图/AI角标。\n下半部不要复制整幅照片，也不要画完整插画。先从原照片提炼一个最有意义的语义关系、动作、轮廓或材质节奏：例如人物的站姿、动物的尾巴弧线、花的开放、树枝的伸展、道路的弯折、建筑的拱线、车辆的速度方向、碗碟的圆形关系、窗户的重复节奏、山脊的起伏或水面的波纹。只选择一个主载体，把它重构成一枚炭黑、墨黑或深石墨色的抽象平面剪影、带状轮廓、块面符号或单一线性手势。该形状必须能回溯到上半部的真实主体，但允许拉长、缩小、偏置、旋转、切断或跨越留白。\n下半部保持 60%–80% 的连续暖白留白，纸面只有极淡纤维和哑光颗粒。主形状边缘可以有轻微网点、干刷颗粒或不均匀墨密度，但整体必须克制、平面、干净，不能晕成水墨，也不能变成精细线稿。人物和动物可压缩为无脸、无服装纹理的整体剪影；建筑、植物、食物和器物只保留能识别形状关系的最少结构，不恢复照片细节。最多使用一条或两条极细辅助线提示方向，不得添加第二个抽象物。\n抽象形状以炭黑、墨黑或深石墨为主，最多从原图提取一处极低饱和点色，颜色随照片变化，不套固定蓝色、绿色或城市色板。底部可加入一行很小、准确的英文编辑注释，描述该语义，例如 ONE GESTURE / OPEN SPACE、ARC / STILLNESS 或 SINGLE FORM；不要加入大标题、长段落或虚构地点信息。\n整体应让上半部承担摄影事实，下半部承担单一概念、形体判断和留白节奏。禁止满版场景重绘、多个漂浮物、连续路线节点、完整城市天际线模板、照片窗、整页水墨、彩色几何海报、厚重纸艺、3D渲染、自动描边、Logo、水印、假中文、AI角标和原图角标。",
+  "promptTranslations": {
+    "en": "Create a vertical 3:4 top-and-bottom comparison repainting, with the style named [CONCEPTUAL SILHOUETTE VOID | 概念留白剪影风]. Applicable to people, animals, plants, architecture, cities, vehicles, food, objects, interiors, nature, and travel photography, without being limited to \"travel\" or any single scenario.\nThe top portion, approximately 42%–48%, retains the input photograph itself: accurately preserve the main subjects, quantity, posture, perspective, spatial relationships, lighting, textures, and recognizable colors, applying only natural editorial-grade color grading, without illustrating, changing locations, or adding/removing key subjects. Leave a clean, warm-white seam between top and bottom, without thick borders, photo tags, or original/AI corner badges.\nThe bottom portion should not duplicate the entire photo, nor should it draw a complete illustration. First, extract the single most meaningful semantic relationship, gesture, silhouette, or material rhythm from the original photo: for example, a person's standing posture, the curve of an animal's tail, the blooming of a flower, the reach of tree branches, the bend of a road, the arched line of a building, the velocity direction of a vehicle, the circular relationships of dishes, the repeating rhythm of windows, the undulation of a ridge, or the ripples on water. Select only one primary motif and reconstruct it into an abstract, flat silhouette, ribbon contour, planar symbol, or a single linear gesture in charcoal black, ink black, or deep graphite. This shape must be traceable back to the real subject in the upper half, but can be elongated, scaled down, offset, rotated, severed, or traverse the negative space.\nThe bottom half should maintain 60%–80% continuous warm-white negative space, with only very subtle paper fibers and matte grain on the surface. The edges of the main shape may have slight halftones, dry-brush grain, or uneven ink density, but the overall execution must remain restrained, planar, and clean—neither bleeding into wash ink nor turning into a detailed line drawing. Human figures and animals can be compressed into unified silhouettes without facial features or clothing textures; architecture, plants, food, and utensils should retain only the minimal structure necessary to recognize spatial-formal relationships, without restoring photographic details. Use at most one or two ultra-fine auxiliary lines to hint at direction; do not add a second abstract object.\nThe abstract shape should primarily be charcoal black, ink black, or deep graphite, with at most one highly desaturated accent color extracted from the original image; the color must vary with the photograph, without relying on fixed blue, green, or urban palettes. At the bottom, a tiny, accurate English editorial note describing the semantics may be included, such as ONE GESTURE / OPEN SPACE, ARC / STILLNESS, or SINGLE FORM; do not include large titles, long paragraphs, or fabricated location information.\nOverall, let the top half bear the photographic reality, and the bottom half bear the single concept, formal judgment, and rhythm of negative space. Strictly prohibit full-bleed scene redraws, multiple floating objects, sequential route nodes, complete city skyline templates, photo windows, full-page ink washes, colorful geometric posters, heavy paper-cut art, 3D renders, automatic outlines, logos, watermarks, fake Chinese text, AI badges, and original image badges."
+  },
+  "summaryTranslations": {
+    "en": "Construct a top-and-bottom comparison image in the \"Conceptual Silhouette Void\" style, retaining the original photographic subject in the upper half and distilling a minimalist abstract ink-black silhouette with extensive warm-white negative space in the lower half."
+  },
+  "translationVersion": 2,
+  "summary": "以“概念留白剪影风”构建上下对比图，上半部保留原摄影主体，下半部提炼极简抽象墨黑剪影与大面积暖白留白。",
+  "summaryEn": "Generates a 3:4 split graphic contrasting an intact top photo with a minimalist ink silhouette and expansive negative space on the bottom.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102254699202166846",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2102254699202166846",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-22T04:32:32.000Z",
+    "collectedAt": "2026-09-22T08:16:27.776Z",
+    "language": "zh",
+    "originalText": "【CONCEPTUAL SILHOUETTE VOID｜概念留白剪影风】\n\n通过删减和概念提炼产生抽象感，不是因为细节丢失，也不是普通黑白滤镜。黑色实形与暖白空纸形成呼吸感\n\nprompt：\n制作一张竖向 3:4 的上下对比转绘图，风格命名为【CONCEPTUAL SILHOUETTE VOID｜概念留白剪影风】。适用于人物、动物、植物、建筑、城市、交通工具、食物、器物、室内、自然和旅行照片，不限定“旅途”或任何单一场景。\n上半部约 42%–48% 保留输入照片本身：准确保持主要主体、数量、姿态、视角、空间关系、光线、材质和可识别色彩，只做自然的出版级调色，不插画化、不换地点、不增删关键主体。上下之间留出干净的暖白接缝，不加粗边框、照片标签或原图/AI角标。\n下半部不要复制整幅照片，也不要画完整插画。先从原照片提炼一个最有意义的语义关系、动作、轮廓或材质节奏：例如人物的站姿、动物的尾巴弧线、花的开放、树枝的伸展、道路的弯折、建筑的拱线、车辆的速度方向、碗碟的圆形关系、窗户的重复节奏、山脊的起伏或水面的波纹。只选择一个主载体，把它重构成一枚炭黑、墨黑或深石墨色的抽象平面剪影、带状轮廓、块面符号或单一线性手势。该形状必须能回溯到上半部的真实主体，但允许拉长、缩小、偏置、旋转、切断或跨越留白。\n下半部保持 60%–80% 的连续暖白留白，纸面只有极淡纤维和哑光颗粒。主形状边缘可以有轻微网点、干刷颗粒或不均匀墨密度，但整体必须克制、平面、干净，不能晕成水墨，也不能变成精细线稿。人物和动物可压缩为无脸、无服装纹理的整体剪影；建筑、植物、食物和器物只保留能识别形状关系的最少结构，不恢复照片细节。最多使用一条或两条极细辅助线提示方向，不得添加第二个抽象物。\n抽象形状以炭黑、墨黑或深石墨为主，最多从原图提取一处极低饱和点色，颜色随照片变化，不套固定蓝色、绿色或城市色板。底部可加入一行很小、准确的英文编辑注释，描述该语义，例如 ONE GESTURE / OPEN SPACE、ARC / STILLNESS 或 SINGLE FORM；不要加入大标题、长段落或虚构地点信息。\n整体应让上半部承担摄影事实，下半部承担单一概念、形体判断和留白节奏。禁止满版场景重绘、多个漂浮物、连续路线节点、完整城市天际线模板、照片窗、整页水墨、彩色几何海报、厚重纸艺、3D渲染、自动描边、Logo、水印、假中文、AI角标和原图角标。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyJGAHbMAAlno2.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyJGAHbMAAlno2.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyJIODbYAAydVq.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyJIODbYAAydVq.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 1,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 430
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2102254699202166846",
+  "coverUrl": "https://pbs.twimg.com/media/HSyJGAHbMAAlno2.jpg",
+  "coverPath": "images/2102254699202166846-1.jpg",
+  "imagePaths": [
+    "images/2102254699202166846-1.jpg",
+    "images/2102254699202166846-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSyJGAHbMAAlno2",
+    "x-image:/media/HSyJIODbYAAydVq",
+    "x-post:2102254699202166846"
+  ],
+  "analysis": {
+    "summary": "以“概念留白剪影风”构建上下对比图，上半部保留原摄影主体，下半部提炼极简抽象墨黑剪影与大面积暖白留白。",
+    "summaryEn": "Generates a 3:4 split graphic contrasting an intact top photo with a minimalist ink silhouette and expansive negative space on the bottom.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "图片完全展示了上半部保留真实旅途摄影、下半部提炼为单一路线与人物剪影、大面积暖白留白并附带小号英文注释的排版样式。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张竖向 3:4 的上下对比转绘图，风格命名为【CONCEPTUAL SILHOUETTE VOID｜概念留白剪影风】。适用于人物、动物、植物、建筑、城市、交通工具、食物、器物、室内、自然和旅行照片，不限定“旅途”或任何单一场景。\n上半部约 42%–48% 保留输入照片本身：准确保持主要主体、数量、姿态、视角、空间关系、光线、材质和可识别色彩，只做自然的出版级调色，不插画化、不换地点、不增删关键主体。上下之间留出干净的暖白接缝，不加粗边框、照片标签或原图/AI角标。\n下半部不要复制整幅照片，也不要画完整插画。先从原照片提炼一个最有意义的语义关系、动作、轮廓或材质节奏：例如人物的站姿、动物的尾巴弧线、花的开放、树枝的伸展、道路的弯折、建筑的拱线、车辆的速度方向、碗碟的圆形关系、窗户的重复节奏、山脊的起伏或水面的波纹。只选择一个主载体，把它重构成一枚炭黑、墨黑或深石墨色的抽象平面剪影、带状轮廓、块面符号或单一线性手势。该形状必须能回溯到上半部的真实主体，但允许拉长、缩小、偏置、旋转、切断或跨越留白。\n下半部保持 60%–80% 的连续暖白留白，纸面只有极淡纤维和哑光颗粒。主形状边缘可以有轻微网点、干刷颗粒或不均匀墨密度，但整体必须克制、平面、干净，不能晕成水墨，也不能变成精细线稿。人物和动物可压缩为无脸、无服装纹理的整体剪影；建筑、植物、食物和器物只保留能识别形状关系的最少结构，不恢复照片细节。最多使用一条或两条极细辅助线提示方向，不得添加第二个抽象物。\n抽象形状以炭黑、墨黑或深石墨为主，最多从原图提取一处极低饱和点色，颜色随照片变化，不套固定蓝色、绿色或城市色板。底部可加入一行很小、准确的英文编辑注释，描述该语义，例如 ONE GESTURE / OPEN SPACE、ARC / STILLNESS 或 SINGLE FORM；不要加入大标题、长段落或虚构地点信息。\n整体应让上半部承担摄影事实，下半部承担单一概念、形体判断和留白节奏。禁止满版场景重绘、多个漂浮物、连续路线节点、完整城市天际线模板、照片窗、整页水墨、彩色几何海报、厚重纸艺、3D渲染、自动描边、Logo、水印、假中文、AI角标和原图角标。",
+    "sourceRange": {
+      "start": 96,
+      "end": 1013
+    },
+    "translations": {
+      "zh": "制作一张竖向 3:4 的上下对比转绘图，风格命名为【CONCEPTUAL SILHOUETTE VOID｜概念留白剪影风】。适用于人物、动物、植物、建筑、城市、交通工具、食物、器物、室内、自然和旅行照片，不限定“旅途”或任何单一场景。\n上半部约 42%–48% 保留输入照片本身：准确保持主要主体、数量、姿态、视角、空间关系、光线、材质和可识别色彩，只做自然的出版级调色，不插画化、不换地点、不增删关键主体。上下之间留出干净的暖白接缝，不加粗边框、照片标签或原图/AI角标。\n下半部不要复制整幅照片，也不要画完整插画。先从原照片提炼一个最有意义的语义关系、动作、轮廓或材质节奏：例如人物的站姿、动物的尾巴弧线、花的开放、树枝的伸展、道路的弯折、建筑的拱线、车辆的速度方向、碗碟的圆形关系、窗户的重复节奏、山脊的起伏或水面的波纹。只选择一个主载体，把它重构成一枚炭黑、墨黑或深石墨色的抽象平面剪影、带状轮廓、块面符号或单一线性手势。该形状必须能回溯到上半部的真实主体，但允许拉长、缩小、偏置、旋转、切断或跨越留白。\n下半部保持 60%–80% 的连续暖白留白，纸面只有极淡纤维和哑光颗粒。主形状边缘可以有轻微网点、干刷颗粒或不均匀墨密度，但整体必须克制、平面、干净，不能晕成水墨，也不能变成精细线稿。人物和动物可压缩为无脸、无服装纹理的整体剪影；建筑、植物、食物和器物只保留能识别形状关系的最少结构，不恢复照片细节。最多使用一条或两条极细辅助线提示方向，不得添加第二个抽象物。\n抽象形状以炭黑、墨黑或深石墨为主，最多从原图提取一处极低饱和点色，颜色随照片变化，不套固定蓝色、绿色或城市色板。底部可加入一行很小、准确的英文编辑注释，描述该语义，例如 ONE GESTURE / OPEN SPACE、ARC / STILLNESS 或 SINGLE FORM；不要加入大标题、长段落或虚构地点信息。\n整体应让上半部承担摄影事实，下半部承担单一概念、形体判断和留白节奏。禁止满版场景重绘、多个漂浮物、连续路线节点、完整城市天际线模板、照片窗、整页水墨、彩色几何海报、厚重纸艺、3D渲染、自动描边、Logo、水印、假中文、AI角标和原图角标。",
+      "en": "Create a vertical 3:4 split comparison illustration in the 'CONCEPTUAL SILHOUETTE VOID' style, applicable to photos of people, animals, plants, architecture, cities, vehicles, food, objects, interiors, nature, and travel.\nTop half (approx. 42%–48%): Keep the input photo intact—faithfully preserve main subjects, counts, poses, perspective, spatial relationships, lighting, textures, and colors with natural editorial grading. Leave a clean warm white seam between halves without thick borders or badges.\nBottom half: Do not duplicate the photo or create a complete illustration. Extract one core semantic relationship, motion, contour, or texture rhythm (e.g., posture, tail curve, branch stretch, road bend, architectural arc). Reconstruct it as an abstract flat silhouette, ribbon contour, or single linear gesture in charcoal, ink black, or dark graphite. The shape traces back to the top subject but can be stretched, rotated, or offset across the void.\nKeep 60%–80% continuous warm white negative space with subtle paper texture. The shape edge can have light stippling or dry-brush texture, but remains minimal and clean. Add a tiny English editorial note at the bottom (e.g., ONE GESTURE / OPEN SPACE). No clutter, 3D renders, or heavy graphics."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "概念留白剪影风对比转绘图生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T08:24:40.146Z",
+  "model": "unknown-image",
+  "prompt": "超写实室内楼梯间时尚摄影，竖版约 3:4。一名明确成年的东亚女性，20+，在现代公共楼梯平台处做低位蹲姿。摄影者位于人物正前方略偏高位置，使用约 28–35mm 等效镜头，完整拍到头部、躯干、双腿和高跟鞋，保留楼梯、扶手与灰色水泥地面。\n\n人物为明显丰满的沙漏型身材：肩部适中，胸部丰满，腰部收细，髋部圆润偏宽，大腿根部厚实柔软，小腿相对纤细。不要生成纤细纸片身材或健美肌肉型。\n\n人物保持深蹲 / 半跪式低位姿势，身体朝镜头略偏左，上半身挺直。左臂高举并抓住左侧灰色金属楼梯扶手，形成向上的斜线；右手自然扶在右侧髋部 / 大腿外侧。双膝弯曲，一条腿向前伸出，另一条腿折叠在身体下方，姿势有明显层次。头部微微低下，眼神直视镜头，神情冷淡、锐利。\n\n人物留乌黑色下巴长度 Bob 短发＋厚重齐刘海，发尾整齐内扣，脸型偏小巧，肤色白皙。妆容为偏冷感的日系 / 哥特街拍风：黑色眼线、灰棕眼影、自然睫毛、低饱和裸粉唇色。\n\n上身穿豹纹修身吊带短款背心 / camisole crop top，底色为暖金棕，覆盖黑色与深棕色豹纹斑点，细肩带，贴合胸腰，衣摆停在腰部上方，露出少量腹部。\n\n下身穿黑色超短包臀裙 / 修身短裙，腰臀贴合，长度到大腿上部。右侧大腿位置有一条豹纹吊带袜带 / garter strap，从裙摆下方斜向连接腿部，成为明显细节。\n\n双腿穿黑色半透明长筒袜 / thigh-high stockings，约 20–30D，袜口位于大腿中上部，能轻微透出肤色，膝盖和小腿带柔和光泽。脚穿奶油白 / 象牙白尖头细高跟鞋，鞋面带少量金属铆钉装饰，鞋跟细长约 9–11cm，形成黑袜＋白鞋的高对比。\n\n场景为普通现代楼梯间 / 消防通道：白色墙面、深灰黑色楼梯踏步、灰色金属扶手、粗糙灰色水泥地面，墙角和地面有轻微磨损痕迹。背景简洁，没有豪华装饰。\n\n光线采用冷白室内顶灯＋手机自动曝光，人物皮肤明亮，豹纹上衣和黑色袜子纹理清楚，背景偏灰冷。整体呈真实手机 / 数码相机抓拍质感，自然锐度、轻微广角、少量颗粒，不要棚拍感。\n\n重点锁定：成年东亚女性＋丰满沙漏身材＋黑色齐刘海 Bob＋楼梯平台低位深蹲＋一手高举抓扶手＋豹纹吊带短上衣＋黑色超短包臀裙＋豹纹袜带＋黑色半透明长筒袜＋象牙白尖头细高跟鞋＋冷白楼梯间＋真实手机街拍。\n\n避免：纤细纸片身材、长发、连裤袜、裸腿、运动鞋、厚底鞋、长裙、站姿、普通坐姿、豪华室内、强背景虚化、动漫脸、CG感、塑料皮肤、多余肢体、水印和乱码文字。",
+  "promptTranslations": {
+    "en": "Hyper-realistic indoor stairwell fashion photography, vertical orientation approximately 3:4. A distinctly adult East Asian woman, 20+, in a low squatting pose on a modern public staircase landing. The photographer is positioned directly in front of the subject and slightly elevated, using an equivalent 28–35mm lens, completely capturing the head, torso, legs, and high heels, while retaining the stairs, handrail, and gray concrete floor.\n\nThe subject has a distinctly curvy hourglass figure: balanced shoulders, a full bust, a tapered waist, rounded and wide hips, thick and soft upper thighs, and relatively slender calves. Do not generate a skinny stick-thin figure or an athletic muscular build.\n\nThe subject maintains a deep squat / half-kneeling low pose, body angled slightly to the left relative to the camera, upper body upright. The left arm is raised high, gripping the gray metal stair handrail on the left, forming an upward diagonal line; the right hand rests naturally on the right hip / outer thigh. Both knees are bent, with one leg extended forward and the other folded beneath the body, creating distinct layers in the pose. The head is slightly tilted downward, eyes looking directly into the camera, with a cold, sharp expression.\n\nThe subject has jet-black chin-length Bob hair + thick blunt straight bangs, the hair ends neatly curled inward, a delicate compact face shape, and fair skin. The makeup has a cool Japanese / gothic street style aesthetic: black eyeliner, gray-brown eyeshadow, natural eyelashes, and low-saturation nude pink lips.\n\nOn the upper body, she wears a leopard-print slim-fitting camisole crop top, with a warm golden-brown base covered in black and dark brown leopard spots, thin shoulder straps, form-fitting across the chest and waist, with the hem stopping just above the waist, exposing a small portion of the midriff.\n\nOn the lower body, she wears a black ultra-short bodycon skirt / fitted mini skirt, hugging the waist and hips, ending at the upper thigh. On the right thigh, there is a leopard-print garter strap that connects diagonally from beneath the skirt hem to the leg, serving as a distinct detail.\n\nBoth legs are dressed in black semi-sheer thigh-high stockings, approximately 20–30D, with the tops resting on the mid-to-upper thigh, slightly revealing the skin tone underneath, and showing a soft sheen on the knees and calves. On her feet are creamy white / ivory white pointed-toe stiletto high heels, with minimal metal stud embellishments on the vamp, featuring slender heels of about 9–11cm, creating a high-contrast pairing of black stockings + white shoes.\n\nThe setting is an ordinary modern stairwell / fire escape: white walls, dark gray-black stair treads, a gray metal handrail, and a rough gray concrete floor, with subtle signs of wear on the wall corners and floor. The background is simple, without luxurious decor.\n\nThe lighting employs cool white indoor ceiling lights + smartphone auto-exposure; the subject's skin is bright, the textures of the leopard-print top and black stockings are distinct, and the background leans cool and gray. The overall image has the texture of a real smartphone / digital camera snapshot, featuring natural sharpness, a subtle wide-angle effect, and slight grain, avoiding a studio-shot feel.\n\nKey focuses: adult East Asian woman + curvy hourglass figure + black Bob with blunt bangs + low deep squat on a stair landing + one hand raised gripping the handrail + leopard-print camisole crop top + black ultra-short bodycon mini skirt + leopard-print garter strap + black semi-sheer thigh-high stockings + ivory white pointed-toe stilettos + cool white stairwell + authentic smartphone street snapshot.\n\nAvoid: skinny stick-thin body, long hair, pantyhose, bare legs, sneakers, platform shoes, long skirts, standing pose, standard sitting pose, luxurious interior, heavy background blur, anime face, CG look, plastic skin, extra limbs, watermarks, and garbled text."
+  },
+  "summaryTranslations": {
+    "en": "Fashion portrait of a curvy East Asian woman squatting in a modern stairwell, wearing a leopard-print camisole, black stockings, and high heels."
+  },
+  "translationVersion": 2,
+  "summary": "现代楼梯间内蹲姿的丰满东亚女性时尚写真，着豹纹吊带与黑丝高跟鞋。",
+  "summaryEn": "Fashion snapshot of a curvy East Asian woman crouching in a concrete stairwell, wearing a leopard camisole, thigh-highs, and stiletto heels.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102261117443625131",
+    "canonicalUrl": "https://x.com/DDJCXX/status/2102261117443625131",
+    "author": {
+      "username": "DDJCXX",
+      "displayName": "硅基废话",
+      "profileUrl": "https://x.com/DDJCXX"
+    },
+    "publishedAt": "2026-09-22T04:58:03.000Z",
+    "collectedAt": "2026-09-22T08:16:27.776Z",
+    "language": "zh",
+    "originalText": "豹纹负责张扬，高跟鞋负责收尾。\n\n剩下的，楼梯间自己紧张。\n\nPrompt：超写实室内楼梯间时尚摄影，竖版约 3:4。一名明确成年的东亚女性，20+，在现代公共楼梯平台处做低位蹲姿。摄影者位于人物正前方略偏高位置，使用约 28–35mm 等效镜头，完整拍到头部、躯干、双腿和高跟鞋，保留楼梯、扶手与灰色水泥地面。\n\n人物为明显丰满的沙漏型身材：肩部适中，胸部丰满，腰部收细，髋部圆润偏宽，大腿根部厚实柔软，小腿相对纤细。不要生成纤细纸片身材或健美肌肉型。\n\n人物保持深蹲 / 半跪式低位姿势，身体朝镜头略偏左，上半身挺直。左臂高举并抓住左侧灰色金属楼梯扶手，形成向上的斜线；右手自然扶在右侧髋部 / 大腿外侧。双膝弯曲，一条腿向前伸出，另一条腿折叠在身体下方，姿势有明显层次。头部微微低下，眼神直视镜头，神情冷淡、锐利。\n\n人物留乌黑色下巴长度 Bob 短发＋厚重齐刘海，发尾整齐内扣，脸型偏小巧，肤色白皙。妆容为偏冷感的日系 / 哥特街拍风：黑色眼线、灰棕眼影、自然睫毛、低饱和裸粉唇色。\n\n上身穿豹纹修身吊带短款背心 / camisole crop top，底色为暖金棕，覆盖黑色与深棕色豹纹斑点，细肩带，贴合胸腰，衣摆停在腰部上方，露出少量腹部。\n\n下身穿黑色超短包臀裙 / 修身短裙，腰臀贴合，长度到大腿上部。右侧大腿位置有一条豹纹吊带袜带 / garter strap，从裙摆下方斜向连接腿部，成为明显细节。\n\n双腿穿黑色半透明长筒袜 / thigh-high stockings，约 20–30D，袜口位于大腿中上部，能轻微透出肤色，膝盖和小腿带柔和光泽。脚穿奶油白 / 象牙白尖头细高跟鞋，鞋面带少量金属铆钉装饰，鞋跟细长约 9–11cm，形成黑袜＋白鞋的高对比。\n\n场景为普通现代楼梯间 / 消防通道：白色墙面、深灰黑色楼梯踏步、灰色金属扶手、粗糙灰色水泥地面，墙角和地面有轻微磨损痕迹。背景简洁，没有豪华装饰。\n\n光线采用冷白室内顶灯＋手机自动曝光，人物皮肤明亮，豹纹上衣和黑色袜子纹理清楚，背景偏灰冷。整体呈真实手机 / 数码相机抓拍质感，自然锐度、轻微广角、少量颗粒，不要棚拍感。\n\n重点锁定：成年东亚女性＋丰满沙漏身材＋黑色齐刘海 Bob＋楼梯平台低位深蹲＋一手高举抓扶手＋豹纹吊带短上衣＋黑色超短包臀裙＋豹纹袜带＋黑色半透明长筒袜＋象牙白尖头细高跟鞋＋冷白楼梯间＋真实手机街拍。\n\n避免：纤细纸片身材、长发、连裤袜、裸腿、运动鞋、厚底鞋、长裙、站姿、普通坐姿、豪华室内、强背景虚化、动漫脸、CG感、塑料皮肤、多余肢体、水印和乱码文字。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSy7V1OacAAX8IO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSy7V1OacAAX8IO.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 27,
+      "repostCount": 1,
+      "replyCount": 3,
+      "quoteCount": 2,
+      "viewCount": 1597
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/DDJCXX/status/2102261117443625131",
+  "coverUrl": "https://pbs.twimg.com/media/HSy7V1OacAAX8IO.jpg",
+  "coverPath": "images/2102261117443625131-1.jpg",
+  "imagePaths": [
+    "images/2102261117443625131-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSy7V1OacAAX8IO",
+    "x-post:2102261117443625131"
+  ],
+  "analysis": {
+    "summary": "现代楼梯间内蹲姿的丰满东亚女性时尚写真，着豹纹吊带与黑丝高跟鞋。",
+    "summaryEn": "Fashion snapshot of a curvy East Asian woman crouching in a concrete stairwell, wearing a leopard camisole, thigh-highs, and stiletto heels.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确再现了齐刘海短发、豹纹吊带短背心、黑裙、豹纹袜带、黑丝、象牙白铆钉细高跟鞋以及手扶楼梯扶手低蹲的全部细节。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "超写实室内楼梯间时尚摄影，竖版约 3:4。一名明确成年的东亚女性，20+，在现代公共楼梯平台处做低位蹲姿。摄影者位于人物正前方略偏高位置，使用约 28–35mm 等效镜头，完整拍到头部、躯干、双腿和高跟鞋，保留楼梯、扶手与灰色水泥地面。\n\n人物为明显丰满的沙漏型身材：肩部适中，胸部丰满，腰部收细，髋部圆润偏宽，大腿根部厚实柔软，小腿相对纤细。不要生成纤细纸片身材或健美肌肉型。\n\n人物保持深蹲 / 半跪式低位姿势，身体朝镜头略偏左，上半身挺直。左臂高举并抓住左侧灰色金属楼梯扶手，形成向上的斜线；右手自然扶在右侧髋部 / 大腿外侧。双膝弯曲，一条腿向前伸出，另一条腿折叠在身体下方，姿势有明显层次。头部微微低下，眼神直视镜头，神情冷淡、锐利。\n\n人物留乌黑色下巴长度 Bob 短发＋厚重齐刘海，发尾整齐内扣，脸型偏小巧，肤色白皙。妆容为偏冷感的日系 / 哥特街拍风：黑色眼线、灰棕眼影、自然睫毛、低饱和裸粉唇色。\n\n上身穿豹纹修身吊带短款背心 / camisole crop top，底色为暖金棕，覆盖黑色与深棕色豹纹斑点，细肩带，贴合胸腰，衣摆停在腰部上方，露出少量腹部。\n\n下身穿黑色超短包臀裙 / 修身短裙，腰臀贴合，长度到大腿上部。右侧大腿位置有一条豹纹吊带袜带 / garter strap，从裙摆下方斜向连接腿部，成为明显细节。\n\n双腿穿黑色半透明长筒袜 / thigh-high stockings，约 20–30D，袜口位于大腿中上部，能轻微透出肤色，膝盖和小腿带柔和光泽。脚穿奶油白 / 象牙白尖头细高跟鞋，鞋面带少量金属铆钉装饰，鞋跟细长约 9–11cm，形成黑袜＋白鞋的高对比。\n\n场景为普通现代楼梯间 / 消防通道：白色墙面、深灰黑色楼梯踏步、灰色金属扶手、粗糙灰色水泥地面，墙角和地面有轻微磨损痕迹。背景简洁，没有豪华装饰。\n\n光线采用冷白室内顶灯＋手机自动曝光，人物皮肤明亮，豹纹上衣和黑色袜子纹理清楚，背景偏灰冷。整体呈真实手机 / 数码相机抓拍质感，自然锐度、轻微广角、少量颗粒，不要棚拍感。\n\n重点锁定：成年东亚女性＋丰满沙漏身材＋黑色齐刘海 Bob＋楼梯平台低位深蹲＋一手高举抓扶手＋豹纹吊带短上衣＋黑色超短包臀裙＋豹纹袜带＋黑色半透明长筒袜＋象牙白尖头细高跟鞋＋冷白楼梯间＋真实手机街拍。\n\n避免：纤细纸片身材、长发、连裤袜、裸腿、运动鞋、厚底鞋、长裙、站姿、普通坐姿、豪华室内、强背景虚化、动漫脸、CG感、塑料皮肤、多余肢体、水印和乱码文字。",
+    "sourceRange": {
+      "start": 38,
+      "end": 1080
+    },
+    "translations": {
+      "zh": "超写实室内楼梯间时尚摄影，竖版约 3:4。一名明确成年的东亚女性，20+，在现代公共楼梯平台处做低位蹲姿。摄影者位于人物正前方略偏高位置，使用约 28–35mm 等效镜头，完整拍到头部、躯干、双腿和高跟鞋，保留楼梯、扶手与灰色水泥地面。\n\n人物为明显丰满的沙漏型身材：肩部适中，胸部丰满，腰部收细，髋部圆润偏宽，大腿根部厚实柔软，小腿相对纤细。不要生成纤细纸片身材或健美肌肉型。\n\n人物保持深蹲 / 半跪式低位姿势，身体朝镜头略偏左，上半身挺直。左臂高举并抓住左侧灰色金属楼梯扶手，形成向上的斜线；右手自然扶在右侧髋部 / 大腿外侧。双膝弯曲，一条腿向前伸出，另一条腿折叠在身体下方，姿势有明显层次。头部微微低下，眼神直视镜头，神情冷淡、锐利。\n\n人物留乌黑色下巴长度 Bob 短发＋厚重齐刘海，发尾整齐内扣，脸型偏小巧，肤色白皙。妆容为偏冷感的日系 / 哥特街拍风：黑色眼线、灰棕眼影、自然睫毛、低饱和裸粉唇色。\n\n上身穿豹纹修身吊带短款背心 / camisole crop top，底色为暖金棕，覆盖黑色与深棕色豹纹斑点，细肩带，贴合胸腰，衣摆停在腰部上方，露出少量腹部。\n\n下身穿黑色超短包臀裙 / 修身短裙，腰臀贴合，长度到大腿上部。右侧大腿位置有一条豹纹吊带袜带 / garter strap，从裙摆下方斜向连接腿部，成为明显细节。\n\n双腿穿黑色半透明长筒袜 / thigh-high stockings，约 20–30D，袜口位于大腿中上部，能轻微透出肤色，膝盖和小腿带柔和光泽。脚穿奶油白 / 象牙白尖头细高跟鞋，鞋面带少量金属铆钉装饰，鞋跟细长约 9–11cm，形成黑袜＋白鞋的高对比。\n\n场景为普通现代楼梯间 / 消防通道：白色墙面、深灰黑色楼梯踏步、灰色金属扶手、粗糙灰色水泥地面，墙角和地面有轻微磨损痕迹。背景简洁，没有豪华装饰。\n\n光线采用冷白室内顶灯＋手机自动曝光，人物皮肤明亮，豹纹上衣和黑色袜子纹理清楚，背景偏灰冷。整体呈真实手机 / 数码相机抓拍质感，自然锐度、轻微广角、少量颗粒，不要棚拍感。\n\n重点锁定：成年东亚女性＋丰满沙漏身材＋黑色齐刘海 Bob＋楼梯平台低位深蹲＋一手高举抓扶手＋豹纹吊带短上衣＋黑色超短包臀裙＋豹纹袜带＋黑色半透明长筒袜＋象牙白尖头细高跟鞋＋冷白楼梯间＋真实手机街拍。\n\n避免：纤细纸片身材、长发、连裤袜、裸腿、运动鞋、厚底鞋、长裙、站姿、普通坐姿、豪华室内、强背景虚化、动漫脸、CG感、塑料皮肤、多余肢体、水印和乱码文字。",
+      "en": "Hyper-realistic indoor stairwell fashion photography, vertical 3:4. An adult East Asian female, 20+, crouching on a stair landing. Shot slightly from above with a 28–35mm lens, capturing full body and heels along with stairs and railing.\n\nHourglass curvy figure, not skinny or overly muscular.\n\nPosing in a low squat, left hand raised gripping grey railing, right hand on hip. Hair is chin-length black bob with blunt bangs. Cool-toned Japanese makeup.\n\nWearing leopard print crop camisole, black miniskirt, leopard garter strap on right thigh, sheer black thigh-high stockings, and cream-white studded pointed stiletto heels.\n\nSetting: Modern minimalist concrete stairwell under cool white overhead lighting with smartphone snapshot aesthetics."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "楼梯间女性时尚写真摄影生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
