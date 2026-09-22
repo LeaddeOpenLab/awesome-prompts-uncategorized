@@ -10122,13 +10122,13 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2102369781504414039"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage zur Generierung surrealistischer Editorial-Bilder, die beliebte Sprichwörter mittels Miniaturobjekten auf elfenbeinfarbenem Hintergrund mit kobaltblauen Akzenten in Szene setzen.
 
 Autor：[@hmontilla\_](https://x.com/hmontilla_) · [Originalbeitrag](https://x.com/hmontilla_/status/2102369781504414039)
 
 Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage zur Generierung surrealistischer Editorial-Bilder, die beliebte Sprichwörter mittels Miniaturobjekten auf elfenbeinfarbenem Hintergrund mit kobaltblauen Akzenten in Szene setzen.
 
 <img src="images/2102369781504414039-1.jpg" alt="Bild 1" width="480" />
 
@@ -10141,7 +10141,7 @@ Zusammenfassung / Hintergrund · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle eine quadratische, surrealistische Editorial-Fotografie, die das Sprichwort „[REFRÁN]“ wörtlich darstellt. Eine Szene, aufgebaut aus physischen Miniaturobjekten; eine einzige geistreiche und leicht wiedererkennbare Komposition. Durchgehender warmweißer Elfenbeinhintergrund, diffuses natürliches Licht von oben links, realistische Schatten, haptische Materialien und Akzente in Kobaltblau und gedämpftem Korallenrot. Raffinierte und verspielte Magazin-Ästhetik, 50-mm-Objektiv, hohe Auflösung. Ohne Personen, Text, Buchstaben, Zahlen, Logos, Rahmen oder Collagen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

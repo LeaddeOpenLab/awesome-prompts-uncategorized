@@ -10142,13 +10142,13 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2102369781504414039"></a>
 
-### Çeviri sürüyor
+### Fildişi arka plan ve kobalt mavisi detaylarla minyatür nesneler aracılığıyla popüler atasözlerini canlandıran sürrealist editoryal görseller üretmek için istem şablonu.
 
 Yazar：[@hmontilla\_](https://x.com/hmontilla_) · [Orijinal gönderi](https://x.com/hmontilla_/status/2102369781504414039)
 
 Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fildişi arka plan ve kobalt mavisi detaylarla minyatür nesneler aracılığıyla popüler atasözlerini canlandıran sürrealist editoryal görseller üretmek için istem şablonu.
 
 <img src="images/2102369781504414039-1.jpg" alt="Görsel 1" width="480" />
 
@@ -10161,7 +10161,7 @@ Yazar：[@hmontilla\_](https://x.com/hmontilla_) · [Orijinal gönderi](https://
 **İstem**
 
 ```text
-Çeviri sürüyor
+«[REFRÁN]» atasözünü kelimesi kelimesine tasvir eden kare formatta, sürrealist bir editoryal fotoğraf oluşturun. Minyatür fiziksel nesnelerle inşa edilmiş sahne; tek, zekice ve kolayca tanınabilir bir kompozisyon. Sıcak fildişi rengi kesintisiz arka plan, sol üstten gelen dağınık doğal ışık, gerçekçi gölgeler, dokunsal malzemeler ve kobalt mavisi ile mat mercan rengi detaylar. Sofistike ve eğlenceli dergi estetiği, 50 mm lens, yüksek çözünürlük. İnsan, metin, harf, sayı, logo, çerçeve veya kolaj içermez.
 ```
 
 [↑ Kategorilere dön](#catalog)

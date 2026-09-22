@@ -10122,13 +10122,13 @@ Traduction en cours
 
 <a name="prompt-2102369781504414039"></a>
 
-### Traduction en cours
+### Modèle de prompt pour générer des images éditoriales surréalistes mettant en scène des proverbes populaires à l'aide d'objets miniatures sur fond ivoire avec des touches de bleu cobalt.
 
 Auteur：[@hmontilla\_](https://x.com/hmontilla_) · [Publication originale](https://x.com/hmontilla_/status/2102369781504414039)
 
 Résumé / Contexte · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Modèle de prompt pour générer des images éditoriales surréalistes mettant en scène des proverbes populaires à l'aide d'objets miniatures sur fond ivoire avec des touches de bleu cobalt.
 
 <img src="images/2102369781504414039-1.jpg" alt="Image 1" width="480" />
 
@@ -10141,7 +10141,7 @@ Résumé / Contexte · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une photographie éditoriale surréaliste, au format carré, représentant littéralement le proverbe « [REFRÁN] ». Scène construite avec des objets physiques miniatures ; une composition unique, ingénieuse et facilement reconnaissable. Arrière-plan uni ivoire chaud, lumière naturelle diffuse venant du coin supérieur gauche, ombres réalistes, matériaux tactiles et détails en bleu cobalt et corail doux. Esthétique de magazine sophistiquée et ludique, objectif 50 mm, haute résolution. Sans personnes, texte, lettres, chiffres, logos, cadres ni collage.
 ```
 
 [↑ Retour aux catégories](#catalog)

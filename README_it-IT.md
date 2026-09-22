@@ -10122,13 +10122,13 @@ Traduzione in corso
 
 <a name="prompt-2102369781504414039"></a>
 
-### Traduzione in corso
+### Modello di prompt per generare immagini editoriali surrealiste che mettono in scena proverbi popolari mediante oggetti in miniatura con sfondo avorio e dettagli in blu cobalto.
 
 Autore：[@hmontilla\_](https://x.com/hmontilla_) · [Post originale](https://x.com/hmontilla_/status/2102369781504414039)
 
 Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt per generare immagini editoriali surrealiste che mettono in scena proverbi popolari mediante oggetti in miniatura con sfondo avorio e dettagli in blu cobalto.
 
 <img src="images/2102369781504414039-1.jpg" alt="Immagine 1" width="480" />
 
@@ -10141,7 +10141,7 @@ Abstract / Contesto · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea una fotografia editoriale surrealista, quadrata, che rappresenti letteralmente il proverbio «[REFRÁN]». Scena costruita con oggetti fisici in miniatura; una sola composizione ingegnosa e facilmente riconoscibile. Sfondo continuo avorio caldo, luce naturale diffusa dall'alto a sinistra, ombre realistiche, materiali tattili e dettagli in blu cobalto e corallo tenue. Estetica da rivista sofisticata e giocosa, obiettivo da 50 mm, alta risoluzione. Senza persone, testo, lettere, numeri, loghi, cornici né collage.
 ```
 
 [↑ Torna alle categorie](#catalog)

@@ -10240,13 +10240,13 @@ Traducción en curso
 
 <a name="prompt-2102369781504414039"></a>
 
-### Traducción en curso
+### Plantilla de prompt para generar imágenes editoriales surrealistas que escenifican refranes populares mediante objetos en miniatura con fondo marfil y detalles en azul cobalto.
 
 Autor：[@hmontilla\_](https://x.com/hmontilla_) · [Publicación original](https://x.com/hmontilla_/status/2102369781504414039)
 
 Resumen / Antecedentes · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Plantilla de prompt para generar imágenes editoriales surrealistas que escenifican refranes populares mediante objetos en miniatura con fondo marfil y detalles en azul cobalto.
 
 <img src="images/2102369781504414039-1.jpg" alt="Imagen 1" width="480" />
 
@@ -10259,7 +10259,7 @@ Resumen / Antecedentes · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+Crea una fotografía editorial surrealista, cuadrada, que represente literalmente el refrán «[REFRÁN]». Escena construida con objetos físicos en miniatura; una sola composición ingeniosa y fácilmente reconocible. Fondo continuo marfil cálido, luz natural difusa desde arriba a la izquierda, sombras realistas, materiales táctiles y detalles en azul cobalto y coral apagado. Estética sofisticada y juguetona de revista, lente de 50 mm, alta resolución. Sin personas, texto, letras, números, logotipos, marcos ni collage.
 ```
 
 [↑ Volver a categorías](#catalog)

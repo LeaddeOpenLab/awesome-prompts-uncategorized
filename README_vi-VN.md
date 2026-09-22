@@ -10239,13 +10239,13 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2102369781504414039"></a>
 
-### Đang dịch
+### Mẫu câu lệnh để tạo hình ảnh biên tập siêu thực dàn dựng các câu ngạn ngữ phổ biến thông qua các đồ vật thu nhỏ với phông nền màu trắng ngà và điểm nhấn màu xanh cô-ban.
 
 Tác giả：[@hmontilla\_](https://x.com/hmontilla_) · [Bài gốc](https://x.com/hmontilla_/status/2102369781504414039)
 
 Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu câu lệnh để tạo hình ảnh biên tập siêu thực dàn dựng các câu ngạn ngữ phổ biến thông qua các đồ vật thu nhỏ với phông nền màu trắng ngà và điểm nhấn màu xanh cô-ban.
 
 <img src="images/2102369781504414039-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -10258,7 +10258,7 @@ Tóm tắt / Bối cảnh · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một bức ảnh biên tập siêu thực, hình vuông, thể hiện theo nghĩa đen câu ngạn ngữ «[REFRÁN]». Bối cảnh được xây dựng từ các vật thể thu nhỏ vật lý; một bố cục duy nhất khéo léo và dễ dàng nhận biết. Phông nền liền màu trắng ngà ấm áp, ánh sáng tự nhiên khuếch tán từ góc trên bên trái, bóng đổ chân thực, các vật liệu giàu tính xúc giác cùng các chi tiết màu xanh cô-ban và san hô trầm. Thẩm mỹ tạp chí tinh tế và vui tươi, ống kính 50mm, độ phân giải cao. Không có con người, văn bản, chữ cái, con số, logo, khung viền hay cắt dán collage.
 ```
 
 [↑ Về danh mục](#catalog)

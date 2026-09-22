@@ -10142,13 +10142,13 @@ Tradução em andamento
 
 <a name="prompt-2102369781504414039"></a>
 
-### Tradução em andamento
+### Modelo de prompt para gerar imagens editoriais surrealistas que encenam provérbios populares por meio de objetos em miniatura com fundo marfim e detalhes em azul-cobalto.
 
 Autor：[@hmontilla\_](https://x.com/hmontilla_) · [Publicação original](https://x.com/hmontilla_/status/2102369781504414039)
 
 Resumo / Contexto · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Modelo de prompt para gerar imagens editoriais surrealistas que encenam provérbios populares por meio de objetos em miniatura com fundo marfim e detalhes em azul-cobalto.
 
 <img src="images/2102369781504414039-1.jpg" alt="Imagem 1" width="480" />
 
@@ -10161,7 +10161,7 @@ Resumo / Contexto · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie uma fotografia editorial surrealista, quadrada, que represente literalmente o provérbio «[REFRÁN]». Cena construída com objetos físicos em miniatura; uma única composição engenhosa e facilmente reconhecível. Fundo infinito marfim quente, luz natural difusa vinda do canto superior esquerdo, sombras realistas, materiais táteis e detalhes em azul-cobalto e coral suave. Estética sofisticada e descontraída de revista, lente de 50 mm, alta resolução. Sem pessoas, texto, letras, números, logotipos, molduras ou colagem.
 ```
 
 [↑ Voltar às categorias](#catalog)
