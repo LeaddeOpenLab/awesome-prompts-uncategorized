@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2102252435381096480"></a>
 
-### Çeviri sürüyor
+### Siyah ceket ve geniş paça kot pantolonlu sarışın bir kadının lüks otel banyosunda çekilmiş ultra gerçekçi ayna selfie'si.
 
 Yazar：[@oju689](https://x.com/oju689) · [Orijinal gönderi](https://x.com/oju689/status/2102252435381096480)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Siyah ceket ve geniş paça kot pantolonlu sarışın bir kadının lüks otel banyosunda çekilmiş ultra gerçekçi ayna selfie'si.
 
 <img src="images/2102252435381096480-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Uzun, doğal dalgalı sarı saçlı, vücuda oturan siyah fermuarlı bir ceket ve açık burunlu sandaletlerle yüksek belli koyu geniş paça kot pantolon giymiş güzel bir genç kadının lüks bir otel banyosundaki ultra gerçekçi ayna selfie'si. Büyük bir boy aynasının önünde rahatça duruyor, bir elinde modern bir akıllı telefon tutarken telefon ekranına bakıyor, diğer eli ise doğal bir şekilde kot pantolonunun cebinde duruyor. Şık ve modern otel banyosu, koyu mermer duvarlar, sıcak ortam aydınlatması, beyaz havlular, şık bir makyaj masası ve arka planda hafif yeşillikler. Doğal gerçekçi cilt dokusu, otantik yüz hatları, detaylı saç telleri, gerçekçi eller ve kıyafetler, yumuşak sinematik aydınlatma, üst düzey fotoğrafçılık, 50mm lens, sığ alan derinliği, HDR, fotogerçekçi, ultra detaylı, 8K kalite, doğal oranlar, tam boy kompozisyon, metin yok, filigran yok, bozulma yok, CGI veya çizgi film görünümü yok.
 ```
 
 [↑ Kategorilere dön](#catalog)

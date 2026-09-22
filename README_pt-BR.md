@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2102252435381096480"></a>
 
-### Tradução em andamento
+### Selfie no espelho de banheiro de hotel de luxo ultrarrealista de uma mulher loira de jaqueta preta e jeans de pernas largas.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicação original](https://x.com/oju689/status/2102252435381096480)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Selfie no espelho de banheiro de hotel de luxo ultrarrealista de uma mulher loira de jaqueta preta e jeans de pernas largas.
 
 <img src="images/2102252435381096480-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Selfie no espelho de banheiro de hotel de luxo ultrarrealista de uma linda jovem com cabelos loiros longos e naturalmente ondulados, vestindo uma jaqueta preta justa com zíper e jeans escuro de cintura alta e pernas largas com sandálias abertas na frente. Ela está casualmente em frente a um grande espelho de corpo inteiro, segurando um smartphone moderno em uma mão enquanto olha para a tela do telefone, com a outra mão descansando naturalmente no bolso da calça jeans. Banheiro de hotel moderno e elegante, paredes de mármore escuro, iluminação ambiente quente, toalhas brancas, penteadeira estilosa e vegetação sutil ao fundo. Textura de pele natural e realista, traços faciais autênticos, mechas de cabelo detalhadas, mãos e roupas realistas, iluminação cinematográfica suave, fotografia de alto padrão, lente 50mm, profundidade de campo rasa, HDR, fotorrealista, ultradetalhado, qualidade 8K, proporções naturais, composição de corpo inteiro, sem texto, sem marca d'água, sem distorção, sem visual CGI ou de desenho animado.
 ```
 
 [↑ Voltar às categorias](#catalog)

@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2102252435381096480"></a>
 
-### Đang dịch
+### Ảnh selfie qua gương siêu thực trong phòng tắm khách sạn sang trọng của người phụ nữ tóc vàng mặc áo khoác đen và quần jeans ống rộng.
 
 Tác giả：[@oju689](https://x.com/oju689) · [Bài gốc](https://x.com/oju689/status/2102252435381096480)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Ảnh selfie qua gương siêu thực trong phòng tắm khách sạn sang trọng của người phụ nữ tóc vàng mặc áo khoác đen và quần jeans ống rộng.
 
 <img src="images/2102252435381096480-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Ảnh selfie qua gương phòng tắm khách sạn sang trọng siêu thực của một phụ nữ trẻ xinh đẹp với mái tóc vàng dài gợn sóng tự nhiên, mặc áo khoác kéo khóa màu đen ôm vừa vặn và quần jeans ống rộng cạp cao màu tối cùng dép hở ngón. Cô đứng tạo dáng tự nhiên trước một tấm gương lớn toàn thân, một tay cầm chiếc điện thoại thông minh hiện đại trong khi nhìn vào màn hình điện thoại, tay còn lại đút hờ hững vào túi quần jeans. Phòng tắm khách sạn hiện đại thanh lịch, tường đá cẩm thạch tối màu, ánh sáng môi trường ấm áp, khăn tắm màu trắng, bàn trang điểm phong cách và cây xanh tinh tế ở phía sau. Kết cấu da tự nhiên chân thực, các đường nét khuôn mặt chân thực, các lọn tóc chi tiết, bàn tay và trang phục thực tế, ánh sáng điện ảnh dịu nhẹ, nhiếp ảnh cao cấp, ống kính 50mm, độ sâu trường ảnh nông, HDR, chân thực như ảnh chụp, siêu chi tiết, chất lượng 8K, tỷ lệ tự nhiên, bố cục toàn thân, không có chữ, không có hình mờ, không biến dạng, không có vẻ ngoài kiểu CGI hay hoạt hình.
 ```
 
 [↑ Về danh mục](#catalog)

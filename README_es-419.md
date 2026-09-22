@@ -35,20 +35,20 @@ Dale una estrella a este repositorio para seguir nuestra selección diaria y des
 
 <a name="prompt-2102252435381096480"></a>
 
-### Traducción en curso
+### Selfie ultrarrealista en el espejo de un baño de hotel de lujo de una mujer rubia con chamarra negra y jeans de pierna ancha.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicación original](https://x.com/oju689/status/2102252435381096480)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Selfie ultrarrealista en el espejo de un baño de hotel de lujo de una mujer rubia con chamarra negra y jeans de pierna ancha.
 
 <img src="images/2102252435381096480-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Selfie en el espejo de un baño de hotel de lujo ultrarrealista de una hermosa mujer joven con cabello rubio largo y naturalmente ondulado, vistiendo una chamarra entallada negra con cremallera y jeans oscuros de tiro alto y pierna ancha con sandalias de punta abierta. Está de pie de manera casual frente a un gran espejo de cuerpo entero, sosteniendo un teléfono inteligente moderno en una mano mientras mira la pantalla del teléfono, con la otra mano descansando de forma natural en el bolsillo de sus jeans. Elegante baño de hotel moderno, paredes de mármol oscuro, iluminación ambiental cálida, toallas blancas, tocador elegante y sutil vegetación al fondo. Textura de piel natural y realista, rasgos faciales auténticos, mechones de cabello detallados, manos y ropa realistas, iluminación cinematográfica suave, fotografía de alta gama, lente de 50 mm, profundidad de campo reducida, HDR, fotorrealista, ultradetallado, calidad 8K, proporciones naturales, composición de cuerpo entero, sin texto, sin marcas de agua, sin distorsión, sin aspecto CGI ni de caricatura.
 ```
 
 [↑ Volver a categorías](#catalog)

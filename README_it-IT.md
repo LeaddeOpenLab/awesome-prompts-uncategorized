@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2102252435381096480"></a>
 
-### Traduzione in corso
+### Selfie allo specchio ultra-realistico nel bagno di un hotel di lusso di una donna bionda con giacca nera e jeans a gamba larga.
 
 Autore：[@oju689](https://x.com/oju689) · [Post originale](https://x.com/oju689/status/2102252435381096480)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Selfie allo specchio ultra-realistico nel bagno di un hotel di lusso di una donna bionda con giacca nera e jeans a gamba larga.
 
 <img src="images/2102252435381096480-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Selfie allo specchio ultra-realistico nel bagno di un hotel di lusso di una bellissima giovane donna con lunghi capelli biondi naturalmente mossi, che indossa una giacca nera aderente con zip e jeans scuri a vita alta a gamba larga con sandali spuntati. È in piedi con posa casual davanti a un grande specchio a figura intera, con in mano un moderno smartphone mentre guarda lo schermo del telefono, e l'altra mano posata naturalmente nella tasca dei jeans. Elegante bagno di hotel moderno, pareti in marmo scuro, illuminazione ambientale calda, asciugamani bianchi, vanity raffinato e vegetazione discreta sullo sfondo. Texture della pelle naturale e realistica, tratti del viso autentici, ciocche di capelli dettagliate, mani e vestiti realistici, illuminazione cinematografica morbida, fotografia di alto livello, obiettivo da 50 mm, profondità di campo ridotta, HDR, fotorealistico, ultra-dettagliato, qualità 8K, proporzioni naturali, composizione a figura intera, nessun testo, nessuna filigrana, nessuna distorsione, nessun aspetto CGI o cartoon.
 ```
 
 [↑ Torna alle categorie](#catalog)

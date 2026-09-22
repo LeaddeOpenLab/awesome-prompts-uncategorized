@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2102252435381096480"></a>
 
-### Tradução em curso
+### Selfie no espelho de casa de banho de hotel de luxo ultrarrealista de uma mulher loira de casaco preto e calças de ganga de perna larga.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicação original](https://x.com/oju689/status/2102252435381096480)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Selfie no espelho de casa de banho de hotel de luxo ultrarrealista de uma mulher loira de casaco preto e calças de ganga de perna larga.
 
 <img src="images/2102252435381096480-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Selfie no espelho de casa de banho de hotel de luxo ultrarrealista de uma bonita jovem com cabelos loiros compridos e naturalmente ondulados, vestindo um casaco preto justo com fecho de correr e calças de ganga escuras de cintura subida e perna larga com sandálias abertas à frente. Encontra-se casualmente em frente a um grande espelho de corpo inteiro, segurando um smartphone moderno numa mão enquanto olha para o ecrã do telemóvel, com a outra mão apoiada naturalmente no bolso das calças de ganga. Casa de banho de hotel moderna e elegante, paredes de mármore escuro, iluminação ambiente quente, toalhas brancas, móvel de lavatório elegante e vegetação subtil ao fundo. Textura de pele natural e realista, traços faciais autênticos, madeixas de cabelo detalhadas, mãos e roupas realistas, iluminação cinematográfica suave, fotografia de topo, lente de 50 mm, profundidade de campo reduzida, HDR, fotorrealista, ultradetalhado, qualidade 8K, proporções naturais, composição de corpo inteiro, sem texto, sem marca de água, sem distorção, sem aspeto de CGI ou desenho animado.
 ```
 
 [↑ Voltar às categorias](#catalog)

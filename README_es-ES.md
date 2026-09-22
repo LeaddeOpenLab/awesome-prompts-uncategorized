@@ -35,20 +35,20 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2102252435381096480"></a>
 
-### Traducción en curso
+### Selfie ultrarrealista frente al espejo de un baño de hotel de lujo de una mujer rubia con chaqueta negra y vaqueros de pernera ancha.
 
 Autor：[@oju689](https://x.com/oju689) · [Publicación original](https://x.com/oju689/status/2102252435381096480)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Selfie ultrarrealista frente al espejo de un baño de hotel de lujo de una mujer rubia con chaqueta negra y vaqueros de pernera ancha.
 
 <img src="images/2102252435381096480-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Selfie ultrarrealista frente al espejo de un baño de hotel de lujo de una hermosa joven con cabello rubio largo y naturalmente ondulado, que viste una chaqueta negra ajustada con cremallera y vaqueros oscuros de talle alto y pernera ancha con sandalias de puntera abierta. Ella se encuentra de pie con naturalidad frente a un gran espejo de cuerpo entero, sosteniendo un moderno smartphone en una mano mientras mira la pantalla del teléfono, con la otra mano descansando de forma natural en el bolsillo de sus vaqueros. Elegante y moderno baño de hotel, paredes de mármol oscuro, iluminación ambiental cálida, toallas blancas, tocador elegante y sutil vegetación en el fondo. Textura de piel natural y realista, rasgos faciales auténticos, mechones de cabello detallados, manos y ropa realistas, iluminación cinematográfica suave, fotografía de alta gama, lente de 50 mm, profundidad de campo reducida, HDR, fotorrealista, ultra detallado, calidad 8K, proporciones naturales, composición de cuerpo entero, sin texto, sin marcas de agua, sin distorsión, sin aspecto CGI ni de dibujos animados.
 ```
 
 [↑ Volver a categorías](#catalog)

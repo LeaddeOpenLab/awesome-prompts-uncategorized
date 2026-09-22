@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2102252435381096480"></a>
 
-### Traduction en cours
+### Selfie ultra-réaliste dans le miroir d'une salle de bain d'hôtel de luxe d'une femme blonde en veste noire et jean à jambes larges.
 
 Auteur：[@oju689](https://x.com/oju689) · [Publication originale](https://x.com/oju689/status/2102252435381096480)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Selfie ultra-réaliste dans le miroir d'une salle de bain d'hôtel de luxe d'une femme blonde en veste noire et jean à jambes larges.
 
 <img src="images/2102252435381096480-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Selfie ultra-réaliste dans le miroir d'une salle de bain d'hôtel de luxe d'une belle jeune femme aux longs cheveux blonds naturellement ondulés, portant une veste zippée noire ajustée et un jean taille haute foncé à jambes larges avec des sandales à bout ouvert. Elle se tient de manière décontractée devant un grand miroir en pied, tenant un smartphone moderne dans une main tout en regardant l'écran du téléphone, avec son autre main reposant naturellement dans la poche de son jean. Salle de bain d'hôtel moderne et élégante, murs en marbre sombre, éclairage d'ambiance chaleureux, serviettes blanches, coiffeuse élégante et verdure subtile en arrière-plan. Texture de peau naturelle et réaliste, traits du visage authentiques, mèches de cheveux détaillées, mains et vêtements réalistes, éclairage cinématographique doux, photographie haut de gamme, objectif 50 mm, faible profondeur de champ, HDR, photoréaliste, ultra-détaillé, qualité 8K, proportions naturelles, composition en pied, sans texte, sans filigrane, sans distorsion, sans aspect CGI ou dessin animé.
 ```
 
 [↑ Retour aux catégories](#catalog)

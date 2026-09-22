@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2102252435381096480"></a>
 
-### Übersetzung läuft
+### Ultra-realistisches Spiegel-Selfie im Badezimmer eines Luxushotels von einer blonden Frau in schwarzer Jacke und Jeans mit weitem Bein.
 
 Autor：[@oju689](https://x.com/oju689) · [Originalbeitrag](https://x.com/oju689/status/2102252435381096480)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ultra-realistisches Spiegel-Selfie im Badezimmer eines Luxushotels von einer blonden Frau in schwarzer Jacke und Jeans mit weitem Bein.
 
 <img src="images/2102252435381096480-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultra-realistisches Spiegel-Selfie im Badezimmer eines Luxushotels von einer wunderschönen jungen Frau mit langem, natürlich gewelltem blondem Haar, die eine taillierte schwarze Reißverschlussjacke und dunkle High-Waist-Jeans mit weitem Bein sowie Sandalen mit offener Spitze trägt. Sie steht lässig vor einem großen Ganzkörperspiegel, hält ein modernes Smartphone in der einen Hand, während sie auf den Telefonbildschirm blickt, und hat ihre andere Hand natürlich in ihrer Jeanstasche. Elegantes modernes Hotelbadezimmer, dunkle Marmorwände, warme Ambientebeleuchtung, weiße Handtücher, stilvoller Waschtisch und dezente Pflanzen im Hintergrund. Natürliche realistische Hauttextur, authentische Gesichtszüge, detaillierte Haarsträhnen, realistische Hände und Kleidung, weiches kinoreifes Licht, High-End-Fotografie, 50-mm-Objektiv, geringe Schärfentiefe, HDR, fotorealistisch, extrem detailliert, 8K-Qualität, natürliche Proportionen, Ganzkörperkomposition, kein Text, kein Wasserzeichen, keine Verzerrung, kein CGI- oder Cartoon-Look.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
