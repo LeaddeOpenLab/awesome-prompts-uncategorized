@@ -10107,20 +10107,20 @@ Nhân vật · Động vật / Sinh vật · Đã xuất bản
 
 <a name="prompt-2102286321842594188"></a>
 
-### Đang dịch
+### Không phải thiên thần nào cũng có cánh, có rất nhiều thiên thần đang bước đi giữa con người
 
 Tác giả：[@Carmenlexbt](https://x.com/Carmenlexbt) · [Bài gốc](https://x.com/Carmenlexbt/status/2102286321842594188)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Không phải thiên thần nào cũng có cánh, có rất nhiều thiên thần đang bước đi giữa con người
 
 <img src="covers/2102286321842594188.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Không phải thiên thần nào cũng có cánh, có rất nhiều thiên thần đang bước đi giữa con người
 ```
 
 [↑ Về danh mục](#catalog)

@@ -10010,20 +10010,20 @@ tek başına, tam vücut, önden görünüş, beyaz arka plan, sade arka plan, 3
 
 <a name="prompt-2102286321842594188"></a>
 
-### Çeviri sürüyor
+### Tüm meleklerin kanatları yoktur, insanların arasında dolaşan pek çoğu vardır
 
 Yazar：[@Carmenlexbt](https://x.com/Carmenlexbt) · [Orijinal gönderi](https://x.com/Carmenlexbt/status/2102286321842594188)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tüm meleklerin kanatları yoktur, insanların arasında dolaşan pek çoğu vardır
 
 <img src="covers/2102286321842594188.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Tüm meleklerin kanatları yoktur, insanların arasında dolaşan pek çoğu vardır
 ```
 
 [↑ Kategorilere dön](#catalog)

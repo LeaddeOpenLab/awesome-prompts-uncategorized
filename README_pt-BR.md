@@ -10010,20 +10010,20 @@ solo, corpo inteiro, visão frontal, fundo branco, fundo simples, 3::sentado ao 
 
 <a name="prompt-2102286321842594188"></a>
 
-### Tradução em andamento
+### Nem todos os anjos têm asas, há muitos caminhando entre os humanos
 
 Autor：[@Carmenlexbt](https://x.com/Carmenlexbt) · [Publicação original](https://x.com/Carmenlexbt/status/2102286321842594188)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Nem todos os anjos têm asas, há muitos caminhando entre os humanos
 
 <img src="covers/2102286321842594188.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Nem todos os anjos têm asas, há muitos caminhando entre os humanos
 ```
 
 [↑ Voltar às categorias](#catalog)

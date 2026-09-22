@@ -9990,20 +9990,20 @@ solo, corps entier, vue de face, fond blanc, fond simple, 3::assis à l'envers s
 
 <a name="prompt-2102286321842594188"></a>
 
-### Traduction en cours
+### Tous les anges n'ont pas d'ailes, il y en a beaucoup qui marchent parmi les humains
 
 Auteur：[@Carmenlexbt](https://x.com/Carmenlexbt) · [Publication originale](https://x.com/Carmenlexbt/status/2102286321842594188)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Tous les anges n'ont pas d'ailes, il y en a beaucoup qui marchent parmi les humains
 
 <img src="covers/2102286321842594188.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Tous les anges n'ont pas d'ailes, il y en a beaucoup qui marchent parmi les humains
 ```
 
 [↑ Retour aux catégories](#catalog)
