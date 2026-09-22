@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:27:29.125Z",
+  "model": "unknown-image",
+  "prompt": "**Strictly preserve the appearance 1:1 according to the reference: the face must be fully recognizable, with no change to features or proportions.**\n\nPhotorealistic autumn photo by a dark pond, high-angle shot.  \nThe girl stands on a wet wooden footbridge, body facing forward, head turned slightly to the left, gaze to the side.  \nCoffee in one hand; the other holds a lapel.  \nA transparent umbrella hangs on the bent forearm, dome downward, ribs visible.\n\nShe is wearing a long black oversized coat with thin gray pinstripes, a gray textured high-collar sweater, a narrow dark-brown scarf, large silver headphones, and massive rings.\n\nHair with a center parting is smoothly gathered into a small tight low bun, without volume or loose strands. Natural soft glam, satin skin, soft contouring, and nude lips.\n\nGloomy diffused light, wet boards, fallen leaves, and dark water with reflections. Cold muted palette, light grain, no CGI, plastic retouching, gloss, or filters.",
+  "promptTranslations": {
+    "en": "**Strictly preserve the appearance 1:1 according to the reference: the face must be fully recognizable, with no change to features or proportions.**\\n\\nPhotorealistic autumn photo by a dark pond, high-angle shot.  \\nThe girl stands on a wet wooden footbridge, body facing forward, head turned slightly to the left, gaze to the side.  \\nCoffee in one hand; the other holds a lapel.  \\nA transparent umbrella hangs on the bent forearm, dome downward, ribs visible.\\n\\nShe is wearing a long black oversized coat with thin gray pinstripes, a gray textured high-collar sweater, a narrow dark-brown scarf, large silver headphones, and massive rings.\\n\\nHair with a center parting is smoothly gathered into a small tight low bun, without volume or loose strands. Natural soft glam, satin skin, soft contouring, and nude lips.\\n\\nGloomy diffused light, wet boards, fallen leaves, and dark water with reflections. Cold muted palette, light grain, no CGI, plastic retouching, gloss, or filters."
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic high-angle portrait of a woman in an oversized pinstripe coat holding coffee on a wet wooden footbridge."
+  },
+  "translationVersion": 2,
+  "summary": "Photorealistic high-angle portrait of a woman in an oversized pinstripe coat holding coffee on a wet wooden footbridge.",
+  "summaryEn": "Photorealistic high-angle portrait of a woman in an oversized pinstripe coat holding coffee on a wet wooden footbridge.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102236776748470351",
+    "canonicalUrl": "https://x.com/oye_samia/status/2102236776748470351",
+    "author": {
+      "username": "oye_samia",
+      "displayName": "Dr. Samia",
+      "profileUrl": "https://x.com/oye_samia"
+    },
+    "publishedAt": "2026-09-22T03:21:19.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "en",
+    "originalText": "Coffee, music, and fresh air.\n\nPrompt: **Strictly preserve the appearance 1:1 according to the reference: the face must be fully recognizable, with no change to features or proportions.**\n\nPhotorealistic autumn photo by a dark pond, high-angle shot.  \nThe girl stands on a wet wooden footbridge, body facing forward, head turned slightly to the left, gaze to the side.  \nCoffee in one hand; the other holds a lapel.  \nA transparent umbrella hangs on the bent forearm, dome downward, ribs visible.\n\nShe is wearing a long black oversized coat with thin gray pinstripes, a gray textured high-collar sweater, a narrow dark-brown scarf, large silver headphones, and massive rings.\n\nHair with a center parting is smoothly gathered into a small tight low bun, without volume or loose strands. Natural soft glam, satin skin, soft contouring, and nude lips.\n\nGloomy diffused light, wet boards, fallen leaves, and dark water with reflections. Cold muted palette, light grain, no CGI, plastic retouching, gloss, or filters.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSylMwCbkAA1WMT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSylMwCbkAA1WMT.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 33,
+      "repostCount": 3,
+      "replyCount": 26,
+      "quoteCount": 0,
+      "viewCount": 360
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/oye_samia/status/2102236776748470351",
+  "coverUrl": "https://pbs.twimg.com/media/HSylMwCbkAA1WMT.jpg",
+  "coverPath": "images/2102236776748470351-1.jpg",
+  "imagePaths": [
+    "images/2102236776748470351-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSylMwCbkAA1WMT",
+    "x-post:2102236776748470351"
+  ],
+  "analysis": {
+    "summary": "Photorealistic high-angle portrait of a woman in an oversized pinstripe coat holding coffee on a wet wooden footbridge.",
+    "summaryEn": "Photorealistic high-angle portrait of a woman in an oversized pinstripe coat holding coffee on a wet wooden footbridge.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the generated image's high angle, wooden bridge, dark pond, pinstripe coat, headphones, coffee, and transparent umbrella."
+    },
+    "videoQuality": null,
+    "originalPrompt": "**Strictly preserve the appearance 1:1 according to the reference: the face must be fully recognizable, with no change to features or proportions.**\n\nPhotorealistic autumn photo by a dark pond, high-angle shot.  \nThe girl stands on a wet wooden footbridge, body facing forward, head turned slightly to the left, gaze to the side.  \nCoffee in one hand; the other holds a lapel.  \nA transparent umbrella hangs on the bent forearm, dome downward, ribs visible.\n\nShe is wearing a long black oversized coat with thin gray pinstripes, a gray textured high-collar sweater, a narrow dark-brown scarf, large silver headphones, and massive rings.\n\nHair with a center parting is smoothly gathered into a small tight low bun, without volume or loose strands. Natural soft glam, satin skin, soft contouring, and nude lips.\n\nGloomy diffused light, wet boards, fallen leaves, and dark water with reflections. Cold muted palette, light grain, no CGI, plastic retouching, gloss, or filters.",
+    "sourceRange": {
+      "start": 39,
+      "end": 1012
+    },
+    "translations": {
+      "zh": "**严格按照参考图1:1保留外貌：面部必须完全可辨识，面部特征和比例无任何改变。**\n\n逼真的秋季照片，位于幽暗池塘边，俯拍视角。\n女孩站在潮湿的木制人行桥上，身体朝前，头部微向左转，目光侧视。\n一手拿着咖啡；另一手抓着衣领。\n一把透明雨伞挂在微屈的前臂上，伞顶朝下，伞骨清晰可见。\n\n她身穿一件带灰色细条纹的黑色长款宽松大衣、灰色质感高领毛衣、深棕色窄围巾，佩戴银色大头戴式耳机和硕大戒指。\n\n中分头发整齐梳成紧贴头皮的低发髻，无蓬松感或散碎发丝。自然柔和妆容，缎面皮肤，柔和修容，裸色唇彩。\n\n阴沉漫射光，潮湿木板，落叶与带倒影的暗水。冷色调，微颗粒感，无CGI、塑料感修图或滤镜。",
+      "en": "**Strictly preserve the appearance 1:1 according to the reference: the face must be fully recognizable, with no change to features or proportions.**\n\nPhotorealistic autumn photo by a dark pond, high-angle shot.  \nThe girl stands on a wet wooden footbridge, body facing forward, head turned slightly to the left, gaze to the side.  \nCoffee in one hand; the other holds a lapel.  \nA transparent umbrella hangs on the bent forearm, dome downward, ribs visible.\n\nShe is wearing a long black oversized coat with thin gray pinstripes, a gray textured high-collar sweater, a narrow dark-brown scarf, large silver headphones, and massive rings.\n\nHair with a center parting is smoothly gathered into a small tight low bun, without volume or loose strands. Natural soft glam, satin skin, soft contouring, and nude lips.\n\nGloomy diffused light, wet boards, fallen leaves, and dark water with reflections. Cold muted palette, light grain, no CGI, plastic retouching, gloss, or filters."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Portrait Photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

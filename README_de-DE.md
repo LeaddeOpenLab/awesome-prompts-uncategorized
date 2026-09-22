@@ -19,7 +19,7 @@ Leadde.ai hilft Teams, Dokumente, Folien und Texte in KI-Geschäftsvideos für S
 
 Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue kreative Ideen zu verfolgen.
 
-**449** Prompts · Zuletzt hinzugefügt: **2026-09-22**
+**461** Prompts · Zuletzt hinzugefügt: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,106 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 ## Fotografie
 
-<a name="prompt-2102149669896012031"></a>
+<a name="prompt-2102236776748470351"></a>
 
 ### Übersetzung läuft
+
+Autor：[@oye\_samia](https://x.com/oye_samia) · [Originalbeitrag](https://x.com/oye_samia/status/2102236776748470351)
+
+Fotografie · Porträt / Selfie · Charakter · Essen / Trinken · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102236776748470351-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102229410757910990"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2102229410757910990)
+
+Fotografie · Modeartikel · Zusammenfassung / Hintergrund · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102229410757910990-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102149669896012031"></a>
+
+### Prompt für ein realistisches Porträt einer Frau in zartrosa Spitzenkleidung, die morgens im Schlafzimmer auf dem Rücken im Bett liegt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2102149669896012031)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein realistisches Porträt einer Frau in zartrosa Spitzenkleidung, die morgens im Schlafzimmer auf dem Rücken im Bett liegt.
 
 <img src="images/2102149669896012031-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Schlafzimmer am Morgen | Sanftes Morgenlicht und scheues Lächeln in Zartrosa🌟
+
+【Thema und Kunststil】
+Fotorealistisches Foto, das den Moment festhält, in dem eine eindeutig erwachsene japanische Frau, die morgens im Schlafzimmer auf dem Rücken im Bett liegt, plötzlich den Blick ihres Partners kreuzt. Zarte florale Spitze in Zartrosa, weiße Bettwäsche und natürliches Morgenlicht verbinden sich zu der Eleganz einer Bildband-Szene und der intimen Lieblichkeit, die sich beiläufig im Alltag zeigt.
+Kein übermäßig inszeniertes Gravure-Shooting, sondern eine natürliche Distanz, wie aus der Perspektive des Partners fotografiert, steht im Vordergrund. Sanfte Gesichtszüge, Spitzendetails und die Textur der Bettwäsche werden wie auf einer echten Fotografie wiedergegeben.
+
+【Ort, Hintergrund und Welt】
+Ein ruhiges Schlafzimmer, gestaltet in Weiß und Altrosa. Auf einem großen Bett liegen saubere weiße Laken, eine Bettdecke und flauschige weiße Kissen; die Frau liegt auf der Bettdecke. Die Bettdecke breitet sich unter ihrem Körper aus und bedeckt weder Beine noch Kleidung.
+Am Fenster hängen hauchdünne weiße Vorhänge; neben dem Bett stehen ein kleiner runder Tisch mit dezenter Beleuchtung und Blumen in blassen Farben. Wenige Accessoires schaffen einen sauberen, bewohnten Raum, in dem die weiße Bettwäsche und das zartrosa Outfit ganz natürlich im Mittelpunkt stehen.
+
+【Jahreszeit, Zeit und Wetter】
+Ein ruhiger, sonniger Morgen, der an Frühling bis Frühsommer erinnert. Nicht direkt nach Sonnenaufgang, sondern zu einer Zeit, in der bereits ausreichend natürliches Licht durch die Vorhänge in den Raum dringt.
+Der Wind draußen ist schwach, sodass sich die leichten Vorhänge nur minimal bewegen. Kein grelles, direktes Sonnenlicht, sondern diffuses Licht durch die weißen Vorhänge erzeugt eine ruhige, weiche Atmosphäre, wie sie für ein gerade erwachtes Zimmer typisch ist.
+
+【Charakter-Einstellung】
+Eindeutig erwachsene, 23-jährige japanische Frau. Weiche, ebenmäßige Gesichtszüge mit leicht vergrößerten, dunkeläugigen Pupillen, natürlichen Augenbrauen, dezent gerundeten Wangen und weichen, rosigen Lippen. Dunkelbraunes, schulterlanges Haar mit natürlichen Wellen, das sich sanft auf dem Kissen verteilt. Helle Haut mit Ockerton, die eine natürliche Durchblutung und feine Schattierungen bewahrt.
+Zierliche Schultern und Gliedmaßen, eine schlanke Taille und eine elegante, glamouröse Figur, bei der die weiblichen Kurven nahtlos ineinander übergehen. Eine eindeutig große, vollbusige Oberweite, jedoch ohne unnatürliche Übertreibung, mit weicher Rundung und Dreidimensionalität, die der Rückenlage und der Schwerkraft entsprechen.
+
+【Outfit und Accessoires】
+Ein Neckholder-Babydoll auf Basis eines zartrosa, durchscheinenden Materials. Im Brustbereich feine Spitzen mit kleinem Blumenmuster und ein farblich passendes Futter, das für eine realistische Körbchenbreite und Stoffmenge sorgt, die das üppige Dekolleté mühelos umschließt. In der Mitte des Ausschnitts ein dezentes Detail wie eine kleine Schleife.
+Der Saumbereich besteht aus luftiger, transparenter Spitze, die sanft über das weiße Bettzeug fällt. Dazu passende Panties aus derselben floralen Spitze mit farblich abgestimmtem Innenfutter. Keine Accessoires, um die natürliche morgendliche Atmosphäre zu wahren.
+
+【Pose, Handlung und Blick】
+Mit dem Kopf auf ein weißes Kissen gebettet, liegt sie rücklings auf dem Bett und streckt ihren Körper diagonal zur Bildebene. Schultern und Rücken ruhen ganz natürlich auf der Matratze, in einer entspannten Haltung ohne Hohlkreuz. Beide Beine sind nahezu gerade ausgestreckt, lediglich die Knöchel sind leicht übereinandergelegt.
+Eine Hand greift mit den Fingerspitzen sanft nach der Kante des Kissens nahe am Kopf, während die andere Hand entspannt neben dem Körper liegt. Sie bemerkt den Blick ihres Partners, wendet ihr Gesicht leicht von der Kamera ab, lenkt jedoch nur ihre Augen zurück, um den Blickkontakt zu erwidern.
+
+【Ausdruck und Emotion】
+Ein verlegenes Lächeln in dem Moment, in dem sie durch den plötzlichen Augenkontakt mit ihrem Partner etwas schüchtern wird. Kein lautes Lachen mit offenem Mund, sondern leicht geschlossene Lippen mit sanft angehobenen Mundwinkeln. Eine leichte Spannung in den Wangen, während die Augenpartie weich entspannt ist.
+Im Blick liegt eine Intimität, als wolle sie sagen: „Hast du mich etwa angeschaut?“. Keine aufgesetzte Niedlichkeit, sondern ein natürliches, leicht verletzliches Gefühl des Versuchs, wegzusehen, ohne den Blick vom anderen abwenden zu können.
+
+【Komposition und Kamera】
+Vertikales 4:5-Format für X-Posts. Eine Ganzkörperkomposition (Full Body) mit ausreichendem Spielraum vom Scheitel bis zu den nackten Zehenspitzen, ohne Kopf, Hände oder Füße abzuschneiden. Der Körper der Frau folgt der Bilddiagonale und erzeugt eine natürliche Bewegung innerhalb des Hochformats.
+Die Kamera ist schräg von oben neben dem Bett positioniert, aus einer Höhe, die sowohl das Bett als auch den gesamten Körper der Frau gleichzeitig erfasst. Es wird ein natürlicher Bildwinkel von Standard bis leichtem leichten Teleobjektiv verwendet, der weder Gliedmaßen noch Brust durch Weitwinkel verzerrt. Der Hintergrund ist sanft und leicht unscharf gehalten, behält aber genügend Details, um als Schlafzimmer erkennbar zu bleiben.
+
+【Licht, Farbe, Textur und Atmosphäre】
+Das natürliche Morgenlicht, das durch das Fenster auf der linken Bildseite einfällt, fungiert als Hauptlichtquelle und wird durch die weißen Vorhänge weich gestreut. Auf der gegenüberliegenden Seite hellt eine schwache Reflexion von der weißen Wand und der Bettwäsche die Schatten im Gesicht und am Körper sanft auf. Die Schatten sind zart, mit einer morgendlichen neutralen bis leicht warmen Farbtemperatur.
+Die Haut bewahrt Poren, feine Schattierungen und natürliche Rosigkeit; das Haar zeigt einzelne Strähnen und die Weichheit, mit der es auf dem Kissen liegt. Die florale Spitze zeigt zarte Stickereien und die Transparenz feiner Stoffe; die Bettwäsche zeigt feine Baumwollfalten und Weichheit. Abgestimmt in Weiß, Zartrosa und Altrosa, vermittelt das Bild die intime Stille und Frische eines friedlichen Morgens.
+
+【Qualität und Ausschlusskriterien】
+Als hochauflösendes fotorealistisches Foto stehen ein natürlicher menschlicher Körper, Licht, Materialien und Perspektive wie bei einer Aufnahme mit einer echten Kamera im Vordergrund. Dargestellt als eindeutig erwachsene Frau; zu kindliche Gesichtszüge oder minderjährig wirkende Darstellungen sind zu vermeiden.
+Keine überzähligen Gliedmaßen oder Finger, keine fehlenden oder verschmolzenen Finger, keine unnatürlichen Gelenke, keine Verwechslung von linker und rechter Hand, keine Verschmelzung von Körper und Kleidung, keine Kleidungspannen oder ungewollte Entblößung. Die Brust behält ein natürliches, üppiges Volumen, ohne harte Kugelform, unnatürlichen Riesenwuchs, übermäßiges Hochdrücken oder Formen, die der Rückenlage und Schwerkraft widersprechen. Keine extremen Weitwinkelverzerrungen, keine übertriebene Weichzeichnung der Haut, keine künstlichen Hintergründe, kein Text, keine Logos, keine Wasserzeichen und keine UI-Elemente.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -79,20 +163,60 @@ Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
 <a name="prompt-2102151729752211626"></a>
 
-### Übersetzung läuft
+### Prompt für ein realistisches Fotoporträt einer Frau im korallenfarbenen Bikini, die am abendlichen Strand die Hand reicht.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2102151729752211626)
 
 Fotografie · Porträt / Selfie · Charakter · Landschaft / Natur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein realistisches Fotoporträt einer Frau im korallenfarbenen Bikini, die am abendlichen Strand die Hand reicht.
 
 <img src="images/2102151729752211626-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟 Ufer im Abendrot | Lächeln und Handreichen im korallenfarbenen Bikini 🌟
+
+【Motiv & Bildstil】
+Fotorealistische Aufnahme, die an einem ruhigen Sandstrand am Abend einen intimen Moment des gemeinsamen Spazierengehens mit dem Partner einfängt. Ein Bild im Fotobuch-Stil, das natürlich wirkt und nicht nur die Lieblichkeit der Person transportiert, sondern auch die Meeresluft, die Wellen zu ihren Füßen und die Farben des Sonnenuntergangs erlebbar macht.
+Ohne übertriebene Inszenierung steht ein Realismus wie von einer echten Kamera im Vordergrund, der sanfte Emotionen und ein Gefühl von Weite und Freiheit zugleich vermittelt.
+
+【Ort, Hintergrund & Welt】
+Der Schauplatz ist ein ruhiger Sandstrand und die Brandungszone am Abend. Im Vordergrund feuchter, glänzender Sand und sanft auflaufende flache Wellen; im Mittelgrund die gehende Frau; im Hintergrund ein ruhiges Meer, niedrige Felssilhouetten und ein zart gefärbter Himmel.
+Der Hintergrund zeigt einen ruhigen, wenig besuchten Strandabschnitt mit einer kurzen Kette von Fußspuren, die sich hinter ihr erstreckt. Eine weite Kulisse, die nicht trostlos wirkt, sondern stimmig als friedliche Urlaubsszene zu zweit zur Geltung kommt.
+
+【Jahreszeit, Tageszeit & Wetter】
+Jahreszeit ist Früh- bis Hochsommer am Meer. Tageszeit kurz vor Sonnenuntergang; die Luft ist noch mäßig warm, und eine sanfte Meeresbrise lässt Haare und Bikinizwirn leicht wehen.
+Klares Wetter. Das schräge Licht der Abendsonne erzeugt lange Reflexionen auf der Wasseroberfläche; der Himmel mischt sanfte Orange-, Rosa- und helle Blautöne. Die Luft ist klar, ruhig und von einer stillen Euphorie erfüllt.
+
+【Personendetails】
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Weiche, ebenmäßige Gesichtszüge mit tiefdunklen Augen, natürlichen Brauen und frisch getönten Lippen, die eine nahbare, erwachsene Anmut ausstrahlen. Das Haar ist dunkelbraun, schulterlang mit natürlichen Wellen; Spitzen und feine Strähnen bewegen sich leicht im Seewind.
+Der Hautton ist ein helles Ocker mit natürlicher, nicht übertrieben glatter Textur. Die Statur vereint zierliche Schultern und Gliedmaßen mit einer schlanken Taille und femininen Kurven zu einer eleganten, natürlich kurvigen Figur. Die Brust weist ein deutlich ausgeprägtes, üppiges Volumen auf, wirkt jedoch durch eine weiche, organische Formgebung stets natürlich an Kleidung und Haltung angepasst.
+
+【Kleidung & Accessoires】
+Ein Halterneck-Bikini aus korallenoranger Rüschenspitze. Das Oberteil ist mit zarten, kleinen Rüschen verziert, die das Dekolleté säumen; Nackenträger und ein kleiner Knoten in der Mitte setzen dezente Akzente. Das Höschen ist farblich passend gehalten und wird an den Seiten mit feinen Bändern gebunden, was für einen harmonischen Gesamteindruck sorgt.
+Das Material erweckt den Eindruck von weichem, elastischem Badestoff mit feiner Spitzenauflage. Natürliche Passform, die sich dem Körper sanft anschmiegt, ohne störende Falten oder unnatürliches Einschneiden an Brust und Hüfte. Accessoires dezent gehalten, allenfalls dezente kleine Ohrstecker.
+
+【Pose, Bewegung & Blick】
+Die Frau verlangsamt beim Gehen am Ufer leicht ihren Schritt. Ihr Körper ist natürlich in Gehrichtung ausgerichtet, während Oberkörper und Kopf leicht nach links zu ihrem Partner gewandt sind. Mitten im Schritt verbleibt das Gewicht leicht auf dem hinteren Bein, während die Zehen des vorderen Fußes sanft den feuchten Sand berühren.
+Ihre linke Hand streckt sie aus einer Höhe unterhalb der Hüfte dem Partner entgegen – eine beiläufige Geste kurz vor dem Händchenhalten. Die Finger sind entspannt und unverkrampft, der rechte Arm hängt locker an der Seite herab. Ihr Blick gilt dem Partner; die Kameraperspektive entspricht den Augen des neben ihr gehenden Partners, wobei dieser selbst nicht im Bild zu sehen ist.
+
+【Gesichtsausdruck & Emotion】
+Ein vertrautes, natürliches Lächeln, das sie nur ihrem Partner schenkt. Die Augenpartie wirkt weich entspannt, die Lippen formen ein dezentes, feines Lächeln – eine Mischung aus Verlegenheit und Freude.
+Statt einer gestellten Pose stehen das Gefühl von Geborgenheit beim Nebeneinandergehen und eine sanfte Verbundenheit im Mittelpunkt. Ein emotionaler Ausdruck ruhiger, unaufdringlicher Lieblichkeit.
+
+【Bildkomposition & Kamera】
+Vertikales Format 4:5 für X (Twitter). Ganzkörperaufnahme von Kopf bis Fuß mit ausreichend Raum, sodass die ausgestreckte Hand, die gehenden Füße und die Wasserreflexionen harmonisch ins Bild passen. Die Person ist leicht außermittig positioniert, mit ausgewogenem Freiraum links und rechts, um Bewegungsrichtung und Meeresweite spürbar zu machen.
+Kamerahöhe auf Brust- bis Augenhöhe des begleitenden Partners. Mittlere Aufnahmedistanz, um Ganzkörper und Mimik gleichermaßen einzufangen; Brennweite im Standard- bis leichten leichten Telebereich, um Verzerrungen durch extremen Weitwinkel zu vermeiden. Der Hintergrund bleibt erkennbar und verleiht dem Bild natürliche Tiefe.
+
+【Licht, Farbe, Textur & Stimmung】
+Hauptlichtquelle ist die tiefstehende Abendsonne hinten rechts. Das schräge Gegenlicht erzeugt warme Glanzlichter an Haar- und Schulterkonturen, während diffuses Aufhelllicht von Himmel und Sand das Gesicht weich und freundlich beleuchtet. Sanfte Schattenbildung ohne harte Kontraste.
+Farbpalette zentriert um das Korallenorange des Bikinis, kombiniert mit dem Abendrot, dem blaugrauen Meer und dem warmen Braun des feuchten Sandes. Lebendige Hauttöne, fließende Haarsträhnen, feines Glitzern auf den Wellen und die feuchte Textur des Sandes verleihen dem Bild eine zarte, romantische Gesamtstimmung.
+
+【Qualität & Ausschlusskriterien】
+Hohe Auflösung mit authentischer Textur von Körper, Licht, Stoff, Wasser und Sand wie bei einer realen Fotoaufnahme. Keine minderjährig wirkenden Darstellungen, kindlichen Züge oder übertrieben verzerrten Körperproportionen.
+Keine zusätzlichen oder fehlenden Gliedmaßen und Finger, keine unnatürlichen Gelenke, keine fehlerhafte Kleidung oder Verschmelzen von Stoff und Haut, keine unbeabsichtigte Nacktheit, keine Weitwinkelverzerrungen, kein künstlicher Unschärfe-Effekt, keine Schriften, Logos, Wasserzeichen oder UI-Elemente. Die Brust soll natürlich voll wirken, keinesfalls unnatürlich riesig, starr kugelrund oder extrem hochgepusht.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -123,20 +247,50 @@ Fotografie · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2102148560078954751"></a>
 
-### Übersetzung läuft
+### Fotorealistisches Porträt einer lächelnden Frau in weißer Blümchenstickerei-Lingerie im Schlafzimmer in einer Gewitternacht.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2102148560078954751)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistisches Porträt einer lächelnden Frau in weißer Blümchenstickerei-Lingerie im Schlafzimmer in einer Gewitternacht.
 
 <img src="images/2102148560078954751-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Gewitternacht | Weiße Blümchenstickerei und ein Lächeln vor dem „Gute Nacht“🌟
+
+【Motiv / Bildstil】
+In einem Schlafzimmer in einer Nacht mit starkem Regen: der Moment, kurz bevor eine eindeutig erwachsene japanische Frau, die auf dem Bett sitzt, ihrem vor ihr stehenden Partner eine Gute-Nacht-Begrüßung schenkt. Grundlegend im Stil eines fotorealistischen Fotobuchs gehalten, kein künstliches Glamour-Shooting, sondern mit der Alltäglichkeit und Intimität einer natürlichen Nahaufnahme des Partners. Ein Kontrast in einem einzigen Bild zwischen der Wärme des Zimmers und der regnerischen, blauen Nacht.
+
+【Ort / Hintergrund / Welt】
+Ein ruhiges Schlafzimmer in Weiß- und sanften Beigetönen. Hinter der Frau befindet sich ein Bett mit weichen, bauschigen weißen Kissen und einer flauschigen weißen Bettdecke. Auf der linken Bildseite befindet sich ein geschlossenes Fenster mit geöffneten Vorhängen; auf der Glasoberfläche sind Wassertropfen unterschiedlicher Größe und herablaufende Rinnsale deutlich dargestellt. Außerhalb des Fensters ist dezent die nächtliche Stadtlandschaft zu sehen: nasse Straßen, entfernte Lichter von Gebäuden und die Reflexion von Straßenlaternen. Möbel und Dekoration im Innenraum sind auf ein Minimum beschränkt; nur Bett, Fenster und eine warme Lampe schaffen einen ruhigen, privaten Raum.
+
+【Jahreszeit / Tageszeit / Wetter】
+Eine Nacht mit leichter Frische, ohne die Jahreszeit zu eng festzulegen. Draußen regnet es unaufhörlich in Strömen, so heftig, dass diagonale Regenschnüre im Licht der Straßenlaternen sichtbar sind. Wind und Regen existieren nur außerhalb des Fensters; Haare, Haut, Bettwäsche und das Zimmer der Frau sind völlig trocken. Die Zeit ist späte Nacht vor dem Schlafengehen. Draußen herrscht ein bläuliches Dunkel, jedoch kein reines Schwarz, sodass genügend Restlicht bleibt, um Regentropfen und die nasse Stadt zu erkennen.
+
+【Charakter-Design】
+Eine 27-jährige, eindeutig erwachsene japanische Frau. Weiche, harmonische Gesichtszüge, etwas größere, dunkle Augen, natürliche Augenbrauen, zarte Lippen mit natürlicher Frische. Dunkelbraunes, schulterlanges Haar mit sanften Wellen und feinen Härchen an den Schläfen, das Augen und Mund frei lässt. Heller ockerfarbener Hautton mit sichtbaren Poren und feinen Schattierungen. Zierliche Schultern und Arme, eine schmale Taille und eine weibliche Rundung, die sich zu einer natürlich glamourösen Figur harmonisch zusammenfügen. Der Busen ist deutlich voll und groß, zeigt jedoch ein weiches, dreidimensionales Volumen, das sich Kleidung, Haltung und Schwerkraft anpasst, im natürlichen Gleichgewicht zum gesamten Körper.
+
+【Kleidung / Accessoires】
+Ein weißer BH mit zarter Blümchenstickerei und passender Slip. Bei diesem Ausschnitt von der Brust bis zum Gesicht bleibt der Slip außerhalb des Bildes, sodass die Träger des BHs, die Spitze am oberen Rand der Körbchen und die kleine Blumenstickerei natürlich sichtbar sind. Die Cups verfügen über ein blickdichtes weißes Innenfutter, überlagert von filigraner Blumenstickerei und feiner Spitzenborte. Eine realistische Passform in der richtigen Größe, die die volle Brust angenehm umschließt, ohne extrem gespannt zu sein oder einzuschneiden. Kein Schmuck, der schlichte Charakter vor dem Schlafengehen steht im Vordergrund.
+
+【Pose / Bewegung / Blick】
+Die Frau sitzt entspannt auf der Bettkante und neigt ihren Oberkörper leicht ihrem Partner zu. Die linke Hand stützt sich etwas hinter ihrem Körper auf der Matratze ab, die rechte Hand ruht leicht auf dem Bettlaken neben dem Oberschenkel. Beide Hände befinden sich außerhalb des Bildausschnitts, der von der Brust aufwärts reicht. Entspannte Schultern, leicht aufgerichteter Rücken ohne Anspannung. Der Kopf ist minimal geneigt, der Blick richtet sich direkt auf den Partner an der Kameraposition. Kein unnatürliches Hohlkreuz oder herausgedrückte Brust.
+
+【Ausdruck / Emotion】
+Ein intimes, natürliches und sanftes Lächeln, das dem Partner gilt. Sanft entspannte Augenpartie, die die Ruhe eines sicher ausklingenden Tages ausstrahlt. Die Lippen sind natürlich geschlossen, ohne übertriebenes Grinsen, und fangen den Moment ein, kurz bevor sie mit leiser Stimme „Gute Nacht“ sagt. Auf den Wangen liegt ein natürliches Erröten durch das warme Licht; das Lächeln überträgt sich auch auf Augenbrauen und Augen. Vorrang hat eine leicht verlegene, sanfte Zärtlichkeit, die man nur einer nahestehenden Person zeigt, statt des aufgesetzten Lächelns eines Fotomodells.
+
+【Komposition / Kamera】
+Vertikales 4:5-Format für X-Posts. Eine Brustporträt-Komposition, die von der Brust bis zum Scheitelpunkt reicht, mit etwas Freiraum über dem Kopf. Die Frau ist etwas rechts von der Mitte platziert, sodass links ausreichend Raum für das vom Regen überströmte Fenster bleibt. Die Kamera befindet sich auf Augenhöhe der Frau und nimmt aus kurzer Distanz auf. Natürlicher Bildwinkel entsprechend 50 bis 70 mm Standard- bis leichtem Teleobjektiv, um Verzerrungen von Gesicht oder Brust durch Weitwinkel zu vermeiden. Der Hintergrund ist sanft und leicht unscharf gehalten, bewahrt jedoch genug Information, um Regentropfen und den starken Regen erkennbar zu machen.
+
+【Licht / Farbe / Textur / Atmosphäre】
+Das warme Nachttischlicht hinten rechts dient als Hauptlichtquelle und wirft ein weiches, warmes Licht auf Gesicht, Wangen, Dekolleté und weiße Spitze. Vom Fenster fällt schwaches, bläuliches Nachtlicht ein und bildet einen zarten kühlen Saum an den Konturen von Haar und Schultern. Eine nächtliche Beleuchtung, in der warme und kühle Töne harmonisch verschmelzen. Die Haut zeigt feine Nuancen und natürliche Tönung, das Haar einzelnen Fluss und Glanz, die Lingerie Stoffdicke, Stickgarn und das feine Relief der Spitze. Das Fensterglas wird mit feuchter Transparenz und die Bettwäsche als weicher Stoff differenziert dargestellt, wodurch der Kontrast zwischen ruhigem Raum und heftigem Regen spürbar wird.
+
+【Qualität / Negative Prompts】
+Fotorealistisches Foto mit hoher Auflösung, natürlichen Körperproportionen, realistischem Licht und stimmiger Perspektive. Eindeutig erwachsene Person; zu kindliche Züge oder Darstellungen, die minderjährig wirken, sind zu vermeiden. Keine überzähligen Gliedmaßen oder Finger, unnatürlichen Gelenke, Verschmelzungen von Körper und Kleidung, beschädigte Kleidung oder unbeabsichtigte Nacktheit, extreme Weitwinkelverzerrungen oder übertriebene Weichzeichnung der Haut. Die Brust behält ihr volles, natürliches Volumen bei, ohne harte Kugelformen, unnatürlichen Push-up oder der Schwerkraft widersprechende Formen. Kein Regen, der ins Zimmer oder auf die Person dringt; keine Texte, Logos, Wasserzeichen, Sprechblasen oder UI-Elemente.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -4511,6 +4665,74 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 ## Kinematisch / Filmstill
 
+<a name="prompt-2102201412503642312"></a>
+
+### Übersetzung läuft
+
+Autor：[@Marie8508319540](https://x.com/Marie8508319540) · [Originalbeitrag](https://x.com/Marie8508319540/status/2102201412503642312)
+
+Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102201412503642312.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102219008845971613"></a>
+
+### Übersetzung läuft
+
+Autor：[@WescheNex1q](https://x.com/WescheNex1q) · [Originalbeitrag](https://x.com/WescheNex1q/status/2102219008845971613)
+
+Fotografie · Kinematisch / Filmstill · 3D-Rendering · Veröffentlicht
+
+Originalbeitrag：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Originalbeitrag](https://x.com/Bhavani_00007/status/2098134452283334781)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102219008845971613.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102223289443877247"></a>
+
+### Übersetzung läuft
+
+Autor：[@laviniavelle](https://x.com/laviniavelle) · [Originalbeitrag](https://x.com/laviniavelle/status/2102223289443877247)
+
+Fotografie · Kinematisch / Filmstill · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102223289443877247.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2102106915635601452"></a>
 
 ### Handgezeichnete Animationsaufnahme eines Mannes, der auf einer Bank sitzt, eines US-Flaggen-Adlers, der auf seinem Kopf landet, und des Mannes, der schreiend davonläuft.
@@ -6871,13 +7093,13 @@ Luffy streichelt Anyas Kopf liebevoll, Anya wirft sich in seine Arme, umgeben vo
 
 <a name="prompt-2101956517557883076"></a>
 
-### Übersetzung läuft
+### Mode-Editorial-Illustration eines gehenden Mannes in einem maßgeschneiderten grauen Anzug, drapiert in ein farbenfrohes koreanisches Schamanengewand mit Sumi-e-Tintenrauch auf einem senfgelben Hintergrund.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Originalbeitrag](https://x.com/leftbypeace/status/2101956517557883076)
 
 Illustration · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Mode-Editorial-Illustration eines gehenden Mannes in einem maßgeschneiderten grauen Anzug, drapiert in ein farbenfrohes koreanisches Schamanengewand mit Sumi-e-Tintenrauch auf einem senfgelben Hintergrund.
 
 <img src="images/2101956517557883076-1.jpg" alt="Bild 1" width="480" />
 
@@ -6888,7 +7110,7 @@ Illustration · Charakter · Modeartikel · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ganzkörper, 3::Seitenprofil, natürliche Gehpose, im Schritt, ein Bein vorne, das andere Bein hinten::, Zigarette rauchend, 3::schwarzer, tintenartiger Zigarettenrauch, Sumi-e-Rauch, fließende Tuschewaschung::, 2::grauer Maßanzug, weißes Hemd, graue Krawatte::, 3::farbenfrohes koreanisches Schamanengewand, locker über dem Anzug getragen::, lange fließende Ärmel, hinterherwehendes Gewand, bunte rituelle Perlen und Quasten an der Taille, 2::eine Hand in der Tasche, der andere Arm entspannt an der Seite::, Mode-Editorial, flacher senfgelber Hintergrund
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -7333,6 +7555,32 @@ Verwandle das Foto in eine handgemalte Gouache-Karikatur auf cremefarbenem Baumw
 
 ## Skizze / Strichzeichnung
 
+<a name="prompt-2102193031583588643"></a>
+
+### Übersetzung läuft
+
+Autor：[@BorderleSint](https://x.com/BorderleSint) · [Originalbeitrag](https://x.com/BorderleSint/status/2102193031583588643)
+
+Skizze / Strichzeichnung · Veröffentlicht
+
+Originalbeitrag：[@Zackjpnman](https://x.com/Zackjpnman) · [Originalbeitrag](https://x.com/Zackjpnman/status/2101687832557527435)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102193031583588643-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102193031583588643-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2099485936535167139"></a>
 
 ### Prompt für ein 3:4-Vergleichsplakat \(oben/unten\): Die obere Hälfte behält das echte Reisefoto bei, die untere Hälfte wird in eine minimalistische elfenbeinweiße Linienzeichnung auf dunkelblauem Grund umgewandelt.
@@ -7651,17 +7899,17 @@ Vermeide erkennbare urheberrechtlich geschützte Charaktere, Ähnlichkeiten mit 
 
 ## 3D-Rendering
 
-<a name="prompt-2102166553701597551"></a>
+<a name="prompt-2102213593043226881"></a>
 
 ### Übersetzung läuft
 
-Autor：[@WescheNex1q](https://x.com/WescheNex1q) · [Originalbeitrag](https://x.com/WescheNex1q/status/2102166553701597551)
+Autor：[@ralejandrots88](https://x.com/ralejandrots88) · [Originalbeitrag](https://x.com/ralejandrots88/status/2102213593043226881)
 
-3D-Rendering · Landschaft / Natur · Veröffentlicht
+3D-Rendering · Veröffentlicht
 
 **Zusammenfassung:** Übersetzung läuft
 
-<img src="covers/2102166553701597551.jpg" alt="Bild 1" width="480" />
+<img src="covers/2102213593043226881.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
@@ -7673,22 +7921,44 @@ Autor：[@WescheNex1q](https://x.com/WescheNex1q) · [Originalbeitrag](https://x
 
 ---
 
+<a name="prompt-2102166553701597551"></a>
+
+### Prompt zur Erstellung eines interaktiven GLSL-Fragment-Shader-Planeten mit Gelände, Ozeanen, Atmosphäre und saisonalen Eiskappen.
+
+Autor：[@WescheNex1q](https://x.com/WescheNex1q) · [Originalbeitrag](https://x.com/WescheNex1q/status/2102166553701597551)
+
+3D-Rendering · Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Prompt zur Erstellung eines interaktiven GLSL-Fragment-Shader-Planeten mit Gelände, Ozeanen, Atmosphäre und saisonalen Eiskappen.
+
+<img src="covers/2102166553701597551.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+ein Planet aus dem Orbit, Gelände, Ozeane, ziehende Wolken, Tag-Nacht-Terminator mit Lichtern von Städten, Atmosphäre am Rand, langsame Rotation, ziehen zum Neigen, eine Schaltfläche "Season", die die Eiskappen verschiebt.
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2102155360505053659"></a>
 
-### Übersetzung läuft
+### Generieren einer 3D-Szene eines Fahrrad fahrenden Pelikans in einer einzelnen HTML-Datei mit Three.js.
 
 Autor：[@\_kaichen](https://x.com/_kaichen) · [Originalbeitrag](https://x.com/_kaichen/status/2102155360505053659)
 
 3D-Rendering · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generieren einer 3D-Szene eines Fahrrad fahrenden Pelikans in einer einzelnen HTML-Datei mit Three.js.
 
 <img src="covers/2102155360505053659.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Implementiere mit Three.js einen Pelikan, der Fahrrad fährt, in einer eigenständigen HTML-Datei
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -7905,20 +8175,20 @@ Chibi / Q-Style · Aquarell · Charakter · Veröffentlicht
 
 <a name="prompt-2102150362945687807"></a>
 
-### Übersetzung läuft
+### Barockes Ölgemälde eines Renaissance-Adligen, einer goldenen Kutsche und weißer Pferde in einem vergoldeten Rahmen.
 
 Autor：[@arco0369](https://x.com/arco0369) · [Originalbeitrag](https://x.com/arco0369/status/2102150362945687807)
 
 Ölgemälde · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Barockes Ölgemälde eines Renaissance-Adligen, einer goldenen Kutsche und weißer Pferde in einem vergoldeten Rahmen.
 
 <img src="covers/2102150362945687807.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein meisterhaftes antikes Ölgemälde im dramatischen Barockstil von Caravaggio und den italienischen Meistern des 17. Jahrhunderts, mit reichhaltiger Chiaroscuro-Beleuchtung, tiefen Schatten und warmen goldenen Glanzlichtern. Ein edler Renaissance-Herr steht in würdevoller Pose da und trägt ein luxuriöses Wams aus dunkel weinrotem Samt mit fließendem Umhang, dunkle knielange Kniehosen, helle cremefarbene Strümpfe, schwarze Lederschuhe und eine schwarze Baskenmütze mit einer Feder. Er steht vor einer reich verzierten, prunkvoll vergoldeten Kutsche, die von zwei prächtigen weißen Pferden gezogen wird, die mit kunstvollem goldenem Geschirr, Schöpfen und Federn geschmückt sind. Die Szene spielt an einem klaren Tag mit einem leicht dramatischen Himmel voller wirbelnder Wolken. Im Hintergrund ein eleganter italienischer Palastgarten mit hohen Zypressen und verzierten Toren und Portiken aus goldenem Schmiedeeisen. Das gesamte Kunstwerk wird als altes Ölgemälde dargestellt, eingefasst in einen reich geschnitzten, kunstvollen goldenen Barockrahmen der Epoche. Hochdetaillierte Texturen von Samt, Blattgold, Pferdegeschirr, Steinarchitektur und gealterter Leinwand. Seitenverhältnis 3:2.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -8007,15 +8277,41 @@ Erstelle aus dem eingegebenen Architektur-Reisefoto ein vertikales Vorher-Nachhe
 
 ## Aquarell
 
-<a name="prompt-2102160154909438370"></a>
+<a name="prompt-2102216813459439933"></a>
 
 ### Übersetzung läuft
+
+Autor：[@afrinxai](https://x.com/afrinxai) · [Originalbeitrag](https://x.com/afrinxai/status/2102216813459439933)
+
+Aquarell · Porträt / Selfie · Charakter · Veröffentlicht
+
+Originalbeitrag：[@afrinxai](https://x.com/afrinxai) · [Originalbeitrag](https://x.com/afrinxai/status/2102035368354738376)
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102216813459439933-1.jpg" alt="Bild 1" width="480" />
+
+<img src="images/2102216813459439933-2.jpg" alt="Bild 2" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102160154909438370"></a>
+
+### Ein Bild, das realistische Fotografie und Aquarellillustration einer jungen Frau beim Apfelpflücken in einem Obstgarten kombiniert.
 
 Autor：[@Minahil42298354](https://x.com/Minahil42298354) · [Originalbeitrag](https://x.com/Minahil42298354/status/2102160154909438370)
 
 Fotografie · Illustration · Aquarell · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Bild, das realistische Fotografie und Aquarellillustration einer jungen Frau beim Apfelpflücken in einem Obstgarten kombiniert.
 
 <img src="images/2102160154909438370-1.jpg" alt="Bild 1" width="480" />
 
@@ -8024,7 +8320,7 @@ Fotografie · Illustration · Aquarell · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein bezauberndes, zusammengesetztes Bild mit einer realistischen Fotografie in der oberen Hälfte und einer entsprechenden Aquarellillustration in der unteren Hälfte, beide auf einem strukturierten, warmweißen Papierhintergrund. Die obere Hälfte zeigt eine hyperrealistische Fotografie einer fröhlichen jungen Frau mit langen, welligen braunen Haaren und geröteten Wangen, die einen Strohhut mit einer Blume und ein geblümtes Maxikleid trägt. Sie blickt lächelnd zu einem Apfelbaum hinauf und streckt die Hand aus, um einen roten Apfel zu pflücken, während sie einen großen, mit Äpfeln gefüllten Weidenkorb am Arm trägt. Der Hintergrund ist ein heller, von der Sonne durchfluteter Apfelgarten. Die untere Hälfte, direkt unter dem Foto, ist eine zarte, künstlerische Aquarellillustration, die genau dasselbe Motiv und dieselbe Pose in einem malerischen, weichgezeichneten Stil einfängt und so wirkt, als sei sie direkt auf das Papier gemalt worden. Die Illustration behält den Gesichtsausdruck, das Kleid, den Hut und die gesamte Obstgartenszene der Frau bei, jedoch mit sichtbaren Pinselstrichen und Farbverläufen. Beide Abschnitte sind zentriert, mit einem deutlichen, künstlerischen Übergang zwischen dem Rand des Fotos und der Kante der Illustration, der sanfte, federartige Pinselspuren aufweist, die sich im Papier auflösen. Die Gesamtkomposition wirkt wie die Seite eines Kunsttagebuchs oder ein Kunstdruck.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -8065,20 +8361,20 @@ Erstelle ein vertikales Reise-Kunstplakat im Vorher-Nachher-Vergleich (oben/unte
 
 <a name="prompt-2102173528900428060"></a>
 
-### Übersetzung läuft
+### Vintage-minimalistische Modeillustration, Frau im Halbprofil mit übergroßem weißen Schlapphut und roten Lippen, einfarbiger terrakotta-orangefarbener Hintergrund.
 
 Autor：[@Tanvir48992](https://x.com/Tanvir48992) · [Originalbeitrag](https://x.com/Tanvir48992/status/2102173528900428060)
 
 Illustration · Retro / Vintage · Minimalismus · Charakter · Modeartikel · Zusammenfassung / Hintergrund · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Vintage-minimalistische Modeillustration, Frau im Halbprofil mit übergroßem weißen Schlapphut und roten Lippen, einfarbiger terrakotta-orangefarbener Hintergrund.
 
 <img src="images/2102173528900428060-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultradetaillierte, minimalistische redaktionelle Modeillustration, vertikale Komposition, anspruchsvolle Vintage-Glamour-Ästhetik, elegantes Art-déco-inspiriertes digitales Gemälde mit klaren geometrischen Formen, subtiler malerischer Textur und kinoreifer posterartiger Komposition. Eine elegante erwachsene Frau ist im Dreiviertel-Seitenprofil dargestellt und blickt zur rechten Seite des Rahmens. Ihr Kopf ist leicht nach oben geneigt, was eine anmutige, selbstbewusste und geheimnisvolle Pose erzeugt. Ihre Gesichtszüge sind verfeinert und stilisiert mit einer langen, eleganten Nase, sanft definierten Wangenknochen, glatter, warmbeiger Haut, einer zarten Kinnlinie und vollen, tiefroten karmesinroten Lippen. Ihre Augen sind größtenteils unter der überdimensionalen Hutkrempe verborgen, was eine rätselhafte und modisch-redaktionelle Stimmung erzeugt. Sie hat dunkelbraunes bis tiefschwarzes Haar, das am Hinterkopf zu einem tiefen, ordentlichen Dutt zusammengebunden ist, wobei einige dezente lose Strähnen die Seite ihres Gesichts und Halses umrahmen. Das Haar weist glatte, kontrollierte Formen mit sehr subtiler Strähnchentextur anstelle von fotorealistischen Details auf. Sie trägt einen dramatisch übergroßen weiße/elfenbeinfarbenen Schlapphut mit breiter Krempe. Der Hut ist das dominierende visuelle Element in der Komposition. Seine enorme, geschwungene Krempe spannt sich diagonal von der unteren linken Ecke zur oberen rechten Seite des Bildes und bedeckt teilweise ihre Augen und ihr oberes Gesicht. Die Krempe hat eine glatte elfenbeinweiße Oberfläche mit extrem feiner stoff-/papierartiger Textur und weichen Tonwertübergängen. Die Krone des Hutes ist groß, abgerundet und strukturiert, wirkt beinahe skulptural und befindet sich hinter und über ihrem Kopf. Ihr Outfit ist ein elegantes, fließendes elfenbeinweißes Kleid oder eine Bluse, die die Schultern und den oberen Rumpf bedeckt. Das Kleidungsstück hat eine sanft drapierte Silhouette mit weiten Falten und glatten Stoffoberflächen. Der Halsausschnitt ist dezent und anmutig, mit dezenten überlappenden Falten im Hals- und Schulterbereich. Die Kleidung fügt sich natürlich in die minimalistische Ästhetik ein und bewahrt gleichzeitig sichtbare textile Textur. Pose und Komposition: eng gefasstes Porträt von etwa der oberen Brust aufwärts. Die Frau nimmt den größten Teil des Rahmens ein, leicht links von der Mitte positioniert, während ihr Gesicht nach rechts zeigt. Der übergroße Hut erzeugt eine starke diagonale visuelle Linie quer durch die Komposition. Ihr Hals und ihre Schulter bilden elegante geschwungene Formen, die mit der geometrischen Hutkrempe kontrastieren. Die Komposition sollte sorgfältig ausgewogen, mondän und redaktionell wirken. Hintergrund: ein vollständig flacher Hintergrund in gebranntem Orange / Terrakotta, mit dezenter handgemalter Pinseltextur und sanfter Farbvariation. Keine Gegenstände, Landschaften oder zusätzliche Elemente. Der warme orangefarbene Hintergrund kontrastiert stark mit dem schwarzen Haar und dem elfenbeinweißen Hut samt Kleidung. Farbpalette: gebranntes Orange, Terrakotta, warmes Beige, Elfenbeinweiß, Creme, tiefes Schwarz, Dunkelbraun und gedeckte karmesinrote Lippen. Farben satt, aber leicht entsättigt halten, mit einer edlen Vintage-Druckqualität. Beleuchtung: sanfte, diffuse Beleuchtung im Studio-Stil, dargestellt durch saubere Tonwertübergänge anstelle von realistischen fotografischen Schatten. Sanfte Glanzlichter auf Wange, Nase, Lippen und weißer Kleidung. Subtile Schatten unter der Hutkrempe und um Hals und Haar. Visueller Stil: luxuriöse Mode-Editorial-Illustration, minimalistisches modernistisches Poster, Vintage-Modemagazin-Ästhetik der 1960er–1970er Jahre, anspruchsvolles geometrisches Digitalgemälde, elegantes Silhouettendesign, glatte vektorartige Formen kombiniert mit dezenter handgemalter Textur, zurückhaltende Details, künstlerischer Negativraum, High-End-Modekampagnen-Artwork. Rendering: extrem saubere Kanten, präzise Gesichtsproportionen, glatte Hautformen, anspruchsvolle Tonwertschichtung, feine Leinwand-/Papierkörnung, kontrollierte Pinseltextur, erstklassiges redaktionelles Finish, hohe Auflösung, Modeillustration in Museumsqualität, visuell auffällig, zeitlos und elegant. Negative Prompt: fotorealistische Fotografie, 3D-Render, Anime, Cartoon, kindlicher Stil, übertriebene Gesichtszüge, verzerrte Anatomie, zusätzliche Gliedmaßen, zusätzliche Finger, missgebildetes Gesicht, sichtbare Augen, übermäßig detaillierter Hintergrund, Unordnung, Text, Typografie, Logo, Wasserzeichen, harte Schatten, Neonfarben, übersättigte Farben, glänzende Plastikhaut, übermäßige Hauttextur, unordentliches Haar, verzerrter Hut, asymmetrische Krempe, niedrige Auflösung, verschwommene Kanten, Rauschen, schlechte Komposition.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -8809,6 +9105,28 @@ Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto al
 
 ## Cyberpunk / Sci-Fi
 
+<a name="prompt-2102209728663437419"></a>
+
+### Übersetzung läuft
+
+Autor：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Originalbeitrag](https://x.com/TheEerieHollows/status/2102209728663437419)
+
+Cyberpunk / Sci-Fi · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102209728663437419-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
 <a name="prompt-2101749161536458825"></a>
 
 ### Ein Materialwissenschaftler zieht einen dunklen Graphen-Tarnanzug mit pulsierenden, elektrisch blauen Linien an.
@@ -8878,6 +9196,28 @@ Cyberpunk / Sci-Fi · Veröffentlicht
 <a name="category-minimalism"></a>
 
 ## Minimalismus
+
+<a name="prompt-2102211141820920113"></a>
+
+### Übersetzung läuft
+
+Autor：[@DDJCXX](https://x.com/DDJCXX) · [Originalbeitrag](https://x.com/DDJCXX/status/2102211141820920113)
+
+Fotografie · Minimalismus · Porträt / Selfie · Charakter · Modeartikel · Architektur / Interieur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102211141820920113-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
 
 <a name="prompt-2101703683167645776"></a>
 
@@ -9037,22 +9377,66 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 ## Sonstige
 
-<a name="prompt-2102144332148957251"></a>
+<a name="prompt-2102204400768876741"></a>
 
 ### Übersetzung läuft
+
+Autor：[@MakunaMars](https://x.com/MakunaMars) · [Originalbeitrag](https://x.com/MakunaMars/status/2102204400768876741)
+
+Landschaft / Natur · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="images/2102204400768876741-1.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102239002317525380"></a>
+
+### Übersetzung läuft
+
+Autor：[@NbkogY3](https://x.com/NbkogY3) · [Originalbeitrag](https://x.com/NbkogY3/status/2102239002317525380)
+
+Charakter · Veröffentlicht
+
+**Zusammenfassung:** Übersetzung läuft
+
+<img src="covers/2102239002317525380.jpg" alt="Bild 1" width="480" />
+
+**Prompt**
+
+```text
+Übersetzung läuft
+```
+
+[↑ Zurück zu Kategorien](#catalog)
+
+---
+
+<a name="prompt-2102144332148957251"></a>
+
+### Ein sanftes Okapi, das durch eine riesige, geschichtete Welt aus schwebenden Streifen, durchscheinenden Rechtecken und geschwungenen Papierformen wandert, die seine Zeichnung optisch widerspiegeln, raffinierte Scherenschnitt-Collage verschmolzen mit Trockenpastell, Petrol, Burgund, Kobalt und Gold, stilvoller verspielter Surrealismus.
 
 Autor：[@RenRose321](https://x.com/RenRose321) · [Originalbeitrag](https://x.com/RenRose321/status/2102144332148957251)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein sanftes Okapi, das durch eine riesige, geschichtete Welt aus schwebenden Streifen, durchscheinenden Rechtecken und geschwungenen Papierformen wandert, die seine Zeichnung optisch widerspiegeln, raffinierte Scherenschnitt-Collage verschmolzen mit Trockenpastell, Petrol, Burgund, Kobalt und Gold, stilvoller verspielter Surrealismus.
 
 <img src="images/2102144332148957251-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein sanftes Okapi, das durch eine riesige, geschichtete Welt aus schwebenden Streifen, durchscheinenden Rechtecken und geschwungenen Papierformen wandert, die seine Zeichnung optisch widerspiegeln, raffinierte Scherenschnitt-Collage verschmolzen mit Trockenpastell, Petrol, Burgund, Kobalt und Gold, stilvoller verspielter Surrealismus.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -9061,20 +9445,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2102132256290558176"></a>
 
-### Übersetzung läuft
+### Prompt-Vorlage aus der Tiefsee-ROV-Perspektive mit ungewöhnlichen Tiefwasser-Motiven in einem 2x2-Raster mit realistischen Telemetrie-Overlays.
 
 Autor：[@Gdgtify](https://x.com/Gdgtify) · [Originalbeitrag](https://x.com/Gdgtify/status/2102132256290558176)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt-Vorlage aus der Tiefsee-ROV-Perspektive mit ungewöhnlichen Tiefwasser-Motiven in einem 2x2-Raster mit realistischen Telemetrie-Overlays.
 
 <img src="images/2102132256290558176-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+2x2-Raster, 16:9, mache dies für 4 ungewöhnliche Subjekte: EINGABE: $ SUBJEKT              // Kreatur, Struktur, Geometrie, die dort unten nicht sein sollte FUND      = infer_subject($ SUBJEKT)        // Maßstab vs. ROV-Arm, Transluzenz, Bewegung oder Stillstand MASS_REF  = infer_reference($ SUBJEKT)      // Manipulatorarm, Probenahmekorb im Vordergrund für die Größe WASSER    = infer_water_column($ SUBJEKT)   // Partikeldichte, blau-grüne Absorption SCHNEE    = infer_marine_snow($ SUBJEKT)    // stetig treibende Flocken, von Lampen beleuchtet LAMPEN    = infer_rov_lighting($ SUBJEKT)   // zwei harte Scheinwerfer, scharfer Abfall zu reinem Schwarz BODEN     = infer_seafloor($ SUBJEKT)       // Schlick, aufgewirbelte Sedimentfahne, Fels OPTIK     = infer_rov_cam($ SUBJEKT)        // Weitwinkel, leichtes Fischauge, Fixfokus OVERLAY   = infer_telemetry($ SUBJEKT)      // Tiefe, Temp., Kurs, Breitengrad/Längengrad, Tauchgangsnummer FEHLER    = infer_flaws($ SUBJEKT)          // Rückstreublendung, Schärfeziehen, Farbrauschen Φ = lamp_cone(LAMPEN) + backscatter(SCHNEE) BEWEGUNG: langsame ROV-Drift → Subjekt tritt in den Lichtkegel der Lampen ein → Triebwerksschub, Sedimentschleier steigt auf → Subjekt reagiert oder reagiert nicht → Lampen verlieren es an die Dunkelheit. Komponieren: ROV-Tauchboot-Filmmaterial, Doppel-Scheinwerfer mit hartem Abfall ins Schwarze, marine Schnee-Rückstreuung, Telemetrie-Overlay, weitwinkliges, leichtes Fischaugenobjektiv. Fotorealistisch, 16:9.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -9083,20 +9467,20 @@ Sonstige · Veröffentlicht
 
 <a name="prompt-2102173572764766661"></a>
 
-### Übersetzung läuft
+### Ein Prompt zum Zeichnen eines Mädchens in einem Zimmer, das von Morgenlicht und Schatten erhellt wird.
 
 Autor：[@55hawks](https://x.com/55hawks) · [Originalbeitrag](https://x.com/55hawks/status/2102173572764766661)
 
 Charakter · Architektur / Interieur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein Prompt zum Zeichnen eines Mädchens in einem Zimmer, das von Morgenlicht und Schatten erhellt wird.
 
 <img src="images/2102173572764766661-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein Morgen, an dem das Licht noch vor dem Mädchen erwacht. Durchscheinendes Licht erfüllt den Raum, und die Schatten beginnen mit Verzögerung leise Gestalt anzunehmen.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -9105,7 +9489,7 @@ Charakter · Architektur / Interieur · Veröffentlicht
 
 <a name="prompt-2102152221572174045"></a>
 
-### Übersetzung läuft
+### Jugendstil-Typografie-Generierungsvorlage, die thematische Bildwelten, Miniaturlandschaften und Texturen direkt in die Buchstabenkonturen einfügt.
 
 Autor：[@deebeeeff](https://x.com/deebeeeff) · [Originalbeitrag](https://x.com/deebeeeff/status/2102152221572174045)
 
@@ -9113,7 +9497,7 @@ Landschaft / Natur · Text / Typografie · Veröffentlicht
 
 Originalbeitrag：[@lordknight\_ai](https://x.com/lordknight_ai) · [Originalbeitrag](https://x.com/lordknight_ai/status/2102136343581061351)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Jugendstil-Typografie-Generierungsvorlage, die thematische Bildwelten, Miniaturlandschaften und Texturen direkt in die Buchstabenkonturen einfügt.
 
 <img src="images/2102152221572174045-1.jpg" alt="Bild 1" width="480" />
 
@@ -9124,7 +9508,9 @@ Originalbeitrag：[@lordknight\_ai](https://x.com/lordknight_ai) · [Originalbei
 **Prompt**
 
 ```text
-Übersetzung läuft
+EVENT/SUBJECT=Jugendstil/Jugendstil-Babys
+TEXT=Art Nouveau/Sweet Baby 
+Eine typografische Darstellung von „[TEXT]“ im [EVENT/SUBJECT]-Stil, bei der Bildsprache, Muster und Farben von [EVENT/SUBJECT] in den Buchstabenformen selbst enthalten sind – als Texturen, Füllungen oder kleine Szenen innerhalb der Form jedes einzelnen Buchstabens –, anstatt als separate Verzierungen um den Text herum. Keine Umrandung oder verstreute Objekte um die Buchstaben. Ein sanft verschwommener Hintergrund enthält thematische Elemente und Landschaften, die sich auf [EVENT/SUBJECT] beziehen. Die Buchstaben füllen das gesamte Bild aus.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

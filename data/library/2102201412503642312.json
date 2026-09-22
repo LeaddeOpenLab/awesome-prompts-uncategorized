@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:27:24.133Z",
+  "model": "grok",
+  "prompt": "Falcon 14 Starship's very first attempt to reach Earth Orbit",
+  "promptTranslations": {
+    "en": "Falcon 14 Starship's very first attempt to reach Earth Orbit"
+  },
+  "summaryTranslations": {
+    "en": "Falcon 14 Starship's initial launch attempt to reach Earth orbit."
+  },
+  "translationVersion": 2,
+  "summary": "Falcon 14 Starship's initial launch attempt to reach Earth orbit.",
+  "summaryEn": "Falcon 14 Starship's initial launch attempt to reach Earth orbit.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102201412503642312",
+    "canonicalUrl": "https://x.com/Marie8508319540/status/2102201412503642312",
+    "author": {
+      "username": "Marie8508319540",
+      "displayName": "Marie",
+      "profileUrl": "https://x.com/Marie8508319540"
+    },
+    "publishedAt": "2026-09-22T01:00:48.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nFalcon 14 Starship's very first attempt to reach Earth Orbit https://t.co/nHBYbo1zj4",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/Marie8508319540/status/2102201412503642312",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102201391968047104/img/dogmbOAI-a1utg5d.jpg",
+        "analysisUrl": "https://x.com/Marie8508319540/status/2102201412503642312"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 20
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Marie8508319540/status/2102201412503642312",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102201391968047104/img/dogmbOAI-a1utg5d.jpg",
+  "coverPath": "covers/2102201412503642312.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102201391968047104",
+    "x-post:2102201412503642312"
+  ],
+  "analysis": {
+    "summary": "Falcon 14 Starship's initial launch attempt to reach Earth orbit.",
+    "summaryEn": "Falcon 14 Starship's initial launch attempt to reach Earth orbit.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Video shows the Starship rocket launching toward orbit with crowd cheering and poster text matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Falcon 14 Starship's very first attempt to reach Earth Orbit",
+    "sourceRange": {
+      "start": 22,
+      "end": 82
+    },
+    "translations": {
+      "zh": "猎鹰14星舰首次尝试进入地球轨道",
+      "en": "Falcon 14 Starship's very first attempt to reach Earth Orbit"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic rocket launch animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "SpaceX"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

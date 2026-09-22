@@ -19,7 +19,7 @@ Leadde.ai helps teams turn documents, slides and text into AI business videos fo
 
 Star this repository to follow our daily prompt curation and find fresh creative ideas.
 
-**449** Prompts · Latest addition: **2026-09-22**
+**461** Prompts · Latest addition: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -32,6 +32,66 @@ Star this repository to follow our daily prompt curation and find fresh creative
 <a name="category-photography"></a>
 
 ## Photography
+
+<a name="prompt-2102236776748470351"></a>
+
+### Photorealistic high-angle portrait of a woman in an oversized pinstripe coat holding coffee on a wet wooden footbridge.
+
+Author：[@oye\_samia](https://x.com/oye_samia) · [Source](https://x.com/oye_samia/status/2102236776748470351)
+
+Photography · Portrait / Selfie · Character · Food / Drink · Published
+
+**Summary:** Photorealistic high-angle portrait of a woman in an oversized pinstripe coat holding coffee on a wet wooden footbridge.
+
+<img src="images/2102236776748470351-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+**Strictly preserve the appearance 1:1 according to the reference: the face must be fully recognizable, with no change to features or proportions.**\n\nPhotorealistic autumn photo by a dark pond, high-angle shot.  \nThe girl stands on a wet wooden footbridge, body facing forward, head turned slightly to the left, gaze to the side.  \nCoffee in one hand; the other holds a lapel.  \nA transparent umbrella hangs on the bent forearm, dome downward, ribs visible.\n\nShe is wearing a long black oversized coat with thin gray pinstripes, a gray textured high-collar sweater, a narrow dark-brown scarf, large silver headphones, and massive rings.\n\nHair with a center parting is smoothly gathered into a small tight low bun, without volume or loose strands. Natural soft glam, satin skin, soft contouring, and nude lips.\n\nGloomy diffused light, wet boards, fallen leaves, and dark water with reflections. Cold muted palette, light grain, no CGI, plastic retouching, gloss, or filters.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102229410757910990"></a>
+
+### An ultra-wide, low-angle shot of a nun in black robes and sunglasses riding a giant ostrich, right hand raising a long-barreled gold revolver high against a pure blue sky, exuding an absurd Western fashion aesthetic.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2102229410757910990)
+
+Photography · Fashion Item · Abstract / Background · Published
+
+**Summary:** An ultra-wide, low-angle shot of a nun in black robes and sunglasses riding a giant ostrich, right hand raising a long-barreled gold revolver high against a pure blue sky, exuding an absurd Western fashion aesthetic.
+
+<img src="images/2102229410757910990-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Hyperrealistic absurd Western fashion photography, vertical aspect ratio approximately 3:4. A clearly adult East Asian female, 20+, wearing an all-black nun-inspired style, rides on the back of a giant ostrich. The camera is positioned directly beneath the figure and the ostrich, using a 20–24mm ultra-wide-angle low-angle shot, creating an intense heroic perspective; the ostrich's head and neck occupy the left foreground of the frame, the figure is positioned center-right, and above is an expanse of clean, deep blue sky.
+
+The subject has medium-length black hair, mostly hidden under a black nun's veil/hood, with a few loose strands blown across the side of her face by the wind. She wears small, round black sunglasses with an indifferent, composed expression, slightly tilting her head downward to look down at the lens.
+
+The attire consists of a pure black modern nun's robe + a large black cloak, with a visible white stand-up collar underneath, cinched at the waist with a black leather belt. The robe and cloak billow dramatically toward the right side of the frame in the wind, creating strong dynamic motion. Both hands wear black leather gloves, with metal accessories around the wrist and a dangling silver bead chain / rosary.
+
+The subject raises her right hand high above her head, holding an exaggerated vintage Western-style long-barreled revolver. The gun body is made of bright polished gold / brass metal, with an ultra-long barrel angling diagonally toward the upper-left of the frame, and sunlight casting a dazzling glare along the barrel's edge; the muzzle points toward the sky, not aimed at the camera or anyone else.
+
+The ostrich must maintain realistic anatomical animal structure: grayish-white fluffy feathers, an ultra-long bare neck, large round black eyes, and a light-brown long beak. The ostrich's head is closest to the lens, thus significantly magnified by the wide angle, with its beak slightly agape, creating a comical yet striking visual impact; parts of its massive fluffy body feathers are also visible below.
+
+The background consists solely of a deep blue, cloudless or nearly cloudless clear sky, with no buildings, trees, or complex environment. Sunlight is intense, shining from the upper side; the figure's black clothing maintains rich dark gradations, the golden revolver produces bright specular highlights, and the ostrich's feathers reveal sharp, clear details.
+
+The overall aesthetic is a high-end fashion editorial + surreal Western absurd photography + vintage film texture: high contrast, low camera angle, slight warm film grain, with sharp color contrast between the black clothing, golden metal, and blue sky.
+
+Key focus points: Adult East Asian female + black nun outfit + round sunglasses + large black cloak + riding on a real giant ostrich + ultra-low angle shot looking up + ostrich head and neck as a massive foreground + right hand holding a golden ultra-long-barreled vintage revolver raised high + fluttering silver rosary + pristine deep blue sky + harsh sunlight + absurd Western fashion aesthetic.
+
+Avoid: Modern rifles, muzzle pointing at the lens, combat scenes, blood, multiple people, horses, ordinary standing poses, urban backgrounds, overcast skies, anime style, CG plastic feel, deformed ostrich, extra limbs, watermarks, and garbled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102149669896012031"></a>
 
@@ -6447,6 +6507,78 @@ Emphasize realistic skin texture, detailed beard hairs, sharp eyes, natural eyeg
 
 ## Cinematic / Film Still
 
+<a name="prompt-2102201412503642312"></a>
+
+### Falcon 14 Starship's initial launch attempt to reach Earth orbit.
+
+Author：[@Marie8508319540](https://x.com/Marie8508319540) · [Source](https://x.com/Marie8508319540/status/2102201412503642312)
+
+Cinematic / Film Still · Published
+
+**Summary:** Falcon 14 Starship's initial launch attempt to reach Earth orbit.
+
+<img src="covers/2102201412503642312.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Falcon 14 Starship's very first attempt to reach Earth Orbit
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102219008845971613"></a>
+
+### Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.
+
+Author：[@WescheNex1q](https://x.com/WescheNex1q) · [Source](https://x.com/WescheNex1q/status/2102219008845971613)
+
+Photography · Cinematic / Film Still · 3D Render · Published
+
+Source：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Source](https://x.com/Bhavani_00007/status/2098134452283334781)
+
+**Summary:** Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.
+
+<img src="covers/2102219008845971613.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102223289443877247"></a>
+
+### Cinematic montage video prompt of a day in the life of an East Asian female photographer with a 35mm film aesthetic.
+
+Author：[@laviniavelle](https://x.com/laviniavelle) · [Source](https://x.com/laviniavelle/status/2102223289443877247)
+
+Photography · Cinematic / Film Still · Published
+
+**Summary:** Cinematic montage video prompt of a day in the life of an East Asian female photographer with a 35mm film aesthetic.
+
+<img src="covers/2102223289443877247.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+A cinematic montage in a soft, warm 35mm film aesthetic capturing a peaceful day in the life of a young East Asian female photographer She has her hair tied up in a casual messy bun and wears a simple white cropped T-shirt high waisted blue denim jeans and a brown canvas crossbody shoulder bag She carries a classic vintage 35mm SLR film camera with a leather strap.
+
+The video flows through a series of natural, cinematic moments first she stands outside a modern wooden house during golden hour, smiling softly as warm sunlight creates beautiful lens flares and rim light around her Then she crouches beside a sidewalk carefully photographing a small pink flower growing through the pavement with an intimate low-angle camera perspective Next, she visits a cozy vintage camera and book shop, browsing the shelves and examining her old film camera under warm interior lighting The scene transitions upward toward sunlight filtering through dense green tree leaves, creating dreamy bokeh, soft lens flares, and a nostalgic film texture She then walks peacefully through a tree-lined park from behind her brown shoulder bag moving naturally as she carries her camera, with golden sunset light illuminating the path Finally she stops in the park and raises her vintage camera toward the viewer taking a photograph as the warm sun shines directly behind her, creating strong golden backlight glowing rim light cinematic lens flare, and beautiful shallow depth of field.
+
+Smooth cinematic transitions between every scene realistic natural body movement subtle handheld camera motion, authentic 35mm film grain, soft warm color grading, realistic skin texture, natural sunlight, shallow depth of field, creamy bokeh, atmospheric lighting, photorealistic details, nostalgic documentary photography feeling cinematic composition gentle pacing seamless visual continuity high-end cinematic film look, 4K quality.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2102106915635601452"></a>
 
 ### A hand-drawn animation shot of a man sitting on a bench, a USA flag eagle landing on his head, and the man screaming and running.
@@ -9236,6 +9368,32 @@ Transform the photo into a hand-painted gouache caricature on cream cotton paper
 
 ## Sketch / Line Art
 
+<a name="prompt-2102193031583588643"></a>
+
+### A sketch model whose body is hidden by a sketchbook, with the artist's hand in the foreground.
+
+Author：[@BorderleSint](https://x.com/BorderleSint) · [Source](https://x.com/BorderleSint/status/2102193031583588643)
+
+Sketch / Line Art · Published
+
+Source：[@Zackjpnman](https://x.com/Zackjpnman) · [Source](https://x.com/Zackjpnman/status/2101687832557527435)
+
+**Summary:** A sketch model whose body is hidden by a sketchbook, with the artist's hand in the foreground.
+
+<img src="images/2102193031583588643-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102193031583588643-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+3:4, photorealistic, AI-generated beautiful woman in her 20s, sketch model, sketchbook, artist's hand and pencil in the foreground, her body is hidden by the sketchbook, only her décolletage and legs are visible, Negative: tops
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2099485936535167139"></a>
 
 ### 3:4 top-and-bottom comparison poster prompt, preserving the authentic travel photo on top and converting to ivory white minimalist line art on deep blue at the bottom.
@@ -9562,6 +9720,28 @@ Source：[@Tanvir48992](https://x.com/Tanvir48992) · [Source](https://x.com/Tan
 <a name="category-3d-render"></a>
 
 ## 3D Render
+
+<a name="prompt-2102213593043226881"></a>
+
+### Prompt for Three.js that generates a 3D pelican riding a bicycle inside a standalone HTML file.
+
+Author：[@ralejandrots88](https://x.com/ralejandrots88) · [Source](https://x.com/ralejandrots88/status/2102213593043226881)
+
+3D Render · Published
+
+**Summary:** Prompt for Three.js that generates a 3D pelican riding a bicycle inside a standalone HTML file.
+
+<img src="covers/2102213593043226881.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Use three.js to implement a pelican riding a bicycle in a standalone HTML file
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102166553701597551"></a>
 
@@ -9918,6 +10098,32 @@ Create a vertical top-and-bottom comparison art image from the input world archi
 <a name="category-watercolor"></a>
 
 ## Watercolor
+
+<a name="prompt-2102216813459439933"></a>
+
+### An ethereal watercolor profile portrait of a woman with a colorful butterfly on her nose.
+
+Author：[@afrinxai](https://x.com/afrinxai) · [Source](https://x.com/afrinxai/status/2102216813459439933)
+
+Watercolor · Portrait / Selfie · Character · Published
+
+Source：[@afrinxai](https://x.com/afrinxai) · [Source](https://x.com/afrinxai/status/2102035368354738376)
+
+**Summary:** An ethereal watercolor profile portrait of a woman with a colorful butterfly on her nose.
+
+<img src="images/2102216813459439933-1.jpg" alt="Image 1" width="480" />
+
+<img src="images/2102216813459439933-2.jpg" alt="Image 2" width="480" />
+
+**Prompt**
+
+```text
+An ethereal, delicate watercolor portrait of a young woman in extreme profile with closed eyes, peaceful expression, and soft parted lips. A vibrant orange, yellow, and red spotted butterfly rests gently on the bridge of her nose. She has long, dark eyelashes, defined natural eyebrows, soft peach-blush cheeks, and fine wisps of brown hair framing her face. Translucent watercolor washes, soft wet-on-wet color blending, subtle paint drips and splatters around the edges on cold-press textured paper, warm pastel color palette, dreamy poetic aesthetic.\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102160154909438370"></a>
 
@@ -10904,6 +11110,28 @@ What would I have looked like in the 1980s? Use the attached photo as the refere
 
 ## Cyberpunk / Sci-Fi
 
+<a name="prompt-2102209728663437419"></a>
+
+### Digital Dragons in a Tech Vortex City
+
+Author：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Source](https://x.com/TheEerieHollows/status/2102209728663437419)
+
+Cyberpunk / Sci-Fi · Published
+
+**Summary:** Digital Dragons in a Tech Vortex City
+
+<img src="images/2102209728663437419-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Digital Dragons in a Tech Vortex City
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
 <a name="prompt-2101749161536458825"></a>
 
 ### A materials scientist dons a dark graphene stealth suit with pulsing electric-blue lines.
@@ -10973,6 +11201,46 @@ Cyberpunk / Sci-Fi · Published
 <a name="category-minimalism"></a>
 
 ## Minimalism
+
+<a name="prompt-2102211141820920113"></a>
+
+### Full-body portrait of an East Asian woman in a minimalist creamy-white interior, wearing a white knit ruffled dress and over-the-knee socks.
+
+Author：[@DDJCXX](https://x.com/DDJCXX) · [Source](https://x.com/DDJCXX/status/2102211141820920113)
+
+Photography · Minimalism · Portrait / Selfie · Character · Fashion Item · Architecture / Interior · Published
+
+**Summary:** Full-body portrait of an East Asian woman in a minimalist creamy-white interior, wearing a white knit ruffled dress and over-the-knee socks.
+
+<img src="images/2102211141820920113-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Ultra-realistic Japanese-style indoor fashion portrait photography, vertical 3:4 aspect ratio. An explicitly adult East Asian woman in her 20s stands at the corner of a minimalist creamy-white room near a window. The photographer is positioned slightly to the left of directly in front of the subject, using an approximately 50–70mm equivalent lens to capture the full body including head, torso, legs, and shoes, while leaving ample negative space of blank walls and the window environment.
+
+The subject has a naturally slender, subtle hourglass figure: narrow shoulders, a distinct cinched waist, naturally curved hips, and well-proportioned, slender thighs. Her body faces almost directly forward, back lightly resting against the wall, with her weight naturally shifted onto one leg and her legs held close together. Her head is turned toward the right of the frame looking out the window, not looking directly at the camera, with a calm, slightly aloof expression. Her left hand hangs naturally at her side, while her right hand gently lifts the right hemline/ruffle of her skirt, wrist relaxed.
+
+She has dark brown, medium-long wavy hair reaching below the chest, thick and voluminous, ending in natural large curls; wispy air bangs grace her forehead along with delicate tendrils framing the sides of her face. Her makeup is understated and refined: slender eyeliner, soft brownish-pink eyeshadow, natural eyelashes, soft pink blush, and nude pink lips.
+
+The outfit is a creamy-white/ivory romantic knit short dress-style set. The top is a form-fitting square-neck/shallow U-neck knit garment with slender white ribbon ties in a bow at the chest, featuring prominent corset-style panelling and multiple sets of tied slim ribbons across the waist and abdomen to accentuate the slim waistline; the sleeves are made of semi-sheer lightweight knit fabric, fitted along the upper arms and flaring downward into wide bell sleeves/flounce sleeves with delicate lace trim at the cuffs. The skirt hem flares outward from the waist into multiple layers of soft ruffles, resembling a short babydoll dress overall, with matching under-shorts/romper structure underneath to maintain full, modest coverage.
+
+Her legs are clad in creamy-white over-the-knee socks / thigh-high socks, ending just above the knee, made of soft semi-sheer or fine-gauge knit material; the outer sides of the calves are each adorned with white thin ribbon bow accents with long ribbons draping naturally downward. On her feet are ivory-white pointed-toe low-heel / mid-low heel Mary Janes or strappy heels, with a narrow pointed toe, clean vamp, and delicate ankle straps with tiny bows, matching the outfit harmoniously.
+
+The setting is a minimalist creamy-white interior: light off-white walls, white baseboards, and a tall window on the right covered with sheer white lace curtains; below the window is a white recessed windowsill/wainscoting decorated with simple rectangular molding. The floor is made of dark, near-black wood planks, creating a distinct contrast with the all-white outfit. The room is free of superfluous furniture and decor.
+
+Lighting consists of natural daylight from the window on the right combined with soft indoor ambient light; the window area has slight highlights, casting gentle side lighting onto the subject's face and white clothing, giving her skin a natural warm-fair tone while preserving the fine knit textures and layers of the fabric; shadows are very soft, with no harsh flash.
+
+Overall quality conveys high-grade Japanese gravure / Korean minimalist indoor fashion editorial photography aesthetics: low-saturation creamy tones, natural skin texture, slight soft focus, medium depth of field, sharp subject, and a clean, gentle background.
+
+Key Focus: Adult East Asian female + dark brown long wavy hair with air bangs + head turned looking out window + creamy-white fitted corset-style knit short dress set + multiple sets of white ribbon ties at chest and waist + semi-sheer wide bell sleeves + multi-layered ruffled hem + white thigh-high socks + calf ribbon bows + ivory pointed-toe shoes + creamy-white corner wall + lace curtains + natural window light from the right + minimalist soft portraiture.
+
+Avoid: long dresses, black stockings, bare legs, sneakers, platform shoes, tight bodycon skirts, pure white wedding dresses, exaggerated Lolita decorations, cluttered backgrounds, harsh flash, excessive skin smoothing, anime face, CG look, plastic skin, extra limbs, watermarks, and scrambled text.
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2101703683167645776"></a>
 
@@ -11193,6 +11461,50 @@ The overall visual exhibits the quality of a high-end smartphone/mirrorless came
 <a name="category-other"></a>
 
 ## Other
+
+<a name="prompt-2102204400768876741"></a>
+
+### Alien landscape featuring black sand, turquoise waters, blue foliage, jagged peaks, and a red sun.
+
+Author：[@MakunaMars](https://x.com/MakunaMars) · [Source](https://x.com/MakunaMars/status/2102204400768876741)
+
+Landscape / Nature · Published
+
+**Summary:** Alien landscape featuring black sand, turquoise waters, blue foliage, jagged peaks, and a red sun.
+
+<img src="images/2102204400768876741-1.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Create a serene landscape on an alien planet. Black sand shoreline with turquoise green ocean waters, crashing waves along the beach. A soft haze of purple fog hovering in the distance with jagged mountain peaks dotting the far side of the bay. In the foreground lush tropical plants with blue stems and leaves, yellow flowers with semi transparent petals and long white stamen, trees with gnarled dark pale blue trunks with twisted branches and serrated blue leaves. A light bluish purple sky partially overcast with light turquoise fluffy clouds. A red sun  positioned in late afternoon in the sky with rays of light penetrating the cloud’s edges. High detailed, cinematic surreal environment.
+```
+
+[↑ Back to categories](#catalog)
+
+---
+
+<a name="prompt-2102239002317525380"></a>
+
+### A dynamic dialogue prompt about puffing on a cigarette and muttering to oneself about having survived.
+
+Author：[@NbkogY3](https://x.com/NbkogY3) · [Source](https://x.com/NbkogY3/status/2102239002317525380)
+
+Character · Published
+
+**Summary:** A dynamic dialogue prompt about puffing on a cigarette and muttering to oneself about having survived.
+
+<img src="covers/2102239002317525380.jpg" alt="Image 1" width="480" />
+
+**Prompt**
+
+```text
+Puffing on a cigarette, "Heh, I've survived yet again..."
+```
+
+[↑ Back to categories](#catalog)
+
+---
 
 <a name="prompt-2102144332148957251"></a>
 

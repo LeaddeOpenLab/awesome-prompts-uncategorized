@@ -19,7 +19,7 @@ Leadde.ai giúp các nhóm chuyển tài liệu, trang trình chiếu và văn b
 
 Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và tìm ý tưởng sáng tạo mới.
 
-**449** Prompt · Bổ sung mới nhất: **2026-09-22**
+**461** Prompt · Bổ sung mới nhất: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,106 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 ## Nhiếp ảnh
 
-<a name="prompt-2102149669896012031"></a>
+<a name="prompt-2102236776748470351"></a>
 
 ### Đang dịch
+
+Tác giả：[@oye\_samia](https://x.com/oye_samia) · [Bài gốc](https://x.com/oye_samia/status/2102236776748470351)
+
+Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102236776748470351-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102229410757910990"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2102229410757910990)
+
+Nhiếp ảnh · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102229410757910990-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102149669896012031"></a>
+
+### Prompt chụp ảnh chân dung chân thực về một phụ nữ mặc đồ ren màu hồng nhạt nằm ngửa trên giường trong phòng ngủ buổi sáng.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2102149669896012031)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chụp ảnh chân dung chân thực về một phụ nữ mặc đồ ren màu hồng nhạt nằm ngửa trên giường trong phòng ngủ buổi sáng.
 
 <img src="images/2102149669896012031-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Phòng ngủ buổi sáng｜Ánh ban mai dịu nhẹ và nụ cười thẹn thùng sắc hồng nhạt🌟
+
+【Chủ đề / Phong cách hình ảnh】
+Bức ảnh chân thực ghi lại khoảnh khắc một người phụ nữ Nhật Bản trưởng thành rõ ràng đang nằm ngửa trên giường trong phòng ngủ buổi sáng và bất chợt chạm ánh mắt với người yêu. Sự kết hợp giữa ren hoa văn tinh tế màu hồng nhạt, bộ đồ giường màu trắng và ánh sáng tự nhiên buổi sáng mang lại nét thanh lịch như một khung cảnh trong sách ảnh, cùng sự đáng yêu gần gũi vô tình bộc lộ giữa đời thường.
+Không phải phong cách gravure được dàn dựng quá mức, mà chú trọng vào khoảng cách tự nhiên như được chụp từ góc nhìn của người yêu. Tả thực sống động như ảnh chụp thật từ nét mặt dịu dàng, chi tiết ren, cho đến kết cấu của bộ chăn ga gối đệm.
+
+【Địa điểm / Bối cảnh / Thế giới quan】
+Phòng ngủ yên tĩnh với tông màu trắng và hồng tro làm chủ đạo. Chiếc giường lớn được trải ga giường trắng sạch sẽ, chăn bông và chiếc gối trắng êm ái, người phụ nữ nằm phía trên tấm chăn bông. Chăn bông trải rộng bên dưới cơ thể, không che phủ đôi chân hay trang phục.
+Cửa sổ có rèm trắng mỏng, bên cạnh giường có một chiếc bàn tròn nhỏ, đèn chiếu sáng nhẹ nhàng và cắm những bông hoa màu nhạt. Đồ đạc không quá nhiều, tạo nên một không gian vừa sạch sẽ vừa có hơi thở cuộc sống, nơi bộ đồ giường màu trắng và trang phục màu hồng nhạt tự nhiên trở thành nhân vật chính.
+
+【Mùa / Thời gian / Thời tiết】
+Buổi sáng một ngày nắng dịu gợi nhớ đến mùa xuân hoặc đầu mùa hè. Không phải ngay sau khi mặt trời mọc, mà là thời điểm ánh sáng tự nhiên bắt đầu tràn vào phòng đầy đủ qua tấm rèm.
+Gió ngoài trời thổi nhẹ, chỉ đủ làm tấm rèm mỏng khẽ lay động. Không phải ánh nắng gay gắt trực tiếp, mà ánh sáng khuếch tán qua rèm trắng tạo nên bầu không khí tĩnh lặng, êm dịu đặc trưng của một căn phòng vừa mới thức giấc.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản 23 tuổi, trưởng thành rõ ràng. Gương mặt thanh tú, mềm mại, đôi mắt to tròn có tròng đen chiếm ưu thế, hàng mày tự nhiên, đôi má hơi phúng phính, bờ môi mềm mại hồng hào giàu sức sống. Mái tóc uốn gợn sóng tự nhiên màu nâu sẫm dài ngang vai, xõa mềm mại trên gối. Làn da tông màu be sáng tự nhiên, giữ được sắc hồng tự nhiên và các mảng bóng đổ tinh tế.
+Bờ vai và tay chân thon thả, vòng eo nhỏ nhắn, cùng thân hình đầy đặn quyến rũ thanh lịch với những đường cong nữ tính kết nối tự nhiên. Vòng một lớn rõ rệt và đầy đặn, nhưng không bị phóng đại phi tự nhiên, giữ được độ tròn mềm mại và khối đa chiều theo tư thế nằm ngửa và trọng lực.
+
+【Trang phục / Phụ kiện】
+Bộ babydoll cổ yếm (halter neck) bằng chất liệu voan mỏng màu hồng nhạt làm chủ đạo. Phần ngực sử dụng ren họa tiết hoa nhỏ tinh xảo cùng lớp lót cùng tông màu, đảm bảo độ rộng cúp ngực và lượng vải thực tế để ôm trọn vòng một đầy đặn mà không gượng ép. Thêm điểm nhấn trang trí khiêm tốn như chiếc nơ nhỏ ở giữa ngực.
+Phần tà áo bằng chất liệu ren xuyên thấu nhẹ nhàng, xòe mềm mại trên bộ đồ giường màu trắng. Kết hợp cùng quần lót bằng chất liệu ren hoa văn tương tự, phần quần lót có lớp lót cùng màu. Không sử dụng phụ kiện, ưu tiên bầu không khí tự nhiên của buổi sáng.
+
+【Tư thế / Động tác / Ánh nhìn】
+Đặt đầu lên chiếc gối trắng, nằm ngửa trên giường với thân hình duỗi dài theo đường chéo của khung hình. Vai và lưng tựa tự nhiên vào đệm giường, tư thế thư giãn không ưỡn lưng. Hai chân duỗi gần như thẳng, chỉ có hai mắt cá chân khẽ vắt chéo lên nhau.
+Một tay đặt gần đầu, các đầu ngón tay khẽ nắm nhẹ mép gối, tay còn lại thả lỏng buông bên cạnh thân mình. Nhận ra mình đang được người yêu ngắm nhìn, cô hơi nghiêng mặt sang hướng ngược lại với máy ảnh, nhưng lại liếc mắt quay lại đây để chạm ánh nhìn.
+
+【Biểu cảm / Cảm xúc】
+Nụ cười ngượng ngùng trong khoảnh khắc bất chợt chạm ánh mắt với người yêu. Không cười mở lớn miệng, mà khẽ khép môi và hơi nhếch khóe miệng lên. Đôi má hơi gồng nhẹ, khóe mắt dịu dàng giãn ra.
+Ánh nhìn chứa đựng sự thân mật như muốn hỏi: "Anh đang nhìn em đấy à?". Không phải vẻ dễ thương cố tạo ra, mà thể hiện cảm xúc tự nhiên, hơi sơ hở của một người dù cố quay mặt đi nhưng vẫn không thể ngừng nhìn đối phương.
+
+【Bố cục / Máy ảnh】
+Khung hình dọc 4:5 dành cho bài đăng trên X. Bố cục toàn thân (full body) thu trọn từ đỉnh đầu đến các ngón chân trần một cách thoải mái, không cắt xén đỉnh đầu, đầu ngón tay hay bàn chân. Đặt cơ thể người phụ nữ dọc theo đường chéo của khung hình, tạo chuyển động tự nhiên trong khung hình dọc.
+Máy ảnh đặt chếch từ bên cạnh giường hướng lên trên, chụp từ độ cao có thể nhìn thấy đồng thời cả bộ đồ giường và toàn thân người phụ nữ. Sử dụng góc chụp tự nhiên từ tiêu chuẩn đến hơi hướng tele tầm trung, không dùng ống kính góc rộng làm phóng đại tay chân hay vùng ngực. Hậu cảnh làm mờ nhẹ nhàng, vẫn giữ lại các chi tiết đủ để nhận biết đó là phòng ngủ.
+
+【Ánh sáng / Màu sắc / Kết cấu / Bầu không khí】
+Ánh sáng tự nhiên buổi sáng chiếu vào từ cửa sổ bên trái khung hình là nguồn sáng chính, được khuếch tán mềm mại qua rèm trắng. Phía đối diện có ánh phản xạ nhẹ từ bức tường trắng và bộ đồ giường, nâng sáng tự nhiên cho các vùng bóng đổ trên khuôn mặt và cơ thể. Bóng đổ mờ nhạt, nhiệt độ màu từ trung tính đến hơi ấm nhẹ đặc trưng của buổi sáng.
+Da giữ được lỗ chân lông, bóng đổ chi tiết và sắc hồng tự nhiên; tóc thể hiện rõ từng sợi và sự mềm mại khi xõa trên gối. Ren hoa văn khắc họa đường thêu tinh tế cùng độ xuyên thấu của vải mỏng, bộ chăn ga thể hiện các nếp nhăn nhỏ và độ mềm mại của chất liệu cotton. Thống nhất với các tông màu trắng, hồng nhạt và hồng tro, tạo cảm giác gần gũi và tinh khôi của buổi sáng yên bình.
+
+【Chất lượng / Yếu tố loại trừ】
+Là ảnh chụp chân thực độ phân giải cao, chú trọng vào cơ thể người, ánh sáng, chất liệu và phối cảnh tự nhiên như được chụp bằng máy ảnh thực tế. Thể hiện rõ ràng là phụ nữ trưởng thành, tránh nét mặt quá non nớt hoặc biểu cảm trông như trẻ vị thành niên.
+Tránh thừa chân tay hoặc ngón tay, ngón tay bị thiếu hoặc dính liền, khớp xương bất thường, nhầm lẫn giữa tay trái và tay phải, cơ thể hoặc trang phục bị hòa lẫn vào nhau, trang phục bị lỗi hoặc hở hang ngoài ý muốn. Vòng một duy trì độ đầy đặn tự nhiên, không có hình cầu cứng đơ, không phóng to dị thường, không nâng đẩy quá mức, không mâu thuẫn với tư thế nằm ngửa và trọng lực. Không bị méo góc rộng cực đoan, không làm mịn da quá đà, không có hậu cảnh phi tự nhiên, không chữ, không logo, không watermark hay hiển thị giao diện người dùng (UI).
 ```
 
 [↑ Về danh mục](#catalog)
@@ -79,20 +163,60 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất b�
 
 <a name="prompt-2102151729752211626"></a>
 
-### Đang dịch
+### Lời nhắc ảnh chân dung chân thực về một phụ nữ mặc bikini màu san hô đang đưa tay ra trên bãi cát lúc hoàng hôn.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2102151729752211626)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phong cảnh / Thiên nhiên · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc ảnh chân dung chân thực về một phụ nữ mặc bikini màu san hô đang đưa tay ra trên bãi cát lúc hoàng hôn.
 
 <img src="images/2102151729752211626-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Bờ biển hoàng hôn｜Nụ cười đưa tay trong bộ bikini màu san hô🌟
+
+【Chủ đề / Phong cách hình ảnh】
+Bức ảnh chân thực (photorealistic) ghi lại khoảnh khắc thân mật khi cùng người yêu sánh bước trên bãi cát yên ắng lúc chiều tà. Không chỉ tôn lên nét đáng yêu của nhân vật mà còn truyền tải được không khí miền biển, những con sóng vỗ dưới chân và cả sắc màu của hoàng hôn, mang vẻ đẹp tự nhiên như một trang sách ảnh.
+Không dàn dựng quá mức, chú trọng độ chân thực như được chụp bằng máy ảnh thực tế, đồng thời thể hiện được cảm xúc dịu dàng hòa quyện cùng sự khoáng đạt.
+
+【Địa điểm / Bối cảnh / Thế giới quan】
+Địa điểm là bãi cát yên tĩnh và mép nước lúc hoàng hôn. Tiền cảnh là bãi cát ẩm ướt và những con sóng nông vỗ bờ, trung cảnh là người phụ nữ đang bước đi, hậu cảnh là mặt biển êm đềm, bóng đá thấp thoáng cùng bầu trời nhuộm sắc nhạt.
+Bối cảnh là bờ biển vắng người và tĩnh lặng, để lại chuỗi dấu chân ngắn kéo dài từ dưới chân ra phía sau. Khung cảnh mở rộng nhưng không quá cô quạnh, tạo nên một thế giới quan tự nhiên như một khoảnh khắc kỳ nghỉ êm đềm bên người yêu.
+
+【Mùa / Thời gian / Thời tiết】
+Mùa là khoảng đầu hè đến giữa hè bên bờ biển. Thời gian là buổi chiều trước lúc hoàng hôn buông xuống, không khí vẫn còn hơi ấm áp, gió biển nhẹ nhàng làm lay động mái tóc và lớp bèo nhún của bộ bikini.
+Thời tiết quang đãng. Ánh nắng xế chiều chiếu xiên tạo vệt phản chiếu dài trên mặt biển, bầu trời hòa quyện nhẹ nhàng giữa sắc cam, hồng và xanh nhạt. Không khí trong trẻo, êm đềm, mang lại cảm giác xao xuyến một cách tĩnh lặng.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản trưởng thành rõ rệt, khoảng 20 đến 28 tuổi. Các đường nét trên khuôn mặt thanh tú, mềm mại, đôi mắt to đen láy, hàng mày tự nhiên, đôi môi tươi tắn, toát lên nét đáng yêu của người trưởng thành rất dễ gần. Mái tóc uốn gợn sóng tự nhiên dài chấm vai màu nâu sẫm, phần đuôi tóc và vài lọn tóc mai khẽ bay theo làn gió biển.
+Làn da màu trắng ngà tự nhiên, bề mặt da chân thật không quá láng mịn. Vóc dáng kết hợp hài hòa giữa đôi vai, tay chân thanh mảnh, vòng eo thon gọn cùng những đường cong nữ tính, tạo nên thân hình quyến rũ thanh lịch và tự nhiên. Vòng một căng đầy rõ rệt nhưng thể hiện khối mềm mại, hài hòa với trang phục và tư thế.
+
+【Trang phục / Phụ kiện】
+Trang phục là bộ bikini cổ yếm (halter neck) màu cam san hô phối ren bèo nhún. Phần áo có lớp bèo nhún nhỏ nhắn, tinh tế viền quanh ngực, dây buộc cổ và nút thắt nhỏ ở giữa tạo điểm nhấn. Quần bơi cùng tông màu với thiết kế buộc dây mảnh hai bên hông, tạo sự đồng bộ trên dưới.
+Chất liệu tạo cảm giác vải đồ bơi co giãn mềm mại kết hợp lớp ren nhẹ. Trang phục ôm sát cơ thể tự nhiên và thoải mái, chú trọng độ vừa vặn thực tế, không bị phồng hay thắt siết bất thường quanh ngực và eo. Phụ kiện tiết chế tối đa, nếu cần chỉ đeo hoa tai nhỏ.
+
+【Tư thế / Hành động / Ánh nhìn】
+Người phụ nữ vừa bước đi bên mép nước vừa khẽ chậm bước chân lại, cơ thể hướng tự nhiên theo hướng đi, chỉ có phần thân trên và khuôn mặt hơi quay sang bên trái về phía người yêu. Đang ở giữa bước đi với một chân đưa về phía trước, trọng tâm cơ thể vẫn dồn nhẹ ở chân sau, các ngón của bàn chân trước khẽ chạm vào bờ cát ướt.
+Bàn tay trái đưa ra từ vị trí thấp hơn eo về phía người yêu, tạo cử chỉ tự nhiên ngay trước khi nắm tay. Các đầu ngón tay thả lỏng nhẹ nhàng không gồng cứng, cánh tay phải buông xuôi tự nhiên bên hông. Ánh mắt hướng về phía người yêu; góc máy được thiết lập ngang tầm mắt của người yêu đang đi bên cạnh, không xuất hiện hình dáng hay bàn tay của người yêu.
+
+【Biểu cảm / Cảm xúc】
+Biểu cảm là nụ cười tự nhiên, thân mật như chỉ dành riêng cho người yêu. Đuôi mắt giãn ra dịu dàng, khóe miệng nở nụ cười mỉm nhỏ nhắn, tao nhã, toát lên sự thẹn thùng xen lẫn niềm hạnh phúc.
+Trân trọng cảm giác an tâm khi sánh bước bên nhau và sự dịu dàng như đang khẽ gửi gắm tâm tư hơn là những tư thế tạo dáng cầu kỳ. Đúc kết lại một biểu cảm giàu cảm xúc, đáng yêu, điềm đạm mà không quá ngọt ngào sến súa.
+
+【Bố cục / Góc máy】
+Khung hình dọc tỷ lệ 4:5 phù hợp đăng tải trên X. Bố cục toàn thân (full-body) lấy trọn vẹn từ đỉnh đầu đến đầu ngón chân một cách thoải mái, thu trọn bàn tay đưa ra, bàn chân đang bước và ánh phản chiếu trên mặt biển vào khung hình một cách tự nhiên. Đặt nhân vật hơi lệch về trung tâm khung hình, đồng thời cân đối khoảng trống hai bên trái phải để cảm nhận được hướng di chuyển và sự mênh mông của biển cả.
+Độ cao của máy ảnh ngang tầm ngực đến tầm mắt, gần với tầm nhìn của người yêu đang đi cạnh bên. Khoảng cách chụp ở cự ly trung bình đủ để thấy rõ cả vóc dáng lẫn biểu cảm, góc chụp tiêu chuẩn đến hơi nghiêng về tele tầm trung nhằm tránh hiện tượng méo người do góc rộng cực đoan. Hậu cảnh hiển thị vừa phải, giữ độ sâu tự nhiên đủ để nhận biết địa điểm.
+
+【Ánh sáng / Màu sắc / Chất cảm / Bầu không khí】
+Nguồn sáng chính là ánh hoàng hôn ở vị trí thấp chếch phía sau bên phải. Ánh sáng chiếu xiên từ phía sau tạo điểm sáng ấm áp trên đường viền mái tóc và bờ vai, phía trước nhận ánh sáng phản chiếu từ bầu trời và bãi cát, giúp gương mặt trông mềm mại và sáng sủa. Bóng đổ êm dịu, tránh độ tương phản quá gay gắt.
+Bảng màu lấy trang phục màu cam san hô làm trung tâm, hòa quyện với sắc cam của bầu trời chiều, màu xanh xám của biển và sắc nâu mềm của cát ướt. Làn da ửng hồng tự nhiên, mái tóc mềm mại óng ả, mặt nước lấp lánh từng gợn sóng nhỏ, cát có độ ẩm mịn, mang lại bầu không khí lãng mạn và dịu dàng cho toàn bộ bức ảnh.
+
+【Chất lượng / Yếu tố loại trừ】
+Độ phân giải cao, chú trọng chất cảm chân thực của cơ thể người, ánh sáng, vải vóc, nước và cát như được chụp bởi máy ảnh thực tế. Tránh các biểu hiện trông giống vị thành niên, khuôn mặt quá non nớt, vóc dáng bất thường hoặc phóng đại quá mức.
+Không có tay chân hoặc ngón tay thừa, ngón tay bị thiếu, khớp xương bất thường, trang phục bị lỗi, cơ thể hòa lẫn vào trang phục, hở hang ngoài ý muốn, méo hình góc rộng cực đoan, hiệu ứng xóa phông phi thực tế, chữ, logo, watermark, giao diện UI. Vòng một giữ nét đầy đặn tự nhiên, không bị khổng lồ dị thường, không có hình cầu cứng đờ hay bị đẩy ép quá mức.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -123,20 +247,59 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 
 <a name="prompt-2102148560078954751"></a>
 
-### Đang dịch
+### Bức chân dung chân thực về một phụ nữ mỉm cười trong phòng ngủ vào đêm mưa lớn, mặc nội y thêu hoa nhỏ màu trắng.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2102148560078954751)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức chân dung chân thực về một phụ nữ mỉm cười trong phòng ngủ vào đêm mưa lớn, mặc nội y thêu hoa nhỏ màu trắng.
 
 <img src="images/2102148560078954751-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Đêm mưa lớn｜Họa tiết thêu hoa nhỏ màu trắng và nụ cười trước khi nói "Chúc ngủ ngon"🌟
+
+【Chủ đề & Phong cách nghệ thuật】
+Trong phòng ngủ vào một đêm mưa như trút nước, một phụ nữ Nhật Bản trưởng thành rõ ràng đang ngồi trên giường, khoảnh khắc ngay trước khi cô nói lời chúc ngủ ngon với người yêu trước mặt. Dựa trên phong cách photobook chân thực, không phải ảnh gravure dàn dựng quá mức, mà lưu giữ sự gần gũi và hơi thở đời sống tự nhiên như thể người yêu đang chụp từ khoảng cách gần. Tạo sự tương phản trong một khung hình giữa căn phòng ấm áp và màn đêm xanh thẳm bao trùm bởi cơn mưa.
+
+【Địa điểm, Bối cảnh & Không gian thế giới】
+Một phòng ngủ yên tĩnh được bài trí với tông màu trắng và be nhạt. Phía sau người phụ nữ là chiếc giường với những chiếc gối trắng êm ái và chăn bông trắng mềm mại. Ở bên trái khung hình là một cửa sổ đóng với rèm đã mở, bề mặt kính thể hiện rõ những hạt mưa lớn nhỏ và những vệt nước kết nối chảy dài.
+Bên ngoài cửa sổ, phong cảnh thành phố ban đêm được thể hiện một cách kín đáo, để lộ những con đường ướt át, ánh đèn từ các tòa nhà xa xa và ánh phản chiếu của đèn đường. Đồ nội thất và phụ kiện trong phòng được tối giản, chỉ với giường, cửa sổ và đèn ngủ ấm áp tạo nên một không gian riêng tư, thư thái.
+
+【Mùa, Thời gian & Thời tiết】
+Một đêm se lạnh không quá rõ rệt về mùa. Bên ngoài trời mưa to liên tục, mưa lớn đến mức có thể nhìn thấy những vệt mưa xiên ngang cắt qua ánh đèn đường. Gió và mưa chỉ tồn tại bên ngoài cửa sổ; tóc, da, đồ trải giường của người phụ nữ và bên trong phòng hoàn toàn khô ráo.
+Thời gian là lúc đêm muộn trước khi đi ngủ. Bên ngoài là màn đêm màu xanh sẫm nhưng không đen hoàn toàn, vẫn còn đủ ánh sáng ban đêm để nhận biết các hạt mưa và đường phố ướt sũng.
+
+【Thiết lập nhân vật】
+Phụ nữ Nhật Bản 27 tuổi trưởng thành rõ ràng. Đường nét khuôn mặt mềm mại và cân đối, đôi mắt đen to tròn tự nhiên, lông mày tự nhiên, đôi môi mềm mại ửng hồng. Mái tóc uốn gợn sóng tự nhiên màu nâu sẫm dài ngang vai, có những lọn tóc con bay nhẹ tự nhiên nhưng không che mắt hay miệng.
+Làn da màu trắng sáng tự nhiên (light ochre) giữ lại các lỗ chân lông và bóng đổ chi tiết. Bờ vai và cánh tay thanh mảnh, eo thon kết hợp hài hòa với những đường cong nữ tính trong một vóc dáng đẫy đà tự nhiên. Khuôn ngực lớn và đầy đặn rõ ràng, nhưng có khối lượng mềm mại hài hòa với trang phục, tư thế và trọng lực, duy trì sự cân đối tự nhiên với toàn bộ cơ thể.
+
+【Trang phục & Phụ kiện】
+Áo lót màu trắng với họa tiết thêu hoa nhỏ và quần lót đồng bộ. Trong bố cục từ ngực đến mặt lần này, chiếc quần lót nằm ngoài khung hình, để dây áo lót, lớp ren trên cúp ngực và hình thêu hoa nhỏ lộ ra một cách tự nhiên.
+Phần cúp ngực có lớp lót màu trắng đục, phủ bên ngoài là lớp thêu hoa tinh tế và viền ren mỏng. Kích cỡ vừa vặn ôm trọn vòng ngực đầy đặn một cách thoải mái, chất liệu vải không bị kéo căng quá mức hay hằn vào da, mang lại độ ôm thực tế. Không đeo phụ kiện, ưu tiên sự mộc mạc tự nhiên trước giờ ngủ.
+
+【Tư thế, Hành động & Ánh nhìn】
+Người phụ nữ ngồi tự nhiên trên mép giường, phần thân trên hơi nghiêng về phía người yêu. Tay trái đặt trên đệm hơi chếch về phía sau cơ thể để nâng đỡ thân trên, tay phải nhẹ nhàng đặt lên ga giường bên cạnh đùi. Cả hai bàn tay đều ở vị trí không nhìn thấy trong khung hình chụp từ ngực trở lên này.
+Thả lỏng vai, lưng hơi thẳng nhưng không căng thẳng. Đầu hơi nghiêng nhẹ, ánh mắt nhìn thẳng vào người yêu ở vị trí đặt máy ảnh. Không tạo tư thế ưỡn lưng hay đẩy ngực quá mức thiếu tự nhiên.
+
+【Biểu cảm & Cảm xúc】
+Một nụ cười dịu dàng, tự nhiên và thân mật dành cho người yêu. Khóe mắt thả lỏng nhẹ nhàng, toát lên sự bình yên của người chuẩn bị khép lại một ngày trong sự an tâm. Môi khép tự nhiên, nụ cười không quá lớn, thể hiện khoảnh khắc sắp cất lời nói khẽ "chúc ngủ ngon".
+Đôi má giữ được sắc hồng tự nhiên nhờ ánh đèn ấm áp, nụ cười lan tỏa đến cả lông mày và khóe mắt. Ưu tiên sự mềm mại hơi ngượng ngùng chỉ dành cho người thân yêu hơn là nụ cười tạo dáng người mẫu trước ống kính.
+
+【Bố cục & Máy ảnh】
+Khổ dọc tỷ lệ 4:5 phù hợp cho bài đăng trên X. Bố cục chụp cận từ ngực đến đỉnh đầu (bust-up), chừa một khoảng trống nhỏ phía trên đỉnh đầu. Đặt người phụ nữ hơi lệch sang bên phải của tâm khung hình, để lộ rõ khung cửa sổ với những giọt mưa chảy dài ở bên trái.
+Chụp ở cự ly gần ngang tầm mắt của người phụ nữ. Sử dụng góc nhìn tự nhiên từ tiêu cự chuẩn đến tele tầm trung khoảng 50-70mm, không dùng góc rộng làm biến dạng khuôn mặt hay khuôn ngực. Hậu cảnh chỉ làm mờ nhẹ nhàng, vẫn giữ được lượng chi tiết đủ để nhận biết những giọt mưa trên cửa sổ và cơn mưa xối xả bên ngoài.
+
+【Ánh sáng, Màu sắc, Chất cảm & Không khí】
+Nguồn sáng chính là chiếc đèn ngủ ấm áp ở góc sau bên phải, tỏa ánh sáng vàng ấm nhẹ nhàng lên khuôn mặt, gò má, ngực và lớp ren trắng. Từ phía cửa sổ, ánh sáng đêm yếu ớt nhuốm sắc xanh tràn vào, tạo viền sáng màu lạnh nhạt dọc theo đường nét của tóc và vai. Ánh sáng ban đêm pha trộn tự nhiên giữa tông ấm và tông lạnh.
+Da giữ được bóng mờ chi tiết và sắc hồng tự nhiên, tóc có độ bóng và chuyển động của từng sợi tóc, nội y thể hiện độ dày của vải, sợi chỉ thêu và khối 3D chi tiết của ren. Mặt kính cửa sổ có độ trong suốt ướt át, chăn gối được khắc họa như chất vải mềm mại, làm nổi bật sự tương phản giữa không gian tĩnh lặng trong phòng và cơn mưa dữ dội bên ngoài.
+
+【Chất lượng & Yếu tố loại trừ】
+Ảnh chụp chân thực độ phân giải cao, tỷ lệ cơ thể người tự nhiên, ánh sáng và phối cảnh chân thực. Rõ ràng là người trưởng thành, tránh các đường nét khuôn mặt quá trẻ con hoặc vẻ ngoài như vị thành niên.
+Tránh thừa chi hoặc ngón tay, khớp xương bất thường, cơ thể và quần áo bị hòa lẫn, trang phục rách hoặc hở hang ngoài ý muốn, biến dạng góc rộng cực đoan, chỉnh sửa làm mịn da quá đà. Khuôn ngực duy trì độ đầy đặn tự nhiên, không có hình cầu cứng nhắc, không nâng đẩy bất thường hoặc trái với trọng lực. Không có mưa rơi vào trong phòng hoặc lên người, không có chữ, logo, watermark, bóng thoại hoặc giao diện UI.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -4590,6 +4753,74 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 ## Điện ảnh / Ảnh tĩnh từ phim
 
+<a name="prompt-2102201412503642312"></a>
+
+### Đang dịch
+
+Tác giả：[@Marie8508319540](https://x.com/Marie8508319540) · [Bài gốc](https://x.com/Marie8508319540/status/2102201412503642312)
+
+Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102201412503642312.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102219008845971613"></a>
+
+### Đang dịch
+
+Tác giả：[@WescheNex1q](https://x.com/WescheNex1q) · [Bài gốc](https://x.com/WescheNex1q/status/2102219008845971613)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Kết xuất 3D · Đã xuất bản
+
+Bài gốc：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Bài gốc](https://x.com/Bhavani_00007/status/2098134452283334781)
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102219008845971613.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102223289443877247"></a>
+
+### Đang dịch
+
+Tác giả：[@laviniavelle](https://x.com/laviniavelle) · [Bài gốc](https://x.com/laviniavelle/status/2102223289443877247)
+
+Nhiếp ảnh · Điện ảnh / Ảnh tĩnh từ phim · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102223289443877247.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2102106915635601452"></a>
 
 ### Cảnh hoạt hình vẽ tay một người đàn ông ngồi trên ghế dài, chim đại bàng cờ Mỹ đậu lên đầu, người đàn ông la hét bỏ chạy.
@@ -6969,13 +7200,13 @@ Luffy ân cần xoa đầu Anya, Anya nhào vào lòng ôm lấy, ánh sáng tr�
 
 <a name="prompt-2101956517557883076"></a>
 
-### Đang dịch
+### Minh họa biên tập thời trang về một người đàn ông đang sải bước trong bộ vest xám may đo, khoác áo choàng pháp sư Hàn Quốc rực rỡ với làn khói mực sumi-e trên phông nền màu vàng mù tạt.
 
 Tác giả：[@leftbypeace](https://x.com/leftbypeace) · [Bài gốc](https://x.com/leftbypeace/status/2101956517557883076)
 
 Minh họa · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Minh họa biên tập thời trang về một người đàn ông đang sải bước trong bộ vest xám may đo, khoác áo choàng pháp sư Hàn Quốc rực rỡ với làn khói mực sumi-e trên phông nền màu vàng mù tạt.
 
 <img src="images/2101956517557883076-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -6986,7 +7217,7 @@ Minh họa · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+toàn thân, 3::góc nghiêng một bên, tư thế đi bộ tự nhiên, sải bước, một chân đưa về phía trước, chân kia đưa về phía sau::, đang hút thuốc lá, 3::khói thuốc lá tựa mực đen, khói phong cách tranh thủy mặc sumi-e, vệt mực loang mềm mại::, 2::bộ vest may đo màu xám, áo sơ mi trắng, cà vạt màu xám::, 3::áo choàng pháp sư Hàn Quốc rực rỡ sắc màu mặc khoác ngoài bộ vest::, tay áo dài thướt tha, vạt áo choàng phấp phới phía sau, hạt chuỗi nghi lễ và tua rua đầy màu sắc ở thắt lưng, 2::một tay đút túi quần, tay kia buông thả tự nhiên bên hông::, ảnh phong cách biên tập thời trang, nền màu vàng mù tạt phẳng
 ```
 
 [↑ Về danh mục](#catalog)
@@ -7431,6 +7662,32 @@ Chuyển đổi bức ảnh thành tranh biếm họa vẽ tay bằng màu gouac
 
 ## Phác Thảo / Nét Vẽ
 
+<a name="prompt-2102193031583588643"></a>
+
+### Đang dịch
+
+Tác giả：[@BorderleSint](https://x.com/BorderleSint) · [Bài gốc](https://x.com/BorderleSint/status/2102193031583588643)
+
+Phác Thảo / Nét Vẽ · Đã xuất bản
+
+Bài gốc：[@Zackjpnman](https://x.com/Zackjpnman) · [Bài gốc](https://x.com/Zackjpnman/status/2101687832557527435)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102193031583588643-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102193031583588643-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2099485936535167139"></a>
 
 ### Lời nhắc poster so sánh trên-dưới 3:4, nửa trên giữ ảnh du lịch thực tế, nửa dưới chuyển thành tranh nét tối giản màu trắng ngà trên nền xanh đậm.
@@ -7749,17 +8006,17 @@ Tránh các nhân vật có bản quyền dễ nhận biết, chân dung ngườ
 
 ## Kết xuất 3D
 
-<a name="prompt-2102166553701597551"></a>
+<a name="prompt-2102213593043226881"></a>
 
 ### Đang dịch
 
-Tác giả：[@WescheNex1q](https://x.com/WescheNex1q) · [Bài gốc](https://x.com/WescheNex1q/status/2102166553701597551)
+Tác giả：[@ralejandrots88](https://x.com/ralejandrots88) · [Bài gốc](https://x.com/ralejandrots88/status/2102213593043226881)
 
-Kết xuất 3D · Phong cảnh / Thiên nhiên · Đã xuất bản
+Kết xuất 3D · Đã xuất bản
 
 **Tóm tắt:** Đang dịch
 
-<img src="covers/2102166553701597551.jpg" alt="Hình ảnh 1" width="480" />
+<img src="covers/2102213593043226881.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
@@ -7771,22 +8028,44 @@ Kết xuất 3D · Phong cảnh / Thiên nhiên · Đã xuất bản
 
 ---
 
+<a name="prompt-2102166553701597551"></a>
+
+### Lời nhắc tạo hành tinh bằng GLSL fragment shader có tính tương tác với địa hình, đại dương, bầu khí quyển và chỏm băng theo mùa.
+
+Tác giả：[@WescheNex1q](https://x.com/WescheNex1q) · [Bài gốc](https://x.com/WescheNex1q/status/2102166553701597551)
+
+Kết xuất 3D · Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Lời nhắc tạo hành tinh bằng GLSL fragment shader có tính tương tác với địa hình, đại dương, bầu khí quyển và chỏm băng theo mùa.
+
+<img src="covers/2102166553701597551.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+một hành tinh nhìn từ quỹ đạo, địa hình, đại dương, mây trôi, đường ranh giới ngày/đêm với ánh đèn thành phố, bầu khí quyển ở rìa, chuyển động quay chậm, kéo để nghiêng, một nút "Season" làm thay đổi các chỏm băng.
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2102155360505053659"></a>
 
-### Đang dịch
+### Tạo cảnh 3D chim bồ nông đi xe đạp trong một tệp HTML duy nhất bằng Three.js.
 
 Tác giả：[@\_kaichen](https://x.com/_kaichen) · [Bài gốc](https://x.com/_kaichen/status/2102155360505053659)
 
 Kết xuất 3D · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Tạo cảnh 3D chim bồ nông đi xe đạp trong một tệp HTML duy nhất bằng Three.js.
 
 <img src="covers/2102155360505053659.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Sử dụng Three.js trong một tệp HTML độc lập duy nhất để hiện thực cảnh bồ nông đi xe đạp
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8003,20 +8282,20 @@ Chibi / Phong cách Q · Màu nước · Nhân vật · Đã xuất bản
 
 <a name="prompt-2102150362945687807"></a>
 
-### Đang dịch
+### Bức tranh sơn dầu Baroque về một quý tộc thời Phục hưng, cỗ xe ngựa mạ vàng và những con ngựa trắng trong khung mạ vàng.
 
 Tác giả：[@arco0369](https://x.com/arco0369) · [Bài gốc](https://x.com/arco0369/status/2102150362945687807)
 
 Tranh Sơn Dầu · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức tranh sơn dầu Baroque về một quý tộc thời Phục hưng, cỗ xe ngựa mạ vàng và những con ngựa trắng trong khung mạ vàng.
 
 <img src="covers/2102150362945687807.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một bức tranh sơn dầu cổ bậc thầy theo phong cách Baroque đầy kịch tính của Caravaggio và các danh họa Ý thế kỷ 17, với ánh sáng chiaroscuro phong phú, bóng tối sâu thẳm và những điểm sáng ánh vàng ấm áp. Một quý ông thời Phục hưng quý phái đứng trong tư thế trang nghiêm, mặc chiếc áo doublet bằng nhung màu đỏ rượu vang burgundy sang trọng cùng áo choàng bay bổng, quần ống túm dài đến đầu gối màu tối, tất dài màu kem nhạt, giày da đen và một chiếc mũ kiểu beret màu đen có gắn lông vũ. Ông đứng trước một cỗ xe ngựa mạ vàng xa hoa, lộng lẫy được kéo bởi hai con ngựa trắng tráng lệ đeo những bộ dây cương bằng vàng tinh xảo cùng lông vũ trang trí. Khung cảnh diễn ra vào một ngày trời quang đãng với bầu trời hơi kịch tính của những đám mây cuộn xoáy. Ở hậu cảnh là một khu vườn cung điện Ý thanh lịch với những hàng cây bách cao vút, cùng cổng sắt uốn và hàng hiên mạ vàng lộng lẫy. Toàn bộ tác phẩm nghệ thuật được thể hiện như một bức tranh sơn dầu cũ kỹ được lồng trong một khung tranh Baroque bằng vàng chạm khắc tinh xảo, cầu kỳ của thời kỳ đó. Kết cấu chi tiết cao của nhung, lá vàng, yên cương ngựa, kiến trúc đá và bề mặt vải toan nhuốm màu thời gian. Tỷ lệ khung hình 3:2.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8105,15 +8384,41 @@ Chuyển đổi bức ảnh du lịch kiến trúc thế giới đầu vào thà
 
 ## Màu nước
 
-<a name="prompt-2102160154909438370"></a>
+<a name="prompt-2102216813459439933"></a>
 
 ### Đang dịch
+
+Tác giả：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2102216813459439933)
+
+Màu nước · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
+
+Bài gốc：[@afrinxai](https://x.com/afrinxai) · [Bài gốc](https://x.com/afrinxai/status/2102035368354738376)
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102216813459439933-1.jpg" alt="Hình ảnh 1" width="480" />
+
+<img src="images/2102216813459439933-2.jpg" alt="Hình ảnh 2" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102160154909438370"></a>
+
+### Hình ảnh cô gái trẻ hái táo trong vườn kết hợp giữa ảnh chụp thực tế và tranh minh họa màu nước.
 
 Tác giả：[@Minahil42298354](https://x.com/Minahil42298354) · [Bài gốc](https://x.com/Minahil42298354/status/2102160154909438370)
 
 Nhiếp ảnh · Minh họa · Màu nước · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hình ảnh cô gái trẻ hái táo trong vườn kết hợp giữa ảnh chụp thực tế và tranh minh họa màu nước.
 
 <img src="images/2102160154909438370-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -8122,7 +8427,7 @@ Nhiếp ảnh · Minh họa · Màu nước · Nhân vật · Đã xuất bản
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một hình ảnh ghép đầy quyến rũ với nửa trên là bức ảnh chụp chân thực và nửa dưới là tranh minh họa màu nước tương ứng, cả hai đều được đặt trên nền giấy trắng ấm có vân nổi. Nửa trên là bức ảnh chụp siêu thực về một thiếu nữ rạng rỡ với mái tóc nâu dài gợn sóng và đôi má ửng hồng, đội chiếc mũ cói đính hoa và mặc váy maxi hoa. Cô đang ngước nhìn lên cây táo và mỉm cười, với tay hái một quả táo đỏ, trên tay đeo một giỏ mây lớn đựng đầy táo. Nền ảnh là vườn táo ngập tràn ánh nắng lấp lánh. Nửa dưới, nằm ngay bên dưới bức ảnh, là một bức tranh minh họa màu nước nghệ thuật tinh tế thể hiện chính xác nhân vật và tư thế đó theo phong cách hội họa làm mờ dịu, tựa như được vẽ trực tiếp trên giấy. Bức minh họa vẫn giữ nguyên biểu cảm, váy, mũ của cô gái cùng toàn bộ khung cảnh vườn táo, nhưng có các vệt cọ và mảng loang màu nước rõ rệt. Cả hai phần đều được căn giữa, với sự chuyển tiếp đầy tính nghệ thuật giữa viền ảnh chụp và rìa tranh minh họa, nổi bật với các vệt màu mềm mại dạng lông vũ tan dần vào chất giấy. Bố cục tổng thể mang lại cảm giác như một trang nhật ký nghệ thuật hoặc một bản in mỹ thuật tinh xảo.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8163,20 +8468,20 @@ Tạo áp phích nghệ thuật du lịch đối chiếu trên-dưới theo chi�
 
 <a name="prompt-2102173528900428060"></a>
 
-### Đang dịch
+### Minh họa thời trang tối giản cổ điển, phụ nữ góc nghiêng môi đỏ đội mũ rộng vành trắng ngoại cỡ, nền trơn màu cam đất nung.
 
 Tác giả：[@Tanvir48992](https://x.com/Tanvir48992) · [Bài gốc](https://x.com/Tanvir48992/status/2102173528900428060)
 
 Minh họa · Cổ điển / Cổ điển · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời trang · Tóm tắt / Bối cảnh · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Minh họa thời trang tối giản cổ điển, phụ nữ góc nghiêng môi đỏ đội mũ rộng vành trắng ngoại cỡ, nền trơn màu cam đất nung.
 
 <img src="images/2102173528900428060-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Minh họa thời trang biên tập tối giản cực kỳ chi tiết, bố cục dọc, thẩm mỹ quyến rũ cổ điển tinh tế, tranh kỹ thuật số thanh lịch lấy cảm hứng từ Art Deco với các hình khối hình học gọn gàng, kết cấu hội họa tinh tế và bố cục dạng áp phích điện ảnh. Một phụ nữ trưởng thành thanh lịch xuất hiện ở góc nghiêng ba phần tư, quay mặt về phía bên phải khung hình. Đầu cô hơi ngửa lên, tạo nên tư thế duyên dáng, tự tin và bí ẩn. Các đường nét trên khuôn mặt của cô được gọt giũa và cách điệu với sống mũi dài thanh tú, gò má định hình nhẹ nhàng, làn da màu be ấm mịn màng, đường viền hàm tinh tế và đôi môi đầy đặn màu đỏ thẫm trầm. Đôi mắt cô hầu như bị che khuất dưới vành mũ quá khổ, tạo nên bầu không khí bí ẩn và mang tính thời trang biên tập. Cô có mái tóc màu nâu sẫm đến đen tuyền, được búi thấp gọn gàng sau đầu, với vài lọn tóc buông lơi tinh tế ôm lấy một bên khuôn mặt và cổ. Mái tóc có các mảng khối mượt mà, kiểm soát tốt với kết cấu sợi tóc rất tinh tế thay vì chi tiết thực tế như ảnh chụp. Cô đội một chiếc mũ rộng vành màu trắng/ngà voi ngoại cỡ đầy ấn tượng. Chiếc mũ là yếu tố thị giác chủ đạo trong bố cục. Vành cong khổng lồ của nó trải dài theo đường chéo từ góc dưới bên trái về phía trên bên phải của khung hình, che khuất một phần mắt và phần trên khuôn mặt cô. Vành mũ có bề mặt màu trắng ngà mịn màng với kết cấu giống như vải/giấy cực kỳ tinh tế cùng các biến đổi sắc thái mềm mại. Chóp mũ lớn, tròn và có cấu trúc, trông gần giống như một tác phẩm điêu khắc, nằm phía sau và phía trên đầu cô. Trang phục của cô là một chiếc váy hoặc áo cánh màu trắng ngà thanh lịch, mềm mại, che phủ vai và thân trên. Bộ trang phục có phom dáng rủ mềm với các nếp gấp rộng và bề mặt vải mịn màng. Cổ áo kín đáo và duyên dáng, với các nếp gấp xếp lớp tinh tế quanh vùng cổ và vai. Trang phục hòa quyện một cách tự nhiên vào thẩm mỹ tối giản trong khi vẫn duy trì kết cấu dệt có thể nhìn thấy được. Tư thế và bố cục: chân dung đóng khung chặt từ khoảng ngực trên trở lên. Người phụ nữ chiếm phần lớn khung hình, nằm hơi lệch về bên trái trung tâm trong khi khuôn mặt hướng về bên phải. Chiếc mũ quá khổ tạo ra một đường thị giác chéo mạnh mẽ xuyên suốt bố cục. Cổ và vai của cô tạo nên những đường cong thanh lịch tương phản với vành mũ hình học. Bố cục cần mang lại cảm giác cân đối cẩn thận, tinh tế và mang tính biên tập. Nền: nền phẳng hoàn toàn màu cam cháy / đất nung (terracotta), với kết cấu nét cọ vẽ tay tinh tế và sự biến đổi sắc thái nhẹ nhàng. Không có đồ vật, phong cảnh hay yếu tố bổ sung nào. Nền màu cam ấm tương phản mạnh mẽ với mái tóc đen cùng mũ và trang phục màu trắng ngà. Bảng màu: cam cháy, đất nung, be ấm, trắng ngà, kem, đen sâu, nâu sẫm và môi màu đỏ thẫm giảm sắc độ. Giữ cho màu sắc phong phú nhưng hơi giảm độ bão hòa, với chất lượng in cổ điển tinh tế. Ánh sáng: ánh sáng dịu, khuếch tán kiểu studio được thể hiện thông qua sự chuyển tiếp sắc thái rõ ràng thay vì bóng đổ chụp ảnh thực tế. Điểm nhấn sáng nhẹ nhàng trên má, mũi, môi và trang phục màu trắng. Bóng tinh tế bên dưới vành mũ và quanh cổ cũng như tóc. Phong cách thị giác: minh họa thời trang biên tập sang trọng, áp phích hiện đại tối giản, thẩm mỹ tạp chí thời trang cổ điển thập niên 1960–1970, tranh kỹ thuật số hình học tinh vi, thiết kế bóng hình (silhouette) thanh lịch, các hình khối mượt mà giống vector kết hợp với kết cấu vẽ tay tinh tế, chi tiết tiết chế, không gian âm đầy nghệ thuật, tác phẩm chiến dịch thời trang cao cấp. Kết xuất: các cạnh cực kỳ sắc nét, tỷ lệ khuôn mặt chính xác, các mảng da mịn màng, xếp lớp sắc thái tinh tế, vân vải canvas/giấy nhẹ nhàng, kết cấu cọ vẽ được kiểm soát, lớp hoàn thiện biên tập cao cấp, độ phân giải cao, minh họa thời trang chất lượng bảo tàng, ấn tượng thị giác, vượt thời gian và thanh lịch. Negative Prompt: photorealistic photography, 3D render, anime, cartoon, childish style, exaggerated facial features, distorted anatomy, extra limbs, extra fingers, malformed face, visible eyes, overly detailed background, clutter, text, typography, logo, watermark, harsh shadows, neon colors, oversaturated colors, glossy plastic skin, excessive skin texture, messy hair, distorted hat, asymmetrical brim, low resolution, blurry edges, noise, poor composition.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -8905,6 +9210,28 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 
 ## Cyberpunk / Khoa học viễn tưởng
 
+<a name="prompt-2102209728663437419"></a>
+
+### Đang dịch
+
+Tác giả：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Bài gốc](https://x.com/TheEerieHollows/status/2102209728663437419)
+
+Cyberpunk / Khoa học viễn tưởng · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102209728663437419-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
 <a name="prompt-2101749161536458825"></a>
 
 ### Một nhà khoa học vật liệu khoác lên mình bộ đồ tàng hình graphene màu tối với các đường nét màu xanh điện quang nhấp nháy.
@@ -8986,6 +9313,28 @@ LIÊN TỤC / CÁC YẾU TỐ PHỦ ĐỊNH: Chỉ có một phóng viên, một
 <a name="category-minimalism"></a>
 
 ## Chủ nghĩa tối giản
+
+<a name="prompt-2102211141820920113"></a>
+
+### Đang dịch
+
+Tác giả：[@DDJCXX](https://x.com/DDJCXX) · [Bài gốc](https://x.com/DDJCXX/status/2102211141820920113)
+
+Nhiếp ảnh · Chủ nghĩa tối giản · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Kiến trúc / Nội thất · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102211141820920113-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
 
 <a name="prompt-2101703683167645776"></a>
 
@@ -9145,22 +9494,66 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 ## Khác
 
-<a name="prompt-2102144332148957251"></a>
+<a name="prompt-2102204400768876741"></a>
 
 ### Đang dịch
+
+Tác giả：[@MakunaMars](https://x.com/MakunaMars) · [Bài gốc](https://x.com/MakunaMars/status/2102204400768876741)
+
+Phong cảnh / Thiên nhiên · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="images/2102204400768876741-1.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102239002317525380"></a>
+
+### Đang dịch
+
+Tác giả：[@NbkogY3](https://x.com/NbkogY3) · [Bài gốc](https://x.com/NbkogY3/status/2102239002317525380)
+
+Nhân vật · Đã xuất bản
+
+**Tóm tắt:** Đang dịch
+
+<img src="covers/2102239002317525380.jpg" alt="Hình ảnh 1" width="480" />
+
+**Câu lệnh**
+
+```text
+Đang dịch
+```
+
+[↑ Về danh mục](#catalog)
+
+---
+
+<a name="prompt-2102144332148957251"></a>
+
+### Một chú hươu đùi vằn okapi hiền lành đang lang thang qua một thế giới nhiều tầng lớp rộng lớn gồm các sọc lơ lửng, các hình chữ nhật mờ ảo và các hình khối giấy uốn cong phản chiếu thị giác các vằn trên cơ thể nó, tranh cắt dán giấy tinh xảo kết hợp với phấn màu khô, xanh mòng két, đỏ rượu vang, xanh coban và vàng kim, chủ nghĩa siêu thực phong cách và vui tươi.
 
 Tác giả：[@RenRose321](https://x.com/RenRose321) · [Bài gốc](https://x.com/RenRose321/status/2102144332148957251)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một chú hươu đùi vằn okapi hiền lành đang lang thang qua một thế giới nhiều tầng lớp rộng lớn gồm các sọc lơ lửng, các hình chữ nhật mờ ảo và các hình khối giấy uốn cong phản chiếu thị giác các vằn trên cơ thể nó, tranh cắt dán giấy tinh xảo kết hợp với phấn màu khô, xanh mòng két, đỏ rượu vang, xanh coban và vàng kim, chủ nghĩa siêu thực phong cách và vui tươi.
 
 <img src="images/2102144332148957251-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một chú hươu đùi vằn okapi hiền lành đang lang thang qua một thế giới nhiều tầng lớp rộng lớn gồm các sọc lơ lửng, các hình chữ nhật mờ ảo và các hình khối giấy uốn cong phản chiếu thị giác các vằn trên cơ thể nó, tranh cắt dán giấy tinh xảo kết hợp với phấn màu khô, xanh mòng két, đỏ rượu vang, xanh coban và vàng kim, chủ nghĩa siêu thực phong cách và vui tươi.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -9169,20 +9562,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2102132256290558176"></a>
 
-### Đang dịch
+### Mẫu prompt góc nhìn ROV dưới biển sâu mô tả các chủ thể khác thường dưới vùng nước sâu trong bố cục lưới 2x2 với lớp phủ dữ liệu đo xa chân thực.
 
 Tác giả：[@Gdgtify](https://x.com/Gdgtify) · [Bài gốc](https://x.com/Gdgtify/status/2102132256290558176)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu prompt góc nhìn ROV dưới biển sâu mô tả các chủ thể khác thường dưới vùng nước sâu trong bố cục lưới 2x2 với lớp phủ dữ liệu đo xa chân thực.
 
 <img src="images/2102132256290558176-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Lưới 2x2, 16:9, thực hiện điều này cho 4 chủ thể bất thường: INPUT: $ SUBJECT              // sinh vật, cấu trúc, hình học không nên xuất hiện ở dưới đó FIND      = infer_subject($ SUBJECT)        // tỷ lệ so với cánh tay ROV, độ trong mờ, chuyển động hoặc bất động SCALE_REF = infer_reference($ SUBJECT)      // cánh tay robot, giỏ thu mẫu ở tiền cảnh để đo kích thước WATER     = infer_water_column($ SUBJECT)   // mật độ hạt lơ lửng, hấp thụ màu xanh lam-lục SNOW      = infer_marine_snow($ SUBJECT)    // bụi tuyết biển trôi dạt liên tục được chiếu sáng bởi đèn LAMPS     = infer_rov_lighting($ SUBJECT)   // đèn đôi công suất cao, ánh sáng tắt gắt dẫn vào bóng đen tuyền FLOOR     = infer_seafloor($ SUBJECT)       // bùn mịn, đám bụi trầm tích bị xáo trộn, đá OPTIC     = infer_rov_cam($ SUBJECT)        // góc rộng, hơi mắt cá, tiêu cự cố định OVERLAY   = infer_telemetry($ SUBJECT)      // độ sâu, nhiệt độ, hướng la bàn, vĩ độ/kinh độ, số thứ tự lần lặn FLAWS     = infer_flaws($ SUBJECT)          // lóa do tán xạ ngược, lấy nét trập trùng, nhiễu sắc độ Φ = lamp_cone(LAMPS) + backscatter(SNOW) MOTION: ROV trôi chậm → chủ thể đi vào nón ánh sáng của đèn → lực đẩy đẩy nhẹ, đám khói bùn bốc lên → chủ thể phản ứng hoặc không phản ứng → đèn mất dấu chủ thể vào bóng tối. Bố cục: cảnh quay từ thiết bị lặn ROV, đèn đôi với ánh sáng suy giảm gắt vào màn đêm, tán xạ ngược của tuyết biển, lớp phủ dữ liệu đo xa, ống kính góc rộng hơi mắt cá. Ảnh chân thực, 16:9.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -9191,20 +9584,20 @@ Khác · Đã xuất bản
 
 <a name="prompt-2102173572764766661"></a>
 
-### Đang dịch
+### Lời nhắc vẽ một cô gái trong phòng với ánh sáng và bóng tối buổi sớm chiếu vào.
 
 Tác giả：[@55hawks](https://x.com/55hawks) · [Bài gốc](https://x.com/55hawks/status/2102173572764766661)
 
 Nhân vật · Kiến trúc / Nội thất · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc vẽ một cô gái trong phòng với ánh sáng và bóng tối buổi sớm chiếu vào.
 
 <img src="images/2102173572764766661-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một buổi sáng khi ánh sáng thức giấc trước cả cô gái. Ánh sáng xuyên qua lấp đầy căn phòng, và những chiếc bóng đến muộn bắt đầu lặng lẽ thành hình.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -9213,7 +9606,7 @@ Nhân vật · Kiến trúc / Nội thất · Đã xuất bản
 
 <a name="prompt-2102152221572174045"></a>
 
-### Đang dịch
+### Mẫu tạo nghệ thuật chữ phong cách Art Nouveau, trực tiếp lấp đầy các hình ảnh theo chủ đề, tiểu cảnh và hoa văn vào bên trong đường viền của các chữ cái.
 
 Tác giả：[@deebeeeff](https://x.com/deebeeeff) · [Bài gốc](https://x.com/deebeeeff/status/2102152221572174045)
 
@@ -9221,7 +9614,7 @@ Phong cảnh / Thiên nhiên · Văn bản / Kiểu chữ · Đã xuất bản
 
 Bài gốc：[@lordknight\_ai](https://x.com/lordknight_ai) · [Bài gốc](https://x.com/lordknight_ai/status/2102136343581061351)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Mẫu tạo nghệ thuật chữ phong cách Art Nouveau, trực tiếp lấp đầy các hình ảnh theo chủ đề, tiểu cảnh và hoa văn vào bên trong đường viền của các chữ cái.
 
 <img src="images/2102152221572174045-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -9232,7 +9625,9 @@ Bài gốc：[@lordknight\_ai](https://x.com/lordknight_ai) · [Bài gốc](http
 **Câu lệnh**
 
 ```text
-Đang dịch
+EVENT/SUBJECT=Art Nouveau/Em bé phong cách Art Nouveau
+TEXT=Art Nouveau/Sweet Baby 
+Một biểu hiện nghệ thuật chữ theo phong cách [EVENT/SUBJECT] của "[TEXT]", trong đó hình ảnh, hoa văn và màu sắc của [EVENT/SUBJECT] hiện diện bên trong chính các nét chữ — dưới dạng kết cấu, mảng tô hoặc các cảnh nhỏ chứa bên trong hình dạng của từng chữ cái — thay vì là các chi tiết trang trí riêng biệt bao quanh văn bản. Không có đường viền hoặc các vật thể rải rác xung quanh các chữ cái. Nền mờ nhẹ nhàng chứa các yếu tố theo chủ đề và phong cảnh liên quan đến [EVENT/SUBJECT]. Các chữ cái chiếm trọn toàn bộ hình ảnh.
 ```
 
 [↑ Về danh mục](#catalog)

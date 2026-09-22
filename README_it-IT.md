@@ -19,7 +19,7 @@ Leadde.ai aiuta i team a trasformare documenti, diapositive e testi in video azi
 
 Aggiungi una stella a questo repository per seguire i prompt selezionati ogni giorno e trovare nuove idee creative.
 
-**449** Prompt · Ultima aggiunta: **2026-09-22**
+**461** Prompt · Ultima aggiunta: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,106 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 ## Fotografia
 
-<a name="prompt-2102149669896012031"></a>
+<a name="prompt-2102236776748470351"></a>
 
 ### Traduzione in corso
+
+Autore：[@oye\_samia](https://x.com/oye_samia) · [Post originale](https://x.com/oye_samia/status/2102236776748470351)
+
+Fotografia · Ritratto / Selfie · Personaggio · Cibo / Bevande · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102236776748470351-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102229410757910990"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2102229410757910990)
+
+Fotografia · Articolo di moda · Abstract / Contesto · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102229410757910990-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102149669896012031"></a>
+
+### Prompt per un ritratto realistico di una donna sdraiata sulla schiena a letto in una camera da letto al mattino con un abito di pizzo rosa pallido.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2102149669896012031)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un ritratto realistico di una donna sdraiata sulla schiena a letto in una camera da letto al mattino con un abito di pizzo rosa pallido.
 
 <img src="images/2102149669896012031-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Camera da letto al mattino | Luce mattutina tenue e sorriso timido in rosa pallido🌟
+
+【Soggetto e stile artistico】
+Fotografia fotorealistica che coglie l'istante in cui una donna giapponese chiaramente adulta, sdraiata sulla schiena a letto in una camera da letto al mattino, incrocia all'improvviso lo sguardo del partner. Unendo un delicato pizzo floreale rosa pallido, lenzuola bianche e la luce naturale del mattino, esprime l'eleganza di una pagina di un fotolibro e la dolcezza intima mostrata spontaneamente nella vita quotidiana.
+Non un servizio gravure eccessivamente costruito, ma una naturale vicinanza come se lo scatto provenisse dal punto di vista del compagno. Dalle espressioni morbide ai dettagli del pizzo fino alla texture delle lenzuola, tutto è reso con l'autenticità di una vera fotografia.
+
+【Luogo, sfondo e ambientazione】
+Una camera da letto tranquilla arredata sui toni del bianco e del rosa antico. Su un grande letto ci sono lenzuola bianche pulite, un piumone e morbidi cuscini bianchi; la donna è sdraiata sopra il piumone. Il piumone si stende sotto il suo corpo senza coprire le gambe o l'abito.
+Alla finestra ci sono leggere tende bianche; accanto al letto si trovano un tavolino rotondo con un'illuminazione discreta e fiori dai colori tenui. Pochi oggetti d'arredo per creare uno spazio ordinato e vissuto, dove la biancheria bianca e l'abito rosa pallido diventano naturalmente i protagonisti.
+
+【Stagione, ora e meteo】
+Una mattina serena e limpida che rievoca la primavera o l'inizio dell'estate. Non subito dopo l'alba, ma a un'ora in cui una generosa luce naturale comincia a filtrare nella stanza attraverso le tende.
+All'esterno il vento è debole, tanto da far oscillare appena le tende leggere. Anziché una luce solare diretta e intensa, la luce diffusa dalle tende bianche crea un'atmosfera calma e soffusa, tipica di una stanza appena svegliata.
+
+【Profilo del personaggio】
+Donna giapponese di 23 anni, chiaramente adulta. Lineamenti dolci e armoniosi, occhi leggermente grandi con pupille scure espressive, sopracciglia naturali, guance morbidamente piene e labbra rosee e morbide. Capelli castano scuro ondulati naturali che scendono fino alle spalle, sparsi con grazia sul cuscino. Carnagione chiara tendente all'ocra, con un colorito naturale e sfumature d'ombra delicate.
+Spalle e arti sottili, vita snella e un corpo sinuoso ed elegante in cui le curve femminili si raccordano armoniosamente. Seno chiaramente prosperoso e generoso nel volume, ma senza forzature innaturali, dotato di una rotondità morbida e tridimensionale coerente con la posizione supina e la gravità.
+
+【Abito e accessori】
+Babydoll all'americana (halter neck) realizzato principalmente in tessuto trasparente rosa pallido. Sul corpetto è presente un fine pizzo a fiorellini con fodera interna tono su tono, garantendo coppe di dimensioni realistiche e una quantità di tessuto sufficiente ad accogliere con naturalezza il seno generoso. Al centro della scollatura è posto un dettaglio discreto, come un piccolo fiocco.
+La parte inferiore è in pizzo leggero e semitrasparente, che ricade morbidamente sulla biancheria bianca. È abbinata a slip nello stesso pizzo floreale con fodera interna coordinata. Nessun gioiello o accessorio, per dare risalto alla freschezza spontanea del risveglio.
+
+【Posa, movimento e sguardo】
+Con la testa adagiata su un cuscino bianco, è distesa sulla schiena sul letto, con il corpo allungato lungo la diagonale dell'inquadratura. Spalle e schiena poggiano con naturalezza sul materasso, in una postura rilassata senza inarcare i fianchi. Entrambe le gambe sono distese quasi dritte, con le sole caviglie leggermente incrociate.
+Una mano afferra delicatamente con la punta delle dita il bordo del cuscino vicino alla testa, mentre l'altra mano riposa distesa lungo il fianco. Accorgendosi di essere osservata dal partner, volta leggermente il viso nella direzione opposta alla fotocamera, muovendo solo gli occhi per tornare a fissare il suo sguardo.
+
+【Espressione ed emozione】
+Un sorriso timido nell'attimo di dolce imbarazzo nato dall'improvviso contatto visivo con il partner. Non ride a bocca aperta, ma tiene le labbra appena socchiuse sollevando leggermente gli angoli. Le guance mostrano una lieve contrazione emotiva, mentre lo sguardo si distende dolcemente.
+Negli occhi traspare una complicità intima, come a dire: "Mi stavi guardando?". Non una grazia artefatta, ma un'emozione genuina e un po' vulnerabile di chi vorrebbe distogliere il viso ma non riesce a smettere di guardare l'altro.
+
+【Composizione e fotocamera】
+Formato verticale 4:5 adatto ai post di X. Inquadratura a figura intera (full body) che racchiude agevolmente tutto il corpo dalla sommità del capo alle dita dei piedi nudi, senza tagliare testa, mani o piedi. Il corpo della donna segue la diagonale del fotogramma, creando un dinamismo naturale nella composizione verticale.
+La fotocamera è posizionata a lato del letto dall'alto in diagonale, a un'altezza che consente di mostrare contemporaneamente la biancheria da letto e l'intero corpo della donna. Viene utilizzata una lunghezza focale naturale, da standard a medio teleobiettivo, per non deformare arti o décolleté con effetti grandangolari. Lo sfondo è leggermente sfocato con morbidezza, preservando dettagli sufficienti a far riconoscere la camera da letto.
+
+【Luce, colore, texture e atmosfera】
+La luce naturale del mattino proveniente dalla finestra a sinistra funge da fonte primaria, diffusa dolcemente dalle tende bianche. Sul lato opposto, una debole luce riflessa dalla parete bianca e dalle lenzuola schiarisce con grazia le ombre su viso e corpo. Le ombre sono tenui, con una temperatura cromatica mattutina compresa tra il neutro e il leggermente caldo.
+La pelle mostra pori, ombreggiature sottili e un colorito roseo naturale; i capelli mostrano ogni singola ciocca e la delicatezza con cui si aprono sul cuscino. Il pizzo floreale presenta ricami dettagliati e la trasparenza della stoffa leggera; la biancheria mette in risalto le pieghe sottili e la morbidezza del cotone. La palette armonizzata tra bianco, rosa pallido e rosa antico evoca l'intimità tranquilla e la freschezza di un mattino sereno.
+
+【Qualità ed elementi esclusi】
+In quanto fotografia fotorealistica ad alta risoluzione, si privilegiano l'anatomia umana naturale, la luce, i materiali e la prospettiva come scattata da una vera fotocamera. La donna deve essere chiaramente adulta; evitare tratti somatici troppo infantili o pose che richiamino minorenni.
+Evitare arti o dita extra, dita mancanti o fuse, articolazioni innaturali, inversione delle mani, fusione tra corpo e indumenti, lacerazioni dell'abito o nudità accidentale. Mantenere un seno prosperoso e dal volume naturale, senza sfere rigide, ingrandimenti sproporzionati, eccessivo effetto push-up o forme contrarie alla gravità e alla posizione supina. Nessuna distorsione grandangolare estrema, nessun ritocco eccessivo della pelle, sfondi finti, scritte, loghi, watermark o elementi di interfaccia utente.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -79,20 +163,60 @@ Traduzione in corso
 
 <a name="prompt-2102151729752211626"></a>
 
-### Traduzione in corso
+### Prompt per un ritratto fotografico realistico di una donna in bikini corallo che tende la mano su una spiaggia al tramonto.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2102151729752211626)
 
 Fotografia · Ritratto / Selfie · Personaggio · Paesaggio / Natura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un ritratto fotografico realistico di una donna in bikini corallo che tende la mano su una spiaggia al tramonto.
 
 <img src="images/2102151729752211626-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟 Riva al tramonto | Sorriso e mano tesa in bikini corallo 🌟
+
+【Soggetto e Stile visivo】
+Fotografia fotorealistica ambientata su una spiaggia tranquilla al tramonto, che cattura l'intimità di una passeggiata a fianco del proprio partner. Uno scatto spontaneo in stile fotolibro, capace di trasmettere non solo la dolcezza della persona, ma anche la brezza marina, le onde sui piedi e le sfumature calde del crepuscolo.
+Senza pose eccessivamente costruite, si privilegia un realismo autentico come se fosse scattata da una vera macchina fotografica, evocando calore emotivo e senso di libertà.
+
+【Luogo, Sfondo e Atmosfera】
+La scena si svolge su una spiaggia serena e sulla battigia al calar del sole. In primo piano, la sabbia bagnata e le onde basse che lambiscono delicatamente la riva; in secondo piano, la donna che cammina; sullo sfondo, un mare calmo, sagome scure e basse di scogli e un cielo velato di colori tenui.
+L'ambiente di sfondo è un litorale appartato e poco affollato, con una breve scia di impronte che si estende dietro di lei. Un paesaggio ampio ma non desolato, che fa da cornice ideale a una tranquilla vacanza di coppia.
+
+【Stagione, Ora e Clima】
+Periodo tra inizio e piena estate in riva al mare. Momento subito prima del tramonto; l'aria è ancora tiepida e una leggera brezza marina muove con delicatezza i capelli e le balze del bikini.
+Cielo sereno. La luce radente del sole calante proietta lunghi riflessi sullo specchio d'acqua, mentre il cielo fonde gradualmente sfumature arancioni, rosa e azzurre. Aria tersa, quiete e un piacevole senso di dolce euforia.
+
+【Dettagli della persona】
+Donna giapponese chiaramente adulta, di età compresa tra 20 e 28 anni. Tratti del viso morbidi e armoniosi, occhi scuri e profondi, sopracciglia naturali e labbra dal colorito sano, con un fascino adulto e accogliente. Capelli castano scuro, lunghi fino alle spalle con onde naturali; punte e ciocche sottili sono mosse dalla brezza marina.
+Carnagione ocra chiara con texture cutanea naturale e non eccessivamente levigata. Corporatura con spalle e arti sottili, vita stretta e curve femminili che formano una figura naturalmente sinuosa ed elegante. Il seno ha un volume chiaramente generoso, reso però con una morbidezza anatomica naturale integrata nella postura e nell'abbigliamento.
+
+【Abbigliamento e Accessori】
+Bikini all'americana con dettagli in pizzo e volant color arancione corallo. Il top è rifinito da delicate balze che incorniciano il décolleté, impreziosito dai laccetti al collo e da un piccolo nodo centrale. Lo slip coordinato presenta laccetti sottili sui fianchi, garantendo un insieme armonioso.
+Il tessuto ha l'aspetto di una morbida lycra elasticizzata con una leggera sovrapposizione di pizzo decorativo. Vestibilità realistica che segue armoniosamente il corpo senza grinze anomale o compressioni innaturali su busto e fianchi. Accessori minimi, al massimo piccoli orecchini a lobo.
+
+【Posa, Movimento e Sguardo】
+La donna rallenta leggermente il passo camminando sulla battigia; con il corpo orientato naturalmente verso la direzione di marcia, ruota solo il busto e il viso verso sinistra in direzione del partner. A metà del passo, il peso poggia lievemente sulla gamba posteriore mentre la punta del piede anteriore tocca la sabbia umida.
+Tende la mano sinistra verso il partner partendo da un'altezza inferiore alla vita, nel gesto spontaneo che precede il darsi la mano. Le dita sono morbide e rilassate, mentre il braccio destro scende naturalmente lungo il fianco. Il suo sguardo è rivolto al compagno; l'inquadratura è dal punto di vista del partner che cammina al suo fianco, senza mostrare la figura né la mano di quest'ultimo.
+
+【Espressione ed Emozione】
+Un sorriso complice e spontaneo, di quelli riservati solo alla persona amata. Gli occhi si distendono con dolcezza e le labbra abbozzano un sorriso discreto ed elegante, in cui si fondono timidezza e gioia.
+Più che una posa studiata, risalta la serenità di camminare insieme e la delicatezza di un'intesa silenziosa. Un'espressione emotiva dal fascino tranquillo, mai stucchevole.
+
+【Inquadratura e Fotocamera】
+Formato verticale 4:5 per post su X. Inquadratura a figura intera (full-body) con sufficiente respiro dalla testa ai piedi, così da includere con naturalezza la mano protesa, i passi sulla sabbia e i riflessi sull'acqua. Il soggetto è posizionato verso il centro, con spazi laterali equilibrati per valorizzare la direzione del movimento e l'orizzonte marino.
+Altezza della fotocamera all'altezza del petto o degli occhi del partner che cammina accanto. Distanza di ripresa media che concilia figura intera ed espressione del viso; lunghezza focale standard o medio-teleobiettivo per scongiurare distorsioni corporee da grandangolo estremo. Lo sfondo mantiene una profondità naturale che contestualizza con chiarezza l'ambiente.
+
+【Luce, Colore, Texture e Atmosfera】
+La luce principale proviene dal sole basso all'orizzonte, situato in fondo a destra. La luce obliqua posteriore crea caldi riflessi di contorno su capelli e spalle, mentre la luce riflessa dal cielo e dalla battigia illumina il viso con delicatezza. Ombre morbide senza contrasti eccessivi.
+Tavolozza cromatica incentrata sul corallo del bikini, armonizzato con i toni arancio del tramonto, il blu grigiastro del mare e il marrone chiaro della sabbia bagnata. Incarnato naturale, ciocche fluide, brillantezza delle piccole onde e sabbia bagnata e materica, creando un'atmosfera complessiva romantica e suggestiva.
+
+【Qualità ed Elementi da escludere】
+Alta definizione, privilegiando la consistenza realistica di corpo, luce, tessuto, acqua e sabbia come in una vera fotografia. Escludere rappresentazioni che sembrino minorenni, tratti somatici infantili, proporzioni anatomiche alterate o eccessive esagerazioni.
+Evitare arti o dita extra, dita mancanti, articolazioni innaturali, difetti sartoriali, fusione tra corpo e tessuto, nudità involontaria, distorsioni da grandangolo estremo, sfocature artificiali dello sfondo, scritte, loghi, watermark o elementi di interfaccia. Il seno deve risultare naturalmente abbondante, mai rigido, sferico o spinto verso l'alto in modo innaturale.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -123,20 +247,50 @@ Traduzione in corso
 
 <a name="prompt-2102148560078954751"></a>
 
-### Traduzione in corso
+### Ritratto fotorealistico di una donna sorridente in lingerie con ricamo a fiorellini bianchi in una camera da letto durante una notte di pioggia battente.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2102148560078954751)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Ritratto fotorealistico di una donna sorridente in lingerie con ricamo a fiorellini bianchi in una camera da letto durante una notte di pioggia battente.
 
 <img src="images/2102148560078954751-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Notte di pioggia battente | Ricamo a fiorellini bianchi e un sorriso prima della "buonanotte"🌟
+
+【Soggetto / Stile artistico】
+In una camera da letto durante una notte di pioggia battente, una donna giapponese chiaramente adulta, seduta sul letto, nel momento esatto prima di dare la buonanotte al partner davanti a lei. Basato su uno stile da fotolibro fotorealistico, lontano da uno scatto glamour artificiale, per conservare la quotidianità e l'intimità di una foto naturale scattata a distanza ravvicinata dal partner. Un contrasto in un'unica immagine tra il calore della stanza e la notte blu avvolta dalla pioggia.
+
+【Luogo / Sfondo / Atmosfera】
+Una camera da letto tranquilla, arredata nei toni del bianco e del beige chiaro. Dietro la donna si trova un letto con soffici cuscini bianchi e un morbido piumone bianco. Sul lato sinistro dell'inquadratura c'è una finestra chiusa con le tende aperte, con gocce di pioggia di varie dimensioni e rivoli che scivolano chiaramente disegnati sulla superficie del vetro. Fuori dalla finestra si intravede discretamente il paesaggio urbano notturno, mostrando strade bagnate, luci di edifici lontani e il riflesso dei lampioni. Gli arredi e gli oggetti interni sono ridotti al minimo; solo il letto, la finestra e una lampada calda creano uno spazio intimo e rilassante.
+
+【Stagione / Ora / Condizioni meteo】
+Una notte leggermente fresca, senza specificare troppo la stagione. Fuori continua a cadere una pioggia battente, un acquazzone tale da mostrare linee di pioggia diagonali che attraversano la luce dei lampioni. Il vento e la pioggia esistono solo fuori dalla finestra; i capelli, la pelle, le coperte e l'interno della stanza della donna sono completamente asciutti. L'ora è notte fonda, prima di dormire. Fuori c'è un'oscurità con riflessi bluastri ma non completamente nera, conservando una luce notturna sufficiente a distinguere le gocce di pioggia e la città bagnata.
+
+【Caratteristiche del personaggio】
+Donna giapponese di 27 anni, chiaramente adulta. Lineamenti morbidi e armoniosi, occhi scuri leggermente grandi ed espressivi, sopracciglia naturali, labbra morbide con un colorito sano. Capelli castano scuro lunghi fino alle spalle con onde naturali e ciocche sottili e ribelli, senza che i capelli coprano occhi o bocca. Pelle chiara dal sottotono ocra, con pori visibili e ombreggiature delicate. Spalle e braccia esili, vita sottile e una figura formosa naturale in armonia con le curve femminili. Décolleté chiaramente florido e generoso, ma con una morbida tridimensionalità che si adatta all'abito, alla postura e alla gravità, mantenendo un equilibrio naturale con il resto del corpo.
+
+【Abbigliamento / Accessori】
+Reggiseno bianco con ricamo a piccoli fiori e slip coordinati. In questa inquadratura dal petto al viso, gli slip restano fuori campo, lasciando visibili con naturalezza le spalline del reggiseno, il pizzo superiore delle coppe e il ricamo a fiorellini. Le coppe hanno una fodera bianca opaca, sormontata dal delicato ricamo floreale e da una sottile bordatura in pizzo. Vestibilità realistica della taglia corretta, che avvolge comodamente il seno prosperoso senza tirare eccessivamente il tessuto o segnare la pelle. Nessun accessorio, privilegiando la semplicità del momento prima di coricarsi.
+
+【Posa / Movimento / Sguardo】
+La donna è seduta con naturalezza sul bordo del letto, con il busto leggermente rivolto verso il partner. La mano sinistra è appoggiata sul materasso un po' dietro al corpo per sostenere il busto, mentre la mano destra è posata delicatamente sul lenzuolo accanto alla coscia. Entrambe le mani si trovano fuori dall'inquadratura, concentrata dal petto in su. Spalle rilassate, schiena leggermente distesa ma priva di tensione. Testa appena inclinata, sguardo rivolto dritto verso il partner nella posizione della fotocamera. Nessun inarcamento innaturale della schiena o pose che spingano il petto in fuori.
+
+【Espressione / Emozione】
+Un sorriso dolce, intimo e naturale rivolto al partner. Gli occhi si distendono con dolcezza, lasciando trasparire la serenità di chi sta per concludere la giornata sentendosi al sicuro. Labbra naturalmente socchiuse, senza esagerare il sorriso, catturando l'istante in cui sta per sussurrare "buonanotte". Sulle guance rimane un rossore naturale dovuto all'illuminazione calda, e il sorriso si riflette anche nelle sopracciglia e nello sguardo. Più che il sorriso di una modella consapevole della fotocamera, viene privilegiata una dolcezza leggermente timida riservata solo a una persona intima.
+
+【Composizione / Fotocamera】
+Formato verticale 4:5 adatto ai post su X. Inquadratura a mezzo busto che include ampiamente dal petto alla sommità del capo, lasciando un po' di spazio sopra la testa. La donna è posizionata leggermente a destra rispetto al centro, lasciando ampiamente visibile sulla sinistra la finestra solcata dalle gocce di pioggia. Fotocamera posizionata all'altezza del viso della donna a distanza ravvicinata. Angolo di campo naturale equivalente a un obiettivo standard o medio teleobiettivo da 50-70 mm, evitando di esagerare viso o petto con il grandangolo. Sfondo leggermente e morbidamente sfocato, conservando abbastanza dettagli per riconoscere le gocce sul vetro e l'intensità della pioggia.
+
+【Luce / Colore / Texture / Atmosfera】
+La calda luce dell'abat-jour in fondo a destra fa da sorgente principale, proiettando una luce soffusa e calda su viso, guance, décolleté e pizzo bianco. Dalla finestra filtra una debole luce notturna bluastra, creando un sottile profilo dai toni freddi lungo i contorni di capelli e spalle. Un'illuminazione notturna in cui toni caldi e freddi si fondono armoniosamente. La pelle presenta ombreggiature sottili e un colorito naturale; i capelli mostrano la texture e la lucentezza di ogni singola ciocca; la lingerie rivela lo spessore del tessuto, i fili del ricamo e il rilievo delicato del pizzo. Il vetro della finestra mostra una bagnata trasparenza e le lenzuola una trama morbida, trasmettendo il contrasto tra la quiete della stanza e la pioggia scrosciante all'esterno.
+
+【Qualità / Elementi da escludere】
+Fotografia fotorealistica ad alta risoluzione, con proporzioni anatomiche naturali, luce e prospettiva realistiche. Persona chiaramente adulta, evitando tratti infantili o sembianze da minorenne. Nessun arto o dito in più, articolazioni innaturali, fusione tra corpo e vestiti, abiti rovinati o nudità involontaria, distorsioni grandangolari estreme o levigatura eccessiva della pelle. Il décolleté deve mantenere un volume generoso e naturale, senza forme sferiche rigide, push-up esagerati o sfide alla gravità. Nessuna pioggia che penetri all'interno o bagni la persona; nessun testo, logo, filigrana, balloon di testo o elemento di interfaccia utente.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -4511,6 +4665,74 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 ## Fermo immagine cinematografico / Still fotografico
 
+<a name="prompt-2102201412503642312"></a>
+
+### Traduzione in corso
+
+Autore：[@Marie8508319540](https://x.com/Marie8508319540) · [Post originale](https://x.com/Marie8508319540/status/2102201412503642312)
+
+Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102201412503642312.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102219008845971613"></a>
+
+### Traduzione in corso
+
+Autore：[@WescheNex1q](https://x.com/WescheNex1q) · [Post originale](https://x.com/WescheNex1q/status/2102219008845971613)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Rendering 3D · Pubblicato
+
+Post originale：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Post originale](https://x.com/Bhavani_00007/status/2098134452283334781)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102219008845971613.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102223289443877247"></a>
+
+### Traduzione in corso
+
+Autore：[@laviniavelle](https://x.com/laviniavelle) · [Post originale](https://x.com/laviniavelle/status/2102223289443877247)
+
+Fotografia · Fermo immagine cinematografico / Still fotografico · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102223289443877247.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2102106915635601452"></a>
 
 ### Inquadratura animata disegnata a mano di un uomo seduto su una panchina, con un'aquila a stelle e strisce che gli atterra sulla testa, mentre l'uomo urla e corre.
@@ -6871,13 +7093,13 @@ Luffy accarezza con dolcezza la testa di Anya, Anya si getta tra le sue braccia,
 
 <a name="prompt-2101956517557883076"></a>
 
-### Traduzione in corso
+### Illustrazione editoriale di moda di un uomo che cammina in un abito sartoriale grigio avvolto in una colorata veste da sciamano coreano con fumo d'inchiostro sumi-e su uno sfondo giallo senape.
 
 Autore：[@leftbypeace](https://x.com/leftbypeace) · [Post originale](https://x.com/leftbypeace/status/2101956517557883076)
 
 Illustrazione · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Illustrazione editoriale di moda di un uomo che cammina in un abito sartoriale grigio avvolto in una colorata veste da sciamano coreano con fumo d'inchiostro sumi-e su uno sfondo giallo senape.
 
 <img src="images/2101956517557883076-1.jpg" alt="Immagine 1" width="480" />
 
@@ -6888,7 +7110,7 @@ Illustrazione · Personaggio · Articolo di moda · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+corpo intero, 3::profilo laterale, posa naturale di camminata, a metà passo, una gamba in avanti, l'altra gamba indietro::, fumando una sigaretta, 3::fumo di sigaretta simile a inchiostro nero, fumo sumi-e, lavaggio d'inchiostro fluido::, 2::abito sartoriale grigio, camicia elegante bianca, cravatta grigia::, 3::colorata veste da sciamano coreano indossata morbidamente sopra l'abito::, maniche lunghe e fluide, veste svolazzante dietro, perline rituali e nappe colorate in vita, 2::una mano in tasca, l'altro braccio rilassato lungo il fianco::, editoriale di moda, sfondo piatto giallo senape
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7333,6 +7555,32 @@ Trasforma la foto in una caricatura a guazzo dipinta a mano su carta di cotone c
 
 ## Schizzo / Line Art
 
+<a name="prompt-2102193031583588643"></a>
+
+### Traduzione in corso
+
+Autore：[@BorderleSint](https://x.com/BorderleSint) · [Post originale](https://x.com/BorderleSint/status/2102193031583588643)
+
+Schizzo / Line Art · Pubblicato
+
+Post originale：[@Zackjpnman](https://x.com/Zackjpnman) · [Post originale](https://x.com/Zackjpnman/status/2101687832557527435)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102193031583588643-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102193031583588643-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2099485936535167139"></a>
 
 ### Prompt per poster di confronto sopra-sotto 3:4, la metà superiore mantiene la foto di viaggio reale e la metà inferiore viene trasformata in un disegno a linee minimalista bianco avorio su sfondo blu scuro.
@@ -7651,17 +7899,17 @@ Evita personaggi riconoscibili protetti da copyright, somiglianze con celebrità
 
 ## Rendering 3D
 
-<a name="prompt-2102166553701597551"></a>
+<a name="prompt-2102213593043226881"></a>
 
 ### Traduzione in corso
 
-Autore：[@WescheNex1q](https://x.com/WescheNex1q) · [Post originale](https://x.com/WescheNex1q/status/2102166553701597551)
+Autore：[@ralejandrots88](https://x.com/ralejandrots88) · [Post originale](https://x.com/ralejandrots88/status/2102213593043226881)
 
-Rendering 3D · Paesaggio / Natura · Pubblicato
+Rendering 3D · Pubblicato
 
 **Riepilogo:** Traduzione in corso
 
-<img src="covers/2102166553701597551.jpg" alt="Immagine 1" width="480" />
+<img src="covers/2102213593043226881.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
@@ -7673,22 +7921,44 @@ Traduzione in corso
 
 ---
 
+<a name="prompt-2102166553701597551"></a>
+
+### Prompt che genera un pianeta interattivo tramite fragment shader GLSL con terreno, oceani, atmosfera e calotte polari stagionali.
+
+Autore：[@WescheNex1q](https://x.com/WescheNex1q) · [Post originale](https://x.com/WescheNex1q/status/2102166553701597551)
+
+Rendering 3D · Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Prompt che genera un pianeta interattivo tramite fragment shader GLSL con terreno, oceani, atmosfera e calotte polari stagionali.
+
+<img src="covers/2102166553701597551.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+un pianeta dall'orbita, rilievi, oceani, nuvole alla deriva, terminatore giorno/notte con le luci delle città, atmosfera al bordo, rotazione lenta, trascina per inclinare, un pulsante "Season" che sposta le calotte polari.
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2102155360505053659"></a>
 
-### Traduzione in corso
+### Generare una scena 3D di un pellicano in bicicletta in un singolo file HTML utilizzando Three.js.
 
 Autore：[@\_kaichen](https://x.com/_kaichen) · [Post originale](https://x.com/_kaichen/status/2102155360505053659)
 
 Rendering 3D · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Generare una scena 3D di un pellicano in bicicletta in un singolo file HTML utilizzando Three.js.
 
 <img src="covers/2102155360505053659.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Implementa un pellicano in bicicletta in un unico file HTML autonomo usando Three.js
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -7905,20 +8175,20 @@ Chibi / Stile Q · Acquerello · Personaggio · Pubblicato
 
 <a name="prompt-2102150362945687807"></a>
 
-### Traduzione in corso
+### Dipinto a olio barocco di un nobiluomo rinascimentale, carrozza dorata e cavalli bianchi in una cornice dorata.
 
 Autore：[@arco0369](https://x.com/arco0369) · [Post originale](https://x.com/arco0369/status/2102150362945687807)
 
 Pittura a Olio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Dipinto a olio barocco di un nobiluomo rinascimentale, carrozza dorata e cavalli bianchi in una cornice dorata.
 
 <img src="covers/2102150362945687807.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un magistrale dipinto a olio antico nel drammatico stile barocco di Caravaggio e dei maestri italiani del XVII secolo, con una ricca illuminazione chiaroscurale, ombre profonde e caldi riflessi dorati. Un nobile gentiluomo rinascimentale è in posa dignitosa indossando un lussuoso farsetto di velluto color bordeaux scuro con mantello fluente, calzoni scuri al ginocchio, calze color crema chiaro, scarpe di cuoio nero e un cappello a basco nero con una piuma. Si trova davanti a una carrozza dorata, sontuosa e riccamente dorata, trainata da due magnifici cavalli bianchi adornati con elaborati finimenti dorati, pennacchi e piume. La scena si svolge in una giornata limpida con un cielo leggermente drammatico di nuvole vorticose. Sullo sfondo, un elegante giardino di palazzo italiano con alti cipressi e cancelli e portici decorati in ferro battuto dorato. L'intera opera d'arte è presentata come un vecchio dipinto a olio racchiuso in una ricca ed elaborata cornice barocca dorata dell'epoca finemente intagliata. Trame altamente dettagliate di velluto, foglia d'oro, finimenti per cavalli, architettura in pietra e tela invecchiata. Proporzioni 3:2.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -8007,15 +8277,41 @@ Trasforma la foto di viaggio di architettura mondiale fornita in un'opera d'arte
 
 ## Acquerello
 
-<a name="prompt-2102160154909438370"></a>
+<a name="prompt-2102216813459439933"></a>
 
 ### Traduzione in corso
+
+Autore：[@afrinxai](https://x.com/afrinxai) · [Post originale](https://x.com/afrinxai/status/2102216813459439933)
+
+Acquerello · Ritratto / Selfie · Personaggio · Pubblicato
+
+Post originale：[@afrinxai](https://x.com/afrinxai) · [Post originale](https://x.com/afrinxai/status/2102035368354738376)
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102216813459439933-1.jpg" alt="Immagine 1" width="480" />
+
+<img src="images/2102216813459439933-2.jpg" alt="Immagine 2" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102160154909438370"></a>
+
+### Immagine che combina fotografia realistica e illustrazione ad acquerello di una giovane donna che raccoglie mele in un frutteto.
 
 Autore：[@Minahil42298354](https://x.com/Minahil42298354) · [Post originale](https://x.com/Minahil42298354/status/2102160154909438370)
 
 Fotografia · Illustrazione · Acquerello · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Immagine che combina fotografia realistica e illustrazione ad acquerello di una giovane donna che raccoglie mele in un frutteto.
 
 <img src="images/2102160154909438370-1.jpg" alt="Immagine 1" width="480" />
 
@@ -8024,7 +8320,7 @@ Fotografia · Illustrazione · Acquerello · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+Un'immagine composita e affascinante che presenta una fotografia realistica nella metà superiore e una corrispondente illustrazione ad acquerello nella metà inferiore, entrambe impostate su uno sfondo di carta bianca calda e materica. La metà superiore presenta una fotografia iperrealistica di una giovane donna gioiosa con lunghi capelli castani ondulati e guance rosee, che indossa un cappello di paglia con un fiore e un maxi abito floreale. Sorride guardando verso l'alto un melo, allungando la mano per cogliere una mela rossa, mentre tiene sul braccio un grande cesto di vimini pieno di mele. Sullo sfondo c'è un meleto luminoso e punteggiato dal sole. La metà inferiore, direttamente sotto la foto, è una delicata illustrazione artistica ad acquerello che cattura esattamente lo stesso soggetto e la stessa posa in uno stile pittorico e sfocato, apparendo come se fosse impressa sulla carta. L'illustrazione mantiene l'espressione della donna, il vestito, il cappello e l'intera scena del frutteto, ma con pennellate visibili e lavature di colore. Entrambe le sezioni sono centrate, con una transizione artistica distinta tra il bordo della fotografia e il margine dell'illustrazione, caratterizzata da morbidi tratti di pittura sfumati che si dissolvono nella carta. La composizione complessiva dà l'idea della pagina di un diario d'arte o di una stampa d'autore.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -8065,20 +8361,20 @@ Crea un poster artistico di viaggio verticale con confronto superiore e inferior
 
 <a name="prompt-2102173528900428060"></a>
 
-### Traduzione in corso
+### Illustrazione di moda vintage e minimalista, donna di profilo che indossa un cappello bianco a tesa oversize e labbra rosse, sfondo a tinta unita arancione terracotta.
 
 Autore：[@Tanvir48992](https://x.com/Tanvir48992) · [Post originale](https://x.com/Tanvir48992/status/2102173528900428060)
 
 Illustrazione · Retro / Vintage · Minimalismo · Personaggio · Articolo di moda · Abstract / Contesto · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Illustrazione di moda vintage e minimalista, donna di profilo che indossa un cappello bianco a tesa oversize e labbra rosse, sfondo a tinta unita arancione terracotta.
 
 <img src="images/2102173528900428060-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Illustrazione di moda editoriale minimalista e ultra-dettagliata, composizione verticale, estetica sofisticata di glamour vintage, elegante pittura digitale ispirata all'Art Déco con forme geometriche pulite, sottile texture pittorica e composizione cinematografica in stile poster. Viene mostrata un'elegante donna adulta di profilo a tre quarti, rivolta verso il lato destro dell'inquadratura. La testa è leggermente inclinata verso l'alto, creando una posa aggraziata, sicura e misteriosa. I suoi tratti somatici sono raffinati e stilizzati con un naso lungo ed elegante, zigomi morbidamente definiti, pelle liscia color beige caldo, una linea mascellare delicata e labbra carnose color cremisi intenso. I suoi occhi sono per lo più nascosti sotto la tesa del cappello oversize, creando un'atmosfera enigmatica da editoriale di moda. Ha capelli da castano scuro a nero corvino, raccolti in uno chignon basso e ordinato sulla nuca, con alcune sottili ciocche sciolte che incorniciano il lato del viso e del collo. I capelli hanno forme lisce e controllate con una texture di ciocche molto sottile piuttosto che dettagli fotorealistici. Indossa un cappello bianco/avorio a tesa larga drammaticamente oversize. Il cappello è l'elemento visivo dominante nella composizione. La sua enorme tesa ricurva si estende diagonalmente dall'angolo inferiore sinistro verso il lato superiore destro dell'inquadratura, coprendo parzialmente gli occhi e la parte superiore del viso. La tesa ha una superficie liscia bianco avorio con una texture estremamente sottile simile a tessuto/carta e morbide variazioni tonali. La cupola del cappello è grande, arrotondata e strutturata, con un aspetto quasi scultoreo, posizionata dietro e sopra la testa. Il suo abbigliamento è un elegante abito o blusa fluida bianco avorio, che copre le spalle e la parte superiore del busto. Il capo presenta una silhouette morbidamente drappeggiata con ampie pieghe e superfici in tessuto lisce. La scollatura è sobria e aggraziata, con sottili pieghe a strati intorno all'area del collo e delle spalle. L'abito si fonde naturalmente nell'estetica minimalista mantenendo visibile la texture tessile. Posa e composizione: ritratto stretto da circa la parte superiore del petto in su. La donna occupa la maggior parte dell'inquadratura, posizionata leggermente a sinistra del centro mentre il viso punta verso destra. Il cappello oversize crea una forte linea visiva diagonale attraverso la composizione. Il collo e la spalla creano forme curve eleganti che contrastano con la tesa geometrica del cappello. La composizione deve risultare attentamente bilanciata, sofisticata ed editoriale. Sfondo: uno sfondo completamente piatto arancione bruciato / terracotta, con una sottile texture a pennellate dipinte a mano e una delicata variazione tonale. Nessun oggetto, scenario o elemento aggiuntivo. Il caldo sfondo arancione contrasta fortemente con i capelli neri e il cappello e l'abbigliamento bianco avorio. Tavolozza dei colori: arancione bruciato, terracotta, beige caldo, bianco avorio, crema, nero profondo, marrone scuro e labbra rosso cremisi tenue. Mantenere i colori ricchi ma leggermente desaturati, con una raffinata qualità di stampa vintage. Illuminazione: illuminazione morbida e diffusa in stile studio, rappresentata attraverso transizioni tonali pulite piuttosto che ombre fotografiche realistiche. Punti luce delicati su guancia, naso, labbra e abiti bianchi. Ombre sottili sotto la tesa del cappello e intorno al collo e ai capelli. Stile visivo: illustrazione editoriale di moda di lusso, poster modernista minimalista, estetica di rivista di moda vintage anni '60-'70, sofisticata pittura digitale geometrica, elegante design della silhouette, forme morbide in stile vettoriale combinate con una sottile texture dipinta a mano, dettagli misurati, spazio negativo artistico, opera d'arte per campagna di moda di fascia alta. Resa: bordi estremamente puliti, proporzioni facciali precise, forme della pelle lisce, stratificazione tonale sofisticata, grana sottile di tela/carta, texture del pennello controllata, finitura editoriale premium, alta risoluzione, illustrazione di moda di qualità museale, visivamente d'impatto, senza tempo ed elegante. Negative Prompt: fotografia fotorealistica, rendering 3D, anime, cartone animato, stile infantile, tratti facciali esagerati, anatomia distorta, arti extra, dita extra, viso deforme, occhi visibili, sfondo eccessivamente dettagliato, disordine, testo, tipografia, logo, filigrana, ombre dure, colori al neon, colori sovrasaturi, pelle di plastica lucida, eccessiva texture della pelle, capelli arruffati, cappello distorto, tesa asimmetrica, bassa risoluzione, bordi sfocati, rumore, cattiva composizione.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -8809,6 +9105,28 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 
 ## Cyberpunk / Sci-Fi
 
+<a name="prompt-2102209728663437419"></a>
+
+### Traduzione in corso
+
+Autore：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Post originale](https://x.com/TheEerieHollows/status/2102209728663437419)
+
+Cyberpunk / Sci-Fi · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102209728663437419-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
 <a name="prompt-2101749161536458825"></a>
 
 ### Uno scienziato dei materiali indossa una tuta stealth scura in grafene con linee blu elettrico pulsanti.
@@ -8878,6 +9196,28 @@ Filmato documentaristico televisivo ultra-realistico di 15 secondi dei primi ann
 <a name="category-minimalism"></a>
 
 ## Minimalismo
+
+<a name="prompt-2102211141820920113"></a>
+
+### Traduzione in corso
+
+Autore：[@DDJCXX](https://x.com/DDJCXX) · [Post originale](https://x.com/DDJCXX/status/2102211141820920113)
+
+Fotografia · Minimalismo · Ritratto / Selfie · Personaggio · Articolo di moda · Architettura / Interni · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102211141820920113-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
 
 <a name="prompt-2101703683167645776"></a>
 
@@ -9037,22 +9377,66 @@ Traduzione in corso
 
 ## Altro
 
-<a name="prompt-2102144332148957251"></a>
+<a name="prompt-2102204400768876741"></a>
 
 ### Traduzione in corso
+
+Autore：[@MakunaMars](https://x.com/MakunaMars) · [Post originale](https://x.com/MakunaMars/status/2102204400768876741)
+
+Paesaggio / Natura · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="images/2102204400768876741-1.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102239002317525380"></a>
+
+### Traduzione in corso
+
+Autore：[@NbkogY3](https://x.com/NbkogY3) · [Post originale](https://x.com/NbkogY3/status/2102239002317525380)
+
+Personaggio · Pubblicato
+
+**Riepilogo:** Traduzione in corso
+
+<img src="covers/2102239002317525380.jpg" alt="Immagine 1" width="480" />
+
+**Prompt**
+
+```text
+Traduzione in corso
+```
+
+[↑ Torna alle categorie](#catalog)
+
+---
+
+<a name="prompt-2102144332148957251"></a>
+
+### Un docile okapi che vaga attraverso un enorme mondo stratificato di strisce fluttuanti, rettangoli traslucidi e forme di carta curve che richiamano visivamente le sue striature, sofisticato collage di carta ritagliata fuso con pastello secco, ottanio, bordeaux, cobalto e oro, surrealismo giocoso ed elegante.
 
 Autore：[@RenRose321](https://x.com/RenRose321) · [Post originale](https://x.com/RenRose321/status/2102144332148957251)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un docile okapi che vaga attraverso un enorme mondo stratificato di strisce fluttuanti, rettangoli traslucidi e forme di carta curve che richiamano visivamente le sue striature, sofisticato collage di carta ritagliata fuso con pastello secco, ottanio, bordeaux, cobalto e oro, surrealismo giocoso ed elegante.
 
 <img src="images/2102144332148957251-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un docile okapi che vaga attraverso un enorme mondo stratificato di strisce fluttuanti, rettangoli traslucidi e forme di carta curve che richiamano visivamente le sue striature, sofisticato collage di carta ritagliata fuso con pastello secco, ottanio, bordeaux, cobalto e oro, surrealismo giocoso ed elegante.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -9061,20 +9445,20 @@ Traduzione in corso
 
 <a name="prompt-2102132256290558176"></a>
 
-### Traduzione in corso
+### Modello di prompt con prospettiva ROV per acque profonde con soggetti insoliti di fondale in una griglia 2x2 con realistici overlay telemetrici.
 
 Autore：[@Gdgtify](https://x.com/Gdgtify) · [Post originale](https://x.com/Gdgtify/status/2102132256290558176)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di prompt con prospettiva ROV per acque profonde con soggetti insoliti di fondale in una griglia 2x2 con realistici overlay telemetrici.
 
 <img src="images/2102132256290558176-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+griglia 2x2, 16:9, esegui questo per 4 soggetti insoliti: INPUT: $ SOGGETTO            // creatura, struttura, geometria che non dovrebbe essere laggiù RITROVAMENTO = infer_subject($ SOGGETTO)  // scala rispetto al braccio dell'ROV, traslucenza, movimento o immobilità RIF_SCALA = infer_reference($ SOGGETTO)   // braccio manipolatore, cesto di campionamento in primo piano per la dimensione ACQUA     = infer_water_column($ SOGGETTO)// densità di particolato, assorbimento blu-verde NEVE      = infer_marine_snow($ SOGGETTO) // fiocchi alla deriva costante illuminati dalle lampade LAMPADE   = infer_rov_lighting($ SOGGETTO)// doppie lampade dure, netto decadimento verso il nero puro FONDALE   = infer_seafloor($ SOGGETTO)    // limo, pennacchio di sedimento sollevato, roccia OTTICA    = infer_rov_cam($ SOGGETTO)     // grandangolo, leggero fisheye, messa a fuoco fissa OVERLAY   = infer_telemetry($ SOGGETTO)   // profondità, temp, prua, lat/long, numero immersione DIFETTI   = infer_flaws($ SOGGETTO)       // bagliore da backscatter, caccia del fuoco, rumore cromatico Φ = lamp_cone(LAMPADE) + backscatter(NEVE) MOVIMENTO: deriva lenta dell'ROV → il soggetto entra nel cono della lampada → spinta del propulsore, si solleva un pennacchio di limo → il soggetto reagisce o non reagisce → le lampade lo perdono nel buio. Comporre: filmato da sommergibile ROV, doppie lampade con netto decadimento nel nero, backscatter di neve marina, overlay di telemetria, obiettivo grandangolare leggermente fisheye. Fotorealistico, 16:9.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -9083,20 +9467,20 @@ Traduzione in corso
 
 <a name="prompt-2102173572764766661"></a>
 
-### Traduzione in corso
+### Un prompt per ritrarre una ragazza in una stanza inondata dalla luce e dalle ombre del mattino.
 
 Autore：[@55hawks](https://x.com/55hawks) · [Post originale](https://x.com/55hawks/status/2102173572764766661)
 
 Personaggio · Architettura / Interni · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un prompt per ritrarre una ragazza in una stanza inondata dalla luce e dalle ombre del mattino.
 
 <img src="images/2102173572764766661-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un mattino in cui la luce si sveglia prima della ragazza. La luce filtrante riempie la stanza, e le ombre, in ritardo, iniziano silenziosamente a prendere forma.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -9105,7 +9489,7 @@ Traduzione in corso
 
 <a name="prompt-2102152221572174045"></a>
 
-### Traduzione in corso
+### Modello di generazione tipografica in stile Art Nouveau, che riempie direttamente i contorni delle lettere con immagini a tema, paesaggi in miniatura e texture.
 
 Autore：[@deebeeeff](https://x.com/deebeeeff) · [Post originale](https://x.com/deebeeeff/status/2102152221572174045)
 
@@ -9113,7 +9497,7 @@ Paesaggio / Natura · Testo / Tipografia · Pubblicato
 
 Post originale：[@lordknight\_ai](https://x.com/lordknight_ai) · [Post originale](https://x.com/lordknight_ai/status/2102136343581061351)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Modello di generazione tipografica in stile Art Nouveau, che riempie direttamente i contorni delle lettere con immagini a tema, paesaggi in miniatura e texture.
 
 <img src="images/2102152221572174045-1.jpg" alt="Immagine 1" width="480" />
 
@@ -9124,7 +9508,9 @@ Post originale：[@lordknight\_ai](https://x.com/lordknight_ai) · [Post origina
 **Prompt**
 
 ```text
-Traduzione in corso
+EVENT/SUBJECT=Art Nouveau/Bebè Art Nouveau
+TEXT=Art Nouveau/Sweet Baby 
+Una rappresentazione tipografica in stile [EVENT/SUBJECT] di "[TEXT]", dove le immagini, i motivi e i colori di [EVENT/SUBJECT] vivono all'interno delle forme delle lettere stesse — come texture, riempimenti o piccole scene contenute nella sagoma di ogni lettera — anziché come decorazioni separate attorno al testo. Nessun bordo o oggetto sparso attorno alle lettere. Lo sfondo sfocato in modo morbido contiene elementi tematici e paesaggi relativi a [EVENT/SUBJECT]. Le lettere occupano l'intera immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)

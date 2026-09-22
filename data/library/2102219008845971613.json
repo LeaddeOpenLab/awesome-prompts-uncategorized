@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:27:17.802Z",
+  "model": "grok",
+  "prompt": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.",
+  "promptTranslations": {
+    "en": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay."
+  },
+  "summaryTranslations": {
+    "en": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay."
+  },
+  "translationVersion": 2,
+  "summary": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.",
+  "summaryEn": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2098134452283334781",
+      "canonicalUrl": "https://x.com/Bhavani_00007/status/2098134452283334781",
+      "author": {
+        "username": "Bhavani_00007",
+        "displayName": "Bhavy☄️",
+        "profileUrl": "https://x.com/Bhavani_00007"
+      },
+      "originalText": "Astra (launch day) vs Astra (Today).\n\nSame prompt. Today's result looks off.\n\nThe photo realism is gone. It clearly looks nerfed.\n\nGPT-5.6 Sol is unusable for me right now too. https://t.co/eVMImAiiRq"
+    },
+    "id": "2102219008845971613",
+    "canonicalUrl": "https://x.com/WescheNex1q/status/2102219008845971613",
+    "author": {
+      "username": "WescheNex1q",
+      "displayName": "Wësche",
+      "profileUrl": "https://x.com/WescheNex1q"
+    },
+    "publishedAt": "2026-09-22T02:10:43.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "en",
+    "originalText": "Grok 4.7 vs 4.6, round 2.\nFull cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.\n\n4.6 Build: 635 s, 19.9K tokens, delivered first try. Great pad, then the camera rides into its own smoke and loses the rocket.\n\n4.7 Build: same prompt, and it's the best rocket of the three. Tracks the rocket through the cloud deck, rocket always in frame.\n\nVia API (Openrouter), filed twice:\n147K then 67K reasoning tokens, complete file in the thinking, answer = \"Save this as .html.\" Nothing delivered.\n\nSame model. Grok Buid ships the file; the API doesn't. Video: top 4.6, bottom 4.7.",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/WescheNex1q/status/2102219008845971613",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102218433198723072/img/TTe8fmw9JFp02g0W.jpg",
+        "analysisUrl": "https://x.com/WescheNex1q/status/2102219008845971613"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/WescheNex1q/status/2102219008845971613",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2098134405546221568/img/dOq0I9oL680bfqAm.jpg",
+        "analysisUrl": "https://x.com/WescheNex1q/status/2102219008845971613",
+        "sourcePostId": "2098134452283334781"
+      }
+    ],
+    "metrics": {
+      "likeCount": 4,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 607
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/WescheNex1q/status/2102219008845971613",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102218433198723072/img/TTe8fmw9JFp02g0W.jpg",
+  "coverPath": "covers/2102219008845971613.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102218433198723072",
+    "x-video:2098134405546221568",
+    "x-post:2102219008845971613",
+    "x-post:2098134452283334781"
+  ],
+  "analysis": {
+    "summary": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.",
+    "summaryEn": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video shows a 3D animated rocket launch sequence generated in Three.js featuring pad, tower, clamps, ignition smoke, and a camera following the rocket into the clouds, precisely matching the textual requirements."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay.",
+    "sourceRange": {
+      "start": 26,
+      "end": 173
+    },
+    "translations": {
+      "zh": "Three.js 中的完整电影级火箭发射场景：发射台、塔架、固定架、点火、烟雾、升空，镜头追踪至云霄。无按钮，无HUD，自动播放。",
+      "en": "Full cinematic rocket launch in Three.js: pad, tower, clamps, ignition, smoke, liftoff, camera chase into the clouds. No buttons, no HUD, autoplay."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-3d",
+    "useCase": "3D web scene generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

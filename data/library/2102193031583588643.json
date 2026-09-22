@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:26:37.360Z",
+  "model": "unknown-image",
+  "prompt": "3:4、フォトリアル、AIで作成した20代美女、デッサンモデル、手前にスケッチブックと絵師の手と鉛筆、スケッチブックで彼女の身体は隠れている、デコルテと脚のみ見える、  ネガティヴ:トップス",
+  "promptTranslations": {
+    "en": "3:4, photorealistic, AI-generated beautiful woman in her 20s, sketch model, sketchbook, artist's hand and pencil in the foreground, her body is hidden by the sketchbook, only her décolletage and legs are visible, Negative: tops"
+  },
+  "summaryTranslations": {
+    "en": "A sketch model whose body is hidden by a sketchbook, with the artist's hand in the foreground."
+  },
+  "translationVersion": 2,
+  "summary": "スケッチブックで身体を隠した素描モデルと手前の画家の手。",
+  "summaryEn": "An art model posing behind an artist's sketchbook revealing only shoulders and legs.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2101687832557527435",
+      "canonicalUrl": "https://x.com/Zackjpnman/status/2101687832557527435",
+      "author": {
+        "username": "Zackjpnman",
+        "displayName": "Zack@生成AI美女グループ統括",
+        "profileUrl": "https://x.com/Zackjpnman"
+      },
+      "originalText": "本日9/21はスケッチブックの日🖼️\n\n僕も参加していいですか！？！？？\n\nプロンプトはALTに👇\n\n🩷桜井モモ🩷 https://t.co/0YqjvJWdUr"
+    },
+    "id": "2102193031583588643",
+    "canonicalUrl": "https://x.com/BorderleSint/status/2102193031583588643",
+    "author": {
+      "username": "BorderleSint",
+      "displayName": "Borderless 🌐",
+      "profileUrl": "https://x.com/BorderleSint"
+    },
+    "publishedAt": "2026-09-22T00:27:30.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "ja",
+    "originalText": "Vamos a minha tentativa\n\nPrompt Share\n\n3:4、フォトリアル、AIで作成した20代美女、デッサンモデル、手前にスケッチブックと絵師の手と鉛筆、スケッチブックで彼女の身体は隠れている、デコルテと脚のみ見える、  ネガティヴ:トップス https://t.co/RkBRmZaiJ9",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSx9PHvWkAAnLzu.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSx9PHvWkAAnLzu.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSgtKNYasAAj3MO.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSgtKNYasAAj3MO.jpg",
+        "sourcePostId": "2101687832557527435"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 180
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/BorderleSint/status/2102193031583588643",
+  "coverUrl": "https://pbs.twimg.com/media/HSx9PHvWkAAnLzu.jpg",
+  "coverPath": "images/2102193031583588643-1.jpg",
+  "imagePaths": [
+    "images/2102193031583588643-1.jpg",
+    "images/2102193031583588643-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSx9PHvWkAAnLzu",
+    "x-image:/media/HSgtKNYasAAj3MO",
+    "x-post:2102193031583588643",
+    "x-post:2101687832557527435"
+  ],
+  "analysis": {
+    "summary": "スケッチブックで身体を隠した素描モデルと手前の画家の手。",
+    "summaryEn": "An art model posing behind an artist's sketchbook revealing only shoulders and legs.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image features an artist holding a pencil and sketchbook depicting a female model whose body is concealed behind it, precisely matching the prompt description."
+    },
+    "videoQuality": null,
+    "originalPrompt": "3:4、フォトリアル、AIで作成した20代美女、デッサンモデル、手前にスケッチブックと絵師の手と鉛筆、スケッチブックで彼女の身体は隠れている、デコルテと脚のみ見える、  ネガティヴ:トップス",
+    "sourceRange": {
+      "start": 39,
+      "end": 134
+    },
+    "translations": {
+      "zh": "3:4，逼真摄影，AI生成的20多岁美女，素描模特，前景是速写本、画家的手与铅笔，速写本遮住了她的身体，仅露出锁骨颈部和双腿，负面提示词：上衣",
+      "en": "3:4, photorealistic, AI-generated 20s beauty, sketch model, sketchbook, artist's hand, and pencil in the foreground, her body hidden by the sketchbook with only decollete and legs visible, negative: tops"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "artwork",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

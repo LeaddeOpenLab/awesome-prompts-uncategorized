@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:27:10.913Z",
+  "model": "unknown-image",
+  "prompt": "Create a serene landscape on an alien planet. Black sand shoreline with turquoise green ocean waters, crashing waves along the beach. A soft haze of purple fog hovering in the distance with jagged mountain peaks dotting the far side of the bay. In the foreground lush tropical plants with blue stems and leaves, yellow flowers with semi transparent petals and long white stamen, trees with gnarled dark pale blue trunks with twisted branches and serrated blue leaves. A light bluish purple sky partially overcast with light turquoise fluffy clouds. A red sun  positioned in late afternoon in the sky with rays of light penetrating the cloud’s edges. High detailed, cinematic surreal environment.",
+  "promptTranslations": {
+    "en": "Create a serene landscape on an alien planet. Black sand shoreline with turquoise green ocean waters, crashing waves along the beach. A soft haze of purple fog hovering in the distance with jagged mountain peaks dotting the far side of the bay. In the foreground lush tropical plants with blue stems and leaves, yellow flowers with semi transparent petals and long white stamen, trees with gnarled dark pale blue trunks with twisted branches and serrated blue leaves. A light bluish purple sky partially overcast with light turquoise fluffy clouds. A red sun  positioned in late afternoon in the sky with rays of light penetrating the cloud’s edges. High detailed, cinematic surreal environment."
+  },
+  "summaryTranslations": {
+    "en": "Alien landscape featuring black sand, turquoise waters, blue foliage, jagged peaks, and a red sun."
+  },
+  "translationVersion": 2,
+  "summary": "Alien landscape featuring black sand, turquoise waters, blue foliage, jagged peaks, and a red sun.",
+  "summaryEn": "Alien landscape featuring black sand, turquoise waters, blue foliage, jagged peaks, and a red sun.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102204400768876741",
+    "canonicalUrl": "https://x.com/MakunaMars/status/2102204400768876741",
+    "author": {
+      "username": "MakunaMars",
+      "displayName": "Makūna Mars",
+      "profileUrl": "https://x.com/MakunaMars"
+    },
+    "publishedAt": "2026-09-22T01:12:40.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "en",
+    "originalText": "Prompt: Create a serene landscape on an alien planet. Black sand shoreline with turquoise green ocean waters, crashing waves along the beach. A soft haze of purple fog hovering in the distance with jagged mountain peaks dotting the far side of the bay. In the foreground lush tropical plants with blue stems and leaves, yellow flowers with semi transparent petals and long white stamen, trees with gnarled dark pale blue trunks with twisted branches and serrated blue leaves. A light bluish purple sky partially overcast with light turquoise fluffy clouds. A red sun  positioned in late afternoon in the sky with rays of light penetrating the cloud’s edges. High detailed, cinematic surreal environment.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyHwdwWMAA_Lt0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyHwdwWMAA_Lt0.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 21
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MakunaMars/status/2102204400768876741",
+  "coverUrl": "https://pbs.twimg.com/media/HSyHwdwWMAA_Lt0.jpg",
+  "coverPath": "images/2102204400768876741-1.jpg",
+  "imagePaths": [
+    "images/2102204400768876741-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSyHwdwWMAA_Lt0",
+    "x-post:2102204400768876741"
+  ],
+  "analysis": {
+    "summary": "Alien landscape featuring black sand, turquoise waters, blue foliage, jagged peaks, and a red sun.",
+    "summaryEn": "Alien landscape featuring black sand, turquoise waters, blue foliage, jagged peaks, and a red sun.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely features the black sand shore, turquoise water, yellow flowers with blue leaves, jagged mountains, and the red afternoon sun described in the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Create a serene landscape on an alien planet. Black sand shoreline with turquoise green ocean waters, crashing waves along the beach. A soft haze of purple fog hovering in the distance with jagged mountain peaks dotting the far side of the bay. In the foreground lush tropical plants with blue stems and leaves, yellow flowers with semi transparent petals and long white stamen, trees with gnarled dark pale blue trunks with twisted branches and serrated blue leaves. A light bluish purple sky partially overcast with light turquoise fluffy clouds. A red sun  positioned in late afternoon in the sky with rays of light penetrating the cloud’s edges. High detailed, cinematic surreal environment.",
+    "sourceRange": {
+      "start": 8,
+      "end": 703
+    },
+    "translations": {
+      "zh": "在异星上创造宁静景观。黑沙海岸与绿松石色海水，浪花拍打沙滩。远处紫雾弥漫，海湾对面点缀锯齿状山峰。前景有带蓝色茎叶的热带植物、半透明黄色花朵及扭曲深蓝树干的树木。淡蓝紫色天空覆有绿松石色浮云，午后红日穿透云层边缘。高细节超现实电影环境。",
+      "en": "Create a serene landscape on an alien planet. Black sand shoreline with turquoise green ocean waters, crashing waves along the beach. A soft haze of purple fog hovering in the distance with jagged mountain peaks dotting the far side of the bay. In the foreground lush tropical plants with blue stems and leaves, yellow flowers with semi transparent petals and long white stamen, trees with gnarled dark pale blue trunks with twisted branches and serrated blue leaves. A light bluish purple sky partially overcast with light turquoise fluffy clouds. A red sun  positioned in late afternoon in the sky with rays of light penetrating the cloud’s edges. High detailed, cinematic surreal environment."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "concept-art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:26:50.723Z",
+  "model": "unknown-image",
+  "prompt": "An ethereal, delicate watercolor portrait of a young woman in extreme profile with closed eyes, peaceful expression, and soft parted lips. A vibrant orange, yellow, and red spotted butterfly rests gently on the bridge of her nose. She has long, dark eyelashes, defined natural eyebrows, soft peach-blush cheeks, and fine wisps of brown hair framing her face. Translucent watercolor washes, soft wet-on-wet color blending, subtle paint drips and splatters around the edges on cold-press textured paper, warm pastel color palette, dreamy poetic aesthetic.\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.",
+  "promptTranslations": {
+    "en": "An ethereal, delicate watercolor portrait of a young woman in extreme profile with closed eyes, peaceful expression, and soft parted lips. A vibrant orange, yellow, and red spotted butterfly rests gently on the bridge of her nose. She has long, dark eyelashes, defined natural eyebrows, soft peach-blush cheeks, and fine wisps of brown hair framing her face. Translucent watercolor washes, soft wet-on-wet color blending, subtle paint drips and splatters around the edges on cold-press textured paper, warm pastel color palette, dreamy poetic aesthetic.\\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance."
+  },
+  "summaryTranslations": {
+    "en": "An ethereal watercolor profile portrait of a woman with a colorful butterfly on her nose."
+  },
+  "translationVersion": 2,
+  "summary": "An ethereal watercolor profile portrait of a woman with a colorful butterfly on her nose.",
+  "summaryEn": "An ethereal watercolor profile portrait of a woman with a colorful butterfly on her nose.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2102035368354738376",
+      "canonicalUrl": "https://x.com/afrinxai/status/2102035368354738376",
+      "author": {
+        "username": "afrinxai",
+        "displayName": "𝑨𝒇𝒓𝒊𝒏",
+        "profileUrl": "https://x.com/afrinxai"
+      },
+      "originalText": "Grounded in snow, adrift in sky.\n\nPrompt: \n\nBird's-eye view anime digital painting of a young East Asian woman looking directly up toward the sky with wide, hopeful eyes and a faint smile. She has windswept shoulder-length dark brown hair catching warm sunlight, wearing an oversized dark olive-green hooded winter puffer jacket over a dark turtleneck sweater, with a vintage camera hanging around her neck. She is standing on sunlit white snow surrounded by frozen turquoise ice. High-angle top-down perspective, crisp shadows, warm sun flare, cinematic Makoto Shinkai aesthetic, clean painterly shading, vibrant teal and golden-hour color palette.\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance."
+    },
+    "id": "2102216813459439933",
+    "canonicalUrl": "https://x.com/afrinxai/status/2102216813459439933",
+    "author": {
+      "username": "afrinxai",
+      "displayName": "𝑨𝒇𝒓𝒊𝒏",
+      "profileUrl": "https://x.com/afrinxai"
+    },
+    "publishedAt": "2026-09-22T02:02:00.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "en",
+    "originalText": "She was a breath held between seasons, where even a wandering wing mistook her stillness for home.\n\nPrompt :\n\nAn ethereal, delicate watercolor portrait of a young woman in extreme profile with closed eyes, peaceful expression, and soft parted lips. A vibrant orange, yellow, and red spotted butterfly rests gently on the bridge of her nose. She has long, dark eyelashes, defined natural eyebrows, soft peach-blush cheeks, and fine wisps of brown hair framing her face. Translucent watercolor washes, soft wet-on-wet color blending, subtle paint drips and splatters around the edges on cold-press textured paper, warm pastel color palette, dreamy poetic aesthetic.\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSwD6GOawAEIAA0.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSwD6GOawAEIAA0.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSvm0aVaQAAlQLk.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSvm0aVaQAAlQLk.jpg",
+        "sourcePostId": "2102035368354738376"
+      }
+    ],
+    "metrics": {
+      "likeCount": 23,
+      "repostCount": 3,
+      "replyCount": 22,
+      "quoteCount": 0,
+      "viewCount": 504
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/afrinxai/status/2102216813459439933",
+  "coverUrl": "https://pbs.twimg.com/media/HSwD6GOawAEIAA0.jpg",
+  "coverPath": "images/2102216813459439933-1.jpg",
+  "imagePaths": [
+    "images/2102216813459439933-1.jpg",
+    "images/2102216813459439933-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSwD6GOawAEIAA0",
+    "x-image:/media/HSvm0aVaQAAlQLk",
+    "x-post:2102216813459439933",
+    "x-post:2102035368354738376"
+  ],
+  "analysis": {
+    "summary": "An ethereal watercolor profile portrait of a woman with a colorful butterfly on her nose.",
+    "summaryEn": "An ethereal watercolor profile portrait of a woman with a colorful butterfly on her nose.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The first image depicts a watercolor profile of a woman with eyes closed and a spotted butterfly on her nose, aligning with the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "An ethereal, delicate watercolor portrait of a young woman in extreme profile with closed eyes, peaceful expression, and soft parted lips. A vibrant orange, yellow, and red spotted butterfly rests gently on the bridge of her nose. She has long, dark eyelashes, defined natural eyebrows, soft peach-blush cheeks, and fine wisps of brown hair framing her face. Translucent watercolor washes, soft wet-on-wet color blending, subtle paint drips and splatters around the edges on cold-press textured paper, warm pastel color palette, dreamy poetic aesthetic.\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance.",
+    "sourceRange": {
+      "start": 110,
+      "end": 845
+    },
+    "translations": {
+      "zh": "空灵精致的年轻女子侧颜水彩肖像，双眼微闭，神情平静，嘴唇微张。一只色彩斑斓的斑点蝴蝶落在鼻梁上。浓长睫毛，自然眉形，微红脸颊，棕色碎发修饰脸部。半透明水彩晕染，湿画法融合，边缘伴有飞溅与水滴效果，水彩纸纹理，暖色柔和调，诗意梦幻美学。将所上传的照片作为面部身份参考，保留面部特征与肤色比例。",
+      "en": "An ethereal, delicate watercolor portrait of a young woman in extreme profile with closed eyes, peaceful expression, and soft parted lips. A vibrant orange, yellow, and red spotted butterfly rests gently on the bridge of her nose. She has long, dark eyelashes, defined natural eyebrows, soft peach-blush cheeks, and fine wisps of brown hair framing her face. Translucent watercolor washes, soft wet-on-wet color blending, subtle paint drips and splatters around the edges on cold-press textured paper, warm pastel color palette, dreamy poetic aesthetic.\nUse the uploaded photo as the facial identity reference for an adult woman. Preserve his recognizable facial features, natural skin tone, facial proportions, and overall appearance."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "watercolor portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

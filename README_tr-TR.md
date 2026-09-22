@@ -19,7 +19,7 @@ Leadde.ai, ekiplerin belgeleri, slaytları ve metinleri eğitim, işe uyum ve pa
 
 Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depoya yıldız verin.
 
-**449** Prompt · Son eklenen: **2026-09-22**
+**461** Prompt · Son eklenen: **2026-09-22**
 
 <a name="catalog"></a>
 
@@ -33,22 +33,106 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 ## Fotoğrafçılık
 
-<a name="prompt-2102149669896012031"></a>
+<a name="prompt-2102236776748470351"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@oye\_samia](https://x.com/oye_samia) · [Orijinal gönderi](https://x.com/oye_samia/status/2102236776748470351)
+
+Fotoğrafçılık · Portre / Selfie · Karakter · Yiyecek / İçecek · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102236776748470351-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102229410757910990"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2102229410757910990)
+
+Fotoğrafçılık · Moda Ürünü · Özet / Arka Plan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102229410757910990-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102149669896012031"></a>
+
+### Sabah yatak odasında açık pembe dantelli kıyafetiyle yatakta sırtüstü yatan bir kadının gerçekçi portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2102149669896012031)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabah yatak odasında açık pembe dantelli kıyafetiyle yatakta sırtüstü yatan bir kadının gerçekçi portre istemi.
 
 <img src="images/2102149669896012031-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Sabah Yatak Odası | Soluk Sabah Işığı ve Açık Pembe Utangaç Bir Gülümseme🌟
+
+【Konu ve Görsel Tarz】
+Sabah vakti yatak odasında yatakta sırtüstü yatan ve aniden sevgilisiyle göz göze gelen bariz biçimde yetişkin bir Japon kadının anını yakalayan fotogerçekçi fotoğraf. Soluk pembe narin çiçek desenli danteli beyaz nevresimlerle ve sabahın doğal ışığıyla birleştirerek, bir fotoğraf albümünden bir sahnenin zarafetini ve günlük yaşamda tesadüfen gösterilen samimi bir sevimliliği yansıtır.
+Aşırı kurgulanmış bir gravür çekimi yerine, sevgilinin bakış açısından çekilmiş hissi veren doğal bir mesafeye öncelik verilir. Yumuşak yüz ifadesi, dantelin ince detayları ve nevresimlerin dokusuna kadar gerçek bir fotoğraf gibi işlenir.
+
+【Mekân, Arka Plan ve Atmosfer】
+Beyaz ve mat pembe tonlarında düzenlenmiş sessiz bir yatak odası. Büyük yatakta temiz beyaz çarşaflar, bir yorgan ve dolgun beyaz yastıklar bulunur; kadın yorganın üzerinde uzanmaktadır. Yorgan vücudun altına yayılmış olup bacakları veya kıyafeti örtmez.
+Pencerede ince beyaz perdeler vardır; komodinin üzerinde küçük yuvarlak bir masa, loş bir aydınlatma ve açık renkli çiçekler yer alır. Eşyalar aşırıya kaçılmadan, beyaz nevresimlerin ve soluk pembe kıyafetin doğal olarak ön plana çıktığı, temiz ve yaşanmışlık hissi veren bir alan oluşturulur.
+
+【Mevsim, Zaman ve Hava Durumu】
+İlkbahardan erken yaza geçiş hissi veren sakin, güneşli bir günün sabahı. Gün doğumunun hemen ardından değil, perdelerin arasından odaya yeterli doğal ışığın girmeye başladığı bir zaman dilimi.
+Dışarıdaki rüzgâr hafiftir, ince perdeleri sadece hafifçe dalgalandıracak kadardır. Güçlü ve doğrudan güneş ışığı yerine, beyaz tüllerden süzülen dağınık ışık sayesinde, uykudan yeni uyanmış bir odaya yakışır sessiz ve yumuşak bir hava yaratılır.
+
+【Karakter Tanımı】
+Kesinlikle yetişkin, 23 yaşında bir Japon kadın. Yumuşak ve muntazam yüz hatları, hafifçe iri ve koyu renkli gözler, doğal kaşlar, hafif dolgun yanaklar, canlı ve yumuşak dudaklar. Omuz hizasında, yastığın üzerine yumuşakça dağılmış koyu kahverengi doğal dalgalı saçlar. Açık aşıboyası tonunda, doğal canlılığı ve ince gölgeleri barındıran bir cilt.
+Narin omuzlara, kollara ve bacaklara, ince bir bele sahip olmasının yanı sıra kadınsı kıvrımların doğal bir şekilde birleştiği zarif ve dolgun hatlı bir vücut. Göğüsler belirgin biçimde büyük ve dolgun hacimlidir, ancak yapay bir abartıya kaçılmadan, sırtüstü yatış pozisyonuna ve yerçekimine uygun yumuşak bir yuvarlaklık ve üç boyutluluk taşır.
+
+【Kıyafet ve Aksesuarlar】
+Soluk pembe transparan kumaş temelli boyundan bağlamalı (halter neck) babydoll. Göğüs kısmında ince küçük çiçek desenli dantel ve aynı tonlarda astar kullanılarak, dolgun göğsü zorlamadan saran gerçekçi kap genişliği ve kumaş miktarı sağlanır. Göğsün ortasında küçük bir fiyonk gibi sade bir süsleme yer alır.
+Etek ucu hafif, yarı saydam dantel kumaştan olup beyaz nevresimlerin üzerine yumuşakça yayılır. Altına aynı çiçek desenli dantelden yapılmış ve içi aynı renk astarlı bir külot eşlik eder. Sabahın doğal havasını korumak için hiçbir aksesuar kullanılmaz.
+
+【Poz, Hareket ve Bakış】
+Başını beyaz yastığa yaslamış, yatağın üzerinde sırtüstü yatarak vücudunu karenin köşegen yönüne doğru uzatır. Omuzlar ve sırt doğal olarak yatağa bırakılmıştır, bel bükülmeden rahat bir pozisyondadır. İki bacak neredeyse düz uzatılmış, yalnızca ayak bilekleri hafifçe üst üste binmiştir.
+Bir el, başın yakınında yastığın kenarını parmak uçlarıyla usulca tutar; diğer el ise gövdenin yanında gevşek bir şekilde durur. Sevgilisi tarafından izlendiğini fark edip yüzünü kameranın aksi yönüne hafifçe çevirirken, yalnızca gözlerini buraya çevirerek bakışlarını sevgilisiyle buluşturur.
+
+【İfade ve Duygu】
+Sevgilisiyle aniden göz göze gelmenin getirdiği hafif utangaçlık anındaki mahcup bir tebessüm. Ağzını açarak gülmek yerine, dudaklarını hafifçe kapalı tutarak dudak kenarlarını çok az yukarı kaldırır. Yanaklarda hafif bir kasılma vardır, göz çevresi ise yumuşak ve rahattır.
+Bakışında adeta "Bana mı bakıyordun?" der gibi bir yakınlık bulunur. Yapmacık bir sevimlilik değil, yüzünü çevirmek istese de karşısındakine bakmaktan kendini alamayan, doğal ve hafif savunmasız bir duygu ifade edilir.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey format. Başın tepesinden çıplak ayak parmaklarına kadar tüm vücudu ferah bir şekilde içine alan tam boy (full body) kompozisyon; başın üstü, eller ve ayaklar kesilmez. Kadının vücudu karenin köşegeni boyunca uzanarak dikey çerçeve içinde doğal bir hareketlilik yaratır.
+Kamera yatak kenarından çapraz olarak yukarıya konumlandırılmış, nevresimlerin ve kadının tüm vücudunun aynı anda görülebileceği bir yükseklikten çekim yapar. Geniş açılı lensle uzuvları veya göğsü abartmayan, standart ile hafif orta telefoto arası doğal bir görüş açısı kullanılır. Arka plan hafifçe yumuşatılır ancak buranın bir yatak odası olduğunu belli edecek detaylar korunur.
+
+【Işık, Renk, Doku ve Atmosfer】
+Karenin sol tarafındaki pencereden giren sabahın doğal ışığı ana ışık kaynağıdır ve beyaz tüllerle yumuşakça dağıtılır. Karşı taraftan beyaz duvarlardan ve nevresimlerden gelen zayıf yansıma ışığı, yüz ve vücuttaki gölgeleri doğal bir şekilde aydınlatır. Gölgeler hafiftir; sabaha özgü nötr ile hafif sıcak arası bir renk sıcaklığı hakimdir.
+Ciltte gözenekler, ince gölgeler ve doğal bir pembelik korunur; saçlarda her bir telin akışı ve yastığa yayılan yumuşaklık hissi verilir. Çiçek desenli dantelde narin işlemeler ve tülün şeffaflığı, nevresimlerde ise pamuğun ince kırışıklıkları ve yumuşak dokusu betimlenir. Beyaz, soluk pembe ve mat pembe renk uyumuyla sakin bir sabahın samimiyeti ve temizliği hissettirilir.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi bir fotoğraf olarak, gerçek bir kamerayla çekilmiş gibi doğal insan anatomisi, ışık, malzeme ve perspektife önem verilir. Karakter açıkça yetişkin bir kadın olarak yansıtılmalı, aşırı çocuksu yüz hatlarından veya reşit olmayan görünümden kaçınılmalıdır.
+Fazladan uzuvlar veya parmaklar, eksik veya birleşik parmaklar, doğal olmayan eklemler, sağ ve sol ellerin karışması, vücut ile kıyafetin birbirine kaynaşması, giysi bozuklukları veya istenmeyen açılmalar engellenmelidir. Göğüsler dolgun ve doğal hacmini korumalı; sert küremsi, anormal derecede büyütülmüş, aşırı yukarı itilmiş ya da sırtüstü pozisyon ve yerçekimiyle çelişen bir yapıda olmamalıdır. Aşırı geniş açı distorsiyonu, abartılı cilt pürüzsüzleştirme, yapay arka planlar, metin, logo, filigran ve arayüz ögeleri bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -79,20 +163,60 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
 <a name="prompt-2102151729752211626"></a>
 
-### Çeviri sürüyor
+### Gün batımı kumsalında mercan bikinisiyle elini uzatan bir kadının gerçekçi fotoğraf tarzında portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2102151729752211626)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Manzara / Doğa · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gün batımı kumsalında mercan bikinisiyle elini uzatan bir kadının gerçekçi fotoğraf tarzında portre istemi.
 
 <img src="images/2102151729752211626-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Gün Batımı Kıyısı | Mercan Bikinisiyle Elini Uzatan Gülümseme🌟
+
+【Konu ve Sanat Tarzı】
+Akşamın sakin kumsalında, sevgiliyle yan yana yürünen anın samimiyetini yakalayan fotogerçekçi bir fotoğraf. Yalnızca kişinin sevimliliğini değil, sahil havasını, ayak altındaki dalgaları ve gün batımının renklerini de hissettiren, fotoğraf albümü tarzında ve doğal bir kare olmalıdır.
+Aşırı kurgulanmışlıktan kaçınıp, gerçek bir fotoğraf makinesiyle çekilmiş hissi veren gerçekçiliğe odaklanılmalı; yumuşak duygular ile ferahlık hissi aynı anda aktarılmalıdır.
+
+【Mekân, Arka Plan ve Dünya Görüşü】
+Mekân, akşamın sakin kumsalı ve dalgaların kıyıya vurduğu yerdir. Ön planda nemli, ıslak kumsal ve hafifçe kıyıya vuran dalgalar; orta planda yürüyen kadın; uzak planda ise sakin bir deniz, alçak kaya gölgeleri ve hafifçe renklenen gökyüzü yer alır.
+Arka plan, az insanın olduğu sakin bir sahil olmalı ve kadının ayaklarından geriye doğru kısa bir ayak izi dizisi kalmalıdır. Bu açık manzarada yalnızlık hissi çok ağır basmamalı, sevgiliyle geçirilen huzurlu bir tatil anı olarak doğal bir şekilde hayat bulan bir atmosfer yaratılmalıdır.
+
+【Mevsim, Zaman ve Hava Durumu】
+Mevsim ilk yaz ile yaz ortası arası sahil ortamıdır. Günün vakti gün batımından hemen önceki akşam saatleridir; hava hâlâ tatlı bir sıcaklıktadır ve deniz meltemi saçları ve bikininin fırfırlarını hafifçe dalgalandırmaktadır.
+Hava güneşli ve açıktır. Batan güneşin eğik ışığı deniz yüzeyinde uzun yansımalar oluşturur; gökyüzü turuncu, pembe ve açık mavinin nazikçe birbirine karıştığı tonlardadır. Hava berrak, sakin ve içten içe tatlı bir heyecan barındıran bir andır.
+
+【Karakter Ayarları】
+20 ila 28 yaşlarında, açıkça yetişkin olduğu belli olan Japon bir kadın. Yumuşak ve muntazam yüz hatlarına, koyu iri gözlere, doğal kaşlara ve canlı renkli dudaklara sahiptir; sıcakkanlı, yetişkinlere özgü bir sevimliliği vardır. Saçları omuz hizasında, koyu kahverengi ve doğal dalgalıdır; saç uçları ve ince teller deniz meltemiyle hafifçe havalanmaktadır.
+Cildi açık aşıboyası tonlarında, pürüzsüzlüğü aşırıya kaçmayan doğal bir dokudadır. Vücut yapısı; zarif omuzlar ve uzuvlar, ince bir bel ve kadınsı kıvrımların uyum içinde olduğu zarif ve doğal olarak dolgun hatlıdır. Göğüsler belirgin şekilde dolgun bir hacme sahip olmakla birlikte, giysi ve duruşla uyumlu, yumuşak üç boyutlu bir doğallıkla ifade edilmelidir.
+
+【Kıyafet ve Aksesuarlar】
+Kıyafet, mercan turuncusu renginde fırfırlı dantel detaylı boyundan bağlamalı bikinidir. Üst parça, göğüs dekoltesini çevreleyen küçük ve zarif katmanlı fırfırlarla süslenmiştir; boyundan bağlama ipleri ve ortadaki küçük düğüm detayı vurgu oluşturur. Alt parça da aynı renktedir ve yanlardan ince iplerle bağlanan tasarımıyla üstle bütünlük sağlar.
+Malzeme, yumuşak ve esnek mayo kumaşı üzerine hafif dantel işlemeler eklenmiş izlenimi verir. Vücuda zorlanmadan, doğal bir şekilde oturan; göğüs veya bel çevresinde yapay boşluklar ya da rahatsız edici sıkışmalar oluşturmayan gerçekçi bir uyum önemlidir. Aksesuarlar sade tutulmalı, gerekirse sadece küçük bir çift küpeyle sınırlandırılmalıdır.
+
+【Poz, Hareket ve Bakış】
+Kadın dalgaların kıyıya vurduğu yerde yürürken adımlarını biraz yavaşlatır; gövdesi doğal olarak yürüyüş yönüne dönükken, yalnızca üst bedenini ve yüzünü hafifçe solundaki sevgilisine doğru çevirir. Bir bacağı önde yürüyüşün ortasındayken, ağırlık hafifçe arka bacakta kalır ve öndeki ayağın parmak uçları ıslak kuma nazikçe değer.
+Sol elini bel hizasından daha aşağıdan sevgilisine doğru uzatır; el ele tutuşmadan hemen önceki doğal bir jest sergiler. Parmak uçları gerilmeden, hafifçe gevşektir; sağ kolu ise gövdesinin yanında doğal bir şekilde aşağı sarkar. Bakışları sevgilisine yöneliktir; kamera yan yana yürüyen sevgilinin göz hizası olarak konumlandırılmıştır, sevgilinin kendisi veya eli kadrajda görünmez.
+
+【İfade ve Duygu】
+Yüz ifadesi, yalnızca sevgiliye gösterilecek türden samimi ve doğal bir tebessümdür. Göz çevresi yumuşakça gevşemiş, dudaklarında küçük ve zarif bir gülümseme belirmiş; utangaçlık ile mutluluğun aynı anda hissedildiği bir ifadedir.
+Yapay bir pozdan ziyade, yan yana yürümenin verdiği güven hissi ve duyguları sessizce hissettirmenin zarafeti ön planda tutulmalıdır. Aşırı yapışkan olmayan, dingin bir sevimlilik barındıran bir duygu ifadesi yakalanmalıdır.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey format. Başın tepesinden ayak uçlarına kadar tüm vücudu rahatça içine alan tam boy (full-body) kompozisyon oluşturulmalı; uzatılan el, yürüyen ayak uçları ve deniz yüzeyindeki yansımalar doğal bir şekilde kareye dâhil edilmelidir. Karakter kadrajın hafifçe ortasına yerleştirilirken, hareket yönü ve denizin genişliği hissedilecek şekilde sağ ve sol boşluklar dengelenmelidir.
+Kamera yüksekliği, yan yana yürüyen sevgilinin göğüs ile göz hizası arasındaki mesafededir. Çekim mesafesi hem tüm vücudu hem de yüz ifadesini net gösteren orta mesafedir; odak uzaklığı standart ile hafif orta-telefoto arasıdır ve aşırı geniş açının neden olduğu vücut bozulmalarından kaçınılmıştır. Arka plan ölçülü bir şekilde gösterilmeli, mekân hissini aktaracak doğal bir derinlik korunmalıdır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı sağ arkadaki alçak gün batımı güneşidir. Çapraz arkadan gelen bu ışık, saç ve omuz hatlarına sıcak vurgular kazandırırken, gökyüzünden ve kumsaldan gelen yansıyan ışık ön tarafa vurarak yüz ifadesini yumuşak ve aydınlık gösterir. Gölgeler yumuşaktır, aşırı sert kontrastlardan kaçınılmıştır.
+Renk paleti, mercan turuncusu kıyafet merkezde olmak üzere, gün batımı göğünün turuncusu, denizin mavi-grisi ve ıslak kumun yumuşak kahverengisiyle uyum içindedir. Ciltte doğal bir canlılık, saçta ipeksi teller, suda küçük dalgaların ışıltısı ve kumda nemli bir doku yansıtılarak genel olarak tatlı ve romantik bir atmosfer oluşturulmalıdır.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlükte, gerçek bir fotoğraf makinesiyle çekilmiş gibi doğal insan bedeni, ışık, kumaş, su ve kum dokusuna önem verilmelidir. Reşit olmayan görünümlerden, aşırı çocuksu yüz hatlarından, doğal olmayan vücut oranlarından ve abartılı ifadelerden kaçınılmalıdır.
+Fazladan uzuv veya parmaklar, eksik parmaklar, doğal olmayan eklemler, kıyafet bozulmaları, bedenle kıyafetin birbirine kaynaması, istenmeyen çıplaklık, aşırı geniş açı distorsiyonu, yapay arka plan bulanıklığı, metin, logo, filigran veya arayüz (UI) ögeleri yer almamalıdır. Göğüsler dolgun ve doğal kalmalı; yapay şekilde devasa, sert küreler halinde veya aşırı yukarı itilmiş olmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -123,20 +247,59 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Moda Ürünü · Yayımland�
 
 <a name="prompt-2102148560078954751"></a>
 
-### Çeviri sürüyor
+### Şiddetli yağmurlu bir gecede yatak odasında, beyaz küçük çiçek nakışlı iç çamaşırı giymiş gülümseyen bir kadının fotogerçekçi portresi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2102148560078954751)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Şiddetli yağmurlu bir gecede yatak odasında, beyaz küçük çiçek nakışlı iç çamaşırı giymiş gülümseyen bir kadının fotogerçekçi portresi.
 
 <img src="images/2102148560078954751-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟 Şiddetli Yağmurlu Gece | Beyaz Küçük Çiçek Nakışı ve "İyi Geceler" Öncesi Bir Tebessüm 🌟
+
+【Konu ve Sanat Tarzı】
+Şiddetli yağmurun yağdığı bir gecede yatak odasında, yatağın kenarına oturmuş, tartışmasız yetişkin bir Japon kadının, karşısındaki sevgilisine uyumadan önce iyi geceler demeden hemen önceki anı. Aşırı kurgulanmış bir gravür yerine, sevgilisi tarafından yakından ve doğal bir şekilde çekilmiş gibi gündelik yaşam hissini ve samimiyeti koruyan, fotogerçekçi bir fotoğraf kitabı tarzı esas alınmıştır. Sıcak iç mekân ile yağmura bürünmüş mavi gece tek bir karede tezat oluşturur.
+
+【Mekân, Arka Plan ve Atmosfer】
+Beyaz ve açık bej tonlarıyla döşenmiş huzurlu bir yatak odası. Kadının arkasında kabarık beyaz yastıklar ve yumuşak beyaz bir yorganın bulunduğu bir yatak yer alır. Kadrajın sol tarafında perdeleri açık, kapalı bir pencere bulunur; camın yüzeyinde irili ufaklı yağmur damlaları ve birleşerek aşağı süzülen su izleri net bir şekilde tasvir edilir.
+Pencerenin dışındaki gece şehir manzarası ölçülü bir şekilde görünür; ıslak yollar, uzaktaki binaların ışıkları ve sokak lambalarının yansımaları seçilir. İç mekândaki mobilya ve aksesuarlar asgari düzeyde tutularak yalnızca yatak, pencere ve sıcak ışıklı bir lamba ile sakin, samimi ve özel bir alan yaratılır.
+
+【Mevsim, Zaman ve Hava Durumu】
+Belirli bir mevsime aşırı odaklanmayan, hafif serin hissettiren bir gece. Dışarıda, sokak lambalarının ışıklarını çapraz çizgilerle kesecek kadar şiddetli ve kesintisiz bir sağanak yağış sürer. Rüzgâr ve yağmur yalnızca pencerenin dışındadır; kadının saçları, teni, yatak takımları ve oda tamamen kurudur.
+Vakit, uyku öncesi gecenin ilerleyen saatleridir. Dışarısı mavi tonlu koyu bir karanlığa sahiptir ancak tam bir zifiri siyah değildir; yağmur damlalarını ve ıslak şehri ayırt edebilecek kadar bir gece aydınlığı kalmıştır.
+
+【Karakter Özellikleri】
+27 yaşında, tartışmasız yetişkin bir Japon kadın. Yumuşak ve dengeli yüz hatları, hafif iri koyu gözler, doğal kaşlar ve canlılığını koruyan yumuşak dudaklar. Omuz hizasında, koyu kahverengi, doğal dalgalı saçlar; ince saç telleri hafifçe dökülmüş olsa da göz ve ağız çevresini kapatmaz.
+Açık aşıboyası tonundaki teninde gözenekler ve ince gölgeler belirgindir. İnce omuzlar ve kollar, ince bir bel ve kadınsı kıvrımlarla uyum sağlayan, doğal olarak dolgun ve alımlı bir vücut yapısı. Göğüsler belirgin şekilde dolgun ve büyüktür, ancak giysiyle, duruşla ve yerçekimiyle uyumlu, tüm vücutla doğal bir denge kuran yumuşak üç boyutlu bir hacme sahiptir.
+
+【Kıyafet ve Aksesuarlar】
+Beyaz tonlarında küçük çiçek nakışlı bir sütyen ve uyumlu külot. Göğüsten yüze kadar olan mevcut kompozisyonda külot kadraj dışındadır; sütyenin omuz askıları, kapların üst kısmındaki dantel ve küçük çiçek nakışları doğal bir şekilde görünür.
+Sütyen kapları opak beyaz astarlıdır, üzerinde zarif çiçek nakışları ve ince dantel kenarlar yer alır. Dolgun göğüsleri zorlanmadan saran uygun bir bedendedir; kumaşın aşırı gerilmediği veya eti sıkıştırmadığı gerçekçi bir oturuşa sahiptir. Takı veya aksesuar takılmamış olup, uyku öncesine özgü sadelik ön plandadır.
+
+【Duruş, Hareket ve Bakış】
+Kadın yatağın kenarına doğal bir şekilde oturmuş, gövdesini hafifçe sevgilisine doğru yöneltmiştir. Sol eli gövdesinin biraz gerisinde yatağa dayanarak üst bedenini destekler; sağ eli ise uyluğunun yanındaki çarşafa hafifçe dokunur. Her iki el de göğüsten yukarısını alan bu kadrajda görünmeyecek konumdadır.
+Omuzlar gevşek, sırt hafifçe dik ama duruşta hiçbir gerginlik yoktur. Başını çok hafif eğmiş, bakışlarını doğrudan kamera konumundaki sevgilisine yöneltmiştir. Yapay bir bel kavislenmesi veya göğüsleri öne doğru çıkarma gibi zorlama bir duruş sergilemez.
+
+【İfade ve Duygu】
+Sevgilisine yönelttiği, samimi, içten ve doğal tatlı bir tebessüm. Göz çevresi yumuşakça gevşemiş, günü huzur ve güven içinde sonlandırmanın sakinliğini yansıtır. Dudakları doğal bir şekilde kapalıdır; aşırı büyük bir gülümseme yerine, birazdan fısıltıyla "iyi geceler" demeye başlayacakmış gibi bir anı yakalar.
+Yanaklarında sıcak aydınlatmanın getirdiği doğal bir canlılık bulunur, gülümseme kaşlarına ve gözlerine de yansır. Kameranın farkında olan profesyonel bir model gülüşünden ziyade, yalnızca çok yakın birine gösterilen hafif mahcup ve yumuşak bir ifade önceliklidir.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey format. Göğüsten başın tepesine kadar genişçe yer veren bir büst (göğüs üstü) planı olup, başın üstünde hafif bir boşluk bırakılmıştır. Kadın kadrajın merkezinden biraz sağa yerleştirilmiş, sol tarafta ise yağmur damlalarının aktığı pencere yeterince gösterilmiştir.
+Kamera kadının yüzüyle neredeyse aynı yükseklikten, yakın mesafeden çekim yapmaktadır. 50-70 mm civarında standart ile orta-telefoto arası doğal bir açı hedeflenmiş olup yüz veya göğüs geniş açıyla abartılmamıştır. Arka plan hafif ve yumuşak bir bulanıklıkta tutulmuş; penceredeki yağmur damlalarının ve şiddetli yağışın anlaşılmasını sağlayacak görsel detaylar korunmuştur.
+
+【Işık, Renk, Doku ve Atmosfer】
+Kadrajın sağ arkasındaki sıcak yatak lambası ana ışık kaynağıdır; yüze, yanaklara, göğse ve beyaz dantellere yumuşak ve sıcak tonlu bir ışık vurur. Pencere tarafından ise maviye çalan zayıf bir gece ışığı girerek saçların ve omuzların konturunda soluk, soğuk tonlu bir hat oluşturur. Sıcak ve soğuk tonların doğal olarak harmanlandığı geceye özgü bir ışıklandırma.
+Tende ince gölgeler ve doğal ten canlılığı, saçlarda tel tel akış ve parlaklık, iç çamaşırında kumaşın kalınlığı, nakış iplikleri ve dantelin ince kabartısı korunmuştur. Pencere camı ıslak bir şeffaflıkla, yatak takımları ise yumuşak kumaş dokusuyla ayrıştırılarak sakin oda ile dışarıdaki şiddetli yağmur arasındaki tezat hissettirilir.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü, doğal insan oranlarına, gerçekçi ışık ve perspektife sahip fotogerçekçi fotoğraf. Tartışmasız yetişkin bir birey olarak tasvir edilmeli, aşırı çocuksu yüz hatlarından veya reşit değilmiş gibi görünen ifadelerden kaçınılmalıdır.
+Fazla uzuvlar veya parmaklar, doğal olmayan eklemler, vücut ile giysinin birbirine kaynaşması, giyside yırtılmalar veya istenmeyen açıklıklar, aşırı geniş açı bozulmaları ve aşırı cilt pürüzsüzleştirme filtrelerinden kaçınılmalıdır. Göğüsler dolgun ve doğal hacmini korumalı; sert küremsi, anormal biçimde yukarı itilmiş veya yerçekimine aykırı bir yapıda olmamalıdır. Yağmurun iç mekâna veya kadının üzerine girdiği tasvirler, yazılar, logolar, filigranlar, konuşma balonları ve arayüz (UI) ögeleri yer almamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -4499,6 +4662,74 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 ## Sinematik / Film Karesi
 
+<a name="prompt-2102201412503642312"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@Marie8508319540](https://x.com/Marie8508319540) · [Orijinal gönderi](https://x.com/Marie8508319540/status/2102201412503642312)
+
+Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102201412503642312.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102219008845971613"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@WescheNex1q](https://x.com/WescheNex1q) · [Orijinal gönderi](https://x.com/WescheNex1q/status/2102219008845971613)
+
+Fotoğrafçılık · Sinematik / Film Karesi · 3D Modelleme · Yayımlandı
+
+Orijinal gönderi：[@Bhavani\_00007](https://x.com/Bhavani_00007) · [Orijinal gönderi](https://x.com/Bhavani_00007/status/2098134452283334781)
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102219008845971613.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102223289443877247"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@laviniavelle](https://x.com/laviniavelle) · [Orijinal gönderi](https://x.com/laviniavelle/status/2102223289443877247)
+
+Fotoğrafçılık · Sinematik / Film Karesi · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102223289443877247.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2102106915635601452"></a>
 
 ### Bankta oturan bir adamın, kafasına ABD bayraklı bir kartalın konduğu ve adamın çığlık atarak koştuğu elle çizilmiş animasyon çekimi.
@@ -6892,13 +7123,13 @@ Luffy şefkatle Anya'nın başını okşuyor, Anya onun kollarına atılıyor, e
 
 <a name="prompt-2101956517557883076"></a>
 
-### Çeviri sürüyor
+### Hardal sarısı fon üzerinde, sumi-e mürekkebi dumanı eşliğinde renkli bir Kore şaman cübbesi sarınmış, özel dikim gri takım elbiseli yürüyen bir erkeğin moda editoryal illüstrasyonu.
 
 Yazar：[@leftbypeace](https://x.com/leftbypeace) · [Orijinal gönderi](https://x.com/leftbypeace/status/2101956517557883076)
 
 İllüstrasyon · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Hardal sarısı fon üzerinde, sumi-e mürekkebi dumanı eşliğinde renkli bir Kore şaman cübbesi sarınmış, özel dikim gri takım elbiseli yürüyen bir erkeğin moda editoryal illüstrasyonu.
 
 <img src="images/2101956517557883076-1.jpg" alt="Görsel 1" width="480" />
 
@@ -6909,7 +7140,7 @@ Yazar：[@leftbypeace](https://x.com/leftbypeace) · [Orijinal gönderi](https:/
 **İstem**
 
 ```text
-Çeviri sürüyor
+tam boy, 3::yan profil, doğal yürüme pozu, adım ortasında, bir bacak önde, diğer bacak arkada::, sigara içiyor, 3::siyah mürekkep benzeri sigara dumanı, sumi-e dumanı, akıcı mürekkep lekesi::, 2::gri özel dikim takım elbise, beyaz gömlek, gri kravat::, 3::takım elbisenin üzerine bolca giyilmiş renkli Kore şaman cübbesi::, uzun dökümlü kollar, arkada dalgalanan cübbe, belde renkli ritüel boncukları ve püskülleri, 2::bir el cepte, diğer kol yanda serbest::, moda editoryali, düz hardal sarısı arka plan
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -7354,6 +7585,32 @@ Fotoğrafı krem rengi pamuklu kağıt üzerine el yapımı guaj bir karikatüre
 
 ## Çizim / Çizgi Sanatı
 
+<a name="prompt-2102193031583588643"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@BorderleSint](https://x.com/BorderleSint) · [Orijinal gönderi](https://x.com/BorderleSint/status/2102193031583588643)
+
+Çizim / Çizgi Sanatı · Yayımlandı
+
+Orijinal gönderi：[@Zackjpnman](https://x.com/Zackjpnman) · [Orijinal gönderi](https://x.com/Zackjpnman/status/2101687832557527435)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102193031583588643-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102193031583588643-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2099485936535167139"></a>
 
 ### 3:4 alt-üst karşılaştırma afişi istemi; üst yarı gerçek seyahat fotoğrafını korur, alt yarı koyu mavi zemin üzerinde fildişi beyazı minimalist çizgi resmine dönüştürülür.
@@ -7672,17 +7929,17 @@ Tanınabilir telif hakkıyla korunan karakterlerden, ünlü benzerliklerinden, m
 
 ## 3D Modelleme
 
-<a name="prompt-2102166553701597551"></a>
+<a name="prompt-2102213593043226881"></a>
 
 ### Çeviri sürüyor
 
-Yazar：[@WescheNex1q](https://x.com/WescheNex1q) · [Orijinal gönderi](https://x.com/WescheNex1q/status/2102166553701597551)
+Yazar：[@ralejandrots88](https://x.com/ralejandrots88) · [Orijinal gönderi](https://x.com/ralejandrots88/status/2102213593043226881)
 
-3D Modelleme · Manzara / Doğa · Yayımlandı
+3D Modelleme · Yayımlandı
 
 **Özet:** Çeviri sürüyor
 
-<img src="covers/2102166553701597551.jpg" alt="Görsel 1" width="480" />
+<img src="covers/2102213593043226881.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
@@ -7694,22 +7951,44 @@ Yazar：[@WescheNex1q](https://x.com/WescheNex1q) · [Orijinal gönderi](https:/
 
 ---
 
+<a name="prompt-2102166553701597551"></a>
+
+### Arazi, okyanuslar, atmosfer ve mevsimlik kutup buzulları içeren etkileşimli bir GLSL fragment shader gezegeni oluşturan komut istemi.
+
+Yazar：[@WescheNex1q](https://x.com/WescheNex1q) · [Orijinal gönderi](https://x.com/WescheNex1q/status/2102166553701597551)
+
+3D Modelleme · Manzara / Doğa · Yayımlandı
+
+**Özet:** Arazi, okyanuslar, atmosfer ve mevsimlik kutup buzulları içeren etkileşimli bir GLSL fragment shader gezegeni oluşturan komut istemi.
+
+<img src="covers/2102166553701597551.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+yörüngeden bir gezegen, arazi, okyanuslar, sürüklenen bulutlar, şehir ışıklarıyla gündüz/gece aydınlanma çemberi, kenarda atmosfer, yavaş dönüş, eğmek için sürükleme, buzulları değiştiren bir "Season" düğmesi.
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2102155360505053659"></a>
 
-### Çeviri sürüyor
+### Three.js kullanarak tek bir HTML dosyasında bisiklet süren bir pelikanın 3D sahnesini oluşturma.
 
 Yazar：[@\_kaichen](https://x.com/_kaichen) · [Orijinal gönderi](https://x.com/_kaichen/status/2102155360505053659)
 
 3D Modelleme · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Three.js kullanarak tek bir HTML dosyasında bisiklet süren bir pelikanın 3D sahnesini oluşturma.
 
 <img src="covers/2102155360505053659.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Three.js kullanarak bağımsız tek bir HTML dosyasında bisiklet süren bir pelikan uygulayın
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -7926,20 +8205,20 @@ Chibi / Q-Stil · Suluboya · Karakter · Yayımlandı
 
 <a name="prompt-2102150362945687807"></a>
 
-### Çeviri sürüyor
+### Yaldızlı çerçeve içinde bir Rönesans soylusu, altın araba ve beyaz atların yer aldığı Barok yağlı boya tablo.
 
 Yazar：[@arco0369](https://x.com/arco0369) · [Orijinal gönderi](https://x.com/arco0369/status/2102150362945687807)
 
 Yağlı Boya Tablo · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Yaldızlı çerçeve içinde bir Rönesans soylusu, altın araba ve beyaz atların yer aldığı Barok yağlı boya tablo.
 
 <img src="covers/2102150362945687807.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Caravaggio ve 17. yüzyıl İtalyan ustalarının dramatik Barok tarzında, zengin chiaroscuro aydınlatması, derin gölgeler ve sıcak altın sarısı parıltılar içeren ustalıklı bir antika yağlı boya tablo. Soylu bir Rönesans beyefendisi, lüks koyu bordo kadife bir yelek ve dökümlü pelerin, diz boyu koyu renk pantolon, açık krem rengi çoraplar, siyah deri ayakkabılar ve tüylü siyah bere tarzı bir şapka giyerek asil bir duruşla duruyor. İşlemeli altın koşumlar, sorguçlar ve tüylerle süslenmiş iki görkemli beyaz at tarafından çekilen, süslü ve gösterişli bir şekilde yaldızlanmış altın bir arabanın önünde duruyor. Sahne, dönen bulutların olduğu hafif dramatik bir gökyüzüne sahip açık bir günde geçiyor. Arka planda, yüksek selvi ağaçları ve süslü altın ferforje kapıları ile revakları olan zarif bir İtalyan saray bahçesi. Sanat eserinin tamamı, döneme ait zengin oymalı, ayrıntılı altın Barok bir çerçeve içine alınmış eski bir yağlı boya tablo olarak sunulmaktadır. Kadife, altın varak, at koşum takımı, taş mimari ve yıpranmış tuvalin son derece ayrıntılı dokuları. En boy oranı 3:2.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -8028,15 +8307,41 @@ Girdi olarak verilen dünya mimarisi seyahat fotoğrafını dikey formatta bir a
 
 ## Suluboya
 
-<a name="prompt-2102160154909438370"></a>
+<a name="prompt-2102216813459439933"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2102216813459439933)
+
+Suluboya · Portre / Selfie · Karakter · Yayımlandı
+
+Orijinal gönderi：[@afrinxai](https://x.com/afrinxai) · [Orijinal gönderi](https://x.com/afrinxai/status/2102035368354738376)
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102216813459439933-1.jpg" alt="Görsel 1" width="480" />
+
+<img src="images/2102216813459439933-2.jpg" alt="Görsel 2" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102160154909438370"></a>
+
+### Gerçekçi fotoğraf ile suluboya illüstrasyonu birleştiren, meyve bahçesinde elma toplayan genç bir kadın görseli.
 
 Yazar：[@Minahil42298354](https://x.com/Minahil42298354) · [Orijinal gönderi](https://x.com/Minahil42298354/status/2102160154909438370)
 
 Fotoğrafçılık · İllüstrasyon · Suluboya · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gerçekçi fotoğraf ile suluboya illüstrasyonu birleştiren, meyve bahçesinde elma toplayan genç bir kadın görseli.
 
 <img src="images/2102160154909438370-1.jpg" alt="Görsel 1" width="480" />
 
@@ -8045,7 +8350,7 @@ Fotoğrafçılık · İllüstrasyon · Suluboya · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+Üst yarısında gerçekçi bir fotoğraf ve alt yarısında buna karşılık gelen bir suluboya illüstrasyon bulunan, her ikisi de dokulu, sıcak beyaz bir kâğıt arka plan üzerine yerleştirilmiş büyüleyici bir kompozit görsel. Üst yarıda; uzun, dalgalı kahverengi saçlı, yanakları al al, çiçekli bir hasır şapka ve çiçek desenli maksi bir elbise giymiş neşeli bir genç kadının son derece gerçekçi bir fotoğrafı yer alıyor. Kadın bir elma ağacına doğru gülümseyerek bakıyor, kırmızı bir elmayı koparmak için uzanıyor ve kolunda elmalarla dolu büyük bir hasır sepet taşıyor. Arka planda aydınlık, güneş ışıklarının süzüldüğü bir elma bahçesi bulunuyor. Fotoğrafın hemen altındaki alt yarı ise, tam olarak aynı nesneyi ve pozu resimsel, yumuşak odaklı bir tarzda yakalayan, sanki kâğıdın üzerine işlenmiş gibi duran zarif, sanatsal bir suluboya illüstrasyondur. İllüstrasyon, kadının ifadesini, elbisesini, şapkasını ve tüm bahçe manzarasını korumakla birlikte görünür fırça darbelerine ve renk geçişlerine sahiptir. Her iki bölüm de ortalanmıştır; fotoğrafın kenarlığı ile kâğıdın içinde eriyen yumuşak, tüysü boya izlerine sahip illüstrasyon kenarı arasında belirgin, sanatsal bir geçiş vardır. Genel kompozisyon bir sanat günlüğü sayfası veya güzel sanatlar baskısı hissi uyandırır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -8086,20 +8391,20 @@ Dikey biçimde, alt ve üst karşılaştırmalı bir seyahat sanatı afişi olu�
 
 <a name="prompt-2102173528900428060"></a>
 
-### Çeviri sürüyor
+### Geniş kenarlı dev beyaz şapka ve kırmızı dudaklı profilden kadın, düz terakota turuncu arka planlı vintage minimalist moda illüstrasyonu.
 
 Yazar：[@Tanvir48992](https://x.com/Tanvir48992) · [Orijinal gönderi](https://x.com/Tanvir48992/status/2102173528900428060)
 
 İllüstrasyon · Retro / Vintage · Minimalizm · Karakter · Moda Ürünü · Özet / Arka Plan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Geniş kenarlı dev beyaz şapka ve kırmızı dudaklı profilden kadın, düz terakota turuncu arka planlı vintage minimalist moda illüstrasyonu.
 
 <img src="images/2102173528900428060-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Ultra detaylı minimalist editoryal moda illüstrasyonu, dikey kompozisyon, sofistike vintage cazibe estetiği, temiz geometrik şekillere sahip zarif Art Deco esintili dijital resim, ince resimsel doku ve sinematik poster benzeri kompozisyon. Zarif bir yetişkin kadın, çerçevenin sağ tarafına dönük, üç çeyrek yan profilden tasvir edilmiştir. Başı hafifçe yukarı kalkık olup zarif, kendinden emin ve gizemli bir duruş sergiler. Yüz hatları, uzun ve zarif bir burun, yumuşakça belirginleştirilmiş elmacık kemikleri, pürüzsüz sıcak bej ten, narin bir çene hattı ve dolgun koyu kırmızı kızıl dudaklarla zarif ve stilize edilmiştir. Gözleri, büyük boy şapkanın kenarının altında neredeyse tamamen gizlenmiş olup esrarengiz ve editoryal bir moda havası yaratır. Koyu kahverengiden simsiyah renge uzanan saçları, başının arkasında alçak ve düzgün bir topuz şeklinde toplanmıştır; yüzünün ve boynunun yanını çerçeveleyen birkaç ince, dökümlü tutam vardır. Saçlar, fotogerçekçi ayrıntılar yerine çok ince tel dokusuna sahip, pürüzsüz ve kontrollü şekillere sahiptir. Dramatik derecede büyük, geniş kenarlı beyaz/fildişi bir şapka takmaktadır. Şapka, kompozisyondaki baskın görsel ögedir. Şapkanın devasa kavisli kenarı, sol alt köşeden çerçevenin sağ üst tarafına doğru çapraz olarak uzanarak gözlerini ve yüzünün üst kısmını kısmen kapatır. Siperlik, son derece ince kumaş/kâğıt benzeri dokuya ve yumuşak ton geçişlerine sahip pürüzsüz fildişi beyazı bir yüzeye sahiptir. Şapkanın tepesi büyük, yuvarlak ve yapılandırılmış olup, başının arkasında ve üzerinde neredeyse heykelsi bir görünüm sergiler. Kıyafeti, omuzları ve üst gövdeyi örten zarif, dökümlü fildişi beyazı bir elbise veya bluzdur. Giysi, geniş kıvrımlara ve pürüzsüz kumaş yüzeylerine sahip yumuşak dökümlü bir silüete sahiptir. Yaka kısmı, boyun ve omuz bölgesinde ince katmanlı kıvrımlarla mütevazı ve zariftir. Giysiler, görünür tekstil dokusunu korurken minimalist estetikle doğal bir şekilde harmanlanır. Duruş ve kompozisyon: yaklaşık göğüs üstünden yukarıya doğru sıkı çerçevelenmiş portre. Kadın çerçevenin çoğunu kaplar, hafifçe merkezin solunda konumlanırken yüzü sağa dönüktür. Büyük boy şapka, kompozisyon boyunca güçlü bir çapraz görsel çizgi oluşturur. Boynu ve omzu, şapkanın geometrik kenarıyla tezat oluşturan zarif kavisli şekiller meydana getirir. Kompozisyon özenle dengelenmiş, sofistike ve editoryal hissettirmelidir. Arka plan: ince el boyaması fırça dokusu ve yumuşak ton geçişleri içeren tamamen düz yanık turuncu / terakota arka plan. Nesne, manzara veya ek öge yoktur. Sıcak turuncu arka plan, siyah saçlar ile fildişi beyazı şapka ve giysilerle güçlü bir tezat oluşturur. Renk paleti: yanık turuncu, terakota, sıcak bej, fildişi beyazı, krem, koyu siyah, koyu kahverengi ve mat kızıl-kırmızı dudaklar. Renkleri zengin ama hafifçe doygunluğu azaltılmış tutun; rafine bir vintage baskı kalitesi sunsun. Aydınlatma: gerçekçi fotoğrafik gölgeler yerine temiz ton geçişleriyle temsil edilen yumuşak, dağınık stüdyo tarzı aydınlatma. Yanakta, burunda, dudaklarda ve beyaz giyside yumuşak parlamalar. Şapka kenarının altında, boyun ve saç çevresinde ince gölgeler. Görsel stil: lüks moda editoryal illüstrasyonu, minimalist modernist poster, vintage 1960'lar–1970'ler moda dergisi estetiği, sofistike geometrik dijital resim, zarif silüet tasarımı, ince el boyaması dokuyla birleşen pürüzsüz vektör benzeri şekiller, ölçülü ayrıntılar, sanatsal negatif alan, üst düzey moda kampanyası sanatı. İşleme (Rendering): son derece temiz kenarlar, hassas yüz oranları, pürüzsüz cilt formları, sofistike ton katmanlaması, ince tuval/kâğıt dokusu, kontrollü fırça dokusu, birinci sınıf editoryal cila, yüksek çözünürlük, müze kalitesinde moda illüstrasyonu, görsel olarak çarpıcı, zamansız ve zarif. Negative Prompt: photorealistic photography, 3D render, anime, cartoon, childish style, exaggerated facial features, distorted anatomy, extra limbs, extra fingers, malformed face, visible eyes, overly detailed background, clutter, text, typography, logo, watermark, harsh shadows, neon colors, oversaturated colors, glossy plastic skin, excessive skin texture, messy hair, distorted hat, asymmetrical brim, low resolution, blurry edges, noise, poor composition.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -8820,6 +9125,28 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 
 ## Siberpunk / Bilim Kurgu
 
+<a name="prompt-2102209728663437419"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@TheEerieHollows](https://x.com/TheEerieHollows) · [Orijinal gönderi](https://x.com/TheEerieHollows/status/2102209728663437419)
+
+Siberpunk / Bilim Kurgu · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102209728663437419-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
 <a name="prompt-2101749161536458825"></a>
 
 ### Bir malzeme bilimci, nabız gibi atan elektrik mavisi çizgilere sahip koyu renkli bir grafen gizlilik giysisi giyer.
@@ -8889,6 +9216,28 @@ Fiziksel olarak alanda bulunan tek bir kameraman tarafından tüketici tipi bir 
 <a name="category-minimalism"></a>
 
 ## Minimalizm
+
+<a name="prompt-2102211141820920113"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@DDJCXX](https://x.com/DDJCXX) · [Orijinal gönderi](https://x.com/DDJCXX/status/2102211141820920113)
+
+Fotoğrafçılık · Minimalizm · Portre / Selfie · Karakter · Moda Ürünü · Mimari / İç Mekan · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102211141820920113-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
 
 <a name="prompt-2101703683167645776"></a>
 
@@ -9048,22 +9397,66 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 ## Diğer
 
-<a name="prompt-2102144332148957251"></a>
+<a name="prompt-2102204400768876741"></a>
 
 ### Çeviri sürüyor
+
+Yazar：[@MakunaMars](https://x.com/MakunaMars) · [Orijinal gönderi](https://x.com/MakunaMars/status/2102204400768876741)
+
+Manzara / Doğa · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="images/2102204400768876741-1.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102239002317525380"></a>
+
+### Çeviri sürüyor
+
+Yazar：[@NbkogY3](https://x.com/NbkogY3) · [Orijinal gönderi](https://x.com/NbkogY3/status/2102239002317525380)
+
+Karakter · Yayımlandı
+
+**Özet:** Çeviri sürüyor
+
+<img src="covers/2102239002317525380.jpg" alt="Görsel 1" width="480" />
+
+**İstem**
+
+```text
+Çeviri sürüyor
+```
+
+[↑ Kategorilere dön](#catalog)
+
+---
+
+<a name="prompt-2102144332148957251"></a>
+
+### Kendi desenlerini görsel olarak yankılayan süzülen çizgiler, yarı saydam dikdörtgenler ve kavisli kağıt formlarından oluşan devasa katmanlı bir dünyada dolaşan uysal bir okapi, kuru pastel ile birleştirilmiş sofistike kağıt kesme kolajı, camgöbeği, bordo, kobalt ve altın, şık ve oyuncu bir sürrealizm.
 
 Yazar：[@RenRose321](https://x.com/RenRose321) · [Orijinal gönderi](https://x.com/RenRose321/status/2102144332148957251)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kendi desenlerini görsel olarak yankılayan süzülen çizgiler, yarı saydam dikdörtgenler ve kavisli kağıt formlarından oluşan devasa katmanlı bir dünyada dolaşan uysal bir okapi, kuru pastel ile birleştirilmiş sofistike kağıt kesme kolajı, camgöbeği, bordo, kobalt ve altın, şık ve oyuncu bir sürrealizm.
 
 <img src="images/2102144332148957251-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kendi desenlerini görsel olarak yankılayan süzülen çizgiler, yarı saydam dikdörtgenler ve kavisli kağıt formlarından oluşan devasa katmanlı bir dünyada dolaşan uysal bir okapi, kuru pastel ile birleştirilmiş sofistike kağıt kesme kolajı, camgöbeği, bordo, kobalt ve altın, şık ve oyuncu bir sürrealizm.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -9072,20 +9465,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2102132256290558176"></a>
 
-### Çeviri sürüyor
+### Gerçekçi telemetri katmanlarıyla 2x2'lik bir ızgara içinde sıra dışı derin su öznelerini sergileyen derin deniz ROV perspektifli istem şablonu.
 
 Yazar：[@Gdgtify](https://x.com/Gdgtify) · [Orijinal gönderi](https://x.com/Gdgtify/status/2102132256290558176)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gerçekçi telemetri katmanlarıyla 2x2'lik bir ızgara içinde sıra dışı derin su öznelerini sergileyen derin deniz ROV perspektifli istem şablonu.
 
 <img src="images/2102132256290558176-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+2x2 ızgara, 16:9, bunu 4 sıra dışı nesne için uygula: GİRDİ: $ NESNE                // orada olmaması gereken yaratık, yapı, geometri BULGU     = infer_subject($ NESNE)          // ROV koluna göre ölçek, yarı saydamlık, hareket veya durağanlık ÖLÇEK_REF = infer_reference($ NESNE)        // boyut için ön planda manipülatör kolu, numune sepeti SU        = infer_water_column($ NESNE)     // partikül yoğunluğu, mavi-yeşil emilimi KAR       = infer_marine_snow($ NESNE)      // lambalarla aydınlatılan, sürekli süzülen kırıntılar LAMBALAR  = infer_rov_lighting($ NESNE)     // sert ikiz lambalar, tamamen siyaha doğru keskin düşüş TABAN     = infer_seafloor($ NESNE)         // alüvyon/tortu, havalanan tortu dumanı, kaya OPTİK     = infer_rov_cam($ NESNE)          // geniş açı, hafif balıkgözü, sabit odak BİLGİ_EKRANI = infer_telemetry($ NESNE)    // derinlik, sıcaklık, rota, enlem/boylam, dalış numarası KUSURLAR  = infer_flaws($ NESNE)            // geri saçılma parlaması, odak arama, renk gürültüsü Φ = lamp_cone(LAMBALAR) + backscatter(KAR) HAREKET: yavaş ROV sürüklenmesi → nesne lamba konisine girer → itici motor dokunuşu, tortu bulutu yükselir → nesne tepki verir veya vermez → lambalar nesneyi karanlığa kaptırır. Kompozisyon: ROV denizaltı çekimi, siyaha keskin geçişli ikiz lambalar, deniz karı geri saçılması, telemetri bilgi ekranı, geniş hafif balıkgözü lens. Fotogerçekçi, 16:9.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -9094,20 +9487,20 @@ Diğer · Yayımlandı
 
 <a name="prompt-2102173572764766661"></a>
 
-### Çeviri sürüyor
+### Odaya vuran sabah ışığı ve gölgeler içindeki bir genç kızı çizmek için istem.
 
 Yazar：[@55hawks](https://x.com/55hawks) · [Orijinal gönderi](https://x.com/55hawks/status/2102173572764766661)
 
 Karakter · Mimari / İç Mekan · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Odaya vuran sabah ışığı ve gölgeler içindeki bir genç kızı çizmek için istem.
 
 <img src="images/2102173572764766661-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Işığın genç kızdan önce uyandığı bir sabah. İçeri süzülen ışık odayı doldururken, gölgeler gecikmeli olarak sessizce şekillenmeye başlar.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -9116,7 +9509,7 @@ Karakter · Mimari / İç Mekan · Yayımlandı
 
 <a name="prompt-2102152221572174045"></a>
 
-### Çeviri sürüyor
+### Harf hatlarının içini tematik görseller, minyatür manzaralar ve dokularla doğrudan dolduran Art Nouveau tarzı tipografi oluşturma şablonu.
 
 Yazar：[@deebeeeff](https://x.com/deebeeeff) · [Orijinal gönderi](https://x.com/deebeeeff/status/2102152221572174045)
 
@@ -9124,7 +9517,7 @@ Manzara / Doğa · Metin / Tipografi · Yayımlandı
 
 Orijinal gönderi：[@lordknight\_ai](https://x.com/lordknight_ai) · [Orijinal gönderi](https://x.com/lordknight_ai/status/2102136343581061351)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Harf hatlarının içini tematik görseller, minyatür manzaralar ve dokularla doğrudan dolduran Art Nouveau tarzı tipografi oluşturma şablonu.
 
 <img src="images/2102152221572174045-1.jpg" alt="Görsel 1" width="480" />
 
@@ -9135,7 +9528,9 @@ Orijinal gönderi：[@lordknight\_ai](https://x.com/lordknight_ai) · [Orijinal 
 **İstem**
 
 ```text
-Çeviri sürüyor
+EVENT/SUBJECT=Art Nouveau/Art Nouveau Bebekleri
+TEXT=Art Nouveau/Sweet Baby 
+"[TEXT]" ifadesinin [EVENT/SUBJECT] tarzında bir tipografik temsili; burada [EVENT/SUBJECT] görselleri, desenleri ve renkleri, metni çevreleyen ayrı süslemeler olarak değil, harf formlarının kendi içinde — her harfin şeklinin içinde yer alan dokular, dolgular veya küçük sahneler olarak — yer alır. Harflerin etrafında çerçeve veya dağınık nesneler bulunmaz. Yumuşak bir şekilde bulanıklaştırılmış arka plan, [EVENT/SUBJECT] ile ilgili tematik ögeler ve manzaralar içerir. Harfler görselin tamamını oluşturur.
 ```
 
 [↑ Kategorilere dön](#catalog)

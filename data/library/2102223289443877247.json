@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T04:26:43.967Z",
+  "model": "hailuo",
+  "prompt": "A cinematic montage in a soft, warm 35mm film aesthetic capturing a peaceful day in the life of a young East Asian female photographer She has her hair tied up in a casual messy bun and wears a simple white cropped T-shirt high waisted blue denim jeans and a brown canvas crossbody shoulder bag She carries a classic vintage 35mm SLR film camera with a leather strap.\n\nThe video flows through a series of natural, cinematic moments first she stands outside a modern wooden house during golden hour, smiling softly as warm sunlight creates beautiful lens flares and rim light around her Then she crouches beside a sidewalk carefully photographing a small pink flower growing through the pavement with an intimate low-angle camera perspective Next, she visits a cozy vintage camera and book shop, browsing the shelves and examining her old film camera under warm interior lighting The scene transitions upward toward sunlight filtering through dense green tree leaves, creating dreamy bokeh, soft lens flares, and a nostalgic film texture She then walks peacefully through a tree-lined park from behind her brown shoulder bag moving naturally as she carries her camera, with golden sunset light illuminating the path Finally she stops in the park and raises her vintage camera toward the viewer taking a photograph as the warm sun shines directly behind her, creating strong golden backlight glowing rim light cinematic lens flare, and beautiful shallow depth of field.\n\nSmooth cinematic transitions between every scene realistic natural body movement subtle handheld camera motion, authentic 35mm film grain, soft warm color grading, realistic skin texture, natural sunlight, shallow depth of field, creamy bokeh, atmospheric lighting, photorealistic details, nostalgic documentary photography feeling cinematic composition gentle pacing seamless visual continuity high-end cinematic film look, 4K quality.",
+  "promptTranslations": {
+    "en": "A cinematic montage in a soft, warm 35mm film aesthetic capturing a peaceful day in the life of a young East Asian female photographer She has her hair tied up in a casual messy bun and wears a simple white cropped T-shirt high waisted blue denim jeans and a brown canvas crossbody shoulder bag She carries a classic vintage 35mm SLR film camera with a leather strap.\n\nThe video flows through a series of natural, cinematic moments first she stands outside a modern wooden house during golden hour, smiling softly as warm sunlight creates beautiful lens flares and rim light around her Then she crouches beside a sidewalk carefully photographing a small pink flower growing through the pavement with an intimate low-angle camera perspective Next, she visits a cozy vintage camera and book shop, browsing the shelves and examining her old film camera under warm interior lighting The scene transitions upward toward sunlight filtering through dense green tree leaves, creating dreamy bokeh, soft lens flares, and a nostalgic film texture She then walks peacefully through a tree-lined park from behind her brown shoulder bag moving naturally as she carries her camera, with golden sunset light illuminating the path Finally she stops in the park and raises her vintage camera toward the viewer taking a photograph as the warm sun shines directly behind her, creating strong golden backlight glowing rim light cinematic lens flare, and beautiful shallow depth of field.\n\nSmooth cinematic transitions between every scene realistic natural body movement subtle handheld camera motion, authentic 35mm film grain, soft warm color grading, realistic skin texture, natural sunlight, shallow depth of field, creamy bokeh, atmospheric lighting, photorealistic details, nostalgic documentary photography feeling cinematic composition gentle pacing seamless visual continuity high-end cinematic film look, 4K quality."
+  },
+  "summaryTranslations": {
+    "en": "Cinematic montage video prompt of a day in the life of an East Asian female photographer with a 35mm film aesthetic."
+  },
+  "translationVersion": 2,
+  "summary": "35mm胶片质感的东亚女摄影师一日生活电影感蒙太奇视频提示词。",
+  "summaryEn": "Cinematic 35mm film montage prompt showing a day in the life of an East Asian female photographer.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102223289443877247",
+    "canonicalUrl": "https://x.com/laviniavelle/status/2102223289443877247",
+    "author": {
+      "username": "laviniavelle",
+      "displayName": "Lavinia",
+      "profileUrl": "https://x.com/laviniavelle"
+    },
+    "publishedAt": "2026-09-22T02:27:44.000Z",
+    "collectedAt": "2026-09-22T04:15:59.014Z",
+    "language": "en",
+    "originalText": "A peaceful day behind the lens Lost in moments worth capturing.\n\nMade With MiniMax H3 @Flovaai \n\nPrompt:\n\nA cinematic montage in a soft, warm 35mm film aesthetic capturing a peaceful day in the life of a young East Asian female photographer She has her hair tied up in a casual messy bun and wears a simple white cropped T-shirt high waisted blue denim jeans and a brown canvas crossbody shoulder bag She carries a classic vintage 35mm SLR film camera with a leather strap.\n\nThe video flows through a series of natural, cinematic moments first she stands outside a modern wooden house during golden hour, smiling softly as warm sunlight creates beautiful lens flares and rim light around her Then she crouches beside a sidewalk carefully photographing a small pink flower growing through the pavement with an intimate low-angle camera perspective Next, she visits a cozy vintage camera and book shop, browsing the shelves and examining her old film camera under warm interior lighting The scene transitions upward toward sunlight filtering through dense green tree leaves, creating dreamy bokeh, soft lens flares, and a nostalgic film texture She then walks peacefully through a tree-lined park from behind her brown shoulder bag moving naturally as she carries her camera, with golden sunset light illuminating the path Finally she stops in the park and raises her vintage camera toward the viewer taking a photograph as the warm sun shines directly behind her, creating strong golden backlight glowing rim light cinematic lens flare, and beautiful shallow depth of field.\n\nSmooth cinematic transitions between every scene realistic natural body movement subtle handheld camera motion, authentic 35mm film grain, soft warm color grading, realistic skin texture, natural sunlight, shallow depth of field, creamy bokeh, atmospheric lighting, photorealistic details, nostalgic documentary photography feeling cinematic composition gentle pacing seamless visual continuity high-end cinematic film look, 4K quality.\n\n#FlovaAI #Flovacpp",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/laviniavelle/status/2102223289443877247",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102221644324634624/img/BKXKh1npXi9Zm8gf.jpg",
+        "analysisUrl": "https://x.com/laviniavelle/status/2102223289443877247"
+      }
+    ],
+    "metrics": {
+      "likeCount": 15,
+      "repostCount": 0,
+      "replyCount": 15,
+      "quoteCount": 0,
+      "viewCount": 451
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/laviniavelle/status/2102223289443877247",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102221644324634624/img/BKXKh1npXi9Zm8gf.jpg",
+  "coverPath": "covers/2102223289443877247.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102221644324634624",
+    "x-post:2102223289443877247"
+  ],
+  "analysis": {
+    "summary": "35mm胶片质感的东亚女摄影师一日生活电影感蒙太奇视频提示词。",
+    "summaryEn": "Cinematic 35mm film montage prompt showing a day in the life of an East Asian female photographer.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video precisely visualizes the described sequence: the subject posing outside a wooden house, photographing a sidewalk flower, browsing a camera store, and shooting in a park during golden hour."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A cinematic montage in a soft, warm 35mm film aesthetic capturing a peaceful day in the life of a young East Asian female photographer She has her hair tied up in a casual messy bun and wears a simple white cropped T-shirt high waisted blue denim jeans and a brown canvas crossbody shoulder bag She carries a classic vintage 35mm SLR film camera with a leather strap.\n\nThe video flows through a series of natural, cinematic moments first she stands outside a modern wooden house during golden hour, smiling softly as warm sunlight creates beautiful lens flares and rim light around her Then she crouches beside a sidewalk carefully photographing a small pink flower growing through the pavement with an intimate low-angle camera perspective Next, she visits a cozy vintage camera and book shop, browsing the shelves and examining her old film camera under warm interior lighting The scene transitions upward toward sunlight filtering through dense green tree leaves, creating dreamy bokeh, soft lens flares, and a nostalgic film texture She then walks peacefully through a tree-lined park from behind her brown shoulder bag moving naturally as she carries her camera, with golden sunset light illuminating the path Finally she stops in the park and raises her vintage camera toward the viewer taking a photograph as the warm sun shines directly behind her, creating strong golden backlight glowing rim light cinematic lens flare, and beautiful shallow depth of field.\n\nSmooth cinematic transitions between every scene realistic natural body movement subtle handheld camera motion, authentic 35mm film grain, soft warm color grading, realistic skin texture, natural sunlight, shallow depth of field, creamy bokeh, atmospheric lighting, photorealistic details, nostalgic documentary photography feeling cinematic composition gentle pacing seamless visual continuity high-end cinematic film look, 4K quality.",
+    "sourceRange": {
+      "start": 106,
+      "end": 2011
+    },
+    "translations": {
+      "zh": "一段温润暖调35毫米胶片美学的电影感蒙太奇，记录年轻东亚女摄影师平静的一天。她扎着随意的丸子头，身穿白色短款T恤、高腰牛仔裤和棕色帆布斜挎包，手持复古胶片相机。镜头展现她在木屋前、拍摄人行道小花、逛复古相机店、穿过林荫公园，并在逆光下举起相机拍摄的系列自然画面。",
+      "en": "A cinematic montage in a soft, warm 35mm film aesthetic capturing a peaceful day in the life of a young East Asian female photographer with a casual bun, white crop top, denim jeans, and a vintage camera, walking through scenic locations including a wooden house, sidewalk flower, vintage shop, and park during golden hour."
+    },
+    "targetModels": [
+      "hailuo"
+    ],
+    "category": "text-to-video",
+    "useCase": "Cinematic montage video generation depicting a photographer's daily life",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}
