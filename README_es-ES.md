@@ -7199,13 +7199,13 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2102392576980492741"></a>
 
-### Traducción en curso
+### Prompt de encuadre en primer plano de manga intimidante de dos personajes con diálogo en coreano y bocadillos de diálogo.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicación original](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Manga · Cómic / Novela gráfica · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de encuadre en primer plano de manga intimidante de dos personajes con diálogo en coreano y bocadillos de diálogo.
 
 <img src="images/2102392576980492741-1.jpg" alt="Imagen 1" width="480" />
 
@@ -7216,7 +7216,21 @@ Anime / Manga · Cómic / Novela gráfica · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+2people, panel de manga monocromático, manga en blanco y negro, arte lineal limpio, trama (screentone), panel de cómic individual, composición en primer plano, dramática tensión emocional, fondo simple en blanco, 2::dos bocadillos de diálogo blancos grandes en el lado izquierdo::, sin texto adicional
+
+A:
+usar la apariencia proporcionada por separado, lado izquierdo, perfil lateral de cerca, expresión tranquila y fría, ojos entrecerrados, rostro muy cerca de B, 2::una mano apoyada firmemente encima de la cabeza de B::, presencia silenciosamente intimidante
+
+B:
+usar la apariencia proporcionada por separado, lado derecho, cabeza baja, evitando el contacto visual, postura encorvada, expresión desanimada, pequeñas gotas de sudor en la mejilla, estado de ánimo herido y derrotado
+
+Composición:
+2::A a la izquierda y B a la derecha::, 2::la mano de A encima de la cabeza de B::, 2::A inclinándose muy cerca de B::, 2::B mirando hacia abajo con los hombros tensos::, primer plano extremo, desequilibrio emocional, mucho espacio en blanco vacío, sin fondo detallado
+
+,dos bocadillos de diálogo de manga blancos en el lado izquierdo, letras coreanas negras limpias, sin texto adicional
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Volver a categorías](#catalog)

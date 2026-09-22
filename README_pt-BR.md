@@ -7121,13 +7121,13 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2102392576980492741"></a>
 
-### Tradução em andamento
+### Prompt de direção em close-up de mangá com dois personagens intimidadores, incluindo falas e balões de diálogo em coreano.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicação original](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Mangá · Quadrinhos / Graphic Novel · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de direção em close-up de mangá com dois personagens intimidadores, incluindo falas e balões de diálogo em coreano.
 
 <img src="images/2102392576980492741-1.jpg" alt="Imagem 1" width="480" />
 
@@ -7138,7 +7138,21 @@ Anime / Mangá · Quadrinhos / Graphic Novel · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em andamento
+2people, quadro de mangá monocromático, mangá em preto e branco, traço limpo, retícula screentone, painel único de quadrinho, composição em close-up, tensão emocional dramática, fundo simples em branco, 2::dois grandes balões de fala brancos no lado esquerdo::, sem texto adicional
+
+A:
+usar a aparência fornecida separadamente, lado esquerdo, perfil lateral próximo, expressão calma e fria, olhos semicerrados, rosto muito próximo de B, 2::uma mão apoiada firmemente no topo da cabeça de B::, presença discretamente intimidadora
+
+B:
+usar a aparência fornecida separadamente, lado direito, cabeça baixa, evitando contato visual, postura curvada, expressão desanimada, pequenas gotas de suor na bochecha, clima ferido e derrotado
+
+Composição:
+2::A à esquerda e B à direita::, 2::mão de A no topo da cabeça de B::, 2::A inclinando-se perto de B::, 2::B olhando para baixo com os ombros tensos::, close-up extremo, desequilíbrio emocional, muito espaço em branco vazio, sem fundo detalhado
+
+,dois balões de fala de mangá brancos no lado esquerdo, escrita coreana preta e limpa, sem texto adicional
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Voltar às categorias](#catalog)

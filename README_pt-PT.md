@@ -7121,13 +7121,13 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2102392576980492741"></a>
 
-### Tradução em curso
+### Prompt de encenação em grande plano de manga com duas personagens intimidadoras, incluindo falas e balões de diálogo em coreano.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicação original](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Mangá · Banda Desenhada / Romance Gráfico · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de encenação em grande plano de manga com duas personagens intimidadoras, incluindo falas e balões de diálogo em coreano.
 
 <img src="images/2102392576980492741-1.jpg" alt="Imagem 1" width="480" />
 
@@ -7138,7 +7138,21 @@ Anime / Mangá · Banda Desenhada / Romance Gráfico · Personagem · Publicado
 **Prompt**
 
 ```text
-Tradução em curso
+2people, vinheta de manga monocromática, manga a preto e branco, traço limpo, retícula screentone, vinheta única de banda desenhada, composição em grande plano, tensão emocional dramática, fundo simples em branco, 2::dois grandes balões de fala brancos no lado esquerdo::, sem texto adicional
+
+A:
+usar a aparência fornecida separadamente, lado esquerdo, perfil lateral próximo, expressão calma e fria, olhos semicerrados, rosto muito próximo de B, 2::uma mão pousada firmemente no topo da cabeça de B::, presença discretamente intimidadora
+
+B:
+usar a aparência fornecida separadamente, lado direito, cabeça baixa, a evitar o contacto visual, postura curvada, expressão desanimada, pequenas gotas de suor na bochecha, ambiente magoado e derrotado
+
+Composição:
+2::A à esquerda e B à direita::, 2::mão de A no topo da cabeça de B::, 2::A a inclinar-se para perto de B::, 2::B a olhar para baixo com os ombros tensos::, grande plano extremo, desequilíbrio emocional, muito espaço em branco vazio, sem fundo detalhado
+
+,dois balões de fala de manga brancos no lado esquerdo, texto coreano preto e limpo, sem texto adicional
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Voltar às categorias](#catalog)

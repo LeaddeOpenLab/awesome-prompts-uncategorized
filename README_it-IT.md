@@ -7091,13 +7091,13 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2102392576980492741"></a>
 
-### Traduzione in corso
+### Prompt di regia per primo piano manga con due personaggi intimidatori, inclusi dialoghi e nuvolette in coreano.
 
 Autore：[@leftbypeace](https://x.com/leftbypeace) · [Post originale](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Manga · Fumetto / Graphic Novel · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di regia per primo piano manga con due personaggi intimidatori, inclusi dialoghi e nuvolette in coreano.
 
 <img src="images/2102392576980492741-1.jpg" alt="Immagine 1" width="480" />
 
@@ -7108,7 +7108,21 @@ Anime / Manga · Fumetto / Graphic Novel · Personaggio · Pubblicato
 **Prompt**
 
 ```text
-Traduzione in corso
+2people, vignetta manga monocromatica, manga in bianco e nero, lineart pulita, retinatura screentone, singola vignetta di fumetto, composizione in primo piano, drammatica tensione emotiva, sfondo semplice e vuoto, 2::due grandi nuvolette di dialogo bianche sul lato sinistro::, nessun testo aggiuntivo
+
+A:
+utilizzare l'aspetto fornito separatamente, lato sinistro, profilo laterale ravvicinato, espressione calma e fredda, occhi semichiusi, viso molto vicino a B, 2::una mano appoggiata saldamente sulla testa di B::, presenza silenziosamente intimidatoria
+
+B:
+utilizzare l'aspetto fornito separatamente, lato destro, testa china, evitando il contatto visivo, postura curva, espressione scoraggiata, piccole gocce di sudore sulla guancia, atmosfera ferita e sconfitta
+
+Composizione:
+2::A a sinistra e B a destra::, 2::la mano di A sopra la testa di B::, 2::A che si sporge vicino a B::, 2::B che guarda verso il basso con le spalle tese::, primissimo piano, squilibrio emotivo, molto spazio bianco vuoto, nessuno sfondo dettagliato
+
+,due nuvolette di dialogo manga bianche sul lato sinistro, caratteri coreani neri e puliti, nessun testo aggiuntivo
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Torna alle categorie](#catalog)

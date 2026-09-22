@@ -7180,13 +7180,13 @@ AI 코어가 디지털 눈처럼 열리며 시청자를 직접 응시합니다.
 
 <a name="prompt-2102392576980492741"></a>
 
-### 번역 중
+### 한국어 대사와 말풍선이 포함된 두 인물의 위압적인 만화 클로즈업 연출 프롬프트.
 
 작성자：[@leftbypeace](https://x.com/leftbypeace) · [원본 게시물](https://x.com/leftbypeace/status/2102392576980492741)
 
 애니메이션 / 만화 · 만화 / 그래픽 노블 · 캐릭터 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 한국어 대사와 말풍선이 포함된 두 인물의 위압적인 만화 클로즈업 연출 프롬프트.
 
 <img src="images/2102392576980492741-1.jpg" alt="이미지 1" width="480" />
 
@@ -7197,7 +7197,21 @@ AI 코어가 디지털 눈처럼 열리며 시청자를 직접 응시합니다.
 **프롬프트**
 
 ```text
-번역 중
+2people, monochrome manga panel, black and white manga, clean lineart, screentone, single comic panel, close-up composition, dramatic emotional tension, simple blank background, 2::two large white speech bubbles on the left side::, no extra text
+
+A:
+use separately provided appearance, left side, close side profile, calm cold expression, half-lidded eyes, face very close to B, 2::one hand resting firmly on top of B's head::, quietly intimidating presence
+
+B:
+use separately provided appearance, right side, head lowered, avoiding eye contact, slumped posture, discouraged expression, small sweat drops on the cheek, hurt and defeated mood
+
+구도:
+2::A on the left and B on the right::, 2::A's hand on top of B's head::, 2::A leaning in close to B::, 2::B looking downward with tense shoulders::, extreme close-up, emotional imbalance, lots of empty white space, no detailed background
+
+,two white manga speech bubbles on the left side, clean black Korean lettering, no extra text
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

@@ -7198,13 +7198,13 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2102392576980492741"></a>
 
-### Đang dịch
+### Prompt phối cảnh cận cảnh truyện tranh áp bức của hai nhân vật với lời thoại tiếng Hàn và bóng thoại.
 
 Tác giả：[@leftbypeace](https://x.com/leftbypeace) · [Bài gốc](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Manga · Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt phối cảnh cận cảnh truyện tranh áp bức của hai nhân vật với lời thoại tiếng Hàn và bóng thoại.
 
 <img src="images/2102392576980492741-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -7215,7 +7215,21 @@ Anime / Manga · Truyện tranh / Tiểu thuyết đồ họa · Nhân vật · 
 **Câu lệnh**
 
 ```text
-Đang dịch
+2people, khung truyện tranh đơn sắc, manga đen trắng, nét vẽ sạch sẽ, trame (screentone), một khung truyện tranh duy nhất, bố cục cận cảnh, sự căng thẳng cảm xúc đầy kịch tính, nền trống đơn giản, 2::hai bong bóng thoại màu trắng lớn ở phía bên trái::, không có văn bản thừa
+
+A:
+sử dụng ngoại hình được cung cấp riêng, phía bên trái, góc nghiêng cận cảnh, biểu cảm bình tĩnh lạnh lùng, mắt khép hờ, khuôn mặt rất gần B, 2::một tay đặt vững chắc trên đỉnh đầu của B::, sự hiện diện đầy đe dọa trong im lặng
+
+B:
+sử dụng ngoại hình được cung cấp riêng, phía bên phải, cúi đầu xuống, tránh giao tiếp bằng mắt, tư thế sụp xuống, biểu cảm nản lòng, những giọt mồ hôi nhỏ trên má, tâm trạng bị tổn thương và thất bại
+
+Bố cục:
+2::A ở bên trái và B ở bên phải::, 2::tay của A đặt trên đỉnh đầu của B::, 2::A nghiêng người lại gần B::, 2::B nhìn xuống với đôi vai căng thẳng::, cực cận cảnh, sự mất cân bằng cảm xúc, nhiều khoảng trắng trống rỗng, không có hậu cảnh chi tiết
+
+,hai bong bóng thoại manga màu trắng ở phía bên trái, chữ tiếng Hàn màu đen gọn gàng, không có văn bản thừa
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Về danh mục](#catalog)

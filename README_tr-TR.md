@@ -7121,13 +7121,13 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2102392576980492741"></a>
 
-### Çeviri sürüyor
+### Korece replikler ve konuşma balonları içeren iki karakterli, gözdağı veren manga yakın çekim mizansen istemi.
 
 Yazar：[@leftbypeace](https://x.com/leftbypeace) · [Orijinal gönderi](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Manga · Çizgi Roman / Grafik Roman · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Korece replikler ve konuşma balonları içeren iki karakterli, gözdağı veren manga yakın çekim mizansen istemi.
 
 <img src="images/2102392576980492741-1.jpg" alt="Görsel 1" width="480" />
 
@@ -7138,7 +7138,21 @@ Anime / Manga · Çizgi Roman / Grafik Roman · Karakter · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+2people, monokrom manga paneli, siyah beyaz manga, temiz çizim hatları, screentone, tek çizgi roman paneli, yakın çekim kompozisyonu, dramatik duygusal gerilim, sade boş arka plan, 2::sol tarafta iki büyük beyaz konuşma balonu::, fazladan metin yok
+
+A:
+ayrıca sağlanan görünümü kullanın, sol taraf, yakın yan profil, sakin soğuk ifade, yarı açık gözler, yüz B'ye çok yakın, 2::bir el B'nin başının üstünde sıkıca duruyor::, sessizce gözdağı veren bir varlık
+
+B:
+ayrıca sağlanan görünümü kullanın, sağ taraf, başı öne eğik, göz temasından kaçınan, çökmüş duruş, cesareti kırılmış ifade, yanakta küçük ter damlaları, incinmiş ve yenilmiş bir ruh hali
+
+Kompozisyon:
+2::solda A ve sağda B::, 2::A'nın eli B'nin başının üstünde::, 2::A, B'ye doğru yakınlaşmış::, 2::B gergin omuzlarla aşağı doğru bakıyor::, aşırı yakın çekim, duygusal dengesizlik, bolca boş beyaz alan, ayrıntılı arka plan yok
+
+,sol tarafta iki beyaz manga konuşma balonu, temiz siyah Korece yazı, fazladan metin yok
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Kategorilere dön](#catalog)

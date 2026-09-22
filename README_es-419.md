@@ -7091,13 +7091,13 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2102392576980492741"></a>
 
-### Traducción en curso
+### Prompt de puesta en escena en primer plano para manga con dos personajes intimidantes, que incluye globos de diálogo y texto en coreano.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Publicación original](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Manga · Cómic / Novela gráfica · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de puesta en escena en primer plano para manga con dos personajes intimidantes, que incluye globos de diálogo y texto en coreano.
 
 <img src="images/2102392576980492741-1.jpg" alt="Imagen 1" width="480" />
 
@@ -7108,7 +7108,21 @@ Anime / Manga · Cómic / Novela gráfica · Personaje · Publicado
 **Prompt**
 
 ```text
-Traducción en curso
+2people, viñeta de manga monocromática, manga en blanco y negro, lineart limpio, screentone, viñeta de cómic individual, composición en primer plano, tensión emocional dramática, fondo blanco simple, 2::dos bocadillos de diálogo blancos grandes en el lado izquierdo::, sin texto adicional
+
+A:
+usar apariencia proporcionada por separado, lado izquierdo, perfil lateral cercano, expresión fría y tranquila, ojos entrecerrados, rostro muy cerca de B, 2::una mano apoyada firmemente sobre la cabeza de B::, presencia silenciosamente intimidante
+
+B:
+usar apariencia proporcionada por separado, lado derecho, cabeza gacha, evitando el contacto visual, postura encorvada, expresión desanimada, pequeñas gotas de sudor en la mejilla, ambiente de dolor y derrota
+
+Composición:
+2::A a la izquierda y B a la derecha::, 2::la mano de A sobre la cabeza de B::, 2::A inclinándose cerca de B::, 2::B mirando hacia abajo con hombros tensos::, primer plano extremo, desequilibrio emocional, mucho espacio en blanco vacío, sin fondo detallado
+
+,dos bocadillos de diálogo de manga blancos en el lado izquierdo, letras coreanas negras y limpias, sin texto adicional
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Volver a categorías](#catalog)

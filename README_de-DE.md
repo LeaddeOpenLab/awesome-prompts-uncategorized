@@ -7091,13 +7091,13 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2102392576980492741"></a>
 
-### Übersetzung läuft
+### Manga-Nahaufnahme-Inszenierungs-Prompt mit zwei einschüchternden Figuren, inklusive koreanischem Dialog und Sprechblasen.
 
 Autor：[@leftbypeace](https://x.com/leftbypeace) · [Originalbeitrag](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Manga · Comic / Graphic Novel · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Manga-Nahaufnahme-Inszenierungs-Prompt mit zwei einschüchternden Figuren, inklusive koreanischem Dialog und Sprechblasen.
 
 <img src="images/2102392576980492741-1.jpg" alt="Bild 1" width="480" />
 
@@ -7108,7 +7108,21 @@ Anime / Manga · Comic / Graphic Novel · Charakter · Veröffentlicht
 **Prompt**
 
 ```text
-Übersetzung läuft
+2people, monochromes Manga-Panel, Schwarz-Weiß-Manga, saubere Lineart, Screentone, einzelnes Comic-Panel, Nahaufnahme-Komposition, dramatische emotionale Spannung, einfacher leerer Hintergrund, 2::zwei große weiße Sprechblasen auf der linken Seite::, kein zusätzlicher Text
+
+A:
+separat bereitgestelltes Aussehen verwenden, linke Seite, nahes Seitenprofil, ruhiger kalter Ausdruck, halb geschlossene Augen, Gesicht sehr nah an B, 2::eine Hand ruht fest auf Bs Kopf::, leise einschüchternde Präsenz
+
+B:
+separat bereitgestelltes Aussehen verwenden, rechte Seite, gesenkter Kopf, Blickkontakt vermeidend, zusammengesunkene Haltung, entmutigter Ausdruck, kleine Schweißtropfen auf der Wange, verletzte und besiegte Stimmung
+
+Komposition:
+2::A auf der linken Seite und B auf der rechten Seite::, 2::As Hand auf Bs Kopf::, 2::A beugt sich nah an B heran::, 2::B blickt mit angespannten Schultern nach unten::, extremes Close-up, emotionales Ungleichgewicht, viel leerer weißer Raum, kein detaillierter Hintergrund
+
+,zwei weiße Manga-Sprechblasen auf der linken Seite, saubere schwarze koreanische Schriftzeichen, kein zusätzlicher Text
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

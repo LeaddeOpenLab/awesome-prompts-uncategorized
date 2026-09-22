@@ -7091,13 +7091,13 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2102392576980492741"></a>
 
-### Traduction en cours
+### Prompt de mise en scène en gros plan de manga avec deux personnages intimidants, comprenant des bulles de dialogue et du texte en coréen.
 
 Auteur：[@leftbypeace](https://x.com/leftbypeace) · [Publication originale](https://x.com/leftbypeace/status/2102392576980492741)
 
 Anime / Manga · Bande dessinée / Roman graphique · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de mise en scène en gros plan de manga avec deux personnages intimidants, comprenant des bulles de dialogue et du texte en coréen.
 
 <img src="images/2102392576980492741-1.jpg" alt="Image 1" width="480" />
 
@@ -7108,7 +7108,21 @@ Anime / Manga · Bande dessinée / Roman graphique · Personnage · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+2people, case de manga monochrome, manga en noir et blanc, lineart net, trames screentone, case de bande dessinée unique, composition en gros plan, tension émotionnelle dramatique, arrière-plan simple et vide, 2::deux grandes bulles de dialogue blanches sur le côté gauche::, aucun texte supplémentaire
+
+A :
+utiliser l'apparence fournie séparément, côté gauche, profil latéral rapproché, expression calme et froide, yeux mi-clos, visage très proche de B, 2::une main posée fermement sur la tête de B::, présence discrètement intimidante
+
+B :
+utiliser l'apparence fournie séparément, côté droit, tête baissée, évitant le contact visuel, posture affaissée, expression découragée, petites gouttes de sueur sur la joue, atmosphère blessée et vaincue
+
+Composition :
+2::A à gauche et B à droite::, 2::la main d'A sur la tête de B::, 2::A se penchant très près de B::, 2::B regardant vers le bas les épaules crispées::, très gros plan, déséquilibre émotionnel, beaucoup d'espace blanc vide, pas d'arrière-plan détaillé
+
+,deux bulles de dialogue manga blanches sur le côté gauche, lettrage coréen noir et net, aucun texte supplémentaire
+
+"넌 티친  따윈 만들 자격이 없어."
+"그럴 필요도 없고..."
 ```
 
 [↑ Retour aux catégories](#catalog)
