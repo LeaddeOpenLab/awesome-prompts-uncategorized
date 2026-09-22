@@ -5108,20 +5108,134 @@ Chân dung kỳ ảo đậm chất điện ảnh siêu thực của một thiế
 
 <a name="prompt-2102276867164402042"></a>
 
-### Đang dịch
+### Lời nhắc poster storyboard 12 khung hình quy trình pha cà phê pour-over phong cách điện ảnh cao cấp.
 
 Tác giả：[@XuekaiGao](https://x.com/XuekaiGao) · [Bài gốc](https://x.com/XuekaiGao/status/2102276867164402042)
 
 Truyện tranh / Bảng phân cảnh · Áp phích / Tờ rơi · Điện ảnh / Ảnh tĩnh từ phim · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc poster storyboard 12 khung hình quy trình pha cà phê pour-over phong cách điện ảnh cao cấp.
 
 <img src="covers/2102276867164402042.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một poster storyboard quy trình pha chế "cà phê pour-over" mang phong cách điện ảnh cao cấp.
+
+Định dạng:
+Trang storyboard phong cách biên tập dạng dọc tỉ lệ 9:16, thể hiện hiệu ứng nhiếp ảnh ẩm thực thương mại tinh tế; bao gồm 12 cảnh quay cận cảnh (macro) chuẩn điện ảnh, sắp xếp thành lưới 3 cột × 4 hàng gọn gàng. Phía trên mỗi khung storyboard là ảnh chụp ẩm thực chân thực, phía dưới là chú thích kỹ thuật phân cảnh ngắn gọn bao gồm hành động, góc máy, chuyển động máy, chuyển cảnh và ghi chú hiệu ứng âm thanh (SFX).
+
+Tiêu đề:
+Tiêu đề trên cùng:
+「CFSP-15」
+「POUR-OVER COFFEE」 (Cà phê Pour-over)
+Phụ đề:
+「RICHER MOMENTS IN EVERY SIP」 (Đậm đà trọn vẹn trong từng ngụm)
+Góc trên bên phải:
+「15 Seconds」 (15 giây)
+「12 Micro-Shots」 (12 cú máy macro)
+
+Phong cách thị giác:
+Quảng cáo cà phê đặc sản sang trọng, nhiếp ảnh ẩm thực macro siêu thực, tông màu nâu cà phê đậm đà sâu lắng, ánh sáng ngược bên ấm áp, độ sâu trường ảnh nông, kết cấu crema óng ánh, bột cà phê và vỏ lụa chân thực, điểm sáng bọt sữa mịn màng như kem, phản chiếu ánh sáng và bóng tối chuẩn điện ảnh, thẩm mỹ quảng cáo cao cấp, chi tiết 8K chân thực như ảnh chụp, tạo mẫu ẩm thực chuyên nghiệp, hạt cà phê, dụng cụ và thành phẩm nhất quán xuyên suốt các khung hình.
+
+12 cú máy liên tục:
+
+01 — 0.0–1.2s — Khởi nguồn của cà phê
+Những hạt cà phê rang đậm mới ra lò rơi vào phễu máy xay bằng đồng thau, các mảnh vỏ lụa vương vãi trên bàn làm việc bằng gỗ mộc mạc.
+Hành động: Hạt cà phê rơi vào máy xay.
+Góc máy: Macro 75mm.
+Chuyển động máy: Đẩy máy vào (Push-in).
+Chuyển cảnh: Cắt khớp (Match cut).
+Âm thanh: Tiếng va chạm lách cách giòn giã của hạt cà phê.
+
+02 — 1.2–2.4s — Xay hạt
+Đĩa xay quay tốc độ cao, bột cà phê màu nâu đậm tuôn trào như cát mịn, tạo nên một làn sương bụi mịn màng.
+Hành động: Hạt cà phê được xay thành bột mịn đồng đều.
+Góc máy: Macro 90–100mm.
+Chuyển động máy: Quay vòng chặt chẽ quanh miệng thoát bột.
+Chuyển cảnh: Chuyển cảnh lia nhanh (Whip motion).
+Âm thanh: Tiếng xào xạc rạo rực khi xay.
+
+03 — 2.4–3.6s — Ủ cà phê và rót nước
+Nước nóng từ ấm cổ ngỗng rót xoắn ốc vào lớp bột cà phê, lớp bột nở bung (bloom), bọt khí li ti cuộn trào.
+Hành động: Nước nóng thấm đẫm và đánh thức bột cà phê.
+Góc máy: Cận cảnh 50mm.
+Chuyển động máy: Hạ góc máy chúc xuống (Tilt-down).
+Chuyển cảnh: Cắt khớp (Match cut).
+Âm thanh: Tiếng rót nước dịu êm và tiếng bọt khí vỡ lách tách.
+
+04 — 3.6–4.8s — Chiết xuất crema
+Cà phê espresso tuôn trào từ đầu chiết, lớp dầu crema màu nâu đậm từ từ lan tỏa trong tách, phản chiếu ánh sáng ấm áp.
+Hành động: Espresso chiết xuất ra lớp crema vàng óng.
+Góc máy: Cận cảnh 50mm.
+Chuyển động máy: Đẩy máy vào (Push-in).
+Chuyển cảnh: Cắt khớp (Match cut).
+Âm thanh: Tiếng ồn trầm của quá trình chiết xuất và tiếng xèo xèo của lớp dầu.
+
+05 — 4.8–6.0s — Rót bọt sữa tạo hình latte art
+Bọt sữa bông mịn được đánh đều rót vào tách, hòa quyện với espresso, vẽ nên đường nét latte art đối xứng tinh tế.
+Hành động: Bọt sữa và espresso hòa quyện tạo hình.
+Góc máy: Cận cảnh 50mm.
+Chuyển động máy: Đẩy nhẹ máy vào.
+Chuyển cảnh: Cắt khớp (Match cut).
+Âm thanh: Tiếng rót bọt sữa êm ái.
+
+06 — 6.0–7.1s — Điểm xuyết bề mặt
+Rây lọc lắc nhẹ, bột ca cao mịn như tuyết rơi xuống bề mặt bọt sữa, tạo nên kết cấu mịn như nhung.
+Hành động: Bột ca cao rắc đều xuống.
+Góc máy: Macro 75mm.
+Chuyển động máy: Quay từ trên cao hạ xuống chậm rãi.
+Chuyển cảnh: Cắt khớp (Match cut).
+Âm thanh: Tiếng bột mịn rơi lất phất.
+
+07 — 7.1–8.3s — Hơi nóng nghi ngút
+Hơi nước lượn lờ bốc lên từ bề mặt cà phê, ánh sáng ấm áp xuyên qua làn hơi, tạo thành vầng hào quang mềm mại quanh miệng tách.
+Hành động: Hơi nóng bốc lên tự nhiên.
+Góc máy: Cận cảnh 50mm.
+Chuyển động máy: Lia máy hất lên chậm rãi (Tilt-up).
+Chuyển cảnh: Hòa tan chồng hình (Dissolve).
+Âm thanh: Tiếng ồn môi trường tĩnh lặng.
+
+08 — 8.3–9.4s — Nâng tách
+Ngón tay khẽ chạm vào thành tách gốm ấm áp, độ sâu trường ảnh nông làm rõ khớp ngón tay và kết cấu thân tách, hậu cảnh mờ nhòe.
+Hành động: Ngón tay nâng tách cà phê lên.
+Góc máy: Cận cảnh 50mm.
+Chuyển động máy: Lia ngang theo chuyển động của tay.
+Chuyển cảnh: Cắt khớp (Match cut).
+Âm thanh: Tiếng lách cách khẽ khi tách gốm rời mặt bàn.
+
+09 — 9.4–10.6s — Lướt qua mặt cà phê
+Ống kính lướt sát mặt chất lỏng, ánh phản chiếu bóng dầu của crema cùng đường vân latte art tạo nên độ bóng gương bồng bềnh.
+Hành động: Ống kính lướt qua bề mặt cà phê.
+Góc máy: Macro 100mm.
+Chuyển động máy: Lia ngang sát mặt phẳng.
+Chuyển cảnh: Cắt khớp (Match cut).
+Âm thanh: Tiếng vuốt dây đàn trầm lắng.
+
+10 — 10.6–11.7s — Khuấy nhẹ
+Muỗng bạc khẽ khuấy cà phê, bọt sữa và cà phê xoáy tạo nên vân xoáy ốc tao nhã trong tách.
+Hành động: Muỗng bạc khuấy chậm rãi.
+Góc máy: Macro 75mm.
+Chuyển động máy: Quay xoay quanh muỗng bạc.
+Chuyển cảnh: Chuyển cảnh lia nhanh (Whip motion).
+Âm thanh: Tiếng va chạm thanh thoát của muỗng bạc vào thành tách.
+
+11 — 11.7–13.0s — Cùng nâng ly thưởng thức
+Tách cà phê được nâng lên môi, hơi nước mờ ở tiền cảnh cùng ánh sáng ấm áp ở hậu cảnh tạo nên bầu không khí thư thái.
+Hành động: Nâng tách nhấp một ngụm nhỏ.
+Góc máy: Cận cảnh vừa 35mm.
+Chuyển động máy: Đẩy nhẹ máy vào.
+Chuyển cảnh: Cắt khớp (Match cut).
+Âm thanh: Tiếng nhấp ngụm êm dịu.
+
+12 — 13.0–15.0s — Đóng khung thương hiệu
+Một tách cà phê pour-over trọn vẹn đặt ở trung tâm bàn làm việc dưới ánh sáng ấm áp, LOGO và tên sản phẩm dừng lại trang nhã trên nền nâu đậm.
+Hành động: Cảnh tĩnh dừng lại.
+Góc máy: Trung cảnh 50mm.
+Chuyển động máy: Kéo xa ra chậm rãi.
+Chuyển cảnh: Mờ dần (Fade out).
+Âm thanh: Hợp âm kết thúc nhận diện thương hiệu.
 ```
 
 [↑ Về danh mục](#catalog)

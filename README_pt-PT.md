@@ -5017,20 +5017,134 @@ Retrato de fantasia cinematográfico ultrarrealista de uma bela jovem mulher com
 
 <a name="prompt-2102276867164402042"></a>
 
-### Tradução em curso
+### Prompt para cartaz de storyboard de 12 planos com estética cinematográfica premium sobre o processo de preparação de café de filtro manual.
 
 Autor：[@XuekaiGao](https://x.com/XuekaiGao) · [Publicação original](https://x.com/XuekaiGao/status/2102276867164402042)
 
 Banda desenhada / Storyboard · Pôster / Folheto · Cena de Cinema / Fotograma · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt para cartaz de storyboard de 12 planos com estética cinematográfica premium sobre o processo de preparação de café de filtro manual.
 
 <img src="covers/2102276867164402042.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um cartaz de storyboard com estética cinematográfica premium e refinada, detalhando o processo de preparação de "café de filtro manual" (pour-over).
+
+Formato:
+Página de storyboard vertical 9:16 em estilo editorial, apresentando fotografia gastronómica comercial sofisticada; contém 12 planos macro cinematográficos organizados numa grelha limpa de 3 colunas × 4 linhas. Cada plano do storyboard exibe uma fotografia gastronómica fotorrealista na parte superior e breves notas técnicas de storyboard na parte inferior, cobrindo Ação, Câmara/Enquadramento, Movimento de câmara, Transição e notas de Efeitos Sonoros (SFX).
+
+Tipografia e Títulos:
+Título superior:
+"CFSP-15"
+"POUR-OVER COFFEE"
+Subtítulo:
+"RICHER MOMENTS IN EVERY SIP"
+Canto superior direito:
+"15 Seconds"
+"12 Micro-Shots"
+
+Estilo Visual:
+Anúncio de café de especialidade de luxo, fotografia gastronómica macro hiper-realista, paleta de tons castanhos de café ricos e profundos, iluminação quente e lateral em contraluz, profundidade de campo reduzida, textura brilhante e oleosa de crema, café moído realista e fragmentos de película prateada (chaff), brilhos de espuma cremosa e aveludada, reflexos de iluminação cinematográfica, estética publicitária de topo, detalhes fotorrealistas em 8K, styling gastronómico profissional, com consistência rigorosa dos grãos de café, utensílios e bebida final em todos os planos.
+
+12 Planos Consecutivos:
+
+01 — 0.0–1.2s — A Origem do Café
+Grãos de café recém-torrados de torra escura caem no depósito de latão do moinho; fragmentos de película prateada estão espalhados sobre a bancada rústica de madeira.
+Ação: Grãos de café a cair no moinho.
+Câmara/Enquadramento: Macro 75mm.
+Movimento de câmara: Push-in (aproximação).
+Transição: Match cut (corte de correspondência).
+SFX: Som nítido e estaladiço do choque dos grãos.
+
+02 — 1.2–2.4s — Moagem
+As lâminas moem a alta velocidade; o café moído em castanho-escuro escorre como areia fina, levantando uma névoa delicada de pó.
+Ação: Grãos de café a serem moídos num pó uniforme.
+Câmara/Enquadramento: Macro 90–100mm.
+Movimento de câmara: Órbita apertada em torno da saída do pó.
+Transição: Whip motion (transição em chicote).
+SFX: Ruído áspero e sibilante da moagem.
+
+03 — 2.4–3.6s — Pré-infusão (Bloom)
+A água quente de uma chaleira de bico de ganso é vertida em espiral sobre o leito de café; a camada de pó expande-se e incha (bloom), fervilhando com microbolhas ativas.
+Ação: A água quente hidrata e desperta o café moído.
+Câmara/Enquadramento: Close-up 50mm.
+Movimento de câmara: Tilt down (inclinação para baixo).
+Transição: Match cut.
+SFX: Som suave de água a correr e bolhas a rebentar.
+
+04 — 3.6–4.8s — Extração da Crema
+O café denso flui intensamente da extração; a crema castanho-dourada espalha-se lentamente na chávena, refletindo a luz quente.
+Ação: O café extrai uma camada dourada de crema.
+Câmara/Enquadramento: Close-up 50mm.
+Movimento de câmara: Push-in.
+Transição: Match cut.
+SFX: Zumbido grave da extração e estalitar suave da crema.
+
+05 — 4.8–6.0s — Latte Art / Espuma de Leite
+A espuma de leite densa e texturada é vertida na chávena, fundindo-se com o café e delineando um padrão delicado e simétrico de latte art.
+Ação: O leite vaporizado e o café fundem-se e ganham forma.
+Câmara/Enquadramento: Close-up 50mm.
+Movimento de câmara: Push-in suave.
+Transição: Match cut.
+SFX: Som aveludado do fluxo de leite a entrar.
+
+06 — 6.0–7.1s — Toque Final Superior
+A peneira treme delicadamente, e o cacau em pó fino cai como neve sobre a superfície espumosa, criando uma textura aveludada.
+Ação: Cacau em pó polvilhado de forma uniforme.
+Câmara/Enquadramento: Macro 75mm.
+Movimento de câmara: Plano picado com descida suave.
+Transição: Match cut.
+SFX: Som leve e delicado do pó a assentar.
+
+07 — 7.1–8.3s — Vapor Ascendente
+Eflúvios suaves de vapor sobem da superfície do café; a luz quente atravessa o vapor, desenhando uma auréola delicada na borda da chávena.
+Ação: O vapor quente sobe naturalmente.
+Câmara/Enquadramento: Close-up 50mm.
+Movimento de câmara: Tilt up lento.
+Transição: Dissolve (dissolvência).
+SFX: Ruído de fundo calmo e suave.
+
+08 — 8.3–9.4s — Segurar a Chávena
+Os dedos tocam suavemente a parede tépida da chávena de cerâmica; sob profundidade de campo reduzida, a textura dos nós dos dedos e da chávena é nítida, com o fundo desfocado.
+Ação: Dedos a levantar a chávena de café.
+Câmara/Enquadramento: Close-up 50mm.
+Movimento de câmara: Panorâmica a acompanhar a mão.
+Transição: Match cut.
+SFX: Toque leve da cerâmica a afastar-se da bancada.
+
+09 — 9.4–10.6s — Rasante sobre a Superfície
+A câmara desliza rente à superfície do líquido; os reflexos oleosos na crema e as linhas do desenho criam um brilho fluido e espelhado.
+Ação: Câmara a planar sobre a superfície do café.
+Câmara/Enquadramento: Macro 100mm.
+Movimento de câmara: Travelling rasante à superfície.
+Transição: Match cut.
+SFX: Glissando grave e suave de cordas.
+
+10 — 10.6–11.7s — Mexer Suavemente
+Uma colher de prata mexe suavemente o café; a espuma e o café criam um remoinho elegante no interior da chávena.
+Ação: Colher de prata a misturar lentamente.
+Câmara/Enquadramento: Macro 75mm.
+Movimento de câmara: Rotação em torno da colher de prata.
+Transição: Whip motion.
+SFX: Som cristalino da colher a embater na cerâmica.
+
+11 — 11.7–13.0s — O Primeiro Gole
+A chávena de café é levada aos lábios; o vapor desfocado em primeiro plano e a luz quente de fundo definem uma atmosfera acolhedora.
+Ação: Levar a chávena à boca para um golo subtil.
+Câmara/Enquadramento: Plano aproximado (Close Shot) 35mm.
+Movimento de câmara: Push-in suave.
+Transição: Match cut.
+SFX: Som suave de um golo a ser saboreado.
+
+12 — 13.0–15.0s — Assinatura da Marca
+A chávena inteira de café de filtro repousa no centro da bancada iluminada por luz quente; o LOGO e o nome do produto congelam com elegância sobre o fundo castanho-escuro.
+Ação: Quadro estático de encerramento.
+Câmara/Enquadramento: Plano médio 50mm.
+Movimento de câmara: Recuo lento (pull-back).
+Transição: Fade out.
+SFX: Acorde musical final da marca.
 ```
 
 [↑ Voltar às categorias](#catalog)

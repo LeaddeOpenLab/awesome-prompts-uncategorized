@@ -5020,20 +5020,134 @@ Portrait fantastique cinématographique ultraréaliste d'une magnifique jeune fe
 
 <a name="prompt-2102276867164402042"></a>
 
-### Traduction en cours
+### Prompt d'affiche de storyboard en 12 cases sur le processus de préparation d'un café filtre au rendu cinématographique haut de gamme.
 
 Auteur：[@XuekaiGao](https://x.com/XuekaiGao) · [Publication originale](https://x.com/XuekaiGao/status/2102276867164402042)
 
 Bande dessinée / Storyboard · Affiche / Flyer · Image cinématographique / Photogramme de film · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt d'affiche de storyboard en 12 cases sur le processus de préparation d'un café filtre au rendu cinématographique haut de gamme.
 
 <img src="covers/2102276867164402042.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une affiche de storyboard au rendu cinématographique haut de gamme illustrant le processus de préparation d'un « café filtre manuel » (pour-over coffee).
+
+Format :
+Page de storyboard verticale 9:16 au style éditorial, offrant un rendu photographique culinaire commercial raffiné ; comprenant 12 plans macro cinématographiques agencés dans une grille soignée de 3 colonnes × 4 rangées. Chaque case présente en haut une photo culinaire photoréaliste et en bas de brèves annotations techniques de storyboard précisant l'action, le cadrage, le mouvement de caméra, la transition et les effets sonores (SFX).
+
+Titres :
+Titre supérieur :
+« CFSP-15 »
+« POUR-OVER COFFEE » (Café filtre manuel)
+Sous-titre :
+« RICHER MOMENTS IN EVERY SIP » (Des instants plus riches à chaque gorgée)
+En haut à droite :
+« 15 Seconds » (15 secondes)
+« 12 Micro-Shots » (12 plans macro)
+
+Style visuel :
+Publicité haut de gamme pour café de spécialité, macrophotographie culinaire ultra-réaliste, teintes riches de café brun foncé, contre-jour latéral chaleureux, faible profondeur de champ, texture huileuse et brillante de la crema, mouture de café réaliste avec fragments de pellicule argentée (chaff), mousse de lait dense et onctueuse avec reflets brillants, jeux d'ombres et lumières cinématographiques, esthétique publicitaire premium, détails photoréalistes en 8K, stylisme culinaire professionnel ; les grains de café, les ustensiles et le produit final restent parfaitement cohérents d'une case à l'autre.
+
+12 plans séquentiels :
+
+01 — 0.0–1.2s — L'origine du café
+Des grains de café fraîchement torréfiés à torréfaction foncée tombent dans la trémie en laiton d'un moulin, des éclats de pellicule argentée sont dispersés sur un plan de travail en bois rustique.
+Action : Les grains tombent dans le moulin.
+Cadrage : Macro 75 mm.
+Mouvement : Push-in (travelling avant).
+Transition : Match cut (raccord dans le mouvement).
+SFX : Bruit sec et cristallin des grains qui s'entrechoquent.
+
+02 — 1.2–2.4s — La mouture
+Les meules tournent à grande vitesse, la mouture brun foncé s'écoule comme un sable fin en soulevant un léger nuage de poudre vaporeuse.
+Action : Les grains sont moulus en une poudre fine et homogène.
+Cadrage : Macro 90–100 mm.
+Mouvement : Mouvement circulaire serré autour de la sortie de mouture.
+Transition : Whip motion (mouvement de fouetté rapide).
+SFX : Bruissement granuleux du broyage.
+
+03 — 2.4–3.6s — Pré-infusion et versement
+L'eau chaude d'une bouilloire à col de cygne est versée en spirale sur le lit de café ; la mouture gonfle (bloom) et de fines bulles bouillonnent à la surface.
+Action : L'eau chaude imbibe et réveille le café moulu.
+Cadrage : Gros plan 50 mm.
+Mouvement : Tilt-down (inclinaison vers le bas).
+Transition : Match cut (raccord dans le mouvement).
+SFX : Doux son d'écoulement de l'eau et crépitement des bulles qui éclatent.
+
+04 — 3.6–4.8s — Extraction de la crema
+Le café s'écoule avec puissance depuis le groupe d'infusion ; la crema brun foncé se déploie lentement dans la tasse en reflétant une lumière chaude.
+Action : L'expresso extrait une couche de crema dorée.
+Cadrage : Gros plan 50 mm.
+Mouvement : Push-in (travelling avant).
+Transition : Match cut (raccord dans le mouvement).
+SFX : Ronronnement sourd de l'extraction et frémissement de la crema.
+
+05 — 4.8–6.0s — Latte art et mousse de lait
+Une mousse de lait veloutée et montée est versée dans la tasse, se mêlant à l'expresso pour dessiner un motif de latte art délicat et symétrique.
+Action : La mousse de lait et l'expresso fusionnent pour former un dessin.
+Cadrage : Gros plan 50 mm.
+Mouvement : Travelling avant lent.
+Transition : Match cut (raccord dans le mouvement).
+SFX : Bruit soyeux et doux du versement de la mousse de lait.
+
+06 — 6.0–7.1s — Finition gourmande
+Le tamis vibre délicatement ; une fine poudre de cacao tombe comme de la neige sur la mousse de lait, créant une texture veloutée.
+Action : Saupoudrage uniforme de cacao en poudre.
+Cadrage : Macro 75 mm.
+Mouvement : Descente lente en plongée.
+Transition : Match cut (raccord dans le mouvement).
+SFX : Léger souffle de la poudre qui se dépose.
+
+07 — 7.1–8.3s — Vapeur envoûtante
+Des volutes de vapeur s'élèvent de la surface du café ; une lumière chaude traverse la vapeur, formant un halo vaporeux autour du rebord de la tasse.
+Action : La vapeur monte naturellement.
+Cadrage : Gros plan 50 mm.
+Mouvement : Lent panoramique vers le haut (tilt-up).
+Transition : Fondu enchaîné (dissolve).
+SFX : Bruit de fond ambiant calme et serein.
+
+08 — 8.3–9.4s — Prise en main
+Des doigts effleurent la paroi chaude de la tasse en céramique ; avec une faible profondeur de champ, les phalanges et la texture de la tasse sont nettes sur un fond flou.
+Action : Les doigts soulèvent la tasse de café.
+Cadrage : Gros plan 50 mm.
+Mouvement : Travelling latéral suivant la main.
+Transition : Match cut (raccord dans le mouvement).
+SFX : Léger tintement de la tasse en céramique quittant la table.
+
+09 — 9.4–10.6s — Au ras de la surface
+La caméra effleure la surface du liquide ; les reflets huileux de la crema et les volutes du latte art créent un éclat miroitant et fluide.
+Action : La caméra frôle la surface du café.
+Cadrage : Macro 100 mm.
+Mouvement : Travelling horizontal au ras de la surface.
+Transition : Match cut (raccord dans le mouvement).
+SFX : Glissando de cordes sourd et feutré.
+
+10 — 10.6–11.7s — Remuage délicat
+Une cuillère en argent remue délicatement le café ; la mousse de lait et le café tourbillonnent élégamment dans la tasse.
+Action : La cuillère en argent mélange lentement.
+Cadrage : Macro 75 mm.
+Mouvement : Rotation autour de la cuillère en argent.
+Transition : Whip motion (mouvement de fouetté rapide).
+SFX : Tintement cristallin de la cuillère contre la céramique.
+
+11 — 11.7–13.0s — Dégustation
+La tasse de café est portée aux lèvres ; la vapeur floue au premier plan et la lumière chaude en arrière-plan composent une atmosphère douillette.
+Action : Tasse portée à la bouche pour une gorgée.
+Cadrage : Plan rapproché 35 mm.
+Mouvement : Travelling avant lent.
+Transition : Match cut (raccord dans le mouvement).
+SFX : Léger bruit de dégustation feutrée.
+
+12 — 13.0–15.0s — Plan signature de la marque
+Une tasse complète de café filtre repose au centre du plan de travail baigné d'une lumière chaude ; le LOGO et le nom du produit s'affichent avec élégance sur un fond brun foncé.
+Action : Image arrêtée statique.
+Cadrage : Plan moyen 50 mm.
+Mouvement : Travelling arrière lent (pull-back).
+Transition : Fondu au noir (fade out).
+SFX : Accord musical final de la marque.
 ```
 
 [↑ Retour aux catégories](#catalog)

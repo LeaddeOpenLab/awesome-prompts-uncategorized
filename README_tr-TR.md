@@ -5017,20 +5017,134 @@ Uzun, dalgalı buz beyazı/gümüş saçları, çarpıcı kristal mavisi gözler
 
 <a name="prompt-2102276867164402042"></a>
 
-### Çeviri sürüyor
+### Üst düzey sinematik dokuya sahip pour-over kahve yapım sürecini gösteren 12 karelik storyboard afişi promptu.
 
 Yazar：[@XuekaiGao](https://x.com/XuekaiGao) · [Orijinal gönderi](https://x.com/XuekaiGao/status/2102276867164402042)
 
 Çizgi Roman / Hikaye Taslağı · Poster / El İlanı · Sinematik / Film Karesi · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Üst düzey sinematik dokuya sahip pour-over kahve yapım sürecini gösteren 12 karelik storyboard afişi promptu.
 
 <img src="covers/2102276867164402042.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+"Pour-over filtre kahve" yapım sürecini anlatan, üst düzey sinematik dokuya sahip bir storyboard afişi oluşturun.
+
+Format:
+Zarif ticari yemek fotoğrafçılığı efektini sergileyen dikey 9:16 editoryal tarzda storyboard sayfası; düzenli bir 3 sütun × 4 satır ızgarada dizilmiş 12 adet sinematik makro çekim içerir. Her storyboard karesinin üst kısmında fotogerçekçi bir yemek fotoğrafı, alt kısmında ise Eylem, Kamera Açısı/Mercek, Kamera Hareketi, Geçiş ve Ses Efekti (SFX) notlarını içeren kısa teknik storyboard açıklamaları yer alır.
+
+Başlıklar:
+Üst Başlık:
+"CFSP-15"
+"POUR-OVER COFFEE"
+Alt Başlık:
+"RICHER MOMENTS IN EVERY SIP"
+Sağ Üst Köşe:
+"15 Seconds"
+"12 Micro-Shots"
+
+Görsel Stil:
+Lüks nitelikli kahve reklamı, ultra gerçekçi makro yemek fotoğrafçılığı, zengin ve koyu kahverengi tonları, sıcak yan-ters ışık efekti, sığ alan derinliği, parlak ve yağlı crema dokusu, gerçekçi kahve tozu ve gümüş zar (chaff) kırıntıları, krema kıvamında yoğun süt köpüğü parıltıları, sinematik ışık-gölge yansımaları, üst düzey reklam estetiği, fotogerçekçi 8K detaylar, profesyonel yemek stilistliği; tüm karelerde kahve çekirdekleri, ekipmanlar ve nihai ürün birebir tutarlıdır.
+
+12 Ardışık Çekim:
+
+01 — 0.0–1.2s — Kahvenin Kaynağı
+Taze kavrulmuş koyu kavrum kahve çekirdekleri pirinç değirmenin haznesine dökülür; gümüş zar kırıntıları rustik ahşap tezgâhın üzerine saçılmıştır.
+Eylem: Kahve çekirdeklerinin öğütücüye düşüşü.
+Kamera: 75mm Makro.
+Kamera Hareketi: Push-in (yaklaşma).
+Geçiş: Match cut (eşleşmeli kesme).
+SFX: Çekirdeklerin net ve gevrek çarpışma sesi.
+
+02 — 1.2–2.4s — Öğütme
+Bıçaklar yüksek hızda öğütür; koyu kahverengi kahve tozu ince bir kum gibi dökülür ve hafif bir toz sisi havalanır.
+Eylem: Kahve çekirdeklerinin homojen bir toz halinde öğütülmesi.
+Kamera: 90–100mm Makro.
+Kamera Hareketi: Toz çıkış ağzı etrafında dar dairesel çekim.
+Geçiş: Whip motion (kırbaç/hızlı savurma geçişi).
+SFX: Öğütmenin hışırtılı sesi.
+
+03 — 2.4–3.6s — Ön Demleme (Blooming)
+Kuğu boyunlu ibrikten çıkan sıcak su, kahve yatağına spiral bir yörüngeyle dökülür; toz katmanı kabarır ve şişer (bloom), ince köpük baloncukları kaynaşır.
+Eylem: Sıcak suyun kahve tozunu ıslatıp uyandırması.
+Kamera: 50mm Yakın çekim (Close-up).
+Kamera Hareketi: Tilt down (aşağı eğilme).
+Geçiş: Match cut.
+SFX: Suyun yumuşak dökülüş sesi ve patlayan baloncuk sesleri.
+
+04 — 3.6–4.8s — Crema Ekstraksiyonu
+Yoğun kahve akışı demlenerek süzülür; koyu kahverengi crema fincanın içinde yavaşça dağılır ve sıcak ışığı yansıtır.
+Eylem: Kahveden altın sarısı crema katmanının süzülmesi.
+Kamera: 50mm Yakın çekim.
+Kamera Hareketi: Push-in (yaklaşma).
+Geçiş: Match cut.
+SFX: Ekstraksiyonun derinden gelen uğultusu ve cremanın hafif cızırtısı.
+
+05 — 4.8–6.0s — Latte Art / Süt Köpüğü Döküşü
+Çırpılmış ipeksi süt köpüğü fincana dökülür, kahveyle bütünleşerek narin ve simetrik bir latte art deseni oluşturur.
+Eylem: Süt köpüğünün kahveyle kaynaşıp şekil alması.
+Kamera: 50mm Yakın çekim.
+Kamera Hareketi: Yavaş push-in.
+Geçiş: Match cut.
+SFX: Süt köpüğünün dökülüşündeki kadifemsi yumuşak ses.
+
+06 — 6.0–7.1s — Üst Süsleme
+Elek hafifçe sallanır, ince kakao tozu köpüğün yüzeyine kar gibi süzülerek kadifemsi bir doku oluşturur.
+Eylem: Kakao tozunun eşit şekilde serpilmesi.
+Kamera: 75mm Makro.
+Kamera Hareketi: Üst açıdan yavaşça alçalma.
+Geçiş: Match cut.
+SFX: Tozun hafif temas sesi.
+
+07 — 7.1–8.3s — Yükselen Buhar
+Kahvenin yüzeyinden narin buhar halkaları yükselir; sıcak ışık buharın içinden geçerek fincan kenarında yumuşak bir hale oluşturur.
+Eylem: Sıcak buharın doğal yükselişi.
+Kamera: 50mm Yakın çekim.
+Kamera Hareketi: Yavaş tilt up (yukarı eğilme).
+Geçiş: Dissolve (eriyerek geçiş).
+SFX: Sakin ve dingin ortam fısıltısı.
+
+08 — 8.3–9.4s — Fincanı Kavrama
+Parmaklar seramik fincanın sıcak yüzeyine nazikçe dokunur; sığ alan derinliğinde parmak boğumları ve fincan dokusu net, arka plan ise bulanıktır.
+Eylem: Parmakların kahve fincanını kaldırması.
+Kamera: 50mm Yakın çekim.
+Kamera Hareketi: Eli takip eden yatay kaydırma (pan).
+Geçiş: Match cut.
+SFX: Porselenin tezgâhtan ayrılırken çıkardığı hafif tıkırtı.
+
+09 — 9.4–10.6s — Sıvı Yüzeyinde Süzülüş
+Kamera sıvı yüzeyine teğet geçerek süzülür; crema yüzeyindeki yağlı yansımalar ve desen kıvrımları akışkan bir ayna parlaklığı oluşturur.
+Eylem: Kameranın kahve yüzeyini sıyırarak geçmesi.
+Kamera: 100mm Makro.
+Kamera Hareketi: Yüzeye yapışık yatay kaydırma.
+Geçiş: Match cut.
+SFX: Derin ve pürüzsüz yaylı çalgı glissando sesi.
+
+10 — 10.6–11.7s — Hafifçe Karıştırma
+Gümüş kaşık kahveyi nazikçe karıştırır; süt köpüğü ve kahve fincanın içinde zarif bir girdap dokusu çizer.
+Eylem: Gümüş kaşığın yavaşça karıştırması.
+Kamera: 75mm Makro.
+Kamera Hareketi: Gümüş kaşık etrafında dönme.
+Geçiş: Whip motion.
+SFX: Gümüş kaşığın fincan kenarına çarpışından gelen berrak ses.
+
+11 — 11.7–13.0s — İlk Yudum
+Kahve fincanı dudaklara götürülür; ön planda netsiz buhar, arka plandaki sıcak ışıkla birlikte keyifli ve huzurlu bir atmosfer çizer.
+Eylem: Fincanı kaldırıp küçük bir yudum alma.
+Kamera: 35mm Orta-yakın çekim (Medium Close-up).
+Kamera Hareketi: Yavaş push-in.
+Geçiş: Match cut.
+SFX: Hafif ve keyifli bir yudumlama sesi.
+
+12 — 13.0–15.0s — Marka Kapanışı
+Tamamlanmış bir fincan filtre kahve sıcak ışıklı tezgâhın ortasında durur; LOGO ve ürün adı koyu kahverengi arka plan üzerinde zarifçe donar.
+Eylem: Statik kapanış karesi.
+Kamera: 50mm Genel/Orta çekim.
+Kamera Hareketi: Yavaş pull-back (uzaklaşma).
+Geçiş: Fade out (kararma).
+SFX: Kapanışı belirten marka akoru.
 ```
 
 [↑ Kategorilere dön](#catalog)

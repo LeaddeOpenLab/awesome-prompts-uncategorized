@@ -5020,20 +5020,134 @@ Ultrarealistisches filmisches Fantasy-Porträt einer wunderschönen jungen Frau 
 
 <a name="prompt-2102276867164402042"></a>
 
-### Übersetzung läuft
+### Prompt für ein 12-teiliges Storyboard-Poster des Handfilterkaffee-Zubereitungsprozesses im hochwertigen Cinema-Look.
 
 Autor：[@XuekaiGao](https://x.com/XuekaiGao) · [Originalbeitrag](https://x.com/XuekaiGao/status/2102276867164402042)
 
 Comic / Storyboard · Plakat / Flyer · Kinematisch / Filmstill · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein 12-teiliges Storyboard-Poster des Handfilterkaffee-Zubereitungsprozesses im hochwertigen Cinema-Look.
 
 <img src="covers/2102276867164402042.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein Storyboard-Poster im High-End-Cinema-Look für den Zubereitungsprozess von handgefiltertem Kaffee („Pour-Over Coffee“).
+
+Format:
+Vertikale Storyboard-Seite im Editorial-Stil (9:16), mit exquisiter kommerzieller Food-Fotografie-Ästhetik; enthält 12 filmreife Makroaufnahmen, sauber angeordnet in einem Raster aus 3 Spalten × 4 Zeilen. Über jedem Storyboard-Feld befindet sich ein fotorealistisches Food-Foto, darunter knappe technische Storyboard-Notizen zu Aktion, Kameraeinstellung, Kamerabewegung, Übergang und Soundeffekten (SFX).
+
+Titel:
+Haupttitel oben:
+„CFSP-15“
+„POUR-OVER COFFEE“ (Handgefilterter Kaffee)
+Untertitel:
+„RICHER MOMENTS IN EVERY SIP“ (Vollerer Genuss mit jedem Schluck)
+Obere rechte Ecke:
+„15 Seconds“ (15 Sekunden)
+„12 Micro-Shots“ (12 Makroaufnahmen)
+
+Visueller Stil:
+Luxuriöse Werbeästhetik für Kaffeespezialitäten, ultrarealistische Makro-Food-Fotografie, tiefe dunkelbraune Kaffeetöne, warmes seitliches Gegenlicht, geringe Schärfentiefe, ölige Crema-Textur, realistisches Kaffeepulver mit Silberhäutchen-Partikeln (Chaff), sahnig-dichter Milchschaum mit Glanzlichtern, filmische Licht- und Schattenreflexionen, Premium-Werbelook, fotorealistische 8K-Details, professionelles Food-Styling; Kaffeebohnen, Utensilien und das fertige Produkt bleiben über alle Frames hinweg konsistent.
+
+12 aufeinanderfolgende Aufnahmen:
+
+01 — 0.0–1.2s — Der Ursprung des Kaffees
+Frisch geröstete, dunkel geröstete Kaffeebohnen fallen in den Messingtrichter der Mühle; Silberhäutchen-Reste liegen verstreut auf einer rustikalen Holzwerkbank.
+Aktion: Kaffeebohnen fallen in die Kaffeemühle.
+Kamera: 75mm Makro.
+Kamerabewegung: Push-in (Heranfahren).
+Übergang: Match Cut.
+SFX: Klares, knackiges Klappern aufeinandertreffender Bohnen.
+
+02 — 1.2–2.4s — Das Mahlen
+Das Mahlwerk rotiert mit hoher Geschwindigkeit; dunkelbraunes Kaffeepulver rieselt wie feiner Sand herab und wirbelt einen hauchzarten Pulvernebel auf.
+Aktion: Kaffeebohnen werden zu gleichmäßigem Pulver vermahlen.
+Kamera: 90–100mm Makro.
+Kamerabewegung: Enge Kreisbewegung um den Auswurf herum.
+Übergang: Whip Motion (Wischblende).
+SFX: Raschelndes, mahlendes Reibgeräusch.
+
+03 — 2.4–3.6s — Blooming und Aufguss
+Heißes Wasser aus dem Schwanenhalskessel wird spiralförmig auf das Kaffeebett gegossen; die Kaffeeschicht quillt auf (Bloom), feine Bläschen steigen auf.
+Aktion: Heißes Wasser durchtränkt und erweckt das Kaffeepulver.
+Kamera: 50mm Nahaufnahme.
+Kamerabewegung: Tilt-down (Neigung nach unten).
+Übergang: Match Cut.
+SFX: Sanftes Wasseraufgussgeräusch und zerplatzende Bläschen.
+
+04 — 3.6–4.8s — Crema-Extraktion
+Kaffee strömt kraftvoll aus der Brühgruppe; tiefbraune Crema breitet sich langsam in der Tasse aus und reflektiert warmes Licht.
+Aktion: Espresso extrahiert eine goldbraune Crema-Schicht.
+Kamera: 50mm Nahaufnahme.
+Kamerabewegung: Push-in (Heranfahren).
+Übergang: Match Cut.
+SFX: Dumpfes Summen der Extraktion und feines Zischen der Crema.
+
+05 — 4.8–6.0s — Latte Art mit Milchschaum
+Dichter, samtig aufgeschäumter Milchschaum fließt in die Tasse, verbindet sich mit dem Espresso und zeichnet eine feine, symmetrische Latte-Art-Maserung.
+Aktion: Milchschaum und Espresso verbinden sich zu Mustern.
+Kamera: 50mm Nahaufnahme.
+Kamerabewegung: Sanftes Heranfahren (Slow Push-in).
+Übergang: Match Cut.
+SFX: Weiches, cremiges Fließgeräusch des Milchschaums.
+
+06 — 6.0–7.1s — Garnierung
+Das Sieb vibriert leicht; feines Kakaopulver rieselt wie Schnee auf die Milchschaumoberfläche und erzeugt eine samtige Textur.
+Aktion: Gleichmäßiges Aufstreuen von Kakaopulver.
+Kamera: 75mm Makro.
+Kamerabewegung: Vogelperspektive, langsames Absenken.
+Übergang: Match Cut.
+SFX: Sanftes Rieseln von feinem Pulver.
+
+07 — 7.1–8.3s — Aufsteigender Dampf
+Zarter Dampf steigt von der Kaffeeoberfläche auf; warmes Licht durchdringt den Dampf und erzeugt eine weiche Korona am Tassenrand.
+Aktion: Dampf steigt natürlich auf.
+Kamera: 50mm Nahaufnahme.
+Kamerabewegung: Langsames Aufwärtsschwenken (Tilt-up).
+Übergang: Dissolve (Überblendung).
+SFX: Ruhiges, leises Raumrauschen.
+
+08 — 8.3–9.4s — Die Tasse greifen
+Finger berühren sanft die warme Keramikwand der Tasse; bei geringer Schärfentiefe sind Fingerknöchel und Tassentextur vor unscharfem Hintergrund gestochen scharf.
+Aktion: Finger heben die Kaffeetasse an.
+Kamera: 50mm Nahaufnahme.
+Kamerabewegung: Folgt der Handbewegung seitlich.
+Übergang: Match Cut.
+SFX: Leises Klacken der Keramiktasse auf der Tischplatte.
+
+09 — 9.4–10.6s — Über die Oberfläche gleiten
+Die Kamera gleitet knapp über die Flüssigkeitsoberfläche; ölige Reflexe der Crema und geschwungene Latte-Art-Linien erzeugen einen fließenden Spiegelglanz.
+Aktion: Die Kamera streift die Kaffeeoberfläche.
+Kamera: 100mm Makro.
+Kamerabewegung: Bodennahes horizontales Entlangfahren.
+Übergang: Match Cut.
+SFX: Tiefes, gleitendes Streicher-Glissando.
+
+10 — 10.6–11.7s — Sanftes Umrühren
+Ein Silberlöffel rührt den Kaffee behutsam um; Milchschaum und Kaffee bilden elegante Strudelwirbel in der Tasse.
+Aktion: Silberlöffel rührt langsam um.
+Kamera: 75mm Makro.
+Kamerabewegung: Kreisende Drehung um den Silberlöffel.
+Übergang: Whip Motion (Wischblende).
+SFX: Helles Klirren des Silberlöffels an der Tassenwand.
+
+11 — 11.7–13.0s — Anstoßen und Trinken
+Die Kaffeetasse wird an die Lippen geführt; unscharfer Dampf im Vordergrund und warmes Licht im Hintergrund schaffen eine behagliche Atmosphäre.
+Aktion: Tasse anheben für einen kleinen Schluck.
+Kamera: 35mm Halbnahaufnahme.
+Kamerabewegung: Sanftes Heranfahren (Push-in).
+Übergang: Match Cut.
+SFX: Sanftes Schlürf- bzw. Trinkgeräusch.
+
+12 — 13.0–15.0s — Marken-Standbild
+Eine vollendete Tasse Handfilterkaffee steht zentriert auf der warm erleuchteten Werkbank; LOGO und Produktname stehen elegant auf dunkelbraunem Hintergrund still.
+Aktion: Statisches Standbild.
+Kamera: 50mm Halbtotale.
+Kamerabewegung: Langsames Zurückfahren (Pull-back).
+Übergang: Fade-out (Abblende ins Dunkle).
+SFX: Abschließender Marken-Akkord.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

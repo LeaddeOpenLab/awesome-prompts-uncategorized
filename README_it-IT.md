@@ -5020,20 +5020,134 @@ Ritratto fantasy cinematografico ultra-realistico di una splendida giovane donna
 
 <a name="prompt-2102276867164402042"></a>
 
-### Traduzione in corso
+### Prompt per poster storyboard a 12 riquadri del processo di preparazione del caffè pour-over in qualità cinematografica premium.
 
 Autore：[@XuekaiGao](https://x.com/XuekaiGao) · [Post originale](https://x.com/XuekaiGao/status/2102276867164402042)
 
 Fumetto / Storyboard · Poster / Volantino · Fermo immagine cinematografico / Still fotografico · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per poster storyboard a 12 riquadri del processo di preparazione del caffè pour-over in qualità cinematografica premium.
 
 <img src="covers/2102276867164402042.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un poster storyboard dall'estetica cinematografica d'alta gamma che illustri il processo di preparazione del "caffè pour-over" (caffè filtro manuale).
+
+Formato:
+Pagina di storyboard verticale 9:16 in stile editoriale, con una raffinata resa da fotografia gastronomica commerciale; include 12 inquadrature macro cinematografiche disposte in una griglia ordinata di 3 colonne × 4 righe. Ogni riquadro presenta nella parte superiore una fotografia culinaria fotorealistica e nella parte inferiore brevi note tecniche di storyboard che descrivono azione, inquadratura, movimento di macchina, transizione ed effetti sonori (SFX).
+
+Titoli:
+Titolo superiore:
+«CFSP-15»
+«POUR-OVER COFFEE» (Caffè pour-over)
+Sottotitolo:
+«RICHER MOMENTS IN EVERY SIP» (Momenti più intensi a ogni sorso)
+Angolo in alto a destra:
+«15 Seconds» (15 secondi)
+«12 Micro-Shots» (12 riprese macro)
+
+Stile visivo:
+Pubblicità per specialty coffee di lusso, macrofotografia culinaria iperrealistica, tonalità profonde di caffè marrone scuro, calda luce laterale in controluce, profondità di campo ridotta, consistenza lucida e oleosa della crema, polvere di caffè realistica con frammenti di pellicola argentea (chaff), schiuma di latte densa e vellutata con punti luce cremosi, riflessi ed effetti di luce cinematografici, estetica pubblicitaria di alto livello, dettagli fotorealistici in 8K, food styling professionale; chicchi di caffè, utensili e prodotto finito mantengono la massima coerenza in tutti i riquadri.
+
+12 inquadrature continue:
+
+01 — 0.0–1.2s — L'origine del caffè
+Chicchi di caffè a tostatura scura appena tostati cadono nella tramoggia in ottone di un macinacaffè, frammenti di pellicola argentea sono sparsi su un rustico bancone in legno.
+Azione: I chicchi cadono nel macinacaffè.
+Inquadratura: Macro 75 mm.
+Movimento: Push-in (carrellata in avanti).
+Transizione: Match cut (stacco su raccordo).
+SFX: Tintinnio nitido e secco dei chicchi che si scontrano.
+
+02 — 1.2–2.4s — La macinatura
+Le macine ruotano ad alta velocità; la polvere di caffè marrone scuro scende come sabbia finissima sollevando una sottile nube di polvere impalpabile.
+Azione: I chicchi vengono macinati in polvere omogenea.
+Inquadratura: Macro 90–100 mm.
+Movimento: Rotazione ravvicinata attorno al condotto di uscita.
+Transizione: Whip motion (transizione a schiaffo).
+SFX: Fruscio sabbioso e continuo della macinatura.
+
+03 — 2.4–3.6s — Pre-infusione e versamento
+L'acqua calda dal bollitore a collo d'oca viene versata a spirale sul letto di caffè; lo strato di caffè si rigonfia (bloom) con fitte bollicine in superficie.
+Azione: L'acqua calda satura e risveglia la polvere di caffè.
+Inquadratura: Primo piano 50 mm.
+Movimento: Tilt-down (inclinazione verso il basso).
+Transizione: Match cut (stacco su raccordo).
+SFX: Suono dolce dell'acqua versata e scoppiettio delle bollicine.
+
+04 — 3.6–4.8s — Estrazione della crema
+Il caffè scorre vigoroso dal gruppo di erogazione; la crema marrone scuro si espande lentamente nella tazza riflettendo una luce calda.
+Azione: L'espresso estrae uno strato dorato di crema.
+Inquadratura: Primo piano 50 mm.
+Movimento: Push-in (carrellata in avanti).
+Transizione: Match cut (stacco su raccordo).
+SFX: Ronzio basso dell'estrazione e sfrigolio denso della crema.
+
+05 — 4.8–6.0s — Latte art con crema di latte
+La vellutata crema di latte montata viene versata nella tazza, fondendosi con l'espresso per delineare una trama di latte art delicata e simmetrica.
+Azione: Schiuma di latte ed espresso si fondono disegnando una figura.
+Inquadratura: Primo piano 50 mm.
+Movimento: Carrellata in avanti lenta.
+Transizione: Match cut (stacco su raccordo).
+SFX: Suono morbido e vellutato del latte versato.
+
+06 — 6.0–7.1s — Tocco finale sulla superficie
+Il colino vibra leggermente; cacao finissimo cade come neve sulla crema di latte creando una superficie vellutata.
+Azione: Spolverata uniforme di cacao amaro.
+Inquadratura: Macro 75 mm.
+Movimento: Discesa lenta dall'alto.
+Transizione: Match cut (stacco su raccordo).
+SFX: Fruscio leggero della polvere che si posa.
+
+07 — 7.1–8.3s — Vapore aromatico
+Sottili volute di vapore salgono dalla superficie del caffè; la luce calda attraversa il vapore creando un alone morbido attorno al bordo della tazza.
+Azione: Il vapore sale naturalmente.
+Inquadratura: Primo piano 50 mm.
+Movimento: Lenta inclinazione verso l'alto (tilt-up).
+Transizione: Dissolvenza (dissolve).
+SFX: Rumore d'ambiente quieto e soffuso.
+
+08 — 8.3–9.4s — Presa della tazza
+Le dita sfiorano la superficie tiepida della tazza in ceramica; a ridotta profondità di campo, le nocche e la matericità della tazza risaltano nitide sullo sfondo sfocato.
+Azione: Le dita sollevano la tazza di caffè.
+Inquadratura: Primo piano 50 mm.
+Movimento: Spostamento laterale al seguito della mano.
+Transizione: Match cut (stacco su raccordo).
+SFX: Leggero rintocco della tazza che si stacca dal ripiano.
+
+09 — 9.4–10.6s — Sfiorando la superficie
+La macchina da presa scivola a pelo d'acqua; i riflessi oleosi della crema e le curve della latte art formano uno specchio fluido e brillante.
+Azione: L'obiettivo sfiora la superficie del caffè.
+Inquadratura: Macro 100 mm.
+Movimento: Carrellata orizzontale radente.
+Transizione: Match cut (stacco su raccordo).
+SFX: Glissando profondo e soffuso di archi.
+
+10 — 10.6–11.7s — Mescolatura delicata
+Un cucchiaino d'argento mescola con cura il caffè; schiuma di latte e caffè ruotano nella tazza formando eleganti spirali.
+Azione: Il cucchiaino d'argento mescola lentamente.
+Inquadratura: Macro 75 mm.
+Movimento: Rotazione attorno al cucchiaino d'argento.
+Transizione: Whip motion (transizione a schiaffo).
+SFX: Tintinnio cristallino del cucchiaino contro la ceramica.
+
+11 — 11.7–13.0s — Il primo sorso
+La tazza viene portata alle labbra; il vapore sfocato in primo piano e la luce calda sullo sfondo creano un'atmosfera intima e rilassante.
+Azione: Sollevare la tazza per assaporare un sorso.
+Inquadratura: Mezzo primo piano 35 mm.
+Movimento: Carrellata in avanti lenta.
+Transizione: Match cut (stacco su raccordo).
+SFX: Leggero rumore del sorso.
+
+12 — 13.0–15.0s — Fermo immagine del brand
+La tazza completa di caffè pour-over troneggia al centro del bancone illuminato da luce calda; LOGO e nome del prodotto si stagliano con eleganza su sfondo marrone scuro.
+Azione: Fermo immagine statico.
+Inquadratura: Campo medio 50 mm.
+Movimento: Carrellata indietro lenta (pull-back).
+Transizione: Dissolvenza a nero (fade out).
+SFX: Accordo musicale conclusivo del brand.
 ```
 
 [↑ Torna alle categorie](#catalog)
