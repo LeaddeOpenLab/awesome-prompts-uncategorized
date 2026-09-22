@@ -10400,20 +10400,20 @@ parte superior do corpo e coxas, ângulo ligeiramente baixo, composição centra
 
 <a name="prompt-2102394726695801078"></a>
 
-### Tradução em andamento
+### Prompt de modelo de papercraft montável de uma idol feminina.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicação original](https://x.com/AI_money_club/status/2102394726695801078)
 
 Outros · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de modelo de papercraft montável de uma idol feminina.
 
 <img src="images/2102394726695801078-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um modelo de papercraft montável de uma idol japonesa adulta totalmente fictícia, incluindo rosto, cabelo, corpo e traje. Traje fofo de idol em rosa × branco × dourado. A cabeça tem o rosto impresso, e todas as partes como cabelo, tronco, braços, pernas, saia, botas e laços estão dispostas com linhas de corte, linhas de dobra e abas para colar. Molde imprimível em fundo branco. No canto inferior direito, exiba uma amostra da boneca de papercraft 3D montada.
 ```
 
 [↑ Voltar às categorias](#catalog)

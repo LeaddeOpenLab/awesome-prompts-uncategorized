@@ -10380,20 +10380,20 @@ Oberkörper und Oberschenkel, leicht tiefe Kameraperspektive, zentrierte Komposi
 
 <a name="prompt-2102394726695801078"></a>
 
-### Übersetzung läuft
+### Prompt für einen zusammenbaubaren Bastelbogen eines weiblichen Idols aus Papier.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Originalbeitrag](https://x.com/AI_money_club/status/2102394726695801078)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für einen zusammenbaubaren Bastelbogen eines weiblichen Idols aus Papier.
 
 <img src="images/2102394726695801078-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle einen zusammenbaubaren Papiermodell-Bastelbogen (Papercraft) eines völlig fiktiven erwachsenen japanischen weiblichen Idols, einschließlich Gesicht, Haare, Körper und Outfit. Süßes Idol-Kostüm in Rosa × Weiß × Gold. Auf dem Kopf ist das Gesicht aufgedruckt, und alle Teile wie Haare, Torso, Arme, Beine, Rock, Stiefel und Schleifen sind mit Schnittlinien, Faltlinien und Klebelaschen angeordnet. Druckfertiger Bastelbogen auf weißem Hintergrund. Unten rechts wird ein Muster der fertigen 3D-Papercraft-Puppe angezeigt.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -10400,20 +10400,20 @@ bağlı bilekler, kelepçeler, tasma, dağınık saçlar, hafif ter, 1.3::uylukl
 
 <a name="prompt-2102394726695801078"></a>
 
-### Çeviri sürüyor
+### Birleştirilebilir kadın idol kâğıt maket şablonu istemi.
 
 Yazar：[@AI\_money\_club](https://x.com/AI_money_club) · [Orijinal gönderi](https://x.com/AI_money_club/status/2102394726695801078)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Birleştirilebilir kadın idol kâğıt maket şablonu istemi.
 
 <img src="images/2102394726695801078-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Yüz, saç, vücut ve kıyafet dahil olmak üzere tamamen kurgusal bir yetişkin Japon kadın idolün birleştirilebilir bir kâğıt maket (papercraft) şablonunu oluşturun. Pembe × beyaz × altın rengi sevimli idol kostümü. Baş kısmında yüz basılıdır ve saç, gövde, kollar, bacaklar, etek, çizmeler, kurdeleler gibi tüm parçalar kesim çizgileri, katlama çizgileri ve yapıştırma kulakçıklarıyla birlikte yerleştirilmiştir. Beyaz arka planda yazdırılabilir açınım şablonu. Sağ altta tamamlanmış 3D kâğıt maket bebeğin bir örneği gösterilmektedir.
 ```
 
 [↑ Kategorilere dön](#catalog)

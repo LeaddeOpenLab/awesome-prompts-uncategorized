@@ -10497,20 +10497,20 @@ phần thân trên và đùi, góc máy hơi thấp, bố cục trung tâm, khun
 
 <a name="prompt-2102394726695801078"></a>
 
-### Đang dịch
+### Lời nhắc bản thiết kế mô hình giấy có thể lắp ráp của nữ thần tượng.
 
 Tác giả：[@AI\_money\_club](https://x.com/AI_money_club) · [Bài gốc](https://x.com/AI_money_club/status/2102394726695801078)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc bản thiết kế mô hình giấy có thể lắp ráp của nữ thần tượng.
 
 <img src="images/2102394726695801078-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo bản thiết kế mô hình giấy (papercraft) có thể lắp ráp của một nữ thần tượng Nhật Bản trưởng thành hoàn toàn hư cấu, bao gồm khuôn mặt, tóc, cơ thể và trang phục. Trang phục thần tượng dễ thương với tông màu hồng × trắng × vàng kim. Phần đầu được in sẵn khuôn mặt, tất cả các bộ phận như tóc, thân, tay, chân, váy, bốt, nơ đều được bố trí kèm đường cắt, đường gấp và các mép dán. Bản vẽ mẫu in trên nền trắng. Ở góc dưới bên phải hiển thị mẫu búp bê mô hình giấy 3D hoàn chỉnh.
 ```
 
 [↑ Về danh mục](#catalog)

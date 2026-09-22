@@ -10380,20 +10380,20 @@ haut du corps et cuisses, angle légèrement plongeant vers le haut, composition
 
 <a name="prompt-2102394726695801078"></a>
 
-### Traduction en cours
+### Prompt de patron papercraft à assembler d'une idole féminine.
 
 Auteur：[@AI\_money\_club](https://x.com/AI_money_club) · [Publication originale](https://x.com/AI_money_club/status/2102394726695801078)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de patron papercraft à assembler d'une idole féminine.
 
 <img src="images/2102394726695801078-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créer un patron de papercraft à assembler représentant une idole féminine japonaise adulte entièrement fictive, comprenant le visage, les cheveux, le corps et le costume. Costume d'idole mignon rose × blanc × or. La tête a le visage imprimé, et toutes les pièces telles que les cheveux, le torse, les bras, les jambes, la jupe, les bottes et les rubans sont disposées avec des lignes de découpe, des lignes de pliage et des languettes d'encollage. Patron imprimable sur fond blanc. En bas à droite, afficher un modèle de la poupée papercraft 3D assemblée.
 ```
 
 [↑ Retour aux catégories](#catalog)

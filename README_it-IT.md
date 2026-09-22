@@ -10380,20 +10380,20 @@ busto e cosce, angolazione leggermente dal basso, composizione centrata, inquadr
 
 <a name="prompt-2102394726695801078"></a>
 
-### Traduzione in corso
+### Prompt per lo schema di un papercraft assemblabile di una idol femminile.
 
 Autore：[@AI\_money\_club](https://x.com/AI_money_club) · [Post originale](https://x.com/AI_money_club/status/2102394726695801078)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per lo schema di un papercraft assemblabile di una idol femminile.
 
 <img src="images/2102394726695801078-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un modello di papercraft assemblabile di una idol giapponese adulta completamente fittizia, comprensivo di viso, capelli, corpo e costume. Carino costume da idol rosa × bianco × oro. La testa ha il viso stampato, e tutte le parti come capelli, busto, braccia, gambe, gonna, stivali e nastri sono disposte con linee di ritaglio, linee di piegatura e alette per l'incollaggio. Schema per la stampa su sfondo bianco. In basso a destra è mostrato un modello della bambola papercraft 3D completata.
 ```
 
 [↑ Torna alle categorie](#catalog)

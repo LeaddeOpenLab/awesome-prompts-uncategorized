@@ -10498,20 +10498,20 @@ torso y muslos, ángulo ligeramente contrapicado, composición centrada, encuadr
 
 <a name="prompt-2102394726695801078"></a>
 
-### Traducción en curso
+### Prompt de una plantilla desplegable de papercraft ensamblable de una idol femenina.
 
 Autor：[@AI\_money\_club](https://x.com/AI_money_club) · [Publicación original](https://x.com/AI_money_club/status/2102394726695801078)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de una plantilla desplegable de papercraft ensamblable de una idol femenina.
 
 <img src="images/2102394726695801078-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crear una plantilla desplegable de papercraft recortable y ensamblable de una idol femenina japonesa adulta completamente ficticia, que incluya rostro, cabello, cuerpo y atuendo. Lindo traje de idol en colores rosa × blanco × dorado. La cabeza tiene el rostro impreso, y todas las piezas como cabello, torso, brazos, piernas, falda, botas y lazos están dispuestas con líneas de corte, líneas de plegado y pestañas para pegar. Plantilla para imprimir sobre fondo blanco. En la esquina inferior derecha se muestra una muestra de la muñeca de papercraft en 3D completada.
 ```
 
 [↑ Volver a categorías](#catalog)
