@@ -7220,13 +7220,13 @@ use separately provided appearance, right side, head lowered, avoiding eye conta
 
 <a name="prompt-2102401580142313655"></a>
 
-### 번역 중
+### 깔끔한 선과 디테일한 의상이 돋보이는 스타일리시한 애니메이션 캐릭터 인물화.
 
 작성자：[@Awed\_Urshy](https://x.com/Awed_Urshy) · [원본 게시물](https://x.com/Awed_Urshy/status/2102401580142313655)
 
 애니메이션 / 만화 · 인물 사진 / 셀카 · 캐릭터 · 패션 아이템 · 배포 완료
 
-**요약:** 번역 중
+**요약:** 깔끔한 선과 디테일한 의상이 돋보이는 스타일리시한 애니메이션 캐릭터 인물화.
 
 <img src="images/2102401580142313655-1.jpg" alt="이미지 1" width="480" />
 
@@ -7235,7 +7235,7 @@ use separately provided appearance, right side, head lowered, avoiding eye conta
 **프롬프트**
 
 ```text
-번역 중
+스타일리시한 애니메이션 캐릭터 인물화, 깔끔한 라인 아트, 디테일한 의상, 세련된 조명
 ```
 
 [↑ 카테고리로 돌아가기](#catalog)

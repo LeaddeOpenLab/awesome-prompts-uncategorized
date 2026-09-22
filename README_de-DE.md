@@ -7131,13 +7131,13 @@ Komposition:
 
 <a name="prompt-2102401580142313655"></a>
 
-### Übersetzung läuft
+### Stilvolles Anime-Charakterporträt mit sauberen Linien und detaillierter Kleidung.
 
 Autor：[@Awed\_Urshy](https://x.com/Awed_Urshy) · [Originalbeitrag](https://x.com/Awed_Urshy/status/2102401580142313655)
 
 Anime / Manga · Porträt / Selfie · Charakter · Modeartikel · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Stilvolles Anime-Charakterporträt mit sauberen Linien und detaillierter Kleidung.
 
 <img src="images/2102401580142313655-1.jpg" alt="Bild 1" width="480" />
 
@@ -7146,7 +7146,7 @@ Anime / Manga · Porträt / Selfie · Charakter · Modeartikel · Veröffentlich
 **Prompt**
 
 ```text
-Übersetzung läuft
+ein stilvolles Anime-Charakterporträt, saubere Linienkunst, detaillierte Kleidung, ausgefeilte Beleuchtung
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -7131,13 +7131,13 @@ Composition :
 
 <a name="prompt-2102401580142313655"></a>
 
-### Traduction en cours
+### Portrait élégant de personnage d'anime avec des lignes épurées et des vêtements détaillés.
 
 Auteur：[@Awed\_Urshy](https://x.com/Awed_Urshy) · [Publication originale](https://x.com/Awed_Urshy/status/2102401580142313655)
 
 Anime / Manga · Portrait / Selfie · Personnage · Article de mode · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Portrait élégant de personnage d'anime avec des lignes épurées et des vêtements détaillés.
 
 <img src="images/2102401580142313655-1.jpg" alt="Image 1" width="480" />
 
@@ -7146,7 +7146,7 @@ Anime / Manga · Portrait / Selfie · Personnage · Article de mode · Publié
 **Consigne**
 
 ```text
-Traduction en cours
+un portrait élégant de personnage d'anime, dessin au trait net, vêtements détaillés, éclairage soigné
 ```
 
 [↑ Retour aux catégories](#catalog)

@@ -7238,13 +7238,13 @@ Bố cục:
 
 <a name="prompt-2102401580142313655"></a>
 
-### Đang dịch
+### Chân dung nhân vật anime phong cách với các đường nét gọn gàng và trang phục chi tiết.
 
 Tác giả：[@Awed\_Urshy](https://x.com/Awed_Urshy) · [Bài gốc](https://x.com/Awed_Urshy/status/2102401580142313655)
 
 Anime / Manga · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng thời trang · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Chân dung nhân vật anime phong cách với các đường nét gọn gàng và trang phục chi tiết.
 
 <img src="images/2102401580142313655-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -7253,7 +7253,7 @@ Anime / Manga · Chân dung / Ảnh tự chụp · Nhân vật · Mặt hàng th
 **Câu lệnh**
 
 ```text
-Đang dịch
+chân dung nhân vật anime phong cách, nét vẽ gọn gàng, trang phục chi tiết, ánh sáng trau chuốt
 ```
 
 [↑ Về danh mục](#catalog)

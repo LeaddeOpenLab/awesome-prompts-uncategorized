@@ -7131,13 +7131,13 @@ Composizione:
 
 <a name="prompt-2102401580142313655"></a>
 
-### Traduzione in corso
+### Elegante ritratto di personaggio anime con linee pulite e abbigliamento dettagliato.
 
 Autore：[@Awed\_Urshy](https://x.com/Awed_Urshy) · [Post originale](https://x.com/Awed_Urshy/status/2102401580142313655)
 
 Anime / Manga · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Elegante ritratto di personaggio anime con linee pulite e abbigliamento dettagliato.
 
 <img src="images/2102401580142313655-1.jpg" alt="Immagine 1" width="480" />
 
@@ -7146,7 +7146,7 @@ Anime / Manga · Ritratto / Selfie · Personaggio · Articolo di moda · Pubblic
 **Prompt**
 
 ```text
-Traduzione in corso
+un elegante ritratto di un personaggio anime, line art pulita, abbigliamento dettagliato, illuminazione raffinata
 ```
 
 [↑ Torna alle categorie](#catalog)

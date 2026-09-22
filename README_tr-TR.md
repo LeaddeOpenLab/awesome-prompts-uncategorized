@@ -7161,13 +7161,13 @@ Kompozisyon:
 
 <a name="prompt-2102401580142313655"></a>
 
-### Çeviri sürüyor
+### Temiz çizgilere ve detaylı kıyafetlere sahip şık anime karakteri portresi.
 
 Yazar：[@Awed\_Urshy](https://x.com/Awed_Urshy) · [Orijinal gönderi](https://x.com/Awed_Urshy/status/2102401580142313655)
 
 Anime / Manga · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Temiz çizgilere ve detaylı kıyafetlere sahip şık anime karakteri portresi.
 
 <img src="images/2102401580142313655-1.jpg" alt="Görsel 1" width="480" />
 
@@ -7176,7 +7176,7 @@ Anime / Manga · Portre / Selfie · Karakter · Moda Ürünü · Yayımlandı
 **İstem**
 
 ```text
-Çeviri sürüyor
+şık bir anime karakteri portresi, temiz çizim sanatı, detaylı kıyafetler, özenli aydınlatma
 ```
 
 [↑ Kategorilere dön](#catalog)
