@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T12:27:15.459Z",
+  "model": "unknown-image",
+  "prompt": "Crea una fotografía editorial surrealista, cuadrada, que represente literalmente el refrán «[REFRÁN]». Escena construida con objetos físicos en miniatura; una sola composición ingeniosa y fácilmente reconocible. Fondo continuo marfil cálido, luz natural difusa desde arriba a la izquierda, sombras realistas, materiales táctiles y detalles en azul cobalto y coral apagado. Estética sofisticada y juguetona de revista, lente de 50 mm, alta resolución. Sin personas, texto, letras, números, logotipos, marcos ni collage.",
+  "promptTranslations": {
+    "en": "Create a surreal, square editorial photograph that literally depicts the proverb \"[PROVERB]\". A scene constructed with miniature physical objects; a single, clever, and easily recognizable composition. Seamless warm ivory background, soft natural light from the top left, realistic shadows, tactile materials, and accents of cobalt blue and muted coral. Sophisticated and playful magazine aesthetic, 50mm lens, high resolution. No people, text, letters, numbers, logos, frames, or collage."
+  },
+  "summaryTranslations": {
+    "en": "Prompt template for generating surreal editorial images that stage popular proverbs using miniature objects on an ivory background with cobalt blue accents."
+  },
+  "translationVersion": 2,
+  "summary": "Plantilla de prompt para generar imágenes editoriales surrealistas que escenifican refranes populares mediante objetos en miniatura con fondo marfil y detalles en azul cobalto.",
+  "summaryEn": "Prompt template for generating surreal editorial images depicting literal sayings using miniature objects, an ivory background, and cobalt blue accents.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102369781504414039",
+    "canonicalUrl": "https://x.com/hmontilla_/status/2102369781504414039",
+    "author": {
+      "username": "hmontilla_",
+      "displayName": "Henry M. | IA Práctica",
+      "profileUrl": "https://x.com/hmontilla_"
+    },
+    "publishedAt": "2026-09-22T12:09:50.000Z",
+    "collectedAt": "2026-09-22T12:15:28.194Z",
+    "language": "es",
+    "originalText": "📌 PROMPT PARA GUARDAR\n\n¿Y si fotografiáramos los refranes literalmente? 👀\n\nConvertí cuatro expresiones en bodegones surrealistas: una aguja en un pajar, lluvia sobre mojado, todos los huevos en una canasta y una forma bastante cálida de romper el hielo.\n\nDesliza las imágenes y prueba el prompt con ese refrán que siempre dices. ¿Cuál debería ser el siguiente?\n\nPROMPT:\nCrea una fotografía editorial surrealista, cuadrada, que represente literalmente el refrán «[REFRÁN]». Escena construida con objetos físicos en miniatura; una sola composición ingeniosa y fácilmente reconocible. Fondo continuo marfil cálido, luz natural difusa desde arriba a la izquierda, sombras realistas, materiales táctiles y detalles en azul cobalto y coral apagado. Estética sofisticada y juguetona de revista, lente de 50 mm, alta resolución. Sin personas, texto, letras, números, logotipos, marcos ni collage.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0eJApXYAAECap.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0eJApXYAAECap.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0eJApWIAAe6CY.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0eJApWIAAe6CY.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0eJAqWUAAT4ns.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0eJAqWUAAT4ns.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0eJAnWwAAN0D3.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0eJAnWwAAN0D3.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 3
+    },
+    "matchedRuleIds": [
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:es:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/hmontilla_/status/2102369781504414039",
+  "coverUrl": "https://pbs.twimg.com/media/HS0eJApXYAAECap.jpg",
+  "coverPath": "images/2102369781504414039-1.jpg",
+  "imagePaths": [
+    "images/2102369781504414039-1.jpg",
+    "images/2102369781504414039-2.jpg",
+    "images/2102369781504414039-3.jpg",
+    "images/2102369781504414039-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS0eJApXYAAECap",
+    "x-image:/media/HS0eJApWIAAe6CY",
+    "x-image:/media/HS0eJAqWUAAT4ns",
+    "x-image:/media/HS0eJAnWwAAN0D3",
+    "x-post:2102369781504414039"
+  ],
+  "analysis": {
+    "summary": "Plantilla de prompt para generar imágenes editoriales surrealistas que escenifican refranes populares mediante objetos en miniatura con fondo marfil y detalles en azul cobalto.",
+    "summaryEn": "Prompt template for generating surreal editorial images depicting literal sayings using miniature objects, an ivory background, and cobalt blue accents.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Las cuatro imágenes muestran exactamente los elementos estilísticos del prompt: fondo marfil, luz difusa, detalles en azul cobalto y representaciones literales de refranes con miniaturas."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Crea una fotografía editorial surrealista, cuadrada, que represente literalmente el refrán «[REFRÁN]». Escena construida con objetos físicos en miniatura; una sola composición ingeniosa y fácilmente reconocible. Fondo continuo marfil cálido, luz natural difusa desde arriba a la izquierda, sombras realistas, materiales táctiles y detalles en azul cobalto y coral apagado. Estética sofisticada y juguetona de revista, lente de 50 mm, alta resolución. Sin personas, texto, letras, números, logotipos, marcos ni collage.",
+    "sourceRange": {
+      "start": 370,
+      "end": 888
+    },
+    "translations": {
+      "zh": "创作一张超现实的编辑摄影风格正方形图片，字面表现谚语“「谚语」”。场景由微型实体物件构建；精巧且极易识别的单一构图。暖象牙色无缝背景，左上方柔和的自然散射光，逼真阴影，具质感的材质，伴有钴蓝与柔和珊瑚色的点缀。精致俏皮的杂志美学，50mm镜头，高分辨率。无人物、文字、字母、数字、Logo、边框或拼贴。",
+      "en": "Create a surreal editorial, square photograph that literally represents the saying \"[SAYING]\". Scene built with miniature physical objects; a single clever and easily recognizable composition. Warm ivory seamless background, diffused natural light from upper left, realistic shadows, tactile materials, and accents in cobalt blue and muted coral. Sophisticated and playful magazine aesthetic, 50mm lens, high resolution. No people, text, letters, numbers, logos, frames, or collage."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "fotografía editorial surrealista de refranes literales",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

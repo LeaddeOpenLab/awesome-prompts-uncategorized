@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T12:26:30.986Z",
+  "model": "unknown-image",
+  "prompt": "制作一张竖向 3:4 的上下对比旅行转绘海报。上半部约 40%–50% 保留输入照片本身，保持主体数量、人物或动物姿态、道路/建筑/地形结构、观察角度、光线和自然色彩，只做轻微出版级调色；不要把照片画成插画，不要替换地标或改变人物。\n下半部将同一场景重构为可触摸的粗糙实体墙面浮雕，不复制完整照片取景。把关键建筑、道路、护栏、山脊、树冠、桌面或器物压缩为有厚度的分层块体，改变主体尺度、裁切和信息密度。底材为粗糙矿物涂层墙、石膏板、纸浆板或手工水泥质感，须有颗粒、铲痕、压痕、裂缝、崩边、侧面厚度和接触阴影。\n只从照片中选择一个有叙事性的元素溢出，例如海水、雨水、烟雾、树根、藤蔓、道路边线、织物或建筑构件；让它从浮雕缝隙、孔洞或底边延伸约 5%–20% 画幅，并具备真实材质的投影、反光、颗粒或纤维。色彩从输入照片提取并压缩为 3–7 种哑光矿物色。下半保留连续低信息空场，并写入 RELIEF、RELIEF STUDY 01、ONE MATERIAL ESCAPES THE SCENE。不要拼贴、网格、马赛克、珠片、平滑塑料 3D、数码故障、Logo、水印、原图或 AI 图角",
+  "promptTranslations": {
+    "en": "Create a vertical 3:4 top-and-bottom split-contrast travel reimagined poster. The upper portion, occupying approximately 40%–50%, preserves the input photograph itself, retaining the number of subjects, postures of people or animals, road/architectural/terrain structures, viewing angles, lighting, and natural colors, with only subtle editorial-grade color grading; do not turn the photograph into an illustration, do not replace landmarks, and do not alter people. The lower portion reconstructs the identical scene into a tactile, rough physical wall relief, without duplicating the full photographic framing. Compress key buildings, roads, railings, ridgelines, tree canopies, tabletops, or objects into layered blocks with physical thickness, altering subject scales, cropping, and information density. The base material is a rough mineral-coated wall, plasterboard, paper pulp board, or handmade cement texture, which must feature grains, trowel marks, indentations, cracks, chipped edges, lateral thickness, and contact shadows. Select only a single narrative element from the photo to spill over—such as seawater, rainwater, smoke, tree roots, vines, road edges, fabric, or architectural components; let it extend out from relief gaps, cavities, or the bottom edge across roughly 5%–20% of the frame, possessing realistic material drop shadows, specular highlights, grains, or fibers. Colors are extracted from the input photo and compressed into 3–7 matte mineral tones. The lower section preserves a continuous low-information negative space, with the text RELIEF, RELIEF STUDY 01, ONE MATERIAL ESCAPES THE SCENE inscribed. No collages, grids, mosaics, sequins, smooth plastic 3D, digital glitches, logos, watermarks, original image borders, or AI image corners."
+  },
+  "summaryTranslations": {
+    "en": "Top-and-bottom split travel poster: the upper section preserves the original photograph, while the lower section reconstructs it as a rough physical wall relief, featuring a single narrative element spilling over the boundary along with designated typographic text."
+  },
+  "translationVersion": 2,
+  "summary": "上下分栏旅行海报：上半部保留原图，下半部重构为粗糙墙面实体浮雕，单一叙事元素溢出边界并带有指定排版文字。",
+  "summaryEn": "A vertical split-layout poster prompt keeping the original photo on top and converting it into a tactile wall relief below with overflowing elements and typographic text.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102342536597758245",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2102342536597758245",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-22T10:21:35.000Z",
+    "collectedAt": "2026-09-22T12:15:28.194Z",
+    "language": "zh",
+    "originalText": "【PHOTO-EMBEDDED RELIEF OVERFLOW｜照片嵌入浮雕溢景风】\n\n粗糙墙面、分层块体、缝隙与接触阴影建立材料厚度；溢出元素则把照片中的空间关系带出画面。\n\nprompt:\n制作一张竖向 3:4 的上下对比旅行转绘海报。上半部约 40%–50% 保留输入照片本身，保持主体数量、人物或动物姿态、道路/建筑/地形结构、观察角度、光线和自然色彩，只做轻微出版级调色；不要把照片画成插画，不要替换地标或改变人物。\n下半部将同一场景重构为可触摸的粗糙实体墙面浮雕，不复制完整照片取景。把关键建筑、道路、护栏、山脊、树冠、桌面或器物压缩为有厚度的分层块体，改变主体尺度、裁切和信息密度。底材为粗糙矿物涂层墙、石膏板、纸浆板或手工水泥质感，须有颗粒、铲痕、压痕、裂缝、崩边、侧面厚度和接触阴影。\n只从照片中选择一个有叙事性的元素溢出，例如海水、雨水、烟雾、树根、藤蔓、道路边线、织物或建筑构件；让它从浮雕缝隙、孔洞或底边延伸约 5%–20% 画幅，并具备真实材质的投影、反光、颗粒或纤维。色彩从输入照片提取并压缩为 3–7 种哑光矿物色。下半保留连续低信息空场，并写入 RELIEF、RELIEF STUDY 01、ONE MATERIAL ESCAPES THE SCENE。不要拼贴、网格、马赛克、珠片、平滑塑料 3D、数码故障、Logo、水印、原图或 AI 图角",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuO5nCasAALRje.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuO5nCasAALRje.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuO6F0asAAm4AV.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuO6F0asAAm4AV.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuO7E-b0AAojcR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuO7E-b0AAojcR.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSuO74obMAAKf5h.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSuO74obMAAKf5h.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 320
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2102342536597758245",
+  "coverUrl": "https://pbs.twimg.com/media/HSuO5nCasAALRje.jpg",
+  "coverPath": "images/2102342536597758245-1.jpg",
+  "imagePaths": [
+    "images/2102342536597758245-1.jpg",
+    "images/2102342536597758245-2.jpg",
+    "images/2102342536597758245-3.jpg",
+    "images/2102342536597758245-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSuO5nCasAALRje",
+    "x-image:/media/HSuO6F0asAAm4AV",
+    "x-image:/media/HSuO7E-b0AAojcR",
+    "x-image:/media/HSuO74obMAAKf5h",
+    "x-post:2102342536597758245"
+  ],
+  "analysis": {
+    "summary": "上下分栏旅行海报：上半部保留原图，下半部重构为粗糙墙面实体浮雕，单一叙事元素溢出边界并带有指定排版文字。",
+    "summaryEn": "A vertical split-layout poster prompt keeping the original photo on top and converting it into a tactile wall relief below with overflowing elements and typographic text.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像完美呈现上半部原图、下半部粗糙浮雕以及浪花溢出画框的结构，附带文字排版完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "制作一张竖向 3:4 的上下对比旅行转绘海报。上半部约 40%–50% 保留输入照片本身，保持主体数量、人物或动物姿态、道路/建筑/地形结构、观察角度、光线和自然色彩，只做轻微出版级调色；不要把照片画成插画，不要替换地标或改变人物。\n下半部将同一场景重构为可触摸的粗糙实体墙面浮雕，不复制完整照片取景。把关键建筑、道路、护栏、山脊、树冠、桌面或器物压缩为有厚度的分层块体，改变主体尺度、裁切和信息密度。底材为粗糙矿物涂层墙、石膏板、纸浆板或手工水泥质感，须有颗粒、铲痕、压痕、裂缝、崩边、侧面厚度和接触阴影。\n只从照片中选择一个有叙事性的元素溢出，例如海水、雨水、烟雾、树根、藤蔓、道路边线、织物或建筑构件；让它从浮雕缝隙、孔洞或底边延伸约 5%–20% 画幅，并具备真实材质的投影、反光、颗粒或纤维。色彩从输入照片提取并压缩为 3–7 种哑光矿物色。下半保留连续低信息空场，并写入 RELIEF、RELIEF STUDY 01、ONE MATERIAL ESCAPES THE SCENE。不要拼贴、网格、马赛克、珠片、平滑塑料 3D、数码故障、Logo、水印、原图或 AI 图角",
+    "sourceRange": {
+      "start": 97,
+      "end": 588
+    },
+    "translations": {
+      "zh": "制作一张竖向 3:4 的上下对比旅行转绘海报。上半部约 40%–50% 保留输入照片本身，保持主体数量、人物或动物姿态、道路/建筑/地形结构、观察角度、光线和自然色彩，只做轻微出版级调色；不要把照片画成插画，不要替换地标或改变人物。\n下半部将同一场景重构为可触摸的粗糙实体墙面浮雕，不复制完整照片取景。把关键建筑、道路、护栏、山脊、树冠、桌面或器物压缩为有厚度的分层块体，改变主体尺度、裁切和信息密度。底材为粗糙矿物涂层墙、石膏板、纸浆板或手工水泥质感，须有颗粒、铲痕、压痕、裂缝、崩边、侧面厚度和接触阴影。\n只从照片中选择一个有叙事性的元素溢出，例如海水、雨水、烟雾、树根、藤蔓、道路边线、织物或建筑构件；让它从浮雕缝隙、孔洞或底边延伸约 5%–20% 画幅，并具备真实材质的投影、反光、颗粒或纤维。色彩从输入照片提取并压缩为 3–7 种哑光矿物色。下半保留连续低信息空场，并写入 RELIEF、RELIEF STUDY 01、ONE MATERIAL ESCAPES THE SCENE。不要拼贴、网格、马赛克、珠片、平滑塑料 3D、数码故障、Logo、水印、原图或 AI 图角",
+      "en": "Create a vertical 3:4 split-layout travel poster. The upper 40%–50% retains the input photograph with minimal publication grading, preserving subjects, architecture, perspective, and lighting. The lower section reconstructs the scene into a tactile textured wall relief using layered mineral, plaster, or concrete forms with cracks, edges, and shadows. A single narrative element (e.g., ocean water) escapes 5%–20% beyond the relief edge with realistic projections. The palette is compressed into 3–7 matte mineral tones. Include typography: RELIEF, RELIEF STUDY 01, ONE MATERIAL ESCAPES THE SCENE."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "照片嵌入式浮雕溢景旅行海报生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

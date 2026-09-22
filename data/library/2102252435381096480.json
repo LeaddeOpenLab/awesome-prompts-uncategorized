@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-22T12:27:54.498Z",
+  "model": "unknown-image",
+  "prompt": "Ultra-realistic luxury hotel bathroom mirror selfie of a beautiful young woman with long, naturally wavy blonde hair, wearing a fitted black zip-up jacket and high-waisted dark wide-leg jeans with open-toe sandals. She stands casually in front of a large full-length mirror, holding a modern smartphone in one hand while looking at the phone screen, with her other hand resting naturally in her jeans pocket. Elegant modern hotel bathroom, dark marble walls, warm ambient lighting, white towels, stylish vanity and subtle greenery in the background. Natural realistic skin texture, authentic facial features, detailed hair strands, realistic hands and clothing, soft cinematic lighting, high-end photography, 50mm lens, shallow depth of field, HDR, photorealistic, ultra-detailed, 8K quality, natural proportions, full-body composition, no text, no watermark, no distortion, no CGI or cartoon look.",
+  "promptTranslations": {
+    "en": "Ultra-realistic luxury hotel bathroom mirror selfie of a beautiful young woman with long, naturally wavy blonde hair, wearing a fitted black zip-up jacket and high-waisted dark wide-leg jeans with open-toe sandals. She stands casually in front of a large full-length mirror, holding a modern smartphone in one hand while looking at the phone screen, with her other hand resting naturally in her jeans pocket. Elegant modern hotel bathroom, dark marble walls, warm ambient lighting, white towels, stylish vanity and subtle greenery in the background. Natural realistic skin texture, authentic facial features, detailed hair strands, realistic hands and clothing, soft cinematic lighting, high-end photography, 50mm lens, shallow depth of field, HDR, photorealistic, ultra-detailed, 8K quality, natural proportions, full-body composition, no text, no watermark, no distortion, no CGI or cartoon look."
+  },
+  "summaryTranslations": {
+    "en": "Ultra-realistic luxury hotel bathroom mirror selfie of a blonde woman in a black jacket and wide-leg jeans."
+  },
+  "translationVersion": 2,
+  "summary": "Ultra-realistic luxury hotel bathroom mirror selfie of a blonde woman in a black jacket and wide-leg jeans.",
+  "summaryEn": "Ultra-realistic luxury hotel bathroom mirror selfie of a blonde woman in a black jacket and wide-leg jeans.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102252435381096480",
+    "canonicalUrl": "https://x.com/oju689/status/2102252435381096480",
+    "author": {
+      "username": "oju689",
+      "displayName": "strike",
+      "profileUrl": "https://x.com/oju689"
+    },
+    "publishedAt": "2026-09-22T04:23:33.000Z",
+    "collectedAt": "2026-09-22T12:15:28.194Z",
+    "language": "en",
+    "originalText": "Prompt:\n\nUltra-realistic luxury hotel bathroom mirror selfie of a beautiful young woman with long, naturally wavy blonde hair, wearing a fitted black zip-up jacket and high-waisted dark wide-leg jeans with open-toe sandals. She stands casually in front of a large full-length mirror, holding a modern smartphone in one hand while looking at the phone screen, with her other hand resting naturally in her jeans pocket. Elegant modern hotel bathroom, dark marble walls, warm ambient lighting, white towels, stylish vanity and subtle greenery in the background. Natural realistic skin texture, authentic facial features, detailed hair strands, realistic hands and clothing, soft cinematic lighting, high-end photography, 50mm lens, shallow depth of field, HDR, photorealistic, ultra-detailed, 8K quality, natural proportions, full-body composition, no text, no watermark, no distortion, no CGI or cartoon look.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSyzcLwaAAAKDUH.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSyzcLwaAAAKDUH.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 83,
+      "repostCount": 0,
+      "replyCount": 24,
+      "quoteCount": 0,
+      "viewCount": 1844
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/oju689/status/2102252435381096480",
+  "coverUrl": "https://pbs.twimg.com/media/HSyzcLwaAAAKDUH.jpg",
+  "coverPath": "images/2102252435381096480-1.jpg",
+  "imagePaths": [
+    "images/2102252435381096480-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSyzcLwaAAAKDUH",
+    "x-post:2102252435381096480"
+  ],
+  "analysis": {
+    "summary": "Ultra-realistic luxury hotel bathroom mirror selfie of a blonde woman in a black jacket and wide-leg jeans.",
+    "summaryEn": "Ultra-realistic luxury hotel bathroom mirror selfie of a blonde woman in a black jacket and wide-leg jeans.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The image precisely matches the prompt: a blonde woman taking a mirror selfie in a luxury bathroom, wearing a black zip jacket and dark jeans, with matching background elements."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-realistic luxury hotel bathroom mirror selfie of a beautiful young woman with long, naturally wavy blonde hair, wearing a fitted black zip-up jacket and high-waisted dark wide-leg jeans with open-toe sandals. She stands casually in front of a large full-length mirror, holding a modern smartphone in one hand while looking at the phone screen, with her other hand resting naturally in her jeans pocket. Elegant modern hotel bathroom, dark marble walls, warm ambient lighting, white towels, stylish vanity and subtle greenery in the background. Natural realistic skin texture, authentic facial features, detailed hair strands, realistic hands and clothing, soft cinematic lighting, high-end photography, 50mm lens, shallow depth of field, HDR, photorealistic, ultra-detailed, 8K quality, natural proportions, full-body composition, no text, no watermark, no distortion, no CGI or cartoon look.",
+    "sourceRange": {
+      "start": 9,
+      "end": 907
+    },
+    "translations": {
+      "zh": "超逼真豪华酒店浴室镜子自拍，主角是一位年轻漂亮的女子，留着自然的波浪金色长发，身穿合身黑色拉链夹克和高腰深色阔腿牛仔裤配露趾凉鞋。她自然地站在大型全身镜前，单手握着现代智能手机注视屏幕，另一只手自然插在牛仔裤口袋中。背景为优雅现代的酒店浴室、深色大理石墙面、温暖的环境光、白色毛巾、时尚洗手台以及微小的绿植点缀。自然真实的皮肤纹理、真实的面部特征、发丝细节、逼真的手部和衣物，柔和电影光效，高端摄影，50mm镜头，浅景深，HDR，真实摄影质感，超细节，8K画质，自然比例，全身构图，无文字，无水印，无失真，非CGI或卡通风格。",
+      "en": "Ultra-realistic luxury hotel bathroom mirror selfie of a beautiful young woman with long, naturally wavy blonde hair, wearing a fitted black zip-up jacket and high-waisted dark wide-leg jeans with open-toe sandals. She stands casually in front of a large full-length mirror, holding a modern smartphone in one hand while looking at the phone screen, with her other hand resting naturally in her jeans pocket. Elegant modern hotel bathroom, dark marble walls, warm ambient lighting, white towels, stylish vanity and subtle greenery in the background. Natural realistic skin texture, authentic facial features, detailed hair strands, realistic hands and clothing, soft cinematic lighting, high-end photography, 50mm lens, shallow depth of field, HDR, photorealistic, ultra-detailed, 8K quality, natural proportions, full-body composition, no text, no watermark, no distortion, no CGI or cartoon look."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
