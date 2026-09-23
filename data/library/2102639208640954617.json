@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T08:25:57.059Z",
+  "model": "unknown-image",
+  "prompt": "A young woman taking a mirror selfie in a Moscow metro station. She holds her phone in front of her chest and looks at the screen, not straight into the mirror. Her body is turned a little to the side, one hip slightly shifted, head tilted.\nShe’s standing in front of a big polished mirror on a marble wall. Around her is the station: high arched ceilings, stone columns, ornate details. Other commuters are blurred in the background.\nThe photo is taken a bit low and off-center, phone angled up, so it looks like a normal phone selfie, not a posed studio shot.\nHair is neat but a little windswept. Face is relaxed. She’s in a long coat or jacket for cool weather. Skin looks real, no heavy retouching.\nLight is natural metro lighting mixed with daylight from the entrances. Soft highlights on her hair and on the marble and metal. Cool gray and beige stone against the warmer tones of her skin and clothes.",
+  "promptTranslations": {
+    "en": "A young woman taking a mirror selfie in a Moscow metro station. She holds her phone in front of her chest and looks at the screen, not straight into the mirror. Her body is turned a little to the side, one hip slightly shifted, head tilted.\\nShe’s standing in front of a big polished mirror on a marble wall. Around her is the station: high arched ceilings, stone columns, ornate details. Other commuters are blurred in the background.\\nThe photo is taken a bit low and off-center, phone angled up, so it looks like a normal phone selfie, not a posed studio shot.\\nHair is neat but a little windswept. Face is relaxed. She’s in a long coat or jacket for cool weather. Skin looks real, no heavy retouching.\\nLight is natural metro lighting mixed with daylight from the entrances. Soft highlights on her hair and on the marble and metal. Cool gray and beige stone against the warmer tones of her skin and clothes."
+  },
+  "summaryTranslations": {
+    "en": "A realistic mirror selfie of a young woman in a long coat at an ornate Moscow metro station."
+  },
+  "translationVersion": 2,
+  "summary": "A realistic mirror selfie of a young woman in a long coat at an ornate Moscow metro station.",
+  "summaryEn": "A realistic mirror selfie of a young woman in a long coat at an ornate Moscow metro station.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102639208640954617",
+    "canonicalUrl": "https://x.com/oye_samia/status/2102639208640954617",
+    "author": {
+      "username": "oye_samia",
+      "displayName": "Dr. Samia",
+      "profileUrl": "https://x.com/oye_samia"
+    },
+    "publishedAt": "2026-09-23T06:00:27.000Z",
+    "collectedAt": "2026-09-23T08:15:35.044Z",
+    "language": "en",
+    "originalText": "Quick mirror selfie before catching the train.\n\nPrompt: A young woman taking a mirror selfie in a Moscow metro station. She holds her phone in front of her chest and looks at the screen, not straight into the mirror. Her body is turned a little to the side, one hip slightly shifted, head tilted.\nShe’s standing in front of a big polished mirror on a marble wall. Around her is the station: high arched ceilings, stone columns, ornate details. Other commuters are blurred in the background.\nThe photo is taken a bit low and off-center, phone angled up, so it looks like a normal phone selfie, not a posed studio shot.\nHair is neat but a little windswept. Face is relaxed. She’s in a long coat or jacket for cool weather. Skin looks real, no heavy retouching.\nLight is natural metro lighting mixed with daylight from the entrances. Soft highlights on her hair and on the marble and metal. Cool gray and beige stone against the warmer tones of her skin and clothes.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS4TMnkb0AASGT_.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS4TMnkb0AASGT_.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS4TNUUa8AA-CjQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS4TNUUa8AA-CjQ.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 61,
+      "repostCount": 8,
+      "replyCount": 40,
+      "quoteCount": 0,
+      "viewCount": 494
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/oye_samia/status/2102639208640954617",
+  "coverUrl": "https://pbs.twimg.com/media/HS4TMnkb0AASGT_.jpg",
+  "coverPath": "images/2102639208640954617-1.jpg",
+  "imagePaths": [
+    "images/2102639208640954617-1.jpg",
+    "images/2102639208640954617-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS4TMnkb0AASGT_",
+    "x-image:/media/HS4TNUUa8AA-CjQ",
+    "x-post:2102639208640954617"
+  ],
+  "analysis": {
+    "summary": "A realistic mirror selfie of a young woman in a long coat at an ornate Moscow metro station.",
+    "summaryEn": "A realistic mirror selfie of a young woman in a long coat at an ornate Moscow metro station.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The images depict a woman taking a phone mirror selfie inside a Moscow metro station with marble columns, arches, commuters in the background, wearing a long coat, exactly as described."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A young woman taking a mirror selfie in a Moscow metro station. She holds her phone in front of her chest and looks at the screen, not straight into the mirror. Her body is turned a little to the side, one hip slightly shifted, head tilted.\nShe’s standing in front of a big polished mirror on a marble wall. Around her is the station: high arched ceilings, stone columns, ornate details. Other commuters are blurred in the background.\nThe photo is taken a bit low and off-center, phone angled up, so it looks like a normal phone selfie, not a posed studio shot.\nHair is neat but a little windswept. Face is relaxed. She’s in a long coat or jacket for cool weather. Skin looks real, no heavy retouching.\nLight is natural metro lighting mixed with daylight from the entrances. Soft highlights on her hair and on the marble and metal. Cool gray and beige stone against the warmer tones of her skin and clothes.",
+    "sourceRange": {
+      "start": 56,
+      "end": 963
+    },
+    "translations": {
+      "zh": "一位年轻女子在莫斯科地铁站内对着镜子自拍。她把手机举在胸前，看着手机屏幕，而不是直视镜子。她的身体微侧，胯部微倾，头部微偏。她站在大理石墙面上一面光亮的大镜子前。周围是地铁站的景象：高高的拱形天花板、石柱以及华丽的装饰细节。其他乘客在背景中略微虚化。照片采用略微偏低和偏心的角度仰拍，看起来像是一张普通的手机随手自拍，而非刻意的摆拍大片。头发整齐但略带微风吹拂的凌乱感。神情自然放松。她穿着适合冷天的长款大衣或外套。皮肤质感真实，无厚重修图。光线是地铁站自然照明与入口处采光的混合光。她的头发、大理石和金属表面泛着柔和的高光。冷灰与米色石材与她温暖的肤色和衣着形成对比。",
+      "en": "A young woman taking a mirror selfie in a Moscow metro station. She holds her phone in front of her chest and looks at the screen, not straight into the mirror. Her body is turned a little to the side, one hip slightly shifted, head tilted.\nShe’s standing in front of a big polished mirror on a marble wall. Around her is the station: high arched ceilings, stone columns, ornate details. Other commuters are blurred in the background.\nThe photo is taken a bit low and off-center, phone angled up, so it looks like a normal phone selfie, not a posed studio shot.\nHair is neat but a little windswept. Face is relaxed. She’s in a long coat or jacket for cool weather. Skin looks real, no heavy retouching.\nLight is natural metro lighting mixed with daylight from the entrances. Soft highlights on her hair and on the marble and metal. Cool gray and beige stone against the warmer tones of her skin and clothes."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography realistic mirror selfie",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T08:26:12.938Z",
+  "model": "unknown-image",
+  "prompt": "(dark red kimono), (long kimono), layered Kimono, green trim, wide sleeves, sleeves rolled up, (pink tasuki:1.2), tasuki around shoulders, (beige obi), red string, long kimono under waist apron, dark blue waist apron, dark blue short apron, white tabi, zouri,",
+  "promptTranslations": {
+    "en": "(dark red kimono), (long kimono), layered Kimono, green trim, wide sleeves, sleeves rolled up, (pink tasuki:1.2), tasuki around shoulders, (beige obi), red string, long kimono under waist apron, dark blue waist apron, dark blue short apron, white tabi, zouri,"
+  },
+  "summaryTranslations": {
+    "en": "Prompt describes the traditional attire of a Nakai (Japanese inn waitress), including a red kimono, tasuki cords, and dark waist apron."
+  },
+  "translationVersion": 2,
+  "summary": "Prompt describes the traditional attire of a Nakai (Japanese inn waitress), including a red kimono, tasuki cords, and dark waist apron.",
+  "summaryEn": "Prompt describes the traditional attire of a Nakai (Japanese inn waitress), including a red kimono, tasuki cords, and dark waist apron.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102673133551653173",
+    "canonicalUrl": "https://x.com/AI_Kei75/status/2102673133551653173",
+    "author": {
+      "username": "AI_Kei75",
+      "displayName": "Kei🍤衣装本舗",
+      "profileUrl": "https://x.com/AI_Kei75"
+    },
+    "publishedAt": "2026-09-23T08:15:15.000Z",
+    "collectedAt": "2026-09-23T08:15:35.044Z",
+    "language": "ja",
+    "originalText": "👗✨ 【職コレ 014】  ✨👗\n\nいろいろな「職業」をテーマに、\n衣装イラスト＆生成用プロンプトをご紹介！🎨\n\n今回の職業は――\n🍵 仲居さん／Nakai 🏮\n\nプロンプトはご自由にお使いください🤗\n\n【prompt】\n(dark red kimono), (long kimono), layered Kimono, green trim, wide sleeves, sleeves rolled up, (pink tasuki:1.2), tasuki around shoulders, (beige obi), red string, long kimono under waist apron, dark blue waist apron, dark blue short apron, white tabi, zouri,",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS4yDyBa0AAFMcG.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS4yDyBa0AAFMcG.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 124
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AI_Kei75/status/2102673133551653173",
+  "coverUrl": "https://pbs.twimg.com/media/HS4yDyBa0AAFMcG.jpg",
+  "coverPath": "images/2102673133551653173-1.jpg",
+  "imagePaths": [
+    "images/2102673133551653173-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS4yDyBa0AAFMcG",
+    "x-post:2102673133551653173"
+  ],
+  "analysis": {
+    "summary": "Prompt describes the traditional attire of a Nakai (Japanese inn waitress), including a red kimono, tasuki cords, and dark waist apron.",
+    "summaryEn": "Prompt describes the traditional attire of a Nakai (Japanese inn waitress), including a red kimono, tasuki cords, and dark waist apron.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image shows a woman wearing a red kimono with rolled-up sleeves, shoulder cord, beige obi, and dark blue waist apron, fully matching the prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "(dark red kimono), (long kimono), layered Kimono, green trim, wide sleeves, sleeves rolled up, (pink tasuki:1.2), tasuki around shoulders, (beige obi), red string, long kimono under waist apron, dark blue waist apron, dark blue short apron, white tabi, zouri,",
+    "sourceRange": {
+      "start": 111,
+      "end": 370
+    },
+    "translations": {
+      "zh": "（深红色和服），（长和服），多层和服，绿色滚边，宽袖，挽起袖子，（粉色襷绳:1.2），肩膀系着襷绳，（米色腰带），红绳，前裙下的长和服，深蓝色半截前裙，深蓝色短围裙，白足袋，草履，",
+      "en": "(dark red kimono), (long kimono), layered Kimono, green trim, wide sleeves, sleeves rolled up, (pink tasuki:1.2), tasuki around shoulders, (beige obi), red string, long kimono under waist apron, dark blue waist apron, dark blue short apron, white tabi, zouri,"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "仲居服装与角色立绘生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T08:26:29.354Z",
+  "model": "grok",
+  "prompt": "함께 제공되는 이미지를 미니멀 2D 봇 얼굴로 재해석하라. 원본에서는 머리색·헤어 실루엣·대표 장식만 유지. 크고 둥근 크림색 얼굴에 옅은 타원형 볼 홍조. 눈은 동일한 크기로 평행하게 놓인 검은 단색 세로 캡슐 두 개(길이:굵기=3:1). 홍채·흰자·반사광·속눈썹·눈썹·입·코 없음. 1:1 정사각형, 차콜 단색 배경. 왼쪽 아래에서 고개를 시계 방향 15° 기울여 들여다보는 초근접 구도. 얼굴과 머리카락은 왼쪽·아래 경계에서 크롭하고 두 눈은 온전히 노출, 오른쪽 위에는 배경 여백. 큰 덩어리의 머리카락, 파스텔 플랫 채색, 최소 음영과 디테일. 몸통·손·무기·원형 테두리·문자·로고·입자 없음. 원본 재현보다 캡슐 눈과 입 없는 봇 얼굴을 우선. 이미지 한 장 생성",
+  "promptTranslations": {
+    "en": "Reinterpret the provided image into a minimal 2D bot face. Retain only the hair color, hair silhouette, and representative ornament from the original. A large, round cream-colored face with faint oval cheek blush. The eyes are two parallel solid black vertical capsules of equal size (length:thickness = 3:1). No irises, sclera, highlights, eyelashes, eyebrows, mouth, or nose. 1:1 square, solid charcoal background. Extreme close-up composition looking in from the lower left with the head tilted 15° clockwise. The face and hair are cropped at the left and bottom edges while both eyes remain fully exposed, leaving negative background space in the upper right. Large chunks of hair, pastel flat coloring, minimal shading and detail. No torso, hands, weapons, circular border, text, logo, or particles. Prioritize the capsule eyes and mouthless bot face over reproducing the original. Generate a single image."
+  },
+  "summaryTranslations": {
+    "en": "1:1 Character Illustration Prompt in Minimal 2D Bot Face Style"
+  },
+  "translationVersion": 2,
+  "summary": "미니멀 2D 봇 얼굴 스타일의 1:1 캐릭터 일러스트 프롬프트",
+  "summaryEn": "Prompt for generating a minimalist 2D bot-style square character avatar.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102666015088021808",
+    "canonicalUrl": "https://x.com/Geralt239411/status/2102666015088021808",
+    "author": {
+      "username": "Geralt239411",
+      "displayName": "ShanShan 珊珊 🪑",
+      "profileUrl": "https://x.com/Geralt239411"
+    },
+    "publishedAt": "2026-09-23T07:46:58.000Z",
+    "collectedAt": "2026-09-23T08:15:35.044Z",
+    "language": "ko",
+    "originalText": "Good morning CT ✌️\n\nMy @momoyumemi has now become a twin with @bot \n\nPrompt in case you need (Korean):\n\n\"함께 제공되는 이미지를 미니멀 2D 봇 얼굴로 재해석하라. 원본에서는 머리색·헤어 실루엣·대표 장식만 유지. 크고 둥근 크림색 얼굴에 옅은 타원형 볼 홍조. 눈은 동일한 크기로 평행하게 놓인 검은 단색 세로 캡슐 두 개(길이:굵기=3:1). 홍채·흰자·반사광·속눈썹·눈썹·입·코 없음. 1:1 정사각형, 차콜 단색 배경. 왼쪽 아래에서 고개를 시계 방향 15° 기울여 들여다보는 초근접 구도. 얼굴과 머리카락은 왼쪽·아래 경계에서 크롭하고 두 눈은 온전히 노출, 오른쪽 위에는 배경 여백. 큰 덩어리의 머리카락, 파스텔 플랫 채색, 최소 음영과 디테일. 몸통·손·무기·원형 테두리·문자·로고·입자 없음. 원본 재현보다 캡슐 눈과 입 없는 봇 얼굴을 우선. 이미지 한 장 생성\"\n\nCreate yours using ChatGPT will get a better result than Grok",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS4qMXUacAAqNBr.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS4qMXUacAAqNBr.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 1,
+      "replyCount": 15,
+      "quoteCount": 0,
+      "viewCount": 111
+    },
+    "matchedRuleIds": [
+      "custom:ko:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/Geralt239411/status/2102666015088021808",
+  "coverUrl": "https://pbs.twimg.com/media/HS4qMXUacAAqNBr.jpg",
+  "coverPath": "images/2102666015088021808-1.jpg",
+  "imagePaths": [
+    "images/2102666015088021808-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS4qMXUacAAqNBr",
+    "x-post:2102666015088021808"
+  ],
+  "analysis": {
+    "summary": "미니멀 2D 봇 얼굴 스타일의 1:1 캐릭터 일러스트 프롬프트",
+    "summaryEn": "Prompt for generating a minimalist 2D bot-style square character avatar.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Prompt details capsule eyes, mouthless pastel face, 15-degree tilt from bottom left on charcoal background, which matches the media image precisely."
+    },
+    "videoQuality": null,
+    "originalPrompt": "함께 제공되는 이미지를 미니멀 2D 봇 얼굴로 재해석하라. 원본에서는 머리색·헤어 실루엣·대표 장식만 유지. 크고 둥근 크림색 얼굴에 옅은 타원형 볼 홍조. 눈은 동일한 크기로 평행하게 놓인 검은 단색 세로 캡슐 두 개(길이:굵기=3:1). 홍채·흰자·반사광·속눈썹·눈썹·입·코 없음. 1:1 정사각형, 차콜 단색 배경. 왼쪽 아래에서 고개를 시계 방향 15° 기울여 들여다보는 초근접 구도. 얼굴과 머리카락은 왼쪽·아래 경계에서 크롭하고 두 눈은 온전히 노출, 오른쪽 위에는 배경 여백. 큰 덩어리의 머리카락, 파스텔 플랫 채색, 최소 음영과 디테일. 몸통·손·무기·원형 테두리·문자·로고·입자 없음. 원본 재현보다 캡슐 눈과 입 없는 봇 얼굴을 우선. 이미지 한 장 생성",
+    "sourceRange": {
+      "start": 105,
+      "end": 482
+    },
+    "translations": {
+      "zh": "将提供的图片重新诠释为极简2D机器人面孔。原图中仅保留发色、发型轮廓和代表性装饰。大而圆的奶油色脸庞，带有浅淡的椭圆形腮红。眼睛为两颗大小相同、平行的纯黑竖直胶囊形（长:粗=3:1）。无虹膜、眼白、反光、睫毛、眉毛、嘴巴和鼻子。1:1正方形，纯炭黑背景。左下角顺时针倾斜15°窥视的超近景构图。面部和头发在左下方裁切，双眼完整展现，右上留白。大块发束，马卡龙平涂，极简阴影与细节。无躯干、手、武器、边框、文字、Logo及杂质。相比还原原作，优先胶囊眼且无嘴的机器人面孔。生成单张图片。",
+      "en": "Reinterpret the provided image into a minimalist 2D bot face. Retain only hair color, silhouette, and signature accessories. Large round cream face with pale oval blush. Eyes are two identical, parallel solid black vertical capsules (3:1 ratio). No iris, sclera, highlights, eyelashes, brows, mouth, or nose. 1:1 square, solid charcoal background. Extreme close-up peeking from bottom-left tilted 15° clockwise. Face and hair cropped at bottom-left, eyes fully visible, empty space at top-right. Chunky hair strands, flat pastel colors, minimal shading. No body, hands, weapons, borders, or text. Prioritize capsule eyes and mouthless bot look. Generate one image."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "image-to-image",
+    "useCase": "Avatar creation / Stylized character portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

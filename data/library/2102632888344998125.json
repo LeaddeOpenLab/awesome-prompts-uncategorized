@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T08:25:13.934Z",
+  "model": "grok",
+  "prompt": "法式慵懒写真纯欲曲线，东亚美女面孔、精致五官、乌黑微卷中长发、白色蕾丝女仆头饰、丰满蜂腰巨乳身材、法式黑白女仆装与白色蕾丝围裙、黑色丝袜与整体妆容身份。现在她跪在咖啡馆木质地板上擦地板，一只手拿着湿抹布在地板上擦拭，另一只手轻轻捂住胸口低领口处以防走光，身体微微前倾，头向上直接仰视并直视高机位镜头，眼神暧昧温柔带着服务式的羞涩与直视镜头的私密感。构图为环境肖像，85mm肖像镜头高机位俯视，主体清晰锐利，背景咖啡馆木质桌椅、窗外阴天光线与墙面装饰自然虚化形成层次景深，材质呈现框中框构图感。光线为阴天柔和散射光，塑造身体体积与柔和阴影，冷钢蓝调色，雾面胶片影调，抬高黑色、柔和反差，可见细腻胶片颗粒，自然主义真实表面细节，可信光线与真实景深，暧昧私密氛围，象牙与冷蓝交织的纸感质感，film grain, cinematic lighting, highly detailed fabric texture, natural skin details, realistic depth of field",
+  "promptTranslations": {
+    "en": "French lazy style photoshoot, pure desire curves, East Asian beautiful female face, exquisite facial features, black slightly wavy medium-length hair, white lace maid headdress, voluptuous hourglass figure with a tiny waist and large breasts, French black and white maid outfit with a white lace apron, black silk stockings, and cohesive makeup identity. Now she is kneeling on the wooden floor of a café wiping the floor, holding a damp rag in one hand cleaning the floor, while her other hand gently covers the low neckline at her chest to prevent exposure, her body slightly leaning forward, her head tilted directly upward, looking straight into the high-angle camera lens, her eyes ambiguous and gentle with service-style bashfulness and an intimate feeling of looking directly into the camera. Composition is an environmental portrait, 85mm portrait lens high-angle overhead view, sharp and clear subject, café wooden tables and chairs in the background, overcast light outside the window, and wall decorations naturally blurred into layered depth of field, material textures presenting a frame-within-a-frame compositional feel. Lighting is soft scattered overcast light, sculpting bodily volume and soft shadows, cold steel blue color grading, matte film tone, lifted blacks, soft contrast, visible fine film grain, naturalistic realistic surface details, credible lighting and authentic depth of field, ambiguous and intimate atmosphere, paper-like texture interweaving ivory and cool blue, film grain, cinematic lighting, highly detailed fabric texture, natural skin details, realistic depth of field"
+  },
+  "summaryTranslations": {
+    "en": "Film photoshoot portrait prompt of an East Asian woman in a maid outfit wiping the wooden floor in a café."
+  },
+  "translationVersion": 2,
+  "summary": "咖啡馆木地板上擦地的女仆装东亚女性胶片写真肖像提示词。",
+  "summaryEn": "Prompt for a film-style portrait of an East Asian woman in a maid dress kneeling and cleaning a cafe floor.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102632888344998125",
+    "canonicalUrl": "https://x.com/maplejohn01/status/2102632888344998125",
+    "author": {
+      "username": "maplejohn01",
+      "displayName": "MapleJ.AI",
+      "profileUrl": "https://x.com/maplejohn01"
+    },
+    "publishedAt": "2026-09-23T05:35:20.000Z",
+    "collectedAt": "2026-09-23T08:15:35.044Z",
+    "language": "zh",
+    "originalText": "兄弟们喜欢看女仆装，我就多发😜\nprompt：法式慵懒写真纯欲曲线，东亚美女面孔、精致五官、乌黑微卷中长发、白色蕾丝女仆头饰、丰满蜂腰巨乳身材、法式黑白女仆装与白色蕾丝围裙、黑色丝袜与整体妆容身份。现在她跪在咖啡馆木质地板上擦地板，一只手拿着湿抹布在地板上擦拭，另一只手轻轻捂住胸口低领口处以防走光，身体微微前倾，头向上直接仰视并直视高机位镜头，眼神暧昧温柔带着服务式的羞涩与直视镜头的私密感。构图为环境肖像，85mm肖像镜头高机位俯视，主体清晰锐利，背景咖啡馆木质桌椅、窗外阴天光线与墙面装饰自然虚化形成层次景深，材质呈现框中框构图感。光线为阴天柔和散射光，塑造身体体积与柔和阴影，冷钢蓝调色，雾面胶片影调，抬高黑色、柔和反差，可见细腻胶片颗粒，自然主义真实表面细节，可信光线与真实景深，暧昧私密氛围，象牙与冷蓝交织的纸感质感，film grain, cinematic lighting, highly detailed fabric texture, natural skin details, realistic depth of field @grok\n#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #grok",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS4NDUyaQAA9G3Q.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS4NDUyaQAA9G3Q.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 922
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/maplejohn01/status/2102632888344998125",
+  "coverUrl": "https://pbs.twimg.com/media/HS4NDUyaQAA9G3Q.jpg",
+  "coverPath": "images/2102632888344998125-1.jpg",
+  "imagePaths": [
+    "images/2102632888344998125-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS4NDUyaQAA9G3Q",
+    "x-post:2102632888344998125"
+  ],
+  "analysis": {
+    "summary": "咖啡馆木地板上擦地的女仆装东亚女性胶片写真肖像提示词。",
+    "summaryEn": "Prompt for a film-style portrait of an East Asian woman in a maid dress kneeling and cleaning a cafe floor.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "画面准确呈现了东亚女性、女仆装、跪在木地板擦地并捂住胸口向上仰视的姿势，以及冷色调胶片质感和咖啡馆景深背景。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "法式慵懒写真纯欲曲线，东亚美女面孔、精致五官、乌黑微卷中长发、白色蕾丝女仆头饰、丰满蜂腰巨乳身材、法式黑白女仆装与白色蕾丝围裙、黑色丝袜与整体妆容身份。现在她跪在咖啡馆木质地板上擦地板，一只手拿着湿抹布在地板上擦拭，另一只手轻轻捂住胸口低领口处以防走光，身体微微前倾，头向上直接仰视并直视高机位镜头，眼神暧昧温柔带着服务式的羞涩与直视镜头的私密感。构图为环境肖像，85mm肖像镜头高机位俯视，主体清晰锐利，背景咖啡馆木质桌椅、窗外阴天光线与墙面装饰自然虚化形成层次景深，材质呈现框中框构图感。光线为阴天柔和散射光，塑造身体体积与柔和阴影，冷钢蓝调色，雾面胶片影调，抬高黑色、柔和反差，可见细腻胶片颗粒，自然主义真实表面细节，可信光线与真实景深，暧昧私密氛围，象牙与冷蓝交织的纸感质感，film grain, cinematic lighting, highly detailed fabric texture, natural skin details, realistic depth of field",
+    "sourceRange": {
+      "start": 23,
+      "end": 475
+    },
+    "translations": {
+      "zh": "法式慵懒写真纯欲曲线，东亚美女面孔、精致五官、乌黑微卷中长发、白色蕾丝女仆头饰、丰满蜂腰巨乳身材、法式黑白女仆装与白色蕾丝围裙、黑色丝袜与整体妆容身份。现在她跪在咖啡馆木质地板上擦地板，一只手拿着湿抹布在地板上擦拭，另一只手轻轻捂住胸口低领口处以防走光，身体微微前倾，头向上直接仰视并直视高机位镜头，眼神暧昧温柔带着服务式的羞涩与直视镜头的私密感。构图为环境肖像，85mm肖像镜头高机位俯视，主体清晰锐利，背景咖啡馆木质桌椅、窗外阴天光线与墙面装饰自然虚化形成层次景深，材质呈现框中框构图感。光线为阴天柔和散射光，塑造身体体积与柔和阴影，冷钢蓝调色，雾面胶片影调，抬高黑色、柔和反差，可见细腻胶片颗粒，自然主义真实表面细节，可信光线与真实景深，暧昧私密氛围，象牙与冷蓝交织的纸感质感，film grain, cinematic lighting, highly detailed fabric texture, natural skin details, realistic depth of field",
+      "en": "French lazy sensual portrait, East Asian woman, delicate features, black wavy hair, white lace maid headpiece, voluptuous curvy figure, French maid outfit with lace apron, black stockings. Kneeling on a cafe wood floor cleaning with a rag, covering chest with hand, leaning slightly forward, gazing up at a high-angle camera with shy intimate expression. Environmental portrait, 85mm high-angle view, sharp subject, blurred cafe background, overcast diffused lighting, cool steel-blue palette, matte film tone, film grain, cinematic lighting, highly detailed fabric texture, natural skin details, realistic depth of field"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "Character portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "suggestive"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}
