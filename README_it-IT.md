@@ -116,20 +116,60 @@ Evitare difetti nel vestiario, fusione tra corpo e tessuto, compressioni innatur
 
 <a name="prompt-2102528767126352335"></a>
 
-### Traduzione in corso
+### Prompt fotorealistico ambientato nel bagno notturno di un hotel di lusso, con una donna adulta in lingerie beige champagne seduta sul bordo della vasca che sorride portando un macaron alle labbra.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2102528767126352335)
 
 Fotografia · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotorealistico ambientato nel bagno notturno di un hotel di lusso, con una donna adulta in lingerie beige champagne seduta sul bordo della vasca che sorride portando un macaron alle labbra.
 
 <img src="images/2102528767126352335-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Bagno d'hotel di notte | Macaron e dolce seduzione🌟
+
+【Soggetto e stile】
+Nel raffinato bagno di un hotel di lusso di notte, immortalare l'istante in cui una donna giapponese chiaramente adulta siede sul bordo della vasca, portando un macaron alle labbra mentre sorride dolcemente al proprio partner intimo. Con un approccio fotorealistico, creare una resa fotografica cinematografica che unisca la quiete di un prestigioso hotel al calore della complicità quotidiana.
+Privilegiare la spontaneità di un attimo colto per caso rispetto alla rigida perfezione degli scatti di moda. L'intimo, l'espressione, il macaron tra le dita, la calda illuminazione e la profondità dell'ambiente devono armonizzarsi per trasmettere il fascino sereno e maturo di una donna adulta.
+
+【Luogo, sfondo e ambientazione】
+La scena è ambientata nello spazioso bagno notturno di un hotel, rivestito in pietra naturale o marmo dalle tenui tonalità beige. Sullo sfondo spiccano un'ampia vasca da bagno, rubinetteria in ottone e applique a parete dal design discreto. Il lavabo e lo specchio si integrano con naturalezza, evocando la pulizia impeccabile e il prestigio di un albergo d'alta classe.
+Accanto alla donna poggia un piccolo vassoio in metallo o pietra con sopra due macaron dai colori pastello. Pochi elementi sullo sfondo, come soffici asciugamani bianchi o piccoli fiori, completano l'atmosfera ricercata senza distogliere l'attenzione dalla protagonista.
+
+【Stagione, orario e atmosfera】
+Una scena notturna in interni senza una stagione definita. Fuori è buio pesto; se è presente una finestra, vi si intravedono appena i bagliori lontani dei lampioni e le luci notturne della città. La temperatura della stanza è tiepida e accogliente, evocando il rilassamento che segue un lungo bagno caldo.
+Un velo sottilissimo di vapore indugia attorno alla vasca senza oscurare la visuale. L'aria lievemente umida e la luce calda esprimono la quiete notturna dell'hotel, in netto contrasto con il freddo esterno.
+
+【Caratteristiche del personaggio】
+Donna giapponese chiaramente adulta di 27 anni. Lineamenti armoniosi, morbidi e maturi: occhi scuri leggermente grandi ed espressivi, sopracciglia naturali, naso elegante e labbra morbide dal colorito sano. Capelli castano scuro con onde naturali che scendono verso le spalle, parzialmente raccolti in modo informale come dopo il bagno, con ciocche sottili che incorniciano con grazia il volto.
+Incarnato chiaro con sottotono ocra e texture realistica ricca di pori e ombre sottili, priva di levigature artificiali. Silhouette naturalmente sinuosa e aggraziata, in cui spalle minute e membra affusolate incontrano una vita sottile e forme piene e femminili. Il décolleté è notevolmente generoso e prosperoso, ma privo di rigidità o ingigantimenti innaturali, con volumi morbidi e tridimensionali che assecondano la postura seduta e il capo indossato.
+
+【Abbigliamento e accessori】
+Un elegante completo intimo composto da reggiseno e slip in beige champagne. Il design raffinato ricorda lo stile di Wacoal, con delicati ricami floreali sul seno e sullo slip, bordature in pizzo e una sobria lucentezza satinata. Sofisticato e leggero, senza trasparenze eccessive, all'insegna del buongusto.
+La vestibilità è proporzionata alle curve morbide del seno e dei fianchi, evitando che il tessuto si deformi o stringa in modo anomalo sulla pelle. Nessun gioiello vistoso, se non piccolissimi orecchini sobri, lasciando che siano la lingerie e l'espressione a dominare la scena.
+
+【Posa, movimento e sguardo】
+La donna siede sul bordo asciutto e spazioso della vasca, con il busto leggermente inclinato a tre quarti verso l'obiettivo. Le gambe scendono con disinvoltura verso l'esterno della vasca, con le piante dei piedi appoggiate su un morbido tappeto da bagno. La schiena non è forzatamente inarcata, il baricentro si adagia con naturalezza sulla seduta.
+Con una mano solleva delicatamente un macaron color lavanda chiaro, fermando il gesto a un soffio dalle labbra. L'altra mano riposa morbidamente al suo fianco o sul bordo della vasca. Ruotando appena il capo verso la porta, volge lo sguardo alla fotocamera come se stesse guardando il partner lì presente.
+
+【Espressione ed emozione】
+Un sorriso dolce e appena malizioso, come se stesse per chiedere: «Ne vuoi uno?». Gli angoli della bocca sono naturalmente sollevati e le labbra appena dischiuse, in perfetta armonia con il gesto di avvicinare il dolce al viso.
+Lo sguardo trasmette intimità e allegria, con sopracciglia e guance rilassate. Lungi dall'essere una seduzione ostentata, l'enfasi è su un'espressione calda e naturale che racconta la profonda complicità di una coppia affiatata.
+
+【Composizione e inquadratura】
+Inquadratura verticale 4:5 pensata per post su X. Ripresa a figura intera (full body) che ritrae agevolmente il soggetto dalla testa ai piedi, garantendo un respiro armonioso sopra il capo, alle mani e sotto i piedi. Scatto realizzato nei pressi dell'ingresso del bagno per mostrare con fluidità il corpo intero, il profilo della vasca, il vassoio e l'illuminazione di fondo in un'unica composizione.
+Altezza della camera posizionata poco al di sotto della linea degli occhi del partner in piedi. Uso di una lunghezza focale naturale da standard a medio teleobiettivo (equivalente a 50-70 mm) per scongiurare le distorsioni grandangolari su gambe e décolleté. Sfondo con sfocatura morbida, che mantenga intatta la leggibilità del bagno d'hotel.
+
+【Luce, colore, texture e atmosfera】
+La sorgente luminosa principale è un'applique a parete a luce calda posta in diagonale rispetto alla figura. Dal lato opposto, i riflessi tenui del lavabo e del marmo ammorbidiscono con delicatezza le ombre su viso e corpo. L'illuminazione è soffusa, evitando bagliori marcati su pelle e décolleté.
+La pelle mostra un colorito vitale e sfumature d'ombra dettagliate; la chioma rivela ogni singola ciocca e una brillantezza naturale. Chiara resa materica di pizzo, ricami, raso, marmo, ottone, spugna e specchio d'acqua. Palette dominata da toni caldi come beige champagne, avorio e oro pallido, a creare un'atmosfera notturna calma, ricercata e lievemente zuccherina.
+
+【Qualità ed elementi esclusi】
+Resa fotorealistica ad altissima definizione, con priorità a una perfetta anatomia umana, luce autentica, prospettiva reale e texture tangibili tipiche di una vera macchina fotografica. Evitare soggetti dall'aspetto minorenne, tratti somatici infantili, anatomia scorretta, arti o dita extra, dita mancanti o fuse, articolazioni innaturali e inversione destra/sinistra delle mani.
+Evitare difetti nel vestiario, fusione tra tessuto e pelle, nudità involontaria, segni di compressione eccessiva, distorsioni da grandangolo e levigatura innaturale della pelle. Il décolleté deve conservare pienezza e volume naturali, senza forme sferiche rigide, push-up esagerati o sfide alla gravità. Nessuna scritta, logo, filigrana o elemento di interfaccia visibile nell'immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)

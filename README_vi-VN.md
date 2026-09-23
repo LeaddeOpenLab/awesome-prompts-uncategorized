@@ -116,20 +116,60 @@ Tránh trang phục bị rách lỗi, da thịt hòa lẫn vào vải, đồ ló
 
 <a name="prompt-2102528767126352335"></a>
 
-### Đang dịch
+### Prompt ảnh chụp chân thực về một phụ nữ trưởng thành mặc nội y màu be rượu sâm panh, ngồi trên thành bồn tắm trong phòng tắm khách sạn cao cấp ban đêm, mỉm cười khi đưa chiếc macaron lên môi.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2102528767126352335)
 
 Nhiếp ảnh · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt ảnh chụp chân thực về một phụ nữ trưởng thành mặc nội y màu be rượu sâm panh, ngồi trên thành bồn tắm trong phòng tắm khách sạn cao cấp ban đêm, mỉm cười khi đưa chiếc macaron lên môi.
 
 <img src="images/2102528767126352335-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Phòng tắm khách sạn ban đêm｜Macaron và sự quyến rũ dịu dàng🌟
+
+【Chủ đề・Phong cách nghệ thuật】
+Khắc họa một khoảnh khắc trong phòng tắm khách sạn cao cấp vào ban đêm, nơi một người phụ nữ Nhật Bản rõ ràng đã trưởng thành ngồi trên thành bồn tắm, vừa đưa chiếc macaron lên gần môi vừa mỉm cười dịu dàng với người yêu thân thiết. Lấy phong cách nhiếp ảnh chân thực (photorealism) làm nền tảng, kết hợp sự yên tĩnh của khách sạn sang trọng với sự thân mật đời thường, tạo nên biểu cảm nhiếp ảnh tựa như một thước phim điện ảnh.
+Không phải sự cứng nhắc quá mức chuẩn chỉnh của ảnh thời trang, mà chú trọng khoảnh khắc tự nhiên được ghi lại tình cờ. Trang phục, biểu cảm, chiếc macaron trên tay, ánh sáng ấm áp và chiều sâu của phòng tắm hòa quyện vào nhau, tạo nên bức ảnh toát lên nét đáng yêu, điềm tĩnh của người phụ nữ trưởng thành.
+
+【Địa điểm・Bối cảnh・Thế giới quan】
+Địa điểm là phòng tắm rộng rãi sử dụng đá tự nhiên hoặc đá cẩm thạch màu be nhạt trong một khách sạn vào ban đêm. Phía sau bố trí bồn tắm rộng, vòi nước và phụ kiện kim loại màu đồng thau, trên tường có đèn gắn tường (sconce) với thiết kế thanh lịch, kín đáo. Bàn trang điểm và gương xuất hiện tự nhiên ở hậu cảnh, mang lại cảm giác sạch sẽ và cao cấp chuẩn khách sạn.
+Bên cạnh người phụ nữ đặt một chiếc khay nhỏ bằng kim loại hoặc đá, trên đó xếp hai chiếc macaron màu sắc trang nhã. Hậu cảnh có các đạo cụ tối giản như khăn tắm trắng hoặc hoa nhỏ để bổ trợ cho không khí khách sạn mà không làm phân tán nhân vật chính.
+
+【Mùa・Thời gian・Thời tiết】
+Cảnh trong nhà vào ban đêm không ấn định cụ thể mùa. Bên ngoài trời đã tối hoàn toàn, nếu nhìn thấy cửa sổ thì thu nhỏ một vài ánh đèn đường hoặc cảnh đêm xa xa. Nhiệt độ phòng hơi ấm, mang lại bầu không khí thư thái như vừa tắm xong.
+Xung quanh bồn tắm còn vương lại làn hơi nước rất mỏng, nhưng không quá dày làm che khuất tầm nhìn. Bầu không khí có độ ẩm và ánh sáng ấm áp thể hiện một đêm khách sạn tĩnh lặng, cảm nhận được sự chênh lệch nhiệt độ với màn đêm bên ngoài.
+
+【Thiết lập nhân vật】
+Người phụ nữ Nhật Bản 27 tuổi rõ ràng đã trưởng thành. Khuôn mặt mang nét phụ nữ trưởng thành mềm mại và cân đối, đôi mắt đen láy hơi to, lông mày tự nhiên, sống mũi thanh tú, bờ môi mềm mại hồng hào. Tóc màu nâu trầm, uốn lượn sóng tự nhiên dài chấm vai. Buộc gọn một phần nhẹ nhàng như vừa tắm xong, để lại vài sợi tóc mai mảnh mai quanh mặt.
+Làn da tông màu vàng sáng (ochre), tránh chỉnh sửa da mịn quá đà, giữ kết cấu thực tế với lỗ chân lông và bóng đổ nhỏ hơi lộ rõ. Vóc dáng quyến rũ tự nhiên, thanh lịch với bờ vai và tay chân mảnh khảnh, eo thon kết hợp hài hòa với những đường cong mềm mại nữ tính. Vòng một đầy đặn rõ rệt nhưng tránh phóng đại bất thường hay cứng nhắc, mang lại khối hình nổi mềm mại theo tư thế ngồi và trang phục.
+
+【Trang phục・Phụ kiện】
+Trang phục là bộ nội y ren màu be rượu sâm panh thanh lịch. Thiết kế tinh tế gợi nhớ đến phong cách Wacoal, với họa tiết hoa nhỏ thêu tỉ mỉ trên ngực và quần lót, điểm xuyết viền ren và độ bóng nhẹ của lụa satin. Có độ trong suốt nhẹ nhưng không xuyên thấu quá mức, giữ được vẻ đoan trang, tao nhã.
+Kích cỡ thực tế vừa vặn với khuôn ngực đầy đặn và vòng hông, vải không bị kéo căng bất thường hay hằn sâu vào cơ thể. Về cơ bản không đeo trang sức, nếu cần chỉ giới hạn ở một đôi khuyên tai nhỏ, để trang phục và biểu cảm là tâm điểm chính.
+
+【Tư thế・Hành động・Ánh nhìn】
+Người phụ nữ ngồi trên thành bồn tắm rộng và khô ráo, thân người hơi nghiêng về phía máy ảnh. Hai chân thả lỏng tự nhiên ra phía ngoài bồn tắm, lòng bàn chân đặt trên tấm thảm mềm mại. Lưng không ưỡn quá mức, trọng tâm tự nhiên tựa vào mặt ngồi.
+Một tay cầm chiếc macaron màu tím oải hương nhạt, đưa đến sát môi rồi dừng lại. Tay còn lại đặt nhẹ bên cạnh thân hoặc trên thành bồn tắm. Chỉ xoay nhẹ gương mặt về phía cửa, hướng ánh mắt về phía máy ảnh như đang nhìn người yêu đứng ở đó.
+
+【Biểu cảm・Cảm xúc】
+Nụ cười dịu dàng và hơi tinh nghịch, như thể sắp cất lời hỏi: "Ăn một cái không?". Khóe miệng hơi nhếch lên tự nhiên, môi không khép quá chặt, biểu cảm kết nối hài hòa với động tác đưa macaron lên miệng.
+Đôi mắt toát lên vẻ thân mật và vui vẻ, chân mày và gò má hơi giãn ra. Không phải biểu cảm quyến rũ mạnh mẽ, mà chú trọng nét mặt ấm áp, tự nhiên, thể hiện khoảng cách gần gũi của cặp đôi đã gắn bó lâu dài.
+
+【Bố cục・Máy ảnh】
+Bố cục dọc 4:5 dành cho bài đăng X. Chụp toàn thân (full body) thoải mái từ đỉnh đầu đến ngón chân, đảm bảo khoảng trống vừa phải phía trên đầu, đầu ngón tay và dưới chân. Góc chụp từ gần lối vào phòng tắm, thể hiện tự nhiên toàn thân nhân vật, hình dáng bồn tắm, chiếc khay và ánh đèn nền trong cùng một khung hình.
+Chiều cao máy ảnh hơi thấp hơn tầm mắt của người yêu đang đứng. Sử dụng góc nhìn tự nhiên từ tiêu chuẩn đến tele tầm trung tương đương 50-70mm để chân và ngực không bị phóng đại do góc rộng. Hậu cảnh chỉ làm mờ nhẹ, vẫn giữ đủ lượng thông tin để nhận biết đây là phòng tắm khách sạn.
+
+【Ánh sáng・Màu sắc・Chất liệu・Bầu không khí】
+Nguồn sáng chính là đèn tường ánh sáng ấm chiếu xéo từ phía trước nhân vật. Phía đối diện có ánh phản xạ nhẹ từ bồn rửa mặt và bề mặt đá, làm mềm mại bóng đổ trên khuôn mặt và cơ thể. Ánh sáng không quá gắt, không tạo điểm sáng (highlight) quá mức chỉ ở ngực hoặc da.
+Làn da giữ được sắc hồng tự nhiên và bóng mờ chi tiết, tóc có độ bóng và rõ từng lọn. Phân định rõ ràng các chất liệu khác nhau: ren, thêu, satin, đá, đồng thau, khăn tắm, mặt nước. Tông màu ấm áp chủ đạo gồm be rượu sâm panh, màu ngà và vàng nhạt, tạo nên bầu không khí đêm yên tĩnh, thanh lịch và phảng phất chút ngọt ngào.
+
+【Chất lượng・Yếu tố loại trừ】
+Thể hiện ảnh chụp chân thực độ phân giải cao, ưu tiên cơ thể người, ánh sáng, phối cảnh và chất liệu tự nhiên như được chụp bằng máy ảnh thực tế. Tránh nhân vật trông giống vị thành niên, khuôn mặt quá non nớt, cơ thể biến dạng, thừa chi hoặc ngón tay, thiếu ngón, dính ngón, khớp xương dị thường hoặc nhầm lẫn tay trái phải.
+Tránh lỗi trang phục, cơ thể hòa lẫn vào quần áo, lộ hàng ngoài ý muốn, vết hằn siết cực đoan, biến dạng cơ thể do góc rộng, làm mịn da quá đà. Vòng một giữ kích thước đầy đặn tự nhiên, không có hình cầu cứng nhắc, không nâng đẩy dị thường, không bất chấp trọng lực. Không có chữ, logo, watermark, giao diện UI trong ảnh.
 ```
 
 [↑ Về danh mục](#catalog)

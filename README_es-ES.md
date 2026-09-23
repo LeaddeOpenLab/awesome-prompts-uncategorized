@@ -116,20 +116,60 @@ Evitar desperfectos en la ropa, fusión de tela con la piel, pliegues o compresi
 
 <a name="prompt-2102528767126352335"></a>
 
-### Traducción en curso
+### Prompt fotorrealista de una mujer adulta en lencería beige champán sentada en el borde de la bañera en el baño de un hotel de lujo por la noche, sonriendo mientras se lleva un macaron a los labios.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2102528767126352335)
 
 Fotografía · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt fotorrealista de una mujer adulta en lencería beige champán sentada en el borde de la bañera en el baño de un hotel de lujo por la noche, sonriendo mientras se lleva un macaron a los labios.
 
 <img src="images/2102528767126352335-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Baño de hotel por la noche｜Macarons y suave seducción🌟
+
+【Tema・Estilo artístico】
+Representa un instante en el baño de un hotel de lujo por la noche, donde una mujer japonesa claramente adulta está sentada en el borde de la bañera, llevando un macaron hacia sus labios mientras sonríe suavemente a su amante cercano. Basado en el fotorrealismo, equilibra la tranquilidad de un hotel de alta gama con una intimidad cotidiana, logrando una expresión fotográfica similar a la escena de una película.
+Evita la rigidez excesivamente pulida de una fotografía de moda y prioriza un momento natural capturado por casualidad. La vestimenta, la expresión, el macaron en la mano, la iluminación cálida y la profundidad del baño armonizan para transmitir una ternura madura y serena.
+
+【Lugar・Fondo・Universo】
+El lugar es un baño espacioso en un hotel nocturno, con acabados en piedra natural o mármol de tonos beige claro. Al fondo, se dispone una bañera ancha, grifos y herrajes en tono latón, y apliques de pared de diseño sobrio. El lavabo y el espejo se integran de forma natural en el fondo, transmitiendo la limpieza y distinción características de un hotel.
+Junto a la mujer hay una pequeña bandeja de metal o piedra con dos macarons de colores suaves alineados. En el fondo, se colocan accesorios mínimos como toallas blancas o pequeñas flores para complementar la atmósfera del hotel sin restar protagonismo al sujeto principal.
+
+【Estación・Hora・Clima】
+Escena interior nocturna sin una estación fuertemente definida. Afuera ha anochecido por completo; si se ve una ventana, se incorporan sutilmente farolas lejanas o el paisaje nocturno a lo lejos. La temperatura ambiente es ligeramente cálida, transmitiendo una atmósfera relajada como la de después de un baño.
+Alrededor de la bañera queda un vapor muy tenue, pero no tan denso como para obstruir la visión. El aire húmedo y la iluminación cálida reflejan una noche de hotel tranquila donde se percibe la diferencia de temperatura con el exterior nocturno.
+
+【Diseño del personaje】
+Mujer japonesa de 27 años claramente adulta. Rasgos faciales suaves, proporcionados y propios de una mujer madura, con ojos oscuros ligeramente grandes, cejas naturales, puente nasal elegante y labios suaves con buen tono. Cabello castaño oscuro, con ondas naturales hasta los hombros. Parcialmente recogido de forma desenfadada como después de bañarse, dejando finos mechones sueltos alrededor del rostro.
+Piel de tono ocre claro, evitando un suavizado excesivo y manteniendo una textura realista donde se aprecian sutilmente los poros y sombras finas. Figura glamurosa, elegante y natural, que armoniza hombros y extremidades esbeltas, cintura ceñida y curvas femeninas. El busto es notablemente generoso y voluptuoso, pero evitando tamaños irreales o rigidez, manteniendo un volumen suave y tridimensional adaptado a la postura sentada y a la prenda.
+
+【Vestimenta・Accesorios】
+La vestimenta es un conjunto elegante de sujetador y braguita en tono beige champán. Un diseño delicado que evoca el estilo de Wacoal, con bordados de pequeñas flores en el pecho y la braguita, ribetes de encaje y un brillo satinado discreto. Con cierta ligereza sin ser excesivamente transparente, logrando un acabado distinguido.
+Talla realista acorde con el busto generoso y las caderas, sin que la tela se estire de forma antinatural ni se clave en el cuerpo. Básicamente sin accesorios; si acaso, unos pendientes pequeños y discretos, dejando que la prenda y la expresión sean las protagonistas.
+
+【Pose・Acción・Mirada】
+La mujer está sentada en el borde ancho y seco de la bañera, con el cuerpo ligeramente ladeado hacia la cámara. Ambas piernas caen de forma natural hacia el exterior de la bañera, con las plantas de los pies apoyadas sobre una suave alfombrilla de baño. La espalda no está excesivamente arqueada y el centro de gravedad descansa de manera natural sobre la superficie de asiento.
+Con una mano sostiene un macaron de color lavanda claro, deteniendo el movimiento justo al acercarlo a los labios. La otra mano reposa suavemente al costado del cuerpo o sobre el borde de la bañera. Gira solo el rostro ligeramente hacia la entrada, dirigiendo la mirada hacia la cámara como si mirara a su amante allí presente.
+
+【Expresión・Emoción】
+Una sonrisa suave y un tanto pícara, como justo antes de preguntar: "¿Quieres uno?". Las comisuras de los labios se elevan de forma natural, los labios no están del todo cerrados, en una expresión conectada con el gesto de llevar el macaron a la boca.
+En los ojos hay cercanía y deleite, con las cejas y mejillas ligeramente relajadas. No se trata de una seducción agresiva, sino de una expresión cálida y espontánea que transmite la complicidad y cercanía de una pareja consolidada.
+
+【Composición・Cámara】
+Composición vertical 4:5 orientada a publicaciones de X. Plano de cuerpo entero (full body) que abarca cómodamente desde la coronilla hasta la punta de los pies, asegurando márgenes adecuados por encima de la cabeza, manos y pies. Toma realizada cerca de la entrada del baño, mostrando con naturalidad en un solo encuadre el cuerpo completo, la forma de la bañera, la bandeja y la iluminación de fondo.
+La altura de la cámara está ligeramente por debajo del nivel de los ojos del amante de pie. Utiliza un ángulo de visión natural de objetivo estándar a teleobjetivo medio equivalente a 50-70 mm, evitando que las piernas o el busto se distorsionen por gran angular. El fondo solo tiene un desenfoque suave, conservando la información suficiente para reconocer el baño de un hotel.
+
+【Luz・Color・Textura・Atmósfera】
+La fuente de luz principal es un aplique de pared de tono cálido que incide en diagonal desde el frente del sujeto. Desde el lado opuesto entra una débil luz reflejada del lavabo y la piedra, suavizando las sombras del rostro y el cuerpo. La luz no es excesiva ni proyecta brillos desmedidos únicamente sobre el pecho o la piel.
+La piel conserva un tono vivo natural y sombras sutiles; el cabello muestra la textura de cada mechón y su brillo. Se diferencian claramente las distintas texturas: encaje, bordado, satén, piedra, latón, toalla y superficie del agua. La paleta cromática se unifica en tonos cálidos centrados en beige champán, marfil y dorado tenue, creando una atmósfera nocturna tranquila, refinada y ligeramente dulce.
+
+【Calidad・Elementos excluidos】
+Expresión fotorrealista de alta resolución, priorizando la anatomía humana, iluminación, perspectiva y texturas naturales como si fuera tomada por una cámara real. Evitar personajes que parezcan menores de edad, rostros demasiado infantiles, anatomía antinatural, extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones anómalas o confusión entre manos izquierda y derecha.
+Evitar fallos en la vestimenta, fusión del cuerpo con la ropa, desnudez involuntaria, prendas excesivamente apretadas, deformaciones corporales por gran angular y suavizado excesivo de la piel. El busto debe conservar un volumen natural y generoso sin adoptar formas esféricas rígidas, realces anómalos o que desafíen la gravedad. Sin texto, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)

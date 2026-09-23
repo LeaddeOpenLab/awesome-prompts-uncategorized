@@ -116,20 +116,60 @@ Kleidungsfehler, Verschmelzung von Körper und Stoff, unnatürliches Einschneide
 
 <a name="prompt-2102528767126352335"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Prompt für eine Szene in einem eleganten Hotelbadezimmer bei Nacht: Eine erwachsene Frau in champagnerfarbener Lingerie sitzt auf dem Rand der Badewanne und lächelt, während sie einen Macaron an ihre Lippen führt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2102528767126352335)
 
 Fotografie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Prompt für eine Szene in einem eleganten Hotelbadezimmer bei Nacht: Eine erwachsene Frau in champagnerfarbener Lingerie sitzt auf dem Rand der Badewanne und lächelt, während sie einen Macaron an ihre Lippen führt.
 
 <img src="images/2102528767126352335-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Nächtliches Hotelbadezimmer | Macaron und sanfte Verführung🌟
+
+【Motiv & Stil】
+In einem hochwertigen Hotelbadezimmer bei Nacht wird der Moment festgehalten, in dem eine eindeutig erwachsene japanische Frau auf dem Rand der Badewanne sitzt, einen Macaron an die Lippen führt und ihrem vertrauten Partner sanft zulächelt. Im fotorealistischen Stil gehalten, entsteht eine filmische Bildsprache, die die Ruhe eines Luxushotels mit behaglicher Intimität vereint.
+Statt der übermäßig starren Perfektion eines Mode-Shootings steht ein zufällig eingefangener, natürlicher Augenblick im Vordergrund. Kleidung, Mimik, der Macaron in der Hand, warmes Licht und die Raumtiefe des Badezimmers harmonieren miteinander und vermitteln den gelassenen Charme einer erwachsenen Frau.
+
+【Ort, Hintergrund & Szenario】
+Schauplatz ist ein geräumiges Hotelbadezimmer bei Nacht, verkleidet mit Naturstein oder Marmor in hellen Beigetönen. Im hinteren Bereich befindet sich eine breite Badewanne mit messingfarbenen Armaturen und dezent gestalteten Wandleuchten. Waschtisch und Spiegel fügen sich natürlich in den Hintergrund ein und strahlen gepflegte, hoteltypische Eleganz aus.
+Neben der Frau steht ein kleines Tablett aus Metall oder Stein, auf dem zwei pastellfarbene Macarons angerichtet sind. Dezente Requisiten wie weiße Handtücher oder kleine Blumen im Hintergrund runden das Hotelambiente ab, ohne die Hauptfigur zu überlagern.
+
+【Jahreszeit, Tageszeit & Atmosphäre】
+Eine nächtliche Innenraumszene ohne spezifische Jahreszeit. Draußen ist es vollkommen dunkel; falls ein Fenster zu sehen ist, sind ferne Straßenlaternen und Lichter der nächtlichen Stadt dezent angedeutet. Die Raumtemperatur ist angenehm warm und vermittelt das behagliche Gefühl nach einem wohltuenden Bad.
+Um die Wanne herum schwebt noch ein hauchdünner Dampf, der jedoch keinesfalls den Blick trübt. Die feuchtwarme Luft und die behagliche Beleuchtung betonen den stillen Hotelabend im spürbaren Temperaturkontrast zur kühlen Nacht draußen.
+
+【Personenbeschreibung】
+Eine eindeutig erwachsene, 27-jährige japanische Frau. Weiche, harmonische und typisch erwachsene Gesichtszüge: ausdrucksstarke, etwas größere dunkle Augen, natürliche Augenbrauen, eine elegante Nasenpartie und weiche Lippen mit gesunder Röte. Das Haar ist dunkelbraun, fällt in natürlichen Wellen bis etwa zu den Schultern und ist nach dem Baden locker hochgesteckt, wobei feine Strähnen sanft das Gesicht umspielen.
+Heller Ocker-Hautton mit realistischer Textur samt Poren und feinen Schattierungen, frei von künstlichen Weichzeichnern. Zierliche Schultern und Gliedmaßen sowie eine schlanke Taille verbinden sich mit femininer Fülle zu einer eleganten, natürlich kurvigen Silhouette. Die Brust ist deutlich üppig und voll, wirkt jedoch weder künstlich vergrößert noch starr, sondern schmiegt sich mit weicher, plastischer Natürlichkeit an ihre sitzende Haltung und die Kleidung an.
+
+【Kleidung & Accessoires】
+Ein edles Set aus BH und Slip in champagnerfarbenem Beige. In feinem, an Wacoal erinnerndem Design gehalten, verziert mit zarter floraler Stickerei auf Brust und Slip, Spitzenbordüren und dezentem Satinschimmer. Zart und fein gearbeitet, jedoch ohne übertriebene Transparenz, von stilvoller Anmut.
+Die Passform ist realistisch auf die üppige Oberweite und Hüfte abgestimmt; der Stoff schneidet weder unnatürlich ein noch wirkt er überdehnt. Auf auffälligen Schmuck wird verzichtet – höchstens winzige, dezente Ohrstecker –, sodass Kleidung und Mimik im Mittelpunkt stehen.
+
+【Pose, Bewegung & Blick】
+Die Frau sitzt leicht schräg zur Kamera auf dem breiten, trockenen Rand der Badewanne. Ihre Beine hängen entspannt an der Außenseite herab, die Fußsohlen ruhen auf einer weichen Badematte. Der Rücken ist nicht übertrieben durchgedrückt, ihr Körpergewicht ruht ganz natürlich auf der Sitzfläche.
+Mit einer Hand hält sie einen zart lavendelfarbenen Macaron zwischen den Fingern und verharrt kurz vor den Lippen in der Bewegung. Die andere Hand liegt locker neben ihrem Körper oder auf dem Wannenrand. Sie wendet den Kopf leicht in Richtung Tür und blickt zur Kamera, als sähe sie ihren dort stehenden Partner an.
+
+【Mimik & Emotion】
+Ein sanftes, leicht schelmisches Lächeln, als wolle sie gerade fragen: „Möchtest du auch einen?“. Die Mundwinkel sind natürlich nach oben gezogen, die Lippen leicht geöffnet, passend zur Geste des Macaron-Essens.
+In den Augen liegt Vertrautheit und Freude, Brauen und Wangen wirken entspannt. Keine vordergründige, übertriebene Verführung, sondern ein intimer, warmer Ausdruck, der die vertraute Nähe eines langjährigen Paares widerspiegelt.
+
+【Komposition & Kamera】
+Vertikale 4:5-Komposition für X-Posts. Ganzkörperaufnahme (Full Body), die vom Scheitel bis zu den Zehenspitzen reicht und an Kopf, Händen und Füßen harmonischen Freiraum lässt. Aufgenommen nahe dem Badezimmereingang, sodass die gesamte Gestalt, die Form der Wanne, das Tablett und die Beleuchtung im Hintergrund nahtlos zur Geltung kommen.
+Kamerahöhe knapp unterhalb der Augenhöhe des stehenden Partners. Natürliche Brennweite im Normal- bis leichten Telebereich (äquivalent 50–70 mm), um Weitwinkelverzerrungen an Beinen oder Dekolleté zu vermeiden. Der Hintergrund ist leicht unscharf gehalten, bleibt aber klar als Hotelbadezimmer erkennbar.
+
+【Licht, Farbe, Textur & Stimmung】
+Hauptlichtquelle ist eine warme Wandleuchte schräg vor der Person. Von der Gegenseite mildern schwache Reflexionen von Waschtisch und Marmor die Schatten an Gesicht und Körper sanft ab. Das Licht ist harmonisch dosiert, ohne harte oder übertriebene Glanzlichter auf Haut und Dekolleté.
+Die Haut zeigt natürliche Vitalität und feine Tonabstufungen, das Haar einzelne Strähnen und lebendigen Glanz. Klare Differenzierung der Texturen: Spitze, Stickerei, Satin, Naturstein, Messing, Frottee und Wasseroberfläche. Die Farbgebung basiert auf warmen Tönen wie Champagnerbeige, Elfenbein und zartem Gold und erzeugt eine ruhige, edle und süße nächtliche Atmosphäre.
+
+【Qualität & Ausschlusskriterien】
+Fotorealistische Hochauflösung mit Fokus auf natürlicher Anatomie, Beleuchtung, Perspektive und Textur wie bei einer echten Kameraaufnahme. Keine minderjährig wirkenden Personen, kindlichen Gesichter, anatomischen Fehler, zusätzlichen Gliedmaßen oder Finger, fehlenden oder verschmolzenen Finger, fehlerhaften Gelenke oder vertauschten Hände.
+Keine Kleidungsfehler, Verschmelzung von Körper und Stoff, unbeabsichtigte Nacktheit, unnatürliches Einschneiden von Stoffen, Weitwinkelverzerrungen oder künstliche Hautglättung. Die üppige Brust muss ein natürliches Volumen behalten, ohne starre Kugelform, extreme Push-Up-Effekte oder der Schwerkraft widersprechende Formen. Keinerlei Text, Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

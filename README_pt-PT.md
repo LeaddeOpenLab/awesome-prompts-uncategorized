@@ -116,20 +116,60 @@ Evitar falhas na confeção do vestuário, sobreposição anómala de têxtil co
 
 <a name="prompt-2102528767126352335"></a>
 
-### Tradução em curso
+### Prompt fotorrealista de uma mulher adulta em lingerie bege champanhe, sentada na borda da banheira numa sofisticada casa de banho de hotel à noite, a sorrir enquanto leva um macaron aos lábios.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2102528767126352335)
 
 Fotografia · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt fotorrealista de uma mulher adulta em lingerie bege champanhe, sentada na borda da banheira numa sofisticada casa de banho de hotel à noite, a sorrir enquanto leva um macaron aos lábios.
 
 <img src="images/2102528767126352335-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+🌟 Casa de Banho de Hotel Noturna | Macaron e Doce Sedução 🌟
+
+【Tema e Estilo Visual】
+Retratar um momento íntimo numa requintada casa de banho de hotel à noite, onde uma mulher japonesa claramente adulta se senta na borda da banheira, levando um macaron à boca enquanto sorri com doçura para o seu parceiro íntimo. O estilo visual é fundamentalmente fotorrealista, equilibrando a serenidade de um hotel de luxo com uma intimidade autêntica e quotidiana, assemelhando-se a um fotograma cinematográfico.
+Evitar a rigidez excessivamente polida de fotografias de moda, priorizando um instante natural e espontâneo captado por acaso. O vestuário, as expressões, o macaron nas mãos, a iluminação acolhedora e a profundidade da casa de banho devem harmonizar-se para transmitir a graciosidade madura e tranquila de uma mulher adulta.
+
+【Local, Cenário e Universo】
+O cenário é uma espaçosa casa de banho de hotel à noite, decorada com pedra natural ou mármore em tons suaves de bege. Ao fundo, uma banheira ampla com torneiras e guarnições em tom de latão, e apliques de parede com design discreto. A bancada do lavatório e os espelhos integram-se naturalmente no segundo plano, transmitindo a limpeza e a sofisticação características de um hotel.
+Ao lado da mulher, sobre um pequeno tabuleiro de metal ou pedra, repousam dois macarons de tons suaves. Em plano de fundo, toalhas brancas e pequenas flores complementam o espaço com apontamentos mínimos que reforçam o ambiente hoteleiro sem ofuscar a protagonista.
+
+【Estação, Horário e Clima】
+Cena de interior noturna, sem estação do ano explicitamente definida. No exterior, a noite já caiu por completo; se uma janela for visível, pequenas luzes urbanas e a paisagem noturna distante surgem ao longe. A temperatura ambiente é agradavelmente tépida, com a atmosfera relaxante de quem acabou de tomar banho.
+Uma névoa muito subtil paira junto à banheira, sem prejudicar a visibilidade. O ar ligeiramente húmido e a iluminação quente evidenciam a diferença térmica face à noite exterior, expressando a tranquilidade de uma noite num hotel silencioso.
+
+【Caracterização da Personagem】
+Mulher japonesa claramente adulta, de 27 anos. Feições maduras, suaves e harmoniosas, com olhos expressivos e escuros, sobrancelhas naturais, nariz fino e lábios macios e corados. Cabelo castanho-escuro com ondulações naturais até aos ombros, parcialmente apanhado de forma ligeira como após o banho, com madeixas finas soltas a emoldurar o rosto.
+Pele em tom ocre claro com textura realista, sem filtros artificiais de embelezamento excessivo, revelando poros subtis e sombras finas. Silhueta elegante e naturalmente curvilínea, que concilia ombros e membros delicados com cintura delgada e formas femininas generosas. O peito é visivelmente farto e volumoso, contudo sem desproporções artificiais ou rigidez, mantendo um volume macio e condizente com a postura sentada e o vestuário.
+
+【Vestuário e Acessórios】
+Conjunto sofisticado de lingerie com soutien e cuecas em tom bege champanhe, com corte requintado a lembrar a linha da Wacoal. Pormenores minuciosos de bordados florais discretos no decote e nas cuecas, rematados com rendas delicadas e um brilho acetinado subtil. O tecido tem ligeira transparência, mas permanece elegante sem revelações indevidas.
+O vestuário apresenta dimensões realistas adaptadas às suas formas e ancas, sem repuxar anormalmente o tecido nem marcar em demasia o corpo. Sem acessórios de destaque, usando no máximo brincos pequenos e discretos, para que o vestuário e a expressão facial permaneçam no centro das atenções.
+
+【Pose, Movimento e Olhar】
+A mulher encontra-se sentada na borda larga e seca da banheira, com o corpo ligeiramente orientado na diagonal em relação à câmara. As pernas descem naturalmente para o exterior da banheira, apoiando os pés num tapete macio. A postura lombar não é forçada, com o peso do corpo a repousar suavemente na superfície de apoio.
+Com uma das mãos segura com delicadeza um macaron lavanda suave, detendo o movimento a escassos centímetros dos lábios. A outra mão repousa descontraidamente junto ao corpo ou sobre a borda da banheira. O rosto vira-se ligeiramente para a zona da porta, dirigindo o olhar para a câmara, como se estivesse a olhar para o companheiro que aí se encontra.
+
+【Expressão e Emoção】
+Um sorriso doce e subtilmente cúmplice, como se estivesse prestes a perguntar: "Queres um pedaço?". Os cantos da boca erguem-se com naturalidade sem fechar por completo os lábios, acompanhando o gesto de levar o macaron à boca.
+Os olhos revelam carinho e à-vontade, com as sobrancelhas e as maçãs do rosto ligeiramente descontraídas. Não se procura uma sedução agressiva, mas sim uma expressão calorosa e natural que evoque a cumplicidade de uma relação duradoura.
+
+【Composição e Câmara】
+Composição vertical em formato 4:5 destinada a publicações no X. Enquadramento de corpo inteiro (full body), com margens generosas da cabeça aos pés, assegurando o devido respiro no topo, nas mãos e na base. A captação é feita a partir da zona de entrada da casa de banho, mostrando de forma equilibrada a figura completa, o contorno da banheira, o tabuleiro e as luzes de fundo.
+A altura da câmara situa-se ligeiramente abaixo da linha de visão de alguém de pé. Recorre-se a uma distância focal padrão a média teleobjetiva (equivalente a 50–70 mm), evitando distorções de grande angular nos membros ou no peito. O fundo exibe uma suave desfocagem, suficiente para manter a perceção nítida do ambiente requintado da casa de banho.
+
+【Luz, Cor, Textura e Ambiente】
+A fonte luminosa principal provém de um aplique de parede de luz quente, situado na diagonal frontal da figura. Do lado oposto incidem reflexos suaves do lavatório e das superfícies em pedra, atenuando as sombras do rosto e do corpo. A iluminação é contida, sem realces excessivos no decote ou na pele.
+A pele revela um tom rosado natural e sombras subtis; o cabelo demonstra definição em cada madeixa e brilho equilibrado. Texturas diferenciadas e ricas para renda, bordados, cetim, pedra, latão, turcos macios e água. A paleta cromática assenta em tons quentes como bege champanhe, marfim e dourado suave, compondo uma atmosfera noturna serena, nobre e adocicada.
+
+【Qualidade e Elementos a Excluir】
+Acabamento fotorrealista de alta definição, replicando uma fotografia captada por câmara real, com anatomia verosímil, iluminação correta, perspetiva e textura de materiais autênticas. Evitar aspeto menor de idade, traços faciais infantis, anomalias corporais, membros ou dedos a mais, dedos em falta, dedos fundidos, articulações deformadas ou mãos trocadas.
+Sem falhas de vestuário, sem fusão entre corpo e tecido, sem exposição indesejada, sem tecidos que marquem a pele de forma grotesca, sem distorção por grande angular e sem pele artificialmente retocada. O peito deve manter volume farto e natural, sem esferas rígidas, sem efeitos "push-up" irreais e sem contrariar a gravidade. A imagem não deve conter texto, logótipos, marcas de água nem elementos de interface (UI).
 ```
 
 [↑ Voltar às categorias](#catalog)

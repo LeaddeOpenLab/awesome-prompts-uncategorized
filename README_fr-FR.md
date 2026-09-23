@@ -116,20 +116,60 @@ Haute résolution, privilégiant un corps humain, une lumière, des matières et
 
 <a name="prompt-2102528767126352335"></a>
 
-### Traduction en cours
+### Prompt photoréaliste représentant une femme adulte en lingerie beige champagne assise sur le rebord d'une baignoire dans la salle de bains d'un hôtel de luxe la nuit, souriant tout en portant un macaron à ses lèvres.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2102528767126352335)
 
 Photographie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt photoréaliste représentant une femme adulte en lingerie beige champagne assise sur le rebord d'une baignoire dans la salle de bains d'un hôtel de luxe la nuit, souriant tout en portant un macaron à ses lèvres.
 
 <img src="images/2102528767126352335-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Salle de bains d'hôtel la nuit | Macaron et douce séduction🌟
+
+【Sujet et style】
+Dans la salle de bains raffinée d'un hôtel haut de gamme la nuit, immortaliser l'instant où une femme japonaise manifestement adulte est assise sur le rebord de la baignoire, portant un macaron à ses lèvres tout en adressant un doux sourire à son compagnon intime. Dans un style photoréaliste, créer une esthétique photographique digne d'une scène de film, conjuguant la sérénité d'un grand hôtel et la chaleur d'une intimité complice.
+Loin de la raideur trop léchée d'une séance de mode, privilégier un instant naturel saisi sur le vif. La lingerie, l'expression, le macaron en main, l'éclairage chaleureux et la profondeur de la salle de bains doivent s'harmoniser pour faire ressortir le charme paisible d'une femme mature.
+
+【Lieu, décor et ambiance】
+Le lieu est la vaste salle de bains d'un hôtel de nuit, parée de pierre naturelle ou de marbre beige clair. Au fond se trouvent une large baignoire, une robinetterie aux tons laiton et des appliques murales au design épuré. Le meuble-vasque et le miroir s'intègrent naturellement à l'arrière-plan, suggérant la propreté et le grand standing propres à l'hôtellerie de luxe.
+À côté de la jeune femme repose un petit plateau en métal ou en pierre sur lequel sont disposés deux macarons aux teintes pastel. À l'arrière-plan, quelques serviettes blanches ou de petites fleurs complètent avec discrétion l'atmosphère feutrée sans voler la vedette au sujet principal.
+
+【Saison, heure et climat】
+Une scène intérieure nocturne sans saison marquée. À l'extérieur, la nuit est complète ; si une fenêtre apparaît, les lueurs lointaines des réverbères et du paysage urbain s'y devinent à peine. La température ambiante est doucement tiède, évoquant l'atmosphère apaisante qui suit un bain chaud.
+Une très fine buée persiste autour de la baignoire, sans jamais troubler la vue. L'air délicatement humide et l'éclairage tamisé expriment la quiétude d'une nuit d'hôtel, en contraste thermique avec la fraîcheur extérieure.
+
+【Personnage】
+Femme japonaise manifestement adulte de 27 ans. Traits doux, harmonieux et affirmés d'une femme d'âge mûr : yeux sombres expressifs et légèrement grands, sourcils naturels, nez délicat et lèvres pulpeuses au teint frais. Cheveux châtain foncé aux ondulations naturelles tombant vers les épaules, légèrement attachés comme après le bain, avec de fines mèches folles encadrant avec douceur le visage.
+Teint ocre clair à la texture réaliste laissant paraître les pores et de subtiles ombres, sans lissage excessif. Silhouette raffinée et naturellement plantureuse, alliant des épaules menues, des membres délicats, une taille fine et des rondeurs féminines harmonieuses. La poitrine est nettement généreuse et galbée, sans démesure artificielle ni raideur, adoptant un relief souple et tridimensionnel conforme à la posture assise et au vêtement.
+
+【Tenue et accessoires】
+Un ensemble raffiné de soutien-gorge et culotte dans une nuance beige champagne. Une confection délicate évoquant l'univers de Wacoal, ornée de fines broderies fleuries sur le décolleté et la culotte, bordée de dentelle et rehaussée d'un satin discret. Un jeu de texture raffiné sans transparence excessive, plein d'élégance.
+La coupe est parfaitement ajustée à ses formes généreuses, sans étirement incongru du tissu ni marques de pression exagérées sur la peau. Aucun bijou ostentatoire ; tout au plus de discrètes puces d'oreilles, afin que la lingerie et l'expression restent au premier plan.
+
+【Pose, mouvement et regard】
+La femme est assise sur le large rebord sec de la baignoire, le corps légèrement tourné de trois-quarts vers l'objectif. Ses jambes retombent naturellement vers l'extérieur de la cuve, la plante des pieds reposant sur un tapis de bain moelleux. Le dos n'est pas exagérément cambré, le poids du corps repose avec naturel sur l'assise.
+D'une main, elle tient délicatement un macaron lavande pâle, suspendant son geste juste devant ses lèvres. L'autre main est posée avec nonchalance à côté d'elle ou sur le rebord de la baignoire. Tournant doucement la tête vers la porte, elle pose son regard sur la caméra comme si elle contemplait son compagnon présent dans la pièce.
+
+【Expression et émotion】
+Un sourire doux et délicatement espiègle, comme sur le point de proposer : « Tu en veux un ? ». Les commissures des lèvres s'étirent avec naturel et la bouche est légèrement entrouverte, en harmonie avec le geste d'approcher le macaron.
+Le regard pétille de tendresse et de complicité, les sourcils et les pommettes sont légèrement détendus. Loin d'une séduction forcée, privilégier une expression chaleureuse et naturelle qui évoque la connivence d'un couple uni depuis longtemps.
+
+【Composition et cadrage】
+Format vertical 4:5 adapté à une publication sur X. Plan en pied complet (full body) englobant aisément le sujet du sommet du crâne jusqu'au bout des orteils, en préservant un espace suffisant au-dessus de la tête, aux mains et sous les pieds. Prise de vue depuis les abords de l'entrée de la salle de bains, dévoilant avec fluidité le corps entier, le galbe de la baignoire, le plateau et l'éclairage d'arrière-plan en une seule image.
+Hauteur d'appareil placée juste en dessous du regard d'un compagnon debout. Utilisation d'une focale naturelle standard à moyen téléobjectif (équivalent 50-70 mm) pour éviter toute déformation des jambes ou du buste liée au grand-angle. Arrière-plan légèrement flouté, conservant juste ce qu'il faut d'indices visuels pour identifier la salle de bains d'un hôtel.
+
+【Lumière, couleur, texture et ambiance】
+La source lumineuse principale est une applique murale aux tons chauds située en diagonale face au sujet. À l'opposé, les faibles reflets de la vasque et du marbre viennent adoucir avec subtilité les ombres sur le visage et le corps. La lumière reste tempérée, sans éclats excessifs sur la peau ou la poitrine.
+La peau révèle un éclat vivant et des nuances d'ombres subtiles ; chaque mèche de cheveux conserve son mouvement et son brillant naturel. Différenciation nette des matières : dentelle, broderie, satin, pierre, laiton, éponge et reflets de l'eau. Palette dominée par des teintes chaleureuses de beige champagne, d'ivoire et d'or pâle, composant une ambiance nocturne feutrée, distinguée et délicatement sucrée.
+
+【Qualité et exclusions】
+Rendu photoréaliste haute définition, mettant l'accent sur une anatomie, une lumière, une perspective et des textures aussi authentiques qu'avec un véritable appareil photo. Exclure tout sujet paraissant mineur, traits d'enfant, anatomie déformée, membres ou doigts surnuméraires, doigts manquants ou fusionnés, articulations improbables ou confusion entre mains gauche et droite.
+Éviter les défauts vestimentaires, la fusion entre tissu et peau, la nudité involontaire, les marques d'étranglement excessives, les distorsions au grand-angle et le lissage artificiel de la peau. La poitrine doit conserver un volume généreux et naturel, sans aspect sphérique rigide, effet pigeonnant excessif ni forme défiant la gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)

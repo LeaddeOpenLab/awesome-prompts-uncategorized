@@ -116,20 +116,60 @@ Kıyafet bozulmaları, ten ile kumaşın birbirine karışması, doğal olmayan 
 
 <a name="prompt-2102528767126352335"></a>
 
-### Çeviri sürüyor
+### Gece lüks bir otel banyosunda, şampanya beji iç çamaşırı giymiş yetişkin bir kadının küvet kenarında oturup makaronu dudaklarına götürürken gülümsediği anı gösteren fotogerçekçi görsel komutu.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2102528767126352335)
 
 Fotoğrafçılık · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Gece lüks bir otel banyosunda, şampanya beji iç çamaşırı giymiş yetişkin bir kadının küvet kenarında oturup makaronu dudaklarına götürürken gülümsediği anı gösteren fotogerçekçi görsel komutu.
 
 <img src="images/2102528767126352335-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟 Gece Otel Banyosu | Makaron ve Yumuşak Bir Çekicilik 🌟
+
+【Ana Tema ve Görsel Tarz】
+Gece vakti lüks bir otel banyosunda, açıkça yetişkin olduğu belli olan Japon bir kadının küvetin kenarına oturmuş, elindeki makaronu dudaklarına götürürken yanı başındaki sevgilisine tatlı bir tebessümle baktığı anı resmetmek. Temelde fotogerçekçi bir yaklaşımla, lüks bir otelin sunduğu sessiz dinginlik ile samimi ve yaşanmışlık dolu bir yakınlığı bir araya getiren, adeta bir film karesini andıran fotoğrafik bir anlatım yakalanmalıdır.
+Moda çekimlerinin aşırı kurgulanmış katılığından uzak durulmalı, tesadüfen yakalanmış doğal bir ana odaklanılmalıdır. Kıyafet, yüz ifadesi, eldeki makaron, sıcak aydınlatma ve banyonun derinliği mükemmel bir uyum sergileyerek olgun ve sakin bir sevimliliği yansıtmalıdır.
+
+【Mekân, Arka Plan ve Atmosfer】
+Mekân, gece saatlerinde açık bej tonlarında doğal taş veya mermerle kaplanmış ferah bir otel banyosudur. Arka planda geniş bir küvet, pirinç renginde bataryalar ve armatürler ile duvarda sade tasarımlı aplik lambalar yer alır. Lavabo tezgâhı ve ayna arka planda doğal bir şekilde görünerek otellere özgü temizlik ve yüksek kalite hissini pekiştirir.
+Kadının yanında küçük, metal ya da taştan yapılmış bir tepsi bulunur ve üzerinde açık tonlarda iki adet makaron yan yana dizilidir. Arka planda beyaz havlular ve küçük çiçekler gibi asgari düzeyde dekoratif unsurlar yer alarak, ana özneyi gölgelemeden otel ambiyansını tamamlar.
+
+【Mevsim, Zaman ve Hava Durumu】
+Belirli bir mevsime belirgin şekilde bağlı olmayan, gece saatlerine ait bir iç mekân sahnesidir. Dışarıda hava tamamen kararmıştır; şayet pencere görünüyorsa, uzaktaki sokak lambaları ve gece şehir manzarası ufak detaylar halinde seçilmelidir. Oda sıcaklığı hafif ılıktır ve banyodan yeni çıkılmış hissi veren huzurlu bir hava hâkimdir.
+Küvet çevresinde hafif bir su buharı kalıntısı bulunur ancak görüşü engelleyecek kadar yoğun değildir. Hissedilen hafif nemli hava ve sıcak aydınlatma, dışarıdaki gecenin soğukluğuyla tezat oluşturarak otel gecesinin dinginliğini vurgular.
+
+【Karakter Özellikleri】
+Açıkça yetişkin olduğu anlaşılan 27 yaşında Japon bir kadın. Yumuşak hatlı, zarif ve olgun yüz özelliklerine; iri, koyu renkli gözlere, doğal kaşlara, asil bir burun yapısına ve hafif renkli, dolgun dudaklara sahiptir. Saçları koyu kahverengi renkte, omuz hizasında ve doğal dalgalıdır; banyodan yeni çıkmışçasına hafifçe toplanmış olup yüz çevresinden ince saç tutamları serbestçe dökülür.
+Cilt tonu açık aşıboyası tonlarındadır; aşırı pürüzsüzleştirme filtrelerinden kaçınılmış, gözeneklerin ve hafif gölgelerin net biçimde seçilebildiği gerçekçi bir dokuya sahiptir. Narin omuz ve uzuvlar, ince bir bel ve kadınsı kıvrımların dengelendiği zarif ve doğal olarak dolgun bir vücut yapısı vardır. Göğüsler belirgin biçimde büyük ve dolgundur; ancak yapay bir büyüklükten ve sertlikten kaçınılmalı, oturma pozisyonuna ve iç çamaşırına uyumlu yumuşak bir hacim sergilenmelidir.
+
+【Kıyafet ve Aksesuarlar】
+Kıyafet, şampanya beji renginde zarif bir sütyen ve külot takımından oluşur. Wacoal tarzını anımsatan incelikli bir tasarıma sahip olup, göğüs ve külot kısımlarında küçük çiçek işlemeleri, dantel biyeler ve hafif saten ışıltılar barındırır. Hafif bir transparanlık olsa da asla aşırı açık değildir, son derece ölçülü ve asil bir duruşa sahiptir.
+Dolgun göğüs ve kalça hatlarına tam oturan gerçekçi kalıplarda olmalı, kumaş anormal şekilde gerilmemeli veya vücudu rahatsız edici şekilde sıkmamalıdır. Aksesuar neredeyse hiç kullanılmamalı, gerekirse sadece küçük küpeler tercih edilerek dikkatler kıyafete ve yüz ifadesine çekilmelidir.
+
+【Poz, Hareket ve Bakış】
+Kadın, geniş ve kuru küvet kenarına, vücudu kameraya hafif çapraz bakacak şekilde oturmuştur. Bacakları küvetin dışına doğru doğal bir şekilde uzanmakta, ayak tabanları yumuşak bir banyo paspasına basmaktadır. Beli aşırı kavisli değildir, ağırlık merkezi oturma yüzeyine doğal olarak bırakılmıştır.
+Bir eliyle açık lavanta renginde bir makaronu nazikçe tutmakta ve dudaklarının hemen yakınına getirip hareketini orada durdurmaktadır. Diğer eli vücudunun yanında veya küvet kenarında serbestçe dinlenmektedir. Başını hafifçe kapı yönüne çevirerek, orada duran sevgilisine bakar gibi gözlerini kameraya dikmiştir.
+
+【Yüz İfadesi ve Duygu】
+"Bir tane yemek ister misin?" diye sormak üzereymiş gibi yumuşak ve hafif cilveli, muzip bir gülümseme. Dudak kenarları doğal bir biçimde hafifçe yukarı kıvrılmış, dudaklar tamamen kapanmamış ve makaronu ağzına götürme eylemiyle uyum içindedir.
+Gözlerinde yakınlık ve keyif okunur, kaşlar ve yanaklar hafifçe gevşemiştir. Abartılı bir baştan çıkarma yerine, uzun süredir birlikte olan bir çiftin arasındaki samimiyeti ve sıcaklığı hissettiren doğal bir ifade ön plandadır.
+
+【Kompozisyon ve Kamera】
+X (Twitter) paylaşımlarına uygun 4:5 dikey kompozisyon. Başın tepesinden ayak uçlarına kadar tüm vücudu rahatça içine alan tam boy (full body) çekim; başın üstünde, ellerin kenarında ve ayakların altında uygun boşluklar bırakılmıştır. Çekim banyo kapısının hemen girişinden yapılmış gibi kurgulanarak kadının tüm bedeni, küvetin formu, tepsi ve arka plandaki aydınlatma tek bir karede doğal bir şekilde gösterilmektedir.
+Kamera yüksekliği, ayakta duran sevgilisinin göz hizasından biraz daha aşağıdadır. 50-70 mm eşdeğeri standart ile orta-telefoto arası doğal bir odak uzaklığı kullanılarak, geniş açının bacakları veya göğsü deforme edip abartması engellenir. Arka plan hafifçe flulaştırılmış (bokeh) olsa da buranın bir otel banyosu olduğunu belirten detaylar korunmuştur.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, kadının çapraz ön tarafından vuran sıcak tonlu duvar aplik lambasıdır. Karşı taraftan ise lavabo tezgâhı ve taş yüzeylerden yansıyan zayıf dolgu ışığı yüzdeki ve bedendeki gölgeleri yumuşatır. Işık aşırı patlamamalı, göğüs veya ten üzerinde sert parlamalar oluşmamalıdır.
+Ciltte doğal canlılık ve ince gölgeler, saçlarda tek tek tel ayrımı ve doğal bir parlaklık yer almalıdır. Dantel, nakış, saten, doğal taş, pirinç, havlu dokusu ve su yüzeyi gibi farklı malzemelerin dokuları açıkça ayırt edilebilmelidir. Renk paleti şampanya beji, fildişi ve açık altın tonları etrafında şekillenerek sakin, asil ve tatlı bir gece atmosferi oluşturur.
+
+【Kalite ve Negatif Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi anlatım; gerçek bir fotoğraf makinesiyle çekilmiş gibi doğal insan anatomisi, ışık, derinlik ve doku ön planda tutulmalıdır. Reşit görünmeyen kişiler, çocuksu yüz hatları, anatomik bozukluklar, fazla kol/bacak/parmak, eksik veya birleşik parmaklar, garip eklemler ve el karışıklıkları kesinlikle yer almamalıdır.
+Kıyafette yırtılma ve bozulmalar, bedenle kumaşın birbirine karışması, istenmeyen teşhircilik, aşırı sıkışma, geniş açı deformasyonu ve yapay cilt pürüzsüzleştirme filtreleri hariç tutulmalıdır. Göğüsler doğal ve dolgun hacmini korumalı; sert küreler halinde, aşırı yapay 'push-up' etkisiyle veya yerçekimine meydan okuyan garip formlarda çizilmemelidir. Görselde hiçbir metin, logo, filigran veya kullanıcı arayüzü (UI) unsuru bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
