@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T00:30:46.274Z",
+  "model": "unknown-video",
+  "prompt": "Grunge and expressionist style artistic illustration of the attached model, painted on a rough and visible canvas texture. The work features dramatic high contrast with a vibrant, saturated red background that fades to black. The model’s body is painted in dark teal and blue-gray tones, with intense red backlighting strongly illuminating her right side, creating a bright red glow at the edges. Gestural, loose and textured brushstrokes can be seen throughout the composition. The background includes black, blurry silhouettes that suggest vegetation. The bottom has a paint splatter and stain effect. Dramatic, tactile and worn atmosphere.",
+  "promptTranslations": {
+    "en": "Grunge and expressionist style artistic illustration of the attached model, painted on a rough and visible canvas texture. The work features dramatic high contrast with a vibrant, saturated red background that fades to black. The model’s body is painted in dark teal and blue-gray tones, with intense red backlighting strongly illuminating her right side, creating a bright red glow at the edges. Gestural, loose and textured brushstrokes can be seen throughout the composition. The background includes black, blurry silhouettes that suggest vegetation. The bottom has a paint splatter and stain effect. Dramatic, tactile and worn atmosphere."
+  },
+  "summaryTranslations": {
+    "en": "Expressionist and grunge style dark model illustration prompt, emphasizing a high-contrast red and black background, cool-toned skin, and red rim lighting."
+  },
+  "translationVersion": 2,
+  "summary": "表现主义与垃圾摇滚风格的暗色模特插画提示词，强调红黑强对比背景、冷调肤色与红色轮廓光。",
+  "summaryEn": "Expressionist and grunge artistic prompt featuring a high-contrast dark model against a saturated red background with rim lighting.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2102381552822825331",
+      "canonicalUrl": "https://x.com/Sealine752/status/2102381552822825331",
+      "author": {
+        "username": "Sealine752",
+        "displayName": "⊱❀⊰ Sealine ⊱❀⊰",
+        "profileUrl": "https://x.com/Sealine752"
+      },
+      "originalText": "Amazing prompt share by @her19845 \nFound via @ScorpionAiArt ; Created @budgetpixel \n\nLeft to right: Prompt share version, color modified prompt share version and original image reference. https://t.co/7X6gj4V0sk"
+    },
+    "id": "2102494555648213495",
+    "canonicalUrl": "https://x.com/MikaMilaniX/status/2102494555648213495",
+    "author": {
+      "username": "MikaMilaniX",
+      "displayName": "Mika Milani",
+      "profileUrl": "https://x.com/MikaMilaniX"
+    },
+    "publishedAt": "2026-09-22T20:25:39.000Z",
+    "collectedAt": "2026-09-23T00:15:29.769Z",
+    "language": "en",
+    "originalText": "❤️‍🔥🎨 PROMPT SHARE — MIKA VIDEO SPIN\n\nThis one was way too cool not to try. 🔥\n\nAmazing prompt shared by @her19845, found via @ScorpionAiArt, with the original creation by @budgetpixel — and thanks @Sealine752 for putting it on my timeline! ❤️\n\nI gave the prompt to Mika… and then decided a still image wasn’t enough. 😂\n\nSo here’s my animated Mika spin on it. 🎬✨\n\nLove how the rough grunge texture, red light and dark atmosphere translate into motion.\n\nOriginal prompt below if you want to try your own version. 👇\n\nGrunge and expressionist style artistic illustration of the attached model, painted on a rough and visible canvas texture. The work features dramatic high contrast with a vibrant, saturated red background that fades to black. The model’s body is painted in dark teal and blue-gray tones, with intense red backlighting strongly illuminating her right side, creating a bright red glow at the edges. Gestural, loose and textured brushstrokes can be seen throughout the composition. The background includes black, blurry silhouettes that suggest vegetation. The bottom has a paint splatter and stain effect. Dramatic, tactile and worn atmosphere.\n\nIf you try it, show me what you create! ❤️‍🔥🎨",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/MikaMilaniX/status/2102494555648213495",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102494510899200000/img/3o40xTvxB12w3XMV.jpg",
+        "analysisUrl": "https://x.com/MikaMilaniX/status/2102494555648213495"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0ozIvWQAAHko9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0ozIvWQAAHko9.jpg",
+        "sourcePostId": "2102381552822825331"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0o0ukWIAAY7p2.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0o0ukWIAAY7p2.jpg",
+        "sourcePostId": "2102381552822825331"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS0o0ujXwAAZ8xQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS0o0ujXwAAZ8xQ.jpg",
+        "sourcePostId": "2102381552822825331"
+      }
+    ],
+    "metrics": {
+      "likeCount": 14,
+      "repostCount": 1,
+      "replyCount": 5,
+      "quoteCount": 1,
+      "viewCount": 663
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/MikaMilaniX/status/2102494555648213495",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102494510899200000/img/3o40xTvxB12w3XMV.jpg",
+  "coverPath": "covers/2102494555648213495.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102494510899200000",
+    "x-image:/media/HS0ozIvWQAAHko9",
+    "x-image:/media/HS0o0ukWIAAY7p2",
+    "x-image:/media/HS0o0ujXwAAZ8xQ",
+    "x-post:2102494555648213495",
+    "x-post:2102381552822825331"
+  ],
+  "analysis": {
+    "summary": "表现主义与垃圾摇滚风格的暗色模特插画提示词，强调红黑强对比背景、冷调肤色与红色轮廓光。",
+    "summaryEn": "Expressionist and grunge artistic prompt featuring a high-contrast dark model against a saturated red background with rim lighting.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成媒体完全体现了红黑渐变高反差背景、冷色调皮肤以及强烈的红色边缘背光与表现主义质感。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "Grunge and expressionist style artistic illustration of the attached model, painted on a rough and visible canvas texture. The work features dramatic high contrast with a vibrant, saturated red background that fades to black. The model’s body is painted in dark teal and blue-gray tones, with intense red backlighting strongly illuminating her right side, creating a bright red glow at the edges. Gestural, loose and textured brushstrokes can be seen throughout the composition. The background includes black, blurry silhouettes that suggest vegetation. The bottom has a paint splatter and stain effect. Dramatic, tactile and worn atmosphere.",
+    "sourceRange": {
+      "start": 514,
+      "end": 1156
+    },
+    "translations": {
+      "zh": "附带模型的垃圾摇滚与表现主义风格艺术插画，绘制在粗糙显眼的画布纹理上。画面具有戏剧性的高对比度，鲜艳饱和的红色背景渐变至黑色。模特身体采用深蓝绿与蓝灰冷色调绘制，强烈的红色逆光照亮其右侧，在边缘形成鲜艳红光。整体可见随性松散的肌理笔触，背景含模糊黑色植被剪影，底部带有溅墨污渍效果，呈现戏剧性、可触知且磨损的质感氛围。",
+      "en": "Grunge and expressionist style artistic illustration of the attached model, painted on a rough and visible canvas texture. The work features dramatic high contrast with a vibrant, saturated red background that fades to black. The model’s body is painted in dark teal and blue-gray tones, with intense red backlighting strongly illuminating her right side, creating a bright red glow at the edges. Gestural, loose and textured brushstrokes can be seen throughout the composition. The background includes black, blurry silhouettes that suggest vegetation. The bottom has a paint splatter and stain effect. Dramatic, tactile and worn atmosphere."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "角色概念艺术与表现主义风格插画生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.85,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

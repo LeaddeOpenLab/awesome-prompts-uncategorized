@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T00:31:12.886Z",
+  "model": "grok",
+  "prompt": "make a spooky cyberpunk vampire who's an electro man",
+  "promptTranslations": {
+    "en": "make a spooky cyberpunk vampire who's an electro man"
+  },
+  "summaryTranslations": {
+    "en": "A spooky cyberpunk vampire with electrical powers."
+  },
+  "translationVersion": 2,
+  "summary": "A spooky cyberpunk vampire with electrical powers.",
+  "summaryEn": "A spooky cyberpunk vampire with electrical powers.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102549024704278928",
+    "canonicalUrl": "https://x.com/forfour4fourfor/status/2102549024704278928",
+    "author": {
+      "username": "forfour4fourfor",
+      "displayName": "primarch",
+      "profileUrl": "https://x.com/forfour4fourfor"
+    },
+    "publishedAt": "2026-09-23T00:02:05.000Z",
+    "collectedAt": "2026-09-23T00:15:29.769Z",
+    "language": "en",
+    "originalText": "Grok Imagine prompt:\n\nmake a spooky cyberpunk vampire who's an electro man /cer I/￼ https://t.co/BcOlEAhOzy",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/forfour4fourfor/status/2102549024704278928",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102549009676038144/img/G2Nd1tQkPWDfHrJp.jpg",
+        "analysisUrl": "https://x.com/forfour4fourfor/status/2102549024704278928"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 28
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/forfour4fourfor/status/2102549024704278928",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102549009676038144/img/G2Nd1tQkPWDfHrJp.jpg",
+  "coverPath": "covers/2102549024704278928.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102549009676038144",
+    "x-post:2102549024704278928"
+  ],
+  "analysis": {
+    "summary": "A spooky cyberpunk vampire with electrical powers.",
+    "summaryEn": "A spooky cyberpunk vampire with electrical powers.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video features a cyberpunk vampire in a neon street with electricity crackling from his body, perfectly aligning with the electro cyberpunk vampire prompt."
+    },
+    "videoQuality": null,
+    "originalPrompt": "make a spooky cyberpunk vampire who's an electro man",
+    "sourceRange": {
+      "start": 22,
+      "end": 74
+    },
+    "translations": {
+      "zh": "制作一个诡异的赛博朋克吸血鬼，他是一个电人",
+      "en": "make a spooky cyberpunk vampire who's an electro man"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "character_design",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

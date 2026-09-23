@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T00:31:24.846Z",
+  "model": "unknown-image",
+  "prompt": "{\n  \"prompt_type\": \"photorealistic_reference_reconstruction\",\n  \"objective\": \"Recreate the supplied reference as a clean vertical smartphone selfie. Match face, freckles, messy dark wavy hair, black tank, bedroom clutter, soft window light, bored/neutral expression. Remove all text, UI, logos, watermarks.\",\n  \"reference_fidelity\": {\n    \"target\": \"extremely high visual similarity\",\n    \"priority_order\": [\n      \"facial proportions and heavy-lidded brown eyes\",\n      \"freckles across nose and cheeks\",\n      \"messy voluminous dark-brown wavy hair with flyaways\",\n      \"black ribbed tank top\",\n      \"soft natural window light from camera-left\",\n      \"cluttered bedroom background\",\n      \"raw phone selfie texture\"\n    ]\n  },\n  \"canvas\": {\n    \"orientation\": \"portrait\",\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"close head-and-shoulders smartphone selfie\",\n    \"crop\": \"top of hair to upper chest\",\n    \"subject_alignment\": \"centered, slight forward lean\",\n    \"perspective\": \"arm-length front camera, mild wide\"\n  },\n  \"scene\": {\n    \"location\": \"lived-in bedroom\",\n    \"time_of_day\": \"daytime\",\n    \"mood\": \"candid just-woke-up UGC\",\n    \"environment\": {\n      \"left\": \"white dresser with blurry clutter on top\",\n      \"behind\": \"unmade bed with rumpled grey and black bedding\",\n      \"walls\": \"neutral off-white\"\n    }\n  },\n  \"subject\": {\n    \"description\": \"young adult woman early 20s\",\n    \"expression\": \"neutral, slightly tired / pensive, mouth closed\",\n    \"gaze\": \"directly into camera\",\n    \"skin\": {\n      \"tone\": \"pale / fair\",\n      \"detail\": \"prominent natural freckles on nose and cheeks\",\n      \"finish\": \"matte-natural, visible pores, no plastic beauty filter\"\n    },\n    \"eyes\": {\n      \"color\": \"dark brown\",\n      \"look\": \"heavy-lidded / sleepy\"\n    },\n    \"lips\": \"full, natural no makeup\",\n    \"hair\": {\n      \"color\": \"dark brown\",\n      \"style\": \"messy voluminous waves / soft curls\",\n      \"detail\": \"many fine flyaway strands around face and forehead\",\n      \"vibe\": \"damp or just-woke-up, not salon\"\n    },\n    \"clothing\": {\n      \"top\": \"black ribbed tank top\",\n      \"extra\": \"black cardigan or sweater sleeve visible on extended arm\"\n    },\n    \"pose\": {\n      \"arm\": \"right arm extended toward camera (selfie)\",\n      \"shoulder\": \"casual forward lean\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"soft diffused natural light\",\n    \"direction\": \"from camera-left / window-left\",\n    \"face\": \"gentle highlight left, soft shadow right\",\n    \"quality\": \"overcast-soft, low contrast\"\n  },\n  \"camera\": {\n    \"device\": \"modern smartphone front camera\",\n    \"look\": \"raw UGC: mild noise, slight compression, shallow background blur\",\n    \"focus\": \"sharp on face and hair strands\"\n  },\n  \"negative_prompt\": [\n    \"beauty filter glaze\",\n    \"plastic skin\",\n    \"perfect salon hair\",\n    \"studio lighting\",\n    \"text\",\n    \"UI\",\n    \"logos\",\n    \"watermarks\",\n    \"extra people\",\n    \"anime\",\n    \"CGI\",\n    \"heavy makeup\",\n    \"big smile\",\n    \"different freckle pattern\",\n    \"blonde hair\"\n  ],\n  \"final_generation_instruction\": \"One highly photorealistic vertical phone selfie matching the reference. Same freckled girl, messy dark waves, black ribbed tank, cluttered bedroom, soft left window light, tired-neutral expression. Authentic TikTok pause-frame. No text or interface.\"\n}",
+  "promptTranslations": {
+    "en": "{\n  \"prompt_type\": \"photorealistic_reference_reconstruction\",\n  \"objective\": \"Recreate the supplied reference as a clean vertical smartphone selfie. Match face, freckles, messy dark wavy hair, black tank, bedroom clutter, soft window light, bored/neutral expression. Remove all text, UI, logos, watermarks.\",\n  \"reference_fidelity\": {\n    \"target\": \"extremely high visual similarity\",\n    \"priority_order\": [\n      \"facial proportions and heavy-lidded brown eyes\",\n      \"freckles across nose and cheeks\",\n      \"messy voluminous dark-brown wavy hair with flyaways\",\n      \"black ribbed tank top\",\n      \"soft natural window light from camera-left\",\n      \"cluttered bedroom background\",\n      \"raw phone selfie texture\"\n    ]\n  },\n  \"canvas\": {\n    \"orientation\": \"portrait\",\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"close head-and-shoulders smartphone selfie\",\n    \"crop\": \"top of hair to upper chest\",\n    \"subject_alignment\": \"centered, slight forward lean\",\n    \"perspective\": \"arm-length front camera, mild wide\"\n  },\n  \"scene\": {\n    \"location\": \"lived-in bedroom\",\n    \"time_of_day\": \"daytime\",\n    \"mood\": \"candid just-woke-up UGC\",\n    \"environment\": {\n      \"left\": \"white dresser with blurry clutter on top\",\n      \"behind\": \"unmade bed with rumpled grey and black bedding\",\n      \"walls\": \"neutral off-white\"\n    }\n  },\n  \"subject\": {\n    \"description\": \"young adult woman early 20s\",\n    \"expression\": \"neutral, slightly tired / pensive, mouth closed\",\n    \"gaze\": \"directly into camera\",\n    \"skin\": {\n      \"tone\": \"pale / fair\",\n      \"detail\": \"prominent natural freckles on nose and cheeks\",\n      \"finish\": \"matte-natural, visible pores, no plastic beauty filter\"\n    },\n    \"eyes\": {\n      \"color\": \"dark brown\",\n      \"look\": \"heavy-lidded / sleepy\"\n    },\n    \"lips\": \"full, natural no makeup\",\n    \"hair\": {\n      \"color\": \"dark brown\",\n      \"style\": \"messy voluminous waves / soft curls\",\n      \"detail\": \"many fine flyaway strands around face and forehead\",\n      \"vibe\": \"damp or just-woke-up, not salon\"\n    },\n    \"clothing\": {\n      \"top\": \"black ribbed tank top\",\n      \"extra\": \"black cardigan or sweater sleeve visible on extended arm\"\n    },\n    \"pose\": {\n      \"arm\": \"right arm extended toward camera (selfie)\",\n      \"shoulder\": \"casual forward lean\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"soft diffused natural light\",\n    \"direction\": \"from camera-left / window-left\",\n    \"face\": \"gentle highlight left, soft shadow right\",\n    \"quality\": \"overcast-soft, low contrast\"\n  },\n  \"camera\": {\n    \"device\": \"modern smartphone front camera\",\n    \"look\": \"raw UGC: mild noise, slight compression, shallow background blur\",\n    \"focus\": \"sharp on face and hair strands\"\n  },\n  \"negative_prompt\": [\n    \"beauty filter glaze\",\n    \"plastic skin\",\n    \"perfect salon hair\",\n    \"studio lighting\",\n    \"text\",\n    \"UI\",\n    \"logos\",\n    \"watermarks\",\n    \"extra people\",\n    \"anime\",\n    \"CGI\",\n    \"heavy makeup\",\n    \"big smile\",\n    \"different freckle pattern\",\n    \"blonde hair\"\n  ],\n  \"final_generation_instruction\": \"One highly photorealistic vertical phone selfie matching the reference. Same freckled girl, messy dark waves, black ribbed tank, cluttered bedroom, soft left window light, tired-neutral expression. Authentic TikTok pause-frame. No text or interface.\"\n}"
+  },
+  "summaryTranslations": {
+    "en": "Structured JSON prompt guiding the generation of a realistic UGC-style selfie: freckled face, messy dark brown wavy hair, black tank top, and lived-in bedroom scene."
+  },
+  "translationVersion": 2,
+  "summary": "结构化 JSON 提示词，指导生成逼真的 UGC 风格自拍：雀斑面容、凌乱深棕卷发、黑色吊带背心及卧室生活场景。",
+  "summaryEn": "Structured JSON prompt guiding the generation of a realistic UGC smartphone selfie of a freckled young woman with messy dark waves in a bedroom.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102508188453265798",
+    "canonicalUrl": "https://x.com/danclipping/status/2102508188453265798",
+    "author": {
+      "username": "danclipping",
+      "displayName": "Daniel",
+      "profileUrl": "https://x.com/danclipping"
+    },
+    "publishedAt": "2026-09-22T21:19:49.000Z",
+    "collectedAt": "2026-09-23T00:15:29.769Z",
+    "language": "en",
+    "originalText": "GPT images is crazy insane for AI UGC\n\nJSON prompt here:\n\n```json\n{\n  \"prompt_type\": \"photorealistic_reference_reconstruction\",\n  \"objective\": \"Recreate the supplied reference as a clean vertical smartphone selfie. Match face, freckles, messy dark wavy hair, black tank, bedroom clutter, soft window light, bored/neutral expression. Remove all text, UI, logos, watermarks.\",\n  \"reference_fidelity\": {\n    \"target\": \"extremely high visual similarity\",\n    \"priority_order\": [\n      \"facial proportions and heavy-lidded brown eyes\",\n      \"freckles across nose and cheeks\",\n      \"messy voluminous dark-brown wavy hair with flyaways\",\n      \"black ribbed tank top\",\n      \"soft natural window light from camera-left\",\n      \"cluttered bedroom background\",\n      \"raw phone selfie texture\"\n    ]\n  },\n  \"canvas\": {\n    \"orientation\": \"portrait\",\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"close head-and-shoulders smartphone selfie\",\n    \"crop\": \"top of hair to upper chest\",\n    \"subject_alignment\": \"centered, slight forward lean\",\n    \"perspective\": \"arm-length front camera, mild wide\"\n  },\n  \"scene\": {\n    \"location\": \"lived-in bedroom\",\n    \"time_of_day\": \"daytime\",\n    \"mood\": \"candid just-woke-up UGC\",\n    \"environment\": {\n      \"left\": \"white dresser with blurry clutter on top\",\n      \"behind\": \"unmade bed with rumpled grey and black bedding\",\n      \"walls\": \"neutral off-white\"\n    }\n  },\n  \"subject\": {\n    \"description\": \"young adult woman early 20s\",\n    \"expression\": \"neutral, slightly tired / pensive, mouth closed\",\n    \"gaze\": \"directly into camera\",\n    \"skin\": {\n      \"tone\": \"pale / fair\",\n      \"detail\": \"prominent natural freckles on nose and cheeks\",\n      \"finish\": \"matte-natural, visible pores, no plastic beauty filter\"\n    },\n    \"eyes\": {\n      \"color\": \"dark brown\",\n      \"look\": \"heavy-lidded / sleepy\"\n    },\n    \"lips\": \"full, natural no makeup\",\n    \"hair\": {\n      \"color\": \"dark brown\",\n      \"style\": \"messy voluminous waves / soft curls\",\n      \"detail\": \"many fine flyaway strands around face and forehead\",\n      \"vibe\": \"damp or just-woke-up, not salon\"\n    },\n    \"clothing\": {\n      \"top\": \"black ribbed tank top\",\n      \"extra\": \"black cardigan or sweater sleeve visible on extended arm\"\n    },\n    \"pose\": {\n      \"arm\": \"right arm extended toward camera (selfie)\",\n      \"shoulder\": \"casual forward lean\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"soft diffused natural light\",\n    \"direction\": \"from camera-left / window-left\",\n    \"face\": \"gentle highlight left, soft shadow right\",\n    \"quality\": \"overcast-soft, low contrast\"\n  },\n  \"camera\": {\n    \"device\": \"modern smartphone front camera\",\n    \"look\": \"raw UGC: mild noise, slight compression, shallow background blur\",\n    \"focus\": \"sharp on face and hair strands\"\n  },\n  \"negative_prompt\": [\n    \"beauty filter glaze\",\n    \"plastic skin\",\n    \"perfect salon hair\",\n    \"studio lighting\",\n    \"text\",\n    \"UI\",\n    \"logos\",\n    \"watermarks\",\n    \"extra people\",\n    \"anime\",\n    \"CGI\",\n    \"heavy makeup\",\n    \"big smile\",\n    \"different freckle pattern\",\n    \"blonde hair\"\n  ],\n  \"final_generation_instruction\": \"One highly photorealistic vertical phone selfie matching the reference. Same freckled girl, messy dark waves, black ribbed tank, cluttered bedroom, soft left window light, tired-neutral expression. Authentic TikTok pause-frame. No text or interface.\"\n}\n```",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HS2cDDeWwAA1NxQ.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HS2cDDeWwAA1NxQ.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 2,
+      "replyCount": 3,
+      "quoteCount": 1,
+      "viewCount": 846
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/danclipping/status/2102508188453265798",
+  "coverUrl": "https://pbs.twimg.com/media/HS2cDDeWwAA1NxQ.jpg",
+  "coverPath": "images/2102508188453265798-1.jpg",
+  "imagePaths": [
+    "images/2102508188453265798-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HS2cDDeWwAA1NxQ",
+    "x-post:2102508188453265798"
+  ],
+  "analysis": {
+    "summary": "结构化 JSON 提示词，指导生成逼真的 UGC 风格自拍：雀斑面容、凌乱深棕卷发、黑色吊带背心及卧室生活场景。",
+    "summaryEn": "Structured JSON prompt guiding the generation of a realistic UGC smartphone selfie of a freckled young woman with messy dark waves in a bedroom.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Generated image matches the prompt's subject, messy dark hair, freckles, black ribbed top, casual bedroom background, and front-camera UGC selfie style."
+    },
+    "videoQuality": null,
+    "originalPrompt": "{\n  \"prompt_type\": \"photorealistic_reference_reconstruction\",\n  \"objective\": \"Recreate the supplied reference as a clean vertical smartphone selfie. Match face, freckles, messy dark wavy hair, black tank, bedroom clutter, soft window light, bored/neutral expression. Remove all text, UI, logos, watermarks.\",\n  \"reference_fidelity\": {\n    \"target\": \"extremely high visual similarity\",\n    \"priority_order\": [\n      \"facial proportions and heavy-lidded brown eyes\",\n      \"freckles across nose and cheeks\",\n      \"messy voluminous dark-brown wavy hair with flyaways\",\n      \"black ribbed tank top\",\n      \"soft natural window light from camera-left\",\n      \"cluttered bedroom background\",\n      \"raw phone selfie texture\"\n    ]\n  },\n  \"canvas\": {\n    \"orientation\": \"portrait\",\n    \"aspect_ratio\": \"9:16\",\n    \"framing\": \"close head-and-shoulders smartphone selfie\",\n    \"crop\": \"top of hair to upper chest\",\n    \"subject_alignment\": \"centered, slight forward lean\",\n    \"perspective\": \"arm-length front camera, mild wide\"\n  },\n  \"scene\": {\n    \"location\": \"lived-in bedroom\",\n    \"time_of_day\": \"daytime\",\n    \"mood\": \"candid just-woke-up UGC\",\n    \"environment\": {\n      \"left\": \"white dresser with blurry clutter on top\",\n      \"behind\": \"unmade bed with rumpled grey and black bedding\",\n      \"walls\": \"neutral off-white\"\n    }\n  },\n  \"subject\": {\n    \"description\": \"young adult woman early 20s\",\n    \"expression\": \"neutral, slightly tired / pensive, mouth closed\",\n    \"gaze\": \"directly into camera\",\n    \"skin\": {\n      \"tone\": \"pale / fair\",\n      \"detail\": \"prominent natural freckles on nose and cheeks\",\n      \"finish\": \"matte-natural, visible pores, no plastic beauty filter\"\n    },\n    \"eyes\": {\n      \"color\": \"dark brown\",\n      \"look\": \"heavy-lidded / sleepy\"\n    },\n    \"lips\": \"full, natural no makeup\",\n    \"hair\": {\n      \"color\": \"dark brown\",\n      \"style\": \"messy voluminous waves / soft curls\",\n      \"detail\": \"many fine flyaway strands around face and forehead\",\n      \"vibe\": \"damp or just-woke-up, not salon\"\n    },\n    \"clothing\": {\n      \"top\": \"black ribbed tank top\",\n      \"extra\": \"black cardigan or sweater sleeve visible on extended arm\"\n    },\n    \"pose\": {\n      \"arm\": \"right arm extended toward camera (selfie)\",\n      \"shoulder\": \"casual forward lean\"\n    }\n  },\n  \"lighting\": {\n    \"type\": \"soft diffused natural light\",\n    \"direction\": \"from camera-left / window-left\",\n    \"face\": \"gentle highlight left, soft shadow right\",\n    \"quality\": \"overcast-soft, low contrast\"\n  },\n  \"camera\": {\n    \"device\": \"modern smartphone front camera\",\n    \"look\": \"raw UGC: mild noise, slight compression, shallow background blur\",\n    \"focus\": \"sharp on face and hair strands\"\n  },\n  \"negative_prompt\": [\n    \"beauty filter glaze\",\n    \"plastic skin\",\n    \"perfect salon hair\",\n    \"studio lighting\",\n    \"text\",\n    \"UI\",\n    \"logos\",\n    \"watermarks\",\n    \"extra people\",\n    \"anime\",\n    \"CGI\",\n    \"heavy makeup\",\n    \"big smile\",\n    \"different freckle pattern\",\n    \"blonde hair\"\n  ],\n  \"final_generation_instruction\": \"One highly photorealistic vertical phone selfie matching the reference. Same freckled girl, messy dark waves, black ribbed tank, cluttered bedroom, soft left window light, tired-neutral expression. Authentic TikTok pause-frame. No text or interface.\"\n}",
+    "sourceRange": {
+      "start": 66,
+      "end": 3374
+    },
+    "translations": {
+      "zh": "结构化 JSON 提示词，用于重现写实手机前置自拍：雀斑年轻女性、蓬松凌乱深色卷发、黑色背心、生活化卧室背景及自然窗光。",
+      "en": "Structured JSON prompt reconstructing a realistic smartphone selfie: young freckled woman, messy dark wavy hair, black tank top, messy bedroom, and natural window light."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "ugc_creation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

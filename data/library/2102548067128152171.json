@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T00:30:34.224Z",
+  "model": "grok",
+  "prompt": "Surreal early-AI glitch morph video in fluorescent warehouse: gray-uniformed worker grinding metal with orange sparks seamlessly transforms into dancing white-green-yellow pheasant, then blue-necked peacock with full train, then masked orange-tutu figure, then red-pants dancer generating massive sparks, fire rockets from feet launching them upward as they become a flaming rocket, escalating to multi-booster rocket blasting vertically with thick smoke and fire inside the factory. Low-res, continuous morph, Renderist watermark style.",
+  "promptTranslations": {
+    "en": "Surreal early-AI glitch morph video in fluorescent warehouse: gray-uniformed worker grinding metal with orange sparks seamlessly transforms into dancing white-green-yellow pheasant, then blue-necked peacock with full train, then masked orange-tutu figure, then red-pants dancer generating massive sparks, fire rockets from feet launching them upward as they become a flaming rocket, escalating to multi-booster rocket blasting vertically with thick smoke and fire inside the factory. Low-res, continuous morph, Renderist watermark style."
+  },
+  "summaryTranslations": {
+    "en": "Surreal early-AI style morph video, worker sequentially transforms into birds, dancers, and turns into a rocket launching inside a factory."
+  },
+  "translationVersion": 2,
+  "summary": "超现实早期AI风格变形视频，工人依次变身为鸟类、舞者并化作火箭在厂房升空。",
+  "summaryEn": "Surreal early-AI glitch morph video of a factory worker transforming into birds, dancers, and a blasting rocket.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2102256000107688329",
+      "canonicalUrl": "https://x.com/magic_ai_skill/status/2102256000107688329",
+      "author": {
+        "username": "magic_ai_skill",
+        "displayName": "MagicAI",
+        "profileUrl": "https://x.com/magic_ai_skill"
+      },
+      "originalText": "이젠 잊혀진 2년 전 AI 초창기 퀄리티\n\n지금은 오히려 이렇게 만들려고 해도 어려울 듯 https://t.co/sSqktIb5Md"
+    },
+    "id": "2102548067128152171",
+    "canonicalUrl": "https://x.com/ZedGrimm/status/2102548067128152171",
+    "author": {
+      "username": "ZedGrimm",
+      "displayName": "Zedediah Grimm",
+      "profileUrl": "https://x.com/ZedGrimm"
+    },
+    "publishedAt": "2026-09-22T23:58:17.000Z",
+    "collectedAt": "2026-09-23T00:15:29.769Z",
+    "language": "en",
+    "originalText": "I put this through Imagine.\n \n\"Surreal early-AI glitch morph video in fluorescent warehouse: gray-uniformed worker grinding metal with orange sparks seamlessly transforms into dancing white-green-yellow pheasant, then blue-necked peacock with full train, then masked orange-tutu figure, then red-pants dancer generating massive sparks, fire rockets from feet launching them upward as they become a flaming rocket, escalating to multi-booster rocket blasting vertically with thick smoke and fire inside the factory. Low-res, continuous morph, Renderist watermark style.\"\n\nIt's Grok translating the video into a prompt, and this is how it \"Mirrored\" its interpretation of the first video:\n\nhttps://t.co/IMovRa9ZDo",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/ZedGrimm/status/2102548067128152171",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102547959535579136/img/1SMJzeiWDTxdkPSJ.jpg",
+        "analysisUrl": "https://x.com/ZedGrimm/status/2102548067128152171"
+      },
+      {
+        "type": "video",
+        "url": "https://x.com/ZedGrimm/status/2102548067128152171",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102255236115296257/img/wVYoBfQskHPDpo9O.jpg",
+        "analysisUrl": "https://x.com/ZedGrimm/status/2102548067128152171",
+        "sourcePostId": "2102256000107688329"
+      }
+    ],
+    "metrics": {
+      "likeCount": 1,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 27
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/ZedGrimm/status/2102548067128152171",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102547959535579136/img/1SMJzeiWDTxdkPSJ.jpg",
+  "coverPath": "covers/2102548067128152171.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102547959535579136",
+    "x-video:2102255236115296257",
+    "x-post:2102548067128152171",
+    "x-post:2102256000107688329"
+  ],
+  "analysis": {
+    "summary": "超现实早期AI风格变形视频，工人依次变身为鸟类、舞者并化作火箭在厂房升空。",
+    "summaryEn": "Surreal early-AI glitch morph video of a factory worker transforming into birds, dancers, and a blasting rocket.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated video showcases the sequence described in the prompt: worker grinding metal, morphing into birds, dancers, and a rocket lifting off in a warehouse."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Surreal early-AI glitch morph video in fluorescent warehouse: gray-uniformed worker grinding metal with orange sparks seamlessly transforms into dancing white-green-yellow pheasant, then blue-necked peacock with full train, then masked orange-tutu figure, then red-pants dancer generating massive sparks, fire rockets from feet launching them upward as they become a flaming rocket, escalating to multi-booster rocket blasting vertically with thick smoke and fire inside the factory. Low-res, continuous morph, Renderist watermark style.",
+    "sourceRange": {
+      "start": 31,
+      "end": 568
+    },
+    "translations": {
+      "zh": "日光灯厂房内的超现实早期AI故障渐变变形视频：身穿灰色制服打磨金属并迸发橙色火花的工人，无缝转变为跳舞的白绿黄相间野鸡，再变为展开完整尾羽的蓝颈孔雀，接着变为戴面具的橙色芭蕾短裙人物，随后变为产生巨大火花的红裤舞者，双脚喷射火箭升空并化作燃烧的火箭，最后升级为多助推器火箭在工厂内伴随浓烟与烈火垂直喷射升空。低分辨率、连续变形、Renderist水印风格。",
+      "en": "Surreal early-AI glitch morph video in fluorescent warehouse: gray-uniformed worker grinding metal with orange sparks seamlessly transforms into dancing white-green-yellow pheasant, then blue-necked peacock with full train, then masked orange-tutu figure, then red-pants dancer generating massive sparks, fire rockets from feet launching them upward as they become a flaming rocket, escalating to multi-booster rocket blasting vertically with thick smoke and fire inside the factory. Low-res, continuous morph, Renderist watermark style."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-video",
+    "useCase": "surreal morph animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-23T00:28:54.763Z",
+  "model": "unknown-video",
+  "prompt": "肥胖的飞天在天上拿着纸卷在吹箫，这里急促的画外音“停停停”，飞天睁眼看着镜头，有脸发楞，画外音继续“你看你拿着啥”，飞天看了一眼，发现手里拿着纸卷，吓了一跳，左手松手，纸卷向下展开，纸卷上写着字从上向下“粉丝破八千”，她楞了一下，连忙翻过纸卷，纸卷上从上向下写着字“中秋节快乐”，她勉强装出笑脸尴尬地笑着，飞天不好意思地吐一下口舌，轻风吹来，她的衣服和披帛飘动，固定机位，构图保持不变，背景幕布保持不变，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风",
+  "promptTranslations": {
+    "en": "A plump Feitian (flying Apsara) in the sky holds a paper scroll, playing it like a xiao flute. A hurried voiceover sounds: \"Stop, stop, stop!\" The Feitian opens her eyes to look at the camera, looking dumbfounded. The voiceover continues: \"Look what you're holding!\" The Feitian glances down, realizes she is holding a paper scroll, and is startled; her left hand lets go, and the paper scroll unrolls downward, displaying text written vertically from top to bottom: \"粉丝破八千\". She freezes for a moment, hurriedly flips the paper scroll over, revealing text written vertically from top to bottom: \"中秋节快乐\". She forces an awkward smile and sheepishly sticks out her tongue. A gentle breeze blows, making her garments and flowing ribbons flutter. Fixed camera shot, composition remains unchanged, background curtain backdrop remains unchanged, background music shifts from traditional Dunhuang music at the start to a humorous and comical tune later."
+  },
+  "summaryTranslations": {
+    "en": "A funny video prompt of a plump Feitian mistaking a greeting scroll for a flute and flipping it over to display Mid-Autumn Festival blessings."
+  },
+  "translationVersion": 2,
+  "summary": "丰腴飞天误将贺卷当萧吹奏并翻转展示中秋祝福的搞笑视频提示词。",
+  "summaryEn": "Humorous video prompt of a chubby flying apsara revealing holiday greetings on a scroll.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2102540202992611745",
+    "canonicalUrl": "https://x.com/PixelAigc/status/2102540202992611745",
+    "author": {
+      "username": "PixelAigc",
+      "displayName": "PixelAIGC",
+      "profileUrl": "https://x.com/PixelAigc"
+    },
+    "publishedAt": "2026-09-22T23:27:02.000Z",
+    "collectedAt": "2026-09-23T00:15:29.769Z",
+    "language": "zh",
+    "originalText": "哇塞，一夜醒来，粉丝破八千了！\n感谢各位粉丝朋友的大力支持\n祝大家中秋节快乐！\n\nH3 prompt 视频提示词如下：\n\n肥胖的飞天在天上拿着纸卷在吹箫，这里急促的画外音“停停停”，飞天睁眼看着镜头，有脸发楞，画外音继续“你看你拿着啥”，飞天看了一眼，发现手里拿着纸卷，吓了一跳，左手松手，纸卷向下展开，纸卷上写着字从上向下“粉丝破八千”，她楞了一下，连忙翻过纸卷，纸卷上从上向下写着字“中秋节快乐”，她勉强装出笑脸尴尬地笑着，飞天不好意思地吐一下口舌，轻风吹来，她的衣服和披帛飘动，固定机位，构图保持不变，背景幕布保持不变，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/PixelAigc/status/2102540202992611745",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2102540026815127552/img/JxSJMGlILElwOGMR.jpg",
+        "analysisUrl": "https://x.com/PixelAigc/status/2102540202992611745"
+      }
+    ],
+    "metrics": {
+      "likeCount": 3,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 218
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]",
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/PixelAigc/status/2102540202992611745",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2102540026815127552/img/JxSJMGlILElwOGMR.jpg",
+  "coverPath": "covers/2102540202992611745.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2102540026815127552",
+    "x-post:2102540202992611745"
+  ],
+  "analysis": {
+    "summary": "丰腴飞天误将贺卷当萧吹奏并翻转展示中秋祝福的搞笑视频提示词。",
+    "summaryEn": "Humorous video prompt of a chubby flying apsara revealing holiday greetings on a scroll.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "视频与提示词中飞天吹卷轴、展开八千粉与中秋快乐卷轴、做出尴尬表情的动作完全吻合。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "肥胖的飞天在天上拿着纸卷在吹箫，这里急促的画外音“停停停”，飞天睁眼看着镜头，有脸发楞，画外音继续“你看你拿着啥”，飞天看了一眼，发现手里拿着纸卷，吓了一跳，左手松手，纸卷向下展开，纸卷上写着字从上向下“粉丝破八千”，她楞了一下，连忙翻过纸卷，纸卷上从上向下写着字“中秋节快乐”，她勉强装出笑脸尴尬地笑着，飞天不好意思地吐一下口舌，轻风吹来，她的衣服和披帛飘动，固定机位，构图保持不变，背景幕布保持不变，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风",
+    "sourceRange": {
+      "start": 61,
+      "end": 287
+    },
+    "translations": {
+      "zh": "肥胖的飞天在天上拿着纸卷在吹箫，这里急促的画外音“停停停”，飞天睁眼看着镜头，有脸发楞，画外音继续“你看你拿着啥”，飞天看了一眼，发现手里拿着纸卷，吓了一跳，左手松手，纸卷向下展开，纸卷上写着字从上向下“粉丝破八千”，她楞了一下，连忙翻过纸卷，纸卷上从上向下写着字“中秋节快乐”，她勉强装出笑脸尴尬地笑着，飞天不好意思地吐一下口舌，轻风吹来，她的衣服和披帛飘动，固定机位，构图保持不变，背景幕布保持不变，背景音乐从开始的传统敦煌音乐到后面的诙谐风趣曲风",
+      "en": "A chubby Dunhuang flying apsara in the sky blowing a rolled-up paper scroll like a flute. An urgent voiceover shouts 'Stop stop stop'. The apsara opens her eyes, looks at the camera looking dazed. The voiceover continues: 'Look what you are holding'. The apsara glances, realizes she is holding a scroll, gets startled, and lets go with her left hand. The scroll unrolls downward, showing the vertical text 'Followers Exceed 8,000'. She pauses, quickly flips the scroll to reveal the vertical text 'Happy Mid-Autumn Festival', forcing an awkward smile and sheepishly sticking out her tongue. A light breeze flutters her ribbons and dress. Fixed camera angle, unchanged framing and backdrop. Background music shifts from traditional Dunhuang tunes to a humorous, whimsical style."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "AI 诙谐节日庆贺视频生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}
