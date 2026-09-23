@@ -10932,20 +10932,20 @@ Femme japonaise d'une vingtaine d'années, lors d'une campagne occasionnelle 're
 
 <a name="prompt-2102540202992611745"></a>
 
-### Traduction en cours
+### Prompt de vidéo humoristique mettant en scène une Feitian pulpeuse qui prend un rouleau de vœux pour une flûte et le retourne pour révéler des vœux de la Fête de la mi-automne.
 
 Auteur：[@PixelAigc](https://x.com/PixelAigc) · [Publication originale](https://x.com/PixelAigc/status/2102540202992611745)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de vidéo humoristique mettant en scène une Feitian pulpeuse qui prend un rouleau de vœux pour une flûte et le retourne pour révéler des vœux de la Fête de la mi-automne.
 
 <img src="covers/2102540202992611745.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Une Feitian enrobée dans le ciel tient un rouleau de papier et joue dedans comme avec une flûte xiao. Une voix off précipitée s'écrie « Stop, stop, stop ! », la Feitian ouvre les yeux et regarde la caméra d'un air stupéfait. La voix off poursuit : « Regarde donc ce que tu tiens ! » La Feitian jette un coup d'œil, découvre qu'elle tient un rouleau de papier, sursaute de frayeur, lâche la main gauche et le rouleau se déroule vers le bas. Sur le rouleau de papier est écrit de haut en bas « 粉丝破八千 ». Interloquée, elle retourne vivement le rouleau ; au verso est écrit de haut en bas « 中秋节快乐 ». Elle esquisse tant bien que mal un sourire gêné et crispé, et tire timidement la langue par embarras. Une légère brise se lève, faisant flotter ses vêtements et ses rubans de soie. Caméra fixe, cadrage inchangé, rideau de fond identique, la musique de fond passe d'une musique traditionnelle de Dunhuang au début à un style burlesque et plein d'humour par la suite.
 ```
 
 [↑ Retour aux catégories](#catalog)

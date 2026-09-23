@@ -11049,20 +11049,20 @@ Phụ nữ Nhật Bản độ tuổi 20, trong chiến dịch thỉnh thoảng '
 
 <a name="prompt-2102540202992611745"></a>
 
-### Đang dịch
+### Lời nhắc video hài hước về nàng Phi Thiên đẫy đà nhầm cuộn giấy chúc mừng thành cây tiêu để thổi và lật lại để gửi lời chúc Tết Trung Thu.
 
 Tác giả：[@PixelAigc](https://x.com/PixelAigc) · [Bài gốc](https://x.com/PixelAigc/status/2102540202992611745)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc video hài hước về nàng Phi Thiên đẫy đà nhầm cuộn giấy chúc mừng thành cây tiêu để thổi và lật lại để gửi lời chúc Tết Trung Thu.
 
 <img src="covers/2102540202992611745.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Một Phi Thiên đẫy đà đang ở trên trời cầm cuộn giấy thổi tiêu, lúc này có giọng thuyết minh gấp gáp vang lên "Dừng dừng dừng", Phi Thiên mở mắt nhìn vào ống kính với vẻ mặt ngơ ngác, giọng thuyết minh tiếp tục "Nhìn xem ngươi đang cầm cái gì kìa", Phi Thiên nhìn lại, phát hiện trong tay là một cuộn giấy, giật mình hoảng hốt, tay trái buông ra, cuộn giấy mở bung xuống dưới, trên cuộn giấy có dòng chữ viết từ trên xuống dưới "粉丝破八千", nàng ngẩn người một lát, vội vàng lật mặt sau cuộn giấy lại, trên cuộn giấy viết từ trên xuống dưới chữ "中秋节快乐", nàng gượng gạo nở nụ cười gượng gạo, ngượng ngùng thè lưỡi, làn gió nhẹ thổi qua, y phục và dải lụa của nàng lay động, góc máy cố định, bố cục giữ nguyên, phông nền giữ nguyên, nhạc nền từ nhạc Đôn Hoàng truyền thống lúc đầu chuyển sang phong cách hài hước hóm hỉnh ở đoạn sau
 ```
 
 [↑ Về danh mục](#catalog)

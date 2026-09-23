@@ -10932,20 +10932,20 @@ Japanische Frau in den 20ern, gelegentliche Kampagne 'Lasst uns wieder Kinder se
 
 <a name="prompt-2102540202992611745"></a>
 
-### Übersetzung läuft
+### Humorvoller Video-Prompt über eine kurvige Feitian, die versehentlich eine Grußrolle wie eine Flöte bläst und sie umdreht, um Wünsche zum Mittherbstfest zu präsentieren.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Originalbeitrag](https://x.com/PixelAigc/status/2102540202992611745)
 
 Sonstige · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Humorvoller Video-Prompt über eine kurvige Feitian, die versehentlich eine Grußrolle wie eine Flöte bläst und sie umdreht, um Wünsche zum Mittherbstfest zu präsentieren.
 
 <img src="covers/2102540202992611745.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Eine mollige Feitian schwebt am Himmel und hält eine Papierrolle, die sie wie eine Xiao-Flöte bläst. Eine hastige Stimme aus dem Off ruft „Stopp, Stopp, Stopp!“, die Feitian öffnet die Augen, blickt in die Kamera und schaut verblüfft drein. Das Voiceover fährt fort: „Schau mal, was du da in der Hand hältst!“ Die Feitian blickt hinunter, bemerkt die Papierrolle in ihren Händen, erschrickt und lässt ihre linke Hand los. Die Rolle entfaltet sich nach unten, und darauf steht von oben nach unten geschrieben: „粉丝破八千“. Sie stutzt kurz, dreht die Papierrolle eilig um, und darauf steht von oben nach unten geschrieben: „中秋节快乐“. Sie setzt mühsam ein verlegenes, gezwungenes Lächeln auf und streckt verschämt kurz die Zunge heraus. Eine leichte Brise weht, ihre Kleidung und Seidenschals flattern sanft. Feste Kameraeinstellung, unveränderte Bildkomposition, unveränderter Hintergrundvorhang, die Hintergrundmusik wechselt von traditioneller Dunhuang-Musik am Anfang zu einem humorvollen, heiteren Musikstil danach.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

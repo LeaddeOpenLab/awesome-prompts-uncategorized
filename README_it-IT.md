@@ -10932,20 +10932,20 @@ Donna giapponese sui vent'anni, nella campagna occasionale 'torniamo bambini' in
 
 <a name="prompt-2102540202992611745"></a>
 
-### Traduzione in corso
+### Prompt per video comico con una Feitian formosa che per errore suona un rotolo d'auguri come fosse un flauto e lo gira mostrando gli auguri per la Festa di Metà Autunno.
 
 Autore：[@PixelAigc](https://x.com/PixelAigc) · [Post originale](https://x.com/PixelAigc/status/2102540202992611745)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per video comico con una Feitian formosa che per errore suona un rotolo d'auguri come fosse un flauto e lo gira mostrando gli auguri per la Festa di Metà Autunno.
 
 <img src="covers/2102540202992611745.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Una Feitian paffuta nel cielo tiene un rotolo di carta e lo suona come fosse un flauto xiao; una voce fuori campo concitata dice "Ferma, ferma, ferma!", la Feitian apre gli occhi e guarda verso la telecamera con aria sbigottita, la voce fuori campo prosegue "Guarda che cosa hai in mano!"; la Feitian dà un'occhiata, scopre di avere in mano un rotolo di carta, trasalisce spaventata, lascia la presa della mano sinistra e il rotolo si srotola verso il basso; sul rotolo c'è scritto dall'alto verso il basso "粉丝破八千"; resta un attimo interdetta, poi gira in fretta il rotolo di carta, sul quale c'è scritto dall'alto verso il basso "中秋节快乐"; accenna a fatica un sorriso forzato e imbarazzato, tirando fuori timidamente la punta della lingua per la vergogna; una leggera brezza fa ondeggiare i suoi vestiti e le sciarpe di seta; inquadratura fissa, composizione invariata, fondale invariato; la musica di sottofondo passa dalla tradizionale musica di Dunhuang all'inizio a uno stile umoristico e spiritoso nella seconda parte.
 ```
 
 [↑ Torna alle categorie](#catalog)

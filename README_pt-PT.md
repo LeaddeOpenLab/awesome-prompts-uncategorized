@@ -10952,20 +10952,20 @@ Mulher japonesa na casa dos 20 anos, na campanha ocasional 'vamos voltar a ser c
 
 <a name="prompt-2102540202992611745"></a>
 
-### Tradução em curso
+### Prompt de vídeo cómico de uma Feitian curvilínea que toca por engano um pergaminho de felicitações como flauta e o vira para exibir votos do Festival do Meio Outono.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicação original](https://x.com/PixelAigc/status/2102540202992611745)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de vídeo cómico de uma Feitian curvilínea que toca por engano um pergaminho de felicitações como flauta e o vira para exibir votos do Festival do Meio Outono.
 
 <img src="covers/2102540202992611745.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Uma Feitian rechonchuda no céu segura um rolo de papel a soprá-lo como se fosse uma flauta xiao; ouve-se uma voz em off apressada a dizer «Pára, pára, pára!», a Feitian abre os olhos e olha para a câmara com ar perplexo; a voz em off continua: «Olha para o que tens na mão!»; a Feitian olha, repara que tem um rolo de papel na mão, apanha um susto, solta a mão esquerda e o rolo desenrola-se para baixo; no rolo de papel está escrito de cima para baixo «粉丝破八千»; ela fica atónita por um instante, vira rapidamente o rolo de papel, onde se lê de cima para baixo «中秋节快乐»; esboça a custo um sorriso amarelo e embaraçado, deitando a língua de fora envergonhada; sopra uma brisa suave, agitando as suas vestes e faixas de seda; câmara fixa, composição inalterada, pano de fundo inalterado; a música de fundo passa de uma música tradicional de Dunhuang no início para um estilo bem-humorado e divertido na parte final.
 ```
 
 [↑ Voltar às categorias](#catalog)

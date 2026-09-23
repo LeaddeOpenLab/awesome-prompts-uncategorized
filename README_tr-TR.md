@@ -10952,20 +10952,20 @@ Portre / Selfie · Yayımlandı
 
 <a name="prompt-2102540202992611745"></a>
 
-### Çeviri sürüyor
+### Tombul bir Feitian'ın tebrik rulosunu flüt sanarak üflediği ve ters çevirip Güz Ortası Festivali dileklerini gösterdiği komik video istemi.
 
 Yazar：[@PixelAigc](https://x.com/PixelAigc) · [Orijinal gönderi](https://x.com/PixelAigc/status/2102540202992611745)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Tombul bir Feitian'ın tebrik rulosunu flüt sanarak üflediği ve ters çevirip Güz Ortası Festivali dileklerini gösterdiği komik video istemi.
 
 <img src="covers/2102540202992611745.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Gökyüzündeki tombul bir Feitian, elindeki kağıt rulosunu bir xiao flütü gibi üflüyor; bu sırada telaşlı bir dış ses "Dur dur dur!" diyor, Feitian gözlerini açıp şaşkın bir yüz ifadesiyle kameraya bakıyor, dış ses devam ediyor: "Baksana elinde ne tutuyorsun!"; Feitian bir bakıyor, elinde kağıt rulosu olduğunu fark edip irkiliyor, sol elini bırakınca kağıt rulosu aşağıya doğru açılıyor, kağıt rulosunda yukarıdan aşağıya doğru "粉丝破八千" yazıyor; bir an duraksıyor, telaşla kağıt rulosunu ters çeviriyor, rulo üzerinde yukarıdan aşağıya doğru "中秋节快乐" yazıyor; zoraki ve mahcup bir şekilde gülümsüyor, utangaç bir tavırla dilini çıkarıyor; hafif bir rüzgar esiyor, giysileri ve ipek şalları dalgalanıyor; sabit kamera açısı, kompozisyon değişmiyor, arka plan perdesi değişmiyor; arka plan müziği başlangıçtaki geleneksel Dunhuang müziğinden sonrasında esprili ve neşeli bir tarza dönüşüyor.
 ```
 
 [↑ Kategorilere dön](#catalog)

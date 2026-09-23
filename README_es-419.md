@@ -10932,20 +10932,20 @@ Mujer japonesa de unos 20 años, en la campaña ocasional 'volvamos a ser niños
 
 <a name="prompt-2102540202992611745"></a>
 
-### Traducción en curso
+### Prompt de video cómico de una Feitian curvilínea que toca por error un pergamino de felicitación como flauta y lo gira para mostrar los deseos del Festival de Medio Otoño.
 
 Autor：[@PixelAigc](https://x.com/PixelAigc) · [Publicación original](https://x.com/PixelAigc/status/2102540202992611745)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de video cómico de una Feitian curvilínea que toca por error un pergamino de felicitación como flauta y lo gira para mostrar los deseos del Festival de Medio Otoño.
 
 <img src="covers/2102540202992611745.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Una Feitian gordita en el cielo sostiene un rollo de papel tocándolo como si fuera una flauta xiao; se escucha una voz en off apresurada que dice "¡Alto, alto, alto!", la Feitian abre los ojos y mira a la cámara con expresión desconcertada; la voz en off continúa "Mira lo que estás sosteniendo"; la Feitian mira hacia abajo, se da cuenta de que tiene un rollo de papel en la mano y se asusta; suelta la mano izquierda y el rollo se desenrolla hacia abajo; en el rollo de papel dice de arriba a abajo "粉丝破八千"; se queda perpleja un segundo y de inmediato voltea el rollo; en el rollo dice de arriba a abajo "中秋节快乐"; finge una sonrisa forzada y avergonzada, sacando la lengua con timidez; una brisa suave sopla haciendo ondear su ropa y sus cintas de seda; cámara fija, composición sin cambios, telón de fondo idéntico; la música de fondo cambia de música tradicional de Dunhuang al inicio a un estilo cómico y alegre después.
 ```
 
 [↑ Volver a categorías](#catalog)
