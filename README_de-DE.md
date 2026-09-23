@@ -57,20 +57,57 @@ Profil / Avatar · Fotografie · Porträt / Selfie · Fahrzeug · Architektur / 
 
 <a name="prompt-2102527632726462637"></a>
 
-### Übersetzung läuft
+### Fotorealistischer Prompt einer erwachsenen Frau in Dessous, die im morgendlichen Licht an der Bettkante eines Hotelzimmers sitzt und mit einer Erdbeere an den Lippen verlegen lächelt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2102527632726462637)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Fotorealistischer Prompt einer erwachsenen Frau in Dessous, die im morgendlichen Licht an der Bettkante eines Hotelzimmers sitzt und mit einer Erdbeere an den Lippen verlegen lächelt.
 
 <img src="images/2102527632726462637-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Hotelzimmer am Morgen | Erdbeere und ein sanftes, verlegenes Lächeln🌟
+
+【Motiv & Bildstil】
+In einem Hotelzimmer am Morgen wird der Moment festgehalten, in dem eine junge, erwachsene japanische Frau, nachdem sie von einer Erdbeere abgebissen hat, den Blick ihres Partners trifft und etwas verlegen lächelt. Grundlegend ist ein fotorealistischer Bildausdruck mit authentischem Lebensgefühl, der die Natürlichkeit eines zufällig festgehaltenen, ungezwungenen Morgens während eines Hotelaufenthalts betont. Kein künstlicher Gravure-Stil, sondern ein Foto, das edle Weiblichkeit und die ruhige Intimität zweier Menschen spürbar macht.
+
+【Ort, Hintergrund & Atmosphäre】
+Ein sauberes, ruhiges Hotelzimmer, gehalten in Weiß und zartem Beige. Die Frau sitzt auf der Kante eines mit weißen Laken ordentlich gemachten Bettes. Vor dem Fenster hängen zarte, weiße Vorhänge, im Hintergrund ist dezent das morgendliche Stadtbild zu erahnen. Neben dem Bett steht ganz natürlich ein kleiner Nachttisch, auf dem ein weißer kleiner Teller mit wenigen Erdbeeren und eine schlichte Lampe platziert sind. Der Hintergrund bewahrt ein ordentliches, aber bewohntes Flair und bietet genügend Tiefe, ohne die Hauptfigur zu stören.
+
+【Jahreszeit, Tageszeit & Wetter】
+Ein ruhiger, sonniger Morgen. Kein gleißendes Hochsommerlicht, sondern die erfrischende, weiche Morgenluft, wie sie zu einem Übergang der Jahreszeiten passt. Durch die zarten Vorhänge dringt sanft diffuses Naturlicht herein, und im Raum liegt noch eine leichte Stille. Es weht kaum Wind, die Vorhänge bewegen sich nur ganz sacht. Eine entspannte Stimmung kurz nach dem Aufwachen, rund um ein gemütliches Frühstück.
+
+【Personenbeschreibung】
+Eine eindeutig erwachsene, etwa 24-jährige japanische Frau. Mit weichen, harmonischen Gesichtszügen, leicht vergrößert wirkenden dunklen Augen, natürlichen Augenbrauen, frischen Lippen und sanft gerundeten Wangen. Das Haar ist dunkelbraun mit natürlichen Wellen, die auf die Schultern fallen. Der Teint ist ein heller Ockerton mit realistischer Textur, die Poren und feine Schattierungen bewahrt.
+Die Figur ist elegant und natürlich kurvig – zierliche Schultern und Gliedmaßen, eine schlanke Taille im harmonischen Einklang mit weiblichen Kurven. Die Brust hat ein deutlich großes, üppiges Volumen, wirkt jedoch nicht unnatürlich riesig, sondern zeigt entsprechend der Sitzhaltung und Schwerkraft eine sanfte Rundung und natürliche Fülle. Auch Hüfte und Beine weisen gesunde, zum Gesamtkörper harmonische Linien auf.
+
+【Kleidung & Accessoires】
+Ein elfenbeinfarbenes Wäscheset aus BH und Höschen, das an eine hochwertige Dessous-Marke erinnert. Zarte pfirsichfarbene Blütenstickereien zieren dezent den Dekolleté- und Hüftbereich, gesäumt von feiner Bogenspitze. Das Material ist nicht zu dünn, sodass die Dreidimensionalität von Stickerei und Nähten natürlich zur Geltung kommt.
+Der BH hat eine realistische Größe und Struktur, die die üppige Brust mühelos stützt, ohne dass Träger oder Körbchen extrem einschneiden oder der Stoff unnatürlich gedehnt wird. Das Höschen schmiegt sich ebenso natürlich an die Hüften an. Auf Schmuck und Accessoires wird weitgehend verzichtet, um die morgendliche Ungezwungenheit zu betonen.
+
+【Pose, Haltung & Blick】
+Die Frau sitzt leicht schräg und locker an der Bettkante, lässt beide Beine aus dem Bett hängen und berührt barfuß einen weichen Teppich. Ihr Gewicht verteilt sich natürlich auf beide Sitzbeine, und der Oberkörper öffnet sich leicht zur Kamera. Mit einer Hand hält sie eine von dem Beistelltisch genommene Erdbeere mit den Fingerspitzen nah an den Lippen, direkt nachdem sie von der Spitze abgebissen hat. Die andere Hand ruht leicht auf dem Bettlaken neben der Hüfte und stützt ihre Haltung natürlich ab.
+Ohne das Gesicht künstlich zu verdrehen, blickt sie entsprechend der Ausrichtung von Schultern und Brust zur Kamera, wo sich ihr Partner befindet. Die Beine sind nicht extrem überkreuzt, sondern von den Knien bis zu den Zehen locker und entspannt positioniert. Die Haare fallen auf einer Seite über den Rücken, um weder Kleidung noch Gesichtsausdruck zu sehr zu verdecken.
+
+【Ausdruck & Emotion】
+Der Moment, in dem sie bemerkt, dass man ihr beim Essen der Erdbeere zusieht, und sie etwas beschämt auflacht. Der Mund öffnet sich nicht weit; nach dem Bissen schließt er sich sanft und die Mundwinkel heben sich natürlich. Auf den Wangen zeigt sich eine leichte Röte, und die Augenpartie entspannt sich weich. In ihrem Blick zur Kamera mischen sich Geborgenheit gegenüber dem vertrauten Partner und ein Hauch Verlegenheit.
+Kein übertriebenes Grinsen oder verführerischer Blick, sondern die liebenswerte, spontane Reaktion an einem ganz gewöhnlichen Morgen.
+
+【Bildkomposition & Kamera】
+Vertikales 4:5-Format für X-Posts. Eine Ganzkörperkomposition (Full Body), die vom Scheitel bis zu den barfüßigen Zehen großzügig Raum bietet und oben sowie unten angemessenen Weißraum lässt. Die Kamera befindet sich auf einer natürlichen Höhe, knapp unterhalb der Brust der sitzenden Frau, und ist leicht schräg frontal positioniert.
+Natürliche Perspektive entsprechend einem 50-mm-Standardobjektiv; Weitwinkeleffekte, die Beine oder Brust unproportional vergrößern würden, sind zu vermeiden. Die Person ist leicht außermittig platziert, sodass Fenster, Bett und Beistelltisch im Hintergrund erkennbar bleiben. Die Schärfentiefe ist nicht zu gering, mit einer sanften Hintergrundunschärfe, die den Raum dennoch als Hotelzimmer ausweist.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Hauptlichtquelle ist das natürliche Morgenlicht, das durch das große seitliche Fenster und die weißen Vorhänge hereinfällt. Es umspielt weich Gesicht, Schultern, Arme und Beine, während die abgewandte Seite durch das reflektierte Licht der weißen Bettwäsche und Wände natürlich aufgehellt wird. Schattenkanten sind weich gehalten für eine morgendlich helle, ruhige Tonwertabstufung.
+Die Haut besitzt einen gesunden Teint, feine Schattierungen und zarte Textur; das Haar zeigt einzelne Strähnen und weichen Glanz. Die Spitze besticht durch feine Stickereien und Kanten, die weißen Laken zeigen leichte Falten und weiche Schwere, und die Erdbeere zeigt ein saftiges Rot mit detaillierten Samenkörnern. Die Gesamtstimmung basiert auf Elfenbein, Weiß und zartem Beige, während das Rot der Erdbeere als dezenter Akzent fungiert.
+
+【Qualität & Ausschlusskriterien】
+Hohe Auflösung mit Fokus auf natürlicher menschlicher Anatomie, Licht, Texturen und Perspektive wie von einer echten Kamera aufgenommen. Minderjährig wirkende Personen oder zu kindliche Gesichtszüge, unnatürliche Körperproportionen, überzählige Gliedmaßen oder Finger, fehlende oder verschmolzene Finger, anatomisch unkorrekte Gelenke und Verwechslung von linker und rechter Hand vermeiden.
+Kleidungsfehler, Verschmelzung von Körper und Stoff, unnatürliches Einschneiden, unbeabsichtigte Blößen, extreme Weitwinkelverzerrungen und übertriebene Hautglättung vermeiden. Die Brust bewahrt ein üppiges, natürliches Volumen, jedoch ohne harte Kugelform, unnatürliches Hochdrücken oder Missachtung der Schwerkraft. Keinerlei Text, Logos, Wasserzeichen oder UI-Elemente im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
@@ -101,20 +138,60 @@ Fotografie · Charakter · Veröffentlicht
 
 <a name="prompt-2102526077872840964"></a>
 
-### Übersetzung läuft
+### Prompt für ein fotorealistisches Alltagsporträt einer Japanerin, die am Fenster eines Bäckerei-Cafés frisch gebackenes Brot genießt und mit der Hand am Mund lächelt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2102526077872840964)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Prompt für ein fotorealistisches Alltagsporträt einer Japanerin, die am Fenster eines Bäckerei-Cafés frisch gebackenes Brot genießt und mit der Hand am Mund lächelt.
 
 <img src="images/2102526077872840964-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Bäckerei-Café am Fenster | Frisch gebackenes Brot und ein strahlendes Lächeln🌟
+
+【Thema & Bildstil】
+Ein fotorealistisches Bild, das den Moment einfängt, in dem eine Frau in einem kleinen Bäckerei-Café am Tag nach einem Bissen Brot unwillkürlich lächelt. Es soll nicht wie ein künstlich inszeniertes Werbefoto wirken, sondern wie eine intime, lebensnahe Aufnahme, die während eines Gesprächs mit einer vertrauten Person ganz natürlich mit dem Smartphone entstanden ist.
+Ein frisches sachsenblaues Outfit, ofenfrisches Brot und weiches Fensterlicht vereinen sich zu einer sauberen, erwachsenen Lieblichkeit. Bei aller bildbandartigen Ästhetik steht der zufällige, ungestellte Ausdruck des Alltags im Vordergrund.
+
+【Ort, Hintergrund & Atmosphäre】
+Ein Fensterplatz in einem gemütlichen, kleinen Bäckerei-Café mit Holzfensterrahmen und Holztischen. Vor der Frau stehen ein weißer Teller und ein angebissenes Stück Brot; im Hintergrund sind Holzregale, eine Auslage mit Brotsorten, Stühle und kleine Zimmerpflanzen natürlich arrangiert.
+Durch das Fenster sind eine helle Straße bei Tag und etwas Grün zu erahnen, während im Innenraum warme Holztexturen vorherrschen. Der Hintergrund ist nicht völlig aufgelöst, sondern bewahrt genügend Tiefe und Information, um den Ort klar als Bäckerei erkennbar zu halten.
+
+【Jahreszeit, Tageszeit & Wetter】
+Ein warmer, angenehmer sonniger Tag am Mittag, zwischen Frühsommer und Frühherbst. Kein grelles Hochsommerlicht, sondern helles, weiches Naturlicht, das durch das Fenster einfällt.
+Die Bäume im Freien tragen natürliches Grün, und im Café herrscht eine frische, leichte Atmosphäre. Kaum Wind – eine friedliche Tageszeit, ideal für ein ruhiges Mittagessen oder eine Tasse Tee.
+
+【Charakterbeschreibung】
+Eine eindeutig erwachsene, etwa 24-jährige Japanerin. Sanfte, wohlproportionierte Gesichtszüge, ausdrucksstarke dunkle Augen, natürliche Brauen sowie rosige Wangen und Lippen, die Nahbarkeit mit der Gelassenheit einer erwachsenen Frau verbinden. Das dunkelbraune Haar reicht etwas über die Schultern, mit natürlichem Fall und zarten, losen Strähnen.
+Zierliche Schultern und Arme, eine schlanke Taille im Einklang mit weiblichen Rundungen – eine elegante, natürlich kurvige Silhouette. Ein deutlich volles, natürlich üppiges Dekolleté, jedoch nicht starr kugelförmig oder extrem hochgepusht, sondern mit weicher Rundung und Plastizität, die der Sitzhaltung und Kleidung folgt.
+
+【Kleidung & Accessoires】
+Ein für den Ausflug passendes Spitzen-Rüschen-Camisole in Sachsenblau. Der Hauptteil besteht aus blickdichtem, weichem Rippstrick, während Ausschnitt und Träger mit plastischen Rüschen aus feiner floraler Spitze verziert sind. Ein luftiges, geschmackvolles Design – keine Unterwäsche, sondern ein stilvolles Oberteil, das man ganz selbstverständlich in einem Café trägt.
+Passgenau geschnitten mit ausreichend Stoffbreite für eine üppige Oberweite, ohne überdehnte Nähte oder einscheidende Spitzen. Dazu ein elfenbeinfarbener Baumwollrock. Dezente Accessoires, höchstens kleine, unauffällige Ohrringe.
+
+【Pose, Bewegung & Blick】
+Die Frau sitzt ungezwungen auf einem Stuhl am Fenster und wendet ihren Oberkörper leicht ihrem Gegenüber zu. Fester, entspannter Sitz auf Beinen und Hüfte ohne unnatürliche Verdrehungen. In der linken Hand hält sie das angebissene Brot locker knapp über dem weißen Teller.
+Die rechte Hand liegt leicht unterhalb des Mundes, als hätte sie gleich nach dem Bissen schmunzeln müssen. Die Fingerspitzen verdecken die Lippen nicht vollständig, sodass Mundwinkel und Mimik gut sichtbar bleiben. Der Blick geht nicht direkt in die Linse, sondern knapp darüber auf das Gesicht ihres Gegenübers.
+
+【Ausdruck & Emotion】
+Ein strahlendes Lächeln mit einem Hauch von Verlegenheit – als hätte ihr Gegenüber bemerkt, wie köstlich ihr das frische Brot schmeckt. Die Wangen heben sich natürlich, Freude funkelt in den Augen, die Mundwinkel sind sanft nach oben gezogen.
+Kein lautes, offenes Lachen, sondern ein Lächeln, das unvermittelt aus einer beiläufigen Tischunterhaltung hervorgegangen ist. Es meidet jede Pose für die Kamera und strahlt das tiefe Wohlbehagen aus, das man in Gesellschaft vertrauter Menschen verspürt.
+
+【Bildkomposition & Kamera】
+Vertikales Format 4:5 für X-Posts. Eine Brustporträt-Einstellung (Bust-up), die den Bereich von der Brust bis zum Scheitel groß abbildet, mit etwas Freiraum über dem Kopf; die Hand am Mund und die Hand mit dem Brot sind harmonisch im Bild integriert. Die Frau ist leicht rechts von der Mitte platziert, sodass links Fensterrahmen und Tageslicht sichtbar werden.
+Kamerahöhe entspricht etwa der Augenhöhe einer gegenübersitzenden Person. Natürliche Brennweite im Normal- bis leichten Telebereich, ohne Weitwinkelverzerrungen an Gesicht, Oberweite oder Händen. Der Hintergrund besitzt eine ausgewogene Tiefenschärfe, weich gezeichnet, aber mit erkennbaren Brotregalen und Holzdetails.
+
+【Licht, Farbe, Textur & Atmosphäre】
+Hauptlichtquelle ist das weiche Tageslicht, das durch das große Fenster auf der linken Seite strömt. Es setzt Akzente auf Wangen, Augen und Schultern, ergänzt durch sanftes Aufhelllicht von Wänden und Holzmöbeln im Innenraum. Keine harten Schatten, die Gesichtsform bleibt natürlich plastisch modelliert.
+Die Haut bewahrt Poren, feine Schattierungen und natürliche Durchblutung ohne künstliche Glättungsfilter. Das Haar zeigt feine Einzelsträhnen und zarten Glanz, die Spitze besticht durch detailreiche Stickerei, das Brot durch goldbraune Kruste und fluffige Porung an der Bruchkante. Das warme Braun des Holzes harmoniert mit dem Sachsenblau zu einer frischen, vertrauten Mittagsstimmung.
+
+【Qualität & Ausschlusskriterien】
+Hochauflösende, fotorealistische Darstellung. Höchster Wert auf glaubhafte Anatomie, Hände, Finger, Beleuchtung, Perspektive und Materialität wie bei einer echten Kamera- oder Smartphone-Aufnahme.
+Zu vermeiden sind: minderjährig wirkende Personen, kindliche Gesichtszüge, unnatürliche Anatomie, überzählige Gliedmaßen oder Finger, fehlende oder verschmolzene Finger, anatomisch falsche Gelenke, Vertauschung von linker und rechter Hand, Verschmelzen von Kleidung mit dem Körper, fehlerhafte Kleidung, ungewollte Entblößung, extreme Weitwinkelverzerrung und übertriebene Hautglättung. Die Oberweite behält ein natürlich-volles Volumen und darf weder absurd vergrößert, starr kugelförmig, extrem hochgedrückt noch schwerkraftwidrig wirken. Keine Schriften, Logos, Wasserzeichen, Sprechblasen oder Benutzeroberflächen im Bild.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

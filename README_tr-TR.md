@@ -57,20 +57,57 @@ Profil / Avatar · Fotoğrafçılık · Portre / Selfie · Araç · Mimari / İ�
 
 <a name="prompt-2102527632726462637"></a>
 
-### Çeviri sürüyor
+### Sabah ışığının vurduğu bir otel odasında yatak kenarında oturan, iç çamaşırı giymiş yetişkin bir kadının ağzına bir çilek götürürken utangaçça gülümsediği fotoğraf tarzı istem.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2102527632726462637)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sabah ışığının vurduğu bir otel odasında yatak kenarında oturan, iç çamaşırı giymiş yetişkin bir kadının ağzına bir çilek götürürken utangaçça gülümsediği fotoğraf tarzı istem.
 
 <img src="images/2102527632726462637-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Sabah bir otel odasında ｜ Çilek ve hafif utangaç bir gülümseme🌟
+
+【Ana Tema ve Sanat Tarzı】
+Sabah bir otel odasında, bir çilekten bir ısırık almış genç bir yetişkin Japon kadının sevgilisiyle göz göze geldiği ve biraz utanarak gülümsediği anı betimleyin. Günlük yaşam hissi veren fotogerçekçi bir fotoğraf anlatımını temel alarak, bir otel konaklamasındaki sıradan bir sabahın tesadüfen çekilmiş gibi duran doğallığına öncelik verin. Aşırı kurgulanmış bir gravür tarzı yerine, zarif bir kadınsılık ve iki kişinin birlikte geçirdiği sakin bir yakınlık hissettiren bir fotoğraf olmalıdır.
+
+【Mekan, Arka Plan ve Atmosfer】
+Beyaz ve açık bej tonlarının hakim olduğu, temiz ve sakin bir otel odası. Kadın, beyaz çarşafları düzeltilmiş yatağın kenarında oturmaktadır. Pencerede ince beyaz perdeler asılıdır ve arka planda sabahın şehir manzarası ölçülü bir şekilde görünür. Yatağın yanına küçük bir komodin yerleştirilmiş, üzerinde birkaç çilek bulunan beyaz küçük bir tabak ve sade bir lamba doğal bir şekilde konumlandırılmıştır. Arka plan, ana karakteri engellemeyecek ölçüde bir derinlik sunarken, yaşanmışlık hissini koruyarak derli toplu olmalıdır.
+
+【Mevsim, Zaman ve Hava Durumu】
+Sakin ve güneşli bir günün sabahı. Yaz ortasının kavurucu güneşi değil, mevsim geçişlerine yakışan ferah ve yumuşak bir sabah havası. İnce perdelerin arasından süzülen doğal ışık içeri girer ve odada hâlâ hafif bir sessizlik hakimdir. Neredeyse hiç rüzgar yoktur, perdeler sadece belli belirsiz kıpırdar. Uyanmanın üzerinden biraz zaman geçmiş, kahvaltı öncesi veya sonrasının telaşsız atmosferi.
+
+【Karakter Özellikleri】
+Net bir şekilde yetişkin, 24 yaşlarında bir Japon kadın. Yumuşak ve muntazam yüz hatları, biraz iri koyu gözler, doğal kaşlar, canlı renkte dudaklar ve hafif yuvarlak yanaklar. Omuzlarına dökülen doğal dalgalara sahip koyu kahverengi saçlar. Gözenekleri ve ince gölgeleri koruyan gerçekçi bir dokuya sahip açık aşıboyası tonunda bir ten.
+Narin omuzlar ve uzuvlar ile ince bir belin kadınsı kıvrımlarla uyum sağladığı, zarif ve doğal olarak dolgun bir vücut yapısı. Göğüsler belirgin şekilde dolgun ve hacimlidir, ancak yapay bir şekilde devasa görünmez; oturma pozisyonuna ve yerçekimine uygun olarak yumuşak bir yuvarlaklık ve doğal bir dolgunluk sergiler. Kalça ve bacaklar da tüm vücutla dengeli, sağlıklı hatlara sahiptir.
+
+【Kıyafet ve Aksesuarlar】
+Kaliteli bir iç çamaşırı markasını andıran fildişi rengi sütyen ve külot takımı. Göğüs ve bel çevresinde açık şeftali renginde mütevazı küçük çiçek nakışları, kenarlarda ise narin dilimli danteller. Çok ince olmayan, nakış ve dikişlerin üç boyutlu hissinin doğal olarak fark edilebildiği bir kumaş dokusu.
+Sütyen, dolgun göğsü zorlamadan saran gerçekçi bir boyut ve yapıya sahip olmalı; askılar veya kuplar aşırı derecede sıkmamalı ve kumaş doğal olmayan bir şekilde gerilmemelidir. Külot da bele doğal bir şekilde oturmalıdır. Sabahın sade havasını korumak için temel olarak hiçbir aksesuar takılmamalıdır.
+
+【Poz, Hareket ve Bakış】
+Kadın yatak kenarına çapraz ve hafifçe oturmuş, iki bacağını da yataktan aşağı sarkıtıp çıplak ayaklarını yumuşak bir halıya basmıştır. Vücut ağırlığı oturma kemiklerine doğal olarak dağılmış, üst gövde hafifçe kameraya doğru açılmıştır. Bir eliyle komodinden aldığı çileği parmak uçlarıyla tutmakta, ucundan bir ısırık aldıktan hemen sonraki konumda ağzına yakın tutmaktadır. Diğer eli ise belin yanındaki çarşafa hafifçe yaslanmış, duruşu doğal bir şekilde desteklemektedir.
+Sadece yüzünü doğal olmayan bir şekilde çevirmeden, omuz ve göğüs yönüyle uyumlu olarak sevgilisinin bulunduğu kamera tarafına bakar. Bacaklar aşırı şekilde üst üste atılmamış, dizlerden ayak uçlarına kadar gevşemiş doğal bir pozisyondadır. Saçın bir tarafı omuz arkasına atılarak kıyafeti ve yüz ifadesini fazla kapatması engellenmiştir.
+
+【İfade ve Duygu】
+Çilek yerken yakalandığını fark ettiği, biraz utanarak gülümsediği o an. Ağız çok açılmamış, tek bir ısırıktan sonra usulca kapanmış ve dudak kenarları doğal bir şekilde yukarı kıvrılmıştır. Yanaklarda hafif bir utangaçlık belirir, göz çevresi de bununla birlikte yumuşar. Kameraya bakan gözlerde, yakından tanıdığı sevgilisine duyduğu güven ve hafif bir mahcubiyet iç içedir.
+Abartılı bir gülümseme veya baştan çıkarıcı bir ifade değil, sıradan bir sabah vakti aniden beliren sevimli bir tepki olarak ifade edilmelidir.
+
+【Kompozisyon ve Kamera】
+X paylaşımlarına uygun 4:5 dikey format. Başın tepe noktasından çıplak ayak uçlarına kadar tüm vücudu rahatça çerçeveleyen tam boy kompozisyon; başın üstünde ve ayakların altında uygun boşluklar bırakılmalıdır. Kamera, oturan kadının göğsünden biraz daha alçak, doğal bir yükseklikten çekim yapmalı ve tam cepheden ziyade hafif çapraz bir açıya yerleştirilmelidir.
+50mm civarı standart bir lense denk gelen doğal bir perspektif kullanılmalı, sadece bacakların veya göğsün büyük göründüğü geniş açı ifadelerinden kaçınılmalıdır. Model karenin merkezinden hafifçe bir kenara kaydırılmalı; pencere, yatak ve komodin arka plan olarak anlaşılabilecek ölçüde görünmelidir. Alan derinliği çok sığ olmamalı, mekanın bir otel odası olduğunun anlaşılabileceği ölçüde yumuşak bir arka plan bulanıklığı sağlanmalıdır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, çerçevenin yanındaki büyük pencereden beyaz ince perdeler aracılığıyla süzülen sabahın doğal ışığıdır. Yüz, omuzlar, kollar ve bacakların etrafından yumuşakça dolanırken, karşı taraf beyaz yatak örtüleri ve duvarlardan yansıyan ışıkla doğal bir şekilde aydınlatılır. Gölgelerin sınırları sert olmamalı, sabaha özgü aydınlık ve sakin geçişler sunmalıdır.
+Ciltte doğal bir canlılık, ince gölgeler ve mikroskobik dokular kalmalı; saçlarda her bir telin akışı ve yumuşak bir parlaklık ortaya çıkmalıdır. Dantelde ince nakışlar ve kenar işlemeleri, beyaz çarşaflarda hafif kırışıklıklar ve yumuşak bir dolgunluk, çilekte ise taze bir kırmızılık ve çekirdek ayrıntıları net şekilde hissedilmelidir. Genel renk paleti fildişi, beyaz ve açık bej ağırlıklı düzenlenmeli, çileğin kırmızısı küçük ve etkili bir vurgu olarak kullanılmalıdır.
+
+【Kalite ve Hariç Tutulacak Unsurlar】
+Yüksek çözünürlük; gerçek bir kamerayla çekilmiş gibi doğal insan vücudu, ışık, malzeme ve perspektife öncelik verilmelidir. Reşit görünmeyen kişiler veya aşırı çocuksu yüz hatları, doğal olmayan vücut oranları, fazla uzuvlar veya parmaklar, eksik veya birleşik parmaklar, garip eklemler, sağ ve sol ellerin karışması engellenmelidir.
+Kıyafet bozulmaları, ten ile kumaşın birbirine karışması, doğal olmayan kumaş sıkışmaları, istenmeyen çıplaklık, aşırı geniş açı distorsiyonu ve yapay cilt pürüzsüzleştirme işlemlerinden kaçınılmalıdır. Göğüsler doğal ve zengin bir dolgunluğa sahip olmalı, ancak sert bir küre şeklinde, olağandışı yukarı itilmiş veya yerçekimine meydan okuyan bir biçimde olmamalıdır. Görselde yazı, logo, filigran veya kullanıcı arayüzü öğeleri yer almamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)
@@ -101,20 +138,60 @@ Fotoğrafçılık · Karakter · Yayımlandı
 
 <a name="prompt-2102526077872840964"></a>
 
-### Çeviri sürüyor
+### Fırın kafenin pencere kenarında taze pişmiş ekmeğin tadını çıkaran ve elini ağzına götürerek gülümseyen Japon bir kadının fotogerçekçi, günlük portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2102526077872840964)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fırın kafenin pencere kenarında taze pişmiş ekmeğin tadını çıkaran ve elini ağzına götürerek gülümseyen Japon bir kadının fotogerçekçi, günlük portre istemi.
 
 <img src="images/2102526077872840964-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Pencere Kenarındaki Fırın Kafe | Taze Pişmiş Ekmek ve Yüzdeki Sıcak Gülümseme🌟
+
+【Konu ve Sanat Tarzı】
+Öğle vaktinde küçük bir fırın kafede ekmek yiyen bir kadının gayriihtiyari gülümsediği anı yakalayan fotogerçekçi bir fotoğraf. Kurgulanmış bir reklam çekimi yerine, yakın bir arkadaşla sohbet ederken akıllı telefonla çekilmiş gibi samimi, doğal ve hayatın içinden bir kare olmalıdır.
+Ferah saks mavisi kıyafet, yeni fırından çıkmış ekmek ve pencereden süzülen yumuşak gün ışığı harmanlanarak temiz, duru ve olgun bir sevimlilik yansıtılmalıdır. Bir fotoğraf albümünün estetiğini taşırken, gündelik yaşamın içinde kendiliğinden beliren o anlık ifade korunmalıdır.
+
+【Mekân, Arka Plan ve Atmosfer】
+Ahşap pencere pervazları ve masalarıyla sıcak bir hava sunan küçük bir fırın kafenin pencere kenarındaki masası. Kadının önündeki masada beyaz bir tabak ve ısırılmış bir parça ekmek yer alır; arka planda ahşap raflar, vitrinde dizili ekmekler, sandalyeler ve küçük saksı bitkileri doğal bir düzenle görünür.
+Pencerenin dışından öğlenin aydınlık caddesi ve yeşillikler hafifçe seçilirken, mekânın içinde dingin ahşap dokusu hâkimdir. Arka plan tamamen bulanıklaştırılmamalı, buranın bir fırın olduğunu hissettirecek ölçüde derinlik ve detay bırakılmalıdır.
+
+【Mevsim, Zaman ve Hava Durumu】
+İlk yaz ile ilk sonbahar arasındaki ılık ve keyifli bir güneşli günün öğle vakti. Yaz ortasının kavurucu güneşi yerine, pencereden içeri yumuşakça yayılan parlak ve doğal bir ışık tercih edilmelidir.
+Dışarıdaki ağaçlar canlı ve doğal bir yeşile sahiptir; kafenin içinde ise ferah ve hafif bir hava dolaşır. Rüzgârın neredeyse hiç hissedilmediği, öğle yemeğinin ya da çayın sükûnetle tadını çıkarmaya uygun dingin bir zaman dilimi.
+
+【Karakter Özellikleri】
+Kesinlikle yetişkin, yaklaşık 24 yaşlarında Japon bir kadın. Yumuşak ve dengeli yüz hatları, koyu ve derin gözler, doğal kaşlar, hafif al yanaklar ve canlı dudaklara sahiptir; cana yakınlığının yanı sıra yetişkin bir kadına özgü bir olgunluk taşır. Saçları koyu kahverengi, omuz hizasını biraz geçecek uzunlukta, doğal dalgalara ve hafif serbest tutamlara sahiptir.
+Narin omuzları, kolları ve ince beliyle uyum sağlayan kadınsı kıvrımlara sahip, zarif ve doğal olarak dolgun vücutlu. Göğüsleri belirgin şekilde iri ve doğal bir dolgunluktadır; ancak sert bir küre gibi ya da aşırı yukarı itilmiş değil, oturma pozisyonuna ve kıyafetine uyumlu, yumuşak yuvarlaklıkta ve üç boyutlu bir biçimde resmedilmelidir.
+
+【Kıyafet ve Aksesuarlar】
+Saks mavisi tonlarında, dışarıda giymeye uygun fırfırlı ve dantelli bir büstiyer/atlet. Ana gövde iç göstermeyen yumuşak fitilli kumaştan üretilmiştir; dekolte ve omuz askılarında ince çiçek desenli, üç boyutlu dantel fırfırlar yer alır. İç çamaşırı gibi değil, kafeye rahatça giyilebilecek şık, serinletici ve zarif bir üst parça olarak tasarlanmalıdır.
+Dolgun göğüsleri rahatça saran, kumaşın veya dantelin gerilip deriye batmadığı gerçekçi bir beden ölçüsü olmalıdır. Alt kısımda fildişi rengi pamuklu bir etek yer alır. Aksesuarlar göze batmamalı, gerekirse yalnızca küçük küpelerle sınırlandırılmalıdır.
+
+【Poz, Hareket ve Bakış】
+Kadın, pencere kenarındaki sandalyeye rahatça oturmuş, üst gövdesini hafifçe karşısındaki kişiye doğru çevirmiştir. Bacakları ve kalçası üzerinde dengeli oturur; vücudu yapay şekilde bükülmemiştir. Sol elinde bir lokma ısırılmış ekmek tutar ve bu elini beyaz tabağın hemen üzerinde doğal bir biçimde durdurmuştur.
+Sağ elini ise ekmeği yedikten hemen sonra gülümsemişçesine ağzının hemen altına hafifçe yaklaştırmıştır. Parmak uçları dudaklarını tamamen kapatmaz, dudak kenarları ve yüz ifadesi net biçimde görülür. Bakışları doğrudan kamera lensine değil, lensin hemen üzerindeki karşıda oturan kişinin yüzüne yöneliktir.
+
+【Yüz İfadesi ve Duygu】
+Taze ekmeğin lezzetinden ötürü ve bu durum karşısındaki kişi tarafından fark edildiği için hafif bir mahcubiyet içeren parlak, içten bir gülümseme. Yanaklar doğal şekilde yukarı kalkmış, gözlerinde neşe ışıltısı belirmiş ve dudak kenarları yumuşakça kıvrılmıştır.
+Ağzı ardına kadar açık bir kahkaha değil, yemek sırasındaki sıradan bir sohbetten süzülen samimi bir tebessüm olmalıdır. Kameraya poz veriyormuş hissi vermemeli, tüm ifadesinden yakın birisiyle vakit geçirmenin getirdiği güven ve rahatlık okunmalıdır.
+
+【Kompozisyon ve Kamera】
+X (Twitter) paylaşımlarına uygun 4:5 dikey format. Göğüs bölgesinden başın tepesine kadar olan kısmı çerçeveleyen büst (göğüs üstü) kompozisyonu; başın üzerinde hafif bir boşluk bırakılmalı, ağzına götürdüğü sağ eli ile ekmeği tutan sol eli de kadraja doğal biçimde dâhil edilmelidir. Kadın merkezden hafifçe sağa yerleştirilmeli, sol tarafta pencere pervazı ve gün ışığı görünmelidir.
+Kamera, karşı masada oturan kişinin göz hizasına yakın bir konumdadır. Yüzü, göğsü veya elleri geniş açıyla bozan abartılardan kaçınmak için standart veya orta telefoto odak uzaklığı kullanılır. Arka plan, ekmek raflarının ve ahşap dekorun seçilebileceği dengeli bir alan derinliğiyle yumuşakça bulanıklaştırılmalıdır.
+
+【Işık, Renk, Doku ve Atmosfer】
+Ana ışık kaynağı, karenin solundaki büyük pencereden süzülen yumuşak doğal gündüz ışığıdır. Yanaklara, gözlere ve omuzlara parlak ışık düşerken, karşı tarafta kafenin duvarlarından ve ahşap mobilyalarından yansıyan yumuşak dolgu ışığı bulunur. Gölgeler sertleştirilmemeli, yüzün üç boyutlu hatları doğal biçimde korunmalıdır.
+Ciltte gözenekler, ince gölgeler ve doğal kan dolaşımı korunmalı, aşırı pürüzsüzleştirme ve yapay güzellik filtrelerinden kaçınılmalıdır. Saç telleri tek tek belirgin ve hafif parlak, danteller ince işlemeli, ekmek ise fırınlanmış kabuğu ve iç kısımdaki yumuşak dokusuyla gerçekçi olmalıdır. Ahşabın sıcak kahverengisi ile saks mavisi dengelenerek taze ve samimi bir öğle atmosferi yaratılmalıdır.
+
+【Kalite ve İstenmeyen Unsurlar】
+Yüksek çözünürlüklü fotogerçekçi anlatım. Gerçek bir fotoğraf makinesi veya akıllı telefonla çekilmişçesine doğal insan anatomisi, eller, parmaklar, ışık, perspektif ve malzeme dokusu ön planda tutulmalıdır.
+Reşit görünmeyen kişiler, aşırı çocuksu yüzler, yapay vücut hatları, fazladan uzuv veya parmaklar, eksik veya birleşik parmaklar, garip eklemler, sol ve sağ ellerin karışması, kıyafetin tenle kaynaşması, bozuk giysiler, istenmeyen açıklık/dekolte, aşırı geniş açı bozulmaları ve aşırı cilt pürüzsüzleştirme işlemlerinden kesinlikle kaçınılmalıdır. Göğüsler doğal ve dolgun hacmini korumalı; ancak yapay biçimde devasa, katı küre şeklinde, olağandışı biçimde sıkıştırılmış veya yerçekimine meydan okuyan bir yapıda olmamalıdır. Görselde yazı, logo, filigran, konuşma balonu veya kullanıcı arayüzü (UI) bulunmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

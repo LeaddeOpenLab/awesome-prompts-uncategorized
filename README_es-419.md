@@ -57,20 +57,57 @@ Traducción en curso
 
 <a name="prompt-2102527632726462637"></a>
 
-### Traducción en curso
+### Prompt de estilo fotográfico en el que una mujer adulta en lencería, sentada al borde de la cama en una habitación de hotel bañada por la luz matutina, sonríe con timidez con una fresa junto a los labios.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2102527632726462637)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de estilo fotográfico en el que una mujer adulta en lencería, sentada al borde de la cama en una habitación de hotel bañada por la luz matutina, sonríe con timidez con una fresa junto a los labios.
 
 <img src="images/2102527632726462637-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Habitación de hotel por la mañana | Fresa y una suave sonrisa tímida🌟
+
+【Tema y estilo visual】
+En una habitación de hotel por la mañana, se retrata el instante en que una mujer japonesa joven y adulta, tras morder una fresa, hace contacto visual con su pareja y sonríe con timidez. Se basa en una expresión fotográfica fotorrealista con sensación de vida cotidiana, enfatizando la naturalidad de una mañana casual capturada de forma espontánea durante una estancia de hotel. Lejos de un estilo gravure artificial, la imagen transmite una elegancia femenina y la tranquila intimidad compartida entre dos personas.
+
+【Lugar, fondo y ambientación】
+Una habitación de hotel limpia, relajante, basada en tonos blancos y beige claro. La mujer está sentada al borde de una cama arreglada con sábanas blancas. En la ventana cuelgan cortinas blancas y traslúcidas, y al fondo se vislumbra discretamente el paisaje urbano matutino. Junto a la cama hay una pequeña mesa de noche dispuesta con naturalidad, sobre la que reposa un platito blanco con unas pocas fresas y una lámpara sencilla. El fondo conserva sensación hogareña pero ordenada, ofreciendo la profundidad justa sin restar protagonismo al sujeto principal.
+
+【Estación, hora y clima】
+Una mañana tranquila y despejada. No una luz solar intensa de pleno verano, sino un aire matutino fresco y suave propio de un cambio de estación. Entra luz natural difuminada a través de las cortinas traslúcidas, y la habitación aún conserva una tenue calma. Casi no hay viento, apenas una levísima brisa que balancea sutilmente las cortinas. Es la atmósfera relajada de un rato después de despertar, antes o después de un desayuno sin prisas.
+
+【Descripción del personaje】
+Una mujer japonesa claramente adulta, de unos 24 años. Con facciones suaves y armoniosas, ojos oscuros y expresivos ligeramente grandes, cejas naturales, labios de buen color y mejillas suavemente redondeadas. Cabello castaño oscuro con ondas naturales que caen sobre los hombros. Piel de tono ocre claro, con una textura realista que conserva poros y sombras sutiles.
+Complexión elegante y naturalmente voluptuosa, con hombros y extremidades delicados, cintura estrecha en armonía con curvas femeninas. El busto es evidentemente grande y con volumen abundante, pero sin ser anormalmente gigantesco, mostrando una redondez suave y un grosor natural acorde con la gravedad y la postura sentada. Las caderas y piernas mantienen líneas saludables y proporcionadas con todo el cuerpo.
+
+【Atuendo y accesorios】
+Un conjunto de sujetador y bragas color marfil que evoca una marca de lencería de alta gama. Bordados discretos de pequeñas flores en tono melocotón suave decoran el escote y la cadera, complementados con un delicado encaje festoneado en los bordes. El material no es demasiado fino y permite apreciar con naturalidad el volumen del bordado y las costuras.
+El sujetador tiene un tamaño y una estructura realistas que envuelven el busto prominente sin forzarlo, evitando que los tirantes o las copas se claven de manera extrema o que la tela se estire de forma antinatural. Las bragas también se ajustan de manera fluida a las caderas. Prácticamente no lleva accesorios, manteniendo la sencillez propia de la mañana.
+
+【Pose, movimiento y mirada】
+La mujer se sienta ligeramente en diagonal y al borde de la cama, bajando ambas piernas fuera de ella con los pies descalzos sobre una alfombra suave. El peso se distribuye de manera natural sobre ambos isquiones y el torso se orienta ligeramente hacia la cámara. Con una mano sostiene una fresa entre los dedos, recién tomada de la mesa auxiliar, manteniéndola cerca de los labios justo después de haber mordido la punta. Con la otra mano apoyada suavemente sobre las sábanas junto a la cadera, sostiene su postura de forma natural.
+Sin girar forzadamente solo el rostro, mira hacia la cámara donde se encuentra su pareja, en sintonía con la orientación de sus hombros y pecho. No cruza las piernas de forma extrema; desde las rodillas hasta los dedos de los pies descansan en una posición relajada y natural. Parte del cabello se desliza detrás de un hombro, sin ocultar demasiado el atuendo ni su expresión.
+
+【Expresión y emoción】
+El instante en que se da cuenta de que la están viendo comer la fresa y sonríe un poco avergonzada. La boca no se abre mucho; tras dar un mordisco la cierra con suavidad, elevando las comisuras con naturalidad. Un ligero rubor aparece en sus mejillas y la mirada se suaviza al mismo tiempo. En sus ojos dirigidos a la cámara se mezcla la tranquilidad y confianza hacia su pareja íntima con una tierna timidez.
+No es una sonrisa exagerada ni una expresión seductora, sino una reacción adorable y espontánea de una mañana cualquiera.
+
+【Composición y cámara】
+Orientación vertical 4:5 pensada para publicaciones en X. Composición de cuerpo entero (full body) que abarca cómodamente desde la coronilla hasta los dedos de los pies descalzos, dejando un margen adecuado arriba y abajo. La cámara se sitúa a una altura natural, ligeramente por debajo del busto de la mujer sentada, ubicada en un ángulo sutilmente diagonal respecto al frente.
+Perspectiva natural equivalente a un lente estándar de unos 50 mm, evitando distorsiones gran angulares que magnifiquen desproporcionadamente las piernas o el pecho. El sujeto se coloca un poco desplazado del centro del encuadre, dejando que la ventana, la cama y la mesa de noche sean reconocibles en el fondo. La profundidad de campo no es excesivamente reducida, con un desenfoque de fondo suave que permite identificar la habitación del hotel.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la luz natural matutina que entra por el gran ventanal lateral a través de las cortinas blancas traslúcidas. Rodea suavemente el rostro, los hombros, los brazos y las piernas, mientras que el lado opuesto se ilumina de forma natural con el rebote de la ropa de cama blanca y las paredes. Las sombras no tienen bordes duros, logrando una gradación luminosa, apacible y propia de la mañana.
+La piel conserva un tono saludable, sombras sutiles y microtextura; el cabello muestra mechones individuales definidos y un brillo suave. El encaje exhibe finos bordados y festones, las sábanas blancas ligeras arrugas y un grosor suave, y la fresa muestra un rojo fresco y jugoso con el detalle de las semillas. La paleta general se compone de marfil, blanco y beige suave, sirviendo el rojo de la fresa como un sutil acento.
+
+【Calidad y elementos excluidos】
+Alta resolución, priorizando un cuerpo humano, iluminación, materiales y perspectiva naturales que luzcan como capturados por una cámara real. Evitar apariencias menores de edad o rostros excesivamente infantiles, proporciones corporales antinaturales, extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones anómalas o confusión de manos izquierda y derecha.
+Evitar fallos en el vestuario, fusión del cuerpo con la ropa, prendas que se claven de forma inverosímil, desnudez o exposición no intencionada, distorsión extrema de gran angular y retoques excesivos de piel. El busto debe conservar un volumen abundante y natural, sin formas esféricas rígidas, realces anómalos ni desafiar la gravedad. No incluir textos, logotipos, marcas de agua ni elementos de interfaz en la imagen.
 ```
 
 [↑ Volver a categorías](#catalog)
@@ -101,20 +138,60 @@ Traducción en curso
 
 <a name="prompt-2102526077872840964"></a>
 
-### Traducción en curso
+### Prompt para un retrato fotorrealista y cotidiano de una mujer japonesa sentada junto a la ventana de una cafetería panadería, saboreando pan recién horneado y sonriendo con la mano cerca de la boca.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2102526077872840964)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt para un retrato fotorrealista y cotidiano de una mujer japonesa sentada junto a la ventana de una cafetería panadería, saboreando pan recién horneado y sonriendo con la mano cerca de la boca.
 
 <img src="images/2102526077872840964-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Café panadería junto a la ventana | Pan recién horneado y una sonrisa espontánea🌟
+
+【Tema y estilo visual】
+Una fotografía fotorrealista que captura el instante en que una mujer sonríe involuntariamente tras probar un pan en una pequeña cafetería panadería durante el día. No debe parecer una fotografía publicitaria sobreproducida, sino una toma íntima y cotidiana, como si hubiera sido tomada de forma natural con un smartphone a mitad de una conversación con alguien cercano.
+Combinando un atuendo fresco en color azul saxo, pan recién horneado y la suave luz de la ventana, se expresa una ternura adulta y pulcra. Manteniendo la belleza digna de un libro de fotos, se valora la expresión espontánea nacida de la vida diaria.
+
+【Lugar, fondo y ambientación】
+Un asiento junto a la ventana en una pequeña y acogedora cafetería panadería con mesas y marcos de ventana de madera. Frente a la mujer hay un plato blanco y una pieza de pan a medio comer; en el fondo se disponen de manera natural estantes de madera, una vitrina con panes exhibidos, sillas y pequeñas plantas de interior.
+Por la ventana se vislumbra apenas una luminosa calle diurna y algo de vegetación, mientras que el interior se impregna de la serena textura de la madera. El fondo no está completamente desenfocado, conservando suficiente profundidad e información para reconocer que se trata de una panadería.
+
+【Estación, hora y clima】
+Mediodía de un día soleado, cálido y agradable, entre finales de primavera e inicios de otoño. No es una luz solar intensa de pleno verano, sino una luz natural brillante que se difunde suavemente a través de la ventana.
+Los árboles en el exterior muestran un verde natural, y en el interior fluye un aire fresco y liviano. Prácticamente sin viento, en un momento sereno propicio para disfrutar tranquilamente del almuerzo o una merienda.
+
+【Descripción del personaje】
+Una mujer japonesa claramente adulta, de unos 24 años. Con facciones suaves y armoniosas, ojos oscuros expresivos, cejas naturales, mejillas y labios sonrosados; una serenidad de mujer adulta envuelta en calidez y cercanía. Cabello castaño oscuro, ligeramente por debajo de los hombros, con una caída natural y sutiles mechones sueltos.
+Hombros y brazos delicados, cintura esbelta en armonía con curvas femeninas, luciendo una figura glamurosa, elegante y natural. Un busto notablemente grande y con un volumen natural y generoso, sin verse como esferas rígidas ni con un realce exagerado, sino expresando una redondez y tridimensionalidad suaves acordes con su postura sentada y las prendas.
+
+【Vestuario y accesorios】
+Una camiseta de tirantes con encaje y volantes pensada para salir, en tono azul saxo. El cuerpo es de una suave tela acanalada no transparente, y el escote y los tirantes están adornados con volantes de encaje tridimensional con delicados motivos florales. Un diseño fresco y refinado, confeccionado no como lencería, sino como un top que se viste con naturalidad para ir a un café.
+Tiene la holgura adecuada para acomodar un busto generoso, con un ajuste realista donde la tela y el encaje no se estiran excesivamente ni se clavan en la piel. Abajo, una falda de algodón color marfil. Accesorios discretos, limitándose como mucho a unos pendientes pequeños si fueran necesarios.
+
+【Pose, movimiento y mirada】
+La mujer está sentada con naturalidad en una silla junto a la ventana, orientando levemente el torso hacia la persona que tiene enfrente. Se sienta de forma estable apoyada en piernas y caderas, sin torsiones forzadas del cuerpo. En su mano izquierda sostiene el pan al que le ha dado un bocado, manteniéndola de forma natural justo por encima del plato blanco.
+Su mano derecha se posa suavemente apenas debajo de la boca, como si se hubiera echado a reír justo tras comer el pan. Las puntas de los dedos no cubren por completo los labios, ubicándose donde se aprecian la comisura y la expresión. La mirada no va dirigida exactamente al lente, sino un poco más arriba, hacia el rostro de su acompañante.
+
+【Expresión y emoción】
+Una sonrisa luminosa teñida de una leve timidez, como si su acompañante hubiera descubierto lo delicioso que le pareció el pan recién horneado. Las mejillas se elevan de forma natural, los ojos reflejan alegría y las comisuras se curvan con suavidad.
+No es una risa con la boca muy abierta, sino una sonrisa que brota de una charla casual durante la comida. Evita la pose rígida ante la cámara y transmite en toda su expresión la tranquilidad de estar acompañada por alguien de confianza.
+
+【Composición y cámara】
+Formato vertical 4:5 adecuado para publicaciones en X. Plano medio corto (bust-up) que encuadra ampliamente desde el escote hasta la coronilla, dejando un poco de aire sobre la cabeza e incorporando de forma natural la mano derecha junto a la boca y la mano izquierda con el pan. La mujer se sitúa ligeramente a la derecha del centro, mostrando a la izquierda el marco de la ventana y la luz diurna.
+La cámara está a la altura de los ojos de la persona sentada enfrente. Emplea un ángulo de visión natural de estándar a teleobjetivo medio, sin exagerar el rostro, el busto o las manos con distorsiones de gran angular. El fondo conserva una profundidad de campo adecuada, con un desenfoque suave que permite distinguir los estantes de pan y los acabados de madera.
+
+【Luz, color, textura y atmósfera】
+La fuente de luz principal es la suave luz natural del día que ingresa por el gran ventanal a la izquierda del encuadre. Aporta destellos luminosos en mejillas, ojos y hombros, complementada por suaves rebotes de luz provenientes de las paredes y el mobiliario de madera del local. Las sombras no son duras, conservando con naturalidad el volumen del rostro.
+La piel retiene poros, sutiles gradaciones de sombra y una tonalidad saludable, evitando acabados de suavizado artificial excesivo. El cabello muestra la definición hebra a hebra con un brillo sutil, el encaje luce bordados delicados y el pan exhibe el tono dorado de horneado y la textura esponjosa de su miga expuesta. La calidez del marrón de la madera y el azul saxo armonizan para crear una atmósfera diurna fresca e íntima.
+
+【Calidad y elementos excluidos】
+Representación fotorrealista de alta resolución. Priorizar una anatomía creíble, dedos, iluminación, perspectiva y texturas que parezcan capturadas por una cámara real o un smartphone.
+Evitar apariencia de menor de edad, rasgos faciales demasiado infantiles, anatomía antinatural, extremidades o dedos adicionales, dedos faltantes o fusionados, articulaciones deformes, confusión entre mano derecha e izquierda, fusión de ropa con el cuerpo, prendas rotas o deformadas, desnudez o exposición no intencionada, distorsión extrema de gran angular y retoques excesivos de piel. El busto debe mantener un volumen generoso y natural, sin gigantismo inverosímil, formas de esferas rígidas, realce artificial extremo ni desafío a la gravedad. No incluir textos, logotipos, marcas de agua, globos de diálogo ni elementos de interfaz gráfica.
 ```
 
 [↑ Volver a categorías](#catalog)

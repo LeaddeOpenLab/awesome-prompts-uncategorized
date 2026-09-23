@@ -57,20 +57,57 @@ Traduzione in corso
 
 <a name="prompt-2102527632726462637"></a>
 
-### Traduzione in corso
+### Prompt fotografico di una donna adulta in lingerie seduta sul bordo del letto in una camera d'hotel illuminata dal sole mattutino, che sorride con timidezza portando una fragola alle labbra.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2102527632726462637)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt fotografico di una donna adulta in lingerie seduta sul bordo del letto in una camera d'hotel illuminata dal sole mattutino, che sorride con timidezza portando una fragola alle labbra.
 
 <img src="images/2102527632726462637-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Camera d'hotel al mattino | Fragola e un dolce sorriso timido🌟
+
+【Soggetto e stile visivo】
+In una camera d'hotel al mattino, viene ritratto il momento in cui una giovane donna giapponese adulta, dopo aver dato un morso a una fragola, incrocia lo sguardo del partner e sorride con una punta di timidezza. Basato su un'espressione fotografica fotorealistica e ricca di vita vissuta, si privilegia la spontaneità di una mattinata informale catturata per caso durante un soggiorno in hotel. Lungi da uno stile gravure artefatto, la foto esprime una raffinata femminilità e la serena intimità condivisa tra due persone.
+
+【Luogo, sfondo e atmosfera】
+Una camera d'hotel pulita e rilassante, dominata da tonalità di bianco e beige chiaro. La donna è seduta sul bordo di un letto rifatto con lenzuola bianche. Alla finestra sono appese tende bianche leggere, e sullo sfondo si intravede discretamente il paesaggio urbano mattutino. Accanto al letto c'è un piccolo comodino sistemato con naturalezza, su cui poggiano un piattino bianco con alcune fragole e una lampada essenziale. Lo sfondo conserva un'ordinata sensazione di vissuto, offrendo la giusta profondità senza distogliere l'attenzione dal soggetto principale.
+
+【Stagione, ora e meteo】
+Un mattino sereno e tranquillo. Non la luce accecante del pieno giorno estivo, ma un'aria mattutina fresca e carezzevole, tipica dei cambi di stagione. Una luce naturale diffusa filtra attraverso le tende leggere, mentre nella stanza aleggia ancora una sottile quiete. Non c'è quasi vento, solo un refolo impercettibile che muove appena le tende. L'atmosfera distesa di poco dopo il risveglio, prima o dopo una colazione senza fretta.
+
+【Descrizione del personaggio】
+Una donna giapponese chiaramente adulta, di circa 24 anni. Con lineamenti dolci e armoniosi, occhi scuri ed espressivi leggermente grandi, sopracciglia naturali, labbra dal colorito sano e guance delicatamente rotonde. Capelli castano scuro con onde naturali che scendono sulle spalle. Pelle dal tono ocra chiaro, con una texture realistica che conserva pori e ombreggiature sottili.
+Fisico elegante e naturalmente formoso, in cui spalle e arti delicati e una vita sottile si fondono armoniosamente con curve femminili. Il seno ha un volume chiaramente abbondante e generoso, ma senza risultare smisurato o innaturale, mostrando una morbida rotondità e una consistenza naturale coerente con la gravità e la posizione seduta. Anche i fianchi e le gambe presentano linee sane e perfettamente proporzionate all'insieme del corpo.
+
+【Abbigliamento e accessori】
+Un completo di lingerie color avorio composto da reggiseno e slip, che ricorda un marchio d'alta gamma. Ricami discreti di piccoli fiori color pesca chiaro decorano la scollatura e il giro vita, impreziositi da un delicato pizzo smerlato sui bordi. Il materiale non è eccessivamente trasparente, consentendo di apprezzare con naturalezza la tridimensionalità del ricamo e delle cuciture.
+Il reggiseno ha dimensioni e struttura realistiche che accolgono comodamente il seno prosperoso, senza che spalline o coppe stringano in modo eccessivo o che il tessuto appaia innaturalmente teso. Anche lo slip si adatta con morbidezza ai fianchi. Nessun accessorio particolare, preservando la semplice freschezza del mattino.
+
+【Posa, movimento e sguardo】
+La donna è seduta leggermente di sbieco sul bordo del letto, con entrambe le gambe protese verso l'esterno e i piedi nudi posati su un soffice tappeto. Il peso corporeo è distribuito in modo naturale sui glutei e il busto si apre leggermente verso la fotocamera. Con una mano regge tra le dita la fragola presa dal comodino, tenendola vicino alle labbra subito dopo averne morso la punta. L'altra mano è delicatamente appoggiata sul lenzuolo accanto al fianco, sostenendo la postura con naturalezza.
+Senza ruotare forzatamente solo il capo, guarda verso la fotocamera dove si trova il partner, in linea con l'orientamento di spalle e busto. Le gambe non sono vistosamente accavallate, ma rilassate e sciolte dalle ginocchia alle dita dei piedi. Una ciocca di capelli scivola dietro la spalla, per non coprire eccessivamente né l'abbigliamento né l'espressione.
+
+【Espressione ed emozione】
+Il momento in cui si accorge di essere guardata mentre mangia la fragola e accenna un sorriso un po' imbarazzato. La bocca non si spalanca; dopo il morso si richiude dolcemente, con gli angoli che salgono con naturalezza. Sulle guance affiora un leggero rossore e anche lo sguardo si addolcisce. Nei suoi occhi rivolti all'obiettivo si fondono la fiducia verso il partner e una dolce timidezza.
+Non un sorriso esagerato o uno sguardo ammiccante, ma l'adorabile e spontanea reazione di una mattina qualunque.
+
+【Composizione e inquadratura】
+Formato verticale 4:5 ideale per i post su X. Inquadratura a figura intera (full body) che include comodamente dalla sommità del capo fino alle dita dei piedi nudi, lasciando margini equilibrati in alto e in basso. La fotocamera è posizionata a un'altezza naturale, leggermente al di sotto del seno della donna seduta, con un'angolazione lievemente diagonale rispetto al punto di vista frontale.
+Prospettiva naturale corrispondente a un obiettivo standard da circa 50 mm, evitando distorsioni grandangolari che ingrandirebbero a dismisura gambe o décolleté. La figura è posizionata leggermente decentrata, lasciando riconoscibili sullo sfondo finestra, letto e comodino. La profondità di campo non è eccessivamente ridotta, con una morbida sfocatura dello sfondo che permette comunque di identificare la camera d'hotel.
+
+【Luce, colore, texture e atmosfera】
+La sorgente luminosa principale è la luce naturale del mattino che entra dalla grande finestra laterale attraverso le tende bianche traslucide. Avvolge con morbidezza viso, spalle, braccia e gambe, mentre il lato in ombra viene naturalmente rischiarato dal riflesso delle pareti e della biancheria bianca. I contorni delle ombre restano morbidi, restituendo una gradazione luminosa e serena tipica delle prime ore del giorno.
+La pelle mostra un incarnato sano, ombre minute e una grana sottile; i capelli svelano singole ciocche definite e una lucentezza soffice. Il pizzo mostra ricami e bordature dettagliate, le lenzuola bianche lievi pieghe e un morbido spessore, mentre la fragola rivela un rosso fresco e succoso con semi dettagliati. La palette generale ruota attorno ad avorio, bianco e beige tenue, con il rosso della fragola che agisce da delicato tocco di contrasto.
+
+【Qualità ed elementi da escludere】
+Alta risoluzione, privilegiando anatomia, luce, materiali e prospettiva naturali paragonabili a uno scatto eseguito con una vera fotocamera. Evitare soggetti d'aspetto minorenne o volti troppo infantili, proporzioni corporee sbilanciate, arti o dita in eccesso, dita mancanti o fuse, articolazioni anomale e confusione tra mano destra e sinistra.
+Evitare difetti nel vestiario, fusione tra corpo e tessuto, compressioni innaturali, nudità involontaria, distorsioni estreme da grandangolo ed eccessivo ritocco levigante della pelle. Il seno deve mantenere un volume generoso e naturale, senza forme sferiche rigide, push-up esagerati o sfide alla gravità. Nessuna scritta, logo, watermark o elemento di interfaccia nell'immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)
@@ -101,20 +138,60 @@ Traduzione in corso
 
 <a name="prompt-2102526077872840964"></a>
 
-### Traduzione in corso
+### Prompt per un ritratto fotografico realistico e spontaneo di una donna giapponese che gusta pane appena sfornato vicino alla finestra di un caffè panetteria, sorridendo con la mano vicino alla bocca.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2102526077872840964)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per un ritratto fotografico realistico e spontaneo di una donna giapponese che gusta pane appena sfornato vicino alla finestra di un caffè panetteria, sorridendo con la mano vicino alla bocca.
 
 <img src="images/2102526077872840964-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Caffè panetteria vicino alla finestra | Pane appena sfornato e un sorriso spontaneo🌟
+
+【Soggetto e stile visivo】
+Una fotografia fotorealistica che coglie l'attimo in cui una donna, assaggiato un boccone di pane in un piccolo caffè panetteria durante il giorno, si lascia andare a un sorriso spontaneo. Non uno scatto pubblicitario artefatto, ma un'immagine intima e quotidiana, come se fosse stata scattata spontaneamente con uno smartphone durante una conversazione con una persona cara.
+Unendo un fresco completo blu carta da zucchero, pane caldo di forno e la luce morbida della finestra, si esprime una grazia adulta, pulita e raffinata. Pur conservando l'eleganza di un fotolibro, si dà valore a un'espressione nata per caso nella vita di tutti i giorni.
+
+【Luogo, sfondo e atmosfera】
+Un tavolo vicino alla finestra in un piccolo e accogliente caffè panetteria con infissi e tavoli in legno. Davanti alla donna ci sono un piatto bianco e un pezzo di pane iniziato; sullo sfondo si scorgono mensole di legno, una vetrina con vari tipi di pane, sedie e piccole piante da interno disposte con naturalezza.
+Oltre la finestra si intravedono una via cittadina luminosa e un tocco di verde, mentre all'interno prevale la calma matericità del legno. Lo sfondo non è completamente sfocato, ma conserva la profondità e i dettagli necessari a far riconoscere chiaramente la panetteria.
+
+【Stagione, ora e meteo】
+Un mezzogiorno sereno, mite e piacevole, tra la tarda primavera e l'inizio dell'autunno. Non la luce abbacinante dell'estate piena, ma una luce naturale chiara che si diffonde morbidamente attraverso il vetro.
+Gli alberi all'esterno mostrano un verde naturale e all'interno si respira un'aria fresca e leggera. Assenza quasi totale di vento: un momento tranquillo, ideale per godersi il pranzo o una tazza di tè in totale relax.
+
+【Descrizione del personaggio】
+Una donna giapponese chiaramente adulta, di circa 24 anni. Tratti del viso dolci e armoniosi, occhi scuri ed espressivi, sopracciglia naturali, gote e labbra dal colorito sano; una pacata compostezza da donna adulta fusa a un'aria amichevole. Capelli castano scuro lunghi poco oltre le spalle, con una caduta naturale e ciocche morbide che incorniciano il volto.
+Spalle e braccia delicate, vita sottile in armonia con curve femminili morbide: una silhouette elegante e naturalmente prosperosa. Un seno visibilmente prosperoso dal volume generoso e naturale, senza apparire come sfere rigide o con un effetto push-up esagerato, bensì con una rotondità morbida e tridimensionale coerente con la postura seduta e il capo indossato.
+
+【Abbigliamento e accessori】
+Un top a canotta con volant di pizzo per uscire, in tonalità blu carta da zucchero. Il corpo è in morbido tessuto a costine non trasparente, mentre scollatura e spalline sono impreziosite da volant in pizzo tridimensionale a motivi floreali minuti. Un design fresco e raffinato, pensato non come intimo ma come un capo elegante da indossare con disinvoltura al bar.
+Una vestibilità realistica con stoffa a sufficienza per accogliere un seno generoso, senza che il tessuto o il pizzo risultino eccessivamente tesi o segnino la pelle. Inferiormente, una gonna di cotone color avorio. Accessori discreti, al massimo piccoli orecchini a lobo essenziali.
+
+【Posa, movimento e sguardo】
+La donna è seduta con naturalezza sulla sedia vicino alla finestra, con il busto leggermente rivolto verso il commensale di fronte. Postura stabile su gambe e bacino, senza torsioni innaturali del corpo. Con la mano sinistra regge il pane a cui ha appena dato un morso, tenendola naturalmente poco sopra il piatto bianco.
+La mano destra è posata con delicatezza appena sotto la bocca, come se le fosse scappato da ridere subito dopo aver mangiato. I polpastrelli non coprono del tutto le labbra, lasciando intravedere l'angolo della bocca e l'espressione. Lo sguardo non fissa direttamente l'obiettivo, ma si rivolge poco più in alto, verso il viso della persona seduta di fronte.
+
+【Espressione ed emozione】
+Un sorriso radioso velato da una leggera timidezza, come se la persona di fronte si fosse accorta di quanto ha gradito il pane fragrante. Gli zigomi si sollevano con naturalezza, gli occhi trasmettono allegria e gli angoli della bocca si piegano dolcemente all'insù.
+Non una risata a bocca spalancata, ma un sorriso sbocciato spontaneamente durante una conversazione informale a tavola. Lungi dal sembrare in posa per la fotocamera, l'intera espressione emana il senso di sicurezza e serenità che si prova in compagnia di una persona intima.
+
+【Inquadratura e fotocamera】
+Formato verticale 4:5 adatto ai post su X. Primo piano fino al petto (bust-up) che inquadra ampiamente dalla scollatura alla sommità del capo, lasciando un po' di spazio sopra la testa; la mano destra vicino alla bocca e la sinistra che tiene il pane rientrano con naturalezza nell'inquadratura. La donna è posizionata leggermente a destra rispetto al centro, lasciando scorgere a sinistra l'infisso della finestra e la luce diurna.
+Altezza di ripresa all'altezza degli occhi di chi siede di fronte. Lunghezza focale naturale tra standard e medio teleobiettivo, senza grandangolari che distorcano il viso, il décolleté o le mani. Sfondo con profondità di campo calibrata, morbidamente sfocato ma tale da mantenere leggibili le mensole del pane e gli arredi in legno.
+
+【Luce, colore, texture e atmosfera】
+La sorgente primaria è la luce naturale del giorno che filtra dalla grande finestra sul lato sinistro dell'inquadratura. Regala tocchi luminosi su guance, occhi e spalle, integrata dai riflessi caldi provenienti dalle pareti e dai mobili in legno del locale. Ombre mai nette, capaci di valorizzare delicatamente la tridimensionalità del viso.
+La pelle conserva pori, ombreggiature sottili e un colorito sano, senza filtri leviganti esagerati. I capelli mostrano singole ciocche definite e una lucentezza morbida, il pizzo svela ricami minuziosi e il pane sfoggia la doratura della crosta e la morbidezza soffice della mollica spezzata. L'armonia tra il marrone caldo del legno e il blu carta da zucchero crea un'atmosfera di mezzogiorno fresca e complice.
+
+【Qualità ed elementi esclusi】
+Resa fotorealistica ad altissima risoluzione. Massima cura per una resa anatomica credibile, dita, mani, illuminazione, prospettiva e consistenza dei materiali come in una vera fotografia scattata con fotocamera o smartphone.
+Da evitare: figure dall'aspetto minorile, visi troppo infantili, anatomia innaturale, arti o dita extra, dita mancanti o fuse, articolazioni deformi, confusione tra mano destra e sinistra, fusione tra abito e corpo, abiti strappati o incoerenti, nudità accidentale, forte distorsione grandangolare e pelle eccessivamente levigata. Il seno mantiene una pienezza naturale senza ingigantimenti assurdi, forme sferiche rigide, push-up esagerati o sfide alla gravità. Nessun testo, logo, watermark, balloon o interfaccia utente visibile nell'immagine.
 ```
 
 [↑ Torna alle categorie](#catalog)

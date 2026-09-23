@@ -57,20 +57,57 @@ Traduction en cours
 
 <a name="prompt-2102527632726462637"></a>
 
-### Traduction en cours
+### Prompt photographique d'une femme adulte en lingerie, assise au bord du lit dans une chambre d'hôtel baignée de lumière matinale, souriant timidement une fraise portée aux lèvres.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2102527632726462637)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt photographique d'une femme adulte en lingerie, assise au bord du lit dans une chambre d'hôtel baignée de lumière matinale, souriant timidement une fraise portée aux lèvres.
 
 <img src="images/2102527632726462637-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Chambre d'hôtel au matin | Fraise et doux sourire timide🌟
+
+【Sujet et style visuel】
+Dans une chambre d'hôtel au matin, on capture l'instant où une jeune femme japonaise adulte, venant de croquer dans une fraise, croise le regard de son partenaire et sourit avec une légère timidité. Basé sur une expression photographique photoréaliste et pleine de vie, l'accent est mis sur le naturel d'une matinée ordinaire prise sur le vif lors d'un séjour à l'hôtel. Loin d'un style gravure artificiel, la photo dégage une élégante féminité et l'intimité paisible partagée à deux.
+
+【Lieu, arrière-plan et univers】
+Une chambre d'hôtel propre et sereine, déclinée dans des tons de blanc et de beige clair. La femme est assise au bord d'un lit soigneusement fait de draps blancs. De fins voilages blancs habillent la fenêtre, laissant entrevoir discrètement le paysage urbain matinal. À côté du lit, une petite table de chevet est disposée naturellement, sur laquelle reposent une petite assiette blanche avec quelques fraises et une lampe épurée. L'arrière-plan conserve une touche de vie ordonnée, offrant juste assez de profondeur sans distraire du sujet principal.
+
+【Saison, heure et météo】
+Un matin calme et ensoleillé. Non pas la morsure d'un soleil d'été écrasant, mais l'air matinal doux et vivifiant propre aux intersaisons. Une lumière naturelle tamisée filtre à travers les voilages, et une douce quiétude règne encore dans la pièce. Il n'y a presque pas de vent, à peine une brise infime faisant frémir les rideaux. Une atmosphère détendue, un moment après le réveil, autour d'un petit-déjeuner sans hâte.
+
+【Description du personnage】
+Une femme japonaise indiscutablement adulte, d'environ 24 ans. Des traits doux et réguliers, des yeux sombres et expressifs légèrement grands, des sourcils naturels, des lèvres bien colorées et des joues délicatement arrondies. Cheveux châtain foncé avec des ondulations naturelles tombant sur les épaules. Teint ocre clair à la texture réaliste, laissant paraître les pores et de subtiles nuances d'ombre.
+Silhouette élégante et naturellement voluptueuse, associant des épaules et membres délicats, une taille fine et des courbes féminines harmonieuses. La poitrine est nettement généreuse et volumineuse, sans disproportion artificielle, affichant une rondeur douce et une plénitude naturelle conformes à la gravité et à la posture assise. Les hanches et les jambes dessinent des lignes saines et parfaitement équilibrées avec le corps.
+
+【Tenue et accessoires】
+Un ensemble de lingerie ivoire composé d'un soutien-gorge et d'une culotte, évoquant une marque haut de gamme. De discrètes broderies de petites fleurs couleur pêche pâle ornent le décolleté et le tour de hanches, rehaussées d'une fine dentelle festonnée sur les bords. La matière n'est pas trop fine, laissant apprécier naturellement le relief de la broderie et des coutures.
+Le soutien-gorge possède une taille et une armature réalistes qui enveloppent sans contrainte la poitrine généreuse, sans que les bretelles ou les bonnets n'entaillent la chair de manière excessive ni que le tissu ne paraisse anormalement tendu. La culotte épouse naturellement les hanches. Pratiquement aucun accessoire n'est porté, préservant la fraîche simplicité du matin.
+
+【Pose, mouvement et regard】
+La femme est assise légèrement en biais au bord du lit, laissant descendre ses deux jambes avec les pieds nus posés sur un tapis douillet. Son poids se répartit naturellement sur les ischions et le haut du corps s'ouvre légèrement vers l'appareil. D'une main, elle tient du bout des doigts la fraise prise sur la table de chevet, la maintenant près des lèvres juste après en avoir croqué l'extrémité. L'autre main repose doucement sur le drap à côté de sa hanche pour soutenir naturellement sa posture.
+Sans tourner artificiellement la tête seule, elle regarde vers l'appareil où se trouve son partenaire, en harmonie avec l'orientation de ses épaules et de sa poitrine. Les jambes ne sont pas excessivement croisées, restant détendues et naturelles des genoux jusqu'au bout des pieds. Une partie des cheveux est rabattue derrière l'épaule pour ne masquer ni la tenue ni l'expression.
+
+【Expression et émotion】
+L'instant où elle réalise qu'on la regarde manger la fraise et esquisse un sourire un peu gêné. La bouche ne s'ouvre pas grandement ; après avoir croqué, elle se referme doucement tandis que les commissures s'étirent avec naturel. Une légère rougeur teinte ses joues et son regard s'adoucit en même temps. Dans ses yeux tournés vers l'appareil se mêlent la confiance sereine envers son partenaire et une timide pudeur.
+Ni sourire outré ni expression de séduction forcée, mais la réaction charmante et spontanée d'un matin ordinaire.
+
+【Composition et cadrage】
+Format vertical 4:5 adapté à une publication sur X. Cadrage en pied (full body) incluant confortablement l'ensemble du corps, du sommet de la tête jusqu'aux orteils nus, avec une marge harmonieuse en haut et en bas. L'appareil est placé à une hauteur naturelle, légèrement sous la poitrine de la femme assise, avec un angle légèrement oblique par rapport à la vue de face.
+Perspective naturelle équivalente à une focale standard d'environ 50 mm, évitant les déformations grand-angle qui agrandiraient démesurément les jambes ou la poitrine. Le personnage est légèrement décentré, laissant la fenêtre, le lit et la table de chevet lisibles en arrière-plan. La profondeur de champ n'est pas excessivement courte, offrant un flou d'arrière-plan doux qui permet de reconnaître la chambre d'hôtel.
+
+【Lumière, couleur, texture et ambiance】
+La source lumineuse principale est la lumière naturelle du matin pénétrant par la grande fenêtre latérale à travers les voilages blancs. Elle enveloppe doucement le visage, les épaules, les bras et les jambes, tandis que le côté opposé est débouché naturellement par la réflexion des murs et de la literie blanche. Les ombres restent douces, assurant une gradation lumineuse et apaisante typique du matin.
+La peau affiche un éclat sain, de fines ombres et un grain subtil ; les cheveux présentent des mèches définies et une brillance soyeuse. La dentelle révèle des broderies et des bordures minutieuses, les draps blancs de légers plis et une douce épaisseur, et la fraise un rouge juteux aux graines détaillées. L'ensemble est dominé par l'ivoire, le blanc et le beige pâle, avec le rouge de la fraise servant de note d'accent délicate.
+
+【Qualité et éléments à exclure】
+Haute résolution, privilégiant un corps humain, une lumière, des matières et une perspective naturels évoquant une photo prise par un véritable appareil. Éviter les apparences mineures ou les visages trop enfantins, les proportions anatomiques anormales, les membres ou doigts surnuméraires, manquants ou fusionnés, les articulations impossibles et l'inversion des mains gauche/droite.
+Éviter les défauts vestimentaires, la fusion entre tissu et chair, les coupures ou compressions anormales, la nudité involontaire, les distorsions extrêmes au grand-angle et le lissage excessif de la peau. La poitrine conserve un volume généreux et naturel, sans aspect sphérique rigide, sans effet push-up artificiel et sans défier la gravité. Aucun texte, logo, filigrane ou élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)
@@ -101,20 +138,60 @@ Traduction en cours
 
 <a name="prompt-2102526077872840964"></a>
 
-### Traduction en cours
+### Prompt pour un portrait photoréaliste et spontané d'une femme japonaise savourant du pain frais près de la fenêtre d'un café-boulangerie, souriant la main posée près des lèvres.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2102526077872840964)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt pour un portrait photoréaliste et spontané d'une femme japonaise savourant du pain frais près de la fenêtre d'un café-boulangerie, souriant la main posée près des lèvres.
 
 <img src="images/2102526077872840964-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Café-boulangerie près de la fenêtre | Pain frais et sourire spontané🌟
+
+【Sujet et style visuel】
+Une photographie photoréaliste capturant l'instant où une femme sourit spontanément après avoir goûté un morceau de pain dans un petit café-boulangerie en journée. L'image ne doit pas ressembler à une publicité trop travaillée, mais à une photo intime et vivante, prise naturellement au smartphone au milieu d'une conversation avec un proche.
+Associant une tenue bleu dragée rafraîchissante, du pain tout juste sorti du four et la douce clarté de la fenêtre, l'image exprime un charme féminin adulte et soigné. Tout en conservant la beauté d'un recueil photo, elle privilégie l'expression sincère née du quotidien.
+
+【Lieu, arrière-plan et univers】
+Une table près de la fenêtre dans un petit café-boulangerie chaleureux aux boiseries et menuiseries en bois. Devant la femme se trouvent une assiette blanche et un pain entamé ; en arrière-plan sont disposés naturellement des étagères en bois, une vitrine garnie de pains, des chaises et de petites plantes vertes.
+À travers la fenêtre, on aperçoit une rue lumineuse et un peu de verdure, tandis que l'intérieur baigne dans la texture apaisante du bois. L'arrière-plan n'est pas totalement flouté, conservant une profondeur et des détails suffisants pour identifier la boulangerie.
+
+【Saison, heure et météo】
+Milieu de journée par un temps ensoleillé, doux et agréable, entre la fin du printemps et le début de l'automne. Pas de lumière écrasante de plein été, mais une clarté naturelle et douce qui se diffuse à travers la vitre.
+Les arbres extérieurs affichent un vert naturel et une brise légère et fraîche semble circuler dans la pièce. Aucun vent perturbateur : un moment paisible parfait pour déjeuner ou prendre le thé en toute sérénité.
+
+【Description du personnage】
+Une femme japonaise indiscutablement adulte, d'environ 24 ans. Des traits doux et réguliers, des yeux sombres expressifs, des sourcils naturels, des joues et des lèvres fraîches et colorées ; une grande douceur mêlée au calme d'une femme mûre. Cheveux châtain foncé descendant un peu sous les épaules, avec un mouvement naturel et de fines mèches libres.
+Épaules et bras délicats, taille fine en harmonie avec des courbes féminines, offrant une silhouette élégante et naturellement pulpeuse. Une poitrine nettement généreuse au volume naturel, sans aspect sphérique rigide ni effet pigeonnant extrême, épousant avec souplesse et relief la posture assise et le vêtement.
+
+【Tenue et accessoires】
+Un caraco de sortie à volants de dentelle, décliné dans un ton bleu dragée. Le corps est en maille côtelée douce et opaque, tandis que l'encolure et les bretelles sont parées de volants en dentelle texturée aux motifs floraux délicats. Une pièce fraîche et raffinée, conçue non pas comme de la lingerie, mais comme un haut élégant qu'on porte naturellement pour aller au café.
+Une coupe réaliste offrant suffisamment d'aisance pour accueillir une poitrine généreuse, sans tension excessive du tissu ni dentelle qui s'enfonce dans la peau. En bas, une jupe en coton couleur ivoire. Accessoires très discrets, tout au plus de petites boucles d'oreilles minimalistes.
+
+【Pose, gestuelle et regard】
+La femme est assise naturellement sur sa chaise près de la fenêtre, le buste légèrement tourné vers la personne en face d'elle. Assise stable sur ses jambes et ses hanches, sans torsion artificielle du corps. De la main gauche, elle tient le pain entamé, la main reposant naturellement juste au-dessus de l'assiette blanche.
+Sa main droite vient se poser légèrement sous sa bouche, comme prise d'un rire discret juste après avoir mangé. Le bout des doigts ne masque pas entièrement les lèvres, laissant voir la commissure et l'expression du visage. Le regard n'est pas braqué sur l'objectif, mais dirigé légèrement plus haut, vers le visage de son interlocuteur.
+
+【Expression et émotion】
+Un sourire éclatant teinté d'une pointe de timidité, comme surprise par son vis-à-vis en plein délice face au pain tout chaud. Les pommettes remontent naturellement, le regard pétille de joie et les coins des lèvres s'étirent avec douceur.
+Ce n'est pas un rire bouche bée, mais un sourire furtif né d'un échange complice pendant le repas. Loin d'une pose figée pour l'appareil, toute l'expression respire le sentiment de sécurité et de complicité partagé avec un proche.
+
+【Cadrage et appareil photo】
+Format vertical 4:5 optimisé pour X. Cadrage en plan rapproché poitrine (bust-up) englobant largement du décolleté jusqu'au sommet du crâne, avec un léger espace au-dessus de la tête ; la main droite près de la bouche et la main gauche tenant le pain sont naturellement incluses dans le champ. La femme est placée légèrement à droite du centre, révélant sur la gauche le cadre de la fenêtre et la lumière du jour.
+Hauteur de prise de vue au niveau des yeux d'une personne assise en face. Focale naturelle entre standard et moyen téléobjectif, évitant toute distorsion grand-angle du visage, de la poitrine ou des mains. Arrière-plan avec une profondeur de champ équilibrée, doucement flouté tout en laissant discerner les étagères de pain et le décor en bois.
+
+【Lumière, couleur, matière et ambiance】
+La source principale est la douce lumière naturelle du jour entrant par la grande baie vitrée sur la gauche. Elle illumine délicatement les joues, les yeux et les épaules, complétée par les reflets chauds des murs et du mobilier en bois. Les ombres restent douces, préservant avec justesse le volume du visage.
+La peau conserve son grain, ses pores, de subtils dégradés d'ombre et un éclat sain, évitant tout lissage excessif. La chevelure révèle des mèches bien dessinées au reflet soyeux, la dentelle dévoile ses broderies minutieuses et le pain affiche sa croûte dorée et la mie aérée de sa déchirure. L'accord entre le brun chaleureux du bois et le bleu dragée crée une atmosphère de mi-journée fraîche et intime.
+
+【Qualité et éléments exclus】
+Rendu photoréaliste haute résolution. Privilégier une anatomie crédible, des mains et des doigts parfaits, un éclairage, une perspective et des textures dignes d'une prise de vue réelle avec un boîtier photo ou un smartphone.
+Sont à exclure : apparence mineure, visage trop enfantin, anatomie difforme, membres ou doigts supplémentaires, doigts manquants ou fusionnés, articulations anormales, inversion main gauche/droite, fusion des vêtements avec la peau, vêtements déchirés ou incohérents, nudité non souhaitée, distorsion grand-angle extrême et retouche de peau artificielle. La poitrine conserve un volume naturel et généreux, sans hypertrophie irréaliste, sans forme sphérique rigide, sans maintien artificiel extrême et sans défier la gravité. Aucun texte, logo, filigrane, bulle de dialogue ni élément d'interface dans l'image.
 ```
 
 [↑ Retour aux catégories](#catalog)

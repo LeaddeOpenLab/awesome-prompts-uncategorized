@@ -57,20 +57,57 @@ Hồ sơ / Ảnh đại diện · Nhiếp ảnh · Chân dung / Ảnh tự chụ
 
 <a name="prompt-2102527632726462637"></a>
 
-### Đang dịch
+### Prompt phong cách nhiếp ảnh chụp một người phụ nữ trưởng thành mặc nội y, ngồi bên mép giường khách sạn ngập tràn ánh nắng ban mai, tay cầm quả dâu tây gần miệng và mỉm cười bẽn lẽn.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2102527632726462637)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt phong cách nhiếp ảnh chụp một người phụ nữ trưởng thành mặc nội y, ngồi bên mép giường khách sạn ngập tràn ánh nắng ban mai, tay cầm quả dâu tây gần miệng và mỉm cười bẽn lẽn.
 
 <img src="images/2102527632726462637-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Phòng khách sạn buổi sáng｜Dâu tây và nụ cười e ấp dịu dàng🌟
+
+【Chủ đề・Phong cách hình ảnh】
+Khoảnh khắc tại phòng khách sạn vào buổi sáng, một người phụ nữ Nhật Bản trưởng thành vừa cắn một miếng dâu tây, ánh mắt chạm phải người yêu và mỉm cười có chút ngượng ngùng. Dựa trên phong cách nhiếp ảnh chân thực, đậm chất đời sống, đề cao tính tự nhiên như thể vô tình chụp lại một buổi sáng bình dị trong kỳ nghỉ tại khách sạn. Không theo phong cách gravure dàn dựng cầu kỳ, mà là bức ảnh toát lên nét nữ tính thanh lịch cùng sự thân mật, êm đềm khi hai người bên nhau.
+
+【Địa điểm・Bối cảnh・Thế giới quan】
+Phòng khách sạn sạch sẽ, yên tĩnh với tông màu trắng và be nhạt làm chủ đạo. Người phụ nữ ngồi ở mép giường được trải ga trắng gọn gàng. Cửa sổ có rèm trắng mỏng manh, phía xa xa là khung cảnh phố phường buổi sáng hiện lên một cách khiêm nhường. Cạnh giường đặt một chiếc bàn phụ nhỏ, trên đó bày biện tự nhiên một đĩa sứ trắng nhỏ đựng vài quả dâu tây và một chiếc đèn ngủ đơn giản. Bối cảnh giữ được nét sinh hoạt thường nhật nhưng ngăn nắp, có độ sâu vừa phải để không làm phân tán sự chú ý vào chủ thể chính.
+
+【Mùa・Thời gian・Thời tiết】
+Một buổi sáng trời quang đãng, êm dịu. Không phải là ánh nắng gay gắt của giữa hè, mà là bầu không khí ban mai trong lành, dịu mát rất hợp với thời điểm giao mùa. Ánh sáng tự nhiên khuếch tán qua lớp rèm mỏng len lỏi vào phòng, không gian vẫn còn vương chút tĩnh lặng. Gió hầu như không có, rèm cửa chỉ lay động cực nhẹ. Bầu không khí thư thái khoảng trước hoặc sau bữa sáng, khi vừa thức giấc được một lúc.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản rõ ràng đã trưởng thành, khoảng 24 tuổi. Đường nét gương mặt mềm mại, thanh tú, đôi mắt to đen láy, hàng lông mày tự nhiên, đôi môi hồng hào và đôi má hơi phúng phính. Mái tóc màu nâu trầm, uốn gợn sóng tự nhiên xõa ngang vai. Làn da màu trắng sáng tự nhiên (light ochre), giữ được kết cấu chân thực với lỗ chân lông và các mảng đổ bóng tinh tế.
+Vóc dáng quyến rũ, thanh lịch và tự nhiên với bờ vai và tay chân thanh mảnh, vòng eo thon gọn hài hòa cùng những đường cong nữ tính. Vòng một đầy đặn, căng tràn rõ rệt nhưng không to một cách phi tự nhiên, thể hiện độ tròn mềm mại và độ dày tự nhiên nương theo tư thế ngồi và trọng lực. Hông và đôi chân cũng có đường nét khỏe khoắn, cân đối với tổng thể cơ thể.
+
+【Trang phục・Phụ kiện】
+Bộ nội y gồm áo lót và quần lót màu ngà, gợi liên tưởng đến các thương hiệu đồ lót cao cấp. Phần ngực và quanh hông được điểm xuyết thêu hoa nhỏ màu đào nhạt tinh tế, viền bằng ren vỏ sò (scalloped lace) mảnh mai. Chất liệu vải không quá mỏng, có thể cảm nhận rõ nét độ nổi khối tự nhiên của đường thêu và may vá.
+Áo lót có kích thước và cấu trúc thực tế, ôm trọn vòng một đầy đặn một cách thoải mái, dây áo và cúp ngực không siết chặt quá mức, vải không bị kéo căng bất thường. Quần lót ôm vừa vặn tự nhiên vào hông. Về cơ bản không đeo phụ kiện gì để giữ trọn nét mộc mạc của buổi sớm.
+
+【Tư thế・Hành động・Ánh mắt】
+Người phụ nữ ngồi hơi chếch và nông ở mép giường, thả hai chân xuống bên ngoài giường, bàn chân trần đặt trên tấm thảm mềm mại. Trọng lượng cơ thể phân bổ tự nhiên lên hai xương ngồi, phần thân trên hơi mở về phía máy ảnh. Một tay dùng đầu ngón tay cầm quả dâu tây lấy từ bàn cạnh giường, giữ gần miệng ở vị trí ngay sau khi vừa cắn một miếng ở đầu quả. Tay còn lại đặt nhẹ lên ga trải giường bên hông để giữ thăng bằng tự nhiên cho tư thế.
+Không chỉ ngoảnh mỗi khuôn mặt một cách gượng gạo, mà hướng cả vai và ngực nhìn về phía máy ảnh nơi người yêu đang đứng. Chân không bắt chéo quá mức, từ đầu gối đến bàn chân thả lỏng ở vị trí tự nhiên. Một bên tóc được vén ra sau vai để không che khuất trang phục hay biểu cảm khuôn mặt.
+
+【Biểu cảm・Cảm xúc】
+Khoảnh khắc nhận ra mình bị bắt gặp đang ăn dâu tây, mỉm cười có chút thẹn thùng. Miệng không mở lớn, sau khi cắn một miếng thì khẽ khép lại, khóe miệng nhếch lên tự nhiên. Gò má ửng chút ngượng ngùng, ánh mắt cũng dịu dàng cong lại. Ánh nhìn hướng về máy ảnh pha trộn giữa cảm giác an tâm với người yêu gắn bó và một chút bẽn lẽn.
+Không phải là nụ cười cường điệu hay biểu cảm khiêu gợi, mà được thể hiện như một phản ứng đáng yêu vô tình bắt gặp trong một buổi sáng bình thường.
+
+【Bố cục・Máy ảnh】
+Khung hình dọc tỉ lệ 4:5 phù hợp cho bài đăng trên X. Bố cục toàn thân (full body) thu trọn từ đỉnh đầu đến ngón chân trần một cách thoải mái, để lại khoảng trống vừa phải phía trên đầu và dưới chân. Máy ảnh đặt ở độ cao tự nhiên, hơi thấp hơn ngực của người phụ nữ đang ngồi, và hơi chếch so với góc chính diện.
+Độ sâu trường ảnh và phối cảnh tự nhiên tương đương ống kính tiêu chuẩn khoảng 50mm, tránh các hiệu ứng góc rộng làm cho chỉ mỗi chân hoặc ngực trông quá to. Chủ thể hơi lệch sang một bên so với tâm khung hình, để lại cửa sổ, giường và bàn cạnh giường đủ rõ để nhận diện bối cảnh. Độ sâu trường ảnh không quá nông, hậu cảnh mờ nhẹ vừa đủ để nhận biết đó là phòng khách sạn.
+
+【Ánh sáng・Màu sắc・Chất liệu・Bầu không khí】
+Nguồn sáng chính là ánh sáng tự nhiên ban mai chiếu qua rèm mỏng màu trắng từ cửa sổ lớn bên cạnh khung hình. Ánh sáng nhẹ nhàng ôm lấy khuôn mặt, vai, cánh tay và đôi chân, trong khi phía đối diện được nâng sáng tự nhiên nhờ ánh sáng phản xạ từ chăn ga gối đệm màu trắng và tường. Ranh giới của bóng đổ không gắt, tạo nên dải sắc độ sáng sủa và êm dịu đúng chất ban mai.
+Làn da giữ được sắc hồng tự nhiên, bóng đổ chi tiết và bề mặt mịn màng; mái tóc hiện rõ từng lọn tóc và độ bóng mềm mại. Ren có chi tiết thêu và đường viền tinh xảo, ga trải giường màu trắng có nếp nhăn nhẹ và độ dày êm ái, dâu tây có màu đỏ mọng nước với các hạt chi tiết. Tổng thể hài hòa xoay quanh màu ngà, trắng và be nhạt, điểm xuyết màu đỏ của dâu tây như một điểm nhấn nhỏ tinh tế.
+
+【Chất lượng・Yếu tố loại trừ】
+Độ phân giải cao, chú trọng cơ thể người, ánh sáng, chất liệu và phối cảnh tự nhiên như được chụp bằng máy ảnh thực tế. Tránh các nhân vật trông như trẻ vị thành niên hoặc gương mặt quá trẻ con, tỉ lệ cơ thể bất thường, thừa tay chân hoặc ngón tay, ngón tay bị thiếu, dính liền, khớp xương bất thường, nhầm lẫn giữa tay trái và tay phải.
+Tránh trang phục bị rách lỗi, da thịt hòa lẫn vào vải, đồ lót siết quá mức bất thường, lộ hàng ngoài ý muốn, méo mó góc rộng cực đoan và việc xử lý mịn da quá đà. Vòng một giữ độ đầy đặn tự nhiên, không phải là hình cầu cứng đơ, nâng ngực dị thường hay hình dạng chống lại trọng lực. Không có văn bản, logo, hình mờ (watermark) hoặc giao diện người dùng (UI) trong hình ảnh.
 ```
 
 [↑ Về danh mục](#catalog)
@@ -101,20 +138,60 @@ Nhiếp ảnh · Nhân vật · Đã xuất bản
 
 <a name="prompt-2102526077872840964"></a>
 
-### Đang dịch
+### Lời nhắc tạo chân dung đời thường chân thực về một phụ nữ Nhật Bản ngồi bên cửa sổ tiệm cà phê bánh, thưởng thức bánh mì mới nướng và khẽ lấy tay che miệng mỉm cười.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2102526077872840964)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo chân dung đời thường chân thực về một phụ nữ Nhật Bản ngồi bên cửa sổ tiệm cà phê bánh, thưởng thức bánh mì mới nướng và khẽ lấy tay che miệng mỉm cười.
 
 <img src="images/2102526077872840964-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟 Tiệm cà phê bánh mì bên cửa sổ ｜ Bánh mì mới nướng và nụ cười rạng rỡ 🌟
+
+【Chủ đề & Phong cách hình ảnh】
+Bức ảnh chân thực ghi lại khoảnh khắc một người phụ nữ bất giác mỉm cười sau khi thưởng thức bánh mì tại một tiệm cà phê bánh nhỏ vào buổi trưa. Không phải là bức ảnh quảng cáo được dàn dựng cầu kỳ, mà là một khoảnh khắc thân mật, mang đậm hơi thở đời thường như được chụp tự nhiên bằng điện thoại thông minh trong lúc trò chuyện cùng người thân thiết.
+Sự kết hợp giữa trang phục màu xanh sax (sax blue) thanh mát, bánh mì mới nướng và ánh sáng dịu nhẹ bên khung cửa sổ làm nổi bật nét đáng yêu, trong trẻo nhưng trưởng thành. Vừa giữ được vẻ đẹp tinh tế như trong sách ảnh, vừa trân trọng biểu cảm tự nhiên xuất hiện bất chợt trong cuộc sống thường nhật.
+
+【Địa điểm, Bối cảnh & Không gian】
+Chỗ ngồi cạnh cửa sổ trong một tiệm cà phê bánh nhỏ, ấm cúng với khung cửa sổ và bàn bằng gỗ. Trước mặt người phụ nữ đặt một chiếc đĩa trắng cùng phần bánh mì đang ăn dở, hậu cảnh bài trí tự nhiên các kệ gỗ, tủ kính trưng bày bánh mì, ghế ngồi và vài chậu cây cảnh nhỏ.
+Bên ngoài cửa sổ thấp thoáng con phố ngập tràn ánh nắng trưa và chút sắc xanh của cây cỏ, trong quán lan tỏa cảm giác mộc mạc, yên bình của chất liệu gỗ. Không làm mờ hậu cảnh hoàn toàn mà giữ lại độ sâu trường ảnh và lượng thông tin vừa đủ để nhận biết đây là một tiệm bánh mì.
+
+【Mùa, Thời gian & Thời tiết】
+Khoảng đầu hè đến đầu thu, một ngày trưa nắng ấm áp và dễ chịu. Không phải là ánh nắng gay gắt giữa hè mà là ánh sáng tự nhiên rực rỡ nhưng lan tỏa dịu dàng qua khung cửa kính.
+Cây cối bên ngoài mang sắc xanh tự nhiên, không gian trong quán lưu thông làn không khí trong lành, nhẹ nhàng. Hầu như không có gió, một khoảng thời gian êm đềm thích hợp để thong thả ăn trưa hoặc thưởng trà.
+
+【Thiết lập nhân vật】
+Một phụ nữ Nhật Bản trưởng thành rõ rệt, khoảng 24 tuổi. Đường nét gương mặt mềm mại, hài hòa, đôi mắt to đen láy, hàng lông mày tự nhiên, đôi má và bờ môi ửng hồng đầy sức sống; toát lên vẻ điềm tĩnh của người phụ nữ trưởng thành nhưng vẫn rất gần gũi. Mái tóc màu nâu trầm dài qua vai một chút, nếp tóc bồng bềnh tự nhiên cùng vài sợi tóc mai buông nhẹ.
+Vóc dáng quyến rũ tự nhiên, thanh lịch với bờ vai và cánh tay mảnh mai, vòng eo thon kết hợp hài hòa với những đường cong nữ tính. Vòng một căng đầy, nở nang tự nhiên rõ rệt, nhưng không phải dạng hình cầu cứng đờ hay bị đẩy lên quá mức, thể hiện độ tròn mềm mại và khối đa chiều phù hợp với tư thế ngồi và trang phục.
+
+【Trang phục & Phụ kiện】
+Áo hai dây bèo ren dạo phố với tông màu xanh sax làm chủ đạo. Thân áo làm bằng chất liệu thun gân mềm mại, không xuyên thấu, phần ngực và quai áo được viền bèo ren nổi họa tiết hoa tinh tế. Thiết kế thanh thoát, trang nhã, là kiểu áo mặc ngoài tự nhiên để đi cà phê chứ không phải đồ lót.
+Phần vải có độ rộng vừa vặn với khuôn ngực đầy đặn, kích cỡ thực tế không làm vải hay ren bị kéo căng quá mức hay thắt chặt vào da. Thân dưới phối cùng chân váy cotton màu trắng ngà. Phụ kiện tối giản, không nổi bật, nếu có chỉ là một đôi hoa tai nhỏ.
+
+【Tư thế, Hành động & Ánh nhìn】
+Người phụ nữ ngồi thoải mái trên chiếc ghế cạnh cửa sổ, thân trên hơi hướng nhẹ về phía người đối diện. Ngồi vững vàng với hai chân và hông, không vặn mình bất tự nhiên. Tay trái cầm miếng bánh mì đã cắn một góc, hạ nhẹ xuống phía trên chiếc đĩa trắng một cách tự nhiên.
+Tay phải khẽ đưa lên gần dưới khóe miệng như thể bật cười ngay sau khi vừa ăn bánh. Các đầu ngón tay không che khuất toàn bộ môi, đặt ở vị trí vẫn thấy rõ khóe môi và biểu cảm gương mặt. Ánh mắt không nhìn thẳng vào ống kính mà hướng nhẹ lên trên, nhìn vào gương mặt của người đối diện.
+
+【Biểu cảm & Cảm xúc】
+Nụ cười tươi tắn có chút e thẹn, như thể việc chiếc bánh mới nướng quá ngon đã bị người đối diện nhìn thấu. Gò má khẽ nâng lên tự nhiên, ánh mắt tràn ngập niềm vui, khóe miệng cong lên dịu dàng.
+Không phải nụ cười há to miệng mà là nụ cười mỉm bất chợt trong cuộc trò chuyện đời thường khi ăn uống. Tránh cảm giác đang tạo dáng trước ống kính, toàn bộ biểu cảm toát lên sự an tâm, thoải mái khi ở bên người thân thiết.
+
+【Bố cục & Góc máy】
+Khung hình dọc tỉ lệ 4:5 phù hợp cho bài đăng trên X. Bố cục chụp từ ngực trở lên (bust-up) thu trọn từ phần ngực đến đỉnh đầu, để lại một khoảng trống nhỏ phía trên đỉnh đầu, bắt trọn cả bàn tay phải khẽ che miệng và bàn tay trái cầm bánh một cách tự nhiên. Đặt nhân vật hơi lệch sang bên phải tâm ảnh một chút, để lộ khung cửa sổ và ánh sáng ban trưa ở bên trái.
+Góc máy đặt ngang tầm mắt của người ngồi ở ghế đối diện. Sử dụng tiêu cự tự nhiên từ tiêu chuẩn đến tele tầm trung, không dùng góc rộng làm biến dạng hay phóng đại khuôn mặt, ngực hay bàn tay. Hậu cảnh có độ sâu trường ảnh vừa phải, làm mờ nhẹ nhàng để vẫn nhận diện được kệ bánh và nội thất gỗ.
+
+【Ánh sáng, Màu sắc, Chất cảm & Không khí】
+Nguồn sáng chính là ánh sáng tự nhiên dịu nhẹ ban trưa chiếu qua khung cửa sổ lớn bên trái khung hình. Ánh sáng rọi rực rỡ lên má, mắt và vai, phía đối diện có thêm ánh sáng phản xạ êm dịu từ tường quán và đồ nội thất gỗ. Vùng bóng đổ không gắt, giữ lại trọn vẹn khối tự nhiên của gương mặt.
+Làn da vẫn giữ được lỗ chân lông, các chi tiết đổ bóng tinh tế và sắc hồng tự nhiên, tránh xử lý làm mịn da quá đà. Mái tóc rõ từng sợi mượt mà và bóng nhẹ, ren áo có hoa văn thêu tỉ mỉ, bánh mì có màu nướng vàng ươm cùng thớ bánh xốp mềm nơi vết cắn. Sự hòa quyện giữa sắc nâu ấm áp của gỗ và màu xanh sax tạo nên bầu không khí buổi trưa trong lành và thân mật.
+
+【Chất lượng & Yếu tố loại trừ】
+Thể hiện ảnh chụp thực tế có độ phân giải cao. Chú trọng giải phẫu cơ thể người, ngón tay, ánh sáng, phối cảnh và chất liệu tự nhiên như được chụp bằng máy ảnh thực tế hoặc điện thoại thông minh.
+Tránh: người trông như vị thành niên, khuôn mặt quá non nớt, cơ thể biến dạng, thừa chi hoặc ngón tay, ngón tay thiếu, dính liền, khớp xương bất thường, nhầm lẫn tay trái phải, trang phục hòa vào cơ thể, trang phục rách hỏng, hở hang ngoài ý muốn, méo hình góc rộng cực đoan, chỉnh sửa làm mịn da quá mức. Vòng một giữ kích thước đầy đặn tự nhiên, không phóng to dị dạng, không hình cầu cứng đờ, không nâng đẩy bất thường, không đi ngược lại trọng lực. Không chứa chữ, logo, hình mờ (watermark), bong bóng thoại, hay giao diện người dùng (UI) trong hình ảnh.
 ```
 
 [↑ Về danh mục](#catalog)

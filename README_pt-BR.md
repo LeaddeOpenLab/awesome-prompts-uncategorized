@@ -57,20 +57,57 @@ Tradução em andamento
 
 <a name="prompt-2102527632726462637"></a>
 
-### Tradução em andamento
+### Prompt em estilo fotográfico de uma mulher adulta em lingerie na beira da cama de um quarto de hotel iluminado pela manhã, segurando um morango perto da boca com um sorriso tímido.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2102527632726462637)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt em estilo fotográfico de uma mulher adulta em lingerie na beira da cama de um quarto de hotel iluminado pela manhã, segurando um morango perto da boca com um sorriso tímido.
 
 <img src="images/2102527632726462637-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟Quarto de hotel pela manhã ｜ Morango e um suave sorriso tímido🌟
+
+【Tema e estilo artístico】
+Retratar o momento em que uma jovem mulher japonesa adulta, em um quarto de hotel pela manhã, após dar uma mordida em um morango, cruza olhares com o parceiro e sorri timidamente. Baseado em uma expressão fotográfica fotorrealista com sensação de vida cotidiana, priorizar a naturalidade, como se uma manhã casual durante uma estadia no hotel tivesse sido capturada por acaso. Não um estilo gravure artificial e posado, mas uma fotografia onde se sinta uma feminilidade elegante e uma intimidade serena compartilhada por duas pessoas.
+
+【Localização, fundo e atmosfera】
+Um quarto de hotel calmo e limpo, predominantemente em tons de branco e bege-claro. A mulher está sentada na beira de uma cama arrumada com lençóis brancos. Cortinas brancas e finas cobrem a janela, através das quais uma sutil vista matinal da cidade pode ser vista ao fundo. Uma pequena mesa lateral está posicionada ao lado da cama, arranjando de forma natural um pequeno prato branco com alguns morangos e uma luminária simples. O fundo mantém um toque de vida diária, mas organizado, proporcionando profundidade suficiente sem desviar a atenção da protagonista.
+
+【Estação, horário e clima】
+A manhã de um dia calmo e ensolarado. Não uma luz forte de pleno verão, mas um ar matinal fresco e suave que combina com a transição entre estações. A luz natural difusa entra pela cortina fina, e um leve silêncio ainda permanece no quarto. Quase sem vento, as cortinas mal balançam. Uma atmosfera relaxada pouco antes ou depois do café da manhã, algum tempo após acordar.
+
+【Configuração da personagem】
+Claramente uma mulher japonesa adulta por volta dos 24 anos. Feições suaves e bem proporcionadas, olhos ligeiramente grandes e escuros, sobrancelhas naturais, lábios corados e bochechas levemente arredondadas. Cabelo castanho-escuro com ondas naturais que caem sobre os ombros. Pele em tom ocre claro com textura realista, preservando poros e sombras sutis.
+Físico elegante e naturalmente curvilíneo, harmonizando ombros e membros esguios com uma cintura fina e curvas femininas. Seios claramente fartos e volumosos, mas sem exagero artificial, mostrando uma curvatura suave e espessura natural moldada pela gravidade e pela postura sentada. Quadris e pernas também com linhas saudáveis em equilíbrio com todo o corpo.
+
+【Traje e acessórios】
+Um conjunto de sutiã e calcinha marfim, reminiscente de uma marca de lingerie de alta qualidade. Delicados bordados de pequenas flores em tom pêssego pálido no busto e na cintura, com renda escalonada detalhada nas bordas. Uma textura de tecido nem muito fina, permitindo perceber naturalmente o volume do bordado e da costura.
+O sutiã tem tamanho e estrutura realistas que envolvem confortavelmente o busto farto, sem que as alças ou bojos apertem excessivamente ou que o tecido seja esticado de forma não natural. A calcinha acompanha suavemente a linha dos quadris. Praticamente sem acessórios, mantendo a simplicidade matinal.
+
+【Pose, ação e olhar】
+A mulher senta-se na beira da cama em um ângulo ligeiramente diagonal e raso, com ambas as pernas para fora da cama e os pés descalços apoiados em um tapete macio. O peso corporal é distribuído naturalmente sobre os ísquios, e a parte superior do corpo está levemente voltada para a câmera. Uma mão segura um morango pelas pontas dos dedos, tirado da mesa de cabeceira, mantendo-o perto da boca logo após morder a ponta. A outra mão repousa levemente no lençol ao lado do quadril, sustentando a postura de forma natural.
+Sem torcer o rosto de maneira artificial, ela olha na direção da câmera onde está o parceiro, alinhada com a orientação dos ombros e do peito. As pernas não estão excessivamente cruzadas; dos joelhos até os pés, há um relaxamento natural. O cabelo de um lado é jogado para trás do ombro para não cobrir demais a roupa ou as expressões faciais.
+
+【Expressão e emoção】
+O momento em que ela percebe que foi vista comendo o morango e sorri com um leve embaraço. A boca não se abre muito, fechando-se suavemente após a mordida, com os cantos dos lábios subindo com naturalidade. Um leve rubor de timidez surge nas bochechas, e a área dos olhos suaviza-se junto. O olhar para a câmera mistura segurança diante do parceiro íntimo e um toque de timidez.
+Nada de sorrisos exagerados ou expressões sedutoras; expressar como uma reação adorável revelada espontaneamente em uma manhã comum.
+
+【Composição e câmera】
+Formato vertical 4:5 adequado para postagens no X. Composição de corpo inteiro que acomoda confortavelmente a modelo desde o topo da cabeça até os pés descalços, deixando margens apropriadas acima e abaixo. A câmera está posicionada em uma altura natural, um pouco abaixo da altura do peito da mulher sentada, ligeiramente em ângulo em relação à frente.
+Perspectiva natural equivalente a uma lente padrão em torno de 50mm, evitando distorções de grande angular onde apenas as pernas ou o peito pareçam ampliados. A pessoa é posicionada ligeiramente fora do centro da tela, mantendo a janela, a cama e a mesa lateral visíveis o suficiente como fundo. Profundidade de campo não muito rasa, mantendo um desfoque suave no fundo suficiente para reconhecer o ambiente como um quarto de hotel.
+
+【Iluminação, cor, textura e atmosfera】
+A fonte de luz principal é a luz natural da manhã entrando pela grande janela na lateral da cena através da cortina branca e fina. Ela contorna suavemente o rosto, ombros, braços e pernas, enquanto o lado oposto é naturalmente preenchido pela luz refletida na roupa de cama e nas paredes brancas. As bordas das sombras não são duras, apresentando uma gradação brilhante e suave típica da manhã.
+A pele preserva uma tonalidade rosada natural, sombreamentos detalhados e microtexturas; o cabelo mostra mechas individuais e um brilho suave. A renda traz bordados e contornos minuciosos, os lençóis brancos têm dobras leves e espessura suave, e o morango exibe um vermelho vibrante e detalhes visíveis das sementes. No geral, harmonizado em torno de marfim, branco e bege-claro, com o vermelho do morango atuando como um pequeno ponto de destaque.
+
+【Qualidade e elementos a excluir】
+Alta resolução, priorizando corpo humano, luz, materiais e perspectiva naturais como se fotografados por uma câmera real. Evitar pessoas com aparência menor de idade ou feições excessivamente infantis, proporções corporais anormais, membros ou dedos extras, dedos ausentes ou fundidos, articulações anormais e confusão entre mãos esquerda e direita.
+Evitar falhas na roupa, fusão entre corpo e tecido, marcas exageradas de aperto, nudez indesejada, distorção extrema de grande angular e tratamento excessivo de pele. O busto deve manter um volume rico e natural, sem formas esféricas rígidas, elevação anormal ou desafiando a gravidade. Sem textos, logotipos, marcas d'água ou elementos de interface na imagem.
 ```
 
 [↑ Voltar às categorias](#catalog)
@@ -101,20 +138,60 @@ Tradução em andamento
 
 <a name="prompt-2102526077872840964"></a>
 
-### Tradução em andamento
+### Prompt de retrato fotorrealista do cotidiano de uma mulher japonesa à beira da janela de um café com padaria, saboreando pão fresco e sorrindo com a mão na boca.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2102526077872840964)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato fotorrealista do cotidiano de uma mulher japonesa à beira da janela de um café com padaria, saboreando pão fresco e sorrindo com a mão na boca.
 
 <img src="images/2102526077872840964-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟Café e padaria à beira da janela | Pão fresquinho e um sorriso espontâneo🌟
+
+【Tema e Estilo】
+Uma fotografia fotorrealista que captura o momento em que uma mulher abre um sorriso espontâneo após saborear um pão em um pequeno café de padaria ao meio-dia. Não se trata de uma foto publicitária produzida, mas sim de um registro íntimo e cheio de vida cotidiana, como se tivesse sido tirado espontaneamente por um smartphone durante uma conversa descontraída com alguém próximo.
+Combinando uma roupa refrescante em azul-saxão, pães recém-assados e a suave luz da janela, a imagem expressa uma fofura madura e limpa. Mantendo a beleza digna de um livro de fotografias (photobook), valoriza-se a expressão genuína nascida casualmente no dia a dia.
+
+【Local, Cenário e Ambientação】
+Assento à beira da janela de um pequeno e acolhedor café com padaria, com mesas e caixilhos de madeira. À frente da mulher, sobre a mesa, repousam um prato branco e um pedaço de pão mordido; ao fundo, prateleiras de madeira, vitrines com pães enfileirados, cadeiras e pequenas plantas ornamentais são posicionadas naturalmente.
+Do lado de fora da janela, vislumbram-se sutilmente uma rua iluminada pelo dia e o verde circundante, enquanto o interior é preenchido pela textura tranquila da madeira. O fundo não deve ser totalmente desfocado, mantendo profundidade e quantidade de informação suficientes para reconhecer que se trata de uma padaria.
+
+【Estação, Horário e Clima】
+Meio-dia de um dia ensolarado, ameno e agradável, entre o início do verão e o início do outono. Em vez do sol escaldante do auge do verão, uma luz natural brilhante e suave que se difunde através da janela.
+As árvores externas exibem um verde natural, e o interior do café é envolvido por um ar leve e refrescante. Sem interferência perceptível do vento, um momento tranquilo propício para desfrutar do almoço ou do chá com serenidade.
+
+【Perfil da Personagem】
+Uma mulher japonesa inequivocamente adulta, com cerca de 24 anos. Traços faciais suaves e harmoniosos, olhos expressivos com íris escuras, sobrancelhas naturais, bochechas e lábios corados, unindo acessibilidade acolhedora à serenidade de uma mulher adulta. Cabelos castanho-escuros que descem um pouco além dos ombros, com caimento natural e suaves mechas soltas.
+Ombros e braços delicados, cintura fina em harmonia com curvas femininas bem proporcionadas, formando uma silhueta naturalmente curvilínea e elegante. Busto claramente farto e com volume natural voluptuoso, mas sem rigidez esférica ou elevação exagerada, exibindo arredondamento suave e tridimensionalidade que acompanham a postura sentada e a vestimenta.
+
+【Vestuário e Acessórios】
+Regata estilo camisole com babados de renda para passeio, na cor azul-saxão. A estrutura principal é feita de tecido canelado macio e opaco, adornada com delicados babados de renda tridimensional com motivos florais no decote e nas alças. Um design arejado e elegante, concebido como uma blusa casual adequada para um café, e não como lingerie.
+O tecido oferece cobertura e largura suficientes para o busto farto, em tamanho realista que não estica nem aperta a pele de forma excessiva. Na parte inferior, uma saia de algodão na cor marfim. Acessórios discretos, limitando-se a pequenos brincos se necessário.
+
+【Pose, Ação e Olhar】
+A mulher está sentada de forma relaxada na cadeira junto à janela, com o tronco levemente inclinado em direção à pessoa à sua frente. Posição estável apoiada pelas pernas e quadris, sem torções corporais artificiais. Com a mão esquerda, segura o pão já mordido, repousando-a naturalmente logo acima do prato branco.
+A mão direita toca levemente a região abaixo dos lábios, como se risse timidamente logo após comer. A ponta dos dedos não esconde os lábios por completo, deixando o canto da boca e sua expressão visíveis. O olhar não se direciona diretamente para a lente, mas sim um pouco acima, voltado para o rosto do interlocutor à sua frente.
+
+【Expressão e Emoção】
+Um sorriso luminoso e levemente envergonhado, como se o interlocutor tivesse acabado de notar o quanto ela achou o pão quentinho delicioso. Bochechas naturalmente elevadas, olhos cheios de alegria e cantos da boca suavemente arqueados.
+Não um riso aberto e escancarado, mas um sorriso espontâneo nascido de uma conversa casual durante a refeição. Evita-se a sensação de estar posando para a câmera, transmitindo em toda a expressão a sensação de conforto e segurança de estar na companhia de alguém íntimo.
+
+【Composição e Câmera】
+Formato vertical 4:5 próprio para postagem no X. Enquadramento de meio-corpo (bust-up) capturando do busto até o topo da cabeça, com um leve espaço de respiro acima, incluindo naturalmente no quadro a mão direita perto da boca e a mão esquerda segurando o pão. A mulher posiciona-se ligeiramente à direita do centro, permitindo que a janela e a luz diurna fiquem visíveis à esquerda.
+A câmera fica posicionada na altura dos olhos de quem estaria sentado à sua frente. Lente de distância focal padrão a média teleobjetiva, sem distorcer rosto, busto ou mãos com grande-angular. O fundo mantém uma profundidade de campo equilibrada, suavemente desfocado de modo a permitir o reconhecimento das prateleiras de pão e do acabamento em madeira.
+
+【Luz, Cor, Textura e Atmosfera】
+A fonte de luz principal é a suave luz natural do dia entrando pela grande janela à esquerda do quadro. Luz brilhante incide sobre as bochechas, olhos e ombros, complementada no lado oposto por reflexos suaves vindos das paredes internas e do mobiliário de madeira. Sombras sem dureza, preservando naturalmente a tridimensionalidade facial.
+A pele mantém poros visíveis, sombras sutis e viço natural, evitando pós-processamento excessivo de embelezamento. Cabelos com fios individualmente definidos e brilho suave, renda com bordados minuciosos, pão com crosta bem dourada e a textura macia de seu interior partido. A harmonia entre o castanho acolhedor da madeira e o azul-saxão cria uma atmosfera diurna fresca e intimista.
+
+【Qualidade e Elementos a Excluir】
+Representação fotorrealista de alta resolução. Foco em anatomia humana natural, mãos e dedos perfeitos, iluminação, perspectiva e renderização fidedigna de materiais como se fossem capturados por uma câmera real ou smartphone.
+Evitar: aparência menor de idade, traços faciais infantis, anatomia corporal distorcida, membros ou dedos extras, dedos faltando, dedos fundidos, articulações anormais, confusão entre mão esquerda e direita, fusão de roupas com o corpo, deformações nas roupas, nudez ou decote não intencional, distorções extremas de lente grande-angular, filtros de suavização excessiva da pele. Manter o busto volumoso e natural, sem aumento bizarro, formato esférico rígido, elevação extrema ou desafio à gravidade. Sem texto, logotipos, marcas d'água, balões de fala ou elementos de interface gráfica na imagem.
 ```
 
 [↑ Voltar às categorias](#catalog)
