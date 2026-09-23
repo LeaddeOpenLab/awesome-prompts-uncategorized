@@ -7450,20 +7450,21 @@ Photographie éditoriale cinématographique ultra-réaliste d'un jeune homme rem
 
 <a name="prompt-2102544489395134653"></a>
 
-### Traduction en cours
+### Représentation animée d'une reine démon forçant un baiser à un héros masculin qui lui résiste.
 
 Auteur：[@hsuenaga626](https://x.com/hsuenaga626) · [Publication originale](https://x.com/hsuenaga626/status/2102544489395134653)
 
 Anime / Manga · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Représentation animée d'une reine démon forçant un baiser à un héros masculin qui lui résiste.
 
 <img src="covers/2102544489395134653.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+La Reine Démon tombe amoureuse du héros masculin
+La Reine Démon tente de voler les lèvres du héros masculin. Le héros masculin tente de l'en empêcher
 ```
 
 [↑ Retour aux catégories](#catalog)

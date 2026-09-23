@@ -7558,20 +7558,21 @@ Fotografía editorial cinematográfica y ultrarrealista de un joven increíbleme
 
 <a name="prompt-2102544489395134653"></a>
 
-### Traducción en curso
+### Representación de animación de la Señora Oscura forzando un beso al héroe masculino y encontrando resistencia.
 
 Autor：[@hsuenaga626](https://x.com/hsuenaga626) · [Publicación original](https://x.com/hsuenaga626/status/2102544489395134653)
 
 Anime / Manga · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Representación de animación de la Señora Oscura forzando un beso al héroe masculino y encontrando resistencia.
 
 <img src="covers/2102544489395134653.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+La Señora Oscura se enamora del héroe masculino
+La Señora Oscura intenta robarle los labios al héroe masculino. El héroe masculino intenta detenerla
 ```
 
 [↑ Volver a categorías](#catalog)

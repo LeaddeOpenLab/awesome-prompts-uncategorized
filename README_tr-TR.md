@@ -7480,20 +7480,21 @@ Dramatik ve bulutlu bir gökyüzünün altında, boş ve tenha bir kumsalda çı
 
 <a name="prompt-2102544489395134653"></a>
 
-### Çeviri sürüyor
+### Kadın İblis Kralı'nın erkek kahramanı öpmeye zorlamasını ve dirençle karşılaşmasını gösteren animasyon tasviri.
 
 Yazar：[@hsuenaga626](https://x.com/hsuenaga626) · [Orijinal gönderi](https://x.com/hsuenaga626/status/2102544489395134653)
 
 Anime / Manga · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Kadın İblis Kralı'nın erkek kahramanı öpmeye zorlamasını ve dirençle karşılaşmasını gösteren animasyon tasviri.
 
 <img src="covers/2102544489395134653.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kadın İblis Kralı erkek kahramana aşık olur
+Kadın İblis Kralı erkek kahramanın dudaklarını çalmaya çalışıyor. Erkek kahraman onu durdurmaya çalışıyor
 ```
 
 [↑ Kategorilere dön](#catalog)

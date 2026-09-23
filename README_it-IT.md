@@ -7450,20 +7450,21 @@ Fotografia editoriale cinematografica ultra-realistica di un giovane uomo straor
 
 <a name="prompt-2102544489395134653"></a>
 
-### Traduzione in corso
+### Raffigurazione animata della regina dei demoni che cerca di baciare l'eroe maschile venendo respinta.
 
 Autore：[@hsuenaga626](https://x.com/hsuenaga626) · [Post originale](https://x.com/hsuenaga626/status/2102544489395134653)
 
 Anime / Manga · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Raffigurazione animata della regina dei demoni che cerca di baciare l'eroe maschile venendo respinta.
 
 <img src="covers/2102544489395134653.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+La Regina dei Demoni si innamora dell'eroe maschile
+La Regina dei Demoni cerca di rubare le labbra dell'eroe maschile. L'eroe maschile cerca di fermarla
 ```
 
 [↑ Torna alle categorie](#catalog)

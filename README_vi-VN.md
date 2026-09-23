@@ -7557,20 +7557,21 @@ Bức ảnh biên tập điện ảnh siêu thực về một chàng trai trẻ 
 
 <a name="prompt-2102544489395134653"></a>
 
-### Đang dịch
+### Khắc họa theo phong cách hoạt hình cảnh nữ ma vương đòi hôn nam dũng giả và bị chống cự.
 
 Tác giả：[@hsuenaga626](https://x.com/hsuenaga626) · [Bài gốc](https://x.com/hsuenaga626/status/2102544489395134653)
 
 Anime / Manga · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Khắc họa theo phong cách hoạt hình cảnh nữ ma vương đòi hôn nam dũng giả và bị chống cự.
 
 <img src="covers/2102544489395134653.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Nữ ma vương phải lòng nam dũng giả
+Nữ ma vương đang cố gắng cướp lấy đôi môi của nam dũng giả. Nam dũng giả cố gắng ngăn cô ấy lại
 ```
 
 [↑ Về danh mục](#catalog)

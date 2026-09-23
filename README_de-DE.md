@@ -7450,20 +7450,21 @@ Ultrarealistische filmische Editorial-Fotografie eines auffallend gutaussehenden
 
 <a name="prompt-2102544489395134653"></a>
 
-### Übersetzung läuft
+### Animierte Darstellung, wie die Dämonenkönigin den männlichen Helden zu küssen versucht und auf Widerstand stößt.
 
 Autor：[@hsuenaga626](https://x.com/hsuenaga626) · [Originalbeitrag](https://x.com/hsuenaga626/status/2102544489395134653)
 
 Anime / Manga · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Animierte Darstellung, wie die Dämonenkönigin den männlichen Helden zu küssen versucht und auf Widerstand stößt.
 
 <img src="covers/2102544489395134653.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Die Dämonenkönigin verliebt sich in den männlichen Helden
+Die Dämonenkönigin versucht, die Lippen des männlichen Helden zu stehlen. Der männliche Held versucht, sie aufzuhalten
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

@@ -7480,20 +7480,21 @@ Fotografia editorial cinematográfica e ultrarrealista de um jovem incrivelmente
 
 <a name="prompt-2102544489395134653"></a>
 
-### Tradução em curso
+### Representação animada da Rainha Demónio a forçar um beijo ao herói masculino e a encontrar resistência.
 
 Autor：[@hsuenaga626](https://x.com/hsuenaga626) · [Publicação original](https://x.com/hsuenaga626/status/2102544489395134653)
 
 Anime / Mangá · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Representação animada da Rainha Demónio a forçar um beijo ao herói masculino e a encontrar resistência.
 
 <img src="covers/2102544489395134653.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+A Rainha Demónio apaixona-se pelo herói masculino
+A Rainha Demónio está a tentar roubar os lábios do herói masculino. O herói masculino tenta impedi-la
 ```
 
 [↑ Voltar às categorias](#catalog)
