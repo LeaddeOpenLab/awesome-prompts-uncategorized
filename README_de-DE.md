@@ -5615,20 +5615,20 @@ Erstelle ein ultrarealistisches Nahaufnahme-Studioporträt eines erwachsenen Man
 
 <a name="prompt-2102629959919624369"></a>
 
-### Übersetzung läuft
+### Ein futuristischer gepanzerter Krieger kämpft an einem dunklen, stürmischen Himmel gegen einen feuerspeienden schwarzen Drachen.
 
 Autor：[@novaXsignals](https://x.com/novaXsignals) · [Originalbeitrag](https://x.com/novaXsignals/status/2102629959919624369)
 
 Kinematisch / Filmstill · Tier / Kreatur · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein futuristischer gepanzerter Krieger kämpft an einem dunklen, stürmischen Himmel gegen einen feuerspeienden schwarzen Drachen.
 
 <img src="covers/2102629959919624369.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Erstelle ein 15-sekündiges, kinoreifes Fantasy-Kampfvideo, das der Referenz entspricht: 0–1s, ein futuristischer gepanzerter Krieger schwebt in einem dunklen, stürmischen Himmel, während ein riesiger schwarzer Drache hinter ihm fliegt; 1–2s, leuchtend blaue Energie umgibt den Krieger, während sich die Kamera langsam nähert; 2–3s, der Drache nähert sich schnell durch die Wolken und der Krieger dreht sich zu ihm um; 3–5s, der Drache öffnet sein Maul und speit einen gewaltigen Strahl leuchtend orangen Feuers, während der Krieger rückwärts durch den Sturm fliegt; 5–7s, zeige eine dramatische Nahaufnahme des Gesichts des Drachen und seiner glühenden Augen, während er den Krieger jagt; 7–9s, der Krieger stellt sich dem Drachen in der Luft, während Blitze hinter ihnen zucken und blaue Energie aus seiner Rüstung leuchtet; 9–11s, der Drache greift erneut mit intensivem Feuer an, während der Krieger mit hoher Geschwindigkeit durch die Wolken ausweicht; 11–13s, zeige beide Charaktere, wie sie in einer epischen Luftkonfrontation aufeinander zufliegen, während Feuer und blaue Energie den Sturm erleuchten; 13–15s, der Krieger weicht plötzlich in die Wolken aus, während der Drache ihm folgt, endend mit einer dramatischen Weitwinkelaufnahme des dunklen Himmels, realistisches kinoreifes CGI, detaillierte Rüstung, massive Drachenflügel, volumetrische Wolken, dynamische Kamerabewegung, dramatische Beleuchtung, hoher Detailgrad, 4K-Qualität.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

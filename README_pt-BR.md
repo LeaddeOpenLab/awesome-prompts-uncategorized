@@ -5612,20 +5612,20 @@ Crie um retrato de estúdio em close-up ultrarrealista de um homem adulto com um
 
 <a name="prompt-2102629959919624369"></a>
 
-### Tradução em andamento
+### Um guerreiro com armadura futurista luta contra um dragão negro que cospe fogo em um céu escuro e tempestuoso.
 
 Autor：[@novaXsignals](https://x.com/novaXsignals) · [Publicação original](https://x.com/novaXsignals/status/2102629959919624369)
 
 Cinematográfico / Imagem de Filme · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um guerreiro com armadura futurista luta contra um dragão negro que cospe fogo em um céu escuro e tempestuoso.
 
 <img src="covers/2102629959919624369.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Crie um vídeo cinematográfico de batalha fantástica de 15 segundos correspondente à referência: 0–1s, um guerreiro com armadura futurista flutua em um céu escuro e tempestuoso enquanto um enorme dragão negro voa atrás dele; 1–2s, uma energia azul brilhante envolve o guerreiro enquanto a câmera se aproxima lentamente; 2–3s, o dragão se aproxima rapidamente através das nuvens e o guerreiro se vira em direção a ele; 3–5s, o dragão abre a boca e cospe um poderoso jato de fogo laranja brilhante enquanto o guerreiro voa para trás através da tempestade; 5–7s, mostre um close dramático do rosto do dragão e de seus olhos brilhantes enquanto ele persegue o guerreiro; 7–9s, o guerreiro enfrenta o dragão no ar com relâmpagos piscando atrás deles e energia azul resplandecendo de sua armadura; 9–11s, o dragão ataca novamente com fogo intenso enquanto o guerreiro se esquiva pelas nuvens em alta velocidade; 11–13s, mostre ambos os personagens voando um em direção ao outro em um confronto aéreo épico, com fogo e energia azul iluminando a tempestade; 13–15s, o guerreiro subitamente se afasta em direção às nuvens enquanto o dragão o segue, terminando em um plano geral dramático do céu escuro, CGI cinematográfico realista, armadura detalhada, asas maciças de dragão, nuvens volumétricas, movimento de câmera dinâmico, iluminação dramática, alto nível de detalhes, qualidade 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)

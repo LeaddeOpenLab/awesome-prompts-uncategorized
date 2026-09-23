@@ -5615,20 +5615,20 @@ Créez un portrait de studio en gros plan ultraréaliste d'un homme adulte avec 
 
 <a name="prompt-2102629959919624369"></a>
 
-### Traduction en cours
+### Un guerrier en armure futuriste combat un dragon noir cracheur de feu dans un ciel sombre et orageux.
 
 Auteur：[@novaXsignals](https://x.com/novaXsignals) · [Publication originale](https://x.com/novaXsignals/status/2102629959919624369)
 
 Image cinématographique / Photogramme de film · Animal / Créature · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un guerrier en armure futuriste combat un dragon noir cracheur de feu dans un ciel sombre et orageux.
 
 <img src="covers/2102629959919624369.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Créez une vidéo cinématographique de bataille fantastique de 15 secondes correspondant à la référence : 0–1s, un guerrier en armure futuriste flotte dans un ciel sombre et orageux tandis qu'un énorme dragon noir vole derrière lui ; 1–2s, une énergie bleue brillante entoure le guerrier tandis que la caméra s'approche lentement ; 2–3s, le dragon s'approche rapidement à travers les nuages et le guerrier se tourne vers lui ; 3–5s, le dragon ouvre la gueule et souffle un puissant jet de flammes orange vif tandis que le guerrier vole à reculons à travers la tempête ; 5–7s, montrez un gros plan dramatique du visage du dragon et de ses yeux brillants alors qu'il poursuit le guerrier ; 7–9s, le guerrier affronte le dragon dans les airs alors que des éclairs jaillissent derrière eux et qu'une énergie bleue émane de son armure ; 9–11s, le dragon attaque à nouveau avec un feu intense tandis que le guerrier esquive à travers les nuages à grande vitesse ; 11–13s, montrez les deux personnages volant l'un vers l'autre dans une confrontation aérienne épique, le feu et l'énergie bleue illuminant la tempête ; 13–15s, le guerrier s'éloigne soudainement dans les nuages tandis que le dragon le suit, se terminant par un plan large dramatique du ciel sombre, CGI cinématographique réaliste, armure détaillée, ailes de dragon massives, nuages volumétriques, mouvement de caméra dynamique, éclairage dramatique, niveau de détail élevé, qualité 4K.
 ```
 
 [↑ Retour aux catégories](#catalog)

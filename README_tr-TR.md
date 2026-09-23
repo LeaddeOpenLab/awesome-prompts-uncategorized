@@ -5612,20 +5612,20 @@ Seçkin ve modern bir editoryal tarzda, göğüsten yukarıya doğru fotoğrafla
 
 <a name="prompt-2102629959919624369"></a>
 
-### Çeviri sürüyor
+### Fütüristik zırhlı bir savaşçı, karanlık ve fırtınalı bir gökyüzünde ateş püskürten siyah bir ejderhayla savaşıyor.
 
 Yazar：[@novaXsignals](https://x.com/novaXsignals) · [Orijinal gönderi](https://x.com/novaXsignals/status/2102629959919624369)
 
 Sinematik / Film Karesi · Hayvan / Yaratık · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Fütüristik zırhlı bir savaşçı, karanlık ve fırtınalı bir gökyüzünde ateş püskürten siyah bir ejderhayla savaşıyor.
 
 <img src="covers/2102629959919624369.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Referansla eşleşen 15 saniyelik sinematik bir fantastik savaş videosu oluşturun: 0–1 sn, fütüristik zırhlı bir savaşçı karanlık ve fırtınalı bir gökyüzünde süzülürken arkasında devasa siyah bir ejderha uçar; 1–2 sn, kamera yavaşça yaklaşırken savaşçıyı parlayan mavi bir enerji çevreler; 2–3 sn, ejderha bulutların arasından hızla yaklaşır ve savaşçı ona doğru döner; 3–5 sn, savaşçı fırtınanın içinde geriye doğru uçarken ejderha ağzını açar ve parlak turuncu renkte güçlü bir alev püskürtür; 5–7 sn, savaşçıyı kovalayan ejderhanın yüzünün ve parlayan gözlerinin dramatik bir yakın planını gösterin; 7–9 sn, arkalarında şimşekler çakarken ve zırhından mavi enerji parlarken savaşçı havada ejderhayla yüzleşir; 9–11 sn, savaşçı yüksek hızda bulutların arasından sıyrılırken ejderha yoğun ateşle tekrar saldırır; 11–13 sn, fırtınayı aydınlatan ateş ve mavi enerji eşliğinde, her iki karakterin de destansı bir hava çatışmasında birbirine doğru uçtuğunu gösterin; 13–15 sn, ejderha onu takip ederken savaşçı aniden bulutların içine doğru uzaklaşır ve karanlık gökyüzünün dramatik bir geniş açılı çekimiyle sona erer, gerçekçi sinematik CGI, ayrıntılı zırh, devasa ejderha kanatları, hacimsel bulutlar, dinamik kamera hareketi, dramatik aydınlatma, yüksek detay, 4K kalitesi.
 ```
 
 [↑ Kategorilere dön](#catalog)

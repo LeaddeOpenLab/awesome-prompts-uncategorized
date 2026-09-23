@@ -5615,20 +5615,20 @@ Crea un retrato de estudio en primer plano ultrarrealista de un hombre adulto co
 
 <a name="prompt-2102629959919624369"></a>
 
-### Traducción en curso
+### Un guerrero con armadura futurista lucha contra un dragón negro que escupe fuego en un cielo oscuro y tormentoso.
 
 Autor：[@novaXsignals](https://x.com/novaXsignals) · [Publicación original](https://x.com/novaXsignals/status/2102629959919624369)
 
 Cine / Fotograma · Animal / Criatura · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un guerrero con armadura futurista lucha contra un dragón negro que escupe fuego en un cielo oscuro y tormentoso.
 
 <img src="covers/2102629959919624369.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Crea un video cinemático de batalla de fantasía de 15 segundos que coincida con la referencia: 0–1s, un guerrero con armadura futurista flota en un cielo oscuro y tormentoso mientras un enorme dragón negro vuela detrás de él; 1–2s, una brillante energía azul rodea al guerrero mientras la cámara se acerca lentamente; 2–3s, el dragón se acerca rápidamente a través de las nubes y el guerrero se gira hacia él; 3–5s, el dragón abre la boca y exhala una poderosa llamarada de fuego naranja brillante mientras el guerrero vuela hacia atrás a través de la tormenta; 5–7s, muestra un primer plano dramático del rostro del dragón y sus ojos brillantes mientras persigue al guerrero; 7–9s, el guerrero se enfrenta al dragón en el aire con relámpagos brillando detrás de ellos y energía azul resplandeciendo de su armadura; 9–11s, el dragón ataca de nuevo con fuego intenso mientras el guerrero esquiva a través de las nubes a gran velocidad; 11–13s, muestra a ambos personajes volando el uno hacia el otro en un épico enfrentamiento aéreo, con fuego y energía azul iluminando la tormenta; 13–15s, el guerrero se aleja repentinamente hacia las nubes mientras el dragón lo sigue, terminando en un dramático plano general del cielo oscuro, CGI cinemático realista, armadura detallada, enormes alas de dragón, nubes volumétricas, movimiento dinámico de cámara, iluminación dramática, alto nivel de detalle, calidad 4K.
 ```
 
 [↑ Volver a categorías](#catalog)

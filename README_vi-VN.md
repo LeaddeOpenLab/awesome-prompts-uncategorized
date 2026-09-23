@@ -5703,20 +5703,20 @@ Nhấn mạnh kết cấu da chân thực, từng sợi râu chi tiết, đôi m
 
 <a name="prompt-2102629959919624369"></a>
 
-### Đang dịch
+### Một chiến binh giáp trụ tương lai chiến đấu với một con rồng đen phun lửa trên bầu trời bão tố đen tối.
 
 Tác giả：[@novaXsignals](https://x.com/novaXsignals) · [Bài gốc](https://x.com/novaXsignals/status/2102629959919624369)
 
 Điện ảnh / Ảnh tĩnh từ phim · Động vật / Sinh vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Một chiến binh giáp trụ tương lai chiến đấu với một con rồng đen phun lửa trên bầu trời bão tố đen tối.
 
 <img src="covers/2102629959919624369.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tạo một video chiến đấu giả tưởng đậm chất điện ảnh dài 15 giây khớp với tài liệu tham khảo: 0–1 giây, một chiến binh giáp trụ tương lai trôi nổi giữa bầu trời bão tố đen tối trong khi một con rồng đen khổng lồ bay phía sau anh ta; 1–2 giây, năng lượng màu xanh lam phát sáng bao quanh chiến binh khi máy quay từ từ tiến lại gần; 2–3 giây, con rồng lao tới nhanh chóng xuyên qua những đám mây và chiến binh quay người về phía nó; 3–5 giây, con rồng há miệng phun ra một luồng lửa màu cam sáng cực mạnh trong khi chiến binh bay giật lùi xuyên qua cơn bão; 5–7 giây, khung hình cận cảnh đầy kịch tính về khuôn mặt và đôi mắt rực sáng của con rồng khi nó đuổi theo chiến binh; 7–9 giây, chiến binh đối mặt với con rồng giữa không trung với sấm chớp lóe sáng phía sau họ và năng lượng xanh lam phát ra từ bộ giáp của anh ta; 9–11 giây, con rồng tấn công dữ dội một lần nữa bằng lửa trong khi chiến binh né tránh xuyên qua các đám mây ở tốc độ cao; 11–13 giây, hiển thị cả hai nhân vật bay về phía nhau trong cuộc đối đầu trên không hoành tráng, với lửa và năng lượng xanh lam thắp sáng cơn bão; 13–15 giây, chiến binh đột ngột di chuyển biến mất vào những đám mây khi con rồng đuổi theo, kết thúc bằng một cảnh quay góc rộng đầy kịch tính về bầu trời đen tối, CGI điện ảnh chân thực, bộ giáp chi tiết, đôi cánh rồng khổng lồ, mây thể tích (volumetric clouds), chuyển động máy quay năng động, ánh sáng kịch tính, chi tiết cao, chất lượng 4K.
 ```
 
 [↑ Về danh mục](#catalog)

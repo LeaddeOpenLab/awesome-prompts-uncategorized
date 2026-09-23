@@ -5615,20 +5615,20 @@ Crea un ritratto in studio ravvicinato ultra-realistico di un uomo adulto con un
 
 <a name="prompt-2102629959919624369"></a>
 
-### Traduzione in corso
+### Un guerriero in armatura futuristica combatte un drago nero sputafuoco in un cielo scuro e tempestoso.
 
 Autore：[@novaXsignals](https://x.com/novaXsignals) · [Post originale](https://x.com/novaXsignals/status/2102629959919624369)
 
 Fermo immagine cinematografico / Still fotografico · Animale / Creatura · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un guerriero in armatura futuristica combatte un drago nero sputafuoco in un cielo scuro e tempestoso.
 
 <img src="covers/2102629959919624369.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Crea un video cinematografico di battaglia fantasy di 15 secondi corrispondente al riferimento: 0–1s, un guerriero con armatura futuristica fluttua in un cielo scuro e tempestoso mentre un enorme drago nero vola dietro di lui; 1–2s, una brillante energia blu circonda il guerriero mentre la telecamera si avvicina lentamente; 2–3s, il drago si avvicina rapidamente attraverso le nuvole e il guerriero si volta verso di esso; 3–5s, il drago apre la bocca ed emette un potente flusso di fuoco arancione brillante mentre il guerriero vola all'indietro attraverso la tempesta; 5–7s, mostra un drammatico primo piano del volto del drago e dei suoi occhi ardenti mentre insegue il guerriero; 7–9s, il guerriero affronta il drago a mezz'aria con fulmini che lampeggiano dietro di loro ed energia blu che risplende dalla sua armatura; 9–11s, il drago attacca di nuovo con fuoco intenso mentre il guerriero schiva attraverso le nuvole ad alta velocità; 11–13s, mostra entrambi i personaggi che volano l'uno verso l'altro in un epico scontro aereo, con il fuoco e l'energia blu che illuminano la tempesta; 13–15s, il guerriero si allontana improvvisamente tra le nuvole mentre il drago lo segue, terminando con un drammatico campo lungo del cielo scuro, CGI cinematografica realistica, armatura dettagliata, enormi ali di drago, nuvole volumetriche, movimento dinamico della telecamera, illuminazione drammatica, dettagli elevati, qualità 4K.
 ```
 
 [↑ Torna alle categorie](#catalog)

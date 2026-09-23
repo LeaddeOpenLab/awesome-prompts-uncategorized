@@ -5612,20 +5612,20 @@ Crie um retrato de estúdio em grande plano ultrarrealista de um homem adulto co
 
 <a name="prompt-2102629959919624369"></a>
 
-### Tradução em curso
+### Um guerreiro com armadura futurista combate um dragão negro que cospe fogo num céu escuro e tempestuoso.
 
 Autor：[@novaXsignals](https://x.com/novaXsignals) · [Publicação original](https://x.com/novaXsignals/status/2102629959919624369)
 
 Cena de Cinema / Fotograma · Animal / Criatura · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um guerreiro com armadura futurista combate um dragão negro que cospe fogo num céu escuro e tempestuoso.
 
 <img src="covers/2102629959919624369.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Crie um vídeo cinematográfico de batalha de fantasia de 15 segundos correspondente à referência: 0–1s, um guerreiro com armadura futurista flutua num céu escuro e tempestuoso enquanto um enorme dragão negro voa atrás dele; 1–2s, uma energia azul brilhante envolve o guerreiro enquanto a câmara se aproxima lentamente; 2–3s, o dragão aproxima-se rapidamente através das nuvens e o guerreiro vira-se para ele; 3–5s, o dragão abre a boca e cospe um poderoso jato de fogo laranja brilhante enquanto o guerreiro voa para trás através da tempestade; 5–7s, mostre um grande plano dramático do rosto do dragão e dos seus olhos brilhantes enquanto persegue o guerreiro; 7–9s, o guerreiro enfrenta o dragão no ar com relâmpagos a cintilar atrás deles e energia azul a resplandecer da sua armadura; 9–11s, o dragão ataca novamente com fogo intenso enquanto o guerreiro se esquiva pelas nuvens a alta velocidade; 11–13s, mostre ambas as personagens a voar uma em direção à outra num confronto aéreo épico, com fogo e energia azul a iluminar a tempestade; 13–15s, o guerreiro afasta-se subitamente para as nuvens enquanto o dragão o segue, terminando num plano geral dramático do céu escuro, CGI cinematográfico realista, armadura detalhada, asas maciças de dragão, nuvens volumétricas, movimento dinâmico de câmara, iluminação dramática, alto detalhe, qualidade 4K.
 ```
 
 [↑ Voltar às categorias](#catalog)
