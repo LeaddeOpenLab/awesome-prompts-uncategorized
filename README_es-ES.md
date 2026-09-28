@@ -7847,20 +7847,20 @@ Genera un vídeo fluido de baile de un personaje de anime tomando la primera cas
 
 <a name="prompt-2104368010953978206"></a>
 
-### Traducción en curso
+### Prompt de generación para un personaje masculino guapo de estilo anime 2D y rubio.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicación original](https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206)
 
 Anime / Manga · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de generación para un personaje masculino guapo de estilo anime 2D y rubio.
 
 <img src="images/2104368010953978206-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Kyotaro Suga rubio animación 2D chico guapo
 ```
 
 [↑ Volver a categorías](#catalog)

@@ -7739,20 +7739,20 @@ Generiere ein flüssiges Tanzvideo eines Anime-Charakters, indem das erste Feld 
 
 <a name="prompt-2104368010953978206"></a>
 
-### Übersetzung läuft
+### Generierungs-Prompt für eine blonde hübsche 2D-Anime-Charakterfigur.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Originalbeitrag](https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206)
 
 Anime / Manga · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Generierungs-Prompt für eine blonde hübsche 2D-Anime-Charakterfigur.
 
 <img src="images/2104368010953978206-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Kyotaro Suga blond Animation 2D hübscher Junge
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

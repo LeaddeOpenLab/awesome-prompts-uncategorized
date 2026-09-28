@@ -7769,20 +7769,20 @@ Anime / Manga · Yayımlandı
 
 <a name="prompt-2104368010953978206"></a>
 
-### Çeviri sürüyor
+### Sarışın 2D anime tarzı yakışıklı erkek karakteri oluşturma istemi.
 
 Yazar：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Orijinal gönderi](https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206)
 
 Anime / Manga · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sarışın 2D anime tarzı yakışıklı erkek karakteri oluşturma istemi.
 
 <img src="images/2104368010953978206-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Kyotaro Suga sarışın animasyon 2D yakışıklı erkek
 ```
 
 [↑ Kategorilere dön](#catalog)

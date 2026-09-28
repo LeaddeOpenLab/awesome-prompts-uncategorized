@@ -7769,20 +7769,20 @@ Gere um vídeo fluido de dança de um personagem de anime utilizando o primeiro 
 
 <a name="prompt-2104368010953978206"></a>
 
-### Tradução em andamento
+### Prompt de geração para um personagem masculino bonito estilo anime 2D e loiro.
 
 Autor：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publicação original](https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206)
 
 Anime / Mangá · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de geração para um personagem masculino bonito estilo anime 2D e loiro.
 
 <img src="images/2104368010953978206-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Kyotaro Suga loiro animação 2D rapaz bonito
 ```
 
 [↑ Voltar às categorias](#catalog)

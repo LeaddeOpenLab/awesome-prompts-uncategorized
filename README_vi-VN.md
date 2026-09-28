@@ -7846,20 +7846,20 @@ Tạo video nhân vật anime nhảy múa mượt mà bằng cách lấy ô đ�
 
 <a name="prompt-2104368010953978206"></a>
 
-### Đang dịch
+### Lời nhắc tạo nhân vật trai đẹp phong cách anime 2D tóc vàng.
 
 Tác giả：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Bài gốc](https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206)
 
 Anime / Manga · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc tạo nhân vật trai đẹp phong cách anime 2D tóc vàng.
 
 <img src="images/2104368010953978206-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Suga Kyotaro tóc vàng hoạt hình 2D trai đẹp
 ```
 
 [↑ Về danh mục](#catalog)

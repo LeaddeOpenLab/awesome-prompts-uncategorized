@@ -7739,20 +7739,20 @@ Générer une vidéo fluide de danse d'un personnage d'anime en prenant la premi
 
 <a name="prompt-2104368010953978206"></a>
 
-### Traduction en cours
+### Prompt de génération d'un personnage de beau gosse style anime 2D aux cheveux blonds.
 
 Auteur：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Publication originale](https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206)
 
 Anime / Manga · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de génération d'un personnage de beau gosse style anime 2D aux cheveux blonds.
 
 <img src="images/2104368010953978206-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Kyotaro Suga blond animation 2D beau gosse
 ```
 
 [↑ Retour aux catégories](#catalog)

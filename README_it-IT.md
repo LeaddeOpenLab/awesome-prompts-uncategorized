@@ -7739,20 +7739,20 @@ Genera un video fluido di danza di un personaggio anime prendendo il primo riqua
 
 <a name="prompt-2104368010953978206"></a>
 
-### Traduzione in corso
+### Prompt di generazione per un personaggio di bel ragazzo in stile anime 2D con capelli biondi.
 
 Autore：[@AUrbNUMjfxj85IS](https://x.com/AUrbNUMjfxj85IS) · [Post originale](https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206)
 
 Anime / Manga · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt di generazione per un personaggio di bel ragazzo in stile anime 2D con capelli biondi.
 
 <img src="images/2104368010953978206-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Kyotaro Suga biondo animazione 2D bel ragazzo
 ```
 
 [↑ Torna alle categorie](#catalog)
