@@ -10780,20 +10780,20 @@ Photographie · Rétro / Vintage · Portrait / Selfie · Article de mode · Publ
 
 <a name="prompt-2104346848970317996"></a>
 
-### Traduction en cours
+### Illustration cyberpunk d'un pilote dans un cockpit avec une visière lumineuse, une veste dorée et des orthèses de jambe mécaniques en laiton.
 
 Auteur：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publication originale](https://x.com/RobotCleopatra/status/2104346848970317996)
 
 Illustration · Cyberpunk / Science-fiction · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Illustration cyberpunk d'un pilote dans un cockpit avec une visière lumineuse, une veste dorée et des orthèses de jambe mécaniques en laiton.
 
 <img src="images/2104346848970317996-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+une illustration cyberpunk complexe d'un pilote allongé dans un cockpit rempli de câbles et de tuyaux. le pilote porte des lunettes à visière orange luminescente, une veste dorée à texture métallique, un jean et des orthèses de jambe mécaniques en laiton qui couvrent ses tibias et ses genoux. plusieurs colliers en or sont visibles. sur la droite, un moniteur bleu lumineux affiche des vagues de données. la palette de couleurs générale présente des tons chauds d'or et d'orange contrastant avec des bleus froids et des tons métalliques sombres.
 ```
 
 [↑ Retour aux catégories](#catalog)

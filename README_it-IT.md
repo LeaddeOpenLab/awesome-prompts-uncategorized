@@ -10780,20 +10780,20 @@ Come sarei apparso negli anni '80? Usa la foto allegata come riferimento. Mantie
 
 <a name="prompt-2104346848970317996"></a>
 
-### Traduzione in corso
+### Illustrazione cyberpunk di un pilota in una cabina di pilotaggio con visiera luminosa, giacca dorata e tutori meccanici per le gambe in ottone.
 
 Autore：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Post originale](https://x.com/RobotCleopatra/status/2104346848970317996)
 
 Illustrazione · Cyberpunk / Sci-Fi · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Illustrazione cyberpunk di un pilota in una cabina di pilotaggio con visiera luminosa, giacca dorata e tutori meccanici per le gambe in ottone.
 
 <img src="images/2104346848970317996-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+un'intricata illustrazione cyberpunk di un pilota reclinato in una cabina di pilotaggio piena di cavi e tubi. il pilota indossa occhiali a visiera arancioni luminescenti, una giacca con texture metallica dorata, jeans e tutori meccanici per le gambe in ottone che coprono stinchi e ginocchia. sono visibili diverse collane d'oro. sulla destra, un monitor blu brillante mostra onde di dati. la tavolozza complessiva dei colori presenta caldi toni oro e arancione in contrasto con blu freddi e tonalità metalliche scure.
 ```
 
 [↑ Torna alle categorie](#catalog)

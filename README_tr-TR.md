@@ -10800,20 +10800,20 @@ Fotoğrafçılık · Retro / Vintage · Portre / Selfie · Moda Ürünü · Yay�
 
 <a name="prompt-2104346848970317996"></a>
 
-### Çeviri sürüyor
+### Parlayan siperlikli, altın rengi ceketli ve pirinç mekanik bacak destekli kokpitteki bir pilotun siberpunk illüstrasyonu.
 
 Yazar：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Orijinal gönderi](https://x.com/RobotCleopatra/status/2104346848970317996)
 
 İllüstrasyon · Siberpunk / Bilim Kurgu · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Parlayan siperlikli, altın rengi ceketli ve pirinç mekanik bacak destekli kokpitteki bir pilotun siberpunk illüstrasyonu.
 
 <img src="images/2104346848970317996-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+kablolar ve hortumlarla dolu bir kokpitte arkasına yaslanmış bir pilotun karmaşık bir siberpunk illüstrasyonu. pilot parlak turuncu siperlikli gözlükler, altın metalik dokulu bir ceket, kot pantolon ve incik kemikleri ile dizlerini kaplayan pirinç mekanik bacak destekleri takıyor. birden fazla altın kolye görülebiliyor. sağ tarafta, parlayan mavi bir monitör veri dalgalarını gösteriyor. genel renk paleti, soğuk maviler ve koyu metalik tonlarla tezat oluşturan sıcak altın ve turuncu tonlara sahiptir.
 ```
 
 [↑ Kategorilere dön](#catalog)

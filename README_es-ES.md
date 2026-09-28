@@ -10886,20 +10886,20 @@ Fotografía · Retro / Vintage · Retrato / Selfie · Artículo de moda · Publi
 
 <a name="prompt-2104346848970317996"></a>
 
-### Traducción en curso
+### Ilustración ciberpunk de un piloto en una cabina con visera brillante, chaqueta dorada y aparatos mecánicos de latón en las piernas.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicación original](https://x.com/RobotCleopatra/status/2104346848970317996)
 
 Ilustración · Ciberpunk / Ciencia ficción · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Ilustración ciberpunk de un piloto en una cabina con visera brillante, chaqueta dorada y aparatos mecánicos de latón en las piernas.
 
 <img src="images/2104346848970317996-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+una intrincada ilustración ciberpunk de un piloto recostado en una cabina llena de cables y mangueras. el piloto lleva gafas de visera naranja brillante, una chaqueta dorada de textura metálica, vaqueros y aparatos mecánicos de latón en las piernas que le cubren las espinillas y las rodillas. se aprecian múltiples collares de oro. a la derecha, un monitor azul brillante muestra ondas de datos. la paleta de colores general presenta dorados y naranjas cálidos en contraste con azules fríos y tonos metálicos oscuros.
 ```
 
 [↑ Volver a categorías](#catalog)

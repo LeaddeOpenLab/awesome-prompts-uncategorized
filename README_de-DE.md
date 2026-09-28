@@ -10780,20 +10780,20 @@ Wie hätte ich in den 1980er-Jahren ausgesehen? Verwende das beigefügte Foto al
 
 <a name="prompt-2104346848970317996"></a>
 
-### Übersetzung läuft
+### Cyberpunk-Illustration eines Piloten in einem Cockpit mit leuchtendem Visier, goldener Jacke und mechanischen Beinschienen aus Messing.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Originalbeitrag](https://x.com/RobotCleopatra/status/2104346848970317996)
 
 Illustration · Cyberpunk / Sci-Fi · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Cyberpunk-Illustration eines Piloten in einem Cockpit mit leuchtendem Visier, goldener Jacke und mechanischen Beinschienen aus Messing.
 
 <img src="images/2104346848970317996-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+eine detailreiche Cyberpunk-Illustration eines Piloten, der in einem Cockpit voller Kabel und Schläuche zurückgelehnt sitzt. Der Pilot trägt eine leuchtend orangefarbene Visierbrille, eine goldene Jacke mit metallischer Textur, Jeans und mechanische Beinschienen aus Messing, die Schienbeine und Knie bedecken. Mehrere Goldketten sind sichtbar. Rechts zeigt ein leuchtend blauer Monitor Datenwellen an. Die gesamte Farbpalette zeichnet sich durch warme Gold- und Orangetöne aus, die mit kühlen Blau- und dunklen Metalltönen kontrastieren.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

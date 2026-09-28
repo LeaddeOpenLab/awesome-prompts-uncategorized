@@ -10800,20 +10800,20 @@ Como teria sido o meu aspeto nos anos 1980? Usa a fotografia em anexo como refer
 
 <a name="prompt-2104346848970317996"></a>
 
-### Tradução em curso
+### Ilustração cyberpunk de um piloto num cockpit com viseira brilhante, casaco dourado e suportes mecânicos de latão para as pernas.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicação original](https://x.com/RobotCleopatra/status/2104346848970317996)
 
 Ilustração · Cyberpunk / Ficção Científica · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Ilustração cyberpunk de um piloto num cockpit com viseira brilhante, casaco dourado e suportes mecânicos de latão para as pernas.
 
 <img src="images/2104346848970317996-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+uma intrincada ilustração cyberpunk de um piloto reclinado num cockpit repleto de fios e mangueiras. o piloto usa óculos de viseira laranja brilhante, um casaco dourado de textura metálica, calças de ganga e suportes mecânicos de latão para as pernas que lhe cobrem as canelas e os joelhos. são visíveis vários colares de ouro. à direita, um monitor azul brilhante apresenta ondas de dados. a paleta de cores geral inclui tons quentes de dourado e laranja em contraste com azuis frios e tons metálicos escuros.
 ```
 
 [↑ Voltar às categorias](#catalog)

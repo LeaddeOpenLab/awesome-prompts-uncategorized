@@ -10885,20 +10885,20 @@ Tôi sẽ trông như thế nào vào những năm 1980? Hãy sử dụng bức 
 
 <a name="prompt-2104346848970317996"></a>
 
-### Đang dịch
+### Hình minh họa cyberpunk về một phi công trong buồng lái với kính bảo hộ phát sáng, áo khoác màu vàng ánh kim và nẹp chân cơ học bằng đồng thau.
 
 Tác giả：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Bài gốc](https://x.com/RobotCleopatra/status/2104346848970317996)
 
 Minh họa · Cyberpunk / Khoa học viễn tưởng · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Hình minh họa cyberpunk về một phi công trong buồng lái với kính bảo hộ phát sáng, áo khoác màu vàng ánh kim và nẹp chân cơ học bằng đồng thau.
 
 <img src="images/2104346848970317996-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+hình minh họa cyberpunk tinh xảo về một phi công đang ngả lưng trong buồng lái chứa đầy dây điện và ống mềm. phi công đeo kính bảo hộ màu cam phát sáng, mặc áo khoác có vân kim loại màu vàng ánh kim, quần jean và nẹp chân cơ học bằng đồng thau che kín cẳng chân và đầu gối. có thể nhìn thấy nhiều dây chuyền vàng. ở bên phải, màn hình phát sáng màu xanh lam hiển thị các sóng dữ liệu. bảng màu tổng thể nổi bật với tông màu vàng ánh kim và cam ấm áp tương phản với tông màu xanh lam mát mẻ và kim loại tối màu.
 ```
 
 [↑ Về danh mục](#catalog)

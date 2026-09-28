@@ -10800,20 +10800,20 @@ Como eu teria parecido nos anos 1980? Use a foto anexada como referência. Prese
 
 <a name="prompt-2104346848970317996"></a>
 
-### Tradução em andamento
+### Ilustração cyberpunk de um piloto em um cockpit com visor brilhante, jaqueta dourada e aparelhos mecânicos de latão nas pernas.
 
 Autor：[@RobotCleopatra](https://x.com/RobotCleopatra) · [Publicação original](https://x.com/RobotCleopatra/status/2104346848970317996)
 
 Ilustração · Cyberpunk / Ficção Científica · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Ilustração cyberpunk de um piloto em um cockpit com visor brilhante, jaqueta dourada e aparelhos mecânicos de latão nas pernas.
 
 <img src="images/2104346848970317996-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+uma intrincada ilustração cyberpunk de um piloto reclinado em um cockpit cheio de fios e mangueiras. o piloto usa óculos de visor laranja brilhante, uma jaqueta dourada de textura metálica, jeans e aparelhos mecânicos de latão nas pernas que cobrem suas canelas e joelhos. vários colares de ouro são visíveis. à direita, um monitor azul brilhante exibe ondas de dados. a paleta de cores geral apresenta tons quentes de dourado e laranja contrastando com azuis frios e tons metálicos escuros.
 ```
 
 [↑ Voltar às categorias](#catalog)
