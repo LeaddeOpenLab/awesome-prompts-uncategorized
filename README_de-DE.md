@@ -35,20 +35,20 @@ Gib diesem Repository einen Stern, um unsere tägliche Prompt-Auswahl und neue k
 
 <a name="prompt-2104366551218450497"></a>
 
-### Übersetzung läuft
+### Ein fotorealistisches Porträt einer Frau mit bestickter Baskenmütze und Blumenjacke, die in einem Straßencafé bei Kaffee, einem Croissant und Kirschblüten über ihr sitzt.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Originalbeitrag](https://x.com/__Libra1/status/2104366551218450497)
 
 Fotografie · Porträt / Selfie · Charakter · Essen / Trinken · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Ein fotorealistisches Porträt einer Frau mit bestickter Baskenmütze und Blumenjacke, die in einem Straßencafé bei Kaffee, einem Croissant und Kirschblüten über ihr sitzt.
 
 <img src="images/2104366551218450497-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ein fotorealistisches Porträt einer jungen Frau mit langen, welligen braunen Haaren, die eine schwarze Baskenmütze mit rosa Blumenstickerei, eine cremefarbene bestickte Blumenjacke über einem beigen Strickoberteil, mehrlagige Goldketten und Creolen trägt. Sie sitzt an einem rustikalen Holztisch eines Straßencafés und blickt sanft zur Seite. Auf dem Tisch stehen ein Latte mit Latte-Art, ein Mandelcroissant auf einem Keramikteller, eine kleine Glasvase mit Trockenblumen und verstreute Kirschblütenblätter. Über ihr schaffen blühende rosa Kirschblüten und warme Lichterketten eine gemütliche Garten-Café-Atmosphäre. Sanftes goldenes Licht, hochdetailliert,..
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

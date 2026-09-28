@@ -35,20 +35,20 @@ Ajoutez une étoile à ce dépôt pour suivre notre sélection quotidienne de pr
 
 <a name="prompt-2104366551218450497"></a>
 
-### Traduction en cours
+### Un portrait photoréaliste d'une femme portant un béret brodé et une veste fleurie, assise à la terrasse d'un café avec un café, un croissant et des fleurs de cerisier au-dessus d'elle.
 
 Auteur：[@\_\_Libra1](https://x.com/__Libra1) · [Publication originale](https://x.com/__Libra1/status/2104366551218450497)
 
 Photographie · Portrait / Selfie · Personnage · Alimentation / Boissons · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Un portrait photoréaliste d'une femme portant un béret brodé et une veste fleurie, assise à la terrasse d'un café avec un café, un croissant et des fleurs de cerisier au-dessus d'elle.
 
 <img src="images/2104366551218450497-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Un portrait photoréaliste d'une jeune femme aux longs cheveux bruns ondulés, portant un béret noir brodé de fleurs roses, une veste crème brodée de motifs floraux sur un haut en tricot beige, des colliers dorés superposés et des créoles. Elle est assise à une table rustique en bois sur la terrasse d'un café, regardant doucement sur le côté. Sur la table se trouvent un café latte avec du latte art, un croissant aux amandes sur une assiette en céramique, un petit vase en verre avec des fleurs séchées et des pétales de fleurs de cerisier éparpillés. Au-dessus d'elle, des cerisiers en fleurs roses et des guirlandes lumineuses chaleureuses créent une atmosphère douillette de café de jardin. Éclairage doré et doux, très détaillé,..
 ```
 
 [↑ Retour aux catégories](#catalog)

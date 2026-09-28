@@ -35,20 +35,20 @@ Marca este repositorio con una estrella para seguir nuestra selección diaria e 
 
 <a name="prompt-2104366551218450497"></a>
 
-### Traducción en curso
+### Un retrato fotorrealista de una mujer con boina bordada y chaqueta floral sentada en una cafetería al aire libre con café, un croissant y flores de cerezo sobre ella.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicación original](https://x.com/__Libra1/status/2104366551218450497)
 
 Fotografía · Retrato / Selfie · Personaje · Comida / Bebida · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Un retrato fotorrealista de una mujer con boina bordada y chaqueta floral sentada en una cafetería al aire libre con café, un croissant y flores de cerezo sobre ella.
 
 <img src="images/2104366551218450497-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Un retrato fotorrealista de una mujer joven con cabello largo y ondulado de color castaño, que lleva una boina negra con bordados florales rosas, una chaqueta bordada en tono crema con motivos florales sobre una camiseta de punto beige, collares dorados superpuestos y pendientes de aro. Está sentada en una mesa rústica de madera en una cafetería al aire libre, mirando suavemente hacia un lado. Sobre la mesa hay un café con leche con arte latte, un croissant de almendras en un plato de cerámica, un pequeño jarrón de cristal con flores secas y pétalos de flor de cerezo esparcidos. En la parte superior, flores de cerezo rosas en flor y cálidas luces de guirnalda crean una acogedora atmósfera de cafetería en el jardín. Iluminación dorada suave, muy detallada,..
 ```
 
 [↑ Volver a categorías](#catalog)

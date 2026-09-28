@@ -35,20 +35,20 @@ Dê uma estrela a este repositório para acompanhar nossa seleção diária de p
 
 <a name="prompt-2104366551218450497"></a>
 
-### Tradução em andamento
+### Um retrato fotorrealista de uma mulher de boina bordada e jaqueta floral sentada em um café ao ar livre com café, um croissant e flores de cerejeira acima.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicação original](https://x.com/__Libra1/status/2104366551218450497)
 
 Fotografia · Retrato / Selfie · Personagem · Alimentos / Bebidas · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Um retrato fotorrealista de uma mulher de boina bordada e jaqueta floral sentada em um café ao ar livre com café, um croissant e flores de cerejeira acima.
 
 <img src="images/2104366551218450497-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+Um retrato fotorrealista de uma jovem mulher com longos cabelos castanhos ondulados, usando uma boina preta com bordados florais cor-de-rosa, uma jaqueta floral bordada em tom creme sobre uma blusa de tricô bege, colares dourados em camadas e brincos de argola. Ela está sentada em uma mesa rústica de madeira na área externa de um café, olhando suavemente para o lado. Sobre a mesa estão um latte com latte art, um croissant de amêndoas em um prato de cerâmica, um pequeno vaso de vidro com flores secas e pétalas de cerejeira espalhadas. Acima, flores de cerejeira cor-de-rosa desabrochando e um cordão de luzes quentes criam uma atmosfera aconchegante de café no jardim. Iluminação dourada suave, altamente detalhada,..
 ```
 
 [↑ Voltar às categorias](#catalog)

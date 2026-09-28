@@ -35,20 +35,20 @@ Adicione uma estrela a este repositório para acompanhar a nossa seleção diár
 
 <a name="prompt-2104366551218450497"></a>
 
-### Tradução em curso
+### Um retrato fotorrealista de uma mulher com boina bordada e casaco floral sentada na esplanada de um café com café, um croissant e flores de cerejeira por cima.
 
 Autor：[@\_\_Libra1](https://x.com/__Libra1) · [Publicação original](https://x.com/__Libra1/status/2104366551218450497)
 
 Fotografia · Retrato / Selfie · Personagem · Comida / Bebida · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Um retrato fotorrealista de uma mulher com boina bordada e casaco floral sentada na esplanada de um café com café, um croissant e flores de cerejeira por cima.
 
 <img src="images/2104366551218450497-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Um retrato fotorrealista de uma jovem mulher com cabelos longos ondulados castanhos, a usar uma boina preta com bordados florais cor-de-rosa, um casaco bordado floral em tom creme sobre uma camisola de malha bege, colares dourados em camadas e brincos de argola. Ela está sentada a uma mesa rústica de madeira na esplanada de um café, a olhar suavemente para o lado. Sobre a mesa estão um galão com arte latte, um croissant de amêndoas num prato de cerâmica, uma pequena jarra de vidro com flores secas e pétalas de cerejeira dispersas. Por cima, flores de cerejeira cor-de-rosa em flor e grinaldas de luzes quentes criam uma atmosfera acolhedora de café de jardim. Iluminação dourada suave, altamente detalhada,..
 ```
 
 [↑ Voltar às categorias](#catalog)

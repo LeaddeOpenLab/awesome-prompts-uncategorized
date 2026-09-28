@@ -35,20 +35,20 @@ Gắn sao kho này để theo dõi câu lệnh tuyển chọn hằng ngày và t
 
 <a name="prompt-2104366551218450497"></a>
 
-### Đang dịch
+### Bức chân dung chân thực như ảnh chụp của một người phụ nữ đội mũ nồi thêu và mặc áo khoác hoa ngồi tại quán cà phê ngoài trời với cà phê, bánh sừng bò và hoa anh đào phía trên.
 
 Tác giả：[@\_\_Libra1](https://x.com/__Libra1) · [Bài gốc](https://x.com/__Libra1/status/2104366551218450497)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Thực phẩm / Đồ uống · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bức chân dung chân thực như ảnh chụp của một người phụ nữ đội mũ nồi thêu và mặc áo khoác hoa ngồi tại quán cà phê ngoài trời với cà phê, bánh sừng bò và hoa anh đào phía trên.
 
 <img src="images/2104366551218450497-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Bức chân dung chân thực như ảnh chụp của một phụ nữ trẻ với mái tóc nâu dài uốn lượn sóng, đội mũ nồi đen thêu hoa màu hồng, mặc áo khoác màu kem thêu hoa bên ngoài áo dệt kim màu be, đeo dây chuyền vàng nhiều lớp và hoa tai tròn. Cô ngồi bên chiếc bàn gỗ mộc mạc ngoài trời của quán cà phê, ánh mắt nhìn nhẹ nhàng sang một bên. Trên bàn là một tách latte với nghệ thuật tạo bọt latte art, một chiếc bánh sừng bò hạnh nhân trên đĩa gốm, một bình thủy tinh nhỏ cắm hoa khô và những cánh hoa anh đào vương vãi. Phía trên đầu, hoa anh đào hồng nở rộ cùng dải đèn dây ấm áp tạo nên không gian quán cà phê sân vườn ấm cúng. Ánh sáng vàng dịu nhẹ, độ chi tiết cao,..
 ```
 
 [↑ Về danh mục](#catalog)

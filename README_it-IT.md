@@ -35,20 +35,20 @@ Aggiungi una stella a questo repository per seguire i prompt selezionati ogni gi
 
 <a name="prompt-2104366551218450497"></a>
 
-### Traduzione in corso
+### Un ritratto fotorealistico di una donna con un berretto ricamato e una giacca floreale seduta in un caffè all'aperto con caffè, un cornetto e fiori di ciliegio sopra di lei.
 
 Autore：[@\_\_Libra1](https://x.com/__Libra1) · [Post originale](https://x.com/__Libra1/status/2104366551218450497)
 
 Fotografia · Ritratto / Selfie · Personaggio · Cibo / Bevande · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Un ritratto fotorealistico di una donna con un berretto ricamato e una giacca floreale seduta in un caffè all'aperto con caffè, un cornetto e fiori di ciliegio sopra di lei.
 
 <img src="images/2104366551218450497-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Un ritratto fotorealistico di una giovane donna con lunghi capelli castani ondulati, che indossa un berretto nero con ricami floreali rosa, una giacca color crema con ricami floreali sopra un top in maglia beige, collane dorate a strati e orecchini a cerchio. È seduta a un tavolo rustico in legno all'aperto di un caffè, con lo sguardo rivolto dolcemente di lato. Sul tavolo ci sono un caffellatte con latte art, un cornetto alle mandorle su un piatto di ceramica, un piccolo vaso di vetro con fiori secchi e petali di fiori di ciliegio sparsi. Sopra di lei, fiori di ciliegio rosa che sbocciano e calde lucine creano un'accogliente atmosfera da caffè in giardino. Luce dorata soffusa, altamente dettagliata,..
 ```
 
 [↑ Torna alle categorie](#catalog)

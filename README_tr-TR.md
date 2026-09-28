@@ -35,20 +35,20 @@ Günlük istem seçkimizi ve yeni yaratıcı fikirleri takip etmek için bu depo
 
 <a name="prompt-2104366551218450497"></a>
 
-### Çeviri sürüyor
+### Açık havada bir kafede kahve, kruvasan ve başının üzerinde kiraz çiçekleri ile oturan, işlemeli bere ve çiçek desenli ceket giymiş bir kadının fotogerçekçi portresi.
 
 Yazar：[@\_\_Libra1](https://x.com/__Libra1) · [Orijinal gönderi](https://x.com/__Libra1/status/2104366551218450497)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yiyecek / İçecek · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Açık havada bir kafede kahve, kruvasan ve başının üzerinde kiraz çiçekleri ile oturan, işlemeli bere ve çiçek desenli ceket giymiş bir kadının fotogerçekçi portresi.
 
 <img src="images/2104366551218450497-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Dalgalı uzun kahverengi saçlı, pembe çiçek işlemeli siyah bir bere, bej triko bluz üzerine krem rengi çiçek işlemeli bir ceket, üst üste takılmış altın kolyeler ve halka küpeler takmış genç bir kadının fotogerçekçi bir portresi. Açık hava bir kafenin rustik ahşap masasında oturuyor, nazikçe yana doğru bakıyor. Masada latte art yapılmış bir latte, seramik tabakta bademli bir kruvasan, içinde kurutulmuş çiçekler bulunan küçük bir cam vazo ve etrafa saçılmış kiraz çiçeği yaprakları var. Başının üstünde, açmış pembe kiraz çiçekleri ve sıcak ışık şeritleri samimi bir bahçe kafesi atmosferi yaratıyor. Yumuşak altın rengi aydınlatma, son derece ayrıntılı,..
 ```
 
 [↑ Kategorilere dön](#catalog)
