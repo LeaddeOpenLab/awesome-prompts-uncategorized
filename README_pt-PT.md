@@ -11255,20 +11255,20 @@ Tradução em curso
 
 <a name="prompt-2104344014505840735"></a>
 
-### Tradução em curso
+### Bal Krishna a comer manteiga de forma brincalhona em Vrindavan com pavões e lótus.
 
 Autor：[@AnkushThampy](https://x.com/AnkushThampy) · [Publicação original](https://x.com/AnkushThampy/status/2104344014505840735)
 
 Outros · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Bal Krishna a comer manteiga de forma brincalhona em Vrindavan com pavões e lótus.
 
 <img src="covers/2104344014505840735.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+Dê vida a Bal Krishna num jardim mágico de Vrindavan—roubando makhan de forma brincalhona, cercado por pavões, lótus em flor e uma luz matinal dourada. Movimentos suaves, sorriso travesso, movimento de câmara cinematográfico, atmosfera divina, pormenores realistas e uma pacífica música de bansuri. Cinema devocional 4K ultrarrealista.
 ```
 
 [↑ Voltar às categorias](#catalog)

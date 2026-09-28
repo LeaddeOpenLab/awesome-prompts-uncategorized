@@ -11235,20 +11235,20 @@ Traducción en curso
 
 <a name="prompt-2104344014505840735"></a>
 
-### Traducción en curso
+### Bal Krishna comiendo mantequilla juguetonamente en Vrindavan con pavos reales y lotos.
 
 Autor：[@AnkushThampy](https://x.com/AnkushThampy) · [Publicación original](https://x.com/AnkushThampy/status/2104344014505840735)
 
 Otros · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Bal Krishna comiendo mantequilla juguetonamente en Vrindavan con pavos reales y lotos.
 
 <img src="covers/2104344014505840735.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+Da vida a Bal Krishna en un mágico jardín de Vrindavan, robando makhan juguetonamente, rodeado de pavos reales, lotos en flor y una dorada luz matutina. Movimientos suaves, sonrisa traviesa, movimiento de cámara cinematográfico, atmósfera divina, detalles realistas y una pacífica música de bansuri. Cine devocional ultrarrealista en 4K.
 ```
 
 [↑ Volver a categorías](#catalog)

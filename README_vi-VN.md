@@ -11352,20 +11352,20 @@ Bài gốc：[@soranomk2](https://x.com/soranomk2) · [Bài gốc](https://x.com
 
 <a name="prompt-2104344014505840735"></a>
 
-### Đang dịch
+### Bal Krishna tinh nghịch ăn bơ ở Vrindavan cùng chim công và hoa sen.
 
 Tác giả：[@AnkushThampy](https://x.com/AnkushThampy) · [Bài gốc](https://x.com/AnkushThampy/status/2104344014505840735)
 
 Khác · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Bal Krishna tinh nghịch ăn bơ ở Vrindavan cùng chim công và hoa sen.
 
 <img src="covers/2104344014505840735.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+Tái hiện hình ảnh Bal Krishna sống động trong khu vườn Vrindavan kỳ diệu—tinh nghịch ăn trộm makhan (bơ), xung quanh là những chú công, hoa sen nở rộ và ánh ban mai vàng ươm. Chuyển động nhẹ nhàng, nụ cười tinh nghịch, góc máy điện ảnh, bầu không khí thần thánh, chi tiết chân thực và tiếng sáo bansuri thanh bình. Điện ảnh sùng đạo 4K siêu thực.
 ```
 
 [↑ Về danh mục](#catalog)

@@ -11235,20 +11235,20 @@ Traduction en cours
 
 <a name="prompt-2104344014505840735"></a>
 
-### Traduction en cours
+### Bal Krishna mangeant malicieusement du beurre à Vrindavan avec des paons et des lotus.
 
 Auteur：[@AnkushThampy](https://x.com/AnkushThampy) · [Publication originale](https://x.com/AnkushThampy/status/2104344014505840735)
 
 Autres · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Bal Krishna mangeant malicieusement du beurre à Vrindavan avec des paons et des lotus.
 
 <img src="covers/2104344014505840735.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+Donnez vie à Bal Krishna dans un jardin magique de Vrindavan—volant malicieusement du makhan, entouré de paons, de lotus en fleurs et d'une lumière matinale dorée. Mouvements doux, sourire espiègle, mouvements de caméra cinématiques, atmosphère divine, détails réalistes et musique paisible de bansuri. Cinéma dévotionnel 4K ultra-réaliste.
 ```
 
 [↑ Retour aux catégories](#catalog)

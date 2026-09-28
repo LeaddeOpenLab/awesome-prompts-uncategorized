@@ -11255,20 +11255,20 @@ Orijinal gönderi：[@soranomk2](https://x.com/soranomk2) · [Orijinal gönderi]
 
 <a name="prompt-2104344014505840735"></a>
 
-### Çeviri sürüyor
+### Bal Krishna, Vrindavan'da tavus kuşları ve nilüferlerle birlikte muzipçe tereyağı yiyor.
 
 Yazar：[@AnkushThampy](https://x.com/AnkushThampy) · [Orijinal gönderi](https://x.com/AnkushThampy/status/2104344014505840735)
 
 Diğer · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Bal Krishna, Vrindavan'da tavus kuşları ve nilüferlerle birlikte muzipçe tereyağı yiyor.
 
 <img src="covers/2104344014505840735.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+Büyülü bir Vrindavan bahçesinde Bal Krishna'ya hayat verin—tavus kuşları, açan nilüferler ve altın rengi sabah ışığıyla çevrili bir halde muzipçe makhan çalıyor. Nazik hareketler, yaramaz bir gülümseme, sinematik kamera hareketi, ilahi atmosfer, gerçekçi ayrıntılar ve huzurlu bansuri müziği. Ultra gerçekçi 4K adanmışlık sineması.
 ```
 
 [↑ Kategorilere dön](#catalog)

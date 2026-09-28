@@ -11235,20 +11235,20 @@ Traduzione in corso
 
 <a name="prompt-2104344014505840735"></a>
 
-### Traduzione in corso
+### Bal Krishna mangia giocosamente il burro a Vrindavan tra pavoni e fiori di loto.
 
 Autore：[@AnkushThampy](https://x.com/AnkushThampy) · [Post originale](https://x.com/AnkushThampy/status/2104344014505840735)
 
 Altro · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Bal Krishna mangia giocosamente il burro a Vrindavan tra pavoni e fiori di loto.
 
 <img src="covers/2104344014505840735.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+Dai vita a Bal Krishna in un magico giardino di Vrindavan—mentre ruba giocosamente il makhan, circondato da pavoni, fiori di loto sbocciati e luce dorata del mattino. Movimenti delicati, sorriso malizioso, movimenti di macchina cinematografici, atmosfera divina, dettagli realistici e rilassante musica di bansuri. Cinema devozionale ultra-realistico in 4K.
 ```
 
 [↑ Torna alle categorie](#catalog)
