@@ -11215,7 +11215,7 @@ Traduction en cours
 
 <a name="prompt-2104375790141850010"></a>
 
-### Traduction en cours
+### Prompt de portrait gothique sombre représentant une reine sorcière-araignée avec des cornes, des toiles lumineuses et des touches d'Halloween.
 
 Auteur：[@runaroseee](https://x.com/runaroseee) · [Publication originale](https://x.com/runaroseee/status/2104375790141850010)
 
@@ -11223,7 +11223,7 @@ Portrait / Selfie · Publié
 
 Publication originale：[@runaroseee](https://x.com/runaroseee) · [Publication originale](https://x.com/runaroseee/status/2100872958935789824)
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait gothique sombre représentant une reine sorcière-araignée avec des cornes, des toiles lumineuses et des touches d'Halloween.
 
 <img src="images/2104375790141850010-1.jpg" alt="Image 1" width="480" />
 
@@ -11232,7 +11232,7 @@ Publication originale：[@runaroseee](https://x.com/runaroseee) · [Publication 
 **Consigne**
 
 ```text
-Traduction en cours
+Portrait d'Halloween gothique sombre ultra-détaillé d'une reine sorcière-araignée pâle, vue de face de trois-quarts, pose debout avec les deux mains abaissées près des hanches, doigts légèrement recourbés, longs cheveux volumineux ondulés brun foncé-noir, petits ornements de tête noirs en forme de cornes décorés de cristaux étincelants et de perles des deux côtés de la tête, peau blanc porcelaine, yeux pâles et glacés au regard froid et intense, fard à paupières noir charbonneux dramatique avec un eyeliner ailé net, fines traînées sombres coulant sous les yeux, lèvres noir mat, boucles d'oreilles pendantes style lustre noires et en cristal, ras-du-cou scintillant en perles noires avec un grand pendentif en pierre précieuse noire, motifs délicats de tatouages en forme de branches et de veines noires s'étendant sur le cou, la poitrine et l'épaule, longs ongles stiletto noirs pointus, robe en paillettes noires à fines bretelles, décolleté en cœur et fente haute sur la cuisse, longs gants de bras mitaines transparents noirs avec détails de perles dorées, immenses toiles d'araignée lumineuses recouvrant l'arrière-plan sombre, atmosphère de nuit brumeuse et sombre, une citrouille sculptée orange faiblement lumineuse dans le coin, tons froids bleu-gris clair de lune avec de petites touches orange chaud, éclairage cinématographique d'ambiance, contraste élevé, faible profondeur de champ, mise au point nette sur le visage, esthétique de conte de fées sombre et lugubre, photographie éditoriale de haute couture, 8k, ultra réaliste --ar 9:16
 ```
 
 [↑ Retour aux catégories](#catalog)

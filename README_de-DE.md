@@ -11215,7 +11215,7 @@ Fotografie · Minimalismus · Charakter · Modeartikel · Veröffentlicht
 
 <a name="prompt-2104375790141850010"></a>
 
-### Übersetzung läuft
+### Dunkel-gotisches Porträt-Prompt, das eine Spinnen-Hexenkönigin mit Hörnern, leuchtenden Netzen und Halloween-Akzenten darstellt.
 
 Autor：[@runaroseee](https://x.com/runaroseee) · [Originalbeitrag](https://x.com/runaroseee/status/2104375790141850010)
 
@@ -11223,7 +11223,7 @@ Porträt / Selfie · Veröffentlicht
 
 Originalbeitrag：[@runaroseee](https://x.com/runaroseee) · [Originalbeitrag](https://x.com/runaroseee/status/2100872958935789824)
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Dunkel-gotisches Porträt-Prompt, das eine Spinnen-Hexenkönigin mit Hörnern, leuchtenden Netzen und Halloween-Akzenten darstellt.
 
 <img src="images/2104375790141850010-1.jpg" alt="Bild 1" width="480" />
 
@@ -11232,7 +11232,7 @@ Originalbeitrag：[@runaroseee](https://x.com/runaroseee) · [Originalbeitrag](h
 **Prompt**
 
 ```text
-Übersetzung läuft
+Ultradetailliertes, dunkel-gotisches Halloween-Porträt einer blassen Spinnen-Hexenkönigin, Dreiviertel-Frontalansicht, stehende Pose mit beiden Händen tief an den Hüften, Finger leicht gekrümmt, langes, welliges, dunkelbraun-schwarzes, voluminöses Haar, kleine schwarze hornförmige Kopfschmuckstücke, verziert mit funkelnden Kristallen und Perlen auf beiden Seiten des Kopfes, porzellanweiße Haut, blasse eisige Augen mit einem kalten, intensiven Blick, dramatischer rauchiger schwarzer Lidschatten mit scharfem Wing-Eyeliner, dünne dunkle Schlieren, die von den Augen herablaufen, mattschwarze Lippen, schwarze und kristallene Kronleuchter-Ohrhänger, funkelndes schwarzes Perlen-Choker-Halsband mit einem großen schwarzen Edelsteinanhänger, zarte schwarze aderartige Zweig-Tattoo-Muster, die sich über Hals, Brust und Schulter ausbreiten, lange scharfe schwarze Stiletto-Nägel, schwarzes Paillettenkleid mit dünnen Trägern, Herzausschnitt und hohem Oberschenkelschlitz, lange schwarze transparente fingerlose Armhandschuhe mit goldenen Perlendetails, riesige leuchtende Spinnennetze, die den dunklen Hintergrund bedecken, dunkle neblige Nachtatmosphäre, ein schwach leuchtender orangefarbener geschnitzter Kürbis in der Ecke, kalte blau-graue mondbeschienene Töne mit kleinen warmen orangefarbenen Akzenten, stimmungsvolle cineastische Beleuchtung, hoher Kontrast, geringe Schärfentiefe, scharfer Fokus auf das Gesicht, dunkle, unheimliche Märchenästhetik, High-Fashion-Editorial-Fotografie, 8k, ultrarealistisch --ar 9:16
 ```
 
 [↑ Zurück zu Kategorien](#catalog)

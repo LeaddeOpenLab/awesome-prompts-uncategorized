@@ -11235,7 +11235,7 @@ Tradução em andamento
 
 <a name="prompt-2104375790141850010"></a>
 
-### Tradução em andamento
+### Prompt de retrato gótico sombrio retratando uma rainha bruxa-aranha com chifres, teias brilhantes e detalhes de Halloween.
 
 Autor：[@runaroseee](https://x.com/runaroseee) · [Publicação original](https://x.com/runaroseee/status/2104375790141850010)
 
@@ -11243,7 +11243,7 @@ Retrato / Selfie · Publicado
 
 Publicação original：[@runaroseee](https://x.com/runaroseee) · [Publicação original](https://x.com/runaroseee/status/2100872958935789824)
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato gótico sombrio retratando uma rainha bruxa-aranha com chifres, teias brilhantes e detalhes de Halloween.
 
 <img src="images/2104375790141850010-1.jpg" alt="Imagem 1" width="480" />
 
@@ -11252,7 +11252,7 @@ Publicação original：[@runaroseee](https://x.com/runaroseee) · [Publicação
 **Prompt**
 
 ```text
-Tradução em andamento
+Retrato de Halloween gótico sombrio ultra-detalhado de uma pálida rainha bruxa-aranha, visão frontal em três quartos, pose em pé com ambas as mãos abaixadas perto dos quadris, dedos ligeiramente curvados, longos cabelos volumosos e ondulados em tom castanho-escuro-preto, pequenos adereços de cabeça pretos em forma de chifres decorados com cristais brilhantes e contas em ambos os lados da cabeça, pele branca de porcelana, olhos gélidos e pálidos com um olhar frio e intenso, dramática sombra preta esfumada com delineador gatinho nítido, finas listras escuras escorrendo dos olhos, lábios pretos foscos, brincos compridos pretos e de cristal tipo candelabro, gargantilha brilhante de contas pretas com um grande pingente de pedra preciosa preta, delicados padrões de tatuagem semelhantes a galhos e veias pretas se espalhando pelo pescoço, peito e ombro, unhas stiletto pretas longas e pontiagudas, vestido de lantejoulas pretas com alças finas, decote coração e fenda alta na coxa, luvas de braço longas pretas transparentes sem dedos com detalhes em contas douradas, teias de aranha gigantes brilhantes cobrindo o fundo escuro, atmosfera de noite escura e enevoada, uma abóbora esculpida laranja de brilho suave no canto, tons frios de luar azul-acinzentado com pequenos toques quentes de laranja, iluminação cinematográfica melancólica, alto contraste, profundidade de campo rasa, foco nítido no rosto, estética de conto de fadas sombrio e assustador, fotografia editorial de alta moda, 8k, ultra realista --ar 9:16
 ```
 
 [↑ Voltar às categorias](#catalog)

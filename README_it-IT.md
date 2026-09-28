@@ -11215,7 +11215,7 @@ Traduzione in corso
 
 <a name="prompt-2104375790141850010"></a>
 
-### Traduzione in corso
+### Prompt per ritratto gotico scuro che raffigura una regina strega-ragno con corna, ragnatele luminose e accenti di Halloween.
 
 Autore：[@runaroseee](https://x.com/runaroseee) · [Post originale](https://x.com/runaroseee/status/2104375790141850010)
 
@@ -11223,7 +11223,7 @@ Ritratto / Selfie · Pubblicato
 
 Post originale：[@runaroseee](https://x.com/runaroseee) · [Post originale](https://x.com/runaroseee/status/2100872958935789824)
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto gotico scuro che raffigura una regina strega-ragno con corna, ragnatele luminose e accenti di Halloween.
 
 <img src="images/2104375790141850010-1.jpg" alt="Immagine 1" width="480" />
 
@@ -11232,7 +11232,7 @@ Post originale：[@runaroseee](https://x.com/runaroseee) · [Post originale](htt
 **Prompt**
 
 ```text
-Traduzione in corso
+Ritratto di Halloween gotico scuro e ultra-dettagliato di una pallida regina strega-ragno, vista frontale a tre quarti, posa eretta con entrambe le mani abbassate vicino ai fianchi, dita leggermente curve, lunghi capelli mossi e voluminosi nero-marroni, piccoli copricapi neri a forma di corno decorati con cristalli scintillanti e perline su entrambi i lati della testa, pelle bianca porcellana, occhi pallidi e glaciali con uno sguardo freddo e intenso, drammatico ombretto nero sfumato con eyeliner alato netto, sottili striature scure che colano dagli occhi, labbra nero opaco, orecchini pendenti a lampadario neri e di cristallo, girocollo scintillante di perline nere con un grande pendente di gemma nera, delicati motivi di tatuaggi simili a rami e vene nere che si diffondono su collo, petto e spalla, unghie stiletto nere lunghe e affilate, abito di paillettes nere con spalline sottili, scollo a cuore e spacco alto sulla coscia, lunghi guanti da braccio neri velati senza dita con dettagli di perline dorate, enormi ragnatele luminose che coprono lo sfondo scuro, atmosfera notturna buia e nebbiosa, una debole zucca intagliata arancione brillante nell'angolo, tonalità fredde blu-grigie al chiaro di luna con piccoli accenti arancioni caldi, illuminazione cinematografica d'atmosfera, contrasto elevato, profondità di campo ridotta, messa a fuoco nitida sul viso, estetica fiabesca oscura e spettrale, fotografia editoriale di alta moda, 8k, ultra realistico --ar 9:16
 ```
 
 [↑ Torna alle categorie](#catalog)

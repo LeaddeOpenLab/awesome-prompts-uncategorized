@@ -11332,7 +11332,7 @@ Nhiếp ảnh · Chủ nghĩa tối giản · Nhân vật · Mặt hàng thời 
 
 <a name="prompt-2104375790141850010"></a>
 
-### Đang dịch
+### Lời nhắc chân dung dark gothic mô tả một nữ hoàng phù thủy nhện với cặp sừng, mạng nhện phát sáng và các chi tiết Halloween.
 
 Tác giả：[@runaroseee](https://x.com/runaroseee) · [Bài gốc](https://x.com/runaroseee/status/2104375790141850010)
 
@@ -11340,7 +11340,7 @@ Chân dung / Ảnh tự chụp · Đã xuất bản
 
 Bài gốc：[@runaroseee](https://x.com/runaroseee) · [Bài gốc](https://x.com/runaroseee/status/2100872958935789824)
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Lời nhắc chân dung dark gothic mô tả một nữ hoàng phù thủy nhện với cặp sừng, mạng nhện phát sáng và các chi tiết Halloween.
 
 <img src="images/2104375790141850010-1.jpg" alt="Hình ảnh 1" width="480" />
 
@@ -11349,7 +11349,7 @@ Bài gốc：[@runaroseee](https://x.com/runaroseee) · [Bài gốc](https://x.c
 **Câu lệnh**
 
 ```text
-Đang dịch
+Chân dung Halloween phong cách dark gothic siêu chi tiết về một nữ hoàng phù thủy nhện nhợt nhạt, góc nhìn ba phần tư phía trước, tư thế đứng với hai tay buông thõng gần hông, các ngón tay hơi cong, mái tóc dài bồng bềnh gợn sóng màu nâu đen sẫm, phụ kiện cài đầu hình sừng nhỏ màu đen đính pha lê và hạt cườm lấp lánh ở hai bên đầu, làn da trắng như sứ, đôi mắt màu băng giá nhợt nhạt với ánh nhìn lạnh lùng sắc bén, phấn mắt màu đen khói đầy kịch tính cùng đường kẻ mắt có đuôi sắc nét, những vệt đen mỏng chảy dài từ khóe mắt, đôi môi màu đen mờ, hoa tai dáng dài hình đèn chùm bằng pha lê và đá đen, vòng choker hạt cườm đen lấp lánh với mặt dây chuyền đá quý lớn màu đen, họa tiết hình xăm nhánh cây dạng mạch máu đen tinh xảo lan tỏa khắp cổ, ngực và vai, móng tay nhọn stiletto màu đen dài và sắc, đầm dạ hội đính sequin đen hai dây mảnh, cổ áo cúp ngực sweetheart và đường xẻ đùi cao, găng tay lửng dài xỏ ngón bằng vải xuyên thấu màu đen với chi tiết đính cườm vàng, mạng nhện khổng lồ phát sáng bao phủ hậu cảnh tối tăm, bầu không khí đêm sương mù u ám, một quả bí ngô điêu khắc màu cam phát sáng le lói trong góc, tông màu ánh trăng xám xanh lạnh lẽo điểm xuyết sắc cam ấm áp nhẹ, ánh sáng điện ảnh đầy tâm trạng, độ tương phản cao, độ sâu trường ảnh nông, lấy nét sắc nét vào khuôn mặt, thẩm mỹ truyện cổ tích u ám rùng rợn, phong cách nhiếp ảnh thời trang cao cấp, 8k, siêu thực --ar 9:16
 ```
 
 [↑ Về danh mục](#catalog)

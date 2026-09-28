@@ -11215,7 +11215,7 @@ Traducción en curso
 
 <a name="prompt-2104375790141850010"></a>
 
-### Traducción en curso
+### Prompt de retrato gótico oscuro que representa a una reina bruja-araña con cuernos, telarañas brillantes y toques de Halloween.
 
 Autor：[@runaroseee](https://x.com/runaroseee) · [Publicación original](https://x.com/runaroseee/status/2104375790141850010)
 
@@ -11223,7 +11223,7 @@ Retrato / Selfie · Publicado
 
 Publicación original：[@runaroseee](https://x.com/runaroseee) · [Publicación original](https://x.com/runaroseee/status/2100872958935789824)
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato gótico oscuro que representa a una reina bruja-araña con cuernos, telarañas brillantes y toques de Halloween.
 
 <img src="images/2104375790141850010-1.jpg" alt="Imagen 1" width="480" />
 
@@ -11232,7 +11232,7 @@ Publicación original：[@runaroseee](https://x.com/runaroseee) · [Publicación
 **Prompt**
 
 ```text
-Traducción en curso
+Retrato de Halloween gótico oscuro y ultra detallado de una reina bruja-araña pálida, vista frontal de tres cuartos, pose de pie con ambas manos bajas cerca de las caderas, dedos ligeramente curvados, cabello voluminoso, largo y ondulado de color marrón oscuro-negro, pequeños tocados negros en forma de cuernos decorados con cristales brillantes y cuentas a ambos lados de la cabeza, piel blanca de porcelana, ojos gélidos y pálidos con una mirada fría e intensa, dramática sombra de ojos negra ahumada con un delineado alado afilado, delgadas líneas oscuras que bajan desde los ojos, labios negros mate, aretes colgantes estilo candelabro de cristal y negro, gargantilla brillante de cuentas negras con un gran colgante de piedra preciosa negra, delicados patrones de tatuajes en forma de ramas y venas negras que se extienden por el cuello, el pecho y el hombro, uñas stiletto negras largas y afiladas, vestido de lentejuelas negras con tirantes finos, escote corazón y una abertura alta en el muslo, guantes largos y transparentes sin dedos de color negro con detalles de cuentas doradas en los brazos, enormes telarañas brillantes que cubren el fondo oscuro, atmósfera de noche oscura y brumosa, una tenue calabaza tallada de color naranja brillante en la esquina, tonos fríos de luz de luna azul grisáceo con pequeños acentos de color naranja cálido, iluminación cinematográfica melancólica, alto contraste, poca profundidad de campo, enfoque nítido en el rostro, estética de cuento de hadas oscuro y espeluznante, fotografía editorial de alta costura, 8k, ultra realista --ar 9:16
 ```
 
 [↑ Volver a categorías](#catalog)

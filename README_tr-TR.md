@@ -11235,7 +11235,7 @@ Fotoğrafçılık · Minimalizm · Karakter · Moda Ürünü · Yayımlandı
 
 <a name="prompt-2104375790141850010"></a>
 
-### Çeviri sürüyor
+### Boynuzları, parlayan ağları ve Cadılar Bayramı esintileriyle bir örümcek-cadı kraliçeyi betimleyen karanlık gotik portre istemi.
 
 Yazar：[@runaroseee](https://x.com/runaroseee) · [Orijinal gönderi](https://x.com/runaroseee/status/2104375790141850010)
 
@@ -11243,7 +11243,7 @@ Portre / Selfie · Yayımlandı
 
 Orijinal gönderi：[@runaroseee](https://x.com/runaroseee) · [Orijinal gönderi](https://x.com/runaroseee/status/2100872958935789824)
 
-**Özet:** Çeviri sürüyor
+**Özet:** Boynuzları, parlayan ağları ve Cadılar Bayramı esintileriyle bir örümcek-cadı kraliçeyi betimleyen karanlık gotik portre istemi.
 
 <img src="images/2104375790141850010-1.jpg" alt="Görsel 1" width="480" />
 
@@ -11252,7 +11252,7 @@ Orijinal gönderi：[@runaroseee](https://x.com/runaroseee) · [Orijinal gönder
 **İstem**
 
 ```text
-Çeviri sürüyor
+Soluk bir örümcek-cadı kraliçenin son derece ayrıntılı, karanlık gotik Cadılar Bayramı portresi, üç çeyrek ön görünüm, her iki eli kalçalarına yakın aşağı indirilmiş ve parmakları hafifçe kıvrılmış ayakta duruş, uzun dalgalı koyu kahverengi-siyah hacimli saçlar, başın her iki yanında ışıltılı kristaller ve boncuklarla süslenmiş boynuz şeklinde küçük siyah başlıklar, porselen beyazı ten, soğuk ve yoğun bakışlı soluk buzlu gözler, keskin kuyruklu eyeliner ile dramatik dumanlı siyah göz farı, gözlerden aşağı süzülen ince koyu çizgiler, mat siyah dudaklar, siyah ve kristal avize tarzı sallantılı küpeler, büyük siyah değerli taş kolyeli ışıltılı siyah boncuklu tasma kolye, boyuna, göğse ve omuza yayılan narin siyah damar benzeri dal dövme desenleri, uzun sivri siyah stiletto tırnaklar, ince askılı, kalp yakalı ve derin yırtmaçlı siyah payetli elbise, altın boncuk detaylı uzun siyah tül parmaksız kol eldivenleri, karanlık arka planı kaplayan devasa parlayan örümcek ağları, karanlık puslu gece atmosferi, köşede hafifçe parlayan turuncu oyulmuş bir balkabağı, küçük sıcak turuncu vurgularla soğuk mavi-gri ay ışığı tonları, kasvetli sinematik aydınlatma, yüksek kontrast, sığ alan derinliği, yüzde keskin odak, karanlık ürkütücü peri masalı estetiği, yüksek moda editoryal fotoğrafçılığı, 8k, ultra gerçekçi --ar 9:16
 ```
 
 [↑ Kategorilere dön](#catalog)
