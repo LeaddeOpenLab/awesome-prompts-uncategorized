@@ -101,20 +101,60 @@ Traduction en cours
 
 <a name="prompt-2104333251720667547"></a>
 
-### Traduction en cours
+### Prompt de portrait photoréaliste de haute qualité représentant une femme japonaise en lingerie de dentelle rose laiteux à broderies florales, levant les yeux avec le sourire en cherchant dans son sac en osier près d'un banc sur une promenade en bord de mer.
 
 Auteur：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publication originale](https://x.com/muse_ai_prompt/status/2104333251720667547)
 
 Photographie · Portrait / Selfie · Personnage · Publié
 
-**Résumé:** Traduction en cours
+**Résumé:** Prompt de portrait photoréaliste de haute qualité représentant une femme japonaise en lingerie de dentelle rose laiteux à broderies florales, levant les yeux avec le sourire en cherchant dans son sac en osier près d'un banc sur une promenade en bord de mer.
 
 <img src="images/2104333251720667547-1.jpg" alt="Image 1" width="480" />
 
 **Consigne**
 
 ```text
-Traduction en cours
+🌟Regard levé sur un banc en bord de mer, brise marine et après-midi rose laiteux🌟
+
+【Sujet et style artistique】  
+Représenter l'instant où, près d'un banc sur une promenade en bord de mer, une femme lève les yeux en sentant la présence de son amant alors qu'elle cherche dans son sac. Photoréaliste, dans le style d'un recueil de photographies prises avec un peu plus de soin qu'un instantané au smartphone ou de la vie quotidienne.  
+Une seule image qui transmet simultanément des gestes naturels empreints de quotidien, la fraîcheur du bord de mer, et une féminité élégante et accessible.
+
+【Lieu, arrière-plan et univers】  
+À côté d'un banc en bord de mer en plein midi. Disposer un banc en bois, un sac en osier posé sur l'assise, une promenade dallée de pierre, un muret ou garde-corps bas, et au-delà, la mer bleue et le ciel s'étendant à perte de vue.  
+L'arrière-plan montre une vue côtière aérée tout en restant ordonné pour que le sujet principal ne soit pas submergé. Au loin, intégrer discrètement l'écume blanche des vagues, l'horizon et le profil urbain côtier afin d'ajouter une touche lumineuse de station balnéaire.
+
+【Saison, heure et météo】  
+La saison s'étend du début de l'été au plein été, en milieu de journée. L'air est clair et lumineux, un temps ensoleillé balayé par une brise marine agréable.  
+Le soleil n'est pas trop agressif ; une lumière diurne nette illumine l'ensemble de la scène. Les cheveux et les bordures de dentelle bougent légèrement au gré du vent, créant une douce impression de vie.
+
+【Description du personnage】  
+Femme japonaise manifestement adulte, âgée de 20 à 28 ans environ. Traits du visage doux et harmonieux, yeux foncés expressifs, sourcils naturels, lèvres bien teintées. Cheveux châtain foncé coupés aux épaules et légèrement ondulés, avec quelques mèches rebelles flottant au vent.  
+Teint ocre clair à la texture naturelle, sans retouches excessives. Silhouette gracile aux courbes féminines, d'un glamour élégant et naturel. Tout en préservant une taille fine et l'harmonie globale du corps, la poitrine présente un volume généreux et naturel, rendu sous forme de rondeurs douces et tridimensionnelles adaptées à sa posture et à sa tenue.
+
+【Tenue et accessoires】  
+Ensemble soutien-gorge et culotte en dentelle de style Wacoal, sur fond rose laiteux, parsemé de petites broderies florales blanches et bleu ciel pâle. Les bordures en dentelle délicate et les broderies sont raffinées, sans excès de douceur, dégageant une impression de propreté.  
+Le tissu épouse naturellement les contours du corps avec un ajustement réaliste au niveau de la poitrine et des hanches, sans étirement ni déformation de la dentelle ou des broderies. Les accessoires se limitent à un fin collier délicat ; le sac est un sac en osier en matière naturelle.
+
+【Pose, action et regard】  
+Debout à côté du banc, le corps légèrement de trois-quarts face. Le poids du corps repose principalement sur la jambe droite, la jambe gauche étant légèrement avancée et détendue. Le buste est légèrement penché vers l'avant, prolongeant le mouvement naturel de recherche dans le sac.  
+La main droite reste plongée dans le sac, tandis que la main gauche retient doucement le bord. Au moment exact où elle entend la voix de son amant, le mouvement de ses mains s'arrête et elle relève simplement le visage en direction de l'appareil photo. Éviter toute cambrure excessive ou torsion forcée non naturelle.
+
+【Expression et émotion】  
+Un sourire doux et chaleureux, comme soulagée de retrouver la personne attendue. La bouche s'ouvre avec naturel sur un léger sourire sans trop dévoiler les dents.  
+Le regard trahit un sentiment de quiétude et un soupçon de joie, sans surprise exagérée ni mimique trop travaillée. Comme un instant du quotidien où l'on aperçoit son amant, privilégier une chaleur sans prétention.
+
+【Composition et caméra】  
+Format vertical 4:5 adapté à une publication sur X. Cadrage en pied intégrant harmonieusement le corps de la tête aux pieds, avec une distance suffisante pour distinguer clairement l'agencement du banc, du sac et des mains.  
+Hauteur de caméra naturelle, au niveau de la poitrine ou des épaules, prise légèrement de biais par l'avant. Focale naturelle standard à moyen téléobjectif, favorisant une perspective qui n'exagère pas les proportions du corps. L'arrière-plan est légèrement simplifié tout en conservant une lisibilité claire du décor côtier.
+
+【Lumière, couleur, texture et ambiance】  
+La source lumineuse principale est le soleil de midi, éclairant le personnage en plongée diagonale. La lumière réfléchie par le garde-corps et le pavé adoucit les ombres du visage et des bras, projetant des ombres naturelles sur les épaules et au niveau des jambes.  
+La palette de couleurs marie délicatement le bleu revigorant de la mer et du ciel, les textures naturelles du banc et de la promenade, et le rose laiteux de la lingerie. La peau possède un éclat naturel, les cheveux un mouvement souple, la dentelle est fine, tandis que le bois, le métal et la surface de l'eau sont minutieusement rendus avec leurs textures propres, composant une atmosphère lumineuse, raffinée et aérée.
+
+【Qualité et éléments exclus】  
+Haute résolution, privilégiant un corps humain, une perspective, une lumière et des matières naturelles, comme saisis par un véritable appareil photo.  
+Exclure toute apparence mineure, visages trop enfantins, anatomie anormale, membres ou doigts surnuméraires, articulations impossibles, défauts vestimentaires, fusion du vêtement avec la peau, exposition involontaire, déformations excessives au grand-angle, lissage excessif de la peau, textes, logos, filigranes et interfaces utilisateur. Tout en conservant une poitrine généreuse et naturelle, éviter les volumes artificiellement gigantesques, les formes sphériques rigides ou les effets de rehaussement excessif.
 ```
 
 [↑ Retour aux catégories](#catalog)

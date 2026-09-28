@@ -101,20 +101,60 @@ Tradução em curso
 
 <a name="prompt-2104333251720667547"></a>
 
-### Tradução em curso
+### Prompt de retrato fotorrealista de alta qualidade de uma mulher japonesa em lingerie de renda cor-de-rosa leitoso com bordados florais delicados, erguendo o rosto com um sorriso suave enquanto procura algo na sua mala de verga junto a um banco no passeio marítimo.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2104333251720667547)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em curso
+**Resumo:** Prompt de retrato fotorrealista de alta qualidade de uma mulher japonesa em lingerie de renda cor-de-rosa leitoso com bordados florais delicados, erguendo o rosto com um sorriso suave enquanto procura algo na sua mala de verga junto a um banco no passeio marítimo.
 
 <img src="images/2104333251720667547-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em curso
+🌟Olhando para cima repentinamente num banco à beira-mar, brisa marítima e uma tarde em cor-de-rosa leitoso🌟
+
+【Tema e Estilo】  
+Retrata um instante junto a um banco colocado num passeio marítimo, onde ela ergue o rosto ao sentir a presença do amado enquanto procurava algo na sua mala. Fotorrealista, com uma expressão estilo álbum fotográfico captada com um pouco mais de cuidado do que uma foto de telemóvel ou um instantâneo do dia a dia.  
+Uma imagem que transmite simultaneamente gestos naturais com sensação de quotidiano, a frescura típica da beira-mar e uma feminilidade elegante e acolhedora.
+
+【Local, Cenário e Visão do Mundo】  
+Junto a um banco à beira-mar durante o dia. Posicione o banco de madeira, uma mala de verga colocada sobre o assento, o passeio pavimentado a pedra, um corrimão baixo e, para além dele, o mar azul e o céu a estenderem-se.  
+Organize o fundo para exibir a paisagem costeira com sensação de amplitude, sem ofuscar a figura principal. Ao longe, inclua discretamente rebentação de espuma branca, a linha do horizonte e o casario da marginal, acrescentando um toque luminoso de estância balnear.
+
+【Estação, Hora e Clima】  
+A estação situa-se entre o início e o pleno verão, durante o dia. O ar é luminoso e límpido, um dia de sol com uma brisa marítima agradável a soprar.  
+A luz solar não é excessivamente intensa; uma luz diurna seca e nítida ilumina toda a cena. Os cabelos e as orlas de renda movem-se suavemente com o vento, criando uma sensação serena de dinamismo.
+
+【Definição da Personagem】  
+Mulher japonesa claramente adulta, com cerca de 20 a 28 anos. Traços faciais suaves e harmoniosos, olhos escuros expressivos, sobrancelhas naturais e lábios corados e saudáveis. Cabelo castanho-escuro até aos ombros com ondas soltas, com algumas madeixas soltas a oscilar ao vento.  
+Pele em tom ocre claro com textura natural, sem pós-produção excessiva. Corpo adelgaçado, mas com curvas femininas numa silhueta elegante e naturalmente curvilínea. Mantendo a cintura fina em harmonia com todo o corpo, o decote apresenta um volume farto e natural, expresso com uma tridimensionalidade macia que se ajusta à postura e ao vestuário.
+
+【Vestuário e Acessórios】  
+Soutien e cuecas de renda estilo Wacoal em tom cor-de-rosa leitoso (milky pink), salpicados de bordados de pequenas flores a branco e azul saxão claro. O acabamento delicado da renda e o bordado são elegantes, transmitindo uma impressão asseada, sem ser excessivamente doce.  
+O tecido tem um corte realista que acompanha o corpo de forma natural, ajustando-se confortavelmente ao busto e à cintura, sem que a renda ou os bordados fiquem repuxados ou distorcidos. Os acessórios limitam-se a um colar delicado, e a mala é uma mala de verga em materiais naturais.
+
+【Pose, Ação e Olhar】  
+De pé ao lado do banco, com o corpo ligeiramente orientado na diagonal para a frente. O peso do corpo apoia-se ligeiramente na perna direita, enquanto a perna esquerda avança um pouco para a frente, relaxada com naturalidade. A parte superior do corpo inclina-se subtilmente para a frente, mantendo o movimento natural de quem procurava algo.  
+A mão direita permanece dentro da mala, e a mão esquerda segura levemente a borda da mesma. Como no instante em que se apercebe da voz do amado, o movimento das mãos cessa, e ela apenas levanta o rosto com naturalidade para olhar na direção da câmara. Evite lordoses artificiais ou torções corporais extremas.
+
+【Expressão e Emoção】  
+Um sorriso suave e caloroso, como quem se sente tranquila ao ver a pessoa amada. A boca descontrai naturalmente num sorriso ligeiro, sem exibir demasiado os dentes.  
+Os olhos deixam transparecer tranquilidade e um toque de contentamento, numa expressão que não parece excessivamente surpreendida nem artificial. Valorize a temperatura genuína e despretensiosa de um momento quotidiano ao notar a presença do parceiro.
+
+【Composição e Câmara】  
+Formato vertical 4:5 pensado para publicações no X. Enquadramento de corpo inteiro com margem da cabeça aos pés, a uma distância que permita perceber com clareza a relação espacial entre o banco, a mala e a posição das mãos.  
+A altura da câmara situa-se a um nível natural próximo do peito ou dos ombros, captando ligeiramente na diagonal frontal. Ângulo de visão natural, tendendo de normal a meia-teleobjetiva, privilegiando uma perspetiva que não exagere as proporções corporais. O fundo é subtilmente organizado, mantendo o suficiente para que a localização à beira-mar seja perfeitamente identificável.
+
+【Iluminação, Cor, Textura e Ambiente】  
+A fonte de luz principal é a luz solar do meio-dia, incidindo sobre a figura a partir de um ângulo ligeiramente superior e diagonal. A luz refletida pelo corrimão e pelo pavimento suaviza as sombras no rosto e nos braços, enquanto sombras naturais recaem sobre os ombros e junto aos pés.  
+A paleta cromática conjuga harmoniosamente o azul refrescante do mar e do céu, a textura natural do passeio e do banco, e o vestuário em cor-de-rosa leitoso. Um ambiente luminoso, elegante e arejado, retratando com rigor a tez natural, a maleabilidade sedosa do cabelo, a subtileza da renda e as texturas distintas da madeira, do metal e da superfície da água.
+
+【Qualidade e Elementos Excluídos】  
+Privilegia a alta resolução, a anatomia humana fidedigna, perspetiva, iluminação e texturas autênticas como se captadas por uma câmara fotográfica real.  
+Evite representações que sugiram menoridade, rostos excessivamente infantis, anomalias corporais, membros ou dedos a mais, articulações anatómicas incorretas, falhas no vestuário, fusão entre a roupa e o corpo, nudez acidental, distorção acentuada de grande-angular, tratamento excessivo de alisamento da pele, textos, logótipos, marcas de água e elementos de interface. O peito deve conservar um volume farto e natural, sem parecer desproporcionadamente gigante, esférico ou com um efeito push-up excessivo.
 ```
 
 [↑ Voltar às categorias](#catalog)

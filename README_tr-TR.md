@@ -101,20 +101,60 @@ Fotoğrafçılık · Portre / Selfie · Karakter · Araç · Yayımlandı
 
 <a name="prompt-2104333251720667547"></a>
 
-### Çeviri sürüyor
+### Sahil yürüyüş yolundaki bir bankın yanında hasır çantasında bir şey ararken gülümseyerek başını kaldıran, süt pembesi minik çiçek nakışlı dantel iç çamaşırı giymiş Japon bir kadının yüksek kaliteli fotogerçekçi portre istemi.
 
 Yazar：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Orijinal gönderi](https://x.com/muse_ai_prompt/status/2104333251720667547)
 
 Fotoğrafçılık · Portre / Selfie · Karakter · Yayımlandı
 
-**Özet:** Çeviri sürüyor
+**Özet:** Sahil yürüyüş yolundaki bir bankın yanında hasır çantasında bir şey ararken gülümseyerek başını kaldıran, süt pembesi minik çiçek nakışlı dantel iç çamaşırı giymiş Japon bir kadının yüksek kaliteli fotogerçekçi portre istemi.
 
 <img src="images/2104333251720667547-1.jpg" alt="Görsel 1" width="480" />
 
 **İstem**
 
 ```text
-Çeviri sürüyor
+🌟Sahil kenarındaki bir bankta aniden başını kaldıran, deniz esintisi ve süt pembesi bir öğleden sonra🌟
+
+【Konu ve Tarz】  
+Sahil şeridindeki bir yürüyüş yoluna yerleştirilmiş bankın yanında, çantasında bir şey ararken sevgilisinin varlığını hissedip aniden başını kaldırdığı bir anı resmeder. Akıllı telefon veya sıradan anlık çekimlerden biraz daha özenle çekilmiş bir fotoğraf albümü tarzında fotogerçekçi anlatım.  
+Günlük yaşamın doğallığını taşıyan hareketleri, sahilin ferahlığını ve zarif, cana yakın bir kadınsılığı aynı anda hissettiren bir kare olmalıdır.
+
+【Mekân, Arka Plan ve Atmosfer】  
+Gündüz vakti sahil kenarındaki bankın yanı. Ahşap bir bank, oturma yerine bırakılmış hasır bir çanta, taş döşeli yürüyüş yolu, alçak bir korkuluk ve ötesinde uzanan masmavi deniz ile gökyüzü konumlandırılır.  
+Arka plan, başroldeki figürün kaybolup gitmeyeceği şekilde düzenlenirken deniz kenarının ferah hissi öne çıkarılır. Uzak planda beyaz dalgalar, ufuk çizgisi ve sahil kasabasının silüeti ölçülü bir şekilde yerleştirilerek aydınlık bir tatil beldesi havası katılır.
+
+【Mevsim, Zaman ve Hava Durumu】  
+Mevsim ilk yaz ile yaz arası, gün ortası. Hava aydınlık ve berrak, denizden tatlı bir esintinin estiği güneşli bir gün.  
+Güneş ışığı aşırı sert değil; kuru ve berrak bir öğle ışığı tüm sahneyi aydınlatır. Saç telleri ve dantel kenarları rüzgârda hafifçe salınarak sakin bir hareketlilik duygusu yaratır.
+
+【Karakter Tanımı】  
+20-28 yaşlarında, kesin olarak yetişkin bir Japon kadın. Yumuşak ve dengeli yüz hatları, koyu ve derin gözler, doğal kaşlar ve canlı dudaklar. Omuz hizasında dökülen dalgalı koyu kahverengi saçlar; birkaç tutam saç teli rüzgârda hafifçe dalgalanır.  
+Cildi açık aşıboyası tonlarında olup aşırı rötuşlanmamış doğal bir dokuya sahiptir. Zarif bir inceliğin içinde kadınsı kıvrımlara sahip, asil ve doğal olarak dolgun hatlı bir vücut yapısı. İnce beli tüm vücutla uyumunu korurken, göğüs kısmı duruşuna ve kıyafetine uyum sağlayan yumuşak, doğal ve dolgun bir hacimle üç boyutlu olarak betimlenir.
+
+【Kıyafet ve Aksesuarlar】  
+Süt pembesi (milky pink) kumaş üzerine beyaz ve açık saks mavisi minik çiçek nakışları serpiştirilmiş Wacoal tarzı dantelli sütyen ve külot takımı. Zarif dantel bordürleri ve nakışlar, aşırı çocuksu olmayan, temiz ve asil bir izlenim sunar.  
+Kumaş, vücuda doğal bir şekilde oturan gerçekçi bir bedene sahiptir; göğüs ve bel çevresine zorlanmadan uyum sağlar, dantel veya nakışlar gerilmez ya da bozulmaz. Aksesuarlar zarif bir kolyeyle sınırlı tutulur ve çanta doğal malzemeden yapılmış bir hasır çantadır.
+
+【Poz, Hareket ve Bakış】  
+Bankın yanında ayakta durur, gövdesi hafifçe çapraz öne dönüktür. Ağırlık hafifçe sağ bacağa verilmiş, sol bacak biraz öne doğru doğal ve gevşek bir şekilde uzatılmıştır. Üst gövde, arama hareketinin doğallığını yansıtacak biçimde hafifçe öne eğiktir.  
+Sağ el çantanın içindeyken sol el hafifçe çantanın kenarını tutar. Sevgilisinin sesini duyduğu an gibi, ellerin hareketi durur ve sadece başını kaldırarak doğrudan kameraya bakar. Doğal olmayan aşırı bel çukurluğundan veya aşırı kıvrılmalardan kaçınılır.
+
+【İfade ve Duygu】  
+Aradığı kişiyi bulmanın verdiği rahatlamayla yüzüne yayılan sıcak ve içten bir tebessüm. Dudaklar dişleri çok fazla göstermeyen hafif ve doğal bir gülümsemeyle gevşer.  
+Gözlerinde güven ve hafif bir mutluluk pırıltısı belirir; ne aşırı şaşkın ne de yapmacık bir ifade olmalıdır. Sevgilisini fark ettiği gündelik bir anın samimi ve doğal sıcaklığına özen gösterilir.
+
+【Kompozisyon ve Kamera】  
+X (Twitter) paylaşımlarına uygun 4:5 dikey format. Başın üstünden ayak uçlarına kadar rahatça sığdıran tam boy (full body) kompozisyon; bank, çanta ve eller arasındaki konum ilişkisini net bir şekilde gösterecek bir çekim mesafesi.  
+Kamera yüksekliği göğüs ile omuz hizası arasında doğal bir yükseklikte, hafif çapraz ön açıdan çekim. Vücut oranlarını abartmayan bir perspektif sunan standart ile orta telefoto arası doğal bir odak uzaklığı. Arka plan hafifçe sadeleştirilirken sahil mekânının yeterince anlaşılabileceği ölçüde korunur.
+
+【Işık, Renk, Doku ve Atmosfer】  
+Ana ışık kaynağı, figüre hafifçe yukarıdan ve çaprazdan vuran öğle güneşi ışığıdır. Korkuluklardan ve zemin yüzeyinden yansıyan ışık yüz ve kollardaki gölgeleri yumuşakça aydınlatırken, omuzlarda ve ayak dibinde doğal gölgeler oluşturur.  
+Renk paleti; deniz ve gökyüzünün taze mavisi, yürüyüş yolu ile bankın doğal dokusu ve süt pembesi kıyafetin zarif uyumundan oluşur. Doğal ten rengi, saçın esnek akışı, dantelin zarafeti ile ahşap, metal ve su yüzeyinin kendine has farklı dokuları özenle işlenerek aydınlık, zarif ve havadar bir atmosfer oluşturulur.
+
+【Kalite ve İstenmeyen Unsurlar】  
+Yüksek çözünürlük, gerçek bir kamerayla çekilmiş gibi doğal insan anatomisi, perspektif, ışık ve doku kalitesi ön planda tutulmalıdır.  
+Reşit olmayan görünüm, aşırı çocuksu yüz hatları, doğal olmayan vücut oranları, fazladan uzuvlar veya parmaklar, anatomik eklem bozuklukları, kıyafet kusurları, kıyafetin tenle kaynaşması, istenmeyen teşhir, aşırı geniş açı bozulması, abartılı cilt pürüzsüzleştirme, metin, logo, filigran ve arayüz ögelerinden kaçınılmalıdır. Göğüsler zengin ve doğal bir hacme sahip olmalı; anormal derecede devasa, sert küre şeklinde veya aşırı dikleştirilmiş olmamalıdır.
 ```
 
 [↑ Kategorilere dön](#catalog)

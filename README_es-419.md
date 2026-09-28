@@ -101,20 +101,60 @@ Traducción en curso
 
 <a name="prompt-2104333251720667547"></a>
 
-### Traducción en curso
+### Prompt de retrato fotorrealista de alta calidad de una mujer japonesa en lencería de encaje rosa lechoso con bordados florales pequeños, levantando la vista con una sonrisa mientras busca en su bolso de mimbre junto a un banco en un paseo costero.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicación original](https://x.com/muse_ai_prompt/status/2104333251720667547)
 
 Fotografía · Retrato / Selfie · Personaje · Publicado
 
-**Resumen:** Traducción en curso
+**Resumen:** Prompt de retrato fotorrealista de alta calidad de una mujer japonesa en lencería de encaje rosa lechoso con bordados florales pequeños, levantando la vista con una sonrisa mientras busca en su bolso de mimbre junto a un banco en un paseo costero.
 
 <img src="images/2104333251720667547-1.jpg" alt="Imagen 1" width="480" />
 
 **Prompt**
 
 ```text
-Traducción en curso
+🌟Una tarde de brisa marina y rosa lechoso, mirando hacia arriba junto a un banco junto al mar🌟
+
+【Tema y Estilo Artístico】  
+Representar el instante en que, junto a un banco colocado en un paseo marítimo, una mujer levanta la mirada al sentir la presencia de su amante mientras busca algo en su bolso. Fotorrealista, con la estética de un libro de fotos tomado con un poco más de esmero que una foto de smartphone o una instantánea cotidiana.  
+Una sola imagen que transmita simultáneamente gestos naturales llenos de vida cotidiana, la frescura propia de la costa y una feminidad elegante y cercana.
+
+【Lugar, Fondo y Atmósfera】  
+Junto a un banco costero al mediodía. Disponer un banco de madera, un bolso de mimbre colocado sobre el asiento, un paseo pavimentado con piedra, una barandilla baja y, más allá, el mar azul y el cielo expandiéndose.  
+El fondo debe mostrar una vista costera con sensación de amplitud, pero organizada para que la protagonista no se pierda. En la lejanía, incorporar de forma sutil olas blancas, la línea del horizonte y el paisaje urbano costero para añadir una luminosa sensación de centro turístico.
+
+【Estación, Hora y Clima】  
+La estación es de principios de verano a verano en pleno día. El aire es luminoso y claro, un día soleado con una agradable brisa marina.  
+La luz solar no es excesivamente intensa; una luz diurna nítida y seca ilumina toda la escena. El cabello y los bordes del encaje se mueven ligeramente con el viento, aportando un suave dinamismo.
+
+【Definición del Personaje】  
+Mujer japonesa claramente adulta, de entre 20 y 28 años. Rasgos faciales suaves y proporcionados, con ojos predominantemente oscuros, cejas naturales y labios de buen tono. Cabello castaño oscuro con ondas suaves hasta los hombros, con unos pocos mechones sueltos ondeando con la brisa.  
+Piel en tono ocre claro con una textura natural sin retoques excesivos. Silueta esbelta con curvas femeninas, una figura glamorosa, natural y elegante. Manteniendo una cintura delgada y una armonía en todo el cuerpo, el busto tiene un volumen generoso y natural, presentado con un volumen suave y tridimensional que se adapta a su postura y vestimenta.
+
+【Vestuario y Accesorios】  
+Conjunto de sujetador y bragas de encaje estilo Wacoal en color rosa lechoso, salpicado de pequeños bordados florales en blanco y azul cielo pálido. Los delicados bordes de encaje y los bordados lucen refinados, brindando una impresión limpia y sin resultar empalagosa.  
+La tela sigue las líneas del cuerpo de manera realista, ajustándose con naturalidad al busto y las caderas sin que el encaje o el bordado se estiren o distorsionen. Como accesorios, limitarse a un collar discreto y delicado; el bolso es un bolso de mimbre de material natural.
+
+【Pose, Acción y Mirada】  
+De pie junto al banco, con el cuerpo en ángulo semi-frontal. El peso descansa ligeramente sobre la pierna derecha, mientras la pierna izquierda se adelanta un poco, relajada de forma natural. El torso está levemente inclinado hacia adelante, manteniendo la fluidez de estar buscando algo.  
+La mano derecha permanece dentro del bolso, mientras la izquierda sostiene suavemente el borde del mismo. Como en el momento exacto en que nota la voz de su amante, el movimiento de sus manos se detiene y solo levanta la cara hacia la cámara. Evitar arqueamientos lumbares antinaturales o torsiones forzadas.
+
+【Expresión y Emoción】  
+Una sonrisa dulce y acogedora, como de alivio al encontrar a la persona esperada. Los labios se relajan naturalmente en una ligera sonrisa sin mostrar demasiados dientes.  
+Los ojos reflejan tranquilidad y una pizca de alegría, con una expresión ni demasiado sorprendida ni sobreactuada. Como un instante cotidiano al notar a la pareja, priorizar una calidez desenfadada.
+
+【Composición y Cámara】  
+Formato vertical 4:5 adecuado para publicaciones en X. Composición de cuerpo completo con suficiente holgura desde la coronilla hasta los pies, a una distancia que permita entender con claridad la relación espacial entre el banco, el bolso y las manos.  
+Altura de la cámara natural, cercana a la altura del pecho o los hombros, tomada ligeramente desde un ángulo frontal oblicuo. Ángulo de visión natural cercano a estándar o telefoto medio, priorizando una perspectiva que no exagere el cuerpo. El fondo se mantiene ligeramente organizado, dejando claro el entorno costero.
+
+【Iluminación, Color, Textura y Ambiente】  
+La fuente de luz principal es la luz solar diurna, que incide sobre el personaje ligeramente desde arriba en diagonal. La luz reflejada desde la barandilla y el suelo suaviza las sombras en el rostro y los brazos, proyectando sombras naturales sobre los hombros y junto a las piernas.  
+La paleta cromática armoniza con suavidad el azul fresco del mar y el cielo, la textura natural del paseo marítimo y del banco, y el rosa lechoso del vestuario. La piel muestra un rubor natural, el cabello una caída sedosa, el encaje es delicado, y la madera, el metal y el agua se representan con sus texturas materiales distintivas, logrando un ambiente luminoso, refinado y ventilado.
+
+【Calidad y Elementos Excluidos】  
+Alta resolución, priorizando una anatomía humana natural, perspectiva, iluminación y texturas que parezcan capturadas con una cámara real.  
+Evitar representaciones que parezcan de menores de edad, rostros demasiado aniñados, anatomías irreales, extremidades o dedos adicionales, articulaciones no naturales, fallos en la vestimenta, fusión entre el cuerpo y la ropa, exposiciones involuntarias, distorsión extrema por gran angular, piel excesivamente retocada, textos, logotipos, marcas de agua y elementos de interfaz de usuario. Manteniendo un busto con volumen rico y natural, evitar que sea artificialmente gigantesco, de forma esférica rígida o con un realce excesivo.
 ```
 
 [↑ Volver a categorías](#catalog)

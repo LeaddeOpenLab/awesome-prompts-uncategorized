@@ -101,20 +101,60 @@ Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Phương tiệ
 
 <a name="prompt-2104333251720667547"></a>
 
-### Đang dịch
+### Prompt chân dung chụp ảnh photorealistic chất lượng cao về một phụ nữ Nhật Bản mặc nội y ren màu hồng sữa thêu hoa nhỏ, đang tìm đồ trong túi cói bên ghế dài trên lối đi dạo ven biển thì bất chợt mỉm cười ngước nhìn lên.
 
 Tác giả：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Bài gốc](https://x.com/muse_ai_prompt/status/2104333251720667547)
 
 Nhiếp ảnh · Chân dung / Ảnh tự chụp · Nhân vật · Đã xuất bản
 
-**Tóm tắt:** Đang dịch
+**Tóm tắt:** Prompt chân dung chụp ảnh photorealistic chất lượng cao về một phụ nữ Nhật Bản mặc nội y ren màu hồng sữa thêu hoa nhỏ, đang tìm đồ trong túi cói bên ghế dài trên lối đi dạo ven biển thì bất chợt mỉm cười ngước nhìn lên.
 
 <img src="images/2104333251720667547-1.jpg" alt="Hình ảnh 1" width="480" />
 
 **Câu lệnh**
 
 ```text
-Đang dịch
+🌟Khoảnh khắc ngước nhìn bên ghế đá bờ biển, làn gió biển và buổi chiều màu hồng sữa🌟
+
+【Chủ đề / Phong cách hình ảnh】  
+Khắc họa khoảnh khắc một cô gái đang tìm đồ trong túi xách bên cạnh chiếc ghế dài trên lối đi dạo ven biển bỗng ngước nhìn lên khi cảm nhận được sự hiện diện của người yêu. Phong cách chân thực như ảnh chụp (photorealistic), mang hơi hướng photobook được chụp chỉn chu hơn một chút so với ảnh chụp nhanh bằng điện thoại hay đời thường.  
+Một bức ảnh truyền tải đồng thời cử chỉ tự nhiên của cuộc sống đời thường, sự trong trẻo tươi mát đặc trưng của miền biển, cùng nét nữ tính thanh lịch, gần gũi.
+
+【Địa điểm / Bối cảnh / Thế giới quan】  
+Bên cạnh ghế dài ven biển vào buổi trưa. Bố trí một chiếc ghế dài bằng gỗ, chiếc túi cói đặt trên mặt ghế, lối đi dạo lát đá, lan can thấp, và phía xa là biển xanh cùng bầu trời rộng mở.  
+Bối cảnh mang lại cảm giác thoáng đãng của cảnh biển nhưng được sắp xếp gọn gàng để nhân vật chính không bị chìm lấp. Phía xa điểm xuyết nhẹ nhàng những con sóng trắng, đường chân trời và dãy phố ven biển, tạo thêm cảm giác nghỉ dưỡng tươi sáng.
+
+【Mùa / Thời gian / Thời tiết】  
+Mùa từ đầu hè đến giữa hè, vào buổi trưa. Bầu trời trong xanh rực rỡ, thời tiết nắng đẹp với làn gió biển thổi dễ chịu.  
+Ánh nắng không quá gay gắt, ánh sáng ban trưa khô ráo chiếu rọi toàn bộ khung cảnh. Mái tóc và viền ren khẽ lay động theo gió, tạo nên cảm giác chuyển động nhẹ nhàng, êm ả.
+
+【Thiết lập nhân vật】  
+Một phụ nữ Nhật Bản rõ ràng đã trưởng thành, khoảng 20 đến 28 tuổi. Gương mặt thanh tú, mềm mại, đôi mắt đen láy, hàng lông mày tự nhiên, đôi môi hồng hào khỏe khoắn. Mái tóc uốn gợn sóng nhẹ màu nâu trầm dài ngang vai, vài lọn tóc mai bay nhẹ trong gió.  
+Làn da tông màu vàng sáng (ocher) tự nhiên, không qua chỉnh sửa quá đà. Thân hình mảnh mai nhưng có những đường cong nữ tính quyến rũ tự nhiên, trang nhã. Giữ được sự hài hòa giữa vòng eo thon gọn và tổng thể cơ thể, khuôn ngực đầy đặn tự nhiên, thể hiện khối hình mềm mại ăn nhập với tư thế và trang phục.
+
+【Trang phục / Phụ kiện】  
+Bộ nội y áo ngực và quần lót ren phong cách Wacoal màu hồng sữa (milky pink), điểm xuyết họa tiết thêu hoa nhỏ màu trắng và xanh saxe (sax blue) nhạt. Đường viền ren và hình thêu tinh tế, mang lại ấn tượng thanh lịch, không quá ngọt ngào mà rất sạch sẽ.  
+Kích thước vải ôm vừa vặn tự nhiên với cơ thể, ôm khít thoải mái quanh ngực và hông, ren và hoa thêu không bị kéo dãn hay biến dạng. Phụ kiện chỉ dừng lại ở một chiếc dây chuyền mảnh mai, túi xách là túi cói làm từ chất liệu tự nhiên.
+
+【Tư thế / Hành động / Ánh mắt】  
+Đứng bên cạnh ghế dài, cơ thể hơi chếch về phía trước. Trọng tâm dồn nhẹ về chân phải, chân trái hơi đưa về phía trước thả lỏng tự nhiên. Thân trên hơi nghiêng về phía trước, giữ lại dòng chuyển động như đang dở việc tìm đồ.  
+Tay phải vẫn đặt trong túi, tay trái khẽ giữ mép túi. Là khoảnh khắc nhận ra tiếng của người yêu, cử động tay dừng lại, chỉ ngước mặt lên nhìn về hướng máy ảnh. Tránh tư thế ưỡn lưng bất tự nhiên hoặc vặn mình quá mức.
+
+【Biểu cảm / Cảm xúc】  
+Nụ cười dịu dàng, gần gũi như cảm thấy nhẹ nhõm khi nhìn thấy người cần tìm. Khóe miệng thả lỏng tự nhiên, nở nụ cười nhẹ không để lộ răng quá nhiều.  
+Đôi mắt ánh lên sự an tâm và một chút niềm vui, biểu cảm không quá ngạc nhiên hay gượng gạo. Chú trọng cảm giác nhiệt độ chân thực, không kiểu cách như một khoảnh khắc đời thường khi nhận ra người yêu.
+
+【Bố cục / Máy ảnh】  
+Khung hình dọc tỉ lệ 4:5 phù hợp đăng tải trên X. Bố cục toàn thân (full body) lấy trọn từ đỉnh đầu đến mũi chân một cách thoải mái, khoảng cách vừa đủ để thấy rõ mối tương quan vị trí giữa ghế dài, túi xách và tay.  
+Độ cao máy ảnh ở mức tự nhiên ngang ngực đến vai, chụp chếch từ phía trước. Góc nhìn tự nhiên từ tiêu cự tiêu chuẩn đến tele tầm trung, ưu tiên phối cảnh không làm phóng đại cơ thể. Hậu cảnh được tinh giản nhẹ nhàng nhưng vẫn giữ đủ chi tiết để nhận biết rõ địa điểm ven biển.
+
+【Ánh sáng / Màu sắc / Chất cảm / Không khí】  
+Nguồn sáng chính là ánh nắng ban trưa, chiếu xiên nhẹ từ trên xuống nhân vật. Ánh sáng phản chiếu từ lan can và mặt đường làm sáng các vùng bóng trên mặt và cánh tay một cách mềm mại, để lại bóng đổ tự nhiên trên vai và bàn chân.  
+Phối màu là sự hòa quyện dịu dàng giữa sắc xanh tươi mát của biển và trời, chất cảm tự nhiên của lối đi dạo và ghế dài, cùng trang phục màu hồng sữa. Da hồng hào tự nhiên, tóc mềm mại uyển chuyển, ren tinh xảo, gỗ, kim loại và mặt nước được đặc tả tỉ mỉ với chất liệu riêng biệt, tạo nên một tổng thể tươi sáng, trang nhã và thoáng đãng.
+
+【Chất lượng / Yếu tố loại trừ】  
+Độ phân giải cao, chú trọng cơ thể người tự nhiên, phối cảnh, ánh sáng và chất cảm vật liệu như được chụp bằng máy ảnh thực tế.  
+Tránh biểu hiện trông giống vị thành niên, khuôn mặt quá non nớt, cơ thể bất thường, thừa chi hoặc ngón tay, khớp xương dị dạng, lỗi trang phục, trang phục hòa lẫn vào cơ thể, hở hang ngoài ý muốn, méo hình góc rộng cực đoan, chỉnh mịn da quá đà, chữ, logo, watermark, giao diện UI. Khuôn ngực vẫn giữ độ đầy đặn tự nhiên, không để quá to dị thường, hình cầu cứng đờ hay bị đẩy lên quá mức.
 ```
 
 [↑ Về danh mục](#catalog)

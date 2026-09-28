@@ -101,20 +101,60 @@ Traduzione in corso
 
 <a name="prompt-2104333251720667547"></a>
 
-### Traduzione in corso
+### Prompt per ritratto fotorealistico di alta qualità di una donna giapponese in lingerie di pizzo rosa latteo con ricami floreali, che alza lo sguardo sorridendo mentre cerca nella sua borsa in paglia accanto a una panchina sul lungomare.
 
 Autore：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Post originale](https://x.com/muse_ai_prompt/status/2104333251720667547)
 
 Fotografia · Ritratto / Selfie · Personaggio · Pubblicato
 
-**Riepilogo:** Traduzione in corso
+**Riepilogo:** Prompt per ritratto fotorealistico di alta qualità di una donna giapponese in lingerie di pizzo rosa latteo con ricami floreali, che alza lo sguardo sorridendo mentre cerca nella sua borsa in paglia accanto a una panchina sul lungomare.
 
 <img src="images/2104333251720667547-1.jpg" alt="Immagine 1" width="480" />
 
 **Prompt**
 
 ```text
-Traduzione in corso
+🌟Sguardo sollevato su una panchina in riva al mare, brezza salmastra e un pomeriggio rosa latteo🌟
+
+【Soggetto e stile artistico】  
+Raffigurare l'istante in cui, accanto a una panchina su una passeggiata lungomare, una donna alza lo sguardo percependo la presenza del compagno mentre cerca nella borsa. Fotorealistico, con la cura e l'estetica di un fotolibro, più ricercato di una foto da smartphone o di uno scatto quotidiano.  
+Un'unica immagine capace di trasmettere al contempo la naturalezza di gesti spontanei, la freschezza marina e una femminilità raffinata e accogliente.
+
+【Luogo, sfondo e ambientazione】  
+Accanto a una panchina sul lungomare a mezzogiorno. Disporre una panchina in legno, una borsa in paglia posata sulla seduta, una passeggiata lastricata in pietra, una ringhiera bassa e, oltre ad essa, il mare azzurro che si estende sotto il cielo.  
+Lo sfondo deve mostrare l'ampiezza aperta del paesaggio marino, mantenendosi ordinato per non soffocare la protagonista. In lontananza, includere con discrezione onde con spuma bianca, la linea dell'orizzonte e il profilo della città costiera, aggiungendo una luminosa atmosfera vacanziera.
+
+【Stagione, ora e meteo】  
+La stagione è tra inizio estate e piena estate, a mezzogiorno. L'aria è limpida e luminosa, in una giornata di sole con una gradevole brezza marina.  
+La luce solare non è troppo accecante; una luce diurna asciutta e chiara illumina l'intera scena. I capelli e i profili di pizzo ondeggiano lievemente nel vento, creando una dolce sensazione di movimento naturale.
+
+【Caratteristiche del personaggio】  
+Donna giapponese chiaramente adulta, di età compresa tra i 20 e i 28 anni. Lineamenti del viso morbidi e armoniosi, occhi scuri e intensi, sopracciglia naturali, labbra dal colorito sano. Capelli castano scuro, lunghi fino alle spalle con morbide onde, con alcune ciocche ribelli che fluttuano al vento.  
+Pellagione color ocra chiaro con una texture naturale senza ritocchi eccessivi. Corporatura minuta con curve femminili, una silhouette naturalmente affascinante ed elegante. Mantenendo una vita sottile e un'armonia corporea complessiva, il seno presenta un volume pieno e naturale, reso con una morbida tridimensionalità che si adatta alla postura e all'abbigliamento.
+
+【Abbigliamento e accessori】  
+Completo intimo con reggiseno e slip in pizzo stile Wacoal su base rosa latteo, decorato con piccoli ricami floreali bianchi e azzurro polvere. I delicati bordi in pizzo e i ricami sono eleganti, donando un'impressione pulita e sobria senza risultare eccessivamente leziosa.  
+Il tessuto segue realisticamente le forme del corpo, adattandosi in modo naturale al seno e ai fianchi senza tirare o deformare il pizzo e i ricami. Gli accessori sono ridotti al minimo con una collana sottile e discreta; la borsa è una borsa in paglia di materiale naturale.
+
+【Posa, azione e sguardo】  
+In piedi accanto alla panchina, con il corpo orientato leggermente di tre quarti. Il peso è spostato per lo più sulla gamba destra, mentre la gamba sinistra è leggermente avanzata e rilassata. Il busto è appena inclinato in avanti, conservando la naturalezza del gesto di chi sta cercando qualcosa.  
+La mano destra rimane dentro la borsa, mentre la sinistra ne tiene delicatamente il bordo. Come nell'istante in cui avverte la voce dell'amato, il movimento delle mani si ferma e solleva semplicemente il viso verso l'obiettivo. Evitare inarcamenti innaturali della schiena o torsioni forzate.
+
+【Espressione ed emozione】  
+Un sorriso dolce e caloroso, come sollevata nell'incontrare lo sguardo di chi cercava. La bocca si distende in un lieve sorriso naturale, senza mostrare eccessivamente i denti.  
+Negli occhi traspare un senso di rassicurazione e un accenno di gioia, senza eccessivo stupore o artificiosità. Come in un frammento di vita quotidiana al cospetto del partner, privilegiare un calore spontaneo e autentico.
+
+【Composizione e inquadratura】  
+Formato verticale 4:5 adatto alla condivisione su X. Inquadratura a figura intera che include comodamente dalla sommità del capo ai piedi, mantenendo una distanza tale da far comprendere chiaramente i rapporti spaziali tra panchina, borsa e mani.  
+Altezza della fotocamera naturale, all'altezza del petto o delle spalle, scattata da una prospettiva lievemente angolata. Lunghezza focale naturale compresa tra standard e medio teleobiettivo, privilegiando una prospettiva che non alteri le proporzioni del corpo. Lo sfondo è leggermente sfocato e pulito, ma lascia comprendere chiaramente l'ambientazione costiera.
+
+【Luce, colore, texture e atmosfera】  
+La sorgente luminosa principale è la luce solare di mezzogiorno, che illumina il soggetto obliquamente dall'alto. I riflessi della ringhiera e del lastricato rischiarano dolcemente le ombre su viso e braccia, proiettando ombre naturali su spalle e gambe.  
+La gamma cromatica armonizza delicatamente il blu fresco di mare e cielo, le texture naturali della passeggiata e della panchina e il rosa latteo dell'intimo. L'incarnato ha un calore naturale, i capelli una fluida morbidezza, il pizzo è finemente dettagliato, mentre legno, metallo e superficie dell'acqua sono resi con cura nelle loro distinte matericità, componendo un'atmosfera luminosa, elegante e ariosa.
+
+【Qualità ed elementi da escludere】  
+Alta risoluzione, con priorità su anatomia umana naturale, prospettiva, illuminazione e texture materiche come se fosse scattata da una vera macchina fotografica.  
+Evitare tratti che facciano sembrare il soggetto minorenne, volti troppo fanciulleschi, anatomie deformi, arti o dita extra, articolazioni innaturali, imperfezioni nell'abbigliamento, fusione tra corpo e vestiti, nudità involontaria, distorsioni estreme da grandangolo, levigatura eccessiva della pelle, testi, loghi, watermark ed elementi di interfaccia utente. Pur mantenendo un seno naturalmente prosperoso, evitare volumi esageratamente sproporzionati, forme sferiche rigide o effetti push-up innaturali.
 ```
 
 [↑ Torna alle categorie](#catalog)

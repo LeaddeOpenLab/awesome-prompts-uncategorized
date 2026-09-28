@@ -101,20 +101,60 @@ Tradução em andamento
 
 <a name="prompt-2104333251720667547"></a>
 
-### Tradução em andamento
+### Prompt de retrato fotorrealista de alta qualidade de uma mulher japonesa em lingerie de renda rosa leitoso com bordados florais delicados, olhando para cima com um sorriso gentil enquanto procura algo em sua bolsa de palha ao lado de um banco no calçadão à beira-mar.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Publicação original](https://x.com/muse_ai_prompt/status/2104333251720667547)
 
 Fotografia · Retrato / Selfie · Personagem · Publicado
 
-**Resumo:** Tradução em andamento
+**Resumo:** Prompt de retrato fotorrealista de alta qualidade de uma mulher japonesa em lingerie de renda rosa leitoso com bordados florais delicados, olhando para cima com um sorriso gentil enquanto procura algo em sua bolsa de palha ao lado de um banco no calçadão à beira-mar.
 
 <img src="images/2104333251720667547-1.jpg" alt="Imagem 1" width="480" />
 
 **Prompt**
 
 ```text
-Tradução em andamento
+🌟Olhando para cima repentinamente em um banco à beira-mar, brisa marítima e uma tarde em rosa leitoso🌟
+
+【Tema e Estilo】  
+Retrata um instante ao lado de um banco colocado em um calçadão à beira-mar, onde ela levanta o rosto ao sentir a presença do amado enquanto procurava algo em sua bolsa. Fotorrealista, com uma expressão estilo photobook capturada com um pouco mais de cuidado do que uma foto de celular ou um instantâneo do cotidiano.  
+Uma imagem que transmite simultaneamente gestos naturais com sensação de vida cotidiana, o frescor típico da beira-mar e uma feminilidade elegante e acessível.
+
+【Local, Cenário e Visão de Mundo】  
+Ao lado de um banco à beira-mar durante o dia. Posicione o banco de madeira, uma bolsa de palha colocada sobre o assento, o calçadão pavimentado de pedra, uma grade de proteção baixa e, além dela, o mar azul e o céu se expandindo.  
+Organize o fundo para exibir a paisagem litorânea com sensação de amplitude, sem sufocar a figura principal. Ao longe, inclua discretamente ondas de espuma branca, a linha do horizonte e o casario litorâneo, acrescentando um toque luminoso de resort.
+
+【Estação, Horário e Clima】  
+A estação vai do início ao pleno verão, durante o dia. O ar é límpido e luminoso, um dia ensolarado com uma brisa marítima agradável soprando.  
+A luz solar não é excessivamente forte; uma luz diurna agradável e nítida ilumina toda a cena. Os fios de cabelo e as bordas de renda movem-se suavemente com o vento, criando uma sensação serena de dinamismo.
+
+【Características da Personagem】  
+Mulher japonesa inequivocamente adulta, com cerca de 20 a 28 anos. Traços faciais suaves e harmoniosos, olhos expressivos e escuros, sobrancelhas naturais e lábios corados e saudáveis. Cabelo castanho-escuro até os ombros com ondas soltas, com algumas mechas soltas balançando ao vento.  
+Pele em tom ocre claro com textura natural, sem edição excessiva. Corpo esguio, porém com curvas femininas em uma silhueta elegante e naturalmente voluptuosa. Mantendo a cintura fina em harmonia com todo o corpo, o busto possui um volume farto e natural, representado com uma tridimensionalidade macia que se ajusta à postura e à roupa.
+
+【Traje e Acessórios】  
+Sutiã e calcinha de renda estilo Wacoal em tom rosa leitoso (milky pink), salpicados de bordados de pequenas flores em branco e azul sax suave. O acabamento delicado da renda e o bordado são elegantes, transmitindo uma impressão limpa, sem ser excessivamente doce.  
+O tecido tem um caimento realista que acompanha o corpo de forma natural, ajustando-se confortavelmente ao busto e ao quadril, sem que a renda ou os bordados fiquem esticados ou distorcidos. Os acessórios limitam-se a um colar delicado, e a bolsa é uma bolsa de palha de material natural.
+
+【Pose, Ação e Olhar】  
+De pé ao lado do banco, com o corpo ligeiramente virado para a diagonal frontal. O peso do corpo está levemente apoiado na perna direita, enquanto a perna esquerda avança um pouco à frente, relaxada com naturalidade. A parte superior do corpo está levemente inclinada para a frente, mantendo o movimento natural de quem estava procurando algo.  
+A mão direita permanece dentro da bolsa, e a mão esquerda segura levemente a borda dela. Como no momento em que percebe a voz do amado, o movimento das mãos cessa, e ela apenas levanta o rosto com espontaneidade para olhar em direção à câmera. Evite lordose antinatural ou torções extremas da coluna.
+
+【Expressão e Emoção】  
+Um sorriso gentil e acolhedor, como quem se sente aliviada ao encontrar a pessoa. Os cantos da boca relaxam com naturalidade em um leve sorriso sem mostrar os dentes em excesso.  
+Os olhos transmitem uma sensação de tranquilidade e uma ponta de alegria, em uma expressão que não é exageradamente surpresa nem excessivamente forçada. Valorize a temperatura acolhedora e despretensiosa de um momento cotidiano ao perceber o parceiro.
+
+【Composição e Câmera】  
+Formato vertical 4:5 próprio para postagens no X. Composição de corpo inteiro com folga do topo da cabeça até a ponta dos pés, a uma distância em que a relação espacial entre o banco, a bolsa e as mãos fique claramente compreensível.  
+A altura da câmera está em um nível natural próximo ao peito ou ombros, capturando ligeiramente na diagonal frontal. Ângulo de visão natural tendendo de padrão a telefoto média, priorizando uma perspectiva que não exagere o corpo. O fundo é suavemente organizado, preservando o suficiente para que a locação à beira-mar seja plenamente reconhecível.
+
+【Iluminação, Cor, Textura e Atmosfera】  
+A fonte de luz principal é a luz solar do meio-dia, incidindo sobre a pessoa a partir de um ângulo ligeiramente superior e diagonal. A luz refletida pela grade de proteção e pela superfície do chão suaviza as sombras no rosto e nos braços, enquanto sombras naturais se projetam sobre os ombros e junto aos pés.  
+A paleta de cores combina harmoniosamente o azul refrescante do mar e do céu, a textura natural do calçadão e do banco, e o traje em rosa leitoso. Uma atmosfera luminosa, elegante e arejada, retratando com cuidado a cor natural da pele, o caimento sedoso do cabelo, a delicadeza da renda e as texturas distintas da madeira, do metal e da superfície da água.
+
+【Qualidade e Elementos Excluídos】  
+Prioriza alta resolução, proporções anatômicas realistas, perspectiva, luz e texturas como se tivessem sido capturadas por uma câmera real.  
+Evite aparências de menor de idade, rostos excessivamente infantis, anatomia não natural, membros ou dedos extras, articulações anômalas, falhas nas roupas, fusão do corpo com a roupa, exposição indecente indesejada, distorção extrema de grande-angular, retoque exagerado de pele, textos, logotipos, marcas d'água e elementos de interface. O busto deve manter um volume farto e natural, sem se tornar anormalmente gigantesco, rígido como esferas ou excessivamente empurrado para cima.
 ```
 
 [↑ Voltar às categorias](#catalog)

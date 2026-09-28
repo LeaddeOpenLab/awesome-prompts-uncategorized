@@ -101,20 +101,60 @@ Fotografie · Porträt / Selfie · Charakter · Fahrzeug · Veröffentlicht
 
 <a name="prompt-2104333251720667547"></a>
 
-### Übersetzung läuft
+### Hochwertiger fotorealistischer Porträt-Prompt einer japanischen Frau in milchig-rosa Spitzenunterwäsche mit Blumenstickerei, die neben einer Bank auf einer Strandpromenade in ihrer Korbtasche sucht und mit einem Lächeln aufblickt.
 
 Autor：[@muse\_ai\_prompt](https://x.com/muse_ai_prompt) · [Originalbeitrag](https://x.com/muse_ai_prompt/status/2104333251720667547)
 
 Fotografie · Porträt / Selfie · Charakter · Veröffentlicht
 
-**Zusammenfassung:** Übersetzung läuft
+**Zusammenfassung:** Hochwertiger fotorealistischer Porträt-Prompt einer japanischen Frau in milchig-rosa Spitzenunterwäsche mit Blumenstickerei, die neben einer Bank auf einer Strandpromenade in ihrer Korbtasche sucht und mit einem Lächeln aufblickt.
 
 <img src="images/2104333251720667547-1.jpg" alt="Bild 1" width="480" />
 
 **Prompt**
 
 ```text
-Übersetzung läuft
+🌟Auf einer Strandbank kurz aufblickend: Eine Meeresbrise und ein milchig-rosa Nachmittag🌟
+
+【Motiv & Kunststil】  
+Ein Moment wird dargestellt, in dem eine Frau neben einer Bank an einer Strandpromenade innehält und, während sie in ihrer Tasche sucht, durch die Anwesenheit ihres Geliebten den Blick hebt. Fotorealistisch, im Stil eines Bildbandes, sorgfältiger fotografiert als ein Smartphone- oder Alltags-Schnappschuss.  
+Ein einzelnes Bild, das gleichzeitig eine alltagsnahe, natürliche Bewegung, die Frische der Küste sowie eine elegante und nahbare Weiblichkeit vermittelt.
+
+【Ort, Hintergrund & Weltbild】  
+Neben einer Bank an der Küste am Mittag. Eine Holzbank, eine Korbtasche auf der Sitzfläche, eine gepflasterte Strandpromenade, ein niedriges Geländer und dahinter das weite blaue Meer und der Himmel werden angeordnet.  
+Der Hintergrund zeigt die offene Weite der Küstenlandschaft, bleibt jedoch aufgeräumt, damit die Hauptfigur nicht untergeht. In der Ferne werden weiße Wellen, der Horizont und eine dezente Küstenstadtkulisse angedeutet, um eine helle Resort-Atmosphäre zu erzeugen.
+
+【Jahreszeit, Zeit & Wetter】  
+Die Jahreszeit ist Frühsommer bis Sommer am Mittag. Die Luft ist klar und hell, an einem sonnigen Tag mit einer angenehmen Meeresbrise.  
+Das Sonnenlicht ist nicht zu grell; trockenes, klares Tageslicht erhellt die gesamte Szene. Haare und die Spitzen der Spitze bewegen sich sanft im Wind und verleihen der Szene eine dezente Lebendigkeit.
+
+【Charakterbeschreibung】  
+Eine eindeutig erwachsene japanische Frau im Alter von etwa 20 bis 28 Jahren. Weiche, wohlproportionierte Gesichtszüge, ausdrucksstarke dunkle Augen, natürliche Augenbrauen, frische Lippen. Schulterlanges, dunkelbraunes Haar in sanften Wellen, wobei einige Strähnen im Wind wehen.  
+Heller Ocker-Hautton mit natürlicher, nicht übermäßig bearbeiteter Textur. Ein schlanker Körperbau mit femininen Rundungen, eine elegant-natürliche glamouröse Figur. Bei schmaler Taille und harmonischen Gesamtkörperproportionen besitzt das Dekolleté ein volles, natürliches Volumen, das sich der Haltung und Kleidung sanft und dreidimensional anpasst.
+
+【Kleidung & Accessoires】  
+Ein Spitzen-BH und Slip im Wacoal-Stil auf milchig-rosa Grund, bestickt mit kleinen floralen Mustern in Weiß und zartem Hellblau. Zarte Spitzensäume und Stickereien wirken elegant, ohne zu süßlich zu sein, und vermitteln ein gepflegtes Erscheinungsbild.  
+Der Stoff schmiegt sich realistisch an den Körper an, sitzt bequem an Brust und Hüfte, ohne dass Spitze oder Stickerei gedehnt oder verzerrt wirken. Der Schmuck beschränkt sich auf eine zierliche Halskette; die Tasche ist eine Korbtasche aus Naturmaterialien.
+
+【Pose, Bewegung & Blickrichtung】  
+Neben der Bank stehend, der Körper leicht schräg nach vorne gedreht. Das Körpergewicht ruht überwiegend auf dem rechten Bein, während das linke Bein leicht nach vorne gestellt und entspannt ist. Der Oberkörper ist leicht nach vorne gebeugt, was den Eindruck erweckt, sie würde gerade suchen.  
+Die rechte Hand bleibt in der Tasche, während die linke Hand den Taschenrand sanft festhält. Im Moment, in dem sie die Stimme ihres Partners wahrnimmt, stoppt die Handbewegung, und sie hebt lediglich den Kopf in Richtung der Kamera. Ein unnatürliches Hohlkreuz oder extreme Verdrehungen sind zu vermeiden.
+
+【Ausdruck & Emotion】  
+Ein sanftes, zugewandtes Lächeln voller Erleichterung, die gesuchte Person zu erblicken. Die Lippen sind entspannt zu einem leichten Lächeln geöffnet, ohne zu viele Zähne zu zeigen.  
+In den Augen liegt ein Ausdruck von Geborgenheit und leichter Freude; der Gesichtsausdruck ist weder übertrieben überrascht noch künstlich gestellt. Als beiläufiger Moment des Alltags, in dem sie ihren Geliebten bemerkt, steht eine ungezwungene Wärme im Mittelpunkt.
+
+【Komposition & Kamera】  
+4:5-Hochformat, optimiert für X-Posts. Eine Ganzkörperkomposition mit ausreichend Raum vom Scheitel bis zu den Füßen, bei der die räumliche Beziehung zwischen Bank, Tasche und Händen deutlich erkennbar ist.  
+Die Kamerahöhe liegt auf einer natürlichen Höhe nahe der Brust bis zu den Schultern, leicht schräg von vorne aufgenommen. Eine natürliche Brennweite im Normal- bis leichten Telebereich, die eine Perspektive ohne Körperverzerrungen bevorzugt. Der Hintergrund ist leicht aufgeräumt, lässt aber den Küstenort gut erkennen.
+
+【Licht, Farbe, Textur & Atmosphäre】  
+Die Hauptlichtquelle ist das Sonnenlicht des Mittags, das schräg von oben auf die Figur fällt. Reflektiertes Licht von Geländer und Boden hellt die Schatten im Gesicht und an den Armen sanft auf und wirft natürliche Schatten auf Schultern und Beine.  
+Die Farbpalette harmonisiert das frische Blau von Meer und Himmel, die natürlichen Texturen von Promenade und Bank sowie das milchige Rosa der Kleidung auf sanfte Weise. Natürliche Hauttöne, fließende Haarsträhnen, zarte Spitze sowie differenziert ausgearbeitete Texturen von Holz, Metall und Wasser erzeugen eine helle, elegante und luftige Atmosphäre.
+
+【Qualität & Ausschlüsse】  
+Hohe Auflösung mit Fokus auf eine natürliche Anatomie, realistische Perspektive, Beleuchtung und Materialanmutung, wie mit einer echten Kamera aufgenommen.  
+Minderjährig wirkende Darstellungen, zu kindliche Gesichter, unnatürliche Körperformen, überzählige Gliedmaßen oder Finger, unnatürliche Gelenke, Kleiderfehler, Verschmelzung von Körper und Kleidung, unbeabsichtigte Nacktheit, extreme Weitwinkelverzerrungen, übermäßige Hautglättung, Schriftzüge, Logos, Wasserzeichen und UI-Elemente sind zu vermeiden. Die Brust sollte ihr volles, natürliches Volumen behalten, ohne künstlich riesig, starr kugelrund oder übermäßig gepusht zu wirken.
 ```
 
 [↑ Zurück zu Kategorien](#catalog)
