@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:29:26.982Z",
+  "model": "grok",
+  "prompt": "須賀京太郎金髪アニメーション二次元イケメン",
+  "promptTranslations": {
+    "en": "Kyotaro Suga, blond hair, anime, 2D, handsome guy"
+  },
+  "summaryTranslations": {
+    "en": "Prompt for generating a handsome 2D anime-style character with blond hair."
+  },
+  "translationVersion": 2,
+  "summary": "金髪の二次元アニメ風イケメンキャラクターの生成プロンプト。",
+  "summaryEn": "Prompt for generating a blonde 2D anime-style handsome male character.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104368010953978206",
+    "canonicalUrl": "https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206",
+    "author": {
+      "username": "AUrbNUMjfxj85IS",
+      "displayName": "グリモア新作アプリを楽しみに待ちソシャゲは容量が少ない方が助かると思う者",
+      "profileUrl": "https://x.com/AUrbNUMjfxj85IS"
+    },
+    "publishedAt": "2026-09-28T00:30:05.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "ja",
+    "originalText": "Grok Imagine prompt:\n\n須賀京太郎金髪アニメーション二次元イケメン https://t.co/yHJaz58Mzi",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTQ3jW-b0AAc-so.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTQ3jW-b0AAc-so.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 0,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 0,
+      "viewCount": 10
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AUrbNUMjfxj85IS/status/2104368010953978206",
+  "coverUrl": "https://pbs.twimg.com/media/HTQ3jW-b0AAc-so.jpg",
+  "coverPath": "images/2104368010953978206-1.jpg",
+  "imagePaths": [
+    "images/2104368010953978206-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HTQ3jW-b0AAc-so",
+    "x-post:2104368010953978206"
+  ],
+  "analysis": {
+    "summary": "金髪の二次元アニメ風イケメンキャラクターの生成プロンプト。",
+    "summaryEn": "Prompt for generating a blonde 2D anime-style handsome male character.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "生成图像展现了金发蓝眸、二次元动漫风格的英俊青年，与提示词特征完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "須賀京太郎金髪アニメーション二次元イケメン",
+    "sourceRange": {
+      "start": 22,
+      "end": 43
+    },
+    "translations": {
+      "zh": "须贺京太郎金发动画二次元帅哥",
+      "en": "Kyotaro Suga blonde animation 2D handsome boy"
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "二次元角色立绘生成",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.9,
+    "riskFlags": {
+      "safety": [],
+      "copyright": [
+        "可能涉及动漫既有角色名称（须贺京太郎）"
+      ]
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

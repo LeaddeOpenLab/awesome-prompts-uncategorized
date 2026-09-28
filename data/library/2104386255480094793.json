@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:28:36.750Z",
+  "model": "unknown-image",
+  "prompt": "Strictly preserve appearance 1:1 from the reference: facial features, age, eye color, skin, and hair — no idealization.\n\nPhotorealistic autumn fashion photograph under a tree. The girl stands with her back to the camera, torso slightly turned, head turned to the side, gaze out of frame. The pose is soft and natural.\n\nWind lifts strands around her face and shoulders. Makeup: glowing skin, light contouring, laminated brows, thick lashes, and glossy beige-brown lips.\n\nShe wears a semi-sheer champagne chiffon dress with a short voluminous multi-layered skirt, puff sleeves, and a lace-up back. The fabric glows softly in the sunlight.\n\nBehind her — a dark blurred forest in olive, golden, and amber tones. Backlight creates a golden halo around her hair and shoulders, soft highlights and sun flares.\n\nAnalog film aesthetic: warm deep shadows, light haze, visible grain, and soft sharpness. No digital gloss or staged look.",
+  "promptTranslations": {
+    "en": "Strictly preserve appearance 1:1 from the reference: facial features, age, eye color, skin, and hair — no idealization.\\n\\nPhotorealistic autumn fashion photograph under a tree. The girl stands with her back to the camera, torso slightly turned, head turned to the side, gaze out of frame. The pose is soft and natural.\\n\\nWind lifts strands around her face and shoulders. Makeup: glowing skin, light contouring, laminated brows, thick lashes, and glossy beige-brown lips.\\n\\nShe wears a semi-sheer champagne chiffon dress with a short voluminous multi-layered skirt, puff sleeves, and a lace-up back. The fabric glows softly in the sunlight.\\n\\nBehind her — a dark blurred forest in olive, golden, and amber tones. Backlight creates a golden halo around her hair and shoulders, soft highlights and sun flares.\\n\\nAnalog film aesthetic: warm deep shadows, light haze, visible grain, and soft sharpness. No digital gloss or staged look."
+  },
+  "summaryTranslations": {
+    "en": "Photorealistic autumn portrait of a woman in a champagne puff-sleeve lace-up chiffon dress against a backlit forest."
+  },
+  "translationVersion": 2,
+  "summary": "Photorealistic autumn portrait of a woman in a champagne puff-sleeve lace-up chiffon dress against a backlit forest.",
+  "summaryEn": "Photorealistic autumn portrait of a woman in a champagne puff-sleeve lace-up chiffon dress against a backlit forest.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104386255480094793",
+    "canonicalUrl": "https://x.com/oye_samia/status/2104386255480094793",
+    "author": {
+      "username": "oye_samia",
+      "displayName": "Dr. Samia",
+      "profileUrl": "https://x.com/oye_samia"
+    },
+    "publishedAt": "2026-09-28T01:42:35.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "en",
+    "originalText": "Feeling like I’m in a fairytale.\n\nPrompt: Strictly preserve appearance 1:1 from the reference: facial features, age, eye color, skin, and hair — no idealization.\n\nPhotorealistic autumn fashion photograph under a tree. The girl stands with her back to the camera, torso slightly turned, head turned to the side, gaze out of frame. The pose is soft and natural.\n\nWind lifts strands around her face and shoulders. Makeup: glowing skin, light contouring, laminated brows, thick lashes, and glossy beige-brown lips.\n\nShe wears a semi-sheer champagne chiffon dress with a short voluminous multi-layered skirt, puff sleeves, and a lace-up back. The fabric glows softly in the sunlight.\n\nBehind her — a dark blurred forest in olive, golden, and amber tones. Backlight creates a golden halo around her hair and shoulders, soft highlights and sun flares.\n\nAnalog film aesthetic: warm deep shadows, light haze, visible grain, and soft sharpness. No digital gloss or staged look.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTRII4gaMAApO-p.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTRII4gaMAApO-p.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 20,
+      "repostCount": 2,
+      "replyCount": 12,
+      "quoteCount": 0,
+      "viewCount": 218
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/oye_samia/status/2104386255480094793",
+  "coverUrl": "https://pbs.twimg.com/media/HTRII4gaMAApO-p.jpg",
+  "coverPath": "images/2104386255480094793-1.jpg",
+  "imagePaths": [
+    "images/2104386255480094793-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HTRII4gaMAApO-p",
+    "x-post:2104386255480094793"
+  ],
+  "analysis": {
+    "summary": "Photorealistic autumn portrait of a woman in a champagne puff-sleeve lace-up chiffon dress against a backlit forest.",
+    "summaryEn": "Photorealistic autumn portrait of a woman in a champagne puff-sleeve lace-up chiffon dress against a backlit forest.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image depicts a woman turned to the side wearing a champagne-toned puff-sleeve dress with a lace-up back, illuminated by warm autumn backlighting in a blurred forest."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Strictly preserve appearance 1:1 from the reference: facial features, age, eye color, skin, and hair — no idealization.\n\nPhotorealistic autumn fashion photograph under a tree. The girl stands with her back to the camera, torso slightly turned, head turned to the side, gaze out of frame. The pose is soft and natural.\n\nWind lifts strands around her face and shoulders. Makeup: glowing skin, light contouring, laminated brows, thick lashes, and glossy beige-brown lips.\n\nShe wears a semi-sheer champagne chiffon dress with a short voluminous multi-layered skirt, puff sleeves, and a lace-up back. The fabric glows softly in the sunlight.\n\nBehind her — a dark blurred forest in olive, golden, and amber tones. Backlight creates a golden halo around her hair and shoulders, soft highlights and sun flares.\n\nAnalog film aesthetic: warm deep shadows, light haze, visible grain, and soft sharpness. No digital gloss or staged look.",
+    "sourceRange": {
+      "start": 42,
+      "end": 967
+    },
+    "translations": {
+      "zh": "严格按照参考图 1:1 保留外貌特征：面部特征、年龄、瞳色、肤色和发型——不作美化。\n\n树下的写实秋季时尚摄影。女孩背对镜头站立，躯干微转，头部侧转，目光看向画外。姿态轻柔自然。\n\n微风吹拂脸颊和肩头的发丝。妆容：通透发光的肌肤、淡修容、野生眉、浓密睫毛和滋润的米棕色唇妆。\n\n身着半透香槟色雪纺连衣裙，短款蓬松多层裙摆，泡泡袖，背后系带绑带设计。面料在阳光下泛着微光。\n\n身后是橄榄色、金色和琥珀色调的深色模糊森林。逆光在她的发丝和双肩勾勒出金色光晕，伴随柔和的高光与镜头光晕。\n\n胶片摄影美学：温暖深沉的阴影、淡淡薄雾、清晰颗粒感以及柔和锐度。无数字光泽感或摆拍感。",
+      "en": "Strictly preserve appearance 1:1 from the reference: facial features, age, eye color, skin, and hair — no idealization.\n\nPhotorealistic autumn fashion photograph under a tree. The girl stands with her back to the camera, torso slightly turned, head turned to the side, gaze out of frame. The pose is soft and natural.\n\nWind lifts strands around her face and shoulders. Makeup: glowing skin, light contouring, laminated brows, thick lashes, and glossy beige-brown lips.\n\nShe wears a semi-sheer champagne chiffon dress with a short voluminous multi-layered skirt, puff sleeves, and a lace-up back. The fabric glows softly in the sunlight.\n\nBehind her — a dark blurred forest in olive, golden, and amber tones. Backlight creates a golden halo around her hair and shoulders, soft highlights and sun flares.\n\nAnalog film aesthetic: warm deep shadows, light haze, visible grain, and soft sharpness. No digital gloss or staged look."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "fashion photography",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

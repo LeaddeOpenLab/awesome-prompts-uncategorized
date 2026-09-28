@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:31:22.985Z",
+  "model": "grok",
+  "prompt": "6x6グリッド画像の1コマを開始フレームとして左上から右下へかけて順次参照して、流れるようなアニメキャラのダンス動画を生成。生成動画にはグリッド画像自体は含めず、キャラが1名でダンスしているシーンとする",
+  "promptTranslations": {
+    "en": "Using one panel of the 6x6 grid image as the starting frame and sequentially referencing from the top-left to the bottom-right, generate a fluid anime character dancing video. Do not include the grid image itself in the generated video, but rather make it a scene where a single character is dancing."
+  },
+  "summaryTranslations": {
+    "en": "A prompt for generating a smooth dancing video of a single anime character by sequentially referencing a 6x6 grid image."
+  },
+  "translationVersion": 2,
+  "summary": "6x6グリッド画像を順次参照して単独アニメキャラの滑らかなダンス動画を生成するプロンプト。",
+  "summaryEn": "Prompt to generate a smooth solo anime dance video by sequentially referencing a 6x6 grid image.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104200039627399637",
+    "canonicalUrl": "https://x.com/old_pgmrs_will/status/2104200039627399637",
+    "author": {
+      "username": "old_pgmrs_will",
+      "displayName": "いにしえ@高信頼AIニュース\"NeuralWire.org\"運営｜Will Oldgram",
+      "profileUrl": "https://x.com/old_pgmrs_will"
+    },
+    "publishedAt": "2026-09-27T13:22:38.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "ja",
+    "originalText": "Grok Imagine の動画生成、以前はグリッド画像の動画化ができなかったのに、今は概ねイケるっぽい\n冒頭に数フレームの参照画像が入るけどカットすれば良し☺️\n\n Prompt:\n---\n6x6グリッド画像の1コマを開始フレームとして左上から右下へかけて順次参照して、流れるようなアニメキャラのダンス動画を生成。生成動画にはグリッド画像自体は含めず、キャラが1名でダンスしているシーンとする\n---\nで、このまま使わず「プロンプト強化」を行なってから生成",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/old_pgmrs_will/status/2104200039627399637",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104199223940190208/img/DAXQB1_brvobv344.jpg",
+        "analysisUrl": "https://x.com/old_pgmrs_will/status/2104200039627399637"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTOeO6AbQAAAA0Y.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTOeO6AbQAAAA0Y.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 73,
+      "repostCount": 5,
+      "replyCount": 1,
+      "quoteCount": 1,
+      "viewCount": 4791
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/old_pgmrs_will/status/2104200039627399637",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104199223940190208/img/DAXQB1_brvobv344.jpg",
+  "coverPath": "covers/2104200039627399637.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104199223940190208",
+    "x-image:/media/HTOeO6AbQAAAA0Y",
+    "x-post:2104200039627399637"
+  ],
+  "analysis": {
+    "summary": "6x6グリッド画像を順次参照して単独アニメキャラの滑らかなダンス動画を生成するプロンプト。",
+    "summaryEn": "Prompt to generate a smooth solo anime dance video by sequentially referencing a 6x6 grid image.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "添付の6x6ポーズ画像をもとに、単独アニメキャラが滑らかに踊る動画が生成されており、指示と一致している。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "6x6グリッド画像の1コマを開始フレームとして左上から右下へかけて順次参照して、流れるようなアニメキャラのダンス動画を生成。生成動画にはグリッド画像自体は含めず、キャラが1名でダンスしているシーンとする",
+    "sourceRange": {
+      "start": 96,
+      "end": 197
+    },
+    "translations": {
+      "zh": "以6x6网格图的第一帧作为起始帧，从左上到右下依次参考，生成流畅的动漫角色跳舞视频。生成视频中不包含网格图本身，设定为1名角色跳舞的场景",
+      "en": "Generate a smooth anime character dancing video by sequentially referencing the 6x6 grid image from top-left to bottom-right, starting from frame 1. The output video should not show the grid itself, featuring a single character dancing."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "image-to-video",
+    "useCase": "anime dance animation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.88,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "identified"
+  }
+}

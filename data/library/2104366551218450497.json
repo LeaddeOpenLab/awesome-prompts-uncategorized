@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:28:44.120Z",
+  "model": "unknown-image",
+  "prompt": "A photorealistic portrait of a young woman with long wavy brown hair, wearing a black beret with pink floral embroidery, a cream embroidered floral jacket over a beige knit top, layered gold necklaces, and hoop earrings. She sits at a rustic wooden outdoor cafe table, looking softly to the side. On the table are a latte with foam art, an almond croissant on a ceramic plate, a small glass vase with dried flowers, and scattered cherry blossom petals. Overhead, blooming pink cherry blossoms and warm string lights create a cozy garden cafe atmosphere. Soft golden lighting, highly detailed,..",
+  "promptTranslations": {
+    "en": "A photorealistic portrait of a young woman with long wavy brown hair, wearing a black beret with pink floral embroidery, a cream embroidered floral jacket over a beige knit top, layered gold necklaces, and hoop earrings. She sits at a rustic wooden outdoor cafe table, looking softly to the side. On the table are a latte with foam art, an almond croissant on a ceramic plate, a small glass vase with dried flowers, and scattered cherry blossom petals. Overhead, blooming pink cherry blossoms and warm string lights create a cozy garden cafe atmosphere. Soft golden lighting, highly detailed,.."
+  },
+  "summaryTranslations": {
+    "en": "A photorealistic portrait of a woman in an embroidered beret and floral jacket seated at an outdoor cafe with coffee, a croissant, and cherry blossoms overhead."
+  },
+  "translationVersion": 2,
+  "summary": "A photorealistic portrait of a woman in an embroidered beret and floral jacket seated at an outdoor cafe with coffee, a croissant, and cherry blossoms overhead.",
+  "summaryEn": "A photorealistic portrait of a woman in an embroidered beret and floral jacket seated at an outdoor cafe with coffee, a croissant, and cherry blossoms overhead.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104366551218450497",
+    "canonicalUrl": "https://x.com/__Libra1/status/2104366551218450497",
+    "author": {
+      "username": "__Libra1",
+      "displayName": "𝚂𝚞𝚏𝚒𝚊 𝚂𝚑𝚊𝚑🍁",
+      "profileUrl": "https://x.com/__Libra1"
+    },
+    "publishedAt": "2026-09-28T00:24:17.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "en",
+    "originalText": "Cherry blossoms, a warm latte, and a morning made for slow beginnings 🌸☕\n\nPrompt:\n\nA photorealistic portrait of a young woman with long wavy brown hair, wearing a black beret with pink floral embroidery, a cream embroidered floral jacket over a beige knit top, layered gold necklaces, and hoop earrings. She sits at a rustic wooden outdoor cafe table, looking softly to the side. On the table are a latte with foam art, an almond croissant on a ceramic plate, a small glass vase with dried flowers, and scattered cherry blossom petals. Overhead, blooming pink cherry blossoms and warm string lights create a cozy garden cafe atmosphere. Soft golden lighting, highly detailed,..\n\nAl generated character made by Sufia Shah 🍁",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTQ2NmeW4AAPraK.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTQ2NmeW4AAPraK.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 48,
+      "repostCount": 13,
+      "replyCount": 34,
+      "quoteCount": 0,
+      "viewCount": 460
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/__Libra1/status/2104366551218450497",
+  "coverUrl": "https://pbs.twimg.com/media/HTQ2NmeW4AAPraK.jpg",
+  "coverPath": "images/2104366551218450497-1.jpg",
+  "imagePaths": [
+    "images/2104366551218450497-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HTQ2NmeW4AAPraK",
+    "x-post:2104366551218450497"
+  ],
+  "analysis": {
+    "summary": "A photorealistic portrait of a woman in an embroidered beret and floral jacket seated at an outdoor cafe with coffee, a croissant, and cherry blossoms overhead.",
+    "summaryEn": "A photorealistic portrait of a woman in an embroidered beret and floral jacket seated at an outdoor cafe with coffee, a croissant, and cherry blossoms overhead.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image precisely depicts the woman with wavy brown hair, embroidered beret, floral jacket, layered necklaces, latte, croissant, and cherry blossoms overhead under golden lighting."
+    },
+    "videoQuality": null,
+    "originalPrompt": "A photorealistic portrait of a young woman with long wavy brown hair, wearing a black beret with pink floral embroidery, a cream embroidered floral jacket over a beige knit top, layered gold necklaces, and hoop earrings. She sits at a rustic wooden outdoor cafe table, looking softly to the side. On the table are a latte with foam art, an almond croissant on a ceramic plate, a small glass vase with dried flowers, and scattered cherry blossom petals. Overhead, blooming pink cherry blossoms and warm string lights create a cozy garden cafe atmosphere. Soft golden lighting, highly detailed,..",
+    "sourceRange": {
+      "start": 83,
+      "end": 677
+    },
+    "translations": {
+      "zh": "逼真的年轻女子肖像，留着波浪长棕发，头戴粉色刺绣黑贝雷帽，身穿米白花卉刺绣外套与米色针织内搭，佩戴多层金项链与圆环耳环。她坐在室外乡村木质咖啡桌旁若有所思。桌上有拉花拿铁、陶瓷盘杏仁羊角面包、干花小玻璃瓶和樱花花瓣。头顶盛开的樱花与串灯营造出舒适的露天花园氛围，柔和金色光线，极致细节。",
+      "en": "A photorealistic portrait of a young woman with long wavy brown hair, wearing a black beret with pink floral embroidery, a cream embroidered floral jacket over a beige knit top, layered gold necklaces, and hoop earrings. She sits at a rustic wooden outdoor cafe table, looking softly to the side. On the table are a latte with foam art, an almond croissant on a ceramic plate, a small glass vase with dried flowers, and scattered cherry blossom petals. Overhead, blooming pink cherry blossoms and warm string lights create a cozy garden cafe atmosphere. Soft golden lighting, highly detailed,.."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "realistic portrait generation",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:28:21.794Z",
+  "model": "unknown-video",
+  "prompt": "Bring Bal Krishna to life in a magical Vrindavan garden—playfully stealing makhan, surrounded by peacocks, blooming lotuses and golden morning light. Gentle movements, mischievous smile, cinematic camera motion, divine atmosphere, realistic details and peaceful bansuri music. Ultra-realistic 4K devotional cinema.",
+  "promptTranslations": {
+    "en": "Bring Bal Krishna to life in a magical Vrindavan garden—playfully stealing makhan, surrounded by peacocks, blooming lotuses and golden morning light. Gentle movements, mischievous smile, cinematic camera motion, divine atmosphere, realistic details and peaceful bansuri music. Ultra-realistic 4K devotional cinema."
+  },
+  "summaryTranslations": {
+    "en": "Bal Krishna playfully eating butter in Vrindavan with peacocks and lotuses."
+  },
+  "translationVersion": 2,
+  "summary": "Bal Krishna playfully eating butter in Vrindavan with peacocks and lotuses.",
+  "summaryEn": "Bal Krishna playfully eating butter in Vrindavan with peacocks and lotuses.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104344014505840735",
+    "canonicalUrl": "https://x.com/AnkushThampy/status/2104344014505840735",
+    "author": {
+      "username": "AnkushThampy",
+      "displayName": "ankush thampy",
+      "profileUrl": "https://x.com/AnkushThampy"
+    },
+    "publishedAt": "2026-09-27T22:54:44.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "en",
+    "originalText": "Little Makhan Chor, caught in the sweetest moment. 🦚🧈💙\n\n✨ Prompt: Bring Bal Krishna to life in a magical Vrindavan garden—playfully stealing makhan, surrounded by peacocks, blooming lotuses and golden morning light. Gentle movements, mischievous smile, cinematic camera motion, divine atmosphere, realistic details and peaceful bansuri music. Ultra-realistic 4K devotional cinema. 🪈🪷✨\n\n#Krishna #BalKrishna #Vrindavan #AIArt #AIVideo",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://x.com/AnkushThampy/status/2104344014505840735",
+        "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/2104343957345894400/img/gUoIyquv6cI4hYEO.jpg",
+        "analysisUrl": "https://x.com/AnkushThampy/status/2104344014505840735"
+      }
+    ],
+    "metrics": {
+      "likeCount": 21,
+      "repostCount": 8,
+      "replyCount": 14,
+      "quoteCount": 1,
+      "viewCount": 459
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/AnkushThampy/status/2104344014505840735",
+  "coverUrl": "https://pbs.twimg.com/amplify_video_thumb/2104343957345894400/img/gUoIyquv6cI4hYEO.jpg",
+  "coverPath": "covers/2104344014505840735.jpg",
+  "imagePaths": [],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "video",
+  "mediaFingerprints": [
+    "x-video:2104343957345894400",
+    "x-post:2104344014505840735"
+  ],
+  "analysis": {
+    "summary": "Bal Krishna playfully eating butter in Vrindavan with peacocks and lotuses.",
+    "summaryEn": "Bal Krishna playfully eating butter in Vrindavan with peacocks and lotuses.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The video closely matches the prompt, depicting Bal Krishna eating butter amidst peacocks and lotuses in golden morning light."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Bring Bal Krishna to life in a magical Vrindavan garden—playfully stealing makhan, surrounded by peacocks, blooming lotuses and golden morning light. Gentle movements, mischievous smile, cinematic camera motion, divine atmosphere, realistic details and peaceful bansuri music. Ultra-realistic 4K devotional cinema.",
+    "sourceRange": {
+      "start": 66,
+      "end": 380
+    },
+    "translations": {
+      "zh": "让童年克里希纳在神奇的花园中栩栩如生——调皮地偷吃黄油，周围环绕着孔雀、盛开的莲花和金色的晨光。动作轻缓，笑容顽皮，电影级镜头运动，神圣氛围，逼真细节和宁静的排箫音乐。超写实4K虔敬电影风格。",
+      "en": "Bring Bal Krishna to life in a magical Vrindavan garden—playfully stealing makhan, surrounded by peacocks, blooming lotuses and golden morning light. Gentle movements, mischievous smile, cinematic camera motion, divine atmosphere, realistic details and peaceful bansuri music. Ultra-realistic 4K devotional cinema."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-video",
+    "useCase": "text-to-video",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "video",
+    "modelStatus": "unknown"
+  }
+}

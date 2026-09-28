@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:30:33.047Z",
+  "model": "unknown-image",
+  "prompt": "Ultra-detailed dark gothic Halloween portrait of a pale spider-witch queen, three-quarter front view, standing pose with both hands lowered near her hips, fingers slightly curled, long wavy dark brown-black voluminous hair, small black horn-shaped headpieces decorated with sparkling crystals and beads on both sides of the head, porcelain white skin, pale icy eyes with a cold intense gaze, dramatic smoky black eyeshadow with sharp winged eyeliner, thin dark streaks running down from the eyes, matte black lips, black and crystal chandelier drop earrings, sparkling black beaded choker with a large black gemstone pendant, delicate black vein-like branch tattoo patterns spreading across the neck, chest and shoulder, long sharp black stiletto nails, black sequin gown with thin straps, sweetheart neckline and a high thigh slit, long black sheer fingerless arm gloves with gold beaded detailing, huge glowing spider webs covering the dark background, dark misty night atmosphere, a faint glowing orange carved pumpkin in the corner, cold blue-gray moonlit tones with small warm orange accents, moody cinematic lighting, high contrast, shallow depth of field, sharp focus on face, dark spooky fairytale aesthetic, high-fashion editorial photography, 8k, ultra realistic --ar 9:16",
+  "promptTranslations": {
+    "en": "Ultra-detailed dark gothic Halloween portrait of a pale spider-witch queen, three-quarter front view, standing pose with both hands lowered near her hips, fingers slightly curled, long wavy dark brown-black voluminous hair, small black horn-shaped headpieces decorated with sparkling crystals and beads on both sides of the head, porcelain white skin, pale icy eyes with a cold intense gaze, dramatic smoky black eyeshadow with sharp winged eyeliner, thin dark streaks running down from the eyes, matte black lips, black and crystal chandelier drop earrings, sparkling black beaded choker with a large black gemstone pendant, delicate black vein-like branch tattoo patterns spreading across the neck, chest and shoulder, long sharp black stiletto nails, black sequin gown with thin straps, sweetheart neckline and a high thigh slit, long black sheer fingerless arm gloves with gold beaded detailing, huge glowing spider webs covering the dark background, dark misty night atmosphere, a faint glowing orange carved pumpkin in the corner, cold blue-gray moonlit tones with small warm orange accents, moody cinematic lighting, high contrast, shallow depth of field, sharp focus on face, dark spooky fairytale aesthetic, high-fashion editorial photography, 8k, ultra realistic --ar 9:16"
+  },
+  "summaryTranslations": {
+    "en": "Dark gothic portrait prompt depicting a spider-witch queen with horns, glowing webs, and Halloween accents."
+  },
+  "translationVersion": 2,
+  "summary": "Dark gothic portrait prompt depicting a spider-witch queen with horns, glowing webs, and Halloween accents.",
+  "summaryEn": "Dark gothic portrait prompt depicting a spider-witch queen with horns, glowing webs, and Halloween accents.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2100872958935789824",
+      "canonicalUrl": "https://x.com/runaroseee/status/2100872958935789824",
+      "author": {
+        "username": "runaroseee",
+        "displayName": "Runa Rose",
+        "profileUrl": "https://x.com/runaroseee"
+      },
+      "originalText": "Queen of skulls and soft ember\n\nPrompt : A side-profile portrait of a dark fantasy gothic queen with long, flowing platinum white hair, dark eye makeup, and deep red lipstick. She wears an ornate black lace crown adorned with miniature realistic skulls and dark gems. Around her neck is a silver metal chain necklace with a skull centerpiece. Her outfit is a high-collared black lace dress with red embroidered floral details underneath. Swirling thick grey smoke envelopes the background, with warm ember-like glowing light casting soft shadows on one side. Cinematic, moody lighting, ultra-realistic, photorealistic, highly detailed, 8k resolution."
+    },
+    "id": "2104375790141850010",
+    "canonicalUrl": "https://x.com/runaroseee/status/2104375790141850010",
+    "author": {
+      "username": "runaroseee",
+      "displayName": "Runa Rose",
+      "profileUrl": "https://x.com/runaroseee"
+    },
+    "publishedAt": "2026-09-28T01:01:00.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "en",
+    "originalText": "Some women don't fall into your web. They spin their own and wait for you to walk in.\n\nPrompt : Ultra-detailed dark gothic Halloween portrait of a pale spider-witch queen, three-quarter front view, standing pose with both hands lowered near her hips, fingers slightly curled, long wavy dark brown-black voluminous hair, small black horn-shaped headpieces decorated with sparkling crystals and beads on both sides of the head, porcelain white skin, pale icy eyes with a cold intense gaze, dramatic smoky black eyeshadow with sharp winged eyeliner, thin dark streaks running down from the eyes, matte black lips, black and crystal chandelier drop earrings, sparkling black beaded choker with a large black gemstone pendant, delicate black vein-like branch tattoo patterns spreading across the neck, chest and shoulder, long sharp black stiletto nails, black sequin gown with thin straps, sweetheart neckline and a high thigh slit, long black sheer fingerless arm gloves with gold beaded detailing, huge glowing spider webs covering the dark background, dark misty night atmosphere, a faint glowing orange carved pumpkin in the corner, cold blue-gray moonlit tones with small warm orange accents, moody cinematic lighting, high contrast, shallow depth of field, sharp focus on face, dark spooky fairytale aesthetic, high-fashion editorial photography, 8k, ultra realistic --ar 9:16",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSq2lx5bAAAOWTR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSq2lx5bAAAOWTR.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HSbLrB_a0AASSer.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HSbLrB_a0AASSer.jpg",
+        "sourcePostId": "2100872958935789824"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 2,
+      "replyCount": 9,
+      "quoteCount": 0,
+      "viewCount": 216
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/runaroseee/status/2104375790141850010",
+  "coverUrl": "https://pbs.twimg.com/media/HSq2lx5bAAAOWTR.jpg",
+  "coverPath": "images/2104375790141850010-1.jpg",
+  "imagePaths": [
+    "images/2104375790141850010-1.jpg",
+    "images/2104375790141850010-2.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HSq2lx5bAAAOWTR",
+    "x-image:/media/HSbLrB_a0AASSer",
+    "x-post:2104375790141850010",
+    "x-post:2100872958935789824"
+  ],
+  "analysis": {
+    "summary": "Dark gothic portrait prompt depicting a spider-witch queen with horns, glowing webs, and Halloween accents.",
+    "summaryEn": "Dark gothic portrait prompt depicting a spider-witch queen with horns, glowing webs, and Halloween accents.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Matches the first image accurately: pale spider queen with horns, black sequin gown, neck vein patterns, and glowing web background."
+    },
+    "videoQuality": null,
+    "originalPrompt": "Ultra-detailed dark gothic Halloween portrait of a pale spider-witch queen, three-quarter front view, standing pose with both hands lowered near her hips, fingers slightly curled, long wavy dark brown-black voluminous hair, small black horn-shaped headpieces decorated with sparkling crystals and beads on both sides of the head, porcelain white skin, pale icy eyes with a cold intense gaze, dramatic smoky black eyeshadow with sharp winged eyeliner, thin dark streaks running down from the eyes, matte black lips, black and crystal chandelier drop earrings, sparkling black beaded choker with a large black gemstone pendant, delicate black vein-like branch tattoo patterns spreading across the neck, chest and shoulder, long sharp black stiletto nails, black sequin gown with thin straps, sweetheart neckline and a high thigh slit, long black sheer fingerless arm gloves with gold beaded detailing, huge glowing spider webs covering the dark background, dark misty night atmosphere, a faint glowing orange carved pumpkin in the corner, cold blue-gray moonlit tones with small warm orange accents, moody cinematic lighting, high contrast, shallow depth of field, sharp focus on face, dark spooky fairytale aesthetic, high-fashion editorial photography, 8k, ultra realistic --ar 9:16",
+    "sourceRange": {
+      "start": 96,
+      "end": 1378
+    },
+    "translations": {
+      "zh": "暗黑哥特万圣节肖像：苍白蜘蛛女巫女王，四分之三正视站姿，双手微卷垂于髋部，深黑波浪卷发配水晶饰黑角发饰。瓷白肌肤、冷峻冰眸、浓烈烟熏眼线伴有泪痕、哑光黑唇、水晶吊坠耳环与串珠颈圈，颈肩布满枝状黑纹。着细吊带亮片开衩长裙与透肤长手套，背景覆巨大荧光蛛网，角落有微光南瓜，高对比电影级光影。",
+      "en": "Ultra-detailed dark gothic Halloween portrait of a pale spider-witch queen, three-quarter front view, standing pose with both hands lowered near her hips, fingers slightly curled, long wavy dark brown-black voluminous hair, small black horn-shaped headpieces decorated with sparkling crystals and beads on both sides of the head, porcelain white skin, pale icy eyes with a cold intense gaze, dramatic smoky black eyeshadow with sharp winged eyeliner, thin dark streaks running down from the eyes, matte black lips, black and crystal chandelier drop earrings, sparkling black beaded choker with a large black gemstone pendant, delicate black vein-like branch tattoo patterns spreading across the neck, chest and shoulder, long sharp black stiletto nails, black sequin gown with thin straps, sweetheart neckline and a high thigh slit, long black sheer fingerless arm gloves with gold beaded detailing, huge glowing spider webs covering the dark background, dark misty night atmosphere, a faint glowing orange carved pumpkin in the corner, cold blue-gray moonlit tones with small warm orange accents, moody cinematic lighting, high contrast, shallow depth of field, sharp focus on face, dark spooky fairytale aesthetic, high-fashion editorial photography, 8k, ultra realistic --ar 9:16"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "Gothic Halloween editorial portrait",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

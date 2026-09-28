@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:29:33.619Z",
+  "model": "unknown-image",
+  "prompt": "cute fenrir wolf onesie outfit, silver-white and icy blue hooded kigurumi, hood front features a deranged unhinged wolf face, mismatched button eyes with spiral pupils, one eye bulging and one eye tiny, crooked jagged stitched mouth with too many sharp teeth, lolling tongue, pointed fluffy ears, hood rests on neck when down, thick fluffy fur collar, fluffy and textured fur-like cloth material, oversized sleeves, large fluffy wolf tail with icy blue tip, cute wolf-paw slippers with soft pads, small broken chain motif details on the cuffs, soft fluffy fabric texture, silver white and icy blue color palette",
+  "promptTranslations": {
+    "en": "cute fenrir wolf onesie outfit, silver-white and icy blue hooded kigurumi, hood front features a deranged unhinged wolf face, mismatched button eyes with spiral pupils, one eye bulging and one eye tiny, crooked jagged stitched mouth with too many sharp teeth, lolling tongue, pointed fluffy ears, hood rests on neck when down, thick fluffy fur collar, fluffy and textured fur-like cloth material, oversized sleeves, large fluffy wolf tail with icy blue tip, cute wolf-paw slippers with soft pads, small broken chain motif details on the cuffs, soft fluffy fabric texture, silver white and icy blue color palette"
+  },
+  "summaryTranslations": {
+    "en": "Mythical giant wolf Fenrir-themed plush onesie outfit prompt, featuring details such as an unhinged-expression wolf-head hood, button eyes, and paw slippers."
+  },
+  "translationVersion": 2,
+  "summary": "神话巨狼芬里尔主题的连体毛绒服饰提示词，包含疯狂表情的狼头兜帽、纽扣眼和爪子拖鞋等细节。",
+  "summaryEn": "Prompt for a mythical Fenrir wolf onesie costume featuring a deranged wolf hood, mismatched button eyes, and paw slippers.",
+  "post": {
+    "postKind": "quote",
+    "repostOf": null,
+    "quotedPost": {
+      "id": "2104377805685616654",
+      "canonicalUrl": "https://x.com/soranomk2/status/2104377805685616654",
+      "author": {
+        "username": "soranomk2",
+        "displayName": "空野サダ",
+        "profileUrl": "https://x.com/soranomk2"
+      },
+      "originalText": "空野ファンタジー雑貨店より入荷\n魔法学院の制服セット\n剣にしか見えないけど、一応魔術杖です。\n\nPrompt:\n\"fantasy magic academy uniform outfit, fitted white blazer with gold trim and embroidered academy crest, white blouse with dark ribbon bow tie, red plaid pleated mini skirt, long mantle-style cloak with star pattern lining fastened at the shoulders, black knee-high socks, brown leather loafers, holding a sword-shaped magic staff with a slender blade-like shaft and a glowing crystal set in the crossguard, detailed cloth texture, gold accents\"\n\n※被写体プロンプト（オリジナルキャラ等）に付け加えて使ってください\n#空野ワールド #空野ファンタジー雑貨店 #AIプロンプト"
+    },
+    "id": "2104381919882567961",
+    "canonicalUrl": "https://x.com/soranomk2/status/2104381919882567961",
+    "author": {
+      "username": "soranomk2",
+      "displayName": "空野サダ",
+      "profileUrl": "https://x.com/soranomk2"
+    },
+    "publishedAt": "2026-09-28T01:25:21.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "ja",
+    "originalText": "空野ファンタジー雑貨店より入荷\n神話の狼、フェンリル着ぐるみセット\nフードの顔は完全にキマってます。しかし中身の本人は無表情です。\n\nPrompt:\n\"cute fenrir wolf onesie outfit, silver-white and icy blue hooded kigurumi, hood front features a deranged unhinged wolf face, mismatched button eyes with spiral pupils, one eye bulging and one eye tiny, crooked jagged stitched mouth with too many sharp teeth, lolling tongue, pointed fluffy ears, hood rests on neck when down, thick fluffy fur collar, fluffy and textured fur-like cloth material, oversized sleeves, large fluffy wolf tail with icy blue tip, cute wolf-paw slippers with soft pads, small broken chain motif details on the cuffs, soft fluffy fabric texture, silver white and icy blue color palette\"\n※被写体プロンプト（オリジナルキャラ等）に付け加えて使ってください\n#空野ワールド #空野ファンタジー雑貨店 #AIプロンプト",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTREME9a4AA2f-u.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTREME9a4AA2f-u.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTREMf_awAA3eIG.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTREMf_awAA3eIG.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTREM4baEAAjpMA.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTREM4baEAAjpMA.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTRAco5aQAAbgw9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTRAco5aQAAbgw9.jpg",
+        "sourcePostId": "2104377805685616654"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTRAdDMbwAAnfGp.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTRAdDMbwAAnfGp.jpg",
+        "sourcePostId": "2104377805685616654"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTRAda3bwAAm1AR.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTRAda3bwAAm1AR.jpg",
+        "sourcePostId": "2104377805685616654"
+      }
+    ],
+    "metrics": {
+      "likeCount": 6,
+      "repostCount": 0,
+      "replyCount": 0,
+      "quoteCount": 1,
+      "viewCount": 174
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/soranomk2/status/2104381919882567961",
+  "coverUrl": "https://pbs.twimg.com/media/HTREME9a4AA2f-u.jpg",
+  "coverPath": "images/2104381919882567961-1.jpg",
+  "imagePaths": [
+    "images/2104381919882567961-1.jpg",
+    "images/2104381919882567961-2.jpg",
+    "images/2104381919882567961-3.jpg",
+    "images/2104381919882567961-4.jpg",
+    "images/2104381919882567961-5.jpg",
+    "images/2104381919882567961-6.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HTREME9a4AA2f-u",
+    "x-image:/media/HTREMf_awAA3eIG",
+    "x-image:/media/HTREM4baEAAjpMA",
+    "x-image:/media/HTRAco5aQAAbgw9",
+    "x-image:/media/HTRAdDMbwAAnfGp",
+    "x-image:/media/HTRAda3bwAAm1AR",
+    "x-post:2104381919882567961",
+    "x-post:2104377805685616654"
+  ],
+  "analysis": {
+    "summary": "神话巨狼芬里尔主题的连体毛绒服饰提示词，包含疯狂表情的狼头兜帽、纽扣眼和爪子拖鞋等细节。",
+    "summaryEn": "Prompt for a mythical Fenrir wolf onesie costume featuring a deranged wolf hood, mismatched button eyes, and paw slippers.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Images 1-3 precisely display the silver-white and icy blue wolf onesie with the manic button-eyed wolf hood, oversized sleeves, cuff chains, and paw slippers."
+    },
+    "videoQuality": null,
+    "originalPrompt": "cute fenrir wolf onesie outfit, silver-white and icy blue hooded kigurumi, hood front features a deranged unhinged wolf face, mismatched button eyes with spiral pupils, one eye bulging and one eye tiny, crooked jagged stitched mouth with too many sharp teeth, lolling tongue, pointed fluffy ears, hood rests on neck when down, thick fluffy fur collar, fluffy and textured fur-like cloth material, oversized sleeves, large fluffy wolf tail with icy blue tip, cute wolf-paw slippers with soft pads, small broken chain motif details on the cuffs, soft fluffy fabric texture, silver white and icy blue color palette",
+    "sourceRange": {
+      "start": 76,
+      "end": 687
+    },
+    "translations": {
+      "zh": "可爱的芬里尔狼连体衣套装，银白与冰蓝色的连帽连体睡衣，兜帽正面呈现出疯狂失常的狼脸，不匹配的螺旋瞳孔纽扣眼睛，一只凸起一只极小，缝合的歪斜锯齿状嘴巴露出过多的尖牙，吐出舌头，毛茸茸的尖耳，兜帽放下时搭在颈部，厚实的绒毛衣领，毛茸茸有质感的仿毛布料材质，宽大袖子，带有冰蓝尖端的大绒尾巴，带有软肉垫的可爱狼爪拖鞋，袖口有细小的碎链图案细节，柔软毛茸茸的面料纹理，银白与冰蓝配色",
+      "en": "cute fenrir wolf onesie outfit, silver-white and icy blue hooded kigurumi, hood front features a deranged unhinged wolf face, mismatched button eyes with spiral pupils, one eye bulging and one eye tiny, crooked jagged stitched mouth with too many sharp teeth, lolling tongue, pointed fluffy ears, hood rests on neck when down, thick fluffy fur collar, fluffy and textured fur-like cloth material, oversized sleeves, large fluffy wolf tail with icy blue tip, cute wolf-paw slippers with soft pads, small broken chain motif details on the cuffs, soft fluffy fabric texture, silver white and icy blue color palette"
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "outfit / character concept art",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

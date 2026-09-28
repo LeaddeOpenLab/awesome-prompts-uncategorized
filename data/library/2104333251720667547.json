@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:27:01.255Z",
+  "model": "grok",
+  "prompt": "🌟海辺のベンチでふと見上げる、潮風とミルキーピンクの午後🌟\n\n【主題・画風】  \n海沿いの遊歩道に置かれたベンチのそばで、バッグを探す途中に恋人の気配で顔を上げた一瞬を描く。フォトリアルで、スマホや日常スナップより少し丁寧に撮った写真集風の表現。  \n生活感のある自然な所作と、海辺らしい爽やかさ、上品で親しみやすい女性らしさが同時に伝わる一枚にする。\n\n【場所・背景・世界観】  \n昼の海沿いのベンチ横。木製ベンチ、座面に置かれたかごバッグ、石張りの遊歩道、低い手すり、その向こうに広がる青い海と空を配置する。  \n背景は開放感のある海辺の景色を見せつつ、主役の人物が埋もれないよう整理する。遠景には白波や水平線、海辺の街並みを控えめに入れ、明るいリゾート感を添える。\n\n【季節・時間・天候】  \n季節は初夏から夏の昼。空気は明るく澄み、海風が心地よく吹く晴天。  \n日差しは強すぎず、カラッとした昼の光が場面全体を照らす。髪やレースの縁が風でわずかに動き、穏やかな活動感を生む。\n\n【人物設定】  \n20〜28歳ほどの明確に成人した日本人女性。柔らかく整った顔立ちで、黒目がちな瞳、自然な眉、血色のよい唇。暗めのブラウンの肩までのゆるいウェーブヘアで、数本の後れ毛が風に揺れる。  \n肌は明るいオークル系で、過度に加工しない自然な質感。体型は華奢さの中に女性らしい曲線がある上品で自然なグラマラス体型。細めのウエストと全身の調和を保ちつつ、胸元は豊かな自然なボリュームを持ち、姿勢と衣装になじむ柔らかな立体感として表現する。\n\n【衣装・アクセサリー】  \nミルキーピンク地に、白と淡いサックスブルーの小花刺繍を散らしたワコール系のレースブラジャーとショーツ。繊細なレースの縁取りと刺繍が上品で、甘すぎず清潔感のある印象。  \n生地は身体に自然に沿う現実的なサイズ感で、胸元や腰まわりにも無理なくフィットし、レースや刺繍が引き伸ばされたり歪んだりしない。アクセサリーは華奢なネックレス程度にとどめ、バッグはナチュラル素材のかごバッグとする。\n\n【ポーズ・動作・視線】  \nベンチの横に立ち、身体は斜め前向き。重心はやや右脚に置き、左脚は少し前へ出して自然に力を抜く。上体は軽く前傾し、探し物の途中らしい流れを残す。  \n右手はバッグの中へ入れたまま、左手はバッグの縁を軽く押さえる。恋人の声に気づいた瞬間として、手の動きは止まり、顔だけをふっと上げてカメラ方向を見る。不自然な反り腰や極端なねじれは避ける。\n\n【表情・感情】  \n見つけた相手にほっとしたような、やさしく親しみやすい笑み。口元は自然にゆるみ、歯を見せすぎない軽い微笑みとする。  \n目元には安心感と少しのうれしさをにじませ、驚きすぎず作り込みすぎない表情にする。恋人に気づいた日常の一瞬として、気取らない温度感を大切にする。\n\n【構図・カメラ】  \nX投稿向け4:5の縦長。頭頂部から足先まで余裕をもって収めたフルボディ構図で、ベンチ、バッグ、手元の位置関係がきちんと分かる距離感にする。  \nカメラ高は胸〜肩あたりに近い自然な高さ、やや斜め前から撮影。標準〜中望遠寄りの自然な画角で、身体を誇張しない遠近感を優先する。背景は軽く整理しつつ、海辺のロケーションが十分分かる程度に残す。\n\n【光・色・質感・雰囲気】  \n主光源は昼の太陽光で、やや斜め上から人物へ当たる。手すりや路面からの反射光が顔や腕の影をやわらかく持ち上げ、肩や脚元には自然な影を落とす。  \n色調は海と空の爽やかなブルー、遊歩道やベンチのナチュラルな質感、ミルキーピンクの衣装がやさしく調和する構成。肌は自然な血色、髪はしなやかな毛流れ、レースは繊細、木や金属や水面はそれぞれ異なる素材感を丁寧に描写し、明るく上品で風通しのよい雰囲気にまとめる。\n\n【品質・除外要素】  \n高解像度で、実在するカメラで撮影したような自然な人体、遠近感、光、素材感を重視する。  \n未成年に見える表現、幼すぎる顔立ち、不自然な身体、余分な手足や指、不自然な関節、衣装の破綻、身体と衣装の融合、意図しない露出、極端な広角歪み、過度な美肌加工、文字・ロゴ・透かし・UI表示は避ける。胸元は豊かな自然なボリュームを保ちつつ、不自然に巨大、硬い球体状、過度な押し上げにならないようにする。",
+  "promptTranslations": {
+    "en": "🌟Looking Up Casually from a Seaside Bench: Sea Breeze and a Milky Pink Afternoon🌟\n\n[Subject / Art Style]\nDepict a fleeting moment beside a bench along a coastal promenade, where she looks up upon sensing her lover's presence while searching through her bag. Photorealistic, rendered in the style of a photo book, shot a bit more meticulously than a smartphone photo or casual snapshot.\nCreate a piece that simultaneously conveys natural gestures with a sense of daily life, refreshing seaside ambiance, and an elegant yet approachable femininity.\n\n[Location / Background / Worldview]\nBeside a coastal bench at midday. Arrange a wooden bench, a basket bag placed on the seat, a stone-paved promenade, a low railing, and the blue sea and sky stretching out beyond.\nOrganize the background so that it showcases an open, airy seaside view without overwhelming or drowning out the main subject. In the distance, subtly include white waves, the horizon, and seaside townscape to add a bright resort feel.\n\n[Season / Time / Weather]\nThe season is midday in early summer to summer. A clear, sunny day with bright, crisp air and a pleasantly blowing sea breeze.\nThe sunlight is not overly harsh; a dry midday light illuminates the entire scene. Strands of hair and the edges of the lace gently flutter in the wind, creating a mild sense of gentle motion.\n\n[Character Settings]\nA clearly adult Japanese woman around 20 to 28 years old. Soft, well-proportioned facial features with dark expressive eyes, natural eyebrows, and healthy-looking lips. Dark brown, shoulder-length loose wavy hair, with a few stray strands swaying in the breeze.\nSkin is light ochre-toned with a natural texture that is not overly retouched. Her body type is elegantly and naturally glamorous, featuring feminine curves within a slender frame. While maintaining a slim waist and overall harmony with her body, her bust has a generous, natural volume, expressed as a soft three-dimensional form that naturally fits her posture and attire.\n\n[Costume / Accessories]\nA Wacoal-style lace bra and panties set on a milky pink base, scattered with embroidered small flowers in white and light sax blue. The delicate lace trim and embroidery are elegant, giving a clean and fresh impression without being overly sweet.\nThe fabric conforms naturally to the body in a realistic fit, fitting comfortably around the bust and hips without stretching or distorting the lace or embroidery. Accessories are kept minimal, such as a delicate necklace, and the bag is a basket bag made of natural materials.\n\n[Pose / Action / Gaze]\nStanding beside the bench, her body angled diagonally forward. Her center of gravity is slightly on her right leg, with her left leg stepped slightly forward and naturally relaxed. Her upper body leans forward slightly, retaining the natural flow of being in the middle of searching for something.\nHer right hand remains inside the bag, while her left hand lightly holds the rim of the bag. As the moment she notices her lover's voice, her hand movements pause and she casually raises just her face to look toward the camera. Avoid unnatural hyperlordosis (arched back) or extreme twisting.\n\n[Facial Expression / Emotion]\nA gentle, approachable smile looking relieved upon seeing the person she found. Her mouth is naturally relaxed in a light smile without showing too much teeth.\nHer eyes convey a sense of relief and subtle delight, keeping the expression neither overly surprised nor overly staged. Value the unpretentious warmth of an everyday moment noticing her lover.\n\n[Composition / Camera]\n4:5 vertical aspect ratio suitable for X (Twitter) posts. Full-body composition comfortably framing from the top of the head down to the tips of her feet, with a distance that clearly reveals the spatial relationship between the bench, bag, and her hands.\nCamera height is at a natural level near chest to shoulder height, shot from a slightly diagonal front angle. Prioritize natural perspective using a standard to moderate telephoto angle of view that does not exaggerate the body. Keep the background lightly organized while retaining enough detail to clearly identify the seaside location.\n\n[Light / Color / Texture / Atmosphere]\nThe main light source is midday sunlight, hitting the subject from slightly diagonally above. Reflected light from the railing and ground surface softly lifts shadows on her face and arms, while casting natural shadows on her shoulders and around her feet.\nThe color palette harmoniously blends the refreshing blues of the ocean and sky, the natural textures of the promenade and bench, and the milky pink outfit. Maintain natural complexion on skin, supple flow in hair, delicate lace, and carefully depict the distinct material textures of wood, metal, and water surfaces, bringing together a bright, elegant, and breezy atmosphere.\n\n[Quality / Negative Elements]\nEmphasize high resolution, natural human anatomy as if captured with an actual camera, realistic perspective, lighting, and textures.\nAvoid depictions appearing underage, overly youthful facial features, unnatural anatomy, extra limbs or fingers, unnatural joints, wardrobe malfunctions, blending of body and clothing, unintended exposure, extreme wide-angle distortion, excessive skin-smoothing retouching, text, logos, watermarks, and UI elements. Ensure the bust maintains a generous, natural volume while avoiding an unnaturally gigantic, rigid spherical, or excessively pushed-up appearance."
+  },
+  "summaryTranslations": {
+    "en": "A high-quality photorealistic portrait prompt of a Japanese woman wearing milky pink lingerie with small flower embroidery lace, who casually looks up with a smile while searching through a basket bag next to a bench on a seaside promenade."
+  },
+  "translationVersion": 2,
+  "summary": "海辺の遊歩道のベンチ横でかごバッグを探しながらふと笑顔で顔を上げる、ミルキーピンクの小花刺繍レースランジェリーを身に着けた日本人女性の高品質フォトリアルポートレートプロンプト。",
+  "summaryEn": "A detailed photorealistic portrait prompt depicting a Japanese woman in milky pink floral lace lingerie smiling and looking up while searching her straw bag beside a seaside bench on a sunny afternoon.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104333251720667547",
+    "canonicalUrl": "https://x.com/muse_ai_prompt/status/2104333251720667547",
+    "author": {
+      "username": "muse_ai_prompt",
+      "displayName": "M U S E – AI画像プロンプトラボ",
+      "profileUrl": "https://x.com/muse_ai_prompt"
+    },
+    "publishedAt": "2026-09-27T22:11:58.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "ja",
+    "originalText": "🌟ChatGPTで描いた一枚です🤗  \n海の見えるベンチ横で、バッグを探していた彼女がふっと顔を上げる瞬間が印象的です🏖️🌊  \nミルキーピンクの小花刺繍レースランジェリーがやわらかな昼光によく映え、親しみやすい笑みと爽やかな潮風が、明るく上品な空気をつくります☀️✨  \nもしこのプロンプトで画像を生成してくださったら、よかったら作品をシェアしてもらえると嬉しいです🤗✨\n\n#ChatGPT #Grok #AI画像生成 #画像生成AI #AIart\n\n【ChatGPT🍀Prompt】  \n🌟海辺のベンチでふと見上げる、潮風とミルキーピンクの午後🌟\n\n【主題・画風】  \n海沿いの遊歩道に置かれたベンチのそばで、バッグを探す途中に恋人の気配で顔を上げた一瞬を描く。フォトリアルで、スマホや日常スナップより少し丁寧に撮った写真集風の表現。  \n生活感のある自然な所作と、海辺らしい爽やかさ、上品で親しみやすい女性らしさが同時に伝わる一枚にする。\n\n【場所・背景・世界観】  \n昼の海沿いのベンチ横。木製ベンチ、座面に置かれたかごバッグ、石張りの遊歩道、低い手すり、その向こうに広がる青い海と空を配置する。  \n背景は開放感のある海辺の景色を見せつつ、主役の人物が埋もれないよう整理する。遠景には白波や水平線、海辺の街並みを控えめに入れ、明るいリゾート感を添える。\n\n【季節・時間・天候】  \n季節は初夏から夏の昼。空気は明るく澄み、海風が心地よく吹く晴天。  \n日差しは強すぎず、カラッとした昼の光が場面全体を照らす。髪やレースの縁が風でわずかに動き、穏やかな活動感を生む。\n\n【人物設定】  \n20〜28歳ほどの明確に成人した日本人女性。柔らかく整った顔立ちで、黒目がちな瞳、自然な眉、血色のよい唇。暗めのブラウンの肩までのゆるいウェーブヘアで、数本の後れ毛が風に揺れる。  \n肌は明るいオークル系で、過度に加工しない自然な質感。体型は華奢さの中に女性らしい曲線がある上品で自然なグラマラス体型。細めのウエストと全身の調和を保ちつつ、胸元は豊かな自然なボリュームを持ち、姿勢と衣装になじむ柔らかな立体感として表現する。\n\n【衣装・アクセサリー】  \nミルキーピンク地に、白と淡いサックスブルーの小花刺繍を散らしたワコール系のレースブラジャーとショーツ。繊細なレースの縁取りと刺繍が上品で、甘すぎず清潔感のある印象。  \n生地は身体に自然に沿う現実的なサイズ感で、胸元や腰まわりにも無理なくフィットし、レースや刺繍が引き伸ばされたり歪んだりしない。アクセサリーは華奢なネックレス程度にとどめ、バッグはナチュラル素材のかごバッグとする。\n\n【ポーズ・動作・視線】  \nベンチの横に立ち、身体は斜め前向き。重心はやや右脚に置き、左脚は少し前へ出して自然に力を抜く。上体は軽く前傾し、探し物の途中らしい流れを残す。  \n右手はバッグの中へ入れたまま、左手はバッグの縁を軽く押さえる。恋人の声に気づいた瞬間として、手の動きは止まり、顔だけをふっと上げてカメラ方向を見る。不自然な反り腰や極端なねじれは避ける。\n\n【表情・感情】  \n見つけた相手にほっとしたような、やさしく親しみやすい笑み。口元は自然にゆるみ、歯を見せすぎない軽い微笑みとする。  \n目元には安心感と少しのうれしさをにじませ、驚きすぎず作り込みすぎない表情にする。恋人に気づいた日常の一瞬として、気取らない温度感を大切にする。\n\n【構図・カメラ】  \nX投稿向け4:5の縦長。頭頂部から足先まで余裕をもって収めたフルボディ構図で、ベンチ、バッグ、手元の位置関係がきちんと分かる距離感にする。  \nカメラ高は胸〜肩あたりに近い自然な高さ、やや斜め前から撮影。標準〜中望遠寄りの自然な画角で、身体を誇張しない遠近感を優先する。背景は軽く整理しつつ、海辺のロケーションが十分分かる程度に残す。\n\n【光・色・質感・雰囲気】  \n主光源は昼の太陽光で、やや斜め上から人物へ当たる。手すりや路面からの反射光が顔や腕の影をやわらかく持ち上げ、肩や脚元には自然な影を落とす。  \n色調は海と空の爽やかなブルー、遊歩道やベンチのナチュラルな質感、ミルキーピンクの衣装がやさしく調和する構成。肌は自然な血色、髪はしなやかな毛流れ、レースは繊細、木や金属や水面はそれぞれ異なる素材感を丁寧に描写し、明るく上品で風通しのよい雰囲気にまとめる。\n\n【品質・除外要素】  \n高解像度で、実在するカメラで撮影したような自然な人体、遠近感、光、素材感を重視する。  \n未成年に見える表現、幼すぎる顔立ち、不自然な身体、余分な手足や指、不自然な関節、衣装の破綻、身体と衣装の融合、意図しない露出、極端な広角歪み、過度な美肌加工、文字・ロゴ・透かし・UI表示は避ける。胸元は豊かな自然なボリュームを保ちつつ、不自然に巨大、硬い球体状、過度な押し上げにならないようにする。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTQX7dXbEAAAmCT.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTQX7dXbEAAAmCT.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 19,
+      "repostCount": 1,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 1167
+    },
+    "matchedRuleIds": [
+      "custom:ja:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/muse_ai_prompt/status/2104333251720667547",
+  "coverUrl": "https://pbs.twimg.com/media/HTQX7dXbEAAAmCT.jpg",
+  "coverPath": "images/2104333251720667547-1.jpg",
+  "imagePaths": [
+    "images/2104333251720667547-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "identified",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HTQX7dXbEAAAmCT",
+    "x-post:2104333251720667547"
+  ],
+  "analysis": {
+    "summary": "海辺の遊歩道のベンチ横でかごバッグを探しながらふと笑顔で顔を上げる、ミルキーピンクの小花刺繍レースランジェリーを身に着けた日本人女性の高品質フォトリアルポートレートプロンプト。",
+    "summaryEn": "A detailed photorealistic portrait prompt depicting a Japanese woman in milky pink floral lace lingerie smiling and looking up while searching her straw bag beside a seaside bench on a sunny afternoon.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "The generated image precisely reflects the prompt: a full-body photograph of a smiling Japanese woman with shoulder-length wavy hair standing next to a seaside bench on a paved walkway, holding a straw basket bag, wearing milky-pink lace lingerie with floral accents against a sunny blue sea and horizon."
+    },
+    "videoQuality": null,
+    "originalPrompt": "🌟海辺のベンチでふと見上げる、潮風とミルキーピンクの午後🌟\n\n【主題・画風】  \n海沿いの遊歩道に置かれたベンチのそばで、バッグを探す途中に恋人の気配で顔を上げた一瞬を描く。フォトリアルで、スマホや日常スナップより少し丁寧に撮った写真集風の表現。  \n生活感のある自然な所作と、海辺らしい爽やかさ、上品で親しみやすい女性らしさが同時に伝わる一枚にする。\n\n【場所・背景・世界観】  \n昼の海沿いのベンチ横。木製ベンチ、座面に置かれたかごバッグ、石張りの遊歩道、低い手すり、その向こうに広がる青い海と空を配置する。  \n背景は開放感のある海辺の景色を見せつつ、主役の人物が埋もれないよう整理する。遠景には白波や水平線、海辺の街並みを控えめに入れ、明るいリゾート感を添える。\n\n【季節・時間・天候】  \n季節は初夏から夏の昼。空気は明るく澄み、海風が心地よく吹く晴天。  \n日差しは強すぎず、カラッとした昼の光が場面全体を照らす。髪やレースの縁が風でわずかに動き、穏やかな活動感を生む。\n\n【人物設定】  \n20〜28歳ほどの明確に成人した日本人女性。柔らかく整った顔立ちで、黒目がちな瞳、自然な眉、血色のよい唇。暗めのブラウンの肩までのゆるいウェーブヘアで、数本の後れ毛が風に揺れる。  \n肌は明るいオークル系で、過度に加工しない自然な質感。体型は華奢さの中に女性らしい曲線がある上品で自然なグラマラス体型。細めのウエストと全身の調和を保ちつつ、胸元は豊かな自然なボリュームを持ち、姿勢と衣装になじむ柔らかな立体感として表現する。\n\n【衣装・アクセサリー】  \nミルキーピンク地に、白と淡いサックスブルーの小花刺繍を散らしたワコール系のレースブラジャーとショーツ。繊細なレースの縁取りと刺繍が上品で、甘すぎず清潔感のある印象。  \n生地は身体に自然に沿う現実的なサイズ感で、胸元や腰まわりにも無理なくフィットし、レースや刺繍が引き伸ばされたり歪んだりしない。アクセサリーは華奢なネックレス程度にとどめ、バッグはナチュラル素材のかごバッグとする。\n\n【ポーズ・動作・視線】  \nベンチの横に立ち、身体は斜め前向き。重心はやや右脚に置き、左脚は少し前へ出して自然に力を抜く。上体は軽く前傾し、探し物の途中らしい流れを残す。  \n右手はバッグの中へ入れたまま、左手はバッグの縁を軽く押さえる。恋人の声に気づいた瞬間として、手の動きは止まり、顔だけをふっと上げてカメラ方向を見る。不自然な反り腰や極端なねじれは避ける。\n\n【表情・感情】  \n見つけた相手にほっとしたような、やさしく親しみやすい笑み。口元は自然にゆるみ、歯を見せすぎない軽い微笑みとする。  \n目元には安心感と少しのうれしさをにじませ、驚きすぎず作り込みすぎない表情にする。恋人に気づいた日常の一瞬として、気取らない温度感を大切にする。\n\n【構図・カメラ】  \nX投稿向け4:5の縦長。頭頂部から足先まで余裕をもって収めたフルボディ構図で、ベンチ、バッグ、手元の位置関係がきちんと分かる距離感にする。  \nカメラ高は胸〜肩あたりに近い自然な高さ、やや斜め前から撮影。標準〜中望遠寄りの自然な画角で、身体を誇張しない遠近感を優先する。背景は軽く整理しつつ、海辺のロケーションが十分分かる程度に残す。\n\n【光・色・質感・雰囲気】  \n主光源は昼の太陽光で、やや斜め上から人物へ当たる。手すりや路面からの反射光が顔や腕の影をやわらかく持ち上げ、肩や脚元には自然な影を落とす。  \n色調は海と空の爽やかなブルー、遊歩道やベンチのナチュラルな質感、ミルキーピンクの衣装がやさしく調和する構成。肌は自然な血色、髪はしなやかな毛流れ、レースは繊細、木や金属や水面はそれぞれ異なる素材感を丁寧に描写し、明るく上品で風通しのよい雰囲気にまとめる。\n\n【品質・除外要素】  \n高解像度で、実在するカメラで撮影したような自然な人体、遠近感、光、素材感を重視する。  \n未成年に見える表現、幼すぎる顔立ち、不自然な身体、余分な手足や指、不自然な関節、衣装の破綻、身体と衣装の融合、意図しない露出、極端な広角歪み、過度な美肌加工、文字・ロゴ・透かし・UI表示は避ける。胸元は豊かな自然なボリュームを保ちつつ、不自然に巨大、硬い球体状、過度な押し上げにならないようにする。",
+    "sourceRange": {
+      "start": 246,
+      "end": 2046
+    },
+    "translations": {
+      "zh": "🌟在海边的长椅上蓦然抬头，海风与乳粉色的午后🌟\n\n【主题・画风】\n描绘在海边步道长椅旁，正在翻找包包途中因察觉到恋人而抬起头的一瞬间。写真写实风格，表现出比手机随拍或日常抓拍更为精致的写真集质感。呈现出具有生活气息的自然举止、海边独有的清爽感以及优雅亲切的女性气质。\n\n【地点・背景・世界观】\n白天的海边长椅旁。设置木质长椅、放在椅面上的草编包、石砌步道、低矮栏杆，以及前方延展的蔚蓝大海与天空。背景展现开阔的海滨风光，同时进行整理以避免淹没主体人物。远景适度融入白浪、地平线和海滨街景，增添明亮的度假感。\n\n【季节・时间・天气】\n初夏至夏日的白天。空气明净澄澈，海风微拂的晴天。日光不过于强烈，清爽的日光照亮整个场景。发丝与蕾丝边缘随风轻微摆动，带来宁静的动态感。\n\n【人物设定】\n20至28岁明确成年的日本女性。面容柔和端正，黑眸，眉形自然，嘴唇富有气色。深棕色及肩微卷发，几缕碎发随风飘动。肤色呈明亮赭石色调，质感自然不经过度修饰。体态纤细中带有优雅自然的丰腴曲线，保持纤细腰身与整体协调，胸部呈现自然丰满的立体感。\n\n【服装・配饰】\n乳粉色底色、点缀白色与淡天蓝色小碎花刺绣的蕾丝文胸与内裤。精致的蕾丝包边与刺绣典雅干净，不过分甜腻。面料贴合身躯，尺码自然写实，配饰仅佩戴一条精致纤细的项链，包包为天然材质的草编包。\n\n【姿势・动作・视线】\n立于长椅旁，身体呈斜前方。重心略在右脚，左脚微前伸自然放松。上半身轻微前倾，保留翻找物品时的连贯姿势。右手留在包内，左手轻扶包边。在听到恋人声音的瞬间动作停滞，仅抬起脸望向镜头方向。避免不自然的挺腰或过分扭转。\n\n【表情・情绪】\n看到对方时如释重负、温柔且具亲和力的微笑。嘴角自然放松，轻微含笑不过分露齿。眼神透出安心与些许喜悦。\n\n【构图・镜头】\n适合社交媒体的4:5纵向构图。全身入镜，头顶至脚尖均有余量，清晰呈现长椅、包包与手部的位置关系。机位在胸肩附近，略斜前方拍摄，标准至中长焦视场，避免夸张透视。\n\n【光影・色彩・质感・氛围】\n主光源为白天的斜上方日光。栏杆与路面反光柔和照亮阴影，投下自然阴影。色彩由海天蔚蓝、步道与长椅的原木质感、乳粉色服饰温柔交织。\n\n【品质・排除元素】\n高分辨率，注重真实相机拍摄般的自然质感。排除幼态脸庞、未成年外观、畸形肢体、过度磨皮、文字水印等瑕疵。",
+      "en": "🌟Looking up beside a seaside bench, a sea breeze and milky pink afternoon🌟\n\n[Theme / Style]\nDepicting a moment beside a bench on a coastal promenade where a woman, searching through her bag, looks up upon sensing her partner. Photorealistic style with a photobook aesthetic slightly more polished than casual smartphone snapshots. Conveying natural, lived-in gestures, seaside freshness, and an elegant, approachable femininity.\n\n[Location / Background / Worldview]\nBeside a seaside bench during daytime. Featuring a wooden bench, a woven straw bag on the seat, a stone-paved promenade, low handrails, and the blue ocean and sky stretching beyond. Background is composed to show open coastal scenery without overwhelming the subject, with distant waves, horizon, and subtle coastal townscape.\n\n[Season / Time / Weather]\nEarly summer to summer midday. Bright, clear air and sunny weather with a gentle sea breeze. Natural bright daylight illuminates the entire scene, lightly fluttering hair and lace edges.\n\n[Character Settings]\nClearly adult Japanese woman in her 20s to 28s. Soft and well-proportioned facial features, dark eyes, natural eyebrows, and healthy lips. Shoulder-length dark brown wavy hair with stray strands swaying in the wind. Natural bright ochre skin texture. Slender yet gracefully curved, naturally glamorous physique.\n\n[Outfit / Accessories]\nMilky pink lace bra and panties with white and pale sax blue small floral embroidery. Realistic fit that contours naturally. Minimal accessories like a delicate necklace, accompanied by a natural woven straw tote bag.\n\n[Pose / Action / Gaze]\nStanding beside the bench angled slightly forward. Right hand inside the bag, left hand lightly touching the rim. Looking up toward the camera upon hearing her lover's call, halting her motion naturally.\n\n[Expression / Emotion]\nA gentle, friendly smile of relief and warmth upon spotting her companion, with subtle happiness in the eyes.\n\n[Composition / Camera]\n4:5 vertical framing. Full-body shot capturing from head to toe with balanced spacing around the bench, bag, and hands. Shot at chest-to-shoulder height from a slight diagonal angle using standard to medium-telephoto perspective.\n\n[Lighting / Color / Texture / Atmosphere]\nDaylight sun as primary light source, soft ambient bounce from surfaces. Refreshing blue ocean/sky balanced with earthy bench tones and milky pink outfit.\n\n[Quality / Negative Elements]\nHigh resolution, authentic photographic realism. Avoiding underage looks, anatomical errors, extra limbs, over-smoothed skin, or text/watermarks."
+    },
+    "targetModels": [
+      "grok"
+    ],
+    "category": "text-to-image",
+    "useCase": "AI photography generation prompt for a photorealistic seaside portrait of a Japanese woman.",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [
+        "lingerie"
+      ],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "identified"
+  }
+}

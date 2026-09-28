@@ -1,0 +1,121 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:33:08.930Z",
+  "model": "unknown-image",
+  "prompt": "将输入照片制作成 3:4 竖版“原照片＋影窗半调叠印重绘”海报。上半约 42%–50% 保留未经重绘的原始照片，保持主体数量、身份、姿态、动作方向、建筑/地形结构、视角、光线和关键色彩，只做轻微出版物调色；中间使用克制的暖纸色边界，不添加原图或 AI 图角标。\n下半从照片中提炼一个偏置的大尺度幽影主形：人物保留准确轮廓和动作，动物保留姿态，建筑和风景提炼天际线或主要结构，食物和器物提炼外轮廓与摆放关系。幽影由深炭黑、烟褐或照片中最深色的粗半调网点、碳粉颗粒、干刷边、局部反白和轻微水平吸墨拖影构成，不得是平滑矢量黑块。\n围绕幽影叠放 2–5 个不同比例的矩形观察窗，每个窗口只放大输入照片中可追溯的真实局部，例如手部、屋檐、树叶、道路、水面、动物眼睛、食物纹理或器物细节。观察窗可错位、相交、局部越过幽影边缘，但不可形成九宫格或规则网格。\n下半为暖象牙、旧米白或浅灰纸面，表现纸浆纤维、污渍、折痕、磨耗和旧印刷吸墨痕。窗口使用从原图提取的低饱和专色，表现轻微套印偏移、透明叠色和半调颗粒。保留 25%–40% 留白，并加入主标题、HALFTONE STUDY 及一句不超过 8 个英文词的观察句。不要荧光霓虹、纯双色平涂、Logo、二维码、水印或乱码。",
+  "promptTranslations": {
+    "en": "Transform the input photo into a 3:4 vertical poster featuring 'original photo + shadow-window halftone overprint reinterpretation'. The upper approximately 42%–50% preserves the un-redrawn original photograph, maintaining the number of subjects, identities, postures, movement directions, architectural/terrain structures, perspectives, lighting, and key colors, with only subtle publication color grading applied; use a restrained warm paper-toned boundary in the middle, without adding original-photo or AI-image corner badges. The lower half extracts an off-center, large-scale silhouette primary shape from the photo: preserve accurate silhouettes and actions for humans, postures for animals, skylines or primary structures for architecture and landscapes, and outer contours and placement relationships for food and objects. The silhouette is composed of coarse halftone dots in deep charcoal black, smoky brown, or the darkest tones from the photo, toner grain, dry-brush edges, localized negative reversals, and subtle horizontal ink-bleed dragging, and must not be a smooth vector black mass. Overlay 2–5 rectangular observation windows of varying proportions around the silhouette; each window magnifies only traceable, authentic details from the input photo, such as hands, eaves, leaves, roads, water surfaces, animal eyes, food textures, or utensil details. The observation windows can be staggered, intersecting, or partially extending beyond the silhouette's edges, but must not form a 3x3 grid or regular grid. The lower half features a warm ivory, aged off-white, or light gray paper ground, exhibiting pulp fibers, stains, creases, wear, and vintage print ink-bleed marks. The windows use desaturated spot colors extracted from the original image, showing subtle registration offset, transparent overprinting, and halftone grain. Retain 25%–40% negative space, and incorporate a main title, HALFTONE STUDY, and an observation sentence of no more than 8 English words. No fluorescent neon, pure two-tone flat fills, logos, QR codes, watermarks, or garbled text."
+  },
+  "summaryTranslations": {
+    "en": "A 3:4 vertical poster prompt: the upper half preserves the original image, while the lower half employs an overprinted reinterpretation with halftone silhouettes and multiple rectangular detail observation windows, creating a vintage newspaper print and experimental editorial layout style."
+  },
+  "translationVersion": 2,
+  "summary": "3:4 竖版海报提示词，上半部保留原图，下半部采用半调幽影与多个矩形局部观察窗叠印重绘，营造旧报纸印刷与实验编辑排版风格。",
+  "summaryEn": "A prompt for a 3:4 vertical poster combining the original photo on top with halftone silhouettes, observation cutout windows, and vintage print textures below.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104189310576808155",
+    "canonicalUrl": "https://x.com/Hamburgerai/status/2104189310576808155",
+    "author": {
+      "username": "Hamburgerai",
+      "displayName": "蛋黄堡",
+      "profileUrl": "https://x.com/Hamburgerai"
+    },
+    "publishedAt": "2026-09-27T12:40:00.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "zh",
+    "originalText": "【SHADOW WINDOW HALFTONE｜影窗半调叠印风】\n\n旧纸与错版把它们组织成实验性编辑版面，我个人很喜欢这种拼接报纸的风格\n\nprompt：\n将输入照片制作成 3:4 竖版“原照片＋影窗半调叠印重绘”海报。上半约 42%–50% 保留未经重绘的原始照片，保持主体数量、身份、姿态、动作方向、建筑/地形结构、视角、光线和关键色彩，只做轻微出版物调色；中间使用克制的暖纸色边界，不添加原图或 AI 图角标。\n下半从照片中提炼一个偏置的大尺度幽影主形：人物保留准确轮廓和动作，动物保留姿态，建筑和风景提炼天际线或主要结构，食物和器物提炼外轮廓与摆放关系。幽影由深炭黑、烟褐或照片中最深色的粗半调网点、碳粉颗粒、干刷边、局部反白和轻微水平吸墨拖影构成，不得是平滑矢量黑块。\n围绕幽影叠放 2–5 个不同比例的矩形观察窗，每个窗口只放大输入照片中可追溯的真实局部，例如手部、屋檐、树叶、道路、水面、动物眼睛、食物纹理或器物细节。观察窗可错位、相交、局部越过幽影边缘，但不可形成九宫格或规则网格。\n下半为暖象牙、旧米白或浅灰纸面，表现纸浆纤维、污渍、折痕、磨耗和旧印刷吸墨痕。窗口使用从原图提取的低饱和专色，表现轻微套印偏移、透明叠色和半调颗粒。保留 25%–40% 留白，并加入主标题、HALFTONE STUDY 及一句不超过 8 个英文词的观察句。不要荧光霓虹、纯双色平涂、Logo、二维码、水印或乱码。",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTN5opPakAA9U-K.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTN5opPakAA9U-K.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTN5opPaYAArGVc.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTN5opPaYAArGVc.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTN5opObIAATjix.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTN5opObIAATjix.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTN5opOacAA4Bf9.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTN5opOacAA4Bf9.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 11,
+      "repostCount": 0,
+      "replyCount": 1,
+      "quoteCount": 0,
+      "viewCount": 548
+    },
+    "matchedRuleIds": [
+      "custom:zh:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]:backfill24h"
+    ]
+  },
+  "xUrl": "https://x.com/Hamburgerai/status/2104189310576808155",
+  "coverUrl": "https://pbs.twimg.com/media/HTN5opPakAA9U-K.jpg",
+  "coverPath": "images/2104189310576808155-1.jpg",
+  "imagePaths": [
+    "images/2104189310576808155-1.jpg",
+    "images/2104189310576808155-2.jpg",
+    "images/2104189310576808155-3.jpg",
+    "images/2104189310576808155-4.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HTN5opPakAA9U-K",
+    "x-image:/media/HTN5opPaYAArGVc",
+    "x-image:/media/HTN5opObIAATjix",
+    "x-image:/media/HTN5opOacAA4Bf9",
+    "x-post:2104189310576808155"
+  ],
+  "analysis": {
+    "summary": "3:4 竖版海报提示词，上半部保留原图，下半部采用半调幽影与多个矩形局部观察窗叠印重绘，营造旧报纸印刷与实验编辑排版风格。",
+    "summaryEn": "A prompt for a 3:4 vertical poster combining the original photo on top with halftone silhouettes, observation cutout windows, and vintage print textures below.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "配图完整展现了上半部原始摄影、中间纸张边界、下半部大尺度半调幽影剪影、多个错位观察窗、HALFTONE STUDY 标题与短句排版，与提示词描述完全一致。"
+    },
+    "videoQuality": null,
+    "originalPrompt": "将输入照片制作成 3:4 竖版“原照片＋影窗半调叠印重绘”海报。上半约 42%–50% 保留未经重绘的原始照片，保持主体数量、身份、姿态、动作方向、建筑/地形结构、视角、光线和关键色彩，只做轻微出版物调色；中间使用克制的暖纸色边界，不添加原图或 AI 图角标。\n下半从照片中提炼一个偏置的大尺度幽影主形：人物保留准确轮廓和动作，动物保留姿态，建筑和风景提炼天际线或主要结构，食物和器物提炼外轮廓与摆放关系。幽影由深炭黑、烟褐或照片中最深色的粗半调网点、碳粉颗粒、干刷边、局部反白和轻微水平吸墨拖影构成，不得是平滑矢量黑块。\n围绕幽影叠放 2–5 个不同比例的矩形观察窗，每个窗口只放大输入照片中可追溯的真实局部，例如手部、屋檐、树叶、道路、水面、动物眼睛、食物纹理或器物细节。观察窗可错位、相交、局部越过幽影边缘，但不可形成九宫格或规则网格。\n下半为暖象牙、旧米白或浅灰纸面，表现纸浆纤维、污渍、折痕、磨耗和旧印刷吸墨痕。窗口使用从原图提取的低饱和专色，表现轻微套印偏移、透明叠色和半调颗粒。保留 25%–40% 留白，并加入主标题、HALFTONE STUDY 及一句不超过 8 个英文词的观察句。不要荧光霓虹、纯双色平涂、Logo、二维码、水印或乱码。",
+    "sourceRange": {
+      "start": 78,
+      "end": 606
+    },
+    "translations": {
+      "zh": "将输入照片制作成 3:4 竖版“原照片＋影窗半调叠印重绘”海报。上半约 42%–50% 保留未经重绘的原始照片，保持主体数量、身份、姿态、动作方向、建筑/地形结构、视角、光线和关键色彩，只做轻微出版物调色；中间使用克制的暖纸色边界，不添加原图或 AI 图角标。\n下半从照片中提炼一个偏置的大尺度幽影主形：人物保留准确轮廓和动作，动物保留姿态，建筑和风景提炼天际线或主要结构，食物和器物提炼外轮廓与摆放关系。幽影由深炭黑、烟褐或照片中最深色的粗半调网点、碳粉颗粒、干刷边、局部反白和轻微水平吸墨拖影构成，不得是平滑矢量黑块。\n围绕幽影叠放 2–5 个不同比例的矩形观察窗，每个窗口只放大输入照片中可追溯的真实局部，例如手部、屋檐、树叶、道路、水面、动物眼睛、食物纹理或器物细节。观察窗可错位、相交、局部越过幽影边缘，但不可形成九宫格或规则网格。\n下半为暖象牙、旧米白或浅灰纸面，表现纸浆纤维、污渍、折痕、磨耗和旧印刷吸墨痕。窗口使用从原图提取的低饱和专色，表现轻微套印偏移、透明叠色和半调颗粒。保留 25%–40% 留白，并加入主标题、HALFTONE STUDY 及一句不超过 8 个英文词的观察句。不要荧光霓虹、纯双色平涂、Logo、二维码、水印或乱码。",
+      "en": "Create a 3:4 vertical poster combining the original photo with halftone overprint reimagining. The upper 42%–50% preserves the unedited original photo with subtle publication color grading and a muted warm paper boundary. The lower half features a large-scale silhouette extracted from the photo rendered in dark halftone dots, toner grain, dry-brush edges, and slight ink drags. Overlay 2–5 irregular rectangular observation windows showing magnified real details from the original photo. The lower section uses warm ivory paper texture with fiber and ink stains, overprinted spots, generous negative space, a main title, 'HALFTONE STUDY', and a short caption under 8 words. Avoid neon colors, flat fills, logos, or watermarks."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "海报排版设计与照片半调叠印重绘",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}

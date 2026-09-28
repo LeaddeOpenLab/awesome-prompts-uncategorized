@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "storedAt": "2026-09-28T02:31:01.379Z",
+  "model": "unknown-image",
+  "prompt": "an intricate cyberpunk illustration of a pilot reclining in a cockpit filled with wires and hoses. the pilot is wearing glowing orange visor glasses, a gold metallic textured jacket, jeans, and brass mechanical leg braces that cover their shins and knees. multiple gold necklaces are visible. to the right, a glowing blue monitor displays data waves. the overall color palette features warm golds and oranges contrasted against cool blues and dark metallic tones.",
+  "promptTranslations": {
+    "en": "an intricate cyberpunk illustration of a pilot reclining in a cockpit filled with wires and hoses. the pilot is wearing glowing orange visor glasses, a gold metallic textured jacket, jeans, and brass mechanical leg braces that cover their shins and knees. multiple gold necklaces are visible. to the right, a glowing blue monitor displays data waves. the overall color palette features warm golds and oranges contrasted against cool blues and dark metallic tones."
+  },
+  "summaryTranslations": {
+    "en": "Cyberpunk illustration of a pilot in a cockpit with glowing visor, gold jacket, and brass mechanical leg braces."
+  },
+  "translationVersion": 2,
+  "summary": "Cyberpunk illustration of a pilot in a cockpit with glowing visor, gold jacket, and brass mechanical leg braces.",
+  "summaryEn": "Cyberpunk illustration of a pilot in a cockpit with glowing visor, gold jacket, and brass mechanical leg braces.",
+  "post": {
+    "postKind": "original",
+    "repostOf": null,
+    "quotedPost": null,
+    "id": "2104346848970317996",
+    "canonicalUrl": "https://x.com/RobotCleopatra/status/2104346848970317996",
+    "author": {
+      "username": "RobotCleopatra",
+      "displayName": "Skipper VanderWall",
+      "profileUrl": "https://x.com/RobotCleopatra"
+    },
+    "publishedAt": "2026-09-27T23:06:00.000Z",
+    "collectedAt": "2026-09-28T02:05:25.084Z",
+    "language": "en",
+    "originalText": "MASTER PROMPT\nan intricate cyberpunk illustration of a pilot reclining in a cockpit filled with wires and hoses. the pilot is wearing glowing orange visor glasses, a gold metallic textured jacket, jeans, and brass mechanical leg braces that cover their shins and knees. multiple gold necklaces are visible. to the right, a glowing blue monitor displays data waves. the overall color palette features warm golds and oranges contrasted against cool blues and dark metallic tones.",
+    "media": [
+      {
+        "type": "image",
+        "url": "https://pbs.twimg.com/media/HTMn9hzWYAA0xRt.jpg",
+        "thumbnailUrl": "https://pbs.twimg.com/media/HTMn9hzWYAA0xRt.jpg"
+      }
+    ],
+    "metrics": {
+      "likeCount": 17,
+      "repostCount": 0,
+      "replyCount": 2,
+      "quoteCount": 1,
+      "viewCount": 591
+    },
+    "matchedRuleIds": [
+      "custom:en:or:[\"seedance prompt\",\"image2.5 prompt\",\"seedance\",\"image2.5\",\"prompt\"]"
+    ]
+  },
+  "xUrl": "https://x.com/RobotCleopatra/status/2104346848970317996",
+  "coverUrl": "https://pbs.twimg.com/media/HTMn9hzWYAA0xRt.jpg",
+  "coverPath": "images/2104346848970317996-1.jpg",
+  "imagePaths": [
+    "images/2104346848970317996-1.jpg"
+  ],
+  "distribution": {
+    "status": "pushed"
+  },
+  "modelStatus": "unknown",
+  "mediaCategory": "image",
+  "mediaFingerprints": [
+    "x-image:/media/HTMn9hzWYAA0xRt",
+    "x-post:2104346848970317996"
+  ],
+  "analysis": {
+    "summary": "Cyberpunk illustration of a pilot in a cockpit with glowing visor, gold jacket, and brass mechanical leg braces.",
+    "summaryEn": "Cyberpunk illustration of a pilot in a cockpit with glowing visor, gold jacket, and brass mechanical leg braces.",
+    "isAdvertisement": false,
+    "isAiGeneratedArtwork": true,
+    "promptValidation": {
+      "complete": true,
+      "reproducible": true,
+      "matchesMedia": true,
+      "missingElements": [],
+      "evidence": "Image exhibits all described features: reclining pilot, orange glowing visor, gold textured jacket, jeans, brass leg braces, blue monitor with waveforms, and matching palette."
+    },
+    "videoQuality": null,
+    "originalPrompt": "an intricate cyberpunk illustration of a pilot reclining in a cockpit filled with wires and hoses. the pilot is wearing glowing orange visor glasses, a gold metallic textured jacket, jeans, and brass mechanical leg braces that cover their shins and knees. multiple gold necklaces are visible. to the right, a glowing blue monitor displays data waves. the overall color palette features warm golds and oranges contrasted against cool blues and dark metallic tones.",
+    "sourceRange": {
+      "start": 14,
+      "end": 477
+    },
+    "translations": {
+      "zh": "一张复杂的赛博朋克插画，描绘了一位斜靠在布满电线和软管的驾驶舱内的飞行员。飞行员戴着发光的橙色遮阳护目镜，身穿金色金属质感夹克、牛仔裤，小腿和膝盖包裹着黄铜机械腿部支架，佩戴多条金项链。右侧发光的蓝色显示屏展示着数据波形。整体色调以暖金色和橙色为主，与冷蓝色和深色金属色调形成鲜明对比。",
+      "en": "an intricate cyberpunk illustration of a pilot reclining in a cockpit filled with wires and hoses. the pilot is wearing glowing orange visor glasses, a gold metallic textured jacket, jeans, and brass mechanical leg braces that cover their shins and knees. multiple gold necklaces are visible. to the right, a glowing blue monitor displays data waves. the overall color palette features warm golds and oranges contrasted against cool blues and dark metallic tones."
+    },
+    "targetModels": [
+      "模型未知"
+    ],
+    "category": "text-to-image",
+    "useCase": "cyberpunk character illustration",
+    "hasReusablePrompt": true,
+    "promptResultConsistency": 0.95,
+    "riskFlags": {
+      "safety": [],
+      "copyright": []
+    },
+    "mediaReview": "automated",
+    "mediaCategory": "image",
+    "modelStatus": "unknown"
+  }
+}
